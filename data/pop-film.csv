@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+3yV2c3cYhkAwSsxAq6nRiv,Gajendra Verma,Table No. 21 (Original Motion Picture Soundtrack),Mann Mera,74,200120,False,0.535,0.765,1,-7.862,0,0.0444,0.054,0.0,0.0921,0.373,191.827,4,pop-film
+6pzlnyHTVYi5FOmrgOmC95,Arijit Singh,Kedarnath,Jaan 'Nisaar (Arijit),71,238369,False,0.481,0.392,4,-8.2,1,0.0246,0.478,0.0,0.122,0.257,91.796,4,pop-film
+6zAvNLJkdyRApUHnlJjKfO,Ali Zafar,Jhoom,Jhoom - R&B Mix,73,298986,False,0.662,0.4,2,-11.2,1,0.0548,0.735,1.65e-05,0.0863,0.617,79.972,4,pop-film
+56zZ48jdyY2oDXHVnwg5Di,Arijit Singh,Aashiqui 2,Tum Hi Ho,71,261974,False,0.528,0.449,5,-6.25,0,0.025,0.785,0.0,0.122,0.317,94.058,4,pop-film
+0XwRlvv3KlOu4HWlOH34XG,Diljit Dosanjh,MoonChild Era,Lover,71,190000,False,0.827,0.587,9,-5.531,0,0.113,0.203,0.0,0.0727,0.774,119.936,4,pop-film
+0xkGTPTijMU84dtHr3KQQi,Arijit Singh;Nikhita Gandhi,Kedarnath,Qaafirana,71,341823,False,0.417,0.433,4,-8.958,1,0.0415,0.0726,0.0,0.123,0.207,169.92,4,pop-film
+3mZLiEDAHIjZ8ms5Lxq33F,Diljit Dosanjh,Drive Thru,Peaches,74,189176,False,0.663,0.478,4,-7.265,0,0.185,0.095,0.0,0.0705,0.341,85.264,4,pop-film
+7cWnks0lsRtpAi87COOiXK,Salim–Sulaiman;Rahat Fateh Ali Khan;Jaideep Sahni,Aaja Nachle,O Re Piya,71,379768,False,0.586,0.532,11,-8.837,0,0.0328,0.779,0.000565,0.124,0.494,99.994,4,pop-film
+0WdbnNKO0Jt4BZACSDQh44,Vishal-Shekhar;Arijit Singh;Shilpa Rao;Kumaar,"Ghungroo (From ""War"")","Ghungroo (From ""War"")",71,302935,False,0.695,0.727,6,-6.274,0,0.0323,0.0744,0.000175,0.533,0.864,118.034,4,pop-film
+0gPgdRfB4jdGrlyXS0Vx78,Vishal-Shekhar;KK;Shilpa Rao,Bachna Ae Haseeno,Khuda Jaane,72,333583,False,0.382,0.632,8,-6.393,1,0.0411,0.391,0.000486,0.0922,0.716,78.936,4,pop-film
+4iFPsNzNV7V9KJgcOX7TEO,Atif Aslam;Pritam,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Tu Jaane Na,72,341933,False,0.702,0.86,7,-3.969,1,0.0345,0.361,1.33e-06,0.133,0.829,120.042,4,pop-film
+2eTkxblLeqdTSsb2ivafDX,Ankit Tiwari;Manoj Muntashir,"Galliyan Returns (From ""Ek Villain Returns"")","Galliyan Returns (From ""Ek Villain Returns"")",77,350011,False,0.43,0.612,10,-5.534,0,0.0392,0.432,2.29e-06,0.0955,0.241,85.959,4,pop-film
+0ojpEubhy4JNeVftmVuiN7,Armaan Malik;Vishal Mishra,Kabir Singh,Pehla Pyaar,76,272532,False,0.607,0.713,4,-5.105,1,0.03,0.56,4.98e-05,0.101,0.611,124.868,4,pop-film
+2Fv2injs4qAm8mJBGaxVKU,Arijit Singh;Mithoon,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",72,284779,False,0.427,0.396,11,-7.556,1,0.0366,0.736,0.0,0.11,0.306,70.368,4,pop-film
+2GXXZFUxYg2LvG8SR0byOE,Atif Aslam,Badlapur (Original Motion Picture Soundtrack),Jeena Jeena,72,228969,False,0.682,0.344,5,-8.567,1,0.0281,0.789,0.0,0.121,0.548,104.984,4,pop-film
+4uK0M8AI6gyFmyzUneQpbi,A.R. Rahman;Arijit Singh;Shashaa Tirupati,"Rait Zara Si (From ""Atrangi Re"")","Rait Zara Si (From ""Atrangi Re"")",72,291462,False,0.563,0.495,2,-10.272,1,0.0362,0.781,0.0,0.0837,0.244,125.998,4,pop-film
+1Nr46gjiP50uPsz30gYhAd,Santhosh Narayanan;Anirudh Ravichander,"Thenmozhi (From ""Thiruchitrambalam"")","Thenmozhi (From ""Thiruchitrambalam"")",79,173225,False,0.764,0.532,9,-5.979,0,0.0491,0.598,0.0,0.26,0.859,123.95,4,pop-film
+3hkC9EHFZNQPXrtl8WPHnX,Alka Yagnik;Arijit Singh,Tamasha,Agar Tum Saath Ho,73,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,pop-film
+7sVEoPc5ZUUQerRkgTypUZ,Javed Ali;Devi Sri Prasad,"Srivalli (From ""Pushpa The Rise Part - 01"")","Srivalli (From ""Pushpa The Rise Part - 01"")",74,224072,False,0.787,0.603,9,-4.781,1,0.034,0.435,0.0,0.101,0.743,106.984,4,pop-film
+0tpwqQhdfJXRcUDSNRjb9O,Arijit Singh;Neeti Mohan;Rashmi Virag,"Mere Yaaraa (From ""Sooryavanshi"")","Mere Yaaraa (From ""Sooryavanshi"")",73,285163,False,0.324,0.539,2,-8.076,1,0.038,0.713,3.15e-05,0.118,0.486,120.526,4,pop-film
+5EYZZvmNAH5VZCwuzYJqoA,Jatin-Lalit;Shaan;Kailash Kher;Prasoon Joshi,Fanaa,Chand Sifarish,72,275931,False,0.829,0.665,2,-8.128,1,0.0868,0.242,1.75e-05,0.123,0.861,122.043,4,pop-film
+7eNSk0grNnO7MqjLZzs6MM,Mithoon;Arijit Singh;Neeti Mohan;Karan Malhotra,Shamshera,Fitoor,74,308459,False,0.516,0.481,0,-9.234,1,0.0433,0.819,2.87e-06,0.0893,0.212,138.997,4,pop-film
+4L6hCEc9xFf01U4d66JzK0,Armaan Malik,Tu/You - Spotify Singles,Tu / You,71,142511,False,0.717,0.471,9,-7.971,1,0.0348,0.792,1.24e-06,0.327,0.426,110.026,4,pop-film
+6mTvwBzWTGDOVeCNQEqtOE,Amaal Mallik;Arijit Singh;Tulsi Kumar,Airlift,Soch Na Sake,71,281322,False,0.505,0.667,9,-5.797,1,0.0323,0.597,0.0,0.213,0.516,151.728,4,pop-film
+6udC4b4jOSnHb9ItnXgKLR,Sachin-Jigar;Shreya Ghoshal;Tochi Raina,Shor in the City (Original Motion Picture Soundtrack),Saibo,73,195253,False,0.619,0.429,2,-7.867,1,0.028,0.738,1.35e-05,0.136,0.545,90.058,4,pop-film
+6gwnKOvdBKkTU4CQ7KpIAu,Shaarib Toshi;Arijit Singh,"Bandeya (feat. Arijit Singh) [From ""Dil Juunglee""]","Bandeya (feat. Arijit Singh) - From ""Dil Juunglee""",71,184666,False,0.465,0.551,7,-6.58,1,0.0362,0.619,6.03e-06,0.109,0.415,89.459,4,pop-film
+2kOH2QZB7F7I1iVXqwKuBF,Dhanush;Anirudh Ravichander,"Mayakkama Kalakkama (From ""Thiruchitrambalam"")","Mayakkama Kalakkama (From ""Thiruchitrambalam"")",77,142258,False,0.789,0.536,9,-5.422,0,0.0424,0.604,2.09e-06,0.088,0.877,124.029,4,pop-film
+4iEGv5Ne6HuCkFCjzxdWQK,Neeti Mohan;Sanjay Leela Bhansali,Gangubai Kathiawadi,Meri Jaan,72,238103,False,0.745,0.432,0,-8.092,0,0.0406,0.629,0.0,0.351,0.693,104.018,4,pop-film
+7H3mfOvtPNA8YDF3EdKy0L,Neeraj Shridhar;Kavita Seth,Cocktail (Original Motion Picture Soundtrack),Tum Hi Ho Bandhu,71,283693,False,0.715,0.89,11,-5.438,0,0.051,0.00111,0.000837,0.0297,0.891,134.994,4,pop-film
+1We89SAonMk70QBbfXERxa,Arko,Bareilly Ki Barfi,Nazm Nazm,71,226941,False,0.62,0.627,7,-6.187,1,0.0307,0.497,0.0,0.133,0.557,82.008,4,pop-film
+1hQia6rxgfM1ly2hE3StWp,Vishal-Shekhar;Salim Merchant;Neeti Mohan;Shekhar Ravjiani,Student of the Year (Original Motion Picture Soundtrack),Ishq Wala Love,70,257972,False,0.711,0.295,0,-12.377,0,0.0334,0.534,4.51e-05,0.0782,0.694,135.041,4,pop-film
+0dLbrlAVPPjpPqnYfmJsWk,Atif Aslam;Alisha Chinai;Pritam,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Tera Hone Laga Hoon,73,299827,False,0.684,0.771,8,-5.353,1,0.0307,0.548,0.0,0.112,0.539,119.982,4,pop-film
+5WzfGg2ueNoOS5aIkaR9qX,Arijit Singh;Rupali Moghe,Badhaai Do (Original Motion Picture Soundtrack),Atak Gaya - Arijit Singh,74,199407,False,0.4,0.366,6,-8.598,1,0.0342,0.87,0.00163,0.102,0.508,80.568,4,pop-film
+1O5mTSQa0sCce9ghhDqIZl,A.R. Rahman;Javed Ali,Jodhaa Akbar (Original Motion Picture Soundtrack),Jashn-E-Bahaaraa,70,315173,False,0.7,0.343,2,-10.474,1,0.0308,0.767,0.0,0.0789,0.488,137.864,4,pop-film
+0loZn1c5heXie7OAtvK6nH,Jubin Nautiyal;Rocky - Shiv,Humnava Mere,Humnava Mere,72,328992,False,0.401,0.553,5,-8.263,0,0.0337,0.47,2.96e-06,0.124,0.364,79.144,4,pop-film
+4qVStkAhz8A61r7bfLqPvM,Atif Aslam;Jyotica Tangri,Laila Majnu,O'Meri Laila,72,281856,False,0.577,0.812,8,-4.801,1,0.0535,0.158,0.0,0.25,0.758,160.1,3,pop-film
+72zHuDxFQTjbL51qJQSA7j,Jasleen Royal;B Praak;Romy;Anvita Dutt,"Ranjha (From ""Shershaah"")","Ranjha (From ""Shershaah"")",77,228855,False,0.603,0.573,1,-5.843,1,0.0502,0.478,0.0,0.0971,0.236,82.941,4,pop-film
+6TQS7URegxmcb8tTNpoXzi,Dhanush;Anirudh Ravichander,"Megham Karukatha (From ""Thiruchitrambalam"")","Megham Karukatha (From ""Thiruchitrambalam"")",80,290400,False,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,3,pop-film
+0bmp0lE3ArELHqda9PBMVG,Amit Trivedi;Kavita Seth;Amitabh Bhattacharya,I Love You...Forever,"Iktara (From ""Wake Up Sid"")",70,253773,False,0.616,0.525,7,-7.065,1,0.0258,0.401,0.000484,0.309,0.427,79.976,4,pop-film
+5QtQFSdyZEl0w4iDxAyv76,Amit Trivedi,Kedarnath,Namo Namo,71,322250,False,0.648,0.711,4,-6.216,1,0.0304,0.436,0.0,0.121,0.33,119.935,4,pop-film
+1pean7zvZUqcWZaUucH63f,Dhanush;Anirudh Ravichander,"Thaai Kelavi (From ""Thiruchitrambalam"")","Thaai Kelavi (From ""Thiruchitrambalam"")",76,258909,False,0.661,0.92,9,-3.469,0,0.188,0.0352,1.4e-05,0.314,0.494,82.508,4,pop-film
+0lNr0bkRupchqckGeSMSpZ,Yuvan Shankar Raja,"Veera Soora (From ""Naane Varuvean"")",Veera Soora,70,205145,False,0.518,0.723,2,-8.075,1,0.137,0.157,1.2e-05,0.107,0.363,100.118,4,pop-film
+1uJ2czshFLqimctgvsxfv2,A.R. Rahman;A. R. Reihana;Bamba Bakya,"Ponni Nadhi (From ""Ponniyin Selvan Part -1"") [Original Motion Picture Soundtrack]","Ponni Nadhi (From ""Ponniyin Selvan Part -1"") - Tamil",77,290526,False,0.687,0.637,10,-9.55,0,0.13,0.12,0.0,0.291,0.56,152.0,4,pop-film
+5urYiIXu1ZhfMAOsp7WDTc,Yasser Desai;Neha Kakkar;Rajat Nagpal,"Dil Ko Karaar Aaya (From ""Sukoon"")","Dil Ko Karaar Aaya (From ""Sukoon"")",77,231486,False,0.55,0.448,11,-9.117,1,0.0366,0.777,0.000459,0.111,0.388,147.986,4,pop-film
+3qrdLVOClRU4yPkcXZ7c5u,Ayushmann Khurrana;Tanishk-Vayu,"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")","Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",72,132158,False,0.701,0.638,6,-3.711,1,0.302,0.492,0.0,0.153,0.813,177.867,4,pop-film
+27nzJVsvXqXyeMIcVxvB54,Sathyaprakash;VM Mahalingam;Nakul Abhyankar,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Chola Chola,73,219638,False,0.623,0.655,5,-9.998,0,0.203,0.304,0.0,0.18,0.749,99.739,4,pop-film
+2FCXQHugkoHE1K3tiDu8pu,Alka Yagnik;Arijit Singh,Love Forever With Arijit Singh,"Agar Tum Saath Ho (From ""Tamasha"")",72,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,pop-film
+3i7qScF9Oyp31O9bAutJez,A.R. Rahman;Madhushree,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Mallipoo,79,245365,False,0.715,0.654,2,-7.266,1,0.336,0.196,0.000117,0.0667,0.762,175.589,3,pop-film
+3KeMulXbLDJBQdY5PZbGEh,A.R. Rahman;Shreya Ghoshal,Mimi (Original Motion Picture Soundtrack),Param Sundari,72,200218,False,0.815,0.761,4,-7.162,0,0.144,0.192,0.0,0.0272,0.82,121.999,4,pop-film
+78tblPcz2otRZd1VOeU7zz,Yuvan Shankar Raja;Sid Sriram,"Kanja Poovu Kannala (From ""Viruman"")","Kanja Poovu Kannala (From ""Viruman"")",74,237558,False,0.72,0.692,8,-6.354,1,0.0894,0.291,0.0,0.177,0.52,110.011,4,pop-film
+5FXMRdJjKq1BIX4e8Eg9mK,KK,Om Shanti Om,Ajab Si,69,241668,False,0.697,0.438,8,-8.411,1,0.0289,0.397,0.0,0.293,0.58,117.954,4,pop-film
+6f3ANRNQ8nCiPZ6VqXqq93,Amaal Mallik;Armaan Malik;Rashmi Virag,Main Rahoon Ya Na Rahoon,Main Rahoon Ya Na Rahoon,69,309457,False,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,3,pop-film
+7m4CgL81VVIHaaiSxyH922,Yo Yo Honey Singh,Desi Kalakaar,Desi Kalakaar,69,253352,False,0.751,0.67,0,-4.587,1,0.267,0.0796,0.00018,0.0908,0.766,156.062,4,pop-film
+6bdpj89aYEBjhpsenXAsmO,A.R. Rahman;Arijit Singh,OK Jaanu (Original Motion Picture Soundtrack),Enna Sona,71,213632,False,0.717,0.416,7,-9.875,0,0.0303,0.635,1.43e-06,0.0976,0.381,100.026,4,pop-film
+0JBhoxPKHJc1ZeJrjSt0VO,Gajendra Verma,Tera Ghata,Tera Ghata,68,254173,False,0.718,0.573,1,-7.309,0,0.0451,0.458,0.00533,0.0953,0.686,180.043,4,pop-film
+2L1OXzqVPpVxotHfLglUcB,Diljit Dosanjh;Tory Lanez;Ikky,Chauffeur,Chauffeur,71,205040,True,0.639,0.767,6,-4.997,1,0.0928,0.13,0.0,0.205,0.54,154.032,4,pop-film
+0gHFDbhx2RFBrhJplPxlcT,Diljit Dosanjh;Diamond Platnumz,Jugni,Jugni,68,193190,False,0.761,0.896,11,-3.668,0,0.215,0.0776,2.7e-06,0.124,0.65,96.957,4,pop-film
+7F8RNvTQlvbeBLeenycvN6,A.R. Rahman;Javed Ali;Mohit Chauhan,Rockstar,Kun Faya Kun,69,470500,False,0.362,0.378,1,-11.008,1,0.0329,0.679,0.0,0.091,0.575,87.549,4,pop-film
+4Tkb7zsDmsawB7S5TpKQV1,Atif Aslam;Shiraz Uppal,Pehli Dafa,Pehli Dafa,70,298771,False,0.679,0.537,4,-7.843,1,0.0322,0.844,3.34e-06,0.108,0.481,111.979,4,pop-film
+30CDYWqqitNHUa0DGaUeIE,Mithoon;Vishal Mishra;Asees Kaur,"Jaan Ban Gaye (From ""Khuda Haafiz"")",Jaan Ban Gaye,70,211673,False,0.537,0.419,11,-11.585,1,0.0414,0.76,1.07e-05,0.107,0.292,132.261,4,pop-film
+6ZoCBDOB308GqUdt2AJrV2,Shafqat Amanat Ali,Ra-One,Dildaara (Stand By Me),69,249660,False,0.622,0.779,9,-5.799,1,0.037,0.102,0.000934,0.145,0.761,100.013,4,pop-film
+455lcFHS2MOMKcGquhAf22,Ankit Tiwari;Tara Sutaria,"Shaamat (From ""Ek Villain Returns"")","Shaamat (From ""Ek Villain Returns"")",70,334173,False,0.537,0.628,10,-5.342,0,0.029,0.148,0.0,0.0355,0.514,97.87,4,pop-film
+4fgJe7zBjVXvs8HxtE21Y9,Arijit Singh;Harshdeep Kaur,Raees,Zaalima,71,299333,False,0.486,0.898,9,-3.791,1,0.171,0.309,0.0,0.0886,0.648,88.335,4,pop-film
+2vR23BjIzpLMtzsyKrM6Mb,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa Jhoomo Re,Saiyyan,70,343906,False,0.473,0.562,0,-8.624,1,0.0451,0.65,0.000117,0.12,0.316,74.653,3,pop-film
+5QtEFRYavs5S3GHtFEq7A4,Arijit Singh,Kabir Singh,Tujhe Kitna Chahne Lage,68,284779,False,0.395,0.397,11,-7.556,1,0.0368,0.735,0.0,0.11,0.303,70.568,4,pop-film
+3uL1IBFhg52VcQqOwAG01E,Arijit Singh;Chinmayi,2 States,Mast Magan,69,280161,False,0.659,0.774,7,-7.014,1,0.0372,0.606,0.000333,0.185,0.883,82.995,4,pop-film
+75p6BrziB5urmwPCeXl3y7,Arijit Singh,Heartless,Main Dhoondne Ko Zamaane Mein,69,262986,False,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,4,pop-film
+35P2Xal9x3GAdOHytyEUFe,Mithoon;Arijit Singh;Shashaa Tirupati,Half Girlfriend,Phir Bhi Tumko Chaahunga,70,351587,False,0.527,0.525,1,-8.106,1,0.0337,0.876,1.41e-05,0.172,0.257,99.638,4,pop-film
+2LcXJP95e4HKydTZ2mYfrx,Roop Kumar Rathod,Rab Ne Bana Di Jodi (Original),Tujh Mein Rab Dikhta Hai,71,281573,False,0.56,0.604,8,-8.732,1,0.0866,0.315,1.12e-06,0.176,0.75,84.784,4,pop-film
+0IudGhdeJZwJ0Ps6ndtQDt,Vishal-Shekhar;Udit Narayan;Mahalakshmi Iyer;Kausar Munir,Tashan,Falak Tak,68,356179,False,0.718,0.697,2,-6.474,0,0.135,0.634,1.53e-05,0.0563,0.62,143.907,4,pop-film
+6fScgF2Y63ScU73nYju0ny,Atif Aslam;Arko,"O Saathi (From ""Baaghi 2"")",O Saathi,71,251818,False,0.481,0.496,8,-7.421,1,0.0262,0.588,0.0,0.132,0.453,89.839,4,pop-film
+4kaLkst9lT3sQ5Crgxs3ic,Ayushmann Khurrana,Vicky Donor (Original Motion Picture Soundtrack),Pani Da Rang - Male Vocals,68,240786,False,0.441,0.618,4,-8.511,0,0.0386,0.295,6.65e-05,0.105,0.454,98.031,4,pop-film
+3nFCZ39UfurEsVPT7y5vvJ,Arijit Singh;Tulsi Kumar;Tanishk Bagchi;Kumaar,Dhokha Round D Corner,Mahi Mera Dil,29,180117,False,0.386,0.471,2,-9.65,1,0.0403,0.829,0.0,0.147,0.21,154.039,3,pop-film
+4XxfOvudrnBRdlgzEaq1sd,Diljit Dosanjh,G.O.A.T.,Born to Shine,69,213333,False,0.745,0.826,6,-4.339,0,0.0866,0.357,0.0,0.302,0.674,90.149,4,pop-film
+6nZiYSBwPQ7fYnVWkkkj4g,Jasleen Royal;Prateek Kuhad,Baar Baar Dekho (Original Motion Picture Soundtrack),Kho Gaye Hum Kahan,70,213055,False,0.778,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.033,4,pop-film
+0i20Mg4mcYjPfk3E3upbvs,Shreya Ghoshal;Vishal Mishra,Gulabi - Lofi,Gulabi - Lofi,36,188400,False,0.39,0.682,2,-7.31,1,0.119,0.38,0.000256,0.147,0.0942,150.025,4,pop-film
+7FcQRdlqMvAKmQH1SXCk1s,Mika Singh;Ali Quli Mirza,Ishqam,Ishqam,70,194418,False,0.735,0.839,10,-4.263,0,0.0381,0.129,0.0,0.41,0.609,100.017,4,pop-film
+5OMUXgfXsSukZ0zxelpC3b,A.R. Rahman;Jaswinder Singh;Shiraz Uppal,Raanjhanaa (Original Motion Picture Soundtrack),Raanjhanaa,69,254653,False,0.673,0.714,9,-8.042,1,0.039,0.111,0.0,0.0858,0.78,112.941,4,pop-film
+0u8wprNfOdcWpUlWnfMcpP,Shankar-Ehsaan-Loy;Rahat Fateh Ali Khan;Mahalakshmi Iyer;Gulzar,Jhoom Barabar Jhoom,Bol Na Halke Halke,68,306834,False,0.637,0.573,11,-6.69,0,0.0491,0.279,3.46e-06,0.0617,0.704,90.017,4,pop-film
+16BGhwv8wYXkv2mMJF7ryv,Ash King;Shashaa Tirupati,Half Girlfriend,Baarish,69,276380,False,0.465,0.769,0,-3.209,1,0.0325,0.581,0.0,0.108,0.473,87.961,4,pop-film
+7lGhrfren1Zpwh0ds0zuUg,Arijit Singh;Parampara Tandon,"Pal Pal Dil Ke Paas- Title Track (From ""Pal Pal Dil Ke Paas"")",Pal Pal Dil Ke Paas- Title Track,71,254516,False,0.56,0.512,1,-7.185,0,0.0333,0.592,0.0,0.056,0.39,123.991,4,pop-film
+4JQxGJ8jsKW8pOUVoAgOZr,Amit Trivedi,Andhadhun,Naina Da Kya Kasoor,69,210951,False,0.845,0.659,9,-6.348,1,0.0373,0.159,0.0129,0.0782,0.547,125.965,4,pop-film
+3HiobOOpSpMsi95WBKPBYk,Jeet Gannguli;Arijit Singh,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hamari Adhuri Kahani (Title Track),70,398799,False,0.223,0.359,0,-7.569,1,0.0312,0.845,0.0,0.133,0.193,73.059,4,pop-film
+3H3x4NhR3wJh6IvRHmPvkd,Thaman S;Srivardhini;Aditi Bhavaraju;Satya Yamini;Roshini JKV;Tejaswini,"Tum Tum (From ""Enemy - Tamil"")","Tum Tum (From ""Enemy - Tamil"")",70,228567,False,0.741,0.761,8,-5.414,1,0.143,0.759,0.000607,0.126,0.912,147.047,3,pop-film
+7un5s8HYQ9QJG1ClQtomNB,A.R. Rahman;Rama Priya Yegasivanathan,"Thallipogathey Female Cover Version (From ""Acham Enbadhu Madamayada"")","Thallipogathey Female Cover Version (From ""Acham Enbadhu Madamayada"")",42,303000,False,0.401,0.272,7,-11.872,0,0.0498,0.311,1.18e-06,0.147,0.0927,179.887,3,pop-film
+4381FmKZc1uT2zzhBiknH7,A.R. Rahman;Vagu Mazan;Thoughtsfornow,"Adheeraa (From ""Cobra"")","Adheeraa (From ""Cobra"")",70,259139,False,0.722,0.859,6,-8.143,0,0.039,0.11,7.39e-05,0.0929,0.562,110.969,4,pop-film
+7mLEUzAulFygMchoGMrP8E,A.R. Rahman;Sid Sriram;Sunitha Sarathy,I (Original Motion Picture Soundtrack),Ennodu Nee Irundhaal,68,352710,False,0.261,0.603,0,-6.733,1,0.0367,0.558,0.0,0.184,0.207,158.125,4,pop-film
+65dvxc4Kctq3JIJ2BkKKMj,Naresh Iyer;Shreya Ghoshal,Sillunu Oru Kadhal (Original Motion Picture Soundtrack ),Munbe Vaa,68,357006,False,0.602,0.758,1,-9.416,1,0.0324,0.25,3.93e-05,0.209,0.788,141.108,4,pop-film
+0DLvpi8qTOTbS7Qet7AsCi,Nakash Aziz;Mangli;B. Ajaneesh Loknath,"Ra Ra Rakkamma (From ""Vikrant Rona"")","Ra Ra Rakkamma (From ""Vikrant Rona"")",68,218418,False,0.832,0.962,7,-5.859,1,0.0959,0.517,0.00239,0.0857,0.359,130.006,4,pop-film
+57IXQJZFawJUwC2PCKn56Y,A.R. Rahman;Sathyaprakash;VM Mahalingam;Nakul Abhyankar,"Chola Chola (From ""Ponniyin Selvan Part -1"") [Original Motion Picture Soundtrack]","Chola Chola (From ""Ponniyin Selvan Part -1"")",69,219638,False,0.76,0.651,5,-9.997,0,0.173,0.308,0.0,0.177,0.714,99.955,4,pop-film
+0hNPo5brQ2MLlrdVKZfHK9,Thaman S;Sid Sriram,Kalaavathi - Sarkaru Vaari Paata,Kalaavathi,68,242322,False,0.392,0.574,5,-5.744,1,0.0336,0.627,0.0,0.532,0.446,65.528,4,pop-film
+3YRj4jmwois2ctPnhwSwFo,Bombay Jayashri,Minnalae,Vaseegara,68,299146,False,0.695,0.293,11,-16.278,0,0.0431,0.596,0.0158,0.132,0.637,143.804,4,pop-film
+6H7fLdt0AeWpuxUKXuXWrx,Hariharan,Shree Hanuman Chalisa (Hanuman Ashtak),Shree Hanuman Chalisa,68,586075,False,0.589,0.885,4,-3.4,1,0.035,0.545,0.0,0.132,0.831,91.01,4,pop-film
+1O5AqyUHm8vH8XGr173ugY,A.R. Rahman;Yogi Sekar,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Devaralan Aattam,69,273228,False,0.828,0.707,8,-9.517,1,0.362,0.303,0.0,0.0646,0.441,141.096,3,pop-film
+7tMn4y7eBEMcUFIWZPaHCM,Saindhavi;G. V. Prakash,Mayakkam Enna,Pirai Thedum,68,332711,False,0.638,0.631,4,-6.993,0,0.0353,0.624,0.0144,0.074,0.46,119.973,4,pop-film
+26aOnndLckt8uAsk6odL5n,Shreya Ghoshal;Palakad Sreeram;Mahesh Vinayakram,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Ratchasa Maamaney,71,289942,False,0.546,0.786,4,-9.486,1,0.212,0.349,1.35e-06,0.109,0.434,99.798,3,pop-film
+5TL3UHuEBRMPbAIAOiPJmc,Yuvan Shankar Raja;Udit Narayan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Enkeyoo Partha,68,320960,False,0.822,0.446,7,-8.899,0,0.0321,0.486,0.00102,0.147,0.654,119.994,4,pop-film
+7hMKAmUlUUYa5qEiHWK4bk,G. V. Prakash;Roop Kumar Rathod;Harini;Andrea Jeremiah,Madharasapattinam (Original Motion Picture Soundtrack),Pookkal Pookkum,68,396466,False,0.589,0.424,4,-12.006,0,0.0359,0.844,0.00381,0.169,0.561,119.823,4,pop-film
+4Jr0O3zgoKEk71sIlABkLp,A.R. Rahman;Thamarai,"Marakkuma Nenjam (From ""Vendhu Thanindhathu Kaadu"")","Marakkuma Nenjam - From ""Vendhu Thanindhathu Kaadu""",68,258319,False,0.662,0.394,2,-14.407,1,0.0361,0.789,0.124,0.111,0.326,119.938,4,pop-film
+3eFoAIpRrhGCEISQxnoNFI,Yuvan Shankar Raja;Aditi Shankar,Viruman (Original Motion Picture Soundtrack),Madura Veeran,67,229500,False,0.677,0.551,7,-9.477,1,0.0636,0.393,0.0,0.13,0.697,157.485,3,pop-film
+4r8JqkhpTb5tzSKKHnVJIJ,Mohit Chauhan;Shekhar Ravjiani;Shruti Pathak,Anjaana Anjaani,Tujhe Bhula Diya,67,279429,False,0.644,0.423,11,-8.702,0,0.0324,0.464,0.0,0.11,0.509,131.903,4,pop-film
+5fwRhPXAvGgzUxW62ZCvEg,Atif Aslam,Zeher,Woh Lamhe Woh Baatein,66,320040,False,0.465,0.822,8,-4.826,0,0.066,0.136,0.000442,0.0898,0.405,89.761,4,pop-film
+4qRcjFkFqSpLBzcbLDt7HL,Sona Mohapatra,Fukrey,Ambarsariya,67,248182,False,0.649,0.458,4,-7.632,0,0.0446,0.574,0.0,0.113,0.748,180.071,4,pop-film
+7tbzfR8ZvZzJEzy6v0d6el,Ritviz,Dev,Liggi,68,181176,False,0.786,0.667,5,-8.272,1,0.054,0.0112,0.053,0.074,0.688,102.046,4,pop-film
+5PvwPy5eRO8BPwpRzCHK3D,Ankit Tiwari,Aashiqui 2,Sunn Raha Hai,68,390222,False,0.394,0.641,0,-6.493,0,0.0312,0.276,0.0,0.0958,0.335,81.932,4,pop-film
+5uYHDSKVHfHxBLgYf4H6SH,Arijit Singh,Darlings (Original Motion Picture Soundtrack),La Ilaaj,67,264915,False,0.568,0.511,9,-8.57,1,0.0351,0.119,0.0,0.123,0.134,117.972,4,pop-film
+4IGfpRPTnhzZyL74Ilubrb,KK,Gangster,Tu Hi Meri Shab Hai,65,387947,False,0.568,0.726,9,-6.087,0,0.0366,0.491,0.000764,0.122,0.564,118.842,4,pop-film
+17opN752ZQpNuoptelsNQ1,Atif Aslam;Pritam,Race (Original Motion Picture Soundtrack),Pehli Nazar Mein,69,312892,False,0.488,0.57,9,-5.602,1,0.0775,0.251,0.0,0.107,0.668,169.702,4,pop-film
+1OEmd2iXU8pWG7CrKNpGUg,Arijit Singh,Ek Villain,Humdard,67,260590,False,0.572,0.541,5,-6.45,1,0.0245,0.759,0.0,0.111,0.266,87.01,4,pop-film
+6cvGDClEIomp5CfKY3pQuZ,Jubin Nautiyal,Dhokha Round D Corner,Tu Banke Hawa,32,288020,False,0.273,0.588,1,-9.564,0,0.0579,0.265,0.000307,0.178,0.138,88.045,4,pop-film
+7I6mwEFQwpTu5ciVZWFpd4,Mithoon;Arijit Singh,"Aashiqui Aa Gayi (From ""Radhe Shyam"")","Aashiqui Aa Gayi(From ""Radhe Shyam"")",67,260133,False,0.527,0.495,10,-7.783,0,0.0353,0.587,0.0,0.127,0.474,122.826,4,pop-film
+5MnAi6ZF7cE8pAz7wYr9Ta,Vishal-Shekhar;Julius Packiam;Atif Aslam;Irshad Kamil,Tiger Zinda Hai,Dil Diyan Gallan,68,260536,False,0.716,0.64,2,-8.726,1,0.025,0.565,0.00139,0.127,0.485,105.012,4,pop-film
+1kcV2LJxt5v0s2cEGtEJ5i,Mohit Chauhan,Rockstar,Phir Se Ud Chala,66,268833,False,0.647,0.656,11,-8.632,1,0.0354,0.657,0.000163,0.343,0.453,119.965,4,pop-film
+1fkjRQA8wXPPyxqYLbxuqy,Vishal-Shekhar;Sanam Puri;Shipra Goyal,Hasee Toh Phasee (Original Motion Picture Soundtrack),Ishq Bulaava,66,303640,False,0.579,0.713,7,-7.334,1,0.0318,0.617,3.33e-05,0.118,0.635,159.915,3,pop-film
+4t1DkxexoMbIHfSHS4Uiyr,Arijit Singh;Asees Kaur,Kesari,Ve Maahi,67,223999,False,0.65,0.551,0,-6.906,1,0.0274,0.405,0.0,0.219,0.294,102.934,4,pop-film
+2aV8nAkyt5nsWdQTruzgmJ,Arijit Singh;Manan Bhardwaj;Khushalii Kumar,Dhokha,Dhokha,67,245160,False,0.463,0.834,6,-3.726,0,0.129,0.29,0.0,0.0888,0.347,183.953,4,pop-film
+5F79ZdjOwGOhUKRHx94sr1,Mohit Chauhan,Love Aaj Kal (Original Motion Picture Soundtrack),Dooriyan,65,337360,False,0.523,0.714,7,-6.584,0,0.0511,0.633,0.0,0.0875,0.616,122.969,4,pop-film
+3f0wz6zcA7XkQiGm0qNF5r,Arijit Singh;Tanishk Bagchi,"Thodi Jagah (From ""Marjaavaan"")","Thodi Jagah (From ""Marjaavaan"")",67,218048,False,0.621,0.467,0,-4.835,0,0.0273,0.632,0.0,0.0888,0.227,107.164,4,pop-film
+4AoQVhME8Ko6LNm4lV2wwQ,Himesh Reshammiya;Vineet Singh;Aaman Trikha,Khiladi 786,Hookah Bar,67,254351,False,0.73,0.656,11,-5.07,1,0.0294,0.00797,0.00271,0.108,0.743,131.04,4,pop-film
+1YMLgvsQdE27r30q0fsLeV,Arijit Singh,Genius (Original Motion Picture Soundtrack),Tera Fitoor,66,310000,False,0.576,0.688,9,-5.136,1,0.0319,0.346,0.0439,0.262,0.726,135.984,4,pop-film
+324Y55zUTRSMdtFwc91csa,Vishal-Shekhar;Vishal Dadlani;Shekhar Ravjiani;Kumaar;Vayu,Jayeshbhai Jordaar,Firecracker,67,166600,False,0.838,0.63,9,-5.609,0,0.171,0.242,0.0,0.0719,0.64,100.986,4,pop-film
+7HPM13Xek5XoRWxRzHfvkB,Jubin Nautiyal;Meet Bros.;Shardul Rathod,Dil Galti Kar Baitha Hai,Dil Galti Kar Baitha Hai,67,273272,False,0.612,0.78,1,-5.123,0,0.0814,0.0781,0.0,0.0593,0.554,92.059,4,pop-film
+3FLJR1N1dxOYEpZCsTX8p6,Ayushmann Khurrana,Bareilly Ki Barfi,Nazm Nazm feat. Ayushmann Khurana,66,194634,False,0.555,0.496,9,-7.175,1,0.0329,0.64,0.0,0.0767,0.391,82.229,4,pop-film
+0og9wKFGgFFNQnrBe7eisG,Shankar Mahadevan;Alyssa Mendonsa,Karthik Calling Karthik,Uff Teri Adaa,67,304088,False,0.647,0.792,2,-9.815,1,0.0373,0.00536,5.82e-05,0.054,0.306,132.032,4,pop-film
+1r6sFC5J0p9r3jcfIoSGDM,Neha Kakkar;Jubin Nautiyal;Jaani,Taaron Ke Shehar,Taaron Ke Shehar,67,230082,False,0.441,0.61,9,-5.182,0,0.0404,0.238,0.0,0.101,0.348,79.736,4,pop-film
+3gOXq3FPPesm7VLPKmef6j,A.R. Rahman;Arijit Singh;Shashaa Tirupati,Atrangi Re,Rait Zara Si,68,291462,False,0.563,0.495,2,-10.272,1,0.0362,0.781,0.0,0.0837,0.244,125.998,4,pop-film
+4GrowvVL3xpUgfnXj6mVRH,Yasser Desai;Aakanksha Sharma,Shaadi Mein Zaroor Aana (Original Motion Picture Soundtrack),Jogi,67,273188,False,0.651,0.562,9,-5.787,1,0.0302,0.601,0.0,0.121,0.607,81.029,4,pop-film
+0stbF4C1ACmIvx0aW81ZXa,Nakash Aziz;Sunidhi Chauhan;B. Ajaneesh Loknath,"Ra Ra Rakkamma (From ""Vikrant Rona"")","Ra Ra Rakkamma (From ""Vikrant Rona"")",67,218343,False,0.839,0.972,7,-5.72,1,0.102,0.431,0.0002,0.0907,0.365,130.012,4,pop-film
+1yYM7dY6wSJFp5qmxPRLu1,Atif Aslam;Chinmayi;Pritam,Phata Poster Nikhla Hero (Original Motion Picture Soundtrack),Main Rang Sharbaton Ka,68,263152,False,0.631,0.631,6,-6.934,1,0.0307,0.693,0.0,0.133,0.697,89.975,4,pop-film
+4nX9XlGazE4EkOJQyrT64j,Yuvan Shankar Raja;Dhanush,"Rendu Raaja (From ""Naane Varuvean"")",Rendu Raaja,66,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,pop-film
+51EUKH2M1QGN50iGUlnxmU,Falguni Pathak,Maine Payal Hai Chhankai & Other Hits,Maine Payal Hai Chhankai,66,279026,False,0.651,0.708,4,-12.389,1,0.0512,0.0819,0.00301,0.0782,0.734,90.037,4,pop-film
+1ocYa8PoVd5e2vPn0xHJcA,Sohail Sen;Mohit Chauhan;Taraannum Mallik;Kausar Munir,Ek Tha Tiger,Saiyaara,67,252160,False,0.659,0.665,8,-8.181,0,0.0266,0.456,0.000486,0.0898,0.692,93.012,4,pop-film
+0LRcXYhaWLqbs1wvSV0o9u,Arko,Baar Baar Dekho (Original Motion Picture Soundtrack),Dariya,67,217992,False,0.581,0.424,8,-6.616,1,0.0269,0.723,0.0,0.101,0.352,98.936,4,pop-film
+4NmWv6PEGEAmorN5UN9fRo,Rahat Fateh Ali Khan,Love Aaj Kal (Original Motion Picture Soundtrack),Ajj Din Chadheya,67,315013,False,0.53,0.701,9,-4.54,1,0.0823,0.536,8.09e-06,0.118,0.818,171.856,4,pop-film
+4lmtILzOIIvOzMBPMUzvKx,Amaal Mallik;Arijit Singh;Shreya Ghoshal,"Heer Raanjhana (From ""Bachchhan Paandey"")","Heer Raanjhana (From ""Bachchhan Paandey"")",66,240117,False,0.432,0.614,0,-6.782,1,0.055,0.511,0.0,0.191,0.505,169.633,4,pop-film
+1rMEccgwbKt3qmAXeBqOyZ,Haricharan;Benny Dayal;Salim Kumar;Vishnu Vijay,"Ole Melody (From ""Thallumaala"")",Ole Melody,66,242005,False,0.752,0.452,0,-11.399,1,0.35,0.133,0.000194,0.236,0.833,99.684,4,pop-film
+1n1IDjxVczGQoNg4GMl670,A.R. Rahman;A. R. Reihana;Bamba Bakya,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Ponni Nadhi,68,290526,False,0.687,0.633,8,-9.552,1,0.141,0.119,0.0,0.291,0.567,151.996,4,pop-film
+2S6N9pbnkhQRyAx80HmF79,Mohammed Irfan,Best Of Shraddha Kapoor,"Banjaara (From ""Ek Villain"")",67,336567,False,0.657,0.489,1,-6.829,0,0.0306,0.713,0.0,0.124,0.399,116.0,4,pop-film
+4BOYIpYF7zTYtAkpjoD687,Atif Aslam,Rustom (Original Motion Picture Soundtrack),Tere Sang Yaara,68,286380,False,0.539,0.551,8,-7.351,1,0.0361,0.651,0.0,0.124,0.556,75.899,4,pop-film
+4c8erEn1DjLoDp0CRLkNnq,Jasleen Royal;Harshdeep Kaur;Siddharth Mahadevan,Baar Baar Dekho (Original Motion Picture Soundtrack),Nachde Ne Saare,67,194761,False,0.82,0.907,7,-4.517,1,0.0607,0.655,4.85e-05,0.0816,0.834,126.062,4,pop-film
+4vlMdXsRpAIXYggwbNHZSv,Harris Jayaraj;Hariharan;Devan Ekambaram;VV Prassanna,Vaaranam Aayiram (Original Motion Picture Soundtrack),Nenjukkul Peidhidum,66,369333,False,0.687,0.43,9,-10.31,1,0.0407,0.6,2.49e-06,0.132,0.241,115.01,4,pop-film
+7kcMEKsmqgfq68gSQk6F9c,A.R. Rahman;Antara Nandy,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Alaikadal,68,314207,False,0.441,0.308,11,-10.107,0,0.0407,0.958,0.000231,0.0638,0.292,149.593,3,pop-film
+2PvaburAUlhNHxVhw5lvOq,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Humdard (From ""Ek Villain"")",67,260590,False,0.575,0.541,5,-6.45,1,0.0237,0.759,0.0,0.111,0.27,87.022,4,pop-film
+1wIfq9Zul77qAtokyLTlXr,Harris Jayaraj;Karthik;VV Prassanna,Vaaranam Aayiram (Original Motion Picture Soundtrack),Ava Enna,66,318493,False,0.594,0.454,5,-9.422,0,0.0755,0.497,3.83e-05,0.0736,0.705,133.825,4,pop-film
+5DYfTyqUNBmOnQtljQjYk2,G. V. Prakash;S. P. Balasubrahmanyam;S.P. Charan;Prashanthini,Aadukalam (Original Motion Picture Soundtrack),Ayyayo,66,324373,False,0.608,0.705,7,-5.525,0,0.0364,0.499,0.000124,0.0878,0.733,75.031,4,pop-film
+6Pf2T6xvc8C0lWrkg0yUFc,Thaman S;Shreya Ghoshal;Chiranjeevi;Salman Khan,"Thaar Maar Thakkar Maar (From ""God Father"")",Thaar Maar Thakkar Maar,66,267727,False,0.783,0.942,11,-4.371,0,0.0815,0.176,2.01e-06,0.175,0.908,132.028,4,pop-film
+6tkl6rjuXWtVOCaXSSSCz2,Armaan Malik,2016 Shinning Star - Armaan Malik,"Jab Tak (From ""M.S.Dhoni - The Untold Story"")",66,174039,False,0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,4,pop-film
+7gXkeV2BHU3eLOMtsWs6nz,Sean Roldan;Pradeep Kumar;Nithyashree Venkataramanan,Mehandi Circus (Original Motion Picture Soundtrack),Kodi Aruvi,66,260310,False,0.607,0.624,5,-7.051,0,0.0354,0.697,0.0,0.0994,0.757,157.305,3,pop-film
+5jXrULyYKHjkAMk4TXZFoG,Yuvan Shankar Raja,Goa (Original Motion Picture Soundtrack),Kaadhal Endral,66,87133,False,0.638,0.324,0,-7.787,0,0.0321,0.923,3.35e-05,0.151,0.446,129.932,4,pop-film
+6Z8oU8xMOie24Cflh2Sw6p,Yuvan Shankar Raja;Hariharan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Venmegam,66,274853,False,0.803,0.426,3,-11.54,1,0.0742,0.418,2.23e-05,0.11,0.556,114.945,4,pop-film
+4CGBTtlrjZj7ydpV52cgB4,Roop Kumar Rathod,Anwar,Maula Mere Maula,65,364329,False,0.549,0.737,0,-7.865,1,0.0386,0.459,0.00844,0.091,0.412,119.963,4,pop-film
+1wnozUBSe7OMpmZiTPJC5j,A.R. Rahman;Javed Ali;KIRTI SAGATHIA;Pooja AV,Raanjhanaa (Original Motion Picture Soundtrack),Tum Tak,66,304466,False,0.72,0.621,2,-9.773,1,0.0491,0.676,0.0,0.0679,0.566,114.987,4,pop-film
+2b2HutIDmoeBnnKRWDLAtV,Mohammed Irfan;Arijit Singh;Saim Bhat,Murder 2,Phir Mohabbat,65,329851,False,0.461,0.481,0,-6.389,0,0.0327,0.789,1.01e-06,0.127,0.262,199.807,4,pop-film
+0iXLwnLmLwn9y54JtBTNxY,Sonu Nigam;Shreya Ghoshal,Om Shanti Om,Main Agar Kahoon,66,308158,False,0.533,0.436,5,-7.521,0,0.0276,0.234,3.17e-06,0.46,0.371,146.868,3,pop-film
+2qgXrzJsry4KgYoJCpuaul,The Local Train,Aalas Ka Pedh,Choo Lo,67,233630,False,0.512,0.695,4,-6.349,1,0.0271,0.0265,0.00815,0.146,0.351,145.957,4,pop-film
+5ZsAhuQ24mWHiduaxJqnhW,Ritviz,Ved,Udd Gaye,67,180413,False,0.595,0.817,11,-6.187,0,0.0474,0.000712,0.0386,0.142,0.483,144.961,4,pop-film
+1awtp7rf6ajhGY9BgzCHeZ,Mithoon;Arijit Singh;Sunidhi Chauhan,Shivaay,"Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",66,374205,False,0.523,0.557,7,-7.799,1,0.0293,0.813,0.000581,0.0958,0.196,111.766,4,pop-film
+5oYRr51VatOtkFeEOursuZ,Lucky Ali,Sunoh,O Sanam,65,223027,False,0.76,0.555,7,-10.165,1,0.0465,0.409,0.213,0.0822,0.52,98.066,4,pop-film
+1saDM1hv3pTHf9ulsxm5Iy,Diljit Dosanjh;Sargi Maan,"Koka (From ""Babe Bhangra Paunde Ne"")",Koka,65,150566,False,0.702,0.677,1,-6.944,1,0.241,0.0475,0.0,0.166,0.737,105.923,4,pop-film
+0TkquWzzuxcrwbCWlTrKYF,Neha Kakkar;Tanishk Bagchi;Lalit Sen,Yaad Piya Ki Aane Lagi,Yaad Piya Ki Aane Lagi,65,256678,False,0.858,0.833,5,-3.747,0,0.0471,0.375,0.0,0.112,0.693,107.977,4,pop-film
+4FeczSomVWVyU4FW7xDeAI,A.R. Rahman;Chinmayi;Murtuza Khan;Qadir Khan,Guru (Original Motion Picture Soundtrack),Tere Bina,66,309640,False,0.744,0.7,2,-7.663,1,0.0375,0.278,0.000155,0.068,0.867,144.033,4,pop-film
+4nydCE0L7G13XLKPzvLlNs,Arijit Singh,Mary Kom,Sukoon Mila,65,200437,False,0.634,0.378,9,-8.367,1,0.0295,0.566,0.0,0.0919,0.527,123.949,4,pop-film
+5QVHNa0ppJUOoqSd36ovQS,Arijit Singh;B Praak,"Pachtaoge (From ""Jaani Ve"")","Pachtaoge (From ""Jaani Ve"")",65,226789,False,0.515,0.691,5,-4.028,0,0.0344,0.624,0.0,0.121,0.484,169.521,3,pop-film
+0zHZSO80CTxNtvtRhveHRJ,Armaan Malik;Neeti Mohan,Baar Baar Dekho (Original Motion Picture Soundtrack),Sau Aasmaan,66,234737,False,0.63,0.729,6,-4.93,1,0.0287,0.123,8e-06,0.0786,0.44,127.919,4,pop-film
+2z7k8UytNaiMIJQNc1XZcZ,Diljit Dosanjh,Drive Thru,Vanilla,66,171627,False,0.722,0.716,8,-4.089,1,0.0696,0.132,1.05e-05,0.0997,0.626,171.96,4,pop-film
+0gRNu9dVzi5aC87AI1empZ,Monty Sharma;Shaan,Saawariya (Original Motion Picture Soundtrack),Jab Se Tere Naina,65,284573,False,0.599,0.653,0,-7.576,0,0.122,0.362,0.0,0.144,0.678,79.968,4,pop-film
+43GfQ1SC17rBWiHkOtdwK8,Atif Aslam;Shirley Setia;Dj Chetas,Jab Koi Baat - Recreated,Jab Koi Baat - Recreated,66,192228,False,0.667,0.621,5,-5.697,1,0.0271,0.47,4.15e-05,0.13,0.451,106.032,4,pop-film
+58SIEtTjWErr0yEXVBKxvd,Jubin Nautiyal,Shri Krishna Govind Hare Murari,Shri Krishna Govind Hare Murari,66,153002,False,0.59,0.632,7,-7.996,1,0.0376,0.301,0.0,0.169,0.345,110.0,4,pop-film
+4bt0XG1MoZ1fkZ095X6WHC,Yuvan Shankar Raja;Dhanush,Naane Varuvean,Rendu Raaja,36,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,pop-film
+5ajfRrXpInejkZUxZOX6Rm,Yasser Desai;Jeet Gannguli;Rashmi Virag,Parmanu (Original Motion Picture Soundtrack),Jitni Dafa,66,222302,False,0.643,0.513,10,-7.355,0,0.0253,0.832,0.000852,0.143,0.25,95.976,4,pop-film
+4BTPzhEsyW3blWcxcuhLM0,Shankar-Ehsaan-Loy;Shankar Mahadevan;Caralisa Monteiro;Shafqat Amanat Ali,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Mitwa,66,382973,False,0.63,0.63,4,-7.525,1,0.0364,0.295,1.26e-05,0.0934,0.517,107.103,4,pop-film
+47Cd4WP1ZOK8WXC68kqZ03,Santhosh Narayanan;Sid Sriram,VadaChennai (Original Motion Picture Soundtrack),Ennadi Maayavi Nee,65,251000,False,0.55,0.246,0,-12.503,0,0.03,0.834,0.00279,0.0977,0.218,119.836,3,pop-film
+55LK166LWHOpXOroZ5g82J,Arko;Jubin Nautiyal,The Shaukeens,Meherbani,65,243591,False,0.41,0.455,4,-8.071,1,0.0316,0.731,0.0,0.185,0.361,90.993,4,pop-film
+7k7DnptxRrSXcTdEPd1R4F,Yuvan Shankar Raja,Naane Varuvean,Veera Soora,36,205145,False,0.552,0.742,2,-7.801,1,0.118,0.219,2.25e-05,0.21,0.537,200.029,4,pop-film
+6qrb4ganbSTzcDDOo1pzMT,Dev Negi,Kedarnath,Sweetheart,66,212195,False,0.768,0.806,8,-6.277,1,0.0517,0.376,1.65e-06,0.0787,0.925,123.039,4,pop-film
+7h24KIgBhiyzbYnxsGzevk,Yasser Desai,"Dil Maang Raha Hai (From ""Ghost"")",Dil Maang Raha Hai,66,193333,False,0.636,0.726,10,-8.205,0,0.0456,0.341,0.00727,0.105,0.542,162.035,4,pop-film
+6kekHWEQ4SyMe5EjYAlveP,Yuvan Shankar Raja;Sid Sriram,"High On Love (From ""Pyaar Prema Kaadhal"" Original Motion Picture Soundtrack)",High On Love,65,240169,False,0.627,0.779,4,-4.944,0,0.0392,0.214,9.34e-06,0.112,0.619,149.929,4,pop-film
+6k3XXCE1ZzwevQlxf8dNaw,Amit Trivedi;Jasleen Royal,Dear Zindagi (Original Motion Picture Soundtrack),Love You Zindagi,65,232505,False,0.688,0.701,3,-7.505,1,0.0298,0.06,0.0301,0.271,0.385,110.019,4,pop-film
+7AV1hh76pC1mg4iSH796Vp,Arijit Singh;Palak Muchhal;Jeet Gannguli,Rustom (Original Motion Picture Soundtrack),Dekha Hazaro Dafaa,65,207751,False,0.411,0.277,7,-8.844,1,0.0305,0.903,0.0,0.209,0.345,143.768,3,pop-film
+5t5NtSHXgRdREs8wPM5LSz,Yuvan Shankar Raja;Anthony Daasan,Naane Varuvean,Yaarum Illa,34,205435,False,0.603,0.64,0,-5.601,1,0.0318,0.258,0.0,0.349,0.699,129.988,4,pop-film
+5g1i02FYQMmVj4L17Gis1C,A.R. Rahman;Rakshita Suresh,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Sol,66,134204,False,0.697,0.271,0,-11.507,1,0.093,0.923,0.0,0.101,0.773,119.835,4,pop-film
+43YkTTlOD203o9E5ZxhUjF,Arijit Singh,Arijit Singh Broken Strings,"Main Dhoondne Ko Zamaane Mein (From ""Heartless"")",66,262986,False,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,4,pop-film
+7Em0lueWaMfJ4MWMDdSGNt,Yuvan Shankar Raja;Sid Sriram,Naane Varuvean,Pinju Pinju Mazhai,30,318427,False,0.746,0.649,11,-10.096,0,0.0327,0.587,1.23e-05,0.134,0.654,104.984,4,pop-film
+4j0on3LOcJjmco34Pyv0p9,Yuvan Shankar Raja;Sarath Santosh,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Ganjai Poovu,47,237660,False,0.6,0.687,8,-7.939,1,0.326,0.359,0.0,0.245,0.671,164.911,3,pop-film
+69EBg5Kl8SwvDfxFQ1aPNY,Arijit Singh;Asees Kaur,Simmba,Bandeya Rey Bandeya,64,254841,False,0.445,0.615,0,-7.714,1,0.0852,0.422,0.0,0.116,0.235,123.984,4,pop-film
+5mQJTsR0OWKxg0ib1y145I,Yuvan Shankar Raja;Narayanan Ravishankar,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Adhiri Pada,43,248450,False,0.742,0.692,4,-9.267,0,0.237,0.464,1.39e-05,0.0951,0.628,149.949,4,pop-film
+4kDyGiTGv3QznWbovgJHyn,Yuvan Shankar Raja;Ranjith Govind;Pavithra Chari,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Manase Manihaarame,46,229536,False,0.661,0.53,7,-10.747,1,0.0974,0.187,0.0,0.142,0.661,157.523,3,pop-film
+5b7u3idwfY2LyqMQlCwscm,Palak Muchhal,2016 Shinning Star - Palak Muchhal,"Kaun Tujhe (From ""M.S.Dhoni - The Untold Story"")",66,241448,False,0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,4,pop-film
+3THVNKs3bdQekA02kK1hWD,Shankar Mahadevan;Padmalatha,Indru Netru Naalai (Original Motion Picture Soundtrack),Kadhale Kadhale,65,207071,False,0.528,0.739,0,-6.32,0,0.0314,0.687,5.17e-05,0.168,0.542,128.1,4,pop-film
+6WAfYZXIKo2ufmQZQR9L8E,A.R. Rahman,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Marakkuma Nenjam,66,258319,False,0.671,0.373,2,-15.071,1,0.0362,0.783,0.105,0.111,0.315,119.972,4,pop-film
+43BSpcCWtZKt6HUZujyY6O,A.R. Rahman;Shreya Ghoshal;Sarthak Kalyani,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Unna Nenachadhum,65,236955,False,0.596,0.307,2,-11.604,1,0.0405,0.816,0.0,0.133,0.397,143.979,3,pop-film
+3IpEJ86hrMfUcoXCk9U4h3,James Vasanthan;Bellie Raj;Deepa Miriam,Subramaniapuram (Original Motion Picture Soundtrack),Kangal Irandal,65,322013,False,0.797,0.452,10,-8.325,1,0.0271,0.275,6.45e-05,0.075,0.661,104.998,4,pop-film
+46LoYZSh8V0Ean52vPNpcC,Yuvan Shankar Raja,Deepavali (Original Motion Picture Soundtrack),Pogadhe,65,330400,False,0.658,0.407,4,-12.007,1,0.0364,0.727,1.26e-06,0.139,0.137,80.164,4,pop-film
+1n5gnI3Wue9WBpYFOIQNh1,Harris Jayaraj;Naresh Iyer;Prashanthini,Vaaranam Aayiram (Original Motion Picture Soundtrack),Mundhinam,64,341386,False,0.474,0.548,11,-8.614,1,0.331,0.237,0.0,0.0791,0.676,193.671,4,pop-film
+6LLNU2a29JY8OiwAecBuph,Yuvan Shankar Raja;Senthil Dass,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Maaruthalli,21,107550,False,0.692,0.431,0,-9.158,0,0.0295,0.336,1.59e-05,0.166,0.416,99.951,4,pop-film
+6H1hnJRQOGQ9djPL3jNu9G,G. V. Prakash;Shakthisree Gopalan,Raja Rani (Original Motion Picture Soundtrack),Imaye Imaye,64,208440,False,0.504,0.364,1,-9.277,0,0.03,0.893,7.88e-05,0.0904,0.365,149.819,4,pop-film
+5SXwKl2nWY1No4wZ0FJDHN,A.R. Rahman;Vagu Mazan;Thoughtsfornow,Cobra (Original Motion Picture Soundtrack),Adheeraa,66,259139,False,0.722,0.835,6,-9.082,0,0.0402,0.107,8.23e-05,0.0928,0.558,110.962,4,pop-film
+7heMX7gyHP0mhTlNgd7Lxd,A.R. Rahman;Badshah;Tanishk Bagchi;Shashaa Tirupati;Jubin Nautiyal,OK Jaanu (Original Motion Picture Soundtrack),The Humma Song,66,179657,False,0.721,0.65,0,-6.95,0,0.135,0.0115,0.00014,0.34,0.392,130.487,5,pop-film
+0cVrLxeQjiAcftuGzp32qY,A.R. Rahman,Sillunu Oru Kadhal (Original Motion Picture Soundtrack ),Newyork Nagaram,65,378020,False,0.652,0.732,0,-8.587,1,0.0275,0.203,0.000366,0.0739,0.577,127.043,4,pop-film
+1NoaJoxPKQr9XNLOuKTyNV,A.R. Rahman;Silambarasan TR;Rakshita Suresh,"Kaalathukkum Nee Venum (From ""Vendhu Thanindhathu Kaadu"")","Kaalathukkum Nee Venum - From ""Vendhu Thanindhathu Kaadu""",65,293546,False,0.718,0.458,7,-10.632,1,0.033,0.685,0.00222,0.118,0.567,119.958,4,pop-film
+3hp6JfJIxkv3sl7E6p7DQj,Arijit Singh,Fitoor,Yeh Fitoor Mera,64,283070,False,0.449,0.421,4,-8.92,1,0.0272,0.387,0.000108,0.11,0.203,163.747,3,pop-film
+7uNnlVit5qDvfOje0pqICF,Mohit Chauhan;Suzanne D'Mello,Rockstar,Tum Ho,64,316500,False,0.356,0.47,5,-8.929,1,0.0278,0.518,1e-05,0.0807,0.167,93.895,4,pop-film
+3HFjh7QljnUCBLsoTwMuTj,KK,Woh Lamhe,Kya Mujhe Pyar Hai,64,266653,False,0.644,0.818,6,-5.924,0,0.0549,0.431,2.62e-05,0.0806,0.789,118.477,4,pop-film
+4fyR24BKznXBLNkK8LwWla,Yo Yo Honey Singh,Dheere Dheere,Dheere Dheere,66,212412,False,0.73,0.58,0,-7.976,1,0.124,0.0399,2.48e-05,0.0703,0.55,167.915,4,pop-film
+0YLSjVxSb5FT1Bo8Tnxr8j,Ritviz;Nucleya,Baaraat,Baaraat,66,222096,False,0.678,0.449,4,-9.379,0,0.0869,0.477,0.0,0.536,0.606,100.033,4,pop-film
+6UgcN95w7vQxkR8sEFmwHG,Palak Muchhal;Arijit Singh,Aashiqui 2,Chahun Main Ya Naa,64,304899,False,0.645,0.517,9,-6.708,0,0.0273,0.522,3.27e-06,0.0905,0.259,106.906,4,pop-film
+3LOVW8lNXFD9ZAUDvLIOR5,Atif Aslam;Shalmali Kholgade,Tera Naam Doon (Lofi Mix),Tera Naam Doon (Lofi Mix),39,231428,False,0.561,0.404,0,-10.193,1,0.0324,0.735,0.0186,0.164,0.52,139.774,4,pop-film
+1SVE8yjAt2m9JWjeOaGG4Q,Neha Kakkar;Tanishk Bagchi;Jaani,O Sajna,O Sajna,64,245131,False,0.785,0.903,11,-3.628,0,0.0752,0.309,0.0,0.0417,0.705,96.98,4,pop-film
+52INmBPUsLUQ6to3WnGWUm,Armaan Malik,You,You,65,194477,False,0.463,0.458,9,-6.705,1,0.0422,0.776,5.47e-05,0.544,0.593,110.052,4,pop-film
+6h6kOAlIeWdsqNopumppU5,Mithoon;Arijit Singh;Sayeed Quadri,"Kitni Haseen Hogi (From ""Hit - The First Case"")","Kitni Haseen Hogi (From ""Hit - The First Case"")",64,330906,False,0.473,0.473,8,-9.49,0,0.0333,0.361,0.0,0.109,0.358,102.787,4,pop-film
+251PNRmJU9KcUnFQAB5t6I,Shankar-Ehsaan-Loy;Sonu Nigam,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Kal Ho Naa Ho,67,321240,False,0.532,0.529,0,-8.402,1,0.0352,0.334,0.000144,0.078,0.295,81.989,4,pop-film
+4xA7TokHI9HTapV4wO3W5I,Neha Kakkar;Rohanpreet Singh;Showkidd,Baarish Mein Tum,Baarish Mein Tum,65,227091,False,0.454,0.664,5,-4.471,0,0.0597,0.7,6.57e-06,0.199,0.523,78.052,4,pop-film
+5wiSbeDm2p5yniuus7eH4J,Diljit Dosanjh,MoonChild Era,Black & White,65,166757,False,0.712,0.683,10,-6.965,0,0.0926,0.323,6.84e-06,0.171,0.526,83.935,4,pop-film
+6s0im3BSdlT5N4VJGaljyC,Udit Narayan,Chalak Chal Gangajal,Chalak Chal Gangajal,19,329173,False,0.603,0.632,0,-10.074,1,0.0405,0.712,0.0,0.476,0.94,154.029,4,pop-film
+73y649QhnXdcm6fRdvfraO,Ajay-Atul;Sonu Nigam,Agneepath (Original Motion Picture Soundtrack),Abhi Mujh Mein Kahin,65,364786,False,0.334,0.387,2,-9.483,1,0.0332,0.755,3.94e-05,0.113,0.42,129.959,1,pop-film
+3OAFzjwWionh8OfM4kgf2R,Madan Mohan;Udit Narayan;Javed Akhtar,Veer - Zaara,Main Yahaan Hoon,66,295157,False,0.484,0.788,4,-7.625,0,0.0565,0.69,0.0132,0.0939,0.741,171.973,4,pop-film
+6cCSo8zu3bRck519ZqRGfk,Udit Narayan;Sadhana Sargam,Jo Jeeta Wohi Sikandar,Pehla Nasha,64,291400,False,0.458,0.339,5,-14.309,1,0.0333,0.775,2.04e-05,0.0799,0.529,151.986,4,pop-film
+459EdQfV196emJYVTMYZd1,Alka Yagnik;Alap Desai,Gayatri Mantra,Gayatri Mantra,31,245000,False,0.42,0.341,0,-8.075,1,0.0325,0.942,0.00123,0.105,0.193,107.862,4,pop-film
+3t3wsY5IdLVzB9WidegJSU,Atif Aslam;Shreya Ghoshal,Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Jeene Laga Hoon,65,236933,False,0.533,0.732,7,-7.901,0,0.0424,0.166,0.000189,0.138,0.554,90.315,4,pop-film
+6ABHr8kYCws5z6gC9Lwith,Mohammed Irfan;Gajendra Verma,Yaariyan,Baarish,64,374938,False,0.443,0.447,7,-7.895,0,0.0356,0.768,0.0,0.2,0.215,127.395,4,pop-film
+7mSzDKajY2wUtstQSLdzMK,Mohit Chauhan;Rochak Kohli,Rang Lageya,Rang Lageya,63,227962,False,0.651,0.503,4,-8.729,1,0.0261,0.504,0.0,0.469,0.58,108.014,4,pop-film
+5T2ZZiBMDGh3TZDUbxg4rV,Palak Muchhal,M.S.Dhoni - The Untold Story,Kaun Tujhe,65,241448,False,0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,4,pop-film
+35RWttZt8zGGzT0mWtlXpn,Armaan Malik,M.S.Dhoni - The Untold Story,Jab Tak,64,174039,False,0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,4,pop-film
+1aqfzt5mpPoi7kYTFlfnIi,Rekha Bhardwaj;Jigar Saraiya;Priya Andrews,Happy Ending (Original Motion Picture Soundtrack),Mileya Mileya,64,266279,False,0.732,0.466,0,-8.403,1,0.0383,0.239,0.025,0.149,0.444,125.003,4,pop-film
+5fjIpQa7O7ttgx64TN9lZR,Armaan Malik;Amaal Mallik,Kaun Tujhe (Armaan Malik Version),Kaun Tujhe (Armaan Malik Version),65,160485,False,0.492,0.411,2,-9.616,0,0.03,0.749,1.04e-06,0.191,0.187,107.939,4,pop-film
+2RgvvnMwtP0R2OkVZmFvnV,KK,Zindagi Do Pal Ki - K.K. All Time Hits,"Ajab Si (From ""Om Shanti Om"")",65,241668,False,0.697,0.438,8,-8.411,1,0.0289,0.399,0.0,0.293,0.58,117.955,4,pop-film
+5a11x5PUFvJEadMRqtNtTr,Atif Aslam;Shreya Ghoshal,Tere Naal Love Ho Gaya (Original Motion Picture Soundtrack),Piya O Re Piya,66,292746,False,0.442,0.574,2,-6.394,1,0.0828,0.273,0.0,0.094,0.308,167.857,4,pop-film
+6GT0oiQdjiYX91qgAMi7Vd,Jasleen Royal,Nit Nit,Nit Nit,65,246136,False,0.442,0.412,10,-10.675,1,0.0377,0.781,0.0237,0.15,0.235,176.019,4,pop-film
+1la0ICQBLfO0lyqsWNwG7l,Rahat Fateh Ali Khan;Suzanne D'Mello,Veer (Original Motion Picture Soundtrack),Surili Akhiyon Wale,64,331746,False,0.517,0.561,4,-5.777,1,0.0303,0.407,0.0,0.0853,0.448,75.977,4,pop-film
+4wIWWEhbdgKAxhR68eE0Ye,Arijit Singh;Chinmayi,Groove With Arijit Singh,"Mast Magan (From ""2 States"")",65,280161,False,0.659,0.774,7,-7.014,1,0.0372,0.606,0.000333,0.185,0.883,82.995,4,pop-film
+3MwAw4BD3vk2wybq20hfQV,Udit Narayan,Gore Gaalon Pe,Gore Gaalon Pe,31,231724,False,0.568,0.833,9,-9.213,1,0.185,0.0406,0.0,0.0685,0.963,96.109,5,pop-film
+4tjLYTXFqZhkUDga4bQ0yl,Neha Kakkar;Dhvani Bhanushali;Ikka;Tanishk Bagchi,"Dilbar (From ""Satyameva Jayate"")","Dilbar (From ""Satyameva Jayate"")",66,184432,False,0.725,0.912,9,-3.665,0,0.0851,0.155,7.68e-05,0.107,0.674,104.054,4,pop-film
+0JChw6k59cZxegh0SGceE1,Rahat Fateh Ali Khan,Back 2 Love,Zaroori Tha,65,342023,False,0.523,0.674,8,-4.832,0,0.0328,0.771,0.0,0.139,0.239,114.058,4,pop-film
+0dnDTvdUco2UbaBjUtPxNS,Armaan Malik;Thaman S,Ala Vaikunthapurramuloo,Buttabomma - Telugu,64,198782,False,0.666,0.644,11,-8.964,0,0.145,0.753,0.000262,0.124,0.89,115.1,4,pop-film
+7fW9J3EpVWVN1ouv0slAs0,KK,Evergreen Hits Of K.K.,"Kya Mujhe Pyar Hai (From ""Woh Lamhe"")",64,266653,False,0.644,0.818,6,-5.924,0,0.0549,0.431,2.62e-05,0.0806,0.789,118.477,4,pop-film
+4dljlmVE5RTpAiEwCi6kkD,Arijit Singh,Shaadi Mein Zaroor Aana (Original Motion Picture Soundtrack),Main Hoon Saath Tere,64,280084,False,0.575,0.655,8,-7.464,1,0.0427,0.604,0.000388,0.094,0.703,82.077,4,pop-film
+0XosgadxA79fBBV6meKDAs,A.R. Rahman;Rakshita Suresh,"Sol (From ""Ponniyin Selvan Part-1"") [Original Motion Picture Soundtrack]","Sol (From ""Ponniyin Selvan Part-1"")",64,134204,False,0.697,0.271,0,-11.507,1,0.093,0.923,0.0,0.101,0.773,119.835,4,pop-film
+5jOi67yXzjpMdl6KFNWSIe,A.R. Rahman;Karthik,Raavanan (Original Motion Picture Soundtrack),Usure Pogudhey,64,366506,False,0.674,0.663,5,-8.886,1,0.0619,0.3,2.96e-06,0.101,0.287,92.997,4,pop-film
+19O4hCGGm95UhvIyhwnNT5,Karthik,"Thooriga (From ""Navarasa"")","Thooriga - From ""Navarasa""",64,202135,False,0.662,0.688,0,-9.019,1,0.0413,0.0422,0.000918,0.431,0.365,102.95,4,pop-film
+4BtzfRDLEl5aWtOp2SrNpO,Arijit Singh,25 Love Telugu Collection,"Nacchite Ye Panaina (From ""Dohchay"")",0,210619,False,0.654,0.713,0,-7.566,1,0.0533,0.222,0.0,0.312,0.548,134.985,4,pop-film
+1NX33DecZrq4ZUGDc47AfN,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Tera Yaar Hoon Main (From ""Sonu Ke Titu Ki Sweety"")",64,264805,False,0.566,0.541,10,-5.525,1,0.0306,0.341,4.45e-06,0.102,0.31,83.939,4,pop-film
+6mmGbsCqf5e8vxv1WodYIG,G. V. Prakash,Aadukalam (Original Motion Picture Soundtrack),Yathe Yathe,64,344360,False,0.448,0.607,9,-4.606,0,0.0611,0.791,0.0,0.0888,0.484,139.509,4,pop-film
+13wIQbwSuQ4YFvDvtQgSVc,Harris Jayaraj;Unnikrishnan;Chinmayi;Mega,Aadhavan (Original Motion Picture Soundtrack),Vaarayo Vaarayo,64,316680,False,0.718,0.361,5,-9.74,0,0.0298,0.565,0.119,0.151,0.446,103.0,4,pop-film
+6aNiR1YsERzcABil2gYQ1b,A.R. Rahman;Shreya Ghoshal;Palakad Sreeram;Mahesh Vinayakram,"Ratchasa Maamaney (From ""Ponniyin Selvan Part-1"") [Original Motion Picture Soundtrack]","Ratchasa Maamaney (From ""Ponniyin Selvan Part-1"")",64,289942,False,0.546,0.786,4,-9.486,1,0.212,0.349,1.35e-06,0.109,0.434,99.798,3,pop-film
+2WO5nzB7QtKn9ZRc9Jkalt,Harris Jayaraj;Sudha Ragunathan,Vaaranam Aayiram (Original Motion Picture Soundtrack),Annul Maelae,64,322506,False,0.773,0.436,4,-10.972,0,0.0321,0.672,0.00678,0.197,0.533,115.917,4,pop-film
+62yaHPUl2vELHwaHb6R5oW,Yuvan Shankar Raja,Pudhupettai,Oru Naalil,63,384256,False,0.712,0.422,6,-10.688,1,0.046,0.307,1.71e-05,0.067,0.772,80.014,4,pop-film
+3c1tJAYgROZEdqRfm7Wsny,Yuvan Shankar Raja,Paiya (Original Motion Picture Soundtrack),Yedho Ondru Ennai,63,213520,False,0.858,0.447,10,-7.917,1,0.0343,0.67,9.19e-05,0.0738,0.256,119.98,4,pop-film
+6dZCuf6SGn2rh9q94JBLlv,Yuvan Shankar Raja;Ajesh;Andrea Jeremiah,Goa (Original Motion Picture Soundtrack),Idhu Varai,64,284480,False,0.67,0.517,5,-6.963,0,0.039,0.481,2.49e-05,0.217,0.615,77.514,4,pop-film
+1JVfJe7LQSePY6EyF1fBUX,Tippu,Minnalae,Venmathiye,63,326960,False,0.837,0.351,11,-14.189,1,0.049,0.192,1.48e-06,0.35,0.466,124.009,4,pop-film
+6alUOXeJ3T6vi8dkN8QSbi,Rahat Fateh Ali Khan;Suzanne D'Mello,Tera Mera Saath Ho,"Rishte Naate - From ""De Dana Dan""",66,286586,False,0.637,0.825,11,-6.612,1,0.0815,0.352,0.0,0.389,0.835,92.029,4,pop-film
+0zQa7QXLpUZfrrsWbgDZll,KK,The Train,Beete Lamhein,64,298271,False,0.257,0.583,7,-8.185,1,0.0429,0.603,0.000289,0.146,0.217,160.127,4,pop-film
+2r32XiAWtZbT3eLUvf4pag,Vishal Dadlani,Talaash,Jee Le Zaraa,65,215202,False,0.584,0.698,4,-6.61,0,0.0376,0.447,0.0,0.0699,0.436,79.993,4,pop-film
+2iGnFW7m517taq3AJIE6DK,Arijit Singh,Aashiqui 2,Milne Hai Mujhse Aayi,63,295798,False,0.515,0.707,11,-5.467,0,0.0426,0.0357,0.0,0.134,0.304,143.752,4,pop-film
+48pyUxg9RYuwie5M9R7qRn,Arijit Singh;Aditi Singh Sharma,Roy,Sooraj Dooba Hain,64,264854,False,0.616,0.75,2,-4.629,1,0.0594,0.172,0.0,0.137,0.434,128.051,4,pop-film
+4eFnk661RcdOuH9ajiTO3j,Mohammed Irfan,Ek Villain,Banjaara,63,336567,False,0.657,0.489,1,-6.829,0,0.0306,0.713,0.0,0.124,0.399,116.0,4,pop-film
+1GjRIaC1VRaPw8cl5CAjuF,Sunidhi Chauhan;Devi Sri Prasad,"Saami Saami (From ""Pushpa The Rise Part - 01"")","Saami Saami (From ""Pushpa The Rise Part - 01"")",64,227160,False,0.837,0.801,5,-4.978,0,0.308,0.53,1.03e-06,0.174,0.908,139.894,4,pop-film
+1sbW5E7w8tnqpYk0Frx8QG,A.R. Rahman,Highway,Maahi Ve,64,240784,False,0.604,0.72,5,-7.276,1,0.0603,0.571,1.18e-05,0.12,0.528,130.995,4,pop-film
+46QbY78ha62aiu6gBgC7lS,Diljit Dosanjh,G.O.A.T.,G.O.A.T.,65,223636,False,0.544,0.917,1,-3.403,0,0.259,0.00313,0.0,0.26,0.686,176.068,4,pop-film
+0YCPCY9WhQFMFtoSpj6dhL,Anand Raj Anand;Shweta Pandit,Welcome,Kiya Kiya,63,302210,False,0.703,0.867,11,-6.721,1,0.0334,0.0944,2.55e-06,0.0675,0.904,120.013,4,pop-film
+6TGX01ExmdHyOG72fqUU3Q,Jubin Nautiyal,Bajrangi Bhaijaan,Zindagi Kuch Toh Bata (Reprise),64,258877,False,0.528,0.615,5,-7.118,1,0.0372,0.491,0.000111,0.104,0.225,123.988,4,pop-film
+6zCQF5tu7HVwU9shhKqiuF,Jeet Gannguli;Arijit Singh,Khamoshiyan (Original Motion Picture Soundtrack),Khamoshiyan,64,335709,False,0.527,0.521,2,-6.837,0,0.0272,0.631,0.0,0.158,0.266,143.892,3,pop-film
+5XsoDbDt98b0FkFLOhsJuS,Benny Dayal;Shalmali Kholgade;Pritam,Race 2 (Original Motion Picture Soundtrack),Lat Lag Gayee,65,280369,False,0.79,0.892,10,-4.038,0,0.0404,0.228,1.18e-06,0.206,0.896,131.991,4,pop-film
+1rinwuHEJlACLuDxihAlCu,Yasser Desai;Arko,Gold,Naino Ne Baandhi,64,241894,False,0.294,0.705,10,-7.302,1,0.0488,0.548,0.0,0.113,0.548,81.463,4,pop-film
+6vuMdb0E8buJeSHArN3dXk,Amaal Mallik;Armaan Malik,"Chale Aana (From ""De De Pyaar De"")","Chale Aana (From ""De De Pyaar De"")",63,271023,False,0.368,0.587,6,-6.676,0,0.0378,0.309,0.0,0.149,0.391,143.687,4,pop-film
+4cFwhwH5ydnHgB0Tv3lZsm,Neha Kakkar;Tulsi Kumar;B Praak;Tanishk Bagchi;Vishal-Shekhar,"O Saki Saki (From ""Batla House"")","O Saki Saki (From ""Batla House"")",67,191089,False,0.737,0.961,10,-0.155,0,0.0747,0.163,0.0,0.361,0.567,108.014,4,pop-film
+2VDsrBo8UWoa8FXNIbaQaa,Sonu Nigam,Na Jaana Kahin Door,Na Jaana Kahin Door,47,224234,False,0.618,0.303,10,-14.709,0,0.0381,0.927,0.00549,0.077,0.341,125.026,4,pop-film
+1gwO79MdYdumgIjxq8eCxB,Vishal-Shekhar;Shreya Ghoshal;Sona Mohapatra,I Hate Luv Storys (Original Motion Picture Soundtrack),Bahara,64,325706,False,0.595,0.739,5,-6.733,1,0.0359,0.0716,6.98e-06,0.134,0.722,87.834,4,pop-film
+2dOWkdPfiT9SU2Wm734Rh6,Arijit Singh,Love Dose Arijit Singh,"Kabhi Jo Baadal Barse (From ""Jackpot)",64,254300,False,0.451,0.449,0,-6.702,0,0.0293,0.261,0.0,0.143,0.217,149.768,4,pop-film
+3gc2Rho0Tn8i4LBgf6f2O5,Mithoon;Arijit Singh;Manoj Muntashir,"Soch Liya (From ""Radhe Shyam"")","Soch Liya (From ""Radhe Shyam"")",64,283260,False,0.597,0.52,8,-7.624,0,0.036,0.484,1.05e-06,0.103,0.192,119.923,4,pop-film
+6oUK2k9OJ0WvmVveyauFB7,Jatin-Lalit;Sonu Nigam;Sunidhi Chauhan;Prasoon Joshi,Fanaa,Mere Haath Mein,64,285857,False,0.554,0.606,1,-12.312,1,0.0722,0.578,0.000183,0.11,0.584,93.922,4,pop-film
+4dd9gI8s5V4D3VjMK6L8a3,Gajendra Verma,Ik Kahani,Ik Kahani,63,205907,False,0.712,0.621,2,-6.374,1,0.0278,0.116,5.43e-06,0.142,0.779,101.981,4,pop-film
+3trnNo4KeaUlFuUiV7iRCj,Arijit Singh,Sanam Teri Kasam (Original Motion Picture Soundtrack),Tera Chehra,63,274000,False,0.707,0.714,1,-4.143,1,0.0311,0.436,2.89e-06,0.0919,0.229,118.974,4,pop-film
+3Oi40ZdQtHovqlehbuF9xo,Mamta Sharma,Yaara,Yaara,63,266762,False,0.386,0.549,7,-6.75,1,0.0745,0.876,0.0,0.095,0.194,71.984,4,pop-film
+0Tgpz39v8JfkKCfEbAHKlt,Diljit Dosanjh;Sargi Maan,Babe Bhangra Paunde Ne,Koka,50,150566,False,0.702,0.677,1,-6.944,1,0.241,0.0475,0.0,0.166,0.737,105.923,4,pop-film
+0v77QqHiZUvfJkCk2rGRqw,Jasleen Royal;B Praak;Romy;Anvita Dutt,Shershaah (Original Motion Picture Soundtrack),Ranjha,64,228855,False,0.611,0.566,1,-5.861,1,0.0388,0.507,0.0,0.0971,0.312,82.984,4,pop-film
+6NmGIj2leVHRKkHEGyechJ,A.R. Rahman;S. P. Balasubrahmanyam;K. S. Chithra,Roja (Original Motion Picture Soundtrack),Yeh Haseen Vadiyan Yeh Khula Aasman,63,320013,False,0.64,0.295,5,-16.357,1,0.0397,0.425,2.05e-06,0.0804,0.107,121.903,4,pop-film
+1DsQyEshUaan0BBb7fUQHr,Mustafa Zahid,Heropanti,Tere Binaa,63,203180,False,0.42,0.342,10,-7.105,1,0.0326,0.815,0.0,0.139,0.326,150.082,4,pop-film
+6ni6sP88opXUrgC14VeyCQ,Jyotica Tangri,Fukrey Returns (Original Motion Picture Soundtrack),Ishq de Fanniyar - Female,63,177893,False,0.523,0.43,3,-5.314,0,0.0297,0.571,0.0,0.109,0.442,84.017,4,pop-film
+3xF15SqY32Mno3UUMBirhU,Vishal-Shekhar;Chinmayi Sripada;Shekhar Ravjiani,Hasee Toh Phasee (Original Motion Picture Soundtrack),Zehnaseeb,63,217440,False,0.623,0.595,7,-6.342,1,0.0331,0.361,0.000136,0.353,0.418,78.029,4,pop-film
+4npm4suKbgjdaXGCDBBVNJ,Meet Bros.;Piyush Mehroliyaa;Manjul Khattar;Rits Badiani,Aawara Shaam Hai (feat. Manjul Khattar & Rits Badiani),Aawara Shaam Hai (feat. Manjul Khattar & Rits Badiani),63,280071,False,0.32,0.516,3,-6.163,0,0.0279,0.421,0.0,0.123,0.394,97.727,4,pop-film
+7n5Jcqw85WSfJHrMXsk5N2,Thaman S;Silambarasan TR;Roshini JKV,Eeswaran (Original Motion Picture Soundtrack),Mangalyam,64,260698,False,0.837,0.948,9,-5.135,0,0.199,0.447,2.51e-05,0.19,0.825,111.028,4,pop-film
+5aa4zMfrJ16iDnS6UIKtlL,Daler Mehndi;Hrishikesh;Neuman;FRANCO;Shazneen Arethna;Samantha;Sunayana,Hanuman Returns,Aasman Ko Chukar,64,274081,False,0.536,0.438,7,-12.894,1,0.103,0.119,0.0,0.129,0.127,144.626,4,pop-film
+5mp7og60TpyNiKi2p9Morw,Yasser Desai;Jyotica Tangri,Behen Hogi Teri,Tenu Na Bol Pawaan,63,295352,False,0.557,0.487,8,-7.244,1,0.0231,0.515,0.0,0.112,0.395,98.082,4,pop-film
+7wavprkU2TlcwtdQadwr3G,Jubin Nautiyal,Meri Maa Ke Barabar Koi Nahi,Meri Maa Ke Barabar Koi Nahi,63,298045,False,0.586,0.687,6,-5.079,1,0.0258,0.591,0.0,0.178,0.503,81.009,4,pop-film
+7lnRiEP7BHXuILXNY9MH8f,G. V. Prakash;Velmurugan,Aadukalam (Original Motion Picture Soundtrack),Otha Sollaala,64,238986,False,0.707,0.925,4,-5.675,0,0.185,0.681,0.000393,0.0748,0.956,79.932,4,pop-film
+1dxbiVeiV7nQ2V9qXnhJiB,Amaal Mallik;Armaan Malik,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Buddhu Sa Mann,63,206858,False,0.644,0.87,10,-4.816,1,0.0394,0.193,0.0,0.549,0.702,125.998,4,pop-film
+4OEBP1iwGmLtcM8UKRLm80,Arijit Singh;Antara Mitra,Ultimate Love Songs - Arijit Singh,"Itni Si Baat Hain (From ""Azhar"")",64,294846,False,0.56,0.768,2,-4.77,1,0.0655,0.494,0.0,0.0844,0.289,155.765,4,pop-film
+7dbO1k9ryxPFJG0fvYBffu,Kumar Sanu;Alka Yagnik,"Bollywood Music - Kumar Sanu At His Best, Vol. 2","Ek Din Aap (From ""Yes Boss"")",65,266066,False,0.462,0.375,4,-13.184,1,0.0309,0.642,0.0,0.189,0.612,145.35,3,pop-film
+16ASkQZ0cTrSdUYU1TB2nt,Sooraj Santhosh,Kannum Kannum Kollaiyadithaal,Kanave Nee Naan,63,124996,False,0.581,0.399,11,-9.322,0,0.0325,0.916,0.0,0.169,0.183,98.025,4,pop-film
+7pEmx31C31gIXolEdmjxj6,Raj Barman,Likhe Jo Khat Tujhe - Raj Barman,Likhe Jo Khat Tujhe,63,132571,False,0.773,0.624,2,-7.615,0,0.052,0.0106,3.86e-06,0.0541,0.431,105.044,4,pop-film
+5KJSI1MjQeXEBHBYMjgP41,A.R. Rahman;Vijay Prakash;Shweta Mohan,Maryan (Original Motion Picture Soundtrack),Innum Konjam Naeram,64,313533,False,0.647,0.389,5,-10.35,1,0.0336,0.509,7.8e-06,0.103,0.436,134.976,3,pop-film
+2PPYZHvvu02e1pSdE1FfvD,Harris Jayaraj;Harish Raghavendra,Dhaam Dhoom (Original Motion Picture Soundtrack),Anbe En Anbe,63,304400,False,0.773,0.419,11,-8.756,0,0.0647,0.309,5.62e-05,0.281,0.578,121.982,4,pop-film
+3qTNm4Mta37YmEcLeQcdw3,Yuvan Shankar Raja;Roop Kumar Rathod,Vaamanan (Original Motion Picture Soundtrack),Oru Devathai,63,296760,False,0.625,0.492,0,-9.618,0,0.0332,0.163,0.000781,0.111,0.28,120.033,4,pop-film
+50RcuWjfUcoJfWMNegXF0b,Yuvan Shankar Raja;Harini Ivaturi;Justin Prabhakaran,"Ee Raathale (From ""Radhe Shyam"")","Ee Raathale (From ""Radhe Shyam"")",63,232762,False,0.63,0.528,9,-8.574,0,0.0311,0.0284,2.63e-06,0.107,0.551,124.0,4,pop-film
+5OCFWPgrCCNBukB3YrDD90,Raj Barman,Tu Mile Dil Khile - Raj Barman,Tu Mile Dil Khile,62,197716,False,0.639,0.368,2,-14.096,0,0.048,0.245,0.0,0.106,0.415,89.94,4,pop-film
+3P6zRJ409f09GI1iNwjcpa,Yuvan Shankar Raja,Kaadhal Solla Vandhen (Original Motion Picture Soundtrack),Oh Shala Oh Shala,63,254033,False,0.717,0.624,1,-7.096,1,0.0381,0.0754,0.000762,0.0989,0.472,159.926,4,pop-film
+0aQLKZl2mXdJHpxDteJdNo,A.R. Rahman;Silambarasan TR;Rakshita Suresh,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Kaalathukkum Nee Venum,64,294000,False,0.719,0.484,7,-9.666,1,0.0323,0.697,0.00198,0.121,0.547,119.948,4,pop-film
+7foXDAvMmPXL9C3NN7LVvZ,Harish Raghavendra,Minnalae,Nenjai Poopol,62,61120,False,0.576,0.274,9,-13.531,0,0.0327,0.455,0.0,0.0842,0.404,85.969,4,pop-film
+4hLShJ4RCa2KhqVHD7MRDn,Abhijeet,Sensational Duets (Abhijeet & Alka Yagnik),"Main Koi Aisa Geet Gaoon (From ""Yes Boss"")",64,317000,False,0.77,0.485,7,-11.612,1,0.0463,0.166,0.000196,0.289,0.932,121.685,4,pop-film
+0Yup6SQDmHmYKG8Faigkqk,Ilaiyaraaja;S. Janaki,Best Hits Of Ilaiyaraja Vol-1,"Thendral Vandhu Theendumbothu (From ""Avatharam"")",62,321056,False,0.583,0.46,4,-11.509,0,0.035,0.751,0.000147,0.146,0.534,129.904,4,pop-film
+2dPUug9YiNL4ypu8UF8SnD,Arijit Singh,Mickey Virus,Tose Naina,63,263549,False,0.523,0.561,4,-6.474,1,0.0329,0.426,0.0,0.109,0.31,139.885,4,pop-film
+7fl15uWBpbKrzrmEm48ZyP,Kamaal Khan,Pyaar Kiya To Darna Kya,O O Jaane Jaana,63,345240,False,0.781,0.766,7,-8.728,1,0.0564,0.122,0.000104,0.121,0.798,106.193,4,pop-film
+0fCQRUbk8LIQTdQYGNtGyv,Atif Aslam;Shreya Ghoshal,Prince (Original Motion Picture Soundtrack),Tere Liye,64,279826,False,0.624,0.906,11,-4.436,0,0.0514,0.0978,0.0,0.0963,0.632,129.99,4,pop-film
+6eO9LvEiMqh1CAsa6y3wXP,Armaan Malik;Amaal Mallik;Rashmi Virag,Azhar,Bol Do Na Zara,63,292826,False,0.545,0.473,11,-8.259,0,0.0312,0.284,0.0,0.0871,0.195,130.0,3,pop-film
+0WNCYgCd33LnBnw22WFuq8,Mustafa Zahid,Aashiqui 2,Bhula Dena,63,240723,False,0.515,0.508,4,-6.66,0,0.0297,0.633,0.0,0.203,0.235,131.731,4,pop-film
+0cWLJcdvM6QlOQ7UJdB4jb,Ash King;Sachin-Jigar,"Nazar Na Lag Jaaye (From ""Stree"")","Nazar Na Lag Jaaye (From ""Stree"")",63,206175,False,0.527,0.622,7,-8.172,0,0.0842,0.7,2.82e-06,0.126,0.672,173.709,4,pop-film
+19gWKISRrdEpywKRkZHphI,Armaan Malik;Sam C.S.;Manoj Muntashir,Vikram Vedha,Yaara,48,232164,False,0.22,0.433,8,-9.075,0,0.0323,0.715,2.88e-06,0.129,0.22,80.004,4,pop-film
+2rU33n6Fhd6G1MzYhUj6C5,Jubin Nautiyal;Emraan Hashmi,Mumbai Saga,Lut Gaye,64,228031,False,0.638,0.785,10,-2.612,1,0.044,0.185,0.0,0.245,0.515,91.101,4,pop-film
+3nKEiJUeaWn8q2O9I1xwlB,Salim–Sulaiman;Sonu Nigam;Shreya Ghoshal;Salim Merchant,Kurbaan (Original Motion Picture Soundtrack),Shukran Allah,64,290053,False,0.432,0.695,1,-8.022,1,0.111,0.732,0.0014,0.274,0.513,116.153,3,pop-film
+3V2ricb6fi4OCJu2rjhL1A,Arijit Singh;Chinmayi,24 (Original Motion Picture Soundtrack),Naan Un,62,288360,False,0.47,0.521,6,-11.142,0,0.0391,0.579,3.39e-06,0.112,0.329,142.268,3,pop-film
+4SjKsDIVQessPLdN42FZlm,Vishal-Shekhar;Snigdhajit Bhowmik;Ananya Chakraborty,"Alcoholia (From ""Vikram Vedha"")","Alcoholia (From ""Vikram Vedha"")",63,231022,False,0.774,0.584,11,-7.89,0,0.107,0.231,0.0,0.198,0.444,132.0,4,pop-film
+6w458kA8WOAIZr1ublxnK9,Lucky Ali,Tamasha,Safarnama,63,251402,False,0.541,0.512,9,-10.203,1,0.0291,0.74,0.000528,0.162,0.203,120.036,4,pop-film
+3bZPdEskcnMdepwCaDSJRl,Vishal-Shekhar;Shafqat Amanat Ali;Sunidhi Chauhan,I Hate Luv Storys (Original Motion Picture Soundtrack),Bin Tere,63,330360,False,0.585,0.698,9,-6.261,1,0.0392,0.42,3.59e-06,0.363,0.621,139.831,4,pop-film
+3SHopOL3KEJ8PFl3vJdfmF,Sona Mohapatra;Armaan Malik,Khoobsurat,Naina,63,225568,False,0.495,0.556,3,-7.49,1,0.041,0.638,0.0,0.123,0.366,159.996,4,pop-film
+3TAhWtQnpoL5Vl9VQPl9fU,Farhan Akhtar;Hrithik Roshan;Abhay Deol;Maria Del Mar Fernandez,Zindagi Na Milegi Dobara,Senorita,64,229575,False,0.701,0.681,9,-6.442,1,0.0466,0.134,0.0,0.064,0.81,122.539,4,pop-film
+4f5kLqyOJ5ZPnalEVMQrB2,Rahat Fateh Ali Khan;Asees Kaur;Tanishk Bagchi,"Tere Bin (From ""Simmba"")","Tere Bin (From ""Simmba"")",64,230948,False,0.649,0.716,7,-3.936,1,0.0384,0.268,4.51e-06,0.603,0.639,86.949,4,pop-film
+0dUbhFM18NyBDDpiktEQLk,Alka Yagnik;Udit Narayan,Qayamat Se Qayamat Tak,Ae Mere Humsafar,63,355840,False,0.436,0.499,7,-12.909,0,0.0356,0.499,5.01e-05,0.308,0.551,103.104,4,pop-film
+2tO0QPdCA0jgDBshTuYYkc,Shaan;Kavita Krishnamurthy,Dil Chahta Hai,Woh Ladki Hai Kahan,62,306133,False,0.786,0.677,8,-8.624,1,0.183,0.172,0.000104,0.0446,0.858,94.985,4,pop-film
+1PDREqVNvmphIoNac3Vz8c,Ankit Tiwari;Palak Muchhal,Sanam Teri Kasam (Original Motion Picture Soundtrack),Sanam Teri Kasam,62,314000,False,0.621,0.551,0,-6.871,0,0.0328,0.289,0.0,0.234,0.229,149.958,4,pop-film
+0FBQ4NrrHUbR9kus7rzrOj,Atif Aslam,YRF Top 10 - Falling in Love,Dil Diyan Gallan,64,260536,False,0.717,0.64,2,-8.726,1,0.025,0.565,0.00139,0.127,0.485,105.021,4,pop-film
+5z36JzylwsiLGZ3JrtUEE6,Roop Kumar Rathod,Musical Voice of Roop Kumar Rathod,"To Chalun (From ""Border"")",63,458693,False,0.52,0.766,8,-9.242,0,0.085,0.239,0.00021,0.129,0.714,144.13,4,pop-film
+4SmMVj2SnYXPA2M9LhtCnO,Arijit Singh;Jasleen Royal,"Mitra Re (From ""Runway 34"")","Mitra Re - From ""Runway 34""",63,221936,False,0.394,0.566,7,-7.97,1,0.0278,0.364,1.58e-06,0.0925,0.211,82.188,4,pop-film
+5utrjc4CKEFVy0D3eJxV70,Thaman S;Sri Krishna;Jonita Gandhi,Ma Ma Mahesha - Sarkaru Vaari Paata,Ma Ma Mahesha,61,246864,False,0.404,0.89,7,-6.416,0,0.309,0.524,0.000164,0.139,0.73,74.924,4,pop-film
+62RXe5I6L7n32fUMd8Puvo,Shreya Ghoshal,Kabir Singh,Yeh Aaina,62,311367,False,0.552,0.428,2,-9.433,1,0.0346,0.607,0.00125,0.115,0.197,131.745,3,pop-film
+5bdX7jiXtSbHX35pgxJo8p,Amaal Mallik;Palak Muchhal,Hero,O Khuda,62,307451,False,0.358,0.479,4,-5.879,0,0.0286,0.511,9.72e-06,0.435,0.333,121.467,4,pop-film
+68WsICkbiK1IOpDEQMdrjB,Arijit Singh;Tulsi Kumar;Tanishk Bagchi;Kumaar,"Mahi Mera Dil (From ""Dhokha Round D Corner"")","Mahi Mera Dil (From ""Dhokha Round D Corner"")",62,180117,False,0.386,0.471,2,-9.65,1,0.0403,0.829,0.0,0.147,0.21,154.039,3,pop-film
+7uubRr0u9Zxc1Y84hEn7Xf,Anu Malik;Monali Thakur;Varun Grover,Dum Laga Ke Haisha,Moh Moh Ke Dhaage (Female),63,322899,False,0.585,0.399,2,-8.133,1,0.0286,0.849,3.47e-06,0.123,0.349,128.03,4,pop-film
+2a47PFpfagr3qdvQVVFWwt,Diljit Dosanjh,Babe Bhangra Paunde Ne,Hass K Kude,45,144578,False,0.65,0.949,1,-3.061,0,0.167,0.324,0.0,0.04,0.913,83.028,4,pop-film
+322xF47eamMLy7tFWtJHzF,G. V. Prakash;Dhanush;Aishwarya R Dhanush;Andrea Jeremiah,Aayirathil Oruvan (Original Motion Picture Soundtrack),Un Mela Aasadhaan,62,271746,False,0.732,0.563,10,-10.155,0,0.128,0.191,0.000141,0.0759,0.563,169.943,4,pop-film
+6bCFcYpyxooyXzeImupmUf,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Tere Paawan Maa Navratron Mein (From ""Laal Chole Wali"")",21,287649,False,0.333,0.834,8,-4.826,1,0.0615,0.528,0.0,0.576,0.755,157.327,3,pop-film
+12dkWZePfFYOrA4qjA1s0K,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Jagdaati Pahadonwali Maa (From ""Mahima Vaishno Devi Ki"")",11,383469,False,0.358,0.764,8,-3.913,1,0.0338,0.572,5.64e-06,0.378,0.562,74.538,4,pop-film
+3phw912iJRhtMfsdJ1k3Sr,Atif Aslam;Jam8,"Darasal (From ""Raabta"")","Darasal (From ""Raabta"")",63,274354,False,0.705,0.422,0,-7.375,1,0.0299,0.793,0.0,0.0895,0.482,117.948,4,pop-film
+2lytQvY2E4andJc1d9GNdx,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Dar Chhod Ke Jaaunga Na Maiya (From ""Halwa Poori Baatenge"")",7,242195,False,0.626,0.726,7,-4.139,0,0.03,0.953,0.000416,0.284,0.896,104.33,4,pop-film
+5Gy67YHzPZTk9Q0D73LAGH,Jeet Gannguli;Arijit Singh,"Khamoshiyan (From ""Khamoshiyan"")","Khamoshiyan (From ""Khamoshiyan"")",63,335709,False,0.524,0.52,2,-6.838,0,0.0272,0.643,0.0,0.158,0.259,143.885,3,pop-film
+7bODtTBEmxqwdfBHwqjwFt,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Ab Na Roko Na Roko Maa Ke Dwaar Jaane Do (From ""Maa Ka Dil"")",5,304639,False,0.567,0.862,9,-1.304,1,0.0549,0.621,0.0,0.836,0.88,87.682,4,pop-film
+17uI7afUaul1hCzMTF9txd,Meet Bros.;Palak Muchhal;Altamash Faridi,Dream Girl,Ik Mulaqaat,63,247812,False,0.634,0.648,3,-6.781,0,0.0412,0.361,0.0,0.619,0.667,95.989,4,pop-film
+5GJ3WaxTSlxDY3csctX20H,Himesh Reshammiya,Sanam Teri Kasam (Original Motion Picture Soundtrack),Bewajah,62,308000,False,0.544,0.678,4,-5.195,1,0.0357,0.429,0.0,0.193,0.249,143.956,4,pop-film
+73WZB1V5nD1Di5SL3IbZ08,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Sawan Ki Rut Hai (From ""Meri Maa"")",4,431378,False,0.549,0.838,11,-6.707,0,0.0642,0.688,0.0,0.532,0.835,89.983,4,pop-film
+1f64IGFzohBMFx4aDeo7PE,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Sone Ke Chhatron Waliye (From ""Mahima Vaishno Devi Ki"")",7,308174,False,0.412,0.741,1,-4.926,0,0.0785,0.907,4.76e-05,0.161,0.719,131.139,4,pop-film
+2fifrxk02FYmyR484j0beA,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Nanhe Nanhe Paon Mere (From ""Meri Maa"")",4,470251,False,0.663,0.806,0,-7.962,1,0.0623,0.672,1.66e-06,0.904,0.961,93.958,4,pop-film
+3l7JaDIJmWMpvcJqhTJjrk,A.R. Rahman;Vijay Prakash;Suzanne D'Mello;Blaaze,Vinnathaandi Varuvaayaa (Original Motion Picture Soundtrack),Hosanna,63,330546,False,0.582,0.812,7,-6.147,1,0.0418,0.166,0.00162,0.0407,0.7,86.051,4,pop-film
+6O1VWYPfl85dDeKiaCJKza,Yuvan Shankar Raja;Haricharan;Sagar Desai,Awaara (Original Motion Picture Soundtrack),Chiru Chiru,62,284466,False,0.722,0.496,7,-7.554,0,0.0327,0.223,0.000507,0.103,0.645,92.007,4,pop-film
+3xeZ5mBxmxuqO0XBAdQ8Ya,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Patte Patte Mein Hai Basi Mahamaya (From ""Aa Gayi Chitthi Mata Ki"")",3,351225,False,0.567,0.816,11,-4.025,0,0.048,0.789,0.0,0.331,0.899,92.521,4,pop-film
+3a49HDzR43WzzCHSsB064u,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Maa Par Rakhna Vishwas (From ""Maa Ka Bulawa Aaya Hai"")",3,388920,False,0.669,0.661,5,-6.434,0,0.0472,0.679,0.0,0.281,0.696,92.004,4,pop-film
+6Ozx2ngGtXrqznTKhKBlrT,Ajay-Atul;Ajay Gogavale,Agneepath (Original Motion Picture Soundtrack),Deva Shree Ganesha,63,356826,False,0.34,0.96,1,-5.427,1,0.0802,0.238,4.32e-06,0.0378,0.475,150.04,4,pop-film
+1mPNK9DQVA7gJNtJ20PZu3,Kishore Kumar;R. D. Burman,Ajanabee,Ek Ajnabee Haseena Se,62,266145,False,0.331,0.551,6,-8.505,1,0.0379,0.989,0.511,0.564,0.664,97.18,4,pop-film
+3Z3VzBHo8SdhPiglQcX72A,Sonu Nigam,Devi Bhajan - Sonu Nigam,"Ye Dwara Maa Ka Dwara (From ""Halwa Poori Baatenge"")",3,427418,False,0.48,0.89,7,-4.567,1,0.0666,0.873,0.00312,0.257,0.86,80.212,4,pop-film
+00PXj8pxWLJ3apEnCPJTNI,Bombay Jayashri;Harish Raghavendra;O.S. Arun,Majunu,Mudher Kanave,62,310706,False,0.692,0.709,2,-10.778,1,0.0502,0.154,1.46e-06,0.167,0.714,102.999,4,pop-film
+6Xejo9F1hr17aXInilcKZ7,Unni Menon,Shajahaan,Minnalai Pidithu,62,291015,False,0.681,0.515,7,-11.644,1,0.0745,0.638,1.32e-06,0.175,0.757,141.035,3,pop-film
+4lvTfq817mnTPF2eibBdIP,Yuvan Shankar Raja;Kay Kay,Manmadhan,Kadhal Valarthen,62,448641,False,0.711,0.647,0,-7.44,0,0.0578,0.484,1.31e-06,0.0863,0.458,122.918,4,pop-film
+2iNqdCchlUZEgjJbQyZf8T,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa,Teri Deewani,63,323520,False,0.447,0.6,4,-3.718,0,0.0332,0.324,0.0,0.0962,0.434,80.044,3,pop-film
+5HCrm5tm2Lrvc18TFt4dCJ,Zubeen Garg,Gangster,Ya Ali,61,295800,False,0.626,0.774,4,-11.298,0,0.0473,0.185,0.0,0.117,0.782,123.006,4,pop-film
+5nHwX7e5XHnie22nuTFgda,KK,Kites,Dil Kyun Yeh Mera,62,333200,False,0.486,0.382,6,-6.183,1,0.0286,0.613,8.56e-05,0.149,0.164,125.918,3,pop-film
+14uXhHNINQqjl2hngD21s9,Adnan Sami,Tera Chehra,Tera Chehra,62,392525,False,0.646,0.562,11,-9.157,0,0.0331,0.523,0.0021,0.104,0.488,100.0,1,pop-film
+4brSaQIT3bnnE41D042fgL,Ankit Tiwari,Roy,Tu Hai Ki Nahi,62,333922,False,0.535,0.754,10,-4.77,0,0.0562,0.458,1.6e-06,0.302,0.435,143.862,4,pop-film
+4bIQXffbALkCC0Xo6aTicP,Shaarib Toshi;Toshi Sabri,RAAZ - The Mystery Continues (Original Motion Picture Soundtrack),Maahi,62,329106,False,0.463,0.84,9,-4.035,0,0.0955,0.736,0.0,0.351,0.385,153.941,4,pop-film
+3ySVdXje5nm31d7vL3jNV3,Ankit Tiwari,Ek Villain,Galliyan,62,340399,False,0.552,0.75,10,-5.215,0,0.039,0.445,7.37e-05,0.291,0.4,89.999,4,pop-film
+6oEAcSY98NPIgD9UumQwIg,Diljit Dosanjh;Anne-Marie;Intense,Peaches (feat. Anne-Marie),Peaches (feat. Anne-Marie),63,189882,False,0.633,0.567,4,-7.296,0,0.113,0.386,0.0,0.069,0.353,85.297,4,pop-film
+0CVfovmUv7BnemOyTtOcbL,Mithoon;Arijit Singh,Sanam Re,Sanam Re,63,308714,False,0.581,0.71,7,-4.961,0,0.0374,0.395,0.0,0.137,0.755,111.969,4,pop-film
+6g0HHWLJwfe2PlbgHi8pBj,Atif Aslam;Sunidhi Chauhan;Pritam,Race 2 (Original Motion Picture Soundtrack),Be Intehaan,63,290867,False,0.56,0.696,7,-5.583,1,0.0473,0.535,0.0,0.325,0.39,128.849,4,pop-film
+5GeBgck1MU2tlIkMpsn8uT,Mohit Chauhan,Tamasha,Matargashti,62,328052,False,0.792,0.63,0,-6.741,1,0.0682,0.102,0.0,0.0758,0.659,100.022,4,pop-film
+4jk4CaqBMBbMZhf3PuR1ai,Arijit Singh,M.S.Dhoni - The Untold Story,Phir Kabhi,62,287422,False,0.405,0.665,4,-5.498,1,0.0328,0.614,0.0,0.525,0.404,81.921,4,pop-film
+06zJUeKU5KFy50Cho6pDcr,Arijit Singh,Aashiqui 2,Aasan Nahin Yahan,62,214470,False,0.549,0.437,10,-7.169,0,0.0263,0.766,0.000407,0.133,0.236,93.976,4,pop-film
+4JDRj3h78yCb2u9o2Xd6aD,Diljit Dosanjh;Capo;Ikky;Tory Lanez,Chauffeur Capo Remix (feat. Tory Lanez),Chauffeur Capo Remix (feat. Tory Lanez),52,205440,False,0.642,0.747,6,-4.506,1,0.11,0.213,0.0,0.182,0.643,154.239,4,pop-film
+4LLvxxkWtt818FNO3cbsdo,Diljit Dosanjh;Sukhbir;Dhvani Bhanushali;Dj Chetas;Lijo George,"Sauda Khara Khara (From ""Good Newwz"")",Sauda Khara Khara,63,211034,False,0.687,0.919,10,-3.28,1,0.0635,0.0939,4.38e-06,0.105,0.877,145.037,4,pop-film
+2fMlezwwP5Hr1UwuAknN4o,Arijit Singh,Love Dose Arijit Singh,"Tose Naina (From ""Mickey Virus)",63,263549,False,0.523,0.561,4,-6.474,1,0.0329,0.426,0.0,0.109,0.31,139.885,4,pop-film
+6ZmtxXUXRVjxOhugKkmerC,The Local Train,Aalas Ka Pedh,Dil Mere,63,211290,False,0.655,0.473,8,-9.806,1,0.0267,0.842,0.0323,0.167,0.572,92.962,4,pop-film
+1Xl83AOH0iWEOVFcdQqKBW,Neeti Mohan,Padmaavat,Nainowale Ne,63,175821,False,0.602,0.513,1,-7.953,0,0.0287,0.563,0.0,0.161,0.6,96.96,4,pop-film
+0rxEPf4Y6uBmV3hkrV340a,Sohail Sen;Rahat Fateh Ali Khan;Irshad Kamil,Mere Brother Ki Dulhan,Isq Risk,62,295079,False,0.846,0.634,10,-7.753,0,0.0432,0.122,0.0,0.146,0.944,104.964,4,pop-film
+395gJWcJQK0C3GJfHAn7f6,Shankar-Ehsaan-Loy;Rahat Fateh Ali Khan;Shankar Mahadevan;Richa Sharma,My Name Is Khan (Original Motion Picture Soundtrack),Sajdaa,63,365706,False,0.469,0.737,8,-7.274,1,0.0762,0.725,0.00272,0.0655,0.572,79.545,4,pop-film
+7txLCGOXyDlDXTjtR1Sk4v,KK,Bajrangi Bhaijaan,Tu Jo Mila,62,242864,False,0.576,0.591,0,-7.725,1,0.0332,0.795,6.85e-05,0.266,0.478,124.013,4,pop-film
+4Q7Q9bmbY5Lo7YamHngO4O,Bombay Jayashri,Rehnaa Hai Terre Dil Mein,Zara Zara,62,298266,False,0.643,0.268,11,-15.073,0,0.09,0.593,2.06e-06,0.316,0.62,143.813,4,pop-film
+1mjWhM7GQTTxJxg2F0iCRS,Armaan Malik;Rochak Kohli;Bappi Lahiri,"Dil Mein Ho Tum (From ""Cheat India"")","Dil Mein Ho Tum (From ""Cheat India"")",62,326765,False,0.608,0.653,8,-7.573,0,0.0427,0.507,0.000243,0.107,0.423,86.933,4,pop-film
+0QVO7axWflWmczCHPc4iLG,Vishal-Shekhar;Snigdhajit Bhowmik;Ananya Chakraborty;Manoj Muntashir,Vikram Vedha,Alcoholia,40,231022,False,0.774,0.584,11,-7.89,0,0.107,0.231,0.0,0.198,0.444,132.0,4,pop-film
+7fYE7BT9Na8XpALQwuhIwX,Diljit Dosanjh,MoonChild Era,Champagne,62,182000,False,0.757,0.588,10,-6.383,0,0.12,0.252,0.0,0.0701,0.344,84.968,4,pop-film
+5b9x5sRIzAgXQw0dhGORO1,Amit Trivedi;Arijit Singh,Dear Zindagi (Original Motion Picture Soundtrack),Tu Hi Hai,62,199643,False,0.707,0.501,4,-7.389,1,0.0372,0.387,1.81e-06,0.095,0.542,93.978,4,pop-film
+3Y3nlkoozI2XsL1dzyWdHB,Vishal-Shekhar;Sheykhar Ravjiani;Manoj Muntashir,Vikram Vedha,Oo Saahiba,39,234126,False,0.673,0.333,0,-9.737,1,0.0342,0.798,1.61e-05,0.106,0.365,129.957,1,pop-film
+4LK8863ScRhhT6hitFfBI5,Santhosh Narayanan;Pradeep;Priya Hemesh,Manithan (Original Motion Picture Soundtrack),Aval,61,266639,False,0.324,0.457,2,-8.683,1,0.0336,0.271,2.65e-05,0.433,0.225,99.902,4,pop-film
+22kRCQPyNXWZSQEcDvCmGD,Sachin-Jigar;Priya Saraiya;Jaideep Sahni,Shuddh Desi Romance,Gulabi,62,230661,False,0.673,0.663,4,-10.026,1,0.0446,0.0648,1.79e-05,0.117,0.678,124.002,4,pop-film
+6YYVzVapUF3UnZQ0igasl3,Shafqat Amanat Ali,Yaariyan,Allah Waariyan,62,314522,False,0.483,0.781,4,-5.926,1,0.0445,0.349,0.0,0.126,0.801,83.782,4,pop-film
+646WEyOUsCWtVvI8BIMbeI,Pankaj Udhas,Mohra (With Jhankar Beats) [Original Motion Picture Soundtrack],"Na Kajare Ki Dhar, Pt. 1 (With Jhankar Beats)",62,76040,False,0.485,0.345,3,-8.763,1,0.0284,0.759,0.0,0.381,0.411,108.407,4,pop-film
+2uqXfUERVBLa1heEoUTBlO,Yuvan Shankar Raja;Haricharan;Tanvi Shah,Paiya (Original Motion Picture Soundtrack),Thuli Thuli,62,283346,False,0.709,0.528,7,-7.429,0,0.0309,0.256,0.00189,0.112,0.649,91.999,4,pop-film
+5s9Kd33ExIhpe1JJSj5zLZ,Shreya Ghoshal;Osman Mir,Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack),Nagada Sang Dhol,61,273256,False,0.743,0.921,3,-5.005,0,0.133,0.289,0.0064,0.0402,0.686,113.3,3,pop-film
+2Vw94w6FxCyaYwyCivi9Py,Tulsi Kumar;Darshan Raval,Tere Naal,Tere Naal,62,198344,False,0.315,0.491,11,-7.0,1,0.0311,0.748,0.0,0.128,0.245,109.966,4,pop-film
+4wMpv5KCDYSCQ0rWwKON0E,Haricharan;Benny Dayal;Salim Kumar;Vishnu Vijay,Thallumaala,"Ole Melody - From ""Thallumaala""",61,242005,False,0.752,0.452,0,-11.4,1,0.35,0.142,0.000184,0.235,0.842,99.74,4,pop-film
+2PcgMmmhIZA83kwIYEjR8f,Thaman S;L. R. Eswari;T. Rajendar;Solar Sai,Osthe (Original Motion Picture Soundtrack),Kalasala Kalasala,62,251813,False,0.69,0.895,11,-7.328,0,0.17,0.68,0.0282,0.228,0.835,154.928,4,pop-film
+0q9RjmJFjBcsh7S5Ex4V5K,Diljit Dosanjh,Babe Bhangra Paunde Ne,Nazarey,41,145909,False,0.637,0.891,9,-4.167,1,0.188,0.113,0.0,0.131,0.612,175.94,4,pop-film
+4cNbz1UdBCrnGOg0NNP1iF,Sunidhi Chauhan,Aiyaary (Original Motion Picture Soundtrack),Lae Dooba,63,229877,False,0.569,0.297,6,-8.639,1,0.0292,0.879,0.0,0.0938,0.466,89.96,4,pop-film
+6wBXSf1chpnyXGOSvANs0a,A.R. Rahman;Sid Sriram;Aaryan Dinesh Kanagaratnam,Achcham Yenbadhu Madamaiyada (Original Motion Picture Soundtrack),Thalli Pogathey,62,268055,False,0.582,0.748,9,-6.029,0,0.0349,0.108,0.0,0.0909,0.148,98.228,3,pop-film
+5pV61B6b5kcy1ysaPL8iON,Dhanush;Selvaraghavan,Mayakkam Enna,Kadhal Yen Kadhal,62,367446,False,0.823,0.689,10,-7.791,0,0.0639,0.247,0.000139,0.133,0.569,104.996,4,pop-film
+4NGKImXyLb9jpCzU5kTexb,Kishore Kumar,Audiobiography - Kishore Kumar,Saagar Jaisi Aankhonwali - Saagar / Soundtrack Version,62,302146,False,0.554,0.47,9,-8.698,0,0.0313,0.545,0.0,0.161,0.386,111.82,4,pop-film
+3JUmNYQyJKeRq2a3RR8K71,Meet Bros.;Arijit Singh,Love Forever With Arijit Singh,"Ijazat (From ""One Night Stand"")",62,288964,False,0.519,0.463,6,-8.88,0,0.0264,0.327,0.0,0.106,0.224,94.965,4,pop-film
+4YIhJmihoXwjtbY4vsV9Nh,Vishal Dadlani;Sachin-Jigar,"Kudi Nu Nachne De (From ""Angrezi Medium"")","Kudi Nu Nachne De (From ""Angrezi Medium"")",63,172381,False,0.834,0.688,9,-7.494,1,0.0653,0.175,0.0,0.174,0.876,117.949,4,pop-film
+7JqpYvigO9X4QY3W9QTArZ,Haricharan;Yuvan Shankar Raja,Thottal Poo Malarum,Arabu Naadu,61,322013,False,0.745,0.46,5,-9.92,0,0.0614,0.0952,1.06e-06,0.0751,0.802,84.994,4,pop-film
+1dmTEETgoWQVeNZb1g8dZc,Harris Jayaraj;S. P. Balasubrahmanyam,7 Aum Arivu (Original Motion Picture Soundtrack),Yamma Yamma,61,366506,False,0.581,0.431,2,-10.364,1,0.0353,0.699,4.65e-05,0.134,0.446,88.809,4,pop-film
+3gJbCMoDT9rUmPS1GPd6kn,Santhosh Narayanan;Pradeep Kumar;Dhee;Ananthu,Kaala (Tamil) (Original Motion Picture Soundtrack),Kannamma,62,289853,False,0.585,0.271,4,-12.56,0,0.0413,0.744,0.00137,0.168,0.438,124.895,3,pop-film
+1QuZBM0iHDlr1oRVyeZypC,A.R. Rahman;Devan Ekambaram;Chinmayi,Vinnathaandi Varuvaayaa (Original Motion Picture Soundtrack),Anbil Avan,63,251973,False,0.731,0.901,8,-5.881,1,0.0308,0.231,0.0254,0.0577,0.944,133.039,4,pop-film
+5Gd3pzjK9F7caWRS1fMD68,Harish Raghavendra,Shajahaan,Melliname,61,326008,False,0.662,0.4,9,-11.244,1,0.0651,0.568,5.99e-05,0.0682,0.541,91.936,4,pop-film
+4HDzsx1dJKbuL0YkffBuBm,Harris Jayaraj;Hariharan;Shakthisree Gopalan,Anegan (Original Motion Picture Soundtrack),Thodu Vaanam,61,315213,False,0.628,0.551,0,-6.841,0,0.0612,0.394,0.0,0.178,0.385,136.899,4,pop-film
+73C5Q80RK1T5CA68F6foTl,Harish Raghavendra;Srilekha Parthasarathy;Franko,Lesa Lesa,Yedho Ondru,61,336962,False,0.709,0.535,9,-8.152,0,0.0357,0.164,0.0,0.0877,0.749,99.965,4,pop-film
+2MvCNH9ua0CeOgUQfZf56z,Javed Ali,Ghajini,Guzarish,62,327029,False,0.595,0.624,9,-10.943,0,0.0603,0.0925,0.0,0.114,0.647,170.001,4,pop-film
+322TxW77VZdX9gHynK5Xue,Ritviz,Mimmi,Aaj Na,63,193425,False,0.659,0.345,11,-8.464,1,0.107,0.106,0.0,0.107,0.338,84.761,4,pop-film
+5iyNH1Dmxif1k4Nl1gMeuh,Mohit Chauhan,Delhi-6,Masakali,62,288647,False,0.678,0.622,5,-7.988,0,0.0695,0.138,2.32e-06,0.122,0.535,100.005,4,pop-film
+43mHckutQvJr49nT0UvRxy,Ritviz,Ved,Sage,63,230204,False,0.663,0.412,5,-8.195,0,0.364,0.00434,0.019,0.215,0.356,98.023,4,pop-film
+6uQkoo1UGWThtEpNEYc6Ga,Ajay-Atul;Sonu Nigam;Neeti Mohan,"Sapna Jahan (From ""Brothers"")","Sapna Jahan (From ""Brothers"")",61,341780,False,0.471,0.329,0,-11.958,0,0.0312,0.78,0.0021,0.117,0.144,126.107,4,pop-film
+1ELMyeJLDHUz3cK3XTWgEi,Tulsi Kumar;KK,Aashiqui 2,Piya Aaye Na,61,286120,False,0.5,0.588,4,-7.66,0,0.0362,0.641,4.52e-05,0.327,0.35,81.973,4,pop-film
+5o5xXNGb8jrz0oiAqOMzPP,Sunidhi Chauhan;Anand Raj Anand;DJ Yogii,Ishq Samundar Remix,Ishq Samundar Remix,33,236003,False,0.472,0.9,11,-1.178,0,0.0737,0.167,1.63e-06,0.277,0.594,101.789,4,pop-film
+5TJOAIWHRYW8pRBpnvLUo1,Arijit Singh,1920 Evil Returns,Uska Hi Banana,61,327029,False,0.563,0.689,0,-4.294,0,0.0262,0.294,0.0,0.288,0.321,101.94,4,pop-film
+0TiYOkOkHtMUp5BaLhT4P3,G. V. Prakash;Karthi,"Yaerumayileri (From ""Sardar"")","Yaerumayileri (From ""Sardar"")",55,251988,False,0.583,0.616,7,-9.486,1,0.243,0.201,2.32e-06,0.0367,0.719,103.466,3,pop-film
+32U1XMh3DKlm45uvpofhvY,Mustafa Zahid,Ek Villain,Zaroorat,61,368852,False,0.354,0.712,3,-6.109,0,0.0589,0.358,4.19e-05,0.274,0.238,93.345,4,pop-film
+6q4GmJDbiZ7viOqLHP76cs,Atif Aslam;Shreya Ghoshal,Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Rang Jo Lagyo,61,296160,False,0.479,0.663,2,-6.314,1,0.0489,0.0987,0.0,0.216,0.379,158.107,4,pop-film
+3i11e2jzUtO3jChiFl3v9x,Madan Mohan;Lata Mangeshkar;Roop Kumar Rathod;Javed Akhtar,Veer - Zaara,Tere Liye,63,331676,False,0.525,0.46,1,-8.594,0,0.0246,0.826,0.00202,0.139,0.33,98.007,4,pop-film
+4RixtPhUXlci9ad4qIMj23,Jatin-Lalit;Udit Narayan;Alka Yagnik,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,64,297866,False,0.547,0.554,7,-11.165,1,0.0374,0.602,0.000155,0.0735,0.848,91.386,4,pop-film
+2UKK9UEbKlykbmLVP1zWIQ,Sukhwinder Singh,Rab Ne Bana Di Jodi (Original),Haule Haule,63,263967,False,0.712,0.776,5,-7.424,0,0.213,0.541,2.17e-06,0.0896,0.96,89.934,4,pop-film
+7611zOKtFeRExXesjFjFzg,Shankar Mahadevan;Vipin Patwa;Kumaar,"Vande Mataram (From ""Code Name Tiranga"")","Vande Mataram (From ""Code Name Tiranga"")",43,252145,False,0.473,0.552,0,-7.568,1,0.0486,0.486,0.0,0.143,0.187,76.053,4,pop-film
+1uzkWkIaWaxzHJgJ4Fy5rO,Jatin-Lalit;Amit Kumar;Sonu Nigam;Alka Yagnik;Udit Narayan;Kavita Krishnamurthy,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Bole Chudiyan,65,408133,False,0.59,0.875,5,-5.294,1,0.171,0.45,1.16e-05,0.164,0.737,96.915,4,pop-film
+0mHU8dcIvGrGDazLMmQpSg,Jubin Nautiyal,Kabir Singh,Tujhe Kitna Chahein Aur (Film Version),62,276244,False,0.358,0.252,11,-9.51,1,0.0346,0.604,0.0,0.0915,0.284,145.549,4,pop-film
+16XEVyPh5NT31CAAqPbxQF,Jatin-Lalit;Lata Mangeshkar;Udit Narayan;Anand Bakshi,Mohabbatein,Aankhein Khuli,62,422713,False,0.792,0.635,7,-13.94,0,0.0863,0.349,5.92e-06,0.324,0.648,122.004,4,pop-film
+5uaIbU3oHHcSOK6WFNK5nj,Ranveer Singh;Dub Sharma;DIVINE,Gully Boy,Apna Time Aayega,63,140463,False,0.766,0.618,11,-8.552,0,0.124,0.0187,0.000115,0.181,0.513,95.054,4,pop-film
+2HqSND303T7sT0wOPj3K3C,Shaarib Toshi;Arijit Singh,Zid (Original Motion Picture Soundtrack),Mareez - E - Ishq,61,291148,False,0.526,0.63,7,-6.46,1,0.0557,0.487,4.85e-06,0.102,0.614,158.063,4,pop-film
+4Q3oEhpsDommo2naYhCpAl,Shreya Ghoshal,Rab Ne Bana Di Jodi (Original),Tujh Mein Rab Dikhta Hai - Ii,63,101799,False,0.334,0.3,2,-12.359,0,0.0377,0.863,1.62e-06,0.195,0.158,147.076,4,pop-film
+7e6J0HgooHYVi4SwdOB2OM,Nakash Aziz,Pushpa - The Rise,Eyy Bidda Idhi Naa Adda,61,236057,False,0.728,0.861,0,-5.852,1,0.165,0.2,0.00106,0.0256,0.662,87.467,4,pop-film
+3hoXhwP0ub9LdSJV4olDIc,Shankar-Ehsaan-Loy;Shafqat Amanat Ali,My Name Is Khan (Original Motion Picture Soundtrack),Tere Naina,62,278546,False,0.522,0.74,0,-7.018,1,0.0465,0.558,0.0,0.144,0.732,92.618,4,pop-film
+6NFAlpTFpLrYBrsFuiloH3,Shankar Mahadevan,Shiv Tandav Stotram,Shiv Tandav Stotram,61,553430,False,0.531,0.811,2,-5.474,1,0.0418,0.44,0.0,0.195,0.451,149.897,4,pop-film
+6f3C6rJo7zvmfr1h5SRvxg,Kumar Sanu;Alka Yagnik,Kuch Kuch Hota Hai,Ladki Badi Anjani Hai,63,381706,False,0.637,0.774,7,-9.327,1,0.056,0.522,0.0001,0.0901,0.731,121.108,4,pop-film
+0RSGPiykniIg8m7JhiAVv7,Anupam Roy,Aisi Raaton,Aisi Raaton,62,218930,False,0.517,0.443,9,-8.946,1,0.0529,0.88,0.000141,0.0989,0.538,176.035,4,pop-film
+06wTXKpDMrSp5OfB7MErpx,Meet Bros.;Aditi Singh Sharma;Natalie Ram;Thomson Andrews;Keshia Braganza;Gwen Dias;Ryan Dias,Befikra,Befikra,61,351578,False,0.6,0.979,10,-3.513,1,0.243,0.138,0.0,0.1,0.453,137.06,4,pop-film
+6YYVzVapUF3UnZQ0igasl3,Shafqat Amanat Ali,Yaariyan,Allah Waariyan,62,314522,False,0.483,0.781,4,-5.926,1,0.0445,0.349,0.0,0.126,0.801,83.782,4,pop-film
+7vZz8oJ5qAqB9MghufRK5k,Shankar-Ehsaan-Loy;Siddharth Mahadevan,Bhaag Milkha Bhaag (Original Motion Picture Soundtrack),Zinda,61,211120,False,0.603,0.708,4,-7.047,0,0.0379,0.000173,3.36e-06,0.158,0.611,105.046,4,pop-film
+3Uv8BQFN3bQfhkregyMbnx,Vishal-Shekhar;Shaan;Gayatri Iyer;Jaideep Sahni,Salaam Namaste,My Dil Goes Mmmm,62,452832,False,0.693,0.797,6,-7.392,0,0.0704,0.343,0.00125,0.0673,0.706,90.997,4,pop-film
+4ILc7H2NfGbzbrHBclNOtB,Atif Aslam,Genius (Original Motion Picture Soundtrack),Dil Meri Na Sune,62,236000,False,0.574,0.729,9,-4.2,1,0.0473,0.349,1.85e-06,0.664,0.47,163.748,4,pop-film
+42WGQxg2lPIFBt8ZRHQ4Q4,Mithoon;Atif Aslam;Armaan Malik;Arijit Singh;Amaal Mallik;Salman Khan;Mohit Chauhan;Yo Yo Honey Singh;Ankit Tiwari;Sonu Nigam;Neeti Mohan;Sabri Brothers;Tulsi Kumar;Rashmi Virag;Dj Chetas,Romantic Mashup 2,Romantic Mashup 2,64,325172,False,0.508,0.761,8,-5.118,0,0.0422,0.0933,2e-06,0.268,0.339,100.011,4,pop-film
+3h44S4bynHkbKVP2mogqdX,A.R. Rahman;Rashid Ali;Neeti Mohan,Raanjhanaa (Original Motion Picture Soundtrack),Nazar Laaye - Reprise,61,235973,False,0.666,0.439,4,-11.383,1,0.027,0.287,0.00417,0.121,0.417,87.997,4,pop-film
+2y0hUGvHaKm2p5xmJF4HBe,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Saware (From ""Phantom"")",62,321613,False,0.499,0.683,6,-6.373,0,0.0334,0.703,0.00161,0.0749,0.295,134.95,4,pop-film
+1O3WfEwaSpsgZ6tw8jNT8I,Sachin-Jigar;Parineeti Chopra;Kausar Munir,Meri Pyaari Bindu,Maana Ke Hum Yaar Nahin,62,264614,False,0.537,0.367,8,-9.362,1,0.0241,0.815,0.0,0.132,0.348,90.953,4,pop-film
+7rMqbvNImA6wy8lxlNUMmj,Mithoon;Mohit Chauhan;Sukhwinder Singh;Badshah;Megha Sriram Dalton;Anugrah;Sandeep Shrivastava,Shivaay,"Bolo Har Har Har (feat. Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava)",61,294331,False,0.598,0.813,9,-6.107,1,0.066,0.278,0.0,0.109,0.311,140.101,4,pop-film
+4RL53b4NDXOGZsyN0T2hhI,Thaman S;Actor Siddharth,"Excuse Me Rakshasi (From ""Ninu Veedani Needanu Nene"")","Excuse Me Rakshasi - From ""Ninu Veedani Needanu Nene""",60,228131,False,0.635,0.661,9,-9.085,0,0.0681,0.425,0.000272,0.116,0.211,182.008,4,pop-film
+0Tm5ER6IrGfmW0yZ5lkQli,Yuvan Shankar Raja;Dhanush;Dhee,"Rowdy Baby (From ""Maari 2"" Original Motion Picture Soundtrack)",Rowdy Baby,62,281440,False,0.668,0.703,10,-8.192,0,0.199,0.281,0.0029,0.159,0.588,176.889,3,pop-film
+6UeEm5XPsleVD85kNHCu1n,Kishore Kumar;R. D. Burman,Kati Patang,Yeh Sham Mastani,61,276855,False,0.447,0.476,6,-11.007,1,0.0343,0.891,0.0,0.323,0.563,116.187,4,pop-film
+32j96Gl0BjQHAVdMPxin43,Unni Menon;Sujatha,Roja,Pudhu Vellai Mazhai,61,313028,False,0.626,0.414,0,-9.245,1,0.0426,0.416,2.14e-05,0.117,0.15,61.016,4,pop-film
+4byiHL0b9mIoCUCjbjI4eA,Jubin Nautiyal;Prakriti Kakar,Romantic Hits By Jubin Nautiyal,"Gazab Ka Hai Din (From ""Dil Juunglee"")",62,236325,False,0.325,0.421,2,-8.636,1,0.0566,0.661,4.83e-06,0.0825,0.203,170.376,4,pop-film
+0i6U12LOWlHNngec0HCroE,Mohammed Rafi,Audiobiography,"Maine Poochha Chand Se - From ""Abdullah""",61,307373,False,0.455,0.418,1,-8.018,1,0.0319,0.648,0.0,0.0809,0.284,130.787,3,pop-film
+5xVGxxFjjFsyxGpXE0U8Qt,Hariharan;Sadhana Sargam,Hits Of Vairamuthu,"Vennilavae (From ""Minsara Kanavu"")",60,351720,False,0.639,0.309,6,-12.061,1,0.0316,0.422,0.0,0.175,0.622,91.039,4,pop-film
+1KYqHPwbceagFffliE7fBg,Yuvan Shankar Raja;Sid Sriram,Viruman (Original Motion Picture Soundtrack),Kanja Poovu Kannala,61,237558,False,0.675,0.692,8,-6.353,1,0.0963,0.29,0.0,0.178,0.514,109.971,4,pop-film
+2bageubuN1HjNZwTNlyh0v,Harris Jayaraj;VV Prassanna;Harish Raghavendra;Devan Ekambaram,Surya S/o Krishnan (Original Motion Picture Soundtrack),Naaloney Pongaynu,61,372600,False,0.714,0.495,9,-7.226,1,0.0361,0.328,0.0,0.104,0.238,114.979,4,pop-film
+4mBmsPcPa1Eu4LDTHq55Ab,Jagjit Singh,Dard-E-Jigar,Hothon Se Chhu Lo Tum - From Prem Geet,62,297706,False,0.557,0.327,4,-13.651,1,0.0273,0.844,0.000732,0.118,0.61,98.225,4,pop-film
+3XQ15TDH5wMJMJr0X6u2Yc,Armaan Malik,2016 Shinning Star - Armaan Malik,"Bol Do Na Zara (From ""Azhar"")",61,292826,False,0.545,0.472,11,-8.259,0,0.0311,0.294,0.0,0.0871,0.195,129.988,3,pop-film
+4mOmWSdTmf6fSAibGWCKp7,A.R. Rahman;Jonita Gandhi,O Kadhal Kanmani (Original Motion Picture Soundtrack),Mental Manadhil,61,205759,False,0.568,0.886,6,-7.983,0,0.081,0.0123,3.4e-05,0.361,0.846,160.054,4,pop-film
+5spvSwBVAMvvNseq7SnrDa,Ghibran;Sundar Narayana Rao;Malavika Anilkumar,Papanasam (Original Motion Picture Soundtrack),Yeya En Kottikkaaraa,61,308346,False,0.551,0.413,0,-7.719,1,0.0315,0.684,2.43e-06,0.111,0.391,179.979,3,pop-film
+2ZqzELrxZZyeTPSR7GZBH4,Ghibran;Sid Sriram,Maara (Original Motion Picture Soundtrack),Yaar Azhaippadhu,61,250325,False,0.626,0.525,10,-7.417,1,0.0338,0.675,0.0,0.0645,0.45,114.921,3,pop-film
+15Vuw407y6UWIPUfGrpJ1e,Rekha Bhardwaj,Delhi-6,Genda Phool,61,168240,False,0.734,0.355,10,-10.605,0,0.083,0.296,0.000135,0.124,0.584,193.922,4,pop-film
+2wJ9d1Gfj8OqcznPAroqvh,Arijit Singh,Raaz Reboot,Lo Maan Liya,60,300274,False,0.568,0.55,11,-6.172,0,0.0262,0.728,3.62e-05,0.251,0.436,110.079,4,pop-film
+4yR2z3JafnCo86THA6ISZ4,Atif Aslam,Kalyug,Aadat,60,333740,False,0.63,0.746,0,-6.551,0,0.0398,0.175,0.000836,0.271,0.34,102.954,4,pop-film
+648GXyKI62FhbeBq0levWr,Adnan Sami,Salaam-E-Ishq,Dil Kya Kare,61,327880,False,0.76,0.547,7,-9.386,1,0.0351,0.0957,1.04e-05,0.12,0.667,95.023,4,pop-film
+2YMlGrhVHdbXeDejv0R77R,Yo Yo Honey Singh,Together Forever,Together Forever,54,229218,False,0.737,0.832,9,-5.199,0,0.165,0.26,0.0,0.108,0.67,160.022,4,pop-film
+2VR1z4g6haFyMoghNj46KB,Ali Zafar,Jhoom,Jhoom,61,389213,False,0.734,0.529,0,-10.198,1,0.0346,0.392,0.0,0.11,0.58,128.022,4,pop-film
+6HDBzDFSDYSmKzadobMr7e,Arijit Singh;Akull;Riya Duggal,"Tera Hua (From ""Cash"")","Tera Hua (From ""Cash"")",61,253500,False,0.473,0.435,11,-5.305,1,0.0286,0.724,0.0,0.209,0.362,147.803,3,pop-film
+3MVPReTwLNOBFb6KjiIRNM,Arijit Singh,Jackpot,Kabhi Jo Baadal Barse,61,254300,False,0.451,0.449,0,-6.702,0,0.0293,0.261,0.0,0.143,0.217,149.768,4,pop-film
+0Ose0T05P8Ou0GvhwmMKcf,Ash King;Shilpa Rao;Shekhar Ravjiani,Bang Bang (Original Motion Picture Soundtrack),Meherbaan,61,307407,False,0.59,0.531,9,-8.677,0,0.0471,0.628,3.88e-06,0.499,0.482,80.976,4,pop-film
+3tgdOveYac7YMEAQD9sGLf,Vishal-Shekhar;Papon;Irshad Kamil,Sultan,Bulleya,61,357067,False,0.675,0.579,4,-11.976,1,0.0308,0.369,3.38e-06,0.118,0.724,97.01,4,pop-film
+0ypgFw67lNEpoKFUxUV0tG,KK,Rehnaa Hai Terre Dil Mein,Such Keh Raha Hai,60,328880,False,0.797,0.306,11,-14.176,0,0.0487,0.337,0.0,0.169,0.519,124.003,4,pop-film
+2ILhVeTkbDAYEvesCCBsNo,Shankar-Ehsaan-Loy;Sonu Nigam;Alka Yagnik,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Tumhi Dekho Naa,61,347453,False,0.525,0.448,2,-10.365,0,0.0391,0.572,1.51e-05,0.107,0.356,81.131,4,pop-film
+2q9biTikX9PkTbzDCZfEn7,Jubin Nautiyal;Shashwat Sachdev,"Ik Tu Hai ❤️ (From ""Attack"")","Ik Tu Hai ❤️ (From ""Attack"")",61,250633,False,0.514,0.601,0,-8.046,1,0.0677,0.302,0.0,0.075,0.452,92.648,4,pop-film
+517bz7zkWELmyL4eZzJ5R9,Ankit Tiwari,Best Of Shraddha Kapoor,"Galliyan (From ""Ek Villain"")",62,340399,False,0.552,0.75,10,-5.215,0,0.039,0.445,7.37e-05,0.291,0.4,89.999,4,pop-film
+3kuxr8U3QynLzyW82p5hYR,Rahat Fateh Ali Khan,Anjaana Anjaani,Aas Paas Khuda,61,319115,False,0.556,0.706,5,-5.709,1,0.0336,0.335,1.8e-06,0.137,0.726,80.008,4,pop-film
+14eFqoEf1NBm7kh2jWc3TU,Arijit Singh;Palak Muchhal,Gabbar Is Back,Teri Meri Kahaani,61,331443,False,0.601,0.802,3,-6.537,0,0.0372,0.158,1.45e-06,0.314,0.345,109.989,4,pop-film
+38TO59989lXAdlTJfEzGeg,Amaal Mallik;Armaan Malik;Rashmi Virag,"Jaan Hai Meri (From ""Radhe Shyam"")","Jaan Hai Meri (From ""Radhe Shyam"")",60,274947,False,0.536,0.623,7,-7.856,1,0.0743,0.693,2.04e-06,0.137,0.398,79.915,4,pop-film
+5Rn1DPzSzUktbhuNDDJocS,KK;Shefali Alvares;Yo Yo Honey Singh;Pritam,Race 2 (Original Motion Picture Soundtrack),Party On My Mind,61,222133,False,0.715,0.864,11,-5.013,0,0.0751,0.0188,0.0,0.719,0.57,122.016,4,pop-film
+2HbrsAxOZfG0s1xCQuk6nB,Arijit Singh;Arko,"Desh Mere (From ""Bhuj The Pride Of India"")","Desh Mere (From ""Bhuj The Pride Of India"")",60,203186,False,0.406,0.504,3,-7.444,1,0.0646,0.537,0.0,0.109,0.495,77.796,4,pop-film
+44O26Gv1wQrlUj14PpTolM,Sunidhi Chauhan;Divya Kumar;Amit Trivedi,"Halka Halka (From ""Fanney Khan"")","Halka Halka (From ""Fanney Khan"")",61,247381,False,0.691,0.796,7,-4.778,1,0.0387,0.0495,0.0,0.333,0.541,127.985,4,pop-film
+6VbmeIWTbNHM5uqoW7GTE4,Sunidhi Chauhan;Vishal Dadlani,Tees Maar Khan,Sheila Ki Jawani,63,281707,False,0.803,0.859,6,-4.405,0,0.185,0.305,6.18e-05,0.553,0.631,101.007,4,pop-film
+44gJjTJwY4eba0jpNnrlld,Diljit Dosanjh,MoonChild Era,Vibe,62,155250,False,0.706,0.632,1,-7.172,1,0.0705,0.00713,0.0,0.129,0.625,87.993,4,pop-film
+0ThEdqK8ZBi4nKNs1fOpJD,Atif Aslam,Tu Jaane Naa (Lofi Mix),Tu Jaane Naa (Lofi Mix),61,338875,False,0.518,0.719,7,-4.863,1,0.0414,0.574,6.97e-05,0.22,0.286,115.032,4,pop-film
+55eUtE9v3uatR0y0NijM6N,Tulsi Kumar;Arijit Singh,Aashiqui 2,Hum Mar Jayenge,60,306511,False,0.568,0.508,9,-7.553,1,0.0333,0.737,0.0,0.103,0.685,86.03,4,pop-film
+4x723mcckl6ToQHuXPhrIX,Atif Aslam;Sumedha Karmahe,A Flying Jatt,Toota Jo Kabhi Tara,61,305014,False,0.443,0.674,9,-6.302,0,0.0358,0.424,3.15e-05,0.121,0.219,139.906,4,pop-film
+6Y1cH3RzDCMWGQtOS0HmP8,Kailash Kher,Waisa Bhi Hota Hai Part 2,Allah Ke Bande,62,246883,False,0.543,0.44,7,-8.595,1,0.0597,0.795,0.0,0.224,0.726,125.53,5,pop-film
+31phvnfUfwzi0nf3dO814j,Vishal-Shekhar;Vishal Dadlani;Shekhar Ravjiani,Student of the Year (Original Motion Picture Soundtrack),Vele,61,230546,False,0.833,0.754,2,-7.555,1,0.0513,0.0166,0.0,0.246,0.65,108.001,4,pop-film
+7ouBSPZKQpm7zQz2leJXta,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Tum Hi Ho (From ""Aashiqui 2"")",62,261974,False,0.529,0.451,5,-6.25,0,0.025,0.788,0.0,0.122,0.309,94.054,4,pop-film
+5dG3KI5rIUwiUQNNr3Y1to,A.R. Rahman;Sid Sriram;Issrath Quadhri,I - Manoharudu (Original Motion Picture Soundtrack),Nuvvunte Naa Jathagaa,61,352613,False,0.45,0.686,0,-4.111,1,0.0361,0.126,0.0,0.147,0.208,78.973,4,pop-film
+5HcBFhFQEtqKrsRkr95XYu,Arijit Singh;Aditi Singh Sharma,Groove With Arijit Singh,"Sooraj Dooba Hain (From ""Roy"")",62,264854,False,0.616,0.75,2,-4.629,1,0.0594,0.172,0.0,0.137,0.434,128.051,4,pop-film
+3JPY6LZEx3qtSAirFLykiP,Vijay;Sunidhi Chauhan,Kaththi (Original Motion Picture Soundtrack),Selfie Pulla,59,293000,False,0.714,0.959,8,-2.906,0,0.176,0.36,0.0,0.306,0.775,129.009,4,pop-film
+1qfanYrmrh7xDSvt15acZ3,Karthik,Ghajini (Original Motion Picture Soundtrack),Oru Maalai,60,354240,False,0.805,0.742,0,-6.366,0,0.0396,0.0578,0.000482,0.361,0.717,111.981,4,pop-film
+5NbR7c5zrOZN3Dje3JVJEN,Jagjit Singh,Sarfarosh (Original Motion Picture Soundtrack),Hoshwalon Ko Khabar Kya,62,307000,False,0.527,0.447,6,-12.014,1,0.0311,0.243,0.0,0.255,0.536,94.051,4,pop-film
+5zjFsuLrTM5sp6coribhCa,Sukhwinder Singh,Taal (Original Motion Picture Soundtrack),Taal Se Taal - Western Version,62,154200,False,0.771,0.72,7,-11.742,1,0.0867,0.203,0.0011,0.335,0.492,94.968,4,pop-film
+1qyib2Wb5YTbNzZi7QMhEY,Jatin-Lalit;Kumar Sanu,Kabhi Haan Kabhi Naa (Original Motion Picture Soundtrack),Ae Kash Ke Hum,61,310426,False,0.364,0.687,0,-7.967,1,0.0571,0.656,0.0,0.175,0.663,161.008,3,pop-film
+5ckJAMv3Ixm6orTgfkmtbf,Amit Trivedi;Shruti Pathak;Divya Kumar,Celebrate Kai Po Che (Original Motion Picture Soundtrack),Shubhaarambh,61,232533,False,0.484,0.545,10,-6.607,1,0.0485,0.2,0.0,0.188,0.575,114.989,4,pop-film
+64NPSUK9QT49jEDKl3FK1a,Santhosh Narayanan,Mahaan (Original Motion Picture Soundtrack),Evanda Enakku Custody,60,212857,False,0.656,0.797,1,-4.678,1,0.414,0.0148,3.97e-05,0.0626,0.859,102.142,4,pop-film
+2yRBJpAD66GuNRKQ8bKXtY,Asha Bhosle;Mohammed Rafi;R. D. Burman,Yaadon Ki Baaraat,Chura Liya Hai Tumne Jo Dil Ko,61,287840,False,0.56,0.318,9,-11.106,0,0.0317,0.857,1.88e-06,0.11,0.684,80.238,4,pop-film
+4g9VvOS1WpFp2FZVSzvIZA,Unnikrishnan;Sujatha,Jeans (Original Motion Picture Soundtrack),Poovukkul,61,413425,False,0.755,0.517,7,-9.557,1,0.0283,0.115,1.83e-06,0.109,0.292,104.015,4,pop-film
+2ZxdwRUfd0LiAshQclfQZb,Diljit Dosanjh,Drive Thru,Red Chilli,62,152500,False,0.81,0.784,10,-7.077,0,0.192,0.037,0.0,0.0631,0.763,88.004,4,pop-film
+6Pb8yzyD30gPhVLnZUEiZG,Hariharan,Ayan,Pala Pala,60,325363,False,0.742,0.867,5,-7.697,1,0.0361,0.134,4.98e-06,0.153,0.757,129.987,4,pop-film
+10LfH6Hkt06jYjXo8FGecm,Yuvan Shankar Raja;Silambarasan TR;Blaze,Vallavan (Original Motion Picture Soundtrack),Loosu Pennae,60,411706,False,0.673,0.486,5,-7.987,0,0.103,0.475,0.00022,0.0906,0.535,191.943,4,pop-film
+2MAQWNhW0jKI0qWnNNO8C9,Mukesh,Kabhi Kabhie,Main Pal Do Pal Ka Shair Hoon,60,204040,False,0.565,0.334,4,-13.626,1,0.0309,0.85,0.0,0.632,0.64,124.193,4,pop-film
+0tgwvpBXcw7GURJRqBnc4g,Meet Bros.;Roach Killa;Khushboo Grewal;Arijit Singh,Best Of Arijit Singh - Revisited,"Girl I Need You (From ""Baaghi"")",61,297752,False,0.647,0.537,0,-7.486,1,0.0258,0.368,0.0,0.213,0.185,131.927,4,pop-film
+22l0qyOhl50I7bslggljTD,Unni Menon;Swarnalatha,Uyire (Original Motion Picture Soundtrack),Poongatrile,59,340610,False,0.743,0.335,11,-13.506,0,0.0377,0.25,0.0,0.131,0.574,121.968,4,pop-film
+1RQw9ruSPj5Is7OzqG09Zs,Karthik;Krishh;Harini,Unnale Unnale,Unnaale Unnaale,60,283373,False,0.784,0.629,10,-9.754,0,0.0424,0.364,2.4e-06,0.0941,0.843,101.016,4,pop-film
+7mMkw0JFKnyMS6oGRT6b3O,A.R. Rahman;Shreya Ghoshal,Vinnathaandi Varuvaayaa (Original Motion Picture Soundtrack),Mannipaaya,61,416320,False,0.389,0.485,3,-8.961,1,0.0348,0.7,3.28e-05,0.122,0.249,175.991,4,pop-film
+3ysUkfcrFwvXweDt0cliH8,Vijay Antony;Sangeetha Rajeshwaran,Vedi (Original Motion Picture Soundtrack),Ichu Ichu,60,226698,False,0.852,0.791,7,-7.028,0,0.0538,0.228,0.00187,0.139,0.955,109.976,4,pop-film
+0CkDv2V3FFhltON32OwE0x,Yuvan Shankar Raja;Sadhana Sargam,Manmadhan,Manmadhane Nee,60,271339,False,0.614,0.77,5,-6.622,0,0.0574,0.333,0.000144,0.405,0.423,89.91,4,pop-film
+6rHDMFYZMwHeQZ6084qFHq,Ilaiyaraaja;S. P. Balasubrahmanyam;Swarnalatha,Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack),Ennai Thottu,60,300960,False,0.796,0.35,0,-15.182,1,0.044,0.851,0.00684,0.124,0.793,115.891,4,pop-film
+4hXHlAc9ZOJY5pGbdfuWsa,Arijit Singh,Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack),Laal Ishq,59,387169,False,0.512,0.67,3,-5.792,1,0.027,0.034,0.0,0.309,0.446,105.957,4,pop-film
+53DXM0bHfB7xkqJZYlksuh,Benny Dayal;Shreya Ghoshal,Ghajini,Kaise Mujhe,60,343741,False,0.59,0.414,10,-12.391,1,0.0346,0.781,0.000522,0.146,0.292,82.002,4,pop-film
+4chxJYv0qsOKQukt6cKp97,Mustafa Zahid,Awarapan (Original Soundtrack),Toh Phir Aao,60,348280,False,0.459,0.563,9,-6.369,0,0.0263,0.39,1.98e-06,0.107,0.0961,101.996,4,pop-film
+47Il9B5GJ2FEkiwiIH3xX0,Arijit Singh,Kabir Singh,Bekhayali (Arijit Singh Version),60,370444,False,0.29,0.58,9,-4.767,0,0.0434,0.491,0.0,0.243,0.353,172.396,3,pop-film
+7s6yy0SWZ4rluoQZsvJa2D,Lucky Ali;Ramya,Kaho Naa Pyar Hai,Na Tum Jano Na Hum,59,383213,False,0.507,0.519,9,-11.197,1,0.0451,0.325,0.00062,0.0566,0.584,179.461,4,pop-film
+2tva3nN2kQhBjHMC7Zlty6,Javed Ali,Raaz 3,Deewana Kar Raha Hai,60,338922,False,0.538,0.736,11,-6.113,0,0.109,0.37,0.0,0.124,0.644,147.89,4,pop-film
+5Q58RkKyUafm15Syxg79DW,Amit Trivedi;Nikhil D'Souza;Neuman Pinto,Aisha (Original Motion Picture Soundtrack),Sham,60,284626,False,0.722,0.288,4,-10.767,1,0.0444,0.827,1.06e-05,0.12,0.502,119.899,4,pop-film
+5B29YNjG7dx0GfU19ZBEpo,Lata Mangeshkar;Kishore Kumar,Silsila,Dekha Ek Khwab,59,320733,False,0.367,0.299,4,-14.557,1,0.0597,0.941,0.00402,0.423,0.383,147.363,3,pop-film
+3Rvdqwgbr3rryZkNRrItt3,Tulsi Kumar;Darshan Raval;Sachet-Parampara,Is Qadar,Is Qadar,60,226313,False,0.671,0.904,6,-2.736,0,0.0506,0.514,3.23e-05,0.0642,0.811,90.971,4,pop-film
+0v7rJIwQ2xeB1W19eU5IQS,Sonu Nigam;Shreya Ghoshal,Main Hoon Na,Main Hoon Na,61,361066,False,0.48,0.681,5,-8.002,1,0.163,0.284,0.0,0.125,0.74,88.003,4,pop-film
+5NChQ2tXB9q9D8kdkLTWOL,A.R. Rahman;Leon D'souza;Suzanne D'Mello,Ekk Deewana Tha (Original Motion Picture Soundtrack),Hosanna,60,331400,False,0.571,0.802,7,-7.201,1,0.0391,0.28,6.43e-05,0.0497,0.596,85.97,4,pop-film
+2E2G88mTTJjbbmEpqTkbaV,Vishal Dadlani,Bang Bang (Original Motion Picture Soundtrack),Tu Meri,62,257089,False,0.679,0.687,8,-5.522,1,0.0294,0.0779,0.0,0.704,0.424,127.961,4,pop-film
+3bbzeZcfsK0ac7rdN2s7WX,Sooraj Santhosh;Anne Amie,Kumbalangi Nights (Original Motion Picture Soundtrack),Uyiril Thodum,59,234929,False,0.66,0.411,4,-9.356,0,0.0308,0.719,0.000218,0.0956,0.275,107.895,4,pop-film
+3OZr3vo7SmYpn5XqeQEAOM,Yo Yo Honey Singh;Neha Kakkar,The Neha Kakkar Collection,Manali Trance,61,203206,False,0.614,0.842,6,-4.109,1,0.0745,0.00814,1.33e-05,0.212,0.915,156.051,4,pop-film
+7oDykOViQGiV9M3enF7u4Y,Neha Kakkar;Arjun Kanungo,La La La,La La La,60,192000,False,0.774,0.781,10,-4.426,1,0.104,0.341,0.0,0.111,0.469,100.017,4,pop-film
+6Z394Nd4gW6Ts9hmu3NUjx,A.R. Rahman;Mohit Chauhan,Rockstar,Nadaan Parinde,60,384000,False,0.507,0.741,6,-7.456,0,0.0535,0.414,3.95e-06,0.107,0.492,132.903,4,pop-film
+5wQlXgGVSwvBVKXf5lmWhp,Rahat Fateh Ali Khan,Kalyug,Jiya Dhadak Dhadak Jaye,60,319480,False,0.677,0.533,0,-9.741,1,0.0343,0.157,5.92e-05,0.121,0.398,119.954,4,pop-film
+2PxZSFOv7RebkeSEwQTjr7,Mustafa Zahid,Awarapan (Original Soundtrack),Tera Mera Rishta,60,347040,False,0.575,0.895,4,-3.417,0,0.0541,0.0521,0.00142,0.104,0.648,102.02,4,pop-film
+1vSXwYeKnzsVvekSpqVabx,Ajay-Atul;Shreya Ghoshal,Agneepath (Original Motion Picture Soundtrack),Chikni Chameli,62,301586,False,0.693,0.956,1,-5.012,0,0.071,0.289,0.0,0.294,0.665,90.005,4,pop-film
+6fIVkFeP4tk5CzFTPDf9PE,Udit Narayan,Darr,Jaadu Teri Nazar,60,279909,False,0.604,0.689,6,-13.12,0,0.0459,0.401,4.45e-05,0.104,0.673,87.838,4,pop-film
+38WTxU8ZWOM7FXf7E07qcG,Rahat Fateh Ali Khan;Krishna,Namastey London (Original Motion Picture Soundtrack),Main Jahaan Rahoon,60,382493,False,0.446,0.561,5,-8.987,1,0.0591,0.363,2.4e-05,0.128,0.524,102.669,4,pop-film
+7Czm0vv2sYL5z4P51KY66e,Shankar-Ehsaan-Loy;Sadhana Sargam;Sujata Bhattacharya;Udit Narayan;Sonu Nigam,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Maahi Ve,63,366853,False,0.815,0.833,7,-6.117,0,0.0769,0.0297,2e-05,0.33,0.563,99.989,4,pop-film
+7fyIuR4aaWb6iltlAoSkxF,Madan Mohan;Lata Mangeshkar;Sonu Nigam;Javed Akhtar,Veer - Zaara,Do Pal,61,265926,False,0.247,0.556,11,-7.514,1,0.0376,0.635,0.000436,0.146,0.371,168.823,4,pop-film
+0M3Mp9NSPMxPAb9oUZh80o,Santhosh Narayanan;Rahul Sipligunj;Kasarla Shyam;Gotte Kanakavva;Gannora Dasa Laxmi;Palamuru Jangireddy;Narsanna (Nalgonda Gaddar),"Dhoom Dhaam (From ""Dasara"") - Telugu",Dhoom Dhaam,59,242019,False,0.595,0.895,1,-5.218,1,0.422,0.499,4.7e-05,0.0959,0.874,97.43,4,pop-film
+0ecW7IqLKhzKTPeqLSNc0V,Jasleen Royal;Ranveer Allahbadia;Ujjwal Kashyap,Sang Rahiyo,Sang Rahiyo,61,213288,False,0.629,0.528,10,-11.374,1,0.0247,0.791,0.000222,0.0617,0.397,93.982,4,pop-film
+1b4gksr8TMyoyFdwrmPSvY,Rahat Fateh Ali Khan,Meray Paas Tum Ho,Meray Paas Tum Ho,61,301348,False,0.352,0.431,7,-7.612,1,0.0366,0.756,0.0,0.146,0.237,131.912,3,pop-film
+3hp56aHySTDt9bdZiwdDO1,Hariharan;Clinton Cerejo,Alaipayuthey,Pachai Nirame,59,358626,False,0.64,0.399,1,-16.304,0,0.0392,0.427,0.00241,0.381,0.579,87.972,4,pop-film
+3SXsfyC1DgEp7ehmJzWdky,G. V. Prakash;Anurag Kulkarni,"Senaathipathi Nene [From ""Sardar (Telugu)""]","Senaathipathi Nene (From ""Sardar (Telugu)"")",48,251988,False,0.597,0.627,0,-10.63,0,0.183,0.195,2.68e-05,0.0614,0.711,103.508,3,pop-film
+1sNCUR5bUvFSQVDYEvsHCU,Shreya Ghoshal;Ajay,Singham,Saathiyaa,60,310924,False,0.548,0.733,2,-6.634,1,0.0654,0.574,5.29e-06,0.182,0.574,86.96,4,pop-film
+3H43T5swYywvcdCBFiDgW6,Shreya Ghoshal;Arijit Singh,Happy New Year,Manwa Laage,60,272082,False,0.676,0.671,0,-6.271,1,0.0526,0.568,0.0,0.0885,0.572,81.046,4,pop-film
+3tp3ij9dtY3CacQgd1OvRf,Bombay Jayashri;Swattrex,Hindi LoFi Vibe,Zara Zara - LoFi Chill,59,387716,False,0.583,0.308,7,-18.303,0,0.0465,0.581,0.0106,0.257,0.241,118.226,4,pop-film
+2DDOQBKGmkv7bPoYF1bELz,Armaan Malik;Thaman S,Tholi Prema,Ninnila,60,234883,False,0.699,0.467,6,-6.363,1,0.0298,0.505,2.5e-06,0.152,0.277,128.989,4,pop-film
+3eQL03MvTJQkLqXryJ8Fja,Jeet Gannguli;Arijit Singh,"Hamari Adhuri Kahani (Title Track) [From ""Hamari Adhuri Kahani""]","Hamari Adhuri Kahani (Title Track) [From ""Hamari Adhuri Kahani""]",60,398799,False,0.223,0.359,0,-7.569,1,0.0312,0.845,0.0,0.133,0.193,73.059,4,pop-film
+0pWcUM0z72DhTW7j0fa0QM,Armaan Malik,M.S.Dhoni - The Untold Story,Besabriyaan,60,255738,False,0.338,0.459,2,-8.827,1,0.027,0.533,1.33e-05,0.22,0.32,81.203,4,pop-film
+5jOHD4c6UayVZn9Xm7IvyO,Mohit Chauhan,Heropanti,Rabba,60,293209,False,0.292,0.766,11,-5.206,1,0.0563,0.197,0.0,0.243,0.468,82.305,4,pop-film
+2XfmRXh6SsEk22Hz8zahl3,Shaan;Shantanu Moitra,3 Idiots (Original Motion Picture Soundtrack),Behti Hawa Sa Tha Woh,60,302142,False,0.623,0.474,0,-10.532,1,0.0382,0.384,2.39e-05,0.0931,0.379,139.981,4,pop-film
+0lZ0BOfkjnBslRqTJgCBop,Karthik;Prashanthini,Ayan,Vizhi Moodi,60,332266,False,0.739,0.375,7,-9.36,0,0.0541,0.119,0.0,0.0863,0.581,90.952,4,pop-film
+5nVFeACm96rucybpDAjfK5,Haricharan;Pawan Ch,Love Story,Ay Pilla - Telugu,59,253773,False,0.504,0.554,1,-12.085,1,0.0356,0.347,1.36e-05,0.0963,0.386,140.005,4,pop-film
+1XscMS790b4g5GmCnnO8HX,Harris Jayaraj;Aalaap Raju;Devan Ekambaram;Ranina Reddy,Engeyum Kadhal (Original Motion Picture Soundtrack),Engeyum Kaadhal,59,330200,False,0.739,0.343,8,-7.831,1,0.0286,0.306,4.85e-05,0.0801,0.29,119.958,4,pop-film
+1edm6pAKQv5JsRjxsyjJFY,Unnikrishnan;Kavita Krishnamurthy,Rhythm,Kaattrae En Vaasal - Wind,59,378560,False,0.613,0.396,10,-14.281,0,0.0391,0.209,0.000674,0.189,0.459,172.016,4,pop-film
+55mEN7iiqTNzWfYjF8QbQn,Harris Jayaraj;Karthik;Shashaa Tirupati;Vikram,"Oru Manam (From ""Dhruva Natchathiram"")","Oru Manam (From ""Dhruva Natchathiram"")",59,340254,False,0.641,0.474,2,-8.974,1,0.034,0.457,2.54e-06,0.106,0.588,76.006,4,pop-film
+2YoPh281gD3xPnTkojVSr3,Harris Jayaraj;Krishh;Benny Dayal;Shruti Haasan,Vaaranam Aayiram (Original Motion Picture Soundtrack),Adiyae Kolluthey,60,315546,False,0.719,0.645,2,-7.017,1,0.0343,0.171,1.12e-05,0.0934,0.711,118.983,4,pop-film
+0jCZ3xX2xZTWMUnQMk1Vig,Shankar Mahadevan;Aalaap Raju,Indru Netru Naalai (Original Motion Picture Soundtrack),Indru Netru Naalai,60,185216,False,0.536,0.591,0,-5.377,0,0.0292,0.463,0.0,0.133,0.347,128.056,4,pop-film
+6qhTVtHIsK8WVf7biagk7O,Amit Trivedi;Osman Mir,Moti Veraana (From Songs of Faith),Moti Veraana (From Songs of Faith),59,256399,False,0.71,0.783,10,-6.739,1,0.075,0.269,3.31e-05,0.0842,0.624,112.503,3,pop-film
+0j5PDjpBsLIEQdRVSoXFBv,G. V. Prakash;Shubha Mudgal;Nithyasree Mahadevan;Vinitra,Anandha Thaandavam (Original Motion Picture Soundtrack),Kanaa Kaangiren,59,345560,False,0.47,0.808,9,-3.518,0,0.12,0.0803,0.00903,0.0765,0.549,119.963,4,pop-film
+5q2MZwkvdw28qv0WPsRPHA,A.R. Rahman;Srinivas,Jodhaa Akbar (Tamil) [Original Motion Picture Soundtrack],Muzumathi,60,312453,False,0.708,0.325,2,-11.414,1,0.0369,0.819,1.42e-06,0.0827,0.567,137.814,4,pop-film
+1DfsxoKqz6M6CSOkX8HpxR,Shankar Mahadevan;Sadhana Sargam,Hits of Shankar Mahadevan,"Merke Merke ( From"" Kanda Naal Mudhalai"")",60,307720,False,0.682,0.608,5,-9.902,0,0.0436,0.425,3.69e-05,0.122,0.536,79.981,4,pop-film
+2sTymDWDw0uwNU5jnrm4lB,C. Sathya,Nedunchalai (Original Motion Picture Soundtrack),Thamirabarani,60,295772,False,0.821,0.539,11,-8.537,0,0.0485,0.0401,2.48e-05,0.14,0.624,112.008,4,pop-film
+3RVKJOoIVKXicFvNO7b2iK,A.R. Rahman;Chinmayi;Murtuza Khan;Qadir Khan,Guru (Original Motion Picture Soundtrack),Aaruyire,60,308786,False,0.746,0.803,9,-3.813,1,0.0366,0.275,1.7e-05,0.0741,0.831,144.024,4,pop-film
+3SwkKcpCModXgfYCFn67CA,Abhijeet,Sensational Duets (Abhijeet & Alka Yagnik),"Waada Raha Sanam (From ""Khiladi"")",60,367934,False,0.578,0.626,0,-8.722,1,0.0411,0.772,0.000639,0.111,0.779,125.956,4,pop-film
+6fW78cd0p3ZDUzoqvx2Xqe,Jeet Gannguli;Arijit Singh,Citylights (Original Motion Picture Soundtrack),Muskurane - Romantic,60,334331,False,0.567,0.577,11,-6.197,0,0.0264,0.628,0.0,0.132,0.217,101.99,4,pop-film
+5pAo2q7eVt65OSkwYgqhHl,Benny Dayal;Shalmali Kholgade,Cocktail (Original Motion Picture Soundtrack),Daaru Desi,59,269200,False,0.703,0.781,8,-6.876,0,0.0468,0.194,0.000368,0.0928,0.679,94.014,4,pop-film
+7DonyrUlcVcrtk28mqvWNL,Benny Dayal;Neeti Mohan,Bang Bang (Original Motion Picture Soundtrack),Bang Bang,61,320000,False,0.705,0.678,4,-8.644,0,0.0415,0.0483,7.01e-05,0.496,0.691,120.042,4,pop-film
+342pJxy678kgQrZXCL9RG7,Yo Yo Honey Singh,Urvashi,Urvashi,60,215483,False,0.792,0.703,0,-4.343,1,0.0368,0.195,0.0,0.072,0.634,105.995,4,pop-film
+1KgIBPUmEDdjsMwPnGmDKC,Rahat Fateh Ali Khan,Qalandar (Original Score),Qalandar (Original Score),33,289301,False,0.592,0.629,7,-6.344,1,0.0359,0.779,7.6e-06,0.0888,0.62,149.946,4,pop-film
+7krGSbOnw13S7tIpgVEWAo,Diljit Dosanjh,G.O.A.T.,Clash,60,176385,False,0.693,0.593,9,-8.506,0,0.217,0.0187,1.09e-06,0.407,0.688,165.924,4,pop-film
+0Sw7dhcGlUvIl2NkNejvmZ,Jubin Nautiyal;Rashmi Virag;Jeet Gannguli,Sanak (Original Motion Picture Soundtrack),Suna Hai,60,193333,False,0.462,0.472,4,-6.913,0,0.0281,0.726,0.000107,0.136,0.238,116.777,4,pop-film
+43SKg10CCeaoyr7XSKfpTR,Himesh Reshammiya,Aksar,Jhalak Dikhla Ja,59,317560,False,0.688,0.737,2,-10.051,1,0.0443,0.015,0.00025,0.0599,0.635,110.969,4,pop-film
+78KKYDENYsw6jYfuEZsqJl,A.R. Rahman;Sonu Nigam;Gulzar,Saathiya,Saathiya,59,357433,False,0.462,0.457,1,-15.251,0,0.106,0.186,0.0,0.334,0.535,175.94,4,pop-film
+0h73AwuEY2x44cBMOP58fO,Atif Aslam;Alka Yagnik;Pritam,Kismat Konnection (Original Motion Picture Soundtrack),Bakhuda Tumhi Ho,60,292493,False,0.322,0.752,2,-3.457,1,0.0422,0.633,0.0,0.129,0.502,126.967,4,pop-film
+01AE1MgL6L86WQzh4KGDUa,Meet Bros.;Jubin Nautiyal;Dhvani Bhanushali,"Kinna Sona (From ""Marjaavaan"")","Kinna Sona (From ""Marjaavaan"")",59,273925,False,0.533,0.723,3,-4.301,0,0.0614,0.283,0.0,0.0678,0.591,97.848,4,pop-film
+6oDHAjaJJjwwgoAuMIeY9K,Neha Kakkar;Yash Narvekar;Tanishk Bagchi,"Ek Toh Kum Zindagani (From ""Marjaavaan"")","Ek Toh Kum Zindagani (From ""Marjaavaan"")",60,190345,False,0.668,0.965,7,-2.293,1,0.091,0.0579,0.000867,0.0566,0.722,128.012,4,pop-film
+2U0BLmYoSESYOdwMxW2yA9,Mithoon;Arijit Singh,"Chal Ghar Chalen (From ""Malang - Unleash The Madness"") [Mithoon feat. Arijit Singh]","Chal Ghar Chalen (From ""Malang - Unleash The Madness"") [Mithoon feat. Arijit Singh]",60,340671,False,0.285,0.238,5,-9.623,0,0.0375,0.663,9.23e-06,0.0793,0.213,179.918,4,pop-film
+0wnLMEOQlyW3Es1ag0HMVV,A.R. Rahman;Asha Bhosle;Udit Narayan;Vaishali Samant,Lagaan (Original Motion Picture Soundtrack),Radha Kaise Na Jale,59,334706,False,0.729,0.505,7,-9.236,1,0.323,0.229,0.0,0.0975,0.723,148.435,3,pop-film
+5iHOTwCpFRSdBfITAdBP3d,Rahat Fateh Ali Khan;Suzanne D'Mello;Mann Taneja,Rishte Naate (LO-FI Remix),Rishte Naate - LO-FI Remix,0,264892,False,0.569,0.75,11,-4.851,1,0.335,0.688,8.4e-06,0.115,0.522,155.904,4,pop-film
+4P4NsWdqLziZpEteU1uFCI,Kumar Sanu;Alka Yagnik,Main Khiladi Tu Anari (Original Motion Picture Soundtrack),Chura Ke Dil Mera,60,474653,False,0.613,0.696,8,-9.486,0,0.0504,0.136,0.00222,0.053,0.874,122.056,4,pop-film
+3zAXHUL5YcYOA41rruvjy4,Vishal-Shekhar;Shafqat Amanat Ali;Nupur Pant,Hasee Toh Phasee (Original Motion Picture Soundtrack),Manchala,60,227506,False,0.365,0.649,11,-5.295,0,0.0408,0.151,0.0,0.121,0.453,78.398,4,pop-film
+5jkH9Pgv28mW9ve6uGtohT,Hariharan;Saindhavi;Vaikom Vijayalakshmi,Theri (Original Motion Picture Soundtrack),En Jeevan,59,320234,False,0.393,0.29,7,-9.136,0,0.0385,0.552,3.84e-06,0.54,0.296,179.779,3,pop-film
+70VOnQ20kHEvvtnLrgvCps,Sahir Ali Bagga;Beena Khan,"Yeh Mumkin To Nahi (From ""Bud Gumaan"")","Yeh Mumkin To Nahi - From ""Bud Gumaan""",59,266004,False,0.486,0.446,7,-12.511,0,0.046,0.619,0.0,0.533,0.46,149.94,4,pop-film
+5PNZX8yqzqqAMPpl3UAoaP,A.R. Rahman;Abhay Jodhpurkar;Harini,Kadal (Original Motion Picture Soundtrack),Moongil Thottam,59,275093,False,0.501,0.371,7,-11.093,1,0.0291,0.891,0.000114,0.101,0.286,129.871,3,pop-film
+0YJooLEHFKKjtwWSEaeHzX,Udit Narayan;Neha Kakkar;Palak Muchhal;Raja Hasan,Loveyatri - A Journey Of Love,Dholida,60,216251,False,0.546,0.945,1,-3.031,1,0.213,0.144,0.0,0.0909,0.914,124.524,4,pop-film
+0EMYTe2oQy70PCKPQFlbVy,Ali Zafar,"London, Paris, New York (Original Motion Picture Soundtrack)",Voh Dekhnay Mein,59,272453,False,0.815,0.421,0,-8.125,1,0.0352,0.491,4.41e-06,0.117,0.543,140.01,4,pop-film
+3IzQc4KEAFd8lIc90X7FZr,Vishal-Shekhar;Vishal Dadlani;Payal Dev;Kishore Kumar,Student of the Year 2,The Jawaani Song,60,253160,False,0.71,0.801,7,-4.845,1,0.0896,0.0728,0.0,0.0744,0.845,145.102,4,pop-film
+3h6Xvd0lISog6GxTk4X6MK,Arijit Singh,Arijit Singh Broken Strings,"Uska Hi Banana (From ""1920 Evil Returns"")",60,327029,False,0.563,0.689,0,-4.294,0,0.0262,0.294,0.0,0.288,0.321,101.94,4,pop-film
+3PAC15iDIHk7IWD8ShSgWh,Arko;B Praak,Kesari,Teri Mitti,59,313999,False,0.332,0.422,3,-5.414,1,0.0449,0.865,0.0,0.0763,0.217,74.315,4,pop-film
+6oloWgrErtc8dG2WiV55gn,Mika Singh;Payal Dev;Neha Kakkar;Badshah,Ginny Weds Sunny (Original Motion Picture Soundtrack),Sawan Mein Lag Gayi Aag,61,226615,False,0.792,0.813,0,-3.687,1,0.0513,0.388,2.29e-05,0.0541,0.868,130.058,4,pop-film
+46bHffIYlRKDZJG1Wbv8vi,Mukesh;Lata Mangeshkar,Kabhi Kabhie,Kabhi Kabhi Mere Dil Mein Duet,59,298579,False,0.502,0.315,4,-10.438,1,0.0318,0.979,5.7e-05,0.626,0.397,110.618,4,pop-film
+6CV2iSJV2W6yAITDxSSes3,Jeet Gannguli;Arijit Singh,Musical Bond: Jeet Gannguli & Arijit Singh,"Baatein Ye Kabhi Na (From ""Khamoshiyan"") - Male",59,289012,False,0.558,0.506,1,-6.761,0,0.0236,0.704,3.05e-06,0.0896,0.358,90.001,4,pop-film
+1bU2NTQlRFtKB5PYF9v9Xv,Shankar Mahadevan,Breathless,Breathless - Album - Breathless 98,59,185720,False,0.793,0.881,1,-5.589,0,0.195,0.446,0.0,0.317,0.0393,99.858,4,pop-film
+15C4q7G41cgBApe7hinKc3,Dhanush,Mayakkam Enna,Voda Voda Voda,59,276378,False,0.807,0.519,0,-7.565,0,0.082,0.247,0.000256,0.0774,0.386,85.008,4,pop-film
+7Hm5FQw1NQtfnTI7JUExaP,Shekhar Ravjiani;Shilpa Rao;Aakanksha Sharma;Ajay Gogavale;Amit Trivedi;Arijit Singh;Arko;Arnab Dutta;Ash King;Dev Negi;Farhan Saeed;Harshdeep Kaur;Neha Kakkar;Palak Muchhal;Shreya Ghoshal;Sunidhi Chauhan;Tony Kakkar;Yasser Desai;Ajay-Atul;Amjad Nadeem;Chirantan Bhat;Harish Sagane;JAM8;Pritam;Rochak Kohli;Shivam;Vishal-Shekhar;Dj Raahul Pai;Atif Aslam;Jyotica Tangri,Love Mashup,Love Mashup,60,240017,False,0.711,0.673,5,-5.89,0,0.0336,0.25,0.0,0.214,0.393,109.992,4,pop-film
+74dP5hqakjK6WAs05TqOwb,Amit Trivedi;Javed Ali;Shreya Ghoshal;Kausar Munir,Ishaqzaade,Ishaqzaade,59,316865,False,0.32,0.337,0,-10.91,1,0.0611,0.709,0.0,0.0662,0.206,79.098,4,pop-film
+1mYcukuz7uow0wc7DmPXHU,Shreya Ghoshal;Rochak Kohli,"Rozana (From ""Naam Shabana"")",Rozana,59,274201,False,0.434,0.378,8,-8.7,1,0.029,0.766,0.000136,0.115,0.291,92.982,4,pop-film
+3XWBGyt7m2rZAjEj0awWnw,Mithoon;Arijit Singh,Love Forever With Arijit Singh,"Sanam Re (From ""Sanam Re"")",61,308714,False,0.581,0.71,7,-4.961,0,0.0374,0.395,0.0,0.137,0.755,111.969,4,pop-film
+4ujalVER2NLazVozUVllxw,Mohammed Rafi,Audiobiography,"Gulabi Ankhen - From ""The Train""",60,197293,False,0.575,0.746,9,-6.524,1,0.0695,0.667,8.7e-06,0.352,0.731,107.875,4,pop-film
+7daqDwcy1W8UUdqgFAYB6P,Unni Menon,Best of Unni Menon,"Enna Vilai (From ""Kadhalar Dhinam"")",58,351085,False,0.567,0.603,7,-13.25,0,0.0589,0.0899,0.0,0.138,0.464,149.995,3,pop-film
+06urexU7lv41RDdLnMzChi,Harris Jayaraj;Clinton;S.P. Charan,Vaaranam Aayiram (Original Motion Picture Soundtrack),Oh! Shanthi Shanthi,59,183533,False,0.706,0.597,10,-7.045,1,0.041,0.464,0.0,0.226,0.41,132.91,4,pop-film
+3DjGqlbBIzrZdVtVfAwRDh,Yuvan Shankar Raja;Javed Ali;Madhushree,Sarvam (Original Motion Picture Soundtrack),Siragugal,59,321893,False,0.638,0.915,10,-3.272,0,0.151,0.184,0.000129,0.0848,0.59,169.968,4,pop-film
+6APAPsBCutqTFJ9OFTbeCa,Bombay Jayashri,Kaakha Kaakha (Original Motion Picture Soundtrack),Ondra Renda,59,306626,False,0.642,0.562,9,-9.304,0,0.0607,0.584,0.0,0.104,0.671,149.82,4,pop-film
+6old0mA1IHi5lw2yLv3ri6,Harris Jayaraj;Karthik,Engeyum Kadhal (Original Motion Picture Soundtrack),Dhimu Dhimu,58,329840,False,0.643,0.478,0,-9.376,1,0.0274,0.569,0.000371,0.118,0.317,93.418,4,pop-film
+0C47mkZ7VGcnKBvEG7PiAP,Asha Bhosle;Mohammed Rafi,Hum Dono,Abhi Na Jao Chhod Kar,59,255026,False,0.521,0.421,3,-9.856,1,0.0355,0.607,0.187,0.329,0.551,96.444,3,pop-film
+0uVrPeEM1Q02sbGA3zJ3CC,Yuvan Shankar Raja;Madhushree,Mankatha (Original Motion Picture Soundtrack),Nanbane,59,302600,False,0.451,0.306,2,-6.325,0,0.0403,0.82,0.00544,0.207,0.262,102.659,4,pop-film
+4TAdD9qxGEZR8hQQL3DXH8,Amaal Mallik;Armaan Malik;Palak Muchhal,2016 Shinning Star - Armaan Malik,"Hua Hain Aaj Pehli Baar (From ""Sanam Re"")",60,309272,False,0.495,0.729,6,-6.453,0,0.103,0.6,4.13e-05,0.0993,0.683,155.892,4,pop-film
+30PPEJ1pEhtVnrgVNK5MEw,Shankar-Ehsaan-Loy;Shivam Mahadevan;Pratibha Singh Baghel,Bandish Bandits (Original Series Soundtrack),Chedkhaniyaan,60,198260,False,0.771,0.659,7,-6.1,1,0.0674,0.216,0.0,0.102,0.587,92.008,4,pop-film
+1Uuw9nSChAnmwbFmnuCx5S,A.R. Rahman;Suresh Peters;Swarnalatha,Bombay,Andha Arabi Kadaloram,59,312839,False,0.795,0.842,0,-5.208,1,0.166,0.0534,0.0044,0.0402,0.776,95.027,4,pop-film
+1AU04y9Bvi5UxomIoBMpCy,A.R. Rahman;Sunitha Sarathy;Pop Shalini,Aayitha Ezhutu (Original Motion Picture Soundtrack),Yaakkai Thiri,58,273426,False,0.628,0.787,10,-8.623,0,0.0329,0.0106,0.000626,0.159,0.326,135.976,4,pop-film
+3huCRjAX12zNPxtX9JqX2X,Yuvan Shankar Raja;Anurag Kulkarni,"Naanga Vera Maari (From ""Valimai"")","Naanga Vera Maari (From ""Valimai"")",59,254345,False,0.649,0.889,1,-5.442,1,0.199,0.102,0.0,0.323,0.601,149.949,4,pop-film
+7nRFeG20drpHn9CqPuRVJ6,Harish Raghavendra,Thiruvilayadal Arambam,Vizhigalil Vizhigalil,58,286253,False,0.731,0.664,11,-9.817,0,0.0836,0.128,0.0,0.0608,0.724,164.108,4,pop-film
+6YcBBZVKYYRirfeAt6BeGA,Yuvan Shankar Raja;Mano;Premgi Amaren;Tippu;Haricharan;Naveen Madhav,Mankatha (Original Motion Picture Soundtrack),Machi Open the Bottle,59,285973,False,0.485,0.92,5,-6.243,1,0.277,0.664,0.000339,0.216,0.767,169.944,4,pop-film
+2HRDR52ijh8GjiBr1MD1A2,Ilaiyaraaja,Nayagan (Original Motion Picture Soundtrack),Nila Adhu Vanathumele,58,301267,False,0.743,0.667,5,-6.956,1,0.0519,0.746,0.706,0.135,0.943,175.558,4,pop-film
+0KSOLEBixnBYIKNHF1VbzF,Atif Aslam;Hadiqa Kiani,Bol (Original Motion Picture Soundtrack),Hona Tha Pyar,60,221986,False,0.687,0.542,4,-8.689,1,0.0307,0.571,0.0307,0.118,0.782,102.994,4,pop-film
+7u5B4ptccyg8T7NPfByhE7,Shankar Mahadevan;Shreya Ghoshal,Chandni Chowk To China,Tere Naina,59,255721,False,0.758,0.377,6,-10.224,0,0.0511,0.544,7.65e-05,0.0904,0.624,139.932,4,pop-film
+6YRbDkyTzsizAWFz8kwiI7,Jatin-Lalit;Alka Yagnik;Babul Supriyo;Prasoon Joshi,Hum Tum,Hum Tum,59,329221,False,0.465,0.682,4,-8.124,1,0.0512,0.381,0.00041,0.0801,0.583,164.01,4,pop-film
+6qNyL8lZuqFmy9ginJRQOZ,Shekhar Ravjiani;Caralisa Monteiro,Anjaana Anjaani,Tumse Hi Tumse,59,261559,False,0.7,0.526,0,-6.246,1,0.0355,0.0981,0.471,0.102,0.774,92.015,4,pop-film
+0pPGUL7171TRGgI6wyP8wP,Abhijeet;Shreya Ghoshal,Main Hoon Na,Tumhe Jo Maine Dekha,60,341146,False,0.734,0.903,0,-3.972,0,0.0649,0.432,0.00569,0.2,0.712,102.009,4,pop-film
+3hVc5y5mbcIEPADRGGGru9,Yo Yo Honey Singh,One Bottle Down,One Bottle Down,59,196556,False,0.655,0.629,1,-7.231,1,0.0415,0.00109,0.063,0.0752,0.193,131.966,4,pop-film
+27JK4mF2SMhoVyQo6SgeEA,Harshdeep Kaur;Benny Dayal,Bang Bang (Original Motion Picture Soundtrack),Uff,60,272112,False,0.783,0.671,5,-8.572,1,0.064,0.294,0.0,0.134,0.651,141.996,4,pop-film
+45wzRgkkG5gjuYS3OkFWaI,Jubin Nautiyal;Mithoon,"Lo Safar (From ""Baaghi 2"")","Lo Safar (From ""Baaghi 2"")",60,282022,False,0.527,0.469,7,-9.562,0,0.0247,0.856,0.00393,0.121,0.403,90.933,4,pop-film
+23gpA0ZDwhkizbU0NMyMsW,Shreya Ghoshal,Zeher,Agar Tum Mil Jao,58,360437,False,0.567,0.793,11,-5.715,0,0.052,0.254,4.24e-05,0.0378,0.395,158.083,4,pop-film
+3E9ryvrKP3hUWX79PAakH2,Palak Muchhal;Arijit Singh,Aashiqui 2,Meri Aashiqui,59,266069,False,0.383,0.422,5,-8.219,0,0.0288,0.755,4.15e-06,0.119,0.247,188.109,4,pop-film
+5H4rKylLnO8KrmdXTRhj5s,Sukhwinder Singh;Sapna Awasthi,Dil Se (Original Motion Picture Soundtrack),Chaiyya Chaiyya,60,416613,False,0.786,0.579,2,-14.913,1,0.142,0.186,0.0,0.118,0.481,90.012,4,pop-film
+6512hyAQxOng8v4R71IV47,Lucky Ali,Anjaana Anjaani,Hairat,59,247072,False,0.618,0.765,9,-5.492,0,0.0661,0.0111,0.000363,0.122,0.439,104.004,4,pop-film
+163jamCc6vC1HQKpbu2jxC,Shafqat Amanat Ali;Clinton Cerejo,Jodi Breakers,Darmiyaan,59,353500,False,0.569,0.45,7,-9.732,1,0.03,0.671,0.000334,0.0907,0.423,143.847,4,pop-film
+6qGCJLF0V7SuHTOOGUcDsv,Amit Trivedi;Shruti Pathak;Divya Kumar,Kai Po Che (Original Motion Picture Soundtrack),Shubhaarambh,59,234093,False,0.484,0.551,10,-6.6,1,0.0505,0.208,0.0,0.117,0.571,115.163,4,pop-film
+2oNRoniEFnPdaCfkOQ9m0C,Santhosh Narayanan;Dhanush;Dhee,"Rakita Rakita Rakita (From ""Jagame Thandhiram"")","Rakita Rakita Rakita (From ""Jagame Thandhiram"")",58,247455,False,0.79,0.74,10,-7.505,0,0.168,0.581,0.000165,0.523,0.948,133.526,4,pop-film
+1HT0RzPuChHC1kWbIplHyw,Rahat Fateh Ali Khan;Shreya Ghoshal,Bodyguard,Teri Meri,62,325311,False,0.401,0.517,2,-6.618,0,0.0481,0.0661,0.0,0.202,0.471,128.451,4,pop-film
+4Cv8UaSA8aQrBdiYO6MxgV,Salman Khan,Hero,Main Hoon Hero Tera (Salman Khan Version),59,284073,False,0.672,0.558,5,-7.936,0,0.0297,0.0111,1.31e-05,0.124,0.236,109.999,4,pop-film
+2lALqW28yjkmb6LCBBUc7j,Arijit Singh;Palak Muchhal,R...Rajkumar (Original Motion Picture Soundtrack),Dhokha Dhadi,58,249730,False,0.595,0.688,2,-6.391,1,0.0386,0.516,0.0,0.0842,0.866,91.979,4,pop-film
+3zqFsowz5iGbYIxZW5KlKw,Atif Aslam;Tanishk Bagchi,"Tera Hua (From ""Loveyatri"")","Tera Hua (From ""Loveyatri"")",60,214002,False,0.426,0.688,2,-5.25,1,0.0443,0.351,0.0,0.0998,0.239,118.586,5,pop-film
+5nPOpB9GqZO70ZKiPLfJ26,Jubin Nautiyal;Ami Mishra,Rim Jhim,Rim Jhim,59,226121,False,0.555,0.844,6,-3.709,0,0.0351,0.191,0.0,0.257,0.726,77.028,4,pop-film
+6LVYBlYJ4pezcfk7V8Tttk,Udit Narayan;Alka Yagnik,Hum Dil De Chuke Sanam,Chand Chhupa Badal Mein,59,347013,False,0.402,0.61,11,-9.509,0,0.141,0.368,0.0,0.109,0.463,86.248,4,pop-film
+4QMZ6gwFTLk9qOhaQsGIxf,G. V. Prakash,Darling (Original Motion Picture Soundtrack),Neeve,58,281520,False,0.749,0.646,2,-9.598,1,0.0389,0.111,0.0426,0.22,0.752,129.996,4,pop-film
+5fq7CGNYZKJm38HbLwMg9h,Kumar Sanu;Alka Yagnik,Yes Boss (Original Motion Picture Soundtrack),Ek Din Aap,59,266066,False,0.462,0.375,4,-13.184,1,0.0309,0.642,0.0,0.189,0.612,145.35,3,pop-film
+20rwogC6aE369YsxFb5aRp,Jasleen Royal,Phillauri,Din Shagna Da,60,215304,False,0.583,0.452,11,-10.459,0,0.026,0.802,0.00632,0.143,0.327,79.999,4,pop-film
+2NouPVwXUlBF0wDm5bpAbp,Udit Narayan;Alka Yagnik,Dil Chahta Hai,Jaane Kyon Log Pyar,58,289386,False,0.607,0.526,4,-9.111,1,0.066,0.0185,0.00173,0.227,0.341,190.019,4,pop-film
+3ErnIFp1vB1OrlxQGtfQca,Pankaj Udhas,Bollywood & Ghazal Collection of Pankaj Udhas,"Dil Jab Se Toot Gaya (From ""Salaami"")",59,323186,False,0.364,0.639,7,-12.455,0,0.0526,0.43,2.75e-05,0.156,0.644,99.072,4,pop-film
+3WVHfTd7xz9VPYJQFpOp8j,Sonu Nigam;Shreya Ghoshal,Soulful Sonu Nigam Specials,Main Agar Kahoon,59,308158,False,0.533,0.436,5,-7.521,0,0.0276,0.234,3.17e-06,0.46,0.371,146.868,3,pop-film
+3aaiAWCet6sbfOfLSn3g7i,Atif Aslam,Bajrangi Bhaijaan,Tu Chahiye,60,272680,False,0.565,0.744,7,-5.817,1,0.0446,0.403,0.0,0.0853,0.415,134.068,4,pop-film
+3h5YZTfJ4BBpvLVHS6lGUl,Mukesh;Kanchan;Kalyanji-Anandji,Dharmatma,Kya Khoob Lagti Ho,58,239133,False,0.429,0.644,6,-9.102,1,0.0383,0.723,7.17e-05,0.383,0.658,132.216,4,pop-film
+2q0V50aNlI1RQXJyE5HDgD,Sachin-Jigar;Darshan Raval;Neha Kakkar,"Odhani (From ""Made in China"")","Odhani (From ""Made in China"")",60,195397,False,0.711,0.731,2,-6.651,1,0.0569,0.233,0.0,0.178,0.474,130.0,4,pop-film
+4OtqlH4UCGzV8fLy36STjE,Yuvan Shankar Raja;Anthony Daasan,"Yaarum illa (From ""Naane Varuvean"")",Yaarum illa,58,205435,False,0.603,0.64,0,-5.601,1,0.0318,0.258,0.0,0.349,0.699,129.988,4,pop-film
+0es02Rp0p0WpC4WRBDtM8P,Mohammed Rafi,Kanyadaan,Likhe Jo Khat Tujhe,59,273533,False,0.375,0.449,11,-13.439,0,0.0337,0.89,0.139,0.326,0.744,106.603,4,pop-film
+3uZiNvBNQldjl4OJiKsuxe,Ajay-Atul;Vishal Dadlani,Brothers (Original Motion Picture Soundtrack),Brothers Anthem,59,353676,False,0.552,0.668,2,-9.111,1,0.0473,0.421,0.0117,0.159,0.152,95.032,4,pop-film
+298atiKYvG84VfbXNbZiX5,Vishal Dadlani;Alyssa Mendonsa,Break Ke Baad,Adhoore,60,264210,False,0.799,0.542,0,-7.142,1,0.0308,0.0858,1.5e-06,0.126,0.673,107.993,4,pop-film
+1AlatlIkROgLvG6pgBBnAz,Kishore Kumar;S. D. Burman,Aradhana,Roop Tera Mastana,59,225213,False,0.449,0.53,8,-8.787,0,0.0951,0.666,7.3e-06,0.234,0.543,83.362,4,pop-film
+3MKKUXDerbZYgiakyrzjKm,Shankar Mahadevan,Bicycle Thieves (Original Motion Picture Soundtrack),Punchiri Thanjum,59,276252,False,0.588,0.198,0,-13.095,1,0.0306,0.727,0.0,0.169,0.427,117.096,4,pop-film
+4RCd3Gdtt3dNedof64hqRD,Mohammed Irfan;Arijit Singh;Saim Bhat,Ultimate Love Songs - Arijit Singh,"Phir Mohabbat (From ""Murder 2"")",59,329851,False,0.464,0.481,0,-6.391,0,0.033,0.787,1.09e-06,0.127,0.263,199.765,4,pop-film
+6boYaYafMoyPZAw8VMasNm,Asha Bhosle;Vinod Rathod,Suron Ki Mallika - Asha Bhosle,"Kitaben Bahut Si (From ""Baazigar"")",59,389386,False,0.619,0.721,2,-7.53,0,0.0696,0.423,8.56e-05,0.0587,0.808,97.32,4,pop-film
+1AhXEDyg2AbV7CAnyiAMvM,Lata Mangeshkar,Dilwale Dulhania Le Jayenge,Mere Khwabon Mein,59,256440,False,0.621,0.512,7,-11.074,0,0.0547,0.634,0.0,0.0803,0.926,114.802,4,pop-film
+3MgAwLCC0qsaAYS8nN06UV,Vinod Rathod,Best of Bollywood Singers - Shaan & Vinod Rathod,"Koi Na Koi Chahiye (From ""Deewana"")",59,383375,False,0.655,0.729,11,-11.116,0,0.0663,0.21,7.36e-06,0.268,0.889,124.381,4,pop-film
+6sF70gMVf9jg8QEogyVqBl,Kishore Kumar,Audiobiography - Kishore Kumar,Pal Pal Dil Ke Paas - Blackmail / Soundtrack Version,59,328160,False,0.401,0.465,10,-8.47,0,0.0384,0.573,1.73e-06,0.0859,0.504,121.164,4,pop-film
+28zGTndSQj4JT9nCPHRoTV,Achu,"Pondattee (From ""Golisoda 2"")","Pondattee - From ""Golisoda 2""",59,250396,False,0.692,0.624,9,-7.942,1,0.0678,0.295,1.46e-05,0.116,0.759,169.999,4,pop-film
+2oAy8P7WfjbZW0cWw6RnAG,Pankaj Udhas,Bollywood & Ghazal Collection of Pankaj Udhas,"Chhupana Bhi Nahin Aata (From ""Baazigar"")",59,322066,False,0.394,0.517,3,-11.817,1,0.0714,0.362,2.26e-06,0.129,0.646,157.333,3,pop-film
+4ZZSDzZtFbLb9pKfQR03PP,Kishore Kumar;R. D. Burman,Legends - Kishore - The Prodigy Vol 3,Kishore Kumar Speaks And O Mere Dil Ke Chain Film - Mere Jeevan Saathi,59,274038,False,0.421,0.472,7,-11.597,1,0.0364,0.873,0.0,0.376,0.604,109.067,4,pop-film
+18ONQnZsstfBATeq0yusPN,Yuvan Shankar Raja;Karthik;Reeta,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Oru Naalaikkul,58,340066,False,0.706,0.735,6,-7.564,1,0.0322,0.37,0.0165,0.107,0.827,119.969,4,pop-film
+2b4nWymybHj38A6XtQijiA,G. V. Prakash;Dhee,"Kaattu Payale (From ""Soorarai Pottru"")","Kaattu Payale (From ""Soorarai Pottru"")",58,246000,False,0.7,0.631,2,-8.377,1,0.212,0.325,0.000246,0.376,0.49,78.924,4,pop-film
+2KZ7VdPXY5k8B3pZB3nhCv,Unni Menon;S. Janaki,Hits of A.R.Rahman Isai Saral,"Kaadhal kaditham (From ""Jodi"")",58,297324,False,0.755,0.719,6,-1.461,0,0.0297,0.654,1.57e-06,0.0984,0.807,104.042,4,pop-film
+668ZUFIUNRyIqOORiCfFY3,Naresh Iyer,Uthama Puthiran (Original Motion Picture Soundtrack),Kan Irandil,59,271000,False,0.595,0.607,0,-7.291,1,0.0676,0.587,6.34e-06,0.313,0.478,157.417,3,pop-film
+53v15jUHWPDKF84Tc16Eqa,Mano;K. S. Chithra,Best Hits Of Ilaiyaraja Vol-1,"Malliga Mottu (From ""Sakthivel"")",57,303304,False,0.614,0.33,9,-11.539,0,0.0894,0.688,4.53e-05,0.137,0.726,126.019,3,pop-film
+2CUsUUpzLh8pe1smaDvDUu,Lata Mangeshkar,Play That Beat Mr.Raja #1,Valaiyosai Kalakala,59,268221,False,0.789,0.49,0,-6.917,1,0.0491,0.838,0.0252,0.2,0.454,125.413,4,pop-film
+0joXv5niso2T8YXWOlIe1X,Chinmayi;Gopi Sundar,Chennai Express,Titli,59,350617,False,0.679,0.421,7,-9.13,0,0.0344,0.685,6.81e-06,0.244,0.65,81.012,4,pop-film
+1gEHNfJRSXpDVaEicwRRfe,Amit Trivedi,Lootera,Zinda,58,241962,False,0.493,0.418,9,-9.693,1,0.0261,0.436,0.102,0.104,0.22,89.982,4,pop-film
+7wrYBASu0OoxoDErd4Edxd,Bombay Jayashri,Rehnaa Hai Terre Dil Mein,Zara Zara,58,298266,False,0.643,0.268,11,-15.073,0,0.09,0.593,2.06e-06,0.316,0.62,143.813,4,pop-film
+4lBO4Q7Pa816Mk3ptYcYUz,Armaan Malik;Amaal Mallik,"Tere Mere (From ""Chef"")","Tere Mere (From ""Chef"")",58,343544,False,0.373,0.672,4,-5.797,1,0.0326,0.154,4.28e-05,0.321,0.47,84.503,4,pop-film
+3vqJY3pVELLIxqXXyI08yr,A.R. Rahman;Naresh Iyer,Rang De Basanti (Original Motion Picture Soundtrack),Roobaroo,59,282973,False,0.675,0.582,9,-8.891,1,0.0277,0.661,5.56e-06,0.0854,0.538,120.991,4,pop-film
+3WNM7W8oGRNBBpqA4QeZ0n,Ankit Tiwari,Pagal Mujhe Tum Kahoge,Pagal Mujhe Tum Kahoge,45,201857,False,0.367,0.439,9,-7.93,0,0.0301,0.726,8.91e-06,0.1,0.241,139.759,3,pop-film
+1Dw8GkFpFjUpNTUpfF5lee,Amaal Mallik;Armaan Malik;Rajesh Roshan,Ghar Se Nikalte Hi,Ghar Se Nikalte Hi,58,282686,False,0.591,0.462,5,-9.77,1,0.0281,0.64,6.44e-05,0.108,0.323,114.02,4,pop-film
+6wsMVa2M6Ktea2UbnVoMvO,Shafqat Amanat Ali,Patiala House,Kyun Main Jaagoon,59,342064,False,0.567,0.298,8,-11.243,1,0.0291,0.835,0.000804,0.117,0.217,129.733,4,pop-film
+6aPMWbbdhDhiJHlknZb9Yx,Arijit Singh;Sachet-Parampara,"Bekhayali (Arijit Singh Version) [From ""Kabir Singh""]","Bekhayali (Arijit Singh Version) [From ""Kabir Singh""]",59,370444,False,0.265,0.58,9,-4.767,0,0.0491,0.491,0.0,0.243,0.345,172.121,3,pop-film
+6kzj1MWS5tFsoOZUz4c8Hc,Abhijeet;Alka Yagnik,Chalte Chalte,Tauba Tumhare Ishare,59,316360,False,0.452,0.608,4,-13.429,1,0.245,0.357,1.64e-05,0.118,0.676,92.996,4,pop-film
+3ctaMit7CuiHIPVYrRvm15,Arijit Singh;Shreya Ghoshal,Heropanti,Raat Bhar,58,325581,False,0.619,0.88,1,-4.549,0,0.0535,0.0173,0.00104,0.166,0.392,129.969,4,pop-film
+35Rrbt58ADLxyo1lu7xhZu,Himesh Reshammiya;Krishna;Ahir,Aashiq Banaya Aapne,Aap Ki Kashish,58,333653,False,0.69,0.78,8,-7.412,0,0.0489,0.117,0.0,0.0696,0.718,110.963,4,pop-film
+4w2W5Gh1GjbbSWGF0TD2iC,Kailash Kher;Mounima,Baahubali - The Beginning,Kaun Hain Voh,59,197984,False,0.468,0.742,4,-8.229,0,0.0844,0.333,1.39e-05,0.0825,0.372,147.014,3,pop-film
+3CsMijWZuND9wiLCJOOIPy,Santhosh Narayanan;Dhanush;Meenakshi Elayaraja,"Thattaan Thattaan (From ""Karnan"")","Thattaan Thattaan - From ""Karnan""",58,290117,False,0.632,0.554,0,-7.401,1,0.116,0.0718,0.000308,0.478,0.596,169.959,4,pop-film
+52qnHAlqWpo3kgEteAPjRf,Adnan Sami,Bajrangi Bhaijaan,Bhar Do Jholi Meri,59,499383,False,0.622,0.876,6,-5.952,0,0.12,0.232,0.0,0.144,0.796,110.019,4,pop-film
+5raWEZXYAapq6Qw1GIEIkU,Ajay-Atul,Dhadak,Zingaat,59,226501,False,0.834,0.788,6,-7.294,0,0.213,0.359,0.27,0.396,0.705,130.032,4,pop-film
+0GavMn9kjiQk1yI6118jEY,Dhanush;Anirudh Ravichander,Thiruchitrambalam (Original Motion Picture Soundtrack),Megham Karukatha,59,290400,False,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,3,pop-film
+4mtGAPsQCIlD4ZXdpRi0wf,Ajay-Atul;Shreya Ghoshal,Chandramukhi,Chandra (Featuring. Shreya Ghoshal),58,315653,False,0.615,0.748,10,-8.788,0,0.0948,0.412,0.000288,0.0621,0.505,135.071,4,pop-film
+4RzaXbufKNBwaFuzJhGur5,Armaan Malik,Hate Story 3,Wajah Tum Ho,58,357633,False,0.6,0.684,5,-6.179,0,0.0257,0.342,1.53e-05,0.115,0.241,103.951,4,pop-film
+6Gx3Ry4ORogdMibbdITOuN,Ajay Gogavale;Shreya Ghoshal,Dhadak,Dhadak Title Track,58,243484,False,0.375,0.312,7,-10.656,0,0.031,0.85,0.00988,0.137,0.22,77.527,4,pop-film
+3FHl1QYu76zguwjqhqcglX,Sukhwinder Singh;Shreya Ghoshal;Vikram Montrose,"Kar Har Maidaan Fateh (From ""Sanju"")","Kar Har Maidaan Fateh (From ""Sanju"")",59,312157,False,0.557,0.821,1,-7.794,0,0.0573,0.0189,0.0,0.0863,0.184,170.022,4,pop-film
+3X5Jbz7VhZfbPqIRmYIj8c,A.R. Rahman;Shreya Ghoshal;Mohit Chauhan;Gulzar,Jab Tak Hai Jaan,Saans,59,326112,False,0.543,0.665,9,-8.295,1,0.0623,0.505,6.41e-06,0.144,0.495,81.97,4,pop-film
+1n1b2lwdRdWF5RAaA0vewk,Neeraj Shridhar;Master Saleem;Suzi Q,Love Aaj Kal (Original Motion Picture Soundtrack),Aahun Aahun,58,290493,False,0.78,0.904,1,-5.509,0,0.2,0.163,8.54e-05,0.0662,0.664,129.966,4,pop-film
+3gGtlAYUQjUv2EiKtugkhr,A.R. Rahman,"Muthu's Journey (From ""Vendhu Thanindhathu Kaadu"")","Muthu's Journey - From ""Vendhu Thanindhathu Kaadu""",59,82698,False,0.576,0.291,2,-13.178,1,0.051,0.825,0.493,0.11,0.344,119.717,4,pop-film
+2kRzgmBlmhvFvCEgMHltWz,Shreya Ghoshal,Aashiqui 2,Sunn Raha Hai (Female),59,314700,False,0.482,0.595,9,-5.336,0,0.0289,0.703,0.000203,0.136,0.482,82.066,4,pop-film
+7e6qTHVfRdaYsio90s1fHC,Vishal Dadlani,Zindagi Na Milegi Dobara,Ik Junoon (Paint It Red),60,299119,False,0.79,0.848,2,-7.798,1,0.0508,0.364,0.00147,0.148,0.641,127.034,4,pop-film
+5L9fLNHSj5SuGvJRljdWJb,Kavita Krishnamurthy;Udit Narayan;Alka Yagnik,Kuch Kuch Hota Hai,Koi Mil Gaya,60,437693,False,0.7,0.687,2,-9.292,1,0.0504,0.503,1.2e-05,0.057,0.815,136.028,4,pop-film
+77gskLti3ilCnuwlDq0m8j,Arijit Singh,2016 Shinning Star - Arijit Singh,"Phir Kabhi (From ""M.S.Dhoni - The Untold Story"")",58,287422,False,0.405,0.665,4,-5.498,1,0.0328,0.614,0.0,0.525,0.404,81.921,4,pop-film
+6TMfIoPi0DdkxRxpARTnUv,Sonu Nigam;Shreya Ghoshal,Lage Raho Munna Bhai,Pal Pal Har Pal,58,273146,False,0.639,0.233,4,-12.47,1,0.0345,0.868,0.0,0.151,0.607,136.772,4,pop-film
+5FfRt0NaBuDIHpRgsiCkWu,Hariharan;Anuradha,Jeans (Original Motion Picture Soundtrack),Anbae Anbae,58,332428,False,0.684,0.557,5,-11.187,0,0.0296,0.0183,0.0,0.17,0.799,122.009,4,pop-film
+2ygHwkk6BE4o1YKF2jhrFX,Amaal Mallik;Armaan Malik;Palak Muchhal,Sanam Re,Hua Hain Aaj Pehli Baar,58,309272,False,0.495,0.729,6,-6.453,0,0.103,0.6,4.13e-05,0.0993,0.683,155.892,4,pop-film
+3DffyCteIYTpAkRKxjqu6R,Thaman S;Chiranjeevi;Salman Khan,God Father (Hindi),God Father Title Song,25,165810,False,0.294,0.701,3,-8.656,0,0.112,0.832,0.0411,0.132,0.595,71.887,4,pop-film
+5vIcQqiYz1aONkqntTAUTl,Kunal Ganjawala;Richa Sharma,Singham,Maula Maula,58,244368,False,0.494,0.716,11,-6.816,1,0.0675,0.377,6.03e-06,0.0839,0.532,89.479,4,pop-film
+4Hvf9xIeJWp5p9FkJerQhN,Vijay Yesudas,Premam,Malare,58,316551,False,0.468,0.501,11,-10.841,1,0.03,0.752,1.21e-05,0.108,0.544,82.525,3,pop-film
+2DnfC8ghXPQgn1SKPCCL6S,Harris Jayaraj;Karthik,7 Aum Arivu (Original Motion Picture Soundtrack),Mun Andhi,58,374760,False,0.747,0.532,4,-8.897,1,0.0365,0.286,0.0016,0.103,0.634,136.962,4,pop-film
+22DrqPUQfcOkv6QmjvHFcB,Jeet Gannguli;Arijit Singh,Jalebi (Original Motion Picture Soundtrack),Mera Pyar Tera Pyar,59,275371,False,0.638,0.471,7,-7.025,0,0.0258,0.825,0.0,0.0993,0.381,99.017,4,pop-film
+7Hkbm2DgepcriVxDrwbCcc,Mohammed Rafi;Sanam,Sanam - Taarif Karoon,Taarif Karoon,58,157760,False,0.796,0.681,5,-6.067,1,0.0464,0.352,0.0,0.105,0.795,111.995,4,pop-film
+0ZyJDDqBjI0rDnn31qHgbg,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Roke Na Ruke Naina (From ""Badrinath Ki Dulhania"")",58,278401,False,0.501,0.382,9,-9.31,1,0.0283,0.722,1.15e-05,0.154,0.264,80.657,4,pop-film
+7fqFYPSGWGsrIocQadYubn,Vinod Rathod,Best of Bollywood Singers - Shaan & Vinod Rathod,"Chhupana Bhi Nahin Aata Vinod Rathod (From ""Baazigar"")",59,419040,False,0.502,0.592,10,-11.148,0,0.0499,0.372,1.02e-05,0.162,0.773,79.937,3,pop-film
+1DVzoi8VvpTDVg4Knd1IQs,Ghibran;Sathyaprakash,Theeran Adhigaaram Ondru,Laali Laali - Tamil,57,231500,False,0.72,0.62,7,-8.439,1,0.0284,0.738,9.93e-05,0.155,0.258,124.434,3,pop-film
+1t99uhmctVeG4FbC5giRCM,Santhosh Narayanan;Pradeep Kumar;Ananthu,Meyaadha Maan (Original Motion Picture Soundtrack),Idhayam Love (Megamo Aval),58,291121,False,0.296,0.298,0,-10.167,1,0.0295,0.777,6.6e-06,0.0909,0.243,178.292,4,pop-film
+7MSQGZBn01h5QrAZDjMg2M,A.R. Rahman;Antara Nandy,"Alaikadal (From ""Ponniyin Selvan Part-1"") [Original Motion Picture Soundtrack]","Alaikadal (From ""Ponniyin Selvan Part-1"")",58,314207,False,0.441,0.308,11,-10.107,0,0.0407,0.958,0.000231,0.0638,0.292,149.593,3,pop-film
+1Z8LzODEH4hn1fEMJEIARw,Mano;Sujatha,Kizhakku Cheemayile,Aathangarai Maramea Adhil,57,290872,False,0.74,0.283,5,-19.161,1,0.0739,0.266,0.0,0.0792,0.793,90.962,4,pop-film
+5doN1AbRIHIgpGMtRAjqRn,Kumar Sanu;Alka Yagnik,"Bollywood Music - Kumar Sanu At His Best, Vol. 2","Mera Dil Bhi Kitna Pagal Hai (From ""Saajan"")",59,324893,False,0.474,0.498,8,-10.146,1,0.0302,0.725,0.0,0.0852,0.759,100.93,4,pop-film
+7j6Cb59M9yOq3aw4fmDzQj,Kamal Haasan;Shreya Ghoshal,Virumandi,Unna Vida,58,385226,False,0.712,0.439,5,-11.056,1,0.0332,0.49,0.000179,0.0873,0.491,120.016,4,pop-film
+7al8tT3OvhGVVOj2ThN1GI,Harris Jayaraj;Bombay Jayashri;Krish,Dhaam Dhoom (Original Motion Picture Soundtrack),Yaaro Manathile,58,303400,False,0.659,0.454,9,-8.969,0,0.28,0.679,8.27e-06,0.16,0.546,166.948,4,pop-film
+3Bh8VEMG1ugQgDHsuxJkat,Madhusree;Naresh Iyer,Anbe Aaruyire (Original Motion Picture Soundtrack),Mayilrage,58,322861,False,0.732,0.654,8,-7.583,0,0.0396,0.464,5.49e-05,0.123,0.724,122.049,4,pop-film
+7gaysiOWpGoNQocrSwa1yM,A.R. Rahman;Madhushree;Hentry Kuruvila,Sakkarakatti (Original Motion Picture Soundtrack),Marudaani,59,387200,False,0.572,0.66,5,-7.422,1,0.0351,0.126,0.000238,0.131,0.585,179.983,4,pop-film
+7IO5iU84tFIZ4kfvhrg4oZ,Sean Roldan;Shakthisree Gopalan,Vaayai Moodi Pesavum (Original Motion Picture Soundtrack),Kadhal Ara Onnu Vizundhuchu,58,225310,False,0.638,0.731,2,-4.537,1,0.0641,0.101,3.34e-05,0.248,0.684,89.928,4,pop-film
+00KSN0qtGSeYX9qFClCEcg,Abhijeet,Sensational Duets (Abhijeet & Alka Yagnik),"Tum Dil Ki Dhadkan Mein (From ""Dhadkan"")",59,351425,False,0.365,0.449,0,-13.516,1,0.0356,0.662,2.46e-06,0.153,0.556,103.643,1,pop-film
+5lLRB1nnTy1p8nFaH1Vdyf,Mithoon;Papon,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Humnava,58,328854,False,0.314,0.478,4,-7.201,0,0.0412,0.783,2.08e-05,0.147,0.276,199.631,4,pop-film
+1sxh0eqIb8ulYypPuq6ZRu,Ram Sampath,Delhi Belly (Original Motion Picture Soundtrack),"Bhaag D.K. Bose, Aandhi Aayi",58,241304,False,0.66,0.926,11,-3.452,0,0.0296,0.0948,0.0,0.248,0.731,109.997,4,pop-film
+2fsPrE2NYiHOHPMuWbjvTj,Sukhwinder Singh;Alka Yagnik,Taal (Original Motion Picture Soundtrack),Ramta Jogi,59,377000,False,0.798,0.636,6,-10.52,1,0.0431,0.327,0.0,0.128,0.799,139.98,4,pop-film
+3uB2mkp8ovjiuJA734dbGe,Ritviz;Seedhe Maut,Dev,Chalo Chalein,59,184370,False,0.461,0.5,1,-9.828,1,0.0614,0.00245,0.03,0.116,0.572,76.176,4,pop-film
+2TuNVD5u5iAslHp0moLlTn,Atif Aslam,Tajdar-E-Haram Coke Studio Season 8,Tajdar-E-Haram Coke Studio Season 8,59,616509,False,0.436,0.554,2,-6.635,1,0.0341,0.237,0.0,0.116,0.396,100.059,4,pop-film
+5O4AGvOVFSs5ipu3iNOuoi,KK;Sunidhi Chauhan,Aksar,Soniye,57,296720,False,0.615,0.76,2,-8.082,1,0.0761,0.0701,3.95e-05,0.12,0.743,171.951,4,pop-film
+0MqENhRZzwilziVEPz1uf7,Javed Ali;Sadhana Sargam;Anisadh,"Ab Jo Teri Khushi (From ""Kartoot"")","Ab Jo Teri Khushi (From ""Kartoot"")",30,110097,False,0.462,0.712,7,-3.744,0,0.0407,0.661,6.5e-06,0.29,0.658,83.093,4,pop-film
+6RqFT4w5AbPQN72fyzogwq,Ankit Tiwari;Manoj Muntashir;Dj Amit Shah,Galliyan Returns Remix,Galliyan Returns Remix,25,315176,False,0.441,0.877,10,-4.764,0,0.19,0.105,0.000159,0.12,0.755,113.985,4,pop-film
+0Yzg5gttgeusAFIDCNPR77,Yo Yo Honey Singh;Deep Money,Chaar Ikke,Dope Shope,58,211764,False,0.754,0.914,6,-1.999,0,0.0548,0.424,2.62e-05,0.116,0.865,136.032,4,pop-film
+6SDH3mp9sQCNJDfDDpQTTo,Sandesh Shandilya;Sonu Nigam;Alka Yagnik,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),You Are My Soniya,59,343613,False,0.853,0.784,8,-6.08,1,0.0621,0.29,0.0,0.0589,0.785,106.045,4,pop-film
+0mWtcNIAL9jITVHl3F2SQF,Sandesh Shandilya;Sonu Nigam;Alka Yagnik,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Suraj Hua Maddham,60,427546,False,0.633,0.691,5,-5.851,1,0.0557,0.329,0.000211,0.134,0.57,80.002,4,pop-film
+2kLFzLJgHtreNbNlbVzQy4,Daler Mehndi;Dee MC;Shashwat Sachdev,Uri - The Surgical Strike,Jagga Jiteya,59,191489,False,0.774,0.783,0,-4.247,1,0.0857,0.0173,0.0,0.19,0.206,93.959,4,pop-film
+6sdFD2tvkP5Pd93y33qaQg,Haricharan,Ezra,Lailakame,57,256078,False,0.496,0.522,4,-7.028,1,0.0254,0.258,1.67e-06,0.1,0.222,99.901,4,pop-film
+6wXPV6dNRAhFavrRaCdMXT,A.R. Rahman;Rabbi Shergil;Gulzar,Jab Tak Hai Jaan,Challa,59,320417,False,0.776,0.795,0,-5.454,1,0.0485,0.121,0.0,0.138,0.569,117.989,4,pop-film
+3hcwpXiJtR7kwDrWllcH0v,Amit Trivedi,Songs of Love,Madhubala,57,243333,False,0.671,0.182,0,-13.321,1,0.0293,0.983,0.0154,0.123,0.336,107.872,4,pop-film
+7nY0GX6LDCPc0aBMTEO1cR,Jyotica Tangri;Shaan;Subhro Ganguly;Gourov-Roshin;Laxmikant–Pyarelal,Total Dhamaal,Mungda,57,196138,False,0.761,0.911,2,-2.561,1,0.136,0.0281,0.0,0.388,0.463,135.018,4,pop-film
+7gl8XJ8EmiObfSFppTATt6,Neeraj Shridhar,Love Aaj Kal (Original Motion Picture Soundtrack),Twist,58,299440,False,0.719,0.945,7,-4.977,1,0.136,0.033,7.26e-05,0.0857,0.748,109.014,4,pop-film
+05REArTDZQd59A9Y4XC0Aq,Mustafa Zahid,Ragini Mms 2,Maine Khud Ko,58,329072,False,0.648,0.52,7,-8.543,1,0.0249,0.674,0.00129,0.0821,0.492,102.975,4,pop-film
+0rvNTSDuANSUSsKjeMvC2p,Pankaj Udhas,Saajan (Original Motion Picture Soundtrack),Jeeye to Jeeye Kaise,58,209960,False,0.486,0.489,0,-11.968,1,0.0306,0.249,0.0,0.156,0.682,128.731,4,pop-film
+3XyFQxpSlGowWpZkIn3ISA,Vishal Dadlani;Hamsika Iyer,Chennai Express,One Two Three Four (Get On The Dance Floor),60,228323,False,0.721,0.867,6,-5.429,0,0.225,0.0885,0.000119,0.0372,0.87,170.091,4,pop-film
+0oz7Ia8lnWttkXi2TBc1Rd,Jubin Nautiyal,Main Balak Tu Mata,Main Balak Tu Mata,57,220879,False,0.366,0.743,10,-7.899,1,0.066,0.622,0.0,0.411,0.586,170.21,4,pop-film
+7Imk0IG6S5GA5iYWkjmMW5,Palak Muchhal;Arijit Singh,Best Of Palak Muchhal,"Chahun Main Ya Naa (From ""Aashiqui 2"")",59,304899,False,0.644,0.517,9,-6.707,0,0.0273,0.521,3.27e-06,0.0905,0.259,106.906,4,pop-film
+6dFQ3W3xuG4ll7cNjIsN2Q,Lata Mangeshkar;Kumar Sanu,Dilwale Dulhania Le Jayenge,Tujhe Dekha To,57,302093,False,0.51,0.544,4,-8.475,0,0.0383,0.745,8.9e-06,0.22,0.828,97.431,4,pop-film
+3CXHPRFNic9WOsazT4huOJ,Sajid-Wajid;Mamta Sharma;Sarosh Sami,Rowdy Rathore (Original Motion Picture Soundtrack),Aa Re Pritam Pyaare,58,259973,False,0.423,0.951,2,-1.726,1,0.118,0.0204,0.000369,0.331,0.768,78.78,4,pop-film
+1VvGJIAjhGdB7InVP9NA7V,Sachin-Jigar;Arijit Singh;Priya Saraiya,Meri Pyaari Bindu,Haareya,58,214735,False,0.675,0.392,4,-10.11,0,0.037,0.773,0.0,0.109,0.534,123.935,4,pop-film
+500H9ENeR5AYbKU1ScK6ME,A.R. Rahman;Lata Mangeshkar,Rang De Basanti (Original Motion Picture Soundtrack),Luka Chuppi,58,396506,False,0.601,0.441,4,-8.946,1,0.0285,0.645,1.08e-06,0.0986,0.202,103.862,4,pop-film
+4ECasrEmA3NeiHQpinwZ2A,Jubin Nautiyal,Hare Krishna Hare Rama,Hare Krishna Hare Rama,58,309143,False,0.546,0.639,7,-7.94,1,0.0291,0.151,0.0,0.29,0.414,100.026,4,pop-film
+4clW7QGXTCYU5F5dTyfFJ2,Armaan Malik,De De Pyaar De,Chale Aana,57,271023,False,0.368,0.587,6,-6.676,0,0.0378,0.309,0.0,0.149,0.391,143.687,4,pop-film
+1ZcluxOLEoQEZHp8qsHVe2,Kumar Sanu;Alka Yagnik,Vijaypath (Original Motion Picture Soundtrack),Raah Mein Unse Mulaqat,58,519226,False,0.403,0.633,11,-8.537,0,0.0419,0.366,0.001,0.366,0.722,83.408,4,pop-film
+7v6kXbTvpHbhq5LHruy0xV,Abhijeet,Krishna (Original Motion Picture Soundtrack),Jhanjharia - Male Version,58,282866,False,0.73,0.878,2,-6.067,1,0.048,0.255,3.74e-06,0.0558,0.762,117.715,4,pop-film
+5kByOzRm7KpgFUOeClZbek,Ghibran;Sid Sriram,"Yaar Azhaippadhu (From ""Maara"")","Yaar Azhaippadhu - From ""Maara""",57,250325,False,0.626,0.525,10,-7.417,1,0.0338,0.675,0.0,0.0645,0.45,114.921,3,pop-film
+1XFZMenJ30FfGOsj8X5sqf,A.R. Rahman;Arijit Singh;Shashaa Tirupati,Dil Bechara (Original Motion Picture Soundtrack),Khulke Jeene Ka,57,246741,False,0.676,0.544,7,-10.893,1,0.0568,0.566,0.0,0.341,0.533,88.969,4,pop-film
+3F9NfQgG5O5YQjDnzUZen9,Karthik,Sunday Holiday (Original Motion Picture Soundtrack),Oru Nokku,57,294230,False,0.432,0.389,5,-8.266,1,0.0307,0.87,0.0,0.113,0.138,128.119,4,pop-film
+7fdjQVY9LFagl8kzwSVdLr,A.R. Rahman;Sam Vishal;Rakshita Suresh,"Ninne Thaladanne (From ""The Life Of Muthu"")","Ninne Thaladanne - From ""The Life Of Muthu""",57,294298,False,0.741,0.468,7,-10.198,1,0.0326,0.712,0.00364,0.116,0.547,119.947,4,pop-film
+7d5ufSYehroRIgCXxJvcTM,Benny Dayal;Anmol Malik;Anu Malik,"Chura Ke Dil Mera (From ""Hungama 2"")","Chura Ke Dil Mera - From ""Hungama 2""",59,285773,False,0.737,0.857,7,-5.806,1,0.0451,0.0588,1.17e-05,0.281,0.817,126.005,4,pop-film
+7LuYc1yBvfvvLC1O7Ng4v4,KK;K. S. Chithra,Kaakha Kaakha (Original Motion Picture Soundtrack),Uyirin Uyire,58,321426,False,0.689,0.805,4,-8.496,0,0.058,0.485,1.46e-06,0.142,0.834,135.528,4,pop-film
+0GOb2YPtPEo9JcFYK77Uso,Shreya Ghoshal;Chiranjeevi;Salman Khan,God Father (Hindi),Thaar Maar Thakkar Maar,20,267727,False,0.791,0.938,6,-4.209,0,0.0703,0.245,1.23e-06,0.158,0.85,132.038,4,pop-film
+7o1yzUVkQt2Gto5yYvzo2T,Shankar-Ehsaan-Loy;Shankar Mahadevan,Lakshya (Original Motion Picture Soundtrack),Lakshya,57,375706,False,0.64,0.743,5,-6.612,1,0.0524,0.0616,2.01e-05,0.25,0.727,94.972,4,pop-film
+0Ul2NGGDAybeXWU0RLnv83,Vijay Antony;Krishh;Suchitra,Vettaikaaran (Original Motion Picture Soundtrack),Chinna Thamarai,57,273840,False,0.807,0.843,1,-4.925,1,0.0387,0.135,0.00106,0.361,0.473,103.994,4,pop-film
+3gnWw0LToxswxfC6Eb8GBp,Yuvan Shankar Raja;Sooraj Santhosh,Anjaan (Original Motion Picture Soundtrack),Kadhal Aasai,57,303750,False,0.419,0.825,6,-5.013,1,0.0709,0.49,0.0,0.139,0.363,73.202,4,pop-film
+102YVYHLNfgkfQP3qvDqsD,D. Imman;VV Prassanna;Vandana Srinivasan,Rummy (Original Motion Picture Soundtrack),Koodamela Koodavechi,58,300373,False,0.694,0.695,4,-5.035,0,0.0276,0.324,0.0,0.177,0.668,120.057,4,pop-film
+41jTngKME76TNpR6WSxAZV,Vijay Antony,Ninaithale Inikkum (Original Motion Picture Soundtrack),Pia.. Pia..,57,254280,False,0.551,0.929,4,-8.051,0,0.229,0.256,0.000536,0.142,0.61,144.427,4,pop-film
+7EH1f2Kq0rrKTmT9h1mkDJ,Shankar Mahadevan,Polladhavan (Original Motion Picture Soundtrack),Padichi Parthen,58,260466,False,0.583,0.953,5,-6.665,0,0.281,0.111,0.00111,0.116,0.584,153.354,4,pop-film
+4ZXsuOSu0vWtWMfmf1Gl3j,A.R. Rahman;Haricharan;Shreya Ghoshal,I - Manoharudu (Original Motion Picture Soundtrack),Poolane Kunukeyamantaa,57,308106,False,0.72,0.84,2,-5.049,1,0.042,0.591,1.46e-06,0.15,0.68,85.995,4,pop-film
+5Se9PXWc57LRT0zthjI5cG,Sukhwinder Singh;Ayesha Darbar;S. P. Sailaja,Kisna (Original Motion Picture Soundtrack),Woh Kisna Hai,58,357186,False,0.649,0.525,10,-11.94,1,0.0665,0.245,1.2e-05,0.17,0.494,101.987,4,pop-film
+1lqdPJz24AiFWeo3arwPXR,Harris Jayaraj;Karthik;Priya Hemesh,Maattrraan (Original Motion Picture Soundtrack),Yaaro Yaaro,57,335786,False,0.702,0.44,4,-10.756,0,0.0913,0.677,1.2e-06,0.0855,0.448,147.073,4,pop-film
+7yRfIESGCckunEuXMtn0bj,Jassie Gift,4 Students (Original Motion Picture Soundtrack),Layyavathiye,57,270497,False,0.772,0.886,2,-8.111,1,0.117,0.0896,0.0,0.0262,0.762,110.689,4,pop-film
+4Tq1eNoLWXqJsizbNnobSz,A.R. Rahman;Yogi Sekar,"Devaralan Aattam (From ""Ponniyin Selvan Part-1"") [Original Motion Picture Soundtrack]","Devaralan Aattam (From ""Ponniyin Selvan Part-1"")",58,273228,False,0.828,0.707,8,-9.517,1,0.362,0.303,0.0,0.0646,0.441,141.096,3,pop-film
+6cZcVAjgELRB6w9h6jaYtJ,Harish Raghavendra;Sri Charan;Mega Chorus,Kadhalil Vizhundhen,Thozhiya,57,296724,False,0.697,0.875,8,-1.842,1,0.0475,0.473,1.68e-06,0.125,0.808,96.013,4,pop-film
+5FRL2sxhLNlC1Ms86qajcq,Yuvan Shankar Raja,Semma Botha Aagathey (Original Motion Picture Soundtrack),Idhayathai Oru Nodi,57,226758,False,0.618,0.52,10,-6.514,0,0.0316,0.662,0.00419,0.0831,0.402,144.9,4,pop-film
+16R1Fq1nFxm9DJyzBzKjQk,Arijit Singh;Mujtaba Aziz Naza;Altamash Faridi;Farhan Sabri,Bajirao Mastani (Original Motion Picture Soundtrack),Aayat,57,261996,False,0.39,0.644,6,-6.97,0,0.0366,0.269,0.0,0.0974,0.439,184.101,4,pop-film
+1aHRhPwlNTNdMsDcYicxb6,Diljit Dosanjh,Do You Know,Do You Know,58,211764,False,0.697,0.796,1,-3.685,0,0.0742,0.155,0.0,0.162,0.312,85.002,4,pop-film
+0ZNg3I2kga2XnqKp1Y9PeZ,Mithoon;Shilpa Rao,The Train,Wo Ajnabee,58,302710,False,0.82,0.795,9,-8.285,0,0.225,0.237,0.000297,0.0524,0.779,104.988,4,pop-film
+1rDQJd8kzwBRXeoTtojkQn,Ritviz;Nucleya,Baaraat,Roz,59,219240,False,0.833,0.639,5,-6.964,1,0.0676,0.152,0.0,0.101,0.448,102.989,4,pop-film
+28odLhBa4Yh2yPoDWJMOPb,Jubin Nautiyal,Shish Nawata Hoon,Shish Nawata Hoon,58,232142,False,0.382,0.688,7,-4.767,1,0.0401,0.464,0.0,0.0857,0.468,83.227,4,pop-film
+2gnuuur7kZhXeQGepsGsZU,Yasser Desai;Abhishek Kapur;Charlie Chauhan,Pinjra,Pinjra,40,137717,False,0.574,0.465,1,-6.881,0,0.0352,0.311,0.0,0.0847,0.504,85.02,4,pop-film
+4C81bkQ2tkMmYk4bGFCrv5,Armaan Malik;TRI.BE;Lost Stories,Memu Aagamu,Memu Aagamu,59,167547,False,0.76,0.772,3,-4.08,0,0.0703,0.046,0.00627,0.112,0.683,106.02,4,pop-film
+4TvXm9YcTAQT9XGS5rvEgZ,Yasser Desai;Raj Meena,Bomb Bomb Bhole,Bomb Bomb Bhole,24,159435,False,0.758,0.806,1,-5.206,1,0.09,0.314,0.0,0.153,0.245,97.95,4,pop-film
+69u6HoqhzzdUrWuYeDP6Go,KK;Sonal Chauhan,3g (Original Motion Picture Soundtrack),Kaise Bataaoon,57,282546,False,0.68,0.499,11,-7.297,1,0.0499,0.704,8.09e-06,0.1,0.385,107.615,4,pop-film
+0dhXEjDiw6aVaYhGZIXBxN,Sajid-Wajid;Yasser Desai,Jab Teri,Jab Teri,28,221668,False,0.325,0.864,8,-6.85,1,0.286,0.000881,0.0,0.112,0.711,139.959,4,pop-film
+3s6H6UW7yPu2rsF8CGki60,KK,Kites,Zindagi Do Pal Ki,57,253200,False,0.678,0.771,6,-2.849,1,0.0266,0.0277,0.00253,0.149,0.462,105.976,4,pop-film
+0CCnKj7iZYc3IDjB9p2NRm,Yasser Desai,Jashne Amade Rasool,Haal-E-Dil Kisko Sunaayein,20,209407,False,0.307,0.152,1,-8.566,0,0.0324,0.692,0.0,0.139,0.281,174.17,4,pop-film
+1RGbMd4J28QykKdQam9Ef6,Nakash Aziz,Chal Mohan Ranga,Vaaram - First Look Somavaaram,57,235520,False,0.506,0.804,4,-7.277,0,0.104,0.361,4.07e-06,0.544,0.748,81.795,3,pop-film
+2zT6KfK583MkcLIHLBO8De,Anand Raj Anand,Masti,Dil De Diya Hai,58,366746,False,0.599,0.689,0,-5.668,0,0.0452,0.618,1.1e-05,0.119,0.537,86.927,4,pop-film
+0sSapNABKrGwgaMhn0p8uL,Mika Singh,Khiladi 786,Long Drive,58,268442,False,0.753,0.89,2,-5.022,1,0.187,0.44,6.82e-06,0.0854,0.283,87.015,4,pop-film
+5CteVMD0U8C9WbAWvrNgkN,Sonu Nigam;Shreya Ghoshal,Dabangg,Chori Kiya Re Jiya,58,286720,False,0.507,0.585,9,-5.367,1,0.0288,0.475,0.0,0.317,0.449,132.741,4,pop-film
+0oEcok2v13HYAME0zO4m0c,Rahat Fateh Ali Khan,Bhoomi,Lag Ja Gale,58,225873,False,0.402,0.718,9,-5.407,1,0.045,0.53,0.0,0.454,0.673,84.261,4,pop-film
+1Hy2ZRkFGC3P47r6lDX2sy,Diljit Dosanjh,MoonChild Era,Luna,58,186000,False,0.814,0.684,0,-7.962,0,0.0438,0.0426,1.37e-05,0.0571,0.893,120.038,4,pop-film
+6xULxfhlT3TBpTHBiaLcAt,Arijit Singh;Rochak Kohli,Good Newwz,Dil Na Jaaneya (Unplugged),57,183902,False,0.708,0.263,6,-9.366,1,0.0311,0.715,0.0,0.18,0.673,122.829,4,pop-film
+6aUstpsARWZwKY7x2wKvtI,Vijay Antony;Chorus,Kadhalil Vizhundhen,Naakka Mukka,56,303464,False,0.661,0.99,6,-1.161,0,0.1,0.496,0.515,0.346,0.735,95.021,4,pop-film
+4rGLwg8ej2ar25UJ5Rw7xz,Santhosh Narayanan,"Evanda Enakku Custody (From ""Mahaan"")","Evanda Enakku Custody (From ""Mahaan"")",57,212857,False,0.756,0.795,10,-4.679,0,0.397,0.014,3.16e-05,0.0635,0.855,104.61,4,pop-film
+5Y5c5bJK0O7KJDDAYKkppH,Lata Mangeshkar,Woh Kaun Thi,Lag Ja Gale Se Phir,57,257613,False,0.312,0.452,8,-11.872,1,0.0391,0.796,0.000874,0.286,0.391,132.485,3,pop-film
+6Y9PsNU0NxF2Jc4uYGHXJC,Kumar Sanu;Alka Yagnik,Tumsa Koi Pyaara (Lofi Mix),Tumsa Koi Pyaara (Lofi Mix),57,201136,False,0.401,0.386,9,-11.555,0,0.0865,0.598,0.0891,0.199,0.484,87.989,4,pop-film
+7emLx4rVwr0tPyjktu7A7U,Shaan;Udit Narayan;Shreya Ghoshal;Sunidhi Chauhan;Rahul Saxena,Om Shanti Om,Deewangi Deewangi,59,352388,False,0.725,0.918,9,-4.875,1,0.0447,0.0289,5.13e-06,0.602,0.927,107.975,4,pop-film
+2jBGJRgDrUbL0dfwTIFWVB,Yasser Desai,Jashne Amade Rasool,Aaqa Lelo Salaam Ab Humara,4,232948,False,0.515,0.185,7,-13.119,0,0.0285,0.779,5.68e-05,0.13,0.224,109.763,4,pop-film
+1eknwgCfzOXC0VRTst91l7,Haricharan,Andala Rakshasi (Original Motion Picture Soundtrack),Yemito,57,268826,False,0.69,0.48,0,-8.435,0,0.0554,0.134,0.0,0.26,0.449,133.986,4,pop-film
+42DJgu66J5hJwG9wzfi1YG,Yasser Desai,Jashne Amade Rasool,Jashne-Amade Rasool,4,115691,False,0.364,0.135,3,-14.363,0,0.0313,0.862,0.0,0.114,0.294,77.005,1,pop-film
+0DwMyswWZ2tAjZM84oRyBx,Yasser Desai,Jashne Amade Rasool,Zameen-O-Zaman,3,228469,False,0.34,0.121,5,-11.162,1,0.0352,0.877,0.0,0.266,0.235,87.242,3,pop-film
+4F980Cg1WU6owq3V1fOBSN,Falguni Pathak,Maine Payal Hai Chhankai & Other Hits,Saawan Mein,57,295466,False,0.749,0.774,7,-9.928,1,0.0847,0.101,0.0,0.0881,0.729,96.007,4,pop-film
+7rkkhMxGDlfpHtV9Y9bKsC,Mukesh,Mukesh Ki Barfi,Kisi Ki Muskurahaton Pe,57,269333,False,0.394,0.303,0,-13.401,0,0.049,0.748,2.02e-05,0.0656,0.837,207.348,4,pop-film
+42KTXZZ4qTHmjlBvmpegwL,Silambarasan TR;Yuvan Shankar Raja,Vaanam (Original Motion Picture Soundtrack),Evan Di Una Pethan,57,356293,False,0.723,0.82,8,-3.899,1,0.03,0.0557,2.97e-05,0.0481,0.337,126.025,4,pop-film
+13sdG92svhRtVjDLpmW5wG,Jatin-Lalit,Fareb,Yeh Teri Aankhen Jhuki Jhuki,58,200751,False,0.723,0.73,11,-8.765,0,0.108,0.69,9.78e-06,0.406,0.924,90.088,4,pop-film
+5PdzYnMEKbF6bImnBF7JI9,Yasser Desai,Jashne Amade Rasool,Mustafa Jaan-E-Rehmat,3,60126,False,0.409,0.231,1,-10.846,0,0.0332,0.976,1.25e-06,0.192,0.674,129.81,3,pop-film
+3AyvTrhBMkZaL0qURiFI12,Yasser Desai,Jashne Amade Rasool,Mera Dil Badal De,2,194761,False,0.508,0.132,10,-11.755,1,0.0331,0.894,0.0,0.106,0.441,75.062,4,pop-film
+4ojMJV2wGlI0DFxx9xp3KE,Yasser Desai,Jashne Amade Rasool,Mere Dil Mein Hai Yaad,3,200681,False,0.482,0.142,3,-12.82,1,0.0516,0.923,0.0,0.136,0.456,114.709,3,pop-film
+6qElTDh0OatDTUoROu0vup,Arijit Singh,Groove With Arijit Singh,"Chal Wahan Jaate Hain (From ""Chal Wahan Jaate Hain"")",58,326121,False,0.51,0.612,7,-7.629,0,0.0372,0.412,1.58e-05,0.156,0.193,150.041,4,pop-film
+5KW8kOHmXqkDEdj6JyP3dJ,Ilaiyaraaja;Sid Sriram,"Unna Nenachu [From ""Psycho (Tamil)""]","Unna Nenachu (From ""Psycho (Tamil)"")",57,275503,False,0.331,0.235,4,-13.816,0,0.0411,0.891,2.98e-06,0.107,0.252,82.511,4,pop-film
+0vb21Y15llmTPEqw5m7KAW,Vijay Antony;Dinesh,Tn07 Al 4777 (Original Motion Picture Soundtrack),Aathichoodi,57,251210,False,0.739,0.738,7,-8.241,1,0.249,0.348,0.0,0.161,0.737,139.895,4,pop-film
+76eCC3r9jrVDsQnfAqQNH4,Naresh Iyer,Karthikeya,Inthalo Ennenni Vinthalo Male,57,260000,False,0.645,0.674,4,-10.094,0,0.0348,0.408,2.22e-06,0.0963,0.503,140.003,4,pop-film
+03GR8YoEsu0qPUGC13X8C1,Kishore Kumar;Anette,Audiobiography - Kishore Kumar,Dilbar Mere - Satte Pe Satta / Soundtrack Version,57,288480,False,0.387,0.615,5,-6.877,0,0.0429,0.665,0.0,0.15,0.845,180.726,3,pop-film
+2TKBCWeVnjdyzOL4xgYLmo,A.R. Rahman;Arijit Singh,Atrangi Re,Tumhein Mohabbat,57,187326,False,0.469,0.0899,2,-11.602,1,0.0403,0.817,0.0,0.0925,0.347,178.918,4,pop-film
+3JXi13LlcYzagKRNokd3Zt,Harris Jayaraj;Bhavatharini;Tippu;Dhanush;Abhay Jodhpurkar,Anegan (Original Motion Picture Soundtrack),Aathadi Aathadi,57,352426,False,0.753,0.449,7,-7.631,1,0.0288,0.347,0.0,0.219,0.557,134.891,3,pop-film
+0p7EstNUg5VYyD8jxs1Na7,Hemant Kumar;S. D. Burman,Solva Saal,Hai Apna Dil To Aawara - Happy,58,261825,False,0.605,0.469,6,-10.606,1,0.0571,0.572,0.000948,0.59,0.934,110.457,4,pop-film
+3lKI2qR6rgR13kQ6bidXK5,Vijay Antony;Jayarajagopalam;Sathya Lakshmi,Naan Avanillai (Original Motion Picture Soundtrack),Macha Kanni,57,290053,False,0.778,0.816,11,-4.813,1,0.207,0.364,8.53e-06,0.14,0.83,148.023,4,pop-film
+3r9TfIOkOIM2Uwr5IW0sxP,Unni Menon,Rhythm,Nadhiyae Nadhiyae,56,409306,False,0.398,0.39,2,-11.841,1,0.097,0.424,0.0,0.946,0.266,74.727,5,pop-film
+7EICSvrfg1zzFp6iNUZ6Og,Naresh Iyer;Ujjayinee;Madhumitha,Azagiya Tamilmagan (Soundtrack from the Motion Picture),Valayapatti,56,344360,False,0.78,0.732,1,-9.021,1,0.0538,0.298,0.0,0.0685,0.804,114.934,4,pop-film
+0Ilt3ks9TsVNV5g9tM2uW5,Hariharan;Sujatha,Poovellam Kettuppar,Irava Pagala,56,310752,False,0.703,0.402,1,-11.471,1,0.059,0.478,4.7e-06,0.163,0.191,82.049,4,pop-film
+08Zh9GFP2TKItpgcfRSHUV,Hariharan;Sadhana Sargam,Merupu Kalalu,Vennelave Vennelave,57,359773,False,0.665,0.19,6,-17.811,1,0.0339,0.497,1.1e-06,0.158,0.54,91.077,4,pop-film
+6DpNW0DW16l92pLLOg9dzw,Unni Menon,Pennin Manathai Thottu (Original Motion Picture Soundtrack),Kannukkulle,57,283680,False,0.705,0.495,7,-12.39,0,0.0367,0.265,5.73e-06,0.219,0.646,87.942,4,pop-film
+2n0ffQTaPdqflETu3qVRnl,Srinivas;Sujatha,Hits of A.R.Rahman Nenjame,"Oru Poiyavathu (From ""Jodi"")",57,423930,False,0.576,0.67,9,-8.38,1,0.0454,0.277,0.0,0.101,0.395,90.007,4,pop-film
+3DpedytYku64Hjf51064vO,Atif Aslam,Bas Ek Pal (Original Motion Picture Soundtrack),Tere Bin,58,275986,False,0.296,0.796,0,-4.846,1,0.0743,0.455,8.61e-06,0.0869,0.425,87.846,4,pop-film
+0IYpKZhCeoXB85BslBg3q5,Jatin-Lalit;Udit Narayan;Alka Yagnik,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Yeh Ladka Hai Allah,60,327226,False,0.645,0.908,11,-4.682,0,0.0997,0.421,1.6e-06,0.381,0.877,104.233,4,pop-film
+189DQylImZ1hGZaIpAQUzx,Anu Malik;Papon;Varun Grover,Dum Laga Ke Haisha,Moh Moh Ke Dhaage (Male),58,322899,False,0.634,0.344,2,-11.011,1,0.0288,0.741,6.09e-05,0.111,0.409,128.0,4,pop-film
+4K7l6gzsSPKkB3mzokEDKQ,Arijit Singh;Tulsi Kumar,Tum Bin 2,Dekh Lena,56,281525,False,0.566,0.597,0,-7.889,1,0.0407,0.809,0.0117,0.297,0.654,151.872,4,pop-film
+3SJVCbBFTxR6UvvTWRNbMp,Diljit Dosanjh,Jind Mahi,Jind Mahi,58,175000,False,0.73,0.705,5,-4.358,0,0.0328,0.286,0.0,0.113,0.655,139.924,4,pop-film
+5iwPZEPu8bxy1fAWnhYT7J,Lucky Ali,Kaho Naa Pyar Hai,Ek Pal Ka Jeena,56,397426,False,0.676,0.799,6,-9.493,0,0.0474,0.0497,3.99e-05,0.0372,0.835,103.98,4,pop-film
+3TlMq7DIT203h6CEWzWhzO,Palak Muchhal,Ishara To Karo JI,Ishara To Karo JI,21,324479,False,0.581,0.457,4,-9.072,1,0.0264,0.669,0.000171,0.0804,0.228,90.089,4,pop-film
+0ZGicTeWpoIMpJax3NAuhn,Hariharan;Swarnalatha,Rangeela (Original Motion Picture Soundtrack),Hai Rama,57,407000,False,0.48,0.395,6,-11.017,1,0.093,0.317,0.0,0.0943,0.464,84.692,5,pop-film
+1vsLKoccuY0NxkRJjZgcMr,Arijit Singh;Shadab;Altamash Faridi,Best Of Arijit Singh - Revisited,"Lambiyaan Si Judaiyaan (From ""Raabta"")",57,238243,False,0.436,0.721,11,-5.956,0,0.0852,0.273,0.0,0.132,0.73,171.851,4,pop-film
+3rLSVdt9C2Pg2jo90oltnU,Kumar Sanu;R. D. Burman,1942 A Love Story,Ek Ladki Ko Dekha,57,275386,False,0.517,0.495,10,-10.129,1,0.0326,0.583,0.0,0.0622,0.826,81.402,4,pop-film
+7kiZ6Zf66oX6yMovt3gC1a,Shankar-Ehsaan-Loy;Arijit Singh;Nihira Joshi Deshpande;Gulzar,Kill Dil,Sajde,57,325459,False,0.499,0.48,1,-6.45,1,0.0415,0.619,0.0,0.319,0.577,99.886,4,pop-film
+3xGwSN1dDdpN2s8oP8DRrC,Anuradha Paudwal;Kumar Sanu,Aashiqui,Dheere Dheere Se Meri Zindagi Mein Aana,58,329640,False,0.477,0.636,8,-8.334,0,0.0356,0.865,0.00226,0.208,0.707,84.547,4,pop-film
+1QhcBKt0schkJBhiZx6lxn,Ankit Tiwari,Shiddat,Hum Dum,57,305038,False,0.532,0.396,5,-9.633,1,0.0273,0.677,4.09e-05,0.0798,0.143,105.052,4,pop-film
+3vjkllvtOIKpVvXSWsu1ta,A.R. Rahman;Sanah Moidutty,Mohenjo Daro,Tu Hai,57,238688,False,0.499,0.541,11,-10.463,1,0.0448,0.744,0.00167,0.0579,0.381,81.198,4,pop-film
+5BpRF0R7OS0NWrEccF8d26,Ankit Tiwari,"Shaamat (Ankit Tiwari Version) [From ""Ek Villain Returns""]","Shaamat (Ankit Tiwari Version) [From ""Ek Villain Returns""]",57,334344,False,0.465,0.631,10,-5.434,0,0.0295,0.111,0.0,0.043,0.464,97.836,4,pop-film
+6fORBVECjNDJ1gdq5uuoAz,Mamta Sharma;Aishwarya,Dabangg,Munni Badnaam,58,305017,False,0.696,0.95,1,-4.942,1,0.0963,0.0873,0.000345,0.0944,0.743,125.029,4,pop-film
+0Ms1V2flsPzr2bVqImelCB,Neha Kakkar;Dhvani Bhanushali;Ikka,Satyameva Jayate,Dilbar,58,184432,False,0.725,0.912,9,-3.665,0,0.0851,0.155,7.68e-05,0.107,0.674,104.054,4,pop-film
+45UvRmYIm61xlTgaZPebiq,Dev Negi;Seepi Jha,Sabki Baaratein Aayi,Sabki Baaratein Aayi,57,202352,False,0.769,0.864,6,-4.758,0,0.0581,0.136,0.0,0.068,0.699,101.961,4,pop-film
+24b9eObMccIrDSs3NvdrRd,Arijit Singh,Arijit Singh Broken Strings,"Milne Hai Mujhse Aayi (From ""Aashiqui 2"")",57,295798,False,0.515,0.707,11,-5.467,0,0.0426,0.0357,0.0,0.134,0.304,143.752,4,pop-film
+1jkNF7kVO0tzNiGXzpC6fQ,Arijit Singh;Rahat Fateh Ali Khan;Asees Kaur;Tanishk Bagchi;Sachet Tandon;Parampara Tandon;Abhijeet Srivastava;Tulsi Kumar;Jubin Nautiyal;Guru Randhawa;Arko;Dhvani Bhanushali;Yo Yo Honey Singh;Meet Bros.;Pritam;Payal Dev;Abhijit Vaghani;Jaani;Kedrock;Sd Style,Valentine's Mashup 2021,Valentine's Mashup 2021,58,198380,False,0.647,0.719,9,-6.859,1,0.0437,0.196,0.0,0.134,0.4,104.003,4,pop-film
+58pYOqfeO87Uk8zPHuOGBu,Sukhwinder Singh,Bajirao Mastani (Original Motion Picture Soundtrack),Gajanana,57,213707,False,0.42,0.872,4,-2.221,0,0.0397,0.243,0.0,0.346,0.397,108.006,4,pop-film
+6ePfmi0YETmZ8VRKFtumJF,Haricharan;Mohana,Baahubali - The Beginning,Manogari,56,214645,False,0.592,0.812,4,-7.112,0,0.0727,0.114,0.0,0.112,0.861,159.883,4,pop-film
+7503mEfiZf6vgONFMYX5Jr,Sukhwinder Singh;Manikka Vinayagam,Manikkavinayagam - Playback Singer,"Arjunar Villu (From ""Gilli"")",57,266309,False,0.766,0.909,2,-6.181,0,0.0693,0.196,0.0,0.106,0.51,99.958,4,pop-film
+5Ocj680ji44AtRXvjPbfIp,Atif Aslam;Sunidhi Chauhan,Be Intehaan (Lofi Mix),Be Intehaan (Lofi Mix),57,271846,False,0.495,0.295,7,-13.811,1,0.0299,0.876,0.222,0.347,0.299,129.896,4,pop-film
+5itw0WzsobhLXyxUuAj8OQ,Uttam Singh;Lata Mangeshkar;Udit Narayan;Anand Bakshi,Dil To Pagal Hai,Dil To Pagal Hai,58,336117,False,0.752,0.67,6,-10.641,0,0.0465,0.306,0.000528,0.729,0.748,110.696,4,pop-film
+4SLWJ2ff0RHSJOSp2MPIHH,Atif Aslam,Rafta Rafta,Rafta Rafta,58,203750,False,0.647,0.792,11,-5.103,0,0.0372,0.389,1.65e-05,0.147,0.499,96.073,4,pop-film
+34wsgkPMRk3xIfHdwtezbf,Sonu Nigam;Mahalakshmi Iyer,Salaam-E-Ishq,Tainu Leke,58,273577,False,0.796,0.94,7,-6.858,1,0.0804,0.17,0.000168,0.249,0.699,117.008,4,pop-film
+6erhWA07TRTqtISu5ODMlL,Srinivas,Taj Mahal (Original Motion Picture Soundtrack),Sotta Sotta,57,334550,False,0.727,0.388,6,-11.828,1,0.0437,0.133,0.0,0.0698,0.582,95.018,4,pop-film
+66KBRmenGEJkTKtbTWl7tS,Jagjit Singh;Chitra Singh,Saath Saath,Tum Ko Dekha To Yeh Khayal Aaya,57,291066,False,0.354,0.272,2,-13.642,1,0.0293,0.907,0.615,0.0848,0.262,90.566,4,pop-film
+4uXShFWajd1PTQzlW3P4jj,Shankar-Ehsaan-Loy;Sonu Nigam;Alka Yagnik,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Kabhi Alvida Naa Kehna,58,483920,False,0.365,0.407,5,-10.352,1,0.0424,0.752,0.00129,0.212,0.464,149.161,4,pop-film
+0oyXtweTvTKBU8YlQFma0G,Amaal Mallik;Arijit Singh;Tulsi Kumar,Mesmeric Vocalzz - Tulsi Kumar,"Salamat (From ""Sarbjit"") (feat. Arijit Singh, Tulsi Kumar)",57,269996,False,0.44,0.57,4,-7.101,0,0.0303,0.851,0.00367,0.168,0.202,120.807,4,pop-film
+7wduEoLSXYggQqimn5LEP0,Silambarasan TR;Andrea,Vaanam (Original Motion Picture Soundtrack),No Money No Honey,57,324266,False,0.691,0.934,1,-3.408,1,0.185,0.354,0.000206,0.198,0.832,79.428,4,pop-film
+3eDsxtliwduBeC3UAdOMG5,Ash King;Jigar Saraiya;Sachin-Jigar;Raftaar;Sidharth Malhotra,"Bandook Meri Laila (From ""A Gentleman"")","Bandook Meri Laila (From ""A Gentleman"") (feat. Raftaar, Sidharth Malhotra)",57,214510,False,0.746,0.782,6,-6.192,0,0.0397,0.277,4.7e-06,0.108,0.665,98.976,4,pop-film
+3xmOPoqoc77SlEIcmhoQK6,Kumar Sanu;Sadhana Sargam,"Bollywood Music - Kumar Sanu At His Best, Vol. 1","Jab Koi Baat Bigad Jaye (From ""Jurm"")",57,480813,False,0.649,0.716,4,-8.846,1,0.0245,0.172,2.11e-06,0.171,0.808,111.656,4,pop-film
+5JWuNK80jSLK1jQyFInWqG,Lata Mangeshkar;Kumar Sanu,Jab Pyaar Kisise Hota Hai (Original Motion Picture Soundtrack),Madhosh Dil Ki Dhadkan,57,324000,False,0.503,0.706,2,-10.211,1,0.0463,0.266,5.92e-05,0.34,0.762,155.611,3,pop-film
+5Sk7YFjXotGsPT2MavacgU,Harris Jayaraj;Unni Menon;Bombay Jayashri,Vettaiyaadu Vilaiyaadu (Original Motion Picture Soundtrack),Paartha Mudhal,57,366040,False,0.813,0.537,7,-8.667,0,0.0382,0.0914,5.91e-05,0.114,0.803,108.013,4,pop-film
+6anjTd9oOebDSG3XyZoj5S,Thaman S,Vaalu (Original Motion Picture Soundtrack),U R My Darling,57,279240,False,0.809,0.768,8,-6.186,1,0.132,0.54,0.0129,0.0573,0.565,128.037,4,pop-film
+6pFkZQ3o224K3dAR16oWAj,Kishore Kumar,Andaz,Zindagi Ek Safar Hai Suhana - Kishore Kumar,57,260400,False,0.546,0.746,5,-9.557,0,0.0928,0.86,0.0225,0.385,0.791,118.081,4,pop-film
+23bpCCVsTUKviTEfoy4tbM,Harris Jayaraj;Chinmayi,Yennai Arindhaal (Original Motion Picture Soundtrack),Idhayathai Yedho Ondru,57,235391,False,0.721,0.496,4,-8.063,1,0.0508,0.845,0.0,0.11,0.217,131.969,3,pop-film
+3kSBSSsXtebECjCggW87yq,Vishal-Shekhar;Sukhwinder Singh;Shadab Faridi;Irshad Kamil,Sultan,Sultan,57,280137,False,0.669,0.866,2,-6.628,1,0.0499,0.0589,0.0,0.0463,0.288,119.992,4,pop-film
+0trgRUeHWSFHZ0W1640dwA,Asha Bhosle;Abhijeet,Dilwale Dulhania Le Jayenge,Zara Sa Jhoom Loon Main,56,353693,False,0.606,0.552,0,-12.537,0,0.0764,0.681,6.87e-05,0.191,0.865,130.653,4,pop-film
+3Vjfh7FoOIg6lRDsFNbVv7,Yuvan Shankar Raja,Vaanam (Original Motion Picture Soundtrack),Vaanam,56,224106,False,0.573,0.549,0,-4.448,0,0.0269,0.269,8.97e-05,0.383,0.311,113.99,4,pop-film
+3JHqj3WfflTssLpj1Ymsw2,Santhosh Narayanan;Vijaynarain,Manithan (Original Motion Picture Soundtrack),Poi Vazhva,56,239177,False,0.694,0.425,8,-10.189,0,0.0349,0.63,3.05e-06,0.182,0.348,118.869,3,pop-film
+3h0W7VWNFZsll7EHTAQWlh,Karthik;Bombay Jeyashree,Polladhavan (Original Motion Picture Soundtrack),Minnalgal Koothadum,56,409547,False,0.729,0.448,7,-9.929,0,0.0391,0.0821,0.00071,0.0749,0.593,110.053,4,pop-film
+3Uo9rRELbWvuIvTBPL4KPq,Kamal Haasan;Priya Hemesh,Manmadan Ambu (Original Motion Picture Soundtrack),Neela Vaanam,57,267280,False,0.514,0.475,0,-5.202,1,0.0249,0.608,0.0,0.313,0.164,92.374,5,pop-film
+4LIJn3SG7mCCNKQc6vyy5S,G. V. Prakash;Saindhavi,Udhayam NH4 (Original Motion Picture Soundtrack),Yaaro Ivan,56,283906,False,0.699,0.496,1,-7.88,0,0.0479,0.74,0.000347,0.112,0.75,82.008,4,pop-film
+1jWDguXNP8StgZSmir5DKG,A.R. Rahman,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Muthu's Journey,57,82698,False,0.576,0.291,2,-13.178,1,0.051,0.825,0.493,0.11,0.344,119.717,4,pop-film
+6vrGww8fPiozHDppz2MbIi,Pushpavanam Kuppusamy;Swarnalatha,Ethirum Puthirum,Thottu Thottu,56,284289,False,0.667,0.917,2,-6.316,0,0.0779,0.0973,0.000669,0.116,0.54,95.039,4,pop-film
+5MbszOoRyTOwOIJEOIZn6v,Benny Dayal;Madurai Soulijos,Kannum Kannum Kollaiyadithaal,Sirikkalam Parakkalam,57,196025,False,0.703,0.834,0,-5.491,1,0.0508,0.0396,1.32e-06,0.178,0.537,127.944,4,pop-film
+3KmqCi6VD4IkonTDO1LRge,Yuvan Shankar Raja;Roop Kumar Rathod,All About Love: Yuvanshankar Raja,"Oru Devathai (From ""Vaamanan"")",57,296760,False,0.642,0.493,0,-9.618,0,0.0325,0.163,0.000796,0.111,0.281,120.019,4,pop-film
+2MsGTWvf7dcjKbI0WTq6Pz,Rekha Bhardwaj;Arijit Singh,Badlapur (Original Motion Picture Soundtrack),Judaai,56,272772,False,0.299,0.436,3,-7.013,1,0.101,0.738,5.8e-05,0.112,0.269,76.11,4,pop-film
+6UEhNvccAc4OyEDJYB5brb,Javed Ali;Pritam,Naqaab (Original Motion Picture Soundtrack),Ek Din Teri Raahon,57,292000,False,0.602,0.867,2,-4.745,0,0.114,0.229,1.05e-05,0.0806,0.698,91.993,4,pop-film
+6YsPRqQl1anHQDKEnsJvVn,Arijit Singh;Nihira Joshi Deshpande,Sajde - LoFi Mix,Sajde - LoFi Mix,31,227741,False,0.572,0.628,3,-7.885,0,0.0473,0.714,0.0263,0.48,0.37,92.924,4,pop-film
+1tKhy83q8OsdcpZaX9N4Z2,KK,Jism 2,Abhi Abhi,56,342668,False,0.566,0.634,2,-5.551,1,0.0443,0.145,0.000716,0.0814,0.36,143.89,4,pop-film
+2nEntnpNpsJNhw1wLY8O96,Ritviz,Ved,Jeet,58,184848,False,0.787,0.734,0,-6.465,1,0.0703,0.364,0.000995,0.0625,0.644,98.989,4,pop-film
+0wEgK7RKkB1R6sR5Nrwh5g,Mamta Sharma;Wajid,Dabangg 2,Fevicol Se,58,289865,False,0.752,0.822,5,-8.471,0,0.102,0.131,0.0,0.27,0.917,119.966,4,pop-film
+7zxHiMmVLt4LGWpOMqOpUh,Haricharan;Gopi Sundar,Bangalore Days,"Aethu Kari Raavilum - From ""Bangalore Days""",56,325156,False,0.766,0.382,7,-11.464,0,0.0324,0.698,0.00143,0.157,0.672,119.992,4,pop-film
+5KikkBMpRSMB4PnroLf5hZ,Kumar Sanu,Aashiqui,Ek Sanam Chahiye Aashiqui Ke Liye,57,372693,False,0.36,0.697,0,-8.213,1,0.0442,0.846,0.0225,0.173,0.634,150.962,3,pop-film
+2znIV62IxtbY9gSEPdIAho,Arijit Singh,Creature 3D,Sawan Aaya Hai,57,288176,False,0.365,0.67,10,-7.51,0,0.221,0.26,1.43e-06,0.14,0.367,78.776,4,pop-film
+23CkVQ84EestqfkEy4fhOQ,Arijit Singh,All Is Well,Baaton Ko Teri,56,280250,False,0.524,0.575,0,-6.571,0,0.0294,0.397,1.8e-06,0.269,0.206,89.915,4,pop-film
+44g0ftxbp0OAgAXK28ltHj,Diljit Dosanjh;JBee;Ikky;Tory Lanez,Chauffeur JBEE Remix (feat. Tory Lanez),Chauffeur JBEE Remix (feat. Tory Lanez),59,205440,False,0.656,0.728,1,-5.004,1,0.111,0.18,0.0,0.177,0.603,154.087,4,pop-film
+2Kja7rWFWrg3GcMQS3hyFN,Sonu Nigam;Kavita Krishnamurthy,Vaastav: The Reality,Meri Duniya Hai,56,278106,False,0.634,0.54,0,-10.506,1,0.0297,0.491,5.53e-05,0.115,0.81,121.061,4,pop-film
+2wDsZgFps34cgGMiYeeszB,Rekha Bhardwaj;Anurag Saikia;Raj Shekhar;Mismatched,Mismatched: Season 2 (Music from the Netflix Series),Aise Kyun - Ghazal Version,60,329080,False,0.395,0.378,3,-9.743,1,0.0443,0.88,0.0879,0.105,0.286,152.204,4,pop-film
+4J95lPA0dj6HVDs4zwo2jn,Yasser Desai;Altamash Faridi;Rashmi Virag,"Dhoonde Akhiyaan (From ""Jabariya Jodi"")",Dhoonde Akhiyaan,56,275399,False,0.691,0.734,7,-5.393,1,0.0324,0.447,1.07e-06,0.114,0.847,95.026,4,pop-film
+5g8SxL84YBS575UHzANr88,Asha Bhosle;Nigel Akkara,Boyeche Samoy (Title Track),Boyeche Samoy - Title Track,29,354000,False,0.623,0.331,1,-8.933,1,0.0262,0.546,0.000743,0.104,0.228,109.803,4,pop-film
+6O8ZM3IKYcSBzpnuxpCAQr,Uttam Singh;Lata Mangeshkar;Udit Narayan;Anand Bakshi,Dil To Pagal Hai,Dholna,57,318432,False,0.684,0.52,7,-10.793,1,0.0339,0.369,3.99e-05,0.724,0.907,92.995,4,pop-film
+6nwRC0UkS1MdOOMjcJsrbX,Hariharan;Kavita Krishnamurthy,Bombay,Tu Hi Re - Bombay / Soundtrack Version,56,435493,False,0.445,0.188,3,-13.885,1,0.0336,0.158,0.0,0.0958,0.357,99.718,4,pop-film
+5JCDVLwteSXuwVqjCa7SwH,Shankar-Ehsaan-Loy;Shreya Ghoshal;Javed Bashir;Yusuf Mohammed;Vajid Ali,Bhaag Milkha Bhaag (Original Motion Picture Soundtrack),O Rangrez,57,385000,False,0.726,0.53,5,-8.485,1,0.0531,0.498,0.0,0.14,0.594,126.06,4,pop-film
+2r1CHpKRDdzHGJScn5UqjX,Shankar Mahadevan,Dil Chahta Hai,Dil Chahta Hai,57,310080,False,0.813,0.554,10,-9.105,1,0.04,0.0906,1.23e-06,0.0629,0.782,103.953,4,pop-film
+3ftVnkTGV4APsXEPiuB2sa,KK;DJ Marcelo,Lofi Chill Mix,Sach Keh Raha Hai - LoFi Flip,56,235004,False,0.65,0.479,2,-4.431,1,0.0281,0.622,0.00298,0.135,0.173,113.99,4,pop-film
+7wFL4hNlhotHNU6qZi9bHR,A.R. Rahman;Vijay Prakash;Suzanne D'Mello;Blaaze,Yemaaya Chesave (Original Motion Picture Soundtrack),Ee Hridayam,56,329320,False,0.611,0.794,7,-6.813,1,0.0415,0.3,0.00184,0.0471,0.705,85.986,4,pop-film
+69zSOewOfa2IvIRMveL1Cc,Neha Kakkar;Rohanpreet Singh;Rajat Nagpal,Do Gallan,Do Gallan,57,251224,False,0.55,0.499,11,-9.596,1,0.14,0.776,0.0,0.247,0.584,147.497,4,pop-film
+6vNolBIVWvfY3Z20gAG5nI,Jubin Nautiyal;Payal Dev,"Tum Hi Aana (Sad Version) [From ""Marjaavaan""]","Tum Hi Aana (Sad Version) [From ""Marjaavaan""]",58,83169,False,0.501,0.168,4,-9.675,0,0.0313,0.944,0.0,0.118,0.131,79.968,4,pop-film
+1XIdLjLOIYCGtobNIXMwYS,Meet Bros.;Roach Killa;Khushboo Grewal;Arijit Singh,Baaghi,Girl I Need You,56,297752,False,0.647,0.537,0,-7.486,1,0.0258,0.368,0.0,0.213,0.185,131.927,4,pop-film
+5xWpxI216rbOSiAqjdn6gy,Meet Bros.;Neha Kakkar;Jassie Gill,"Lamborghini (From ""Jai Mummy Di"")","Lamborghini (From ""Jai Mummy Di"")",57,246635,False,0.769,0.922,1,-3.123,1,0.0534,0.419,0.000156,0.189,0.634,104.916,4,pop-film
+4GC2IwmYrlC12YfPfHPLQe,Thaman S;Sid Sriram,"Hey Idi Nenena (From ""Solo Brathuke So Better"")","Hey Idi Nenena (From ""Solo Brathuke So Better"")",56,254999,False,0.77,0.834,0,-3.375,0,0.0428,0.61,1.28e-06,0.0844,0.628,100.997,4,pop-film
+4LtSTc3xANVhYeeN69nscM,The Local Train,Vaaqif,Aaftaab,58,233471,False,0.464,0.391,6,-9.884,1,0.0384,0.755,9.64e-05,0.105,0.418,106.887,4,pop-film
+7a77VY7mjvK6EiaBeOosmk,A.R. Rahman;Srinidhi Venkatesh,OK Jaanu (Original Motion Picture Soundtrack),Ok Jaanu Title Track,57,206250,False,0.598,0.887,9,-6.992,1,0.0802,0.0284,5.84e-06,0.166,0.704,159.977,4,pop-film
+4WlbfwB0LT2Ca6fqKo8J21,G. V. Prakash,Darling (Original Motion Picture Soundtrack),Anbe Anbe,55,376348,False,0.595,0.709,0,-5.369,0,0.0246,0.3,0.000129,0.0853,0.133,89.986,4,pop-film
+0RrR3wg4ezBVwm7lyeybir,Arijit Singh,Youngistaan,Suno- Na Sangemarmar,56,201675,False,0.658,0.563,0,-8.91,0,0.0317,0.494,7.58e-05,0.378,0.582,119.98,4,pop-film
+2Psbt9MZfVJNuHXFgG7DHh,Vijay Yesudas;Shweta Mohan;Prince George,Vijay Superum Pournamiyum (Original Motion Picture Soundtrack),Etho Mazhayil,56,218610,False,0.427,0.399,1,-7.983,1,0.0327,0.766,1.12e-06,0.102,0.337,169.749,3,pop-film
+3TDxWOUA8PxbJUMgDhVkXN,Mamta Sharma;Shaheer Sheikh,Mera Dil Bhi Kitna Pagal Hai,Mera Dil Bhi Kitna Pagal Hai,56,264587,False,0.371,0.412,5,-9.156,1,0.046,0.572,0.0,0.108,0.381,179.651,4,pop-film
+4gqHEia13bp5EFWGitiKWx,Neeraj Shridhar;Sunidhi Chauhan,Love Aaj Kal (Original Motion Picture Soundtrack),Chor Bazaari,57,257440,False,0.823,0.754,11,-5.03,1,0.0706,0.386,0.000142,0.131,0.973,100.014,4,pop-film
+7m64tTau2Rh6hzVDA1oV6K,Harish Raghavendra,Rajubhai,Evare Nuvvu,56,250866,False,0.813,0.696,10,-6.243,1,0.0363,0.122,0.0,0.104,0.521,119.96,4,pop-film
+4M6QtwT7kFCMqztO4E96kk,Lata Mangeshkar;Gulzar;R. D. Burman,Masoom,Tujhse Naraz Nahin Zindagi - Lata Mangeshkar,56,220106,False,0.611,0.292,9,-12.809,1,0.0283,0.308,0.00256,0.185,0.65,96.937,4,pop-film
+6f7zyAEUCZuvX4Zty62Z5o,Vishal-Shekhar;Shreya Ghoshal;Udit Narayan;Vishal Dadlani;Shekhar Ravjiani,Student of the Year (Original Motion Picture Soundtrack),Radha,58,341360,False,0.804,0.748,1,-14.163,0,0.0616,0.11,0.0,0.0998,0.699,131.989,4,pop-film
+40BjkQhSOqS7j8Z0JHiF07,Sukhwinder Singh;Bhoomi Trivedi;Karsan Sagathia,Raees,Udi Udi Jaye,58,260507,False,0.507,0.752,2,-4.337,1,0.19,0.52,0.0,0.258,0.953,124.96,4,pop-film
+5haAVKCKAfb7IYLplcao0h,Karthik,Kothabangarulokam,Nijanga Nenena,56,319164,False,0.714,0.464,7,-11.545,1,0.0483,0.845,0.00428,0.0833,0.511,129.935,4,pop-film
+4UKTifFM0LKxkhqyGndZHi,A.R. Rahman,"Uyir Urugudhey (From ""Cobra"")","Uyir Urugudhey (From ""Cobra"")",57,313333,False,0.383,0.225,2,-14.552,1,0.0338,0.857,0.000515,0.0969,0.251,84.694,4,pop-film
+5uUEytfFSWfTzu5EqZxQju,Armaan Malik;Shraddha Kapoor,Baaghi,Sab Tera,56,228116,False,0.505,0.642,7,-5.864,1,0.0339,0.643,0.0,0.151,0.427,159.775,4,pop-film
+6Ro16W3cg8dg7um9aRLWAj,G. V. Prakash;Saindhavi,Thalaivaa (Original Motion Picture Soundtrack),Yaar Indha Saalai Oram,56,315493,False,0.471,0.453,4,-8.354,0,0.0971,0.275,4.02e-05,0.244,0.587,116.013,4,pop-film
+0boz1twDCLAVifLgoxSKJb,G. V. Prakash;Naresh Iyer;Shreya Ghoshal;Haricharan,Angadi Theru (Original Motion Picture Soundtrack),Unn Perai Sollum,56,368333,False,0.467,0.662,4,-5.783,0,0.112,0.462,0.0,0.0994,0.45,93.743,4,pop-film
+6T6LgYoQlW8pIZTER6S0G5,Achu;Hemachandra Vedala,Maalai Pozhudhin Mayakathilaey (Original Motion Picture Soundtrack),Oh Baby Girl,57,226946,False,0.719,0.887,9,-5.262,0,0.044,0.183,0.0104,0.201,0.834,156.918,4,pop-film
+6kXGGT1zngi3GsxgCbxclU,Asha Bhosle;Mohammed Rafi;R. D. Burman,Teesri Manzil,O Haseena Zulfonwale Jane Jahan,56,415236,False,0.387,0.649,0,-5.197,1,0.0571,0.681,5.57e-06,0.3,0.779,92.682,4,pop-film
+34y1d4i8uru6aQSWd8ewPT,Alka Yagnik;Kumar Sanu,Phool Aur Kaante (Original Motion Picture Soundtrack),Tumse Milne Ko Dil,57,300400,False,0.529,0.812,1,-9.238,0,0.0706,0.768,1.93e-06,0.311,0.768,138.841,3,pop-film
+3p4vXmvE970zZSZUF0GUnT,Vijay Antony;Sangeetha Rajeshwaran,Dishyum (Original Background Score),Dailamo Dailamo,56,267666,False,0.814,0.663,6,-7.802,0,0.0565,0.121,0.0,0.587,0.815,125.03,4,pop-film
+4jayWXR6nDXPwzbD1cd6f2,Sathyaprakash;Shakthisree Gopalan,"Vizhiye Kalangathey (From ""Vedigundu Pasangge"")","Vizhiye Kalangathey - From ""Vedigundu Pasangge""",56,265600,False,0.566,0.704,7,-5.444,1,0.0383,0.266,0.0,0.148,0.473,74.995,4,pop-film
+0QBuP7vvKyoGAMlUBDJVWn,A.R. Rahman;Naresh Iyer,Ambikapathy (Original Motion Picture Soundtrack),Ambikapathy,57,256360,False,0.676,0.702,6,-8.891,0,0.0455,0.255,1.99e-05,0.114,0.627,113.006,4,pop-film
+7acN9HaStRBkP2UTOOpQ9q,Ilaiyaraaja,Tamil M.A.,Paravaiye Engu Irukkirai,56,369360,False,0.829,0.622,3,-10.679,0,0.0512,0.424,0.000538,0.209,0.757,129.969,4,pop-film
+7pog5PPLDv7NcGO975f3EJ,Yuvan Shankar Raja;Muthu Sirpi,Viruman (Original Motion Picture Soundtrack),Vaanam Kidukidunga,56,248400,False,0.775,0.75,7,-8.092,1,0.182,0.331,4.94e-05,0.158,0.614,150.049,4,pop-film
+4M513o3dSYspKeT6UNJpcx,Arijit Singh,Tum Bin 2,Ishq Mubarak,56,296600,False,0.48,0.736,0,-6.477,0,0.0363,0.424,3.92e-06,0.128,0.642,93.944,4,pop-film
+1tPPINau3vBP8Q89JTn0ER,Javed Ali,Aakrosh,Saudebazi (Encore),56,354862,False,0.69,0.73,5,-6.587,1,0.0307,0.121,0.0,0.346,0.779,113.967,4,pop-film
+2sVzO3L0fdOMVe8wVlM0IE,Rahat Fateh Ali Khan;Richa Sharma,Om Shanti Om,Jag Soona Soona Lage,58,329429,False,0.563,0.71,7,-6.212,1,0.0592,0.0663,0.0,0.105,0.262,133.873,4,pop-film
+6n6hEYHXBzWfdSzBX20ZRw,KK;Dominique,Hum Dil De Chuke Sanam,Tadap Tadap,56,397773,False,0.468,0.462,2,-10.661,1,0.127,0.514,4.14e-06,0.162,0.161,160.307,3,pop-film
+5CiHCfXZQyQEkmSeEj39PF,Arijit Singh;Parampara Tandon,Pal Pal Dil Ke Paas (Original Motion Picture Soundtrack),Pal Pal Dil Ke Paas- Title Track,56,254516,False,0.56,0.512,1,-7.185,0,0.0333,0.592,0.0,0.056,0.39,123.991,4,pop-film
+2k7RoJQR0mi8WVWK0Och93,Arijit Singh,Badrinath Ki Dulhania,Roke Na Ruke Naina,56,278401,False,0.503,0.381,9,-9.31,1,0.0283,0.722,1.15e-05,0.154,0.263,80.658,4,pop-film
+7cLL8r2zejJqJJrpkybCiM,Ankit Tiwari,Rustom (Original Motion Picture Soundtrack),Tay Hai,56,227840,False,0.398,0.292,0,-12.256,1,0.041,0.898,1.49e-05,0.112,0.154,127.339,4,pop-film
+6M2UnI1LnXuXlWU54CKmKx,Vishal-Shekhar;Vishal Dadlani,Dostana (Original Motion Picture Soundtrack),Jaane Kyun,57,277986,False,0.778,0.812,4,-8.561,0,0.046,0.0573,8.28e-06,0.243,0.791,99.962,4,pop-film
+0lpDlWrV0Cw3eGGvPU6d3R,Jubin Nautiyal;Prakriti Kakar;Tanishk Bagchi;Anand-Milind,"Gazab Ka Hai Din (From ""Dil Juunglee"")","Gazab Ka Hai Din (From ""Dil Juunglee"")",57,236325,False,0.325,0.421,2,-8.636,1,0.0561,0.659,4.46e-06,0.0825,0.204,170.363,4,pop-film
+5DyYcwMw0f6z3FefXNLOHv,Salim–Sulaiman;Sonu Nigam;Shreya Ghoshal;Jaideep Sahni,Aaja Nachle,Ishq Hua,57,263026,False,0.405,0.745,2,-7.914,0,0.108,0.657,0.00552,0.117,0.751,87.452,4,pop-film
+7Bnc9gWHdjZAmjSuTY42CJ,Mithoon;Arijit Singh,Radhe Shyam,Aashiqui Aa Gayi,57,260133,False,0.527,0.495,10,-7.783,0,0.0353,0.587,0.0,0.127,0.474,122.826,4,pop-film
+3fpVYSLnxkadjYwQPTyo4H,Neha Kakkar;Manj Musik;Herbie Sahara,"Laal Ghaghra (From ""Good Newwz"")",Laal Ghaghra,58,268888,False,0.77,0.969,2,-0.179,1,0.0661,0.154,0.0,0.0809,0.692,134.983,4,pop-film
+3E8mVTnCMmXJNq6Pbcfkp7,Udit Narayan,Aadavari Matalaku Ardhalu Veruley,Emaindhi Eevela,56,319686,False,0.799,0.525,7,-5.615,0,0.0276,0.178,1.94e-05,0.19,0.537,119.994,4,pop-film
+7k3jpyYPnVnbO0p7iejWxL,Mohit Chauhan,Rockstar,Saadda Haq,56,362662,False,0.554,0.882,6,-5.018,0,0.0488,0.091,2.8e-06,0.368,0.627,96.958,4,pop-film
+5sqPE9h98DkO5ms20NUiUg,Bappi Lahiri;Anuradha Paudwal;Badshah,Badrinath Ki Dulhania,Tamma Tamma Again,57,199264,False,0.724,0.848,2,-4.724,1,0.0522,0.0787,9.16e-05,0.104,0.781,123.02,4,pop-film
+61mkuGe4SjLAZ5wg49NWQY,Himesh Reshammiya;Shreya Ghoshal,Aashiq Banaya Aapne,Aashiq Banaya Aapne,56,363560,False,0.668,0.719,8,-6.897,0,0.0898,0.0699,0.0,0.118,0.567,91.962,4,pop-film
+3bM0sCyyhglscs8EvsBZ36,Amit Trivedi;Shreya Ghoshal;Kavita Seth,Songs of Love,Lagan Laagi Re,57,278653,False,0.398,0.29,0,-10.273,1,0.0314,0.875,0.0,0.152,0.215,138.317,5,pop-film
+1NXSmIEOulY9u4TxwuSUoe,Vijay Yesudas,Premam,Evare,55,309662,False,0.462,0.456,11,-11.408,1,0.0302,0.773,0.0,0.087,0.403,82.499,3,pop-film
+1dZuiEX0EjvQai3N7BlUmT,Sonu Nigam;Hema Sardesai;Shankar Mahadevan,Pardes (Original Motion Picture Soundtrack),Yeh Dil Deewana,56,426400,False,0.776,0.5,0,-12.22,1,0.0418,0.201,0.00189,0.0538,0.232,109.981,4,pop-film
+737AP6EH4PvRzBNfBipaK2,Shreya Ghoshal;Osman Mir;Souumil Shringarpure;Siddharth Mahadevan,"Boom Padi (From ""Maja Ma"")","Boom Padi (From ""Maja Ma"")",57,245674,False,0.627,0.857,1,-4.55,0,0.104,0.0767,0.0,0.324,0.89,134.929,4,pop-film
+4uZnwiu2fnfTKWn8zt6XZx,KK;KSW,Zara Sa (Lofi Flip),Zara Sa - Lofi Flip,56,211547,False,0.497,0.446,11,-10.57,0,0.0338,0.153,0.0119,0.0901,0.325,81.977,4,pop-film
+7tl1En7BCSnD6Qb5OGlEIE,Atif Aslam;Tulsi Kumar,Satyameva Jayate,Paniyon Sa,56,236239,False,0.523,0.768,0,-4.953,0,0.0566,0.447,0.000226,0.0833,0.669,75.03,4,pop-film
+3ZF9iTthw2m6w8MsNC0daD,Hariharan,Shree Hanuman Chalisa (Hanuman Ashtak),Sankatmochan Hanuman Ashtak,56,368700,False,0.625,0.727,4,-3.035,1,0.0308,0.777,0.0,0.0717,0.894,86.471,3,pop-film
+32DWojMZeZebVrfBkhAkKy,A.R. Rahman;Shreya Ghoshal;Uday Mazumdar,Guru (Original Motion Picture Soundtrack),Barso Re,57,329600,False,0.879,0.487,0,-9.441,1,0.148,0.337,0.000284,0.0706,0.338,116.991,4,pop-film
+2MjnGtsgfqllql2ndWdGn8,Lata Mangeshkar;Udit Narayan,Dilwale Dulhania Le Jayenge,Ho Gaya Hai Tujhko To Pyar Sajna,56,347680,False,0.404,0.662,7,-8.606,0,0.059,0.547,2.99e-05,0.346,0.507,100.195,4,pop-film
+4T3VAoUDvCJkX5OSYXnng0,Jatin-Lalit;Lata Mangeshkar;Udit Narayan;Anand Bakshi,Mohabbatein,Humko Humise Chura Lo,58,473025,False,0.548,0.506,6,-13.684,0,0.0495,0.492,0.000442,0.189,0.641,85.628,4,pop-film
+595KzWuJcU2snbm5xFoD5J,Yuvan Shankar Raja;Rahul Nambiar,"Veeraa Sooraa (From ""Nene Vasthunna"")",Veeraa Sooraa,55,205145,False,0.756,0.751,2,-8.044,1,0.0703,0.121,1.45e-05,0.233,0.513,99.976,4,pop-film
+1qtl3vB0uqciZ94g3S6TO7,Benny Dayal;Shalmali Kholgade,Main Tera Hero,Besharmi Ki Height,58,289353,False,0.708,0.946,7,-4.519,1,0.0434,0.128,0.0,0.559,0.477,130.99,4,pop-film
+5T6yrJuKWnkCH2OlQsoO7z,Monty Sharma;Shail Hada,Saawariya (Original Motion Picture Soundtrack),Saawariya,56,165773,False,0.407,0.497,9,-8.292,1,0.0398,0.45,1.74e-05,0.129,0.764,102.649,4,pop-film
+11na2yXOmMbkUL8f5j6vxZ,Atif Aslam;Chinmayi,Main Rang Sharbaton Ka (Lofi Mix),Main Rang Sharbaton Ka (Lofi Mix),57,147000,False,0.547,0.43,6,-10.917,1,0.0311,0.679,0.396,0.112,0.501,79.923,4,pop-film
+0okgxWuKUEAo5fe3WXmFUw,A.R. Rahman;Sarthak Kalyani;Mira Sengupta,"Tharangini [From ""Cobra (Telugu)""]","Tharangini (From ""Cobra (Telugu)"")",56,220923,False,0.681,0.484,9,-9.924,1,0.0403,0.623,0.0,0.107,0.413,144.843,4,pop-film
+2P7i3LoqblIGiNk1Jmbc30,Mukesh;Salil Chowdhury,Anand,Kahin Door Jab Din Dhal Jaye,56,337386,False,0.521,0.424,5,-7.392,1,0.0347,0.852,1.08e-06,0.301,0.484,91.351,4,pop-film
+7CcxIeSvx9NE2X8EumKGJL,A.R. Rahman;NJ;Neeraj Madhav,"Porattam (From ""Vendhu Thanindhathu Kaadu"")","Porattam - From ""Vendhu Thanindhathu Kaadu""",56,122175,False,0.452,0.868,1,-6.03,1,0.248,0.234,0.0,0.0783,0.512,196.512,3,pop-film
+605FZvNjey90GecOzwChB9,Tulsi Kumar;Arjun Kanungo;Vayu;Diksha C,Killer Haseena,Killer Haseena,56,160380,False,0.615,0.785,1,-6.151,0,0.0402,0.00244,0.0,0.16,0.376,96.946,4,pop-film
+64bX3WWzjUomaRfPcQvCNn,Anuradha Paudwal,Saajan (Original Motion Picture Soundtrack),Bahut Pyar Karte Hai - Female Version,58,265666,False,0.452,0.49,4,-11.685,0,0.0397,0.658,5.71e-06,0.167,0.724,123.669,4,pop-film
+2uddWiAVaH4owVLOHZgjGp,Karthik,Adam Joan,Ee Kaattu,56,328542,False,0.662,0.488,6,-8.983,0,0.0325,0.857,0.000194,0.142,0.561,126.008,4,pop-film
+6vztfVJ1lTWe23YMNv6Pk1,Harris Jayaraj;Karthik;Harini;Dr. Burn;Maya,Aadhavan (Original Motion Picture Soundtrack),Hasili Fisiliye,56,318266,False,0.768,0.561,7,-9.388,1,0.0374,0.202,0.0,0.0986,0.449,97.016,4,pop-film
+7MO3e3jJ8iczmix3WeDMFO,Karthik;Chinmayi,Ninnu Kori,Unnatundi Gundey,55,278146,False,0.838,0.494,0,-10.255,1,0.0413,0.495,0.000701,0.299,0.729,119.978,4,pop-film
+3geKpJNdURFqbA8OqaR7vr,Neha Bhasin,Current,Atu Nuvve,56,302480,False,0.661,0.655,2,-4.556,0,0.0939,0.604,1.88e-05,0.0881,0.577,164.033,4,pop-film
+678JJ0TF3KFkzw6bIFKcew,Sachin-Jigar;Arijit Singh;Priya Saraiya,YRF Top 10 - Midnight Hour,"Haareya (From ""Meri Pyaari Bindu "")",57,214735,False,0.675,0.392,4,-10.11,0,0.037,0.773,0.0,0.109,0.533,123.923,4,pop-film
+3mLhme6vdUX2wTgv7cVUtb,Mohammed Rafi;Kishore Kumar;Asha Bhosle;Usha Mangeshkar,Shaan,Janu Meri Jaan - Shaan / Soundtrack Version,57,426506,False,0.492,0.486,9,-10.317,1,0.0558,0.673,6.31e-06,0.238,0.783,134.355,4,pop-film
+5fWtbgbiTz8MuAnTzzpJGN,Silambarasan TR;Blaze,Vallavan (Original Motion Picture Soundtrack),Loosu Pennae,55,411794,False,0.663,0.405,5,-11.244,0,0.098,0.485,0.000265,0.094,0.526,191.985,4,pop-film
+0fg3tcKxZiPI6n5dZa8Dy9,Alka Yagnik;Mohammed Aziz,Bollywood Melody Queen (Alka Yagnik),"Bahut Jatate Ho Pyar (From ""Aadmi Khilona Hai"")",56,436333,False,0.593,0.61,5,-10.574,1,0.032,0.768,0.0117,0.147,0.907,133.067,4,pop-film
+5eQYzdcEDOhvJ4ClsUQB3C,Hariharan;Clinton Cerejo,Sakhi,Pachchadanamey,55,361666,False,0.536,0.328,1,-18.843,0,0.0647,0.387,9.94e-05,0.367,0.546,175.975,4,pop-film
+29Kc7RQUikxuxjkRYa39Ih,Karthik,Potugadu,Devatha,55,221118,False,0.605,0.749,10,-2.483,0,0.0398,0.623,0.0,0.104,0.466,149.827,4,pop-film
+31IgzpNhw9f4ZaZb2REBEO,G. V. Prakash;Sithara Krishnakumar,Muppozhudhum Un Karpanaigal (Original Motion Picture Soundtrack),Kangal Neeye,56,340662,False,0.605,0.586,4,-6.662,0,0.0292,0.905,2.3e-05,0.0911,0.294,99.968,4,pop-film
+6B8UmdUMhZyyAJKTYibavN,Swarnalatha,Captain Prabhakaran (Original Motion Picture Soundtrack),Aattama Therottama,55,314514,False,0.817,0.474,10,-12.221,1,0.0481,0.57,0.197,0.147,0.595,119.802,4,pop-film
+5KfLr5UF3iQN0ifFMQH0ol,Unnikrishnan,Kaadhalan,Ennavale Adi Ennavale,56,312032,False,0.611,0.327,3,-15.109,1,0.0352,0.555,0.0,0.108,0.431,97.016,3,pop-film
+4ccJUGIKd3Ul2IUYetNlWB,Saindhavi,Deiva Thiirumagal (Original Motion Picture Soundtrack),Vizhigalil Oru Vaanavil,56,362533,False,0.697,0.464,5,-8.832,0,0.0254,0.716,0.0112,0.0457,0.382,108.994,4,pop-film
+6nDJIzi6BezsTcCdw8fmMg,Udit Narayan;Kavita Krishnamurthy,My Best Collection - Udit Narayan,"Bin Tere Sanam (From ""Yaara Dildara"")",57,390560,False,0.627,0.838,2,-8.168,1,0.0406,0.22,8.99e-06,0.122,0.728,138.856,4,pop-film
+4GrzhbZQQc9SrU4Vo6J3WY,Monty Sharma;Parthiv Gohil,Saawariya (Original Motion Picture Soundtrack),Yoon Shabnami,56,315360,False,0.592,0.624,5,-9.392,1,0.0567,0.343,5.54e-06,0.219,0.707,95.042,4,pop-film
+4ZVfIGaZP93t0stmBj4FqA,KK;Shreya Ghoshal,The Killer,Teri Yaadon Mein,56,287213,False,0.576,0.735,11,-5.811,0,0.0352,0.0233,0.00118,0.188,0.301,105.058,4,pop-film
+4ws4fIFJDtQAjNQ53KYVl2,Arijit Singh,Padman,Aaj Se Teri,56,312240,False,0.708,0.567,9,-5.703,1,0.0338,0.589,1.01e-06,0.178,0.862,79.992,4,pop-film
+3gCljMiGFfcum5sOHTMfwZ,Vishal-Shekhar;Sanam Puri;Neeti Mohan,Student of the Year 2,Fakira,56,288019,False,0.618,0.707,0,-6.554,0,0.0398,0.738,0.00442,0.0876,0.711,80.078,4,pop-film
+3iOcbCxe0jW1XrlFb0rvj2,Roop Kumar Rathod;AK Bhuker,LoFi Songs,Maula Mere Maula - LoFi,56,160308,False,0.549,0.482,9,-9.233,0,0.0423,0.293,0.00779,0.0683,0.236,119.92,4,pop-film
+4KCbZcshgibfJSCAkg87Lv,Vishal-Shekhar;Rahat Fateh Ali Khan;Irshad Kamil,Sultan,Jag Ghoomeya,57,281991,False,0.484,0.565,11,-7.954,1,0.0347,0.479,2.13e-06,0.105,0.607,82.653,4,pop-film
+5qwl2ZdsMQVj3210r3yHRq,Mithoon;Aditya Narayan,"Ji Huzoor (From ""Shamshera"")","Ji Huzoor (From ""Shamshera"")",57,249798,False,0.771,0.915,5,-5.501,0,0.188,0.286,0.0,0.0983,0.659,123.877,4,pop-film
+4dPeCbg2Op44s9kwyMS3ZT,Vishal-Shekhar;Suraj Jagan;Mahalakshmi Iyer,I Hate Luv Storys (Original Motion Picture Soundtrack),Sadka,56,343586,False,0.678,0.547,7,-6.89,1,0.0286,0.232,0.000176,0.0785,0.579,143.892,4,pop-film
+0QGTtWj9Cwf5NaNEzRDQEI,Jubin Nautiyal;Gourov Dasgupta,"Tu Banke Hawa (From ""Dhokha Round D Corner"")","Tu Banke Hawa (From ""Dhokha Round D Corner"")",56,288020,False,0.273,0.588,1,-9.564,0,0.0579,0.265,0.000307,0.178,0.138,88.045,4,pop-film
+3Nb0sHsDac1jX6nO8tA4Nf,Arijit Singh;Sruthy Sasidharan,Commando 3 (Original Motion Picture Soundtrack),Akhiyaan Milavanga,56,302319,False,0.326,0.6,3,-5.882,1,0.106,0.738,3.98e-06,0.0677,0.475,193.126,4,pop-film
+0JX7Es2j556FwtR6YqMKzP,Shankar-Ehsaan-Loy;Sukhwinder Singh;Loy Mendonsa;Shankar Mahadevan,Bhaag Milkha Bhaag (Original Motion Picture Soundtrack),Slow Motion Angreza,56,260506,False,0.802,0.763,0,-6.456,1,0.0336,0.22,0.000396,0.128,0.789,120.078,4,pop-film
+2EN5aTDtX8852Ih3ss8Rih,KK;Suzanne,Haunted,Tum Ho Mera Pyar,55,305500,False,0.56,0.702,1,-9.343,0,0.0366,0.173,0.0,0.125,0.562,149.934,4,pop-film
+4OCpBhcJxiSd1azaBOy21U,Arijit Singh,Simran,Meet,55,215411,False,0.554,0.488,5,-8.079,1,0.0307,0.589,0.0,0.136,0.539,95.949,4,pop-film
+3LWvtwgEIzC1wdHiUBoG1v,Shankar Mahadevan,Breathless,Breathless - Shankar Mahadevan,55,177960,False,0.719,0.888,11,-3.964,1,0.0539,0.651,0.0,0.115,0.54,99.915,4,pop-film
+2oVJZVH1hlxP3MxyDFRSEb,Kumar Sanu;Udit Narayan;Alka Yagnik;Kavita Krishnamurthy,Ishq (Original Motion Picture Soundtrack),Neend Churayee Meri,56,346720,False,0.774,0.934,5,-6.422,1,0.0516,0.118,0.00284,0.0897,0.882,105.968,4,pop-film
+35BIhZtcbYdYtVJz7tVbrG,Himesh Reshammiya,Aap Ki Khatir (Original Motion Picture Soundtrack),Aap Ki Khatir,56,296840,False,0.755,0.67,8,-11.099,0,0.0426,0.00309,0.0,0.0674,0.856,119.997,4,pop-film
+0hL7tvMKBLW30sige6ctu7,Amit Trivedi;Vishal Dadlani;Sunidhi Chauhan;Habib Faisal,Ishaqzaade,Chokra Jawaan,56,310151,False,0.558,0.694,1,-9.517,0,0.207,0.472,0.0,0.101,0.612,129.949,4,pop-film
+0PxMHdQ6bSz9q0eJj3kJzb,Jeet Gannguli;Arijit Singh,Khamoshiyan (Original Motion Picture Soundtrack),Baatein Ye Kabhi Na - Male,56,289012,False,0.558,0.506,1,-6.761,0,0.0236,0.704,3.05e-06,0.0896,0.358,90.001,4,pop-film
+2ESscisnKdryn50fPeHd7O,Arijit Singh,Love Dose Arijit Singh,"Suno- Na Sangemarmar (From ""Youngistaan)",56,201675,False,0.658,0.563,0,-8.91,0,0.0317,0.494,7.58e-05,0.378,0.582,119.98,4,pop-film
+4Yp8zw7b35bheMVTp39o5O,Shankar-Ehsaan-Loy;Clinton Cerejo;Dominique Cerejo;Loy Mendonsa,Wake Up Sid (Original Motion Picture Soundtrack),Kya Karoon?,56,236160,False,0.594,0.548,9,-7.588,0,0.0267,0.611,0.00146,0.117,0.374,98.014,4,pop-film
+5Jgv5IaPCgj1rldWSlw6m3,Arijit Singh;Shadab;Altamash Faridi,Arijit Singh Broken Strings,"Lambiyaan Si Judaiyaan (From ""Raabta"")",55,238243,False,0.436,0.721,11,-5.956,0,0.0852,0.273,0.0,0.132,0.73,171.851,4,pop-film
+56h75LnnsaBy4T8N8MSNgF,Kumar Sanu;Alka Yagnik,Baazigar (Original Motion Picture Soundtrack),Baazigar O Baazigar,57,459266,False,0.484,0.671,4,-10.248,0,0.0371,0.52,2.35e-06,0.147,0.675,106.012,4,pop-film
+1aIhAX6324JZmhNnGltwkK,Arijit Singh,Arijit Singh Broken Strings,"Tera Yaar Hoon Main (From ""Sonu Ke Titu Ki Sweety"")",56,264805,False,0.559,0.541,10,-5.525,1,0.0313,0.34,4.66e-06,0.102,0.309,83.978,4,pop-film
+3oIWJujQwLjGBG8kZGnJkg,Sonu Nigam;Shreya Ghoshal;Kunal Ganjawala;Sadhana Sargam;Shankar Mahadevan,Salaam-E-Ishq,Salaam-E-Ishq,57,424573,False,0.765,0.796,8,-7.095,1,0.0537,0.0362,5.12e-05,0.249,0.76,103.033,4,pop-film
+7gw6rSstVq9CmuQAaZhWm8,Sohail Sen;Neha Bhasin;Bappi Lahiri;Irshad Kamil,Gunday,Asalaam-e-Ishqum,56,278987,False,0.765,0.908,6,-5.043,0,0.052,0.0605,3.23e-06,0.233,0.891,106.993,4,pop-film
+4ydNnBV9Jnb5YlXb11kFjD,Thaman S;Harika Narayan,Sarkaru Vaari Paata-Title Song - Sarkaru Vaari Paata,Sarkaru Vaari Paata-Title Song,54,156079,False,0.592,0.941,1,-3.715,0,0.0576,0.288,0.214,0.531,0.812,80.011,4,pop-film
+1Ef0TmgS1QrVO6tKHrMMmH,Vishal-Shekhar;Arijit Singh;Shilpa Rao;Kumaar,YRF Top 10 - Nightout Sounds,"Ghungroo (From ""War"")",58,302935,False,0.695,0.729,6,-6.274,0,0.0322,0.0738,0.000182,0.533,0.872,118.028,4,pop-film
+3XXWxfOUxY9L2R6vVpO05T,Lata Mangeshkar;Gajendra Verma,Milo Na Tum - Gajendra Verma,Milo Na Tum,55,211296,False,0.752,0.586,8,-6.526,1,0.0518,0.158,0.00651,0.253,0.3,92.009,4,pop-film
+4Zuei1UAP5pB5ovra9dnnp,A.R. Rahman,Jodhaa Akbar (Original Motion Picture Soundtrack),Khwaja Mere Khwaja,56,416573,False,0.565,0.55,11,-8.003,1,0.0333,0.239,0.0,0.132,0.26,122.06,4,pop-film
+3unti8bdiV2N4wzFTtR4EF,Santhosh Narayanan;Ananthu;Pradeep Kumar;Shweta Mohan,Kabali (Original Motion Picture Soundtrack),Maya Nadhi,55,275042,False,0.682,0.305,3,-10.925,0,0.0415,0.715,0.00363,0.0907,0.404,135.861,4,pop-film
+3jNAbt95cAN8Z3LzMPfoUp,Udit Narayan,Raja Hindustani (Original Motion Picture Soundtrack),Aaye Ho Meri Zindagi Mein - Male Version,56,362933,False,0.598,0.836,11,-12.336,1,0.0327,0.646,0.017,0.0791,0.938,135.001,3,pop-film
+038gnuPve7s8rADCEDYsMH,Sonu Nigam,Paramathma (Original Motion Picture Soundtrack),Paravashanadenu,55,235833,False,0.635,0.299,1,-13.585,0,0.0384,0.72,5.69e-05,0.132,0.402,83.983,4,pop-film
+3hwaOfrkbXJgeh7XGt54xw,Lata Mangeshkar;Kishore Kumar,Remembering Lata Mangeshkar,Dekha Ek Khwab - II,55,320733,False,0.367,0.299,4,-14.557,1,0.0597,0.941,0.00402,0.423,0.383,147.363,3,pop-film
+2Hf0Puh1w4HvTae2HSw6Hu,Hariharan;Asha Bhosle,Heyram (Original Motion Picture Soundtrack),Nee Partha,56,288000,False,0.402,0.215,0,-12.825,0,0.0306,0.783,0.0185,0.103,0.167,109.775,3,pop-film
+7r0vc8YhfpwvAwUR4oqqXe,Rahat Fateh Ali Khan;Nish Asher,Khuda Aur Mohabbat (Original Score),Khuda Aur Mohabbat (Original Score),57,363658,False,0.575,0.477,11,-10.89,0,0.0524,0.578,4.12e-06,0.1,0.523,82.066,4,pop-film
+19PknyOL6OWvABerPEyweT,Santhosh Narayanan;Arunraja Kamaraj,Kabali (Original Motion Picture Soundtrack),Neruppu Da,56,217934,False,0.576,0.836,4,-3.666,1,0.047,0.0917,2.74e-05,0.447,0.481,90.04,4,pop-film
+5qGrY4iAi05Ej1yjfUUhNe,Vijay;Shreya Ghoshal,Jilla (Original Music Picture Soundtrack),Kandaangi Kandaangi,56,294315,False,0.596,0.653,5,-3.817,0,0.0317,0.543,0.0,0.22,0.633,142.52,3,pop-film
+3EPxiSj3RsjMMdKCM7pthV,Vijay Antony;Karthik;Charulatha Mani,Velayudham (Original Motion Picture Soundtrack),Chillax,56,265853,False,0.691,0.855,7,-6.841,1,0.161,0.503,5.37e-05,0.264,0.847,75.003,4,pop-film
+7tDASYxj2O3UBK6VTWGaUW,Najim Arshad;Sangeetha Sreekanth,Oru Murai Vanthu Paarthaya (Original Motion Picture Soundtrack),Arikil,55,263620,False,0.582,0.556,5,-5.935,0,0.0309,0.877,0.00995,0.0883,0.357,143.993,4,pop-film
+6dOmP7QmrdpsiEA8omsOEt,Harris Jayaraj;Naresh Iyer;Mukesh;Gopal Rao;Mahathi;Ranina Reddy,Engeyum Kadhal (Original Motion Picture Soundtrack),Thee Illai,55,327066,False,0.69,0.53,9,-8.95,0,0.0327,0.412,4.97e-06,0.116,0.307,95.971,4,pop-film
+3YfG9ch4qcYbDhwVtDuzQm,Yuvan Shankar Raja;Haricharan;Tanvi Shah,All About Love: Yuvanshankar Raja,"Thuli Thuli (From ""Paiya"")",56,283346,False,0.706,0.528,7,-7.431,0,0.0312,0.257,0.0019,0.112,0.634,92.021,4,pop-film
+79EUmflIk7DJaunxnWhK32,Yuvan Shankar Raja;K. J. Yesudas,Music Special,"Aarariraro(From ""Raam"")",55,286000,False,0.764,0.398,5,-11.501,0,0.0457,0.303,0.00145,0.0986,0.507,135.0,4,pop-film
+32R7r1j2r13XwF62fT8sNt,Sonu Nigam;Saindhavi;G. V. Prakash,Saguni,Manasellam Mazhaiye,56,326495,False,0.629,0.687,10,-4.624,0,0.0393,0.592,4.81e-05,0.106,0.762,170.006,4,pop-film
+5JZGFSGzpRkEksBPu8n1kY,Yuvan Shankar Raja;G. V. Prakash;D. Imman;Vijay Antony;Thaman S,Biriyani (Original Motion Picture Soundtrack),Edhirthu Nill,56,261346,False,0.795,0.755,6,-6.031,0,0.0441,0.281,1.09e-06,0.047,0.606,123.962,4,pop-film
+4Y8MGq957LponDUCj4wBnV,Shreya Ghoshal,Achyutam Keshavam,Achyutam Keshavam,56,279754,False,0.25,0.684,5,-13.165,1,0.124,0.656,0.000151,0.16,0.165,85.047,4,pop-film
+2RZtx21gOL0GwRxd23T3S6,Ilaiyaraaja;S. P. Balasubrahmanyam;Lata Mangeshkar,Sathya (Original Motion Picture Soundtrack),Valaiyosai,56,274500,False,0.725,0.404,9,-12.19,0,0.052,0.923,0.53,0.206,0.435,123.182,4,pop-film
+33d0aCkd8fJUtnLTNLDOxV,Unnikrishnan,Thullatha Manamum Thullum & Nee Varuvai Ena,Innisai Paadivarum - Language: Tamil; Film: Thullatha Manamum Thullum; Film Artist 1: Vijay; Film Artist 2: Simran,55,294040,False,0.58,0.789,8,-2.703,1,0.0337,0.501,0.0,0.132,0.393,82.84,4,pop-film
+2tUChcOi3ktjFzMYu2w5QL,Manikka Vinayagam;Rajlakshmi Devi;Chinna Ponnu,Sivappathigaram,Mannarkudi Kalakalakka,55,248613,False,0.701,0.906,1,-6.251,0,0.152,0.245,5.62e-05,0.0299,0.759,157.841,4,pop-film
+0srLmMJws5nv8d1n9qrtro,D. Imman;Sean Roldan;Kalyani Nair,Saravanan Irukka Bayamaen (Original Motion Picture Soundtrack),Yembuttu Irukkuthu Aasai,55,269832,False,0.687,0.558,5,-5.858,0,0.0256,0.443,0.0,0.186,0.617,118.007,4,pop-film
+04fYoQSUTfPhVjyW8aXkix,Yuvan Shankar Raja;Roshini;Priya Hemesh;Divya Vijay,Theeratha Vilayaatu Pillai (Original Motion Picture Soundtrack),En Jannal Vandha,56,283480,False,0.69,0.654,1,-4.726,1,0.203,0.0706,0.000561,0.0251,0.624,124.983,4,pop-film

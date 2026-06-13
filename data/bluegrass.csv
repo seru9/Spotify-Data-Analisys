@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+5qm0KiVKMXW1kq6VrnIhz5,Eric Johnson,Ah Via Musicom,Cliffs Of Dover - Instrumental,59,249767,False,0.449,0.775,7,-12.029,1,0.0405,0.162,0.149,0.248,0.313,94.907,4,bluegrass
+5VYOUBkObeGOnCt30YDTJ3,Mipso,Edges Run,People Change,64,212853,False,0.373,0.276,7,-14.945,1,0.0357,0.883,0.0124,0.122,0.409,79.204,4,bluegrass
+0f7OHfUNNs5DGTijGFPalp,Alison Krauss;Brad Paisley,A Hundred Miles Or More: A Collection,Whiskey Lullaby,52,260826,False,0.532,0.371,2,-8.908,1,0.0334,0.817,0.0,0.131,0.161,74.47,4,bluegrass
+6HveTIMynTMzTc5L0TcS20,Alison Krauss & Union Station,Now That I've Found You: A Collection,When You Say Nothing At All,64,260800,False,0.514,0.243,3,-12.348,1,0.0288,0.752,0.00054,0.0822,0.388,171.816,4,bluegrass
+78ivvTBqkt3e6eBBkWMuV8,Wood & Wire,No Matter Where It Goes from Here,John,36,175466,False,0.388,0.47,5,-10.011,1,0.0377,0.584,1.99e-06,0.176,0.776,183.893,3,bluegrass
+2Q54qZEaQnGkdx3834TBfz,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Interstate 8,36,254026,False,0.678,0.737,2,-7.146,1,0.029,0.321,0.000416,0.188,0.774,129.166,4,bluegrass
+5jiV53HABsmPO0y0138jwf,The Steeldrivers,The Muscle Shoals Recordings,Hangin’ Around,39,171506,False,0.487,0.558,7,-8.793,1,0.0289,0.539,5.12e-06,0.308,0.668,93.959,4,bluegrass
+47VEW1aJJAkwaZc2g6Bait,The Infamous Stringdusters,Let It Go,Colorado,38,209346,False,0.607,0.588,9,-6.882,1,0.0268,0.406,0.0,0.127,0.495,93.705,4,bluegrass
+7mwFpSD2Y6wTAi9lWTPNRB,Trampled by Turtles,Duluth,Empire,36,203053,False,0.434,0.796,9,-3.71,1,0.0325,0.658,0.00685,0.156,0.471,94.611,4,bluegrass
+56fKca6XW3xorTI3Ok6QQQ,J.D. Crowe & The New South,Come On Down To My World,White Freightliner,33,207000,False,0.566,0.781,11,-6.963,1,0.0302,0.376,0.0916,0.0967,0.962,133.312,4,bluegrass
+3hlCKrynZ2a1MuoMh2DGsC,The Steeldrivers,Bad For You,Falling Man,35,194333,False,0.437,0.341,6,-7.773,0,0.0292,0.822,0.0,0.109,0.436,148.067,3,bluegrass
+5DH5PdLCY67GIkjYsfWtNo,Greensky Bluegrass,If Sorrows Swim,Burn Them,37,201226,False,0.584,0.806,2,-4.858,0,0.0339,0.191,0.0658,0.234,0.755,136.687,4,bluegrass
+2E8fCCVffRCDERwEHLRsbA,Town Mountain,Leave the Bottle,Lawdog,35,288720,False,0.466,0.565,10,-10.29,1,0.0379,0.718,0.00194,0.295,0.698,199.894,4,bluegrass
+1BrS9cy4zHpXYq9oVYQJF5,Flatt & Scruggs,Foggy Mountain Jamboree (Expanded Edition),Blue Ridge Cabin Home,34,175800,False,0.61,0.512,10,-9.256,1,0.0322,0.628,0.000548,0.221,0.884,125.988,4,bluegrass
+16R4mLsUaqxztNbnjkzV1n,The Steeldrivers,The Muscle Shoals Recordings,Drinkin’ Alone,34,160346,False,0.476,0.684,2,-7.764,1,0.0594,0.299,1.34e-05,0.271,0.503,188.156,3,bluegrass
+4grmYnfTTC5s25gdSmACiU,Trampled by Turtles,Life is Good on the Open Road,We All Get Lonely,34,238040,False,0.508,0.522,8,-6.032,1,0.0326,0.219,0.0,0.138,0.463,127.964,4,bluegrass
+5UfTNVAB536Op3MZnwY5dk,Greensky Bluegrass,If Sorrows Swim,Demons,34,249280,False,0.495,0.742,11,-5.815,0,0.0301,0.239,0.0502,0.205,0.824,134.742,4,bluegrass
+1Ij3P9I2P4J40C2cSlSIPI,The Steeldrivers,The Muscle Shoals Recordings,River Runs Red,35,240733,False,0.296,0.308,7,-10.365,1,0.0301,0.532,0.0,0.123,0.331,149.956,3,bluegrass
+1wbDSpBA0d36mgsE2QhrPM,The Steeldrivers,Bad For You,Glad I’m Gone,35,179186,False,0.555,0.696,7,-5.992,1,0.0298,0.599,7.24e-05,0.145,0.84,169.963,4,bluegrass
+6XvMLLAyNZaAXFvEpFDH4M,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Float On,35,253640,False,0.708,0.682,9,-7.987,1,0.031,0.331,0.0166,0.282,0.714,120.316,4,bluegrass
+5llrpUzc5oZ4U2RLruiDeI,Yonder Mountain String Band,"Mountain Tracks, Vol. 3",Holding,33,537106,False,0.472,0.702,9,-8.965,1,0.0981,0.82,4.25e-05,0.362,0.351,104.656,4,bluegrass
+4W42uTkqyIdNrhxHcmomnx,The Devil Makes Three,Do Wrong Right,Gracefully Facedown,39,251346,False,0.651,0.515,2,-9.237,1,0.0366,0.475,2.11e-06,0.122,0.895,157.174,4,bluegrass
+10clXWnF1WxfpWhuiHGZfx,Kitchen Dwellers,Ghost in the Bottle,Mountain,38,297640,False,0.583,0.63,0,-11.301,1,0.0353,0.459,0.115,0.285,0.662,150.064,4,bluegrass
+2SLLm0Dt3JHr0IEREeH0kj,Trampled by Turtles,Palomino,Help You,34,193586,False,0.398,0.78,4,-5.306,1,0.0359,0.242,0.0,0.342,0.772,149.503,4,bluegrass
+4QXKHFFKs9lhUuY18XIuEF,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Ocean Breathes Salty,38,258760,False,0.63,0.789,7,-8.001,1,0.0271,0.133,0.00665,0.304,0.881,128.695,4,bluegrass
+50v8t9bmnwyu9iuMNJIIaG,Greensky Bluegrass,Live at Bell's,Road To Nowhere - Live,44,282253,False,0.646,0.51,4,-8.703,1,0.0335,0.514,0.000104,0.747,0.455,117.647,4,bluegrass
+7xg5qRVUAVKpaShA1hyF3D,The Devil Makes Three,Do Wrong Right,Aces and Twos,36,190680,False,0.64,0.688,7,-8.351,1,0.034,0.538,0.00114,0.105,0.969,130.31,4,bluegrass
+2VRlBQCorJfk9QNWVyCMpy,Trampled by Turtles,A Lifetime to Find,Burlesque Desert Window,34,179573,False,0.531,0.552,2,-7.846,1,0.0324,0.676,8.31e-06,0.109,0.816,80.945,4,bluegrass
+4KBHeyurBuptcTgRSycz97,The Steeldrivers,The SteelDrivers,Midnight Tears,36,177920,False,0.62,0.406,7,-5.824,1,0.0311,0.653,0.0,0.229,0.694,117.345,3,bluegrass
+0UQ6KhzPtiaeDgoxpIFO2z,The Infamous Stringdusters,Rise Sun,Rise Sun,34,206276,False,0.515,0.748,0,-5.758,1,0.035,0.311,0.00263,0.103,0.916,121.564,4,bluegrass
+7lu2eEEtAtRey3fulFeAxg,Leftover Salmon,Euphoria,Funky Mountain Fogdown,37,150373,False,0.43,0.902,2,-8.924,1,0.0447,0.0393,0.847,0.0489,0.928,161.404,4,bluegrass
+66rH0YhjRwi2JUhjRKWqoT,Yonder Mountain String Band,Elevation,40 Miles from Denver,39,226586,False,0.631,0.548,7,-8.886,1,0.0275,0.81,0.0193,0.272,0.622,108.004,4,bluegrass
+1fE4yrhQZdRzlMS0Ve0m18,Trampled by Turtles,Dear Jerry: Celebrating The Music Of Jerry Garcia (Live),Brown-Eyed Women - Live,35,342469,False,0.505,0.469,5,-12.386,1,0.0281,0.237,0.0,0.726,0.503,105.697,4,bluegrass
+2NrxTwhqku87YfIPa2EcPF,Town Mountain,Heroes & Heretics,Snowin' On Raton,39,230746,False,0.565,0.208,10,-12.778,1,0.0323,0.823,5.14e-06,0.109,0.449,148.024,4,bluegrass
+1jrSYv9dWkhppDRtgTcpNv,The Travelin' McCourys,The Travelin' Mccourys,"Lonesome, On'ry and Mean",33,312866,False,0.546,0.766,7,-7.249,1,0.0308,0.457,0.0476,0.218,0.835,117.192,4,bluegrass
+2yNGARwYc253fKGIy0CoyO,The Wailin' Jennys,40 Days,Old Man,44,191360,False,0.699,0.138,10,-13.479,1,0.0318,0.864,8.79e-06,0.116,0.287,80.505,4,bluegrass
+1PsqGUXy4eFdOKOmafn2ea,The Avett Brothers,Chill Christmas Dinner,Winter In My Heart,0,294960,False,0.409,0.198,9,-10.832,1,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+41tMIgwIR0Ye3ivO6GMr5q,The Avett Brothers,Acoustic Christmas Campfire,Winter In My Heart,0,294960,False,0.409,0.198,9,-10.832,1,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+3wBzbRG2OnmKl9jYyR6umu,The Infamous Stringdusters,Laws Of Gravity,Gravity,34,221640,False,0.462,0.613,7,-8.153,1,0.0271,0.213,0.0927,0.189,0.327,137.7,4,bluegrass
+5OwwWMZDh47EptyLoIAG23,Trampled by Turtles,Songs from a Ghost Town,Drinkin in the Morning,37,225946,False,0.553,0.703,4,-5.404,1,0.0276,0.208,0.084,0.179,0.705,92.292,4,bluegrass
+6vXQ12lw0BOY8ZAwT80wJy,The Avett Brothers,sadsadchristmas,Winter In My Heart,0,294960,False,0.409,0.198,9,-10.832,1,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+4qEJ335QcS2azvUJPgHG7S,The Avett Brothers,Calm Christmas,Winter In My Heart,0,294960,False,0.409,0.198,9,-10.832,1,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+6rmTI4qrd6b2iJddcCJy3A,The Avett Brothers,Christmas Vibes But Not Christmas Songs,Winter In My Heart,0,294960,False,0.409,0.198,9,-10.832,1,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+1R1XNbZDIDEDCi4Y16eNQn,The Wailin' Jennys,40 Days,Arlington,37,294160,False,0.654,0.295,10,-13.429,1,0.0293,0.768,0.000399,0.112,0.379,116.015,4,bluegrass
+5cZpITVFb3aeafBjpB5w3B,Nickel Creek,Chillin' It - Mellow Day Country,Sweet Afton,0,337906,False,0.325,0.154,4,-15.168,1,0.039,0.887,1.38e-06,0.106,0.301,204.882,3,bluegrass
+5YM4SoGPSpQtCjfCRULUFf,Punch Brothers,Acoustic Christmas Campfire,"O Come, O Come, Emmanuel",0,244880,False,0.606,0.298,2,-11.326,0,0.0319,0.701,2.06e-06,0.13,0.174,118.907,4,bluegrass
+01YEp5KTfQyoRpH3Ci1oFz,Tennessee Ernie Ford,Reelin' and Trippin' (Classy Road Trip Songs),Cincinnati Dancing Pig,0,169866,False,0.778,0.51,5,-10.072,1,0.209,0.822,0.000162,0.202,0.652,144.849,4,bluegrass
+760KGGc6GTn2w180XKNrgq,The Steeldrivers,Reckless,You Put The Hurt On Me,39,224786,False,0.602,0.297,9,-9.341,1,0.0254,0.879,6.28e-06,0.106,0.436,98.505,4,bluegrass
+70ZFAUADyyixehMqxRUMq9,The Steeldrivers,Reckless,Higher Than The Wall,37,227480,False,0.552,0.366,9,-7.274,1,0.0326,0.85,0.000163,0.193,0.345,125.686,3,bluegrass
+1QdVTJ1GEMnL1xhx5APGdy,The Steeldrivers,Reckless,"Guitars, Whiskey, Guns And Knives",38,154293,False,0.529,0.772,9,-5.109,1,0.0361,0.602,0.00281,0.341,0.634,105.401,4,bluegrass
+52l1zyV6TMxz9nUYggBglh,Caribou Mountain Collective,Went Down With the Sun,Ain't the Same,31,183840,False,0.548,0.466,1,-9.097,0,0.0358,0.833,6.36e-06,0.159,0.489,79.705,4,bluegrass
+6Dz2qlBYrXuhQ2y6YD6ReA,Tony Trischka,Solo Banjo Works,Beaumont Rag,30,124333,False,0.503,0.28,9,-18.668,0,0.0526,0.881,0.729,0.171,0.957,99.959,4,bluegrass
+73C8vVm2BRLLBQ8FH6N6Qm,Jerry Douglas;Paul Simon;Mumford & Sons,Traveler,The Boxer feat. Mumford & Sons and Paul Simon,58,245106,False,0.502,0.372,0,-10.996,1,0.0313,0.677,5.61e-05,0.104,0.257,98.607,4,bluegrass
+7KJLHc8L9sQem8oc6mTBOt,Jim and Jesse and the Virginia Boys,Y'all Come!,Ole Slew Foot,32,154960,False,0.582,0.411,9,-9.492,1,0.0381,0.598,2.75e-05,0.134,0.756,146.149,4,bluegrass
+2e5fxFh9iG3SH0l5x3R6KQ,Wood & Wire,North of Despair,Texas,30,184939,False,0.478,0.333,2,-10.543,1,0.0288,0.786,2.46e-05,0.103,0.317,151.675,4,bluegrass
+79Wzw12qhwZFoKHuhQe5i0,Wood Belly,Solid Ground,Solid Ground,33,242613,False,0.608,0.659,7,-8.813,1,0.0282,0.24,0.00818,0.305,0.822,130.025,4,bluegrass
+3CbfrDVrNsfQ04RhDjHKvX,Justin Moses,Fall Like Rain,Fall Like Rain,30,262640,False,0.592,0.523,10,-9.241,1,0.0275,0.536,0.00728,0.117,0.484,137.893,4,bluegrass
+4h1ZTkXUtAmWSlpmTu5PMk,Trampled by Turtles,Life is Good on the Open Road,Life is Good on the Open Road,31,203026,False,0.376,0.376,4,-8.389,1,0.0281,0.33,0.000105,0.128,0.381,107.41,4,bluegrass
+2GERJt7UHGAsmobxdSgqu5,Trampled by Turtles,Duluth,Duluth,31,183133,False,0.535,0.385,2,-6.897,1,0.0272,0.675,0.0853,0.152,0.349,113.426,4,bluegrass
+6tBt0o5KS4xYaC7aKd7RY0,The Po' Ramblin' Boys,"Toil, Tears & Trouble","Hickory, Walnut & Pine",31,203666,False,0.636,0.634,9,-5.398,1,0.0267,0.614,0.0,0.185,0.631,98.931,4,bluegrass
+4236yFIkzAwrNhwb9hZzqY,The Wood Brothers,Paradise,Never and Always,33,236253,False,0.591,0.452,9,-7.648,1,0.0406,0.326,0.0,0.113,0.653,146.019,4,bluegrass
+1zupAS5H9d56MpC6hjxqGI,Keller Williams,Funk,Samson's Wine,31,515853,False,0.594,0.754,4,-8.08,1,0.0573,0.604,2.48e-05,0.973,0.534,101.628,4,bluegrass
+5iyr3UpW3hynvwVQFpSpve,Stringbean,22 Early Starday Recordings,Run Little Rabbit Run,30,99960,False,0.551,0.469,2,-11.037,1,0.0389,0.723,0.622,0.375,0.932,148.462,4,bluegrass
+0ewK5oKOtaMnSjpzB2jFUC,The Wood Brothers,Live at the Barn,Ophelia - Live,35,219906,False,0.36,0.759,0,-8.277,1,0.0426,0.00768,2.71e-05,0.874,0.431,99.838,4,bluegrass
+3JLIzLd9scrMNiXjTeW0JR,Wood Belly,Solid Ground,Colorado Hipster Beard,31,243640,False,0.659,0.574,2,-9.328,1,0.0272,0.174,3.52e-05,0.333,0.665,133.958,4,bluegrass
+11JU4vvukl7eQAd4PLKJtQ,Alison Krauss & Union Station,New Favorite,Choctaw Hayride,30,190866,False,0.474,0.705,4,-9.01,0,0.0273,0.0974,0.969,0.356,0.766,136.808,4,bluegrass
+1yK88SixT2gcar84jRqhtL,The Del McCoury Band,The Cold Hard Facts,Blackjack County Chains,30,206066,False,0.579,0.246,0,-11.706,0,0.0315,0.81,6.61e-05,0.117,0.607,138.742,4,bluegrass
+13RDRauw9doFCf1gW8Z1W8,Greensky Bluegrass,Handguns,Don't Lie,33,317133,False,0.442,0.585,6,-7.779,0,0.0293,0.554,0.025,0.132,0.528,123.493,4,bluegrass
+0Eq6nhoKcMBcFoSYQZDaq7,Horseshoes & Hand Grenades,Middle Western,Old Man & Me,32,177000,False,0.502,0.433,2,-10.665,1,0.0433,0.583,0.0,0.102,0.635,129.159,5,bluegrass
+5sx9hOWgRSJvfYpk1i0RQ6,Nickel Creek,This Side,Speak,29,241348,False,0.687,0.378,11,-13.338,1,0.0336,0.822,0.00981,0.109,0.584,96.077,4,bluegrass
+3pp4T5WWhalBxNKWijBbHA,Charlie Parr,I Ain't Dead Yet,HoBo,33,227440,False,0.576,0.357,0,-13.477,1,0.0283,0.741,0.013,0.206,0.404,104.916,4,bluegrass
+1e3OLCYKGvvWpTB7KsUPj3,Wood & Wire,North of Despair,Lies & Money,31,216229,False,0.639,0.52,2,-9.592,1,0.0299,0.502,1.48e-05,0.159,0.748,113.661,4,bluegrass
+4bb6isJQPtNxO82a1gtHno,Greensky Bluegrass,"Shouted, Written Down & Quoted",Run or Die,32,255721,False,0.471,0.727,4,-7.583,0,0.032,0.581,4.65e-05,0.147,0.704,133.118,4,bluegrass
+4jkUPVl2evfCEBBMRmtIBF,The Del McCoury Band,Del & The Boys,All Aboard,31,238560,False,0.454,0.568,4,-10.225,0,0.0349,0.222,0.00177,0.35,0.49,157.812,4,bluegrass
+1QwjuAaB64MjAKvZgshrcv,The Steeldrivers,Bad For You,Forgive,31,243360,False,0.547,0.581,0,-7.32,1,0.0283,0.677,5.99e-05,0.226,0.684,88.813,4,bluegrass
+2v2LMDd1dzsG54gTTh4KB3,The Steeldrivers,Get Low (Original Motion Picture Soundtrack),East Virginia Fast,30,128759,False,0.588,0.606,2,-6.975,0,0.0306,0.564,7.6e-05,0.319,0.779,126.995,4,bluegrass
+3b2Ph5pbTDpzafQ4Ol8N0m,John Hartford,Mark Twang,Long Hot Summer Days,32,288760,False,0.591,0.177,9,-17.299,1,0.0811,0.926,0.00106,0.294,0.522,70.959,4,bluegrass
+0QDROVQXDVdoM8WMuYRnyD,Old Crow Medicine Show,Carry Me Back,Levi,32,170186,False,0.501,0.731,7,-6.135,1,0.0385,0.304,0.0,0.0661,0.879,201.077,4,bluegrass
+5rhEqquCTOU6vnfhTwt9OP,Trampled by Turtles,Stars and Satellites,Widower's Heart,31,333746,False,0.336,0.297,7,-11.556,1,0.0292,0.709,0.147,0.125,0.179,141.442,3,bluegrass
+2elYwMUOSibUXeW6Qjk5ge,Trampled by Turtles,Palomino,Separate,32,213760,False,0.573,0.604,2,-7.833,1,0.0279,0.464,0.0126,0.131,0.782,126.286,4,bluegrass
+53ewPfho6rQQpbv3vbTIKS,Nickel Creek,Why Should The Fire Die?,When In Rome,30,255693,False,0.373,0.7,0,-9.849,1,0.0468,0.0827,0.131,0.133,0.537,174.242,4,bluegrass
+58oZjQwET9oX37wSXlntGX,Balsam Range,Last Train To Kitty Hawk,Caney Fork River,30,181920,False,0.649,0.743,11,-4.961,1,0.0339,0.47,0.0,0.267,0.876,127.046,4,bluegrass
+33Nv3eQkRZR2VMqrjWsnUt,Kitchen Dwellers,Wise River,Drowning (... Again),35,281413,False,0.506,0.782,7,-5.41,1,0.0291,0.602,0.000171,0.139,0.711,155.048,4,bluegrass
+6AoxvIkhJUD0o6Ak7esnS0,Blue Highway,"It's A Long, Long Road",In The Gravel Yard,30,185546,False,0.718,0.675,6,-9.701,0,0.0303,0.702,0.000915,0.0801,0.925,110.557,4,bluegrass
+1ap81IwnNa5QeuvMMnbZfu,Balsam Range,Trains I Missed,Trains I Missed,32,228853,False,0.562,0.534,11,-8.125,1,0.0313,0.772,5.05e-05,0.126,0.504,93.12,4,bluegrass
+1qYI5TYXjlMD7uJMF6JyYj,Greensky Bluegrass,All Access: Volume Two,I Know You Rider,31,500893,False,0.367,0.733,7,-7.708,1,0.0389,0.674,0.0902,0.807,0.678,119.795,4,bluegrass
+6Ca9GQjXt1NIEKjW7tv9Yx,Trampled by Turtles,Songs from a Ghost Town,Wrong Way Street,32,210266,False,0.609,0.801,8,-4.076,1,0.0274,0.302,5.85e-06,0.144,0.939,100.678,4,bluegrass
+602gtPqmrs7PMKVPeE0j7R,Special Consensus,Scratch Gravel Road,Sea Of Heartbreak,29,188266,False,0.594,0.613,11,-8.062,1,0.0291,0.384,0.000626,0.115,0.877,104.859,4,bluegrass
+0mFErfI7fGpwQA3KqF4W6l,Balsam Range,Trains I Missed,East Virginia Blues,31,172133,False,0.558,0.831,9,-6.656,1,0.0318,0.459,0.00101,0.258,0.883,140.021,4,bluegrass
+7y6pSKKMwCJ9jd0n1aKIF3,The Lil Smokies,The Lil Smokies,Mending the Fence,32,370746,False,0.485,0.54,7,-10.213,1,0.0336,0.536,0.00123,0.2,0.575,140.105,4,bluegrass
+2lH4MX29QLQd0CABeNSzMb,The Devil Makes Three,Do Wrong Right,For Good Again,33,272333,False,0.634,0.609,9,-8.957,1,0.0396,0.728,0.000415,0.109,0.825,111.54,4,bluegrass
+5YoTXDXaj4gBsPEVAuoCJ7,Balsam Range,Marching Home,Burning Georgia Down,31,233600,False,0.608,0.694,6,-7.936,0,0.0318,0.564,0.0061,0.196,0.623,126.043,4,bluegrass
+6qtbJulxYHxmoAtWz0Qnhs,The Steeldrivers,The Muscle Shoals Recordings,Here She Goes,30,205720,False,0.33,0.331,5,-12.208,1,0.0322,0.6,0.00321,0.126,0.425,173.23,4,bluegrass
+1avQ2x0WLb4l0wENRWSras,Town Mountain,Heroes & Heretics,Black-Eyed Susan,31,221960,False,0.369,0.44,2,-11.16,1,0.031,0.856,0.184,0.0434,0.333,102.194,4,bluegrass
+0BQmdxpn2fhwUM0HtY9A4s,The Infamous Stringdusters,Let It Go,Where the Rivers Run Cold,29,196613,False,0.438,0.682,4,-6.844,1,0.0334,0.304,3.19e-06,0.186,0.352,136.248,4,bluegrass
+6EByBksi4Jp7QszvbpXbjK,The Steeldrivers,Bad For You,Lonely And Being Alone,30,182880,False,0.614,0.338,7,-8.933,1,0.026,0.778,1.73e-06,0.0858,0.558,104.01,3,bluegrass
+6KXuoc56Lz2KOP5phaJSP5,The Steeldrivers,Bad For You,When A Heart Breaks,30,227920,False,0.536,0.495,11,-6.918,0,0.0268,0.728,0.000102,0.164,0.348,107.028,4,bluegrass
+56xBiRC5zcb1Hvhnek8m1u,The Infamous Stringdusters,Laws Of Gravity,1901: A Canyon Odyssey,32,275973,False,0.503,0.731,11,-6.113,1,0.0303,0.526,0.0015,0.12,0.746,115.934,4,bluegrass
+7E5RnzEU6sKPSMYmGZzk0C,Peter Rowan,Peter Rowan,The Free Mexican Airforce,32,361226,False,0.432,0.433,7,-11.176,1,0.0345,0.604,0.0,0.0116,0.713,97.257,1,bluegrass
+1k82QYmnCIP4npYIraG1td,Yonder Mountain String Band,Love. Ain't Love,Groovin' Away,32,333986,False,0.768,0.41,7,-12.034,1,0.046,0.713,4.6e-06,0.474,0.755,77.98,4,bluegrass
+7rVp7JknHf1lmd7ay6n0RR,John Berry,John Berry,Your Love Amazes Me,54,233906,False,0.589,0.382,10,-12.332,1,0.0249,0.402,1.23e-06,0.116,0.218,75.497,4,bluegrass
+53DVsTZvB16BDP30XmfSef,Watchhouse,Such Jubilee,Old Ties and Companions,66,188946,False,0.657,0.368,7,-9.978,1,0.0281,0.884,0.00293,0.109,0.522,116.221,4,bluegrass
+46LI9mnlQ8fJHH47ioBubg,Alison Krauss & Union Station,A Tribute Album,When You Say Nothing At All,57,261120,False,0.509,0.242,3,-13.353,1,0.0291,0.714,0.000365,0.127,0.448,169.642,4,bluegrass
+1h9TW0ATqzWMHP9uHSewQT,Hot Rize,Hot Rize,Blue Night,28,143800,False,0.583,0.522,11,-13.405,1,0.0336,0.43,0.159,0.104,0.915,120.657,4,bluegrass
+21TryieQX3eY96LemAyX28,Trout Steak Revival,Spirit to the Sea,Last Chance,28,239346,False,0.51,0.522,9,-10.52,1,0.0291,0.74,0.00452,0.284,0.527,134.114,4,bluegrass
+67lThj6VkuNrRBdw7xy4nL,The Infamous Stringdusters,Toward the Fray,Revolution,28,301786,False,0.444,0.896,7,-6.213,1,0.0396,0.292,0.815,0.128,0.637,126.51,4,bluegrass
+1B9Mwpv1Uxe7ODgFwUYh8w,Trampled by Turtles,Life is Good on the Open Road,I Went to Hollywood,29,152933,False,0.441,0.552,0,-6.286,1,0.0318,0.0625,0.0,0.263,0.624,138.363,4,bluegrass
+0EXH5At0IggPUmURAJv4tl,Hot Rize,When I'm Free,Western Skies,28,162480,False,0.677,0.644,9,-7.23,1,0.0293,0.688,0.034,0.32,0.909,129.866,4,bluegrass
+7i6rpfNTw7Wd3ok2scd0lD,Trout Steak Revival,Flight,Where Do My Bluebird Fly,29,251213,False,0.556,0.546,7,-9.336,0,0.0333,0.745,0.000104,0.247,0.691,120.565,4,bluegrass
+3BOUYaKNALBl9j64wfxplM,Hot Rize,Hot Rize,High On A Mountain,29,186333,False,0.439,0.274,0,-16.033,1,0.0377,0.793,8.49e-05,0.227,0.682,201.5,4,bluegrass
+3PCCkanPy2LPDsMhd115GQ,Nickel Creek,A Dotted Line,Where Is Love Now,29,282040,False,0.426,0.259,4,-13.644,1,0.028,0.89,0.000561,0.389,0.207,144.064,4,bluegrass
+1EC4aQXz8KKzCzK6xuEivP,Hot Buttered Rum,Well-Oiled Machine,Guns Or Butter,29,212826,False,0.81,0.422,2,-9.278,0,0.0593,0.815,1.53e-05,0.0872,0.802,120.072,4,bluegrass
+2XqqXmfYKFC8z4tj4BXx2q,Trampled by Turtles,Wild Animals,Silver Light,30,264266,False,0.448,0.477,7,-5.681,1,0.0316,0.185,0.0187,0.133,0.28,122.997,4,bluegrass
+03N7wdRyQShcktyGpffq79,Balsam Range,Moxie and Mettle,Richest Man,29,182500,False,0.605,0.68,11,-8.293,1,0.0376,0.233,0.000251,0.258,0.895,120.044,4,bluegrass
+0uyG9P8SaaeRpwdQ0AIahd,The Boxcars,All In,Jeffrey's Hell,29,199453,False,0.698,0.563,5,-10.275,0,0.0339,0.551,0.000364,0.0663,0.83,111.977,4,bluegrass
+4JurqgdGROSNNEStyb2uQ9,Trampled by Turtles,Life is Good on the Open Road,Good Land,29,171093,False,0.463,0.685,5,-7.587,1,0.0324,0.114,0.6,0.0826,0.815,111.273,4,bluegrass
+4GAWnZAIJnONN0ls5XPt8G,Trampled by Turtles,Blue Sky and the Devil,Blue Sky and the Devil,29,280682,False,0.43,0.261,2,-11.072,1,0.0312,0.275,0.00301,0.11,0.237,107.373,3,bluegrass
+0KSar1knxet2s1mBYW7QeN,J.D. Crowe & The New South,J.D. Crowe & the New South,Rock Salt & Nails,28,185000,False,0.383,0.208,4,-13.747,1,0.0286,0.714,0.0,0.319,0.3,143.667,3,bluegrass
+001pyq8FLNSL1C8orNLI0b,Old Crow Medicine Show,O.C.M.S.,Poor Man,30,214600,False,0.58,0.29,2,-11.942,1,0.0272,0.261,0.0,0.125,0.497,91.321,4,bluegrass
+5muyMixMNLGeL31Ohi17rN,Punch Brothers,Hell on Church Street,One More Night,29,109254,False,0.548,0.47,7,-9.87,1,0.0351,0.848,0.222,0.144,0.797,73.796,4,bluegrass
+48Xtpypr0EwjBK3BySVI9g,Keller Williams,Stage,Gate Crashers Suck,29,182893,False,0.314,0.252,5,-18.399,1,0.0487,0.587,0.000803,0.171,0.418,165.248,4,bluegrass
+11gecwCyHcDuUi6GoO7iKf,Old Crow Medicine Show,O.C.M.S.,Tear It Down,29,131133,False,0.672,0.663,7,-6.335,1,0.126,0.666,0.0,0.2,0.853,138.489,4,bluegrass
+2MhhYrCk7u8UXZPeErvK5h,Trampled by Turtles,Duluth,Darkness and the Light,30,204040,False,0.44,0.938,3,-4.36,1,0.0492,0.615,0.024,0.119,0.895,139.975,4,bluegrass
+6aYE0zrhRRo7KmKUC04fG9,Greensky Bluegrass,All Access: Volume One,Reverend,30,333413,False,0.45,0.615,11,-8.158,0,0.0284,0.26,0.000387,0.82,0.62,113.073,4,bluegrass
+0lymHeBCqixgmOx9bU3teB,Split Lip Rayfield,Never Make It Home,Used To Call Me Baby,30,214213,False,0.469,0.783,7,-6.722,1,0.0348,0.298,0.000117,0.266,0.826,187.124,3,bluegrass
+1DRUADzxXobWbKTPhkYnQo,Jim & Jesse,Y'all Come: The Essential Jim & Jesse,Ballad of Thunder Road,29,156600,False,0.654,0.551,5,-10.2,1,0.0325,0.579,0.0,0.812,0.965,138.15,4,bluegrass
+2nZPGoeQdSZ5cJLmeskUKY,The Steeldrivers,Get Low (Original Motion Picture Soundtrack),Jesus Come For Me,29,212133,False,0.301,0.495,2,-6.902,1,0.0313,0.803,2.5e-05,0.102,0.423,183.986,4,bluegrass
+39CpnbER8qi0lbjLiZZu66,Balsam Range,Five,Moon Over Memphis,29,267226,False,0.61,0.805,11,-5.611,1,0.0306,0.53,0.0204,0.136,0.892,133.987,4,bluegrass
+1lCZCeNWATY0JHYgH19zyI,Mountain Sprout,One More For The Ditch,Dry Counties,29,224373,False,0.533,0.841,2,-4.418,1,0.0315,0.126,0.000212,0.184,0.97,122.132,4,bluegrass
+0jMfZgvKbqfe3JHz3UmT8z,Larry Sparks,Silver Reflections,Blue Virginia Blues,28,246266,False,0.604,0.341,5,-13.1,1,0.048,0.804,8.21e-06,0.102,0.835,183.907,4,bluegrass
+2d6d9enSAO1ax45MwRw1rB,Blue Highway,Original Traditional,Don’t Weep For Me,28,208653,False,0.488,0.775,9,-5.458,1,0.0465,0.54,0.000387,0.0502,0.811,205.864,4,bluegrass
+7zcWGMspcEFCPAGqCW5i7A,Old Crow Medicine Show,Volunteer,Child of the Mississippi,30,300080,False,0.544,0.929,2,-5.8,1,0.0475,0.153,1.16e-06,0.0569,0.663,147.707,4,bluegrass
+5A9juJ8dlpalpnmVy1twVf,Keller & The Keels,Thief,Get It While You Can,29,323333,False,0.594,0.432,7,-8.856,1,0.0305,0.593,0.00366,0.0862,0.445,103.81,4,bluegrass
+4Uiz713Fq4FOKLs0UTr5Od,Ricky Skaggs,Country Gentleman: The Best Of Ricky Skaggs,Highway 40 Blues,28,190066,False,0.64,0.752,4,-9.782,1,0.0311,0.0562,0.000311,0.311,0.949,117.511,4,bluegrass
+2WrdYNnbrT2r8a4qZgHK0z,Alison Krauss & Union Station,Paper Airplane,Bonita And Bill Butler,28,243266,False,0.456,0.619,4,-9.393,0,0.0332,0.224,5.38e-06,0.339,0.605,180.911,4,bluegrass
+7MR8r6a4WticivaxkR2oNl,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Trailer Trash,28,250560,False,0.465,0.61,7,-8.506,1,0.0319,0.358,0.0102,0.0689,0.716,174.783,4,bluegrass
+6LUB8cOxaPCxtqnnOVxsJ3,Greensky Bluegrass,Handguns,No Idea,28,328253,True,0.596,0.581,0,-8.378,1,0.0281,0.505,0.512,0.277,0.535,115.109,4,bluegrass
+525ig7YIkCXy8waKTZbfjW,The Lil Smokies,Going to California,Going to California,29,258604,False,0.268,0.504,2,-8.654,1,0.0302,0.0361,0.031,0.0868,0.254,168.518,4,bluegrass
+06PQVPfVRJxx4dE22zGl40,The Devil Makes Three,Do Wrong Right,Help Yourself,29,237840,False,0.642,0.711,2,-7.709,1,0.0989,0.62,1.31e-06,0.17,0.874,113.972,4,bluegrass
+5p6OXyiYRwJfQwmQwA9TbU,Lester Flatt;Earl Scruggs;Mother Maybelle Carter,Songs Of The Famous Carter Family,Foggy Mountain Top (with Mother Maybelle Carter),29,144160,False,0.564,0.45,7,-12.168,1,0.029,0.423,7.34e-05,0.638,0.842,112.241,4,bluegrass
+7GsaniI8jDoKvKujMXUGYs,The Steeldrivers,The Muscle Shoals Recordings,Too Much,27,222213,False,0.589,0.614,7,-9.399,1,0.0385,0.171,0.000718,0.27,0.348,118.564,4,bluegrass
+1PSu92QkN3bZaAQZ6949Am,Greensky Bluegrass,All Access: Volume Two,China Cat Sunflower >,29,410773,False,0.392,0.571,7,-9.452,1,0.0335,0.73,0.618,0.327,0.77,106.737,4,bluegrass
+4FHzWyHpBVu94Ud8OuMH9Q,The Steeldrivers,Bad For You,Mama Says No,29,178133,False,0.505,0.684,7,-8.142,1,0.0334,0.418,0.934,0.226,0.885,128.036,4,bluegrass
+5yepNRDFjQoAq3NYQTKr92,Kitchen Dwellers,Ghost in the Bottle,This Time,31,205120,False,0.498,0.72,7,-9.238,1,0.0298,0.312,0.00505,0.247,0.899,148.953,4,bluegrass
+3kDfj7LAA54aVqkaemZ2MW,Old Crow Medicine Show,Volunteer,Flicker & Shine,30,143200,False,0.357,0.898,9,-5.935,1,0.0444,0.177,0.0,0.257,0.961,147.414,4,bluegrass
+5KUWQdcH29LNZP21tJGxue,The Wailin' Jennys,40 Days,Saucy Sailor,31,191186,False,0.685,0.245,3,-12.693,1,0.0303,0.938,9.46e-06,0.108,0.326,111.96,3,bluegrass
+6cVmbzMwTNcTrjPZ0cvsZf,Lonesome River Band,Mayhayley's House,Mayhayley's House,28,246663,False,0.601,0.675,0,-6.059,1,0.0282,0.301,0.0,0.14,0.562,89.084,4,bluegrass
+1NJivJlcocSY1XiCtV3ENE,The Steeldrivers,The Muscle Shoals Recordings,Day Before Temptation,28,190826,False,0.458,0.536,0,-8.992,1,0.051,0.381,0.0,0.119,0.577,180.095,4,bluegrass
+1vPVmfvkWDwVbToJz3TQrs,Lonesome River Band,Bridging the Tradition,Thunder And Lightning,28,169662,False,0.551,0.737,2,-6.528,1,0.0341,0.414,1.16e-06,0.0802,0.821,181.071,4,bluegrass
+4Y22ZNmlzAbwZ7b9dm9NyN,The Bluegrass Album Band,The Bluegrass Album,On My Way Back To The Old Home,29,152800,False,0.417,0.592,10,-13.715,1,0.0361,0.381,0.00153,0.276,0.965,153.16,4,bluegrass
+53KH5aEFGi0PMlwAvpCT5t,Rob Scallon,Rob Scallon,Rain,47,125027,False,0.678,0.468,5,-13.465,1,0.0376,0.966,0.891,0.108,0.753,123.186,4,bluegrass
+11TmWrHkxwtVcCtEdAXjJA,Watchhouse,Such Jubilee,Daylight,69,193533,False,0.582,0.371,2,-9.585,0,0.028,0.912,0.00784,0.108,0.163,128.756,4,bluegrass
+6PXjxZX8rzQQ9jtW7ERK1f,The Rice Brothers,The Rice Brothers,Grapes On The Vine,26,196333,False,0.593,0.442,5,-14.764,1,0.0381,0.573,0.00156,0.0814,0.697,119.417,4,bluegrass
+5UK4j1axMzwv8W6Cn1GqRp,Reno & Smiley,Early Years 1951-1959 - Volume 2,Trail Of Sorrow,27,139440,False,0.617,0.487,7,-8.684,1,0.0379,0.779,0.00439,0.259,0.595,99.733,4,bluegrass
+611n0K4uwT68HQSYUN7FQC,Wood & Wire,John,John,28,175466,False,0.388,0.47,5,-10.011,1,0.0377,0.584,1.99e-06,0.176,0.776,183.893,3,bluegrass
+2MnJy9SG0hHtP2fBEcgIaM,The Stanley Brothers,Folk Concert,Little Birdie,27,119600,False,0.456,0.556,7,-9.135,1,0.0299,0.375,0.00258,0.268,0.886,167.863,4,bluegrass
+6AJT8a1SwSjL5WBZxWdbRW,Tony Rice Unit,Manzanita,Blackberry Blossom,27,159133,False,0.457,0.602,7,-11.774,1,0.0361,0.153,0.897,0.132,0.769,129.507,4,bluegrass
+2VCNQWYjyPZ9oppe5ToBKt,Unspoken Tradition,Myths We Tell Our Young,Land,28,220000,False,0.674,0.589,0,-7.313,1,0.0302,0.57,0.000801,0.123,0.733,100.013,4,bluegrass
+1fajmA1Nr8xIiJcLLlEB2n,Wood & Wire,North of Despair,Summertime Rolls,27,114346,False,0.33,0.712,9,-10.204,1,0.0364,0.442,0.98,0.243,0.938,173.004,4,bluegrass
+3dC3qhF7T9fsfBpLVeZqcf,Greensky Bluegrass,All for Money,All for Money,27,462660,False,0.311,0.437,11,-13.102,1,0.0311,0.614,0.693,0.309,0.401,95.406,4,bluegrass
+1mlzFmwzz7ya1jQ3O3kiZE,Dale Ann Bradley,Catch Tomorrow,Run Rufus Run,26,208346,False,0.594,0.745,11,-6.764,0,0.0378,0.763,7.56e-05,0.148,0.53,106.183,4,bluegrass
+36sd8TSoD0lIjIGtUY2CQ8,Greensky Bluegrass,Stress Dreams,Until I Sing,28,187479,False,0.493,0.467,5,-12.365,1,0.0311,0.588,0.0518,0.15,0.687,173.573,4,bluegrass
+1dUnlxfjj3PGcHTCiYvZf1,Blue Highway,Still Climbing Mountains,Union Man,26,214840,False,0.553,0.567,0,-7.814,1,0.0294,0.262,5.69e-05,0.143,0.404,122.828,4,bluegrass
+5bvFI6pTCfWMzBk0MeL1C6,Greensky Bluegrass,Stress Dreams,Absence of Reason,27,257358,False,0.576,0.587,2,-11.745,1,0.0292,0.338,0.344,0.291,0.579,100.432,4,bluegrass
+5I91wj51ykRhpypmmgSc1M,Pickin' On Series,Pickin' on the 90s,No Rain - Bluegrass Rendition of Blind Melon,28,214543,False,0.59,0.525,0,-7.117,1,0.0303,0.693,4.45e-05,0.186,0.51,151.723,4,bluegrass
+58WgjKldLmtSIccBxVTy6x,Greensky Bluegrass,"Shouted, Written Down & Quoted",Hold On,28,181507,False,0.472,0.524,2,-9.781,1,0.031,0.675,0.0601,0.155,0.916,118.95,4,bluegrass
+3PzjOk3qG1nh5lWd8GSfzB,The Wood Brothers,Loaded,Fall Too Fast,30,229226,False,0.522,0.302,0,-9.774,0,0.0315,0.593,0.00162,0.115,0.187,121.47,3,bluegrass
+4FNYb2hZ0oNCaF3chpzscz,Trampled by Turtles,On the Highway,It's So Hard to Hold On,28,217960,False,0.576,0.663,2,-7.999,1,0.0267,0.409,0.000339,0.128,0.581,126.367,4,bluegrass
+1hsRF9jkv8IviYcdI1TDSw,Greensky Bluegrass,Handguns,Handguns,28,227560,False,0.574,0.651,1,-6.464,0,0.0259,0.622,0.000902,0.369,0.542,107.336,4,bluegrass
+0JXTA3GNLAdHjWNGo8Pkyi,Old Crow Medicine Show,O.C.M.S.,Hard To Love,29,150866,False,0.559,0.74,2,-6.433,1,0.13,0.631,0.0,0.124,0.803,151.258,4,bluegrass
+3xsYZOaajjyJouOEuKIeo7,Billy Dean,Certified Hits,We Just Disagree,28,206320,False,0.358,0.624,4,-8.64,1,0.0281,0.224,0.0,0.0945,0.567,93.863,4,bluegrass
+7sKv2C005X9L9xl6twWGze,Ricky Skaggs,Country Gentleman: The Best Of Ricky Skaggs,Country Boy,27,230226,False,0.354,0.779,7,-9.424,1,0.0322,0.0546,0.00282,0.0943,0.54,162.431,4,bluegrass
+3kUPtdiiK033knlGKPTB9V,Greensky Bluegrass,All for Money,Do Harm,28,181267,False,0.629,0.535,7,-11.576,1,0.0356,0.589,0.0238,0.11,0.663,102.512,4,bluegrass
+5WVFGjqxKbzErBem6P5XWi,Blue Highway,Still Climbing Mountains,Riding The Danville Pike,27,128800,False,0.391,0.879,2,-4.672,1,0.0402,0.285,4.53e-05,0.267,0.795,182.219,4,bluegrass
+3NpJ7aW0QhdIRZRRz4cmxk,Trampled by Turtles,Sigourney Fever,Ooh La La,28,185093,False,0.45,0.484,0,-6.208,1,0.0304,0.669,0.0,0.112,0.514,138.633,4,bluegrass
+7neNPI7qnFBrk20jqXSUzd,Greensky Bluegrass,"Shouted, Written Down & Quoted",Room Without a Roof,27,267533,False,0.521,0.463,2,-9.802,1,0.0269,0.389,0.0592,0.0926,0.467,92.73,4,bluegrass
+0tKA7DNVNogoGmT1rLv3I4,Sideline,Front and Center,Thunder Dan,28,191395,False,0.484,0.728,4,-6.059,1,0.0376,0.398,6.36e-06,0.0646,0.69,186.042,4,bluegrass
+1dcDWxKlOCSrEz6il2MTH3,Jerry Garcia Band;Jerry Garcia,Cats Under the Stars (Expanded),Gomorrah,28,326546,False,0.587,0.421,0,-9.419,1,0.0276,0.273,0.00822,0.177,0.496,83.114,4,bluegrass
+1msWWsRXyMFeMmYNbHquJO,Cornmeal,Feet First,River Gap,28,332906,False,0.559,0.835,0,-7.858,1,0.0373,0.215,5.14e-06,0.192,0.935,168.613,4,bluegrass
+7CldQKMDbIsGStHdLOy2J2,Old Crow Medicine Show,Carry Me Back,Ain't It Enough,29,239266,False,0.534,0.395,4,-8.963,1,0.0257,0.0288,0.0,0.151,0.418,158.014,3,bluegrass
+0ojJrrtH58tdqlFGWojyZd,Trampled by Turtles,Wild Animals,Are You Behind the Shining Star?,30,182840,False,0.355,0.664,9,-4.517,1,0.03,0.0531,0.0062,0.104,0.434,144.786,4,bluegrass
+35yqG3NlZFbOr6mJ80qvzQ,Horseshoes & Hand Grenades,Horseshoes & Hand Grenades on Audiotree Live - EP,Stuck on Your Mind - Audiotree Live Version,27,257987,False,0.422,0.646,11,-7.281,0,0.0374,0.204,1.75e-05,0.255,0.678,138.465,4,bluegrass
+3eJXbcg0GFyI4DtyKChTZz,Balsam Range,Mountain Voodoo,The Girl From The Highlands,27,181687,False,0.661,0.647,11,-8.73,0,0.0326,0.595,0.00157,0.132,0.609,119.09,4,bluegrass
+50vZQAAazZQ2E4O2y7wJ6X,Charlie Parr,Stumpjumper,Falcon,31,299986,False,0.565,0.715,4,-6.563,1,0.0341,0.627,0.00385,0.15,0.684,115.472,4,bluegrass
+2uj4OmcJ0wrd6Pdqb0HEzz,Leftover Salmon,The Nashville Sessions,Breakin' Thru,27,321106,False,0.636,0.721,2,-8.705,1,0.0366,0.208,1.47e-05,0.0938,0.63,129.898,4,bluegrass
+2eWOYR0RLp0OJoLDyh3pEI,Trampled by Turtles,On the Highway,Burlesque Desert Window,28,179573,False,0.531,0.552,2,-7.846,1,0.0324,0.676,8.31e-06,0.109,0.816,80.945,4,bluegrass
+4Tqfnoyk56kZMvqhShghAh,Big Country Bluegrass,"Mountains, Mamas and Memories",The Whiskey or the Coal,27,195120,False,0.487,0.716,0,-6.57,1,0.0378,0.502,6.35e-06,0.164,0.879,200.166,4,bluegrass
+4yCnCecAqvJm6LWvNcjlcj,Yonder Mountain String Band,Get Yourself Outside,Into the Fire,27,158779,False,0.614,0.53,7,-9.098,1,0.0265,0.507,3.21e-05,0.125,0.734,144.986,4,bluegrass
+29LnA4BWIId9jLdVn9NCRU,The Infamous Stringdusters,Rise Sun,Cloud Valley,26,337012,False,0.457,0.721,0,-7.324,1,0.0265,0.235,0.834,0.799,0.633,130.464,4,bluegrass
+1L4GGLeWoCRwvfOZowUlWF,Leftover Salmon,High Country,High Country,28,187430,False,0.569,0.942,7,-5.655,1,0.0364,0.0207,2.11e-05,0.328,0.912,130.076,4,bluegrass
+31JLyd1xx2bWnEkRwa7uMW,Greensky Bluegrass,All Access: Volume One,Sweetwater Sea,28,234866,False,0.512,0.577,4,-10.046,1,0.0299,0.258,0.000102,0.932,0.689,117.735,4,bluegrass
+4hZCKKgXe30ovwxQK5vcC7,Trampled by Turtles,Palomino,Again,29,195773,False,0.603,0.224,4,-10.281,1,0.029,0.779,0.000697,0.102,0.176,115.172,4,bluegrass
+1wGVmm3BKRvOa8KZzD7fvb,The Steeldrivers,The Muscle Shoals Recordings,Ashes of Yesterday,26,192413,False,0.45,0.497,0,-7.366,1,0.0269,0.457,0.0,0.295,0.725,147.707,3,bluegrass
+4zbviFbEpcz1f1SEagU0qm,Carolina Chocolate Drops,Leaving Eden,Country Girl,29,202000,False,0.732,0.673,0,-6.466,1,0.0878,0.677,0.0,0.267,0.591,97.789,4,bluegrass
+4AWuMK5BaNxLaRbSl4yCuR,The Steeldrivers,The Muscle Shoals Recordings,Brother John,26,221013,False,0.444,0.463,9,-10.616,1,0.0299,0.168,5.74e-05,0.139,0.278,170.048,4,bluegrass
+3S0KXoeGj2UIMc6RO1EDB4,Yonder Mountain String Band,Town by Town,Rambler's Anthem,27,173066,False,0.568,0.537,7,-9.03,0,0.0333,0.544,0.012,0.251,0.917,148.418,4,bluegrass
+1N1LWVSBDaQXeVNu570klF,Hayseed Dixie,"Grasswhoopin' Party Pack, Vol. 2",Pumped up Kicks,28,222243,False,0.648,0.495,2,-7.198,1,0.0437,0.756,0.000887,0.138,0.918,130.405,4,bluegrass
+6izTeonyCNymXZ6VjFdF3l,The Devil Makes Three,A Little Bit Faster And A Little Bit Worse,Uncle Harvey's Plane,28,240440,False,0.57,0.57,2,-10.798,1,0.0843,0.774,0.000101,0.976,0.827,119.912,4,bluegrass
+6nbgtMncsVVZEXR3XloCaB,Alison Krauss & Union Station,Live,"Every Time You Say Goodbye - Live From The Louisville Palace, Kentucky / 2002",27,184893,False,0.479,0.652,4,-9.869,1,0.0422,0.188,1.98e-05,0.947,0.78,107.161,4,bluegrass
+5D4yWRy2TXUujlb0KuxujZ,Flatt & Scruggs,Foggy Mountain Banjo,Reuben,27,120320,False,0.404,0.685,2,-8.69,1,0.0288,0.157,0.35,0.264,0.909,134.839,4,bluegrass
+3CiZBMNMkRm8CzPD4ZLM6C,Sarah Jarosz,Undercurrent,Take Me Back,58,154200,False,0.416,0.192,11,-12.525,1,0.034,0.911,1.5e-05,0.107,0.222,102.49,4,bluegrass
+2SiQKjD5mANk0qkNTx2BmO,Crooked Still,Shaken By A Low Sound,Little Sadie,49,155453,False,0.618,0.493,11,-10.31,0,0.0355,0.621,0.571,0.13,0.831,112.764,4,bluegrass
+5DG3HPR6ivqu1bLob210fE,Punch Brothers,Hell on Church Street,The Gold Rush,27,166027,False,0.427,0.237,2,-16.909,1,0.0356,0.913,0.601,0.122,0.235,96.201,3,bluegrass
+2oeEe3EdRBaUPRHmIbgQLU,Sarah Jarosz,I Still Haven't Found What I'm Looking For / my future,I Still Haven't Found What I'm Looking For,61,212157,False,0.587,0.141,1,-9.386,1,0.0308,0.919,5.41e-06,0.103,0.505,105.38,4,bluegrass
+6ENVwFz5VkToGbR4MTAtaa,Honeybucket,Honeybucket,Ohio,26,209253,False,0.615,0.872,2,-6.214,1,0.0337,0.047,0.000121,0.107,0.964,101.045,4,bluegrass
+7AcJDi9pjGHLE1OMiWmLED,Nefesh Mountain;Sam Bush;Jerry Douglas,Songs For The Sparrows,Big Mountain,26,269733,False,0.536,0.771,7,-7.294,1,0.0295,0.266,0.95,0.111,0.608,133.929,4,bluegrass
+6IBbvLtjyuA0kv30goCK42,The Grascals,Up All Night,Maybelle,26,139000,False,0.652,0.512,9,-9.658,0,0.0283,0.858,0.00144,0.0842,0.623,124.971,4,bluegrass
+7MdoheA6np37rjQOG42SYF,Alison Krauss;John Waite,A Hundred Miles Or More: A Collection,Missing You,53,281306,False,0.598,0.736,11,-6.536,1,0.0238,0.00167,0.00179,0.194,0.418,103.233,4,bluegrass
+2hrUbDYNkBQlSwbUn7RR70,Greensky Bluegrass,Stress Dreams,Worry for You,27,273114,False,0.543,0.574,9,-12.127,1,0.0315,0.198,0.104,0.28,0.581,124.79,4,bluegrass
+4KM77RUl2IKdXGhtOBbKIS,Tennessee Ernie Ford,Sixteen Tons,Sixteen Tons,59,155901,False,0.667,0.25,11,-18.533,1,0.217,0.757,0.0,0.25,0.412,144.145,4,bluegrass
+6NTIKfyWCP3Nm2zWB16o88,Sara Watkins,Young In All The Wrong Ways,Without A Word,55,238560,False,0.579,0.171,11,-14.495,1,0.0303,0.901,0.000308,0.111,0.389,136.311,4,bluegrass
+3IswQM1dvOq0IfIpien8pZ,The Kentucky Colonels,Long Journey Home,Shuckin' The Corn,26,118000,False,0.25,0.751,7,-10.889,1,0.0364,0.339,0.959,0.954,0.967,161.631,4,bluegrass
+6AUli4YiyPxVyQptl7AjNc,Hackensaw Boys,The Old Sound of Music Sessions,Restaurant Girl,26,281680,False,0.37,0.561,7,-6.636,1,0.0297,0.346,7.42e-06,0.069,0.493,170.994,4,bluegrass
+6iQDUHZSnfjZ10gOsouEYy,Dan Tyminski;Billy Strings,One More Time Before You Go,Where The Soul Of Man Never Dies (feat. Billy Strings),25,150186,False,0.593,0.55,4,-6.282,1,0.0287,0.83,0.0,0.23,0.68,117.405,4,bluegrass
+20ESeiyuIZxItuKXfYCB9x,The Avett Brothers,Emotionalism (Bonus Track Version),In the Curve - Bonus Track,29,213706,False,0.423,0.362,10,-6.906,1,0.0451,0.889,4.07e-06,0.087,0.364,174.173,3,bluegrass
+2j4VdCqeIyKFr3FnckDThH,Punch Brothers,Hell on Church Street,House Carpenter / Jerusalem Ridge,27,437658,False,0.356,0.497,4,-10.852,0,0.049,0.649,7.65e-05,0.181,0.388,153.718,4,bluegrass
+3NovnOoAhshRdhMQFP9R31,Foghorn Stringband,Devil in the Seat,Chicken Reel,26,97506,False,0.642,0.65,2,-6.192,1,0.0316,0.355,0.551,0.258,0.971,132.151,4,bluegrass
+2oEXzg6PzHXQ3Mt6Ar4fYt,Sister Sadie,Sister Sadie,Unholy Water,27,204826,False,0.461,0.575,0,-7.044,1,0.0302,0.754,0.0434,0.315,0.614,175.763,4,bluegrass
+1iJcM9UmxFozNsCVMqgQ6g,Trampled by Turtles,Trouble,Never Again,27,129946,False,0.554,0.888,8,-8.964,1,0.049,0.353,1.97e-05,0.0819,0.649,135.16,4,bluegrass
+7aoiuDUcwg48bApSuUofDW,Three Tall Pines,Short While Ago,Stillhouse Road,26,177320,False,0.507,0.517,2,-7.256,1,0.0342,0.683,0.00143,0.0918,0.537,116.991,4,bluegrass
+2YRCm9vudHsrEdLKYlaAcr,Ralph Stanley,Shine On,"Swing Low, Sweet Chariot",26,137066,False,0.571,0.096,5,-12.417,1,0.0963,0.912,0.0,0.124,0.379,76.142,4,bluegrass
+4yVIK0fHJ7GpEEVLRqSOs0,The Lil Smokies,The Lil Smokies,Decades,28,358720,False,0.468,0.609,7,-7.693,1,0.0322,0.428,3.31e-05,0.121,0.517,146.829,4,bluegrass
+0sNUDg8VjfgiwijE4W1pTM,Balsam Range,Five,Stacking Up The Rocks,26,150573,False,0.616,0.313,4,-8.727,0,0.114,0.931,0.0,0.116,0.514,147.766,4,bluegrass
+2bbJhWvdPTSuShs3CXFjVt,Leftover Salmon,Something Higher,House of Cards,26,316360,False,0.657,0.804,1,-7.401,0,0.0449,0.671,0.0374,0.103,0.918,136.34,4,bluegrass
+6yIpsFkAVTkeJI0sKnlFdH,Nickel Creek,Why Should The Fire Die?,Scotch & Chocolate,26,187906,False,0.401,0.405,2,-10.542,1,0.0309,0.463,0.397,0.0749,0.441,154.447,4,bluegrass
+65qbkOGoLiCLb6XBt8zadP,The Boxcars,It's Just A Road,You Took All The Ramblin' Out Of Me,27,178906,False,0.724,0.679,7,-8.876,1,0.036,0.375,0.0475,0.162,0.812,113.023,4,bluegrass
+1Jso0EGbuknStEGE3BNVtX,The Stanley Brothers,Bluegrass Salvation,That Home Far Away,26,128639,False,0.38,0.322,9,-18.323,1,0.0358,0.284,3.2e-05,0.31,0.844,160.888,4,bluegrass
+1VguHM9ggcpJAYi2fJr8qS,Pickin' On Series,Pickin' on the 90s,Walking on the Sun - Bluegrass Rendition of Smash Mouth,27,200820,False,0.821,0.519,1,-7.039,1,0.0431,0.715,0.0,0.0652,0.847,123.311,4,bluegrass
+5DBzcRQ2Gdj5ID4Bk9z3Vw,Keller & The Keels,Thief,Don't Cuss the Fiddle,27,273413,False,0.543,0.524,0,-8.893,1,0.0333,0.704,0.0018,0.117,0.68,124.808,4,bluegrass
+1J8k4B3V39SryY7NcR0kf9,Breaking Grass,Just As Strong,Raining In Virginia,26,180320,False,0.525,0.625,9,-7.013,1,0.0283,0.596,0.0,0.138,0.718,145.088,4,bluegrass
+7kYOulCKFjv81OmoGbPNIC,The Brothers Comatose,Turning Up The Ground,Gone Gone Gone,29,264842,False,0.57,0.782,2,-5.601,1,0.0267,0.476,0.0321,0.126,0.668,105.4,4,bluegrass
+3bVEoQJkzgbEKPWjEmFsjd,Nickel Creek,Why Should The Fire Die?,Helena,26,285893,False,0.514,0.621,9,-8.259,1,0.0343,0.0754,0.0,0.0936,0.115,133.015,4,bluegrass
+1iWTVRWdJyf3ItEbuAPsmo,Béla Fleck;Sam Bush;Jerry Douglas;Stuart Duncan;Mark O'Connor;Tony Rice;Mark Schatz,Drive,Up And Around The Bend,26,214840,False,0.533,0.665,9,-13.025,1,0.0352,0.323,0.779,0.0388,0.912,118.664,4,bluegrass
+1ZwuOZGxT9D1s1xUtsKAd9,Nickel Creek,This Side,I Should've Known Better,26,267573,False,0.822,0.294,2,-11.395,0,0.0641,0.231,0.000519,0.0515,0.685,120.094,4,bluegrass
+6n0YI4fgKvj3TpqOq9xc13,Jimmy Martin,Songs of a Freeborn Man,Free Born Man,26,290960,False,0.41,0.744,9,-7.702,1,0.0421,0.665,0.0915,0.152,0.858,131.423,4,bluegrass
+7FJ7iyZL7OxHeNLCLn2H9l,Yonder Mountain String Band,"Mountain Tracks, Vol. 2",No Expectations,27,602453,False,0.419,0.607,9,-10.193,1,0.0296,0.615,0.632,0.716,0.56,117.456,4,bluegrass
+5CtfFdRxQFB7FCgcPP9PL9,Yonder Mountain String Band,"Mountain Tracks, Vol. 5",Boatman's Dance,26,297813,False,0.497,0.874,2,-5.855,1,0.0358,0.388,0.0133,0.779,0.84,142.53,4,bluegrass
+3AXfA5yMyqz7KPggzZqDmm,Greensky Bluegrass,All for Money,Murder of Crows,27,298134,False,0.519,0.466,4,-13.787,1,0.0288,0.636,0.612,0.106,0.706,138.168,4,bluegrass
+4uK4kHwFyJdehrTvdXAQhr,John Hartford,Aereo-Plain,Steamboat Whistle Blues,27,205253,False,0.554,0.493,7,-12.303,1,0.032,0.41,0.00422,0.168,0.831,105.739,4,bluegrass
+6XU7XKGVt6ibed3jbHnhWZ,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Polar Opposites,26,206960,False,0.593,0.834,2,-6.413,1,0.0306,0.0145,0.0028,0.138,0.734,131.821,4,bluegrass
+4nF7M1IOufddgckdHYYdmG,Yonder Mountain String Band,Elevation,The Bolton Stretch,27,165360,False,0.596,0.644,7,-9.479,1,0.0337,0.645,5.61e-05,0.334,0.903,138.787,4,bluegrass
+6J6Oh5lczlN1q74WpT40I8,Lonesome River Band,Carrying The Tradition,Sitting On Top Of The World,25,119626,False,0.582,0.715,0,-9.654,1,0.0329,0.421,0.000277,0.32,0.843,150.814,4,bluegrass
+68SvStN7XigX94wdpRsrLV,Kitchen Dwellers,Muir Maid,Shadows,29,316800,False,0.393,0.757,6,-8.223,0,0.0287,0.157,0.00597,0.131,0.726,156.675,4,bluegrass
+5LOvcRzZ3rE2QoHeQFkV5A,Yonder Mountain String Band,Elevation,Left Me in a Hole,26,325120,False,0.594,0.702,7,-8.474,1,0.0358,0.765,8.83e-05,0.106,0.741,135.353,4,bluegrass
+05e9FVcmO2u6ZWCZvbVZKd,Lonesome River Band,Chronology (Vol. 2),"Perfume, Powder And Lead",25,267986,False,0.571,0.436,7,-8.553,1,0.0317,0.721,0.0,0.148,0.338,133.765,3,bluegrass
+7He1r3Mf87hSN3StnbjVoq,Town Mountain,New Freedom Blues,New Freedom Blues,26,265506,False,0.658,0.747,4,-6.592,0,0.0557,0.634,1.64e-05,0.32,0.71,96.722,4,bluegrass
+4cT14AH7Gmp97wUSxHwyZJ,Ricky Skaggs,The Best Of Can't You Hear Me Callin' - Bluegrass: 80 Years Of American Music,Uncle Pen,26,145733,False,0.566,0.719,9,-10.819,1,0.0322,0.109,0.00383,0.173,0.92,129.423,4,bluegrass
+13PBNeCJvSgEwICVUGvSSx,Alison Krauss & Union Station,Live,"Oh, Atlanta - Live From The Louisville Palace, Kentucky / 2002",27,407040,False,0.368,0.748,5,-8.852,0,0.108,0.501,2.9e-05,0.68,0.572,142.849,4,bluegrass
+2IGLgLzFxFUiDnGjshugWZ,Flatt & Scruggs,Foggy Mountain Banjo,Cumberland Gap,27,116373,False,0.396,0.903,11,-8.957,0,0.0332,0.209,0.791,0.232,0.974,151.121,4,bluegrass
+6PMrfB4IU8XQ2RqoKkTCEb,The Broken Circle Breakdown Bluegrass Band,The Broken Circle Breakdown (Original Motion Picture Soundtrack),Cowboy Man,26,151266,False,0.648,0.502,7,-11.026,1,0.0346,0.575,0.0637,0.111,0.937,135.639,4,bluegrass
+0laEXE6mKdErCC67yhsHaO,Mipso,Mipso,Caroline,52,215040,False,0.622,0.357,9,-15.463,1,0.0496,0.936,0.315,0.113,0.39,97.077,4,bluegrass
+7CEV9VwA8XO9wwxTXgYKvY,The Avett Brothers,I And Love And You,I And Love And You,62,300840,False,0.424,0.264,2,-9.984,1,0.0298,0.831,7.08e-05,0.0763,0.169,139.593,4,bluegrass
+2E5tE2GUA2ABqOVvlpqJmD,Ronnie Bowman,Ronnie Bowman,Hit Parade Of Love,25,147053,False,0.599,0.695,10,-9.18,1,0.0303,0.39,0.000234,0.195,0.965,140.158,4,bluegrass
+5l6A9ZtGoJNoUKQHJAxNgP,The Po' Ramblin' Boys,Back to the Mountains,I Can't Go on This Way,25,123831,False,0.526,0.761,10,-6.491,1,0.033,0.624,1.3e-06,0.238,0.908,139.514,4,bluegrass
+12JPW5e0MP7YbBzgc80MUx,Andy Thorn,Songs of the Sunrise Fox,Barry's Bounce,26,100413,False,0.502,0.33,10,-15.249,1,0.0491,0.988,0.778,0.0845,0.923,142.278,4,bluegrass
+42zrLbtRnhMwVN6T43fRRp,Pickin' On Series,Pickin' on the Hits of 2015,Centuries,26,237230,False,0.557,0.37,9,-8.214,0,0.0412,0.79,0.0,0.0682,0.688,180.001,4,bluegrass
+2n6XtQpycTS9BKSnlS8tpf,The Lil Smokies,Echo Park,Echo Park,27,231366,False,0.678,0.325,11,-10.359,0,0.0338,0.707,0.00111,0.125,0.593,123.267,4,bluegrass
+2xwnLnJVEKEjlg7QxwWX4T,Kenny Baker,Plays Bill Monroe,Jerusalem Ridge,25,214426,False,0.595,0.393,9,-15.391,0,0.0407,0.828,0.125,0.123,0.716,122.644,4,bluegrass
+3gKF6PkKGTz96d6blRCZGQ,Punch Brothers,Who's Feeling Young Now?,Clara,25,201386,False,0.691,0.495,2,-6.595,1,0.0293,0.839,1.59e-05,0.198,0.611,119.859,4,bluegrass
+2TRasvoEvVTjbrfLVzbJK2,Trampled by Turtles,Trouble,Rich/Poor,26,219120,False,0.473,0.552,5,-8.884,1,0.0289,0.198,0.0064,0.128,0.611,97.151,4,bluegrass
+0TrInX8tkndBWpWyPwfIux,Hot Rize,Hot Rize,Midnight On The Highway,25,164693,False,0.658,0.49,5,-12.642,1,0.0306,0.548,0.0104,0.328,0.854,125.223,4,bluegrass
+2brjqyVhm1MsenpS3rSj4i,Kenny Baker,Plays Bill Monroe,Big Sandy River,25,149226,False,0.562,0.668,9,-13.485,1,0.036,0.531,0.487,0.136,0.923,135.505,4,bluegrass
+6ALu14Zl8e3gr0CDHT9BNe,Greensky Bluegrass,Live at Bell's,Cassidy - Live,26,580333,False,0.42,0.693,9,-7.923,1,0.0502,0.255,0.142,0.117,0.516,153.185,4,bluegrass
+5QEPvxPCTYgUbnAaDfTrfe,Tony Rice Unit,Manzanita,Ginseng Sullivan,26,190933,False,0.648,0.475,4,-11.566,1,0.034,0.484,7.3e-06,0.0908,0.909,109.436,4,bluegrass
+0whM94j1RF0MGmq9QRwBoQ,The Travelin' McCourys,Passin' Thru,Passin' Thru,25,325181,False,0.508,0.77,0,-5.659,1,0.0289,0.202,0.00866,0.0672,0.853,128.186,4,bluegrass
+3MWMOK0bwr339UYEBp1p50,Dailey & Vincent,Dailey & Vincent,Cumberland River,25,197493,False,0.598,0.816,11,-6.347,1,0.034,0.594,0.00358,0.281,0.886,125.004,4,bluegrass
+2wtpyd1UwiqtGgVtGhF1jR,Tony Rice;Vassar Clements;Jerry Douglas;Todd Phillips;Sam Bush;Béla Fleck,Cold On The Shoulder,John Hardy,25,209132,False,0.456,0.476,7,-15.652,1,0.0306,0.357,0.00308,0.302,0.963,146.198,4,bluegrass
+1K3bwsiwboIcWYFu7dWRPm,Watchhouse,Haste Make / Hard Hearted Stranger,Darling Girl,28,260825,False,0.473,0.1,9,-15.673,1,0.032,0.854,0.00499,0.105,0.366,166.337,4,bluegrass
+2EqxQ03Qo0oNnD2VPkYiSp,Ralph Stanley,Ralph Stanley & The Clinch Mountain Boys 1971-1973,Gloryland,25,161386,False,0.335,0.0617,5,-14.874,1,0.0345,0.98,0.000433,0.139,0.238,168.675,5,bluegrass
+6GmhqGy1701ajXJY4ob5WF,The Wood Brothers,Ways Not To Lose,Spirit,29,258266,False,0.697,0.296,5,-11.669,0,0.0394,0.786,0.00076,0.142,0.564,100.86,4,bluegrass
+72HeZwtuPmqmj2bilZI4U5,Balsam Range,"Rivers, Rains and Runaway Trains","Rivers, Rains and Runaway Trains",25,179086,False,0.609,0.695,7,-7.615,1,0.0302,0.184,0.0001,0.273,0.517,115.102,4,bluegrass
+4Tq67NoURP09ccbdMXka25,Greensky Bluegrass,All for Money,Courage for the Road,26,542587,False,0.341,0.553,0,-12.112,1,0.028,0.341,0.595,0.107,0.637,151.743,4,bluegrass
+7b19zjqhh0BnQR55DrlYrT,Greensky Bluegrass,"Shouted, Written Down & Quoted",Fixin' to Ruin,26,172085,False,0.588,0.607,7,-7.377,1,0.0333,0.536,4e-05,0.302,0.88,124.143,4,bluegrass
+5obpHgODg8nOr5xxaMxKrg,The Wood Brothers,Kingdom in My Mind,Little Bit Broken,29,227613,False,0.565,0.53,9,-9.301,1,0.237,0.233,2.14e-05,0.0756,0.718,78.427,4,bluegrass
+7nybNVNyE6TdWMcrPsYnZw,Yarn,Yarn,Don't Break My Heart Again,26,214253,False,0.658,0.789,0,-7.53,1,0.0379,0.294,0.000155,0.228,0.565,107.047,4,bluegrass
+3aU2GIipAOndHI6Xmd1l1I,Tim O'Brien;Darrell Scott,Real Time,Walk Beside Me,25,253520,False,0.563,0.445,0,-9.962,1,0.0361,0.975,0.000119,0.178,0.85,102.965,4,bluegrass
+0DQ9q4oTx0W01x0Nqd8f9I,The Infamous Stringdusters,Toward the Fray,I'm Not Alone,25,307333,False,0.315,0.554,1,-9.072,0,0.0294,0.466,0.138,0.135,0.323,108.95,4,bluegrass
+3nDETVUcGHylmjSEFcbkm2,The Grascals,Life Finds A Way,Mystery Train,25,201040,False,0.656,0.738,9,-10.393,1,0.0342,0.719,0.00815,0.0799,0.598,120.966,4,bluegrass
+1lfABcpFAezEOgrU0Ifyps,Bad Livers,Delusions of Banjer,Pretty Daughter,25,156133,False,0.503,0.387,0,-11.937,1,0.034,0.855,0.000444,0.105,0.718,118.219,4,bluegrass
+0AdxoxyZkcVvVosf8pXNe3,Greensky Bluegrass,"Shouted, Written Down & Quoted",While Waiting,26,204899,False,0.497,0.456,4,-9.348,1,0.0266,0.771,0.000273,0.116,0.399,104.487,4,bluegrass
+2YgIMiPKeLMCoX5PfkANGq,The Travelin' McCourys,The Travelin' Mccourys,Southbound,25,183053,False,0.51,0.846,0,-6.866,1,0.0306,0.255,0.225,0.359,0.931,143.489,4,bluegrass
+4nhKtqoFbcUUjTgzSCLLI2,The Wailin' Jennys,Live at the Mauch Chunk Opera House,Deeper Well,28,319253,False,0.537,0.524,3,-12.504,0,0.167,0.55,0.000106,0.683,0.728,105.784,4,bluegrass
+2V3w0JAQYU39IgTlHGMAXZ,Nickel Creek,A Dotted Line,Christmas Eve,25,262786,False,0.565,0.284,4,-10.222,1,0.0278,0.775,3.47e-06,0.105,0.241,136.014,4,bluegrass
+5i8Oocnl4lBkTEIQFngQ6Y,The Devil Makes Three,A Little Bit Faster And A Little Bit Worse,Robot,27,235093,False,0.351,0.527,7,-7.804,1,0.0568,0.444,0.0,0.944,0.775,198.479,4,bluegrass
+1hoambC4hKUiVx4lM7VSIp,The Infamous Stringdusters,Toward the Fray,Hard Line,25,220706,False,0.544,0.751,2,-6.101,0,0.0308,0.315,0.000708,0.307,0.732,114.705,4,bluegrass
+5d3hIAvJv651aEcPcgP2b4,The Devil Makes Three,A Little Bit Faster And A Little Bit Worse,Jug Band,27,211440,False,0.684,0.669,0,-8.111,1,0.0478,0.682,0.0,0.959,0.834,124.371,4,bluegrass
+0reDyH4cGnij6jiKVx8K1O,Old Crow Medicine Show;David Rawlings,World Café (Live),Wagon Wheel - Live,26,244240,False,0.517,0.334,9,-13.12,1,0.0337,0.591,0.0,0.115,0.376,142.698,4,bluegrass
+50Wwz1iZEhlWT6xddFS8qS,Trampled by Turtles,Palomino,It's a War,28,150693,False,0.284,0.909,7,-4.699,0,0.0433,0.245,0.00926,0.162,0.591,178.323,4,bluegrass
+7u2cywB7avubxU9pEgo0uA,Old Crow Medicine Show,Carry Me Back,We Don't Grow Tobacco,27,234520,False,0.696,0.623,5,-5.883,0,0.0352,0.649,0.0,0.0916,0.947,132.03,4,bluegrass
+2OlPUfcZze6pH99CzKbCLh,The Brothers Comatose,"Ink, Dust & Luck",Don't Make Me Get Up and Go,28,190789,False,0.493,0.443,4,-9.298,1,0.0268,0.402,0.00051,0.0779,0.728,142.099,4,bluegrass
+1QJPE61wARrvuVKot1HH3T,The Wailin' Jennys,Live at the Mauch Chunk Opera House,One More Dollar,28,318413,False,0.484,0.258,9,-12.432,1,0.0317,0.708,6.45e-06,0.699,0.167,129.72,3,bluegrass
+4kbaX6s8avSd68PUcHxlT0,Old Crow Medicine Show,O.C.M.S.,Hard To Tell,27,195400,False,0.567,0.674,7,-9.445,1,0.0511,0.627,8.16e-05,0.175,0.829,142.4,4,bluegrass
+3YGNrLyeYb2kO69RCtBJa2,Béla Fleck,"The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",Blue Mountain Hop,25,266133,False,0.294,0.675,0,-11.973,0,0.0342,0.873,0.925,0.0803,0.96,144.426,4,bluegrass
+5F3d99d2ic4egeBwTWd0XQ,Greensky Bluegrass,All Access: Volume Two,Old Barns,26,332920,False,0.435,0.749,9,-7.075,1,0.0349,0.525,0.0568,0.223,0.567,109.084,4,bluegrass
+2MnPiFRuGco6J4EIQa9RDu,The Wood Brothers,Loaded,Pray Enough,28,212026,False,0.502,0.454,9,-6.811,1,0.0303,0.45,4.08e-05,0.142,0.464,141.861,4,bluegrass
+0Gjxnhx4jv2izpa9XZha71,Fruition,Just One of Them Nights,Portland Bound,28,183066,False,0.629,0.807,0,-7.234,1,0.0429,0.383,0.0,0.0748,0.765,110.962,4,bluegrass
+3CCMwUTxhhiX0Jwh6UOtKt,Lonesome River Band,The Road With No End,Won't Be Over You,25,186533,False,0.68,0.475,7,-9.656,1,0.0285,0.844,4.82e-06,0.19,0.889,106.991,4,bluegrass
+1QUITw8wSkxyWvx8vZfNYR,Yonder Mountain String Band,"Mountain Tracks, Vol. 2",Good Hearted Woman,26,243880,False,0.447,0.67,9,-9.552,1,0.0421,0.66,0.000407,0.862,0.816,141.999,4,bluegrass
+5Z8KoLIQHnzZ2VNjyd3qp7,Trampled by Turtles,Songs from a Ghost Town,When I Come Back Again,27,223173,False,0.606,0.572,7,-5.257,1,0.0273,0.154,0.000639,0.108,0.423,91.986,4,bluegrass
+6laLzRAweI0HEOYDMO4Kds,Alison Krauss & Union Station,Live,"Tiny Broken Heart - Live From The Louisville Palace, Kentucky / 2002",25,188400,False,0.466,0.815,9,-8.479,1,0.0355,0.159,0.000236,0.864,0.866,112.448,4,bluegrass
+2XgGdD5d2MW4RNx8KnIjVh,Old Crow Medicine Show,O.C.M.S.,Wagon Wheel,67,232133,False,0.621,0.403,9,-8.211,1,0.0359,0.581,0.0,0.114,0.634,145.523,4,bluegrass
+7qrx7wdYhAOotAX9Cux06s,Andy Thorn,Songs of the Sunrise Fox,Dawn is Coming,25,221840,False,0.54,0.435,10,-18.341,1,0.0443,0.966,0.775,0.0932,0.929,117.031,4,bluegrass
+6f249Hnx4ZO5Ioug2uS4r9,Sara Watkins,Under the Pepper Tree,Night Singing,50,131248,False,0.426,0.056,11,-18.751,0,0.0347,0.955,0.00612,0.11,0.0728,131.127,4,bluegrass
+6WZhUdMsbYpRuO7VzguKI1,Alison Krauss,I've Got That Old Feeling,Dark Skies,25,143333,False,0.66,0.529,0,-9.178,1,0.0289,0.543,0.0401,0.178,0.802,133.64,4,bluegrass
+6iBEL7tPotRegNitBqPuoz,Clarence White,33 Guitar Instrumentals,Billy in the Low Ground,25,97000,False,0.562,0.472,7,-12.46,1,0.0322,0.895,0.921,0.232,0.801,128.361,4,bluegrass
+0tRECF1NOE4LKkkhxuDO99,Nickel Creek,Why Should The Fire Die?,Can't Complain,24,334760,False,0.402,0.36,2,-11.643,1,0.0305,0.508,0.000821,0.0827,0.193,75.865,4,bluegrass
+33ThpWWqMDoEAjlIhZ7317,Tony Rice,Native American,Shadows,24,223600,False,0.553,0.24,1,-16.516,1,0.0327,0.797,0.000125,0.0865,0.519,108.986,4,bluegrass
+5DkNku3KxqXMqMtlzaxhDM,The Steel Wheels,Working on a Building / Red Rocking Chair,Red Rocking Chair,25,186000,False,0.719,0.358,2,-18.672,1,0.0354,0.213,0.0355,0.0576,0.805,108.984,4,bluegrass
+7AV2zvUohkqLe9Oi5UNn3I,Stringbean,Way Back In The Hills Of Old Kentucky,Rye Whiskey,25,159400,False,0.669,0.314,7,-13.569,1,0.0282,0.805,0.0,0.186,0.525,84.341,1,bluegrass
+5REbywIAdclkQcpxpp28RZ,Railroad Earth,Elko,Elko,25,539706,False,0.41,0.885,7,-5.275,1,0.0548,0.49,0.0485,0.914,0.779,190.72,4,bluegrass
+7pAYcsrVnTfPSwg4NTQzBB,Dan Tyminski,Wheels,Who Showed Who,24,202853,False,0.585,0.678,2,-7.2,1,0.0283,0.632,0.0017,0.0993,0.827,101.475,4,bluegrass
+2mzUlG9dHLcSj2FiNvpEud,The Avett Brothers,A Carolina Jubilee,Offering,27,222106,False,0.342,0.442,7,-7.312,1,0.0294,0.24,0.00412,0.107,0.195,88.496,4,bluegrass
+0RjqoAsp5jmUVliLaCWuvt,Yonder Mountain String Band,Into the Fire,Into the Fire,24,158779,False,0.614,0.53,7,-9.098,1,0.0265,0.507,3.21e-05,0.125,0.734,144.986,4,bluegrass
+73IEgQKzdaHtaHQFKiRTEP,The Avett Brothers,Closer Than Together,Locked Up,28,198066,False,0.682,0.813,9,-5.58,1,0.1,0.0606,0.0,0.0653,0.349,157.156,4,bluegrass
+2sxZLyHEvNGXcNbVpOUOXF,Michael Cleveland;The Travelin' McCourys,Tall Fiddler,High Lonesome Sound,24,216543,False,0.63,0.644,9,-7.34,1,0.0306,0.402,0.00379,0.263,0.697,107.392,4,bluegrass
+3CU1pPcJmLxLgtkpJOTfUv,The Devil Makes Three,Redemption & Ruin,Down In The Valley,26,191030,False,0.591,0.584,2,-9.662,1,0.0357,0.765,0.0118,0.228,0.813,118.372,4,bluegrass
+0tBH1LgOYu7yWx6yyJcyFL,Greensky Bluegrass,Stress Dreams,New & Improved,26,347071,False,0.529,0.539,7,-13.324,1,0.0331,0.355,0.29,0.348,0.558,124.156,4,bluegrass
+1WY61GDPcSH0ohBja4JSZG,The Infamous Stringdusters,I Didn't Know,I Didn't Know,24,240893,False,0.528,0.74,4,-7.577,0,0.0306,0.435,2.55e-06,0.119,0.732,150.668,4,bluegrass
+0WVqOexGrukgGBbPU4elME,J.D. Crowe & The New South,J.D. Crowe & the New South,Some Old Day,24,151493,False,0.585,0.302,7,-12.985,1,0.0343,0.845,2.78e-05,0.112,0.812,147.106,4,bluegrass
+26SwK8LEf98EQkf7s5rNLd,Greensky Bluegrass,Stress Dreams,Streetlight,25,381064,False,0.46,0.348,7,-15.116,1,0.0288,0.54,0.00118,0.0939,0.147,98.701,3,bluegrass
+1uZVKeN99NShfuXefr6XEA,The Wood Brothers,The Muse,Neon Tombstone,28,294933,False,0.546,0.437,10,-8.993,1,0.0326,0.289,0.000312,0.119,0.534,129.955,4,bluegrass
+5A0FvuZKZ53o5v2UNbTS2w,Trout Steak Revival,Brighter Every Day,Wind On the Mountain,25,204240,False,0.5,0.683,6,-7.289,0,0.0306,0.258,0.00233,0.212,0.66,144.494,4,bluegrass
+3TB7GyiTZ4g4egyawMexqA,Ralph Stanley,Clinch Mountain Gospel,Over In The Gloryland,24,125280,False,0.477,0.588,0,-9.153,1,0.032,0.647,0.0,0.291,0.652,148.006,4,bluegrass
+5W5EwJI8ejwSDZ2w0gNESl,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,3rd Planet,25,265480,False,0.577,0.727,7,-8.244,1,0.0281,0.0558,0.0552,0.0719,0.765,149.272,4,bluegrass
+4NvmLNsY6kIb6m6ItvmnC6,Railroad Earth;OurVinyl,Railroad Earth | OurVinyl Sessions,Railroad Earth (OurVinyl Sessions),24,333586,False,0.542,0.339,5,-17.248,1,0.032,0.514,0.00485,0.344,0.456,88.017,4,bluegrass
+4M485IS0VLI6istxnJP0ys,Pickin' On Series;Brad Davis;Makenzie Rains,Pickin' On the Biggest Hits of the 1980s Vol. 2,I Wanna Dance with Somebody,24,251760,False,0.757,0.472,0,-6.962,1,0.0276,0.602,2.84e-05,0.211,0.707,129.953,4,bluegrass
+3spGkhIhKBYRZcC3crNiZz,Trampled by Turtles,Sigourney Fever,Pocahontas,26,270733,False,0.566,0.585,9,-8.005,1,0.0312,0.385,3.64e-05,0.121,0.52,122.85,4,bluegrass
+6wIIx1VBiE1J7FKxNPvtMa,Flatt & Scruggs,Columbia Records Country Music Foundation Heritage Edition,Foggy Mountain Special,24,120840,False,0.618,0.497,8,-10.434,1,0.062,0.203,0.922,0.0841,0.977,109.371,4,bluegrass
+5xZBKYutyF2cgke1SWjBFS,Billy Dean,Billy Dean the Hits,I Miss Billy The Kid,26,188880,False,0.561,0.772,2,-4.839,1,0.028,0.107,0.0,0.122,0.61,171.778,4,bluegrass
+48VmqhpWDMtEMjW6gODBku,Trampled by Turtles,Palomino,New Son/Burnt Iron,25,263773,False,0.381,0.855,2,-7.246,1,0.0423,0.634,0.935,0.116,0.576,102.535,4,bluegrass
+2VAqQZTzHxGReOUeSLVk7l,The Infamous Stringdusters,Let It Go,Summercamp,24,212626,False,0.563,0.613,4,-6.663,0,0.0307,0.195,0.00263,0.271,0.788,146.969,4,bluegrass
+1jZUoGMARmObDTOJ9pfW0J,The Wood Brothers,Kingdom in My Mind,Jitterbug Love,27,201706,False,0.659,0.721,0,-9.035,1,0.0523,0.531,0.000931,0.34,0.728,96.118,4,bluegrass
+4WMsEfJhEFHffirMQh3Mg6,Nickel Creek,Why Should The Fire Die?,Why Should The Fire Die?,24,170746,False,0.549,0.0464,2,-18.13,1,0.0333,0.954,0.0,0.133,0.211,104.422,3,bluegrass
+6BjjhdigHXTETnilZjJcwj,Greensky Bluegrass,Five Interstates,Can't Make Time,25,285493,False,0.626,0.597,2,-8.68,1,0.0269,0.317,0.000287,0.115,0.699,105.262,4,bluegrass
+4VQAuV4Sj6JGwdvpiRKeqg,Nickel Creek,This Side,Hanging By A Thread,24,246880,False,0.574,0.117,2,-15.58,1,0.0425,0.878,7.15e-05,0.106,0.196,132.649,4,bluegrass
+1J83h5B22lQg7zqiPtFVvR,Jerry Garcia Band;Jerry Garcia,"GarciaLive Volume Eight: November 23rd, 1991 Bradley Center",My Sisters and Brothers,26,242392,False,0.66,0.649,9,-11.285,1,0.0438,0.826,0.031,0.194,0.708,126.958,4,bluegrass
+2jhZ3cnnggRI0lj6L5obmj,Old Crow Medicine Show,Tennessee Pusher,Tennessee Pusher,26,330653,False,0.411,0.328,4,-9.602,0,0.0284,0.659,0.000446,0.353,0.529,129.441,4,bluegrass
+2ZRGOmcvP2YWnjs4XWLbbH,Blue Highway,Wondrous Love,Ahead Of The Storm,24,206093,False,0.669,0.198,9,-13.89,1,0.0305,0.852,0.0,0.108,0.377,109.523,3,bluegrass
+1accCvYMwzu2MzK7TH8puw,The Devil Makes Three,Do Wrong Right,Cheap Reward,26,190306,False,0.66,0.559,9,-8.0,1,0.0356,0.484,3.65e-05,0.102,0.887,105.774,3,bluegrass
+6ucDjMpL1RzH8bJ1mwoNpI,Foghorn Stringband,Rock Island Grange,Reuben's Train,25,214727,False,0.617,0.711,9,-4.941,1,0.0334,0.537,0.0004,0.146,0.721,142.79,4,bluegrass
+015ASDUjzFvQrKgVI23aki,The Infamous Stringdusters,Silver Sky,Night on the River,24,213226,False,0.492,0.681,7,-6.292,1,0.0269,0.46,0.00498,0.192,0.67,108.824,4,bluegrass
+6y9D6BuBfRQZDiLZuPg8ux,Charlie Parr,Stumpjumper,Remember Me If I Forget,28,223320,False,0.578,0.678,7,-8.398,1,0.0425,0.779,1.91e-05,0.177,0.627,130.392,4,bluegrass
+3IEt3EULj9lcQ6OSLNQggL,The Dillards,Back Porch Bluegrass,Old Man at the Mill,25,115333,False,0.534,0.609,0,-13.365,1,0.0299,0.616,2.95e-06,0.708,0.963,119.263,4,bluegrass
+57BuFDoc2hUHmSyoL8OynI,Gillian Welch,Time (The Revelator),My First Lover,29,227840,False,0.653,0.453,4,-10.12,1,0.0375,0.766,0.0003,0.0756,0.489,142.347,4,bluegrass
+3mYrqPHnWp7IK3ojEAFyKF,The Dillards,Back Porch Bluegrass,Doug's Tune,25,136266,False,0.397,0.933,3,-9.578,0,0.0503,0.275,0.969,0.0951,0.977,135.491,4,bluegrass
+1w4606WzxPXiliL2MxcPy8,Bill Monroe & His Blue Grass Boys,Anthology,Uncle Pen - Single Version,25,163866,False,0.587,0.437,9,-12.422,1,0.0452,0.555,0.00185,0.244,0.743,110.586,4,bluegrass
+0zAQiJE9KXyIz54dwcKE8Z,Yonder Mountain String Band,Dear Jerry: Celebrating The Music Of Jerry Garcia (Live),Shakedown Street - Live,25,508680,False,0.591,0.729,0,-12.144,1,0.0378,0.093,0.0534,0.987,0.568,108.157,4,bluegrass
+6laLzRAweI0HEOYDMO4Kds,Alison Krauss & Union Station,Live,"Tiny Broken Heart - Live From The Louisville Palace, Kentucky / 2002",25,188400,False,0.466,0.815,9,-8.479,1,0.0355,0.159,0.000236,0.864,0.866,112.448,4,bluegrass
+4U7IDLFJ6zTlNep0OvLzpQ,Carolina Chocolate Drops,Genuine Negro Jig,Your Baby Ain't Sweet Like Mine,27,180106,False,0.679,0.637,7,-6.89,1,0.323,0.643,0.0,0.0807,0.776,160.432,4,bluegrass
+3RTsCWzv0pfLiYfkR4EVFu,The Broken Circle Breakdown Bluegrass Band,The Broken Circle Breakdown (Original Motion Picture Soundtrack),Sister Rosetta Goes Before Us,25,195586,False,0.55,0.218,0,-13.53,1,0.0279,0.843,0.000332,0.103,0.239,137.876,4,bluegrass
+2eX598AcoEbR1KxPqVAKTP,Psychograss,Like Minds,Tree King Creek,23,251026,False,0.457,0.551,7,-14.491,1,0.0313,0.525,0.944,0.211,0.948,131.328,4,bluegrass
+1nvLN6ltsXPYwrXSVal6jt,J.D. Crowe,Blackjack,Black Jack,24,122520,False,0.401,0.846,5,-7.692,1,0.0409,0.0105,0.899,0.368,0.893,174.438,4,bluegrass
+6wvL4NJBQyyKZl2tL0gnlh,Larry Keel,Journey,Roanoke,25,84000,False,0.414,0.911,7,-6.51,1,0.0504,0.669,0.952,0.253,0.941,169.919,4,bluegrass
+3m5xZwLbbJa4SHRZiWOooV,Josh Williams,Modern Day Man,Another Town,23,148066,False,0.57,0.85,10,-7.361,1,0.0311,0.087,3.71e-05,0.248,0.91,132.379,3,bluegrass
+7fJcX4n3jrr2Nd2oB6VnUd,Greensky Bluegrass,All for Money,Collateral Damage,25,194267,False,0.338,0.374,5,-11.682,1,0.0316,0.722,0.00314,0.109,0.452,66.29,4,bluegrass
+18PRNYTB4Y282IbNnt8RI8,Uncle Earl,Raise A Ruckus,Julianne Johnson,24,153720,False,0.556,0.494,2,-9.875,1,0.0403,0.72,0.91,0.215,0.908,131.212,4,bluegrass
+4Y2vJXOi4Bd1ZkrPjY0S48,Dailey & Vincent,Johnny Cash: Forever Words Expanded,He Bore It All,24,195933,False,0.556,0.699,7,-6.753,1,0.0441,0.101,1.61e-05,0.143,0.661,127.832,4,bluegrass
+79uMD3tn1iesOHLf5cNBAP,Pickin' On Series,Pickin' on the 90s,Linger - Bluegrass Rendition of the Cranberries,24,274955,False,0.586,0.46,8,-8.224,1,0.0258,0.812,0.00962,0.23,0.491,96.049,4,bluegrass
+6gIltQLpqAjGaYClJQgoSQ,Alison Krauss & Union Station,New Favorite,Daylight,24,243400,False,0.516,0.466,2,-8.023,1,0.0288,0.524,1.01e-05,0.0936,0.455,125.18,4,bluegrass
+3wh7YxUoRm1wSpNNi4XYEe,Charlie Parr,Rooster,Wild Bill Jones,27,176920,False,0.653,0.352,7,-11.372,1,0.03,0.962,0.462,0.123,0.397,101.341,4,bluegrass
+5amPhCr6FRwUhfOHvDgCO8,The Del McCoury Band,Almost Proud,Running Wild,25,142573,False,0.544,0.743,7,-4.231,1,0.033,0.277,7.84e-05,0.234,0.759,140.766,4,bluegrass
+4wBdBoWX2Nq7dg19N6499N,Punch Brothers,Hell on Church Street,Last Thing on My Mind,24,265184,False,0.688,0.14,9,-22.156,0,0.0507,0.941,0.0208,0.325,0.448,120.337,4,bluegrass
+1D5IQXGW1gIIIxQHLymxMO,The Avett Brothers,"Live, Volume 2",November Blues,27,364560,False,0.444,0.331,11,-11.79,1,0.0355,0.69,2.2e-05,0.376,0.484,74.89,4,bluegrass
+0UohsSdHZ6UAsSNS1frKRB,The Wood Brothers,One Drop of Truth,Can't Look Away,27,269800,False,0.523,0.585,5,-5.607,1,0.0765,0.0664,0.00127,0.117,0.385,140.88,4,bluegrass
+68EdFW60AwheykmIyj6PLo,The Wailin' Jennys,Down at the Sea Hotel,Barefoot Floors,27,185906,False,0.635,0.221,9,-14.548,1,0.0294,0.911,0.000158,0.11,0.285,76.712,4,bluegrass
+7gHJHft8bEXKpxm1RJB5Op,Larry Sparks,John Deere Tractor,John Deere Tractor,23,268706,False,0.425,0.104,6,-17.586,1,0.0321,0.673,0.0017,0.0982,0.26,119.931,4,bluegrass
+17tICamipNQpCpCHN0jVsB,The Kentucky Colonels,Long Journey Home,Chicken Reel,25,126000,False,0.428,0.912,2,-8.481,1,0.0533,0.115,0.964,0.95,0.926,125.308,4,bluegrass
+6T3sv3t18ship4wjgtXKFs,Alison Krauss & Union Station,Every Time You Say Goodbye,Cluck Old Hen,24,154506,False,0.626,0.536,9,-12.903,1,0.0335,0.652,0.892,0.0727,0.963,125.139,4,bluegrass
+3kVyirIHDFdw7A6IZ3VX7b,Greensky Bluegrass,All Access: Volume One,Dry County >,24,343906,False,0.378,0.713,2,-8.111,1,0.0302,0.165,0.605,0.755,0.645,111.82,4,bluegrass
+1jEyZKOy0QYrJtAbWiLmb0,The Lil Smokies,Tornillo,Fortunes,26,247394,False,0.313,0.663,7,-4.664,1,0.0315,0.424,0.000256,0.313,0.458,156.339,4,bluegrass
+2dPWIhmf2ZEpibLjPtLBMb,Greensky Bluegrass,Stress Dreams,Screams,25,257514,False,0.588,0.534,9,-12.527,0,0.0271,0.458,0.0635,0.492,0.492,114.082,4,bluegrass
+6At3RVsfqCxKaaKQMGnuGM,Greensky Bluegrass;Holly Bowling,Courage for the Road: Winter 2020 (Live),Windshield 2/1: The Anthem - Live,24,434011,False,0.449,0.489,0,-12.104,1,0.0317,0.829,0.0711,0.696,0.236,89.937,4,bluegrass
+0XQBLDVLGdsXhFQb7jU3nM,The Avett Brothers,Mignonette,Please Pardon Yourself,27,248586,False,0.328,0.689,9,-6.565,1,0.031,0.305,0.0489,0.327,0.645,181.33,4,bluegrass
+6jqgfUKBB7g8MAzil44eCn,The Lil Smokies,Changing Shades,Might as Well,26,164995,False,0.575,0.526,9,-8.852,1,0.0336,0.533,0.00153,0.0841,0.911,118.668,4,bluegrass
+0Ybn1UqzLl4pfOZlsyR6Ew,Greensky Bluegrass,Stress Dreams,Give a Shit,24,296306,True,0.566,0.577,2,-11.437,1,0.0371,0.541,0.113,0.142,0.49,106.51,4,bluegrass
+2VctOSaEQpfGWcREzSyf3g,Steep Canyon Rangers,Arm in Arm,Sunny Days,23,304640,False,0.48,0.864,4,-5.277,1,0.0305,0.201,0.000497,0.214,0.57,148.843,4,bluegrass
+64Lnwi3DVWmRky06c9P7CC,Doc Watson;David Grisman,Doc & Dawg,All About You,25,218689,False,0.597,0.348,2,-10.524,1,0.0327,0.95,0.138,0.116,0.738,110.485,4,bluegrass
+1VjEPwSwv5sfnnXQYEmb8d,Lonesome River Band,Heyday,Heyday,23,188773,False,0.693,0.475,4,-7.977,1,0.0277,0.715,0.0,0.272,0.777,138.945,4,bluegrass
+6d34dFS44aY9imSn4buqYr,Nickel Creek,This Side,House Carpenter,23,330560,False,0.57,0.187,11,-14.113,1,0.0375,0.76,0.0,0.121,0.51,86.991,4,bluegrass
+2pszqheZOxlZs9cpJItBDL,Nickel Creek,This Side,Seven Wonders,23,250120,False,0.619,0.32,7,-12.581,1,0.0264,0.729,0.00265,0.105,0.233,108.839,4,bluegrass
+6lBolQr5n845NeIfmoHy84,Greensky Bluegrass,If Sorrows Swim,Worried About the Weather,24,271613,False,0.607,0.692,9,-6.601,1,0.0265,0.414,0.0322,0.259,0.677,129.08,4,bluegrass
+1PbMymOpXaxC6LVTCsCGW5,Sierra Hull,25 Trips,Middle Of The Woods,24,159026,False,0.691,0.426,7,-9.682,0,0.0677,0.827,0.000686,0.067,0.559,74.779,4,bluegrass
+1utD7AvgNfV5S5ssBHWO0U,Greensky Bluegrass,All for Money,Do It Alone,25,271214,False,0.435,0.523,2,-13.241,0,0.0353,0.636,0.174,0.087,0.375,87.839,4,bluegrass
+2NC2pajpVtCBIJRg4GBPjy,Split Lip Rayfield,Never Make It Home,Kiss of Death,25,256146,False,0.635,0.792,4,-6.872,0,0.0517,0.0901,6.15e-06,0.211,0.897,89.361,4,bluegrass
+37OmnzJSoVUC8iwhx1QimF,Trampled by Turtles,Palomino,Gasoline,25,180466,False,0.583,0.449,2,-7.05,1,0.0306,0.71,0.559,0.111,0.0694,116.896,3,bluegrass
+0Sd2oMVyAhGbIyKJPvrQgT,Nickel Creek,This Side,Beauty And The Mess,24,172400,False,0.649,0.384,9,-9.908,0,0.0316,0.66,0.0,0.108,0.531,112.69,4,bluegrass
+2KTg7wfUXeRNruUnwBOudN,Earl Scruggs,Dueling Banjos,Dueling Banjos,23,184653,False,0.473,0.329,7,-18.722,1,0.0511,0.632,0.772,0.0651,0.399,134.338,4,bluegrass
+7jO9q6VIAjnumeOCaXkPwn,The Devil Makes Three,Do Wrong Right,Working Man's Blues,25,224026,False,0.603,0.316,0,-10.803,0,0.0293,0.842,0.000672,0.0977,0.666,126.802,4,bluegrass
+7CHgiPKBF9DLYDpjJvrnVI,The Avett Brothers,Mignonette,Nothing Short of Thankful,27,206000,False,0.545,0.806,2,-6.212,1,0.0526,0.526,4.76e-06,0.125,0.596,118.95,4,bluegrass
+0rLLKtog5Bc0XoGRnYOZ19,Balsam Range,Richest Man,Richest Man,23,182326,False,0.617,0.715,11,-7.17,1,0.0375,0.087,0.000306,0.227,0.825,120.027,4,bluegrass
+1di7K4MT6glHnjMb7lIymx,Greensky Bluegrass,If Sorrows Swim,Kerosene,24,313773,False,0.295,0.738,2,-6.739,1,0.0319,0.303,0.781,0.131,0.625,171.665,4,bluegrass
+7kWysjLOai5rinqXAqkYRp,The Infamous Stringdusters,Let It Go,I'll Get Away,23,248920,False,0.598,0.664,6,-8.996,1,0.0342,0.629,0.000328,0.119,0.445,123.909,4,bluegrass
+5ufFQnetTXvmGKjUkaBr7j,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Gravity Rides Everything,24,285560,False,0.612,0.877,4,-7.799,1,0.0371,0.117,0.00293,0.131,0.791,122.079,4,bluegrass
+0Iq2KydFwhvkjH1rI4s1EX,Béla Fleck,"The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",Buffalo Nickel,23,278506,False,0.442,0.514,5,-12.635,1,0.0321,0.894,0.93,0.169,0.768,114.873,4,bluegrass
+0U8tEFE0v9LzdxdlzvjApe,Big Country Bluegrass,Let Them Know I'm From Virginia,Let 'Em Know I'm From Virginia,23,172693,False,0.614,0.801,0,-6.228,1,0.0311,0.483,1.01e-05,0.169,0.921,138.172,4,bluegrass
+6PprnktjmpGa84jSvxxr2o,Blue Highway,Marbletown,Nothing But A Whippoorwill,23,171906,False,0.617,0.605,5,-7.916,1,0.0299,0.494,0.02,0.0597,0.463,125.868,4,bluegrass
+3D69cFazTiLzq7eD5xqeFw,The Bluegrass Album Band,"The Bluegrass Album, Vol. 2",Your Love Is Like A Flower,24,180333,False,0.495,0.537,11,-11.941,1,0.0321,0.423,0.00335,0.3,0.944,128.607,4,bluegrass
+1r3ewFDqPoyufC74Bbe3aa,Kitchen Dwellers,Muir Maid,Broken Cage,26,301160,False,0.494,0.536,0,-8.885,1,0.0332,0.448,0.016,0.0998,0.856,120.996,4,bluegrass
+2HGfHpGGiXso96LMDuPTZD,Town Mountain,New Freedom Blues,One Drop in the Bottle,23,295093,False,0.539,0.61,4,-7.622,1,0.032,0.563,0.00185,0.0902,0.74,145.661,4,bluegrass
+10w2uQauwJjs85HDD8wtWM,Lester Flatt;Earl Scruggs;The Foggy Mountain Boys,Hard Travelin' (with The Foggy Mountain Boys),The Wreck of the Old 97 (with The Foggy Mountain Boys),23,150226,False,0.628,0.432,10,-14.13,1,0.0322,0.483,1.75e-05,0.081,0.861,127.57,4,bluegrass
+21i2hxJAkQCWlSWejTkN0T,Eric Johnson,Venus Isle,Manhattan,45,292600,False,0.602,0.355,6,-13.881,1,0.0255,0.619,0.036,0.205,0.281,99.271,4,bluegrass
+40U65JKirN98WRpnCTuvI6,Andy Thorn,Dunno,Dunno,24,284947,True,0.713,0.494,9,-12.139,1,0.0373,0.329,0.00563,0.0985,0.462,90.026,4,bluegrass
+0CmVnuoGMdWjCU4Y3AfsOG,NewTown,Old World,Naomi Wise,24,177000,False,0.486,0.508,11,-9.105,0,0.0311,0.763,0.000184,0.134,0.533,113.298,4,bluegrass
+6PxfjDUN5iHpkhXj54PggR,Foghorn Stringband,Pickathon Music Festival 2002,June Apple,23,238120,False,0.39,0.668,9,-8.397,1,0.0782,0.255,0.0118,0.514,0.894,139.986,4,bluegrass
+5HsRMjG0bq7LFPUYCoJyUI,Clarence White,Flatpick (Collector's Deluxe Edition),Reno Ride,24,65280,False,0.502,0.317,2,-15.961,1,0.0352,0.932,0.902,0.0999,0.925,111.601,4,bluegrass
+5vnT7jSH16iKSCnwClARbQ,The Lil Smokies,Movies,Movies,24,261674,False,0.327,0.48,0,-10.431,1,0.031,0.685,0.00123,0.174,0.504,159.222,4,bluegrass
+6dC4qXiKtWHOveOYIw3nZY,Andy Thorn,Songs of the Sunrise Fox,Whisker Twitchin',24,61600,False,0.527,0.454,0,-15.835,1,0.0767,0.985,0.797,0.198,0.68,122.685,4,bluegrass
+7qcrcJgbl5WCiLVpPNCPqd,Punch Brothers,Antifogmatic,Alex,23,299973,False,0.673,0.122,0,-16.406,1,0.0344,0.837,0.000108,0.115,0.35,84.289,4,bluegrass
+5bR9tYZZ1gMgF66KnEmMv4,Balsam Range,Moxie and Mettle,Highway Side,23,132000,False,0.669,0.593,11,-9.046,1,0.033,0.357,3.61e-06,0.204,0.796,111.647,4,bluegrass
+7D3d5Hzu9BV0z655mfH1Vj,Claire Lynch,Whatcha Gonna Do,My Florida Sunshine,22,182506,False,0.507,0.509,0,-7.865,1,0.0277,0.648,6.1e-05,0.289,0.839,173.309,3,bluegrass
+6Vx6Al5OHhRofE0PJ4Z4M8,Tony Rice Unit,Manzanita,Manzanita,24,287960,False,0.633,0.431,0,-13.602,1,0.034,0.424,0.405,0.1,0.683,118.756,4,bluegrass
+6qLOPQnJM96UtYaTjMFvip,Andrew Marlin,Witching Hour,Pellinore's Ride,23,232163,False,0.581,0.498,0,-11.586,1,0.0369,0.943,0.904,0.129,0.524,106.032,4,bluegrass
+7AxHkJlQJ7BLfcdSUC5oLA,Greensky Bluegrass,Stress Dreams,Cut a Tooth,24,329719,False,0.491,0.667,1,-10.957,0,0.0321,0.145,0.00346,0.292,0.5,155.8,4,bluegrass
+0EJYAcMpzJo9mZGQSA77SB,Darrell Scott,A Crooked Road,A Crooked Road,23,251586,False,0.459,0.242,0,-12.189,1,0.0354,0.898,0.0173,0.0957,0.523,108.175,4,bluegrass
+02PrEMdIG6Jlfx7Qdvjb6M,Dailey & Vincent,Dailey & Vincent,Sweet Carrie,24,137573,False,0.616,0.765,11,-5.932,1,0.0352,0.608,0.0135,0.168,0.796,91.967,3,bluegrass
+6sZvCd0Xy882DRQBEy1gBC,Tony Rice Unit,Unit Of Measure,Jerusalem Ridge,24,398960,False,0.496,0.682,9,-10.56,0,0.0328,0.803,0.829,0.149,0.952,128.135,4,bluegrass
+6DAkh1h1UNHVIudTt0JcNT,Adam Steffey,Here to Stay,Twister (Devil's Dance),23,189035,False,0.616,0.734,4,-5.485,1,0.0342,0.367,0.187,0.0909,0.966,105.126,4,bluegrass
+6DTLx50sFeFLMCrJOlyT2C,Alison Krauss & Union Station,Every Time You Say Goodbye,I Don't Know Why,24,165493,False,0.587,0.427,5,-11.995,1,0.0282,0.816,0.0153,0.091,0.839,139.561,4,bluegrass
+6KHJPfbBFbSTFYi5cbQ0rE,Greensky Bluegrass,Handguns,Cold Feet,24,281880,False,0.565,0.632,11,-7.209,1,0.0305,0.56,0.458,0.0842,0.658,118.658,4,bluegrass
+5VTLAJuMN3TLWxDlaSgNQ0,The Brothers Comatose,"Ink, Dust & Luck",Sugar Please,26,241990,False,0.522,0.272,7,-9.987,1,0.0265,0.709,0.0,0.246,0.286,111.787,3,bluegrass
+4wPeRB4QXyqjjYGkrsunTf,Josh Williams;Don Rigsby;Kristin Scott Benson}Ron Stewart;Missy Raines;Randy Kohrs,Lonesome Highway,Cold Virginia Rain,23,171560,False,0.639,0.76,5,-6.006,0,0.03,0.125,0.000142,0.254,0.837,109.859,4,bluegrass
+4MSgj7gZYsJ5744xlmajH5,Hot Buttered Rum,Live in the Northeast,Busted in Utah,23,394866,False,0.501,0.737,2,-7.662,1,0.0362,0.78,0.0328,0.871,0.753,137.94,4,bluegrass
+6F8Gt6lMzHK8YTk5SBihDj,Della Mae;Avril Smith;Alison Brown,The Butcher Shoppe EP,Sixteen Tons,23,255613,False,0.723,0.409,4,-9.429,0,0.0407,0.81,7.39e-06,0.1,0.587,113.613,4,bluegrass
+2hFzpC4hevoSwzxyYWRSz6,Doc Watson;Merle Watson,Doc & Merle Watson's Guitar Album,Talking To Casey,24,151066,False,0.607,0.61,4,-11.389,1,0.0297,0.275,0.921,0.0637,0.65,105.03,4,bluegrass
+6r5SFuEAArjAHQGHkqiBRn,Alison Krauss & Union Station,Two Highways,Lord Don't Forsake Me,24,247733,False,0.571,0.135,0,-18.046,0,0.0323,0.861,4.79e-05,0.186,0.588,131.633,4,bluegrass
+0ZVJFFgbdSV9Y9eah00Egj,Old Crow Medicine Show,Tennessee Pusher,Motel In Memphis,25,265693,False,0.401,0.521,4,-8.253,0,0.0327,0.0981,3.82e-06,0.167,0.548,155.573,4,bluegrass
+0MctYv1Oqh9VHhhz4nt8NB,Larry Sparks,Silver Reflections,Tennessee 1949,23,205906,False,0.717,0.402,11,-12.128,1,0.0394,0.72,0.000131,0.105,0.888,95.509,4,bluegrass
+36h4Vhscz2JRU5WtZ6RvOu,Michael Cleveland,"Let 'Er Go, Boys!","Dark As The Night, Blue As The Day",22,231493,False,0.63,0.363,9,-7.949,1,0.029,0.678,0.00081,0.104,0.63,108.655,4,bluegrass
+1nMlHxWuPc5P9Y5nGvenlj,The Avett Brothers,True Sadness,I Wish I Was,58,316440,False,0.491,0.299,11,-8.86,1,0.0317,0.806,0.0,0.188,0.265,109.329,4,bluegrass
+1R2ni98s7x2CUtYaj1LD4T,Chris Thile;Michael Daves,Sleep With One Eye Open,Sleep with One Eye Open,23,195920,False,0.625,0.646,9,-7.338,1,0.0368,0.743,0.000284,0.0692,0.924,98.327,4,bluegrass
+76APYeebY2V9ZbWTpAFHdn,Kitchen Dwellers,Wise River,Bottom Shelf,26,299840,False,0.568,0.756,7,-5.524,1,0.0323,0.436,5.61e-05,0.293,0.547,159.863,4,bluegrass
+399qLycR0H4b1fN0FZTLy5,Balsam Range,Papertown,Any Old Road (Will Take You There),23,206280,False,0.635,0.627,4,-8.103,1,0.0313,0.874,4.55e-05,0.311,0.619,119.529,4,bluegrass
+66Nh4TosJ1ANNfrhSZ6AEU,Punch Brothers,Antifogmatic,Next to the Trash,24,185053,False,0.603,0.373,5,-14.98,1,0.0349,0.756,6.8e-05,0.135,0.799,96.299,4,bluegrass
+7aHuzpCIVhLnIfHfIYmwdT,The Del McCoury Band,Celebrating 50 Years of Del McCoury,Dark Hollow,24,173813,False,0.47,0.474,4,-9.794,1,0.0344,0.681,0.000226,0.141,0.802,187.82,4,bluegrass
+35hjtIG2OBWIavMoThvalD,The Steeldrivers,Long Way Down,Long Way Down,23,224960,False,0.515,0.682,2,-7.587,1,0.0359,0.334,1.77e-06,0.157,0.443,90.765,4,bluegrass
+238T0ZNKZbpp28cnqbuRYz,Pickin' On Series,Pickin' on the 90s,Inside Out - Bluegrass Rendition of Eve 6,24,211025,False,0.612,0.467,4,-6.92,1,0.0449,0.736,4.24e-06,0.134,0.701,174.913,4,bluegrass
+0eSnv6EDeSDNWeJsKSnCHT,The Infamous Stringdusters,Rise Sun,Another Night,23,233439,False,0.481,0.83,6,-6.302,0,0.0339,0.115,0.000159,0.706,0.529,118.228,4,bluegrass
+6A0FaycsgcMilTKX6psuT2,Greensky Bluegrass,If Sorrows Swim,A Letter to Seymour,24,134573,False,0.41,0.63,11,-5.724,1,0.0503,0.454,0.0818,0.0835,0.744,177.334,4,bluegrass
+1V9ESQ1csECpJr0CW8xn4q,Fruition,Labor of Love,The Way That I Do,26,220480,False,0.628,0.837,10,-6.117,1,0.0586,0.0755,8.4e-06,0.128,0.713,111.065,4,bluegrass
+0cio0Kd5AI7FwdIFDEBRRN,The Devil Makes Three,Redemption & Ruin,There'll Be A Jubilee,25,175284,False,0.753,0.527,7,-9.455,1,0.0496,0.607,5.95e-05,0.15,0.862,111.685,4,bluegrass
+6b6iNiE1qiH1iZ6mYEOU5I,Flatt & Scruggs,Town and Country,Nashville Blues,23,116386,False,0.488,0.437,2,-15.779,1,0.032,0.105,0.974,0.141,0.918,129.856,4,bluegrass
+29xQu5E6JmRwmebUe8RnLN,Greensky Bluegrass,All Access: Volume One,When I Paint My Masterpiece,24,167013,False,0.466,0.776,7,-6.516,1,0.0304,0.208,0.0,0.954,0.876,123.662,4,bluegrass
+1RVyBJDqhCXiN28UaFVCDC,Ralph Stanley,Cry From The Cross,I Am The Man Thomas,23,116760,False,0.582,0.516,5,-11.352,1,0.0337,0.633,0.0364,0.322,0.648,133.161,4,bluegrass
+0ra0ebMvj8Q7ur0u7tPK6L,Blue Moon Rising,One Lonely Shadow,Blue Moon Rising,22,177240,False,0.61,0.693,4,-7.91,0,0.0337,0.632,4.58e-05,0.339,0.701,104.024,4,bluegrass
+22r3SZfQQtJ8BJBv3Pc4NG,Doc Watson,The Definitive,Tennessee Stud,25,218320,False,0.703,0.342,7,-11.986,1,0.0329,0.89,5.06e-05,0.158,0.584,96.61,4,bluegrass
+6EsYCJD4IF4TsDZcRvesK6,Nickel Creek,Reason's Why (The Very Best),You Don’t Have To Move That Mountain - Live From The Freight And Salvage/2000,23,231840,False,0.625,0.443,5,-11.177,1,0.123,0.665,8.51e-05,0.987,0.72,130.711,4,bluegrass
+0ISMqxzluCjRivuuG4hcu6,Town Mountain,New Freedom Blues,North of Cheyenne,23,268240,False,0.549,0.807,9,-7.443,1,0.0439,0.621,0.000173,0.129,0.868,139.451,4,bluegrass
+5YKMvFzVK6Uq6l8ulFEWYj,Horseshoes & Hand Grenades,The Ode,This Must Be The Place (Bonus Track) [Naive Melody],24,238872,False,0.692,0.372,7,-17.052,1,0.0777,0.386,0.0,0.46,0.962,127.734,4,bluegrass
+1QqJtKQJKSsKfYXNzafCtz,Kitchen Dwellers,Ghost in the Bottle,Colder Nights,26,294733,False,0.66,0.62,4,-9.467,0,0.0291,0.422,0.0842,0.297,0.828,122.747,4,bluegrass
+4IAhAraT4hE3UQLHRw8xdQ,Yonder Mountain String Band,Love. Ain't Love,Fall Outta Line,24,126266,False,0.625,0.446,11,-11.272,0,0.0276,0.719,0.918,0.112,0.656,103.92,4,bluegrass
+6gQEzbiJgaTxi4NiVdKjdW,Andy McKee,Art of Motion,Rylynn,41,313693,False,0.359,0.416,0,-10.315,1,0.043,0.925,0.896,0.0685,0.418,172.669,4,bluegrass
+1n12RNGAp4vxsjyn0yBwKq,Steve Ivey,30 Bluegrass Gospel Favorites,Just A Closer Walk,13,211106,False,0.584,0.644,9,-7.79,1,0.0325,0.409,0.363,0.208,0.517,117.26,4,bluegrass
+2MgfxFG6RBfW4ivhwFtYoi,I'm With Her;Sara Watkins;Sarah Jarosz;Aoife O'Donovan,Call My Name,Call My Name,50,192666,False,0.598,0.434,6,-11.369,1,0.0576,0.804,0.0256,0.111,0.433,156.037,4,bluegrass
+3P6OwCX7Ofiaaqtvujb6i5,Tennessee Ernie Ford,Vintage Collections,Sixteen Tons,56,158306,False,0.693,0.324,11,-15.085,1,0.205,0.796,0.0,0.246,0.382,144.14,4,bluegrass
+4sJt0j1HRSi0TqB1IzSIs4,Appalachian Express,I'll Meet You In The Morning,I'll Meet You In The Morning,41,121160,False,0.514,0.0587,1,-12.885,1,0.0501,0.863,0.0,0.0879,0.47,167.977,4,bluegrass
+3ohJejAvKVqepuynBfMYea,Punch Brothers,Antifogmatic,Missy,23,233586,False,0.546,0.14,2,-18.215,0,0.0401,0.813,5.8e-06,0.0773,0.133,114.317,4,bluegrass
+0fYfdmWOan21N3wQfxn2PC,Songs From The Road Band,Traveling Show,Silk and Lace,23,231040,False,0.495,0.479,7,-8.402,1,0.0273,0.852,0.000745,0.237,0.715,159.844,4,bluegrass
+7sYK5s7IRnrMquvioQZxhy,Andrew Marlin,Fable & Fire,The Jaybird,23,254267,False,0.519,0.569,2,-9.72,1,0.0289,0.858,0.861,0.079,0.836,160.627,4,bluegrass
+0cW6BVTAgmW32t8w1js6Nc,Andy Thorn,Songs of the Sunrise Fox,Red Sun Salutation,24,163600,False,0.356,0.312,5,-13.735,1,0.0547,0.915,0.799,0.13,0.671,127.506,4,bluegrass
+724mTUDtMwxfB2G023Kerf,Aoife O'Donovan;Taylor Ashton,Loretta,Loretta,59,148522,False,0.536,0.419,3,-9.122,1,0.0453,0.971,9.43e-05,0.151,0.571,97.322,4,bluegrass
+3Haa4El1l2XlEcPHGIvvbw,Taarka,Making Tracks Home,Old Waterford Town,23,184360,False,0.777,0.266,4,-12.572,1,0.033,0.911,2.01e-05,0.103,0.583,95.998,3,bluegrass
+19vl2RpPformAEGBrSHSb3,I'm With Her;Sara Watkins;Sarah Jarosz;Aoife O'Donovan,See You Around,Pangaea,25,197373,False,0.403,0.0968,6,-16.626,0,0.0406,0.961,4.46e-05,0.0922,0.184,140.848,4,bluegrass
+1xbU7iGd2rXLBgEYF4xlkf,The Kentucky Colonels,Long Journey Home,Listen To The Mockingbird,23,73000,False,0.44,0.686,2,-12.237,1,0.0588,0.752,0.0716,0.97,0.947,109.259,4,bluegrass
+3zE9Q8aIymiksP2MPHGXwH,Alison Brown,Twilight Motel,Shoot The Dog,22,205800,False,0.431,0.637,7,-9.148,0,0.0298,0.492,0.831,0.198,0.961,149.652,4,bluegrass
+7juX89alZ9amkn0vPVQrnT,The Isaacs,The Living Years,For Those Tears I Died,38,181760,False,0.422,0.117,11,-13.659,1,0.0315,0.901,0.0,0.0546,0.231,77.202,4,bluegrass
+0ymhUnNSuTEdKCRYEVpWOS,Crooked Still,Shaken By A Low Sound,Ain't No Grave,54,201506,False,0.533,0.552,5,-9.874,0,0.0352,0.399,0.481,0.103,0.847,180.048,4,bluegrass
+4mPg68kCDqm83BjIx3tf8i,The Po' Ramblin' Boys,Never Slow Down,Blues Are Close at Hand,24,159427,False,0.57,0.707,5,-7.919,0,0.0331,0.377,0.00345,0.209,0.93,145.056,4,bluegrass
+6zeIPnFq1B3H9XoNAGzEkz,The Kentucky Colonels,Long Journey Home,Long Journey Home,23,117957,False,0.476,0.624,9,-11.545,1,0.182,0.867,0.00139,0.872,0.678,76.699,4,bluegrass
+7KcNh1mK61KnOUWSwsYPWk,Appalachian Road Show,Barry Abernathy & Darrell Webb Present Appalachian Road Show,"Dance, Dance, Dance",24,158466,False,0.583,0.781,9,-5.575,1,0.036,0.0938,0.00126,0.315,0.849,123.453,4,bluegrass
+7cptHgjGLjt1skDmCLhCwW,Bryan Sutton,A Toast to St. Patrick! - Irish Drinking Songs,Whiskey Before Breakfast,22,175373,False,0.484,0.669,2,-10.413,1,0.0338,0.149,0.945,0.187,0.964,122.243,4,bluegrass
+36KsC1EYiD6qQJ6ShBLwPW,The Lil Smokies,Tornillo,Wheel on the Water,24,204211,False,0.456,0.578,6,-7.65,0,0.0451,0.443,0.000749,0.206,0.258,163.169,3,bluegrass
+4IOd2zjxd8Lh5iW554nkDf,The Osborne Brothers,Bluegrass Collection,Kentucky Waltz,23,160133,False,0.545,0.326,5,-10.228,1,0.0283,0.74,0.000147,0.278,0.364,95.282,3,bluegrass
+1caNRaYDGXxMpXMWgHSQps,The Po' Ramblin' Boys,Back to the Mountains,Drive Myself to Drinkin',23,157098,False,0.673,0.751,9,-6.138,1,0.0363,0.727,0.0,0.305,0.961,119.268,4,bluegrass
+5Vzq5NlVAseTtN60KnN4X3,Ralph Stanley,Shine On,Palms Of Victory,23,158173,False,0.421,0.474,9,-8.096,1,0.028,0.674,0.0,0.172,0.673,104.596,4,bluegrass
+5tpZ6Oh7D6qxdi5HlfWuKe,Doc Watson,Doc Watson,Intoxicated Rat,24,153000,False,0.555,0.118,5,-20.553,1,0.109,0.892,0.0,0.127,0.77,171.683,4,bluegrass
+1BEfl5hd7hNJs6KjtGvANs,Dan Tyminski;Molly Tuttle,Church Street Blues (feat. Molly Tuttle),Church Street Blues (feat. Molly Tuttle),23,184453,False,0.558,0.592,3,-8.642,1,0.0287,0.729,4.79e-06,0.142,0.842,109.373,4,bluegrass
+1dO3oNxM5xUSryRrUbe97F,Trampled by Turtles,Burlesque Desert Window,It's So Hard to Hold On,24,217960,False,0.576,0.663,2,-7.999,1,0.0267,0.409,0.000339,0.128,0.581,126.367,4,bluegrass
+4gRQ6p0okTwWXLEiMg35e3,Dan Tyminski;Jerry Douglas;Todd Phillips;Sam Bush;Josh Williams,One More Time Before You Go,"One More Time Before You Go (feat. Jerry Douglas, Todd Phillips, Sam Bush, Josh Williams",23,246200,False,0.627,0.655,1,-5.323,0,0.0307,0.488,2.04e-06,0.285,0.695,96.933,3,bluegrass
+5JeOC4Oz9uFYB03NRolCwo,Hot Rize,Hot Rize,Ninety Nine Years (And One Dark Day),23,188426,False,0.642,0.463,11,-13.129,1,0.0326,0.345,0.079,0.0744,0.918,110.499,4,bluegrass
+4cjBzFUy1MwoteHXgtHqhP,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,World at Large,24,219746,False,0.575,0.846,7,-7.464,1,0.0381,0.101,0.000408,0.272,0.829,152.454,4,bluegrass
+5b7vx5lmwVcoeeYXYYtYz9,Old Crow Medicine Show,Tennessee Pusher,Crazy Eyes,25,257613,False,0.628,0.447,2,-9.824,1,0.0266,0.485,5.65e-05,0.12,0.488,109.506,4,bluegrass
+4cJUW4FQNtm82pP9359kKS,Alison Krauss & Union Station,Lonely Runs Both Ways,Doesn't Have to Be This Way,23,213213,False,0.466,0.322,11,-9.829,1,0.0296,0.778,0.000586,0.0868,0.325,81.433,4,bluegrass
+66wkBfdMJE56vJInpBO84n,Flatt & Scruggs,The Essential Earl Scruggs,Cripple Creek,22,124866,False,0.425,0.887,9,-8.117,1,0.0358,0.27,0.973,0.207,0.966,134.796,4,bluegrass
+4Ad5oH11h4SZLsQXRubN6g,The Infamous Stringdusters,Silver Sky,Rockets,23,183686,False,0.526,0.576,4,-6.392,1,0.0286,0.233,5.58e-05,0.102,0.424,119.924,3,bluegrass
+0PUu1lpGVLcpRqBBWVY4Ut,Nickel Creek,Reason's Why (The Very Best),The Lighthouse’s Tale,23,300333,False,0.488,0.296,4,-12.165,0,0.0327,0.617,0.0,0.0632,0.299,115.749,4,bluegrass
+60BcumcP1JbXMgwiFEzJqc,The Avett Brothers,Mignonette,Pretty Girl from Cedar Lane,26,201306,False,0.426,0.858,7,-4.642,1,0.0388,0.654,0.00164,0.158,0.67,103.266,4,bluegrass
+5xe7XqSMdyKRDXPvD42B3T,Old & In The Way,Breakdown,Pig In A Pen,23,188973,False,0.474,0.536,2,-12.656,1,0.0406,0.628,0.0502,0.94,0.808,132.374,4,bluegrass
+7kdsm5O5SKdgwEyOOHK309,Old Crow Medicine Show,Big Iron World,Minglewood Blues,24,171013,False,0.576,0.828,7,-4.792,1,0.0361,0.564,0.0,0.145,0.972,148.359,4,bluegrass
+6PTkqzZQoOlUT1J2ZfyBJy,Greensky Bluegrass,Live at Bell's,Middle Mountain Towns - Live,24,231346,False,0.588,0.626,0,-8.181,1,0.0286,0.374,0.000218,0.601,0.76,104.333,4,bluegrass
+6B4ltiHFcVWHALJpO2pswJ,The Devil Makes Three,Do Wrong Right,Johnson Family,25,287506,False,0.505,0.525,11,-8.732,0,0.0369,0.623,1.09e-05,0.135,0.745,179.874,3,bluegrass
+2Z0B5J7wgAr0QJ1p2Kw3B4,Pickin' On Series,Pickin' on the 90s,Mmmbop - Bluegrass Rendition of Hanson,23,215841,False,0.748,0.542,0,-6.781,1,0.0292,0.738,3.25e-05,0.254,0.801,104.967,4,bluegrass
+4K4R1TAW4ct3w10EsHWMmA,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,King Tut,25,186173,False,0.608,0.907,9,-8.901,1,0.188,0.477,8.19e-06,0.938,0.503,134.049,4,bluegrass
+23XllLrWH3QweaZ88w6Bxa,Bill Monroe,Greatest Hits,Nine Pound Hammer Is Too Heavy,23,160133,False,0.589,0.386,11,-15.507,1,0.0397,0.195,0.186,0.75,0.939,116.821,4,bluegrass
+4xtg77OwdwtkvRVpkPoRpv,Town Mountain,Leave the Bottle,Up the Ladder,23,162186,False,0.605,0.629,10,-8.184,1,0.0372,0.615,0.000653,0.205,0.964,177.252,3,bluegrass
+4pwHiUfAp6hVpX3hcjdvQn,The Infamous Stringdusters,Rise Sun,If You're Gonna Love Someone,23,293803,False,0.525,0.745,7,-6.152,1,0.0281,0.129,0.0727,0.247,0.657,132.53,4,bluegrass
+46arFjQJkK7H09CAwKU4DS,Nickel Creek,Reason's Why (The Very Best),When In Rome,22,255586,False,0.377,0.614,7,-12.364,1,0.0433,0.073,0.0634,0.0962,0.558,173.76,4,bluegrass
+39XzVJh1B4VCeXbKYHWDAG,The Infamous Stringdusters,Let It Go,Let It Go,23,145240,False,0.716,0.375,5,-9.549,1,0.0407,0.834,0.0,0.154,0.477,101.596,4,bluegrass
+3eNEXcBxCTNPdqVNzPLL5I,Old Crow Medicine Show,Tennessee Pusher,Mary's Kitchen,24,163093,False,0.44,0.878,11,-4.216,0,0.0864,0.249,6.58e-05,0.117,0.492,202.037,3,bluegrass
+2m0rr93QHcIbLdnac5olfY,Alison Krauss & Union Station,Live,"Take Me For Longing - Live From The Louisville Palace, Kentucky / 2002",23,167453,False,0.543,0.713,7,-9.235,1,0.0389,0.22,0.0115,0.868,0.746,112.205,4,bluegrass
+4ztRdA4iEr6YVkN21sO0QZ,Carolina Chocolate Drops,Genuine Negro Jig,Trouble in Your Mind,24,175386,False,0.456,0.64,7,-5.645,1,0.0326,0.891,2.23e-05,0.126,0.898,140.597,4,bluegrass
+4H5mY5OeUGWaidigLLPeoE,Alison Krauss;John Waite,A Hundred Miles Or More: A Collection,Lay Down Beside Me,43,299120,False,0.345,0.251,5,-12.326,1,0.0277,0.623,0.000584,0.0847,0.268,74.761,3,bluegrass
+72eNhM7juifMCtY5pK5O0N,Foghorn Stringband,Rattlesnake Tidal Wave,Lost Indian,23,177946,False,0.556,0.641,7,-11.276,1,0.0384,0.458,0.944,0.155,0.785,133.171,4,bluegrass
+00mfpZJuEKEUOtzaLwyemV,Ronnie Bowman,Ronnie Bowman,Looking For A Reason,22,160240,False,0.599,0.681,9,-9.474,1,0.0359,0.577,0.0504,0.0847,0.863,121.144,4,bluegrass
+6IWumNs0oyQfa8mLd5rjcn,Stuart Duncan;Edgar Meyer;Chris Thile;Yo-Yo Ma,Not Our First Goat Rodeo,Voila!,23,191840,False,0.563,0.254,5,-14.142,1,0.0384,0.892,0.729,0.0841,0.635,104.936,3,bluegrass
+5aydqaKSzdsbib2g0ZFgAL,Bill Emerson,Gold Plated Banjo,Home Sweet Home,22,160720,False,0.461,0.634,2,-12.746,1,0.0329,0.737,0.97,0.307,0.962,127.129,4,bluegrass
+67XAUZv4o1ut9THNit8G3H,Doc Watson,Southbound,Call Of The Road,24,140800,False,0.582,0.375,9,-15.072,0,0.0288,0.89,0.00499,0.137,0.622,142.08,4,bluegrass
+74abRRXSB17sB4VbjR8uoC,Mipso,Dark Holler Pop,Tried Too Hard,25,176053,False,0.49,0.539,10,-9.069,1,0.0308,0.639,2.07e-06,0.21,0.788,171.979,4,bluegrass
+6c19BYdxx9Asmwsbwm25W4,Della Mae,This World Oft Can Be,Empire,23,172093,False,0.517,0.722,5,-4.83,1,0.0345,0.662,0.000576,0.0812,0.729,136.513,4,bluegrass
+7CV8OXKML5K3ZP3yt66mWk,Norman Blake;Tony Rice,Norman Blake & Tony Rice 2,Lost Indian,22,186773,False,0.438,0.45,2,-18.545,1,0.036,0.715,0.772,0.141,0.968,127.867,4,bluegrass
+3d6QEvs7qQG4JRDRK0uiAj,Alison Krauss & Union Station,New Favorite,I'm Gone,23,208026,False,0.515,0.205,7,-13.385,0,0.0297,0.883,2.65e-06,0.0883,0.314,95.596,4,bluegrass
+62HqUmvlVeS6G5qtr7upz2,Keller Williams,Loop,Kidney In a Cooler,23,359173,False,0.559,0.41,1,-14.27,1,0.123,0.733,0.000106,0.132,0.684,90.887,4,bluegrass
+79rT78CvpeL78fE2oDsSSL,Reno & Smiley,"Love, Oh Please Come Home","Love, Oh Please Come Home",23,151506,False,0.555,0.502,2,-9.414,1,0.0266,0.198,0.000399,0.0573,0.786,109.428,4,bluegrass
+7cZoZhlp2u1o7oaI4sLTIc,Sarah Jarosz,Undercurrent,Jacqueline,24,230493,False,0.475,0.0924,5,-10.283,1,0.0311,0.819,0.0,0.111,0.206,93.834,4,bluegrass
+2e504c6dhwERptQG8A5mu8,The Waybacks,Devolver,Compadres In The Old Sierra Madre,22,312653,False,0.719,0.455,4,-9.932,0,0.0741,0.676,8.88e-06,0.243,0.477,105.354,3,bluegrass
+0WcGi8He0sFX8oJpAp79rN,The Wood Brothers,Kingdom in My Mind,Don't Think About My Death,26,218333,False,0.583,0.742,9,-8.129,0,0.0396,0.266,0.00353,0.104,0.793,115.196,4,bluegrass
+2gypDY5B3onNZiTxdAuLzB,Jim & Jesse,Diesel On My Tail,Diesel On My Tail,23,145866,False,0.762,0.497,2,-12.825,1,0.0463,0.789,0.0,0.0577,0.968,118.647,4,bluegrass
+1lCRnA5DcJ0hDLfHqUD4Tm,Pickin' On Series;Iron Horse,Pickin' On Nirvana,Come as You Are,23,225440,False,0.61,0.569,4,-8.25,0,0.0254,0.133,0.0462,0.113,0.411,125.932,4,bluegrass
+5oWuyadWdQdBQWjPq6n9TV,The Osborne Brothers,Bluegrass Collection,Sunny Side Of The Mountain,22,144000,False,0.666,0.47,11,-10.496,1,0.0301,0.401,4.65e-05,0.256,0.93,109.734,4,bluegrass
+5kvae4W4IJboRyiHsBO3Xt,Kruger Brothers,Up 18 North,Dusty Trail,23,235866,False,0.519,0.565,2,-12.287,1,0.0299,0.64,0.976,0.111,0.496,91.988,4,bluegrass
+7zhzvOsGkawjS73IBV4kUF,Town Mountain,Steady Operator,Tarheel Boys,23,117546,False,0.413,0.663,4,-7.263,0,0.0424,0.175,0.000352,0.184,0.698,162.077,4,bluegrass
+4UmY9dgZGyd2WLktuIUdJb,Josh Williams;Don Rigsby;Kristin Scott Benson}Ron Stewart;Missy Raines;Randy Kohrs,Lonesome Highway,Mordecai,22,216893,False,0.673,0.671,10,-7.802,1,0.0297,0.286,1.62e-06,0.103,0.921,105.389,4,bluegrass
+2MgFMPG85DiVFXzO4zx3UD,Greensky Bluegrass,Handguns,Lose My Way,23,444533,False,0.585,0.573,0,-8.096,1,0.0256,0.773,0.409,0.102,0.53,109.374,4,bluegrass
+0j5gsEKsQ2UU6mTdJmtxsg,Flatt Lonesome,Flatt Lonesome,You'll Get No More Of Me,23,213426,False,0.696,0.669,6,-5.368,0,0.0272,0.622,0.0,0.0724,0.926,92.023,4,bluegrass
+3f9HJzevC4sMYGDwj7yQwd,Gillian Welch,Time (The Revelator),April the 14th Part 1,27,310626,False,0.685,0.0604,8,-15.801,1,0.036,0.882,1.98e-05,0.108,0.129,102.328,4,bluegrass
+60tfD2YgDiwyOloZbE5xtE,Greensky Bluegrass,If Sorrows Swim,Leap Year,23,347280,False,0.348,0.657,4,-6.666,1,0.0299,0.352,0.277,0.301,0.655,139.053,4,bluegrass
+3Oo2WDdDzzFvbQiF9ER1HU,Sideline,Breaks to the Edge,Return To Windy Mountain,23,210858,False,0.616,0.698,9,-7.659,1,0.0316,0.64,1.07e-05,0.35,0.61,115.05,4,bluegrass
+1fPR9NmjyesgssMvN9Vyja,Pickin' On Series,Pickin' on the 90s,Every Morning - Bluegrass Rendition of Sugar Ray,23,213153,False,0.797,0.522,4,-6.136,1,0.027,0.716,4.51e-06,0.18,0.873,109.981,4,bluegrass
+1BPs92wyDoD7oM1VDRQh9E,Punch Brothers,The Wireless,The Hops of Guldenberg,23,292866,False,0.592,0.488,7,-11.355,0,0.0352,0.708,0.885,0.0793,0.568,112.338,4,bluegrass
+0WyIhAFBnroUJ8Decba0j1,The Wood Brothers,Paradise,Singin' to Strangers,26,230986,False,0.422,0.772,7,-5.386,1,0.0307,0.000496,0.0,0.338,0.653,152.819,4,bluegrass
+1ecIvF4THpjBQtV2XOWS3Y,The Infamous Stringdusters,Toward the Fray,I Didn't Know,22,240893,False,0.528,0.74,4,-7.577,0,0.0306,0.435,2.55e-06,0.119,0.732,150.668,4,bluegrass
+4CKddvnUs8qmE2ymL7Q33L,Balsam Range,Five,From A Georgia Battlefield,22,297146,False,0.497,0.409,5,-7.755,1,0.029,0.852,0.0,0.077,0.386,78.825,4,bluegrass
+1M5tTMAsV7d4xq4EJK0Cbl,Greensky Bluegrass,Less Than Supper,Small Axe,23,343480,False,0.42,0.646,7,-7.615,1,0.032,0.105,0.0153,0.0609,0.877,142.209,3,bluegrass
+3lbJXoFLpQkQ9XipJ8cRME,Blue Moon Rising,One Lonely Shadow,Youngstown,22,224973,False,0.471,0.482,2,-9.671,1,0.0274,0.814,3.39e-05,0.136,0.482,147.971,4,bluegrass
+3Rkbvevg1OjerALUV8WM1j,Greensky Bluegrass,Courage for the Road: Fall 2019 (Live),Brokedown Palace 9/25: The Caverns - Live,23,344146,False,0.454,0.337,5,-15.906,1,0.0371,0.793,0.00148,0.922,0.249,123.612,4,bluegrass
+3SAxjaygRSzTN7mCjagVA8,Blue Moon Rising,Strange New World,Never Happy Till I'm Full Of Sorrow,22,193080,False,0.62,0.544,0,-7.923,1,0.0296,0.865,0.0143,0.12,0.845,147.964,4,bluegrass
+4IvArAR1pOf0mjmjptzj1o,Kitchen Dwellers,Wise River,Smokestack,25,229386,False,0.514,0.912,9,-3.878,1,0.034,0.364,7.59e-06,0.0955,0.734,153.387,4,bluegrass
+0zXurdHOhvroWl8TVZKsdJ,The Infamous Stringdusters,Silver Sky,The Place That I Call Home,22,232760,False,0.544,0.73,2,-6.181,1,0.0288,0.131,0.00674,0.0908,0.622,128.775,4,bluegrass
+2HZ5UOtlFWyIXPZvFdvls7,Lonesome River Band,Carrying The Tradition,Fireball Mail,22,134133,False,0.646,0.788,9,-7.836,1,0.0358,0.657,0.0023,0.331,0.869,121.65,4,bluegrass
+6AqzlVR9DAkLP80YgKlEZA,Hayseed Dixie,A Hot Piece of Grass,War Pigs,23,268013,False,0.664,0.614,2,-8.854,1,0.0349,0.744,0.0051,0.19,0.91,145.247,4,bluegrass
+5i802kO2W4tJ8G9ILd0TJG,Larry Sparks,Bound To Ride: The Best of Larry Sparks,Smoky Mountain Memories,22,210386,False,0.475,0.325,5,-11.327,1,0.032,0.869,0.0,0.0895,0.393,127.612,4,bluegrass
+14ypQg7lie3otWSkfhS38x,Trampled by Turtles,Palomino,Sounds Like a Movie,24,146560,False,0.503,0.851,7,-8.064,1,0.0328,0.593,0.969,0.163,0.788,95.664,4,bluegrass
+6lllsKsshDQK9dAl6pdqTj,Old & In The Way,Breakdown,'til The End Of The World Rolls 'round,23,134800,False,0.692,0.386,0,-15.345,1,0.0743,0.615,0.00635,0.916,0.823,121.937,4,bluegrass
+7rDbC2tcM7tlgK5IuXuT2c,Elephant Revival,Elephant Revival,Single Beds Are Made for One,25,302280,False,0.264,0.46,0,-8.686,1,0.0455,0.475,0.805,0.0682,0.141,183.389,3,bluegrass
+0fHYQLpSpw01Xvdts9ORos,The Infamous Stringdusters,Silver Sky,The Hitchhiker,22,303488,False,0.514,0.64,0,-8.265,1,0.0353,0.202,0.00217,0.31,0.609,143.926,4,bluegrass
+4SiS7LvF6n8WnW5ZeB4RfL,The Seldom Scene;Emmylou Harris;Tom Gray;John Starling,Long Time... Seldom Scene,"With Body and Soul (feat. Emmylou Harris, Tom Gray, John Starling)",22,201573,False,0.511,0.269,4,-12.96,1,0.0346,0.899,0.000183,0.0897,0.435,139.793,4,bluegrass
+6FMonOQySdWYdgNshk6zSs,The Wailin' Jennys,40 Days,Something to Hold Onto,25,222266,False,0.283,0.317,2,-13.02,1,0.0299,0.523,1.13e-06,0.11,0.302,178.097,3,bluegrass
+7LGQcgWEdqTHJXufDvmGIP,Alison Krauss & Union Station,Live,"Cluck Old Hen - Live From The Louisville Palace, Kentucky / 2002",23,167733,False,0.456,0.897,2,-7.522,1,0.0343,0.0355,0.695,0.721,0.93,125.985,4,bluegrass
+2xGkuANyhyQQZ4yRIFDSum,The Dillards,Back Porch Bluegrass,Somebody Touched Me,23,145400,False,0.404,0.653,11,-11.771,1,0.0373,0.392,0.0,0.333,0.745,154.161,4,bluegrass
+1qrp8PDu28yMFOItAOynx3,Alison Krauss & Union Station,Live,"But You Know I Love You - Live From The Louisville Palace, Kentucky / 2002",23,219826,False,0.463,0.428,2,-10.427,1,0.0419,0.608,0.0,0.969,0.491,129.548,4,bluegrass
+1e3ijfv11bgydFHoJpm64F,Flatt & Scruggs,Foggy Mountain Banjo,Lonesome Road Blues,22,121586,False,0.341,0.82,7,-7.034,1,0.0306,0.144,0.943,0.0982,0.967,149.756,4,bluegrass
+3R5ULvRdYFfaBfkIMkiZnq,Eric Johnson,Venus Isle,S.R.V.,43,183333,False,0.598,0.64,4,-12.32,1,0.0325,0.434,0.505,0.0892,0.626,130.542,4,bluegrass
+31OASoQ8HPlyFG5vw2jtQs,Jim Vancleve,No Apologies,Fall Creek Falls,23,264333,False,0.465,0.798,1,-4.294,0,0.0298,0.523,0.462,0.203,0.474,95.656,4,bluegrass
+0JEDSpqbQbXdPByUCUpRrb,Mile Twelve,City on a Hill,Jericho,23,258252,False,0.361,0.303,7,-11.433,1,0.0378,0.787,0.0,0.0945,0.43,172.573,3,bluegrass
+2Ayvf4LEGkXWSRk429AzuO,Mountain Heart,More Than I Am,More Than I Am,22,214623,False,0.675,0.431,7,-9.374,1,0.0408,0.722,0.00128,0.107,0.774,90.063,4,bluegrass
+4kGJK4EIueZp5zfOVXFK5v,Fireside Collective,Life Between the Lines,Movin' on Down That Line,23,195546,False,0.721,0.606,9,-5.344,1,0.0303,0.633,0.0,0.213,0.61,138.068,4,bluegrass
+6ZoPj6DeUFHUyL42c3HjDc,Adam Steffey,Here to Stay,Little Liza Jane,22,101584,False,0.399,0.881,9,-4.563,1,0.0396,0.447,0.9,0.177,0.958,170.332,4,bluegrass
+4Xcn3R3nvTbk4aXRDFZVZW,Tony Rice Unit,Manzanita,Little Sadie,22,166773,False,0.675,0.545,11,-11.839,0,0.0312,0.267,0.0561,0.154,0.866,114.842,4,bluegrass
+4L53zUtZUCrorqVbym0T50,Keller Williams with The Travelin' McCourys,Pick,American Car,23,279293,False,0.593,0.584,2,-6.916,1,0.0269,0.577,0.00228,0.203,0.665,96.017,4,bluegrass
+0xtSFqbkJ8BS9oRmsJ1aPD,Newfound Road,Same Old Place,Same Old Place,22,209373,False,0.547,0.51,5,-7.49,1,0.0276,0.769,9.01e-05,0.133,0.363,139.058,4,bluegrass
+7aa9ykTB7F7vuvo9osqkTo,The Lonely Heartstring Band,Smoke & Ashes,The Way It All Began,23,218000,False,0.474,0.343,2,-10.526,1,0.0281,0.891,0.000185,0.11,0.34,155.72,4,bluegrass
+3flMzIEQvIq9dmNd8LVYnK,The Avett Brothers,Four Thieves Gone - The Robbinsville Sessions,"Left on Laura, Left on Lisa",25,239866,False,0.421,0.494,7,-7.892,1,0.032,0.176,0.00013,0.103,0.491,158.831,3,bluegrass
+4ChGx5RKaoZjznmMyx43Lr,Watchhouse,Haste Make / Hard Hearted Stranger,Lines on the Floor,24,246786,False,0.375,0.381,0,-10.054,1,0.0311,0.904,0.0228,0.0912,0.28,65.43,4,bluegrass
+2gfYscb8H4AdO2agwzXVKr,Bobby Osborne;Alison Brown;Claire Lynch;Rob Ickes;Sierra Hull;Stuart Duncan;Trey Hensley,Original,I've Gotta Get A Message to You,23,278540,False,0.664,0.695,0,-9.387,1,0.0308,0.454,0.0403,0.37,0.887,120.985,4,bluegrass
+5sB3LT16iAYHnUSPKs9QgA,Trampled by Turtles,Wild Animals,Nobody Knows,23,178480,False,0.528,0.597,7,-6.084,1,0.0267,0.0576,0.0138,0.0867,0.691,85.776,4,bluegrass
+6tBUdC6qOWEVzYqjxom5sw,J.D. Crowe & The New South,J.D. Crowe & the New South,Sally Goodin,22,199493,False,0.465,0.75,9,-10.82,1,0.039,0.763,0.956,0.0897,0.918,128.488,4,bluegrass
+7Hiyi8omzbf2VXWOiVDM4H,Don Reno,Founding Father of the Bluegrass Banjo,Charlotte Breakdown,21,110306,False,0.481,0.739,7,-7.607,1,0.0315,0.197,0.924,0.298,0.968,160.178,4,bluegrass
+6SFOqrAv0E8gED9nm5fTXQ,Steep Canyon Rangers,Arm in Arm,One Drop of Rain,22,249666,False,0.361,0.646,9,-5.224,1,0.0284,0.747,0.00147,0.197,0.351,104.622,4,bluegrass
+1hns4pDYJZa6EGnL3Xy2NC,Balsam Range,Trains I Missed,Gonna Be Movin',22,175480,False,0.658,0.679,9,-6.574,1,0.0367,0.497,1.09e-06,0.111,0.77,95.013,5,bluegrass
+0uAAw9xYT67tUqw1QRjZ0A,The Rubber Knife Gang,Drivin' On,Drivin' On,23,218306,False,0.748,0.644,2,-7.539,0,0.029,0.767,0.000139,0.0947,0.967,122.88,4,bluegrass
+2PISNnUrK9tSS1nfH6Nge9,The Lonesome Trio,The Lonesome Trio,Asheville City Skyline,23,160453,False,0.337,0.431,0,-6.958,1,0.0306,0.701,0.0,0.125,0.528,179.846,4,bluegrass
+4k1pCUEXxxrfJ4AszufUXf,Ralph Stanley,Man Of Constant Sorrow,Rocky Island,22,111266,False,0.434,0.59,5,-12.291,1,0.0333,0.348,1.62e-06,0.223,0.402,136.312,4,bluegrass
+0YDfXHoOewG9x9fVPOJL7O,Steep Canyon Rangers,Arm in Arm,In the Next Life,22,248760,False,0.482,0.624,0,-7.243,1,0.0325,0.219,0.0,0.119,0.665,156.149,4,bluegrass
+56a308GS79aEo3Qvh3vmg2,Balsam Range,Moxie and Mettle,"Rivers, Rains and Runaway Trains",22,179000,False,0.612,0.657,7,-8.723,1,0.0311,0.291,4.61e-05,0.219,0.586,115.104,4,bluegrass
+51UU5EgCQOI6Lzwxrl3hLG,Alison Krauss & Union Station,Every Time You Say Goodbye,Lose Again,23,177466,False,0.627,0.411,10,-11.141,1,0.0307,0.898,0.045,0.115,0.794,108.778,4,bluegrass
+1OXGS2dKklOOfqug2ieyuH,Old & In The Way,The Complete Boarding House Shows,On and On,23,201106,False,0.491,0.373,7,-15.399,1,0.0333,0.753,0.522,0.819,0.851,116.874,4,bluegrass
+46EuI5GoRkV8kL56OSrUBl,Mountain Sprout,Long Time Comin',"Money,Pussy, And Drugs",22,266400,True,0.559,0.639,0,-8.186,1,0.0431,0.714,0.000115,0.283,0.736,99.468,4,bluegrass
+1DwOlh5XrK8NCKvGDaEPLA,The Stanley Brothers,Gloryland 2: Bluegrass Gospel Classics,Uncloudy Day,22,119186,False,0.605,0.285,6,-10.787,1,0.0265,0.669,0.0,0.137,0.49,97.537,4,bluegrass
+1BcZlXrsDLXnUUNxbDRBtJ,Uncle Earl,"Waterloo, Tennessee",Wish I Had My Time Again,23,152200,False,0.522,0.685,9,-6.041,1,0.032,0.84,0.912,0.22,0.966,140.201,4,bluegrass
+1DEA1tTNQdWPsoH0Zr2kdu,Pert Near Sandstone,Paradise Hop,Appalachian Girl,23,258093,False,0.496,0.475,7,-6.509,1,0.0323,0.801,6.86e-06,0.157,0.533,112.454,4,bluegrass
+0Gtez9XpmJFqUgOaWbmPgv,The Devil Makes Three,Do Wrong Right,Car Wreck,24,425506,False,0.353,0.403,4,-10.813,1,0.0385,0.401,0.308,0.236,0.326,140.744,4,bluegrass
+3JsxSGtJtokZJuD3rW3Wap,Split Lip Rayfield,Should Have Seen It Coming,A Little More Cocaine Please,24,137240,False,0.618,0.798,7,-6.201,1,0.0416,0.675,3.66e-05,0.0794,0.53,102.243,4,bluegrass
+2C8rvEdAFLuMF4khj5WSPX,Greensky Bluegrass,If Sorrows Swim,Wings for Wheels,23,235293,False,0.546,0.536,4,-7.036,1,0.0283,0.706,0.492,0.0947,0.437,81.381,4,bluegrass
+7oEFRIwANUFgL7XR9jAtzW,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,A Different City,23,199426,False,0.621,0.838,7,-8.305,0,0.0276,0.523,0.0258,0.153,0.895,133.109,4,bluegrass
+3ys2cAA9PKud8vdwwqf9aN,Kitchen Dwellers,Wise River,Their Names Are The Trees,25,227706,False,0.66,0.808,7,-4.606,1,0.0251,0.499,3.6e-05,0.117,0.591,110.007,4,bluegrass
+5RE2ifRcAE1qILd7tGWKpU,Jerry Garcia Band;Jerry Garcia,Cats Under the Stars (Expanded),Rain,24,353986,False,0.574,0.51,7,-8.394,1,0.0237,0.0931,0.00433,0.0659,0.507,106.338,4,bluegrass
+7caroe1v0ztVCsD0KLoxpW,Steep Canyon Rangers,Mr. Taylor's New Home,Carolina Home,22,109360,False,0.553,0.579,5,-8.31,1,0.0302,0.536,0.0384,0.31,0.911,151.285,4,bluegrass
+3xKkwHwX9SN7kblcoY2FCe,Greensky Bluegrass,Handguns,I'd Probably Kill You,23,276213,False,0.615,0.6,6,-7.581,0,0.0347,0.649,0.0772,0.284,0.448,95.203,4,bluegrass
+0w8Akuz8cCGSJmfhWKXXlO,Old Crow Medicine Show,Best Of,Heart up in the Sky,24,223946,False,0.473,0.588,2,-7.477,1,0.0531,0.661,0.0,0.114,0.948,182.906,4,bluegrass
+6Sgmt1jdLbD3DrEbcIdhBD,Trampled by Turtles,Blue Sky and the Devil,Burn for Free,23,209908,False,0.406,0.813,4,-10.632,0,0.0467,0.0687,0.186,0.175,0.816,130.457,4,bluegrass
+0kinrsx7DImDv4wgnMJJK2,Old Crow Medicine Show,Big Iron World,God's Got It,24,158840,False,0.65,0.433,7,-6.113,1,0.0397,0.553,0.0,0.263,0.786,130.038,4,bluegrass
+48KVzcjve2SnG6mvBFmBCd,New Grass Revival,Best Of New Grass Revival,In The Middle Of The Night,22,269266,False,0.478,0.442,7,-9.746,1,0.0507,0.672,0.000386,0.0904,0.657,174.341,4,bluegrass
+2qs4xRMqEY0U1AStkTeqFG,Jimmy Martin,Best Of The Best (Original Federal Recordings),Truck Drivin' Man - Original Federal Recordings,22,149186,False,0.609,0.518,7,-10.162,1,0.0327,0.155,4.22e-06,0.131,0.849,106.644,4,bluegrass
+7Fx1GPtql8GLxNpkfZ3U49,Yonder Mountain String Band,Town by Town,Idaho,23,147960,False,0.588,0.572,7,-7.853,1,0.0259,0.624,0.000661,0.0732,0.757,134.923,4,bluegrass
+2BYBbHFrMaBQlW1qjNfALI,Carolina Chocolate Drops,We Are the Music Makers!,Sourwood Mountain,24,202746,False,0.553,0.605,7,-8.354,1,0.0326,0.934,0.000159,0.273,0.773,132.717,4,bluegrass
+17s3sve2lU0WEoGbhHrqlD,Kruger Brothers,Best of the Kruger Brothers,Carolina in the Fall,22,212846,False,0.473,0.184,5,-19.944,1,0.0333,0.818,0.00175,0.126,0.636,91.256,4,bluegrass
+018TIqGwVaEzXN8JSwpG6q,Breaking Grass,Somewhere Beyond,100 Degrees in the Shade,22,183173,False,0.571,0.601,11,-6.26,0,0.0651,0.463,0.0,0.0865,0.65,161.845,4,bluegrass
+3jXYV0kWv1FbMYypvyjfSK,The Infamous Stringdusters,The L&G Tapes LIVE,"Somebody To Love - Charlotte, NC 4/6/16",22,399567,False,0.527,0.567,1,-10.415,0,0.0312,0.58,0.00165,0.687,0.436,137.846,4,bluegrass
+3vjBls56UI6EozLVMVMLhy,Grandpa Jones,An American Original,Old Rattler - Rerecorded,24,126600,False,0.669,0.715,9,-7.355,1,0.0303,0.791,0.0016,0.213,0.967,133.094,4,bluegrass
+4aEUs82PGJ80JirGsesQoU,Lonesome River Band,Happy Country Christmas,All I Want Is Mary for Christmas,0,153106,False,0.631,0.494,11,-9.618,1,0.0344,0.768,0.0,0.107,0.817,184.041,4,bluegrass
+3Asrs6jHTjKCYoVmQ30NHB,Alison Krauss & Union Station,Live,"Faraway Land - Live From The Louisville Palace, Kentucky / 2002",23,199240,False,0.471,0.623,7,-10.149,0,0.0414,0.666,1.19e-06,0.672,0.499,118.579,4,bluegrass
+4Eh0EzmssbxXKjPBKXd0EB,Crooked Still,Shaken By A Low Sound (Deluxe),Ecstasy (Instrumental Edit),43,221016,False,0.624,0.402,9,-14.837,0,0.0327,0.571,0.873,0.105,0.326,132.084,4,bluegrass
+5heios35bREoyatMHZC30h,Steve Ivey,30 Bluegrass Gospel Favorites,Lily Of The Valley,12,135146,False,0.645,0.577,2,-5.938,1,0.0261,0.63,3.82e-06,0.1,0.748,106.929,4,bluegrass
+1CmejGF5E5WMqruvHDXfGp,Easter Brothers,By Request: Their Greatest Hits,Thank You Lord For Your Blessings On Me,35,158960,False,0.616,0.253,5,-9.247,1,0.0248,0.764,0.0,0.309,0.528,98.337,3,bluegrass
+3d8oIEIdoU2ZWVmiGvdGCE,Tommy Emmanuel,Endless Road,Angelina,44,218973,False,0.591,0.145,9,-18.428,1,0.0343,0.928,0.523,0.108,0.265,127.261,4,bluegrass
+38I9scwb2Bc7y7233zyky6,Andy Thorn,Songs of the Sunrise Fox,Stork Bite,23,142040,False,0.48,0.248,0,-15.567,1,0.049,0.938,0.841,0.0623,0.646,127.487,4,bluegrass
+1ONAnqPDDWhrjvqS4Jpx4J,Hackensaw Boys,Love What You Do,We Are Many,22,154320,False,0.463,0.627,7,-8.174,1,0.034,0.575,5.1e-06,0.179,0.89,83.474,4,bluegrass
+1VyBROA62wdLZXrtOQnRS5,Dan Tyminski,The Planetarium Sessions,Huckleberry,21,244706,False,0.611,0.538,10,-7.484,1,0.0445,0.114,0.0,0.124,0.395,85.961,4,bluegrass
+7jnXdzK4JqndKXTUibUjXx,Mike Marshall;Edgar Meyer;Béla Fleck,Uncommon Ritual,Seesaw - Instrumental,22,180706,False,0.429,0.307,0,-18.703,1,0.0404,0.958,0.949,0.156,0.351,120.416,4,bluegrass
+5QAt9bHGHipTaZ74vRFeXx,John Hartford,Morning Bugle,All Fall Down,23,195426,False,0.577,0.585,4,-15.487,0,0.0346,0.699,0.0201,0.0774,0.945,114.329,4,bluegrass
+0j1lzFyh427bXhDHLeth6q,Missy Raines;Alison Brown;Becky Buller;Molly Tuttle;Sierra Hull,Royal Traveller,Swept Away,23,236614,False,0.626,0.487,7,-11.151,1,0.0296,0.723,0.0514,0.142,0.569,125.014,4,bluegrass
+2EEg0c2oQ1uwsCuXOEnCcN,Alison Krauss & Union Station,New Favorite,Stars,22,174000,False,0.495,0.226,6,-12.985,1,0.0342,0.718,0.0,0.0992,0.0845,113.953,4,bluegrass
+2cL5rWWXMZ2XJukRR9VcUc,Don Reno;Bill Harrell;The Tennessee Cut-Ups,20 Bluegrass Favorites,Dill Pickle Rag,21,98120,False,0.433,0.729,2,-12.524,1,0.0397,0.239,0.93,0.302,0.974,134.238,4,bluegrass
+3aJ0B35nFxBaA2PUn642z1,Bruce Molsky,Soon Be Time,Bury Me Not on the Lone Prairie,23,222986,False,0.441,0.16,5,-7.987,1,0.0352,0.946,0.0,0.278,0.605,115.814,4,bluegrass
+2crocAqilwfvWWHb7EITAD,Greensky Bluegrass,Stress Dreams,Reasons to Stay,23,349106,False,0.395,0.485,9,-13.665,1,0.0318,0.468,0.409,0.209,0.536,106.197,4,bluegrass
+1E85HehlpmnruYIENcrfAL,Greensky Bluegrass,Tuesday Letter,Tuesday Letter,23,228608,False,0.62,0.585,2,-9.549,1,0.0248,0.218,0.00978,0.108,0.831,104.859,4,bluegrass
+2kircLQKyuruq4b5YMxl0U,Trampled by Turtles,Life is Good on the Open Road,I'm Not There Anymore,23,207840,False,0.399,0.24,0,-10.507,1,0.0289,0.422,5.28e-05,0.0962,0.164,68.165,4,bluegrass
+6TDOeNy20BOWkBZjK33obX,Blue Highway,On The Roof Of The World,On The Roof Of The World,22,191701,False,0.608,0.795,11,-4.974,1,0.0299,0.191,0.0362,0.122,0.909,119.797,4,bluegrass
+0WAMYXHwAo76bQ147ArpDX,Punch Brothers,Who's Feeling Young Now?,Flippen (The Flip),22,265106,False,0.455,0.66,7,-7.92,1,0.0283,0.744,0.91,0.159,0.607,138.3,3,bluegrass
+60kUnplxhoov1AsOrQYxr3,The Wood Brothers,Paradise,Without Desire,25,228293,False,0.544,0.674,4,-6.935,0,0.0821,0.0138,0.000253,0.117,0.572,79.163,4,bluegrass
+7mbTpKeiHkrxWYQM9pmFWE,Della Mae,Family Reunion,Ride Away,22,188574,False,0.607,0.51,5,-8.063,0,0.038,0.381,3.29e-06,0.0678,0.611,132.976,4,bluegrass
+49YDEJCvzHkNb1uoYlDGij,IIIrd Tyme Out,IIIrd Tyme Out,Erase The Miles,22,292560,False,0.536,0.157,5,-18.52,1,0.0296,0.824,9.69e-05,0.108,0.193,96.635,4,bluegrass
+0b8jUiJFC5P47PNrRSRQyg,Doc & Merle Watson,Then and Now,Bonaparte's Retreat,23,122480,False,0.548,0.394,2,-11.666,1,0.0282,0.864,0.856,0.1,0.472,105.79,4,bluegrass
+5yOw5DYJryKcXV20pumWfO,Greensky Bluegrass,Handguns,Jaywalking,22,343146,False,0.525,0.555,11,-6.947,0,0.0289,0.745,0.0048,0.115,0.299,97.149,4,bluegrass
+5tsAOP03wpq2WehkxrAakt,Watchhouse,Haste Make / Hard Hearted Stranger,Ships Sail Away,24,216093,False,0.42,0.235,11,-10.617,0,0.0324,0.866,0.127,0.108,0.196,118.217,3,bluegrass
+5ekDyrauOrlMongwmTU6Hq,The Stanley Brothers,Sweeter Than The Flowers,Stone Walls And Steel Bars,22,129479,False,0.51,0.464,2,-11.346,1,0.0341,0.327,0.00335,0.112,0.65,178.259,3,bluegrass
+1UM9vEf0xVZSM8SxTxCDlF,The Avett Brothers,A Carolina Jubilee,The Traveling Song,25,207960,False,0.479,0.8,4,-7.477,1,0.0715,0.023,1.74e-05,0.341,0.716,115.98,4,bluegrass
+6DWUqItLvXGKTpdwyYUc1N,Town Mountain,Southern Crescent,Southern Crescent,22,211426,False,0.486,0.622,9,-6.516,1,0.0297,0.305,4.32e-05,0.293,0.55,166.941,4,bluegrass
+7rj0xtH5Mw7ywFt0thNJKu,Punch Brothers,Who's Feeling Young Now?,Patchwork Girlfriend,22,228040,False,0.65,0.506,9,-6.71,0,0.0392,0.691,5.45e-06,0.217,0.799,134.078,4,bluegrass
+1J9kxFHIxUTYxfdUoawiL5,The Bluegrass Album Band,"The Bluegrass Album, Vol. 4",Cheyenne,22,210400,False,0.422,0.396,2,-13.543,0,0.0374,0.435,0.586,0.0826,0.653,114.778,4,bluegrass
+4rdqVIkfzxY24OE5whDltT,Jerry Garcia Band;Jerry Garcia,"Let it Rock: The Jerry Garcia Collection, Volume 2",Let It Rock - Live,23,805026,False,0.641,0.619,2,-9.619,1,0.0326,0.581,0.66,0.119,0.593,114.152,4,bluegrass
+16vImrCWhWHYd7BhEKDJaa,The Infamous Stringdusters,Toward the Fray,Pearl of Carolina,21,233840,False,0.506,0.798,2,-6.466,1,0.0322,0.472,0.00593,0.198,0.602,114.798,4,bluegrass
+12KGNkFY9GSzhhVTV6Akk8,The Wood Brothers,The Muse,Who the Devil,25,248613,False,0.563,0.691,10,-7.895,1,0.0418,0.121,1.27e-05,0.124,0.306,110.515,4,bluegrass
+3hF7gCSBoshG3GHUUV8otI,Alison Krauss & Union Station,Paper Airplane,My Opening Farewell,22,249453,False,0.558,0.3,0,-11.317,1,0.027,0.804,0.0,0.101,0.244,80.457,4,bluegrass
+1ZfR22scC0K8SMTAlJAZkB,Pickin' On Series;Iron Horse,Pickin' on Modest Mouse,Dark Center of the Universe,22,231546,False,0.615,0.931,9,-7.613,1,0.0393,0.0414,0.000247,0.0973,0.787,119.462,4,bluegrass
+1Xr1nrC8zoIhFutUfrOu7x,The Wood Brothers,One Drop of Truth,Sparkling Wine,25,283773,False,0.672,0.639,7,-6.443,1,0.0511,0.108,0.0086,0.103,0.679,98.023,4,bluegrass
+09tSut5TyAFiAYSg38gjXE,Flatt & Scruggs,Foggy Mountain Gospel,I'm Working On a Road,22,169226,False,0.624,0.234,8,-13.32,1,0.031,0.907,3.48e-06,0.149,0.811,99.758,4,bluegrass
+3d7i3jKVPe6zd5Bb0CDE5T,Tim O'Brien;Darrell Scott,Real Time,With A Memory Like Mine,22,251586,False,0.481,0.547,7,-8.763,0,0.0321,0.664,1.37e-05,0.131,0.751,138.953,4,bluegrass
+4TBUBJ2aFEyGJKWoziCXbl,Alison Krauss & Union Station,Live,"Maybe - Live From The Louisville Palace, Kentucky / 2002",22,265813,False,0.417,0.334,6,-11.139,1,0.039,0.718,0.0,0.674,0.23,111.684,4,bluegrass
+4KTf2qVdfkOgUZ0Ojpix7x,Nickel Creek,Reason's Why (The Very Best),When You Come Back Down,21,232320,False,0.454,0.284,6,-14.067,1,0.0312,0.696,0.00054,0.103,0.422,168.169,4,bluegrass
+0WaeYt2vnggJ7i1eXOQ6lT,Keller Williams,Laugh,Kidney in a Cooler,23,362826,False,0.645,0.574,7,-12.268,1,0.0917,0.56,9.21e-05,0.124,0.748,103.921,4,bluegrass
+1BL9V4Mrt3MgT2g1dMDch5,Steep Canyon Rangers,Out in the Open,Farmers and Pharaohs,21,242736,False,0.562,0.532,7,-10.82,1,0.033,0.617,0.000395,0.133,0.66,93.402,4,bluegrass
+0kvy8rEXxfiVBAmBpRqJrU,Nickel Creek,Reason's Why (The Very Best),Somebody More Like You,21,178933,False,0.628,0.345,4,-12.036,1,0.0304,0.71,0.0578,0.114,0.331,140.985,4,bluegrass
+3uMJPC8lA7PZssStWweUDO,Yonder Mountain String Band,"Mountain Tracks, Vol. 2",Dawn's Early Light,22,665026,False,0.486,0.542,4,-10.669,0,0.0275,0.475,0.313,0.159,0.468,111.928,4,bluegrass
+1OcEMT0aPzg7LSnLbtS9Pq,Yonder Mountain String Band,"Mountain Tracks, Vol. 5",Must've Had Your Reasons,22,177600,False,0.525,0.766,2,-6.722,1,0.0332,0.437,0.000199,0.782,0.881,121.201,4,bluegrass
+2ByTDOrxS1NnPy299z1iJH,Alison Krauss & Union Station,Live,"Broadway - Live From The Louisville Palace, Kentucky / 2002",23,237466,False,0.43,0.404,3,-12.786,1,0.0337,0.442,0.0,0.706,0.424,116.222,4,bluegrass
+0cUU3eqwQED3yZp0R3p6DL,The Del McCoury Band,Del Mccoury Still Sings Bluegrass,Hot Wired,22,316066,False,0.609,0.793,0,-7.196,1,0.0301,0.153,0.0292,0.457,0.817,126.621,4,bluegrass
+1yA8lhzxv2p8UNygfiD8JJ,Alison Krauss & Union Station,Live,"A Tribute To Peador O'Donnell / Monkey Let The Hogs Out - Live From The Louisville Palace, Kentucky / 2002",22,298373,False,0.379,0.483,2,-16.129,1,0.0493,0.307,0.0557,0.988,0.498,76.271,5,bluegrass
+3h2JRCgyhaYnFXDayKFrbH,Alison Krauss & Union Station,Live,"We Hide & Seek - Live From The Louisville Palace, Kentucky / 2002",22,341053,False,0.362,0.761,7,-8.384,1,0.0362,0.356,0.113,0.683,0.398,135.318,4,bluegrass
+4iBwlcvyY62omdIVfZGWn7,Bill Monroe,Bill Monroe Bluegrass Legends,Nine Pound Hammer Is too Heavy,22,160170,False,0.574,0.743,11,-4.239,1,0.0376,0.173,0.201,0.705,0.953,116.856,4,bluegrass
+49XbBhlS6zT1adQoardkzy,Flatt & Scruggs,Foggy Mountain Banjo,Home Sweet Home,22,133480,False,0.469,0.764,0,-7.853,1,0.0345,0.251,0.928,0.322,0.973,120.608,4,bluegrass
+0FJbyybRjxOyalg9M9q6IJ,Tennessee Ernie Ford,Songs Of The Civil War,Union Dixie,53,142066,False,0.794,0.671,5,-6.896,1,0.0332,0.644,0.0,0.343,0.978,105.683,4,bluegrass
+3MhLbJxKCi2X4iwxTDqzXj,Newfound Road,Full Heart,He'll Make A Way,21,171893,False,0.638,0.643,9,-10.166,1,0.033,0.491,0.00227,0.135,0.874,117.729,5,bluegrass
+2mpfhujP9E4NDZaMHVkfVT,The Wailin' Jennys,iTunes Sessions,By Way of Sorrow,24,215493,False,0.5,0.444,2,-7.553,1,0.0263,0.653,0.0,0.124,0.385,141.025,4,bluegrass
+4KcgeB3zlr1VadVyyRUkGq,Mile Twelve,Bottom Dollar,Bottom Dollar,23,166000,False,0.543,0.468,7,-8.643,1,0.0294,0.51,0.0297,0.311,0.443,135.071,4,bluegrass
+2Jhb881RGxoSaVrEK71Jvk,The Osborne Brothers;Mac Wiseman,The Essential Osborne Brothers Collection,Midnight Flyer,22,120360,False,0.54,0.632,11,-6.553,1,0.0283,0.727,0.00575,0.105,0.888,137.564,4,bluegrass
+4y66w83Zov7ud3jyootbLl,Andy Thorn,Songs of the Sunrise Fox,The Morning Light,22,85026,False,0.525,0.285,10,-17.408,1,0.0647,0.993,0.74,0.118,0.95,119.309,3,bluegrass
+0RL85lThYJR9XA0fiVIly7,Wood Belly,Solid Ground,Wings,22,234706,False,0.606,0.691,2,-8.827,1,0.0291,0.319,0.0418,0.27,0.659,131.035,4,bluegrass
+0aJnMiBxToa9JhQrulqWJq,Mipso,Dark Holler Pop,Squirrels,24,162771,False,0.611,0.508,9,-10.434,1,0.0306,0.866,0.163,0.118,0.773,95.187,4,bluegrass
+3sQ4frj4EV20sLuDjPHscg,Newfound Road,Somewhere Between,I Need You Lord,21,215786,False,0.623,0.378,3,-10.72,1,0.0301,0.809,0.0,0.116,0.697,117.021,4,bluegrass
+1yhIVRIEEevkatEbRncqHy,Doc Watson,The Best Of Doc Watson 1964-1968,Windy And Warm,22,135000,False,0.419,0.163,9,-24.042,0,0.0467,0.738,0.849,0.1,0.921,173.46,4,bluegrass
+57omVLzQSrO5Z0cn7rQUVs,Stringbean,A Salute To Uncle Dave,Ida Red,22,76173,False,0.439,0.434,2,-12.906,1,0.0365,0.679,0.45,0.31,0.914,160.558,3,bluegrass
+7v3No0Ib7ZcvsNOBahkrFZ,Flatt Lonesome,Flatt Lonesome,I’d Miss You,22,198173,False,0.671,0.595,4,-6.055,1,0.028,0.709,0.000115,0.111,0.734,99.01,4,bluegrass
+20iJoABZXF3Ow0YeYVFcs9,Watchhouse,Haste Make / Hard Hearted Stranger,Birds of a Feather,24,193386,False,0.438,0.255,4,-12.576,1,0.028,0.893,0.00973,0.102,0.257,156.156,4,bluegrass
+606bezOL8mU0wE6c0EIJeH,Sarah Jarosz,Undercurrent,Back Of My Mind,23,218333,False,0.578,0.258,2,-9.133,1,0.0287,0.772,0.0134,0.126,0.186,115.879,3,bluegrass
+2OIpA70bwSLiTAEWY4aWwG,Trampled by Turtles,Trouble,Trouble,22,283706,False,0.407,0.31,2,-11.873,1,0.0315,0.636,0.0218,0.131,0.336,119.185,4,bluegrass
+0bHKo2P7aepaUOhzJtlxbv,The Way Down Wanderers,Path to Follow,Your Will Is a Wildflower,23,225826,False,0.67,0.592,6,-10.45,0,0.0305,0.606,4.3e-05,0.0952,0.379,96.077,4,bluegrass
+5SVL3LJmiAcuZ2QsRRX3BL,The Show Ponies,How It All Goes Down,Bravery Be Written,23,95500,False,0.372,0.136,9,-12.842,1,0.0306,0.899,0.0,0.119,0.614,97.979,4,bluegrass
+2plEXsSJlq9fI4R865c1t1,Reno & Smiley,The Talk Of The Town,Charlotte Breakdown,21,142280,False,0.447,0.843,2,-5.801,1,0.0362,0.177,0.833,0.377,0.861,160.613,4,bluegrass
+2CQD5u9VdkTy5EMj3UGlcE,The Avett Brothers,Mignonette,Signs,25,222626,False,0.376,0.68,7,-5.775,1,0.0292,0.543,0.00222,0.088,0.428,153.753,4,bluegrass
+1dF7E70XZl9udSIPMeUP15,Doc Watson;David Grisman,Doc & Dawg,Doc & Dawg,23,117604,False,0.579,0.419,2,-13.133,1,0.0476,0.909,0.806,0.102,0.973,115.946,4,bluegrass
+7694TGKbgXvMPukPsbvWpH,Keller & The Keels,Thief,Sex and Candy,23,137893,False,0.59,0.403,11,-11.246,0,0.0421,0.704,7.37e-05,0.111,0.574,99.612,4,bluegrass
+5VPeV3hGAvj0A5rvDVePua,Alison Krauss & Union Station,Paper Airplane,Sinking Stone,22,282586,False,0.514,0.347,11,-10.866,1,0.0296,0.815,0.0,0.277,0.386,159.562,4,bluegrass
+7moypX2eHrkxm4pKwhKShF,Trampled by Turtles,Trouble,Stranger,24,225986,False,0.463,0.794,5,-7.95,1,0.0363,0.00199,0.000677,0.214,0.813,126.298,4,bluegrass
+4mOZdpNKzSVO1LSZM3H5m7,Flatt Lonesome,Runaway Train,Mixed Up Mess of a Heart,22,166899,False,0.785,0.663,10,-7.179,1,0.0328,0.687,0.000498,0.137,0.937,106.062,4,bluegrass
+70TLsrSQDsezYY5xg2UA0i,Jimmy Martin,Songs of a Freeborn Man,Sunny Side Of The Mountain,22,160826,False,0.584,0.772,9,-8.033,1,0.0399,0.288,0.0169,0.414,0.873,121.891,4,bluegrass
+7N0GlJusajrDjWCyS3Rjb3,Alison Krauss & Union Station,So Long So Wrong,No Place To Hide,22,208240,False,0.607,0.748,6,-7.204,0,0.032,0.376,0.0201,0.0674,0.783,105.306,4,bluegrass
+1G9yxirDOzDjKOePBX0Szx,Sarah Jarosz,Undercurrent,Lost Dog,23,219440,False,0.678,0.168,4,-12.877,0,0.0316,0.853,0.0,0.0967,0.204,127.402,4,bluegrass
+5IjWQx3jZvQyRw0PNKDUCX,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,Northern Island,23,159840,False,0.444,0.77,9,-7.947,0,0.0317,0.368,0.536,0.158,0.973,150.138,4,bluegrass
+6WyNYIchqhRaBQz5ZTxmm1,Mipso,Old Time Reverie,Captain's Daughter,24,214411,False,0.634,0.29,5,-11.163,1,0.0318,0.878,0.0017,0.138,0.688,109.972,4,bluegrass
+1vLRvn2oKv4YJTXwIe50Ob,Doc Watson;David Grisman,Doc & Dawg,My Dear Old Southern Home,23,167846,False,0.549,0.299,4,-15.974,1,0.0328,0.959,0.0775,0.411,0.927,141.253,4,bluegrass
+3mX9099LxzxgMm2YrJsgxp,J.D. Crowe & The New South,J.D. Crowe & the New South,Ten Degrees,21,140000,False,0.733,0.391,0,-12.102,1,0.035,0.682,0.0,0.125,0.866,101.443,4,bluegrass
+52HVAt0ArGiVzOGYnc8nED,Railroad Earth,Amen Corner,Right In Tune,22,262706,False,0.601,0.805,5,-6.161,1,0.0342,0.304,0.00742,0.0682,0.734,120.328,4,bluegrass
+6tbbaTB7MtIfuZfAGpXg5G,Bad Livers,Delusions of Banjer,Shit Creek,21,262533,False,0.389,0.54,7,-9.671,1,0.031,0.484,9.07e-05,0.0713,0.559,87.789,4,bluegrass
+1MogIXSnqYtJc1sgQ0uXY6,Jimmy Martin,12 Memories From Jimmy Martin To Us,Run Pete Run,22,142080,False,0.623,0.42,2,-15.23,1,0.0719,0.224,1.14e-06,0.242,0.901,103.695,4,bluegrass
+5nRioLIqp6OTQvwIP3Xcrm,The Wood Brothers,One Drop of Truth,Strange as it Seems,25,268306,False,0.485,0.113,2,-13.116,1,0.0345,0.883,0.00763,0.108,0.0628,145.722,4,bluegrass
+6Tpz284Ig0po8ah5fHlEyK,Split Lip Rayfield,I'll Be Around,Rig or Cross,23,152080,False,0.613,0.882,7,-9.17,1,0.0286,0.228,0.0509,0.629,0.824,112.837,4,bluegrass
+2htLJ54OL65HB3nr9ne3fA,The Avett Brothers,Four Thieves Gone - The Robbinsville Sessions,Denouncing November Blue (Uneasy Writer),25,217106,False,0.494,0.728,7,-5.187,1,0.0556,0.0917,8.31e-05,0.33,0.92,108.15,4,bluegrass
+6H38gzFwP4OMiNJYrW33Zh,Doyle Lawson & Quicksilver,Help Is On The Way,Keep Your Eyes On Jesus,21,197826,False,0.477,0.567,9,-8.644,1,0.0503,0.826,1.93e-06,0.302,0.667,187.859,4,bluegrass
+0vxAkJOrHSnzVfRTp8muGP,Trampled by Turtles,Stars and Satellites,Sorry,23,167293,False,0.37,0.72,0,-6.303,1,0.038,0.609,0.532,0.112,0.716,160.09,4,bluegrass
+7uChwK0FIUOdpu8c2AFsOx,Steve Martin;Edie Brickell,Love Has Come For You,Sun's Gonna Shine,23,185346,False,0.355,0.368,0,-9.494,1,0.0312,0.785,0.0,0.11,0.501,89.53,4,bluegrass
+0I0Qa9JfsG3cn89uqU9OgB,The Seldom Scene,Old Train,Old Train,22,138226,False,0.526,0.445,4,-11.845,1,0.0362,0.815,4.04e-05,0.0999,0.828,121.073,4,bluegrass
+3GmgxjJpkSamedNinjO3rB,The Carter Family;Johnny Cash,Keep On The Sunny Side,Keep on the Sunny Side,25,147173,False,0.574,0.324,0,-11.06,1,0.0265,0.768,0.0,0.141,0.627,101.176,4,bluegrass
+3ROds78S0xSbmEzDgGqBjp,Old Crow Medicine Show,Tennessee Pusher,Next Go 'Round,23,218346,False,0.468,0.346,4,-8.16,1,0.0318,0.786,0.0,0.303,0.58,140.354,4,bluegrass
+3IP8Vd0laM4b4NHcEUhU2Z,Railroad Earth,Last of the Outlaws,Chasin' a Rainbow,22,246520,False,0.474,0.754,7,-5.684,1,0.0275,0.0738,0.00747,0.0949,0.632,148.091,4,bluegrass
+2ui1UuGttxVQgWVMqihkAP,Ralph Stanley,Gloryland - 30 Bluegrass Gospel Classics,Angel Band,21,113493,False,0.516,0.123,11,-14.693,1,0.0295,0.863,0.0,0.296,0.384,81.945,3,bluegrass
+7wEKsPwXQABXr8udz6m9uD,Nickel Creek,Why Should The Fire Die?,Best Of Luck,21,202520,False,0.631,0.766,3,-7.784,1,0.0294,0.242,0.000681,0.0877,0.681,129.287,4,bluegrass
+1D403LgpMsSbJ1GGx7MHLy,The Louvin Brothers,Satan Is Real,The Kneeling Drunkard's Plea,23,173093,False,0.564,0.0564,10,-16.949,1,0.0344,0.744,0.0,0.107,0.484,126.274,3,bluegrass
+0udLP23tFSnx6yTV7kyWMb,Flatt & Scruggs,Foggy Mountain Jamboree (Expanded Edition),Randy Lynn Rag,21,123960,False,0.386,0.752,8,-9.789,1,0.0311,0.664,0.947,0.361,0.988,160.468,4,bluegrass
+5ftRQshb4G0ph1a2CTD37S,Elephant Revival,Elephant Revival,Jet Lag Blues,24,182880,False,0.67,0.472,2,-12.537,1,0.0318,0.72,0.0116,0.119,0.691,95.111,1,bluegrass
+4BseVN8v4L0PDPIqh9bdL1,Ralph Stanley,Cry From The Cross,Take Your Shoes Off Moses,21,136066,False,0.603,0.531,10,-12.271,1,0.0295,0.532,0.00654,0.257,0.886,137.667,4,bluegrass
+7FqrsV0vBwNiQNQI6jfzni,The Devil Makes Three,The Devil Makes Three,Old Number Seven,60,200720,False,0.571,0.427,11,-7.574,1,0.0405,0.202,0.0,0.1,0.894,142.454,4,bluegrass
+1OwWdf12e02HeIQvUsLUdD,Hot Rize,So Long of a Journey,Blue Night (Live),21,148600,False,0.535,0.828,11,-10.707,1,0.0465,0.472,0.0333,0.94,0.841,131.51,4,bluegrass
+41bwKV2bvP1uYMRJ2nH5Nc,Mike Barnett;Bryan Sutton,Portraits in Fiddles,Hangman's Reel,22,326266,False,0.456,0.764,9,-10.223,1,0.034,0.566,0.912,0.105,0.661,129.629,4,bluegrass
+4Ffh52csT3bI7hVoih1vo1,Sarah Jarosz,World On The Ground,Hometown,48,180240,False,0.584,0.273,9,-12.806,1,0.0357,0.853,0.000109,0.102,0.47,149.757,4,bluegrass
+5yT64ThZuLnIWp1Fd9Ctx6,Phoebe Hunt;The Gatherers,Shanti's Shadow,Just for Tonight,23,209124,False,0.477,0.283,0,-9.86,1,0.0354,0.734,0.000357,0.147,0.292,112.621,3,bluegrass
+4D4okAwkM29CFo9jcMuJ1U,Scott Nygaard,No Hurry,Fiddle Tune Medley: Big Sciota / Acorn Hill / Anna Livia,22,212733,False,0.438,0.584,7,-12.989,1,0.0323,0.786,0.962,0.116,0.827,133.091,4,bluegrass
+6kGH3fLI5jzIfiqA8vZlOI,Dailey & Vincent,Dailey & Vincent,I Believe,22,206893,False,0.564,0.28,10,-8.211,1,0.0328,0.78,0.0,0.0767,0.383,94.287,4,bluegrass
+10qNxZBdhfTFaaFUELBxUH,The Doc Watson Family,The Doc Watson Family,Southbound,22,160866,False,0.393,0.29,3,-16.886,1,0.0338,0.755,0.0489,0.103,0.454,137.921,4,bluegrass
+35os8doODm4nl1yjuxsNGH,Clarence White,33 Guitar Instrumentals,Cripple Creek,22,62466,False,0.483,0.499,2,-11.899,1,0.0355,0.861,0.84,0.36,0.934,132.315,4,bluegrass
+0HoGoSIoytPsC3tXhh7mdt,Ricky Skaggs,Super Hits,Crying My Heart Out Over You (excerpt),40,178266,False,0.595,0.407,7,-9.536,1,0.0272,0.49,2.67e-05,0.0959,0.702,127.507,4,bluegrass
+04hLjjWhpgE5ir5793nmOY,Sara Watkins,Under the Pepper Tree,Beautiful Dreamer,42,111371,False,0.438,0.0636,10,-18.175,1,0.0516,0.935,3.68e-06,0.151,0.209,87.197,3,bluegrass
+3Wi89XJzg7ZbQ8ro9IayBj,Mile Twelve,Onwards,Onwards,22,217066,False,0.551,0.619,11,-8.659,1,0.0329,0.49,0.000576,0.223,0.71,153.033,3,bluegrass
+5ZVpSpHUxEdthsO5UiVQYW,Keller & The Keels,Thief,Mountains of the Moon,22,237280,False,0.43,0.318,2,-13.517,1,0.0379,0.845,0.0199,0.128,0.432,164.697,4,bluegrass
+1Uv7heWWlrbpcyPhIVN3Pr,Mipso,Old Time Reverie,Honeybee,23,201716,False,0.571,0.316,7,-9.215,1,0.0274,0.641,3.54e-06,0.153,0.512,92.115,4,bluegrass
+16KCAFsjJn79OA3sh9iedu,The Po' Ramblin' Boys,Blues Are Close at Hand,Blues Are Close at Hand,22,159427,False,0.57,0.707,5,-7.919,0,0.0331,0.377,0.00345,0.209,0.93,145.056,4,bluegrass
+4IGrvIqlKWXv5zmDN27gkJ,Hot Rize,Hot Rize's 40th Anniversary Bash,You Were On My Mind This Morning,21,177053,False,0.578,0.621,9,-10.348,1,0.0343,0.682,0.00136,0.92,0.75,120.575,4,bluegrass
+30NHcOXhqNm0GbeAA2o6wN,Chris Thile,How To Grow A Woman From The Ground,O Santo De Polvora,21,157800,False,0.547,0.527,7,-12.725,1,0.0388,0.896,0.863,0.302,0.926,116.678,4,bluegrass
+1KcVZj7EtoOcf6mL3Rv94S,The Po' Ramblin' Boys;Bronwyn Keith-Hynes;Jason Carter,East Bound and Down,East Bound and Down,21,177356,False,0.669,0.704,7,-7.681,1,0.03,0.537,0.165,0.363,0.85,124.987,4,bluegrass
+2ZDTK8AijLvCPttN360zk0,Kruger Brothers,Up 18 North,Shower,21,182706,False,0.404,0.205,7,-15.2,0,0.0373,0.914,0.931,0.108,0.149,95.92,4,bluegrass
+4QDxHwMEGfZnJDP2jdieym,Doc Watson,The Definitive,Georgie,22,167013,False,0.509,0.264,6,-10.884,0,0.0301,0.889,4.74e-06,0.251,0.771,89.194,4,bluegrass
+7o2E6zgNldxmwDRVbPDZUj,Lester Flatt;Earl Scruggs;Doc Watson,Strictly Instrumental (with Doc Watson),Nothing To It (with Doc Watson),20,167040,False,0.41,0.687,0,-11.598,1,0.0314,0.0787,0.956,0.367,0.967,132.559,4,bluegrass
+34QvYHrNM1GBTGAwtGAyQ2,Balsam Range,Mountain Voodoo,Rise and Shine,21,265994,False,0.536,0.298,10,-11.854,1,0.0307,0.763,6.32e-05,0.108,0.428,142.076,3,bluegrass
+6lnwXipSGClSxLTC1Klbl8,Elephant Revival,Break in the Clouds,Point of You,24,194893,False,0.371,0.354,9,-12.946,0,0.0319,0.645,0.704,0.108,0.0924,104.8,4,bluegrass
+1c9Usq7gt7aFO3XzXOCt9f,Mountain Sprout,One More For The Ditch,One More For the Ditch,21,186146,False,0.582,0.829,9,-4.008,1,0.0375,0.393,0.0,0.101,0.962,116.255,4,bluegrass
+5Oi9Kfwzw689QkKOsRHvEp,The Avett Brothers,A Carolina Jubilee,I Killed Sally's Lover,24,157120,False,0.61,0.792,7,-6.372,1,0.0305,0.183,6.49e-06,0.0801,0.961,140.149,4,bluegrass
+10NxGnsyqTf2MVXthGnKQf,I'm With Her,Johnny Cash: Forever Words Expanded,Chinky Pin Hill,23,205400,False,0.436,0.232,7,-11.736,1,0.0324,0.937,0.00475,0.096,0.278,145.978,4,bluegrass
+1fCSnotiP3cen8C6uyCKbd,Nickel Creek,This Side,Young,21,209546,False,0.776,0.429,0,-9.711,1,0.0355,0.446,0.0,0.055,0.558,103.526,4,bluegrass
+5i0dMagv5FeGzkPqF9gxZe,Alison Krauss & Union Station,Lonely Runs Both Ways,Pastures of Plenty,22,224880,False,0.626,0.396,2,-9.019,1,0.0292,0.576,9.02e-05,0.059,0.304,133.852,4,bluegrass
+0vkcAc9VH7m5QOJ3W3e85S,Jerry Garcia Band;Jerry Garcia,"GarciaLive Volume Ten: May 20th, 1990 Hilo Civic Auditorium",Run for the Roses - Live,22,339378,False,0.441,0.831,9,-5.934,1,0.05,0.414,0.103,0.603,0.87,159.551,4,bluegrass
+5HTU6n1Jg4xC5NUYVDVQWm,Steve Martin;Edie Brickell,So Familiar,My Baby,22,198386,False,0.737,0.269,0,-12.654,1,0.0309,0.91,7.69e-06,0.105,0.333,119.988,4,bluegrass
+3F4aWtvtuDxReBm6gck72F,The Wood Brothers,Ways Not To Lose,That's What Angels Can Do,24,191333,False,0.492,0.074,4,-17.741,1,0.0369,0.853,7.28e-06,0.124,0.244,81.408,4,bluegrass
+6MhlygzEn4fmsYLZUqdDVh,The Travelin' McCourys,The Travelin' Mccourys,I Live on a Battlefield,21,251626,False,0.56,0.638,7,-7.03,0,0.0279,0.561,0.00452,0.404,0.728,97.956,4,bluegrass
+1wLwhdXP53ZP3nwZK3K4j2,Doc Watson,The Best Of Doc Watson 1964-1968,Crawdad Hole,22,232133,False,0.534,0.386,2,-18.752,1,0.166,0.811,0.000729,0.696,0.837,117.575,4,bluegrass
+1uuuDoJo0tH9cUJQ1UPxwB,Béla Fleck;Sam Bush;Jerry Douglas;Stuart Duncan;Mark O'Connor;Tony Rice;Mark Schatz,Drive,The Legend,21,258693,False,0.468,0.563,2,-17.194,0,0.0332,0.107,0.918,0.131,0.738,134.831,4,bluegrass
+711WfDztCZpnmJg7Uvwod3,The Avett Brothers,True Sadness,No Hard Feelings,57,314680,False,0.485,0.319,5,-8.525,1,0.031,0.686,2.81e-05,0.117,0.195,142.119,3,bluegrass
+5omfFg46tLY8Xa2J2fyZNC,Alison Krauss & Union Station,So Long So Wrong,Pain Of A Troubled Life,22,173893,False,0.516,0.569,7,-7.297,1,0.0343,0.518,1.76e-05,0.26,0.5,190.145,4,bluegrass
+61BnsOYynPI2hn7QwQ1nMp,Yonder Mountain String Band,"Mountain Tracks, Vol. 2",At the End of the Day,21,278800,False,0.53,0.567,7,-8.666,1,0.046,0.668,3.46e-06,0.554,0.673,117.606,4,bluegrass
+73EFmhx2tU7sN9YvnegEj0,Trampled by Turtles,Stars and Satellites,Don't Look Down,22,199666,False,0.514,0.749,2,-6.915,1,0.0333,0.501,0.947,0.215,0.756,132.218,4,bluegrass
+3gzlLdNHL58oZRoim2KjyU,The Del McCoury Band,Moneyland,Farmer's Blues,21,200973,False,0.496,0.292,11,-12.111,1,0.0265,0.693,2.13e-05,0.293,0.307,84.843,3,bluegrass
+5vJBaFyp5R7Yv32ixePsZr,Yonder Mountain String Band,"Mountain Tracks, Vol. 1",Keep on Going,21,725253,False,0.555,0.541,2,-9.346,1,0.0677,0.588,0.00471,0.653,0.797,95.803,4,bluegrass
+7lwsIGpnNu6Qp4lv76FDAz,Yonder Mountain String Band,"Mountain Tracks, Vol. 6",No Rain,22,251693,False,0.433,0.47,9,-11.916,1,0.0289,0.0909,0.0106,0.675,0.65,78.639,4,bluegrass
+7iy5Uq0aAWuz5v0GFL5dBZ,Nickel Creek,Reason's Why (The Very Best),Smoothie Song,21,199653,False,0.523,0.517,7,-11.001,1,0.037,0.529,0.0622,0.0961,0.521,110.006,4,bluegrass
+3CVSW20aTcT84TMhsftWCF,Tennessee Ernie Ford,Capitol Collectors Series,Sixteen Tons,23,155840,False,0.693,0.3,1,-15.351,0,0.133,0.715,1.06e-05,0.167,0.317,144.303,4,bluegrass
+50J5Hmj1Th0qxqK8MUEgle,Breaking Grass,100 Degrees in the Shade,100 Degrees in the Shade,21,183307,False,0.565,0.6,11,-6.253,0,0.0648,0.467,0.0,0.0866,0.671,161.896,4,bluegrass
+62XqM3v5InpbvqXy0KwSBQ,Steep Canyon Rangers,Out in the Open,Can't Get Home,21,209514,False,0.572,0.74,10,-8.912,1,0.054,0.488,0.00144,0.158,0.764,163.157,4,bluegrass
+0uVLFiXalgRPbVLLmt8FBO,The Bluegrass Album Band,"The Bluegrass Album, Vol. 6: Bluegrass Instrumentals",Monroe's Hornpipe,21,180666,False,0.493,0.775,9,-9.283,1,0.0304,0.648,0.956,0.0811,0.955,139.217,4,bluegrass
+6BxKiIIsxnOOfhPDpdS4tb,Yonder Mountain String Band,"Mountain Tracks, Vol. 3","Steep Grade, Sharp Curves / Ramblin' Reprise",21,425306,False,0.449,0.631,0,-7.071,1,0.0363,0.443,1.48e-05,0.817,0.678,92.982,4,bluegrass
+4flyQ8YJcqW57BlABtjrOt,Tony Rice,Tony Rice Plays And Sings Bluegrass,I've Waited As Long As I Can,21,179666,False,0.556,0.578,7,-10.333,1,0.031,0.455,7.03e-06,0.308,0.906,127.336,4,bluegrass
+52BLAD9ywTCjpAFZHXJFLJ,The Louvin Brothers,Reelin' and Trippin' (Classy Road Trip Songs),Kentucky,0,159893,False,0.491,0.379,9,-8.686,1,0.0334,0.515,0.0,0.345,0.61,177.08,4,bluegrass
+7sqVeKB8wgYnztqWvKRYr3,Hayseed Dixie,Killer Grass,Bohemian Rhapsody,22,220880,False,0.524,0.494,2,-7.416,1,0.0435,0.677,0.000298,0.222,0.596,124.896,4,bluegrass
+3PUln07oXes6xzvFFBnPO1,Watchhouse,New Star,New Star,56,185728,False,0.683,0.488,2,-8.733,1,0.0266,0.605,0.0554,0.13,0.424,113.387,4,bluegrass
+2whwQ5AcH84MhNIXoAYKdi,Watchhouse,This Side of Jordan,Cavalry,58,196493,False,0.48,0.273,2,-11.045,1,0.0319,0.913,0.000135,0.0911,0.438,124.238,4,bluegrass
+78rNLdnl1uy7f4uAeHVEM4,Nashville Country Chorale,20 Country Gospel Hymns,Shall We Gather at the River,33,164453,False,0.532,0.349,2,-15.308,1,0.0298,0.642,0.0,0.326,0.865,203.149,4,bluegrass
+2OgHEQQm0BMaA7pNzv7utB,Mike Barnett;David Grisman,Portraits in Fiddles,Waiting on Vassar,22,318200,False,0.486,0.558,7,-10.271,1,0.0353,0.692,0.834,0.352,0.612,120.935,4,bluegrass
+4nv61Gl6NMvtk2z6GuhEM5,Larry Keel,Journey,Mountain Song,21,210013,False,0.625,0.325,9,-13.388,1,0.0345,0.785,0.00549,0.104,0.67,97.87,4,bluegrass
+3MPDNgZ4lXJB6RzR6tNlX0,Paul Williams;The Victory Trio,Just A Little Closer Home,Anywhere Is Home,21,182400,False,0.554,0.62,0,-4.541,1,0.0328,0.517,0.000123,0.311,0.654,138.116,4,bluegrass
+2g2H6W3eqTmw2TDhOweik7,Tony Rice Unit,Unit Of Measure,Shenandoah,21,280106,False,0.443,0.112,2,-18.418,1,0.0474,0.968,0.786,0.125,0.219,123.839,4,bluegrass
+45R2F2lLUgTPjReGCmwdNi,Kenny & Amanda Smith Band,Always Never Enough,A Thousand Miles Ago,21,180293,False,0.583,0.749,10,-6.92,1,0.0333,0.358,0.606,0.243,0.961,120.187,4,bluegrass
+2475jOxSgYpZbR84rRyeA8,The String Cheese Incident,Carnival '99,Black Clouds,22,796533,False,0.403,0.622,2,-11.38,1,0.0331,0.726,0.558,0.924,0.83,140.366,4,bluegrass
+0XHXUFuByntKCFNPKullIF,Dwight McCall,Never Say Never Again,West Virginia Ground,20,188866,False,0.673,0.669,10,-5.064,1,0.0296,0.54,0.00164,0.25,0.909,99.867,4,bluegrass
+67t8Bfc16UkFac4uCA8VgT,Mike Marshall;Edgar Meyer;Béla Fleck,Uncommon Ritual,Uncommon Ritual - Instrumental,21,362693,False,0.456,0.162,11,-17.799,1,0.0558,0.975,0.529,0.0907,0.215,162.366,3,bluegrass
+5KcG9T89SFMjIpVukKsbQc,Hot Rize,When I'm Free,Blue Is Fallin',21,245000,False,0.615,0.556,10,-7.206,1,0.0302,0.738,0.000534,0.0852,0.685,156.863,4,bluegrass
+2gBq4xHBHUPlzjHEBonDMT,The Wailin' Jennys,Live at the Mauch Chunk Opera House,Driving,23,287640,False,0.395,0.403,9,-12.939,1,0.042,0.823,5.18e-06,0.704,0.394,129.432,4,bluegrass
+4gBsfQ6nrc4Tad2UrXaj25,Norman Blake;Tony Rice,Norman Blake & Tony Rice 2,Salt Creek,21,190426,False,0.316,0.535,2,-17.184,1,0.0334,0.583,0.896,0.104,0.962,130.365,4,bluegrass
+6O1ubxiy19gQv3GR4Vnwa9,Steve Martin;Steep Canyon Rangers;Paul McCartney,Rare Bird Alert,Best Love,22,261640,False,0.655,0.486,9,-10.748,1,0.0258,0.785,0.000255,0.0854,0.802,104.997,4,bluegrass
+62CXV36AhtrcxQ8LkpPOol,Watkins Family Hour;Sara Watkins;Sean Watkins,Watkins Family Hour,Feeling Good Again,21,202333,False,0.527,0.452,5,-10.575,1,0.0318,0.206,9.86e-06,0.149,0.404,104.931,4,bluegrass
+02JteUGgrdisRZV9KdUTfj,Balsam Range,Aeonic,Let My Life Be A Light,20,194000,False,0.684,0.682,9,-8.287,1,0.0315,0.579,0.00013,0.306,0.934,119.998,4,bluegrass
+2DFHZKhi5foiTa2iB8RFcG,The Wailin' Jennys,Live at the Mauch Chunk Opera House,Summertime,24,164666,False,0.324,0.0655,10,-17.031,0,0.11,0.874,0.0,0.964,0.471,180.082,1,bluegrass
+5yyFw8oDQJ3YguzSZT0iPm,Wood & Wire,North of Despair,Kingpin,22,199226,False,0.69,0.632,4,-8.568,1,0.0301,0.613,7.18e-05,0.357,0.775,99.536,4,bluegrass
+2Y2GW2F4441SW8DcfoG1bZ,Bobby Hicks;Doyle Lawson;J.D. Crowe;Jerry Douglas;Todd Phillips;Tony Rice,"The Bluegrass Album, Vol. 3: California Connection",Down The Road,21,140266,False,0.629,0.529,11,-12.69,1,0.0412,0.554,0.53,0.122,0.972,115.97,4,bluegrass
+2zQru5X2fXa3oPjAt9vkSx,The Wood Brothers,The Muse,Sweet Maria,24,258493,False,0.447,0.25,6,-11.624,1,0.0324,0.734,0.000928,0.307,0.115,132.187,4,bluegrass
+3qTkkDFeSGRaAWdBGv93sj,Greensky Bluegrass,The Leap Year Sessions: Volume Three,Yellow Eyes,22,280297,False,0.37,0.495,9,-10.692,1,0.0311,0.458,0.0025,0.0962,0.458,169.224,4,bluegrass
+1r4ZAAoA9aP3uP2JYNTBxv,Jim and Jesse and the Virginia Boys,100 Greatest Bluegrass Hits,Diesel on My Tail,22,142400,False,0.646,0.427,2,-12.934,1,0.0478,0.702,0.0,0.245,0.903,124.182,4,bluegrass
+5EotiyD8MUFtMSwBHxkI8W,Greensky Bluegrass,The Leap Year Sessions: Volume One,Ain't No Bread in the Bread Box,22,557400,False,0.418,0.673,4,-8.649,1,0.032,0.247,0.261,0.169,0.339,138.591,4,bluegrass
+5Hvwje6H27tYcfi6jOFLkr,The Wood Brothers,Live at the Fillmore,Blue and Green - Live at the Fillmore,24,222937,False,0.389,0.473,0,-6.972,1,0.0325,0.419,0.0,0.815,0.201,70.59,4,bluegrass
+0zZW2PWSUK0DDtQBPt3rmA,Alison Krauss & Union Station,New Favorite,It All Comes Down To You,21,164893,False,0.62,0.434,5,-8.702,1,0.0303,0.484,0.0,0.0949,0.656,92.933,4,bluegrass
+4VNkUw1GFjo9chovxugXeP,Dan Tyminski;Gaven Largent,One More Time Before You Go,Why You Been Gone So Long (feat. Gaven Largent),21,207213,False,0.496,0.758,4,-4.539,1,0.055,0.662,0.0,0.218,0.73,171.078,4,bluegrass
+21TVktcCz3S0k2rLeRC7fa,Blue Moon Rising,Strange New World,Hard Luck Joe,20,183880,False,0.641,0.699,0,-8.488,1,0.0292,0.568,0.000371,0.0944,0.934,101.062,4,bluegrass
+5siceF4GS8ERwwonA7L3Qk,Keller & The Keels,Grass,Dupree's Diamond Blues,22,232546,False,0.459,0.522,2,-9.783,1,0.0351,0.345,0.51,0.107,0.706,135.65,4,bluegrass
+1LrxmgC6pg5RAYGJ2FQWv0,Mountain Sprout,One More For The Ditch,Tweeker,21,149586,False,0.547,0.879,9,-4.061,1,0.0314,0.0456,0.00287,0.193,0.962,132.426,4,bluegrass
+3048qixf56Db8RIIcPiCC9,The Devil Makes Three,Redemption & Ruin,What Would You Give (In Exchange For Your Soul),22,263086,False,0.488,0.31,7,-11.4,1,0.0292,0.478,4.52e-05,0.316,0.374,152.024,3,bluegrass
+3fN9iIYdhuGjSZ5j27OOMX,The Bluegrass Cardinals,The Essential Bluegrass Cardinals: The Definitive Collection,I Wonder Where You Are Tonight,20,161973,False,0.438,0.506,7,-8.728,1,0.0389,0.501,0.000406,0.231,0.867,116.993,4,bluegrass
+5SmfruLODThg15TGSxovqn,Elephant Revival,Break in the Clouds,Cosmic Pulse,24,195573,False,0.539,0.363,4,-14.125,0,0.0329,0.832,0.0633,0.108,0.145,79.049,4,bluegrass
+7uElzZpQ49DfvEnP86WA4k,Keller Williams;Bob Weir,dream,cadillac,22,272120,False,0.616,0.528,2,-11.762,1,0.0421,0.539,7.81e-06,0.188,0.488,115.574,4,bluegrass
+7giVnCZScUsYYseywZt92J,Doc Watson,Doc Watson,Talk About Suffering,22,169000,False,0.531,0.0134,9,-21.313,1,0.0537,0.978,0.0,0.114,0.31,63.963,4,bluegrass
+5PNY8il7PkMt1PzXJzTGuj,I'm With Her;Sara Watkins;Sarah Jarosz;Aoife O'Donovan,See You Around,Waitsfield,22,154160,False,0.363,0.155,0,-12.498,1,0.0362,0.876,0.00926,0.0802,0.471,200.071,4,bluegrass
+2yJIQvxZCrvjryJkSFjBpE,Town Mountain,Steady Operator,Diggin' On The Mountainside,21,228226,False,0.519,0.617,11,-9.221,1,0.036,0.505,0.00226,0.0657,0.538,112.465,4,bluegrass
+4q16qXuHb7z38cO7eR1NrJ,The Stanley Brothers,Sing the Songs of Bill Monroe (Original Gusto Recordings),Will The Circle Be Unbroken - Original Gusto Recordings,21,158266,False,0.53,0.343,5,-10.065,1,0.0263,0.704,0.0,0.156,0.554,99.876,4,bluegrass
+5XgG3JIGoONXSRGlzDVArN,Ralph Stanley,Cry From The Cross,Bright Morning Star,21,150973,False,0.48,0.0284,6,-13.993,1,0.0326,0.925,0.0,0.101,0.194,105.888,3,bluegrass
+7xsTR33qbp42AhwyBadv4c,The Wailin' Jennys,40 Days,This Is Where,24,308040,False,0.474,0.24,4,-16.182,1,0.0314,0.874,7.76e-05,0.0843,0.187,154.74,4,bluegrass
+1BglQ2RycnlMVp4HzoUSNP,Jimmy Martin,Best Of The Best (Original Federal Recordings),Free Born Man - Original Federal Recordings,21,174640,False,0.56,0.781,9,-8.251,1,0.0575,0.238,0.000265,0.0779,0.814,121.127,4,bluegrass
+1q0iYCODzqIlWMbucnvI17,The Rubber Knife Gang,Drivin' On,"Praise the Lord, Pass the Weed",22,232026,False,0.774,0.445,4,-8.448,1,0.0283,0.502,1.19e-06,0.108,0.771,134.116,4,bluegrass
+2kTY6BWrFJXwsG64i5tvcT,Tony Rice,Tony Rice Plays And Sings Bluegrass,Ain't Nobody Gonna Miss Me When I'm Gone,20,171040,False,0.626,0.646,10,-10.623,1,0.0313,0.59,0.00182,0.219,0.966,137.25,4,bluegrass
+6gBixXEBNrk90Bd9FUUPWU,The Avett Brothers,"Live, Vol. 3 (Live At Bojangles' Coliseum/2009)",Head Full Of Doubt/Road Full Of Promise - Live At Bojangles' Coliseum/2009,24,290720,False,0.313,0.627,4,-5.994,0,0.0346,0.475,3.56e-06,0.713,0.201,175.304,3,bluegrass
+5Aq43Qi1j27J5KQkKYYKq0,Old & In The Way,Breakdown,Working On A Building,21,155733,False,0.524,0.238,9,-17.01,1,0.0426,0.892,0.0148,0.713,0.641,98.942,4,bluegrass
+2kjHVYdWZoqRuaaNUpiKTk,The Wailin' Jennys,40 Days,Ten Mile Stilts,24,291200,False,0.417,0.153,2,-16.632,1,0.0388,0.838,0.000736,0.107,0.216,169.237,4,bluegrass
+2nJj1BlJYBSiDOHHfwXEJc,Doyle Lawson & Quicksilver,A School Of Bluegrass,The Girl from West Virginia,20,176266,False,0.64,0.535,11,-10.938,1,0.0295,0.375,0.00135,0.0956,0.939,110.342,4,bluegrass
+40PsiMGYUBM7DaU4lU0ok4,Town Mountain,New Freedom Blues,Pamlico,21,266813,False,0.505,0.52,7,-7.152,1,0.0268,0.77,0.000187,0.224,0.579,152.239,3,bluegrass
+66iOp2kVclaOxgGXUQDQHN,The Dillards,Back Porch Bluegrass,Duelin' Banjo,23,140066,False,0.418,0.882,9,-11.879,1,0.0377,0.117,0.48,0.0632,0.967,169.157,4,bluegrass
+6BgIO6CSrpyv7NSaxYMj1L,Blueridge Mountain Bluegrass Band,Deliverance - Dueling Banjos - Music from the Landmark Film,Buffalo Gals,22,94689,False,0.414,0.558,4,-14.522,1,0.0317,0.0309,0.966,0.244,0.843,137.374,3,bluegrass
+5NgflIIUfY2sfuntLtcbLN,Rob Scallon,Anchor EP (Tour Edition),Anchor,42,231927,False,0.272,0.358,5,-9.335,1,0.0297,0.027,0.905,0.12,0.202,75.772,4,bluegrass
+2h0fFcmUwo0EPwfCnLyTv5,Greensky Bluegrass,Stress Dreams,Get Sad,21,176997,False,0.531,0.4,7,-13.434,1,0.0267,0.526,0.0173,0.108,0.488,107.598,4,bluegrass
+6VfY0sgS4j4JpFQH8kk4XA,Watchhouse,Blindfaller,Wildfire,60,329893,False,0.648,0.352,4,-10.11,1,0.0278,0.692,0.262,0.106,0.173,121.461,4,bluegrass
+6LdtCV5bgLQhfGn72fpSvY,Tommy Emmanuel,Endless Road,Somewhere Over the Rainbow,36,260066,False,0.377,0.185,9,-19.942,1,0.0355,0.943,0.768,0.0961,0.105,117.955,4,bluegrass
+1UlYRi9bxvGXsgDsdhOAvo,The Rice Brothers,Rice Brothers 2,Sawin' On The Strings,21,129733,False,0.592,0.651,11,-9.659,1,0.0339,0.598,0.000906,0.158,0.924,135.34,4,bluegrass
+5m9cwQGKeurtZ5P9CqFo1o,Bobby Osborne;Alison Brown;Stuart Duncan;Trey Hensley;Sierra Hull;Tim O'Brien;Todd Phillips,White Line Fever,White Line Fever,21,201051,False,0.572,0.636,7,-7.975,1,0.0318,0.593,0.0096,0.249,0.596,116.935,4,bluegrass
+7rYO8GdgPhBot0vfZQNizW,Justin Moses;Barry Bales;Bryan Sutton;Michael Cleveland;Sierra Hull,Taxland (feat. Sierra Hull),Taxland (feat. Sierra Hull),20,205586,False,0.563,0.592,9,-11.192,0,0.0354,0.835,0.89,0.173,0.893,153.454,4,bluegrass
+0SwALEkyJ7Uk55nNqLuW4e,The Po' Ramblin' Boys,"Toil, Tears & Trouble","Toil, Tears & Trouble",22,160506,False,0.572,0.799,0,-4.168,1,0.031,0.158,3.02e-05,0.144,0.697,139.954,4,bluegrass
+3CZjwLDtU7D7rkA5NuXR3a,Sarah Jarosz,World On The Ground,Little Satchel,22,265466,False,0.551,0.294,7,-14.066,1,0.0336,0.845,0.00584,0.135,0.409,108.741,4,bluegrass
+3jMsOUBUJBKebyMmd9NCjG,Chris Thile,How To Grow A Woman From The Ground,The Eleventh Reel,20,208400,False,0.349,0.556,2,-14.956,1,0.0391,0.933,0.915,0.114,0.685,127.57,4,bluegrass
+5LNRJeKmVEQ9lC7GTwXzFy,Sarah Jarosz,Build Me Up From Bones,Gone Too Soon,22,214693,False,0.47,0.268,5,-10.167,1,0.0256,0.829,2.22e-06,0.0916,0.131,92.593,4,bluegrass
+2Vunn3BTMOI3aKliyCCyiW,Alan Bibey;Grasstowne,Grasstowne 4,I'm Country,20,184320,False,0.548,0.685,11,-7.812,1,0.0318,0.588,0.0492,0.315,0.871,111.01,4,bluegrass
+46tzAJhfSl7teg1aXgg0fR,Chris Thile,How To Grow A Woman From The Ground,The Beekeeper,21,246693,False,0.332,0.384,9,-15.529,1,0.0378,0.958,0.904,0.107,0.316,152.459,4,bluegrass
+2UmGISiBne7yantJ6Cul5M,Railroad Earth,All For the Song,The Great Divide,21,291173,False,0.471,0.638,10,-6.869,1,0.0306,0.324,8.45e-06,0.22,0.564,178.621,4,bluegrass
+6ijOq8LS75DYwZHh5k1xIf,The Avett Brothers,A Carolina Jubilee,Pretty Girl From Annapolis,24,207986,False,0.646,0.563,3,-8.101,1,0.0316,0.155,0.00107,0.244,0.788,121.399,4,bluegrass
+5KZdfWzucuGpoiUYQrGeZx,Steve Martin;Steep Canyon Rangers,“The Long-Awaited Album”,Always Will,22,85920,False,0.45,0.186,0,-14.866,1,0.0393,0.932,0.85,0.12,0.886,95.845,4,bluegrass
+17OTBhT5XyEO2sZgkF27Oy,Keller & The Keels,Grass,Loser,22,339093,False,0.494,0.267,2,-13.019,1,0.0321,0.577,0.033,0.101,0.367,151.536,4,bluegrass
+2eG0tspnMQHYIFWqThUTQE,John Berry,Certified Hits,I Think About It All The Time,22,216693,False,0.692,0.669,11,-9.974,1,0.0275,0.0254,0.0,0.246,0.805,120.332,4,bluegrass
+7nK1jUyy3YutdbcCniY6xg,The Devil Makes Three,Wheels,I'm A Woman,22,171226,False,0.717,0.666,5,-6.986,1,0.0582,0.194,1.91e-05,0.123,0.812,98.15,4,bluegrass
+4hWu7G0yGOyVgZdoMcUsYe,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,More Bad Weather On The Way,22,211960,False,0.549,0.545,5,-9.162,1,0.0299,0.801,0.173,0.135,0.91,127.129,4,bluegrass
+5yJYTZ1Y5bnM0DpvMj6Qxt,Greensky Bluegrass,All for Money,Cathedral Eyes,22,225880,False,0.539,0.578,4,-12.465,1,0.0302,0.393,0.25,0.165,0.704,101.55,4,bluegrass
+1yv1Lkxrpm9QPE08AV8kEx,Alison Krauss & Union Station,Lonely Runs Both Ways,This Sad Song,21,140880,False,0.577,0.708,4,-5.841,0,0.0279,0.688,0.101,0.335,0.78,109.785,4,bluegrass
+2UhZqGbLm1dPkPkLsEhv0C,Dan Tyminski,Wheels,Making Hay,20,237106,False,0.505,0.367,2,-10.009,1,0.0271,0.841,0.0,0.114,0.564,142.702,4,bluegrass
+1kH4D5cBUE0JUb9DfaUOsd,Wood & Wire,North of Despair,Just Don't Make 'Em,21,280426,False,0.38,0.592,4,-9.512,0,0.0323,0.526,0.00804,0.0921,0.796,153.906,4,bluegrass
+7wPL3S85RTonSxCtIfGjSY,Doc Watson;David Grisman,Doc & Dawg,Sweet Georgia Brown,22,119163,False,0.601,0.611,0,-10.909,1,0.0686,0.895,0.597,0.151,0.631,127.415,3,bluegrass
+3PAwXy3RYt2mm7nDg0SVCk,Pickin' On Series;Brad Davis;Lou Ann Price,Pickin' On the Biggest Hits of the 1980s Vol. 2,Walking on Sunshine,21,224920,False,0.76,0.628,5,-6.891,0,0.0276,0.598,0.000175,0.119,0.889,108.971,4,bluegrass
+7xP6bOzLxvfzovfPWEHXWs,Pickin' On Series,Pickin' on the 90s,Lovefool - Bluegrass Rendition of the Cardigans,21,211313,False,0.765,0.313,9,-7.227,1,0.0356,0.93,7.97e-06,0.229,0.754,111.864,4,bluegrass
+0VpPo9M4RcuubTs6Ceb9np,Mike Auldridge,Dobro / Blues And Bluegrass,Pickaway,20,142466,False,0.34,0.642,7,-9.566,1,0.0317,0.0566,0.938,0.194,0.968,152.092,4,bluegrass
+49DqqXLKYOh9TARKleBQbe,Old Crow Medicine Show,Carry Me Back,Half Mile Down,22,181133,False,0.48,0.643,7,-6.889,1,0.0479,0.26,1.21e-06,0.0935,0.91,200.812,4,bluegrass
+5JJnLDYJiWag8XaM74F6Qr,Greensky Bluegrass,All Access: Volume One,Nine Days,21,300080,False,0.526,0.305,2,-12.025,1,0.0329,0.685,3.79e-06,0.887,0.204,104.106,3,bluegrass
+3PF6Z6PWkT8BtlTah9DOdk,Leftover Salmon,High Country,Get Up and Go,21,208940,False,0.439,0.914,2,-5.424,1,0.0495,0.112,0.00685,0.304,0.833,186.268,4,bluegrass
+3xIbwOiC8cgEX9V1ehvLMt,Trampled by Turtles,Blue Sky and the Devil,The One to Save,22,267122,False,0.527,0.542,4,-9.047,1,0.0363,0.466,0.000494,0.205,0.678,192.027,4,bluegrass
+5UzxEj3Gp71uLmUbctgUWR,Doc Watson;David Grisman,Doc & Dawg,Soldier's Joy,22,146271,False,0.446,0.52,2,-13.722,1,0.0377,0.82,0.772,0.527,0.958,146.125,4,bluegrass
+6MCuxRUXvt8x6xP6KSb3D1,The Wood Brothers,Live at the Barn,Trouble in Mind - Live,24,191306,False,0.496,0.159,9,-10.496,1,0.0364,0.872,0.00384,0.699,0.303,128.508,4,bluegrass
+45u73oNp2kNBDhlP6LYTEt,Doc Watson;Merle Watson,Doc Watson On Stage,Brown's Ferry Blues,22,163375,False,0.449,0.582,7,-12.816,1,0.0355,0.69,0.00512,0.914,0.775,139.295,4,bluegrass
+3MYWnEe8DzOh0pF3Y6mcsX,Old Crow Medicine Show,Carry Me Back,Mississippi Saturday Night,22,180800,False,0.516,0.87,9,-6.204,1,0.0419,0.163,1.08e-06,0.303,0.807,169.323,4,bluegrass
+7prrfMtylrvzS6ula7qmFN,Larry Sparks,The Old Church Yard,I've Just Seen The Rock Of Ages,20,175493,False,0.556,0.319,2,-12.601,1,0.047,0.699,0.000155,0.198,0.446,84.273,4,bluegrass
+78A1bvkrnEQuYXVtfLTEhr,Ralph Stanley,Gloryland - 30 Bluegrass Gospel Classics,Rank Stranger,20,162013,False,0.316,0.247,1,-11.831,1,0.0281,0.766,0.0,0.118,0.358,184.666,3,bluegrass
+32pgU9U2T0GF4wv6i049ba,The Infamous Stringdusters,Laws Of Gravity,Maxwell,20,305560,False,0.507,0.629,9,-6.716,0,0.0261,0.711,0.0221,0.202,0.437,101.584,4,bluegrass
+73eMTJupmeGSxjZOvd8JwJ,Sam Bush,Storyman,Bowling Green,20,212440,False,0.62,0.762,2,-6.824,1,0.0324,0.613,2.3e-06,0.0943,0.745,110.463,4,bluegrass
+26owRbm9e0fmgiqupJNiW9,Jerry Garcia Band;Jerry Garcia,"Let it Rock: The Jerry Garcia Collection, Volume 2",Tore Up Over You - Live,22,414266,False,0.614,0.796,5,-8.278,1,0.0395,0.429,0.207,0.714,0.796,118.103,4,bluegrass
+47fG8d2jsHslhGIVvd7TKG,Yonder Mountain String Band,Yonder Mountain String Band,Sidewalk Stars,21,253360,False,0.505,0.525,2,-11.293,1,0.0341,0.0428,0.0458,0.0877,0.192,138.831,4,bluegrass
+34Q7qFIemkKVHKZtWDQ1nt,Yonder Mountain String Band,"Mountain Tracks, Vol. 1",Sharecropper's Son,21,186386,False,0.558,0.662,4,-9.732,1,0.0562,0.377,2.08e-06,0.942,0.882,146.994,4,bluegrass
+1209dPI2ZUauxaSePJtJ2n,Blue Highway,Gloryland - 30 Bluegrass Gospel Classics,Some Day,21,108186,False,0.68,0.152,8,-10.945,1,0.19,0.885,0.0,0.176,0.529,138.624,3,bluegrass
+5Aq43Qi1j27J5KQkKYYKq0,Old & In The Way,Breakdown,Working On A Building,21,155733,False,0.524,0.238,9,-17.01,1,0.0426,0.892,0.0148,0.713,0.641,98.942,4,bluegrass
+20ncqYNaYnnrMuTnQenpuH,Hayseed Dixie,"Grasswhoopin' Party Pack, Vol. 1",Welcome to the Jungle,21,229624,False,0.611,0.812,9,-5.101,1,0.0461,0.638,0.0372,0.409,0.799,136.12,4,bluegrass
+4qROJfDdYpUFzXYRFB8X6s,Yonder Mountain String Band,"Mountain Tracks, Vol. 3",Bloody Mary Morning,21,194893,False,0.52,0.703,9,-8.019,1,0.0363,0.364,0.000505,0.986,0.768,150.203,4,bluegrass
+0fJYZMQzBB2O7FsXiBZX2b,Old & In The Way,Breakdown,Down Where The River Bends,21,275066,False,0.447,0.315,10,-15.271,1,0.036,0.656,0.0105,0.896,0.72,129.551,4,bluegrass
+4L0PUCMFIlPwARhJhggRFo,Greensky Bluegrass,"All Access, Vol. 1",Time/Breathe Reprise,21,338240,False,0.413,0.745,6,-6.341,0,0.0318,0.129,3.06e-05,0.664,0.626,133.131,4,bluegrass
+72g3qPU2lCZFirkYrpHtaB,Flatt & Scruggs,Foggy Mountain Banjo,Sally Ann,20,129053,False,0.354,0.756,7,-8.361,1,0.0353,0.0585,0.933,0.242,0.967,135.4,4,bluegrass
+1IMZ3C9lNdVQAiNQMUYSAs,Ben Sollee,Ben Sollee and Kentucky Native,Pieces of You,40,226268,False,0.578,0.189,6,-13.538,0,0.0314,0.862,0.000566,0.119,0.487,103.285,4,bluegrass
+24jpjPR3hZ1VAQOWr9sd0t,Aoife O'Donovan,B61,B61,55,221842,False,0.48,0.198,1,-16.495,1,0.04,0.815,0.00275,0.12,0.162,137.863,4,bluegrass
+2aSP07jHAlACdY9tphgkA8,Crooked Still;Aoife O'Donovan,Ain't No Grave,Ain't No Grave (Sparse),40,198313,False,0.67,0.145,0,-12.772,1,0.0422,0.935,1.29e-05,0.0859,0.284,81.055,4,bluegrass
+1I9dSqB5XSdwOfn9M8zpRg,Sarah Jarosz,Build Me Up From Bones,Build Me Up From Bones,52,216173,False,0.53,0.283,5,-11.962,1,0.0367,0.876,0.000141,0.106,0.282,114.982,4,bluegrass
+0asmEuABiOZ38c8ud4NlRN,The Greencards,Sweetheart of the Sun,Midnight Ferry,21,40880,False,0.721,0.196,9,-17.54,0,0.114,0.907,0.0852,0.103,0.283,80.553,4,bluegrass
+7wStk0361hcPEtJc4KbOPf,Sarah Jarosz,Blue Heron Suite,Morning,54,208746,False,0.573,0.341,7,-11.324,1,0.0327,0.854,0.0436,0.107,0.334,128.989,4,bluegrass
+2b4o1ncG5nBdAGOwBpPioI,Tony Rice Unit,Manzanita,Hold Whatcha Got,21,168106,False,0.678,0.489,5,-11.556,1,0.0358,0.28,8.58e-06,0.107,0.899,104.836,4,bluegrass
+5UJSlyTNvKQPD6lnbUlsKR,Andy Thorn,Songs of the Sunrise Fox,Monarch Morning,22,219293,False,0.329,0.187,7,-18.043,1,0.0542,0.991,0.909,0.0879,0.576,180.0,3,bluegrass
+3LNguJCP02qiq6ZzoloDTt,High Fidelity,Hills And Home,The Hills and Home,21,142573,False,0.582,0.65,0,-7.138,1,0.0331,0.199,0.000442,0.197,0.963,120.177,4,bluegrass
+4ctrW6hZZ5sXqWfYMhAE7g,Ricky Skaggs,Super Hits,I Wouldn't Change You If I Could,40,179373,False,0.605,0.345,5,-10.937,1,0.0263,0.0519,2.02e-06,0.105,0.802,138.094,4,bluegrass
+5ns4O5fVbhx3BpfqVHA0fC,The Monroe Brothers,The Essential Bill Monroe,On the Banks of the Ohio,22,206613,False,0.495,0.407,4,-11.501,1,0.036,0.816,0.000205,0.213,0.516,116.573,4,bluegrass
+2Zgiqr0iQdc8WEnIDURZW7,Hackensaw Boys,Oval Room,Oval Room,20,233625,False,0.601,0.45,9,-9.281,1,0.0578,0.399,1.75e-05,0.144,0.658,83.595,4,bluegrass
+62zixX6AZxNfohLJrgUQiO,Greensky Bluegrass,The Leap Year Sessions: Volume Zero,Take Cover,21,638787,False,0.569,0.674,0,-9.692,1,0.0269,0.514,0.523,0.197,0.543,141.747,4,bluegrass
+6MtMtPt2Lwuc3KluFIkYhC,The Doc Watson Family,The Doc Watson Family,Down the Road,21,101933,False,0.574,0.654,7,-10.598,1,0.0292,0.914,0.244,0.306,0.76,125.24,4,bluegrass
+3heqSl8sjhlD51ejP8Ul9g,Del McCoury,Del McCoury,Loggin' Man,21,121213,False,0.432,0.616,9,-7.502,1,0.0428,0.597,0.000221,0.326,0.9,166.214,4,bluegrass
+5HkmhDbrLokY94f28mYwp5,David Grier,Freewheeling,The New Soldier's Joy,20,184040,False,0.379,0.347,2,-18.587,1,0.0385,0.858,0.904,0.107,0.852,116.111,4,bluegrass
+7Lw7GxtqLCyEa5KJw6CMjS,John Hartford,Mark Twang,Let Him Go on Mama,22,229973,False,0.591,0.446,2,-14.987,1,0.143,0.838,2.11e-05,0.201,0.833,112.195,4,bluegrass
+1SyymAf7gT0hJRB1HzWURI,Sarah Jarosz,Undercurrent,Still Life,22,173613,False,0.494,0.338,8,-7.637,0,0.0308,0.725,0.0,0.128,0.459,142.207,4,bluegrass
+4UVN6E7TCmrreJ5MnhWF5q,David Grier,Freewheeling,Alabama Jubilee,20,172760,False,0.428,0.468,7,-16.905,1,0.03,0.684,0.887,0.206,0.922,143.327,4,bluegrass
+6aViDQHPdw0UUYDGIKV8k1,Laurie Lewis;The Right Hands;Linda Ronstadt,The Hazel and Alice Sessions,Pretty Bird (feat. Linda Ronstadt),20,158973,False,0.448,0.0185,6,-13.467,1,0.061,0.945,0.0,0.165,0.272,132.063,5,bluegrass
+641BnSVI1ydg9RWBSKvaXv,The Avett Brothers,Live Vol. Four,Ten Thousand Words,23,384186,False,0.442,0.302,9,-12.33,1,0.0298,0.85,6.82e-06,0.861,0.39,141.615,4,bluegrass
+1lx9pPFZLqlSvkskTKFUWT,Norman Blake,Whiskey Before Breakfast,Slow Train Through Georgia,20,247666,False,0.52,0.146,3,-18.425,1,0.0315,0.918,0.00397,0.129,0.497,155.023,4,bluegrass
+7coLxSh3vftdlzIhMVkT1O,The Kentucky Colonels,Long Journey Home,Lonesome Road Blues,21,78000,False,0.431,0.752,9,-14.568,1,0.132,0.74,0.67,0.715,0.758,134.226,4,bluegrass
+1ua2qKp7kKmqdM9s9agISH,Reno & Smiley,The Talk Of The Town,Choking The Strings,20,156693,False,0.34,0.706,2,-7.939,1,0.0357,0.396,0.966,0.246,0.963,165.09,4,bluegrass
+624KFWbCrHjMUgixO5W91D,Alison Krauss & Union Station,Every Time You Say Goodbye,Another Night,21,178960,False,0.685,0.509,4,-12.349,0,0.0314,0.725,0.0445,0.0801,0.922,108.738,4,bluegrass
+4SzmKtY2v2Z98pedkWVoW3,Stringbean,Old Time Banjo Pickin' & Singin',Barnyard Banjo Pickin',21,138986,False,0.715,0.615,8,-13.759,1,0.0353,0.752,0.0416,0.345,0.904,115.856,4,bluegrass
+2ARJQ2yUfQ0Y8ZHbNyV8bD,The Avett Brothers,Four Thieves Gone - The Robbinsville Sessions,The Fall,23,184520,False,0.537,0.689,7,-4.663,1,0.0296,0.0647,0.0,0.562,0.651,96.355,4,bluegrass
+7vjJfAygsiIgs2WL2hyhKN,The Travelin' McCourys,The Travelin' Mccourys,Crowhop,21,247346,False,0.495,0.73,7,-8.589,1,0.0326,0.785,0.935,0.114,0.915,126.277,4,bluegrass
+1bt13Ik03aWeJR9hDOSARt,Doyle Lawson & Quicksilver,Life is a Story,Life To My Days,20,189293,False,0.513,0.583,3,-6.645,1,0.0303,0.791,0.0,0.333,0.531,180.095,4,bluegrass
+0OvHUici5eYYsttt1kGtuH,Norman Blake,Whiskey Before Breakfast,Under The Double Eagle,20,164466,False,0.345,0.397,0,-18.194,1,0.0415,0.653,0.964,0.304,0.855,112.821,4,bluegrass
+6JRYWagVXGCXiO0lWdyjHX,Doc Watson;David Grisman,Doc & Dawg,What Is Home Without Love?,21,215923,False,0.467,0.194,7,-14.836,1,0.033,0.951,0.000224,0.106,0.501,143.915,3,bluegrass
+0TxD3HD4pAqdl7Ov8u0ecz,Norman Blake,Back Home In Sulphur Springs,Down Home Summertime Blues,20,222000,False,0.618,0.474,7,-11.444,1,0.0285,0.866,0.0066,0.101,0.477,93.43,4,bluegrass
+7x26tSOxDiyGzh8fF6etL2,Balsam Range,Last Train To Kitty Hawk,Last Train To Kitty Hawk,20,228573,False,0.656,0.692,7,-6.577,1,0.0341,0.621,0.000309,0.16,0.642,113.998,4,bluegrass
+0i9jd8jNbERks6KnmXPCmi,Punch Brothers,The Wireless,Clementine,21,207013,False,0.606,0.129,0,-17.162,1,0.0401,0.84,3.83e-06,0.081,0.101,112.699,4,bluegrass
+7fHPJ7ojoKrlRFe06prRNd,Jerry Garcia Band;Jerry Garcia,Don't Let Go,Sitting In Limbo - Live,22,629426,False,0.546,0.191,0,-19.721,1,0.0347,0.888,0.00285,0.154,0.598,134.559,4,bluegrass
+5vU4qsDuRBJtom5BFgYDd7,The Wood Brothers,Live at the Barn,Tried and Tempted - Live,24,274480,False,0.483,0.453,11,-10.356,0,0.0404,0.135,0.00262,0.497,0.198,99.166,4,bluegrass
+5gcj73NwRyRWXCKBov0ndc,The Avett Brothers,Mignonette,Hard Worker,23,125346,False,0.486,0.611,9,-5.39,1,0.0396,0.267,0.0,0.366,0.902,129.825,4,bluegrass
+6RIK8eTzpOPgd1gGkGAh08,Charlie Parr,I Ain't Dead Yet,Something I Said,24,222860,False,0.608,0.376,7,-15.134,1,0.0311,0.868,0.0924,0.113,0.872,100.722,4,bluegrass
+1mEtTMinjXHYOSPRbCLlne,Jerry Garcia Band;Jerry Garcia,Cats Under the Stars (Expanded),Palm Sunday,22,141173,False,0.481,0.219,0,-12.091,1,0.037,0.693,0.000494,0.322,0.165,76.44,4,bluegrass
+34Gnb3vsYXVw92iPS4HTrD,Lonesome River Band,Mayhayley's House,Ida Red,20,114581,False,0.603,0.832,6,-5.305,1,0.0334,0.125,0.00356,0.229,0.966,130.852,4,bluegrass
+6HmbEqvYfWZBIMCv6rR9xp,Nickel Creek,West Coast Country,This Side,20,213400,False,0.509,0.724,9,-7.665,1,0.0356,0.309,0.0,0.169,0.702,179.991,4,bluegrass
+03NrZOefZfWWtiDpNMyc1J,Old & In The Way,Breakdown,Old & In The Way Breakdown,20,227133,False,0.435,0.507,0,-16.153,1,0.0348,0.397,0.904,0.837,0.913,152.403,4,bluegrass
+5N46MoDLmZuvJ1W4CbJnd3,Kitchen Dwellers,Ghost in the Bottle,The Crown,23,302186,False,0.575,0.55,5,-9.575,1,0.0329,0.516,6.61e-05,0.0965,0.564,150.029,4,bluegrass
+24pJL3LEPj3M6gciuQwFlU,The Avett Brothers,"Live, Vol. 3 (Live At Bojangles' Coliseum/2009)",I And Love And You - Live At Bojangles' Coliseum/2009,23,327480,False,0.449,0.443,2,-8.386,1,0.035,0.776,1.37e-05,0.341,0.227,69.79,4,bluegrass
+7KvmPcEcoyweafGhTFNs8g,Leftover Salmon,Leftover Salmon: Live,Steam Powered Aereoplane,21,255840,False,0.399,0.914,7,-8.809,1,0.0437,0.0523,0.022,0.971,0.612,121.69,4,bluegrass
+4QPyH4yu9SxdFU17ucbIWE,Yonder Mountain String Band,Elevation,On the Run,21,229493,False,0.505,0.671,0,-10.34,1,0.0328,0.591,0.124,0.323,0.961,160.67,4,bluegrass
+4tMxzWDw18nKhpR9NvzcNs,Alison Krauss & Union Station,Live,"New Favorite - Live From The Louisville Palace, Kentucky / 2002",21,240653,False,0.425,0.226,11,-14.818,0,0.039,0.578,0.000548,0.686,0.238,159.877,4,bluegrass
+1C1QwIyNI2DMoGaMd134e3,Old Crow Medicine Show,Volunteer,Shout Mountain Music,22,151426,False,0.504,0.916,9,-4.845,1,0.0569,0.499,1.99e-05,0.286,0.701,148.193,4,bluegrass
+3RiMKJZdZT3TSCXIXFk5LS,Jerry Garcia Band;Jerry Garcia,"After Midnight: Kean College, 2/28/80",The Harder They Come - Live,22,762626,False,0.58,0.559,0,-12.872,1,0.0648,0.167,0.0754,0.793,0.421,122.815,4,bluegrass
+6NxBxwOJGwN8DbfwwQfoFA,Flatt & Scruggs,Foggy Mountain Banjo,Fire Ball Mail,20,112213,False,0.369,0.782,7,-8.013,1,0.0356,0.162,0.971,0.268,0.962,127.015,4,bluegrass
+0oSCcRObagtOjvzSJbgmc2,The Osborne Brothers,100 Greatest Bluegrass Hits,Bluegrass Concerto,20,269293,False,0.263,0.718,9,-11.109,1,0.0296,0.303,0.437,0.336,0.935,145.549,4,bluegrass
+2h6ZLitWaeBw9af5hWRy4T,Circus No. 9;Jeff Sipe,Steampipe Coffee,Steampipe Coffee,21,289588,False,0.479,0.41,9,-9.479,1,0.0391,0.746,0.00153,0.0834,0.452,151.855,4,bluegrass
+3btzW7ffhAy7HYt2CU9pRf,Watkins Family Hour;Jon Brion,Vol. II,Thanks a Lot,21,183253,False,0.815,0.432,2,-8.015,1,0.0299,0.357,0.000227,0.0988,0.532,98.444,4,bluegrass
+5hAI1gUwwqNHgDYUw8ELXq,Flatt Lonesome,Flatt Lonesome,Just Any Moment,21,154293,False,0.731,0.815,10,-5.211,1,0.0305,0.599,3.09e-05,0.105,0.97,120.08,4,bluegrass
+6dDnNol7rIKv6KO6JzV8jk,Andrew Marlin,Fable & Fire,Old Pine Box,21,197036,False,0.603,0.262,2,-12.754,1,0.0307,0.938,0.922,0.0945,0.71,82.619,4,bluegrass
+6QbkUhsl7YDaOq0ska3WlN,Della Mae,Dry Town,Dry Town,20,162697,False,0.626,0.569,1,-9.019,0,0.0438,0.243,0.0,0.0959,0.752,99.467,4,bluegrass
+7tAAha1kFovHVmXQOBbQEx,Nefesh Mountain,Songs For The Sparrows,Tree Of Life,21,169400,False,0.51,0.143,7,-13.338,1,0.0392,0.971,0.0016,0.0832,0.441,130.748,3,bluegrass
+0uvTwmZo4j4JFotN2gkpBx,Chatham County Line,Tightrope,Tightrope of Love,20,180586,False,0.534,0.81,7,-4.705,1,0.033,0.415,0.000106,0.183,0.846,97.038,4,bluegrass
+1mdh5LGJCHHUaV5MXzkgE6,Railroad Earth,All For the Song,Blues Highway,21,257120,False,0.382,0.874,9,-5.88,1,0.0283,0.0691,0.00156,0.309,0.622,147.733,4,bluegrass
+3j1s4MLRqRJfatdKxiDUhm,Newfound Road,Newfound Road,I Am The Man Thomas,19,172360,False,0.635,0.645,2,-7.624,1,0.0278,0.332,0.00527,0.221,0.761,103.611,4,bluegrass
+2i6Yg6HLXfYV0MWhY0WgjR,Mile Twelve,Roll the Tapes All Night Long,Cold Wind,21,155000,False,0.306,0.713,4,-8.131,0,0.0365,0.419,0.00875,0.319,0.673,174.229,4,bluegrass
+5UqdiIgct99Of1AZmoH8jA,Longview,Deep In The Mountains,Old Log Cabin,21,146453,False,0.574,0.707,9,-5.527,1,0.0311,0.67,0.0267,0.295,0.829,122.07,4,bluegrass
+4QKWOYyqEUzSHHZuXM8jXH,Chatham County Line,Wildwood,Wildwood,20,186813,False,0.353,0.474,6,-8.609,1,0.035,0.55,0.00298,0.239,0.645,175.733,4,bluegrass
+4VHUkYbYdbmqNEK3REHZeN,Wood & Wire,No Matter Where It Goes from Here,My Hometown,21,236666,False,0.662,0.507,4,-11.381,0,0.0579,0.613,0.701,0.109,0.481,101.916,4,bluegrass
+1seWKAWyryR97hIuhDy5mT,Chatham County Line,IV,Let It Rock,20,200266,False,0.744,0.82,8,-6.741,1,0.0279,0.342,1.05e-05,0.0812,0.947,124.389,4,bluegrass
+0q1g0tupqjwbZauTxxoX6n,Twisted Pine,Right Now,Come Along Jody,22,259626,False,0.684,0.594,7,-8.141,1,0.0421,0.478,0.596,0.315,0.582,129.993,4,bluegrass
+6sQmvjsV3CaxaWW4p8gvn0,The Isaacs,The Living Years,Grandpa (Tell Me ‘Bout The Good Old Days),35,230400,False,0.634,0.123,7,-13.152,1,0.0329,0.828,0.0,0.427,0.48,101.742,4,bluegrass
+4X1C6Q2DdNHDbFqb19yct5,Unspoken Tradition,Myths We Tell Our Young,Dark Side Of The Mountain,21,230000,False,0.685,0.681,2,-6.591,1,0.0292,0.534,0.00768,0.084,0.718,112.014,4,bluegrass
+5zsatkx2tAjgZSWAJGaK2T,Clarence White,33 Guitar Instrumentals,Black Mountain Blues (Rag),21,97293,False,0.465,0.474,2,-11.693,1,0.0335,0.926,0.913,0.312,0.963,64.496,4,bluegrass
+2rmZS6oaGVl9mHBk8iK0wk,Elephant Revival,Petals,Petals,23,148088,False,0.427,0.178,5,-13.935,1,0.0341,0.73,6.05e-06,0.11,0.29,140.088,3,bluegrass
+4A0IWubd7pVbtfQVL5Zw7V,The Avett Brothers,A Carolina Jubilee,Pretty Girl From Raleigh,23,143280,False,0.572,0.752,7,-8.179,1,0.0313,0.0216,0.000133,0.103,0.521,118.309,4,bluegrass
+1jQOH97oOqu52RjeF21uhD,Dan Tyminski;Dailey & Vincent,One More Time Before You Go,Ten Degrees and Getting Colder (feat. Dailey & Vincent),20,143400,False,0.625,0.528,5,-7.123,1,0.0317,0.713,0.0,0.175,0.72,98.422,4,bluegrass
+2WHlwCAZB6hLFsrXffOmxx,The Devil Makes Three,A Little Bit Faster And A Little Bit Worse,Tow,21,247800,False,0.399,0.431,7,-10.991,0,0.0659,0.705,1.58e-05,0.804,0.678,167.313,4,bluegrass
+297OH4cTJDKGOFJHE6ashO,Ralph Stanley,I'll Answer The Call,I'll Answer The Call,20,110760,False,0.613,0.433,5,-12.961,1,0.0292,0.406,0.0,0.0652,0.775,119.212,4,bluegrass
+1sjX5v8J9QlffnJZlYGF9M,Dailey & Vincent,Dailey & Vincent Sing The Statler Brothers,I'll Go To My Grave Lovin' You,20,161866,False,0.534,0.638,11,-5.097,1,0.0321,0.723,0.0,0.0814,0.644,104.193,4,bluegrass
+6kMgqDiWZdbMGcxTtQ5OJv,The Railsplitters,The Faster It Goes,Tilt-a-Whirl,21,196746,False,0.622,0.474,9,-8.56,0,0.0305,0.681,7.88e-06,0.0863,0.452,122.664,4,bluegrass
+6MQvASnFOEukhTbsJL4KLC,J.D. Crowe & The New South,J.D. Crowe & the New South,You Are What I Am,20,144000,False,0.635,0.642,4,-10.383,0,0.0353,0.612,0.0351,0.187,0.972,125.829,4,bluegrass
+2TynldhyWHpsXMbvBS7gSL,Jerry Garcia Band;Jerry Garcia,"GarciaLive Volume Eight: November 23rd, 1991 Bradley Center",Deal,21,486381,False,0.391,0.873,2,-7.378,1,0.0783,0.704,0.212,0.756,0.552,145.96,4,bluegrass
+1fPGTHsYzUzDR6K6HlEku7,The Lonely Heartstring Band,Deep Waters,Deep Waters,21,204933,False,0.518,0.522,7,-9.329,1,0.0296,0.841,0.0022,0.279,0.618,129.939,4,bluegrass
+606B4jUfY2MA7wpbIGDoKp,Old Salt Union,Old Salt Union,Feel My Love,21,216511,False,0.662,0.696,7,-9.099,1,0.0284,0.557,0.00861,0.34,0.84,111.933,4,bluegrass
+5KPkow8buvdVW8HqIj79Er,Yonder Mountain String Band,Get Yourself Outside,I Just Can't,20,133120,False,0.586,0.564,9,-9.699,1,0.0286,0.234,2.23e-06,0.316,0.862,149.94,4,bluegrass
+1eOwvm4RZ297KoPs8E1ZDj,Blue Moon Rising,On The Rise,Papaw Taught Me,19,139093,False,0.647,0.729,7,-7.56,1,0.0304,0.307,0.00324,0.142,0.925,111.764,4,bluegrass
+6uHJo6Htc2IhQi9653PDzX,IIIrd Tyme Out,Across the Miles,Giving My Soul Back to Him,20,174973,False,0.613,0.766,0,-6.554,1,0.0638,0.641,0.000273,0.196,0.65,127.282,4,bluegrass
+2nwj84xtWw98wuLbkOR77O,Sierra Hull,Secrets,The Hard Way,19,269146,False,0.368,0.233,1,-12.382,1,0.0303,0.861,2.56e-06,0.103,0.36,158.241,4,bluegrass
+3kb7ixlxkuw9p5157bjuvb,Balsam Range,Aeonic,The Girl Who Invented The Wheel,20,203000,False,0.637,0.729,9,-7.588,1,0.0326,0.59,0.0655,0.129,0.368,121.922,4,bluegrass
+4ozMIJMMWaDCKqmVFcY4R0,Della Mae,This World Oft Can Be,Letter From Down The Road / And Other Things,20,171466,False,0.555,0.605,11,-5.843,1,0.0302,0.619,0.0236,0.297,0.856,110.521,4,bluegrass
+57jWkXwst9G2V6mi1Qw7qI,The Infamous Stringdusters,Toward the Fray,How Do You Know?,20,238746,False,0.559,0.844,4,-6.456,1,0.0353,0.39,0.0321,0.171,0.571,100.71,4,bluegrass
+5igjw40Tq2xGnw6MiGXuIn,J.D. Crowe & The New South,J.D. Crowe & the New South,Summer Wages,20,269493,False,0.585,0.184,11,-14.493,1,0.0313,0.696,0.000177,0.177,0.509,128.61,4,bluegrass
+3WJ8xIHrNTtP5YsXOqqyml,Alison Krauss,A Hundred Miles Or More: A Collection,"Down To The River To Pray - From “O Brother, Where Art Thou” Soundtrack",54,176360,False,0.542,0.215,4,-11.795,1,0.0736,0.948,0.0,0.301,0.601,131.976,4,bluegrass
+56H3WNjgdkBv6hYvrxeEjj,Ralph Stanley,Man Of Constant Sorrow,Angel Band,20,111826,False,0.516,0.132,11,-13.472,1,0.029,0.89,0.0,0.202,0.385,81.239,3,bluegrass
+6fUYzj7XQ4RKqXSYgpzVgP,Kruger Brothers;Kontras Quartet,Roan Mountain Suite,Gather Round - Prelude,20,105000,False,0.499,0.124,2,-19.474,1,0.0793,0.836,0.861,0.0925,0.263,87.205,1,bluegrass
+0FjS3UvIenJBUhgN6cXkhH,Bobby Hicks;Doyle Lawson;J.D. Crowe;Jerry Douglas;Todd Phillips;Tony Rice,The Bluegrass Album,Molly And Tenbrooks,20,187306,False,0.55,0.561,10,-13.926,1,0.0316,0.277,0.00238,0.138,0.963,138.59,4,bluegrass
+4wkJVOLcDF0qqU3k9gVOb5,Old Crow Medicine Show,Big Iron World,Bobcat Tracks,22,183880,False,0.552,0.838,0,-4.549,1,0.0412,0.711,0.000141,0.158,0.868,144.365,4,bluegrass
+4r3EUWQlAdxc8zZgmLTQrP,The Grascals,The Famous Lefty Flynn's,Last Train To Clarksville,19,178666,False,0.649,0.797,4,-5.826,1,0.0365,0.532,0.00128,0.212,0.766,109.851,4,bluegrass
+4JqzGkkvjziDmYfPB4r8yf,Jerry Garcia Band;Jerry Garcia,"After Midnight: Kean College, 2/28/80",I'll Take A Melody - Live,22,841146,False,0.544,0.527,9,-9.615,1,0.0405,0.333,0.171,0.954,0.465,122.701,4,bluegrass
+0kv6msGM7Qb9tuD1TNg56q,Lonesome River Band,Chronology (Vol. 3),Stray Dogs And Alley Cats,20,185973,False,0.673,0.497,5,-7.839,1,0.029,0.881,4.61e-06,0.118,0.57,115.989,4,bluegrass
+4kD0FTirtA2i7mt271kmfM,Gillian Welch,Time (The Revelator),Ruination Day Part 2,24,156973,False,0.674,0.0688,2,-13.152,1,0.0404,0.914,0.00183,0.11,0.0698,147.701,4,bluegrass
+7nnjBAQsUg0f3Gcn2lvEt0,Kitchen Dwellers,Muir Maid,Covered Bridges,23,484573,False,0.376,0.701,2,-9.47,1,0.0308,0.274,0.481,0.281,0.72,154.763,4,bluegrass
+5r8TJ68YtO9bSLknzMOfVu,The Infamous Stringdusters,Laws Of Gravity,Freedom,20,197720,False,0.484,0.761,11,-6.53,1,0.0349,0.184,0.00344,0.221,0.52,127.158,4,bluegrass
+6u9CDoX7wXx1QWlUX8nmck,Hayseed Dixie,Mountain Love (Remastered),Fat Bottom Girls - Remastered,21,186848,False,0.628,0.674,7,-5.611,1,0.0335,0.602,7.6e-06,0.159,0.925,134.098,4,bluegrass
+0trVnybi3L9TLXvMgSYoYG,Watchhouse,Such Jubilee,Settled Down,55,183733,False,0.599,0.294,5,-10.222,1,0.0279,0.851,0.0384,0.102,0.308,118.207,4,bluegrass
+6MFlhZhdHvAJXFFf4MguHu,Stuart Duncan;Edgar Meyer;Chris Thile;Yo-Yo Ma,Not Our First Goat Rodeo,757 ml,20,308866,False,0.442,0.21,2,-15.717,1,0.037,0.875,0.0528,0.276,0.424,153.519,4,bluegrass
+45ijaZ4lmJ4ZAsg1Cj3Uff,Wood Belly,November,November,21,206773,False,0.641,0.606,9,-8.421,1,0.0266,0.521,0.572,0.108,0.671,109.938,4,bluegrass
+0dpjuJLetnheYPSzLiQR62,Stuart Duncan;Edgar Meyer;Chris Thile;Yo-Yo Ma,Not Our First Goat Rodeo,Not For Lack of Trying,21,309226,False,0.28,0.0686,7,-19.994,1,0.0413,0.933,0.00653,0.155,0.103,149.423,3,bluegrass
+1MmvHBySyfgJB8xzuAVLuD,Andy Thorn,Songs of the Sunrise Fox,Fox's Fancy,21,186400,False,0.491,0.402,0,-17.451,1,0.0454,0.962,0.894,0.169,0.625,123.936,4,bluegrass
+09PCatxSUAPYfKM6ZAaDZd,Alison Brown,Twilight Motel,Chicken Road,20,265066,False,0.569,0.502,0,-11.135,1,0.0371,0.829,0.594,0.0943,0.9,108.485,3,bluegrass
+59CiaVR6LZRBbsnLY17cep,Hot Buttered Rum,Shine All Night,No Reason Why,20,233327,False,0.543,0.787,11,-7.313,1,0.0701,0.479,0.0,0.339,0.807,107.134,4,bluegrass
+2Jsq1ubb1Y6MZRoCWd5GH4,Larry Keel,Larry Keel,Corn Liquor,20,196076,False,0.493,0.481,7,-12.468,1,0.0265,0.788,0.377,0.119,0.827,142.365,4,bluegrass
+21pfC9RXOdcwxeaxkHPoAL,South Austin Jug Band,South Austin Jug Band,The Ballad of Eddie Mullet,20,293400,True,0.575,0.485,2,-9.172,1,0.036,0.704,0.0,0.074,0.758,162.134,4,bluegrass
+6AlrpG7mjHW2jh8mbCV0Jb,Sideline,"Ups, Downs and No Name Towns",Fast As I Can Crawl,21,150033,False,0.652,0.742,11,-7.031,1,0.0328,0.386,0.000146,0.175,0.809,111.987,4,bluegrass
+3WnIiHfsbP2E1LXa3Ccjqh,Bryan Sutton,The More I Learn,Presbyterian Guitar,20,208000,False,0.706,0.114,9,-17.386,1,0.0448,0.937,0.935,0.122,0.16,130.725,4,bluegrass
+1gAj0rxRU8QK49emO77sjF,Pickin' On Series,Pickin' on the 90s,Kiss Me - Bluegrass Rendition of Sixpence None the Richer,21,198460,False,0.601,0.45,3,-7.119,1,0.0254,0.589,0.000115,0.0965,0.308,100.027,4,bluegrass
+4L5Oph7ovfWa0XNGb7NDw0,Doc Watson;David Grisman,Doc & Dawg,Bluegrass Stomp,20,297727,False,0.594,0.212,7,-14.929,1,0.0527,0.82,0.765,0.337,0.652,140.815,4,bluegrass
+3Vedoj3V1WfnJWc1MP25eX,Norman Blake,Whiskey Before Breakfast,Arkansas Traveler,20,184493,False,0.329,0.41,0,-18.429,1,0.039,0.839,0.806,0.291,0.952,116.666,4,bluegrass
+0qI6BFEnkLBxzKG2qSMchx,Mac Wiseman;The Osborne Brothers,100 Greatest Bluegrass Hits,Pins and Needles (In My Heart),20,172333,False,0.578,0.394,7,-11.752,1,0.0271,0.744,0.000804,0.0943,0.583,84.169,4,bluegrass
+4xvIdWh6JdoojBe04YinIQ,The Osborne Brothers;Mac Wiseman,100 Greatest Bluegrass Hits,Midnight Flyer,19,121093,False,0.553,0.499,11,-11.082,1,0.0279,0.668,0.00209,0.0863,0.891,137.639,4,bluegrass
+1cjzQL5OfholGDOsI2xR26,Watchhouse,Haste Make / Hard Hearted Stranger,No Weight,22,245880,False,0.417,0.203,2,-12.322,1,0.0282,0.913,0.0786,0.125,0.181,139.82,3,bluegrass
+52dGLUBKFIx066xQn0R4pr,The Steeldrivers,Hammer Down,When I'm Gone,19,181133,False,0.584,0.661,2,-5.66,1,0.0284,0.541,6.35e-05,0.361,0.709,108.678,4,bluegrass
+4AtooSYrtsk66Fr8FT1rHw,Acoustic Syndicate,Tributaries,Rainbow Roller-Coaster,20,296200,False,0.694,0.558,7,-9.534,1,0.0359,0.766,0.0251,0.173,0.58,96.833,4,bluegrass
+15C4vddZCuFqVNwDCSUXdn,Norman Blake,Whiskey Before Breakfast,Fiddler's Dram / Whiskey Before Breakfast,20,214000,False,0.422,0.419,10,-18.244,1,0.0464,0.831,0.766,0.263,0.972,114.252,4,bluegrass
+04XGkNlxJ4owtZ5coaFD9p,Yarn,This Is the Year,This Is the Year,20,182544,False,0.594,0.525,7,-8.435,1,0.027,0.074,4.37e-05,0.103,0.474,76.979,4,bluegrass
+3JzOVXsaT5tTSxy28Tehpn,Pickin' On Series;Brad Davis,Pickin' On the Biggest Hits of the 1980s Vol. 2,Danger Zone,20,216053,False,0.679,0.49,2,-8.167,0,0.0299,0.507,4.04e-06,0.146,0.491,157.949,4,bluegrass
+3FJZkKGFtR7rizQP5vCc8P,Alison Krauss & Union Station,Two Highways,Wild Bill Jones,20,203893,False,0.627,0.338,4,-13.848,1,0.0304,0.58,0.0015,0.108,0.799,104.168,4,bluegrass
+1XHwBwt031FfuWy3e6cPdP,Railroad Earth,Elko,Colorado,20,566200,False,0.435,0.891,7,-5.021,1,0.0333,0.436,0.00262,0.919,0.77,127.341,4,bluegrass
+3SPNE0swpYB1NC2N0abXa5,Balsam Range,Papertown,Better Days,19,222320,False,0.511,0.416,9,-9.509,1,0.03,0.834,0.0263,0.149,0.397,82.017,4,bluegrass
+0sqHzaDIlr3PxLQanhO74A,Pickin' On Series,Pickin' and Singin' The Biggest Hits of the 1980s Vol. 1,The Final Countdown,20,249720,False,0.68,0.55,7,-9.494,0,0.0282,0.699,0.00298,0.0993,0.638,127.878,4,bluegrass
+0tyhL8tIivPgkpBeUdY9jP,Yonder Mountain String Band,Get Yourself Outside,Beside Myself,20,248760,False,0.635,0.514,2,-9.743,1,0.0273,0.22,1.6e-05,0.0673,0.708,145.099,4,bluegrass
+5buQp8eXwO7K1fM4XWvyeI,Donna Stoneman,100 Greatest Bluegrass Hits,Under the Double Eagle,20,106866,False,0.262,0.836,0,-9.591,1,0.0367,0.513,0.941,0.202,0.981,175.044,4,bluegrass
+4Zu6hg9drdLoGeyvJmOZoQ,Fruition,Labor of Love,Fallin' on My Face,23,249213,False,0.36,0.762,2,-6.596,1,0.0339,0.00462,5.41e-06,0.117,0.373,134.805,4,bluegrass
+3Izr0NYJm5Hp4hwCgtZbDJ,The Avett Brothers,The Gleam,Find My Love,23,261120,False,0.466,0.183,1,-13.693,1,0.043,0.882,5.58e-06,0.0925,0.201,123.324,3,bluegrass
+6Fys7dSpGYIfdvEVAUNLaE,Nickel Creek,This Side,Brand New Sidewalk,20,256893,False,0.489,0.124,2,-14.855,1,0.0469,0.848,0.0,0.089,0.183,128.253,4,bluegrass
+1S3EEpzJoqUU79zDmoTJmQ,Punch Brothers,Antifogmatic,Don't Need No,20,269080,False,0.554,0.296,8,-15.659,1,0.0539,0.641,0.112,0.0958,0.535,110.526,4,bluegrass
+3FGJ0lJnL11cLCb8Ocmpnr,The Lil Smokies,Tornillo,Carry Me,21,290894,False,0.271,0.555,7,-7.65,1,0.0319,0.264,0.00111,0.246,0.317,161.813,4,bluegrass
+7B2WJSAYolDblFiUd77gxv,The Travelin' McCourys,The Travelin' Mccourys,Travelin',20,385933,False,0.365,0.712,9,-6.983,0,0.0288,0.413,0.76,0.0808,0.773,144.949,4,bluegrass
+3q6whPZOFdGN4qAD4riCu3,Nickel Creek,Reason's Why (The Very Best),Helena,20,280760,False,0.525,0.535,9,-9.683,1,0.0264,0.0672,0.0,0.116,0.338,132.96,4,bluegrass
+6w23wsDSQWZbdFAXic8krw,The Infamous Stringdusters,Toward the Fray,Toward the Fray,20,162106,False,0.431,0.446,11,-8.97,1,0.0256,0.213,0.000813,0.203,0.354,95.907,4,bluegrass
+4vWyfagrb0TMBLrdm0ppT9,Kitchen Dwellers,Wise River,Wise River,23,233613,False,0.671,0.74,2,-4.936,1,0.0261,0.558,3.01e-05,0.123,0.489,110.027,4,bluegrass
+2AZvUtDpQ7BpX02NCmxRRl,Pickin' On Series,Pickin' and Singin' The Biggest Hits of the 1980s Vol. 1,Down Under,20,231720,False,0.739,0.694,4,-8.724,0,0.0345,0.333,0.000203,0.0906,0.668,110.897,4,bluegrass
+3TJAYJ7q71LBcSJ9ZELlkX,The Osborne Brothers,100 Greatest Bluegrass Hits,I'll Fly Away,20,144066,False,0.452,0.55,7,-11.174,1,0.0353,0.544,0.796,0.147,0.942,112.787,4,bluegrass
+6AEQqfqxnU4WjPHmAEfWlb,The Lil Smokies,Tornillo,World's on Fire,21,237158,False,0.287,0.677,9,-5.954,1,0.0362,0.248,0.014,0.254,0.371,156.475,4,bluegrass
+0uiQQlDpytEw0HXD1Xp0Bp,Leftover Salmon,Something Higher,Winter's Gone,21,207600,False,0.532,0.927,0,-6.416,1,0.0334,0.217,0.0263,0.348,0.943,129.952,4,bluegrass
+4mIHOzJ3POp5MqW6ds6NAT,Alison Krauss & Union Station,So Long So Wrong,"I'll Remember You, Love, In My Prayers",20,182360,False,0.568,0.742,11,-7.336,1,0.0313,0.277,0.00741,0.237,0.819,109.016,4,bluegrass
+3YuQ4JqcmaEkVAlTiy7b6B,Flatt & Scruggs,Changin' Times,"Don't Think Twice, It's Alright",20,200040,False,0.64,0.367,4,-16.178,1,0.0295,0.472,1.17e-05,0.218,0.742,107.679,4,bluegrass
+3bviXo8C7OAuhIA9U9cQMH,The Wood Brothers,Live at the Fillmore,Happiness Jones/Express Yourself - Live at the Fillmore,23,467680,False,0.533,0.819,2,-6.437,1,0.0625,0.0743,5.51e-05,0.903,0.686,88.897,4,bluegrass
+1XodYByr5agkSzQfjksHZN,The Infamous Stringdusters,Undercover,"Don't Think Twice, It's All Right",19,265180,False,0.541,0.793,4,-8.234,1,0.0332,0.266,0.197,0.265,0.684,127.321,4,bluegrass
+45BsSbx6XeQO4EI38yQa8k,The Avett Brothers,"Live, Vol. 3 (Live At Bojangles' Coliseum/2009)",Talk On Indolence - Live At Bojangles' Coliseum/2009,23,299346,False,0.367,0.94,7,-5.554,1,0.165,0.0102,0.000135,0.954,0.384,157.966,4,bluegrass
+3J1BQ2acB1OHTQKeI1cWkR,John Berry,Greatest Hits,Standing On The Edge Of Goodbye,21,245533,False,0.653,0.604,10,-8.601,1,0.0268,0.0119,0.0,0.0688,0.298,119.145,4,bluegrass
+0Lxhn074Z6oBj2raV3JxwZ,Yonder Mountain String Band,Elevation,If There's Still Ramblin' in the Rambler,20,166106,False,0.49,0.595,7,-7.456,1,0.0733,0.7,7.65e-06,0.059,0.807,164.616,4,bluegrass
+59qUyDgF79LTBVd0v8DYzt,Nickel Creek,Reason's Why (The Very Best),The Fox - Live From The Freight And Salvage/2000,20,559520,False,0.524,0.531,9,-11.767,1,0.046,0.805,0.0281,0.963,0.799,134.461,4,bluegrass
+3Slrku1pnNKxCT6VhVtp88,Hayseed Dixie,Hair Down to My Grass,Eye of the Tiger,20,228032,False,0.63,0.725,5,-6.921,1,0.0319,0.369,2.77e-05,0.0992,0.903,133.246,4,bluegrass

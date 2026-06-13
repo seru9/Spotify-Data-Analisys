@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2RIq8jJy01rwLYXTGuVILo,Jessé Aguiar;Misaias Oliveira,Estações,Estações,49,167850,False,0.647,0.69,4,-6.568,0,0.0413,0.237,0.0,0.351,0.521,118.963,4,gospel
+2DXAv8MRfb1uoJTF827CK0,Kleber Lucas,Aos Pés da Cruz,Deus Forte,50,276178,False,0.412,0.643,7,-8.444,1,0.0315,0.0595,0.0,0.972,0.373,85.425,4,gospel
+29ZrGQad8homm9iN5mZQlp,Isaias Saad,Sua Presença (Ao Vivo),Sua Presença - Ao Vivo,58,314154,False,0.457,0.633,3,-6.056,1,0.0315,0.408,0.0,0.345,0.224,137.956,4,gospel
+3oVtUUirowVa9DEtjazJVq,Nívea Soares;Isaias Saad,Só Existe Um Lugar (Ao Vivo),Só Existe Um Lugar - Ao Vivo,51,427917,False,0.489,0.674,2,-8.627,1,0.0362,0.0405,1.52e-06,0.644,0.18,131.963,4,gospel
+6V37HbGkTESO25ksBhRIxf,Casa Worship;Léo Brandão;Julliany Souza,Fumaça (Ao Vivo),Fumaça (Ao Vivo),50,408805,False,0.274,0.792,5,-8.035,0,0.0663,0.0657,0.0,0.681,0.212,134.471,4,gospel
+3prDqIeQ71JN430YOl55eB,Lukas Agustinho,Em Teus Braços (Acústico),Em Teus Braços - Acústico,52,255600,False,0.396,0.485,11,-8.249,1,0.0344,0.615,0.0,0.151,0.739,62.518,4,gospel
+6bA5Bt4d2drlsBOYAghABi,Isaias Saad;Theo Rubia,Eu Amo a Tua Glória (Ao Vivo),Eu Amo a Tua Glória - Ao Vivo,57,538613,False,0.368,0.519,9,-9.827,1,0.0448,0.598,1.11e-05,0.313,0.183,133.879,4,gospel
+0bMAWV9DDN2fllpvCtpzWl,Jefferson & Suellen,Vem Me Buscar (Ao Vivo),Vem Me Buscar - Ao Vivo,58,418698,False,0.423,0.74,3,-5.309,0,0.0344,0.0206,0.0,0.523,0.166,135.906,4,gospel
+1zJCjjA3FRdjPvf2Dex7u2,Cassiane,Vou Deixar na Cruz,Vou Deixar na Cruz,51,334692,False,0.292,0.67,5,-5.685,1,0.0395,0.56,0.0,0.0803,0.182,136.085,4,gospel
+7D5SHB5Qr6otVfXUh0jveD,Casa Worship;Julliany Souza,Seu Amor Me Persegue (Studio),Seu Amor Me Persegue (Studio),51,445970,False,0.364,0.603,6,-9.079,1,0.0356,0.0217,7.67e-05,0.0898,0.0886,133.784,4,gospel
+360gCLBRm4Caa50Vlbluhy,Luma Elpidio,Venho a Ti,Venho a Ti,53,346044,False,0.374,0.414,2,-7.161,1,0.0344,0.0549,0.0,0.112,0.196,124.211,4,gospel
+1HucuOdAhqUgPNgZJoFB3K,Rebeca Carvalho;Gabriela Rocha,Até te Encontrar (Ao Vivo),Até te Encontrar - Ao Vivo,55,576860,False,0.254,0.619,5,-6.779,1,0.0369,0.526,0.0,0.692,0.311,138.093,4,gospel
+41b11ruecN0x1CSaziBxGB,Anderson Freire;Midian Lima,"Aguente, Guerreiro","Aguente, Guerreiro",50,307750,False,0.327,0.542,2,-8.352,1,0.0523,0.129,0.0,0.0945,0.291,89.533,4,gospel
+0Y9nHU2Fhl76LHbRRmNQ6X,Fernanda Brum,Da Eternidade,O Que Sua Glória Fez Comigo,53,399243,False,0.279,0.597,2,-6.269,0,0.0398,0.405,0.0,0.697,0.365,140.192,4,gospel
+2OmZjKpXjbDWXEsw1JEy1x,Isaias Saad;LUDI,Seu Amor / Diante da Cruz,Seu Amor / Diante da Cruz,55,497600,False,0.333,0.24,4,-12.006,1,0.0312,0.836,4.72e-05,0.0963,0.251,71.374,4,gospel
+0NHPfnQMzg0GiwbC4SF2yR,Weslei Santos,O Que Meu Deus Vai Fazer,O Que Meu Deus Vai Fazer,53,269631,False,0.539,0.339,2,-10.969,1,0.0314,0.78,0.0,0.0889,0.29,121.815,4,gospel
+6ULtPMzIdsayMraZMs2KBV,Isadora Pompeo,Seja Forte,Seja Forte,51,253866,False,0.567,0.609,7,-5.453,1,0.0322,0.00399,2.67e-06,0.106,0.276,128.132,4,gospel
+5cS3LwObFvrv6Vfwge0D6R,Delino Marçal;Midian Lima,Você Não Imagina,Você Não Imagina,54,318020,False,0.504,0.526,4,-6.724,1,0.0317,0.273,0.0,0.15,0.342,116.349,4,gospel
+5h7e9eHY6RnP617D9zzzKb,Gerson Rufino,Sobrevivi,Vai Passar,51,332933,False,0.526,0.555,4,-4.789,1,0.0262,0.037,0.0,0.14,0.223,136.008,4,gospel
+47zHQVLf1JANzOYVX2bsVB,Davi Sacer,Foi Deus,Foi Deus,55,453941,False,0.612,0.492,10,-6.956,1,0.0476,0.435,0.0,0.559,0.5,117.878,4,gospel
+0ZCJLp30rQp6O0Rf6CDeuO,Gerson Rufino,10 Anos de Louvor,Dia de Sol,49,252026,False,0.704,0.654,7,-6.266,1,0.0291,0.65,0.0,0.315,0.318,97.564,4,gospel
+10dvxvLEh54eOaFr9bvofG,Fernandinho,Teus Sonhos (ao Vivo),Teus Sonhos - Ao Vivo,51,279906,False,0.384,0.787,7,-6.117,1,0.0371,0.00732,1.38e-06,0.746,0.332,147.988,4,gospel
+0cEUrAqLYJafXksIpIBov4,Aline Barros,Jeová Jireh,Jeová Jireh,51,390953,False,0.4,0.758,7,-7.683,1,0.0534,0.00438,0.0,0.229,0.114,133.928,4,gospel
+4DVIA9RLre5v407SeMerY3,Nívea Soares,Eu Vou Construir,Eu Vou Construir,52,409459,False,0.436,0.443,0,-10.068,1,0.029,0.357,0.0,0.362,0.314,139.701,4,gospel
+0T9jZM8wQ4524KS1hiWBje,Randy Travis,Country Christmas Time,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,gospel
+0dhpQeQ8LR4UEp9gugrITU,Diante do Trono,Diante do Trono (Ao Vivo),Aclame ao Senhor - Ao Vivo,51,455106,False,0.309,0.486,9,-8.155,1,0.0359,0.778,0.0,0.117,0.232,119.52,4,gospel
+2YOZHcypOnfbG5cfsSpW4N,Marcelo Markes;Sarah Beatriz,Redentor,Redentor,58,382272,False,0.43,0.706,0,-7.743,1,0.0538,0.235,0.0,0.107,0.085,131.816,4,gospel
+0wlDUClcs4OEQb7DLhlSHO,Rebeca Carvalho;Gabriel Guedes de Almeida,Adorarei (Ao Vivo),Adorarei - Ao Vivo,50,348706,False,0.294,0.478,6,-7.136,0,0.0361,0.204,0.0,0.126,0.287,135.97,3,gospel
+79WIhvQ5r22HEO4J7weobm,Fernandinho;Paula Santos,Acústico,Nada Além do Sangue - Acústico,50,388373,False,0.451,0.534,10,-5.511,1,0.0321,0.524,0.0,0.121,0.147,143.867,4,gospel
+7HSi0K1ryVMOC9T6fWKMK5,Randy Travis,Country Holiday,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,gospel
+7dGksgOyGuJ9QCNZhxxN5e,Valesca Mayssa;Stella Laura,De Janeiro a Dezembro,Dias de Guerra,51,294312,False,0.568,0.616,1,-5.372,1,0.0351,0.366,0.0,0.119,0.391,137.845,4,gospel
+57JAYiwPmU93oowUWKwrEF,Cassiane,Cassiane - Gospel Collection Ao Vivo,Com Muito Louvor,50,382014,False,0.359,0.681,10,-5.821,1,0.0361,0.528,0.0,0.665,0.324,138.701,4,gospel
+0hD0KWK4te47pXBRJXVbY4,Aline Barros,Deus do Impossível (Ao Vivo em Mojave Desert),Deus do Impossível (Ao Vivo em Mojave Desert),52,209293,False,0.326,0.429,7,-8.561,1,0.0358,0.51,7.85e-06,0.114,0.148,136.186,5,gospel
+22VpC56TcW8JL7oiCeEGJI,Valesca Mayssa,Árvore Cortada,Árvore Cortada,53,423915,False,0.387,0.458,5,-9.953,1,0.0344,0.297,0.0,0.117,0.346,138.32,4,gospel
+3iw959smgKf8scwjRCRjgZ,Kellen Byanca,Pode Dormir Tranquilo,Pode Dormir Tranquilo,52,288457,False,0.716,0.524,10,-5.097,1,0.0349,0.457,0.0,0.0733,0.273,125.822,4,gospel
+5ykUVPKww8cBxLC3ZbHABU,Jefferson & Suellen,Labareda (Ao Vivo),Labareda - Ao Vivo,54,269282,False,0.348,0.843,9,-6.963,1,0.08,0.116,0.0,0.105,0.306,133.038,4,gospel
+7zqF7owVpOCqpCd51iYyUJ,Isaias Saad;John Dias,Águas Purificadoras/Oceanos (Ao Vivo),Águas Purificadoras/Oceanos - Ao Vivo,55,398188,False,0.395,0.523,4,-8.592,1,0.0349,0.601,0.0,0.683,0.215,133.989,4,gospel
+3lo3fpR0BO8pe2z5UhbcZw,Randy Travis,Happy Country Christmas,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,gospel
+412DoidvZjwctMQeL5wK9D,Samuel Messias,Eu Não Perdi o Controle (Ao Vivo),Eu Não Perdi o Controle (Ao Vivo),51,437324,False,0.516,0.51,6,-9.462,1,0.0349,0.138,0.0,0.0721,0.332,123.648,4,gospel
+0rYFCbRb25YpQ7fx2Gnr6v,Marcelo Markes;Juliano Son,Tu És Fiel,Tu És Fiel,52,301276,False,0.314,0.449,1,-9.442,0,0.0281,0.23,6.35e-05,0.0939,0.127,140.443,3,gospel
+5yNfMRJ8byUpEscMcy1ZXb,Comunidade Evangélica de Maringá,Te Quero Mais Que Tudo,Descansarei,51,386773,False,0.461,0.405,0,-11.424,1,0.0289,0.262,0.0,0.606,0.139,139.877,4,gospel
+5qFhSnV9eDeYNOlCNPASK7,Gabriel Brito,Aprender Com a Vida,Não Adoro por Sinais,53,203264,False,0.598,0.463,11,-8.995,1,0.0285,0.588,0.0,0.114,0.382,130.015,4,gospel
+7BlLmanL024pf0doBknUi4,Gabriel Brito,Eu Não Sou Mais Órfão (Acústico),Eu Não Sou Mais Órfão - Acústico,54,208810,False,0.535,0.266,4,-8.483,1,0.0275,0.768,0.0,0.109,0.158,141.761,3,gospel
+2hqkibBr8jnh0SJgBSb6rE,Jozyanne,Esperança (Ao Vivo),Teus Olhos Revelam - Ao Vivo,50,298005,False,0.494,0.566,2,-6.724,1,0.0266,0.798,0.0,0.985,0.212,93.932,4,gospel
+5oaAx3LoQLdQvwUvneLJ5L,Aline Barros,Consagração,Consagração / Louvor ao Rei,53,381318,False,0.52,0.509,9,-9.116,1,0.0301,0.425,1.15e-06,0.082,0.321,119.991,4,gospel
+6CEXs4A3QhmQ4LLBXl096K,Nani Azevedo,Excelência,Adorador por Excelência,50,333546,False,0.376,0.364,9,-10.742,1,0.0347,0.817,0.0,0.794,0.389,179.995,4,gospel
+7vQVMorqtlcOD2vRqDTFgS,Gabriel Guedes de Almeida,Todos Os Meus Dias (Ao Vivo),Todos Os Meus Dias - Ao Vivo,53,204700,False,0.509,0.656,6,-7.574,1,0.0327,0.0315,2.12e-06,0.102,0.409,138.057,4,gospel
+6uIv3xIpgKduBWy350T5ty,Nívea Soares,Reino de Justiça (Ao Vivo),Que Se Abram os Céus - Ao Vivo,52,471733,False,0.498,0.644,9,-6.284,1,0.0339,0.0368,0.0,0.683,0.209,128.146,4,gospel
+3D04V5vUxtcanSIwVEIMW8,Ministério Apascentar de Nova Iguaçu,Basta uma Palavra Para Mudar - Trilha Sonora do Filme,Deus do Impossível,56,279057,False,0.418,0.452,5,-7.619,1,0.0304,0.762,0.0,0.822,0.225,139.261,4,gospel
+1YlCyC5mesTP4h2009JkCd,Jefferson & Suellen,Saudade de casa (Ao Vivo),Saudade de casa - Ao Vivo,50,321977,False,0.229,0.472,0,-8.51,1,0.0353,0.309,0.0,0.521,0.164,134.521,3,gospel
+7gHyZziBrTz4kGv9kGAyN2,Ministério Adoração e Vida,O Céu Se Abre,Hoje Livre Sou,50,271960,False,0.475,0.522,5,-3.32,1,0.0271,0.458,0.0,0.146,0.227,147.919,4,gospel
+5vui0rUNNhaYWzGKsYYq8H,Jeyzer Maia,Deus Não Falhará,"Espírito, Enche a Minha Vida",51,243250,False,0.421,0.186,2,-13.706,1,0.0344,0.827,0.0,0.149,0.355,123.398,4,gospel
+7r8eUoC7iw1GO9WfFYddKR,Lukas Agustinho,O Escudo + Sou Um Milagre (Ao Vivo),O Escudo + Sou Um Milagre - Ao Vivo,49,392240,False,0.368,0.487,9,-9.691,1,0.0444,0.338,0.0,0.0877,0.266,138.468,4,gospel
+3jZkidbmYvfTJLHRYQzh2g,Fernandinho,Teus Sonhos (ao Vivo),Vento Impetuoso - Ao Vivo,48,368013,False,0.278,0.621,1,-7.338,1,0.0417,0.0626,0.000127,0.917,0.16,145.932,4,gospel
+60Paotn7Sl6Zed8VWpKwg6,Fernandinho,Teus Sonhos (ao Vivo),Tudo é Possível - Ao Vivo,48,260853,False,0.279,0.732,5,-6.236,0,0.0346,0.0838,0.0,0.904,0.382,175.875,4,gospel
+35Rj63ivoluSehxgo9Nf6M,Deise do Vale,Ele É Deus,Ele É Deus,47,272226,False,0.515,0.704,7,-6.501,1,0.0538,0.629,0.0,0.365,0.201,145.986,4,gospel
+3BXYxSllo4ZsW2yeeSi8pQ,Bruna Karla,Deus Está Cuidando de Você,Deus Está Cuidando de Você,49,268887,False,0.576,0.458,2,-8.379,1,0.0264,0.0577,0.0,0.127,0.252,105.003,4,gospel
+6vA1FwRxArrlYJTCW5sxHi,Central 3;Gabriela Maganete;Rapha Gonçalves,Para Ti Eu Vou (Ao Vivo),Para Ti Eu Vou - Ao Vivo,50,601544,False,0.4,0.601,0,-6.879,1,0.0356,0.458,0.0,0.173,0.236,133.766,4,gospel
+476aDnrdzh6DQ2Xa4KSSwX,Midian Lima,Não Pare,Soldado Ferido,49,266193,False,0.494,0.672,6,-4.513,1,0.0434,0.222,0.0,0.15,0.237,131.868,4,gospel
+1Vkokw1TnFV6HEhyQ7OAB9,Theo Rubia,Um Milhão de Anos,Um Milhão de Anos,49,589233,False,0.459,0.494,7,-7.608,0,0.0341,0.0685,1.19e-05,0.105,0.0808,133.961,4,gospel
+5IW9WRaLxJblCkVXhC1vye,Nívea Soares;Gabriela Rocha,Vem (Ao Vivo),Vem - Ao Vivo,49,571013,False,0.358,0.65,7,-9.241,0,0.0429,0.0546,1.34e-06,0.641,0.226,144.037,4,gospel
+2O5QijC25ENqIc04YOsuw1,PG,Eu Sou Livre,Quem Sou Eu?,48,308128,False,0.579,0.632,0,-5.616,1,0.0282,0.369,0.0,0.805,0.223,134.06,4,gospel
+2JtIKFOdjw85nEgKqVK9Gn,Midian Lima,Sou Teu Deus,Sou Teu Deus,49,290481,False,0.484,0.524,4,-7.341,1,0.0539,0.455,0.0,0.134,0.218,127.701,4,gospel
+74x0zAixJTR1kaXQRzO9uJ,Gabriela Gomes,Vinde A Mim,Vinde A Mim,48,329262,False,0.423,0.574,4,-5.48,1,0.0375,0.026,0.0,0.075,0.12,145.824,4,gospel
+7abcm7Q3r2MKCTttMjIZo4,Sarah Farias,Vivendo a Novidade (Ao Vivo),Deixa Eu Te Usar - Ao Vivo,49,277840,False,0.202,0.629,9,-5.642,1,0.0354,0.195,0.0,0.362,0.285,53.353,4,gospel
+6G45Qr6vVxnHxX06qcGEp2,Gabi Sampaio;Nívea Soares,Teu Toque (Ao Vivo),Teu Toque - Ao Vivo,49,453930,False,0.435,0.612,7,-6.696,0,0.0393,0.601,1.01e-06,0.126,0.226,135.863,4,gospel
+3ZbbTKiMX1p7S1hUXtb9SO,Thiago Ramalho,Quando Te Vejo,Quando Te Vejo,48,194631,False,0.639,0.339,1,-10.937,0,0.0373,0.486,0.0118,0.155,0.176,127.91,3,gospel
+4mQ6f7PV6XaCDRzMtZFoZq,Midian Lima,Vai Ter Vida Aí,Vai Ter Vida Aí,49,270512,False,0.387,0.441,4,-9.177,1,0.0335,0.405,0.0,0.0985,0.305,94.658,4,gospel
+6TBhThiR54uzZqd8ftKF0E,Fabiana Sinfrônio,Tempo de Cantar,Tempo de Cantar,47,248639,False,0.534,0.482,7,-9.554,1,0.0294,0.0702,0.0,0.112,0.238,128.012,4,gospel
+44ia764XUgyUzPVHDALBYt,Fredy Miller,Minha Alma Anseia por Ti,Minha Alma Anseia por Ti,48,382339,False,0.421,0.323,7,-8.597,1,0.0293,0.615,0.0,0.115,0.25,131.982,4,gospel
+50RxCp8dmcpd5P66b95u68,Mari Borges;Sarah Beatriz,Outro Na Fornalha (Another In The Fire) [Ao Vivo],Outro Na Fornalha (Another In The Fire) - Ao Vivo,50,269840,False,0.557,0.758,7,-6.165,1,0.0414,0.324,3.34e-06,0.0838,0.192,129.924,4,gospel
+1ElihpcKELnES7MoJWA1LF,Nívea Soares,Este é o Som da Tua Noiva | Eu Só Quero Te Amar,Este é o Som da Tua Noiva | Eu Só Quero Te Amar,48,663370,False,0.302,0.486,5,-8.771,1,0.0287,0.234,2.26e-06,0.0967,0.194,136.712,4,gospel
+575A4uzmh4OIHn34wRD6Gy,Sued Silva,Foi a Mão de Deus,Foi a Mão de Deus,48,408181,False,0.37,0.53,2,-6.736,1,0.0402,0.0736,0.0,0.132,0.371,121.729,4,gospel
+0QsSiIX2ziSLY6TGqeqsco,Leandro Borges,Leandro Borges ao Vivo: Parte I,Cuida - Ao Vivo,48,232405,False,0.613,0.394,10,-10.175,1,0.0476,0.809,0.0,0.945,0.633,95.597,4,gospel
+0yNVFu81jqC3eAGgxLpddH,David Quinlan,Abraça-Me / Lindo És / Só Quero Ver Você,Abraça-me / Lindo És / Só Quero Ver Você,47,946474,False,0.423,0.603,7,-7.894,1,0.04,0.0994,5.1e-06,0.334,0.156,135.793,4,gospel
+6KP1I5Ep4itKNF3wCoBroL,Voz da Verdade,Coração Valente,Sou um Milagre,48,309533,False,0.573,0.56,7,-7.602,1,0.0358,0.722,0.0,0.348,0.25,129.81,4,gospel
+4o1mYiItCSE8Fqlx0rOVgs,Leandro Borges,Leandro Borges ao Vivo: Parte 2,Fica Tudo Bem - Ao Vivo,49,392801,False,0.458,0.724,9,-6.487,1,0.0546,0.314,0.0,0.676,0.369,135.744,4,gospel
+1pgHsf1WqOR7aCiqL3XYO7,Rose Nascimento,Primeiro Passo,No Silêncio,48,287506,False,0.414,0.633,8,-3.889,1,0.0334,0.644,0.0,0.107,0.281,127.986,4,gospel
+5Hr31kJatQNG33yW4EPj1z,Casa Worship;Julliany Souza,Seu Amor Me Persegue (Ao Vivo),Seu Amor Me Persegue (Ao Vivo),48,1035895,False,0.257,0.481,6,-10.054,1,0.0364,0.0959,0.000101,0.579,0.189,133.808,4,gospel
+6eGiN7AOFxQXhWkORV0E9f,Eli Soares,Memórias 2 (Ao Vivo),Aos Pés Da Cruz - Ao Vivo,49,262834,False,0.322,0.432,9,-10.434,1,0.0422,0.345,0.0,0.613,0.204,57.594,4,gospel
+45BbvslR0kdNkO79pDhAhM,Eyshila,Terremoto,Fiel a Mim,49,442015,False,0.351,0.533,7,-5.904,1,0.0291,0.634,0.0,0.413,0.266,90.002,4,gospel
+6tHyD9FHebvcf6Rj3EAk0v,Voz da Verdade,Projeto no Deserto,Pra Que,47,356653,False,0.483,0.331,4,-7.123,1,0.0267,0.733,2.65e-06,0.155,0.201,73.934,4,gospel
+3OqucjwU8VsOF6AzSd1XHi,Central 3,Para Ti Eu Vou (Ao Vivo),Para Ti Eu Vou (Ao Vivo),48,582314,False,0.427,0.736,0,-2.624,1,0.0366,0.438,6.72e-06,0.0706,0.119,134.002,4,gospel
+4EQKvkwNbvl3YV3kj8yqxJ,André e Felipe;Rebeca Carvalho,Meu Herói,Meu Herói,46,286956,False,0.384,0.648,4,-6.734,1,0.0365,0.0314,0.0,0.0883,0.261,146.153,4,gospel
+24Jh5ZcRVUQCFnWVO1j8DY,Gerson Rufino,Hora da Vitória,Eu Vou Vencer,48,311750,False,0.605,0.828,0,-4.932,1,0.0403,0.278,0.0,0.38,0.555,149.947,4,gospel
+2Mi2dFDnw7jpARNW0bAj4W,Discopraise,"Palavra, Som e Poder (Deluxe)",Ouvir o Teu Falar,48,487392,False,0.34,0.679,4,-4.598,1,0.0399,0.0554,0.0,0.486,0.266,139.606,4,gospel
+2mo5GxlIf33o4yOpQbAmdF,Marcelo Aguiar,Mais de Mil Razões,Me dá o Poder de Filho,47,221506,False,0.614,0.368,7,-7.507,1,0.0366,0.777,0.0,0.0911,0.346,119.873,4,gospel
+1dIah1UaJi3n5pwOaOd5QV,Adhemar De Campos;Nívea Soares,Comunhão e Adoração 6 (Acústico Ao Vivo),Grande é o Senhor - Acústico Ao Vivo,48,280880,False,0.262,0.339,2,-11.138,1,0.031,0.809,0.0,0.342,0.151,126.719,4,gospel
+3Dm6aXLhzureDjBZIqFYhK,Ministério Adoração e Vida,Hoje Livre Sou (Ao Vivo),Hoje Livre Sou - Ao Vivo,50,272133,False,0.52,0.501,5,-4.288,1,0.0256,0.608,0.0,0.112,0.372,76.003,4,gospel
+4y52IOOi2eSnO7V98wFANC,Ministério Adoração e Vida,Hoje Livre Sou (Ao Vivo),O Céu Se Abre - Ao Vivo,48,310253,False,0.303,0.577,11,-5.02,1,0.0327,0.403,3.49e-06,0.54,0.356,143.653,3,gospel
+6XDnRajLGcV3NUbL3fY3yM,Aline Barros,Consagração,Primeiro Amor,49,208608,False,0.649,0.434,9,-6.669,1,0.0317,0.452,0.0,0.0818,0.264,121.954,3,gospel
+3uZVW95wL46pTfHDzbaFUd,Gerson Rufino,Vem Cear Comigo,Vem Cear Comigo,48,243266,False,0.618,0.69,3,-4.311,1,0.0268,0.292,0.0,0.202,0.252,145.989,4,gospel
+1uoA57FMhP9QjZxIJZVEWo,Aline Barros,Minha Oração,Jeová Jireh,48,389820,False,0.398,0.754,7,-7.67,1,0.0541,0.00439,0.0,0.237,0.111,133.991,4,gospel
+6op6oqy6YayTHBwq9eikH6,Régis Danese,Família (Ao Vivo),Família - Ao Vivo,49,328413,False,0.461,0.292,7,-13.766,1,0.0306,0.66,0.0,0.296,0.171,129.679,4,gospel
+6rSNgGImNmGPcosJiPLgzs,Pedro Henrique,Descendência,Descendência,48,337416,False,0.525,0.665,11,-5.225,1,0.0443,0.0727,0.0,0.314,0.503,119.894,4,gospel
+3q6WrVUkLKpAwBfxKO87uX,Gerson Rufino,Reconstrução,Me Perdoe,48,243029,False,0.654,0.636,4,-6.273,1,0.032,0.465,0.0,0.226,0.429,137.961,4,gospel
+5GdKQayfNJloGuqAmZCRuA,Sarah Farias,Renovo,Só Quem Tem Raiz,47,303717,False,0.546,0.633,9,-9.865,1,0.0403,0.325,6.39e-06,0.0966,0.385,150.024,4,gospel
+32b1k1AKy89SsqjDRf1jPL,Amanda Ferrari,Eu Vejo Deus,O Relógio de Deus,48,299200,False,0.567,0.828,0,-3.24,1,0.0322,0.489,0.0,0.368,0.657,145.927,4,gospel
+2RTePbeArmBjQ4ZBZh0U1U,Gabriel Brito,Aprender Com a Vida,Aprender Com a Vida,49,258044,False,0.424,0.248,9,-9.764,1,0.0295,0.891,0.0,0.127,0.318,130.153,3,gospel
+15BIjaacvCfjggc0PKu07B,Aline Barros,Extraordinário Amor de Deus,Rendido Estou (Arms Open Wide),48,335621,False,0.269,0.461,2,-6.906,1,0.0323,0.0479,0.0,0.967,0.0751,169.671,4,gospel
+4ojzpqoerMJ6SDnzrWcHSn,Thalles Roberto,Sejam Cheios do Espírito Santo,Pai Eu Não Confio em Mim,47,359306,False,0.602,0.741,1,-3.308,0,0.0448,0.213,0.0,0.0861,0.571,120.024,4,gospel
+1fksdx1HllkoGuCo8lokIr,Pregador Luo;Trazendo a Arca,Música De Guerra - 1ª Missão,Já Posso Suportar,48,334320,False,0.62,0.69,5,-7.028,1,0.0481,0.27,0.0,0.147,0.435,84.006,4,gospel
+44BsTP3MwFY22X1YijTcHM,Suellen Brum,O Processo,O Processo,47,290816,False,0.642,0.642,2,-6.174,1,0.0339,0.362,0.0,0.379,0.502,125.999,4,gospel
+7eAm1mBCgg8iC9UIrxCe1U,Leonardo Gonçalves;Kemuel,comigo,comigo,46,293018,False,0.522,0.441,5,-10.005,1,0.0253,0.821,0.00191,0.106,0.315,81.051,4,gospel
+6YIzo8nufStVKUmyAt62Hx,Oficina G3,João,João,46,380212,False,0.435,0.902,7,-2.939,1,0.0505,0.00638,5.29e-06,0.199,0.273,142.892,4,gospel
+0yYgUPbdBnA4TmYOiD1lLc,Isaias Saad,Isaias Saad,Eu Também (100 Bilhões X),47,423306,False,0.432,0.383,9,-8.829,1,0.0302,0.276,0.00137,0.0867,0.0748,128.056,4,gospel
+30QU4RJntz98HlLOlkRgew,Sarah Beatriz,Canta,Canta,47,264697,False,0.228,0.634,8,-5.333,1,0.0354,0.145,0.0,0.0835,0.111,172.285,4,gospel
+5YmCD6XNHTWgQqoxwLGmHG,Elizeu Alves,Furioso Amor,Furioso Amor,47,411457,False,0.438,0.568,0,-8.865,1,0.033,0.089,0.0,0.0879,0.14,140.073,4,gospel
+1QrwPl2n8TeAmsgIPPAcxb,David Quinlan;Heloisa Rosa,Abraça-Me (Paixão Fogo e Glória) [Ao Vivo em BH],Abraça-Me - Ao Vivo em BH,47,847493,False,0.287,0.614,7,-7.714,1,0.0313,0.206,0.0,0.299,0.433,139.627,4,gospel
+3vUTz0lUcDLNUODDL58EPv,Anderson Freire,Transformação,Transformação,47,312726,False,0.423,0.565,1,-8.976,0,0.0368,0.244,2.79e-06,0.15,0.174,139.946,4,gospel
+2Jl0A8XA5n8wXDTzdKYL9D,Delino Marçal;Bruna Karla,Melhor Amigo,Melhor Amigo,46,335481,False,0.461,0.478,4,-6.77,1,0.0299,0.183,0.0,0.203,0.358,105.724,4,gospel
+4YGX0YEh54BUdaGHyYB6FZ,Trazendo a Arca,Toque no Altar (Ao Vivo),Faz Chover - Ao Vivo,46,378493,False,0.498,0.617,9,-6.98,0,0.0338,0.277,0.0,0.964,0.118,133.478,4,gospel
+71S1qLFhY5IoeQJ2Dri5tV,Alugiana,Santifica,Santifica,47,339013,False,0.512,0.877,6,-3.955,0,0.0541,0.514,0.0,0.274,0.541,133.562,4,gospel
+4KE3EfxxvBZwoLVB3gHCc2,Isaias Saad;Isadora Pompeo,Bem Perto (Ao Vivo),Bem Perto - Ao Vivo,47,426318,False,0.4,0.47,11,-7.564,1,0.0274,0.231,1.86e-06,0.117,0.183,140.906,4,gospel
+6qQBEy6IctIb8cm3Q4SG9E,Fernandinho,Acústico,Mais Alto - Acústico,46,273493,False,0.513,0.442,0,-7.597,1,0.0295,0.589,0.0,0.128,0.12,138.982,4,gospel
+0NHg798nLYDeJ2SuMbhCCj,Leandro Borges;Vanilda Bordieri,"Deus, Eu e Meu Violão",Cresça,47,323500,False,0.472,0.843,7,-5.27,1,0.0977,0.41,0.0,0.104,0.503,148.084,4,gospel
+5jztY2semlZDUkLAmwxq9f,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),Toca em Mim de Novo - Ao Vivo,47,273000,False,0.569,0.489,2,-8.387,1,0.0253,0.139,0.0,0.874,0.303,142.055,4,gospel
+1RlwQdnnfFYIIPEnYj6yI8,Eyshila;Weslei Santos,Mais Que Uma Voz / A Ele a Glória,Mais Que Uma Voz,47,242005,False,0.295,0.362,9,-5.63,1,0.0276,0.599,0.0,0.106,0.221,140.641,4,gospel
+0G59rX2uOta2lX83SfB8Rk,Aline Barros,Reino,Autor da Vida,47,295360,False,0.505,0.522,6,-7.366,1,0.0256,0.532,0.0,0.0963,0.389,139.992,4,gospel
+6FOZMPsV4o3dMj7juFrXMT,Juliano Son,Mais um Dia (ao Vivo),Vai Valer a Pena - Ao Vivo,47,297365,False,0.313,0.869,0,-4.113,1,0.0508,0.133,0.00174,0.703,0.221,127.875,4,gospel
+4ZeORjxZwqqXTZ5PnXmxjG,Canção & Louvor,Maravilhoso,Calmaria,46,266106,False,0.576,0.438,2,-6.202,1,0.0267,0.704,0.0,0.13,0.327,142.033,4,gospel
+3g4TegeapKCe6KnUC6XU0J,Ministério Vineyard,Vem Esta é a Hora,Me Derramar,46,350146,False,0.406,0.532,7,-7.612,1,0.04,0.201,0.0,0.262,0.327,116.124,3,gospel
+0gEsTYuqizT1P3pM8onUpJ,Tasha Cobbs Leonard,Soulful Christmas,O Holy Night,0,344727,False,0.298,0.463,7,-7.667,1,0.0309,0.576,0.0,0.104,0.138,52.132,4,gospel
+2aKeQY6U7nZI9qH2ykxg1a,Tasha Cobbs Leonard,Soulful Christmas,O Come All Ye Faithful,0,284146,False,0.266,0.5,5,-5.813,1,0.0334,0.607,1.26e-06,0.0746,0.192,141.028,4,gospel
+720Xp00zXTdDfGtT0KBMPQ,Gabriel Guedes de Almeida,Te Desejamos (Ao Vivo),Te Desejamos - Ao Vivo,47,320103,False,0.218,0.724,1,-7.363,1,0.0633,0.00732,0.0,0.102,0.189,159.758,4,gospel
+2ARVjHnMtYgxds5zkuVXfZ,Aurelina Dourado,Gospel Hits,Tá na Mão de Deus,46,266916,False,0.689,0.79,2,-4.876,1,0.0284,0.588,0.00181,0.089,0.747,145.067,4,gospel
+6M1mIjeq2kNvT8F2dHNugk,Marcos Antônio,Eterno Dependente,Pai,47,330804,False,0.655,0.574,6,-7.261,0,0.031,0.327,0.0,0.366,0.577,117.048,4,gospel
+5bNkTWNPZT0YrBjUiI6BHj,Gabriel Guedes de Almeida;Gabriela Rocha,Ele Vem (Ao Vivo),Ele Vem - Ao Vivo,47,518880,False,0.26,0.594,9,-6.845,1,0.0345,0.147,0.0,0.261,0.2,150.846,3,gospel
+3iCAoeQUcbK7bXmwbFV1N9,Heloisa Rosa,Eu Vou Correr,Eu Vou Correr,46,239013,False,0.554,0.722,4,-6.473,1,0.0325,0.00263,0.0,0.745,0.278,125.063,4,gospel
+6r10S0KFJcsw81QCtUnn7L,Oficina G3,Histórias e Bicicletas,Descanso,46,317323,False,0.467,0.771,7,-3.823,1,0.0336,0.0157,5.49e-06,0.129,0.206,139.91,4,gospel
+5eKHYWleV51jmRVtr6sAzY,Gerson Rufino,10 Anos de Louvor,Casa do Rei,46,267346,False,0.62,0.698,11,-6.358,1,0.0784,0.611,0.0,0.128,0.468,141.702,4,gospel
+0lpYmhJ6gE8VjmztONLVhs,Rose Nascimento,Pregador Antigo,Jó,47,292179,False,0.47,0.391,8,-9.124,1,0.0411,0.823,0.0,0.358,0.189,120.25,4,gospel
+1L6qk33dBMQwaD16OX9Ltn,Soraya Moraes,Céu Na Terra,Cadeias Quebrar (Break Every Chain),47,328853,False,0.363,0.63,9,-4.111,1,0.0401,0.485,0.0,0.088,0.155,135.067,4,gospel
+68McOe4uvV9uJlQVu65duX,Danielle Cristina,Fidelidade,Fidelidade,46,333146,False,0.423,0.66,2,-5.806,0,0.0367,0.831,0.0,0.11,0.201,152.022,4,gospel
+6laMXF1yMj9jCi8j4OSdoG,Adhemar De Campos;Orquestra Filarmônica de São Caetano do Sul,Comunhão e Adoração 6 (Acústico Ao Vivo),Ele É Exaltado - Acústico Ao Vivo,46,203360,False,0.184,0.401,0,-10.391,1,0.0296,0.753,1.2e-06,0.608,0.265,168.074,3,gospel
+21y8r2HgwGa3DnWFBrPJj6,Ministério Adoração e Vida,Hoje Livre Sou (Ao Vivo),Em Teu Altar - Ao Vivo,47,263560,False,0.604,0.567,4,-5.095,1,0.0236,0.715,0.000319,0.27,0.306,99.905,4,gospel
+2fK7vE5xZRvBAjKOOqkrSe,Eli Soares;Álvaro Tito,Memórias 2 (Ao Vivo),Não Há Barreiras - Ao Vivo,46,264164,False,0.565,0.526,9,-9.087,1,0.0578,0.518,4.47e-06,0.715,0.716,139.972,4,gospel
+5sF78pP6esVqbBuPErwTbs,Gerson Rufino,Bachata (Edição Histórica),Que Vença o Amor,46,242882,False,0.768,0.75,2,-3.003,1,0.0295,0.121,0.0,0.116,0.51,111.993,4,gospel
+5ShkPfQmBWA1BT2uqu8S7Q,Eyshila,Terremoto,Casa de Bênção,47,358051,False,0.485,0.444,0,-8.956,1,0.0296,0.505,0.0,0.753,0.267,94.77,4,gospel
+4R0KtYtVHNdqS91IyfUGW3,Lauriete,Tô Na Mão de Deus,Palavras,47,333053,False,0.332,0.71,8,-4.75,1,0.0384,0.239,8.85e-05,0.124,0.383,142.012,4,gospel
+0fO7XrdPkRXe7k0TzII9Br,Samuel Messias;Sarah Farias,Os Planos de Deus (Ao Vivo),Os Planos de Deus (Ao Vivo),46,392556,False,0.374,0.496,2,-8.615,1,0.038,0.444,0.0,0.0787,0.185,127.642,4,gospel
+2KezizwgtM5kC8ZQxcBf0T,Weslei Santos,Pra Todo Mundo Cantar (Ao Vivo),O Seu Amor por Mim - Ao Vivo,47,362734,False,0.459,0.399,6,-9.954,1,0.0339,0.433,0.0,0.682,0.374,139.792,3,gospel
+3UrnpCBQyiWGCbZvsJsdck,Renascer Praise,Renascer Praise 13: A Colheita,Eu Me Rendo,47,372826,False,0.245,0.579,11,-8.424,1,0.0311,0.0734,0.0,0.813,0.22,146.345,4,gospel
+06ZKQ9zWVEOR9C532mkj7K,Nívea Soares,Glória E Honra (Ao Vivo),Filho Do Deus Vivo - Ao Vivo,46,334400,False,0.517,0.873,1,-6.874,0,0.0349,0.00218,4.8e-05,0.95,0.246,133.982,4,gospel
+4bryIEI8nhqSeSqwMtuV9s,Comunidade Evangélica Internacional da Zona Sul,Rompendo em Fé.,Rompendo em Fé,46,352943,False,0.488,0.59,9,-8.525,1,0.0356,0.439,0.0,0.486,0.368,67.864,4,gospel
+715slv9zyByop7EttlmTjQ,Marcus Salles,Estamos de Pé (Ao Vivo),Estamos de Pé - Ao Vivo,46,396911,False,0.511,0.766,2,-7.403,1,0.0359,0.109,2.54e-05,0.72,0.331,104.046,4,gospel
+7zPds0jMIhjayTMhALd8FZ,Gabriel Brito,Incomparável Amor,Incomparável Amor,47,258812,False,0.563,0.438,7,-8.971,1,0.0295,0.444,4.33e-06,0.0778,0.145,125.901,4,gospel
+6L7edR8ePoAiOEthSAfeBD,Gerson Rufino,Reconstrução,Reconstrução,46,262143,False,0.769,0.718,0,-5.809,1,0.0241,0.234,0.0,0.168,0.725,105.015,4,gospel
+31iTzChKyBFJc7gzoQx8yz,Rose Nascimento,Primeiro Passo,Simplesmente Sobrenatural,47,287280,False,0.547,0.608,4,-4.364,1,0.0433,0.739,0.0,0.103,0.355,130.146,4,gospel
+73iM4TuuYXDB6NKIy0zZYn,Israel Salazar,Avante,Tudo O Que Me Prometeu,47,247500,False,0.504,0.92,7,-4.148,1,0.077,0.0884,1.19e-06,0.987,0.208,133.945,4,gospel
+3f3rZKrBx3GIrv64hVYK4S,DJ Matheus Lazaretti,Closer,Closer,47,148129,False,0.698,0.8,8,-5.872,1,0.0465,0.0745,3.12e-05,0.0978,0.36,127.987,4,gospel
+1dvXE4o62kwbukZcoCj7YT,Ministerio Ipiranga,Envia Tua Glória,Última Chance,45,358608,False,0.261,0.214,4,-9.989,1,0.0313,0.864,0.0,0.253,0.0658,112.047,4,gospel
+30ildQSiiB2W4CeiZ23oul,Elaine Martins,Santificação,Santificação,46,273438,False,0.496,0.867,7,-2.852,0,0.0408,0.41,0.0,0.111,0.45,150.064,4,gospel
+3alsIYiOE1PygAy2k8s2kO,Diante do Trono;Ana Paula Valadão,Águas Purificadoras - Diante do Trono 3 (Ao Vivo),Águas Purificadoras - Ao Vivo,46,965137,False,0.334,0.457,2,-8.338,1,0.0304,0.629,0.0,0.105,0.3,137.437,4,gospel
+4JJOLKyNrVeJhyDZt0MOSj,Jamily,Seleção De Ouro,Tempo de Vencer,46,240373,False,0.455,0.405,7,-12.193,0,0.0265,0.329,0.0,0.119,0.149,75.971,4,gospel
+7Iy6r0TWdhMUPfSspCGRKY,Damares,Apocalipse,A Batalha do Arcanjo,46,306173,False,0.645,0.738,1,-3.26,1,0.0336,0.42,0.0,0.285,0.465,141.05,4,gospel
+6URLR9SwPALBhLIURttw7v,Kemuel,Filhos Acústico,Me Lembro - Acústico,44,298481,False,0.452,0.299,7,-11.7,1,0.0407,0.794,0.0,0.046,0.233,78.769,4,gospel
+60T1wa5jdP7KXOp8nBAqsS,Kemuel,Infinito,Infinito,45,336000,False,0.402,0.488,1,-11.916,1,0.0379,0.0061,1.34e-06,0.575,0.216,140.018,4,gospel
+0Og4G1o2bGndQw3NDAbwKf,Rosa de Saron,Rosa de Saron: Acústico e ao Vivo,Te Louvo em Verdade (Acústico) - Ao Vivo,48,278280,False,0.428,0.472,3,-8.32,1,0.0306,0.131,0.0,0.772,0.2,89.928,4,gospel
+5fQYoR7st5kgsDw174m7UB,Marquinhos Gomes,Ele Não Desiste de Você (Ao Vivo no Via Show Rio de Janeiro),Ele Não Desiste de Você - Ao Vivo,46,330506,False,0.387,0.753,0,-5.281,1,0.0372,0.189,0.0,0.257,0.249,139.878,4,gospel
+0DHpr7eLBrRZvlXa4sNwhd,Diante do Trono;Ana Paula Valadão,Aleluia - Diante do Trono 13 (Ao Vivo),Canção do Apocalipse - Ao Vivo,46,437386,False,0.352,0.478,7,-6.8,1,0.033,0.5,0.0,0.12,0.0761,123.219,4,gospel
+4v5aGcoGfj22PEr53NJOHN,Gabriela Rocha,Juntos Em Adoração (Live 2020),"Oh, Quão Lindo esse nome é / Só Tu és Santo / Pra Te adorar - Live 2020",45,748206,False,0.284,0.824,4,-4.244,1,0.0781,0.00712,0.000345,0.0855,0.165,138.044,4,gospel
+0fT9IAbwcA2zHAZHvKR4MC,Stella Laura;Valesca Mayssa,Preciso Confiar,Preciso Confiar,46,288496,False,0.661,0.529,8,-5.33,1,0.0312,0.648,0.0,0.132,0.328,121.892,4,gospel
+2XzfX9mvl3eg8UM5VhYAJX,Damares;Canção & Louvor,O Leão,O Leão,45,267398,False,0.63,0.749,7,-5.147,0,0.0744,0.14,0.0,0.0666,0.573,75.891,4,gospel
+1YffYMKpricZh02Sh5nTMK,Lukas Agustinho,Redentor (Ao Vivo),Redentor - Ao Vivo,45,349267,False,0.312,0.632,7,-6.027,1,0.0507,0.0377,0.0,0.116,0.342,134.106,4,gospel
+5G0VKvMNCOFgOd7NmGOS3K,Leonardo Gonçalves,Ressurreição: Inspiracional,Getsêmani,46,306580,False,0.533,0.496,8,-9.373,1,0.0474,0.721,4.64e-06,0.164,0.268,129.948,4,gospel
+1nNIr4oOXhBn6vWSsE6hu2,Kleber Lucas;Fernandinho,Meu Alvo,Meu Alvo,44,281890,False,0.421,0.893,10,-7.19,1,0.0664,0.0363,0.0,0.976,0.281,136.028,4,gospel
+3vddabBsXcvoerPkIlDHDF,Central 3;André Aquino,Tudo a Ver Com Ele (Ao Vivo),Tudo a Ver Com Ele - Ao Vivo,46,429127,False,0.372,0.658,7,-6.531,1,0.0404,0.329,0.0,0.688,0.212,136.975,4,gospel
+3jOeKEYMrgj6RHxEYfH7dI,Thalles Roberto;André Valadão,"Uma História Escrita pelo Dedo de Deus, Vol. 2 (Ao Vivo)",Deus Me Ama - Ao Vivo,45,540120,False,0.289,0.715,5,-6.686,1,0.0497,0.0483,0.0,0.812,0.343,146.043,4,gospel
+3IcKMQszCEB2xxcip1tSqP,Kiara Vitória,Despreocupa,Despreocupa,45,310635,False,0.498,0.582,2,-5.62,1,0.031,0.512,0.0,0.246,0.308,134.886,4,gospel
+7gvMCmfFPtS1LY1PSWdmKT,Paulo Cesar Baruk;Leonardo Gonçalves,Santo Espírito (Holy Spirit) (feat. Leonardo Gonçalves) [Ao Vivo],Santo Espírito (Holy Spirit) (feat. Leonardo Gonçalves) - Ao Vivo,46,513960,False,0.426,0.618,4,-7.159,1,0.0396,0.625,5.55e-06,0.484,0.209,135.963,4,gospel
+34eIa3zQ23bCWreWLilUS7,Marquinhos Gomes,Não vou duvidar,Não vou duvidar,45,207826,False,0.646,0.782,11,-4.422,1,0.0366,0.634,0.0,0.128,0.641,137.883,4,gospel
+3wqZT4IwifLk6vVN4gZdGT,Esther Marcos;Marcelo Markes,Bom Bom Pai,Bom Bom Pai,46,308946,False,0.549,0.326,11,-9.176,1,0.0282,0.693,7.09e-06,0.181,0.339,144.894,4,gospel
+566q5nUowuz0IokqAHcO4A,Jhonas Serra,Tu És a Fogueira (Ao Vivo),Tu És a Fogueira - Ao Vivo,46,429197,False,0.408,0.821,11,-5.31,0,0.0468,0.000627,0.0,0.365,0.221,137.002,4,gospel
+308mpl3G2FseXxGEjtyLIW,David Quinlan,Fogo e Glória (Ao Vivo em Curitiba),Abra os Olhos do Meu Coração - Ao Vivo em Curitiba,46,511226,False,0.333,0.765,4,-7.748,1,0.0431,0.0173,0.0,0.191,0.411,111.734,4,gospel
+7fpvwvVR2zhNaWUAUDXznF,Marcelo Markes,Melhor Lugar: Sessão Acústica,Melhor Lugar: Sessão Acústica,46,252874,False,0.335,0.298,8,-12.329,0,0.0328,0.859,0.00183,0.109,0.105,126.957,4,gospel
+3HBifoZvJ5ThoUuYdHpKpr,Sued Silva,Onde Está Sua Fé?,Onde Está Sua Fé?,46,308096,False,0.581,0.588,5,-5.658,1,0.0338,0.444,0.0,0.113,0.432,113.93,4,gospel
+3pbMslIWYuQaNhT3WIqc4I,Deise do Vale,Tempo de Deus (Playback Incluso),Gadareno,45,282640,False,0.536,0.699,8,-6.009,0,0.0557,0.667,0.0,0.37,0.287,139.895,4,gospel
+1J17nBsbh9HWVvtJFsAPYb,Leandro Borges,Era Deus (Ao Vivo),Era Deus - Ao Vivo,46,283257,False,0.335,0.825,11,-7.009,1,0.0636,0.254,0.0,0.416,0.495,136.005,4,gospel
+6ECXghsnWoGD85eOcuPWUX,Kellen Byanca;Kiara Vitória,Ele Não Mudou,Ele Não Mudou,45,269183,False,0.559,0.632,8,-4.869,1,0.0309,0.105,0.0,0.15,0.31,133.816,4,gospel
+0A60DIXd4RoIB6l25wFgo5,Aline Barros,Guarda Tua Fé (Ao Vivo Em Los Angeles),Guarda Tua Fé (Ao Vivo Em Los Angeles),45,250586,False,0.587,0.419,6,-8.807,1,0.0272,0.761,0.0,0.116,0.372,98.837,4,gospel
+5Pgt3FSjtVOz8BCkquMnCB,Gisele Nascimento,Minha História,Minha História,45,276549,False,0.541,0.512,6,-6.918,1,0.039,0.526,0.0,0.114,0.221,126.013,4,gospel
+467iefma0LTxEA2EiuQeNN,Israel Salazar;Gabriel Guedes de Almeida,Salazar (Ao Vivo / Deluxe),Canção Ao Cordeiro - Ao Vivo,46,365206,False,0.393,0.532,1,-11.796,0,0.0412,0.0122,0.0,0.111,0.225,133.993,4,gospel
+5pqLVH7nAvrTO9W4VIWI18,Marquinhos Gomes,Senhor da Terra,Senhor da Terra,46,275961,False,0.406,0.764,11,-6.49,1,0.0398,0.151,0.0,0.378,0.349,77.546,4,gospel
+18sMrc6WLXCCxG1i8BLpCz,Palavrantiga,Esperar é Caminhar,Vem Me Socorrer,45,334622,False,0.552,0.574,4,-8.179,1,0.0371,0.387,0.0,0.178,0.486,105.98,4,gospel
+2cgCsP1m4K4tilrfRw9nM3,Cassiane,Não Posso Desistir,Não Posso Desistir,44,216918,False,0.601,0.541,5,-7.023,1,0.0422,0.319,0.0,0.173,0.348,128.942,4,gospel
+0yH7RR6CPpidfHe6KD15WV,Oficina G3,Depois da Guerra,Meus Próprios Meios,45,292478,False,0.49,0.967,0,-3.68,0,0.085,0.000863,4.19e-06,0.0901,0.374,159.998,4,gospel
+6SbSZHFTrjx61IaRLbEU1n,Marcos Freire;Anderson Freire,Ainda é Tempo (feat. Anderson Freire),Ainda é Tempo (feat. Anderson Freire),45,205000,False,0.495,0.56,11,-6.605,0,0.0387,0.155,0.0,0.121,0.308,139.75,4,gospel
+5j4efyqEcrNX74JQJOmToB,Kiara Vitória,Despreocupa,Despreocupa,46,310635,False,0.499,0.581,2,-5.614,1,0.0309,0.513,0.0,0.243,0.318,134.823,4,gospel
+31j38rRemGuqA4z83EQduw,Weslei Santos,Unplugged,Me Deixe Aqui,46,277692,False,0.583,0.217,4,-15.357,1,0.0404,0.859,7.47e-05,0.104,0.261,77.805,4,gospel
+1Zo5U3cJVRLhYCXhm8TMV8,Jhonas Serra,"Yeshua, Nós Te Amamos (Ao Vivo)","Yeshua, Nós Te Amamos - Ao Vivo",45,354087,False,0.452,0.856,6,-5.495,0,0.0539,0.000561,0.0,0.43,0.0907,137.001,4,gospel
+6teaCqn4Izl1Af1ErKcUjQ,Renascer Praise,Renascer Praise 13 - A Colheita,Eu me Rendo,45,373005,False,0.358,0.568,11,-8.402,1,0.029,0.0719,0.0,0.746,0.23,150.013,4,gospel
+3bujX7WKALRQGlVLEg2QSZ,Israel Salazar;André Aquino,Salazar (Ao Vivo / Deluxe),Aviva-Nos - Ao Vivo,46,491200,False,0.325,0.591,11,-9.517,1,0.0349,0.1,4.85e-05,0.0957,0.141,73.914,4,gospel
+5TqUmeZKb2MJUMrqY39nmS,Trazendo a Arca,Olha pra Mim,Senhor e Rei,45,503786,False,0.373,0.429,9,-7.992,1,0.0286,0.152,0.0,0.905,0.238,137.783,4,gospel
+20pxoRoue8oz2dbOzR5ydc,Gerson Rufino,10 Anos de Louvor,Com Ele,44,267120,False,0.608,0.544,9,-5.879,1,0.0282,0.498,1.15e-06,0.114,0.345,140.005,4,gospel
+43pllzWnKSGTw4XCvoNlG8,Rodolfo Abrantes,O Dia Que Será Pra Sempre,Dia Quente,45,301013,False,0.618,0.392,6,-7.29,1,0.0288,0.818,0.0,0.107,0.367,143.924,4,gospel
+5l0ZKLOBQDoag51oWfjWI2,Adhemar De Campos;Pregador Luo;Fernandinho;Nelson Bomilcar;Rodrigo Campos;Rachel Novaes;Ronaldo Bezerra;Davi Sacer;Soraya Moraes;Luiz Arcanjo;Ana Paula Valadão;David Quinlan;Christie Tristão;Daniel Souza;Massao Suguihara;Nívea Soares;Orquestra Filarmônica de São Caetano do Sul,Comunhão e Adoração 6 (Acústico Ao Vivo),Tributo a Yehovah - Acústico Ao Vivo,45,435733,False,0.535,0.715,9,-10.259,1,0.12,0.215,0.0,0.722,0.361,101.992,4,gospel
+5Soke8VrytkoSA44NABRHa,Voz da Verdade,Filho de Leão,Renova-me,45,290786,False,0.448,0.504,2,-4.278,1,0.0257,0.453,0.0,0.259,0.224,76.952,4,gospel
+2ZjJ8Vs3EvpNwLvIzroB4U,Rose Nascimento,Sempre Fiel,Deus Está Contigo,46,255746,False,0.644,0.57,7,-7.204,1,0.0326,0.785,0.0,0.118,0.326,129.993,4,gospel
+6NO0Up4grjlWcprtv4H4dN,Ministério Sarando a Terra Ferida,Deus do Secreto.,Deus do Secreto,45,370172,False,0.466,0.619,6,-5.061,1,0.0298,0.404,0.0,0.988,0.167,125.898,4,gospel
+7BS9guU5q1fzQX1ZQUTYto,Fernanda Brum,Cura-me,Cura-me,45,310590,False,0.46,0.604,11,-5.26,0,0.035,0.332,0.0,0.0743,0.136,145.963,4,gospel
+3VSH4Sf48KMwRzt788M5B7,Damares,Apocalipse,Apocalipse,44,402826,False,0.596,0.752,2,-2.41,1,0.0497,0.444,0.0,0.141,0.529,145.961,4,gospel
+31l0uEAqkZ8RQGE43l61GT,Kemuel;Rebeca Carvalho,Carta de Amor (Ao Vivo),Carta de Amor - Ao Vivo,44,371250,False,0.322,0.632,6,-6.371,1,0.0364,0.0742,0.0,0.104,0.183,127.726,4,gospel
+7KR3rQJtJviqmloUwYK86T,Fernandinho,Uma Nova História (ao Vivo),Fogo Consumidor - Ao Vivo,44,448466,False,0.425,0.759,9,-5.179,1,0.0366,0.13,0.0,0.192,0.276,154.896,4,gospel
+7aqbM1anoTfbbQKQqwMrER,Midian Lima,Midian Lima Live Session,Prioridade,45,251611,False,0.44,0.489,4,-8.725,1,0.0392,0.254,0.0,0.709,0.239,94.026,4,gospel
+4WCywozuuSXGl3CscRHVD5,Dunamis Music;Rapha Gonçalves;MORADA,The Send Brasil (Ao Vivo),Só Tu és Santo / Pra Onde Eu Irei? / É Tudo Sobre Você - Ao Vivo,45,896445,False,0.246,0.84,0,-4.713,1,0.0591,0.127,0.0,0.222,0.14,136.73,4,gospel
+3rXgbjVLoaHEUq82dbCP0f,Rodrigo Azevedo;Fernandinho,Volta Logo Jesus,Volta Logo Jesus,45,229052,False,0.366,0.533,9,-6.501,1,0.0316,0.195,0.0,0.101,0.296,135.683,4,gospel
+05K51VGmcBMeKzCB88aIOV,Kleber Lucas,Aos Pés da Cruz,Vou Seguir com Fé,43,243159,False,0.76,0.911,0,-8.193,1,0.0456,0.119,0.0,0.611,0.785,112.163,4,gospel
+38xsb628AajcMiMOXr3MR6,Diego Karter,Recomeçar,Recomeçar,45,230792,False,0.524,0.489,9,-8.908,1,0.0347,0.73,1.1e-05,0.12,0.233,86.042,4,gospel
+5weBaK9j2ugb2vUnf00osY,Jhonas Serra;Gabriell Júnior,Encontrei o Meu Lugar (Ao Vivo),Encontrei o Meu Lugar - Ao Vivo,45,406024,False,0.423,0.784,4,-6.015,0,0.0533,0.111,0.00017,0.947,0.288,131.957,4,gospel
+3uUjBFoJUO9dE7vZmVh6E7,Deise do Vale,Ele É Deus,Palavra de Deus,44,259226,False,0.509,0.666,0,-4.606,1,0.0411,0.625,0.0,0.117,0.125,138.003,4,gospel
+12WLT3O9PvyLDPz65JcWmk,Fernandinho,Galileu (ao Vivo),Batiza-Me - Ao Vivo,44,408133,False,0.462,0.588,9,-6.404,0,0.0296,0.215,6e-06,0.598,0.146,141.151,4,gospel
+2C8aTCVZAiPad7Tb9CsVjD,Rodolfo Abrantes,De Malas Prontas,De Malas Prontas,44,394353,False,0.59,0.489,9,-7.864,1,0.0259,0.124,0.0269,0.0926,0.302,79.974,4,gospel
+3CEntclq2oGD3AkwWsoTgJ,Fernandinho,Santo (ao Vivo),Cria Em Mim - Ao Vivo,44,352000,False,0.414,0.613,11,-8.727,1,0.0341,0.00195,4.42e-05,0.0896,0.103,150.077,4,gospel
+3yc4ioKMDoCW1QwzD5C9oC,Marcelo Markes;André Aquino,Melhor Lugar (Ao Vivo),Melhor Lugar - Ao Vivo,45,510982,False,0.401,0.724,3,-6.614,1,0.0351,0.0757,4.17e-06,0.838,0.144,136.425,4,gospel
+3xpAO0neyFYUCawAfOhMA6,Anderson Freire,Identidade,Colisão,45,228066,False,0.56,0.666,4,-6.523,1,0.0321,0.448,0.0,0.232,0.686,138.041,4,gospel
+2Wq0tckaShVrpW1faaFJCF,AO Cubo,Respire Fundo (Acústico),1980 - Acústico,46,383407,False,0.497,0.799,4,-4.763,1,0.395,0.142,0.0,0.94,0.588,80.224,4,gospel
+7uNbu1BgkWXTA1nZRX9fZb,Shirley Carvalhaes,Há uma Saída,Há uma Saída,44,408840,False,0.604,0.768,2,-4.718,1,0.0437,0.169,0.0,0.282,0.426,151.348,4,gospel
+2y9ZH3fIZoiH01RlhlmmCA,Fabiana Sinfrônio,Deus Está Fazendo,Deus Está Fazendo,45,266294,False,0.701,0.372,4,-10.517,1,0.0362,0.414,0.0,0.0829,0.109,114.976,4,gospel
+0v9mFL6DK8xiyJWNPYjXca,Jozyanne,Eu Tenho a Promessa,Abra os Meus Olhos,44,336271,False,0.479,0.693,9,-5.845,0,0.0442,0.242,0.0,0.922,0.352,139.93,4,gospel
+1PG8orLQrHI2pUvcb9JfHY,Gabriel Guedes de Almeida,"Oh, Quão Lindo Esse Nome É","Oh, Quão Lindo Esse Nome É",45,246727,False,0.463,0.207,9,-13.791,1,0.0386,0.905,1.07e-05,0.0756,0.103,67.475,4,gospel
+7cU0PtlmCWolIieowxvdhd,Jéssica Augusto;ONE Service,Aba Pai,Aba Pai,45,430193,False,0.321,0.62,4,-8.253,1,0.0477,0.215,0.0,0.653,0.406,144.569,4,gospel
+2a8V54o2V6QdgofUotLu9f,Fernandinho,Faz Chover (ao Vivo),Faz Chover - Ao Vivo,44,758533,False,0.37,0.73,2,-4.265,1,0.0379,0.72,0.0,0.26,0.324,143.209,4,gospel
+1KRamNG1BZ192vALVBasZU,Aline Barros;Comunidade Evangélica Internacional da Zona Sul,Rompendo em Fé,Rompendo em Fé,44,289459,False,0.436,0.673,9,-4.64,1,0.0311,0.348,0.0,0.11,0.232,133.844,4,gospel
+6Aj8jLNU5ZY699OxF21e6S,Eyshila;Fernandinho,Tu És Bom (Em Todo o Tempo),Tu És Bom (Em Todo o Tempo),45,352965,False,0.381,0.563,7,-8.896,1,0.0353,0.514,2.12e-06,0.0828,0.198,151.934,4,gospel
+0blRKZuaGlLtbdo2wgiIK1,Isadora Pompeo,Primeira Canção (Música dos Passarinhos),Primeira Canção (Música dos Passarinhos),45,193453,False,0.784,0.427,2,-9.073,1,0.0356,0.473,0.0,0.225,0.607,125.928,4,gospel
+1EUm3fTMaakB3KdffkvCZk,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),Preciso Entender - Ao Vivo,44,237333,False,0.634,0.401,8,-10.877,1,0.0273,0.0707,0.0,0.973,0.321,139.813,4,gospel
+1xwny28AvZuFEgQfUN5ldD,Klebson Kollins,Vem Neste Lugar (Ao Vivo),Vem Neste Lugar - Ao Vivo,45,306250,False,0.377,0.578,10,-7.623,1,0.0342,0.141,0.0039,0.13,0.0509,130.011,4,gospel
+67TQGw4cZzFD33j4KJcOdQ,Cassiane,Para Sempre,Vou Seguir,43,282633,False,0.509,0.396,8,-11.166,1,0.0335,0.542,1.21e-06,0.127,0.436,140.071,4,gospel
+0P73ytAPCC75fK8uXryskh,Cassiane,Não Pare Agora,Não Pare Agora,43,269775,False,0.521,0.534,2,-7.343,1,0.04,0.436,0.0,0.129,0.168,138.119,4,gospel
+0zGnDcTwcR85dMKmhftA0C,Jefferson & Suellen,Segura Na Minha Mão,Segura Na Minha Mão,44,391895,False,0.384,0.502,7,-6.905,1,0.0321,0.486,0.0,0.511,0.147,130.042,4,gospel
+4jgf64qE9glFPlDbi06w1I,Armando Filho,Nenhuma Condenação,Nenhuma condenação há,43,321013,False,0.595,0.545,9,-6.144,1,0.027,0.53,0.0,0.229,0.215,105.103,4,gospel
+0oAksCragvUN6QRcAIMic9,Damares,Diamante (2010),Sacrifício e Adoração,45,345933,False,0.433,0.631,8,-5.395,1,0.0318,0.284,0.0,0.0957,0.334,142.144,4,gospel
+5f1aVfi9nYxMHpcA6h0wOK,Samuel Messias,Planos de Deus,Você não vai Parar,45,249475,False,0.484,0.397,9,-7.792,1,0.0341,0.828,0.0,0.326,0.21,126.192,4,gospel
+06hScW2F8wdPVjlagETKdC,Trazendo a Arca,Olha pra Mim,Olha pra Mim,43,392866,False,0.342,0.572,7,-6.713,1,0.0348,0.281,0.0,0.792,0.234,129.615,4,gospel
+49cP1TSysfYkF5UOKF6evN,PG,Eu Sou Livre,Eu Vou Passar pela Cruz,44,306596,False,0.345,0.659,0,-5.271,1,0.0351,0.209,0.0,0.966,0.201,80.689,4,gospel
+7cUyVxIT8JiDsVhdqeB3QP,Leandro Borges,Leandro Borges ao Vivo: Parte 2,O Chamado - Ao Vivo,44,261440,False,0.464,0.372,10,-9.754,1,0.121,0.744,0.0,0.764,0.488,178.798,4,gospel
+4mmOFgvbHW2NVWrj2tulMZ,Pedro Henrique,Não Precisa Mais Chorar,Não Precisa Mais Chorar,45,260190,False,0.573,0.271,10,-9.598,1,0.0274,0.483,0.0,0.122,0.314,125.173,4,gospel
+3Goq1S2nVTYg1B42CE8Dd6,Voz da Verdade,Além do Rio Azul / Coração de Cera (Série Dupla),Além do Rio Azul,43,241560,False,0.337,0.445,0,-6.577,1,0.0289,0.645,0.0,0.0839,0.32,81.2,4,gospel
+43gu1CX4K2wdXWVvufsZv7,Casa Worship;Julliany Souza;MOVER,Seu Amor Me Persegue,Seu Amor Me Persegue (Studio),44,445970,False,0.364,0.603,6,-9.079,1,0.0356,0.0217,7.67e-05,0.0898,0.0886,133.784,4,gospel
+3eWGXDRk1SH0tyWFWReRpm,Pr. Lucas,Ostras Feridas,Ostras Feridas,45,296936,False,0.526,0.534,4,-7.226,1,0.0295,0.165,0.0,0.118,0.302,121.966,4,gospel
+3kF5VGbKlNlczAm3HCkxpT,Rosa de Saron,Acústico,Do Alto da Pedra,46,279120,False,0.538,0.757,8,-5.622,1,0.037,0.0055,0.0,0.104,0.298,123.914,4,gospel
+6w4lAMYb7PFHjhBk93GdtK,Klebson Kollins,Impressionante,O Verbo (Alfa e Ômega),45,268444,False,0.243,0.696,9,-6.216,1,0.0451,0.109,0.00135,0.0577,0.136,135.119,4,gospel
+5aulWAWeV1uSJUJmDGmrw7,Gerson Rufino,O Fracasso Não É o Fim,O Fracasso Não É o Fim,44,289906,False,0.629,0.713,1,-2.518,1,0.0488,0.489,0.0,0.143,0.488,145.997,4,gospel
+4c2OHigULUHASnUdOEO7HQ,Valesca Mayssa;Bruna Karla,De Janeiro a Dezembro,Forma de Cuidado,44,244273,False,0.493,0.589,3,-5.857,0,0.0377,0.327,0.0,0.076,0.322,126.246,4,gospel
+1K5m17FWj8qIIrqpbHwouS,Elaine de Jesus,Muito Especial,Na Unção de Deus,44,301146,False,0.442,0.459,1,-10.625,1,0.0409,0.415,5.13e-06,0.105,0.224,76.867,4,gospel
+5n2S5HSEs2iLV5ro1tc7bL,Jefferson & Suellen,Ele Reina (Ao Vivo),Ele Reina - Ao Vivo,44,326869,False,0.402,0.641,6,-7.217,1,0.0392,0.17,0.0,0.367,0.192,117.973,4,gospel
+28DfsE7LbIicNQY4DPJDk5,Gabriel Brito,Seja o Centro,Seja o Centro,45,211506,False,0.51,0.346,1,-7.442,1,0.029,0.429,0.0,0.379,0.31,76.089,4,gospel
+1MzORbkElxoIubxMl0MqAr,Gabriel Brito;Filipe Lancaster,Me Atraiu (Acústico),Me Atraiu - Acústico,44,202127,False,0.587,0.214,8,-10.045,0,0.0273,0.773,0.0,0.11,0.217,139.847,4,gospel
+2GHQ6x1hPJqZZPIkNk7wgK,Gabriel Brito,Enquanto Eu Te Espero,Enquanto Eu Te Espero,44,336173,False,0.551,0.652,0,-7.087,1,0.0264,0.283,0.00197,0.073,0.142,129.962,4,gospel
+2ERHYDQRKZSb5GHv21nnbc,Lauriete,Vou Profetizar,Sete Trombetas,44,331093,False,0.594,0.651,9,-5.484,0,0.0394,0.62,0.0,0.0782,0.397,140.02,4,gospel
+1RNCTxPw7NDPcIUOHzuOb9,Kemuel,Clássicos,Eu Navegarei,43,190041,False,0.403,0.267,9,-9.673,0,0.0263,0.804,0.0,0.135,0.26,92.052,4,gospel
+7s9KzKesyHu8dZyTZ5Rn1i,Fabiana Sinfrônio,Fabiana Sinfrônio - Louvorzão 2022 (Ao Vivo),Eu Sei Que Não Estou Só (Ao Vivo),44,186969,False,0.549,0.42,4,-11.249,1,0.0319,0.754,0.0,0.5,0.416,96.471,4,gospel
+574pBc93Hwmzows86H5fSx,Heloisa Rosa,Liberta-Me,Jesus É o Caminho,43,268561,False,0.481,0.409,5,-7.973,1,0.0278,0.0578,0.00238,0.233,0.294,136.008,4,gospel
+1e499bdVlXsKTd29C2GX95,Fred Arrais,Live Sessions,Tu És Bom (You Are Good) - Ao Vivo,44,512000,False,0.286,0.455,8,-7.888,0,0.0335,0.448,3.34e-05,0.13,0.103,137.057,3,gospel
+58wQ5quXCton56WxkXZWLA,Os Arrais,Ele é,Ele é,45,306386,False,0.525,0.311,0,-9.395,1,0.0256,0.42,2.06e-05,0.253,0.192,77.014,4,gospel
+1eK1ZyBymaRWFcZBjY8dmL,Rebeca Carvalho;Lukas Agustinho,Leão (Ao Vivo),Leão - Ao Vivo,44,345253,False,0.481,0.679,4,-7.596,0,0.0437,0.612,0.00223,0.0786,0.181,133.93,4,gospel
+4uJTecbkoIyPH4Ka7u9ENk,Gabriela Gomes;Rapha Gonçalves,Deus De Perto,Deus De Perto,44,389639,False,0.357,0.599,4,-6.351,1,0.0414,0.108,0.0,0.103,0.215,139.684,4,gospel
+3d1noLzR4D3dkUyVuqvLc2,Projeto Vida Nova de Irajá;Tati Teixeira Campos,Jesus Messias,Quão Grande é o Meu Deus,43,292320,False,0.442,0.615,6,-6.528,1,0.0287,0.455,0.0,0.73,0.2,75.998,4,gospel
+7xICC4cuIDw6p8fMk4ltdo,Aline Barros;Christine D'Clario,Redención,Redención (Redenção),44,273488,False,0.218,0.467,9,-7.747,1,0.0308,0.0386,0.0,0.171,0.229,136.743,4,gospel
+37GYyTGRnPcP01Ff7ziOoi,Eyshila,Na Casa de Deus,Posso Clamar,44,324104,False,0.509,0.556,6,-5.83,1,0.0297,0.576,2.81e-05,0.901,0.409,131.968,4,gospel
+4MnEvCz1PWVC9o4l3KhQHA,Gabriela Rocha,Leão (Ao Vivo),Leão - Ao Vivo,44,286875,False,0.482,0.832,1,-6.947,0,0.0474,0.00284,0.0,0.349,0.22,134.012,4,gospel
+4ErhOgJwZOTI59NXimTmSN,Lorhann,Continuando,Calma (Todo Dia Mal Passa),44,222625,False,0.408,0.373,2,-7.649,1,0.0355,0.843,0.0,0.188,0.428,121.948,4,gospel
+4j6z2ZWATIxUHFNpFsAL7l,Fernandinho,Galileu (ao Vivo),Dono do Mundo - Ao Vivo,43,374400,False,0.398,0.532,11,-5.967,1,0.031,0.358,1.24e-05,0.43,0.0674,139.913,4,gospel
+66ukyUZ0ygPwha3SIl7LkH,Gabriela Rocha,Até Transbordar (Ao Vivo),Eu Sou Teu (Rooftops) - Ao Vivo,44,414120,False,0.528,0.774,6,-5.87,1,0.037,0.00297,2.03e-06,0.158,0.213,99.985,4,gospel
+7frJTPBH4qaatdpJXJfjB5,Antonio Cirilo,Poderoso Deus,Poderoso Deus,44,889066,False,0.447,0.32,2,-10.914,1,0.0306,0.813,0.0,0.176,0.148,124.428,4,gospel
+5qQYeV15IMHX0dqcgLa1zB,Cristo Vivo,Fé em Canto (Acústico),Teu Reino - Acústico,44,326794,False,0.572,0.5,9,-8.48,1,0.029,0.315,3.57e-06,0.574,0.162,135.86,4,gospel
+0qXSq3Tmf72L1MtAK8c3YU,André Valadão,Fé (Ao Vivo),Abraça-Me - Ao Vivo,44,311066,False,0.514,0.594,7,-6.022,1,0.0272,0.063,0.0,0.239,0.306,78.0,4,gospel
+4CpZ0tluVXhe13GEPPzIdg,Theo Rubia;AC Music,MFD - Manifestação dos Filhos de Deus (Ao Vivo),Um Milhão de Anos - Ao Vivo,44,436119,False,0.459,0.61,7,-7.836,0,0.033,0.00623,0.0,0.0763,0.109,134.08,4,gospel
+6zbMyzItlZIQbSwYbyk0MN,Shirley Carvalhaes,O Mínimo de Mim,O Mínimo de Mim,43,248571,False,0.379,0.676,11,-3.501,1,0.0396,0.604,0.0,0.186,0.234,139.43,4,gospel
+3ulqNw1j3ylD2HBUJnK2C4,Diante do Trono;Ana Paula Valadão;MORADA,Cantem no Caminho (Ao Vivo),Cantem no Caminho - Ao Vivo,44,447001,False,0.401,0.605,11,-6.967,1,0.0331,0.0561,7.47e-05,0.521,0.229,141.779,4,gospel
+3gJEo5miQMVaGtHEXhZCCG,Banda Giom;Anderson Freire,Identidade,Primeira Essência (Jardim Particular),44,280125,False,0.431,0.589,4,-5.833,1,0.0297,0.562,0.0,0.354,0.204,148.189,4,gospel
+2uUeFEF4hmM0rjFfvA4nxF,André Valadão,Que Se Abram Os Céus,Que Se Abram Os Céus,44,307944,False,0.608,0.427,2,-9.294,1,0.0289,0.726,0.0,0.0762,0.223,128.041,4,gospel
+0bTeNbDzGLsRRcHpk66HAe,Fernandinho,Santo (ao Vivo),Eu Vou Amanhecer - Ao Vivo,43,348692,False,0.543,0.739,11,-7.16,0,0.0393,0.00531,1.65e-06,0.104,0.293,67.512,4,gospel
+58JbyiEMEfi9SfOAmnvyeV,Marina De Oliveira;Novo Som;Alex Gonzaga;PG;Jozyanne;Brother Simion;Marquinhos Gomes;Fernanda Brum;Banda & Voz;Ellas;Cassiane;Rayssa e Ravel;Raquel Mello;Eyshila;Kleber Lucas,Marina de Oliveira - Gospel Collection Ao Vivo,Unidos Pelo Amor,43,182508,False,0.34,0.74,2,-6.24,1,0.0442,0.0248,0.0,0.962,0.492,147.762,4,gospel
+1vilS08qiLlRb8ndSYL4ux,Aline Barros,O Poder do Teu Amor,Recomeçar,43,255066,False,0.431,0.6,11,-6.494,1,0.065,0.485,0.0,0.106,0.292,192.297,4,gospel
+7oI40EwoWgUTpE28SCStdS,Aline Barros,Aline Barros e Cia,Homenzinho Torto,44,167137,False,0.611,0.636,9,-6.031,1,0.0853,0.182,0.0,0.125,0.933,110.039,4,gospel
+5CIBPhKt3X7oLNO3jdBR39,Ministério Adoração e Vida,Hoje Livre Sou (Ao Vivo),Gratidão - Ao Vivo,45,254533,False,0.536,0.325,5,-7.192,1,0.0273,0.796,2.46e-05,0.363,0.322,73.026,4,gospel
+79uspTY5GVI0EOBsnWAjxx,Trazendo a Arca,Olha pra Mim,Lembra Senhor,43,467213,False,0.444,0.419,7,-8.345,1,0.0353,0.189,0.0,0.864,0.302,126.956,4,gospel
+695722v5GPk2Uml2Tgv5ly,Ministério Vineyard;Nívea Soares,"Vem, Esta É a Hora (Ao Vivo)",Meu Respirar - Ao Vivo,44,355160,False,0.299,0.416,0,-9.065,1,0.0318,0.662,0.0,0.707,0.131,119.512,4,gospel
+5QdrB78t2pyqfWha9RWdR6,Oficina G3,Depois da Guerra,Continuar,44,267540,False,0.35,0.716,9,-4.95,0,0.0357,0.131,0.0,0.147,0.201,175.915,3,gospel
+20584cOW5iCFidIfC1Un8a,Kiara Vitória;Kellen Byanca,De Joelhos,De Joelhos,43,300128,False,0.589,0.563,10,-6.39,1,0.0289,0.65,0.0,0.121,0.366,136.052,4,gospel
+6jZeCjc01WUhtMwEmQLlhg,Oficina G3,Histórias e Bicicletas,Água Viva,44,379367,False,0.294,0.89,8,-2.877,1,0.0747,0.0019,7.14e-06,0.081,0.239,114.727,4,gospel
+51vDZKthBfkjyjmq4XpkRV,Discopraise,"Palavra, Som e Poder (Ao Vivo)",Ouvir o Teu Falar - Ao Vivo,44,404613,False,0.32,0.766,4,-4.828,1,0.0403,0.0317,0.0,0.309,0.198,139.581,4,gospel
+5g3tq4BTYSNSPueWgXq2KU,Marcus Salles,Estamos de Pé (Ao Vivo),Estamos de Pé - Ao Vivo,44,396911,False,0.511,0.766,2,-7.403,1,0.0359,0.109,2.54e-05,0.72,0.331,104.046,4,gospel
+5nlTbPMCpCCEr7zXaRbvlq,Rose Nascimento,Para o Mundo Ouvir,Seguirei,44,221026,False,0.604,0.576,8,-5.976,1,0.0364,0.527,2.8e-05,0.0897,0.309,124.249,4,gospel
+4kNbUaQeaG8pc2W82ukGyh,Sarah Farias,Renovo,Renovo,43,348856,False,0.495,0.403,9,-12.057,1,0.0299,0.124,0.0,0.177,0.318,140.122,4,gospel
+0aSSZ1je1cXpIWZWZFcpu1,Cristina Mel,Aguenta,Aguenta,44,297983,False,0.427,0.614,7,-3.595,1,0.0325,0.573,0.0,0.183,0.191,127.393,4,gospel
+1NwKNiyfbuCaMS3IZBcrCI,Cassiane;Damares;Elaine de Jesus;Lauriete,100 Anos do Movimento Pentecostal,Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Benção / A Mensagem da Cruz - Ao vivo,43,835400,False,0.363,0.747,2,-4.448,1,0.0975,0.307,0.0,0.944,0.332,150.94,4,gospel
+0QREJTgU7wZNFPXa9TDloo,Shirley Carvalhaes,Tudo Sobre Mim,Vendavais,43,267626,False,0.517,0.531,2,-7.664,0,0.0369,0.129,0.00017,0.564,0.232,71.989,4,gospel
+6VRU7PGKvnI9ioGe0o7Rce,Rosa de Saron;Leonardo Gonçalves,Lunação,Sobre a Dúvida,45,279881,False,0.45,0.802,2,-4.531,1,0.0401,0.0165,0.0,0.243,0.306,144.025,4,gospel
+759PEyOJs59vSUBfd3qf6B,Fabiana Anastácio,Sou Eu,Sou Eu,44,290266,False,0.738,0.78,1,-3.802,1,0.0329,0.479,0.0,0.127,0.901,127.946,4,gospel
+3Gf2BZwDDs6UNXInEgIkdo,Gerson Rufino,Não Preciso de Licença,Além Da Medicina,43,173200,False,0.697,0.455,7,-7.745,1,0.106,0.476,0.0,0.186,0.427,145.963,4,gospel
+6Y3emyEoOhX606RZCrOkla,Paulo Neto,Não Foi Por Acaso,Não Foi Por Acaso,44,265914,False,0.514,0.665,5,-3.76,1,0.0396,0.679,0.0,0.212,0.328,97.814,4,gospel
+27YQDARCxhQ9jOsVH6ICfX,Samuel Messias;Midian Lima,A Promessa Está de Pé (Ao Vivo),A Promessa Está de Pé (Ao Vivo),43,314542,False,0.388,0.528,5,-7.492,1,0.0335,0.172,0.0,0.106,0.249,90.999,4,gospel
+6WmlPRkJH68P7tmkFuQe3z,Ministério Vineyard,Vem Esta é a Hora,Senhor Te Quero,44,277893,False,0.507,0.676,7,-8.192,1,0.0326,0.677,1.35e-05,0.677,0.513,130.834,4,gospel
+4Cv0zyNdOe46nuIablBQf1,Rose Nascimento;John Nascimento,Uma Questão de Fé,O Tempo de Deus (feat. John Nascimento),45,247053,False,0.584,0.615,6,-4.424,1,0.0304,0.764,0.0,0.149,0.394,115.991,4,gospel
+5wsijRILO8cyYVpM0G0EIw,Lauriete,Tô Na Mão de Deus,Deus dos Deuses,44,272813,False,0.354,0.75,3,-4.373,1,0.0506,0.364,0.0,0.0875,0.487,149.673,4,gospel
+5R0xj5he44K9pSZoljwXy7,Gabriel Brito,Perfeito Amor,Perfeito Amor,44,261426,False,0.445,0.499,4,-7.045,1,0.0266,0.433,0.000818,0.0902,0.142,150.129,3,gospel
+2zsBzaQiHi7oaOCVpYBUxN,Gabriel Brito,Incomparável Amor (Acústico),Incomparável Amor - Acústico,44,173871,False,0.494,0.206,7,-8.657,1,0.0323,0.822,3.13e-06,0.236,0.276,125.89,4,gospel
+2xpotltTAOvJbWJgJKCUoI,Nívea Soares,Glória E Honra (Ao Vivo),Em Tua Presença - Ao Vivo,43,790360,False,0.224,0.619,4,-7.102,0,0.0393,0.0321,1.15e-05,0.77,0.0946,156.045,4,gospel
+1FvGtid4hstXGTMqZWHAHM,Juliano Son,Livres ao Vivo em São Paulo,Milagres - Ao Vivo,43,434468,False,0.265,0.656,0,-6.486,1,0.036,0.0096,0.000277,0.27,0.0691,143.864,4,gospel
+5gjfhL8mRK8cW6nQn4YvmN,Régis Danese,Compromisso,Compromisso - Ao Vivo,43,268200,False,0.482,0.379,9,-13.64,1,0.037,0.361,0.0,0.752,0.234,128.12,4,gospel
+3PWzBVskGNV5YRThi0Sxh8,Bishop Larry Trotter;Sweet Holy Spirit,What's 2 Come is Better Than What's Been!!,The Lord Is Blessing Me,42,288413,False,0.552,0.99,5,-7.171,0,0.0516,0.0235,0.000238,0.896,0.61,123.84,4,gospel
+1IumZkgfXrd3czjGGWVzX6,Mauro Henrique,Em Teus Braços,Em Teus Braços,43,358500,False,0.645,0.462,0,-6.133,1,0.0274,0.272,7.75e-05,0.11,0.384,139.835,4,gospel
+39D5UK3cTAqnDwA8YJTncv,Fernandinho;Mariah Santos;Paula Santos,Se Tiveres Fé,Faz Chover,42,238882,False,0.429,0.436,6,-9.377,0,0.0317,0.0604,0.0,0.13,0.203,155.751,4,gospel
+2kq2ScpL7OelKExwi5ZEUC,Central 3,Não Há Outro Lugar (Ao Vivo),Não Há Outro Lugar (Ao Vivo),44,805687,False,0.403,0.73,4,-2.79,0,0.0356,0.21,5.4e-05,0.552,0.225,141.075,4,gospel
+3m0CtqEbzclwKxit7C48T3,LUDI,Seu Amor: YOUnique (Acústico),Seu Amor: YOUnique - Acústico,43,444976,False,0.493,0.412,7,-8.94,0,0.0439,0.829,0.0,0.0978,0.252,126.431,4,gospel
+1yYFR3mLtGDzg6EAVBwndk,Waguinho,Todos Os Sambas Ao Vivo,Mina De Fé,42,250746,False,0.527,0.681,8,-7.765,1,0.0616,0.187,0.0,0.113,0.606,154.518,4,gospel
+0DUJZXdp0XGbRafeTKA3TJ,Fernanda Brum,Quebrantado Coração,Quebrantado Coração,44,202663,False,0.63,0.351,9,-8.697,1,0.0368,0.661,9.29e-06,0.102,0.134,109.95,4,gospel
+4vMd1LC7zj9APcJDQ2rUSI,Fernandinho,Santo (ao Vivo),Foi Graça / Maravilhosa Graça - Ao Vivo,43,361542,False,0.398,0.618,11,-8.206,1,0.0328,0.000705,0.000101,0.131,0.137,99.974,4,gospel
+7LXJorEhjuKbh2xwMp5RaA,Bruna Karla;Anderson Freire,Identidade,Identidade,43,267168,False,0.413,0.853,4,-6.529,0,0.0633,0.188,0.0,0.413,0.364,167.915,4,gospel
+7rbTPCGi631Rlke1hfHGkv,Oficina G3 e Roberto Diamanso,Histórias e Bicicletas,Encontro,43,380389,False,0.429,0.836,0,-2.158,1,0.0444,0.00336,1.06e-05,0.204,0.311,147.979,4,gospel
+5iM0mfAZx3H6G8D2ZCejWz,Matheus Balo,Eu Digo Sim,Eu Digo Sim,43,279428,False,0.53,0.476,5,-7.671,1,0.0332,0.285,4.72e-06,0.106,0.452,139.684,4,gospel
+7cxtTxDyoNF702NTOuIwH1,J Neto,A Harpa Cristã (Interpretada por J Neto),O Rei Está Voltando,42,286313,False,0.212,0.408,9,-8.162,1,0.0325,0.764,0.0,0.111,0.365,76.225,3,gospel
+1E38eHLqVkXPsDEQBCUAna,Fernandinho,Galileu - Ao Vivo (Deluxe),Seu Nome é Jesus - Ao Vivo,42,211466,False,0.373,0.852,4,-6.162,0,0.0424,0.131,0.000228,0.528,0.149,173.914,4,gospel
+0oU6WaQyw8PBT8ctvwYWp1,Fernandinho,Santo (ao Vivo),Ao Teu Encontro / Manso e Suave - Ao Vivo,42,563725,False,0.193,0.457,0,-7.803,1,0.0289,0.00574,0.0,0.264,0.0988,150.814,4,gospel
+06oiTaBptIjCGLbtWd6Rlx,Israel Salazar;Gabriel Guedes de Almeida,Canção Ao Cordeiro (Ao Vivo),Canção Ao Cordeiro - Ao Vivo,43,365206,False,0.393,0.532,1,-11.796,0,0.0412,0.0121,0.0,0.111,0.225,133.997,4,gospel
+3IGrdj1sjV19PjVU1S3bmq,Gabi Sampaio,Rei do Meu Coração,Rei do Meu Coração,43,419832,False,0.337,0.645,9,-5.376,1,0.0351,0.277,0.0,0.061,0.198,140.402,4,gospel
+4yhJHhXYQz7uVT2ZmgS6oF,Irmão Lázaro,Meu Mestre,Meu Mestre - studio,42,321813,False,0.685,0.415,2,-8.135,1,0.0283,0.714,0.0,0.113,0.396,135.877,4,gospel
+0MVjVxZHphWNA5uAx2kwjY,Adhemar De Campos,"Momentos de Louvor, Vol. 1 (Ao Vivo)",Ele É Exaltado - Ao Vivo,42,210651,False,0.179,0.353,0,-13.377,1,0.0323,0.385,0.0,0.694,0.268,182.76,3,gospel
+2NW7fS4Xq3RDjfvZNtUfE6,Fernandinho,Santo (ao Vivo),Ele Está Comigo - Bônus,42,300342,False,0.239,0.558,5,-6.146,0,0.035,0.154,0.0,0.116,0.146,177.982,3,gospel
+5oFLARfYC6YY4lXNRqssl7,Aline Barros,Amo Você Vol. 13,Soube que me Amava (Supe que me Amabas),43,263174,False,0.446,0.481,11,-4.407,1,0.0279,0.491,0.0,0.119,0.208,127.494,4,gospel
+4DqMjreua66sH84GbccttX,Daniela Araújo;Isadora Pompeo,Dono dos Meus Dias,Dono dos Meus Dias,43,239946,False,0.626,0.529,9,-8.652,0,0.0256,0.202,0.00031,0.0966,0.509,92.979,4,gospel
+5ubgAizDbpIWezMZ2W9Nwt,Samuel Mariano,Deus Escrevendo,Deus Escrevendo,43,371020,False,0.619,0.669,5,-5.745,1,0.0369,0.625,3.58e-06,0.157,0.335,133.948,4,gospel
+7nfgm6YX6iesrEcHSAlc3S,Kleber Lucas,Pra Valer a Pena,Não Posso Te Deixar,43,270419,False,0.688,0.315,7,-12.365,1,0.0258,0.381,0.0,0.107,0.189,107.977,4,gospel
+4jH3S2TzxyLhME0PYnNtX7,Jhonas Serra,Se Até os Anjos se Prostram,Se Até os Anjos se Prostram,44,456268,False,0.453,0.637,0,-9.042,1,0.0336,0.282,0.57,0.0752,0.315,133.968,4,gospel
+71QsjhliwsjvUKiZsK5EtV,Elaine de Jesus,Pérola,Terremoto Santo,42,248058,False,0.405,0.723,7,-6.328,1,0.0933,0.135,0.0,0.138,0.478,173.904,4,gospel
+2YLjYH5J0QileuzCKISVdq,Régis Danese,Sinta Deus Cuidando de Ti,Sinta Deus Cuidando de Ti,43,246250,False,0.716,0.517,1,-7.717,1,0.0309,0.209,0.0,0.0837,0.552,129.942,4,gospel
+6SqZpvMfE3VlK5DFyRs1Wn,Damares,Diamante (2010),Na Mesa do Rei,43,289720,False,0.418,0.688,11,-5.206,1,0.0472,0.397,0.0,0.165,0.316,145.365,4,gospel
+11T9Noeo8ypJnw1igF1Fgk,Voz da Verdade,Projeto no Deserto,Projeto no Deserto,42,378426,False,0.667,0.869,0,-5.865,1,0.035,0.34,1.41e-05,0.0696,0.535,95.183,4,gospel
+6mB30by6NLprtBHdZAKStz,Deise do Vale,Tempo de Deus (Playback Incluso),Congresso Celestial,42,303826,False,0.503,0.717,11,-5.188,0,0.0421,0.48,0.0,0.122,0.205,141.858,4,gospel
+2no1DZkhMXgtV9h6cDE2v8,Valesca Mayssa,De Janeiro a Dezembro,Tá nas Mãos de Deus,43,262501,False,0.565,0.505,5,-6.019,1,0.0301,0.668,0.0,0.153,0.454,126.045,4,gospel
+1GPRgnSUZcUe6xWG1fJwwy,Mattos Nascimento,Harpa Cristã,Que Mudança,42,159764,False,0.578,0.334,7,-9.627,1,0.0286,0.0162,3.88e-06,0.294,0.698,175.282,4,gospel
+4REZYGhSITpkC8xUiHAi2T,André e Felipe;Casa Worship;Julliany Souza;Léo Brandão,Em Meu Coração,A Sós (feat. Léo Brandão),42,267409,False,0.457,0.722,3,-4.597,1,0.0337,0.132,0.0,0.107,0.476,139.926,4,gospel
+0u9Qzq28dKJ5evkPWGqSef,Armando Filho,Final Feliz,O Mover do Espírito,42,215200,False,0.607,0.546,4,-10.374,1,0.0618,0.809,0.0,0.251,0.69,136.422,4,gospel
+39EapDoz0JHCTSDXqMgy1M,Fredy Miller,Não Mais Escravos,Não Mais Escravos,43,288141,False,0.244,0.684,10,-7.798,1,0.0384,0.0188,0.000585,0.239,0.135,73.085,4,gospel
+20G3uusQFoaVtrz22X0AP0,Casa Worship;Léo Brandão;MOVER,Momentos,Pródigo,43,320602,False,0.545,0.613,6,-8.874,1,0.0273,0.111,5.53e-06,0.0943,0.16,83.17,4,gospel
+6b4KNIsMmd3J5pR9BG2pes,Rosa de Saron,Acústico,As Dores do Silêncio,44,264240,False,0.651,0.47,11,-7.977,1,0.0301,0.0875,0.0,0.0936,0.334,123.793,4,gospel
+78cr0qeJPJbyBUFlbm8OsW,Cassiane e Jairinho,O Amor é Mais,Por Amar Você,42,264289,False,0.521,0.537,0,-8.137,1,0.0306,0.347,0.0,0.124,0.296,139.928,4,gospel
+3UFZkGoRoqZD2gp0ayZlM7,Canção & Louvor,Profetizando Vida,Dependente,43,270791,False,0.647,0.459,2,-6.737,0,0.0331,0.586,0.0,0.19,0.201,135.824,4,gospel
+6v4GqtFO8sXdWNRECvujTA,Gerson Rufino,10 Anos de Louvor,Sozinho Jamais,42,317226,False,0.651,0.652,2,-4.907,1,0.0319,0.492,0.0,0.115,0.331,73.5,4,gospel
+5XWANb1t35rvZLytVAnEXo,Aline Barros,Caminho de Milagres,Poder Pra Salvar (Mighty to Save),43,359166,False,0.529,0.831,4,-3.876,1,0.0511,0.455,0.0,0.808,0.382,149.813,4,gospel
+2Cjet4ZcH0dVaed5goGV2x,Gerson Rufino,Deus Vai na Frente,Vai dar Tudo Certo,42,259306,False,0.68,0.54,7,-6.813,1,0.0253,0.393,0.00128,0.121,0.42,147.947,4,gospel
+4JC9oW25aChBHuzlillvkh,Gabriel Guedes de Almeida,My Sessions,Oceanos,43,283596,False,0.51,0.204,7,-12.534,1,0.0338,0.967,0.00681,0.0748,0.188,120.05,4,gospel
+4zmRo7Flwb6bzx2J0Yel6Q,Samuel Messias,Planos de Deus,Teu Amanhã Será Melhor que Hoje,43,250961,False,0.28,0.512,0,-6.932,1,0.029,0.347,0.0,0.108,0.494,80.795,1,gospel
+1u7ZkLH2r19lpcuneYXHH6,Rodolfo Abrantes,R.A.B.T.,Nível Raso,43,253253,False,0.593,0.661,4,-6.685,0,0.0343,0.00024,0.000109,0.104,0.452,140.026,4,gospel
+3BnIiO2HsaJaflkX8BNBIf,Gabriel Brito,Eu Tenho um Pai,Você Cresceu,43,177738,False,0.529,0.271,2,-8.401,1,0.0283,0.89,0.00163,0.0649,0.406,138.015,3,gospel
+68OIrQO6TMi9rrsQYs4Fw8,Novo Som;Catedral,Mais Que Amigos = Irmãos (Ao Vivo),Chame a Deus - Ao Vivo,42,251373,False,0.375,0.624,9,-5.043,1,0.0313,0.282,0.0,0.65,0.159,136.944,4,gospel
+4awRg8VFzaSxRnYKSLeI6d,Gabriela Rocha;Mariana Valadão,Juntos Em Adoração (Live 2020),Braços do Pai / Em Teus braços - Live 2020,43,618676,False,0.279,0.489,10,-6.429,1,0.0383,0.0864,6.54e-05,0.101,0.125,133.42,4,gospel
+4fJA1xvjFB4hLy0LRapmXX,Fernandinho,Galileu - Ao Vivo (Deluxe),Pra Sempre - Ao Vivo,42,380040,False,0.344,0.687,0,-5.548,1,0.0363,0.454,0.000655,0.605,0.091,143.823,4,gospel
+0C1DEVNH2WCyn6tfvvDdEy,Isaias Saad,Espírito Vem,Espírito Vem,43,328330,False,0.414,0.48,0,-8.519,1,0.0329,0.274,0.000687,0.073,0.155,148.087,4,gospel
+0fJCqXR03FOhhlry5SCja9,Ministério Nova Jerusalém,Tua Unção,Tua Unção,42,357819,False,0.478,0.611,7,-6.102,1,0.0332,0.485,0.0,0.868,0.319,141.991,4,gospel
+0yIBJr118iSEQz8L2SxWQj,Waguinho,Meu Coracao E Teu - Ao Vivo,Mina De Fé,42,252640,False,0.545,0.602,8,-8.827,1,0.0577,0.29,0.0,0.0996,0.633,77.408,4,gospel
+6V1JeQGD2k58hpZ1ihszAb,Tonny Sabetta,Filho Meu,Estou Seguro,42,202161,False,0.548,0.399,0,-14.033,1,0.0305,0.381,0.0,0.375,0.374,143.383,4,gospel
+3KZPBw2GyCEbh2zdsmeisl,Projeto Norte;Ane Alma,Bote o Pé,Bote o Pé,43,200898,False,0.497,0.495,7,-7.931,1,0.0287,0.217,0.0,0.158,0.241,88.954,4,gospel
+1GkGwEqL9CSRoPelLofyEA,Marine Friesen,Eu Também (100 Bilhões X),So Will I (Eu Também),43,412757,False,0.461,0.597,0,-6.603,1,0.0302,0.00496,0.0,0.174,0.066,127.991,4,gospel
+6YYsAtS1HSDowLUL1047Rd,Gabriela Gomes;Luma Elpidio,O Nome,O Nome,42,289411,False,0.331,0.62,4,-6.557,1,0.0356,0.405,4.02e-06,0.197,0.199,84.922,4,gospel
+1wQshFMkDxr8Jz1McOZOJR,André Valadão,Milagres (Ao Vivo),Milagre - Ao Vivo,43,446893,False,0.467,0.694,0,-6.272,1,0.0314,0.178,0.0,0.791,0.198,144.13,4,gospel
+22wAfQ67CK9JjlFK2CPEsW,Fernandinho,Santo (ao Vivo),Abram Os Céus - Ao Vivo,42,331250,False,0.383,0.663,10,-7.054,1,0.0324,0.0125,0.0,0.0831,0.152,143.992,4,gospel
+1JxseLLcAhM48rfw0pQfYd,Bruna Karla,Aceito o Teu Chamado,Aceito o Teu Chamado,42,265032,False,0.6,0.591,7,-5.058,1,0.0313,0.323,0.0,0.227,0.3,139.995,4,gospel
+6ael0a5FVQXGupOfzpkoOB,Lukas Agustinho,Milagres (Acústico),Milagres - Acústico,43,290000,False,0.246,0.26,2,-9.556,1,0.0334,0.776,0.0,0.146,0.129,90.369,3,gospel
+1vi025C0wcXpUXENOWs5nL,ELESDOIS;Dunamis Music,Eu Vou Construir (Ao Vivo),Eu Vou Construir - Ao Vivo,43,398465,False,0.302,0.276,4,-11.119,1,0.0312,0.299,0.000587,0.0886,0.137,139.885,4,gospel
+1cHIMrCWPWCAgnFeG7URQp,Daniela Araújo,Cicatrizes,Cicatrizes,42,215343,False,0.315,0.253,2,-10.343,1,0.034,0.813,0.0,0.172,0.195,129.978,4,gospel
+6n1oge95wxkCVSaQpQUbux,Fernandinho,Santo (ao Vivo),No Santo Dos Santos - Ao Vivo,42,228713,False,0.501,0.815,1,-7.173,0,0.0506,0.067,3.49e-06,0.111,0.511,139.976,4,gospel
+5nOzM5Onid922yer0Oy7bC,Palavrantiga,Esperar é Caminhar,Rookmaaker,42,266472,False,0.559,0.723,7,-7.529,1,0.0304,0.0632,0.000104,0.106,0.578,116.876,4,gospel
+3WiNDSH9rghaEauIVOTXoQ,Fabiana Anastácio,Adorador 2 - Além da Canção,Quem Me Vê Cantando,42,257613,False,0.621,0.668,11,-5.372,1,0.0353,0.0988,0.0,0.181,0.464,146.108,4,gospel
+0gtBAv3MGzlEWGLKPZNiF7,Stella Laura;Jay Santana,Minha Essência,Descansa,42,269354,False,0.523,0.422,11,-6.945,1,0.0368,0.745,0.0,0.161,0.271,119.731,4,gospel
+4yCV9uZteCHKd7RJstPuol,Marine Friesen,Vasos Quebrados (Broken Vessels),Vasos Quebrados (Broken Vessels),42,402308,False,0.431,0.485,4,-7.648,1,0.0291,0.207,0.0281,0.156,0.0901,141.017,4,gospel
+15rbrxF51V20hQVu0SChmx,Marquinhos Gomes,5 Anos (Ao Vivo),Lágrimas no Olhar - Ao Vivo,42,313026,False,0.338,0.578,1,-4.494,0,0.0331,0.659,0.0,0.623,0.187,118.117,4,gospel
+2RHbL9XSNf1TL6rXUp5Ed1,Voz da Verdade,Voz de Ouro,A Hora Do Salvador,41,223600,False,0.454,0.46,9,-5.42,1,0.0267,0.671,0.0,0.133,0.219,87.74,3,gospel
+4Xhh7S35G90S6qXREJihzi,Fernanda Brum;Fernandinho;Weslei Santos;Marcus Salles,Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo),Espírito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize,43,299008,False,0.382,0.178,7,-13.43,1,0.0315,0.838,0.000563,0.349,0.304,161.586,4,gospel
+44cFiFUCi3wy5jo2uyFVfM,Fernandinho,Faz Chover (ao Vivo),Se Não For Pra Te Adorar - Ao Vivo,41,285440,False,0.496,0.848,2,-5.073,1,0.0823,0.624,0.0,0.198,0.21,112.916,4,gospel
+1E7J7TnkKckwyNF9Gf3ZqS,Quatro por Um,Então é Só Clamar,Então é Só Clamar,42,239908,False,0.542,0.686,1,-3.881,1,0.031,0.232,0.0,0.0833,0.29,127.864,4,gospel
+7Cer3P6UxCkGi3Bu2MFK3R,Anderson Freire,Impagável,Impagável,42,230750,False,0.259,0.544,7,-8.417,1,0.0543,0.0652,0.0,0.0624,0.286,80.57,4,gospel
+5CyCqSgL6Df4WoXo2eQVcJ,Sarah Beatriz,Eu Creio (Believe For It) [Ao Vivo],Eu Creio (Believe For It) - Ao Vivo,42,421893,False,0.317,0.623,7,-7.461,1,0.0375,0.0341,0.0,0.136,0.154,157.638,4,gospel
+5VdzAAQxXxWpOHz0WA3WHY,Elaine de Jesus;Alexandre Silva,Sem Comparação,Braço de Ferro,41,305640,False,0.533,0.649,6,-3.767,1,0.0348,0.562,0.0,0.108,0.38,71.641,4,gospel
+3mSU7r2tJjE6NMZ2DonlxV,Trazendo a Arca,Entre a Fé e a Razão (Ao Vivo),Entre a Fé e a Razão - Ao Vivo,42,294626,False,0.497,0.589,4,-5.098,1,0.0271,0.0293,0.0,0.971,0.27,130.073,4,gospel
+6Be3DpCcfD1s6tLFgjSDLF,Gabi Sampaio,Meu Respirar,Meu Respirar,43,336716,False,0.395,0.542,9,-8.457,1,0.0291,0.0397,3.54e-06,0.0574,0.134,133.899,4,gospel
+4AwlWUTcRIOpD7YkRVY3Pc,J Neto,A Harpa Cristã (Interpretada por J Neto),Fala Jesus Querido,41,289030,False,0.261,0.319,2,-9.48,1,0.0336,0.867,6.53e-05,0.147,0.391,79.204,1,gospel
+3uQwNZP7npNIGFvE3gk47Z,Gabi Sampaio,Até Que Toda Terra Cante,Bom Perfume,43,486332,False,0.468,0.435,7,-9.593,1,0.031,0.253,0.0,0.268,0.0406,141.803,4,gospel
+2Hi3vv6TII5u4q4MwPUQ6v,Lydia Moisés,O Encontro,Além do Rio Azul,42,269351,False,0.466,0.538,9,-8.314,1,0.0425,0.567,8.56e-06,0.109,0.238,75.125,4,gospel
+7KoVd24u4kRlZ6raFRa1k8,Valesca Mayssa,Tá nas Mãos de Deus,Tá nas Mãos de Deus,42,262528,False,0.571,0.511,5,-5.953,1,0.0313,0.703,0.0,0.111,0.434,125.852,4,gospel
+112xCud9jguXjyvcXAknez,Fredy Miller,Destino,Destino,42,349302,False,0.406,0.539,11,-8.074,1,0.0328,0.069,6.56e-05,0.102,0.248,129.659,4,gospel
+3L4SkcXhs1r1zeTi3gskdp,Valesca Mayssa;Kellen Byanca,Árvore Cortada,Árvore Cortada - Acústico,42,425460,False,0.394,0.585,5,-6.088,1,0.0398,0.461,0.0,0.136,0.351,139.945,4,gospel
+38OaqEhCVWslQIPxSlcHkV,Gabriel Guedes de Almeida,Gabriel Guedes (Ao Vivo),Filho - Ao Vivo,42,245136,False,0.495,0.466,2,-6.933,1,0.0323,0.527,0.0,0.111,0.346,125.736,4,gospel
+6TY5sU1MtoQ3ghGdIMkF1N,Eyshila,Terremoto,Terremoto,43,375838,False,0.421,0.53,7,-6.13,1,0.0342,0.11,0.0,0.721,0.137,120.716,4,gospel
+14ee4tr2EALjOBRLutlCl7,Juliano Son,Mais um Dia (ao Vivo),Quando o Mundo Cai Ao Meu Redor - Ao Vivo,43,297540,False,0.216,0.823,0,-5.53,1,0.0541,0.0642,0.0,0.594,0.298,164.412,4,gospel
+0dgAGcYsSU319WqjzLO2JP,Ministerio Ipiranga,Venha Teu Reino,Minha Porção,42,283653,False,0.516,0.533,4,-8.902,1,0.0317,0.606,1.25e-06,0.516,0.238,126.05,4,gospel
+7eTuH5YFkxOkTjiOYfz3pj,Jéssica Augusto,A Última Palavra É Dele,A Última Palavra É Dele,42,424373,False,0.418,0.686,4,-4.718,1,0.0421,0.699,0.0,0.346,0.534,107.882,4,gospel
+10REoqlHqSR42l2v2ZKwTJ,Valesca Mayssa,Tô Chegando,Tô Chegando,42,270048,False,0.589,0.618,0,-6.076,1,0.0442,0.676,0.0,0.143,0.47,123.891,4,gospel
+6JOe8zYE4bM1rIf2y92tij,Aurelina Dourado,Pra Todo Mundo Ouvir,Contagem Regressiva,42,278546,False,0.614,0.73,0,-3.655,1,0.0417,0.681,0.0,0.17,0.658,78.926,4,gospel
+1IS8vo49RFyHsn9wOvOvmy,Gerson Rufino,Não Preciso de Licença,Olha Eu Aqui,41,248000,False,0.657,0.691,7,-5.696,1,0.0324,0.0805,0.0,0.0933,0.382,139.99,4,gospel
+3vLWdZEpit9IuykuzzAZLE,Shirley Carvalhaes,Tudo Sobre Mim,Ditosa Cidade,42,256413,False,0.335,0.447,0,-7.766,1,0.0278,0.0335,0.000141,0.723,0.16,175.952,3,gospel
+1QQHq84D3zaR9OzshAs9z3,Aurelina Dourado,Pra Todo Mundo Ouvir,É o Apocalipse,42,287091,False,0.626,0.767,9,-3.195,1,0.0348,0.562,0.0,0.133,0.599,78.015,4,gospel
+73Hr4csCklwB8P6LhkV5UN,Nani Azevedo,Bendito Serei (Ao Vivo),Deus É Fiel - Ao Vivo,41,321893,False,0.482,0.663,9,-9.111,1,0.0545,0.685,0.0,0.461,0.684,206.184,4,gospel
+30SOGbbkzye1AwSoazLPah,Rodolfo Abrantes,O Dia Que Será Pra Sempre,Minha Maior Riqueza,42,273693,False,0.651,0.361,4,-7.417,1,0.0292,0.872,0.0,0.127,0.488,135.796,4,gospel
+6nKMk3BZuOHYSTvaY2HxGB,Elaine de Jesus,Até o Fim,Até o Fim,42,247693,False,0.586,0.537,10,-6.528,1,0.0638,0.653,0.0,0.112,0.327,72.93,4,gospel
+2WDhGWJXXn319dnZmw7mXJ,Gerson Rufino,Sobrevivi,Sobrevivi,42,282186,False,0.562,0.715,4,-5.014,1,0.0362,0.0564,0.0,0.101,0.535,140.047,4,gospel
+2TsE9fOlT4hpnU357gfBv2,Elaine de Jesus,Até o Fim,Cidade de Deus,41,303098,False,0.407,0.422,4,-7.606,1,0.0281,0.505,0.0,0.0935,0.25,137.654,4,gospel
+0g4hWb4RzVXxE1EnwgkdrZ,Toque no Altar,10 Anos (Edição Comemorativa),Restitui,42,436773,False,0.48,0.62,11,-7.457,0,0.0655,0.396,0.0,0.683,0.242,125.064,4,gospel
+3EFljr9vPDiP3Q09CkT1Y3,Luma Elpidio;Bruna Branco;LE MUSIC;Nathália Blanke;Carol Avelar;Thais Oliveira,Algo Maior (Ao Vivo),Algo Maior - Ao Vivo,42,673791,False,0.526,0.524,2,-8.975,1,0.0365,0.337,2.97e-06,0.0843,0.24,124.993,4,gospel
+13wblL6thQD5NHLa29j1X4,Ministério Nova Jerusalém;Bruna Karla;Marcos Brunet,Aba Pai,Tua Unção,41,483485,False,0.403,0.731,7,-8.238,0,0.0424,0.117,0.0,0.76,0.143,140.042,4,gospel
+0yi54SFrkRRKqgcSLMUS66,Ludmila Ferber,Pérolas da Adoração - Músicas que Marcaram a Nossa História,Os Sonhos de Deus,42,416813,False,0.29,0.455,5,-7.246,1,0.0303,0.718,1.47e-06,0.137,0.172,90.666,4,gospel
+3k7X74pvPwSAHX6yMymlHW,Gabriela Gomes;Marquinhos Gomes,Madrugada,Madrugada,42,301285,False,0.42,0.563,0,-5.093,1,0.026,0.619,0.0,0.117,0.236,140.055,3,gospel
+3LQ4n0ekj9PmIsC9r5IloB,Bruna Karla;Aline Barros,Ressuscita-me,Ressuscita-me,42,306549,False,0.374,0.667,2,-3.978,1,0.0352,0.222,0.0,0.124,0.279,139.037,4,gospel
+0wix4N0V67kfAFrkEaCKpO,Lorhann,Calma (Piano e Voz),Calma - Piano e Voz,42,220729,False,0.326,0.375,2,-7.803,1,0.0393,0.883,0.0,0.119,0.467,82.355,4,gospel
+5CFgpEShs8Cz7VQpp7nNgs,Fernandinho,Santo (ao Vivo),Atraído - Ao Vivo,41,247686,False,0.609,0.826,0,-6.937,1,0.0315,0.00848,8.98e-06,0.144,0.87,124.991,4,gospel
+7djOFQprGO89J8o6OTFEzf,Gabriela Gomes,O Bom Pastor,O Bom Pastor,42,323850,False,0.427,0.521,4,-5.972,1,0.0346,0.115,0.0,0.144,0.137,141.781,4,gospel
+7LJqcIIf1x2BQK0ARS9pQQ,Gabriela Rocha,Correrei (Ao Vivo),Correrei - Ao Vivo,42,331302,False,0.36,0.653,4,-6.506,1,0.0388,0.0256,0.0,0.0792,0.16,137.909,4,gospel
+0Jonr4Mb95BeP3gVX9KHcS,Gabriela Rocha,Até Transbordar (Ao Vivo),Me Aproximou - Ao Vivo,42,316013,False,0.345,0.697,9,-6.562,1,0.0376,0.0481,0.0,0.266,0.105,147.876,4,gospel
+7tztN3e5IFxhOYV7KQgsuu,Marquinhos Gomes,Ele Não Desiste de Você (Ao Vivo no Via Show Rio de Janeiro),Não Morrerei - Ao Vivo,42,327826,False,0.348,0.604,11,-6.371,1,0.038,0.453,0.0,0.573,0.481,127.841,4,gospel
+5hwSpQcgJmb1K7L4QTXYGE,Heloisa Rosa,Celebrar Vitória,Celebrar Vitória,41,300952,False,0.506,0.857,8,-5.184,1,0.0419,0.00301,0.0104,0.069,0.212,125.991,4,gospel
+46sD4u8J0E01sKf1Gsg7WS,Trio Alexandre,Minha Oração,Oliveira Verdadeira,42,325520,False,0.5,0.731,9,-5.49,1,0.0409,0.235,1.61e-05,0.115,0.497,89.911,3,gospel
+38V6xYC1uKZWkHrptIu6x6,David Quinlan,Mais Amor Mais Poder,Mais Amor Mais Poder,42,668885,False,0.452,0.802,9,-6.096,0,0.0704,0.0335,9.03e-05,0.392,0.376,96.054,4,gospel
+4IiFYwOR4JnUuQPdxucT3a,Bruna Karla;Fernanda Brum,Deixar a Lágrima Rolar (Ao Vivo),Deixar a Lágrima Rolar (Ao Vivo),41,312674,False,0.561,0.508,11,-7.694,1,0.0327,0.168,0.0,0.0969,0.254,129.909,4,gospel
+1MFlNx60ZJh4WSlyVFZP1U,Diante do Trono;Ana Paula Valadão,Sim e Amém (Ao Vivo),Sim e Amém - Ao Vivo,42,464338,False,0.474,0.792,11,-6.687,0,0.0376,0.0212,2.18e-06,0.979,0.24,115.271,4,gospel
+5IeDI91m54XmiKmOp3EG95,Deise do Vale,Ele É Deus,Até Quando,41,230200,False,0.568,0.79,2,-5.347,1,0.0548,0.609,0.0,0.262,0.482,156.114,4,gospel
+58Zo9FimCwf6FEuDY4s9Ge,Hillsong Em Português,Rei Dos Reis,Outro Na Fornalha,43,395786,False,0.481,0.663,0,-8.081,1,0.0314,0.000824,0.0,0.0852,0.112,135.009,4,gospel
+3dqBwWbhuiMDRUxjcPYmO8,Kellen Byanca,Lindo Testemunho,Lindo Testemunho,41,324906,False,0.683,0.598,5,-3.472,1,0.0313,0.76,0.0,0.111,0.441,131.87,4,gospel
+0cnxzQEAAUxf7YDy2elS3g,Cassiane;Elaine Martins;Paulo Neto;Leandro Borges;Anderson Freire;Bruna Karla;Midian Lima,Todavia Me Alegrarei - Drive In,Todavia Me Alegrarei - Drive In,41,351457,False,0.435,0.669,4,-7.605,1,0.0427,0.343,0.0,0.224,0.171,132.047,4,gospel
+0nFYYqz5suiZ7lVh2FK4wL,Central 3,Cordeiro e Leão (Ao Vivo),Cordeiro e Leão (Ao Vivo),42,373677,False,0.164,0.749,4,-3.187,0,0.0381,0.425,0.00965,0.121,0.0721,79.724,3,gospel
+0JPeg9MFek6EFFQn9aoSRC,Palavrantiga,"Palavrantiga, Vol. 1",Casa,41,288345,False,0.534,0.758,2,-5.495,1,0.0255,0.00329,1.35e-05,0.278,0.363,138.019,4,gospel
+0fb3mkQWoRQKh70xLF5Ykv,Shirley Carvalhaes,Sobrevivi,Sobrevivi,41,278518,False,0.361,0.656,0,-5.483,1,0.0398,0.387,0.0,0.196,0.302,160.11,3,gospel
+2rcELfYmKTFtit6Gv1ZEqF,Canção & Louvor,Eu Sou Mistério,Eu Sou Mistério,42,268510,False,0.568,0.821,2,-5.868,0,0.0638,0.124,0.0,0.11,0.461,145.982,4,gospel
+60U2xgJjlGAMWYN3p49CGU,André e Felipe,Acelera e Pisa (Ao Vivo),Acelera e Pisa - Ao Vivo,41,187720,False,0.673,0.936,0,-4.239,1,0.071,0.143,0.0,0.425,0.855,136.93,4,gospel
+1uzX3EN9QdcxnNUoDxY1Un,Régis Danese;Leandro Borges,Deus Resolve,Deus Resolve,42,218562,False,0.454,0.477,9,-4.44,1,0.0311,0.597,0.0,0.092,0.398,119.414,4,gospel
+42BrUYBLYMUtj8kx7hqjLU,Quatro por Um,De Volta à Inocência,Diante de Ti,41,264800,False,0.622,0.839,4,-5.248,1,0.0581,0.00405,0.0,0.309,0.412,133.968,4,gospel
+0ocTokIYHy1xk21x218YN7,Pregador Luo,Único - Incomparável (Vol. 2),Eu Desejo,43,229253,False,0.665,0.717,2,-5.429,1,0.0864,0.581,0.0,0.149,0.691,162.044,4,gospel
+5pghTOwHF85gf2kBpdSSM1,Fernandinho,"Série Acústica Com Fernandinho, Vol. 2 (Acústico)",Todas As Coisas / Tudo Entregarei - Acústico,41,177534,False,0.49,0.288,0,-9.643,1,0.0289,0.833,2.52e-06,0.161,0.218,145.804,3,gospel
+0Ua0VpFoZnbUnJ5JyJgbEn,Delino Marçal,Nada Além da Graça,Vim Falar Com Deus,42,196719,False,0.461,0.908,7,-3.661,1,0.124,0.412,0.0,0.865,0.518,200.071,4,gospel
+5OPRnGwyqTCQO8R5O2GkOx,Palavrantiga,Esperar é Caminhar,Palavra Antiga,41,252377,False,0.616,0.733,11,-6.843,1,0.033,0.063,1.79e-05,0.149,0.478,116.019,4,gospel
+3jUVitgIfyjEj1j4DMKoRY,Jozyanne;Jessé Aguiar,Se Eu Não Conseguir Falar (Ao Vivo),Se Eu Não Conseguir Falar (Ao Vivo),41,512138,False,0.358,0.581,6,-6.811,1,0.045,0.586,0.0,0.121,0.247,133.536,4,gospel
+2fa2a0zDMOTcT5hf1vDLOw,Thalles Roberto,Essência,Quando Ninguém Me Vê,41,335625,False,0.477,0.298,2,-9.74,1,0.0554,0.745,0.000579,0.107,0.196,173.337,4,gospel
+6SbLvxG1S5LKhbE3yaNSKi,Shirley Carvalhaes,Harpa Cristã,"Em Fervente Oração, 577",41,308200,False,0.32,0.349,0,-7.345,1,0.0277,0.732,0.000129,0.0979,0.109,78.341,3,gospel
+6ajxkeNDkz3mQ6go1LyFMg,Fernandinho,Sede de Justiça (ao Vivo),Dançar Na Chuva - Ao Vivo,41,276080,False,0.402,0.907,2,-7.26,1,0.138,0.448,1.98e-05,0.948,0.343,153.989,4,gospel
+2QmBVh6OiFFRgvWGxO1lMa,Gabi Sampaio;Weslei Santos,Na Terra Como no Céu (Here as in Heaven) (feat. Weslei Santos),Na Terra Como no Céu (Here as in Heaven) (feat. Weslei Santos),42,445035,False,0.328,0.446,8,-8.299,1,0.0333,0.118,0.0,0.109,0.141,138.666,4,gospel
+4nUFNVyHzlpPGxNATSVa36,Cristo Vivo;Vinicius Zulato,Gratidão (Ao Vivo),Teu Reino - Ao Vivo,42,440413,False,0.53,0.699,6,-6.631,1,0.0428,0.279,0.0,0.668,0.318,139.812,4,gospel
+3M4yuiVRtLLiVAKWEWDDK0,J Neto,A Harpa Cristã (Interpretada por J Neto),No Céu Não Entra Pecado,41,270164,False,0.377,0.313,5,-7.659,1,0.0336,0.865,0.0,0.0971,0.206,114.785,3,gospel
+5hkzvmrSDI8yVtaHsRYMO6,Valesca Mayssa;Sidney Almeida,De Janeiro a Dezembro,Um Adorador,42,572720,False,0.423,0.676,7,-5.799,0,0.0466,0.326,0.0,0.106,0.284,115.94,4,gospel
+2THQMfGTKYPhbY9LVi7e5N,Asaph Borba,Jubileu 25 Anos,Alto Preço,41,249653,False,0.386,0.437,10,-9.335,1,0.0282,0.761,0.0,0.382,0.29,107.735,4,gospel
+1PofW4c6W0SngeHYOHyEtV,Eli Soares,Memórias 2 (Ao Vivo),Alfa E Ômega - Ao Vivo,41,290666,False,0.605,0.575,2,-9.203,1,0.0467,0.461,0.000355,0.975,0.426,123.926,4,gospel
+2LgXhWI4fuXiwXOkuPVbJU,Paulo Neto,Deus Não Desperdiça Suas Lágrimas,Deus Não Desperdiça Suas Lágrimas,41,268515,False,0.555,0.585,6,-4.041,1,0.0311,0.166,0.0,0.0831,0.307,127.873,4,gospel
+5c0N2qsBgz8C9Kh3YDv2hy,Rosa de Saron;Pe. Fábio de Melo,Acústico e Ao Vivo 2/3,Casino Boulevard - Ao Vivo,43,242653,False,0.413,0.625,1,-4.745,0,0.0283,0.497,0.0,0.38,0.215,136.017,4,gospel
+1BtemHS8v4yN5Kqu5A7t0i,Israel Salazar,Avante,No Meio Dos Louvores,42,259624,False,0.444,0.951,7,-4.245,1,0.126,0.00444,3.11e-05,0.989,0.185,130.115,4,gospel
+7k5PPDJDmoioOySDPT5IdU,Rosa de Saron,Lunação,A Fênix,43,237844,False,0.492,0.86,5,-4.333,0,0.0524,0.0113,0.0,0.204,0.334,134.166,4,gospel
+6ElNeIt8MNGgHudS4YgTuj,Rose Nascimento,Uma Questão de Fé,Eu Acalmo o Mar,42,229853,False,0.638,0.725,7,-2.682,1,0.0351,0.507,0.0,0.101,0.255,130.024,4,gospel
+2Vin9zMP9o4NMRMHrZBbdg,Fernandinho;Gabriel Guedes de Almeida;Gabriela Rocha;Gabriela Gomes;André Aquino;Igreja Mananciais;Israel Salazar;Luma Elpidio;Paula Santos,Fernandinho Em Casa (ao Vivo),Geração de Samuel / Eu Me Levanto - Ao Vivo,41,377181,False,0.505,0.86,2,-5.407,1,0.0952,0.00363,0.0,0.138,0.471,149.946,4,gospel
+6Lkf2max1p5I9RdukgqBcL,Gabriel Brito,Tudo Vai Passar,Tudo Vai Passar,42,204503,False,0.495,0.284,9,-10.902,1,0.0416,0.714,0.0,0.116,0.369,106.958,4,gospel
+2tqf8PLiMPoO69jTmOavK8,Gabriel Brito,A Mensagem da Cruz,A Mensagem da Cruz,42,237882,False,0.458,0.231,8,-18.767,1,0.0293,0.875,0.0541,0.107,0.104,84.997,4,gospel
+2M857I621lLa6qTKTGd4Pt,Midian Lima;Arthur Callazans,Job,Job,41,324893,False,0.517,0.576,7,-5.384,1,0.0391,0.532,0.0,0.126,0.228,131.933,4,gospel
+6LkiENlCyuSyw8xg3S2R3V,Gabriela Rocha,Até Transbordar (Ao Vivo),Estas Comigo (You are for me) - Ao Vivo,42,314200,False,0.316,0.557,9,-6.913,1,0.0322,0.0184,0.0,0.2,0.184,130.687,4,gospel
+0FHLdyKjddlKEvRpvFKaNV,Os Arrais,As Paisagens Conhecidas,Caneta e Papel,42,276306,False,0.576,0.288,11,-11.695,1,0.0278,0.717,4.81e-06,0.106,0.188,134.127,4,gospel
+7JVs5vtuapjOQrwoyL3G52,Gabriela Rocha,Estou Seguro (Ao Vivo),Estou Seguro - Ao Vivo,42,316070,False,0.356,0.555,5,-6.356,1,0.0313,0.154,0.0,0.0996,0.205,136.977,4,gospel
+32yCdWFYP6Y6NgWeLc75Ra,Lorhann,Minha Força,Minha Força,41,323356,False,0.538,0.508,0,-8.407,1,0.03,0.631,0.0,0.175,0.253,129.849,4,gospel
+1nQ4jgCNZ6Vj6XUCLjK1Q1,DJ PV;André e Felipe,Tô Preparado,Tô Preparado,41,189085,False,0.452,0.832,7,-2.839,0,0.0652,0.0766,0.0,0.373,0.852,166.019,4,gospel
+6F1oXa2BbKYBIVlUaWP17F,Midian Lima,O Melhor Pra Ti,O Melhor Pra Ti,41,243000,False,0.449,0.446,5,-8.277,1,0.0286,0.653,0.0,0.0788,0.352,91.891,4,gospel
+2CK65CBXtjqdyY9M0OW31Y,Juliano Son,Mais um dia,Ele Me Ama,41,378226,False,0.349,0.543,11,-5.07,1,0.0314,0.0137,0.000142,0.116,0.181,145.761,3,gospel
+6spvswN2iFm2xRduVNg3fe,Suellen Brum;Nathália Braga,Aquieta a Tua Alma,Aquieta a Tua Alma,41,300053,False,0.697,0.674,2,-4.795,1,0.0322,0.396,0.0,0.105,0.572,118.033,4,gospel
+7aiuugdiL75xtqcU2KYJi6,Mauro Henrique;Leonardo Gonçalves,Tudo Fica Bem,Tudo Fica Bem,42,304240,False,0.398,0.573,7,-7.121,1,0.0369,0.0511,0.0,0.114,0.289,135.524,4,gospel
+2HLKpvgRATKtf1KA9lrcGg,Arianne;Fernandinho,Me Fez Vivo (feat. Fernandinho),Me Fez Vivo (feat. Fernandinho),41,241088,False,0.544,0.822,9,-4.106,1,0.0416,0.0287,6.38e-05,0.169,0.512,139.957,4,gospel
+5iy1A7oPEboGTGTDjeC98k,Eyshila,Eyshila - Gospel Collection Ao Vivo,Nada Pode Calar Um Adorador,41,319692,False,0.445,0.519,7,-5.529,1,0.0285,0.575,0.0,0.68,0.304,127.885,4,gospel
+4fVOleOiFwM2INJXDJyR3Y,LUDI,Aos Pés da Cruz (Ao Vivo),Aos Pés da Cruz - Ao Vivo,41,265026,False,0.631,0.33,0,-10.24,1,0.0362,0.936,0.000145,0.0711,0.243,110.082,4,gospel
+14hplqcMeF2SpdYzpmghZ4,Deise do Vale,Tempo de Deus (Playback Incluso),Três Ais,40,254293,False,0.536,0.499,7,-6.976,0,0.0308,0.691,0.0,0.126,0.277,129.814,4,gospel
+2fUW6sGWGtpgY1QdulYoiE,Diante do Trono;Ana Paula Valadão,Águas Purificadoras - Diante do Trono 3 (Ao Vivo),O Cheiro das Águas - Ao Vivo,42,375733,False,0.355,0.244,9,-12.207,0,0.0304,0.656,0.0,0.085,0.109,125.401,4,gospel
+2E1rgYpkQmjzt5u5HxifOI,Esther Marcos,Volta Logo,Volta Logo,41,278186,False,0.556,0.382,2,-9.261,1,0.0276,0.546,7.68e-05,0.0919,0.166,144.885,4,gospel
+7ehQuGJjYtcJ03dlA8uK3B,Marcos Freire,Tu És Meu Socorro,Tu És Meu Socorro,41,275854,False,0.51,0.552,2,-7.868,1,0.0299,0.231,0.0,0.159,0.368,89.857,4,gospel
+25FVKRD6XUowfcii9f4xOB,Fredy Miller,A Porta,A Porta,41,313590,False,0.475,0.515,9,-10.574,1,0.0302,0.00404,0.000369,0.0903,0.139,131.969,4,gospel
+1dQqxjk7LOKOo9UqqcL4Cp,Shirley Carvalhaes,O Tempo de cantar Chegou,Esse Adorador,41,341093,False,0.538,0.787,7,-3.852,0,0.0486,0.182,0.0,0.214,0.239,138.085,4,gospel
+5WY4MDW9o3Tv4mJYZgVlXD,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),Grito Dos Apaixonados - Ao Vivo,41,244613,False,0.578,0.772,2,-6.399,1,0.0409,0.00633,5.38e-06,0.597,0.445,144.801,4,gospel
+3dbpWgvQJM4DabKtQhIlgN,Fernandinho,Acústico,Teus Sonhos - Acústico,41,268026,False,0.5,0.461,4,-5.92,0,0.0253,0.655,0.0,0.0856,0.357,147.893,3,gospel
+4AIha4HSFqi7KFcSEcPM0O,Cassiane,Faça Diferença,Todo Poderoso,41,289970,False,0.441,0.634,0,-7.203,1,0.0463,0.556,0.0,0.266,0.454,81.897,4,gospel
+7IUzlg0H39s2WMWPNNAgqe,Marcos Antônio,Toma os Pedaços,Quase Morri,41,223791,False,0.732,0.442,4,-12.217,1,0.03,0.278,0.0,0.364,0.393,105.895,4,gospel
+2DEHcqIwG3umK94P0tlh7X,Rose Nascimento,"Começo, Meio e Fim",Portões Celestiais,42,310404,False,0.572,0.434,11,-10.598,1,0.0389,0.282,1.4e-05,0.244,0.325,145.958,4,gospel
+3h64K6Y8tG0gOcYvu0hTPn,Gerson Rufino,As Melhores ao Vivo,Página Manchada,41,276653,False,0.537,0.508,0,-7.483,1,0.0304,0.196,0.000394,0.181,0.341,147.984,4,gospel
+2r6CYGor8Lrmexv0xJeeCr,Ministério Vineyard,"Vem, Esta É a Hora (Ao Vivo)",Reina em Mim - Ao Vivo,41,219240,False,0.589,0.61,0,-8.359,1,0.0274,0.104,0.0,0.897,0.397,101.595,4,gospel
+1cKmv6Ca3hqonAttrAOH6y,Leandro Borges;Midian Lima,Nasci Pra Voar,Que Tal,41,309001,False,0.63,0.436,4,-6.125,1,0.0256,0.784,0.0,0.185,0.356,106.055,4,gospel
+0aCBuemfRYrqMyp1zsxEMx,Giselli Cristina,Tua Santidade,Quero Adorá-Lo,41,341626,False,0.243,0.316,2,-9.152,1,0.0295,0.923,9.6e-05,0.229,0.254,76.29,4,gospel
+4JqVgQBE41ruUtb7enQqSv,Diante do Trono,Nos Braços do Pai - Diante do Trono 5 (Ao Vivo),Nos Braços do Pai - Ao Vivo,41,680493,False,0.302,0.328,10,-8.77,1,0.0293,0.737,1.3e-06,0.796,0.0835,135.731,4,gospel
+2HmgOWnM9l9JXa46cjBlq9,Rosa de Saron,Espera,Espera,43,196796,False,0.413,0.779,4,-3.849,1,0.0412,0.0178,0.0,0.113,0.373,139.811,4,gospel
+2h1kx0c4cFUwcvRw1QpgLA,Casa Worship;Julliany Souza;Ricardinho;MOVER,Seu Amor Me Persegue,Yhwh (Tiro as Sandálias),42,590073,False,0.295,0.771,8,-7.779,0,0.075,0.00634,5.18e-06,0.381,0.122,136.085,4,gospel
+00L5VK0Etex3Kolo7iglIV,Gabriel Guedes de Almeida;Isadora Pompeo,Espero Por Ti,Espero Por Ti,42,348151,False,0.543,0.292,11,-8.967,1,0.0282,0.937,3.77e-05,0.0777,0.151,129.892,4,gospel
+0b9EANOIOKnoZ5yAZYO77Z,Gabriel Guedes de Almeida,Tudo é Possível,Tudo é Possível,41,233112,False,0.474,0.671,9,-6.653,1,0.0474,0.0929,0.0,0.447,0.398,123.625,3,gospel
+2ayGHwGSw6y3Nvcmvy5MG5,Cassiane,Com Muito Louvor,Basta Uma Palavra,40,215063,False,0.67,0.511,9,-7.133,0,0.0398,0.458,1.35e-05,0.285,0.399,130.933,4,gospel
+1180Pe0jjGNslftSXTrEKi,Aline Barros,Aline Barros e Cia 2,"Pedro, Tiago e João no Barquinho",41,189939,False,0.744,0.874,2,-4.506,1,0.0578,0.0941,1.71e-05,0.636,0.921,157.956,4,gospel
+3u2hc0sNfmCGA0OAkyl16u,Juliano Son,Mais um Dia (ao Vivo),Nunca Me Deixou - Ao Vivo,42,362798,False,0.368,0.746,11,-5.454,1,0.0438,0.0768,0.0,0.723,0.161,78.003,4,gospel
+2Pg77E8hQZK1rKURiBuAIG,Nani Azevedo,Hinos Inesquecíveis (Ao Vivo),A Mensagem da Cruz - Ao Vivo,40,380893,False,0.221,0.485,3,-8.968,1,0.035,0.709,4.79e-06,0.551,0.205,79.616,3,gospel
+51zdwbPemHKbuLLZo9Sg7I,Mattos Nascimento,Harpa Cristã,Alvo Mais Que a Neve,41,308532,False,0.579,0.283,2,-10.626,1,0.0308,0.00599,0.000603,0.0682,0.344,129.182,4,gospel
+1ng3xbbnwCFzYqP5Zsg4en,J Neto,"As Melhores Canções do JNeto, Vol. 1",Pensando Bem,40,412467,False,0.424,0.247,7,-16.14,1,0.0346,0.657,4.89e-05,0.128,0.281,124.032,4,gospel
+3pBFOchIRVAcvWK4MQ6Jgz,Rodolfo Abrantes;O Muro de Pedra,Joio ou Trigo,Todo Dia Até Morrer,41,224573,False,0.757,0.643,7,-6.832,1,0.0369,0.454,0.0,0.258,0.835,128.0,4,gospel
+717OhgDRi2D3LIyDWuNOwX,Valesca Mayssa,Boa Obra,Boa Obra,41,327727,False,0.575,0.726,6,-3.582,1,0.0288,0.147,0.0,0.0942,0.586,132.029,4,gospel
+4jWePuDwi4Mho9u5kpoYrj,Aline Barros,Extraordinário Amor de Deus,Primeira Essência (Jardim Particular),41,256441,False,0.391,0.641,1,-5.019,1,0.0286,0.368,0.0,0.718,0.253,76.9,4,gospel
+5qMa3HFW7mxFy2dXTsms24,Jefferson & Suellen,Jesus No Barco (Ao vivo),Jesus No Barco - Ao Vivo,41,351339,False,0.36,0.696,1,-4.65,1,0.0385,0.0502,0.0,0.9,0.125,144.84,4,gospel
+3xZ9lsSzF2Js5aByi2GmgD,Gerson Rufino,Vem Cear Comigo,Viver Sem Deus Não Da,40,224533,False,0.652,0.73,9,-4.669,1,0.0375,0.375,3.89e-06,0.463,0.468,188.327,4,gospel
+754RSk5YxG6lPmcNHsZ0Vn,Lauriete,No Olho do Furacão,Igual Não Há,42,325186,False,0.499,0.763,6,-3.323,1,0.0518,0.49,0.0,0.361,0.483,147.85,4,gospel
+2gy2GkxilvEUr5GDHUUddw,Renascer Praise,"RP XVII - Novo dia, Novo Tempo",Pelo Sangue - ao vivo,41,458520,False,0.471,0.313,7,-9.413,1,0.0303,0.581,0.0,0.297,0.212,139.16,4,gospel
+4guvU8ar70rN1dEwiDxz2S,Canção & Louvor,Profetizando Vida,Rei e Santo,41,363345,False,0.552,0.817,0,-4.393,0,0.0545,0.148,0.0,0.13,0.342,138.097,4,gospel
+26qR8A9Ifg3Kxxk5T2dGqN,Sarah Farias,Novidade,Novidade,41,288160,False,0.517,0.698,10,-3.108,0,0.0435,0.38,0.0,0.112,0.45,151.711,4,gospel
+72AocCet6W9W4IpXDnj5Ks,Gabriel Brito,Aprender Com a Vida,Grande É o Senhor,42,192410,False,0.55,0.591,9,-8.326,1,0.0329,0.0715,1.27e-06,0.0956,0.154,140.138,4,gospel
+5mqvRLCiuZkcVdDsB4JtKE,Amanda Ferrari,Eu Vejo Deus,Eu Vejo Deus,41,285173,False,0.519,0.755,9,-3.912,1,0.0332,0.54,0.0,0.25,0.486,147.94,4,gospel
+4rQSLX4qMiUWL81hEQOuPY,Randy Travis,Top 10,"Forever and Ever, Amen",63,212586,False,0.701,0.68,2,-8.492,1,0.0264,0.303,1.51e-05,0.159,0.704,90.607,4,gospel
+4N2yjawma1TdAtBcqLvend,Gabriela Rocha,Pra Onde Iremos?,A Voz,41,269053,False,0.321,0.644,9,-5.563,1,0.0352,0.612,2.9e-06,0.0921,0.17,159.814,3,gospel
+1gJBbBesfARMvuOe2LypZm,Discopraise,"Palavra, Som e Poder (Deluxe)",Se Eu Me Humilhar,41,430654,False,0.294,0.63,4,-5.257,1,0.0337,0.125,0.0,0.57,0.163,84.421,4,gospel
+0xdtum25Kqqr7v1tUIdJpf,Thiago Ramalho,Ganhar o Mundo,Ganhar o Mundo,41,208552,False,0.653,0.368,4,-10.887,0,0.046,0.0764,3.55e-05,0.224,0.104,126.006,4,gospel
+4joufqWt6hm8LUmfMwWCOL,Gabi Sampaio;Nívea Soares,Basta Uma Palavra (Ao Vivo),Teu Toque - Ao Vivo,41,453930,False,0.435,0.612,7,-6.696,0,0.0393,0.601,1.01e-06,0.126,0.226,135.863,4,gospel
+7LqLHYMZKWDcezKyDmcVrW,Rodolfo Abrantes,O FIM É BOM,O FIM É BOM,40,275768,False,0.625,0.635,7,-7.894,1,0.0267,0.566,0.000126,0.158,0.893,119.974,4,gospel
+3w5x1B7KOXuZ1zUZANmyn4,Preto no Branco;Kennto,Ninguém Explica Deus (Preto no Branco) [Kennto Remix],Ninguém Explica Deus (Preto no Branco) [Kennto Remix],41,173280,False,0.64,0.903,4,-6.138,0,0.171,0.0197,0.000142,0.167,0.38,125.095,4,gospel
+6B2N965ykuFl80ingx13WT,Matheus Balo;Filipe Lancaster,Meu Lugar,Meu Lugar,41,261500,False,0.656,0.606,1,-9.115,1,0.0334,0.0052,0.0,0.151,0.504,119.971,4,gospel
+0p8QPl72sLYVi22pudYund,Theo Rubia,Coisas Novas (Ao Vivo),Coisas Novas - Ao Vivo,41,443913,False,0.427,0.629,10,-8.425,1,0.033,0.00545,0.0,0.679,0.148,137.962,4,gospel
+4kMTTP73Xg6fuczRWyMyuY,Central 3;Gabriela Maganete;Gabriela Rocha,Emanuel (Ao Vivo),Emanuel - Ao Vivo,41,403541,False,0.39,0.486,5,-9.546,1,0.032,0.0362,0.0,0.953,0.247,137.854,4,gospel
+6zdmTmUcPqzkKspU2miNBc,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),"Oi, Jesus - Ao Vivo",41,236626,False,0.591,0.307,2,-9.527,1,0.0311,0.25,0.0,0.756,0.234,130.007,4,gospel
+0P3UvQJlKTMx2g8a4FL7zP,Coral Vozes Guerreiras,20 Super Sucessos: Pagode e Churrasco,Hoje Vou Pagodear / Seja Mais Você,41,270470,False,0.278,0.823,5,-5.85,1,0.161,0.547,0.0,0.475,0.55,87.753,4,gospel
+0Pic5D6FjKBSkEL49T0eOm,Clayton Queiroz;Jessé Aguiar,Gerador Particular,Gerador Particular - Ao Vivo,40,270000,False,0.403,0.397,0,-10.694,1,0.0398,0.832,0.0,0.349,0.597,138.443,4,gospel
+2SoHnESLR60erIgFi8zFFi,Central 3;Pevê Brito;Alessandro Vilas Boas,Não Há Outro Lugar (feat. Alessandro Vilas Boas) [Ao Vivo],Não Há Outro Lugar (feat. Alessandro Vilas Boas) - Ao Vivo,42,806406,False,0.488,0.531,9,-8.687,1,0.0298,0.209,5.37e-05,0.733,0.22,141.023,4,gospel
+6tm6HhfaqmF1tc29H0Zvmm,Eli Soares,Luz Do Mundo (Ao Vivo),Minha Oração - Ao Vivo,40,243933,False,0.322,0.503,11,-8.343,0,0.0357,0.508,1e-06,0.421,0.198,114.728,4,gospel
+00zyfk3IEBnoWczoKV455E,Stella Laura,Plano Perfeito,Plano Perfeito,41,278000,False,0.346,0.315,2,-7.52,1,0.0294,0.882,0.0,0.161,0.362,91.306,4,gospel
+6MQJbYP33tPZTNRS0HGpLD,Misaias Oliveira,Amor a Primeira Vista,Amor a Primeira Vista,41,177831,False,0.531,0.706,7,-6.414,0,0.0535,0.129,0.0,0.32,0.598,124.143,4,gospel
+67iZyjUMkdGl8RSXsXaYET,Elaine Martins;Cassiane;Midian Lima;Hellen Miranda,Escolhidas,Escolhidas,41,247756,False,0.468,0.671,2,-6.237,1,0.0494,0.138,0.0,0.366,0.341,149.811,3,gospel
+3RWAeIE2pfAeIvvsSn6D5G,Trazendo a Arca,"Ao Vivo no Maracanãzinho, Vol. 2 (Ao Vivo)",Marca da Promessa - Ao Vivo,40,487173,False,0.327,0.786,7,-6.205,1,0.0595,0.00566,0.0,0.738,0.266,78.036,4,gospel
+3o87VfL7i5rnWy9flYblxM,Alda Célia,Voar Como a Águia,Poder da Oração,41,228577,False,0.478,0.6,3,-8.553,1,0.0385,0.573,4.48e-05,0.972,0.311,131.968,4,gospel
+3X2oSv1BdYiIu7ri3z0eRM,Gabriel Guedes de Almeida,Alvo Mais Que a Neve,Alvo Mais Que a Neve,41,330000,False,0.323,0.331,6,-9.682,1,0.0311,0.86,0.0,0.102,0.343,129.611,4,gospel
+3K3rDGY3giQzCIprR4v3BW,Vitória Souza;Sued Silva,Naturalmente,Naturalmente,41,300053,False,0.627,0.527,3,-5.78,1,0.0315,0.406,0.0,0.161,0.433,117.895,4,gospel
+2BDnXsFn15igU5KDAqOXCZ,Quatro por Um,Nada é Impossível,Nada é Impossível,41,243809,False,0.484,0.902,11,-4.658,1,0.0617,0.035,0.0,0.721,0.41,141.897,4,gospel
+6ys3sPiIFe0tmtNQ15JPtJ,Fredy Miller,Fique à Vontade,Fique à Vontade,41,289192,False,0.432,0.649,10,-8.666,1,0.0309,0.0163,9.78e-05,0.108,0.215,129.936,4,gospel
+2fUxb1BQXS5BvamV4TOUj6,Resgate,Ainda não é o último,Vou me lembrar,40,305146,False,0.358,0.693,5,-5.976,1,0.0329,0.00459,1.14e-06,0.1,0.363,115.583,4,gospel
+4kkEfM9k5eBUMWG2dongGA,Marcelo Aguiar,Mais de Mil Razões,Esse é o Meu Deus,41,152960,False,0.597,0.408,5,-6.227,1,0.032,0.694,0.0,0.175,0.406,119.953,4,gospel
+4rQcdah6F4YkgDlmigtAFg,Shirley Carvalhaes,Não Temas,Deus Dará de Volta Tudo pra Você,40,254200,False,0.656,0.502,5,-6.137,1,0.0375,0.736,0.0,0.0938,0.35,135.931,4,gospel
+4yNZ4iN6Cinc2leaCnIqhA,Valesca Mayssa;Sarah Farias,O Céu Tem Mais,O Céu Tem Mais,41,452805,False,0.515,0.726,2,-4.23,1,0.0471,0.35,0.0,0.71,0.54,136.129,4,gospel
+1BtrF1pl4fAcYBOoQFznYU,Pr. Lucas,Me Ensina a Ser Grato - Incidental: Grato a Ti,Me Ensina a Ser Grato - Incidental Grato a Ti,41,285720,False,0.307,0.49,7,-7.861,1,0.0323,0.428,0.0,0.075,0.448,110.506,4,gospel
+6pnkWwsWrwWY00Xpw3pc3b,Leonardo Gonçalves,Principio (Ao Vivo),novo - Ao Vivo,41,347733,False,0.305,0.606,4,-8.245,1,0.053,0.461,0.0,0.125,0.311,147.047,4,gospel
+4PwuiP5jYhdKPFWNJuMHL9,Voz da Verdade,Quando Deus Se Cala,Quando Deus Se Cala,40,373960,False,0.507,0.559,7,-6.335,1,0.0254,0.759,6.6e-06,0.0951,0.319,139.5,4,gospel
+55X5GFZQmjg9HQ4jOdoIOz,Os Levitas,Dia do Milagre,Essa Luta Vai Passar,41,253826,False,0.575,0.742,0,-2.331,1,0.029,0.426,0.0,0.12,0.454,140.006,4,gospel
+0YrumRvg1wc46dQ0R3xGGN,Gerson Rufino,Harpa Cristã,Oh Jesus Me Ama,40,270806,False,0.573,0.554,7,-4.694,1,0.0249,0.677,0.0,0.214,0.413,105.011,4,gospel
+6vp339SZ60IK1LWMbCSzAt,Alda Célia,Jardim Secreto da Adoração,A Colheita,41,255837,False,0.355,0.763,0,-5.393,1,0.0666,0.234,0.0,0.976,0.469,154.822,3,gospel
+7hC5VECyqGNK9sFX2KLJqb,Gisele Nascimento,O Sonho Não Acabou,O Sonho Não Acabou,41,224211,False,0.478,0.516,4,-5.507,0,0.0323,0.565,0.0,0.141,0.14,130.059,4,gospel
+2Qp02T1oQPiqezbtkBEJ0n,Mara Lima,"Melhores Momentos, Vol. 4",Vaso de Alabastro,40,332068,False,0.428,0.576,2,-5.807,1,0.0398,0.769,0.0,0.211,0.339,153.566,4,gospel
+7a7ENekKQMQ5V1jy7nt7m2,Gisele Nascimento,O Sonho Não Acabou,A Glória da Segunda Casa,41,300791,False,0.455,0.522,3,-4.83,1,0.0316,0.687,0.0,0.0725,0.328,139.367,4,gospel
+3jipEVTjQQOGPvsJ2d8cTx,Toque no Altar,10 Anos (Edição Comemorativa),Leva-me Além,41,508173,False,0.314,0.44,2,-9.242,1,0.0283,0.49,3.41e-06,0.683,0.0395,129.797,4,gospel
+5Gho7QhaL1NbryZ24FkrqX,DJ PV;Arthur Henrique;Lex Skate Rock,Som da Liberdade 2.0,Dance e Não Se Canse (feat. Arthur Henrique & Lex Skate Rock),40,187613,False,0.725,0.792,9,-6.488,1,0.0336,0.0132,0.00308,0.185,0.963,127.992,4,gospel
+1wlAJE1E8Dom0LwgAImVg9,Lauriete,João Viu,João Viu,41,288783,False,0.52,0.811,7,-4.437,1,0.0536,0.127,0.0,0.17,0.501,141.874,4,gospel
+5dZ44ovq0lsSvf72vAC1t2,Damares,Diamante (2010),Preciosidade,41,289960,False,0.517,0.708,0,-4.606,1,0.0331,0.621,0.0,0.472,0.514,143.862,4,gospel
+07rWaFwTzLkyWg2zfQ30ni,Sérgio Lopes,O Amor de Deus,Entre Nós Outra Vez,40,374400,False,0.474,0.499,9,-9.081,0,0.0286,0.499,3.74e-06,0.656,0.161,76.021,4,gospel
+4POxP9ESAbmPU2SNLwJzX5,Nani Azevedo,Excelência,Atrai Meu Coração,40,400186,False,0.214,0.304,0,-12.28,1,0.0272,0.824,0.0344,0.67,0.151,81.99,4,gospel
+5SoyAxzmqc7yc1PdngMewL,Cristina Mel;Priscilla Alcantara,Tua Graça (feat. Priscilla Alcantara),Tua Graça (feat. Priscilla Alcantara),41,299844,False,0.51,0.634,0,-3.918,1,0.0317,0.00574,0.0,0.07,0.236,149.883,4,gospel
+19dhG2CA4bgCvgCaGWWzOr,Cristina Mel;Leandro Borges,Referência,Referência,41,298012,False,0.579,0.854,9,-3.795,1,0.0485,0.575,0.0,0.181,0.422,139.702,4,gospel
+1GmtLCbEUyn94Qzx0gxHc0,Irmão Lázaro;João Santana,Entre Amigos,Vai Mudar (feat. João Santana),40,248200,False,0.564,0.826,7,-2.313,1,0.0363,0.424,0.0,0.96,0.646,137.97,4,gospel
+7GMIJY7MUGmyKdlF8AL6ct,Gerson Rufino,Enquanto Falam de Mim,Enquanto Falam De Mim,40,171026,False,0.647,0.872,4,-3.42,1,0.0742,0.188,0.0,0.786,0.655,151.998,4,gospel
+54AgI9qiaqc2VNgFUPEMZX,Aline Barros,Aline Barros 20 Anos Ao Vivo,Deus do Impossível - Ao Vivo,41,209600,False,0.346,0.55,7,-6.238,1,0.0284,0.476,1.09e-06,0.967,0.197,105.475,4,gospel
+6CWIKaRIlDzpZAhArGmj04,Anderson Freire,Anderson Freire Ao Vivo,Medley (Abra os Meus Olhos / Fidelidade / Quero Descer / Advogado Fiel / Todo Poderoso / Sete Trombetas / Sou Humano / Ressuscita-me),41,540699,False,0.385,0.727,9,-5.193,1,0.0579,0.208,0.0,0.469,0.22,119.866,4,gospel
+3gabpaWiZTxdxRDTMqemWz,Gabriel Brito;AtituD,Quero Ser Teu Amigo,Quero Ser Teu Amigo,41,195222,False,0.43,0.648,11,-9.424,1,0.0306,0.671,0.14,0.137,0.374,73.833,4,gospel
+6SBH3tBtXZ2CozBPjIRqFO,Diante do Trono;Ana Paula Valadão,Diante do Trono 10 Anos - Tempo de Festa (Ao Vivo),Manancial - Ao Vivo,41,343480,False,0.282,0.28,2,-7.308,1,0.0323,0.869,0.0,0.698,0.124,119.611,4,gospel
+5nnDCG0ZIAyQfIpibuJIDx,Discopraise,"Palavra, Som e Poder (Ao Vivo)",Salmos 121 - Ao Vivo,41,82453,False,0.517,0.333,4,-10.876,1,0.067,0.833,0.0,0.67,0.491,131.988,4,gospel
+7cprJMCbK8cPjL9HXf0VI3,Nívea Soares,Tu És Bom (Ao Vivo),Tu És Bom - Ao Vivo,40,539614,False,0.239,0.661,2,-9.238,1,0.045,0.0208,0.0,0.958,0.216,140.003,3,gospel
+0zCce3GH8A2yEDnUa6mrQO,Marcos Freire;Kemilly Santos,Farás Outra Vez (Do It Again),Farás Outra Vez (Do It Again),40,246991,False,0.346,0.684,10,-5.272,1,0.0419,0.326,0.0,0.177,0.364,89.898,4,gospel
+5dbruWysUsKNZE5gtrGH71,Stella Laura;Edson Junio,Em Teu Altar,Em Teu Altar,40,369000,False,0.552,0.829,6,-4.463,0,0.0435,0.0733,0.0,0.122,0.247,127.987,4,gospel
+5mh0WKzHIKBtU3Pl24wdFT,Stella Laura,Vem Senhor,Vem Senhor,40,312938,False,0.552,0.721,4,-4.133,0,0.0341,0.228,0.0,0.12,0.516,123.794,4,gospel
+1cVSnQQIkjPgOnV6GohVEB,Os Arrais;Daniela Araújo,Mais,A Voz (feat. Daniela Araújo),41,271360,False,0.391,0.326,5,-12.662,1,0.0309,0.486,0.332,0.127,0.246,160.062,3,gospel
+4bvefsiwhd97bWrzEwcLMY,Além do Véu,Além do Véu Ao Vivo,Terra Fértil - Ao Vivo,40,276906,False,0.405,0.777,11,-3.853,1,0.0329,0.302,0.0,0.932,0.397,151.628,3,gospel
+2yoFRHh6e1SuYs1i49y5Ay,Daniel e Samuel,Louvor Raiz,Cem Ovelhas,40,178105,False,0.569,0.493,11,-6.181,1,0.026,0.737,0.0,0.146,0.619,95.071,3,gospel
+5zxh4quzNKt2DCPLejjhmU,Kemuel,Kemuel Worship I,Eu Também (100 Bilhões X) [So Will I (100 Billion X)],39,414750,False,0.432,0.404,2,-12.903,1,0.0353,0.0328,7.18e-05,0.221,0.0976,128.012,4,gospel
+2epjjOlDk4NrSMPtCvPkSc,Isadora Pompeo,Guia-me,Guia-me,41,248062,False,0.596,0.464,4,-7.512,1,0.027,0.43,0.0,0.109,0.237,115.051,4,gospel
+3i1dmw3Eud6cM576HPkj1g,Gabriela Rocha,Jesus,Cuida de Mim,41,295000,False,0.342,0.491,10,-5.07,1,0.0367,0.579,0.0,0.202,0.184,110.039,4,gospel
+5QLGQkK2rfw68Bk0Q1siy9,Stella Laura,Deus dos Bastidores,Deus dos Bastidores,40,332325,False,0.35,0.631,8,-5.702,1,0.0362,0.576,0.0,0.837,0.501,89.368,4,gospel
+3Nnl6hpaXYcPJkKpLitViv,Elias Silva,Joia Preciosa,Livre pra Voar,40,248866,False,0.387,0.408,11,-10.713,1,0.0631,0.763,0.0,0.318,0.365,141.209,4,gospel
+29lMm79Lx7c33ZcSmyk58u,Marcelo Markes,Sinto Fluir: Sessão Acústica,Sinto Fluir: Sessão Acústica,41,275901,False,0.57,0.197,0,-10.362,1,0.0305,0.953,0.116,0.137,0.152,122.045,4,gospel
+162RpF0I5vMGaBMMsZ6vqb,Arena Louvor;Fernandinho,Dono do Meu Barco,Dono do Meu Barco,40,434218,False,0.5,0.659,1,-6.531,1,0.0299,0.506,0.0,0.455,0.315,135.998,4,gospel
+6FN0YpMMkDM3ziaH14MC9m,Isadora Pompeo,10 Anos,10 Anos,40,199338,False,0.687,0.543,0,-10.114,1,0.281,0.505,0.04,0.207,0.318,148.009,4,gospel
+78qSS4POhRF5YTY96Rpk7V,Fernandinho;Anderson Freire,Contagem Regressiva,A Cruz e o Paraíso,40,299305,False,0.243,0.622,6,-5.074,1,0.0499,0.366,0.0,0.0731,0.191,174.226,4,gospel
+6Wf7Ipd8kMakijzakl4cf2,Sérgio Lopes,Seleção de Ouro,O Amigo,40,296890,False,0.42,0.395,10,-14.477,1,0.0314,0.197,0.0,0.152,0.239,67.386,4,gospel
+26r8GiF91eLTmcQDvpOEIm,Deise do Vale,Ele É Deus,Minha Cruz,40,220733,False,0.544,0.529,2,-7.439,1,0.029,0.659,0.0,0.3,0.197,95.102,4,gospel
+3pokn36QTs6Gse8YBOffxv,Vanilda Bordieri,Pra Deus É Nada,Sem Palavras,40,289560,False,0.339,0.685,2,-4.203,1,0.0393,0.126,0.0,0.18,0.38,139.547,4,gospel
+52L6TEZc3G0T0abeXLqIVa,Amanda Loyola,O Que Eu Sempre Procurei,O Que Eu Sempre Procurei,41,474000,False,0.325,0.422,8,-8.618,1,0.0312,0.368,5.87e-06,0.672,0.0395,123.607,4,gospel
+6UFkOtBI9fBN8aAcJu6uXR,Paulo Cesar Baruk,Piano e Voz,Tu és soberano,41,173893,False,0.63,0.207,6,-12.209,1,0.0318,0.957,0.000253,0.121,0.442,119.951,4,gospel
+7ySEGp46mhxSIwR6FqDcup,Deise do Vale,Ele É Deus,Explosão de Poder,40,224600,False,0.497,0.67,0,-5.974,0,0.0519,0.539,0.0,0.111,0.274,139.656,4,gospel
+3hwLlHX6M4OhBQaYR8hOMs,Gabriela Rocha,Juntos Em Adoração (Live 2020),Nada além de Ti / Com muito louvor / Creio que Tu és a cura - Live 2020,41,524905,False,0.334,0.792,7,-4.029,1,0.0664,0.000572,0.000914,0.098,0.15,139.735,4,gospel
+5thguwgodQ1vEgOxESaksd,Gabriel Guedes de Almeida,Pra Sempre (Ao Vivo na Avenida Paulista),Pra Sempre - Ao Vivo na Avenida Paulista,41,536571,False,0.323,0.294,0,-13.657,1,0.035,0.786,0.0,0.118,0.193,122.005,4,gospel
+5OTJicaycz3HvHCWbyllFp,Palavrantiga,Esperar é Caminhar,Amor Que Nos Faz Um,40,347858,False,0.343,0.507,8,-10.409,1,0.0271,0.225,4.02e-05,0.113,0.4,78.824,4,gospel
+0Y1At6XhPnxfN3DHmyvN86,Canção & Louvor,Ele Sempre Vem,Ele Sempre Vem,40,286247,False,0.577,0.485,0,-7.608,1,0.0268,0.802,0.0,0.13,0.382,137.865,4,gospel
+38DylDHZqbZ8zzIasbWFab,Voz da Verdade,Chuva de Sangue,Chuva de Sangue,40,311373,False,0.322,0.702,4,-4.988,1,0.035,0.511,0.00149,0.123,0.212,75.096,4,gospel
+6XKWR1BFBavRHDVNfA286z,Pr. Lucas,Pintor do Mundo,Marcas da Vida,41,285187,False,0.535,0.554,5,-6.449,1,0.0291,0.0579,0.0,0.39,0.146,123.174,4,gospel
+6dM5sjSXtqrkdHEKQ1yn0f,Canção & Louvor,Eu Escolho Deus,Eu Escolho Deus,41,288006,False,0.527,0.664,7,-4.254,1,0.0295,0.226,0.0,0.121,0.228,83.934,4,gospel
+7rFgI3Eheia8if1oomu944,Leandro Borges;Sandrinha,Um Refrão pra Sua Alma (Ao Vivo),Um Refrão pra Sua Alma - Ao Vivo,41,220707,False,0.5,0.369,7,-7.862,1,0.0402,0.789,0.0,0.714,0.294,127.636,4,gospel
+0kpCz6f1Z8seTfands9AOW,Denise Cerqueira,Meu Clamor,Jerusalém e Eu,40,265026,False,0.448,0.562,4,-5.197,1,0.0276,0.341,0.0,0.0907,0.216,129.134,4,gospel
+0sxT6iU5tButz1r40xVVq6,Pedro Henrique;Vitória Souza,Levanta,Levanta,40,319210,False,0.386,0.629,0,-7.158,1,0.0342,0.189,0.0,0.153,0.452,86.703,4,gospel
+7pXZmnoBboyiGn7RfogKnM,Quatro por Um,Enquanto Houver Fôlego,Espírito Enche a Minha Vida,40,321828,False,0.509,0.776,5,-4.097,1,0.0323,0.00707,0.00102,0.0675,0.404,126.008,4,gospel
+6jLH07K28JVUenzLYTxAp5,Gisele Nascimento,Janelas da Alma,Janelas da Alma,40,262896,False,0.465,0.691,4,-4.072,1,0.0438,0.596,0.0,0.12,0.59,143.503,4,gospel
+6x3OZsw5KqSL0nBsG5P5ch,Gerson Rufino,Enquanto Falam de Mim,Descartável,39,252853,False,0.628,0.742,7,-2.096,1,0.0255,0.254,0.0,0.611,0.445,99.985,4,gospel
+7FHFmDpo7HkSfvNhCZr0iF,Gerson Rufino,Filho de Leão,Filho De Leão,40,275133,False,0.683,0.723,2,-5.86,1,0.0367,0.0578,0.0,0.104,0.568,114.756,4,gospel
+6uRbdxKnVbotYpucskKxxK,Gerson Rufino,Carta Escondida,Contigo Outra Vez,39,231560,False,0.775,0.593,2,-7.002,1,0.0301,0.483,0.000356,0.311,0.668,114.059,4,gospel
+07rWaFwTzLkyWg2zfQ30ni,Sérgio Lopes,O Amor de Deus,Entre Nós Outra Vez,40,374400,False,0.474,0.499,9,-9.081,0,0.0286,0.499,3.74e-06,0.656,0.161,76.021,4,gospel
+1Aicl6PQJg4mLfkBtG3SwG,Rachel Novaes;Paulo Cesar Baruk,O Amor de Deus (Logo Eu) [Ao Vivo],O Amor de Deus (Logo Eu) - Ao Vivo,40,309760,False,0.253,0.456,9,-8.995,1,0.0453,0.423,0.0,0.061,0.277,165.947,4,gospel
+2j7MghhJ5Eu6FOyoMYH31U,Aurelina Dourado,Pra Todo Mundo Ouvir,Valeu a Pena Ser Fiel,40,228623,False,0.604,0.64,5,-4.429,1,0.0316,0.707,0.0,0.135,0.56,96.647,4,gospel
+0BNDtgT9yFjdbiQFnRuKcE,Renascer Praise,Daniel (Live),A Resposta - Live,40,358573,False,0.577,0.472,2,-7.401,0,0.0314,0.263,0.0,0.891,0.188,119.936,4,gospel
+6f1A7DEVS3zXoBQGzV5rnw,Andrea Fontes,Pregador Fiel,Tu és Santo (Príncipe da Paz),40,295682,False,0.59,0.741,5,-5.584,1,0.0299,0.0174,0.0,0.238,0.271,104.035,4,gospel
+6Bm3m0ET1juxVtYtfNwOcq,Rodolfo Abrantes,O Dia Que Será Pra Sempre,Na Gravidade da Presença,40,354386,False,0.628,0.38,1,-7.226,0,0.0293,0.834,0.0,0.0849,0.464,119.971,4,gospel
+4oyrutD0AbRMNxrwU8IKSJ,Salzband,A Esperança Se Renova,Somos Um,41,268080,False,0.425,0.83,2,-6.317,1,0.0482,0.00277,0.667,0.352,0.447,164.963,4,gospel
+3hcwsag9pLPp3JUzKeQMk1,Gerson Rufino,Homem Invisível,Eu Só Quero Adorar,39,242173,False,0.561,0.566,0,-8.615,1,0.032,0.194,0.0,0.119,0.396,140.108,4,gospel
+0Guk1w70JdJC7wWaWQbPFp,Rose Nascimento,Primeiro Passo,Estou de Pé,41,271013,False,0.499,0.804,2,-2.872,1,0.0707,0.299,0.0,0.286,0.492,152.829,4,gospel
+4pb5brx1YoihzV0iY1tgBq,Gerson Rufino,Sobrevivi,Basta uma Palavra,40,250080,False,0.29,0.555,2,-6.283,1,0.0342,0.23,0.0,0.118,0.504,67.85,5,gospel
+38xEWWzVAy7TSKtdAtS71K,Gabriel Brito,Eu Não sou Mais Órfão,Eu Não sou Mais Órfão,41,273802,False,0.407,0.697,1,-5.915,0,0.0372,0.0853,0.0,0.0894,0.137,141.873,3,gospel
+4EyK5CvieFcXn1kJz7tPJC,Sue Dodge;Ben Speer,Red Rocks Homecoming,There Shall Be Showers Of Blessing,38,148373,False,0.274,0.283,8,-17.802,1,0.0328,0.641,0.0,0.785,0.539,174.255,3,gospel
+4Daa0z3bdVVgZGsUZ23Vre,Irmão Lázaro,Testemunho e Louvor (Ao Vivo),Passando pela Prova - Ao Vivo,39,200733,False,0.501,0.859,4,-5.981,0,0.314,0.574,0.0,0.799,0.648,90.68,4,gospel
+4BNaRzscXfQ9LzTM1T1JON,Paola Carla,Diz (You Say),Diz (You Say),40,278024,False,0.355,0.297,5,-9.57,1,0.0327,0.645,0.0,0.156,0.166,141.66,4,gospel
+4G5lXh4EWirGdzjfI9upth,Kleber Lucas,"Casa de Davi, Casa de Oração",Rio de Vida,39,267493,False,0.607,0.918,7,-4.848,1,0.145,0.278,0.0,0.844,0.622,106.089,4,gospel
+5t64mcmmLiFIKTPdEGMhtb,Lorhann,Tu És a Fonte,Tu És a Fonte,40,294636,False,0.474,0.56,9,-8.392,1,0.0325,0.163,0.00917,0.126,0.299,143.984,4,gospel
+7LtT7h4dgF37YSPf8FipNP,Dunamis Music;Rapha Gonçalves,Outro Na Fornalha,Outro Na Fornalha,40,374275,False,0.501,0.672,7,-6.249,1,0.0318,0.000643,1.31e-05,0.0984,0.125,135.053,4,gospel
+4N4rKm6cAmSYQwuKV71YmS,Oficina G3,Cego,Cego,40,195428,False,0.299,0.968,2,-3.291,1,0.121,0.00165,0.000498,0.306,0.299,104.882,3,gospel
+0aZ7XcrzNN4qrvjOviF78c,Trio Alexandre,Minha Oração,Cristo Tem Poder,40,231346,False,0.601,0.678,7,-6.117,1,0.0312,0.485,1.45e-05,0.226,0.754,98.086,3,gospel
+6jzcEtCzGYnslrheybOMoc,Oficina G3,Retrato,Retrato,40,333250,False,0.498,0.768,2,-5.634,0,0.0317,0.00625,0.00152,0.647,0.148,139.964,4,gospel
+60gTvsFwmBWb8wOGTili2E,Eli Soares;Thiaguinho,Veraneio,Veraneio,40,286042,False,0.391,0.447,2,-9.402,1,0.0278,0.516,4.01e-06,0.0752,0.33,79.064,4,gospel
+3c3DAV2Q8jWj24cLUqUMYI,Vitória Souza,Só Faz Ajudar,Só Faz Ajudar,40,267983,False,0.592,0.468,1,-6.81,0,0.0336,0.318,0.0,0.123,0.337,119.749,4,gospel
+5GG5P7jC6ikxnzFSWmsPi2,Fernanda Brum E Eyshila,Amigas,Impossível de Esquecer,40,271162,False,0.549,0.626,5,-5.919,1,0.0277,0.282,0.0,0.195,0.355,146.029,4,gospel
+5a7HVUAuFjRbAEvYpI5wSr,Régis Danese;Anderson Freire,Deus Que Tudo Pode,Deus Que Tudo Pode,40,212985,False,0.608,0.487,10,-5.635,1,0.0279,0.758,0.0,0.127,0.384,103.072,4,gospel
+1JA3cUKq0xuTrBPJI3VgmA,Henrique Cerqueira,Pimentas do Reino,Pensando em Você,40,212413,False,0.68,0.222,7,-10.943,1,0.0571,0.74,0.0,0.125,0.454,84.524,4,gospel
+6Zx0wRyaeMQaQhVx1agOSS,Pregador Luo;Chorão,Música De Guerra - 1ª Missão,Nada É Impossível,42,270560,False,0.63,0.949,8,-3.754,1,0.123,0.00542,0.0,0.104,0.702,107.007,4,gospel
+2WkOVkZNTj2Ys77uUnKPpk,J Neto,A Harpa Cristã (Interpretada por J Neto),O Bondoso Amigo,39,190473,False,0.239,0.392,4,-6.409,1,0.0336,0.792,0.000172,0.12,0.284,81.506,4,gospel
+6AQW8JZmdUpHoW1tdEahPN,Fernandinho,Sou Feliz (ao Vivo),Tudo Entregarei - Ao Vivo,39,321186,False,0.32,0.614,3,-5.054,1,0.0319,0.515,0.000681,0.144,0.171,143.996,4,gospel
+6IextfKBKUZwGfjl6M4akE,Andrea Fontes,Momento de Deus,Permissão de Deus,39,263546,False,0.575,0.776,2,-3.323,1,0.0424,0.783,0.0,0.179,0.38,134.933,4,gospel
+5VXu8ts8Au4Qa6JtW9C2jh,Diante do Trono;Ana Paula Valadão;MORADA,Cantem no Caminho (Ao Vivo),Espontâneo Aclame ao Senhor - Ao Vivo,40,177894,False,0.134,0.562,11,-8.769,1,0.0368,0.0862,6.49e-06,0.753,0.276,87.7,5,gospel
+19N7xuxcIcla9KTrLnUFa7,Fernanda Brum,Fernanda Brum - Gospel Collection Ao Vivo,A Tua Glória Faz,40,283469,False,0.333,0.565,5,-7.938,1,0.0367,0.529,0.000149,0.684,0.325,146.113,3,gospel
+1ioVVRon9nCfTMiUbZnCF3,Fernandinho,Uma Nova História (ao Vivo),Eu Vou Subir a Montanha - Ao Vivo,39,273000,False,0.575,0.849,8,-5.433,1,0.0491,0.101,0.0,0.119,0.229,112.998,4,gospel
+5wTJw7Eu5mi0AqSYyIZLQs,Sarah Farias,Sarah Farias Live Session,O Rosto de Cristo,40,344026,False,0.485,0.582,9,-5.955,1,0.0302,0.156,1.5e-06,0.364,0.199,80.0,4,gospel
+52ZVpZFv4pKmSvvsf6Mpla,Pr. Lucas;Sarah Farias,Vai Passar,Vai Passar,40,351689,False,0.411,0.609,0,-6.149,1,0.0301,0.279,0.0,0.0969,0.236,139.92,4,gospel
+2LUxOHDMLlfkhupqcg8eJn,Stella Laura,Deus Vai Te Honrar,Deus Vai Te Honrar,40,262250,False,0.555,0.641,4,-3.68,1,0.0288,0.257,0.0,0.117,0.344,119.87,4,gospel
+5pzHefoKlPT8mZeLUL5Grk,Giselli Cristina,Meu Barquinho,Em Adoração,40,308720,False,0.401,0.504,7,-5.823,1,0.0271,0.863,1.63e-06,0.112,0.229,76.064,4,gospel
+6KWR9mJEakLis31tRC7Zf4,Amanda Wanessa,Voz e Piano,Eu Cuido de Ti,40,333132,False,0.372,0.203,9,-7.434,1,0.0319,0.794,0.0,0.317,0.16,116.65,4,gospel
+5G8lsDiUpxvc337PflB9yB,Wilian Nascimento;Bruna Karla,Quero Descer (Ao Vivo),Quero Descer (Ao Vivo),40,246828,False,0.332,0.331,9,-5.421,1,0.0293,0.835,0.0,0.107,0.355,140.788,4,gospel
+33Co3y1LoRPN3E643RTvAW,Marcos Antônio,Perfil do Louvor,O Galileu,39,279824,False,0.616,0.667,9,-5.814,1,0.0312,0.666,0.0,0.201,0.526,108.143,4,gospel
+5By9kswZj7izK0iGLeEkJJ,Jefferson & Suellen,Profetiza (Ao vivo),Profetiza - Ao vivo,40,292624,False,0.443,0.777,7,-4.511,1,0.0414,0.0992,0.0,0.14,0.218,137.784,4,gospel
+6BYwpPENh1oU0hTMjHa72g,Mara Lima,"Melhores Momentos, Vol. 4",Além da Medicina,39,326008,False,0.513,0.647,10,-3.435,1,0.0287,0.535,0.0,0.0832,0.287,72.005,4,gospel
+6FKHq6z4nAq1gu4ozU95ac,Gabriel Guedes de Almeida,My Sessions,Eu Me Rendo,40,281722,False,0.306,0.215,5,-9.484,1,0.0307,0.912,2.28e-05,0.0936,0.124,137.617,3,gospel
+17skOaQMo12brYlPuytqjq,Nani Azevedo,A Última Palavra Vem de Deus (Ao Vivo),Meu Barquinho - Ao Vivo,39,285546,False,0.296,0.468,2,-7.42,1,0.0299,0.349,0.0,0.868,0.0921,64.01,4,gospel
+1uLsJCeLIAsgXYxcn5xMeG,Eliane Silva,É Preciso Ter Fé,Isso É Coisa Pra Deus,39,314880,False,0.527,0.658,6,-4.739,1,0.035,0.482,0.0,0.124,0.437,142.044,4,gospel
+0f7TvXMUKeDDMyVjcGFqFm,Oficina G3,Humanos,Até Quando?,40,214645,False,0.478,0.869,10,-5.228,1,0.0591,0.000679,0.0796,0.714,0.506,182.013,4,gospel
+1JxbwPjI3lyjDDdTvF5O8W,Gerson Rufino,Filho de Leão,Desta Vez Não,39,216400,False,0.69,0.616,4,-6.687,1,0.047,0.103,0.0,0.0954,0.385,74.992,4,gospel
+0MwitR6EAeWqA5tWL4uFvK,Oficina G3,Histórias e Bicicletas,Diz,40,339707,False,0.553,0.917,8,-3.438,1,0.135,0.00204,0.00011,0.309,0.468,92.503,4,gospel
+2n4kHDiB1JF7JKucWKwK4v,Sérgio Lopes,Seleção de Ouro,Tente Lembrar,39,201084,False,0.4,0.454,0,-12.124,1,0.0279,0.307,0.0,0.338,0.351,143.404,4,gospel
+7GXGxQfT7SSYu2eSduDlIt,Diante do Trono,Preciso de Ti - Diante do Trono 4 (Ao Vivo),Deus de Milagres - Ao Vivo,40,394040,False,0.31,0.386,9,-8.984,1,0.0283,0.714,0.0,0.962,0.137,128.91,4,gospel
+5u9OEVZhW70Dt59Y592rsN,Gerson Rufino,Enquanto Falam de Mim,O Valor Do Homem,39,227933,False,0.714,0.655,9,-5.953,1,0.0298,0.224,0.0,0.375,0.54,105.034,4,gospel
+2KMnYrwK2TXL7Iy6nxeCSA,Mattos Nascimento,Só Ele É Santo,Quando Jesus Estendeu Sua Mão,39,236836,False,0.441,0.25,0,-7.928,1,0.0362,0.885,0.0,0.229,0.324,128.15,3,gospel
+2kSJOok9s5sBHzvHWws99S,Sarah Farias;Valesca Mayssa;Stella Laura,Deus Não Vai Parar,Deus Não Vai Parar,40,314026,False,0.454,0.589,5,-4.496,1,0.0283,0.154,1.85e-05,0.368,0.205,135.845,4,gospel
+0lQ4GwEPOT2mS4ClVpiLJ3,Aline Barros,Minha Oração,Sol da Justiça,40,341962,False,0.213,0.696,1,-5.025,1,0.0529,0.312,0.0,0.0621,0.286,153.836,3,gospel
+4cvtFJZxMAHasU6cam2LRH,Shirley Carvalhaes,Tudo Sobre Mim,Dono de Tudo,39,277626,False,0.571,0.588,8,-7.595,1,0.0316,0.167,5.81e-05,0.351,0.355,145.162,4,gospel
+3oIKT8CKqao4bulVol6Pf7,Eli Soares,Memórias 2 (Ao Vivo),O Espírito Do Senhor - Ao Vivo,39,319408,False,0.529,0.403,9,-10.665,1,0.0308,0.237,1.54e-06,0.348,0.206,119.639,4,gospel
+4rKgZ8OBMrn0wSmxVlqneH,Shirley Carvalhaes,Há uma Saída,Desapareceu um Povo,39,234666,False,0.576,0.455,11,-4.819,1,0.028,0.713,0.0,0.148,0.39,77.075,4,gospel
+3c6LWNzVMK97JT5aMoKmBl,Eli Soares;Késia Soares,Memórias 2 (Ao Vivo),Corpo E Família - Ao Vivo,40,307000,False,0.32,0.384,5,-10.71,1,0.0362,0.296,6.14e-06,0.0805,0.12,119.353,4,gospel
+6y07btbdPt9vgKj5O7Rx1M,Rose Nascimento,Uma Questão de Fé,Ninguém Pode Impedir,40,239053,False,0.525,0.721,6,-2.376,1,0.0413,0.743,0.0,0.078,0.342,135.552,4,gospel
+5H5iBVWoHacLXdumAtzTzS,Raquel Mello,Sinais de Deus,Sinais de Deus,39,243706,False,0.614,0.634,7,-5.265,1,0.0325,0.245,0.0,0.11,0.277,124.833,4,gospel
+7meZnbufav6aOYXgN8GfJB,Gerson Rufino,Homem Invisível,Te Amo Espírito Santo,39,265546,False,0.666,0.598,7,-7.728,1,0.0234,0.535,8.23e-05,0.141,0.371,93.971,4,gospel
+0lJAY0JMq6x2azw9RsAR8l,Eliã Oliveira,Trajetória de um Fiel,Gideão e os Trezentos,41,351173,False,0.63,0.68,10,-2.821,1,0.0311,0.298,0.0,0.114,0.42,109.997,4,gospel
+3VwaEG015M6ZajH8Pu0iXT,Anderson Freire,Anderson Freire (Ao Vivo),Deserto (Ao Vivo),40,286653,False,0.452,0.567,5,-7.623,1,0.0358,0.319,0.0,0.137,0.273,149.979,4,gospel
+630ABfNYLELJZgTSg0cuUU,GV3;Gabriell Júnior;Gui Brazil,A Casa Sou Eu,A Casa Sou Eu - Remix,40,225000,False,0.546,0.654,9,-11.086,1,0.0886,0.0657,1.41e-06,0.16,0.222,127.938,4,gospel
+1zqYwPjbHG9klWeR3Q28OG,Aline Barros,Viva,Redenção,39,275880,False,0.33,0.396,9,-8.793,1,0.0284,0.0648,0.0,0.15,0.138,136.809,4,gospel
+5Aaul8Ti3efsx0X9q22rCu,Paulo Nazareth;Marcos Almeida;Os Arrais,Pulmões,Pulmões,40,254326,False,0.298,0.344,0,-11.043,1,0.0281,0.279,0.0107,0.0979,0.132,93.248,4,gospel
+2aCCy7rdwfInhNxrXELNvw,Jamily,A Fé Faz O Herói,A Fé Faz o Herói,40,259333,False,0.506,0.283,2,-14.705,0,0.0353,0.927,3.31e-06,0.302,0.318,125.724,4,gospel
+5dAr3xOmteIHgN9zAcFFyi,Isaias Saad,Isaias Saad,Pra Onde Irei,40,405133,False,0.427,0.4,6,-8.363,0,0.0278,0.0994,0.000255,0.0708,0.12,139.803,4,gospel
+4avT69vtIK1qqC8SL7eqGJ,Central 3;Gabriela Maganete;Rebeca Carvalho,As Muitas Águas (Ao Vivo),As Muitas Águas - Ao Vivo,41,396474,False,0.405,0.522,4,-6.907,0,0.0349,0.391,0.0,0.347,0.141,144.766,4,gospel
+21hbX98UvlY7nSanI07oig,Thiago Ramalho,Meu Lar,Meu Lar,39,267428,False,0.601,0.456,8,-10.604,1,0.0352,0.652,2.57e-05,0.118,0.254,139.915,4,gospel
+1ChHVkojBYJvDT4k3lnQx5,David Quinlan,"Águas Profundas (Paixão, Fogo e Glória) [Ao Vivo]",Águas Profundas - Ao Vivo,40,421253,False,0.289,0.921,9,-6.119,0,0.0916,0.00162,6.71e-06,0.782,0.549,163.91,4,gospel
+03HIAI4UJ7ux9j8BBV8aPs,André Valadão,Como Ninguém Me Vê (Ao Vivo),Como Ninguém Me Vê - Ao Vivo,40,337511,False,0.447,0.757,7,-5.832,0,0.0417,0.0776,0.0,0.713,0.304,134.987,4,gospel
+6nuiv7xaHbRL402QWVaElx,André Valadão,Fé (Ao Vivo),Pela Fé - Ao Vivo,40,279200,False,0.476,0.834,5,-4.026,1,0.0331,0.00674,0.0,0.691,0.241,151.979,4,gospel
+4yGreqJT68htx4FYJJ9Ixr,Daniela Araújo,Daniela Araújo,Dono dos Meus Dias,39,235756,False,0.328,0.282,0,-14.752,1,0.0295,0.729,0.00723,0.11,0.371,185.358,4,gospel
+1WhTTo75YqLegIOyndRQex,Katsbarnea,Acústico (A Revolução Está de Volta),Apocalipse,39,360253,False,0.482,0.73,6,-7.205,0,0.0295,0.495,9.97e-05,0.956,0.548,119.826,4,gospel
+5ibmO0MNdUjNZQC93rQbaS,Michelle Nascimento,Louve e Adore,Louve e Adore,40,294986,False,0.621,0.792,9,-4.51,0,0.0713,0.236,0.0,0.146,0.411,150.044,4,gospel
+5TQGLSiv6jJexsucU0wcPm,Rebeca Carvalho,Vendavais (Em Casa Acústico),Vendavais - Em Casa Acústico,40,281142,False,0.305,0.469,10,-6.825,0,0.0327,0.729,0.0,0.409,0.276,92.11,5,gospel
+1YQTy9GUI6vCErxKDNFMBR,André Valadão;Brunão Morada,Flashback Fé (Live),Amigo Fiel - Live,40,450857,False,0.296,0.42,7,-13.98,1,0.0346,0.271,0.0,0.591,0.149,139.625,4,gospel
+6Vmwm73j6P6Xyr4FbPSzZx,Aline Barros,Graça,Esperança,40,272741,False,0.309,0.686,10,-5.233,1,0.0341,0.116,0.0,0.984,0.445,143.081,4,gospel
+1uHkF8uTBRLQMir5CxLDSQ,Esther Marcos;ONE Service,Santo dos Santos,Santo dos Santos,40,278268,False,0.427,0.68,0,-6.992,1,0.0321,0.57,0.000632,0.128,0.183,140.141,4,gospel
+1gPl1vIBXFwInMXHJ5Ug7Y,Oficina G3,Depois da Guerra,A Ele,40,280589,False,0.159,0.79,5,-4.829,0,0.0593,0.173,0.0,0.0986,0.149,173.385,3,gospel
+2sxzZLirKtZchuUlECg9C1,Mara Lima,"Recordações, Vol. 2",Divino Companheiro,39,203624,False,0.42,0.56,0,-7.526,1,0.0379,0.369,0.0,0.265,0.43,199.451,3,gospel
+7MmkE4DIfZ2i7KTnrnfItK,André e Felipe;Pr. Lucas,Em Meu Coração,Em Meu Coração,39,256708,False,0.398,0.667,2,-5.647,1,0.0343,0.385,0.0,0.0737,0.24,158.063,4,gospel
+11yR5cZsBJcOlROIXj34wx,Delino Marçal;Kleber Lucas,Deus Cuida de Mim,Deus Cuida de Mim,40,254351,False,0.523,0.53,10,-6.412,1,0.0254,0.141,0.0,0.186,0.205,102.067,4,gospel
+5OMBzeUf0tBfjzoCskU75d,Cassiane,Sementes da Fé,Esconderijo do Altíssimo,39,289552,False,0.461,0.645,8,-6.717,1,0.0583,0.227,0.0,0.133,0.427,146.005,4,gospel
+2IlFyiCXLg5EK5JChEgWGA,Aline Barros,Aline Barros e Cia 3,Arca de Noé,39,201038,False,0.712,0.899,5,-3.726,1,0.0949,0.374,0.0,0.247,0.913,140.209,4,gospel
+5gC0XE4Cv7IWrtukrUM6Pf,Ministério Adoração e Vida,Hoje Livre Sou (Ao Vivo),Abraço de Pai - Ao Vivo,41,321373,False,0.508,0.267,9,-8.369,1,0.0277,0.826,0.0,0.671,0.435,82.818,4,gospel
+5FRlyaVrHNr4ns4x5Hktqz,Nathália Braga,Deus Está Te Ensinando,O Céu Não Tira Férias,40,270016,False,0.625,0.602,2,-6.07,1,0.0376,0.648,0.0,0.101,0.434,132.113,4,gospel
+0KGqMe7q6OdmpdlHtjOmZ5,Trazendo a Arca,Toque no Altar (Ao Vivo),Leva-Me Além - Ao Vivo,39,515533,False,0.308,0.491,2,-7.691,1,0.0286,0.451,4.73e-06,0.816,0.0398,129.508,4,gospel
+0eDmuiRwJrhsHGJ9JBwvMA,Casa Worship;Ricardinho;MOVER,Seu Amor Me Persegue,Eu Tenho Um Pai,40,537230,False,0.354,0.414,7,-10.574,0,0.0322,0.194,0.00478,0.0914,0.132,129.923,4,gospel
+0OB1ZDOdFgcDvdJygCfIh5,Trio Nascimento,Marque Uma Geração,Chegou o Avivamento,40,273298,False,0.508,0.625,0,-6.433,1,0.0362,0.499,0.0,0.099,0.34,143.923,4,gospel
+0Gs12Qbcm90jRVoxd7v4lw,Marcos Antônio,Acústico,Te Peço Perdão,39,263862,False,0.494,0.367,2,-6.873,1,0.0289,0.768,0.0,0.184,0.331,105.815,4,gospel
+5dLorNapNrniGWYit4Gfgl,Gerson Rufino,Enquanto Falam de Mim,Ele Me Encontrou,38,227306,False,0.435,0.779,4,-2.983,1,0.0439,0.31,0.0,0.258,0.566,203.92,4,gospel
+4QQ9nLdsPP9Ts02bbMpLxj,Mara Lima,"Melhores Momentos, Vol. 4",Daniel,39,386899,False,0.399,0.705,4,-4.104,1,0.0413,0.479,0.0,0.353,0.447,110.301,4,gospel
+1U3DPXv1qHEz7xgtMry6aN,Samuel Mariano,Depois do Culto,Depois do Culto,40,363173,False,0.661,0.656,7,-5.123,1,0.0457,0.521,0.0,0.131,0.379,132.89,4,gospel
+2AhWt8NoWzWQOlIj1Ko95B,Sarah Farias;Midian Lima,Sarah Farias (Ao Vivo) - Live MK 10 MI,Sobrevivi - Live MK 10 MI,39,281983,False,0.538,0.79,11,-4.245,1,0.045,0.334,0.0,0.177,0.466,107.976,4,gospel
+7w9Pi6SUHwlx5fbfBaT4d3,Bruna Olly,"Vem, Espírito de Deus (Ao Vivo)","Vem, Espírito de Deus - Ao Vivo",40,264786,False,0.415,0.609,4,-5.657,1,0.0324,0.175,0.0,0.107,0.143,132.121,4,gospel
+7LtD5FhenOJRz0AXFXfNvP,Gerson Rufino,Harpa Cristã,O Senhor da Ceifa Chama,39,211560,False,0.569,0.596,0,-3.524,1,0.0306,0.755,0.0,0.0868,0.411,75.896,4,gospel
+4XZOsm9rbFcjGMqTDhJE9k,Rosa de Saron,Acústico e Ao Vivo 2/3,O Sol da Meia-Noite - Ao Vivo,41,370013,False,0.251,0.9,2,-5.202,1,0.0486,0.0831,5.26e-06,0.802,0.274,156.445,4,gospel
+136aPK6JVBoJe4PVTqdOBP,Purples,Puro e Simples,Grandioso Deus,40,243200,False,0.579,0.594,7,-5.201,0,0.0327,0.6,0.0,0.115,0.424,125.979,4,gospel
+1ygYXKBJq60bBWYYLkyaCm,Rosa de Saron,Acústico e Ao Vivo 2/3,Mais Que um Mero Poema - Ao Vivo,41,375880,False,0.467,0.883,4,-4.648,1,0.0307,0.188,0.0,0.242,0.188,98.968,4,gospel
+0Z4glj2wUh4ZIrFaehS3ms,AO Cubo,Entre o Desespero e a Esperança,Cinderela,41,314213,False,0.652,0.626,9,-7.645,0,0.198,0.365,0.0,0.166,0.708,149.89,4,gospel
+17zhTJmYHSyF9v6T9RzFcB,Rosa de Saron,Lunação,O Sol Ainda Brilha,41,272502,False,0.342,0.541,4,-5.862,1,0.028,0.103,0.0,0.115,0.193,101.68,4,gospel
+1Pg7pX24fz55TgRcnDi9YE,Eli Soares;Ministério Nova Jerusalém,Memórias 2 (Ao Vivo),Tua Unção - Ao Vivo,39,302148,False,0.338,0.484,9,-10.334,1,0.0415,0.186,0.0,0.344,0.277,134.936,4,gospel
+6Xdn9jtD8cMVtVA2EE9c4j,Daniel & Samuel,Semelhança,Abraão e Isaque,40,280600,False,0.47,0.541,0,-5.606,1,0.0307,0.543,0.0,0.0798,0.272,139.652,4,gospel
+6O2Jt6XFudWsd01bkqRirR,Rodolfo Abrantes,O Dia Que Será Pra Sempre,Saudades de Casa,39,251333,False,0.576,0.404,7,-6.702,0,0.0257,0.793,0.0,0.0893,0.335,155.946,4,gospel
+0dvgPHkCgi2HMaBL9PgXmj,Aline Barros,Graça,Lugar Seguro,40,250682,False,0.511,0.592,5,-5.596,1,0.0264,0.0484,0.0,0.127,0.282,81.947,4,gospel
+2STTSlcz0aDMKU4VPj1V8E,Eli Soares,360 Graus,Deus Não É Culpado,39,296002,False,0.315,0.406,9,-10.503,1,0.0454,0.479,0.0,0.149,0.199,85.58,5,gospel
+5qkWX9sQjSQqcMnVjBG24M,Banda Som e Louvor,"Nunca Foi Sorte, Sempre Foi Deus","Nunca Foi Sorte, Sempre Foi Deus",39,200675,False,0.794,0.849,11,-4.677,0,0.093,0.662,0.0,0.26,0.876,147.971,4,gospel
+5iq20nxupxq1fpUkX6IU6o,Daniel & Samuel,Mais um Passo,Você É Especial,40,327373,False,0.515,0.574,0,-3.902,1,0.0293,0.797,0.0,0.113,0.409,134.762,4,gospel
+6Vr5d20YKLI1FyYqDD7PL1,Gerson Rufino,Reconstrução,O Último da Fila,39,255327,False,0.609,0.68,11,-5.912,1,0.0299,0.318,0.0,0.126,0.695,139.97,4,gospel
+63qYnhfLWKoEEBY6pLHkWf,Aline Barros,Aline Barros 20 Anos Ao Vivo,O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo,40,372720,False,0.509,0.55,2,-7.17,0,0.0262,0.0731,0.0,0.682,0.397,136.969,4,gospel
+2x8BlDYVnlD57KLrbqXcbq,Vanessa Bell Armstrong,The Experience,Good News,39,379840,False,0.604,0.801,11,-4.164,1,0.224,0.148,0.0,0.907,0.537,117.963,4,gospel
+0PN4eoxzJZMnJ4zByw5dWV,Alex e Alex,Até o Céu Te Ouvir (Ao Vivo),Muda Minha Vida,39,320296,False,0.535,0.481,0,-6.81,1,0.0276,0.432,0.0,0.718,0.218,129.977,4,gospel
+7rTAIWzd94jpJdJ3DyqGw5,Kleber Lucas,Aos Pés da Cruz,Há uma Unção,39,159613,False,0.401,0.484,7,-11.828,1,0.0388,0.754,0.0,0.754,0.508,100.803,4,gospel
+7e5dxB4XlHbzakVj25TvQS,Projeto Norte,Experimente a Jornada,Incrivelmente,40,267972,False,0.592,0.412,0,-9.381,1,0.0263,0.563,4e-05,0.102,0.192,96.911,4,gospel
+1Doa0Lxwyy3t5VXTVZFR9F,DJ Roger Vale;Zack Vox;Gabriel Bulian;Brunno Ramos,Metas e Versos (feat. Brunno Ramos),Metas e Versos (feat. Brunno Ramos),40,203081,False,0.736,0.542,4,-8.443,0,0.0568,0.0607,0.0,0.343,0.196,130.027,4,gospel
+5rGVWeJK826Da7y0Cu9Z0n,Isadora Pompeo,O Teu Amor,O Teu Amor,40,279615,False,0.653,0.72,2,-9.259,1,0.0524,0.499,3.8e-06,0.127,0.768,155.899,4,gospel
+4M7zH6rJM4BOUkqdBp3fHE,Julia Vitória;One Service Project,Som das Águas (Ao Vivo),Som das Águas - Ao Vivo,39,327213,False,0.603,0.869,1,-4.924,0,0.0423,0.0446,1.42e-06,0.706,0.51,96.94,4,gospel
+6j4oYcdhFIX9EdBR51mMCG,Clayton Queiroz,Eu Vejo o Rei,Pai Eu Pequei,38,252880,False,0.528,0.6,7,-4.319,1,0.029,0.601,0.0,0.132,0.319,120.2,4,gospel
+3jxgPGMEkznAkD0VWxK2l3,Anderson Rangel,Se Deus Disser,Se Deus Disser,39,298694,False,0.512,0.541,7,-8.424,1,0.0263,0.656,0.0,0.101,0.468,96.039,4,gospel
+4aXRU1cAUFqQ8NJVWZFw5L,Diante do Trono;Ana Paula Valadão,Esperança - Diante do Trono 7 (Ao Vivo),Eis-me Aqui - Ao Vivo,39,502266,False,0.494,0.394,9,-8.462,1,0.029,0.774,0.0,0.175,0.258,123.811,4,gospel
+7u4JleMQ5t9XkIcMfzrtOm,Beatriz,Troféu de Glória,Olha Eu Aqui,40,246373,False,0.596,0.51,11,-4.991,1,0.0349,0.802,0.0,0.118,0.392,144.039,4,gospel
+3U56Hym7JjhoXA4OveRmhv,Danielle Cristina,Alegrai-Vos,"Deus, Tu É Santo",39,359626,False,0.57,0.602,3,-4.426,0,0.0295,0.591,0.0,0.148,0.275,108.06,4,gospel
+1UDViHv1sQpQT4G3Yf18IC,Heloisa Rosa,Estante da Vida,Vaidade,39,268051,False,0.494,0.443,4,-9.212,1,0.0274,0.674,6.59e-05,0.102,0.191,125.887,4,gospel
+57lEQGqRCpPVYPZaYxOKQd,Régis Danese;Brenda Danese,O Nome de Jesus Tem Poder,O Nome de Jesus Tem Poder,39,258174,False,0.586,0.401,4,-4.476,1,0.0289,0.83,0.0,0.337,0.388,124.901,4,gospel
+3UOsNxm8PMNsiDoXwyW2e4,Thays Calzavara,Recomeço,Recomeço,39,362896,False,0.176,0.533,4,-8.56,1,0.0395,0.423,0.0,0.079,0.249,198.112,4,gospel
+7Be552Vpge86q9aSLU9siI,Diante do Trono;Ana Paula Valadão;Gabriel Guedes de Almeida,Respirar (Ao Vivo),Te Adoramos - Ao Vivo,40,409002,False,0.243,0.6,11,-8.587,1,0.0378,0.264,6.6e-05,0.107,0.129,96.107,4,gospel
+5VttU3A8K4TUjuyIBWUaqu,Kleber Lucas,Deus Cuida de Mim,Jeova é o Teu Cavaleiro,39,203081,False,0.792,0.692,7,-9.58,0,0.031,0.0478,0.0,0.0793,0.732,125.151,4,gospel
+6st9cL8ZSsaceKaTEGZmgO,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),Guia-Me - Ao Vivo,39,252000,False,0.604,0.584,1,-7.584,0,0.0308,0.0587,2.4e-06,0.455,0.0783,115.068,4,gospel
+5K13JMCllsEfb4UqDIUQPm,Central 3;Gabriela Maganete,Sobre Todo Nome,Tudo Que Eu Preciso,40,337333,False,0.377,0.736,11,-3.779,1,0.0318,0.0439,0.00113,0.109,0.213,134.967,4,gospel
+3DjikuHBJ4XGVgKBDjOxzy,Central 3,Estremecem (Ao Vivo),Estremecem - Ao Vivo,40,306689,False,0.266,0.563,9,-7.234,0,0.0333,0.341,7.77e-06,0.26,0.255,147.925,4,gospel
+6OIimGJRONHhuZXSHkl1Qk,Thalles Roberto,Na Sala do Pai,Quero Aprender Com Jesus,39,312280,False,0.502,0.182,2,-11.302,0,0.0452,0.623,0.0,0.124,0.469,124.639,4,gospel
+2JTyKEvUv60PdRPSButEgl,Delino Marçal,Breve Virá,Breve Virá,39,211435,False,0.492,0.7,0,-5.643,1,0.0458,0.04,0.0,0.171,0.454,135.944,4,gospel
+1uywMDAMeLkFnatbhfXlUE,Cassiane;Eyshila,Amigo Espírito Santo (Ao Vivo),Amigo Espírito Santo (Ao Vivo),38,334310,False,0.213,0.611,8,-7.892,1,0.0416,0.233,0.0,0.103,0.169,144.086,4,gospel
+1AJN6mnd9xEWHNosK7LrBW,Pregador Luo,Governe!,Testemunhe,41,224626,False,0.661,0.635,7,-7.928,1,0.0514,0.0931,0.0,0.261,0.729,168.987,4,gospel
+0cwLOFU1Svpzp7vf3NLbqG,Comunidade Evangélica Internacional da Zona Sul,Rompendo em Fé.,Incomparável,38,257695,False,0.478,0.477,9,-9.766,1,0.0332,0.151,0.0,0.58,0.287,95.854,4,gospel
+3U8w5QCgWW7XTl19LIsHb9,Nani Azevedo,Excelência,Espírito de Adorador,38,393813,False,0.433,0.464,9,-9.279,1,0.0331,0.715,6.84e-05,0.103,0.24,78.285,4,gospel
+30kfpvQr1b78djlbUgrxnp,Eli Soares,Luz Do Mundo (Ao Vivo),O Melhor Lugar Do Mundo - Ao Vivo,39,341786,False,0.374,0.175,7,-11.676,1,0.0343,0.957,3.8e-05,0.552,0.124,111.352,4,gospel
+6sxRqCeHdAsGaXlgQETWJj,Rodolfo Abrantes;Dunamis Music,Fornalha Rodolfo Abrantes (Ao Vivo),No Teu Jardim - Ao Vivo,39,446750,False,0.334,0.655,3,-8.045,1,0.0338,0.105,0.000193,0.935,0.209,79.624,4,gospel
+6FsX4uGYBj8gjqH245iUWD,Aline Barros,Aline Barros e Cia 2,Criança de Jesus,39,153205,False,0.66,0.728,0,-4.564,1,0.372,0.363,0.0,0.824,0.806,172.441,4,gospel
+3xU7xAOD1x6ZHYF3Cd1KNb,Oficina G3,Depois da Guerra,Meus Passos,39,303020,False,0.521,0.941,8,-4.4,1,0.0936,0.000203,0.00112,0.333,0.251,104.9,4,gospel
+3JnXLE2aYxWDPk1OoFHieV,Oficina G3,Depois da Guerra,Depois da Guerra,39,294057,False,0.521,0.958,8,-3.866,0,0.115,0.000192,4.23e-06,0.0884,0.253,114.967,4,gospel
+0GvL91DbfaR7t1qDnV0ll6,Gerson Rufino,Lembranças,Alma Cansada,38,186640,False,0.644,0.431,2,-6.524,1,0.0321,0.611,0.0,0.132,0.57,170.078,3,gospel
+16azqDsjcvvn8uuLMAt5yq,Canções Para Curar,Tanto Tempo Esperando,Tanto Tempo Esperando,39,121361,False,0.437,0.316,2,-11.517,1,0.0417,0.912,0.0,0.12,0.376,129.587,4,gospel
+2SpVd9sCyoPdHI6IZoeoaT,Gerson Rufino,Carta Escondida,Carta Escondida,38,270706,False,0.603,0.543,9,-8.216,0,0.0387,0.361,0.0,0.129,0.288,144.001,4,gospel
+02hiIe9tUYeHw6l2V7H2cC,Gerson Rufino,Enquanto Falam de Mim,Eu Sou Assim,38,230373,False,0.647,0.746,6,-4.013,1,0.058,0.352,0.0,0.119,0.478,146.035,4,gospel
+3qmAUfkOjVLOu4HBdc2QER,Gerson Rufino,Harpa Cristã,Grandioso És Tú,38,323146,False,0.667,0.157,4,-11.491,1,0.0383,0.881,0.0,0.0864,0.367,119.485,4,gospel
+3JAYiqcXj2jdN1yV3ge07T,Aline Barros,Deus do Impossível,Deus do Impossível,39,209674,False,0.422,0.412,7,-7.878,1,0.0289,0.81,0.0,0.315,0.231,105.235,4,gospel
+2D4NoN5m2tPQipyD8yIdlQ,Resgate,Ainda não é o último,A hora do Brasil,38,208053,False,0.576,0.932,6,-5.179,0,0.0589,0.0281,0.0,0.239,0.548,140.038,4,gospel
+7ftmaPSD0igSn4xdRz58v6,Eli Soares;Carlinhos Félix,Memórias 2 (Ao Vivo),Palácios - Ao Vivo,39,392386,False,0.461,0.523,9,-9.584,1,0.0361,0.0295,9.97e-06,0.707,0.315,135.698,4,gospel
+7phQYZpDdrK06KZTKnaYBI,Israel Salazar,Fé Inabalável,Fé Inabalável,40,340714,False,0.523,0.585,11,-5.366,1,0.0299,0.572,0.0,0.174,0.297,112.018,4,gospel
+2oBXk4qijx2rEbezdwGyea,Filhos Do Homem,"Filhos do Homem 20 Anos, Vol. 1",Atrai Meu Coração (Ao Vivo),39,322561,False,0.544,0.271,2,-13.203,1,0.0259,0.418,7.32e-05,0.106,0.233,139.852,4,gospel
+3B9LsCt8XcnoY6WuQZrGWP,Resgate;André Freitas,Resgate 25 Anos (Ao Vivo),5:50 AM (feat. André Freitas) - Ao Vivo,39,301866,False,0.286,0.632,7,-6.876,1,0.0547,0.0892,1.43e-05,0.683,0.231,83.267,4,gospel
+6sy6IXykKu8tHeT4jsCZP4,Israel Salazar,Avante,Rei Da Glória,39,278000,False,0.178,0.687,11,-5.603,1,0.0402,0.0165,0.0,0.387,0.0913,159.708,3,gospel
+2gvn5QvlQdnE2T06ErTaer,Crianças Diante do Trono,Crianças Diante do Trono,O Amor do Nosso Deus,39,310106,False,0.583,0.263,2,-8.664,1,0.0278,0.709,0.0,0.322,0.232,133.896,4,gospel
+0D3J5hfXcaQLeMmZVxD4S7,Gerson Rufino,Homem Invisível,Minha Fé,38,226640,False,0.572,0.495,2,-9.668,1,0.035,0.252,6.64e-06,0.18,0.21,135.87,4,gospel
+2hCoTGXZCtkMwOQTvEgv4T,Banda Som e Louvor,Festa de Crente - Ao Vivo,Festa de Crente (Ao Vivo),38,481535,False,0.393,0.95,11,-4.671,0,0.212,0.366,0.0,0.817,0.553,175.276,4,gospel
+1a0o8IHsqnvW313P98H5oM,Salzband,A Esperança Se Renova,Meu Coração Te Pertence,40,378573,False,0.586,0.386,0,-8.555,1,0.0261,0.0504,5.6e-06,0.0639,0.424,139.983,4,gospel
+01joz7JAJeUU36y9r63IHL,Gabriel Brito,Desplugado (Acústico),Perfeito Amor - Acústico,39,198389,False,0.592,0.327,4,-7.102,1,0.0263,0.74,0.0,0.123,0.155,100.011,4,gospel
+5ArO6J2wOp9pMtDC7TvIVA,Daniel & Samuel,Inexplicável,Viúva Sem Nada,39,310733,False,0.634,0.723,1,-3.069,1,0.0276,0.0987,0.0,0.119,0.634,141.96,4,gospel
+6lp6PPv7PjP8mLLP7bVjgZ,Aline Barros,Aline Barros 20 Anos Ao Vivo,Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo,39,236840,False,0.303,0.459,7,-6.734,1,0.0286,0.215,2.74e-06,0.972,0.197,172.003,4,gospel
+6jFeawXXvL3BW9WyedKWug,Ton Carfi,História de Davi,História de Davi,39,271693,False,0.356,0.299,1,-10.315,1,0.0298,0.854,0.0,0.135,0.232,138.84,4,gospel
+24QPFge0DNpnbnhawmzNVQ,Ednaldo Mendes,"Perfil, Vol. 1 (As Melhores de Ednaldo Mendes)",Pela Manhã,39,293169,False,0.265,0.423,10,-4.454,1,0.0284,0.857,3.65e-06,0.352,0.158,143.085,4,gospel
+6JtAUX42kf3oOWJvZuOCs2,Pr. Júlio Ribeiro,Cantor Cristão e Harpa Cristã 9,Oh Quão Cego Andei,39,183903,False,0.598,0.155,4,-11.032,1,0.0358,0.868,0.0,0.104,0.438,137.811,4,gospel
+7JLQgcWJVMDuGM1iNc7lMh,Gabriela Rocha,Até Transbordar (Ao Vivo),Nada Além de Ti - Ao Vivo,39,300640,False,0.402,0.559,9,-6.702,1,0.0294,0.0132,4.77e-06,0.331,0.103,135.918,4,gospel
+11vPE77N1veh6sv3rn02ke,A Vida Music,Nasci pra Ser,Nasci pra Ser,39,159188,False,0.494,0.377,2,-10.23,1,0.0516,0.77,0.0,0.171,0.508,144.636,4,gospel
+1YmwVsxhLGfcfHekcK794T,Netto;Isaias Saad,Bom Demais Para Não Crer,Bom Demais Para Não Crer,39,377266,False,0.463,0.688,0,-6.968,1,0.0584,0.151,0.0,0.121,0.215,144.001,4,gospel
+22Yk1yPGtoAaJMUJEFlco2,Dunamis Music;Rapha Gonçalves;Victor Valente,Primeiro Amor (Ao Vivo),Primeiro Amor - Ao Vivo,39,747346,False,0.313,0.279,7,-10.801,1,0.0344,0.71,0.0,0.146,0.131,130.923,4,gospel
+14rFBRzVUWjVqo9qAHJFxt,Anderson Freire,Amo Você Vol. 17,Só Você,39,202431,False,0.21,0.54,7,-6.127,1,0.0304,0.519,0.0,0.544,0.503,68.924,4,gospel
+1z1VXBSMZzbQF4pvJwDjga,PG;Nívea Soares,Música e Palavra (Acústico),Meu Universo - Acústico,38,267960,False,0.559,0.403,7,-8.107,1,0.026,0.586,0.0,0.0961,0.497,131.966,4,gospel
+2I6Zlj8JDfuJyU5wq0xRwv,Suellen Lima,Pode Acreditar,As Portas Vão se Abrir,38,252212,False,0.553,0.505,5,-6.284,1,0.035,0.422,5.57e-06,0.144,0.212,142.766,4,gospel
+65qrLy7UvfRH7hNNlrGttM,Fernandinho,Galileu - Ao Vivo (Deluxe),Hosana - Ao Vivo,38,255373,False,0.488,0.912,9,-5.516,1,0.0432,0.0537,7.69e-06,0.675,0.206,108.06,4,gospel
+5oDkgd1jpgrT0wcHwtsSQq,Trazendo a Arca,Salmos e Cânticos Espirituais,Em Ti Esperarei - Salmo 27,38,314586,False,0.481,0.697,11,-4.878,0,0.0328,0.131,0.0,0.0718,0.271,139.975,4,gospel
+4d6jPYgl4nvPN2XKMyOj0V,Jairo Bonfim,Eu Clamei,Mestre,39,324893,False,0.485,0.602,0,-4.794,0,0.0311,0.642,0.0,0.183,0.213,73.044,4,gospel
+5D2xX7ZQEPcd5sUK6Kd91I,Netto;Jéssica Augusto,Enche-me Com Teu Poder (Ao Vivo),Enche-me Com Teu Poder - Ao Vivo,39,350840,False,0.49,0.757,11,-6.61,0,0.04,0.332,0.0,0.505,0.332,140.025,4,gospel
+4KvwPgAJMWNqx4lCll9Ldp,Isaias Saad,Apocalipse 4 (Ao Vivo),Apocalipse 4 - Ao Vivo,39,393717,False,0.255,0.67,1,-7.774,1,0.0399,0.203,0.0,0.584,0.213,155.087,3,gospel
+5paYxZJ0mzIfQgAjqlmTma,Os Arrais,Mais,Rojões,40,288226,False,0.191,0.266,0,-11.12,0,0.0343,0.576,2.91e-06,0.107,0.118,70.823,3,gospel
+3GOrdhP1guIoRzxAxz2itn,Soraya Moraes,Grande É O Meu Deus,Tu És Bom,39,323906,False,0.297,0.634,4,-12.031,1,0.0919,0.532,0.0,0.984,0.394,149.314,4,gospel
+0XhchBKqWbVpyKrTQR0ozN,Eli Soares,Luz Do Mundo (Ao Vivo),Eu Sou - Ao Vivo,38,240426,False,0.651,0.943,11,-6.169,0,0.109,0.351,0.0,0.92,0.669,102.004,4,gospel
+2CdnRCqfWlJ9Ik1oCZueEY,Vanilda Bordieri;Bruna Paula,Na Tua Vontade,Viverei Milagres,39,315960,False,0.522,0.776,0,-3.606,0,0.0338,0.158,0.0,0.082,0.315,140.029,4,gospel
+7dgM1Yi4Bi5uUxP5pgetoO,Gabi Sampaio;Weslei Santos,Até Que Toda Terra Cante,Na Terra Como no Céu (Here as in Heaven) (feat. Weslei Santos),39,445035,False,0.318,0.447,8,-8.288,1,0.0332,0.118,1.01e-06,0.106,0.137,138.386,4,gospel
+3xWvJFBaEMVZPwIzkO6nBo,Nívea Soares,Eu Me Alegrarei (Ao Vivo),Eu Me Alegrarei - Ao Vivo,38,278913,False,0.579,0.826,2,-8.951,1,0.0367,0.00194,1.24e-05,0.707,0.4,128.02,4,gospel
+4lghd7tdX2Z6klQywtrQW7,Canção & Louvor;André e Felipe,Tadinho de Mim,Tadinho de Mim,39,279705,False,0.706,0.81,4,-3.331,0,0.0283,0.103,0.0,0.674,0.862,120.024,4,gospel
+1ChnX2usc3g854cLBGClvc,J Neto,Retorno,O Rosto de Cristo,38,220933,False,0.314,0.35,1,-9.687,1,0.0296,0.812,2.97e-05,0.125,0.419,180.19,4,gospel
+0R297zTmGdbPtdzaUSvYub,Nathália Braga,Verdadeiro Valor,Verdadeiro Valor,39,299677,False,0.399,0.548,8,-10.326,1,0.039,0.046,0.0,0.0957,0.45,156.046,3,gospel
+3QoIb0UyxjRv1S4rMRjJWX,Toque no Altar,10 Anos (Edição Comemorativa),Bendito Serás,39,301666,False,0.514,0.427,0,-6.539,1,0.0299,0.407,0.0,0.293,0.244,141.848,4,gospel
+6UG8qpI0MhYNU7nvm2QmoT,Cassiane,25 Anos de Muito Louvor,Medley - Hino da Vitória / Recompensa,38,418237,False,0.362,0.583,5,-6.955,1,0.041,0.565,0.0,0.797,0.35,141.806,4,gospel
+4abucYPQEoAWgJEPTq08Hp,Misaias Oliveira,Canção pra Deus,Canção pra Deus,39,382748,False,0.426,0.666,3,-6.207,1,0.0343,0.207,0.0,0.667,0.322,137.594,4,gospel
+0rUr1CXoEroBjS2CRZlN8r,Fernandinho,Sou Feliz (ao Vivo),Grandioso És Tu - Ao Vivo,38,639546,False,0.232,0.401,10,-8.987,1,0.0282,0.363,0.000744,0.108,0.131,137.75,4,gospel
+3UGAT6cXT3NI73seAE2BOF,Gabriela Rocha,Jesus,Conversa de Filho,39,222533,False,0.506,0.233,7,-8.465,1,0.0338,0.609,0.0,0.0813,0.17,107.383,4,gospel
+47cudeVXxwlOYQal03mNSl,Discopraise,"Palavra, Som e Poder (Ao Vivo)",Favor de Deus - Ao Vivo,39,279026,False,0.243,0.619,5,-6.287,1,0.0336,0.0952,5e-06,0.563,0.084,143.609,4,gospel
+3X8vxZuPmSM8tJKOXaudfO,Canção & Louvor,Ainda Estás Aqui,Ainda Estás Aqui,39,260024,False,0.545,0.663,2,-5.7,1,0.0282,0.0425,0.0,0.341,0.41,135.98,4,gospel
+4z9j7avEnPRIcSYZfmaDcx,Oficina G3,Humanos,Apostasia,39,238468,False,0.251,0.908,0,-3.739,0,0.0576,0.000172,0.0542,0.097,0.727,72.569,4,gospel
+2wAaYoVqpDY4drj1J65PU2,Theo Rubia;Brunão Morada,Manifestação dos Filhos de Deus (feat. Brunão Morada) [Ao Vivo],Manifestação dos Filhos de Deus (feat. Brunão Morada) - Ao Vivo,39,389142,False,0.417,0.672,11,-8.565,1,0.0422,0.0967,3.74e-06,0.665,0.144,139.914,4,gospel
+30mZtKJnUgMmlYG58px9S9,Marcelo Markes,Seja Livre,Seja Livre,39,279000,False,0.197,0.268,10,-10.932,1,0.0301,0.882,8.58e-06,0.104,0.125,62.989,5,gospel
+63XglBo9fwIyQeqCoRrnV7,Marcos Antônio,Diamante Vol 1,Toma os Pedaços,38,315090,False,0.519,0.514,0,-5.706,1,0.027,0.372,0.0,0.0744,0.317,79.815,3,gospel
+6PwUrANpxsv6k6YA5lCdzx,Ministério Vineyard;Juliano Son,Ao Vivo No Hangar,Tão Profundo - Ao Vivo,39,248120,False,0.408,0.86,1,-5.107,1,0.0657,0.0805,0.0,0.983,0.244,107.972,4,gospel
+3BmEk1P5QraMJ87g0bm1sF,Aurelina Dourado,Pra Todo Mundo Ouvir,Pra Todo Mundo Ouvir,38,254212,False,0.397,0.627,0,-4.344,1,0.0304,0.685,0.0,0.156,0.307,158.993,4,gospel
+3BIDLsbt2mhciopVG1tuBw,Oficina G3,Depois da Guerra,Eu Sou,39,352432,False,0.359,0.924,8,-4.096,1,0.0719,0.000377,5.96e-06,0.0982,0.422,199.91,4,gospel
+0flOrYDDGlpbdyXTOMlxJ1,Nani Azevedo,Sal e Luz (Ao Vivo),Deus Proverá - Ao Vivo,38,363466,False,0.479,0.455,1,-8.057,1,0.0311,0.42,0.0,0.689,0.208,127.338,4,gospel
+5KvpILBiZsVkF1h4mtv01f,Casa Worship;Felipe Rodrigues;MOVER,Momentos,Em Tua Presença,39,411800,False,0.421,0.51,5,-8.535,1,0.0288,0.119,0.00041,0.104,0.144,75.025,4,gospel
+04D8REwnhr4GbUkXIs2FYm,Renascer Praise,Renascer Praise - XI,Lugares Altos,39,379293,False,0.423,0.44,10,-7.882,1,0.0913,0.601,0.0,0.409,0.36,131.581,4,gospel
+3XPDJCrttwr4G1GroE0J9w,Samuel Messias,Samuel Messias (Ao Vivo),Os Planos de Deus (Ao Vivo),39,294568,False,0.538,0.388,1,-10.023,1,0.0292,0.337,0.0,0.164,0.267,125.913,4,gospel
+6D0kRtdXs44vIWevOblw4I,Eli Soares;João Alexandre,Memórias 2 (Ao Vivo),Todos São Iguais - Ao Vivo,38,256197,False,0.679,0.781,11,-8.847,0,0.06,0.0668,0.0,0.692,0.771,100.013,4,gospel
+18a9QFyrmJwILt7F9EfwaX,Paulo Cesar Baruk;Leandro Rodrigues,"Piano e Voz, Amigos e Pertences 2 (Ao Vivo)",Teu Amor Não Falha - Ao Vivo,39,328866,False,0.677,0.653,9,-10.034,1,0.0692,0.45,0.0,0.974,0.504,115.952,4,gospel
+2RDZqb7DtNwUsTZfu8EqlU,Ozéias de Paula,Cem Ovelhas,Cem Ovelhas,39,186566,False,0.487,0.404,10,-7.551,1,0.0254,0.844,0.0244,0.187,0.571,87.407,4,gospel
+6ddJ6OgBMhORY6B5ocOvMq,Renascer Praise,"RP XVII - Novo dia, Novo Tempo","Novo dia, novo tempo - ao vivo",39,349480,False,0.489,0.798,10,-6.841,0,0.0612,0.221,0.0,0.916,0.346,139.897,4,gospel
+3prvn1KrrmE7vFAqzzZKNM,Banda Som e Louvor,Festa de Crente - Ao Vivo,Sem Jesus Não da (Ao Vivo),38,257927,False,0.463,0.901,0,-5.929,1,0.152,0.475,0.0,0.95,0.875,175.596,4,gospel
+06W5Cw6eutln721NGGKc1g,Daniel & Samuel;André e Felipe,Deus por Mim,Deus por Mim,39,223200,False,0.77,0.683,0,-6.328,1,0.0317,0.385,0.0,0.0953,0.817,110.021,4,gospel
+3lhFjWmGDqeTnWYXHEPbJ9,Elaine de Jesus,Até o Fim,Olha Irmão...,38,250253,False,0.636,0.524,1,-5.976,1,0.0358,0.514,0.0,0.12,0.449,141.447,4,gospel
+20MwTLTW1H0Z8wvclScryr,Gabriel Brito,Eu Tenho um Pai,A Mensagem da Cruz,39,237882,False,0.458,0.231,8,-18.767,1,0.0294,0.876,0.0555,0.107,0.104,84.997,4,gospel
+0BkcVqOrULDcssoXHc1hFW,Anderson Freire;Bruna Karla,Sou Humano,Sou Humano,39,270976,False,0.427,0.529,4,-6.461,1,0.0323,0.397,0.0,0.28,0.141,121.203,4,gospel
+34fyjViTs96VuHTC7CBfOI,Kemuel,Perfeito Amor,Perfeito Amor,37,477102,False,0.462,0.318,2,-9.413,1,0.0262,0.584,0.0,0.0929,0.24,83.041,4,gospel
+44wjNPVG7WMQhUm5k2ei6y,Liz Lanne,Deus Disse Sim,Milagre,38,259274,False,0.665,0.451,7,-8.461,1,0.0348,0.304,0.00181,0.147,0.318,126.022,4,gospel
+3WKqfCs9axMYDRW97n9Zh7,Valdeci Aguiar,Vai Dar Tudo Certo,Vai Dar Tudo Certo,38,283226,False,0.386,0.424,7,-11.413,1,0.0293,0.594,0.000987,0.125,0.175,75.561,4,gospel
+6AzvnqoLOvF9xWORA2K9Zj,Anderson Freire,Identidade,Coração de Jó,39,301580,False,0.508,0.472,2,-9.44,1,0.0263,0.574,0.0,0.0912,0.378,75.982,4,gospel
+0WeHOnIMnwKEoS7DTPx1ho,Paulo Cesar Baruk,Ousado Amor,Ousado Amor,39,354966,False,0.316,0.438,1,-8.891,0,0.0429,0.201,0.0,0.0804,0.185,107.828,4,gospel
+3MqMwwQekZvxoIIJyYv9GW,Dunamis Music;Rapha Gonçalves;Brunão Morada,The Send Brasil (Ao Vivo),Vem Derrama / Faz Chover / A Terra Clama - Ao Vivo,39,332838,False,0.187,0.775,1,-5.322,0,0.0448,0.157,0.0,0.211,0.13,142.573,4,gospel
+2Yjrfi8GTYEuTfXk1YvvMi,Isaias Saad,Isaias Saad,Vou Além,39,317333,False,0.446,0.39,7,-8.325,1,0.0275,0.542,0.00421,0.0924,0.0902,143.894,4,gospel
+4fy2gofAuBIivOokMdj1WC,Bruna Karla,Como Águia.,Como Águia,39,274366,False,0.487,0.531,9,-4.762,1,0.0266,0.131,0.0,0.0973,0.296,79.958,4,gospel
+67GVlCQILgXKM33NB4NCOb,Fred Arrais;Ton Carfi;Deive Leonardo,Deus Que Cuida (feat. Ton Carfi & Deive Leonardo),Deus Que Cuida (feat. Ton Carfi & Deive Leonardo),39,392950,False,0.493,0.38,0,-9.135,1,0.0384,0.284,0.0,0.151,0.31,123.365,4,gospel
+26Vk4uxPSYfn1w2Aq0BcX4,Eli Soares,Luz Do Mundo (Ao Vivo),Tudo Que Eu Sou - Ao Vivo,38,313346,False,0.502,0.887,6,-6.896,0,0.0934,0.0685,6.25e-05,0.983,0.716,160.001,4,gospel
+3995NhRaw1xzPikokgoHqT,Gabriela Rocha,Pra Onde Iremos?,Meu Lugar,39,225186,False,0.541,0.818,9,-3.882,1,0.0359,0.344,2.91e-06,0.141,0.287,115.045,4,gospel
+3UBNyYE56SDaVpvGZnq7iu,Fernanda Brum,Do Éden ao Éden,Escreve,39,275590,False,0.473,0.414,6,-10.479,1,0.03,0.599,0.00801,0.0787,0.159,129.901,4,gospel
+1hCpXH3ZEm6LkEfWbodNCv,Damares,O Maior Troféu,A Essência da Adoração,39,295373,False,0.568,0.67,3,-6.473,1,0.0329,0.2,0.0,0.145,0.316,109.028,4,gospel
+349BKIWoKEa8QyobTc4O20,Kemilly Santos;Anderson Freire,Presença,Presença,39,356176,False,0.439,0.715,2,-9.661,0,0.0763,0.484,0.0,0.116,0.283,139.948,4,gospel
+4iH2dwF9IkH3hQdNxzDz9j,Quatro por Um,Deixa o Céu Descer,O Mover do Espírito,38,296565,False,0.447,0.769,1,-5.219,0,0.0288,0.00731,0.0,0.289,0.428,145.949,4,gospel
+2W8Ctbm6kG0Q81ebOQITFR,Jeyzer Maia,Deus Não Falhará,Ao Único,39,215920,False,0.327,0.179,6,-14.551,1,0.0347,0.924,3.13e-06,0.111,0.279,127.599,3,gospel
+444sEbMdXQ3coiejr7UC5M,Katsbarnea,Acústico (A Revolução Está de Volta),Extra Extra,38,329666,False,0.445,0.866,7,-6.745,1,0.0595,0.491,8.13e-05,0.987,0.645,169.544,4,gospel
+5uqJ5obS0NAfRYS7F66Y5T,Fernandinho,Galileu - Ao Vivo (Deluxe),Há Poder - Ao Vivo,38,237306,False,0.479,0.634,7,-7.626,1,0.0307,0.314,0.000873,0.618,0.0476,146.035,4,gospel
+4rwqFPZDNue7AFT0CS7Cpm,Coral Palestrina,O Chamado,Eis-Me Aqui Senhor,40,107520,False,0.672,0.516,4,-11.112,1,0.0328,0.858,0.0,0.22,0.966,122.828,4,gospel
+4lllhWC7t23yII6bYoYwPn,Mauro Henrique,Pequeninos,Pequeninos,39,228631,False,0.48,0.781,1,-3.897,0,0.0435,0.201,0.0,0.0911,0.329,147.552,4,gospel
+7H74zMAlC3fZiIogelHllE,Elaine Martins,Teu Querer,Teu Querer,39,298283,False,0.414,0.584,6,-7.341,1,0.0473,0.178,0.0,0.117,0.33,144.056,4,gospel
+2W6ysQKAmbfRbMV5HVUUDO,Antonio Cirilo,A Presença Da Glória,Intimidade,39,295160,False,0.412,0.102,11,-16.856,1,0.0327,0.913,2.08e-05,0.096,0.214,103.96,4,gospel
+0T8YkQPSPF2ezkyLKQripC,André Valadão,Renovo (Ao Vivo),Criatura Igual ao Criador - Ao Vivo,39,341532,False,0.385,0.823,1,-4.81,0,0.0517,0.0745,0.0,0.116,0.242,139.776,4,gospel
+37ggwqTDiNfFIZaxUsLAjh,João Alexandre,Acústico,Teus Altares,38,226720,False,0.759,0.134,7,-14.648,1,0.0373,0.933,0.000389,0.107,0.381,104.834,4,gospel
+6ER3frVW05ALc50ffXLRrv,Damares,Diamante (2010),Diamante,39,371333,False,0.463,0.601,1,-5.363,1,0.032,0.483,0.0,0.302,0.436,152.019,4,gospel
+60OU9cpx8Gi3CLhWcfLosI,Marcos Freire,Você Verá,Você Verá,39,209000,False,0.544,0.58,9,-8.912,1,0.0455,0.243,0.0,0.107,0.197,116.102,4,gospel
+12dGdIwsVKWoi9llS1dwNA,Gabriel Guedes de Almeida,Eterno Presente (Ao Vivo),Eu Creio - Ao Vivo,39,320200,False,0.294,0.451,0,-8.162,1,0.0304,0.246,0.000122,0.0997,0.141,146.228,4,gospel
+4x2TltfXeQsID7xu2bWCr2,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),Deus Perfeito - Ao Vivo,39,209440,False,0.727,0.701,6,-6.571,0,0.0277,0.0522,2.86e-05,0.263,0.627,138.008,4,gospel
+294JPdKKPhvOSeRdp5c9nT,Fernandinho,Uma Nova História (ao Vivo),Temos Que Ser Um - Ao Vivo,38,315480,False,0.424,0.579,0,-5.685,1,0.0269,0.433,0.0,0.957,0.262,161.999,4,gospel
+1Cp8qqHVmojdQAIbJZZWGh,Kleber Lucas,Comunhão,Quatro Estações,38,232106,False,0.604,0.363,5,-10.22,1,0.0335,0.853,1.41e-05,0.122,0.363,69.969,4,gospel
+37QXq42xGy7Qmzqsozd1aM,Daniela Araújo,Criador do Mundo,Criador do Mundo,38,249306,False,0.498,0.667,10,-5.294,1,0.0259,0.261,3.42e-05,0.143,0.217,95.045,4,gospel
+6yFDc6i76pBLV6vQGIFVyP,Kierra Sheard;Chrisette Michele,Soulful Christmas,Angels We Have Heard On High,0,267666,False,0.488,0.511,5,-6.423,0,0.0292,0.219,0.0,0.113,0.195,102.756,4,gospel
+2NKViyclzGYLnThVAZUCqJ,Heloisa Rosa,Ao Vivo em São Paulo,Vem Andar Comigo - Ao vivo,38,296400,False,0.486,0.378,5,-6.954,1,0.0322,0.902,0.00186,0.864,0.32,128.9,5,gospel
+6RdPzt8LXNh7JsbEMSoxkP,Palavrantiga,Esperar é Caminhar,Esperar É Caminhar,38,371008,False,0.539,0.541,9,-7.594,1,0.0287,0.262,1.57e-05,0.123,0.275,131.919,4,gospel
+2mFW4PxWf0yw3UCgEDhJ5p,Gisele Nascimento,Janelas da Alma,Imensurável,39,306596,False,0.378,0.495,7,-5.69,1,0.034,0.513,0.0,0.215,0.215,117.997,4,gospel
+0ADe2PKjM0Y9qro21bqTou,Hillsong Em Português,quão lindo esse nome.,Vasos Quebrados (Sublime Graça),39,571453,False,0.437,0.358,7,-8.832,1,0.0261,0.232,0.0159,0.108,0.0932,140.933,4,gospel
+0aToQvWg4KfOKuHvsKcDkg,Cassiane,Faça Diferença,Mergulhe,38,276549,False,0.637,0.581,7,-6.666,1,0.0448,0.614,0.0,0.112,0.43,139.997,4,gospel
+3f7vbDryqabOxlgbVggC5V,Rachel Novaes,Cruz,Ele Vem Pra Te Salvar,39,316573,False,0.515,0.536,3,-4.829,1,0.0245,0.436,0.0,0.145,0.16,80.975,4,gospel
+4pqLCx6bMXg8MSMWjknKtZ,Rayssa e Ravel,Melhores Momentos,Nascer de Novo,37,260295,False,0.612,0.716,7,-5.38,1,0.0245,0.03,3.26e-05,0.149,0.682,105.53,4,gospel
+3CRT6IQTfsEZjiXfZ49g9w,Gerson Rufino,Bachata (Edição Histórica),Calma,38,198020,False,0.822,0.809,5,-3.703,1,0.0341,0.267,0.0,0.126,0.682,124.001,4,gospel
+37XkLh9OwbbaWPG9zJafXK,Cristina Mel,Som do Amor,Jerusalém e Eu,39,297540,False,0.494,0.526,4,-5.798,1,0.0274,0.75,0.0,0.0998,0.178,130.127,4,gospel
+2mYzwAhfjxNkUu6pJvZyCJ,Nívea Soares,Grande é o Senhor (Ao Vivo),Grande é o Senhor - Ao Vivo,38,413311,False,0.348,0.511,2,-9.779,1,0.0363,0.0304,0.0,0.919,0.16,148.034,3,gospel
+3acqNDUbt8YBfna5jauDj6,Rachel Novaes,Ao Rei,Tua É A Glória,39,217933,False,0.381,0.317,0,-11.061,1,0.03,0.898,0.0,0.69,0.382,98.3,4,gospel
+0jYjXdSui5nTJT7oGxAQqj,Fernandinho;Luma Elpidio,Fernandinho Em Casa (ao Vivo),Totalmente Teu - Ao Vivo,38,326935,False,0.393,0.586,0,-5.637,1,0.0295,0.0391,1.4e-05,0.345,0.205,144.924,4,gospel
+7rN61YZcSXeorfTlW1Tz2x,Gerson Rufino,Homem Invisível,Homem Invisível,38,237466,False,0.458,0.7,7,-6.297,1,0.042,0.349,5.46e-06,0.149,0.629,199.607,4,gospel
+5AL0MagBIiiICayHyyF9Cm,Nani Azevedo,Bendito Serei (Ao Vivo),Não Temas - Ao Vivo,38,385813,False,0.28,0.357,9,-9.33,1,0.0259,0.658,0.0,0.172,0.193,76.866,4,gospel
+6gW0LWEwnQz5RspQwmR0h2,Rodolfo Abrantes,O Dia Que Será Pra Sempre,Uma Luz Que Não Pode Se Apagar,38,226546,False,0.552,0.441,6,-7.294,0,0.0257,0.653,0.0,0.0899,0.57,79.986,4,gospel
+0LR9dbA72J4eYW8UZSrujK,Aline Barros,Deus do Impossível,Bem Mais Que Tudo,39,286393,False,0.415,0.33,7,-8.519,1,0.0299,0.653,0.0,0.127,0.199,58.401,4,gospel
+3I3UJrfL3HuojugoBSF7YW,Raquel Mello,Sinais de Deus,Oração da Família,38,277733,False,0.542,0.661,4,-5.417,0,0.0282,0.263,0.0,0.106,0.236,117.03,4,gospel
+2bf6vmRZyBaqtLGbBgn5Tn,Fernandinho,Teus Sonhos (ao Vivo),Um Dia Em Tua Casa - Ao Vivo,38,325000,False,0.534,0.974,6,-5.471,0,0.0603,0.0194,0.0,0.944,0.341,107.018,4,gospel
+6gkecwQcqKE5ZID0KxX8St,Gabriela Rocha,Pra Onde Iremos?,Interlúdio,38,39813,False,0.506,0.0494,7,-13.16,1,0.0448,0.957,1.53e-06,0.115,0.436,136.173,4,gospel
+6cpdyTXUA1NXuxkIo90dcE,Diante do Trono,Preciso de Ti - Diante do Trono 4 (Ao Vivo),"Ouve, Senhor - Ao Vivo",39,278720,False,0.469,0.513,0,-7.702,1,0.0345,0.591,0.0,0.962,0.294,130.932,4,gospel
+0FZqYPLpilpiXR6BLAZqOy,Gabriela Rocha,Até Transbordar (Ao Vivo),Atos 2 - Ao Vivo,39,278360,False,0.286,0.656,7,-7.638,1,0.038,0.00803,0.0,0.679,0.323,157.577,3,gospel
+6jozA3jqfy04zbRpoKw71J,André Valadão,Revela,Revela,39,279806,False,0.459,0.708,4,-5.909,0,0.0291,0.144,0.000177,0.0644,0.12,79.986,4,gospel
+3vzZ5uyQEYk7ai75ltQom5,Preto no Branco;Nívea Soares,O Leão E A Igreja (Ao Vivo),O Leão E A Igreja - Ao Vivo,38,267170,False,0.557,0.608,0,-5.799,1,0.0322,0.279,0.0,0.137,0.362,128.032,4,gospel
+1W2QYByH8uEy9lRRVeJAUW,Rodolfo Abrantes,Escondido Em Mim,Escondido Em Mim,38,510545,False,0.47,0.409,5,-7.853,1,0.0275,0.508,0.0,0.0941,0.235,110.03,3,gospel
+4UtEoJIvbN0k2kA8DqvLv3,Rosa de Saron;Janaina Santana,O Rio e o Mar,O Rio e o Mar,40,234124,False,0.557,0.613,0,-6.613,1,0.0302,0.176,0.0,0.11,0.205,108.037,4,gospel
+1QPj2hLuGuxqU8bHlUoUNS,Fernandinho;André Leono;Lito Atalaia,Esperarei com Paciência,Esperarei Com Paciência,38,329500,False,0.336,0.449,3,-13.598,1,0.0325,0.654,4.9e-06,0.174,0.285,74.723,4,gospel
+3HOrWApUql2jFNMIVLXD19,Mariana Valadão,As Trevas Estremecem (Tremble),As Trevas Estremecem (Tremble),38,303124,False,0.386,0.547,11,-7.056,1,0.034,0.0821,0.000201,0.0853,0.208,147.563,4,gospel
+1hLo35PYlVVE9FKHfmu41k,Pietri,Sucessos da Música Gospel (Acústico),Deus de Promessas - Acústico,38,236720,False,0.533,0.473,8,-8.306,0,0.0253,0.17,0.0,0.11,0.323,155.989,4,gospel
+2oAbbEhnptFy61hXm3BRTz,Isaias Saad;Jessica Augusto,Livre,Meu Lar,38,313132,False,0.438,0.778,0,-4.982,1,0.0396,0.0836,0.0,0.117,0.135,148.076,4,gospel
+3BwIh6FS28Txl1tVr3h7Uk,Eliã Oliveira,Benção,No Tempo D'ele,39,249320,False,0.716,0.903,3,-2.753,0,0.0605,0.281,0.0,0.218,0.623,117.997,4,gospel
+0Y5lftJhV50jLIy3xc1alV,Amanda Wanessa,Me Refazer,Me Refazer,38,194629,False,0.672,0.631,4,-4.586,1,0.0348,0.556,0.0,0.174,0.208,125.89,4,gospel
+5e6uotxqDAZ3zhZDs5aTsB,Mariana Valadão,Canções para Ninar (Instrumental),Vai Brilhar - Instrumental,38,353506,False,0.637,0.267,2,-11.257,0,0.0307,0.829,0.558,0.162,0.0493,134.018,4,gospel
+1z3gUuVS16pXsLoCue4TNI,Ronaldo Bezerra,Rei do Universo - ao Vivo,Eu Te Louvarei Meu Bom Jesus - Ao vivo,38,304573,False,0.543,0.799,1,-4.602,0,0.0577,0.385,0.0,0.935,0.668,120.194,4,gospel
+3jWAJKgbJl6mPivyVZhJo5,Damares,Obra Prima,Sou o Que Sou,38,323200,False,0.543,0.87,7,-3.778,0,0.0459,0.218,0.0,0.172,0.54,147.926,4,gospel
+5DbkBDV6ol4GUj1lIpD3Mk,Nathália Braga,Profetizo Vida,Profetizo Vida,38,346002,False,0.418,0.812,2,-1.721,1,0.0378,0.278,0.0,0.0704,0.284,155.897,3,gospel
+4M8waY2JnpO8cCckw5wk28,Anderson Freire,Anderson Freire Ao Vivo,Raridade,38,294614,False,0.498,0.622,3,-5.419,1,0.0334,0.478,0.0,0.891,0.184,133.983,4,gospel
+4DP5cIj0W7jlaHUjf9SbHa,Aline Barros,Som de Adoradores,Santidade,38,330559,False,0.566,0.617,10,-6.366,1,0.0296,0.245,0.0,0.854,0.436,131.952,4,gospel
+2Nb9mgW0c83TKElErV1hur,Jozyanne;Bruna Karla,Eu Quero Minha Bênção (Ao Vivo),Eu Quero Minha Bênção (Ao Vivo),37,324104,False,0.494,0.481,3,-8.709,1,0.0397,0.227,1.56e-05,0.0991,0.174,146.155,4,gospel
+0r34F4I7GzZFtUC4AlNcG4,J Neto,A Harpa Cristã (Interpretada por J Neto),A Mensagem da Cruz,37,356948,False,0.2,0.398,9,-8.008,1,0.0314,0.819,6.87e-05,0.385,0.267,85.156,1,gospel
+1BkYwLp35LlBJZwANUvzFs,Quatro por Um,Nada é Impossível,Um Deus Tão Grande,38,287184,False,0.352,0.677,4,-5.216,1,0.0333,0.474,0.0,0.758,0.22,134.014,4,gospel
+74HQdsytkB27nm8cxfJp0F,Nathália Braga,Esse É o Tempo,Esse É o Tempo,38,179825,False,0.694,0.745,7,-6.357,1,0.034,0.166,0.0,0.323,0.726,122.066,4,gospel
+6yB5LinokjQjvOmEnb7usV,Marcelo Markes;Isaias Saad,Vem Com Tua Glória (Ao Vivo),Vem Com Tua Glória - Ao Vivo,39,432479,False,0.319,0.825,0,-4.296,0,0.0522,0.0685,0.0,0.341,0.0743,126.968,4,gospel
+1GNYKBI2Pxivz5UdzHvuyv,Gabriel Guedes de Almeida,Não Seremos Abalados,Não Seremos Abalados,39,212837,False,0.482,0.485,9,-12.49,1,0.0444,0.305,0.00178,0.313,0.15,147.922,4,gospel
+0Nme92vYmYrVGAEslR2LB0,Oficina G3,Humanos,Desculpas,38,279754,False,0.658,0.725,0,-6.427,1,0.0295,0.000534,0.225,0.154,0.644,123.909,4,gospel
+24Kt3cqu1EAvgk6VQiQ2UB,Oficina G3,Humanos,Ele Se Foi,38,270512,False,0.551,0.595,2,-6.407,0,0.0283,0.0848,0.000165,0.393,0.26,144.184,4,gospel
+0FqBW0B73YSpw5NcmVWI4p,Klebson Kollins,Impressionante (Ao Vivo),Impressionante - Ao Vivo,39,328000,False,0.412,0.619,9,-6.471,1,0.0294,0.0502,0.00423,0.103,0.0596,134.961,4,gospel
+5ELXoPAnXUXLtl3Lsho1v4,Andrea Fontes,Andrea Fontes - Gospel Collection Ao Vivo,João Viu,38,312726,False,0.338,0.73,5,-6.175,1,0.0551,0.21,1.5e-05,0.728,0.326,140.819,4,gospel
+32lcnZn71fZ4C9CiPrIptw,Mattos Nascimento,Harpa Cristã,Há Poder no Sangue de Jesus,37,229302,False,0.534,0.498,7,-7.079,1,0.0249,0.236,0.0,0.114,0.482,79.192,4,gospel
+0woXw7yRascjnmsjvwfgGn,Hillsong Em Português,Global Project PORTUGUÊS (Portuguese),Poder Pra Salvar,39,312853,False,0.425,0.775,9,-6.842,1,0.0398,0.0252,0.000207,0.591,0.291,146.022,4,gospel
+2WsTwup8l25vHWwKosWQsv,Rosa de Saron,Lunação,Um Dia,40,245795,False,0.63,0.612,3,-4.927,1,0.0255,0.0309,4.17e-06,0.248,0.358,107.965,4,gospel
+7Cdo20MPK9QSQabUVEXfwS,Rachel Novaes;Julia Vitória,Jesus é o Centro (Jesus At The Center) [Ao Vivo],Jesus é o Centro (Jesus At The Center) - Ao Vivo,38,346346,False,0.443,0.377,2,-9.66,1,0.0349,0.524,0.0,0.166,0.299,135.959,4,gospel
+38SbpPTUdGLnLPI2UoHO2s,Cassiane,Cassiane - Gospel Collection Ao Vivo,Minha Bênção,38,258948,False,0.341,0.65,6,-5.615,1,0.0418,0.496,0.0,0.243,0.467,139.201,4,gospel
+01YEp5KTfQyoRpH3Ci1oFz,Tennessee Ernie Ford,Reelin' and Trippin' (Classy Road Trip Songs),Cincinnati Dancing Pig,0,169866,False,0.778,0.51,5,-10.072,1,0.209,0.822,0.000162,0.202,0.652,144.849,4,gospel
+5NnWQ6Bqy3Lvcek2yoUXSE,Aline Barros,Aline Barros e Cia,Samuel,38,160914,False,0.627,0.909,0,-4.179,1,0.0934,0.481,9.47e-05,0.104,0.837,159.904,4,gospel
+1JlsSflZJh35NsQbX0nhHQ,Arianne,Meu Amor Virou Gente,Meu Amor Virou Gente,38,172942,False,0.64,0.417,7,-10.181,0,0.0282,0.155,0.0,0.0832,0.213,133.983,4,gospel
+5Y1ZwJHNKXql7ZgdJnNt9d,Armando Filho,Final Feliz,Outra Vez,37,267240,False,0.47,0.52,2,-9.717,0,0.0378,0.815,0.0,0.253,0.331,139.854,4,gospel
+2jJrUywGnlCBziixCMf5JL,Cassiane,Recompensa,Recompensa,37,232571,False,0.618,0.703,5,-2.33,1,0.0535,0.706,0.0,0.164,0.486,135.957,4,gospel
+2Xq9KWHuNg0ppuoJjtkHkz,Marcos Antônio,Quem Dá Mais?,Pregadores de Rosas,38,232586,False,0.383,0.465,7,-8.705,1,0.029,0.00171,0.0,0.278,0.553,103.813,4,gospel
+28XltB21W24JFdRZbuJeah,Samuel Messias,Aqui o Mal Não Vai Entrar,Aqui o Mal Não Vai Entrar,38,247106,False,0.448,0.463,1,-7.933,1,0.0263,0.647,0.0,0.0853,0.14,98.141,4,gospel
+0SiPuRVGFgm57RyhM1RBFF,J Neto,"As Melhores Canções do JNeto, Vol. 1",Nada Me Separa Desse Amor,37,253654,False,0.488,0.32,10,-16.489,1,0.0368,0.669,0.0,0.199,0.705,81.871,4,gospel
+0q1yeocNgiiTGnDBSqqU3g,Adhemar De Campos;Rachel Novaes,Comunhão e Adoração 6 (Acústico Ao Vivo),Ele Vem Pra Te Salvar - Acústico Ao Vivo,38,302120,False,0.417,0.244,3,-12.659,1,0.0263,0.719,0.0,0.819,0.289,81.303,4,gospel
+1ruXS4lAKQKbaR48bSwPaL,Elias Silva,Conte Comigo,Deus de Israel,38,255453,False,0.738,0.499,8,-7.716,1,0.0324,0.351,0.0,0.0925,0.576,125.052,4,gospel
+5YoPEYXWQG6cyyEJPWMIc6,Lauriete,O Segredo É Louvar,O Segredo É Louvar,39,218640,False,0.59,0.549,2,-6.74,1,0.0357,0.733,0.0,0.105,0.291,132.131,4,gospel
+5q3udqWJXV2dGGR6JZPdUl,Casa Worship;Julliany Souza;MOVER,Momentos,Nome Mais Doce,38,630559,False,0.354,0.509,5,-8.421,0,0.0366,0.156,9.46e-06,0.105,0.139,133.595,4,gospel
+6EhGW7loyDD2BwPqeAKvoK,Paulo Cesar Baruk;Leandro Rodrigues,"Piano e Voz, Amigos e Pertences 2 (Ao Vivo)",Tua Forte Mão - Ao Vivo,39,270813,False,0.538,0.532,6,-8.487,0,0.0403,0.519,0.0,0.681,0.336,139.714,4,gospel
+3DpGyWrBsi29h0ee7KldAe,Elaine de Jesus;Vanilda Bordieri;Eliane Silva;Lydia Moisés;Suelen de Jesus;Célia Sakamoto;Elaine Martins;Shirley Carvalhaes,Elaine de Jesus - Manifestação da Glória (Ao Vivo),"Deus Tremendo (feat. Vanilda Bordieri, Eliane Silva, Lydia Moisés, Suelen de Jesus, Célia Sakamoto, Elaine Martins & Shirley Carvalhaes) - Ao Vivo",38,232146,False,0.575,0.898,10,-4.158,1,0.0446,0.256,6.14e-05,0.88,0.619,109.963,4,gospel
+1VumK3MVDswF8swkslzz7d,Ozéias de Paula,Entrei no Templo (Serie Especial),A Melhor Coisa Que Já Fiz,38,168334,False,0.304,0.399,7,-8.176,1,0.0304,0.79,1.51e-05,0.0992,0.446,91.711,3,gospel
+4ad1Cxg3SH5053Q7U2tiLO,Guy Penrod,Hymns,Count Your Blessings,42,203160,False,0.639,0.414,7,-6.428,1,0.0276,0.787,1.2e-06,0.0744,0.226,84.03,4,gospel
+327HwprnUtanGtxIE2boyd,Mauro Henrique;Scatolove,O Tiro,O Tiro,38,230400,False,0.582,0.792,4,-3.908,0,0.056,0.207,0.0,0.0997,0.195,94.946,4,gospel
+6jWV2lxYytUjUt9zCEYMJ1,Crystal Aikin,Crystal Aikin,I Desire More,37,258200,False,0.258,0.8,7,-4.652,0,0.091,0.142,0.0,0.144,0.228,200.063,4,gospel
+6jpwUBBRV7cPVArf4zzkYV,Dunamis Music;Victor Valente,OVERFLOW (Ao Vivo),Ao Único / Louvor ao Rei - Ao Vivo,38,329032,False,0.25,0.441,2,-8.862,1,0.0344,0.442,2.98e-06,0.1,0.238,123.602,4,gospel
+2MHys4QtjlA9PW4vpWMHme,Daniela Araújo,Santo,Santo,38,218538,False,0.278,0.437,0,-9.071,1,0.0392,0.791,0.00299,0.148,0.23,97.978,4,gospel
+0g9ZJthUXOHRZi8VGlTeg1,Dunamis Music;MORADA,The Send Brasil ONLINE,Emaús,38,390838,False,0.355,0.741,11,-5.185,1,0.0498,0.322,0.0,0.105,0.22,139.997,4,gospel
+6EU77FdHD4uuuBUf89lghI,Thaiane Seghetto,Fala Comigo,Fala Comigo,38,223375,False,0.531,0.622,1,-7.029,1,0.027,0.0179,0.0,0.0791,0.416,143.87,4,gospel
+7odiqgmzrLh19ERFa0Tj9K,Kemuel,Canta Minh'Alma (Behold),Canta Minh'Alma (Behold),37,409218,False,0.339,0.37,11,-7.735,1,0.0284,0.0322,4.29e-06,0.0627,0.0968,147.93,4,gospel
+3ZrMaNNuZfaFHw1ImfCgYa,Jamily,Seleção De Ouro,É Só Acreditar,38,229840,False,0.496,0.408,10,-11.659,1,0.0268,0.281,0.0,0.22,0.541,74.979,4,gospel
+1NULe7ZHyluNNeZep8hrsH,Ednaldo Mendes,"Perfil, Vol. 1 (As Melhores de Ednaldo Mendes)",Te Darei,38,261550,False,0.397,0.425,7,-6.119,1,0.0265,0.65,2.51e-05,0.0998,0.139,97.665,4,gospel
+6jX04Eb3exAvdWW4zx5gmp,Matheus Balo,O Melhor Dessa Vida (Stripped),O Melhor Dessa Vida - Stripped,38,229760,False,0.357,0.32,2,-13.696,1,0.0298,0.128,5.28e-05,0.368,0.17,149.65,3,gospel
+6KHeC3PaXJrsrzkMuop9Gl,Central 3,Cumprirás,Cumprirás,39,340493,False,0.414,0.482,2,-7.948,1,0.0317,0.212,1.34e-05,0.0773,0.152,146.752,3,gospel
+2j3jKZm09BQYgy4ogvPgUF,Gabriela Rocha,Pra Onde Iremos?,Vou Te Adorar,38,207866,False,0.441,0.863,0,-3.276,1,0.0399,0.201,2.28e-06,0.118,0.255,135.143,4,gospel
+3U1Zetk4lrnWIV52PyxVwq,Gabriela Rocha,Jesus,Jesus,38,404933,False,0.482,0.387,9,-8.478,1,0.0278,0.665,0.0,0.329,0.0543,99.97,4,gospel
+0AfAGOBjn1HBvsHb4Gg11T,Fruto Sagrado,Distorção,Superman,37,278082,False,0.621,0.768,11,-6.72,1,0.0391,0.000793,5.75e-06,0.215,0.285,126.686,5,gospel
+0hanSoAObEb4VFJX3ro6Kq,Ministério Adoração e Vida,O Céu Se Abre,Simplesmente Amar,39,261399,False,0.495,0.357,4,-5.341,1,0.0251,0.686,0.0,0.154,0.367,78.908,3,gospel
+3YKQJOawL5m97eQtjg7jcF,Diante do Trono;Ana Paula Valadão,Deserto de Revelação,É Suficiente,38,371360,False,0.535,0.581,9,-6.043,1,0.0294,0.0207,0.0,0.389,0.0651,105.991,4,gospel
+3FtgSioQocXl3D0nKhieP0,Thalles Roberto,Na Sala do Pai,Ele É Contigo,39,279613,False,0.809,0.465,11,-7.972,0,0.0388,0.0598,0.0,0.119,0.475,98.023,4,gospel
+1nO5IooVgtkqV8xn6xhqM4,Aline Barros,Aline Barros e Cia (Playback),Homenzinho Torto (Playback),38,167555,False,0.842,0.606,9,-7.176,1,0.0515,0.102,0.0,0.106,0.883,109.997,4,gospel
+3HgLq0q5TT4AZ4tXGouATI,Isadora Pompeo,Pra Te Contar Os Meus Segredos (Ao Vivo),O Teu Amor - Ao Vivo,38,309773,False,0.526,0.875,2,-6.774,1,0.0663,0.0361,0.0,0.916,0.485,155.919,4,gospel
+6pSsG6BhRbuWTIRpKHQloF,Marcelo Markes,Sinto Fluir (Ao Vivo),Sinto Fluir (Ao Vivo),38,275257,False,0.456,0.341,1,-7.247,1,0.0297,0.774,0.0,0.0756,0.182,125.096,4,gospel
+6i7DyKzkNHXLbRRnMMinVI,Central 3;Pevê Brito;Drops INA,Cordeiro e Leão (Ao Vivo),Cordeiro e Leão - Ao Vivo,39,652137,False,0.303,0.546,4,-7.633,0,0.0338,0.199,0.0,0.685,0.2,101.931,4,gospel
+0RQTFRdO3LcKQ1GeoXHnIj,Thalles Roberto,Dios Me Ama,Dios De Mi Vida,38,278266,False,0.656,0.876,10,-3.649,1,0.123,0.123,5.72e-05,0.466,0.531,103.911,4,gospel
+1TrBxJdVre9fDf5nEO7v9N,Gabriela Rocha,Jesus,Reconhecemos,38,273080,False,0.522,0.387,7,-6.03,1,0.0291,0.344,0.0,0.118,0.112,111.93,4,gospel
+3ysiBzk8LiZaik65dHuqDh,Daniela Araújo,Daniela Araújo,Guia-Me,38,237819,False,0.539,0.298,1,-9.867,1,0.0287,0.667,0.00204,0.129,0.223,136.022,4,gospel
+3w53peQOx3fcgcLRQrJjdc,Cassiane,Sementes da Fé,Sementes da Fé,37,364692,False,0.636,0.538,2,-8.026,0,0.0289,0.32,0.0,0.0879,0.76,144.775,3,gospel
+7xfxErLZXui34OxxUthzjU,Midian Lima,O Nome de Jesus (The Name Of Our God),O Nome de Jesus (The Name Of Our God),38,413000,False,0.512,0.75,8,-7.668,1,0.0568,0.342,0.0,0.162,0.395,147.999,4,gospel
+3xIPfMxsPGsN98bedAYqQ3,Ministério Adoração e Vida;Adriana Arydes,Em Santidade,Decididamente,39,315093,False,0.487,0.598,7,-3.89,1,0.034,0.397,0.0,0.181,0.307,131.956,4,gospel
+2bgb0Mohm0BFfbWQqiHxTb,J Neto,A Harpa Cristã (Interpretada por J Neto),A Ovelha Perdida,37,272277,False,0.414,0.241,2,-8.76,1,0.035,0.884,0.0,0.103,0.241,147.548,3,gospel
+2ERolMyJ7jokgggluEPg0M,Gabriel Guedes de Almeida,Cantarei Teu Amor,Cantarei Teu Amor,38,194000,False,0.332,0.238,8,-12.942,1,0.0355,0.786,0.0,0.182,0.394,159.632,4,gospel
+72HHLF55SDqCvsgkpRIsN8,Oficina G3,Humanos,Eu Sei,37,264568,False,0.626,0.688,5,-6.41,1,0.0239,0.0295,0.00117,0.201,0.449,83.437,4,gospel
+4UfZMDH9o6pw6ZwGhFOahe,Pr. Rodrigo Soeiro,Cantor Cristão e Harpa Cristã 3,Firme nas Promessas,38,132334,False,0.505,0.207,5,-14.45,1,0.0418,0.801,0.0,0.105,0.435,76.084,4,gospel
+2iYXSXjBdWroGKE69mGadT,Leonardo Gonçalves,Principio (Ao Vivo),bondade - Ao Vivo,37,251866,False,0.554,0.683,5,-6.461,1,0.032,0.345,5.04e-05,0.924,0.3,117.989,4,gospel
+4lADaIG68wwDcYeSDRy86i,Cristina Mel,Tudo por Você,Tudo por Você,38,275253,False,0.48,0.585,9,-4.925,1,0.0324,0.366,0.0,0.176,0.389,131.941,4,gospel
+2eoOnhdyLKhPaSW3PhfRSv,Trazendo a Arca,Pra Tocar no Manto (Ao Vivo),Seras Sempre Deus - Ao Vivo,37,352786,False,0.536,0.679,4,-5.863,0,0.028,0.01,0.0,0.964,0.149,144.015,4,gospel
+5QUjSnLOXb7ors2PiUm8Cg,Nani Azevedo,Excelência,O Melhor Desta Terra,37,396506,False,0.225,0.724,7,-7.272,1,0.0565,0.335,0.0,0.138,0.343,62.06,4,gospel
+27kYyisy1Or7SFxUdyWZIL,Fernanda Brum,Quebrantado Coração,O Amor Que Cura,38,256255,False,0.647,0.362,11,-7.677,1,0.0312,0.687,0.0,0.111,0.183,100.194,4,gospel
+6kRyHBN2bEncifnisnxtCN,Diante do Trono;Ana Paula Valadão,Quero Me Apaixonar - Diante do Trono 6 (Ao Vivo),Eu Nasci de Novo - Ao Vivo,38,863306,False,0.509,0.606,11,-6.667,1,0.0382,0.494,0.0,0.349,0.284,144.012,4,gospel
+1Js3IZIgO85T6XxQj6P2NN,Leonardo Gonçalves,Principio (Ao Vivo),Ele Vive - Ao Vivo,38,261493,False,0.382,0.466,2,-8.1,1,0.0346,0.316,5.58e-06,0.311,0.142,74.894,4,gospel
+4XWi4zKZ3Z1Hz0aZacJqci,J Neto,"As Melhores Canções do JNeto, Vol. 1",Na Alegria ou na Dor,37,296014,False,0.445,0.422,7,-9.241,1,0.027,0.581,5.78e-06,0.316,0.309,67.511,4,gospel
+1IxMcTkR2WLBCQv9rjPAbi,Marcos Antônio,Toma os Pedaços,As Três Coroas,37,234657,False,0.608,0.421,6,-13.849,1,0.0496,0.499,0.0,0.172,0.553,107.779,4,gospel
+1uCpdV7uYJnueS4JMxNc3t,Gisele Nascimento,Gisele Nascimento (Ao Vivo),Minha História (Ao Vivo),38,283794,False,0.452,0.578,6,-6.053,1,0.0361,0.477,0.0,0.172,0.614,126.105,4,gospel
+7tQXOQUNmoH2YTxm1vxmwL,Rodolfo Abrantes;O Muro de Pedra,Joio ou Trigo,Tão Sublime,38,316346,False,0.589,0.608,8,-5.985,1,0.0265,0.0523,0.0,0.13,0.425,99.998,4,gospel
+2JJstgu72jt2qlB9Bw384J,Novo Som,"Para Sempre, Vol. 1",Pra Você,37,294586,False,0.562,0.406,5,-9.924,1,0.0267,0.654,0.0,0.0753,0.263,127.68,4,gospel
+1tWh1QYyjOE1du04qRuM4n,Rose Nascimento,Respire Fundo,Respire Fundo,38,304853,False,0.44,0.642,4,-6.509,0,0.0477,0.493,2.55e-06,0.279,0.203,144.065,4,gospel
+4rtyV2gthc3k6D0rjcQJOR,Alda Célia,Jardim Secreto da Adoração,Obrigado Jesus,38,259041,False,0.517,0.818,7,-5.665,1,0.0407,0.445,0.0,0.961,0.452,139.867,4,gospel
+1irO0WkYsvyJn69eU2WPtp,Cassiane,Nível do Céu,O Leão e o Cordeiro,37,380110,False,0.462,0.721,0,-2.279,1,0.031,0.524,0.0,0.099,0.148,139.927,4,gospel
+4tHgXBPGdMRjXDSSpzrgEx,Lauriete,Tô Na Mão de Deus,Dias de Elias,38,484093,False,0.468,0.839,2,-4.442,1,0.0757,0.487,0.0,0.104,0.659,99.147,4,gospel
+6MQtLz88s1JK4aTXVI9zvf,Paulo Cesar Baruk;Leandro Rodrigues,"Piano e Voz, Amigos e Pertences 2 (Ao Vivo)","Calmo, Sereno e Tranquilo - Ao Vivo",38,142773,False,0.757,0.359,2,-12.27,1,0.0509,0.757,5.55e-06,0.968,0.373,95.024,4,gospel
+12Tz3nIzkAgfuctmugT8is,Aline Barros,Aline Barros e Cia,A Oferta da Viuvinha,38,189799,False,0.673,0.8,2,-5.253,1,0.0515,0.0728,0.0,0.181,0.964,153.984,4,gospel
+0JpSWEkjpNEfnmlPTYw60F,Thalles Roberto,"Saudade, Vol. 2",Deus da Minha Vida,37,285601,False,0.735,0.774,2,-6.919,0,0.0343,0.418,0.00227,0.727,0.562,101.987,4,gospel
+61fJbKeTzsoKwSgYEFjmsY,Os Arrais,Rastros e Trilha,Deserto,39,302653,False,0.446,0.221,11,-17.759,0,0.0299,0.719,0.0458,0.116,0.24,73.662,4,gospel
+5DPi7EE9aLbA39b3uWlv6z,Alugiana,A Glória,A Glória,38,301080,False,0.564,0.73,4,-5.538,0,0.0361,0.274,0.0,0.119,0.272,131.87,4,gospel
+513qzL4sJwVPpzdc7AXZvH,Megafone,O Amor Venceu,A Casa é Sua,37,247160,False,0.388,0.643,2,-5.553,1,0.0283,0.00676,0.0,0.313,0.337,159.873,4,gospel
+5QLKWX0W2fcPqeuwG5pg2O,Ministério Koinonya de Louvor;Ludmila Ferber,Adoração 8 - Maravilhoso És,Maravilhoso,37,272770,False,0.325,0.369,7,-13.408,1,0.0327,0.871,3.53e-06,0.872,0.186,99.71,4,gospel
+71SkFSzzAmdsM2Kgzpo35c,Isaias Saad;Luma Elpidio,Isaias Saad,Estou Aqui,38,284440,False,0.449,0.354,9,-8.585,1,0.0284,0.522,5.46e-05,0.0747,0.128,134.057,4,gospel
+5kE7cZqcTiV6VBDYvltiCG,Paulo Cesar Baruk,Lá,Lá,38,253853,False,0.433,0.799,0,-6.124,1,0.0429,0.00268,4.08e-05,0.0786,0.263,99.943,4,gospel
+3AuqTrp6jqLVXc5DvXKtAV,Thalles Roberto,Pentecostes (Ao Vivo) [Deluxe],Jacó Segurou O Anjo (Ao Vivo na Lagoinha Alphaville),38,248947,False,0.656,0.979,6,-4.982,0,0.09,0.0168,8.5e-05,0.822,0.523,109.999,4,gospel
+5cKFHYKKCkCi6Y54erg2mr,Wilian Nascimento,Filho,Filho,38,253031,False,0.439,0.434,4,-10.008,1,0.0304,0.527,0.0,0.122,0.295,106.635,4,gospel
+58iOVhZsIfpbU0QumsTBZT,Além do Véu;Brenda,Além do Véu Ao Vivo,Mensagem da Cruz (feat. Brenda) - Ao Vivo,38,141573,False,0.328,0.672,11,-3.15,1,0.0457,0.618,0.0,0.779,0.0864,150.43,4,gospel
+64aEE23XF5Sna5Isc1HISM,Mariana Valadão,De Todo Meu Coração,Se Eu Apenas Te Tocar,38,385986,False,0.576,0.544,4,-7.966,1,0.0276,0.0779,0.000139,0.135,0.103,140.035,4,gospel
+1lkGggSQYb4s6JKDuR9xfm,Fernanda Brum,Terceiro Céu,És Real Pra Mim,38,334506,False,0.438,0.141,2,-11.934,1,0.0338,0.698,1.7e-06,0.115,0.0889,119.574,4,gospel
+1EWWxmA8qA5codLhzhxvaC,A Vida Music,Lugar de Refúgio,Lugar de Refúgio,38,159207,False,0.582,0.287,2,-9.597,1,0.0361,0.896,4.42e-06,0.212,0.543,82.835,4,gospel
+0qTmSeOA6pQsqQmCTkRMp4,Aurelina Dourado,Na Alegria ou na Dor,Na Alegria ou na Dor,37,284081,False,0.665,0.665,10,-5.011,1,0.029,0.0903,0.0,0.109,0.441,139.948,4,gospel
+3hIKzkDPDZhMbZr0Zqf4j5,Gerusa Barros,"A Voz da Alma, Vol. 9",Espírito de Adorador,38,242266,False,0.604,0.464,7,-8.285,1,0.0375,0.752,0.0,0.128,0.341,140.043,4,gospel
+5RADu18u3QUKFKFBD0Cvco,Gabriela Rocha,Jesus,Não Há Nada Mais Doce,38,263000,False,0.549,0.501,4,-5.449,0,0.0302,0.503,0.0,0.505,0.0816,112.034,4,gospel
+3ghY1MUkBTB80hwDHXCroW,Gabriela Rocha,Juntos Em Adoração (Live 2020),Lugar secreto / Pai nosso - Live 2020,38,515385,False,0.334,0.835,9,-4.053,0,0.0545,0.00477,0.0,0.236,0.235,136.624,4,gospel
+5y9uzQPYBVicXcQaWY6L9q,Cassiane,Sementes da Fé,O Abraço do Noivo,37,446937,False,0.314,0.517,0,-7.179,1,0.0312,0.598,0.0,0.23,0.32,86.491,3,gospel
+4faZgoxDk9B4Hx653KnQ9j,Gabriel Guedes de Almeida,Liberta-Me de Mim,Liberta-Me de Mim,38,224233,False,0.313,0.338,9,-12.967,1,0.0354,0.839,0.0,0.0885,0.359,128.258,4,gospel
+0aWJ9ou23XRDm3THyhrHGC,Preto no Branco;Salomão;Pedro Vuks;Eli Soares,Preto no Branco (Ao Vivo),"Baseado em Quê (feat. Salomão, Pedro Vuks & Eli Soares) - Ao Vivo",38,285533,False,0.699,0.785,0,-7.015,1,0.0599,0.645,0.0,0.844,0.496,102.842,4,gospel
+57ParXtU40pX8FFOQch1CV,Samuel Mariano,Adorarei,Reatando a Amizade,38,298600,False,0.453,0.476,7,-7.563,1,0.0418,0.617,0.0,0.109,0.371,128.99,4,gospel
+5Z7P7KAbtSRqGAg5t44PI4,Vanilda Bordieri;Leandro Borges,Depois dos Quarenta,Tudo Sobre Mim,38,242641,False,0.585,0.382,4,-6.81,1,0.0369,0.645,0.0,0.258,0.169,61.113,4,gospel
+2YaeyzC06T8zuqYieaqnnZ,Paulo Cesar Baruk,Graça,Sobre a Graça,38,243373,False,0.573,0.794,2,-3.012,0,0.0447,0.0967,0.0,0.153,0.336,75.011,4,gospel
+0LzzMI722rxY6FjdGP1Itq,Voz da Verdade,Somos Mais Que Vencedores,Debaixo das Asas,37,403480,False,0.646,0.677,5,-5.084,1,0.0257,0.166,0.00924,0.164,0.236,97.006,4,gospel
+5fDZt05ozut2xpsiby2v3h,Palavrantiga,Sobre o Mesmo Chão,Minha Menina,37,278466,False,0.439,0.803,2,-5.073,1,0.0414,0.000445,0.0,0.0556,0.543,150.061,4,gospel
+6ZdPLdj9OFQaHO25TVGTVN,Canção & Louvor,Maravilhoso,Maravilhoso,38,308253,False,0.568,0.812,2,-5.28,0,0.0805,0.171,0.0,0.252,0.267,130.177,4,gospel
+7tUHlsHVzRKtvbbPlQ30ZD,Weslei Santos;Kemuel,Pra Todo Mundo Cantar III (Ao Vivo),O Rei está Voltando - Ao Vivo,38,460910,False,0.293,0.492,6,-9.267,1,0.0315,0.468,0.00121,0.0593,0.207,159.995,3,gospel
+1ACClyt4wNFFdC1xntWB2i,Oficina G3,Depois da Guerra,Tua Mão,38,265822,False,0.471,0.828,7,-4.178,1,0.0368,0.0188,0.0,0.111,0.169,140.007,4,gospel
+5URQ1xSOkuIhyP9jjd4tXk,Samuel Messias,Gerado no Altar (Ao Vivo),Gerado no Altar (Ao Vivo),38,357954,False,0.328,0.474,6,-7.972,1,0.0659,0.449,0.0,0.0772,0.236,174.799,4,gospel
+58rvKBnfptMM2MkpPGnQz1,Paulo Cesar Baruk,Louvor Eletro-Acústico 1,Dependo de Ti,38,306693,False,0.387,0.516,4,-7.248,1,0.0401,0.626,0.0,0.18,0.157,130.008,4,gospel
+3Btrmt5NfZM8NJlp6mQMNJ,Amanda Wanessa;Priscila Lopes;Débora Passos;Felipe Dutra,Mergulhar,Perto Quero Estar,38,298226,False,0.419,0.586,7,-4.455,1,0.0272,0.189,0.0,0.277,0.115,140.139,4,gospel
+6sM30rbZYMZSwsct7qIwv6,Oficina G3,Humanos,Minha Luta,38,256812,False,0.562,0.619,2,-5.718,1,0.0303,0.00343,0.000325,0.0792,0.171,124.975,4,gospel
+0OF2DIIrDMpFhPuNMIYdMd,Paulo Cesar Baruk,Graça Quase Acústico {rs},"Senhor, Preciso de Ti (Lord, I Need You)",38,264320,False,0.209,0.341,10,-10.403,1,0.0357,0.808,0.000117,0.145,0.0908,80.821,3,gospel
+6Hb2DV9hl1ENg6t0zqd8yQ,Lauriete,Palavras,Palavras,38,325466,False,0.479,0.637,8,-7.072,1,0.0299,0.0706,7.48e-05,0.358,0.473,140.048,4,gospel
+5iWARO07W7fW9uaU07zMeT,Cassiane,Harpa Vol.1,Alvo Mais que a Neve,37,345698,False,0.41,0.536,0,-5.55,1,0.0307,0.803,0.0,0.0972,0.224,128.272,4,gospel
+6rA31fX5V1f1FLzmj18ifB,Arianne,Como Cantavam Nossos Pais (Ao Vivo),Estrela da Manhã - Ao Vivo,37,323909,False,0.592,0.296,4,-14.287,0,0.0302,0.809,0.00149,0.663,0.278,127.652,4,gospel
+2Iivr4Fw5UsADw9HKbqhk4,Asaph Borba,Jubileu 25 Anos,Jesus em Tua Presença,37,320160,False,0.337,0.482,2,-7.575,1,0.0302,0.308,0.0,0.558,0.194,107.472,4,gospel
+23MAPI806qjM6lAXFa5dcK,Oficina G3,Depois da Guerra,De Joelhos,38,319181,False,0.522,0.873,0,-4.411,0,0.061,0.00107,4.51e-05,0.147,0.423,95.025,3,gospel
+4A9zhXKUweuLAtkHudgrXG,Valesca Mayssa;Sarah Farias,De Janeiro a Dezembro,O Céu Tem Mais,38,452789,False,0.511,0.723,2,-4.243,1,0.0481,0.325,0.0,0.719,0.551,135.952,4,gospel
+0Q4kMlGILF6jZvfEDFnZBz,André e Felipe;Midian Lima,Em Meu Coração,Prossiga (feat. Midian Lima),37,272697,False,0.469,0.732,4,-4.686,1,0.0362,0.356,0.0,0.082,0.441,139.881,4,gospel
+2gKDcx33x3s7anJxhBLVz5,Ministerio Ipiranga,Venha Teu Reino,Águas Limpas,37,387146,False,0.546,0.601,4,-6.522,1,0.04,0.676,0.0,0.918,0.253,124.921,4,gospel
+45eEjffcfZfXgILWoY2tZw,Trazendo a Arca,10 Anos (Edição Comemorativa),Sobre as Águas,37,340626,False,0.442,0.447,1,-7.557,0,0.0278,0.456,0.0,0.975,0.165,137.987,4,gospel
+2OBrDXJa7Y0XLGyuMvETE9,Gabi Sampaio,Vitorioso És (ao vivo),Vitorioso És - ao vivo,38,366857,False,0.465,0.624,9,-7.679,1,0.031,0.0525,3.62e-05,0.0945,0.127,139.904,4,gospel
+6OJLkCnWGRyjqQWIgd18R2,Oficina G3,Histórias e Bicicletas,Não Ser,38,351642,False,0.482,0.968,5,-2.762,1,0.091,0.000443,7.23e-05,0.117,0.185,112.006,3,gospel
+5nIdb0Gpg2Mb0ktbFrM9Ot,Cassiane,Para Sempre,Onde Jesus Mora,37,263500,False,0.575,0.36,4,-10.344,1,0.0345,0.452,0.000117,0.372,0.424,73.029,4,gospel
+5UwPjdozIUsYmWU0AGA0vt,Junior,Soldado Ferido,Soldado Ferido,38,287800,False,0.541,0.391,10,-8.571,1,0.023,0.603,3.04e-06,0.233,0.284,76.864,4,gospel
+3opLAlkWTG8q832nyb5rHf,Daniel & Samuel,A Música do Céu,A Música do Céu,38,275431,False,0.65,0.611,11,-4.173,1,0.034,0.432,0.0,0.0931,0.392,130.099,4,gospel
+1QRyL0hj1iKafA4gbSaxB7,Novo Som;Catedral,Mais Que Amigos = Irmãos (Ao Vivo),Você - Ao Vivo,37,369400,False,0.654,0.742,7,-6.54,1,0.0259,0.581,2.23e-05,0.712,0.785,113.272,4,gospel
+2Msg6jQVczsxdK5z7JS3S8,Amanda Ferrari,Eu Vejo Deus,Decreto de Deus,37,273066,False,0.578,0.696,5,-5.053,1,0.0277,0.394,0.0,0.247,0.602,143.865,4,gospel
+75U7VG9j6uXJNc5RqxKeXC,Gabriel Brito,Onde Estás,Onde Estás,38,322702,False,0.412,0.4,5,-9.947,1,0.0271,0.756,0.0706,0.127,0.0804,147.888,4,gospel

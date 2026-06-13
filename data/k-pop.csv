@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+3hkC9EHFZNQPXrtl8WPHnX,Alka Yagnik;Arijit Singh,Tamasha,Agar Tum Saath Ho,73,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,k-pop
+45OX2jjEw1l7lOFJfDP9fv,LISA,LALISA,MONEY,78,168227,False,0.826,0.553,1,-10.121,0,0.234,0.163,4.12e-05,0.135,0.4,140.037,4,k-pop
+5aucVLKiumD89mxVCB4zvS,Crush;j-hope,Rush Hour,Rush Hour (Feat. j-hope of BTS),83,177302,False,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,4,k-pop
+1R0hxCA5R7z5TiaXBZR7Mf,JENNIE,SOLO,SOLO,73,169566,False,0.752,0.642,3,-5.165,0,0.0869,0.0861,0.0,0.0953,0.388,95.043,4,k-pop
+4a9tbd947vo9K8Vti9JwcI,BTS;Halsey,MAP OF THE SOUL : PERSONA,Boy With Luv (feat. Halsey),80,229773,False,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4,k-pop
+6cvGDClEIomp5CfKY3pQuZ,Jubin Nautiyal,Dhokha Round D Corner,Tu Banke Hawa,32,288020,False,0.273,0.588,1,-9.564,0,0.0579,0.265,0.000307,0.178,0.138,88.045,4,k-pop
+2KZ3sNqPogEyMUUH6A5HFy,LISA,LALISA,LALISA,73,200689,False,0.804,0.652,8,-6.282,1,0.0898,0.0267,0.000782,0.118,0.854,150.076,4,k-pop
+2kOH2QZB7F7I1iVXqwKuBF,Dhanush;Anirudh Ravichander,"Mayakkama Kalakkama (From ""Thiruchitrambalam"")","Mayakkama Kalakkama (From ""Thiruchitrambalam"")",77,142258,False,0.789,0.536,9,-5.422,0,0.0424,0.604,2.09e-06,0.088,0.877,124.029,4,k-pop
+5FVbvttjEvQ8r2BgUcJgNg,BTS,BE,Life Goes On,79,207481,False,0.566,0.716,1,-5.733,1,0.0424,0.00691,0.0,0.37,0.45,81.068,4,k-pop
+459EdQfV196emJYVTMYZd1,Alka Yagnik;Alap Desai,Gayatri Mantra,Gayatri Mantra,31,245000,False,0.42,0.341,0,-8.075,1,0.0325,0.942,0.00123,0.105,0.193,107.862,4,k-pop
+7HPM13Xek5XoRWxRzHfvkB,Jubin Nautiyal;Meet Bros.;Shardul Rathod,Dil Galti Kar Baitha Hai,Dil Galti Kar Baitha Hai,67,273272,False,0.612,0.78,1,-5.123,0,0.0814,0.0781,0.0,0.0593,0.554,92.059,4,k-pop
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,BE,Dynamite,85,199053,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,4,k-pop
+0loZn1c5heXie7OAtvK6nH,Jubin Nautiyal;Rocky - Shiv,Humnava Mere,Humnava Mere,72,328992,False,0.401,0.553,5,-8.263,0,0.0337,0.47,2.96e-06,0.124,0.364,79.144,4,k-pop
+7EyhPjrJzjx0fk2i7vUJCS,BLACKPINK,Pink Venom,Pink Venom,85,186964,False,0.794,0.719,0,-7.227,1,0.0761,0.0119,0.0,0.276,0.69,90.016,4,k-pop
+4bt0XG1MoZ1fkZ095X6WHC,Yuvan Shankar Raja;Dhanush,Naane Varuvean,Rendu Raaja,36,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,k-pop
+3BHR1mJOqn2UZyq98YKPgd,BLACKPINK,BORN PINK,Typa Girl,82,179172,True,0.918,0.585,7,-7.781,1,0.0889,0.0627,0.0,0.624,0.519,131.966,4,k-pop
+1I2MEjnS9c4OPMnKWbIuYs,BLACKPINK,BORN PINK,Hard to Love,80,162569,True,0.647,0.723,5,-6.214,1,0.0491,0.00503,0.0,0.176,0.443,105.001,4,k-pop
+6bvZRLLkBKkmgpBJTTj3QK,BLACKPINK,THE ALBUM,How You Like That,75,180956,False,0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,4,k-pop
+6m1TWFMeon7ai9XLOzdbiR,BTS,Love Yourself 轉 'Tear',FAKE LOVE,76,242333,False,0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,4,k-pop
+6tCd8bPvYnceDG7W9M1RMk,BLACKPINK,BORN PINK,Shut Down,87,175889,False,0.813,0.657,0,-6.447,1,0.0372,0.00269,0.0,0.183,0.651,110.053,3,k-pop
+4nX9XlGazE4EkOJQyrT64j,Yuvan Shankar Raja;Dhanush,"Rendu Raaja (From ""Naane Varuvean"")",Rendu Raaja,66,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,k-pop
+1pean7zvZUqcWZaUucH63f,Dhanush;Anirudh Ravichander,"Thaai Kelavi (From ""Thiruchitrambalam"")","Thaai Kelavi (From ""Thiruchitrambalam"")",76,258909,False,0.661,0.92,9,-3.469,0,0.188,0.0352,1.4e-05,0.314,0.494,82.508,4,k-pop
+58SIEtTjWErr0yEXVBKxvd,Jubin Nautiyal,Shri Krishna Govind Hare Murari,Shri Krishna Govind Hare Murari,66,153002,False,0.59,0.632,7,-7.996,1,0.0376,0.301,0.0,0.169,0.345,110.0,4,k-pop
+6TQS7URegxmcb8tTNpoXzi,Dhanush;Anirudh Ravichander,"Megham Karukatha (From ""Thiruchitrambalam"")","Megham Karukatha (From ""Thiruchitrambalam"")",80,290400,False,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,3,k-pop
+5YMXGBD6vcYP7IolemyLtK,BTS,Love Yourself 結 'Answer',Euphoria,78,228615,False,0.637,0.799,2,-4.518,1,0.0338,0.394,0.0,0.0921,0.57,104.996,4,k-pop
+7k7DnptxRrSXcTdEPd1R4F,Yuvan Shankar Raja,Naane Varuvean,Veera Soora,36,205145,False,0.552,0.742,2,-7.801,1,0.118,0.219,2.25e-05,0.21,0.537,200.029,4,k-pop
+0lNr0bkRupchqckGeSMSpZ,Yuvan Shankar Raja,"Veera Soora (From ""Naane Varuvean"")",Veera Soora,70,205145,False,0.518,0.723,2,-8.075,1,0.137,0.157,1.2e-05,0.107,0.363,100.118,4,k-pop
+5t5NtSHXgRdREs8wPM5LSz,Yuvan Shankar Raja;Anthony Daasan,Naane Varuvean,Yaarum Illa,34,205435,False,0.603,0.64,0,-5.601,1,0.0318,0.258,0.0,0.349,0.699,129.988,4,k-pop
+69BIczdH6QMnFx7dsSssN8,BLACKPINK,SQUARE UP,DDU-DU DDU-DU,71,209355,False,0.671,0.859,4,-3.922,0,0.0833,0.0313,0.0,0.267,0.39,139.931,4,k-pop
+7Em0lueWaMfJ4MWMDdSGNt,Yuvan Shankar Raja;Sid Sriram,Naane Varuvean,Pinju Pinju Mazhai,30,318427,False,0.746,0.649,11,-10.096,0,0.0327,0.587,1.23e-05,0.134,0.654,104.984,4,k-pop
+69xohKu8C1fsflYAiSNbwM,BTS,Proof,Run BTS,84,204939,False,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,4,k-pop
+10SRMwb9EuVS1K9rYsBfHQ,BTS,Proof,Yet To Come,85,193593,False,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,4,k-pop
+6kekHWEQ4SyMe5EjYAlveP,Yuvan Shankar Raja;Sid Sriram,"High On Love (From ""Pyaar Prema Kaadhal"" Original Motion Picture Soundtrack)",High On Love,65,240169,False,0.627,0.779,4,-4.944,0,0.0392,0.214,9.34e-06,0.112,0.619,149.929,4,k-pop
+5P3o95Jf0YBQRQ4j2XPpfC,BLACKPINK,BORN PINK,Pink Venom,83,186964,False,0.794,0.719,0,-7.227,1,0.0761,0.0119,0.0,0.276,0.69,90.016,4,k-pop
+5K6JpLRCdbIQigdJp2jFWQ,Yuvan Shankar Raja;MC Vickey;Durai,"Thotta Load Aage Waiting (From ""Laththi"")","Thotta Load Aage Waiting - From ""Laththi""",47,198971,False,0.78,0.739,9,-8.896,0,0.0567,0.0292,1.18e-06,0.0799,0.593,91.99,4,k-pop
+4j0on3LOcJjmco34Pyv0p9,Yuvan Shankar Raja;Sarath Santosh,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Ganjai Poovu,47,237660,False,0.6,0.687,8,-7.939,1,0.326,0.359,0.0,0.245,0.671,164.911,3,k-pop
+3XYRV7ZSHqIRDG87DKTtry,BTS,Permission to Dance,Permission to Dance,80,187585,False,0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,4,k-pop
+5TL3UHuEBRMPbAIAOiPJmc,Yuvan Shankar Raja;Udit Narayan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Enkeyoo Partha,68,320960,False,0.822,0.446,7,-8.899,0,0.0321,0.486,0.00102,0.147,0.654,119.994,4,k-pop
+3FRLxtpSk9BxxnxdS6I4jq,Yuvan Shankar Raja;Tanvi Shah,Naan Mahaan Alla (Original Motion Picture Soundtrack),Iragai Poley,65,317739,False,0.875,0.539,3,-8.364,0,0.0367,0.0586,0.0047,0.116,0.305,115.004,4,k-pop
+5mQJTsR0OWKxg0ib1y145I,Yuvan Shankar Raja;Narayanan Ravishankar,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Adhiri Pada,43,248450,False,0.742,0.692,4,-9.267,0,0.237,0.464,1.39e-05,0.0951,0.628,149.949,4,k-pop
+4kDyGiTGv3QznWbovgJHyn,Yuvan Shankar Raja;Ranjith Govind;Pavithra Chari,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Manase Manihaarame,46,229536,False,0.661,0.53,7,-10.747,1,0.0974,0.187,0.0,0.142,0.661,157.523,3,k-pop
+2FCXQHugkoHE1K3tiDu8pu,Alka Yagnik;Arijit Singh,Love Forever With Arijit Singh,"Agar Tum Saath Ho (From ""Tamasha"")",72,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,k-pop
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Proof,Butter,83,164952,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,4,k-pop
+46LoYZSh8V0Ean52vPNpcC,Yuvan Shankar Raja,Deepavali (Original Motion Picture Soundtrack),Pogadhe,65,330400,False,0.658,0.407,4,-12.007,1,0.0364,0.727,1.26e-06,0.139,0.137,80.164,4,k-pop
+6LLNU2a29JY8OiwAecBuph,Yuvan Shankar Raja;Senthil Dass,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Maaruthalli,21,107550,False,0.692,0.431,0,-9.158,0,0.0295,0.336,1.59e-05,0.166,0.416,99.951,4,k-pop
+62yaHPUl2vELHwaHb6R5oW,Yuvan Shankar Raja,Pudhupettai,Oru Naalil,63,384256,False,0.712,0.422,6,-10.688,1,0.046,0.307,1.71e-05,0.067,0.772,80.014,4,k-pop
+6Z8oU8xMOie24Cflh2Sw6p,Yuvan Shankar Raja;Hariharan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Venmegam,66,274853,False,0.803,0.426,3,-11.54,1,0.0742,0.418,2.23e-05,0.11,0.556,114.945,4,k-pop
+5jXrULyYKHjkAMk4TXZFoG,Yuvan Shankar Raja,Goa (Original Motion Picture Soundtrack),Kaadhal Endral,66,87133,False,0.638,0.324,0,-7.787,0,0.0321,0.923,3.35e-05,0.151,0.446,129.932,4,k-pop
+78tblPcz2otRZd1VOeU7zz,Yuvan Shankar Raja;Sid Sriram,"Kanja Poovu Kannala (From ""Viruman"")","Kanja Poovu Kannala (From ""Viruman"")",74,237558,False,0.72,0.692,8,-6.354,1,0.0894,0.291,0.0,0.177,0.52,110.011,4,k-pop
+3eFoAIpRrhGCEISQxnoNFI,Yuvan Shankar Raja;Aditi Shankar,Viruman (Original Motion Picture Soundtrack),Madura Veeran,67,229500,False,0.677,0.551,7,-9.477,1,0.0636,0.393,0.0,0.13,0.697,157.485,3,k-pop
+1mWdTewIgB3gtBM3TOSFhB,BTS,"Butter (Hotter, Sweeter, Cooler)",Butter,78,164441,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0906,0.695,109.997,4,k-pop
+6TGX01ExmdHyOG72fqUU3Q,Jubin Nautiyal,Bajrangi Bhaijaan,Zindagi Kuch Toh Bata (Reprise),64,258877,False,0.528,0.615,5,-7.118,1,0.0372,0.491,0.000111,0.104,0.225,123.988,4,k-pop
+0mHU8dcIvGrGDazLMmQpSg,Jubin Nautiyal,Kabir Singh,Tujhe Kitna Chahein Aur (Film Version),62,276244,False,0.358,0.252,11,-9.51,1,0.0346,0.604,0.0,0.0915,0.284,145.549,4,k-pop
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,After LIKE,88,176973,False,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,4,k-pop
+2q9biTikX9PkTbzDCZfEn7,Jubin Nautiyal;Shashwat Sachdev,"Ik Tu Hai ❤️ (From ""Attack"")","Ik Tu Hai ❤️ (From ""Attack"")",61,250633,False,0.514,0.601,0,-8.046,1,0.0677,0.302,0.0,0.075,0.452,92.648,4,k-pop
+2rU33n6Fhd6G1MzYhUj6C5,Jubin Nautiyal;Emraan Hashmi,Mumbai Saga,Lut Gaye,64,228031,False,0.638,0.785,10,-2.612,1,0.044,0.185,0.0,0.245,0.515,91.101,4,k-pop
+0RDqNCRBGrSegk16Avfzuq,TWICE,BETWEEN 1&2,Talk that Talk,86,177466,False,0.772,0.907,3,-2.438,0,0.124,0.136,0.0,0.334,0.783,119.973,4,k-pop
+0yB4jrSwN0bFtFRDR5vyMj,EXO,LOVE SHOT– The 5th Album Repackage,Love Shot,74,200306,False,0.689,0.678,5,-4.287,0,0.119,0.0702,0.0,0.0889,0.335,145.883,4,k-pop
+296nXCOv97WJNRWzIBQnoj,LE SSERAFIM,FEARLESS,FEARLESS,83,168437,False,0.863,0.62,7,-7.167,1,0.135,0.0508,0.00324,0.129,0.432,103.971,4,k-pop
+6Ho58vQUjGnBU9m8Z6uNcv,BLACKPINK,BORN PINK,Tally,78,184248,True,0.693,0.606,7,-5.997,1,0.0308,0.00817,0.0,0.0942,0.447,129.942,4,k-pop
+1HYzRuWjmS9LXCkdVHi25K,CHANYEOL;Punch,"Guardian (Original Television Soundtrack), Pt. 1",Stay With Me,73,192441,False,0.558,0.526,0,-4.686,0,0.033,0.431,0.0,0.126,0.202,124.709,4,k-pop
+0dUbhFM18NyBDDpiktEQLk,Alka Yagnik;Udit Narayan,Qayamat Se Qayamat Tak,Ae Mere Humsafar,63,355840,False,0.436,0.499,7,-12.909,0,0.0356,0.499,5.01e-05,0.308,0.551,103.104,4,k-pop
+28tufPkTcXmdNqTvi9hsoG,BLACKPINK,THE ALBUM,Pretty Savage,71,199122,False,0.699,0.588,9,-6.533,0,0.0402,0.00807,0.000131,0.107,0.35,151.971,4,k-pop
+1cdbkpZ3q1KYZDNSrOpdkb,BLACKPINK;Selena Gomez,THE ALBUM,Ice Cream (with Selena Gomez),70,175813,False,0.791,0.733,9,-3.852,1,0.35,0.0305,0.000169,0.0423,0.913,159.974,4,k-pop
+34TQk2yqzMX6X3AAAOeUvT,BLACKPINK,BORN PINK,Shut Down,73,175889,False,0.813,0.657,0,-6.447,1,0.0372,0.00269,0.0,0.183,0.651,110.053,3,k-pop
+2u54HNQamwFuOMLSuhSRom,BTS,Wings,Blood Sweat & Tears,75,217051,False,0.584,0.885,0,-3.571,0,0.104,0.0244,0.0,0.357,0.605,92.9,4,k-pop
+5NbR7c5zrOZN3Dje3JVJEN,Jagjit Singh,Sarfarosh (Original Motion Picture Soundtrack),Hoshwalon Ko Khabar Kya,62,307000,False,0.527,0.447,6,-12.014,1,0.0311,0.243,0.0,0.255,0.536,94.051,4,k-pop
+1GMufNnkKAnPLnqKJ5HHxW,BLACKPINK,THE ALBUM,Lovesick Girls,73,192765,False,0.658,0.732,6,-4.762,1,0.0654,0.00513,0.0,0.13,0.409,127.995,4,k-pop
+0RSGPiykniIg8m7JhiAVv7,Anupam Roy,Aisi Raaton,Aisi Raaton,62,218930,False,0.517,0.443,9,-8.946,1,0.0529,0.88,0.000141,0.0989,0.538,176.035,4,k-pop
+4JzCFEc3O2UEdjKzevvFH5,BTS,Proof,For Youth,78,264480,False,0.633,0.511,2,-5.665,1,0.0368,0.434,0.0,0.248,0.29,116.855,3,k-pop
+3jsYQw78lrxJA2ysnmOIf9,BOL4,Red Diary Page.1,Some,74,181373,False,0.659,0.799,1,-2.849,0,0.0629,0.417,0.0,0.0562,0.782,103.991,4,k-pop
+2uqXfUERVBLa1heEoUTBlO,Yuvan Shankar Raja;Haricharan;Tanvi Shah,Paiya (Original Motion Picture Soundtrack),Thuli Thuli,62,283346,False,0.709,0.528,7,-7.429,0,0.0309,0.256,0.00189,0.112,0.649,91.999,4,k-pop
+1vzxYeTJ9dTtyJXkNWVJDZ,Yuvan Shankar Raja;Tanvi Shah,Paiya (Original Motion Picture Soundtrack),En Kadhal Solla,62,293893,False,0.874,0.412,0,-5.746,0,0.0313,0.035,0.00684,0.102,0.56,105.019,4,k-pop
+2j1fFjWHCI9KJSwcuYAOyF,BTS,You Never Walk Alone,Spring Day,76,274097,False,0.539,0.846,8,-3.192,1,0.0354,0.00631,1.71e-06,0.13,0.462,106.994,4,k-pop
+5GK7eDDTVz7CTge1wJrDQW,BLACKPINK,Kill This Love,Kill This Love,71,189052,False,0.738,0.861,2,-4.141,1,0.237,0.318,0.00182,0.325,0.58,131.98,4,k-pop
+4bZZVcgWWMWPBwzTTp642w,BTS,MAP OF THE SOUL : 7,Filter,76,180220,False,0.779,0.762,10,-5.188,0,0.0631,0.0224,0.0,0.121,0.859,110.043,4,k-pop
+0Tm5ER6IrGfmW0yZ5lkQli,Yuvan Shankar Raja;Dhanush;Dhee,"Rowdy Baby (From ""Maari 2"" Original Motion Picture Soundtrack)",Rowdy Baby,62,281440,False,0.668,0.703,10,-8.192,0,0.199,0.281,0.0029,0.159,0.588,176.889,3,k-pop
+0jXnRZTUASl2uhsRfXjoJT,Yuvan Shankar Raja;Vijay Yesudas,Deepavali (Original Motion Picture Soundtrack),Kaadhal Vaithu,60,309000,False,0.679,0.645,10,-11.743,0,0.0361,0.032,0.131,0.213,0.653,100.217,4,k-pop
+7wavprkU2TlcwtdQadwr3G,Jubin Nautiyal,Meri Maa Ke Barabar Koi Nahi,Meri Maa Ke Barabar Koi Nahi,63,298045,False,0.586,0.687,6,-5.079,1,0.0258,0.591,0.0,0.178,0.503,81.009,4,k-pop
+6I2tqFhk8tq69iursYxuxd,SEVENTEEN,SEVENTEEN 4th Album 'Face the Sun',HOT,80,197586,False,0.765,0.777,5,-4.376,0,0.0399,0.0539,2.58e-06,0.338,0.64,111.944,4,k-pop
+5pV61B6b5kcy1ysaPL8iON,Dhanush;Selvaraghavan,Mayakkam Enna,Kadhal Yen Kadhal,62,367446,False,0.823,0.689,10,-7.791,0,0.0639,0.247,0.000139,0.133,0.569,104.996,4,k-pop
+4byiHL0b9mIoCUCjbjI4eA,Jubin Nautiyal;Prakriti Kakar,Romantic Hits By Jubin Nautiyal,"Gazab Ka Hai Din (From ""Dil Juunglee"")",62,236325,False,0.325,0.421,2,-8.636,1,0.0566,0.661,4.83e-06,0.0825,0.203,170.376,4,k-pop
+13MF2TYuyfITClL1R2ei6e,BLACKPINK,SQUARE ONE,BOOMBAYAH,77,240793,False,0.661,0.836,5,-3.164,0,0.059,0.00268,0.0,0.497,0.396,124.952,4,k-pop
+1e8J3XClxZbFmvIHLI8CE4,BTS,Love Yourself 結 'Answer',IDOL,75,222732,False,0.733,0.855,9,-3.211,1,0.118,0.00481,0.0,0.123,0.42,126.035,4,k-pop
+4ZxOuNHhpyOj4gv52MtQpT,BLACKPINK,As If It's Your Last,As If It's Your Last,77,213264,False,0.786,0.852,8,-2.687,1,0.0813,0.0687,0.0,0.0759,0.455,125.036,4,k-pop
+10LfH6Hkt06jYjXo8FGecm,Yuvan Shankar Raja;Silambarasan TR;Blaze,Vallavan (Original Motion Picture Soundtrack),Loosu Pennae,60,411706,False,0.673,0.486,5,-7.987,0,0.103,0.475,0.00022,0.0906,0.535,191.943,4,k-pop
+3ABi5sVjvEp08IQEKh8BmG,BLACKPINK,BORN PINK,Yeah Yeah Yeah,77,178923,False,0.732,0.555,1,-7.902,0,0.034,0.00522,4.65e-06,0.0586,0.65,124.011,4,k-pop
+6O1VWYPfl85dDeKiaCJKza,Yuvan Shankar Raja;Haricharan;Sagar Desai,Awaara (Original Motion Picture Soundtrack),Chiru Chiru,62,284466,False,0.722,0.496,7,-7.554,0,0.0327,0.223,0.000507,0.103,0.645,92.007,4,k-pop
+21hB8x6QTEsTfIDENPcyXm,BLACKPINK,BORN PINK,The Happiest Girl,78,222025,False,0.439,0.352,0,-9.632,1,0.057,0.587,0.0,0.14,0.548,181.517,3,k-pop
+4mBmsPcPa1Eu4LDTHq55Ab,Jagjit Singh,Dard-E-Jigar,Hothon Se Chhu Lo Tum - From Prem Geet,62,297706,False,0.557,0.327,4,-13.651,1,0.0273,0.844,0.000732,0.118,0.61,98.225,4,k-pop
+1KYqHPwbceagFffliE7fBg,Yuvan Shankar Raja;Sid Sriram,Viruman (Original Motion Picture Soundtrack),Kanja Poovu Kannala,61,237558,False,0.675,0.692,8,-6.353,1,0.0963,0.29,0.0,0.178,0.514,109.971,4,k-pop
+3qTNm4Mta37YmEcLeQcdw3,Yuvan Shankar Raja;Roop Kumar Rathod,Vaamanan (Original Motion Picture Soundtrack),Oru Devathai,63,296760,False,0.625,0.492,0,-9.618,0,0.0332,0.163,0.000781,0.111,0.28,120.033,4,k-pop
+3P6zRJ409f09GI1iNwjcpa,Yuvan Shankar Raja,Kaadhal Solla Vandhen (Original Motion Picture Soundtrack),Oh Shala Oh Shala,63,254033,False,0.717,0.624,1,-7.096,1,0.0381,0.0754,0.000762,0.0989,0.472,159.926,4,k-pop
+50RcuWjfUcoJfWMNegXF0b,Yuvan Shankar Raja;Harini Ivaturi;Justin Prabhakaran,"Ee Raathale (From ""Radhe Shyam"")","Ee Raathale (From ""Radhe Shyam"")",63,232762,False,0.63,0.528,9,-8.574,0,0.0311,0.0284,2.63e-06,0.107,0.551,124.0,4,k-pop
+61tqrU7wp1EnoJ5ajtYXMl,BLACKPINK,BORN PINK,Ready For Love,76,184677,False,0.564,0.682,6,-6.688,1,0.113,0.0146,0.0,0.123,0.551,107.597,4,k-pop
+3c1tJAYgROZEdqRfm7Wsny,Yuvan Shankar Raja,Paiya (Original Motion Picture Soundtrack),Yedho Ondru Ennai,63,213520,False,0.858,0.447,10,-7.917,1,0.0343,0.67,9.19e-05,0.0738,0.256,119.98,4,k-pop
+4lvTfq817mnTPF2eibBdIP,Yuvan Shankar Raja;Kay Kay,Manmadhan,Kadhal Valarthen,62,448641,False,0.711,0.647,0,-7.44,0,0.0578,0.484,1.31e-06,0.0863,0.458,122.918,4,k-pop
+6dZCuf6SGn2rh9q94JBLlv,Yuvan Shankar Raja;Ajesh;Andrea Jeremiah,Goa (Original Motion Picture Soundtrack),Idhu Varai,64,284480,False,0.67,0.517,5,-6.963,0,0.039,0.481,2.49e-05,0.217,0.615,77.514,4,k-pop
+0CkDv2V3FFhltON32OwE0x,Yuvan Shankar Raja;Sadhana Sargam,Manmadhan,Manmadhane Nee,60,271339,False,0.614,0.77,5,-6.622,0,0.0574,0.333,0.000144,0.405,0.423,89.91,4,k-pop
+0Yup6SQDmHmYKG8Faigkqk,Ilaiyaraaja;S. Janaki,Best Hits Of Ilaiyaraja Vol-1,"Thendral Vandhu Theendumbothu (From ""Avatharam"")",62,321056,False,0.583,0.46,4,-11.509,0,0.035,0.751,0.000147,0.146,0.534,129.904,4,k-pop
+1ZPeaPDjQOOC8hw1mNjyjF,BTS,Love Yourself 承 'Her',Pied Piper,75,245620,False,0.583,0.712,2,-4.942,0,0.0326,0.2,0.0,0.268,0.778,94.051,4,k-pop
+6Yc3tjFCVR2bfAQFRTZBef,BTS,MAP OF THE SOUL : PERSONA,HOME,74,234177,False,0.633,0.799,7,-4.625,0,0.0427,0.0144,0.0,0.194,0.534,142.991,4,k-pop
+2ayIgfvWo3SfYP2pVOr4pC,ROSÉ,R,Gone,72,207163,False,0.647,0.377,6,-6.003,1,0.0375,0.594,0.0,0.0768,0.653,79.936,4,k-pop
+0Q5VnK2DYzRyfqQRJuUtvi,IVE,LOVE DIVE,LOVE DIVE,85,177186,False,0.703,0.709,1,-4.169,0,0.0433,0.00379,5.43e-05,0.333,0.538,117.941,4,k-pop
+2xgACMNtJ5YktyvOC83SPO,ROSÉ,R,On The Ground,72,168085,False,0.311,0.607,1,-6.578,1,0.11,0.0174,0.0,0.131,0.286,188.7,4,k-pop
+0Sw7dhcGlUvIl2NkNejvmZ,Jubin Nautiyal;Rashmi Virag;Jeet Gannguli,Sanak (Original Motion Picture Soundtrack),Suna Hai,60,193333,False,0.462,0.472,4,-6.913,0,0.0281,0.726,0.000107,0.136,0.238,116.777,4,k-pop
+4IaxDf2FixiQXq0mW7key9,Jessi,ZOOM,ZOOM,78,174840,False,0.874,0.6,6,-6.064,1,0.158,0.00942,0.0,0.126,0.457,100.012,4,k-pop
+1ZLrDPgR7mvuTco3rQK8Pk,SHAUN;Conor Maynard;Sam Feldt,Way Back Home (feat. Conor Maynard) [Sam Feldt Edit],Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,73,192452,False,0.737,0.747,10,-4.818,1,0.0323,0.269,0.0,0.219,0.447,105.943,4,k-pop
+0fZRNhPJ4AGmwY7rkpdbqK,BTS,MAP OF THE SOUL : 7,ON,74,246380,False,0.583,0.817,9,-5.146,0,0.099,0.118,0.0,0.338,0.437,105.935,4,k-pop
+2EmcTFQ1rM11wp2ztsXTHa,BTS,MAP OF THE SOUL : 7,Black Swan,74,198260,False,0.719,0.757,2,-5.167,0,0.0849,0.137,0.0,0.129,0.489,147.024,4,k-pop
+5pZEThCuY84PiajfmeOJ3i,Jack Harlow,Back to School!,First Class,1,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+1KfwlyvJQD1TA70RyC0Byd,Jack Harlow,Hit After Hit,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+55drdNAFl8HaAo0yqnU2EJ,Jack Harlow;Drake,Evergreen,Churchill Downs,1,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+6oBPzKy4CmsnROO8vH8MjA,Jack Harlow,It's You - Fresh Hits,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+2GfARslWOjzRUtqCemkJmF,Jack Harlow,Upbeat 20's,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+331CFIHeefOVTC4F8cmYTL,Jack Harlow,Beautiful Trending Hits 2022,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+1nYAl9wYboVclul2fkCiyr,Jack Harlow,Pop Brandneu,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+0ZeGfEAL5Rl4pd5LZBGuEK,Hwa Sa,María,Maria,72,199026,False,0.658,0.749,9,-2.967,0,0.0634,0.238,2.03e-06,0.272,0.442,128.909,4,k-pop
+6HIkxxaASDhaXdcMa2PFRB,Jack Harlow,Am I Ready - Pop Night Out,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+1afMigcYdKpRwDf8IyXnln,Jack Harlow,I'm Blue - Hits of 2022,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+3j4srp6dMT39MLxx6XEbOR,Jack Harlow;Adam Levine,US Pop 20s,Same Guy,0,164031,False,0.791,0.586,1,-6.343,1,0.147,0.181,0.0,0.105,0.643,93.505,4,k-pop
+4xZwBITWeGPWVTDVmLfuDf,Jack Harlow,Rap Geek,SUNDAY NIGHT,1,191778,False,0.764,0.776,11,-5.329,0,0.0329,0.124,0.000512,0.327,0.772,119.92,4,k-pop
+7qmvLmX9tyaTiBAVNI6YEn,BLACKPINK,SQUARE TWO,PLAYING WITH FIRE,75,197288,False,0.706,0.756,4,-4.405,0,0.0845,0.0392,0.0,0.18,0.676,97.098,4,k-pop
+6NEoeBLQbOMw92qMeLfI40,BLACKPINK,SQUARE ONE,WHISTLE,74,211631,False,0.818,0.723,11,-4.82,1,0.114,0.00561,0.0,0.0866,0.607,102.945,4,k-pop
+16wcqaM2abvltq2RciqfYZ,Jack Harlow;Drake,New Rap 20s,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+66sBTYlkaiyBwf4fhbIHlZ,JIN,Jirisan (Original Television Soundtrack) Pt. 4,Yours,75,264840,False,0.488,0.427,6,-7.383,1,0.0382,0.354,0.0,0.0797,0.157,72.035,4,k-pop
+7bWIRK3emiP8UwH6fpDfuu,Prem;Hardeep;Jazzy B;Jyotica Tangri;Mumzy Stranger,Jawaani Jaaneman (Original Motion Picture Soundtrack),Gallan Kardi,60,194726,False,0.68,0.904,2,-3.424,1,0.0453,0.0514,0.0,0.233,0.402,97.052,4,k-pop
+6MMB9EotY47IvE71cdiKS5,Jack Harlow;Drake,New Grooves,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+1eXeb2RwfAn6iKUPmGyfs4,Jack Harlow;Drake,Tic Tac - Just Rap,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+01380RE6UfsPSdiUIwrCoH,BTS;Steve Aoki,Love Yourself 結 'Answer',MIC Drop (Steve Aoki Remix) - Full Length Edition,72,307675,False,0.606,0.85,11,-3.952,1,0.183,0.0114,1.01e-06,0.206,0.542,170.01,4,k-pop
+15C4q7G41cgBApe7hinKc3,Dhanush,Mayakkam Enna,Voda Voda Voda,59,276378,False,0.807,0.519,0,-7.565,0,0.082,0.247,0.000256,0.0774,0.386,85.008,4,k-pop
+63irPUP3xB74fHdw1Aw9zR,Stray Kids,ODDINARY,MANIAC,80,182757,False,0.581,0.8,1,-2.613,1,0.411,0.154,0.0,0.0697,0.709,119.872,5,k-pop
+7qtz1mNAD4CQMiIcfFRbj7,Jack Harlow;Drake,Put It on Me: Trending Hip Hop 2022,Churchill Downs,1,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+2X0eUvX06w5DC1ecN2g4Bo,Jack Harlow;jetsonmade,New Hip Hop Icons,I WANNA SEE SOME ASS,0,125302,False,0.907,0.652,0,-7.733,1,0.0578,0.284,0.000337,0.135,0.93,107.946,4,k-pop
+2gLUbowsRFFwhmlAS3hZ5i,Jack Harlow,New Rap 20s,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+6r8DKNt9BlrOICBpqUVlsP,Jack Harlow,Gaming Songs 2022: Hard Mode,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+1GtGDEADkaqavjo23YaSLl,Yuvan Shankar Raja,"Saachitale (From ""Love Today"")","Saachitale (From ""Love Today"")",59,238663,False,0.841,0.599,0,-6.278,1,0.0468,0.114,0.00806,0.0465,0.668,105.006,4,k-pop
+3DjGqlbBIzrZdVtVfAwRDh,Yuvan Shankar Raja;Javed Ali;Madhushree,Sarvam (Original Motion Picture Soundtrack),Siragugal,59,321893,False,0.638,0.915,10,-3.272,0,0.151,0.184,0.000129,0.0848,0.59,169.968,4,k-pop
+7ItTtfj4WQHe4SKNM22QFT,Jack Harlow;Pooh Shiesty,New Grooves,SUVs (Black on Black),0,157675,False,0.813,0.706,1,-4.569,1,0.425,0.139,0.0,0.0994,0.44,163.191,4,k-pop
+4ZrtOchitJWVfyyHJd4tX5,Jack Harlow,Daily Pop Mix,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+3mfsGLEmKF6sWTqFQzZ4aF,Jack Harlow,Hip Hop Slow Jamz,I'd Do Anything to Make You Smile,0,193765,True,0.832,0.522,2,-7.244,1,0.05,0.012,0.079,0.377,0.253,150.044,4,k-pop
+0uVrPeEM1Q02sbGA3zJ3CC,Yuvan Shankar Raja;Madhushree,Mankatha (Original Motion Picture Soundtrack),Nanbane,59,302600,False,0.451,0.306,2,-6.325,0,0.0403,0.82,0.00544,0.207,0.262,102.659,4,k-pop
+2eib87FpOijGfDL2jqPlo6,Jack Harlow,Hip Hop & R'n'B,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+5pILd3WHCjJa8trmnjfRBO,Jack Harlow,On Chill - Rap & RnB,BIG CHILLIN,0,158014,False,0.81,0.69,1,-8.257,0,0.299,0.0102,0.0,0.292,0.585,129.239,5,k-pop
+7vR8sGqVg5HMEOEvECdzlQ,Yuvan Shankar Raja;Tanvi Shah,"Voice of Yuvanshankar Raja, Vol. 2","En Kadhal Solla (From ""Paiya"")",60,293893,False,0.874,0.412,0,-5.746,0,0.0313,0.035,0.00684,0.102,0.56,105.019,4,k-pop
+3huCRjAX12zNPxtX9JqX2X,Yuvan Shankar Raja;Anurag Kulkarni,"Naanga Vera Maari (From ""Valimai"")","Naanga Vera Maari (From ""Valimai"")",59,254345,False,0.649,0.889,1,-5.442,1,0.199,0.102,0.0,0.323,0.601,149.949,4,k-pop
+3ysUkfcrFwvXweDt0cliH8,Vijay Antony;Sangeetha Rajeshwaran,Vedi (Original Motion Picture Soundtrack),Ichu Ichu,60,226698,False,0.852,0.791,7,-7.028,0,0.0538,0.228,0.00187,0.139,0.955,109.976,4,k-pop
+6YcBBZVKYYRirfeAt6BeGA,Yuvan Shankar Raja;Mano;Premgi Amaren;Tippu;Haricharan;Naveen Madhav,Mankatha (Original Motion Picture Soundtrack),Machi Open the Bottle,59,285973,False,0.485,0.92,5,-6.243,1,0.277,0.664,0.000339,0.216,0.767,169.944,4,k-pop
+5Gk36wgJ5QwSCS2WFqlpRf,Jack Harlow;DaBaby;Tory Lanez;Lil Wayne,Gaming Songs 2022: Hard Mode,WHATS POPPIN - Remix,0,227478,True,0.904,0.723,11,-5.224,0,0.26,0.0631,0.0,0.185,0.835,145.013,4,k-pop
+6rHDMFYZMwHeQZ6084qFHq,Ilaiyaraaja;S. P. Balasubrahmanyam;Swarnalatha,Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack),Ennai Thottu,60,300960,False,0.796,0.35,0,-15.182,1,0.044,0.851,0.00684,0.124,0.793,115.891,4,k-pop
+1rDQ4oMwGJI7B4tovsBOxc,Jack Harlow,First Class,First Class,86,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+0UzymivvUH5s8z4PeWZJaK,ENHYPEN,BORDER : CARNIVAL,FEVER,77,172106,False,0.6,0.713,6,-5.079,0,0.0592,0.0642,0.0,0.142,0.471,72.999,4,k-pop
+45wzRgkkG5gjuYS3OkFWaI,Jubin Nautiyal;Mithoon,"Lo Safar (From ""Baaghi 2"")","Lo Safar (From ""Baaghi 2"")",60,282022,False,0.527,0.469,7,-9.562,0,0.0247,0.856,0.00393,0.121,0.403,90.933,4,k-pop
+2WH4oy1SYppZrcdgKwSA0j,BTS;Lauv,Make It Right (feat. Lauv),Make It Right (feat. Lauv),69,226321,False,0.583,0.68,7,-7.809,1,0.422,0.0304,0.0,0.189,0.343,97.568,4,k-pop
+4XKXphKH76W4zNpkgFS5o2,j-hope,MORE,MORE,77,180022,False,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,4,k-pop
+5nPOpB9GqZO70ZKiPLfJ26,Jubin Nautiyal;Ami Mishra,Rim Jhim,Rim Jhim,59,226121,False,0.555,0.844,6,-3.709,0,0.0351,0.191,0.0,0.257,0.726,77.028,4,k-pop
+6q4IEBv1tWq3MHIBnCYYSS,Jack Harlow,Hits Hits Hits,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+0GavMn9kjiQk1yI6118jEY,Dhanush;Anirudh Ravichander,Thiruchitrambalam (Original Motion Picture Soundtrack),Megham Karukatha,59,290400,False,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,3,k-pop
+445XlOVyjyGvdrQfkQA1lg,Jack Harlow,All That Really Matters - Just Hits,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+3kwHHD0mE5Tv4RTMZwi3kK,Jack Harlow,For the Girls: Summer Hits,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+7x5TjoSag3Q3EwLRyrlxrT,Adhvik;Puja Purad,Ninna Gungalli,Ninna Gungalli,57,195000,False,0.791,0.808,7,-6.907,1,0.0334,0.347,0.0214,0.0877,0.745,115.0,4,k-pop
+3O8G8eVrhfXTGttyQ1xVuq,Stray Kids,MAXIDENT,CASE 143,82,191964,False,0.812,0.89,6,-2.661,0,0.209,0.0961,0.0,0.0222,0.69,100.006,4,k-pop
+3GAekGYLRRWGx0fSNhjZEU,Jack Harlow,Music for Rainy Days,RAIN,0,196638,True,0.877,0.607,1,-6.736,1,0.102,0.00181,1.69e-05,0.107,0.131,100.995,4,k-pop
+5elW2CKSoqjYoJ32AGDxf1,ENHYPEN,DIMENSION : ANSWER,Polaroid Love,78,184601,False,0.738,0.67,7,-3.766,0,0.0439,0.458,0.0,0.361,0.651,138.055,4,k-pop
+4DmD47YgOMFzBZnehrmWj7,Jack Harlow;Drake,Midnight Music,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+6MgM415sTN6TUh3B3YlWCW,Jack Harlow,Internet Sensations,Nail Tech,1,206385,True,0.647,0.581,4,-7.678,0,0.0884,0.0029,7.76e-06,0.119,0.113,150.149,4,k-pop
+17TjJhR1wrGFW58aJnHpNC,Jack Harlow,Your Perfect Soundtrack,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+7fduswfw6pp8e1U4k5aF0R,Jack Harlow,2Step - Pop R'n'B,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+56Yxkm62GtEpnPyG7TvwLY,ITZY,CRAZY IN LOVE,LOCO,76,191462,False,0.759,0.886,1,-3.067,1,0.187,0.0103,2.04e-05,0.342,0.489,102.065,4,k-pop
+0oz7Ia8lnWttkXi2TBc1Rd,Jubin Nautiyal,Main Balak Tu Mata,Main Balak Tu Mata,57,220879,False,0.366,0.743,10,-7.899,1,0.066,0.622,0.0,0.411,0.586,170.21,4,k-pop
+308Ir17KlNdlrbVLHWhlLe,TWICE,Formula of Love: O+T=<3,The Feels,78,198053,False,0.808,0.903,9,-2.179,1,0.0729,0.0899,0.0,0.0816,0.922,120.044,4,k-pop
+16ejic4tkC645g8FwuqIHA,Jack Harlow;Drake,Totally Rap,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+2W3Pabwcki4u8XZhxWLkEw,Jack Harlow,Sundown Rap,SUNDOWN,4,125217,True,0.816,0.754,2,-5.922,1,0.152,0.163,0.00199,0.105,0.703,92.023,4,k-pop
+5SMCxyEHdPJJf9VFwFYo4B,Jack Harlow;Drake,On Chill - Rap & RnB,Churchill Downs,0,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+1HsSIPLTQT354yJcQGfEY3,TOMORROW X TOGETHER,minisode 2: Thursday's Child,Good Boy Gone Bad,78,191038,False,0.475,0.695,1,-5.919,1,0.102,0.0159,0.0,0.125,0.552,100.009,4,k-pop
+4OtqlH4UCGzV8fLy36STjE,Yuvan Shankar Raja;Anthony Daasan,"Yaarum illa (From ""Naane Varuvean"")",Yaarum illa,58,205435,False,0.603,0.64,0,-5.601,1,0.0318,0.258,0.0,0.349,0.699,129.988,4,k-pop
+1pdFdv8R6ezIAUUNkn785b,SEVENTEEN,SEVENTEEN 4th Album Repackage 'SECTOR 17',CHEERS,76,181466,False,0.74,0.848,2,-4.697,1,0.097,0.306,0.0,0.193,0.881,159.991,4,k-pop
+3uRLwBjI2TahxslcMTvpFs,BTS,Love Yourself 承 'Her',DNA,73,223122,False,0.599,0.775,1,-4.018,0,0.0543,0.0217,0.0,0.0678,0.696,129.817,4,k-pop
+0jSccBRnhNU4KtACMQPvco,BTS,MAP OF THE SOUL : PERSONA,Mikrokosmos,73,224225,False,0.579,0.858,8,-5.212,1,0.114,0.125,0.0,0.0502,0.475,174.043,3,k-pop
+3gnWw0LToxswxfC6Eb8GBp,Yuvan Shankar Raja;Sooraj Santhosh,Anjaan (Original Motion Picture Soundtrack),Kadhal Aasai,57,303750,False,0.419,0.825,6,-5.013,1,0.0709,0.49,0.0,0.139,0.363,73.202,4,k-pop
+5MTGPkmiUuud9NkA0sl2nI,BTS,Love Yourself 轉 'Tear',Magic Shop,72,275695,False,0.531,0.661,1,-5.836,1,0.0907,0.103,0.0,0.0779,0.278,149.934,4,k-pop
+0nwTMzpatarzvLvtwwzdCt,Stray Kids,NOEASY,Thunderous,76,183266,False,0.601,0.786,1,-3.706,1,0.234,0.213,0.0,0.209,0.79,172.156,4,k-pop
+6L88EH68XwlaXwvChlTS41,BTS,Love Yourself 結 'Answer',Epiphany,72,240361,False,0.508,0.559,2,-6.366,0,0.0276,0.288,0.0,0.131,0.329,135.866,4,k-pop
+3Gk1LfB771PIEGgsEa7gcV,BLACKPINK,THE ALBUM,Love To Hate Me,67,169797,False,0.689,0.656,8,-4.532,1,0.143,0.0365,0.0,0.136,0.623,162.269,4,k-pop
+6RdJrnkVsY7nR32bkVSIp1,Jack Harlow,Totally Rap,Nail Tech,0,206385,True,0.647,0.581,4,-7.678,0,0.0884,0.0029,7.76e-06,0.119,0.113,150.149,4,k-pop
+3wQnyXNFXNUEOBt1pb4urq,BTS,The Most Beautiful Moment in Life Pt.1,I Need U,71,210986,False,0.478,0.88,5,-3.097,0,0.0739,0.0213,0.0,0.24,0.707,158.356,4,k-pop
+4uSy3HJM1MaBk6IeehkSgD,Yuvan Shankar Raja;Rahul Nambiar;Saindhavi,Paiya (Original Motion Picture Soundtrack),Adada Mazhaida,58,267120,False,0.891,0.691,6,-9.417,0,0.0588,0.29,0.00564,0.0596,0.666,120.004,4,k-pop
+1jBIlZyCUOylXmEuLNvGCQ,Jack Harlow,Totally Rap,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+41jTngKME76TNpR6WSxAZV,Vijay Antony,Ninaithale Inikkum (Original Motion Picture Soundtrack),Pia.. Pia..,57,254280,False,0.551,0.929,4,-8.051,0,0.229,0.256,0.000536,0.142,0.61,144.427,4,k-pop
+0rAuw3mWHHQZm5iczkEJHU,Jack Harlow,On Chill - Rap & RnB,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+15kWrrwlkBNJnTYDvyYfBS,Jack Harlow,Summer Music Festival Hits,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+133ocfbXXG4HTk76qgSeUb,BTS,MAP OF THE SOUL : 7,We are Bulletproof : the Eternal,71,261542,False,0.522,0.574,9,-5.225,0,0.0317,0.224,0.0,0.108,0.176,84.044,4,k-pop
+1IthE5GNiRzFN5CVaCa445,BTS,Proof,Born Singer,75,238628,False,0.602,0.841,8,-3.334,0,0.109,0.0354,0.0,0.235,0.684,157.937,4,k-pop
+7j6Cb59M9yOq3aw4fmDzQj,Kamal Haasan;Shreya Ghoshal,Virumandi,Unna Vida,58,385226,False,0.712,0.439,5,-11.056,1,0.0332,0.49,0.000179,0.0873,0.491,120.016,4,k-pop
+50a2d6g5kpr3wt98Jw2Tns,Jack Harlow,Trending Pop,First Class,0,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+0aE3V0zgSD2YwkEHW42gxG,BTS,The Most Beautiful Moment in Life: Young Forever,Burning Up (Fire),72,203351,False,0.626,0.706,10,-3.201,0,0.0596,0.00225,0.0,0.122,0.534,99.939,4,k-pop
+18ONQnZsstfBATeq0yusPN,Yuvan Shankar Raja;Karthik;Reeta,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Oru Naalaikkul,58,340066,False,0.706,0.735,6,-7.564,1,0.0322,0.37,0.0165,0.107,0.827,119.969,4,k-pop
+3Bh8VEMG1ugQgDHsuxJkat,Madhusree;Naresh Iyer,Anbe Aaruyire (Original Motion Picture Soundtrack),Mayilrage,58,322861,False,0.732,0.654,8,-7.583,0,0.0396,0.464,5.49e-05,0.123,0.724,122.049,4,k-pop
+2qolr6PKNLXvjp4JTtglSf,Vijay Antony;Emcee Jazz;Janaki Iyer,Uthama Puthiran (Original Motion Picture Soundtrack),Ussumu Laresey,58,287440,False,0.85,0.901,2,-7.266,1,0.173,0.238,4.53e-06,0.0411,0.678,125.073,4,k-pop
+5FRL2sxhLNlC1Ms86qajcq,Yuvan Shankar Raja,Semma Botha Aagathey (Original Motion Picture Soundtrack),Idhayathai Oru Nodi,57,226758,False,0.618,0.52,10,-6.514,0,0.0316,0.662,0.00419,0.0831,0.402,144.9,4,k-pop
+4pTkDIlpFNoeWbahu8pVXW,Izzamuzzic;Julien Marchal,Shootout,Shootout,78,295308,False,0.663,0.578,2,-9.079,1,0.0687,0.312,0.906,0.109,0.553,86.986,4,k-pop
+28odLhBa4Yh2yPoDWJMOPb,Jubin Nautiyal,Shish Nawata Hoon,Shish Nawata Hoon,58,232142,False,0.382,0.688,7,-4.767,1,0.0401,0.464,0.0,0.0857,0.468,83.227,4,k-pop
+03UrZgTINDqvnUMbbIMhql,PSY,Gangnam Style (강남스타일),Gangnam Style (강남스타일),74,219493,False,0.727,0.937,11,-2.871,0,0.286,0.00417,0.0,0.091,0.749,132.067,4,k-pop
+3xGwSN1dDdpN2s8oP8DRrC,Anuradha Paudwal;Kumar Sanu,Aashiqui,Dheere Dheere Se Meri Zindagi Mein Aana,58,329640,False,0.477,0.636,8,-8.334,0,0.0356,0.865,0.00226,0.208,0.707,84.547,4,k-pop
+0QGTtWj9Cwf5NaNEzRDQEI,Jubin Nautiyal;Gourov Dasgupta,"Tu Banke Hawa (From ""Dhokha Round D Corner"")","Tu Banke Hawa (From ""Dhokha Round D Corner"")",56,288020,False,0.273,0.588,1,-9.564,0,0.0579,0.265,0.000307,0.178,0.138,88.045,4,k-pop
+1LNlfvPQmB0cqYJQQskZ8x,Jay Park;Ugly Duck,Worldwide,MOMMAE,70,204991,True,0.694,0.691,0,-4.791,1,0.287,0.226,0.0,0.104,0.678,93.91,4,k-pop
+72wqLtMtkrB0qUw6jSqM0Z,BTS,Dynamite (NightTime Version),Dynamite,69,199053,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,4,k-pop
+0lpDlWrV0Cw3eGGvPU6d3R,Jubin Nautiyal;Prakriti Kakar;Tanishk Bagchi;Anand-Milind,"Gazab Ka Hai Din (From ""Dil Juunglee"")","Gazab Ka Hai Din (From ""Dil Juunglee"")",57,236325,False,0.325,0.421,2,-8.636,1,0.0561,0.659,4.46e-06,0.0825,0.204,170.363,4,k-pop
+3CYH422oy1cZNoo0GTG1TK,Red Velvet,‘The ReVe Festival’ Finale,Psycho,75,210560,False,0.664,0.666,8,-2.203,1,0.0446,0.193,0.0,0.0854,0.405,139.987,4,k-pop
+3zhbXKFjUDw40pTYyCgt1Y,TWICE,Summer Nights,What is Love,75,208240,False,0.574,0.909,8,-1.573,1,0.0658,0.0987,0.0,0.264,0.569,169.966,4,k-pop
+37ZtpRBkHcaq6hHy0X98zn,TWICE,Eyes Wide Open,I CAN'T STOP ME,76,205493,False,0.657,0.88,10,-3.672,0,0.102,0.121,0.0,0.463,0.769,150.084,4,k-pop
+44tTqUi3xi7E28QLzHVdUA,TOMORROW X TOGETHER,The Chaos Chapter: FREEZE,Anti-Romantic,72,215188,False,0.641,0.489,0,-8.668,0,0.11,0.0509,0.0,0.071,0.206,142.977,4,k-pop
+1dS4l6xmdgEhCZTAhdOm4N,BTS,Love Yourself 結 'Answer',Serendipity - Full Length Edition,73,276707,False,0.422,0.578,8,-7.524,1,0.0548,0.443,0.0,0.231,0.227,128.921,4,k-pop
+3NxuezMdSLgt4OwHzBoUhL,SHAUN,Take,Way Back Home,71,214136,False,0.745,0.739,10,-4.591,1,0.0327,0.405,0.000183,0.127,0.556,99.913,4,k-pop
+4ECasrEmA3NeiHQpinwZ2A,Jubin Nautiyal,Hare Krishna Hare Rama,Hare Krishna Hare Rama,58,309143,False,0.546,0.639,7,-7.94,1,0.0291,0.151,0.0,0.29,0.414,100.026,4,k-pop
+0IGUXY4JbK18bu9oD4mPIm,(G)I-DLE,I NEVER DIE,TOMBOY,80,174386,False,0.755,0.87,1,-2.414,0,0.0936,0.00988,0.0,0.0917,0.645,124.032,4,k-pop
+6vNolBIVWvfY3Z20gAG5nI,Jubin Nautiyal;Payal Dev,"Tum Hi Aana (Sad Version) [From ""Marjaavaan""]","Tum Hi Aana (Sad Version) [From ""Marjaavaan""]",58,83169,False,0.501,0.168,4,-9.675,0,0.0313,0.944,0.0,0.118,0.131,79.968,4,k-pop
+7lrqvdivAYRGEiO8JFP31G,BTS;Halsey,MAP OF THE SOUL : 7,Boy With Luv (Feat. Halsey),70,229773,False,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4,k-pop
+6aUstpsARWZwKY7x2wKvtI,Vijay Antony;Chorus,Kadhalil Vizhundhen,Naakka Mukka,56,303464,False,0.661,0.99,6,-1.161,0,0.1,0.496,0.515,0.346,0.735,95.021,4,k-pop
+2Pp9osgyIcw6o1avfDDDhH,BLACKPINK,SQUARE UP,Forever Young,67,237076,False,0.592,0.961,4,-1.807,1,0.096,0.0423,0.0,0.0882,0.508,109.826,4,k-pop
+595KzWuJcU2snbm5xFoD5J,Yuvan Shankar Raja;Rahul Nambiar,"Veeraa Sooraa (From ""Nene Vasthunna"")",Veeraa Sooraa,55,205145,False,0.756,0.751,2,-8.044,1,0.0703,0.121,1.45e-05,0.233,0.513,99.976,4,k-pop
+4XPXrcpyNr30Km6aPiflJy,Stray Kids,GO LIVE,God’s Menu,76,167922,False,0.689,0.771,5,-3.618,1,0.0548,0.00776,0.0,0.521,0.482,157.052,4,k-pop
+6pp6xf9zS55GD4nr318XUH,BTS,Love Yourself 承 'Her',dimple,72,196776,False,0.612,0.844,5,-4.694,0,0.0757,0.14,0.0,0.289,0.652,134.872,4,k-pop
+7bxGcILuAjkZzaveU28ZJS,BTS,The Most Beautiful Moment in Life: Young Forever,Save Me,72,196505,False,0.613,0.822,1,-3.48,1,0.062,0.0269,0.0,0.0783,0.54,139.936,4,k-pop
+7Ki0hse0IfXEcXUlpyECbJ,BTS,BE,Blue & Grey,71,254950,False,0.547,0.605,8,-6.755,1,0.0415,0.42,0.0,0.125,0.364,121.953,4,k-pop
+5KW8kOHmXqkDEdj6JyP3dJ,Ilaiyaraaja;Sid Sriram,"Unna Nenachu [From ""Psycho (Tamil)""]","Unna Nenachu (From ""Psycho (Tamil)"")",57,275503,False,0.331,0.235,4,-13.816,0,0.0411,0.891,2.98e-06,0.107,0.252,82.511,4,k-pop
+4wUOdPcYoqYZGM2wSdoLQu,Yuvan Shankar Raja;Sagar Desai,Awaara (Original Motion Picture Soundtrack),Nee Yadalo Naaku,56,292826,False,0.871,0.363,0,-6.691,0,0.033,0.0301,0.0609,0.11,0.454,105.034,4,k-pop
+64bX3WWzjUomaRfPcQvCNn,Anuradha Paudwal,Saajan (Original Motion Picture Soundtrack),Bahut Pyar Karte Hai - Female Version,58,265666,False,0.452,0.49,4,-11.685,0,0.0397,0.658,5.71e-06,0.167,0.724,123.669,4,k-pop
+4lAE47gj539h8R1yxPhhGG,BTS,Love Yourself 轉 'Tear',Airplane pt.2,72,218614,False,0.77,0.817,0,-4.092,0,0.0339,0.0265,0.000103,0.084,0.866,139.979,4,k-pop
+3UHPGOkUcE4hE7sqBF4Snt,BTS,Film out,Film out,70,214620,False,0.499,0.709,10,-6.404,1,0.134,0.296,0.0,0.331,0.314,164.032,4,k-pop
+3LSjYk6sFQaLi0MjtWcm8P,BTS,MAP OF THE SOUL : PERSONA,Make It Right,70,226321,False,0.639,0.706,7,-7.874,1,0.448,0.0104,0.0,0.132,0.259,105.782,4,k-pop
+3wyrhwPpV8uhMMEms4vG3X,BTS,You Never Walk Alone,Not Today,71,231859,False,0.593,0.945,8,-3.408,1,0.126,0.00174,0.0,0.923,0.674,110.023,4,k-pop
+0Ul2NGGDAybeXWU0RLnv83,Vijay Antony;Krishh;Suchitra,Vettaikaaran (Original Motion Picture Soundtrack),Chinna Thamarai,57,273840,False,0.807,0.843,1,-4.925,1,0.0387,0.135,0.00106,0.361,0.473,103.994,4,k-pop
+4Aw8n6r2vuU0KUo1a2nftp,BTS,MAP OF THE SOUL : 7,Louder than bombs,71,217404,False,0.643,0.667,0,-6.947,0,0.151,0.0432,0.0,0.0904,0.478,145.999,4,k-pop
+3QwiidVHfeE9y5jl4n2MTC,SEVENTEEN,SEVENTEEN 4th Album Repackage 'SECTOR 17',_WORLD,78,178453,False,0.709,0.809,2,-3.198,0,0.0541,0.312,0.0,0.0899,0.788,111.01,4,k-pop
+4ncTUgTfUV3wrjTPzKvn01,BTS,Yet To Come (Hyundai Ver.),Yet To Come (Hyundai Ver.),75,223535,False,0.508,0.842,1,-3.992,1,0.0612,0.078,0.0,0.0858,0.44,86.041,4,k-pop
+0vb21Y15llmTPEqw5m7KAW,Vijay Antony;Dinesh,Tn07 Al 4777 (Original Motion Picture Soundtrack),Aathichoodi,57,251210,False,0.739,0.738,7,-8.241,1,0.249,0.348,0.0,0.161,0.737,139.895,4,k-pop
+6fqaMyg066xlukvUJWdM2T,BTS,MAP OF THE SOUL : 7,00:00 (Zero O’Clock),72,250295,False,0.56,0.547,1,-6.456,1,0.0675,0.0806,0.0,0.11,0.199,157.962,4,k-pop
+5RjUtRlDonw3TBgGGMLC5b,BTS,MAP OF THE SOUL : 7,Friends,71,199338,False,0.55,0.747,1,-5.211,1,0.0407,0.0668,0.0,0.0536,0.649,79.979,4,k-pop
+3Vjfh7FoOIg6lRDsFNbVv7,Yuvan Shankar Raja,Vaanam (Original Motion Picture Soundtrack),Vaanam,56,224106,False,0.573,0.549,0,-4.448,0,0.0269,0.269,8.97e-05,0.383,0.311,113.99,4,k-pop
+0fg3tcKxZiPI6n5dZa8Dy9,Alka Yagnik;Mohammed Aziz,Bollywood Melody Queen (Alka Yagnik),"Bahut Jatate Ho Pyar (From ""Aadmi Khilona Hai"")",56,436333,False,0.593,0.61,5,-10.574,1,0.032,0.768,0.0117,0.147,0.907,133.067,4,k-pop
+3EPxiSj3RsjMMdKCM7pthV,Vijay Antony;Karthik;Charulatha Mani,Velayudham (Original Motion Picture Soundtrack),Chillax,56,265853,False,0.691,0.855,7,-6.841,1,0.161,0.503,5.37e-05,0.264,0.847,75.003,4,k-pop
+34y1d4i8uru6aQSWd8ewPT,Alka Yagnik;Kumar Sanu,Phool Aur Kaante (Original Motion Picture Soundtrack),Tumse Milne Ko Dil,57,300400,False,0.529,0.812,1,-9.238,0,0.0706,0.768,1.93e-06,0.311,0.768,138.841,3,k-pop
+3p4vXmvE970zZSZUF0GUnT,Vijay Antony;Sangeetha Rajeshwaran,Dishyum (Original Background Score),Dailamo Dailamo,56,267666,False,0.814,0.663,6,-7.802,0,0.0565,0.121,0.0,0.587,0.815,125.03,4,k-pop
+3Uo9rRELbWvuIvTBPL4KPq,Kamal Haasan;Priya Hemesh,Manmadan Ambu (Original Motion Picture Soundtrack),Neela Vaanam,57,267280,False,0.514,0.475,0,-5.202,1,0.0249,0.608,0.0,0.313,0.164,92.374,5,k-pop
+5EIpzyd2nuFVy7KUFCkwwy,Yuvan Shankar Raja;Naveen;Bhargavi;Haricharan;Andrea Jeremiah,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Oh Baby,56,337933,False,0.799,0.677,10,-9.779,0,0.043,0.00958,0.000477,0.0993,0.559,99.98,4,k-pop
+3lKI2qR6rgR13kQ6bidXK5,Vijay Antony;Jayarajagopalam;Sathya Lakshmi,Naan Avanillai (Original Motion Picture Soundtrack),Macha Kanni,57,290053,False,0.778,0.816,11,-4.813,1,0.207,0.364,8.53e-06,0.14,0.83,148.023,4,k-pop
+7pog5PPLDv7NcGO975f3EJ,Yuvan Shankar Raja;Muthu Sirpi,Viruman (Original Motion Picture Soundtrack),Vaanam Kidukidunga,56,248400,False,0.775,0.75,7,-8.092,1,0.182,0.331,4.94e-05,0.158,0.614,150.049,4,k-pop
+5rbGnNysQbvPegFcEoboQ8,Yuvan Shankar Raja;Silambarasan TR;Suchitra,Manmadhan,En Aasai Mythiliye,55,261588,False,0.552,0.844,1,-9.007,1,0.13,0.244,0.000438,0.0813,0.822,79.493,4,k-pop
+3KmqCi6VD4IkonTDO1LRge,Yuvan Shankar Raja;Roop Kumar Rathod,All About Love: Yuvanshankar Raja,"Oru Devathai (From ""Vaamanan"")",57,296760,False,0.642,0.493,0,-9.618,0,0.0325,0.163,0.000796,0.111,0.281,120.019,4,k-pop
+5dntGTbUtmUO239wQ0k3yM,KAI,KAI - The 1st Mini Album,Mmmh,71,192346,False,0.659,0.718,7,-5.607,0,0.0507,0.202,1.01e-06,0.2,0.297,136.96,4,k-pop
+6M47gaKejso9772SKTa3yH,Tech N9ne;Joey Cool;King Iso;Dwayne Johnson,ASIN9NE,Face Off,73,219802,True,0.693,0.935,8,-4.323,1,0.224,0.18,0.0,0.179,0.391,80.882,4,k-pop
+7MAS0yiC3a4YX2gatvkEuK,Tanir;Tyomcha;Jarico,Да да да (Jarico Remix),Да да да - Jarico Remix,57,214329,False,0.774,0.907,7,-5.919,0,0.0514,0.0865,0.0021,0.65,0.691,111.015,4,k-pop
+0YJFlxeHMUr9MxSDQVuQJA,BTS,MAP OF THE SOUL : 7,My Time,72,234457,False,0.674,0.641,0,-5.139,0,0.0339,0.149,0.0,0.0925,0.664,99.91,4,k-pop
+7fuBxwRsCzWP6wwJyRWiGK,Jubin Nautiyal;Meet Bros.;Rashmi Virag,Teri Galliyon Se,Teri Galliyon Se,55,293813,False,0.588,0.799,11,-5.411,1,0.0794,0.263,0.0,0.0948,0.436,92.052,4,k-pop
+3dVRCkAxewUv5QzGDJU7Za,Anuradha Paudwal;Navin Tripathi,Jai Ram Shree Ram,Jai Ram Shree Ram,26,457360,False,0.621,0.548,5,-6.494,1,0.0258,0.444,0.0,0.0888,0.433,90.002,4,k-pop
+6zQpBVXilFdWJnlDlNE5jO,Anuradha Paudwal,Laxmi Mantra,Laxmi Mantra,13,946552,False,0.364,0.194,10,-14.938,1,0.0431,0.936,0.0,0.0626,0.184,79.237,3,k-pop
+3d3ELsqKlQ7WA0a10Isu3l,iKON,Return,LOVE SCENARIO,71,209648,False,0.806,0.707,7,-4.623,1,0.0307,0.331,0.0,0.294,0.746,118.009,4,k-pop
+0pYacDCZuRhcrwGUA5nTBe,IU;SUGA,eight,eight(Prod.&Feat. SUGA of BTS),73,167573,False,0.676,0.869,1,-1.573,1,0.0423,0.115,0.0,0.132,0.594,120.029,4,k-pop
+0LatE4S9UtCDwIdGQsFFKL,Stray Kids,NOEASY,"Red Lights (Bang Chan, Hyunjin)",74,189906,False,0.707,0.74,11,-4.311,0,0.0509,0.179,0.0,0.612,0.336,127.974,4,k-pop
+71CuJ0fes18bBXq2kICL1n,Anuradha Paudwal;Rani Chatterjee,Bhail Araghiya Ke Ber,Bhail Araghiya Ke Ber,12,243250,False,0.462,0.887,6,-1.361,1,0.0362,0.117,0.0,0.617,0.575,119.986,1,k-pop
+4u15uG99mpkGrOQDuQdhaU,Jubin Nautiyal;Prakriti Kakar,Barkhaa,Tu Itni Khoobsurat Hai - Reloaded,55,234945,False,0.612,0.501,10,-8.082,0,0.0293,0.768,0.0,0.17,0.62,80.003,4,k-pop
+1jz0PUb4rChtZUk4Itn1Co,Jubin Nautiyal;Sameera Bharadwaj,Sarrainodu,Telusaa Telusaa,56,264544,False,0.499,0.636,4,-8.176,1,0.0558,0.769,0.0087,0.113,0.35,167.953,4,k-pop
+05ib88vsMeLfwlAfrZyz99,Stray Kids,MAXIDENT,"TASTE (Lee Know, Hyunjin, Felix)",77,216120,False,0.626,0.623,6,-5.718,0,0.0653,0.0559,0.0,0.199,0.123,140.209,4,k-pop
+7n2FZQsaLb7ZRfRPfEeIvr,IVE,ELEVEN,ELEVEN,79,178453,False,0.828,0.731,9,-3.033,1,0.111,0.0617,0.0,0.048,0.587,119.978,4,k-pop
+4DjcBr310LtxxR6wq4sJRv,Anuradha Paudwal;Udit Narayan,Dil,Mujhe Neend Na Aaye,56,373573,False,0.489,0.669,11,-10.788,0,0.0511,0.819,0.0206,0.281,0.713,149.928,4,k-pop
+7z8XCViP5KT8O7HqoCsRTV,Anupam Roy;Shreya Ghoshal,Piku,Journey Song,56,252565,False,0.657,0.652,10,-7.247,1,0.05,0.37,0.0,0.238,0.665,109.885,4,k-pop
+4pspYVQGFHLPEFgQPD1J7e,ITZY,IT'z ME,WANNABE,74,191242,False,0.809,0.911,6,-4.41,0,0.0617,0.00795,0.000179,0.181,0.64,122.035,4,k-pop
+2y6Ty2NPAsP84XJAtzLxuk,j-hope;Becky G,Chicken Noodle Soup (feat. Becky G),Chicken Noodle Soup (feat. Becky G),70,235497,False,0.827,0.817,2,-4.081,1,0.0953,0.00496,1.19e-05,0.294,0.167,97.008,4,k-pop
+3VpVwKT10A5a4eqN4Pyad1,Vidyasagar;K. J. Yesudas,Niram (Original Motion Picture Soundtrack),"Mizhiyariyaathe - Version, 1",55,350068,False,0.768,0.685,2,-11.289,1,0.0303,0.13,0.000268,0.313,0.855,110.994,4,k-pop
+7bi5vk9KoY6Flkat31ViYD,BLACKPINK,THE ALBUM,Crazy Over You,66,161945,False,0.805,0.66,4,-5.342,1,0.0582,0.0367,6.4e-05,0.215,0.617,114.954,4,k-pop
+1D6lK8qADoErTTLkY4YBfM,CHEN;Punch,Descendants Of The Sun Pt.2 (Original Television Soundtrack),Everytime,67,189355,False,0.514,0.736,10,-4.364,1,0.0321,0.483,0.0,0.18,0.495,90.002,4,k-pop
+5vOT8VO87TAnUjh0oADwb1,BTS,Love Yourself 承 'Her',Go Go,71,235779,False,0.856,0.617,10,-5.308,0,0.084,0.171,0.0,0.0857,0.759,136.081,4,k-pop
+2ngmiq1KoYn3x25VOmvd8F,BTS,Love Yourself 結 'Answer',DNA,67,223122,False,0.599,0.775,1,-3.997,0,0.0542,0.022,0.0,0.0669,0.703,129.817,4,k-pop
+474VqnPDr0251lsQBB8sQB,BTS;Megan Thee Stallion,Butter (Megan Thee Stallion Remix),Butter - Megan Thee Stallion Remix,70,164457,False,0.739,0.588,8,-4.971,1,0.136,0.00308,0.0,0.109,0.774,109.958,4,k-pop
+4xd8fO9NUlWWrEH2dTo3ma,Yuvan Shankar Raja;Haricharan;Tanvi Shah,MasterWorks - Yuvanshankar Raja,"Thuli Thuli (From ""Paiya"")",55,283346,False,0.706,0.528,7,-7.431,0,0.0312,0.257,0.0019,0.112,0.634,92.021,4,k-pop
+7rlUYt3JTteF5OqEnx1UYf,Alka Yagnik,Raaz (Original Motion Picture Soundtrack),Aapke Pyaar Mein Hum,56,328000,False,0.425,0.708,7,-9.813,0,0.0765,0.606,6.71e-06,0.134,0.773,77.7,4,k-pop
+1wcr8DjnN59Awev8nnKpQ4,ENHYPEN,BORDER : CARNIVAL,Drunk-Dazed,75,193260,False,0.599,0.869,5,-5.174,0,0.0618,0.000707,0.0,0.0911,0.453,132.889,4,k-pop
+21aOLk12MksET8AsbU0SI6,TOMORROW X TOGETHER,The Chaos Chapter: FIGHT OR ESCAPE,LO$ER=LO♡ER,75,199919,False,0.644,0.867,11,-4.18,0,0.0383,0.001,0.0,0.105,0.687,124.997,4,k-pop
+7s8UULMrFE2iq5dvHwzrNr,Yuvan Shankar Raja,Kambathu Ponnu,Kambathu Ponnu,55,215000,False,0.826,0.735,5,-4.198,0,0.105,0.319,5.01e-06,0.086,0.892,89.999,4,k-pop
+0CI3up9Rf5tZq5MxfJG2oB,Dhanush;Arivu;G. V. Prakash,"Polladha Ulagam (From ""Maaran"")","Polladha Ulagam (From ""Maaran"")",55,235447,False,0.73,0.771,1,-8.041,1,0.221,0.023,0.000128,0.142,0.628,135.972,4,k-pop
+00J8yszzb5PR6ZIvSBtg0Y,BLACKPINK,THE ALBUM,You Never Know,66,229201,False,0.527,0.462,5,-5.504,1,0.0494,0.227,0.0,0.164,0.334,144.573,4,k-pop
+0TKh7b5rpmvydOl9FvSyXL,Yuvan Shankar Raja;Devan Ekambaram,Biriyani (Original Motion Picture Soundtrack),Nahna Na Nah,55,267640,False,0.803,0.594,8,-6.202,1,0.0381,0.223,0.00387,0.0767,0.593,92.007,4,k-pop
+2WoluqyWzsgRmFCeHeGlnm,ITZY,CHECKMATE,SNEAKERS,78,179453,False,0.935,0.849,7,-3.047,1,0.0779,0.0192,0.0,0.0223,0.551,119.986,4,k-pop
+2cbRVHdH6ab9sPsnQjFRx6,Yuvan Shankar Raja;Benny Dayal,Paiya (Original Motion Picture Soundtrack),Poongatre Poongatre,54,319906,False,0.825,0.669,5,-9.117,0,0.0475,0.0761,0.169,0.329,0.767,119.993,4,k-pop
+55LXlsWz0a222gwjAVevQi,Yuvan Shankar Raja,Pyaar Prema Kaadhal (Original Motion Picture Soundtrack),Dope Track,55,250684,False,0.617,0.695,0,-5.476,0,0.0538,0.266,4.28e-06,0.163,0.464,160.041,4,k-pop
+6LnEoRQKMcaFTR5UvaKuBy,SEVENTEEN,SEVENTEEN 9th Mini Album 'Attacca',Rock with you,75,180360,False,0.621,0.816,11,-5.242,1,0.104,0.0966,0.0,0.134,0.694,163.966,4,k-pop
+6CdUgvL597jWmW4w8P5kHs,TAEYEON,My Voice - The 1st Album,Fine,69,209157,False,0.36,0.565,7,-4.898,1,0.0608,0.358,0.0,0.0448,0.311,173.281,4,k-pop
+3YfG9ch4qcYbDhwVtDuzQm,Yuvan Shankar Raja;Haricharan;Tanvi Shah,All About Love: Yuvanshankar Raja,"Thuli Thuli (From ""Paiya"")",56,283346,False,0.706,0.528,7,-7.431,0,0.0312,0.257,0.0019,0.112,0.634,92.021,4,k-pop
+4ozRjRsmzHBWtH7h0mhj1w,Vijay Antony;Krishna Iyer;Shoba Chandrasekar;Charulatha Mani;Shakthisree Gopalan,Vettaikaaran (Original Motion Picture Soundtrack),Uchimandai,55,252200,False,0.489,0.824,0,-3.118,0,0.137,0.162,2.15e-06,0.104,0.917,83.003,4,k-pop
+79EUmflIk7DJaunxnWhK32,Yuvan Shankar Raja;K. J. Yesudas,Music Special,"Aarariraro(From ""Raam"")",55,286000,False,0.764,0.398,5,-11.501,0,0.0457,0.303,0.00145,0.0986,0.507,135.0,4,k-pop
+2RZtx21gOL0GwRxd23T3S6,Ilaiyaraaja;S. P. Balasubrahmanyam;Lata Mangeshkar,Sathya (Original Motion Picture Soundtrack),Valaiyosai,56,274500,False,0.725,0.404,9,-12.19,0,0.052,0.923,0.53,0.206,0.435,123.182,4,k-pop
+0kkkNUhAlQwm2WyMMt63qo,Vidyasagar;S. P. Balasubrahmanyam;S. Janaki,Karna (Original Motion Picture Soundtrack),Malare,55,305133,False,0.652,0.44,0,-11.325,1,0.0271,0.37,3.81e-05,0.0666,0.614,111.003,4,k-pop
+5JZGFSGzpRkEksBPu8n1kY,Yuvan Shankar Raja;G. V. Prakash;D. Imman;Vijay Antony;Thaman S,Biriyani (Original Motion Picture Soundtrack),Edhirthu Nill,56,261346,False,0.795,0.755,6,-6.031,0,0.0441,0.281,1.09e-06,0.047,0.606,123.962,4,k-pop
+7fGcPKzKiXAVL0mqesq4dT,Yuvan Shankar Raja;Karthik;Sunitha Sarathy,Paiya (Original Motion Picture Soundtrack),Suthudhe Suthudhe,54,295906,False,0.793,0.844,1,-8.593,0,0.0385,0.118,0.0123,0.0979,0.591,119.994,4,k-pop
+0f6cGe7JVOKXfTUZCvj43L,Ilaiyaraaja;Yuvan Shankar Raja;Ramya NSK,Neethaane En Ponvasantham (Original Motion Picture Soundtrack),Saayndhu Saayndhu,55,367746,False,0.658,0.386,11,-9.91,0,0.0315,0.746,0.00269,0.348,0.295,100.012,4,k-pop
+0Ne4nzvVi5FQXwiYCkjUqX,Madhusree;Naresh Iyer,Youth Beats - Hits of A.R.Rahman and Yuvan Shankar Raja,"Mayilrage (From ""Ah…Aah"")",55,322861,False,0.732,0.654,8,-7.583,0,0.0396,0.464,5.49e-05,0.123,0.724,122.049,4,k-pop
+04fYoQSUTfPhVjyW8aXkix,Yuvan Shankar Raja;Roshini;Priya Hemesh;Divya Vijay,Theeratha Vilayaatu Pillai (Original Motion Picture Soundtrack),En Jannal Vandha,56,283480,False,0.69,0.654,1,-4.726,1,0.203,0.0706,0.000561,0.0251,0.624,124.983,4,k-pop
+6chviF7naWfxVOF91dkdqb,Vidyasagar;Krishnachandar;Sujatha,Pasumpon (Original Motion Picture Soundtrack),Thamarai Poovukum,55,327333,False,0.579,0.708,2,-9.737,0,0.0424,0.535,0.000155,0.0994,0.744,81.023,4,k-pop
+4zTC9Wy4tMWvXeRaJwTHqH,Ilaiyaraaja;Bela Shende,Neethaane En Ponvasantham (Original Motion Picture Soundtrack),Vaanam Mella,55,362893,False,0.655,0.434,5,-8.585,0,0.0306,0.68,0.0134,0.175,0.509,111.94,4,k-pop
+4XcxgZSriCYamtIA7BgT7V,B.I;Soulja Boy;DeVita,BTBT,BTBT,69,219549,False,0.766,0.664,9,-6.932,0,0.177,0.334,0.0,0.115,0.509,109.946,4,k-pop
+6wBpO4Xc4YgShnENGSFA1M,LE SSERAFIM,FEARLESS,Sour Grapes,77,196540,False,0.779,0.801,6,-5.564,0,0.0457,0.395,0.0,0.108,0.72,139.998,4,k-pop
+5mdWIwsJAzR97ShGkt8gcR,ZICO;HOMIES,Street Man Fighter Original Vol.3 (Mission by Rank),New thing (Prod. ZICO) (Feat. Homies),78,147426,False,0.775,0.865,1,-2.015,1,0.307,0.0453,0.0,0.261,0.663,175.12,4,k-pop
+3ObPkJQAgjAhTwYvDhPrAW,TOMORROW X TOGETHER,minisode1 : Blue Hour,Blue Hour,73,209105,False,0.71,0.82,3,-4.362,0,0.0836,0.00962,0.0,0.0871,0.746,112.005,4,k-pop
+1qQpPLrf24dlipQw32Oo0b,Anuradha Paudwal;Kumar Sanu,Aashiqui,Jaan - E - Jigar Jaaneman,54,312440,False,0.41,0.72,7,-7.675,0,0.0476,0.827,0.00123,0.338,0.728,82.133,4,k-pop
+7eVu7FI02cTicLEgVtUvwF,TAEYONG;JENO;HENDERY;YANGYANG;GISELLE,2021 Winter SMTOWN : SMCU EXPRESS,ZOO,71,177413,False,0.823,0.923,9,-2.875,1,0.158,0.127,0.0,0.0571,0.629,122.922,4,k-pop
+0CguRnSNJQQR5ydaT8vU7R,Jubin Nautiyal,Mere Baba,Mere Baba,54,240953,False,0.605,0.768,1,-5.684,1,0.0278,0.235,0.0,0.152,0.629,80.971,4,k-pop
+1QpwvWMQGdOgA8MXXfgs4H,NMIXX,ENTWURF,DICE,82,165746,False,0.556,0.798,7,-3.331,1,0.254,0.0848,0.0,0.33,0.628,131.096,4,k-pop
+28rMrOeusmuvjDuf6j3Kwg,Anuradha Paudwal;Kumar Sanu,Aashiqui,Main Duniya Bhula Doonga,56,318293,False,0.361,0.716,9,-8.219,0,0.0399,0.765,0.00362,0.308,0.648,156.6,3,k-pop
+1s2BVgfna5AW7LCw9rf02r,Alka Yagnik;Udit Narayan,Taal (Original Motion Picture Soundtrack),Taal Se Taal,55,378026,False,0.682,0.532,7,-14.121,1,0.0966,0.0155,0.00041,0.128,0.614,95.007,4,k-pop
+1Z8TPHiKeCUyClxV6WTTIf,TOMORROW X TOGETHER,The Chaos Chapter: FREEZE,0X1=LOVESONG (I Know I Love You) feat. Seori,74,202203,False,0.584,0.836,0,-4.925,1,0.079,0.0558,0.0,0.0663,0.484,104.973,4,k-pop
+6T4o4xEh61CpgM9v4jG5DJ,Stray Kids,MAXIDENT,"3RACHA (Bang Chan, Changbin, HAN)",75,208573,False,0.721,0.856,0,-3.117,0,0.301,0.229,0.0,0.0853,0.627,142.068,4,k-pop
+7GARzfC1mwhDuk4t9WOACq,j-hope,Jack In The Box,MORE,74,180022,False,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,4,k-pop
+3xPrsPOz6k3DvWCstjXDMu,Dhanush,Yaakkai (Original Motion Picture Soundtrack),Solli Tholaiyen Ma,54,203649,False,0.702,0.743,0,-8.29,0,0.0445,0.0645,2.79e-05,0.0811,0.45,105.036,4,k-pop
+52CBUrIdyf8tbZaUY9iawE,Weeekly,We play,After School,71,205373,False,0.634,0.928,1,-1.609,1,0.0514,0.00719,2.55e-06,0.0626,0.738,164.007,4,k-pop
+2qQpFbqqkLOGySgNK8wBXt,TWICE,FANCY YOU,FANCY,76,213880,False,0.697,0.874,5,-2.15,0,0.0449,0.0122,0.0,0.627,0.775,132.018,4,k-pop
+6mzF8HvHdVrzJNd8M1uFCS,Crush,"Guardian (Original Television Soundtrack), Pt. 4",Beautiful,69,227583,False,0.416,0.41,10,-6.146,1,0.0292,0.843,0.0,0.107,0.219,110.252,4,k-pop
+3hm4axDodp2jFEDohQfXxV,Henry,당신이 잠든 사이에 Pt. 2 Original Television Soundtrack,It's You,68,231642,False,0.545,0.468,7,-6.064,1,0.0247,0.637,0.0,0.128,0.279,76.045,4,k-pop
+3bjg5cbmuwDoS7e2dAWyRG,BTS,The Most Beautiful Moment in Life Pt.2,Butterfly,70,238861,False,0.461,0.776,6,-4.498,1,0.0565,0.0149,0.0,0.12,0.291,149.985,4,k-pop
+6NfXjIsNGXaRaDzdbdxY4m,Alka Yagnik;Udit Narayan,Raaz (Original Motion Picture Soundtrack),Jo Bhi Kasmein,55,339840,False,0.627,0.668,9,-10.134,0,0.0373,0.564,0.0,0.0617,0.732,108.042,4,k-pop
+1dMN2vSRoKEGnIjDOmzmrz,BLACKPINK,BORN PINK,The Happiest Girl,67,222025,False,0.439,0.352,0,-9.632,1,0.057,0.587,0.0,0.14,0.548,181.517,3,k-pop
+0tjHAK7MZ91hhtCI8C7FHq,Yuvan Shankar Raja;Sid Sriram,"Pinju Pinju Mazhai (From ""Naane Varuvean"")",Pinju Pinju Mazhai,52,318427,False,0.746,0.649,11,-10.096,0,0.0327,0.587,1.23e-05,0.134,0.654,104.984,4,k-pop
+4ghGrdxwqLA6ZoCiu0u4IR,BLACKPINK,Kill This Love,Don't Know What To Do,66,201081,False,0.628,0.64,6,-4.164,0,0.0491,0.0992,0.0,0.138,0.409,129.815,4,k-pop
+0cx3DUvLuL7iTJ6aUzAZNx,All Ok,Happy,Happy,52,221960,False,0.548,0.604,4,-7.511,1,0.124,0.436,0.0,0.165,0.602,152.728,4,k-pop
+0ogQLrVggiaPUbHmRX5LqY,Yuvan Shankar Raja;Sooraj Santhosh,My Playlist: Yuvanshankar Raja,"Kadhal Aasai (From ""Anjaan"")",54,303750,False,0.403,0.826,6,-5.01,1,0.0721,0.493,0.0,0.139,0.358,73.226,4,k-pop
+2AeMA6k7ocfbYDZqq8NdV7,Jagjit Singh,Ghazal Maestro - Jagjit Singh,Koi Fariyaad,54,541346,False,0.403,0.439,9,-15.154,0,0.0555,0.073,0.00069,0.0828,0.325,84.822,4,k-pop
+1HshHZrFIF5MRXWCZntOPr,Stray Kids,MAXIDENT,CHILL,74,195146,False,0.744,0.923,7,-2.797,1,0.0507,0.115,0.0,0.065,0.522,96.005,4,k-pop
+0XuepwFJUcKN8T5zTqoP0F,Stray Kids,IN LIFE,Back Door,73,189286,False,0.82,0.842,7,-3.853,1,0.272,0.157,0.0,0.112,0.653,107.952,4,k-pop
+3G1aAxWS2Nd17FQs4PWV6X,BTS,The Most Beautiful Moment in Life Pt.2,Run,70,236748,False,0.554,0.878,11,-3.02,0,0.0513,0.00146,0.0,0.0998,0.55,132.896,4,k-pop
+3XEoa8R8XtnVV67uurLZsJ,Yuvan Shankar Raja;Javed Ali;Sowmya Raoh,My Playlist: Yuvanshankar Raja,"Aedho Saigirai (From ""Vaamanan"")",54,292960,False,0.639,0.64,0,-8.381,0,0.0321,0.167,0.00116,0.0937,0.366,84.987,4,k-pop
+2QI91Tq1F2Tl0slIaSegs1,Monsta X,ALL ABOUT LUV,GOT MY NUMBER,63,171273,False,0.739,0.474,9,-5.803,1,0.0915,0.0584,2.93e-06,0.128,0.513,96.03,4,k-pop
+25MHcbjvSdcfTiFgbKJiZF,BTS,MAP OF THE SOUL : 7,Inner Child,70,233265,False,0.589,0.696,11,-7.981,1,0.0725,0.017,0.0,0.0808,0.33,134.953,4,k-pop
+2S41NYKvhfm94DbWLjLUmH,Vijay Antony;Surchith;Sangeetha Rajeshwaran,Vettaikaaran (Original Motion Picture Soundtrack),Karigalan,54,255413,False,0.795,0.832,5,-3.215,0,0.0676,0.294,0.0,0.343,0.773,131.986,4,k-pop
+1acxzJSLNUISeYPGa5IOZ3,Alka Yagnik,Saajan (Original Motion Picture Soundtrack),Too Shayar Hai Main Teri Shayari,54,389906,False,0.489,0.739,2,-9.743,1,0.036,0.602,4.25e-06,0.0427,0.692,117.955,4,k-pop
+70XnKsO3UnIT4FnEwChQXx,j-hope,Jack In The Box,= (Equal Sign),73,114477,False,0.673,0.75,9,-5.831,1,0.0655,0.0155,5.44e-06,0.348,0.708,105.848,4,k-pop
+7DEKa5Z7Cl8s3Y7imb88OM,BTS;Steve Aoki,Love Yourself 轉 'Tear',The Truth Untold (feat. Steve Aoki),71,242292,False,0.571,0.422,1,-7.561,0,0.0422,0.374,0.0,0.127,0.169,113.016,4,k-pop
+6gdhAfSwSyWOgF5dUIJDUk,Dhanush,Autograph & Pudukkotayiliruthu Saravanan,"Nattu Sarakku - Language: Tamil; Film: Pudukkottaielerunthusaravanan; Film Artists: Dhanush, Aparna",54,276546,False,0.666,0.741,0,-10.85,0,0.261,0.224,0.0,0.447,0.916,75.186,4,k-pop
+3tP6QKbXvtrxiDI7QwKyUf,BLACKPINK,SQUARE TWO,STAY,71,230322,False,0.63,0.432,1,-6.721,1,0.0357,0.551,5.84e-06,0.0962,0.343,87.959,4,k-pop
+34OSqW5ULWxmCEMjJ1ZgVW,BTS,Love Yourself 轉 'Tear',Anpanman,70,232966,False,0.813,0.876,1,-2.92,0,0.0922,0.024,0.0,0.287,0.757,98.989,4,k-pop
+2kAZP4MIGCitpBHn358pgU,Yuvan Shankar Raja;Bhavatharini;Rizwan,"Meherezylaa (From ""Maanaadu"")","Meherezylaa - From ""Maanaadu""",53,259200,False,0.734,0.721,9,-5.806,0,0.0556,0.157,2.96e-06,0.256,0.387,100.043,4,k-pop
+4t2lPMOLcSRgbI2fZ7iYve,Yuvan Shankar Raja;Priya Hemesh,Take 10: Yuvanshankar Raja,"Aathadi Manasudhan (From ""Kazhugoo"")",52,309666,False,0.639,0.476,3,-7.675,0,0.043,0.138,0.0523,0.0865,0.353,160.093,4,k-pop
+6O734u9qnz6B4gWMyszWhi,BTS,The Most Beautiful Moment in Life Pt.2,Silver Spoon,71,233160,False,0.65,0.879,9,-2.886,1,0.073,0.00104,0.0,0.0483,0.536,166.895,4,k-pop
+7rwZD6MHLSuF2d9h5bnZPz,Alka Yagnik;Kumar Sanu,Bollywood Melody Queen (Alka Yagnik),"Chura Ke Dil Mera (From ""Main Khiladi Tu Anari"")",55,474653,False,0.613,0.696,8,-9.486,0,0.0504,0.136,0.00222,0.053,0.874,122.056,4,k-pop
+6KhAXXgDtEEahVzATvFNcn,BTS,MAP OF THE SOUL : 7,Moon,70,208589,False,0.704,0.646,6,-6.658,1,0.0596,0.0104,0.0,0.191,0.64,141.87,4,k-pop
+59SBaFrtyppqNhyzDpKx3j,Yuvan Shankar Raja;Silambarasan TR;T. Rajendar;Suchitra;Mahathi,Vallavan (Original Motion Picture Soundtrack),Ammadi Aathadi,53,329693,False,0.694,0.829,5,-7.738,0,0.124,0.52,0.000191,0.0789,0.699,80.018,4,k-pop
+1jZZm43y7RPuwjJQ5LrGHe,BTS,Skool Luv Affair,Jump,67,236488,False,0.495,0.974,7,-0.947,0,0.282,0.0349,0.0,0.44,0.763,102.077,4,k-pop
+4ePEjnKNSifPi60lYnJvoK,Alka Yagnik;Vinod Rathod,Bollywood Melody Queen (Alka Yagnik),"Aisi Deewangi (From ""Deewana"")",54,415476,False,0.444,0.755,1,-9.801,0,0.0528,0.512,7.71e-05,0.0554,0.619,115.051,4,k-pop
+4nVUk0Ff9fKbeNQHaYlnyw,Vijay Antony;Sukhwinder Singh;Gayathri,Dishyum (Original Background Score),Kitta Nerungi Vaadi,54,257066,False,0.798,0.813,9,-6.198,0,0.205,0.502,0.0,0.0846,0.802,89.807,3,k-pop
+6j8i9SWR1MG6XpwqxFhmJy,Vidyasagar;Madhu Balakrishnan,Abhiyum Naanum (Original Motion Picture Soundtrack),Vaa Vaa En Devadhai,54,289920,False,0.721,0.683,11,-6.577,0,0.0252,0.238,8.08e-06,0.092,0.901,112.991,4,k-pop
+4co1QFnOx9cpKRp3Ru6eJF,Vijay Antony;Janaki Iyer;VV Prassanna,Ninaithale Inikkum (Original Motion Picture Soundtrack),Azhagaai Pookkuthey,54,296813,False,0.618,0.522,4,-7.94,0,0.0461,0.695,8.94e-06,0.0944,0.356,149.825,4,k-pop
+1dfsPqH09vnzUWEOsN98Ex,SEULGI,28 Reasons - The 1st Mini Album,28 Reasons,78,189413,False,0.766,0.651,5,-3.546,0,0.0952,0.211,2.51e-06,0.144,0.488,121.995,4,k-pop
+6t7WriKgVszATnrdBKSUAf,BTS,Skool Luv Affair,Just One Day,69,239469,False,0.685,0.713,6,-4.705,0,0.266,0.179,0.0,0.377,0.301,95.092,4,k-pop
+55Ctj6nVfobn9AcPe6sLG2,BTS,2 Cool 4 Skool,Like,72,231893,False,0.737,0.723,0,-4.165,0,0.0705,0.303,0.0,0.26,0.783,100.939,4,k-pop
+2RIFyeYTPMHesJsWPW2Z8v,Jubin Nautiyal,Kaabil,Kisi Se Pyar Ho Jaye,53,250457,False,0.615,0.58,9,-7.477,0,0.0411,0.332,0.0,0.148,0.498,87.977,4,k-pop
+5xrtzzzikpG3BLbo4q1Yul,IU,IU 5th Album 'LILAC',LILAC,73,214253,False,0.738,0.89,2,-2.275,0,0.0748,0.0895,1.89e-06,0.213,0.75,114.942,4,k-pop
+1lhm29o3syw122xynSKaAK,Sam Kim,"Nevertheless, (Original Television Soundtrack, Pt. 6)",Love Me Like That,71,211363,False,0.59,0.294,9,-8.125,1,0.0654,0.854,0.0,0.0873,0.461,87.895,4,k-pop
+7eYJ9NjhLPtCjyoJfWpfMr,Jubin Nautiyal;Kunaal-Rangon,"Phir Mulaaqat (From ""Cheat India"")","Phir Mulaaqat (From ""Cheat India"")",53,250017,False,0.5,0.539,9,-8.127,0,0.0593,0.572,0.0,0.323,0.29,140.078,3,k-pop
+56Ne0akGQ4GHPxS9MOL57G,Anuradha Paudwal;Kumar Sanu,Aashiqui,Nazar Ke Samne,53,335213,False,0.458,0.51,11,-8.287,0,0.0331,0.715,6.37e-05,0.0814,0.526,142.993,4,k-pop
+0VPVC9SAd50YMPhHfCz7F6,Alka Yagnik;Udit Narayan,Mohra (Original Motion Picture Soundtrack),Tip Tip Barsa Paani,53,363013,False,0.602,0.874,5,-8.529,0,0.0377,0.521,0.0313,0.113,0.691,103.198,4,k-pop
+3lrNsPdn98i6rxO142pLT6,NMIXX,AD MARE,O.O,75,172936,False,0.39,0.767,11,-3.918,0,0.293,0.0354,4.26e-06,0.0601,0.285,200.263,4,k-pop
+3lT4SlZVvqLhMeiuBv7gHW,Jubin Nautiyal,Romantic Hits By Jubin Nautiyal,"Tujhe Kitna Chahein Aur (Film Version) [From ""Kabir Singh""]",53,276244,False,0.358,0.252,11,-9.51,1,0.0346,0.604,0.0,0.0915,0.284,145.549,4,k-pop
+1IG0qJeHJRbPPv5iK51TfI,All Ok,Don't Worry,Don't Worry,51,210918,False,0.637,0.685,1,-6.028,0,0.106,0.444,0.0604,0.123,0.661,87.944,4,k-pop
+2ZMkjvuOQOD9HLplTDjbTA,JEON SOMI,XOXO,XOXO,66,207650,False,0.703,0.611,4,-6.376,1,0.0313,0.0705,0.0,0.133,0.527,144.991,4,k-pop
+7fzH38ofOIvZQwAQucwsKn,Alka Yagnik;Udit Narayan,Kasoor,Kitni Bechain Hoke,53,445120,False,0.583,0.814,6,-9.177,0,0.0616,0.491,0.00259,0.192,0.738,145.984,4,k-pop
+4ROdFnoZNn2RTmwct0cVpx,BTS,Love Yourself 轉 'Tear',Love Maze,71,221529,False,0.637,0.876,9,-4.652,1,0.0618,0.0483,0.0,0.0728,0.759,149.93,4,k-pop
+2cUzIBGMvx2BZ2Q1fzjdl1,Jessi,NUNA,NUNU NANA,68,195836,False,0.743,0.689,7,-2.846,1,0.0289,0.0198,0.0,0.708,0.504,104.936,4,k-pop
+6HAbPNraOVHwShFFtRVTik,JEON SOMI,XOXO,DUMB DUMB,63,147240,False,0.853,0.748,2,-6.218,1,0.049,0.0177,0.000137,0.0698,0.383,103.045,4,k-pop
+3YOWyqQrUPaVn0jxUFqYZb,Alka Yagnik;Udit Narayan,Qayamat Se Qayamat Tak,Akele Hain To Kya Gam Hai,54,357786,False,0.398,0.355,4,-12.434,0,0.0305,0.512,4.09e-05,0.146,0.634,143.147,4,k-pop
+5thheALMKZqEl479BxqAnL,Alka Yagnik;Udit Narayan,Dil Hai Tumhaara (Original Motion Picture Soundtrack),Dil Laga Liya Maine,55,271000,False,0.609,0.935,0,-7.839,1,0.0609,0.403,9.17e-05,0.311,0.917,81.03,4,k-pop
+4HkipUaRTXwhDqstRFz9oB,Yuvan Shankar Raja,Oye,Povodhe Prema,52,274933,False,0.683,0.492,1,-7.01,0,0.0288,0.51,0.00579,0.088,0.11,140.018,4,k-pop
+1e5W7XCQSyGlq3Lg0l4HBV,Anuradha Paudwal;Kumar Sanu,Phool Aur Kaante (Original Motion Picture Soundtrack),Maine Pyar Tumhi Se Kiya Hai,53,422266,False,0.515,0.634,7,-9.866,1,0.0836,0.559,2.54e-06,0.158,0.8,120.041,4,k-pop
+555NYWQ1PbmLJiTW6XFwtr,Raghu Dixit,Just Maath Maathali,Munjaane Manjalli,52,340244,False,0.39,0.505,9,-8.671,1,0.0381,0.421,0.0,0.0918,0.28,113.706,4,k-pop
+4gdiCHNbwugojBqr5Jt3pq,Kep1er,FIRST IMPACT,WA DA DA,74,183693,False,0.785,0.907,10,-2.657,1,0.0938,0.00122,3.11e-06,0.213,0.685,126.004,4,k-pop
+4TkknEEgy9mpbDtSA9ZrKV,Ilaiyaraaja;Amit Trivedi;Arijit Singh,Dear Zindagi (Original Motion Picture Soundtrack),"Ae Zindagi Gale Laga Le - Take, 1",52,171119,False,0.494,0.712,2,-6.605,0,0.0346,0.195,0.00028,0.108,0.386,156.059,4,k-pop
+2WTHLEVjfefbGoW7F3dXIg,aespa,Girls - The 2nd Mini Album,Girls,78,240440,False,0.57,0.974,3,-0.173,0,0.325,0.115,0.000594,0.125,0.65,171.958,4,k-pop
+5C6A1WXVfKvBBQmaFFnBgs,BTS,Love Yourself 承 'Her',Best Of Me,69,227191,False,0.655,0.756,8,-4.388,1,0.07,0.0298,0.0,0.396,0.469,121.936,4,k-pop
+3dGnykeZl6O95Tjoe2h9pt,Yuvan Shankar Raja,Panjaa,Panjaa,51,214741,False,0.78,0.877,2,-1.778,1,0.0391,0.0265,0.00852,0.417,0.738,100.021,4,k-pop
+078fJxqEUz0LvbHSM6AoXJ,Stray Kids,MAXIDENT,SUPER BOARD,73,185960,False,0.751,0.87,4,-2.551,0,0.0713,0.00653,0.0,0.077,0.412,103.019,4,k-pop
+6Fnvi5QnVkTskSzeRvvQds,BTS,BE,Telepathy,70,202313,False,0.787,0.669,5,-4.333,0,0.0428,0.00782,0.0,0.123,0.57,104.994,4,k-pop
+3FnDv33WrrMtuEr7hNR3ev,BTS,Skool Luv Affair,Boy in Luv,67,230778,False,0.491,0.947,0,-2.252,1,0.306,0.00261,0.0,0.34,0.474,166.236,4,k-pop
+7pgrtaEuvl8zpBC80CDKYS,Alka Yagnik;Udit Narayan,Qayamat Se Qayamat Tak,Gazab Ka Hai Din,53,266720,False,0.526,0.278,7,-14.456,1,0.0392,0.873,0.000762,0.111,0.649,150.16,4,k-pop
+0NFjUVEW0ndIiodGuMhHQU,BLACKPINK,BORN PINK,Ready For Love,64,184677,False,0.564,0.682,6,-6.688,1,0.113,0.0146,0.0,0.123,0.551,107.597,4,k-pop
+4QDpsNBlllaLGj8zbF2EE0,Stray Kids,ODDINARY,Charmer,74,188573,False,0.786,0.762,1,-2.508,1,0.0519,0.0524,1.04e-05,0.0971,0.731,90.963,4,k-pop
+1Wcr8zrKqbUX0zwN8Dbr16,ITZY,GUESS WHO,In the morning,72,172373,False,0.846,0.814,6,-4.685,0,0.149,0.0823,0.00094,0.13,0.722,140.055,4,k-pop
+3Ys2PYl1wyPKQIwyqhP9cQ,BTS,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,Stay Gold,68,243266,False,0.723,0.634,1,-5.415,1,0.0542,0.0892,0.0,0.0787,0.582,129.017,4,k-pop
+33vfE5bxDMHpOFHMSgxehR,Stray Kids,MAXIDENT,"Can't Stop (Seungmin, I.N)",73,209666,False,0.645,0.87,1,-3.087,1,0.0465,0.00522,1.12e-06,0.101,0.79,119.973,4,k-pop
+60dbY1IYizdQQVhC4QTyEc,Jubin Nautiyal;Payal Dev,Dil Chahte Ho,Dil Chahte Ho,53,252771,False,0.3,0.399,7,-6.951,1,0.0341,0.812,0.0,0.0978,0.225,78.755,4,k-pop
+5KGQ4YAwDV8YolJhbFPSuT,Yuvan Shankar Raja;Mukesh;Priyadharshini,My Playlist: Yuvanshankar Raja,"Where Is the Party (From ""Silambattam"")",53,318506,False,0.55,0.92,1,-4.057,1,0.0564,0.0159,0.000915,0.213,0.668,135.804,4,k-pop
+6PRy17C5LiiN7VCLS6IA98,ENHYPEN,MANIFESTO : DAY 1,Future Perfect (Pass the MIC),77,180750,False,0.658,0.9,9,-3.479,0,0.264,0.0364,0.0,0.0771,0.526,156.096,4,k-pop
+7CQhZA3qNDZBoTKWqjD7gR,Stray Kids,MAXIDENT,Give Me Your TMI,74,198173,False,0.749,0.862,11,-3.494,0,0.136,0.0513,0.0,0.0944,0.824,97.982,4,k-pop
+4b5m9ozBsFjIhDbg0IRpbL,Ilaiyaraaja;Kamal Haasan,Nayagan (Original Motion Picture Soundtrack),Thenpandi Cheemayile,53,272639,False,0.462,0.217,4,-11.436,0,0.0466,0.873,0.0,0.339,0.388,120.971,3,k-pop
+4XFNtx84dAt6jxKEniIVuY,Yuvan Shankar Raja;Javed Ali;Sowmya Raoh,Vaamanan (Original Motion Picture Soundtrack),Aedho Saigirai,53,292960,False,0.639,0.641,0,-8.381,0,0.0321,0.166,0.00113,0.0937,0.366,84.992,4,k-pop
+1LxpfJKJuEqAA6vhzaQOKS,Alka Yagnik,Gumraah - Jhankar Beats,Tere Pyar Ko Salam O Sanam - Jhankar Beats,0,266383,False,0.505,0.87,9,-9.392,0,0.165,0.512,0.346,0.085,0.445,112.102,4,k-pop
+1A1YlVucS5hugYaeWXfCA8,Yuvan Shankar Raja,Mankatha (Original Motion Picture Soundtrack),Mankatha Theme Music,52,184866,False,0.678,0.375,5,-6.992,0,0.0293,0.25,0.908,0.209,0.202,89.994,4,k-pop
+2Wkm4JBcIV2uSuu4qlbqFN,BTS,MAP OF THE SOUL : PERSONA,Dionysus,68,249215,False,0.502,0.91,7,-2.769,1,0.107,0.04,0.0,0.319,0.588,176.084,4,k-pop
+7jPCPDYoiaKeK7cgNGpIzq,BTS,The Most Beautiful Moment in Life Pt.1,Dope,68,240020,False,0.595,0.89,10,-3.109,0,0.245,0.0486,0.0,0.32,0.62,154.071,4,k-pop
+2X3UgVLSA4wYriGIQyYmMA,BTS,Love Yourself 結 'Answer',Answer : Love Myself,69,251279,False,0.568,0.793,1,-3.749,1,0.0406,0.189,0.0,0.111,0.45,108.051,4,k-pop
+3EeyaFOWvqer0qaEMrFyAz,Yuvan Shankar Raja,"Voice of Yuvanshankar Raja, Vol. 2","Yedho Ondru Ennai (From ""Paiya"")",52,213520,False,0.858,0.447,10,-7.917,1,0.0343,0.67,9.19e-05,0.0738,0.256,119.98,4,k-pop
+6nQp6Nxx1SwpOkze3Jf1Wo,Yuvan Shankar Raja;Udit Narayan;Suchitra,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Nenjai Kasakki,52,308693,False,0.681,0.65,5,-9.66,1,0.435,0.0969,0.0,0.355,0.661,80.078,4,k-pop
+3vli2UCALTW8ujkqWpiyk8,Yuvan Shankar Raja;Krishnaraj;Velmurugan;Sathyan,Kazhugoo (Original Motion Picture Soundtrack),Aambalaikum Pombalaikum,53,301173,False,0.856,0.682,1,-8.146,1,0.157,0.432,0.00379,0.224,0.767,127.982,4,k-pop
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,Come Home The Kids Miss You,First Class,79,173947,True,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,4,k-pop
+73VzVNv23PBqUPyqxRHMZR,Jubin Nautiyal,Pyaar Tune Kya Kiya,Pyaar Tune Kya Kiya,52,215063,False,0.543,0.602,8,-10.354,0,0.0389,0.624,3.14e-06,0.545,0.382,89.979,4,k-pop
+5BqBeEwb9sqUtRLKyzgQQe,Anuradha Paudwal;Kumar Sanu,Aashiqui,Tu Meri Zindagi Hai,53,285280,False,0.507,0.56,10,-7.177,0,0.034,0.878,0.000572,0.338,0.592,127.318,4,k-pop
+3U4DN2lz0IPxewpymAS1ZK,Jubin Nautiyal;Payal Dev;Manoj Muntashir,Meri Mai,Meri Mai,52,287075,False,0.525,0.807,8,-6.011,1,0.0369,0.496,8.2e-06,0.0938,0.887,89.863,4,k-pop
+1VfUpyKz9uN7et8t6Qhe7v,Jubin Nautiyal;Payal Dev,Dil Lauta Do,Dil Lauta Do,52,302207,False,0.435,0.53,2,-5.922,0,0.0277,0.562,0.0,0.0947,0.334,100.51,4,k-pop
+4iJyTp1KwCeBKhf7h0SwsD,WINNER,FATE NUMBER FOR,REALLY REALLY,64,203056,False,0.765,0.77,2,-3.16,1,0.0592,0.167,0.0,0.0854,0.581,103.005,4,k-pop
+5Yk5pn38SvDWN0cIv3lLNz,Jubin Nautiyal,Govind Bolo,Govind Bolo,52,150139,False,0.495,0.484,2,-10.923,1,0.0391,0.313,0.0,0.104,0.592,126.632,5,k-pop
+5ajXGmJGBs1IOEgvsVmPWB,All Ok,Good Morning,Good Morning,50,213571,False,0.659,0.633,1,-5.343,1,0.0334,0.0621,0.0128,0.334,0.0752,125.939,4,k-pop
+2u5Jh4U0GNJWDuafMQQygq,Tanir;Tyomcha;Mikis,Da Da Da (Remix by Mikis),Da Da Da - Remix by Mikis,54,183100,False,0.852,0.967,9,-1.661,0,0.0722,0.395,0.000324,0.433,0.891,124.024,4,k-pop
+6dG2zPUOWXk3eMC7Hb3wh3,JEON SOMI,DUMB DUMB,DUMB DUMB,59,149213,False,0.85,0.734,2,-6.415,1,0.0491,0.0221,0.000179,0.0728,0.406,103.027,4,k-pop
+2QZe2H1f03t5PJWEMg2Mbe,BTS,MAP OF THE SOUL : 7,UGH!,69,225012,False,0.72,0.824,10,-5.086,0,0.128,0.0394,0.0,0.0509,0.333,165.996,4,k-pop
+3UUY5QQuhs48YjWihSA0ha,All Ok;Arvind KP;Divya Urduga;Raghu Vine Store,Yaakinge 2,Yaakinge 2,51,266959,False,0.667,0.545,1,-8.088,1,0.0524,0.785,0.016,0.106,0.531,147.988,4,k-pop
+1ycq2btx7kf6bXdWILZhXa,Anupam Roy,Piku,Bezubaan,53,341177,False,0.403,0.56,2,-7.46,1,0.0362,0.354,5.71e-06,0.125,0.168,155.701,4,k-pop
+2zrhoHlFKxFTRF5aMyxMoQ,aespa,Next Level,Next Level,74,221573,False,0.82,0.852,11,-2.567,0,0.166,0.488,5.94e-06,0.0907,0.82,109.036,4,k-pop
+2B5hlXEiWAqZ9U6GwuyBSk,Jubin Nautiyal;Meet Bros.,Bedardi Se Pyaar Ka,Bedardi Se Pyaar Ka,52,255186,False,0.664,0.637,2,-4.338,0,0.0508,0.549,0.0,0.277,0.403,93.137,4,k-pop
+66eUlx0WYK1Jc56bIinkF9,Alka Yagnik;Udit Narayan,Raaz (Original Motion Picture Soundtrack),Kitna Pyaara Hai,52,261000,False,0.591,0.828,7,-10.309,0,0.0539,0.138,1.38e-06,0.323,0.881,89.981,4,k-pop
+5npCUsfrlhdyjxyCa32maW,Stray Kids,Christmas EveL,Christmas EveL,67,178529,False,0.878,0.777,5,-3.702,0,0.163,0.0437,0.0,0.401,0.878,139.989,4,k-pop
+3nZr2Anx8AEkI3thetbBzP,Jubin Nautiyal;Payal Dev;Rashmi Virag,Barsaat Ho Jaaye,Barsaat Ho Jaaye,52,250124,False,0.59,0.908,8,-4.137,0,0.0475,0.392,3.12e-06,0.257,0.784,87.989,4,k-pop
+2xeaHUnzzT5Kc974OQt1kA,ITZY,GUESS WHO,SHOOT!,67,139213,False,0.852,0.762,6,-4.448,0,0.0487,0.333,1.66e-06,0.159,0.907,131.958,4,k-pop
+5NVkktUlAylhk7f0t63eth,Sunwoojunga,Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2,Beyond My Dreams,63,185508,False,0.519,0.352,7,-8.332,1,0.0244,0.762,0.0,0.113,0.269,78.943,3,k-pop
+4gZGAVECoiutzp64KSHNjE,BTS,Love Yourself 承 'Her',MIC Drop,67,238193,False,0.667,0.889,6,-4.851,1,0.0917,0.00912,0.0,0.0816,0.541,169.961,4,k-pop
+1nWB8isqs2tviWk20G5pow,BTS,Wings,Lie,70,215752,False,0.541,0.779,6,-5.581,0,0.033,0.00338,0.0,0.177,0.501,94.069,3,k-pop
+38wTTpiltGsXGslrWMVmbw,Alka Yagnik,Zakhm,Gali Mein Chand - Happy,52,309413,False,0.427,0.402,2,-12.541,1,0.0462,0.763,2.31e-06,0.487,0.624,103.379,4,k-pop
+2eQAL7TZCiU1nXM3avyXtC,Anuradha Paudwal;Manhar Udhas;Laxmikant–Pyarelal,Hero,Too Mera Hero Hai,52,489293,False,0.411,0.407,9,-17.51,0,0.0363,0.72,4.84e-06,0.0827,0.578,82.799,4,k-pop
+10nnCsc6unlme3bImINZV3,Alka Yagnik;Vinod Rathod,Deewana (Original Motion Picture Soundtrack),Aisi Deewangi,52,415476,False,0.444,0.755,1,-9.801,0,0.0528,0.512,7.71e-05,0.0554,0.619,115.051,4,k-pop
+3AgMOlgdrG9RJXDWifcjVd,BLACKPINK;Cardi B,THE ALBUM,Bet You Wanna (Feat. Cardi B),64,159168,False,0.541,0.688,7,-5.184,1,0.198,0.00479,0.0,0.0733,0.649,109.843,4,k-pop
+1o8MqUvBiDIXxof2TuuPSX,Alka Yagnik;Udit Narayan,Raja Hindustani (Original Motion Picture Soundtrack),Kitna Pyaara Tujhe Rabne Banaya,52,382000,False,0.368,0.695,2,-12.31,0,0.057,0.641,7.48e-05,0.191,0.835,173.7,4,k-pop
+3JeLa5o0NxQjQHhVYaTLV0,Stray Kids,MAXIDENT,CIRCUS (Korean Ver.),70,194400,False,0.788,0.795,5,-3.676,0,0.0948,0.031,0.0,0.0302,0.703,98.004,4,k-pop
+517jKnHDXP1tjEb4VV4s1U,Vijay Antony;Vineeth Sreenivasan;Ranjith;Janaki Iyer,Angadi Theru (Original Motion Picture Soundtrack),Aval Appadi Onrum,51,257665,False,0.421,0.522,9,-5.803,1,0.0281,0.554,0.0,0.0705,0.521,74.865,4,k-pop
+77feKtBcyhRv4SE2u6dd9R,Yuvan Shankar Raja;Harini Ivaturi,Radhe Shyam,Ee Raathale,52,232762,False,0.63,0.528,9,-8.574,0,0.0311,0.0284,2.63e-06,0.107,0.551,124.0,4,k-pop
+78iiDXq2EBsTwnnJJWCuLy,Jagjit Singh,Dushman,Chithi Na Koi Sandesh-Jagjit Singh,51,397560,False,0.797,0.57,4,-7.959,1,0.0354,0.0994,4.3e-05,0.452,0.598,113.071,4,k-pop
+0VFWGbcDfPMFjXxjZJ9vgd,Yuvan Shankar Raja;Sid Sriram;Vignesh Shivan,"Mother Song (From ""Valimai"")","Mother Song (From ""Valimai"")",51,241846,False,0.607,0.536,9,-7.285,1,0.0336,0.287,0.0,0.461,0.436,129.97,4,k-pop
+62UqZv8jJwfXpKENrnk8OJ,Yuvan Shankar Raja;Rahul Nambiar;Saindhavi,Awaara (Original Motion Picture Soundtrack),Arere Vaanaa,51,266773,False,0.756,0.681,6,-9.769,0,0.0928,0.304,0.0387,0.0657,0.641,179.97,3,k-pop
+7AqdmyhxeYqwfwW52TTPdF,Yuvan Shankar Raja;Shankar Mahadevan,Billa (Original Motion Picture Soundtrack),Vethalaiya Potendi,51,262120,False,0.822,0.948,1,-3.178,1,0.127,0.174,0.00131,0.0821,0.821,120.025,4,k-pop
+5kVjNlwI6vDvbuYJohhUqh,Yuvan Shankar Raja,Pattiyal (Original Motion Picture Soundtrack),Kannai Vittu,51,147078,False,0.691,0.806,5,-8.286,0,0.0633,0.0729,0.00452,0.102,0.958,76.992,4,k-pop
+3TZ7NHkMT82AhwuYsd00Hz,BTS,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,Your eyes tell,68,245146,False,0.449,0.491,9,-6.433,0,0.029,0.279,0.0,0.0654,0.258,139.923,4,k-pop
+0wqqe8k13bJPxRt7FEmnwS,BTS,Love Yourself 轉 'Tear',So What,68,281520,False,0.657,0.883,9,-4.294,0,0.0733,0.0238,0.0,0.0481,0.461,129.943,4,k-pop
+4Qnhgqm32HUt8rIOqURZ1w,Ilaiyaraaja;Suresh Wadkar,Sadma (Original Motion Picture Soundtrack),Aye Zindagi Gale Lagaa Le,52,330000,False,0.369,0.39,6,-8.315,0,0.0429,0.57,0.0,0.177,0.428,159.255,4,k-pop
+1Rrj7KyS2R6SP9CQMDJW1w,SEVENTEEN,Love&Letter repackage album,VERY NICE,73,192092,False,0.746,0.898,3,-2.818,0,0.0725,0.0526,0.0,0.0858,0.879,121.967,4,k-pop
+5iIpbD34k4wnuRMZDNnuWf,HyunA,I'm Not Cool,I'm Not Cool,66,174173,False,0.883,0.845,11,-2.069,1,0.0585,0.0161,0.00157,0.29,0.656,116.004,4,k-pop
+6BskTMfDjXVzeqQHOau5Vi,BTS,The Most Beautiful Moment in Life: Young Forever,Epilogue: Young Forever,67,171803,False,0.606,0.815,5,-3.818,0,0.232,0.04,0.0,0.119,0.386,88.054,4,k-pop
+37nOpaUof3d4Xsmr6moAiI,BTS,Love Yourself 結 'Answer',Magic Shop,61,275695,False,0.531,0.661,1,-5.836,1,0.0907,0.103,0.0,0.0779,0.278,149.934,4,k-pop
+6A5wFryRTfXaihsdLwA31C,Alka Yagnik;Udit Narayan,Bollywood Melody Queen (Alka Yagnik),"Hai Mera Dil (From ""Josh"")",52,250920,False,0.643,0.43,5,-11.978,0,0.0331,0.379,1.34e-05,0.17,0.565,89.92,4,k-pop
+3LP4QpKptfe2yEC7oG5iNa,Yuvan Shankar Raja;Sid Sriram,"Ennai Vittu (From ""Love Today"")","Ennai Vittu (From ""Love Today"")",52,244669,False,0.602,0.388,0,-12.098,0,0.0536,0.334,3.7e-05,0.126,0.3,140.006,4,k-pop
+2FyWvKLqK8jpysuxQ228so,Yuvan Shankar Raja;Tippu;Sujatha,Vel (Original Motion Picture Soundtrack),Kovakkara Kiliye,51,252346,False,0.808,0.728,0,-10.493,0,0.0653,0.262,0.0,0.228,0.832,116.965,4,k-pop
+7bQ7f7KtXZ5Tcnj0UDUAtp,Kamal Haasan;S. Janaki,Gunaa,Kanmani,51,326860,False,0.623,0.298,1,-14.286,1,0.166,0.861,0.0,0.177,0.67,123.281,4,k-pop
+4HBDcyTmazbfvNchzmKTC1,Yuvan Shankar Raja,Vai Raja Vai (Original Motion Picture Soundtrack),Pachchai Vanna,51,255000,False,0.686,0.689,9,-4.73,0,0.0379,0.158,0.0,0.0422,0.446,120.031,4,k-pop
+0MOJU1KKbcDTgkdUtLs8G3,Alka Yagnik,Raja Hindustani (Original Motion Picture Soundtrack),Aaye Ho Meri Zindagi Mein - Female Version,53,363333,False,0.565,0.754,8,-11.636,0,0.0344,0.678,0.0442,0.0756,0.922,135.01,3,k-pop
+1oen3GpTcA486fTHaT7neg,Girls' Generation,FOREVER 1 - The 7th Album,FOREVER 1,79,202533,False,0.615,0.871,9,-1.248,1,0.0516,0.0427,0.0,0.254,0.297,123.915,4,k-pop
+096wyG5zJ7oUaZqOCGmmqH,Yuvan Shankar Raja;Ilaiyaraaja;Bela Shende,Silambattam (Original Motion Picture Soundtrack),Machaan Machaan,51,324840,False,0.627,0.682,10,-10.807,0,0.0895,0.331,0.00195,0.127,0.817,173.968,4,k-pop
+7LHAKF7pBqHch8o6Yo0ad5,RADWIMPS;Toaka,Suzume,Suzume,68,236390,False,0.571,0.415,2,-6.572,0,0.0305,0.615,0.0,0.187,0.342,78.025,4,k-pop
+6wH3AP7b01vpzKYRJhreMy,BTS,Black Swan,Black Swan,62,198260,False,0.719,0.757,2,-5.167,0,0.0849,0.137,0.0,0.129,0.489,147.024,4,k-pop
+6TBJkXHPhu3EsMk1bshwuI,LeeHi,4 ONLY,ONLY,77,240906,False,0.536,0.296,5,-7.451,1,0.0346,0.892,0.0,0.0873,0.151,122.907,3,k-pop
+6S2gYweMmT6xygVh5q3QLa,BTS,The Most Beautiful Moment in Life: Young Forever,House of Cards - Full Length Edition,69,226212,False,0.367,0.668,2,-4.484,0,0.052,0.336,0.0,0.147,0.384,104.961,4,k-pop
+43wLf5iwEFm65mp6K06kVy,Jubin Nautiyal;Neeti Mohan,Jolly Ll.B 2,Bawara Mann,51,216073,False,0.474,0.454,8,-8.334,1,0.0259,0.678,0.00175,0.313,0.338,85.046,4,k-pop
+2X45nVBeYzmDlrXji9Av0Q,MeloMance,"Love, Maybe (A Business Proposal OST Special Track)","Love, Maybe",67,185000,False,0.402,0.731,8,-3.529,1,0.0693,0.508,0.0,0.146,0.631,171.594,4,k-pop
+3QSjVPObHxuAJc3E5nrjRn,K/DA;Madison Beer;Kim Petras;League of Legends,ALL OUT,VILLAIN,74,199125,False,0.653,0.634,5,-5.875,0,0.0391,0.0232,0.0,0.0908,0.306,160.013,4,k-pop
+6ydJWVk3yC0CqlCEPpIabx,Jubin Nautiyal;Shreya Ghoshal,Kis Kisko Pyaar Karoon,Samandar,51,324193,False,0.534,0.901,5,-2.401,0,0.0494,0.483,6.61e-06,0.178,0.716,154.875,4,k-pop
+0Z99Xe1lGBmq60RwJ5YU18,HyunA&DAWN,1+1=1,PING PONG,68,158253,False,0.855,0.87,10,-2.059,0,0.0826,0.0122,0.000675,0.0202,0.863,103.028,4,k-pop
+2xtP8RNbo2BEMzLX7tK7aq,TWICE,CRY FOR ME,CRY FOR ME,73,204167,False,0.702,0.692,10,-5.405,1,0.0539,0.0542,0.0,0.0877,0.419,144.896,4,k-pop
+5ysBBGHvIGTqgQb5xdL3Lf,JEON SOMI,XOXO,Anymore,65,197701,False,0.731,0.549,6,-6.749,0,0.0329,0.0157,9.14e-06,0.083,0.45,137.932,4,k-pop
+1ehags7lQMM1qX94VJkoaf,ITZY,Not Shy,Not Shy,70,177728,False,0.776,0.911,2,-3.08,0,0.131,0.155,2.59e-06,0.268,0.56,101.027,4,k-pop
+2lyh5kOAC98ZJikzYSZN8n,Jagjit Singh,Hey Gobind Hey Gopal,He Ram He Ram,51,253000,False,0.601,0.276,0,-17.906,1,0.0264,0.717,0.0,0.191,0.697,91.56,4,k-pop
+6Upu6yjkdi0DVI8E3IBZEU,SEVENTEEN,SEVENTEEN 4th Mini Album ‘Al1’,Don't Wanna Cry,71,203426,False,0.781,0.683,0,-4.258,1,0.0325,0.164,1.53e-06,0.16,0.722,100.005,4,k-pop
+0BTaaKT4RMbs5M73tOHX5Y,TWICE,Taste of Love,Alcohol-Free,72,210573,False,0.688,0.909,8,-1.992,1,0.0624,0.0474,1.35e-06,0.0674,0.702,97.097,4,k-pop
+6vo0dV9t7PCQZKsLFwVwZ5,SEVENTEEN,Darl+ing,Darl+ing,70,176546,False,0.71,0.686,0,-4.926,1,0.0713,0.296,0.0,0.492,0.483,96.06,4,k-pop
+0jFHMDRXxKaREor3hBEEST,SUNMI,SUNMI SPECIAL EDITION [Gashina],Gashina,67,180000,False,0.722,0.833,6,-3.915,1,0.094,0.0556,0.0,0.195,0.53,93.941,4,k-pop
+77Da7nPpG4Kfy2rPfVzOBU,Dhanush;Jonita Gandhi,"Engleesu Lovesu (From ""Pakkiri)""",Engleesu Lovesu,50,219954,False,0.759,0.537,6,-8.059,1,0.0452,0.521,0.000197,0.101,0.654,109.973,4,k-pop
+6oUqIyDXN04IgkeKHl7yL5,Alka Yagnik;Ila Arun,Khal Nayak (Original Motion Picture Soundtrack),Choli Ke Peeche,52,519360,False,0.656,0.81,0,-7.448,1,0.0969,0.686,1.08e-05,0.3,0.962,98.895,4,k-pop
+3vAncbML0jhNrp63DKhsCo,HEIZE;Han Suji,"Guardian (Original Television Soundtrack), Pt. 14",Round And Round,59,201658,False,0.604,0.687,0,-5.13,0,0.0327,0.757,0.234,0.0718,0.504,119.992,4,k-pop
+3dI59jLoFMjMAyUAyRZnkE,BIGBANG,MADE,BANG BANG BANG,68,220177,False,0.69,0.843,1,-2.949,1,0.0534,0.0167,0.0,0.346,0.428,135.01,4,k-pop
+2NKkRdLnT1aI0W8YqtTkOu,Alka Yagnik,Tere Naam,Tere Naam,51,390386,False,0.587,0.775,4,-7.549,1,0.0721,0.75,0.0784,0.0948,0.586,87.938,4,k-pop
+4ve9p2wRIRnwM7bbFHmtZG,Raghu Dixit,Just Maath Maathali,Just Maath Maathali,51,156368,False,0.688,0.492,5,-8.459,1,0.0256,0.492,0.000227,0.147,0.638,107.918,4,k-pop
+3dbLT62Cvs46Ju7a8gpr36,aespa,Savage - The 1st Mini Album,Savage,74,238143,False,0.727,0.879,9,-1.167,1,0.129,0.124,1.17e-05,0.244,0.671,146.959,4,k-pop
+0RQhpA5lD1GyM7lO2tdmbO,Yuvan Shankar Raja;S.P. Charan,Awaara (Original Motion Picture Soundtrack),Yedho,50,213520,False,0.763,0.351,0,-9.528,0,0.0315,0.778,2.05e-06,0.0892,0.368,119.949,4,k-pop
+3oj9ZcytkTaovswquxjzo1,Anuradha Paudwal,Gayatri Mantra,Om Bhurbhuwasah,53,3340672,False,0.719,0.466,3,-9.153,1,0.0417,0.733,1.81e-06,0.0973,0.812,137.159,4,k-pop
+7ruWC3ciPppmxlZnjOPhVn,Jagjit Singh;Deepak Pandit;Laxmikant–Pyarelal,Close To My Heart Jagjit Singh,Ek Pyar Ka Naghma Hai - Shor,51,291655,False,0.484,0.416,10,-11.415,1,0.03,0.547,0.00284,0.133,0.522,179.451,4,k-pop
+0mZI1NpihIVcho2f9MmqSW,BTS,Love Yourself 結 'Answer',Trivia 轉 : Seesaw,69,246334,False,0.707,0.791,5,-4.483,0,0.035,0.179,0.0,0.102,0.674,106.985,4,k-pop
+1NHl9g36Ebu3g16y0vtUNV,BTS,BE,Fly To My Room,67,222242,False,0.764,0.526,11,-7.355,1,0.212,0.0484,0.0,0.0718,0.588,114.91,4,k-pop
+2pPbzZbeEcAHhGcdsRe2ml,Anuradha Paudwal;Sonu Nigam,Jai Maa Vaishno Devi,O Aaye Tere Bhawan,51,319600,False,0.566,0.683,4,-11.099,1,0.0391,0.616,0.0,0.218,0.964,81.783,3,k-pop
+2HOYjQd1Znu5vORQ0grHjh,Yuvan Shankar Raja;Suriya;Andrea Jeremiah,Anjaan (Original Motion Picture Soundtrack),Ek Do Teen,50,237333,False,0.62,0.672,10,-5.859,0,0.0362,0.0604,2.54e-05,0.0684,0.719,67.54,4,k-pop
+30YLyzfEjMQsXj4ZFslAmT,BTS,MAP OF THE SOUL : 7,Make It Right,63,226321,False,0.639,0.706,7,-7.874,1,0.448,0.0104,0.0,0.132,0.259,105.782,4,k-pop
+7HYJqAMbKDJYRyEfUGOCBB,BTS,Love Yourself 結 'Answer',I'm Fine,68,240339,False,0.511,0.84,11,-2.781,0,0.103,0.00852,0.0,0.346,0.303,87.605,4,k-pop
+3dDEqZAgmnMGeTh8sRueI4,Alka Yagnik;Kumar Sanu,Phool Aur Kaante (Original Motion Picture Soundtrack),Dheere Dheere Pyar Ko,51,328640,False,0.533,0.451,9,-10.446,0,0.0317,0.729,0.000251,0.331,0.801,120.553,3,k-pop
+5EgYDyMDCi8X0zDydTF7Rb,BTS,BTS WORLD (Original Soundtrack),Heartbeat (BTS World Original Soundtrack),66,253303,False,0.437,0.716,5,-4.306,1,0.05,0.39,0.0,0.208,0.307,170.094,4,k-pop
+3dn1dBimUAxhJtXnzljrWO,Yuvan Shankar Raja;Shweta Mohan,Pattiyal (Original Motion Picture Soundtrack),Yedhedo Ennangal,50,256831,False,0.753,0.915,10,-7.246,0,0.065,0.0475,0.00158,0.0561,0.95,80.015,4,k-pop
+3sls5U5570lGpLiEKTpMGl,Anuradha Paudwal,Aarti-Om Jai Jagdish Hare,Jai Ganesh Deva,52,271158,False,0.667,0.768,1,-7.133,1,0.105,0.484,0.0,0.662,0.741,134.949,3,k-pop
+1PSz9VCtLOo4sgcFluNMPu,Vijay Antony;Sangeetha Rajeshwaran,Velayudham (Original Motion Picture Soundtrack),Mayam Seidhayo,50,254653,False,0.786,0.659,2,-7.447,0,0.0289,0.433,0.00109,0.0997,0.951,135.449,4,k-pop
+4o3Ao6wY5fbJR32fQKabfQ,BTS,The Most Beautiful Moment in Life: Young Forever,Dope,64,240020,False,0.579,0.896,10,-2.781,0,0.225,0.0272,1.02e-06,0.352,0.678,153.991,4,k-pop
+14FlUUB2fyxHFLQ7PYGrqp,Yuvan Shankar Raja,Kedi Billa Killadi Ranga (Original Motion Picture Soundtrack),Sudasuda Thooral,50,306506,False,0.718,0.729,3,-5.458,0,0.0294,0.452,0.0117,0.0887,0.274,119.987,4,k-pop
+24nK8tW7Pt3Inh2utttuoG,MAMAMOO,reality in BLACK,HIP,71,195306,False,0.782,0.731,3,-4.581,0,0.143,0.0376,3.15e-05,0.0956,0.824,138.032,4,k-pop
+1fzAokzOONl4XEPUFoammu,Alka Yagnik;Arijit Singh,Loveholic Arijit Singh,"Agar Tum Saath Ho (From ""Tamasha"")",52,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,k-pop
+0TdWVbcerMAcvljXrl9gpG,BTS,BE,Stay,67,204800,False,0.582,0.693,6,-5.048,1,0.0465,0.114,0.0,0.13,0.341,125.904,4,k-pop
+6XeJ4zrJoEGr3jbgO6duJl,Yuvan Shankar Raja;Sadhana Sargam,Baana Kaathadi (Original Motion Picture Soundtrack),En Nenjil,50,305333,False,0.681,0.658,8,-8.856,1,0.0444,0.633,0.00262,0.16,0.585,144.857,4,k-pop
+39uStmR57jzQn1faGRpMos,Yuvan Shankar Raja,Thulluvadho Ilamai,Idhu Kaadhala,49,271746,False,0.721,0.584,0,-12.328,0,0.0486,0.0798,0.00221,0.682,0.536,132.972,4,k-pop
+1jostbOkEqtpldYbXICP7k,Anuradha Paudwal;Kumar Sanu,Ultimate Romantic Duet - Kumar Sanu & Anuradha Paudwal,"Dheere Dheere Se Meri Zindagi Mein Aana (From ""Aashiqui"")",52,329640,False,0.477,0.636,8,-8.334,0,0.0356,0.865,0.00226,0.208,0.707,84.547,4,k-pop
+2Hdoffi3Ynk12njFM3OT2T,Ilaiyaraaja;K. J. Yesudas,Rettai Vaal Kuruvi (Original Motion Picture Soundtrack),Raja Raja Chozhan,51,274800,False,0.509,0.331,0,-13.662,0,0.0451,0.76,0.000105,0.0781,0.826,155.917,3,k-pop
+45LZkeAJNMpiMCCBcb2sep,Yuvan Shankar Raja;Mukesh;Priyadharshini,Silambattam (Original Motion Picture Soundtrack),Where Is the Party,51,318506,False,0.55,0.92,1,-4.057,1,0.0564,0.0159,0.000927,0.212,0.668,135.805,4,k-pop
+0ggtoVGwW9HerJzpnjV100,Ilaiyaraaja;S. Janaki,Ooru Vittu Ooru Vandhu (Original Motion Picture Soundtrack),Sorgame Endralum,51,291500,False,0.639,0.737,9,-5.026,1,0.0327,0.788,0.0737,0.283,0.719,120.773,4,k-pop
+6X9DNG2WR3IclfneGurU0T,BLACKPINK,"BLACKPINK ARENA TOUR 2018 ""SPECIAL FINAL IN KYOCERA DOME OSAKA""","Kiss and Make Up - BLACKPINK ARENA TOUR 2018 ""SPECIAL FINAL IN KYOCERA DOME OSAKA""",59,190500,False,0.65,0.697,0,-9.582,0,0.272,0.13,0.0,0.862,0.551,99.771,4,k-pop
+3r44Otr6SVUja3SYsCuhVY,Izzamuzzic;Julien Marchal,Shootout (Sped Up),Shootout (Sped Up),76,242142,False,0.684,0.605,10,-8.678,0,0.0634,0.216,0.941,0.103,0.768,104.647,4,k-pop
+0Bph99neebTJZ6rsIhd0sN,Jubin Nautiyal;Palak Muchhal,Kaabil,Kaabil Hoon,50,314062,False,0.662,0.873,11,-3.927,1,0.0489,0.043,1.71e-06,0.338,0.532,89.972,4,k-pop
+2e3cJdJ8xWwydl8JIYlCqB,WayV,Love Talk (English Version),Love Talk - English Version,69,232150,False,0.751,0.719,6,-5.198,0,0.0373,0.142,0.0,0.148,0.437,98.01,4,k-pop
+1MX0g22bQkr9HDVe37fLnN,BTS,Love Yourself 轉 'Tear',134340,70,230063,False,0.665,0.687,11,-6.466,0,0.0547,0.155,9.28e-05,0.173,0.651,106.023,4,k-pop
+5TjAp8EJymjvgEBkxSnENo,Jubin Nautiyal;Palak Muchhal;Sanjeev Darshan,"Dhadkan (From ""Amavas"")","Dhadkan (From ""Amavas"")",50,217965,False,0.452,0.484,2,-5.88,0,0.031,0.75,0.0,0.141,0.198,71.558,4,k-pop
+7rjFYm6THGNETjg3vb1Tof,Jubin Nautiyal;Rashmi Virag;Meet Bros.,Wafa Na Raas Aayee,Wafa Na Raas Aayee,50,288152,False,0.641,0.869,2,-4.024,0,0.0452,0.559,0.0,0.0782,0.558,98.03,4,k-pop
+0VES0jpNQEdRpD31gYDIMe,Yoon Mirae;BIBI,Street Man Fighter Original Vol.3 (Mission by Rank),LAW (Prod. Czaer),72,189373,False,0.756,0.9,2,-4.428,1,0.0843,0.00857,0.000111,0.237,0.55,128.054,4,k-pop
+1KfclPhKuX3iFTUHfeE8kX,Jubin Nautiyal,Marjaavaan,Tum Hi Aana (Sad Version),50,83169,False,0.501,0.168,4,-9.675,0,0.0313,0.944,0.0,0.118,0.131,79.968,4,k-pop
+27zrFrtUtWl2urlvjOn5xc,Loco;Punch,"Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",Say Yes,68,218897,False,0.696,0.778,1,-4.653,0,0.0585,0.352,0.0,0.329,0.41,94.996,4,k-pop
+1rLkzFZdokhx6Wcs80uvnw,BTS,Love Yourself 結 'Answer',Dimple,61,196776,False,0.612,0.844,5,-4.694,0,0.0757,0.14,0.0,0.289,0.652,134.872,4,k-pop
+35sE2Ehvd1GzBzAIC0zFIu,Stray Kids,Street Man Fighter Original Vol.4 (Crew Songs),HEYDAY (Prod. Czaer),74,144773,False,0.892,0.808,2,-3.343,1,0.156,0.0335,0.0,0.0363,0.701,137.97,4,k-pop
+54azQnjuDYDFfImXimGFsA,BTS;Nicki Minaj,Love Yourself 結 'Answer',IDOL,64,260233,False,0.708,0.857,6,-3.394,0,0.0827,0.00219,0.0,0.103,0.449,126.051,4,k-pop
+0kTkexa9RHtmohQud0ClEE,Jubin Nautiyal;Asees Kaur;Keshav Anand,Khuda Haafiz - Chapter 2 Agni Pariksha (Original Motion Picture Soundtrack),Chaiyaan Mein Saiyaan Ki,50,245624,False,0.363,0.448,1,-8.595,1,0.0348,0.716,0.0,0.108,0.424,143.711,4,k-pop
+1EKvufWHnlZbGZGMDg3NYR,Dhanush;Vivek - Mervin,"Chill Bro (From ""Pattas"")","Chill Bro (From ""Pattas"")",50,239989,False,0.73,0.904,7,-4.223,1,0.247,0.18,0.000348,0.121,0.464,160.07,4,k-pop
+2oBMZYteeO8DyXV9gDx6Za,Red Velvet,‘The ReVe Festival 2022 - Feel My Rhythm’,Feel My Rhythm,75,210253,False,0.412,0.94,1,-2.171,1,0.215,0.0648,0.0,0.358,0.423,157.964,4,k-pop
+5Wkp9UUUbiDMR5e0toF6KN,Alka Yagnik;Kumar Sanu,Kasoor,Mohabbat Ho Na Jaye - Dekha Jo Tumko,50,395560,False,0.515,0.629,3,-8.402,1,0.0345,0.495,7.65e-05,0.0779,0.476,139.905,4,k-pop
+1YO4xJXhh9A1Feg9k8xuy2,BTS,Love Yourself 轉 'Tear',Paradise,68,211223,False,0.551,0.828,5,-5.523,1,0.352,0.214,0.0,0.0571,0.928,139.662,4,k-pop
+2j1Es5qEl4pD8GEe2WsYgP,SEVENTEEN,SEVENTEEN 4th Album 'Face the Sun',Darl+ing,70,176560,False,0.519,0.695,0,-4.861,1,0.0812,0.299,0.0,0.43,0.515,95.384,4,k-pop
+3zmrdOtnOogqLllz26WLZ3,ATEEZ,ZERO : FEVER Part.3,Deja Vu,69,196670,False,0.692,0.835,6,-4.978,0,0.0628,0.0517,0.0,0.134,0.566,80.017,4,k-pop
+4HxVweMysEnuYxy3gkFtKk,BLACKPINK,SQUARE UP,Really,63,197789,False,0.696,0.881,1,-2.082,1,0.104,0.0235,0.0,0.277,0.947,142.019,4,k-pop
+5OOCeCAdjJktp5byLSckoB,Alka Yagnik;Udit Narayan,Kasoor,Zindagi Ban Gaye Ho Tum,50,336973,False,0.363,0.797,5,-9.68,1,0.0577,0.596,7.53e-06,0.168,0.735,77.67,4,k-pop
+1397xY0RVupbWpMaFhyLf8,Anuradha Paudwal;Udit Narayan,Beta,Dhak Dhak Karne Laga,50,320386,False,0.813,0.571,7,-9.816,1,0.133,0.752,3.93e-06,0.0692,0.918,131.318,4,k-pop
+1rqb2FCXVn2HNL1afJEnTr,TOMORROW X TOGETHER,The Dream Chapter: MAGIC,9 and Three Quarters (Run Away),69,211866,False,0.639,0.756,1,-4.42,1,0.0606,0.0055,0.0,0.13,0.531,128.931,4,k-pop
+0Uju0OCAsVwlNSY0mQlGTb,Jagjit Singh,Kaifi Azmi Ki Kalam Se,Tum Itna Jo Muskura Rahe Ho,50,321311,False,0.375,0.331,4,-12.649,1,0.0322,0.35,1.46e-05,0.178,0.593,171.356,4,k-pop
+5nCwjUUsmBuNZKn9Xu10Os,IU,IU 5th Album 'LILAC',Celebrity,68,195546,False,0.73,0.784,9,-2.62,1,0.0691,0.191,0.0,0.0956,0.673,99.995,4,k-pop
+47tnvWm6X4SopmU3KCGl22,Alka Yagnik;S. P. Balasubrahmanyam,Saajan (Original Motion Picture Soundtrack),Dekha Hai Pehli Baar,50,373186,False,0.329,0.515,9,-11.252,0,0.0431,0.196,3.13e-06,0.0512,0.961,176.143,3,k-pop
+0Rl04KI0zAZAbS9WbUKj1F,BLACKPINK,BORN PINK,Yeah Yeah Yeah,63,178923,False,0.732,0.555,1,-7.902,0,0.034,0.00522,4.65e-06,0.0586,0.65,124.011,4,k-pop
+1exxGxUMlJWD1h9YcE9YZH,TOMORROW X TOGETHER,minisode 2: Thursday's Child,Opening Sequence,71,177976,False,0.609,0.64,3,-5.61,0,0.0539,0.167,0.0,0.0959,0.442,145.199,4,k-pop
+4EWCkL6rAYxOUvXLtcWfKI,Jagjit Singh,Prem Geet,Hothon Se Chhu Lo Tum - From Prem Geet,50,294066,False,0.572,0.383,0,-10.937,1,0.0259,0.79,7.04e-05,0.0857,0.592,99.047,4,k-pop
+7cgWWkpUaS94xoWI8lMGiI,BTS,MAP OF THE SOUL : PERSONA,Jamais Vu,67,227275,False,0.608,0.47,8,-6.73,1,0.0428,0.226,0.0,0.0963,0.241,81.0,4,k-pop
+3b6jCDqWdQPPeNh7xxnaxl,Yuvan Shankar Raja;Sadhana Sargam,April Madhathil (Original Motion Picture Soundtrack),Poi Solla,49,302986,False,0.72,0.696,5,-8.18,0,0.0341,0.00907,0.000145,0.186,0.635,125.004,4,k-pop
+5sDm6BsZKeC8YwLcbdRVus,Vidyasagar;Rajalakshmi,Kuruvi,Palaanadhu Palaanadhu,49,251333,False,0.769,0.954,7,-3.767,1,0.0742,0.0143,0.0107,0.0853,0.682,128.951,4,k-pop
+3VN74YiIjtY5ouKahBjmRX,BLACKPINK,Kill This Love,Kick It,63,191225,False,0.765,0.787,1,-3.647,0,0.0445,0.0156,0.0,0.0736,0.381,124.949,4,k-pop
+6TLV6M2ZYR450HacvZCXik,Yuvan Shankar Raja;Sanjith Hegde,Coffee With Kadhal (Original Motion Picture Soundtrack),Hi Hello,49,230191,False,0.719,0.812,1,-7.493,0,0.0421,0.296,7.81e-06,0.0892,0.684,119.996,4,k-pop
+20UvuxJ3vf2aDJjaNpgZZt,Alka Yagnik,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai - Sad,52,87733,False,0.229,0.327,7,-14.188,1,0.0432,0.707,0.0014,0.0654,0.122,146.384,4,k-pop
+74thpRSaW8Yc2yFZgVHXNd,Dhanush;Arivu,Kollywood Party Anthem,"Polladha Ulagam (From ""Maaran"")",0,235447,False,0.73,0.771,1,-8.041,1,0.221,0.023,0.000128,0.142,0.628,135.972,4,k-pop
+5lzXJ97yP3Tc64MFgc8Mrs,Jubin Nautiyal;Dhvani Bhanushali;Payal Dev,"Tum Hi Aana (Duet Version) [From ""Marjaavaan""]","Tum Hi Aana (Duet Version) [From ""Marjaavaan""]",50,248550,False,0.419,0.266,4,-12.62,0,0.0298,0.757,0.0,0.121,0.302,89.752,4,k-pop
+453W8V5Ynwn6Tr28KuOwsO,BTS,Love Yourself 結 'Answer',Anpanman,60,232966,False,0.813,0.876,1,-2.92,0,0.0922,0.024,0.0,0.287,0.757,98.989,4,k-pop
+1CWC107N5c6KkDRXvY2VtB,Alka Yagnik;Udit Narayan,Gadar Ek Prem Katha,Udja Kale Kawan - Marriage,50,301087,False,0.718,0.699,1,-6.155,1,0.0357,0.465,0.0,0.119,0.793,139.079,4,k-pop
+2lcu8WfAs8qw8crZf4ybRi,Alka Yagnik,My Best Collection - Alka Yagnik,"Too Shayar Hai Main Teri Shayari (From ""Saajan"")",51,389906,False,0.489,0.739,2,-9.743,1,0.036,0.602,4.25e-06,0.0427,0.692,117.955,4,k-pop
+3ejAkJLWQSEJDqDXxK3efB,EVERGLOW,reminiscence,DUN DUN,68,192280,False,0.692,0.881,11,-2.563,0,0.0461,0.0457,4.45e-06,0.146,0.432,103.053,4,k-pop
+37Ctz6MOHM2thzNIOMo7Z0,Dreamcatcher,[Dystopia : Lose Myself],BOCA,64,189546,False,0.683,0.947,8,-1.717,0,0.064,0.00632,7.34e-05,0.123,0.67,100.024,4,k-pop
+089PFeXotzDLNQz9NCk6pF,BTS,2 Cool 4 Skool,No More Dream,66,222066,False,0.438,0.864,2,-5.185,1,0.47,0.0118,1.66e-06,0.431,0.594,167.898,4,k-pop
+0zzRxtfO5FGxKdqq4OKmlw,BTS,Dark & Wild,Danger,66,245140,False,0.738,0.868,1,-3.363,1,0.0702,0.000907,0.000209,0.275,0.377,111.991,4,k-pop
+2LVw2bIK99go1NdD77dUCW,BTS,MAP OF THE SOUL : 7,Outro : Ego,66,196198,False,0.808,0.903,0,-3.106,1,0.0957,0.0121,0.000248,0.0993,0.473,116.988,4,k-pop
+1vKbVB1nOAVxUtqmNAstLw,Yuvan Shankar Raja;Sriram Parthasarathy,Thangameenkal (Original Motion Picture Soundtrack),Aanandha Yaazhai,49,217000,False,0.768,0.335,10,-8.132,1,0.0378,0.784,0.0,0.105,0.65,120.011,1,k-pop
+2R1R0N5CC2VMinXync9CgA,Yuvan Shankar Raja;Shankar Mahadevan,Arrambam (Original Motion Picture Soundtrack),Adadada Arrambame,49,227000,False,0.648,0.749,5,-7.734,0,0.191,0.0175,1.43e-05,0.0413,0.682,150.027,4,k-pop
+72L76gSR9yAkjSRlsj15Sz,Ilaiyaraaja;Ramya NSK,Neethaane En Ponvasantham (Original Motion Picture Soundtrack),Sattru Munbu,49,357560,False,0.534,0.399,10,-8.84,1,0.0267,0.81,0.000603,0.171,0.212,108.883,4,k-pop
+2EFMxVVT7hykww7WqBnLEs,Kamal Haasan;S. Janaki,Michael Madana Kama Rajan (Original Motion Picture Soundtrack),Sundhari Neeyum Sundharan Njanum,49,315010,False,0.831,0.368,4,-10.158,1,0.0353,0.956,0.215,0.158,0.696,112.882,4,k-pop
+6HUBMSP66XE9nWMoMYhqo1,Yuvan Shankar Raja,Kazhugoo (Original Motion Picture Soundtrack),Paathagathi Kannupattu,49,270813,False,0.836,0.541,3,-7.134,0,0.0374,0.666,0.0132,0.0867,0.452,142.358,3,k-pop
+1S7ca5mJlpHn7GCE88jejz,Izzamuzzic;Julien Marchal,Shootout (Slowed + Reverb),Shootout (Slowed + Reverb),67,140142,False,0.722,0.543,2,-9.789,0,0.0692,0.355,0.411,0.0963,0.315,137.143,4,k-pop
+3A4FRzgve9BjfKbvVXRIFO,RADWIMPS,Your Name.,Sparkle - movie ver.,66,537653,False,0.372,0.426,11,-8.421,1,0.0339,0.687,0.00784,0.109,0.287,123.993,4,k-pop
+2MbdDtCv5LUVjYy9RuGTgC,Jack Harlow;Tory Lanez;DaBaby;Lil Wayne,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",76,227478,True,0.904,0.723,11,-5.224,0,0.26,0.0631,0.0,0.185,0.835,145.013,4,k-pop
+5i5uxOKfjnMA2Yl3Sbke6D,Jagjit Singh,Hey Ram Hey Ram,Hey Ram Hey Ram Shree Ram Dhun,49,1613160,False,0.586,0.411,0,-11.425,1,0.0249,0.741,0.0,0.176,0.683,91.57,4,k-pop
+68Y2Q0KVgYzDUZx4xZcwbW,Jubin Nautiyal;Payal Dev,Meri Tarah,Meri Tarah,49,290037,False,0.536,0.857,11,-4.574,0,0.044,0.354,3.82e-06,0.079,0.568,89.652,4,k-pop
+5RV8PjHniE101mZtug4Kpu,Alka Yagnik;Hariharan,Khamoshi- The Musical,Bahon Ke Darmiyan - Khamoshi - The Musical / Soundtrack Version,49,409026,False,0.596,0.437,9,-11.855,1,0.0337,0.378,1.52e-05,0.139,0.446,108.721,4,k-pop
+3lhpuZdgqKdcX0WocldP8e,Siddhi Ture,Koliwada Jhingla,Koliwada Jhingla,47,227606,False,0.737,0.902,5,-3.716,1,0.0607,0.464,0.000145,0.032,0.946,129.681,3,k-pop
+4gkqGoKI311ayrtcvYaFTz,Jubin Nautiyal;Neeti Mohan,Romantic Hits By Jubin Nautiyal,"Bawara Mann (From ""Jolly Ll.B 2"")",49,216073,False,0.476,0.454,8,-8.334,1,0.0255,0.678,0.00175,0.313,0.344,84.991,4,k-pop
+0hxeouHqP3qzpTHerA7ha2,BTS,BE,Dis-ease,69,239722,False,0.731,0.845,8,-5.352,1,0.132,0.0132,0.0,0.0782,0.484,101.085,4,k-pop
+5RBH8ypFAj5HTZTPRpI1XL,BLACKPINK,SQUARE UP,See U Later,62,198866,False,0.74,0.926,9,-3.965,0,0.112,0.0376,0.0,0.582,0.571,106.987,4,k-pop
+4i30bfijYLfbwenXLE2R4Q,Sangeetha Rajeev,Nee Hinga Nodabyada,Nee Hinga Nodabyada,47,240689,False,0.654,0.697,1,-5.242,0,0.0974,0.441,3.28e-05,0.126,0.556,173.973,4,k-pop
+3KD82UwQKkD3wg1uwH9Y3L,Yuvan Shankar Raja;Prithivee,"Agalaathey (From ""Nerkonda Paarvai"")",Agalaathey,49,276262,False,0.695,0.666,5,-5.269,1,0.031,0.0476,0.000294,0.107,0.426,150.024,4,k-pop
+5UllzucVnT1jpCcpMdKktX,Vidyasagar;Unni Menon;Srivarthini,Alli Thantha Vaanam (Original Motion Picture Soundtrack),Kannalay Miya Miya,48,294013,False,0.736,0.621,9,-10.582,0,0.057,0.0375,0.0029,0.249,0.608,137.344,4,k-pop
+1OqDvYVDhJyFZny7XlfIyZ,BTS,FACE YOURSELF,Let Go,66,299706,False,0.558,0.863,4,-3.53,1,0.178,0.17,0.0,0.289,0.388,173.908,4,k-pop
+2EG7WoRvVEb1LcAq0n8qME,Alka Yagnik;Kumar Sanu,Raja Hindustani (Original Motion Picture Soundtrack),Pucho Zara Pucho,50,371666,False,0.59,0.783,0,-11.708,0,0.0433,0.713,0.116,0.4,0.74,120.515,4,k-pop
+5QGooKayQPVZMUDc8Qt3Dm,SEVENTEEN,Heng:garæ,Left & Right,70,201773,False,0.726,0.829,6,-3.876,0,0.111,0.146,0.0,0.0916,0.95,149.994,4,k-pop
+6AOrC7t2WS5ykYcnoHpiS2,TOMORROW X TOGETHER,minisode 2: Thursday's Child,Lonely Boy (The tattoo on my ring finger),71,168751,False,0.666,0.639,2,-5.245,0,0.131,0.24,0.0,0.0928,0.505,144.881,4,k-pop
+3omvXShuRPM3zbDpWYqf5g,TWICE,MORE & MORE,MORE & MORE,68,199653,False,0.739,0.841,5,-4.162,1,0.06,0.0312,0.0,0.173,0.562,106.99,4,k-pop
+6a0gRYXKK0YU69cXaB2RrK,BTS,Love Yourself 結 'Answer',FAKE LOVE,61,242333,False,0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,4,k-pop
+5YtLIhAuPcNLkfHZto0MVV,Yuvan Shankar Raja;Dhanush;Dhee,Maari 2 (Original Motion Picture Soundtrack),Rowdy Baby,48,281440,False,0.67,0.702,10,-8.192,0,0.198,0.285,0.00295,0.16,0.586,176.977,3,k-pop
+6epkXOG46GPPYhsp1OQscE,Alka Yagnik;Udit Narayan;Kumar Sanu,Dil Ka Rishta (Original Motion Picture Soundtrack),Dil Ka Rishta,50,304000,False,0.655,0.743,5,-5.171,1,0.0349,0.542,5.66e-06,0.0781,0.735,113.039,4,k-pop
+0H1Uhrit1CxZzGBgsAz4at,Yuvan Shankar Raja;Dharan Kumar,Rasaathi Nenja (Madras Gig Season 2),Rasaathi Nenja - Madras Gig Season 2,48,287045,False,0.618,0.544,6,-6.336,1,0.0475,0.557,0.0,0.0746,0.322,91.999,4,k-pop
+4OtsWdxJzYyd8OfmRwqRTA,Charan Raj;MC Vickey;Aditi Sagar;Chandan Shetty;Sharmila;Yuva Rajkumar,"Trademark (From ""James - Kannada"")","Trademark (From ""James - Kannada"")",47,239530,False,0.806,0.685,0,-9.635,1,0.244,0.159,4.22e-05,0.33,0.873,96.943,4,k-pop
+1t2qYCAjUAoGfeFeoBlK51,aespa,Black Mamba,Black Mamba,70,174933,False,0.52,0.915,2,-2.862,1,0.103,0.0618,0.000946,0.0856,0.5,90.069,4,k-pop
+69WpV0U7OMNFGyq8I63dcC,ENHYPEN,BORDER : DAY ONE,Given-Taken,71,183090,False,0.631,0.649,8,-4.939,0,0.0377,0.17,0.0,0.321,0.459,108.07,4,k-pop
+18i1q3iqyO87q0PwOWgw1C,Alka Yagnik;Kumar Sanu,Bollywood Melody Queen (Alka Yagnik),"Dil Kehta Hai (From ""Akele Hum Akele Tum"")",49,415666,False,0.388,0.405,4,-10.56,0,0.0309,0.565,2.58e-05,0.0709,0.475,80.017,4,k-pop
+4b3rGL8LDSkbARUUA20136,Stray Kids,ODDINARY,VENOM,71,194840,False,0.812,0.807,9,-3.354,1,0.339,0.11,0.0,0.211,0.4,136.979,4,k-pop
+2On611HXKQAbaYkuc4NQAm,j-hope,Jack In The Box,Pandora's Box,68,156291,False,0.785,0.807,0,-3.877,1,0.178,0.198,0.0,0.326,0.228,96.981,4,k-pop
+1zZTvax6SvPuoudxmfZfqV,Yuvan Shankar Raja;Naresh Iyer,Samar (Original Motion Picture Soundtrack),Azhagho Azhaghu,48,290693,False,0.83,0.603,0,-4.819,0,0.0374,0.395,0.0,0.0415,0.789,108.039,4,k-pop
+7om4LRoSct9hiMPo0fPn7m,BTS,MAP OF THE SOUL : 7,Interlude : Shadow,67,259821,False,0.384,0.798,9,-6.439,0,0.434,0.115,0.0,0.181,0.146,149.854,4,k-pop
+0e8TvtwBMmh89JHJrLdPB8,Ilaiyaraaja;M. M. Manasi,"Maari’s Aanandhi (From ""Maari 2"" Original Motion Picture Soundtrack)",Maaris Aanandhi,48,259591,False,0.637,0.355,0,-9.92,0,0.0245,0.586,0.0131,0.15,0.331,97.998,3,k-pop
+0f6bizmLkduIHB3PAemEBn,Anuradha Paudwal;Udit Narayan,Tum Bin,Tumhare Siva,50,293760,False,0.466,0.62,5,-12.439,0,0.0503,0.0505,6.52e-05,0.0552,0.785,81.146,4,k-pop
+5BOGGfhRkPzaHIoXKzD4Bb,Ilaiyaraaja;K. J. Yesudas,Sadma (Original Motion Picture Soundtrack),Surmayee Ankhiyon Mein - Happy Version,48,276000,False,0.616,0.375,6,-7.464,0,0.0254,0.52,0.0,0.0636,0.47,96.351,4,k-pop
+1xDmRbSnfZMcj6KM8HBYiN,Vidyasagar;Shankar Mahadevan;Sujatha,Alli Thantha Vaanam (Original Motion Picture Soundtrack),Vaadi Vaadi Naattu Katta,49,265840,False,0.578,0.579,0,-9.922,1,0.151,0.0771,0.000524,0.0815,0.64,105.279,3,k-pop
+2aNCrdzCbgFIkxs0qul8dT,Alka Yagnik;Sanjeev Chaturvedi,"Achyutam Keshavam by Alka Yagnik (From ""Achyutam Keshavam by Alka Yagnik - Zee Music Devotional"")","Achyutam Keshavam by Alka Yagnik (From ""Achyutam Keshavam by Alka Yagnik - Zee Music Devotional"")",49,270967,False,0.623,0.792,4,-2.937,1,0.0317,0.436,0.0,0.318,0.509,92.948,4,k-pop
+2FasYCxo2yAPDnIkoRp7SS,Anuradha Paudwal;Kumar Sanu,Dil Hai Ke Manta Nahin,Dil Hai Ki Manta Nahin,50,372293,False,0.499,0.534,8,-9.081,1,0.0316,0.877,0.00282,0.195,0.717,117.524,4,k-pop
+2Bespjwj6IhSFsJrMuvBDw,Vidyasagar;Madhu Balakrishnan,Abhiyum Naanum (Original Motion Picture Soundtrack),Moongil Vittu,48,75053,False,0.577,0.647,7,-5.773,1,0.0323,0.627,0.0,0.37,0.528,112.979,4,k-pop
+2uw2ftfyS4yJLWiTtbxasE,Stray Kids,CIRCUS,CIRCUS,73,194440,False,0.767,0.809,5,-3.734,0,0.0958,0.0337,0.0,0.0353,0.69,97.958,4,k-pop
+6g9Vd4z3JnVUiAIRwFlVCG,BTS,"BTS, THE BEST",Film out,62,216586,False,0.503,0.71,10,-6.382,1,0.085,0.297,0.0,0.329,0.293,81.932,4,k-pop
+52d5NT69mkmr6WzvQJ9vHr,BTS,Wings,21st Century Girl,65,192596,False,0.716,0.906,2,-3.539,1,0.0719,0.00424,0.0,0.0547,0.763,101.029,4,k-pop
+29SjtKzBoJDgyIBusHylIS,BTS,Dark & Wild,War of Hormone,65,265602,False,0.612,0.993,9,-1.895,1,0.24,0.116,0.0,0.307,0.488,98.004,4,k-pop
+2StGyGUbGAeXiPXbkBvU4s,Yuvan Shankar Raja;Karthik;Ramya NSK,Arrambam (Original Motion Picture Soundtrack),En Fuse Pochu,48,282853,False,0.679,0.554,3,-7.078,0,0.0303,0.505,0.0,0.145,0.501,104.964,4,k-pop
+07qrA1FxZpXy383wX3IDEb,BTS;Halsey,Proof,Boy With Luv (Feat. Halsey),69,229773,False,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4,k-pop
+2PNF3C5EhT9Asa7XdEi18F,Yuvan Shankar Raja;Dhanush;M. M. Manasi,"Rowdy Baby (From ""Maari 2 [Telugu]"")",Rowdy Baby,48,281503,False,0.646,0.707,1,-7.498,1,0.199,0.28,3.19e-05,0.136,0.602,177.014,3,k-pop
+7mQjVfocpzkKd3PN1TtwKR,Vijay Antony;Jayadev;Rajalakshmi,Dishyum (Original Background Score),Nenjangootil Neeye,49,275626,False,0.672,0.711,5,-8.798,0,0.206,0.198,0.0,0.102,0.791,180.037,4,k-pop
+3EMB0OcdHil6ymZPAV6bnC,EST Gee;Moneybagg Yo,GANG GANG - HIP HOP & RAP,Balloons,5,156981,True,0.653,0.913,9,-3.638,1,0.23,0.142,0.0,0.103,0.687,158.955,4,k-pop
+3SwCB7tN5NxOrXURK1cx2A,Yuvan Shankar Raja;M.M. Manasi;Rubba Bend.Psycho Unit,Arrambam (Original Motion Picture Soundtrack),Stylish Thamizhachi,49,264386,False,0.676,0.86,0,-4.271,0,0.131,0.0804,0.0,0.059,0.665,80.01,4,k-pop
+6za4Yd70PSnqDKFFgILoyR,Yuvan Shankar Raja,Chennai-600028 (Original Motion Picture Soundtrack),Natpukulle,48,155480,False,0.787,0.388,0,-9.631,1,0.0327,0.0467,2.33e-05,0.113,0.762,114.955,4,k-pop
+4oJ9pDKSasSPj3GNN8ABo9,Ilaiyaraaja;S. Janaki,Kadalora Kavithaigal (Original Motion Picture Soundtrack),Adi Aathadi,48,276609,False,0.498,0.494,1,-10.941,1,0.042,0.749,0.0174,0.0822,0.598,84.456,4,k-pop
+5iXFBbApLVdTta1BrM3QTv,Ilaiyaraaja;Sid Sriram,Psycho (Tamil) [Original Motion Picture Soundtrack],Unna Nenachu,48,275503,False,0.442,0.235,4,-13.808,0,0.0421,0.89,3.86e-06,0.106,0.249,171.137,4,k-pop
+7hVpRzuzlOGZVRTNpfHAze,Anuradha Paudwal;Udit Narayan,Major Saab,Pyar Kiya To Nibhana,50,309946,False,0.715,0.583,7,-12.236,1,0.164,0.24,0.0,0.136,0.525,94.026,4,k-pop
+0Qs67RelQ1FHAPkVBUoTDu,Anupam Roy,Pari,Meri Khamoshi Hai,49,318511,False,0.535,0.285,4,-14.143,1,0.0307,0.836,0.00572,0.118,0.206,92.033,4,k-pop
+0oeVHAgY8Q7Mdce5Quj2G4,MAMAMOO,MIC ON,ILLELLA,72,166053,False,0.523,0.83,11,-2.089,1,0.167,0.00359,0.0,0.0806,0.812,173.931,4,k-pop
+3Bgl1xMI00capuTqUHBNUW,TOMORROW X TOGETHER;iann dior,Valley of Lies,Valley of Lies,69,184093,False,0.753,0.743,2,-5.024,1,0.0338,0.286,0.0,0.144,0.96,140.004,4,k-pop
+7GbUWl6qLW1gdngbEV2WDJ,EXO,EX'ACT,Monster,67,221341,False,0.618,0.76,6,-4.312,1,0.0596,0.0066,0.0,0.127,0.541,150.0,4,k-pop
+7rXcCpIAoOUCydkVDMcoPV,TAEYEON,INVU - The 3rd Album,INVU,72,204973,False,0.599,0.816,11,-3.412,0,0.0556,0.0911,2.17e-06,0.0961,0.399,106.962,4,k-pop
+2DmRXiyn03tOqKgEJXlaiJ,(G)I-DLE,I trust,Oh my god,70,195866,False,0.794,0.762,4,-3.525,0,0.0392,0.0358,1.41e-06,0.191,0.482,109.97,4,k-pop
+3rsWHSHxGSORjwEDqH9VH9,All Ok,Yaakinge,Yaakinge,46,201774,False,0.676,0.607,2,-6.179,1,0.108,0.693,0.0,0.233,0.349,78.013,4,k-pop
+4LsMjCB4qt4RnWcJBiHrA6,Yoon Mirae,Descendants Of The Sun Pt.1 (Original Television Soundtrack),ALWAYS,61,205192,False,0.41,0.604,10,-3.453,1,0.0331,0.777,0.0,0.312,0.28,128.845,4,k-pop
+5uFqjHOo3Sh0bVPCKf3DdH,aespa,Illusion,Illusion,74,195053,False,0.75,0.718,2,-2.817,0,0.0468,0.0814,1.75e-05,0.322,0.592,90.027,4,k-pop
+44CTOiRNTwnHKcbO0U6OIu,Vidyasagar;Vineeth Sreenivasan,Kilichundan Maambazham (Original Motion Picture Soundtrack),Kasavinte Thattamittu,47,286224,False,0.733,0.568,4,-9.731,1,0.0415,0.214,9.88e-05,0.128,0.901,88.954,4,k-pop
+3Hz3tTQwOdM6XkA0ALB2G9,TWICE,Feel Special,Feel Special,72,206866,False,0.708,0.959,1,-1.338,1,0.0604,0.0296,0.00188,0.107,0.644,128.981,4,k-pop
+0UXswv8EK5264CWxS0tLNF,Anupam Roy,Chotushkone,Boba Tunnel,49,247510,False,0.598,0.537,9,-8.281,1,0.0326,0.285,0.0,0.13,0.397,131.955,4,k-pop
+5rNZsITjXf23iFkRA924FV,BTS,Love Yourself 轉 'Tear',Intro: Singularity,68,196998,False,0.775,0.272,1,-9.126,0,0.091,0.56,0.00278,0.112,0.198,103.991,3,k-pop
+1mh5s6XJ3RLJBRPErACsHW,DAVICHI,Descendants Of The Sun Pt.3 (Original Television Soundtrack),This Love,64,225171,False,0.406,0.446,9,-4.306,1,0.0335,0.739,0.0,0.194,0.214,138.66,4,k-pop
+1vYreQ2DeOhKFtHiGBrRuZ,Alka Yagnik;Kumar Sanu,Coolie No.1 (Original Motion Picture Soundtrack),Main Toh Raste Se Ja Raha Tha,49,318706,False,0.424,0.769,2,-9.792,1,0.107,0.669,0.00217,0.336,0.964,189.085,3,k-pop
+6swf0xZe702UEfj8KZoxo1,Jubin Nautiyal;Raaj Aashoo,Kabira,Kabira,48,556348,False,0.541,0.627,10,-7.027,0,0.066,0.767,1.96e-05,0.103,0.451,97.676,4,k-pop
+60nwvOMLA1uzLHz3CLp4Na,BTS,Love Yourself 結 'Answer',Airplane pt.2,60,218614,False,0.77,0.817,0,-4.092,0,0.0339,0.0265,0.000103,0.084,0.866,139.979,4,k-pop
+5FiXhM80sP4yg6tEnHkZZn,(G)I-DLE,I burn,HWAA,66,197320,False,0.384,0.868,6,-3.226,0,0.0711,0.0458,5.82e-06,0.0797,0.233,95.027,4,k-pop
+4eqHEzFsCCiGALC1MHbqnU,BTS,"O!RUL8,2?",Coffee,67,260433,False,0.656,0.798,0,-6.608,1,0.103,0.00862,0.0,0.321,0.573,92.031,4,k-pop
+0BJMgVrnWIvgYsjq8KaPeh,TWICE,Formula of Love: O+T=<3,SCIENTIST,71,194600,False,0.786,0.858,11,-3.74,1,0.0675,0.0487,0.0,0.126,0.649,112.999,4,k-pop
+0x4cMbCLC6L7aJQs3EiPaZ,BTS,Dark & Wild,Look Here,63,218887,False,0.863,0.854,4,-4.564,0,0.0893,0.0418,0.00152,0.0551,0.784,119.996,4,k-pop
+5wwQmWZtmEoV8XSm05zQvA,Anupam Roy,Piku,Teri Meri Baatein,49,328384,False,0.653,0.554,5,-8.156,1,0.0243,0.157,1.23e-06,0.172,0.455,99.974,4,k-pop
+00I41xsW6SunZDJ5fB8KAd,j-hope,Jack In The Box,Safety Zone,68,165340,False,0.676,0.742,8,-5.017,1,0.162,0.561,0.0,0.155,0.694,77.071,4,k-pop
+5MGdVJRHRfZ95yWQ2hCwRC,Yuvan Shankar Raja;Tanvi Shah;SUVI,Billa 2 (Original Motion Picture Soundtrack),Yedho Mayakkam,47,262533,False,0.8,0.751,1,-4.972,1,0.0347,0.00194,0.437,0.0676,0.354,121.983,4,k-pop
+3zIG0WuI5RoJsFYnErkFDU,BTS,FACE YOURSELF,Don't Leave Me,64,227413,False,0.62,0.778,8,-4.622,0,0.0724,0.116,0.0,0.312,0.386,147.012,4,k-pop
+5awNIWVrh2ISfvPd5IUZNh,LOONA,[&],PTT (Paint The Town),69,201120,False,0.781,0.814,8,-2.437,1,0.1,0.0735,1.92e-05,0.0565,0.546,124.028,4,k-pop
+5yJMDVJnBTunI5UaIpXHQ6,Yuvan Shankar Raja;Ilaiyaraaja,Viruman (Bonus Track Version) [Original Motion Picture Soundtrack],Aagaasam - Ilaiyaraaja Version,48,106950,False,0.557,0.416,0,-8.122,0,0.0706,0.448,0.000152,0.0844,0.371,66.303,3,k-pop
+4WiJQ2l2sApSLv6bF0Zgjn,Anuradha Paudwal,"Anuradha Paudwal Songs, Vol.1",Main Duniya Bhula Doonga,49,318407,False,0.356,0.733,9,-7.853,0,0.0389,0.742,0.0022,0.324,0.684,156.614,3,k-pop
+4ZNp5J0vpeDZU7rXEHKjce,Ilaiyaraaja;Krishnachandran;S. Janaki,Kozhi Koovuthu (Original Motion Picture Soundtrack),Edho Mogam,47,324500,False,0.533,0.464,5,-9.128,1,0.0385,0.672,0.00071,0.456,0.482,79.171,4,k-pop
+4BZXVFYCb76Q0Klojq4piV,MAMAMOO,TRAVEL,AYA,64,211280,False,0.634,0.858,4,-2.226,0,0.0809,0.101,8.56e-06,0.258,0.637,91.688,4,k-pop
+0F3Dpp18yIxIm7XRmn0LBj,BTS,Skool Luv Affair,Spine Breaker,65,238529,False,0.679,0.927,0,-1.058,1,0.15,0.164,0.0,0.437,0.861,93.989,4,k-pop
+4DYIDSMIB5y2UmZFv9fxeX,TWICE,Summer Nights,Dance The Night Away,69,180800,False,0.709,0.861,0,-2.905,1,0.0941,0.106,4.73e-05,0.113,0.779,118.089,4,k-pop
+5yuFQtPTpkUkZC5im98kvl,Anuradha Paudwal,"Deepawali Special (Aarti Sangrah, Mantra & Dhun)",Jai Ganesh Jai Ganesh Deva - Aarti,49,239804,False,0.611,0.574,4,-7.118,1,0.0325,0.489,0.0,0.24,0.52,142.123,3,k-pop
+1wiqEFd8phSCSlteDLSyp2,BTS,Proof,Blood Sweat & Tears,63,217051,False,0.574,0.882,0,-4.08,0,0.121,0.0245,0.0,0.354,0.612,92.994,4,k-pop
+0tYZo2UhV1lrUez5CA0Iyw,ATEEZ,THE WORLD EP.1 : MOVEMENT,Guerrilla,74,207921,False,0.555,0.89,9,-5.349,1,0.132,0.00399,0.0,0.0506,0.581,181.963,4,k-pop
+4qXVjZZ48aShiyCqxhkuJP,AILEE,Doom at Your Service (Original Television Soundtrack) Pt. 1,Breaking Down,58,223706,False,0.294,0.342,1,-6.341,1,0.0395,0.469,6.79e-06,0.0958,0.229,135.084,4,k-pop
+5LvqzuJCNpi2pNkJAX8mBT,BTS,MAP OF THE SOUL : 7,Dionysus,63,249215,False,0.502,0.91,7,-2.769,1,0.107,0.04,0.0,0.319,0.588,176.084,4,k-pop
+5HlKYvZ7iVQN3tcNSny6TN,Yuvan Shankar Raja;Ranjith Govind;Premgi Amaren;Rita;Anitha Karthikeyan,Mankatha (Original Motion Picture Soundtrack),Vilayaadu Mankatha,48,363306,False,0.813,0.635,1,-5.949,1,0.0693,0.119,0.00204,0.606,0.222,97.984,4,k-pop
+1fMXWEkJpIH483OrKn1zFV,BLACKPINK,"BLACKPINK ARENA TOUR 2018 ""SPECIAL FINAL IN KYOCERA DOME OSAKA""","SO HOT - THEBLACKLABEL REMIX BLACKPINK ARENA TOUR 2018 ""SPECIAL FINAL IN KYOCERA DOME OSAKA""",64,144166,False,0.783,0.809,1,-10.0,0,0.221,0.0588,1e-05,0.515,0.814,140.025,4,k-pop
+3sOEVB8DirQtZc0qhw8lJc,TWICE,BETWEEN 1&2,Queen of Hearts,72,186946,False,0.666,0.847,10,-2.526,0,0.106,0.102,0.0,0.0702,0.815,149.94,4,k-pop
+5ckLwrelwUB4JhruopRudM,Dhanush;Ranjith Govind,Pudhukottaiyilirundhu Saravanan (Original Motion Picture Soundtrack),Naatu Sarakku,48,276546,False,0.772,0.739,8,-10.85,1,0.235,0.236,0.0,0.431,0.918,75.068,4,k-pop
+5pfCT1UcILp1HtgzS7EPpE,Yuvan Shankar Raja;Vijay Yesudas,Billa (Original Motion Picture Soundtrack),Seval Kodi,47,292453,False,0.748,0.98,8,-4.821,1,0.0611,0.374,0.0546,0.087,0.887,131.037,4,k-pop
+3uQTcaoA52CUz0lDodLIXf,Yuvan Shankar Raja;Chinmayi,Yaakkai (Original Motion Picture Soundtrack),Naan Ini Kaatril,47,225900,False,0.672,0.498,7,-9.271,0,0.0376,0.822,8.13e-05,0.121,0.223,119.895,3,k-pop
+1c4KOXx8kgp7uSsMYG6q9v,T. M. Soundararajan,Karpanai Endralum,Karpanai Endralum,47,177253,False,0.581,0.582,4,-6.574,0,0.0348,0.728,6.73e-05,0.234,0.818,98.391,4,k-pop
+65LacQaIIbzQG19gUhnrZV,Vijay Antony;VV Prassanna;Supriya Joshi,Velayudham (Original Motion Picture Soundtrack),Molachu Moonu,48,292546,False,0.71,0.519,1,-9.507,1,0.0348,0.709,0.000397,0.074,0.81,149.982,1,k-pop
+7DVuGLrkpXNik5aUIiJ5Yu,Ilaiyaraaja;K. S. Chithra,Karakattakkaran (Original Motion Picture Soundtrack),Indha Maan,48,275575,False,0.674,0.311,10,-11.729,0,0.0271,0.886,2.95e-05,0.107,0.595,93.744,3,k-pop
+074NgeLzrXD9hQ5O3iNIcY,ONE OK ROCK,Rock Brandneu,Save Yourself,1,197995,False,0.503,0.849,5,-2.709,1,0.0615,0.00428,0.0,0.0667,0.762,165.096,4,k-pop
+3ykmGVUDYCpdG04Eaw40pX,Ilaiyaraaja;K. S. Chithra,Muthal Mariyathai (Original Motion Picture Soundtrack),Antha Nilava Thaan,47,271751,False,0.62,0.507,1,-7.234,1,0.145,0.622,0.443,0.0615,0.661,76.713,4,k-pop
+3re0HrBkLNV2lfHoTtSOgy,Ilaiyaraaja;Sunidhi Chauhan,Neethaane En Ponvasantham (Original Motion Picture Soundtrack),Mudhal Murai,48,235733,False,0.62,0.725,11,-5.606,0,0.0466,0.38,4.62e-06,0.0922,0.706,91.877,4,k-pop
+70sKIAQgaVN2zWEEyOpyMZ,BTS;Juice WRLD,All Night (BTS World Original Soundtrack) [Pt. 3],All Night (BTS World Original Soundtrack) [Pt. 3],67,216873,False,0.725,0.706,5,-4.766,1,0.121,0.193,0.0,0.109,0.667,120.042,4,k-pop
+2PcJoVkfjcbvoqBxV1Nj7y,Jay Park,EVERYTHING YOU WANTED,All I Wanna Do,67,209392,True,0.613,0.668,8,-6.867,1,0.267,0.245,0.0,0.0735,0.509,96.176,4,k-pop
+37YoRLUu1qId0ewavgvnkG,LE SSERAFIM,FEARLESS,Blue Flame,75,201894,False,0.781,0.725,4,-3.571,0,0.0452,0.0281,0.0,0.0761,0.765,112.045,4,k-pop
+3thIARBf9vzQXQYuaOf8Wd,Jubin Nautiyal;Rocky - Shiv,Chitthi,Chitthi,47,229912,False,0.729,0.52,5,-6.586,0,0.0258,0.562,0.000893,0.101,0.458,114.973,4,k-pop
+2ujA6F1cpk3m8lsPE5aKua,EXO,THE WAR - The 4th Album,The Eve,66,176026,False,0.636,0.702,0,-5.352,0,0.0334,0.0223,0.0,0.293,0.516,135.104,4,k-pop
+6c1QaQHdDhtFMfUkhueuXK,Red Velvet - IRENE & SEULGI,Monster - The 1st Mini Album,Monster,67,178413,False,0.631,0.748,4,-2.569,0,0.0488,0.212,0.0,0.537,0.351,115.665,4,k-pop
+3LTwMQ9kkn5VVhP3jipBlR,BTS,Wings,Stigma,67,216063,False,0.566,0.475,0,-5.556,0,0.089,0.148,0.0,0.139,0.335,136.442,4,k-pop
+1R6qeTvAvaxB7hydIYVIY8,MINO;ZICO,Show Me the Money 4 Episode 6,Okay Dokey,63,248202,False,0.828,0.61,1,-4.23,1,0.0528,0.00544,0.0,0.158,0.311,126.011,4,k-pop
+12vQ7ibaaSbRfBnCWHyfx6,Jubin Nautiyal,Sonali Cable (Original Motion Picture Soundtrack),Ek Mulaqat - Jubin,48,313835,False,0.577,0.648,8,-7.592,0,0.0327,0.371,0.0,0.286,0.349,89.98,4,k-pop
+2xrpJezRvcgajTFSE3vDcX,Anuradha Paudwal,Chhath Pooja Special - Non Stop Chhath Pooja Geet 2020,"Uga Ho Surujdev Bhel Bhinsarva (From ""Chhath Pooja Ke Geet"")",49,357696,False,0.557,0.331,5,-10.184,0,0.0269,0.786,0.0026,0.0743,0.506,108.208,1,k-pop
+3BPoSr2pO34Aan6alFfVto,MOMOLAND,GREAT!,BBoom BBoom,66,208863,False,0.785,0.744,3,-4.249,0,0.0369,0.0149,0.00666,0.0661,0.833,126.018,4,k-pop
+1x7T34ntvHETqgVeYVK2Jm,Alka Yagnik;Sonu Nigam,Lucky: No Time For Love,Chori Chori,48,324880,False,0.722,0.709,11,-11.435,1,0.143,0.558,0.0,0.203,0.945,97.991,4,k-pop
+1Q5SpQeocfNXefx76svqkl,NCT U,NCT RESONANCE Pt. 1 - The 2nd Album,Make A Wish (Birthday Song),66,229400,False,0.732,0.795,8,-2.263,1,0.1,0.0632,0.0,0.0569,0.693,100.954,4,k-pop
+72ysGFB4mZTgQsPqN9PzPS,CL,Hello Bitches,Hello Bitches,66,178177,False,0.714,0.884,11,-2.932,1,0.113,0.00985,0.0,0.439,0.584,145.075,4,k-pop
+5aoMNay3OMZEs3uIbNUaut,Shachina Heggar,Dibbaradindi,Dibbaradindi,46,243442,False,0.828,0.761,6,-6.197,0,0.0376,0.0734,2.98e-05,0.0623,0.897,122.008,4,k-pop
+6WXzd4sLgTRu4YLRikRHbU,Jagjit Singh;Chitra Singh,Saath Saath,Yeh Tera Ghar Yeh Mera Ghar,48,314133,False,0.668,0.626,7,-7.304,1,0.0307,0.51,0.0,0.337,0.8,119.407,3,k-pop
+2hPJcTRIOEqCWTMpYQZNnr,BLACKPINK,BORN PINK,Typa Girl,61,179172,False,0.917,0.596,7,-7.378,1,0.0914,0.0555,0.0,0.667,0.511,131.96,4,k-pop
+3yRoV3XxY866zW6PZuwzXy,Alka Yagnik,Tezaab,Ek Do Teen Char,48,457280,False,0.423,0.903,1,-7.596,1,0.149,0.612,1.43e-05,0.923,0.774,130.675,4,k-pop
+1WKLxJpDqkQ9x1qEDNutoX,NCT 127,2 Baddies - The 4th Album,2 Baddies,69,230293,False,0.596,0.921,2,-2.372,1,0.258,0.153,0.0,0.0922,0.529,171.96,4,k-pop
+6F9EKejcV13lR8tZXnawmy,Yuvan Shankar Raja;Deepak Blue;S.P. Abhishek,"Oke Oka Oorilona (From ""Nene Vasthunna"")",Oke Oka Oorilona,46,202718,False,0.651,0.729,0,-8.615,1,0.057,0.308,2.95e-06,0.0705,0.619,150.041,4,k-pop
+4kZoZfj7IBg8eo1JZ2vsGO,BTS,Love Yourself 結 'Answer',Go Go,60,235779,False,0.856,0.617,10,-5.308,0,0.084,0.171,0.0,0.0857,0.759,136.081,4,k-pop
+3U4aD5lR1h9WrO3eUPaf6H,Raghu Dixit,Just Maath Maathali,Baanina Haniyu,47,164832,False,0.484,0.384,5,-7.282,1,0.0314,0.517,0.0,0.149,0.185,134.242,3,k-pop
+5GfhNTwnaC2dUWMKhnLmWX,Anuradha Paudwal,Navratri Special Bhajans Vol-4,Man Leke Aaya Mata Rani Ke Bhawan Mein,47,551360,False,0.477,0.602,8,-10.231,1,0.038,0.981,0.013,0.795,0.689,82.293,3,k-pop
+5pvXcMiqTDzUimGj2Vi8uG,Alka Yagnik,Sirf Tum,Dilbar Dilbar,49,343373,False,0.672,0.856,4,-7.423,0,0.108,0.293,0.000342,0.0494,0.723,101.988,4,k-pop
+0LdJcUxGJywXLcxdXZ4wsb,Alka Yagnik;Kumar Sanu,Gupt (Original Motion Picture Soundtrack),Mere Khwabon Mein Tu,48,335000,False,0.712,0.741,7,-7.971,0,0.116,0.179,2.78e-06,0.078,0.54,114.975,4,k-pop
+3sE4qcXfzn0RbMYlZ4nRWF,Alka Yagnik;Kumar Sanu;Udit Narayan,Dil Hai Tumhaara (Original Motion Picture Soundtrack),Mohabbat Dil Ka Sakoon,49,337840,False,0.666,0.918,11,-6.017,0,0.0905,0.153,0.000256,0.0844,0.814,126.016,4,k-pop
+0Puudh380z6cOCgMaTNm7h,j-hope,Jack In The Box,Future,68,139308,False,0.717,0.822,6,-5.249,1,0.0879,0.0652,0.0,0.36,0.764,102.042,4,k-pop
+3OC2C8IpFhbUJTeMe55QYn,ENHYPEN,MANIFESTO : DAY 1,ParadoXXX Invasion,72,187490,False,0.727,0.863,1,-3.181,1,0.0879,0.0298,0.0,0.334,0.72,94.952,4,k-pop
+29fsVDL9T36N0tyD7ByLdI,BLACKPINK,Kill This Love,Hope Not,63,191030,False,0.556,0.423,4,-4.998,0,0.0274,0.441,0.0,0.0867,0.179,110.086,4,k-pop
+4FkMh52ydCzaPYJ8oRkQEf,Yuvan Shankar Raja,Tamil M.A.,Unnakaagathane Inthauriyrullathu,46,290426,False,0.764,0.575,7,-9.989,1,0.0298,0.341,0.000279,0.0824,0.675,110.002,4,k-pop
+5icjWEYcqUArDKzxDZmHDg,Anuradha Paudwal,Jai Maa Vaishno Devi,Main Hoon Daasi Teri Datiye,47,338506,False,0.54,0.642,7,-9.579,0,0.0318,0.781,0.0,0.333,0.899,140.042,3,k-pop
+5PGMCQZR2AnFXSYvUxVb30,Yuvan Shankar Raja;Rahul Nambiar;Saindhavi,My Playlist: Yuvanshankar Raja,"Adada Mazhaida (From ""Paiya"")",48,267120,False,0.891,0.691,6,-9.417,0,0.0588,0.29,0.00555,0.0596,0.666,120.004,4,k-pop
+1GunnGtZCSjLUAPG6yrDUC,BTS,Proof,I NEED U,63,210986,False,0.482,0.858,5,-4.169,0,0.069,0.0218,0.0,0.244,0.737,158.075,4,k-pop
+1fNwwml8UcKvhfM6YEVIRh,j-hope,Jack In The Box,What if…,67,136063,False,0.694,0.75,0,-4.16,1,0.0338,0.00421,0.000553,0.0683,0.184,96.654,4,k-pop
+7kyUapJyppdjzoAWB6XS14,BTS,You Never Walk Alone,Outro: Wings,66,225446,False,0.651,0.903,11,-3.117,0,0.129,0.00503,0.0,0.0875,0.658,125.032,4,k-pop
+675Akyln4LBrmze7Z0ydIO,Yuvan Shankar Raja;Ranjith Govind,Billa 2 (Original Motion Picture Soundtrack),Unakkulle Mirugam,47,258440,False,0.617,0.914,7,-6.173,0,0.0533,0.000301,2.52e-05,0.0635,0.228,149.945,4,k-pop
+3gxNkvcP8scSzL6mGznTn3,BTS,Wings,Awake,66,226160,False,0.35,0.498,3,-6.589,1,0.0332,0.023,1.99e-06,0.269,0.34,142.803,4,k-pop
+0ahlrrx3m2c7ITOgeXjTIW,Alka Yagnik,My Best Collection - Alka Yagnik,"Jab Haal-e-Dil Tumse Kehne Ko (From ""Salaami"")",48,291240,False,0.569,0.609,2,-10.547,0,0.0307,0.611,0.000166,0.351,0.816,95.184,4,k-pop
+4QMMw7v3KYc7lXFWqPXd8L,Yuvan Shankar Raja;Asal Kolaar,"Baby Gurl (From ""Coffee With Kadhal"")","Baby Gurl - From ""Coffee With Kadhal""",47,220000,False,0.758,0.652,10,-6.095,0,0.18,0.684,6.36e-06,0.145,0.594,149.889,4,k-pop
+74KVnRz62agLGzRCTVFUdQ,Yuvan Shankar Raja;Andrea Jeremiah,Billa 2 (Original Motion Picture Soundtrack),Madurai Ponnu,47,235853,False,0.831,0.746,5,-6.113,0,0.0407,0.0639,0.00373,0.0673,0.756,120.02,4,k-pop
+3YspylwDrs1LuzPONbKmAL,BTS,Proof,FAKE LOVE,63,242333,False,0.522,0.714,2,-4.727,0,0.0461,0.00257,0.0,0.304,0.357,154.904,4,k-pop
+4gMPlHHAjOQnUrhsuqHivn,BOL4,Red Diary Page.1,To My Youth,68,222680,False,0.424,0.564,9,-4.619,1,0.0563,0.685,0.0,0.292,0.441,173.334,4,k-pop
+1Dww8WMEA5C9jp01ILGzzW,Alka Yagnik;S. P. Balasubrahmanyam,My Best Collection - Alka Yagnik,"Dekha Hai Pehli Baar (From ""Saajan"")",48,373186,False,0.329,0.515,9,-11.252,0,0.0431,0.196,3.13e-06,0.0512,0.961,176.143,3,k-pop
+02nbJMpnovYSXre1J1SfRm,Alka Yagnik;Udit Narayan,Raaz (Original Motion Picture Soundtrack),Itna Main Chaahoon - Duet Version,47,321000,False,0.389,0.701,2,-9.935,0,0.0728,0.634,0.0,0.0987,0.6,81.157,4,k-pop
+2ZXXwpomdj8xBYl352iyKH,BTS,Proof,Filter,67,180220,False,0.779,0.762,10,-5.188,0,0.0631,0.0224,0.0,0.121,0.859,110.043,4,k-pop
+0eG3b2T3SXtPAhD9LLm8xA,ONEUS,MALUS,Same Scent,69,192786,False,0.65,0.914,0,-3.106,0,0.0485,0.112,0.0,0.0731,0.725,98.984,4,k-pop
+0CatzXH85XWyBqqdB6qPMB,NCT DREAM,Beatbox - The 2nd Album Repackage,Beatbox,73,205133,False,0.857,0.7,4,-4.189,0,0.074,0.0411,0.0,0.0334,0.773,93.997,4,k-pop
+7zpji3CeYShhfemfiE2xMC,Vijay Antony;Haricharan;Srimathumitha,Velayudham (Original Motion Picture Soundtrack),Rathathin Rathamay,47,278240,False,0.737,0.733,4,-7.007,0,0.04,0.58,0.0051,0.119,0.762,125.013,4,k-pop
+12PNUTKhfwR8acdU7BjiXC,Yuvan Shankar Raja,"Dope Track (From ""Pyaar Prema Kaadhal"" Original Motion Picture Soundtrack)",Dope Track,46,250684,False,0.622,0.709,0,-5.061,0,0.0513,0.309,6.38e-06,0.163,0.488,160.03,4,k-pop
+27S8iOXD7Z58yvJtyk2S9j,BTS,Proof,No More Dream,63,222066,False,0.438,0.864,2,-5.185,1,0.47,0.0118,1.66e-06,0.431,0.594,167.898,4,k-pop
+5GKwq4sO5ZHKuWaDmdwMQc,Red Velvet,The Perfect Red Velvet - The 2nd Album Repackage,Bad Boy,71,210817,False,0.714,0.736,2,-3.801,1,0.0457,0.191,0.0,0.0553,0.814,149.985,4,k-pop
+3e4tHEcyzEtngkCw8ZBSMS,Gaho,ITAEWON CLASS (Original Television Soundtrack),Start Over,60,202440,False,0.591,0.818,4,-3.532,1,0.073,0.172,0.0,0.126,0.574,108.107,4,k-pop
+4eP8Syl3aBEQw3Jy5Bhq0D,BTS;Steve Aoki,Love Yourself 結 'Answer',The Truth Untold,62,242292,False,0.571,0.422,1,-7.561,0,0.0422,0.374,0.0,0.127,0.169,113.016,4,k-pop
+4as4XEOR03oGm1STUKl6pa,IU,BBIBBI,BBIBBI,69,194426,False,0.839,0.617,7,-4.692,1,0.331,0.241,0.0,0.3,0.821,143.894,4,k-pop
+4QpOqCNx9L7Vy2ThfXOYDf,Jagjit Singh,Saher,Tere Aane Ki Jab Khabar Mehke,48,379906,False,0.681,0.242,9,-18.064,0,0.0333,0.597,0.000192,0.105,0.549,90.635,4,k-pop
+6mIjJONoUMvGPT9Kzrab3L,EVERGLOW,-77.82x-78.29,LA DI DA,68,210893,False,0.477,0.85,3,-1.486,0,0.0911,0.00108,0.0,0.0675,0.601,163.845,4,k-pop
+18W2OWFsdGCjG7iA4iYpMw,I-LAND,Into the I-LAND,Into the I-LAND,65,217322,False,0.522,0.916,1,-4.766,1,0.0786,0.016,0.0,0.149,0.549,122.046,4,k-pop
+3SfbB0Y3saMIQnNctxMVhj,SOYOU,"Guardian (Original Television Soundtrack), Pt. 7",I Miss You,61,169448,False,0.482,0.344,5,-6.002,1,0.0318,0.901,0.0,0.129,0.211,133.499,4,k-pop
+6Rkl10M1hGj0bvN3TlQ3KI,Alka Yagnik;Kumar Sanu,Dil Hai Tumhaara (Original Motion Picture Soundtrack),Kasam Khake Kaho,47,353000,False,0.626,0.923,9,-7.012,0,0.046,0.15,6.03e-05,0.0414,0.86,114.021,4,k-pop
+2ecGP5xUE5126x6yHa7J6E,TOMORROW X TOGETHER,The Dream Chapter: ETERNITY,Can't You See Me?,67,201445,False,0.59,0.818,9,-2.988,0,0.0771,0.0584,0.0,0.205,0.664,139.925,4,k-pop
+7rLvsAO1yb7ElxPhkz60qh,CHEN;BAEKHYUN;XIUMIN,"Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",For You,62,196549,False,0.533,0.838,0,-3.723,1,0.0319,0.102,0.0,0.394,0.449,75.021,4,k-pop
+4s80CRYk3rRPZE56NvmFi7,Gummy,Descendants Of The Sun Pt.4 (Original Television Soundtrack),You Are My Everything,62,240590,False,0.343,0.499,6,-5.121,1,0.0387,0.665,0.0,0.119,0.104,131.076,4,k-pop
+0EmYZZ8OqeALedVhijSjsg,TOMORROW X TOGETHER,The Dream Chapter: STAR,CROWN,66,230706,False,0.623,0.8,5,-5.819,1,0.0424,0.0497,0.0,0.0619,0.58,110.979,4,k-pop
+3pkIaou3w14ytyKYZbg0hc,BLACKPINK,Kill This Love,DDU-DU DDU-DU (Remix),58,201225,False,0.68,0.906,11,-6.195,0,0.0734,0.0341,7.83e-05,0.077,0.68,145.05,4,k-pop
+6dMSWNnCW0nQUbhXnQGTnh,Vidyasagar;Kamal Haasan;Karthik,Anbe Sivam (Original Motion Picture Soundtrack),Anbe Sivam,46,258088,False,0.484,0.374,7,-12.881,0,0.0301,0.285,9.79e-05,0.102,0.497,149.833,4,k-pop
+04CHEoMbrLOiX8co3EG5dO,TOMORROW X TOGETHER,minisode 2: Thursday's Child,Thursday's Child Has Far To Go,68,211399,False,0.631,0.762,11,-4.208,1,0.105,0.049,0.0,0.0926,0.668,167.14,4,k-pop
+5TCmpwdXWcTvUvX52tHuOa,Yuvan Shankar Raja;Hiphop Tamizha,"Arakkiyae (From ""Anbarivu"")","Arakkiyae (From ""Anbarivu"")",46,181109,False,0.733,0.844,1,-5.341,1,0.0908,0.52,0.0,0.0777,0.819,120.032,4,k-pop
+0bGJHUPR6ems9tzIljlPFR,BTS,Wings,Begin,66,229740,False,0.566,0.842,9,-5.222,0,0.0442,0.00357,0.000253,0.141,0.308,131.05,4,k-pop
+1NzjhpwIgh3bXjxdtv2RbY,Yuvan Shankar Raja;Rahul Nambiar,"Muddhu Muddhu Vaana (From ""Nene Vasthunna"")",Muddhu Muddhu Vaana,45,190480,False,0.727,0.558,7,-12.475,1,0.0447,0.588,0.000376,0.0985,0.586,104.991,4,k-pop
+6tzfj4EtmLNJ3SSD4dm6O8,Dhanush;Premgi Amaren;Yuvan Shankar Raja,Pudhupettai,Enga Yeriya,45,318293,False,0.551,0.853,5,-8.803,0,0.0971,0.173,0.00385,0.248,0.791,129.995,4,k-pop
+4upRoEWkMWhhMfEgPZMFRP,BTS,Proof,Spring Day,63,274703,False,0.538,0.831,8,-3.735,1,0.0353,0.00708,1.96e-06,0.109,0.461,106.993,4,k-pop
+7yAy2gL2rtatS56jzkakhr,JENNIE,BLACKPINK 2021 'THE SHOW' LIVE,SOLO,56,165993,False,0.847,0.551,3,-7.132,0,0.142,0.06,4.37e-06,0.162,0.515,95.036,4,k-pop
+56s2s5e8WuBsWVKnmz6J9L,STAYC,WE NEED LOVE,BEAUTIFUL MONSTER,74,180000,False,0.594,0.647,6,-4.347,1,0.0834,0.121,0.0,0.352,0.511,82.321,4,k-pop
+0nUftNWYvNCWnjiyeujCR8,BTS,Love Yourself 結 'Answer',MIC Drop,59,238193,False,0.667,0.889,6,-4.851,1,0.0917,0.00912,0.0,0.0816,0.541,169.961,4,k-pop
+1AToLLvWghQgiBFef1iGuR,Hwa Sa,Guilty Pleasure,I`m a B,65,167333,False,0.711,0.77,10,-4.724,0,0.0826,0.135,8.9e-06,0.18,0.927,139.968,4,k-pop
+6B8MM3PVQtUbZLay7tP7er,NCT DREAM,Hot Sauce - The 1st Album,Hot Sauce,68,195813,False,0.769,0.926,6,-1.627,1,0.0788,0.0127,0.0,0.285,0.551,100.034,4,k-pop
+2r8F0VYPom2XP4cKAzWLLE,BTS,Proof,Euphoria,64,228615,False,0.635,0.79,2,-4.897,1,0.0336,0.404,0.0,0.0919,0.577,104.936,4,k-pop
+6qtSFL6qFbw7EmaRIsS0IR,Jagjit Singh;Chitra Singh,The Latest,Woh Kaghaz Ki Kashti,48,388998,False,0.705,0.48,11,-12.556,1,0.0399,0.909,0.00473,0.0944,0.8,108.178,3,k-pop
+45HQ2LUH4ZruF1KmAnGLbq,BTS,"BTS, THE BEST",Lights,61,290960,False,0.607,0.636,5,-5.605,1,0.0324,0.179,0.0,0.176,0.421,98.997,4,k-pop
+6bSwpQYEguyMlkCoWiBt3Y,BTS,Love Yourself 結 'Answer',Trivia 承 : Love,65,225697,False,0.761,0.761,5,-5.721,0,0.0899,0.242,0.0,0.103,0.484,121.971,4,k-pop
+0iJVDupX9f0VPwceljd4Ux,Vidyasagar;Sunidhi Chauhan;Yogi B,Kuruvi (Original Motion Picture Soundtrack),Happy New Year,47,243066,False,0.691,0.935,2,-2.791,1,0.431,0.284,0.0,0.132,0.71,118.694,4,k-pop
+1VjqXwHU3isibdXLEtXc4q,BTS,Proof,Life Goes On,62,208088,False,0.576,0.698,1,-6.544,1,0.0369,0.00848,0.0,0.367,0.462,81.028,4,k-pop
+6PGlNj4xipskvQXJgfAy8i,T. M. Soundararajan,Divine Collections Saravana Bhavane,Ullam Uruguthaiyya,45,368986,False,0.436,0.315,2,-11.79,1,0.0423,0.887,0.0,0.174,0.946,173.628,3,k-pop
+1oACG26rFg4XwAkW5oGGUa,Stella Jang,Colors,Colors,58,101635,False,0.734,0.295,11,-8.598,1,0.889,0.636,0.0,0.0741,0.788,199.99,4,k-pop
+2Ygw4CPjg1lg4zxTITYY2V,BTS,Proof,DNA,63,223441,False,0.595,0.754,1,-4.527,0,0.0554,0.0245,0.0,0.0726,0.672,129.951,4,k-pop
+0OCDOcvQvozjsivREMojzx,Stray Kids,Mixtape : Time Out,Mixtape : Time Out,70,175293,False,0.555,0.945,2,-1.934,1,0.127,0.0453,0.0,0.244,0.389,160.006,4,k-pop
+4qbH2EQ2d3cGqtIT8gIlhG,Yuvan Shankar Raja;Krishh;Suchitra,Mankatha (Original Motion Picture Soundtrack),Vaada Bin Laada,46,269266,False,0.79,0.784,10,-6.31,0,0.0421,0.147,0.00303,0.109,0.399,119.956,4,k-pop
+0vMk4IrUfSJQkhwZnVX6us,BTS,Proof,Boy In Luv,62,231384,False,0.492,0.931,9,-3.837,0,0.297,0.00244,0.0,0.353,0.444,166.071,4,k-pop
+6NbfFVZ01Ttvvqmcok8DxL,BTS,FACE YOURSELF,Crystal Snow,65,323360,False,0.618,0.766,3,-4.507,1,0.0323,0.117,0.0,0.121,0.448,113.997,4,k-pop
+6EfGUQtLk3xVc64tk8ihTL,Ilaiyaraaja,Muthal Mariyathai (Original Motion Picture Soundtrack),Hey Kiliyirukku,46,68205,False,0.803,0.572,0,-9.308,1,0.205,0.811,0.00338,0.0962,0.79,112.478,3,k-pop
+1hIuSG6xV4RDgD8bDVKP7N,BTS,Proof,Dynamite,66,199293,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0933,0.737,114.044,4,k-pop
+4gJ6m8P4nBeCn0Y6294Lee,Vidyasagar;Kalyani Pradeep,Raman Thediya Seethai (Original Motion Picture Soundtrack),Mazhai Nindra,46,288333,False,0.628,0.847,4,-4.371,0,0.0471,0.345,0.00284,0.425,0.627,78.0,4,k-pop
+2HPVvTJ5BZGLOXTyrPH3wy,Yuvan Shankar Raja;Bhavatharini;Rizwan,Maanaadu (Original Motion Picture Soundtrack),Meherezylaa,46,259200,False,0.734,0.721,9,-5.806,0,0.0556,0.157,2.96e-06,0.256,0.387,100.043,4,k-pop
+2eilJpx0bKCA0AEVrWYJOV,Yuvan Shankar Raja;Gana Bala,Vai Raja Vai (Original Motion Picture Soundtrack),Vandha Kadha,46,212291,False,0.727,0.765,6,-5.036,0,0.12,0.207,0.0,0.0726,0.813,66.484,4,k-pop
+7CCGHQ9FNc6Ejh9nhy8bGh,Anuradha Paudwal,Shiv Amritwani,Shiv Amritwani,47,2957840,False,0.598,0.623,6,-7.399,0,0.0817,0.817,0.0,0.0538,0.935,143.031,4,k-pop
+3Gf3nkzhkr1SO6dgFEnDrw,T. M. Soundararajan,Karpanai Endralum,Azhagendra Sollukku,45,343973,False,0.334,0.594,9,-8.111,0,0.053,0.748,3.93e-06,0.0733,0.918,184.924,3,k-pop
+1YS53PnTAikJSZjSN15tbR,Ilaiyaraaja;S. Janaki,Auto Raaja,Sangathil Padatha,46,258146,False,0.554,0.358,11,-11.017,0,0.043,0.929,0.207,0.217,0.78,80.783,4,k-pop
+5dEL0m9Wo4wxOpPKYyhpVb,Ilaiyaraaja,Voice Of Isaignani Ilaiyaraja Vol -1,"April Mayilae (From ""Idhayam"")",46,310085,False,0.592,0.703,2,-9.091,1,0.0572,0.717,2.54e-06,0.082,0.702,76.75,4,k-pop
+0Nd4TdihAUearvj37QMvjF,Ilaiyaraaja,Panakkaran (Original Motion Picture Soundtrack),Ullukulla Chakaravarthy,46,271706,False,0.598,0.496,4,-8.787,1,0.0497,0.763,0.0,0.122,0.747,82.029,4,k-pop
+6rurduYegrf5XSZrphuyF2,SEVENTEEN,SEVENTEEN 4th Album Repackage 'SECTOR 17',Circles,67,239613,False,0.65,0.456,1,-5.742,1,0.0299,0.659,0.0,0.122,0.475,82.063,4,k-pop
+2WmUiGBse5FhZ6XhK86jXe,Jagjit Singh,Tum Bin,Koi Fariyaad,47,541346,False,0.403,0.439,9,-15.154,0,0.0555,0.073,0.00069,0.0828,0.325,84.822,4,k-pop
+2ZH9LPIKLzTvgZi2AKmKQi,Raghu Dixit;Anne Amie,Koode,Aararo,46,247590,False,0.311,0.224,11,-10.918,1,0.032,0.878,1.27e-05,0.0932,0.194,165.559,4,k-pop
+7GkHIsnziYgk6j1lx2TK6H,BIBI,Twenty-Five Twenty-One OST Part 3,"Very, Slowly",62,214851,False,0.528,0.423,8,-7.381,1,0.0264,0.678,0.00148,0.167,0.249,135.917,4,k-pop
+6VJPFl2Jf1tnGhwaTgv04v,Raghu Dixit;Benny Dayal,Koode,Paranne,46,258088,False,0.717,0.743,10,-9.092,1,0.0439,0.184,0.000771,0.0984,0.46,135.963,4,k-pop
+2FfgDLrH2ryEpQlHQsftlY,Anupam Roy,Hemlock Society,Ekhon Onek Raat,48,225976,False,0.727,0.564,9,-9.797,1,0.0567,0.707,0.0,0.104,0.616,97.008,4,k-pop
+4JmbtS0Muijl37KP9lDscy,SUNMI,Heart Burn,Heart Burn,71,193173,False,0.84,0.656,6,-5.162,0,0.0401,0.0287,4.38e-06,0.0714,0.783,121.99,4,k-pop
+2oVHb8wyg6oC2iNpGBNvx1,HEIZE,Hotel del Luna (Original Television Soundtrack) Pt.5,내 맘을 볼 수 있나요,63,225785,False,0.397,0.166,9,-10.678,1,0.0349,0.884,0.0,0.1,0.131,134.708,4,k-pop
+4c1WgUnHXq2LEncGHKgj1I,BTS;Charli XCX,Dream Glow (BTS World Original Soundtrack) [Pt. 1],Dream Glow (BTS World Original Soundtrack) - Pt. 1,62,187457,False,0.735,0.74,0,-3.837,0,0.0519,0.0967,0.0,0.101,0.541,141.948,4,k-pop
+7aPMgglPJcmvai8MW8W0vN,Alka Yagnik,Tere Naam,Man Basia,46,184826,False,0.245,0.329,10,-7.482,0,0.0357,0.848,1.17e-06,0.164,0.126,78.394,5,k-pop
+5PURTIpVPE45Al5IV0QJOS,All Ok;Ashika Ranganath,Mallige Hoova,Mallige Hoova,44,177600,False,0.798,0.906,6,-3.874,0,0.097,0.225,0.000337,0.05,0.721,100.003,4,k-pop
+6Y8BfAciA0NFKxRL61MMM1,Vidyasagar;M. G. Sreekumar;K. S. Chithra,Varnappakittu (Original Motion Picture Soundtrack),Vellinilaa Thullikalo,46,291632,False,0.668,0.753,9,-8.569,1,0.0421,0.0122,0.00544,0.155,0.495,119.976,4,k-pop
+46WaBBaEHzgbN88Ew0nh50,GFRIEND,回:Walpurgis Night,MAGO,69,199133,False,0.621,0.821,6,-3.662,0,0.0364,0.00548,0.000578,0.142,0.646,120.062,4,k-pop
+4i3c6yGBiS2Nkkb3LURQQ2,Anuradha Paudwal;Sonu Nigam,Top Navratri Bhajans Vol-6,O Aaye Tere Bhawan,46,319600,False,0.565,0.683,1,-11.099,0,0.0391,0.616,0.0,0.218,0.964,81.795,3,k-pop
+1TeB5t9ZObcp6FosmHbTWs,Alka Yagnik;Arko,Kanhaiya Re by Alka Yagnik - Zee Music Devotional,Kanhaiya Re by Alka Yagnik - Zee Music Devotional,46,250639,False,0.74,0.495,9,-5.715,1,0.042,0.767,0.0,0.328,0.45,119.881,4,k-pop
+61RvEx7GLYRHQhG7ldjJo1,BTS,Love Yourself 承 'Her',Intro: Serendipity,65,139971,False,0.477,0.581,8,-8.795,1,0.119,0.523,0.0,0.201,0.282,129.571,4,k-pop
+7J0E3iSjAxIdQtArstSfIJ,Raghu Dixit;Siddhartha Belmannu;Rakshita Suresh,Ninna Sanihake (Original Motion Picture Soundtrack),Nee Parichaya,46,218017,False,0.679,0.608,0,-10.187,0,0.0368,0.639,7.55e-06,0.0873,0.361,116.043,4,k-pop
+4RewTiGEGoO7FWNZUmp1f4,IU,Celebrity,Celebrity,63,195546,False,0.73,0.784,9,-2.62,1,0.0691,0.191,0.0,0.0956,0.673,99.995,4,k-pop
+0PpNBEXkjalflGCMMsBV5B,BTS,MAP OF THE SOUL : 7,Jamais Vu,61,227275,False,0.608,0.47,8,-6.73,1,0.0428,0.226,0.0,0.0963,0.241,81.0,4,k-pop
+1zRc1lOLMPkM8HKqUUmaEp,Prem,Ammana Madilu,Beduvenu Varavnnu,44,299753,False,0.539,0.579,5,-7.534,0,0.0309,0.455,0.0,0.287,0.455,127.998,5,k-pop
+5PxHLPNHDTt4IzBVAEVrgy,Anuradha Paudwal,Jai Maa Vaishno Devi,Hath Jod Ke Khadi Hoon Maiya,46,353093,False,0.592,0.576,1,-10.474,0,0.0367,0.817,0.0,0.0589,0.72,96.236,4,k-pop
+2jPXoxHHvgjnH1WMrzR8eU,Anuradha Paudwal;Sonu Nigam,Jai Maa Vaishno Devi,Do Akam Do,46,456000,False,0.662,0.587,7,-9.332,1,0.0445,0.756,0.0,0.307,0.764,118.453,4,k-pop
+6ZiPlvGWMRVA2CB3A6iGod,Yuvan Shankar Raja,"Voice of Yuvanshankar Raja, Vol. 2","Kaadal Endral (From ""Goa"")",45,87133,False,0.638,0.324,0,-7.787,0,0.0321,0.923,3.4e-05,0.151,0.446,129.939,4,k-pop
+7lB4rxNVc7vm33ZSZXVRAQ,TWICE,Page Two,CHEER UP,66,208853,False,0.551,0.885,6,-1.489,1,0.124,0.139,0.0,0.114,0.509,172.95,4,k-pop
+68IoPplcSgQ2xO4WSsUAaI,Alka Yagnik;Mohammed Aziz,Khuda Gawah (Original Motion Picture Soundtrack),Tu Na Jaa Mere Baadshah,46,306666,False,0.506,0.487,11,-12.585,0,0.136,0.794,0.000373,0.0805,0.797,152.749,4,k-pop
+3U1lRa56VJbOFqfWI2PTrj,Yuvan Shankar Raja;Benny Dayal,Awaara (Original Motion Picture Soundtrack),Mandaara Poovalle,45,322146,False,0.829,0.701,0,-8.031,0,0.0451,0.0604,0.0155,0.349,0.72,119.993,4,k-pop
+7ecbsiAQ6PNdiAq0hplVZo,ENHYPEN,DIMENSION : ANSWER,Blessed-Cursed,71,170805,False,0.604,0.886,4,-3.523,0,0.061,0.0925,0.0,0.596,0.401,127.098,4,k-pop
+709CXottAkQWL83UqsilQc,Vijay Antony;Shankar Mahadevan,Vettaikaaran (Original Motion Picture Soundtrack),Nan Adicha,46,275320,False,0.775,0.873,10,-5.171,1,0.205,0.255,2.58e-05,0.201,0.515,82.514,4,k-pop
+0l8PtVLV2EZKSjMeFQUAyE,Yuvan Shankar Raja;Silambarasan TR;Earl;Suzi Q;SUVI,Silambattam (Original Motion Picture Soundtrack),Nallamdhana,45,373000,False,0.912,0.851,8,-3.968,1,0.108,0.184,0.00587,0.0712,0.623,123.028,4,k-pop
+1R8eVL8opp64W7aljWa9Of,Yuvan Shankar Raja;K. S. Chithra;Shreya Ghoshal,Thillalangadi (Original Motion Picture Soundtrack),Sol Pechu,45,297773,False,0.887,0.655,5,-7.307,0,0.0383,0.11,0.00852,0.11,0.694,109.981,4,k-pop
+6AIMLTeBhAxX75QJrJQdQV,Yuvan Shankar Raja;Hiphop Tamizha,"Thiyagi Boys (From ""Coffee With Kadhal"")","Thiyagi Boys - From ""Coffee With Kadhal""",46,206000,False,0.562,0.816,10,-5.04,0,0.392,0.21,0.0,0.112,0.768,179.835,3,k-pop
+2yKBnKOmPXePrbHqRv42r4,BTS,MAP OF THE SOUL : 7,Respect,64,237540,False,0.661,0.838,0,-4.806,1,0.116,0.00491,0.0,0.287,0.526,91.463,4,k-pop
+3TDUktzfYXMWjkWqwoT5F1,BTS,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,Lights,63,292853,False,0.608,0.644,5,-5.588,1,0.0314,0.156,0.0,0.124,0.431,99.005,4,k-pop
+2FymmKBuog0loCuNXMwQID,SEVENTEEN,SEVENTEEN 8th Mini Album 'Your Choice',Ready to love,70,186760,False,0.668,0.705,9,-5.731,0,0.0356,0.0274,0.0,0.215,0.549,129.984,4,k-pop
+3jhhrbdRaD0W8mHvtV3bgL,Anuradha Paudwal;Kumar Sanu,Ultimate Romantic Duet - Kumar Sanu & Anuradha Paudwal,"Nazar Ke Samne (From ""Aashiqui"")",47,335213,False,0.458,0.51,11,-8.287,0,0.0331,0.715,6.37e-05,0.0814,0.526,142.993,4,k-pop
+7cMKz5MoUTPH2N4yqpAUAO,Anuradha Paudwal;Kumar Sanu,Ultimate Romantic Duet - Kumar Sanu & Anuradha Paudwal,"Tu Meri Zindagi Hai (From ""Aashiqui"")",47,285280,False,0.507,0.56,10,-7.177,0,0.034,0.878,0.000572,0.338,0.592,127.318,4,k-pop
+6mCBXs5VNOS3OuiKrtyWxT,Yuvan Shankar Raja,Maanaadu (Original Motion Picture Soundtrack),Maanaadu Theme,45,139200,False,0.656,0.805,11,-5.589,1,0.0841,0.00841,0.0887,0.36,0.569,75.0,4,k-pop
+6EfGUQtLk3xVc64tk8ihTL,Ilaiyaraaja,Muthal Mariyathai (Original Motion Picture Soundtrack),Hey Kiliyirukku,46,68205,False,0.803,0.572,0,-9.308,1,0.205,0.811,0.00338,0.0962,0.79,112.478,3,k-pop
+6GViyUENJxUe9UDQnk0Mm4,Yuvan Shankar Raja;Silambarasan TR;Blaaze;Vasundhara Das,Manmadhan,Thathai Thathai,45,352522,False,0.802,0.89,1,-7.723,1,0.101,0.0943,9e-06,0.0726,0.789,129.976,4,k-pop
+2f4x30AcgiQdVlMyY7ZvkY,Yuvan Shankar Raja;Andrea Jeremiah;Tanvi Shah;Ranjith Govind;Vinaita,Theeratha Vilayaatu Pillai (Original Motion Picture Soundtrack),Theeratha Vilaiyattu,45,295013,False,0.713,0.673,7,-5.924,0,0.0446,0.00844,0.219,0.164,0.66,130.014,4,k-pop
+0Gq58GNj0dftTVtetSZk5O,Ilaiyaraaja;K. S. Chithra,Kaalapani (Original Motion Picture Soundtrack),Maarikkoodinnullil,45,383348,False,0.715,0.377,7,-9.006,1,0.0529,0.749,1.61e-06,0.274,0.708,102.984,4,k-pop
+275PH4yNQ4WhGIyJj9QxzT,Yuvan Shankar Raja,Manmadhan (Bonus Tracks),Pesa Vanthen,45,103534,False,0.638,0.545,5,-5.288,0,0.0316,0.542,0.0,0.147,0.574,87.063,4,k-pop
+4YDHRtzm0OGuieCTVQjVuk,BTS,Love Yourself 結 'Answer',Trivia 起 : Just Dance,64,225220,False,0.723,0.906,1,-4.777,0,0.281,0.0929,0.0,0.0771,0.393,125.023,4,k-pop
+0KCvsHmGvW2XcsxEWJvLPr,BTS,Proof,IDOL,62,222732,False,0.733,0.855,9,-3.211,1,0.118,0.00481,0.0,0.123,0.42,126.035,4,k-pop
+42LMjL86cep0L8QA1q0doE,Yuvan Shankar Raja;Silambarasan TR;Arivu,Maanaadu (Original Motion Picture Soundtrack),Voice Of Unity,46,238400,False,0.632,0.895,6,-6.415,1,0.13,0.0594,0.000198,0.174,0.336,149.951,4,k-pop
+2mCxqKPMzlbG4YkMTJObDf,Vijay Antony;MK Balaji;Sheba;Maya;Ramya,Ninaithale Inikkum (Original Motion Picture Soundtrack),Sexy Lady,45,265386,False,0.618,0.519,0,-9.473,1,0.393,0.204,2.69e-05,0.125,0.77,90.009,4,k-pop
+5pjHS3EpHurMyIpB2QBnEd,BTS,2 Cool 4 Skool,We Are Bulletproof Pt.2,63,223933,False,0.753,0.95,8,-5.09,0,0.16,0.0104,6.32e-06,0.134,0.868,144.02,4,k-pop
+4qBq1eZ3gIPaGGjPobJmUg,Vijay Antony,Naan (Original Motion Picture Soundtrack),Thapellam Thapeillai Theme,45,266866,False,0.837,0.762,9,-6.02,0,0.048,0.267,6.76e-06,0.583,0.912,130.014,4,k-pop
+2ZYWQKZL3qZkYFZv6plJKi,Ilaiyaraaja,Voice Of Isaignani Ilaiyaraja Vol -1,"En Thaayenum Koil (Feat. Aranmanai Kili) (From ""Aranmanai Kili"")",45,292356,False,0.632,0.467,2,-8.189,1,0.0307,0.852,0.0,0.302,0.629,116.847,3,k-pop
+7awWsJqttJB9p8it7dbzpd,Ilaiyaraaja,Voice Of Isaignani Ilaiyaraja Vol -1,"Antha Vanatha (From ""Chinna Gounder"")",45,271153,False,0.673,0.391,4,-9.355,0,0.0284,0.921,1.16e-05,0.238,0.666,109.466,3,k-pop
+1sz4drpDPpHVrPUgnXGaNn,BTS,The Most Beautiful Moment in Life Pt.1,Boyz with Fun,65,244156,False,0.704,0.96,1,-2.606,0,0.192,0.0808,0.0,0.383,0.751,116.024,4,k-pop
+2BWd1qRu8mc6H0HbDtn8Dr,PSY,VIP DJ,Gentleman,50,194546,False,0.878,0.723,3,-3.334,0,0.102,0.00227,0.0,0.0516,0.619,126.01,4,k-pop
+3EMp20j5E42MxfFbsEsIvD,Jack Harlow;Drake,Come Home The Kids Miss You,Churchill Downs (feat. Drake),77,309327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+5quFr5s5PXYfUX5jV2EBZ1,Jay Park;IU,GANADARA,GANADARA (Feat. IU),68,203727,False,0.492,0.615,2,-6.663,1,0.244,0.196,0.0,0.0772,0.458,90.081,4,k-pop
+2QYNXDeUEFQJnvnY8VoVnP,Anuradha Paudwal;Udit Narayan,Aashiqui,Mera Dil Tere Liye,46,274920,False,0.484,0.754,11,-7.918,0,0.0663,0.726,0.00382,0.392,0.576,80.368,4,k-pop
+5EzitieoPnjyKHAq0gfRMa,EXO,THE WAR - The 4th Album,Ko Ko Bop,65,190422,False,0.749,0.85,0,-4.346,1,0.0468,0.0319,4.81e-05,0.0678,0.672,145.983,4,k-pop
+2bZIDMpzVooosmPHn0tHnd,STAYC,STEREOTYPE,STEREOTYPE,71,191695,False,0.605,0.805,6,-3.212,1,0.0641,0.313,0.0,0.659,0.738,148.298,4,k-pop
+38rUIlTX93Aoif3WcY1wv6,ITZY,IT'z Different,DALLA DALLA,68,199873,False,0.79,0.853,11,-4.564,0,0.0666,0.00116,4.23e-05,0.329,0.713,125.0,4,k-pop
+60jFaQV7Z4boGC4ob5B5c6,TWICE,Twicecoaster: Lane 1,TT,68,212986,False,0.708,0.852,2,-4.398,1,0.0851,0.0525,0.00016,0.399,0.396,129.946,4,k-pop
+5sbooPcNgIE22DwO0VNGUJ,K/DA;Madison Beer;(G)I-DLE;Jaira Burns;League of Legends,POP/STARS,POP/STARS,73,191100,False,0.566,0.769,7,-4.342,1,0.0872,0.0183,0.0,0.108,0.385,170.036,4,k-pop
+1F9Zb8zC2yOPVE6tL8jvyR,Yuvan Shankar Raja,Neee,Neee,44,205845,False,0.648,0.783,8,-7.654,0,0.0453,0.235,0.00499,0.124,0.186,130.007,4,k-pop
+396FqjKmViUZ92Wmm4rx3i,aespa,Girls - The 2nd Mini Album,Illusion,72,195053,False,0.75,0.718,2,-2.817,0,0.0468,0.0814,1.75e-05,0.322,0.592,90.027,4,k-pop
+4GhSwI5NSgEVKWbfmf8HyO,Dhanush;Anirudh Ravichander,Thiruchitrambalam (Original Motion Picture Soundtrack),Mayakkama Kalakkama,46,142258,False,0.789,0.536,9,-5.432,0,0.0425,0.569,1.32e-06,0.0878,0.891,123.983,4,k-pop
+5jib3JBR209gQizgISFbrH,Anuradha Paudwal;Kumar Sanu,Dil Hai Ke Manta Nahin,Tu Pyar Hai Kisi Aur Ka,47,412493,False,0.524,0.636,7,-9.517,0,0.0375,0.831,0.00167,0.104,0.623,99.68,4,k-pop
+00YwP3wJWiG8IxAA7OS9lo,Anupam Roy,Doorbiney Chokh Rakhbona,Amake Amar Moto Thakte Dao,47,319946,False,0.566,0.419,7,-7.661,1,0.0385,0.771,0.0,0.28,0.186,147.881,4,k-pop
+3w1WjD2zJqjBjDz5fwqQPJ,Jack Harlow,Thats What They All Say,Tyler Herro,74,156578,True,0.792,0.793,5,-6.185,0,0.0841,0.0872,0.0,0.22,0.775,123.031,4,k-pop
+3RsEvBUaNT9MXqUvQVuK1G,TOMORROW X TOGETHER,The Dream Chapter: STAR,Cat & Dog,66,187573,False,0.843,0.794,8,-3.013,1,0.146,0.0637,0.00023,0.104,0.319,160.005,4,k-pop
+7IkuRNVAjwXpZ2DheQHL4L,EXID,X,FIRE,71,207013,False,0.75,0.941,8,-1.759,1,0.0609,0.0111,2.11e-06,0.228,0.867,129.978,4,k-pop
+2mgzUVvDpb1zMSB4glLQ6T,aespa,Life's Too Short,Life's Too Short (English Version),70,178133,False,0.472,0.8,0,-3.681,1,0.265,0.289,0.0,0.149,0.548,72.203,4,k-pop
+63mL1DdcSFfxVJ9XGnSRQz,TWICE,BETWEEN 1&2,Basics,73,176973,False,0.778,0.8,2,-3.529,1,0.227,0.254,0.0,0.139,0.585,137.997,4,k-pop
+2e77EO4qYsZ6edoSRyMflA,Alka Yagnik,Kasoor,Dil Mera Tod Diya,45,307960,False,0.591,0.804,7,-8.688,0,0.0555,0.459,9.44e-06,0.0743,0.673,107.05,4,k-pop
+0U4hNZFJYNFdEAXZcHbkkc,BTS,Proof,ON,62,246817,False,0.577,0.811,9,-5.146,0,0.117,0.111,0.0,0.346,0.456,105.966,4,k-pop
+2sFWzfV3kqAwXEWM9BjzwH,Stray Kids,Clé 1 : MIROH,MIROH,66,207617,False,0.564,0.979,9,-3.102,1,0.104,0.0091,0.0,0.249,0.505,126.059,4,k-pop
+4G8W3lPzgu8WibeXEPLvLR,Jubin Nautiyal;Amrita Singh;Mithoon,"Tum Mere Ho (From ""Hate Story Iv"")","Tum Mere Ho (From ""Hate Story Iv"")",46,292762,False,0.563,0.491,0,-8.324,0,0.0252,0.763,8.76e-05,0.107,0.212,97.939,4,k-pop
+6Ib6RkvLBMD85bov85apSL,Stray Kids,NOEASY,DOMINO,70,198720,False,0.687,0.866,7,-2.01,1,0.0466,0.0301,0.0,0.0755,0.696,160.066,4,k-pop
+4Eefey3uN90Abhbr47zKmC,Younha;RM,UNSTABLE MINDSET,WINTER FLOWER(Feat.RM),62,221133,False,0.564,0.796,0,-3.698,1,0.0737,0.118,0.0,0.0938,0.241,95.946,4,k-pop
+3KVOfGrYVjoP1w8T2HVltm,BTS,Wings,2! 3!,64,272537,False,0.442,0.928,7,-4.096,1,0.207,0.0257,0.0,0.1,0.601,169.847,4,k-pop
+1OJoglsYkN8Ddlmt8pfNJI,Jagjit Singh,Madhusudana-Shree Krishna Dhun,Hare Rama Hare Rama Rama Rama Hare Hare,47,294582,False,0.64,0.488,7,-7.625,1,0.0258,0.684,3.81e-06,0.146,0.609,82.986,4,k-pop
+0IEVKWduAaMcZepZQVr80T,TWICE,Twicetagram,Likey,68,207813,False,0.723,0.903,4,-1.262,0,0.033,0.413,0.000377,0.118,0.443,132.006,4,k-pop
+320mx0rG1WXP9M7ozPwK1w,Vijay Antony;Ananthu;Mahesh Vinayakram,Vettaikaaran (Original Motion Picture Soundtrack),Puli Urumudhu,45,255773,False,0.84,0.922,10,-5.354,0,0.197,0.646,2.3e-06,0.118,0.734,112.309,3,k-pop
+2SKBwYW23iHoB7CrYSeyC9,BTS,The Most Beautiful Moment in Life Pt.1,Hold Me Tight,65,274991,False,0.622,0.728,6,-5.111,1,0.286,0.0511,0.0,0.171,0.394,139.994,4,k-pop
+2sSqbdYfjFV9H01FjlqGQK,Jubin Nautiyal;Aakanksha Sharma;Jeet Gannguli,Rustom (Original Motion Picture Soundtrack),Dhal Jaun Main,46,289044,False,0.629,0.485,2,-6.695,0,0.0241,0.76,1.34e-06,0.0976,0.303,95.95,4,k-pop
+16LrVogeqYzGOfPXCzTVyU,Alka Yagnik,Aarzoo,Sajan Sajan Teri Dulhan,46,441333,False,0.361,0.559,11,-13.095,0,0.237,0.427,7.72e-06,0.302,0.682,77.538,4,k-pop
+1z0p8ODhL1aZFBengxPkZU,Vidyasagar;Udit Narayan;Shreya Ghoshal,Kuruvi (Original Motion Picture Soundtrack),Thaen Thaen Thaen,46,238600,False,0.713,0.808,8,-4.568,1,0.0435,0.115,0.000503,0.169,0.733,96.978,4,k-pop
+1oUmQdyZJGKi8EZKvNrRZQ,Yuvan Shankar Raja;Karthik;Sunitha Sarathy,Awaara (Original Motion Picture Soundtrack),Chuttesai Chuttesai,44,294413,False,0.796,0.825,1,-9.265,0,0.0378,0.127,0.00191,0.229,0.666,119.974,4,k-pop
+20Qqyt4bd1oe4KmkTagb2K,BTS,Proof,RUN,62,236748,False,0.558,0.856,11,-3.815,0,0.0531,0.00153,0.0,0.0979,0.53,132.89,4,k-pop
+3LXn4BVjDxS0Lq1MuwILVC,Yuvan Shankar Raja;Anuradha Sriram;Madhushree,Deepavali (Original Motion Picture Soundtrack),Kannan Varum Velai,45,233973,False,0.71,0.509,9,-9.56,0,0.0561,0.396,0.000327,0.0738,0.611,150.309,3,k-pop
+4NAM8AbGxIkzUWlTojNBzI,Alka Yagnik;Kumar Sanu,Rang (Original Motion Picture Soundtrack),Kahin Mujhe Pyar Hua Toh Nahin,46,423986,False,0.444,0.714,7,-7.362,1,0.0387,0.787,0.00768,0.568,0.752,83.98,4,k-pop
+0M7ai1yfYyb4OlyRgdmtTK,j-hope,Jack In The Box,Intro,65,58871,False,0.607,0.355,5,-14.867,1,0.828,0.948,0.000281,0.706,0.964,125.308,4,k-pop
+20pl0RVGT7P6L1Jr9p51nw,TOMORROW X TOGETHER,minisode 2: Thursday's Child,Trust Fund Baby,66,156364,False,0.465,0.407,5,-7.859,1,0.0819,0.715,0.0,0.0523,0.347,66.802,3,k-pop
+6HExlCnMKR4CdHfJE2aJmg,Yuvan Shankar Raja;Shankar Mahadevan,Silambattam (Original Motion Picture Soundtrack),Silambattam,45,303000,False,0.604,0.853,10,-8.256,1,0.263,0.129,0.0,0.0267,0.846,79.85,4,k-pop
+5joNJn9LUvYcamWwa2iYCL,OH MY GIRL,NONSTOP,Nonstop,62,202760,False,0.753,0.91,0,-2.591,1,0.0517,0.171,0.0,0.367,0.825,123.983,4,k-pop
+2GEnvQgSJhedm2sqZlOP8o,BTS,Proof,N.O,62,209751,False,0.597,0.909,11,-4.5,0,0.16,0.0443,0.0,0.374,0.564,146.87,4,k-pop
+5NkpsRKvSBukdYQtl3WLZW,K.Will,Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love,Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love,59,216555,False,0.603,0.834,1,-2.339,0,0.0287,0.353,0.0,0.0989,0.555,102.038,4,k-pop
+7KHwJb4xt1Q1t6tTFqD6Yj,Ilaiyaraaja;S. Janaki,Ellame En Rasathan,Oru Sandhana Kaattukkulle,44,326293,False,0.751,0.291,9,-12.096,0,0.0455,0.703,0.0,0.116,0.646,98.444,3,k-pop
+5CSmNZT70WFoQFnCjmoy9x,Madhusree,Nedunchalai (Original Motion Picture Soundtrack),Ivan Yaaro,45,134952,False,0.668,0.427,7,-10.215,0,0.029,0.411,0.0,0.1,0.699,97.022,4,k-pop
+19ZQT32TiC6SrzeWj4O94f,Yuvan Shankar Raja;Vijay Yesudas,Kedi Billa Killadi Ranga (Original Motion Picture Soundtrack),Dheivangal Ellaam,45,175333,False,0.411,0.293,5,-10.393,1,0.0298,0.801,0.000591,0.0721,0.139,179.81,3,k-pop
+5nIjOnMbC0QDMrYFLGx0yV,BLACKPINK,BLACKPINK IN YOUR AREA (Japanese Version),BOOMBAYAH - Japanese Version,62,240613,False,0.748,0.868,5,-2.296,0,0.0533,0.0225,4.85e-06,0.367,0.513,124.952,4,k-pop
+2GXWzWPsYlTZcvVW8JIu69,BTS,MAP OF THE SOUL : PERSONA,Intro : Persona,64,171023,False,0.486,0.871,9,-4.475,0,0.337,0.0278,0.0,0.313,0.659,85.411,4,k-pop
+0jbKh0Er1QmkseaND9Tlai,Ilaiyaraaja,Panakkaran (Original Motion Picture Soundtrack),Maraththa Vechchavan,45,239400,False,0.719,0.524,7,-9.756,1,0.0319,0.772,6.3e-06,0.214,0.689,81.665,4,k-pop
+1xMDMww0PMRiLTKhCmnmsj,Yuvan Shankar Raja;Velmurugan,Kedi Billa Killadi Ranga (Original Motion Picture Soundtrack),Konjum Kili,45,260253,False,0.691,0.732,5,-5.254,0,0.0532,0.197,7.32e-06,0.158,0.561,79.961,4,k-pop
+6mPet122yXpp6X8iTiNVo9,Anupam Roy,Mehman,Mehman,4,270937,False,0.603,0.783,6,-6.012,1,0.0486,0.131,4.16e-05,0.234,0.703,127.981,4,k-pop
+2FA4veLVh3jf7O8q5VhNh5,Loco;Hwa Sa,Somebody,Somebody!,68,177413,False,0.719,0.683,7,-6.081,1,0.0328,0.329,0.0,0.123,0.768,105.02,4,k-pop
+0WzODQag2H6Ob1JPOpSYSM,Raghu Dixit,Psycho (Original Motion Picture Soundtrack),Eno Ide,45,342230,False,0.639,0.373,1,-11.386,1,0.0334,0.847,0.0225,0.0938,0.404,125.96,4,k-pop
+20zr2Oef3PVeGRxjmSF5CC,j-hope,Hope World,Blue Side (Outro),65,90539,False,0.512,0.394,9,-10.202,0,0.0263,0.0149,0.901,0.309,0.083,80.522,4,k-pop
+7dEfa89dZfo6CQPdsgGCF6,RADWIMPS,Your Name.,Nandemonaiya - movie ver.,63,344053,False,0.496,0.462,6,-6.189,1,0.0307,0.245,0.0,0.282,0.514,167.936,4,k-pop
+1jxGBe4s8FwL2ZeNWszVuu,D.O.;Wonstein,공감 (Empathy) - The 1st Mini Album,I'm Gonna Love You,66,151733,False,0.519,0.445,0,-5.452,0,0.206,0.434,0.0,0.258,0.505,200.021,4,k-pop
+7nkp1uuSbKkoxMvEs8cSw0,PENTAGON,Positive,Shine,65,198795,False,0.74,0.804,3,-2.187,1,0.0546,0.411,0.0,0.0578,0.791,150.013,4,k-pop
+56sdcbPR74RxqmKVbQzJ8s,j-hope,Hope World,Daydream (백일몽),67,228759,False,0.749,0.961,8,-6.518,0,0.0874,0.00512,0.0,0.175,0.859,116.037,4,k-pop
+3KOUV9BDpWE9KwzD2FPguP,Jubin Nautiyal;Rashmi Virag;Meet Bros.,Bewafa Tera Muskurana,Bewafa Tera Muskurana,45,265090,False,0.568,0.837,1,-3.563,0,0.0598,0.401,0.0,0.0953,0.638,98.788,4,k-pop
+4kIpBfvK44bxqX7zo8K1oP,Gaho,ITAEWON CLASS (Original Television Soundtrack) Pt.2,시작,65,202440,False,0.591,0.818,4,-3.532,1,0.073,0.172,0.0,0.126,0.574,108.107,4,k-pop
+5XXJnC5TvcL2QsAZ3Nxgku,Suzy,당신이 잠든 사이에 Pt. 4 Original Television Soundtrack,I Love You Boy,58,264538,False,0.458,0.384,8,-5.045,1,0.0267,0.734,0.0,0.0985,0.157,148.21,3,k-pop
+3XZAvh2NCDQYHgJei35VQ1,Kep1er,DOUBLAST,Up!,73,192026,False,0.753,0.932,6,-2.706,1,0.119,0.0205,4.31e-06,0.0326,0.918,124.006,4,k-pop
+2dX2W20qzwqM6G910woDKo,Seori,Lovers In The Night,Lovers In The Night,61,210546,False,0.776,0.785,9,-4.085,0,0.058,0.295,0.000807,0.169,0.5,98.036,4,k-pop
+1Rw0Qt5vESmeQAt5SIgJxC,Raghu Dixit,Krishnarjuna Yudham,Urime Manase,44,277918,False,0.39,0.802,0,-3.816,1,0.0537,0.0632,8.54e-06,0.383,0.237,68.439,4,k-pop
+3xYfDSxJhRLDIb1fw71WTw,BTS,Love Yourself 結 'Answer',Best Of Me,59,227191,False,0.655,0.756,8,-4.388,1,0.07,0.0298,0.0,0.396,0.469,121.936,4,k-pop
+101QdafoK9zk4lB4vFO5Yy,Anuradha Paudwal,Aarti Vol-3,Aarti Kunj Bihari Ki,45,261587,False,0.528,0.748,1,-9.705,1,0.0542,0.583,0.0,0.364,0.845,130.125,4,k-pop
+17I6EnNrSXyyubLHrc3ifp,Anuradha Paudwal;Manhar Udhas,Sadak,Hum Tere Bin Kahin Reh Nahin Paate,45,491466,False,0.512,0.536,9,-11.832,0,0.048,0.888,0.00353,0.305,0.696,125.734,4,k-pop
+0J4aNOziXZL7uuDmCVB6yV,Yuvan Shankar Raja,Peasu (Original Motion Picture Soundtrack),Vennira Iravugal,44,283360,False,0.697,0.643,3,-6.394,1,0.0296,0.662,6.22e-05,0.0734,0.349,89.998,4,k-pop
+5btJjUxmhPK1cwdw0mnhRD,SECRET NUMBER,"Love, Maybe (A Business Proposal OST Part.5)","Love, Maybe",66,185000,False,0.519,0.726,11,-2.874,1,0.0446,0.518,0.0,0.116,0.453,171.97,4,k-pop
+2QRc8jYol5Xsxyf6nYoYXW,Jubin Nautiyal,Romantic Hits By Jubin Nautiyal,"Humnava Mere (From ""Humnava Mere"")",45,328992,False,0.4,0.553,5,-8.263,0,0.0337,0.471,2.96e-06,0.124,0.365,79.269,4,k-pop
+4WeyecjIbrtzxwJNciDXaL,Vidyasagar;Pushpa Sriram,Dhill (Original Motion Picture Soundtrack),Machan Meesai,44,291133,False,0.779,0.827,9,-8.12,0,0.116,0.299,0.000973,0.0243,0.863,123.96,4,k-pop
+3ZVKzrWt3efdPVLmiYdr6M,Yuvan Shankar Raja;Ranjith Govind,Anjaan (Original Motion Picture Soundtrack),Bang Bang Bang,44,250956,False,0.832,0.87,1,-5.328,1,0.0463,0.0575,0.0238,0.225,0.656,115.016,4,k-pop
+3JsQxnpgou52j7f5Jy3cPu,Yuvan Shankar Raja,Kazhugu 2 (Original Motion Picture Soundtrack),Adi Yendi Pulla,44,223255,False,0.681,0.477,5,-12.117,0,0.239,0.538,0.00501,0.156,0.452,172.047,4,k-pop
+1hciAV5LrrTkRV0g0StZ6h,BTS,Butter / Permission to Dance,Butter,71,164441,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0906,0.695,109.997,4,k-pop
+20MOKIGONywL5xIoB7RRAR,BLACKPINK,SQUARE TWO,WHISTLE - Acoustic Ver.,62,212419,False,0.844,0.462,1,-5.969,0,0.0421,0.804,0.0,0.0923,0.636,102.94,4,k-pop
+4cTSnpyaIR1qGaTOLJunDM,BTS,Wings,BTS Cypher 4,66,294463,False,0.817,0.797,1,-4.395,0,0.0839,0.00533,7.77e-06,0.0551,0.361,119.978,4,k-pop
+4mfj6ay93WO3lvTZ3jXYIR,Anuradha Paudwal,Shri Swami Samarth Taarkmantra,Niah Shank Hoi Re Mana,45,1345998,False,0.582,0.572,10,-7.739,1,0.0353,0.606,0.0,0.0905,0.812,156.966,3,k-pop
+1Pid7DPXjaGO7RvnmoyPhf,Yuvan Shankar Raja;Sadhana Sargam,Kalvanyn Kaadhali (Original Motion Picture Soundtrack),Eno Kangal,44,329826,False,0.784,0.786,1,-7.146,0,0.043,0.172,7.79e-06,0.0503,0.786,109.996,4,k-pop
+12gIiC7uS9fvSVTvu66YDO,AleXa;American Song Contest,Wonderland (From “American Song Contest”),Wonderland (From “American Song Contest”),63,164723,False,0.661,0.935,5,-2.217,0,0.0369,0.137,0.0,0.185,0.605,99.978,4,k-pop
+3qbSubaQIBgUM13S7kzWOd,Alka Yagnik;Udit Narayan,Raja (Original Motion Picture Soundtrack),Kisi Din Banoongi Main,45,438040,False,0.515,0.704,7,-9.627,0,0.0406,0.747,0.00265,0.349,0.898,89.052,4,k-pop
+19t5GSN3XsLB7UOsZD8Fwv,SEVENTEEN,"SEVENTEEN 2ND ALBUM 'TEEN, AGE' (2)",CLAP,67,167797,False,0.722,0.918,8,-2.952,1,0.0607,0.141,0.0,0.409,0.831,100.024,4,k-pop
+55ZCkYWwgwFAxLHB79DgYf,Punch,Hotel del Luna (Original Television Soundtrack) Pt.12,Done For Me,57,231555,False,0.467,0.453,8,-8.104,0,0.0405,0.694,0.0,0.111,0.241,135.302,4,k-pop
+5Z4aqpT39KpY8gbHoJWdou,MAMAMOO,RED MOON,Egotistic,64,196018,False,0.616,0.833,3,-3.314,0,0.067,0.315,0.0,0.175,0.595,97.898,4,k-pop
+5oGgavDARIAKitJAWh2Rdz,PSY,Fiesta de disfraces vol. II,Gentleman,0,194546,False,0.882,0.736,3,-2.892,0,0.116,0.00222,0.0,0.0515,0.582,125.995,4,k-pop
+4CTjTeRvp592sm54K0u8dI,Vidyasagar;S.Rajalakshmi,Kuruvi (Original Motion Picture Soundtrack),Palaanadhu Palaanadhu,45,251333,False,0.769,0.947,7,-3.791,1,0.0788,0.0142,0.0102,0.0919,0.678,128.957,4,k-pop
+7xuswKr3R30Cm46LbkOsno,BTS,Proof,Moon,63,208201,False,0.704,0.646,6,-6.658,1,0.0596,0.0104,0.0,0.219,0.64,141.87,4,k-pop
+0LSZbKPyg7reKZhbWR4Huo,Alka Yagnik;Kumar Sanu;Kavita Krishnamurthy,Bollywood Melody Queen (Alka Yagnik),"Mile Tum Se Bichhad Ke Hum (From ""Salaami"")",45,421266,False,0.511,0.662,7,-9.704,0,0.0414,0.562,0.0,0.348,0.858,107.245,4,k-pop
+7BiEgR5r0yMmFoWC9kOTGf,SEVENTEEN,SEVENTEEN 4th Album 'Face the Sun',DON QUIXOTE,68,172360,False,0.733,0.837,1,-4.537,1,0.0992,0.0671,0.0,0.0939,0.606,76.453,4,k-pop
+5TyCTVsBsHeeutZcU2uP5s,SEVENTEEN,SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN',Home,65,203731,False,0.741,0.547,9,-5.029,1,0.253,0.427,0.0,0.0931,0.615,87.977,4,k-pop
+26OVhEqFDQH0Ij77QtmGP9,TWICE,YES or YES,YES or YES,69,237680,False,0.702,0.913,11,-2.977,1,0.0374,0.0514,3.72e-06,0.166,0.735,137.981,4,k-pop
+6BufHx5yFQf2KRedlCIGOV,Anuradha Paudwal,Durga Chalisa Durga Kawach,Shree Durga Chalisa,46,497567,False,0.588,0.604,9,-6.754,1,0.0485,0.358,0.0,0.543,0.699,154.282,4,k-pop
+0Q53fuiKLGjDKD7Mme7EoQ,BTS,Proof,Danger,62,245810,False,0.734,0.848,1,-4.433,1,0.102,0.000913,0.000247,0.256,0.37,112.021,4,k-pop
+6k67RdkVjTZj79c1cRz7IQ,ATEEZ,TREASURE EP.FIN: All To Action,WONDERLAND,67,199013,False,0.572,0.964,4,-1.949,0,0.123,0.0503,0.0,0.372,0.519,129.979,4,k-pop
+1GBnWPY4XXbAbgHRbIWTaQ,T. M. Soundararajan,Suryakanthi,Paramasivan Kazhutthil,44,262466,False,0.285,0.572,1,-10.125,1,0.0567,0.782,0.0174,0.176,0.772,149.383,3,k-pop
+5gC5yDi7o5ukwt1eiIsniQ,Ilaiyaraaja;S. P. Balasubrahmanyam;P. Susheela;Malaysia Vasudevan,Dharmathin Thalaivan (Original Motion Picture Soundtrack),Thenmadurai Vaigai Nadhi,45,272533,False,0.793,0.329,9,-13.465,0,0.0586,0.974,0.123,0.057,0.608,133.206,4,k-pop
+0c7FsioJmeZhNOeeBxoApq,Ilaiyaraaja;K. J. Yesudas;S. Janaki,Uyarndha Ullam (Original Motion Picture Soundtrack),Yenge Yen Jeevane,45,299680,False,0.667,0.377,6,-14.625,1,0.0282,0.628,9.51e-05,0.0294,0.81,88.734,3,k-pop
+0xL3jzqMdIo6Aznb0BThZH,Ilaiyaraaja,Voice Of Isaignani Ilaiyaraja Vol -1,"Kannu Pada (From ""Chinna Gounder"")",44,259213,False,0.649,0.757,6,-7.511,1,0.0582,0.817,0.0,0.34,0.913,142.123,3,k-pop
+5bevVJ1zMWutZ3rQulAp62,Yuvan Shankar Raja,Taramani (Original Motion Picture Soundtrack),Yaaro Ucchikilai Meley,44,177866,False,0.646,0.756,8,-5.316,0,0.0446,0.0228,0.00638,0.14,0.503,179.998,4,k-pop
+2Qk3D872tEmCeSZ9lXIbbe,PSY,Halloween Party Canzoni per Bambini 2022,Gangnam Style (강남스타일),0,219493,False,0.727,0.937,11,-2.871,0,0.286,0.00417,0.0,0.091,0.749,132.067,4,k-pop
+5zoMXQmH7wTXiazGWgaY2X,Ilaiyaraaja;S. P. Balasubrahmanyam;S. Janaki,Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack),Maanam Idi Idikka,44,305866,False,0.415,0.346,2,-15.356,1,0.0512,0.852,0.000199,0.319,0.86,82.29,3,k-pop
+1kR4gIb7nGxHPI3D2ifs59,,,,0,0,False,0.501,0.583,7,-9.46,0,0.0605,0.69,0.00396,0.0747,0.734,138.391,4,k-pop
+237OjBs3wvamAFpHp0yItw,KAI,Peaches - The 2nd Mini Album,Peaches,65,198080,False,0.633,0.775,6,-3.747,1,0.0413,0.348,0.0,0.612,0.486,134.093,4,k-pop
+62Yo3FDddWY8ydu6PW2wyz,Jack Harlow,Nail Tech,Nail Tech,74,206385,True,0.677,0.557,1,-8.409,1,0.0694,0.00508,8.36e-06,0.0984,0.1,150.127,4,k-pop
+4RKJRRd4VJfZWiqQTYsleE,Jack Harlow;Chris Brown,Thats What They All Say,Already Best Friends (feat. Chris Brown),74,197031,True,0.873,0.575,10,-7.284,0,0.0702,0.0891,0.0,0.108,0.872,103.005,4,k-pop
+5mEqD00bdFcsiVd0MfvEeF,RADWIMPS,Your Name.,Dream lantern,63,131666,False,0.206,0.871,8,-5.751,1,0.419,0.0316,6.55e-05,0.0596,0.125,175.6,3,k-pop
+56Cmy1rCQ35V2Q7groYiHl,TAEYEON,Hotel del Luna (Original Television Soundtrack) Pt.3,그대라는 시,66,209482,False,0.533,0.292,9,-7.1,1,0.0364,0.914,0.0,0.118,0.472,135.624,4,k-pop
+3gFcGnU4kTdMYLXDjH1TK8,STAYC,YOUNG-LUV.COM,RUN2U,73,213426,False,0.722,0.676,11,-5.885,0,0.0829,0.000835,1.2e-05,0.321,0.362,129.943,4,k-pop
+6juLaduD4STCUDWT0AYun4,K/DA;Madison Beer;(G)I-DLE;Lexie Liu;Jaira Burns;Seraphine;League of Legends,MORE,MORE,72,217088,False,0.66,0.787,1,-4.592,0,0.032,0.00257,0.0,0.323,0.199,142.018,4,k-pop
+2ApfJvLr7RbhJl6NOVhEu6,BTS,Love Yourself 結 'Answer',Singularity,63,196998,False,0.775,0.272,1,-9.126,0,0.091,0.56,0.00278,0.112,0.198,103.991,3,k-pop
+2gvlPqqngL3BppFCwLXnVc,Red Velvet,START-UP (Original Television Soundtrack) Pt. 1,Future,62,215880,False,0.717,0.868,7,-3.073,1,0.04,0.438,0.0,0.148,0.552,100.005,4,k-pop
+3gAXVQOR0h7Ks71lsr5MFZ,BIBI,Animal Farm,Animal Farm,69,203945,False,0.617,0.57,5,-4.28,0,0.0308,0.0178,5.92e-06,0.55,0.375,107.971,3,k-pop
+0ErzcmZ2gIwX7X0xSMQPix,NCT;NCT U,NCT 2018 EMPATHY,BOSS,66,210641,False,0.787,0.543,10,-6.7,0,0.037,0.0233,0.0,0.0861,0.332,99.026,4,k-pop
+3Mz7i60GsWWLRyDeAIuCZA,SURAN,"Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack)",Heartbeat,55,232653,False,0.679,0.541,7,-5.132,1,0.0332,0.662,0.0,0.338,0.28,111.784,4,k-pop
+0Gqo96Ip963zIQjicXHXrj,Anuradha Paudwal;Udit Narayan,Dil,Hum Pyar Karne Wale,45,417280,False,0.359,0.562,1,-11.706,1,0.0434,0.877,0.00506,0.0837,0.519,92.685,4,k-pop
+158kubraiqKrcYpRsDHrBU,BTS,The Most Beautiful Moment in Life Pt.2,Autumn Leaves,65,267150,False,0.619,0.804,10,-3.301,0,0.0424,0.0135,0.0,0.127,0.314,104.978,4,k-pop
+58t0hestQdlxOHdz85AUyI,Anuradha Paudwal;Udit Narayan,Lucky: No Time For Love,Jaan Meri Ja Rahi Sanam,45,344413,False,0.627,0.466,7,-11.2,1,0.0294,0.705,4.66e-06,0.182,0.74,109.944,1,k-pop
+3d0mklnX9ezOrmlkZnJmoS,Charan Raj;Siddhartha Belmannu,Tagaru (Original Motion Picture Soundtrack),Balma,43,194000,False,0.594,0.567,0,-9.957,0,0.0384,0.139,4.9e-06,0.134,0.185,134.932,4,k-pop
+0xkVUkRIFnVfCSM8TckJWn,Yuvan Shankar Raja;Haricharan;Suchitra,Vel (Original Motion Picture Soundtrack),Ottraikkannale,44,244426,False,0.794,0.592,2,-11.053,0,0.0427,0.202,0.00859,0.101,0.913,99.973,4,k-pop
+5zHjZjhyibu8PF9RFSm5br,Bharan;Rahul Sukirana,Ayyo Devare - Ninna Nodutha,Ayyo Devare - Ninna Nodutha,42,252507,False,0.515,0.797,5,-4.7,0,0.0343,0.55,0.0,0.314,0.692,159.948,4,k-pop
+6ix68x3LqXv1teM1doynXU,Yuvan Shankar Raja;Dhanush;Chinna Ponnu;V.M. Mahalingam,Maari 2 (Original Motion Picture Soundtrack),Maari Gethu,44,226297,False,0.719,0.817,0,-8.511,1,0.0656,0.157,0.00509,0.483,0.645,92.444,4,k-pop
+4rvn5djkLdm5AT6b58pVS5,Anuradha Paudwal,Aarti-Om Jai Jagdish Hare,Om Jai Jagdish Hare,46,332558,False,0.531,0.837,1,-7.346,0,0.056,0.766,0.0,0.359,0.776,96.317,4,k-pop
+6boUblHda4QDKSGAM8wrxP,Dhanush,Pattas,Chill Bro,44,239989,False,0.73,0.904,7,-4.223,1,0.247,0.18,0.000348,0.121,0.464,160.07,4,k-pop
+1y6dEjheBdnopNo0xDXJ9P,"Car, the garden","Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",Scars leave beautiful trace,59,213946,False,0.479,0.535,11,-6.676,0,0.03,0.49,0.0,0.0923,0.21,82.024,4,k-pop
+52Af7bUm7zfhQ8qgWWEDMF,Jagjit Singh,Kaifi Azmi Ki Kalam Se,Jhuki Jhuki Si Nazar,44,302733,False,0.582,0.262,9,-14.212,0,0.0272,0.828,7.45e-05,0.0812,0.49,95.17,4,k-pop
+3YsCMGLIVo1yuTRL0MzUAl,MeloMance,A Business Proposal OST,"Love, Maybe",54,185000,False,0.402,0.731,8,-3.529,1,0.0693,0.508,0.0,0.146,0.631,171.594,4,k-pop
+7xceseyyaE9PY2A0VbYxuZ,Charan Raj;Sanjith Hegde,"Salaam Soldier (From ""James - Kannada"")","Salaam Soldier (From ""James - Kannada"")",43,196700,False,0.712,0.587,10,-10.096,0,0.0773,0.366,0.0,0.153,0.629,101.003,4,k-pop
+1ayaOin9hxCtyhg4UsBTpg,NCT 127,NCT #127 Neo Zone - The 2nd Album,Kick It,63,233013,False,0.681,0.847,7,-2.462,1,0.0869,0.0306,0.0,0.0808,0.507,167.031,4,k-pop
+2e0bcuLnzCkZlr7OFPVXjY,Yuvan Shankar Raja;Nandini Srikar;Sriram Parthasarathy;Thamarai,Valimai (Original Motion Picture Soundtrack),Enna Kurai,44,191999,False,0.6,0.464,0,-8.596,1,0.0261,0.505,0.00116,0.0644,0.407,114.927,4,k-pop
+7HjTSwnmkm6Q93H6MlTLB5,Anuradha Paudwal;Udit Narayan,Beta,Koyal Si Teri Boli,45,338840,False,0.687,0.45,0,-10.871,0,0.128,0.799,1.37e-05,0.411,0.934,76.17,4,k-pop
+0Vu5tjvXZX3qtzRiezxLi1,EVERGLOW,Return of The Girl,Pirate,65,210013,False,0.683,0.685,7,-5.381,1,0.0425,0.00195,0.0,0.0582,0.381,129.993,4,k-pop
+6lCxSGDrss8zFI87KhXtwM,Charan Raj;Ankita Kundu;Sanjith Hegde,"Naa Ninage Kaavalugaara (From ""James - Kannada"")","Naa Ninage Kaavalugaara (From ""James - Kannada"")",43,202425,False,0.582,0.411,8,-9.04,0,0.0372,0.899,2.1e-05,0.106,0.32,134.903,3,k-pop
+2BPXILn0MqOe5WroVXlvN1,AILEE,"Guardian (Original Television Soundtrack), Pt. 9",I Will Go To You Like the First Snow,66,229678,False,0.497,0.431,5,-4.755,0,0.0287,0.66,0.0,0.153,0.167,133.675,4,k-pop
+4XvaQOrwDalUlhAk8gvDGA,Yuvan Shankar Raja;Jassie Gift;Sangeetha,Happy (Original Motion Picture Soundtrack),Chirichukollunna Vande,43,217078,False,0.695,0.942,10,-4.827,0,0.17,0.0281,0.000121,0.315,0.659,149.907,4,k-pop
+2IUYqBfpHfQ5vWMNd0GpYb,Alka Yagnik;Udit Narayan,Mohra (With Jhankar Beats) [Original Motion Picture Soundtrack],Tip Tip Barsa Paani (With Jhankar Beats),44,360893,False,0.656,0.918,5,-9.747,0,0.0352,0.308,0.0103,0.0817,0.782,103.225,4,k-pop
+7G6WuVZuTbF6JcnA9wOvsD,IZ*ONE,Oneiric Diary,Secret Story of the Swan,66,192333,False,0.703,0.941,7,-0.995,0,0.0808,0.131,0.0,0.319,0.758,102.969,4,k-pop
+4Dr2hJ3EnVh2Aaot6fRwDO,IU,Love poem,Blueming,69,217053,False,0.819,0.674,0,-3.145,1,0.0587,0.0849,0.0,0.0667,0.682,106.032,4,k-pop
+2ZD3o9Lc8zMAT4KMXIMPqa,Ilaiyaraaja;Yuvan Shankar Raja,"Thattiputta (From ""Maamanithan"")","Thattiputta - From ""Maamanithan""",44,208204,False,0.716,0.444,4,-8.245,0,0.0405,0.329,1.63e-06,0.209,0.695,130.936,4,k-pop
+7rXAo8EAnXAZFVBZ4NCGPN,Ilaiyaraaja;M. M. Manasi,Maari 2 (Original Motion Picture Soundtrack),Maari’s Aanandhi,43,259591,False,0.637,0.357,0,-9.917,0,0.0246,0.584,0.0151,0.15,0.313,98.004,3,k-pop
+1EeX34DSvJ1aJgoPQdfc4j,Yuvan Shankar Raja;Ilaiyaraaja;Bela Shende,My Playlist: Yuvanshankar Raja,"Machaan Machaan (From ""Silambattam"")",44,324840,False,0.627,0.682,10,-10.807,0,0.0896,0.331,0.00188,0.127,0.817,173.967,4,k-pop
+7incJHhOl108CJBxylqc1z,BTS,MAP OF THE SOUL : 7,Intro : Persona,61,171023,False,0.486,0.871,9,-4.475,0,0.337,0.0278,0.0,0.313,0.659,85.411,4,k-pop
+1jcHOVANDK94K5UXQLs8Fz,Yuvan Shankar Raja;Karthi;Premgi Amaren;Priya Hemesh,Biriyani (Original Motion Picture Soundtrack),Mississippi,43,268893,False,0.899,0.389,8,-9.463,1,0.378,0.161,1.09e-05,0.141,0.366,88.0,4,k-pop
+3V2fMXzPJLkIQyRgwOLgip,KIMSEJEONG,"Love, Maybe (A Business Proposal OST Bonus Track)","Love, Maybe (Acoustic Ver.)",61,171680,False,0.614,0.513,10,-5.442,1,0.0291,0.482,0.0,0.114,0.336,86.005,4,k-pop
+6Kov45Llkzzv6jci8DyhHO,Ilaiyaraaja;S. Janaki,Kallukkul Eeram,Siruponmani Asaiyum,43,237184,False,0.46,0.533,0,-8.609,0,0.065,0.843,0.353,0.356,0.845,159.908,3,k-pop
+5MkFrM6BYPkq6CuoQWDfN5,Yuvan Shankar Raja;Silambarasan TR;Suchitra,Silambattam (Original Motion Picture Soundtrack),Vechukkava - Remix,43,282000,False,0.581,0.906,10,-7.15,1,0.115,0.124,0.164,0.103,0.943,152.84,4,k-pop
+6Jb8mIRgf0zqz4RUhD1ZMR,Yuvan Shankar Raja;Benny Dayal;Shweta Pandit,Anjaan (Original Motion Picture Soundtrack),Oru Kan Jaadai,43,262800,False,0.717,0.772,3,-6.544,0,0.0695,0.0154,1.91e-05,0.0584,0.757,149.984,4,k-pop
+7oGYa1wyKeGKzSg67jym6S,Alka Yagnik;Babul Supriyo,Chori Chori Chupke Chupke,Chori Chori Chupke Chupke - Chori Chori Chupke Chupke / Soundtrack Version,46,455000,False,0.6,0.72,9,-7.667,0,0.0466,0.62,1.98e-05,0.0594,0.585,94.95,4,k-pop
+2ULbJ2TtQzW5FjL8dXgVhH,Alka Yagnik,My Best Collection - Alka Yagnik,"Tune Zindagi Mein (Female Version) - From ""Humraaz""",45,313826,False,0.46,0.547,5,-12.599,0,0.0439,0.509,8.97e-05,0.252,0.657,171.638,4,k-pop
+1Q3efN4j9BavWtoMnbM6NM,Anuradha Paudwal;Kumar Sanu,Ultimate Romantic Duet - Kumar Sanu & Anuradha Paudwal,"Tumhein Apna Banane Ki Kasam Khai Hai (From ""Sadak"")",45,342560,False,0.534,0.433,0,-12.096,0,0.0353,0.889,0.0273,0.257,0.777,104.83,4,k-pop
+1hlT8F0X27uf3fpOWawjbY,BTS,Wings,Intro: Boy Meets Evil,64,121770,False,0.573,0.89,5,-3.53,0,0.214,0.0212,0.0,0.132,0.242,130.251,4,k-pop
+2I0LNCqlQpAPJlwOEWaefE,The Rose,Dawn,She's In The Rain,67,237576,False,0.507,0.533,3,-4.396,1,0.0264,0.379,0.0,0.0771,0.429,92.916,4,k-pop
+1iIhGHzzrzqQfuNkFI2qAn,ZICO,Any song,Any song,67,227226,False,0.874,0.787,10,-2.416,0,0.129,0.118,0.0,0.11,0.896,108.007,4,k-pop
+4fsQ0K37TOXa3hEQfjEic1,LE SSERAFIM,ANTIFRAGILE,ANTIFRAGILE,77,184444,False,0.882,0.797,10,-3.299,0,0.0819,0.0821,0.0,0.113,0.824,105.025,4,k-pop
+5cet87CL7mxBnBdnIbdHRy,Jubin Nautiyal;Raaj Aashoo,Ganesha,Ganesha,43,160604,False,0.69,0.941,1,-5.02,0,0.0798,0.135,0.0,0.22,0.52,137.989,4,k-pop
+7GX4s65YNmIi3rnlZanTlX,Jubin Nautiyal;Vishal Mishra;Raj Shekhar,"Darbadar (From ""Ittu Si Baat"")",Darbadar,43,200972,False,0.667,0.473,9,-10.316,0,0.0305,0.849,0.000626,0.0845,0.322,105.905,4,k-pop
+5BXr7hYZQOeRttkeWYTq5S,STAYC,STAYDOM,ASAP,70,194080,False,0.764,0.802,0,-4.217,1,0.0351,0.102,0.0,0.189,0.323,132.02,4,k-pop
+43X3q1VG5vn1njNJ6c599E,Jubin Nautiyal,"Mann Uda Uda Jaye (From ""Dear Dia"")","Mann Uda Uda Jaye - From ""Dear Dia""",43,246000,False,0.415,0.56,9,-6.385,0,0.0327,0.366,0.0,0.319,0.365,109.303,4,k-pop
+00Coyxt9mTec1acC52qtWa,TAEIL,Twenty-Five Twenty-One OST Part 1,Starlight,62,225817,False,0.643,0.735,2,-3.703,1,0.0302,0.0786,0.0,0.101,0.502,111.961,4,k-pop
+0KRSjRi3cEKMuFhAXKyd7d,Anupam Roy,Piku,Lamhe Guzar Gaye,45,258069,False,0.575,0.394,10,-9.913,1,0.0238,0.357,2.05e-05,0.153,0.271,94.936,4,k-pop
+2shyarF21wZvWew00TdaP3,D.O.,공감 (Empathy) - The 1st Mini Album,Rose - English Version,66,153706,False,0.616,0.395,0,-3.167,1,0.0607,0.379,0.0,0.0871,0.631,74.422,4,k-pop
+11uSCFBn6ng3O1LZNbIIwq,Alka Yagnik;Udit Narayan,Bade Miyan Chote Miyan (Original Motion Picture Soundtrack),Kisi Disco Mein Jaaye,45,327000,False,0.622,0.939,7,-9.091,0,0.0587,0.602,0.0181,0.158,0.961,170.058,4,k-pop
+1bt1DEAaMSDbKBzYWnaCS5,Sangeetha Rajeev,Thank You Maa,Thank You Maa,42,126147,False,0.705,0.568,4,-9.323,1,0.0324,0.596,0.000994,0.147,0.475,122.026,4,k-pop
+5aJfbWiKcwC4Fh7ymbKHHy,Raghu Dixit,Aanandam (Original Motion Picture Soundtrack),Khule Reston Pe,44,150261,False,0.559,0.425,9,-11.083,1,0.0438,0.84,0.00115,0.0972,0.29,161.89,4,k-pop
+2zpW5rbFlaURNzeO8Mrm0e,All Ok,Crazy,Crazy,42,154571,False,0.74,0.691,0,-7.437,1,0.0726,0.0216,0.000144,0.109,0.469,104.996,4,k-pop
+0sq2QUCf3ykmfYxjCDWcir,EVERGLOW,HUSH,Adios,64,189146,False,0.633,0.706,10,-5.137,0,0.0627,0.000588,0.0794,0.245,0.399,128.185,4,k-pop
+42tFTth2jcF7iSo0RBjfJF,Red Velvet,Perfect Velvet - The 2nd Album,Peek-A-Boo,67,189049,False,0.839,0.902,1,-3.612,0,0.0536,0.0868,0.00257,0.272,0.639,114.953,4,k-pop
+3nV2Yjy2aJjUl74p0tEfWf,ENHYPEN,Make the change,Make the change,61,187000,False,0.807,0.767,0,-3.643,1,0.0777,0.0308,0.0,0.285,0.855,110.994,4,k-pop
+26YSv4NFDACPUKGX5Aj079,JEON SOMI,XOXO,What You Waiting For,58,175375,False,0.779,0.656,8,-5.711,1,0.0641,0.0142,0.0,0.217,0.802,121.938,4,k-pop
+6SQUopvuZyrWYjYayxxSXl,Brave Girls,Rollin',Rollin',66,197746,False,0.691,0.859,1,-4.118,1,0.112,0.0302,0.0,0.165,0.541,124.958,4,k-pop
+2vThhzagG4by8ybBs3Q08v,JEON SOMI,XOXO,BIRTHDAY,56,185944,False,0.678,0.827,7,-4.894,1,0.106,0.0103,1.39e-05,0.0372,0.556,179.972,4,k-pop
+4JWbH50WabthGhmtduR8b9,BTS;Sia,MAP OF THE SOUL : 7,ON (Feat. Sia),60,246816,False,0.591,0.848,9,-4.396,0,0.0828,0.137,0.0,0.372,0.385,105.924,4,k-pop
+6SpPr7K4YQ2wp8jU6uOTmQ,Red Velvet,Queendom - The 6th Mini Album,Queendom,69,181760,False,0.695,0.896,5,-1.24,1,0.0847,0.179,0.0,0.0626,0.508,119.959,4,k-pop
+1zoyteFQmeUUqyOl2Xznpy,ENHYPEN,DIMENSION : DILEMMA,Tamed-Dashed,70,196170,False,0.568,0.809,11,-3.869,0,0.0517,0.000253,3.33e-05,0.151,0.709,155.029,4,k-pop
+45Be4Lnmu5fY9RdxV5vwVY,Yuvan Shankar Raja,Sarvam (Original Motion Picture Soundtrack),Katrukkulle,43,262506,False,0.807,0.594,5,-5.756,0,0.0306,0.419,0.00179,0.119,0.527,120.002,4,k-pop
+5np2ulL6Jx5AmG8fUU57H6,Dhanush,Power Paandi (Original Motion Picture Soundtrack),Venpani Malare (Ft.Dhanush),43,233736,False,0.671,0.417,0,-10.219,0,0.0428,0.836,0.000337,0.119,0.428,89.96,4,k-pop
+2h8WDN4coD8MliR1ffGwn3,Vidyasagar;K. J. Yesudas;Sujatha,Madhuranombarakkaattu (Original Motion Picture Soundtrack),Dwaadashiyil Mani Deepika,43,307514,False,0.535,0.538,5,-9.643,0,0.0532,0.237,4.08e-06,0.0803,0.69,91.641,4,k-pop
+3TkjPP3vmgUsHk1fGCWOyJ,Prem,Ammana Madilu,Bramha Vishnu Shiva,42,308879,False,0.625,0.595,4,-8.417,0,0.0411,0.336,0.0,0.436,0.466,142.619,3,k-pop
+6G90LzgrnF2p9pIdDzQGpn,Yuvan Shankar Raja;Sultan Khan,Yogi (Original Motion Picture Soundtrack),Yaarodu Yaaro,43,322786,False,0.756,0.796,11,-6.333,0,0.0646,0.218,0.0114,0.286,0.438,99.993,4,k-pop
+5hp6KZ2u1WpJGaqweRzCPh,Yuvan Shankar Raja;Shweta Pandit,Billa 2 (Original Motion Picture Soundtrack),Idhayam,43,244120,False,0.491,0.524,10,-6.926,1,0.0682,0.387,3.97e-05,0.0982,0.201,179.669,3,k-pop
+5S1saVRzd6CxpTCCRYsGIg,Yuvan Shankar Raja;Karthik,April Madhathil (Original Motion Picture Soundtrack),Manasae Manasae,43,285986,False,0.755,0.482,8,-8.645,1,0.0446,0.312,5.18e-05,0.118,0.205,105.023,4,k-pop
+6EWoLZ6n26bF3Cl9Hq3pqv,BTS,The Most Beautiful Moment in Life: Young Forever,I Need U,57,210577,False,0.485,0.897,5,-2.383,0,0.0678,0.0184,0.0,0.296,0.649,78.851,4,k-pop
+3V375E3xldRPEEcIKiw83l,G-DRAGON;ROSÉ,One of a Kind,Without You (Feat. ROSE),64,242677,False,0.6,0.678,11,-6.894,1,0.0372,0.0311,0.0,0.338,0.326,123.991,4,k-pop
+5NuVB4xs0kcjrFURjGILr6,Yuvan Shankar Raja;Srimathumitha,"Otha Paarvaiyil (From ""Kadamban"")","Otha Paarvaiyil - From ""Kadamban""",43,233076,False,0.514,0.829,5,-6.04,0,0.0817,0.208,5e-06,0.204,0.308,156.116,4,k-pop
+36V1wkm3tsV6iYQvGUPFEo,Alka Yagnik;Udit Narayan,Bollywood Melody Queen (Alka Yagnik),"Aa Kahin Dur Chale (From ""Laawaris"")",44,377160,False,0.609,0.666,4,-9.812,1,0.0377,0.477,0.000112,0.255,0.599,93.175,4,k-pop
+6E7jAJN2e3znSHyPCdQqx8,MAMAMOO,White Wind,gogobebe,63,195855,False,0.704,0.787,0,-3.114,1,0.082,0.114,0.0,0.228,0.707,96.929,4,k-pop
+0Mj9U4RrRSRKNAII5pHabQ,Vidyasagar;S. P. Sailaja;Suresh Peters,Jaihind (Original Motion Picture Soundtrack),Bothai Eripochu,42,263366,False,0.527,0.929,7,-5.582,0,0.161,0.23,4.45e-05,0.28,0.595,155.536,4,k-pop
+1WjGvMbHE23jEipydV80Mu,BTS,Love Yourself 結 'Answer',FAKE LOVE - Rocking Vibe Mix,59,238494,False,0.466,0.804,2,-4.009,0,0.0392,0.0573,0.0,0.432,0.352,154.901,4,k-pop
+2Cflk1MsD6Ke9MpYEmuxYo,T. M. Soundararajan,Divine Collections Saravana Bhavane,Muruganai Koopittu,43,197746,False,0.587,0.474,6,-11.776,1,0.0806,0.466,0.0,0.144,0.818,104.153,4,k-pop
+216Z9I1u4RTtOpOUVZ927K,Anuradha Paudwal;Kumar Sanu,Ultimate Romantic Duet - Kumar Sanu & Anuradha Paudwal,"Jaan - E - Jigar Jaaneman (From ""Aashiqui"")",44,312440,False,0.41,0.72,7,-7.675,0,0.0476,0.827,0.00123,0.338,0.728,82.133,4,k-pop
+2lW0sTZWrRWdzhZyOYje7r,Yuvan Shankar Raja;Hariharan;Suchitra;Vinaya,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Palakkattu Pakkathile,43,287706,False,0.748,0.858,7,-2.79,1,0.173,0.181,2.35e-06,0.114,0.8,95.011,4,k-pop
+4k2iYdpCZYH3eQX2bVKOku,BLACKPINK,'BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL - Live,DDU-DU DDU-DU (Live),55,210268,False,0.563,0.902,11,-4.634,0,0.194,0.0184,5.2e-06,0.368,0.364,139.939,4,k-pop
+1e45vYKAMljTZUQUotLdq2,BTS,Proof,Intro : Persona,62,171023,False,0.486,0.871,9,-4.475,0,0.337,0.0278,0.0,0.313,0.659,85.411,4,k-pop
+2xo84jGkxFPrZmmBtS3Pkd,Stray Kids,ODDINARY,Lonely St.,66,164853,False,0.686,0.825,7,-3.192,1,0.0582,0.248,0.0,0.0761,0.603,90.053,4,k-pop
+2af6mkiXvN3sKidbc2EAGr,Alka Yagnik;Abhijeet,Aap Mujhe Achche Lagne Lage,Aap Mujhe Achche Lagne Lage - Aap Mujhe Achche Lagne Lage / Soundtrack Version,45,432746,False,0.772,0.633,6,-9.397,0,0.0688,0.0197,0.000563,0.153,0.614,124.611,4,k-pop
+28xjm4FnnGI4Xnds7VoNSl,ATEEZ,TREASURE EP.3: One To All,Wave,63,203933,False,0.624,0.86,1,-3.346,1,0.0387,0.0886,1.1e-05,0.123,0.447,99.968,4,k-pop
+422rzxQzO9Q3FaeMhvgVY4,Yuvan Shankar Raja;Sruthi S,Taramani (Original Motion Picture Soundtrack),Unnai Unnai Unnai,43,176999,False,0.585,0.381,1,-9.393,1,0.0302,0.649,0.00634,0.104,0.209,79.93,4,k-pop
+6yN6AP2qkoGIjhF3VzUOkO,Alka Yagnik;Kumar Sanu,Kahin Pyaar Na Ho Jaaye (Original Motion Picture Soundtrack),Kahin Pyaar Na Ho Jaaye,44,318546,False,0.622,0.748,1,-7.73,1,0.0437,0.161,0.0,0.1,0.725,128.844,4,k-pop
+5kkgQsFJY5MVXChIfY0bl9,Yuvan Shankar Raja;KK;Sadhana Sargam,Dass,Sakka Podu,42,257743,False,0.806,0.633,0,-4.674,0,0.0487,0.289,0.0,0.169,0.74,103.06,4,k-pop
+4jUEHIrc443f743JbyLN0y,BLACKPINK,BLACKPINK IN YOUR AREA (Japanese Version),DDU-DU DDU-DU - Japanese Version,61,209493,False,0.703,0.845,11,-3.479,0,0.0682,0.0296,0.0,0.213,0.428,139.936,4,k-pop
+19MRAxznRvejs0DNu8MhoC,Yuvan Shankar Raja;Priya Hemesh,Kazhugoo (Original Motion Picture Soundtrack),Aathadi Manasudhan,43,309666,False,0.639,0.476,3,-7.675,0,0.043,0.138,0.0523,0.0865,0.353,160.093,4,k-pop
+3SlP2irItiBEPpOIiImU9m,Ilaiyaraaja;Sid Sriram,Psycho (Tamil) [Original Motion Picture Soundtrack],Neenga Mudiyuma,43,287258,False,0.498,0.239,0,-12.622,0,0.0327,0.864,0.0089,0.258,0.154,127.965,3,k-pop

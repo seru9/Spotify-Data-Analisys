@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2HZLXBOnaSRhXStMLrq9fD,Ghost,Seven Inches Of Satanic Panic,Mary On A Cross,88,244804,False,0.466,0.9,11,-4.469,1,0.0447,0.000235,0.00104,0.103,0.561,130.02,4,metal
+60a0Rd6pjrkxjPbaKzXjfq,Linkin Park,Hybrid Theory (Bonus Edition),In the End,85,216880,False,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,4,metal
+0WSa1sucoNRcEeULlZVQXj,Bring Me The Horizon,Sempiternal (Expanded Edition),Can You Feel My Heart,81,228146,True,0.15,0.859,4,-2.827,0,0.0595,0.00201,0.194,0.387,0.354,170.527,5,metal
+2nLtzopw4rPReszdYBJU6h,Linkin Park,Meteora,Numb,83,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,metal
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,84,354520,True,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,4,metal
+2RSzPRq4NKwTqnqapywvCH,Ghost,HÖST,Mary On A Cross,3,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+0LxGFgMi5Bv6q3vJ0aCnRX,Ghost,Rock & Halloween,Mary On A Cross,5,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+7x7i3XBKSM4AoLoPymDuh9,Ghost,Pumpkin Patch Hits,Mary On A Cross,0,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+5yOKRMs3V8PO5FgLx6WnlU,Ghost,Halloween Party 2022,Mary On A Cross,2,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+06Stw5UCrKYwPBxsTOfBtA,Ghost,Twisted Halloween Hits,Mary On A Cross,0,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+6CqHve8qCxKzEd3ciOy6xj,Slipknot,Rock Brandneu,Yen,3,285315,False,0.568,0.934,9,-4.428,1,0.107,0.000885,0.0297,0.36,0.319,137.005,4,metal
+2xOcbu4PTkikUk7Z8widN1,Ghost,LUGNA LÅTAR,Mary On A Cross,3,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+5CvERxbaeHHQA1OGJzeOzt,Ghost,Halloween Metal Nights,Mary On A Cross,2,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+2QHkMyf71kpkTiYYsp8qYO,Ghost,Rock & Halloween,Spillways,8,196946,False,0.575,0.868,5,-5.004,0,0.0319,0.000207,0.00294,0.0584,0.804,128.069,4,metal
+6QvYmrqFKRSVrcVgvoA7Ar,Red Hot Chili Peppers,All That Really Matters - Just Hits,Tippa My Tongue,4,260808,False,0.573,0.913,5,-6.52,0,0.0409,0.00861,0.0273,0.114,0.795,88.418,4,metal
+75fT19n6ZQHr67Mkh86qfD,Red Hot Chili Peppers,Rock Brandneu,Tippa My Tongue,2,260808,False,0.573,0.913,5,-6.52,0,0.0409,0.00861,0.0273,0.114,0.795,88.418,4,metal
+6lePhNNMArBmIlN6CcXV53,Ghost,Release Your ANGER,Faith,6,269706,False,0.355,0.823,9,-6.254,1,0.0517,0.000519,0.072,0.258,0.229,183.859,4,metal
+7JKeRODQpE6XSOkHUYJrc3,Ghost,Halloween 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,metal
+62pennq1pcVBFVW1b1CrFu,Red Hot Chili Peppers,Top of the Rock,Nerve Flip,0,186148,False,0.386,0.936,8,-4.005,1,0.0701,0.0121,1.6e-05,0.266,0.418,176.366,4,metal
+6vtcxMO8GBs1V0Jscy3DKA,Ghost,Halloween Party 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,metal
+4vzk2UltiJhQavDEOASIK9,Bon Jovi,80s Bangers Vol. 2,I'll Be There For You,3,346386,False,0.348,0.797,2,-3.929,1,0.038,0.0698,0.0,0.0876,0.279,146.737,4,metal
+1bOENKlPYEDXyH9kLFUsnj,Nickelback,Timeless Rock Hits,Animals,3,185906,False,0.569,0.963,7,-3.069,1,0.0593,0.000787,0.0256,0.22,0.82,76.995,4,metal
+4We0B3YSBF7utFlQtns2em,Bon Jovi,Обратно в клас - rock,Livin' On A Prayer,1,250626,False,0.527,0.89,0,-3.335,1,0.0338,0.0678,0.000162,0.222,0.818,122.494,4,metal
+1tRpraJDpEUl0HjnkMosqx,Red Hot Chili Peppers,Top of the Rock,Black Summer,3,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,metal
+3EAdkWngM7RifOu9kSH4cu,Ghost,Halloween Spooky Party 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,metal
+4xnB2yGAeXOuR3kJ9KTD3b,Red Hot Chili Peppers,Rock Brandneu,Nerve Flip,0,186148,False,0.386,0.936,8,-4.005,1,0.0701,0.0121,1.6e-05,0.266,0.418,176.366,4,metal
+5xUhs6dlfkcxZM8zq7riYF,Red Hot Chili Peppers,Tek It - New Noise,Black Summer,1,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,metal
+1c9MeAa2tLEoZl5osXf5Ts,Red Hot Chili Peppers,Kick It,Fire - Remastered,1,123800,True,0.421,0.986,11,-1.795,0,0.152,0.00482,0.0,0.295,0.263,105.83,4,metal
+2AEdT2ZKd14kzOouzdNOUj,Red Hot Chili Peppers,OK Boomers - Top Tunes,Californication,2,329733,False,0.592,0.765,9,-2.788,0,0.027,0.0021,0.00154,0.127,0.327,96.483,4,metal
+1OMyYLAtYUlAKmZjnDKNgP,Bon Jovi,Fiesta temática 90s,Say It Isn't So,1,213333,False,0.454,0.805,7,-4.947,1,0.0313,0.0229,0.0,0.358,0.591,91.251,4,metal
+3aoIw20fhjGMoXoQ38EbMS,Ghost,Halloween Metal Nights,Square Hammer,2,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,metal
+3YKMXuivrbHooUtf8jfEgS,Bon Jovi,Kick It,You Give Love A Bad Name,1,223146,False,0.532,0.964,0,-2.559,0,0.0519,0.0477,0.0,0.359,0.804,122.778,4,metal
+0VFk1Ofc6X7QHdVC9T71sK,Slipknot,Rock Brandneu,The Dying Song (Time to Sing),4,203586,False,0.516,0.991,11,-2.587,0,0.126,0.000467,4.66e-05,0.327,0.402,95.017,4,metal
+73a5aLqU9889tDoxBkxPEp,Ghost,Halloween 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,metal
+58yD1ZePlS6V4gImXGV8Ed,Red Hot Chili Peppers,Daily Pop Mix,Tippa My Tongue,0,260808,False,0.573,0.913,5,-6.52,0,0.0409,0.00861,0.0273,0.114,0.795,88.418,4,metal
+1kdumEk4vjB6LTjtp59YdL,Bon Jovi,80s Bangers Vol. 2,Bad Medicine,1,316520,False,0.529,0.982,9,-2.129,1,0.0368,0.0206,0.0,0.0807,0.792,118.668,4,metal
+5DEmBsouGyKFcoDbTrPMEZ,Ghost,Halloween Party 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,metal
+30iQzZHaIhA6ZWtFaQXYNw,Bon Jovi,Workout Hits 2023,Livin' On A Prayer,0,250626,False,0.527,0.89,0,-3.335,1,0.0338,0.0678,0.000162,0.222,0.818,122.494,4,metal
+3CKJz2XmcRBskVxbN3pit2,Slipknot,Metal,Duality,0,252613,False,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000301,0.204,0.194,143.79,4,metal
+0FrFqoPT7JB0ezIU9g2OLC,Deftones,Metal,Ohms,0,250222,False,0.112,0.978,4,-2.64,1,0.117,0.000108,0.0241,0.117,0.371,173.097,3,metal
+1Bno2DWL2kmfiy1V5OlmCz,Bon Jovi,Fishing Music,Wanted Dead Or Alive,2,308560,False,0.265,0.818,7,-3.553,1,0.0393,0.0774,0.024,0.323,0.251,150.332,4,metal
+1tsk7uFjknRB3crWOHdfZQ,Bon Jovi,Rock Workout 2023,Livin' On A Prayer,2,250626,False,0.527,0.89,0,-3.335,1,0.0338,0.0678,0.000162,0.222,0.818,122.494,4,metal
+3UHsjDehR19ONOLZF0eScQ,Ghost,Halloween Spooky Party 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,metal
+54U8KseFLbjpPYfq2DEB7B,Bon Jovi,80s Bangers Vol. 1,You Give Love A Bad Name,2,223146,False,0.532,0.964,0,-2.559,0,0.0519,0.0477,0.0,0.359,0.804,122.778,4,metal
+0v8tmDMQrTMavluubqAJo4,Red Hot Chili Peppers,80s Bangers Vol. 2,Higher Ground - Remastered,1,202053,False,0.476,0.979,4,-3.504,0,0.133,0.00142,0.00686,0.0944,0.394,140.408,4,metal
+5HNau9WX6OmX2PcBn3n24r,Red Hot Chili Peppers,20's Rock,Black Summer,0,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,metal
+12cG3BUpk6PzLAzWK0mryO,Red Hot Chili Peppers,Alternative Rock Mixtape,By the Way,2,215666,False,0.441,0.986,0,-2.466,1,0.116,0.038,0.000781,0.0998,0.184,123.974,4,metal
+47dUWyurHWefCpINwcvit2,Red Hot Chili Peppers,Pop Hits Now,Black Summer,0,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,metal
+02ocOpp3OlYjjFvhvBDljE,Slipknot,Metal Lives!,Duality,0,252613,False,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000301,0.204,0.194,143.79,4,metal
+4nzIpIeHWiuFQnOV5ZELnj,Deftones,Metal Lives!,Ohms,0,250222,False,0.112,0.978,4,-2.64,1,0.117,0.000108,0.0241,0.117,0.371,173.097,3,metal
+6k0X05danQOXSBTVek5DU1,SiM,The Rumbling,The Rumbling,73,220799,False,0.459,0.878,5,-1.399,0,0.0688,5.62e-05,0.000307,0.371,0.494,144.852,4,metal
+4xDwCYhobDehSBGUmd5H6Y,The Plot In You,DISPOSE,FEEL NOTHING,76,216826,True,0.448,0.825,4,-5.307,0,0.0621,0.00353,0.0,0.108,0.226,144.17,4,metal
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets (Remastered),Master Of Puppets,81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,metal
+1r1fPuhj9H4VdXr7OK6FL5,Linkin Park,LIVING THINGS,CASTLE OF GLASS,73,205400,False,0.615,0.911,1,-3.584,0,0.0278,0.0686,0.00188,0.0908,0.685,108.0,4,metal
+77loZpT5Y5PRP1S451P9Yz,Hoobastank,The Reason (15th Anniversary Deluxe),The Reason,81,232800,False,0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,4,metal
+0v1XpBHnsbkCn7iJ9Ucr1l,Bon Jovi,Crush,It's My Life,80,224493,False,0.551,0.913,0,-4.063,0,0.0466,0.0263,1.35e-05,0.347,0.544,119.992,4,metal
+7oVEtyuv9NBmnytsCIsY5I,Linkin Park,LIVING THINGS,BURN IT DOWN,75,230253,False,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,4,metal
+4wfyFIRnxdIN0v4OGtXcX3,Linkin Park,Minutes to Midnight,What I've Done,58,205613,False,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,4,metal
+0AOmbw8AwDnwXhHC3OhdVB,Thousand Foot Krutch,The End Is Where We Begin,Courtesy Call,72,236898,False,0.531,0.638,11,-5.145,0,0.0809,0.00409,0.0,0.0822,0.445,164.079,4,metal
+6QDAJvROnF636DZ5ApeIuR,KISS,Rock & Halloween,Hell Or High Water,1,207066,False,0.57,0.939,5,-7.177,0,0.0701,0.155,0.0,0.633,0.538,117.322,4,metal
+3SwBBFgL0XMK9u0v9H6aXq,KISS,Best 70s Rock Tunes,Shandi,0,216866,False,0.533,0.771,4,-6.512,1,0.028,0.0883,0.0,0.0428,0.853,103.262,4,metal
+4kLIAQN2z1Uh0NvpNgz6jF,KISS,Rock & Halloween,Rock And Roll All Nite,1,175853,False,0.54,0.926,1,-6.205,1,0.162,0.0191,0.0,0.651,0.686,144.8,4,metal
+4LgWrfYiwdstak9a4i6DZw,KISS,Rock & Halloween,Detroit Rock City - Edit,1,215527,False,0.521,0.954,5,-3.556,1,0.0909,0.0295,5.02e-05,0.25,0.45,90.545,4,metal
+18lSBq4bUQg32GeQ8gIu1e,Shinedown,Rock - Best of 2022,Planet Zero,6,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+3tqEDIkPhrv2AgXjQHKIwj,Disturbed,Rock Brandneu,Hey You,1,268481,False,0.5,0.982,1,-3.496,1,0.0727,4.72e-05,4.28e-05,0.0447,0.507,103.033,4,metal
+2aX1zws7bVjTLbS1cYZK2W,Scorpions,Fishing Music,Wind Of Change,0,311240,False,0.429,0.63,0,-7.392,1,0.0329,0.078,0.0,0.104,0.211,151.627,4,metal
+5cOdPnKDyhdFnB6X3V3JkK,Evanescence,Twisted Halloween Hits,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+6mopp3XBL0cu6odV7RhVWy,KISS,Halloween Metal Nights,Creatures Of The Night,1,242533,False,0.497,0.983,5,-5.19,0,0.109,8.3e-05,0.0145,0.119,0.0693,121.397,4,metal
+4x0syYhWwD6zafzXsQXa1t,KISS,80s Bangers Vol. 2,Heaven's On Fire,1,200933,False,0.627,0.909,0,-4.731,1,0.0658,0.000957,7.03e-05,0.336,0.697,124.313,4,metal
+6buVxRwPapLwrXwIsTiSfm,Disturbed,Metal,Hey You,0,268481,False,0.5,0.982,1,-3.496,1,0.0727,4.72e-05,4.28e-05,0.0447,0.507,103.033,4,metal
+4MiLgByToEVhuGwc6MrSIX,Breaking Benjamin,Halloween Metal Nights,Blood,3,189120,True,0.477,0.973,4,-2.731,0,0.0766,3.81e-05,3.3e-05,0.289,0.288,90.519,4,metal
+0Bhf80gwbCronwcRHW8EZF,Evanescence,Rock & Halloween,Bring Me To Life,2,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+30NeE5qu2FrSkXQMra1WED,KISS,Rock Workout 2023,Rock And Roll All Nite,1,175853,False,0.54,0.926,1,-6.205,1,0.162,0.0191,0.0,0.651,0.686,144.8,4,metal
+69DkySvtBDM4Czz2lHx6gw,Scorpions,Artsy & Colourful,Wind Of Change,0,311240,False,0.429,0.63,0,-7.392,1,0.0329,0.078,0.0,0.104,0.211,151.627,4,metal
+10UmwJAOxFM9XdTp6stN1i,Evanescence,Halloween Spooky Party 2022,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+36NQtTNiBpURnyDasqNsCf,Shinedown,Top of the Rock,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+4bh9zPGpEX1yl9Do6rkhHr,Shinedown,Rock Brandneu,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+6GwXhxrjTEVuBZC7jnB7f1,Disturbed,Metal Lives!,Hey You,0,268481,False,0.5,0.982,1,-3.496,1,0.0727,4.72e-05,4.28e-05,0.0447,0.507,103.033,4,metal
+1cz1Z22xmJQaALUgUXzUaq,Disturbed,Timeless Rock Hits,Land of Confusion,1,287066,False,0.553,0.991,8,-3.703,1,0.0925,4.44e-05,0.0729,0.179,0.324,114.919,4,metal
+4SmpAA1iwwFw9hQ5FmYLuq,Avenged Sevenfold,Metal,Hail to the King,0,305906,False,0.58,0.916,3,-4.357,0,0.0387,0.000295,0.0255,0.126,0.68,118.002,4,metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,metal
+5Z2iVSDPvCScP5M5atIt5v,Shinedown,Metal,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+5u4jJAAD6jd0Z741eT7XGP,Volbeat,Twisted Halloween Hits,The Devil's Bleeding Crown,0,238653,False,0.321,0.909,11,-4.612,1,0.041,1.62e-05,0.139,0.0442,0.209,109.653,3,metal
+6t1wUup2mF3IpJhMfAwoDl,Disturbed,Just Best Covers,If I Ever Lose My Faith In You,0,274055,False,0.379,0.562,10,-8.078,1,0.0376,0.0741,1.17e-05,0.137,0.172,173.861,4,metal
+2vU6bm5hVF2idVknGzqyPL,The Offspring,Alternative Christmas 2022,Christmas (Baby Please Come Home),0,187355,False,0.437,0.878,0,-4.687,1,0.0452,0.0112,0.0,0.126,0.623,128.043,4,metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,metal
+29RiulWABWHcTRLkDqVCl1,Korn,Metal,Rotting in Vain,0,213000,True,0.498,0.946,2,-4.792,1,0.0602,0.000121,2.53e-05,0.359,0.31,106.276,4,metal
+5jTnpbclNqXTV4trZSjoJE,Shinedown,20's Rock,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+4eCQkJy0Gq9i5lQqOJcVKN,Avenged Sevenfold,Metal Lives!,Hail to the King,0,305906,False,0.58,0.916,3,-4.357,0,0.0387,0.000295,0.0255,0.126,0.68,118.002,4,metal
+6RLT4oQWaW3WiBmuTFBZnI,Volbeat,Halloween Spooky Party 2022,The Devil's Bleeding Crown,0,238653,False,0.321,0.909,11,-4.612,1,0.041,1.62e-05,0.139,0.0442,0.209,109.653,3,metal
+1EeI6tvN2c7erYcOdM0Ljp,Disturbed,20's Rock,If I Ever Lose My Faith In You,0,274055,False,0.379,0.562,10,-8.078,1,0.0376,0.0741,1.17e-05,0.137,0.172,173.861,4,metal
+7IMnJ5f7mRoGTtf8TPAILw,Volbeat,Halloween Party 2022,The Devil's Bleeding Crown,0,238653,False,0.321,0.909,11,-4.612,1,0.041,1.62e-05,0.139,0.0442,0.209,109.653,3,metal
+6jmbmsPYXhA0HHQ7LSxvyD,Shinedown,Metal Lives!,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,metal
+0nI0q4NuoOIskGNRizI6vs,Korn,Metal Lives!,Rotting in Vain,0,213000,True,0.498,0.946,2,-4.792,1,0.0602,0.000121,2.53e-05,0.359,0.31,106.276,4,metal
+12sPGeSWgxY2zpPupFYIrZ,Volbeat,Halloween Spooky Party 2022,Sorry Sack Of Bones,0,228666,True,0.407,0.954,7,-3.753,1,0.0532,0.000629,0.186,0.0545,0.454,171.988,4,metal
+2UzNyk6tBmMaXf1dphGUo0,Volbeat,Halloween Metal Nights,The Devil's Bleeding Crown,0,238653,False,0.321,0.909,11,-4.612,1,0.041,1.62e-05,0.139,0.0442,0.209,109.653,3,metal
+12xfRpp5r3akA2BZFPEVwv,Volbeat,Halloween Metal Nights,Heaven Nor Hell,1,322613,False,0.411,0.767,3,-4.211,1,0.056,0.000621,0.00842,0.134,0.659,134.408,4,metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,metal
+0nLiqZ6A27jJri2VCalIUs,Metallica,Metallica,Nothing Else Matters,80,388266,False,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,3,metal
+2DlHlPMa4M17kufBvI2lEN,System Of A Down,Toxicity,Chop Suey!,83,210240,False,0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,4,metal
+104buTcnP2AsxqB7U1FIZ4,Linkin Park;Kiiara,One More Light,Heavy (feat. Kiiara),69,169800,True,0.59,0.671,9,-6.098,1,0.0706,0.0484,0.0,0.0604,0.438,149.982,4,metal
+3YRCqOhFifThpSRFJ1VWFM,Guns N' Roses,Use Your Illusion I,November Rain,81,536066,False,0.294,0.641,11,-9.316,1,0.0291,0.0163,0.22,0.112,0.226,79.759,4,metal
+2FML7gk7ac6quGFIjvkDb3,Avenged Sevenfold,Avenged Sevenfold,Dear God,68,393480,False,0.472,0.772,5,-5.928,1,0.0316,0.00658,5.65e-05,0.132,0.6,139.993,4,metal
+5sICkBXVmaCQk5aISGR3x1,Metallica,Metallica,Enter Sandman,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,metal
+3FQCJI2t5LTbsRPfYVBSVB,Linkin Park,One More Light,Battle Symphony,64,216281,False,0.653,0.839,10,-5.077,1,0.0685,0.0369,0.0,0.068,0.669,149.034,4,metal
+78gsvivelCP8Kh0tSRTy8D,Linkin Park,Minutes to Midnight,Bleed It Out,58,164760,True,0.542,0.932,4,-4.896,1,0.05,0.0747,0.0,0.613,0.698,140.135,4,metal
+37ZJ0p5Jm13JPevGcx4SkF,Bon Jovi,Slippery When Wet,Livin' On A Prayer,85,249293,False,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511,4,metal
+3fjmSxt0PskST13CSdBUFx,Linkin Park,Meteora (Bonus Edition),Somewhere I Belong,73,213933,False,0.451,0.951,1,-3.754,1,0.0645,0.00038,2.39e-06,0.261,0.442,162.065,4,metal
+3K4HG9evC7dg3N0R9cYqk4,Linkin Park,Hybrid Theory (Bonus Edition),One Step Closer,78,157333,False,0.492,0.969,9,-4.419,1,0.0491,0.0014,1.32e-06,0.0787,0.538,95.136,4,metal
+4Yf5bqU3NK4kNOypcrLYwU,Linkin Park,Meteora,Faint,77,162600,False,0.554,0.978,4,-3.554,1,0.131,0.111,0.0,0.0731,0.594,135.095,4,metal
+4vJfxpYeM088ddkHtSNqP1,Evanescence,Rock & Halloween,Haunted,3,185440,False,0.37,0.861,4,-4.588,0,0.0625,0.00959,0.00449,0.107,0.16,155.671,4,metal
+2Lkn3Of9JHY6RSA8c3omKT,3 Doors Down,Обратно в клас - rock,Here Without You,0,238560,False,0.556,0.545,10,-6.768,0,0.0255,0.0635,0.0,0.124,0.193,143.991,4,metal
+7M62cpl1L8v53XwfCZ2GYD,Skillet,Rock - Best of 2022,Surviving the Game,4,238870,False,0.535,0.979,8,-3.593,1,0.0597,0.000666,0.0,0.084,0.432,103.996,4,metal
+74NANS3BFQRnpz3S0JVg5o,3 Doors Down,Emo Christmas 2022,It's Not My Time - Acoustic,0,238373,False,0.674,0.58,0,-8.081,1,0.0312,0.311,2.41e-05,0.198,0.305,128.003,4,metal
+4Ql5Q06HoJeQmpIBl9TngL,Evanescence,Helloween Party,Bring Me To Life,2,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+5ugV3rhvi2h6l52e1cIfLw,3 Doors Down,Fishing Music,Kryptonite,0,234626,False,0.544,0.848,11,-6.804,0,0.0288,0.00395,5.22e-05,0.134,0.489,99.039,4,metal
+1aL952bo0KZTPevSl3207C,3 Doors Down,Rock Workout 2023,Kryptonite,1,234626,False,0.544,0.848,11,-6.804,0,0.0288,0.00395,5.22e-05,0.134,0.489,99.039,4,metal
+5SqrY9AWeRXqwgLCnLO2A0,Evanescence,Halloween 2022,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+4U1WGnRxI57j3Ebi9A3HtD,Marilyn Manson,TOKYO - HALLOWEEN -,アイ・プット・ア・スペル・オン・ユー,0,216735,True,0.611,0.801,11,-5.894,0,0.0733,0.00119,0.513,0.23,0.408,96.875,3,metal
+6Jb8PXvsr5VGF0kewMXmaQ,Marilyn Manson,Twisted Halloween Hits,I Put A Spell On You,0,216735,True,0.611,0.801,11,-5.894,0,0.0733,0.00119,0.513,0.23,0.408,96.875,3,metal
+1Vl9pXCmq6m2FbpxqHptTY,The Smashing Pumpkins,Rock & Halloween,Bullet With Butterfly Wings - Remastered 2012,2,257812,False,0.395,0.751,10,-8.547,0,0.0618,5.71e-05,0.838,0.0725,0.455,121.561,4,metal
+2YIm6Yfa0C3IxkRHDQdk1d,Skillet,Top of the Rock,Surviving the Game,0,238870,False,0.535,0.979,8,-3.593,1,0.0597,0.000666,0.0,0.084,0.432,103.996,4,metal
+24TdORdiwpuE1EH7fh1fNQ,Evanescence,Halloween Scary Party,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+0LvONfXemxF8eUKovfhZdH,Skillet,Metal,Feel Invincible,0,229933,False,0.603,0.886,5,-3.777,0,0.0837,0.00045,0.0,0.26,0.395,126.027,4,metal
+0lpdGobBIXUFiPaZpDR1Bj,Skillet,Rock Brandneu,Surviving the Game,0,238870,False,0.535,0.979,8,-3.593,1,0.0597,0.000666,0.0,0.084,0.432,103.996,4,metal
+1GaLQ64H7Df0HG2cIOXy5i,Evanescence,Halloween Party 2022,Haunted,0,185440,False,0.37,0.861,4,-4.588,0,0.0625,0.00959,0.00449,0.107,0.16,155.671,4,metal
+7nW4aS5AeIP0jfoY8ZvlsL,Evanescence,Kick It,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+1ko2iL09yVsV57V1Z616KP,Evanescence,Halloween Party Canzoni per Bambini 2022,Bring Me To Life,0,235893,False,0.318,0.943,4,-3.188,0,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+2dHFbe42W3zlzLRbjvvbp3,Marilyn Manson,Halloween Metal Nights,The Beautiful People,1,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+3otBSe8dnJMNDRE9AhSm0T,Marilyn Manson,Pumpkin Patch Hits,The Beautiful People,0,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+3mJV4kByjmgU3ubU7JPp9W,Marilyn Manson,Halloween 2022,You And Me And The Devil Makes 3,0,264266,False,0.596,0.964,2,-5.754,1,0.0804,9.52e-05,0.834,0.203,0.399,128.021,4,metal
+1f9jv3jIHqwZhVW7NMAgYN,Pantera,Groove Metal Roots & Branches,Mouth for War,1,236720,False,0.361,0.97,8,-5.69,0,0.0837,6.58e-06,0.000162,0.039,0.561,156.96,4,metal
+7gu4nfoJkzmRsATBRjNCWI,Marilyn Manson,Twisted Halloween Hits,WE ARE CHAOS,0,240213,True,0.373,0.857,0,-3.546,1,0.0528,0.000999,0.00138,0.408,0.235,137.084,4,metal
+3AjZqmRivJhEVqbliY3yJa,Marilyn Manson,Anthems for Witches 2022,I Put A Spell On You,1,216735,True,0.611,0.801,11,-5.894,0,0.0733,0.00119,0.513,0.23,0.408,96.875,3,metal
+4eMjf9FgbmFQ6yHZD5EsgX,Skillet,Metal Lives!,Feel Invincible,0,229933,False,0.603,0.886,5,-3.777,0,0.0837,0.00045,0.0,0.26,0.395,126.027,4,metal
+0ttfJZcKq7E7NcIldlogbn,Marilyn Manson,Twisted Halloween Hits,The Beautiful People,0,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+3S3MAk28b2evnivIWkDshP,Marilyn Manson,Halloween Metal Nights,The Fight Song,1,177440,True,0.499,0.983,1,-3.662,0,0.0882,0.000123,0.000246,0.0728,0.0378,129.903,4,metal
+41f2eGe9sdVQ56ZjRRrowP,Marilyn Manson,Rock & Halloween,Sweet Dreams (Are Made Of This),2,293293,False,0.221,0.664,0,-5.242,0,0.0379,0.0039,0.657,0.239,0.101,186.044,4,metal
+4fdy3vg2bCXU6L77vC6li8,The Smashing Pumpkins,Alternative Christmas 2022,Christmastime,0,196723,False,0.165,0.434,0,-8.163,1,0.0288,0.316,0.171,0.213,0.186,77.983,3,metal
+2Z2vcMJMq1SFmteHzxJoey,Marilyn Manson,Happy Haunted Halloween Tunes,The Beautiful People,1,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+7LyODTwVRK0KN0615tcBPq,Marilyn Manson,Halloween Scary Party,The Beautiful People,0,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+7Bcjjhemjq1HxoWkTw4X6O,Marilyn Manson,Halloween Spooky Party 2022,The Beautiful People,0,222773,True,0.609,0.948,9,-4.938,1,0.113,0.00404,0.0978,0.042,0.786,144.037,4,metal
+6YrAf4oXHqLg0ZANlUMz6y,Marilyn Manson,Pop & Halloween,Sweet Dreams (Are Made Of This),2,293293,False,0.221,0.664,0,-5.242,0,0.0379,0.0039,0.657,0.239,0.101,186.044,4,metal
+0PSKFp3zoNmJzDsOHeLV6l,The Smashing Pumpkins,Alternative Christmas 2022,Christmastime,0,196723,False,0.165,0.434,0,-8.163,1,0.0288,0.316,0.171,0.213,0.186,77.983,3,metal
+6U0KYAZFsPxLxc0x0bt7zl,Marilyn Manson,Halloween Party 2022,You And Me And The Devil Makes 3,0,264266,False,0.596,0.964,2,-5.754,1,0.0804,9.52e-05,0.834,0.203,0.399,128.021,4,metal
+0WK1p8CduOKInJdZcjDy5A,Marilyn Manson,Twisted Halloween Hits,Sweet Dreams (Are Made Of This),0,293293,False,0.221,0.664,0,-5.242,0,0.0379,0.0039,0.657,0.239,0.101,186.044,4,metal
+0JtccJIQR0zb4t2SSdsGeN,Marilyn Manson,Halloween Scary Party,Sweet Dreams (Are Made Of This),0,293293,False,0.221,0.664,0,-5.242,0,0.0379,0.0039,0.657,0.239,0.101,186.044,4,metal
+40dr3CZGx83RL6ADIC7xvv,Marilyn Manson,Halloween Spooky Party 2022,Sweet Dreams (Are Made Of This),0,293293,False,0.221,0.664,0,-5.242,0,0.0379,0.0039,0.657,0.239,0.101,186.044,4,metal
+0COqiPhxzoWICwFCS4eZcp,Evanescence,Fallen,Bring Me To Life,82,235893,False,0.331,0.943,4,-3.188,0,0.0698,0.00721,2.06e-06,0.242,0.296,94.612,4,metal
+3NLrRZoMF0Lx6zTlYqeIo4,3 Doors Down,Away From The Sun,Here Without You,76,238733,False,0.557,0.533,10,-6.817,0,0.0252,0.0492,0.0,0.205,0.233,143.994,4,metal
+58AS4weYlUWvGztZbKIuAU,Linkin Park,Minutes to Midnight,Leave Out All The Rest,55,209306,False,0.514,0.637,0,-6.418,1,0.0363,0.213,2.24e-06,0.389,0.18,80.401,4,metal
+3MrRksHupTVEQ7YbA0FsZK,Europe,The Final Countdown (Expanded Edition),The Final Countdown,78,310333,False,0.529,0.843,6,-6.908,0,0.0616,0.0628,0.000827,0.0608,0.188,117.662,4,metal
+6Wx88Mv6b9ofjKMKkdwOJd,Linkin Park,Transformers: Revenge Of The Fallen The Album,New Divide,70,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,metal
+48UPSzbZjgc449aqz8bxox,Red Hot Chili Peppers,Californication (Deluxe Edition),Californication,82,329733,False,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,4,metal
+0snQkGI5qnAmohLE7jTsTn,System Of A Down,Toxicity,Toxicity,81,218933,False,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68,3,metal
+3ovjw5HZZv43SxTwApooCM,Scorpions,Crazy World,Wind Of Change,79,312360,False,0.452,0.524,0,-10.108,1,0.0351,0.315,0.0,0.103,0.246,151.505,4,metal
+2aibwv5hGXSgw7Yru8IYTO,Red Hot Chili Peppers,Stadium Arcadium,Snow (Hey Oh),80,334666,False,0.427,0.9,11,-3.674,1,0.0499,0.116,1.75e-05,0.119,0.599,104.655,4,metal
+2UREu1Y8CO4jXkbvqAtP7g,Skillet,Awake,Monster,77,178013,False,0.64,0.957,8,-2.336,1,0.0741,0.0431,0.0,0.0789,0.692,134.992,4,metal
+57BrRMwf9LrcmuOsyGilwr,Linkin Park,Hybrid Theory (Bonus Edition),Crawling,76,208960,False,0.58,0.702,4,-5.565,1,0.0337,0.0466,3.2e-06,0.536,0.299,105.076,4,metal
+7wdwIaXUuzlu1grzWMFRJm,Ghost,[MESSAGE FROM THE CLERGY],Mary On A Cross,75,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,metal
+2oNYsdCasRRlz1shXFAz7D,Linkin Park,LIVING THINGS,LOST IN THE ECHO,67,205120,False,0.546,0.98,9,-3.02,0,0.0619,0.0154,0.0,0.31,0.478,120.037,4,metal
+0rmGAIH9LNJewFw7nKzZnc,Bon Jovi,Slippery When Wet,You Give Love A Bad Name,82,222706,False,0.541,0.96,0,-2.947,0,0.0505,0.0663,2.25e-06,0.344,0.812,122.803,4,metal
+0bVtevEgtDIeRjCJbK3Lmv,Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,80,272026,True,0.447,0.954,8,-8.069,1,0.0751,0.0235,0.403,0.298,0.331,123.453,4,metal
+42T2QQv3xgBlpQxaSP7lnK,Creed,Weathered,One Last Breath,72,238240,False,0.386,0.677,2,-5.83,1,0.0346,0.00841,0.00366,0.341,0.195,126.602,4,metal
+3YBZIN3rekqsKxbJc9FZko,Guns N' Roses,Appetite For Destruction,Paradise City,79,405640,True,0.273,0.952,11,-8.762,1,0.0843,0.0169,0.0111,0.142,0.472,100.271,4,metal
+4JiEyzf0Md7KEFFGWDDdCr,Guns N' Roses,Use Your Illusion II,Knockin' On Heaven's Door,79,336000,False,0.496,0.739,6,-7.193,1,0.0415,0.0211,0.00444,0.106,0.378,132.41,4,metal
+3dxiWIBVJRlqh9xk144rf4,Linkin Park,Meteora (Bonus Edition),Breaking the Habit,71,196906,False,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,4,metal
+1Vej0qeQ3ioKwpI6FUbRv1,Linkin Park,Hybrid Theory (Bonus Edition),Papercut,75,184866,False,0.524,0.939,9,-3.994,1,0.113,0.00022,0.0,0.623,0.661,150.184,4,metal
+5waHhqlk8iTweFuHeZz9CZ,Bullet For My Valentine,Release Your ANGER,Stitches,5,301426,True,0.547,0.941,1,-4.631,1,0.0824,5.72e-06,0.000756,0.323,0.331,100.007,4,metal
+2tVrcIcrfvezPgPBBC2RAu,Kid Rock;Sheryl Crow;Bob Seger,Chillin' It - Mellow Day Country,Collide,1,288773,False,0.433,0.732,9,-4.197,1,0.0316,0.0375,2.53e-06,0.0692,0.592,199.943,4,metal
+1QHqRD65S2q7STSmrxTU3Y,Kid Rock,Feeling Good,All Summer Long,0,297586,False,0.701,0.865,7,-3.629,1,0.0283,0.0212,0.0,0.0956,0.88,102.998,4,metal
+4w50X1lyc0QOO6AGcfVJyI,Kid Rock;Sheryl Crow;Bob Seger,Country Car Hits,Collide,1,288773,False,0.433,0.732,9,-4.197,1,0.0316,0.0375,2.53e-06,0.0692,0.592,199.943,4,metal
+4ZbIwC19U5soz0akMfbUqD,Rob Zombie,Rock & Halloween,Living Dead Girl,2,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+1CfKabrnieuwFYodtDZvvw,Bullet For My Valentine,Release Your ANGER,Shatter - Edit,0,281757,False,0.413,0.923,9,-4.487,1,0.053,9.24e-06,0.00102,0.0883,0.504,150.059,4,metal
+1NaHqvYJ48wdyQZMkNnUUr,Pantera,Metal,Walk,0,315120,True,0.428,0.704,6,-8.018,0,0.0808,0.000156,0.00223,0.0933,0.703,116.898,4,metal
+1MWApXQMyidjiXB7w19fXH,Kid Rock;Sheryl Crow;Bob Seger,Country Road Songs,Collide,0,288773,False,0.433,0.732,9,-4.197,1,0.0316,0.0375,2.53e-06,0.0692,0.592,199.943,4,metal
+3OMd93g8K6Pcj6Je3kEtpe,Lamb of God,Release Your ANGER,Ruin,1,234266,False,0.288,0.955,7,-4.424,1,0.171,4.65e-05,0.139,0.394,0.0916,108.423,3,metal
+2vGDTOtslhkco6LVFfdEI2,Soundgarden,Rock & Halloween,Black Hole Sun,0,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,metal
+6fz1H1xvH7uUycVKUVUHwb,Creed,Fishing Music,One Last Breath,1,239373,False,0.38,0.72,2,-5.766,1,0.0356,0.00899,0.00147,0.221,0.172,129.982,4,metal
+0Rv8J2jCczm7nxMurGBIcG,Godsmack,Halloween Spooky Party 2022,Vampires,0,227240,False,0.486,0.843,7,-6.085,1,0.0635,7.21e-05,0.682,0.0709,0.412,90.016,4,metal
+6JN0cjFT0zDRYxzqcKrvwf,Soundgarden,Hits Pop Rock 90's,Spoonman,0,246920,False,0.258,0.904,0,-5.625,1,0.0386,2.2e-05,0.218,0.255,0.832,186.054,3,metal
+424WY6p8kPClokqegSpJfV,Rob Zombie;Ozzy Osbourne,Release Your ANGER,Iron Head,0,251200,False,0.527,0.924,6,-4.503,1,0.0367,7.92e-05,0.0671,0.705,0.324,102.036,4,metal
+6RDHOZtqz8iB6xzii7qaey,Ice Nine Kills,Halloween Songs | Witches Hour,Stabbing In The Dark,1,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metal
+0X2rK2dB3aEGw1KOK0ioAL,Rob Zombie,Pumpkin Patch Hits,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+0b9e8puk2zpi4ioDPWg5yx,Ice Nine Kills,Release Your ANGER,A Rash Decision,0,211320,False,0.487,0.933,11,-4.291,0,0.161,0.000135,0.0,0.185,0.467,95.58,4,metal
+1nQYbtP8RwXxA7DwW6Kn38,Rob Zombie,Twisted Halloween Hits,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+4vvCo9Lxak9UqHVOyFmjFT,Rob Zombie,Pumpkin Patch Hits,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+1CaXCVkxVz7GfrE2Ifbha4,Ice Nine Kills,Happy Haunted Halloween Tunes,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metal
+7KPwpv8wlkkaNRd4LLoQT9,Soundgarden,Hits Pop Rock 90's,Black Hole Sun,1,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,metal
+2Mes3Ubeld6px0kvYRAra3,Ice Nine Kills,Halloween 2022,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metal
+0P9Kg7MUJ8ygcKSOPh1LfJ,Queens of the Stone Age,Halloween Party 2022,Burn The Witch,0,217213,False,0.452,0.819,2,-4.394,1,0.0863,0.175,0.69,0.224,0.423,124.649,4,metal
+6X3kcyCvy2stFdKuYP55Co,Godsmack,Halloween Metal Nights,Cryin' Like A Bitch!!,1,201666,True,0.548,0.808,10,-5.484,1,0.0398,7.19e-05,0.00341,0.114,0.475,95.207,4,metal
+2AMjuIoFxAYnQ5PWrRceOP,Rob Zombie,Twisted Halloween Hits,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+6gRiwTlKLG2lHyu1M8Iwh6,Ice Nine Kills,Halloween Party 2022,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metal
+0ojuDHW8XG17heZBJHQyXJ,Rob Zombie,Halloween Metal Nights,Superbeast,0,220226,False,0.514,0.975,11,-4.433,0,0.0609,7.65e-05,0.561,0.457,0.309,154.047,4,metal
+7y5uK11sbFNiNEafUvntSL,Rob Zombie,Halloween Scary Party,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+3jcMkuNGMExEorJSML33D9,Rob Zombie,Halloween Metal Nights,Demon Speeding,0,224306,False,0.548,0.809,11,-4.001,0,0.0328,0.000298,2.96e-06,0.156,0.409,133.984,4,metal
+4ABDFuZgqdg9X8Rw02WfYF,Nightwish,Spooky Scary Season,The Phantom Of The Opera,1,248240,False,0.433,0.848,5,-6.92,0,0.0496,6.53e-06,0.0316,0.0982,0.324,131.9,4,metal
+799XxzSlWNYkuWJxUbuGnF,Metallica,"Stranger Things: Soundtrack from the Netflix Series, Season 4",Master of Puppets,69,514479,False,0.538,0.868,4,-7.357,0,0.0377,0.000599,0.482,0.199,0.556,105.164,4,metal
+1EWDtcKzwZqflFqdiN3fyv,Linkin Park,A Thousand Suns,Waiting for the End,42,231680,False,0.487,0.961,4,-4.139,1,0.132,0.0415,1.15e-06,0.553,0.323,170.005,4,metal
+7Hr1Ignop7cymbE3FbOtXa,Avenged Sevenfold,Nightmare,So Far Away,66,326813,False,0.286,0.703,4,-4.491,0,0.0348,0.00847,7.39e-05,0.142,0.259,151.297,4,metal
+07rz54LA3Y2lagmY0DnChZ,Linkin Park,A Thousand Suns,Iridescent,42,296560,False,0.484,0.727,0,-6.107,1,0.0358,0.198,0.00204,0.107,0.216,120.066,4,metal
+0KCSJzsQVxkloxoT7dyrqV,SiM,The Rumbling (TV Size),The Rumbling (TV Size),66,90265,False,0.408,0.875,8,-1.536,1,0.0546,1.68e-05,0.000101,0.264,0.646,144.975,4,metal
+1dYw8HTRJnFpeEeMtXj99a,Linkin Park,LIVING THINGS,ROADS UNTRAVELED,65,229933,False,0.599,0.788,8,-6.25,0,0.0294,0.263,0.00525,0.155,0.581,100.001,3,metal
+7snQQk1zcKl8gZ92AnueZW,Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,79,356066,True,0.446,0.952,6,-5.321,1,0.0523,0.0901,0.0857,0.112,0.624,125.303,4,metal
+1zng9uqqXoPkmU05nsAlsw,Bon Jovi,Keep The Faith,Bed Of Roses,74,394400,False,0.309,0.596,5,-5.599,1,0.0293,0.101,0.0,0.21,0.161,164.587,3,metal
+5W8YXBz9MTIDyrpYaCg2Ky,Papa Roach,Infest,Last Resort,80,199906,True,0.589,0.89,4,-3.719,0,0.0603,0.000481,0.00082,0.201,0.692,90.598,4,metal
+697M5JB8FDIyRXEXgl1pBZ,Linkin Park,Meteora (Bonus Edition),From the Inside,67,173933,False,0.466,0.965,1,-2.597,0,0.0904,0.042,0.0,0.101,0.453,95.028,3,metal
+4Sxx1wd4nnB8ob8Zsujwrs,Linkin Park,Minutes to Midnight,Shadow of the Day,52,290360,False,0.534,0.393,11,-7.813,1,0.0292,0.00479,0.0107,0.107,0.0641,110.007,4,metal
+27k9Vb6ko9YYK6N8EJ8SA5,Bon Jovi,Cross Road (Sound & Vision) [International Version],Always,46,353320,False,0.377,0.658,4,-5.589,1,0.0318,0.117,0.0,0.0677,0.307,143.713,4,metal
+2DtPEKs3Pj7E06EoWW4vw8,Poets of the Fall,Carnival of Rust,Carnival of Rust,56,262946,False,0.492,0.59,5,-4.593,0,0.0239,0.225,2.79e-05,0.0973,0.124,91.018,4,metal
+0RdUX4WE0fO30VnlUbDVL6,Scorpions,Comeblack,Still Loving You,74,403453,False,0.282,0.605,6,-4.916,0,0.0294,0.0047,0.00144,0.103,0.0783,103.929,4,metal
+2N2yrmodOnVF10mKvItC9P,Guns N' Roses,Use Your Illusion I,Don't Cry (Original),78,283733,False,0.456,0.59,11,-8.638,1,0.0327,0.00182,0.00379,0.104,0.243,124.635,4,metal
+400lQTCx3wYGgqAIHSZbNA,Linkin Park,Minutes to Midnight,Given Up,54,189293,True,0.655,0.885,7,-4.116,1,0.0438,0.00117,0.000473,0.0448,0.938,100.088,4,metal
+0OtXJQBLb7wPXL2XyN2cFW,Porcupine Tree,Deadwing,Lazarus,53,258586,False,0.354,0.581,9,-6.074,1,0.0302,0.201,0.661,0.177,0.338,171.961,4,metal
+3d9DChrdc6BOeFsbrZ3Is0,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Under the Bridge,82,264306,False,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,4,metal
+46QazXxQS0B31CnbRCy8CV,Scorpions,Comeblack,Rock You Like a Hurricane - 2011,64,255573,False,0.587,0.891,11,-3.381,1,0.0361,0.000261,0.00454,0.314,0.705,124.005,4,metal
+0ADZ5dmXhlfzjMw6lefoPl,Nickelback,All the Right Reasons,Far Away,73,238173,False,0.518,0.797,6,-5.153,1,0.0309,0.000681,0.0,0.107,0.293,132.918,4,metal
+4CbKVDZkYKdv69I4bCaKUq,Skillet,Awake,Hero,72,186813,False,0.533,0.967,1,-2.543,1,0.0995,0.00791,0.0,0.336,0.782,142.018,4,metal
+5rAxhWcgFng3s570sGO2F8,Linkin Park,Hybrid Theory (Bonus Edition),A Place for My Head,70,184640,False,0.603,0.908,11,-5.254,1,0.184,0.0144,0.0,0.671,0.457,133.063,4,metal
+3ZOEytgrvLwQaqXreDs2Jx,Red Hot Chili Peppers,By the Way (Deluxe Edition),Can't Stop,82,269000,False,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,4,metal
+3Jnxngdff0lVu2rza1GVx6,Black Sabbath,Paranoid,Paranoid (2009 - Remaster),42,167720,False,0.423,0.685,4,-9.651,0,0.078,6.28e-05,0.00642,0.133,0.328,162.78,4,metal
+0i8JFpqe9cKwnrcvoNgl1L,Skillet,Unleashed,Feel Invincible,72,229933,False,0.603,0.886,5,-3.777,0,0.0837,0.00045,0.0,0.26,0.395,126.025,4,metal
+61mWefnWQOLf90gepjOCb3,Slipknot,Vol. 3: The Subliminal Verses,Duality,80,252613,False,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,4,metal
+5anCkDvJ17aznvK5TED5uo,Avenged Sevenfold,Hail to the King,Hail to the King,76,305906,False,0.58,0.916,3,-4.358,0,0.0387,0.000297,0.0259,0.126,0.683,118.004,4,metal
+59WN2psjkt1tyaxjspN8fp,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),Killing In The Name,80,313573,True,0.466,0.833,7,-4.215,1,0.304,0.0266,0.0,0.0327,0.661,88.785,4,metal
+5S9KnOMLC5vRckzbvzasEs,Hoobastank,Обратно в клас - rock,The Reason,0,232800,False,0.474,0.671,4,-4.649,1,0.0289,0.0129,0.0,0.159,0.0682,82.94,4,metal
+5pIXg8cywRwdTyFeVsWtht,Hoobastank,OO's Music Grandi Successi,The Reason,1,232800,False,0.474,0.671,4,-4.649,1,0.0289,0.0129,0.0,0.159,0.0682,82.94,4,metal
+24cUJMEiMkGfdhTgt2ZUgV,Halestorm,Rock - Best of 2022,The Steeple,4,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,metal
+11C22pEpoh1voyOsZ1SdkX,Whitesnake,Maintain Your Mojo,Fool for Your Loving,1,258146,False,0.586,0.906,0,-8.235,1,0.0564,0.000837,0.019,0.0958,0.748,122.133,4,metal
+7DczAzWKf2WOretzrzQOCf,Gojira,Metal,Stranded,0,269533,False,0.512,0.879,7,-4.69,0,0.031,9.54e-05,0.00745,0.0824,0.484,92.358,4,metal
+5G4roC38WFtOEF5Jo7vLUR,Rob Zombie,Halloween Hits,Living Dead Girl,2,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+5F2b8ExevODMQehJcEVjz9,Halestorm,Rock Brandneu,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,metal
+6AY2zdaF4LJykDhGGE4nv6,Rob Zombie,Helloween Party,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+4yUk1knKtOuUEPT2iy85Xp,Halestorm,Metal,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,metal
+4gZ0cdB30vF7gVsWlnMjHi,Whitesnake,Timeless Rock Hits,Fool for Your Loving,1,258146,False,0.586,0.906,0,-8.235,1,0.0564,0.000837,0.019,0.0958,0.748,122.133,4,metal
+7JJ2YihKiiTove86Gt12LV,Halestorm,Top of the Rock,The Steeple,0,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,metal
+3bG1B0UTDX0UYg9qeec3gL,Halestorm,Metal Lives!,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,metal
+0BaVcB3Mn8QgGUdEi2yqCb,Stone Temple Pilots,Timeless Rock Hits,Plush,1,310346,False,0.416,0.954,7,-3.157,0,0.0467,0.0021,0.0,0.177,0.498,144.724,4,metal
+0OxDGZakSMFjEHSoQHEjfy,Deep Purple,80s Bangers Vol. 2,Perfect Strangers,1,328426,False,0.521,0.72,2,-7.699,1,0.0254,0.00352,0.0114,0.391,0.609,97.577,4,metal
+2TDtt2AF6IR5iTmVrCM1u8,Rob Zombie,Twisted Halloween Hits,Superbeast,0,220226,False,0.514,0.975,11,-4.433,0,0.0609,7.65e-05,0.561,0.457,0.309,154.047,4,metal
+6VNgUdPze583ZMIqe9EAyF,Rob Zombie,Halloween Metal Nights,Dragula,1,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+7uhmQXCmglHzUEUA0ch9mh,Rob Zombie,Halloween Party 2022,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+6MpUuLKMSRj82KbyoFlO6M,Rush,80s Bangers Vol. 2,The Spirit Of Radio,0,297693,False,0.362,0.95,9,-5.281,1,0.0567,0.0133,0.000107,0.371,0.611,135.818,4,metal
+6q0hRmeFLlRB25616BLhgy,Rob Zombie,Halloween Party 2022,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+2i0hWBMyrOXnGv3jWji0Lw,Rob Zombie,Halloween Spooky Party 2022,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
+5vp6CNekMfEWWi8FtqUlKx,Rob Zombie,Halloween Spooky Party 2022,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+1bYI5bQggwEA4JAwr0qD31,Whitesnake,80's,Here I Go Again 87 - 2018 Remaster,0,275395,False,0.367,0.824,7,-6.763,1,0.0377,0.0121,8.55e-05,0.155,0.253,89.946,4,metal
+6xWbpC8KpcItoGd8ZOKJlU,Ghost,Mary On A Cross (slowed + reverb),Mary On A Cross - slowed + reverb,66,274783,False,0.468,0.838,6,-5.756,0,0.0433,9.42e-05,0.196,0.0896,0.259,115.812,4,metal
+1MTQHCpraD4S8g5PAFKzoj,Limp Bizkit,Results May Vary,Behind Blue Eyes,74,269973,False,0.595,0.489,7,-6.66,1,0.0271,0.497,0.0,0.119,0.0902,120.315,4,metal
+4aYLAF6ckQ5ooGGGM7sWAa,Metallica,Metallica,The Unforgiven,74,386493,False,0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,4,metal
+3RAFcUBrCNaboRXoP3S5t1,Slipknot,All Hope Is Gone (10th Anniversary),Psychosocial,76,284120,False,0.568,0.981,2,-3.889,1,0.0887,0.00269,0.00275,0.0243,0.307,135.146,4,metal
+1g0SlTCGN9j3OicWHfSKEn,Nightmare,the WORLD Ruler,the WORLD,61,228120,False,0.531,0.904,11,-3.869,0,0.0419,0.00353,0.0,0.328,0.753,94.999,4,metal
+7nAfXgeHfDO50upcOjJOaq,Linkin Park,One More Light,Talking to Myself,63,231306,False,0.593,0.712,2,-6.325,0,0.0286,0.00184,0.0,0.128,0.473,124.013,4,metal
+4qVR3CF8FuFvHN4L6vXlB1,Linkin Park,Meteora (Bonus Edition),Lying from You,66,175373,False,0.535,0.951,3,-3.324,0,0.18,0.00777,0.0,0.0669,0.723,160.102,4,metal
+5egqKwgK5r5rvGD1LrtR7J,Linkin Park,Hybrid Theory (Bonus Edition),Points of Authority,68,200240,False,0.512,0.97,8,-3.886,0,0.212,0.03,0.0,0.0994,0.427,94.952,4,metal
+4UEo1b0wWrtHMC8bVqPiH8,Avenged Sevenfold,Nightmare,Nightmare,72,374453,True,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,4,metal
+2avKuMN2QXkaG9vvHa2JLt,Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,Take A Look Around,74,321040,False,0.425,0.852,11,-5.607,1,0.046,0.0175,0.306,0.0935,0.512,101.968,4,metal
+0815caqt2Lytro5EIzMufT,Lifehouse,Lifehouse,You And Me,76,195493,False,0.459,0.427,7,-7.734,1,0.0267,0.114,0.0,0.168,0.354,139.902,3,metal
+4e9eGQYsOiBcftrWXwsVco,System Of A Down,Toxicity,Aerials,77,235053,False,0.364,0.922,0,-4.217,0,0.0567,0.000915,0.0346,0.0697,0.227,79.342,4,metal
+2R6UrJ8uWbSIiHWmvRQvN8,Metallica,Garage Inc.,Whiskey In The Jar,75,304693,False,0.511,0.97,10,-3.72,1,0.0414,5.6e-06,0.00136,0.18,0.566,132.986,4,metal
+5pKCDm2fw4k6D6C5Rk646C,Bullet For My Valentine,The Poison,Tears Don't Fall,65,348386,True,0.214,0.931,7,-3.347,0,0.143,0.000705,3.09e-06,0.0797,0.233,162.115,4,metal
+0gmbgwZ8iqyMPmXefof8Yf,Nickelback,Silver Side Up,How You Remind Me,80,223840,False,0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,4,metal
+4GssB27iJeqmfGxS94Tfij,Falling In Reverse,Popular Monster,Popular Monster,75,220537,True,0.461,0.897,3,-3.982,0,0.092,0.00821,0.0,0.0965,0.358,165.107,4,metal
+5fpq1wF8xa5tSSlcKHdmGQ,Bring Me The Horizon,sTraNgeRs,sTraNgeRs,75,195747,True,0.346,0.939,5,-3.061,1,0.182,0.000231,0.0,0.433,0.526,183.147,3,metal
+1VNWaY3uNfoeWqb5U8x2QX,System Of A Down,Hypnotize,Lonely Day,75,167906,False,0.47,0.796,8,-3.277,0,0.0336,0.362,1.1e-06,0.133,0.215,113.108,3,metal
+3aYBjxTMvrEOP0A0UXg9ER,Linkin Park,The Hunting Party,Final Masquerade,64,217613,False,0.466,0.852,3,-4.487,1,0.0585,0.00774,2.6e-06,0.0989,0.428,164.032,4,metal
+7zAt4tdL44D3VuzsvM0N8n,Avenged Sevenfold,Avenged Sevenfold,Afterlife,70,352426,False,0.487,0.949,2,-4.217,0,0.0798,0.000429,2.91e-05,0.231,0.406,110.02,4,metal
+0M3adYbGtyRHACP86dey1H,Bring Me The Horizon,That's The Spirit,Throne,74,191520,False,0.426,0.888,0,-3.72,0,0.0987,0.000455,0.0,0.306,0.387,144.111,4,metal
+7ACxUo21jtTHzy7ZEV56vU,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Crazy Train,78,293183,False,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,4,metal
+4OROzZUy6gOWN4UGQVaZMF,Iron Maiden,Piece of Mind (2015 Remaster),The Trooper - 2015 Remaster,75,252733,False,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,0.669,159.756,4,metal
+2eXoWAL6kC9sdlpdOGvSCw,Lifehouse,OO's Music Grandi Successi,You And Me,1,195493,False,0.459,0.427,7,-7.733,1,0.0267,0.112,0.0,0.168,0.357,139.898,3,metal
+6zMPcgwV7bp0xgRQctwDku,Drowning Pool,Halloween Metal Nights,Mute,1,200000,False,0.567,0.815,10,-4.668,1,0.0286,0.000277,0.104,0.0867,0.378,97.937,4,metal
+6G2IXaarVeVde7CaMOxvNh,AFI,Rock & Halloween,Halloween,1,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+2miDOaZ3uuYy0mmNK91MoB,Wage War,Release Your ANGER,Low,1,227093,False,0.501,0.966,1,-3.22,1,0.0534,1.25e-05,5.74e-05,0.12,0.497,129.994,4,metal
+3N5Cdovy1BB8Wv7qMBwxtS,Skid Row,80's,18 and Life,0,231280,False,0.457,0.794,1,-6.624,0,0.0298,0.000384,7.18e-05,0.131,0.354,90.439,4,metal
+5yHe5ugepahPTYnEdvu1gZ,The Devil Wears Prada,Metal,Home for Grave,0,205000,False,0.501,0.986,2,-3.162,0,0.076,0.000541,2.29e-05,0.372,0.117,107.472,4,metal
+7j0cTjB4Vk5MiRlp8IQB8x,P.O.D.,Timeless Rock Hits,Youth of the Nation,0,257398,False,0.555,0.897,8,-6.147,1,0.0645,0.00377,0.0116,0.392,0.473,97.851,4,metal
+1tIq1IvXMN4fPXNYQQenfn,Alice Cooper,Timeless Rock Hits,School's Out,0,210106,False,0.292,0.745,5,-9.138,1,0.0463,0.0506,0.125,0.675,0.347,134.077,4,metal
+4jZDioY5bkeiNBGK4lGrlA,Staind,Metal,Eyes Wide Open,0,210600,False,0.29,0.936,1,-3.876,0,0.211,0.000481,0.0275,0.0573,0.432,167.818,3,metal
+0D0ZwI5RWUb9l1GQMmRS5R,Skid Row,Metal,Slave to the Grind,0,207666,False,0.491,0.964,7,-8.105,1,0.0981,3.77e-06,0.542,0.196,0.352,133.238,4,metal
+3F8dSAI8l3euloq5a8EenB,Faith No More,Maintain Your Mojo,Epic,0,293933,False,0.358,0.899,4,-7.069,0,0.134,0.0112,0.122,0.195,0.27,174.298,4,metal
+0SLjeqwh5iy8DZcaGNIaHJ,Faith No More,Timeless Rock Hits,King for a Day,1,395093,False,0.421,0.871,11,-9.193,1,0.0351,0.00608,0.411,0.19,0.384,102.383,4,metal
+63hVrWvNfJz10heZwTjCOy,Staind,Post-Millennial Noise,Epiphany,0,256133,False,0.559,0.487,6,-9.349,1,0.0266,0.0333,0.0826,0.129,0.145,149.959,4,metal
+48Yn5OAlrve8PAhxDhTNUQ,Twisted Sister,Metal,Under the Blade,0,279533,False,0.304,0.89,9,-3.992,0,0.122,0.00143,0.00113,0.104,0.433,194.289,4,metal
+2Qo2hmuW1jZrkJAW1Zb9Zf,Skid Row,Rock n Roll Christmas,Jingle Bells,0,182026,False,0.582,0.918,11,-6.118,1,0.0369,0.00673,0.0,0.114,0.792,89.994,4,metal
+6DaHEkkaHiAhRZVEFZOMJ8,P.O.D.,Metal,Alive - Chris Lord-Alge Mix,0,205026,False,0.421,0.95,10,-3.985,1,0.0769,1.21e-05,0.000217,0.314,0.553,80.919,4,metal
+2L6NcYYiU1Ehy7aHPOPkiH,The Devil Wears Prada,Metal Lives!,Home for Grave,0,205000,False,0.501,0.986,2,-3.162,0,0.076,0.000541,2.29e-05,0.372,0.117,107.472,4,metal
+5gRjZANENPGzKGrOsBIVUa,Bush,Post-Millennial Noise,Headful of Ghosts,0,261293,False,0.432,0.706,5,-5.061,1,0.0426,0.00108,0.0,0.378,0.29,136.981,4,metal
+5XbjnXDZgLSLTfh1R8L7vM,Faith No More,80's,Epic - Radio Edit,0,239360,False,0.487,0.889,4,-7.998,0,0.073,0.101,0.0274,0.157,0.265,87.138,4,metal
+7KaqcST5QdMTGPCKWW9ayv,Machine Head,Metal,Davidian,0,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,metal
+4jJ0RTLxottQzkwZaMIb25,Twisted Sister,80's,We're Not Gonna Take It (Single Version),0,217293,False,0.329,0.905,4,-7.206,1,0.0732,5.55e-05,3.95e-06,0.0654,0.626,149.377,4,metal
+59mGCC08pYEwStwO3oTLfH,Faith No More,Metal,War Pigs,0,465933,False,0.323,0.891,6,-7.018,0,0.119,0.00126,0.0187,0.243,0.235,97.373,4,metal
+5cUH0jGZStImc41LbHSjhA,Machine Head,Groove Metal Roots & Branches,Davidian,1,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,metal
+3KXW97hQNrLiObudx0b3ZI,Poison,Fishing Music,Every Rose Has Its Thorn - Remastered 2003,0,260160,False,0.533,0.647,6,-5.556,1,0.0332,0.161,1.18e-05,0.372,0.287,140.165,4,metal
+3GHDhZVRhSIrlWdgxch7uA,Alice Cooper,Halloween Spooky Party 2022,Teenage Frankenstein,0,214506,False,0.591,0.884,9,-10.861,0,0.0363,0.00188,7.88e-06,0.0775,0.685,130.147,4,metal
+0FbZgT0gzFe6VCAZdhtFT5,Twisted Sister,Timeless Rock Hits,We're Not Gonna Take It,0,219666,False,0.502,0.925,4,-6.298,1,0.0501,0.0129,0.0,0.162,0.923,149.188,4,metal
+0e04lBPbavsLvJ2Jm6SsDm,Amaranthe,Halloween Metal Nights,Drop Dead Cynical,0,197853,False,0.527,0.913,7,-3.93,1,0.0776,4.89e-05,0.000213,0.0839,0.516,140.016,4,metal
+4BggEwLhGfrbrl7JBhC8EC,Crazy Town,The Gift Of Game,Butterfly,73,216733,False,0.736,0.811,9,-4.17,0,0.081,0.00132,0.000142,0.107,0.609,103.502,4,metal
+5IX4TbIR5mMHGE4wiWwKW0,Metallica,...And Justice For All,One,73,447440,False,0.437,0.695,7,-9.447,1,0.0617,0.00111,0.0857,0.124,0.413,102.178,3,metal
+5Bk1ArPcnMgeQzSqLjqaSW,Disturbed,The Sickness (20th Anniversary Edition),Down with the Sickness,42,278706,True,0.65,0.897,10,-2.704,0,0.0556,0.000315,1.19e-05,0.102,0.927,90.008,4,metal
+6mQD0vGdFrQMeTADOSIEwx,Linkin Park,A Thousand Suns,The Catalyst,36,339853,False,0.56,0.925,0,-5.48,1,0.0362,0.0372,0.0,0.104,0.178,135.009,4,metal
+64BbK9SFKH2jk86U3dGj2P,Red Hot Chili Peppers,Californication (Deluxe Edition),Otherside,80,255373,False,0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229,4,metal
+1G391cbiT3v3Cywg8T7DM1,Red Hot Chili Peppers,Californication (Deluxe Edition),Scar Tissue,79,215906,False,0.595,0.717,0,-4.803,1,0.0295,0.0779,0.00274,0.108,0.547,88.969,4,metal
+3dJj6o9o1fRgrojWjailuz,Linkin Park,One More Light,Nobody Can Save Me,61,225546,False,0.645,0.688,11,-4.749,1,0.0341,0.0107,0.0,0.186,0.433,139.957,4,metal
+5nekfiTN45vlxG0eNJQQye,Metallica,Ride The Lightning (Deluxe / Remastered),Fade To Black - Remastered,69,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,metal
+40LQiUUUKXVGyNs09lHVjW,Hinder,Extreme Behavior,Lips Of An Angel,73,261853,False,0.476,0.736,2,-5.38,1,0.0343,0.0217,1.08e-06,0.203,0.251,129.084,4,metal
+7kxfWvj6u9oWQ5C36kMtGb,Alter Bridge,Blackbird,Watch Over You,60,259133,False,0.276,0.658,7,-5.418,1,0.0329,0.0836,0.000553,0.161,0.16,172.326,4,metal
+0EYOdF5FCkgOJJla8DI2Md,System Of A Down,Mezmerize,B.Y.O.B.,77,255466,True,0.538,0.981,1,-2.688,0,0.14,0.00662,0.0,0.219,0.711,101.414,4,metal
+6ZOBP3NvffbU4SZcrnt1k6,3 Doors Down,The Better Life,Kryptonite,80,233933,False,0.545,0.865,11,-5.708,0,0.0286,0.00664,1.1e-05,0.168,0.543,99.009,4,metal
+0bMOyiuk22fAKiwNoYsRYN,Bring Me The Horizon;Jeris Johnson,Can You Feel My Heart (Remix),Can You Feel My Heart - Remix,59,197412,True,0.576,0.88,9,-3.678,0,0.0507,0.00675,0.0,0.473,0.836,139.942,4,metal
+1BLfQ6dPXmuDrFmbdfW7Jl,Avenged Sevenfold,Avenged Sevenfold,A Little Piece of Heaven,69,480706,True,0.486,0.881,2,-5.623,0,0.0474,0.0244,0.0,0.429,0.667,144.997,4,metal
+7AB0cUXnzuSlAnyHOqmrZr,Linkin Park,Meteora (Bonus Edition),Faint,66,162600,False,0.554,0.978,4,-3.554,1,0.131,0.111,0.0,0.0731,0.594,135.095,4,metal
+650OeHTLxZAQmb4aEbGmaA,Linkin Park;Pusha T;Stormzy,One More Light,Good Goodbye (feat. Pusha T and Stormzy),63,211413,False,0.697,0.84,9,-4.602,0,0.054,0.106,0.0,0.748,0.452,128.034,4,metal
+2oaK4JLVnmRGIO9ytBE1bt,Red Hot Chili Peppers,The Getaway,Dark Necessities,74,302000,False,0.7,0.742,5,-6.777,0,0.0716,0.0722,0.0199,0.11,0.197,91.959,4,metal
+3UULkHdmLDqBDPmBYltoRE,Alter Bridge,One Day Remains,Metalingus,67,259959,False,0.496,0.981,8,-3.268,1,0.108,9.33e-06,0.0,0.0958,0.163,109.905,4,metal
+2dXsILW8gzkosqleHAvl0v,Metallica,Ride The Lightning (Remastered),For Whom The Bell Tolls - Remastered,73,309973,False,0.518,0.858,0,-6.147,1,0.0672,0.00563,0.00349,0.0598,0.249,117.897,4,metal
+00KfIFi2TpAaQGPbRbFbKJ,Linkin Park,LIVING THINGS,IN MY REMAINS,63,200693,False,0.553,0.907,9,-5.623,0,0.0484,0.00401,0.0,0.266,0.451,100.967,4,metal
+4zNk347FJz4yDDcjUhJJMI,Linkin Park,LIVING THINGS,POWERLESS,60,224466,False,0.508,0.88,5,-6.441,0,0.0448,0.0621,9.43e-05,0.15,0.337,140.065,1,metal
+1jq28NGw6wdtFKx8MBPy6C,Nickelback,Dark Horse,Burn It to the Ground,73,212346,False,0.617,0.922,11,-3.474,1,0.0744,0.000247,0.388,0.363,0.6,132.059,4,metal
+5UWwZ5lm5PKu6eKsHAGxOk,Foo Fighters,The Colour And The Shape,Everlong,84,250546,False,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,4,metal
+65HA9FsYyA2xro9RzNlNmy,Mötley Crüe,Dr. Feelgood,Kickstart My Heart,36,282653,False,0.363,0.982,7,-3.621,0,0.3,0.00123,0.00218,0.284,0.275,179.23,4,metal
+5mpUKTdskZea0gStWzeHUZ,Slipknot,We Are Not Your Kind,Unsainted,74,260773,True,0.427,0.946,7,-2.188,1,0.0469,0.000118,0.0253,0.0604,0.237,101.305,4,metal
+1qUHD9oPIMFHKpR12NY2KC,Thousand Foot Krutch,The End Is Where We Begin,War of Change,67,231665,False,0.531,0.887,5,-4.417,0,0.0329,0.00261,0.000512,0.0657,0.626,104.055,4,metal
+5O9Dz0h08LuBi0aVvDcylh,Skillet,Unleashed,The Resistance,69,232066,False,0.483,0.941,2,-3.598,0,0.0575,0.000526,3.5e-06,0.31,0.503,156.033,4,metal
+755bvJDSA3LNcNuFgBT9LK,Black Sabbath,Paranoid,Iron Man (2009 - Remaster),37,354213,False,0.334,0.828,9,-9.168,1,0.0985,0.00312,0.0043,0.0949,0.515,157.891,4,metal
+0faXHILILebCGnJBPU6KJJ,Breaking Benjamin,Phobia (Clean Version),The Diary of Jane - Single Version,74,200546,False,0.392,0.964,10,-4.441,0,0.0644,7.13e-05,0.0387,0.106,0.269,167.024,4,metal
+56sk7jBpZV0CD31G9hEU3b,Three Days Grace,One-X,Animal I Have Become,74,231400,False,0.553,0.853,8,-3.668,1,0.0339,0.000684,0.0,0.126,0.506,122.023,4,metal
+6wqJeItl3Vc3az4ZicSQAB,Slipknot,Vol. 3: The Subliminal Verses,Before I Forget,77,278600,False,0.291,0.974,6,-2.997,0,0.171,0.0177,5.44e-06,0.886,0.348,134.724,4,metal
+1tdazGttmzXdBP3fj1kQr6,AFI,Spooky Scary Season,Halloween,0,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+0HdKT77fmQMoU0mAjHs7O0,Atreyu,Release Your ANGER,Anger Left Behind,0,203547,False,0.418,0.987,0,-3.331,1,0.209,0.0585,0.000144,0.0855,0.25,155.05,4,metal
+57jD6Or02RD8uTV2AmdET4,AFI,Halloween Songs | Witches Hour,Halloween,0,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+0Ev1XvxAun4W2uh34XtZpx,AFI,Happy Haunted Halloween Tunes,Halloween,2,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+0Nc2X53OFDIxl1F1Z5AZfR,Atreyu,Release Your ANGER,Super Hero,0,385012,False,0.433,0.914,5,-3.894,1,0.0589,0.00394,0.000104,0.0896,0.158,144.007,4,metal
+7hke4o18WMJDxYpNkmYuYl,Extreme,Los Clásicos del Pop 90s,More Than Words,1,337828,False,0.626,0.242,6,-8.658,1,0.0269,0.43,1.09e-06,0.119,0.228,91.259,4,metal
+6cvDQENZlOeBkTBJl5yUdk,Extreme,90's Music Grandi Successi,More Than Words,0,337828,False,0.626,0.242,6,-8.658,1,0.0269,0.43,1.09e-06,0.119,0.228,91.259,4,metal
+3kCGxdCWMiydMDRG84ltsJ,Rata Blanca,Triste Hora,Mujer Amante,0,363120,False,0.497,0.649,11,-10.205,0,0.0334,0.0145,3.78e-06,0.0477,0.567,115.357,4,metal
+1HkRBvClGlCu8s2CCX9QGM,AFI,Halloween Scary Party,Halloween,0,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+5kW4weQet1sxEKE9wJngDJ,Mastodon,Top of the Rock,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,metal
+3IExS9dCfDAVCRY0Tq4qw7,AFI,Halloween Kids Party 2022,Halloween,0,238106,False,0.286,0.929,11,-8.494,0,0.091,0.00231,0.00074,0.0946,0.127,99.762,4,metal
+0Hk2PNJ4Ac4q9g72MSoqi7,Dream Theater,Metal,Under a Glass Moon,0,423240,False,0.506,0.853,1,-9.989,0,0.0488,5.61e-05,0.097,0.347,0.594,145.691,4,metal
+5PvFiy6gfcrs6n4ki8vFqS,Mastodon,Metal,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,metal
+4Pam4BT3FYZwoWcOLaYodV,DragonForce,Halloween Metal Nights,Fury Of The Storm,0,406826,False,0.233,0.911,4,-5.114,0,0.08,3.34e-05,0.258,0.344,0.197,199.851,4,metal
+7b3OfGX7LuIyTBk6FMdagF,Mastodon,Metal Lives!,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,metal
+3tI3SEykqxq2ielVBTWkpo,Thin Lizzy,70s Christmas Party,The Boys Are Back In Town,0,263146,False,0.457,0.87,8,-4.906,1,0.0711,0.292,1.67e-06,0.117,0.694,81.095,4,metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,metal
+6AJrjScRxKAzfImtWbCIaM,Thin Lizzy,Rock Workout 2023,The Boys Are Back In Town,0,263146,False,0.457,0.87,8,-4.906,1,0.0711,0.292,1.67e-06,0.117,0.694,81.095,4,metal
+6o39Ln9118FKTMbM4BvcEy,Bring Me The Horizon,That's The Spirit,Drown,72,222093,False,0.405,0.94,1,-3.103,0,0.0844,0.000102,2.79e-05,0.719,0.24,143.126,4,metal
+3RlsVPIIs5KFhLFhxZ4iDF,Nickelback,All the Right Reasons (Walmart Exclusive Edition),Rockstar,70,252040,False,0.616,0.91,0,-3.004,1,0.0386,0.0459,0.0,0.343,0.693,144.072,4,metal
+3X412wnMLKyqctlRfhPa7Q,Tomorrow,ННД,ННД,69,87259,False,0.407,0.938,11,-3.263,1,0.0553,0.0339,0.00141,0.807,0.729,172.661,4,metal
+1vNoA9F5ASnlBISFekDmg3,Bad Wolves,Zombie,Zombie,69,254805,False,0.448,0.826,2,-3.244,0,0.0319,0.00756,0.0,0.117,0.19,77.093,4,metal
+3RptaQ5Xb8WvtpItZ2f9Hi,Slipknot,All Hope Is Gone,Snuff,70,276146,False,0.544,0.69,6,-5.723,0,0.0425,0.012,0.0095,0.0615,0.219,123.962,4,metal
+2gT72HL4Y84K2Mle3miAMJ,Bring Me The Horizon,DiE4u,DiE4u,69,207141,True,0.355,0.919,7,-3.771,1,0.356,0.00234,0.000313,0.262,0.259,159.922,4,metal
+3BnBKNItMng824sLx0pUfy,Linkin Park;Steve Aoki,RECHARGED,A LIGHT THAT NEVER COMES,62,229439,False,0.687,0.871,0,-5.531,1,0.0689,0.00225,0.00708,0.134,0.539,115.0,4,metal
+6Q1m1GyNxyOwZ2ud3p7XoS,I Prevail,TRAUMA,Gasoline,68,153613,True,0.546,0.945,1,-4.399,1,0.0531,0.000311,0.0,0.724,0.545,135.128,4,metal
+5e3YOg6fIkP0wD5TyxcHOH,Living Colour,Vivid (Expanded Edition),Cult of Personality,68,294826,False,0.504,0.918,0,-3.463,1,0.0517,0.00164,2.12e-05,0.78,0.539,92.031,4,metal
+5awDvzxWfd53SSrsRZ8pXO,Rammstein,Sehnsucht,Du hast,75,234226,False,0.64,0.922,9,-6.283,0,0.0385,0.00369,0.055,0.332,0.716,125.105,4,metal
+5pYVlQB1b9u9JEjaLmIDNB,Avenged Sevenfold,City of Evil,Seize the Day,41,334066,False,0.393,0.802,5,-4.499,1,0.0367,0.0168,0.0,0.193,0.338,140.101,4,metal
+1bKQ48M9onID2kbSpRy8kK,Scorpions,Crazy World,Send Me An Angel,70,273333,False,0.153,0.417,1,-11.587,1,0.0318,0.434,0.000622,0.211,0.166,80.87,3,metal
+47RAxX2yfiZWmsNKLvjQON,Firehouse,Good Acoustics,I Live My Life for You,62,261906,False,0.513,0.522,1,-7.569,1,0.0295,0.0634,0.0,0.121,0.336,141.833,4,metal
+2EoOZnxNgtmZaD8uUmz2nD,Soundgarden,Superunknown (Deluxe Edition),Black Hole Sun,77,318586,False,0.35,0.828,6,-5.373,1,0.041,0.000217,0.000161,0.0774,0.147,105.435,4,metal
+7CAbF0By0Fpnbiu6Xn5ZF7,Bring Me The Horizon;BABYMETAL,POST HUMAN: SURVIVAL HORROR,Kingslayer (feat. BABYMETAL),72,220041,True,0.434,0.929,1,-2.749,1,0.147,0.000207,0.00109,0.0916,0.428,92.541,4,metal
+4veeNpXDK1YRHMTJ1Cppsg,Avenged Sevenfold,Nightmare,Buried Alive,64,404386,True,0.607,0.804,9,-5.209,0,0.0296,0.00116,0.0,0.159,0.469,139.983,4,metal
+33MnSYLvtOrbj5zwfioEiH,Thousand Foot Krutch,The End Is Where We Begin,Be Somebody,63,222435,False,0.457,0.669,6,-5.792,0,0.0288,0.0296,0.0,0.142,0.312,93.987,4,metal
+6ZvHLqK1T4EVzWx372MHto,Disturbed,Immortalized,The Sound of Silence,41,248466,False,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,4,metal
+3IjrDeaVRFEi3GgHI5xyjX,KISS,"Smashes, Thrashes And Hits",Detroit Rock City,70,227466,False,0.454,0.847,0,-10.981,0,0.115,0.00953,0.000285,0.15,0.317,90.291,4,metal
+2eB7JqIY4hTTSz31h6bjwR,DragonForce,Inhuman Rampage,Through The Fire And Flames,67,439120,False,0.153,0.953,0,-4.74,0,0.122,0.00152,0.0062,0.366,0.14,199.892,4,metal
+0nkzd3yNniB767zSDDdLZ3,Skillet,Awake,Awake and Alive,69,209493,False,0.434,0.939,4,-2.983,0,0.0593,0.0425,0.0,0.491,0.569,159.932,4,metal
+7fcfNW0XxTWlwVlftzfDOR,Pantera,Vulgar Display of Power,Walk,74,315120,True,0.43,0.704,1,-8.008,0,0.0804,0.000155,0.00221,0.0933,0.703,118.242,4,metal
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,metal
+0S3gpZzlT9Hb7CCSV2owX7,Ozzy Osbourne,No More Tears (Expanded Edition),"Mama, I'm Coming Home",69,251866,False,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352,4,metal
+6p8eFfPw3nQkf37aT3AkmK,Iron Maiden,Fear of the Dark (2015 Remaster),Fear of the Dark - 2015 Remaster,72,438120,False,0.308,0.866,2,-5.671,0,0.059,0.000739,0.00141,0.232,0.227,109.825,4,metal
+577MNC3o3L0lNIzx9abqOk,Bon Jovi,Crush,Thank You For Loving Me,67,308933,False,0.385,0.342,2,-7.749,1,0.0285,0.416,0.0,0.119,0.131,132.864,4,metal
+2aoo2jlRnM3A0NyLQqMN2f,Jimi Hendrix,Electric Ladyland,All Along the Watchtower,77,240800,False,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,4,metal
+6TfBA04WJ3X1d1wXhaCFVT,The Offspring,"Rise And Fall, Rage And Grace","You're Gonna Go Far, Kid",81,177826,True,0.55,0.917,0,-3.159,1,0.0638,0.00428,0.0,0.197,0.601,126.115,4,metal
+3IV4swNduIRunHREK80owz,Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,Rollin' (Air Raid Vehicle),76,213760,True,0.603,0.933,1,-3.358,1,0.171,0.00591,0.0,0.206,0.709,96.306,4,metal
+51TG9W3y9qyO8BY5RXKgnZ,Megadeth,Countdown To Extinction,Symphony Of Destruction,74,246733,False,0.61,0.891,4,-5.452,0,0.0587,0.000805,0.0928,0.0657,0.51,139.903,4,metal
+1yc53HK08sDab7PDFgnLWk,Lamb of God,Ashes of the Wake (15th Anniversary),Laid to Rest,66,230127,True,0.366,0.956,10,-3.725,0,0.108,0.000293,0.00447,0.449,0.159,104.016,3,metal
+5DO5JEUkxhtsMvaCX7ipGZ,DEHA INC.;Mertigo,PARDON K***,PARDON K***,49,138732,True,0.656,0.788,2,-7.871,1,0.109,0.0545,0.0,0.324,0.407,139.909,4,metal
+57wRFUIAiZfURSiep1assa,Shemhamforash,Apophis,Apophis,47,428000,False,0.265,0.983,11,-7.109,1,0.139,5.64e-06,0.765,0.04,0.106,120.087,4,metal
+2GIXniwgfIlLuVTB4rWWWv,Live,Fiesta temática 90s,I Alone,0,230826,False,0.424,0.843,6,-6.197,1,0.0394,0.00101,0.00896,0.366,0.115,90.247,4,metal
+3672DNEisN5yExyR4KUPww,Blind Melon,REGNIG DAG,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,metal
+69s1IPlLiKxXcJtdZzafct,Type O Negative,Metal,I Don't Wanna Be Me,0,308826,False,0.473,0.977,8,-8.651,0,0.15,0.0243,0.604,0.0931,0.0449,100.552,4,metal
+7MIKwg3dDCWhxMVjMvqF1O,Blind Melon,Los Clásicos del Pop 90s,No Rain,1,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,metal
+1NFeTpNJR8TDP4UzpAix6X,Blind Melon,Hits Pop Rock 90's,No Rain,1,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,metal
+69UZ7jq0OEfymnk2mmXScI,White Zombie,Rock & Halloween,Thunder Kiss '65,0,234466,False,0.636,0.937,9,-3.94,1,0.044,0.00117,0.000223,0.54,0.395,112.641,4,metal
+7udYCqlu5Y9hZFFcDFNtuO,Blind Melon,90's Music Grandi Successi,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,metal
+6MCy7TQ6qOvEdayIkbC8kc,Blind Melon,Fiesta temática 90s,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,metal
+1naVNubDGnYRnlayKdz08s,White Zombie,Halloween Metal Nights,Thunder Kiss '65,1,234466,False,0.636,0.937,9,-3.94,1,0.044,0.00117,0.000223,0.54,0.395,112.641,4,metal
+5DLN0LQbIAD28k53GJfRPq,Anthrax,Halloween Metal Nights,Indians,1,341066,False,0.349,0.983,4,-5.969,0,0.0564,0.00065,0.000892,0.0365,0.422,105.571,4,metal
+1agtaCOcYInQgk6JQkrSag,Opeth,Nordic Metal,The Devil's Orchard,0,399666,False,0.511,0.645,11,-10.383,1,0.0368,0.00563,0.664,0.292,0.278,95.005,4,metal
+67BMusU7lw2tEwR9mPiE5m,Anthrax;Public Enemy,Release Your ANGER,Bring The Noise,0,210493,False,0.599,0.831,2,-7.86,1,0.159,0.000155,2.13e-06,0.117,0.281,121.05,4,metal
+3vq7aH5bBDHGg2szzHUdUw,Type O Negative,Post-Millennial Noise,I Don't Wanna Be Me,0,308826,False,0.473,0.977,8,-8.651,0,0.15,0.0243,0.604,0.0931,0.0449,100.552,4,metal
+6OsUmsYsq6FxzWdG6Wr89X,White Zombie,Halloween Spooky Party 2022,More Human Than Human,0,269693,True,0.659,0.961,6,-5.568,1,0.0829,0.000425,0.423,0.105,0.537,101.368,4,metal
+4wjKsLqJqLYBzaEO7iD4Fp,White Zombie,Halloween Metal Nights,More Human Than Human,0,269693,True,0.659,0.961,6,-5.568,1,0.0829,0.000425,0.423,0.105,0.537,101.368,4,metal
+23bUtNc4PUyHNrYNolzMPq,White Zombie,Spooky Scary Season,"I'm Your Boogieman - From ""The Crow: City Of Angels"" Soundtrack",0,267573,False,0.645,0.985,1,-3.715,1,0.111,0.00113,0.0102,0.223,0.446,113.934,4,metal
+0Qnr5TKNz4vlYwlSBhtv8y,White Zombie,Halloween Spooky Party 2022,"I'm Your Boogieman - From ""The Crow: City Of Angels"" Soundtrack",0,267573,False,0.645,0.985,1,-3.715,1,0.111,0.00113,0.0102,0.223,0.446,113.934,4,metal
+6lFUdRItQEsEuD7dSINL47,Bring Me The Horizon,That's The Spirit,Follow You,69,231106,False,0.54,0.661,3,-5.534,0,0.0381,0.0765,0.0,0.125,0.506,90.012,4,metal
+1ShQlzjMz0XkaHt5CgMpBs,Nightmare;DEATH NOTE デスノート,the WORLD/アルミナ,the WORLD,58,234173,False,0.494,0.938,11,-2.359,0,0.0384,0.000474,0.0,0.314,0.822,95.049,4,metal
+6nswV1Lz3OZkaiCJfmVUOa,Metallica,Reload,The Unforgiven II,66,396440,False,0.497,0.89,8,-4.559,0,0.0445,0.00055,0.00129,0.255,0.249,133.047,4,metal
+0jY829pCMnstlNtaE72vSB,Disturbed,Ten Thousand Fists,Decadence,62,204786,False,0.528,0.968,1,-3.457,1,0.145,5.67e-05,0.0916,0.0668,0.305,91.934,4,metal
+7saeg1XSIx0RhNMHY5km2e,Poets of the Fall,Temple of Thought (Bonus Edition),Cradled in Love,42,281826,False,0.592,0.474,4,-8.288,1,0.0262,0.557,0.0,0.148,0.317,130.0,4,metal
+5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,62,225546,False,0.175,0.995,6,1.023,0,0.211,0.000145,2.5e-06,0.214,0.303,184.066,4,metal
+2PjVfXNQJiyFXyKBpeckQ3,Slipknot,.5: The Gray Chapter,The Devil in I,37,342821,False,0.398,0.939,9,-2.865,0,0.0648,0.00591,0.000881,0.357,0.235,92.027,4,metal
+51c94ac31swyDQj9B3Lzs3,Deftones,White Pony,Change (In the House of Flies),77,299533,False,0.269,0.853,7,-4.647,0,0.0854,0.000249,0.000246,0.118,0.179,141.581,4,metal
+6RG9WyeGTkM1xwI2gzUhbH,Scorpions,Lovedrive,Always Somewhere (2015 - Remaster),35,297520,False,0.497,0.51,0,-7.3,1,0.0299,0.0902,0.00142,0.147,0.198,113.074,4,metal
+7nnWIPM5hwE3DaUBkvOIpy,Incubus,Make Yourself,Drive,75,232453,False,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565,4,metal
+2302lUwfZ4S4dVyPOCDFnQ,Marilyn Manson,Smells Like Children,Sweet Dreams (Are Made Of This),70,293293,False,0.392,0.642,8,-5.267,1,0.0326,0.0048,0.486,0.296,0.129,92.698,4,metal
+0qgrrDnUUhyxpxbBznUnzg,Skid Row,Skid Row,18 and Life,70,229960,False,0.466,0.648,1,-11.101,0,0.028,0.0023,1.49e-05,0.112,0.305,90.435,4,metal
+10Nmj3JCNoMeBQ87uw5j8k,Red Hot Chili Peppers,Stadium Arcadium,Dani California,78,282160,False,0.556,0.913,0,-2.36,1,0.0437,0.0193,8.59e-06,0.346,0.73,96.184,4,metal
+6uXDMINfe9KJETjkzekznW,Linkin Park,New Divide (Int'l DMD Maxi),New Divide,55,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,metal
+78PKCefXwDLbl4FVO1Pjzh,Ozzy Osbourne,Down To Earth,Dreamer,63,284906,False,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419,4,metal
+0oerlffJSzhRVvtDfLcp3N,Bon Jovi,Slippery When Wet,Wanted Dead Or Alive,75,308666,False,0.252,0.802,7,-3.976,1,0.0391,0.13,0.0146,0.309,0.253,150.056,4,metal
+3gVhsZtseYtY1fMuyYq06F,Rammstein,Mutter,Sonne,74,272440,False,0.51,0.917,4,-4.806,0,0.0854,0.0054,0.000133,0.396,0.313,75.098,4,metal
+1y1sChqjzdNWzwdHQADMrR,Linkin Park,Meteora (Bonus Edition),Numb,61,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,metal
+2bPGTMB5sFfFYQ2YvSmup0,Rammstein,Rammstein,Deutschland,77,322339,False,0.521,0.895,7,-5.242,1,0.0442,5.54e-05,0.349,0.0985,0.237,120.117,4,metal
+78XFPcFYN8YFOHjtVwnPsl,Avenged Sevenfold,Waking The Fallen,Unholy Confessions,68,283826,False,0.447,0.876,2,-5.446,0,0.066,0.000359,0.00103,0.255,0.532,92.535,4,metal
+7piw04hPQZ1OHZ9Fq9JOXR,Three Days Grace,One-X,Time of Dying,66,186373,False,0.306,0.873,0,-3.668,0,0.0567,0.00105,0.0,0.52,0.452,198.387,4,metal
+5cZqsjVs6MevCnAkasbEOX,Limp Bizkit,Significant Other,Break Stuff,77,166706,True,0.432,0.884,8,-6.659,1,0.13,0.0127,0.000527,0.166,0.624,108.948,4,metal
+3zwmW1gM4E8FlHXV5nE16u,Audioslave,Out of Exile,Be Yourself,72,278973,False,0.423,0.845,11,-3.509,0,0.0559,0.143,5.07e-06,0.213,0.317,116.602,4,metal
+1z3LsJRCvln5qO5TOLduQM,Bullet For My Valentine,The Poison,Hand Of Blood,60,216133,False,0.378,0.986,8,-2.769,1,0.0832,0.000248,0.0,0.0833,0.492,94.458,4,metal
+2GJ1xx5ZoeIJYbQKLSpoZ3,Skillet,Victorious,Finish Line,64,206060,False,0.53,0.803,5,-5.031,0,0.0386,0.0545,0.0,0.316,0.565,80.992,4,metal
+2Zi27tBhXnDQTz3porgaiw,3 Doors Down,Seventeen Days,Here Without You - Acoustic Version,64,232013,False,0.551,0.574,10,-6.265,0,0.0263,0.0203,0.0,0.186,0.308,143.734,4,metal
+1yJWqYYDQge60nZKdLyiZU,Firehouse,Hold Your Fire,When I Look Into Your Eyes,61,239866,False,0.396,0.612,6,-8.039,1,0.0277,0.00288,4.71e-05,0.233,0.241,146.759,4,metal
+2SgbR6ttzoNlCRGQOKjrop,Pantera,Cowboys from Hell,Cowboys from Hell,72,243533,True,0.415,0.908,2,-9.701,1,0.0765,0.00437,0.0345,0.082,0.437,114.816,4,metal
+2VSbEXqs6NbNiZSTcHlIDR,Creed,Weathered,My Sacrifice,71,294600,False,0.32,0.88,2,-6.035,1,0.0504,0.000101,4.31e-06,0.076,0.257,146.349,4,metal
+018zT8xThRbMH2QeUoMlKQ,Avenged Sevenfold,Sounding The Seventh Trumpet,Warmness On The Soul,55,259800,False,0.614,0.636,7,-5.634,1,0.0287,0.38,0.00459,0.1,0.308,117.966,4,metal
+7x8dCjCr0x6x2lXKujYD34,Foo Fighters,"Echoes, Silence, Patience & Grace",The Pretender,79,269373,False,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,4,metal
+0jztNko72GBF0ZUkatu08w,SiM,TOKYO - HALLOWEEN -,MAKE ME DEAD!,0,237106,False,0.593,0.957,3,-2.012,0,0.0844,0.00559,1.13e-06,0.597,0.611,99.971,4,metal
+4E5xVW505akJX0wcKj8Mpd,Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,68,319266,False,0.519,0.982,7,-3.547,1,0.108,0.00203,0.00055,0.0971,0.361,97.745,4,metal
+02oW7CYWjfiCs1rZs7GNes,Within Temptation,The Heart Of Everything,All I Need,57,290946,False,0.234,0.73,10,-4.854,1,0.0446,0.199,4.77e-06,0.13,0.12,152.972,3,metal
+6gYx4SBZz99Lwn6V5iDll9,Porcupine Tree,Deadwing,Arriving Somewhere But Not Here,51,722200,False,0.377,0.789,2,-5.032,0,0.0504,0.016,0.705,0.245,0.048,159.965,4,metal
+7B6FA3U2qUcV1gzWE6lTrR,Guns N' Roses,Double Talkin' Jive / You Could Be Mine,"You Could Be Mine - Live In New York, Ritz Theatre - May 16, 1991",0,362813,True,0.241,0.995,5,-3.039,0,0.188,0.000455,0.0237,0.694,0.147,157.779,4,metal
+7N3PAbqfTjSEU1edb2tY8j,Van Halen,1984 (Remastered),Jump - 2015 Remaster,78,241599,False,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,4,metal
+4qFgFSv8kYaM9zE2W5uPGX,Guns N' Roses,Double Talkin' Jive / You Could Be Mine,"Double Talkin' Jive - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",0,520000,True,0.293,0.902,11,-6.538,1,0.0564,0.000566,0.712,0.446,0.278,104.193,4,metal
+6YIzo8nufStVKUmyAt62Hx,Oficina G3,João,João,46,380212,False,0.435,0.902,7,-2.939,1,0.0505,0.00638,5.29e-06,0.199,0.273,142.892,4,metal
+4K8g4J2FoDIXfgi762CKW2,Static-X,Metal Lives!,Looks That Kill,0,251600,False,0.641,0.956,5,-4.006,0,0.0376,0.00037,0.00858,0.16,0.669,136.981,4,metal
+5L0oNcUAPW4zFLBekccycM,Sumo,Llegando Los Monos,El Ojo Blindado,50,134173,False,0.192,0.894,2,-7.136,1,0.0421,3.42e-06,0.0028,0.025,0.67,194.458,4,metal
+6bzWr3EpSEolVwlbLk58il,Jane's Addiction,Maintain Your Mojo,Mountain Song,0,242720,False,0.218,0.932,9,-6.803,1,0.098,0.0155,0.0246,0.277,0.315,167.718,4,metal
+6kvvMuXpc0njRRmx8C27N8,Static-X,Post-Millennial Noise,Cold,0,220400,False,0.457,0.962,0,-3.722,1,0.0495,0.000455,0.00271,0.319,0.721,150.039,4,metal
+7qzsvHOsaJdefeDwyZNGjY,Clutch,Groove Metal Roots & Branches,Texan Book of the Dead,0,174800,False,0.436,0.88,9,-8.547,1,0.0651,0.0154,0.0,0.205,0.683,112.012,4,metal
+7gyhWg9k5HkgWZq9V8nsrT,Everclear,Fiesta temática 90s,Santa Monica,0,191506,False,0.491,0.942,7,-5.333,1,0.109,0.156,0.0,0.367,0.398,100.441,4,metal
+63Slke1vlnpTejDeluhyQ9,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,metal
+2Pn03PIZpWIt34wML20qst,Cheap Trick,Christmas Rock 2022,Christmas Christmas,0,136480,False,0.331,0.942,9,-3.968,1,0.141,0.00228,0.00524,0.0974,0.143,180.372,4,metal
+6Boqs3NAzPMxyhztKZOIyi,Anthrax,Halloween Metal Nights,Medusa,1,284040,False,0.334,0.814,11,-14.175,0,0.0447,0.0247,0.000593,0.501,0.676,150.813,4,metal
+02IzKHWkGVtNMdPoOAxHb3,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,metal
+6r10S0KFJcsw81QCtUnn7L,Oficina G3,Histórias e Bicicletas,Descanso,46,317323,False,0.467,0.771,7,-3.823,1,0.0336,0.0157,5.49e-06,0.129,0.206,139.91,4,metal
+2naBVHNHinneXOYmczG7xE,Marilyn Manson,The Pale Emperor,Killing Strangers,55,336487,True,0.593,0.55,5,-5.946,1,0.0379,0.00989,2.94e-06,0.132,0.511,59.996,4,metal
+1EryAkZ0VHstC6haIxVBiE,Deftones,Diamond Eyes,Sextape,75,241533,False,0.367,0.634,5,-6.475,1,0.027,0.000824,0.0759,0.116,0.0964,89.981,4,metal
+6FUwPb4mGlUDbx42uspXaZ,Metallica,Reload,Fuel,71,269800,True,0.49,0.951,1,-3.777,1,0.0477,2.02e-05,0.0027,0.0314,0.589,106.946,4,metal
+507bYMYfbm6sUS9iEAaeSd,Seether;Amy Lee,Disclaimer II,Broken,70,258333,False,0.448,0.61,3,-2.695,0,0.0342,0.0102,0.000491,0.135,0.214,123.762,4,metal
+2RChe0r2cMoyOvuKobZy44,Bon Jovi,Cross Road,Always,76,353026,False,0.383,0.659,4,-5.558,1,0.0312,0.117,0.0,0.0778,0.327,140.795,4,metal
+7CpbhqKUedOIrcvc94p60Y,Drowning Pool,Sinner,Bodies,75,201960,False,0.656,0.932,4,-3.405,0,0.0708,0.00347,0.00147,0.144,0.544,130.936,4,metal
+6rUp7v3l8yC4TKxAAR5Bmx,Three Days Grace,Three Days Grace (Expanded Edition),I Hate Everything About You,72,231480,False,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,4,metal
+6OocN63GLU7NF0wHdewhID,Linkin Park,One More Light,Invisible,56,214346,False,0.47,0.74,11,-6.093,1,0.07,0.0455,0.0,0.091,0.562,84.841,4,metal
+69vMDipMastHvYna7plBdS,Linkin Park,Minutes to Midnight,No More Sorrow,48,221720,False,0.571,0.934,3,-4.22,0,0.0531,0.00316,6.21e-06,0.197,0.409,132.594,4,metal
+54yLLvpezvPO1lA3GspiZj,Dio,Holy Diver,Holy Diver,67,340640,False,0.473,0.783,10,-10.671,0,0.0869,0.0125,0.475,0.268,0.124,91.976,4,metal
+07HqIg8BnB1lJElnw2ZiSR,Bon Jovi,New Jersey (Deluxe Edition),I'll Be There For You,69,346586,False,0.437,0.727,2,-5.432,1,0.0293,0.0532,0.0,0.103,0.233,73.029,4,metal
+2kDH08boXJyhKMl5hnZbrE,Firehouse,Firehouse,Love of a Lifetime,62,286573,False,0.472,0.48,1,-11.893,1,0.0308,0.000204,0.00275,0.0914,0.126,123.023,4,metal
+6OMO6WdRhSfjMPAiPT94wH,Three Days Grace,Human,Painkiller,70,179160,False,0.376,0.95,9,-4.067,1,0.0641,0.00021,0.0,0.0377,0.438,178.018,4,metal
+1PhLYngBKbeDtdmDzCg3Pb,Metallica,Metallica,Sad But True,71,323933,False,0.633,0.846,7,-6.347,1,0.0337,0.000819,0.00139,0.0762,0.448,89.23,4,metal
+25GC50HslaaruyrKjdu0lP,Bullet For My Valentine,Fever,Your Betrayal,68,291426,False,0.569,0.883,2,-4.41,0,0.0748,8.07e-05,7.74e-05,0.0883,0.373,134.001,4,metal
+3HE50TVRquwXe9yv2HFoNL,Three Days Grace,One-X,Never Too Late,70,209333,False,0.433,0.778,2,-4.68,0,0.0371,0.00838,0.0,0.163,0.217,149.864,4,metal
+2kj5f1eRhUFhW6K0qUwoD8,Mr. Big,Bump Ahead [Expanded],Wild World - 2009 Remastered Version,65,208560,False,0.573,0.722,5,-6.518,1,0.0295,0.182,0.0,0.29,0.59,144.209,4,metal
+6sIbv1oWOuma2qV907MUbk,Bring Me The Horizon;Nova Twins,POST HUMAN: SURVIVAL HORROR,1x1 (feat. Nova Twins),67,209598,True,0.452,0.937,1,-3.346,0,0.161,0.000209,3.61e-06,0.606,0.604,164.032,4,metal
+3CIOopLwvyMvXk97ZEksKO,Motörhead,Ace of Spades (Expanded Edition),Ace of Spades,32,168320,False,0.322,0.991,6,-4.453,1,0.213,0.00313,0.0035,0.0708,0.198,140.221,4,metal
+6vjvewW34Y3UiGQtJokGlY,Lamb of God,Sacrament,Walk with Me In Hell,61,311506,False,0.286,0.982,0,-3.828,0,0.131,3.39e-05,0.00675,0.309,0.118,110.629,4,metal
+1RTYixE1DD3g3upEpmCJpa,Black Veil Brides,Wretched and Divine: The Story Of The Wild Ones,In The End,71,228280,False,0.442,0.939,8,-4.18,1,0.0941,0.000183,0.00589,0.0857,0.27,140.021,4,metal
+4ZpXHlV2vQVfPXUvbDSZ92,Skid Row,Skid Row,I Remember You,69,313693,False,0.345,0.531,0,-12.708,1,0.0305,0.00642,7.28e-06,0.14,0.49,176.302,4,metal
+6TYQRlRci6AkVrN9a5C7ne,Black Sabbath,Paranoid,War Pigs (2009 - Remaster),33,475000,False,0.369,0.679,6,-9.729,0,0.0742,0.128,0.0125,0.197,0.508,91.883,4,metal
+2yss0n7KmvmSr4EHvjfFpn,Linkin Park,Meteora (Bonus Edition),Don't Stay,63,187933,False,0.488,0.995,1,-3.096,0,0.108,0.00153,0.0,0.911,0.679,90.058,4,metal
+5qFxuUIAwJlzO60vqOiL7y,Dio,Holy Diver,Rainbow In The Dark,68,252693,False,0.508,0.912,9,-8.049,0,0.0368,7.06e-05,0.403,0.0492,0.682,117.582,4,metal
+1fQaoh3imrMunWVZh5kf90,Avenged Sevenfold,Hail to the King,Shepherd of Fire,70,323800,False,0.576,0.906,2,-7.677,1,0.0571,0.000332,0.0614,0.0908,0.211,127.935,4,metal
+0M955bMOoilikPXwKLYpoi,Three Days Grace,Three Days Grace,I Hate Everything About You,74,231480,False,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,4,metal
+5KnqauuLF6qyZA9RzfeKxG,Red Hot Chili Peppers,Return of the Dream Canteen,The Drummer,68,202888,False,0.536,0.894,9,-5.687,1,0.0479,0.00596,0.0168,0.118,0.784,174.899,4,metal
+1158ckiB5S4cpsdYHDB9IF,Deftones,Around the Fur,My Own Summer (Shove It),76,214760,False,0.443,0.781,1,-4.277,1,0.0377,1.33e-05,0.205,0.166,0.372,71.841,4,metal
+6olS0TmHmsGr0hXtcBsiVM,Megadeth,Youthanasia (Expanded Edition),A Tout Le Monde - Remastered 2004,66,262133,False,0.272,0.747,5,-4.86,0,0.0401,0.000393,4.03e-05,0.16,0.255,202.777,4,metal
+5XUuldRjPXcP5QxyEN4IXT,Falling In Reverse,Voices In My Head,Voices In My Head,73,191414,True,0.546,0.898,2,-3.067,0,0.162,0.0266,0.0,0.129,0.639,173.17,4,metal
+2RaA6kIcvomt77qlIgGhCT,Judas Priest,British Steel,Breaking the Law,72,153840,False,0.362,0.961,2,-5.664,1,0.0857,0.024,9.35e-06,0.159,0.491,164.019,4,metal
+4EchqUKQ3qAQuRNKmeIpnf,The Offspring,Americana,The Kids Aren't Alright,81,180160,False,0.523,0.943,1,-4.203,1,0.0337,0.00704,3.81e-05,0.0579,0.766,99.607,4,metal
+5LyRtsQLhcXmy50VXhQXXS,Megadeth,Rust In Peace (Expanded Edition),Holy Wars...The Punishment Due - Remastered,69,392600,False,0.325,0.985,11,-3.941,1,0.151,0.00177,0.107,0.351,0.221,125.307,4,metal
+469rBLYJUZHMJLtq2Wch3h,Iron Maiden,The Number of the Beast (2015 Remaster),Hallowed Be Thy Name - 2015 Remaster,68,431093,False,0.313,0.882,0,-6.215,1,0.0355,0.0346,0.338,0.45,0.3,103.981,4,metal
+2iatXu415rxIRAQJ9dXWi5,Porcupine Tree,In Absentia (Deluxe - Remastered),Trains - Remastered,56,360323,False,0.453,0.581,9,-12.713,0,0.0336,0.0256,0.0236,0.154,0.213,174.203,4,metal
+4kl3TXOlj8JXMPtZXUmRXI,Fuel,Fiesta temática 90s,Sunburn,0,265573,False,0.501,0.795,4,-7.147,0,0.0298,0.00279,0.00028,0.105,0.544,93.556,4,metal
+32puFzyAEnxuSQNL9H8E4i,Manowar,Metal,Kings of Metal,0,223866,False,0.575,0.881,9,-13.012,1,0.0356,0.000113,2.59e-05,0.147,0.692,132.128,4,metal
+1Mf4ZMtbgDrFYvv1QZ69gm,Nonpoint,Metal,In the Air Tonight,0,271240,False,0.562,0.808,0,-4.836,1,0.0462,0.0118,0.158,0.137,0.196,99.956,4,metal
+0yH7RR6CPpidfHe6KD15WV,Oficina G3,Depois da Guerra,Meus Próprios Meios,45,292478,False,0.49,0.967,0,-3.68,0,0.085,0.000863,4.19e-06,0.0901,0.374,159.998,4,metal
+3XgnTlLJymGvu9q18AgUt4,Nonpoint,Metal Lives!,In the Air Tonight,0,271240,False,0.562,0.808,0,-4.836,1,0.0462,0.0118,0.158,0.137,0.196,99.956,4,metal
+2EPzkz5PWXywX20xUArbyx,Death,Metal,Symbolic,0,392800,False,0.288,0.982,6,-7.034,0,0.269,6.65e-05,0.0123,0.163,0.127,163.469,4,metal
+5FcQcDHuwpzP70vhlCqVi2,Steppenwolf,Fiesta temática 60s,The Pusher,0,349826,False,0.508,0.47,0,-9.339,1,0.0262,0.201,0.0553,0.14,0.69,81.016,4,metal
+1MmzIqMP1y5AGIX20RZxDc,Fuel,Halloween Metal Nights,Won't Back Down,0,201426,False,0.465,0.883,8,-4.794,1,0.0504,0.000101,0.425,0.638,0.133,95.04,4,metal
+5z7GGdAezDWdJxBlAM4Hkf,Steppenwolf,On air 70's Hits,Hey Lawdy Mama - Single Version,0,178760,False,0.589,0.831,4,-12.373,1,0.0615,0.0195,2.41e-05,0.0635,0.511,98.813,4,metal
+2JuMBpiZmsz9NKeRdDxiCw,Billy Squier,Rock n Roll Christmas,"Christmas Is The Time To Say ""I Love You""",0,174780,False,0.505,0.687,1,-11.207,1,0.0462,0.234,0.0,0.874,0.72,104.315,4,metal
+5Jq8ISsgnm2mPRqJi1swaZ,Steppenwolf,Обратно в клас - rock,Born To Be Wild - Single Version,1,216693,False,0.468,0.81,9,-8.33,1,0.0724,0.00169,0.0314,0.567,0.464,145.589,4,metal
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,metal
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,metal
+2MzlgCHg6QlImyLeT38B5A,Billy Squier,Christmas Playlist 2022,"Christmas Is The Time To Say ""I Love You""",0,174780,False,0.505,0.687,1,-11.207,1,0.0462,0.234,0.0,0.874,0.72,104.315,4,metal
+5XW4BwCrfYpci5zMbJxs4N,Wig Wam,Non Stop Rock'n Roll,Do Ya Wanna Taste It,63,176973,False,0.559,0.793,2,-3.536,0,0.028,0.0191,0.0,0.394,0.69,92.034,4,metal
+5UrZ1UfrJhyB7RMmWaRjXO,Northlane;PhaseOne,Crash & Burn,Crash & Burn,54,246400,False,0.227,0.861,8,-3.997,1,0.0628,0.000218,6.23e-06,0.155,0.143,74.824,1,metal
+2JuasWPUodaUxf5nwNpciQ,Alice In Chains,Jar Of Flies,Nutshell,71,259200,False,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,3,metal
+3YuaBvuZqcwN3CEAyyoaei,Audioslave,Audioslave,Like a Stone,78,293960,False,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,4,metal
+6c0I7CfL9ziGZN8yYkLppP,Linkin Park,One More Light,Sharp Edges,57,178200,False,0.652,0.714,0,-5.678,1,0.0562,0.145,0.0,0.154,0.624,112.029,4,metal
+5uuXtfqM7Wp3idCxyHeOll,Linkin Park,Hybrid Theory (Bonus Edition),With You,64,203266,False,0.421,0.978,6,-4.004,0,0.302,0.0037,0.0,0.111,0.359,196.921,4,metal
+1lImSSazJdzC5sAzrJqDNr,Tomorrow,All the Things She Said,All the Things She Said,62,143639,False,0.546,0.809,8,-5.848,0,0.0904,0.11,0.000802,0.316,0.409,114.765,4,metal
+2HHF8es4MShLvMiDgOq3Z5,Firehouse,3,Here for You,55,235826,False,0.565,0.651,6,-8.611,1,0.0239,0.193,0.0,0.062,0.504,92.028,4,metal
+0X1sqQ652p1sceKM2nJlIJ,Bon Jovi,Bon Jovi,Runaway,73,230666,False,0.475,0.899,9,-4.321,0,0.0637,0.00375,1.91e-05,0.14,0.603,152.445,4,metal
+0T9tbj6zsRKLiUx06sbOWX,Alter Bridge,One Day Remains,In Loving Memory,57,340106,False,0.304,0.637,6,-5.922,1,0.0334,0.00749,6.44e-05,0.216,0.174,140.498,4,metal
+11lz5IuUrg2qVuNrGPRVq2,Nazareth,The Anthology,Love Hurts,32,233293,False,0.48,0.427,7,-7.961,1,0.0243,0.00315,0.00442,0.338,0.148,80.078,4,metal
+0tZ3mElWcr74OOhKEiNz1x,Rage Against The Machine,Evil Empire,Bulls On Parade,75,229466,True,0.412,0.919,5,-7.291,1,0.184,0.0124,0.0601,0.424,0.572,166.367,4,metal
+0YZEYxd1oiqZRFhnnmTKKi,Motionless In White,Disguise,Another Life,72,205394,False,0.39,0.939,4,-3.828,0,0.0787,5.08e-05,0.0,0.0968,0.495,161.997,4,metal
+2gscB6kDOmrv1P6qs2KXE3,Slipknot,Slipknot (10th Anniversary Edition),Wait and Bleed,73,147840,False,0.382,0.996,7,-4.119,1,0.104,0.00208,0.0,0.417,0.327,93.345,4,metal
+2qJkesdHu9sMMVFgkRkqhQ,Theory of a Deadman,Savages,Angel,65,202213,False,0.443,0.844,11,-5.414,0,0.0425,0.00251,0.0,0.085,0.452,76.001,4,metal
+6xtQ23d8GEXgcxyUKPtwc5,Linkin Park,Hybrid Theory (Bonus Edition),Runaway,65,183973,False,0.636,0.884,7,-4.743,1,0.0584,0.0142,0.0,0.253,0.446,109.16,4,metal
+4vJr55lngvhSM8WIh9CjQc,Pantera,Cowboys from Hell,Cemetery Gates,67,422933,True,0.274,0.726,9,-11.541,1,0.0449,0.000212,0.0113,0.0993,0.426,146.449,4,metal
+1lATXTBJDHwawvT1UfxWu3,TOOL,"10,000 Days",The Pot,69,381946,True,0.469,0.79,7,-6.889,1,0.0391,0.000148,0.372,0.282,0.466,107.45,4,metal
+7txxAtOMwLLnQTpKeBL6bp,Danzig,Danzig,Mother,76,204866,True,0.365,0.763,11,-9.45,0,0.0591,0.00726,0.000457,0.0865,0.342,148.366,4,metal
+4Uiw0Sl9yskBaC6P4DcdVD,Deftones,Around the Fur,Be Quiet and Drive (Far Away),76,299866,False,0.206,0.965,1,-5.116,1,0.079,9.91e-06,0.827,0.367,0.168,92.615,4,metal
+3W2reBya7FkjHCP1B2nmQr,Red Hot Chili Peppers,Return of the Dream Canteen,Peace and Love,67,243224,True,0.68,0.679,10,-6.076,1,0.0423,0.00495,0.00861,0.0953,0.867,83.821,4,metal
+11Ojp7JniVvwd0gmgvyKkd,Five Finger Death Punch,"The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",Wrong Side of Heaven,66,271000,True,0.481,0.932,4,-4.592,0,0.083,0.00721,0.0,0.337,0.543,149.992,4,metal
+1Eolhana7nKHYpcYpdVcT5,Jimi Hendrix,Axis: Bold As Love,Little Wing,71,145746,False,0.515,0.534,6,-8.045,1,0.0768,0.181,0.00278,0.0547,0.426,70.776,4,metal
+04EtBLFIxbcVt9NdYgcrpF,Lamb of God,Sacrament,Redneck,64,220880,True,0.512,0.996,2,-2.1,1,0.114,5.63e-05,0.000167,0.347,0.0601,130.931,4,metal
+2jfk3m8nq5IvB35s2xIs1O,Skillet,Rise (Deluxe Edition),Not Gonna Die,66,225280,False,0.445,0.953,5,-2.463,0,0.0704,0.0106,0.0,0.281,0.475,172.063,4,metal
+2gSVKxPDww9Eep5rdvtdem,Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,My Way,73,272973,True,0.576,0.864,6,-3.981,1,0.0462,0.02,1.68e-06,0.683,0.609,97.225,4,metal
+55mJleti2WfWEFNFcBduhc,TOOL,Lateralus,Schism,70,403533,False,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441,3,metal
+2n1jBz26dVBtSbMvJNjGsu,Linkin Park,The Hunting Party,Until It's Gone,58,233240,False,0.47,0.878,4,-3.391,0,0.0429,0.0172,0.054,0.235,0.322,114.986,4,metal
+63OFKbMaZSDZ4wtesuuq6f,Steppenwolf,Steppenwolf,Born To Be Wild,73,210373,False,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928,4,metal
+3UygY7qW2cvG9Llkay6i1i,Evanescence,Fallen,Going Under,73,214946,False,0.37,0.858,11,-4.885,0,0.0545,0.00815,2.12e-05,0.229,0.464,175.077,4,metal
+10ASBwZsp7oUUDsJEYz3uS,Breaking Benjamin,Phobia (Explicit Version),Dance With The Devil,68,227106,False,0.345,0.929,3,-4.469,0,0.142,0.00015,0.00106,0.129,0.181,155.041,3,metal
+7cpC2EuFMexgy392K13RZb,Red Hot Chili Peppers,Return of the Dream Canteen,Fake as Fu@k,66,262373,True,0.599,0.777,8,-6.037,0,0.0922,0.0355,0.00301,0.0936,0.401,132.252,4,metal
+1RXoCep9hxApPfx8UFsGZk,Thousand Foot Krutch,Welcome To The Masquerade (Fan Edition),Take It Out On Me,66,197373,False,0.465,0.813,7,-4.321,1,0.0841,0.00281,0.0,0.0464,0.614,148.029,4,metal
+43GS3mtezoIFiuIZCLLiDY,Poison,Open Up And Say...Ahh! (20th Anniversary Edition),Every Rose Has Its Thorn - Remastered 2003,71,260173,False,0.533,0.637,6,-5.571,1,0.0323,0.16,1.12e-05,0.369,0.292,140.167,4,metal
+4Y7eqYTpV7fQxpYj1isN2F,We Came As Romans;Caleb Shomo,Black Hole,Black Hole,70,179181,False,0.48,0.958,5,-4.241,0,0.0664,2.45e-05,0.0,0.52,0.385,110.05,4,metal
+7BCxIjRsqbc9Yiy2haBCIK,Red Hot Chili Peppers,Return of the Dream Canteen,Tippa My Tongue,66,260808,False,0.573,0.913,5,-6.52,0,0.0409,0.00861,0.0273,0.114,0.795,88.418,4,metal
+69kZsoRrSf7GBTSdJ4BjqA,Dream Theater,Images and Words,Another Day,55,263120,False,0.454,0.614,11,-10.41,1,0.0302,0.00223,1.16e-05,0.0936,0.343,140.56,4,metal
+4Zc7TCHzuNwL0AFBlyLdyr,Iron Maiden,The Number of the Beast (2015 Remaster),Run to the Hills - 2015 Remaster,72,233506,False,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,0.458,173.671,4,metal
+3jpzdLvSyufByWuvgBNPxU,DEHA INC.,Baskın,Baskın,45,149700,True,0.609,0.935,4,-3.182,1,0.234,0.23,1.42e-05,0.35,0.288,119.974,4,metal
+5FQXMRDSTkn9fowDJ3kZo8,Sick Puppies,Tri-Polar (International Version),You're Going Down,66,187346,True,0.49,0.833,6,-5.899,1,0.0487,0.0116,0.000504,0.15,0.39,89.981,4,metal
+3UIYKqvEWe4SoTqP3504ZJ,Celldweller,FiXT Presents: Sinister Sounds,Heart-Break,2,110640,False,0.518,0.61,2,-6.141,1,0.0734,0.00158,0.8,0.111,0.0654,185.839,3,metal
+1A6ETm7oNSZ5SRr6uuvKdx,Flema,Si el Placer Es un Pecado...,Vahos del Ayer,45,152746,False,0.504,0.884,2,-5.09,1,0.133,0.00481,1.48e-06,0.0817,0.743,115.18,4,metal
+4UH2UeR4NKZ4aG4mJI4WBS,Celldweller,FiXT Presents: Sinister Sounds,Halloween Theme,7,95777,False,0.449,0.879,11,-3.968,1,0.0388,0.00764,0.948,0.8,0.085,135.055,4,metal
+0sDiCaxE8xmytubZFTqLK2,Celldweller,FiXT Presents: Sinister Sounds,When Your Walls Fall,5,308199,False,0.465,0.568,2,-8.231,1,0.0339,0.00427,0.871,0.109,0.0273,95.012,4,metal
+4DWvOeinTzhj4DeGYn9tqz,Hermetica,Intérpretes,Tú Eres Su Seguridad,43,304600,False,0.434,0.676,0,-8.545,1,0.0305,0.00236,0.0,0.398,0.486,127.331,4,metal
+68KmjjKRK6cehdJHvCwlBr,Celldweller,FiXT Presents: Sinister Sounds,Cry Little Sister vs. Hello Zepp,7,303642,False,0.544,0.74,2,-6.656,1,0.0352,0.000286,0.214,0.388,0.338,140.031,4,metal
+71DzeSJmIaZ9UhJ1rJJ5Od,38 Special,Fishing Music,Caught Up In You,3,278133,False,0.361,0.787,1,-4.982,0,0.0363,0.0197,0.000586,0.0421,0.889,130.693,4,metal
+6u3HTPvOxhVWllNhu07vvA,38 Special,80s Bangers Vol. 2,Hold On Loosely,0,279754,False,0.565,0.707,9,-5.65,1,0.0298,0.0101,8.16e-05,0.0851,0.831,127.222,4,metal
+5noCgCx4mDlq6fIa4z7YST,The Darkness,Timeless Rock Hits,I Believe in a Thing Called Love,0,217653,False,0.442,0.846,4,-5.214,1,0.0763,0.0538,4.56e-06,0.282,0.622,128.237,4,metal
+6jZeCjc01WUhtMwEmQLlhg,Oficina G3,Histórias e Bicicletas,Água Viva,44,379367,False,0.294,0.89,8,-2.877,1,0.0747,0.0019,7.14e-06,0.081,0.239,114.727,4,metal
+2Aj4Cbf7cQrTPLCw5Ccz0q,Slipknot,TikTok Rock,Custer,39,254466,True,0.407,0.98,7,-1.58,1,0.107,0.00174,0.000112,0.119,0.537,131.067,4,metal
+70L6nHORQsblY813yNqUR3,Deftones,Saturday Night Wrist,Cherry Waves,75,317706,False,0.47,0.859,2,-3.663,1,0.0537,0.000362,0.00691,0.142,0.17,124.01,4,metal
+737yse38y2hsWQeNRrLaMY,Linkin Park,Not Alone,Not Alone,56,252840,False,0.682,0.766,6,-5.546,1,0.0313,0.149,3.38e-06,0.144,0.545,120.04,4,metal
+5BK5IvPzmTZBGsCnYRjSue,Nickelback,Photograph,We Will Rock You,47,119786,False,0.577,0.905,4,-5.018,0,0.114,0.0404,0.0,0.0685,0.288,80.98,4,metal
+1aXFBWnnPFRKUN7vuIA5h0,Metallica,Garage Inc.,Turn The Page,64,366466,False,0.426,0.813,8,-3.963,1,0.0318,1.94e-05,0.022,0.0937,0.228,149.013,4,metal
+3cQGb2POE359G9WH81bF60,Linkin Park,LIVING THINGS,I'LL BE GONE,55,211093,False,0.501,0.927,7,-4.58,1,0.0292,0.00686,0.0,0.131,0.611,139.961,4,metal
+34isqXjbTstbYwl2MfdzDq,Linkin Park,One More Light,Sorry for Now,55,203653,False,0.608,0.584,1,-6.652,1,0.0352,0.00995,0.0,0.203,0.251,94.956,4,metal
+13Uvqll8OQDjw3wDweIK9y,Metallica,Death Magnetic,The Day That Never Comes,65,476266,False,0.334,0.982,4,-2.293,0,0.0619,9.11e-05,0.149,0.106,0.501,126.883,4,metal
+6oO7WMjD6kEvCITLbVj0mu,System Of A Down,Hypnotize,Hypnotize,69,189440,False,0.274,0.92,6,-4.096,1,0.0489,0.0303,0.000412,0.115,0.0397,154.016,4,metal
+28WmNsclKsrVmdv3tDmoYU,Metallica,Kill 'Em All (Remastered),Seek & Destroy - Remastered,69,414720,False,0.445,0.964,9,-5.493,1,0.282,0.037,0.0132,0.0773,0.448,140.817,4,metal
+1ZFm5SAlmVzufSu1CYWiBN,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),I Will Not Bow,41,216600,False,0.538,0.953,8,-3.685,1,0.0562,0.000169,5.49e-06,0.365,0.646,107.983,4,metal
+3hb2ScEVkGchcAQqrPLP0R,Nickelback,All the Right Reasons,Photograph,69,258920,False,0.515,0.876,8,-3.756,1,0.0292,0.000932,0.000166,0.136,0.385,145.916,4,metal
+2xt2piJx6jlFkjS77YiqpL,Audioslave,Audioslave,Like a Stone,47,293960,False,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,4,metal
+0gchQwxmBWj5no8NJ8b2yH,Bring Me The Horizon,Sempiternal (Expanded Edition),Sleepwalking,70,230093,False,0.4,0.959,2,-3.258,0,0.103,0.000187,4.21e-06,0.231,0.339,149.062,4,metal
+29wJiSQcze8HEmxkUQykyp,Europe,The Final Countdown (Expanded Edition),Carrie,70,272133,False,0.455,0.487,7,-7.112,1,0.0264,0.114,2.43e-06,0.358,0.139,136.482,4,metal
+1gAaRSN57UYVRI4eWRyAvP,Linkin Park,Hybrid Theory (Bonus Edition),Pushing Me Away,63,191440,False,0.484,0.913,6,-4.305,1,0.0425,0.000391,0.0,0.309,0.279,103.103,4,metal
+5pRElcsPZrgZXkoON2o5Go,Skillet,Comatose,Comatose,67,230426,False,0.359,0.955,4,-2.323,0,0.12,0.00116,0.0,0.349,0.446,170.033,4,metal
+70Z9t1qhytWtG4cCmmi7mU,Twisted Sister,Stay Hungry,I Wanna Rock,73,179760,False,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244,4,metal
+6W21LNLz9Sw7sUSNWMSHRu,Korn,Follow The Leader,Freak On a Leash,76,255733,True,0.353,0.898,2,-5.877,1,0.052,2.23e-05,0.105,0.39,0.525,103.293,4,metal
+58c8pMaXi3xdpBIVfG6WGC,Extreme,Extreme II: Pornograffitti (Deluxe),More Than Words,67,334000,False,0.403,0.134,6,-14.955,1,0.0353,0.469,0.0,0.113,0.258,182.894,4,metal
+2o4AknH1hXnleCRW2rH45w,Alter Bridge,Blackbird,Blackbird,57,478133,False,0.279,0.806,6,-4.714,0,0.0448,0.00499,0.0126,0.116,0.132,149.463,3,metal
+6i4Qi1mJxXjqNIL9HfJhRs,Guns N' Roses,Use Your Illusion II,Civil War,70,462093,False,0.336,0.787,10,-8.803,0,0.0732,0.0793,0.0648,0.32,0.383,140.003,4,metal
+31RTFPrB7wmYBhlkM2ILXG,System Of A Down,System Of A Down,Sugar,73,153800,True,0.451,0.889,1,-2.693,1,0.261,0.00167,0.00215,0.258,0.586,131.073,4,metal
+2vPZ4Lklyu75zBR3SgbFNI,Slipknot,All Hope Is Gone (10th Anniversary),Snuff,65,276146,False,0.544,0.69,6,-5.723,0,0.0425,0.012,0.0095,0.0615,0.219,123.962,4,metal
+1ZozJfi8u9cO2Ob8KwiwNT,Creed,Human Clay,Higher,71,316733,False,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,4,metal
+4fiOTntQKr24p07FvQDHZE,Slayer,Reign In Blood (Expanded),Raining Blood,65,255186,False,0.227,0.995,10,-4.361,0,0.173,0.000405,0.393,0.127,0.0363,87.499,4,metal
+1wIE2nfv5oF3ld71AriEDP,My Darkest Days,My Darkest Days (Deluxe Edition),Still Worth Fighting For,60,196066,False,0.474,0.873,5,-2.926,0,0.0435,0.00326,0.0,0.188,0.372,115.969,4,metal
+0rPTPahzhGx9LSzI8XX5OM,Linkin Park,Meteora (Bonus Edition),Figure.09,60,197506,False,0.518,0.951,9,-3.198,1,0.0529,0.00919,0.0,0.148,0.537,98.068,4,metal
+2dbA4sPwu3iK72c0mA6907,Red Hot Chili Peppers,Return of the Dream Canteen,Bella,66,291346,False,0.492,0.815,7,-5.499,0,0.0487,0.00643,2e-05,0.0875,0.812,171.379,4,metal
+5axys0aO71B1dZDfnrxHvy,Red Hot Chili Peppers,Return of the Dream Canteen,Carry Me Home,61,253494,False,0.481,0.715,11,-7.14,1,0.0661,0.023,0.00213,0.181,0.222,131.452,3,metal
+1QTQ3VNzabl4yF5GJE6hhK,Three Days Grace,EXPLOSIONS,So Called Life,70,206640,True,0.505,0.909,2,-4.316,1,0.0622,0.000179,0.0,0.0922,0.457,160.051,4,metal
+6L5QMBrydoaapTDMQ0Anui,Linkin Park;Rakim,The Hunting Party,Guilty All the Same (feat. Rakim),59,355120,False,0.566,0.969,2,-3.369,0,0.046,0.0287,0.000442,0.281,0.641,100.012,4,metal
+0G1BEi8ByngMCJqcPnDACw,Red Hot Chili Peppers,Return of the Dream Canteen,Eddie,66,341986,False,0.515,0.809,9,-5.817,0,0.0512,0.00455,0.0723,0.0905,0.525,142.011,4,metal
+5kFWp8In0sIpeXPfPuJlYE,Red Hot Chili Peppers,Return of the Dream Canteen,Roulette,64,297105,False,0.689,0.869,1,-6.688,0,0.0511,0.00242,0.00339,0.127,0.84,100.684,4,metal
+4diMr8l7HCK1OdrQM3LAzq,Red Hot Chili Peppers,Return of the Dream Canteen,Afterlife,63,254301,False,0.561,0.866,2,-5.258,0,0.0352,0.00623,0.039,0.0414,0.824,93.104,4,metal
+6gZVQvQZOFpzIy3HblJ20F,Alice In Chains,Facelift,Man in the Box,75,285200,True,0.355,0.791,8,-7.565,1,0.0453,0.00045,0.0,0.0969,0.758,106.392,4,metal
+1hlveB9M6ijHZRbzZ2teyh,Twisted Sister,Stay Hungry,We're Not Gonna Take It,75,219666,False,0.502,0.924,4,-6.299,1,0.0503,0.0127,0.0,0.162,0.922,149.186,4,metal
+1d6zb2JQZt9LpxOwU1E3y4,Red Hot Chili Peppers,Return of the Dream Canteen,Handful,62,240217,False,0.572,0.601,11,-6.879,0,0.0392,0.0123,0.000237,0.101,0.552,142.258,3,metal
+00B7SBwrjbycLMOgAmeIU8,Red Hot Chili Peppers,Return of the Dream Canteen,Reach Out,66,251588,False,0.663,0.71,11,-5.55,0,0.0599,0.00745,0.00559,0.147,0.487,120.984,4,metal
+1TmBaKkDUu0akM9xzSxRia,Red Hot Chili Peppers,Return of the Dream Canteen,Bag of Grins,62,306434,False,0.486,0.812,0,-6.244,1,0.0553,0.0106,0.0116,0.201,0.303,112.648,4,metal
+6Nd6ntkzr4t8o1FKPGOSMt,Whitesnake,Whitesnake (2018 Remaster),Here I Go Again - 2018 Remaster,69,275395,False,0.292,0.823,7,-6.763,1,0.0407,0.0117,7.79e-05,0.155,0.244,89.939,4,metal
+0jqblvsI9LBY4irmLVqqEO,Avenged Sevenfold,Nightmare,Welcome to the Family,67,245573,False,0.567,0.946,2,-3.973,0,0.0935,0.00267,0.0,0.0567,0.699,94.985,4,metal
+2AHctrKhJekyp7wIykP83U,Red Hot Chili Peppers,Return of the Dream Canteen,Shoot Me a Smile,62,222737,False,0.576,0.798,9,-6.691,0,0.0351,0.125,0.134,0.137,0.399,146.8,4,metal
+141GeeQQItnC1sH7gXUDlf,Red Hot Chili Peppers,Return of the Dream Canteen,Copperbelly,60,224983,False,0.592,0.616,2,-7.227,0,0.0337,0.0917,0.0106,0.179,0.492,129.896,3,metal
+3LwU6R57IykpJiB5a4wD2j,Carajo,Inmundo,El Que Ama Lo Que Hace,43,222520,False,0.464,0.99,6,-2.614,1,0.0884,0.00261,0.0,0.307,0.558,160.03,4,metal
+4Idm2ydGjeD7r2RXZm8h3V,Fear Factory,Metal,Body Hammer,0,305533,False,0.468,0.946,8,-6.635,1,0.0772,1.65e-05,0.0155,0.0987,0.362,81.961,4,metal
+2AtCLtWvBG47sampT4i3G7,OConnor,Un Poco de Respeto,Yo Caníbal,42,195932,False,0.442,0.823,2,-7.16,1,0.0438,4.6e-05,0.000343,0.324,0.424,182.069,4,metal
+5QdrB78t2pyqfWha9RWdR6,Oficina G3,Depois da Guerra,Continuar,44,267540,False,0.35,0.716,9,-4.95,0,0.0357,0.131,0.0,0.147,0.201,175.915,3,metal
+33xvLHLR4T6FdGZ2Nvonww,Flema,25 Años,Más Feliz Que la Mierda,44,116106,False,0.4,0.742,0,-5.335,1,0.0453,0.000545,5.39e-05,0.101,0.366,99.299,4,metal
+4oNnnYe8eKMxTcNnPOtAzr,Fear Factory,Groove Metal Roots & Branches,Body Hammer,0,305533,False,0.468,0.946,8,-6.635,1,0.0772,1.65e-05,0.0155,0.0987,0.362,81.961,4,metal
+023iiH1B94VYpHuq2Wnp1b,Linkin Park,A Thousand Suns,Burning in the Skies,30,253160,False,0.607,0.891,9,-4.56,0,0.0387,0.0417,0.00521,0.314,0.462,120.012,3,metal
+5OxclJsdFESni44YlpNpkR,Bring Me The Horizon,Parasite Eve,Parasite Eve,65,291812,True,0.589,0.797,9,-5.464,1,0.15,0.0289,4.35e-06,0.383,0.232,102.489,4,metal
+7wTJ3ciKwjGcdENc5AOLZt,NŪR,The Snake,The Snake,32,314760,False,0.434,0.822,1,-7.785,0,0.0671,4.74e-05,0.853,0.135,0.109,134.888,3,metal
+1EJZQ6uhrvl4JtoKn7RKFd,Scorpions,Follow Your Heart,Follow Your Heart,56,245626,False,0.353,0.656,7,-5.712,0,0.0319,0.0431,0.000161,0.139,0.195,153.747,4,metal
+6RJdYpFQwLyNfDc5FbjkgV,Disturbed,Ten Thousand Fists,Stricken,72,245226,False,0.402,0.969,8,-2.825,1,0.181,9.14e-05,0.0325,0.225,0.262,173.847,4,metal
+1KvyBpAxgllKW7bQb0GYCR,Linkin Park,One More Light,Halfway Right,54,217066,False,0.655,0.626,6,-7.155,0,0.045,0.0134,0.0,0.349,0.498,134.028,4,metal
+3eMOYZRLqXMBw9aqaFR92P,Armored Dawn,S.O.S.,S.O.S.,54,227894,False,0.541,0.971,10,-3.323,0,0.088,2.78e-05,0.0052,0.0837,0.36,107.949,4,metal
+5I29F9GR0OkaU1nuxp9hU8,Lamb of God,Lamb of God,Memento Mori,56,348099,False,0.538,0.984,2,-4.589,1,0.0992,0.000149,0.787,0.127,0.0494,123.008,4,metal
+77tR4iQgyQTAnhhuPik3ZP,Escape the Fate,Ungrateful (Deluxe),One For the Money,65,199950,False,0.525,0.964,5,-3.451,0,0.0571,0.000328,5.5e-06,0.0527,0.385,90.013,4,metal
+5z6xHjCZr7a7AIcy8sPBKy,Alien Ant Farm,Anthology,Smooth Criminal,76,209266,False,0.653,0.964,9,-4.261,0,0.0582,0.00316,0.00512,0.144,0.87,126.928,4,metal
+1grvqYbhgqJxwdzeY1vgSb,Scorpions,Blackout,No One Like You (2015 - Remaster),31,238866,False,0.441,0.796,9,-2.851,0,0.0431,0.0167,2.52e-06,0.166,0.696,118.146,4,metal
+3pHpV3pa96s4vuBP7sQq0V,Whitesnake,Whitesnake (2018 Remaster),Is This Love - 2018 Remaster,69,284496,False,0.263,0.759,0,-7.288,1,0.0431,0.0555,0.0,0.231,0.429,179.904,4,metal
+42ZVk59gT4tMlrZmd8Ijxf,Disturbed,Indestructible (Deluxe Edition),Indestructible,69,278026,False,0.429,0.966,8,-4.605,1,0.0733,0.000209,0.124,0.371,0.525,179.956,4,metal
+3a94TbZOxhkI9xuNwYL53b,Red Hot Chili Peppers,Black Summer,Black Summer,72,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,metal
+4PkJ7c9y1CwpuVOiJODnCZ,Nickelback,The Long Road,Someday,71,207466,False,0.455,0.858,11,-5.659,0,0.0391,0.000616,0.000247,0.226,0.597,163.118,4,metal
+1f2V8U1BiWaC9aJWmpOARe,Red Hot Chili Peppers,By the Way (Deluxe Edition),By the Way,75,216933,False,0.451,0.97,0,-4.938,1,0.107,0.0264,0.00355,0.102,0.198,122.444,4,metal
+0L7zm6afBEtrNKo6C6Gj08,Judas Priest,Painkiller,Painkiller,68,365826,False,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0847,0.268,0.101,103.16,4,metal
+6y20BV5L33R8YXM0YuI38N,Queens of the Stone Age,Songs For The Deaf,No One Knows,72,278746,False,0.509,0.584,0,-4.907,1,0.057,0.0368,9.96e-05,0.384,0.685,170.411,4,metal
+22GbAGb80ZZNgm2yrBMnpR,Metallica,Metallica,Wherever I May Roam,66,403866,False,0.55,0.824,9,-7.848,0,0.0347,0.000362,0.00115,0.0865,0.332,131.387,4,metal
+3XclwoQxz4p6Dl7VUf90KW,Black Sabbath,Black Sabbath,N.I.B. (2009 - Remaster),30,366173,False,0.463,0.552,4,-9.403,0,0.0605,0.141,9.66e-06,0.129,0.421,105.495,4,metal
+56fiFTRrSiHHH3gBeaTg2P,Slipknot,We Are Not Your Kind,Nero Forte,69,315177,True,0.336,0.978,7,-2.358,1,0.0846,0.000437,0.000525,0.138,0.496,129.842,4,metal
+32fEW4jygJjjnZh2iBa5IR,Linkin Park,Meteora (Bonus Edition),Easier to Run,57,204173,False,0.545,0.861,3,-4.819,0,0.034,0.0624,0.0,0.131,0.279,105.017,4,metal
+6irNz2hSXvd2QJG0vXyBFR,Avenged Sevenfold,City of Evil,Bat Country,42,311813,False,0.541,0.968,0,-4.129,1,0.0396,0.000248,8.28e-06,0.423,0.505,125.04,4,metal
+0n3sHHfdOq6Awix3JPe3xl,Halestorm,ReAniMate: The CoVeRs eP,Bad Romance,65,248400,False,0.545,0.927,1,-4.736,1,0.0706,0.0128,2.33e-06,0.367,0.682,124.061,4,metal
+5cRPdqpWkaNmIbPi6wJDg2,Papa Roach,Crooked Teeth (Deluxe),Born For Greatness,62,227847,False,0.525,0.85,9,-5.469,0,0.0678,0.0571,0.0,0.0555,0.275,134.115,4,metal
+0dlTGl67UFWcKupzkxZYOn,Guns N' Roses,Use Your Illusion II,You Could Be Mine,72,343640,False,0.35,0.985,10,-5.676,0,0.122,0.00876,0.551,0.36,0.323,151.007,4,metal
+3QZ7uX97s82HFYSmQUAN1D,Rush,Moving Pictures (2011 Remaster),Tom Sawyer,73,276880,False,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559,4,metal
+4JXfNOePhdgMOI7KZ1L25U,Breaking Benjamin,Phobia (Clean Version),Breath,67,218466,False,0.347,0.868,5,-4.145,0,0.0467,0.00012,0.000273,0.0845,0.313,182.851,4,metal
+4C8qZRxrteBY9F8r2oZrV3,White Lion,Mane Attraction,You're All I Need,61,265160,False,0.506,0.539,2,-10.654,1,0.0293,0.11,0.0,0.185,0.208,118.668,4,metal
+7yLzGp7vC3qg5FlBmUa8Rg,Celldweller;Styles Of Beyond,Celldweller (Deluxe Edition),Shapeshifter - feat. Styles Of Beyond,55,217226,False,0.622,0.956,6,-3.658,1,0.133,0.00268,0.0,0.394,0.557,115.963,4,metal
+5XcZRgJv3zMhTqCyESjQrF,Alice Cooper,Trash,Poison,74,270080,False,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,4,metal
+6zWVRHzx7XHwzBgTwivaCv,Firehouse,Good Acoustics,You Are My Religion,50,243760,False,0.59,0.882,6,-5.642,1,0.0293,0.00704,0.0,0.0654,0.917,140.014,4,metal
+5sFDReWLrZHLFZFjHsjUTS,Alice In Chains,Dirt (2022 Remaster),Would? (2022 Remaster),73,206773,False,0.305,0.833,6,-7.981,1,0.0398,0.000327,2.36e-05,0.091,0.586,100.675,4,metal
+6KrxqNJFgdSrJTnfDnPT82,Disturbed,Unstoppable,Unstoppable,68,238109,False,0.529,0.988,1,-1.914,1,0.0768,7.15e-06,0.0278,0.336,0.336,121.0,4,metal
+60knpe02nSLudHQYX2FZBI,Slipknot,"The End, So Far",Hive Mind,71,315906,True,0.41,0.993,7,-3.376,1,0.205,0.000728,0.00132,0.276,0.0536,101.279,4,metal
+0O7lENhqOySbsL743G7PqD,Slipknot,Vol. 3: The Subliminal Verses,"Vermilion, Pt. 2",68,224320,False,0.589,0.442,4,-8.517,1,0.0291,0.334,0.000424,0.0987,0.0904,122.688,3,metal
+3agtg0x11wPvLIWkYR39nZ,Linkin Park,Meteora,Somewhere I Belong,67,213933,False,0.451,0.951,1,-3.754,1,0.0645,0.00038,2.39e-06,0.261,0.442,162.065,4,metal
+5ofoB8PFmocBXFBEWVb6Vz,Architects,For Those That Wish To Exist,Animals,67,244364,True,0.532,0.759,1,-3.842,0,0.0319,0.000123,0.02,0.073,0.293,95.01,4,metal
+2pYaGdqXBrl8MdvuwgtBb7,Skillet,Victorious,Legendary,63,244538,False,0.548,0.924,11,-4.48,0,0.0689,0.00033,1.42e-05,0.162,0.242,124.031,4,metal
+5CPXR6lDTvngxtmMZxnWmC,Dream Theater,Images and Words,Pull Me Under,62,493933,False,0.532,0.941,9,-9.025,1,0.0465,0.000579,0.0527,0.15,0.278,102.198,4,metal
+3jagGO7eHHuaD53ibehkux,Mastodon,Leviathan,Blood and Thunder,65,228586,False,0.364,0.935,2,-6.548,1,0.0724,8.58e-06,0.729,0.0317,0.478,92.717,4,metal
+5OQsiBsky2k2kDKy2bX2eT,Foo Fighters,There Is Nothing Left To Lose,Learn to Fly,77,235293,False,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,4,metal
+3WATWS2Ywo5HeHtG0bE2iZ,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Teardrops,67,215003,True,0.497,0.916,7,-3.323,1,0.108,0.000323,0.0,0.36,0.401,96.051,4,metal
+5QTxFnGygVM4jFQiBovmRo,Blue Öyster Cult,Agents Of Fortune,(Don't Fear) The Reaper,76,308120,False,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466,4,metal
+0rFWuqFgHAfuzE8uSB9TWR,Guns N' Roses,Use Your Illusion I,Live And Let Die,72,182733,False,0.262,0.777,11,-8.671,1,0.0632,0.0109,0.113,0.12,0.264,152.5,4,metal
+3uMmllZo1AfoEnVT4ENCD3,Deep Purple,Machine Head (Remastered),Highway Star - Remastered 2012,67,366136,False,0.307,0.909,9,-7.08,0,0.0574,0.135,0.0336,0.125,0.443,173.674,4,metal
+43DeSV93pJPT4lCZaWZ6b1,Thin Lizzy,Jailbreak (Deluxe Edition),The Boys Are Back In Town,76,266720,False,0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823,4,metal
+1dRJrAoBpJ6vntDxIgMl2m,Flyleaf,Flyleaf,I'm Sorry,42,163746,False,0.502,0.979,7,-2.748,1,0.134,0.00728,0.000911,0.359,0.376,139.992,3,metal
+1sD9vqr4ariNYWc4ifbpOi,Eruca Sativa;Abel Pintos,EP Vivo,Amor Ausente (En Vivo) (with Abel Pintos),45,358000,False,0.438,0.614,10,-8.786,1,0.0381,0.00247,0.00193,0.95,0.346,140.042,3,metal
+6E78mLTxvTcIYSZf583kgx,Ricardo Iorio,Ayer Deseo Hoy Realidad,Ritmo y Blues Con Armonicas,41,247293,False,0.593,0.772,9,-5.884,1,0.0361,0.0208,1.09e-05,0.347,0.74,118.173,4,metal
+5JbOR8Uoh1bqM9r4mkQUme,Jonathan Young,Unravel (Full Version),Unravel (Full Version),51,222058,False,0.3,0.939,1,-0.706,0,0.0854,0.0152,0.0,0.349,0.182,135.254,4,metal
+1Hu5kkx4WAnpsmYJClkjQX,Warfaze,Shotto,Purnata,46,359630,False,0.576,0.702,3,-7.441,1,0.0326,0.574,0.0,0.197,0.396,119.958,4,metal
+0fxGA5lxrdYNYoE7yJxTNZ,Linkin Park,Hybrid Theory (Bonus Edition),My December,59,260560,False,0.73,0.585,0,-9.274,1,0.0238,0.375,0.0101,0.147,0.721,100.021,4,metal
+5m9uiFH9sK5wxRZdfN62n9,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),The Diary Of Jane,59,200213,False,0.39,0.958,10,-4.455,0,0.0622,5.67e-05,0.0437,0.121,0.348,167.045,4,metal
+2QQDH8gt4nyxFu2XX6bhG8,Fozzy,Judas,Judas,62,250792,False,0.418,0.907,0,-3.675,1,0.0584,0.000101,0.000433,0.346,0.473,99.17,4,metal
+0Y2i84QWPFiFHQfEQDgHya,Slipknot,Iowa,People = Shit,69,215600,True,0.462,0.996,11,-2.973,0,0.231,5.8e-05,0.00377,0.139,0.145,122.072,4,metal
+5GWrhVfgP4szBtCOXbSki8,Red Hot Chili Peppers,Eddie,Eddie,71,341986,False,0.515,0.809,9,-5.817,0,0.0512,0.00455,0.0723,0.0905,0.525,142.011,4,metal
+4EyPadLFhtWojU7mkT5hqT,Bring Me The Horizon,That's The Spirit,Avalanche,65,262013,False,0.426,0.934,7,-4.063,0,0.0685,2.97e-05,0.0089,0.113,0.285,160.077,4,metal
+2GFwwTIVLjnOrtP7m9luHC,I Prevail,TRAUMA,Hurricane,68,223173,True,0.389,0.885,6,-5.063,0,0.0551,0.000372,0.000311,0.202,0.187,164.989,4,metal
+6UzeOH4bRPzKTo2wCXMZmC,Linkin Park,Hybrid Theory (Bonus Edition),By Myself,62,189800,False,0.544,0.935,6,-4.159,0,0.173,0.0171,0.00301,0.297,0.339,103.026,4,metal
+5FZxsHWIvUsmSK1IAvm2pp,Foo Fighters,In Your Honor,Best of You,76,255626,False,0.366,0.94,1,-5.119,0,0.0696,0.000769,9.42e-05,0.188,0.369,130.198,4,metal
+2ib8fuTavdc48X6MjhE4Ft,Falling In Reverse,ZOMBIFIED,ZOMBIFIED,71,218520,True,0.544,0.911,10,-3.681,0,0.0422,0.000141,8.89e-06,0.333,0.558,91.033,4,metal
+44NRdYQw7P0GWuiunRv3hr,Godsmack,Faceless,I Stand Alone,68,246040,False,0.217,0.92,8,-4.479,1,0.0628,2.86e-05,0.0,0.102,0.376,167.169,4,metal
+3acBQxxlyb0jC2xqndDzSf,Chris Cornell,Carry On,"You Know My Name - From ""Casino Royale"" Soundtrack",60,240120,False,0.366,0.869,11,-3.316,0,0.0387,0.0207,0.0,0.254,0.384,138.051,4,metal
+6rSuL1ViLO7Aljn2WD09s4,Skillet,Comatose,Whispers in the Dark,66,204346,False,0.509,0.938,11,-3.883,0,0.0715,0.000644,0.00246,0.14,0.335,94.019,4,metal
+4kZbYkUuDHyphD71bPMYL1,Steven Wilson,The Raven That Refused to Sing (and Other Stories),Drive Home,47,457250,False,0.447,0.343,2,-11.625,1,0.0311,0.0419,0.329,0.102,0.0777,123.904,4,metal
+1Q2fYlSdwuutWj3QplhY9q,Three Days Grace,One-X,Riot,71,207586,True,0.185,0.948,8,-3.892,1,0.147,0.0104,0.0,0.105,0.316,196.578,3,metal
+5hISmTJXBXdOes4htbUhGk,The HU,The Gereg,Wolf Totem,61,338000,False,0.557,0.718,8,-8.504,1,0.0415,0.0888,0.0511,0.661,0.49,172.039,4,metal
+3K92Zoo7QRawQAWQFXBF3V,Miracle Of Sound;Peyton Parrish,Valhalla Calling (Duet Version),Valhalla Calling - Duet Version,64,240759,False,0.477,0.791,11,-7.74,0,0.0456,0.0085,0.0,0.165,0.35,152.053,4,metal
+0wJoRiX5K5BxlqZTolB2LD,Jimi Hendrix,Are You Experienced,Purple Haze,71,170813,False,0.533,0.905,2,-5.27,1,0.0754,0.00876,0.578,0.0698,0.486,108.9,4,metal
+5mc6EyF1OIEOhAkD0Gg9Lc,Nine Inch Nails,The Downward Spiral (Deluxe Edition),Closer,66,373306,True,0.546,0.724,10,-8.639,0,0.0427,0.000273,0.667,0.133,0.586,89.991,4,metal
+7MOQrtXMNImAq5TrPZzC0w,Avenged Sevenfold,Avenged Sevenfold,Gunslinger,61,251533,False,0.316,0.729,2,-5.931,0,0.0356,0.0203,8.99e-06,0.207,0.367,163.127,4,metal
+1nxbn0COjeyH7MQZ27T3CR,Caskets,Lost Souls,Glass Heart,66,224421,False,0.412,0.958,6,-5.432,0,0.0997,0.000225,4.71e-05,0.119,0.341,164.072,4,metal
+5x9RZg7HfXGY3JayXL3seF,Ugly Kid Joe,America's Least Wanted,Cats In The Cradle,69,241893,False,0.511,0.517,8,-9.653,1,0.0328,0.13,0.0,0.074,0.433,75.67,4,metal
+2KKLuHN6zDxVnWtFKO8vo4,Iron Maiden,Fear of the Dark (2015 Remaster),Wasting Love - 2015 Remaster,65,351026,False,0.324,0.667,4,-5.373,0,0.0321,0.00562,3.56e-05,0.0873,0.29,142.503,4,metal
+68osIGtVjM7QWVe6pazLHj,Bring Me The Horizon,Sempiternal (Expanded Edition),Shadow Moses,68,243320,True,0.456,0.985,6,-2.949,1,0.207,0.000235,0.00368,0.103,0.183,143.006,4,metal
+2NImo2MajNai4CLk35wMut,Avenged Sevenfold,Hail to the King,This Means War,64,369293,False,0.614,0.914,7,-5.59,0,0.0324,0.000554,1.16e-05,0.0371,0.439,90.0,4,metal
+0WTc2jsUgF4Y2MOz0aYvsR,Megadeth,Hidden Treasures,Paranoid,65,152600,True,0.355,0.973,4,-7.004,0,0.071,0.000359,0.154,0.142,0.628,187.385,4,metal
+6rsoBvxrlxdmqJyGPPciyq,Slipknot,"The End, So Far",The Dying Song (Time To Sing),71,203586,False,0.516,0.991,11,-2.587,0,0.126,0.000467,4.66e-05,0.327,0.402,95.017,4,metal
+7pS3O75hJnthHr64tlpqPn,Avenged Sevenfold,Nightmare,Danger Line,58,328386,False,0.473,0.767,5,-6.383,1,0.0548,0.00116,0.000798,0.109,0.375,180.024,4,metal
+01YIoxhuISTSBh8cOvhIbG,Nickelback,All The Right Reasons (15th Anniversary Expanded Edition),We Will Rock You - 2020 Remaster,56,120293,False,0.58,0.903,4,-4.909,1,0.142,0.0291,0.0,0.072,0.218,81.036,4,metal
+7ycz6sgZWp4wvF53BZVTjE,Dream Theater,"Metropolis, Pt. 2: Scenes from a Memory",Scene Eight: The Spirit Carries On,54,398266,False,0.321,0.544,2,-7.179,1,0.0364,0.293,1.11e-05,0.11,0.283,127.284,3,metal
+3nlGByvetDcS1uomAoiBmy,Iron Maiden,The Number of the Beast (2015 Remaster),The Number of the Beast - 2015 Remaster,69,290586,False,0.409,0.89,0,-6.839,1,0.0558,0.088,0.107,0.0935,0.268,100.409,4,metal
+3Gbyl3XZVeEcnFPiiPR09n,Alter Bridge,One Day Remains,Open Your Eyes,58,298600,False,0.356,0.904,2,-3.953,1,0.0624,0.000244,1.75e-06,0.359,0.38,162.397,4,metal
+1sUTfgduT0WIQO8kXKXxLC,Jon Bon Jovi,Blaze Of Glory,"Blaze Of Glory - From ""Young Guns II"" Soundtrack",68,335240,False,0.55,0.618,7,-9.822,1,0.0307,0.0564,2.62e-05,0.0937,0.429,78.61,4,metal
+062WEhWJ0tNa0CaAEuMwYB,Kurban,Kurban,Yalan,42,207706,False,0.609,0.965,7,-5.245,1,0.112,0.000877,0.000806,0.188,0.783,140.121,4,metal
+1HM7Vp84E4SMzdrZONg6bH,Iron Maiden,Somewhere in Time (2015 Remaster),Wasted Years - 2015 Remaster,67,309640,False,0.314,0.959,4,-4.657,0,0.0908,0.0263,0.000148,0.161,0.492,154.221,4,metal
+75PRxVF10tp2Szd2mdHyFq,Riff,Que Sea Rock,Mala Noche,41,247253,False,0.522,0.857,4,-4.941,0,0.0308,0.000157,9.58e-05,0.354,0.538,96.177,4,metal
+71fSn6OIF7HnCbgCzOBqpj,Airbourne,Runnin' Wild (Special Edition),Runnin' Wild,69,222240,False,0.47,0.947,10,-4.122,1,0.0929,0.000141,0.29,0.127,0.394,162.052,4,metal
+6yaD2rZwnPKvSCoPsbrMGK,Choke;Ottavio Lourenço,Latino Revolution,Represent Acción,43,92760,True,0.338,0.839,1,-6.517,1,0.0745,0.00997,0.0907,0.298,0.837,84.657,4,metal
+0UIrLwFq3cvTg5vBMmlfjp,ŠKWOR,Tváře smutnejch hrdinů,Nejistá přítomnost,42,236506,False,0.603,0.789,10,-4.918,0,0.029,0.000244,1.52e-06,0.101,0.506,115.011,4,metal
+3Oylj0SZiK5tpFn5BXYEpZ,Ricardo Iorio,Atesorando los cielos,Justo Que Te Vas,41,287226,False,0.471,0.778,11,-3.941,1,0.0289,0.223,1.84e-05,0.428,0.52,93.969,4,metal
+70VfAhsPWCKIXO9yc1rKQN,Almafuerte,Mundo Guanaco,El Pibe Tigre,41,243106,False,0.58,0.852,4,-7.099,0,0.0756,0.000384,0.0,0.11,0.576,116.936,4,metal
+4PE5KCTtRcMhQUHBXvBlXR,Cradle Of Filth,Metal,Courting Baphomet,0,317480,False,0.476,0.968,0,-5.046,0,0.0424,0.000103,0.0487,0.0469,0.421,94.993,4,metal
+40mSjbhKvOJuPpg6vahENQ,Carajo,Inmundo,Chico Granada,42,214733,False,0.458,0.957,8,-3.949,1,0.081,0.00445,0.000115,0.0853,0.394,159.855,4,metal
+6QgFbmtynzdNpHWsmSKmPy,Hermetica,Victimas del Vaciamiento,Soy de la Esquina,41,190066,False,0.372,0.831,7,-10.068,1,0.0429,0.00011,3.92e-06,0.077,0.697,110.908,4,metal
+0IpAufJEjttMegWQvxcI2i,Banda Bostik,15 Éxitos,Tlatelolco 68,44,287986,False,0.553,0.763,1,-7.26,1,0.072,0.0106,2.78e-05,0.217,0.612,136.749,4,metal
+174gCegpUjug5Z2yQ8ectM,Hermetica,Acido Argentino,Memoria de Siglos,42,347840,False,0.365,0.722,4,-10.762,0,0.0301,0.000115,0.0208,0.208,0.284,84.974,4,metal
+5rsiXpifJ6NLCpdhTgOWU6,The Presidents Of The United States Of America,Pure Frosting,Cleveland Rocks,43,153093,False,0.438,0.816,1,-7.573,1,0.0564,0.0171,0.0,0.382,0.644,148.244,4,metal
+69zmyMJrufLbIGGC4QO2al,Viernes Verde,Oscuro,Abrazar la Niebla,43,449200,False,0.525,0.641,5,-8.695,1,0.0259,0.000285,0.02,0.111,0.159,138.839,4,metal
+5XmWr9rlKvjMLmnq2A5HF5,SID,SID ALL SINGLES BEST,乱舞のメロディ,60,232666,False,0.417,0.966,4,-3.072,1,0.194,0.00224,1.97e-06,0.145,0.623,192.067,4,metal
+6jDTQvwOkgUhS2PMbVPgEr,STEELHEART,Heavy Metal Summer,She's Gone,49,392400,False,0.416,0.559,0,-10.751,0,0.0349,0.00346,0.0831,0.148,0.152,137.18,4,metal
+0jXK4Xy4LAEKFgRiTr3M7w,GALNERYUS,ANGEL OF SALVATION,HUNTING FOR YOUR DREAM,57,324480,False,0.277,0.925,11,-3.532,1,0.0586,3.82e-06,8.36e-06,0.0877,0.36,178.036,4,metal
+6UB9mShVLbMm0W4e6vud4C,Metallica,Master Of Puppets (Remastered),Battery,65,312360,False,0.481,0.928,11,-8.799,0,0.0672,0.00022,0.558,0.106,0.427,96.699,4,metal
+0bt6PVHT4Z4AfZLOpGtVi2,Linkin Park,Minutes to Midnight,In Pieces,48,218013,False,0.508,0.886,8,-6.074,1,0.0408,0.009,2.13e-06,0.136,0.79,160.11,4,metal
+1mCNkrKh9NEgxJWUqHnEgo,Apocalyptica;Brent Smith,7th Symphony,Not Strong Enough,63,216520,False,0.354,0.829,9,-3.834,1,0.047,0.00183,0.0,0.119,0.195,163.958,4,metal
+6aKfcKMefIPVzclCG6QSHX,Daughtry,Daughtry,Home,54,255666,False,0.442,0.85,6,-3.888,1,0.0362,0.002,1.93e-06,0.198,0.338,143.981,4,metal
+0qbV4e18lWrTTxlswVoLbI,Metallica,Death Magnetic,The Unforgiven III,60,466586,False,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-06,0.115,0.103,121.52,4,metal
+5NeIONQWJ25uPylJBJiO4c,Stone Sour,Come What(ever) May [10th Anniversary Edition],Through Glass,71,282946,False,0.545,0.753,3,-4.618,0,0.036,0.0417,0.0,0.389,0.434,105.754,4,metal
+1Ovgu7X7u8zYoURU62ESmu,Scorpions,Acoustica,You & I - Live,52,319346,False,0.591,0.745,8,-7.045,0,0.0424,0.416,0.00352,0.873,0.393,125.859,4,metal
+5m9uiFH9sK5wxRZdfN62n9,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),The Diary Of Jane,59,200213,False,0.39,0.958,10,-4.455,0,0.0622,5.67e-05,0.0437,0.121,0.348,167.045,4,metal
+5ctrWrTwgy5xLZA4OWgY5O,Scorpions,Love at First Sting,Still Loving You (2015 - Remaster),30,388613,False,0.271,0.597,8,-4.128,0,0.0311,0.158,0.00135,0.246,0.0746,103.29,4,metal
+4JwxJm8zCPbc1DMcfVdbBl,Avenged Sevenfold,The Stage (Deluxe Edition),Wish You Were Here,55,313918,False,0.572,0.567,7,-8.432,1,0.0298,0.00177,0.00793,0.0689,0.29,130.018,4,metal
+4Gd9PUEuOTOJtbgd4YxLXM,Nickelback,All the Right Reasons,Savin' Me,70,219320,False,0.441,0.815,3,-4.088,1,0.0276,0.000731,0.0,0.414,0.522,164.007,4,metal
+0UrWr7Jnu1heq1o99ZwUd0,P.O.D.,Satellite (U.S. Version),Youth of the Nation,71,256240,False,0.563,0.86,8,-7.533,1,0.0621,0.00834,0.0106,0.39,0.517,97.867,4,metal
+3sC7PN1vjzEovhjHlQse3N,Daughtry,Daughtry,Over You,55,204853,False,0.423,0.922,3,-2.602,1,0.0411,0.017,0.0,0.102,0.567,156.063,4,metal
+5ih5d9WJSI7Hxz0KIPJPY2,Slipknot,"The End, So Far",Yen,70,283786,False,0.562,0.934,2,-4.264,1,0.111,0.000833,0.0159,0.298,0.302,137.005,4,metal
+1EU3VuKGZOvd1HTkxLPUXK,Linkin Park,Meteora (Bonus Edition),Nobody's Listening,57,178866,False,0.502,0.831,2,-3.723,1,0.295,0.105,1.3e-06,0.174,0.451,199.972,3,metal
+6DyywdbmTzlmXBzG9ym7Rt,TOOL,Undertow,Sober,68,306853,True,0.385,0.673,2,-8.182,1,0.0329,0.000183,0.149,0.0721,0.187,149.271,4,metal
+0MrEZmX29lJCJHMeTnxRBx,Nickelback,Those Days,Those Days,23,219043,False,0.504,0.918,0,-5.475,1,0.0462,0.00228,0.0,0.147,0.674,165.911,4,metal
+0ElAcOj8tudMA6X6KZ7SMO,Black Sabbath,Master of Reality,Children of the Grave (2009 - Remaster),29,315893,False,0.337,0.722,6,-11.384,1,0.0478,0.0352,0.052,0.101,0.28,149.103,4,metal
+3s03nrUInN3NAVjQtmnS0O,Guns N' Roses,Use Your Illusion II,Estranged,67,563893,False,0.359,0.762,11,-8.323,1,0.032,0.0105,0.281,0.368,0.167,89.259,4,metal
+4Ahphc0UzRSoMpJRHgnGQK,Skillet,Unleashed,I Want to Live,56,208826,False,0.452,0.962,11,-3.063,0,0.0831,0.00901,0.0,0.065,0.566,164.032,4,metal
+2vBiZ7nBe0OqTZKWGP0s4K,Nickelback,Here and Now (Audio Only Version),Lullaby,64,228106,False,0.508,0.832,11,-4.395,1,0.032,0.000372,0.0,0.0859,0.404,136.004,4,metal
+28IEbk5a7twNTbUEvWslUb,Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),Paralyzer,75,208106,False,0.644,0.939,11,-3.486,0,0.0456,0.157,0.0,0.233,0.861,106.031,4,metal
+5Rcs3fREgibWujLUlUb8KA,Linkin Park;Page Hamilton,The Hunting Party,All for Nothing (feat. Page Hamilton),56,213653,True,0.461,0.958,4,-3.852,0,0.124,0.000203,9.33e-06,0.459,0.264,159.974,4,metal
+6zKF4293k44ItKWJJgrhXv,Killswitch Engage,As Daylight Dies (Special Edition),My Curse,68,244773,False,0.197,0.956,10,-2.908,0,0.0663,7.61e-05,0.00992,0.261,0.209,177.018,3,metal
+1fr92Vupmcs2vgLMFVQ7rd,The Rasmus,Dead Letters,In the Shadows,70,257920,False,0.6,0.796,2,-4.481,1,0.0275,0.000109,5.2e-05,0.484,0.75,105.991,4,metal
+4Vb5Y6RQztThqqqFre24wL,Lamb of God,Ashes of the Wake (15th Anniversary),Omerta,60,285962,False,0.413,0.982,6,-4.079,0,0.201,0.00242,0.00112,0.323,0.155,118.504,4,metal
+6n8TMVyFKoUmDc4apxceRD,Linkin Park,Meteora,Breaking the Habit,66,196906,False,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,4,metal
+1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,58,218573,False,0.357,0.98,5,-1.286,0,0.153,0.00143,0.0,0.196,0.567,191.147,4,metal
+7kxM3UJwN6rHAW5kwdlAHK,Linkin Park,Hybrid Theory (Bonus Edition),Forgotten,61,194426,False,0.615,0.947,8,-3.817,0,0.11,0.0132,0.0,0.366,0.498,108.193,4,metal
+4uJSCrI7r0usNJ3aaHAuC6,Opeth,Damnation,Windowpane,55,464280,False,0.328,0.553,6,-6.252,1,0.0267,0.156,0.412,0.0985,0.322,159.959,4,metal
+249Z7XT6mf8B2zuI0RaeS0,System Of A Down,Mezmerize,Violent Pornography,70,211333,True,0.459,0.958,6,-2.333,1,0.0877,0.0283,0.0,0.108,0.586,142.707,4,metal
+5wBLDkxVvclanSitx5jq8e,Hollywood Undead,Swan Songs,Undead,70,265053,True,0.512,0.943,2,-5.185,0,0.106,0.0138,0.0,0.261,0.485,163.128,4,metal
+2D9BrlpeyjXF0vli2dYQ5V,Breaking Benjamin,Dark Before Dawn,Angels Fall,65,228866,False,0.4,0.886,7,-5.078,1,0.0521,0.000868,0.000211,0.122,0.406,195.958,4,metal
+4xAmbn7xiy6wGOs4oaxv70,Ghost,IMPERA,Call Me Little Sunshine,72,284266,False,0.566,0.871,5,-4.833,1,0.0311,0.000674,0.00144,0.107,0.41,88.012,4,metal
+4eAwB5pnKFTmsgc3zWoYO0,Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Fake It,75,193893,True,0.611,0.95,8,-3.509,1,0.0518,0.00141,1.59e-06,0.0543,0.607,132.078,4,metal
+5qjZgLx35G3YbZkI8cKlkn,Riff,Que Sea Rock,Lily Malone,40,302586,False,0.512,0.848,11,-5.559,0,0.0365,1.8e-05,0.000269,0.378,0.374,127.616,4,metal
+1Rt5ZnOyilt6tx1RQQnQsB,Seringai,Taring,Dilarang Di Bandung,42,175453,False,0.587,0.898,7,-3.781,1,0.0804,2.26e-05,0.000572,0.0887,0.405,132.499,4,metal
+28ewfZ6bTCVCNOFEZ1Q7q8,Pentagram,Makina Elektrika,Maymunlar Gezegeni,40,296187,False,0.322,0.981,2,-6.576,1,0.075,3.05e-05,0.483,0.262,0.402,174.884,4,metal
+6T6GxQNHaCfGAGH5tjRRFA,Crown The Empire,Emo Christmas 2022,Burn,0,228213,False,0.444,0.843,5,-5.376,0,0.0641,0.0645,2.61e-05,0.135,0.399,153.959,4,metal
+3Q8Jw1UCAQSMeGNIFfWNSd,La Mississippi,Yo estuve ahi,Un Trago Para Ver Mejor,43,216026,False,0.294,0.942,2,-7.118,1,0.0808,0.206,3.23e-05,0.97,0.649,166.291,4,metal
+1i663MaTN7dcRxv2UPKOlu,Skay Beilinson,Talismán,El Golem de Paternal,43,234906,False,0.582,0.893,0,-5.193,1,0.0389,0.000184,0.0868,0.0992,0.707,136.006,4,metal
+4NlYDU9c38dhqf1pnOqZsA,The Warning,Halloween Metal Nights,EVOLVE,1,213308,False,0.448,0.93,9,-5.753,0,0.0623,2.66e-05,0.00133,0.37,0.456,174.996,4,metal
+5CaIwevHOqEFkn3hBJ0cNW,Cadena Perpetua,Malas Costumbres,De Más,43,180720,False,0.56,0.922,7,-5.184,1,0.0638,0.0833,0.0,0.0799,0.856,149.79,4,metal
+40xlAc8cl5zYZRgiJ4VDiU,Faith No More,The Real Thing (Deluxe Edition),Falling to Pieces,41,313573,False,0.545,0.919,2,-7.679,1,0.0484,0.00272,0.00511,0.0977,0.387,104.366,4,metal
+7ajVYJt15NuE3NmzxSHOyS,Dokken,Metal,Kiss of Death,0,351040,False,0.402,0.942,9,-8.659,1,0.11,0.00178,0.00183,0.869,0.209,145.73,4,metal
+3l7ihSOrFwIMBBDcMpfKVL,Hermetica,Acido Argentino,Gil Trabajador,40,188933,False,0.426,0.951,7,-8.2,1,0.0989,0.00053,0.0,0.475,0.394,143.193,4,metal
+31IfnfvSlw299vYoAicWGw,blessthefall,Post-Millennial Noise,I Wouldn't Quit If Everyone Quit,0,188600,False,0.286,0.939,2,-4.494,1,0.0948,8.19e-05,0.0299,0.38,0.217,106.342,4,metal
+0ODOmKxO0CKv4DzoP3HHIC,SID,hikari,嘘,60,205973,False,0.438,0.939,11,-3.545,0,0.0586,0.0118,0.0,0.212,0.842,179.853,4,metal
+7w6PJe5KBPyvuRYxFkPssC,Ozzy Osbourne,No More Tears (Expanded Edition),No More Tears,68,443240,False,0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591,4,metal
+40CfvDIEJALuQ42PpyqqgL,Breaking Benjamin,2009 Hits,Dear Agony,34,258252,False,0.353,0.748,3,-3.572,1,0.0414,8.2e-05,0.0,0.113,0.218,125.106,4,metal
+5WSsTyBvMEFG3ac6JKb9gY,Scorpions,Comeblack,Wind of Change,60,308866,False,0.491,0.613,0,-5.567,1,0.0266,0.00511,0.0,0.107,0.175,75.907,4,metal
+3Hff4mCaUFKzrq05w78tEn,Clonnex,MEDIV Luff N Sip,Ya Lyublyu,57,124226,True,0.504,0.6,1,-7.244,1,0.0796,0.000106,0.0425,0.126,0.447,140.86,4,metal
+1eadPrzB2P0ikQcqhKSAtv,Bad Wolves,Disobey,Zombie,66,254805,False,0.448,0.826,2,-3.244,0,0.0319,0.00756,0.0,0.117,0.19,77.093,4,metal
+03sEzk1VyrUZSgyhoQR0LZ,TOOL,Fear Inoculum,Pneuma,64,713191,False,0.415,0.53,9,-9.338,0,0.0314,0.00209,0.75,0.11,0.0586,114.174,1,metal
+2z71jdeVcC782NgsYZ6N8q,Black Sabbath,Paranoid,Paranoid (2012 - Remaster),28,166693,False,0.415,0.647,4,-12.021,0,0.0696,4.14e-05,0.000847,0.208,0.409,163.047,4,metal
+1PcANFoqnDsexSHXpWrn8Q,Slipknot,"The End, So Far",Adderall,69,340400,False,0.2,0.639,7,-5.857,0,0.0365,0.00623,0.0459,0.125,0.17,166.013,4,metal
+4AfsbRvvuN7nEHAhONdeEp,Bon Jovi,Slippery When Wet,Never Say Goodbye,66,288933,False,0.326,0.797,2,-2.359,1,0.0334,0.0522,0.0,0.081,0.271,135.937,4,metal
+1kvq7ksGQWSyRysYYNd6lu,Mötley Crüe,Theatre Of Pain,Home Sweet Home,28,239666,False,0.397,0.776,5,-6.339,1,0.0381,0.0983,4.09e-06,0.189,0.127,76.301,4,metal
+3WbphvawbMZ8FyqDxYGdSQ,3 Doors Down,Away From The Sun,When I'm Gone,70,260333,False,0.53,0.768,7,-5.611,1,0.0284,0.00385,0.0,0.103,0.374,148.095,4,metal
+41pOIT2t1rvr2Trg1HQChZ,System Of A Down,Mezmerize,Radio/Video,68,249226,False,0.358,0.921,6,-2.467,0,0.0695,0.171,7.64e-06,0.358,0.476,139.256,4,metal
+5VBwLOZDyDWInNYIUniuZG,Buckethead,Crime Slunk Scene,Soothsayer (Dedicated to Aunt Suzie),54,544800,False,0.23,0.766,10,-3.849,0,0.0398,0.000424,0.838,0.159,0.227,151.106,4,metal
+6AioOohg4bQZFA4jIYQQ2r,TOOL,Ænima,Forty Six & 2,68,363066,False,0.375,0.682,0,-6.898,0,0.0364,0.00152,0.598,0.0897,0.396,159.23,4,metal
+5PZ2cqh9Yem2g6cTSOLllz,Three Days Grace,One-X,Pain,68,202973,False,0.416,0.741,7,-4.001,1,0.0335,0.00804,0.0,0.273,0.286,160.515,4,metal
+3Kj2M9gRU1Lwf5eiNjBtBp,Bloodywood,Rakshak,Gaddaar,52,284571,True,0.549,0.989,11,-3.962,0,0.194,0.00872,0.0,0.0831,0.209,104.992,4,metal
+6V4k01Xr3HsVrfqUyQSIqt,Lamb of God,Omens,Ditch,57,217606,True,0.506,0.959,0,-4.853,1,0.0966,0.000392,0.339,0.481,0.434,149.842,4,metal
+4wHktoSf6C0C0fAO8IIWqs,Linkin Park,Meteora (Bonus Edition),Hit the Floor,58,164213,False,0.74,0.959,9,-3.692,1,0.193,0.0629,0.0,0.0444,0.878,150.007,4,metal
+7tvuLLroI0n6uYBWuFig5d,TOOL,Lateralus,Lateralus,63,562706,False,0.387,0.677,0,-8.399,1,0.084,0.00108,0.871,0.101,0.371,172.812,3,metal
+4dVbhS6OiYvFikshyaQaCN,Foo Fighters,The Colour And The Shape,My Hero,76,260026,False,0.398,0.927,9,-4.212,1,0.0567,6.2e-05,0.000177,0.0575,0.311,77.106,4,metal
+76Je5Wklky23mVoxiRszcN,Foo Fighters,Wasting Light,Walk,70,255960,False,0.234,0.865,9,-5.131,1,0.0516,3.62e-05,0.000532,0.289,0.194,137.107,4,metal
+72hcFp4tYkd3dbNA9dZ3Pv,Bon Jovi,New Jersey (Deluxe Edition),Bad Medicine,70,316706,False,0.555,0.973,9,-3.804,1,0.035,0.048,0.0,0.0853,0.805,118.642,4,metal
+6XimI1O15wpfwUdrCnlrxo,Bullet For My Valentine,The Poison,All These Things I Hate (Revolve Around Me),57,225440,False,0.495,0.869,6,-3.48,0,0.0462,0.0306,0.0,0.279,0.522,94.012,3,metal
+2AxCeJ6PSsBYiTckM0HLY7,Jimi Hendrix,Electric Ladyland,Voodoo Child (Slight Return),68,313373,False,0.214,0.91,8,-6.662,1,0.389,0.477,0.00833,0.0517,0.448,175.549,4,metal
+769cLRTw2y6KRdkFWFkxtu,Pantera,Cowboys from Hell,Domination,65,305293,True,0.372,0.888,2,-5.88,1,0.0943,0.000211,0.00442,0.115,0.555,141.374,4,metal
+0WHtcCpZnoyFlQg3Mf2cdN,Ghost,IMPERA,Spillways,72,196946,False,0.575,0.868,5,-5.004,0,0.0319,0.000207,0.00294,0.0584,0.804,128.069,4,metal
+6QDbGdbJ57Mtkflsg42WV5,Van Halen,1984 (Remastered),Hot for Teacher - 2015 Remaster,71,282746,False,0.552,0.947,2,-4.671,1,0.15,0.000652,0.00025,0.0637,0.465,127.631,4,metal
+0xrkyEMkG4dVa5OMLQZOX8,Rammstein,Sehnsucht,Engel,70,264266,False,0.637,0.658,2,-5.775,1,0.0291,0.00918,0.00229,0.295,0.328,96.072,4,metal
+326CApbERCzytu8gmUC3Hb,Dead By Sunrise,Out Of Ashes,Too Late,52,179760,False,0.407,0.875,9,-4.841,0,0.0433,0.0234,0.0,0.144,0.483,164.926,4,metal
+0DkmhHO4yyqCJFjosmmWPU,Avenged Sevenfold,Avenged Sevenfold,Almost Easy,64,234093,False,0.378,0.959,6,-4.615,1,0.062,3.56e-05,0.000138,0.102,0.338,174.932,4,metal
+0uppYCG86ajpV2hSR3dJJ0,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Give It Away,73,282906,False,0.666,0.936,7,-9.919,1,0.0476,0.00244,0.086,0.153,0.776,91.577,4,metal
+641epaxGPCWU6j2SIdQ6v7,ÖTENAZİ;Mavi,OTENAZI FASHION,OTENAZI FASHION,40,158568,True,0.94,0.581,2,-12.619,1,0.4,0.0442,0.0,0.372,0.662,116.969,4,metal
+2aIB1CdRRG7YLBu9hNw9nR,Marilyn Manson,Antichrist Superstar,The Beautiful People,73,218826,True,0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973,4,metal
+4bCOAuhvjsxbVBM5MM8oik,Nickelback,Here and Now (Audio Only Version),When We Stand Together,67,190786,False,0.446,0.9,10,-3.541,0,0.0489,0.000102,1.89e-05,0.0404,0.88,187.961,4,metal
+6wt8KAK3PEPAixC4aqlHNt,Miracle Of Sound,Level 11,Valhalla Calling,60,222539,False,0.561,0.611,11,-10.674,0,0.0258,0.428,0.000392,0.0957,0.668,76.04,4,metal
+1KCAEG6JcsTzi8ddZzs0nk,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),62,254613,False,0.295,0.98,2,-4.075,0,0.0854,3.21e-05,0.0,0.359,0.283,134.335,4,metal
+1BrgjqSg9du0lj3TUMLluL,Sabaton,Heroes,To Hell and Back,69,206546,False,0.536,0.849,0,-4.702,1,0.0616,0.00318,0.00197,0.104,0.305,127.002,4,metal
+1wsRitfRRtWyEapl0q22o8,Rage Against The Machine,The Battle Of Los Angeles,Guerrilla Radio,71,206200,True,0.599,0.957,11,-5.764,1,0.188,0.0129,7.06e-05,0.155,0.489,103.68,4,metal
+4N4rKm6cAmSYQwuKV71YmS,Oficina G3,Cego,Cego,40,195428,False,0.299,0.968,2,-3.291,1,0.121,0.00165,0.000498,0.306,0.299,104.882,3,metal
+36xBFaVGjqm7le8CTHytUj,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Parasite Eve,65,291812,True,0.589,0.797,9,-5.464,1,0.15,0.0289,4.35e-06,0.383,0.232,102.489,4,metal
+6jzcEtCzGYnslrheybOMoc,Oficina G3,Retrato,Retrato,40,333250,False,0.498,0.768,2,-5.634,0,0.0317,0.00625,0.00152,0.647,0.148,139.964,4,metal
+3r23r7Ad7eXi0xKcBYd506,Rev Theory,Halloween Metal Nights,Hell Yeah,0,247613,False,0.355,0.982,3,-3.408,0,0.107,0.00011,3.54e-06,0.0212,0.398,167.889,4,metal
+0f7TvXMUKeDDMyVjcGFqFm,Oficina G3,Humanos,Até Quando?,40,214645,False,0.478,0.869,10,-5.228,1,0.0591,0.000679,0.0796,0.714,0.506,182.013,4,metal
+4RMURwDMQR8ppYYnR0Jdiz,Sumo,Divididos Por La Felicidad,Debede,43,172253,False,0.704,0.773,4,-7.454,0,0.119,0.0238,9.82e-05,0.0868,0.791,114.714,4,metal
+6LssIlr2Gax7Rl3a8v8mDj,El Soldado;Sergio Dawi,Tren de Fugitivos,Veneno Sabor Miel,42,297746,False,0.699,0.571,6,-7.792,1,0.0289,0.216,0.0033,0.0548,0.827,117.143,4,metal
+2xKmP9tHPW0qgqDTjvIFnU,White Lion,Nordic Metal,Broken Heart,0,248333,False,0.477,0.85,11,-6.782,0,0.0455,0.00673,0.0,0.218,0.383,126.311,4,metal
+3mh3uLBvd7sOYnu15zxM91,Hermetica,Acido Argentino,Atravesando Todo Limite,40,240933,False,0.451,0.839,11,-8.944,0,0.0703,0.0207,5.34e-06,0.182,0.512,120.648,4,metal
+39N6Q3T7zbEJMKgaoxIGc0,CKY,Post-Millennial Noise,A#1 Roller Rager,0,230760,False,0.487,0.964,9,-4.721,1,0.057,1.29e-05,0.00828,0.106,0.71,119.989,4,metal
+0MwitR6EAeWqA5tWL4uFvK,Oficina G3,Histórias e Bicicletas,Diz,40,339707,False,0.553,0.917,8,-3.438,1,0.135,0.00204,0.00011,0.309,0.468,92.503,4,metal
+2aZrppfOAxTAGoTAQPBCf4,GALNERYUS,TVアニメ「HUNTERxHUNTER」 キャラクターソング集 ~天空闘技場編~,HUNTING FOR YOUR DREAM (TVサイズ),54,80960,False,0.386,0.928,11,-3.774,1,0.0741,0.0165,0.0,0.333,0.922,176.004,4,metal
+4FEr6dIdH6EqLKR0jB560J,Deftones,Koi No Yokan,Rosemary,73,413346,False,0.285,0.613,5,-6.412,1,0.0421,0.0185,0.1,0.114,0.0772,126.628,4,metal
+69j0KoPJuwpnbGWrfn7Yll,Kid Rock;Sheryl Crow,Cocky,Picture (feat. Sheryl Crow),69,298960,False,0.692,0.496,7,-7.332,1,0.0241,0.172,6.42e-06,0.107,0.376,97.945,4,metal
+3EqkflivbF639pZxjyl7JN,Sinizter;Pharmacist;Ghostface Playa,BLOODLINE,BLOODLINE,50,115200,True,0.698,0.977,9,-1.56,1,0.0822,0.0333,0.00201,0.0627,0.619,149.954,4,metal
+5AMWj2Dc7oNb4qCHb5cOad,Linkin Park,Minutes to Midnight,Valentine's Day,45,196813,False,0.654,0.66,5,-5.594,1,0.0283,0.0252,0.0371,0.278,0.412,108.039,4,metal
+0mJUxFpEI1eAOIIfnNoZ4G,Cradle Of Filth,Lovecraft & Witch Hearts,Hallowed Be Thy Name,51,430733,False,0.428,0.972,2,-1.998,0,0.0666,7.16e-05,0.0736,0.0787,0.225,118.306,4,metal
+0FLBNqc5oAiTt4J2e3fe3y,Puddle Of Mudd,Come Clean,Blurry,65,303920,False,0.432,0.936,3,-4.537,0,0.0562,0.00691,0.0,0.14,0.499,157.469,4,metal
+6CgFrA9qNPFMlnL40LQ8qJ,Clonnex,MEDIV Luff N Sip,Dripoholic,54,121678,True,0.564,0.628,2,-7.2,1,0.0578,0.0267,0.0,0.767,0.158,142.999,3,metal
+4CvQVmA1wVX4gKOJ7aQOZQ,Guns N' Roses,Greatest Hits,Since I Don't Have You,41,259266,False,0.256,0.579,6,-8.146,1,0.046,0.489,0.000226,0.117,0.254,70.968,4,metal
+1rIe54Dy1FYOZl3bQ0FQeN,Nightmare,the WORLD Ruler,アルミナ,50,305840,False,0.371,0.843,10,-4.447,0,0.0492,0.0322,0.0,0.158,0.599,184.78,3,metal
+07ceEXOyS7ghQkyCOycXwP,Killswitch Engage,As Daylight Dies (Special Edition),This Fire,61,189666,False,0.447,0.993,7,-3.022,1,0.111,1.56e-05,0.027,0.474,0.108,140.018,4,metal
+7ox7vxy21ttBt1o7xIp1Si,Lamb of God,Resolution,Ghost Walking,55,270693,False,0.511,0.992,1,-3.359,1,0.163,0.000328,1.55e-05,0.299,0.35,129.921,5,metal
+2cJDsHTLgDQvf5G73RCNX5,Creed,Father's Day 2020,With Arms Wide Open,56,278440,False,0.415,0.533,0,-8.445,1,0.0308,0.0037,0.000732,0.176,0.126,138.929,4,metal
+3aZQQWGNShP6IzzaprPlFX,Linkin Park,LIVING THINGS,LIES GREED MISERY,52,146493,False,0.545,0.962,7,-4.552,1,0.14,0.0133,0.0,0.059,0.539,160.017,4,metal
+5uMTA9SIe0sE4dnHHSHaYz,System Of A Down,Hypnotize,Vicinity Of Obscenity,65,171800,False,0.546,0.957,1,-3.189,1,0.164,0.0533,3.37e-06,0.683,0.514,109.775,4,metal
+1mB7dCUM7sPyNab6R43nlj,Falling In Reverse,The Drug In Me Is You,The Drug In Me Is You,72,218786,True,0.548,0.855,3,-3.266,1,0.151,0.0149,0.0,0.127,0.644,145.133,4,metal
+4QJLKU75Rg4558f4LbDBRi,Nickelback,Dark Horse,If Today Was Your Last Day,68,249066,False,0.485,0.911,3,-5.749,1,0.0355,8.67e-05,0.0,0.092,0.568,89.956,4,metal
+4Y2bR875LdPq9JILrY2FSw,Bad Wolves,Zombie EP,Zombie (Acoustic),55,259253,False,0.499,0.494,2,-6.069,0,0.0264,0.0646,0.0,0.182,0.129,77.011,4,metal
+0BRHnOFm6sjxN1i9LJrUDu,Good Charlotte,The Young and The Hopeless,The Anthem,74,175093,False,0.494,0.939,1,-3.127,1,0.126,0.00666,0.0,0.139,0.893,177.751,4,metal
+4vAHXnJ5YWLq5hbIVzZS1h,System Of A Down,System Of A Down,Spiders,68,215440,False,0.46,0.54,5,-5.132,1,0.0381,0.0324,0.0168,0.326,0.0506,137.855,4,metal
+5KTBaWu8IOczQ0sPWzZ7MY,Rammstein,Zeit,Dicke Titten,75,218593,False,0.63,0.823,6,-4.857,1,0.0496,0.0205,0.00458,0.0377,0.565,117.048,4,metal
+06Zz2l7cVTCTgCNDe1bnEF,Bon Jovi,Have A Nice Day,Have A Nice Day,64,229106,False,0.5,0.899,4,-4.066,1,0.0736,4.84e-05,0.000198,0.0794,0.566,130.06,4,metal
+4OMgqSsMbVhPCFnivcNAqh,Black Sabbath,The Dio Years (Bonus Track Version),Heaven and Hell - 2007 Remaster,32,418973,False,0.311,0.694,3,-8.203,0,0.0308,0.0115,0.0379,0.15,0.321,87.807,4,metal
+2tAeN2TKlQLOoSPXtARzBV,Van Halen,Van Halen (Remastered),Eruption - 2015 Remaster,65,102080,False,0.225,0.689,8,-9.12,1,0.0555,0.469,0.813,0.337,0.5,93.798,4,metal
+2ov8L95QD25TLpZAZPYWXL,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Mr. Crowley,66,302647,False,0.307,0.748,2,-6.514,0,0.0568,0.212,0.000153,0.368,0.347,108.227,4,metal
+0ZLBD6hHGN9LYOtNlu2n8e,Bon Jovi,These Days,This Ain't A Love Song,64,306240,False,0.348,0.635,4,-6.836,1,0.0386,0.0932,0.0,0.126,0.144,87.974,3,metal
+2iptAVf9jZerlywLwiGhak,Three Days Grace,Human,Fallen Angel,64,186146,False,0.453,0.911,2,-3.775,0,0.0382,0.00554,0.0,0.0627,0.218,137.011,4,metal
+6txWz9UapYHVxEd7dDIHXT,Blind Melon,Blind Melon,No Rain,76,217106,False,0.389,0.476,9,-9.342,1,0.0316,0.619,5.09e-05,0.255,0.566,148.117,4,metal
+5TNhjanmvwvmjCz2WYwSAv,Ghost,Meliora (Deluxe Edition),Square Hammer,66,239293,False,0.53,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.747,129.983,4,metal
+2XagrzqlBPCWczTtK5dtyr,Bloodywood,Rakshak,Aaj,48,300666,False,0.407,0.988,1,-2.543,0,0.191,0.023,1.54e-06,0.0994,0.177,179.97,4,metal
+1W0YS64vF9qgMVLuN76aqg,Skillet,Rise (Deluxe Edition),Rise,61,260786,False,0.57,0.921,4,-3.892,0,0.0724,0.0127,0.0,0.818,0.381,87.938,4,metal
+5OjCsHeByDYEGxMrb1z8KQ,Gojira,From Mars to Sirius,Flying Whales,61,464453,False,0.266,0.925,7,-3.75,0,0.0834,0.000233,0.0379,0.19,0.2,95.438,4,metal
+7HjNOz8Y7H7uSySXuHNg1Y,Breaking Benjamin,Dark Before Dawn,Ashes of Eden,61,293640,False,0.241,0.534,3,-7.207,1,0.0321,0.0561,2.13e-06,0.103,0.277,159.974,4,metal
+0tKjVEJlX3IZ5L1rEJc5hh,Bad English,Bad English,When I See You Smile,65,257440,False,0.495,0.609,7,-9.902,1,0.0339,0.42,0.0,0.187,0.33,135.671,4,metal
+60fUDmIWuKhngaeBIVhqIV,Gojira,Magma,Stranded,65,269533,False,0.513,0.88,7,-4.69,0,0.0309,9.59e-05,0.00614,0.0824,0.495,92.358,4,metal
+05RgAMGypEvqhNs5hPCbMS,Van Halen,1984 (Remastered),Panama - 2015 Remaster,74,210226,False,0.526,0.978,8,-5.436,1,0.108,0.00122,4.75e-05,0.0744,0.451,141.167,4,metal
+3o7TMr6RmIusYH7Kkg7ujR,Korn,See You On the Other Side,Coming Undone,75,199773,False,0.687,0.677,2,-4.172,1,0.0508,0.000643,0.000137,0.0564,0.545,75.052,4,metal
+2SrVGpjv0mqCR6j9EZPSm2,Iron Maiden,Powerslave (2015 Remaster),2 Minutes to Midnight - 2015 Remaster,66,363586,False,0.446,0.97,9,-5.004,0,0.0508,0.00754,0.000275,0.199,0.595,94.233,4,metal
+3WG3wFBe9NgkWB1mNGE6fJ,Thousand Foot Krutch,OXYGEN: INHALE,Untraveled Road,63,235689,False,0.593,0.85,11,-6.341,1,0.0411,0.000315,1.52e-06,0.067,0.467,125.027,4,metal
+5gdg8veEXwC9qPnmXZN1x1,Issues,Emo Christmas 2022,"Merry Christmas, Happy Holidays",0,227973,False,0.607,0.919,1,-5.432,1,0.172,0.0275,0.0,0.225,0.469,109.993,4,metal
+7DT6NuQBHmsSvA1RWuxoeX,Disidente,Y si tuviera disquera,Decidir,42,277533,False,0.368,0.872,5,-4.323,0,0.0318,0.00475,0.0,0.0877,0.558,168.035,4,metal
+5IVA7WzOlWrmZh8EqZqMaw,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,70,161626,True,0.486,0.986,1,-4.71,1,0.0818,0.000662,0.048,0.29,0.501,180.085,4,metal
+0KNUb4xONAX9MaY6DdpUvn,Almafuerte,Mundo Guanaco,Sentir Indiano,39,239466,False,0.503,0.69,0,-6.43,1,0.0287,0.000443,0.0,0.224,0.451,89.032,4,metal
+0shbXiYE9omMUTnGXvpZOi,Soulfly,Groove Metal Roots & Branches,Prophecy,0,215840,False,0.346,0.802,6,-5.584,1,0.0493,0.00012,0.23,0.265,0.145,134.781,4,metal
+1wnBOpVpT01ndkg4EzroAs,Cadena Perpetua,Demasiada Intimidad,Algo Personal,41,185693,False,0.417,0.845,7,-5.421,1,0.111,0.0601,0.0,0.191,0.436,200.072,4,metal
+1gPl1vIBXFwInMXHJ5Ug7Y,Oficina G3,Depois da Guerra,A Ele,40,280589,False,0.159,0.79,5,-4.829,0,0.0593,0.173,0.0,0.0986,0.149,173.385,3,metal
+5Pcskq8iLMAGMuJP5DCHfa,Faith No More,The Real Thing (Deluxe Edition),From out of Nowhere,39,201133,False,0.276,0.989,0,-5.37,0,0.077,0.00102,0.006,0.264,0.0862,161.183,4,metal
+5zM3ge7sOQE4vyjEjBzVL9,Almafuerte,Toro y Pampa (Remasterizado 2021),Toro y Pampa,39,211348,False,0.477,0.852,9,-4.108,1,0.0368,0.00337,0.0,0.159,0.374,127.218,4,metal
+03QuZlIrO7RGx12G7T8enl,Malon,Nuevo Orden Mundial,Deshacer el Mundo,39,290920,False,0.523,0.948,2,-4.946,1,0.0499,0.000253,1.96e-05,0.1,0.474,144.029,4,metal
+5ZnZ7ezEglEmQrKkNOtQEH,Skay Beilinson,A Través del Mar de los Sargazos,Síndrome del Trapecista,42,278706,False,0.587,0.819,7,-7.858,0,0.043,0.00192,0.223,0.0646,0.931,168.05,4,metal
+13Mkm26hUhmdgjRjiPZ36o,STEELHEART,Steelheart,She's Gone,55,391560,False,0.401,0.497,0,-12.814,0,0.0362,0.00422,0.198,0.154,0.145,136.919,4,metal
+4X6kRZnZM8mZPkeMUmn8G6,Artcell,Oniket Prantor,Aniket Prantor,28,980079,False,0.5,0.923,10,-5.892,1,0.0888,0.0374,0.00354,0.114,0.5,137.998,4,metal
+5toE2GI4iMIpelQtzKNT9Q,Hollywood Undead,Five,Riot,26,227882,True,0.707,0.925,1,-3.067,1,0.0362,0.00215,3.66e-06,0.0617,0.584,110.013,4,metal
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,metal
+1w2yLabkggvY64JilKWL73,Bloodywood,Machi Bhasad,Machi Bhasad,47,244555,False,0.547,0.925,10,-6.688,0,0.101,0.00535,2.93e-06,0.192,0.528,102.518,4,metal
+40i81AcCCxiVEFUWElcjZC,Get Scared,Best Kind Of Mess,Sarcasm,69,198080,False,0.387,0.929,7,-4.825,0,0.161,0.00238,7.22e-06,0.314,0.591,180.359,4,metal
+4JqgUZ4yZqjeEmgJNsuUjX,Linkin Park,LIVING THINGS,SKIN TO BONE,52,168346,False,0.471,0.977,9,-3.593,0,0.054,0.0435,0.0777,0.433,0.762,159.992,4,metal
+0h20ZtzbQa7H9YzfYvV8pd,Armored Dawn,Tides,Tides,53,244808,False,0.444,0.97,10,-3.638,0,0.11,1.2e-05,0.211,0.171,0.235,170.014,4,metal
+1BExV8JprNJLvLeDE9qdEW,Staind,Break the Cycle,It's Been Awhile,65,264706,True,0.509,0.774,6,-4.054,1,0.0338,0.00189,0.000549,0.143,0.0824,116.529,4,metal
+1KTJmfwrk5pYqsi9mkY3nT,Bring Me The Horizon,That's The Spirit,True Friends,66,232320,False,0.419,0.938,7,-3.12,1,0.0837,0.000683,0.0,0.114,0.333,160.151,4,metal
+0TN3CFZuYzAWQCV9N3pVPN,Opeth,Soldier of Fortune,Soldier of Fortune,52,208520,False,0.475,0.385,7,-8.675,0,0.0317,0.595,0.000267,0.131,0.183,134.368,4,metal
+7MEHTWzEi3z7P2jEWAcdHZ,Slipknot,Slipknot (10th Anniversary Edition),Eyeless,66,236360,True,0.293,0.997,4,-4.364,0,0.217,0.000463,3.95e-05,0.415,0.13,100.348,4,metal
+1yYE8EyuIV0rrvQ1bA2Fyf,Bring Me The Horizon,That's The Spirit,Happy Song,67,239386,True,0.295,0.924,5,-3.407,1,0.0678,4.02e-05,0.00462,0.377,0.219,171.941,4,metal
+2W2eaLVKv9NObcLXlYRZZo,Slipknot,Slipknot (10th Anniversary Edition),Spit It Out,67,159773,True,0.331,0.946,7,-4.599,1,0.0775,0.0309,5.62e-06,0.254,0.534,139.965,4,metal
+1UREw2MCfU0xwBzCAjxlUD,Papa Roach,Getting Away With Murder,Scars,67,208186,False,0.384,0.921,11,-3.334,1,0.055,0.0948,0.0,0.168,0.471,89.922,4,metal
+5m5I3KcV83zf2p2qbsnr3y,Steve Vai,Passion And Warfare,For the Love of God,54,363333,False,0.152,0.842,9,-5.783,0,0.0418,0.00347,0.912,0.115,0.283,95.49,4,metal
+4Y2bR875LdPq9JILrY2FSw,Bad Wolves,Zombie EP,Zombie (Acoustic),55,259253,False,0.499,0.494,2,-6.069,0,0.0264,0.0646,0.0,0.182,0.129,77.011,4,metal
+3s53zBEi1ZU6dJj19eFOxW,Red Hot Chili Peppers,Tippa My Tongue,Tippa My Tongue,68,260808,False,0.573,0.913,5,-6.52,0,0.0409,0.00861,0.0273,0.114,0.795,88.418,4,metal
+0NHBt8bp6tloebOWV3U3fN,Scorpions,Face The Heat,Under The Same Sun,56,293733,False,0.377,0.84,2,-6.022,1,0.1,0.0128,2.71e-05,0.102,0.311,150.349,4,metal
+27Nkg5NHILTJUcCyBkvVHt,I Prevail,TRUE POWER,Deep End,62,206142,True,0.53,0.729,4,-6.393,1,0.0338,0.00275,9.02e-06,0.471,0.261,119.981,4,metal
+6lzmirX8hoaDFy7vrojXJN,Skillet,Unleashed,Out of Hell,49,214173,False,0.505,0.994,11,-2.189,0,0.114,0.000357,0.0,0.0718,0.36,152.078,4,metal
+1ndGB6rvxKYN9seCYO1dTF,Red Hot Chili Peppers,By the Way (Deluxe Edition),The Zephyr Song,71,231933,False,0.725,0.803,2,-4.083,1,0.0337,0.013,3.66e-05,0.0891,0.403,117.391,4,metal
+5ohfpKB5tt275f4Y4lQ9F7,Slayer,Reign In Blood (Expanded),Angel Of Death,60,291773,False,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,4,metal
+56k2ztFw7hQRzDeoe80pJo,Ghost,Seven Inches Of Satanic Panic,Kiss The Go-Goat,71,195693,False,0.469,0.851,10,-4.147,1,0.0547,0.000213,7.86e-06,0.154,0.549,130.053,4,metal
+3U9gogDStAfWxSm91PJuxb,Slayer,South Of Heaven,South Of Heaven,64,298533,True,0.31,0.991,5,-3.769,0,0.316,0.000132,0.085,0.0969,0.0395,140.071,4,metal
+5A1wvkGE6tOyrIOhjQ9bjy,Zyrtck;Radical;Mothz,MOVIMENTO,3 CAP,40,184947,True,0.769,0.847,3,-1.798,1,0.201,0.476,0.0,0.193,0.865,160.058,4,metal
+22GEETI4LXhhePCO71PyEv,Godsmack,When Legends Rise,Bulletproof,59,177048,False,0.362,0.915,5,-3.244,0,0.181,0.000181,0.0,0.166,0.603,162.226,4,metal
+2calJdlU1JseiOf7c5jXwP,Lamb of God,Omens,Omens,55,227899,True,0.465,0.986,2,-5.551,1,0.0803,0.00024,0.102,0.37,0.261,95.518,4,metal
+2T2vudIHfVMA5ychWTU3KA,Children Of Bodom,Are You Dead Yet?,Are You Dead Yet?,62,234880,False,0.461,0.961,8,-3.011,1,0.0479,6.39e-06,0.14,0.308,0.416,96.009,4,metal
+0LiSHhC2Ekg9KCsWCu9nK9,DEHA INC.,01000001 01011010 01010010 01000001 00001010,01000001 01011010 01010010 01000001 00001010,40,140218,True,0.662,0.525,1,-11.275,1,0.167,0.0216,0.0347,0.136,0.395,125.175,4,metal
+76jqYRytkvCM1ByVYBs3NS,Malt,Kendi Adını Taşıyan İlk Albüm,Gol,40,190821,False,0.519,0.849,5,-5.102,0,0.0362,0.00115,0.000355,0.0989,0.743,150.077,4,metal
+1r3PWB1ZzxrPsIj2DNoa10,Five Finger Death Punch,Welcome To The Circus,Welcome To The Circus,63,256741,True,0.489,0.987,11,-4.57,0,0.0806,7.62e-05,0.0,0.788,0.297,139.982,4,metal
+6FhB5ZyT4JsIJ0ozDlXCIp,My Darkest Days,Sick And Twisted Affair (Deluxe Edition),Save Yourself,63,221160,False,0.503,0.921,8,-5.907,0,0.106,0.00093,2.75e-06,0.26,0.359,121.983,4,metal
+3vGZBBwlr55gGCW7zK3wxp,Carajo,Atrapasueños,El Error,39,216800,False,0.478,0.977,8,-3.954,1,0.0919,0.00555,1.86e-06,0.202,0.407,149.911,4,metal
+5HaGVvE3t9r7aWig5KSmwA,Almafuerte,Mundo Guanaco,Desencuentro,39,136893,False,0.388,0.86,1,-7.221,1,0.0781,8.61e-05,0.0,0.088,0.535,145.323,4,metal
+2pHU8MnJRkDOLqQBgoyOE5,Skay Beilinson,Talismán,Flores Secas,42,231800,False,0.614,0.839,9,-6.931,1,0.0412,0.0027,0.000107,0.0942,0.5,149.995,4,metal
+3BIDLsbt2mhciopVG1tuBw,Oficina G3,Depois da Guerra,Eu Sou,39,352432,False,0.359,0.924,8,-4.096,1,0.0719,0.000377,5.96e-06,0.0982,0.422,199.91,4,metal
+3xU7xAOD1x6ZHYF3Cd1KNb,Oficina G3,Depois da Guerra,Meus Passos,39,303020,False,0.521,0.941,8,-4.4,1,0.0936,0.000203,0.00112,0.333,0.251,104.9,4,metal
+7IAyAjkIEq2gtIHpeTWptI,Skindred,Metal,Set It Off,0,183760,False,0.583,0.915,0,-4.007,1,0.0811,0.00214,0.0,0.395,0.88,172.097,4,metal
+0t0MLcNjs7sM3K6teTLpFv,Tonic,Fiesta temática 90s,Open Up Your Eyes,0,221293,False,0.405,0.89,7,-5.857,1,0.0513,0.0047,5.8e-05,0.0931,0.286,98.765,4,metal
+0MoCAi2bKmgWIzJ6A53jml,Tonic,Fiesta temática 90s,You Wanted More,0,233800,False,0.336,0.949,2,-4.736,1,0.105,0.000174,0.0,0.237,0.597,182.62,4,metal
+6ktfvSd9cnC9ZQv7bnif1B,Hermetica,Victimas del Vaciamiento,Buscando Razón,39,221200,False,0.465,0.708,2,-10.568,1,0.0286,0.000239,7.57e-06,0.0872,0.685,97.28,4,metal
+3JnXLE2aYxWDPk1OoFHieV,Oficina G3,Depois da Guerra,Depois da Guerra,39,294057,False,0.521,0.958,8,-3.866,0,0.115,0.000192,4.23e-06,0.0884,0.253,114.967,4,metal
+5Fa7z8XzhlGzFdARu6dd5S,Sumo,After Chabon,Banderitas y Globos,43,178386,False,0.439,0.908,2,-8.182,1,0.0408,0.0501,0.631,0.448,0.649,183.254,4,metal
+4wyxBb3LEuEKPO5Huxwc9R,Kyuss,Metal,Green Machine,0,217906,False,0.497,0.947,0,-8.802,1,0.0391,8.21e-05,0.000693,0.118,0.588,90.371,4,metal
+5nUVK7uNLlaj5AroBKBrXg,Soulfly,Post-Millennial Noise,Downstroy,0,264986,False,0.382,0.899,6,-5.538,1,0.078,0.00211,0.133,0.091,0.505,149.178,4,metal
+0vH3ZghvyoUSZmMNL1dTls,Skindred,Metal Lives!,Set It Off,0,183760,False,0.583,0.915,0,-4.007,1,0.0811,0.00214,0.0,0.395,0.88,172.097,4,metal
+0vjTp23Jg2cAZSq9x5GlxK,Transmetal,El Llamado de la Hembra,El Infierno de Dante,38,275435,False,0.201,0.965,10,-9.374,0,0.0565,0.00239,0.339,0.312,0.114,78.437,4,metal
+2vzKE1T2CdCs3yb6LjuJIE,Skindred,Post-Millennial Noise,World Domination,0,143600,False,0.56,0.912,10,-5.125,0,0.0648,5.24e-05,0.0869,0.163,0.391,102.055,4,metal
+5RhjDFqXK8YNnMeJZk7URW,Almafuerte,Rock x siempre,A Vos Amigo,0,284000,False,0.403,0.916,9,-3.71,1,0.0428,0.000599,5.35e-06,0.131,0.443,129.051,4,metal
+3yiyZW5sYNg3VvIejh10sK,Ghost,Infestissumam,Year Zero,65,350186,True,0.469,0.705,7,-5.134,1,0.0458,0.0304,0.0155,0.659,0.137,122.025,4,metal
+3lPn81PFyKvXiyHhlkwkQ4,Bring Me The Horizon,That's The Spirit,Doomed,63,274133,True,0.271,0.903,6,-4.516,0,0.137,0.00152,1.5e-05,0.189,0.22,147.159,4,metal
+0NNep3grWO95CVGp04gMM4,Joe Satriani,Surfing With The Alien,"Always with Me, Always with You",52,202533,False,0.575,0.295,11,-12.584,1,0.0326,0.484,0.703,0.0639,0.394,144.366,3,metal
+7CcaktZZsdb8AWPdhDM38f,Steven Wilson;Ninet Tayeb,To The Bone,Pariah,46,286225,False,0.497,0.213,6,-13.199,0,0.0317,0.102,0.112,0.21,0.0412,135.03,4,metal
+1iWgFnhR0oW5Mup8yXDAPW,Otherwise,Soldiers,Soldiers,64,241848,False,0.592,0.877,2,-4.05,0,0.0502,0.0095,0.000171,0.131,0.712,117.106,4,metal
+2MvIMgtWyK88OiPi0J8Dg3,Slipknot,All Hope Is Gone,Psychosocial,66,283400,False,0.576,0.989,2,-1.909,1,0.112,0.00252,0.0032,0.0243,0.352,135.093,4,metal
+6KtLECDztnah63TNmV4Plw,Incubus,Morning View,Wish You Were Here,70,212733,False,0.246,0.768,9,-7.48,1,0.0387,0.000631,0.301,0.102,0.35,169.873,4,metal
+3439OLNIeD3y68kVuoZUO5,Mötley Crüe,"Girls, Girls, Girls","Girls, Girls, Girls",26,270533,False,0.599,0.922,7,-4.887,1,0.0739,0.025,5.82e-05,0.356,0.514,140.098,4,metal
+6Nm8h73ycDG2saCnZV8poF,Rob Zombie,Hellbilly Deluxe,Dragula,76,222826,False,0.591,0.963,0,-6.489,0,0.0531,8.74e-05,0.000107,0.0781,0.609,125.03,4,metal
+0vTKR5TQD03kASmEGlyDF3,Bon Jovi,Keep The Faith,In These Arms,61,319226,False,0.51,0.915,4,-3.036,1,0.0562,0.00884,1.75e-05,0.205,0.459,123.257,4,metal
+52KlXDEkCkgZxuMjSqzY4L,Papa Roach;Jeris Johnson,Last Resort (Reloaded),Last Resort (Reloaded),65,137297,True,0.639,0.684,2,-5.619,1,0.0353,0.00966,0.0,0.194,0.465,88.05,4,metal
+3X0K6fII7VIwL1URPrp8Ko,Rammstein,Mutter,Ich will,69,217106,False,0.648,0.896,2,-4.254,1,0.041,0.00138,0.000819,0.0879,0.468,128.115,4,metal
+5aNH8inF5BsbThDeOLs7zs,Rammstein,Mutter,Feuer frei!,68,188600,False,0.491,0.966,3,-3.974,1,0.0463,9.12e-05,0.346,0.153,0.223,95.141,4,metal
+58CQmWVeUxIogEfGrmQcSh,DragonForce,Inhuman Rampage,Trail Of Broken Hearts,38,355306,False,0.385,0.702,9,-5.892,1,0.0337,0.24,0.0,0.12,0.269,72.507,4,metal
+21tuvt3CXIsNquc32v8jpc,Audioslave,Audioslave,Show Me How to Live,41,277840,False,0.433,0.854,9,-3.868,1,0.0483,0.000336,0.000177,0.162,0.368,89.4,4,metal
+1AEYT6VxrxXPMoQUxsY0E4,Trapt,Trapt,Headstrong,72,285569,True,0.492,0.896,4,-5.819,0,0.117,0.000172,2.78e-06,0.189,0.534,184.981,4,metal
+1TEZWG1FdjzDdercCguTwj,Limp Bizkit,Significant Other,Nookie,69,289560,True,0.573,0.929,11,-5.996,1,0.082,0.00218,0.0723,0.718,0.284,97.57,4,metal
+6jWLyg8AuMQ9LtIB2UlfOF,Lifehouse,No Name Face,Hanging By A Moment,63,216360,False,0.537,0.858,1,-4.903,1,0.0349,0.000966,0.0,0.0812,0.502,124.599,4,metal
+1HZrlGSsrTLKIYkklOvi4B,Poets of the Fall,Signs of Life,Lift,47,313360,False,0.483,0.872,11,-5.088,1,0.0383,0.0171,0.00131,0.0851,0.733,153.986,4,metal
+6Uaqf3LCwuVebfm5u3ndq9,Bad Wolves,N.A.T.I.O.N.,Sober,57,195477,False,0.456,0.813,6,-6.663,1,0.047,0.0111,0.0,0.174,0.619,157.031,4,metal
+0NLDZzVke3Qu7vDhWyGzRk,TOOL,"10,000 Days",Right In Two,59,535800,False,0.44,0.568,7,-8.54,1,0.0293,0.00442,0.84,0.119,0.248,118.389,3,metal
+2UDumaw7osnyjH7RZ2DLpB,Three Days Grace,Human,I Am Machine,68,200146,False,0.402,0.97,2,-4.538,0,0.0668,1.29e-05,2.62e-06,0.189,0.476,75.106,4,metal
+6zyrb7dW1IR4Hrc8nXJsln,Linkin Park,Hybrid Theory (20th Anniversary Edition),In the End,54,216800,False,0.555,0.844,3,-6.567,0,0.0553,0.00818,0.0,0.0895,0.464,105.193,4,metal
+7Gpr3kKk4BMgItz6UbI73q,Red Hot Chili Peppers,Californication,Road Trippin',66,204960,False,0.378,0.474,4,-8.202,0,0.0271,0.28,0.00138,0.117,0.38,102.379,4,metal
+7j43FohbLVulScL7S9sQZk,Rammstein,Rammstein,Ausländer,72,231603,False,0.681,0.912,0,-4.159,1,0.0912,0.000757,0.00136,0.359,0.479,125.031,4,metal
+0QV3swr7L8MZr72lL2izV1,Metallica,Hardwired…To Self-Destruct (Deluxe),Hardwired,63,189347,True,0.128,0.991,11,-3.289,1,0.0582,1.11e-05,0.00362,0.219,0.53,186.124,4,metal
+1UWGkn34CD31VQfdi4D8Zp,Five Finger Death Punch,War is the Answer,Bad Company,65,262440,True,0.557,0.886,11,-4.196,0,0.0498,0.000595,9.84e-05,0.0904,0.17,114.025,4,metal
+1I3EjtaIQz2zzDE1aeiUEz,Architects,deep fake,deep fake,63,213871,True,0.505,0.854,6,-4.167,0,0.0851,0.000101,0.00325,0.0556,0.319,96.023,4,metal
+3WtsQAngIkmcNeqVeK3fXQ,Opeth,Damnation,In My Time of Need,53,346733,False,0.471,0.604,4,-6.014,0,0.0286,0.00161,0.154,0.166,0.187,137.388,4,metal
+514GW1c9Jn21KgZmO6mZIE,Rammstein,Zeit,Armee der Tristen,74,205589,False,0.447,0.901,2,-5.397,1,0.0491,0.000415,0.000103,0.225,0.334,86.01,4,metal
+1PJRDeZSoZk7gtisdTYfLi,Hoobastank,Hoobastank (20th Anniversary Edition),Crawling In The Dark,66,175226,False,0.588,0.927,6,-4.776,0,0.113,0.000305,3.83e-05,0.195,0.652,93.571,4,metal
+0UuNO0yYvsMPlyLF7RfQlg,Rammstein,Zeit,Angst,72,224801,False,0.639,0.86,11,-4.27,1,0.069,0.000306,0.00549,0.0507,0.328,112.025,4,metal
+7ePjtuqKqa0ZbzznCNqiEf,Alter Bridge,One Day Remains,Broken Wings,54,306600,False,0.449,0.72,10,-5.382,0,0.0355,0.00656,6.84e-05,0.127,0.114,138.482,4,metal
+6AUfiRcpnffzH1KhI121f1,Slipknot,"The End, So Far",Warranty,68,231146,False,0.581,0.992,7,-2.976,1,0.109,0.004,2.73e-05,0.353,0.2,99.974,4,metal
+65ShmiE5aLBdcIGr7tHX35,TOOL,"10,000 Days",Vicarious,64,426680,False,0.506,0.877,0,-5.73,1,0.032,5.16e-05,0.776,0.0712,0.302,114.589,5,metal
+2K2NeVnP853rkR5ese8ZLP,Sabaton,The Great War,The Attack of the Dead Men,64,235720,False,0.522,0.975,9,-5.895,0,0.0917,0.00649,3.62e-05,0.189,0.242,115.998,4,metal
+2JhJOPGvtqMpj5RQC8cIYf,Deep Purple,Perfect Strangers,Perfect Strangers,66,328426,False,0.521,0.721,2,-7.699,1,0.0254,0.00348,0.0113,0.391,0.611,97.578,4,metal
+7jrkBLvhjeNs7X86wL3jKf,Lamb of God,Omens,Vanishing,55,288657,False,0.533,0.983,5,-5.175,1,0.107,9.47e-05,0.49,0.136,0.12,122.011,4,metal
+6Q88Xw5D2syb9X5rZd3TLz,Lamb of God,Omens,To The Grave,54,223661,False,0.352,0.952,2,-5.435,1,0.138,0.00133,0.419,0.273,0.484,197.803,4,metal
+4E6wpXABj8XosZEPXZz2OK,Meshuggah,ObZen,Bleed,60,442733,False,0.242,0.998,11,-5.64,1,0.0894,8.12e-06,0.88,0.284,0.18,114.642,4,metal
+0tWEB6BxbI48XN79QE1JbT,Evanescence,Fallen,Everybody's Fool,67,195880,False,0.437,0.835,2,-5.076,0,0.0405,0.00145,2.27e-05,0.245,0.296,95.111,4,metal
+2M5WTwqnkyz7bW6P1CiD6q,Pantera,Far Beyond Driven,I'm Broken,65,264800,True,0.419,0.878,7,-6.352,1,0.0553,0.000594,0.559,0.139,0.666,147.385,4,metal
+5jeh4hwbQJnnAJHZV9fqeo,Slipknot,"The End, So Far",The Chapeltown Rag,68,289226,True,0.538,0.997,8,-2.27,1,0.205,0.00232,0.00159,0.12,0.0702,95.016,4,metal
+6GqqGv8frU7kqzXkm2rewI,Five Finger Death Punch,F8,A Little Bit Off,72,190718,True,0.664,0.828,0,-6.053,1,0.0404,0.00839,0.0,0.294,0.82,103.985,4,metal
+0NWPxcsf5vdjdiFUI8NgkP,Jimi Hendrix,Are You Experienced,Hey Joe,70,210160,False,0.346,0.768,9,-5.695,1,0.0377,0.00603,0.38,0.0244,0.532,169.492,4,metal
+0YHuruiHL4Vzna7jeOdfJt,Lamb of God,Omens,Nevermore,54,275924,False,0.496,0.988,4,-4.409,0,0.11,8.33e-05,0.323,0.155,0.199,102.005,3,metal
+4z9j7avEnPRIcSYZfmaDcx,Oficina G3,Humanos,Apostasia,39,238468,False,0.251,0.908,0,-3.739,0,0.0576,0.000172,0.0542,0.097,0.727,72.569,4,metal
+1m1yOOUMSoObnB13xhtXFx,Rosa Tattooada,Rosa Tattooada,O Inferno Vai Ter Que Esperar,39,179333,False,0.548,0.505,1,-13.043,1,0.0337,0.109,1.58e-06,0.109,0.474,146.206,4,metal
+2ZnAe2Af6C6s8B25gtWbCU,Riff,Zona de Nadie (Remasterizado 2016),El Forastero - Remasterizado 2016,38,164013,False,0.485,0.803,5,-9.47,1,0.0805,0.0124,0.0149,0.11,0.857,151.0,4,metal
+3RKtXovR95eJLBlDSqcpvP,Hermetica,Acido Argentino,Evitando el Ablande,38,172493,False,0.328,0.908,7,-9.312,1,0.0622,2.43e-05,4.67e-05,0.3,0.403,147.312,4,metal
+779ooI3rBd0CLqCiiJmtVo,Chad Kroeger;Josey Scott,Hero (feat. Josey Scott),Hero (feat. Josey Scott),66,200480,False,0.427,0.843,4,-4.54,1,0.0364,0.00216,0.0,0.179,0.304,147.387,3,metal
+3gHGMXEUhVHl4cxOXX3Rmq,Nightmare;DEATH NOTE デスノート,the WORLD/アルミナ,アルミナ,50,304106,False,0.347,0.901,10,-3.224,0,0.0532,0.0156,0.0,0.127,0.528,184.942,3,metal
+7glG2aRcS9PsbBDiSbsliO,Linkin Park;Aaron Lewis,Reanimation,Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis],48,340253,False,0.415,0.528,4,-7.564,1,0.0293,0.088,0.00595,0.0746,0.0479,105.217,4,metal
+3aniWcwiiYKHpm3F5TdeKD,Bring Me The Horizon,Teardrops,Teardrops,61,215003,True,0.497,0.916,7,-3.323,1,0.108,0.000323,0.0,0.36,0.401,96.051,4,metal
+66gZWQbx8Vg6XYWIgz7NDQ,Nightmare,DEATH NOTE Original Soundtrack,the WORLD -TV Size-,44,83040,False,0.412,0.952,11,-1.422,0,0.0492,0.00208,0.0,0.335,0.676,95.112,4,metal
+35ZmCVnfYRdK1iLGCxNhMa,Static-X,Shadow Zone,The Only,64,171106,False,0.428,0.979,1,-2.929,1,0.225,7.04e-05,0.0,0.129,0.292,104.84,4,metal
+1UKp5X9cPp9vMnTb39nnvg,Daughtry,Daughtry,It's Not Over,52,215026,False,0.426,0.92,10,-3.243,0,0.0598,0.0559,0.0,0.245,0.296,145.946,4,metal
+54otdw8MmYNz2ewGHzmaTP,The Plot In You,FEEL NOTHING (RESET),FEEL NOTHING - RESET,55,220688,True,0.34,0.887,4,-4.54,0,0.0898,0.00345,2.72e-06,0.0622,0.215,144.081,4,metal
+4qzw6Hhj8KoukmFt7dZsee,Slapshock,Novena,Misterio,39,242221,False,0.283,0.946,8,-4.947,1,0.0797,0.00151,0.0,0.254,0.567,169.931,4,metal
+5bU4KX47KqtDKKaLM4QCzh,Dope,Life,Die MF Die,67,186066,True,0.657,0.96,5,-3.524,0,0.07,0.00169,0.000997,0.109,0.567,126.02,4,metal
+2F6FfZ4w8z3eJpSxPotVO5,Korn,Issues,Falling Away from Me,73,270920,True,0.468,0.769,4,-7.036,1,0.041,0.00014,0.00124,0.271,0.17,104.102,4,metal
+5rX6C5QVvvZB7XckETNych,Kid Rock,Rock n Roll Jesus,All Summer Long,73,297586,False,0.7,0.864,7,-3.629,1,0.0283,0.0212,0.0,0.0956,0.887,102.997,4,metal
+6gCVA6ja6g0foIsWv0RuSZ,System Of A Down,Toxicity,ATWA,67,176200,False,0.376,0.787,5,-4.731,0,0.0394,0.00378,0.0,0.548,0.371,87.102,4,metal
+67w1cb9ESAnCGJkC9hW2nO,Avenged Sevenfold,Waking The Fallen,I Won't See You Tonight Part 1,55,538333,False,0.4,0.719,7,-5.109,0,0.0492,0.000451,0.00581,0.218,0.101,129.505,4,metal
+7aySoZnwt7c6lA54qVVUOk,Nickelback,Dark Horse,Never Gonna Be Alone,62,227026,False,0.544,0.802,4,-4.152,1,0.0282,0.00155,7.34e-05,0.122,0.59,130.022,4,metal
+72hpTHMLFrO4ErhSQl2FhZ,Van Halen,Balance,Can't Stop Lovin' You,63,247466,False,0.592,0.898,9,-5.194,1,0.0358,0.143,2.29e-06,0.229,0.537,118.006,4,metal
+3b3eu3uMp1b9xPOHbfSwBi,Avenged Sevenfold,Nightmare,Fiction,52,307986,False,0.605,0.627,0,-7.454,1,0.0265,0.0612,3.6e-05,0.106,0.243,120.0,4,metal
+5nxcR7W60CU3cvmGX1jBzQ,Caskets,Lost Souls,Drowned in Emotion,61,222567,False,0.444,0.945,0,-6.389,0,0.0714,0.0015,2.84e-05,0.0661,0.333,77.041,4,metal
+1DTvpxiXXltH3xZE4yXANv,Porcupine Tree,Lightbulb Sun,Shesmovedon,48,314400,False,0.551,0.618,4,-9.596,0,0.0294,0.00742,0.0274,0.49,0.406,142.028,4,metal
+4WwWjFCyvUY2fcx8OULByB,Skid Row,Slave to the Grind,In a Darkened Room,59,235066,False,0.338,0.668,4,-8.963,0,0.031,0.00275,1.15e-06,0.192,0.358,62.872,4,metal
+2okeBtFNVJ4n33NEV1RxBm,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,59,193080,False,0.527,0.695,9,-4.99,1,0.0346,0.0331,3.78e-05,0.31,0.271,142.922,4,metal
+66lWvfNt5DaPXPbuZLApUf,Nickelback,Those Days,San Quentin,9,211457,True,0.671,0.934,0,-4.496,1,0.0486,0.000145,1.81e-05,0.104,0.832,124.005,4,metal
+39m87lOMd5ccENPVvAT7gH,Sabaton,Bismarck,Bismarck,65,313984,False,0.505,0.859,6,-5.546,0,0.0431,0.00346,0.0012,0.263,0.434,95.036,4,metal
+0wzRcekWyVCSyPtlPOeJau,Queens of the Stone Age,Songs For The Deaf,Go With The Flow,68,187146,False,0.246,0.991,9,-3.903,1,0.087,0.00944,0.0753,0.867,0.415,159.39,4,metal
+6MD6xpFK4cfquxRqXxqwjq,Bring Me The Horizon;YUNGBLUD,POST HUMAN: SURVIVAL HORROR,Obey (with YUNGBLUD),65,220538,True,0.462,0.99,1,-3.175,0,0.211,0.000103,0.0,0.374,0.204,137.061,4,metal
+4xNfsvj9mOVnMTvHZZ8HNk,Hinder,Take It To The Limit,Without You,57,232266,False,0.415,0.816,3,-3.831,1,0.0333,0.0299,2.09e-05,0.129,0.264,136.017,4,metal
+4VymMhILk4DSwghPkLUPVS,Avenged Sevenfold,Avenged Sevenfold,Critical Acclaim,61,315173,True,0.499,0.966,7,-4.679,1,0.11,0.000329,6.1e-05,0.151,0.215,138.042,4,metal
+7dH9Qnbb7pwDahy1Vb9ZQa,The HU,The Gereg,Yuve Yuve Yu,61,282920,False,0.624,0.857,10,-6.25,0,0.0542,0.0208,0.206,0.11,0.324,131.926,4,metal
+1rnsFy41deoAFKeTTsNjNU,Lamb of God,Omens,Gomorrah,53,252125,False,0.483,0.99,8,-4.508,1,0.112,0.00176,0.000958,0.183,0.232,147.111,4,metal
+0S7Eb7sl3eqRPR9kVUxCQl,Porcupine Tree,Deadwing,Open Car,50,226760,False,0.541,0.502,2,-5.955,0,0.0301,0.00382,0.0131,0.104,0.406,159.978,3,metal
+4ydaafGFdKJWHi914LrUTX,DEHA INC.,Gozume Bak,Gozume Bak,39,82120,True,0.562,0.868,7,-4.902,1,0.259,0.00165,0.0768,0.372,0.367,151.982,4,metal
+0oOdE0KVbXNDHdxja2Uf1Y,Grecco,Grecco,Namorando,38,210680,False,0.396,0.42,2,-9.255,1,0.0277,0.631,0.0,0.158,0.485,170.125,4,metal
+23XWX09uupLjkbinjMyJ0H,X JAPAN,BLUE BLOOD REMASTERED EDITION,紅(イントロ ストリングス) - Remaster,37,379133,False,0.25,0.979,8,-5.472,0,0.419,0.0034,0.000122,0.183,0.0595,156.341,4,metal
+0kD1j1yVuagqofnTB8vs6t,311,Grassroots,Omaha Stylee,38,254106,True,0.61,0.861,7,-8.568,1,0.105,0.00451,0.0,0.205,0.8,153.547,4,metal
+5uunXHE4kIW6uS4HWAXaOQ,Gojira,Magma,Silvera,62,212653,False,0.333,0.959,2,-4.348,1,0.072,3.19e-06,0.0563,0.299,0.242,137.052,4,metal
+4CYWDYubFT02pnEvSylECN,Pentagram,MMXII,Doğmadan Önce,38,351773,False,0.572,0.826,11,-4.789,0,0.0725,0.0072,0.00475,0.114,0.327,125.792,4,metal
+2hUvo9TxVWCbszNphTtNlJ,Malt,Kendi Adını Taşıyan İlk Albüm,Aşkın Gözü,39,237865,False,0.635,0.761,9,-3.992,0,0.0351,0.000538,0.000659,0.307,0.538,139.972,3,metal
+0bUgTRe5st6TMbRCEjKezX,Sabaton,The Last Stand,The Last Stand,68,235840,False,0.519,0.935,7,-5.656,0,0.0423,0.00454,0.0,0.0661,0.498,104.044,4,metal
+5NCyqYGMVv9XJbymXH71d9,Rata Blanca,Rata Blanca,Sólo Para Amarte,38,342160,False,0.522,0.632,6,-15.762,0,0.0346,0.0268,0.916,0.202,0.539,91.95,4,metal
+3S6JPjGXviwy7HOOlAzmfB,Until I Wake,Release Your ANGER,Self Medicated,0,189103,False,0.438,0.96,5,-3.482,0,0.0756,9.53e-05,0.00158,0.0943,0.254,144.98,4,metal
+2Npjui495Y4HPVyTi4wO7j,Ill Niño,Metal,If You Still Hate Me,0,175133,True,0.468,0.983,1,-2.848,1,0.114,6.21e-05,0.000292,0.0568,0.0914,135.439,4,metal
+1MNCcudzcgmrjWOwzNo661,Dymytry,Pharmageddon,Země Krále Miroslava,39,194016,False,0.538,0.915,10,-5.886,0,0.0623,4.73e-05,0.00789,0.115,0.58,135.013,4,metal
+0Nme92vYmYrVGAEslR2LB0,Oficina G3,Humanos,Desculpas,38,279754,False,0.658,0.725,0,-6.427,1,0.0295,0.000534,0.225,0.154,0.644,123.909,4,metal
+24Kt3cqu1EAvgk6VQiQ2UB,Oficina G3,Humanos,Ele Se Foi,38,270512,False,0.551,0.595,2,-6.407,0,0.0283,0.0848,0.000165,0.393,0.26,144.184,4,metal
+2wt831VAOLWoAbIcQwxWsF,Ill Niño,Metal Lives!,If You Still Hate Me,0,175133,True,0.468,0.983,1,-2.848,1,0.114,6.21e-05,0.000292,0.0568,0.0914,135.439,4,metal
+4dhMxlB0xQXYafSN13NPft,Almafuerte,Ultimando (Cotidiafonos Volumen 1),Patria al Hombro,38,232453,False,0.244,0.955,9,-3.111,1,0.131,0.000932,0.0,0.139,0.461,161.811,4,metal
+0myb1jWdq3o8KH85NVgFIx,Ill Niño,Post-Millennial Noise,All I Ask For,0,219813,False,0.47,0.919,8,-3.5,1,0.0627,3.38e-05,0.111,0.136,0.514,136.354,4,metal
+3c7Doe67vpPgqUo2uRFyVO,Yngwie Malmsteen,Nordic Metal,Leviathan,0,266040,False,0.224,0.938,7,-8.08,1,0.121,0.0101,0.785,0.554,0.162,109.835,3,metal
+3H2cHIeqH79jmFsdiPKRv7,Cadena Perpetua,Malas Costumbres,Sigo Acá,40,153720,False,0.573,0.805,7,-5.94,1,0.0346,0.00431,7.39e-06,0.139,0.701,141.941,4,metal
+4zYEGiXEwmsDVt8drtQ5hg,Hermetica,Acido Argentino,Del Camionero,38,269733,False,0.346,0.669,2,-12.34,1,0.0436,0.000398,0.00211,0.188,0.153,147.467,4,metal

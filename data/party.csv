@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2JW4kMMMGxr8LxZeKeBYJF,Harris & Ford;2 Engel & Charlie,Layla sitzt dicht im Flieger,Amsterdam,2,126133,False,0.702,0.839,6,-3.954,0,0.0744,0.0232,0.000261,0.0932,0.348,112.516,1,party
+4oeKCbH4TtLxtYtEFru0BY,Die Zipfelbuben;DJ Cashi,Ballermann Party Hits Megamix 2022.2,Olivia,0,180157,False,0.666,0.942,1,-2.928,1,0.0689,0.0307,0.0,0.246,0.832,141.913,4,party
+6DZkSVWQMDE97W1cGB3oPk,DJ Robin;Schürze,Best Of Karneval,Layla,0,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+4hNKPzqMtYLp0q4kCAdkn8,Julian Sommer,Best Of Karneval,Dicht im Flieger,1,225882,False,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,4,party
+0w8orSWhT98lqyDvRZiyck,DJ Ötzi;Marc Pircher,Karneval 2022 100%,7 Sünden - Party Mix,0,239053,False,0.635,0.996,7,-3.107,1,0.069,0.0879,0.0,0.158,0.67,130.033,4,party
+7nLUq63GdG3riM8eSVh2Ij,DJ Ötzi;Marc Pircher,Best Of Karneval,7 Sünden - Party Mix,0,239053,False,0.635,0.996,7,-3.107,1,0.069,0.0879,0.0,0.158,0.67,130.033,4,party
+4j4Jc3xTEOAPRd9GuH1CsX,DJ Robin;Schürze,Ernte 2k23,Layla,0,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+4g7PoHihXEAodIHUrGJ3Wk,Tream;HBz,Layla sitzt dicht im Flieger,Goldmarie,0,166346,False,0.547,0.813,8,-6.425,1,0.314,0.0514,0.0,0.147,0.388,149.942,4,party
+4k8oQAvQPKTYDeF9q3gLbP,Tream;HBz,Ernte 2k23,Goldmarie,0,166346,False,0.547,0.813,8,-6.425,1,0.314,0.0514,0.0,0.147,0.388,149.942,4,party
+1yYTULMZ5t1mxgbkGzkexi,Die Zipfelbuben;DJ Cashi,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Olivia,0,180157,False,0.666,0.942,1,-2.928,1,0.0689,0.0307,0.0,0.246,0.832,141.913,4,party
+3diPEpZKPa7DyhpMtp5Psw,DJ Robin;Schürze,Ballermann Hits Party 2023,Layla,0,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+1ZQobK5o691me3zyP1gNE7,DJ Ötzi,Ernte 2k23,Hintermoser Kathi (A Dirndl wie a Zelt),12,191506,False,0.771,0.955,0,-3.813,1,0.086,0.0496,0.0,0.0465,0.964,135.989,4,party
+0RU6TqIUZjzlO46jnA4exd,DJ Ötzi,Layla sitzt dicht im Flieger,Anton aus Tirol - Silverjam RMX,0,191613,False,0.685,0.914,11,-4.177,0,0.182,0.0795,0.0,0.955,0.874,133.026,4,party
+6yui19Oreg3zdu1y7LsTCU,FiNCH;SDP,Best Of Karneval,Liebe ist ...,1,183173,True,0.631,0.8,9,-4.179,1,0.101,0.107,0.0,0.373,0.782,156.941,4,party
+0hnUdyxN1I87cwHunLCCgR,DJ Ötzi,Best Of Karneval,Hey Baby - Remastered 2019,0,220506,False,0.565,0.979,7,-5.456,0,0.0692,0.000251,3.83e-06,0.937,0.508,130.0,4,party
+3VRowfPfpBF3jUwJpL04kW,DJ Ötzi;Nik P.,Karneval 2022 100%,Ein Stern (der deinen Namen trägt) - Party Mix,0,236306,False,0.716,0.962,0,-3.094,1,0.0334,0.00309,5e-06,0.445,0.945,126.017,4,party
+29pauoBt4FMsySc9UQMZvF,Julian Sommer,Layla sitzt dicht im Flieger,Dicht im Flieger,0,225882,False,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,4,party
+7gqE0ahYb4Jn1zs9WAh4qN,Mia Julia,Layla sitzt dicht im Flieger,Malle Beste Leben,0,156022,False,0.513,0.967,11,-0.835,0,0.136,0.106,0.0,0.112,0.401,102.736,3,party
+5DU9FDm3DwS0K278tfULJs,DJ Ötzi;Nik P.,Best Of Karneval,Ein Stern (der deinen Namen trägt) - Party Mix,0,236306,False,0.716,0.962,0,-3.094,1,0.0334,0.00309,5e-06,0.445,0.945,126.017,4,party
+27YTlON703TrVxR7EZN7gY,FiNCH;Mia Julia,Layla sitzt dicht im Flieger,Wir eskalieren,0,216286,True,0.73,0.909,11,-5.904,0,0.138,0.123,0.0,0.123,0.453,87.523,4,party
+7xniyiLqMqdrTd0EToNUOW,Andreas Gabalier,Rock n Roll Christmas,It's Christmas Time,0,237463,False,0.711,0.821,6,-5.909,1,0.0341,0.159,0.0,0.243,0.585,128.052,4,party
+7I01n0TRTKRfGvTTc3uWBX,FiNCH;SDP,Karneval 2022 100%,Liebe ist ...,0,183173,True,0.631,0.8,9,-4.179,1,0.101,0.107,0.0,0.373,0.782,156.941,4,party
+5DOmDyzOhW5czyuaxDbSFV,Julian Sommer,Ernte 2k23,Dicht im Flieger,0,225882,False,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,4,party
+6zJbuVE1nwz6fszX6q1Edk,DJ Ötzi,Ernte 2k23,Die Fischerin vom Bodensee,0,191666,False,0.672,0.989,4,-3.626,1,0.0319,0.0126,1.63e-06,0.302,0.969,124.015,4,party
+48oIzwfZBs7bu6y6YDTiIr,DJ Ötzi;Xtreme Sound,Ballermann Hits Party 2023,Wenn Gott so will - Xtreme Sound Remix,0,211330,False,0.544,0.948,11,-2.418,1,0.0451,0.0125,0.0,0.328,0.696,127.961,4,party
+5b8uYUZSIViJYa0OxHPuOb,Mia Julia;Lorenz Büffel;Malle Anja,Best Of Karneval,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+2KGayXScWNO2bPw6Z9Ruoy,Mia Julia;Mütze Katze,Best Of Karneval,Ich bleib hier,0,162947,False,0.855,0.728,7,-6.76,1,0.15,0.0155,0.0,0.267,0.716,130.054,4,party
+2fuoz7vNgoMOzZmU9078T5,Mia Julia;Lorenz Büffel;Malle Anja,Karneval 2022 100%,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+5DPJ4y8ArSycYrlm08L1Eq,Mia Julia;Lorenz Büffel;Malle Anja,Layla sitzt dicht im Flieger,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+3VNBr8Dzno1PsmykHwdKEh,DJ Ötzi,Karneval Klassiker,Hey Baby - Remastered 2019,0,220506,False,0.565,0.979,7,-5.456,0,0.0692,0.000251,3.83e-06,0.937,0.508,130.0,4,party
+40OGOFVzaNknTuacH6PCxv,Mia Julia,Karneval 2022 100%,Weck mich nicht auf,0,229611,False,0.581,0.942,6,-3.146,1,0.0472,0.002,0.0,0.328,0.412,130.007,4,party
+4cICiy9ewIJFNxZk9X7Q3Y,Mia Julia;Mütze Katze,Karneval 2022 100%,Ich bleib hier,0,162947,False,0.855,0.728,7,-6.76,1,0.15,0.0155,0.0,0.267,0.716,130.054,4,party
+5zzfKibxNlJPWGkkhAGlLg,DJ Ötzi,Karneval 2022 100%,Hey Baby - Remastered 2019,0,220506,False,0.565,0.979,7,-5.456,0,0.0692,0.000251,3.83e-06,0.937,0.508,130.0,4,party
+3a8L810yWVH8mXfiTCmtvS,DJ Ötzi,Karneval Klassiker,Der hellste Stern (Böhmischer Traum) - Silverjam Mix,0,198613,False,0.575,0.957,5,-2.758,1,0.0826,0.00328,0.0,0.158,0.929,126.056,4,party
+6gkalIxm5qlgweLkYdbdlF,DJ Ötzi,Karneval 2022 100%,Der hellste Stern (Böhmischer Traum) - Silverjam Mix,0,198613,False,0.575,0.957,5,-2.758,1,0.0826,0.00328,0.0,0.158,0.929,126.056,4,party
+0nV2e1PJJkSS2xGePu9jOP,DJ Ötzi,Ernte 2k23,Der hellste Stern (Böhmischer Traum) - Silverjam Mix,0,198613,False,0.575,0.957,5,-2.758,1,0.0826,0.00328,0.0,0.158,0.929,126.056,4,party
+2S2fAt6ykPGEGsxedaePlC,DJ Ötzi,Best Of Karneval,Der hellste Stern (Böhmischer Traum) - Silverjam Mix,0,198613,False,0.575,0.957,5,-2.758,1,0.0826,0.00328,0.0,0.158,0.929,126.056,4,party
+5ZCtVbx9W9ux0LUUzEt2ha,Mia Julia;Lorenz Büffel;Malle Anja,Ernte 2k23,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+0wigZk1HqUqe1baSJXtstq,Mia Julia,Karneval Klassiker,Weck mich nicht auf,0,229611,False,0.581,0.942,6,-3.146,1,0.0472,0.002,0.0,0.328,0.412,130.007,4,party
+71wfYjMBBw7dM3Se2M56NI,Mia Julia,Best Of Karneval,Weck mich nicht auf,0,229611,False,0.581,0.942,6,-3.146,1,0.0472,0.002,0.0,0.328,0.412,130.007,4,party
+6iJ4cASdT6ddPPOBLkYG37,Julian Sommer,Ballermann Hits Party 2023,Morgen kickt der Kater,0,196764,False,0.614,0.963,11,-1.206,1,0.062,0.0834,0.0,0.377,0.725,135.979,4,party
+7KVAGhTi4HnUUvlcNehq1O,FiNCH;Mia Julia,Ballermann Hits Party 2023,Wir eskalieren,0,216286,True,0.73,0.909,11,-5.904,0,0.138,0.123,0.0,0.123,0.453,87.523,4,party
+09pIqulR7CrEjcgEuHz85N,Matthias Reim,Weihnachten Playlist,Der große Weihnachtsparty-Hit-Mix - XXL-Mix,0,511400,False,0.391,0.909,0,-6.022,1,0.0379,0.0175,0.0,0.39,0.695,126.975,4,party
+3YRF2DMclnHqwFmTueNtic,Mia Julia,Ballermann Hits Party 2023,Freitag Samstag Dicht,0,211160,False,0.783,0.933,9,-3.053,0,0.109,0.0748,0.0,0.317,0.888,127.969,4,party
+4Qu5pwrPD7CKQFClYdGE6R,Andreas Gabalier,Karneval 2022 100%,Hulapalu,0,180252,False,0.705,0.676,0,-4.672,1,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+3Gh0LPEcx1z6Bp82Xsxhbs,Mia Julia;Lorenz Büffel;Malle Anja,Ballermann Hits Party 2023,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+2B7ztTw0XuywnZK6W3tTG7,Andreas Gabalier,Best Of Karneval,Hulapalu,0,180252,False,0.705,0.676,0,-4.672,1,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+7tKOM6vYLZPChDOU04tFOy,Andreas Gabalier,Ernte 2k23,Bügel dein Dirndl gscheit auf,0,225106,False,0.597,0.935,10,-4.481,1,0.0352,0.0711,0.0,0.117,0.423,131.034,4,party
+1wKlYoHZ5O6pVbvt2Zxvz2,Andreas Gabalier,Karneval Klassiker,Hulapalu,0,180252,False,0.705,0.676,0,-4.672,1,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+3bDk5adzwYm0HnbTKZzHgq,Andreas Gabalier,Karneval Klassiker,I sing a Liad für di,0,186120,False,0.793,0.866,0,-4.919,1,0.0375,0.218,0.0,0.296,0.934,126.002,4,party
+2KZF4bKu5ycYs1NDjsdy1N,Bierkapitän;Andy Luxx;Dj Aaron;Timster;Ninth,Lea (Timster & Ninth Remix),Lea - Timster & Ninth Remix,0,224400,False,0.52,0.981,6,-2.575,0,0.11,0.00547,3.52e-06,0.314,0.522,150.039,4,party
+0IqWNTGwQEttV6mYbqM3oF,Bierkapitän;Andy Luxx;Dj Aaron,Best Of Karneval,Lea,0,159374,False,0.66,0.977,6,-2.232,0,0.0579,0.0278,0.0,0.337,0.771,140.013,4,party
+3YEPUR731DgSBj3QBNsGEc,Bierkapitän,Ballermann Party Hits Megamix 2022.2,Ein Pils steht im Wald (Die Tannen zapfen),0,191102,False,0.657,0.989,0,-1.919,1,0.164,0.125,0.0,0.312,0.353,130.015,4,party
+29lRfchZ443zFbtRMLY1QU,Bierkapitän;Andy Luxx;Dj Aaron,Karneval 2022 100%,Lea,0,159374,False,0.66,0.977,6,-2.232,0,0.0579,0.0278,0.0,0.337,0.771,140.013,4,party
+2Rq2c8RCYPSzwT0mmdoAbS,Bierkapitän;Andy Luxx;Dj Aaron,Layla sitzt dicht im Flieger,Lea,0,159374,False,0.66,0.977,6,-2.232,0,0.0579,0.0278,0.0,0.337,0.771,140.013,4,party
+4Ggbnx53gtCG8H1OxDW405,Darius & Finlay,pov: it's 2020,Clothes Off (Nanana),0,226629,False,0.625,0.741,0,-6.818,0,0.0489,0.00918,0.0,0.2,0.212,105.979,4,party
+2p2T6RVGmOQC4VNgbTik7i,Mickie Krause,Karneval Klassiker,Schatzi schenk mir ein Foto,0,205309,False,0.624,0.918,6,-4.101,0,0.0539,0.0407,0.0,0.364,0.919,140.094,4,party
+1jwuShQSV702Hsu3kgFHkg,Lorenz Büffel,Layla sitzt dicht im Flieger,Hüpfen bis die Insel wackelt,0,200977,False,0.686,0.88,1,-4.252,1,0.107,0.0765,0.0,0.303,0.318,136.0,4,party
+0YDN6l78yWjONsP22OjKld,Mickie Krause,Karneval 2022 100%,Eine Woche wach,0,235899,False,0.711,0.997,7,-3.078,1,0.075,0.0623,0.0,0.33,0.76,134.001,4,party
+3RAehFerwcfNBPh6HgXvuI,Darius & Finlay;Gili Brown,"Anímate, es viernes",Come Back Now,0,191020,False,0.513,0.916,1,-5.047,0,0.038,0.000844,1.72e-05,0.268,0.356,121.998,4,party
+5DZwfsbwZXnKuUPAvrzipC,Lorenz Büffel,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Schifoan,0,189320,False,0.722,0.997,7,-2.58,1,0.0424,0.042,0.0,0.301,0.967,130.952,4,party
+1wEUHZPeGvW7sbF9miASsi,Mickie Krause,Best Of Karneval,Eine Woche wach,0,235899,False,0.711,0.997,7,-3.078,1,0.075,0.0623,0.0,0.33,0.76,134.001,4,party
+59kUyBhO3IHu58nlggfs7l,Mickie Krause,Ernte 2k23,Donaulied,1,219440,False,0.54,0.988,0,-2.429,1,0.0341,0.017,0.00538,0.339,0.963,137.97,4,party
+2rlpzC6hz1VW9Quaz3ihHI,Mickie Krause,Layla sitzt dicht im Flieger,Geh mal Bier hol'n - GmBh,0,187053,False,0.612,0.997,1,-2.524,1,0.204,0.0185,0.0,0.335,0.545,139.989,4,party
+6vPDpwozd5ucOd5QO4Cb4r,Lorenz Büffel;Knossi,Ballermann Hits Party 2023,Trinken ist auch Sport,0,169568,False,0.664,0.917,7,-2.421,0,0.139,0.0464,0.0,0.231,0.785,136.006,4,party
+3gD88GyMS2EVa1bSX834LH,Mickie Krause,Ballermann Hits Party 2023,Jan Pillemann Otze - Goldversion 2022,0,216650,False,0.597,0.98,7,-2.075,1,0.0636,0.00427,3.51e-05,0.293,0.633,139.989,4,party
+75WqM7UN2eS7Bu7qhJ2UmZ,Mickie Krause,Ernte 2k23,Geh mal Bier hol'n - GmBh,0,187053,False,0.612,0.997,1,-2.524,1,0.204,0.0185,0.0,0.335,0.545,139.989,4,party
+2N5a0tqh9yPVc6QLyNnatO,Darius & Finlay;Rusty,Fishing Music,In The Ghetto,0,159117,False,0.58,0.712,10,-6.536,1,0.0324,0.00841,0.00543,0.0821,0.482,100.021,4,party
+2xdQyyhUESOeww5ZsY434R,Mickie Krause,Karneval Klassiker,Eine Woche wach,0,235899,False,0.711,0.997,7,-3.078,1,0.075,0.0623,0.0,0.33,0.76,134.001,4,party
+3vYXHcZoRgzSudq48pBIhF,Lorenz Büffel,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Footballs Coming Home,0,224050,False,0.651,0.948,8,-3.147,1,0.112,0.0941,0.0,0.527,0.462,126.449,4,party
+3JSqyVwfprKaXETBtWvDhH,Mickie Krause;KO&KO,Best Of Karneval,Schatzi Schenk Mir Ein Foto,0,208525,False,0.627,0.913,6,-3.743,0,0.0503,0.0555,0.0,0.389,0.916,140.172,4,party
+7sZ9eVAw4CfxeHNL7SkCKa,Mickie Krause;KO&KO,Karneval 2022 100%,Schatzi Schenk Mir Ein Foto,0,208525,False,0.627,0.913,6,-3.743,0,0.0503,0.0555,0.0,0.389,0.916,140.172,4,party
+7fxk6qjkQHs66OZcDsEe8K,Mickie Krause,Karneval Klassiker,"Biste braun, kriegste Fraun - Version 2015",0,185217,False,0.819,0.708,0,-4.706,1,0.0605,0.0157,8.62e-05,0.081,0.363,127.992,4,party
+318FBEEoqRRfNhdmzPmjWw,Mickie Krause,Karneval 2022 100%,Von vorne nach hinten...von links nach rechts - Party Version,0,201975,False,0.517,0.994,10,-2.806,1,0.402,0.0589,0.0,0.972,0.651,135.064,4,party
+6SDsOrnIDb3f1Pkaqbt34D,Mickie Krause,Karneval 2022 100%,"Biste braun, kriegste Fraun - Version 2015",0,185217,False,0.819,0.708,0,-4.706,1,0.0605,0.0157,8.62e-05,0.081,0.363,127.992,4,party
+2KqyN0BfxznJIeWxGxXHm5,Mickie Krause,Best Of Karneval,"Biste braun, kriegste Fraun - Version 2015",0,185217,False,0.819,0.708,0,-4.706,1,0.0605,0.0157,8.62e-05,0.081,0.363,127.992,4,party
+4bj0Wmx0UAYNoLv8UXYSyD,Mickie Krause,Best Of Karneval,Nur noch Schuhe an - Party-Version 2013,0,221440,False,0.506,0.998,11,-1.502,1,0.132,0.0665,0.0,0.468,0.54,144.925,4,party
+15Ms8h8ifZwCdMTQEM3BOI,Mickie Krause,Karneval 2022 100%,Nur noch Schuhe an - Party-Version 2013,0,221440,False,0.506,0.998,11,-1.502,1,0.132,0.0665,0.0,0.468,0.54,144.925,4,party
+1Il91bqC3Foqjfdh1IunFU,Mickie Krause,Best Of Karneval,Mich hat ein Engel geküsst,0,227026,False,0.527,0.993,9,-2.68,1,0.273,0.109,0.0,0.961,0.546,133.135,4,party
+359PHdNHrEdBeFXzLC7TJJ,Mickie Krause,Ballermann Hits Party 2023,Für Dich,0,229740,False,0.643,0.996,5,-2.635,1,0.0775,0.0059,0.0,0.163,0.382,139.966,4,party
+5BB2dYXvO2Fqfz4UzyTmvx,Mickie Krause,Karneval Klassiker,Von vorne nach hinten...von links nach rechts - Party Version,0,201975,False,0.517,0.994,10,-2.806,1,0.402,0.0589,0.0,0.972,0.651,135.064,4,party
+7jvro28dBbuWoBYSdqk4N9,Mickie Krause,Ernte 2k23,Oh wie ist das schön - Single Version,0,248213,False,0.318,0.953,5,-3.653,1,0.0993,0.107,0.0,0.835,0.182,129.271,4,party
+2Hz403eAzJ8BTGZX0PkgIP,Mickie Krause,Karneval Klassiker,Nur noch Schuhe an! - Masken-Version,0,225493,False,0.503,0.951,11,-3.52,1,0.139,0.0216,0.0,0.759,0.664,146.949,4,party
+3vFud1q8SpVHDBipdzaXKU,Mickie Krause,Layla sitzt dicht im Flieger,Kann ich so nicht sagen müsst ich nackt seh'n,0,216304,False,0.549,0.986,8,-2.666,1,0.28,0.0496,0.0,0.225,0.689,143.993,5,party
+3lJ4wYJf2raqW5n0ns9hFz,Mickie Krause,Best Of Karneval,Kann ich so nicht sagen müsst ich nackt seh'n,0,216304,False,0.549,0.986,8,-2.666,1,0.28,0.0496,0.0,0.225,0.689,143.993,5,party
+4fmlVlNvoVLj8aNIPvVSKS,Mickie Krause,Karneval 2022 100%,Kann ich so nicht sagen müsst ich nackt seh'n,0,216304,False,0.549,0.986,8,-2.666,1,0.28,0.0496,0.0,0.225,0.689,143.993,5,party
+5zPQSp8zXRk9rwEVDhoCli,Mickie Krause,Karneval Klassiker,Mich hat ein Engel geküsst,0,227026,False,0.527,0.993,9,-2.68,1,0.273,0.109,0.0,0.961,0.546,133.135,4,party
+1NIyXiafPgyNBbuTV9fmwq,Mickie Krause,Karneval 2022 100%,Mich hat ein Engel geküsst,0,227026,False,0.527,0.993,9,-2.68,1,0.273,0.109,0.0,0.961,0.546,133.135,4,party
+04ize5IEH2inSkQkqFGLd8,Michelle;Matthias Reim,Best Of Karneval,Idiot - Version 2011,0,188026,False,0.732,0.826,11,-4.936,1,0.0353,0.173,0.0,0.352,0.772,129.993,4,party
+2B7ztTw0XuywnZK6W3tTG7,Andreas Gabalier,Best Of Karneval,Hulapalu,0,180252,False,0.705,0.676,0,-4.672,1,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+4IRaaCRMTNH8FWNxirMYIo,Mickie Krause,Best Of Karneval,Von vorne nach hinten...von links nach rechts - Party Version,0,201975,False,0.517,0.994,10,-2.806,1,0.402,0.0589,0.0,0.972,0.651,135.064,4,party
+38NG9wfK9fRbKkaiZwZWFB,Michelle;Matthias Reim,Karneval 2022 100%,Idiot - Version 2011,0,188026,False,0.732,0.826,11,-4.936,1,0.0353,0.173,0.0,0.352,0.772,129.993,4,party
+09TXVj9aCagz20AAXEGZ9F,Andreas Gabalier,Layla sitzt dicht im Flieger,Hulapalu,0,180252,False,0.705,0.676,0,-4.672,1,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+5j6fNm5pfsmJBTtuEMQUQn,Michelle;Matthias Reim,Karneval Klassiker,Idiot - Version 2011,0,188026,False,0.732,0.826,11,-4.936,1,0.0353,0.173,0.0,0.352,0.772,129.993,4,party
+1QXWVAqwNbtdNbxdnc27Rs,Andreas Gabalier,Karneval 2022 100%,I sing a Liad für di,0,186120,False,0.793,0.866,0,-4.919,1,0.0375,0.218,0.0,0.296,0.934,126.002,4,party
+0RR32CK1PCFyX2epXAx15e,Andreas Gabalier,Ernte 2k23,I sing a Liad für di,0,186120,False,0.793,0.866,0,-4.919,1,0.0375,0.218,0.0,0.296,0.934,126.002,4,party
+2P3XMNTNXPnlP0Uid5xYIu,Stereoact,Karneval 2022 100%,Abenteuerland,0,198465,False,0.658,0.794,3,-7.569,0,0.111,0.0148,1.36e-06,0.045,0.179,131.996,4,party
+5LU13fIMdPYFJpRMltjBGo,Stereoact,Best Of Karneval,Abenteuerland,0,198465,False,0.658,0.794,3,-7.569,0,0.111,0.0148,1.36e-06,0.045,0.179,131.996,4,party
+3qtsCNiRjfgXln9YDZ1deu,Michelle,Ballermann Hits Party 2023,Scheißkerl,0,202666,False,0.586,0.877,2,-4.466,1,0.084,0.0355,0.0,0.305,0.549,129.886,4,party
+3aBDYp4ANN7YWKuim4fChO,Stereoact;Mickie Krause,Ballermann Hits Party 2023,Fiesta Mexicana,0,172455,False,0.761,0.86,2,-5.791,1,0.0338,0.00167,0.0,0.082,0.536,128.044,4,party
+7jXI0uNkodrjwcL0Caj2Pk,Andi Kiss,Suffia,Suffia,38,168695,False,0.737,0.902,6,-3.769,0,0.095,0.0235,0.0,0.497,0.468,137.981,4,party
+4LrqQJeqKbObLdsEego2um,Tobee,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Lotusblume,1,220000,False,0.574,0.998,6,-3.628,1,0.0658,0.0101,0.0,0.352,0.934,139.985,3,party
+4MJjyMQHHkGzswHOcvBDfE,Micha von der Rampe,Layla sitzt dicht im Flieger,Partyanimal,1,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+5kqaW2UxXrcLadZRDxi6z2,Mallorca Allstars;Isi Glück;Ikke Hüftgold;Almklausi;Lorenz Büffel;Carolina;Honk!,Eine Liebe,Eine Liebe - Mallorca Mix,39,215342,False,0.457,0.952,11,-2.519,1,0.123,0.219,0.0,0.495,0.411,145.939,4,party
+44G4aqgPBa2dnjmaGjbari,Tobee,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Bierpong,1,170445,False,0.748,0.883,6,-1.79,0,0.121,0.0425,0.0,0.186,0.429,138.022,4,party
+5RX2Azw9uQzFyJ6Dm9fgfM,Micha von der Rampe,Karneval 2022 100%,Du bist Bombe,0,152727,False,0.781,0.843,8,-5.243,1,0.139,0.119,0.0,0.33,0.79,131.946,4,party
+6dmMJQrMqWKaVKO6HiQCiA,Micha von der Rampe,Best Of Karneval,Du bist Bombe,0,152727,False,0.781,0.843,8,-5.243,1,0.139,0.119,0.0,0.33,0.79,131.946,4,party
+2zKVx0NACtXCFC72npUR5v,Micha von der Rampe,Karneval 2022 100%,Partyanimal,0,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+6I8V44RigwwoO19E4YLPEU,Micha von der Rampe,Karneval Klassiker,Partyanimal,0,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+1qPsr0zgQBZc2w2X0wK0Zl,Die Flippers,Singles Vol. 2 (1980 - 1988),Mexico,39,198533,False,0.69,0.723,9,-11.143,1,0.0441,0.098,3.58e-05,0.106,0.725,121.01,4,party
+7uefhHIQnMVQu0agtDxyec,Micha von der Rampe,Best Of Karneval,Partyanimal,0,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+4tA47shN4mOvU2ePdOPa8t,Micha von der Rampe,Ernte 2k23,Partyanimal,0,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+3O3GKvn235mDlufLhfaida,Tobee,Après Ski Megahits 2023,Cordula Grün,0,186013,False,0.708,0.926,10,-2.93,1,0.116,0.0126,0.0,0.349,0.574,128.044,4,party
+4MjhHVpKVaJjIHyxnMGUyh,Peter Wackel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Es regnet Bier,1,213161,False,0.633,0.965,8,-2.717,0,0.19,0.0221,0.0,0.347,0.791,137.966,4,party
+6IujLG0qZPjRKdMH5UjA4Q,Peter Wackel;Chriss Tuxi,Karneval Klassiker,Joana,0,204386,False,0.763,0.906,2,-4.856,1,0.0336,0.174,1.35e-06,0.176,0.961,126.043,4,party
+1hDNg43vCjUHSJSzETUHdN,Sound Convoy,"Hey, wir woll´n die Eisbären seh´n","Hey, wir woll'n die Eisbären seh'n - Original Mix",38,211266,False,0.699,0.95,8,-5.291,1,0.0369,0.0243,7.05e-06,0.583,0.709,124.058,4,party
+6YdYtMJJz6LI27yyAQhXHp,DJ Ötzi,Oktoberfest – Wiesn Party mit DJ Ötzi,Can't Take My Eyes Off You,38,247925,False,0.653,0.968,5,-4.035,0,0.177,0.00598,0.0,0.355,0.323,127.998,4,party
+4sAqdPUG9RkPWLWnCXxuk7,Tobee,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Mallorca Kinder,0,202715,False,0.577,0.997,7,-2.23,1,0.144,0.0241,0.0,0.387,0.333,133.966,3,party
+27Fz7aFTrEKeD9ymy3CK0j,Peter Wackel;Chriss Tuxi,Karneval 2022 100%,Joana,0,204386,False,0.763,0.906,2,-4.856,1,0.0336,0.174,1.35e-06,0.176,0.961,126.043,4,party
+5So7fa1VDWpsQaSRnS16H3,Peter Wackel;Chriss Tuxi,Best Of Karneval,Joana,0,204386,False,0.763,0.906,2,-4.856,1,0.0336,0.174,1.35e-06,0.176,0.961,126.043,4,party
+649vO1mEReTgyyUEsjJmHy,Bierkapitän;Andy Luxx;Dj Aaron,Ballermann Hits Party 2023,Lea,0,159374,False,0.66,0.977,6,-2.232,0,0.0579,0.0278,0.0,0.337,0.771,140.013,4,party
+4rbGx9YrJdivpcZIYryZiX,Tobee,Ballermann Party Hits Megamix 2022.2,Mallorca Kinder,0,202715,False,0.577,0.997,7,-2.23,1,0.144,0.0241,0.0,0.387,0.333,133.966,3,party
+6rXn4Pm2CXg2RRxPvdLZHz,Peter Wackel,Après Ski Megahits 2023,Ich verkaufe meinen Körper,0,193106,False,0.694,0.997,8,-2.362,0,0.235,0.0806,0.0,0.283,0.335,139.953,4,party
+3fntRsNJJClNeiggls3B88,Bierkapitän,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Schere Stein paar Bier (Schnick Schnack Schluck),0,183698,False,0.688,0.983,7,-3.336,0,0.0989,0.0309,1.2e-06,0.807,0.713,145.966,4,party
+1rtjZVYQOGcQj5KVBeSB8N,Micha von der Rampe,Ballermann Hits Party 2023,"Geil man, Wochenende",0,129931,False,0.767,0.944,0,-4.07,1,0.116,0.148,0.0,0.0896,0.614,145.032,4,party
+0NaNzUwgo22RgGAzt9fFwn,Peter Wackel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Ich bin morgens immer müde,0,215651,False,0.67,0.983,3,-2.052,0,0.0779,0.0067,0.0,0.0223,0.822,134.044,4,party
+78UPFL0bdiooH4UiwJ1KhM,Peter Wackel,Ballermann Party Hits Megamix 2022.2,Ich bin morgens immer müde,0,215651,False,0.67,0.983,3,-2.052,0,0.0779,0.0067,0.0,0.0223,0.822,134.044,4,party
+10soKKGdWuuh0fHueyA1Nj,Die Draufgänger;Ikke Hüftgold,Best Of Karneval,Rapunzel,0,173510,False,0.643,0.857,5,-4.218,1,0.0294,0.123,0.0,0.531,0.698,123.009,4,party
+4BRzO5No6i3ax8uQYP6zuY,Die Draufgänger;Ikke Hüftgold,Karneval 2022 100%,Rapunzel,0,173510,False,0.643,0.857,5,-4.218,1,0.0294,0.123,0.0,0.531,0.698,123.009,4,party
+1MCslHrdbvTmhJr9La6sCe,Peter Wackel,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,An der Theke,0,172187,False,0.652,0.97,1,-2.76,1,0.0764,0.0123,0.0,0.0582,0.805,127.971,4,party
+6Q6FQBJSUNkMKnrt7BZo4E,Bierkapitän;Markus Becker;Würzbuam,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Bierkapitän - Hüttenstyle Version,0,208000,False,0.683,0.963,6,-2.245,0,0.241,0.0389,0.0,0.355,0.717,139.948,4,party
+0boSnwCGbhg6uftiwENeG8,Die Draufgänger,Karneval 2022 100%,Marie,0,200314,False,0.755,0.843,0,-5.001,1,0.0544,0.0548,0.0,0.176,0.708,131.971,4,party
+02Yq5yPG7j7QylbZiVmJJI,Tobee,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Weltmeister werden wir in diesem Jahr,0,176960,False,0.663,0.996,8,-1.995,0,0.114,0.0737,0.0,0.963,0.926,137.965,4,party
+3chQ0eFCHmha6yG0oezrx9,Die Draufgänger,Best Of Karneval,Marie,0,200314,False,0.755,0.843,0,-5.001,1,0.0544,0.0548,0.0,0.176,0.708,131.971,4,party
+3XwYe6G9R5ErLkfM6Hawmm,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Eskalation,39,151906,False,0.683,0.886,10,-6.291,1,0.0455,0.00689,7.21e-05,0.0802,0.968,150.021,4,party
+5zIirF26uo4nQihFHhSkDf,Jürgen Drews;Matthias Reim,Karneval Klassiker,Ich bau dir ein Schloss,0,186946,False,0.678,0.995,3,-4.599,1,0.0681,0.076,0.0,0.379,0.742,130.013,4,party
+1RvhC99ETQs4xJm1ITmiic,Die Draufgänger,Karneval 2022 100%,Cordula Grün,0,190000,False,0.841,0.759,10,-4.596,1,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+1jYKgP8CnKUvkXUsqhdDwq,Die Draufgänger,Karneval Klassiker,Cordula Grün,0,190000,False,0.841,0.759,10,-4.596,1,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+74lkEoeMNoDY8k9e81GZOU,Jürgen Drews;Matthias Reim,Best Of Karneval,Ich bau dir ein Schloss,0,186946,False,0.678,0.995,3,-4.599,1,0.0681,0.076,0.0,0.379,0.742,130.013,4,party
+3gKH5ftmXU42WxbLJtk1DI,Die Draufgänger,Ernte 2k23,Cordula Grün,0,190000,False,0.841,0.759,10,-4.596,1,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+4Drlsy6WwvYGqWIPIS012H,Die Draufgänger,Best Of Karneval,Cordula Grün,0,190000,False,0.841,0.759,10,-4.596,1,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+6JUhZLwHTWMu2yioKW9Cyg,Die Draufgänger,Layla sitzt dicht im Flieger,Cordula Grün,0,190000,False,0.841,0.759,10,-4.596,1,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+2Mcim2nWa9zGkW1vWWdp3S,Die Draufgänger;Lorenz Büffel,Ernte 2k23,Johnny Deere,0,226253,False,0.793,0.737,5,-3.268,0,0.109,0.182,0.0,0.0592,0.664,132.0,4,party
+4bj493XxEOXsILudgVVa0n,Die Draufgänger,Grün,Küss die Hand schöne Frau,39,219146,False,0.842,0.703,8,-4.569,1,0.0377,0.0406,0.0,0.0263,0.961,132.978,4,party
+70QbtFV095ac2eQXJAgr8e,Jürgen Drews;Matthias Reim,Karneval 2022 100%,Ich bau dir ein Schloss,0,186946,False,0.678,0.995,3,-4.599,1,0.0681,0.076,0.0,0.379,0.742,130.013,4,party
+4tifWCOacnfT3xbQr06UQ0,Jürgen Drews;Ben Zucker,Best Of Karneval,Ein Bett im Kornfeld,0,179440,False,0.641,0.928,4,-3.882,1,0.0506,0.0345,0.0,0.144,0.839,117.981,4,party
+1tjLOQjUVAXbJFp1ZwBPXc,Die Draufgänger;Ikke Hüftgold,Ballermann Hits Party 2023,Rapunzel,0,173510,False,0.643,0.857,5,-4.218,1,0.0294,0.123,0.0,0.531,0.698,123.009,4,party
+6erBhUosJ1tuRR1H8UpSyJ,Die Draufgänger;Stefan Rauch;DJ Robin,Ballermann Hits Party 2023,"Landjugend (Baby, i bin von der...) - DJ Robin Remix",0,192000,False,0.665,0.944,11,-3.664,1,0.199,0.0409,0.0,0.292,0.662,130.011,4,party
+0gbTWyqIQXC93BTXxmAveK,Jürgen Drews,Karneval Klassiker,Irgendwann irgendwo irgendwie - seh'n wir uns wieder - Remastered 2017,0,245426,False,0.671,0.98,0,-3.769,1,0.0424,0.00686,0.000199,0.0852,0.868,124.009,4,party
+5mY3UCVhLzKlOmLvKEWKgj,Jürgen Drews,Ballermann Hits Party 2023,Was einmal war das kommt nie wieder,0,190847,False,0.659,0.975,5,-2.704,1,0.0356,0.0295,0.0,0.254,0.768,130.012,4,party
+7GDd5maZp10kjA82B9QICj,Mickie Krause,Wir woll'n feiern für die Ewigkeit - Best Of!,Finger weg von Sachen ohne Alkohol,38,199840,False,0.679,0.998,4,-4.213,1,0.196,0.0649,0.0,0.968,0.722,140.087,4,party
+467P6VTWV2nEE0lSIYJQtC,Specktakel,Ballermann Hits 2022,Ich sauf den ganzen Tag,36,191041,False,0.732,0.934,3,-2.281,1,0.226,0.05,0.0,0.103,0.804,140.07,4,party
+0n93LFZE7xDLcTSHA1TzuM,Glitzer Gischi,Baby Schluck!,Baby Schluck!,37,68445,False,0.619,0.982,0,-2.021,1,0.206,0.0709,0.0,0.386,0.925,126.536,4,party
+5zdEyx9PsXDOXtmw3NVjcZ,Mia Julia,Auf die Liebe (Auf das Leben),Auf die Liebe (Auf das Leben),36,199663,False,0.587,0.923,3,-1.702,1,0.0407,0.0377,0.0,0.311,0.692,131.958,4,party
+2bqiPb1Hd6bMyUejpRbaev,Nancy Franck,Korken knallen,Korken knallen,36,196345,False,0.665,0.956,7,-2.357,0,0.0463,0.013,0.0,0.819,0.651,136.017,4,party
+4Fm5pHCOiCebewYugvsiUt,Pazoo;Schalldicht,"Saufen, Saufen, Saufen","Saufen, Saufen, Saufen",37,149307,True,0.685,0.91,7,-4.088,1,0.137,0.00387,0.0,0.134,0.593,129.951,4,party
+6Lt3XLJjouw9uOxzyT15JK,minnie rock;DJ Robin,Lieblingsland,Lieblingsland,37,219210,False,0.702,0.91,7,-1.706,0,0.05,0.00333,0.0,0.0771,0.584,132.501,4,party
+07DUduE5T1kAlkIU7Hjv3Z,Pazoo;NoooN;Hello Ellie,Layla sitzt dicht im Flieger,Dubi Dam Dam,0,126428,False,0.708,0.928,0,-6.034,1,0.0326,0.0033,0.000135,0.334,0.903,140.022,4,party
+2ZH1KeutjnTDqnm78fPFAZ,Micha von der Rampe;Xtreme Sound,DorfDäpp (Xtreme Sound Remix),DorfDäpp - Xtreme Sound Remix,37,166035,False,0.641,0.985,11,-2.254,1,0.0443,0.0687,0.0,0.39,0.922,135.031,4,party
+09obJ3DFME6R9uIZYPZxhG,Frenzy;DJ Balineiro,Ballermann Hits 2022,Kopfweh,37,186151,False,0.665,0.908,0,-4.491,1,0.0976,0.00807,0.0,0.337,0.519,139.888,4,party
+434s5Dl0MmJuwu16VemO50,Ikke Hüftgold;KYANU;Abrissgebeat,Ich schwanke noch (Kyanu & Abrissgebeat Remix),Ich schwanke noch - Kyanu & Abrissgebeat Remix,37,184741,False,0.565,0.953,3,-5.114,1,0.118,0.00182,0.0,0.342,0.622,75.075,4,party
+0QCnCDbCCnKBDzOIYAoIHB,Almklausi;Kings of Günter;DJ Heini,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Ich war noch niemals auf Mallorca,0,190203,False,0.64,0.989,4,-3.042,0,0.13,0.0386,0.0,0.974,0.875,138.037,4,party
+36C3lzNUUBzMZvMmLMXbPG,Höhner,Karneval 2022 100%,Echte Fründe - Remake '97,0,144253,False,0.64,0.902,5,-3.943,1,0.0365,0.0356,0.000467,0.241,0.941,127.019,4,party
+0draBKufTTX0adsDSV3Djd,Mia Julia,M.i.a. Meine Gang,M.i.a. Meine Gang,36,218851,False,0.816,0.864,7,-2.755,1,0.0714,0.175,0.0,0.0811,0.714,135.989,4,party
+3vkeiCyvQQQ0G55vOOJgQD,Fäaschtbänkler,Partyplanet,Traumfrau,36,176480,False,0.782,0.77,2,-5.779,1,0.0426,0.077,2.24e-05,0.28,0.931,119.979,4,party
+4KDp6YnYVTFzhpN2YEWwzQ,DJ Ötzi,Oktoberfest – Wiesn Party mit DJ Ötzi,Anton aus Tirol - Silverjam RMX,36,191613,False,0.685,0.914,11,-4.177,0,0.182,0.0795,0.0,0.955,0.874,133.026,4,party
+1elmFshJhXyCdWJBvHQlgd,Höhner,Best Of Karneval,Liebchen,0,197893,False,0.585,0.881,5,-4.29,1,0.0517,0.0338,0.0,0.248,0.944,133.908,4,party
+2OYBvW5yGby3vjXX7M6Ncy,Fäaschtbänkler,Wennduwie,Wennduwie,38,168642,False,0.778,0.733,5,-6.337,1,0.0469,0.0894,0.0,0.178,0.725,100.004,4,party
+3xQo2WhHCTlAuzNwwT5DDA,Höhner,Best Of Karneval,Lust auf Leben,0,174933,False,0.671,0.886,5,-4.79,1,0.0407,0.452,0.0,0.154,0.886,127.955,4,party
+6NcruLjcmzmgwwpW09HXzT,Almklausi;Specktakel,Après Ski Megahits 2023,Mama Laudaaa - Apres Ski Edition,0,215976,False,0.614,0.974,11,-2.153,1,0.102,0.199,0.0,0.358,0.896,140.027,4,party
+53fKnF8od08TnCuDGYPQ9v,Mickie Krause,Wir woll'n feiern für die Ewigkeit - Best Of!,Für die Ewigkeit,36,220466,False,0.587,0.967,4,-4.148,1,0.0996,0.00194,0.0,0.429,0.861,152.02,4,party
+3drvdWPoajpH7BmXdMj5nl,Almklausi,Après Ski Megahits 2023,Wir machen mit bei der Rettung der Erde,0,190106,False,0.711,0.958,1,-1.95,1,0.0609,0.0799,0.0,0.361,0.816,139.984,4,party
+01mFbAPHIQC6VZra04PkuU,Höhner,Karneval Klassiker,Hey Kölle du bes e Jeföhl,0,249533,False,0.662,0.877,2,-5.042,1,0.033,0.137,0.0,0.855,0.645,119.976,4,party
+0bjNO3FQWvkgKihG5CP5Y3,Höhner,Best Of Karneval,Hey Kölle du bes e Jeföhl,0,249533,False,0.662,0.877,2,-5.042,1,0.033,0.137,0.0,0.855,0.645,119.976,4,party
+5R5ZHUcjOoQ5H3NqdLNUDg,Almklausi,Ballermann Party Hits Megamix 2022.2,Wir machen mit bei der Rettung der Erde,0,190106,False,0.711,0.958,1,-1.95,1,0.0609,0.0799,0.0,0.361,0.816,139.984,4,party
+4qpXC4AMzbH02HM2AowlbK,Höhner,Karneval Klassiker,Echte Fründe - Remake '97,0,144253,False,0.64,0.902,5,-3.943,1,0.0365,0.0356,0.000467,0.241,0.941,127.019,4,party
+4xqS31i6qtbLK9XQKIThQd,Höhner,Best Of Karneval,"Steh auf, mach laut!",0,224040,False,0.628,0.918,0,-5.709,1,0.0358,0.0593,1.1e-06,0.0926,0.58,130.04,4,party
+3yBfL7l6RJSFH9KKx89R6l,Tobee,Xtreme Mallorca Hits 2014,Blau wie das Meer - Bierkönig Version,36,193024,False,0.693,0.999,5,-3.11,1,0.0747,0.0565,0.0,0.375,0.773,144.99,4,party
+5Bo4n2DrmTTHptKJHja8E0,Höhner,Karneval 2022 100%,"Steh auf, mach laut!",0,224040,False,0.628,0.918,0,-5.709,1,0.0358,0.0593,1.1e-06,0.0926,0.58,130.04,4,party
+6uopsC7wCZfSZc4TfyjazT,Almklausi,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Eine Skifahrt die ist lustig,0,190014,False,0.696,0.989,11,-3.711,1,0.13,0.0421,0.0,0.413,0.516,141.039,4,party
+3mAplvB02mSFTDqvhg6c3V,Brings;Dennis aus Hürth,Liebe gewinnt,Et jeilste Land,38,219826,False,0.864,0.828,0,-5.543,1,0.0867,0.122,0.0,0.093,0.791,119.987,4,party
+6tpAcqE2BLXp9uRPMTqeea,Pazoo;Evil Jared;Schalldicht;Tittikakka,Ballermann Hits Party 2023,Jägermeister,0,154687,False,0.547,0.907,6,-4.324,0,0.163,0.00605,1.15e-06,0.204,0.365,159.982,4,party
+7m5mk3nsiLsaFzwrsZvU1b,Höhner,Best Of Karneval,Echte Fründe - Remake '97,0,144253,False,0.64,0.902,5,-3.943,1,0.0365,0.0356,0.000467,0.241,0.941,127.019,4,party
+3zFti4DNHw0I0fGybRZxqS,Höhner,Best Of Karneval,Jetzt geht's los - Jahrmarkt-Mix,0,186746,False,0.723,0.925,6,-5.47,0,0.0893,0.00887,5.63e-06,0.733,0.649,126.998,4,party
+3jq02PlYi5abosYdnj7REA,Höhner,Karneval 2022 100%,Jetzt geht's los - Jahrmarkt-Mix,0,186746,False,0.723,0.925,6,-5.47,0,0.0893,0.00887,5.63e-06,0.733,0.649,126.998,4,party
+4CTdBHR0f50MzPsasx98kx,Höhner,Karneval 2022 100%,"Viva Colonia (Da simmer dabei, dat is prima!)",0,189386,False,0.571,0.85,7,-4.426,1,0.0367,0.0781,0.0,0.27,0.766,128.071,4,party
+516EFbOU5yLRXtiaMKkDJw,Höhner,Karneval Klassiker,"Wenn nicht jetzt, wann dann?",0,192040,False,0.681,0.923,9,-4.365,0,0.0381,0.0729,0.0,0.0701,0.786,105.002,4,party
+0f8QIJHHpYxTPALMPrUIr7,Höhner,Karneval 2022 100%,Schenk mir dein Herz - Radio Edit,0,209933,False,0.576,0.857,2,-4.972,1,0.0539,0.125,0.0,0.319,0.528,133.309,4,party
+4ySgenCVxHrS4n0tiSSL2g,Brings,Karneval 2022 100%,"Polka, Polka, Polka - Club Mix",2,282343,False,0.775,0.99,9,-4.267,0,0.0467,0.0103,0.000741,0.0411,0.949,127.999,4,party
+3w2XFt5i2uIgcomQCjkMNG,Höhner,Best Of Karneval,"Wenn nicht jetzt, wann dann?",0,192040,False,0.681,0.923,9,-4.365,0,0.0381,0.0729,0.0,0.0701,0.786,105.002,4,party
+6Cd5urxZ5t5RyxNX7O3pyb,Höhner,Karneval Klassiker,"Viva Colonia (Da simmer dabei, dat is prima!)",0,189386,False,0.571,0.85,7,-4.426,1,0.0367,0.0781,0.0,0.27,0.766,128.071,4,party
+79ryCUWQ3DA4OXDvNw1DVL,Höhner,Karneval Klassiker,Schenk mir dein Herz - Radio Edit,0,209933,False,0.576,0.857,2,-4.972,1,0.0539,0.125,0.0,0.319,0.528,133.309,4,party
+3HaAS5MOzW1SubBE0wVB2y,Höhner,Karneval 2022 100%,"Wenn nicht jetzt, wann dann?",0,192040,False,0.681,0.923,9,-4.365,0,0.0381,0.0729,0.0,0.0701,0.786,105.002,4,party
+6uo3lDegnVcEI7uAoYfqAM,Höhner,Best Of Karneval,"Viva Colonia (Da simmer dabei, dat is prima!)",0,189386,False,0.571,0.85,7,-4.426,1,0.0367,0.0781,0.0,0.27,0.766,128.071,4,party
+59wVkfF56di2L5g3KMCLH1,Brings,Karneval Klassiker,"Polka, Polka, Polka - Club Mix",0,282343,False,0.775,0.99,9,-4.267,0,0.0467,0.0103,0.000741,0.0411,0.949,127.999,4,party
+162CaoHeul0CCxeN5xf4Vd,Brings,Best Of Karneval,"Polka, Polka, Polka - Club Mix",0,282343,False,0.775,0.99,9,-4.267,0,0.0467,0.0103,0.000741,0.0411,0.949,127.999,4,party
+3uHWTxy461Le2z3M1RcKae,Höhner,Best Of Karneval,Schenk mir dein Herz - Radio Edit,0,209933,False,0.576,0.857,2,-4.972,1,0.0539,0.125,0.0,0.319,0.528,133.309,4,party
+5uUwp79o8cqGlQ9MOy9ueU,Paveier,Dat Beste us 25 Johr,Er war der weißeste Mann am Strand,37,244746,False,0.674,0.664,9,-3.352,1,0.0259,0.178,0.0,0.099,0.673,113.57,3,party
+5vVgfzrfRvAGs2Jknak3KA,Jürgen Drews;Ben Zucker,Karneval Klassiker,Ein Bett im Kornfeld,0,179440,False,0.641,0.928,4,-3.882,1,0.0506,0.0345,0.0,0.144,0.839,117.981,4,party
+0gbTWyqIQXC93BTXxmAveK,Jürgen Drews,Karneval Klassiker,Irgendwann irgendwo irgendwie - seh'n wir uns wieder - Remastered 2017,0,245426,False,0.671,0.98,0,-3.769,1,0.0424,0.00686,0.000199,0.0852,0.868,124.009,4,party
+41uJUBetzpoSXEBABYdwxb,Dora The Explorer,Dora The Explorer,Dora The Explorer Theme,43,42466,False,0.711,0.63,0,-6.591,1,0.238,0.451,9.2e-06,0.129,0.851,119.027,4,party
+6RFTROFKUIMH2U5QhOSE4s,Kreisligahelden;Thekentyp,Alle meine Freunde,Alle meine Freunde,35,163000,False,0.532,0.93,1,-2.522,1,0.0708,0.0026,0.0,0.342,0.259,133.928,4,party
+7DTazmlYxSpng8TQneqc6u,voXXclub,Weihnachten Playlist,Alle Jahre wieder,0,222493,False,0.556,0.731,7,-7.374,1,0.0526,0.452,0.0,0.33,0.56,90.023,4,party
+2sKchp54KqDz6jPofHZ66t,Kings of Günter;Der Lieblingsidiot,Hallo Julia (Die kleine Julia ist versaut),Hallo Julia (Die kleine Julia ist versaut),35,179297,False,0.752,0.91,5,-5.88,0,0.187,0.155,0.0,0.182,0.782,132.009,4,party
+5gqm23iFgOEwCnwrZGoJeS,Killermichel,Biermelodie,Biermelodie,35,200407,False,0.606,0.974,7,-2.406,1,0.0631,0.00422,0.0,0.299,0.668,139.966,4,party
+7qL0ktZOvAZ5anQ9rDpbru,Lorenz Büffel;Anna-Maria Zimmermann,Ein Lied für diese Welt,Ein Lied für diese Welt,35,233142,False,0.67,0.884,6,-3.649,1,0.0341,0.101,0.0,0.0818,0.375,140.035,4,party
+13CxJWdaM3DDD21j0mIJKn,Andi Latte,Batt Spenza,Batt Spenza,35,195344,False,0.835,0.965,10,-2.238,0,0.115,0.0812,0.0,0.5,0.64,139.94,4,party
+56CuqxHdDCQjaQjkunYwO8,Brings,Su lang mer noch am Lääve sin,Man müsste noch mal 20 sein,37,265253,False,0.61,0.785,6,-5.302,1,0.0276,0.118,0.0,0.0513,0.609,137.997,4,party
+49ZnsnaVWKVt0cA3eeBVtz,voXXclub;Paveier,Karneval 2022 100%,Leev Marie,1,271093,False,0.484,0.844,5,-3.78,0,0.0375,0.0119,0.0,0.193,0.729,148.026,4,party
+10mT8kNPxS08WV3dR6qEyI,Höhner,Karneval 2022 100%,Liebchen,0,197893,False,0.585,0.881,5,-4.29,1,0.0517,0.0338,0.0,0.248,0.944,133.908,4,party
+5JF6KLhevyrVM0CVltwiOC,voXXclub;Paveier,Best Of Karneval,Leev Marie,0,271093,False,0.484,0.844,5,-3.78,0,0.0375,0.0119,0.0,0.193,0.729,148.026,4,party
+33Un46VhkIKlAwIoqnwfVO,Die jungen Zillertaler,Gipfeltreffen - Drob'n auf'm Berg,Drobn aufm Berg,36,168506,False,0.78,0.885,2,-3.167,1,0.0465,0.0328,4.06e-06,0.336,0.966,126.05,4,party
+4ltOz9O0sReIfmS8tPwCgE,voXXclub;Paveier,Karneval Klassiker,Leev Marie,0,271093,False,0.484,0.844,5,-3.78,0,0.0375,0.0119,0.0,0.193,0.729,148.026,4,party
+0EaqIAUBKkTEp0u8QcxGRw,Andreas Gabalier,Hallihallo,Hallihallo,35,213986,False,0.674,0.702,5,-7.356,1,0.0384,0.0325,0.0,0.0978,0.566,125.019,4,party
+2lXMgOXfdo10utjDYUlara,Brings,Karneval 2022 100%,Kölsche Jung - Party Edit,3,241800,False,0.586,0.992,8,-3.507,1,0.134,0.0128,0.0,0.383,0.375,138.059,4,party
+5g6VGKcnAwjD4lPCePm17T,Höhner,Karneval 2022 100%,Lust auf Leben,0,174933,False,0.671,0.886,5,-4.79,1,0.0407,0.452,0.0,0.154,0.886,127.955,4,party
+44Lv3y1OHRM7r8vuEAGTkW,FiNCH;SDP,Hold Me Now,Liebe ist ...,35,183173,True,0.631,0.8,9,-4.179,1,0.101,0.107,0.0,0.373,0.782,156.941,4,party
+2hDxtFnLWIGr8PSw8W1b8L,voXXclub,Ballermann Hits Party 2023,Noch mehr,0,194617,False,0.474,0.854,1,-5.35,1,0.0408,0.000476,0.000963,0.106,0.627,162.035,4,party
+2rkxUEx9WybnLzoDf3kLqO,Brings,Karneval Klassiker,Mir sin Kölsche,0,251997,False,0.813,0.723,0,-6.475,0,0.0541,0.0622,1.38e-06,0.382,0.817,126.002,4,party
+0VstH9ce1cxA9logo45dBg,Brings,Karneval 2022 100%,Dat is geil,0,210746,False,0.629,0.916,0,-4.148,0,0.0579,0.0504,0.0,0.111,0.499,132.98,4,party
+0jbjy0N9AIAuSI66VeBwhS,voXXclub;Hardy & Mark,Ernte 2k23,Rock mi - Remix,0,163026,False,0.6,0.931,3,-4.607,1,0.106,0.111,0.0,0.0863,0.847,168.04,4,party
+7sBFCEUPLZ79dM3jeNupVe,voXXclub;Hardy & Mark,Karneval 2022 100%,Rock mi - Remix,0,163026,False,0.6,0.931,3,-4.607,1,0.106,0.111,0.0,0.0863,0.847,168.04,4,party
+4kvhRETW2YpjlYlN0pDyug,voXXclub;SILVERJAM,Ernte 2k23,Auf der Vogelwiese - Silverjam Mix,0,161706,False,0.483,0.957,8,-4.457,1,0.152,0.00236,0.0,0.141,0.435,127.959,4,party
+31KdIRxJbtLVKYamGx1bzK,Fäaschtbänkler,Mal so mal so,Wennduwie,36,168642,False,0.778,0.733,5,-6.337,1,0.0469,0.0894,0.0,0.178,0.725,100.004,4,party
+6OxtLXSJxfKA6XTKKwALse,Brings,Karneval 2022 100%,Sünderlein,0,240920,False,0.57,0.904,0,-2.876,1,0.0601,0.00284,0.0,0.253,0.478,128.985,4,party
+0gczq9ZfSTRsEGVSeEgFZg,voXXclub;Hardy & Mark,Karneval Klassiker,Rock mi - Remix,0,163026,False,0.6,0.931,3,-4.607,1,0.106,0.111,0.0,0.0863,0.847,168.04,4,party
+0y0sGn9Q6DehWp0mRujVy6,Markus Becker;Die Mallorca Cowboys,Karneval 2022 100%,Das rote Pferd,0,193733,False,0.629,0.997,5,-1.975,1,0.0732,0.0203,0.0,0.688,0.691,133.995,4,party
+4yLNuWJQqlbZOApaMkPKCr,voXXclub;Hardy & Mark,Best Of Karneval,Rock mi - Remix,0,163026,False,0.6,0.931,3,-4.607,1,0.106,0.111,0.0,0.0863,0.847,168.04,4,party
+6npM2gc4Q2iYXSs3wD55ET,Brings,Karneval Klassiker,Dat is geil,0,210746,False,0.629,0.916,0,-4.148,0,0.0579,0.0504,0.0,0.111,0.499,132.98,4,party
+13O6SyCwYhS1j7vdBFf4af,Brings,Karneval 2022 100%,Halleluja,0,208213,False,0.627,0.956,8,-2.424,0,0.0482,0.0258,6.77e-06,0.1,0.791,135.074,4,party
+4Vw65bdn7c9mcizMEoLaoP,Brings,Best Of Karneval,Halleluja,0,208213,False,0.627,0.956,8,-2.424,0,0.0482,0.0258,6.77e-06,0.1,0.791,135.074,4,party
+6yvL7VEyMDM8ssqdQMgVQy,Brings,Best Of Karneval,Dat is geil,0,210746,False,0.629,0.916,0,-4.148,0,0.0579,0.0504,0.0,0.111,0.499,132.98,4,party
+4LQs2b9Ed30leEuPhfBb5M,Brings,Best Of Karneval,Sünderlein,0,240920,False,0.57,0.904,0,-2.876,1,0.0601,0.00284,0.0,0.253,0.478,128.985,4,party
+59OAM7U77A9f0mQbEsF6XT,Brings,Karneval Klassiker,Sünderlein,0,240920,False,0.57,0.904,0,-2.876,1,0.0601,0.00284,0.0,0.253,0.478,128.985,4,party
+6tUP2nXOjeFHSqVCQwl047,Brings,Karneval Klassiker,Kölsche Jung - Party Edit,0,241800,False,0.586,0.992,8,-3.507,1,0.134,0.0128,0.0,0.383,0.375,138.059,4,party
+2wnjA7auUZAe4mbfzQmp0r,Brings,Karneval Klassiker,Superjeilezick - Party Mix,0,264880,False,0.768,0.969,4,-4.345,0,0.116,0.16,1.71e-06,0.342,0.707,142.954,4,party
+4Vha8VfJbyk4i5sl68zJkj,Markus Becker;Die Mallorca Cowboys,Karneval Klassiker,Das rote Pferd,0,193733,False,0.629,0.997,5,-1.975,1,0.0732,0.0203,0.0,0.688,0.691,133.995,4,party
+3qrI5eHWceB9BerekvIpIv,Die Draufgänger,#Hektarparty,Looking For Freibier,36,204440,False,0.716,0.825,8,-3.378,1,0.0341,0.0861,0.0,0.0624,0.811,124.965,4,party
+51qCFidF9VJ1ifEfnh64vJ,Brings,Karneval 2022 100%,Superjeilezick - Party Mix,0,264880,False,0.768,0.969,4,-4.345,0,0.116,0.16,1.71e-06,0.342,0.707,142.954,4,party
+0RsIH3Ptfspqrh0fegWRtv,Brings,Best Of Karneval,Superjeilezick - Party Mix,0,264880,False,0.768,0.969,4,-4.345,0,0.116,0.16,1.71e-06,0.342,0.707,142.954,4,party
+26LaRArXYk0ZlzhFWzeuIl,Brings,Best Of Karneval,Kölsche Jung - Party Edit,0,241800,False,0.586,0.992,8,-3.507,1,0.134,0.0128,0.0,0.383,0.375,138.059,4,party
+6F1B2iBDmZ2nwBR1PiWTLW,Markus Becker;Die Mallorca Cowboys,Best Of Karneval,Das rote Pferd,0,193733,False,0.629,0.997,5,-1.975,1,0.0732,0.0203,0.0,0.688,0.691,133.995,4,party
+3U6hIh7QeGaFwCHjvcHXdb,Markus Becker;Die Mallorca Cowboys,Ernte 2k23,Das rote Pferd,0,193733,False,0.629,0.997,5,-1.975,1,0.0732,0.0203,0.0,0.688,0.691,133.995,4,party
+4WirXfsd2qAfjtSOuekoqZ,Brings;Dennis aus Hürth,Karneval 2022 100%,Et jeilste Land,0,219826,False,0.87,0.846,0,-5.517,1,0.076,0.137,0.0,0.084,0.738,119.999,4,party
+3tnezQhUHKCKoju1bhYH5w,Markus Becker,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Du musst vom Himmel gefallen sein,0,238906,False,0.57,0.921,2,-2.893,1,0.0817,0.0117,0.0,0.327,0.562,131.98,4,party
+54jZKreI2TSMCmADAG0GHe,Die Draufgänger,#Hektarparty,Pfusch die Mauer,35,197440,False,0.74,0.856,10,-4.295,1,0.0362,0.0644,0.0,0.0687,0.881,132.052,4,party
+6Cd5urxZ5t5RyxNX7O3pyb,Höhner,Karneval Klassiker,"Viva Colonia (Da simmer dabei, dat is prima!)",0,189386,False,0.571,0.85,7,-4.426,1,0.0367,0.0781,0.0,0.27,0.766,128.071,4,party
+0TTsaZ1BzToXfoTFnNnPIT,Brings;Dennis aus Hürth,Best Of Karneval,Et jeilste Land,0,219826,False,0.87,0.846,0,-5.517,1,0.076,0.137,0.0,0.084,0.738,119.999,4,party
+5x0OXHexXOo7Et6gKZgbyZ,Brings,Ballermann Hits Party 2023,Mir sin Kölsche,0,251997,False,0.813,0.723,0,-6.475,0,0.0541,0.0622,1.38e-06,0.382,0.817,126.002,4,party
+5w3G4evsFGHLf5QqMX4Ky7,Brings,Karneval 2022 100%,"Polka, Polka, Polka - Single Version",0,223213,False,0.812,0.808,9,-4.568,0,0.0555,0.22,0.0,0.0545,0.869,125.013,4,party
+6Jp404HEXaNS4FD9ZAMub1,DJ Robin;Schürze;R3HAB,Layla (English Version),Layla - English Version,58,174964,False,0.419,0.944,7,-4.166,0,0.111,0.00318,6.34e-06,0.343,0.322,140.148,4,party
+0aNzTtCyoLhlXtATP7bcHh,Markus Becker,Nano (vom Planeten X),Nano (vom Planeten X),33,190750,False,0.687,0.971,7,-2.951,0,0.0775,0.0124,0.0,0.0783,0.692,131.961,4,party
+1kFhUVgekAWjOWX2ZzvsCN,Rick Arena,Malle DNA,Malle DNA,34,190160,False,0.639,0.951,1,-2.335,0,0.122,0.0473,0.0,0.294,0.695,137.986,4,party
+5GHeG2yv8s4KPS73FBOwxB,Buddy,Bis das Licht angeht,Bis das Licht angeht,34,152571,False,0.732,0.842,8,-12.88,1,0.141,0.0171,0.00033,0.0876,0.21,139.93,4,party
+1aToLFSxAcwwAXuUBpgHWn,Libero 5,Sierra Madre,Sierra Madre,33,212790,False,0.38,0.997,1,-1.284,1,0.126,0.0303,0.0,0.589,0.737,137.953,4,party
+2ReTnjGfeL2SX8pP4ifqCW,DJ Robin;Schürze;le Shuuk,Layla (Platin Edition),Layla - le Shuuk Remix Edit,33,224293,False,0.479,0.849,7,-3.953,0,0.0487,0.000842,0.0,0.257,0.247,74.98,4,party
+0L50h51ICmM3WrLagIFPJC,Anstandslos & Durchgeknallt;Emi Flemming,Nüchtern,Nüchtern,35,159375,False,0.864,0.842,0,-5.518,1,0.0502,0.19,0.00023,0.0795,0.844,127.97,4,party
+42ZYifqUqUIQRorn1KuGIe,Andreas Gabalier,Herzwerk (Geschenkedition),Dahoam,34,209026,False,0.584,0.827,7,-4.818,1,0.0337,0.235,0.0,0.137,0.626,146.0,4,party
+0nAmCWd2ARmgHu6aWAERh2,voXXclub,Wieder Dahoam,A Jeder,34,188746,False,0.785,0.858,0,-4.616,1,0.126,0.0333,0.0,0.264,0.682,138.026,4,party
+6twzdopAKUq3zXNblpv3Fl,Ikke Hüftgold,Ballerpunk,Bongiorno,35,193166,True,0.678,0.973,3,-3.65,1,0.0552,0.102,0.0,0.359,0.937,140.042,4,party
+2Ud1CGW1qtbI72utEWlwzR,Nancy Franck;Cowboy KiTa Bill,Best of Kinderkarneval 2019,Ich kenne einen Cowboy,34,199763,False,0.657,0.995,0,-1.721,1,0.0376,0.0449,0.00265,0.35,0.977,135.061,4,party
+6v2xpFRtJK4p8ZhsUBbdo9,Tream;HBz,Ballermann Hits 2022,Goldmarie,34,166346,False,0.547,0.813,8,-6.425,1,0.314,0.0514,0.0,0.147,0.388,149.942,4,party
+79VfErxjstk9KBRhMVmQe5,Tream;treamiboii,ROCKER,ROCKER,34,112727,False,0.772,0.551,1,-7.493,1,0.0611,0.514,0.0,0.217,0.911,131.996,4,party
+3ydPqx54UrOZkgfPwiWHwt,Unnormal,Flamingo Go,Flamingo Go,34,233226,False,0.7,0.884,10,-4.939,0,0.15,0.064,0.0,0.497,0.261,148.092,4,party
+2wfthu0ZIS2rLMrqPXBWwU,Julian Sommer,Bunga Bunga,Bunga Bunga,33,188000,False,0.651,0.964,7,-3.207,1,0.0806,0.0359,0.0,0.32,0.64,141.03,4,party
+5URB0NlMLJGTcEylRnDfvQ,Dorfrocker;Fättes Blech,Supergeile Blasmusik,Supergeile Blasmusik,35,159626,False,0.686,0.9,0,-2.267,0,0.0627,0.00328,0.0,0.0786,0.579,134.095,4,party
+1Ccq9JMOUJliUgI3AYgH1h,Brings,Besoffe vör Glück,Besoffe vör Glück,36,233778,False,0.861,0.924,1,-3.997,0,0.0401,0.116,1.31e-06,0.0368,0.978,128.05,4,party
+7CkkvfGTk7meUrbqOR7zD8,Mallorca Cowboys,Ra Ta Ta 2011,Ra Ta Ta 2011,33,195006,False,0.812,0.999,2,-2.313,1,0.165,0.181,0.0,0.641,0.948,138.007,4,party
+4gKHMlcnxpNrgyK5uh5nIG,FiNCH,Fliesentisch Romantik 2,Frohe Weihnachten,33,174863,True,0.711,0.793,7,-6.075,1,0.169,0.0179,2.24e-05,0.125,0.668,150.02,4,party
+6HhRVKm2PFtErhOnxOHHD1,Kreisligalegende,Er bleibt gleich,Er bleibt gleich,34,209382,False,0.668,0.947,9,-2.778,0,0.0819,0.0868,0.0,0.797,0.881,129.828,4,party
+1A50NhDTdGXwc3RZn4cGrN,Franco Piccolini;Luigi Ferrari,Ruinen und Beton,Ruinen und Beton,34,231233,False,0.807,0.625,10,-7.14,1,0.149,0.261,0.00109,0.0872,0.257,141.101,4,party
+4bxAZP0RPt9gcuTiCBiU5y,Tim Toupet;Lorenz Büffel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Pietro Lombaaadi,0,195885,False,0.704,0.885,8,-3.561,1,0.111,0.018,0.0,0.357,0.735,140.049,4,party
+3uHIMtXklRUZS4EtDTQkGu,Fäaschtbänkler,homo sapiens,homo sapiens,34,166671,False,0.855,0.484,5,-6.894,1,0.0514,0.0369,0.00745,0.128,0.923,132.049,4,party
+51vJbrlUiPKGDDdySbJeTf,FiNCH;Blümchen,Hold Me Now,Herzalarm,34,191146,False,0.635,0.932,10,-6.141,1,0.0468,0.0176,0.000234,0.0375,0.539,165.992,4,party
+2KBGElAlJ5kmUcGj4ACKTU,Stereoact;Giraffenaffen;Lena Marie Engel,Giraffenaffen 7 - Die große Geburtstagsfeier (Party mit Schlagerstars),Der Gorilla mit der Sonnenbrille,35,181226,False,0.826,0.842,7,-5.01,1,0.109,0.034,2.16e-05,0.0475,0.407,119.952,4,party
+0J1NpNoYYMuohXl4frq0aU,DJ Ötzi,20 Jahre DJ Ötzi - Party ohne Ende,Hey Baby - Remastered 2019,34,220493,False,0.564,0.978,7,-5.459,0,0.0798,0.000243,3.44e-06,0.952,0.431,129.983,4,party
+4snHNGkAeIxLrib9kCoemI,Deejay Matze,Ballermann Party Hits Megamix 2022.2,Wir machen Party,0,189998,False,0.77,0.9,7,-2.07,0,0.102,0.145,0.0,0.224,0.598,136.059,4,party
+1Ls4ZtTpivZNiLc4LrmFpR,Tim Toupet,Karneval 2022 100%,So ein schöner Tag (Fliegerlied) - Party Mix,5,208786,False,0.531,0.977,9,-3.097,1,0.269,0.178,0.0,0.134,0.806,135.767,4,party
+7cwXOAtTS7K9sC6Y3dGpWk,Tim Toupet;Lorenz Büffel,Ballermann Party Hits Megamix 2022.2,Pietro Lombaaadi,0,195885,False,0.704,0.885,8,-3.561,1,0.111,0.018,0.0,0.357,0.735,140.049,4,party
+3HmIEZbzzna25tuHMyOG6K,Specktakel,Ballermann Hits Party 2023,SO-NEN-BRAND,0,152316,False,0.813,0.825,6,-5.915,0,0.141,0.0533,0.0,0.355,0.83,136.04,4,party
+308wYeQLiKZVmVX8NztruN,Klaus & Klaus,Bauer Cotton Eye Joe,Bauer Cotton Eye Joe,35,211533,False,0.679,0.794,9,-6.945,1,0.0541,0.3,0.0,0.18,0.946,133.997,4,party
+3OMIYDXn48Zbb29wRZzgsM,Lorenz Büffel,Der Baumgart Marsch - Made in Colonia,Der Baumgart Marsch - Made in Colonia,35,203285,False,0.422,0.93,7,-3.521,1,0.35,0.0163,0.0,0.251,0.636,133.179,3,party
+14QCwe2A96iyGVwKtb9iaT,Brummi Bryan;Ikke Hüftgold,Ich hab gehupt,Ich hab gehupt,34,128695,True,0.863,0.922,10,-4.9,1,0.181,0.115,5.34e-06,0.121,0.736,138.054,4,party
+5D9QdeqUWS5CXvk7XgtbQf,Tream;treamiboii,FEEL LIKE,FEEL LIKE - Extended Mix,34,204800,False,0.672,0.789,0,-5.684,0,0.1,0.00253,0.0269,0.562,0.666,75.024,4,party
+0StDUC3wUxDokenx1rln55,Fäaschtbänkler;Darius & Finlay,Partyplanet,Partyplanet - Darius & Finlay Remix Edit,34,189219,False,0.616,0.829,5,-4.064,1,0.073,0.0274,0.0,0.876,0.5,130.006,4,party
+4x6JPITCakOVB58LPv9GRA,Troglauer;Stereoact,Tag am Meer (Stereoact Remix),Tag am Meer - Stereoact Remix,33,234375,False,0.728,0.866,5,-6.023,1,0.174,0.0217,0.0,0.274,0.781,128.019,4,party
+0lqJkipAvbPRdADHkHSIw6,Brings,Liebe gewinnt,Liebe gewinnt,35,223493,False,0.543,0.654,1,-5.584,0,0.0318,0.0921,0.0,0.471,0.344,144.107,4,party
+1xNVkZYuAoOsuBe2gcQZDg,Die Draufgänger,#Hektarparty,Gina Lisa (Spiel mit deinen Glocken),34,211880,False,0.784,0.921,5,-3.434,0,0.0445,0.0929,8.35e-06,0.149,0.52,135.969,4,party
+1NLUY7zpNnNgmRUwy2hIiL,Marco Wagner,Geh ma ned am Oasch,Geh ma ned am Oasch,33,229186,True,0.839,0.92,2,-3.446,1,0.0446,0.025,1.04e-06,0.0294,0.826,132.01,4,party
+2U5EyfU0Z5FTZKpeuCpTwP,Tim Toupet,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Allee Allee - Reloaded,0,181815,False,0.62,0.959,7,-2.562,1,0.0367,0.0213,0.0,0.328,0.956,138.006,4,party
+7rA01aOgtN0zTzBhrTLZ1G,Deejay Matze,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Wir machen Party,0,189998,False,0.77,0.9,7,-2.07,0,0.102,0.145,0.0,0.224,0.598,136.059,4,party
+7tB4eWYtmnMYhYgyCJB7K0,FiNCH,Kassenhäuschen EP,Finchi Gonzales,34,135142,True,0.751,0.87,7,-4.026,1,0.238,0.0467,0.00309,0.32,0.393,178.046,4,party
+26ekeYholcU9RYnWtpJfUQ,Tim Toupet,Best Of Karneval,So ein schöner Tag (Fliegerlied) - Party Mix,0,208786,False,0.531,0.977,9,-3.097,1,0.269,0.178,0.0,0.134,0.806,135.767,4,party
+1HKC6FHHA8TUAfBuvNm7p4,Die Flippers,Singles Vol. 2 (1980 - 1988),Ein kleines Hotel bei Cuxhaven,35,224960,False,0.618,0.507,8,-12.796,1,0.0324,0.0238,0.0,0.374,0.601,128.09,4,party
+5puhmDdBPMn3gpcTn97753,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Konfetti,35,150560,False,0.796,0.712,0,-7.975,1,0.098,0.146,0.0,0.323,0.788,127.97,4,party
+64EEn3YZITNgS3gpcgaEFJ,Matthias Reim,Déjà Vu - Das Beste Von Matthias Reim,Ich hab' mich so auf dich gefreut,35,220706,False,0.526,0.933,4,-5.516,0,0.0753,0.0189,0.0,0.353,0.887,164.084,4,party
+3PlnrhNBC58RYkJ6dtgjTN,Matthias Reim,Déjà Vu - Das Beste Von Matthias Reim,"Hallo, ich möcht' gern wissen wie's dir geht",35,225320,False,0.506,0.659,4,-9.075,0,0.0531,0.189,0.0,0.325,0.381,74.941,4,party
+2PL1vyJ1erQfZvDoJ3zMnk,Fäaschtbänkler,Wir sehn uns wieder,Homo Sapiens,34,166671,False,0.855,0.484,5,-6.894,1,0.0514,0.0369,0.00745,0.128,0.923,132.049,4,party
+2iKzZBeELwvYWUshlxaP74,Fäaschtbänkler,Alpaland,Bis um 10,35,164853,False,0.821,0.644,7,-7.435,1,0.133,0.229,0.0,0.0806,0.93,134.961,4,party
+7v4G1QvXZgajbX8nn6FX4H,Fäaschtbänkler,Alpaland,Walterli,35,160240,False,0.739,0.552,0,-6.588,1,0.104,0.0631,0.0,0.119,0.965,165.068,4,party
+3ujiq7yK4Uan5z4876fHLK,DJ Robin;Schürze,Layla,Layla,74,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+7toIqSTfa9Phsmu2hKwTyx,Amy Liz,Kid Hits,Slippery Fish,58,103493,False,0.777,0.111,4,-14.423,1,0.335,0.414,0.0,0.459,0.556,139.888,4,party
+6HPkWajn8320iMa9RIP3st,Cupid,Flex,Flex,34,228136,False,0.658,0.674,8,-5.911,1,0.0585,0.0207,0.0,0.0495,0.751,60.514,4,party
+3jB7oOafmXPFGr199SNdUP,Ole ohne Kohle,Ich und mein Eimer,Ich und mein Eimer,32,213027,False,0.757,0.969,3,-2.072,1,0.169,0.0961,0.0,0.201,0.607,143.032,4,party
+2mwHgm0ELecCPvyJflvJr6,Tream,(S)HIT,Maybe,31,208888,True,0.447,0.846,10,-6.26,1,0.11,0.29,0.0,0.205,0.403,107.729,4,party
+3FP7aHOSBQ2Pq4KlGchpqT,Andreas Gabalier,Da komm' ich her,Auf der Alm,33,275453,False,0.465,0.683,4,-7.263,1,0.0472,0.137,0.0,0.175,0.502,175.946,4,party
+0Ze1fY5EP6bLJjPJMRfJKw,Ikke Hüftgold,Ich schwanke noch (Austrinken Remix),Ich schwanke noch - Austrinken Remix,32,167252,False,0.58,0.928,0,-4.05,1,0.239,0.0938,0.0,0.293,0.366,135.903,4,party
+01sHFh1aR5t7NlIJkOEhNH,Die Gerchli;Kings of Günter,Lola Loves Jacky Cola,Lola Loves Jacky Cola,31,211295,False,0.746,0.834,9,-5.369,1,0.203,0.289,0.0,0.0609,0.658,127.967,4,party
+2LBjwUnpQ9dFKFaZ2QlTgL,Paveier,Leev Marie,Leev Marie,33,262240,False,0.56,0.937,5,-3.294,0,0.0876,0.00162,2.83e-06,0.213,0.859,147.985,4,party
+5LzVKrYZp1QGb7hWT3WeUP,Tream,Trash,Pancakes,31,161095,False,0.727,0.822,11,-4.323,1,0.0377,0.355,0.0,0.0927,0.802,146.06,4,party
+31QNxCly09KHEmOqjFgBTT,Brings,Sünderlein,Sünderlein,34,241162,False,0.602,0.848,5,-4.404,1,0.048,0.00423,0.0,0.195,0.469,129.02,4,party
+0Xus6HrrWoNXeT8l0prJ3j,DJ Ostkurve;Quetschn Academy;Micha von der Rampe,Radetzky Beats,Radetzky Beats - Edit,31,190827,False,0.885,0.96,7,-2.516,1,0.266,0.0258,0.000158,0.094,0.518,124.986,4,party
+3rFIFzR5zOrrH4jgLTqkmM,Die Flippers,Die Flippers - 2 in 1 (Liebe ist...Vol.1/Liebe ist...Vol. 2),Santo Domingo,32,160106,False,0.745,0.583,5,-9.381,1,0.0264,0.311,0.0,0.107,0.85,110.978,4,party
+2tIEMvF9ppqUKauyGjXeRO,Jürgen Milski;Deejay Biene,Ihr könnt mich alle alle alle,Ihr könnt mich alle alle alle,32,181745,False,0.623,0.998,6,-3.026,1,0.287,0.0357,0.0,0.347,0.41,147.917,4,party
+3hBR7xHrBGSUovpfD2XaM1,FiNCH,Fliesentisch Romantik,Vokuhila,32,241711,False,0.82,0.731,5,-4.886,1,0.0961,0.0621,9.42e-06,0.149,0.546,108.012,4,party
+1koKmOdrLfgZOarJwHMqHk,Vroni,Bier macht große Hupen,Bier macht große Hupen,31,206676,False,0.666,0.978,2,-1.941,1,0.0813,0.00788,0.0,0.298,0.729,140.022,4,party
+6NLWAFXQ1gpcZ4uIwV5aXC,Schürze,Lasst uns feiern bis die Sonne aufgeht,Lasst uns feiern bis die Sonne aufgeht,31,191771,False,0.665,0.946,9,-2.718,0,0.0544,0.014,0.0,0.716,0.653,129.062,4,party
+5T5BaEe2xK2VjPuNo1FWIw,Marco Kloss,Marco Kloss,Das Geht Mir Alles So Am Arsch Vorbei - Single Edit,32,203333,False,0.767,0.749,8,-6.584,1,0.0654,0.0111,0.000169,0.0602,0.91,132.026,4,party
+0p7FnmbaqZlz76AuYt2zo9,Mickie Krause,Eine Woche wach (Dieendlichwieder - Version 2021),Eine Woche wach - Dieendlichwieder - Version 2021,33,236551,False,0.731,0.997,7,-2.933,1,0.0899,0.0514,0.0,0.334,0.793,133.987,4,party
+5KYp0QTJ6eOycodKg9tDlj,Anstandslos & Durchgeknallt;JONA,Wenn die Welt untergeht,Wenn die Welt untergeht,33,154687,False,0.66,0.752,0,-5.996,1,0.211,0.00307,0.0,0.187,0.38,127.97,4,party
+6uWEtKTSLQAay4TrXLsPDN,Mia Julia,Geile Zeit,Endlich wieder Malle - Club Radio Edit,32,244545,False,0.659,0.943,3,-2.5,0,0.0402,0.0157,0.0,0.221,0.497,132.065,4,party
+0l3vdIQRC5YVOb5XiCCZgt,Rick Arena,Jeder muss an etwas glauben,Jeder muss an etwas glauben,32,187520,False,0.618,0.963,6,-2.502,1,0.0887,0.0328,0.0,0.13,0.298,143.937,4,party
+1Srkis6DFHCkiM10EZzpF4,Paveier,Dat Beste us 25 Johr,Mir sin Kölsche us Kölle am Rhing,34,235853,False,0.654,0.528,5,-5.881,1,0.0278,0.191,0.0,0.201,0.469,146.103,4,party
+6wlUttkKh85t9MLZokg29e,Anstandslos & Durchgeknallt;Emi Flemming,Party EP,Feigling,32,143800,False,0.808,0.748,6,-8.109,1,0.0472,0.00248,0.0,0.0778,0.942,129.99,4,party
+6nasENEj3gSJjRpoZ7PWWm,Glitzer Gischi,Wenn ich mal kein Bier trink,Wenn ich mal kein Bier trink,32,203859,False,0.74,0.925,5,-5.16,1,0.133,0.488,0.0,0.125,0.596,134.079,4,party
+3893yucNtpDXFFcSTRxq3G,Buddy,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Blau (Da Ba Dee),0,218466,False,0.633,0.96,7,-4.388,0,0.158,0.0282,0.0,0.39,0.909,137.992,4,party
+3ctC56tD5ckDrJ81kKDMdd,Die Flippers,Wir sagen danke schön,Wir sagen danke schön - Oktoberfest Mix,33,205302,False,0.775,0.933,7,-6.693,1,0.0317,0.129,0.0,0.316,0.964,130.012,4,party
+17dsKnFElDCIvTsoOmiGtt,Buddy;Pazoo,Karneval 2022 100%,Wir haben Grund zum Feiern!,0,176739,False,0.621,0.971,11,-4.57,0,0.152,0.0095,0.0,0.404,0.515,103.47,3,party
+4A7ugctNkmbjCGCwuo8SlC,Buddy,Ballermann Hits Party 2023,Bis das Licht angeht,0,152571,False,0.732,0.842,8,-12.88,1,0.141,0.0171,0.00033,0.0876,0.21,139.93,4,party
+1idOO9D0srE0fKPT0o8x2W,Troglauer,Ey-Oh!,Alles klar an der Bar - Version 2016,33,169266,False,0.619,0.902,7,-3.875,1,0.0341,0.00435,0.0,0.344,0.931,134.996,4,party
+5Z0cNlBxEDa3fMkLWdlbm4,Tim Toupet,Inselverbot / Henri Henrisson/ Wir sind alle gestört aber geil (Tims Top Titel),Inselverbot / Henri Henrisson / Wir sind alle gestört aber geil - Tims Top Titel,32,239776,False,0.672,0.974,11,-2.799,1,0.081,0.038,0.0,0.964,0.803,138.434,4,party
+2e6L8mAClebcUmNi1HkyyP,Marco Wagner;Die Obersteirer;Selecta,Boyfriends,Boyfriends - Selecta Remix,33,322420,False,0.691,0.906,9,-3.755,0,0.161,0.0259,4.91e-05,0.0643,0.518,127.998,4,party
+5E5SCNQl5KkKkx7ciV2bQd,Markus Becker;Oliver DeVille,Ballermann Hits 2022,Micky Maus - Wir geh'n noch nicht nach Haus - Villa-Mix,32,181000,False,0.588,0.977,0,-2.789,1,0.151,0.0284,0.0,0.316,0.155,135.057,4,party
+3n9m6dyDbQuQNoyBx1gqdR,Buddy;Pazoo,Best Of Karneval,Wir haben Grund zum Feiern!,0,176739,False,0.621,0.971,11,-4.57,0,0.152,0.0095,0.0,0.404,0.515,103.47,3,party
+6hf5nwOl4MCMLT0hnlvSMy,Die Draufgänger;DJ Selecta,Happy Wife - Happy Life (DJ Selecta Power Remix),Happy Wife - Happy Life - DJ Selecta Power Remix,33,240937,False,0.692,0.823,5,-4.793,1,0.0333,0.000761,0.000106,0.0875,0.597,128.037,4,party
+0lFo6asV6Ke962qerPuYPp,Mickie Krause,Wir woll'n feiern für die Ewigkeit - Best Of!,Zehn Nackte Friseusen 2003,32,224133,False,0.659,0.951,1,-4.085,0,0.0431,0.0106,0.00341,0.161,0.739,132.73,4,party
+0WDJJIk4bWu4H8AqzN0Qx6,Troglauer,Heavy Volxmusik,Vario (Ladioo),32,59760,False,0.558,0.887,1,-6.42,0,0.0861,0.0166,0.00282,0.518,0.461,128.113,4,party
+0yXTFbdOJn8iE4zPGKePNJ,Michelle;Matthias Reim,MR20,Nicht verdient - Rock Edit,33,194560,False,0.626,0.817,8,-4.735,1,0.0504,0.0369,0.0,0.111,0.655,128.005,4,party
+5f7hOnFlCIaT3X4tTsDCys,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Alois,33,162173,False,0.773,0.732,7,-7.984,1,0.112,0.0124,0.0,0.214,0.961,150.061,4,party
+6yeRR2fO92gx2agPtIufob,Sabbotage;Dj Biene,Wir müssen aufhören weniger zu trinken,Glück auf (Wir müssen aufhören weniger zu trinken),32,196827,False,0.585,0.959,0,-2.032,1,0.0594,0.0184,0.0,0.352,0.574,141.909,4,party
+3UvtybfMQHkrcv44VdUlbP,Dorfrocker,Dorfkind und stolz drauf!,Im Dorf wo ich geboren bin,34,180560,False,0.688,0.985,2,-2.232,1,0.0507,0.127,0.0,0.361,0.828,119.971,4,party
+0VgllvQ39yOvv5shudXq0o,Andreas Gabalier,VolksRock'n'Roller,Vergiss die Heimat nie,31,279760,False,0.602,0.506,4,-8.423,1,0.0277,0.364,0.0,0.11,0.325,127.932,4,party
+19czhIva2UpN34kIuXWvhr,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Hast du Lust? - Version 2022,34,173520,False,0.592,0.88,0,-4.982,1,0.289,0.0628,0.0,0.381,0.575,127.964,4,party
+11jKqbQriKRaZ72YicxJVW,Mountain Crew;Pazoo,Ernte 2k23,Expresso & Tschianti - Pazoo Remix,0,157608,False,0.714,0.821,9,-5.564,1,0.056,0.000222,0.000827,0.264,0.564,138.014,4,party
+4BFlYVvJUWk42OoxAuCg1N,Anna-Maria Zimmermann,Himmelblaue Augen (Remixes),Himmelblaue Augen - Franz Rapid Mix,32,198360,False,0.653,0.931,1,-2.809,1,0.046,0.0984,1.19e-06,0.36,0.643,126.057,4,party
+1ktIuukiOHU42xss8PpAQv,Mountain Crew;Pazoo,Layla sitzt dicht im Flieger,Expresso & Tschianti - Pazoo Remix,0,157608,False,0.714,0.821,9,-5.564,1,0.056,0.000222,0.000827,0.264,0.564,138.014,4,party
+3dd3p82q5vT5SXfYXEBmOz,Die Draufgänger,#Hektarparty,Holz,32,184880,False,0.713,0.758,5,-4.497,1,0.0395,0.214,0.0,0.0721,0.966,92.002,4,party
+2ODQGMTDJFIf5kbL2FuXFx,Mountain Crew;Pazoo,Ballermann Hits Party 2023,Expresso & Tschianti - Pazoo Remix,0,157608,False,0.714,0.821,9,-5.564,1,0.056,0.000222,0.000827,0.264,0.564,138.014,4,party
+1TOuUa3PLI3cnPTyP7WMKR,Jörg & Dragan (Die Autohändler);Gute Freunde,Willst Du eine Banane?,Willst du eine Banane?,31,160978,False,0.791,0.977,0,-1.243,1,0.0616,0.203,0.0,0.3,0.854,94.975,4,party
+1Hzx1CVqhJjZROfPxDJqYk,Fäaschtbänkler,Alpaland,Wir haben noch lange nicht genug,32,187986,False,0.711,0.611,8,-6.734,1,0.0377,0.328,0.000309,0.11,0.961,154.996,4,party
+6weT0OACEb3e4KLQJInf4I,Die Zipfelbuben;DJ Cashi,Olivia,Olivia,74,180157,False,0.666,0.942,1,-2.928,1,0.0689,0.0307,0.0,0.246,0.832,141.913,4,party
+0j3d9PDB0QDkXijNsl2gLk,Dora The Explorer,Dora The Explorer Party Favorites,Chicken Dance,46,147133,False,0.587,0.957,7,-4.098,1,0.0292,0.0991,0.0337,0.911,0.963,108.453,4,party
+2oaR6ZGRAiJC6aEZU4HOZ6,Rob & Chris;Rob Mayth,Wahnsinn,Wahnsinn - Rob Mayth vs. Chris Jump Radio Edit,32,209635,False,0.642,0.855,0,-6.089,1,0.0383,0.151,0.00166,0.319,0.483,142.0,4,party
+7bvuyE21cfzzM3JzRNtyp7,Ikke Hüftgold;Lorenz Büffel,Asamoah,Asamoah,31,192733,False,0.659,0.944,10,-2.854,1,0.0441,0.0127,0.0,0.208,0.682,134.0,4,party
+1kdeeFetLhgfz5ipS5WOJO,Pazoo;Chip & Dale,Tätowierer,Tätowierer,31,149000,False,0.652,0.84,0,-5.04,1,0.0679,0.000642,3.01e-06,0.144,0.193,145.244,4,party
+3BACKIxZWIdFaNLAklMdh2,Mike Nüchtern;Thekensportlerz,Feieralarm,Feieralarm,31,138245,False,0.561,0.834,7,-4.768,1,0.038,0.0234,0.0,0.249,0.292,142.036,4,party
+0EiUpsNMBVX4eWczcM6DA6,DJ Robin;Schürze,Ballermann Hits 2022,Layla,30,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+0CnhOYwugNMgSQWvgB9YBB,Markus Becker,Ale Ale Aleksandra,Ale Ale Aleksandra,30,208000,False,0.604,0.976,8,-2.913,1,0.0795,0.00306,3.63e-06,0.285,0.947,153.009,4,party
+3HV0CovFEnuJ8k7zVStPyM,Maurice Haase;Andi & Dörk,Heisser Sand,Heisser Sand - Mallorca Version,31,202608,False,0.684,0.879,11,-4.667,1,0.0419,0.102,0.0,0.441,0.616,137.991,4,party
+6aUN5gXfkXKl4GBiVTLLZI,Klaus & Klaus,Ach Du Dickes Ei,Der Eiermann,31,221426,False,0.722,0.836,2,-5.85,1,0.0333,0.412,0.0,0.0278,0.762,103.157,4,party
+4ioTNxTlDEh5oeICDiV9mX,Tream;treamiboii,ROCKER,SUPERHELD,30,154285,True,0.793,0.726,11,-5.336,1,0.0453,0.256,0.0,0.113,0.929,154.048,4,party
+1O5f9YKg1gz27CINAENahV,Paveier,Schön ist das Leben,Schön ist das Leben,32,203160,False,0.622,0.881,2,-4.557,1,0.0502,0.227,0.0,0.322,0.778,130.02,4,party
+1VpeOGIqICW6hJ0G0sc27p,Ingo ohne Flamingo,"Saufen morgens, mittags, abends - Die Party",Hartz 4 und der Tag gehört dir,31,188160,False,0.82,0.789,6,-2.74,1,0.123,0.144,0.0,0.376,0.697,125.016,4,party
+6mUGmdCMhIp2rtPkPNrznf,Kreisligahelden,Kreisligahelden sind wir,Kreisligahelden sind wir,30,204700,False,0.57,0.998,9,-2.816,1,0.177,0.0243,0.0,0.737,0.623,139.975,4,party
+4JPXrEdeRufTYKuSPD2lZG,Almklausi,Siegfried & Roy (In Ewigkeit Amen),Siegfried & Roy - In Ewigkeit Amen,32,200479,False,0.654,0.909,7,-3.6,0,0.053,0.0119,0.0,0.281,0.5,132.121,4,party
+3YFcVew490BQBBNj7jlIZG,Andreas Gabalier,Da komm' ich her,Meine Heimat,30,208480,False,0.574,0.694,9,-4.945,1,0.0265,0.436,0.0,0.297,0.538,80.986,4,party
+5uNqdE8cONo36NgRXIw5hK,Anna-Maria Zimmermann,Bauchgefühl,Tanzen,31,205373,False,0.706,0.994,8,-2.367,1,0.0629,0.0262,0.0,0.307,0.701,129.973,4,party
+0JGApIdbn2t3EonMdo2U2a,Ramonstar;Dani Sause,Wir benehmen uns daneben,Wir benehmen uns daneben,31,202533,False,0.654,0.967,0,-1.229,1,0.057,0.0154,0.0,0.283,0.856,133.022,4,party
+2GOVk9VRBmLVEyHSdZYPEN,Willi Wedel,Mallorca Party Krieger,Mallorca Party Krieger - Video Edit,30,239499,False,0.634,0.936,7,-4.231,0,0.0363,0.0056,0.0,0.165,0.507,128.003,4,party
+3gegxX45lmglzE8ANKOAZk,Hannes;Kings of Günter,Lieber Schifoan (Apres Ski 2020 Hits Remix),Lieber Schifoan - Apres Ski 2020 Hits Remix,31,203602,False,0.779,0.913,7,-3.881,1,0.205,0.0683,0.0,0.397,0.735,127.949,4,party
+6OJrOS2eZKGvkjZMrPWEeV,Mickie Krause,Geh mal Bier hol'n (GmBh) [Après Ski Version],Geh mal Bier hol'n - GmBh - Après Ski Version,31,176706,False,0.634,0.993,1,-5.428,1,0.227,0.181,0.0,0.223,0.733,139.963,4,party
+6RGMI97cRJdl0MfHmmqRaJ,Andi Latte,Das Bier gewinnt (Kreisligafussball),Das Bier gewinnt (Kreisligafussball),30,212529,False,0.62,0.992,6,-3.111,1,0.0973,0.153,0.0,0.368,0.786,141.998,4,party
+72gZFHqoIyL0D4N0ZKQnXi,Buddy,"Saufen morgens, mittags, abends - Die Party",Ab in den Süden,31,223960,False,0.574,0.885,5,-4.789,1,0.0567,0.0796,0.0,0.381,0.966,80.492,4,party
+67yN4TR5HHg5TwOZeYFoNZ,FiNCH;Mia Julia,Ballermann Hits 2022,Wir eskalieren,30,216286,True,0.73,0.909,11,-5.904,0,0.138,0.123,0.0,0.123,0.453,87.523,4,party
+7Ll7aDXdXp7t1lw6mtknjI,Die Gerchli;Kloß mit Soß,Die Welt dreht sich auch ohne dich (Kloß mit Soß Remix),Die Welt dreht sich auch ohne dich - Kloß mit Soß Remix,30,213750,False,0.677,0.685,9,-5.695,1,0.0345,0.0643,3.45e-06,0.189,0.535,128.006,4,party
+0C0m1E608umzcKx6D0bUm5,Jörg Bausch,Denn ich fliege,Großes Kino - Party Version,31,206960,False,0.813,0.835,11,-4.377,1,0.0925,0.129,9.01e-06,0.105,0.858,129.994,4,party
+2YV8C9kmE1qaM8DlFSXshm,Darius & Finlay;Tom Borijn,San Francisco (Darius & Finlay vs. Tom Borijn),San Francisco (Darius & Finlay vs. Tom Borijn) - B-Case Remix Edit,31,211931,False,0.586,0.836,9,-2.903,1,0.0434,0.000992,5.48e-05,0.775,0.208,128.032,4,party
+2vIRbUh95ZbEVXxhIwpV9t,Matthias Reim;Michelle,All the Best,Idiot,32,225880,False,0.742,0.923,0,-4.284,1,0.0602,0.183,0.00171,0.18,0.687,135.981,4,party
+48IwzO1TqRMOu9mmaie0vp,Andreas Gabalier,Herzwerk (Geschenkedition),Bergbauernbuam,30,237226,False,0.628,0.939,4,-4.447,1,0.045,0.164,0.0,0.144,0.749,129.999,4,party
+1F1Rj1Rz95cDW4LpWK740R,Sound Convoy,"Hey, Wir Woll´n Die Eisbären Seh´n (Remixe 2008)","Hey, Wir Woll´n Die Eisbären Seh´n - Full Gainer Radio Mix",31,234161,False,0.542,0.844,8,-8.633,1,0.041,0.000174,0.153,0.27,0.0819,138.037,4,party
+6w3dva49AnQmjWB05pJ3CH,Stereoact;Lena Marie Engel,#Schlager 2,Freiheit,32,122985,False,0.777,0.674,1,-5.99,1,0.0332,0.141,0.000174,0.127,0.644,104.955,4,party
+2IsqKsbBPpPzzP9FhGoBPo,Andreas Gabalier,Da komm' ich her,Mit dir,31,200200,False,0.442,0.882,2,-3.534,1,0.0392,0.183,0.0,0.623,0.582,156.043,4,party
+13eQ2ieIiFl3scUwqaqVxJ,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Verlieben ist verboten,31,198773,False,0.617,0.863,5,-5.063,1,0.17,0.0909,0.0,0.204,0.595,127.997,4,party
+693l6uEsdczvJ32j7Ib2ba,Tim Toupet,"Saufen morgens, mittags, abends - Die Party",Eine neue Leber ist wie ein neues Leben (Eine neue Liebe ist wie ein neues Leben),30,218575,False,0.697,0.981,8,-3.644,1,0.0312,0.119,0.0,0.268,0.922,138.054,4,party
+4iEmptNNLVbh810rw10Kmz,Matthias Reim,Wolkenreiter,Sowieso für dich das Letzte,32,205493,False,0.683,0.971,9,-5.426,1,0.0668,0.0727,0.0,0.134,0.833,125.53,4,party
+1PcyypJ70gm6CxTKQvCQiX,Michael Wendler,Der ultimative Wendler Hitmix,Der ultimative Wendler Hitmix XL,30,2959346,False,0.608,0.919,10,-4.071,1,0.036,0.05,5.11e-05,0.139,0.727,130.559,4,party
+6bOg6vYHAWqH4xewY35sL1,Stereoact;Karel Gott,#Schlager 2,Babička - Stereoact #Remix,31,179648,False,0.782,0.814,7,-6.305,1,0.0935,0.00261,7.51e-05,0.25,0.41,128.044,4,party
+7sMXAHBiXPOwDQyysFUqp5,Mia Julia,Mitten in Mia,Ich ficke gern,31,197053,True,0.762,0.894,0,-4.295,1,0.0765,0.0453,0.0,0.321,0.76,91.991,4,party
+6p1zfZZdjj2MoKPdThE7Cg,Andreas Gabalier,VolksRock'n'Roller,Der Frühwirth,30,217400,False,0.801,0.81,4,-6.178,0,0.0496,0.224,0.0,0.19,0.818,115.053,3,party
+4hMZAP4JVhkmQsmlJkiZVh,Troglauer,Heavy Volxmusik,Party mitanand,31,207560,False,0.474,0.855,2,-4.586,1,0.0439,0.00624,0.0,0.357,0.752,126.532,4,party
+44psC0qxcl99mA1AetTF2U,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),Hey Kölle du bes e Jeföhl - Version 2005,32,242866,False,0.68,0.93,2,-5.052,1,0.0387,0.0377,0.0,0.198,0.805,120.017,4,party
+4rq3LAmj5aZiBLiTdQ8Jbq,Fäaschtbänkler;Fäaschtiblech,Eskalation,Eskalation,31,158023,False,0.713,0.84,10,-9.861,1,0.0472,0.0971,5.5e-06,0.0433,0.924,149.978,4,party
+1n2AYj4E5hgkgKBBw1BaO3,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Schlüsseldienstmann,31,147840,False,0.843,0.608,1,-7.661,1,0.0699,0.0178,1.54e-05,0.116,0.94,135.099,4,party
+3EiMkTZe2cDb1Mr0OdmYB4,Sabbotage,Ballermann Hits Party 2023,Sternhagelvoll,0,157994,False,0.576,0.968,4,-0.937,1,0.0731,0.0119,0.0,0.348,0.701,147.859,4,party
+0pPiHT8XglVRTaxg4uQZBp,Sabbotage;Dj Biene,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Glück auf (Wir müssen aufhören weniger zu trinken) - Après Ski Version,0,200280,False,0.566,0.962,0,-2.304,1,0.0604,0.0321,0.0,0.394,0.715,142.003,4,party
+0vIMzNcBJZgcjjS9pf0VeT,Andreas Gabalier,Vergiss mein nicht,Eine Insel mit zwei Bergen (Das Lummerlandlied),30,228040,False,0.645,0.785,0,-6.7,1,0.049,0.155,0.0,0.0905,0.608,91.966,4,party
+09lVKw5MjMkxUCC1xOAxMH,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Ich schicke dir jetzt einen Engel - Version 2022,32,182240,False,0.575,0.82,0,-5.642,1,0.13,0.039,0.0,0.0597,0.3,128.005,4,party
+7lQNUHb52DVQNcI34GA0x4,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Kopfüber in die Nacht - Version 2022,32,182373,False,0.686,0.849,7,-4.869,1,0.163,0.0463,0.0,0.218,0.641,131.976,4,party
+7yB30K1P0zuzjgE3c4zpO4,Mickie Krause;Jürgen Drews,Mich hat ein Engel geküsst,Ich hab den Jürgen Drews gesehn,32,217400,False,0.632,0.878,8,-3.818,0,0.0418,0.0966,0.0,0.251,0.543,134.026,4,party
+4Q9eMYi0x67DIxmzlUkV7r,Fäaschtbänkler,Alpaland,Wenn ich dich beim Tanzen seh,32,156986,False,0.866,0.676,10,-5.423,1,0.0371,0.309,0.000184,0.0375,0.963,119.972,4,party
+5ucyKDPjLpYLGadsRO1wSB,DJ Robin;Schürze,Layla (Dutch Version),Layla,70,185706,False,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.0,0.383,0.375,140.067,4,party
+2RifT2PXli2cZk9Q19qKND,Lorenz Büffel,Schifoan,Schifoan,30,189426,False,0.725,0.998,7,-2.333,1,0.0433,0.0406,0.0,0.297,0.97,130.959,4,party
+15VGERfw1KomSMH1FmXbq6,Malin Brown,Jeden Tag,Jeden Tag,29,155725,False,0.692,0.929,11,-3.473,1,0.104,0.0151,0.0,0.0822,0.447,131.067,4,party
+25zeO8pSbQGZ91WMivYfnD,Matusa,Ufftata,Ufftata,30,181273,False,0.629,0.936,0,-2.038,0,0.063,0.0136,0.0,0.279,0.683,134.052,4,party
+1iJrpVnmzL2GSCFfciZoR5,Chaos Team;Andy Luxx;Alex Engel,Wahre Liebe,Wahre Liebe,30,175171,False,0.732,0.92,7,-4.533,1,0.083,0.0668,6.11e-06,0.345,0.408,150.022,4,party
+54L5Iy7deNjtpbK641kZr9,DJ Ötzi;Nik P.;Peter Boström,Geboren um dich zu lieben,Geboren um dich zu lieben - Bassflow Remake,30,240653,False,0.652,0.756,2,-6.461,1,0.0297,0.0103,0.0,0.0664,0.277,126.014,4,party
+0LlQZTw5fTuV0jxJ4u64x4,Max Weidner,Max From Bavaria,Max From Bavaria,29,185288,False,0.515,0.916,6,-3.852,0,0.244,0.0281,0.0,0.424,0.8,135.117,4,party
+4rODJ52ksytKu88cojlRvP,Kings of Günter,Alles dicht,Alles dicht,29,154500,False,0.762,0.906,8,-3.371,1,0.0945,0.0291,1.07e-06,0.359,0.758,131.983,4,party
+3gzLYXBF3GWwj5Spy9iJbN,Schäfer Heinrich,Das Schäferlied,Das Schäferlied - Radio Version,30,203626,False,0.852,0.957,5,-6.023,1,0.0669,0.291,0.0,0.372,0.93,126.936,4,party
+22FUhXuw7Hhoqzvh7YV31y,BB Jürgen,Von hinten Blondine (von vorne Ruine),Von hinten Blondine (von vorne Ruine),29,186080,False,0.834,0.999,7,-2.432,1,0.106,0.091,0.0,0.84,0.866,137.98,4,party
+0Og28xw75qHRepTpXTAEzK,Kings of Günter;Effeltricher Fosanochtsverein,Springen kannst du überall,Springen kannst du überall,29,166048,False,0.709,0.94,9,-2.961,1,0.142,0.0111,0.0,0.908,0.678,154.964,4,party
+5QPMzfhQBjkBgkGQnXu83D,Honk!,Joana,Joana,29,196830,False,0.641,0.914,2,-2.207,1,0.0852,0.0956,0.0,0.00925,0.792,130.08,4,party
+1g9uKyOlpEAt2d0qiO0JMn,Tim Toupet;DJ Padre,Humba Täterä (Gebt Mir Ein H vs. DJ Padre),Humba Täterä - Stadion-Mix,30,189026,False,0.764,0.986,1,-2.677,0,0.165,0.165,0.0,0.0951,0.384,127.974,4,party
+22tEQQefq7YBwhbl5FsZgH,Kings of Günter,Aprés Ski bis die Alpen glüh'n,Aprés Ski bis die Alpen glüh'n,30,172968,False,0.639,0.954,9,-3.218,1,0.0698,0.045,0.0,0.0701,0.746,170.07,4,party
+5RWn13Y0z3Y9aC7T1QHwv6,Anstandslos & Durchgeknallt;JONA;Jerome,Wenn die Welt untergeht (Jerome Remix),Wenn die Welt untergeht - Jerome Remix,30,150923,False,0.741,0.854,2,-4.713,1,0.147,0.00187,2.18e-05,0.343,0.343,129.989,3,party
+6lXGbcwR3ApzJlivltjolp,Michael Wendler,Unbesiegt,Echolot,30,211146,False,0.797,0.783,5,-4.959,1,0.0393,0.305,0.000297,0.149,0.712,132.047,4,party
+0aRjYFawltapeyNgIKTNZC,Ikke Hüftgold,Ballerpunk,Das Geburtstagslied,30,192267,False,0.639,0.911,0,-2.505,1,0.107,0.0803,0.0,0.0845,0.565,139.973,4,party
+2kR8KKJqEvYdBRkWAeDqaN,Mia Julia,Geile Zeit,Nr. 1,29,233645,False,0.574,0.792,1,-2.401,1,0.034,0.103,0.0,0.138,0.573,73.962,4,party
+79S5ewZqA6fX7PIPeuhMdY,Mia Julia;Ikke Hüftgold,Geile Zeit,Wir sind Mallorca,30,189986,False,0.608,0.962,5,-2.414,1,0.101,0.0306,0.0,0.249,0.427,140.056,4,party
+0ICnFVjsMEQDIXKVKV9KZF,Der Benniii,Oh La La Larissa,Oh La La Larissa,29,204639,False,0.658,0.999,8,-3.013,1,0.0606,0.0256,0.0,0.342,0.581,133.863,4,party
+5u4VcoXxBsONkn9iXZVso8,Willi Herren;Ikke Hüftgold,So gehn die Gauchos (So gehn die Deutschen),So gehn die Gauchos (So gehn die Deutschen) - Mallorca Mix,30,182832,False,0.564,0.92,11,-3.225,1,0.235,0.322,0.0,0.348,0.691,142.039,4,party
+2cEYlOGyT9JcycG3wi0DQo,Troglauer,Makita,Makita,30,184093,False,0.633,0.901,1,-4.718,1,0.0334,0.0121,0.0,0.334,0.862,94.998,3,party
+4gBB1MGpdTLNSxZWYhOSRP,Schokkverliebt,Porno,Geburtstag - Endlich 18 Version,30,181280,False,0.664,0.69,8,-5.173,1,0.265,0.00303,0.0,0.482,0.416,150.003,4,party
+1wjH0173CvH5ZqR9LF8aZY,Max Weidner,Schau ma moi,Schau ma moi,29,164393,False,0.579,0.897,1,-3.708,1,0.0464,0.157,0.0,0.117,0.768,125.024,4,party
+6DZTKtFRlprdZ0xOJ6zkSn,Höhner,Wenn et Hätz dich röf,Wenn et Hätz dich röf,31,179876,False,0.592,0.856,4,-3.516,0,0.0336,0.043,0.0,0.396,0.799,130.003,4,party
+52eqBJDEx57uQSVtSUp5TS,Tobee,Überdosis Glück,Eine Weiße Rose,30,215509,False,0.632,0.999,0,-3.413,1,0.0431,0.00887,0.0,0.256,0.935,139.988,4,party
+2O22sTpKBDMrcER6o8KYES,Wolfgang Petry,Sinn des Lebens (Radio Version),Sinn des Lebens - Radio Version,31,210531,False,0.805,0.876,9,-5.835,1,0.0297,0.116,1.19e-06,0.323,0.943,120.046,4,party
+5RA1kFN9rXDAY4ylievepD,Marry;Balineiro,Hoch die Hände Nachtgebet,Hoch die Hände Nachtgebet,30,196000,False,0.592,0.984,11,-2.928,1,0.0607,0.00524,0.0,0.116,0.69,139.88,4,party
+7ubghzd9IuD9egKKjwF95t,Brings;Carolin Kebekus,Funkemarieche,Funkemarieche,31,232880,False,0.712,0.962,8,-1.467,1,0.113,0.524,0.0,0.716,0.722,134.922,4,party
+7MfHHCqnYp4givtcyzP3Qy,Micha von der Rampe,Mein lieber Herr Gesangsverein,Mein lieber Herr Gesangsverein,29,194645,False,0.687,0.771,9,-4.551,1,0.0962,0.0311,0.0,0.0855,0.938,134.992,4,party
+52ZrgcaarO8JrImxossxF6,Matthias Reim,MR20,Problem,31,231280,False,0.674,0.793,7,-5.414,1,0.029,0.0137,0.0,0.329,0.751,131.94,4,party
+2zKTvTDOQNjV9HSCHLKSOo,DJ Düse;Frenzy;DJ Cashi,Ballermann Hits Party 2023,9 Euro Ticket,0,212000,False,0.652,0.912,6,-1.686,1,0.0539,0.0126,0.0,0.348,0.696,140.982,4,party
+5NbDYJulSu1MGiqX6S6FHb,Stereoact;Sarah Lahn,#Schlager 2,Weinst du,31,179433,False,0.759,0.689,10,-6.234,1,0.0455,0.111,0.0,0.364,0.411,125.136,4,party
+545XJ0uNfpxuqVFjMHxi4W,Frenzy;Mia Julia,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Wir sind wir (Mallorcastyle),0,203725,False,0.67,0.94,1,-2.203,0,0.0909,0.026,0.0,0.248,0.752,138.029,4,party
+2NvNvapjIRSVYC2xBXL5bY,Paveier,Dat Beste us 25 Johr,Dat jeiht vorbei,31,208560,False,0.655,0.83,2,-4.317,1,0.0402,0.169,0.0,0.224,0.754,128.006,4,party
+2o49Ww4e6rRwCGkAHKUL6k,DualXess;PeachTree,Bis es kracht,Bis es kracht - Radio Edit,30,212815,False,0.763,0.807,6,-4.665,1,0.0425,0.0246,0.0,0.0978,0.425,127.928,4,party
+39BgsO0W6Xkyuv8D1hXURG,DJ Ötzi,20 Jahre DJ Ötzi - Party ohne Ende,7 Sünden - Xtreme Sound Remix 2019,31,233320,False,0.689,0.984,7,-3.531,1,0.0469,0.0157,0.0,0.365,0.796,130.008,4,party
+5j1gM2DcyOhkliFqlYND3T,Die Flippers,Singles Vol. 2 (1980 - 1988),St. Tropez,30,211333,False,0.709,0.729,8,-11.27,1,0.0298,0.493,0.0,0.135,0.631,128.732,4,party
+5EenYv5JJtnVqzMC6ef7CB,Mia Julia,Ballermann Hits 2022,Malle Beste Leben,30,156022,False,0.513,0.967,11,-0.835,0,0.136,0.106,0.0,0.112,0.401,102.736,3,party
+68Gs44rsSBAtN0Z1NaBSuZ,Matthias Reim,Sieben Leben,Nie mehr ohne Engel,31,211386,False,0.752,0.816,9,-7.685,1,0.0265,0.0344,0.0,0.4,0.908,125.942,3,party
+63yqUtQWSa56EirJZOjpO7,DJ Ötzi,Sei du selbst - Party 2.0,Der hellste Stern (Böhmischer Traum) - Silverjam Mix,31,198613,False,0.575,0.957,5,-2.758,1,0.0826,0.00328,0.0,0.158,0.929,126.056,4,party
+4dNHosV5bsQ3HSCTt5RUgO,Marco Wagner;Lorenz Büffel,Boyfriends 2k19 Remix,Boyfriends 2k19 Remix - Radio Edit,30,262500,True,0.721,0.919,0,-4.399,1,0.14,0.0389,1.13e-05,0.303,0.709,127.971,4,party
+2zy3PAECR0qivE3S7yxxeV,Scarlet Flair,Legenden dieser Nacht (Megapark Hymne 2019),Legenden dieser Nacht - Radio Mix,30,158661,False,0.599,0.947,2,-4.625,1,0.0497,0.0125,0.0,0.295,0.665,132.981,4,party
+1r3rPIyskFzPXEywCqgN6X,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Ich lass dann mal die Lichter für dich an,30,177946,False,0.591,0.479,10,-7.861,1,0.0267,0.327,0.113,0.128,0.88,144.794,4,party
+2PTt9bnLRfgjm0stXeM23a,Frenzy,Ballermann Hits Party 2023,Welcome To Mallorca,0,214064,False,0.629,0.92,9,-4.229,0,0.0807,0.0167,0.0,0.0758,0.325,139.99,4,party
+26nfOFTh9a01B5w7hH19QC,Matthias Reim,MR20,Kopf oder Zahl,31,220400,False,0.602,0.89,5,-4.764,1,0.0459,0.0169,0.0,0.0883,0.706,124.05,4,party
+0bLVDkyW3CerShOscgxxf9,Rick Arena;Deejay Biene;Aquagen;Moses C,Ich liebe Dich (Aquagen Remix),Ich liebe Dich - Aquagen Remix,29,172557,False,0.544,0.834,7,-6.937,0,0.0375,0.0327,0.0,0.128,0.403,149.976,4,party
+4VzhywntIjbEhUqxnJz0ND,Wolfgang Petry,Nie genug,Alles würd' ich tun für Dich,31,213266,False,0.768,0.763,7,-6.822,1,0.0273,0.111,1.53e-05,0.114,0.895,123.983,4,party
+4EsjZfyeirnMCoNM8xYXoH,Fäaschtbänkler,Partyplanet,Anna Colada,30,175000,False,0.781,0.678,7,-5.956,1,0.0592,0.113,0.0,0.0918,0.643,134.824,4,party
+52sFhFKlOwedbsQZh6tZKQ,Jürgen Drews,Das ultimative Jubiläums-Best-Of,Was einmal war das kommt nie wieder,31,190640,False,0.623,0.972,5,-2.391,1,0.0424,0.0275,0.0,0.314,0.665,130.013,4,party
+1R77CxppnheFfIGNgQ9NF8,BeatBo;Fisher-Price,Fisher-Price BeatBo,Freeze Dance,51,76888,False,0.8,0.887,9,-3.419,0,0.293,0.276,5.48e-06,0.345,0.487,135.034,4,party
+6xjpFDnIHcj58lcFwyBPkf,Klaus & Klaus,Feiern Bis Der Arzt Kommt,Ein Rudi Völler,30,212946,False,0.611,0.79,5,-8.015,1,0.0298,0.00208,4.98e-06,0.329,0.838,140.966,1,party
+51ShzPG95eEY7rARzuxehl,Empyre One;Maxtreme;DROPiXX,Just Dance (Maxtreme & Dropixx Mix),Just Dance - Maxtreme & Dropixx Mix,56,149913,False,0.657,0.944,1,-6.753,0,0.0552,0.0025,0.0,0.371,0.442,149.994,4,party
+2ixbRLCb11eHKYW5kRyRDH,Mickie Krause,Schlagerhits,Anita,29,205426,False,0.68,0.995,0,-2.721,1,0.0434,0.0857,1.78e-06,0.32,0.837,138.009,4,party
+47MTry3PfoZCnDmk52z4UU,Asphalt Anton,Limited Edition,Limited Edition,29,175500,False,0.707,0.963,2,-2.978,1,0.235,0.0209,0.0,0.344,0.712,140.026,4,party
+5RmAUMjGRvwJu862BonyAS,Balek,Ich bin voll,Ich bin voll,28,180845,True,0.732,0.869,7,-5.405,1,0.0495,0.225,0.0,0.127,0.727,142.065,4,party
+4vcDc9heFLPOk9xADiukVP,Der Benniii,Mona Lisa,Mona Lisa (Du Luder),29,221834,False,0.497,0.982,8,-2.81,1,0.13,0.0241,0.0,0.348,0.647,139.994,4,party
+0LTtIFpHT29Vu793sa3jR8,Brings,Rockmusik,Heimjon,31,278213,False,0.517,0.678,8,-4.332,1,0.0273,0.203,0.0,0.293,0.371,138.085,4,party
+1kgNUPL3jeicyZSJhVRVM5,Stefan Stürmer,Wir sind Mallorca Ultras,Wir sind Mallorca Ultras,29,183093,False,0.698,0.997,5,-1.644,1,0.164,0.0698,0.0,0.172,0.515,137.988,4,party
+4vxu1wOMFBZvwkvBRzH8ZA,Paveier,Leev Marie,Uns jeiht et joot,31,179773,False,0.637,0.89,2,-2.738,1,0.034,0.0103,0.0,0.302,0.962,127.04,4,party
+6pdy4II9UNoZaWkUMSe2ze,Mickie Krause,Wir woll'n feiern - f….. - feiern!,Wir woll'n feiern - f….. - feiern!,29,151368,False,0.726,0.959,9,-1.62,1,0.102,0.0196,0.0,0.672,0.777,130.004,4,party
+0j2eKSvuS4psRyb5czaEee,Die Atzen;Sady K,"Atzen Musik Vol.1, 2 & 3",Anna Nass,30,169946,False,0.789,0.902,9,-4.986,0,0.214,0.0342,0.0,0.0881,0.463,138.03,4,party
+6GrFzYJkQ5aqioU42oPaX8,Kreisligahelden,Sabine (Komm in die Kabine),Sabine (Komm in die Kabine),29,145144,False,0.649,0.9,11,-7.73,0,0.0503,0.0126,0.0,0.949,0.581,140.017,4,party
+311Aew4xQ5ApPO1HUIJYwz,Ikke Hüftgold,Dicke Hits und Kartoffelsalat aus dem Märchenland,Huuh,29,167487,True,0.509,0.964,1,-2.802,1,0.227,0.0387,0.0177,0.347,0.669,136.211,4,party
+0AQ9d5xgtF1N2k7sZ6xde2,Matthias Reim,Das ultimative Best Of Album,Im Himmel geht es weiter,31,232800,False,0.539,0.791,4,-5.661,0,0.0341,0.187,4.38e-06,0.484,0.682,80.004,4,party
+3lUK5J33phdFpFN0cIyO9h,NIC,Ich geb nicht auf,Ich geb nicht auf,29,219342,False,0.651,0.894,1,-3.042,1,0.0312,0.00889,1.27e-05,0.245,0.695,130.006,4,party
+0oLnOpZXYzjmyMivzeyjpP,Die Flippers,Ein Mädchen wie Dich muss man lieben,"Bella, bella, Felicita",29,182666,False,0.681,0.577,5,-11.437,1,0.0324,0.429,0.0,0.0722,0.684,126.65,4,party
+6Qq8lIoV6gHc77GSjacOHP,AA Apres-Ski!,Apres-Ski Lawine 2010,Er hat ein knallrotes Gummiboot,29,208946,False,0.779,0.98,4,-4.86,1,0.0429,0.166,0.0,0.338,0.891,129.996,4,party
+0KdZ8vvYXjmIVplFB1iYpL,Mickie Krause,"Biste braun, kriegste Fraun",Von vorne nach hinten...von links nach rechts - Party Version,30,201975,False,0.517,0.994,10,-2.806,1,0.402,0.0589,0.0,0.972,0.65,135.071,4,party
+4VlgNVgennpDtkge1jqhxT,UWE! - Der Kreisligatrainer,Der Uwe Ist Da,Der Uwe ist da,29,197450,False,0.674,0.903,6,-3.055,0,0.164,0.044,0.0,0.345,0.527,112.013,4,party
+4Argn9jaXH4GYQFer2X749,Tim Toupet,Tote Enten (Xtreme Sound Party Mix),Tote Enten (Xtreme Sound Party Mix),29,202648,False,0.778,0.998,11,-2.045,0,0.186,0.101,0.0,0.0571,0.884,133.888,4,party
+2BWcBipXWjeoIiymSDfAjo,Matthias Reim,Unverwundbar,Wie man liebt,31,255213,False,0.577,0.886,5,-2.422,1,0.0308,0.012,0.0,0.0971,0.615,123.96,4,party
+4l0r1TDwZbDTQ1lDq51AxS,Andreas Gabalier,MTV Unplugged (Extended Version),Dirndl lieben - MTV Unplugged,29,234050,False,0.695,0.861,5,-8.686,1,0.0775,0.131,0.0,0.754,0.871,125.932,4,party
+1dyW89MGhypsFGKusyheDF,Brings,Halleluja,Halleluja - Single Version,31,209600,False,0.627,0.958,8,-2.418,0,0.0502,0.0203,3.86e-06,0.105,0.802,135.073,4,party
+3x3zXFxXJFVcpQcsTAznv4,Andreas Gabalier;Stefanie Heinzmann,Home Sweet Home (International Special Edition),Proud Mary,29,181093,False,0.404,0.768,7,-5.835,1,0.139,0.25,0.0,0.403,0.74,159.907,4,party
+1rhf7nou1E6MvGqHFAomDR,Ikke Hüftgold,Dicke Hits und Kartoffelsalat aus dem Märchenland,Don't Take Me Home,29,179983,True,0.588,0.93,6,-2.665,1,0.151,0.219,0.0,0.401,0.468,139.907,4,party
+5EtNhhX4QqRgf2q7iImlwR,DJ Herzbeat;Sonia Liebing,Maybe,Maybe,29,180132,False,0.73,0.902,0,-4.697,1,0.0516,0.00184,0.0,0.431,0.749,126.054,4,party
+5jB7If6pecb89mFSeWyeQu,Peter Wackel,Alt wie ein Baum (Party Remix),Alt wie ein Baum - Party Remix,30,151780,False,0.625,0.998,6,-1.952,1,0.0764,0.0135,0.0,0.797,0.666,128.017,4,party
+6hyQsHTwHEQ8wMwlgYdJuW,FiNCH;Scooter,Gabber Girl,Rave Witchers,29,179911,True,0.559,0.96,10,-2.427,0,0.086,0.00114,0.056,0.4,0.367,170.04,4,party
+41IkChANGz6XHAnJd8JHbx,Michael Wendler,Der ultimative Wendler Hitmix,Der ultimative Wendler Hitmix XS,29,609880,False,0.571,0.949,0,-4.027,0,0.0383,0.0509,6.43e-05,0.292,0.729,130.819,4,party
+0yrOqYX4S5cngkRDnegyfC,Andreas Gabalier,Herzwerk (Geschenkedition),Wo immer du auch bist,29,220066,False,0.579,0.836,9,-4.634,1,0.036,0.221,0.0,0.339,0.723,125.934,4,party
+4jZc8KZEuMjwdDx08QhMgD,Willi Herren,Lobet den Herren,Da sprach der alte Häuptling der Indianer,30,151173,False,0.693,1.0,11,-0.108,1,0.0574,0.0477,4.23e-06,0.31,0.933,137.96,4,party
+03VWtUpMJPyYrpqP7zxsko,Matthias Reim,MR20,Stärker,31,191280,False,0.543,0.645,7,-6.026,0,0.0289,0.0665,0.0,0.23,0.249,129.946,3,party
+5dcIjv7GMNMSaQ7nAkoFNM,AA Apres-Ski!,Apres-Ski Lawine 2010,Hey wir wolln die Eisbärn sehn,29,188946,False,0.535,0.931,8,-5.096,1,0.0439,0.00386,2.6e-05,0.087,0.626,137.972,4,party
+3PFHRN5TsdfVT7SB7cuzj2,Matthias Reim,Himmel voller Geigen,Himmel voller Geigen,30,199080,False,0.62,0.882,5,-5.008,1,0.0524,0.0182,0.0,0.0742,0.594,132.024,4,party
+65lNSKUW6dqw7B2iKySdrR,Stereoact;Freddy Quinn,#Schlager 2,"Junge, komm bald wieder - Stereoact #Remix",30,149106,False,0.729,0.87,7,-5.149,1,0.105,0.00499,2.43e-05,0.335,0.46,128.019,4,party
+56sbIl0o3XpzEs0K2wHRmI,Michelle,Ballermann Hits 2022,Scheißkerl,30,202666,False,0.586,0.877,2,-4.466,1,0.084,0.0355,0.0,0.305,0.549,129.886,4,party
+6DLlxjbsA5X5ngYc07J07D,Franco Piccolini;Luigi Ferrari;minnie rock;Kloß mit Soß,Unterhopft Remix (Kloß mit Soß remix),Unterhopft [Radio Edit] - Kloß mit Soß remix,29,165714,False,0.76,0.918,1,-5.093,1,0.0829,0.0101,0.0,0.383,0.582,125.945,4,party
+43cAjpK0yjzXFQu2dp27zd,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Musikfest,29,178400,False,0.774,0.513,8,-6.639,1,0.0355,0.21,1.67e-05,0.216,0.978,133.067,4,party
+2JRtPcWcvddBr13TuWHOLq,Fäaschtbänkler,Mal so mal so,Für immer,29,173693,False,0.787,0.746,2,-7.525,0,0.0727,0.0784,0.0,0.0918,0.842,129.98,4,party
+0ax8R52FkZh4GbtGkjp84M,Stereoact;Wolfgang Ziegler,#Schlager 2,Verdammt - Stereoact #Remix,30,177523,False,0.812,0.873,8,-5.518,1,0.0908,0.0322,0.000544,0.238,0.776,128.003,4,party
+4pXSfzLLf7lzSBr32FGHCy,Matthias Reim,Déjà Vu - Das Beste Von Matthias Reim,Jedes Bild von dir,31,237026,False,0.565,0.662,4,-6.636,0,0.0265,0.118,0.0,0.127,0.358,130.058,4,party
+1Sh5dMhC4QLPEFlbfpG0xy,Stereoact;Jürgen Drews,Ballermann Hits 2022,Irgendwann irgendwo irgendwie - Stereoact #Remix,30,205865,False,0.658,0.776,0,-5.836,1,0.121,0.0239,0.0,0.285,0.7,124.055,4,party
+05jqifzKZ3Ahz7PnOan3GF,Troglauer,Heavy Volxmusik,7000 Rinder,30,135053,False,0.545,0.857,10,-4.716,1,0.0931,0.00148,9.29e-06,0.198,0.904,136.056,4,party
+1PRBx9MvDb4CP4ukxUO8Ne,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Nur für dich,30,185986,False,0.736,0.555,10,-7.281,1,0.0428,0.0462,0.0,0.0895,0.785,129.97,4,party
+1EOpYxeSCkXEbiGQ1raYg4,Brings,Dat wor geil - 20 Jahre Brings Musik,"Du Bes Kölle - Live from Rhein-Energie-Stadion, Köln, Germany/2011",31,262866,False,0.566,0.848,11,-3.15,1,0.0475,0.203,0.0,0.707,0.201,80.02,4,party
+2St3ZUtMace8ra0dyt2DAu,Die Draufgänger,Grün,Cordula Grün 2020,29,189920,False,0.816,0.803,10,-4.503,1,0.0604,0.152,0.0,0.0944,0.611,122.995,4,party
+5QwFzwbtbRjNun83iIHoDQ,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Wie Flammen im Wind - Version 2022,30,150026,False,0.479,0.848,1,-4.358,1,0.186,0.111,0.0,0.4,0.604,192.044,3,party
+1UDkdgDCZtQBFCCHmurqFU,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Nenn es Liebe oder Wahnsinn - Version 2022,30,160760,False,0.728,0.853,1,-4.362,1,0.1,0.0562,0.0,0.246,0.771,109.971,4,party
+6nMSUUQKCkvbJH4pJ9ITwC,Mütze Katze;Pazoo;Schalldicht,Berliner Luft,Berliner Luft - Extended Mix,28,200171,True,0.646,0.936,11,-3.817,0,0.457,0.019,0.0,0.299,0.487,143.945,4,party
+6sS77FZh2eJfYBsFUW6hjI,Julian Sommer,Dicht im Flieger,Dicht im Flieger,72,225882,False,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,4,party
+4Vt3LzwiQVGxsD7lMBisuc,Finger & Kadel;Micaela Schäfer,Blasmusik,Blasmusik,29,283384,True,0.811,0.783,1,-5.09,0,0.282,0.0131,4.04e-05,0.0489,0.674,130.041,4,party
+2dIpzVC9RzJIYca6fGcPTT,Patty Shukla,"Jump, Wiggle and Hop",Choo Choo Train,49,140546,False,0.847,0.801,3,-4.073,1,0.105,0.278,0.0,0.326,0.709,109.965,4,party
+0ncgj6yTGzZ4GwX2dbXAKE,le Shuuk;Xillions,Goodbye (feat. Xillions),Goodbye (feat. Xillions),55,155492,False,0.689,0.801,1,-4.501,0,0.122,0.0359,0.000547,0.0743,0.514,142.062,4,party
+528sIVY3I21H9VWRfn7wxi,voXXclub,Ziwui,Heut wird's a bisserl laut,29,186040,False,0.774,0.728,0,-4.227,1,0.0365,0.242,0.0,0.333,0.819,120.0,4,party
+01BpWoUvnK8zrBlfgJN1UT,Ole ohne Kohle,"Mallorca, hey ich komme","Mallorca, hey ich komme",28,167744,False,0.686,0.999,8,-2.41,1,0.078,0.0357,1.71e-06,0.987,0.901,137.993,4,party
+7fdOMFZquKo8OSsfyjTmu9,Schürze,Bierbomberpiloten,Bierbomberpiloten,28,182279,False,0.597,0.949,3,-2.879,1,0.0894,0.213,0.0,0.345,0.489,142.991,4,party
+5g3rL93FXCoTZwP2zr9RE5,DJ Ötzi;The Bellamy Brothers,Simply The Best,Hey Baby,54,220706,False,0.627,0.908,6,-5.369,0,0.0401,0.0454,0.0,0.329,0.781,134.985,4,party
+18UDolpvPEqVzIE69xobUQ,Cupid;Big Pokey,Dance Party King,Cornbread & Greens (feat. Big Pokey),29,254170,False,0.69,0.688,3,-7.994,0,0.156,0.0313,2.04e-05,0.101,0.794,203.648,4,party
+0ayHUKHoHXC6KXqBCadvhR,DJ Ötzi;Bernd Schöler;Markus Schürjann,Ich find' Schlager toll,I will leb'n - Discofox Radio Mix,29,203733,False,0.634,0.936,4,-4.681,1,0.0321,0.002,0.0,0.247,0.857,127.982,4,party
+73s9nuAyvR8BFtmLe1EWb1,Pepe Palme;DJ Robin;Balineiro,Tomatensong 2.0,Tomatensong 2.0,28,187000,False,0.719,0.985,5,-3.139,0,0.159,0.0543,0.0,0.309,0.636,140.038,4,party
+4usmRj5bhQnZkezMfZtntq,Tream;treamiboii,ROCKER,DATING,28,120839,False,0.713,0.539,1,-7.718,1,0.0535,0.331,0.0,0.104,0.792,143.018,4,party
+0fI2CxqE38UsXhcDbENaU5,Ina Colada,Ich liebe das Leben,Ich liebe das Leben,28,263797,False,0.639,0.966,2,-2.547,1,0.0661,0.0955,0.0,0.136,0.716,140.0,4,party
+2S6fuK2wtfbyLlGi8Xr2Ng,Olaf Henning,Cowboy und Indianer,Cowboy und Indianer - Hit Version,29,193773,False,0.668,0.928,8,-4.391,1,0.0366,0.0373,0.0,0.218,0.932,135.97,3,party
+52GqL2Zz8CHMuXqRPZOtoj,Marry;DJ Düse,Wir,Wir,29,209674,False,0.749,0.94,6,-4.045,0,0.102,0.0231,1.06e-05,0.891,0.744,135.955,4,party
+1RiXthKlr0dQ58dyjGprrP,Micha von der Rampe,Wenn du Bock hast (ich hab wieder Bock),Wenn du Bock hast (ich hab wieder Bock),28,153073,False,0.737,0.959,2,-4.109,1,0.324,0.154,0.0,0.267,0.566,157.954,4,party
+11sqYqOdI6Mt8to9w2HuJV,Mickie Krause,10 Jahre Gute Unterhaltung!,Zehn Nackte Friseusen 2003,29,224213,False,0.688,0.945,1,-4.631,0,0.0478,0.0145,0.00406,0.148,0.641,132.721,4,party
+4Y9GNdEmAz2SfLWnmtQ52i,Paveier,Leev Marie,Kumm Mädche danz,30,236066,False,0.678,0.803,6,-3.131,0,0.0345,0.0128,0.0,0.0412,0.809,127.987,4,party
+1z14KIawSqPeqC3iEunMFI,minnie rock,Liebe auf den ersten Eimer,Liebe auf den ersten Eimer,28,180900,False,0.702,0.92,11,-5.081,1,0.0704,0.0123,0.000797,0.0713,0.881,149.92,4,party
+2XziGTbTJ49dIOQNGarDpu,DJ Ötzi,Ballermann Hits 2022,Wenn Gott so will,28,209520,False,0.632,0.938,11,-3.897,1,0.0389,0.0158,0.0,0.428,0.611,127.961,4,party
+3EiHn86wOgsamITgJjSEZB,Die Flippers,Sayonara,Sayonara,28,195506,False,0.582,0.736,4,-9.125,1,0.0317,0.433,0.0,0.125,0.489,100.009,4,party
+3a6s9pfIqMoZ4ot7WiwIl5,Anstandslos & Durchgeknallt,Party EP,Schnaps,28,142320,False,0.918,0.67,7,-8.089,1,0.103,0.188,0.000176,0.0722,0.634,119.985,4,party
+2hDMd2ZzowQAt4lAY3FqdB,Die Flippers,Liebe ist eine Rose,Im heißen Sand von Rhodos,29,199973,False,0.539,0.734,0,-8.522,1,0.0298,0.198,0.0,0.126,0.769,96.133,4,party
+1uI7O9wYA7ZSZXSkwn641o,Balek,Bier Schmeckt Sogar Veganern,Bier Schmeckt Sogar Veganern,28,140769,False,0.619,0.719,8,-6.562,1,0.245,0.0376,0.0,0.0639,0.347,142.917,4,party
+0FVSqpAJUXF2AfSI9TQcoH,Tobee,Holz vor der Tür,Holz vor der Tür,28,216573,False,0.655,0.961,4,-2.402,1,0.102,0.00954,0.0,0.334,0.793,135.999,4,party
+7byZCUHjmkDywuacWxL1sM,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Ich nehm dich mit,29,171373,False,0.862,0.601,10,-6.331,0,0.0463,0.0301,0.0,0.185,0.781,122.045,4,party
+3vrKAVfTM64mCI2jkeekPn,Empyre One;DJ Gollum,Dangerous,Dangerous - DJ Gollum Radio Edit,29,197263,False,0.607,0.979,4,-5.587,1,0.134,0.00204,0.0,0.161,0.659,145.0,4,party
+15SsZje3RFp6tsO6H7TxFd,Michael Wendler;Anika,Come Back (feat. Anika),Honey Kiss (feat. Anika),28,218106,False,0.733,0.918,6,-3.372,0,0.0553,0.18,2.28e-05,0.0659,0.708,134.926,4,party
+0KjymysGYZC19KgJlSpuVY,Matthias Reim;Michelle,Reim,Idiot,30,228746,False,0.742,0.94,0,-3.222,1,0.0588,0.177,0.00183,0.19,0.682,135.972,4,party
+6GGALcTTJ5jSvRtm4kHVcU,Die Flippers,Mit den Flippers um die Welt,Mitternacht in Trinidad,29,216173,False,0.651,0.755,8,-11.768,1,0.0359,0.274,0.0,0.0807,0.74,130.733,4,party
+4ik7U3CHIZp8mDx7zV8ZeU,Paveier,Karneval der Stars 49,Sieben Nächte lang in Amsterdam,29,195386,False,0.653,0.766,0,-4.167,1,0.032,0.000576,8.76e-06,0.253,0.785,129.937,4,party
+0SOgxpRnTORNMU4oEnICrA,Stereoact;Mr. Da-Nos;Rico Einenkel,Millionen Schätze (Remixe),Millionen Schätze - Mr.Da-Nos Club Remix,29,191129,False,0.702,0.885,8,-4.278,1,0.087,0.0104,0.0,0.0705,0.344,124.097,4,party
+3sh5cKJfeBmiQwLCDdGwWD,Andreas Gabalier,Herzwerk,Dahoam,28,209120,False,0.574,0.813,7,-4.847,1,0.0363,0.258,0.0,0.146,0.659,145.965,4,party
+6Z6XZ1sX43ADPgSxYBwPEU,Peter Wackel,Wir sind top auf'm Mountain,Wir sind Top auf'm Mountain,28,224514,False,0.67,0.927,1,-3.047,1,0.1,0.0469,0.0,0.284,0.872,132.048,4,party
+0bYymuvUzdTXtoXLjC3JiG,Die jungen Zillertaler,Die jungen Zillertaler Live,Die Goass is weg,29,164640,False,0.735,0.892,8,-4.86,1,0.0499,0.16,0.0,0.626,0.9,135.105,4,party
+09pr5CPnpXjEQKRqgI7ZnZ,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),Echte Fründe - Remake '97,29,141200,False,0.643,0.902,5,-3.798,1,0.0376,0.038,0.000439,0.188,0.917,127.013,4,party
+24vvqnbkAh2E5wfE4tiNtA,Mickie Krause,Weihnachtsparty mit Mickie Krause,Finger im Po Mexiko - Single Version,29,213986,False,0.734,0.999,10,-3.5,1,0.0588,0.0542,0.0,0.0653,0.68,135.003,4,party
+4GXfDhMO8IcmLoNCRbKdBx,DJ Ötzi,20 Jahre DJ Ötzi - Party ohne Ende,Wie ein Komet - Flying Hirsche Remix 2019,28,205373,False,0.679,0.955,6,-5.792,0,0.0418,0.0466,0.0,0.338,0.554,138.01,4,party
+6TA7zMOWF2X96o158UKwCP,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),"Viva Colonia (Da simmer dabei, dat is prima!)",29,153106,False,0.597,0.878,7,-4.29,1,0.032,0.0225,0.0,0.441,0.927,128.045,4,party
+7jtl5qKYmPoLn0nfLZKFHE,Fäaschtbänkler,Mitten in die Scheibe,Filmriss,29,167466,False,0.842,0.617,9,-6.981,0,0.13,0.191,7.08e-06,0.168,0.829,99.997,4,party
+2jRlS0Dwiwkni1lLrtGj5z,Tim Toupet;DJ Padre,Ballermann Stars - Die Apres Ski Party Hits 2012 - Die Karneval und Apres-Ski Schlager bis 2013,Humba Täterä - Stadion-Mix,28,189026,False,0.764,0.986,1,-2.677,0,0.165,0.165,0.0,0.0951,0.384,127.974,4,party
+5yX2q9E4CdSIqtHZohdv67,Michelle,Nenn Es Liebe Oder Wahnsinn,Und wir wollten doch mal fliegen,30,243160,False,0.544,0.727,4,-3.307,1,0.0265,0.54,0.0,0.146,0.451,140.112,4,party
+7CoYn3f23L6vrkJxruHEpV,Michelle,30 Jahre Michelle - Das war's… noch nicht!,Mach das Licht nicht an - Version 2022,30,178120,False,0.601,0.914,8,-4.324,0,0.193,0.00835,0.0,0.2,0.343,129.969,4,party
+6Xv3X2AFSpcRcljm3u96hl,Marco Wagner;Quetschn Academy,Ei Ei Ei Ei (Heut sauf i für drei),Ei Ei Ei Ei (Heut sauf i für drei),28,281072,False,0.77,0.908,8,-4.838,1,0.0597,0.0435,1.94e-05,0.0558,0.736,135.037,4,party
+0lUYpUxAJFNI2YW6qjjpkP,Michelle,Tabu (Deluxe),Aus und vorbei,29,209640,False,0.801,0.851,11,-4.168,1,0.0471,0.101,0.0,0.457,0.831,128.052,4,party
+1K7x1fONfIj7gwGVX6OrHR,Michelle,Tabu (Deluxe),Dieses andere Gefühl,30,211480,False,0.696,0.848,11,-4.359,1,0.0504,0.184,0.0,0.248,0.429,122.988,4,party
+2VTnfpOLUd0cWZsYSyr3w0,Die Draufgänger;Rob & Chris,Grün,Superheld (Austrian Style),28,192306,False,0.747,0.8,0,-4.366,0,0.101,0.107,1.04e-05,0.193,0.822,123.024,4,party
+6SLnJ3rW3SS3EMgGE1LJlt,Wolfgang Petry,Genau jetzt!,Wir machens nochmal,29,176213,False,0.675,0.815,1,-3.745,1,0.0439,0.105,0.0,0.179,0.651,78.997,4,party
+6t3YSHqkdDoP3ZePdkL6iH,Matthias Reim,Déjà Vu - Das Beste Von Matthias Reim,Hallelujah (Ein Engel ist hier),30,223608,False,0.537,0.878,5,-4.273,1,0.0441,0.00251,0.0,0.192,0.425,128.036,4,party
+3Q5D1WJLp9TtiugDLrslp7,Jürgen Drews,Musik Box Teil 1,Amigo Charly Brown,29,255360,False,0.586,1.0,9,-4.945,1,0.135,0.0769,1.52e-06,0.957,0.394,135.058,4,party
+0xTsllHxzqwYrsPUcruf72,Die Atzen;Nena,Party Chaos,Strobo Pop,62,194173,False,0.691,0.796,11,-3.797,0,0.11,0.111,2.93e-05,0.118,0.407,135.034,4,party
+2tZUOYK2y7WNhArsa3oxUn,Patty Shukla,Roar Like a Lion!,Shake and Move,46,164000,False,0.795,0.511,7,-8.577,1,0.0415,0.298,0.0,0.149,0.113,119.908,4,party
+3NAw3ZIdUIhPLnuz3YclcV,Tim Toupet,Sie sagte Malle,Sie sagte Malle,27,179492,False,0.721,0.968,6,-2.901,0,0.176,0.00679,0.0,0.367,0.771,137.919,4,party
+6uQRw745OItLYC9eniUUeb,Cupid,Feel Good Music,Do It With Your Boots On (Zydeco Remix),28,405195,False,0.598,0.902,6,-3.537,0,0.0841,0.257,0.0,0.35,0.952,76.978,4,party
+4kVsRWZsnpSfflOIPvdG2W,Andi Latte,Saufmodus,Saufmodus,26,181758,False,0.724,0.961,7,-3.76,1,0.0779,0.0228,0.0,0.699,0.559,140.021,4,party
+0BxUQDBa1pCRlUYEELwBcH,Ina Colada,Dass wir auf Malle sind,Dass wir auf Malle sind,27,155644,False,0.645,0.971,5,-2.245,1,0.067,0.00503,0.0,0.312,0.92,139.986,4,party
+6oGi1aqIyQwCTnJHtvfAzX,Dorfrocker,Mei Bier,Mei Bier,28,158916,False,0.73,0.981,5,-2.113,1,0.0607,0.0208,0.0,0.403,0.846,117.977,4,party
+4JEqMrJhSdyeGBTris6mJq,Stefan Stürmer,Läuft bei Dir,Läuft bei Dir,27,193776,False,0.666,0.941,7,-2.09,1,0.0992,0.063,0.0,0.447,0.482,129.981,4,party
+0ksVMStKRQ5mjRT1l8bAC5,Mike Der Bademeister;Schwalmrebellen,Licht am Fahrrad,Licht am Fahrrad,27,192293,False,0.66,1.0,6,-1.51,1,0.0753,0.0363,0.0,0.78,0.772,140.006,4,party
+7IQoiWnzkwsnvb5SY4rEs7,voXXclub,Jogi (I mog di so WM Version),Jogi - I mog di so WM Version,28,182017,False,0.614,0.983,0,-1.584,1,0.0609,0.379,0.0,0.398,0.799,127.978,4,party
+1fqhQAFnSkHrrtLj00Rm4q,Die Heufresser,Partypolizei,Partypolizei,27,164407,False,0.564,0.703,9,-11.456,1,0.0453,0.0204,1.29e-05,0.0908,0.695,163.639,4,party
+5ifm7cRUZWpABGJ5ShQMuR,Ikke Hüftgold;Ingo ohne Flamingo,Dicke Hits und Kartoffelsalat aus dem Märchenland,Schon wieder besoffen,28,201460,True,0.683,0.948,6,-3.181,1,0.101,0.124,0.0,0.399,0.603,135.007,4,party
+2zeYHLABcv2evKHI3KtG3b,Jörg & Dragan (Die Autohändler);Micaela Schäfer,Deine Freundin,Deine Freundin,27,176019,False,0.845,0.995,7,-2.765,1,0.328,0.135,0.0,0.121,0.909,127.067,4,party
+1vO11Md7Y9UaRnLRckZgm9,Ingo ohne Flamingo,"Saufen morgens, mittags, abends - Die Party",Saufen statt Laufen,27,204000,False,0.79,0.969,7,-1.884,1,0.06,0.251,0.0,0.306,0.817,125.062,4,party
+10y5YwqP5yAWDIaIIP9IF7,voXXclub,Wieder Dahoam,Anneliese,28,192133,False,0.583,0.742,10,-3.791,1,0.129,0.221,0.0,0.0808,0.678,179.842,4,party
+4hEsxKaCdaCxmjCviYmE6R,Andreas Lawo,Alles nur Lüge,Alles nur Lüge,27,212897,False,0.711,0.903,10,-3.726,1,0.0355,0.00666,0.00011,0.52,0.947,131.986,4,party
+706yuILHFLva9aQQBDMmxt,Andreas Lawo,Jetzt ist Schluss,Jetzt ist Schluss,28,229090,False,0.716,0.873,6,-5.716,0,0.0346,0.0723,0.00144,0.208,0.9,131.998,4,party
+5v5J6Z8RXfP3KuwIYQPGzY,Stereoact;Chris Cronauer,So wie wir sind,So wie wir sind,28,165714,False,0.708,0.704,11,-4.816,1,0.0353,0.307,0.0,0.0846,0.513,125.934,4,party
+2QqM6ReiwnpX1uS1HNsKhl,Brings,Rockmusik,"Mama, wir danken dir",29,251360,False,0.387,0.854,6,-3.07,1,0.0691,0.2,0.0,0.0889,0.827,173.116,4,party
+6tvg7JD2fHiGzGvsPKECQO,LaPalomaLui;Ikke Hüftgold,Liebficken,Liebficken,28,172543,True,0.585,0.976,7,-2.64,1,0.0902,0.127,0.0,0.189,0.818,137.009,4,party
+3gOUaYjPYfQSklXHl0kft4,DJ Düse,"Titten raus, es ist Sommer","Titten raus, es ist Sommer - Bierkönig Mallorca Mix",27,195299,True,0.749,0.978,5,-2.747,1,0.0744,0.0334,0.0,0.291,0.725,140.049,4,party
+649HDJGIsOZomtWOcTtAhC,Mickie Krause;Oli Votti,"Biste braun, kriegste Fraun (Aprés Ski-Version)","Biste braun, kriegste Fraun - Aprés Ski-Version",28,173630,False,0.728,0.907,5,-4.788,1,0.0344,0.00496,6.37e-05,0.166,0.909,127.988,4,party
+6fiK972ZLdZyZx1R2pJDgr,Die Flippers,Singles Vol. 1 (1970 - 1979),"Schau in den Spiegel, Du bist schön",28,249746,False,0.615,0.796,4,-8.148,1,0.0306,0.108,0.0,0.0984,0.825,131.025,4,party
+5fXba7tIuoZbZNV7gMdn9O,Wolfgang Petry,Frei für Dich,Frei für Dich - Radio Version,28,204773,False,0.649,0.829,3,-7.438,1,0.0418,0.0618,0.0,0.0594,0.682,123.551,4,party
+5ISowUrTuqf0mbeRle9494,Lorenz Büffel,Bier Bauch Baby,Bier Bauch Baby,27,189600,True,0.775,0.923,7,-2.96,1,0.139,0.101,0.0,0.362,0.814,100.052,4,party
+6Rs9rts5D0gdK4Ag1M8E0o,Tobee,Hey Bobby (Richtig einen brennen),Hey Bobby (Richtig einen brennen),27,194580,False,0.627,0.998,2,-1.593,1,0.327,0.0835,0.0,0.222,0.685,134.028,4,party
+6uYeI9Q8xyohEZ2gaCCQzY,Lollies,Mittendrin,Arsch im Sand - Auf die Fresse DJ-Mix,27,180767,False,0.801,0.993,7,-1.604,1,0.0916,0.0932,0.0,0.275,0.958,134.018,4,party
+4CWlfW5P21CFB2X0dzvSTC,Micha von der Rampe,Partyanimal (DJ Robin Remix),Partyanimal,27,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+2TvkDAlQzIZ6wlgtZhUwrD,Darius & Finlay,Euro Club Hits Vol. 11,Do It All Night (Michael Mind Remix) [feat. Nicco],28,220127,False,0.702,0.857,0,-6.031,0,0.0345,0.014,1.73e-05,0.306,0.731,130.003,4,party
+37jT5FWjizTz0yzow9mj1G,Michelle,Ich würd' es wieder tun (Deluxe),Vergiss mich nicht,29,222933,False,0.744,0.841,1,-4.093,1,0.0855,0.598,0.0,0.336,0.441,127.987,4,party
+2re9vFPEy6RyspeUuGWM6g,Mountain Crew,Mountain Party #1,Hobelbank,27,133521,False,0.741,0.873,10,-5.578,1,0.0564,0.0159,0.0,0.405,0.958,142.006,4,party
+2EnNzwYRvxU9vnTWq0dXWu,Klaus & Klaus;Lorenz Büffel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Biergit (Wo es noch Bier gibt),1,213061,False,0.852,0.978,11,-4.328,1,0.0463,0.124,0.0,0.375,0.942,130.072,4,party
+5qtHGosMFCXtusgP69NkCB,Mountain Crew,Lang nimmer gsehn,Lang nimmer gsehn,27,172431,False,0.632,0.64,7,-7.085,1,0.0242,0.0638,0.0,0.547,0.563,103.052,4,party
+6gMxJxDZ6HIksfpuZp3Seh,Mickie Krause,Ein Wort sagt mehr als 1000 Bilder,Die Sonne scheint den ganzen Tach,28,183053,False,0.774,0.976,7,-2.03,1,0.0724,0.0402,0.0,0.275,0.894,130.04,4,party
+54zNh2euuIo4Oi19MNjunx,Sound Convoy,Blau von den Bergen kommen wir (ja ja jippi jippi yeah),Blau von den Bergen kommen wir ( ja ja jippie jippie yeah) - Kleiner Hütten Mix,28,225723,False,0.682,0.968,9,-4.766,1,0.22,0.0069,0.0,0.351,0.807,134.997,4,party
+1ZqtkG05kL5l5zPebk1K1j,Die jungen Zillertaler,Die jungen Zillertaler Live,Tannenzapfenzupfen,28,196200,False,0.736,0.849,10,-5.172,1,0.0592,0.133,0.0,0.35,0.794,136.067,4,party
+2tILNHmhY8DSxRRVLYxGBd,Mickie Krause,Vom Mund In Die Orgel,Wir Lagen Vor Madagaskar,28,162706,False,0.714,0.983,4,-5.269,1,0.0578,0.209,3.86e-06,0.663,0.941,139.998,4,party
+2cNuohiCfoLkxiDQw3Q9Zj,Marco Wagner;Dave Brown,Heit ruck ma aus,Heit ruck ma aus,27,218053,False,0.762,0.96,11,-3.057,1,0.0691,0.0637,0.0,0.386,0.794,135.052,4,party
+7Cx8PNer0thYHDfHye2SM9,Michael Wendler,The Very Best Of,Wenn alle Stricke reißen,27,191440,False,0.807,0.913,8,-4.697,1,0.0453,0.0204,0.000313,0.027,0.879,131.994,4,party
+3nNBjfybxXgXOXCj8oCs8Y,Matze Knop,Ballermann Party Hits Megamix 2022.2,Speiseöl (ist das neue Klopapier),0,212994,False,0.787,0.839,9,-3.08,1,0.0517,0.0643,0.0,0.0549,0.838,130.009,4,party
+1zfL8uS09HrK91GSIsmUYx,Marco Wagner;Dave Brown;DJ MNS;Harlie & Charper,House by the Sea (DJ MNS vs Harlie & Charper Remix),House by the Sea (DJ MNS vs Harlie & Charper Remix),27,284026,False,0.809,0.953,2,-6.409,1,0.0413,0.00211,0.00166,0.057,0.634,128.033,4,party
+3BuucQBIPvQagNSQxtf6fi,Klaus & Klaus;Jürgen Milski,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Heute fährt die 18 bis zum Après Ski,0,167613,False,0.759,0.999,6,-2.388,1,0.158,0.0914,0.0,0.412,0.83,130.969,4,party
+6az77dpPO3x88vmaEn2oCR,Lollies,Après Ski Hits - Party total !,Arsch im Schnee - Skihütten Mix,27,181973,False,0.742,0.985,7,-1.267,1,0.138,0.148,0.0,0.39,0.965,134.011,4,party
+3hkLOoDKQZGhzcakKfzZKF,Killermichel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Biermelodie,0,203407,False,0.606,0.974,7,-2.408,1,0.0632,0.00422,0.0,0.29,0.667,139.967,4,party
+4QhauEdXYPp4blaqNeo12M,Fäaschtbänkler;Greenhorn,Mimimi - Mittwoch (Der Party Remix - Greenhorn Remix),Mimimi - Mittwoch - Der Party Remix - Greenhorn Remix,28,171317,False,0.774,0.806,8,-6.686,1,0.116,0.243,0.0,0.131,0.665,128.022,4,party
+4XBI43xO4dutBN7IuwBj2K,Killermichel,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Biermelodie,0,200407,False,0.606,0.974,7,-2.406,1,0.0631,0.00422,0.0,0.299,0.668,139.966,4,party
+1M6DK4CUBwFvl6geAjXJU9,Killermichel,Ballermann Party Hits Megamix 2022.2,Du siehst so aus,0,196880,False,0.627,0.962,2,-3.132,1,0.227,0.0762,0.0,0.332,0.667,149.935,4,party
+6b6kcXbsegDdHivvF15we3,Die Draufgänger,#Hektarparty,Hey was geht ab (What's Up),28,255880,False,0.608,0.889,1,-3.678,1,0.033,0.104,4.35e-05,0.0543,0.835,139.984,4,party
+3nXFeeMnwTA4avtTmfmHS2,Wolfgang Petry,Nie genug,Weiber - Single Version,28,225200,False,0.828,0.897,7,-5.49,1,0.035,0.159,3.07e-06,0.0431,0.982,129.493,4,party
+6EAIyDrtFCt2Cq19XRr7wB,Troglauer,Geboren in Troglau,Heavy Volxmusic & Rock'n' Roll,27,182053,False,0.669,0.916,4,-4.184,1,0.0378,0.0273,2.01e-06,0.0457,0.969,127.077,3,party
+0HNXnhNZZtRZFLhP4hfyCP,DJ Ötzi,Hey Baby (Uh Ah),Hey Baby (Radio Mix),59,219240,False,0.666,0.968,10,-3.196,1,0.046,0.123,0.0,0.347,0.834,135.099,4,party
+453IofwHpiHCwwFnbkZn0a,Cupid,The Love Slide - Single,The Love Slide,28,269140,False,0.686,0.685,1,-5.551,0,0.0364,0.0107,0.0,0.209,0.719,123.966,4,party
+1NnGfa61KzaRI1HXRyFTeS,Buddy,Cover Clown,Tausendmal berührt,26,179053,False,0.84,0.754,0,-5.081,1,0.0424,0.0651,0.0,0.132,0.627,129.976,4,party
+5bimavYVADe76OkDgYkuli,Ingo ohne Flamingo;Klaus & Klaus,Winken und trinken,Winken & trinken,26,150250,False,0.771,0.905,7,-6.017,1,0.0796,0.000825,0.0209,0.105,0.684,120.074,4,party
+79rkeDCaRnazooohZvRSWr,Anstandslos & Durchgeknallt;Jazzy Gudd;DIZE,Zeit mit dir,Zeit mit dir,26,149047,False,0.845,0.796,4,-3.933,0,0.0771,0.0549,0.0,0.326,0.315,126.04,4,party
+6cIqKDawTLBgAypdIKSdIf,Glitzer Gischi,Rumpop'n,Rumpop'n,26,166521,True,0.677,0.96,6,-4.062,1,0.175,0.0761,0.0,0.347,0.743,137.868,4,party
+5wOby0SgajxMlOFce5HLyh,voXXclub,Hitmedley,Hitmedley,27,358653,False,0.407,0.936,3,-4.503,1,0.195,0.028,0.0,0.0686,0.6,127.047,4,party
+4FXX4P3dxc1JMBx5wVRJ5N,Tream;treamiboii;HBz,LEBENSLANG (HBz Remix),LEBENSLANG - HBz Remix,73,170783,True,0.774,0.752,1,-5.534,1,0.137,0.0481,0.0,0.0719,0.546,139.965,4,party
+48pCWlPlHAurPKBy3o0U0Q,Höhner,10 Johr Stimmung Us Kölle,Echte Fründe,28,172933,False,0.706,0.545,9,-12.093,1,0.0686,0.228,0.0,0.105,0.706,126.245,4,party
+3VihVUTIg6Jw0RKYG9XjSZ,Ikke Hüftgold;Honk!,Alle Blau (Bella Ciao),Alle Blau (Bella Ciao),27,175176,False,0.675,0.895,5,-3.057,0,0.244,0.0798,1.35e-06,0.383,0.477,129.986,4,party
+1IHKDOjTUBnOruB5W0ZbG4,Talstrasse 3-5,Kackparty,Electrojhetto,28,208000,False,0.733,0.75,11,-7.462,0,0.0771,0.00543,0.000481,0.329,0.293,125.986,4,party
+2YCuxdIyoIpXp2Jn0tR5Fr,Lorenz Büffel;Honk!,Der heisse Micha,Der heisse Micha,27,203249,False,0.387,0.938,0,-2.576,1,0.22,0.0116,0.0,0.263,0.419,131.897,4,party
+4yTjpbLDEOzQTbTZPTmm0E,DJ Ötzi;Tim Peters,Sei du selbst - Party 2.0,Sei du selbst!,27,227586,False,0.5,0.834,0,-4.505,1,0.0559,0.0252,0.0,0.113,0.675,121.143,4,party
+4oVpusKiRcIOhTZd8bxLpM,Ikke Hüftgold,Dicke Hits und Kartoffelsalat aus dem Märchenland,Bongiorno,26,193166,True,0.678,0.973,3,-3.65,1,0.0552,0.102,0.0,0.359,0.937,140.042,4,party
+75PBVFA7kwamMcSOQSr9bn,DJ Düse,Für's ganze Leben,Für's ganze Leben,26,174000,False,0.647,0.94,6,-3.729,0,0.195,0.0312,0.0,0.363,0.404,133.091,4,party
+2IHTPzWvCxfYdLzdWofJYp,Michael Wendler,The Very Best Of,Nina,26,232653,False,0.757,0.864,0,-5.678,1,0.0441,0.116,0.00073,0.259,0.726,128.063,4,party
+3O9dtyJX8qJmlhKxWvn2yv,Matthias Reim,Meteor,Erzähl mir nichts von Liebe,28,223626,False,0.494,0.9,7,-5.335,1,0.062,0.00108,9.59e-06,0.394,0.58,155.924,4,party
+0w2tYr7Qf4cjLRVg7BYf76,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),Liebchen,28,193240,False,0.585,0.887,5,-4.07,1,0.0506,0.0291,0.0,0.343,0.958,133.904,4,party
+0FrqjC4O3M5cSNk9WTWkaD,Stereoact;Mickie Krause,#Schlager 2,Fiesta Mexicana,28,174853,False,0.762,0.858,2,-6.666,1,0.0351,0.0014,0.0,0.131,0.606,128.033,4,party
+2gFS06JSiVEp51OKLcn6Aj,Wolfgang Petry,Konkret,Da geht mir voll einer ab - Radio Version,28,213066,False,0.685,0.901,7,-5.438,1,0.0306,0.023,0.0,0.279,0.859,130.018,4,party
+4L5Xy8E5cnwYONbo4EysW3,Andreas Gabalier,Home Sweet Home (International Special Edition),Go For Gold,27,215266,False,0.663,0.881,7,-5.503,0,0.0395,0.208,0.0,0.147,0.335,126.939,4,party
+5Z6RA6UoASzKsQTa8iOZpY,Andreas Gabalier,MTV Unplugged (Extended Version),Bergbauernbuam - MTV Unplugged,26,291725,False,0.635,0.854,4,-8.212,1,0.0378,0.141,5.94e-05,0.712,0.481,136.991,4,party
+1EbVLh0tw6gKcIuvITg8dp,Lorenz Büffel,Johnny Däpp (Dalora Remix),Johnny Däpp - Dalora Remix,27,263669,False,0.391,0.945,10,-3.303,1,0.254,0.0722,0.0,0.0666,0.549,148.024,3,party
+5fN2cuJ3zE7JiXuGoS0BOp,Stereoact;Julia Lindholm,"Gib Mir, Gib Mir, Gib Mir!","Gib Mir, Gib Mir, Gib Mir!",28,147233,False,0.688,0.714,9,-5.944,0,0.0653,0.00736,0.000231,0.355,0.352,126.037,4,party
+5ez3IjLqRf5GTsUBBKIcKm,Troglauer,Wer hätt' des denkt!?,Sommer,26,175986,False,0.65,0.914,9,-4.303,1,0.121,0.0652,0.0,0.278,0.807,95.085,4,party
+7rH09u4SVgZbrbf5nuMFtC,Geier Sturzflug,Pure Lust am Leben 2011,Pure Lust am Leben 2011,27,257471,False,0.555,0.986,10,-0.982,1,0.143,0.155,0.0,0.208,0.637,137.931,4,party
+6aqKYlxTgM0oqHYgmbftdB,Fäaschtbänkler,Partyplanet,Jetzt und hier,27,203733,False,0.69,0.464,0,-5.379,1,0.0388,0.0102,0.0,0.315,0.457,125.967,4,party
+7bT8u0QjOlURsyrxUQrVeC,Michelle,Ihre großen Erfolge,Traumtänzerball,27,163360,False,0.668,0.863,4,-5.801,0,0.0544,0.522,0.0,0.804,0.838,132.175,4,party
+1XeaiD6t3Xr39qzsXoYxYI,DJ Herzbeat;Sonia Liebing,Maybe (DJ Herzbeat House Mix),Maybe - DJ Herzbeat House Mix,26,209619,False,0.725,0.844,5,-5.165,1,0.0441,0.00807,0.0,0.131,0.628,126.036,4,party
+1HZQUXcbIXCNzNrVQabWal,Wolfgang Petry,"Verlieben, Verloren, ...",Was ist denn schon dabei,27,221066,False,0.656,0.644,0,-9.897,1,0.0323,0.0886,5.44e-06,0.427,0.972,113.938,4,party
+2DQ182lBCYXm5xjsc1DbmZ,Die Flippers,Nur vom Feinsten - Lasst uns tanzen!,Wenn in Petersburg die weißen Rosen blüh'n,27,227000,False,0.67,0.542,0,-12.727,1,0.0286,0.139,0.0,0.12,0.699,121.785,4,party
+4bwqbWADDwqw69CajnGfFL,Jägermeister DJ Alex;Matty Valentino,Apres Ski Hits 2018 Party - Die XXL Schlager Discofox Fete (Feiern in der Karneval und Fasching Fox Hütte bis 2019),Auffe aufn Berg,26,231424,False,0.637,0.974,8,-3.238,1,0.244,0.135,0.0,0.0929,0.588,140.113,4,party
+3l5f0c3cGee49Tmc6DxpCY,Rick Arena,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,"Keine Termine, leicht einen sitzen",0,175614,False,0.624,0.956,9,-3.55,1,0.0917,0.0277,0.0,0.52,0.698,145.022,4,party
+11esErzymyxJENMot4S3a8,Nico Gemba,Hero,Der letzte Fox - Reloaded,26,249706,False,0.647,0.962,0,-3.11,1,0.0357,0.159,2.53e-06,0.369,0.813,129.023,4,party
+0P8dtc8dBpDyACNGkO8kh0,Jürgen Drews,Es war alles am besten,Von Null auf Hundert,28,247173,False,0.653,0.994,9,-3.744,1,0.13,0.022,0.0,0.329,0.534,134.982,4,party
+6pLLqDBq11NzPXkrFLl7TD,Marry,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Sinkt das Niveau,0,182470,False,0.546,0.965,7,-3.273,0,0.196,0.00922,0.0,0.401,0.537,147.02,4,party
+2RQ2v0Sw7NtI0n9EUF6pqx,Fäaschtbänkler,Mal so mal so,Superheld,27,212800,False,0.615,0.633,0,-7.396,1,0.0523,0.00962,0.00121,0.297,0.828,159.955,4,party
+5sJ27V2oj8j3m77wCDKSEu,Marco Wagner;Peter Power;Flying Hirsche,A Watschn,A Watschn,26,240733,False,0.676,0.797,1,-6.547,0,0.0463,0.00584,0.0,0.376,0.536,128.006,4,party
+06PwA8LlDEmffZF1foX66r,Rick Arena,Ballermann Party Hits Megamix 2022.2,"Keine Termine, leicht einen sitzen",0,175614,False,0.624,0.956,9,-3.55,1,0.0917,0.0277,0.0,0.52,0.698,145.022,4,party
+1OkRXEa6xejKqEf13S8zBb,Nico Gemba,Hero,Am Zuckerwattenstand (Recall),27,238000,False,0.687,0.948,7,-3.368,1,0.033,0.00473,0.000369,0.159,0.877,130.048,4,party
+3V1NX0a5YesqBlhnX95saJ,Die jungen Zillertaler,Ernte 2k23,Bauerntanz,0,165480,False,0.628,0.978,5,-2.763,1,0.0585,0.0363,0.0103,0.474,0.959,120.068,4,party
+5DOalxLZY2GmlEJQqBx2wB,Jürgen Drews;Ben Zucker,Ein Bett im Kornfeld,Ein Bett im Kornfeld,28,179213,False,0.649,0.912,9,-3.962,1,0.0589,0.0337,0.0,0.145,0.806,118.022,4,party
+7czHOUFfsmfPuXPchF2mB8,Die jungen Zillertaler,Weihnachten Playlist,Jingle Bells - JUZI-Version,0,152426,False,0.666,0.874,0,-4.308,1,0.065,0.0989,5.62e-06,0.0639,0.966,200.073,4,party
+3H55Ngdlxe6undMmfWFfyi,Marry,Ballermann Party Hits Megamix 2022.2,Sinkt das Niveau,0,182470,False,0.546,0.965,7,-3.273,0,0.196,0.00922,0.0,0.401,0.537,147.02,4,party
+1o6a4OkASt7xexcBBsW3b9,Die jungen Zillertaler,Ernte 2k23,Das Beste am Sonntag,0,200426,False,0.752,0.945,0,-3.238,1,0.0321,0.0139,3.78e-06,0.0607,0.963,130.024,4,party
+3Wl2DPDY3jlE8z54TPjNsl,Die jungen Zillertaler,Beste Weihnachtslieder,Wenn der Christbaum brennt,0,193080,False,0.825,0.908,0,-3.793,1,0.0308,0.026,0.0,0.146,0.945,120.037,4,party
+3qwZmJ3EhItnOJKgu3Ti06,Die jungen Zillertaler,Weihnachten Playlist,Wenn der Christbaum brennt,0,193080,False,0.825,0.908,0,-3.793,1,0.0308,0.026,0.0,0.146,0.945,120.037,4,party
+6dnDqXvIdqcBQw2uNNUfYn,Kreisligahelden,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Kreisligahelden sind wir,0,205013,False,0.57,0.998,9,-3.036,1,0.168,0.0265,0.0,0.416,0.65,139.994,4,party
+22GQ0ju8ib6TDxWtwrnM7t,Marry,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Sinkt das Niveau,0,181813,False,0.565,0.962,7,-3.415,0,0.125,0.00818,0.0,0.398,0.592,146.988,4,party
+5obFv9d9Xbi45hrzuWxGya,Fäaschtbänkler,Alpaland,Schunkelmunkel,26,166493,False,0.748,0.492,7,-7.963,1,0.0288,0.355,6.4e-05,0.271,0.933,104.99,1,party
+2Q69LDDBUzbqwvCGVMV8kI,Tim Toupet,Allee Allee 2022,Allee Allee 2022,26,184490,False,0.608,0.885,7,-4.611,1,0.0436,0.0163,0.0,0.248,0.431,138.079,4,party
+26AufUF4uxf96BiWK73lwv,Tim Toupet,Alkohol Blues,Alkohol Blues,26,205909,False,0.735,0.915,0,-1.761,1,0.0402,0.118,0.0,0.682,0.577,131.968,4,party
+145z7XxG2JVta8JrwEdMLr,DJ Ostkurve;Die jungen Zillertaler,Schei wi dei wi du,Schei wi dei wi du,26,177960,False,0.68,0.948,0,-4.488,1,0.0661,0.0533,8.97e-06,0.287,0.315,120.003,4,party
+2bLJm6ovrfk1c4yfEcOdjE,DJ Mox,"Zipfel eini , Zipfel aussi","Zipfel eini , Zipfel aussi",26,207853,False,0.667,0.968,2,-5.542,1,0.085,0.0697,0.0,0.285,0.961,132.025,4,party
+3vjS4KYaj8iUB3f85lpZqO,Max Weidner,Pack ma's,Schlagerbua,25,197173,False,0.627,0.921,0,-4.806,1,0.146,0.0236,0.0,0.351,0.647,137.989,4,party
+2o1OgANWwg4A8iXBU3V7Yi,Mia Julia;Ikke Hüftgold,Mallorca Style,Wir sind Mallorca,26,189986,False,0.608,0.962,5,-2.414,1,0.101,0.0306,0.0,0.249,0.427,140.056,4,party
+6W27SlRwOFUoHw4hilbxTs,Glitzer Gischi,Hupen Heidi,Hupen Heidi,25,140982,False,0.788,0.902,5,-4.813,0,0.173,0.0344,0.00111,0.323,0.724,142.128,4,party
+0pW5MgSW6vVznIfpkLYLPp,Die Flippers,35 Jahre - Ein Leben für die Zärtlichkeit,Nur wer die Sehnsucht kennt,27,213186,False,0.56,0.856,0,-4.552,1,0.036,0.146,0.0,0.492,0.705,118.064,4,party
+0akkzwbbjmal0HXL8wHjHr,Markus Becker,Alle meine Entchen (2022),Alle meine Entchen - 2022,26,112000,False,0.639,0.932,7,-2.759,1,0.124,0.00439,0.0,0.153,0.877,127.98,4,party
+5dAaJ0adZP2C0eYP3unJvx,Tim Toupet,Knackarsch,Knackarsch - Single Mix,26,148178,False,0.768,0.956,0,-2.544,1,0.039,0.0942,0.0,0.207,0.88,125.931,4,party
+67UZi1Fezn05O1oetjIdLm,Partynator,"Saufen morgens, mittags, abends - Die Party",Mama Laudaaa,26,219170,False,0.702,0.884,11,-4.742,1,0.0916,0.111,0.0,0.373,0.563,140.072,4,party
+4PhHX21AhgSU7wAkgGYxyF,Harris & Ford;FiNCH,"Freitag, Samstag (Remixes)","Freitag, Samstag",25,156356,True,0.638,0.961,10,-3.828,0,0.121,0.0124,0.0052,0.0663,0.353,138.038,4,party
+1x9PpsSTNTjuEGfJDX9Xhu,Unnormal,Taylor,Taylor,26,218000,False,0.708,0.964,0,-1.884,1,0.184,0.0805,0.0,0.147,0.568,141.961,4,party
+3Fr9X7PmuWk5rJUPgVi3p9,minnie rock,Meine Medizin,Meine Medizin,26,167967,False,0.717,0.854,8,-5.218,1,0.0591,0.135,0.0,0.173,0.548,139.968,4,party
+0AWOqczvnAzLC4tSbvVD86,voXXclub,Donnawedda (I mog di so - Edition),Spitzenmadl,27,204760,False,0.724,0.782,0,-4.048,1,0.0562,0.0394,0.0,0.113,0.862,125.999,4,party
+0vGpo1tjIGJFTD0I19fDx1,Die 3 Besoffskis,Das Beste,Wir trinken das schäumende Bier,26,156240,True,0.831,0.746,5,-4.373,1,0.0441,0.337,0.0,0.416,0.782,118.397,4,party
+5D7pZbo7zTa1BgBm696YXb,DualXess;Stefan von BierKeller;Inked_Princess__,Butzemann,Butzemann,26,126511,False,0.482,0.889,1,-3.993,1,0.122,0.0132,0.0,0.133,0.277,149.969,4,party
+7haZpHaWIynra5nhYhdkfo,Fäaschtbänkler,Bella Ciao,Bella Ciao,26,156801,False,0.886,0.59,5,-6.03,1,0.0788,0.0682,0.00304,0.14,0.777,124.964,4,party
+2IHTPzWvCxfYdLzdWofJYp,Michael Wendler,The Very Best Of,Nina,26,232653,False,0.757,0.864,0,-5.678,1,0.0441,0.116,0.00073,0.259,0.726,128.063,4,party
+5KSJdAkeZzEIvNF660M9NE,Glitzer Gischi,Rätätä Oktoberfest,Rätätä Oktoberfest,26,151483,False,0.827,0.952,3,-2.489,1,0.256,0.117,0.0,0.332,0.801,131.9,4,party
+346iuGigv691e0llhmAxuw,Brings,Mir sin widder do,Mir sin widder do,28,267847,False,0.558,0.809,9,-5.749,1,0.0329,0.197,0.0,0.924,0.634,79.988,4,party
+3w4vMxIZW2UAL2g7bJWC3U,Tim Toupet;DJ Padre,Humba Täterä (Gebt Mir Ein H vs. DJ Padre),Humba Täterä - Single-Version,26,214666,False,0.721,0.993,1,-1.816,0,0.193,0.15,0.0,0.381,0.44,127.951,4,party
+7BfgFRRWdkUhFgV49E4YwZ,Bierkapitän,Schere Stein paar Bier (Schnick Schnack Schluck),Schere Stein paar Bier (Schnick Schnack Schluck),26,183698,False,0.688,0.983,7,-3.336,0,0.0989,0.0309,1.2e-06,0.807,0.713,145.966,4,party
+1SR21MUIPddO8uA5fSvuzX,Ingo ohne Flamingo,"Saufen morgens, mittags, abends (Remix 2018)","Saufen morgens, mittags, abends - Remix 2018",25,224001,False,0.656,0.954,1,-4.357,0,0.117,0.0607,2.46e-05,0.379,0.577,133.985,4,party
+3DCi2g9Dc8KDWW4fq4Xd7z,Michelle,Ich würd' es wieder tun (Deluxe),Du machst mich süchtig,27,221893,False,0.686,0.862,0,-4.387,0,0.031,0.202,5.27e-06,0.126,0.613,123.995,4,party
+1UFPqVW0o2qLZ4S72LkRXD,Troglauer,Ey-Oh!,Ey-Oh!,26,182520,False,0.694,0.895,7,-5.777,1,0.0376,0.0187,0.0,0.223,0.854,94.982,4,party
+095fS1xLm1adrvo1TSt5D2,Asphalt Anton,Morgenrot,Morgenrot,26,157846,False,0.663,0.898,7,-3.072,1,0.124,0.0534,0.0,0.259,0.367,140.024,4,party
+7LP1R2x2LbTQf5eD2NF023,Stereoact;Lena Marie Engel,100%,Hallöchen,27,131720,False,0.767,0.79,11,-6.157,0,0.0896,0.048,4.04e-06,0.24,0.838,126.993,4,party
+4GK2HN2CyBq3cGDSbkqVqr,Michelle;Matthias Reim,Rouge,Idiot,27,192293,False,0.646,0.857,0,-4.065,1,0.0323,0.22,0.00152,0.251,0.71,136.038,4,party
+13u5dUr765DcDP72AiXNFR,Ina Colada,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Wodka mit irgendwas,0,182546,False,0.624,0.957,5,-3.276,0,0.055,0.0384,0.0,0.349,0.784,145.049,4,party
+1cjbGbHvx3UtHXXpBPVxo5,Ina Colada,Après Ski Megahits 2023,Wer nicht springt der muss bezahlen,0,215346,False,0.588,0.994,1,-2.465,1,0.0756,0.213,0.0,0.385,0.804,74.992,4,party
+5q9vjafKIiuZ4mE5u4cABY,Honk!;Dalora,Hallo Helmut (Andere Farbe) [Dalora Hardstyle Bootleg],Hallo Helmut (Andere Farbe) - Dalora Hardstyle Bootleg,25,263937,False,0.364,0.854,9,-6.584,0,0.0781,0.0437,0.0,0.0766,0.481,155.017,4,party
+2xwP8GKfFoNJXVnnnER2Tp,Peter Wackel,Ballermann Stars - Karneval Schlager Hits 2019 - Party Schlager Hits der Stars zum Fasching und Apres Ski,Schwarze Natascha - Party-Remix XXL,26,179826,False,0.756,0.965,9,-1.612,1,0.044,0.192,0.0,0.358,0.969,130.036,4,party
+45IKNXz8XDwG9hyDynwqj6,Carina Crone,Es eskaliert eh,Es eskaliert eh,26,160589,False,0.765,0.863,11,-2.228,1,0.232,0.0845,0.0,0.305,0.526,132.092,4,party
+4IfIb7mBbnAUSdpwtnJGpT,Andreas Gabalier,Best Of Volks-Rock'n'Roller,I sing a Liad für di - Best Of VRR,26,187734,False,0.715,0.91,0,-2.713,1,0.0377,0.103,0.0,0.0869,0.904,126.023,4,party
+3Fji40dDMcygkIaW1far2G,Micha von der Rampe,Ballermann Hits 2022,Partyanimal,25,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+7kXYHAKJrOT6yaBlughcUa,Ina Colada,Ballermann Party Hits Megamix 2022.2,Wer nicht springt der muss bezahlen,0,213902,False,0.577,0.995,1,-1.934,1,0.0856,0.225,0.0,0.388,0.795,74.996,4,party
+0RQut91qxjex5JB6RrkJab,Ina Colada,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Wer nicht springt der muss bezahlen,0,213902,False,0.577,0.995,1,-1.934,1,0.0856,0.225,0.0,0.388,0.795,74.996,4,party
+2Plk8oHNWpHEmLEiK8VMq0,Ina Colada,Après Ski Fussball Party 2022 - Wir feiern auf den Hütten,Wer nicht springt der muss bezahlen,0,213902,False,0.577,0.995,1,-1.934,1,0.0856,0.225,0.0,0.388,0.795,74.996,4,party
+2KaDpx1e5gSJwmw3A9cIYB,Die Flippers,Singles Vol. 1 (1970 - 1979),Rock 'n' Roll Lady,27,223453,False,0.556,0.766,0,-8.864,1,0.0393,0.283,1.76e-06,0.349,0.555,113.999,4,party
+1r27kdNMQjfbTuoS61BSYX,Jägermeister DJ Alex;Matty Valentino,Ballermann Einhorn - Mallorca Schlager Hits 2017 für deine Party,Auffe aufn Berg,26,231424,False,0.637,0.974,8,-3.238,1,0.244,0.135,0.0,0.0929,0.588,140.113,4,party
+1Xfh1QJb4D1ZJkywnWI5cG,Brings,Liebe gewinnt,Sag et op Kölsch,27,281880,False,0.482,0.8,7,-5.419,1,0.0361,0.0832,0.0,0.209,0.549,199.804,3,party
+5yYD53kfXBuWHTKBxps78B,Michael Wendler,The Very Best Of,Prinzessin,26,221240,False,0.844,0.827,10,-3.966,1,0.0429,0.139,0.000444,0.051,0.846,135.0,4,party
+7pkcq0eJMvqvaWvKPHbnXm,Matthias Reim,Déjà Vu - Das Beste Von Matthias Reim,Im Himmel geht es weiter,27,234480,False,0.541,0.751,4,-6.818,0,0.0339,0.168,4.49e-06,0.356,0.674,80.004,4,party
+26ih4I05lCnSO6KObFtnxh,Marry;DualXess;Balineiro,Ballermann Party Hits Megamix 2022.2,Hände nach oben,0,174500,False,0.561,0.989,7,-0.343,1,0.0583,0.00521,0.0,0.422,0.45,142.015,4,party
+1Q7Ppfh8SQVTgRSFLCWy9m,Marry;Harris & Ford,Ballermann Party Mix - Alle Après Ski Hütten Hits der letzten Jahre,Geboren um zu feiern - Radio Edit,0,177421,False,0.595,0.836,11,-4.269,1,0.0532,0.129,0.0,0.341,0.552,127.983,4,party
+29Z2xemtVffTwCu58AZ7B0,Fäaschtbänkler;Morgen Freimann;Luke K,Konfetti (Morgen Freimann & Luke K Remix),Konfetti - Morgen Freimann & Luke K Remix,26,153547,False,0.733,0.858,0,-6.042,1,0.184,0.0688,1.5e-06,0.162,0.616,127.913,4,party
+2Rj2c3ZpBK0bLIBqLfx1z7,Mickie Krause,Ballermann Hits 2022,Kann ich so nicht sagen müsst ich nackt seh'n,26,216304,False,0.57,0.987,8,-2.664,1,0.245,0.0491,0.0,0.276,0.707,144.011,5,party
+3i9ytL8WDi7W1Gt4hy0k8H,Norman Langen,Dieses Gefühl,Yolanda,26,205373,False,0.721,0.908,7,-3.142,0,0.0787,0.0609,0.0,0.362,0.512,107.991,4,party
+49MGp2seNFJDLbf1PMI5G4,Wolfgang Petry,Genau jetzt!,Geh mir aus den Augen,27,219440,False,0.713,0.826,7,-3.699,0,0.0381,0.0314,1.54e-05,0.101,0.371,125.018,4,party
+5ddiqtnKYhGULuJATEAJsM,Cooltime Kids,EVVIVA Canzoni per Bambini,Alphabet Song,48,106706,False,0.851,0.473,0,-7.552,1,0.0361,0.753,0.0,0.076,0.836,115.988,4,party
+5CDKYpUBEBuScJricxppcb,DJ Ostkurve;Anny,Sebastian,Sebastian,25,168000,False,0.695,0.881,0,-4.146,1,0.12,0.0441,0.0,0.855,0.51,139.953,4,party
+6JQg4pXTuNTOEMJVRGKhwy,DJ Robin;Schürze,Festzelt Musik 2022,Layla,24,185437,False,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,0.388,140.082,4,party
+6wfFsXmUAvscjjoyIkHWg7,Cooltime Kids,best of Canzoni per Bambini,Alphabet Song,27,106706,False,0.851,0.473,0,-7.552,1,0.0361,0.753,0.0,0.076,0.836,115.988,4,party
+70BoTm10Aj9ersbFg0KJyA,Troglauer,Walkampf,Walkampf,25,219133,False,0.419,0.891,10,-4.582,1,0.245,0.0747,0.0,0.34,0.657,137.267,4,party
+74ixAM1p5dSKDeggxPXJBC,Jörg & Dragan (Die Autohändler),Superhupen 2011,Superhupen 2011,25,226285,False,0.748,0.971,9,-2.526,1,0.0399,0.0669,1.19e-05,0.347,0.963,139.999,4,party
+2rvdw3KfRX2ePmOH3XEIfM,Cupid,Feel Good Music,Do It With Your Boots On,26,255574,False,0.58,0.928,6,-3.089,0,0.0493,0.118,0.00395,0.151,0.966,76.99,4,party
+2oce313RygoagLfqoD4DYi,Die Flippers,Ihre frühen Jahre Vol. 1,Mama Mia,26,196720,False,0.672,0.866,3,-8.591,1,0.071,0.123,0.0,0.0752,0.889,133.591,4,party
+7Jvuz3aFDRiXOFTOlA0cMv,NIC,Ist mir egal (Was andere an uns stört),Ist mir egal (Was andere an uns stört),25,207089,False,0.735,0.97,8,-4.708,1,0.036,0.14,0.0,0.374,0.698,129.014,4,party
+4C4pU60ahf7UjFwxnQdetc,Matthias Reim,Meteor,Ich geb uns nicht auf,26,222000,False,0.486,0.79,2,-5.358,1,0.0393,0.00385,0.000101,0.166,0.296,172.041,4,party
+6aZMMPBl5FuOamKDBPzfNL,Höhner,Alles op Anfang,Kumm loss mer danze,26,219360,False,0.631,0.884,11,-4.629,0,0.0324,0.0063,5.18e-06,0.106,0.689,124.983,4,party
+1biZ7RbSpj3g02Cbf3MT0E,minnie rock;Franco Piccolini;Luigi Ferrari,7 Tage blau,7 Tage blau,25,167723,False,0.866,0.7,9,-6.385,1,0.216,0.0938,2.49e-06,0.162,0.526,131.643,4,party
+7LWhkYn0OVFveXTMo7dqJ9,voXXclub,Geiles Himmelblau,Geiles Himmelblau,26,178866,False,0.714,0.86,9,-6.646,0,0.091,0.0878,0.0,0.341,0.895,135.984,4,party
+3K7cOYoNt1XlQsa9QDVe5n,Andreas Gabalier,Home Sweet Home (International Special Edition),Traditional Clothing,25,227893,False,0.721,0.844,7,-4.627,1,0.0288,0.229,0.0,0.18,0.598,118.012,4,party
+5k7Gu7IDYFEDgNazdpBIUt,Andreas Gabalier,Herzwerk (Geschenkedition),I sing a Liad für di - Disco-Rock-Remix,25,187453,False,0.639,0.986,0,-3.932,1,0.127,0.0428,0.0,0.339,0.916,126.008,4,party
+5Tcx47dQR8689BBDyek9V7,Mia Julia,Geile Zeit,Was wäre wenn,25,219375,False,0.599,0.811,6,-4.035,0,0.0405,0.0514,0.0,0.0824,0.364,128.053,4,party
+71META1mk0BWEIZclptNKJ,Almklausi,"Saufen morgens, mittags, abends - Die Party",Schwarze Natascha - Party Version,25,198589,False,0.644,0.987,9,-0.96,1,0.261,0.227,0.0,0.3,0.836,130.027,4,party
+3w4oWqtr5I9TAoArD44YjL,Anstandslos & Durchgeknallt,Liebficken (2021 Mix),Liebficken - 2021 Mix,26,133846,True,0.775,0.856,0,-4.555,1,0.119,0.106,0.0,0.365,0.711,129.977,4,party
+6zWPJn72r0wBPGJY29TjDE,Peter Wackel,Eviva Espana 2011,Eviva Espana 2011,26,194141,False,0.692,0.995,0,-1.901,1,0.0303,0.0269,0.0,0.209,0.877,140.008,4,party
+4feECubYgIlbpfypEfyFFZ,Michelle,Ich würd' es wieder tun (Deluxe),Der Deal,26,188826,False,0.676,0.861,6,-3.2,1,0.0501,0.186,0.0,0.0474,0.845,131.957,4,party
+22vmMJlhaqVKluZKBRoeW6,Andreas Lawo;Mick Wendir,Jetzt ist Schluss (Mick Wendir Remix),Jetzt ist Schluss - Mick Wendir Remix,26,224023,False,0.695,0.96,11,-3.203,1,0.108,0.13,9.74e-06,0.345,0.827,131.937,4,party
+7lPLU2Ux4J4ozNIUq90JhH,Die Flippers,Ihre großen Sommerhits,Acapulco,26,194333,False,0.648,0.773,7,-9.777,1,0.028,0.343,1.93e-05,0.0994,0.764,124.562,4,party
+6jA42QIDyBR69PFOzpStQM,Höhner,Best Of - 25 Jahre,Echte Fründe - Remake '97,26,145400,False,0.628,0.868,5,-5.37,1,0.037,0.0308,0.000154,0.245,0.929,127.098,4,party
+6V6NyqSDWLqtJinNR9EtvQ,Fäaschtbänkler,Orgasmusik,Orgasmusik,25,268266,False,0.703,0.749,10,-4.262,1,0.0318,0.0644,6.76e-06,0.0997,0.825,125.978,4,party
+30vwZnErkvSYrhEvfAfJnp,Stereoact,Millionen Schätze,Millionen Schätze,26,178054,False,0.715,0.763,8,-2.93,1,0.0364,0.283,4.87e-06,0.14,0.579,119.949,4,party
+49229NfRnX3nL9ITtwqPHs,Michelle;BANGERZ,Anders! (Remixe),Anders ist gut (BANGERZ Remix),26,187920,False,0.799,0.924,2,-3.709,0,0.0506,0.134,3.71e-06,0.089,0.962,124.983,4,party
+3XXigLvf1mFw8Zk7Y09kNB,Micha von der Rampe;Johnny Dampf,Ticki Tacka (Pistenedition),Ticki Tacka - Pistenedition,25,202538,False,0.81,0.981,2,-3.514,0,0.281,0.0955,0.0,0.208,0.803,138.003,4,party
+7bivqwmImhO1Zy6anBRDMK,Mike Der Bademeister;Die Spassrebellen,Zurück zu dir (Hallo Klaus),Zurück zu dir (Hallo Klaus) - Party Mix,26,200022,False,0.652,0.998,9,-2.637,1,0.0514,0.119,0.0,0.238,0.926,137.979,4,party
+4c4GOsVJAqasjGKkGscYWK,Lorenz Büffel,Johnny Däpp (Ich will Mallorca zurück) [Krawall Mix],Johnny Däpp (Ich will Mallorca zurück) - Krawall Mix,25,223447,False,0.807,0.839,10,-3.843,1,0.0764,0.0717,0.0,0.0338,0.847,132.019,4,party
+2T8Mbw2rZuH5l6hImRJ9wA,Die Draufgänger;Summerfield,"Baby, du siehst gut aus (Summerfield Remix)","Baby, du siehst gut aus - Summerfield Remix",25,187955,False,0.687,0.931,9,-3.339,0,0.0383,0.0113,2.62e-06,0.296,0.962,136.011,4,party
+4CjaNHwSulDYuLIXoPRGNP,Mia Julia,Mitten in Mia,Weil sie für immer ist,25,203426,False,0.497,0.819,8,-3.792,1,0.0881,0.001,0.0,0.295,0.425,179.927,4,party
+1XiEGQzAtcF1L1DwT7r1Pb,Killermichel,Auswärts sind wir asozial - Die besten Mallorca Fußball Schlager Hits zur Europameisterschaft in Frankreich 2016 (Auf uns und jeder für jeden – Wir sind die Mannschaft und feiern mit Yaya Kolo die Fussball EM Party),Auswärts sind wir asozial,25,215983,False,0.511,0.973,8,-2.713,0,0.0928,0.0678,0.0,0.958,0.587,145.002,4,party
+3x1goJzS8hkWGVHJnBiBAj,Ina Colada;Tom Juno,"Die 100 grössten Party Classics, Vol. 1",Die Gummibärenbande,25,155644,False,0.669,0.985,7,-2.38,0,0.161,0.107,0.0,0.333,0.725,133.961,4,party
+14o6crwwu4mZ9BN6RDOuMw,Andy Bar,Mallorca 2015 - Die mega Mallorca Hits für die XXL Schlager 2016 Party bis 2017,Wir sind wieder da - L'amour Toujours,25,198000,False,0.705,0.97,2,-2.275,1,0.0299,0.126,4.27e-06,0.267,0.969,139.966,4,party
+4CXMnBWb6SAQtcbXN3xhbo,Chaos Team,Ballermann Party Hits Megamix 2022.2,Ein Leben für die Party,0,175190,False,0.656,0.913,11,-3.83,1,0.0501,0.148,0.0,0.336,0.697,142.017,4,party
+3o6eeWvRQhzE0L1z20Afes,Chaos Team,Après Ski Megahits 2023,Ein Leben für die Party,0,176280,False,0.642,0.914,11,-3.82,1,0.0457,0.135,0.0,0.332,0.717,142.004,4,party
+7EI8SfODQRCTk3AMfSOgWb,Die Draufgänger,Mit Herz und Freud' a Musikant,Aber dich gibt's nur einmal für mich,26,200946,False,0.683,0.678,0,-5.496,1,0.0234,0.214,0.0,0.36,0.75,98.468,3,party
+4OssvAPUZxVAPO4xJgkUlA,Michelle,So Was Wie Liebe,Wirst du noch da sein,26,235226,False,0.492,0.761,4,-1.78,1,0.027,0.448,1.18e-06,0.309,0.36,149.153,3,party
+4jVuGl8cpREZPuFoK6gNa8,Höhner,Wir sind für die Liebe gemacht (Deluxe Edition),Wir halten die Welt an,26,189840,False,0.671,0.697,7,-5.339,1,0.0333,0.303,0.0,0.225,0.796,129.019,4,party
+1dOqQ3nhApcuB8Ia0bI8mT,Anna-Maria Zimmermann,Tausend Farben hat das Glück,Tausend Farben hat das Glück,26,193813,False,0.728,0.904,7,-4.393,1,0.0392,0.00529,2.73e-06,0.301,0.826,128.007,4,party
+14F7mNIqR3ixIswXIWZs73,Brings,Liebe gewinnt,Liebe gewinnt,26,260093,False,0.529,0.642,1,-5.535,0,0.0313,0.0662,0.0,0.357,0.358,144.024,4,party
+2tY8OoNxbY4mR3sNRFzKBG,Chaos Team;Andy Luxx;Alex Engel,DJ Cashi präsentiert Mallora Closing 2022 powered by Xtreme Sound,Wahre Liebe,0,175171,False,0.732,0.92,7,-4.533,1,0.083,0.0668,6.11e-06,0.345,0.408,150.022,4,party
+5mkjplHZNNa8ebq0ZEucBh,Cooltime Kids,Halloween y diversión para peques,Ding Dong The Witch Is Dead,0,161560,False,0.596,0.964,7,-3.708,1,0.0515,0.0109,7.85e-06,0.235,0.799,124.025,4,party
+77oS7TujuaLAwUFVmd4E3f,Wolfgang Petry,"Verlieben, Verloren, ...",20 Jahre danach,26,218373,False,0.699,0.687,7,-11.315,1,0.0271,0.0309,0.0,0.306,0.897,120.006,4,party
+3vZsBauRvXEKWFO6VmOP69,FiNCH,Kassenhäuschen EP,Weißer Ninja,25,149118,True,0.843,0.67,0,-6.756,1,0.106,0.0488,0.0,0.09,0.62,127.978,4,party
+0Bu05RUeHcFldgwlpeVuxn,Killermichel;Manni Manta,Alles wegen Schwänzen,Alles wegen Schwänzen,25,191364,True,0.655,0.937,4,-1.626,1,0.0638,0.0099,0.0,0.338,0.728,140.062,4,party
+7Ep35cRqVnxa6LNqlYpzch,Die Draufgänger;Stefan Rauch;Habe & Dere,"Landjugend (Baby, i bin von der...) [DJ Robin Remix]","Landjugend (Baby, i bin von der...) - Habe & Dere Remix",25,174705,False,0.754,0.869,6,-5.794,0,0.174,0.00836,4.15e-06,0.259,0.863,135.977,4,party
+5abClWYbqx6mQNg5nn4wR6,Killermichel,"Saufen morgens, mittags, abends - Die Party",Auswärts sind wir asozial,25,215983,False,0.511,0.973,8,-2.713,0,0.0928,0.0678,0.0,0.958,0.587,145.002,4,party
+5BjtkXTOKiz8jhq7rXnrip,Die Draufgänger,#Hektarparty,Finger Weg von meiner Musch - MuMu Remix,26,149133,False,0.723,0.844,2,-4.092,1,0.0333,0.0278,7.72e-06,0.114,0.72,119.973,3,party
+01ygrG3sTaMaU3rmAkL8Wr,GABBY;Anstandslos & Durchgeknallt,Ballermann Hits Party 2023,Klempner Klaus,0,155820,False,0.712,0.859,9,-4.615,1,0.0568,0.00153,0.0,0.053,0.802,133.984,4,party
+7z4VPtZm9g9dxC83ratUFM,The Palace Singers,Nursey Rhymes For A Little Prince,Round and Round The Garden,38,67266,False,0.976,0.171,0,-13.24,1,0.105,0.511,0.052,0.088,0.692,109.951,4,party
+1SvSE3yezb0cJvv81udL8N,The Jamborees,The Wheels On the Bus,Wee Willie Winkie,36,55986,False,0.729,0.203,5,-13.335,1,0.0349,0.786,1.99e-05,0.196,0.909,149.772,3,party
+3XQnDqrSRUlsLL3hVFw4MI,Dora The Explorer,Dora The Explorer,We Did It!,26,37093,False,0.84,0.797,2,-5.566,1,0.0391,0.381,0.000828,0.0467,0.976,145.085,4,party
+7xRcEKFIokGE4CeeSV9u6h,Pepe Palme,Pepe Palme hat ne Strandfigur,Pepe Palme hat ne Strandfigur,24,192173,False,0.695,0.968,8,-3.231,0,0.156,0.151,0.0,0.809,0.666,137.984,4,party
+7N1UVG20rQuBhQTDhxLafu,Melanie Müller,Gib mir ein M,Gib mir ein M,24,193123,False,0.663,0.949,6,-2.677,1,0.0552,0.00217,0.0,0.878,0.752,133.992,4,party
+3nNnt4zq8DCtQsK0NNYxGI,Rob & Chris;Jennifer Sturm,Superheld 2018 (feat. Jennifer Sturm),Superheld 2018,25,182857,False,0.791,0.947,5,-4.026,1,0.0444,0.0467,1.17e-06,0.512,0.619,126.005,4,party
+2HhKDdGjgXC4vyDOmtwzNP,NIC,Küss Mich,Ich will dich für immer - Disco Fox,25,215413,False,0.766,0.797,0,-6.563,1,0.0296,0.18,0.0,0.105,0.745,128.001,4,party
+77HXxVbfKb8DzUzKyEoaPR,Matthias Reim,Meteor,Es ist Wahnsinn,26,265773,False,0.649,0.783,5,-4.154,1,0.0233,0.00536,2.26e-05,0.368,0.58,95.955,4,party
+4CegSIh4ztZnpqN1JiArEp,Fränker;Andy Luxx,Dosenbier macht schlau,Dosenbier macht schlau,24,171995,False,0.659,0.937,6,-3.739,1,0.0485,0.108,0.0,0.349,0.723,135.016,4,party
+6kms8bZWAo94w5lZWF9LCn,Sabbotage,Wer Mallorca liebt,Wer Mallorca liebt,25,199111,False,0.728,0.936,6,-2.816,1,0.0447,0.0825,1.57e-06,0.143,0.852,135.009,4,party
+2XLsf6YJWnFwHY6IcPLdmQ,voXXclub;Troglauer,Donnawedda - Volksmusik,Bobfahrer-Lied (feat. Troglauer),26,208666,False,0.596,0.952,9,-3.281,1,0.0645,0.0459,0.0,0.216,0.744,135.107,4,party
+51sG47FtAb2dKSS5WlmCqv,Harris & Ford,Ein Tag Unendlichkeit,Ein Tag Unendlichkeit,24,208007,False,0.405,0.841,8,-3.619,1,0.0552,0.0506,0.0,0.062,0.347,149.886,4,party
+7KeoyXh0fXwjW4Q02eYpVK,voXXclub,Geiles Himmelblau,"Ei, ei, ei, die Goass is weg",25,198520,False,0.701,0.867,9,-6.613,1,0.169,0.134,0.0,0.0969,0.862,135.052,4,party
+3WAyuE8yFhtyrvBV5AVveL,Michael Wendler,Maximal 2,180 Grad,25,272986,False,0.802,0.789,0,-4.38,1,0.0547,0.0748,0.0177,0.0473,0.835,130.023,4,party
+6kZ2cDBJxnw5DN06aUcOs8,Bierkapitän;Andy Luxx;Dj Aaron;Scotty,Lea (Scotty Remix),Lea - Scotty Remix,25,160285,False,0.688,0.963,9,-2.527,1,0.0666,0.00607,0.000145,0.917,0.784,140.03,4,party
+5jtNLGrEjZtGZcf95TYTpZ,Markus Becker;Die Mallorca Cowboys,Das Rote Pferd (Après Ski Version),Das Rote Pferd - Après Ski Version,25,193013,False,0.656,0.997,10,-1.744,1,0.117,0.135,0.0,0.848,0.682,134.005,4,party
+2vTXVMbiz1OyXRyA1ZsRZq,Max Weidner,Country Roads,Country Roads,24,176306,False,0.529,0.828,8,-4.981,1,0.0822,0.161,0.0,0.136,0.697,115.92,4,party
+3URmXPMcUq2maabHNySzg3,Ina Colada;Alex Engel,Wa Wa Wahnsinnig,Wa Wa Wahnsinnig,25,224989,False,0.415,0.963,0,-1.939,1,0.0806,0.049,0.0,0.194,0.677,127.271,4,party
+6gKiT9KoOeEHOMJDlXgwLR,DJ Düse,Mallorca Style,Ihr seid zuhause,25,218884,False,0.598,0.943,0,-3.673,1,0.104,0.0179,0.0,0.583,0.459,127.991,4,party
+0IuErOlS5OmMWXRtPABdDR,Mia Julia,Mitten in Mia,Schrei es laut,25,179560,False,0.604,0.951,7,-3.094,1,0.169,0.041,0.0,0.391,0.194,144.917,4,party
+7KKMqmvRv1CjkEMUb4MS2w,Mr. Blaumann,Untenrum rasiert,Untenrum rasiert,24,174935,False,0.768,0.987,10,-3.674,0,0.0819,0.0499,0.0,0.422,0.792,137.994,4,party
+2X2yopARrVUxTWGbPqg9oe,Max Weidner,Pack ma's,Country Roads,24,177133,False,0.535,0.814,8,-5.033,1,0.0799,0.156,0.0,0.0985,0.693,115.895,4,party
+6ge5NpWlauc1XuOFt3adPt,Jack Gelee,Diese Insel,Diese Insel,25,166046,False,0.57,0.975,1,-2.617,1,0.0617,0.0404,0.0,0.162,0.908,137.948,3,party
+3IhL0lfH5xSE65WUcjPAeV,Andreas Gabalier,Vergiss mein nicht,Loving Arms,25,266200,False,0.565,0.504,9,-7.646,1,0.0246,0.0902,0.0,0.0992,0.281,104.945,4,party
+6vb9UfLGqYI3Ta3QZOrsrA,Fäaschtbänkler,Oagasenn,John,25,241600,False,0.756,0.521,0,-7.301,1,0.031,0.27,4.15e-05,0.0655,0.8,105.03,4,party
+1eQK7n9hn22VfXGxigPn29,Brings,Hay! Hay! Hay!,Su ne Daach,26,209493,False,0.551,0.902,3,-3.953,1,0.0505,0.00465,1.93e-05,0.313,0.396,134.104,4,party
+1qIbelO6pCMXZlMXCX6R6P,Mike Nüchtern;Killermichel,Wir fahren weit wir trinken viel,Wir fahren weit wir trinken viel,24,187883,False,0.604,0.961,9,-2.429,1,0.0674,0.00191,0.0,0.392,0.633,144.952,4,party
+0tG5m9hbaa5H32Zp36OoIF,FiNCH;Blümchen,Rave Witchers,Herzalarm,25,189904,False,0.632,0.937,10,-6.153,1,0.0459,0.0174,0.000109,0.0549,0.522,165.958,4,party
+4yAaEtFzAeUTKZnW6YyO3D,DJ Ostkurve;Alina W.,Weil i no an Engerl glaub,Weil i no an Engerl glaub - Radio Mix,25,205636,False,0.716,0.933,2,-6.475,1,0.0466,0.00281,0.128,0.328,0.59,128.029,4,party
+4DeQMfE4mEkEjTZFmcIy85,Tobee,Jetzt ist der Teufel los,3 Promille (Doch da geht noch was),25,180617,False,0.659,0.992,9,-2.064,1,0.268,0.00708,0.0,0.335,0.664,140.012,4,party
+56OkGZ8KYcYCu1fFak8OGT,Lorenz Büffel,Lass uns schmutzig Liebe machen,Lass uns schmutzig Liebe machen,25,243767,False,0.59,0.996,7,-0.21,1,0.0721,0.0994,0.0,0.911,0.703,94.016,4,party
+2sZ2ZOH2KWZ9sS60X0BoY1,voXXclub,Rock Mi - Die größten Hits,Hitmedley,25,358653,False,0.407,0.936,3,-4.503,1,0.195,0.028,0.0,0.0686,0.6,127.047,4,party
+0fw8ZGMXJJKYh7OoXRZJL2,Jürgen Milski,Malle ist der geilste Club der Welt,Malle ist der geilste Club der Welt,24,214534,False,0.609,0.992,6,-2.664,1,0.139,0.109,0.0,0.39,0.543,139.971,4,party
+3kssiEBTsNdh6mLKnnpXme,Paveier,Karneval der Stars 51,Hau op die Trumm,26,201413,False,0.671,0.886,2,-4.941,0,0.0319,0.00261,1.82e-06,0.0621,0.823,134.968,4,party
+4WThTvZZDHKmnPwGGeFqsq,Marry;Mia Julia,Geile Zeit,Bis in alle Ewigkeit,25,196218,False,0.437,0.88,1,-3.288,0,0.0451,0.00343,2.47e-06,0.154,0.393,151.998,4,party
+5PjqSX2deDS1dM4Jz6tsmF,Jörg Bausch,Erst wenn's im Sommer schneit,Erst wenn's im Sommer schneit,25,211838,False,0.778,0.881,0,-4.212,1,0.0292,0.0862,2.7e-05,0.0578,0.816,132.012,4,party
+5lIYtDPp6OeRgKPXmYKdfN,Sabbotage,Hömma Samma Womma Nomma (Bier Trinken Gehen),Hömma Samma Womma Nomma (Bier trinken gehen),24,183494,False,0.505,0.954,0,-2.391,1,0.056,0.0363,1.27e-06,0.335,0.738,149.993,4,party
+46lziNJyPoaOEAmbUpzd9l,Mia Julia,Mitten in Mia,Mitten in Mia,25,231480,False,0.71,0.965,9,-2.594,1,0.23,0.0337,0.0,0.24,0.652,129.959,4,party
+3XsyAq5O1GBDwVZ7kDl39Z,Brings,Rockmusik,Wenn et einmol läuf,26,182093,False,0.562,0.974,10,-2.841,0,0.135,0.0143,0.0,0.373,0.567,92.472,4,party
+4PfPgabWUFrkAk1UjJZe5S,Fäaschtbänkler,Flamingo + Hoch die Hände Wochenende,Heimat mein,25,224840,False,0.669,0.533,1,-7.022,1,0.0289,0.364,0.0845,0.0856,0.503,100.046,3,party
+6KVBSuYzk1aQnY8mKT0yo9,Matthias Reim,Das ultimative Best Of Album,"Hallo, ich möcht' gern wissen wie's dir geht",26,222880,False,0.487,0.688,4,-8.049,0,0.0474,0.201,0.0,0.333,0.34,149.865,4,party
+3XWKMM5uZrvyTzP0xDITcW,Glitzer Gischi,Kann ich so nicht sagen (müsst ich nackt sehen),Kann Ich So Nicht Sagen - müsst ich nackt sehen,24,217084,False,0.72,0.948,10,-4.39,1,0.0643,0.0179,0.0,0.0427,0.737,136.097,1,party
+07LORBBJY4Pp13RniCwBNW,Norman Langen,Bis zum letzten Atemzug,Bis zum letzten Atemzug,25,203043,False,0.788,0.579,11,-8.778,1,0.0633,0.123,0.0413,0.156,0.74,130.0,4,party
+3b1XyzSDQN9RmperyuoF9d,DJ Ötzi;Nik P.,20 Jahre DJ Ötzi - Party ohne Ende,Geboren um dich zu lieben - Remastered 2019,25,222266,False,0.69,0.909,11,-5.782,0,0.0363,0.0388,0.0,0.361,0.705,126.029,4,party
+3q8NzewLONmYaA1JlG9QKS,Jägermeister DJ Alex & Matty Valentino,Auffe aufn Berg,Auffe aufn Berg - Apres Ski Hits 2017 Mix XXL,24,272567,False,0.627,0.978,8,-3.197,1,0.209,0.146,0.0,0.0743,0.557,140.069,4,party
+0Op5JeHOlG1ufybNl5f0BU,Wolfgang Petry,Alles-Live,"Bronze, Silber und Gold - Live",26,233133,False,0.479,0.932,10,-5.224,1,0.0551,0.123,0.0,0.309,0.331,129.038,4,party
+2U0DemUjfcTj4tnWkebBIi,Anna-Maria Zimmermann,Das Beste von Anna!,Tausend Farben hat das Glück,25,193813,False,0.728,0.904,7,-4.393,1,0.0392,0.00529,2.73e-06,0.301,0.826,128.007,4,party
+5m1zDuSQxM8qCwDXUSC0lP,Die jungen Zillertaler,Glanzlichter,Drobn aufm Berg,25,168680,False,0.782,0.858,2,-4.114,1,0.0461,0.0333,7.44e-06,0.339,0.967,126.066,4,party
+430NK9iO0QBe3NKJgZtHUN,FiNCH;Paul Elstak,Liebe ist ...,Gabber Girl,25,192357,True,0.489,0.908,4,-4.811,0,0.0375,0.00528,0.014,0.0637,0.389,167.945,4,party
+7j6w3FYbWFgDhIbvZahVaW,Jürgen Drews;Giovanni Zarrella,Das ultimative Jubiläums-Best-Of,Wieder alles im Griff,26,174813,False,0.701,0.974,9,-3.76,1,0.0489,0.0302,0.0,0.337,0.875,128.581,4,party
+6LYbk4LTZ8VpVEaOOLzjBk,Jörg & Dragan (Die Autohändler),"Malle, Du geile Sau","Malle, Du geile Sau",24,193020,False,0.719,0.887,5,-3.011,1,0.0363,0.105,0.0,0.724,0.608,131.962,4,party
+5o4Mlib2LCewXvo9ykW9MM,Schürze,Mallotze (Zeigt mir eure Hände),Mallotze (Zeigt mir eure Hände),24,187352,False,0.525,0.869,0,-2.528,1,0.0458,0.0854,0.0,0.743,0.437,124.999,4,party
+4WavKgM3uKTvGWianB1r0p,Malin Brown,Zu Wyld,Zu Wyld,24,139750,False,0.775,0.905,5,-2.971,0,0.238,0.253,0.0,0.429,0.776,123.05,4,party
+6Eo1tU0Zw7Bgw3cPtVKxRX,Balek,112,112,24,188689,True,0.686,0.801,7,-6.871,1,0.126,0.00537,0.0,0.244,0.706,145.048,4,party
+0s3lqGsA4ExV5nscjTHV7h,NIC,Sweet Caroline,Sweet Caroline,24,241053,False,0.712,0.969,1,-4.12,1,0.0581,0.029,9.35e-05,0.216,0.722,137.995,4,party
+43vQBJSGH5rM9eYiA9F5yL,DJ Robin;Schürze,Layla (Platin Edition),Layla,24,186640,False,0.447,0.884,5,-5.197,0,0.06,0.00165,0.0,0.376,0.458,140.085,4,party
+0VLkUz50fSdVploHOdHXw4,Lorenz Büffel;Almklausi;Stubete Gäng,Hansi,Hansi,24,206729,False,0.631,0.978,11,-3.209,1,0.178,0.0057,0.0,0.377,0.718,147.047,4,party
+3uECz5UGlZx999qinzCvq4,Die Heufresser,Kneipe,Kneipe,24,142678,True,0.739,0.708,0,-5.661,1,0.0613,0.000219,0.0271,0.0954,0.741,140.01,4,party
+3fdyHcPGa639HJixHM699h,The Party Cats,Kids Dance Party,I Like To Move It From Madagascar,37,243960,False,0.817,0.864,0,-7.896,1,0.0295,2.36e-05,0.49,0.284,0.826,129.987,4,party
+3tLuQjMWHvida2UE0FAGSV,Anstandslos & Durchgeknallt;Le Boome De Tschaque;Bünger,Wenn der Mond (feat. Le Boome de Tschaque & Bünger),Wenn der Mond (feat. Le Boome de Tschaque & Bünger),25,178833,False,0.565,0.634,6,-6.209,0,0.283,0.00582,0.000561,0.0588,0.341,136.111,4,party
+7jcFChRo4eydlR6ufpxMXg,NIC;Der Vollhorst,Weisser Stern von Alcunar,Weisser Stern von Alcunar,24,224516,False,0.712,0.877,7,-2.569,1,0.0314,0.0162,0.000585,0.0606,0.575,123.972,4,party
+0UKRw88rqIwEwG8GaJzfj9,Cooltime Kids,Upbeat Kids Songs!,I See The Light,0,147066,False,0.751,0.688,0,-3.384,1,0.0677,0.0597,0.0,0.0332,0.873,160.018,4,party
+1lAzfjO55cG3YUvpgJ1ImZ,Andreas Gabalier,Herzwerk (Geschenkedition),Biker,24,184973,False,0.637,0.831,1,-5.566,0,0.0382,0.308,6.79e-06,0.765,0.681,113.991,4,party
+5s9sUUYjPJll92eore8FUA,Chaos Team;Andy Luxx,Eviva Mallorca,Eviva Mallorca,24,180552,False,0.691,0.981,0,-2.216,1,0.0836,0.0472,0.0,0.357,0.707,140.122,4,party
+2iuSTOV8u7zpct436D8zyb,Cooltime Kids,Para pedir dulces,The Addams Family,0,139866,False,0.689,0.546,5,-9.254,1,0.0673,0.000464,0.000896,0.239,0.966,120.233,4,party
+0KEnWvliiFckY7VhG0dqVc,Die Flippers,Ihre großen Sommerhits,Mitternacht in Trinidad,25,211191,False,0.655,0.759,8,-11.724,1,0.0364,0.284,0.0,0.0651,0.747,130.751,4,party
+536ahpyFfPwy2OG8cZH8z0,Matthias Reim,Männer Sind Krieger,Männer sind Krieger,26,232640,False,0.504,0.68,7,-7.437,0,0.0299,0.0567,4.76e-05,0.113,0.345,106.982,4,party
+44RBmxhd4UvC4GfS4zOp2B,Brings,Best Of,Su lang mer noch am Lääve sin - Radio Version,26,224306,False,0.44,0.888,8,-5.774,0,0.0592,0.142,0.0,0.318,0.817,180.186,4,party
+5koVli44diEPbvcKWpEDwB,Jägermeister DJ Alex;Matty Valentino,Pistensau - Single,Pistensau,24,176341,False,0.567,0.997,10,-1.463,1,0.185,0.121,0.0,0.401,0.708,135.923,4,party
+4jxxZPY2LsyauOppSmMYZM,Balek,Ballermann Hits Party 2023,Monika die Domina,0,163714,False,0.713,0.86,9,-5.819,1,0.0896,0.0176,0.0,0.345,0.908,140.035,4,party
+4U9piBCLMBZyyhCeLf9Jeg,Cooltime Kids,Para pedir dulces,Somebody's Watching Me,0,223066,False,0.806,0.729,1,-7.515,0,0.0378,0.0152,0.0,0.081,0.975,121.984,4,party
+6MvvjHIopCqmLApUzSy9AP,Cooltime Kids,Oh Santa! Kids Christmas Songs,We Wish You A Merry Christmas,0,151840,False,0.744,0.576,9,-6.613,1,0.0279,0.737,0.0,0.387,0.849,84.08,3,party
+59tawqUSoRWHe2rRPQXWnn,Cooltime Kids,Oh Santa! Kids Christmas Songs,Frosty The Snowman,0,173733,False,0.675,0.457,7,-7.711,1,0.0319,0.481,0.0,0.112,0.785,174.056,4,party
+7gUaXGk5gQCqYaQCMSP4gm,Talstrasse 3-5,Utzenhausen,Zu wenig Alkohol,25,165000,False,0.834,0.69,9,-6.352,0,0.325,0.0833,2.06e-06,0.494,0.363,124.034,4,party
+7lyCE9Gx3ITi6ZX8Umg6yG,FiNCH,Mahlzeit,Mahlzeit,24,145586,True,0.764,0.917,0,-5.512,1,0.101,0.0924,0.0,0.0601,0.904,140.087,4,party
+7KwFjVF9OgBQ6TtggZOsnc,voXXclub,Rock Mi - Die größten Hits,Ziwui Ziwui - Remastered 2020,25,191533,False,0.872,0.842,1,-6.736,1,0.0299,0.102,0.0,0.132,0.971,127.011,4,party
+1cAHzi5BEJv94qAKdWM51X,Cooltime Kids,Oh Santa! Kids Christmas Songs,Jingle Bell Rock,0,130240,False,0.87,0.572,3,-4.671,1,0.0388,0.687,0.0,0.091,0.697,122.923,4,party
+5Kd77wjelqgsdtdPIzo3LB,Cooltime Kids,Para pedir dulces,Werewolves Of London,0,210106,False,0.63,0.758,7,-7.344,1,0.0256,0.00613,1.08e-05,0.299,0.918,104.257,4,party
+5w84exU95f41SDDqJpUQsQ,voXXclub,Rock Mi - Die größten Hits,Donnawedda - Remastered 2020,25,192466,False,0.744,0.874,0,-5.856,1,0.274,0.0849,0.0,0.385,0.899,124.89,4,party
+4beUlEuvtInrRvZLaujOMX,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),"Der liebe Gott weiß, daß ich kein Engel bin",25,201549,False,0.512,0.957,2,-3.479,1,0.0516,0.0674,0.0,0.328,0.784,177.961,4,party
+2ANH77OEULqvj4bsLUnMTz,DJ Ötzi,Der hellste Stern (Böhmischer Traum) [Xtreme Sound Remix],Der hellste Stern (Böhmischer Traum) - Silverjam Mix,25,198613,False,0.574,0.955,5,-3.065,1,0.082,0.00368,0.0,0.159,0.946,126.059,4,party
+3slQbBpw9BvQBJXg1Q1yiJ,Cooltime Kids,Para pedir dulces,A Nightmare On My Street,0,219800,False,0.659,0.746,4,-9.308,0,0.23,0.0928,1.73e-06,0.171,0.697,170.424,4,party
+0YjOQE1HN5tm60RXOWKUnm,Cooltime Kids,Oh Santa! Kids Christmas Songs,Rockin' Around The Christmas Tree,0,125840,False,0.745,0.722,9,-4.067,1,0.0464,0.586,0.0,0.334,0.893,145.378,4,party
+4ktA0c4RU4MgOx4zW2fe24,Cooltime Kids,Halloween y diversión para peques,Somebody's Watching Me,0,223066,False,0.806,0.729,1,-7.515,0,0.0378,0.0152,0.0,0.081,0.975,121.984,4,party
+3Lkm5upAjrt1Wr5d5Y4WWd,Cooltime Kids,Oh Santa! Kids Christmas Songs,Let It Snow! Let It Snow! Let It Snow!,0,162066,False,0.632,0.529,4,-6.556,1,0.0854,0.73,0.0,0.16,0.575,148.176,4,party
+3zEQlCnBhEYlFofoJRudnD,Jörg Bausch,Am Zuckerwattenstand,Am Zuckerwattenstand,24,213319,False,0.693,0.938,6,-3.191,1,0.0379,0.0584,0.000176,0.332,0.901,129.993,4,party
+2JjmTbiaj8Zin3ePd6hfdB,FiNCH,Kassenhäuschen EP,Maschinen,24,156269,True,0.763,0.886,9,-3.745,0,0.258,0.114,0.0,0.148,0.631,150.073,4,party
+5q4gc4nzxSgtwIBnIuCT6M,Cooltime Kids,Halloween y diversión para peques,The Addams Family,0,139866,False,0.689,0.546,5,-9.254,1,0.0673,0.000464,0.000896,0.239,0.966,120.233,4,party
+4FDQiVdgAydMD3r9L96QjM,Cooltime Kids,Diversión para los peques,Alphabet Song,0,106706,False,0.851,0.473,0,-7.552,1,0.0361,0.753,0.0,0.076,0.836,115.988,4,party
+2nO01qKJnRVBzr5ned6bHX,Andreas Gabalier,Herzwerk,Wo immer du auch bist,24,220026,False,0.572,0.836,9,-4.598,1,0.0367,0.231,0.0,0.361,0.73,125.977,4,party
+5I2Q6aZw5WkXuXJ7LBGsWC,Michelle,Anders ist gut,Anders ist gut,25,220853,False,0.777,0.742,2,-4.672,0,0.0342,0.118,0.0,0.111,0.786,117.995,4,party
+3zjnB2JEVilLMUnpllsqHT,Fäaschtbänkler;DualXess,Can You English Please (The Mixes),Can You English Please - DualXess Radio Edit,25,186576,False,0.7,0.862,0,-5.11,1,0.0349,0.000846,0.0108,0.107,0.539,129.993,4,party
+2FFW3qrBH48brinAeemZGi,Cooltime Kids,Halloween y diversión para peques,A Nightmare On My Street,0,219800,False,0.659,0.746,4,-9.308,0,0.23,0.0928,1.73e-06,0.171,0.697,170.424,4,party
+0oOZgg5OXE9ojXfldt4h4P,Mickie Krause,Finger Im Po Mexiko,Laudato Si - DJ Version,25,216093,False,0.655,0.921,0,-4.415,1,0.0452,0.125,0.0,0.227,0.842,135.067,4,party
+2Mx04yfVzvfBuUcqDMxmqX,Cooltime Kids,Halloween y diversión para peques,Werewolves Of London,0,210106,False,0.63,0.758,7,-7.344,1,0.0256,0.00613,1.08e-05,0.299,0.918,104.257,4,party
+56dHz6TijQMiAY0tdeUn3k,Brings,Karneval Hits 2022,"Polka, Polka, Polka - Club Mix",25,282343,False,0.775,0.99,9,-4.267,0,0.0467,0.0103,0.000741,0.0411,0.949,127.999,4,party
+6Neol95yHAmjgPDrXBnuXk,Jürgen Drews,Das ist der Moment,Das ist der Moment - Single Mix,25,183426,False,0.674,0.964,9,-2.404,0,0.0379,0.0486,0.0,0.108,0.748,130.099,4,party
+2U8LBEt9MRTkk44EqTS1i9,Jürgen Drews,"Saufen morgens, mittags, abends - Die Party",Ein Bett im Kornfeld,25,179773,False,0.587,0.769,4,-5.868,1,0.0472,0.22,0.0,0.505,0.967,115.109,4,party
+5vgaZXRfEZwpZlPiWxgQBk,DJ Ötzi,Der DJ aus den Bergen,Ich will mit dir fliegen - Single Mix,25,204760,False,0.749,0.794,3,-5.537,1,0.0302,0.00378,0.0,0.0503,0.548,131.014,4,party
+2pu8hptwk86qYU9dhSCFJF,Andreas Gabalier,Home Sweet Home,I sing a Liad für di - Neuaufnahme,24,172413,False,0.674,0.844,0,-4.629,1,0.0602,0.403,0.0,0.246,0.777,126.035,4,party
+07Tx168RSsUS1HqkDIOZbH,Cupid,Time for a Change,Cupid Shuffle,63,231360,False,0.785,0.582,5,-4.877,0,0.237,0.191,0.0,0.2,0.861,71.774,4,party
+1LM8Vm0qFej9bm9mr03hCx,Ultimate Party Mixers,Ultimate Party Mix (Deluxe Edition),"Dollar Wine (Five Cent, Ten Cent)",24,241173,False,0.717,0.661,7,-12.106,1,0.0365,0.184,0.0,0.083,0.967,126.147,4,party
+16oOcqhWq0jLesfL1ICC74,Harris & Ford;DJ Gollum,Numb,Numb,53,191723,False,0.438,0.887,6,-3.847,0,0.0978,0.00406,0.0,0.0532,0.205,75.029,4,party
+1gk1iCwuu1MXx1H9KXeA6w,DJ Ötzi;The Bellamy Brothers,Simply The Best,I Need More Of You,44,216453,False,0.636,0.881,7,-6.112,1,0.0272,0.0289,0.000169,0.312,0.911,119.986,4,party
+3iP65cWH6lm35RMCJ8Lo3E,Tobee,Marie,Marie,23,203037,False,0.703,0.956,0,-2.099,1,0.082,0.0268,0.0,0.216,0.854,132.012,4,party
+201JhyjZsx9B41LBmLlAvq,Höhner,"2,3,4",Liebchen,25,197893,False,0.585,0.881,5,-4.29,1,0.0514,0.0341,0.0,0.248,0.943,133.909,4,party
+3uHRqsjswbOk5LSWXw6bdQ,Peter Wackel,Endlich wieder Alkohol,Endlich wieder Alkohol,24,214328,False,0.65,0.992,5,-1.413,1,0.116,0.208,0.0,0.964,0.301,141.96,4,party
+7sNG5C3APxp9DBwSH45rIU,Remmi Demmi Boys,Auf Malle saufen alle,Auf Malle saufen alle,24,187987,False,0.656,0.959,5,-2.856,1,0.0711,0.0378,0.0,0.33,0.535,140.059,4,party
+3SqoEX1obXukm4c5jPql8F,Peter Wackel,Wackel Peter (Basic Version),Vogellisi,25,183600,False,0.592,0.848,0,-4.118,1,0.0372,0.0379,0.0,0.0857,0.541,77.002,4,party
+7gzdjkagK3pTVW8jYjcYBF,Micha von der Rampe,Partyanimal,Partyanimal,64,139159,False,0.814,0.74,0,-5.738,1,0.145,0.165,0.0,0.111,0.7,138.069,4,party
+0V8Ld4OZkwzpkKCsZFzT5k,Finger & Kadel,O'zapft is,O'zapft is - Extended Mix,24,215625,False,0.883,0.902,6,-3.853,1,0.0843,0.0292,0.00581,0.116,0.815,128.003,4,party
+3tlIBnrjzrXGJlPRNFSiCN,Wolfgang Petry,Sehnsucht nach Dir,Wenn Du mich brauchst,25,234826,False,0.702,0.804,9,-9.706,1,0.0304,0.198,0.0,0.169,0.83,114.027,4,party
+4xk4WjpxqjOlxVxrWghHbj,Fränker,Wir geh'n auf große Reise,Wir geh'n auf große Reise,24,194276,False,0.569,0.949,6,-2.989,0,0.163,0.00274,0.0,0.44,0.491,140.049,4,party
+7s94rFwLDopCu7fA3cpqHu,Ole ohne Kohle,Nackt auf der Insel,Nackt auf der Insel,24,190154,False,0.716,0.961,6,-2.838,0,0.0713,0.0542,0.0,0.825,0.89,142.007,4,party
+6KOWjEyM2cFkheDpLvoakU,Peter Wackel,Wackel Peter (Basic Version),Ladioo - Party-Mix,25,223600,False,0.564,0.947,6,-2.991,1,0.0977,0.0332,0.0,0.467,0.3,134.992,4,party
+1t5FsdseguiMhcPvHqh1ty,Harris & Ford,Survivors,Survivors - Extended Mix,23,198400,True,0.518,0.927,2,-2.66,1,0.0888,0.000429,0.131,0.0732,0.163,150.091,4,party
+5fL4iI0EWmd5X8c38WPtux,Mallorca Allstars;Isi Glück;Ikke Hüftgold;Almklausi;Lorenz Büffel;Carolina;Honk!;Sylaar,Eine Liebe (Sylaar 2k20 Remix),Eine Liebe - Sylaar 2k20 Remix,23,209552,False,0.592,0.947,11,-3.998,1,0.0316,0.000957,0.000324,0.0499,0.495,134.008,4,party
+6KdLBjzHwYSuD9u8mM9aAg,Mickie Krause,Wir woll'n feiern für die Ewigkeit - Best Of!,"Biste braun, kriegste Fraun - Version 2015",24,185226,False,0.821,0.652,0,-6.17,1,0.06,0.021,9.45e-05,0.0803,0.386,127.987,4,party
+6o5Lv9i5JCIny86rbC4FPd,Ikke Hüftgold;Basti Trailerpark;Walter Wild,Ihr könnt Euch einfach mal,Ihr könnt Euch einfach mal - Walter Wild Mix,24,277416,True,0.671,0.95,11,-3.39,1,0.104,0.0358,1.97e-06,0.366,0.6,139.986,4,party
+2CaxIHFf3w0dBrk62QXifP,Talstrasse 3-5;Rosi Rosetta,Kackparty,Die Kontaktanzeige,25,192857,False,0.881,0.705,7,-7.594,1,0.222,0.0464,0.00034,0.0699,0.529,126.989,4,party
+47XYXuG10VPWwOw7dCePzD,Michelle,Glas,Hallo Tanja,25,189933,False,0.74,0.595,1,-5.768,1,0.0303,0.504,0.0,0.0972,0.582,119.97,4,party
+19v6qcpbiccxoX8oxv8LlJ,Ikke Hüftgold,"Dicke Titten, Kartoffelsalat","Dicke Titten, Kartoffelsalat",24,198903,True,0.598,0.954,6,-2.13,1,0.27,0.146,0.0,0.413,0.642,144.984,4,party
+2OmandxjHU7qzJb7Emy55V,Brings,Rockmusik,Wäm jehürt die Stadt,25,250013,False,0.518,0.662,10,-2.497,1,0.0281,0.0989,0.0,0.139,0.555,133.999,4,party
+5DvT8tKxOnWdfDhmpoQILU,Brings,"Polka, Polka, Polka","Polka, Polka, Polka - Single Version",25,222966,False,0.814,0.803,9,-4.571,0,0.0586,0.226,0.0,0.055,0.854,125.022,4,party
+0M57f8wQFX3KE7Ieez5sPZ,voXXclub,Rock Mi - Die größten Hits,Anneliese - Big H Remix,25,201520,False,0.765,0.871,10,-4.214,1,0.0403,0.0225,0.0,0.313,0.656,100.99,4,party
+66L6wGHEjCKgsXD5fTisJY,Michael Wendler,The Very Best Of,180 Grad - 2006,24,255866,False,0.801,0.794,0,-4.988,1,0.0435,0.0945,0.0169,0.105,0.781,130.02,4,party
+1fJd9Xg32qiaiXwP9NQ2gx,DJ Ötzi,Sei du selbst - Party 2.0,Das kann uns keiner nehmen,25,216039,False,0.639,0.937,0,-4.162,1,0.0445,0.0671,3.71e-06,0.283,0.537,130.06,4,party
+0n5rgD2dEXdzf0PUEjkJdY,Nico Gemba,2 Millionen Gründe,2 Millionen Gründe,24,192187,False,0.602,0.963,0,-3.657,1,0.0382,0.0449,0.0,0.184,0.842,128.009,4,party
+44ZjtiuwW9fA4SHrvEggL2,Matthias Reim,Verdammt Ich hab Nix,Verdammt Ich lieb' dich,25,217680,False,0.57,0.86,9,-5.013,0,0.0478,0.0196,0.0,0.408,0.451,109.994,4,party
+1wWDN7wH8fBxSMa4gsRZOh,Mickie Krause,10 Jahre Gute Unterhaltung!,Du bist zu blöd um aussem Busch zu winken - Version 2008,24,252973,False,0.716,0.98,1,-2.767,0,0.112,0.146,0.027,0.791,0.748,130.047,4,party
+5GMSnxzBcGj8kZ7iXYU5hW,Anna-Maria Zimmermann,Sternstunden,Non Plus Ultra,24,173066,False,0.727,0.899,3,-4.107,1,0.043,0.000635,0.0,0.108,0.892,129.958,4,party
+5edOKEtwynJL4xwvIHjRCU,Peter Wackel,Wackel Total!,Ladioo - Party-Mix,24,221797,False,0.556,0.948,1,-3.005,0,0.127,0.0357,0.0,0.579,0.297,134.985,4,party
+2I63tojTZ40AkQ4VmSSBS4,Brings,Arsch Huh 2012,Stell die Stadt op d'r Kopp,25,234986,False,0.757,0.867,8,-3.823,1,0.0925,0.0481,0.0,0.0691,0.821,130.034,4,party
+2JjmTbiaj8Zin3ePd6hfdB,FiNCH,Kassenhäuschen EP,Maschinen,24,156269,True,0.763,0.886,9,-3.745,0,0.258,0.114,0.0,0.148,0.631,150.073,4,party
+6qewxDgki6gTK7VkP0RElC,Höhner,Best Of - 25 Jahre,Hey Kölle du bes e Jeföhl,25,249533,False,0.665,0.877,2,-5.043,1,0.0332,0.14,0.0,0.855,0.629,119.975,4,party
+2ud2Aj8dHAcyKZ73g5oEYB,Höhner,Da Simmer Dabei! Die Grössten Partyhits,"Viva Colonia (Da simmer dabei, dat is prima!)",25,153213,False,0.603,0.877,7,-4.367,1,0.0318,0.0309,0.0,0.441,0.95,128.061,4,party
+3uHe43Evg1CvApi47ecTEV,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),Dicke Mädchen haben schöne Namen,25,199640,False,0.637,0.857,10,-4.915,1,0.035,0.0551,0.0,0.268,0.725,95.011,3,party
+2inMHm8EgTSiOSdMpWMjzi,Höhner,Mach laut!,Das geht nie vorbei,25,197440,False,0.694,0.865,9,-4.169,1,0.0431,0.0418,0.0,0.245,0.719,128.003,4,party
+0kPAYbytBinZJWvJVuxmA9,DJ Herzbeat;voXXclub,Dancefieber,Dancefieber,23,163840,False,0.613,0.79,0,-4.728,0,0.0497,0.142,0.0,0.258,0.539,126.079,3,party
+0YXpAMT01imkJAVUcAl07C,Michael Wendler,The Very Best Of,Hitmix 2014 - Short Version,24,208600,False,0.721,0.869,7,-2.75,1,0.0373,0.00291,1.66e-05,0.079,0.858,135.035,4,party
+2YTSkSqglSgpQNJxknCUQ0,Andreas Gabalier,Hulapalu,Hulapalu - Harris & Ford Extended Mix,24,280923,False,0.795,0.774,9,-4.705,0,0.0823,0.0465,1.8e-05,0.0486,0.628,128.024,4,party
+0au5TqJjdzCR70cDLp9nQ2,Fäaschtbänkler,Partyplanet,Niemals nie,24,216226,False,0.687,0.823,7,-5.484,1,0.0322,0.0772,0.0,0.144,0.82,122.041,4,party
+4w0cuAFQRoyh2iCwYZjNBR,Wolfgang Petry,Wo sind denn all die Helden,Wo sind denn all die Helden,25,226093,False,0.781,0.777,2,-3.487,1,0.0292,0.0207,1.68e-05,0.13,0.505,127.971,4,party
+19WLwIfYwcPOVqfyu0Mpcr,Mia Julia,Ballermann Hits 2022,Freitag Samstag Dicht,24,211160,False,0.783,0.933,9,-3.053,0,0.109,0.0748,0.0,0.317,0.888,127.969,4,party
+31DWTPWRrXRyYlPN9NqEFu,Mountain Crew,Mountain Party #1,"Weiß der Geier / Verlieben, verloren, vergessen, verzeih'n / 7 Tage – 7 Nächte / Du bist ein Wunder / Augen zu und durch",24,202014,False,0.595,0.936,0,-6.162,1,0.0374,0.00362,5.05e-06,0.377,0.845,139.063,4,party
+36zA6m9ZvkdMoTCNsKHrGv,Frenzy;Mia Julia,Wir sind wir (Partystyle Après Ski Version),Wir sind wir (Partystyle Après Ski Version),24,201867,False,0.688,0.942,1,-2.911,0,0.0816,0.0556,0.0,0.166,0.811,138.01,4,party
+175Iw3hMDjeEwjGxzJNO41,Andreas Gabalier,Best Of Volks-Rock'n'Roller,Verdammt lang her - Best Of VRR,24,247399,False,0.654,0.853,9,-3.04,1,0.0344,0.011,0.0,0.213,0.551,129.953,4,party
+0jO5cXmDkksWLsgC4I4gRC,Die Draufgänger,Grün,Vater du der Stadl brennt,24,165920,False,0.759,0.913,10,-4.656,1,0.0564,0.269,0.0,0.114,0.804,79.985,3,party
+2a5bKYQdpCNJQEOAw5uRsM,Jürgen Drews,Musik Box Teil 1,Wir Ziehen Heut Abend Auf's Dach,25,210306,False,0.631,0.925,7,-5.591,0,0.0761,0.627,3.66e-06,0.493,0.799,124.061,4,party
+4EjUvymnNns0gSllSLR0zr,Troglauer,Geboren in Troglau,Bring mir a Bier,24,193186,False,0.508,0.977,0,-3.221,1,0.0857,0.0516,0.0,0.0939,0.837,164.652,4,party
+77YGCnTBB84rj02rcWFPwH,Harris & Ford;Mike Candys,My Way,My Way,54,182500,False,0.526,0.842,7,-4.861,0,0.0686,0.0153,0.0229,0.253,0.195,150.151,4,party
+6bW4olKzz8M2BRYNU1ASUi,FiNCH;Leony;VIZE,Fliesentisch Romantik 2,Easy Peasy,65,150413,True,0.796,0.808,6,-6.324,1,0.0303,0.199,6.24e-05,0.322,0.519,142.884,4,party
+3VI7ZEvmVHgrc5DmLOzyed,Rob & Chris;Pimp! Code,Die ganze Nacht (Pimp! Code Radio Edit),Die ganze Nacht - Pimp! Code Radio Edit,24,174597,False,0.755,0.994,8,-3.277,0,0.121,0.000933,0.00075,0.337,0.744,139.931,4,party
+6YTx1TtfgqypbYXmycm08k,DJ Ostkurve;Krümel,Jürgen,Jürgen,23,211862,False,0.681,0.954,1,-5.601,1,0.291,0.0186,0.0,0.043,0.371,144.953,4,party
+3GYt2aTjHCMwOV4LoP12SK,Franco Piccolini;Luigi Ferrari,Rack,Rack,23,144407,False,0.725,0.563,7,-9.273,0,0.104,0.0639,0.0,0.33,0.57,125.024,4,party
+25PnjwrXCZFgSSZGZ4blPm,Tim Toupet,Bello Donna,Bello Donna,24,199509,False,0.706,0.91,0,-3.668,1,0.0464,0.0395,0.0,0.127,0.741,130.019,4,party
+6OTs9ImXt1kqw4JKpT0gYl,DJ Ötzi,Wenn Gott so will (Xtreme Sound Remix),Wenn Gott so will,24,209520,False,0.632,0.938,11,-3.897,1,0.0389,0.0158,0.0,0.428,0.611,127.961,4,party
+3Mr3jWsuDC6M0d4BedY1ay,Axel Fischer,Mallorca Mallorca (Moviestar) [Oktoberfest Wiesn Mix],Mallorca Mallorca (Moviestar) - Oktoberfest Wiesn Mix,24,170510,False,0.625,0.906,4,-3.804,1,0.0639,0.0207,0.0,0.318,0.787,129.969,4,party
+6HmawwTDeZ15WTO1kIcWn3,Carina Crone,Sailor Moon,Sailor Moon,23,194304,False,0.636,0.91,0,-6.672,1,0.0776,0.226,0.0,0.21,0.348,150.987,4,party
+6WX05ziA9cxSfiW38BpikQ,Axel Fischer,Ich komm zurück (nach Amsterdam),Ich komm zurück (nach Amsterdam),24,231714,False,0.642,0.9,5,-3.668,0,0.0619,0.0313,0.0,0.268,0.8,132.028,4,party
+4e28gh5BLFkx4ZmZPKCZTN,Marry,Lasst uns leben,Lasst uns leben,24,209606,False,0.612,0.931,5,-4.056,1,0.0392,0.00175,3.03e-06,0.198,0.56,134.068,4,party
+4C3b5zTNboQvWMDZXmSZGO,Mickie Krause,Krause's Fussballhits,Düp Düp - Radio Version,24,213320,False,0.588,0.999,0,-3.615,1,0.0815,0.107,0.0568,0.846,0.622,140.005,4,party
+4aevYGbCDsie4zc2cQEWrs,Marco Kloss,Still Loving You,Still Loving You - Single Mix,23,211627,False,0.761,0.835,2,-4.497,0,0.0339,0.163,6.27e-06,0.118,0.501,125.021,4,party
+78bUlsftJyvcGxAesGwqes,Die Atzen;Jürgen Drews,"Atzen Musik Vol.1, 2 & 3",Sonnenstudio Marion,24,216253,False,0.696,0.898,7,-3.885,1,0.04,0.00179,0.0,0.0879,0.593,131.023,4,party
+45j29eTf8lBmFe2Rjj0RgG,Wolfgang Petry,Auf das Leben,Ich heiß Freiheit,24,199729,False,0.677,0.758,4,-5.62,1,0.0452,0.0426,3.78e-05,0.229,0.952,75.992,4,party
+23y4uFg6QFNmFjkpGovaa7,Andreas Gabalier,Best Of Volks-Rock'n'Roller,Sie - Best Of VRR,24,320735,False,0.657,0.708,5,-4.001,1,0.0289,0.0724,0.0,0.102,0.506,123.011,4,party
+1DBILUsTKiX83pO0Hi8jk4,Talstrasse 3-5,Wieder auffer Tanze,Wieder auffer Tanze,24,147046,False,0.643,0.879,9,-2.77,1,0.0756,0.0674,1.84e-06,0.078,0.684,92.967,4,party
+5lP307dpV3fMzc57lzroto,Empyre One;AlexKea,Mirrors,Mirrors - AlexKea! Edit,24,192794,False,0.566,0.997,4,-2.589,1,0.0529,0.00219,0.000185,0.335,0.649,144.006,4,party
+7JWMy1BRguSOvwpOYr4atn,DJ Düse,Voll wie Düse / Das was bleibt / Für immer und ewig (Hitmix),Voll wie Düse / Das was bleibt / Für immer und ewig - Hitmix,23,225893,False,0.648,0.946,11,-2.658,0,0.0783,0.0182,0.0,0.331,0.584,134.978,4,party
+3xU11VZglBwD6AHQqbwLjk,Die Flippers,Ein Mädchen wie Dich muss man lieben,Maria La Catalania,24,238106,False,0.554,0.604,7,-11.959,1,0.0552,0.139,0.0,0.329,0.671,124.682,4,party
+6oAqF2pIQS9sVKoMG6Tfy6,FiNCH;Blümchen,Gabber Girl,Herzalarm,23,189904,False,0.632,0.937,10,-6.153,1,0.0459,0.0174,0.000109,0.0549,0.522,165.958,4,party
+4FOuw3JeWKNgs1R0o9QkwE,Stereoact,Himmel auf Erden,Himmel auf Erden,24,186593,False,0.698,0.74,4,-7.0,1,0.0935,0.185,2.73e-06,0.598,0.833,119.95,4,party
+31T4GHCanROxRbSTnwwSpI,Anstandslos & Durchgeknallt;Georg Stengel;LIZOT,Holterdiepolter (LIZOT Remix),Holterdiepolter - LIZOT Remix Edit,24,195600,False,0.477,0.87,0,-5.812,1,0.245,0.0892,0.0,0.174,0.486,123.917,4,party
+4LxEFvBcNAjqezP0IcAea8,Willi Herren;Markus Becker,"Schlager Pur, Vol. 2",Ich glaub es geht schon wieder los,24,198653,False,0.609,0.932,10,-5.288,1,0.0975,0.0356,2.29e-06,0.271,0.539,136.001,4,party
+5wZ7Hw40wC04N0k4NDlgBC,Jack Gelee,"Zicke Zacke, Prost ihr Säcke","Zicke Zacke, Prost ihr Säcke",23,170042,False,0.71,0.998,8,-1.898,1,0.304,0.0221,0.0,0.529,0.712,140.089,4,party
+3xJdoHzRyzv8EFR303btHU,Anna-Maria Zimmermann,Sternstunden,Tanz,23,189933,False,0.737,0.995,7,-3.695,1,0.0578,0.0196,0.0,0.293,0.73,130.99,4,party
+2GKdy0yGE6U0XSKe2LPt43,Fäaschtbänkler,Mitten in die Scheibe,10'000 Meilen,24,177986,False,0.678,0.582,0,-6.322,1,0.0325,0.139,1.34e-06,0.118,0.577,115.979,4,party
+6vL8FJoCSVy0x0CJLkATP5,DJ Ötzi,Sei du selbst - Party 2.0,Bambälä (Die Seele wieder baumeln lassen),24,164973,False,0.565,0.988,0,-2.89,1,0.0503,0.0379,0.0,0.0696,0.906,125.983,4,party
+44ZjtiuwW9fA4SHrvEggL2,Matthias Reim,Verdammt Ich hab Nix,Verdammt Ich lieb' dich,25,217680,False,0.57,0.86,9,-5.013,0,0.0478,0.0196,0.0,0.408,0.451,109.994,4,party
+09wPwzAhF5LSl1kK0qYsTU,Mia Julia;Tom Tigo,Weck mich nicht auf (Tom Tigo RMX),Weck mich nicht auf - Tom Tigo RMX,23,224774,False,0.687,0.962,6,-4.995,1,0.0397,0.0063,0.0,0.4,0.354,133.0,4,party
+3NGJiQUfhjEG2zjm3tdAeF,Matty Valentino;DJ MOX;Ivan Fillini;Toby Tyrol;Xandl,Tiroler Bua (Wellerman - Hüttenstyle),Tiroler Bua (Wellerman - Hüttenstyle),24,105287,False,0.783,0.727,8,-5.955,1,0.108,0.16,0.0,0.215,0.8,120.117,4,party
+2apUT9TrwoNbExWlk5AF0r,Höhner,Da Simmer Dabei... Die Grössten Partyhits! (Gold Edition),Dat Hätz Vun Dr Welt - Remake '97,24,154706,False,0.572,0.9,10,-4.371,1,0.0347,0.00169,0.0,0.374,0.958,118.405,4,party
+2gaTah9sC0KZYntUZPedpH,Brings,Hay! Hay! Hay!,Eifel - Radio Edit,25,201546,False,0.45,0.975,11,-3.996,1,0.115,0.00303,0.0,0.278,0.653,161.915,4,party
+673cuJroqSoAzCwbGUnHKb,Paveier,Dat Beste us 25 Johr,Heute brennt mein Iglu,24,258226,False,0.375,0.94,7,-3.403,1,0.111,0.0546,2.11e-05,0.956,0.894,169.86,4,party
+29PqpmVjQAYuSfcEeKEfKK,Wolfgang Petry,Nie genug,Der Sommer von damals,24,219373,False,0.671,0.9,9,-4.278,1,0.028,0.169,1.63e-05,0.338,0.968,120.028,4,party
+2sgpYwWVQAXWetqtO9Kh24,Fäaschtbänkler,Partyplanet,Keine Panik,24,192906,False,0.727,0.815,3,-4.906,0,0.0434,0.122,1.01e-05,0.197,0.906,127.997,4,party
+1ZOYLPxKwjNGBKVMSesdts,Fäaschtbänkler,Mitten in die Scheibe,Hau mich vom Hocker,24,177093,False,0.713,0.731,0,-5.83,1,0.042,0.0219,0.0,0.245,0.702,129.988,4,party
+1FZyb6cq6fRjnnbyH8aee5,Höhner,"Wenn Nicht Jetzt, Wann Dann - Die Größten Hits Und Schönsten Balladen",Alles was ich will,24,176573,False,0.735,0.919,2,-5.634,1,0.035,0.0042,0.0,0.221,0.856,127.042,4,party
+3kTq6zXdvy4vkI2FMQ5HnM,Wolfgang Petry,Alles-Live,Weiss' der Geier - Live,24,270866,False,0.415,0.985,8,-4.52,1,0.117,0.0764,0.0,0.96,0.34,133.938,4,party
+1MndjgEGWVZCWsaxL22nzs,FiNCH;Scooter,Liebe ist ...,Rave Witchers,23,181551,True,0.57,0.957,10,-2.417,0,0.0883,0.00123,0.029,0.412,0.419,170.032,4,party
+21sUConNGWPveoGDUtcZOz,Die Partymacher,Die größten Party- & Schlager-Hits,"Resi, ich hol Dich mit dem Traktor ab (Resi, i hol Di mit mei'm Traktor ab)",23,220946,False,0.828,0.95,2,-5.68,1,0.11,0.0229,0.0,0.971,0.679,135.034,4,party
+4AMzyg1XxD3K7x7PB3Vqb1,Lorenz Büffel;Sven Florijan,Xtreme Mallorca Hits 2014,Computerliebe (Auf St. Pauli...) - Mallorca Version,23,209309,False,0.689,0.995,7,-1.095,0,0.202,0.0788,0.0,0.328,0.856,145.932,4,party
+7JiA1Bf3Fnbwa4gelb1u50,Peter Wackel,"Saufen morgens, mittags, abends - Die Party",Ladioo - Arena-Hitmix,24,236026,False,0.499,0.989,11,-2.363,1,0.093,0.138,4.5e-06,0.433,0.196,137.008,4,party
+5WyZ0Db5PJgEZn2wHu6YBk,Axel Fischer,Norderney,Norderney - Fox Version,24,204000,False,0.689,0.952,0,-3.49,1,0.037,0.0615,0.0,0.566,0.818,132.006,4,party
+3THVMgEpAq06BOgd1n0S5C,Stereoact;Kerstin Ott,Deutsch House - In the Mix,Die immer lacht - Mixed,24,207038,False,0.715,0.579,4,-7.442,0,0.0734,0.0246,1.35e-05,0.123,0.48,127.921,4,party
+1Nd0xNCOGmk6L5DZ8c9yU5,Michelle,Tabu (Deluxe),Ich tanz dich einfach weg,24,214520,False,0.707,0.81,9,-4.311,1,0.0522,0.0417,0.0,0.378,0.442,125.957,4,party
+45xXb4lQwMAwZwTzHeX6Jt,Wolfgang Petry,Nie genug,Das darf doch nicht wahr sein,24,212306,False,0.752,0.91,8,-4.74,1,0.0317,0.151,0.0,0.211,0.816,127.988,4,party
+27moQ0r3psO5M21kKs7NT1,Jürgen Drews,Drews feat. Drews (Die ultimativen Hits),Das ist der Moment - Single Mix,24,183000,False,0.674,0.967,9,-2.395,0,0.0381,0.0509,0.0,0.159,0.781,130.057,4,party
+1KUzWxmC5D3xYIyhtiW0hd,Jürgen Drews,Drews feat. Drews (Die ultimativen Hits),König von Mallorca - Version 2017,25,264773,False,0.675,0.996,9,-2.776,1,0.135,0.0168,0.0,0.341,0.916,135.044,4,party
+1onYEPJ9rRnjizWuJqFuhp,Jürgen Drews,Drews feat. Drews (Die ultimativen Hits),Das kann doch nicht wahr sein - Remastered 2017,25,225546,False,0.654,0.92,7,-2.734,1,0.041,0.0039,0.0,0.0583,0.578,129.818,4,party
+5Sho3kEbYXopoXPhPACqo7,Mr. C,Mr. C Presents The Cha-cha Slide Greatest Hits,Cha Cha Slide,52,222080,False,0.856,0.905,11,-6.82,0,0.146,0.041,0.00385,0.315,0.805,131.003,4,party
+6l6qbSwlEAWRGfbL5sf8y8,Harris & Ford;ItaloBrothers,Weekend Party,Weekend Party,0,143600,False,0.541,0.815,4,-4.327,0,0.0617,0.335,0.0,0.0835,0.371,149.789,4,party
+3o12WLvvLdllOSgGOyjvKC,Mickie Krause,Ich find Schlager toll - Das Beste,Der Krause Mega Mix (Medley),23,254480,False,0.722,0.935,0,-4.737,1,0.0382,0.000573,0.000518,0.969,0.867,132.982,4,party
+1IXyN7vc9TfuTaTo2rga7d,Höhner,Höhner 4.0,Carneval,24,194680,False,0.726,0.892,7,-3.692,1,0.0572,0.0335,0.0,0.276,0.827,113.0,4,party
+4bk0huzRz4WZx55mJJFbN1,Rob & Chris,Eskalation,Eskalation - Radio Edit,23,193050,False,0.791,0.725,6,-6.61,0,0.062,0.0606,7.98e-06,0.638,0.944,127.99,4,party
+2WjXRWocLt0HbsdPawx0Mx,Schürze,Hey wir sind auf Mallorca,Hey wir sind auf Mallorca,22,191800,False,0.616,0.961,11,-3.771,0,0.071,0.0455,0.0,0.546,0.887,139.958,4,party
+3cIR1XUUJVA82YEIhDr9yQ,Andi Latte,Lattenstramm,Lattenstramm,22,179919,False,0.765,0.966,0,-2.754,1,0.124,0.0707,0.0,0.329,0.906,135.977,4,party
+1TMzg9zP0IjG5SRl9byG7e,Ikke Hüftgold;Willi Herren,"Vor, zurück","Vor, zurück",23,198857,False,0.606,0.933,8,-2.891,1,0.0921,0.138,6.21e-05,0.371,0.556,139.989,4,party
+7cX04LTGPFO1fGc0LDX6Tj,Lorenz Büffel;Oli. P,Wir bleiben drin,Wir bleiben drin,22,212927,False,0.652,0.937,8,-3.65,1,0.174,0.145,0.0,0.326,0.43,132.033,4,party
+5HDmqQZ3NYoiQkbrTris5y,Choo Choo Soul,Choo Choo Soul,The Bullet Train - Original Version,24,122466,False,0.836,0.909,10,-5.239,0,0.0689,0.0304,0.0,0.039,0.893,94.004,4,party
+5AIz2uUy25DIkUnDgfE1k1,Matthias Reim,Die verdammte REIM-Box,1000 Mal,24,195066,False,0.759,0.703,11,-5.565,0,0.0407,0.0192,0.0,0.214,0.662,127.973,4,party
+3YTnmesf2jh2lqkDZteKPc,Andi Latte,Einer ist immer die Pussi,Einer ist immer die Pussi,22,202700,False,0.709,0.938,0,-4.592,1,0.0707,0.0118,0.0,0.337,0.883,141.912,4,party
+7hDRwwB0Scv1hRqApqVvce,DJ Mox,BULLE Oktoberfest Fete 2009 - Das geht ab auf der Wiesn,Ja Achmed - Party Version,23,205730,False,0.753,0.992,5,-2.668,1,0.0479,0.149,0.0,0.0932,0.832,130.05,4,party
+0ZYN8DQrxgzzpZd3GZKAgD,Tobee,Mir fällt die Decke auf den Kopf,Mir fällt die Decke auf den Kopf,23,189186,False,0.721,0.998,9,-1.71,1,0.184,0.0152,0.0,0.291,0.832,138.009,4,party
+0vadcHifVypZS7cS5P8ylw,Micha von der Rampe,Micha from se Dorf,Du bist Bombe,22,152727,False,0.781,0.811,8,-6.245,1,0.144,0.096,0.0,0.33,0.785,131.934,4,party
+33IBFWC4cbg9bSpVjCQbh5,Lorenz Büffel;Ikke Hüftgold,Berti Bums Birne,Berti Bums Birne,23,209012,False,0.653,0.965,1,-1.913,1,0.0885,0.0553,0.0,0.047,0.582,131.952,4,party
+4UWGbubhmVtXUjkjBmG8wZ,Marco Mzee,Das Kufsteiner-Lied,Das Kufsteiner-Lied,23,232851,False,0.495,0.965,0,-2.886,1,0.0466,0.0688,1.53e-05,0.359,0.928,141.983,4,party
+4Br1u1k1VTS8OHoGxfZURd,Ingo ohne Flamingo,Leichtigkeit (Party Remix),Leichtigkeit - Party Remix,22,203214,False,0.338,0.96,10,-2.706,1,0.158,0.159,0.0,0.307,0.62,132.039,4,party
+2UhSoA0Nlo5qM0qYoRfcbj,Stereoact;Lena Marie Engel,Offline,Offline,24,160600,False,0.753,0.745,1,-6.255,1,0.0737,0.0597,4.06e-06,0.236,0.797,109.972,4,party
+5impF2rk8aZYr4tpMb839F,Marco Kloss,Das ist unser letzter Tanz,Das ist unser letzter Tanz - Single Version,23,190473,False,0.794,0.72,0,-6.806,0,0.0607,0.0909,0.000639,0.0751,0.856,130.056,4,party
+63YjBYi1WFCTYZmqQgEnlY,Höhner,"2,3,4",Dicke Mädchen haben schöne Namen,24,203933,False,0.638,0.866,10,-4.519,1,0.0347,0.061,0.0,0.0564,0.771,95.006,4,party
+4qH6VPGP41hx4vShouh70Z,FiNCH;Blümchen,Bum Bum Eis,Herzalarm,23,189904,False,0.632,0.937,10,-6.153,1,0.0459,0.0174,0.000109,0.0549,0.522,165.958,4,party
+5qCBL7dehXz6r8LoUSijLJ,Frenzy,20 Zentimeter,20 Zentimeter,23,241014,False,0.818,0.97,11,-3.586,0,0.0673,0.000618,0.0,0.134,0.846,137.988,4,party
+3NU97CByi69CH0CPQRxd16,Franco Piccolini;Luigi Ferrari,Viez auf Hawaii,Viez auf Hawaii,22,231219,False,0.755,0.549,0,-7.289,1,0.0423,0.0822,0.0,0.0917,0.334,79.971,4,party
+5QYnAUA5esDf99x7oYN6tY,Matthias Reim,Das ultimative Best Of Album,Wie man liebt,24,253520,False,0.576,0.828,5,-5.33,1,0.0303,0.0168,0.0,0.0764,0.593,124.036,4,party
+5MavOWeuHXeLVSlOZjn59K,Andreas Lawo,Irgendwo in Paris,Irgendwo in Paris,23,248181,False,0.646,0.857,10,-4.999,1,0.0345,0.0526,0.0,0.311,0.933,131.959,4,party
+6U8ti3VdvQzmazUWdYL3tu,Matthias Reim,Reim,Ich liebe dich,24,257693,False,0.521,0.756,9,-6.114,0,0.0871,0.0272,9.33e-06,0.114,0.136,132.028,4,party
+0yhciScdqha22OcC5k2kkt,Nancy Franck;Kevin Reumann,Geiler Tag zum Tanzen,Geiler Tag zum Tanzen,23,160900,False,0.675,0.948,10,-3.06,0,0.156,0.0331,0.0,0.952,0.773,140.032,4,party
+2I3XLu6ThQsjAMAEfNs5wW,Mia Julia,Mitten in Mia,Mein bester Zeuge bin ich,23,210226,False,0.659,0.911,4,-2.509,1,0.0287,0.00829,0.0,0.407,0.736,110.01,4,party
+0kPXtyPmSXjU90Mf3lOIlt,Tobee,Jetzt ist der Teufel los,Jetzt ist der Teufel los - Single Party Version,23,239394,False,0.556,0.999,0,-1.876,1,0.293,0.0818,0.0,0.829,0.643,150.996,5,party
+5sGPKRBmZwLfraeguspXRx,Kreisligalegende,Hw4 (Halb Mensch Halb Tier),Hw4 (Halb Mensch Halb Tier),22,164744,False,0.653,0.948,9,-2.954,1,0.16,0.00517,0.0,0.378,0.869,132.046,4,party
+0uaF7UWdGfHX5267JBtUiq,Markus Becker,Micky Maus - Wir geh'n noch nicht nach Haus,Micky Maus - Wir geh'n noch nicht nach Haus,23,176156,False,0.651,0.915,0,-4.158,1,0.0574,0.00836,0.0,0.405,0.509,130.032,4,party
+4IJ011JrNpjcndXCGH854X,Markus Becker;Jörg Lück,Düdeldü,Düdeldü (Original Mix),23,238333,False,0.761,0.826,11,-6.12,1,0.0307,0.00629,6.73e-06,0.02,0.835,135.059,4,party
+2o6UadRCTsiqrNqgzsnymR,Andreas Gabalier,Best Of Volks-Rock'n'Roller,Hulapalu - Best Of VRR,23,181892,False,0.736,0.6,0,-4.628,1,0.0388,0.446,0.0,0.179,0.704,125.003,4,party
+5JZ024FzgnZb07Z5ZQJ4qh,Ingo ohne Flamingo,Jeder Tag ist ein Geschenk,Jeder Tag ist ein Geschenk,22,193920,False,0.729,0.921,11,-5.175,0,0.0466,0.00574,0.0028,0.114,0.672,125.015,4,party
+1JbVpqwG5vQStoSXkt6ywc,Die Draufgänger,Schachmatt,Schachmatt,23,217399,False,0.626,0.939,7,-2.721,0,0.164,0.0369,0.0,0.27,0.832,144.014,4,party
+4xwsdrv3SJ13rtyDWlidm3,Mia Julia;DJ Mico,Geile Zeit,Mallorca da bin ich daheim - Orchester Version,23,264984,False,0.611,0.816,10,-4.076,1,0.0559,0.538,0.0,0.156,0.369,129.97,4,party
+08Wjtao8ToY2bPILIvdDM7,Peter Wackel,Ballermann Einhorn - Mallorca Schlager Hits 2017 für deine Party,Ladioo - Arena-Hitmix,23,236026,False,0.499,0.989,11,-2.363,1,0.093,0.138,4.5e-06,0.433,0.196,137.008,4,party
+2YeFN3FcKVkzldOTRBd0D2,Höhner,Da Simmer Dabei! Die Grössten Partyhits,Echte Fründe - Remake '97,24,142245,False,0.61,0.901,5,-3.961,1,0.0394,0.0342,0.000445,0.247,0.943,127.045,4,party
+2DIoPe6gRrtIkEsQl8SJWj,Isi Glück,"Saufen morgens, mittags, abends - Die Party",Ich will zurück zu dir (Hände hoch Malle) - Voodoo Mix,22,203301,False,0.808,0.729,6,-4.238,1,0.0996,0.109,0.0,0.388,0.308,129.965,4,party
+09HHrpcxYogCRJggk89SuI,Jürgen Drews,Unfassbar,Unfassbar,24,194353,False,0.685,0.951,9,-2.527,1,0.0407,0.0206,1.3e-06,0.167,0.842,130.0,4,party
+0i4JQCrcRUz8GGcU1pxLUo,Die 3 Besoffskis,Aus 30 Jahren 3 Besoffskis,Country Roads,23,181293,False,0.382,0.992,7,-2.756,1,0.129,0.202,0.0,0.324,0.655,113.163,4,party
+1ab3aopHKgzElPiHnPRQ3F,Summerfield United;Kreisligalegende,Geile Zeit,Kreisligalegenden - Original Mix,22,190744,False,0.667,0.92,8,-2.154,1,0.105,0.121,0.0,0.101,0.561,136.03,4,party
+4GjxCT8Wh51esusanzbHsZ,Stereoact;Vanessa Mai,Für immer,Ja Nein Vielleicht,24,169106,False,0.828,0.719,0,-5.422,1,0.0422,0.173,0.0,0.0633,0.765,116.965,4,party
+4Bo3TBoTN1nC2Iia66Z7Rj,DJ Herzbeat;Marie Wegener,Dancefieber,Irgendwas mit Liebe,23,201160,False,0.575,0.761,1,-3.497,0,0.0552,0.0356,0.0,0.221,0.365,90.009,4,party
+3ZIVI5QqY6wf3aQ7pKlDnk,Andreas Gabalier,Home Sweet Home,Die Beichte,23,294146,False,0.448,0.768,8,-5.951,1,0.101,0.103,0.0,0.119,0.489,151.014,4,party
+4Mq9ahpzHiirkm0Z4uIt1X,Marco Wagner;Dave Brown,House by the Sea,House by the Sea (Extended Version),23,204693,False,0.766,0.947,7,-3.878,1,0.0331,0.0348,4.05e-06,0.32,0.765,127.951,4,party
+0hqfuH6oy9PemVIvuw4grF,Jürgen Drews;Howard Carpendale,Das ultimative Jubiläums-Best-Of,Es war alles am besten,24,200893,False,0.634,0.549,4,-7.192,1,0.0244,0.349,0.0,0.108,0.444,98.004,4,party
+5MyMUg8W0FB2C0dcVwoygG,Die Draufgänger,Grün,Eins Zwei Polizei,23,175053,False,0.699,0.905,11,-3.717,0,0.0354,0.0124,0.000142,0.106,0.971,144.984,4,party
+5pSD2A0E8lyVa2wEefQE3u,Die Draufgänger,#Hektarparty,Pfusch die Mauer - Flying Hirsch Remix,23,209226,False,0.692,0.88,10,-4.535,1,0.0633,0.00279,3.85e-06,0.135,0.563,132.031,4,party

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+7BKLCZ1jbUBVqRi2FVlTVw,The Chainsmokers;Halsey,Closer,Closer,84,244960,False,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,electro
+18uwL0vNUanqZH0ro2QcOP,Jeremy Zucker,"summer,",comethru,79,181613,False,0.795,0.178,0,-11.991,1,0.0574,0.607,0.0,0.623,0.608,93.982,4,electro
+0lYBSQXN6rCTvUZvg9S0lU,DJ Snake;Justin Bieber,Encore,Let Me Love You,84,205946,False,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,4,electro
+5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Without Me,78,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,electro
+4IQqOlTZpfjnSTOArpZX5j,Farasat Anees;Slick Trick;Toshi,OFIVE1,BIBA,66,216216,False,0.758,0.573,6,-6.221,0,0.0428,0.0888,0.000677,0.0834,0.284,110.983,4,electro
+6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Manic,Without Me,79,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,electro
+0Cy7wt6IlRfBPHXXjmZbcP,Ellie Goulding,Fifty Shades Freed (Original Motion Picture Soundtrack),Love Me Like You Do,79,253520,False,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,4,electro
+4DpNNXFMMxQEKl7r0ykkWA,Melanie Martinez,Cry Baby (Deluxe Edition),Play Date,79,179867,True,0.68,0.729,5,-5.077,1,0.0475,0.612,0.0,0.224,0.446,123.97,4,electro
+3SErMoIKdRELto2OspGs5L,blackbear,dead,idfc,81,207026,True,0.718,0.422,4,-9.115,0,0.0621,0.0764,0.0,0.17,0.455,144.678,4,electro
+2dpaYNEQHiRxtZbfNsse99,Marshmello;Bastille,Happier,Happier,83,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,electro
+2nC3QhMI9reBIOWutbU3Tj,Ashe,Moral of the Story,Moral of the Story,76,201083,True,0.572,0.406,10,-8.624,1,0.0427,0.587,4.48e-06,0.102,0.265,119.812,4,electro
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I met you when I was 18. (the playlist),I Like Me Better,83,197436,False,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,electro
+6jRq8gaZhMUyy5RclRPcAf,blackbear,everything means nothing,hot girl bummer,80,188343,True,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,1,electro
+08bNPGLD8AhKpnnERrAc6G,Marshmello;Anne-Marie,FRIENDS,FRIENDS,79,202620,True,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,electro
+7ef4DlsgrMEH11cDZd32M6,Calvin Harris;Dua Lipa,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),89,214846,False,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,electro
+4n7jnSxVLd8QioibtTDBDq,Alan Walker;Sabrina Carpenter;Farruko,On My Way,On My Way,74,193797,True,0.509,0.689,1,-4.929,0,0.102,0.0209,0.0,0.301,0.297,170.087,4,electro
+1TQXIltqoZ5XXyfCbAeSQQ,Sasha Alex Sloan,Dancing With Your Ghost,Dancing With Your Ghost,80,197732,False,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,4,electro
+2ccERNgupCOr0XjIikHDKJ,Otnicka;Duke Luke,Peaky Blinder,Peaky Blinder,65,159130,False,0.624,0.734,5,-7.338,0,0.176,0.33,0.0549,0.326,0.563,184.051,4,electro
+2Fxmhks0bxGSBdJ92vM42m,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",bad guy,84,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Narrated For You,Let Me Down Slowly,85,169353,False,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,4,electro
+6RUKPb4LETWmmr3iAEQktW,The Chainsmokers;Coldplay,Memories...Do Not Open,Something Just Like This,85,247160,False,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4,electro
+1i1fxkWeaMmKEB4T7zqbzK,The Chainsmokers;Daya,Don't Let Me Down,Don't Let Me Down,80,208373,False,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,4,electro
+0xzI1KAr0Yd9tv8jlIk3sn,benny blanco;BTS;Snoop Dogg,Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),87,172714,False,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,4,electro
+3zHq9ouUJQFQRf3cm1rRLu,Ellie Goulding,Delirium (Deluxe),"Love Me Like You Do - From ""Fifty Shades Of Grey""",79,252534,False,0.262,0.606,8,-6.646,1,0.0484,0.247,0.0,0.125,0.275,189.857,4,electro
+4w8niZpiMy6qz1mntFA5uM,DJ Snake;Selena Gomez;Ozuna;Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",76,212500,True,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,4,electro
+5ln5yQdUywVbf8HhFsOcd6,Halsey,hopeless fountain kingdom (Deluxe),Walls Could Talk,77,101789,True,0.626,0.423,1,-6.035,1,0.0513,0.128,0.0,0.18,0.571,95.162,4,electro
+52iLDrSoRtf9lcgFuLVfqE,Sasha Alex Sloan,Older,Older,71,191001,False,0.681,0.292,11,-9.599,1,0.0483,0.743,0.0,0.0974,0.162,64.002,4,electro
+698ItKASDavgwZ3WjaWjtz,Alan Walker,Different World,Faded,80,212106,False,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97e-06,0.11,0.159,179.642,4,electro
+0lks2Kt9veMOFEAPN0fsqN,Alan Walker;K-391;Emelie Hollow,Different World,Lily,74,195840,False,0.423,0.634,6,-5.877,0,0.0578,0.196,0.0,0.189,0.467,150.978,4,electro
+3LlmKSHR3Rs0Y3KHQLAYDk,Alan Walker,Different World,Alone,74,160426,False,0.673,0.914,10,-3.962,1,0.0496,0.229,0.000478,0.186,0.183,97.021,4,electro
+6SRWhUJcD2YKahCwHavz3X,Alan Walker;Au/Ra;Tomine Harket,Different World,Darkside,75,211680,False,0.43,0.606,4,-5.115,0,0.0431,0.131,0.0,0.173,0.123,169.988,4,electro
+4TmPunCnlJjiKu2iYhqapU,Billie Eilish,Halloween & Chill,Lost Cause,0,212496,True,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,4,electro
+0OZYXc58HooMgBNWyp6cuO,Billie Eilish,pov: it's 2021,Therefore I Am,2,174321,False,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4,electro
+5KJaEu2ZMIt9FMvofqUgmg,Billie Eilish,Отново на училище,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+6ZRF2oj59pKnVYjHcvN2Pa,Billie Eilish,Halloween Songs | Witches Hour,bury a friend,5,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+2jLb85FBel6Z1weO31KOHb,Billie Eilish,Halloween & Chill,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+5olaF84x7e8jKLmLsm4aA4,Billie Eilish,Twisted Halloween Hits,all the good girls go to hell,0,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,electro
+0ZamEnH0D9EvQD1GchY21Y,Billie Eilish,Halloween & Chill,all the good girls go to hell,0,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,electro
+0rWLHJnMyJaMFA8x9l8AT0,Billie Eilish,Halloween Party 2022,all the good girls go to hell,3,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,electro
+7tWbogz6sIIV6FDcbxkEKw,Billie Eilish,Halloween & Alternative,bury a friend,3,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+154lbtHSyyOt0ao2QwbE4n,Billie Eilish,Girls Night,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+0rhRmyfpaAyos7Euzh8ztl,Billie Eilish,Halloween Party 2022,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+1OxYob8D3iKQOitl3TIPZ5,Billie Eilish,Halloween 2022,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+1mJZalDNdBZmBNqSSMsgma,Billie Eilish,Pop & Halloween,bury a friend,4,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+2yNKDG4FgwzQuL0JUEOunR,Billie Eilish,Herbststimmung,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+5tfuXF09XVnvro9l5l9Mle,Billie Eilish,Halloween & Alternative,all the good girls go to hell,1,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,electro
+6DBdYfd4EkR6cUPSqtEwhQ,Billie Eilish,Beginner Ride (Sweat & Burn),bad guy,2,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+4Vzpf1TmxKmczOiTAfheBs,Billie Eilish,Halloween 2022,bad guy,0,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+5mvAPEp2FA2myWJAE1FYt3,Billie Eilish,Halloween Party 2022,you should see me in a crown,0,180566,False,0.683,0.534,4,-10.348,1,0.189,0.519,0.247,0.148,0.284,150.469,4,electro
+1c8h1SBYY44ys4EuaIZJMn,Billie Eilish,Halloween Party 2022,bad guy,0,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,everything i wanted,86,245425,False,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4,electro
+6qrifdo7QINdPQr80IelGi,Rovalio;Abdul Hannan,Iraaday,Iraaday,66,133305,False,0.737,0.458,6,-5.805,1,0.0317,0.601,6.98e-06,0.138,0.456,89.993,4,electro
+7vGuf3Y35N4wmASOKLUVVU,Marshmello;Khalid,Silence,Silence,81,180822,False,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,4,electro
+4qu63nuBpdn0qHUHuObEj1,Marshmello;Jonas Brothers,Leave Before You Love Me,Leave Before You Love Me (with Jonas Brothers),85,154983,False,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,4,electro
+10xV5l9nhLvFpR8mqzs0bL,Marshmello;Khalid,Numb,Numb,87,155588,False,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,4,electro
+09IStsImFySgyp0pIQdqAc,Zedd;Maren Morris;Grey,The Middle,The Middle,80,184732,False,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,4,electro
+1Lim1Py7xBgbAkAys3AGAG,Major Lazer;MØ;DJ Snake,Peace Is The Mission (Extended),Lean On,73,176561,False,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,4,electro
+04sN26COy28wTXYj3dMoiZ,Billie Eilish,Bored,Bored,85,180933,False,0.614,0.318,7,-12.695,1,0.0478,0.896,0.00239,0.0795,0.112,119.959,4,electro
+7FGq80cy8juXBCD2nrqdWU,benny blanco;Halsey;Khalid,FRIENDS KEEP SECRETS,Eastside (with Halsey & Khalid),78,170769,False,0.632,0.686,6,-7.665,0,0.243,0.549,0.0,0.2,0.329,89.949,4,electro
+4vjpLMyL3ZO6aphdYr8XYw,Lauv;Troye Sivan,~how i'm feeling~,i'm so tired...,76,162586,False,0.576,0.736,11,-7.572,1,0.224,0.178,0.0,0.238,0.484,101.928,4,electro
+5WtfUKzXircvW8l5aaVZWT,Julia Michaels;Niall Horan,Inner Monologue Part 1,What A Time (feat. Niall Horan),82,173306,False,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,4,electro
+2qG81jL9UIP54uS8gYyP4k,Lauv;BTS,~how i'm feeling~,Who (feat. BTS),76,180413,False,0.632,0.339,11,-7.983,0,0.0337,0.546,0.0,0.104,0.0969,141.642,3,electro
+7BhmwvCdQZNwuQXSHw5TzP,Alok;Alan Walker;KIDDO,Headlights (feat. KIDDO),Headlights (feat. KIDDO),70,158400,False,0.626,0.754,2,-6.217,0,0.0269,0.00998,0.00404,0.157,0.317,100.015,4,electro
+0VO8gYVDSwM1Qdd2GsMoYK,Swedish House Mafia;The Weeknd,Paradise Again,Moth To A Flame (with The Weeknd),83,234000,False,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,4,electro
+32BeYxKPrig1LefHsC0Xuo,Billie Eilish,Happier Than Ever (Edit),Happier Than Ever - Edit,82,151444,True,0.334,0.599,0,-5.742,1,0.0365,0.0468,0.000392,0.205,0.127,161.74,3,electro
+1roCmBlcpV7LzsmB7pmCyt,Alec Benjamin;Alessia Cara,Let Me Down Slowly (feat. Alessia Cara),Let Me Down Slowly (feat. Alessia Cara),71,169174,False,0.655,0.569,1,-5.018,0,0.0349,0.716,7.4e-06,0.135,0.44,150.267,4,electro
+6IPNp9PfaEqrzotY47TIWy,DJ Snake;Ozuna;Megan Thee Stallion;LISA,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",77,225600,True,0.8,0.837,6,-2.807,0,0.0491,0.00406,0.00313,0.0904,0.702,100.015,4,electro
+5ajjAnNRh8bxFvaVHzpPjh,Madison Beer,Reckless,Reckless,80,203384,False,0.386,0.426,3,-6.642,1,0.0363,0.807,0.0,0.14,0.261,180.104,3,electro
+2oejEp50ZzPuQTQ6v54Evp,The Chainsmokers;Bebe Rexha,World War Joy,Call You Mine,75,217640,False,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,4,electro
+72jbDTw1piOOj770jWNeaG,The Chainsmokers,Memories...Do Not Open,Paris,74,221506,False,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,4,electro
+3g0mEQx3NTanacLseoP0Gw,The Chainsmokers;ILLENIUM;Lennon Stella,World War Joy,Takeaway,75,209880,False,0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1,4,electro
+0zzVTGyRrWpQu8Fr28NRAv,Marshmello;Demi Lovato,OK Not To Be OK,OK Not To Be OK,75,159862,False,0.743,0.837,1,-5.025,0,0.0649,0.0172,0.0,0.0743,0.263,103.072,4,electro
+7xlrdBdz8TGSo0COvLHymc,RANDALL,Wahran,Wahran,63,231114,False,0.517,0.753,0,-7.928,0,0.0515,0.0228,0.278,0.105,0.269,93.917,4,electro
+75ls0gurX68lUmMjE7QcsE,Jeremy Zucker,glisten,all the kids are depressed,75,169973,True,0.773,0.437,9,-8.281,1,0.0963,0.836,2.42e-05,0.544,0.707,103.861,4,electro
+4IhKLu7Vk3j2TLmnFPl6To,Alec Benjamin,Narrated For You,Water Fountain,79,218893,False,0.723,0.504,8,-5.572,1,0.0392,0.388,7.4e-05,0.087,0.551,133.975,4,electro
+1jLsirPDkUS2g4gnkYua58,Alan Walker;Julie Bergan;K-391;SEUNGRI,Ignite,Ignite,71,210288,False,0.681,0.864,8,-4.3,0,0.116,0.0208,3.98e-06,0.192,0.479,90.008,4,electro
+42ydLwx4i5V49RXHOozJZq,Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,74,230226,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,electro
+0wI7QkCcs8FUQE1OkXUIqd,Alessia Cara,Know-It-All,Scars To Your Beautiful,78,230240,False,0.573,0.739,0,-5.74,1,0.129,0.0285,0.0,0.111,0.451,97.085,4,electro
+2i4rLDS0cR77blmqqPybve,Marshmello;Jonas Brothers,Autumn Vibes 2022,Leave Before You Love Me,0,154983,False,0.724,0.744,7,-4.757,1,0.0398,0.00219,4.49e-06,0.116,0.645,119.978,4,electro
+1fSfbrzIlBuT1XIjqRe1eM,Marshmello;Jonas Brothers,pov: it's 2021,Leave Before You Love Me,0,154983,False,0.724,0.744,7,-4.757,1,0.0398,0.00219,4.49e-06,0.116,0.645,119.978,4,electro
+5SbE5ptbYNFahUdICaS6kp,Marshmello;Demi Lovato,pov: it's 2020,OK Not To Be OK,0,159862,False,0.743,0.837,1,-5.025,0,0.0649,0.0172,0.0,0.0743,0.263,103.072,4,electro
+2XiqR6g3EbBfdPvcqjct7w,Marshmello;Bastille,Halloween Party Canzoni per Bambini 2022,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+4uDhts78RdwIDjEqPrYVKp,Alan Walker;Imanbek,Sweet Dreams,Sweet Dreams,75,138819,False,0.766,0.817,7,-4.253,1,0.035,0.0239,2.49e-06,0.159,0.43,125.033,4,electro
+2DGa7iaidT5s0qnINlwMjJ,Alan Walker,The Spectre,The Spectre,72,193787,False,0.654,0.711,1,-7.437,0,0.0383,0.0214,0.00191,0.0903,0.198,127.957,4,electro
+7b1JFWEOfZtN9HGCzvBOir,Marshmello;Anne-Marie,Autumn Hits,FRIENDS,3,202620,True,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,electro
+1GuSTVJDtsbY70WV0VT64H,Marshmello;Bastille,Beginner Ride (Mixtape Vol. 1),Happier,5,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+3715OFFs0TnnHNRcrfQNs4,Marshmello;Bastille,Autumn Vibes 2022,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+4TYeIlwlJTgNkPaFxUP0PJ,Marshmello;Bastille,Tutti in piscina Canzoni per bambini,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+7FBf7WRech1Bhdp9BcylM6,Marshmello;Bastille,Weekend Baby,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+2cDcYOhmL0nsZuLSXq2eUU,Marshmello;Bastille,Arbeitsmusik Herbst/Winter 2022/2023,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+1XGsEVaoYosgzQNUQrXyUb,Marshmello;Bastille,10's Music Grandi Successi,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+20uFSAxK0ilztG3jr08XWf,Wisin & Yandel;Chris Brown;T-Pain,Regageton Para Niños,Algo Me Gusta De Ti,1,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,electro
+4wobSR77IcbVP58BUwllTy,Marshmello;Bastille,Workout Hits 2023,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,electro
+0bYsT1b741xstgFwe4WoKp,Wisin & Yandel,Noche de Halloween Latino,Hipnotízame,7,243386,False,0.775,0.828,0,-3.972,1,0.139,0.289,0.0,0.434,0.571,79.992,4,electro
+3dKlTiPC2NTfrnlmM43TuX,Wisin & Yandel,Perreo Tenebroso Vol. 2,Pam Pam,0,227280,False,0.874,0.69,10,-6.373,1,0.114,0.121,0.0,0.249,0.735,95.025,4,electro
+698BVnDEuu5eDWjWfVH0qV,Wisin & Yandel,Última Misión Reggaeton,Me Estas Tentando,0,229173,False,0.81,0.916,4,-2.649,0,0.0537,0.312,7.63e-06,0.347,0.794,116.009,4,electro
+2slqPwgNcvx17V7RZN8u3f,Wisin & Yandel,Perreo Tenebroso Vol. 1,Síguelo,0,215920,False,0.628,0.928,3,-4.431,0,0.297,0.527,0.0,0.143,0.609,130.029,4,electro
+3dJjsWCy6ZwMfw5NbD226G,Wisin & Yandel;Anthony Santos,Reggeaton Imperdible,Noche De Sexo,1,205773,True,0.721,0.714,11,-5.436,0,0.234,0.107,0.0,0.562,0.506,94.002,4,electro
+2RAEtFZQd4TZexKgblZNgA,Wisin & Yandel;Anthony Santos,Última Misión Reggaeton,Noche De Sexo,0,205773,True,0.721,0.714,11,-5.436,0,0.234,0.107,0.0,0.562,0.506,94.002,4,electro
+5XnDEUn0QHWdr2bMJGIL1d,Wisin & Yandel;Chris Brown;T-Pain,Homecoming Latin Party,Algo Me Gusta De Ti,0,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,electro
+4pTkDIlpFNoeWbahu8pVXW,Izzamuzzic;Julien Marchal,Shootout,Shootout,78,295308,False,0.663,0.578,2,-9.079,1,0.0687,0.312,0.906,0.109,0.553,86.986,4,electro
+2rizacJSyD9S1IQUxUxnsK,The Chainsmokers;Phoebe Ryan,All We Know,All We Know,70,194080,False,0.662,0.586,0,-8.821,1,0.0307,0.097,0.00272,0.115,0.296,90.0,4,electro
+1i36kkhmhBxf4lYJscg5zK,Bazzi,COSMIC,Fantasy,75,148229,True,0.699,0.668,5,-4.272,0,0.0336,0.154,3.2e-06,0.362,0.314,144.105,4,electro
+1iQDltZqI7BXnHrFy4Qo1k,SHAED;ZAYN,Trampoline (with ZAYN),Trampoline (with ZAYN),69,184280,False,0.619,0.459,7,-5.782,0,0.0334,0.56,0.0,0.137,0.498,126.803,4,electro
+0azC730Exh71aQlOt9Zj3y,Calvin Harris;Rihanna,This Is What You Came For,This Is What You Came For,81,222160,False,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,4,electro
+6uBhi9gBXWjanegOb2Phh0,Zedd;Alessia Cara,Stay,Stay,76,210090,False,0.69,0.622,5,-5.025,0,0.0622,0.253,0.0,0.116,0.544,102.04,4,electro
+3Z8FwOEN59mRMxDCtb8N0A,Marshmello;Halsey,Be Kind (with Halsey),Be Kind (with Halsey),77,172761,False,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,4,electro
+6xsGllAEwkmF4SSDwdpmMt,Major Lazer;Justin Bieber;MØ,Major Lazer Essentials,Cold Water,58,185351,False,0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.5,92.946,4,electro
+6kls8cSlUyHW2BUOkDJIZE,Ellie Goulding;Juice WRLD,Hate Me (with Juice WRLD),Hate Me (with Juice WRLD),74,186223,False,0.657,0.768,8,-4.628,1,0.0507,0.108,0.0,0.144,0.759,75.025,4,electro
+21szgNA72iLwvBxHQLgwBh,Nessa Barrett,die first,die first,81,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+09AvsbivV1FQBRAEBJh7UL,The Chainsmokers,So Far So Good,High,75,175163,True,0.601,0.787,0,-6.178,1,0.031,0.0492,0.0,0.142,0.525,134.981,4,electro
+7gHs73wELdeycvS48JfIos,Alan Walker,Faded,Faded,72,212626,False,0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,4,electro
+6rfahvufEQDIVTHJIU2QQB,MEMBA;EVAN GIIA;Nooran Sisters,"For Aisha (Featured in ""The Sky Is Pink"")","For Aisha (Featured in ""The Sky Is Pink"")",59,357931,False,0.568,0.622,4,-6.548,1,0.109,0.063,0.0018,0.56,0.109,76.984,4,electro
+6h5PAsRni4IRlxWr6uDPTP,Axwell /\ Ingrosso,More Than You Know,More Than You Know,80,203000,False,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,4,electro
+2ez6qvOTHKeI3ss80NGqnI,SHAED;ZAYN,Melt (Deluxe),Trampoline (with ZAYN),67,184280,False,0.619,0.459,7,-5.782,0,0.0334,0.56,0.0,0.137,0.498,126.803,4,electro
+7fZBQnc0zXwVybgCIrQQil,Imanbek;BYOR,Belly Dancer,Belly Dancer,87,151475,False,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,4,electro
+6ATgDc6e4sPn84hvJsAmPt,Olivia O'Brien,hate u love u,hate u love u,75,175466,False,0.407,0.416,6,-8.915,0,0.174,0.656,0.0,0.0981,0.246,176.947,4,electro
+6FoUUkUM4fVdh5pLZyxgjz,Fly By Midnight;Jake Miller,Automatic (feat. Jake Miller),Automatic (feat. Jake Miller),68,157472,True,0.6,0.529,8,-6.184,1,0.0277,0.239,2.35e-05,0.099,0.371,134.966,4,electro
+0zqBZqm5czQ3A4EoSdKFHj,Alan Walker;Benjamin Ingrosso,World Of Walker,Man On The Moon,73,178625,False,0.668,0.816,4,-5.648,0,0.0367,0.0557,1.02e-06,0.197,0.5,129.971,4,electro
+0KoiMHhqKLoL4xM54rcWYY,DJ Snake;Selena Gomez;Ozuna;Cardi B,Carte Blanche,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",73,212500,True,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,4,electro
+69HzZ3ti9DLwb0GdWCGYSo,Ashe,Ashlyn,Moral of the Story,76,201016,True,0.569,0.403,10,-8.618,1,0.0439,0.593,4.49e-06,0.102,0.269,119.819,4,electro
+1zu2GKHPJIsUu80SUJX4H4,Alec Benjamin,(Un)Commentary,Devil Doesn’t Bargain,80,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+7pT6WSg4PCt4mr5ZFyUfsF,Alec Benjamin,Narrated For You,If We Have Each Other,75,181522,False,0.656,0.577,10,-5.566,0,0.0802,0.698,0.0,0.296,0.861,173.094,4,electro
+3BomnHfqKZCdPJC9bkGBjE,Alan Walker;Sabrina Carpenter;Farruko,World Of Walker,On My Way,66,193959,True,0.522,0.697,1,-5.288,0,0.103,0.0291,0.0,0.319,0.235,169.775,4,electro
+1zOOl8f7qkjj0AmvlCfLyQ,Alan Walker,The Drum,The Drum,71,189287,False,0.783,0.762,6,-4.727,1,0.0507,0.158,6.56e-05,0.092,0.33,127.993,4,electro
+2DpCdPMg1BADE4HDnxt3Rd,Daya,"Sit Still, Look Pretty","Sit Still, Look Pretty",63,202226,False,0.655,0.787,2,-3.031,1,0.264,0.122,3.11e-06,0.178,0.554,181.799,4,electro
+2ilLde312SB0ADAza3IbY6,Melanie Martinez,All Out Alternative,Soap,0,209426,False,0.594,0.689,6,-6.107,0,0.148,0.259,5.49e-06,0.129,0.209,168.112,4,electro
+6OdmU38bVJaVBBeIkso4Wu,Alok;Bastille,EDM Gaming Music Autumn/Winter 2022,Run Into Trouble,0,182564,False,0.621,0.885,6,-4.593,1,0.0415,0.265,0.0,0.0719,0.411,117.021,4,electro
+7AooCXwgZzGSBLjdmWo7Xq,Melanie Martinez,I'm Blue - Hits of 2022,Pacify Her,0,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+02kqIWKi4zOQ2hIjUAfhqb,Ellie Goulding,pov: it's 2019,Flux,0,230973,False,0.509,0.415,0,-6.502,1,0.0272,0.856,0.0,0.14,0.393,93.576,4,electro
+6g58dbXCMURHIjtYhbVzf3,Melanie Martinez,Break Up Songs,Dead to Me,3,210120,False,0.538,0.692,9,-5.622,0,0.0721,0.702,0.0,0.344,0.57,139.746,4,electro
+3Eo7rOfvXRzGq68b9PVfZE,Wisin & Yandel,Esto No Se Le Dedica A Cualquiera,Estoy Enamorado,2,271720,False,0.78,0.725,6,-6.032,1,0.0503,0.288,0.0,0.0851,0.431,100.92,4,electro
+2WdoNsBBmug5D7X36liNml,Melanie Martinez,Low-Key Hits,Glued,0,192736,True,0.585,0.578,11,-7.551,1,0.0477,0.515,2.39e-06,0.145,0.579,172.031,4,electro
+3YtBnp4q2Trhu9Zv09ErQl,Wisin & Yandel,Halloween 2022 Perreo Vol. 1,Estoy Enamorado,2,271720,False,0.78,0.725,6,-6.032,1,0.0503,0.288,0.0,0.0851,0.431,100.92,4,electro
+2jRLhJSvJQn0NqHshENHt1,Wisin & Yandel;Chris Brown;T-Pain,Del gusto de hermanos,Algo Me Gusta De Ti,0,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,electro
+5AbneHiiYTNHNrbcrKCImE,Alok;Axel Cooper;Stefy De Cicco,Perreo Tenebroso Vol. 4,Te Boté,0,136500,False,0.751,0.816,11,-4.044,0,0.0471,0.0683,8.42e-05,0.126,0.501,115.058,4,electro
+434VcYrm3FPRRiW4jw5nLb,Wisin & Yandel;Chris Brown;T-Pain,Fiesta portatil,Algo Me Gusta De Ti,2,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,electro
+1v8HKXubkw9fpYfOJdmAc7,Wisin & Yandel,Homecoming Latin Party,Pegao,0,234546,False,0.792,0.804,3,-4.752,1,0.259,0.537,0.0,0.342,0.807,96.041,4,electro
+1dvlY1iYFNgO7SFWRGHB3x,Wisin & Yandel,Halloween 2022 Perreo Vol. 3,Pegao,1,234546,False,0.792,0.804,3,-4.752,1,0.259,0.537,0.0,0.342,0.807,96.041,4,electro
+7z1uUb32IxZvJ97Fk86igf,Wisin & Yandel,Última Misión Reggaeton,Pam Pam,0,227280,False,0.874,0.69,10,-6.373,1,0.114,0.121,0.0,0.249,0.735,95.025,4,electro
+0VDbQ47H6Zn0zTdMziB0ex,Wisin & Yandel,Perreo Tenebroso Vol. 5,Tu Olor,0,246853,False,0.821,0.753,1,-5.27,0,0.0817,0.0148,6.13e-06,0.109,0.364,114.983,4,electro
+3dJjsWCy6ZwMfw5NbD226G,Wisin & Yandel;Anthony Santos,Reggeaton Imperdible,Noche De Sexo,1,205773,True,0.721,0.714,11,-5.436,0,0.234,0.107,0.0,0.562,0.506,94.002,4,electro
+356ry72djzWnoIjOCrLS7h,Wisin & Yandel,Perreo en Halloween,Sexy Movimiento,1,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,electro
+77AAzPYU8BzH1706odR9WR,Wisin & Yandel,Halloween 2022 Perreo Vol. 5,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,electro
+5iBHQdgvYptTzQzLPHxbXz,Wisin & Yandel,Queda poco para la PAES 2.0,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,electro
+12xEvLcLawXJUs4ANGYdxZ,"Wisin & Yandel;Franco ""El Gorilla"";Jayko",Halloween con perreito,Me Estas Tentando - Remix,0,264306,False,0.819,0.897,9,-3.633,0,0.0484,0.117,4.72e-06,0.311,0.805,116.019,4,electro
+1z4WUEk8yk3KyYg8vXzorT,Wisin & Yandel,Perreo Tenebroso Vol. 1,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,electro
+3yJjRARrm2dE2tPuzPL2Z1,Wisin & Yandel,Halloween con perreito,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,electro
+71A0fSIUozc9NvH3tn3rO6,"Wisin & Yandel;Tego Calderón;Franco ""El Gorilla""",Perreo Tenebroso Vol. 2,Sigan Bailando,0,291453,False,0.753,0.831,1,-4.702,0,0.247,0.148,2.32e-05,0.0902,0.684,180.054,4,electro
+18wY1el6t8suJztm3jWiQN,Melanie Martinez;Eric Sharp,Mellow Electronic Pop,Carousel - Eric Sharp Radio Mix,0,271573,False,0.669,0.659,5,-8.306,0,0.0719,0.289,6.51e-05,0.0735,0.351,126.095,4,electro
+7uzmGiiJyRfuViKKK3lVmR,Bazzi,COSMIC,Mine,76,131064,True,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,electro
+6y6jbcPG4Yn3Du4moXaenr,blackbear,deadroses,idfc,76,245172,True,0.63,0.5,1,-8.755,0,0.0611,0.611,4.04e-05,0.114,0.315,144.871,4,electro
+0d2iYfpKoM0QCKvcLCkBao,benny blanco;Halsey;Khalid,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),75,173799,False,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,4,electro
+4VUwkH455At9kENOfzTqmF,Bazzi;Camila Cabello,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),74,180000,False,0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,4,electro
+51NFxnQvaosfDDutk0tams,Billie Eilish,Bellyache,bellyache,79,179172,False,0.695,0.573,4,-8.597,0,0.106,0.46,0.0734,0.482,0.408,99.939,4,electro
+6kxaaIeowajN7w21PfMLbu,Halsey,So Good,So Good,77,176058,False,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,0.311,164.998,4,electro
+7hDVYcQq6MxkdJGweuCtl9,Billie Eilish,dont smile at me,ocean eyes,80,200379,False,0.511,0.363,4,-7.65,0,0.041,0.816,0.0317,0.084,0.169,144.892,4,electro
+1T575AhHueYinKSDflEsGK,Julia Michaels,Fifty Shades Freed (Original Motion Picture Soundtrack),Heaven,69,191786,False,0.552,0.371,7,-9.104,0,0.0359,0.857,0.0,0.0838,0.245,199.843,3,electro
+2VlLbhGLVJgdOW7kKdWWFc,Billie Eilish,Six Feet Under,Six Feet Under,75,189613,False,0.576,0.307,11,-12.732,0,0.0428,0.807,0.000355,0.0792,0.157,67.513,4,electro
+3MEYFivt6bilQ9q9mFWZ4g,Marshmello,Alone,Alone,73,273802,False,0.631,0.953,2,-3.739,1,0.0343,0.0241,0.0155,0.108,0.422,141.99,4,electro
+1rIKgCH4H52lrvDcz50hS8,Zara Larsson,So Good,Lush Life,78,201122,False,0.694,0.712,7,-3.923,0,0.046,0.132,0.0,0.211,0.799,98.023,4,electro
+4SlCYFaUQ8GRuwdpgniaGF,KSHMR;Lost Stories;Kavita Seth,Bombay Dreams (feat. Kavita Seth),Bombay Dreams (feat. Kavita Seth),57,198461,False,0.629,0.821,5,-4.743,0,0.0466,0.0194,0.0176,0.0815,0.458,103.998,4,electro
+4KL3FJYexPrPuMdPagHPXp,Raiden;CHANYEOL;LeeHi;CHANGMO,Yours,Yours,67,235413,False,0.676,0.774,8,-3.988,1,0.0338,0.137,0.0,0.106,0.392,86.994,4,electro
+4NBTZtAt1F13VvlSKe6KTl,The Chainsmokers;Kelsea Ballerini,Sick Boy,This Feeling,73,197946,False,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,4,electro
+3mRLHiSHYtC8Hk7bzZdUs1,Bishop Briggs,Church Of Scars,River,75,216133,False,0.733,0.477,2,-6.737,0,0.0687,0.302,2.97e-06,0.0579,0.545,62.507,4,electro
+4fFfyouye6vrX9o9z4PVMu,Lauv,I met you when I was 18. (the playlist),Never Not,74,208000,False,0.47,0.221,5,-9.243,1,0.0371,0.693,0.0,0.104,0.264,133.714,4,electro
+2WOuLxGqZmLH0lcx2a0czd,Consoul Trainin;Steven Aderinto;DuoViolins,Obsession,Obsession - Radio Edit,60,181972,False,0.701,0.83,11,-5.132,0,0.0507,0.362,6.77e-05,0.0831,0.475,122.037,4,electro
+0rbKrBvZUYY9GN9l057BuY,Jeremy Zucker,love is not dying,"always, i'll care",74,146160,False,0.732,0.221,6,-12.623,1,0.056,0.897,2.62e-05,0.11,0.677,105.165,4,electro
+4y7l0LemO3ZXKPjP87oDeS,Swedish House Mafia;The Weeknd,Halloween Party 2022,Moth To A Flame,3,234000,False,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,4,electro
+2uDyv5rw4333xY5obTeByt,Alan Walker;Au/Ra,"Walkerverse, Pt. I",Somebody Like U,68,191098,False,0.616,0.691,9,-6.497,1,0.0621,0.156,0.0,0.177,0.207,124.957,4,electro
+4h0AcGRmeZiKpn9zpTxZ9D,Melanie Martinez,La Fine dell'Estate,Pacify Her,2,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+7gMobZSfdEGUEIDuMNihXH,Lauv,Autumn Vibes 2022,All 4 Nothing (I'm So In Love),0,183014,False,0.72,0.819,1,-4.588,1,0.0362,0.0411,0.0,0.0606,0.898,131.99,4,electro
+0lG6QM1jjbbX5UUn3DPmrZ,Alan Walker;Sorana,Different World,Lost Control,65,222320,False,0.736,0.555,4,-4.689,1,0.0757,0.0345,0.000157,0.0798,0.323,91.997,4,electro
+30KPG6tcT4DAYsYdTEBoXh,Ellie Goulding;Juice WRLD,pov: it's 2019,Hate Me,0,186226,False,0.658,0.791,8,-4.66,1,0.0512,0.102,0.0,0.139,0.744,75.017,4,electro
+7izqZuO3Z4Hh4pvL17tmk4,Ellie Goulding;Big Sean,Mega Hits Autumn/Fall 2022,Easy Lover,5,215937,False,0.675,0.817,5,-3.789,0,0.0497,0.00711,0.0,0.0839,0.446,105.964,4,electro
+0vIkYCzLD9QH7w8m1dC8Mf,Melanie Martinez,Beautiful Trending Hits 2022,Pacify Her,0,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+50etdpjrySctCaS4yw0a72,Melanie Martinez,Baddest of Them All,Pacify Her,0,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+06QhDcVIH3csxlm7K7mpPi,Ellie Goulding;Juice WRLD,Beginner Ride (Mixtape Vol. 1),Hate Me,2,186226,False,0.658,0.791,8,-4.66,1,0.0512,0.102,0.0,0.139,0.744,75.017,4,electro
+7sWuIc5mCxnkyMvg9Yw7Q0,Swedish House Mafia;Connie Constance,EDM Gaming Music Autumn/Winter 2022,Heaven Takes You Home,0,214071,False,0.665,0.738,0,-5.931,0,0.0379,0.0124,0.00598,0.0923,0.0389,125.037,4,electro
+4l8RhqkuZa78jaquy24K8m,Melanie Martinez,New Pop Classics,Pacify Her,0,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+35yQyTBWm4RCrf4SBOlbHv,Melanie Martinez,Give You Love - Cozy Hits,Pacify Her,0,220013,False,0.576,0.593,9,-6.024,0,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+3Vh4nSqr35BOdINsqosOph,Ellie Goulding;Diplo;Swae Lee,Queda poco para la PAES,Close To Me,0,182626,True,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,4,electro
+3bCp61o3h46Yvr0vgMJlaL,Ellie Goulding;Diplo;Swae Lee,pov: it's 2019,Close To Me,0,182626,True,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,4,electro
+1hzhPRth1Dr4ZO1fr21G4g,Ellie Goulding,pov: it's 2020,Power,0,191786,False,0.538,0.642,10,-4.412,1,0.127,0.104,0.0,0.112,0.47,161.803,4,electro
+2VEFxfQgccqUgYQnfrprn1,Melanie Martinez,Here to Forever - All New Indie,Soap,0,209426,False,0.594,0.689,6,-6.107,0,0.148,0.259,5.49e-06,0.129,0.209,168.112,4,electro
+75SaMR1ikwoGSrrfeITsVX,Swedish House Mafia;Sting,Larga Vida al Electro,Redlight,1,242904,False,0.716,0.655,2,-5.999,1,0.0444,0.00857,0.162,0.0572,0.207,125.012,4,electro
+6yUlfM1fMgopGW8PSuorxE,Ellie Goulding,Falling in Love,"Love Me Like You Do - From ""Fifty Shades Of Grey""",1,253279,False,0.271,0.648,8,-5.664,1,0.051,0.248,0.0,0.121,0.261,189.218,4,electro
+77u3cpprulNjIUYkjYwlhU,Ellie Goulding,Del gusto de mamá,Starry Eyed,4,176933,False,0.51,0.816,5,-5.331,0,0.0352,0.13,8.66e-06,0.224,0.588,149.929,4,electro
+4eMN5YiyDpzWRs2JPCoQ1M,Ellie Goulding,10's Music Grandi Successi,"Love Me Like You Do - From ""Fifty Shades Of Grey""",2,253279,False,0.271,0.648,8,-5.664,1,0.051,0.248,0.0,0.121,0.261,189.218,4,electro
+0yciGxyHYjntJNmAj0ObzK,Ellie Goulding,Almorzando solo,Lights - Single Version,0,212706,False,0.681,0.802,8,-5.836,0,0.0347,0.0271,0.0496,0.127,0.791,120.053,4,electro
+0RhLvAINBnJo65rZMIVdOR,Ellie Goulding,Fiesta de disfraces vol. II,Something In The Way You Move,0,226573,False,0.66,0.804,1,-6.133,0,0.0485,0.0402,0.0,0.129,0.359,109.0,4,electro
+2aE2TDB0qfLJSY5wS8SGhU,Swedish House Mafia;John Martin,10's Music Grandi Successi,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+4e4DujMLh9227SuYdFsHK2,Swedish House Mafia;John Martin,Обратно в клас - pop,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+0ugllpORni0VVE6794ADpX,Ellie Goulding,Autumn Vibes 2022,"Still Falling For You - From ""Bridget Jones's Baby""",0,240867,False,0.476,0.518,1,-8.1,1,0.0401,0.553,1.27e-06,0.111,0.179,96.155,4,electro
+60FqdDT6RNvvXoG4673jtH,Swedish House Mafia;John Martin,Beats Electro Mood,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+3GqdU7BqLVpP7hBtlncv3n,Swedish House Mafia,Larga Vida al Electro,One - Radio Edit,0,169920,False,0.802,0.78,0,-6.564,1,0.0367,0.0075,0.824,0.147,0.623,125.027,4,electro
+1beeD7dhYYODv4dl55wNRK,Swedish House Mafia,Electro sounds,One - Radio Edit,0,169920,False,0.802,0.78,0,-6.564,1,0.0367,0.0075,0.824,0.147,0.623,125.027,4,electro
+0k30CIxipiw4Vx0NLG6qqk,Swedish House Mafia;John Martin,Electro sounds,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+7wKuYBIJUQMqcZTlxvnNbU,Swedish House Mafia;John Martin,Larga Vida al Electro,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+0ohRAI2OS61ulh4cJs4i2e,Swedish House Mafia;Knife Party,Electro sounds,Antidote - Radio Edit,0,177249,False,0.648,0.86,7,-4.974,1,0.11,0.00636,0.0289,0.135,0.625,128.03,4,electro
+360Wr96ywrCQq4kTAJ8Pq6,Melanie Martinez,Cry Baby (Deluxe Edition),Pacify Her,80,220013,False,0.576,0.593,9,-6.024,0,0.0306,0.0467,0.000767,0.237,0.373,157.993,4,electro
+3dsyqPDiWYYilRZNBxgxHE,DJ Snake,Carte Blanche,Magenta Riddim,63,194490,False,0.602,0.892,10,-3.66,0,0.0672,0.000393,0.813,0.304,0.57,102.047,4,electro
+15og0pCEcTFWEXOFKdcJlU,Ellie Goulding;Juice WRLD,Brightest Blue,Hate Me,69,188066,False,0.64,0.789,8,-4.891,1,0.0644,0.0875,0.0,0.147,0.762,75.018,4,electro
+5icOoE6VgqFKohjWWNp0Ac,Marshmello;CHVRCHES,Here With Me,Here With Me,75,156346,False,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,electro
+0Wc6cbF38a90b8wov9V63F,AJ Mitchell,Like Strangers Do,Like Strangers Do,69,160790,False,0.633,0.242,3,-8.523,0,0.0761,0.515,0.0,0.0839,0.694,98.219,4,electro
+5nkkVqGi9YgFOwdbn4BYFM,Alan Walker;Trevor Daniel,Extremes,Extremes,73,149508,True,0.618,0.678,8,-6.307,0,0.0646,0.00361,0.0,0.0693,0.394,122.212,4,electro
+1YeeP800KEmlmDygVMIrC2,Tove Lo,Concierto en la ducha,Cool Girl,0,199179,True,0.66,0.695,9,-7.076,0,0.113,0.313,7.17e-06,0.0752,0.204,101.997,4,electro
+5v6qYImm5k36GHlFxdEZyv,Ashe;Niall Horan,Ashlyn,Moral of the Story (feat. Niall Horan) - Bonus Track,74,198515,True,0.579,0.37,10,-8.9,1,0.0383,0.496,0.0,0.221,0.216,119.799,4,electro
+7HhGlOY35npbHi4RxiT4WQ,Tove Lo,10's Music Grandi Successi,Habits (Stay High),0,208000,False,0.688,0.719,5,-3.402,1,0.0354,0.0415,5.63e-05,0.0921,0.406,110.014,4,electro
+3HSWaauCSlQ8TSdvEZYjVh,DJ Snake;Justin Bieber,Girls Night,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,electro
+3OJG7Q6YeJJogzBv7uLAAk,DJ Snake;Justin Bieber,Autopilot,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,electro
+66GcPmCYUlVKc4dA4Uwqa6,DJ Snake;Selena Gomez,pov: it's 2021,Selfish Love,0,168648,False,0.725,0.681,5,-6.8,0,0.103,0.0201,0.301,0.0995,0.453,110.938,4,electro
+0KASSQoorOGoCWCgPagJhf,Swedish House Mafia;Sting,Fiesta portatil,Redlight,3,242904,False,0.716,0.655,2,-5.999,1,0.0444,0.00857,0.162,0.0572,0.207,125.012,4,electro
+5y0nMZC5kF6uLYaLc97mSo,DJ Snake;J Balvin;Tyga,Fiesta portatil,Loco Contigo,0,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,electro
+48GVC0rHf1928RpumKhFMJ,Alec Benjamin,New Pop Icons,成长,0,164474,False,0.487,0.504,2,-8.878,1,0.0624,0.644,0.0,0.27,0.478,83.911,4,electro
+7mbd55vVvtqHOfxL2L5zRM,R3HAB;TINI;Reik,Fiesta portatil,Bésame (I Need You),0,136200,False,0.839,0.701,9,-6.029,1,0.0944,0.0165,0.00365,0.0513,0.273,99.984,4,electro
+0Slly1wh3Bro24xrO7tEhS,The Chainsmokers,So Far So Good (lofi remixes),iPad - lofi remix,0,141066,False,0.856,0.329,4,-11.697,1,0.099,0.851,0.63,0.125,0.448,120.007,4,electro
+6lHo50O8EnGln33OIQj6UA,The Chainsmokers,So Far So Good (lofi remixes),I Love U - lofi remix,0,152774,False,0.656,0.31,8,-10.118,1,0.0808,0.971,0.468,0.131,0.197,77.012,4,electro
+1DGY9hhepLMDQzdkdK3GrX,The Chainsmokers,So Far So Good (lofi remixes),Riptide - lofi remix,0,156067,False,0.722,0.338,1,-10.432,0,0.073,0.502,0.857,0.104,0.183,79.997,4,electro
+4wwHmctZfQa16BghLgrGuZ,Alec Benjamin;Alessia Cara,Music for Rainy Days,Let Me Down Slowly,0,169174,False,0.653,0.569,1,-5.018,0,0.0349,0.716,7.4e-06,0.135,0.44,150.216,4,electro
+5NWtuvJCqWt5GVAlKGCgI8,The Chainsmokers,So Far So Good (lofi remixes),Cyanide - lofi remix,0,161512,False,0.615,0.387,5,-11.857,0,0.0292,0.636,0.912,0.12,0.099,109.994,4,electro
+4S4k4hzFHBuTFDQ1NxcHM3,The Chainsmokers,So Far So Good (lofi remixes),Maradona - lofi remix,0,128552,False,0.692,0.369,5,-9.061,1,0.0988,0.931,0.000778,0.105,0.166,77.512,4,electro
+01A1YsdxWJ6omysFtEqJ18,The Chainsmokers,So Far So Good (lofi remixes),Channel 1 - lofi remix,0,153239,False,0.681,0.329,0,-12.988,1,0.0386,0.899,0.731,0.176,0.187,116.019,4,electro
+58eskjXndK4EbVBnCKcfHi,DJ Snake;Sean Paul;Anitta;Tainy,Esto me suena a Farra,Fuego,1,195428,False,0.78,0.856,8,-6.264,0,0.267,0.0233,0.0,0.0916,0.605,104.904,4,electro
+2zOPD1rPZWVA2au9IjRXhR,Alec Benjamin;Alessia Cara,Summer Music Festival Hits,Let Me Down Slowly,0,169174,False,0.653,0.569,1,-5.018,0,0.0349,0.716,7.4e-06,0.135,0.44,150.216,4,electro
+5Tw688qLFIieMBeD7wnEgw,The Chainsmokers,So Far So Good (lofi remixes),Solo Mission - lofi remix,0,149685,False,0.656,0.175,5,-9.971,0,0.0446,0.728,0.112,0.155,0.259,85.068,4,electro
+7Ifnxt3NpU9Ky2VhC1RDUi,DJ Snake;Selena Gomez;Ozuna;Cardi B,Fiesta portatil,Taki Taki,2,212500,True,0.843,0.802,1,-4.167,0,0.228,0.158,5e-06,0.0642,0.618,95.881,4,electro
+4KA0TIfLXLFlmoRK94K2wf,Alec Benjamin,New Pop,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+48Qo5j2pFS2qjvx9AALFpQ,Alec Benjamin,Daily Pop Mix,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+3HzgOJfX85TmHJsxnVkPLz,Alec Benjamin,Pop Hits Now,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+7gQKyddnoJZ0ZsBPKhrP6n,Alec Benjamin,rainy day indie,Match in the Rain,1,159006,False,0.777,0.716,10,-7.342,0,0.256,0.734,8.3e-05,0.116,0.829,120.052,4,electro
+58PLzRUABG9skJIKreuVdX,The Chainsmokers,So Far So Good (lofi remixes),Something Different - lofi remix,0,154902,False,0.688,0.463,5,-9.278,0,0.0448,0.945,0.0199,0.104,0.209,75.996,4,electro
+28PuptP3GRGgIM1Faz1fzL,DJ Snake;J Balvin;Ozuna;Nicky Jam;Natti Natasha;Darell;Sech,Perreo Tenebroso Vol. 4,Loco Contigo - REMIX,0,341875,False,0.789,0.694,6,-5.781,0,0.0726,0.099,0.0,0.0962,0.549,96.032,4,electro
+1c9wxQkSyFOCkVUl3Z5Say,The Chainsmokers,So Far So Good (lofi remixes),I Hope You Change Your Mind - lofi remix,0,195456,False,0.648,0.473,0,-14.604,1,0.0285,0.598,0.917,0.136,0.363,112.998,4,electro
+7pYMmSSlsSsrygkg63YJEb,Tove Lo,LUGNA HITS,I'm Coming,1,196558,False,0.65,0.625,0,-10.122,0,0.0359,0.00536,0.00046,0.119,0.293,118.965,4,electro
+6ZWe3Oj5t0AgGUANiqP5BE,Alec Benjamin,All That Really Matters - Just Hits,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+2Ii4ES72blOI5FhoJr7mME,Alec Benjamin,Hits à suivre 2022,Devil Doesn't Bargain,3,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+2W8Y6xiyEnDsz4zABKAxQf,Alec Benjamin,Hit After Hit,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+58HbUazPyqUNcXenlaSWaA,Alec Benjamin,It's You - Fresh Hits,Devil Doesn't Bargain,4,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+4X5sObZgBmaxcV58ATprMu,Alec Benjamin,Beautiful Trending Hits 2022,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+32NHyaQLQoV2rRlljNVq9H,Alec Benjamin,US Pop 20s,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+7Mb3tWy1CPYLDVZmkAxuY5,Alec Benjamin,Coffee Moment,The Way You Felt - Acoustic Version,0,170277,False,0.744,0.458,0,-8.632,1,0.03,0.425,2.66e-06,0.0872,0.621,131.825,4,electro
+4SjdRYD8opGTO3dQLf0YIP,Alec Benjamin,Hits Hits Hits,Devil Doesn't Bargain,1,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+4dumZVMKuJKlcsXN4Rj3RR,Alec Benjamin,New Pop Classics,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+4F1kPmFSwgGjzVTplcCb5c,Alec Benjamin,Give You Love - Cozy Hits,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+6J9Z5wugOA5QaPicYJkp6K,Alec Benjamin,Indie Chill Out,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+74VuFYyJlX0CHp2Ai8AvtC,Alec Benjamin,I'm Blue - Hits of 2022,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+2YKJycGXqZSqICZGb5lM1l,Alec Benjamin,Autumn Hits,Devil Doesn't Bargain,1,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+5fiu4dLXqmeDsuc5ioQR1s,Alec Benjamin,Your Perfect Soundtrack,Devil Doesn't Bargain,0,163613,False,0.448,0.606,3,-4.565,1,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+29KRWp49DyHI8a6PwvZpxw,Swedish House Mafia;John Martin,Autopilot,Don't You Worry Child - Radio Edit,1,211360,False,0.609,0.83,11,-3.229,0,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+4a6q8CR2hzLk2plDkSxkfD,Bazzi,Soul Searching,I.F.L.Y.,74,165714,True,0.812,0.519,2,-4.823,1,0.0385,0.379,0.0,0.13,0.554,104.954,4,electro
+41zXlQxzTi6cGAjpOXyLYH,Billie Eilish,dont smile at me,idontwannabeyouanymore,81,203569,False,0.483,0.412,7,-8.461,1,0.0402,0.737,0.0,0.116,0.247,170.163,3,electro
+66hayvUbTotekKU3H4ta1f,Jack Ü;Skrillex;Diplo;Justin Bieber,Skrillex and Diplo present Jack Ü,Where Are Ü Now (with Justin Bieber),74,250285,False,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,4,electro
+1dNIEtp7AY3oDAKCGg2XkH,The Chainsmokers;Coldplay,Something Just Like This,Something Just Like This,75,247626,False,0.607,0.649,11,-6.695,0,0.0362,0.0306,2.46e-05,0.174,0.505,102.996,4,electro
+4RCFS4s70L2dmAIFusubfL,Tove Lo,Queen Of The Clouds,Habits (Stay High),53,209160,False,0.733,0.65,5,-3.539,1,0.0315,0.0703,6.59e-05,0.0829,0.348,110.003,4,electro
+1gt8YXWknKt4sRNZ6SirVW,Marshmello;Pritam,BIBA,BIBA,56,175721,False,0.587,0.963,0,0.366,0,0.0552,0.0656,0.0,0.27,0.491,127.842,4,electro
+7CHi4DtfK4heMlQaudCuHK,MEDUZA;Becky Hill;Goodboys,Lose Control,Lose Control,78,168387,False,0.598,0.526,10,-8.659,0,0.0415,0.129,0.0,0.14,0.529,123.935,4,electro
+1WSGTYKLEpKfNQYYW5Oymt,benny blanco;Selena Gomez;J Balvin;Tainy,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)","I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",67,158027,False,0.541,0.468,10,-4.039,0,0.362,0.404,3.65e-06,0.358,0.69,95.266,4,electro
+2fVHrSxsQbJUuj9MW9zG1e,The Chainsmokers;5 Seconds of Summer,World War Joy,Who Do You Love,72,226733,True,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,4,electro
+20I6sIOMTCkB6w7ryavxtO,Carly Rae Jepsen,Kiss,Call Me Maybe,80,193400,False,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,4,electro
+09PGubKAMryhOWv1LHpCYz,Lauv;Anne-Marie,~how i'm feeling~,"fuck, i'm lonely (with Anne-Marie)",70,198973,True,0.809,0.547,9,-7.304,1,0.0609,0.46,0.0,0.0543,0.717,95.012,4,electro
+2Foc5Q5nqNiosCNqttzHof,Daft Punk;Pharrell Williams;Nile Rodgers,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,82,248413,False,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,4,electro
+5tqNWWiySiABLrGAvSWsO5,Sasha Alex Sloan;Charlie Puth,Is It Just Me? (feat. Charlie Puth),Is It Just Me? (feat. Charlie Puth),66,154274,False,0.682,0.363,2,-10.837,1,0.0261,0.699,3e-05,0.363,0.203,94.978,4,electro
+5TX9vLC0E0ABNOBVBDtbzC,Zedd;Kehlani,pov: it's 2019,Good Thing,0,210901,True,0.693,0.565,1,-3.854,0,0.0378,0.396,0.0,0.0409,0.588,185.916,3,electro
+7JupLCHELRoJiUubOPBPck,RANDALL;Anas;Nassi,Choix de vie (Remix),Choix de vie - Remix,52,215000,False,0.643,0.648,1,-8.07,1,0.0644,0.0997,0.00414,0.365,0.357,96.032,4,electro
+5x292YI0zNCIxi6OWJVpSq,Charli XCX;Kim Petras;Jay Park,The State of Pop,Unlock It,2,232933,True,0.488,0.71,9,-5.864,1,0.0455,0.0585,1.81e-05,0.382,0.5,134.781,4,electro
+5zfqAcASLuuMcHCyFiGiTP,Zedd;Liam Payne,Queda poco para la PAES,Get Low,0,204693,False,0.723,0.924,1,-3.518,1,0.0516,0.0332,5.63e-06,0.0496,0.527,108.009,4,electro
+5Rha6SErUiplhI1LvPB7UD,benny blanco;6 Dogs,Best Road Trip Pop Tunes,Lost,0,207331,True,0.497,0.353,7,-9.641,1,0.108,0.125,0.0,0.0785,0.169,143.916,4,electro
+2MEH84HKs9zYHcA82mVzBy,Zedd;Liam Payne,Fiesta de disfraces vol. II,Get Low,0,204693,False,0.723,0.924,1,-3.518,1,0.0516,0.0332,5.63e-06,0.0496,0.527,108.009,4,electro
+3Wd1EKFFLy7HZeZF7PEIge,Zedd;Foxes,Workout Hits 2023,Clarity,0,271426,False,0.509,0.781,8,-3.48,1,0.0721,0.0391,0.0,0.0749,0.176,128.002,4,electro
+6T9ohx3wymdHgDshr9liUY,benny blanco;6 Dogs,Best Road Trip Pop Tunes,Lost,0,207331,True,0.497,0.353,7,-9.641,1,0.108,0.125,0.0,0.0785,0.169,143.916,4,electro
+5BFFH1CFh8RHAnw7aub4dZ,benny blanco;6 Dogs,Die For You,Lost,0,207331,True,0.497,0.353,7,-9.641,1,0.108,0.125,0.0,0.0785,0.169,143.916,4,electro
+15OwisPfzn1zVzz2NpEhKp,Alesso;Sentinel,EDM Gaming Music Autumn/Winter 2022,Only You,0,145174,False,0.483,0.917,3,-2.528,1,0.0438,0.00235,0.000347,0.119,0.323,129.035,4,electro
+3qcf5Us0CCKW4XPjIUx1Pr,benny blanco;6 Dogs,Best Road Trip Pop Tunes,Lost,0,207331,True,0.497,0.353,7,-9.641,1,0.108,0.125,0.0,0.0785,0.169,143.916,4,electro
+0WKDzn96q4kY1Bpd9ExnkX,Zedd;Foxes,Beginner Ride (Sweat & Burn),Clarity,2,271426,False,0.509,0.781,8,-3.48,1,0.0721,0.0391,0.0,0.0749,0.176,128.002,4,electro
+5029vpQu4KlJp0Kqobuc01,DJ Snake;Bipolar Sunshine,Mientras hago aromaterapia,Middle,0,220746,False,0.585,0.73,1,-4.038,0,0.0406,0.0171,0.0,0.0488,0.222,104.824,4,electro
+623TdbJc1yLr8dIepsFV2v,Zedd;Maren Morris;Grey,Queda poco para la PAES,The Middle,0,184732,False,0.753,0.657,7,-3.061,1,0.045,0.173,0.0,0.112,0.435,107.013,4,electro
+4tcm76DyNJiOhj7x7u10va,Alesso;Marshmello;James Bay,pov: it's 2021,Chasing Stars,0,170457,False,0.594,0.64,10,-6.865,1,0.033,0.0169,0.0,0.135,0.492,92.871,4,electro
+2wTGVysybWo2fT7u2bd4DX,benny blanco;Marshmello;Vance Joy,pov: it's 2021,You,0,169632,False,0.668,0.563,11,-6.433,1,0.0522,0.0493,0.0,0.119,0.305,103.116,4,electro
+4HGq8ZzrPOtXxNEXN4XGFu,Zedd;Alessia Cara,Beginner Ride (Mixtape Vol. 1),Stay,0,210400,False,0.689,0.623,5,-5.025,0,0.0621,0.254,0.0,0.113,0.546,101.998,4,electro
+5QHRON3xuXFOWlXeZU4oVF,Zedd;Alessia Cara,Weekend Baby,Stay,0,210400,False,0.689,0.623,5,-5.025,0,0.0621,0.254,0.0,0.113,0.546,101.998,4,electro
+5y0nMZC5kF6uLYaLc97mSo,DJ Snake;J Balvin;Tyga,Fiesta portatil,Loco Contigo,0,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,electro
+2Db4RDun4YmjGcypDB8Av3,DJ Snake;Justin Bieber,Weekend Baby,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,electro
+2IURcEXwXgzREzWkr2foxQ,Alesso,Queda poco para la PAES,REMEDY,0,190295,False,0.601,0.777,0,-4.612,1,0.0471,0.269,0.0,0.0883,0.485,119.963,4,electro
+7KwdHcYzAIHdCXiTgDDWkZ,Charli XCX;Rina Sawayama,Pop Hits Now,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+1aJMAxzhtScf4nJCbXX1O2,Alesso,Concierto en la ducha,REMEDY,0,190295,False,0.601,0.777,0,-4.612,1,0.0471,0.269,0.0,0.0883,0.485,119.963,4,electro
+61kSPL7U1AmuP4By1WXo9x,Zedd;Maren Morris;Grey,Обратно в клас - pop,The Middle,1,184732,False,0.753,0.657,7,-3.061,1,0.045,0.173,0.0,0.112,0.435,107.013,4,electro
+1E5HgkRXPToIFhFeMn4JSx,DJ Snake;Justin Bieber,Fiesta de disfraces vol. II,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,electro
+44ZcbH1W8X5OXc7ZQyKNVw,DJ Snake;J Balvin;Tyga,Esto me suena a Farra,Loco Contigo,0,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,electro
+5wzS6YhFe4VMDU3dgE15sA,Zedd;Maren Morris;Grey,Summer Sweat,The Middle,0,184732,False,0.753,0.657,7,-3.061,1,0.045,0.173,0.0,0.112,0.435,107.013,4,electro
+0U5Zq7fyxNUdTG731F4Vzw,Zedd;Hayley Williams,Almorzando solo,Stay The Night,0,217346,False,0.595,0.738,8,-3.109,1,0.041,0.107,0.0,0.0947,0.461,127.954,4,electro
+1uvBOCykry1KtIC3Rh7kMe,Alesso;TINI,Queda poco para la PAES,Sad Song,0,154024,False,0.735,0.691,0,-6.475,1,0.0362,0.0876,0.0,0.34,0.548,110.018,4,electro
+0AKy9Gcrl0g3cQynsvlBM6,Zedd;Alessia Cara,Beats Electro Mood,Stay,3,210400,False,0.689,0.623,5,-5.025,0,0.0621,0.254,0.0,0.113,0.546,101.998,4,electro
+6gAoypqlPJ7M07G7eKrBWA,DJ Snake;J Balvin;Tyga,Halloween 2022 Perreo Vol. 4,Loco Contigo,2,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,electro
+2bEj47sDxuBKf1aFPeqsT7,Alesso;Katy Perry,EDM Gaming Music Autumn/Winter 2022,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,electro
+0Dh3d5wUSDiqxdajrrWX3t,Alesso;Katy Perry,Night Drive Autumn/Winter 2022/23,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,electro
+7FgPBngMka3agGDUKqZWmx,Alesso;Katy Perry,Arbeitsmusik Herbst/Winter 2022/2023,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,electro
+3DKKyZu7Vu1L4p0qSSdBlr,Alesso;Katy Perry,Electro sounds,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,electro
+5H0xR4dppOkdPqAQXd78CF,Alesso;Tove Lo,Larga Vida al Electro,Heroes (we could be),0,211573,False,0.504,0.748,5,-4.124,1,0.062,0.0308,0.0,0.295,0.356,125.889,4,electro
+1wLp6kHSEGXGMHfONnUaxN,Alesso;Tove Lo,Electro sounds,Heroes (we could be),0,211573,False,0.504,0.748,5,-4.124,1,0.062,0.0308,0.0,0.295,0.356,125.889,4,electro
+7lozLnUfzcgEpMMVQI7yhA,Bazzi,COSMIC,Why,70,148259,True,0.676,0.67,8,-6.584,1,0.0374,0.353,0.0,0.103,0.54,113.01,4,electro
+0Rx0DJI556Ix5gBny6EWmn,Bazzi,Soul Searching,Paradise,75,169038,True,0.844,0.644,11,-6.273,0,0.0479,0.0828,0.0,0.113,0.591,122.061,4,electro
+0s26En1JoJhVj32vizElpA,Lauv,~how i'm feeling~,Feelings,72,189906,False,0.7,0.392,9,-8.911,1,0.033,0.0578,0.0,0.0802,0.25,103.044,4,electro
+2V65y3PX4DkRhy1djlxd9p,Swedish House Mafia;John Martin,Don't You Worry Child,Don't You Worry Child - Radio Edit,80,212862,False,0.612,0.84,11,-3.145,0,0.0509,0.112,0.0,0.116,0.438,129.042,4,electro
+4TZ2Ub8bZh4LTs06eANDXa,Ellie Goulding;Speed Radio,Lights (Sped Up Version),Lights - Sped Up Version,77,190053,False,0.653,0.836,10,-5.626,0,0.0457,0.0452,0.299,0.1,0.804,133.182,4,electro
+0dhVTBkpQiWpCnxWJECfFL,Bazzi,Coffee Moment,Dreams,0,147020,False,0.662,0.666,6,-5.441,1,0.125,0.583,3.85e-06,0.222,0.605,159.969,4,electro
+6s86N7LVaJZuU4alwKp6XO,shy martin,Sad Songs,Are you happy?,68,157555,False,0.632,0.578,9,-7.657,0,0.0905,0.714,0.0,0.42,0.297,139.324,4,electro
+4edHoZerfvMGeLz3ohZit6,The Chainsmokers,So Far So Good,iPad,69,202406,False,0.665,0.628,2,-6.297,1,0.026,0.00502,2.02e-05,0.0947,0.551,121.979,4,electro
+4Srslh9EEeiJupAPAVGuMx,Bazzi,Daily Pop Mix,Heaven,0,153391,False,0.798,0.575,5,-5.515,0,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+49aoOZzUdoUoMBbfG0KEJw,Bazzi,Music for Rainy Days,Beautiful,0,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+0HpcSr9yrclrhPw0ib0g7B,Bazzi,u don't deserve me,Will It Ever Feel the Same?,0,180338,True,0.639,0.544,4,-6.152,1,0.0391,0.586,0.0,0.463,0.483,129.908,4,electro
+3m4Hf0cD3BCKCT9PD0QAxO,Bazzi,I'm Blue - Hits of 2022,Heaven,0,153391,False,0.798,0.575,5,-5.515,0,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+2sVcG5mresyV79qpYr3M1C,Alan Walker;K-391;Boy In Space,World Of Walker,Paradise,63,183344,False,0.779,0.58,0,-6.168,0,0.0355,0.158,0.0,0.124,0.679,148.916,4,electro
+7MDtE1tjuPZAro0aPYRql4,Bazzi;Camila Cabello,Comme un lundi,Beautiful,3,180000,False,0.637,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,4,electro
+3E1WGK710MCDfi8inR9IcH,Jeremy Zucker,Die For You,Cry with you,0,217044,True,0.51,0.307,2,-9.921,1,0.101,0.321,1.5e-06,0.174,0.356,159.794,3,electro
+1zS7wXUlPhxdOgGZ7RorQ2,Alan Walker;Torine,Hello World,Hello World,65,171585,False,0.651,0.646,10,-6.548,0,0.0408,0.00738,3.19e-05,0.193,0.124,104.139,4,electro
+2D2mkrVLZA1OYCCZfbH0ik,Bazzi,Good Enough - Easy Pop,Beautiful,0,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+6zyDXm2DMaWbxguJpWqudR,Bazzi,Your Perfect Soundtrack,Heaven,0,153391,False,0.798,0.575,5,-5.515,0,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+7kLa2XlVc9Zr6mNgnEr0SO,Jeremy Zucker,REGNIG DAG,Cry with you,0,217044,True,0.51,0.307,2,-9.921,1,0.101,0.321,1.5e-06,0.174,0.356,159.794,3,electro
+1SJcXwrf7n0KK2sNninmG7,Jeremy Zucker,Mega Hits Autumn/Fall 2022,Deep end,0,123146,False,0.835,0.554,2,-6.033,1,0.131,0.189,9.07e-06,0.315,0.671,145.023,4,electro
+36Bu1ED7D3OiNzq48VoRYf,Charli XCX;Rina Sawayama,Running Songs,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+6dRFbn4xqPuz3LOypGiM5z,Zedd;Elley Duhé,Concierto en la ducha,Happy Now,0,207029,False,0.503,0.74,4,-5.128,1,0.0472,0.577,1.39e-06,0.0712,0.457,88.332,3,electro
+7eVu6eHWxdnQwCpTC2o3ZN,Charli XCX;Rina Sawayama,Hit After Hit,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+2UL4xQhH2lKBXHGksaCjhr,Charli XCX;Rina Sawayama,Hits Hits Hits,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+3yXwhOi8aeNZABkK1CYhgd,Jeremy Zucker,Halloween Party 2022,ghosts,0,264866,True,0.572,0.355,6,-7.499,1,0.0449,0.685,0.000357,0.169,0.39,138.552,4,electro
+7zCdNmSncqbjNKQAyHxmuh,Charli XCX,Hit After Hit,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+6OGMQF8sdQ9p5Y27kX0t0r,Charli XCX;Rina Sawayama,Beautiful Trending Hits 2022,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+6qiRGYXyp9uFjYilJOpGPj,Charli XCX,Cardio Tracks,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+42zR7krVhRar7oox6BbONX,Charli XCX;Rina Sawayama,EDM Hits,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+6S0oUreJ0D0gUlUZVz01u0,Charli XCX,New Arrivals,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+4YjFDZo00BwMLn2SSAmIO4,MEDUZA;Hozier,Night Drive Autumn/Winter 2022/23,Tell It To My Heart,0,165524,False,0.539,0.715,11,-6.639,0,0.0595,0.0265,0.0,0.609,0.489,123.854,4,electro
+7aUGYjbaEeCoSBZSn9eWZQ,Charli XCX;Rina Sawayama,New Pop Icons,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+5Nybr2NCZrKAOk7Eu2YitB,Charli XCX;Rina Sawayama,From The Ashes - New Beats,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+1th6afBiWJablX15LrJ7KX,Charli XCX;Rina Sawayama,Today's Party Hits,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+0mpb1FElaOrpYbd61hyfcR,Charli XCX;Rina Sawayama,Upbeat Pop,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+6w0BbFfAK3TaGGPOBvl9tO,Charli XCX,BEST WORKOUT BEATS,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+71y5ZHTdgitzXTUrgCJF3K,Charli XCX;Rina Sawayama,Summer Music Festival Hits,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+1ZDzahk1OMKP9poJJ3VVpu,Charli XCX;Troye Sivan,Am I Ready - Pop Night Out,1999,3,189000,False,0.741,0.743,7,-4.586,1,0.0328,0.0224,1.23e-06,0.229,0.658,124.014,4,electro
+19l3LEiXvUFkivy2fMXMuA,Charli XCX;Rina Sawayama,New Pop Classics,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+7kIDKRwP1sohHpSryTq2Vv,Charli XCX,Trending Pop,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+2BRIWPCjH5toINsBiUyCh5,Charli XCX;Rina Sawayama,Feeling Good,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+5L9ZO3rvkB7JdTSZoKB9RK,Charli XCX;Rina Sawayama,I'm Blue - Hits of 2022,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+18g8EbpXCcHsIX9wl4Hjpr,Charli XCX,Today's Party Hits,Used to Know Me,0,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+4DSpUMtBsL9XGfxXeWYGtd,Zedd;Elley Duhé,Mientras hago aromaterapia,Happy Now,0,207029,False,0.503,0.74,4,-5.128,1,0.0472,0.577,1.39e-06,0.0712,0.457,88.332,3,electro
+0CVCO6f2hDWKmDHxeZTDFa,Charli XCX,Trending Pop,Good Ones,0,136614,False,0.764,0.672,7,-5.947,0,0.0293,0.072,3.32e-06,0.0806,0.789,129.049,4,electro
+0q6UFfew9uxNgxqWM0Q7wd,Charli XCX,House Anthems,Used to Know Me,5,145840,False,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+2uifvQC89qkZE7HYL2aqhg,Charli XCX;Rina Sawayama,Mellow Electronic Pop,Beg for You,0,168053,False,0.788,0.945,9,-5.091,1,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+4QmaaHKCPL4YWW6L5AdQQs,Charli XCX,Gaming Songs 2022: Hard Mode,Vroom Vroom,0,193270,True,0.835,0.684,11,-5.818,1,0.239,0.122,0.0,0.0854,0.517,151.009,4,electro
+5AXU429DHTeGkW6NoZzAnQ,Charli XCX;Lizzo,Happy Commute,Blame It on Your Love,0,191506,True,0.717,0.754,5,-2.673,1,0.048,0.0262,0.0,0.295,0.598,100.02,4,electro
+3krIviFWLeyjPTxqT6eaPL,Charli XCX;Tiësto,House Anthems,Break the Rules - Tiësto Remix,2,265049,True,0.668,0.982,8,-2.46,1,0.0433,0.00032,0.114,0.253,0.415,127.986,4,electro
+2cc8Sw1OnCuA5bV8nqWqpE,Regard;Troye Sivan;Tate McRae,You,You,76,233386,True,0.691,0.695,0,-5.6,1,0.0367,0.0592,0.0,0.0647,0.514,106.064,4,electro
+41CgzGD7xlgnJe14R4cqkL,Lauv,I met you when I was 18. (the playlist),Paris in the Rain,73,204712,False,0.426,0.408,3,-9.419,1,0.0524,0.771,7.88e-06,0.394,0.528,76.309,4,electro
+6osaMSJh9NguagEDQcZaKx,DJ Snake;J Balvin;Tyga,Carte Blanche,Loco Contigo (feat. J. Balvin & Tyga),74,185194,False,0.694,0.758,11,-2.986,1,0.218,0.278,1.34e-06,0.102,0.371,192.091,4,electro
+3odrUVQ9tvRpkC9II2oWzx,Ellie Goulding,"Still Falling For You (From ""Bridget Jones's Baby"" Original Motion Picture Soundtrack)","Still Falling For You - From ""Bridget Jones's Baby""",73,240867,False,0.473,0.518,1,-8.1,1,0.0405,0.553,1.26e-06,0.111,0.18,96.129,4,electro
+5x4vgABKiGp4Vg7ZyFRxhn,DJ Snake;Rick Ross;Rich Brian,Shang-Chi and The Legend of The Ten Rings: The Album,Run It (feat. Rick Ross & Rich Brian),69,163373,False,0.688,0.725,2,-7.806,1,0.044,0.0195,7.63e-06,0.0726,0.225,104.006,4,electro
+3XF5xLJHOQQRbWya6hBp7d,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",you should see me in a crown,77,180952,False,0.678,0.533,4,-10.485,1,0.186,0.462,0.219,0.139,0.323,150.455,4,electro
+4o3XxiQ9BljY4OU38zanC0,Mokita,colorblind,colorblind,70,193976,False,0.661,0.776,8,-5.054,1,0.0366,0.125,0.000152,0.119,0.17,145.993,4,electro
+7MmG8p0F9N3C4AXdK6o6Eb,Calvin Harris;Ellie Goulding,Motion,Outside (feat. Ellie Goulding),79,227266,False,0.646,0.823,2,-4.123,0,0.0394,0.213,0.0,0.322,0.418,128.035,4,electro
+38o5lj4mbLK34vQkJUlMrg,Mokita,London,London,67,160225,False,0.684,0.512,11,-8.715,1,0.0525,0.544,0.0,0.097,0.466,119.901,4,electro
+5y8liVmpsvn6Kg4JFijj4Z,Fly By Midnight,What If I Wasn't Done Loving You?,What If I Wasn't Done Loving You?,63,175562,False,0.52,0.662,8,-7.626,1,0.0776,0.589,1.78e-05,0.133,0.235,172.102,4,electro
+51mkxlKoGL1bAj8uR2gE7d,Bazzi,Pop Hits Now,Heaven,0,153391,False,0.798,0.575,5,-5.515,0,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+2AiaI6KaPOJofH97x3XvV8,Bazzi,Midnight Music,Beautiful,0,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+3ohGDcQ2mCrnD7NBPSrdTW,Bazzi;Cordae,The Look - R&B Feels,Only Fan,0,153442,False,0.773,0.706,8,-3.008,1,0.036,0.0138,1.39e-06,0.0666,0.911,122.062,4,electro
+1bgKMxPQU7JIZEhNsM1vFs,Alesso;Zara Larsson,Words (feat. Zara Larsson),Words (feat. Zara Larsson),85,142677,False,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,4,electro
+47B8TN9x2QIUqsv3ZTaZEJ,Bazzi;Cordae,Upbeat Pop,Only Fan,0,153442,False,0.773,0.706,8,-3.008,1,0.036,0.0138,1.39e-06,0.0666,0.911,122.062,4,electro
+02shCNmb6IvgB5jLqKjtkK,Vicetone;Cozi Zuehlsdorff,Nevada,Nevada,71,208561,False,0.605,0.783,3,-4.271,1,0.0324,0.299,0.000175,0.133,0.105,124.015,4,electro
+1gXxietq0gOGBVyCSkahyI,Bazzi,Autumn Hits,I.F.L.Y.,1,165714,True,0.812,0.519,2,-4.826,1,0.0372,0.381,0.0,0.13,0.563,104.954,4,electro
+54bFM56PmE4YLRnqpW6Tha,Billie Eilish,Therefore I Am,Therefore I Am,75,174321,False,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4,electro
+5zIgWTM2TZ1RdFOyNKOaWb,Bazzi,Modern R&B Love,I Like That,1,158083,True,0.665,0.692,6,-5.431,0,0.112,0.172,0.0,0.191,0.68,74.474,4,electro
+62wBAurjQB8yPNEpcjtvGJ,Bazzi,Beautiful Trending Hits 2022,Beautiful,1,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+26g92HmMgKVZ6LKVmTbHM7,Bazzi,20s Love Songs,I Like That,3,158083,True,0.665,0.692,6,-5.431,0,0.112,0.172,0.0,0.191,0.68,74.474,4,electro
+4MlI2hVQcZ1B25TZyOqu2W,Bazzi,New RnB,No Way!,0,112105,True,0.665,0.709,1,-4.117,0,0.0407,0.174,0.0,0.142,0.358,76.058,4,electro
+4pOV2fwhycAawv7aC7I6Cd,Bazzi,US Pop 20s,Miss America,1,172702,False,0.659,0.733,8,-6.026,1,0.0671,0.00318,0.0,0.287,0.727,147.932,4,electro
+3XcV8CIZVzH2b5hiche9d6,Bazzi,New Pop Classics,Heaven,0,153391,False,0.798,0.575,5,-5.515,0,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+0nlGmbEunPMpao3MDrftkU,Bazzi,Internet Sensations,Will It Ever Feel the Same?,0,180338,True,0.639,0.544,4,-6.152,1,0.0391,0.586,0.0,0.463,0.483,129.908,4,electro
+5902W4uHWzhtOff1UK7the,Alesso;Katy Perry,When I’m Gone (with Katy Perry),When I’m Gone (with Katy Perry),80,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,electro
+6lybJ6LZWL59eY4Hma5z0B,Bazzi,Coffee Chill,Mine,3,131063,True,0.709,0.789,4,-3.874,1,0.0723,0.0161,2.85e-06,0.451,0.716,142.923,4,electro
+2QhzxlVT9M0zUl9Q2jsc8O,Bazzi,Hits Hits Hits,Beautiful,1,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+5khYjyvP68aobZCSnobv6l,Julia Michaels;Niall Horan,Отново на училище,What A Time,0,173306,False,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,4,electro
+374kqY6VFcdZYtN9FCxJxG,Julia Michaels,Concierto en la ducha,Heaven,0,191813,False,0.554,0.371,7,-9.104,0,0.0361,0.855,0.0,0.0838,0.245,199.828,3,electro
+0nrWZWkJM62ftQJSI8fDc0,Alan Walker;Sophia Somajo,Different World,Diamond Heart,63,240333,False,0.478,0.633,0,-6.19,1,0.0345,0.123,0.0,0.41,0.287,89.909,4,electro
+3bM4iV8QgfwebjIq8XZcOf,Julia Michaels,Die For You,Orange Magic,0,173937,False,0.563,0.671,0,-5.458,1,0.0295,0.00683,0.0,0.139,0.374,80.018,4,electro
+5Wqr7Yxoq4YsPWBLUXNalY,Julia Michaels,Best Road Trip Pop Tunes,Orange Magic,0,173937,False,0.563,0.671,0,-5.458,1,0.0295,0.00683,0.0,0.139,0.374,80.018,4,electro
+152vVEXwvqA107UFPqb3gG,MEDUZA;Becky Hill;Goodboys,10's Music Grandi Successi,Lose Control,0,168387,False,0.597,0.527,10,-8.658,0,0.0412,0.127,0.0,0.14,0.535,123.946,4,electro
+1KR9TkyhxqqpOk45WAm7bM,Alan Walker;Jamie Miller,Walker Racing League,Running Out Of Roses,67,136563,False,0.753,0.539,3,-6.946,1,0.0393,0.0505,0.0,0.0664,0.443,124.015,4,electro
+2J3JETBGdQdjCOzIRmoeWc,MEDUZA;Becky Hill;Goodboys,Beats Electro Mood,Lose Control,1,168387,False,0.597,0.527,10,-8.658,0,0.0412,0.127,0.0,0.14,0.535,123.946,4,electro
+2R789qQ3WNexbwgJpWReY1,Julia Michaels,Concierto en la ducha,Issues,0,176346,False,0.722,0.417,8,-6.825,1,0.0618,0.39,0.0,0.0612,0.451,113.965,4,electro
+2tzcfQVPDTKag67JRzct87,MEDUZA;James Carter;Elley Duhé;FAST BOY,Top Trending Romania - Vara 2022,Bad Memories,6,148629,False,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,3,electro
+03FrsymZUDrFC3aBVrvKA1,MEDUZA;James Carter;Elley Duhé;FAST BOY,Ballermann Hits Party 2023,Bad Memories,0,148629,False,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,3,electro
+3ZZylGjSiEbOuBe34oYTDQ,MEDUZA;Becky Hill;Goodboys,Electro sounds,Lose Control,0,168387,False,0.597,0.527,10,-8.658,0,0.0412,0.127,0.0,0.14,0.535,123.946,4,electro
+6iO9zQyoHPm0fnBM66LlwA,MEDUZA;Becky Hill;Goodboys,Fiesta portatil,Lose Control,0,168387,False,0.597,0.527,10,-8.658,0,0.0412,0.127,0.0,0.14,0.535,123.946,4,electro
+2LsPArKkazeaqQzBrPh0iP,MEDUZA;James Carter;Elley Duhé;FAST BOY,Electro sounds,Bad Memories,1,148629,False,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,3,electro
+1HvCFAUIWQsWV9zud3UhDl,Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander,Different World,All Falls Down (feat. Juliander),65,198880,False,0.655,0.672,1,-4.966,1,0.0581,0.253,0.0,0.312,0.675,98.005,4,electro
+4voJGwEr7Uw54pr3RSRIsg,MEDUZA;James Carter;Elley Duhé;FAST BOY,Larga Vida al Electro,Bad Memories,4,148629,False,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,3,electro
+2DB21D2l8KmdLXid8327i2,Julia Michaels,Best Road Trip Pop Tunes,Orange Magic,0,173937,False,0.563,0.671,0,-5.458,1,0.0295,0.00683,0.0,0.139,0.374,80.018,4,electro
+4M0ezYulsUFJDrKk9d58y6,MEDUZA;Goodboys,Larga Vida al Electro,Piece Of Your Heart,0,152913,False,0.677,0.744,10,-6.806,0,0.0296,0.0405,0.000153,0.074,0.631,124.077,4,electro
+7flHD8a99bRLIDNDGuns1Y,MEDUZA;SHELLS,Larga Vida al Electro,Born To Love,0,162295,False,0.722,0.856,1,-6.392,0,0.0338,0.0305,0.0597,0.231,0.827,121.99,4,electro
+4GXnutk4q9KXJUgkGJcc4I,MEDUZA;Goodboys,Beats Electro Mood,Piece Of Your Heart,1,152913,False,0.677,0.744,10,-6.806,0,0.0296,0.0405,0.000153,0.074,0.631,124.077,4,electro
+0u5K7xSRTLnBkeERwTypzN,MEDUZA;Goodboys,pov: it's 2019,Piece Of Your Heart,0,152913,False,0.677,0.744,10,-6.806,0,0.0296,0.0405,0.000153,0.074,0.631,124.077,4,electro
+3ksIpMf8hNYWAyTiMZJ6Xb,MEDUZA;Goodboys,Beginner Ride (Mixtape Vol. 1),Piece Of Your Heart,0,152913,False,0.677,0.744,10,-6.806,0,0.0296,0.0405,0.000153,0.074,0.631,124.077,4,electro
+0g5EKLgdKvNlln7TNqBByK,DJ Snake;Bipolar Sunshine,Encore,Middle,76,220573,False,0.583,0.695,9,-5.336,1,0.0423,0.0141,0.0,0.0527,0.224,104.879,4,electro
+6YUTL4dYpB9xZO5qExPf05,Calvin Harris,Motion,Summer,82,222533,False,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,4,electro
+5YLHLxoZsodDWjqSgjhBf3,Bazzi,COSMIC,Myself,68,167552,False,0.745,0.561,9,-5.513,0,0.072,0.465,1.12e-06,0.0338,0.902,195.918,4,electro
+7fYRg3CEbk6rNCuzNzMT06,Calvin Harris;Dua Lipa;Young Thug,Potion (with Dua Lipa & Young Thug),Potion (with Dua Lipa & Young Thug),79,214459,True,0.824,0.697,11,-4.869,0,0.0473,0.158,4.11e-05,0.077,0.757,99.988,4,electro
+7m97u5zpSWqkDjN4uwY2LP,Greyson Chance,portraits,shut up,61,170363,False,0.821,0.448,9,-4.33,1,0.0468,0.296,3.26e-06,0.0683,0.45,105.006,4,electro
+7EVk9tRb6beJLTHrg6AkY9,Burak Yeter;Danelle Sandoval,Tuesday (feat. Danelle Sandoval),Tuesday (feat. Danelle Sandoval),72,241874,False,0.841,0.639,9,-6.052,0,0.0688,0.0156,0.0654,0.0545,0.675,99.002,4,electro
+2cGxRwrMyEAp8dEbuZaVv6,Daft Punk;Julian Casablancas,Random Access Memories,Instant Crush (feat. Julian Casablancas),76,337560,False,0.775,0.585,10,-9.516,0,0.0271,0.0422,0.619,0.077,0.518,109.942,4,electro
+6hmhG1b4LEyNuashVvuIAo,Zara Larsson;MNEK,So Good,Never Forget You,74,213427,False,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,4,electro
+0AUvWawuP0ibk4SQ3sIZjk,Ashnikko,Daisy,Daisy,71,146523,True,0.834,0.663,8,-6.143,1,0.133,0.235,0.0,0.372,0.774,121.876,4,electro
+5M5IB1cNzJqbWFEUK4a1MD,Julia Michaels,Broad Stories,Heaven,69,191813,False,0.554,0.371,7,-9.104,0,0.0361,0.855,0.0,0.0838,0.245,199.828,3,electro
+4bMLBGnjAGVFpjAfIkD0UY,Alan Walker;Conor Maynard,Believers,Believers,61,159077,False,0.649,0.69,8,-5.384,0,0.0296,0.0247,0.0,0.161,0.593,104.04,4,electro
+6Xq7q1vvdYRRUWSROJUbyn,Alessia Cara,Best Road Trip Pop Tunes,Shapeshifter,0,186953,False,0.728,0.577,7,-7.748,1,0.0601,0.289,0.000637,0.17,0.639,95.045,4,electro
+5nmLyv44kBygz9RWHshhG6,Alessia Cara,Frühstücksmusik Herbst/Winter 2022/2023,Sweet Dream,0,181881,False,0.76,0.532,0,-9.177,1,0.127,0.252,0.0,0.252,0.5,123.064,4,electro
+6sVZ6tFXeJZ5LNWC6h3dKe,Alessia Cara,Holiday Tunes 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+7KDJguKGqDMdBAnKxrQ5fM,Alessia Cara,Best Road Trip Pop Tunes,Shapeshifter,0,186953,False,0.728,0.577,7,-7.748,1,0.0601,0.289,0.000637,0.17,0.639,95.045,4,electro
+6D44ltvfmdKeIgrTpXUP8o,Alessia Cara,Die For You,Shapeshifter,0,186953,False,0.728,0.577,7,-7.748,1,0.0601,0.289,0.000637,0.17,0.639,95.045,4,electro
+7wC7c78HOp5C2tFTvRfnq0,Alessia Cara,Christmas Songs 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+3qNUzF2dXD6TO5FLiLtrxU,Alessia Cara,Mega Hits Autumn/Fall 2022,Sweet Dream,1,181881,False,0.76,0.532,0,-9.177,1,0.127,0.252,0.0,0.252,0.5,123.064,4,electro
+7MvUTgehqKITlwxPTNfPuU,Alessia Cara,Concierto en la ducha,Growing Pains,0,196533,False,0.354,0.753,1,-6.274,0,0.743,0.0836,0.0,0.314,0.455,191.139,4,electro
+1tfVpMI8G6EakZU4rEja4w,Alan Walker,Different World,Sing Me to Sleep,66,187800,False,0.474,0.622,4,-6.381,0,0.061,0.0129,3.82e-06,0.327,0.158,176.062,4,electro
+0zna3xsQS0L4mw2up6PEoV,Alessia Cara,Christmas 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+3OS78nS78LDfSRk9tyxygG,Alessia Cara,Отново на училище,Scars To Your Beautiful,0,230240,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,electro
+4LTOBcEV9JgJM7TGAkKmxx,Alessia Cara,Holiday Favorites 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+2qDwZNRSegjzlA9zJiited,Alessia Cara,Best Christmas Songs 2022 | For under the Mistletoe,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+3L4pw14jEjEZI7fyGgctF9,Alessia Cara,Jingle Bell Rock 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+6wXeRgZClAnD88ypGDaVuQ,Topic;Bebe Rexha,Night Drive Autumn/Winter 2022/23,Chain My Heart,0,146880,False,0.663,0.849,11,-4.462,0,0.0334,0.0791,1.2e-06,0.192,0.722,123.992,4,electro
+0K0r2B73pzyGwKLUONLp11,Alessia Cara,Christmas Dinner 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+5kSqoH8sxJfyzjbt5l4LUr,Alessia Cara,Pop Fun and Christmas Music 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+6R1TE6vATyzLBzSYks9FPZ,Alessia Cara,CHRISTMAS TOP HITS 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+5eOTZ0In8yo25okDHmJlP6,Alessia Cara,"It's Christmas, Let's Dance",Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+1u5meINe7Y9PXVrIsX0YD4,Alessia Cara,Weihnachtslieder 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+106fpyAO4qjDIA1bcaXp6N,Topic;A7S,Night Drive Autumn/Winter 2022/23,Kernkraft 400 (A Better Day),0,165800,False,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,4,electro
+30WZViwU19Gq6aKQ1QBpeB,Topic;Bebe Rexha,pov: it's 2021,Chain My Heart,0,146880,False,0.663,0.849,11,-4.462,0,0.0334,0.0791,1.2e-06,0.192,0.722,123.992,4,electro
+5JDZetSzAYQbCGiwVtnijw,Alessia Cara,World's Best Christmas Playlist,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+7v7YcDaYFRNCg5HSt3xL9v,Alessia Cara,Weihnachtssongs,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+1TMnhMfuiMokXeBCqvpNmJ,Alessia Cara,Best Christmas Playlist Ever 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+5gC7UsLqH2xGn2EHXr6X26,Alessia Cara,All I want For Christmas Is Music,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+2qScpakINpIiWLXnqg0cFz,Alessia Cara,Santa Claus Is Coming To Town,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+4J0MK1go6edXYbMA34FxTo,Alessia Cara,Pop Christmas 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+1oCHw7qebbQshiMLm8AxE7,Alessia Cara,Christmas Best Hits 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+0P8SKHmo9xX6rXSlKD9ziV,Alessia Cara,The Very Best Christmas Songs 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+0hVtziOF1Z1Z5igByuFPcJ,Alessia Cara,Weihnachten Playlist,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+33wTrwfbn1Pjc9wMaC6RnF,Alessia Cara,Weihnachtspop 2022,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+434ZWHv6z3BvkkEosH6dHi,Alessia Cara,Christmas Dinner,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+67X2jhG6z2f5qA0jRMwIy0,Alessia Cara,Un tecito y a mimir,Scars To Your Beautiful,0,230240,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,electro
+1ZCKHOhHGPRD6sbjVAedlv,Alessia Cara,All I Want For Christmas Is You,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+0UwM73yrbMoLcVSiFwvUdw,Alessia Cara,pov: you are walking in a winter wonderland,Make It To Christmas,0,211013,False,0.535,0.522,2,-7.87,1,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+0fpwJ49EPz4WbT5W4SWmUS,Topic;Robin Schulz;Nico Santos;Paul van Dyk,Arbeitsmusik Herbst/Winter 2022/2023,In Your Arms (For An Angel),0,150476,False,0.694,0.828,11,-4.653,0,0.0336,0.0399,0.0,0.0796,0.407,126.002,4,electro
+5oVPnY5UP6rd56XZYU207w,Alessia Cara,Concierto en la ducha,Scars To Your Beautiful,0,230240,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,electro
+17vet66oUJBu8wqbMos7Qc,Topic;A7S,Arbeitsmusik Herbst/Winter 2022/2023,Kernkraft 400 (A Better Day),0,165800,False,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,4,electro
+1YMBg7rOjxzbya0fPOYfNX,DJ Snake;Lauv,A Different Way (with Lauv),A Different Way (with Lauv),66,198285,False,0.784,0.757,8,-3.912,1,0.0384,0.495,1.18e-06,0.142,0.587,104.996,4,electro
+0g4fzRkbLeCDUCoe5iUOcf,Lykke Li,so sad so sexy,sex money feelings die,74,139840,True,0.789,0.534,8,-6.347,0,0.0709,0.323,3.42e-06,0.0645,0.631,134.055,4,electro
+3r44Otr6SVUja3SYsCuhVY,Izzamuzzic;Julien Marchal,Shootout (Sped Up),Shootout (Sped Up),76,242142,False,0.684,0.605,10,-8.678,0,0.0634,0.216,0.941,0.103,0.768,104.647,4,electro
+2ISSQPb9LHHiV6ng2NXosL,Zedd;Jon Bellion,True Colors,Beautiful Now,70,218293,False,0.628,0.833,11,-4.126,0,0.0282,0.0079,1.48e-05,0.074,0.56,128.003,4,electro
+21AziTMaZwcLflGMAj85o5,Lauv,All 4 Nothing (I'm So In Love),All 4 Nothing (I'm So In Love),71,183014,False,0.72,0.819,1,-4.588,1,0.0362,0.0411,0.0,0.0606,0.898,131.99,4,electro
+2FqkTu4FhwDWn9hzEaWWCE,The Chainsmokers,So Far So Good,I Love U,69,185522,False,0.651,0.719,8,-5.804,1,0.0318,0.143,3.62e-05,0.0948,0.81,103.981,4,electro
+7eB1V5LvAdxCc7brfGhRRo,Billie Eilish,dont smile at me,watch,79,177523,False,0.441,0.599,0,-8.985,1,0.225,0.333,0.00198,0.103,0.35,165.212,4,electro
+6Mcd2tlwSiqsnMC85DF4Ns,Calvin Harris;Dua Lipa,New Year's Eve - NYE 2018/2019,One Kiss,60,209040,False,0.753,0.852,9,-4.028,0,0.138,0.0319,8.63e-06,0.328,0.586,124.023,4,electro
+2IO7yf562c1zLzpanal1DT,Halsey,BADLANDS (Deluxe),Gasoline,72,199593,True,0.731,0.58,10,-7.328,0,0.0399,0.223,0.0,0.129,0.319,119.997,4,electro
+4q3biaQQoADspV16lbsfPH,Mokita,Lonely City,Lonely City,67,157523,False,0.735,0.37,5,-12.581,0,0.0705,0.389,0.00163,0.106,0.305,112.015,4,electro
+3hWfKBt3n7j1xqIy6LA5ve,Vicetone;Tony Igy,Astronomia,Astronomia,68,198095,False,0.653,0.945,5,-2.634,1,0.096,0.00561,0.915,0.439,0.326,126.093,4,electro
+4xkm03zMAQXHc0QHl0V2Rm,The Chainsmokers;ILLENIUM;Lennon Stella;pilton,Takeaway (feat. Lennon Stella) [Remixes],Takeaway (feat. Lennon Stella) - Pilton Remix,57,213253,False,0.515,0.696,3,-7.323,1,0.034,0.136,0.0,0.238,0.528,99.985,4,electro
+2okJwvZaFNtnicAkgB6GFW,Galantis;Ship Wrek;Pink Sweat$,Happy Commute,Only a Fool,0,166687,False,0.729,0.619,5,-6.155,0,0.0346,0.0451,0.0,0.0953,0.623,123.061,4,electro
+5g1BARk25uUJtEPSUwcjnU,Cash Cash;Christina Perri,"Blood, Sweat & 3 Years",Hero (feat. Christina Perri),67,197840,False,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,4,electro
+4x5YzxjrF9wvIIXJV7TveC,Ashe;FINNEAS,Ashlyn,Till Forever Falls Apart,73,222926,True,0.346,0.501,2,-6.939,1,0.0364,0.421,0.0,0.0657,0.299,99.855,4,electro
+41gUDddcY9nBBuazuG20eD,Galantis;Ship Wrek;Pink Sweat$,Modern R&B Love,Only a Fool,0,166687,False,0.729,0.619,5,-6.155,0,0.0346,0.0451,0.0,0.0953,0.623,123.061,4,electro
+2wQ411UQL2MRsdAgPRUstT,Vicetone,Walk Thru Fire,Walk Thru Fire,65,194482,False,0.639,0.664,5,-4.926,1,0.0357,0.329,1.53e-06,0.382,0.351,116.028,4,electro
+5K6Ssv4Z3zRvxt0P6EKUAP,Galantis;David Guetta;Little Mix,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),79,183725,False,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,4,electro
+0WHi11uzahqpEtPGYCW6oQ,Alec Benjamin,Narrated For You,If I Killed Someone For You,72,185122,False,0.514,0.605,7,-5.363,1,0.0337,0.774,2.91e-06,0.121,0.409,120.894,4,electro
+4heFQCyiW0RUEX1Q1lb008,Alan Walker;K-391;Sofia Carson;CORSAK,Different World,Different World (feat. CORSAK),63,202906,False,0.602,0.752,7,-4.931,0,0.0361,0.0638,0.0,0.13,0.331,130.037,4,electro
+5HOlPj1GPGrp8sbad1BPDU,Topic;A7S,Weekend Baby,Breaking Me,0,166793,False,0.789,0.72,8,-5.652,0,0.217,0.223,0.0,0.129,0.664,122.031,4,electro
+2tYujK3aoSsRTp8uCvzVFE,Felix Jaehn;Zoe Wees,EDM Gaming Music Autumn/Winter 2022,Do It Better,0,170045,False,0.677,0.804,1,-5.337,0,0.0677,0.0818,1.92e-05,0.158,0.41,122.111,4,electro
+0TNarhIeerCvP5d7W29wXU,Topic;A7S;Lil Baby,pov: it's 2020,Why Do You Lie To Me,0,171290,True,0.65,0.738,4,-6.46,0,0.158,0.0539,0.0,0.206,0.336,119.827,4,electro
+38dIniBkVzA7vdrLRY0cEZ,Felix Jaehn;Zoe Wees,Night Drive Autumn/Winter 2022/23,Do It Better,0,170045,False,0.677,0.804,1,-5.337,0,0.0677,0.0818,1.92e-05,0.158,0.41,122.111,4,electro
+1gakI6999vdP3STkGyaO6L,Galantis,EDM Hits,1x1,0,139435,False,0.887,0.863,2,-4.2,1,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+3JwyTIApOhgizktLQaVvFF,Topic;John Martin,EDM Gaming Music Autumn/Winter 2022,Follow Me,0,194285,False,0.578,0.854,3,-7.661,0,0.0427,0.00823,0.000118,0.0815,0.0437,125.928,4,electro
+0JwtmsNI76noYakct1EhhN,Galantis,From The Ashes - New Beats,1x1,0,139435,False,0.887,0.863,2,-4.2,1,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+20vawhkM9Gee7JCUVYCqGf,Galantis,Hot Mix Pop,1x1,0,139435,False,0.887,0.863,2,-4.2,1,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+6lbu0pkP2pG8pzaY22Qdxw,Galantis,Upbeat 20's,1x1,0,139435,False,0.887,0.863,2,-4.2,1,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+1fgpD8xxztlTpCVpOYb3hv,Felix Jaehn;Zoe Wees,Arbeitsmusik Herbst/Winter 2022/2023,Do It Better,0,170045,False,0.677,0.804,1,-5.337,0,0.0677,0.0818,1.92e-05,0.158,0.41,122.111,4,electro
+254F8QSuBg0Rfi9V7pE955,Felix Jaehn;Ray Dalton,Night Drive Autumn/Winter 2022/23,Call It Love,0,154560,False,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,4,electro
+7nPdbiSqvnJxIl28z6PQZg,Felix Jaehn;Ray Dalton,EDM Gaming Music Autumn/Winter 2022,Call It Love,1,154560,False,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,4,electro
+6KfqrM6To2CjbXqJN3Pulw,Felix Jaehn;Robin Schulz;Georgia Ku,Night Drive Autumn/Winter 2022/23,I Got A Feeling,0,144734,False,0.598,0.833,2,-3.716,0,0.048,0.0196,0.0,0.292,0.406,124.973,4,electro
+4HVRP4l0lOnq0Lexs7EmBu,Galantis,Brandneu Dance,1x1,0,139435,False,0.887,0.863,2,-4.2,1,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+6K8ElBuFmFj8KYUP16B7ss,Felix Jaehn;The Stickmen Project;Calum Scott,Night Drive Autumn/Winter 2022/23,Rain In Ibiza,0,141931,False,0.654,0.898,7,-5.964,1,0.0413,0.0844,0.0347,0.316,0.722,123.996,4,electro
+5eYQMChHFGtMlRPZicBtMC,Topic;A7S,pov: it's 2020,Breaking Me,0,166793,False,0.789,0.72,8,-5.652,0,0.217,0.223,0.0,0.129,0.664,122.031,4,electro
+1v0dx7eDwANUppPBLweInQ,Topic;Robin Schulz;Nico Santos;Paul van Dyk,Night Drive Autumn/Winter 2022/23,In Your Arms (For An Angel),0,150476,False,0.694,0.828,11,-4.653,0,0.0336,0.0399,0.0,0.0796,0.407,126.002,4,electro
+4003PQamqke3dARQ0gidZw,Felix Jaehn;Ray Dalton,Arbeitsmusik Herbst/Winter 2022/2023,Call It Love,0,154560,False,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,4,electro
+2Ir2S7YpHlTuDNtBFBW1kP,Felix Jaehn;The Stickmen Project;Calum Scott,EDM Gaming Music Autumn/Winter 2022,Rain In Ibiza,0,141931,False,0.654,0.898,7,-5.964,1,0.0413,0.0844,0.0347,0.316,0.722,123.996,4,electro
+50bPnkzp6o4AdSBNisle9l,Topic;A7S,Queda poco para la PAES,Breaking Me,0,166793,False,0.789,0.72,8,-5.652,0,0.217,0.223,0.0,0.129,0.664,122.031,4,electro
+69yik0sUL1AT6eg2B4A1Dr,Topic;Robin Schulz;Nico Santos;Paul van Dyk,EDM Gaming Music Autumn/Winter 2022,In Your Arms (For An Angel),0,150476,False,0.694,0.828,11,-4.653,0,0.0336,0.0399,0.0,0.0796,0.407,126.002,4,electro
+26RJAPCk13MqhpFDD1L4KP,Topic;A7S,EDM Gaming Music Autumn/Winter 2022,Kernkraft 400 (A Better Day),1,165800,False,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,4,electro
+2Cml5xVHB01Y7PZ20smxhP,Felix Jaehn;The Stickmen Project;Calum Scott,Arbeitsmusik Herbst/Winter 2022/2023,Rain In Ibiza,0,141931,False,0.654,0.898,7,-5.964,1,0.0413,0.0844,0.0347,0.316,0.722,123.996,4,electro
+16BU6Ue3B2TeDwI24vmUmn,Felix Jaehn;Robin Schulz;Georgia Ku,pov: it's 2021,I Got A Feeling,0,144734,False,0.598,0.833,2,-3.716,0,0.048,0.0196,0.0,0.292,0.406,124.973,4,electro
+3Kq3lhigcoPxiLVTsNwX5P,Felix Jaehn;Robin Schulz;Georgia Ku,Arbeitsmusik Herbst/Winter 2022/2023,I Got A Feeling,0,144734,False,0.598,0.833,2,-3.716,0,0.048,0.0196,0.0,0.292,0.406,124.973,4,electro
+7jQIgkV48Z4d8A7mA8UOkq,Felix Jaehn,EDM Gaming Music Autumn/Winter 2022,Winds May Change,0,186105,False,0.712,0.923,6,-5.536,0,0.0727,0.0124,0.168,0.103,0.263,127.982,4,electro
+2Fb7yGahoIfkR2KpC0Tgs6,Felix Jaehn,Tomorrowland Music - The Reflection of Love Singles,Winds May Change,3,186105,False,0.712,0.923,6,-5.536,0,0.0727,0.0124,0.168,0.103,0.263,127.982,4,electro
+3s7I40SFKo5gnw9BEmRzqQ,Felix Jaehn;VIZE;Miss Li,pov: it's 2020,Close Your Eyes,0,159962,False,0.844,0.818,2,-3.727,1,0.2,0.0743,1.28e-05,0.112,0.536,128.094,4,electro
+0eAZj3pd6JoZPYoyhTh1qp,Topic;A7S,Ballermann Hits Party 2023,Kernkraft 400 (A Better Day),0,165800,False,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,4,electro
+68oGVfAJgdZ36SJU38yZdm,Felix Jaehn;Mike Williams,Queda poco para la PAES,Feel Good,0,166946,False,0.702,0.903,4,-3.921,1,0.0379,0.121,0.000124,0.168,0.655,125.95,4,electro
+0mHGftgYtmpH4y17T3VZ2E,blackbear,@ my worst,@ my worst,69,191364,True,0.615,0.774,4,-5.152,0,0.0551,0.0173,0.0,0.15,0.336,136.887,4,electro
+1S7ca5mJlpHn7GCE88jejz,Izzamuzzic;Julien Marchal,Shootout (Slowed + Reverb),Shootout (Slowed + Reverb),67,140142,False,0.722,0.543,2,-9.789,0,0.0692,0.355,0.411,0.0963,0.315,137.143,4,electro
+55sgQENF3LY1sUcJUwasLl,Skrillex;Justin Bieber;Don Toliver,Don’t Go (with Justin Bieber & Don Toliver),Don’t Go (with Justin Bieber & Don Toliver),69,168253,False,0.689,0.695,11,-5.22,1,0.0429,0.019,0.0,0.123,0.359,75.05,4,electro
+4BiiOzZCrXEzHRLYcYFiD5,The Chainsmokers;Winona Oak,Sick Boy,Hope,65,180120,False,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941,4,electro
+0dkvbYmXYEPK7gGMdytmfI,Lykke Li,sex money feelings die (slowed version),sex money feelings die - slowed version,75,168810,True,0.797,0.44,5,-6.587,0,0.0594,0.471,1.57e-06,0.0849,0.436,111.014,4,electro
+6JyuJFedEvPmdWQW0PkbGJ,Skrillex;Rick Ross,Purple Lamborghini (with Rick Ross),Purple Lamborghini (with Rick Ross),68,215510,True,0.457,0.899,10,-2.591,0,0.132,0.0019,0.0,0.831,0.298,147.268,4,electro
+2NWVdwbd2hPIzC2lyf4y63,Ashe;Niall Horan,Moral of the Story (feat. Niall Horan),Moral of the Story (feat. Niall Horan),67,198515,True,0.599,0.374,10,-8.896,1,0.0385,0.495,0.0,0.221,0.224,119.9,4,electro
+5FvGI8KtImlEbOsvEW3pfX,The Chainsmokers;Ship Wrek,So Far So Good,The Fall,68,196021,False,0.664,0.939,0,-4.699,0,0.0354,0.011,0.0142,0.167,0.285,121.979,4,electro
+20R4HfKloPKgXDqU7UKk3x,Billie Eilish,Happier Than Ever,Therefore I Am,73,173539,False,0.879,0.365,2,-7.781,1,0.0924,0.227,0.135,0.0583,0.663,94.016,4,electro
+5Qjv35Ja2TDt9CXRRo51hh,DJ Snake;Justin Bieber,Encore,Let Me Love You,50,205906,False,0.492,0.714,8,-5.327,1,0.0442,0.0838,3.11e-05,0.13,0.146,99.602,4,electro
+4keoy2fqgwGnbWlm3ZVZFa,Zedd;Elley Duhé,Happy Now,Happy Now,70,207029,False,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,3,electro
+7K5tOFxje8nlunmexOmWgo,DJ Snake;Ozuna;Megan Thee Stallion;LISA,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",66,225600,False,0.796,0.836,6,-2.827,0,0.0473,0.00421,0.0068,0.101,0.68,100.033,4,electro
+7y9iMe8SOB6z3NoHE2OfXl,Halsey,hopeless fountain kingdom (Deluxe),Bad At Love,74,181279,False,0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,4,electro
+4SSnFejRGlZikf02HLewEF,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",bury a friend,76,193143,False,0.905,0.389,8,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,4,electro
+3uc8AGNL0KbvISIrjnfRvN,Lauv;LANY,~how i'm feeling~,Mean It,71,232853,False,0.746,0.45,7,-8.543,1,0.0873,0.0407,0.0,0.172,0.336,95.998,4,electro
+1louJpMmzEicAn7lzDalPW,Cheat Codes;Demi Lovato,No Promises (feat. Demi Lovato),No Promises (feat. Demi Lovato),67,223503,False,0.741,0.667,10,-5.445,1,0.134,0.0575,0.0,0.106,0.595,112.956,4,electro
+5Lu0vv78RmKZeBPpP1N8za,Mokita,With You,With You,67,154650,False,0.648,0.607,11,-6.399,1,0.0577,0.3,0.0,0.163,0.356,154.901,4,electro
+2GgxS8bUT5G25QJTsfSv0R,Ellie Goulding,Halcyon Days,Burn,71,231211,False,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,4,electro
+2g1KggY9PKvsoEAOaiz4xx,Ashnikko,DEMIDEVIL,Daisy,72,146523,True,0.834,0.663,8,-6.143,1,0.133,0.235,0.0,0.372,0.774,121.876,4,electro
+5WokFKscrfGEGGLPTu3jgO,Zara Larsson;Sabrina Carpenter,WOW (feat. Sabrina Carpenter) [Remix],WOW (feat. Sabrina Carpenter) - Remix,66,179652,False,0.702,0.744,6,-4.063,0,0.0861,0.469,0.0,0.0915,0.305,77.486,4,electro
+4vsAUbPb6q9FpC4AGBFdVh,Loote,lost,tomorrow tonight,65,202600,False,0.32,0.5,3,-7.979,1,0.0994,0.134,0.0,0.108,0.142,91.361,4,electro
+3rb0tMq42WfggucPm0HHkA,MEDUZA;James Carter;Elley Duhé;FAST BOY,Bad Memories (feat. Elley Duhé & FAST BOY),Bad Memories (feat. Elley Duhé & FAST BOY),85,148629,False,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,3,electro
+1IuTlBvUJLBmfOysdvaHJ3,Nessa Barrett,Baddest of Them All,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+25FtOoGhTwf1u9LLBLgHVb,Nessa Barrett,Daily Pop Mix,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+2B6IkE4vnjP1fr0rQ4nbBr,Nessa Barrett,Pop Hits Now,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+6rAGFY9D3ah6Lb7fUgbNNH,Alan Walker;salem ilese,Fake A Smile,Fake A Smile,62,168118,False,0.447,0.553,0,-4.817,1,0.0322,0.212,0.0,0.165,0.252,149.877,4,electro
+4VovlZD2uzSXIS90riyCb9,Nessa Barrett;jxdn,20's Rock,la di die,0,195191,False,0.484,0.643,1,-4.72,1,0.0416,0.0036,0.0,0.243,0.345,163.97,4,electro
+78v8ad1iLTlfLbam4qvzNu,Vicetone;Daisy Guttridge,Waiting,Waiting,63,205714,False,0.651,0.7,1,-4.264,0,0.0318,0.352,0.0,0.061,0.214,104.964,4,electro
+6FM8eHZdZfGEcE5psG4wad,Nessa Barrett,Hits à suivre 2022,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+7FiNO2IBePaEava0LRgzUk,Nessa Barrett,I'm Blue - Hits of 2022,die first,1,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+0RQh67kZ7peY4sy7Gh6ATJ,Nessa Barrett,All That Really Matters - Just Hits,die first,1,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+25gacl0dFF9HTclx7Ug7xC,Valley,Last Birthday,Like 1999,69,144742,True,0.733,0.382,7,-7.955,1,0.0459,0.132,0.0,0.162,0.517,98.027,4,electro
+1VCA372FfrWA3yjOzPlBri,Nessa Barrett,It's You - Fresh Hits,die first,1,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+2eRgaTsxKRPdv4tHULm9zc,Nessa Barrett,Hits à suivre 2022,madhouse,1,125720,False,0.683,0.681,7,-6.392,1,0.0307,0.119,0.0,0.175,0.477,95.021,4,electro
+5koDkemB6cdYV9H0mMzQXq,Nessa Barrett,Beautiful Trending Hits 2022,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+79HdJNpVRWaU1YHWnR5tMo,Nessa Barrett,La Fine dell'Estate,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+0sCg3tuPFpGkpCGUZSFXib,Nessa Barrett,Internet Sensations,die first,1,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+0CiyYx1EUyqGauWEzpiO86,Nessa Barrett,Indie Chill Out,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+75RVkmOgMisd3L45IqUqrs,Nessa Barrett,Hits Hits Hits,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+7BSgfWzZRs77HwtBxl2KH8,Nessa Barrett,Pop Brandneu,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+00gFptV5vcCXHgcXtFr3cT,Nessa Barrett,All Bops,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+180YIJIvYl3g74fAitPbFJ,Nessa Barrett,New Pop Classics,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+49p7VoURpDgoF9AbzPRaZA,Nessa Barrett,Low-Key Hits,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+6bFvVLJDafSdR9hwNJgT1Z,Nessa Barrett,Give You Love - Cozy Hits,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+3IT6wMBpuSOiTmM79vanaE,Nessa Barrett,Your Perfect Soundtrack,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+4l3s49lh5TCsDDCQrnm3ki,Nessa Barrett,Sad Girls,die first,0,177108,False,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+6s8k0dbZ7TfnLA8J6fJ6FL,Jax Jones;RAYE,Del gusto de hermanos,You Don't Know Me - Radio Edit,0,213946,True,0.877,0.658,11,-6.055,0,0.132,0.163,0.0,0.108,0.693,123.995,4,electro
+7o2G318KZiekaMH0tNEwQB,Jax Jones;Years & Years,Queda poco para la PAES,Play,0,186386,False,0.759,0.815,11,-6.544,0,0.0428,0.0127,0.0,0.269,0.597,125.052,4,electro
+4ILg36l6cAmhC0QT4lImc0,Jax Jones;Demi Lovato;Stefflon Don,Queda poco para la PAES,Instruction,0,165906,True,0.762,0.923,9,-3.107,0,0.189,0.103,0.0,0.105,0.936,121.081,4,electro
+245ffITIEtE54zv2y1WTNt,Jax Jones;RAYE,Larga Vida al Electro,You Don't Know Me - Radio Edit,1,213946,True,0.877,0.658,11,-6.055,0,0.132,0.163,0.0,0.108,0.693,123.995,4,electro
+7cflqPPi3zWfLFRRBTWeh6,Jeremy Zucker;blackbear,idle,talk is overrated,65,189800,True,0.776,0.353,4,-8.317,0,0.0687,0.435,0.0,0.302,0.658,138.035,4,electro
+3vv9phIu6Y1vX3jcqaGz5Z,The Chainsmokers;ROZES,Roses,Roses,74,226738,False,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,4,electro
+22mek4IiqubGD9ctzxc69s,Calvin Harris;Disciples,How Deep is Your Love (feat. Disciples),How Deep is Your Love (feat. Disciples),77,212640,False,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,4,electro
+2tnVG71enUj33Ic2nFN6kZ,Regard,Ride It,Ride It,81,157605,False,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,4,electro
+18Eu9puOprFj4acahSyF1d,Sickflip;Mismatched;Raitila Rajasthan,Mismatched: Season 2 (Music from the Netflix Series),Mehmaan,51,170400,False,0.367,0.518,11,-9.946,1,0.464,0.814,0.071,0.16,0.53,98.24,4,electro
+3Mpz9tU5tLEkYKDMUOi067,Ellie Goulding,Let It Die,Let It Die,46,166890,False,0.577,0.869,2,-5.305,0,0.205,0.44,2.99e-06,0.0721,0.696,119.939,4,electro
+16Fxe5DvEXRxQwcorFyaIO,Jeremy Zucker;BENEE,I'm So Happy,I'm So Happy (with BENEE),71,173365,True,0.846,0.434,5,-7.118,1,0.118,0.642,0.0,0.197,0.681,132.899,4,electro
+58kZ9spgxmlEznXGu6FPdQ,The Chainsmokers,Sick Boy,Sick Boy,69,193200,False,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996,4,electro
+3H7ihDc1dqLriiWXwsc2po,Topic;A7S,Breaking Me,Breaking Me,78,166793,False,0.789,0.72,8,-5.652,0,0.218,0.223,0.0,0.129,0.664,122.031,4,electro
+65ES1qwOB577ZnTkizMXJJ,Skrillex;Kendrick Lamar,HUMBLE. (SKRILLEX REMIX),HUMBLE. - SKRILLEX REMIX,71,156800,True,0.901,0.934,11,-2.345,1,0.273,0.00794,7.68e-05,0.194,0.868,150.037,4,electro
+38GBNKZUhfBkk3oNlWzRYd,Billie Eilish,Happier Than Ever,NDA,77,195776,True,0.765,0.373,8,-9.921,1,0.0713,0.341,0.525,0.112,0.554,85.016,4,electro
+1wsZ0cp5He4Wm4yohNjwIs,blackbear;Tarro,idfc (Tarro Remix),idfc - Tarro Remix,64,248633,True,0.58,0.694,1,-5.45,0,0.221,0.481,1.18e-06,0.109,0.389,139.751,4,electro
+7dTd00X8Mc5iErfQQyBA6B,The Chainsmokers,So Far So Good,Riptide,65,171359,False,0.717,0.734,5,-5.712,1,0.0426,0.28,0.000101,0.147,0.894,91.014,4,electro
+6IRdLKIyS4p7XNiP8r6rsx,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",all the good girls go to hell,76,168839,False,0.726,0.444,8,-8.922,0,0.372,0.283,0.143,0.177,0.569,185.044,4,electro
+0ZnwzjB40zdTZrEwPvaRqG,Otnicka,Babel,Babel,60,198962,False,0.883,0.366,2,-9.731,0,0.0706,0.14,0.915,0.102,0.397,107.998,4,electro
+6ft4hAq6yde8jPZY2i5zLr,MEDUZA;Dermot Kennedy,Paradise,Paradise (feat. Dermot Kennedy),79,167903,False,0.632,0.595,8,-7.644,0,0.0401,0.0689,0.0,0.209,0.435,124.114,4,electro
+1qwno7xb5mJe71xtMS6jl2,K.Flay,Every Where Is Some Where,High Enough,76,231600,False,0.606,0.62,0,-5.005,1,0.0298,0.0301,0.0916,0.167,0.543,88.984,4,electro
+0U6bQIAh6MCGo1xjbIIx2S,Dimitri Vegas & Like Mike;David Guetta;Daddy Yankee;Afro Bros;Natti Natasha;Dimitri Vegas;Like Mike,Instagram,Instagram,66,184558,True,0.765,0.906,8,-2.097,0,0.0965,0.125,0.0,0.423,0.95,96.071,4,electro
+500mvzh7TRZ0YdnVeHhj8b,Major Lazer;Nyla;Fuse ODG,Peace Is The Mission (Extended),Light It Up - Remix,67,166138,False,0.747,0.877,9,-3.782,0,0.0664,0.0375,0.000833,0.233,0.752,107.991,4,electro
+0jllH0usRFD4LJkJnGK9Lf,Olivia O'Brien,Complicated,Complicated,71,189000,False,0.657,0.355,7,-12.044,1,0.0714,0.694,0.000427,0.123,0.0808,74.99,4,electro
+1k5YcZkESDSl6iJylkoOOK,R3HAB;A Touch Of Class,All Around the World (La La La),All Around the World (La La La),50,147840,False,0.733,0.859,9,-5.03,0,0.033,0.479,0.0645,0.105,0.52,124.948,4,electro
+3aUD2nXnCYiGd9V1UhfyRz,Lauv,All 4 Nothing,Stranger,70,164688,False,0.65,0.538,5,-7.511,1,0.0464,0.128,4.95e-06,0.127,0.501,153.179,4,electro
+0E9ZjEAyAwOXZ7wJC0PD33,Dynoro;Gigi D'Agostino,In My Mind,In My Mind,79,184560,False,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,4,electro
+4nt1pLbjBHtpHFarYXRHHN,Kylie Minogue;Sonu Nigam;Suzanne,Blue,Chiggy Wiggy,50,310081,False,0.501,0.69,4,-6.978,0,0.313,0.263,0.0,0.182,0.641,94.058,4,electro
+66XDf77gBcfQKi4I2vIbTj,Steve Aoki;BTS,Neon Future III,Waste It On Me,63,192536,False,0.669,0.684,7,-4.595,1,0.0585,0.252,0.0,0.72,0.466,96.097,4,electro
+22O2Zdfj3jnJZDSzlDMAJp,Alan Walker;Ruben,Heading Home,Heading Home,59,184889,False,0.73,0.789,10,-3.982,1,0.034,0.0269,0.0,0.129,0.106,107.981,4,electro
+5jjZikDrEd0by1o7V3fO4y,Royal & the Serpent,Overwhelmed,overwhelmed,70,159293,False,0.804,0.323,0,-11.127,0,0.305,0.308,0.0,0.15,0.456,87.019,4,electro
+0PgYPBGqF6Wm5KFHQ81nq5,Jeremy Zucker;Bea Miller,comethru,comethru (with Bea Miller),65,181626,False,0.757,0.192,0,-11.842,1,0.0515,0.572,0.0,0.606,0.595,94.024,4,electro
+0ADG9OgdVTL7fgREP75BrZ,Zara Larsson,So Good,Ain't My Fault,69,224030,False,0.576,0.782,6,-4.825,0,0.0296,0.00778,0.0,0.285,0.355,141.153,4,electro
+5DMrREzztuMUkLMDjMpJNY,SHAED;Jauz,Melt (Deluxe),Trampoline - Jauz Remix,57,236170,False,0.49,0.606,7,-6.604,0,0.0424,0.169,0.00106,0.0704,0.119,126.553,4,electro
+6IbnUaczZBT34DhaD6S18F,MARINA,Electra Heart (Deluxe),Bubblegum Bitch,78,154666,True,0.495,0.856,0,-5.123,0,0.0311,0.000219,0.0,0.103,0.609,158.024,4,electro
+0d1ujEcFwTqA4kWliTSJim,Alan Walker;Georgia Ku,Don't You Hold Me Down,Don't You Hold Me Down,66,132597,False,0.773,0.839,5,-4.046,1,0.0566,0.0276,0.00797,0.132,0.303,123.975,4,electro
+7kVDkZkZc8qBUBsF6klUoY,Alan Walker;Julie Bergan,Different World,I Don't Wanna Go,60,161666,False,0.423,0.751,11,-5.632,1,0.272,0.136,0.0,0.243,0.522,148.773,4,electro
+6QS7xGnz2B1jVbIdReS0YV,Afrojack;David Guetta;Ester Dean,Del gusto de hermanos,Another Life,0,208689,False,0.416,0.771,7,-3.183,0,0.0539,0.178,1.47e-06,0.501,0.493,144.869,4,electro
+7iQeIx7Ko1Wfemi46OpQL4,FLETCHER,Mega Hits Autumn/Fall 2022,girls girls girls,1,161247,False,0.649,0.478,0,-8.834,1,0.156,0.658,0.0,0.131,0.468,139.859,4,electro
+6CrTJJdpb5ViSGUPcEYPQQ,FLETCHER,Autumn Vibes 2022,girls girls girls,0,161247,False,0.649,0.478,0,-8.834,1,0.156,0.658,0.0,0.131,0.468,139.859,4,electro
+567h66xwutP4POoTUCCuua,RÜFÜS DU SOL,"#Multiverse, If the Multiverse Is Real",On My Knees,0,261001,False,0.683,0.571,1,-7.721,1,0.0286,0.0335,0.0616,0.0957,0.29,120.044,4,electro
+6UtH9YECqCydglIfcEkvpD,RÜFÜS DU SOL,Baddest of Them All,On My Knees,0,261001,False,0.683,0.571,1,-7.721,1,0.0286,0.0335,0.0616,0.0957,0.29,120.044,4,electro
+5rZVcyWDOjxqY07xFU8vvO,Carly Rae Jepsen,Best Christmas Music 2022,Last Christmas,0,212453,False,0.723,0.645,2,-4.94,1,0.0326,0.393,5.83e-05,0.367,0.516,106.004,4,electro
+1nkZhM0avuQVp8R77n1is7,RÜFÜS DU SOL,Gaming Songs 2022: Hard Mode,On My Knees,0,261001,False,0.683,0.571,1,-7.721,1,0.0286,0.0335,0.0616,0.0957,0.29,120.044,4,electro
+1gZZDJUNC66XpCCwrKZLTA,Carly Rae Jepsen,A Merry Modern Christmas,Last Christmas,1,212453,False,0.723,0.645,2,-4.94,1,0.0326,0.393,5.83e-05,0.367,0.516,106.004,4,electro
+4qQeZxkEruWOmxgkk7yz2O,Afrojack;David Guetta;Ester Dean,Queda poco para la PAES,Another Life,0,208689,False,0.416,0.771,7,-3.183,0,0.0539,0.178,1.47e-06,0.501,0.493,144.869,4,electro
+5lTqpWZJbOUhusVlGtTLWn,Carly Rae Jepsen,Best Christmas Music 2022,It's Not Christmas Till Somebody Cries,0,172250,False,0.793,0.666,7,-6.195,1,0.0598,0.118,2.48e-05,0.296,0.783,119.985,4,electro
+4PTDjIzld7QGs6oLMMnDQ6,Carly Rae Jepsen,Отново на училище,Call Me Maybe,0,193146,False,0.772,0.6,7,-6.253,1,0.0403,0.0126,0.0,0.109,0.644,120.026,4,electro
+7rvWVAM7b9yNkQ5twoxvY2,FLETCHER,Herbststimmung,Undrunk,0,183428,True,0.442,0.579,5,-6.484,1,0.145,0.489,1.04e-06,0.126,0.546,83.336,4,electro
+1r4hE9lJO7VkqmajEywNzg,Carly Rae Jepsen,Обратно в клас - pop,Call Me Maybe,1,193146,False,0.772,0.6,7,-6.253,1,0.0403,0.0126,0.0,0.109,0.644,120.026,4,electro
+7oW8L63y4SxLkdM4xmVLKK,Carly Rae Jepsen,Dinner with the Fam,Call Me Maybe,0,193146,False,0.772,0.6,7,-6.253,1,0.0403,0.0126,0.0,0.109,0.644,120.026,4,electro
+0plHxOMINqM8unyGEHchCD,Carly Rae Jepsen,"It's Christmas, Let's Dance",It's Not Christmas Till Somebody Cries,0,172250,False,0.793,0.666,7,-6.195,1,0.0598,0.118,2.48e-05,0.296,0.783,119.985,4,electro
+7IIkF38dN0yU8HgExfiMpc,Carly Rae Jepsen,Pop Christmas 2022,It's Not Christmas Till Somebody Cries,0,172250,False,0.793,0.666,7,-6.195,1,0.0598,0.118,2.48e-05,0.296,0.783,119.985,4,electro
+2mZEu8RtvC35q1Lwjg1zMd,RÜFÜS DU SOL,Mellow Electronic Pop,Treat You Better,0,273640,False,0.599,0.539,8,-5.897,1,0.034,0.356,5.43e-06,0.102,0.188,121.942,4,electro
+58AGoOGbwsQMhBbH0eFLRR,Calvin Harris;The Weeknd,Over Now (with The Weeknd),Over Now (with The Weeknd),71,210795,True,0.612,0.884,4,-4.113,0,0.0454,0.0759,0.00132,0.247,0.679,178.043,4,electro
+0U0ldCRmgCqhVvD6ksG63j,Kavinsky,Nightcall,Nightcall,73,258413,False,0.532,0.874,9,-5.183,0,0.0482,0.00842,0.012,0.452,0.361,91.038,4,electro
+60wwxj6Dd9NJlirf84wr2c,Zedd;Foxes,Clarity,Clarity,75,271426,False,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0,4,electro
+3Fj47GNK2kUF0uaEDgXLaD,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",wish you were gay,77,221543,False,0.853,0.351,7,-10.198,1,0.241,0.39,9.38e-06,0.752,0.282,118.028,4,electro
+1elhmWW7Bv0MOQj2gAsyoV,Zedd;Maren Morris;BEAUZ,Make You Say,Make You Say,75,206000,False,0.687,0.61,8,-4.713,0,0.0499,0.351,0.0,0.175,0.649,128.15,4,electro
+5Q5TNh4wr6CPoXKrI2H6gx,Lucky Luke;Emie,Drüg,Drüg,57,219260,False,0.685,0.496,0,-8.382,0,0.238,0.314,0.804,0.138,0.0569,124.987,4,electro
+2XWjPtKdi5sucFYtVav07d,Zedd;Katy Perry,365,365,66,181899,False,0.745,0.693,2,-5.479,0,0.034,0.339,0.0,0.123,0.248,98.039,4,electro
+0b5CzUhyShYuDdtW5J4wm2,Calvin Harris;Charlie Puth;Shenseea,Funk Wav Bounces Vol. 2,Obsessed (with Charlie Puth & Shenseea),73,226497,True,0.733,0.74,1,-6.343,0,0.0333,0.246,3.3e-05,0.299,0.903,99.993,4,electro
+3yNZ5r3LKfdmjoS3gkhUCT,Billie Eilish;Justin Bieber,bad guy (with Justin Bieber),bad guy (with Justin Bieber),68,194839,False,0.67,0.453,0,-11.265,1,0.295,0.252,0.33,0.117,0.68,135.055,4,electro
+3RgQFleuuQKcCmig9ItyxQ,R3HAB;HRVY,Be Okay (with HRVY),Be Okay (with HRVY),51,141600,False,0.73,0.558,8,-6.535,1,0.0786,0.0179,0.0,0.128,0.618,100.066,4,electro
+6Xs7OKt6i0Ddq8B4M5Dgvr,Halsey,BADLANDS,New Americana,65,183808,False,0.339,0.707,0,-5.121,0,0.0428,0.0113,0.0,0.337,0.359,173.993,4,electro
+0JiVRyTJcJnmlwCZ854K4p,Alan Walker,Alone,Alone,63,161200,False,0.676,0.929,10,-3.194,1,0.0458,0.186,0.000405,0.121,0.157,97.019,4,electro
+5FRIaaCcAlC3GBjqYkVBbm,Bahramji;Maneesh de Moor,Call of the Mystic,Dreamcatcher,50,462493,False,0.753,0.267,4,-12.078,0,0.0602,0.363,0.55,0.122,0.0554,129.985,4,electro
+6HZ9VeI5IRFCNQLXhpF4bq,Icona Pop;Charli XCX,THIS IS... ICONA POP,I Love It (feat. Charli XCX),70,157152,True,0.711,0.906,8,-2.671,1,0.0284,0.00952,1.64e-05,0.153,0.824,125.916,4,electro
+2ufmtcIFdFpuUYBPXK5f67,Halsey,Manic,Graveyard,69,181805,False,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,4,electro
+3oZoXyU0SkDldgS7AcN4y4,Dillon Francis;DJ Snake,"Money Sucks, Friends Rule",Get Low,61,212773,False,0.674,0.932,11,-4.424,0,0.0859,0.0282,0.71,0.684,0.728,101.033,4,electro
+3nEHrvNNtgLv9rneTAYVr4,Swedish House Mafia;Connie Constance,Paradise Again,Heaven Takes You Home (feat. Connie Constance),79,214071,False,0.665,0.738,0,-5.931,0,0.0379,0.0124,0.00598,0.0923,0.0389,125.037,4,electro
+6y6xhAgZjvxy5kR5rigpY3,Alesso;Marshmello;James Bay,Chasing Stars (feat. James Bay),Chasing Stars (feat. James Bay),72,170457,False,0.594,0.64,10,-6.865,1,0.033,0.0169,0.0,0.135,0.492,92.871,4,electro
+0ZXdzaT1k688dkpNeEgQiV,NOTD;Astrid S,I Don't Know Why,I Don't Know Why,69,207667,False,0.499,0.898,8,-4.181,0,0.124,0.124,7.2e-06,0.0832,0.618,120.04,4,electro
+5w7wuzMzsDer96KqxafeRK,Billie Eilish,dont smile at me,COPYCAT,74,194711,False,0.679,0.388,4,-10.977,0,0.0932,0.353,9.25e-05,0.341,0.234,124.909,4,electro
+3XoflnowYPFRPOh3uFvHcm,DJ Snake;Selena Gomez,Selfish Love (with Selena Gomez),Selfish Love (with Selena Gomez),63,168648,False,0.723,0.646,5,-7.973,0,0.102,0.0206,0.352,0.0994,0.443,110.971,4,electro
+7I5WT7DtpwSAhEeDLpZEfm,Lauv,All 4 Nothing,All 4 Nothing (I'm So In Love),68,183014,False,0.72,0.819,1,-4.588,1,0.0362,0.0411,0.0,0.0606,0.898,131.99,4,electro
+67awxiNHNyjMXhVgsHuIrs,DJ Snake;Lil Jon,Turn Down for What,Turn Down for What,71,213733,False,0.818,0.799,1,-4.1,0,0.156,0.00107,0.128,0.057,0.0815,100.014,4,electro
+5EbX5xL3O2xT8FxCpYzgUO,Alessia Cara,"How Far I'll Go (From ""Moana"")","How Far I'll Go - From ""Moana""",66,175517,False,0.309,0.544,9,-9.621,1,0.352,0.155,0.000265,0.0727,0.16,180.979,4,electro
+0OJN2A3Qyvd7pwSF0AIteC,NOTD;shy martin,Keep You Mine,Keep You Mine,68,174760,False,0.81,0.788,10,-3.663,1,0.0447,0.267,0.000172,0.196,0.845,135.991,4,electro
+0110a0AM2nOV8yYa9u6kjQ,Fly By Midnight,Happy About Everything Else...,Love Me Like a Friend,65,202266,True,0.713,0.764,6,-5.57,0,0.0294,0.0718,0.0,0.0708,0.962,125.052,4,electro
+6TCgbXfNTvxzTTJjKtA1FT,Afrojack;Black V Neck;Muni Long,Top Trending Romania - Vara 2022,Day N Night,2,179199,False,0.709,0.871,5,-4.126,0,0.175,0.134,0.0,0.316,0.667,125.94,4,electro
+2MzU5lu3pSa0WkDKT13NqX,Afrojack;R3HAB;Au/Ra,Beats Electro Mood,Worlds On Fire,1,174193,False,0.621,0.756,5,-5.623,1,0.114,0.0752,1.17e-06,0.65,0.265,124.039,4,electro
+1u5t2GH0UlonZZaCM34o7x,Ashnikko,For the Girls: Summer Hits,Daisy,0,146054,True,0.834,0.663,8,-6.143,1,0.133,0.235,0.0,0.371,0.774,121.876,4,electro
+3TLpjiEOF1b2jbzp0SqBB6,Afrojack;R3HAB;Au/Ra,Electro sounds,Worlds On Fire,1,174193,False,0.621,0.756,5,-5.623,1,0.114,0.0752,1.17e-06,0.65,0.265,124.039,4,electro
+1hMNK2NJhojDWX8E70w8DN,Cali Y El Dandee;Sebastian Yatra,Hora del taco sin auto,Locura,0,209440,False,0.758,0.778,8,-3.562,1,0.0657,0.0806,0.0,0.198,0.532,92.983,4,electro
+1y0gnbaFQBZVlVNJ16cvbB,Afrojack;Black V Neck;Muni Long,Beats Electro Mood,Day N Night,0,179199,False,0.709,0.871,5,-4.126,0,0.175,0.134,0.0,0.316,0.667,125.94,4,electro
+2nSTgkvfDLV7Brzi1cYEf5,FINNEAS,The Greatest Rock Tunes 2022,What They'll Say About Us,0,181210,False,0.538,0.318,7,-13.036,0,0.0417,0.88,7.28e-05,0.116,0.0897,144.988,4,electro
+1Iixy8OeKBafmLCl3bVOGR,Ashnikko,US Pop 20s,Panic Attacks in Paradise,1,184885,False,0.695,0.386,8,-5.114,0,0.0337,0.554,0.0,0.0906,0.214,127.947,4,electro
+5QMLTolS9JqMTqouRtbSWT,Cali Y El Dandee;Danna Paola,Regageton Para Niños,Nada,1,174026,False,0.684,0.808,0,-2.737,1,0.061,0.0518,1.02e-05,0.0858,0.712,173.905,4,electro
+2X9fXsyuVwXxKANW3Bmlj4,Afrojack;Black V Neck;Muni Long,Electro sounds,Day N Night,0,179199,False,0.709,0.871,5,-4.126,0,0.175,0.134,0.0,0.316,0.667,125.94,4,electro
+3zxFdCygb1FgieCihHhdxG,Lykke Li;The Magician,House Anthems,I Follow Rivers - The Magician Remix,3,279635,False,0.785,0.7,9,-5.81,0,0.0406,0.0179,0.00251,0.0823,0.296,122.031,4,electro
+5ywMdbYK6YThy10BMT7tBw,Cali Y El Dandee;Sebastian Yatra,Perreo Tenebroso Vol. 3,Locura,0,209440,False,0.758,0.778,8,-3.562,1,0.0657,0.0806,0.0,0.198,0.532,92.983,4,electro
+6FcVDIaaY5DA6ZzBx4DGfm,Lykke Li;The Magician,10's Dance Classics,I Follow Rivers - The Magician Remix,0,279635,False,0.785,0.7,9,-5.81,0,0.0406,0.0179,0.00251,0.0823,0.296,122.031,4,electro
+5jqBYCKbXjoo4rgjOfFQzE,FINNEAS,Best Road Trip Pop Tunes,What They'll Say About Us,0,181210,False,0.538,0.318,7,-13.036,0,0.0417,0.88,7.28e-05,0.116,0.0897,144.988,4,electro
+6JsxODuwHXWtC5rpCkVLGo,Lykke Li;The Magician,Cardio Tracks,I Follow Rivers - The Magician Remix,0,279635,False,0.785,0.7,9,-5.81,0,0.0406,0.0179,0.00251,0.0823,0.296,122.031,4,electro
+6GVc45BRDqjvoGrMSInL5t,Lykke Li;The Magician,Comme un lundi,I Follow Rivers - The Magician Remix,0,279635,False,0.785,0.7,9,-5.81,0,0.0406,0.0179,0.00251,0.0823,0.296,122.031,4,electro
+77JnuzkgDssvr8Q5GQ39Eh,Cali Y El Dandee;Danna Paola,Verano en Junio,Nada,0,174026,False,0.684,0.808,0,-2.737,1,0.061,0.0518,1.02e-05,0.0858,0.712,173.905,4,electro
+4tXYUkChA1E8u7Qlbg2BAf,Afrojack;Spree Wilson,Beats Electro Mood,The Spark,1,243733,False,0.632,0.929,11,-4.194,1,0.0456,0.116,0.0,0.106,0.532,126.003,4,electro
+3OehKdGklazSDKF9HeUOwi,Afrojack;Spree Wilson,Electro sounds,The Spark,0,243733,False,0.632,0.929,11,-4.194,1,0.0456,0.116,0.0,0.106,0.532,126.003,4,electro
+0vvKVl5nawPkgrBrCNJQNh,Cali Y El Dandee;Shaggy,Carrete con besties,Lumbra,0,197086,False,0.724,0.84,0,-3.633,1,0.0393,0.0564,0.0,0.618,0.842,92.011,4,electro
+0yJYYdWIQ0VR1Zz4CAweO7,Cali Y El Dandee,Perreo Tenebroso Vol. 5,Ay Corazón,0,190287,False,0.728,0.711,5,-4.477,0,0.081,0.0183,0.0,0.0727,0.782,172.068,4,electro
+6Zh8RyaIF8MsQ2os943OB7,Cali Y El Dandee,Para entrar en calor,Sirena,1,205791,False,0.755,0.767,1,-4.446,1,0.0535,0.00459,8.28e-06,0.0618,0.321,93.959,4,electro
+3lOFofBlwZF66FMjH2AcuC,Cali Y El Dandee;Juan Magán;Sebastian Yatra,Queda poco para la PAES 2.0,Por Fin Te Encontré,0,250836,False,0.645,0.822,11,-3.679,1,0.212,0.0493,0.0,0.193,0.837,179.994,4,electro
+2awk2br4XeJn2L6Dl9stuj,Cali Y El Dandee;Reik,Halloween 2022 Perreo Vol. 5,Borracho De Amor,1,175640,False,0.62,0.754,9,-2.155,1,0.116,0.0578,0.0,0.0993,0.828,90.064,4,electro
+7840mcgnpkHeYU8jwMdq4n,Calvin Harris;Pharrell Williams;Katy Perry;Big Sean,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",46,223413,False,0.893,0.734,11,-3.107,0,0.0556,0.0649,0.0,0.143,0.875,101.02,4,electro
+6gpcs5eMhJwax4mIfKDYQk,Calvin Harris;Frank Ocean;Migos,Slide (feat. Frank Ocean & Migos),Slide (feat. Frank Ocean & Migos),72,230813,True,0.736,0.795,1,-3.299,0,0.0545,0.498,1.21e-06,0.254,0.511,104.066,4,electro
+5t3Vk8bRKylx4fjj7qlbib,Billie Eilish,bitches broken hearts,bitches broken hearts,76,176471,True,0.778,0.422,0,-10.114,1,0.0482,0.921,0.00924,0.0958,0.187,120.033,4,electro
+1gV0hgMNdpSWeW7ZjSUKnX,TroyBoi;Diplo;Nina Sky,Afterhours feat. Diplo & Nina Sky,Afterhours feat. Diplo & Nina Sky,58,275604,False,0.74,0.831,1,-3.828,1,0.0423,0.089,0.0,0.0837,0.357,91.026,4,electro
+1nDOeWBfRKA5YNQ8bKWzMM,Christian French,head first,head first,64,154960,False,0.909,0.392,6,-6.221,0,0.0652,0.278,1.77e-06,0.106,0.61,127.052,4,electro
+39PmNHf8HzUmhxrql2J6Rf,ZOH,Trippystan,Trippystan,47,180693,False,0.778,0.53,9,-7.915,0,0.13,0.0456,0.916,0.155,0.362,86.49,4,electro
+4QCnMOWxfDkTsGt82HULFb,Ellie Goulding,Old But Gold,Lights,66,245853,False,0.699,0.732,8,-6.307,0,0.0304,0.0771,0.00198,0.131,0.676,120.028,4,electro
+1ER18JtNiSnKkZX26zdkG9,6091,Kummati,Kummati,45,213333,False,0.578,0.459,11,-11.68,1,0.0863,0.674,0.349,0.377,0.182,152.94,4,electro
+5j3QqRGflS4o5jbsFSwKW1,DJ Shadow;Mos Def,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),Six Days - Remix,66,232000,False,0.641,0.943,5,-6.254,0,0.264,0.0351,0.000259,0.328,0.718,171.811,4,electro
+0MZ6NFEV7oQSDMzuXBVS5E,Sickflip;Ritviz;Seedhe Maut,Roshni,Roshni,45,174000,False,0.566,0.576,6,-7.652,0,0.121,0.629,0.0,0.534,0.3,100.065,4,electro
+1TnUURhehaoMWKAqQtirm6,Halsey,BADLANDS,Colors,68,249499,False,0.512,0.812,1,-4.809,1,0.0617,0.0534,0.0,0.092,0.521,100.02,4,electro
+0WTN7om3lHG3yYMigwzBxl,Lauv;Julia Michaels,There's No Way,There's No Way (feat. Julia Michaels),67,174860,False,0.755,0.625,2,-7.114,1,0.0896,0.49,0.0,0.157,0.374,147.02,4,electro
+6Se3x9ANMLv0dCDsjGmEjh,blackbear,digital druglord,do re mi,73,212027,True,0.745,0.593,8,-6.35,1,0.0524,0.00522,5.06e-06,0.123,0.17,111.001,3,electro
+1Sl3njkhhz8nrSPZroDQ82,Dimitri Vegas & Like Mike;David Guetta;Dimitri Vegas;Kiiara,Complicated (feat. Kiiara),Complicated (feat. Kiiara),59,184247,False,0.678,0.819,8,-3.306,1,0.0313,0.191,0.0,0.159,0.499,90.004,4,electro
+21RzyxY3EFaxVy6K4RqaU9,Loud Luxury;Brando,Body,Body,75,163216,False,0.752,0.764,1,-4.399,1,0.038,0.0476,9.44e-05,0.0543,0.582,121.958,4,electro
+5FNS5Vj69AhRGJWjhrAd01,AJ Mitchell;Ava Max,Slow Dance (feat. Ava Max),Slow Dance (feat. Ava Max),64,178799,False,0.692,0.443,1,-5.671,1,0.0386,0.214,0.0,0.06,0.363,127.9,4,electro
+03f7xZmt2wHCIDJBFPK8G4,Melanie Martinez,Cry Baby (Deluxe Edition),Soap,73,209426,False,0.595,0.689,6,-6.107,0,0.148,0.254,5.44e-06,0.129,0.213,168.112,4,electro
+7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Nervous System,Issues,74,176320,False,0.728,0.415,8,-6.852,1,0.0639,0.401,0.0,0.0616,0.455,114.145,4,electro
+4EZDJ5FMTj5pCJe2HBmd21,KSHMR;DIVINE;LIT killah;Jeremy Oceans;Karra,Lion Heart (feat. Jeremy Oceans & KARRA),Lion Heart (feat. Jeremy Oceans & KARRA),51,186947,False,0.699,0.866,11,-3.842,0,0.187,0.0398,1.77e-06,0.0505,0.569,95.063,4,electro
+042Sl6Mn83JHyLEqdK7uI0,Billie Eilish,Happier Than Ever,Your Power,77,245896,False,0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,4,electro
+6iW38RGqdDGOofmz2HeXLW,MEDUZA;Alok;Goodboys,Piece Of Your Heart (Alok Remix),Piece Of Your Heart - Alok Remix,75,166451,False,0.797,0.86,10,-4.38,0,0.0413,0.0312,0.0137,0.334,0.192,124.033,4,electro
+3b5Li4QKDVBx1x7fQuu54a,Alan Walker;Gavin James,Tired,Tired,64,192111,False,0.69,0.876,2,-4.159,1,0.059,0.0428,0.0,0.147,0.493,123.994,4,electro
+1Ia95g66IhlAJ3qVI4qI8W,shy martin,Slow,Slow,67,163547,False,0.636,0.243,2,-9.509,1,0.04,0.815,0.0,0.111,0.239,142.016,4,electro
+6SQDhaDMwLeRGHfyLb00d4,Midival Punditz;Karsh Kale;Raghu Dixit,Gully Boy,Train Song,49,238930,False,0.397,0.684,8,-10.014,1,0.0419,0.0486,0.0075,0.11,0.87,63.047,4,electro
+4WzhjxvLP95y7AMDy0Atwb,Alessia Cara,The Pains Of Growing,Out Of Love,74,227693,False,0.481,0.267,7,-9.249,1,0.0339,0.8,0.0,0.249,0.137,117.64,3,electro
+1KVczjazCcCCgM3gXXUl47,benny blanco;Juice WRLD;Brendon Urie,FRIENDS KEEP SECRETS,Roses (with Juice WRLD feat. Brendon Urie),70,223542,True,0.612,0.601,8,-7.089,1,0.164,0.168,0.0,0.117,0.525,147.018,4,electro
+5tAa8Uaqr4VvA3693mbIhU,Zara Larsson,Ruin My Life,Ruin My Life,67,190931,True,0.665,0.699,11,-5.265,1,0.0578,0.423,0.0,0.0969,0.585,124.896,4,electro
+2FWyJIT0gL2G3xWVQ9Id5f,Steve Aoki;BTS,Waste It On Me (feat. BTS),Waste It On Me,59,192536,False,0.669,0.684,7,-4.595,1,0.0585,0.252,0.0,0.72,0.466,96.097,4,electro
+4wzHOPBchA7Ab5wOmBHkiO,graves;Tim Gunter;LocateEmilio,Blame (Tim Gunter Remix),Blame (Tim Gunter Remix),64,193714,False,0.566,0.761,10,-3.796,0,0.0522,0.116,0.0294,0.112,0.353,140.004,4,electro
+5H3TCfiw0CQTX1XU7A9TXM,Melanie Martinez,Cry Baby (Deluxe Edition),Cake,76,199681,False,0.518,0.655,8,-6.255,1,0.0826,0.381,0.0,0.271,0.29,156.992,4,electro
+5e2ZOmiFEAOFEgXNj1mHEk,Cheat Codes;Russell Dickerson,I Remember,I Remember,75,168117,False,0.57,0.737,1,-4.27,0,0.0685,0.0314,0.0,0.248,0.621,100.052,4,electro
+7MIhUdNJtaOnDmC5nBC1fb,Alok;Ella Eyre;Kenny Dope;Never Dull,Deep Down (feat. Never Dull),Deep Down (feat. Never Dull),84,165752,False,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,4,electro
+1snWlbcbgQpJfknoI30DWG,Alan Walker;Au/Ra;Tomine Harket,Darkside,Darkside,62,211866,False,0.425,0.642,4,-5.06,0,0.0502,0.164,0.0,0.118,0.112,170.008,4,electro
+0Hijswm0F2WNL0vN5e4CyE,Rita Ora,Phoenix (Deluxe),Let You Love Me,56,190013,False,0.521,0.861,10,-3.138,1,0.319,0.261,0.0,0.0682,0.473,191.618,4,electro
+4KEVN3BYa8bfbSm36OyUIA,RANDALL,Wahran (Slowed),Wahran - Slowed,46,277519,False,0.386,0.796,5,-7.999,0,0.0666,0.0315,0.872,0.135,0.213,77.949,4,electro
+3SKzTIl9mW0DadTys9SFo3,Halsey,BADLANDS (Deluxe),Control,72,214761,False,0.549,0.675,4,-5.637,0,0.0332,0.399,0.0,0.181,0.206,119.898,4,electro
+0b7qBgsDlYz5koxoIdTZTe,Fly By Midnight,Silver Crane,Tomorrow,64,185474,False,0.568,0.669,2,-5.698,1,0.037,0.112,0.0,0.115,0.405,149.969,4,electro
+2SPEg45ZaUFJCg9GwNmRvw,Cher Lloyd,None Of My Business,None Of My Business,64,184004,False,0.793,0.488,2,-5.807,0,0.0462,0.428,0.0,0.0823,0.5,133.957,4,electro
+23KVefoON2iEz1dh940quQ,Ellise,Chaotic,911,68,188386,True,0.765,0.53,10,-7.18,0,0.0833,0.509,4.15e-06,0.117,0.529,130.104,4,electro
+3sOGVdj5VPY6C2XImtlzj7,Marshmello,Shockwave,Shockwave,68,181283,False,0.577,0.875,9,-2.897,0,0.0681,0.0231,4.69e-06,0.111,0.411,164.009,4,electro
+0beovTlPSpPYSYSTtY9Wpv,Chelsea Cutler;Noah Kahan,Autumn Vibe,Crazier Things,0,264584,False,0.635,0.274,2,-13.53,1,0.033,0.813,0.0,0.162,0.316,93.025,4,electro
+5UcpS8tiqIBonv1O145xlq,Chelsea Cutler,REGNIG DAG,Devil On My Shoulder,0,212493,True,0.661,0.323,7,-9.579,1,0.0412,0.649,1.82e-05,0.193,0.372,129.955,4,electro
+6RMPFmpwJgyPvUvBdjWreM,Chelsea Cutler;Noah Kahan,Halloween & Chill,Crazier Things,0,264584,False,0.635,0.274,2,-13.53,1,0.033,0.813,0.0,0.162,0.316,93.025,4,electro
+4vHUDuEaQeGvKlW2n7Mwbt,Chelsea Cutler,Mega Hits Autumn/Fall 2022,Devil On My Shoulder,0,212493,True,0.661,0.323,7,-9.579,1,0.0412,0.649,1.82e-05,0.193,0.372,129.955,4,electro
+4YPv3f4Jd1MD3KmV0WoXi1,Chelsea Cutler,Christmas Day Chill,Mistletoe - Recorded at Electric Lady Studios NYC.,0,184026,False,0.579,0.33,2,-11.108,1,0.0395,0.739,0.0,0.0785,0.298,79.885,4,electro
+7iDWdPF81DIex21TDzJgHv,Moby;Jim James,LUGNA HITS,Porcelain - Reprise Version,0,353878,False,0.413,0.252,11,-13.031,0,0.0291,0.561,0.516,0.113,0.0536,91.925,4,electro
+2UkHuOfxBPLliEKCVep30k,Chelsea Cutler,Weihnachtspop 2022,Mistletoe - Recorded at Electric Lady Studios NYC.,0,184026,False,0.579,0.33,2,-11.108,1,0.0395,0.739,0.0,0.0785,0.298,79.885,4,electro
+5pj7mwGSWXhS93DuYUlxUn,Moby;Jim James,Artsy & Colourful,Porcelain - Reprise Version,0,353878,False,0.413,0.252,11,-13.031,0,0.0291,0.561,0.516,0.113,0.0536,91.925,4,electro
+6FvZIDTCtmWC4KERBlLQ5f,Babasónicos,tardes tranqui,Como Eran Las Cosas,0,242520,False,0.696,0.448,8,-9.099,1,0.0333,0.452,2.43e-05,0.0904,0.569,95.004,4,electro
+34kHexFdmug6nYZzkz3hc0,Babasónicos,noches de lluvia,Como Eran Las Cosas,0,242520,False,0.696,0.448,8,-9.099,1,0.0333,0.452,2.43e-05,0.0904,0.569,95.004,4,electro
+68Rnp6Cev6ESnEwlpQI2Ll,SHAED;Jauz,Trampoline (Jauz Remix),Trampoline - Jauz Remix,64,236170,False,0.49,0.606,7,-6.604,0,0.0424,0.169,0.00106,0.0704,0.119,126.553,4,electro
+46lFttIf5hnUZMGvjK0Wxo,Galantis,Pharmacy,Runaway (U & I),75,227073,False,0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,4,electro
+1gihuPhrLraKYrJMAEONyc,Calvin Harris,18 Months,Feel So Close - Radio Edit,80,206413,False,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,4,electro
+3LK452TFyApuFN9jjg3THO,Dimitri Vegas & Like Mike;Dimitri Vegas;Wiz Khalifa,When I Grow Up (feat. Wiz Khalifa),When I Grow Up (feat. Wiz Khalifa),55,195506,False,0.642,0.655,1,-5.222,0,0.0489,0.0268,0.0,0.112,0.156,80.997,4,electro
+6Zc5f20q7sOe1IC1c1jQvZ,Halsey;Juice WRLD,Without Me (with Juice WRLD),Without Me (with Juice WRLD),66,228816,True,0.744,0.514,6,-6.103,1,0.0746,0.355,0.0,0.184,0.449,136.013,4,electro
+0fTiDOXRNEN0lUeYGoSHml,The Chainsmokers;Drew Love,Sick Boy,Somebody,62,221986,False,0.32,0.63,10,-7.019,0,0.0493,0.192,0.0,0.102,0.323,203.443,4,electro
+3yqoD9SYDfwvNEdU2NEpFx,Rovalio,Shuru Karein,Shuru Karein,50,146891,False,0.586,0.402,0,-10.913,0,0.0301,0.421,0.903,0.135,0.155,150.012,4,electro
+2769RhOZs0ezRncRW1vryp,Ashe;FINNEAS,Till Forever Falls Apart,Till Forever Falls Apart,69,222860,True,0.509,0.498,2,-6.94,1,0.0315,0.413,0.0,0.0674,0.283,99.729,4,electro
+5lfWrciYtohtIMVDVZd0Rf,Calvin Harris;Justin Timberlake;Halsey;Pharrell Williams,"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",80,229282,False,0.81,0.733,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,0.9,125.975,4,electro
+3WxmlTZ85sCYFnuIXmUAEe,Billie Eilish,dont smile at me,party favor,69,204770,False,0.826,0.188,0,-12.181,1,0.0883,0.882,2.83e-06,0.103,0.205,130.022,4,electro
+7lidXGPXPYLNThITAOTlkK,Halsey,Manic,You should be sad,73,205473,True,0.591,0.585,2,-6.35,1,0.0277,0.143,0.0,0.109,0.324,110.94,4,electro
+7DgkSYT6vh3UAYQlFbsj6z,Cheat Codes;AJ Mitchell,Hate You + Love You (feat. AJ Mitchell),Hate You + Love You (feat. AJ Mitchell),64,198874,False,0.755,0.689,5,-4.463,1,0.0305,0.0693,0.0,0.394,0.638,140.013,4,electro
+7LEMGMfmJDd1iLsGD9eV5l,Lauv,Without You,Love Somebody,66,142773,False,0.465,0.468,7,-7.799,1,0.134,0.262,0.0,0.0639,0.373,83.366,4,electro
+7JDWhC422Gtk1Bq0mL3OTC,Bea Miller,feel something,feel something,71,180161,True,0.74,0.415,0,-8.914,1,0.0707,0.242,0.000156,0.319,0.156,136.029,4,electro
+2BmwXAUDtEzKw4RGtHJu5B,Shanti People;Blazy;Gottinari,Tandava (Blazy & Gottinari Remix),Tandava - Blazy & Gottinari Remix,50,312160,False,0.635,0.886,4,-5.007,0,0.156,0.104,0.00762,0.0824,0.134,140.015,4,electro
+5Hp4xFihdOE2dmDzxWcBFb,Alok;Sigala;Ellie Goulding,All By Myself,All By Myself,76,171747,False,0.662,0.848,0,-4.338,0,0.0346,0.0932,7.62e-06,0.241,0.773,123.041,4,electro
+46LAHXpuIUZ5kR7AyQ1qmd,Jeremy Zucker,CRUSHER,Cry with you,65,217040,True,0.516,0.323,2,-9.688,1,0.0716,0.489,4.82e-06,0.189,0.386,159.861,3,electro
+29OndNHNt4cyEm0CzpKRkG,Ellie Goulding,Fifty Shades Of Grey (Original Motion Picture Soundtrack),"Love Me Like You Do - From ""Fifty Shades Of Grey""",59,250266,False,0.258,0.659,5,-5.903,0,0.0596,0.253,0.0,0.111,0.272,189.558,4,electro
+1Srt81FTalOhRw7t7l8Yh8,Lauv,~how i'm feeling~,Tattoos Together,67,186613,True,0.862,0.4,4,-7.486,1,0.0723,0.00575,7.49e-06,0.123,0.598,122.961,4,electro
+4qeHV9T5N3S7KAKryZQp8s,Alec Benjamin,Older,Older,63,164396,False,0.539,0.489,2,-8.456,1,0.0635,0.59,0.0,0.197,0.515,84.211,4,electro
+10AsRVRdU07cMAFHeGYO3c,Martin Jensen,Solo Dance,Solo Dance,69,174933,False,0.746,0.846,9,-2.432,1,0.048,0.0485,0.0,0.195,0.403,114.955,4,electro
+7e3JpmZNlzh8reXergT8LC,KSHMR;Yves V;Krewella;RANDALL,No Regrets (feat. Krewella) [RANDALL Remix],No Regrets (feat. Krewella) - RANDALL Remix,46,250105,False,0.553,0.846,10,-5.146,0,0.0673,0.0283,0.000319,0.0616,0.488,95.046,4,electro
+4y3g40TWe7fCWCayJZuGvw,Madison Beer,Life Support,Good In Goodbye,67,141949,True,0.658,0.698,11,-5.95,0,0.177,0.433,0.0,0.174,0.456,139.054,4,electro
+2Fjz5ZC5BvFdCqcnTZ3ilH,Alan Walker,Sing Me to Sleep,Sing Me to Sleep,60,189333,False,0.491,0.607,4,-6.333,0,0.0668,0.0125,1.52e-06,0.289,0.166,176.112,4,electro
+0uLPKDuIhkIhttiwezNdiG,Alec Benjamin,These Two Windows,Jesus in LA,66,171539,False,0.787,0.558,0,-5.237,1,0.0414,0.664,0.0,0.347,0.706,94.049,4,electro
+5t9YU2mww4eiFCeTBy3EFU,KSHMR;Jeremy Oceans,One More Round (Free Fire Booyah Day Theme Song),One More Round (Free Fire Booyah Day Theme Song),53,201246,False,0.472,0.88,4,-5.246,0,0.0926,0.00314,1.46e-05,0.1,0.43,125.026,4,electro
+4Kh6cq3XgOGUK9yXQu7RTq,Royal & the Serpent;Chri$tian Gate$,overwhelmed (the remixes),overwhelmed - Chri$tian Gate$ remix,69,134482,True,0.619,0.502,0,-8.097,0,0.249,0.178,0.0,0.155,0.38,174.196,4,electro
+6pITVFNDtH0Z6jwppO7K3b,Years & Years;Gryffin,Electro sounds,Desire - Gryffin Remix,0,268840,False,0.543,0.875,10,-5.069,0,0.0514,0.0622,0.0,0.157,0.415,122.058,4,electro
+42m38SHEo4nDHuuF7HG9T3,Years & Years;Gryffin,Fiesta portatil,Desire - Gryffin Remix,0,268840,False,0.543,0.875,10,-5.069,0,0.0514,0.0622,0.0,0.157,0.415,122.058,4,electro
+2O4O75liWpdFOt4B1jZSH7,Oh Wonder,Mega Hits Autumn/Fall 2022,Rollercoaster Baby,1,208876,False,0.653,0.687,0,-8.657,1,0.0512,0.407,0.088,0.125,0.489,148.036,4,electro
+5HMJgPXgoCbBKwgRvnrhTm,Years & Years;Gryffin,Beats Electro Mood,Desire - Gryffin Remix,0,268840,False,0.543,0.875,10,-5.069,0,0.0514,0.0622,0.0,0.157,0.415,122.058,4,electro
+7509yxRl7vJCNvTTH9ANKb,Years & Years,Best Road Trip Pop Tunes,Crave,0,197073,True,0.637,0.84,2,-3.942,0,0.268,0.0827,0.0,0.435,0.64,127.998,4,electro
+3TgDMAVLGG3jM15i810cbu,Years & Years,Die For You,Crave,0,197073,True,0.637,0.84,2,-3.942,0,0.268,0.0827,0.0,0.435,0.64,127.998,4,electro
+7wYbJEHoHnKdoQw7GcbjYe,Years & Years;Gryffin,Larga Vida al Electro,Desire - Gryffin Remix,0,268840,False,0.543,0.875,10,-5.069,0,0.0514,0.0622,0.0,0.157,0.415,122.058,4,electro
+1qdcYbBhlc9zmbAsKInyNl,Oh Wonder,Herbststimmung,Happy,0,172906,False,0.697,0.515,6,-8.472,1,0.0331,0.455,0.0,0.0922,0.514,101.977,4,electro
+6NhxG3vfaRVzFosetdRITN,Years & Years,"Anímate, es viernes",Starstruck,0,207755,False,0.555,0.879,9,-2.484,0,0.0983,0.011,0.0,0.298,0.691,113.852,4,electro
+29aIb91sF6euJRNDGmSwRQ,Years & Years,pov: it's 2021,Starstruck,0,207755,False,0.555,0.879,9,-2.484,0,0.0983,0.011,0.0,0.298,0.691,113.852,4,electro
+4Wy375MMykH82pUm8EN3iE,Oh Wonder,Herbststimmung,Better Now,0,198342,False,0.569,0.364,2,-11.099,1,0.052,0.75,0.00597,0.146,0.507,114.181,4,electro
+1thR2sfJj6FasYaXHQ98e4,Juan Magán;Mala Rodríguez,Perreo Tenebroso Vol. 3,Usted,0,233746,False,0.666,0.826,0,-4.093,1,0.0625,0.017,0.0,0.285,0.343,104.701,4,electro
+13SgfMDRRldjdxzd6eKpQm,Juan Magán;Mariah Angeliq;Yera,Hora del taco sin auto,Amigos,0,177333,False,0.74,0.63,11,-6.634,0,0.0832,0.0212,0.0,0.299,0.763,89.952,4,electro
+3QAE1arPJAMVKt3NUqjikE,Juan Magán;Paulina Rubio;DCS,Queda poco para la PAES 2.0,Vuelve,0,213240,False,0.661,0.677,5,-6.467,1,0.0383,0.628,0.0,0.0793,0.959,174.068,4,electro
+7GkCm4wRDhB0WhyOovlLfm,Years & Years,Fiesta de disfraces vol. II,Shine,0,255506,False,0.667,0.717,1,-5.21,0,0.0349,0.193,0.0,0.104,0.495,108.006,4,electro
+5pBiHklTQ5ATW1RXeL1Iwk,Years & Years,Concierto en la ducha,If You're Over Me,0,189000,False,0.631,0.853,8,-4.514,1,0.0912,0.0622,0.0,0.0603,0.614,103.834,4,electro
+5DU0TdZSrSldWJd8Xtnh7C,Juan Magán;Maffio,Perreo Tenebroso Vol. 2,Tentándome,0,168746,False,0.647,0.816,0,-4.824,0,0.0648,0.179,0.0,0.314,0.725,119.826,4,electro
+4wDLjJxeBBK3S1rblfa0Ud,Juan Magán;Belinda;Lapiz Conciente,Carrete con besties,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,electro
+5mqChkogh42ie0pKbPb2Ql,Juan Magán,Queda poco para la PAES 2.0,Verano Azul,0,190560,False,0.887,0.87,2,-5.267,1,0.119,0.0143,0.0,0.015,0.837,126.047,4,electro
+1DcMu1oaXb57IS0jPBzXNE,Juan Magán;Maffio,Halloween 2022 Pop Vol. 1,Tentándome,0,168746,False,0.647,0.816,0,-4.824,0,0.0648,0.179,0.0,0.314,0.725,119.826,4,electro
+6be4zs74UAntMkWpfdmwXt,Juan Magán;Luciana;Joey Montana;Jaume Berenguer,Perreo Tenebroso Vol. 2,Baila Conmigo - Remix,0,210400,False,0.858,0.806,6,-5.61,0,0.0712,0.111,0.0,0.0475,0.814,99.992,4,electro
+7InaXrvag0nYTncPA1Iitl,Juan Magán;Belinda;Lapiz Conciente,Halloween 2022 Pop Vol. 4,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,electro
+4wIdLHtHAI98UjZqsPOSnE,Juan Magán;Belinda;Lapiz Conciente,Para entrar en calor,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,electro
+5TVirkSwFEXF1nLJEebe2I,Bazzi,COSMIC,Beautiful,68,178242,False,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,electro
+0yrCxEoGU4cV3CGr0sc65J,Lifafa,Jaago,Nikamma,46,211787,False,0.718,0.678,6,-11.895,1,0.22,0.485,0.0019,0.102,0.472,181.88,4,electro
+3dD9yyYTQ73SZvyOygyKva,Whethan;Dua Lipa,Fifty Shades Freed (Original Motion Picture Soundtrack),High (& Dua Lipa),67,196706,True,0.708,0.552,10,-5.552,0,0.21,0.0922,0.0,0.0541,0.686,147.834,4,electro
+23gk3dYysgp4FmWyZ2tOZF,Alan Walker;A$AP Rocky;Kameron,Live Fast (PUBGM),Live Fast - PUBGM,51,225096,False,0.69,0.557,7,-5.443,0,0.0439,0.102,0.0,0.428,0.2,87.536,4,electro
+4PyMK7JTcu6l30D8KogokR,Jeremy Zucker,supercuts,supercuts,63,206599,True,0.807,0.539,11,-8.193,1,0.124,0.0789,0.0,0.0928,0.755,127.992,4,electro
+7cgu4JBW3hq1GwTM1ilkKQ,Tove Lo,Queen Of The Clouds,Talking Body,67,238426,True,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,4,electro
+3EmmCZoqpWOTY1g2GBwJoR,Steve Aoki;Louis Tomlinson,Just Hold On,Just Hold On,63,198774,False,0.647,0.932,11,-3.515,1,0.0824,0.00383,1.5e-06,0.0574,0.374,114.991,4,electro
+4191RXFPa7Ge9XkA4cWlna,Billie Eilish,Happier Than Ever,Lost Cause,73,212496,True,0.526,0.334,10,-8.491,0,0.251,0.702,0.00782,0.0586,0.522,74.966,4,electro
+6cjSh516BbrNUs213jDAGm,benny blanco;Juice WRLD,Graduation (with Juice WRLD),Graduation (with Juice WRLD),69,177847,True,0.731,0.65,0,-5.286,1,0.271,0.107,0.0,0.124,0.605,154.968,4,electro
+0rbbxIeycN5WGoYWryIlWx,Dillon Francis;DJ Snake,Get Low,Get Low,47,214933,False,0.674,0.936,11,-4.477,0,0.0832,0.0302,0.661,0.556,0.75,101.035,4,electro
+2GjMaJ7DacMIkgoe8oMXGg,Ellie Goulding;Diplo;Swae Lee,Brightest Blue,Close To Me,64,182626,True,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,4,electro
+6I0KEvFfWszVJiCy5hum4V,FINNEAS,Blood Harmony,Let's Fall in Love for the Night,67,190348,True,0.737,0.408,5,-7.941,1,0.104,0.802,0.0,0.171,0.374,127.918,4,electro
+73ucpKq91TuejrLHgzDNHK,Rita Ora,Poison,Poison,68,202906,False,0.579,0.738,10,-5.711,1,0.0542,0.0821,1.52e-06,0.232,0.431,124.023,4,electro
+3EGW6TGGbdk6Ys1Y3HU3lj,Melanie Martinez,Cry Baby (Deluxe Edition),Training Wheels,75,205680,True,0.571,0.481,9,-7.179,1,0.0444,0.697,0.0,0.089,0.0807,113.753,4,electro
+7MhNCT34oaLIxwAsZlZd67,Halsey;Juice WRLD,Manic,Without Me,62,228951,True,0.744,0.514,6,-6.103,1,0.0746,0.355,0.0,0.183,0.449,136.013,4,electro
+0tAFy8LVdMQgW6A6Nq7olS,TroyBoi,"V!BEZ, Vol. 3",Do You?,62,195790,False,0.827,0.518,10,-8.156,0,0.343,0.164,0.375,0.61,0.584,80.729,4,electro
+5teOR8KU4XNWY2WlVUDiIR,Loote;gnash,lost,85%,63,174106,False,0.574,0.651,7,-7.585,1,0.046,0.346,0.0,0.149,0.368,140.017,4,electro
+6E37j4b44JGpdk297urpKM,Bea Miller,aurora,like that,70,185546,False,0.573,0.441,6,-5.799,0,0.0758,0.186,0.0,0.61,0.389,61.657,4,electro
+5HJqLDDjgdhON8LL9U3Oa3,Garmiani,Bomb A Drop,Bomb A Drop,53,158554,False,0.675,0.992,7,-0.533,0,0.0605,0.0022,0.221,0.387,0.483,128.034,4,electro
+3zU9rdflI65tK4dkkNSp77,Alesso;Tove Lo,Forever,Heroes (we could be),72,210013,False,0.503,0.748,5,-4.124,1,0.0619,0.0305,0.0,0.343,0.356,125.896,4,electro
+3WBRfkOozHEsG0hbrBzwlm,Porter Robinson;League of Legends,Everything Goes On,Everything Goes On,73,202821,False,0.55,0.648,7,-6.542,1,0.0309,0.0191,0.0,0.0999,0.323,156.957,4,electro
+5acSb48zFAcXTdL5Wsk8xx,Cheat Codes;Tinashe,"HELLRAISERS, Part 1",Lean On Me,69,149856,False,0.686,0.738,9,-5.802,1,0.287,0.0703,0.0,0.0505,0.45,101.829,4,electro
+4nyY8oVjbX2d4qzlpiVM5n,Zara Larsson,Poster Girl,Ruin My Life,65,190050,True,0.608,0.71,11,-4.998,1,0.0636,0.43,0.0,0.0903,0.613,124.985,4,electro
+0rWMOzZ7fFYZWI1qlCY4Ig,blackbear,everything means nothing,smile again,60,149253,False,0.68,0.423,6,-6.279,1,0.0321,0.597,0.0,0.371,0.686,85.042,4,electro
+2KnuaZYoGzDoHiBTNYOTXG,Billie Eilish,Happier Than Ever,Billie Bossa Nova,76,196730,False,0.895,0.389,7,-11.036,0,0.11,0.222,0.0346,0.105,0.549,110.023,4,electro
+2ttGfRawDPWlkAoXxP5Z72,blackbear;Lauv,everything means nothing,if I were u (with Lauv),63,186468,True,0.666,0.628,8,-5.613,1,0.0623,0.144,0.0,0.189,0.767,82.992,4,electro
+6dm9WLQPqe2kp5wS3DlD1n,Dillon Francis;ILLENIUM;EVAN GIIA,EDM Gaming Music Autumn/Winter 2022,Don't Let Me Let Go,1,205479,False,0.488,0.715,9,-4.656,1,0.0562,0.0367,0.0,0.122,0.397,145.979,4,electro
+3sa06xVNmLLYIxdNNmVQN8,Jax Jones;MNEK,Where Did You Go (feat. MNEK),Where Did You Go? (feat. MNEK),83,177689,False,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,4,electro
+1Ph65gYzHdiNDs9yWh4ePY,Alan Walker;salem ilese,World Of Walker,Fake A Smile,56,165335,False,0.427,0.541,0,-5.726,1,0.0362,0.21,0.0,0.442,0.257,149.802,4,electro
+6XdHZr9iXdqc4Q76wtgbqr,Alec Benjamin,The Way You Felt,The Way You Felt,61,182810,False,0.872,0.52,0,-6.928,1,0.0618,0.715,0.0,0.0982,0.736,131.918,4,electro
+4VPXFi4vFTtS9wHe6oMQaT,Zara Larsson,So Good,I Can't Fall in Love Without You,66,180640,True,0.485,0.332,4,-9.244,1,0.0338,0.784,0.000122,0.146,0.273,130.813,4,electro
+4BIuY0oEopXizyP3WvkNrT,Valley,Last Birthday,Oh shit…are we in love?,65,155384,True,0.697,0.515,6,-6.335,1,0.0502,0.0576,1.81e-06,0.294,0.37,95.086,4,electro
+44I5NYJ7CGEcaLOuG2zJsU,Alec Benjamin,These Two Windows,Oh My God,64,187727,False,0.696,0.565,5,-7.241,0,0.0598,0.652,2.12e-06,0.121,0.6,156.109,4,electro
+3h2aYVv7RHnOW0qGGYdYIT,KSHMR;Tungevaag,Close Your Eyes,Close Your Eyes,58,168833,False,0.51,0.898,11,-1.218,1,0.0772,0.0294,3.14e-05,0.255,0.483,179.969,4,electro
+5E9YnE354Ua2h05nu4lmcA,benny blanco;Juice WRLD,FRIENDS KEEP SECRETS 2,Graduation (with Juice WRLD),66,176212,True,0.728,0.643,0,-5.353,1,0.248,0.109,0.0,0.123,0.62,155.009,4,electro
+2hGQDYmjkwTS0J7Q2bM2sF,Alec Benjamin,These Two Windows,Mind Is A Prison,65,161697,False,0.656,0.645,5,-5.442,0,0.0397,0.504,0.0,0.18,0.669,75.473,4,electro
+30Lcy59RiXJKMVVkwhfdle,Fly By Midnight,In The Night,In The Night,55,206000,False,0.605,0.934,5,-3.642,0,0.0331,0.00914,0.00288,0.311,0.825,119.998,4,electro
+2pPO9YecZimmuVQfIzfV6U,Ofenbach;Lagique,Wasted Love (feat. Lagique),Wasted Love (feat. Lagique),75,139563,False,0.734,0.855,6,-4.578,0,0.135,0.0821,4.73e-06,0.0901,0.54,121.955,4,electro
+2CSrG5fnBpcdfPXg7sJUBi,Alec Benjamin,These Two Windows,The Book of You & I,63,207537,False,0.507,0.387,10,-6.237,1,0.0324,0.909,0.0,0.113,0.485,102.987,4,electro
+1xyUCr7dIJYaUaaiDf4Q1L,blackbear,everything means nothing,queen of broken hearts,67,171171,True,0.717,0.712,0,-6.098,1,0.0765,0.00663,0.0,0.0756,0.825,97.019,4,electro
+6lERHAmBCZmgODv3OYENXi,Alec Benjamin,These Two Windows,Must Have Been The Wind,64,177805,False,0.653,0.644,7,-6.204,1,0.0572,0.784,0.000202,0.161,0.363,88.968,4,electro
+10LCC2yUHBXPoGLRoOi0w8,Don Diablo;Zak Abel,pov: it's 2020,Bad,0,169910,True,0.794,0.774,0,-4.168,1,0.081,0.445,0.0101,0.172,0.674,123.981,4,electro
+60cYr5uuMoxvyuIx45rGEW,Alec Benjamin,Narrated For You,Boy In The Bubble,70,181705,False,0.817,0.578,11,-7.579,0,0.0824,0.224,0.00103,0.251,0.851,143.982,4,electro
+3CRtbOoAP82y0VbPO5j1ft,Sasha Alex Sloan,Self Portrait,Too Sad To Cry,63,208986,True,0.515,0.27,10,-9.935,1,0.0357,0.842,0.0,0.114,0.234,120.483,4,electro
+0M4RJYdcJ9t2f89WxBfO2f,Kylie Minogue,Christmas Time,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+6YjErXVPAkQuqmBsHRWUxY,Kylie Minogue,Holly Jolly Christmas,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+7M9Du8Dx0Q7LAvYhqYzRAf,Kylie Minogue,Cuddle Up Christmas,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+70JzODh1nveFQ39LPi1QXl,Kylie Minogue,Christmas Music - Holiday Hits,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+5f43UmxJTBjUTQKcKRN292,Kylie Minogue,Perfect Christmas Hits,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+0QejfXzLuctcoAMvMbZauv,Kylie Minogue,Merry Christmas,Santa Baby,0,202546,False,0.685,0.391,1,-7.183,1,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+3uuR20w7HgLlb5Hha2mCxb,Swedish House Mafia;The Weeknd,Dawn FM (Alternate World),Moth To A Flame (with The Weeknd),56,234000,False,0.542,0.659,8,-7.289,1,0.0389,0.00279,0.0,0.105,0.109,120.122,4,electro
+5aUSEPNd3m5xliFK4pn5mU,Zedd;Kehlani,Good Thing (with Kehlani),Good Thing (with Kehlani),68,210901,True,0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913,3,electro
+1DFD5Fotzgn6yYXkYsKiGs,MEDUZA;Goodboys,Piece Of Your Heart,Piece Of Your Heart,77,152913,False,0.677,0.744,10,-6.806,0,0.0295,0.0404,0.00016,0.074,0.631,124.08,4,electro
+51HoKwuVUVcv0DHPT0x2Qi,JOY.,Same Place,Same Place,61,225071,False,0.679,0.364,6,-9.876,1,0.0366,0.125,0.392,0.0993,0.19,114.995,4,electro
+2CPqh63wRVscbceKcPxwvv,Mike Perry;shy martin,The Ocean (feat. Shy Martin),The Ocean (feat. Shy Martin),72,183414,False,0.632,0.575,5,-6.478,1,0.029,0.0225,1.81e-06,0.104,0.188,90.037,4,electro
+0kWQn0wLok1lawHAkGSMW9,Bazzi,Infinite Dream,I Like That,69,158083,True,0.665,0.692,6,-5.431,0,0.112,0.172,0.0,0.191,0.68,74.474,4,electro
+3RLshk3cDQOqWhSIRCVaXL,Nessa Barrett;jxdn,la di die (feat. jxdn),la di die (feat. jxdn),70,195191,False,0.484,0.643,1,-4.72,1,0.0416,0.0036,0.0,0.243,0.345,163.97,4,electro
+07nH4ifBxUB4lZcsf44Brn,Calvin Harris;John Newman,Motion,Blame (feat. John Newman),76,212960,False,0.414,0.857,0,-4.078,0,0.0808,0.0287,0.00574,0.343,0.348,128.024,4,electro
+4ZTTUAjJCd4NMZmIU7RB4c,Alesso;Liam Payne,Midnight (feat. Liam Payne),Midnight (feat. Liam Payne),65,220140,False,0.587,0.648,11,-6.927,0,0.0439,0.0561,0.0,0.115,0.281,144.028,4,electro
+6AbVJjzv7thIvmMCuhZrmK,Skrillex;Damian Marley,Make It Bun Dem,Make It Bun Dem,66,213696,False,0.556,0.881,7,-2.224,1,0.082,0.00119,0.0,0.0709,0.337,104.973,1,electro
+46nvQpUDsxpS08UTFOeKTA,MEDUZA;Hozier,Tell It To My Heart,Tell It To My Heart,76,165524,False,0.539,0.715,11,-6.639,0,0.0595,0.0265,0.0,0.609,0.489,123.854,4,electro
+15BlympuVSfZFROojEMY2M,The Chainsmokers;Daya;ILLENIUM,Don't Let Me Down (Remixes) (feat. Daya),Don't Let Me Down (feat. Daya) - Illenium Remix,63,218933,False,0.428,0.656,11,-3.712,1,0.075,0.0751,0.181,0.15,0.355,79.648,4,electro
+1JDIArrcepzWDTAWXdGYmP,Zedd;Selena Gomez,True Colors,I Want You To Know,66,240000,False,0.58,0.846,9,-2.876,0,0.0573,0.00537,6.62e-06,0.145,0.366,129.998,4,electro
+4Uxcm6gWvxoqUdgnxKw41H,Marshmello;Demi Lovato;Lost Stories,OK Not To Be OK (Lost Stories Remix),OK Not To Be OK - Lost Stories Remix,47,185483,False,0.702,0.626,4,-6.268,1,0.0419,0.269,7.9e-06,0.101,0.454,104.987,4,electro
+1KeZgPUr54C8iz3FjqzVoz,The Chainsmokers,Memories...Do Not Open,Young,61,224773,False,0.615,0.564,9,-6.384,1,0.0291,0.0105,0.0,0.148,0.454,103.006,4,electro
+5yFSF6qQA1rcLsQRnBsZgb,Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander,All Falls Down (feat. Juliander),All Falls Down (feat. Juliander),64,199111,False,0.658,0.678,1,-4.407,1,0.058,0.303,0.0,0.361,0.662,97.976,4,electro
+1eyek0KJEh2v5HQ9uQSybb,Lauv,~how i'm feeling~,Modern Loneliness,63,252337,True,0.702,0.508,8,-7.105,1,0.035,0.144,0.0,0.108,0.143,82.009,4,electro
+6wNeKPXF0RDKyvfKfri5hf,Melanie Martinez,Cry Baby (Deluxe Edition),Dollhouse,74,231853,False,0.725,0.708,5,-5.331,0,0.0756,0.22,0.0,0.777,0.555,130.029,4,electro
+23tJmuwvUOa2kTsOlNMWCS,Lauv,~how i'm feeling~ (the extras),Love Like That,65,184556,False,0.679,0.481,3,-9.045,1,0.0593,0.208,1.02e-05,0.284,0.486,80.011,4,electro
+7bcy34fBT2ap1L4bfPsl9q,Billie Eilish,Happier Than Ever,I Didn't Change My Number,75,158463,True,0.849,0.48,9,-5.835,1,0.226,0.612,0.269,0.295,0.677,142.021,4,electro
+0wp6ckRomrGJq2fD2CFOQE,Daya;JVKE,Bad Girl (JVKE Remix),Bad Girl - JVKE Remix,69,166222,False,0.834,0.662,5,-6.179,1,0.0407,0.522,9.07e-05,0.14,0.718,115.999,4,electro
+1xvy0AZI6tlwsTpRw5ioqw,K.Flay;xxtristanxo;Slowed Radio,Slowed + Reverbed 2022,High Enough - Slowed,7,201432,False,0.388,0.631,4,-6.328,0,0.0391,0.00939,0.00474,0.372,0.276,112.033,3,electro
+32il27dOrLpIru8Evp4Pu7,Marshmello;Mae Muller;Trippie Redd,American Psycho (with Mae Muller feat. Trippie Redd),American Psycho (with Mae Muller feat. Trippie Redd),67,153195,False,0.617,0.514,9,-7.099,1,0.0722,0.0154,0.0,0.118,0.365,81.067,4,electro
+1RlmAzI27AlIpvoRN3u6Iy,Christian French,avalanche,avalanche,63,199512,False,0.636,0.864,11,-3.919,1,0.0491,0.0314,0.0,0.102,0.892,160.009,4,electro
+7uUahoeqGNRMbpdeiLj1rS,Au/Ra,Panic Room,Panic Room,72,237772,False,0.495,0.426,8,-9.434,1,0.0736,0.152,5.65e-06,0.099,0.0636,97.91,4,electro
+0sfgF2kM3yrZbkLmAbjSo6,Alok;Zafrir,Vale Vale,Vale Vale,48,193432,False,0.475,0.896,1,-5.696,0,0.0765,0.000332,0.0734,0.429,0.305,133.998,4,electro
+30I7kdtPa1Nmun5I5bns7Q,Charlotte Lawrence,Charlotte,Slow Motion,61,183849,False,0.665,0.61,0,-7.655,0,0.0436,0.423,0.0,0.127,0.473,127.971,4,electro
+4XMf6BjWH7Pme8eY4yyEZE,Dimitri Vegas & Like Mike,Rampage (Free Fire Rampage Theme Song),Rampage (Free Fire Rampage Theme Song),61,159640,False,0.571,0.757,11,-5.892,0,0.0334,0.00114,0.729,0.15,0.176,138.982,4,electro
+3u5bTqHMM1P34ZkbwzdckV,Lauv,I met you when I was 18. (the playlist),The Story Never Ends,65,229029,False,0.614,0.126,9,-9.403,1,0.0376,0.911,0.0,0.148,0.351,119.945,4,electro
+67lbzVADsqJJ6tyVk0XCgn,Topic;Bebe Rexha,Chain My Heart,Chain My Heart,70,146880,False,0.663,0.849,11,-4.462,0,0.0334,0.0791,1.2e-06,0.192,0.722,123.992,4,electro
+1bEuLIBkVliL3hsp47FdLz,Matoma;Brando,EDM Hits,The Bender,0,184320,False,0.707,0.882,6,-7.46,1,0.0385,0.0606,0.0131,0.105,0.208,125.007,4,electro
+779UN3kabApm2zfqX549vf,Sasha Alex Sloan;Sam Hunt,when was it over? (feat. Sam Hunt),when was it over? (feat. Sam Hunt),67,218093,False,0.626,0.453,7,-9.295,1,0.0306,0.816,1.91e-06,0.0904,0.494,129.958,4,electro
+2dZGjt9vTScmQVAWTzvoJl,Matoma;Brando,Today's Party Hits,The Bender,0,184320,False,0.707,0.882,6,-7.46,1,0.0385,0.0606,0.0131,0.105,0.208,125.007,4,electro
+2W0AJEbIC2vdZTV2nVSAsg,Alec Benjamin,Narrated For You,Outrunning Karma,67,188850,False,0.416,0.649,11,-5.271,0,0.0385,0.655,2.82e-06,0.12,0.474,112.482,3,electro
+7JSSJf4TcJDv8KL6UO8FGH,Alec Benjamin,(Un)Commentary,Older,63,164396,False,0.539,0.489,2,-8.456,1,0.0635,0.59,0.0,0.197,0.515,84.211,4,electro
+4AtXAOH7cUeUkcacsMF61X,Bryce Vine,Daily Pop Mix,Moonrock,0,180713,False,0.671,0.746,5,-3.769,1,0.0508,0.371,5.69e-06,0.159,0.71,75.469,4,electro
+4XII12nbsvJblXfG1I2QR4,MARINA,About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”),About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”,59,214106,False,0.636,0.758,0,-5.567,1,0.0427,0.331,1.01e-05,0.16,0.281,97.025,4,electro
+4T4vGY2fahasFqlm8XVcDq,Matoma;Brando,Upbeat 20's,The Bender,0,184320,False,0.707,0.882,6,-7.46,1,0.0385,0.0606,0.0131,0.105,0.208,125.007,4,electro
+364Am4PI1b6FQc0wUUH7AS,Matoma;Brando,House Anthems,The Bender,1,184320,False,0.707,0.882,6,-7.46,1,0.0385,0.0606,0.0131,0.105,0.208,125.007,4,electro
+5AMMS8dWO1A4FbVjpJ44Rs,Matoma;Becky Hill,10's Dance Classics,False Alarm,0,224271,False,0.65,0.732,5,-6.762,0,0.0301,0.00668,4.03e-05,0.0606,0.179,102.972,4,electro
+3RtlTA0LVkH0NFKw5my9w4,Bryce Vine;lovelytheband,Hip Hop Slow Jamz,Miss You a Little,0,168180,False,0.636,0.886,0,-4.76,1,0.0433,0.347,0.0,0.171,0.589,140.888,4,electro
+4auEQIg7IUy9KvT61fkGOH,Bryce Vine;Jeremih,Modern R&B Love,Baby Girl,0,181381,False,0.865,0.575,7,-8.296,1,0.0823,0.0899,0.000183,0.245,0.62,106.989,4,electro
+5lYMpFuFYlgpSDIHBV2Goy,Icona Pop;Charli XCX,Running Songs,I Love It,1,155733,False,0.731,0.886,1,-3.228,1,0.027,0.0281,4.59e-06,0.226,0.797,125.992,4,electro
+22MstiHv8RQFPMKyG8Ke9f,Icona Pop;Just Kiddin,Dance Dance Dance,Brightside - Just Kiddin Remix,0,306463,False,0.817,0.63,9,-4.631,1,0.203,0.00237,0.35,0.202,0.432,122.933,4,electro
+2pLGsPKNR52B42vkKEC9tB,Icona Pop,Happy Commute,The City We Call Home,0,171306,False,0.588,0.606,2,-6.46,1,0.102,0.00786,7.33e-06,0.0679,0.536,155.067,4,electro
+5HlFUNNyLiWnh4FhFSx0FP,K.Flay,Helloween Party,Blood In The Cut,0,188706,True,0.77,0.655,2,-5.369,1,0.0316,0.118,0.0247,0.125,0.64,129.964,4,electro
+4I0gYzOq8qMgbxvrEiG2lK,K.Flay,Halloween Hits,Blood In The Cut,1,188706,True,0.77,0.655,2,-5.369,1,0.0316,0.118,0.0247,0.125,0.64,129.964,4,electro
+09ghyw8wvaODkGLhmgagxk,Kylie Minogue,OK Boomers - Top Tunes,Fever,0,211826,False,0.802,0.516,6,-7.118,0,0.0425,0.0502,0.00155,0.106,0.911,114.989,4,electro
+1TIbTJYxZUpfzMfz0rLC38,K.Flay,Halloween & Alternative,Blood In The Cut,0,188706,True,0.77,0.655,2,-5.369,1,0.0316,0.118,0.0247,0.125,0.64,129.964,4,electro
+1VfRyJfWhWgb84I2MASqk1,Icona Pop;Charli XCX;Cobra Starship,10's Dance Classics,I Love It - [Cobra Starship Remix] [Radio Edit],0,212072,True,0.773,0.97,1,-4.915,1,0.196,0.0925,0.679,0.161,0.341,127.999,4,electro
+18AJRdgUoO9EYn11N7xzaT,Tove Lo,Queen Of The Clouds,Habits (Stay High),76,209160,False,0.733,0.65,5,-3.539,1,0.0315,0.0703,6.59e-05,0.0829,0.348,110.003,4,electro
+1vvNmPOiUuyCbgWmtc6yfm,Calvin Harris,My Way,My Way,76,219159,False,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,4,electro
+15vzANxN8G9wWfwAJLLMCg,The Chainsmokers,Paris,Paris,71,221520,False,0.646,0.644,2,-6.763,1,0.031,0.0243,0.0,0.0888,0.251,99.999,4,electro
+2FqqVHvC4eKrsk97vpMRid,Bazzi;21 Savage,Soul Searching,Focus (feat. 21 Savage),65,155133,True,0.752,0.703,1,-5.268,1,0.0969,0.00694,0.0,0.143,0.538,77.021,4,electro
+12IT9FwJuLloQ00BBqrqh2,Prabh Deep,Amar,Amar,44,272747,False,0.522,0.665,1,-7.694,0,0.43,0.632,2.86e-06,0.112,0.395,83.077,1,electro
+4E2sMWXzxK3uYJerGbeUfp,Bazzi,Infinite Dream,Heaven,67,153391,False,0.798,0.575,5,-5.487,0,0.0351,0.145,2.23e-06,0.0601,0.685,114.989,4,electro
+2ygvZOXrIeVL4xZmAWJT2C,Billie Eilish,my future,my future,72,208155,False,0.444,0.309,8,-10.956,1,0.062,0.795,0.132,0.352,0.0875,104.745,4,electro
+1cxttvflVlYD4QA34tR5Yj,K.Flay;RAC,High Enough (RAC Remix),High Enough - RAC Remix,73,208866,False,0.324,0.681,7,-4.697,1,0.0373,0.24,0.354,0.0783,0.294,132.993,3,electro
+4tERsdVCLtLtrGdFBf9DGC,Daya,New,New,65,230879,True,0.715,0.742,0,-4.331,1,0.0347,0.052,2.47e-05,0.364,0.322,106.971,4,electro
+2CkaHCJGoUlG0u3f69G84H,Farasat Anees,Dill Laggi,Dill Laggi,43,262000,False,0.651,0.647,1,-6.385,0,0.0391,0.0557,0.0837,0.096,0.215,180.07,4,electro
+4crczEC1PpoD8TsDsmoWNI,Imanbek;Goodboys,Goodbye,Goodbye,70,144000,False,0.741,0.931,10,-3.447,0,0.0563,0.0225,0.000102,0.191,0.517,125.011,4,electro
+7arsXR8AtExnOFN3v3HiJI,Alesso;CORSAK,Going Dumb,Going Dumb,65,168601,False,0.834,0.678,6,-6.242,0,0.0515,0.0546,0.263,0.103,0.551,121.995,4,electro
+3nwd2gUT7l10HDUAOKXrhs,Ellie Goulding;Big Sean,Easy Lover (feat. Big Sean),Easy Lover (feat. Big Sean),72,215937,False,0.675,0.817,5,-3.789,0,0.0497,0.00711,0.0,0.0839,0.446,105.964,4,electro
+5tiZBnx5IvETA0Pj3gELjn,blackbear,everything means nothing,me & ur ghost,67,201398,True,0.742,0.679,7,-4.594,1,0.0259,0.0488,0.0,0.0754,0.856,100.041,4,electro
+2PhlrsYp7TSkK96ngbmL38,Matisse & Sadko;Hanne Mjøen,Into You,Into You,60,161538,False,0.553,0.687,8,-6.4,1,0.034,0.0336,0.0,0.125,0.278,156.0,4,electro
+4t2OeILB07eMGTXSUbMPEu,Billie Eilish,Happier Than Ever,Oxytocin,72,210232,False,0.757,0.598,11,-7.777,1,0.058,0.0904,0.551,0.15,0.18,124.951,4,electro
+3QqHt507QJZCzluEYsnv4u,Swedish House Mafia;Ty Dolla $ign;070 Shake,Paradise Again,Lifetime (with Ty Dolla $ign & 070 Shake),69,186805,False,0.584,0.718,11,-7.824,0,0.126,0.0205,2.99e-06,0.906,0.155,99.841,4,electro
+2YDOjCfkGciEXxSutB6LJR,Bob Sinclar;FISHER;Steve Edwards,World Hold On (FISHER Rework),World Hold On - FISHER Rework,73,178304,False,0.771,0.883,1,-5.243,0,0.0584,0.00596,0.00607,0.135,0.895,127.008,4,electro
+3qG0XrOLyeHuqaSCxcAgkR,Sickflip;Mismatched,Mismatched: Season 2 (Music from the Netflix Series),Dimple,45,153290,False,0.573,0.482,6,-10.494,0,0.0347,0.83,0.785,0.11,0.193,155.002,4,electro
+4N1L4sd80b1E8FmWK7Xgcz,Dahl,Can I Kiss You?,Can I Kiss You?,59,207646,False,0.688,0.654,3,-5.617,1,0.0587,0.52,0.0,0.128,0.354,98.81,4,electro
+17H5BFEUB0tMcQfJEcDSwH,Mokita,Ready Yet,Ready Yet,64,152922,False,0.79,0.531,8,-8.065,1,0.147,0.193,0.0,0.13,0.627,104.512,4,electro
+209DMKJgqiJwjvFCCEW3N6,Nessa Barrett,die first (love forever),die first - sped up version,68,144875,False,0.604,0.671,4,-6.319,0,0.0617,0.117,0.0,0.483,0.38,110.343,4,electro
+1ZoQVu9XBssJBdeKMgF2eV,Halsey;SUGA;BTS,Manic,SUGA's Interlude,61,138204,False,0.55,0.732,0,-6.88,1,0.105,0.0864,0.0,0.0425,0.246,153.836,4,electro
+525GY0mXYnxajolwgS8Eaz,Lucky Luke,Cooler Than Me,Cooler Than Me,71,179760,True,0.889,0.716,7,-6.146,1,0.0708,0.0595,0.0409,0.168,0.296,128.022,4,electro
+0Xz3DTcdZI01mjKfNZrsC1,Steve Aoki;Quintino,Mayhem,Mayhem,57,157031,False,0.604,0.964,8,-4.713,1,0.033,0.00016,0.611,0.858,0.078,127.929,4,electro
+2b2LUjMx9LKwIARJf93Rbd,Jeremy Zucker,love is not dying,not ur friend,61,174520,True,0.778,0.313,4,-9.288,1,0.421,0.301,0.0,0.667,0.707,68.936,4,electro
+69kOkLUCkxIZYexIgSG8rq,Daft Punk;Pharrell Williams;Nile Rodgers,Random Access Memories,Get Lucky (feat. Pharrell Williams & Nile Rodgers),75,369626,False,0.81,0.793,6,-9.404,0,0.0403,0.0378,1.77e-06,0.072,0.863,116.05,4,electro
+2hHLbkatPwOOmrNxTiD41L,Carly Rae Jepsen,Emotion (Deluxe Expanded Edition),I Really Like You,70,204763,False,0.62,0.805,5,-5.538,1,0.0417,0.00564,9.15e-05,0.285,0.586,122.062,4,electro
+6hF9F76wq0rpXxZxvmEA2e,Alan Walker,Faded (Lost Stories Remix),Faded - Lost Stories Remix,41,211165,False,0.611,0.912,6,-3.719,1,0.038,0.0126,0.117,0.0842,0.363,102.997,4,electro
+3z5ITnx50sxmTospLAcM03,DJ Snake;Dhee;Arivu;Santhosh Narayanan,Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan),Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan),49,167058,False,0.815,0.688,0,-6.101,1,0.0659,0.00159,4.11e-06,0.111,0.641,101.968,4,electro
+7bdYxWPCs46dQ0XLwySOyv,Jeremy Zucker;Chelsea Cutler,glisten,better off,67,193946,False,0.708,0.322,8,-12.46,0,0.0371,0.747,9.24e-05,0.137,0.46,98.892,4,electro
+2NbyfxGIXCDq1J7YMayNzq,Tungevaag;Vlade Kay;Jonth;Skinny Days,Famous (feat. Skinny Days),Famous (feat. Skinny Days),44,173368,False,0.516,0.749,9,-3.265,1,0.0642,0.066,1.18e-05,0.076,0.33,94.974,4,electro
+460WMeltK2dxce4qhcaCF7,TYSM,Normal No More,Normal No More,57,199578,True,0.773,0.533,7,-8.536,1,0.0481,0.545,0.000974,0.11,0.185,95.029,4,electro
+5myjSxfvS8pzSMK3jJcfIL,Alec Benjamin,(Un)Commentary,The Way You Felt,60,183243,False,0.872,0.52,0,-6.928,1,0.0618,0.715,0.0,0.0982,0.736,131.918,4,electro
+6VRhkROS2SZHGlp0pxndbJ,Skrillex;Sirah,Bangarang EP,Bangarang (feat. Sirah),71,215253,True,0.716,0.972,7,-2.302,1,0.196,0.0145,3.22e-05,0.317,0.576,110.026,4,electro
+251aCFbFK1f4Jkil96E5g1,Dillon Francis;ILLENIUM;EVAN GIIA,Don’t Let Me Let Go (with ILLENIUM & EVAN GIIA),Don’t Let Me Let Go (with ILLENIUM & EVAN GIIA),68,205479,False,0.488,0.715,9,-4.656,1,0.0562,0.0367,0.0,0.122,0.397,145.979,4,electro
+0pH9ckmrcCM6O0MTart24w,Devin Kennedy,"You & Me, That's Enough",Something Bout That Feeling,64,132688,False,0.69,0.397,5,-6.514,1,0.0453,0.064,0.0,0.0784,0.772,203.723,4,electro
+2R5Xoac869473aTCjizw7E,Bryce Vine,New Pop Classics,Moonrock,0,180713,False,0.671,0.746,5,-3.769,1,0.0508,0.371,5.69e-06,0.159,0.71,75.469,4,electro
+1AHa2iLVTyjMisXwg0oMh1,Clara Mae,Not Sad Anymore,Not Sad Anymore,65,195563,False,0.675,0.523,1,-7.598,1,0.0444,0.761,3.17e-06,0.109,0.376,94.025,4,electro
+4Sp0jLZN8MgPnoGDufJS7N,Alan Walker;Sabrina Carpenter;Farruko;Da Tweekaz,On My Way (Da Tweekaz Remix),On My Way - Da Tweekaz Remix,60,204198,False,0.478,0.848,1,-3.85,0,0.0431,0.0934,0.0,0.0925,0.48,149.936,4,electro
+5YGUJZXgqyg1bjC8JHia5E,Louis The Child;Kasbo;EVAN GIIA,EDM Gaming Music Autumn/Winter 2022,Blow The Roof,0,184919,False,0.592,0.826,4,-4.506,1,0.0633,0.0938,0.0,0.149,0.357,105.017,4,electro
+1dkTK75VypDn4ExHMuSwdd,Bryce Vine;lovelytheband,Hip Hop & R'n'B,Miss You a Little,0,168180,False,0.636,0.886,0,-4.76,1,0.0433,0.347,0.0,0.171,0.589,140.888,4,electro
+4HrGkz7sfAy0KMxbHTBpSW,Bryce Vine,Refresh - Pop To Cool Down,y can't we b friends?,0,155310,True,0.665,0.737,1,-2.976,0,0.0769,0.115,0.0,0.372,0.514,87.958,4,electro
+2jRISGsO4RTm9CQVb1Jusn,Clara Mae,I'm Not Her,I'm Not Her,60,194204,False,0.477,0.51,2,-8.94,1,0.275,0.228,0.0,0.0755,0.477,111.893,5,electro
+1UmFLqmTmgHoSyvss6Q7gw,FLETCHER,Girl Of My Dreams,Serial Heartbreaker,71,133226,True,0.587,0.873,2,-4.395,1,0.0693,0.11,0.00339,0.236,0.52,169.971,4,electro
+0343bYQtSfznf6v90jRLRK,John De Sohn;LIAMOO,Made For You,Forever Young,65,167911,False,0.653,0.621,8,-6.045,1,0.0308,0.178,0.0,0.0952,0.584,121.98,4,electro
+0U46JyDnNIupaAixX8509d,NOTD;Felix Jaehn;Captain Cuts;Georgia Ku,Queda poco para la PAES,So Close,0,190302,False,0.665,0.894,10,-5.038,1,0.0672,0.149,8.83e-06,0.105,0.737,125.007,4,electro
+0w8HCs4mEIH9sGtZASV5bJ,Seeb;Julie Bergan,"Anímate, es viernes",Don't You Wanna Play?,0,138733,False,0.556,0.77,2,-3.52,0,0.0306,0.0214,0.0,0.147,0.674,99.959,4,electro
+2AwTFpFcTm9TyOXqu2OZ8D,Brando;Ninetails,Armada Music - ADE 2022,Saturday Night (Feel The Groove),0,153925,False,0.692,0.775,4,-4.241,0,0.0617,0.0278,0.0,0.427,0.634,121.994,4,electro
+0HlSPkpyZrgluk5EzAVLmJ,Bob Sinclar,"Swanky Club House, Vol. 1",Summer Moonlight - Club Mix,0,360224,False,0.693,0.834,10,-4.799,1,0.124,0.00684,2.37e-05,0.838,0.332,127.998,4,electro
+78iVPIyFgGjQ0g0TmDWYtQ,Maribou State;Holly Walker,Tongue EP,Tongue,64,304825,False,0.569,0.521,10,-10.183,0,0.0839,0.514,0.00469,0.0962,0.143,115.055,4,electro
+5N5k9nd479b1xpDZ4usjrg,Calvin Harris;Sam Smith;Jessie Reyez,Promises (with Sam Smith),Promises (with Sam Smith),77,213309,False,0.781,0.768,11,-5.991,1,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,4,electro
+6UbfuPifNmblRiaE8vQ08U,Yellow Claw;Yade Lauren,"Los Amsterdam (Remixes, Pt. 1)",Love & War - Yellow Claw G-Funk Remix,63,115546,False,0.725,0.74,8,-5.08,1,0.0323,0.00156,0.000464,0.338,0.827,92.978,4,electro
+6VrCmhRBFnuGKmtNfk4jDs,Marshmello;Lil Peep,Spotlight,Spotlight,73,177600,False,0.546,0.822,7,-4.483,1,0.151,0.0145,0.0,0.742,0.615,150.06,4,electro
+5ZESanTyKmIOXBu7se7z6U,Sak Noel;Salvi;Franklin Dam,Tocame,Tocame,61,157500,False,0.865,0.607,2,-8.039,0,0.0535,0.217,0.879,0.0571,0.0869,127.998,4,electro
+5TgS4dcUAU8EEb506d8wAT,Au/Ra;Alan Walker;Death Stranding: Timefall,Ghost,Ghost,58,177630,False,0.667,0.503,0,-8.217,0,0.0526,0.552,0.0,0.169,0.584,144.015,4,electro
+3O8b0dDy1Z8BNM81U8DE1j,Zara Larsson,WOW,WOW,60,179675,True,0.748,0.79,6,-4.788,0,0.169,0.492,0.0,0.0901,0.279,77.495,4,electro
+6bZuZKR8hoyzZXNh1IW2Bu,Anna of the North,Lovers,Lovers,59,215773,False,0.554,0.486,8,-8.856,1,0.0403,0.458,0.00737,0.136,0.422,94.984,4,electro
+0du67LyuJeUjQChxl8rTa8,Lauv,26,26,57,159607,False,0.643,0.458,6,-8.636,1,0.0875,0.809,0.00015,0.237,0.506,164.16,4,electro
+4lupTQUPLUwzlQoyqCzURl,Prabh Deep;Seedhe Maut;Sez on the Beat,"Class-Sikh Maut, Vol. II","Class-Sikh Maut, Vol. II",42,142163,True,0.855,0.68,8,-8.041,1,0.428,0.0601,0.0,0.0417,0.818,129.843,4,electro
+4VxaUj96W2jw9UOtKHu51p,Apparat;Soap&Skin,The Devil's Walk,Goodbye,60,256786,False,0.484,0.457,1,-13.976,0,0.0456,0.406,0.646,0.297,0.187,87.159,4,electro
+2ggqqUQ5j358PFmvfBVswn,Ghauri;Lal Chand Yamla Jatt,Das main ki pyar wichon khatya (Sunno Flip),Das main ki pyar wichon khatya (Sunno Flip),44,131451,False,0.771,0.666,4,-6.631,0,0.443,0.0416,0.0231,0.0845,0.774,76.0,4,electro
+02xRKYZ1jY4B6utPa59qSf,Nessa Barrett,tired of california,tired of california,70,190800,False,0.712,0.731,6,-6.313,0,0.0402,0.228,0.0,0.372,0.638,92.014,4,electro
+1RGasjWLZ4qMN7wbtkLa3u,Billie Eilish,dont smile at me,my boy,74,170852,False,0.692,0.394,11,-8.745,0,0.207,0.472,0.000191,0.117,0.324,89.936,4,electro
+2bQhVQbV7VBzSOPo8mbkUR,The Chainsmokers,Sick Boy,Beach House,56,206120,False,0.4,0.838,0,-4.491,1,0.0526,0.174,0.0,0.341,0.533,179.945,4,electro
+35seOt4wMvu7gWzYFwqNGh,Tove Lo,Grapefruit,Grapefruit,70,231333,False,0.724,0.684,2,-5.129,1,0.0342,0.00134,0.000441,0.151,0.163,105.0,4,electro
+6ufrOaf4v6Qady6GiIpQ0s,The Chainsmokers,Sick Boy,Everybody Hates Me,59,223466,False,0.475,0.752,11,-6.596,0,0.0467,0.00703,0.0,0.406,0.515,154.957,4,electro
+4FYbo4yQzu3hGkj2Ix4ucW,Zedd;Jasmine Thompson,Funny,Funny,65,221465,False,0.664,0.66,5,-4.646,1,0.0243,0.512,0.0,0.26,0.355,99.946,4,electro
+0GTPmh5G40joBg93vcSQNq,Alok;Ilkay Sencan;Tove Lo,Don't Say Goodbye (feat. Tove Lo),Don't Say Goodbye (feat. Tove Lo),73,186700,False,0.698,0.719,0,-4.923,0,0.0455,0.00829,4.01e-06,0.326,0.364,120.062,4,electro
+4ak9GGe6afmi2HbxEjvhIC,Billie Eilish,Happier Than Ever,Male Fantasy,74,194886,False,0.687,0.288,2,-10.415,1,0.045,0.863,0.0,0.0986,0.308,110.927,4,electro
+3h8tI65xdfpQyTAy7Grqwa,Calvin Harris;Dua Lipa;Young Thug,Funk Wav Bounces Vol. 2,Potion (with Dua Lipa & Young Thug),71,215215,True,0.824,0.697,11,-4.869,0,0.0473,0.158,4.11e-05,0.0751,0.757,99.987,4,electro
+13QIjo2iGBgl56mNDjJOet,Alessia Cara,I Choose (From The Netflix Original Film The Willoughbys),"I Choose - From The Netflix Original Film ""The Willoughbys""",66,217347,False,0.66,0.631,0,-6.464,1,0.0764,0.386,0.0,0.16,0.416,138.007,3,electro
+05SBRd4fXgn8FX7bf8BCAE,Calvin Harris;Ellie Goulding,18 Months,I Need Your Love (feat. Ellie Goulding),71,234506,False,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,4,electro
+5mqzhMuUpvnMfwNz6iepmO,Diplo;French Montana;Lil Pump;Zhavia,"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) [from Deadpool 2]","Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",67,181720,True,0.618,0.845,2,0.175,1,0.132,0.114,0.0,0.415,0.486,171.921,4,electro
+7mbbGuqfaIIFHImIwu45Xi,DJ Snake;Justin Bieber;R3HAB,Let Me Love You (R3hab Remix),Let Me Love You - R3hab Remix,58,175000,False,0.433,0.82,0,-2.84,0,0.0924,0.0209,0.0,0.292,0.536,203.968,4,electro
+5YdnOm5990Kfq1Jodws98B,Felix Jaehn;Ray Dalton,Call It Love,Call It Love,77,154560,False,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,4,electro
+19TSNGmvdTtlxYn4YqYUMf,Alan Walker;David Whistle,Routine,Routine,57,166973,False,0.641,0.824,6,-3.706,0,0.0272,0.0624,0.0621,0.258,0.257,115.003,4,electro
+2f2hbFjim051DVx0o8o4rU,Ellise,Can You Keep a Secret?,Nightmares,66,144000,False,0.705,0.441,11,-8.047,0,0.0445,0.279,0.00279,0.111,0.198,114.898,4,electro
+1GkHyypTFkUf0QQKwYoXH4,benny blanco;Marshmello;Vance Joy,You (with Marshmello & Vance Joy),You (with Marshmello & Vance Joy),68,169632,False,0.668,0.563,11,-6.433,1,0.0522,0.0493,0.0,0.119,0.305,103.116,4,electro
+0SSIu4CcGITHdatDmjlA6H,TELYKast;Loren Gray,Nobody To Love (with Loren Gray),Nobody To Love (with Loren Gray),60,146372,False,0.734,0.823,9,-3.684,0,0.0853,0.0937,0.0,0.0853,0.409,122.143,4,electro
+3TKpJrY9q49Mj1JOsM9zGL,The Chainsmokers;Kygo,World War Joy,Family,61,194826,False,0.584,0.607,11,-6.605,1,0.0356,0.426,0.0,0.101,0.374,117.817,4,electro
+1xUZ6CgfpXspcQuEIOhf2v,Alan Walker;Trevor Guthrie,Different World,Do It All for You,56,174560,False,0.684,0.657,1,-5.483,1,0.0433,0.126,1.26e-06,0.109,0.415,82.007,4,electro
+63bWXWGcWnRQvdS8bJWdkB,Alok;Alida,Love Again (feat. Alida),Love Again (feat. Alida),66,147401,False,0.636,0.822,0,-4.321,0,0.0507,0.0534,1.99e-05,0.121,0.338,127.225,4,electro
+0Rp4jmwBigtBymrPsMCt3G,NOTD;shy martin,Keep You Mine (Acoustic),Keep You Mine - Acoustic,57,183435,False,0.672,0.388,10,-9.31,1,0.0324,0.851,6.16e-06,0.22,0.468,131.938,4,electro
+3GoJ58X4Mqh8xW76GBB1fn,Fly By Midnight;Zaeden,Silver Crane,Settle Down,52,178339,False,0.384,0.504,9,-10.779,1,0.0652,0.607,0.0,0.0983,0.397,105.371,4,electro
+56pZSBGVI5BOlITppHLGVp,Fly By Midnight;Clara Mae,Lost Without You (feat. Clara Mae),Lost Without You (feat. Clara Mae),58,165814,False,0.63,0.659,0,-9.799,1,0.129,0.502,3.62e-05,0.547,0.659,163.059,4,electro
+793OuR8rJ0zpVp708ONAxO,Matoma;Jonah Kagen,Summer Feeling,Summer Feeling,68,180600,False,0.651,0.702,10,-7.833,1,0.0876,0.0256,4.87e-05,0.129,0.539,124.924,4,electro
+2Xy1UIVfOlukyye6Fd0wrI,Sam Feldt;Rita Ora,Follow Me,Follow Me,74,169672,False,0.673,0.729,6,-4.879,1,0.0496,0.083,0.0,0.1,0.675,122.023,4,electro
+4R8BdwRidxAWaYyFNU00P1,Ruelle,Up In Flames,War Of Hearts,71,226216,False,0.479,0.781,9,-6.344,0,0.124,0.221,0.55,0.0964,0.258,147.961,3,electro
+0zdQxu4k1jGlT2VxDokAcX,AJ Mitchell;Ava Max,SKYVIEW,Slow Dance (feat. Ava Max),60,178815,False,0.673,0.405,1,-7.661,1,0.0499,0.201,0.0,0.0748,0.317,127.892,4,electro
+1tct31YegVrcMeqAPZdsQz,Lennon Stella;Charlie Puth,Running Songs,Summer Feelings,0,160289,False,0.696,0.686,5,-6.113,0,0.0309,0.262,0.0,0.174,0.7,115.982,4,electro
+3S4LzCSNVgwPjI4K6vsCUB,Cash Cash;Wiz Khalifa;Lukas Graham,All Bops,Too Late,0,193917,False,0.552,0.74,2,-2.335,1,0.124,0.074,0.0,0.113,0.601,97.049,4,electro
+3CLmSGEchWP7tnInVuPCdH,Lennon Stella;Charlie Puth,Feeling Good,Summer Feelings,0,160289,False,0.696,0.686,5,-6.113,0,0.0309,0.262,0.0,0.174,0.7,115.982,4,electro
+57zRWXTQCFRV3zwg0NR8Ck,Alec Benjamin,These Two Windows,Demons,62,163171,False,0.708,0.494,5,-7.496,0,0.0365,0.697,0.000115,0.34,0.76,142.921,4,electro
+6b0niK2zmoE9kZY5HkLGen,Tungevaag;Raaban;A7S,10's Dance Classics,Hey Baby,0,180490,False,0.694,0.888,11,-2.983,1,0.0723,0.0353,0.0,0.275,0.691,124.996,4,electro
+4dq7XLDmFHNwc1yqL339qT,Anthony Keyrouz;Paradigm,Wake Me Up In Paris,Wake Me Up In Paris,73,136946,False,0.71,0.816,11,-4.516,0,0.186,0.0573,4.87e-06,0.176,0.363,131.001,4,electro
+1ABzvnkHLpLaIN7VlB00LJ,Kinky,Kinky (Remastered),Soun Tha Mi Primer Amor - Remastered,54,191000,False,0.83,0.838,6,-6.77,1,0.0776,0.0805,0.517,0.073,0.829,104.418,4,electro
+3PZut6IxVN6OBwVxkZGgqc,Set It Off,Slowed + Reverbed: Chill,Skeleton - Slowed & Reverb,1,238488,False,0.425,0.749,0,-4.935,1,0.0663,0.00459,0.0,0.497,0.261,133.913,4,electro
+2PS1X5DzUCIFuX4ljfNAH0,Set It Off,Alternative Christmas 2022,This Christmas (I'll Burn It To The Ground),0,207000,False,0.516,0.943,6,-5.593,0,0.054,0.00131,0.0,0.324,0.285,94.998,3,electro
+3RXdPd3JIR8oZnWljpL3dS,Set It Off,Slowed + Reverbed 2022,Skeleton - Slowed & Reverb,0,238488,False,0.425,0.749,0,-4.935,1,0.0663,0.00459,0.0,0.497,0.261,133.913,4,electro
+0B2RttXEiyXsMeQ7mMP3EI,Snakehips;ZAYN,Cruel (feat. ZAYN),Cruel (feat. ZAYN),58,228253,True,0.603,0.879,5,-4.098,1,0.124,0.0184,0.0,0.156,0.318,110.125,4,electro
+3T9K3rHpNZrcXAnlMBIakW,EZI,in between everything,Take My Breath Away,65,158446,False,0.718,0.616,8,-6.598,1,0.0901,0.0741,0.00287,0.367,0.354,102.981,4,electro
+5Kq2GzvM6XE8zN4RAKKLSf,Madison Beer,Showed Me (How I Fell In Love With You),Showed Me (How I Fell In Love With You),69,195845,False,0.723,0.542,0,-8.5,0,0.026,0.476,0.0826,0.0928,0.675,95.02,4,electro
+1YlulsUKDduOmC7WxvXYPW,Ruel,Free Time,Painkiller,71,213506,False,0.683,0.42,5,-6.51,1,0.0542,0.0875,0.0,0.225,0.469,128.621,4,electro
+04ht5irz2s6Q3vuWXkAOTU,6091;Rakhooo,Kanaavile,Kanaavile,41,187153,False,0.649,0.478,3,-10.729,1,0.0333,0.655,0.14,0.187,0.373,148.021,4,electro
+2XMTqoHHSH0lvuXrvIEdco,FRENSHIP;Emily Warren,Truce - EP,Capsize,67,237706,False,0.683,0.708,5,-6.244,0,0.0305,0.0398,0.155,0.686,0.355,92.991,4,electro
+1oz3gEoNWHAS3pjwThdSJb,Lauv;Conan Gray,Fake,Fake,62,146375,True,0.703,0.656,6,-5.363,0,0.078,0.139,0.0,0.0947,0.455,82.964,4,electro
+7hzlzoOwCZ4D3Ow5YZK4kj,Daya,Insomnia,Insomnia,65,179745,False,0.754,0.653,7,-5.095,1,0.0611,0.0944,0.0,0.383,0.379,123.084,4,electro
+340UVheS8z3ncW9TTUhAbc,Halsey,Nightmare,Nightmare,68,231998,True,0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,4,electro
+1DVWkJEjgVStgU2EbR9vpz,Lauv,~how i'm feeling~,Sad Forever,60,203520,False,0.747,0.488,5,-8.939,1,0.0607,0.456,0.0,0.0799,0.358,122.023,4,electro
+7ltLi7CG003USSGYsSba9s,Alok;Sofi Tukker;INNA,It Don’t Matter - Spotify Singles,It Don’t Matter - Spotify Singles,64,173742,False,0.732,0.864,3,-5.94,0,0.0378,0.161,1.34e-05,0.367,0.568,118.032,4,electro
+4nvGIQPgLnWWJUJrnRsIOX,blackbear;Machine Gun Kelly,in loving memory,gfy (with Machine Gun Kelly),69,174066,True,0.744,0.732,8,-3.036,1,0.0522,0.0264,0.0,0.352,0.387,121.086,4,electro
+4CLDrNSJcJQIeFkHCLM3gb,Lauv,All 4 Nothing,26,61,159607,False,0.643,0.458,6,-8.636,1,0.0875,0.809,0.00015,0.237,0.506,164.16,4,electro
+5o5akY9xnEk6lpMkD8RwD9,Melanie Martinez,K-12,Teacher's Pet,76,241893,True,0.686,0.794,7,-6.136,0,0.0385,0.27,2.25e-05,0.125,0.532,140.952,3,electro
+6ZahaGPhyiXTi1pLEtGM6e,bülow,Sweet Little Lies,Sweet Little Lies,62,175066,True,0.648,0.727,0,-3.791,1,0.142,0.229,0.0,0.17,0.689,160.024,4,electro
+1p6rk9R8SCum97WnvGNt6O,Betty Who,I Love You Always Forever,I Love You Always Forever,59,222957,False,0.532,0.613,0,-7.64,1,0.0576,0.326,0.0,0.292,0.493,106.081,4,electro
+5qhHm4dN4L2dhRb2TfzGPw,Lauv,~how i'm feeling~,Lonely Eyes,58,196493,False,0.586,0.499,2,-7.005,1,0.0267,0.0418,0.0,0.0994,0.369,95.012,4,electro
+6clzeGvi1CFioMOolbAOlX,Calvin Harris;Justin Timberlake;Halsey;Pharrell Williams,Funk Wav Bounces Vol. 2,"Stay With Me (with Justin Timberlake, Halsey & Pharrell)",73,229282,False,0.81,0.733,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,0.9,125.975,4,electro
+6Hx9gLuAKkOfoZoL79OSI1,DJ Snake;Marshmello;Justin Bieber,Let Me Love You (Marshmello Remix),Let Me Love You - Marshmello Remix,56,180013,False,0.66,0.814,8,-3.179,1,0.0382,0.0183,0.0,0.139,0.248,120.005,4,electro
+51Of5p3lKZeOg6itfs4og4,twocolors,Lovefool,Lovefool,72,190487,False,0.677,0.766,6,-6.896,1,0.0568,0.0219,6.81e-06,0.129,0.198,123.062,4,electro
+58PeAWeOz9yVemSLoeYyKZ,Major Lazer;Nucleya;Rashmeet Kaur;Diplo,Music Is The Weapon (Reloaded),Jadi Buti (feat. Rashmeet Kaur),44,163846,False,0.902,0.816,5,-2.999,0,0.0397,0.212,0.0,0.082,0.912,104.003,4,electro
+4b2tcjrG1qUkSdsqEFP2dB,Axwell /\ Ingrosso;Axwell;Sebastian Ingrosso,More Than You Know,Sun Is Shining,69,254653,False,0.467,0.757,2,-3.01,1,0.0517,0.0866,0.0,0.0742,0.383,131.993,4,electro
+6KE3Fs6LMzi4hJI3eFqyLC,eAeon;RM,Fragile,Don't (feat. RM),66,205386,False,0.63,0.596,4,-7.965,0,0.0328,0.106,0.01,0.0983,0.275,106.935,4,electro
+26kVXR9aQXzDiKggPGnUQR,Gatlin,What If I Love You,What If I Love You,69,158360,False,0.743,0.666,11,-8.337,1,0.0546,0.432,1.77e-05,0.129,0.492,101.002,4,electro
+4sOX1nhpKwFWPvoMMExi3q,MARINA,Electra Heart (Deluxe),Primadonna,74,221075,False,0.66,0.689,4,-2.671,0,0.0337,0.0884,0.0,0.0922,0.427,127.98,4,electro
+1a4k2osHzhVwhvgINJERyN,Dimitri Vegas & Like Mike,Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack),He's a Pirate - Hans Zimmer vs Dimitri Vegas & Like Mike / Bonus Track,51,210973,False,0.631,0.918,2,-4.92,0,0.0374,0.00116,0.387,0.101,0.338,112.489,3,electro
+36orMWv2PgvnzXsd5CJ0yL,Sam Feldt;RANI,Post Malone (feat. RANI) [Joe Stone Remix],Post Malone (feat. RANI),65,174444,False,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,4,electro
+1kwHrBWAlucOE57lWugotk,Felix Jaehn;Zoe Wees,Do It Better (feat. Zoe Wees),Do It Better (feat. Zoe Wees),76,170045,False,0.677,0.804,1,-5.337,0,0.0677,0.0818,1.92e-05,0.158,0.41,122.111,4,electro
+3WMnYYRj4VmziUS9Fzey8p,Alan Walker;Ina Wroldsen,"Walkerverse, Pt. I",Blue,55,157566,False,0.495,0.848,8,-6.718,0,0.0598,0.00306,0.000142,0.0668,0.487,180.052,4,electro
+18I7HIzT4GwEzp9jJ8KoFe,Alec Benjamin,(Un)Commentary,Dopamine Addict,62,144956,False,0.721,0.772,10,-4.506,0,0.19,0.598,0.000204,0.19,0.483,76.928,4,electro
+6HMT7AzGA5wmn5m2t1BuZR,Alan Walker;Steve Aoki;ISÁK;Omar Noir,Different World,Lonely (feat. ISÁK & Omar Noir),54,216053,False,0.521,0.819,6,-7.267,0,0.0413,0.00911,0.00227,0.086,0.184,89.952,4,electro
+0ICvpUuQrVd65WeZjVX44u,Alan Walker,Origins,Fade,60,264048,False,0.785,0.649,6,-4.149,1,0.0418,0.0112,0.0388,0.0793,0.472,179.966,4,electro
+5IUGggKb1vh11R6hE0rPpm,Janelle Monáe;Zoë Kravitz,The State of Pop,Screwed,0,302491,True,0.729,0.681,8,-7.582,0,0.0405,0.0442,0.000242,0.27,0.444,106.011,4,electro
+149dWfm2AUDf6WIwJs2mDn,Janelle Monáe;Zoë Kravitz,New Pop Icons,Screwed,0,302491,True,0.729,0.681,8,-7.582,0,0.0405,0.0442,0.000242,0.27,0.444,106.011,4,electro
+5JAqpsCQzkW5LbLgPPLNec,Nicky Romero;Norma Jean Martine,EDM Gaming Music Autumn/Winter 2022,I Hope That It Hurts,0,160214,False,0.723,0.771,2,-5.407,1,0.152,0.045,0.0,0.0809,0.533,110.048,4,electro
+1oxyLBX9KmrtKajyVQkfAs,Duke Dumont;Zak Abel,Larga Vida al Electro,The Power,1,197449,False,0.626,0.829,5,-6.795,0,0.0537,0.00458,0.0601,0.227,0.191,121.945,4,electro
+6yR9KHd3brZhx3izrJnFOi,Janelle Monáe,New RnB,Make Me Feel,0,194230,True,0.859,0.413,1,-7.399,1,0.18,0.136,0.0,0.334,0.699,115.036,4,electro
+16D5d14hKxxHkKX7M1aqJZ,Janelle Monáe,2Step - Pop R'n'B,Make Me Feel,0,194230,True,0.859,0.413,1,-7.399,1,0.18,0.136,0.0,0.334,0.699,115.036,4,electro
+57E7YfHbw3SpJsQrEkQY1O,Janelle Monáe,Modern R&B Love,Make Me Feel,0,194230,True,0.859,0.413,1,-7.399,1,0.18,0.136,0.0,0.334,0.699,115.036,4,electro
+7lcR0YsFYy2vIgbOyX3gxg,La Roux;GAMPER & DADONI,Hidden Gems,Bulletproof,0,162213,False,0.752,0.771,6,-5.95,1,0.0311,0.00341,1.73e-05,0.0905,0.527,126.02,4,electro
+4JpToqFup6IoCO8oWFhzWh,St. Vincent,The Greatest Rock Tunes 2022,The Melting Of The Sun,1,257519,False,0.52,0.463,10,-10.429,1,0.0958,0.609,0.0014,0.426,0.469,159.931,4,electro
+2xvivj9s3YulAYkhFPc7pz,Chino & Nacho,Carrete con besties,Niña Bonita,0,217480,False,0.675,0.924,9,-4.879,1,0.113,0.287,0.0,0.256,0.643,120.069,4,electro
+7oMBY3VmIxqNVeZ7yneYuN,Chino & Nacho,Perreo Tenebroso Vol. 2,Me Voy Enamorando,0,235720,False,0.686,0.912,10,-3.411,1,0.0685,0.0533,0.0,0.392,0.511,99.952,4,electro
+6oJ2Bv9izAD2mPy8zi6Ypw,Chino & Nacho,Halloween 2022 Pop Vol. 4,Niña Bonita,0,217480,False,0.675,0.924,9,-4.879,1,0.113,0.287,0.0,0.256,0.643,120.069,4,electro
+67avyz2FqPWktHLm8cHFpT,Chino & Nacho;Daddy Yankee;Don Omar;Wisin,Perreo Tenebroso Vol. 1,Andas En Mi Cabeza - Remix,0,255840,False,0.719,0.934,9,-3.242,1,0.0858,0.213,0.0,0.177,0.619,104.095,4,electro
+0SShlR5RlMpTzifqbPnVhl,La Roux,Halloween 2022,In For The Kill,0,250160,False,0.627,0.973,8,-0.223,0,0.0435,0.00137,0.0,0.0851,0.894,150.063,4,electro
+2ccCaAC8svYq42eUY6uZuv,Chino & Nacho;Baroni,Queda poco para la PAES 2.0,You Make Me Feel (Higha),0,315520,False,0.829,0.726,10,-7.476,0,0.102,0.00686,0.00509,0.0443,0.517,104.985,4,electro
+05tQHifEgbVLavnO3GcuxN,Chino & Nacho,Halloween 2022 Pop Vol. 2,Niña Bonita - Remastered 2020,0,215960,False,0.666,0.921,9,-5.462,1,0.138,0.226,0.0,0.15,0.723,120.03,4,electro
+3WDLiY9zgCqDLEdUqsPJTO,Chino & Nacho;Daddy Yankee,Esto No Se Le Dedica A Cualquiera,Andas En Mi Cabeza,0,247493,False,0.671,0.954,9,-1.87,1,0.13,0.0244,0.0,0.111,0.555,104.113,4,electro
+69Jv0CiMlrpfjh9N2WFkr0,Chino & Nacho;Baroni,Perreo Tenebroso Vol. 4,You Make Me Feel (Higha),0,315520,False,0.829,0.726,10,-7.476,0,0.102,0.00686,0.00509,0.0443,0.517,104.985,4,electro

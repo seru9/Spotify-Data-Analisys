@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2HZLXBOnaSRhXStMLrq9fD,Ghost,Seven Inches Of Satanic Panic,Mary On A Cross,88,244804,False,0.466,0.9,11,-4.469,1,0.0447,0.000235,0.00104,0.103,0.561,130.02,4,hard-rock
+4JiEyzf0Md7KEFFGWDDdCr,Guns N' Roses,Use Your Illusion II,Knockin' On Heaven's Door,79,336000,False,0.496,0.739,6,-7.193,1,0.0415,0.0211,0.00444,0.106,0.378,132.41,4,hard-rock
+5MxNLUsfh7uzROypsoO5qe,Aerosmith,Aerosmith,Dream On,82,266960,False,0.307,0.433,1,-10.057,1,0.029,0.388,9.08e-05,0.332,0.224,160.9,4,hard-rock
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,84,354520,True,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,4,hard-rock
+0nLiqZ6A27jJri2VCalIUs,Metallica,Metallica,Nothing Else Matters,80,388266,False,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,3,hard-rock
+57bgtoPSgt236HzfBOd8kj,AC/DC,The Razors Edge,Thunderstruck,84,292880,False,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52,4,hard-rock
+3ovjw5HZZv43SxTwApooCM,Scorpions,Crazy World,Wind Of Change,79,312360,False,0.452,0.524,0,-10.108,1,0.0351,0.315,0.0,0.103,0.246,151.505,4,hard-rock
+78lgmZwycJ3nzsdgmPPGNx,Led Zeppelin,Led Zeppelin III (Remaster),Immigrant Song - Remaster,78,146250,False,0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,4,hard-rock
+3YBZIN3rekqsKxbJc9FZko,Guns N' Roses,Appetite For Destruction,Paradise City,79,405640,True,0.273,0.952,11,-8.762,1,0.0843,0.0169,0.0111,0.142,0.472,100.271,4,hard-rock
+3YRCqOhFifThpSRFJ1VWFM,Guns N' Roses,Use Your Illusion I,November Rain,81,536066,False,0.294,0.641,11,-9.316,1,0.0291,0.0163,0.22,0.112,0.226,79.759,4,hard-rock
+5CQ30WqJwcep0pYcV4AMNc,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Stairway to Heaven - Remaster,79,482830,False,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,4,hard-rock
+2zYzyRzz6pRmhPzyfMEC8s,AC/DC,Highway to Hell,Highway to Hell,85,208400,False,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,4,hard-rock
+5sICkBXVmaCQk5aISGR3x1,Metallica,Metallica,Enter Sandman,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,hard-rock
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets (Remastered),Master Of Puppets,81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,hard-rock
+08mG3Y1vljYA6bvDt4Wqkj,AC/DC,Back In Black,Back In Black,85,255493,False,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,4,hard-rock
+2RSzPRq4NKwTqnqapywvCH,Ghost,HÖST,Mary On A Cross,3,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+7x7i3XBKSM4AoLoPymDuh9,Ghost,Pumpkin Patch Hits,Mary On A Cross,0,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+06Stw5UCrKYwPBxsTOfBtA,Ghost,Twisted Halloween Hits,Mary On A Cross,0,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+5yOKRMs3V8PO5FgLx6WnlU,Ghost,Halloween Party 2022,Mary On A Cross,2,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+5CvERxbaeHHQA1OGJzeOzt,Ghost,Halloween Metal Nights,Mary On A Cross,2,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+0LxGFgMi5Bv6q3vJ0aCnRX,Ghost,Rock & Halloween,Mary On A Cross,5,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+2xOcbu4PTkikUk7Z8widN1,Ghost,LUGNA LÅTAR,Mary On A Cross,3,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+7ho8AmAGyByBomWJPwThKX,Lynyrd Skynyrd,Sweet Home Alabama,Sweet Home Alabama,2,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,hard-rock
+6lePhNNMArBmIlN6CcXV53,Ghost,Release Your ANGER,Faith,6,269706,False,0.355,0.823,9,-6.254,1,0.0517,0.000519,0.072,0.258,0.229,183.859,4,hard-rock
+2QHkMyf71kpkTiYYsp8qYO,Ghost,Rock & Halloween,Spillways,8,196946,False,0.575,0.868,5,-5.004,0,0.0319,0.000207,0.00294,0.0584,0.804,128.069,4,hard-rock
+3EAdkWngM7RifOu9kSH4cu,Ghost,Halloween Spooky Party 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,hard-rock
+7JKeRODQpE6XSOkHUYJrc3,Ghost,Halloween 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,hard-rock
+6vtcxMO8GBs1V0Jscy3DKA,Ghost,Halloween Party 2022,Square Hammer,0,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,hard-rock
+2aX1zws7bVjTLbS1cYZK2W,Scorpions,Fishing Music,Wind Of Change,0,311240,False,0.429,0.63,0,-7.392,1,0.0329,0.078,0.0,0.104,0.211,151.627,4,hard-rock
+3aoIw20fhjGMoXoQ38EbMS,Ghost,Halloween Metal Nights,Square Hammer,2,239293,False,0.529,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.746,129.986,4,hard-rock
+4kLIAQN2z1Uh0NvpNgz6jF,KISS,Rock & Halloween,Rock And Roll All Nite,1,175853,False,0.54,0.926,1,-6.205,1,0.162,0.0191,0.0,0.651,0.686,144.8,4,hard-rock
+69DkySvtBDM4Czz2lHx6gw,Scorpions,Artsy & Colourful,Wind Of Change,0,311240,False,0.429,0.63,0,-7.392,1,0.0329,0.078,0.0,0.104,0.211,151.627,4,hard-rock
+30NeE5qu2FrSkXQMra1WED,KISS,Rock Workout 2023,Rock And Roll All Nite,1,175853,False,0.54,0.926,1,-6.205,1,0.162,0.0191,0.0,0.651,0.686,144.8,4,hard-rock
+73a5aLqU9889tDoxBkxPEp,Ghost,Halloween 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,hard-rock
+5DEmBsouGyKFcoDbTrPMEZ,Ghost,Halloween Party 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,hard-rock
+3UHsjDehR19ONOLZF0eScQ,Ghost,Halloween Spooky Party 2022,Dance Macabre,0,219720,False,0.619,0.696,7,-6.263,0,0.0315,1.93e-05,0.00555,0.38,0.727,125.984,4,hard-rock
+2Ok3RB6OuSkV140AgyCuqd,Lynyrd Skynyrd,Rock Workout 2023,Sweet Home Alabama,1,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,hard-rock
+4L6mJJhYx3PNhKhaXX4BCw,Lynyrd Skynyrd,Country Car Hits,Simple Life,1,197106,False,0.549,0.891,6,-4.044,1,0.0351,0.0141,0.00323,0.0661,0.508,111.996,4,hard-rock
+4LgWrfYiwdstak9a4i6DZw,KISS,Rock & Halloween,Detroit Rock City - Edit,1,215527,False,0.521,0.954,5,-3.556,1,0.0909,0.0295,5.02e-05,0.25,0.45,90.545,4,hard-rock
+4a5Dibxjp4I8e4DWHg6apf,Lynyrd Skynyrd,Country Road Songs,Simple Life,0,197106,False,0.549,0.891,6,-4.044,1,0.0351,0.0141,0.00323,0.0661,0.508,111.996,4,hard-rock
+6QDAJvROnF636DZ5ApeIuR,KISS,Rock & Halloween,Hell Or High Water,1,207066,False,0.57,0.939,5,-7.177,0,0.0701,0.155,0.0,0.633,0.538,117.322,4,hard-rock
+4x0syYhWwD6zafzXsQXa1t,KISS,80s Bangers Vol. 2,Heaven's On Fire,1,200933,False,0.627,0.909,0,-4.731,1,0.0658,0.000957,7.03e-05,0.336,0.697,124.313,4,hard-rock
+6fsHeJsRAscaPO6Wi8zwTX,Lynyrd Skynyrd,Best 70s Rock Tunes,Sweet Home Alabama,0,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,hard-rock
+6mopp3XBL0cu6odV7RhVWy,KISS,Halloween Metal Nights,Creatures Of The Night,1,242533,False,0.497,0.983,5,-5.19,0,0.109,8.3e-05,0.0145,0.119,0.0693,121.397,4,hard-rock
+1gJrH78tBc0ymRXZiizxKx,Lynyrd Skynyrd,Best 70s Rock Tunes,Sweet Home Alabama,1,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,hard-rock
+1AO5q3PNXDWNwgern0S2zt,Lynyrd Skynyrd,70s Christmas Party,Sweet Home Alabama,0,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,hard-rock
+3SwBBFgL0XMK9u0v9H6aXq,KISS,Best 70s Rock Tunes,Shandi,0,216866,False,0.533,0.771,4,-6.512,1,0.028,0.0883,0.0,0.0428,0.853,103.262,4,hard-rock
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,hard-rock
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,hard-rock
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,hard-rock
+3MrRksHupTVEQ7YbA0FsZK,Europe,The Final Countdown (Expanded Edition),The Final Countdown,78,310333,False,0.529,0.843,6,-6.908,0,0.0616,0.0628,0.000827,0.0608,0.188,117.662,4,hard-rock
+4bHsxqR3GMrXTxEPLuK5ue,Journey,Escape (Bonus Track Version),Don't Stop Believin',83,250986,False,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4,hard-rock
+0muK9BAzu2TJXQgWPsEj6e,Journey;Steve Perry,Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix],Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix,72,165074,False,0.43,0.569,2,-9.274,1,0.044,0.0115,0.0134,0.163,0.0668,129.992,4,hard-rock
+2N2yrmodOnVF10mKvItC9P,Guns N' Roses,Use Your Illusion I,Don't Cry (Original),78,283733,False,0.456,0.59,11,-8.638,1,0.0327,0.00182,0.00379,0.104,0.243,124.635,4,hard-rock
+2bDENJyfbxj0neGiXUFvIX,Welshly Arms,No Place Is Home,Legendary,66,232173,False,0.537,0.656,11,-5.863,0,0.0411,0.0458,2.54e-06,0.112,0.45,141.873,4,hard-rock
+7snQQk1zcKl8gZ92AnueZW,Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,79,356066,True,0.446,0.952,6,-5.321,1,0.0523,0.0901,0.0857,0.112,0.624,125.303,4,hard-rock
+7wdwIaXUuzlu1grzWMFRJm,Ghost,[MESSAGE FROM THE CLERGY],Mary On A Cross,75,244804,False,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,hard-rock
+0hCB0YR03f6AmQaHbwWDe8,Led Zeppelin,Led Zeppelin II (1994 Remaster),Whole Lotta Love - 1990 Remaster,77,333893,False,0.412,0.902,9,-11.6,1,0.405,0.0484,0.131,0.405,0.422,89.74,4,hard-rock
+0bVtevEgtDIeRjCJbK3Lmv,Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,80,272026,True,0.447,0.954,8,-8.069,1,0.0751,0.0235,0.403,0.298,0.331,123.453,4,hard-rock
+7LRMbd3LEoV5wZJvXT1Lwb,AC/DC,High Voltage,T.N.T.,78,214666,False,0.754,0.759,9,-5.218,1,0.302,0.153,0.000108,0.101,0.435,126.366,4,hard-rock
+7e89621JPkKaeDSTQ3avtg,Lynyrd Skynyrd,Second Helping (Expanded Edition),Sweet Home Alabama,81,283800,True,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798,4,hard-rock
+0RdUX4WE0fO30VnlUbDVL6,Scorpions,Comeblack,Still Loving You,74,403453,False,0.282,0.605,6,-4.916,0,0.0294,0.0047,0.00144,0.103,0.0783,103.929,4,hard-rock
+2QGuFhaQDrGKqtkOgItDJS,Charlie Brown Jr.,Acústico (Ao Vivo),Zoio De Lula - Ao Vivo,55,224973,False,0.632,0.866,1,-5.445,0,0.0488,0.0556,5.75e-06,0.518,0.835,87.785,4,hard-rock
+2SiXAy7TuUkycRVbbWDEpo,AC/DC,Back In Black,You Shook Me All Night Long,81,210173,False,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,4,hard-rock
+6I0SHRGKjSnGUEAdQBEkP5,Foreigner,Planet 80's,Waiting for a Girl Like You,2,291986,False,0.312,0.528,10,-7.324,0,0.0333,0.267,3.88e-06,0.0369,0.397,201.13,4,hard-rock
+5JVe7nJ0MqVBiKAkjE9UXW,Foreigner,80's,Waiting for a Girl Like You,0,292066,False,0.322,0.469,10,-9.286,0,0.0342,0.308,1.94e-06,0.0402,0.428,202.308,4,hard-rock
+1FaJAcRI9aJ8dGDdkVUR6s,Billy Idol,80s Bangers Vol. 1,Rebel Yell,1,288533,False,0.531,0.864,4,-4.948,0,0.0611,0.000753,0.00046,0.354,0.485,166.312,4,hard-rock
+1NaHqvYJ48wdyQZMkNnUUr,Pantera,Metal,Walk,0,315120,True,0.428,0.704,6,-8.018,0,0.0808,0.000156,0.00223,0.0933,0.703,116.898,4,hard-rock
+1f9jv3jIHqwZhVW7NMAgYN,Pantera,Groove Metal Roots & Branches,Mouth for War,1,236720,False,0.361,0.97,8,-5.69,0,0.0837,6.58e-06,0.000162,0.039,0.561,156.96,4,hard-rock
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,hard-rock
+0e5LcankE0UyJUuCoq1uH2,Steve Miller Band,Fishing Music,The Joker,0,264503,False,0.596,0.448,5,-9.616,1,0.0396,0.365,5.22e-06,0.207,0.796,83.293,4,hard-rock
+05fL1P3yj5DLIE9mF7pf1z,The Doobie Brothers,OK Boomers - Top Tunes,What a Fool Believes,0,219573,False,0.646,0.625,8,-8.819,0,0.0336,0.275,0.0,0.086,0.977,120.656,4,hard-rock
+424WY6p8kPClokqegSpJfV,Rob Zombie;Ozzy Osbourne,Release Your ANGER,Iron Head,0,251200,False,0.527,0.924,6,-4.503,1,0.0367,7.92e-05,0.0671,0.705,0.324,102.036,4,hard-rock
+1GQMpacZAFmsYYmkT87gUw,ZZ Top,Timeless Rock Hits,Rough Boy,1,287426,False,0.419,0.737,9,-7.09,1,0.0364,0.204,0.00716,0.24,0.595,157.991,4,hard-rock
+27spr4gOJgvyiGia9WYeKV,Foreigner,Timeless Rock Hits,Hot Blooded,1,184906,False,0.681,0.664,0,-8.036,1,0.0922,0.299,0.0,0.0772,0.729,118.33,4,hard-rock
+6uPNJqmDLsgAJnNTR5V7QP,ZZ Top,80's,Sharp Dressed Man - 2003 Remaster,0,253413,False,0.527,0.786,5,-8.01,1,0.0362,0.000153,0.00271,0.085,0.343,125.117,4,hard-rock
+5G4roC38WFtOEF5Jo7vLUR,Rob Zombie,Halloween Hits,Living Dead Girl,2,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+6VNgUdPze583ZMIqe9EAyF,Rob Zombie,Halloween Metal Nights,Dragula,1,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+6QjunwjfwHiGZMU41A4iML,Heart,Best 70s Rock Tunes,Crazy On You,1,293440,False,0.435,0.459,9,-12.442,0,0.0329,0.117,0.000103,0.132,0.383,129.929,4,hard-rock
+0OxDGZakSMFjEHSoQHEjfy,Deep Purple,80s Bangers Vol. 2,Perfect Strangers,1,328426,False,0.521,0.72,2,-7.699,1,0.0254,0.00352,0.0114,0.391,0.609,97.577,4,hard-rock
+2vGDTOtslhkco6LVFfdEI2,Soundgarden,Rock & Halloween,Black Hole Sun,0,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,hard-rock
+6JN0cjFT0zDRYxzqcKrvwf,Soundgarden,Hits Pop Rock 90's,Spoonman,0,246920,False,0.258,0.904,0,-5.625,1,0.0386,2.2e-05,0.218,0.255,0.832,186.054,3,hard-rock
+4vvCo9Lxak9UqHVOyFmjFT,Rob Zombie,Pumpkin Patch Hits,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,hard-rock
+0X2rK2dB3aEGw1KOK0ioAL,Rob Zombie,Pumpkin Patch Hits,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+1nQYbtP8RwXxA7DwW6Kn38,Rob Zombie,Twisted Halloween Hits,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+4ZbIwC19U5soz0akMfbUqD,Rob Zombie,Rock & Halloween,Living Dead Girl,2,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+6AY2zdaF4LJykDhGGE4nv6,Rob Zombie,Helloween Party,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+2TDtt2AF6IR5iTmVrCM1u8,Rob Zombie,Twisted Halloween Hits,Superbeast,0,220226,False,0.514,0.975,11,-4.433,0,0.0609,7.65e-05,0.561,0.457,0.309,154.047,4,hard-rock
+2AMjuIoFxAYnQ5PWrRceOP,Rob Zombie,Twisted Halloween Hits,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+6q0hRmeFLlRB25616BLhgy,Rob Zombie,Halloween Party 2022,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+0ojuDHW8XG17heZBJHQyXJ,Rob Zombie,Halloween Metal Nights,Superbeast,0,220226,False,0.514,0.975,11,-4.433,0,0.0609,7.65e-05,0.561,0.457,0.309,154.047,4,hard-rock
+7uhmQXCmglHzUEUA0ch9mh,Rob Zombie,Halloween Party 2022,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+5vp6CNekMfEWWi8FtqUlKx,Rob Zombie,Halloween Spooky Party 2022,Living Dead Girl,0,201400,False,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+2i0hWBMyrOXnGv3jWji0Lw,Rob Zombie,Halloween Spooky Party 2022,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+3jcMkuNGMExEorJSML33D9,Rob Zombie,Halloween Metal Nights,Demon Speeding,0,224306,False,0.548,0.809,11,-4.001,0,0.0328,0.000298,2.96e-06,0.156,0.409,133.984,4,hard-rock
+7y5uK11sbFNiNEafUvntSL,Rob Zombie,Halloween Scary Party,Dragula,0,222893,False,0.579,0.978,0,-5.327,0,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+6MpUuLKMSRj82KbyoFlO6M,Rush,80s Bangers Vol. 2,The Spirit Of Radio,0,297693,False,0.362,0.95,9,-5.281,1,0.0567,0.0133,0.000107,0.371,0.611,135.818,4,hard-rock
+0BaVcB3Mn8QgGUdEi2yqCb,Stone Temple Pilots,Timeless Rock Hits,Plush,1,310346,False,0.416,0.954,7,-3.157,0,0.0467,0.0021,0.0,0.177,0.498,144.724,4,hard-rock
+7KPwpv8wlkkaNRd4LLoQT9,Soundgarden,Hits Pop Rock 90's,Black Hole Sun,1,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,hard-rock
+6xWbpC8KpcItoGd8ZOKJlU,Ghost,Mary On A Cross (slowed + reverb),Mary On A Cross - slowed + reverb,66,274783,False,0.468,0.838,6,-5.756,0,0.0433,9.42e-05,0.196,0.0896,0.259,115.812,4,hard-rock
+799XxzSlWNYkuWJxUbuGnF,Metallica,"Stranger Things: Soundtrack from the Netflix Series, Season 4",Master of Puppets,69,514479,False,0.538,0.868,4,-7.357,0,0.0377,0.000599,0.482,0.199,0.556,105.164,4,hard-rock
+46QazXxQS0B31CnbRCy8CV,Scorpions,Comeblack,Rock You Like a Hurricane - 2011,64,255573,False,0.587,0.891,11,-3.381,1,0.0361,0.000261,0.00454,0.314,0.705,124.005,4,hard-rock
+6lEuFGrUqR9Yc6hSsHPnYP,Aerosmith,I Don't Want To Miss A Thing EP,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",76,299760,False,0.39,0.649,2,-5.163,1,0.0345,0.172,0.0,0.216,0.144,121.16,4,hard-rock
+1OEoNpiyqBghuEUaT6Je6U,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),Patience,72,354880,True,0.457,0.297,6,-12.511,1,0.0306,0.686,0.000107,0.109,0.333,120.021,4,hard-rock
+3Jnxngdff0lVu2rza1GVx6,Black Sabbath,Paranoid,Paranoid (2009 - Remaster),42,167720,False,0.423,0.685,4,-9.651,0,0.078,6.28e-05,0.00642,0.133,0.328,162.78,4,hard-rock
+3JRi5bymnIQ2fhIetoOm3r,Charlie Brown Jr.,Acústico (Ao Vivo),Só Por Uma Noite - Ao Vivo,53,190400,False,0.568,0.94,4,-6.414,1,0.0402,0.0366,0.00314,0.735,0.738,114.873,4,hard-rock
+5Gs6NY7QTgEq77V3DtPagv,The Phantoms,The Fight,Unstoppable Now,44,221576,False,0.64,0.791,6,-5.342,1,0.0647,0.000627,0.0636,0.0802,0.311,129.997,4,hard-rock
+5MMnwYs0hIxkENRsbkWJ2G,Deep Purple,Machine Head (Remastered),Smoke On The Water - Remastered 2012,73,340742,False,0.598,0.676,0,-9.211,1,0.0279,0.13,0.225,0.112,0.805,114.169,4,hard-rock
+4OROzZUy6gOWN4UGQVaZMF,Iron Maiden,Piece of Mind (2015 Remaster),The Trooper - 2015 Remaster,75,252733,False,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,0.669,159.756,4,hard-rock
+3CMA6bdFwobZpvStfR2jls,Royal Blood,Rock - Best of 2022,Honeybrains,3,186847,False,0.523,0.8,9,-5.243,1,0.101,0.00537,0.0,0.398,0.604,125.886,3,hard-rock
+4JuKzBOcFT6ZDX1bINNI1C,Royal Blood,Hot Mix Pop,Honeybrains,1,186847,False,0.523,0.8,9,-5.243,1,0.101,0.00537,0.0,0.398,0.604,125.886,3,hard-rock
+6cE1curXkmm1ad2TeQmzdx,The Cars,80's,Drive,0,234493,False,0.579,0.608,6,-9.961,1,0.029,0.124,0.00148,0.151,0.499,111.441,5,hard-rock
+7em6T7mETpDEzyPg2UArtk,Royal Blood,Rock Brandneu,Honeybrains,0,186847,False,0.523,0.8,9,-5.243,1,0.101,0.00537,0.0,0.398,0.604,125.886,3,hard-rock
+0fgSNUfZsTNRpTZyRUA6cE,Misfits;Glenn Danzig,Rock & Halloween,Horror Business,1,165866,False,0.323,0.943,5,-8.451,1,0.0538,0.588,0.00529,0.227,0.0606,90.264,4,hard-rock
+11C22pEpoh1voyOsZ1SdkX,Whitesnake,Maintain Your Mojo,Fool for Your Loving,1,258146,False,0.586,0.906,0,-8.235,1,0.0564,0.000837,0.019,0.0958,0.748,122.133,4,hard-rock
+2L1WVCWCuhbc8IEIiJbrGl,Misfits,Spooky Scary Season,Halloween,2,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+4j9XFRR2CFAOn4Z4eIklBP,Misfits,Rock & Halloween,Halloween,3,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+3To5owsnumbjenW1G5j0VK,Los Prisioneros,Modo trabajación,Tren Al Sur,0,336933,False,0.676,0.67,9,-7.218,0,0.051,0.00565,0.00676,0.0805,0.725,90.232,4,hard-rock
+4jJ0RTLxottQzkwZaMIb25,Twisted Sister,80's,We're Not Gonna Take It (Single Version),0,217293,False,0.329,0.905,4,-7.206,1,0.0732,5.55e-05,3.95e-06,0.0654,0.626,149.377,4,hard-rock
+5Zk9paAVhGvRR1N0s3e0BA,Royal Blood,Maintain Your Mojo,Figure It Out,0,184053,False,0.657,0.817,0,-4.415,1,0.0554,0.262,0.00679,0.248,0.651,107.992,4,hard-rock
+4aqS25F3ywJ9TGnNkOqilC,Steve Miller Band,Halloween Hits,Abracadabra - Remastered 2017,2,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,hard-rock
+3GHDhZVRhSIrlWdgxch7uA,Alice Cooper,Halloween Spooky Party 2022,Teenage Frankenstein,0,214506,False,0.591,0.884,9,-10.861,0,0.0363,0.00188,7.88e-06,0.0775,0.685,130.147,4,hard-rock
+1zI8C6f7LURY0eD0gMuVVY,Misfits,Halloween Songs | Witches Hour,Halloween,2,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+4MCWSjTJyWPjJ9P8JCAMZL,The Cars,Maintain Your Mojo,Just What I Needed,0,225893,False,0.64,0.627,4,-9.048,1,0.0428,0.00948,0.000134,0.0764,0.793,127.07,4,hard-rock
+1bYI5bQggwEA4JAwr0qD31,Whitesnake,80's,Here I Go Again 87 - 2018 Remaster,0,275395,False,0.367,0.824,7,-6.763,1,0.0377,0.0121,8.55e-05,0.155,0.253,89.946,4,hard-rock
+54RIrgjhCmUvAwmUuDqJTA,Royal Blood,Top of the Rock,Honeybrains,0,186847,False,0.523,0.8,9,-5.243,1,0.101,0.00537,0.0,0.398,0.604,125.886,3,hard-rock
+7JOIlJ9KSPIr8SRK4zl8zj,Royal Blood,Alternative Rock Mixtape,Figure It Out,0,184053,False,0.657,0.817,0,-4.415,1,0.0554,0.262,0.00679,0.248,0.651,107.992,4,hard-rock
+7CtvStZdIOR3nRRbATB4Gd,Misfits,Happy Haunted Halloween Tunes,Halloween,1,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+3tI3SEykqxq2ielVBTWkpo,Thin Lizzy,70s Christmas Party,The Boys Are Back In Town,0,263146,False,0.457,0.87,8,-4.906,1,0.0711,0.292,1.67e-06,0.117,0.694,81.095,4,hard-rock
+6sSyHED31Nw3Blus6oSrU4,Misfits,Anthems for Witches 2022,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+0klYM8Q5GK4ygCJzukdsi3,Misfits,Pumpkin Patch Hits,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+1tIq1IvXMN4fPXNYQQenfn,Alice Cooper,Timeless Rock Hits,School's Out,0,210106,False,0.292,0.745,5,-9.138,1,0.0463,0.0506,0.125,0.675,0.347,134.077,4,hard-rock
+2W2FdBJVibxUT86HT7Dx5E,Misfits,Twisted Halloween Hits,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hard-rock
+5zLtABAGH8rxBXOyEgqCgl,Royal Blood,Timeless Rock Hits,Figure It Out,0,184053,False,0.657,0.817,0,-4.415,1,0.0554,0.262,0.00679,0.248,0.651,107.992,4,hard-rock
+4gZ0cdB30vF7gVsWlnMjHi,Whitesnake,Timeless Rock Hits,Fool for Your Loving,1,258146,False,0.586,0.906,0,-8.235,1,0.0564,0.000837,0.019,0.0958,0.748,122.133,4,hard-rock
+1uOe9m9bAiAY4kGnGDu1Ns,Los Prisioneros,Rock un sentimiento vol. I,Amiga Mía,0,244053,False,0.79,0.606,4,-7.699,1,0.0519,0.014,0.00488,0.133,0.903,135.276,4,hard-rock
+41cQE0wfKFnNV9dteynr92,Los Prisioneros,Modo trabajación,Estrechez De Corazón,0,383573,False,0.66,0.742,11,-8.08,1,0.034,0.00151,4.04e-06,0.15,0.46,130.271,4,hard-rock
+3KXW97hQNrLiObudx0b3ZI,Poison,Fishing Music,Every Rose Has Its Thorn - Remastered 2003,0,260160,False,0.533,0.647,6,-5.556,1,0.0332,0.161,1.18e-05,0.372,0.287,140.165,4,hard-rock
+6AJrjScRxKAzfImtWbCIaM,Thin Lizzy,Rock Workout 2023,The Boys Are Back In Town,0,263146,False,0.457,0.87,8,-4.906,1,0.0711,0.292,1.67e-06,0.117,0.694,81.095,4,hard-rock
+6dxbdD5E6SILwAfBk5NTC2,Los Prisioneros,Rock un sentimiento vol. I,Estrechez De Corazón,0,383573,False,0.66,0.742,11,-8.08,1,0.034,0.00151,4.04e-06,0.15,0.46,130.271,4,hard-rock
+4XYieGKSlJlHpzB3bl6WMP,Steve Miller Band,Helloween Party,Abracadabra - Remastered 2017,1,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,hard-rock
+48b3btPS19LeSIgOsA8q2c,Misfits,Halloween Spooky Party 2022,Halloween - Master Sound Productions 1980,0,106666,False,0.418,0.845,0,-12.182,1,0.0415,0.572,0.144,0.115,0.202,113.794,3,hard-rock
+0bNxdr2hiuRVA66Vzh6SzY,Misfits,Halloween Scary Party,Halloween - Master Sound Productions 1980,0,106666,False,0.418,0.845,0,-12.182,1,0.0415,0.572,0.144,0.115,0.202,113.794,3,hard-rock
+3Kk30svEH2XoNsEvM3jyOP,Los Prisioneros,Modo trabajación,Corazones Rojos,0,211626,False,0.775,0.507,2,-9.289,0,0.165,0.0015,3.34e-06,0.0677,0.752,92.229,4,hard-rock
+7HQb4hccUNRrB7tqQht0MH,Los Prisioneros,Rock un sentimiento vol. I,Tren Al Sur,0,336933,False,0.676,0.67,9,-7.218,0,0.051,0.00565,0.00676,0.0805,0.725,90.232,4,hard-rock
+6aUEWZkvcTFOpr8viqbRza,Los Prisioneros,Rock un sentimiento vol. I,Corazones Rojos,0,211626,False,0.775,0.507,2,-9.289,0,0.165,0.0015,3.34e-06,0.0677,0.752,92.229,4,hard-rock
+3s0JQVCSayMTDBlpC9Hub6,Los Prisioneros,Rock un sentimiento vol. I,El Baile De Los Que Sobran,0,343701,False,0.818,0.621,0,-12.274,1,0.0528,0.297,2.5e-05,0.111,0.642,117.343,4,hard-rock
+0FbZgT0gzFe6VCAZdhtFT5,Twisted Sister,Timeless Rock Hits,We're Not Gonna Take It,0,219666,False,0.502,0.925,4,-6.298,1,0.0501,0.0129,0.0,0.162,0.923,149.188,4,hard-rock
+2XzziOT8OUGrDnnveRpxwI,Los Prisioneros,Fiesta temática 80s,Muevan Las Industrias,0,248893,False,0.686,0.604,11,-14.24,0,0.037,0.12,0.496,0.0907,0.553,152.474,4,hard-rock
+6zeE5tKyr8Nu882DQhhSQI,Kansas,Point Of Know Return (Expanded Edition),Dust in the Wind,78,206266,False,0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503,4,hard-rock
+1JLn8RhQzHz3qDqsChcmBl,Foreigner,Agent Provocateur,I Want to Know What Love Is - 1999 Remaster,79,304786,False,0.477,0.471,6,-10.036,1,0.0277,0.193,1.76e-06,0.131,0.423,81.204,4,hard-rock
+0gaMmmhGi5buPXpquSAfxg,Rainbow,Ritchie Blackmore's Rainbow,The Temple Of The King,64,282013,False,0.486,0.487,9,-11.633,0,0.0341,0.445,1.44e-05,0.0648,0.373,81.972,4,hard-rock
+5EWPGh7jbTNO2wakv8LjUI,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,Free Bird,77,547106,False,0.249,0.834,0,-8.21,1,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223,4,hard-rock
+1bKQ48M9onID2kbSpRy8kK,Scorpions,Crazy World,Send Me An Angel,70,273333,False,0.153,0.417,1,-11.587,1,0.0318,0.434,0.000622,0.211,0.166,80.87,3,hard-rock
+5IX4TbIR5mMHGE4wiWwKW0,Metallica,...And Justice For All,One,73,447440,False,0.437,0.695,7,-9.447,1,0.0617,0.00111,0.0857,0.124,0.413,102.178,3,hard-rock
+5nekfiTN45vlxG0eNJQQye,Metallica,Ride The Lightning (Deluxe / Remastered),Fade To Black - Remastered,69,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,hard-rock
+4aYLAF6ckQ5ooGGGM7sWAa,Metallica,Metallica,The Unforgiven,74,386493,False,0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,4,hard-rock
+2dXsILW8gzkosqleHAvl0v,Metallica,Ride The Lightning (Remastered),For Whom The Bell Tolls - Remastered,73,309973,False,0.518,0.858,0,-6.147,1,0.0672,0.00563,0.00349,0.0598,0.249,117.897,4,hard-rock
+3IjrDeaVRFEi3GgHI5xyjX,KISS,"Smashes, Thrashes And Hits",Detroit Rock City,70,227466,False,0.454,0.847,0,-10.981,0,0.115,0.00953,0.000285,0.15,0.317,90.291,4,hard-rock
+3qT4bUD1MaWpGrTwcvguhb,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Black Dog - Remaster,74,295386,False,0.437,0.864,4,-7.842,0,0.0904,0.396,0.0314,0.242,0.749,81.394,4,hard-rock
+6ZkeNE5zlcl13PbnzXdw38,Charlie Brown Jr.,Acústico (Ao Vivo),Tudo Pro Alto - Ao Vivo,48,184093,False,0.474,0.983,10,-5.498,0,0.0598,0.0182,0.000128,0.691,0.725,92.68,4,hard-rock
+3qiyyUfYe7CRYLucrPmulD,The Who,Who's Next (Deluxe Edition),Baba O'Riley,76,300400,False,0.489,0.724,5,-8.367,1,0.0352,0.313,0.185,0.287,0.15,117.292,4,hard-rock
+2aoo2jlRnM3A0NyLQqMN2f,Jimi Hendrix,Electric Ladyland,All Along the Watchtower,77,240800,False,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,4,hard-rock
+2HegWuw33lBqopjopozt7N,Charlie Brown Jr.,Acústico (Ao Vivo),O Preço - Ao Vivo,51,193933,False,0.417,0.959,3,-5.853,0,0.154,0.0741,0.000243,0.764,0.522,82.771,4,hard-rock
+2R6UrJ8uWbSIiHWmvRQvN8,Metallica,Garage Inc.,Whiskey In The Jar,75,304693,False,0.511,0.97,10,-3.72,1,0.0414,5.6e-06,0.00136,0.18,0.566,132.986,4,hard-rock
+6Vjk8MNXpQpi0F4BefdTyq,Led Zeppelin,Physical Graffiti (Deluxe Edition),Kashmir - Remaster,71,517125,False,0.483,0.615,2,-8.538,1,0.0497,0.452,0.000414,0.0512,0.594,80.576,3,hard-rock
+7ACxUo21jtTHzy7ZEV56vU,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Crazy Train,78,293183,False,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,4,hard-rock
+2m2QV4YsDoVNQ9Y6THdSg4,Charlie Brown Jr.,Imunidade Musical,Aquela Paz,49,176960,False,0.586,0.487,11,-9.29,1,0.0341,0.769,0.0001,0.181,0.693,123.897,5,hard-rock
+2ScU6iEvgb0TIuKiyem9rg,Charlie Brown Jr.,Acústico (Ao Vivo),Proibida Pra Mim (Grazon) - Ao Vivo,48,151666,False,0.345,0.976,8,-4.74,1,0.0487,0.000587,0.0507,0.487,0.818,181.121,4,hard-rock
+3N5Cdovy1BB8Wv7qMBwxtS,Skid Row,80's,18 and Life,0,231280,False,0.457,0.794,1,-6.624,0,0.0298,0.000384,7.18e-05,0.131,0.354,90.439,4,hard-rock
+0C80GCp0mMuBzLf3EAXqxv,AC/DC,Back In Black,Shoot to Thrill,73,317426,False,0.457,0.904,2,-5.303,1,0.0747,0.000239,0.0879,0.396,0.48,141.038,4,hard-rock
+1aKSNq3Skm9MIIksjx5bFy,Charlie Brown Jr.,De 1997 A 2007,Vícios E Virtudes - Ao Vivo,51,189413,False,0.378,0.916,8,-7.516,1,0.0921,0.024,0.000381,0.988,0.622,93.065,4,hard-rock
+0D0ZwI5RWUb9l1GQMmRS5R,Skid Row,Metal,Slave to the Grind,0,207666,False,0.491,0.964,7,-8.105,1,0.0981,3.77e-06,0.542,0.196,0.352,133.238,4,hard-rock
+1q9uTG5Iefik70vEI3NuVF,Styx,On air 70's Hits,Babe,0,265760,False,0.291,0.286,2,-9.854,1,0.0276,0.581,0.0,0.0876,0.081,83.094,4,hard-rock
+5XbjnXDZgLSLTfh1R8L7vM,Faith No More,80's,Epic - Radio Edit,0,239360,False,0.487,0.889,4,-7.998,0,0.073,0.101,0.0274,0.157,0.265,87.138,4,hard-rock
+6EoazBH1iowT7D1ftB24F0,Styx,Sweet Home Alabama,First Time,0,265133,False,0.269,0.386,0,-9.557,1,0.0335,0.286,0.0,0.126,0.156,77.882,4,hard-rock
+48Yn5OAlrve8PAhxDhTNUQ,Twisted Sister,Metal,Under the Blade,0,279533,False,0.304,0.89,9,-3.992,0,0.122,0.00143,0.00113,0.104,0.433,194.289,4,hard-rock
+2Qo2hmuW1jZrkJAW1Zb9Zf,Skid Row,Rock n Roll Christmas,Jingle Bells,0,182026,False,0.582,0.918,11,-6.118,1,0.0369,0.00673,0.0,0.114,0.792,89.994,4,hard-rock
+4vLKK3zcFEyNlASInxpi0k,Styx,Best 70s Rock Tunes,First Time,0,265133,False,0.269,0.386,0,-9.557,1,0.0335,0.286,0.0,0.126,0.156,77.882,4,hard-rock
+1mtev3SN07O0NpNd6j0g5L,Styx,Best 70s Rock Tunes,First Time,0,265133,False,0.269,0.386,0,-9.557,1,0.0335,0.286,0.0,0.126,0.156,77.882,4,hard-rock
+59mGCC08pYEwStwO3oTLfH,Faith No More,Metal,War Pigs,0,465933,False,0.323,0.891,6,-7.018,0,0.119,0.00126,0.0187,0.243,0.235,97.373,4,hard-rock
+6h2G7Qd4yuj2vB15K8K4L4,Styx,Best 70s Rock Tunes,First Time,0,265133,False,0.269,0.386,0,-9.557,1,0.0335,0.286,0.0,0.126,0.156,77.882,4,hard-rock
+61202Zzk9rk4bPMZLh2gr6,Allman Brothers Band,Fiesta temática 60s,Trouble No More,0,227751,False,0.556,0.567,9,-11.426,0,0.0333,0.0577,0.00144,0.0907,0.856,141.348,4,hard-rock
+3F8dSAI8l3euloq5a8EenB,Faith No More,Maintain Your Mojo,Epic,0,293933,False,0.358,0.899,4,-7.069,0,0.134,0.0112,0.122,0.195,0.27,174.298,4,hard-rock
+02IzKHWkGVtNMdPoOAxHb3,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,hard-rock
+63Slke1vlnpTejDeluhyQ9,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,hard-rock
+5Yi7LVz0rVo2aYN34Hyv1U,Cream,(60's) Sixties Collected Volume 2,I Feel Free - Remastered,0,172760,False,0.371,0.601,9,-8.431,1,0.0277,0.137,5.53e-05,0.15,0.596,87.975,4,hard-rock
+36NwMJRaCy7x77xYGJiG2M,Allman Brothers Band,Fishing Music,Midnight Rider,1,177960,False,0.346,0.589,7,-9.922,1,0.036,0.21,0.00703,0.15,0.638,189.486,4,hard-rock
+4i1yYq5iePF1LumT6Cf0Lg,Styx,Best 70s Rock Tunes,Lady,0,177680,False,0.393,0.678,7,-6.584,1,0.0377,0.172,0.0,0.0727,0.358,137.527,4,hard-rock
+5FcQcDHuwpzP70vhlCqVi2,Steppenwolf,Fiesta temática 60s,The Pusher,0,349826,False,0.508,0.47,0,-9.339,1,0.0262,0.201,0.0553,0.14,0.69,81.016,4,hard-rock
+708Uixk0Tquy1ufCGgk3mJ,Matanza,A Arte do Insulto,Eu Não Gosto de Ninguém,49,231760,False,0.41,0.951,9,-4.762,1,0.0556,2.99e-05,0.0,0.187,0.61,164.088,4,hard-rock
+5z7GGdAezDWdJxBlAM4Hkf,Steppenwolf,On air 70's Hits,Hey Lawdy Mama - Single Version,0,178760,False,0.589,0.831,4,-12.373,1,0.0615,0.0195,2.41e-05,0.0635,0.511,98.813,4,hard-rock
+2Pn03PIZpWIt34wML20qst,Cheap Trick,Christmas Rock 2022,Christmas Christmas,0,136480,False,0.331,0.942,9,-3.968,1,0.141,0.00228,0.00524,0.0974,0.143,180.372,4,hard-rock
+0SLjeqwh5iy8DZcaGNIaHJ,Faith No More,Timeless Rock Hits,King for a Day,1,395093,False,0.421,0.871,11,-9.193,1,0.0351,0.00608,0.411,0.19,0.384,102.383,4,hard-rock
+0cqSyvAg0a9qpcdHjSX2qw,Cream,Fiesta temática 60s,Sunshine Of Your Love,0,250240,False,0.683,0.522,2,-11.117,1,0.0377,0.507,0.000137,0.121,0.764,115.072,4,hard-rock
+6I1xKOKLWzxIuauemavcz3,Titãs,Ressaquinha,Não vou me adaptar,0,221733,False,0.536,0.399,10,-7.579,1,0.0319,0.307,0.000327,0.105,0.476,81.371,4,hard-rock
+5dva7BVCxokQMBpa6c3iBi,Titãs,Só as Melhores do Pop Rock Brasileiro,Família,0,249866,False,0.558,0.683,7,-6.061,1,0.0807,0.0248,7.85e-05,0.062,0.624,79.508,4,hard-rock
+5Jq8ISsgnm2mPRqJi1swaZ,Steppenwolf,Обратно в клас - rock,Born To Be Wild - Single Version,1,216693,False,0.468,0.81,9,-8.33,1,0.0724,0.00169,0.0314,0.567,0.464,145.589,4,hard-rock
+1wyzGqooLn3uYe9ejz2VOi,Titãs,Só as Melhores do Pop Rock Brasileiro,Domingo,0,253666,False,0.617,0.771,7,-8.601,1,0.0328,0.00832,0.000115,0.301,0.881,140.211,4,hard-rock
+3E7heceGl4ojbkWXyBiLSL,Charlie Brown Jr.,Me Namora,Céu Azul,48,198786,False,0.68,0.598,1,-6.147,0,0.027,0.61,0.0,0.106,0.62,120.09,4,hard-rock
+225xvV8r1yKMHErSWivnow,Aerosmith,Armageddon - The Album,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",74,298760,False,0.383,0.662,2,-5.162,1,0.0333,0.165,0.0,0.248,0.138,121.154,4,hard-rock
+1xJzbzp1WnkVmCkkC5RxEE,Slash;Myles Kennedy And The Conspirators,Apocalyptic Love (Deluxe Edition),Anastasia,34,367280,False,0.449,0.936,1,-5.447,1,0.0445,0.000595,0.00213,0.118,0.437,100.487,4,hard-rock
+5e3YOg6fIkP0wD5TyxcHOH,Living Colour,Vivid (Expanded Edition),Cult of Personality,68,294826,False,0.504,0.918,0,-3.463,1,0.0517,0.00164,2.12e-05,0.78,0.539,92.031,4,hard-rock
+6RG9WyeGTkM1xwI2gzUhbH,Scorpions,Lovedrive,Always Somewhere (2015 - Remaster),35,297520,False,0.497,0.51,0,-7.3,1,0.0299,0.0902,0.00142,0.147,0.198,113.074,4,hard-rock
+65HA9FsYyA2xro9RzNlNmy,Mötley Crüe,Dr. Feelgood,Kickstart My Heart,36,282653,False,0.363,0.982,7,-3.621,0,0.3,0.00123,0.00218,0.284,0.275,179.23,4,hard-rock
+2kDH08boXJyhKMl5hnZbrE,Firehouse,Firehouse,Love of a Lifetime,62,286573,False,0.472,0.48,1,-11.893,1,0.0308,0.000204,0.00275,0.0914,0.126,123.023,4,hard-rock
+54b8qPFqYqIndfdxiLApea,Heart,Bad Animals,Alone,75,218733,False,0.418,0.452,1,-13.099,1,0.0356,0.638,0.00026,0.0959,0.168,175.088,4,hard-rock
+6KTv0Z8BmVqM7DPxbGzpVC,KISS,Dressed To Kill,Rock And Roll All Nite,77,168840,False,0.654,0.929,1,-5.906,1,0.0998,0.0468,0.0,0.0539,0.902,144.774,4,hard-rock
+47RAxX2yfiZWmsNKLvjQON,Firehouse,Good Acoustics,I Live My Life for You,62,261906,False,0.513,0.522,1,-7.569,1,0.0295,0.0634,0.0,0.121,0.336,141.833,4,hard-rock
+4DMKwE2E2iYDKY01C335Uw,Kansas,Leftoverture (Expanded Edition),Carry on Wayward Son,76,323000,False,0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755,4,hard-rock
+7B6FA3U2qUcV1gzWE6lTrR,Guns N' Roses,Double Talkin' Jive / You Could Be Mine,"You Could Be Mine - Live In New York, Ritz Theatre - May 16, 1991",0,362813,True,0.241,0.995,5,-3.039,0,0.188,0.000455,0.0237,0.694,0.147,157.779,4,hard-rock
+1QEEqeFIZktqIpPI4jSVSF,Boston,Boston,More Than a Feeling,79,285133,False,0.377,0.681,7,-8.039,1,0.0298,0.00088,0.0023,0.0504,0.285,108.789,4,hard-rock
+2EoOZnxNgtmZaD8uUmz2nD,Soundgarden,Superunknown (Deluxe Edition),Black Hole Sun,77,318586,False,0.35,0.828,6,-5.373,1,0.041,0.000217,0.000161,0.0774,0.147,105.435,4,hard-rock
+74irxdVWstNlEQjsvArITq,Aerosmith,Get A Grip,Crazy,75,316693,False,0.37,0.866,6,-3.879,0,0.0384,0.0868,0.0,0.137,0.427,162.086,3,hard-rock
+0cKk8BKEi7zXbdrYdyqBP5,The Who,Who's Next (Deluxe Edition),Behind Blue Eyes,71,221426,False,0.394,0.622,4,-8.258,0,0.0336,0.213,4.45e-05,0.0892,0.342,126.844,4,hard-rock
+63OFKbMaZSDZ4wtesuuq6f,Steppenwolf,Steppenwolf,Born To Be Wild,73,210373,False,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928,4,hard-rock
+6p8eFfPw3nQkf37aT3AkmK,Iron Maiden,Fear of the Dark (2015 Remaster),Fear of the Dark - 2015 Remaster,72,438120,False,0.308,0.866,2,-5.671,0,0.059,0.000739,0.00141,0.232,0.227,109.825,4,hard-rock
+1yJWqYYDQge60nZKdLyiZU,Firehouse,Hold Your Fire,When I Look Into Your Eyes,61,239866,False,0.396,0.612,6,-8.039,1,0.0277,0.00288,4.71e-05,0.233,0.241,146.759,4,hard-rock
+0S3gpZzlT9Hb7CCSV2owX7,Ozzy Osbourne,No More Tears (Expanded Edition),"Mama, I'm Coming Home",69,251866,False,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352,4,hard-rock
+70YvYr2hGlS01bKRIho1HM,ZZ Top,Tres Hombres (Expanded 2006 Remaster),La Grange - 2005 Remaster,77,230480,False,0.545,0.64,4,-9.937,0,0.224,0.00249,0.0304,0.196,0.606,80.544,4,hard-rock
+755bvJDSA3LNcNuFgBT9LK,Black Sabbath,Paranoid,Iron Man (2009 - Remaster),37,354213,False,0.334,0.828,9,-9.168,1,0.0985,0.00312,0.0043,0.0949,0.515,157.891,4,hard-rock
+5WwqdeavrQrbeAMDxGawse,REO Speedwagon,Wheels Are Turnin',Can't Fight This Feeling,73,294773,False,0.408,0.48,9,-11.017,1,0.0266,0.155,1.82e-05,0.0877,0.19,156.344,4,hard-rock
+4qFgFSv8kYaM9zE2W5uPGX,Guns N' Roses,Double Talkin' Jive / You Could Be Mine,"Double Talkin' Jive - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",0,520000,True,0.293,0.902,11,-6.538,1,0.0564,0.000566,0.712,0.446,0.278,104.193,4,hard-rock
+2hRNxkgCScd5yxbTsrGQR4,Charlie Brown Jr.,Acústico (Ao Vivo),Vinheta: Beat Box II / Como Tudo Deve Ser - Ao Vivo,48,282333,False,0.544,0.596,1,-10.325,0,0.059,0.226,1.17e-05,0.989,0.794,80.96,4,hard-rock
+7N3PAbqfTjSEU1edb2tY8j,Van Halen,1984 (Remastered),Jump - 2015 Remaster,78,241599,False,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,4,hard-rock
+0PdM2a6oIjqepoEfcJo0RO,Def Leppard,Hysteria (Super Deluxe),Pour Some Sugar On Me - Remastered 2017,74,267306,False,0.267,0.953,1,-4.899,0,0.096,0.00211,0.0,0.283,0.568,84.989,4,hard-rock
+4to8RSl1qZa7q3X8z4nOk3,Charlie Brown Jr.,De 1997 A 2007,Pontes Indestrutíveis,48,209084,False,0.729,0.711,7,-8.04,1,0.119,0.248,0.0,0.198,0.808,159.019,4,hard-rock
+2d4e45fmUnguxh6yqC7gNT,AC/DC,Dirty Deeds Done Dirt Cheap,Dirty Deeds Done Dirt Cheap,74,231933,False,0.668,0.906,11,-4.881,0,0.17,0.214,0.00245,0.135,0.507,135.653,4,hard-rock
+7sC2sL3Q5cZswDQJfnlfOt,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,Tudo Pro Alto,48,203093,False,0.215,0.945,10,-7.201,0,0.0798,0.000639,0.453,0.204,0.603,179.079,4,hard-rock
+3QoydK0LFOpK0JnfIpCffR,Charlie Brown Jr.,Acústico (Ao Vivo),O Coro Vai Come - Ao Vivo,48,128106,False,0.511,0.981,0,-5.329,0,0.0579,0.0301,0.0612,0.747,0.896,172.968,4,hard-rock
+7dZq3hxakgytMDpxK0QNhR,Charlie Brown Jr.,Acústico (Ao Vivo),Tudo Que Ela Gosta De Escutar - Ao Vivo,48,190960,False,0.513,0.89,5,-5.253,0,0.0728,0.0319,0.00108,0.687,0.73,122.698,4,hard-rock
+2VTgVKaabe96ezuyDW5ugq,Charlie Brown Jr.;RZO,Acústico (Ao Vivo),A Banca (Ratatá É Bicho Solto) - Ao Vivo,47,240200,False,0.557,0.898,11,-5.109,0,0.25,0.551,0.0,0.81,0.827,109.246,4,hard-rock
+1w68dw4EgQy5aUgpBuZQVj,Charlie Brown Jr.,Acústico (Ao Vivo),Quinta-Feira - Ao Vivo,47,317160,False,0.394,0.834,11,-6.658,1,0.0632,0.142,0.00107,0.919,0.834,147.975,4,hard-rock
+6Uk9E5Ps5FvtYDpmjZ4EeI,Pitty,(Des) Concerto Ao Vivo,Pulsos - Ao Vivo,47,280093,False,0.454,0.851,0,-5.436,1,0.054,0.153,3.49e-06,0.877,0.126,125.05,4,hard-rock
+1hqiUgSEsjZlpQPZ85I61N,Charlie Brown Jr.,Transpiração Contínua Prolongada - Edição Comemorativa,Quinta-Feira,47,290200,False,0.724,0.646,11,-4.495,1,0.0658,0.0977,0.179,0.0647,0.824,143.674,4,hard-rock
+31uiFApsv5BVunx9bypX6u,Charlie Brown Jr.;Marcelo Nova,Acústico (Ao Vivo),Hoje - Ao Vivo,48,262533,False,0.589,0.967,8,-6.05,1,0.0751,0.0163,5.83e-06,0.84,0.44,114.154,4,hard-rock
+7KaqcST5QdMTGPCKWW9ayv,Machine Head,Metal,Davidian,0,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,hard-rock
+71DzeSJmIaZ9UhJ1rJJ5Od,38 Special,Fishing Music,Caught Up In You,3,278133,False,0.361,0.787,1,-4.982,0,0.0363,0.0197,0.000586,0.0421,0.889,130.693,4,hard-rock
+6u3HTPvOxhVWllNhu07vvA,38 Special,80s Bangers Vol. 2,Hold On Loosely,0,279754,False,0.565,0.707,9,-5.65,1,0.0298,0.0101,8.16e-05,0.0851,0.831,127.222,4,hard-rock
+7JhZEc8jAwdweCixk0Vpfp,Slash;Myles Kennedy,Rock & Halloween,Sweet Child O' Mine - Live,1,388853,False,0.361,0.941,6,-6.686,1,0.069,0.0296,0.00697,0.933,0.442,128.795,4,hard-rock
+5cUH0jGZStImc41LbHSjhA,Machine Head,Groove Metal Roots & Branches,Davidian,1,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,hard-rock
+2MzlgCHg6QlImyLeT38B5A,Billy Squier,Christmas Playlist 2022,"Christmas Is The Time To Say ""I Love You""",0,174780,False,0.505,0.687,1,-11.207,1,0.0462,0.234,0.0,0.874,0.72,104.315,4,hard-rock
+3dAiWRwZXd8pEOhItkkZXb,Bachman-Turner Overdrive,Fiesta temática 70s,Hey You,0,210893,False,0.491,0.849,9,-5.188,1,0.0309,0.0526,0.0094,0.274,0.932,118.161,4,hard-rock
+2JuMBpiZmsz9NKeRdDxiCw,Billy Squier,Rock n Roll Christmas,"Christmas Is The Time To Say ""I Love You""",0,174780,False,0.505,0.687,1,-11.207,1,0.0462,0.234,0.0,0.874,0.72,104.315,4,hard-rock
+7dpqyGseVaTFPXIsAQPyCg,George Thorogood & The Destroyers,Christmas Rock 2022,Rock And Roll Christmas,0,204720,False,0.348,0.981,11,-5.02,1,0.137,0.00479,0.0883,0.0905,0.704,182.456,4,hard-rock
+2wmofaCfAaF9hdjEXmdfTO,Charlie Brown Jr.,Chegou Quem Faltava - Versão Completa (Ao Vivo),Confisco - Ao Vivo - Chegou Quem Faltava,47,181333,False,0.504,0.969,1,-5.439,1,0.11,0.000395,0.154,0.96,0.389,131.367,4,hard-rock
+2Bhq7YTxIZgkdbmRC1tZSZ,Three Dog Night,On air 70's Hits,An Old Fashioned Love Song - Single Version,0,226600,False,0.456,0.555,10,-10.615,1,0.0369,0.508,0.0194,0.106,0.776,101.31,4,hard-rock
+25GlfPUk2HGcaomdxFSktV,Three Dog Night,Fiesta temática 70s,An Old Fashioned Love Song - Single Version,0,226600,False,0.456,0.555,10,-10.615,1,0.0369,0.508,0.0194,0.106,0.776,101.31,4,hard-rock
+2laJdkltxYwwCJanm7yBnn,Raimundos;Érica Martins,Só as Melhores do Pop Rock Brasileiro,A mais pedida,0,233733,False,0.538,0.825,0,-4.021,1,0.0478,0.0105,1.43e-05,0.0693,0.467,125.056,4,hard-rock
+5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,62,225546,False,0.175,0.995,6,1.023,0,0.211,0.000145,2.5e-06,0.214,0.303,184.066,4,hard-rock
+2PFIZFcGry0po3ZfRZkzKc,Def Leppard,Hysteria,Hysteria,70,354636,False,0.659,0.846,7,-5.508,1,0.0274,0.0318,0.0144,0.203,0.659,107.01,4,hard-rock
+2HHF8es4MShLvMiDgOq3Z5,Firehouse,3,Here for You,55,235826,False,0.565,0.651,6,-8.611,1,0.0239,0.193,0.0,0.062,0.504,92.028,4,hard-rock
+6nswV1Lz3OZkaiCJfmVUOa,Metallica,Reload,The Unforgiven II,66,396440,False,0.497,0.89,8,-4.559,0,0.0445,0.00055,0.00129,0.255,0.249,133.047,4,hard-rock
+78PKCefXwDLbl4FVO1Pjzh,Ozzy Osbourne,Down To Earth,Dreamer,63,284906,False,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419,4,hard-rock
+0qgrrDnUUhyxpxbBznUnzg,Skid Row,Skid Row,18 and Life,70,229960,False,0.466,0.648,1,-11.101,0,0.028,0.0023,1.49e-05,0.112,0.305,90.435,4,hard-rock
+29wJiSQcze8HEmxkUQykyp,Europe,The Final Countdown (Expanded Edition),Carrie,70,272133,False,0.455,0.487,7,-7.112,1,0.0264,0.114,2.43e-06,0.358,0.139,136.482,4,hard-rock
+2kkvB3RNRzwjFdGhaUA0tz,Derek & The Dominos,Layla And Other Assorted Love Songs (Remastered 2010),Layla,74,423840,False,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,4,hard-rock
+2kj5f1eRhUFhW6K0qUwoD8,Mr. Big,Bump Ahead [Expanded],Wild World - 2009 Remastered Version,65,208560,False,0.573,0.722,5,-6.518,1,0.0295,0.182,0.0,0.29,0.59,144.209,4,hard-rock
+6FUwPb4mGlUDbx42uspXaZ,Metallica,Reload,Fuel,71,269800,True,0.49,0.951,1,-3.777,1,0.0477,2.02e-05,0.0027,0.0314,0.589,106.946,4,hard-rock
+1Eolhana7nKHYpcYpdVcT5,Jimi Hendrix,Axis: Bold As Love,Little Wing,71,145746,False,0.515,0.534,6,-8.045,1,0.0768,0.181,0.00278,0.0547,0.426,70.776,4,hard-rock
+7fcfNW0XxTWlwVlftzfDOR,Pantera,Vulgar Display of Power,Walk,74,315120,True,0.43,0.704,1,-8.008,0,0.0804,0.000155,0.00221,0.0933,0.703,118.242,4,hard-rock
+1PhLYngBKbeDtdmDzCg3Pb,Metallica,Metallica,Sad But True,71,323933,False,0.633,0.846,7,-6.347,1,0.0337,0.000819,0.00139,0.0762,0.448,89.23,4,hard-rock
+4ZpXHlV2vQVfPXUvbDSZ92,Skid Row,Skid Row,I Remember You,69,313693,False,0.345,0.531,0,-12.708,1,0.0305,0.00642,7.28e-06,0.14,0.49,176.302,4,hard-rock
+0DnGfA1r8pAssJCuq4ojla,Gary Moore,Still Got The Blues,Still Got The Blues,68,370866,False,0.189,0.39,9,-14.497,0,0.0353,0.257,0.000152,0.122,0.32,169.563,3,hard-rock
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,hard-rock
+4feXJ5IC3avXsVW9WNFSag,AC/DC,Black Ice,Rock N Roll Train,71,261506,False,0.547,0.931,2,-2.356,1,0.0615,0.000998,0.0118,0.278,0.697,118.4,4,hard-rock
+4YwR2G26Pp5jNUX3gN3EIP,Def Leppard,The Story So Far: The Best Of Def Leppard,When Love And Hate Collide,61,256866,False,0.477,0.564,4,-8.582,1,0.028,0.0111,0.0,0.254,0.292,67.965,4,hard-rock
+43GS3mtezoIFiuIZCLLiDY,Poison,Open Up And Say...Ahh! (20th Anniversary Edition),Every Rose Has Its Thorn - Remastered 2003,71,260173,False,0.533,0.637,6,-5.571,1,0.0323,0.16,1.12e-05,0.369,0.292,140.167,4,hard-rock
+5QTxFnGygVM4jFQiBovmRo,Blue Öyster Cult,Agents Of Fortune,(Don't Fear) The Reaper,76,308120,False,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466,4,hard-rock
+51TG9W3y9qyO8BY5RXKgnZ,Megadeth,Countdown To Extinction,Symphony Of Destruction,74,246733,False,0.61,0.891,4,-5.452,0,0.0587,0.000805,0.0928,0.0657,0.51,139.903,4,hard-rock
+4Zc7TCHzuNwL0AFBlyLdyr,Iron Maiden,The Number of the Beast (2015 Remaster),Run to the Hills - 2015 Remaster,72,233506,False,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,0.458,173.671,4,hard-rock
+469rBLYJUZHMJLtq2Wch3h,Iron Maiden,The Number of the Beast (2015 Remaster),Hallowed Be Thy Name - 2015 Remaster,68,431093,False,0.313,0.882,0,-6.215,1,0.0355,0.0346,0.338,0.45,0.3,103.981,4,hard-rock
+3uMmllZo1AfoEnVT4ENCD3,Deep Purple,Machine Head (Remastered),Highway Star - Remastered 2012,67,366136,False,0.307,0.909,9,-7.08,0,0.0574,0.135,0.0336,0.125,0.443,173.674,4,hard-rock
+2RaA6kIcvomt77qlIgGhCT,Judas Priest,British Steel,Breaking the Law,72,153840,False,0.362,0.961,2,-5.664,1,0.0857,0.024,9.35e-06,0.159,0.491,164.019,4,hard-rock
+69QHm3pustz01CJRwdo20z,AC/DC,Back In Black,Hells Bells,74,312293,False,0.389,0.873,4,-4.768,0,0.0475,0.00532,0.0055,0.273,0.303,106.767,4,hard-rock
+0lWsB8RdihOrwXTNZ8shIe,The J. Geils Band,R'n'B Studying,On Borrowed Time,0,184373,False,0.511,0.42,2,-7.686,1,0.0418,0.633,0.000267,0.0417,0.405,129.544,3,hard-rock
+6Eg6mlmavrJxtMGW5HxMUb,Planet Hemp,A Invasão do Sagaz Homem Fumaça,Ex-Quadrilha da Fumaça,46,185360,False,0.549,0.945,1,-4.534,1,0.295,0.00636,0.0,0.106,0.453,105.3,4,hard-rock
+7b3OfGX7LuIyTBk6FMdagF,Mastodon,Metal Lives!,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,hard-rock
+3h9GZzBBrtQkQQOJmZNnQN,Matanza,A Arte do Insulto,Meio Psicopata,45,137306,False,0.399,0.995,11,-3.916,0,0.111,5.8e-05,0.0,0.0231,0.395,92.414,4,hard-rock
+5PvFiy6gfcrs6n4ki8vFqS,Mastodon,Metal,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,hard-rock
+55Kb9jM9W9s9axYfaZ8Op1,Derek & The Dominos,On air 70's Hits,Layla - 40th Anniversary Version / 2010 Remastered,1,423840,False,0.403,0.903,1,-3.88,1,0.0664,0.574,0.305,0.287,0.498,115.669,4,hard-rock
+2Ey6v4Sekh3Z0RUSISRosD,Derek & The Dominos,70s Christmas Party,Layla,0,423680,False,0.459,0.89,1,-3.246,1,0.0487,0.451,0.11,0.306,0.447,115.654,4,hard-rock
+5BI1XqMJK91dsEq0Bfe0Ov,Peter Frampton,On air 70's Hits,Show Me The Way,0,243266,False,0.7,0.726,2,-7.717,1,0.0329,0.436,1.11e-06,0.0914,0.64,130.11,4,hard-rock
+5ITw1gs95vZpnZlS0JUwkS,Dorothy,Anthems for Witches 2022,Wicked Ones,0,173901,False,0.563,0.647,5,-4.675,1,0.0398,0.0337,0.0,0.359,0.691,96.386,4,hard-rock
+1naVNubDGnYRnlayKdz08s,White Zombie,Halloween Metal Nights,Thunder Kiss '65,1,234466,False,0.636,0.937,9,-3.94,1,0.044,0.00117,0.000223,0.54,0.395,112.641,4,hard-rock
+6bzWr3EpSEolVwlbLk58il,Jane's Addiction,Maintain Your Mojo,Mountain Song,0,242720,False,0.218,0.932,9,-6.803,1,0.098,0.0155,0.0246,0.277,0.315,167.718,4,hard-rock
+1235OqEAiQvJp7jAmc96dN,Matanza,Música para Beber e Brigar,Bom É Quando Faz Mal,46,169106,False,0.501,0.974,5,-2.371,1,0.0909,0.0184,0.0,0.351,0.588,167.999,4,hard-rock
+3hNyVKzZ1c26umuL3K5WEX,Titãs,As Grandes Décadas Da Música Popular Brasileira,Enquanto Houver Sol,47,183093,False,0.665,0.596,4,-3.896,1,0.0267,0.149,4.84e-05,0.327,0.207,115.265,4,hard-rock
+5kW4weQet1sxEKE9wJngDJ,Mastodon,Top of the Rock,Teardrinker,0,320507,False,0.457,0.979,5,-3.836,1,0.0485,9.8e-06,0.119,0.123,0.227,127.006,4,hard-rock
+2oPv5XfZvGsPD8m7oBl5aJ,The Moody Blues,Fiesta temática 60s,The Night,0,446480,False,0.132,0.42,4,-7.761,0,0.0368,0.209,0.00293,0.11,0.185,45.857,4,hard-rock
+64n3vgI6JuqMv7F2H7kYdX,Acústicos & Valvulados,Diamantes Verdadeiros,Fim de Tarde Com Você,46,230986,False,0.503,0.722,7,-5.813,1,0.0248,0.00214,8.15e-06,0.116,0.616,99.966,4,hard-rock
+6OsUmsYsq6FxzWdG6Wr89X,White Zombie,Halloween Spooky Party 2022,More Human Than Human,0,269693,True,0.659,0.961,6,-5.568,1,0.0829,0.000425,0.423,0.105,0.537,101.368,4,hard-rock
+0Qnr5TKNz4vlYwlSBhtv8y,White Zombie,Halloween Spooky Party 2022,"I'm Your Boogieman - From ""The Crow: City Of Angels"" Soundtrack",0,267573,False,0.645,0.985,1,-3.715,1,0.111,0.00113,0.0102,0.223,0.446,113.934,4,hard-rock
+7qzsvHOsaJdefeDwyZNGjY,Clutch,Groove Metal Roots & Branches,Texan Book of the Dead,0,174800,False,0.436,0.88,9,-8.547,1,0.0651,0.0154,0.0,0.205,0.683,112.012,4,hard-rock
+4wjKsLqJqLYBzaEO7iD4Fp,White Zombie,Halloween Metal Nights,More Human Than Human,0,269693,True,0.659,0.961,6,-5.568,1,0.0829,0.000425,0.423,0.105,0.537,101.368,4,hard-rock
+69UZ7jq0OEfymnk2mmXScI,White Zombie,Rock & Halloween,Thunder Kiss '65,0,234466,False,0.636,0.937,9,-3.94,1,0.044,0.00117,0.000223,0.54,0.395,112.641,4,hard-rock
+5noCgCx4mDlq6fIa4z7YST,The Darkness,Timeless Rock Hits,I Believe in a Thing Called Love,0,217653,False,0.442,0.846,4,-5.214,1,0.0763,0.0538,4.56e-06,0.282,0.622,128.237,4,hard-rock
+23bUtNc4PUyHNrYNolzMPq,White Zombie,Spooky Scary Season,"I'm Your Boogieman - From ""The Crow: City Of Angels"" Soundtrack",0,267573,False,0.645,0.985,1,-3.715,1,0.111,0.00113,0.0102,0.223,0.446,113.934,4,hard-rock
+0VaMFkBz3QsRAuaek4jYR5,Raimundos,Acústico - Ao Vivo,Reggae do Manero - Ao Vivo | Acústico,46,325024,False,0.708,0.809,10,-4.129,0,0.0611,0.178,1.62e-06,0.368,0.625,134.053,4,hard-rock
+0xMvzVeUgeT6BD0guG7zX8,Slash;Adam Levine,Slash,Gotten,40,302160,False,0.548,0.486,4,-8.236,1,0.0302,0.136,0.000127,0.135,0.0696,130.316,4,hard-rock
+2OgVsp77En2nju8pnCieVU,Foreigner,4 (Expanded),Waiting for a Girl like You,71,292066,False,0.33,0.469,10,-9.286,0,0.0335,0.31,2.3e-06,0.0402,0.433,201.327,4,hard-rock
+4ECNtOnqzxutZkXP4TE3n3,Journey,Frontiers,Separate Ways (Worlds Apart),74,323706,False,0.451,0.962,0,-3.947,1,0.0734,0.0188,3.17e-06,0.277,0.377,131.435,4,hard-rock
+2JuasWPUodaUxf5nwNpciQ,Alice In Chains,Jar Of Flies,Nutshell,71,259200,False,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,3,hard-rock
+11lz5IuUrg2qVuNrGPRVq2,Nazareth,The Anthology,Love Hurts,32,233293,False,0.48,0.427,7,-7.961,1,0.0243,0.00315,0.00442,0.338,0.148,80.078,4,hard-rock
+1EJZQ6uhrvl4JtoKn7RKFd,Scorpions,Follow Your Heart,Follow Your Heart,56,245626,False,0.353,0.656,7,-5.712,0,0.0319,0.0431,0.000161,0.139,0.195,153.747,4,hard-rock
+1grvqYbhgqJxwdzeY1vgSb,Scorpions,Blackout,No One Like You (2015 - Remaster),31,238866,False,0.441,0.796,9,-2.851,0,0.0431,0.0167,2.52e-06,0.166,0.696,118.146,4,hard-rock
+54yLLvpezvPO1lA3GspiZj,Dio,Holy Diver,Holy Diver,67,340640,False,0.473,0.783,10,-10.671,0,0.0869,0.0125,0.475,0.268,0.124,91.976,4,hard-rock
+58c8pMaXi3xdpBIVfG6WGC,Extreme,Extreme II: Pornograffitti (Deluxe),More Than Words,67,334000,False,0.403,0.134,6,-14.955,1,0.0353,0.469,0.0,0.113,0.258,182.894,4,hard-rock
+2avaSeKHI5l4sLruVfLdi2,Survivor,Rocky IV,"Burning Heart - From ""Rocky IV"" Soundtrack",65,230720,False,0.651,0.665,9,-7.43,0,0.0269,0.221,7.91e-06,0.0403,0.647,97.996,4,hard-rock
+1ju7EsSGvRybSNEsRvc7qY,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,Simple Man,74,356626,False,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.403,120.471,4,hard-rock
+4C8qZRxrteBY9F8r2oZrV3,White Lion,Mane Attraction,You're All I Need,61,265160,False,0.506,0.539,2,-10.654,1,0.0293,0.11,0.0,0.185,0.208,118.668,4,hard-rock
+3CIOopLwvyMvXk97ZEksKO,Motörhead,Ace of Spades (Expanded Edition),Ace of Spades,32,168320,False,0.322,0.991,6,-4.453,1,0.213,0.00313,0.0035,0.0708,0.198,140.221,4,hard-rock
+24NwBd5vZ2CK8VOQVnqdxr,Aerosmith,Toys In The Attic,Sweet Emotion,74,274133,False,0.38,0.76,9,-10.961,1,0.0378,0.00298,0.0294,0.104,0.491,99.437,4,hard-rock
+0dlTGl67UFWcKupzkxZYOn,Guns N' Roses,Use Your Illusion II,You Could Be Mine,72,343640,False,0.35,0.985,10,-5.676,0,0.122,0.00876,0.551,0.36,0.323,151.007,4,hard-rock
+2SgbR6ttzoNlCRGQOKjrop,Pantera,Cowboys from Hell,Cowboys from Hell,72,243533,True,0.415,0.908,2,-9.701,1,0.0765,0.00437,0.0345,0.082,0.437,114.816,4,hard-rock
+0wJoRiX5K5BxlqZTolB2LD,Jimi Hendrix,Are You Experienced,Purple Haze,71,170813,False,0.533,0.905,2,-5.27,1,0.0754,0.00876,0.578,0.0698,0.486,108.9,4,hard-rock
+6TYQRlRci6AkVrN9a5C7ne,Black Sabbath,Paranoid,War Pigs (2009 - Remaster),33,475000,False,0.369,0.679,6,-9.729,0,0.0742,0.128,0.0125,0.197,0.508,91.883,4,hard-rock
+0NJC0FDCODpPUntRTTQq97,Aerosmith,Get A Grip,Cryin',72,308333,False,0.445,0.856,9,-3.674,1,0.0327,0.000202,0.0101,0.367,0.486,105.872,3,hard-rock
+6i4Qi1mJxXjqNIL9HfJhRs,Guns N' Roses,Use Your Illusion II,Civil War,70,462093,False,0.336,0.787,10,-8.803,0,0.0732,0.0793,0.0648,0.32,0.383,140.003,4,hard-rock
+5EOoMWIB9iK4ZpcSex9Ec7,Bob Seger,Stranger In Town,Old Time Rock & Roll,74,194146,False,0.714,0.937,6,-2.947,1,0.0399,0.206,0.0,0.0731,0.964,124.13,4,hard-rock
+5SZ6zX4rOrEQferfFC2MfP,Aerosmith,Toys In The Attic,Walk This Way,75,220400,False,0.653,0.73,5,-10.613,1,0.043,0.0114,1.03e-05,0.0754,0.894,108.705,4,hard-rock
+5qFxuUIAwJlzO60vqOiL7y,Dio,Holy Diver,Rainbow In The Dark,68,252693,False,0.508,0.912,9,-8.049,0,0.0368,7.06e-05,0.403,0.0492,0.682,117.582,4,hard-rock
+4E5xVW505akJX0wcKj8Mpd,Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,68,319266,False,0.519,0.982,7,-3.547,1,0.108,0.00203,0.00055,0.0971,0.361,97.745,4,hard-rock
+0rFWuqFgHAfuzE8uSB9TWR,Guns N' Roses,Use Your Illusion I,Live And Let Die,72,182733,False,0.262,0.777,11,-8.671,1,0.0632,0.0109,0.113,0.12,0.264,152.5,4,hard-rock
+5LyRtsQLhcXmy50VXhQXXS,Megadeth,Rust In Peace (Expanded Edition),Holy Wars...The Punishment Due - Remastered,69,392600,False,0.325,0.985,11,-3.941,1,0.151,0.00177,0.107,0.351,0.221,125.307,4,hard-rock
+6beFuzSjwhOKFZp2aqYDdY,Aerosmith,Get A Grip,Amazing,69,356160,False,0.308,0.747,0,-5.434,1,0.037,0.0645,8.27e-05,0.431,0.278,139.454,4,hard-rock
+4rcHWl68ai6KvpXlc8vbnE,REO Speedwagon,Hi Infidelity (30th Anniversary Edition),Keep on Loving You,72,200293,False,0.306,0.722,0,-5.963,1,0.034,0.0519,0.0,0.117,0.41,174.732,4,hard-rock
+1hlveB9M6ijHZRbzZ2teyh,Twisted Sister,Stay Hungry,We're Not Gonna Take It,75,219666,False,0.502,0.924,4,-6.299,1,0.0503,0.0127,0.0,0.162,0.922,149.186,4,hard-rock
+60ifqqPhbselSwXyGrGyMK,Deep Purple,Stormbringer (Remastered),Soldier Of Fortune - 2009 Digital Remaster,59,204880,False,0.533,0.313,2,-13.007,0,0.0298,0.386,4.64e-06,0.0868,0.225,133.615,4,hard-rock
+6Nd6ntkzr4t8o1FKPGOSMt,Whitesnake,Whitesnake (2018 Remaster),Here I Go Again - 2018 Remaster,69,275395,False,0.292,0.823,7,-6.763,1,0.0407,0.0117,7.79e-05,0.155,0.244,89.939,4,hard-rock
+7nemcVsXVFZF01iqpIIo2Y,AC/DC,High Voltage,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),72,301226,False,0.456,0.863,3,-3.551,1,0.0894,0.133,0.0538,0.0553,0.532,135.962,4,hard-rock
+43DeSV93pJPT4lCZaWZ6b1,Thin Lizzy,Jailbreak (Deluxe Edition),The Boys Are Back In Town,76,266720,False,0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823,4,hard-rock
+7ILVCyIphAqzSgy5DNWuu2,Welshly Arms,Herbststimmung,Learn To Let Go,1,214430,False,0.498,0.848,2,-4.718,1,0.0437,0.00605,0.0,0.294,0.474,150.076,4,hard-rock
+5fef840JfHLr96gaziWORI,Welshly Arms,Pop & Halloween,Sanctuary,2,227546,False,0.53,0.718,0,-6.48,1,0.0362,0.00488,0.0,0.0758,0.349,76.989,4,hard-rock
+3M6auAoAoVyPGxNxe1jcXw,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Só pra vadiar,44,244760,False,0.623,0.946,2,-4.199,0,0.0486,0.172,6.01e-06,0.066,0.922,108.016,4,hard-rock
+32puFzyAEnxuSQNL9H8E4i,Manowar,Metal,Kings of Metal,0,223866,False,0.575,0.881,9,-13.012,1,0.0356,0.000113,2.59e-05,0.147,0.692,132.128,4,hard-rock
+6YPpOUPDkrcGOBMXZju96h,Pitty,Chiaroscuro,Só Agora,44,204800,False,0.532,0.488,9,-9.692,1,0.0235,0.274,0.0011,0.426,0.156,87.97,4,hard-rock
+2V9jfUh3nLM7JZINiWNw25,Los Miserables,La voz del pueblo,Te doy una canción,44,164813,False,0.51,0.838,9,-4.218,1,0.0551,0.0502,0.0,0.103,0.518,150.061,4,hard-rock
+4ggwK5lXtlTT7lKJeeEnxf,Joe Walsh,(70's) Seventies Collected Volume 2,Rocky Mountain Way,0,316066,False,0.449,0.571,4,-7.119,1,0.0492,0.00604,0.701,0.0748,0.448,84.807,4,hard-rock
+0yfrIZmkRV80l28gDcz8nU,Pitty,Anacrônico,Memórias,44,214546,False,0.366,0.944,8,-5.274,1,0.131,0.00109,0.0,0.1,0.337,175.586,4,hard-rock
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,hard-rock
+5QKHspyc4wX13lh58yWTcT,Asia,Top muzică românească - Vara 2022,Sună periculos,0,213212,False,0.622,0.912,10,-7.503,0,0.0511,0.155,0.000127,0.113,0.801,100.035,4,hard-rock
+6Boqs3NAzPMxyhztKZOIyi,Anthrax,Halloween Metal Nights,Medusa,1,284040,False,0.334,0.814,11,-14.175,0,0.0447,0.0247,0.000593,0.501,0.676,150.813,4,hard-rock
+5DLN0LQbIAD28k53GJfRPq,Anthrax,Halloween Metal Nights,Indians,1,341066,False,0.349,0.983,4,-5.969,0,0.0564,0.00065,0.000892,0.0365,0.422,105.571,4,hard-rock
+2zSTvC7IA8EiD4cvo4VdVr,Chico Science;Nação Zumbi,Da Lama Ao Caos,A Cidade,45,286666,False,0.734,0.824,7,-9.932,1,0.0493,0.0559,0.00237,0.0606,0.911,95.534,4,hard-rock
+4BG5z09kr5M1CVla6MQmcO,Asia,Fiesta temática 80s,Only Time Will Tell,0,284000,False,0.29,0.884,9,-5.71,0,0.0673,0.0435,0.0,0.225,0.294,125.314,4,hard-rock
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,hard-rock
+7ACCBGSVoNukpfJ1Ah4NB2,Asia,Fishing Music,Heat Of The Moment,0,229133,False,0.294,0.872,1,-5.619,1,0.0542,0.155,7.68e-06,0.316,0.575,135.931,4,hard-rock
+67BMusU7lw2tEwR9mPiE5m,Anthrax;Public Enemy,Release Your ANGER,Bring The Noise,0,210493,False,0.599,0.831,2,-7.86,1,0.159,0.000155,2.13e-06,0.117,0.281,121.05,4,hard-rock
+6jDTQvwOkgUhS2PMbVPgEr,STEELHEART,Heavy Metal Summer,She's Gone,49,392400,False,0.416,0.559,0,-10.751,0,0.0349,0.00346,0.0831,0.148,0.152,137.18,4,hard-rock
+2FEWcWHnDmGD6WSqpW4VYu,Guns N' Roses,Chinese Democracy,This I Love,68,334373,False,0.263,0.442,8,-8.279,0,0.0309,0.603,2.99e-06,0.106,0.133,92.179,4,hard-rock
+13Uvqll8OQDjw3wDweIK9y,Metallica,Death Magnetic,The Day That Never Comes,65,476266,False,0.334,0.982,4,-2.293,0,0.0619,9.11e-05,0.149,0.106,0.501,126.883,4,hard-rock
+1Ovgu7X7u8zYoURU62ESmu,Scorpions,Acoustica,You & I - Live,52,319346,False,0.591,0.745,8,-7.045,0,0.0424,0.416,0.00352,0.873,0.393,125.859,4,hard-rock
+4ZCLM74MYhUy80TPiaAuee,White Lion,Pride,When the Children Cry,61,258600,False,0.493,0.242,4,-13.593,0,0.0291,0.68,0.0,0.071,0.345,130.258,4,hard-rock
+5ctrWrTwgy5xLZA4OWgY5O,Scorpions,Love at First Sting,Still Loving You (2015 - Remaster),30,388613,False,0.271,0.597,8,-4.128,0,0.0311,0.158,0.00135,0.246,0.0746,103.29,4,hard-rock
+1aXFBWnnPFRKUN7vuIA5h0,Metallica,Garage Inc.,Turn The Page,64,366466,False,0.426,0.813,8,-3.963,1,0.0318,1.94e-05,0.022,0.0937,0.228,149.013,4,hard-rock
+3pHpV3pa96s4vuBP7sQq0V,Whitesnake,Whitesnake (2018 Remaster),Is This Love - 2018 Remaster,69,284496,False,0.263,0.759,0,-7.288,1,0.0431,0.0555,0.0,0.231,0.429,179.904,4,hard-rock
+7txxAtOMwLLnQTpKeBL6bp,Danzig,Danzig,Mother,76,204866,True,0.365,0.763,11,-9.45,0,0.0591,0.00726,0.000457,0.0865,0.342,148.366,4,hard-rock
+70Z9t1qhytWtG4cCmmi7mU,Twisted Sister,Stay Hungry,I Wanna Rock,73,179760,False,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244,4,hard-rock
+6zWVRHzx7XHwzBgTwivaCv,Firehouse,Good Acoustics,You Are My Religion,50,243760,False,0.59,0.882,6,-5.642,1,0.0293,0.00704,0.0,0.0654,0.917,140.014,4,hard-rock
+1ogRu1dOUgHvel8To8oQbe,Dorothy,ROCKISDEAD,Wicked Ones,60,172516,False,0.587,0.635,5,-5.47,1,0.0377,0.0353,0.0,0.331,0.591,96.519,4,hard-rock
+5sFDReWLrZHLFZFjHsjUTS,Alice In Chains,Dirt (2022 Remaster),Would? (2022 Remaster),73,206773,False,0.305,0.833,6,-7.981,1,0.0398,0.000327,2.36e-05,0.091,0.586,100.675,4,hard-rock
+4PRGxHpCpF2yoOHYKQIEwD,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Rock and Roll - Remaster,71,220560,False,0.317,0.887,9,-7.292,1,0.0375,0.000582,0.00258,0.0891,0.871,169.613,4,hard-rock
+3s03nrUInN3NAVjQtmnS0O,Guns N' Roses,Use Your Illusion II,Estranged,67,563893,False,0.359,0.762,11,-8.323,1,0.032,0.0105,0.281,0.368,0.167,89.259,4,hard-rock
+28WmNsclKsrVmdv3tDmoYU,Metallica,Kill 'Em All (Remastered),Seek & Destroy - Remastered,69,414720,False,0.445,0.964,9,-5.493,1,0.282,0.037,0.0132,0.0773,0.448,140.817,4,hard-rock
+0QwZfbw26QeUoIy82Z2jYp,Led Zeppelin,Led Zeppelin,Good Times Bad Times - 1993 Remaster,69,166266,False,0.476,0.717,9,-9.192,1,0.0949,0.0382,7.61e-05,0.0818,0.753,93.584,4,hard-rock
+6olS0TmHmsGr0hXtcBsiVM,Megadeth,Youthanasia (Expanded Edition),A Tout Le Monde - Remastered 2004,66,262133,False,0.272,0.747,5,-4.86,0,0.0401,0.000393,4.03e-05,0.16,0.255,202.777,4,hard-rock
+2AxCeJ6PSsBYiTckM0HLY7,Jimi Hendrix,Electric Ladyland,Voodoo Child (Slight Return),68,313373,False,0.214,0.91,8,-6.662,1,0.389,0.477,0.00833,0.0517,0.448,175.549,4,hard-rock
+5XcZRgJv3zMhTqCyESjQrF,Alice Cooper,Trash,Poison,74,270080,False,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,4,hard-rock
+22GbAGb80ZZNgm2yrBMnpR,Metallica,Metallica,Wherever I May Roam,66,403866,False,0.55,0.824,9,-7.848,0,0.0347,0.000362,0.00115,0.0865,0.332,131.387,4,hard-rock
+2KKLuHN6zDxVnWtFKO8vo4,Iron Maiden,Fear of the Dark (2015 Remaster),Wasting Love - 2015 Remaster,65,351026,False,0.324,0.667,4,-5.373,0,0.0321,0.00562,3.56e-05,0.0873,0.29,142.503,4,hard-rock
+3QZ7uX97s82HFYSmQUAN1D,Rush,Moving Pictures (2011 Remaster),Tom Sawyer,73,276880,False,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559,4,hard-rock
+6gZVQvQZOFpzIy3HblJ20F,Alice In Chains,Facelift,Man in the Box,75,285200,True,0.355,0.791,8,-7.565,1,0.0453,0.00045,0.0,0.0969,0.758,106.392,4,hard-rock
+6QDbGdbJ57Mtkflsg42WV5,Van Halen,1984 (Remastered),Hot for Teacher - 2015 Remaster,71,282746,False,0.552,0.947,2,-4.671,1,0.15,0.000652,0.00025,0.0637,0.465,127.631,4,hard-rock
+1sUTfgduT0WIQO8kXKXxLC,Jon Bon Jovi,Blaze Of Glory,"Blaze Of Glory - From ""Young Guns II"" Soundtrack",68,335240,False,0.55,0.618,7,-9.822,1,0.0307,0.0564,2.62e-05,0.0937,0.429,78.61,4,hard-rock
+3nlGByvetDcS1uomAoiBmy,Iron Maiden,The Number of the Beast (2015 Remaster),The Number of the Beast - 2015 Remaster,69,290586,False,0.409,0.89,0,-6.839,1,0.0558,0.088,0.107,0.0935,0.268,100.409,4,hard-rock
+3Xls4cNOwy01dtrNXb1inG,Cream,Wheels Of Fire,White Room,70,298333,False,0.553,0.576,0,-13.458,1,0.0304,0.191,0.00664,0.0365,0.457,109.827,4,hard-rock
+2w4EpqGasrz9qdTwocx54t,Journey,Escape (Bonus Track Version),Open Arms,70,202173,False,0.405,0.21,2,-13.214,1,0.0279,0.584,0.0,0.139,0.174,100.577,3,hard-rock
+3Dfy8YIxq89i84t108TvMi,Def Leppard,Hysteria (Super Deluxe),Love Bites - Remastered 2017,65,346960,False,0.59,0.743,0,-7.078,0,0.0347,0.067,0.00093,0.0847,0.412,129.79,4,hard-rock
+505rTU8E2KdQEhzJKyuOaE,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",Direto E Reto Sempre,43,166840,False,0.741,0.894,1,-7.648,1,0.0955,0.33,0.000149,0.109,0.964,175.132,4,hard-rock
+3kBV8olpppGCIbhrh8TV6o,Koil,Blacklight,Aku Lupa Aku Luka,43,271268,False,0.485,0.949,10,-6.962,1,0.0423,0.000257,0.399,0.288,0.204,82.018,4,hard-rock
+4KWKrzTYu5e7fcYC7nKUun,Charlie Brown Jr.,Imunidade Musical,I Feel So Good Today,43,248800,False,0.688,0.484,1,-9.254,1,0.0298,0.646,0.0129,0.109,0.447,124.062,4,hard-rock
+1HM7Vp84E4SMzdrZONg6bH,Iron Maiden,Somewhere in Time (2015 Remaster),Wasted Years - 2015 Remaster,67,309640,False,0.314,0.959,4,-4.657,0,0.0908,0.0263,0.000148,0.161,0.492,154.221,4,hard-rock
+3Suli2OnPcXOOH8z2sR2pu,Charlie Brown Jr.,Acústico (Ao Vivo),Charlie Brown Jr - Ao Vivo,43,229826,False,0.534,0.989,8,-4.952,1,0.117,0.023,0.00913,0.934,0.475,119.432,4,hard-rock
+3vN6KN471yverVBYT19MGA,Raimundos,Nana neném / Reggae do manêro,Reggae do manêro,43,289933,False,0.784,0.59,11,-7.355,0,0.0879,0.0116,0.00174,0.0434,0.944,144.981,4,hard-rock
+532WuZy5kwDhU8iNUbLKQK,Charlie Brown Jr.,Imunidade Musical,Pra Não Dizer Que Não Falei Das Flores,43,327506,False,0.571,0.769,1,-4.676,1,0.0281,0.0528,0.00387,0.073,0.919,156.045,4,hard-rock
+0ZPl9nB62OHQNMdLphpyps,Charlie Brown Jr.,Imunidade Musical,É Quente,43,179200,False,0.657,0.949,8,-3.144,1,0.0976,0.00851,1.01e-06,0.0832,0.921,77.55,4,hard-rock
+6pstdjNL2P9I3XaWHL6EwR,Popeda,Haista Popeda!,Lihaa Ja Perunaa,42,205787,False,0.494,0.852,6,-4.364,0,0.0505,0.00671,0.000252,0.0981,0.706,156.07,4,hard-rock
+6Y57xXG66eowb6BqZfbd0U,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Latinoamérica Es un Pueblo al Sur de Estados Unidos,43,242216,False,0.764,0.749,9,-7.412,1,0.132,0.13,0.0,0.264,0.912,101.515,4,hard-rock
+48LSzryqsS0K3oNJKwBtEP,Charlie Brown Jr.,Bocas Ordinárias,Somos Poucos Mas Somos Loucos,43,330746,False,0.644,0.896,1,-5.912,1,0.104,0.0656,0.000133,0.0838,0.596,98.087,4,hard-rock
+3d4oqD3MLxGgmYcKwDcnES,Matanza,A Arte do Insulto,A Arte do Insulto,44,110986,False,0.295,0.96,0,-3.357,1,0.105,5e-05,0.0,0.416,0.835,178.374,4,hard-rock
+3y8vOmrtJpdyQ3PkaHQRKm,Matanza,Odiosa Natureza Humana,Remédios Demais,43,144266,False,0.359,0.991,2,-3.688,1,0.121,0.000762,2.23e-05,0.0837,0.433,181.231,4,hard-rock
+1287NimoHeJNaQ5a63Wjua,Pitty,Chiaroscuro,Fracasso,43,216453,False,0.51,0.982,6,-3.362,0,0.0704,0.0311,2.8e-06,0.0973,0.487,141.875,4,hard-rock
+01p5s1IbneueexPka3Px3O,Charlie Brown Jr.;Marcelo Nova,Música Popular Caiçara: Edição Luxo (Ao Vivo),Coração Satânico - Ao Vivo,43,271533,False,0.284,0.937,2,-4.411,1,0.164,0.00102,0.0,0.934,0.288,181.937,4,hard-rock
+0IVliQIAr5Mj7HL15m5tpp,Titãs,84 94 - Volume 1,Homem primata,44,210306,False,0.636,0.731,1,-12.535,1,0.0314,0.00946,6.34e-06,0.0226,0.933,81.421,4,hard-rock
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,hard-rock
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,hard-rock
+0J4r8Vmq34tTWw0g0wanKP,Titãs,A Melhor Banda De Todos Os Tempos Da Última Semana,A Melhor Banda de Todos os Tempos da Última Semana,43,185466,False,0.48,0.976,2,-3.24,1,0.0552,0.0224,0.0,0.145,0.941,165.812,4,hard-rock
+2RXv7fZNLSP3X7xWiJ8e5n,Matanza,Música para Beber e Brigar,O Último Bar,42,187333,False,0.455,0.974,9,-2.6,1,0.0486,0.00341,0.0,0.157,0.817,167.934,4,hard-rock
+4CvQVmA1wVX4gKOJ7aQOZQ,Guns N' Roses,Greatest Hits,Since I Don't Have You,41,259266,False,0.256,0.579,6,-8.146,1,0.046,0.489,0.000226,0.117,0.254,70.968,4,hard-rock
+4TIJ7zSBNejpoIPaWpWRKc,Billy Idol,Rebel Yell,Rebel Yell,74,288533,False,0.53,0.864,4,-4.948,0,0.061,0.000753,0.000459,0.354,0.484,166.312,4,hard-rock
+4KfSdst7rW39C0sfhArdrz,Heart,Little Queen,Barracuda,74,261933,False,0.548,0.691,4,-13.553,0,0.0369,0.015,0.106,0.144,0.667,137.145,4,hard-rock
+3kfXUGIdBNpyr2gBvU3Guj,Aerosmith,Permanent Vacation,Angel,63,308906,False,0.239,0.819,3,-3.583,1,0.0393,0.304,0.0,0.0855,0.439,171.449,4,hard-rock
+3vc1sGOGAVxhx8S1kERqyn,The Prodigy,"Always Outnumbered, Never Outgunned",You'll Be UNDER MY WHEELS,52,236973,False,0.672,0.944,4,-5.214,0,0.0761,0.0102,0.9,0.321,0.382,114.015,4,hard-rock
+0L7zm6afBEtrNKo6C6Gj08,Judas Priest,Painkiller,Painkiller,68,365826,False,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0847,0.268,0.101,103.16,4,hard-rock
+4gpext9x0CbdD9NWaa4nDj,Boston,Third Stage,Amanda,65,256200,False,0.449,0.424,7,-14.06,1,0.0323,0.32,1.69e-06,0.107,0.259,125.494,4,hard-rock
+3XclwoQxz4p6Dl7VUf90KW,Black Sabbath,Black Sabbath,N.I.B. (2009 - Remaster),30,366173,False,0.463,0.552,4,-9.403,0,0.0605,0.141,9.66e-06,0.129,0.421,105.495,4,hard-rock
+5WSsTyBvMEFG3ac6JKb9gY,Scorpions,Comeblack,Wind of Change,60,308866,False,0.491,0.613,0,-5.567,1,0.0266,0.00511,0.0,0.107,0.175,75.907,4,hard-rock
+5x9RZg7HfXGY3JayXL3seF,Ugly Kid Joe,America's Least Wanted,Cats In The Cradle,69,241893,False,0.511,0.517,8,-9.653,1,0.0328,0.13,0.0,0.074,0.433,75.67,4,hard-rock
+5YjKdeES9QRJ8NmF4Xc8pV,Heart,Brigade,All I Wanna Do Is Make Love To You,67,310893,False,0.626,0.746,7,-8.832,1,0.0282,0.16,0.0,0.0618,0.8,102.896,4,hard-rock
+2tAeN2TKlQLOoSPXtARzBV,Van Halen,Van Halen (Remastered),Eruption - 2015 Remaster,65,102080,False,0.225,0.689,8,-9.12,1,0.0555,0.469,0.813,0.337,0.5,93.798,4,hard-rock
+2VN7uPrbryJ7nE2MXX3f9a,Survivor,Survivor Greatest Hits,"Burning Heart - From ""Rocky IV"" Soundtrack",68,230106,False,0.652,0.609,9,-9.684,0,0.028,0.298,8.79e-06,0.0573,0.646,98.125,4,hard-rock
+6s0NHplywwr1IjnQpUpWJk,George Thorogood & The Destroyers,BAD TO THE BONE,Bad To The Bone,71,292173,False,0.459,0.727,0,-11.777,1,0.0303,0.00614,0.0652,0.384,0.955,149.231,1,hard-rock
+0XHWClSz0v6RIaRSGqJH3X,Deep Purple,Deepest Purple: The Very Best of Deep Purple,Smoke on the Water,59,337613,False,0.616,0.612,0,-11.084,1,0.0275,0.169,0.434,0.101,0.897,114.558,4,hard-rock
+05f8Hg3RSfiPSCBQOtxl3i,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),When the Levee Breaks - Remaster,64,428851,False,0.271,0.766,5,-8.03,1,0.0329,0.00217,0.52,0.0707,0.803,142.914,4,hard-rock
+3YbhQokqKwFuDTS7mwWgmP,Charlie Brown Jr.;Forfun,"Ritmo, Ritual E Responsa",O Universo A Nosso Favor,42,261880,False,0.546,0.983,1,-3.904,0,0.0764,0.1,4.14e-05,0.13,0.604,107.426,4,hard-rock
+0WHtcCpZnoyFlQg3Mf2cdN,Ghost,IMPERA,Spillways,72,196946,False,0.575,0.868,5,-5.004,0,0.0319,0.000207,0.00294,0.0584,0.804,128.069,4,hard-rock
+4QQL5qNwVZ1FctLoVqN9rn,Journey;Steve Perry,"Stranger Things: Soundtrack from the Netflix Series, Season 4",Separate Ways (Worlds Apart) - Steve Perry & Bryce Miller Extended Remix,58,197133,False,0.434,0.762,2,-7.352,1,0.0493,0.0282,2.45e-05,0.118,0.0729,129.957,4,hard-rock
+4vJr55lngvhSM8WIh9CjQc,Pantera,Cowboys from Hell,Cemetery Gates,67,422933,True,0.274,0.726,9,-11.541,1,0.0449,0.000212,0.0113,0.0993,0.426,146.449,4,hard-rock
+0hJnqEmo8DeMmRhh6mwAof,Def Leppard,Retro Active,Two Steps Behind - String / Acoustic Version,58,256486,False,0.456,0.419,2,-10.594,1,0.0247,0.117,0.0,0.178,0.425,146.148,4,hard-rock
+0tKjVEJlX3IZ5L1rEJc5hh,Bad English,Bad English,When I See You Smile,65,257440,False,0.495,0.609,7,-9.902,1,0.0339,0.42,0.0,0.187,0.33,135.671,4,hard-rock
+71fSn6OIF7HnCbgCzOBqpj,Airbourne,Runnin' Wild (Special Edition),Runnin' Wild,69,222240,False,0.47,0.947,10,-4.122,1,0.0929,0.000141,0.29,0.127,0.394,162.052,4,hard-rock
+3MODES4TNtygekLl146Dxd,Led Zeppelin,Led Zeppelin II (1994 Remaster),Ramble On - 1990 Remaster,71,263333,False,0.468,0.607,9,-11.367,1,0.0336,0.072,0.000852,0.225,0.886,98.429,4,hard-rock
+7axJf0rBRxyTk397LbJpTt,Pitty;Drik Barbosa;WEKS,Casulo,Diamante,41,224522,False,0.535,0.706,9,-4.889,1,0.0711,0.26,0.0,0.139,0.507,145.96,4,hard-rock
+4xAmbn7xiy6wGOs4oaxv70,Ghost,IMPERA,Call Me Little Sunshine,72,284266,False,0.566,0.871,5,-4.833,1,0.0311,0.000674,0.00144,0.107,0.41,88.012,4,hard-rock
+7aOor99o8NNLZYElOXlBG1,Greta Van Fleet,From The Fires,Highway Tune,71,180640,False,0.582,0.962,4,-3.037,1,0.0542,0.0096,0.128,0.283,0.506,123.971,4,hard-rock
+05RgAMGypEvqhNs5hPCbMS,Van Halen,1984 (Remastered),Panama - 2015 Remaster,74,210226,False,0.526,0.978,8,-5.436,1,0.108,0.00122,4.75e-05,0.0744,0.451,141.167,4,hard-rock
+2K2M0TcglCRLLpFOzKeFZA,Cream,Disraeli Gears (Deluxe Edition),Sunshine Of Your Love,71,250400,False,0.683,0.594,2,-8.289,1,0.0347,0.385,8.61e-05,0.121,0.734,115.099,4,hard-rock
+2JhJOPGvtqMpj5RQC8cIYf,Deep Purple,Perfect Strangers,Perfect Strangers,66,328426,False,0.521,0.721,2,-7.699,1,0.0254,0.00348,0.0113,0.391,0.611,97.578,4,hard-rock
+2SrVGpjv0mqCR6j9EZPSm2,Iron Maiden,Powerslave (2015 Remaster),2 Minutes to Midnight - 2015 Remaster,66,363586,False,0.446,0.97,9,-5.004,0,0.0508,0.00754,0.000275,0.199,0.595,94.233,4,hard-rock
+2zqTyUvQndFS1HpMd51pn0,Böhse Onkelz,Viva los Tioz,Weit weg,40,320066,False,0.512,0.676,9,-6.345,0,0.0408,0.0495,2.82e-06,0.0676,0.28,115.906,4,hard-rock
+0NWPxcsf5vdjdiFUI8NgkP,Jimi Hendrix,Are You Experienced,Hey Joe,70,210160,False,0.346,0.768,9,-5.695,1,0.0377,0.00603,0.38,0.0244,0.532,169.492,4,hard-rock
+2yruHlh8qTlfVWPeN7HLfz,Titãs,Cabeça Dinossauro,Bichos escrotos,41,195173,False,0.586,0.858,0,-12.67,1,0.0493,0.00527,0.000244,0.0826,0.812,144.632,4,hard-rock
+5fKF2n5jmZDMTVbg9bW6R0,Charlie Brown Jr.,Transpiração Contínua Prolongada - Edição Comemorativa,Sheik,41,171333,False,0.852,0.859,10,-3.214,0,0.0657,0.153,0.000921,0.136,0.914,108.344,4,hard-rock
+1TieYORMOIeZoU2Yfkyfgs,Titãs,Cabeça Dinossauro - Edição Comemorativa 30 anos - Deluxe,Polícia,41,260866,False,0.682,0.915,9,-3.633,1,0.0454,0.00193,0.00793,0.096,0.789,101.051,4,hard-rock
+5dbg63VvmTjGvnapJC6LgQ,Charlie Brown Jr.,Imunidade Musical,O Mundo Explodiu La Fora,41,180466,False,0.591,0.913,8,-4.778,1,0.0401,0.0626,1.88e-06,0.148,0.848,152.065,4,hard-rock
+2QIwuG4S7XCp5R0a8F8jvz,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Puro sangue,41,247946,False,0.659,0.878,11,-4.532,1,0.032,0.178,0.0,0.297,0.881,79.972,4,hard-rock
+4Kf80JwKZcrHE0jJQKuH0e,The Dead Milkmen,Death Rides A Pale Cow: The Ultimate Collection,Dean's Dream,43,107866,False,0.404,0.921,6,-5.758,0,0.0415,0.00809,4.45e-06,0.16,0.849,110.589,4,hard-rock
+2xKmP9tHPW0qgqDTjvIFnU,White Lion,Nordic Metal,Broken Heart,0,248333,False,0.477,0.85,11,-6.782,0,0.0455,0.00673,0.0,0.218,0.383,126.311,4,hard-rock
+7BSVS5JCV9XViO1LTTIFGN,Pitty,Matriz,Te Conecta,41,231501,False,0.669,0.84,6,-5.0,0,0.0341,0.0228,0.00026,0.154,0.868,146.034,4,hard-rock
+1AnHrytA5dLlTpioOamUiG,Dead Fish,Zero e Um,Zero e Um,40,129000,False,0.414,0.986,10,-2.777,0,0.129,0.00194,1.08e-06,0.376,0.273,106.016,4,hard-rock
+7ajVYJt15NuE3NmzxSHOyS,Dokken,Metal,Kiss of Death,0,351040,False,0.402,0.942,9,-8.659,1,0.11,0.00178,0.00183,0.869,0.209,145.73,4,hard-rock
+1jU7sUPTdYEzAvrFn6po5l,BBS Paranoicos,Antídoto,La Rabia,42,173093,True,0.35,0.894,9,-4.587,0,0.0706,0.0204,0.0,0.138,0.46,167.321,4,hard-rock
+7Fhr46PhABM7LdDVLeucUP,Charlie Brown Jr.,Bocas Ordinárias,Hoje Eu Só Procuro A Minha Paz,42,252546,False,0.532,0.94,8,-3.473,1,0.144,0.0107,0.0,0.108,0.624,174.106,4,hard-rock
+3clj22mW4k1FADb751JYWc,Dead Fish,Zero e Um,Bem-Vindo Ao Clube,41,187400,False,0.547,0.977,1,-2.819,0,0.0924,0.000834,3.98e-06,0.366,0.386,97.993,4,hard-rock
+0VYLCqCYrLo2aZ1mcdVDjH,Planet Hemp,Usuário,"Não Compre, Plante!",42,251493,False,0.652,0.78,0,-8.433,1,0.0507,0.0195,0.0334,0.186,0.656,112.68,4,hard-rock
+6XblFniaIvfdIfuIlD7Ywg,Chico Science;Nação Zumbi,Da Lama Ao Caos,"Rios, Pontes e Overdrives",42,243573,False,0.747,0.818,8,-9.055,1,0.0366,0.0209,0.03,0.363,0.891,112.986,4,hard-rock
+5momcZeBnYAHWzxTxVO0pq,Planet Hemp,Usuário,Fazendo a Cabeça,42,200106,False,0.698,0.73,4,-8.146,0,0.094,0.00786,8.57e-05,0.214,0.537,116.189,4,hard-rock
+5lWy56wzG69YCts5BV9fth,Pitty,Chiaroscuro,Desconstruindo Amélia,41,241880,False,0.644,0.838,9,-5.389,0,0.0649,0.0488,2.83e-06,0.207,0.645,118.01,4,hard-rock
+2iEGj7kAwH7HAa5epwYwLB,AC/DC,Iron Man 2,Back In Black,56,255640,False,0.437,0.713,9,-5.698,1,0.0353,0.00945,0.00967,0.0946,0.77,93.618,4,hard-rock
+13Mkm26hUhmdgjRjiPZ36o,STEELHEART,Steelheart,She's Gone,55,391560,False,0.401,0.497,0,-12.814,0,0.0362,0.00422,0.198,0.154,0.145,136.919,4,hard-rock
+7w6PJe5KBPyvuRYxFkPssC,Ozzy Osbourne,No More Tears (Expanded Edition),No More Tears,68,443240,False,0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591,4,hard-rock
+6s4E1Wsbq5X9eHWprIQXIB,Welshly Arms,No Place Is Home,Sanctuary,59,227546,False,0.53,0.718,0,-6.481,1,0.0363,0.00474,0.0,0.0758,0.354,76.996,4,hard-rock
+1kvq7ksGQWSyRysYYNd6lu,Mötley Crüe,Theatre Of Pain,Home Sweet Home,28,239666,False,0.397,0.776,5,-6.339,1,0.0381,0.0983,4.09e-06,0.189,0.127,76.301,4,hard-rock
+1aZLIbKEdsyqxyD6iNcrbA,Def Leppard,Hysteria,Pour Some Sugar On Me,65,267306,False,0.267,0.953,1,-4.899,0,0.096,0.00211,0.0,0.283,0.568,84.989,4,hard-rock
+2lFFiNm0XtgJ6wkdncTB4k,The Cars,Heartbeat City (Expanded Edition),Drive - 2017 Remaster,70,234332,False,0.261,0.703,6,-7.871,1,0.0414,0.115,0.00078,0.102,0.405,83.495,4,hard-rock
+2z71jdeVcC782NgsYZ6N8q,Black Sabbath,Paranoid,Paranoid (2012 - Remaster),28,166693,False,0.415,0.647,4,-12.021,0,0.0696,4.14e-05,0.000847,0.208,0.409,163.047,4,hard-rock
+0qbV4e18lWrTTxlswVoLbI,Metallica,Death Magnetic,The Unforgiven III,60,466586,False,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-06,0.115,0.103,121.52,4,hard-rock
+72hpTHMLFrO4ErhSQl2FhZ,Van Halen,Balance,Can't Stop Lovin' You,63,247466,False,0.592,0.898,9,-5.194,1,0.0358,0.143,2.29e-06,0.229,0.537,118.006,4,hard-rock
+0ElAcOj8tudMA6X6KZ7SMO,Black Sabbath,Master of Reality,Children of the Grave (2009 - Remaster),29,315893,False,0.337,0.722,6,-11.384,1,0.0478,0.0352,0.052,0.101,0.28,149.103,4,hard-rock
+2NPHU2WJaI3rrtCNNuQ8L1,Dorothy,ROCKISDEAD,Raise Hell,61,181868,False,0.547,0.693,6,-6.404,1,0.0264,0.0224,0.0,0.523,0.716,79.963,4,hard-rock
+0NHBt8bp6tloebOWV3U3fN,Scorpions,Face The Heat,Under The Same Sun,56,293733,False,0.377,0.84,2,-6.022,1,0.1,0.0128,2.71e-05,0.102,0.311,150.349,4,hard-rock
+4ywWJqYKOwaVVh9xXARWUS,Led Zeppelin,Led Zeppelin III (Remaster),Tangerine - Remaster,64,191827,False,0.306,0.398,6,-12.767,1,0.0412,0.0857,6.02e-05,0.0756,0.0948,85.622,4,hard-rock
+6UB9mShVLbMm0W4e6vud4C,Metallica,Master Of Puppets (Remastered),Battery,65,312360,False,0.481,0.928,11,-8.799,0,0.0672,0.00022,0.558,0.106,0.427,96.699,4,hard-rock
+5TNhjanmvwvmjCz2WYwSAv,Ghost,Meliora (Deluxe Edition),Square Hammer,66,239293,False,0.53,0.903,2,-4.396,0,0.0483,3.31e-05,0.182,0.259,0.747,129.983,4,hard-rock
+0RO9W1xJoUEpq5MEelddFb,Led Zeppelin,Led Zeppelin IV (Remaster),Stairway to Heaven - Remaster,61,482830,False,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,4,hard-rock
+6L5BZEcZmD6RBJnimzlyKr,The Moody Blues,Days Of Future Passed (Deluxe Version),Nights In White Satin - Single Version / Mono,68,269106,False,0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71,4,hard-rock
+0cJPLFrlV7TTCyPLupHzcH,The Who,Who's Next (Deluxe Edition),Won't Get Fooled Again - Original Album Version,67,511400,False,0.686,0.92,2,-6.231,1,0.0566,0.301,0.27,0.0807,0.225,135.027,4,hard-rock
+56k2ztFw7hQRzDeoe80pJo,Ghost,Seven Inches Of Satanic Panic,Kiss The Go-Goat,71,195693,False,0.469,0.851,10,-4.147,1,0.0547,0.000213,7.86e-06,0.154,0.549,130.053,4,hard-rock
+1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,58,218573,False,0.357,0.98,5,-1.286,0,0.153,0.00143,0.0,0.196,0.567,191.147,4,hard-rock
+2o4u19nlQWOGg5mLanT7Pg,KISS,Hot In The Shade,Forever,64,232640,False,0.435,0.666,6,-10.596,1,0.031,0.254,1.4e-05,0.0541,0.566,176.431,4,hard-rock
+6gQUbFwwdYXlKdmqRoWKJe,Aerosmith,Permanent Vacation,Dude (Looks Like A Lady),71,265773,False,0.54,0.982,4,-2.962,0,0.0458,0.435,3.37e-05,0.0457,0.91,126.294,4,hard-rock
+2ov8L95QD25TLpZAZPYWXL,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Mr. Crowley,66,302647,False,0.307,0.748,2,-6.514,0,0.0568,0.212,0.000153,0.368,0.347,108.227,4,hard-rock
+5gys5nzVQIYhgHIfiOJYva,REO Speedwagon,Hi Infidelity (30th Anniversary Edition),Take It On the Run,68,239680,False,0.371,0.758,7,-5.679,1,0.036,0.0958,0.0,0.116,0.452,77.81,4,hard-rock
+0WTc2jsUgF4Y2MOz0aYvsR,Megadeth,Hidden Treasures,Paranoid,65,152600,True,0.355,0.973,4,-7.004,0,0.071,0.000359,0.154,0.142,0.628,187.385,4,hard-rock
+05NYcsjJwOYq4jIiKPVj9p,The Black Crowes,Shake Your Money Maker,Hard To Handle,72,188066,False,0.599,0.79,4,-3.58,1,0.043,0.00257,0.00181,0.312,0.961,103.783,4,hard-rock
+1TAwDeEPPPLQNSFwUhHvaH,Pitty,Agora Só Falta Você - Single,Agora Só Falta Você,40,224160,False,0.56,0.866,7,-5.74,1,0.0478,0.0215,0.0,0.0685,0.756,128.028,4,hard-rock
+5F38bWepavLdPnAP0s22Xo,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",We Are Sudamerican Rockers,40,215226,False,0.844,0.589,2,-9.859,1,0.212,0.184,0.0,0.103,0.962,141.462,4,hard-rock
+7Ar4G7Ci11gpt6sfH9Cgz5,The Doobie Brothers,Toulouse Street,Listen to the Music,76,227266,False,0.645,0.598,1,-13.18,0,0.0335,0.221,3.53e-06,0.0721,0.913,105.929,4,hard-rock
+1UBQ5GK8JaQjm5VbkBZY66,ZZ Top,Eliminator,Sharp Dressed Man - 2008 Remaster,73,258026,False,0.601,0.859,5,-5.263,1,0.0276,0.000359,0.00124,0.0871,0.446,125.145,4,hard-rock
+2GHBe8pqsAp0CE3sPRhSO9,Charlie Brown Jr.,"Preço Curto, Prazo Longo",Hoje De Noite,40,160960,False,0.716,0.868,11,-4.259,1,0.0332,0.098,6.38e-05,0.264,0.69,120.124,4,hard-rock
+3RtP7chdHFagVWsEmi1yux,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",Be Myself,40,273800,False,0.615,0.963,10,-4.776,0,0.0664,0.0634,0.0,0.151,0.547,103.269,4,hard-rock
+5u5F7qLDvZjBSktaDp4HxB,AC/DC,The Razors Edge,Moneytalks,67,225946,False,0.649,0.903,7,-3.677,1,0.0318,0.000841,0.000351,0.122,0.412,121.841,4,hard-rock
+17lu4tymfnhmcIDlzBbtAb,AC/DC,For Those About to Rock (We Salute You),For Those About to Rock (We Salute You),67,344240,False,0.37,0.919,4,-5.721,1,0.102,0.000376,0.419,0.49,0.471,134.021,4,hard-rock
+4vQnWwYBGabKpAoYLfinQp,Pitty,Anacrônico,Anacrônico,40,192106,False,0.483,0.868,0,-6.083,1,0.14,0.014,0.0,0.487,0.561,138.111,4,hard-rock
+2a27gwEh6aLVvELpizfrcr,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Viver dias de sol,40,259240,False,0.508,0.951,5,-3.843,0,0.0554,0.0138,0.000312,0.114,0.573,105.228,4,hard-rock
+73Lkj6zuRBzmUJVljC3lcV,Rodox,Rodox,De costas para o mar,40,260613,False,0.469,0.961,7,-4.871,1,0.036,2.61e-05,0.000704,0.101,0.781,150.021,4,hard-rock
+01yDjImCcOaHDT4uy6VOPw,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Brigada de Negro,41,226442,False,0.639,0.638,0,-7.332,1,0.0344,0.488,0.0,0.187,0.898,145.559,4,hard-rock
+4hXfkCgImL8rhqlppBrDPj,Charlie Brown Jr.,Chegou Quem Faltava - Volume 2 (Ao Vivo),Não é Sério - Ao Vivo - Chegou Quem Faltava,40,257604,False,0.247,0.835,1,-6.628,1,0.0422,0.128,1.36e-06,0.856,0.338,99.978,4,hard-rock
+64tUOtVFZN98cx48rQEW5T,Dead Fish,Zero e Um,A Urgência,39,181333,False,0.519,0.97,4,-3.252,0,0.126,0.000904,2.81e-05,0.119,0.187,97.836,4,hard-rock
+5bW5BtZD24h2zAAaFKet2M,Charlie Brown Jr.,Nadando Com Os Tubarões,Pra Mais Tarde Fazermos A Cabeça,40,180960,False,0.617,0.823,1,-4.782,1,0.172,0.407,0.0,0.0955,0.821,80.245,4,hard-rock
+0RlvZoIzkQdr5VucJGFEPH,Pitty;Lazzo Matumbi,Matriz,Noite Inteira,40,314893,False,0.65,0.877,0,-4.03,1,0.0329,0.00905,1.15e-06,0.294,0.787,121.986,4,hard-rock
+40xlAc8cl5zYZRgiJ4VDiU,Faith No More,The Real Thing (Deluxe Edition),Falling to Pieces,41,313573,False,0.545,0.919,2,-7.679,1,0.0484,0.00272,0.00511,0.0977,0.387,104.366,4,hard-rock
+1m1yOOUMSoObnB13xhtXFx,Rosa Tattooada,Rosa Tattooada,O Inferno Vai Ter Que Esperar,39,179333,False,0.548,0.505,1,-13.043,1,0.0337,0.109,1.58e-06,0.109,0.474,146.206,4,hard-rock
+1lGJG7xbPfctagSQNv0t9A,Charlie Brown Jr.,Transpiração Contínua Prolongada - Edição Comemorativa,Charlie Brown Jr.,40,191982,False,0.705,0.953,1,-3.128,1,0.149,0.038,0.0,0.0586,0.633,108.243,4,hard-rock
+732FW0hz2lljtNnULJfHa7,Acústicos & Valvulados,Diamantes Verdadeiros,Remédio,40,183840,False,0.496,0.933,2,-1.82,1,0.0383,8.91e-05,0.000271,0.469,0.666,130.073,4,hard-rock
+73lIldE4SbKxglgJXiQ7cd,Matanza,Música para Beber e Brigar,Maldito Hippie Sujo,40,176400,False,0.378,0.991,9,-2.897,1,0.0779,0.00526,0.0,0.371,0.754,164.969,4,hard-rock
+2tqfqPGsrngNCqdTPpyCmT,Charlie Brown Jr.,Transpiração Continua Prolongada,Gimme O Anel,40,170000,False,0.748,0.741,1,-2.364,1,0.0315,0.108,0.00059,0.0638,0.862,117.344,4,hard-rock
+77mnypCdtuUwwQszzh2CKi,Raimundos,Acústico - Ao Vivo,Gordelícia - Ao Vivo | Acústico,40,219328,False,0.499,0.978,10,-4.219,0,0.108,0.254,1.08e-06,0.866,0.479,174.087,4,hard-rock
+3yiyZW5sYNg3VvIejh10sK,Ghost,Infestissumam,Year Zero,65,350186,True,0.469,0.705,7,-5.134,1,0.0458,0.0304,0.0155,0.659,0.137,122.025,4,hard-rock
+1bp2IO61zbQrbWNmKKxg3f,Steve Miller Band,The Joker,The Joker,74,264503,False,0.596,0.448,5,-9.616,1,0.0396,0.365,5.3e-06,0.206,0.796,83.293,4,hard-rock
+1SDiiE3v2z89VxC3aVRKHQ,Led Zeppelin,Led Zeppelin III (Remaster),Since I've Been Loving You - Remaster,62,444148,False,0.393,0.364,5,-10.945,0,0.0345,0.0021,0.0703,0.121,0.308,118.566,3,hard-rock
+6OBXfbbmE0enkSn1wmbqlX,Medulla;Martin,Deus e o Átomo,Abraço,39,217638,False,0.581,0.524,11,-9.023,0,0.0451,0.244,0.0914,0.222,0.215,120.3,4,hard-rock
+57DRDn3OKZyKQniRNAjYIQ,White Lion,Mane Attraction,Til Death Do Us Part,54,326826,False,0.493,0.476,10,-10.485,1,0.0287,0.0418,0.0,0.147,0.149,122.481,4,hard-rock
+7L93GESzq43UkKUt5FsOCq,House Of Pain,House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition],Jump Around - 30 Years Remaster,74,218546,True,0.811,0.823,4,-5.921,0,0.0423,0.0553,4.52e-06,0.158,0.827,106.929,4,hard-rock
+5gZvCXCk93m6PE2kWJIV0s,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",Beco Sem Saída,39,237240,False,0.516,0.538,8,-11.22,1,0.0287,0.129,0.000108,0.131,0.421,151.056,4,hard-rock
+5PkfL56EWMQlFrIakXjrsV,Iron Maiden,From Fear to Eternity: The Best of 1990 - 2010,Dance Of Death,41,517173,False,0.298,0.868,4,-5.055,0,0.0879,0.0705,0.00691,0.139,0.3,130.457,4,hard-rock
+2iVQMhKnFZqomOhcGv340f,The Phantoms,"Take The World, Vol. 1 - EP",Watch Me,53,214874,False,0.559,0.606,0,-6.857,1,0.0321,0.0613,0.0,0.095,0.503,79.98,4,hard-rock
+77NNZQSqzLNqh2A9JhLRkg,Journey,The Essential Journey,Don't Stop Believin',72,248906,False,0.491,0.802,4,-7.106,1,0.0392,0.25,0.0,0.387,0.472,119.25,4,hard-rock
+1HNJU5jqp2LlIHqsdrjVUo,Led Zeppelin,Led Zeppelin III (Deluxe Edition),The Immigrant Song - Alternate Mix,59,147272,False,0.623,0.849,11,-10.03,1,0.0458,0.0353,0.109,0.279,0.746,113.014,4,hard-rock
+20j7B6mL9gnNvG3ic6Vwh5,The Hives,Veni Vidi Vicious,Hate To Say I Told You So,69,200693,False,0.459,0.931,5,-5.024,1,0.0612,0.00126,0.00881,0.412,0.419,135.826,4,hard-rock
+2hngAqZosbB3oYHYzsbtM9,Mr. Big,Lean Into It (30th Anniversary Edition),Just Take My Heart - 2021 Remastered,51,263840,False,0.508,0.282,0,-13.072,1,0.04,0.496,0.0,0.116,0.18,169.647,4,hard-rock
+7n3WO6ESKS1uCI9fgkGs66,Ten Years After,A Space in Time (Deluxe Version),I'd Love to Change the World - 2004 Remaster,67,224133,False,0.383,0.516,9,-12.032,0,0.0344,0.202,0.193,0.114,0.371,118.144,4,hard-rock
+3MjrueDQKVr6xDDseZwhEd,Royal Blood,Royal Blood,Figure It Out,67,183602,False,0.658,0.814,0,-4.631,1,0.0558,0.229,0.00676,0.216,0.69,108.016,4,hard-rock
+60TYdVs6TWIsAJ1MPRdv59,Blue Öyster Cult,Blue Oyster Cult,Then Came the Last Days of May,61,210546,False,0.367,0.609,9,-11.221,0,0.0457,0.301,0.0243,0.196,0.443,149.386,4,hard-rock
+4OMu5a8sFpcRCPCcsoEaov,Led Zeppelin,Led Zeppelin,Babe I'm Gonna Leave You - 1990 Remaster,62,401066,False,0.404,0.435,4,-12.045,0,0.0323,0.246,0.00074,0.156,0.156,136.058,4,hard-rock
+3jagGO7eHHuaD53ibehkux,Mastodon,Leviathan,Blood and Thunder,65,228586,False,0.364,0.935,2,-6.548,1,0.0724,8.58e-06,0.729,0.0317,0.478,92.717,4,hard-rock
+5hhVpGIBlqAU5yJEOmrk5o,Led Zeppelin,In Through the out Door (Remaster),All My Love - Remaster,65,353720,False,0.554,0.791,7,-8.326,1,0.0288,0.113,1.76e-05,0.166,0.697,91.108,4,hard-rock
+0sfdiwck2xr4PteGOdyOfz,AC/DC,POWER UP,Shot In The Dark,63,185133,False,0.599,0.787,2,-4.708,1,0.0338,2.07e-05,5.27e-05,0.064,0.822,114.065,4,hard-rock
+4OMgqSsMbVhPCFnivcNAqh,Black Sabbath,The Dio Years (Bonus Track Version),Heaven and Hell - 2007 Remaster,32,418973,False,0.311,0.694,3,-8.203,0,0.0308,0.0115,0.0379,0.15,0.321,87.807,4,hard-rock
+2vNw57KPaYDzkyPxXYUORX,Guns N' Roses,Appetite For Destruction,Nightrain,64,266173,True,0.4,0.992,6,-6.995,1,0.0725,0.107,0.0117,0.179,0.243,149.412,4,hard-rock
+6WE7jSshLCuVKoCmobVKVf,Led Zeppelin,Led Zeppelin II (1994 Remaster),Heartbreaker - 1990 Remaster,64,254133,False,0.403,0.709,9,-9.366,1,0.0885,0.0746,0.494,0.132,0.654,97.161,4,hard-rock
+4ItljeeAXtHsnsnnQojaO2,Led Zeppelin,Houses of the Holy (Deluxe Edition),D'yer Mak'er - Remaster,66,262748,False,0.525,0.929,9,-8.56,0,0.0784,0.262,2.9e-05,0.0754,0.556,163.503,4,hard-rock
+1brpdmqkx3kSxyqzqXfW7J,KISS,Animalize,Heaven's On Fire,68,201400,False,0.679,0.866,0,-6.053,1,0.0635,0.00376,3.1e-05,0.312,0.785,124.324,4,hard-rock
+6xq5DxZWGgdStAxGAil0yw,Rainbow,Down To Earth,Since You Been Gone,68,197160,False,0.733,0.726,7,-6.514,1,0.0371,0.379,2.58e-06,0.471,0.915,120.814,4,hard-rock
+17lu4tymfnhmcIDlzBbtAb,AC/DC,For Those About to Rock (We Salute You),For Those About to Rock (We Salute You),67,344240,False,0.37,0.919,4,-5.721,1,0.102,0.000376,0.419,0.49,0.471,134.021,4,hard-rock
+71SvEDmsOwIWw1IozsZoMA,Journey,Departure,Any Way You Want It,73,201693,False,0.529,0.932,7,-7.501,1,0.0488,0.00251,0.00109,0.136,0.571,138.158,4,hard-rock
+0ZE0ejtOJdKIWY8klucX8L,Titãs,Cabeça Dinossauro,Homem primata,39,210306,False,0.636,0.731,1,-12.533,1,0.0314,0.00955,5.99e-06,0.0226,0.933,81.422,4,hard-rock
+0z4fJEy4zHxM4SkPUk5XEX,Titãs,Go Back (Ao vivo),Marvin - Ao vivo,39,261398,False,0.687,0.749,11,-8.328,1,0.0527,0.265,1.18e-06,0.231,0.848,88.03,4,hard-rock
+3crEgyJirvORcdm3uLhynF,Titãs,Domingo,Domingo,39,244533,False,0.482,0.939,7,-3.779,1,0.0395,0.000433,0.00569,0.343,0.961,144.77,4,hard-rock
+4wYq5wugZDzQiMZQYG4wVB,AC/DC,Let There Be Rock,Whole Lotta Rosie,65,333800,False,0.292,0.838,9,-4.459,1,0.078,0.0014,0.479,0.0953,0.423,159.176,4,hard-rock
+38TKoPHawUi6MEcz7I4GKh,Charlie Brown Jr.,De 1997 A 2007,Uma Criança Com Seu Olhar,39,251794,False,0.558,0.699,5,-8.608,0,0.0362,0.0657,0.000259,0.161,0.83,152.098,4,hard-rock
+2wk3rEvm71VGkUi7XBX3uT,Charlie Brown Jr.;Negra Li,A Arte De Charlie Brown Jr.,Não É Sério - Acoustic,39,291200,False,0.734,0.819,1,-4.582,1,0.0481,0.0353,7.61e-06,0.0912,0.746,92.105,4,hard-rock
+5wHu5Ht9C8tJ9L6HIxpb9c,Fiskales Ad-Hok,Fiesta,Resistiré,40,128573,False,0.325,0.933,5,-6.583,0,0.0504,4.06e-05,0.000489,0.377,0.806,78.66,4,hard-rock
+5KtFijRDUJIyIsqEp8xUnb,Los Prisioneros,Pateando Piedras,Independencia Cultural,39,272800,False,0.837,0.475,0,-13.055,1,0.11,0.0721,0.00129,0.0412,0.805,142.656,4,hard-rock
+0uPCCa70CruViP9HTpR4ZS,Charlie Brown Jr.,Imunidade Musical,O Futuro É Um Labirinto Pra Quem Não Sabe O Que Quer,39,179360,False,0.521,0.962,6,-3.283,0,0.161,0.291,0.0,0.0633,0.711,158.789,4,hard-rock
+4fdhVSIdZv0eB67sX2TDCv,Böhse Onkelz,Weiß,Das Wunder der Persönlichkeit,39,314666,False,0.572,0.669,0,-12.087,1,0.0481,0.0117,0.0,0.111,0.632,136.114,4,hard-rock
+3hjotkIscst2YgMWujDJ3P,Charlie Brown Jr.,Transpiração Continua Prolongada,Sheik,39,171333,False,0.852,0.859,10,-3.214,0,0.0656,0.153,0.000921,0.136,0.914,108.345,4,hard-rock
+52VZR0uCDHuiyLpkgA84d8,Fiskales Ad-Hok,Traga!,No Estar Aquí,40,179666,False,0.266,0.982,7,-6.543,0,0.0779,0.00273,0.00876,0.0968,0.557,165.896,4,hard-rock
+7bDVcyCsENX57qgjk2twzU,Hanoi Rocks,Two Steps From The Move,Up Around The Bend,38,188306,False,0.464,0.927,7,-4.514,1,0.0697,0.00677,2.71e-06,0.366,0.718,140.108,4,hard-rock
+2wZ99JXUqr6uoEcWbEZVbf,Titãs,Acústico MTV,Nem Cinco Minutos Guardados - Ao Vivo,39,245933,False,0.387,0.694,11,-9.23,1,0.0576,0.597,0.0,0.734,0.708,133.022,4,hard-rock
+3enLmvppgGgo2AGl5whW0m,Matanza,Odiosa Natureza Humana,Em Respeito Ao Vício,39,163600,False,0.335,0.998,11,-3.384,0,0.173,0.00108,2.18e-06,0.252,0.149,171.075,4,hard-rock
+3fPCgkC6BsI8AHyKc9XLL0,Matanza,Odiosa Natureza Humana,"Carvão, Enxofre e Salitre",40,181733,False,0.275,0.992,5,-3.697,1,0.144,0.0019,0.0,0.249,0.302,93.054,4,hard-rock
+1LcnI3qjdUdJTml8zX1bAN,Matanza,Pior Cenário Possível,A Sua Assinatura,40,208373,False,0.438,0.979,2,-6.131,1,0.0912,0.00108,2.63e-05,0.0836,0.692,176.127,4,hard-rock
+6cpbVrZueaJIklHRs9cGFI,Planet Hemp,Usuário,Phunky Buddha,39,170040,False,0.386,0.825,11,-8.881,1,0.277,0.00159,2.66e-06,0.641,0.253,188.962,3,hard-rock
+7ejyUCWw9t9AbeOrCj5p7t,Matanza,Pior Cenário Possível,"O Que Está Feito, Está Feito",39,160626,False,0.404,0.979,9,-5.348,0,0.0551,0.00148,1.41e-05,0.0818,0.686,135.898,4,hard-rock
+2Fpbt4UYV8mYYNOlq5Imor,Planet Hemp,A Invasão do Sagaz Homem Fumaça,Raprockandrollpsicodeliahardcoragga,40,233373,False,0.639,0.886,1,-4.982,1,0.387,0.0413,0.0,0.212,0.837,99.512,4,hard-rock
+5qOolZ12Z4kucBfKlUJeYp,Raimundos,Acústico - Ao Vivo,Palhas do Coqueiro - Ao Vivo | Acústico,39,178357,False,0.38,0.966,5,-3.591,0,0.141,0.219,1.72e-06,0.883,0.406,131.567,4,hard-rock
+2fB4EWHpiADO2Bv2Dzenmi,Raimundos,Acústico - Ao Vivo,Papeau Nuck Doe - Ao Vivo | Acústico,40,130116,False,0.472,0.965,1,-2.9,1,0.101,0.103,0.0,0.835,0.83,176.062,4,hard-rock
+4LxrmBgBLQc2oU60r6cBPW,Mr. Big,"Big, Bigger, Biggest! The Best Of Mr. Big",Wild World,51,208506,False,0.567,0.774,5,-5.14,1,0.0341,0.262,0.0,0.293,0.608,71.902,4,hard-rock
+57ebBLITHpRgRKGrlbxMZS,Journey,Frontiers,Faithfully,68,267080,False,0.202,0.644,11,-5.212,1,0.0324,0.0979,0.0,0.109,0.252,85.04,5,hard-rock
+6w2q9iV3oJAjcN8cPKNT4a,Gotthard,Homerun,Heaven,46,273533,False,0.478,0.683,5,-6.602,1,0.0317,0.124,0.0,0.138,0.312,147.995,4,hard-rock
+0NNep3grWO95CVGp04gMM4,Joe Satriani,Surfing With The Alien,"Always with Me, Always with You",52,202533,False,0.575,0.295,11,-12.584,1,0.0326,0.484,0.703,0.0639,0.394,144.366,3,hard-rock
+1QLyDdhB9gmxbGv0K1kFyT,Scorpions,Stranger Things (Soundtrack from the Netflix Original Series),Rock You Like a Hurricane - 2011,63,254346,False,0.584,0.833,11,-5.824,1,0.0358,0.000265,0.00595,0.32,0.671,124.018,4,hard-rock
+3439OLNIeD3y68kVuoZUO5,Mötley Crüe,"Girls, Girls, Girls","Girls, Girls, Girls",26,270533,False,0.599,0.922,7,-4.887,1,0.0739,0.025,5.82e-05,0.356,0.514,140.098,4,hard-rock
+1pTw2cNrp9L3esxLAvWnN2,Journey,Frontiers,Separate Ways (Worlds Apart),62,323666,False,0.467,0.943,0,-5.626,1,0.0576,0.0189,4.51e-06,0.216,0.453,131.536,4,hard-rock
+2uuMXKKmdXrY2XxsqTsGp0,Led Zeppelin,Mothership (Remastered),Immigrant Song - Remaster,57,146746,False,0.567,0.931,11,-10.361,1,0.0544,0.0119,0.159,0.342,0.623,112.948,4,hard-rock
+7FtRUrOEDUHTvenvp1BqZo,Rainbow,Ritchie Blackmore's Rainbow,Catch The Rainbow,58,396466,False,0.32,0.412,4,-12.75,0,0.0316,0.188,0.0339,0.0644,0.282,132.986,4,hard-rock
+7dEKwMoUZCpvUFLLuJQjju,KISS,KISS 40,I Was Made For Lovin' You - Single Mix,63,241106,False,0.708,0.856,9,-5.4,1,0.0537,0.0287,8.46e-05,0.0727,0.902,128.518,4,hard-rock
+6Nm8h73ycDG2saCnZV8poF,Rob Zombie,Hellbilly Deluxe,Dragula,76,222826,False,0.591,0.963,0,-6.489,0,0.0531,8.74e-05,0.000107,0.0781,0.609,125.03,4,hard-rock
+5S1TBgi9opW9tmK7aXaZyq,Europe,The Final Countdown (Remixed),The Final Countdown - Remixed,50,297797,False,0.451,0.897,5,-5.19,0,0.0518,0.0117,0.00391,0.284,0.555,119.084,4,hard-rock
+6rvldt6EoZwzogApECUCwd,AC/DC,Who Made Who,Who Made Who,66,207146,False,0.514,0.825,0,-5.135,1,0.0487,0.000286,0.293,0.607,0.655,125.274,4,hard-rock
+6qLEOZvf5gI7kWE63JE7p3,Stone Temple Pilots,Purple (2019 Remaster),Interstate Love Song - 2019 Remaster,73,194853,False,0.215,0.927,9,-7.327,1,0.0452,0.000273,0.00661,0.126,0.49,170.814,4,hard-rock
+6ap82DD5UEs3e63CqGiioP,Bonfire,You Make Me Feel - The Ballads,You Make Me Feel,52,284440,False,0.461,0.52,6,-7.049,0,0.0325,0.00321,0.0183,0.134,0.256,124.937,4,hard-rock
+4YsgFGkP1KeSFDWfZqVioX,Iron Maiden,Dance of Death (2015 Remaster),Dance of Death - 2015 Remaster,55,516426,False,0.311,0.876,4,-5.115,0,0.0936,0.0466,0.00442,0.134,0.296,124.584,4,hard-rock
+6kooDsorCpWVMGc994XjWN,Ram Jam,Ram Jam,Black Betty,72,238973,False,0.465,0.907,11,-6.404,0,0.113,0.0241,0.00118,0.13,0.681,117.293,4,hard-rock
+5IVA7WzOlWrmZh8EqZqMaw,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,70,161626,True,0.486,0.986,1,-4.71,1,0.0818,0.000662,0.048,0.29,0.501,180.085,4,hard-rock
+0QV3swr7L8MZr72lL2izV1,Metallica,Hardwired…To Self-Destruct (Deluxe),Hardwired,63,189347,True,0.128,0.991,11,-3.289,1,0.0582,1.11e-05,0.00362,0.219,0.53,186.124,4,hard-rock
+0nf9RjoFTcOzTIXtmzhRuH,Def Leppard,Adrenalize (Deluxe),Have You Ever Needed Someone So Bad,56,324026,False,0.497,0.726,4,-8.335,1,0.0272,0.0489,8.99e-06,0.049,0.735,136.792,4,hard-rock
+5jEAWfOIPhTol0LCRx2Mzj,Pitty,Dê um Rolê - Single,Dê um Rolê,39,268440,False,0.392,0.765,5,-5.906,1,0.0376,0.00451,0.0,0.128,0.647,121.499,4,hard-rock
+55z0yEsG9giLqLI31XmGSW,Los Prisioneros,La Cultura De La Basura,Cuando Te Vayas,39,291160,False,0.508,0.747,9,-10.249,0,0.0469,0.0112,0.000339,0.0954,0.439,144.575,4,hard-rock
+3wFGRek61NIF330UwJCI52,Iron Maiden,Powerslave (2015 Remaster),Aces High - 2015 Remaster,65,271906,False,0.3,0.936,2,-5.399,1,0.0456,0.0337,0.021,0.158,0.756,133.065,4,hard-rock
+3c7Doe67vpPgqUo2uRFyVO,Yngwie Malmsteen,Nordic Metal,Leviathan,0,266040,False,0.224,0.938,7,-8.08,1,0.121,0.0101,0.785,0.554,0.162,109.835,3,hard-rock
+5GxUHTvxGYGLLfHSbaDvxb,Chickenfoot,Best+Live,Oh Yeah,38,293973,False,0.459,0.8,2,-4.151,1,0.0285,5.58e-05,0.000795,0.148,0.332,95.229,4,hard-rock
+3uDnKje1CbdtzHgTe5qTbX,Pitty;Lúcio Maia;Rica Amabis,Admirável Chip Novo (2022 Remix),Admirável Chip Novo - 2022 Remix,39,180413,False,0.61,0.833,2,-6.26,1,0.0355,0.00138,0.0,0.606,0.624,135.787,4,hard-rock
+5X15W4gnll2D1vUaWkYKtO,Koil,Blacklight,Aku Rindu,38,247200,False,0.503,0.533,7,-8.722,1,0.0279,0.000937,0.112,0.207,0.439,149.999,4,hard-rock
+6xokpeOZkBhvtlFAdsiIt8,Pitty,Matriz,Motor,38,230089,False,0.335,0.559,4,-5.554,1,0.0283,0.202,0.011,0.114,0.123,59.704,4,hard-rock
+75KyB8zFgkkfwOWr3wz2y0,Los Prisioneros,La Cultura De La Basura,Maldito Sudaca,39,136373,False,0.525,0.869,4,-7.556,0,0.0519,0.1,6.21e-06,0.172,0.651,158.127,4,hard-rock
+5wzb9UzNX65XOSrL5hZNrv,Titãs,Volume 02,Insensível,39,207733,False,0.648,0.712,4,-5.354,1,0.0273,0.0638,0.0,0.177,0.923,120.222,4,hard-rock
+3GXVu859lhKPIOV0QZJPnE,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Cheia de Vida - Ao Vivo - Chegou Quem Faltava,38,142355,False,0.481,0.97,10,-4.517,1,0.104,0.000585,2.29e-05,0.743,0.379,98.407,4,hard-rock
+1oiHurFFxAaa1KrL0q6VRo,Los Prisioneros,La Cultura De La Basura,Lo Estamos Pasando Muy Bien,39,348506,False,0.625,0.795,2,-10.77,1,0.0699,0.0516,0.0317,0.468,0.65,149.141,4,hard-rock
+0bark9ggXjhaH9iy7RqwpR,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,"Uma só vida pra viver, tenho sede nela eu vou",38,302320,False,0.573,0.882,5,-4.17,0,0.0391,0.245,0.0,0.133,0.878,160.027,4,hard-rock
+2IpyGcvQ2sBAd2AmJ1mbIC,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,Quebra-Mar,38,177200,False,0.157,0.985,10,-4.195,0,0.315,0.00453,0.056,0.155,0.411,177.08,4,hard-rock
+4HRHLsw2kVwLPiapI4bhcr,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,Eu Protesto,38,266466,False,0.317,0.82,6,-7.013,1,0.0684,0.00506,0.000137,0.266,0.695,170.124,4,hard-rock
+5Pcskq8iLMAGMuJP5DCHfa,Faith No More,The Real Thing (Deluxe Edition),From out of Nowhere,39,201133,False,0.276,0.989,0,-5.37,0,0.077,0.00102,0.006,0.264,0.0862,161.183,4,hard-rock
+5a0bHLSL5t4eRNKjmh9PyV,Dead Fish,Zero e Um,Tão Iguais,37,145426,False,0.546,0.976,0,-3.066,1,0.203,0.0206,1.02e-06,0.0937,0.326,124.022,4,hard-rock
+2ZnuIK4LbnJMXWDxhXAuSg,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Proibida Pra Mim (Grazon),38,165240,False,0.574,0.934,8,-3.138,1,0.0476,0.0056,0.00419,0.105,0.921,163.742,4,hard-rock
+0AUf5eIgz3Lxww4BRzhM4J,Machuca,Viva MacHuca,Al Patibulo,39,175266,False,0.223,0.907,7,-4.677,1,0.0545,1.47e-06,0.0,0.128,0.503,149.14,4,hard-rock
+710LZwGdIyLGGBHg1MhUeu,Charlie Brown Jr.,Imunidade Musical,No Passo A Passo,38,147600,False,0.355,0.994,6,-2.437,0,0.0933,0.00419,0.000223,0.32,0.629,88.207,4,hard-rock
+1LcLhonnvVifGT9H47X5Dk,Los Prisioneros,Coleccion Suprema,Amiga Mía,38,244053,False,0.791,0.605,4,-7.699,1,0.0519,0.014,0.00502,0.133,0.903,135.275,4,hard-rock
+74niLvcQCxCi90ZzPnVVFM,Charlie Brown Jr.,Imunidade Musical,Onde Não Existe A Paz Não Existe O Amor,38,247733,False,0.551,0.959,8,-3.389,0,0.0681,0.21,1.38e-06,0.215,0.936,170.035,4,hard-rock
+2SgPrP39liz9qtXK7Zq3sf,Matanza,Odiosa Natureza Humana,Odiosa Natureza Humana,39,163600,False,0.402,0.995,6,-3.835,0,0.0763,0.00123,0.00133,0.07,0.53,181.269,4,hard-rock
+0KbtyQ2oKJWiFJz5wY4HBX,ZZ Top,The ZZ Top Sixpack,Tube Snake Boogie,38,184293,False,0.569,0.648,9,-12.15,1,0.0375,0.00382,0.054,0.108,0.965,150.396,4,hard-rock
+7lia528U7Kw5DvvfWbCN0w,Los Prisioneros,Coleccion Suprema,Estar Solo,39,246960,False,0.69,0.736,9,-6.948,1,0.0402,0.0303,0.605,0.584,0.969,122.454,4,hard-rock
+0vwuwEWl4gyO0IdxkbLoBd,Matanza,Pior Cenário Possível,Pior Cenário Possível,38,212453,False,0.477,0.976,9,-6.107,1,0.0841,0.00225,1.98e-05,0.371,0.453,133.104,4,hard-rock
+1SkwlmVJaqikct9OqPPn78,Chico Science;Nação Zumbi,Afrociberdelia,O Cidadão Do Mundo,39,200866,False,0.743,0.845,7,-8.912,1,0.0512,0.0033,5.7e-05,0.0664,0.514,95.246,4,hard-rock
+0ZqUiG5tz5lFQrZ6Opp5GN,Acústicos & Valvulados,Diamantes Verdadeiros,Até a Hora de Parar,38,260653,False,0.468,0.902,11,-1.221,1,0.0354,6.49e-06,0.0,0.124,0.558,120.059,4,hard-rock
+1XcM5R8ytZTXDoBmTFzB66,Traffic,Fiesta temática 60s,Dear Mr. Fantasy,0,337306,False,0.201,0.854,2,-7.318,1,0.107,0.115,0.017,0.245,0.659,168.211,4,hard-rock
+7ikJw7nFIbtKlRx97TZ2aB,Raimundos,Acústico - Ao Vivo,O Pão da Minha Prima / Monkey Man - Ao Vivo | Acústico,38,191501,True,0.605,0.928,8,-3.631,1,0.039,0.169,0.0,0.761,0.723,134.748,4,hard-rock
+2AmEv442DGwSxMGZ9XEvBA,Def Leppard,Pyromania (Deluxe),Rock Of Ages,65,247828,False,0.706,0.785,11,-7.666,0,0.041,0.00802,0.0319,0.195,0.636,105.893,4,hard-rock
+7iOm7tuQZeqXqzBZJ14CSM,Nazareth,Sound Elixir,Where Are You Now,26,233853,False,0.474,0.508,6,-6.845,0,0.0235,0.316,0.0,0.166,0.358,77.31,4,hard-rock
+7hzfrKYkRfPUIiagwhBtZS,Mr. Big,Actual Size,Shine,47,222973,False,0.592,0.738,8,-6.625,1,0.0279,5.56e-05,9.33e-06,0.0365,0.754,116.019,4,hard-rock
+0l5TpsCL1ObiTEsHeWA0by,Journey,Frontiers,Faithfully,57,266973,False,0.417,0.573,11,-7.33,1,0.0279,0.0801,0.0,0.0845,0.29,129.559,4,hard-rock
+5fPIx4t5vomPE9cWnTL6gv,Europe,Prisoners In Paradise,I'll Cry For You,48,321266,False,0.541,0.742,9,-7.79,1,0.0284,0.00304,0.0,0.124,0.342,99.032,4,hard-rock
+4j7GkwzZTidryYlrgvzY6u,Scorpions,Love at First Sting,Big City Nights (2015 - Remaster),25,249146,False,0.499,0.936,9,-3.031,0,0.069,0.000636,0.0025,0.0658,0.662,137.627,4,hard-rock
+1GqlvSEtMx5xbGptxOTTyk,Boston,Boston,Peace of Mind,68,303586,False,0.419,0.677,4,-6.183,1,0.0343,0.00101,9.99e-05,0.211,0.684,127.678,4,hard-rock
+0wvIGFIgbyz4JNwQhZgTv2,Alice In Chains,Dirt (2022 Remaster),Rooster (2022 Remaster),71,374333,False,0.271,0.551,3,-8.46,1,0.0272,0.0307,0.000581,0.118,0.2,143.899,3,hard-rock
+18URo35acNKRTHfEdjTcGn,Def Leppard,Pyromania,Photograph,68,247962,False,0.602,0.877,4,-6.606,1,0.0515,0.000343,0.635,0.0551,0.617,123.679,4,hard-rock
+4MYb7NWLwXNDB7bYs3HeX8,Foghat,Slow Ride / Save Your Loving (For Me),Slow Ride,69,232533,False,0.493,0.586,2,-13.916,1,0.046,0.0202,0.00106,0.102,0.656,113.618,4,hard-rock
+3vV3cr2TpPqFk07zxYUbla,Quiet Riot,Metal Health,Cum on Feel the Noize,72,290960,False,0.409,0.92,11,-5.439,0,0.12,0.00719,0.00105,0.0823,0.37,145.085,4,hard-rock
+7vidktgNZFQylTgH1GEnMs,Foreigner,Foreigner (Expanded),Cold as Ice,70,200213,False,0.562,0.609,3,-7.063,0,0.0271,0.0264,0.0,0.17,0.512,130.753,4,hard-rock
+4WwWjFCyvUY2fcx8OULByB,Skid Row,Slave to the Grind,In a Darkened Room,59,235066,False,0.338,0.668,4,-8.963,0,0.031,0.00275,1.15e-06,0.192,0.358,62.872,4,hard-rock
+66kO1Sr99392GvDZWKdCiv,Scorpions,MTV Unplugged (The Studio Edits),When You Came into My Life - Studio Edit,54,210760,False,0.63,0.656,3,-6.415,1,0.0302,0.0508,0.00158,0.111,0.0848,125.966,4,hard-rock
+6GzCkTddOn1vSln1gbSr8y,AC/DC,Iron Man 2,Shoot to Thrill,57,317800,False,0.453,0.897,2,-5.376,1,0.0705,0.000358,0.0956,0.365,0.492,141.167,4,hard-rock
+4pIKFpwflOdhYNIRmPTj3E,Ghost,Prequelle,Dance Macabre,65,219720,False,0.619,0.696,7,-6.269,0,0.0315,1.89e-05,0.00555,0.38,0.727,125.986,4,hard-rock
+5Z8EDau8uNcP1E8JvmfkZe,Alice Cooper,School's Out,School's Out,69,210106,False,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,4,hard-rock
+0gkWw8Cx8D9f9wNhNMBy59,Charlie Brown Jr.,"Ritmo, Ritual E Responsa","Ritmo, Ritual E Responsa",38,225680,False,0.74,0.911,1,-5.377,0,0.0406,0.0679,0.000458,0.342,0.731,106.956,4,hard-rock
+769cLRTw2y6KRdkFWFkxtu,Pantera,Cowboys from Hell,Domination,65,305293,True,0.372,0.888,2,-5.88,1,0.0943,0.000211,0.00442,0.115,0.555,141.374,4,hard-rock
+3F3n2V9XBrtb1omqLfcNPe,Saigon Kick,The Lizard,Love Is on the Way,54,264173,False,0.576,0.449,1,-8.764,0,0.0287,0.085,0.0,0.119,0.0552,129.323,4,hard-rock
+11VGhd5i7deLL0YB0ayicY,Guns N' Roses,Use Your Illusion II,Yesterdays,63,196226,False,0.363,0.849,6,-7.744,1,0.0554,0.0666,0.00517,0.306,0.429,170.627,4,hard-rock
+4A065x9kJt955eGVqf813g,Alice In Chains,Dirt (2022 Remaster),Them Bones (2022 Remaster),69,149466,False,0.159,0.946,9,-5.756,1,0.0629,0.0235,8.06e-06,0.387,0.309,165.014,1,hard-rock
+2V8KvnD5LVeeDChMWEkSzC,Poison,Open Up And Say...Ahh! (20th Anniversary Edition),Nothin' But A Good Time - Remastered 2006,69,224866,False,0.576,0.974,1,-2.785,1,0.0828,0.0202,0.0,0.348,0.531,129.088,4,hard-rock
+1nmZ8yqKkfooOuYvtFctDp,Asia,Asia,Heat Of The Moment,72,227893,False,0.306,0.86,1,-7.371,1,0.0534,0.204,0.000146,0.369,0.541,136.265,4,hard-rock
+0QGgaZqvTWevxHXKEeN59t,Pitty,Na Tela,Na Tela,37,179882,False,0.52,0.66,5,-6.086,0,0.136,0.00517,0.000106,0.145,0.792,97.019,4,hard-rock
+7A1odihHBrI8n9k0Fefh2j,AC/DC,The Razors Edge,Are You Ready,62,250333,False,0.452,0.821,7,-4.816,1,0.0324,0.0165,3.53e-06,0.13,0.414,108.529,4,hard-rock
+5YnNWHKCJaJKwbagXDb5Uf,AC/DC,Black Ice,War Machine,61,189786,False,0.518,0.718,9,-4.355,1,0.0343,4.85e-05,0.244,0.25,0.531,127.593,4,hard-rock
+0zlaa4AmbFE7MVDijsyD9Q,Greta Van Fleet,The Battle at Garden’s Gate,Heat Above,67,341255,False,0.338,0.847,3,-3.692,1,0.0458,0.00881,0.00105,0.147,0.232,139.061,4,hard-rock
+2QtlH5dzdYDlc0hBuzsNgq,Pitty,(Des) Concerto Ao Vivo,Equalize - Ao Vivo,38,255680,False,0.253,0.791,2,-4.449,1,0.0457,0.363,0.0,0.482,0.315,165.161,4,hard-rock
+0JPesMURlkeCSWDB9kPm9p,Charlie Brown Jr.,Nadando Com Os Tubarões,Transar No Escuro,38,183160,False,0.336,0.968,9,-5.175,1,0.051,0.000416,0.000677,0.428,0.555,170.03,4,hard-rock
+1XXp1AY5XKaHIgn6huNzvP,Pitty,Admirável Chip Novo,O Lobo,37,218386,False,0.697,0.813,11,-3.903,0,0.034,0.00428,2.17e-05,0.122,0.589,120.005,4,hard-rock
+5vQfFRhPgLCHnRt38BWZdc,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Tamo Ai Na Atividade,38,219426,False,0.41,0.872,10,-3.403,0,0.0977,0.003,1.24e-06,0.0901,0.784,166.211,4,hard-rock
+1LQbFNBd3y03RsPKR9U8vE,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Lugar Ao Sol,38,214400,False,0.334,0.784,10,-5.809,1,0.0311,0.0197,0.0638,0.375,0.286,141.306,4,hard-rock
+3qxOR4Y5Qx3b4eC0b0owe1,Pitty,Matriz,Bicho Solto,37,166684,False,0.652,0.611,11,-7.117,0,0.0342,0.867,0.000111,0.324,0.748,123.508,4,hard-rock
+5nQ7ULdDyfeZUO2R441Mwm,Pitty,Admirável Chip Novo,I Wanna Be,37,152773,False,0.55,0.954,11,-4.255,0,0.0467,0.00216,0.0,0.31,0.961,174.061,4,hard-rock
+24POLNX0OpqDtFDYHJ4WlX,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,"Você Vai De Limusine, Eu Vou De Trem",38,177533,False,0.155,0.916,1,-6.783,1,0.0846,0.00191,0.0231,0.0984,0.595,164.085,4,hard-rock
+4EtjLlwM4T1T2fBAGxwql8,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,Só Lazer,37,178226,False,0.274,0.764,11,-6.881,1,0.0702,0.00448,3.28e-05,0.389,0.583,166.205,4,hard-rock
+3k0ZOkB5j9mlrkxsbTd7Z0,Böhse Onkelz,Ein böses Märchen aus tausend finsteren Nächten,Danke,37,203160,False,0.426,0.905,2,-4.255,1,0.0452,4.27e-05,1.07e-06,0.0687,0.497,164.934,4,hard-rock
+5e1TQxFlSdcPHoMezJRUp2,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),O Côro Vai Comê - Ao Vivo - Chegou Quem Faltava,37,105301,False,0.475,0.98,10,-4.919,0,0.188,0.00268,0.0354,0.918,0.662,95.216,4,hard-rock
+6ixI7aqZuGHfqme5uWoekr,Charlie Brown Jr.,Chegou Quem Faltava - Volume 2 (Ao Vivo),Só os Loucos Sabem - Ao Vivo - Chegou Quem Faltava,38,195818,False,0.358,0.875,7,-6.531,1,0.0794,0.0529,5.64e-06,0.812,0.372,102.016,4,hard-rock
+0imIUyJusF5SD8HMaOuj2P,Raimundos,Raimundos,Nêga Jurema,38,113160,False,0.354,0.886,5,-8.658,0,0.0681,0.000532,0.00499,0.106,0.549,133.762,4,hard-rock
+1uCM2mchqMjPrjKhfgsUWa,Matanza,A Arte do Insulto,O Chamado do Bar,37,125600,False,0.431,0.983,11,-3.97,0,0.0704,4.82e-05,5.9e-05,0.165,0.6,121.971,4,hard-rock
+1DOeqZUzpw3ChK8giHtCLr,Charlie Brown Jr.,Imunidade Musical,Liberdade Acima De Tudo,38,187600,False,0.588,0.993,5,-3.152,0,0.0947,0.0251,0.000203,0.104,0.45,121.961,4,hard-rock
+1TOprloGF8uqaxQH0euVj8,Chico Science;Nação Zumbi,Da Lama Ao Caos,Risoflora,39,248306,False,0.504,0.802,7,-8.624,1,0.0395,5.42e-05,0.00453,0.186,0.566,103.333,4,hard-rock
+0kpgU5BLFPhPtaCsZCERIk,Pitty,Setevidas,Um Leão,38,215773,False,0.518,0.817,4,-5.793,0,0.045,0.000252,0.0821,0.0693,0.419,100.508,5,hard-rock
+5AePsqvBUFJhzzrUTgTN5r,Matanza,Odiosa Natureza Humana,A Menor Paciência,38,255333,False,0.533,0.974,11,-4.376,0,0.049,0.000304,2.65e-05,0.174,0.83,140.961,4,hard-rock
+10TBENZSwzP5S1GzNnoBNX,Charlie Brown Jr.,De 1997 A 2007,Não Uso Sapato - Ao Vivo,38,174010,False,0.397,0.968,6,-6.355,1,0.0553,0.00152,0.00027,0.63,0.746,98.348,4,hard-rock
+4rbXqH5cfnUCOH1hZx21zP,Matanza,Odiosa Natureza Humana,Saco Cheio e Mau-Humor,38,209866,False,0.386,0.995,1,-4.197,0,0.109,0.0003,0.00059,0.119,0.273,175.17,4,hard-rock
+0ClmF8tkpuySXLJHspUoKT,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Camisa 10 joga bola até na chuva (Bomba Sonica),38,189840,False,0.591,0.944,10,-3.993,0,0.0585,0.128,0.0,0.0891,0.96,91.991,4,hard-rock
+5YTUCrGykjWXPwhqE2w5Fp,Raimundos,Acústico - Ao Vivo,Me Lambe - Ao Vivo | Acústico,38,269568,False,0.375,0.953,3,-3.824,0,0.198,0.274,0.0,0.445,0.689,174.003,4,hard-rock
+0pUVeEgZuNyFzIMKp67RbS,Billy Idol,Rebel Yell,Eyes Without A Face,72,299240,False,0.391,0.815,9,-6.197,1,0.0518,0.0177,0.00226,0.276,0.647,84.383,4,hard-rock
+4USzbSnPuhnR0b2CUiHwyF,Scorpions,Blackout,When the Smoke Is Going Down (2015 - Remaster),24,231986,False,0.45,0.591,2,-5.551,0,0.0248,0.0248,0.00275,0.0891,0.283,98.51,4,hard-rock
+6QLspHLCLftSGPa6vNzKuo,Status Quo,In The Army Now,In The Army Now,65,281746,False,0.686,0.722,9,-7.094,0,0.0233,0.101,3.37e-06,0.11,0.904,104.665,4,hard-rock
+6hu1f1cXSw7OAqhpSQ2zDy,Led Zeppelin,Led Zeppelin,Dazed and Confused - 1990 Remaster,63,386373,False,0.271,0.553,2,-9.526,1,0.0472,0.044,0.0096,0.0999,0.433,86.762,3,hard-rock
+4lhqal0Hq63U2wETCeBdG1,12 Stones,The Only Easy Day Was Yesterday,We Are One,60,206706,False,0.444,0.974,5,-4.041,0,0.114,0.000119,1.64e-05,0.233,0.306,127.102,4,hard-rock
+4nXkbcTj3nyww1cHkw5RAP,The Doobie Brothers,The Captain and Me,Long Train Runnin',72,207266,False,0.575,0.912,7,-7.275,0,0.0393,0.0916,0.00211,0.0562,0.843,117.399,4,hard-rock
+6hpPAOftKbe1YghyTtJuCq,Extreme,Extreme,Play With Me,59,211440,False,0.495,0.868,6,-8.89,1,0.0548,0.00586,0.00139,0.111,0.273,101.346,4,hard-rock
+6jtUOVRO4p09Z7E35ERRL7,AC/DC,POWER UP,Demon Fire,61,210360,False,0.521,0.881,9,-5.309,1,0.0387,4.93e-06,0.0114,0.141,0.564,160.026,4,hard-rock
+4lbhQdbiTpNP7GowZG8KsM,Firehouse,Firehouse,Don't Treat Me Bad,57,235360,False,0.616,0.807,8,-11.4,1,0.0348,0.000303,2.37e-05,0.193,0.637,111.054,4,hard-rock
+32BEasyNQgqXQJKoVa0fUw,Greta Van Fleet,From The Fires,Black Smoke Rising,68,259893,False,0.558,0.902,7,-4.018,1,0.0464,0.197,0.000148,0.0852,0.572,100.027,4,hard-rock
+2vyae4DvSU2gs8OMOGwXF2,AC/DC,Rock or Bust,Rock or Bust,62,183053,False,0.572,0.825,8,-3.977,1,0.04,7.13e-05,0.000134,0.134,0.56,98.057,4,hard-rock
+5W7YROOF6bFfBexY81LFjt,Styx,Cornerstone,Babe,67,265973,False,0.267,0.204,2,-13.714,1,0.0317,0.527,0.0,0.0924,0.0903,169.486,4,hard-rock
+6RbC38oDCIXD8V2AOU1Tjr,Metallica;Marianne Faithfull,Reload,The Memory Remains,63,279173,False,0.435,0.901,10,-3.694,0,0.0429,0.000303,0.0072,0.185,0.547,143.646,4,hard-rock
+4vO9dmzNRqDhFY3jD1a3P7,Mountain,Climbing!,Mississippi Queen,71,151293,False,0.581,0.624,9,-8.346,1,0.0777,0.0987,0.0,0.0411,0.637,139.714,4,hard-rock
+7yDrKl1J4VWNbR4aLU3qJ7,KISS,Creatures Of The Night,I Love It Loud,64,255426,False,0.414,0.897,5,-6.406,0,0.0538,0.000402,1.85e-06,0.0809,0.263,170.916,4,hard-rock
+4iya38ctQ1httyA6NOG9oW,Greta Van Fleet,The Battle at Garden’s Gate,Light My Love,67,270887,False,0.374,0.778,5,-4.466,1,0.0363,0.1,0.199,0.107,0.484,133.85,3,hard-rock
+0HSqXHUdHUbDjWxYIClohv,Judas Priest,Angel Of Retribution,Angel,55,264200,False,0.532,0.441,11,-7.86,0,0.0243,0.014,0.0,0.11,0.204,83.998,4,hard-rock
+4f3RDq9nYPBeR1yMSgnmBm,Judas Priest,Screaming For Vengeance (Expanded Edition),You've Got Another Thing Coming,67,310080,False,0.519,0.833,6,-6.947,0,0.0496,0.00572,4.33e-06,0.104,0.532,138.225,4,hard-rock
+528CAH5pTLq86oZ52fHifA,Cheap Trick,Lap Of Luxury,The Flame,66,338800,False,0.629,0.581,4,-11.856,1,0.027,0.513,2.06e-06,0.0755,0.359,97.074,4,hard-rock
+0K6yUnIKNsFtfIpTgGtcHm,Rush,Moving Pictures (2011 Remaster),Limelight,67,259839,False,0.581,0.854,1,-8.485,0,0.0428,0.00197,0.0013,0.111,0.788,131.18,4,hard-rock
+5hVepr5CHiTGtJY5bP4i5n,Scorpions,Comeblack,No One Like You,61,246533,False,0.601,0.928,7,-4.38,0,0.0481,0.014,0.000113,0.151,0.625,115.999,4,hard-rock
+2lcfGO79t1PqcXc2Mbxyd5,Ozzy Osbourne;Eric Clapton,Patient Number 9,One of Those Days (feat. Eric Clapton),64,280206,False,0.412,0.835,3,-4.342,0,0.0335,0.000434,0.457,0.106,0.313,81.958,4,hard-rock
+6FRwDxXsvSasw0y2eDArsz,Cream,Disraeli Gears,Sunshine Of Your Love,60,250000,False,0.684,0.481,2,-12.59,1,0.0384,0.475,6.57e-05,0.118,0.784,115.078,4,hard-rock
+4mvlERMC6Bfc7F5Gx5qfyn,Nuket,On maantiellä mittaa,Kun vielä nuori olla voi,37,215880,False,0.302,0.818,11,-9.134,1,0.0478,0.0398,0.0,0.227,0.615,171.284,4,hard-rock
+0o8AsVRLRF15nT8GsLz5zO,Charlie Brown Jr.,Chegou Quem Faltava - Volume 2 (Ao Vivo),Céu Azul - Ao Vivo - Chegou Quem Faltava,37,198101,False,0.634,0.631,0,-7.827,0,0.0302,0.244,0.0,0.743,0.514,128.562,4,hard-rock
+0853SQNjVnNVFa2j68txPo,Smitten,En Algún Lugar,"Nada para Mí, Nada para Vos",37,193800,False,0.519,0.697,9,-3.621,1,0.0294,0.118,0.0,0.0771,0.667,173.106,4,hard-rock
+70P8ZCFhGq0VURIE4N9DW2,Charlie Brown Jr.,De 1997 A 2007,Só Por Uma Noite,37,201952,False,0.55,0.949,4,-4.79,1,0.0656,0.000614,0.000244,0.0882,0.503,109.072,4,hard-rock
+50CMxnG6F6U4ffjn243Ubi,Titãs,Titãs (Ao Vivo),Vossa Excelência,37,189266,False,0.247,0.94,0,-4.768,1,0.113,0.129,0.0,0.916,0.405,173.992,4,hard-rock
+0QSPohbvsYOEcvkHnok13V,Project46,Que Seja Feita a Nossa Vontade,Erro +55,37,280075,False,0.333,0.978,6,-3.452,1,0.18,0.00236,0.000437,0.372,0.267,159.981,4,hard-rock
+3JLrri1xSCui3bzITDJbkk,Led Zeppelin,Houses of the Holy (Remaster),The Rain Song - Remaster,60,459093,False,0.336,0.318,0,-11.412,1,0.0263,0.317,0.0716,0.111,0.24,79.66,4,hard-rock
+6pkRLVS9TJKKFzEyZI7QFv,Dead Fish,Ponto Cego,Sombras da Caverna,36,173720,False,0.419,0.947,5,-4.966,0,0.0531,5.42e-05,5.74e-06,0.185,0.454,133.005,4,hard-rock
+20sXcaJkWP0DdzA58Colw3,Iron Maiden,Senjutsu,The Writing On The Wall,61,373898,False,0.402,0.912,2,-5.447,0,0.0442,0.00158,0.000179,0.0923,0.566,90.045,4,hard-rock
+7zifvGo02NwK9XYUFiWYsj,Atlanta Rhythm Section,Best 70s Rock Tunes,Beautiful Dreamer,0,206133,False,0.433,0.264,2,-16.176,1,0.0346,0.64,0.00275,0.286,0.257,124.987,4,hard-rock
+5XtQX7YAnDR7ki1yJYfrUU,Dead Fish,Afasia,Noite,36,196506,False,0.377,0.937,5,-3.694,1,0.109,0.00185,1.05e-06,0.264,0.494,138.009,4,hard-rock
+0qmzAFEijLDdvR2VbjFsPH,Charlie Brown Jr.,Transpiração Contínua Prolongada - Edição Comemorativa,Zóio De Lula,37,252226,False,0.69,0.563,8,-6.7,0,0.0783,0.136,2.57e-06,0.0574,0.848,152.21,4,hard-rock
+2BvuIKbuHI3cfFeTYarKji,Pitty,Matriz,Ninguém É de Ninguém,37,186954,False,0.654,0.8,2,-4.743,1,0.0343,4.35e-05,0.000352,0.0882,0.84,144.006,4,hard-rock
+51wZeWdtnIHtnvnAlXlonu,Gritando HC,Gritando HC,Velho Punk,36,96346,False,0.3,0.816,11,-11.512,0,0.098,0.00121,0.0366,0.171,0.634,196.378,4,hard-rock
+6reypLSfvgiVPl5MFvSNrK,Atlanta Rhythm Section,Best 70s Rock Tunes,Beautiful Dreamer,0,206133,False,0.433,0.264,2,-16.176,1,0.0346,0.64,0.00275,0.286,0.257,124.987,4,hard-rock
+3uwRNE0Zz7wP19az6lpdZw,Atlanta Rhythm Section,Best 70s Rock Tunes,Beautiful Dreamer,0,206133,False,0.433,0.264,2,-16.176,1,0.0346,0.64,0.00275,0.286,0.257,124.987,4,hard-rock
+1f0ykkUsIVLXnoVcpvg8zh,Atlanta Rhythm Section,Sweet Home Alabama,Beautiful Dreamer,0,206133,False,0.433,0.264,2,-16.176,1,0.0346,0.64,0.00275,0.286,0.257,124.987,4,hard-rock
+7kCK7FazK6VbfEqtZ6CRa0,Charlie Brown Jr.,Transpiração Continua Prolongada,Aquela Paz,37,182200,False,0.542,0.7,11,-7.091,1,0.0421,0.0722,0.00152,0.0991,0.666,91.26,4,hard-rock
+24miLxqEchxqXnm528AI2H,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Inabalavelmente,37,265000,False,0.702,0.813,8,-4.731,1,0.0379,0.151,0.0,0.0783,0.879,151.013,4,hard-rock
+473BctFOaLD34baSLIr3AS,Raimundos,Raimundos,Palhas do coqueiro,37,133760,False,0.276,0.95,8,-6.749,0,0.102,0.0111,0.000242,0.889,0.478,145.29,3,hard-rock
+4g9vBGwvz06hfW5UKTbYl4,BBS Paranoicos,Og Bo Toyy,Irreparable,38,156653,False,0.458,0.986,7,-3.693,1,0.131,0.000539,0.000114,0.237,0.294,97.078,4,hard-rock
+2TlQN2FxABjvDZnDjSivgq,Matanza,Pior Cenário Possível,Matadouro 18,37,167013,False,0.35,0.978,7,-5.878,0,0.144,0.00055,1.24e-05,0.107,0.396,182.956,4,hard-rock
+58H9IlJTYcpY66NX0ysI9P,Monster Magnet,Fiesta temática 90s,Kick Out The Jams,0,155613,False,0.467,0.973,10,-4.505,0,0.114,0.000213,4.64e-06,0.145,0.593,144.106,4,hard-rock
+6Oc5Zi5JXqeUglSfWpno7i,Pitty,Setevidas,Deixa Ela Entrar,37,230453,False,0.411,0.917,0,-4.296,1,0.0606,0.000476,2.19e-06,0.0695,0.245,136.64,4,hard-rock
+2itjDgLVxad5cAY4LB52KL,Pitty,Chiaroscuro,Todos Estão Mudos,37,215480,False,0.535,0.986,11,-3.884,0,0.124,0.00266,0.0173,0.346,0.2,105.937,4,hard-rock
+5cZJVhuhs4aXpftslha4Ac,Koil;The Rock,Pop Terbaik Milenium,Kenyataan Dalam Dunia Fantasy (feat. The Rock),37,256534,False,0.651,0.882,2,-8.572,1,0.0626,0.00985,0.00106,0.551,0.387,160.032,4,hard-rock
+5604H05rNS7jguXPJx4vgm,Raimundos,Acústico - Ao Vivo,Sereia da Pedreira - Ao Vivo | Acústico,37,137237,True,0.58,0.95,9,-3.693,1,0.119,0.382,0.0,0.954,0.952,174.155,4,hard-rock
+5CGpPUcUahMuLzkNK9ZgPP,Traffic,Mr. Fantasy,Dear Mr. Fantasy,60,334000,False,0.24,0.615,2,-14.117,1,0.0677,0.171,0.0125,0.0801,0.768,166.657,4,hard-rock
+6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,House of Pain (Fine Malt Lyrics),Jump Around,65,214946,False,0.854,0.71,4,-6.32,0,0.0795,0.0113,9.06e-05,0.166,0.818,106.893,4,hard-rock
+2Bhqg1ONbtcFBTR96H7oQw,Cypress Hill,Stash,Illusions - Harpsichord Mix,61,209200,False,0.85,0.723,2,-8.789,1,0.171,0.00943,0.0818,0.101,0.55,90.961,4,hard-rock
+2wJJNgD6GrKoQ435VxTRv6,coldrain;Ryo,THE SIDE EFFECTS,MAYDAY (feat. Ryo from Crystal Lake),61,227011,True,0.522,0.97,10,-4.576,0,0.209,5.53e-05,0.0,0.246,0.488,121.054,4,hard-rock
+6vXceKic4ACImU0bC3oecd,Ghost,IMPERA,Darkness At The Heart Of My Love,68,298573,False,0.54,0.719,10,-5.744,1,0.0284,0.00833,0.000158,0.158,0.238,122.043,4,hard-rock
+5fXQmRFO1CDN04HtUVNCUh,Ghost,Prequelle,Life Eternal,60,207120,False,0.443,0.612,1,-7.321,1,0.0275,0.0188,1e-06,0.103,0.204,155.961,4,hard-rock
+3dWNUqrgkQakv9fj5epwPK,Metallica,Load,Mama Said,60,319693,False,0.448,0.504,8,-7.749,0,0.0317,0.0171,0.000849,0.38,0.391,135.254,4,hard-rock
+5LK19eRCqoKuRSVuUEhEKh,Sebastian Bach,Angel Down,By Your Side,50,327533,True,0.477,0.605,1,-7.417,0,0.0319,0.0512,0.0,0.0563,0.0779,143.099,4,hard-rock
+7FRfYOql61DGDp9VPPe2qA,Alice In Chains,Dirt (2022 Remaster),Down In A Hole (2022 Remaster),65,338226,False,0.357,0.795,6,-5.909,1,0.0337,0.0134,0.00013,0.111,0.416,97.171,4,hard-rock
+2YTwVDQOSGclX2N3AKetOP,Metallica,Kill 'Em All (Deluxe / Remastered),The Four Horsemen - Remastered,60,432546,False,0.224,0.938,0,-6.907,1,0.408,0.00157,0.0765,0.106,0.327,203.79,4,hard-rock
+5QRs63VVKNaqUjg6XSSckM,Cinderella,Long Cold Winter,Don't Know What You Got (Till It's Gone),62,354640,False,0.384,0.535,9,-9.939,1,0.0289,0.238,0.00045,0.0533,0.232,132.445,4,hard-rock
+4afJNzc6QD51eWAxzAnS0i,Aerosmith,The Very Best of Aerosmith: Devil's Got a New Disguise,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack - Pop Mix",57,267986,False,0.406,0.659,2,-5.263,1,0.0336,0.124,0.0,0.317,0.236,120.927,4,hard-rock
+5ohfpKB5tt275f4Y4lQ9F7,Slayer,Reign In Blood (Expanded),Angel Of Death,60,291773,False,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,4,hard-rock
+4yJZP61jBhVTesHBZ0gpQn,Sweet,"Fox on the Run (from the ""Guardians of the Galaxy 2"" Trailer)",Fox on the Run - Single Version,60,200800,False,0.481,0.747,4,-6.937,1,0.0364,0.00698,0.0,0.0646,0.732,127.597,4,hard-rock
+753KutoAy00apPsplMRetG,AC/DC,Let There Be Rock,Let There Be Rock,64,366346,False,0.332,0.725,11,-5.809,0,0.116,0.000209,0.607,0.0767,0.422,182.364,4,hard-rock
+3U9gogDStAfWxSm91PJuxb,Slayer,South Of Heaven,South Of Heaven,64,298533,True,0.31,0.991,5,-3.769,0,0.316,0.000132,0.085,0.0969,0.0395,140.071,4,hard-rock
+2M5WTwqnkyz7bW6P1CiD6q,Pantera,Far Beyond Driven,I'm Broken,65,264800,True,0.419,0.878,7,-6.352,1,0.0553,0.000594,0.559,0.139,0.666,147.385,4,hard-rock
+1gzIbdFnGJ226LTl0Cn2SX,Billy Idol,Billy Idol,White Wedding - Pt. 1,71,252200,False,0.673,0.814,9,-5.411,1,0.0367,0.0133,0.00293,0.343,0.728,147.193,4,hard-rock
+2eDdFHgqNJltzlvlZFVDWd,Led Zeppelin,Houses of the Holy (Remaster),Over the Hills and Far Away - Remaster,64,290933,False,0.402,0.691,7,-10.274,1,0.0691,0.0679,0.133,0.0955,0.206,96.95,4,hard-rock
+5MJmQ49C7xzUo9wqZON1Gb,Titãs,Caos,Caos,36,193386,False,0.598,0.874,7,-3.993,1,0.0339,0.0245,0.0,0.119,0.705,145.007,4,hard-rock
+1hHGUdFaiJHw9hVZGJWYO2,Allman Brothers Band,Idlewild South (Deluxe Edition Remastered),Midnight Rider,72,180066,False,0.585,0.532,7,-9.673,1,0.0268,0.209,0.00797,0.227,0.68,94.461,4,hard-rock
+5FqYA8KfiwsQvyBI4IamnY,Van Halen,The Collection,Jump - 2015 Remaster,60,241599,False,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,4,hard-rock
+2E7W1X4maFFcjHrVrFA7Vs,Ozzy Osbourne,Bark At The Moon (Expanded Edition),Bark at the Moon,67,257120,False,0.303,0.961,9,-5.333,0,0.243,0.00253,6.2e-05,0.132,0.305,146.591,4,hard-rock
+4cXLQrYdvNNRGg6fpCxWT2,Scorpions,Rock Believer (Deluxe),When You Know (Where You Come From),53,262146,False,0.45,0.618,2,-3.522,0,0.0308,0.26,0.0,0.121,0.291,147.96,4,hard-rock
+6fybp4N6eW3bsFAvARxyVe,Van Halen,Van Halen (Remastered),Ain't Talkin' 'Bout Love - 2015 Remaster,68,227800,False,0.518,0.938,8,-5.964,0,0.0416,0.021,0.000305,0.288,0.71,139.138,4,hard-rock
+2oAkehvjylOAggGLPeVXYa,Titãs,Õ Blesq Blom,Flores,36,207600,False,0.501,0.691,9,-11.807,1,0.0319,0.000903,2.23e-05,0.101,0.942,144.417,4,hard-rock
+1wlKw9NAWVWpx7OIAyg9EA,Soundgarden,Superunknown (Deluxe Edition),Fell On Black Days,68,283026,False,0.574,0.739,4,-5.745,0,0.0271,0.00152,0.000328,0.141,0.514,101.069,3,hard-rock
+1ynmMEK1fkyiZ6Z6F3ThEt,The J. Geils Band,Freeze Frame,Centerfold,74,216533,False,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37,4,hard-rock
+3iSmEacr24vUxitXq3e6cN,Titãs,Televisão,Televisão,36,223800,False,0.618,0.81,1,-9.545,0,0.121,0.124,1.57e-06,0.0731,0.904,162.986,4,hard-rock
+3i25w2HOWoafnTIiWJCL71,Led Zeppelin,In Through the out Door (Remaster),Fool in the Rain - Remaster,64,370920,False,0.52,0.912,0,-7.512,1,0.0487,0.124,0.00151,0.239,0.702,131.403,4,hard-rock
+6cLVxeHljKgjD1mQ75QKhp,Pitty,Tempo de Brincar,Tempo de Brincar,36,166683,False,0.431,0.768,11,-7.065,0,0.0385,8.8e-05,0.00122,0.113,0.659,82.132,4,hard-rock
+3KhF2YiNpJvGpfiCW45R6D,Van Halen,Van Halen (Remastered),Runnin' with the Devil - 2015 Remaster,70,214960,False,0.472,0.9,8,-6.406,0,0.0582,0.148,0.000297,0.34,0.42,95.826,4,hard-rock
+4ub6coEs7YEXIuEmiDN59O,Böhse Onkelz,Ein böses Märchen aus tausend finsteren Nächten,Zuviel,36,312826,False,0.4,0.813,4,-4.7,0,0.0351,0.00113,0.00112,0.0988,0.39,177.906,4,hard-rock
+7voJiEkIHuBZ7EKJC4EabO,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Vícios E Virtudes - Ao Vivo,36,190933,False,0.37,0.941,8,-6.367,1,0.0804,0.0261,0.00033,0.983,0.583,91.607,4,hard-rock
+2EwAQojIfM9035W96T9AG3,Charlie Brown Jr.,De 1997 A 2007,Tamo Ai Na Atividade,36,219794,False,0.405,0.836,10,-4.673,0,0.121,0.00265,0.0,0.0836,0.777,167.015,4,hard-rock
+1ccwGTzFnySkIDcJod86aJ,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Zóio De Lula,36,252226,False,0.693,0.659,6,-3.491,0,0.0747,0.129,2.74e-05,0.0606,0.887,152.117,4,hard-rock
+5jpa728whg467H6X9BpdUV,Böhse Onkelz,Böhse Onkelz,Der Hund den keiner will,36,210279,False,0.488,0.752,7,-6.537,0,0.0499,0.0359,3.74e-05,0.163,0.535,160.12,4,hard-rock
+5ij7PgYsUYHMXMFDWcZqww,Pense,"Realidade, Vida e Fé",Eu Não Posso Mais,36,169058,False,0.495,0.984,8,-4.354,1,0.0978,0.00037,2.52e-05,0.307,0.803,170.007,4,hard-rock
+2kN4QoSDlH88nPT2Z1zfvk,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Charlie Brown Jr. - Ao Vivo - Chegou Quem Faltava,36,95669,False,0.448,0.973,1,-4.967,1,0.201,0.000787,0.0199,0.521,0.659,120.976,4,hard-rock
+5AbtfzFvaTP1iQfIQMN3AF,Hanoi Rocks,Two Steps From The Move,Don't You Ever Leave Me,36,246333,False,0.44,0.919,2,-4.404,1,0.049,0.0215,0.000281,0.21,0.522,107.919,4,hard-rock
+2UsDkGHdQxiivgHhyTDtpd,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Gimme o Anel / Sheik - Ao Vivo - Chegou Quem Faltava,36,157690,False,0.501,0.961,1,-5.039,1,0.201,0.0108,0.0152,0.697,0.521,122.202,4,hard-rock
+2bR7PRHMdePRvBk83nWEfa,Charlie Brown Jr.,"Preço Curto, Prazo Longo",Mantenha A Dúvida E Espere Até Ouvir Falar De Nós,37,184026,False,0.266,0.983,6,-2.941,1,0.164,0.0153,0.00223,0.327,0.572,155.265,4,hard-rock
+2VoAE0zhXuNdPbHQ7dJNMw,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Te Levar Daqui,36,184666,False,0.603,0.976,1,-2.321,1,0.1,0.00188,9.71e-05,0.285,0.488,116.988,4,hard-rock
+3iqYQt3wKwFXIx6Kp54uW9,Matanza,A Arte do Insulto,Sabendo Que Posso Morrer,36,138320,False,0.366,0.963,2,-3.967,1,0.0685,0.000251,8.37e-05,0.244,0.749,175.905,4,hard-rock
+79sAKlbEzoucUZEVb2Ykf2,Charlie Brown Jr.,Imunidade Musical,Abrir Seus Olhos,36,118133,False,0.404,0.979,1,-3.057,1,0.0625,0.002,0.00155,0.131,0.863,181.265,4,hard-rock
+6GGMZXgnCgQKTAfE2f3Sxt,Titãs,Go Back (Ao vivo),Go Back - Ao vivo,36,220493,False,0.697,0.715,9,-8.566,1,0.0396,0.365,1.48e-05,0.17,0.887,174.342,4,hard-rock
+4IiNzisjpu8nMqp9XOsu66,The Dead Milkmen,Death Rides A Pale Cow: The Ultimate Collection,Big Lizard,38,117986,True,0.38,0.953,0,-6.399,1,0.123,0.00602,0.000862,0.117,0.677,187.714,4,hard-rock
+06iiULr7UigQfjuRf01PQ7,Pitty,Chiaroscuro,Água Contida,36,269760,False,0.548,0.829,11,-3.87,0,0.0442,0.207,3.78e-06,0.187,0.513,120.046,4,hard-rock
+2IdFCGg70vpQbQL0hJmM2L,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,Descubra O Que Há De Errado Com Você,36,98973,False,0.437,0.982,8,-6.903,1,0.0856,0.0664,0.823,0.297,0.478,127.295,4,hard-rock
+1Qxxs9HPT8cXHZbRH7Ete2,Matanza,Música para Beber e Brigar,"Taberneira, Traga o Gim",37,182733,False,0.48,0.943,9,-3.134,1,0.0542,0.00682,1.18e-06,0.103,0.919,163.901,4,hard-rock
+04OjLvOApQve45B0ISx4XN,Foreigner,Feels Like The First Time,I Want to Know What Love Is,59,285666,False,0.445,0.554,3,-7.793,0,0.0315,0.231,0.0,0.0685,0.229,162.081,4,hard-rock
+4VFNyv0nVew5C878WDsPvE,Mötley Crüe,Shout At The Devil,Shout At The Devil,24,194986,False,0.5,0.946,5,-5.428,1,0.072,0.0221,4.21e-05,0.068,0.449,94.542,4,hard-rock
+2ViaeF07UM7J2zeIoJePAQ,Firehouse,3,I Live My Life For You,52,264653,False,0.471,0.497,1,-8.923,1,0.0282,0.0236,0.0,0.0874,0.349,141.834,4,hard-rock
+2ccUQnjjNWT0rsNnsBpsCA,Cheap Trick,Heaven Tonight,Surrender,69,253733,False,0.524,0.955,0,-7.081,1,0.0411,0.00717,8.77e-06,0.659,0.869,133.849,4,hard-rock
+48vDCZIRmrFO33fH4QU4ij,The Prodigy,The Fat of the Land,Smack My Bitch Up,63,343386,True,0.604,0.995,10,-3.641,0,0.164,0.00306,0.626,0.109,0.262,136.216,4,hard-rock
+3J9NEWkd9Cx1MwSSvDySkL,Europe,The Final Countdown (Expanded Edition),Rock the Night,62,247306,False,0.57,0.931,4,-5.78,0,0.0503,0.0429,0.0,0.375,0.4,105.37,4,hard-rock
+4NBxoKAY9PR2PdfNnmVRkN,Harem Scarem,Harem Scarem,Honestly,56,242293,False,0.535,0.489,9,-10.626,1,0.0274,0.0621,0.0,0.143,0.0883,126.384,4,hard-rock
+5j3iBuHq6vv7VcBo4Y2QrK,Ghost,Meliora,Cirice,63,362093,False,0.555,0.798,3,-5.658,1,0.0279,0.00254,1.5e-05,0.171,0.284,89.987,4,hard-rock
+471eQ7hcJ7JdGY1NzMmUeg,12 Stones,Anthem For The Underdog (Bonus Track Version),World So Cold,55,235106,False,0.262,0.688,4,-4.949,0,0.0443,0.472,0.0,0.36,0.394,186.227,3,hard-rock
+4alHo6RGd0D3OUbTPExTHN,The Cars,The Cars,Just What I Needed,71,225626,False,0.619,0.579,4,-9.307,1,0.0473,0.0152,6.4e-05,0.0858,0.69,127.224,4,hard-rock
+0flIeE1zNE9yaVXbOqjyYL,Ghost,IMPERA,Imperium,59,100400,False,0.307,0.473,4,-9.505,1,0.0316,0.000524,0.961,0.201,0.203,74.842,4,hard-rock
+67q0QsfLcTa2SqhP2wQbia,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),Used To Love Her,61,192666,True,0.615,0.902,1,-7.232,1,0.0331,0.464,2.44e-05,0.15,0.909,135.46,4,hard-rock
+2dEgwtRjYl6TJkIwjRwn6z,Warrant,Dirty Rotten Filthy Stinking Rich,Heaven,61,236866,False,0.461,0.488,6,-11.143,1,0.0287,0.115,0.0,0.128,0.33,145.778,4,hard-rock
+3qLZ866ZfaK0B0R5FIqXLG,The Cult,Love,She Sells Sanctuary,71,252533,False,0.55,0.765,7,-8.684,1,0.0287,4.76e-06,0.873,0.132,0.419,139.46,4,hard-rock
+2j0zExWFB0PowLOeoZosjK,AC/DC,Highway to Hell,Touch Too Much,63,266266,False,0.524,0.906,7,-4.301,1,0.0963,0.037,3.64e-05,0.309,0.605,123.1,4,hard-rock
+6OSyCAmXT4Gkd3OQ2aPOaF,Queensrÿche,Empire - 20th Anniversary Edition,Silent Lucidity - Remastered 2003,63,347760,False,0.462,0.628,7,-5.659,1,0.0274,0.0534,0.00025,0.12,0.0981,140.049,4,hard-rock
+6Wn3pdFtAcnYJyJVITwt7N,AC/DC,Highway to Hell,Girls Got Rhythm,61,203293,False,0.512,0.979,4,-4.267,0,0.156,0.0513,0.00102,0.358,0.535,137.794,4,hard-rock
+4avSaixVwu8uqfSs7zgoj3,Aerosmith,Get A Grip,Livin' On The Edge,62,380893,False,0.399,0.881,2,-4.341,1,0.0347,0.0019,0.00429,0.39,0.272,84.58,4,hard-rock
+3VDfLfd7lfCU3MTIXNqfR3,Scorpions,Comeblack,Rhythm of Love,53,219466,False,0.523,0.882,5,-4.156,0,0.0356,0.00291,0.0184,0.092,0.501,90.03,4,hard-rock
+176hBOHzslVQTEF7VFmASt,Koil,Lagu Hujan,Lagu Hujan,36,238503,False,0.635,0.661,10,-9.836,0,0.0331,0.000148,0.512,0.123,0.329,135.747,4,hard-rock
+38fIaph07Kd8ZIN6l17ZJs,Metallica,Kill 'Em All (Remastered),Whiplash - Remastered,62,248546,True,0.384,0.916,4,-6.468,0,0.0983,0.000611,0.422,0.14,0.192,158.042,4,hard-rock
+67BLxClTNYBMrzdqKe3Rqr,menores atos,Animalia,À Distância,36,218305,False,0.581,0.909,3,-4.688,0,0.0457,0.00148,0.000872,0.209,0.477,136.983,4,hard-rock
+6LbbHFEajG9e4m0G3L47c4,The Who,Tommy,Pinball Wizard,68,180943,False,0.543,0.715,2,-8.89,1,0.0356,0.0192,0.0,0.256,0.468,124.011,4,hard-rock
+6b6uLZsoGhObYexIxnRbIb,Megadeth,Rust In Peace (Expanded Edition),Hangar 18 - Remastered,63,311200,False,0.248,0.988,2,-3.74,1,0.144,5.87e-05,0.84,0.323,0.149,115.301,4,hard-rock
+2LQbBzrXkgQHnCDUmHjReH,Airbourne,Runnin' Wild (Special Edition),"Too Much, Too Young, Too Fast",65,226706,False,0.588,0.873,2,-4.011,1,0.0518,0.00122,0.00122,0.225,0.398,114.03,4,hard-rock
+0OBwxFLu6Yj61s2OagYbgY,ZZ Top,Eliminator,Gimme All Your Lovin',71,241080,False,0.63,0.788,5,-6.7,1,0.0298,0.00322,0.0237,0.0883,0.63,120.059,4,hard-rock
+7zscdQe9CjzXnqT3P1Ey7K,AC/DC,Highway to Hell,If You Want Blood (You've Got It),63,274226,False,0.487,0.932,2,-4.001,1,0.117,0.0311,0.149,0.43,0.54,141.243,4,hard-rock
+7bYsIVw6B8QRvtT7TeyRdT,Stone Temple Pilots,Grunge!,Dead & Bloated,36,310266,True,0.56,0.81,7,-7.876,1,0.0546,0.000156,8.57e-05,0.0926,0.548,123.013,3,hard-rock
+1V3FaAOYea3Hxw5SYvi8tl,Pitty;Tassia Reis;Emmily Barreto,Contramão,Contramão,36,294649,False,0.698,0.715,10,-5.058,0,0.0382,0.208,0.0,0.109,0.403,96.036,4,hard-rock
+6BYA4svtumypd2sYonGCIJ,Pitty;BaianaSystem,Matriz,Roda,36,200489,False,0.649,0.899,2,-4.737,1,0.0887,0.00531,0.0,0.128,0.388,135.957,4,hard-rock
+5cWQN3gQtgd2brnNd9xjA5,Pitty,Admirável Chip Novo,Emboscada,36,193653,False,0.607,0.782,7,-4.285,1,0.0295,0.000402,0.0,0.108,0.576,113.963,4,hard-rock
+2d2afm0kye3R8dbx6PufBj,Böhse Onkelz,Böhse Onkelz,Wer schön sein will muss lachen,35,341604,False,0.48,0.811,2,-7.065,0,0.0342,0.00622,5.06e-06,0.125,0.427,89.922,4,hard-rock
+2B8pV2gk9jNfSJ7tMp78An,Charlie Brown Jr.,Imunidade Musical,Peso Da Batida Do Errado Que Deu Certo,36,127000,False,0.679,0.975,2,-2.648,1,0.0862,0.0604,1.24e-06,0.171,0.842,101.624,4,hard-rock
+4nOTezy4NW6TNxyvZd724n,Los Miserables,Alegría y Subversión,La Cábala,36,212044,False,0.548,0.942,2,-4.994,1,0.0683,0.108,0.0,0.339,0.746,99.613,4,hard-rock
+7ckgU4Hcj9urCh2bTO8Ct8,Los Prisioneros,Pateando Piedras,Por Favor,36,212360,False,0.811,0.438,2,-13.494,0,0.0346,0.137,0.000785,0.0893,0.558,109.271,4,hard-rock
+4ksf6KFw5deGgqohbvK1h0,Böhse Onkelz,Lügenmarsch,Könige für einen Tag,35,248560,False,0.179,0.915,11,-4.58,0,0.0577,2.96e-05,0.0,0.0868,0.253,100.159,4,hard-rock
+3zpDCxcj8FscWu8FtnLUex,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Tudo Que Ela Gosta de Escutar - Ao Vivo - Chegou Quem Faltava,36,144333,False,0.432,0.97,8,-5.753,1,0.142,0.00505,0.00535,0.486,0.521,72.113,4,hard-rock
+35EGJJhFbcdlWIMF1azyBc,Pitty,A Trupe Delirante No Circo Voador Ao Vivo,Se Você Pensa - Ao Vivo,36,193653,False,0.394,0.92,2,-6.537,1,0.0397,0.000733,3.85e-06,0.638,0.436,112.325,4,hard-rock
+1dD7RkF894ngdyklb62CpU,Charlie Brown Jr.,Música Popular Caiçara: Edição Luxo (Ao Vivo),Só os loucos sabem - Ao Vivo,36,191424,False,0.467,0.894,7,-4.712,1,0.0378,0.0123,0.00622,0.888,0.426,104.233,4,hard-rock
+028gJz6O9HREJ0bKUK8gpQ,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Quinta-Feira - Ao Vivo - Chegou Quem Faltava,36,119978,False,0.394,0.912,11,-5.501,1,0.197,0.0225,0.00121,0.682,0.594,151.268,4,hard-rock
+3XzAKoTEjmVCZLi118Yfyu,Los Prisioneros,Pateando Piedras,Estar Solo,36,273973,False,0.788,0.522,1,-14.554,0,0.0384,0.439,0.339,0.119,0.971,122.712,4,hard-rock
+2tgHz0RZ3l9waaM0xljGWP,Pitty,Setevidas,Boca Aberta,36,178866,False,0.403,0.897,11,-4.367,0,0.0689,0.00258,0.0,0.433,0.586,77.825,4,hard-rock
+49djAWQgt8LhoTQrSRBkqB,Dead Fish,Sonho Médio,Sonho Médio,35,120973,False,0.395,0.995,4,-5.0,1,0.102,0.00337,0.0,0.412,0.295,102.305,4,hard-rock
+3KVOgVqm8Vom1J2SvgP9wP,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",Quieren Dinero,36,313626,False,0.618,0.665,0,-10.096,1,0.0287,0.0168,0.000106,0.515,0.811,145.45,4,hard-rock
+6ZDqlISeQlTIW50mX2qklc,Planet Hemp,Usuário,Mary Jane,36,129266,False,0.392,0.965,4,-7.096,0,0.184,0.000519,0.000123,0.0871,0.234,162.525,3,hard-rock
+5qgRXCfhNu0wKki3kvcvpL,Rosa Tattooada,Rosa Tattooada,Tardes De Outono,35,270026,False,0.629,0.678,11,-12.721,1,0.032,0.0656,9.7e-05,0.0881,0.522,130.014,4,hard-rock
+3EWFBvLioK1qI0X8M9ZJuq,Acústicos & Valvulados,Diamantes Verdadeiros,Milésima Canção de Amor,36,191306,False,0.504,0.869,11,-2.516,0,0.0317,3.09e-05,0.0,0.0895,0.634,119.968,4,hard-rock
+0EfdF8WWM6tSCM9V04fnKv,Charlie Brown Jr.,Transpiração Continua Prolongada,Charlie Brown Jr.,36,191982,False,0.705,0.953,1,-3.128,1,0.149,0.038,0.0,0.0586,0.633,108.243,4,hard-rock
+1Yb9pIPxX52UekANEC7d9n,Titãs,Acústico MTV,Querem Meu Sangue (The Harder They Come) - Ao Vivo [Participação Especial de Jimmy Cliff],36,212333,False,0.673,0.871,0,-8.574,1,0.0434,0.108,4.42e-05,0.979,0.867,124.792,4,hard-rock
+445h1KsQ3qBBqJjOBKKkZ3,Raimundos,Acústico - Ao Vivo,Rapante - Ao Vivo | Acústico,36,241861,True,0.418,0.947,8,-3.365,1,0.178,0.186,0.0,0.414,0.359,94.449,4,hard-rock
+3wfujdbamR3Z46F4xav7LM,The Cars,Heartbeat City,Drive,67,234493,False,0.582,0.606,6,-9.961,1,0.0289,0.124,0.00139,0.151,0.504,111.441,5,hard-rock
+7uRcUUmZpU4YVZFNVZnyXd,Deep Purple,The Platinum Collection,Soldier of Fortune,50,195160,False,0.456,0.395,2,-10.129,0,0.0293,0.359,0.000173,0.0984,0.243,132.611,4,hard-rock
+1Ap9wotYS99H8R17VONySZ,Megadeth,"The Sick, The Dying… And The Dead!",We’ll Be Back,61,269466,False,0.405,0.96,2,-3.916,1,0.074,0.0001,0.0576,0.182,0.417,174.952,4,hard-rock
+35Aj3CGTmWkjGr4bjYmkk5,Mötley Crüe,Dr. Feelgood (40th Anniversary;2021 - Remaster),Dr. Feelgood (2021- Remaster),23,289971,False,0.533,0.964,2,-4.816,1,0.0706,0.000861,0.0169,0.233,0.36,110.959,4,hard-rock
+3EiQGaaHMHFk5ykD1a7vYt,Bruce Dickinson,Balls To Picasso (2001 - Remaster),Tears of the Dragon (2001 - Remaster),23,384013,False,0.496,0.62,4,-7.458,0,0.0265,0.00386,1.47e-06,0.114,0.279,140.06,4,hard-rock
+71cWHhV018hztNkCC45Ayo,Cinderella,Heartbreak Station,Heartbreak Station,54,268840,False,0.597,0.51,7,-9.5,1,0.0283,0.326,0.0539,0.0554,0.288,114.729,4,hard-rock
+4yhzZ9ESp4UwnJqImyMR3A,Ghost,[MESSAGE FROM THE CLERGY],Mary On A Cross - slowed + reverb,61,274783,False,0.468,0.838,6,-5.756,0,0.0433,9.42e-05,0.196,0.0896,0.259,115.812,4,hard-rock
+4qjscZh4jfhkpcQG4ZQfi2,Def Leppard,Hysteria,Animal,64,244560,False,0.583,0.921,11,-5.215,1,0.0468,0.00153,0.0178,0.188,0.613,119.526,4,hard-rock
+72FTNsVwlDXMgxyEnmjwM0,Lynyrd Skynyrd,20th Century Masters: The Millennium Collection: Best Of The '70s,Sweet Home Alabama - Edit,62,220693,False,0.63,0.655,7,-9.725,1,0.0241,0.221,0.00124,0.114,0.91,97.817,4,hard-rock
+6UBjSnyP1O5W5ndJoO9vUk,Bob Seger,Night Moves,Night Moves,72,324422,False,0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552,4,hard-rock
+5zH710lFSLtkHbMkslLDjR,Heart,Dreamboat Annie,Crazy On You,68,293440,False,0.427,0.459,9,-12.442,0,0.0332,0.116,0.000103,0.132,0.383,129.878,4,hard-rock
+3fkPMWQ6cBNBLuFcPyMS8s,Blue Öyster Cult,Fire of Unknown Origin,Burnin' for You,67,271000,False,0.532,0.728,9,-9.079,0,0.0352,0.106,0.0108,0.0849,0.69,134.303,4,hard-rock
+1wmaAfrbe1JLiyt7SpZeQU,Jon Bon Jovi,Blaze Of Glory,Santa Fe,56,341666,False,0.518,0.507,3,-9.693,0,0.0295,0.126,0.0,0.0457,0.299,140.106,4,hard-rock
+63HA3dpnOmdDcazJ9sDfrh,Guns N' Roses,Appetite For Destruction,It's So Easy,63,201360,True,0.374,0.973,8,-10.098,1,0.128,0.0134,9.84e-06,0.0947,0.218,150.634,4,hard-rock
+6FJ9Xp3fCxSTAdcRVaDQdl,Jon Bon Jovi,Blaze Of Glory,Miracle,58,319426,False,0.577,0.677,3,-10.327,1,0.0245,0.367,0.0,0.493,0.683,92.007,4,hard-rock
+2XjeZEdPK7Qo66Z7ONp854,Airbourne,Black Dog Barking (Special Edition),Back In the Game,59,205506,False,0.586,0.96,0,-2.967,1,0.0691,0.00267,0.215,0.23,0.445,97.006,4,hard-rock
+0HOrDVS349XFcpCYsO2hAP,Bachman-Turner Overdrive,Not Fragile,You Ain't Seen Nothing Yet,72,234866,False,0.475,0.439,11,-15.039,0,0.0427,0.000146,0.000277,0.223,0.76,118.392,4,hard-rock
+3Rtv6zRNKpeSygXoaF9kCm,Judas Priest,Stained Class,Beyond the Realms of Death,56,409800,False,0.287,0.716,11,-5.653,0,0.0311,0.0381,3.24e-05,0.164,0.544,172.123,4,hard-rock
+6JGgZq7gwoW8TxMZOQCqSk,Burgerkill;Ahmad Dhani,Elang,Elang,37,252631,False,0.499,0.819,4,-12.636,0,0.0504,0.000803,0.62,0.277,0.475,95.007,4,hard-rock
+5a2hIQWInPjqkkFiUEgxoX,Megadeth,Peace Sells...But Who's Buying (25th Anniversary),Peace Sells - Remastered,63,244160,False,0.322,0.932,4,-4.252,0,0.163,8.57e-05,0.817,0.0969,0.376,138.042,4,hard-rock
+6JsiDFQRx7GHcuf2UroSYB,The Blue Stones,Black Holes,Black Holes (Solid Ground),62,185960,False,0.559,0.845,11,-4.236,0,0.0362,0.00757,3.66e-05,0.115,0.262,91.98,4,hard-rock
+4njALT6SfcKtrAc8JdZPgd,Bullet Bane,BLLT,Sentir,35,211001,False,0.474,0.771,11,-6.517,0,0.0418,0.0518,0.0,0.13,0.422,136.08,4,hard-rock
+6J17MkMmuzBiIOjRH6MOBZ,AC/DC,Back In Black,Rock and Roll Ain't Noise Pollution,64,266040,False,0.576,0.659,9,-5.617,1,0.0383,0.041,0.0,0.0587,0.717,94.853,4,hard-rock
+2HgIQFDCAYCae0pKGeTRjU,Charlie Brown Jr.,Chegou Quem Faltava - Volume 2 (Ao Vivo),Longe de Você - Ao Vivo - Chegou Quem Faltava,35,197830,False,0.58,0.841,4,-6.314,0,0.0414,0.0993,0.000178,0.833,0.631,113.453,4,hard-rock
+36MTiIMLW5v70S5cZIWRm3,Titãs,Cabeça Dinossauro,Polícia,36,128933,False,0.627,0.804,9,-11.551,1,0.0312,0.0124,0.0,0.316,0.851,99.693,4,hard-rock
+3wrTXnKtCu9kZk0lBxtJZj,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",Tren al Sur (En Vivo),36,434908,False,0.363,0.914,9,-6.052,0,0.0909,0.196,0.129,0.622,0.466,89.848,4,hard-rock
+3H0xVGExbUNko6NxvkbWwd,Titãs,Volume 02,Amanhã não se sabe,35,189360,False,0.599,0.844,0,-4.536,1,0.0274,0.000186,3.33e-05,0.183,0.717,128.235,4,hard-rock
+7cmghYOaklEOiHB3mzjkjY,Vandenberg,2020,Freight Train,35,225777,False,0.597,0.921,3,-4.483,0,0.047,9.64e-05,0.413,0.0867,0.562,128.974,4,hard-rock
+1OElIWbHrqlzyz5PlPGB6W,Charlie Brown Jr.,Pontes Indestrutiveis,Pontes Indestrutíveis - Versão Acústica,35,247853,False,0.753,0.469,2,-13.787,0,0.0767,0.278,3.68e-06,0.161,0.577,153.04,4,hard-rock
+2LbGrzVnDIsuDOAcb0TZSy,Charlie Brown Jr.,Imunidade Musical,O Nosso Blues,36,328240,False,0.67,0.907,1,-4.116,1,0.0558,0.363,0.00777,0.424,0.95,155.142,4,hard-rock
+47SXfYj0nFJv9vPdYeSwsr,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Só Por Uma Noite,35,203133,False,0.575,0.963,4,-2.77,1,0.0451,0.000391,0.00312,0.0568,0.645,109.03,4,hard-rock
+13hc2Rjeh0cJ8qnIUABazb,Charlie Brown Jr.,Imunidade Musical,Too Fast Live Too Young Too Die,35,39266,False,0.473,0.942,8,-4.479,1,0.0711,0.00846,0.737,0.0867,0.351,96.781,4,hard-rock
+2cYPLvbcmvy5UL0Wg4leXw,Todos Tus Muertos,Nena de Hiroshima,El Espejo,37,257400,False,0.468,0.561,2,-13.19,1,0.0269,0.00197,0.0155,0.0859,0.111,127.988,4,hard-rock
+19BMNNjQ3Ou1H9xKtUTmo5,Gramofocas,Sempre que eu fico feliz eu bebo,Sempre Que Eu Fico Feliz Eu Bebo,36,125976,True,0.374,0.917,4,-2.215,1,0.0519,0.000828,1.29e-06,0.108,0.705,140.187,4,hard-rock
+1piM8rR9mhSTPuosi0NKay,Titãs,A Melhor Banda De Todos Os Tempos Da Última Semana,"O Mundo é Bão, Sebastião",35,255933,False,0.393,0.988,11,-4.332,1,0.0483,0.0145,8.05e-05,0.131,0.488,155.853,4,hard-rock
+7LfCxBT8PCrWc62KweFhX5,Rob Zombie,Hellbilly Deluxe 2 (Standard Explicit),What?,35,167813,False,0.551,0.976,10,-2.796,1,0.0647,0.00257,0.000191,0.328,0.826,139.995,4,hard-rock
+0HKYCq1NGxm1PgBVduhxVH,Charlie Brown Jr.,De 1997 A 2007,Quinta-Feira - Ao Vivo,35,316813,False,0.426,0.806,11,-7.851,1,0.0716,0.151,0.00134,0.894,0.821,73.086,4,hard-rock
+1LTdZtCjUUn6ptIpu3ZPlZ,Planet Hemp,A Invasão do Sagaz Homem Fumaça,Test Drive de Freio de Camburão,36,211506,False,0.435,0.946,7,-5.577,1,0.258,0.00307,0.0,0.64,0.536,97.211,4,hard-rock
+7CCldPeZu4xzCogGuevo4K,Fiskales Ad-Hok,Lindo Momento Frente al Caos,Lindo Momento,36,145746,False,0.487,0.954,10,-3.899,0,0.137,0.0604,0.0137,0.329,0.428,111.152,4,hard-rock
+2NG55jcWB0QUwGF9JvycJs,Pitty,Setevidas,Pequena Morte,35,234680,False,0.527,0.843,9,-5.133,0,0.0549,0.000823,0.000536,0.162,0.765,121.139,4,hard-rock
+5MUz4yymObmHrdgG3Zg62s,Matanza,Pior Cenário Possível,Sob a Mira,35,241786,False,0.206,0.988,4,-5.901,0,0.134,0.00692,0.00133,0.235,0.442,182.035,4,hard-rock
+55EvnM7MCxN6cbcrOsH5XG,BBS Paranoicos,Cruces,Sin Salida,36,156181,False,0.478,0.885,6,-3.185,1,0.0546,8.51e-05,5.51e-05,0.137,0.847,155.947,4,hard-rock
+0TWE6Ey2mgYsf1Co4BnMB8,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Te Levar Daqui - Ao Vivo - Chegou Quem Faltava,35,141916,False,0.375,0.991,1,-4.466,1,0.177,7.04e-05,0.062,0.728,0.179,87.064,5,hard-rock
+2V6mgJJY6cdmAIGGtY9BHI,Acústicos & Valvulados,Diamantes Verdadeiros,Suspenso no Espaço,35,219560,False,0.42,0.89,0,-1.962,1,0.0348,1.68e-05,1.33e-06,0.125,0.626,155.832,4,hard-rock
+19BiYYfuJXWWCPD3PITGxN,Matanza,Assim Começa a Bebedeira - Single,Assim Começa a Bebedeira,36,152123,False,0.479,0.941,5,-7.255,0,0.105,0.00449,0.0,0.146,0.742,170.081,4,hard-rock
+7y8zTRFIaJmVLLBuwRyovA,Charlie Brown Jr.,Bocas Ordinárias,"Bocas Ordinárias, Guerrilhas - Extra - Turne Internacional",35,256640,False,0.485,0.992,1,-2.973,1,0.0711,0.000173,0.00227,0.0276,0.673,163.943,4,hard-rock
+5hIIcMRyRDxvZ8tnFD1J7V,Planet Hemp,Usuário,Futuro do País,36,219066,False,0.476,0.854,11,-9.07,1,0.14,0.00711,0.00976,0.132,0.356,124.975,4,hard-rock
+5ok9IPHLTPbhMjouDHYMrk,Raimundos,Acústico - Ao Vivo,Mas Vó... - Ao Vivo | Acústico,35,277632,False,0.703,0.746,6,-4.997,0,0.0447,0.591,2.62e-06,0.365,0.65,122.028,4,hard-rock
+2ibTzucqBTofzEOp2sALeG,Raimundos,Acústico - Ao Vivo,Bonita - Ao Vivo | Acústico,36,167658,False,0.493,0.945,8,-2.837,1,0.0501,0.311,0.0,0.528,0.947,185.979,4,hard-rock
+2j2u2a3oGURxcVZpMHxTLy,Raimundos,Acústico - Ao Vivo,Nega Jurema - Ao Vivo | Acústico,36,130804,False,0.676,0.975,11,-4.311,1,0.0494,0.234,5.25e-06,0.169,0.856,98.983,4,hard-rock
+0W7AbEauB7cP4pidLclApe,Temple Of The Dog,Temple Of The Dog,Hunger Strike,69,246266,False,0.373,0.567,7,-10.835,1,0.032,0.0236,3.47e-06,0.0916,0.298,137.789,4,hard-rock
+6AyWHf259DGuxOnwdsz1Lf,Billy Idol,Bitter Taste,Bitter Taste,24,266759,False,0.579,0.934,10,-4.543,0,0.0473,0.0145,0.0231,0.182,0.699,119.003,4,hard-rock
+0D5oADYCG5QbPKk3QEOP1F,The Prodigy;RZA;René LaVice,Breathe (feat. RZA) [Liam H and Rene LaVice Re-Amp],Breathe (feat. RZA) [Liam H and Rene LaVice Re-Amp],45,149233,False,0.661,0.954,5,-1.866,0,0.128,0.0519,0.000667,0.22,0.332,141.911,4,hard-rock
+73ej5lGd0Pyji6pbIBQ9fi,Scorpions,Lovedrive,Holiday (2015 - Remaster),22,391360,False,0.436,0.426,2,-8.683,0,0.0311,0.371,0.0133,0.242,0.305,117.95,4,hard-rock
+7BssDn6I8fEzYms6FlkXtC,The Black Moods,Into the Night,Saturday Night,28,225484,False,0.419,0.931,8,-1.409,1,0.0416,7.88e-05,1.17e-05,0.102,0.498,93.971,4,hard-rock
+74uGhWp4BYpjFj1V2DzgoO,Aerosmith,Nine Lives,Pink,63,235360,False,0.432,0.751,0,-5.124,1,0.0423,0.0134,4.58e-06,0.126,0.776,171.85,4,hard-rock
+3jJZVeExYzVYiV6Y9Fl3DX,Stone Temple Pilots,Core,Plush,66,310346,False,0.423,0.954,7,-3.157,0,0.047,0.0021,0.0,0.177,0.5,144.553,4,hard-rock
+5JAnXx5BBES4FEf4d4t4CC,Metallica,St. Anger,St. Anger,62,441132,True,0.396,0.947,2,-2.652,0,0.0477,0.00115,0.0179,0.089,0.443,93.043,4,hard-rock
+0vJYFKg9z1IvZiQUyX19cD,Black Sabbath,Paranoid,Iron Man (2012 - Remaster),23,353613,False,0.336,0.796,6,-10.845,0,0.0896,0.00361,0.00143,0.0621,0.417,155.28,4,hard-rock
+6kAOsnRUgp21bPiUoVZeuJ,Ozzy Osbourne;Jeff Beck,Patient Number 9 (feat. Jeff Beck),Patient Number 9 (feat. Jeff Beck),61,441402,False,0.316,0.869,7,-4.244,0,0.0642,0.000197,0.199,0.133,0.302,169.916,4,hard-rock
+5t5rCnsgRBtcKqTB7SbD1Q,Damn Yankees,Damn Yankees,High Enough,60,287320,False,0.273,0.537,2,-9.612,1,0.0306,0.0241,0.0,0.0922,0.232,81.814,4,hard-rock
+5GLVGmkxy7Mc8Ruif5dmSG,Reckless Love,InVader,Monster,53,228000,False,0.586,0.822,7,-7.04,1,0.0284,0.000102,1.08e-06,0.0588,0.473,109.024,4,hard-rock
+1j06ieEC2BOCM0fTmYhn2l,Dokken,Tooth and Nail,Alone Again,59,262200,False,0.298,0.612,3,-9.002,0,0.0379,0.0194,9.67e-05,0.0906,0.343,156.727,4,hard-rock
+6v5VsfCYKdrkQBTMhAlkDr,Guns N' Roses,Appetite For Destruction,Rocket Queen,61,373466,False,0.448,0.945,10,-7.978,1,0.0394,0.0219,0.246,0.0254,0.437,111.705,4,hard-rock
+0XwjdpwvEwukcg3XU4Ibzt,Jon Bon Jovi,Cross Road,Blaze Of Glory,56,340000,False,0.541,0.704,7,-6.167,1,0.0324,0.0211,4.18e-05,0.143,0.416,78.797,4,hard-rock
+1fzw0qGcB6xs4IBXhdfAkj,Stone Temple Pilots,Perdida,Fare Thee Well,51,261880,False,0.431,0.371,7,-8.709,1,0.0272,0.547,0.0154,0.0921,0.196,66.853,4,hard-rock
+5qaSekPPKHIEA1Yn0qkCaC,Poison,Open Up And Say . . . Ahh!,Every Rose Has Its Thorn,56,260224,False,0.459,0.704,6,-5.564,1,0.0356,0.233,1.66e-06,0.374,0.342,140.367,4,hard-rock
+1SWmFiFSIBoDbQJjNKC7SR,Bob Seger,Against The Wind,Against The Wind,67,333720,False,0.674,0.771,7,-5.612,1,0.0246,0.28,0.0318,0.133,0.718,109.618,4,hard-rock
+31dqpLUModJWNbxrXu6TWd,Ozzy Osbourne,The Ultimate Sin,Shot in the Dark,65,256293,False,0.581,0.791,6,-7.262,1,0.0324,0.00835,6.02e-05,0.142,0.619,123.887,3,hard-rock
+6eN1f9KNmiWEhpE2RhQqB5,Guns N' Roses,Appetite For Destruction,Paradise City,74,405600,True,0.268,0.98,11,-5.958,1,0.103,0.0192,0.00709,0.182,0.395,100.315,4,hard-rock
+1Pvmzboyxwp1rOVYqwKIgU,Guns N' Roses,Hard Skool,Hard Skool,60,221892,False,0.364,0.974,11,-1.797,1,0.0699,7.11e-05,0.0899,0.176,0.525,166.053,4,hard-rock
+296WTgStnbQrCg8F4JAp5i,Charlie Brown Jr.,Tamo Ai Na Atividade,Di-Sk8 Eu Vou,35,201400,False,0.784,0.804,8,-7.175,1,0.148,0.158,0.0,0.0545,0.865,97.563,4,hard-rock
+2O7UGwJPVlix15Wn4sa5vw,Metallica,Ride The Lightning (Deluxe / Remastered),Ride The Lightning - Remastered,60,396986,False,0.257,0.975,9,-6.128,1,0.175,6.07e-05,0.1,0.222,0.276,149.312,4,hard-rock
+01Q4wU19hamqnhNjtuvTyI,Cinderella,Night Songs,Nobody's Fool,63,287400,False,0.367,0.445,9,-13.615,0,0.0286,0.0478,0.00284,0.163,0.149,67.197,4,hard-rock
+6z4VNjyxLfRXRx23gzl51x,Gary Moore;Phil Lynott,Back On The Streets (Expanded Edition),Parisienne Walkways,55,200640,False,0.149,0.243,9,-13.188,0,0.0305,0.3,0.00506,0.12,0.215,174.451,3,hard-rock
+1aDNYyeU62BuQsBAY18i48,Rainbow,Rising,Stargazer,60,506160,False,0.166,0.948,11,-8.503,0,0.0631,0.00374,0.0131,0.769,0.476,177.495,4,hard-rock
+1BY1Vd2Bt6JPOhMvsIwtVv,Billy Idol,Vital Idol,Dancing With Myself,69,359733,False,0.51,0.696,4,-10.83,1,0.0802,0.0157,0.000104,0.297,0.905,176.568,4,hard-rock
+4q9YY8eorYGjpjk3Zko7l9,Iron Maiden,Brave New World (2015 Remaster),Blood Brothers - 2015 Remaster,57,434293,False,0.243,0.809,4,-6.316,0,0.0479,0.0501,0.0338,0.133,0.444,182.679,3,hard-rock
+1NeQzAqahRYI09bgLbhVFN,The Moody Blues,A Question Of Balance,Melancholy Man,55,345346,False,0.385,0.434,1,-11.544,0,0.0313,0.722,5e-06,0.192,0.388,132.454,4,hard-rock
+6ckozbGmOusAnLT2LEbERy,Metallica,Ride The Lightning (Remastered),Fight Fire With Fire - Remastered,61,284506,False,0.283,0.988,0,-7.017,1,0.111,3.75e-05,0.728,0.0712,0.133,90.791,4,hard-rock
+6gkKEooapAEFIQcHDgYvqn,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Lutar Pelo Que E Meu,35,200773,False,0.577,0.956,8,-4.014,1,0.0433,0.0454,1.78e-05,0.271,0.839,94.089,4,hard-rock
+2xMVj4nOUTvVZUNlh9oaW1,Pitty,Te Conecta,Te Conecta,35,232717,False,0.675,0.746,1,-7.715,0,0.0351,0.0328,0.00454,0.121,0.846,146.028,4,hard-rock
+5OMzsUSgwjyRcyDfdLD4jS,Dead Fish,Ponto Cego,Não Termina Assim,34,158568,False,0.316,0.951,10,-5.081,0,0.056,6.41e-05,0.0,0.339,0.718,103.68,4,hard-rock
+1PeK7RHMVNGwxIJDxhvwGq,Los Miserables,Sin Dios ni Ley,Ultraviolento,35,240882,False,0.587,0.827,2,-5.156,1,0.0584,0.00405,0.00203,0.0957,0.753,90.064,4,hard-rock
+2UwYV9ckcBRZUJ7owav1ci,Charlie Brown Jr.,"Preço Curto, Prazo Longo",333,35,148133,False,0.603,0.946,8,-2.395,1,0.066,0.103,0.0,0.358,0.692,124.014,4,hard-rock
+7b4yGtR0rujvLi5EBfKKJ2,Eddie Money,Can't Hold Back,Take Me Home Tonight,70,211160,False,0.608,0.768,1,-9.911,1,0.0364,0.101,1.41e-06,0.0942,0.748,132.699,4,hard-rock
+0DwlpQONUcfEpUXuIR2Keb,Los Prisioneros,La Cultura De La Basura,Usted Y Su Ambición,35,227693,False,0.751,0.735,0,-8.433,1,0.0303,0.0806,0.000553,0.285,0.79,123.992,4,hard-rock
+3CPWVEyZoMmxPdfwrlIbv0,Fun People,The Art(E) of Romance,Leave Me Alone,35,100133,False,0.437,0.78,9,-8.744,1,0.0426,0.0193,0.000791,0.102,0.749,149.456,4,hard-rock
+4e9hUiLsN4mx61ARosFi7p,Rush,Permanent Waves,The Spirit Of Radio,66,296466,False,0.365,0.924,4,-7.066,1,0.0488,0.0144,0.000254,0.423,0.632,135.811,4,hard-rock
+0P9tx5S8UYk2nuoR9KCidk,Raimundos,Kavookavala,Mas Vó...,35,258533,False,0.582,0.838,7,-6.292,1,0.0432,0.00556,2.05e-06,0.126,0.608,137.957,4,hard-rock
+2orHZk9EQ3sxtXe86DJEuw,Charlie Brown Jr.,Imunidade Musical,Green Goes,35,279800,False,0.779,0.79,10,-5.638,0,0.128,0.427,1.92e-06,0.136,0.79,95.0,4,hard-rock
+2yI8GVtducONY2HERTqRFL,Planet Hemp,A Invasão do Sagaz Homem Fumaça,12 Com Dezoito,35,183800,False,0.424,0.875,11,-6.162,0,0.261,0.0028,0.0,0.603,0.641,112.727,4,hard-rock
+6rG27UkyWVcBXIHtroteuu,Planet Hemp,Os Cães Ladram Mas a Caravana Não Pára,Hip Hop Rio,35,151400,False,0.817,0.962,1,-2.586,1,0.256,0.217,0.0,0.409,0.482,103.63,4,hard-rock
+6vkSkhVYmRUXbFVLa6W8zG,BBS Paranoicos,Capital,Ruidos,36,173973,False,0.224,0.933,8,-4.132,1,0.201,0.00452,0.00222,0.129,0.282,193.146,4,hard-rock
+4QaxyJsbo5AR3bnEB7ko8h,Dynazty,The Dark Delight,Heartless Madness,63,239866,False,0.429,0.942,2,-4.763,1,0.0519,7.15e-05,2.58e-05,0.213,0.571,153.061,4,hard-rock
+09LB7r153zomundgXa2XLn,Charlie Brown Jr.;Marcelo Falcão,Música Popular Caiçara: Edição Luxo (Ao Vivo),Me Deixa - Ao Vivo,35,328346,False,0.389,0.952,9,-3.436,0,0.0881,0.0117,0.00034,0.709,0.443,126.359,4,hard-rock
+3xxpq4kIrueRTzvZYHDlRh,Made In Brazil,"Jack, Estripador / Minha Vida É Rock 'N' Roll",Minha Vida E Rock 'N' Roll,34,173733,False,0.599,0.765,9,-9.557,1,0.0438,0.081,2.02e-05,0.371,0.91,121.782,4,hard-rock
+0E82yiCI8RJGEyNlcmZ4FT,Chico Science;Nação Zumbi;Jorge Ben Jor;Fred 04;Marcelo D2;Falcão,C.S.N.Z. (Dia),"Malungo (feat. Jorge Ben Jor, Fred 04, Marcelo D2 & Falcão)",36,259160,False,0.719,0.843,10,-4.71,1,0.0624,0.00791,0.000427,0.28,0.655,119.357,4,hard-rock
+0PrI6WCqNOZEAJDWH2IT7z,Raimundos,Acústico - Ao Vivo,El Mariachi - Ao Vivo | Acústico,35,160801,False,0.533,0.93,1,-4.208,0,0.0885,0.365,0.0,0.79,0.435,92.591,4,hard-rock
+0Om3atUNbAqVJexASXyKqH,Raimundos,Acústico - Ao Vivo,Puteiro Em João Pessoa - Ao Vivo | Acústico,35,204672,True,0.465,0.971,8,-2.722,1,0.0932,0.289,0.0,0.912,0.649,129.216,4,hard-rock
+1hMT8qwcJyFgbsbMwTBcp5,Helloween,The Time of the Oath,Forever and One (Neverland),24,234533,False,0.176,0.726,8,-7.074,0,0.0537,0.0575,3.01e-06,0.148,0.374,185.66,3,hard-rock
+5b3C40EzC5DBit14cLfby8,Nazareth,2XS,Dream On,23,204826,False,0.405,0.482,2,-6.484,1,0.0272,0.148,0.0,0.0816,0.449,148.64,4,hard-rock
+4Y3WqmBWmG23thvU9xEhMv,Faith No More,Angel Dust (Deluxe Edition),Easy,67,186960,False,0.506,0.554,10,-6.743,0,0.0339,0.339,0.000355,0.112,0.375,124.724,4,hard-rock
+3IKJNHnVZ2bXGjAFBJiUYo,Black Sabbath,13,God Is Dead?,58,532266,False,0.379,0.726,3,-4.935,0,0.0332,0.000193,0.00266,0.0578,0.178,120.012,4,hard-rock
+7aQT5OB4zEgyyxfRDbOBIt,Bleeker,Erase You,Highway,59,201680,False,0.457,0.941,6,-5.174,1,0.0339,0.000136,3.12e-06,0.0896,0.704,154.038,4,hard-rock
+7kPuCwBWgXy5TGfgwNUKwV,Aerosmith,Nine Lives,Hole In My Soul,65,370093,False,0.465,0.701,0,-4.809,1,0.0268,0.00506,0.0,0.207,0.216,75.427,4,hard-rock
+3tS1VMpxp9bLn46Cyh09el,Black Label Society,The Blessed Hellride,Stillborn,66,196040,False,0.585,0.881,5,-4.719,0,0.0366,2.27e-05,0.000939,0.376,0.425,107.028,4,hard-rock
+46Qy1xAr2K7rylRYwdQ6Gw,Faster Pussycat,Wake Me When It's Over,House of Pain,55,344613,False,0.508,0.727,0,-6.159,1,0.0346,0.0475,3.86e-05,0.0869,0.249,121.323,4,hard-rock
+4qsAYBCJnu2OkTKUVbbOF1,Lynyrd Skynyrd,Pronounced 'Leh-'Nérd 'Skin-'Nérd (Expanded Edition),Free Bird,59,558933,False,0.279,0.852,7,-7.838,1,0.0511,0.0119,0.076,0.0624,0.438,117.418,4,hard-rock
+0Ja4hLKiUSw01E01pJ1yGr,The Prodigy,The Fat of the Land,Breathe,66,336280,False,0.673,0.808,9,-6.183,1,0.0491,0.0121,0.878,0.037,0.303,130.041,4,hard-rock
+1ugRmaf5TDDf1fO3hFSIs1,Velvet Revolver,Contraband,Slither,53,248306,False,0.473,0.973,7,-3.831,1,0.11,0.00025,0.153,0.0782,0.291,141.09,4,hard-rock
+0G21yYKMZoHa30cYVi1iA8,Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,75,273480,True,0.453,0.987,8,-4.485,1,0.0889,0.0195,0.283,0.268,0.316,123.544,4,hard-rock
+6M5m8gfTj3rhYEPDzLmdL4,Led Zeppelin,Physical Graffiti (Deluxe Edition),Ten Years Gone - Remaster,59,394920,False,0.545,0.416,2,-11.979,1,0.0433,0.559,0.00496,0.0369,0.295,76.872,4,hard-rock
+2uLx3Gka9TGCz9Zgu7Uwav,Thin Lizzy;Derek Varnals,Shades Of A Blue Orphanage,Whiskey In The Jar,64,345186,False,0.557,0.693,7,-11.044,1,0.0445,0.531,0.00141,0.196,0.747,127.531,4,hard-rock
+0upLyFR8Rr52ZpMp5esQoq,Van Halen,Van Halen (Remastered),You Really Got Me - 2015 Remaster,68,156146,False,0.454,0.946,1,-5.978,0,0.13,0.0223,0.0,0.173,0.647,138.18,4,hard-rock
+2Vim06YsRb4uJRpbeq6NR6,Deep Purple,Shades of Deep Purple,Hush - 1998 Remaster,59,266840,False,0.57,0.635,10,-10.231,1,0.0482,0.00459,0.176,0.0901,0.196,108.431,4,hard-rock
+7i5IbgNkFA4JwfT4OAgdgD,9mm Parabellum Bullet,TOKYO - HALLOWEEN -,Vampiregirl,0,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hard-rock
+7866E49sLyI938dEqxi8a4,Metallica,Ride The Lightning (Remastered),Fade To Black - Remastered,56,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,hard-rock
+1KBuhAHzia2qoD4u6YhvER,AC/DC,Stiff Upper Lip,Stiff Upper Lip,62,214560,False,0.588,0.851,7,-4.206,1,0.033,0.0344,0.00773,0.16,0.706,123.691,4,hard-rock
+1FPSkRkDlthbAceSIIWc4C,Metallica,Master Of Puppets (Deluxe Box Set / Remastered),Welcome Home (Sanitarium) - Remastered,59,387146,False,0.306,0.766,0,-9.693,1,0.0329,0.000324,0.101,0.102,0.42,96.668,4,hard-rock
+1bK9BeZnD5x1UPkvb2cdBk,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",Senhor Do Tempo - Ao Vivo,34,227853,False,0.594,0.744,6,-7.15,1,0.0282,0.0227,1.36e-05,0.963,0.322,102.697,4,hard-rock
+6PIfn2tJ1dhDBojV60T95E,9mm Parabellum Bullet,Halloween Hits,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hard-rock
+7r4WElntGwUCc6rQCnnfPH,Charlie Brown Jr.,Nao Viva Em Vao,Não Viva Em Vão - Versão Acústica,34,180600,False,0.677,0.518,1,-15.054,1,0.0358,0.286,0.000232,0.271,0.729,90.048,4,hard-rock
+0GyQ8MCMcla38fjfBZ5y7Y,9mm Parabellum Bullet,Helloween Party,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hard-rock
+6wbbbTyX0vqVN85ZwiRIm3,Burgerkill,Beyond Coma and Despair,Atur Aku,36,273880,True,0.462,0.98,4,-5.191,0,0.0912,0.00015,0.0278,0.138,0.244,99.827,4,hard-rock
+2LIoLF2jJrHW7SK8F2oGVW,Titãs,84 94 - Volume 2,Polícia,35,260866,False,0.683,0.915,9,-3.633,1,0.0452,0.00195,0.00799,0.096,0.789,101.145,4,hard-rock
+56EPijQ6H0sUMuRKbaIRfG,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Me Encontra - Ao Vivo - Chegou Quem Faltava,34,189901,False,0.419,0.969,10,-4.948,0,0.16,0.000119,0.00669,0.85,0.429,99.117,4,hard-rock
+1eoQsc67QBYVC4Pw84Lqk8,9mm Parabellum Bullet,Rock & Halloween,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hard-rock
+7b4yGtR0rujvLi5EBfKKJ2,Eddie Money,Can't Hold Back,Take Me Home Tonight,70,211160,False,0.608,0.768,1,-9.911,1,0.0364,0.101,1.41e-06,0.0942,0.748,132.699,4,hard-rock
+55StmbuyP1BpcMeQHoERxE,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Pontes Indestrutíveis - Ao Vivo - Chegou Quem Faltava,35,179071,False,0.543,0.883,2,-6.437,1,0.107,0.00547,0.00652,0.422,0.271,93.061,4,hard-rock
+60kX85bvmuc0iAYM6ULufL,Pitty,Matriz,Submersa,34,246121,False,0.565,0.866,11,-5.323,0,0.0362,0.00126,1.44e-05,0.132,0.202,120.022,4,hard-rock
+3UNuBNyY2dAxZGiUQf8eRT,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),CBJR é minha vida!,34,94271,False,0.49,0.914,10,-3.781,0,0.423,0.814,0.0,0.99,0.364,115.877,1,hard-rock
+76gRg3RyCTCijQ2La5vtns,Pense,"Realidade, Vida e Fé",Existência,34,192053,False,0.569,0.988,6,-4.261,1,0.0617,0.000154,6.49e-06,0.173,0.883,112.012,4,hard-rock
+3cetxRqZToUg1EnvcmOd2J,Fun People,The Art(E) of Romance,Vientos,35,114373,False,0.261,0.715,9,-9.401,1,0.0343,0.000254,0.00025,0.0895,0.572,164.111,4,hard-rock
+7sfeMasFUdoHXstGoprj9v,Pitty,Chiaroscuro,8 Ou 80,34,340733,False,0.575,0.913,11,-4.454,0,0.115,0.0028,0.0208,0.126,0.341,123.979,4,hard-rock
+11L6rFb9GgqE1wMeKK0Pk2,Zebulon,Zébulon,Marie-Louise,34,239733,False,0.574,0.759,2,-7.799,1,0.464,0.306,0.0,0.0475,0.835,165.519,4,hard-rock
+3OyFnnvG3QAXpkeviLxj4I,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Eve-Evelyn,35,264151,False,0.65,0.958,7,-6.715,1,0.109,0.0294,0.00734,0.0733,0.575,154.575,4,hard-rock
+006Bi4j0yzwOc3y69GOlYV,Chico Science;Nação Zumbi,Da Lama Ao Caos,Computadores Fazem Arte,36,193200,False,0.675,0.596,7,-10.169,1,0.0333,0.00036,0.00788,0.13,0.704,119.902,4,hard-rock
+7HziDJrMMjIIt9mw2fJ7u1,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Hoje Eu Acordei Feliz,35,139106,False,0.314,0.951,2,-5.056,1,0.0723,0.000519,0.0121,0.207,0.708,129.765,4,hard-rock
+5Z0lZm84qatUxKcfD8ZfiD,Popeda,Harasoo,Matkalla Alabamaan,34,180013,False,0.415,0.879,9,-6.451,1,0.0591,0.32,0.0,0.0443,0.675,145.686,4,hard-rock
+3pbSo0j9RmC6hBmqsC3kmH,Hanoi Rocks,Two Steps From The Move,Boulevard of Broken Dreams,34,245706,False,0.421,0.924,9,-4.105,1,0.0608,0.00139,0.0085,0.0558,0.629,137.28,4,hard-rock
+0IXpUl1fn2QZcBavfuq0H4,Judas Priest,British Steel,Living After Midnight,64,210133,False,0.61,0.824,4,-6.046,1,0.0534,0.0136,1.75e-06,0.0606,0.819,134.992,4,hard-rock
+0aDTaI6pxKLiy0vcmHebZR,Todos Tus Muertos,Greatest Hits,Tu Alma Mía / Adelita,36,233266,False,0.546,0.464,9,-18.492,0,0.0638,0.00383,8.78e-06,0.224,0.731,116.327,4,hard-rock
+3Sm8TZeE54N9pWtAMK6qQM,Los Prisioneros,Pateando Piedras,Exijo Ser Un Héroe,35,343760,False,0.819,0.513,1,-14.457,0,0.311,0.0274,0.00313,0.181,0.616,136.101,4,hard-rock
+2uJX5IvgQ95pabLdVXz7oK,Charlie Brown Jr.,Imunidade Musical,Onde Esta O Mundo Bom? (Living L.A.),34,143800,False,0.55,0.992,10,-3.154,0,0.0589,0.0209,0.000511,0.29,0.666,112.11,4,hard-rock
+5TXzVBQj31PD1YIS2Ll1mp,BBS Paranoicos,Delusional,Sanatorio,36,217072,False,0.458,0.926,6,-4.633,1,0.0569,0.000476,5e-06,0.0986,0.586,160.051,4,hard-rock
+2LLjn8kXxEnCsVdoWLQ75z,Charlie Brown Jr.,A Arte De Charlie Brown Jr.,Papo Reto (Prazer É Sexo O Resto É Negócio),34,207866,False,0.639,0.985,1,-2.796,1,0.0692,0.00233,2.98e-06,0.104,0.545,101.069,4,hard-rock
+2rg5wrJAvnqqrYs501kWmw,Raimundos;Oriente,Acústico - Ao Vivo,Dubmundos - Ao Vivo | Acústico,35,311893,False,0.607,0.904,1,-3.476,1,0.068,0.414,0.0,0.435,0.789,97.052,4,hard-rock
+51n5N9Elrmnbr1LbOa8Cau,Charlie Brown Jr.,Chegou Quem Faltava - Versão Completa (Ao Vivo),"Papo Reto (Prazer é Sexo, o Resto é Negócio) - Ao Vivo - Chegou Quem Faltava",34,226680,False,0.366,0.979,6,-5.655,1,0.178,0.000368,0.0023,0.746,0.355,110.337,4,hard-rock
+2BBUgaDkXFmQS7xMEr9r5w,Raimundos;Fred Castro,Acústico - Ao Vivo,Selim - Ao Vivo | Acústico,35,290112,True,0.328,0.74,6,-3.878,1,0.0313,0.417,5.23e-06,0.914,0.357,111.542,4,hard-rock
+4QB2cdh2v5zeRD1khGF9A5,Aerosmith,Just Push Play,Fly Away From Here,63,301760,False,0.387,0.686,4,-5.368,1,0.0363,0.142,0.0,0.122,0.171,142.091,4,hard-rock
+4IJqIAfQHT8BDvtRAcU0Ht,Lillian Axe,Deep Red Shadows,The Day I Met You,41,202680,False,0.529,0.291,6,-8.436,1,0.0264,0.717,0.0,0.11,0.183,104.973,3,hard-rock
+1By0FlLWeUxjQpOjmQIYig,Journey,Revelation,After All These Years,47,250680,False,0.411,0.585,11,-5.563,1,0.0314,0.151,0.0,0.101,0.17,127.618,4,hard-rock
+2j0s9NaRfGRpcPoiGbWogZ,Kind Kaputt,Alles erreichen,Alles erreichen,34,226833,True,0.491,0.969,0,-3.395,0,0.169,0.00121,0.0,0.373,0.556,187.344,3,hard-rock
+5fKyecQMay6dMwjf9VdYkk,The Phantoms,World Gone Mad,Made For This,48,220792,False,0.478,0.776,6,-5.457,0,0.0345,5.49e-05,1.7e-05,0.295,0.378,82.019,4,hard-rock
+0TaT50ZZxT4ytZxuqkE3A9,Van Halen,5150,Why Can't This Be Love,66,227693,False,0.531,0.626,0,-13.371,1,0.0452,0.0606,0.0,0.0767,0.746,88.236,4,hard-rock
+6BD1X1PeV5UzYUdiVaD2yL,Peter Frampton,Frampton,Show Me The Way,68,243266,False,0.7,0.726,2,-7.717,1,0.0329,0.434,1.1e-06,0.0963,0.641,130.109,4,hard-rock
+0Cubl3v1HBvVdsGpGpHrOD,Black Sabbath,The Mob Rules (2021 Mix),The Mob Rules (2021 Mix),0,204213,False,0.302,0.96,6,-6.242,0,0.0866,0.00052,0.000588,0.261,0.373,144.712,4,hard-rock
+0WTmEwS0UwTd3ySVEZwLAJ,Medulla,Medulla,Perigo,34,221952,False,0.689,0.738,11,-6.051,0,0.0425,0.187,4.93e-05,0.185,0.368,121.941,4,hard-rock
+1BfR5GMOgW0peHkPxrwf11,Greta Van Fleet,From The Fires,Safari Song,67,234600,False,0.362,0.928,2,-4.015,1,0.0503,0.164,1.61e-05,0.315,0.678,175.868,4,hard-rock
+6yl8Es1tCYD9WdSkeVLFw4,AC/DC,Who Made Who,You Shook Me All Night Long,66,210880,False,0.529,0.768,7,-5.51,1,0.0566,0.00224,0.00075,0.297,0.769,127.316,4,hard-rock
+5UuikgHTxSRFRnC0zXx10i,Jethro Tull,Aqualung (Special Edition),Aqualung,63,396186,False,0.477,0.479,7,-11.887,0,0.0483,0.0649,0.029,0.0906,0.662,122.531,4,hard-rock
+1diuZVsxD74xvtUSABRUoF,Iron Maiden,Brave New World (2015 Remaster),The Wicker Man - 2015 Remaster,59,275253,False,0.424,0.98,4,-4.33,0,0.154,0.000855,5.72e-06,0.129,0.296,101.502,4,hard-rock
+1iciuWk8TNPqD9pmziEacx,Medulla,Medulla,Eterno Retorno,34,208640,False,0.604,0.477,7,-8.203,0,0.0349,0.267,0.0,0.211,0.375,113.943,4,hard-rock
+2L42uB1e5wuanTTPEWVe64,Iron Maiden,Senjutsu,Days Of Future Past,55,243754,False,0.433,0.92,4,-4.738,0,0.0409,0.000576,5.5e-05,0.123,0.476,92.466,4,hard-rock
+6FFwt1ea9hJ4MfMQLywahm,12 Stones,Anthem For The Underdog (Bonus Track Version),Anthem For The Underdog,59,184426,False,0.2,0.863,5,-3.424,1,0.0626,0.000651,0.0,0.339,0.468,93.977,3,hard-rock
+3KPwt1LBpt1jVSHz8GXERo,Bad Company,Straight Shooter,Feel like Makin' Love - 2015 Remaster,67,313840,False,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126,4,hard-rock
+6ReNHPMnWhBqrCMHeCvPhH,Charlie Brown Jr.,Tamo Ai Na Atividade,Vivendo Nesse Absurdo,34,273160,False,0.215,0.75,8,-6.199,1,0.0317,0.00418,0.00846,0.077,0.284,76.764,4,hard-rock
+6RzK7XvwxnRq6AKDklJS6L,Megadeth,"The Sick, The Dying… And The Dead!","The Sick, The Dying… And The Dead!",61,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,hard-rock
+32SckiFOYb8bwYewY51WA7,Cheap Trick,Top Gun - Motion Picture Soundtrack (Special Expanded Edition),"Mighty Wings - From ""Top Gun"" Original Soundtrack",56,231040,False,0.467,0.937,5,-8.285,1,0.0483,0.0269,0.0,0.235,0.848,158.071,4,hard-rock
+6L7VshJ2hM5fATDIWtGWVt,Titãs,Cabeça Dinossauro - Edição Comemorativa 30 anos - Deluxe,Homem primata,34,210306,False,0.636,0.731,1,-12.533,1,0.0314,0.00955,5.99e-06,0.0226,0.933,81.422,4,hard-rock
+16OnvlXr3Ur4aHUiJd07rz,Charlie Brown Jr.;MV Bill,"Ritmo, Ritual E Responsa",Sem Medo Da Escuridão,34,343920,False,0.7,0.937,10,-5.548,0,0.12,0.184,5.48e-06,0.114,0.513,112.995,4,hard-rock
+3O3W2hZSSUDI8zst9u42MP,Gloria,(Re)Nascido,A Arte de Fazer Inimigos,34,177546,True,0.566,0.964,7,-2.507,1,0.117,0.000532,0.0,0.312,0.571,140.022,4,hard-rock
+23IJ5wLRhEZ9DOuia5mPiZ,The Who,Who Are You,Who Are You,65,381626,True,0.651,0.648,9,-11.409,1,0.0501,0.262,0.0042,0.0655,0.49,156.372,4,hard-rock
+7yqbhojjV25ijBnJZB99nE,Popeda,Svoboda,Punaista Ja Makeaa,34,174520,False,0.434,0.321,11,-8.473,1,0.0264,0.239,0.0,0.113,0.273,77.863,4,hard-rock
+6lMP5o8aLczm4PrV1WkuJY,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",La Noche,35,207960,False,0.309,0.585,8,-8.931,0,0.0458,0.117,0.000416,0.364,0.551,68.205,4,hard-rock
+3vhKrSxe3fRuS5Ogis76VO,Iron Maiden,Piece of Mind (2015 Remaster),Flight of Icarus - 2015 Remaster,61,230760,False,0.368,0.917,6,-4.829,0,0.0772,0.147,0.000121,0.169,0.343,110.455,4,hard-rock
+6LABUfTDRKb5QGZNgWrDq0,Fun People,Reel Around the Fountain,Reel Around the Fountain,35,314802,False,0.573,0.652,0,-6.839,1,0.0331,0.00261,0.00304,0.139,0.624,127.902,4,hard-rock
+3CLYqhN4ZmilUp1OFxzWDM,Titãs,Volume 02,Sonífera ilha,34,176560,False,0.619,0.809,9,-7.782,0,0.029,0.294,6.65e-06,0.0378,0.937,146.627,4,hard-rock
+5H0rkrwdQytofgRjhZe9XF,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",¿Por Qué No Se Van?,35,178240,False,0.755,0.796,0,-9.621,1,0.0422,0.0166,0.0173,0.0643,0.94,152.153,4,hard-rock
+1rC3yC70qRdRMyeGzPoZKM,Böhse Onkelz,Ein böses Märchen aus tausend finsteren Nächten,Exitus,34,234693,False,0.423,0.796,1,-5.196,0,0.0357,1.52e-05,0.0273,0.103,0.247,74.991,4,hard-rock
+0VnkKcDfLPPyWTa3xIFWCV,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",Paramar (En Vivo),35,267918,False,0.449,0.838,2,-5.293,1,0.048,0.0539,0.00148,0.72,0.366,137.382,4,hard-rock
+43JNWKZF38EUl5Z4xQNdlD,Titãs,Cabeça Dinossauro,Aa uu,34,183866,False,0.698,0.745,4,-11.976,1,0.0329,0.0367,0.368,0.0748,0.854,135.699,4,hard-rock
+40IdYBXq5a7IhHwS8gQEoC,Charlie Brown Jr.,Chegou Quem Faltava - Volume 2 (Ao Vivo),Ela Vai Voltar (Todos os Defeitos de uma Mulher Perfeita) - Ao Vivo - Chegou Quem Faltava,34,140068,False,0.52,0.917,1,-5.765,1,0.0423,0.00937,2.07e-05,0.327,0.278,104.238,4,hard-rock
+6ueir0XpyQQqNZpOhxjwyI,Charlie Brown Jr.,Chegou Quem Faltava - Versão do Chorão (Ao Vivo),Rock Star - Ao Vivo - Chegou Quem Faltava,34,180313,False,0.45,0.981,1,-5.019,1,0.139,0.000375,0.000285,0.86,0.382,81.199,4,hard-rock
+2XEZ7vNowkcxPDbehugy3Q,Golden Earring,Golden Earring Biggest Hits,Weekend Love,34,255026,False,0.491,0.737,2,-6.132,1,0.04,0.279,0.0,0.106,0.456,166.627,4,hard-rock
+7a07LwoTEqMdngkepQaAsO,Fiskales Ad-Hok,Traga!,Eugenia,35,191000,False,0.261,0.955,5,-7.461,1,0.0568,0.00112,4.96e-05,0.15,0.532,157.168,4,hard-rock
+0ehtFnPWJIYVwZhca6GBu5,Charlie Brown Jr.,Nadando Com Os Tubarões,Talvez A Metade Do Caminho,34,182973,False,0.56,0.972,8,-4.457,1,0.0666,0.00408,0.0,0.245,0.587,92.125,4,hard-rock
+4tOREdQQk5unR9QMdyvwM7,Popeda,30-Vuotinen Sota (1977-2007),Tahdotko Mut Tosiaan,34,220560,False,0.384,0.849,7,-5.502,1,0.0374,0.00301,2.92e-06,0.328,0.522,93.037,4,hard-rock
+0MumClo5Tvjt0Z2yuUkNBo,Böhse Onkelz,"Gehasst, Verdammt, Vergöttert...die letzten Jahre",Deutschland im Herbst,34,273000,False,0.34,0.842,9,-12.694,0,0.0654,0.000437,0.000238,0.223,0.48,180.257,4,hard-rock
+6MfYUSt0vguOQdmQBqxQ4U,Popeda,"Hittejä, Kersantti Karoliina",Kersantti Karoliina,34,180266,False,0.637,0.925,4,-4.016,0,0.0672,0.0536,0.0,0.146,0.92,128.027,4,hard-rock
+57AMU7iiw4nfDD1AaPmzgW,Chico Science;Nação Zumbi,Da Lama Ao Caos,Maracatu de Tiro Certeiro,35,251493,False,0.569,0.813,7,-7.93,1,0.0371,0.000825,0.000801,0.0791,0.452,102.705,4,hard-rock
+68L8UtN78zj2DbmxJwcfQU,Charlie Brown Jr.,De 1997 A 2007,O Côro Vai Comê,34,140303,False,0.713,0.838,0,-4.404,0,0.0438,0.0687,4.64e-05,0.363,0.975,147.602,4,hard-rock
+74cr9tXA7jk1KY1QkA0VFD,Charlie Brown Jr.,Nadando Com Os Tubarões,Ouviu-Se Falar - Extra - Turne Internacional,34,192066,False,0.335,0.95,1,-5.626,0,0.28,0.00377,1.22e-05,0.119,0.312,89.384,4,hard-rock
+0z1iZISYRfJPhE0VDRXVCJ,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,Comigo ninguém tira onda,34,179106,False,0.563,0.968,1,-4.088,1,0.0743,0.0189,0.000275,0.291,0.571,138.065,4,hard-rock
+3oA3YVgCx1ppl4WL5abCiB,Böhse Onkelz,Heilige Lieder,Wir schreiben Geschichte - Bonus Track,34,241893,False,0.594,0.676,4,-12.519,1,0.0557,0.00137,3.21e-05,0.0743,0.703,132.019,4,hard-rock
+1OteBKmZphU0rpNO8Qlzdn,Matanza,Pior Cenário Possível,A Casa Em Frente Ao Cemitério,34,229960,False,0.553,0.945,11,-6.058,1,0.0678,0.00134,0.000679,0.103,0.593,126.078,4,hard-rock
+78kMjErqk7wbeXGNaggFUf,Matanza,Música para Beber e Brigar,Quando Bebe Desse Jeito,34,191373,False,0.366,0.995,7,-3.155,1,0.136,0.0406,1.01e-06,0.548,0.686,188.931,4,hard-rock
+3yz3yceLHbR6jlyvfxrEBn,Raimundos,Acústico - Ao Vivo,Bê a Bá - Ao Vivo | Acústico,35,240746,True,0.358,0.916,11,-3.571,1,0.0952,0.326,8.63e-06,0.148,0.348,161.703,4,hard-rock
+5plUHYwd0hyg7EXPK2Zjr6,Böhse Onkelz,Wir Ham' Noch Lange Nicht Genug,Wir sind immer für euch da,34,241000,False,0.328,0.875,7,-12.686,1,0.0466,0.00324,0.0,0.272,0.52,151.492,4,hard-rock

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+4gHnSNHs8RyVukKoWdS99f,Nirvana,Nevermind (Remastered),Something In The Way,76,232146,False,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,grunge
+60a0Rd6pjrkxjPbaKzXjfq,Linkin Park,Hybrid Theory (Bonus Edition),In the End,85,216880,False,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,4,grunge
+2nLtzopw4rPReszdYBJU6h,Linkin Park,Meteora,Numb,83,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,grunge
+1EWDtcKzwZqflFqdiN3fyv,Linkin Park,A Thousand Suns,Waiting for the End,42,231680,False,0.487,0.961,4,-4.139,1,0.132,0.0415,1.15e-06,0.553,0.323,170.005,4,grunge
+104buTcnP2AsxqB7U1FIZ4,Linkin Park;Kiiara,One More Light,Heavy (feat. Kiiara),69,169800,True,0.59,0.671,9,-6.098,1,0.0706,0.0484,0.0,0.0604,0.438,149.982,4,grunge
+3NLrRZoMF0Lx6zTlYqeIo4,3 Doors Down,Away From The Sun,Here Without You,76,238733,False,0.557,0.533,10,-6.817,0,0.0252,0.0492,0.0,0.205,0.233,143.994,4,grunge
+7oVEtyuv9NBmnytsCIsY5I,Linkin Park,LIVING THINGS,BURN IT DOWN,75,230253,False,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,4,grunge
+58AS4weYlUWvGztZbKIuAU,Linkin Park,Minutes to Midnight,Leave Out All The Rest,55,209306,False,0.514,0.637,0,-6.418,1,0.0363,0.213,2.24e-06,0.389,0.18,80.401,4,grunge
+1r1fPuhj9H4VdXr7OK6FL5,Linkin Park,LIVING THINGS,CASTLE OF GLASS,73,205400,False,0.615,0.911,1,-3.584,0,0.0278,0.0686,0.00188,0.0908,0.685,108.0,4,grunge
+2RsAajgo0g7bMCHxwH3Sk0,Nirvana,Nevermind (Remastered),Come As You Are,79,218920,False,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4,grunge
+77loZpT5Y5PRP1S451P9Yz,Hoobastank,The Reason (15th Anniversary Deluxe),The Reason,81,232800,False,0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,4,grunge
+3FQCJI2t5LTbsRPfYVBSVB,Linkin Park,One More Light,Battle Symphony,64,216281,False,0.653,0.839,10,-5.077,1,0.0685,0.0369,0.0,0.068,0.669,149.034,4,grunge
+6Wx88Mv6b9ofjKMKkdwOJd,Linkin Park,Transformers: Revenge Of The Fallen The Album,New Divide,70,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,grunge
+4CeeEOM32jQcH3eN9Q2dGj,Nirvana,Nevermind (Remastered),Smells Like Teen Spirit,83,301920,False,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4,grunge
+2oNYsdCasRRlz1shXFAz7D,Linkin Park,LIVING THINGS,LOST IN THE ECHO,67,205120,False,0.546,0.98,9,-3.02,0,0.0619,0.0154,0.0,0.31,0.478,120.037,4,grunge
+78gsvivelCP8Kh0tSRTy8D,Linkin Park,Minutes to Midnight,Bleed It Out,58,164760,True,0.542,0.932,4,-4.896,1,0.05,0.0747,0.0,0.613,0.698,140.135,4,grunge
+4wfyFIRnxdIN0v4OGtXcX3,Linkin Park,Minutes to Midnight,What I've Done,58,205613,False,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,4,grunge
+3fjmSxt0PskST13CSdBUFx,Linkin Park,Meteora (Bonus Edition),Somewhere I Belong,73,213933,False,0.451,0.951,1,-3.754,1,0.0645,0.00038,2.39e-06,0.261,0.442,162.065,4,grunge
+42T2QQv3xgBlpQxaSP7lnK,Creed,Weathered,One Last Breath,72,238240,False,0.386,0.677,2,-5.83,1,0.0346,0.00841,0.00366,0.341,0.195,126.602,4,grunge
+57BrRMwf9LrcmuOsyGilwr,Linkin Park,Hybrid Theory (Bonus Edition),Crawling,76,208960,False,0.58,0.702,4,-5.565,1,0.0337,0.0466,3.2e-06,0.536,0.299,105.076,4,grunge
+3K4HG9evC7dg3N0R9cYqk4,Linkin Park,Hybrid Theory (Bonus Edition),One Step Closer,78,157333,False,0.492,0.969,9,-4.419,1,0.0491,0.0014,1.32e-06,0.0787,0.538,95.136,4,grunge
+15VRO9CQwMpbqUYA7e6Hwg,Nirvana,MTV Unplugged In New York,The Man Who Sold The World,76,261093,False,0.483,0.753,1,-8.937,0,0.0832,0.425,0.000142,0.257,0.42,115.102,4,grunge
+4Yf5bqU3NK4kNOypcrLYwU,Linkin Park,Meteora,Faint,77,162600,False,0.554,0.978,4,-3.554,1,0.131,0.111,0.0,0.0731,0.594,135.095,4,grunge
+11LmqTE2naFULdEP94AUBa,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Heart-Shaped Box,79,281160,False,0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,4,grunge
+3dxiWIBVJRlqh9xk144rf4,Linkin Park,Meteora (Bonus Edition),Breaking the Habit,71,196906,False,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,4,grunge
+1Vej0qeQ3ioKwpI6FUbRv1,Linkin Park,Hybrid Theory (Bonus Edition),Papercut,75,184866,False,0.524,0.939,9,-3.994,1,0.113,0.00022,0.0,0.623,0.661,150.184,4,grunge
+1bOENKlPYEDXyH9kLFUsnj,Nickelback,Timeless Rock Hits,Animals,3,185906,False,0.569,0.963,7,-3.069,1,0.0593,0.000787,0.0256,0.22,0.82,76.995,4,grunge
+2Lkn3Of9JHY6RSA8c3omKT,3 Doors Down,Обратно в клас - rock,Here Without You,0,238560,False,0.556,0.545,10,-6.768,0,0.0255,0.0635,0.0,0.124,0.193,143.991,4,grunge
+74NANS3BFQRnpz3S0JVg5o,3 Doors Down,Emo Christmas 2022,It's Not My Time - Acoustic,0,238373,False,0.674,0.58,0,-8.081,1,0.0312,0.311,2.41e-05,0.198,0.305,128.003,4,grunge
+1socrSbJSiMWRgK1bLOfd1,Thirty Seconds To Mars,Rock Workout 2023,The Kill (Bury Me),1,231533,False,0.179,0.912,4,-3.881,0,0.0791,0.0014,0.000294,0.582,0.289,182.99,3,grunge
+3tUwMETMLT2pSeeaMhBJMz,Thirty Seconds To Mars,10's Music Grandi Successi,Dangerous Night,0,199773,False,0.298,0.715,2,-6.533,1,0.0696,0.00212,1.69e-06,0.242,0.242,88.035,4,grunge
+0Rv8J2jCczm7nxMurGBIcG,Godsmack,Halloween Spooky Party 2022,Vampires,0,227240,False,0.486,0.843,7,-6.085,1,0.0635,7.21e-05,0.682,0.0709,0.412,90.016,4,grunge
+18lSBq4bUQg32GeQ8gIu1e,Shinedown,Rock - Best of 2022,Planet Zero,6,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+1aL952bo0KZTPevSl3207C,3 Doors Down,Rock Workout 2023,Kryptonite,1,234626,False,0.544,0.848,11,-6.804,0,0.0288,0.00395,5.22e-05,0.134,0.489,99.039,4,grunge
+4MiLgByToEVhuGwc6MrSIX,Breaking Benjamin,Halloween Metal Nights,Blood,3,189120,True,0.477,0.973,4,-2.731,0,0.0766,3.81e-05,3.3e-05,0.289,0.288,90.519,4,grunge
+5ugV3rhvi2h6l52e1cIfLw,3 Doors Down,Fishing Music,Kryptonite,0,234626,False,0.544,0.848,11,-6.804,0,0.0288,0.00395,5.22e-05,0.134,0.489,99.039,4,grunge
+6JN0cjFT0zDRYxzqcKrvwf,Soundgarden,Hits Pop Rock 90's,Spoonman,0,246920,False,0.258,0.904,0,-5.625,1,0.0386,2.2e-05,0.218,0.255,0.832,186.054,3,grunge
+1Vl9pXCmq6m2FbpxqHptTY,The Smashing Pumpkins,Rock & Halloween,Bullet With Butterfly Wings - Remastered 2012,2,257812,False,0.395,0.751,10,-8.547,0,0.0618,5.71e-05,0.838,0.0725,0.455,121.561,4,grunge
+6fz1H1xvH7uUycVKUVUHwb,Creed,Fishing Music,One Last Breath,1,239373,False,0.38,0.72,2,-5.766,1,0.0356,0.00899,0.00147,0.221,0.172,129.982,4,grunge
+6X3kcyCvy2stFdKuYP55Co,Godsmack,Halloween Metal Nights,Cryin' Like A Bitch!!,1,201666,True,0.548,0.808,10,-5.484,1,0.0398,7.19e-05,0.00341,0.114,0.475,95.207,4,grunge
+5jTnpbclNqXTV4trZSjoJE,Shinedown,20's Rock,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+2vGDTOtslhkco6LVFfdEI2,Soundgarden,Rock & Halloween,Black Hole Sun,0,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,grunge
+5Z2iVSDPvCScP5M5atIt5v,Shinedown,Metal,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+6jmbmsPYXhA0HHQ7LSxvyD,Shinedown,Metal Lives!,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+4bh9zPGpEX1yl9Do6rkhHr,Shinedown,Rock Brandneu,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+0PSKFp3zoNmJzDsOHeLV6l,The Smashing Pumpkins,Alternative Christmas 2022,Christmastime,0,196723,False,0.165,0.434,0,-8.163,1,0.0288,0.316,0.171,0.213,0.186,77.983,3,grunge
+36NQtTNiBpURnyDasqNsCf,Shinedown,Top of the Rock,Planet Zero,0,222738,False,0.416,0.964,9,-2.967,1,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+4fdy3vg2bCXU6L77vC6li8,The Smashing Pumpkins,Alternative Christmas 2022,Christmastime,0,196723,False,0.165,0.434,0,-8.163,1,0.0288,0.316,0.171,0.213,0.186,77.983,3,grunge
+0BaVcB3Mn8QgGUdEi2yqCb,Stone Temple Pilots,Timeless Rock Hits,Plush,1,310346,False,0.416,0.954,7,-3.157,0,0.0467,0.0021,0.0,0.177,0.498,144.724,4,grunge
+7KPwpv8wlkkaNRd4LLoQT9,Soundgarden,Hits Pop Rock 90's,Black Hole Sun,1,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,grunge
+07rz54LA3Y2lagmY0DnChZ,Linkin Park,A Thousand Suns,Iridescent,42,296560,False,0.484,0.727,0,-6.107,1,0.0358,0.198,0.00204,0.107,0.216,120.066,4,grunge
+6mQD0vGdFrQMeTADOSIEwx,Linkin Park,A Thousand Suns,The Catalyst,36,339853,False,0.56,0.925,0,-5.48,1,0.0362,0.0372,0.0,0.104,0.178,135.009,4,grunge
+4Sxx1wd4nnB8ob8Zsujwrs,Linkin Park,Minutes to Midnight,Shadow of the Day,52,290360,False,0.534,0.393,11,-7.813,1,0.0292,0.00479,0.0107,0.107,0.0641,110.007,4,grunge
+3dJj6o9o1fRgrojWjailuz,Linkin Park,One More Light,Nobody Can Save Me,61,225546,False,0.645,0.688,11,-4.749,1,0.0341,0.0107,0.0,0.186,0.433,139.957,4,grunge
+7nAfXgeHfDO50upcOjJOaq,Linkin Park,One More Light,Talking to Myself,63,231306,False,0.593,0.712,2,-6.325,0,0.0286,0.00184,0.0,0.128,0.473,124.013,4,grunge
+0815caqt2Lytro5EIzMufT,Lifehouse,Lifehouse,You And Me,76,195493,False,0.459,0.427,7,-7.734,1,0.0267,0.114,0.0,0.168,0.354,139.902,3,grunge
+650OeHTLxZAQmb4aEbGmaA,Linkin Park;Pusha T;Stormzy,One More Light,Good Goodbye (feat. Pusha T and Stormzy),63,211413,False,0.697,0.84,9,-4.602,0,0.054,0.106,0.0,0.748,0.452,128.034,4,grunge
+697M5JB8FDIyRXEXgl1pBZ,Linkin Park,Meteora (Bonus Edition),From the Inside,67,173933,False,0.466,0.965,1,-2.597,0,0.0904,0.042,0.0,0.101,0.453,95.028,3,grunge
+1dYw8HTRJnFpeEeMtXj99a,Linkin Park,LIVING THINGS,ROADS UNTRAVELED,65,229933,False,0.599,0.788,8,-6.25,0,0.0294,0.263,0.00525,0.155,0.581,100.001,3,grunge
+4qVR3CF8FuFvHN4L6vXlB1,Linkin Park,Meteora (Bonus Edition),Lying from You,66,175373,False,0.535,0.951,3,-3.324,0,0.18,0.00777,0.0,0.0669,0.723,160.102,4,grunge
+5egqKwgK5r5rvGD1LrtR7J,Linkin Park,Hybrid Theory (Bonus Edition),Points of Authority,68,200240,False,0.512,0.97,8,-3.886,0,0.212,0.03,0.0,0.0994,0.427,94.952,4,grunge
+400lQTCx3wYGgqAIHSZbNA,Linkin Park,Minutes to Midnight,Given Up,54,189293,True,0.655,0.885,7,-4.116,1,0.0438,0.00117,0.000473,0.0448,0.938,100.088,4,grunge
+7kxfWvj6u9oWQ5C36kMtGb,Alter Bridge,Blackbird,Watch Over You,60,259133,False,0.276,0.658,7,-5.418,1,0.0329,0.0836,0.000553,0.161,0.16,172.326,4,grunge
+40LQiUUUKXVGyNs09lHVjW,Hinder,Extreme Behavior,Lips Of An Angel,73,261853,False,0.476,0.736,2,-5.38,1,0.0343,0.0217,1.08e-06,0.203,0.251,129.084,4,grunge
+6ZOBP3NvffbU4SZcrnt1k6,3 Doors Down,The Better Life,Kryptonite,80,233933,False,0.545,0.865,11,-5.708,0,0.0286,0.00664,1.1e-05,0.168,0.543,99.009,4,grunge
+00KfIFi2TpAaQGPbRbFbKJ,Linkin Park,LIVING THINGS,IN MY REMAINS,63,200693,False,0.553,0.907,9,-5.623,0,0.0484,0.00401,0.0,0.266,0.451,100.967,4,grunge
+0ADZ5dmXhlfzjMw6lefoPl,Nickelback,All the Right Reasons,Far Away,73,238173,False,0.518,0.797,6,-5.153,1,0.0309,0.000681,0.0,0.107,0.293,132.918,4,grunge
+1jq28NGw6wdtFKx8MBPy6C,Nickelback,Dark Horse,Burn It to the Ground,73,212346,False,0.617,0.922,11,-3.474,1,0.0744,0.000247,0.388,0.363,0.6,132.059,4,grunge
+7AB0cUXnzuSlAnyHOqmrZr,Linkin Park,Meteora (Bonus Edition),Faint,66,162600,False,0.554,0.978,4,-3.554,1,0.131,0.111,0.0,0.0731,0.594,135.095,4,grunge
+4zNk347FJz4yDDcjUhJJMI,Linkin Park,LIVING THINGS,POWERLESS,60,224466,False,0.508,0.88,5,-6.441,0,0.0448,0.0621,9.43e-05,0.15,0.337,140.065,1,grunge
+0gmbgwZ8iqyMPmXefof8Yf,Nickelback,Silver Side Up,How You Remind Me,80,223840,False,0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,4,grunge
+5vHLwhxxlGzmClMcxRRFPr,Nirvana,Nevermind (Remastered),Lithium,73,257053,False,0.678,0.656,7,-6.41,1,0.0381,0.00174,0.0,0.0631,0.485,123.207,4,grunge
+3aYBjxTMvrEOP0A0UXg9ER,Linkin Park,The Hunting Party,Final Masquerade,64,217613,False,0.466,0.852,3,-4.487,1,0.0585,0.00774,2.6e-06,0.0989,0.428,164.032,4,grunge
+5rAxhWcgFng3s570sGO2F8,Linkin Park,Hybrid Theory (Bonus Edition),A Place for My Head,70,184640,False,0.603,0.908,11,-5.254,1,0.184,0.0144,0.0,0.671,0.457,133.063,4,grunge
+5UWwZ5lm5PKu6eKsHAGxOk,Foo Fighters,The Colour And The Shape,Everlong,84,250546,False,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,4,grunge
+55yvzYuvJYG2RUEnMK78tr,Nirvana,Nirvana,About A Girl,74,166640,False,0.409,0.932,11,-4.538,0,0.0339,1.87e-05,1.6e-06,0.31,0.591,131.761,4,grunge
+0faXHILILebCGnJBPU6KJJ,Breaking Benjamin,Phobia (Clean Version),The Diary of Jane - Single Version,74,200546,False,0.392,0.964,10,-4.441,0,0.0644,7.13e-05,0.0387,0.106,0.269,167.024,4,grunge
+7x8dCjCr0x6x2lXKujYD34,Foo Fighters,"Echoes, Silence, Patience & Grace",The Pretender,79,269373,False,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,4,grunge
+3UULkHdmLDqBDPmBYltoRE,Alter Bridge,One Day Remains,Metalingus,67,259959,False,0.496,0.981,8,-3.268,1,0.108,9.33e-06,0.0,0.0958,0.163,109.905,4,grunge
+2eXoWAL6kC9sdlpdOGvSCw,Lifehouse,OO's Music Grandi Successi,You And Me,1,195493,False,0.459,0.427,7,-7.733,1,0.0267,0.112,0.0,0.168,0.357,139.898,3,grunge
+5S9KnOMLC5vRckzbvzasEs,Hoobastank,Обратно в клас - rock,The Reason,0,232800,False,0.474,0.671,4,-4.649,1,0.0289,0.0129,0.0,0.159,0.0682,82.94,4,grunge
+6zMPcgwV7bp0xgRQctwDku,Drowning Pool,Halloween Metal Nights,Mute,1,200000,False,0.567,0.815,10,-4.668,1,0.0286,0.000277,0.104,0.0867,0.378,97.937,4,grunge
+5pIXg8cywRwdTyFeVsWtht,Hoobastank,OO's Music Grandi Successi,The Reason,1,232800,False,0.474,0.671,4,-4.649,1,0.0289,0.0129,0.0,0.159,0.0682,82.94,4,grunge
+4z1N1HpvoBnptR3zP7Q8Ai,Highly Suspect,Rock - Best of 2022,Natural Born Killer,5,196135,False,0.202,0.742,0,-5.29,1,0.124,0.00169,0.000483,0.128,0.155,194.876,3,grunge
+24cUJMEiMkGfdhTgt2ZUgV,Halestorm,Rock - Best of 2022,The Steeple,4,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,grunge
+4jZDioY5bkeiNBGK4lGrlA,Staind,Metal,Eyes Wide Open,0,210600,False,0.29,0.936,1,-3.876,0,0.211,0.000481,0.0275,0.0573,0.432,167.818,3,grunge
+63hVrWvNfJz10heZwTjCOy,Staind,Post-Millennial Noise,Epiphany,0,256133,False,0.559,0.487,6,-9.349,1,0.0266,0.0333,0.0826,0.129,0.145,149.959,4,grunge
+7pluJ15vmT0NZdX2lmIbBI,Third Eye Blind,Post-Millennial Noise,Deep Inside of You,0,250293,False,0.508,0.558,7,-6.605,1,0.0238,0.00351,4.18e-05,0.0822,0.16,81.599,4,grunge
+6PQLxN9DvI4Abr3hmsX3NQ,Hole,Fiesta temática 90s,Miss World,0,180066,False,0.331,0.722,7,-8.461,1,0.0408,0.00204,5.5e-05,0.256,0.349,125.619,4,grunge
+4yUk1knKtOuUEPT2iy85Xp,Halestorm,Metal,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,grunge
+3bG1B0UTDX0UYg9qeec3gL,Halestorm,Metal Lives!,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,grunge
+5gRjZANENPGzKGrOsBIVUa,Bush,Post-Millennial Noise,Headful of Ghosts,0,261293,False,0.432,0.706,5,-5.061,1,0.0426,0.00108,0.0,0.378,0.29,136.981,4,grunge
+5F2b8ExevODMQehJcEVjz9,Halestorm,Rock Brandneu,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,grunge
+2GIXniwgfIlLuVTB4rWWWv,Live,Fiesta temática 90s,I Alone,0,230826,False,0.424,0.843,6,-6.197,1,0.0394,0.00101,0.00896,0.366,0.115,90.247,4,grunge
+3672DNEisN5yExyR4KUPww,Blind Melon,REGNIG DAG,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,grunge
+7JJ2YihKiiTove86Gt12LV,Halestorm,Top of the Rock,The Steeple,0,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,grunge
+1NFeTpNJR8TDP4UzpAix6X,Blind Melon,Hits Pop Rock 90's,No Rain,1,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,grunge
+7MIKwg3dDCWhxMVjMvqF1O,Blind Melon,Los Clásicos del Pop 90s,No Rain,1,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,grunge
+6MCy7TQ6qOvEdayIkbC8kc,Blind Melon,Fiesta temática 90s,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,grunge
+7udYCqlu5Y9hZFFcDFNtuO,Blind Melon,90's Music Grandi Successi,No Rain,0,217200,False,0.359,0.573,9,-6.054,1,0.0326,0.665,0.000178,0.136,0.562,73.368,4,grunge
+0QnONzv3TvHAWk294h6DaQ,Pearl Jam,Last Kiss,Last Kiss,71,195466,False,0.622,0.692,7,-6.97,1,0.0276,0.363,0.000158,0.193,0.774,112.053,4,grunge
+3BnBKNItMng824sLx0pUfy,Linkin Park;Steve Aoki,RECHARGED,A LIGHT THAT NEVER COMES,62,229439,False,0.687,0.871,0,-5.531,1,0.0689,0.00225,0.00708,0.134,0.539,115.0,4,grunge
+3RlsVPIIs5KFhLFhxZ4iDF,Nickelback,All the Right Reasons (Walmart Exclusive Edition),Rockstar,70,252040,False,0.616,0.91,0,-3.004,1,0.0386,0.0459,0.0,0.343,0.693,144.072,4,grunge
+0lP4HYLmvowOKdsQ7CVkuq,Thirty Seconds To Mars,A Beautiful Lie,The Kill,76,231533,False,0.179,0.912,4,-3.881,0,0.0791,0.0014,0.000294,0.582,0.289,182.99,3,grunge
+2JuasWPUodaUxf5nwNpciQ,Alice In Chains,Jar Of Flies,Nutshell,71,259200,False,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,3,grunge
+507bYMYfbm6sUS9iEAaeSd,Seether;Amy Lee,Disclaimer II,Broken,70,258333,False,0.448,0.61,3,-2.695,0,0.0342,0.0102,0.000491,0.135,0.214,123.762,4,grunge
+6OocN63GLU7NF0wHdewhID,Linkin Park,One More Light,Invisible,56,214346,False,0.47,0.74,11,-6.093,1,0.07,0.0455,0.0,0.091,0.562,84.841,4,grunge
+6c0I7CfL9ziGZN8yYkLppP,Linkin Park,One More Light,Sharp Edges,57,178200,False,0.652,0.714,0,-5.678,1,0.0562,0.145,0.0,0.154,0.624,112.029,4,grunge
+551qy5vUgrUfEUc4dCNfht,Nirvana,MTV Unplugged In New York,Where Did You Sleep Last Night,69,306066,False,0.573,0.59,3,-8.43,1,0.0557,0.667,0.000397,0.691,0.364,108.789,3,grunge
+6uXDMINfe9KJETjkzekznW,Linkin Park,New Divide (Int'l DMD Maxi),New Divide,55,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,grunge
+69vMDipMastHvYna7plBdS,Linkin Park,Minutes to Midnight,No More Sorrow,48,221720,False,0.571,0.934,3,-4.22,0,0.0531,0.00316,6.21e-06,0.197,0.409,132.594,4,grunge
+7nnWIPM5hwE3DaUBkvOIpy,Incubus,Make Yourself,Drive,75,232453,False,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565,4,grunge
+6rUp7v3l8yC4TKxAAR5Bmx,Three Days Grace,Three Days Grace (Expanded Edition),I Hate Everything About You,72,231480,False,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,4,grunge
+7CpbhqKUedOIrcvc94p60Y,Drowning Pool,Sinner,Bodies,75,201960,False,0.656,0.932,4,-3.405,0,0.0708,0.00347,0.00147,0.144,0.544,130.936,4,grunge
+6xtQ23d8GEXgcxyUKPtwc5,Linkin Park,Hybrid Theory (Bonus Edition),Runaway,65,183973,False,0.636,0.884,7,-4.743,1,0.0584,0.0142,0.0,0.253,0.446,109.16,4,grunge
+5O8L4I2S4izFGDjvP7xAKv,Nirvana,Nirvana,You Know You're Right,69,217000,False,0.289,0.716,5,-6.53,0,0.106,0.0407,0.00123,0.135,0.344,168.049,4,grunge
+1y1sChqjzdNWzwdHQADMrR,Linkin Park,Meteora (Bonus Edition),Numb,61,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,grunge
+5FZxsHWIvUsmSK1IAvm2pp,Foo Fighters,In Your Honor,Best of You,76,255626,False,0.366,0.94,1,-5.119,0,0.0696,0.000769,9.42e-05,0.188,0.369,130.198,4,grunge
+3YuaBvuZqcwN3CEAyyoaei,Audioslave,Audioslave,Like a Stone,78,293960,False,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,4,grunge
+5Xak5fmy089t0FYmh3VJiY,Pearl Jam,Ten,Black,74,342653,False,0.36,0.684,4,-6.457,0,0.0308,0.323,0.0,0.34,0.2,77.15,4,grunge
+5uuXtfqM7Wp3idCxyHeOll,Linkin Park,Hybrid Theory (Bonus Edition),With You,64,203266,False,0.421,0.978,6,-4.004,0,0.302,0.0037,0.0,0.111,0.359,196.921,4,grunge
+0T9tbj6zsRKLiUx06sbOWX,Alter Bridge,One Day Remains,In Loving Memory,57,340106,False,0.304,0.637,6,-5.922,1,0.0334,0.00749,6.44e-05,0.216,0.174,140.498,4,grunge
+3HE50TVRquwXe9yv2HFoNL,Three Days Grace,One-X,Never Too Late,70,209333,False,0.433,0.778,2,-4.68,0,0.0371,0.00838,0.0,0.163,0.217,149.864,4,grunge
+1Ic9pKxGSJGM0LKeqf6lGe,Nirvana,In Utero - 20th Anniversary Remaster,All Apologies,72,233173,False,0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0881,0.359,113.176,4,grunge
+2Zi27tBhXnDQTz3porgaiw,3 Doors Down,Seventeen Days,Here Without You - Acoustic Version,64,232013,False,0.551,0.574,10,-6.265,0,0.0263,0.0203,0.0,0.186,0.308,143.734,4,grunge
+6QewNVIDKdSl8Y3ycuHIei,Pearl Jam,Ten,Even Flow,76,292580,False,0.394,0.944,10,-6.506,0,0.0761,0.00178,4.54e-06,0.298,0.265,105.338,4,grunge
+3hb2ScEVkGchcAQqrPLP0R,Nickelback,All the Right Reasons,Photograph,69,258920,False,0.515,0.876,8,-3.756,1,0.0292,0.000932,0.000166,0.136,0.385,145.916,4,grunge
+1L94M3KIu7QluZe63g64rv,Pearl Jam,Ten,Alive,76,340907,False,0.284,0.875,11,-6.069,0,0.0422,0.00752,0.000461,0.402,0.595,75.009,4,grunge
+2yss0n7KmvmSr4EHvjfFpn,Linkin Park,Meteora (Bonus Edition),Don't Stay,63,187933,False,0.488,0.995,1,-3.096,0,0.108,0.00153,0.0,0.911,0.679,90.058,4,grunge
+7piw04hPQZ1OHZ9Fq9JOXR,Three Days Grace,One-X,Time of Dying,66,186373,False,0.306,0.873,0,-3.668,0,0.0567,0.00105,0.0,0.52,0.452,198.387,4,grunge
+6OMO6WdRhSfjMPAiPT94wH,Three Days Grace,Human,Painkiller,70,179160,False,0.376,0.95,9,-4.067,1,0.0641,0.00021,0.0,0.0377,0.438,178.018,4,grunge
+2mvffzYUJ9Ld9xhsF5DUjU,Nirvana,Nevermind (Remastered),In Bloom,67,255080,False,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4,grunge
+5Rizj5FLb2AyNKu9esjYY6,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Rape Me,71,170000,False,0.42,0.746,8,-10.628,1,0.0467,0.0141,0.0,0.0661,0.229,111.886,4,grunge
+3zwmW1gM4E8FlHXV5nE16u,Audioslave,Out of Exile,Be Yourself,72,278973,False,0.423,0.845,11,-3.509,0,0.0559,0.143,5.07e-06,0.213,0.317,116.602,4,grunge
+10ASBwZsp7oUUDsJEYz3uS,Breaking Benjamin,Phobia (Explicit Version),Dance With The Devil,68,227106,False,0.345,0.929,3,-4.469,0,0.142,0.00015,0.00106,0.129,0.181,155.041,3,grunge
+2EoOZnxNgtmZaD8uUmz2nD,Soundgarden,Superunknown (Deluxe Edition),Black Hole Sun,77,318586,False,0.35,0.828,6,-5.373,1,0.041,0.000217,0.000161,0.0774,0.147,105.435,4,grunge
+2o4AknH1hXnleCRW2rH45w,Alter Bridge,Blackbird,Blackbird,57,478133,False,0.279,0.806,6,-4.714,0,0.0448,0.00499,0.0126,0.116,0.132,149.463,3,grunge
+2VSbEXqs6NbNiZSTcHlIDR,Creed,Weathered,My Sacrifice,71,294600,False,0.32,0.88,2,-6.035,1,0.0504,0.000101,4.31e-06,0.076,0.257,146.349,4,grunge
+56sk7jBpZV0CD31G9hEU3b,Three Days Grace,One-X,Animal I Have Become,74,231400,False,0.553,0.853,8,-3.668,1,0.0339,0.000684,0.0,0.126,0.506,122.023,4,grunge
+1wIE2nfv5oF3ld71AriEDP,My Darkest Days,My Darkest Days (Deluxe Edition),Still Worth Fighting For,60,196066,False,0.474,0.873,5,-2.926,0,0.0435,0.00326,0.0,0.188,0.372,115.969,4,grunge
+0M955bMOoilikPXwKLYpoi,Three Days Grace,Three Days Grace,I Hate Everything About You,74,231480,False,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,4,grunge
+5FQXMRDSTkn9fowDJ3kZo8,Sick Puppies,Tri-Polar (International Version),You're Going Down,66,187346,True,0.49,0.833,6,-5.899,1,0.0487,0.0116,0.000504,0.15,0.39,89.981,4,grunge
+5OQsiBsky2k2kDKy2bX2eT,Foo Fighters,There Is Nothing Left To Lose,Learn to Fly,77,235293,False,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,4,grunge
+3TW48DvQ7ChwY1Yy1tkMaP,Soul Asylum,Grave Dancers Union (2022 Remaster),Runaway Train (2022 Remaster),72,266560,False,0.613,0.72,0,-7.957,1,0.0425,0.0132,0.0,0.104,0.561,117.341,4,grunge
+4kl3TXOlj8JXMPtZXUmRXI,Fuel,Fiesta temática 90s,Sunburn,0,265573,False,0.501,0.795,4,-7.147,0,0.0298,0.00279,0.00028,0.105,0.544,93.556,4,grunge
+65P8KmStYrVUPlchXH2CH8,The Wallflowers,Fiesta temática 90s,One Headlight,0,316520,False,0.683,0.643,2,-7.425,1,0.0312,0.000576,0.00118,0.0564,0.771,107.027,4,grunge
+1MmzIqMP1y5AGIX20RZxDc,Fuel,Halloween Metal Nights,Won't Back Down,0,201426,False,0.465,0.883,8,-4.794,1,0.0504,0.000101,0.425,0.638,0.133,95.04,4,grunge
+6n6zJJFmKJ1DoKq2eMCbEb,The Wallflowers,Hits Pop Rock 90's,One Headlight,0,316520,False,0.683,0.643,2,-7.425,1,0.0312,0.000576,0.00118,0.0564,0.771,107.027,4,grunge
+6bzWr3EpSEolVwlbLk58il,Jane's Addiction,Maintain Your Mojo,Mountain Song,0,242720,False,0.218,0.932,9,-6.803,1,0.098,0.0155,0.0246,0.277,0.315,167.718,4,grunge
+7gyhWg9k5HkgWZq9V8nsrT,Everclear,Fiesta temática 90s,Santa Monica,0,191506,False,0.491,0.942,7,-5.333,1,0.109,0.156,0.0,0.367,0.398,100.441,4,grunge
+023iiH1B94VYpHuq2Wnp1b,Linkin Park,A Thousand Suns,Burning in the Skies,30,253160,False,0.607,0.891,9,-4.56,0,0.0387,0.0417,0.00521,0.314,0.462,120.012,3,grunge
+6aKfcKMefIPVzclCG6QSHX,Daughtry,Daughtry,Home,54,255666,False,0.442,0.85,6,-3.888,1,0.0362,0.002,1.93e-06,0.198,0.338,143.981,4,grunge
+737yse38y2hsWQeNRrLaMY,Linkin Park,Not Alone,Not Alone,56,252840,False,0.682,0.766,6,-5.546,1,0.0313,0.149,3.38e-06,0.144,0.545,120.04,4,grunge
+5BK5IvPzmTZBGsCnYRjSue,Nickelback,Photograph,We Will Rock You,47,119786,False,0.577,0.905,4,-5.018,0,0.114,0.0404,0.0,0.0685,0.288,80.98,4,grunge
+3cQGb2POE359G9WH81bF60,Linkin Park,LIVING THINGS,I'LL BE GONE,55,211093,False,0.501,0.927,7,-4.58,1,0.0292,0.00686,0.0,0.131,0.611,139.961,4,grunge
+34isqXjbTstbYwl2MfdzDq,Linkin Park,One More Light,Sorry for Now,55,203653,False,0.608,0.584,1,-6.652,1,0.0352,0.00995,0.0,0.203,0.251,94.956,4,grunge
+1KvyBpAxgllKW7bQb0GYCR,Linkin Park,One More Light,Halfway Right,54,217066,False,0.655,0.626,6,-7.155,0,0.045,0.0134,0.0,0.349,0.498,134.028,4,grunge
+4PkJ7c9y1CwpuVOiJODnCZ,Nickelback,The Long Road,Someday,71,207466,False,0.455,0.858,11,-5.659,0,0.0391,0.000616,0.000247,0.226,0.597,163.118,4,grunge
+6UzeOH4bRPzKTo2wCXMZmC,Linkin Park,Hybrid Theory (Bonus Edition),By Myself,62,189800,False,0.544,0.935,6,-4.159,0,0.173,0.0171,0.00301,0.297,0.339,103.026,4,grunge
+1ZFm5SAlmVzufSu1CYWiBN,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),I Will Not Bow,41,216600,False,0.538,0.953,8,-3.685,1,0.0562,0.000169,5.49e-06,0.365,0.646,107.983,4,grunge
+6FT9FZccFD6nE8dMNslz2n,Thirty Seconds To Mars,AMERICA,Walk On Water,64,185466,False,0.495,0.787,8,-6.89,1,0.0368,9.16e-05,0.0,0.167,0.388,140.003,4,grunge
+2xt2piJx6jlFkjS77YiqpL,Audioslave,Audioslave,Like a Stone,47,293960,False,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,4,grunge
+5NeIONQWJ25uPylJBJiO4c,Stone Sour,Come What(ever) May [10th Anniversary Edition],Through Glass,71,282946,False,0.545,0.753,3,-4.618,0,0.036,0.0417,0.0,0.389,0.434,105.754,4,grunge
+2D52zjCyqEIQa221lhw6uk,Thirty Seconds To Mars,This Is War,This Is War,66,326983,False,0.402,0.723,6,-5.26,1,0.0579,0.0663,2e-06,0.233,0.224,160.047,4,grunge
+4Gd9PUEuOTOJtbgd4YxLXM,Nickelback,All the Right Reasons,Savin' Me,70,219320,False,0.441,0.815,3,-4.088,1,0.0276,0.000731,0.0,0.414,0.522,164.007,4,grunge
+3bE5slaVEfaDreqARl6k4M,Pearl Jam,Jeremy,Yellow Ledbetter,70,303586,False,0.504,0.354,4,-11.3,1,0.0339,0.29,4.71e-06,0.157,0.292,140.87,4,grunge
+1gAaRSN57UYVRI4eWRyAvP,Linkin Park,Hybrid Theory (Bonus Edition),Pushing Me Away,63,191440,False,0.484,0.913,6,-4.305,1,0.0425,0.000391,0.0,0.309,0.279,103.103,4,grunge
+32fEW4jygJjjnZh2iBa5IR,Linkin Park,Meteora (Bonus Edition),Easier to Run,57,204173,False,0.545,0.861,3,-4.819,0,0.034,0.0624,0.0,0.131,0.279,105.017,4,grunge
+4UJmPSJsBsIR1U0N79BU1g,Nirvana,MTV Unplugged In New York,Lake Of Fire,68,175973,False,0.541,0.618,1,-9.652,0,0.179,0.277,4.02e-05,0.413,0.68,145.464,4,grunge
+2qJkesdHu9sMMVFgkRkqhQ,Theory of a Deadman,Savages,Angel,65,202213,False,0.443,0.844,11,-5.414,0,0.0425,0.00251,0.0,0.085,0.452,76.001,4,grunge
+5z6xHjCZr7a7AIcy8sPBKy,Alien Ant Farm,Anthology,Smooth Criminal,76,209266,False,0.653,0.964,9,-4.261,0,0.0582,0.00316,0.00512,0.144,0.87,126.928,4,grunge
+1Q2fYlSdwuutWj3QplhY9q,Three Days Grace,One-X,Riot,71,207586,True,0.185,0.948,8,-3.892,1,0.147,0.0104,0.0,0.105,0.316,196.578,3,grunge
+5m9uiFH9sK5wxRZdfN62n9,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),The Diary Of Jane,59,200213,False,0.39,0.958,10,-4.455,0,0.0622,5.67e-05,0.0437,0.121,0.348,167.045,4,grunge
+3acBQxxlyb0jC2xqndDzSf,Chris Cornell,Carry On,"You Know My Name - From ""Casino Royale"" Soundtrack",60,240120,False,0.366,0.869,11,-3.316,0,0.0387,0.0207,0.0,0.254,0.384,138.051,4,grunge
+44NRdYQw7P0GWuiunRv3hr,Godsmack,Faceless,I Stand Alone,68,246040,False,0.217,0.92,8,-4.479,1,0.0628,2.86e-05,0.0,0.102,0.376,167.169,4,grunge
+2n1jBz26dVBtSbMvJNjGsu,Linkin Park,The Hunting Party,Until It's Gone,58,233240,False,0.47,0.878,4,-3.391,0,0.0429,0.0172,0.054,0.235,0.322,114.986,4,grunge
+5Rcs3fREgibWujLUlUb8KA,Linkin Park;Page Hamilton,The Hunting Party,All for Nothing (feat. Page Hamilton),56,213653,True,0.461,0.958,4,-3.852,0,0.124,0.000203,9.33e-06,0.459,0.264,159.974,4,grunge
+4dVbhS6OiYvFikshyaQaCN,Foo Fighters,The Colour And The Shape,My Hero,76,260026,False,0.398,0.927,9,-4.212,1,0.0567,6.2e-05,0.000177,0.0575,0.311,77.106,4,grunge
+1ZozJfi8u9cO2Ob8KwiwNT,Creed,Human Clay,Higher,71,316733,False,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,4,grunge
+6i81qFkru6Kj1IEsB7KNp2,Pearl Jam,Backspacer,Just Breathe,69,215853,False,0.473,0.348,0,-11.1,1,0.0288,0.721,7.42e-05,0.0823,0.283,107.819,4,grunge
+76Je5Wklky23mVoxiRszcN,Foo Fighters,Wasting Light,Walk,70,255960,False,0.234,0.865,9,-5.131,1,0.0516,3.62e-05,0.000532,0.289,0.194,137.107,4,grunge
+6txWz9UapYHVxEd7dDIHXT,Blind Melon,Blind Melon,No Rain,76,217106,False,0.389,0.476,9,-9.342,1,0.0316,0.619,5.09e-05,0.255,0.566,148.117,4,grunge
+4JXfNOePhdgMOI7KZ1L25U,Breaking Benjamin,Phobia (Clean Version),Breath,67,218466,False,0.347,0.868,5,-4.145,0,0.0467,0.00012,0.000273,0.0845,0.313,182.851,4,grunge
+5sFDReWLrZHLFZFjHsjUTS,Alice In Chains,Dirt (2022 Remaster),Would? (2022 Remaster),73,206773,False,0.305,0.833,6,-7.981,1,0.0398,0.000327,2.36e-05,0.091,0.586,100.675,4,grunge
+6L5QMBrydoaapTDMQ0Anui,Linkin Park;Rakim,The Hunting Party,Guilty All the Same (feat. Rakim),59,355120,False,0.566,0.969,2,-3.369,0,0.046,0.0287,0.000442,0.281,0.641,100.012,4,grunge
+2vBiZ7nBe0OqTZKWGP0s4K,Nickelback,Here and Now (Audio Only Version),Lullaby,64,228106,False,0.508,0.832,11,-4.395,1,0.032,0.000372,0.0,0.0859,0.404,136.004,4,grunge
+3agtg0x11wPvLIWkYR39nZ,Linkin Park,Meteora,Somewhere I Belong,67,213933,False,0.451,0.951,1,-3.754,1,0.0645,0.00038,2.39e-06,0.261,0.442,162.065,4,grunge
+0rPTPahzhGx9LSzI8XX5OM,Linkin Park,Meteora (Bonus Edition),Figure.09,60,197506,False,0.518,0.951,9,-3.198,1,0.0529,0.00919,0.0,0.148,0.537,98.068,4,grunge
+0n3sHHfdOq6Awix3JPe3xl,Halestorm,ReAniMate: The CoVeRs eP,Bad Romance,65,248400,False,0.545,0.927,1,-4.736,1,0.0706,0.0128,2.33e-06,0.367,0.682,124.061,4,grunge
+1QTQ3VNzabl4yF5GJE6hhK,Three Days Grace,EXPLOSIONS,So Called Life,70,206640,True,0.505,0.909,2,-4.316,1,0.0622,0.000179,0.0,0.0922,0.457,160.051,4,grunge
+2D9BrlpeyjXF0vli2dYQ5V,Breaking Benjamin,Dark Before Dawn,Angels Fall,65,228866,False,0.4,0.886,7,-5.078,1,0.0521,0.000868,0.000211,0.122,0.406,195.958,4,grunge
+3sYWyVGfPuit80szWXhrRA,Nirvana,MTV Unplugged In New York,Come As You Are,65,253906,False,0.683,0.766,5,-8.733,0,0.041,0.554,0.00346,0.0815,0.568,119.19,4,grunge
+62nQ8UZVqR2RMvkJHkcO2o,Pearl Jam,Ten,Jeremy,71,318226,True,0.285,0.846,2,-6.472,1,0.0438,0.0404,0.0,0.182,0.287,108.808,4,grunge
+6gZVQvQZOFpzIy3HblJ20F,Alice In Chains,Facelift,Man in the Box,75,285200,True,0.355,0.791,8,-7.565,1,0.0453,0.00045,0.0,0.0969,0.758,106.392,4,grunge
+3Gbyl3XZVeEcnFPiiPR09n,Alter Bridge,One Day Remains,Open Your Eyes,58,298600,False,0.356,0.904,2,-3.953,1,0.0624,0.000244,1.75e-06,0.359,0.38,162.397,4,grunge
+4eAwB5pnKFTmsgc3zWoYO0,Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Fake It,75,193893,True,0.611,0.95,8,-3.509,1,0.0518,0.00141,1.59e-06,0.0543,0.607,132.078,4,grunge
+01YIoxhuISTSBh8cOvhIbG,Nickelback,All The Right Reasons (15th Anniversary Expanded Edition),We Will Rock You - 2020 Remaster,56,120293,False,0.58,0.903,4,-4.909,1,0.142,0.0291,0.0,0.072,0.218,81.036,4,grunge
+0MoCAi2bKmgWIzJ6A53jml,Tonic,Fiesta temática 90s,You Wanted More,0,233800,False,0.336,0.949,2,-4.736,1,0.105,0.000174,0.0,0.237,0.597,182.62,4,grunge
+0t0MLcNjs7sM3K6teTLpFv,Tonic,Fiesta temática 90s,Open Up Your Eyes,0,221293,False,0.405,0.89,7,-5.857,1,0.0513,0.0047,5.8e-05,0.0931,0.286,98.765,4,grunge
+5rsiXpifJ6NLCpdhTgOWU6,The Presidents Of The United States Of America,Pure Frosting,Cleveland Rocks,43,153093,False,0.438,0.816,1,-7.573,1,0.0564,0.0171,0.0,0.382,0.644,148.244,4,grunge
+40CfvDIEJALuQ42PpyqqgL,Breaking Benjamin,2009 Hits,Dear Agony,34,258252,False,0.353,0.748,3,-3.572,1,0.0414,8.2e-05,0.0,0.113,0.218,125.106,4,grunge
+0bt6PVHT4Z4AfZLOpGtVi2,Linkin Park,Minutes to Midnight,In Pieces,48,218013,False,0.508,0.886,8,-6.074,1,0.0408,0.009,2.13e-06,0.136,0.79,160.11,4,grunge
+5AMWj2Dc7oNb4qCHb5cOad,Linkin Park,Minutes to Midnight,Valentine's Day,45,196813,False,0.654,0.66,5,-5.594,1,0.0283,0.0252,0.0371,0.278,0.412,108.039,4,grunge
+1UKp5X9cPp9vMnTb39nnvg,Daughtry,Daughtry,It's Not Over,52,215026,False,0.426,0.92,10,-3.243,0,0.0598,0.0559,0.0,0.245,0.296,145.946,4,grunge
+4JqgUZ4yZqjeEmgJNsuUjX,Linkin Park,LIVING THINGS,SKIN TO BONE,52,168346,False,0.471,0.977,9,-3.593,0,0.054,0.0435,0.0777,0.433,0.762,159.992,4,grunge
+1BExV8JprNJLvLeDE9qdEW,Staind,Break the Cycle,It's Been Awhile,65,264706,True,0.509,0.774,6,-4.054,1,0.0338,0.00189,0.000549,0.143,0.0824,116.529,4,grunge
+1iWgFnhR0oW5Mup8yXDAPW,Otherwise,Soldiers,Soldiers,64,241848,False,0.592,0.877,2,-4.05,0,0.0502,0.0095,0.000171,0.131,0.712,117.106,4,grunge
+6Bm6qUCSatPAqkQllFL7oA,Matchbox Twenty,More Than You Think You Are,Unwell,66,228706,False,0.256,0.788,6,-5.263,0,0.0403,0.0298,0.0,0.707,0.429,80.718,4,grunge
+4QJLKU75Rg4558f4LbDBRi,Nickelback,Dark Horse,If Today Was Your Last Day,68,249066,False,0.485,0.911,3,-5.749,1,0.0355,8.67e-05,0.0,0.092,0.568,89.956,4,grunge
+0MrEZmX29lJCJHMeTnxRBx,Nickelback,Those Days,Those Days,23,219043,False,0.504,0.918,0,-5.475,1,0.0462,0.00228,0.0,0.147,0.674,165.911,4,grunge
+3sC7PN1vjzEovhjHlQse3N,Daughtry,Daughtry,Over You,55,204853,False,0.423,0.922,3,-2.602,1,0.0411,0.017,0.0,0.102,0.567,156.063,4,grunge
+3aZQQWGNShP6IzzaprPlFX,Linkin Park,LIVING THINGS,LIES GREED MISERY,52,146493,False,0.545,0.962,7,-4.552,1,0.14,0.0133,0.0,0.059,0.539,160.017,4,grunge
+0FLBNqc5oAiTt4J2e3fe3y,Puddle Of Mudd,Come Clean,Blurry,65,303920,False,0.432,0.936,3,-4.537,0,0.0562,0.00691,0.0,0.14,0.499,157.469,4,grunge
+21tuvt3CXIsNquc32v8jpc,Audioslave,Audioslave,Show Me How to Live,41,277840,False,0.433,0.854,9,-3.868,1,0.0483,0.000336,0.000177,0.162,0.368,89.4,4,grunge
+1EU3VuKGZOvd1HTkxLPUXK,Linkin Park,Meteora (Bonus Edition),Nobody's Listening,57,178866,False,0.502,0.831,2,-3.723,1,0.295,0.105,1.3e-06,0.174,0.451,199.972,3,grunge
+1gePK7D2pfZXYyEH6jR64Z,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),Give Me A Sign,36,257693,False,0.214,0.819,6,-3.577,1,0.0484,0.000279,1.06e-06,0.0828,0.405,156.812,4,grunge
+0bTLGlCqwZXwJGWGE2Dywg,Nirvana,Nevermind (Remastered),Drain You,61,223880,False,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4,grunge
+77YKoNCjP5hWqiXMRG2839,Collective Soul,"Hints, Allegations & Things Left Unsaid",Shine,70,306040,False,0.543,0.423,6,-8.797,1,0.0282,0.295,0.0862,0.152,0.355,150.132,4,grunge
+3WbphvawbMZ8FyqDxYGdSQ,3 Doors Down,Away From The Sun,When I'm Gone,70,260333,False,0.53,0.768,7,-5.611,1,0.0284,0.00385,0.0,0.103,0.374,148.095,4,grunge
+7aySoZnwt7c6lA54qVVUOk,Nickelback,Dark Horse,Never Gonna Be Alone,62,227026,False,0.544,0.802,4,-4.152,1,0.0282,0.00155,7.34e-05,0.122,0.59,130.022,4,grunge
+6jWLyg8AuMQ9LtIB2UlfOF,Lifehouse,No Name Face,Hanging By A Moment,63,216360,False,0.537,0.858,1,-4.903,1,0.0349,0.000966,0.0,0.0812,0.502,124.599,4,grunge
+66lWvfNt5DaPXPbuZLApUf,Nickelback,Those Days,San Quentin,9,211457,True,0.671,0.934,0,-4.496,1,0.0486,0.000145,1.81e-05,0.104,0.832,124.005,4,grunge
+2cJDsHTLgDQvf5G73RCNX5,Creed,Father's Day 2020,With Arms Wide Open,56,278440,False,0.415,0.533,0,-8.445,1,0.0308,0.0037,0.000732,0.176,0.126,138.929,4,grunge
+5PZ2cqh9Yem2g6cTSOLllz,Three Days Grace,One-X,Pain,68,202973,False,0.416,0.741,7,-4.001,1,0.0335,0.00804,0.0,0.273,0.286,160.515,4,grunge
+5muVpPu8Fj9fXfDbbqDdrZ,Nirvana,Bleach,Love Buzz,65,215203,False,0.479,0.865,5,-8.281,0,0.0339,3.1e-05,0.228,0.182,0.77,137.902,4,grunge
+0Pie5DFAHHxpkONFUsAI6s,Nirvana,Incesticide,Aneurysm,66,275600,False,0.298,0.823,7,-9.793,1,0.0816,7.66e-05,7.53e-05,0.132,0.235,135.596,4,grunge
+28IEbk5a7twNTbUEvWslUb,Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),Paralyzer,75,208106,False,0.644,0.939,11,-3.486,0,0.0456,0.157,0.0,0.233,0.861,106.031,4,grunge
+1AEYT6VxrxXPMoQUxsY0E4,Trapt,Trapt,Headstrong,72,285569,True,0.492,0.896,4,-5.819,0,0.117,0.000172,2.78e-06,0.189,0.534,184.981,4,grunge
+2iptAVf9jZerlywLwiGhak,Three Days Grace,Human,Fallen Angel,64,186146,False,0.453,0.911,2,-3.775,0,0.0382,0.00554,0.0,0.0627,0.218,137.011,4,grunge
+2V4Bc2I962j7acQj1N0PiQ,Hole,Celebrity Skin,Celebrity Skin,69,162666,False,0.438,0.905,9,-6.161,1,0.0419,9.44e-06,5.4e-05,0.363,0.723,134.163,4,grunge
+0z1b34WikhOH9ZxU8QDWcv,The Wallflowers,Bringing Down The Horse,One Headlight,73,312626,False,0.701,0.539,2,-8.968,1,0.0277,0.000655,0.005,0.0589,0.752,107.531,4,grunge
+6zyrb7dW1IR4Hrc8nXJsln,Linkin Park,Hybrid Theory (20th Anniversary Edition),In the End,54,216800,False,0.555,0.844,3,-6.567,0,0.0553,0.00818,0.0,0.0895,0.464,105.193,4,grunge
+326CApbERCzytu8gmUC3Hb,Dead By Sunrise,Out Of Ashes,Too Late,52,179760,False,0.407,0.875,9,-4.841,0,0.0433,0.0234,0.0,0.144,0.483,164.926,4,grunge
+4xNfsvj9mOVnMTvHZZ8HNk,Hinder,Take It To The Limit,Without You,57,232266,False,0.415,0.816,3,-3.831,1,0.0333,0.0299,2.09e-05,0.129,0.264,136.017,4,grunge
+2UDumaw7osnyjH7RZ2DLpB,Three Days Grace,Human,I Am Machine,68,200146,False,0.402,0.97,2,-4.538,0,0.0668,1.29e-05,2.62e-06,0.189,0.476,75.106,4,grunge
+1PJRDeZSoZk7gtisdTYfLi,Hoobastank,Hoobastank (20th Anniversary Edition),Crawling In The Dark,66,175226,False,0.588,0.927,6,-4.776,0,0.113,0.000305,3.83e-05,0.195,0.652,93.571,4,grunge
+6tsojOQ5wHaIjKqIryLZK6,Foo Fighters,One By One (Expanded Edition),All My Life,74,263440,False,0.577,0.604,5,-5.703,1,0.0495,0.000218,0.000579,0.477,0.637,167.719,4,grunge
+6n8TMVyFKoUmDc4apxceRD,Linkin Park,Meteora,Breaking the Habit,66,196906,False,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,4,grunge
+6qLEOZvf5gI7kWE63JE7p3,Stone Temple Pilots,Purple (2019 Remaster),Interstate Love Song - 2019 Remaster,73,194853,False,0.215,0.927,9,-7.327,1,0.0452,0.000273,0.00661,0.126,0.49,170.814,4,grunge
+3PyPpABRA2bTGhNwPd66H6,Nirvana,Nevermind (Remastered),Breed,63,184040,False,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4,grunge
+7kxM3UJwN6rHAW5kwdlAHK,Linkin Park,Hybrid Theory (Bonus Edition),Forgotten,61,194426,False,0.615,0.947,8,-3.817,0,0.11,0.0132,0.0,0.366,0.498,108.193,4,grunge
+22GEETI4LXhhePCO71PyEv,Godsmack,When Legends Rise,Bulletproof,59,177048,False,0.362,0.915,5,-3.244,0,0.181,0.000181,0.0,0.166,0.603,162.226,4,grunge
+6GtX0jaNL8IjVQfrDBx81z,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),Bullet With Butterfly Wings - Remastered 2012,75,258466,False,0.404,0.72,10,-9.18,0,0.0623,5.59e-05,0.836,0.0466,0.475,121.864,4,grunge
+4bCOAuhvjsxbVBM5MM8oik,Nickelback,Here and Now (Audio Only Version),When We Stand Together,67,190786,False,0.446,0.9,10,-3.541,0,0.0489,0.000102,1.89e-05,0.0404,0.88,187.961,4,grunge
+7HjNOz8Y7H7uSySXuHNg1Y,Breaking Benjamin,Dark Before Dawn,Ashes of Eden,61,293640,False,0.241,0.534,3,-7.207,1,0.0321,0.0561,2.13e-06,0.103,0.277,159.974,4,grunge
+7ePjtuqKqa0ZbzznCNqiEf,Alter Bridge,One Day Remains,Broken Wings,54,306600,False,0.449,0.72,10,-5.382,0,0.0355,0.00656,6.84e-05,0.127,0.114,138.482,4,grunge
+3r23r7Ad7eXi0xKcBYd506,Rev Theory,Halloween Metal Nights,Hell Yeah,0,247613,False,0.355,0.982,3,-3.408,0,0.107,0.00011,3.54e-06,0.0212,0.398,167.889,4,grunge
+4A065x9kJt955eGVqf813g,Alice In Chains,Dirt (2022 Remaster),Them Bones (2022 Remaster),69,149466,False,0.159,0.946,9,-5.756,1,0.0629,0.0235,8.06e-06,0.387,0.309,165.014,1,grunge
+1o9YwTLE9x5iL3TkeVN6Kp,The Presidents Of The United States Of America,II,Mach 5,40,196200,False,0.489,0.929,11,-5.566,1,0.114,0.00139,0.0493,0.637,0.59,92.816,4,grunge
+6FhB5ZyT4JsIJ0ozDlXCIp,My Darkest Days,Sick And Twisted Affair (Deluxe Edition),Save Yourself,63,221160,False,0.503,0.921,8,-5.907,0,0.106,0.00093,2.75e-06,0.26,0.359,121.983,4,grunge
+7glG2aRcS9PsbBDiSbsliO,Linkin Park;Aaron Lewis,Reanimation,Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis],48,340253,False,0.415,0.528,4,-7.564,1,0.0293,0.088,0.00595,0.0746,0.0479,105.217,4,grunge
+04CyO54TZk5tEylFg2Df41,Thirty Seconds To Mars;Halsey,AMERICA,Love Is Madness (feat. Halsey),56,234866,False,0.382,0.675,0,-6.56,1,0.0441,0.0128,0.000246,0.219,0.449,106.171,1,grunge
+4y5kFC6hZzAxQ34qmjjcBf,Linkin Park,A Thousand Suns,Robot Boy,25,268986,False,0.58,0.784,7,-5.739,1,0.0289,0.0153,0.00912,0.142,0.214,129.993,4,grunge
+1k02JjKowLil0ID9IYjwQd,Linkin Park,A Thousand Suns,Wretches and Kings,25,250586,False,0.595,0.961,4,-4.342,0,0.153,0.00931,1.2e-06,0.803,0.588,90.011,4,grunge
+35jdp4bY3CABKBroODRq7Y,Linkin Park,LIVING THINGS,VICTIMIZED,51,106360,False,0.557,0.99,2,-3.902,1,0.194,0.0818,3.14e-05,0.373,0.128,95.055,4,grunge
+0V5lmry5Citfw2drBNpEMy,Breaking Benjamin,"Halo 2, Vol. 1 (Original Soundtrack)",Blow Me Away,56,205333,False,0.536,0.951,5,-4.126,1,0.0498,0.00058,0.00165,0.14,0.491,99.116,4,grunge
+6zCaXHIV60YIuDe9qJ9MOo,Linkin Park,Minutes to Midnight,The Little Things Give You Away,43,383506,False,0.562,0.479,7,-7.233,1,0.0278,0.036,0.000126,0.0562,0.113,140.051,3,grunge
+36EVGjdLX0x5SlM1GaL6f0,Nickelback,San Quentin,San Quentin,25,211457,True,0.671,0.934,0,-4.496,1,0.0486,0.000145,1.81e-05,0.104,0.832,124.005,4,grunge
+4sjLcE0GQ6urc4iUXsUPe9,Thirty Seconds To Mars,This Is War,Kings And Queens,63,347666,False,0.293,0.817,8,-5.432,1,0.0852,0.0401,3.4e-05,0.13,0.145,165.0,4,grunge
+2h5Kce0Vt3PWgMYkYuUL3E,Finger Eleven,The Punisher: The Album,Slow Chemical,57,198360,False,0.493,0.885,1,-4.531,1,0.0479,0.00545,0.0,0.111,0.496,81.781,4,grunge
+7EbpUdQ4nQ5VnnFlZjvqYl,Linkin Park,Iridescent,New Divide,56,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,grunge
+6FlCPO7Z0QGgwtIL8ocZzY,Red,Until We Have Faces,Let It Burn,55,297826,False,0.42,0.899,11,-5.446,0,0.0745,0.000431,0.000245,0.23,0.193,132.016,4,grunge
+6KtLECDztnah63TNmV4Plw,Incubus,Morning View,Wish You Were Here,70,212733,False,0.246,0.768,9,-7.48,1,0.0387,0.000631,0.301,0.102,0.35,169.873,4,grunge
+3tIfOsDW9iRIZoBoYhpGTm,Linkin Park,Minutes to Midnight,Hands Held High,44,233133,True,0.565,0.603,9,-8.597,1,0.0329,0.324,4.87e-05,0.195,0.132,104.0,4,grunge
+01gx6eTHdDH9PzgnLdgbDB,Alter Bridge,The Last Hero,The Other Side,47,354901,False,0.374,0.926,10,-6.047,0,0.081,1.63e-05,0.000459,0.114,0.176,82.037,4,grunge
+4w6jQFJZUBz2nCAjqaXSjF,Linkin Park,Minutes to Midnight (Deluxe Edition),Leave Out All The Rest,43,209390,False,0.505,0.626,0,-6.835,1,0.0354,0.278,3.17e-06,0.295,0.216,80.022,4,grunge
+7gQ7DfSSc3b8e4cHtFnDxu,Breaking Benjamin,Ember,Blood,62,189120,True,0.478,0.971,7,-2.729,1,0.0858,3.83e-05,2.77e-05,0.295,0.284,90.526,4,grunge
+7tUtvGeKB2V5W5ms6uBlyC,Nirvana,With The Lights Out - Box Set,Sappy,61,205493,False,0.406,0.81,1,-6.127,1,0.0343,1.04e-05,1.34e-06,0.325,0.638,128.282,4,grunge
+10fddGyyeUquZZ2uPTjD7P,Hinder,Extreme Behavior,Better Than Me,63,223533,False,0.449,0.682,2,-5.295,0,0.029,0.205,0.0,0.175,0.254,139.924,4,grunge
+46eHxWRKmtYhUHPDRgclt6,Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Careless Whisper,65,296973,False,0.469,0.943,2,-4.196,1,0.102,6.07e-05,0.00547,0.0717,0.358,134.031,4,grunge
+7GVqIMb6OdMY5mG7fUrtOq,Linkin Park,Hybrid Theory (Bonus Edition),High Voltage,55,225106,False,0.593,0.967,7,-4.26,0,0.182,0.105,2.77e-06,0.314,0.287,93.916,4,grunge
+4AU7z13HYmPMetlWbq1mys,Daughtry,Baptized (Deluxe Version),Waiting for Superman,60,266960,False,0.555,0.682,0,-5.711,1,0.0269,0.0029,0.0,0.0662,0.383,105.987,4,grunge
+3jJZVeExYzVYiV6Y9Fl3DX,Stone Temple Pilots,Core,Plush,66,310346,False,0.423,0.954,7,-3.157,0,0.047,0.0021,0.0,0.177,0.5,144.553,4,grunge
+0wvIGFIgbyz4JNwQhZgTv2,Alice In Chains,Dirt (2022 Remaster),Rooster (2022 Remaster),71,374333,False,0.271,0.551,3,-8.46,1,0.0272,0.0307,0.000581,0.118,0.2,143.899,3,grunge
+1BfzeCKzo8xSvJcYLmnP8f,Linkin Park,Hybrid Theory (20th Anniversary Edition),Crawling,53,208960,False,0.581,0.699,4,-5.564,1,0.0337,0.0455,3.74e-06,0.536,0.282,105.074,4,grunge
+49WLgjpFzrF2gCBZzWw1iv,Linkin Park,Hybrid Theory (20th Anniversary Edition),Papercut,53,184866,False,0.524,0.94,9,-3.994,1,0.111,0.000217,0.0,0.623,0.664,150.184,4,grunge
+4lhqal0Hq63U2wETCeBdG1,12 Stones,The Only Easy Day Was Yesterday,We Are One,60,206706,False,0.444,0.974,5,-4.041,0,0.114,0.000119,1.64e-05,0.233,0.306,127.102,4,grunge
+2UZtI2HUyLRzqBjodvcUmY,Theory of a Deadman,Wake Up Call,Rx (Medicate),68,233173,True,0.639,0.71,1,-7.445,1,0.0275,0.0133,0.0,0.118,0.378,119.989,4,grunge
+1o5jmMhhk2UZ9YP1X5fXfj,Nirvana,Nevermind (Remastered),Lounge Act,59,156426,True,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4,grunge
+3BtHClmMmURD8UHF2fiyxt,Nirvana,Incesticide,Sliver,64,136493,False,0.428,0.684,0,-10.044,1,0.0475,1.16e-05,0.000156,0.0744,0.419,141.336,4,grunge
+48iWbsOaBUAGzMdoSmqyg1,Live,Throwing Copper,Lightning Crashes,69,325600,False,0.385,0.433,11,-9.256,1,0.0435,0.241,7.07e-06,0.11,0.427,89.974,4,grunge
+7FRfYOql61DGDp9VPPe2qA,Alice In Chains,Dirt (2022 Remaster),Down In A Hole (2022 Remaster),65,338226,False,0.357,0.795,6,-5.909,1,0.0337,0.0134,0.00013,0.111,0.416,97.171,4,grunge
+48YkpE5enOln5c7jXSTuHL,Nirvana,MTV Unplugged In New York,About A Girl,64,218000,False,0.606,0.769,3,-9.215,0,0.0713,0.14,1.64e-05,0.841,0.593,121.042,4,grunge
+2vfCSwToh0Am0O4zgHXfn7,Nirvana,MTV Unplugged In New York,Oh Me,61,206160,False,0.538,0.51,8,-13.192,1,0.102,0.726,0.0187,0.205,0.262,72.471,4,grunge
+42et6fnHCw1HIPSrdPprMl,Third Eye Blind,Third Eye Blind,Semi-Charmed Life,75,268360,False,0.64,0.864,7,-6.576,1,0.0314,0.00832,0.0,0.123,0.701,102.026,4,grunge
+5yUFxEu2kx3WBghRvaHVcn,Nickelback,No Fixed Address,What Are You Waiting For?,63,218906,False,0.49,0.907,3,-4.129,1,0.0693,0.045,0.0,0.293,0.418,152.023,4,grunge
+3pxCXv0NACYfYnLjFcQW5D,Saving Abel,Saving Abel,Addicted,70,222826,True,0.512,0.864,7,-4.146,1,0.0338,0.000821,0.0,0.0982,0.527,138.018,4,grunge
+16DhvbuyvJob4Q9GHNYu2n,Puddle Of Mudd,Come Clean,She Hates Me,72,216760,True,0.58,0.748,4,-5.433,1,0.0323,0.00935,0.0,0.753,0.584,109.781,4,grunge
+6ubqrTIJwspBSqx8XQHN2K,Halestorm,Into the Wild Life (Deluxe),Mayhem,55,216760,False,0.398,0.982,2,-3.979,1,0.178,0.00306,0.0243,0.44,0.401,172.822,4,grunge
+2i5K0EdMY5zFs9t7KfYK3k,Nirvana,In Utero - 20th Anniversary Remaster,Rape Me,57,170000,False,0.42,0.746,8,-10.628,1,0.0467,0.0141,0.0,0.0661,0.229,111.886,4,grunge
+40VSbBSYbPN10vJYeZq4tm,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Marigold - B-Side,63,154280,False,0.367,0.326,3,-13.025,0,0.0395,0.126,0.000599,0.12,0.333,175.109,4,grunge
+6oZYLz0vZy8HhqwioRYtTp,Nirvana,Nevermind (Remastered),Territorial Pissings,59,142946,False,0.285,0.979,2,-4.428,1,0.175,0.000144,0.0,0.334,0.108,182.7,4,grunge
+67vYdAAM3oGsEImCRfbtsF,Foo Fighters,One By One (Expanded Edition),Times Like These,71,265560,False,0.376,0.908,4,-3.793,0,0.0879,1.4e-05,1.4e-05,0.241,0.266,144.581,4,grunge
+7rPHHJMqOpJyf3raEuI5o9,Godsmack,When Legends Rise,Under Your Scars,54,231118,False,0.25,0.765,11,-4.154,0,0.0414,0.0618,2.39e-06,0.118,0.219,165.207,4,grunge
+5pvJ59i7JxylN8VB24xdMs,Breaking Benjamin,Phobia (Explicit Version),The Diary of Jane - Single Version,62,200546,False,0.392,0.965,10,-4.441,0,0.063,6.97e-05,0.0427,0.106,0.298,167.094,4,grunge
+60RuroekTM1lWgFp2VIzdm,Alter Bridge,Pawns & Kings,Stay,52,277264,False,0.483,0.939,11,-6.401,1,0.106,9.41e-06,0.00168,0.464,0.352,120.064,4,grunge
+5ff4h9mRnDDG84NSA4TNki,Alter Bridge,Pawns & Kings,Holiday,54,238467,True,0.457,0.94,8,-5.624,1,0.11,2.04e-05,0.0,0.301,0.463,140.089,4,grunge
+7A8caPxvrT8ZgLvQPPUCcj,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Disarm - Remastered,66,196905,False,0.527,0.418,4,-10.205,0,0.0277,0.142,0.781,0.139,0.217,129.517,4,grunge
+7bYsIVw6B8QRvtT7TeyRdT,Stone Temple Pilots,Grunge!,Dead & Bloated,36,310266,True,0.56,0.81,7,-7.876,1,0.0546,0.000156,8.57e-05,0.0926,0.548,123.013,3,grunge
+4wyxBb3LEuEKPO5Huxwc9R,Kyuss,Metal,Green Machine,0,217906,False,0.497,0.947,0,-8.802,1,0.0391,8.21e-05,0.000693,0.118,0.588,90.371,4,grunge
+1sCJKCB2D3HDeajRF4e0Pb,Cathedral Bells,I Don't Care Anymore,I Don't Care Anymore,52,290556,False,0.465,0.673,4,-8.396,1,0.0355,0.212,0.605,0.136,0.62,134.986,4,grunge
+1p1nO35bbi4ZlQgjIA4oa4,Thirty Seconds To Mars,A Beautiful Lie,The Kill (Bury Me),63,231533,False,0.179,0.912,4,-3.881,0,0.0791,0.0014,0.000294,0.582,0.289,182.99,3,grunge
+2UhJCu5bn0FbrH7NBYSMUu,Linkin Park,A Thousand Suns,When They Come for Me,25,293453,False,0.542,0.939,1,-4.246,1,0.049,0.00301,0.231,0.261,0.414,92.002,4,grunge
+1dUU2RYiMZ9HCk6CB9Akup,Thirty Seconds To Mars,LOVE LUST FAITH + DREAMS,City Of Angels,53,302040,False,0.575,0.795,2,-6.149,1,0.0357,0.0787,2.62e-05,0.086,0.149,105.015,4,grunge
+2ww2xnkptug8KwF6XzEwMq,Linkin Park,LIVING THINGS,UNTIL IT BREAKS,48,223400,False,0.316,0.835,2,-6.67,1,0.321,0.0489,0.000774,0.287,0.415,170.061,4,grunge
+0UZwcRQAk4QR09HtGRZhYC,Thirty Seconds To Mars,This Is War,Closer To The Edge,60,273466,False,0.502,0.948,6,-3.717,1,0.12,0.0101,4.49e-06,0.0809,0.102,139.979,4,grunge
+04QKeqtQ1KCDHTXK6mNwqX,Red,Until We Have Faces,Not Alone,53,248173,False,0.353,0.762,3,-5.422,1,0.0386,0.00245,6.4e-06,0.0907,0.169,148.008,4,grunge
+6q4aoWgTQ8td2AvqQXuFqm,Filter,Title Of Record (Expanded Edition),Take A Picture,66,363800,False,0.541,0.776,2,-8.042,1,0.0298,0.00147,0.000221,0.178,0.282,98.986,4,grunge
+7n3u7RrzdXGVcclBEp9aSa,Chris Cornell,Patience,Patience,58,253120,False,0.597,0.646,6,-7.378,0,0.0344,0.28,0.0,0.111,0.364,126.951,4,grunge
+471eQ7hcJ7JdGY1NzMmUeg,12 Stones,Anthem For The Underdog (Bonus Track Version),World So Cold,55,235106,False,0.262,0.688,4,-4.949,0,0.0443,0.472,0.0,0.36,0.394,186.227,3,grunge
+0lHSJ0ZP8uUPnJXhMdGjOK,Thirty Seconds To Mars,A Beautiful Lie,Attack,63,188186,False,0.333,0.877,5,-1.894,0,0.0603,0.00332,0.00101,0.769,0.285,175.095,4,grunge
+4Im33JWLEobPtMTTAw7GUF,Audioslave,Audioslave,I Am the Highway,37,334906,False,0.341,0.662,9,-5.023,0,0.0335,0.105,0.0,0.113,0.2,174.875,4,grunge
+0w7k0ZhHzkfEBsDmwp49xA,Nirvana,Nevermind (Remastered),Stay Away,58,211440,False,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4,grunge
+0EY1Z9UmZnYZyM7zHs6C0j,Nirvana,Bleach,School,60,162115,False,0.21,0.943,4,-7.656,1,0.0785,1.15e-05,0.493,0.0739,0.13,164.844,4,grunge
+3THdexHRmED4euIY91Zrxc,3 Doors Down,Away From The Sun,Away From The Sun,57,232066,False,0.541,0.677,0,-6.211,1,0.0271,0.0244,0.0,0.0854,0.237,131.922,4,grunge
+60IkVf7UfQXmt5CwkpcX8a,Linkin Park,Meteora,From the Inside,58,173933,False,0.466,0.965,1,-2.597,0,0.0904,0.042,0.0,0.101,0.453,95.028,3,grunge
+6toBkNzxa4oCYTipbAaaJ3,Daughtry,Break The Spell (Expanded Edition),Start of Something Good,55,264853,False,0.424,0.68,8,-4.311,1,0.0374,0.0102,0.0,0.224,0.415,157.867,4,grunge
+3WYAOSW2hvfr07Ww4xLrn1,Linkin Park,Minutes to Midnight (Deluxe Edition),Given Up,44,189338,True,0.642,0.873,4,-4.68,0,0.0449,0.00119,0.000142,0.0432,0.923,100.056,4,grunge
+06T10fEzN8ZCcqzQZYA184,Nickelback,Dark Horse,Gotta Be Somebody,64,252653,False,0.536,0.89,0,-5.222,1,0.0601,0.000354,0.00165,0.133,0.205,115.998,4,grunge
+4wh0E9OwMCxcaIKTg0Mts9,Breaking Benjamin,Dark Before Dawn,Failure,61,214853,False,0.462,0.89,1,-4.853,1,0.0382,2.99e-05,0.00909,0.0685,0.383,155.008,4,grunge
+3DelzIn0lPwX4PeOJk9zDF,3 Doors Down,3 Doors Down,It's Not My Time,59,241960,False,0.529,0.934,0,-4.808,1,0.0602,0.00153,5.16e-06,0.118,0.282,127.962,4,grunge
+1Zeo9glWlcZrqdmTPXoK9o,Linkin Park,Minutes to Midnight (Deluxe Edition),What I've Done,43,205447,False,0.625,0.917,5,-5.576,1,0.0313,0.0135,0.0,0.16,0.305,120.093,4,grunge
+6FOpPA0a80RuBqqgDozvja,Staind,14 Shades of Grey,So Far Away,66,243573,False,0.407,0.896,6,-2.935,1,0.063,0.012,0.0,0.196,0.156,138.697,3,grunge
+04klL0e4Den6eZV9nitQWT,Linkin Park,Minutes to Midnight (Deluxe Edition),Bleed It Out,43,164457,True,0.515,0.957,4,-4.252,1,0.053,0.0948,0.0,0.599,0.596,139.999,4,grunge
+4gWTBq5Jftq5CEKYpLXD8R,Daughtry,Leave This Town,Life After You,57,206413,False,0.434,0.764,5,-3.45,1,0.0299,0.0534,0.0,0.437,0.309,51.316,4,grunge
+4Cti8D5eFnO5WQ2DIev9ZI,Dead By Sunrise,Out Of Ashes,Let Down,48,238160,False,0.441,0.867,4,-5.878,0,0.0426,0.0306,0.0,0.0747,0.416,150.095,4,grunge
+3KsatAMRt1a7iryhWt5I8U,Foo Fighters,Greatest Hits,Wheels,64,278213,False,0.426,0.792,9,-4.709,1,0.0374,0.000495,5.1e-06,0.142,0.557,161.994,4,grunge
+5f6cTFoUenDiCJDGecYiuB,Lifehouse,Who We Are,Broken,57,286480,False,0.534,0.708,11,-5.732,1,0.0402,0.089,0.0,0.192,0.488,130.639,4,grunge
+1pXgBjIvALm97lDhroan2E,Foo Fighters,00020225,Times Like These - Acoustic Version,62,238586,False,0.588,0.559,4,-4.849,0,0.0272,0.128,0.0,0.0977,0.278,123.845,4,grunge
+4HIYFlCh5aZq0jwvsn2DoK,Godsmack,When Legends Rise,When Legends Rise,53,172826,False,0.44,0.916,4,-4.222,0,0.266,0.000236,1.94e-05,0.0897,0.401,124.099,4,grunge
+4urxRqBRiaH0i20OKBsgxc,Three Days Grace,Life Starts Now,Break,67,193106,False,0.578,0.897,0,-3.906,1,0.0357,0.000666,0.0,0.0924,0.737,115.491,4,grunge
+5buITai6eMzU8rJonMEI6e,Bush,Sixteen Stone (Remastered),Glycerine - Remastered,63,266493,False,0.421,0.335,5,-11.384,1,0.0324,0.0342,0.00236,0.0944,0.0889,114.227,4,grunge
+5vRPXm59z8ewWO6WiJHg3m,Creed,My Own Prison,My Own Prison,65,298800,False,0.505,0.778,10,-4.778,1,0.0398,0.0277,0.00275,0.115,0.284,140.493,4,grunge
+19dNZyDyw00aKgr6S0Os6e,Three Days Grace,EXPLOSIONS,Lifetime,64,176226,False,0.413,0.684,8,-2.878,1,0.0348,0.0012,0.0,0.16,0.33,129.975,4,grunge
+3kdMzXOcrDIdSWLdONHNK5,Foo Fighters,Concrete and Gold,The Sky Is A Neighborhood,65,244573,False,0.357,0.549,11,-7.843,0,0.0698,0.000798,0.00485,0.22,0.531,130.749,4,grunge
+7pETV41GUutaZ6KMHMAYIH,Nirvana,Bleach,Blew,62,174134,False,0.411,0.882,1,-6.618,1,0.0556,5.65e-06,0.0147,0.298,0.531,129.848,4,grunge
+44wXefe8WB9Fd6xwtmAwbR,Foo Fighters,The Colour And The Shape,Monkey Wrench,70,231480,False,0.401,0.953,4,-4.276,1,0.0752,1.83e-05,2.56e-05,0.149,0.555,174.217,4,grunge
+2smax1OWAxOo63p14G8KZx,Nirvana,MTV Unplugged In New York,Plateau,61,218133,False,0.45,0.501,4,-12.611,1,0.0712,0.49,2.51e-05,0.552,0.327,84.841,4,grunge
+3XhT2YLbnieryCbgtAfPoh,Alter Bridge,Pawns & Kings,Fable of the Silent Son,52,502018,False,0.249,0.722,8,-6.262,1,0.0819,0.000219,7.43e-06,0.101,0.271,146.307,4,grunge
+3u0pZ2lv90HMUvovpTeIdb,Alter Bridge,Pawns & Kings,Season of Promise,50,291449,False,0.282,0.92,9,-5.862,1,0.104,7.83e-06,0.000179,0.225,0.254,174.958,4,grunge
+1PLMK1ui86iHHG3FM1N7ue,Shinedown,The Sound of Madness,Diamond Eyes (Boom-Lay Boom-Lay Boom),64,336112,False,0.516,0.884,2,-3.706,0,0.0448,0.000254,0.000347,0.0478,0.448,107.96,4,grunge
+367RiGuLVLO3DTer4NuRLJ,Godsmack,When Legends Rise,When Legends Rise,58,172826,False,0.428,0.914,4,-4.273,0,0.281,0.000293,1.29e-05,0.0869,0.468,124.115,4,grunge
+4rLQ5Y56xCMWRFGG8R9olW,Alter Bridge,Pawns & Kings,Last Man Standing,50,333023,False,0.352,0.91,1,-5.193,0,0.0821,8.71e-05,0.009,0.0463,0.129,164.213,4,grunge
+1wlKw9NAWVWpx7OIAyg9EA,Soundgarden,Superunknown (Deluxe Edition),Fell On Black Days,68,283026,False,0.574,0.739,4,-5.745,0,0.0271,0.00152,0.000328,0.141,0.514,101.069,3,grunge
+4x5e8hKzHBJOcE81wqRY3h,Alter Bridge,Pawns & Kings,Dead Among the Living,53,292338,False,0.284,0.935,10,-5.555,0,0.13,5.06e-06,0.000153,0.268,0.307,103.92,4,grunge
+2e8F1M3b7dI2GDUDZh6c9l,Alter Bridge,Pawns & Kings,This is War,53,243622,False,0.376,0.932,3,-5.342,1,0.0984,4.99e-06,2.13e-05,0.318,0.319,163.956,4,grunge
+7oBazz4xCO7Ul3MJHhKy0Q,Nirvana,MTV Unplugged In New York,Jesus Doesn't Want Me For A Sunbeam,60,277266,False,0.51,0.641,8,-10.312,1,0.0812,0.0638,3.65e-06,0.272,0.295,113.646,4,grunge
+7D8xdvawOycjnkUWVbEp6e,Alter Bridge,Pawns & Kings,Sin After Sin,51,402328,False,0.383,0.819,1,-6.233,1,0.0755,7.47e-05,0.00012,0.162,0.36,119.109,4,grunge
+4ZqAfNYdK6Wm6JpA2ldCrb,Alter Bridge,Pawns & Kings,Pawns & Kings,49,378313,False,0.447,0.866,6,-5.588,1,0.0775,1.07e-05,3.87e-06,0.185,0.285,86.469,4,grunge
+5uNazTJV7Rpd8zAtWDiSiG,Alter Bridge,Pawns & Kings,Silver Tongue,52,258786,False,0.427,0.93,1,-5.988,1,0.0745,1.12e-05,3.22e-05,0.439,0.345,140.934,4,grunge
+50Re2bLgXqG9qN7v2QHNTm,Staind,Break the Cycle,Outside,63,293133,False,0.515,0.594,1,-4.708,1,0.0262,0.00844,0.00658,0.0752,0.218,146.564,4,grunge
+0W7AbEauB7cP4pidLclApe,Temple Of The Dog,Temple Of The Dog,Hunger Strike,69,246266,False,0.373,0.567,7,-10.835,1,0.032,0.0236,3.47e-06,0.0916,0.298,137.789,4,grunge
+0YmA7060yYtRtMS8LME0hK,Linkin Park,A Thousand Suns,Blackout,23,279453,False,0.542,0.927,6,-3.971,0,0.0752,0.167,0.00927,0.446,0.369,135.002,4,grunge
+3354J49VpkbZJho7Ztdzpw,Third Eye Blind,Third Eye Blind,Jumper - 1998 Edit,67,272973,False,0.599,0.543,0,-9.226,1,0.0302,0.0129,0.00204,0.291,0.624,91.105,4,grunge
+0zqwz7SNny9fwqSDpIu4qN,Thirty Seconds To Mars,LOVE LUST FAITH + DREAMS,Up In The Air,55,275786,True,0.483,0.862,11,-3.864,0,0.0857,0.00577,0.0,0.227,0.449,124.025,4,grunge
+778BjQ7gIDzDuhxjCC4Xjz,Linkin Park;Chali 2na;The Alchemist,Reanimation,Frgt/10 (Alchemist Reanimation) [feat. Chali 2na],45,212293,False,0.631,0.736,7,-6.96,0,0.0682,0.0336,0.0124,0.3,0.645,95.091,4,grunge
+6ZxrUCaynLgKSUudACOTwj,Crossfade,Crossfade,Cold,70,194226,False,0.451,0.815,2,-5.55,0,0.0368,6.06e-05,0.0,0.27,0.618,147.974,4,grunge
+5Zft9zIODo7ZnImwcbaO4Z,3 Doors Down,Time Of My Life,Back To Me,53,222506,False,0.498,0.735,0,-4.701,1,0.026,0.00834,5.51e-06,0.245,0.402,145.852,3,grunge
+3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,The Better Life,Be Like That,62,265906,False,0.487,0.702,7,-6.043,1,0.0238,0.00528,4.97e-06,0.129,0.306,95.982,4,grunge
+2cLvZokGgikrGmY6XIzztS,My Darkest Days,My Darkest Days,Every Lie,61,176400,False,0.578,0.938,2,-3.163,0,0.0462,0.000807,0.0,0.229,0.594,112.031,4,grunge
+2ehkJlAysINP3czoqaklyT,Breaking Benjamin,We Are Not Alone,Rain,52,205240,False,0.618,0.317,0,-9.835,1,0.0278,0.561,0.0,0.102,0.372,124.826,4,grunge
+2SRBtj64W0Wbs7YMbmxFBw,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Luna - Remastered,54,202320,False,0.575,0.274,9,-13.553,1,0.0286,0.0111,0.776,0.123,0.112,125.652,4,grunge
+57JNg9mhfUrnwVPCVRXAGD,Lifehouse,Smoke & Mirrors (International Version),It Is What It Is,46,201346,False,0.515,0.72,11,-8.218,1,0.0285,0.0445,0.0,0.107,0.511,84.011,4,grunge
+1Qdnvn4XlmZANCVy3XjrQo,Audioslave,Audioslave,Show Me How to Live,70,277840,False,0.433,0.854,9,-3.868,1,0.0483,0.000336,0.000177,0.162,0.368,89.4,4,grunge
+4BJyt25nburVwbnESDeIc7,Breaking Benjamin,We Are Not Alone,So Cold - Remix,63,273440,False,0.49,0.774,0,-5.436,0,0.0604,0.00305,8.16e-05,0.12,0.297,153.048,4,grunge
+6VfK6BuYSrjYm2w5hjUWN4,Linkin Park,Minutes to Midnight (Deluxe Edition),Shadow of the Day,41,289633,False,0.503,0.373,11,-8.367,1,0.0304,0.0148,0.0289,0.109,0.044,109.74,4,grunge
+7js2TSkQLuRWBIQ4HSTAv2,Breaking Benjamin,So Cold EP,Blow Me Away - Soundtrack Version,54,205893,False,0.538,0.96,5,-3.493,1,0.0534,0.000598,0.000836,0.0893,0.495,99.11,4,grunge
+6y1etHPLRsgA467gLBOgBm,Nirvana,Nirvana,Smells Like Teen Spirit,56,301453,False,0.479,0.873,1,-5.896,1,0.0438,1.42e-05,0.000565,0.0974,0.816,116.71,4,grunge
+420JGkyLfLUZcgBHKiIK9v,Shinedown,Leave a Whisper (Deluxe Edition),45,67,250093,False,0.446,0.657,7,-4.494,1,0.0262,0.0022,0.0,0.189,0.215,152.132,3,grunge
+67OWW2AK0Q1FqBatxyt1s5,Dead By Sunrise,Out Of Ashes,Into You,46,203893,False,0.473,0.785,2,-5.019,1,0.0298,0.0935,0.0,0.0813,0.376,183.991,4,grunge
+4Dq75eGDLZGM9EGP0XHbo2,Nickelback,Here and Now (Audio Only Version),Trying Not to Love You,60,251880,False,0.473,0.924,11,-4.297,0,0.0446,0.0132,0.0,0.184,0.41,160.017,4,grunge
+1cAMXz9mnvrqyQLSG4KeeE,Pearl Jam,Lightning Bolt,Sirens,63,340320,False,0.523,0.847,3,-5.888,1,0.028,0.00309,1.21e-05,0.146,0.475,155.032,4,grunge
+4eTIe5eqds88bA9ua6p5p6,Seether,Disclaimer,Fine Again,66,243640,False,0.442,0.855,6,-2.985,0,0.0288,0.00049,0.0137,0.273,0.363,175.543,4,grunge
+6FFwt1ea9hJ4MfMQLywahm,12 Stones,Anthem For The Underdog (Bonus Track Version),Anthem For The Underdog,59,184426,False,0.2,0.863,5,-3.424,1,0.0626,0.000651,0.0,0.339,0.468,93.977,3,grunge
+0hSDsJ6OC0O4pih8jgT5m7,Linkin Park,Hybrid Theory (20th Anniversary Edition),Points of Authority,52,200240,False,0.569,0.97,8,-3.886,0,0.196,0.03,0.0,0.0993,0.435,95.056,4,grunge
+2le5xHvcWF8PDp608d4L8D,Shinedown,Threat to Survival,How Did You Love,61,187626,False,0.331,0.75,5,-5.202,1,0.0436,6.86e-05,1.21e-06,0.0945,0.26,185.97,4,grunge
+4LFBVDJV0xpayUvquQVzhS,Shinedown,Threat to Survival,Cut the Cord,67,224596,False,0.447,0.966,7,-2.966,1,0.089,0.00349,0.000198,0.312,0.533,178.105,4,grunge
+2B98ljvzqpCVgt5reTHq28,Pearl Jam,Vitalogy,Better Man,67,268586,False,0.445,0.671,2,-7.937,1,0.0387,0.165,1.56e-05,0.0791,0.267,125.712,4,grunge
+1qIQeMHFw09UjBpgrsrdys,Linkin Park,Hybrid Theory (20th Anniversary Edition),One Step Closer,52,157333,False,0.492,0.969,9,-4.419,1,0.0492,0.00144,1.36e-06,0.0789,0.538,95.137,4,grunge
+0CwYG1UnRmOx8Q1EzElCIL,Shinedown,The Sound of Madness,Second Chance,69,222066,False,0.46,0.796,0,-4.501,0,0.0333,0.00107,0.0,0.106,0.182,100.011,4,grunge
+1ugRmaf5TDDf1fO3hFSIs1,Velvet Revolver,Contraband,Slither,53,248306,False,0.473,0.973,7,-3.831,1,0.11,0.00025,0.153,0.0782,0.291,141.09,4,grunge
+4FthwGFz9SVZgCVqxNXsSK,Adelitas Way,Adelitas Way,Invincible,64,190133,True,0.405,0.962,11,-4.894,1,0.0842,0.000213,2.31e-06,0.108,0.489,170.023,4,grunge
+1fzw0qGcB6xs4IBXhdfAkj,Stone Temple Pilots,Perdida,Fare Thee Well,51,261880,False,0.431,0.371,7,-8.709,1,0.0272,0.547,0.0154,0.0921,0.196,66.853,4,grunge
+4dbveKUpOx62SiwXQCALQH,Linkin Park,Minutes to Midnight (Deluxe Edition),Across the Line,50,190186,False,0.494,0.905,1,-4.662,0,0.044,0.0367,1.41e-05,0.109,0.383,180.035,4,grunge
+5vvoFE63Z7yw2TTj4icSDn,Nickelback,All the Right Reasons,Animals,62,186600,False,0.572,0.961,7,-3.089,1,0.0625,0.000734,0.021,0.207,0.818,76.998,4,grunge
+3w5Ekq9O8g0gGFEsT77Ydi,Nirvana,In Utero - 20th Anniversary Remaster,Serve The Servants,61,217173,False,0.435,0.895,10,-8.7,1,0.0421,1.13e-05,0.0318,0.19,0.668,119.659,4,grunge
+1SDl9wY1MqbpJQW0yKEWxL,Shinedown,Amaryllis,Enemies,65,188093,False,0.507,0.966,1,-2.635,1,0.046,0.00159,0.0,0.336,0.502,136.035,4,grunge
+2Xe2YAxNPqWCNpZ8RagBdO,Three Days Grace,One-X,Gone Forever,61,221093,True,0.409,0.761,2,-4.514,1,0.031,0.0175,0.0,0.114,0.271,155.901,4,grunge
+2KVwlelhxKUy8LVV6JypH3,Matchbox Twenty,Yourself or Someone Like You,Push,71,238666,False,0.42,0.672,6,-7.902,1,0.027,0.0067,0.0,0.108,0.476,168.019,4,grunge
+1kwsUMjFuePZBNB56gQYoA,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,I Hate Myself And Want To Die - 2013 Mix,60,179680,False,0.456,0.818,11,-11.286,1,0.0589,0.115,0.0,0.0995,0.257,115.556,4,grunge
+2mVGD7zmKKR5GIXv8keOB4,Fuel,SUNBURN,Shimmer,36,214066,False,0.48,0.792,7,-6.443,1,0.0411,0.00238,0.0,0.169,0.465,114.605,4,grunge
+0ZEeEZnZ496lE6kN7bmSrp,Breaking Benjamin,Phobia (Explicit Version),Until The End,60,252800,True,0.298,0.927,10,-4.396,0,0.0995,0.00021,0.0,0.296,0.389,133.997,4,grunge
+4A9O9e4iTm4bYnOPSzWaGb,Velvet Revolver,Contraband,Fall to Pieces,54,271440,False,0.458,0.884,6,-4.679,1,0.0495,0.000468,0.483,0.128,0.25,132.814,4,grunge
+5MY50Gj2K5g3P9vSqYtN0J,Adelitas Way,Home School Valedictorian,Cage The Beast,60,196893,False,0.526,0.975,1,-3.853,0,0.078,0.000404,1.77e-06,0.3,0.427,102.99,4,grunge
+1XnPVbzLhuBv0sHaCTgyoi,Nirvana,Nirvana,The Man Who Sold The World - Live Version,62,227466,False,0.476,0.706,1,-7.839,0,0.0289,0.379,0.000242,0.877,0.368,114.858,4,grunge
+53eJFr4Mfbw5PXJ01K6cFw,Pearl Jam,Vs.,Daughter - Remastered,69,234333,False,0.615,0.702,7,-9.686,1,0.0278,0.00746,0.00431,0.0608,0.734,96.987,4,grunge
+5vYA1mW9g2Coh1HUFUSmlb,Matchbox Twenty,Yourself or Someone Like You,3AM,71,225946,False,0.521,0.673,8,-8.685,1,0.0284,0.00573,0.0,0.12,0.543,108.031,4,grunge
+60rHc4AkLlP4XVSATvBb6K,Halestorm,The Strange Case of...,I Miss the Misery,61,183506,False,0.469,0.969,0,-2.219,1,0.0589,0.009,1.11e-05,0.346,0.476,164.042,4,grunge
+3WmbBvRkRxgFvO1GMgkIm1,Days Of The New,The Definitive Collection,Die Born,33,237573,False,0.515,0.71,6,-7.138,1,0.026,0.0825,0.0,0.0924,0.495,149.969,4,grunge
+5h0x0UIV8XFVh57X1NJMBn,Butthole Surfers,The Ultimate ESK8 Metal Album.,Who Was In My Room Last Night?,34,249000,False,0.308,0.889,6,-8.691,0,0.117,0.000812,0.0119,0.271,0.255,182.063,4,grunge
+6ZqclUhrzMRTcMC4IT4ts4,Our Lady Peace,WWE Forceable Entry,Whatever,43,233333,False,0.384,0.936,2,-3.776,1,0.0579,0.00037,0.238,0.157,0.474,171.828,4,grunge
+7FLVnDMOZXKRFgRM3C4aUG,Thirty Seconds To Mars,This Is War,Hurricane,55,372133,False,0.533,0.747,10,-5.678,0,0.0443,0.041,5.7e-06,0.261,0.277,124.97,4,grunge
+7mXmxXLAnsvXKt4Q37KoMI,Daughtry,Daughtry,Over You,60,204853,False,0.423,0.922,3,-2.6,1,0.0411,0.017,0.0,0.102,0.567,156.046,4,grunge
+62pPrpXsLR3Hbdw6kkA99L,Linkin Park,Minutes to Midnight (Deluxe Edition),No Roads Left,44,228725,False,0.242,0.561,9,-4.833,0,0.0374,0.000338,0.0,0.405,0.224,120.019,4,grunge
+51KajFrF3vLaLc0NhuZKXe,Godsmack,Surrender,Surrender,22,220839,False,0.563,0.949,0,-4.568,1,0.13,0.00632,2.06e-06,0.335,0.724,170.022,4,grunge
+2hEYslbdYWFSIA6JboUvnR,Shinedown,ATTENTION ATTENTION,DEVIL,65,207986,False,0.354,0.942,7,-3.245,1,0.237,0.00039,6.36e-06,0.431,0.242,119.992,4,grunge
+3NBT6Ixgs0D8jOJCx4U1Nn,Linkin Park,Iridescent,Iridescent (Version 2),42,239706,False,0.584,0.692,0,-5.992,1,0.0313,0.0762,0.00122,0.0971,0.379,120.016,4,grunge
+0vSAsph1vdB1zN1OJR3lHy,Linkin Park;Aceyalone;Chairman Hahn,Reanimation,Wth>You (Chairman Hahn Reanimation) [feat. Aceyalone],49,252306,False,0.58,0.982,4,-3.428,0,0.0729,0.00696,4.82e-06,0.165,0.51,98.189,4,grunge
+35SuLFF1dk9nBgjE2HzTzp,Daughtry,It's Not Over....The Hits So Far,What About Now,53,251626,False,0.387,0.862,9,-2.219,0,0.0457,0.107,0.0,0.103,0.337,161.984,4,grunge
+0dbPZrmb7Sdn5b6Tn2QXMr,My Darkest Days,My Darkest Days,Can't Forget You,52,233266,False,0.333,0.704,6,-5.528,1,0.0378,0.00374,0.0,0.0848,0.203,166.157,4,grunge
+0g9IOJwdElaCZEvcqGRP4b,Thirty Seconds To Mars,30 Seconds To Mars,Edge Of The Earth,51,277506,False,0.522,0.921,1,-4.717,1,0.0473,0.000105,0.585,0.313,0.241,110.088,4,grunge
+22sDLvlzAJzH0BHiMSOfRP,Pearl Jam,Lightning Bolt,Future Days,55,262893,False,0.538,0.266,1,-12.464,1,0.0277,0.41,0.0,0.0639,0.174,106.952,4,grunge
+3xIaUb1WsnrqbJo6CsJMLO,Pearl Jam,MTV Unplugged,Black - Live MTV Unplugged,58,330840,False,0.363,0.553,0,-7.698,1,0.0299,0.00754,1e-05,0.909,0.0908,142.865,4,grunge
+4zP2e2aIzOZGEFTq1MDJmm,Linkin Park,Meteora,Lying from You,53,175373,False,0.535,0.951,3,-3.324,0,0.18,0.00777,0.0,0.0669,0.723,160.102,4,grunge
+4OCzAGgyWsUKpdWufYywZm,Audioslave,Audioslave,Cochise,38,222026,False,0.452,0.873,9,-4.867,1,0.0613,0.000519,0.0,0.0592,0.433,80.473,4,grunge
+0YpzP03QziAgqcZSCtjbl2,Daughtry,Baptized (Deluxe Version),Battleships,54,232133,False,0.49,0.746,1,-4.951,1,0.0405,0.0121,0.0,0.0624,0.331,81.848,4,grunge
+5JTgqOeHWg4bxMZYMRTE4H,Incubus,Light Grenades,Love Hurts,59,237066,False,0.474,0.805,4,-4.063,0,0.0266,0.0129,2.51e-06,0.175,0.409,78.102,4,grunge
+27TPpj59ml6N7las1h696d,Adelitas Way,Adelitas Way,Last Stand,54,224666,False,0.442,0.746,1,-5.411,1,0.0309,0.00197,0.0,0.123,0.332,131.957,4,grunge
+5ef3mAxAAjk93V6IpriOrz,Lifehouse,Smoke & Mirrors,From Where You Are,55,181280,False,0.363,0.408,9,-10.861,0,0.0273,0.185,2.94e-06,0.113,0.271,87.335,4,grunge
+2f5N826udWfjT9iomeaBJt,Matchbox Twenty,Mad Season,If You're Gone,64,274933,False,0.544,0.659,9,-7.191,1,0.0298,0.427,1.33e-06,0.126,0.361,109.933,4,grunge
+2CIsr5cqDJeWffps0vtNeq,Creed,Full Circle,Rain,55,208240,False,0.538,0.925,11,-3.178,1,0.0392,0.00209,0.0,0.258,0.443,98.016,4,grunge
+5rqV8nkm4TM1AtuByswVKa,Creed,Full Circle,On My Sleeve,55,254386,False,0.452,0.911,4,-3.859,1,0.0592,0.00198,0.0,0.108,0.221,144.028,4,grunge
+3nzL5CIQiCEt6jRt1AlQ9d,Lifehouse,Who We Are,Whatever It Takes,58,207240,False,0.439,0.874,0,-4.165,1,0.0299,0.00571,0.0,0.176,0.527,150.036,4,grunge
+1c162st6mztGwnCllaJhcU,Linkin Park,Hybrid Theory (20th Anniversary Edition),A Place for My Head,51,184640,False,0.603,0.908,11,-5.254,1,0.184,0.0143,0.0,0.671,0.458,133.063,4,grunge
+4HvcbAR8LisalXKt7cpqE1,Linkin Park,Hybrid Theory,Papercut,54,184866,False,0.524,0.939,9,-3.994,1,0.113,0.00022,0.0,0.623,0.661,150.184,4,grunge
+3cahGAUUQ0n55EjLBs2Wjo,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Today - 2011 Remaster,62,201173,False,0.457,0.825,8,-7.611,1,0.0268,3.29e-05,0.578,0.0548,0.414,82.539,4,grunge
+25TQBBKOrtTfnH6QBM9He1,Creed,Full Circle,Overcome,58,226826,False,0.328,0.926,9,-3.187,1,0.0756,0.00123,0.0,0.127,0.392,194.877,4,grunge
+3Uvx1TO0Kg5HgGPk58lHXv,Third Eye Blind,Third Eye Blind,How's It Going to Be,66,253413,False,0.561,0.593,5,-9.362,1,0.0264,0.00327,0.00144,0.0967,0.574,80.282,4,grunge
+6mjHiGwrRGE8LVCXVc5QDU,Hoobastank,The Reason (15th Anniversary Deluxe),Out Of Control,61,162106,False,0.443,0.973,4,-4.386,0,0.133,0.00161,0.0,0.353,0.458,157.872,4,grunge
+4QYV42XR08VCKSkBOjnlUe,Nickelback,All the Right Reasons (Walmart Exclusive Edition),If Everyone Cared,55,218013,False,0.519,0.85,6,-4.678,0,0.0354,0.000246,0.014,0.279,0.211,132.022,4,grunge
+0s8OMEGJQJIUr9VFwNEH1v,Creed,Human Clay,With Arms Wide Open - New Version With Strings,62,235266,False,0.32,0.695,0,-5.756,1,0.0388,0.032,0.0,0.201,0.165,141.91,4,grunge
+7GGJ7uPEFfjhfx2UD3ZNYX,Dead By Sunrise,Out Of Ashes,Inside of Me,56,138280,False,0.47,0.941,2,-3.242,1,0.0381,1.93e-05,0.0,0.0556,0.696,106.974,4,grunge
+5ynxx6zC4dgzsMHLYQ04Dc,Seether,Karma and Effect,Remedy,70,207213,False,0.55,0.952,8,-4.664,1,0.0924,0.000193,0.000666,0.0614,0.391,127.804,4,grunge
+2xIlEsioAFODKpsVgVNrrQ,Nirvana,Nevermind (Remastered),On A Plain,56,194426,False,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4,grunge
+06B04lID9HGPwPWwBkTQfU,Nirvana,In Utero - 20th Anniversary Remaster,Frances Farmer Will Have Her Revenge On Seattle,59,250013,False,0.482,0.723,10,-10.08,0,0.0425,5.66e-05,0.000432,0.0939,0.554,117.051,4,grunge
+4FzrCRil9uGpGGsnnM0vkE,Creed,Weathered,Don't Stop Dancing,61,272866,False,0.347,0.576,7,-4.701,1,0.0322,0.00645,0.0,0.342,0.139,137.622,4,grunge
+3z53rfQOg6Eb5pBCRsd7Uu,Nirvana,In Utero - 20th Anniversary Remaster,Pennyroyal Tea,58,218813,False,0.428,0.449,1,-12.114,0,0.0342,0.000351,0.000498,0.253,0.196,113.308,4,grunge
+0XGV1bem5W9ICY2rgleryV,Three Days Grace,Transit Of Venus,Chalk Outline,62,181986,False,0.59,0.792,7,-5.013,1,0.0603,0.000567,0.0,0.0448,0.663,153.023,4,grunge
+7hObovvcbBpXgZHQ9if4WU,Pearl Jam,Yield,Wishlist,58,206586,False,0.623,0.342,0,-8.694,1,0.038,0.0134,0.00412,0.106,0.101,115.032,4,grunge
+7l3WTEY9owUL3kRgna75Bd,Alter Bridge,Silver Tongue,Silver Tongue,55,258786,False,0.427,0.93,1,-5.988,1,0.0745,1.12e-05,3.22e-05,0.439,0.345,140.934,4,grunge
+1wrhhPzd2ncJPNgUcGgBGg,Bush,Sixteen Stone (Remastered),Machinehead - Remastered,60,256333,False,0.142,0.92,9,-4.426,1,0.115,2.65e-05,0.00518,0.126,0.193,171.763,3,grunge
+5IeTFRymTDiza7DciBD1Gk,Nirvana,Bleach,Negative Creep,58,175744,False,0.37,0.947,2,-7.213,1,0.0901,7.97e-06,0.000175,0.0762,0.418,81.744,4,grunge
+1HSVpIU0XU1WuwiBLBWAZd,Collective Soul,Collective Soul,The World I Know,64,255466,False,0.514,0.704,2,-4.724,1,0.0261,0.0508,0.00214,0.228,0.386,76.972,4,grunge
+7u93rCmIM9mBoT4mvfUBTZ,Breaking Benjamin,Phobia (Explicit Version),Had Enough,60,228213,False,0.313,0.948,0,-2.772,0,0.0762,1e-05,3.52e-05,0.105,0.242,163.881,4,grunge
+6HDBZFpozQsnYZ88ic250y,Breaking Benjamin,Phobia (Explicit Version),Evil Angel,58,220000,False,0.316,0.903,3,-3.234,1,0.0908,0.000331,7.19e-05,0.102,0.59,171.953,3,grunge
+7bu0znpSbTks0O6I98ij0W,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),"Tonight, Tonight - Remastered 2012",69,254626,False,0.277,0.67,6,-9.381,1,0.0376,6.28e-05,0.751,0.237,0.217,148.342,4,grunge
+3bH8PZsfbCRIoeNiFm7JmU,Nirvana,MTV Unplugged In New York,All Apologies,60,263226,False,0.569,0.579,1,-10.988,1,0.0716,0.5,2.79e-05,0.109,0.407,108.998,4,grunge
+14EORgkbXqIx5K4Haucmnb,Stone Sour,"House of Gold & Bones, Part 1",Absolute Zero,66,229840,True,0.552,0.988,1,-2.555,0,0.0787,0.000108,0.309,0.846,0.619,139.941,4,grunge
+3l8pZBAD0yJZCTQi35DJKw,The Presidents Of The United States Of America,II,Tiki God,33,173400,False,0.483,0.873,11,-6.981,1,0.0458,0.00454,3.02e-06,0.297,0.662,151.276,4,grunge
+2ST2McWrk7yAt3qQ8UVf3S,Stone Temple Pilots,Thank You,Big Bang Baby,32,202813,False,0.506,0.964,4,-3.882,0,0.0398,0.00829,0.0153,0.304,0.695,122.785,4,grunge
+1nxGSNnFCpDLwm3umCOUpi,Lifehouse;Natasha Bedingfield,Almeria (Deluxe),Between The Raindrops,54,285120,False,0.525,0.63,6,-6.673,1,0.0317,0.00119,0.0,0.146,0.236,106.978,4,grunge
+7793p4ZXhtbW5RpeRK7rid,Thirty Seconds To Mars,AMERICA,Dangerous Night,54,199773,False,0.295,0.715,2,-6.533,1,0.0709,0.00212,1.55e-06,0.242,0.242,86.937,4,grunge
+0elH6ukMGLyCHJavHutEza,Stone Temple Pilots,Core,Creep,58,332626,False,0.66,0.567,4,-6.318,0,0.0289,0.00428,0.0137,0.11,0.182,107.754,4,grunge
+6A1yZW5SLd9hpLZsG29hCQ,3 Doors Down;Jack Joseph Puig,The Greatest Hits,Let Me Go,54,243053,False,0.478,0.863,1,-4.914,0,0.0387,0.0181,0.0,0.111,0.491,92.004,4,grunge
+334NVjwI4vESPdvOmVZzbo,Linkin Park,Minutes to Midnight,In Between,43,196746,False,0.458,0.51,10,-10.424,0,0.0409,0.335,0.00425,0.105,0.275,193.948,4,grunge
+2AonZJ7LkhkQyWPck40uOO,Linkin Park;Stephen Richards,Reanimation,P5hng Me A*wy (Mike Shinoda Reanimation) [feat. Stephen Richards],45,277973,False,0.556,0.774,3,-6.342,0,0.0419,0.0376,0.00315,0.0538,0.614,103.188,4,grunge
+3vIw7vxgUTPtppVwMfhcwo,Sick Puppies,Dressed Up As Life,All The Same,57,258586,False,0.311,0.76,0,-6.301,1,0.0364,0.000962,0.0,0.104,0.189,177.592,3,grunge
+6q4XLE5WeOBWftoc9gTl2P,Daughtry,It's Not Over....The Hits So Far,No Surprise,53,270640,False,0.508,0.823,3,-3.711,1,0.031,0.00741,0.0,0.104,0.152,95.98,4,grunge
+5wvYib82q05wiNjLElD8GJ,Incubus,Light Grenades,Dig,64,257253,False,0.45,0.895,11,-4.739,1,0.0386,0.0293,0.0,0.116,0.463,77.577,4,grunge
+1CobuGL6ysSrfCE2tWcfFU,Hoobastank,The Reason (Acoustic) / Right Before Your Eyes,The Reason - Acoustic,51,234187,False,0.309,0.479,4,-5.956,1,0.0359,0.411,0.0,0.225,0.129,159.77,4,grunge
+7m6w9ijsXoXhYoyeAbA5Oy,Lifehouse,Lifehouse,Blind,55,300066,False,0.425,0.75,2,-4.796,1,0.0293,0.00335,0.0,0.115,0.266,86.911,4,grunge
+6HZdbb05lEXLvcmee3ZXO2,Linkin Park,Meteora,Don't Stay,52,187933,False,0.488,0.995,1,-3.096,0,0.108,0.00153,0.0,0.911,0.679,90.058,4,grunge
+1D8sCqR7SwxUTwUDqMyUAp,julie,flutter,flutter,62,267491,False,0.173,0.694,9,-6.549,1,0.0466,6.31e-06,0.888,0.442,0.351,116.088,4,grunge
+5EndcDV7pcbLO4jE2GBZwC,Kurt Cobain,Montage Of Heck: The Home Recordings (Deluxe Soundtrack),Burn The Rain,55,76453,False,0.504,0.415,8,-19.308,0,0.121,0.879,0.494,0.35,0.626,114.263,4,grunge
+3BOJ6BFjwbixqQM8J4hgYA,Submersed,Immortal Verses,Price Of Fame,50,234733,False,0.268,0.835,6,-4.125,1,0.0531,0.0313,0.0,0.0828,0.391,138.658,3,grunge
+725QAOexNLmGZiFMN7U8pF,Nirvana,MTV Unplugged In New York,Dumb,58,172933,False,0.69,0.542,6,-9.119,1,0.0367,0.567,0.000779,0.853,0.673,109.449,4,grunge
+2kN05N1AQQplsgFweFAqYb,Foo Fighters,Wasting Light,These Days,64,298266,False,0.531,0.664,2,-4.428,1,0.0304,0.000261,0.0,0.205,0.215,135.3,4,grunge
+6NPVVeHetUBa6NhYSaMo1w,Linkin Park,Hybrid Theory (20th Anniversary Edition),With You,50,203266,False,0.423,0.978,6,-4.004,0,0.303,0.0037,0.0,0.111,0.361,196.93,4,grunge
+2NVrALq8HUj3Y0NKC4AjGw,Grey Daze,Amends,B12,48,213680,False,0.475,0.922,11,-5.136,0,0.0452,0.00738,0.0218,0.07,0.535,154.99,4,grunge
+4BRvD5QdauTo8EuUvYchu3,Linkin Park,The Hunting Party,A Line in the Sand,49,395066,False,0.291,0.922,2,-4.968,1,0.0885,0.037,0.0198,0.101,0.0404,99.706,4,grunge
+2Cd0EWyX3ICPIPXiCjVe2w,Jet Black Stare,In This Life,Ready To Roll,59,191240,False,0.408,0.979,1,-2.801,1,0.0826,1.87e-05,0.0911,0.136,0.663,169.939,4,grunge
+78wMThFTNKThsWq19o0F1H,Highly Suspect,Natural Born Killer/Pink Lullabye,Natural Born Killer,61,196135,False,0.202,0.742,0,-5.29,1,0.124,0.00169,0.000483,0.128,0.155,194.876,3,grunge
+3PvwlVjMxuAqN8rJc84zPg,Linkin Park,Minutes to Midnight (Deluxe Edition),Hands Held High,38,233194,True,0.335,0.567,9,-9.699,1,0.0416,0.276,0.000354,0.197,0.126,103.987,4,grunge
+3Ib3SJV8ZXuLvDiDb2w1As,Soul Asylum,Black Gold: The Best Of Soul Asylum,Runaway Train,56,266066,False,0.616,0.714,0,-7.02,1,0.0385,0.00481,0.0,0.133,0.53,117.422,4,grunge
+7egnrHJAANlNymbrmQNKcG,Breaking Benjamin,Ember,The Dark of You,55,252613,False,0.487,0.646,2,-6.878,0,0.0299,0.202,3.1e-06,0.11,0.16,97.083,4,grunge
+6Lah64e21cUytn0QXfuOoF,Egypt Central,Egypt Central,Over And Under,56,175053,False,0.402,0.983,1,-3.816,0,0.0721,7.29e-05,0.0,0.294,0.363,103.096,4,grunge
+7yoBjKO6cCnK3zV8gr1k4e,Highly Suspect,Mister Asylum,Lydia,65,242560,True,0.417,0.706,6,-4.652,0,0.0945,0.00933,0.000572,0.474,0.512,127.884,4,grunge
+60sMKR8s0Zs8tXRqKsI8VX,Hoobastank,The Reason (15th Anniversary Deluxe),The Reason - Acoustic,50,234187,False,0.309,0.479,4,-5.956,1,0.0359,0.411,0.0,0.225,0.129,159.77,4,grunge
+66s45uMhk7Y4z0xUgESdm3,Matchbox Twenty,Exile on Mainstream (International),Unwell - 2007 Remaster,60,237266,False,0.442,0.793,9,-5.152,1,0.0347,0.0456,0.0,0.328,0.437,80.985,4,grunge
+6QtGvxBKckuEtXKBbqC3JX,Pop Evil,Eye of the Storm (Into The Vortex Remix),Eye of the Storm,55,234149,False,0.51,0.808,1,-5.694,0,0.0413,1.7e-05,1.91e-05,0.149,0.396,119.991,4,grunge
+3zZ009FB8sc8JghwVrbLFq,Linkin Park;Daron Malakian,The Hunting Party,Rebellion (feat. Daron Malakian),49,224160,False,0.508,0.971,8,-3.027,1,0.0788,0.00145,0.0,0.62,0.325,130.023,4,grunge
+4bYLTrlcqctyHck3fjhMgW,Linkin Park,Hybrid Theory,One Step Closer,47,157333,False,0.492,0.969,9,-4.419,1,0.0491,0.0014,1.32e-06,0.0787,0.538,95.136,4,grunge
+7q115ia4fQn9zonjpexWsY,Linkin Park,Hybrid Theory,In the End,48,216880,False,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,4,grunge
+3DjAzhKrzyEKxsSYSoKolW,Alter Bridge,Blackbird,Ties That Bind,53,199480,False,0.158,0.976,7,-4.57,0,0.379,0.000317,0.000138,0.318,0.125,78.583,4,grunge
+1qAuIPMALdFtGv2Ymjy5l0,Shinedown,ATTENTION ATTENTION,MONSTERS,67,248373,False,0.487,0.9,5,-4.54,1,0.0529,0.00204,6.42e-06,0.11,0.377,149.959,4,grunge
+6xXlurslWqFuyqTCBlErzX,Godsmack,Awake,Awake,66,304373,True,0.395,0.756,7,-4.12,1,0.0544,1.74e-05,0.00665,0.319,0.475,112.092,4,grunge
+3MNZ79grelbBXsQcKUQZAh,Alter Bridge,Pawns & Kings,Pawns & Kings,52,378313,False,0.447,0.866,6,-5.588,1,0.0775,1.07e-05,3.87e-06,0.185,0.285,86.469,4,grunge
+1xQZtbipNLyP0e0hihE5F5,Nickelback,Dark Horse,I'd Come for You,58,262626,False,0.489,0.748,2,-5.488,1,0.0311,0.033,0.0,0.144,0.385,147.998,4,grunge
+1tlTFxB34VorrZnJNfRWcs,Nirvana,MTV Unplugged In New York,Something In The Way,57,241533,False,0.547,0.335,1,-13.304,1,0.0501,0.656,0.000161,0.115,0.109,106.099,4,grunge
+7rojor07Wzc7w3zXOxex80,Lifehouse,Smoke & Mirrors (International Version),Halfway Gone,56,195306,False,0.543,0.919,1,-4.831,0,0.0415,0.000441,0.0,0.238,0.498,125.017,4,grunge
+66w5OYw2ja8lnmaA3Ns0PU,Nirvana,In Utero - 20th Anniversary Remaster,Heart-Shaped Box,58,281160,False,0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,4,grunge
+0hUit24g1EIoATdKYWUiRj,Nirvana,In Utero - 20th Anniversary Remaster,Very Ape,59,115813,False,0.262,0.886,1,-9.392,1,0.0336,3.11e-06,0.368,0.188,0.965,152.09,4,grunge
+4K4budASa3lo3sBlfUT7Ex,Alter Bridge,This Is War,This is War,55,243622,False,0.376,0.932,3,-5.342,1,0.0984,4.99e-06,2.13e-05,0.318,0.319,163.956,4,grunge
+0o995gJCGebaza0LWybToU,Audioslave,Out of Exile,Doesn't Remind Me,64,255000,False,0.457,0.768,9,-3.592,1,0.0378,0.169,0.0,0.103,0.232,99.739,4,grunge
+5Ds35L9KpUDKgSxZ6whuoQ,Alice In Chains,Facelift,We Die Young,64,152560,False,0.486,0.938,1,-6.652,1,0.0704,1.79e-05,0.000103,0.361,0.525,125.816,4,grunge
+6B9lhkmdN6EjRCPwoTpjpF,Gin Blossoms,The Best Of Gin Blossoms 20th Century Masters The Millennium Collection,Allison Road,33,198933,False,0.462,0.961,2,-3.393,1,0.0603,0.00342,0.0,0.26,0.92,134.739,4,grunge
+3bq8WiQrEXMwPAibYs7tpu,Seether,Isolate And Medicate,Nobody Praying For Me,64,197800,True,0.541,0.916,7,-5.964,0,0.0612,0.00326,2.04e-06,0.0967,0.627,156.015,4,grunge
+7MjRtWS2teufvOiMM0BARZ,Chris Cornell,Higher Truth,Nearly Forgot My Broken Heart,59,234426,False,0.593,0.781,0,-5.472,1,0.0285,0.0944,2.23e-06,0.173,0.657,119.522,4,grunge
+26c8cu0WQJpO1BT3uvDIHI,Days Of The New,At Home - Alt Edition,"Touch, Peel And Stand",32,297813,False,0.568,0.622,11,-8.15,1,0.03,0.0609,2.62e-06,0.301,0.833,81.935,4,grunge
+1jMaB19DiVR8OihLSuYFOt,Soundgarden,Superunknown (20th Anniversary),Spoonman,67,246920,False,0.457,0.902,7,-5.624,1,0.0313,2.17e-05,0.196,0.258,0.834,92.711,4,grunge
+2FcE7B1p3qVvLvwV5qPljV,Thirty Seconds To Mars,A Beautiful Lie,A Beautiful Lie,57,245306,False,0.479,0.929,9,-5.106,0,0.0921,0.00291,0.293,0.171,0.344,159.949,3,grunge
+4jiauDAzN0YVic8gwDuxLF,3 Doors Down,3 Doors Down,Let Me Be Myself,47,228626,False,0.495,0.699,0,-6.107,1,0.0297,0.00384,1.7e-05,0.113,0.492,153.955,4,grunge
+7w09r53aPON8ZUvEAnPe94,Badflower,"OK, I'M SICK",Ghost,62,259519,True,0.505,0.839,11,-4.966,0,0.0569,0.0111,0.0,0.211,0.326,139.961,4,grunge
+0nTiC2fGkM4q8bGlBKGrGx,10 Years,The Autumn Effect,Wasteland,54,229973,False,0.404,0.797,6,-5.047,0,0.0763,0.000344,0.000352,0.0824,0.361,146.58,4,grunge
+1tTgDt1fKE6wcul5s9CaDA,Linkin Park,Reanimation,Pts.Of.Athrty - Jay Gordon Reanimation,48,225520,False,0.506,0.976,8,-5.066,0,0.155,0.00185,0.00204,0.338,0.267,95.16,4,grunge
+2Wv6Mv7PWtv1wst5oYqqQc,Grey Daze,Amends,Soul Song,44,246440,False,0.399,0.611,9,-6.285,0,0.0353,0.431,0.00724,0.119,0.125,74.691,4,grunge
+3Y3uR7Fd2yVBLHmgsqmZnS,Cathedral Bells,Ether,Dayflower,57,173508,False,0.149,0.938,9,-4.245,1,0.154,1.24e-05,0.824,0.0584,0.601,170.056,4,grunge
+3Q8zopc4ABXhysDb1sgLVW,My Darkest Days;Zakk Wylde,My Darkest Days,Porn Star Dancing,68,199013,False,0.477,0.917,2,-3.399,1,0.0814,0.0139,0.0,0.0756,0.267,160.021,4,grunge
+5l3W66TDufGaj6lfSA5LRZ,Breaking Benjamin;Lacey Sturm,Aurora,Dear Agony - Aurora Version,51,255661,False,0.604,0.839,0,-2.871,0,0.0271,0.000138,2.56e-06,0.13,0.214,124.982,4,grunge
+17bgialGAwoiGj1STY4cnR,Linkin Park,Meteora,Easier to Run,49,204173,False,0.545,0.861,3,-4.819,0,0.034,0.0624,0.0,0.131,0.279,105.017,4,grunge
+0DLjcGTmH2NV9AjzecAGT6,Red,End Of Silence,Breathe Into Me,54,214373,False,0.32,0.91,9,-5.321,1,0.114,0.000997,0.0,0.16,0.22,165.943,4,grunge
+6015DaBwB49tXWlmNPo64w,Linkin Park,Minutes to Midnight (Deluxe Edition),Valentine's Day,38,196884,False,0.64,0.64,5,-5.995,1,0.0291,0.0333,0.0275,0.241,0.437,108.018,4,grunge
+3bwAS8cN7Xtzvv5UurJOOX,Audioslave,Audioslave,I Am the Highway,66,334906,False,0.341,0.662,9,-5.023,0,0.0335,0.105,0.0,0.113,0.2,174.875,4,grunge
+3uO2ODjs7Lqp1DVZ4LtouE,Linkin Park,Hybrid Theory (20th Anniversary Edition),Runaway,50,183973,False,0.631,0.873,7,-4.748,1,0.0653,0.0141,0.0,0.253,0.467,109.117,4,grunge
+1gyee1JuFFiP476LQpRMYU,Chevelle,Wonder What's Next (Expanded Edition),The Red,70,238400,False,0.509,0.843,1,-3.318,0,0.0488,0.000671,0.000803,0.348,0.332,140.055,3,grunge
+1EHh1fC9FCKw31wotfXx7L,Matchbox Twenty,How Far We've Come,How Far We've Come,58,212253,False,0.566,0.905,0,-5.093,1,0.0646,0.0045,0.0,0.21,0.792,83.0,4,grunge
+1Q9QN6dHEDeUegsySY012f,Linkin Park,Hybrid Theory,With You,45,203266,False,0.421,0.978,6,-4.004,0,0.302,0.0037,0.0,0.111,0.359,196.921,4,grunge
+21RRhjnMsrvQpeQ10ptSBZ,Daughtry,Leave This Town,September,52,240213,False,0.43,0.703,10,-5.52,1,0.0342,0.0465,0.0,0.0809,0.328,149.873,4,grunge
+5KV9bNW1Ta4Z4PdHgu84TA,Nirvana,Nevermind (Remastered),"Endless, Nameless",51,403293,False,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4,grunge
+6wXFPlgXTT3k757WSzS6CE,Adelitas Way,Shine On,What It Takes,59,189149,True,0.517,0.88,8,-4.092,1,0.0776,0.00135,0.0,0.092,0.612,174.144,4,grunge
+2busyK7jKVJaZN4Q6gZqKw,Breaking Benjamin,We Are Not Alone,Follow - Radio Edit,59,197040,False,0.582,0.929,8,-3.582,1,0.0668,0.00134,0.0365,0.0371,0.58,106.003,4,grunge
+0AJTKW9fVFo3rIXbtTVE3T,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Mayonaise - Remastered,55,348773,False,0.482,0.529,10,-10.426,1,0.0271,0.000107,0.546,0.0839,0.0879,145.969,4,grunge
+3S8MFB68isPbRVgaU0MaIW,Linkin Park,The Hunting Party,Wastelands,51,195893,False,0.44,0.993,2,-3.481,0,0.184,0.0104,0.0,0.964,0.614,169.77,4,grunge
+6G2baGa99QcqUUTmkEgeZl,Nirvana,Incesticide,Dive,57,235000,False,0.425,0.837,11,-10.096,1,0.0318,2.04e-06,0.366,0.108,0.441,128.13,4,grunge
+0X576XiCW9uEtko6f6VkcU,Linkin Park,Hybrid Theory,Crawling,46,208960,False,0.58,0.702,4,-5.565,1,0.0337,0.0466,3.2e-06,0.536,0.299,105.076,4,grunge
+214LJVTqrkUOGemWDGHJpr,Linkin Park,Hybrid Theory,Points of Authority,46,200240,False,0.512,0.97,8,-3.886,0,0.212,0.03,0.0,0.0994,0.427,94.952,4,grunge
+100lHmeZbp3OvinYgotmVc,Three Days Grace,Somebody That I Used to Know,Somebody That I Used to Know,59,209719,False,0.6,0.639,11,-7.705,0,0.0388,0.00062,1.85e-06,0.249,0.513,119.962,4,grunge
+6ZfPmIbwzz6fopTNwAJTPs,Breaking Benjamin,Ember,Red Cold River,58,200906,False,0.376,0.967,3,-3.277,0,0.166,0.000248,2.64e-06,0.0575,0.226,91.582,4,grunge
+1rptK1oec3gjHpzzrxHyln,Sixx:A.M.;Corey Taylor;Joe Elliott;Brantley Gilbert;Ivan Moody;Slash;AWOLNATION;Tommy Vext,"Maybe It’s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)","Maybe It’s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",55,254200,False,0.396,0.781,0,-5.148,1,0.0377,0.00158,0.0,0.185,0.201,145.06,4,grunge
+07huQEWGQAe7aJaeR08Cag,Breaking Benjamin,Dark Before Dawn,Never Again,56,223546,False,0.493,0.936,1,-4.525,1,0.0331,8.53e-06,9.73e-05,0.358,0.683,93.501,4,grunge
+5SDOPP5zCdggONUuYWiiTS,Linkin Park,Hybrid Theory (Bonus Edition),"Papercut - Live at Yalding House, London, England, 1/12/2001 - BBC One",52,189973,False,0.474,0.966,1,-4.104,0,0.135,0.000291,0.00025,0.178,0.742,150.051,4,grunge
+6CHENx8iqzMwavTIz8s0gm,Hole,Live Through This,Violet,63,204933,False,0.287,0.78,7,-6.493,1,0.0469,0.049,3.71e-05,0.184,0.383,167.278,4,grunge
+4PtZE0h5oyPhCtPjg3NeYQ,Alice In Chains,Jar Of Flies,No Excuses,64,255573,False,0.527,0.838,3,-6.013,1,0.0323,0.0206,0.00062,0.07,0.721,117.454,4,grunge
+3AZ5XoHdiFpiKMky6M1Gt9,Silverchair,Frogstomp (Deluxe Edition) [Remastered],Suicidal Dream,57,192783,False,0.465,0.708,11,-6.299,0,0.0327,0.0286,1.34e-05,0.108,0.388,97.532,4,grunge
+0xHch89AN9RlN8Nm4kJzs3,Nirvana,MTV Unplugged In New York,Polly,58,196466,False,0.618,0.392,11,-11.941,1,0.0388,0.683,7.09e-05,0.905,0.437,115.075,4,grunge
+4YFcGTdgmEuw8xTO4XrxbB,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),Zero - Remastered 2012,70,160173,True,0.438,0.728,8,-7.105,1,0.0458,3.49e-05,0.57,0.0509,0.701,128.04,4,grunge
+33HWtZD6EDwIIksyiyNSku,Staind,The Illusion of Progress,Save Me,31,292853,True,0.499,0.777,6,-5.09,0,0.0323,0.00102,0.0333,0.122,0.119,103.048,4,grunge
+5ialQMeK57m6Y9V44IIOh7,Alter Bridge,Sin After Sin,Sin After Sin,52,402328,False,0.383,0.819,1,-6.233,1,0.0755,7.47e-05,0.00012,0.162,0.36,119.109,4,grunge
+0W9Xvd4Qx1aZPxEi94vgRY,Shinedown,The Sound of Madness,Sound of Madness,67,233986,False,0.328,0.939,2,-1.654,0,0.0423,4.93e-05,0.0065,0.337,0.329,185.971,4,grunge
+3OtpZhuI28h9yDjDbOkqSb,Jane's Addiction,Rev,Jane Says,33,287000,False,0.402,0.597,2,-9.258,1,0.0327,0.0385,2.09e-06,0.109,0.496,81.806,4,grunge
+0Q75bkIyDFzLQzI966JE4J,Blind Melon,Soup,The Duke,31,217266,False,0.293,0.552,6,-9.204,0,0.0385,0.216,0.378,0.101,0.503,126.901,3,grunge
+5lHgBqh9VwAAzQma55gHRY,Pearl Jam,Vs.,Elderly Woman Behind the Counter in a Small Town - Remastered,65,196186,False,0.281,0.493,7,-9.461,1,0.0284,0.0519,9.15e-06,0.101,0.167,60.772,4,grunge
+5p0s4na5wJHnaNw9azmiQm,Chris Cornell,Songbook,"Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",56,277733,False,0.449,0.385,0,-4.878,1,0.0301,0.731,0.0,0.958,0.179,123.299,4,grunge
+1Y13csEpu3TK5gQdzGLrd8,Incubus,Make Yourself,Pardon Me,69,223746,False,0.579,0.812,1,-6.509,0,0.0693,0.00114,0.00333,0.115,0.278,152.002,4,grunge
+2ZhOjD3qWdeHMYZM4zKADi,Staind,The Illusion of Progress,The Corner,32,317840,False,0.467,0.569,1,-5.958,0,0.0283,0.0388,0.0348,0.0975,0.049,134.945,3,grunge
+6S0PkDFH00cAUu3yoZGwza,Matchbox Twenty,The Matchbox Twenty Collection,Downfall,31,247173,False,0.449,0.937,7,-4.507,1,0.121,0.0559,1.24e-06,0.659,0.277,129.264,4,grunge
+3HhHP56irp6Z0c8q0gv6tK,Shinedown,The Studio Album Collection,Bully,31,242746,False,0.519,0.969,6,-2.34,0,0.0662,9.03e-05,0.0,0.111,0.48,77.011,4,grunge
+2xpuG88sZc4eFKENUxAfmN,Days Of The New,The Ultimate Grunge Album Vol.1,Die Born,29,236573,False,0.525,0.703,6,-7.024,1,0.0264,0.0827,0.0,0.0921,0.451,75.09,4,grunge
+5maRjQO65UTzdhUgVnvINQ,Shinedown,Big Rock Ballads,How Did You Love,30,185546,False,0.334,0.676,2,-7.215,0,0.0434,7.96e-05,0.0,0.0942,0.232,185.929,4,grunge
+5k3SkFI1sAACwnIDVsMk9g,Our Lady Peace,Clumsy,Automatic Flowers,30,242640,False,0.381,0.867,9,-8.4,1,0.0516,0.000962,0.000458,0.211,0.821,177.566,4,grunge
+0ll4shInilQVdYVrVVHpjB,Pearl Jam,Last Kiss,Soldier of Love,60,174173,False,0.55,0.777,4,-7.299,1,0.0382,0.143,7.46e-06,0.981,0.751,116.14,4,grunge
+2uDwRgwGPjXq0oj0hNCuFc,Audioslave,Audioslave,Shadow on the Sun,58,343400,False,0.329,0.658,9,-5.57,1,0.0373,0.00108,1.56e-06,0.0805,0.288,141.123,4,grunge
+0tJ8EAv8Kf1mHFXZMofVvZ,Linkin Park;Mike Shinoda,RECHARGED,CASTLE OF GLASS - M. Shinoda Remix,44,380306,False,0.473,0.858,1,-4.982,0,0.0533,0.00156,0.242,0.115,0.0439,124.987,4,grunge
+22TsEcjgI6XfLUj5OrCLkw,Red,End Of Silence,Already Over,49,264946,False,0.419,0.673,5,-6.577,0,0.0391,0.00295,0.0,0.0943,0.17,103.017,4,grunge
+2DK7d4rQkTpZ7P81M0Sjou,Rev Theory,Rock Motivation,Hell Yeah,27,246836,False,0.357,0.963,3,-6.446,0,0.0796,0.000111,4.72e-06,0.0276,0.41,168.012,4,grunge
+1wLQwg0mloy3yXjL0jPE0N,Foo Fighters,Concrete and Gold,Run,61,323373,False,0.365,0.892,4,-8.036,0,0.0786,3.31e-05,0.0948,0.751,0.176,136.133,4,grunge
+4qR4J8QRTeN0W8Rp5nVdzi,My Darkest Days,My Darkest Days,Come Undone,55,248493,False,0.417,0.882,3,-4.319,1,0.0323,9.11e-05,0.0,0.12,0.449,174.015,4,grunge
+0W3UUIPbAdBk9V0lmXtDTG,My Darkest Days,My Darkest Days (Deluxe Edition),Without You,46,262933,False,0.399,0.739,11,-3.708,1,0.0295,0.0128,0.0,0.106,0.337,161.892,3,grunge
+1NxBqfjNr4bFHQbZ65foDt,Linkin Park,Minutes to Midnight (Deluxe Edition),In Pieces,39,217987,False,0.512,0.874,8,-6.507,1,0.0415,0.00871,7.08e-06,0.132,0.824,160.054,4,grunge
+6BcF4tXjinsT9NBYFoxS6t,Linkin Park;Jonathan Davis,Reanimation,1Stp Klosr (The Humble Brothers Reanimation) [feat. Jonathan Davis],43,346040,False,0.471,0.927,1,-5.76,1,0.0495,0.00272,0.537,0.115,0.232,96.149,4,grunge
+3mhOmh4tRKsMfnRmgZfeBm,Candlebox,Candlebox,Far Behind,67,299733,False,0.552,0.645,7,-6.595,1,0.0268,0.00187,1.38e-06,0.0424,0.588,89.518,4,grunge
+0tUELgOuOJ3KCsYMDDsNvD,Chris Cornell,Chris Cornell (Deluxe Edition),Nothing Compares 2 U - Live At SiriusXM/2015,60,303906,False,0.434,0.327,0,-10.72,1,0.0312,0.609,1.78e-06,0.686,0.295,119.506,4,grunge
+70NGpcNvhI2hqonWNAETIu,Daughtry,It's Not Over....The Hits So Far,Life After You,51,207213,False,0.396,0.796,5,-3.253,1,0.0357,0.0597,0.0,0.407,0.362,154.037,3,grunge
+4ImYwDlqjqxCRxnRe66rBa,Daughtry,Break The Spell (Expanded Edition),Gone Too Soon,51,216120,False,0.515,0.593,3,-6.885,1,0.0253,0.178,1.63e-05,0.155,0.265,95.967,4,grunge
+4le6DvrwMv2rpyN1SPeL0g,Kurt Cobain,Montage Of Heck: The Home Recordings,Sappy - Early Demo,50,148573,False,0.445,0.289,11,-19.113,0,0.0329,0.437,0.00641,0.0988,0.172,104.006,4,grunge
+2DrMcGNKEY0FZqjMovGaCm,Linkin Park,Meteora,Figure.09,51,197506,False,0.518,0.951,9,-3.198,1,0.0529,0.00919,0.0,0.148,0.537,98.068,4,grunge
+2iRSl0OHGu6dszXk7qTQnt,Linkin Park,Meteora (Bonus Edition),Lying from You - Live LP Underground Tour 2003,48,184493,False,0.396,0.974,6,-3.708,1,0.142,0.00853,0.0,0.968,0.65,160.057,4,grunge
+76xddM2irVQCbuBoVbaElZ,TRUSTcompany,The Lonely Position Of Neutral,Downfall,64,191373,False,0.31,0.94,6,-3.395,1,0.106,0.000106,2.21e-06,0.205,0.454,128.682,5,grunge
+1DCdIWCE5UFiObCsTSpKFv,Alice In Chains,Alice In Chains,Heaven Beside You,62,327893,True,0.551,0.724,10,-7.09,0,0.032,0.00451,0.000167,0.116,0.559,111.243,4,grunge
+5ZIcLKQxzyI3nPnivwuylV,Linkin Park,Minutes to Midnight (Deluxe Edition),No More Sorrow,40,221764,False,0.558,0.933,11,-4.877,1,0.047,0.00445,4.88e-06,0.225,0.461,132.585,4,grunge
+3t4p9vIhemAhCMr6hfL2pa,Chris Cornell,Carry On,Billie Jean,53,281373,False,0.52,0.619,4,-4.85,0,0.0427,0.591,3.55e-05,0.121,0.367,137.882,3,grunge
+1xLJ3vYuidvAGFZAHMKgl9,Hinder,All American Nightmare,The Life,49,217186,False,0.396,0.72,2,-3.854,1,0.0311,0.000835,0.0,0.24,0.289,152.125,4,grunge
+1BTMXVSnuRPRhsuReHDwKc,Creed,With Arms Wide Open: A Retrospective,With Arms Wide Open - Acoustic Version,55,234666,False,0.385,0.701,7,-6.225,1,0.0333,0.109,0.0,0.197,0.204,140.778,4,grunge
+6pb5BBnIM5IM7R1cqag6rE,Foo Fighters,Foo Fighters,Big Me,64,132840,False,0.579,0.708,0,-10.419,1,0.0374,0.442,0.0,0.11,0.846,130.97,4,grunge
+1B8WdDScvobpFsZLfdmIE1,Linkin Park,Hybrid Theory,A Place for My Head,45,184640,False,0.603,0.908,11,-5.254,1,0.184,0.0144,0.0,0.671,0.457,133.063,4,grunge
+1uiwlmWedlNpzAxDSRGqdK,Three Days Grace,Life Starts Now,Lost in You,58,232813,False,0.434,0.868,9,-3.503,1,0.0366,0.0199,0.0,0.162,0.366,162.969,5,grunge
+4QhSscYz3TPLEwD6lMezvG,Egypt Central,White Rabbit,White Rabbit,57,217786,False,0.49,0.887,1,-5.363,0,0.0787,0.00176,0.0,0.0564,0.598,175.975,4,grunge
+0brL7VMo7onJJTGMSdajic,Nirvana,Incesticide,Molly's Lips - BBC John Peel Session 1990,58,114133,False,0.311,0.895,7,-9.401,1,0.0476,1.91e-05,0.195,0.0584,0.681,167.107,4,grunge
+3fP8KXXUoBenEM46UZZgSG,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Moist Vagina - 2013 Mix,53,213453,False,0.344,0.567,10,-11.437,1,0.0384,0.000127,0.205,0.225,0.613,110.306,4,grunge
+55KYlnsC6nYnr3IykbmJwE,Three Days Grace,Life Starts Now,The Good Life,64,173173,False,0.548,0.911,10,-3.701,1,0.0397,0.000345,0.0,0.23,0.654,128.036,4,grunge
+0a5UnIvDUBzqwUduJsouRy,Halestorm,The Strange Case of... (Deluxe),Here's to Us,56,177546,True,0.514,0.866,0,-3.657,1,0.0449,0.0524,0.0,0.17,0.45,159.973,4,grunge
+4a9i7rCLfPjbS1sNamZeQN,Godsmack,The Oracle (Deluxe Edition),Cryin' Like A Bitch!!,65,201666,True,0.543,0.808,10,-5.484,1,0.0407,7.19e-05,0.00336,0.114,0.472,95.19,4,grunge
+35GwlKlVXgFCMF5uTp5r7P,Creed,My Own Prison,One,58,302533,False,0.557,0.933,6,-3.7,0,0.035,2.14e-05,8.66e-06,0.117,0.435,110.946,4,grunge
+6DX6W2QXiVlKYQLrQN8y83,Nirvana,MTV Unplugged In New York,Pennyroyal Tea,56,220506,False,0.497,0.474,1,-8.047,0,0.033,0.306,1.82e-06,0.105,0.0411,113.022,4,grunge
+79pY2Z5eFvXMt9bSdHLrnA,Pearl Jam,Riot Act,I Am Mine,60,215333,False,0.323,0.728,7,-5.416,1,0.0321,0.00394,0.000447,0.102,0.489,161.586,3,grunge
+0FwiglGo6kL0xLOt114SSh,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,59,196258,False,0.616,0.664,0,-5.66,1,0.0293,0.0128,8.94e-06,0.115,0.312,122.077,4,grunge
+4QVD4vVkYveZuO0xkyi6AX,Hoobastank,The Reason (15th Anniversary Deluxe),Same Direction,56,195293,False,0.401,0.988,2,-3.308,1,0.0916,0.00492,0.0,0.4,0.514,169.024,4,grunge
+13a2v5JNOROuvh2MBMWxqb,Teenage Wrist,Earth Is A Black Hole,Earth Is A Black Hole,50,175577,False,0.553,0.902,11,-4.35,0,0.0588,0.00286,0.0,0.2,0.572,132.089,4,grunge
+5adBpeh1CjHAzlM2i8nYFR,Three Days Grace,Outsider,The Mountain,62,198360,False,0.492,0.932,10,-4.689,1,0.052,0.000572,4.75e-06,0.123,0.33,92.497,4,grunge
+0F2LiyHp9E0pAanpfnzHNp,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),Cherub Rock - Remastered 2011,59,298253,False,0.371,0.866,9,-7.426,1,0.039,5.91e-06,0.58,0.196,0.447,87.254,4,grunge
+6hHpXo2XMMKR5lIfa19aLM,Three Days Grace,One-X,Get Out Alive,58,262493,False,0.493,0.896,7,-4.569,0,0.0365,0.000319,0.0,0.0869,0.0791,117.964,4,grunge
+1XPta4VLT78HQnVFd1hlsK,The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits,Today,66,202133,False,0.476,0.855,8,-6.046,1,0.0265,2.53e-05,0.69,0.049,0.408,82.955,4,grunge
+0aMqNFBj9KtPTD3c3tByRT,Nirvana,Bleach,Floyd The Barber,56,138047,False,0.443,0.878,8,-6.717,0,0.0418,0.000788,0.56,0.0623,0.683,136.567,4,grunge
+5VBol3e1pnxK1yjsl0jppx,Quicksand,Slip,Freezing Proces,29,199160,False,0.455,0.769,4,-7.904,1,0.039,0.000691,0.0128,0.166,0.697,150.342,4,grunge
+0GGpbJOgI4z7zFgNcHkenI,Stone Temple Pilots,Thank You,Days of the Week,29,155253,False,0.569,0.879,2,-4.694,1,0.0452,5.54e-05,1.81e-05,0.13,0.794,115.615,3,grunge
+0f7tluw7e76KdjC04QhcWR,The Presidents Of The United States Of America,Kudos to You!,Electric Spider,30,157586,False,0.499,0.747,11,-5.476,1,0.0558,0.0187,9.64e-05,0.0932,0.685,123.347,4,grunge
+79yyMtm6EtPATD7EyNTKC3,The Presidents Of The United States Of America,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,Kick Out the Jams,29,86266,False,0.55,0.964,8,-3.713,0,0.0818,0.000138,0.864,0.0717,0.935,86.309,4,grunge
+0wnGZtasxYFC2fG8m1fC3Q,The Presidents Of The United States Of America,These Are the Good Times People,Bad Times,30,179746,False,0.613,0.827,6,-5.585,1,0.042,0.0942,0.0,0.267,0.835,156.481,4,grunge
+6hqIXyo6GxydAnoI8XeIrV,Soundgarden,Badmotorfinger (25th Anniversary Remaster),Rusty Cage - Remastered,63,266200,False,0.307,0.917,9,-7.599,1,0.0977,1.65e-05,0.00044,0.0566,0.266,101.879,4,grunge
+78p5Da5u0uT78E43BRiGUm,Days Of The New,Rockklassiker,Shelf In The Room,28,284720,False,0.622,0.613,6,-9.041,1,0.0263,0.0331,8.25e-05,0.204,0.316,128.985,4,grunge
+64gbzSMPloO2SNBTk3PG3h,Thirty Seconds To Mars,AMERICA,Hail To The Victor,50,201956,False,0.57,0.723,0,-6.673,0,0.0386,0.00238,0.000144,0.2,0.44,145.001,4,grunge
+1euszbbvkUzQzIhZUWFmXG,Highly Suspect,The Boy Who Died Wolf,My Name Is Human,64,258773,True,0.515,0.698,2,-5.572,0,0.0279,5.71e-05,8.64e-05,0.0827,0.194,139.96,4,grunge
+0sHdUji2tWxiRDfShSWHUN,Pearl Jam,Pearl Jam,Come Back,54,326040,False,0.296,0.563,5,-5.58,1,0.029,0.0936,5.93e-05,0.116,0.267,167.412,3,grunge
+1SBuYdJK3a3NU55nGomgAe,3 Doors Down,Acoustic Back Porch Jam,Kryptonite,52,235360,False,0.608,0.835,11,-6.157,0,0.0282,0.24,0.0,0.3,0.68,97.991,4,grunge
+3KVVhZUYs77OSujKlvWEXy,Linkin Park,One More Light Live,Leave Out All The Rest - One More Light Live,46,290720,False,0.413,0.694,0,-7.984,1,0.0562,0.00286,0.00172,0.845,0.276,159.982,4,grunge
+6nF6vVBsbbDVBezCW8y96B,Thirty Seconds To Mars,LOVE LUST FAITH + DREAMS,Do Or Die,50,247813,False,0.514,0.825,2,-5.512,1,0.0562,0.00177,1.13e-06,0.153,0.432,135.074,4,grunge
+3OE4VBO845k24R8ZzuMpvj,Breaking Benjamin;Scooter Ward,Aurora,Far Away,54,292280,False,0.536,0.803,1,-2.998,1,0.0285,0.0407,0.0,0.111,0.254,107.973,4,grunge
+3oOO9PWp1izU4AxZ4SWqzH,Lifehouse,No Name Face,Breathing,47,265400,False,0.499,0.82,2,-6.163,0,0.0301,0.0495,0.0,0.345,0.593,144.949,4,grunge
+1o4Pf2GIMDCD7ifIM2yI77,Three Days Grace,Life Starts Now,Last to Know,56,207466,False,0.465,0.456,4,-6.603,0,0.0282,0.554,0.0,0.111,0.293,138.78,4,grunge
+1JBa9B1iA4yNVpJ5wVGrZH,Thirty Seconds To Mars,A Beautiful Lie,From Yesterday,59,247373,False,0.468,0.876,10,-4.841,1,0.0692,0.00578,0.00625,0.035,0.13,135.062,4,grunge
+6mqhbwoBgTcw1lVqysIlTC,Linkin Park,Hybrid Theory (20th Anniversary Edition),By Myself,49,189800,False,0.545,0.935,6,-4.159,0,0.173,0.0175,0.00279,0.297,0.339,103.024,4,grunge
+6R1yUVtY4dPrGFOD7Eghrl,Linkin Park,Minutes to Midnight (Deluxe Edition),The Little Things Give You Away,38,383507,False,0.556,0.491,7,-7.363,1,0.0286,0.0656,9.9e-05,0.0528,0.107,139.983,3,grunge
+4e0MJaiXSwXBhrQZHyoK8c,Nirvana,Incesticide,Downer,55,103800,False,0.303,0.931,4,-9.306,0,0.0574,0.00101,0.0294,0.114,0.555,101.936,4,grunge
+0cMyMeOTBeweBZRfP6MJ6e,Chris Cornell,No One Sings Like You Anymore,Patience,55,253120,False,0.597,0.646,6,-7.378,0,0.0346,0.277,0.0,0.111,0.362,126.958,4,grunge
+2cZXlLwkRmDww37tbEygXl,Linkin Park,The Hunting Party,Keys to the Kingdom,47,218546,True,0.395,0.976,7,-4.553,1,0.137,0.00735,0.000222,0.379,0.334,184.011,4,grunge
+5nakPOknHu3XkeeHoVvhCd,Seether,Disclaimer,Broken,54,257600,False,0.666,0.475,4,-5.618,0,0.0268,0.0189,1.31e-06,0.0882,0.183,123.67,4,grunge
+0pVL6gE6ebXHExO9IzrJDQ,Stone Sour,"House of Gold & Bones, Part 1",Taciturn,54,325626,False,0.286,0.547,4,-7.923,1,0.0318,0.0627,3.16e-06,0.112,0.453,174.717,3,grunge
+4GQSDgwPgIswz5WvFp7ROO,Linkin Park,Hybrid Theory (20th Anniversary Edition),Pushing Me Away,47,191440,False,0.483,0.913,6,-4.305,1,0.0425,0.000391,0.0,0.309,0.279,103.108,4,grunge
+2ifYUfvMNbXQDPJEyk68rP,Foo Fighters,There Is Nothing Left To Lose,Ain't It The Life,51,254773,False,0.57,0.836,0,-4.58,1,0.0258,0.00272,0.645,0.329,0.303,108.866,4,grunge
+0LPx8WfsRrXCF92YtINFtN,Three Days Grace,Life Starts Now,World so Cold,61,243000,False,0.481,0.82,8,-3.508,1,0.031,0.00858,0.0,0.0756,0.345,139.936,4,grunge
+5tkHje8FGSF258gi869GcV,Linkin Park,Hybrid Theory,Runaway,44,183973,False,0.636,0.884,7,-4.743,1,0.0584,0.0142,0.0,0.253,0.446,109.16,4,grunge
+0ILR5GMSzBRp2LrI8GX1Si,Shinedown,Amaryllis,I'll Follow You,60,238760,False,0.537,0.692,10,-4.159,1,0.0315,0.00193,0.0,0.114,0.286,125.037,3,grunge
+1k0FCgVwb1jZR57ESOWUVa,Default,One Thing Remains,It Only Hurts,55,222706,False,0.522,0.777,5,-4.047,1,0.0274,0.000593,0.258,0.286,0.502,97.903,4,grunge
+2HaUEu0wAO5AOT0UB3i0LO,Finger Eleven,Life Turns Electric (BonusTrack Version),Living In A Dream,59,184773,False,0.534,0.922,8,-2.305,1,0.0568,0.00216,6.34e-05,0.257,0.71,98.022,4,grunge
+6uMPJ3NmW8FfqqNwqjUHrB,3 Doors Down,Time Of My Life,When You're Young,50,256013,False,0.462,0.778,9,-4.365,0,0.0313,0.0226,0.0,0.108,0.219,77.004,4,grunge
+5m7on0zpnmeAXy72ANrmfU,Theory of a Deadman,Scars & Souvenirs (Special Edition),Bad Girlfriend,66,205626,True,0.504,0.957,0,-2.657,1,0.0529,0.00298,0.0,0.187,0.676,135.013,4,grunge
+5bVOX6eyHsML2sB4aMlZEi,Hole,Celebrity Skin,Malibu,64,230040,False,0.528,0.904,2,-5.854,1,0.0343,0.000833,0.0,0.174,0.678,122.372,4,grunge
+6JfNf81zML3XVFXZbbtyZ8,Three Days Grace;Lukas Rossi,EXPLOSIONS,Neurotic (feat. Lukas Rossi),59,197253,False,0.471,0.803,4,-3.126,0,0.0384,5.84e-05,7.22e-06,0.11,0.237,142.92,4,grunge
+27sz8XfkjnUqTRJwxjHrS1,Nirvana,With The Lights Out - Box Set,Verse Chorus Verse - Outtake,54,196200,False,0.453,0.938,9,-4.681,0,0.0478,0.000837,0.000171,0.453,0.39,131.77,4,grunge
+2EPLbM7W9OXSYiyEdSC34y,10 Years,Feeding The Wolves,Don't Fight It,30,221653,False,0.409,0.738,4,-4.582,0,0.0353,0.0204,0.0,0.34,0.359,153.955,4,grunge
+7GNLvWRG9itrCk0zarYKmQ,Collective Soul,Collective Soul,December,64,285000,False,0.683,0.645,0,-5.707,1,0.0272,0.589,0.00432,0.18,0.366,121.995,4,grunge
+6wAdJF85cna96BwQn2Pg8c,Hole,Live Through This,Jennifer's Body,58,220533,False,0.401,0.863,11,-7.312,0,0.0447,0.00079,1.39e-06,0.174,0.55,81.65,4,grunge
+1FEK9V9GKsIdMHo1Ii0oow,10 Years,Feeding The Wolves,Shoot It Out,30,199680,False,0.468,0.882,6,-3.906,1,0.0636,0.00347,1.57e-06,0.372,0.327,164.035,4,grunge
+4GiVcDqNQI0fc0yYuRGH9m,Eve 6,Eve 6,Inside Out,69,219466,False,0.483,0.818,11,-7.666,1,0.0444,0.114,0.0,0.367,0.691,175.668,4,grunge
+6eK6eWG03zxQFW8P4OE4Cb,Dead By Sunrise,Out Of Ashes,Crawl Back In,51,182760,False,0.501,0.975,2,-3.361,1,0.0941,0.000422,1.53e-06,0.364,0.348,127.964,4,grunge
+2I75GCnEOzCvNpxCR3XYZH,Alter Bridge,Fortress,Addicted to Pain,52,256866,False,0.519,0.99,1,-3.805,0,0.0985,1.7e-05,0.000251,0.0849,0.285,118.033,4,grunge
+21jEuMn2lf37715rwjow2M,The Verve Pipe,Villains,The Freshmen,63,269466,False,0.571,0.505,1,-9.312,0,0.0238,0.0757,1.04e-05,0.109,0.276,99.562,4,grunge
+4BUMLahhHwt4U3gWZVCBdi,Our Lady Peace,Naveed,Starseed,28,244040,False,0.516,0.907,6,-6.137,1,0.0496,0.000356,0.028,0.0903,0.457,131.913,4,grunge
+0D9x8IzHe1vBj5DIoY7siH,Toadies,Hell Below / Stars Above,Little Sin,27,182200,False,0.649,0.823,6,-4.065,1,0.0771,0.00127,4.93e-05,0.0585,0.649,129.188,5,grunge
+5TxUedy2CM04QihDdOFnsk,Pearl Jam,Vitalogy,Immortality - Remastered,54,318066,False,0.633,0.543,2,-9.142,1,0.0296,0.0798,0.00671,0.0964,0.118,129.089,4,grunge
+2toY6JyyfKy9TwNk3Ou2XG,Matchbox Twenty,North (Deluxe Edition),She's so Mean,61,232320,False,0.672,0.875,0,-3.728,1,0.0378,0.0136,0.0,0.279,0.676,118.014,4,grunge
+1kjMQceh8Jg3nGgWxcTaPp,Toadies,Hell Below / Stars Above,Push The Hand,28,217400,False,0.482,0.94,9,-3.794,1,0.129,0.00719,6.56e-06,0.48,0.611,152.283,1,grunge
+3eMYc6FK9XvyauIaxcJtRS,The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits,Drown,62,270400,False,0.432,0.415,2,-9.755,1,0.0357,0.00849,0.927,0.107,0.189,144.0,4,grunge
+6cADMmQIIt8H9cf8Wfc2Pd,Shaman's Harvest,Red Hands Black Deeds,Soul Crusher,29,236160,False,0.452,0.834,7,-4.976,0,0.0428,0.0124,5.69e-06,0.291,0.513,144.965,4,grunge
+0VbOBom0Ya2zrlSpv7II1C,Collective Soul,Dosage,Heavy,64,174912,False,0.553,0.872,1,-5.617,1,0.0374,0.00109,0.00115,0.0988,0.543,106.927,4,grunge
+4F7VK1jSbLpRFZvgL4AOdc,Pearl Jam,Live On Two Legs,"Hail, Hail - Live at ARCO Arena, Sacramento, CA - July 1998",29,223693,False,0.193,0.963,0,-8.026,1,0.13,0.00526,0.000142,0.973,0.364,150.965,4,grunge
+65yiO2FFFanZhO7rDNQ9mp,Better Than Ezra,Rhino Hi-Five: Better Than Ezra,Desperately Wanting,29,277493,False,0.494,0.913,0,-5.289,1,0.0378,0.000165,0.00898,0.247,0.478,99.92,4,grunge
+16WY2IYR9WgC16gX9Awjud,Black Stone Cherry,Folklore and Superstition,Peace Is Free,29,249933,False,0.382,0.726,2,-5.712,0,0.0312,0.00352,0.0,0.147,0.293,160.106,4,grunge
+143pj28RZeTqEe108JC3hV,Shinedown,Somewhere in the Stratosphere,With a Little Help from My Friends (feat. Will Hoge) - Acoustic; Live from Kansas City [Live Acoustic from Kansas City],29,329333,False,0.283,0.872,2,-3.75,1,0.0615,0.0221,0.0,0.972,0.501,149.905,3,grunge
+4VwPsMcRt1HPVKIdcwY9Uj,Soundgarden,Badmotorfinger (25th Anniversary Remaster),Outshined - Remastered,64,311000,False,0.485,0.841,2,-6.068,0,0.0307,0.000173,0.00686,0.125,0.551,94.867,4,grunge
+78vpAeb6a3bD03scfv71Z8,Thirty Seconds To Mars,Stay,Stay,54,246696,False,0.645,0.448,9,-9.055,0,0.0282,0.455,1.71e-06,0.109,0.108,112.012,4,grunge
+32bqxZEJRJObeNyc8bEiPt,Linkin Park;Kiiara,Heavy (feat. Kiiara),Heavy (feat. Kiiara),50,169800,True,0.59,0.671,9,-6.098,1,0.0706,0.0484,0.0,0.0604,0.438,149.982,4,grunge
+2CpMHblH2jRF9NqtaW8MKZ,Theory of a Deadman,Wake Up Call,Wake Up Call,41,235066,True,0.245,0.715,7,-6.192,1,0.0372,0.0814,0.0,0.341,0.367,75.028,4,grunge
+5beFyfeOIzT9TDplsRbnTT,The Exies,A Modern Way of Living With The Truth,Stray,50,216386,False,0.185,0.779,0,-4.295,0,0.0541,0.00137,1.23e-06,0.0944,0.263,159.076,4,grunge
+1Vz8DpQYciyM1gdGtwqVg2,Linkin Park;Planet Asia;Rasco,Reanimation,Ppr:kut (Cheapshot and Jubacca Reanimation) [feat. Rasco and Planet Asia],43,206346,False,0.565,0.897,1,-6.319,1,0.111,0.000571,0.000879,0.646,0.601,150.356,4,grunge
+4uRW7Q5JdBNmpCMknCav6w,Linkin Park;Zion I,Reanimation,Plc.4 Mie Hæd (Amp Live Reanimation) [feat. Zion],43,260746,False,0.641,0.902,1,-7.068,1,0.18,0.181,0.0,0.654,0.524,133.273,4,grunge
+3mZkbmFnEpUCwFdoKHvOBL,Daughtry,Daughtry,What About Now,43,250533,False,0.362,0.835,9,-2.826,0,0.0439,0.0737,0.0,0.166,0.264,161.946,4,grunge
+7KPTwEENcZ5r4KJ6FHmhLP,Daughtry,It's Not Over....The Hits So Far,Home,48,255253,False,0.461,0.855,6,-3.235,1,0.0338,0.00416,7.14e-06,0.19,0.383,143.918,4,grunge
+0zKs47fghFBtrEpxyUR1Wz,Linkin Park,One More Light Live,Burn It Down - One More Light Live,44,253573,True,0.658,0.781,9,-6.472,0,0.0509,0.0639,0.0,0.485,0.542,110.008,4,grunge
+571pa5LGKPGLNTLcobbrgr,Daughtry,Break The Spell (Expanded Edition),Crawling Back To You,50,225440,False,0.426,0.908,0,-3.437,0,0.0504,0.00686,0.0,0.167,0.16,150.979,4,grunge
+3ENHpbTuY72FukZbwGP6bc,Drowning Pool,Sinner,Tear Away,63,254200,False,0.611,0.648,0,-4.579,1,0.0441,0.00055,0.0028,0.0846,0.457,132.983,4,grunge
+5JYw0YEDUopuXE7SwFhLqJ,3 Doors Down;Bob Seger,Seventeen Days,Landing In London,47,271373,False,0.475,0.493,4,-6.848,0,0.0267,0.51,4.06e-06,0.116,0.142,147.425,4,grunge
+1VXt7X8M9sHvdeNI7GUuYJ,Linkin Park;Phoenix Orion,Reanimation,Rnw@y (Backyard Bangers Reanimation) [feat. Phoenix Orion],44,193400,False,0.602,0.921,7,-4.633,1,0.0604,0.00042,0.000272,0.0983,0.545,108.692,4,grunge
+3xXKwkmkrpZmGpIof83xbE,Breaking Benjamin,Shallow Bay: The Best Of Breaking Benjamin (Explicit),So Cold,56,273040,False,0.485,0.776,0,-5.472,0,0.0525,0.00225,0.000102,0.124,0.26,153.055,4,grunge
+6xdSzlVVKW3fQidPxBImTG,Hoobastank,Hoobastank (20th Anniversary Edition),Running Away,55,178440,False,0.514,0.819,9,-5.475,0,0.0418,0.00101,1.67e-06,0.195,0.488,100.4,3,grunge
+778mCz3rZsGeTSXn4LIuQA,Grey Daze,Amends,Sometimes,44,206680,False,0.463,0.9,4,-3.757,0,0.0523,0.0298,0.000459,0.0651,0.428,159.964,3,grunge
+536bkD2pabwDI6kHCzHv5T,Breaking Benjamin,Dark Before Dawn,Hollow,53,231053,False,0.346,0.846,1,-4.796,0,0.0621,1.88e-05,0.000858,0.117,0.28,143.152,4,grunge
+4SJoEhpI6C61wtUfxSHMGc,Linkin Park,Hybrid Theory,By Myself,44,189800,False,0.544,0.935,6,-4.159,0,0.173,0.0171,0.00301,0.297,0.339,103.026,4,grunge
+2G46YgY00x0JN7ou4mupqr,Blue October,Foiled For The Last Time,Hate Me,48,380053,True,0.458,0.684,4,-5.664,0,0.0335,0.506,0.0,0.0947,0.198,92.648,4,grunge
+2yBAPa9HZj3P2szSaaj4k1,Alice In Chains,Unplugged,"Down In A Hole - Live at the Majestic Theatre, Brooklyn, NY - April 1996",56,346026,False,0.554,0.515,6,-8.534,1,0.024,0.0883,2.7e-05,0.883,0.432,95.125,4,grunge
+4VedfquAzkjR15ntcWmNfL,Hole,Celebrity Skin,Petals,59,329240,False,0.449,0.824,4,-6.567,0,0.0403,5.18e-05,0.0337,0.368,0.223,114.907,4,grunge
+579801BT5wkzD5IVwRLI8t,Soundgarden,Live to Rise,Live to Rise,45,280653,False,0.483,0.742,4,-5.006,0,0.0326,0.000969,0.00468,0.835,0.252,84.049,4,grunge
+1aC1IBAETh2XYGOE8kCC6t,3 Doors Down,The Better Life,Loser,60,264800,False,0.493,0.88,6,-6.424,0,0.0693,0.0108,2.66e-05,0.226,0.389,147.913,4,grunge
+3SSflpFdIv5r6x2fOcQvrH,Daughtry,Dearly Beloved,Changes Are Coming,49,221224,False,0.368,0.845,6,-4.87,0,0.057,0.000243,1.1e-06,0.253,0.314,82.781,4,grunge
+4HlMOXxwF9SYG1RoJxEjio,Linkin Park,Hybrid Theory,Pushing Me Away,43,191440,False,0.484,0.913,6,-4.305,1,0.0425,0.000391,0.0,0.309,0.279,103.103,4,grunge
+3AoSuIey90cH9PI8HUoHOQ,Sixx:A.M.,The Heroin Diaries Soundtrack,Life is Beautiful,62,215000,False,0.474,0.895,2,-4.443,0,0.0628,0.000254,0.000177,0.088,0.399,89.998,4,grunge
+5TZbtpZcTWKEn81Du4hiTb,Nirvana,Bleach,Mr. Moustache,55,203929,False,0.194,0.898,0,-6.12,1,0.0608,5.58e-06,0.141,0.108,0.482,177.191,4,grunge
+2RyiGdY33PR4aCTUolEhk7,Nirvana,MTV Unplugged In New York,On A Plain,56,224733,False,0.703,0.795,1,-8.632,1,0.0409,0.433,0.0,0.453,0.631,117.946,4,grunge
+49t1GWE6ZiEoBgN92oMDdM,Hole,Live Through This,Doll Parts,60,211960,False,0.245,0.542,7,-7.159,1,0.0324,0.147,4.05e-06,0.102,0.365,204.824,4,grunge
+6njG9CbhFC2FrCEVroE0ma,Alter Bridge,Fortress,Cry of Achilles,47,390866,False,0.311,0.983,6,-4.042,1,0.177,0.000139,0.000252,0.483,0.213,139.921,4,grunge
+4dXBG3zz9SzaPBtm4Fv91x,Nirvana,Incesticide,Been A Son - BBC Mark Goodier Session,55,115600,False,0.387,0.914,9,-10.101,1,0.0862,2.7e-06,0.0,0.258,0.556,154.455,4,grunge
+22bX2FwXSvG49G0bPWm5nc,Creed,Human Clay,What If,58,318093,False,0.433,0.895,2,-5.548,0,0.0587,0.000127,1.7e-05,0.358,0.246,149.896,4,grunge
+6wb6eqZVfvmj2FVg9jCV1K,Alter Bridge,Blackbird,Before Tomorrow Comes,45,246786,False,0.35,0.975,3,-3.242,1,0.129,8.65e-05,1.36e-05,0.216,0.267,160.069,4,grunge
+679zqcQuKakOGI93NPCqB8,Pearl Jam,No Code,Present Tense,56,345786,False,0.403,0.272,2,-13.492,1,0.0325,0.403,0.17,0.0806,0.105,130.872,4,grunge
+1xvabzc77mLFpP7WpaDtmu,Violet Soda,Tangerine,Candyman,28,175514,False,0.472,0.896,1,-4.711,0,0.0402,0.00169,0.0,0.091,0.746,135.947,4,grunge
+74Oym97rxi071QbQrOruzH,Chris Cornell,Higher Truth,Before We Disappear,53,229680,False,0.399,0.673,10,-5.635,1,0.0402,0.213,0.0,0.161,0.326,147.349,4,grunge
+4jM6Tl8062cc9gTJgTZTpx,Linkin Park;100 gecs,One Step Closer (100 gecs Reanimation),One Step Closer - 100 gecs Reanimation,51,141071,False,0.632,0.708,1,-5.247,1,0.0829,0.0492,0.00306,0.125,0.687,95.03,4,grunge
+6aWrQuLEvVxUUKQQLxGwc9,Adema,Unstable,Promises,29,256333,False,0.444,0.86,5,-4.151,0,0.0367,0.00355,1.29e-06,0.105,0.421,156.142,4,grunge
+7Fm3NhbAYHvTQUhboim9FB,Alice In Chains,Jar Of Flies,Rotten Apple,60,418466,False,0.31,0.637,3,-8.595,0,0.037,0.215,0.116,0.0619,0.426,147.4,4,grunge
+7AM2eL1sBWCCTYXoQ1xTGg,Balance And Composure,The Things We Think We're Missing,When I Come Undone,30,228520,False,0.458,0.972,10,-4.393,0,0.0676,1.1e-05,0.299,0.194,0.262,114.476,4,grunge
+4n3mp3DC7JrdXYJCDdwKhd,Silverchair,The Best Of - Volume One,Ana's Song (Open Fire) - Acoustic Re-Mix,28,229666,False,0.388,0.434,4,-9.555,1,0.0253,0.349,0.000166,0.232,0.191,78.445,4,grunge
+6wO0vMRAJB0r1lEWBJZNOq,Nickelback,Dark Horse,Something in Your Mouth,64,219253,False,0.663,0.977,0,-3.024,1,0.0575,0.00137,1.77e-05,0.173,0.746,129.975,4,grunge
+1gn1jSK8io8C5kK7l0lmEN,Shinedown,The Studio Album Collection,45,28,249573,False,0.453,0.65,7,-4.508,1,0.0271,0.00251,0.0,0.158,0.225,152.133,3,grunge
+3P94c9FKHvcbPhKIOxhf1N,The Wallflowers,Collected: 1996-2005,Sleepwalker,29,212266,True,0.509,0.85,4,-6.897,0,0.0284,0.000294,0.0,0.115,0.797,128.838,4,grunge
+74kd56Y1oNbQVEQnMdO9LH,Pearl Jam,Vitalogy,Nothingman - Remastered,56,274440,False,0.274,0.387,5,-10.206,1,0.0304,0.499,0.000345,0.108,0.15,96.018,4,grunge
+5fKZJHzJ9d3MADArbm9muW,Jane's Addiction,Nothing's Shocking,Mountain Song,62,242720,False,0.324,0.931,9,-6.803,1,0.0837,0.0155,0.0252,0.277,0.313,82.748,4,grunge
+3cFct5HuIH4woPOjiOTYEF,Live,Throwing Copper,Waitress,28,168960,False,0.363,0.699,1,-8.05,1,0.0408,0.00861,0.0493,0.203,0.359,182.048,4,grunge
+1IyHPt3b6BrhdMwNyk0VM0,Filter,Short Bus,"Hey Man, Nice Shot - Remastered Version",66,314440,False,0.48,0.588,2,-10.773,1,0.0339,0.00213,0.712,0.319,0.305,177.018,4,grunge
+65PSBrWwQpadwkvO6weZel,Eve 6,Horrorscope,Jet Pack,29,213133,False,0.475,0.883,2,-5.265,1,0.0594,0.0133,0.0,0.196,0.687,179.902,4,grunge
+5AkGgZx0IXEAwPd1HFyu5M,Pearl Jam,Live On Two Legs,"Go - Live at Continental Airlines Arena, E. Rutherford, NJ - September 1998",27,161440,False,0.171,0.993,7,-6.505,1,0.219,0.000353,0.000606,0.892,0.06,150.621,4,grunge
+2YHIP0JrmNPJxwuUE45o7l,Creed,Throwback Songs,With Arms Wide Open,43,278440,False,0.415,0.533,0,-8.445,1,0.0308,0.0037,0.000732,0.176,0.126,138.929,4,grunge
+0k3Fdqu4xYh7P9G7GsDXSo,Linkin Park;Kiiara,Heavy,Heavy,18,169800,False,0.587,0.682,6,-6.091,0,0.0963,0.0345,0.0,0.0586,0.374,149.978,4,grunge
+3yelVZf4p9wDpWjPav5mOn,Thirty Seconds To Mars,AMERICA,Rescue Me,52,217960,False,0.478,0.676,11,-6.155,0,0.0708,0.00825,0.0,0.0583,0.416,148.039,4,grunge
+4kBDDlh8PN6SRobI0uANK1,Badflower,Move Me,Move Me,54,204029,False,0.283,0.677,11,-5.535,0,0.0347,0.0722,0.0,0.19,0.188,81.246,5,grunge
+7iHpX7m9owsqawBy008yvF,Seether,Against The Wall (Acoustic Version),Against The Wall - Acoustic Version,49,206824,False,0.58,0.488,1,-10.585,1,0.0262,0.255,2.63e-05,0.108,0.13,131.998,4,grunge
+43Tzmi4Lw0GcZRAE4xqwOg,3 Doors Down,3 Doors Down,Citizen/Soldier,48,232933,False,0.638,0.818,8,-5.524,1,0.0334,0.0136,0.0103,0.191,0.47,97.021,4,grunge
+4X2Q2vObLCwIDmd15D3kcU,Linkin Park,Waiting for the End,Waiting for the End,34,231680,False,0.487,0.961,4,-4.139,1,0.132,0.0415,1.14e-06,0.553,0.324,170.005,4,grunge
+6Dtq63g5m2sMIVd1Aw9ZDD,Three Days Grace,One-X,Over and Over,55,191906,False,0.434,0.763,0,-4.123,1,0.0327,0.0283,0.0,0.153,0.249,138.941,4,grunge
+16AFbRYIdpesOleGTKClHs,Linkin Park,The Hunting Party,Mark the Graves,43,305013,False,0.442,0.925,9,-3.781,1,0.0648,0.00195,0.496,0.0851,0.196,134.94,4,grunge
+5SYb42keVyr5S9smozZRWl,Daughtry,Baptized (Deluxe Version),I'll Fight,49,180733,False,0.588,0.772,6,-4.444,1,0.0626,0.00562,0.0,0.239,0.729,155.033,4,grunge
+5jsDxDkJ1PqyYUWhDMr86B,Stone Sour,Hydrograd,Song #3,61,256533,False,0.481,0.945,1,-5.468,1,0.0813,0.00264,0.0,0.135,0.427,157.059,4,grunge
+135cNW8kQtiTId7qcsJfVC,3 Doors Down;Jack Joseph Puig,The Greatest Hits,Here Without You,55,235640,False,0.469,0.67,10,-4.604,0,0.027,0.00815,0.0,0.132,0.158,144.045,4,grunge
+5G2c0FDSToVnmhrk9EJuv2,Alter Bridge,AB III,Isolation,46,253720,False,0.429,0.963,8,-3.342,1,0.0733,7.22e-06,2.19e-06,0.184,0.349,96.97,4,grunge
+2nBWxgSZ79w9l6t2rUg6pl,Shinedown,The Sound of Madness,Call Me,61,222200,False,0.413,0.445,1,-7.259,0,0.025,0.438,0.0,0.111,0.117,95.562,4,grunge
+1YxwrB0UypHNMghmFM9ZQR,Linkin Park,Minutes to Midnight (Deluxe Edition),In Between,37,196803,False,0.454,0.498,10,-10.585,0,0.0417,0.347,0.00686,0.108,0.318,193.928,4,grunge
+1eCy6RBIaddmQqsw4Jg8bW,Linkin Park,"Live 8 (Live, July 2005)","In the End - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",30,259056,False,0.381,0.944,6,-7.461,1,0.188,0.00522,0.0,0.994,0.27,103.945,4,grunge
+4m1P1BSg9nLxaWbvPhNdhw,Linkin Park,Meteora,Nobody's Listening,49,178866,False,0.502,0.831,2,-3.723,1,0.295,0.105,1.3e-06,0.174,0.451,199.972,3,grunge
+0is4yL58CcQ4Gv4WgTGr9N,Sick Puppies,Connect,Gunfight,62,175720,True,0.386,0.812,0,-5.435,1,0.054,7.19e-05,0.00036,0.0809,0.508,173.102,4,grunge
+6HnZsLUDrG3HTSbh8sq2u3,Alice In Chains,Jar Of Flies,I Stay Away,62,254400,False,0.174,0.781,6,-7.066,1,0.0406,0.0452,0.00346,0.0822,0.276,81.37,4,grunge
+2QZxpZDfJjhEGclSszvMVX,Three Days Grace,One-X,It's All Over,54,249320,False,0.321,0.82,0,-4.459,0,0.0422,0.00305,0.0,0.34,0.198,166.859,4,grunge
+6264zKFgXM13JuRBX4MMyD,Staind,Dysfunction,Mudshovel,65,282093,True,0.328,0.826,6,-5.085,1,0.0362,0.000224,0.000944,0.0818,0.341,106.606,4,grunge
+3G1DSRBTgxytBpYqkscT2q,Linkin Park,Meteora (Bonus Edition),From the Inside - Live LP Underground Tour 2003,46,175960,False,0.44,0.961,1,-4.467,0,0.0787,0.000993,0.000102,0.409,0.542,95.035,3,grunge
+3QIPgdsvQpX6caei3iNJCe,Linkin Park,Hybrid Theory (20th Anniversary Edition),Forgotten,47,194426,False,0.616,0.947,8,-3.817,0,0.11,0.0132,0.0,0.366,0.498,108.198,4,grunge
+5PZo9NMyNLxOlpEFoYo611,Adelitas Way,Notorious,Notorious,58,170177,False,0.53,0.967,0,-2.108,1,0.0657,0.000507,0.205,0.0786,0.642,99.962,4,grunge
+2dd5bs4tvvUO5M4wJvkhYy,Dx Aneurysm,Phenomenon Of Life,My Saturation,26,212000,True,0.617,0.902,9,-3.969,1,0.0354,3.88e-05,0.0595,0.211,0.353,119.986,4,grunge
+3hAaCXvutknQugsPFogh8H,Marcy Playground,"Lunch, Recess & Detention",Sex And Candy,59,172486,False,0.55,0.702,11,-5.693,0,0.0281,0.046,1.4e-06,0.119,0.515,159.968,4,grunge
+4C11fsOR3N1GZ0dttOy4pR,Cold,Year Of The Spider,Wasted Years,47,247040,False,0.462,0.574,8,-6.516,1,0.0259,0.0496,0.0,0.145,0.128,87.029,4,grunge
+7rOv6HovIJvYHXCg0cVfTk,Breaking Benjamin,Ember,Feed the Wolf,54,198040,False,0.4,0.982,8,-2.147,1,0.123,3.15e-05,8.2e-05,0.133,0.384,155.046,3,grunge
+1fnULsZuORnAgCFFbM8nTZ,Shinedown,Threat to Survival,State of My Head,64,205653,False,0.486,0.94,7,-4.237,0,0.0605,0.00919,0.0,0.0777,0.42,79.727,4,grunge
+1q9ru9Wx2Q9Ez8irkGcyFa,Stone Sour,"House of Gold & Bones, Part 1",Tired,56,251840,False,0.312,0.934,3,-3.793,0,0.0683,0.000606,6.76e-05,0.115,0.471,201.991,4,grunge
+7CI0VS6ETno5mgHi4PoCrY,Alice In Chains,Jar Of Flies,Don't Follow,57,262133,False,0.314,0.37,1,-9.921,1,0.0286,0.781,0.139,0.122,0.28,116.066,1,grunge
+67HArfTf0CNIrNDwrHgEvG,Our Lady Peace,Gravity,Not Enough,45,273626,False,0.458,0.895,1,-5.058,0,0.0894,0.000255,0.0,0.0842,0.177,152.316,4,grunge
+6TDlUUqRocCBLaDmOsWuOy,Alter Bridge,AB III (Special Edition),Wonderful Life,38,319586,False,0.159,0.814,7,-4.073,1,0.0436,0.00221,0.0,0.116,0.324,152.033,3,grunge
+2u8NmvhYX6wiviyxJTOhEi,Foo Fighters,Medicine At Midnight,Making A Fire,56,255106,False,0.506,0.946,9,-4.173,1,0.0652,2.21e-05,0.00226,0.0528,0.651,91.111,3,grunge
+67mApPt3dL1gDnYcf6dc9V,Local H,LIFERS,Hold That Thought,27,199334,True,0.328,0.956,9,-4.173,0,0.0713,0.00555,2.07e-05,0.219,0.439,206.071,4,grunge
+6AGQ7pKkcnc6RVjtARt1ph,Breaking Benjamin,Dark Before Dawn,Breaking the Silence,54,181666,False,0.476,0.907,7,-3.938,1,0.0593,3.98e-05,4.32e-06,0.353,0.303,96.515,4,grunge
+22wnEMAQaNrbot1dwmeucH,Audioslave,Revelations,Revelations,56,252106,False,0.534,0.882,7,-4.161,1,0.0482,0.00785,0.0,0.107,0.368,113.045,4,grunge
+6rlo6XpkwwlFRksxLsCqYK,Jane's Addiction,Jane's Addiction (Live),1%,30,211037,False,0.363,0.88,9,-10.527,1,0.0411,0.0412,1.34e-06,0.453,0.606,95.657,4,grunge
+59TLlOD6sH4cCTSF6ITRkA,Breaking Benjamin,Phobia (Explicit Version),Breath,53,218466,False,0.467,0.865,5,-4.158,0,0.0351,0.000127,0.000339,0.088,0.328,91.447,4,grunge
+1xzL74JWXGUWcAy2c7CsUg,Nickelback,No Fixed Address,Satellite,51,237746,False,0.424,0.895,11,-4.353,1,0.0428,0.117,0.0,0.0843,0.505,165.917,4,grunge
+3CtphwpjC0XjIVpLFvGiQR,Temple Of The Dog,Temple Of The Dog (Deluxe Edition),Hunger Strike - 25th Anniversary Mix,62,246266,False,0.384,0.735,7,-6.522,1,0.0317,0.0252,2.76e-05,0.114,0.312,137.834,4,grunge
+5hE3T2329sdMmIrHxjhQDL,Live,Throwing Copper,Selling The Drama,59,208293,False,0.45,0.914,6,-6.741,1,0.0647,0.0106,8.18e-05,0.101,0.336,124.42,4,grunge
+2O2ii9OPZYh1NBXo9FtE0Y,Alice In Chains,Black Gives Way To Blue,Check My Brain,61,237906,False,0.441,0.845,10,-3.315,1,0.0462,3.28e-06,0.0533,0.723,0.304,113.989,4,grunge
+4A8fc0O86u7HykvgeMb8l0,Shaman's Harvest,The Devil In Our Wake (Radio Edit),The Devil In Our Wake - Radio Edit,27,199908,False,0.482,0.926,11,-3.866,0,0.0565,1.61e-05,0.00377,0.0636,0.44,141.964,4,grunge
+2SHTKB8YYlawTGIuJ2b2ok,Nirvana,Bleach,About A Girl,54,168428,False,0.413,0.875,6,-7.48,0,0.031,5.13e-06,0.00058,0.209,0.575,131.951,4,grunge
+5xiAcvS8jPpJaaSv1BWAGa,Shinedown,Somewhere in the Stratosphere,Devour - Live from Washington State,27,236213,False,0.4,0.998,0,-2.319,0,0.0997,0.000107,0.0501,0.983,0.0384,88.458,4,grunge
+7FV6mYpw5uESNzvp4mtl0L,Balance And Composure,The Things We Think We're Missing,Cut Me Open,30,333493,False,0.214,0.976,0,-4.772,0,0.0566,1.72e-05,0.0019,0.107,0.336,157.007,4,grunge
+6EwgayfOiIQzOXBbFW1XW9,Eve 6,Essential 90's,Inside Out,28,219480,False,0.484,0.817,11,-7.66,1,0.0435,0.104,0.0,0.361,0.728,175.518,4,grunge
+6pnXgTwCoVf8g44E0OPJeE,The Presidents Of The United States Of America,Pure Frosting,Man (Opposable Thumb),28,196266,False,0.391,0.834,1,-6.657,1,0.048,0.0233,9.85e-05,0.363,0.694,92.147,4,grunge
+6EepDoe9OmhDXnOQHslsUl,Everclear,Sparkle And Fade,Chemical Smile,29,109691,False,0.483,0.997,2,-4.142,1,0.151,0.00204,1.73e-06,0.325,0.214,103.784,4,grunge
+2ikUwLex9wXpIOEgY45Wk7,Daughtry,It's Not Over....The Hits So Far,September,48,243773,False,0.459,0.718,10,-5.596,1,0.0319,0.0505,0.0,0.0951,0.34,149.791,4,grunge
+4TMhakloPMPS84lNHNTSa3,Nirvana,Nevermind (30th Anniversary Super Deluxe),Smells Like Teen Spirit - Remastered 2021,49,300893,False,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,4,grunge
+7g8U2TPh6JPFJK5LgqsNeE,Linkin Park,Transformers - The Album,What I've Done,31,205613,False,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,4,grunge
+0HRM12PnjG9s2Aq1v8dWJu,Linkin Park,Transformers: Dark of the Moon - The Album,Iridescent (Version 2),35,239706,False,0.584,0.692,0,-5.992,1,0.0313,0.0762,0.00122,0.0971,0.379,120.016,4,grunge
+6gcTOMaiGWXEKWHsneDDbt,32 Leaves,Welcome to the Fall,All Is Numb,53,257866,False,0.411,0.691,1,-7.894,0,0.0321,1.55e-05,0.0522,0.0987,0.189,142.987,4,grunge
+0vgpbEfkcUF09VNkcrQRWi,Stone Sour,Audio Secrecy (Special Edition),Hesitate,50,256346,False,0.448,0.805,10,-4.194,1,0.0365,0.000946,6.12e-05,0.134,0.201,125.998,4,grunge
+3cbTV3IZZvSBYVcl0xuZbY,Local H,As Good As Dead,Bound For The Floor,66,222960,False,0.654,0.53,6,-7.409,1,0.0556,0.000113,0.0197,0.0534,0.584,119.284,4,grunge
+6a9SPVrXyrlVh5Fh08f8Bz,Alice In Chains,Dirt (2022 Remaster),Rain When I Die (2022 Remaster),58,361706,False,0.422,0.859,9,-6.778,1,0.0757,0.0183,0.000673,0.209,0.203,120.078,3,grunge
+69Tx9JvyHEMRLJxjPyFsuy,Red,Gone (Deluxe Edition),Unstoppable,49,220520,False,0.352,0.693,7,-6.612,1,0.0628,0.000142,2.3e-05,0.12,0.151,175.914,4,grunge
+4uqnwCUh8XwXC3dSM2wRSK,Dx Aneurysm,Phenomenon Of Life,Story Friendship Together,26,236399,True,0.329,0.933,0,-4.081,1,0.0456,2.45e-05,0.0021,0.0713,0.487,101.559,4,grunge
+3JAu2BH8sSI46rJGzQerb6,Linkin Park,Hybrid Theory,Forgotten,43,194426,False,0.615,0.947,8,-3.817,0,0.11,0.0132,0.0,0.366,0.498,108.193,4,grunge
+52ajPhs8jo0XjmQE8WjaJu,Linkin Park,Meteora (Bonus Edition),Easier to Run - Live LP Underground Tour 2003,45,202466,False,0.499,0.92,3,-4.723,0,0.0589,0.0714,0.0,0.116,0.315,105.018,4,grunge
+5xgXG5BfCNO6KJrQOHKprg,Breaking Benjamin,Ember,Tourniquet,54,249466,False,0.179,0.953,5,-2.686,1,0.202,1.5e-05,0.00109,0.363,0.337,153.955,5,grunge
+6oe2HcrgnNU66Eyq8BY45Z,Three Days Grace,Outsider,Infra-Red,58,230933,False,0.568,0.907,5,-4.641,0,0.0488,0.00115,0.0,0.0982,0.337,112.037,4,grunge
+61EWvc5vPvrj1Ir9aeVHEK,Sick Puppies,Tri-Polar (International Version),Maybe,46,205253,False,0.476,0.922,7,-4.313,1,0.0609,0.0123,0.0,0.253,0.591,167.916,4,grunge
+0Q9f1NBvKCC37V4oJVEgCh,Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Breakdown,60,209266,False,0.417,0.871,1,-3.54,1,0.039,0.000483,3.43e-05,0.0867,0.188,142.003,4,grunge
+0CA3RxBx2xSQXPfpmUBK1v,Three Days Grace,Three Days Grace,Just Like You,64,186893,False,0.373,0.737,1,-5.282,1,0.0297,9.4e-06,0.0,0.0696,0.565,177.9,4,grunge
+64VuvLffzkSl8d1BLgYKs0,Alter Bridge,Blackbird,Watch Over You,48,259133,False,0.221,0.656,7,-5.421,1,0.0362,0.0837,0.000517,0.161,0.128,172.32,4,grunge
+6BH5Trrr2s7i31GkjqB6dO,Badflower,This Is How The World Ends,Fukboi,51,159916,True,0.401,0.933,7,-3.111,1,0.112,0.000157,0.000401,0.215,0.484,182.131,4,grunge
+78iMIaSjeVlUoNa7rehPOU,Alice In Chains,Black Gives Way To Blue,Black Gives Way To Blue,49,183560,False,0.205,0.331,8,-9.265,1,0.0302,0.822,0.000695,0.0891,0.113,179.982,4,grunge
+575Sz3R4xOhueUstPObylF,Puddle Of Mudd,Come Clean,Control,63,230066,True,0.444,0.913,6,-3.452,1,0.0992,0.00308,0.0,0.38,0.569,163.689,4,grunge
+4nRyBgsqXEP2oPfzaMeZr7,Pearl Jam,Ten,Once,58,231367,True,0.413,0.885,2,-7.695,0,0.0777,0.00535,1.97e-06,0.166,0.211,113.807,4,grunge
+01z3wyn02forxUQHEDAa0R,Creed,My Own Prison,What's This Life For,56,248226,False,0.393,0.78,7,-4.771,1,0.0317,0.00966,1.37e-05,0.105,0.204,141.772,4,grunge
+5yBSe9ngIvMgZB3IAI6qw6,Alter Bridge,Blackbird,Rise Today,45,261399,False,0.337,0.964,7,-4.034,1,0.148,0.00257,4.11e-06,0.13,0.153,159.935,4,grunge
+33P0xVFGIPfCB2ZBCTGTY9,Creed,Weathered,Weathered,55,330240,False,0.417,0.935,7,-4.658,1,0.0547,0.000968,4.18e-06,0.228,0.318,143.893,4,grunge
+7v0mtl6oInUtHOmTk2b0gC,Foo Fighters,Wasting Light,Rope,61,259026,False,0.507,0.728,11,-4.874,0,0.0382,2.52e-05,7.41e-05,0.0725,0.535,138.19,4,grunge
+2Mku6qLoSNmDufwZ4rnzma,Ashes Of Soma,Ashes of Soma,Bedroom Walls,26,180845,False,0.444,0.85,9,-4.325,1,0.0353,1.29e-05,0.016,0.201,0.386,94.968,3,grunge
+7dIh8FF0EzYKS8STv3v4F4,Foo Fighters,There Is Nothing Left To Lose,Aurora,56,349680,False,0.586,0.858,9,-5.254,1,0.0313,0.00481,0.469,0.238,0.278,122.996,4,grunge
+60l2m3BD5VY0HSc3xmSpPI,Alice In Chains,Facelift,Bleed The Freak,60,242600,False,0.245,0.749,8,-9.352,0,0.0599,0.00252,7.87e-06,0.185,0.221,118.363,4,grunge
+44RW9FEY76mLQCRQUjT0Zt,Blind Melon,Blind Melon,Change,62,221866,False,0.433,0.46,2,-10.441,1,0.0343,0.606,4.36e-05,0.175,0.536,77.525,4,grunge
+7I08C1Y8aVtTM89PlRqdd9,Balance And Composure,The Things We Think We're Missing,Ella,29,89133,False,0.416,0.759,9,-6.76,1,0.0378,0.00296,0.711,0.174,0.0643,107.953,4,grunge
+4M1ytYOVoUJWEHrjbeuaDx,The Presidents Of The United States Of America,Kudos to You!,Crappy Ghost,27,146482,False,0.673,0.854,8,-4.614,1,0.134,0.109,2.6e-05,0.282,0.852,97.321,4,grunge
+4dZ4iHhsqQAQ4em4abLB6C,Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Rise Above This,59,203893,False,0.533,0.83,1,-3.092,1,0.0324,0.011,2.98e-06,0.0801,0.249,120.028,4,grunge
+20iv6eIFgXokinSmgAkVxS,Alter Bridge,One Day Remains,Down To My Last,43,286466,False,0.326,0.871,8,-3.626,1,0.0552,0.000111,0.0,0.281,0.39,150.172,4,grunge
+2TAQ9YGehOKWDqDak5DuXc,Stone Temple Pilots,Thank You,Plush,62,310400,False,0.417,0.913,7,-6.049,0,0.0441,0.00248,1.09e-06,0.166,0.439,144.591,4,grunge
+2se8Y1IIMBnUSqJD6o0wv6,Everclear,William Shakespeare's Romeo & Juliet,Local God,27,235893,False,0.582,0.954,7,-7.899,1,0.0563,0.000821,0.000309,0.222,0.73,112.003,4,grunge
+1yUW9yyvB0RrNoD401vc2d,The Presidents Of The United States Of America,II,Lunatic To Love,27,177466,False,0.571,0.829,1,-6.173,1,0.0622,0.0604,0.000269,0.117,0.444,102.369,4,grunge
+3qYDK9O2x877S64cvV8K46,Shinedown,Somewhere in the Stratosphere,I Dare You - Live from Washington State,26,223520,False,0.55,0.977,8,-2.147,1,0.05,8.44e-05,0.00806,0.214,0.259,106.985,4,grunge
+75guQBmG2pdQDMXrd1Mffz,Live,Live At The Paradiso Amsterdam,The Dolphin's Cry - Live,27,277972,False,0.16,0.864,8,-5.408,1,0.0684,0.0365,0.0,0.964,0.34,160.067,4,grunge
+6Q2R6ZvhHui2QbHCFv3dUE,Caroline's Spine,Attention Please,Attention Please,25,186226,False,0.568,0.981,8,-3.526,1,0.0952,0.00143,1.55e-05,0.402,0.283,129.862,4,grunge
+75ig6s8C6biFlBeGyHAQ3g,Matchbox Twenty,The Matchbox Twenty Collection,Cold,27,194560,False,0.439,0.947,7,-3.491,1,0.122,0.00667,7.36e-06,0.364,0.671,88.219,4,grunge
+5eMiXtAZvUFrUP8c1yZTkx,Shinedown,The Studio Album Collection,Save Me,26,213933,False,0.524,0.816,11,-3.49,0,0.0308,0.00044,0.0,0.0777,0.252,116.026,4,grunge
+4bmV5s9lW9DrGYKjfdUQKP,Shinedown,The Studio Album Collection,Sound of Madness,26,233986,False,0.328,0.939,2,-1.654,0,0.0423,4.93e-05,0.0065,0.337,0.329,185.971,4,grunge
+0io12zlEXifJzUbTx2d127,The Smashing Pumpkins,CYR,Adrennalynne,28,222093,False,0.674,0.705,2,-8.003,0,0.0344,0.0032,3.11e-05,0.0837,0.199,146.058,4,grunge
+0TCCfsT1a8x6p0MG0omJxi,Shinedown,The Studio Album Collection,Fly from the Inside,27,235026,False,0.474,0.924,5,-4.277,1,0.0467,3.37e-05,0.00105,0.044,0.345,96.146,4,grunge
+6EPbxf6TBE9YidKIficNPj,Better Than Ezra,Greatest Hits,King of New Orleans,27,247880,False,0.392,0.892,9,-4.969,1,0.059,0.000119,0.00286,0.0823,0.684,167.657,4,grunge
+1LKsr2VgtyUghNoTWoPEXS,Silverchair,Neon Ballroom,Black Tangled Heart,26,273466,False,0.48,0.554,5,-7.296,1,0.0291,0.16,0.0167,0.217,0.156,137.56,3,grunge
+1kMt9DMzQZJlWKQLkwYDYO,Live,Best Of Live,Run To The Water,27,267306,False,0.153,0.855,8,-4.488,0,0.0531,0.0017,0.000682,0.11,0.285,180.262,4,grunge
+66dpeKhmayj4OdsnfgO1Xh,Buckcherry,15,Broken Glass,28,213293,False,0.426,0.987,2,-3.616,1,0.0606,0.00118,3.37e-06,0.167,0.452,176.925,4,grunge
+6Wlq86hkyVkLVhpYvwHVBU,Everclear,So Much For The Afterglow,Why I Don't Believe In God,27,257137,False,0.522,0.845,8,-8.176,1,0.149,0.083,0.0,0.982,0.582,168.872,4,grunge
+3kU2XrKndUNFrVW6UwVML1,Hinder,Extreme Behavior,Get Stoned,47,218386,False,0.448,0.933,7,-4.082,0,0.0421,0.000417,0.000454,0.219,0.505,75.991,4,grunge
+5XOs6i10yHUw6HUQ0cJDIa,The Exies,Head For The Door,Tired Of You,43,239600,False,0.369,0.643,3,-5.098,1,0.0346,0.00323,0.0,0.0907,0.212,175.233,4,grunge
+5tavbOJXnynWlwijfausey,Linkin Park,Reanimation,By_Myslf (Josh Abraham and Mike Shinoda Reanimation),41,222440,False,0.552,0.965,8,-4.873,0,0.102,0.000636,0.0924,0.119,0.258,103.212,4,grunge
+2AilQKeh6r7vWk29OvrrzU,12 Stones,Anthem For The Underdog (Bonus Track Version),This Dark Day,52,202333,False,0.229,0.864,11,-3.935,0,0.075,0.00371,0.0,0.315,0.48,172.129,3,grunge
+2KLX7YuMHdGxiMevRe5W7k,Linkin Park,One More Light (Steve Aoki Chester Forever Remix),One More Light - Steve Aoki Chester Forever Remix,43,250666,False,0.439,0.688,8,-4.574,1,0.0529,0.00714,0.0,0.109,0.117,179.984,4,grunge
+7p8u5FfXdJQjosJNSnq56j,Sixx:A.M.,The Heroin Diaries Soundtrack: 10th Anniversary Edition,Life Is Beautiful 2017,47,270001,False,0.382,0.453,5,-10.023,1,0.0455,0.00819,0.000201,0.0913,0.121,157.807,4,grunge
+4QglwXpVgc088RhQOp42vx,Chris Cornell,Singles - Original Motion Picture Soundtrack,Seasons,54,345133,False,0.48,0.384,10,-12.705,1,0.0304,0.181,0.105,0.124,0.194,152.184,4,grunge
+1NkHDIbGjHqFjZJrdHjQGZ,Pop Evil,Breathe Again,Breathe Again,54,191440,False,0.569,0.89,3,-4.532,0,0.0671,2.56e-05,3.66e-05,0.313,0.648,116.983,4,grunge
+0YFA0boMX3HBAZS1QfHKRR,Three Days Grace,Human,Tell Me Why,56,210733,False,0.491,0.827,2,-5.023,0,0.0415,0.00922,0.000377,0.217,0.472,158.904,4,grunge
+1ZtVN326V42hioNyRjU4P2,Crossfade,Crossfade,Colors,64,198533,False,0.337,0.835,2,-6.351,0,0.057,0.00174,0.0,0.0945,0.418,87.561,4,grunge
+1SphYpzegC5wg8RV5kYkVv,Lifehouse,Smoke & Mirrors (International Version),Falling In,43,226280,False,0.653,0.849,7,-5.071,1,0.0283,0.000678,0.0,0.0895,0.493,122.74,4,grunge
+3Yo9kEVE2UVSVFtxNXK2u2,12 Stones,12 Stones,Broken,53,179066,False,0.531,0.95,5,-3.926,1,0.0486,0.00362,0.0,0.378,0.525,96.925,4,grunge
+2o34ml66r7gmwmsIHcg6ym,Egypt Central,Hunted,Hunted,60,173398,False,0.173,0.941,5,-3.371,0,0.161,9.4e-05,0.0076,0.33,0.393,194.553,3,grunge
+60OKW0mZiPFHVpHl3eHueg,10 Years,Feeding The Wolves (Deluxe Version),Fix Me,60,215840,False,0.448,0.84,1,-3.939,0,0.0362,0.0012,0.0,0.0891,0.234,157.975,4,grunge
+3QcDpzfdr3wSmap8SA14DJ,Staind,Break the Cycle,It's Been Awhile - Acoustic,50,270773,True,0.64,0.54,11,-7.561,0,0.0262,0.112,5.32e-05,0.165,0.0621,113.835,4,grunge
+5Zhypo8wFaeZtBQTBVT9fs,Linkin Park;JAY-Z,"Live 8 (Live, July 2005)","Numb - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",31,246741,True,0.603,0.827,9,-6.485,1,0.0995,0.085,0.0,0.889,0.368,106.885,4,grunge
+5xyACR2lzIyzFepF4qlAas,Theory of a Deadman,Scars & Souvenirs (Special Edition),Not Meant to Be,57,215400,False,0.415,0.781,1,-6.947,1,0.0357,0.00401,0.0,0.126,0.261,142.966,4,grunge
+1Yuim9eHBfG8YUJII28XDF,Nickelback,The Long Road,Figured You Out,61,228480,False,0.544,0.867,10,-5.527,1,0.0517,2.63e-05,0.0165,0.266,0.726,93.925,4,grunge
+5NnYhHDo5BxDkAXEerswYD,Creed,Full Circle,A Thousand Faces,51,294720,False,0.249,0.914,2,-3.434,1,0.0599,0.0113,9.55e-06,0.318,0.209,150.052,4,grunge
+1RG8MABX0VciDk6WYb8pBv,Nickelback,Dark Horse,This Afternoon,60,273493,False,0.507,0.875,7,-7.697,1,0.0389,0.00257,0.0,0.346,0.647,160.079,4,grunge
+0uLhNT7UIH3nZCCDZd3OBl,Incubus,Light Grenades,Anna Molly,61,225880,False,0.451,0.973,8,-2.611,1,0.0514,0.00428,7.36e-06,0.0924,0.628,151.885,4,grunge
+2YJbRV3BW3VXtJ2BBxeIYH,Superbloom,Pollen,1994,25,230261,False,0.32,0.932,8,-5.221,1,0.0677,0.000189,0.0035,0.263,0.0814,119.516,4,grunge
+5MapUlM1un2Kh4aZ3IyWcL,Halestorm,Into the Wild Life (Deluxe),I Am the Fire,55,217173,False,0.384,0.955,9,-2.884,0,0.266,0.0535,0.000997,0.0958,0.199,171.888,4,grunge
+4P5cw8rpwDAQdzIy5nltzj,Daughtry,Heavy Is The Crown,Heavy Is The Crown,51,234687,False,0.214,0.808,6,-4.668,0,0.0586,0.00154,5.75e-05,0.0741,0.207,159.869,4,grunge
+3bmL5rU99q7ZA75vqdzDRO,Dead By Sunrise,Out Of Ashes,Fire,44,230520,False,0.544,0.95,0,-4.416,1,0.0584,0.0163,1.85e-06,0.3,0.179,122.031,4,grunge
+3xAka0D8585mDoShALnsd7,Pearl Jam,Ten,Release,55,546018,False,0.241,0.34,7,-11.919,1,0.0446,0.446,0.0641,0.0994,0.064,80.979,4,grunge
+3HxX5qcaz2phmsJVPskugD,Collective Soul,Dosage,Run,53,273466,False,0.572,0.754,11,-5.128,1,0.0245,0.0271,0.00091,0.0823,0.637,95.993,4,grunge
+3USDxKVLG1hbnAnY3zGXL4,Grey Daze,Saturation (Strange Love),Saturation (Strange Love),42,235133,False,0.423,0.899,9,-4.617,0,0.0676,0.0032,6.06e-05,0.362,0.314,175.911,4,grunge
+3vpItm0ZKfoWWhMyrUFjPa,HELLYEAH,HELLYEAH,Matter of Time,28,226026,True,0.434,0.984,10,-2.151,0,0.104,0.000553,1.44e-06,0.14,0.324,102.278,4,grunge
+0TTSQeJnGnpCxX7LWsdD9F,Pop Evil,Eye of the Storm,Eye of the Storm,58,234149,False,0.511,0.807,1,-5.695,0,0.0414,1.75e-05,1.96e-05,0.151,0.396,119.986,4,grunge
+0bKZa2zldftYPRrSRscmG2,Godsmack,Faceless,Straight Out Of Line,52,259133,False,0.245,0.96,7,-4.719,1,0.175,0.000184,0.00268,0.0718,0.372,184.042,1,grunge
+10pGH8aoEeHJNY7pjiFwGu,Jane's Addiction,Jane's Addiction (Live),My Time,29,212024,False,0.572,0.668,7,-11.602,1,0.0424,0.384,0.0,0.878,0.671,117.589,4,grunge
+1kEXAfdzYWI33DUo7GmfuW,Toadies,Hell Below / Stars Above,You'll Come Down,25,202106,False,0.418,0.93,9,-2.22,1,0.0934,0.00673,2.97e-05,0.439,0.484,202.729,4,grunge
+3h9CJvJTToiZa006CEEqRA,GLUM,Penitent Cheers,Penitent Cheers,26,253105,False,0.45,0.592,2,-8.936,1,0.0472,6.92e-05,0.684,0.211,0.517,161.15,4,grunge
+54UFDHWI2q7WHfrGbSNWph,Nirvana,In Utero - 20th Anniversary Remaster,Scentless Apprentice,53,228053,False,0.31,0.83,1,-8.527,1,0.0482,1.53e-06,0.146,0.137,0.617,170.568,4,grunge
+0dIipTYASaFwX1QxVrVFV7,Pearl Jam,Yield,Do the Evolution,61,231253,False,0.466,0.981,10,-5.011,1,0.063,0.00041,0.0108,0.0673,0.325,140.643,4,grunge
+442YgzY4YBcE3UXFRrczJb,My Darkest Days,Sick And Twisted Affair (Deluxe Edition),Casual Sex,60,193573,False,0.671,0.922,11,-4.175,0,0.0463,0.00912,0.0,0.662,0.858,116.04,4,grunge
+5rGDO4L06cWz2EIx4Yaoaq,Live,Live At The Paradiso Amsterdam,I Alone - Live,27,374799,False,0.403,0.858,6,-6.416,1,0.0681,0.0142,1.03e-05,0.874,0.149,96.249,4,grunge
+5XfQTbialQHn9PhDb0p85H,Buckcherry,15,Crazy Bitch,68,204960,True,0.661,0.978,1,-3.064,0,0.107,0.0247,0.0,0.0856,0.592,98.019,4,grunge
+78YJJJH55MSyk7547100sW,Soundgarden,Superunknown (Deluxe Edition),The Day I Tried To Live,59,320106,False,0.472,0.752,0,-6.051,1,0.0555,0.000164,0.181,0.0903,0.305,133.248,4,grunge
+3bNQ57hGhIfClN5UZ5t7YH,Gin Blossoms,New Miserable Experience,Found Out About You,27,233333,False,0.491,0.927,7,-4.534,1,0.036,0.000565,0.00974,0.118,0.634,134.714,4,grunge
+7IJHVzwzDHJlb6eSP7dZ0h,Shaman's Harvest,Red Hands Black Deeds,Off The Tracks,26,192360,True,0.624,0.931,11,-4.184,0,0.0519,0.00933,5.96e-05,0.297,0.453,99.983,4,grunge
+37EJtTS7jT5WUyXGZzrwnI,Everclear,Sparkle And Fade,Santa Monica,71,191506,False,0.491,0.942,7,-5.333,1,0.132,0.156,0.0,0.367,0.387,100.446,4,grunge
+2vrCcLP8D26ZSSbOcUSIU5,Shinedown,Somewhere in the Stratosphere,Burning Bright - Acoustic; Live from Kansas City,26,236533,False,0.508,0.662,2,-5.985,1,0.0323,0.0645,0.0,0.978,0.226,116.548,4,grunge
+6g9eeXHGhgthY0LN8a6K5Z,Gin Blossoms,New Miserable Experience,Until I Fall Away,28,232466,False,0.58,0.863,1,-5.024,0,0.0312,0.0021,0.00959,0.055,0.729,122.777,4,grunge
+5XRuPxMShwVlQVS8jdCSbp,Shinedown,Somewhere in the Stratosphere,The Crow & the Butterfly - Live from Washington State,26,256600,False,0.29,0.857,5,-3.001,1,0.043,0.00125,0.0,0.973,0.235,148.946,3,grunge
+7GAFuH9KR356f8ZW9ikL5Z,The Smashing Pumpkins,Aeroplane Flies High (Deluxe Edition),Mouths Of Babes,27,226333,False,0.328,0.833,0,-8.245,0,0.0349,1.99e-06,0.935,0.337,0.447,90.965,4,grunge
+6TVDXcZ9HszXTNmpggKOGJ,Black Stone Cherry,Between the Devil & the Deep Blue Sea,Like I Roll,27,211346,False,0.538,0.944,9,-2.795,1,0.0459,0.00815,4.31e-06,0.135,0.274,117.218,4,grunge
+7c1Dar0pIAW7w5TzaGjt9t,Jane's Addiction,Nothing's Shocking,Jane Says,66,287000,False,0.402,0.597,2,-9.258,1,0.0327,0.0385,2.09e-06,0.109,0.496,81.806,4,grunge
+75shjDgN0wxJ3vEydMa9aF,Stone Temple Pilots,Core (Super Deluxe Edition),"Plush - Live at Castaic Lake Natural Amphitheater, 7/2/93",26,305693,False,0.267,0.958,0,-6.084,1,0.063,0.000844,0.0293,0.983,0.408,147.999,4,grunge
+2gpkmR9oX3Jk6rDI6KUwHj,Glare,Into You,Blank,56,216089,False,0.304,0.682,3,-6.699,0,0.0443,0.0071,0.16,0.152,0.0795,158.006,4,grunge
+0cFIq4boiMcIG7viSDiU5u,Our Lady Peace,Spiritual Machines II,Run,14,177701,False,0.561,0.912,1,-4.221,0,0.0806,0.271,0.000895,0.206,0.684,164.013,4,grunge
+36IkR2i4HaV3SRsSHzje6v,Staind,Chapter V,Right Here,46,251013,False,0.487,0.627,10,-6.506,0,0.0304,0.00141,3e-05,0.109,0.219,112.269,4,grunge
+26C4dNjoAxFk6PhZGeuyGO,Downface,Confidence,Alone,49,233133,False,0.171,0.68,7,-6.247,1,0.0411,0.0022,0.0502,0.0947,0.153,149.077,5,grunge
+5GkkCOIbbolsC3MZLAsqZK,Grey Daze,Amends,The Syndrome,40,229653,False,0.621,0.861,4,-5.305,0,0.0768,0.0522,0.000138,0.128,0.242,114.925,4,grunge
+6WdoToI0z5f4A4kbZ3SXoa,Fuel,Sunburn,Shimmer,56,214066,False,0.48,0.792,7,-6.443,1,0.0411,0.00238,0.0,0.169,0.465,114.605,4,grunge
+0i5zjtoRR0U2715BEgUsdS,Whirr,Whirr & Nothing (Split Version),Ease,58,206533,False,0.28,0.94,4,-5.597,0,0.0535,0.000832,0.781,0.156,0.406,159.188,4,grunge
+1VMSib83ZkffP22T64hxot,Pop Evil,Pop Evil,Waking Lions,58,231963,False,0.507,0.973,6,-2.905,1,0.176,2.1e-05,0.0329,0.346,0.706,143.075,4,grunge
+71DWSe2L6pZ6zIJM7Za3b5,Linkin Park,Twilight Original Motion Picture Soundtrack (International Special Edition),Leave Out All The Rest,40,199960,False,0.514,0.63,0,-5.896,1,0.0316,0.192,1.16e-06,0.138,0.206,80.06,4,grunge
+05tn6MGYoFRaXPYQpZmPcc,Red,Until We Have Faces,Faceless,52,203520,False,0.293,0.904,11,-4.155,0,0.0736,1.92e-05,0.0,0.103,0.294,172.168,4,grunge
+2fnMKNqdGCf78E12681NRG,Dishwalla,Opaline,Angels Or Devils,54,243800,False,0.537,0.67,11,-7.043,1,0.0284,0.0584,0.0,0.153,0.437,78.648,4,grunge
+27cHwY7UTuadZD5XfoxxpI,Shaman's Harvest,Smokin' Hearts & Broken Guns (Deluxe Edition),Ten Million Voices,52,238226,False,0.498,0.709,0,-3.135,0,0.0325,0.00815,0.0,0.127,0.439,112.628,4,grunge
+2cCWbBmadLbKvr9xddC79R,Nickelback,Silver Side Up,Too Bad,60,232240,False,0.598,0.808,10,-5.209,1,0.0388,0.00304,0.0,0.147,0.288,128.025,4,grunge
+4rrG6blL1GvK0FeTPYf3e1,Alter Bridge,AB III,Ghost of Days Gone By,39,265533,False,0.522,0.924,1,-4.395,1,0.0452,0.00019,0.000105,0.0934,0.484,136.549,4,grunge
+33AxY0QUitvte6JV6B6uLE,Audioslave,Audioslave,Gasoline,59,279333,False,0.379,0.716,4,-4.312,1,0.0326,0.000272,0.00123,0.0786,0.239,92.721,4,grunge
+7GcE7k2IlpRZXzMcfwttj9,Shinedown,Amaryllis,My Name (Wearing Me Out),52,216186,True,0.454,0.989,5,-2.644,1,0.0991,0.000197,0.0,0.328,0.169,139.964,4,grunge
+4L2S9GbwEgwfSbHjTCvNQX,Temple Of The Dog,Temple Of The Dog,Say Hello 2 Heaven,59,384466,False,0.306,0.647,0,-9.969,1,0.0316,0.0768,0.0,0.366,0.321,148.087,3,grunge
+747lAsjzxmpbfXP28D1Swf,Alter Bridge,Blackbird,Come To Life,46,231813,False,0.378,0.971,10,-4.281,0,0.0883,1.98e-05,0.0176,0.313,0.267,97.617,4,grunge
+4KoNBTm9a55KgLMtEaf3n6,Tonic,Lemon Parade,If You Could Only See,67,261519,False,0.433,0.946,10,-5.138,0,0.0398,0.00264,0.0,0.198,0.578,95.169,4,grunge
+3IiMnjK7S2PlsPVMuAH7rU,Breaking Benjamin,Ember,Torn in Two,53,257453,False,0.354,0.943,5,-3.633,1,0.288,0.000113,0.0187,0.104,0.367,94.416,4,grunge
+68pbfPO23QQUl2pxlthi6Q,Seether,Holding Onto Strings Better Left To Fray,Pass Slowly,46,207832,False,0.451,0.702,10,-5.718,1,0.0307,0.000687,4.57e-05,0.172,0.24,147.007,3,grunge
+6QXSvO1glNRlpgjElJfxaj,Dx Aneurysm,Phenomenon Of Life,Breathing On Forever,24,310857,True,0.574,0.905,2,-3.379,1,0.0308,6.18e-05,0.00401,0.0467,0.251,104.984,4,grunge
+4nMUPQeTor23d8RxiiJO9W,Highly Suspect,The Midnight Demon Club,Natural Born Killer,57,196135,False,0.202,0.742,0,-5.29,1,0.124,0.00169,0.000483,0.128,0.155,194.876,3,grunge
+1TDk2Jmi4dVZhm2dum3Jim,Audioslave,Audioslave,Cochise,66,222026,False,0.452,0.873,9,-4.867,1,0.0613,0.000519,0.0,0.0592,0.433,80.473,4,grunge
+4PmWhymQGpMMtrBQ4toBVy,Third Eye Blind,Ursa Major,Sharp Knife,26,268226,False,0.335,0.861,9,-5.56,1,0.129,0.0139,0.0,0.0471,0.322,128.067,4,grunge
+55ZW2RqqiMewn2rgW1r2KR,Dx Aneurysm,Phenomenon Of Life,This Life On The Dark,24,216103,True,0.604,0.98,9,-2.42,1,0.0505,5.98e-05,0.000519,0.162,0.518,120.095,4,grunge
+22Ntyke0ZDZy2Uuf8BEDkU,Alice In Chains,Dirt (2022 Remaster),Dam That River (2022 Remaster),59,189360,False,0.427,0.913,6,-5.545,0,0.0804,0.00636,0.0,0.471,0.471,124.419,4,grunge
+63FWkrrCOQI4qsiZ3bvI7L,Local H,Local H's Awesome Mix Tape #1,Blood Stains,25,110733,False,0.4,0.872,1,-5.666,1,0.0434,0.000119,1.15e-06,0.373,0.924,175.666,4,grunge
+0dIipTYASaFwX1QxVrVFV7,Pearl Jam,Yield,Do the Evolution,61,231253,False,0.466,0.981,10,-5.011,1,0.063,0.00041,0.0108,0.0673,0.325,140.643,4,grunge
+0plpKMaZ8QLxNQDuFRO37s,Blue October,Any Man In America,The Chills,27,214106,False,0.478,0.827,0,-6.023,1,0.0722,0.00739,8.83e-06,0.322,0.313,140.028,4,grunge
+2QXOVdwDiXtBrZSAyqoYVE,Splender,Songs From Dawson's Creek - Vol. II,I Think God Can Explain - Radio Version,25,234800,False,0.412,0.852,9,-3.89,1,0.0369,0.0213,0.0,0.372,0.508,139.339,4,grunge
+6C02ki8ZPv1qyRmbf6EClv,The Presidents Of The United States Of America,II,Froggie,26,190640,False,0.651,0.669,1,-7.285,1,0.0314,0.0357,0.000184,0.181,0.759,138.04,4,grunge
+6p9sEs3SXniBHDC6WS9LBw,Our Lady Peace,Gravity,Innocent,25,222466,False,0.393,0.896,1,-4.902,1,0.0671,0.000443,0.0,0.0774,0.793,177.981,4,grunge
+5tYSvirNbEi8CsVVNlgRR6,Shinedown,Somewhere in the Stratosphere,Save Me - Acoustic; Live from Kansas City,26,220893,False,0.602,0.92,11,-4.2,0,0.0339,0.000777,3.43e-06,0.983,0.608,116.042,4,grunge
+6GTsPmY05JgqgMSgsfwMqN,Balance And Composure,The Things We Think We're Missing,Keepsake,28,230840,False,0.394,0.981,4,-4.464,1,0.0845,0.000291,0.0021,0.125,0.221,145.467,4,grunge
+1QzD5Ejsg0wOlcGgKNWE7P,Live,Live At The Paradiso Amsterdam,All Over You - Live,26,233799,False,0.273,0.903,1,-5.777,1,0.0929,0.00272,0.0,0.992,0.242,138.201,4,grunge
+5EUsI3LIV042IV5ydksV9y,Mad Season,Above (Deluxe Edition),River of Deceit,57,302906,False,0.455,0.29,0,-11.473,1,0.0288,0.0614,0.00225,0.101,0.169,88.523,4,grunge
+1cshOR1GiQTcuL7ZiEReA7,The Smashing Pumpkins,CYR,Haunted,27,191266,False,0.634,0.471,4,-10.249,1,0.0683,0.00379,5.32e-05,0.0654,0.153,91.996,4,grunge
+5TLA7O0ogTqwZHbS3ERabw,Soundgarden,Down On The Upside,Blow Up The Outside World,58,345666,False,0.33,0.529,9,-10.043,1,0.0358,0.000807,0.214,0.126,0.148,140.156,4,grunge
+6cSbb20D4BSajDoXuu6QtF,Blue October,The Answers,Italian Radio,27,232693,False,0.35,0.831,0,-8.932,1,0.0714,0.00378,1.47e-05,0.111,0.821,198.275,4,grunge
+3z5ggGtcs4t8pizW521gW9,L7,Bricks Are Heavy,Pretend We're Dead,60,235093,False,0.569,0.789,4,-8.559,1,0.0309,5.62e-06,0.642,0.0811,0.911,115.152,4,grunge
+1FYUkZ3Gpqca3qmt8v47QB,Gin Blossoms,New Miserable Experience,Allison Road,27,199000,False,0.468,0.959,2,-3.397,1,0.0607,0.00268,0.0,0.235,0.929,134.728,4,grunge
+3Xma1yBBGqvgA15TUyEyGK,Shinedown,The Studio Album Collection,Call Me,26,222200,False,0.413,0.445,1,-7.259,0,0.025,0.438,0.0,0.111,0.117,95.562,4,grunge
+7GAJcFwACPs9jSs7bhSoZW,Butthole Surfers,Independent Worm Saloon,Dog Inside Your Body,26,186133,False,0.529,0.902,1,-8.416,1,0.0545,0.00235,0.0122,0.327,0.421,163.972,4,grunge
+1iArQTuOzxvrtniGmkyy92,Soundgarden,Down On The Upside,Burden In My Hand,62,290106,False,0.319,0.803,10,-8.928,1,0.0394,0.00534,0.0126,0.177,0.589,183.031,4,grunge
+73JSlkMwGxPQr0rYylbIDi,Eve 6,Horrorscope,Nocturnal,26,187773,False,0.597,0.955,11,-4.761,1,0.0579,0.000384,0.0,0.283,0.671,121.922,4,grunge
+1AUP3FcXE7mpJAotmbVyoO,Buckcherry,15,Sunshine,27,253786,False,0.515,0.981,5,-3.855,1,0.0532,0.00101,0.0,0.077,0.611,145.97,4,grunge
+39JQkBrKRTYUby0gixMpmi,Alice In Chains,Live,"Bleed the Freak - Live at the Moore Theatre, Seattle, WA - December 1990",26,273626,False,0.202,0.843,8,-6.009,1,0.0622,0.000539,0.103,0.992,0.31,116.619,4,grunge
+5Tv5sVWoB1oQL2PbNvXoq5,Buckcherry,15,Brooklyn,27,241786,False,0.662,0.976,7,-3.853,1,0.0405,0.00851,0.0,0.103,0.729,124.005,4,grunge
+5uJkC7nMVgXzbAl1j0vGZZ,Alice In Chains,Live,"Would? - Live at Glasgow Barrowland, Glasgow, UK March 1993",26,228866,False,0.203,0.922,1,-6.358,1,0.0682,1.79e-05,0.535,0.789,0.27,92.48,4,grunge
+2tVCFmn2zKg2wGXS1TCIIA,Daughtry,Daughtry,Feels Like Tonight,49,238733,False,0.483,0.903,6,-3.151,1,0.0451,0.000849,0.0,0.118,0.318,130.986,4,grunge
+5D6rk7Zr7FRy5m2fDte5fp,Staind,Break the Cycle,Outside,59,293133,False,0.515,0.594,1,-4.708,1,0.0262,0.00844,0.00658,0.0752,0.218,146.564,4,grunge
+31aVGAyU43vQYxYyCmfaQI,Bush,The Art Of Survival,Slow Me,13,228119,False,0.469,0.911,5,-3.136,1,0.0643,0.000606,2.2e-05,0.138,0.424,132.066,4,grunge
+3s3eL7zMCNE9IgtX67SToC,Red,Release The Panic,So Far Away,41,234946,False,0.488,0.811,2,-5.196,1,0.041,0.00276,0.0,0.315,0.436,133.961,4,grunge
+0xN2e2Odk9nPLOLpacow2e,12 Stones,We Are One (WWE Mix),We Are One - WWE Mix,41,223160,False,0.394,0.934,10,-5.494,1,0.103,0.000205,0.000258,0.204,0.262,127.041,4,grunge
+4sNbnjnqIKkT16XuUtwU88,Thirty Seconds To Mars,Walk On Water (Acoustic),Walk On Water - Acoustic,46,188895,False,0.522,0.635,7,-6.661,1,0.0303,0.199,0.0,0.0809,0.412,139.949,4,grunge
+24PfsjdIb7BnRM9YNHU1cq,Hoobastank,For(N)ever,I Don't Think I Love You,39,219600,False,0.528,0.91,2,-4.349,1,0.0344,0.000365,0.0,0.384,0.555,123.976,4,grunge
+5YhrJVUDkB0ijXwRekwQW1,Audioslave,Audioslave,Gasoline,30,279333,False,0.379,0.716,4,-4.312,1,0.0326,0.000272,0.00123,0.0786,0.239,92.721,4,grunge
+2o22GHXR1z4Q0dojvRUkk7,Audioslave,Audioslave,Shadow on the Sun,28,343400,False,0.329,0.658,9,-5.57,1,0.0373,0.00108,1.56e-06,0.0805,0.288,141.123,4,grunge
+65ONOjGUh9A5mKtvu2JwQg,Creed,Full Circle,Away In Silence,45,280720,False,0.454,0.863,4,-4.122,1,0.0351,0.025,0.0,0.0798,0.293,154.107,3,grunge
+5UNoPMX7K2W769iQ4PDfOt,Days Of The New,Days Of The New,Shelf In The Room,58,283973,False,0.621,0.619,6,-9.047,1,0.0264,0.0349,6.88e-05,0.168,0.325,128.967,4,grunge
+7frIRhmEchPNoXn3FOVEQ9,Jet Black Stare,In This Life,I'm Breathing,57,232386,False,0.391,0.871,1,-3.196,0,0.0397,8.25e-05,0.0,0.137,0.552,172.184,4,grunge
+5XpUPdTWLLQiNkPbuku2Nj,My Darkest Days,My Darkest Days,Set It On Fire,53,207426,False,0.496,0.949,0,-3.637,1,0.0537,0.00156,0.0,0.0977,0.911,182.048,4,grunge
+2jKnUcyrCADkeSy6gcN1qa,Foo Fighters,Medicine At Midnight,Chasing Birds,52,252293,False,0.62,0.532,2,-7.297,1,0.023,0.0392,0.0245,0.112,0.369,143.993,4,grunge
+25jSwur7S47WCiH0hQNUAo,Seether,Isolate And Medicate,Words As Weapons,50,240200,False,0.592,0.901,5,-5.554,0,0.0591,0.0109,0.000344,0.0514,0.62,109.902,4,grunge
+68nFvNL5tmqQ3F9maDbX7s,The Nixons,Kaleidoscope,Atmosphere,27,237733,False,0.454,0.899,8,-4.662,1,0.0425,0.0013,0.219,0.107,0.292,127.988,4,grunge
+3zFG5dyH5rJfkZ25fgR173,Audioslave,Revelations,Sound Of A Gun,55,260279,False,0.514,0.867,9,-4.717,1,0.0332,0.00904,0.0508,0.232,0.596,96.135,4,grunge
+0aEOw9HUVwEThZ99eVhu5b,HELLYEAH,HELLYEAH,GodDamn,27,200586,True,0.427,0.984,5,-3.054,0,0.116,1.69e-05,0.000111,0.355,0.352,151.255,4,grunge
+55TIb9EPxSq3AP8COlVl98,Taproot,Music as a Weapon II,Poem - Live Version,26,199093,False,0.44,0.984,11,-4.715,0,0.0816,0.00395,0.00108,0.897,0.417,108.256,4,grunge
+0LnkNEgEXv83bVVvgnB9Et,Nirvana,Nirvana,Come As You Are,49,219040,False,0.49,0.835,4,-6.323,0,0.0332,8.38e-05,0.00373,0.0908,0.519,119.92,4,grunge
+7bbfZUVKAjhczPC4cfbrVg,Seaweed,Spanaway,Crush Us All,25,238626,False,0.196,0.933,9,-6.357,1,0.0676,0.00076,0.000123,0.114,0.722,186.301,4,grunge
+3QAE7ypzhNZzQxOjKCGHD9,Alice In Chains,Unplugged,"Nutshell - Live at the Majestic Theatre, Brooklyn, NY - April 1996",55,297106,False,0.36,0.548,3,-12.938,0,0.0468,0.328,0.217,0.971,0.244,121.801,3,grunge
+6Sa4BTtMhDzFWQ2cSwVBL9,Flickerstick,Shine On,Shine On,25,250367,False,0.301,0.983,1,-4.329,1,0.132,0.000601,5.73e-06,0.0575,0.245,170.022,4,grunge
+0rdqOKr8QvWCDz8tNB7kNC,Pearl Jam,"2000.08.24 - Jones Beach, New York (NYC) [Live]",Daughter - Live,25,427800,False,0.438,0.823,4,-10.983,1,0.0567,0.25,0.0222,0.908,0.295,116.464,4,grunge
+5jaEbaqfyeRNLqO1vzissu,Quicksand,Slip,Too Official,25,168240,False,0.499,0.875,2,-7.179,1,0.0398,1.25e-05,0.122,0.0869,0.467,142.49,4,grunge
+1XsmgDo7e4g87IwbFykOcP,Our Lady Peace,Naveed,Julia,25,237333,False,0.468,0.939,10,-6.228,1,0.0937,0.000225,1.26e-05,0.34,0.509,116.218,4,grunge
+64G3BnXj6LEQPsDyyZrPPJ,Toadies,Hell Below / Stars Above,Heel,24,166600,False,0.451,0.971,1,-3.737,1,0.147,0.000522,0.181,0.206,0.273,166.621,4,grunge
+5KghnAajixZATYQOA4xNdi,Godsmack,When Legends Rise,Unforgettable,49,208418,False,0.366,0.939,8,-3.505,1,0.231,0.00298,0.0,0.128,0.435,158.058,4,grunge
+6VGKfZmYkkMsd2pij0jNiF,Breaking Benjamin,We Are Not Alone,Sooner Or Later,54,218800,False,0.493,0.843,5,-4.893,0,0.0482,0.0019,0.0086,0.0835,0.416,92.827,4,grunge
+2eG7o3BfbzohiETArwsX1K,Days Of The New,Days Of The New,"Touch, Peel And Stand",64,297146,False,0.58,0.627,11,-8.017,1,0.0316,0.05,1.68e-06,0.297,0.825,82.151,4,grunge
+2XvrMHbSO077Ajg7QTTNdY,Foo Fighters,"Echoes, Silence, Patience & Grace",Let It Die,58,244960,False,0.596,0.557,0,-6.401,1,0.0299,0.027,1.64e-05,0.0914,0.314,124.023,4,grunge
+4rtZtLpriBscg7zta3TZxp,Nirvana,In Utero - 20th Anniversary Remaster,Milk It,52,234746,False,0.468,0.524,1,-12.38,0,0.0474,0.00064,0.0221,0.131,0.537,136.293,4,grunge
+50iBJRkGjjht3RiwD0VqLA,Failure,Fantastic Planet,Another Space Song,54,310333,False,0.511,0.701,1,-7.861,1,0.0252,0.000253,0.563,0.0631,0.189,84.318,4,grunge
+25jI76pfekcN0OuTaxXEcp,Toadies,Hell Below / Stars Above,Jigsaw Girl,24,284493,False,0.39,0.939,0,-3.598,1,0.093,0.0178,2.05e-05,0.328,0.371,190.669,4,grunge
+2vGfSJIriK1fFJEyLHZVTd,Blue October,The Answers,The Answer,26,356560,False,0.525,0.728,9,-9.727,0,0.0361,0.00151,0.0,0.243,0.663,110.625,4,grunge
+203V9RupC0inPRjWOkpEII,Shinedown,Somewhere in the Stratosphere,The Crow & the Butterfly - Acoustic; Live from Kansas City,25,276626,False,0.443,0.721,5,-5.36,1,0.0311,0.0165,0.0,0.986,0.305,149.025,3,grunge
+7JHzUO9nzB5N4d3xMAxKim,Shinedown,Somewhere in the Stratosphere,Cyanide Sweet Tooth Suicide - Live from Washington State,25,217520,True,0.439,0.998,2,-1.854,0,0.249,3.58e-05,0.000203,0.218,0.0382,131.059,4,grunge
+2YJJRSqn5OTZwAjBGhJ7VD,Our Lady Peace,Happiness...Is Not a Fish That You Can Catch,Stealing Babies (Featuring Elvin Jones),24,331240,False,0.316,0.781,2,-7.311,1,0.113,0.135,3.05e-05,0.336,0.293,125.656,3,grunge
+2xU47DIlAwcd3XV2Naw5Xs,Quicksand,Slip,Can Opener,25,219666,False,0.577,0.828,9,-8.045,1,0.0383,0.000351,0.0535,0.0602,0.547,142.194,4,grunge
+2IpDJ2R7TqKu5lItvWdVRt,Live,Throwing Copper (25th Anniversary),All Over You,26,239706,False,0.357,0.865,1,-4.501,1,0.0539,0.0023,1.66e-06,0.215,0.357,131.795,4,grunge
+3374WtLJ1MFb0KomobKchE,Shinedown,The Studio Album Collection,Devour,25,229973,False,0.337,0.981,8,-3.54,1,0.141,6.68e-05,0.000717,0.0697,0.228,176.995,4,grunge
+0nIqLUPm3eSq1mlvOcvC2Q,Candlebox,The Candlebox Collection,Change,24,384320,False,0.638,0.66,7,-6.793,1,0.0286,0.00684,0.0,0.197,0.398,93.042,4,grunge
+4fjsOdrWMaKf70x21h5XbX,Stone Temple Pilots,Purple (2019 Remaster),Vasoline - 2019 Remaster,63,176546,False,0.295,0.977,10,-7.086,1,0.088,0.00147,0.000187,0.0887,0.353,168.672,4,grunge
+2JpsQyDTBDwZbmLd2wb6Fr,Live,Awake The Best Of Live,I Alone - New Edit,26,218986,False,0.44,0.802,6,-7.112,1,0.037,0.00146,0.00195,0.387,0.184,90.219,4,grunge
+2RZTOHYYfQarBj1X41R89b,Shinedown,The Studio Album Collection,Burning Bright,25,226973,False,0.524,0.769,2,-5.262,1,0.0314,0.000431,4.48e-06,0.103,0.262,113.43,4,grunge
+1BpBQgXxBDGlwvuJWEN0dU,Shinedown,Somewhere in the Stratosphere,Her Name Is Alice - Live from Washington State,25,305280,False,0.467,0.521,7,-5.787,0,0.0314,0.135,2.29e-05,0.729,0.0399,95.091,4,grunge
+00BYitnjj9tACCkLapk5uS,Silverchair,Neon Ballroom,Satin Sheets,25,144333,False,0.345,0.844,0,-6.656,1,0.0725,0.000212,0.00497,0.172,0.384,161.465,4,grunge
+3vL9lPWBuv0ZR3c5YmdhDl,Pearl Jam,Yield,Given to Fly,60,238866,False,0.317,0.764,7,-7.076,1,0.0282,0.000294,0.099,0.0996,0.341,101.173,4,grunge
+4JRpokvKWTgkxUVfrsGifs,Shinedown,The Studio Album Collection,Heroes,25,204026,False,0.379,0.903,0,-4.812,0,0.0351,7.51e-05,1.98e-05,0.0933,0.687,168.975,4,grunge
+3DUGWLHFA5B0dI80WhnL9F,Eve 6,Horrorscope,Sunset Strip Bitch,26,198760,False,0.433,0.928,9,-4.438,1,0.148,0.000993,5.48e-06,0.087,0.785,175.897,4,grunge
+4XdqINJVgXZW7D9cpClgeU,Sick Puppies,Fury,Here With You,40,213360,False,0.471,0.765,11,-4.876,0,0.0476,0.000254,0.0,0.115,0.537,75.995,4,grunge
+46DFLr1KAE4nfWcsgkT4xi,Linkin Park;DJ Babu;Pharoahe Monch;Evidence,Reanimation,H! Vltg3 (Evidence Reanimation) [feat. Pharoahe Monch and DJ Babu],41,210733,False,0.66,0.943,1,-4.166,0,0.277,0.129,0.0,0.557,0.599,93.696,4,grunge
+1xRUR651GIJoKbu0dqm0uW,Chris Cornell,Chris Cornell (Deluxe Edition),Seasons,50,345626,False,0.474,0.422,10,-10.476,1,0.0297,0.198,0.0914,0.145,0.2,152.112,4,grunge
+1NoE1pEKbjVDmwLvrMsoop,The Exies,Head For The Door,Ugly,57,198360,False,0.214,0.941,5,-2.983,0,0.0984,0.000441,0.0,0.0977,0.17,169.548,4,grunge
+3NfLSMOVWDKfYDE0WAm7uf,Blind Melon,Soup,Toes Across The Floor,56,187133,False,0.452,0.67,9,-8.392,0,0.0352,0.243,5.08e-05,0.108,0.539,113.071,4,grunge
+4OIFIhRhT2XRCqsvJASYSx,julie,starjump/kit,kit,56,223610,False,0.234,0.633,5,-7.585,1,0.0301,0.000817,0.581,0.118,0.294,153.675,4,grunge
+325aNb4eh8HesYlrJmLSMX,Puddle Of Mudd,Come Clean,Control - Acoustic Version,51,247920,True,0.514,0.784,6,-6.217,1,0.0413,0.413,0.0,0.164,0.567,150.326,4,grunge
+5xhQOnyRJfRywbEwpkgoTy,Mad Season,Above (Deluxe Edition),Wake Up,53,456026,False,0.339,0.276,7,-10.746,1,0.0285,0.141,0.00906,0.1,0.308,83.181,4,grunge
+4D6amyd3ONcv28VBe07xsk,The Veer Union,Decade II: Rock & Acoustic,Numb (Acoustic),49,198545,False,0.446,0.64,5,-4.191,0,0.032,0.128,0.0,0.0758,0.182,110.076,4,grunge
+2jqMTXzB1VGVogdxfBRB3I,Dead By Sunrise,Out Of Ashes,Give Me Your Name,37,296093,False,0.467,0.683,0,-6.072,1,0.0277,0.0146,0.00101,0.179,0.133,130.014,4,grunge
+6JnqbWl6N8g4Ikw5uZiJY4,Daughtry,Leave This Town,No Surprise,44,269693,False,0.481,0.779,3,-3.81,1,0.031,0.00853,0.0,0.0993,0.142,96.029,4,grunge
+1CQPeKZKKapI4BQPU5L1di,Egypt Central,Over Soon,Over Soon,49,204831,False,0.453,0.888,8,-3.761,0,0.0528,0.0117,5.26e-06,0.0879,0.229,96.548,4,grunge
+1MvJno497VkQR3RsiJcRVm,Incubus,Morning View,Are You In?,60,264200,False,0.526,0.587,2,-8.733,1,0.039,0.24,0.243,0.886,0.364,93.986,4,grunge
+5bp8r2lUzk4QOtoFeVPNZB,Linkin Park,Minutes to Midnight (Deluxe Edition),What I've Done - Distorted Remix,33,227573,False,0.565,0.894,7,-4.349,0,0.0433,6.71e-05,0.0739,0.0802,0.595,120.025,4,grunge
+3VFO6bwk914T8esF1zAr4Q,Lifehouse,No Name Face,Somewhere In Between,43,253066,False,0.501,0.415,1,-8.882,0,0.0242,0.0375,2.6e-06,0.336,0.227,76.608,4,grunge
+2nWjhmRImt6LScZIPQMBnM,Stone Temple Pilots,Core,Sex Type Thing,55,218293,False,0.397,0.969,9,-3.892,1,0.0463,1.52e-06,0.517,0.0513,0.702,134.288,4,grunge
+2VL5StiQKN8tNYSSDbjvIc,Silverchair,Neon Ballroom,Ana's Song (Open Fire),54,222266,False,0.395,0.648,9,-7.372,1,0.027,0.0407,8.25e-05,0.0868,0.246,80.286,4,grunge
+5MRRZxscYnbYKHvOQdxtdw,Temple Of The Dog,Temple Of The Dog,Call Me A Dog,55,304506,False,0.294,0.591,7,-9.712,1,0.038,0.153,0.0,0.126,0.327,146.259,3,grunge
+24tO365YW6lcZr1hN4Ukzj,Silverchair,Frogstomp (Deluxe Edition) [Remastered],Tomorrow,65,266280,False,0.292,0.714,2,-4.919,1,0.0316,0.000658,0.000109,0.102,0.462,151.412,3,grunge
+7yaCciuyB1IhgMvLBE8Wa4,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,All Apologies,51,230960,False,0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0853,0.359,113.176,4,grunge
+7Fma0rICvZeAECL8VoPuUO,Three Days Grace,Outsider,Right Left Wrong,57,236693,True,0.489,0.833,9,-5.348,1,0.054,0.0036,1.33e-06,0.111,0.307,135.431,4,grunge
+3KcJEOyaLDLAERlOCBhmPA,Pearl Jam,Ten,Garden,55,298933,False,0.191,0.707,7,-6.846,1,0.0345,0.0478,6.1e-05,0.295,0.179,82.7,4,grunge
+1qEyqHR1xsj2MC4Qy0dsaI,The Wallflowers,Bringing Down The Horse,6th Avenue Heartache,59,337400,False,0.454,0.853,5,-6.494,1,0.0367,0.046,0.000198,0.334,0.531,150.081,4,grunge
+2ZceU5sfgcH5h7bIsFuuXT,Black Stone Cherry,Folklore and Superstition,Things My Father Said,44,233346,False,0.482,0.627,2,-5.779,1,0.03,0.054,2.99e-06,0.111,0.17,95.903,4,grunge
+3s7NKMJGgF8jKE6ICuCdBR,Linkin Park,Road to Revolution (Live at Milton Keynes),One Step Closer - Live,25,247066,False,0.353,0.979,9,-4.464,1,0.0942,4.97e-05,0.000125,0.41,0.242,94.995,4,grunge
+6EvDZVXWWz7qWEF5ZzxRuZ,Alter Bridge,The Last Hero,My Champion,41,280746,False,0.505,0.947,6,-5.533,1,0.0546,1.06e-05,3.27e-06,0.374,0.551,115.993,4,grunge
+7Bz8EMztiuSJeHIjrBw7pw,Silverchair,Neon Ballroom,Miss You Love,58,240733,False,0.353,0.464,7,-8.543,1,0.0272,0.0378,0.000969,0.0944,0.148,144.222,3,grunge
+0TgYxa2nW34gdalHFmIXpL,Connor Questa,Fuego al Universo,Pensar Bien,24,171453,False,0.621,0.66,6,-4.628,1,0.0355,0.00547,3.6e-05,0.0449,0.538,125.826,4,grunge
+4dn3bfwKvyrwjhbTZ7ZcaY,Seether,"Curiosities, Rarities And Pariahs",Burn The Bridges - Demo Version,26,258600,False,0.63,0.864,7,-5.426,1,0.123,0.000417,0.364,0.0552,0.553,81.004,4,grunge
+0JR95zeccPfpDB1WhYBOAd,Our Lady Peace,Naveed,Hope,24,313973,False,0.553,0.846,6,-8.037,0,0.0379,0.00157,0.0,0.0693,0.347,125.258,4,grunge
+2PcI5f8KWCnPD988CTK2Gz,Puddle Of Mudd,Best Of,Away From Me,26,238573,True,0.39,0.937,8,-3.457,1,0.1,0.000314,0.0,0.158,0.161,154.771,4,grunge
+3LpnzPxkMI6XS4JCbhNeek,Live,Throwing Copper,I Alone,65,231133,False,0.396,0.817,6,-7.282,1,0.045,0.00228,0.00417,0.372,0.0992,90.264,4,grunge
+5TKuf1mxDlHdXcvdIDViUR,Gin Blossoms,Til I Hear It From You,Til I Hear It From You,60,232466,False,0.578,0.764,9,-7.997,1,0.0294,0.08,0.0,0.291,0.722,124.417,4,grunge
+2sC1hXh4VTilw8zNERUGuI,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),Blast - Fuzz Version,26,176453,False,0.365,0.667,0,-7.843,0,0.0479,1.41e-06,0.498,0.42,0.16,130.277,4,grunge
+0ASYYaJ8RMrZ7N44KMEJr8,Dinosaur Jr.,Green Mind,Green Mind,28,296733,False,0.398,0.877,1,-10.762,0,0.0495,3.34e-05,0.0,0.354,0.558,134.242,4,grunge
+5JjHr4GeuAERaa1qgsbv6A,Nickelback,No Fixed Address,Edge Of A Revolution,57,243053,True,0.524,0.97,2,-3.324,1,0.0454,0.00011,0.0,0.113,0.66,161.961,4,grunge
+53BBBDzSIbNo4tpcDaYIu9,Days Of The New,The Definitive Collection,Dirty Road,24,283066,False,0.59,0.709,6,-6.75,0,0.0283,0.0501,0.0,0.206,0.486,110.807,3,grunge
+2Cb1ZAkSUNrsrJcBhEEhFH,Shinedown,Somewhere in the Stratosphere,Burning Bright - Live from Washington State,25,233040,False,0.533,0.865,2,-3.215,1,0.039,0.00101,0.0,0.894,0.235,113.364,4,grunge
+3v5cS4gKxpJqxUu4wz3DvG,Live,Awake The Best Of Live,Heaven,25,226080,False,0.518,0.825,3,-5.775,1,0.0307,0.000447,0.0,0.0831,0.304,92.429,4,grunge
+73VT7p1Sr2JndrZlHBQdtY,Shinedown,Somewhere in the Stratosphere,Heroes - Live from Washington State,25,210720,False,0.196,0.992,7,-2.031,1,0.208,2.97e-05,0.000335,0.872,0.378,168.818,4,grunge
+3JE5zcOMJ28sDaIfnBTs70,The Presidents Of The United States Of America,Freaked Out And Small,Last Girl on Earth,25,140466,False,0.415,0.948,4,-3.654,0,0.052,0.023,0.00762,0.15,0.74,170.188,4,grunge
+7jHELTAQ6YEutiPJwqlgP6,Redlight King,Something For The Pain,Little Darlin,25,228600,False,0.576,0.686,5,-4.811,1,0.046,0.000996,0.000702,0.166,0.556,94.562,4,grunge
+0bORa4VpL8NzyMXEI6UFGK,Foo Fighters,"Echoes, Silence, Patience & Grace",Long Road To Ruin,60,224880,False,0.401,0.888,0,-3.793,1,0.0401,0.000367,0.0,0.12,0.365,146.781,4,grunge
+0WVOuzUcyIfVlKWYqAC0Jf,Screaming Trees,Dust,Witness,25,218480,False,0.367,0.944,2,-4.892,0,0.0814,1.32e-05,0.0,0.252,0.35,134.245,4,grunge
+3axNapUfpLoNy74EgIC26f,Foo Fighters,00050525 Live in Roswell,"This Is A Call - Live at Walker Air Force Base, Roswell, NM - June 2005",25,269200,False,0.288,0.979,4,-5.42,0,0.105,0.00208,1.91e-05,0.943,0.357,159.302,4,grunge
+6dSVppeLhFIN2tZaOSjCH1,Veruca Salt,Eight Arms To Hold You,Stoneface,25,163933,False,0.408,0.933,0,-2.828,0,0.0398,9.38e-05,0.0,0.124,0.51,136.037,4,grunge
+06oWuRT5ZoQIxmiPOEEe9R,Everclear,Songs From An American Movie: Learning How To Smile,Unemployed Boyfriend,26,255233,False,0.488,0.926,0,-5.622,1,0.0891,0.00373,0.000305,0.364,0.76,94.743,4,grunge
+4s98JWbBeq3GWU0xUQ9Yek,Matchbox Twenty,The Matchbox Twenty Collection,Black & White People,25,225226,False,0.541,0.845,7,-5.448,1,0.054,0.133,5.14e-05,0.299,0.703,120.522,4,grunge
+3vfiHifkBIHWHHpNMV4Clf,Mother Love Bone,Mother Love Bone,Stardog Champion,25,298066,False,0.434,0.725,7,-9.442,1,0.033,0.049,0.00108,0.251,0.197,142.053,4,grunge
+5capd5mwRgDPbhRlNCIhdZ,Eve 6,Eve 6,Superhero Girl,25,215533,False,0.515,0.824,9,-6.435,1,0.0406,0.000253,0.0,0.276,0.77,124.061,4,grunge

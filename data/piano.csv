@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,96,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Hounds Of Love,Running Up That Hill (A Deal With God),90,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,piano
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Native,Counting Stars,83,257266,False,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4,piano
+3ro6Oub0I05PiAxcZFKaTY,OneRepublic,Arbeitsmusik Herbst/Winter 2022/2023,I Ain't Worried,0,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+1iSyH8ek7Eqc8UWOReZaqg,OneRepublic,TickTok Back To School 2022,I Ain't Worried,1,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+6v2ngdpwmKNqoojSbkmYQ6,OneRepublic,Frühstücksmusik Herbst/Winter 2022/2023,I Ain't Worried,0,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+4LUwZxtF980YhwrvxtTeZ7,OneRepublic,HOT PARTY BACK TO SCHOOL 2022,I Ain't Worried,1,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+7EKylE34yNJV97yIYgwwTl,OneRepublic,TickTok Back To School 2022,I Ain't Worried,2,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+2hReXQtxmJVC1e68rvpAFY,OneRepublic,Arbeitsmusik Herbst/Winter 2022/2023,West Coast,0,192947,False,0.685,0.699,6,-7.803,0,0.0349,0.317,0.0,0.0895,0.884,134.057,4,piano
+0VBe5Wi5e0Gc3BD1MIos0i,OneRepublic,Sunny Mornings,Sunshine,1,163854,False,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,4,piano
+07WYO7Aayv3woZrmGeXbwT,OneRepublic,Mirando las nubes,Good Life,3,255693,True,0.636,0.708,6,-7.057,1,0.0512,0.0818,0.0,0.117,0.662,94.987,4,piano
+0VKAfRlgmLswXi4WoDxW0F,OneRepublic,Frühstücksmusik Herbst/Winter 2022/2023,West Coast,0,192947,False,0.685,0.699,6,-7.803,0,0.0349,0.317,0.0,0.0895,0.884,134.057,4,piano
+4Cp1G28atULvUeanW3vomY,OneRepublic,Arbeitsmusik Herbst/Winter 2022/2023,Sunshine,0,163854,False,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,4,piano
+4FJFz3htV3dahKGoa2mGzh,OneRepublic,pov: it's 2019,Rescue Me,0,159650,False,0.761,0.606,11,-7.742,0,0.0424,0.157,0.0,0.574,0.646,121.038,4,piano
+5wqIigDb6Afe0mX4acLyKo,OneRepublic,OO's Music Grandi Successi,Apologize,6,208106,False,0.596,0.74,8,-6.127,1,0.0338,0.341,2.05e-05,0.102,0.493,118.031,4,piano
+4KX7jXWbf6SivrmBHMuDuj,OneRepublic,Отново на училище,Counting Stars,4,256760,False,0.659,0.741,1,-4.354,0,0.0388,0.072,0.0,0.166,0.454,122.013,4,piano
+1HWaIZ9Tf67sTXOhyiUuon,OneRepublic,pov: it's 2020,Didn't I,0,207616,False,0.611,0.61,4,-6.745,1,0.0314,0.0186,0.0,0.125,0.242,123.943,4,piano
+7AFgOhuSixIbKSe6rb7dmx,OneRepublic;Alesso,Larga Vida al Electro,If I Lose Myself - Alesso vs OneRepublic,2,215480,False,0.518,0.829,2,-3.321,1,0.0414,0.198,5.65e-06,0.125,0.148,125.992,4,piano
+4XxSPIjGlXrlDS9zeAmQh2,OneRepublic,Pop Christmas 2022,White Christmas,0,126513,False,0.439,0.448,5,-8.447,1,0.0303,0.152,0.0,0.21,0.163,108.184,3,piano
+2s3Hr38fRfDRj9JWVP494L,OneRepublic,Holidays Are Coming,Christmas Without You,7,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+4xAMacCHE7J3Mv875tIYWa,OneRepublic,Weihnachtspop 2022,White Christmas,0,126513,False,0.439,0.448,5,-8.447,1,0.0303,0.152,0.0,0.21,0.163,108.184,3,piano
+3tjC9XdMwEF8KW82F6rV6f,OneRepublic,Frühstücksmusik Herbst/Winter 2022/2023,Run,0,169010,False,0.682,0.72,11,-8.173,0,0.0381,0.326,0.0,0.148,0.673,117.003,4,piano
+2cCmvbLleZaXRUinMmRaoY,OneRepublic,Del gusto de mamá,Good Life,1,255693,True,0.636,0.708,6,-7.057,1,0.0512,0.0818,0.0,0.117,0.662,94.987,4,piano
+37zhImRfvxPCafPScfoipY,OneRepublic,Rock Christmas 2022 - The Very Best Of,Christmas Without You,1,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+2C2ExiIb4W9sFp2t0Rkotq,OneRepublic,Holiday Tunes 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+2Xafbkd5sqyCkImRpklvwu,OneRepublic,Christmas 2022,Christmas Without You,1,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0VrqeZURszLwO3p5HpjfnO,OneRepublic,Jingle Bell Rock 2022,Christmas Without You,2,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+3eDX2SnjVRG9hh0v074eEO,OneRepublic,Christmas Songs 2022,Christmas Without You,1,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+6TqNKjiEZoOAw3r4OpiCjT,OneRepublic,De ese gran pop de los 00's,Apologize,0,208106,False,0.596,0.74,8,-6.127,1,0.0338,0.341,2.05e-05,0.102,0.493,118.031,4,piano
+66X1ngv1jd8ll1qj6A6BJq,OneRepublic,Christmas Dinner 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0vlXeqFl1qgL9fkq1wnPgp,OneRepublic,World's Best Christmas Playlist,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0vLuMiIbpTMlq4TjMisGS1,OneRepublic,Santa Claus Is Coming To Town,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+6iMzy3mIG2zVdMR15A6HmJ,OneRepublic;Alesso,Electro sounds,If I Lose Myself - Alesso vs OneRepublic,0,215480,False,0.518,0.829,2,-3.321,1,0.0414,0.198,5.65e-06,0.125,0.148,125.992,4,piano
+79iAblD2XBkWbXnY8KeHLS,OneRepublic,Weihnachten Musik,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+2j2IPZrRQXlytzuSCnp5uc,OneRepublic,12 Days of Christmas 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0eKdJWDjubf1rbyCm0D59b,OneRepublic,Slow Christmas Songs 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+22WSNwrytkJZ9hnis9DbnY,OneRepublic,Christmas Best Hits 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0vB1pgTJie4BLnE5Dl0lJO,OneRepublic,Almorzando solo,Counting Stars,0,256760,False,0.659,0.741,1,-4.354,0,0.0388,0.072,0.0,0.166,0.454,122.013,4,piano
+5SGjzbR81S0tCudlec1NXW,OneRepublic,Pop Christmas 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+03pixFplMU4GlGanyGESCJ,OneRepublic,CHRISTMAS TOP HITS 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0FBywYb06nuyLdn4gBlQLb,OneRepublic,Fiesta de disfraces vol. II,Counting Stars,0,256760,False,0.659,0.741,1,-4.354,0,0.0388,0.072,0.0,0.166,0.454,122.013,4,piano
+0IGdpfQ7kjpNPoHgbRbrmJ,OneRepublic,Lonely Christmas 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0keNCZtbWrvhO3TuDuyUni,OneRepublic,De ese gran pop de los 00's,Stop And Stare,0,223800,False,0.329,0.866,4,-4.328,1,0.0484,0.0724,0.0,0.0869,0.257,184.793,4,piano
+1xX6PCb6ZDyanJQuJOvGj0,OneRepublic,The Very Best Christmas Songs 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+5gYd4FkVfXLclbFdnguNkb,OneRepublic,Christmas Day Chill,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+6jWSUiDx2PiV8kgugdz29D,OneRepublic,Best Christmas Music 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0bwGll6Mwm24fW5m8TqLQp,OneRepublic,Weihnachten Playlist,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+5SBYmJR4hq0n6wIM78t22h,OneRepublic,Weihnachtspop 2022,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+0bICb3YSdsgg0lIYPr6mvn,OneRepublic,Beste Weihnachtslieder,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+5GkoEIpPvBmXzLW1mFCLYf,OneRepublic,All I Want For Christmas Is You,Christmas Without You,0,197146,False,0.262,0.677,7,-5.645,1,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+73PAbYaVbnFG0tQ4aBfxeN,OneRepublic,Top Gun: Maverick (Music From The Motion Picture),I Ain't Worried,73,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+72yP0DUlWPyH8P7IoxskwN,Elton John;Britney Spears,Hold Me Closer,Hold Me Closer,89,202245,False,0.667,0.75,0,-4.602,1,0.0906,0.0746,0.000198,0.197,0.486,126.041,4,piano
+1SKPmfSYaPsETbRHaiA18G,Keane,Hopes And Fears,Somewhere Only We Know,85,237146,False,0.448,0.665,9,-4.203,1,0.026,0.06,2.55e-05,0.0828,0.304,172.004,4,piano
+5fVZC9GiM4e8vu99W0Xf6J,The Fray,How To Save A Life,How to Save a Life,80,262533,False,0.64,0.743,10,-4.08,1,0.0379,0.269,0.0,0.101,0.361,122.035,4,piano
+1Nj2oBISdFDSF8eDuXcALz,OneRepublic;Logic,13 Reasons Why (Season 2),Start Again (feat. Logic),62,165626,False,0.564,0.722,1,-5.59,0,0.124,0.162,0.0,0.0931,0.276,99.083,4,piano
+4U45aEWtQhrm8A5mxPaFZ7,Billy Joel,The Stranger (Legacy Edition),Vienna,79,214240,False,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936,4,piano
+3ScJy88F8KqGDfWu8XJhHx,OneRepublic;Alesso,Native,If I Lose Myself - Alesso vs OneRepublic,69,215186,False,0.519,0.754,2,-5.689,1,0.0402,0.258,3.75e-06,0.139,0.16,125.975,4,piano
+0mjAU3yKR1QnXnHtjGJqTM,OneRepublic,Rescue Me,Rescue Me,71,158899,False,0.759,0.605,7,-7.737,1,0.0433,0.156,0.0,0.694,0.64,121.049,4,piano
+57uX2vR9j9DNiANDYfXw1i,The Fray,The Fray,Never Say Never,68,256613,False,0.23,0.492,8,-5.767,1,0.0317,0.568,8.18e-06,0.176,0.262,160.139,4,piano
+2UbVnbE5FH6008mAm6Mmgw,OneRepublic,Run,Run,76,169010,False,0.682,0.72,11,-8.173,0,0.0381,0.326,0.0,0.148,0.673,117.003,4,piano
+3UhXPxLDFKCj1ZO6mmtV0a,OneRepublic,Dreaming Out Loud,Apologize,74,208106,False,0.593,0.74,8,-6.12,1,0.0339,0.363,2.22e-05,0.102,0.502,118.008,4,piano
+0sBJA2OCEECMs0HsdIQhvR,OneRepublic,West Coast,West Coast,77,192947,False,0.685,0.699,6,-7.803,0,0.0349,0.317,0.0,0.0895,0.884,134.057,4,piano
+7jKCAmjP2cAn9WxxIVR14Y,Skylar Grey,Aquaman (Original Motion Picture Soundtrack) [Deluxe Edition],Everything I Need,61,200563,False,0.531,0.224,2,-10.878,1,0.0293,0.874,0.0,0.111,0.276,74.98,4,piano
+29d0nY7TzCoi22XBqDQkiP,Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,85,300840,False,0.625,0.533,10,-11.903,0,0.0596,0.659,0.00266,0.0546,0.139,108.296,4,piano
+59ew3BDqan1LlwZOuKA4TJ,Skylar Grey,Stand By Me,Stand By Me,60,146453,False,0.491,0.333,7,-10.004,1,0.029,0.581,0.0,0.0984,0.2,107.969,4,piano
+6OtCIsQZ64Vs1EbzztvAv4,OneRepublic,Waking Up,Good Life,74,253306,True,0.634,0.69,6,-7.804,1,0.052,0.0771,0.0,0.132,0.645,94.988,4,piano
+1NhPKVLsHhFUHIOZ32QnS2,OneRepublic,Waking Up,Secrets,76,224693,False,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,4,piano
+46jLy47W8rkf8rEX04gMKB,OneRepublic,Oh My My (Deluxe),Wherever I Go,70,169773,False,0.552,0.689,10,-6.444,0,0.0425,0.0915,0.0,0.27,0.349,99.961,4,piano
+2agBDIr9MYDUducQPC1sFU,Yiruma,Yiruma 2nd Album 'First Love' (The Original & the Very First Recording),River Flows In You,71,188786,False,0.315,0.22,9,-21.343,1,0.0514,0.987,0.943,0.0802,0.116,145.195,4,piano
+5W8HXMOMLtXLz0RGKUtnlZ,Skylar Grey;Polo G;Mozzy;Eminem,"Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]","Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",73,257368,True,0.664,0.692,1,-4.128,0,0.127,0.237,0.0,0.0798,0.233,154.924,4,piano
+3IQF4xCQUPicbA4hWfTxPo,OneRepublic,Native,I Lived,71,234546,False,0.593,0.851,9,-5.456,1,0.0446,0.0683,0.0,0.271,0.344,119.987,4,piano
+5r43qanLhUCdBj8HN3fa6B,OneRepublic,Sunshine,Sunshine,83,163854,False,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,4,piano
+6sy3LkhNFjJWlaeSMNwQ62,OneRepublic,Native,Counting Stars,78,257839,False,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.115,0.477,122.017,4,piano
+6aDsgHPZsMztSbZernzlF8,OneRepublic,Human (Deluxe),Someday,76,187888,False,0.576,0.679,0,-7.237,1,0.034,0.0311,0.0,0.323,0.213,121.005,4,piano
+6KL88T4Ma4ABXqzgUoEwkd,OneRepublic,Human (Deluxe),Run,75,168259,False,0.682,0.72,11,-8.176,0,0.0382,0.321,0.0,0.205,0.649,116.988,4,piano
+5zA8vzDGqPl2AzZkEYQGKh,Billy Joel,An Innocent Man,Uptown Girl,79,197706,False,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993,4,piano
+3gdewACMIVMEWVbyb8O9sY,Elton John,Honky Chateau,"Rocket Man (I Think It's Going To Be A Long, Long Time)",81,281613,False,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,4,piano
+1y05VMAnbF0SUrDo7RsMyy,Keane,Обратно в клас - rock,Somewhere Only We Know,1,236160,False,0.453,0.655,9,-4.22,1,0.0257,0.0794,7.06e-06,0.0849,0.366,172.01,4,piano
+5u0SXop8q1ahuv5hKQ87Ks,OneRepublic,Autumn Vibes 2022,Sunshine,0,163854,False,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,4,piano
+7tYKa4wd7gL5LwcxidBPkG,We The Kings;Elena Coates,Somewhere Somehow,Sad Song (feat. Elena Coats),49,226330,False,0.512,0.526,1,-5.44,1,0.0251,0.0724,0.0,0.0675,0.249,85.024,4,piano
+37LNNQNbL1YLyutBG6aWRx,OneRepublic,Human (Deluxe),Rescue Me,66,159650,False,0.761,0.606,11,-7.742,0,0.0424,0.157,0.0,0.574,0.646,121.038,4,piano
+3YhzWdoDeIWvxtj8h4zrMl,Smyang Piano,Still With You,Still With You,57,220778,False,0.627,0.385,1,-12.712,0,0.0294,0.907,0.929,0.104,0.132,88.007,4,piano
+2C7PtVuG50IBrcUlTZ13ZG,OneRepublic,Autumn Vibes 2022,Run,0,169010,False,0.682,0.72,11,-8.173,0,0.0381,0.326,0.0,0.148,0.673,117.003,4,piano
+0zACuA5TckBs58Vc8iwFYx,Keane,OO's Music Grandi Successi,Somewhere Only We Know,2,236160,False,0.453,0.655,9,-4.22,1,0.0257,0.0794,7.06e-06,0.0849,0.366,172.01,4,piano
+1fHjtMHTzBP2lPmuKmQl4F,Keane,Halloween & Alternative,Somewhere Only We Know,0,236160,False,0.453,0.655,9,-4.22,1,0.0257,0.0794,7.06e-06,0.0849,0.366,172.01,4,piano
+0FjwrnkoCQOVu67Urzkq3P,Keane,Отново на училище,Somewhere Only We Know,3,236160,False,0.453,0.655,9,-4.22,1,0.0257,0.0794,7.06e-06,0.0849,0.366,172.01,4,piano
+6QvyaYlJSCW6ft7dYHNxBA,OneRepublic,Autumn Vibes 2022,Counting Stars,0,256760,False,0.659,0.741,1,-4.354,0,0.0388,0.072,0.0,0.166,0.454,122.013,4,piano
+3OiUOulzZiEfaADvJNR7wa,Kate Bush,Planet 80's,Army Dreamers,3,174026,False,0.703,0.225,4,-11.366,0,0.0511,0.731,4.59e-06,0.102,0.399,143.248,3,piano
+0Qo6ENwrR9bj9nKWEuNslx,Kate Bush,80's,Babooshka,0,209933,False,0.47,0.439,8,-8.892,1,0.0322,0.741,1.64e-05,0.0707,0.287,108.037,4,piano
+5JfCThSgcFgzV6gGi7BxBP,Kate Bush,OK Boomers - Top Tunes,Wuthering Heights,0,205573,False,0.581,0.429,1,-10.007,1,0.0326,0.18,0.00106,0.128,0.504,123.802,4,piano
+5zQrU0nJoVT6rzKsxlvE80,Keane,Sad Covers 2022,With Or Without You - Jo Whiley Show - BBC Live Session,3,212333,False,0.395,0.382,2,-10.689,1,0.0329,0.918,1.96e-05,0.719,0.0582,108.082,4,piano
+3oIit4SAjQVdzqY15adCpV,Yiruma,Classical Christmas,Maybe Christmas - Orchestra Version,0,303297,False,0.105,0.154,1,-14.355,1,0.0334,0.946,0.895,0.0683,0.0756,71.0,4,piano
+1U1DAlctm9lKbTYUSczTgU,Yiruma,Klassische Weihnachtsmusik,Maybe Christmas - Orchestra Version,0,303297,False,0.105,0.154,1,-14.355,1,0.0334,0.946,0.895,0.0683,0.0756,71.0,4,piano
+5eQ65mobue34pbrlcx8IuU,Kate Bush,Feeling Good - Adult Pop Favorites,The Man with the Child in His Eyes,0,160626,False,0.3,0.21,0,-13.589,1,0.031,0.964,0.00323,0.124,0.18,86.038,4,piano
+5PDQcqpa5gERZQabpJu1eB,Keane,De ese gran pop de los 00's,Somewhere Only We Know,0,236160,False,0.453,0.655,9,-4.22,1,0.0257,0.0794,7.06e-06,0.0849,0.366,172.01,4,piano
+5pFKe37vrYun2WzsRD5PeO,Keane,De ese gran pop de los 00's,Everybody's Changing,0,216000,False,0.514,0.85,0,-3.534,1,0.0288,0.00142,0.000297,0.0984,0.437,94.018,4,piano
+4yp2yp607NbAqmpvtvk5Bp,Yiruma,Christmas Dinner,Maybe Christmas - Orchestra Version,0,303297,False,0.105,0.154,1,-14.355,1,0.0334,0.946,0.895,0.0683,0.0756,71.0,4,piano
+70mBn5A0cKtwGGMTrr0IXl,Ray Charles,Thanksgiving Party,Mess Around,0,160226,False,0.565,0.962,8,-2.981,1,0.064,0.437,0.0,0.056,0.906,148.804,4,piano
+5vja6kqkYPmciEWjnI8AIu,Supertramp,Best 70s Rock Tunes,Give A Little Bit,1,248173,False,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.00949,0.263,0.471,90.767,4,piano
+5CqgwvGdzmYmTAEDvRMKxA,Supertramp,Fiesta temática 70s,Give A Little Bit,0,248173,False,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.00949,0.263,0.471,90.767,4,piano
+4w1lzcaoZ1IC2K5TwjalRP,Vanessa Carlton,Be Not Nobody,A Thousand Miles,77,237493,False,0.56,0.825,11,-3.862,1,0.0379,0.323,0.0,0.161,0.268,94.931,4,piano
+38UDoZyudPWXLzXRAb71oP,Elton John;Charlie Puth,After All,After All,57,208714,False,0.501,0.556,5,-5.628,1,0.0266,0.361,0.000133,0.115,0.165,82.017,4,piano
+29kUiQdEvB9q7joHiYZNJ3,OneRepublic,"I Ain’t Worried - Acoustic (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain’t Worried - Acoustic,67,149233,False,0.711,0.493,5,-6.991,1,0.0357,0.688,1.9e-05,0.0828,0.783,139.994,4,piano
+4IoYz8XqqdowINzfRrFnhi,The Fray,The Fray,You Found Me,74,241853,False,0.338,0.803,8,-5.412,0,0.0413,0.0187,0.0,0.136,0.4,151.994,4,piano
+6Vc5wAMmXdKIAM7WUoEb7N,A Great Big World;Christina Aguilera,Is There Anybody Out There?,Say Something,74,229400,False,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,3,piano
+5mQNY6pTeSDl2doFB7uLbE,OneRepublic,Oh My My,Kids,61,238386,False,0.596,0.732,2,-6.189,1,0.0401,0.0153,0.0,0.318,0.228,99.98,4,piano
+7dOeiXeTSfA1ixaYmQcWu7,OneRepublic;Seeb,Rich Love,Rich Love (with Seeb),64,201256,False,0.401,0.872,1,-3.641,0,0.314,0.167,0.0,0.362,0.472,104.592,4,piano
+5l6hpyTGBK0LAAxgPnqTQL,The Fray,How To Save A Life,Look After You,71,266773,False,0.447,0.592,6,-3.015,0,0.0319,0.0575,4.47e-06,0.13,0.283,78.039,4,piano
+1jDJFeK9x3OZboIAHsY9k2,Elton John,Too Low For Zero,I'm Still Standing,84,183440,False,0.504,0.904,6,-6.863,1,0.179,0.356,0.121,0.14,0.772,176.808,4,piano
+70C4NyhjD5OZUMzvWZ3njJ,Billy Joel,Piano Man (Legacy Edition),Piano Man,77,339000,False,0.331,0.55,0,-6.483,1,0.0272,0.605,3.96e-06,0.192,0.429,177.734,3,piano
+7k9GuJYLp2AzqokyEdwEw2,Ross Copperman,Hunger,Hunger,56,205594,False,0.442,0.632,1,-6.77,1,0.0295,0.426,0.00419,0.0735,0.196,78.899,4,piano
+2p5THyuNwpJ9c7ex3TN383,Jacob David,Nowesind,Nowesind,70,119120,False,0.304,0.0902,10,-32.824,1,0.0489,0.903,0.907,0.111,0.318,114.487,4,piano
+05sCp83gcMm1iecYydKJS3,OneRepublic,Oh My My,Let's Hurt Tonight,63,194520,False,0.359,0.713,5,-4.526,1,0.0366,0.33,0.0,0.324,0.272,61.519,4,piano
+58NJ1O96HRS2oFPu4fpW3U,Elton John;Britney Spears,Hold Me Closer (Purple Disco Machine Remix),Hold Me Closer,0,202245,False,0.672,0.782,0,-4.595,1,0.121,0.0956,0.000206,0.187,0.513,126.036,4,piano
+2K0r5GD5zYlEMx2M7ZMcqG,OneRepublic,Better Days,Better Days,64,144530,False,0.626,0.726,5,-5.015,1,0.0376,0.235,0.0,0.304,0.257,89.132,4,piano
+38zsOOcu31XbbYj9BIPUF1,Elton John,Elton John,Your Song,79,241786,False,0.554,0.315,3,-11.028,1,0.0298,0.828,5.53e-06,0.101,0.325,128.157,4,piano
+1QzFhzIOW7CyRJLpmq5CM0,OneRepublic,Native,Counting Stars,62,257386,False,0.663,0.705,1,-4.972,0,0.0385,0.0654,0.0,0.117,0.477,122.014,4,piano
+2XPxkVgxyj4QVaW78kS5vb,Doris Casella,Estelle,Estelle,69,118500,False,0.216,0.0575,7,-25.96,0,0.0501,0.994,0.951,0.109,0.151,206.686,4,piano
+5TJEBoTCDbJXiKMdCN9pd3,Elton John;Britney Spears,The Lockdown Sessions,Hold Me Closer,74,202245,False,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,4,piano
+5xS9R5yNeVsB9shSR60eX3,OneRepublic,Native,If I Lose Myself,61,241653,False,0.491,0.688,2,-6.05,1,0.0453,0.0849,0.0,0.111,0.279,140.072,4,piano
+0e3yhVeNaTfKIWQRw9U9sY,Elton John,Sleeping With The Past (Remastered with bonus tracks),Sacrifice,74,304133,False,0.756,0.422,11,-12.967,0,0.0292,0.0165,0.00183,0.0368,0.487,112.751,4,piano
+3T4UodGkfZObJ43RtA5KFU,OneRepublic,Connection,Connection,63,148459,False,0.611,0.602,5,-4.89,1,0.0437,0.000837,0.0,0.112,0.624,168.154,4,piano
+3VM35337X7Ro1tesUHnZ95,Libor Kolman,Quand vous souriez,Quand vous souriez,69,118250,False,0.484,0.059,1,-25.084,0,0.0517,0.996,0.948,0.106,0.308,89.329,3,piano
+2TVxnKdb3tqe1nhQWwwZCO,Elton John,Madman Across The Water,Tiny Dancer,78,377093,False,0.414,0.428,0,-11.097,1,0.0278,0.382,0.000243,0.148,0.282,145.075,4,piano
+2bjQvSk5T3A2dmnqqeRhzI,Emanuel Fremont,Saying Things,Saying Things,70,123500,False,0.307,0.0381,11,-28.197,1,0.0423,0.993,0.945,0.104,0.0631,72.453,5,piano
+5KbhvaeqKIB2bZcJMyfezl,Elton John;Britney Spears;Joel Corry,Hold Me Closer (Joel Corry Remix),Hold Me Closer - Joel Corry Remix,68,248594,False,0.642,0.887,0,-5.439,1,0.0416,0.0173,5.75e-05,0.246,0.117,125.994,4,piano
+1zgV7obuDgU0DEaNCmPw8u,OneRepublic;MOTi,Sunshine. The EP,Sunshine - MOTi Remix,62,188825,False,0.727,0.77,5,-5.915,1,0.0419,0.0764,5.38e-06,0.155,0.542,125.99,4,piano
+49J6l9fKrBXaiu9WQkTUBp,Skylar Grey,The Buried Sessions of Skylar Grey,Coming Home - Part II,49,164826,False,0.58,0.282,4,-9.605,1,0.0323,0.93,2.04e-05,0.0905,0.174,129.948,4,piano
+1TGWNtFzNZsNeqT6oBvXtw,OneRepublic;Collins,Run (Collins Remix),Run - Collins Remix,60,169730,False,0.646,0.749,11,-6.882,0,0.0336,0.229,0.0,0.14,0.836,117.05,4,piano
+2HwCcCi8Up9NECNBRt0yTV,Igulfrid,Hideaway,Hideaway,68,148906,False,0.356,0.0186,9,-26.729,1,0.042,0.991,0.929,0.0996,0.154,84.753,4,piano
+341863z079BT4EFPiSw9DP,Regina Spektor,The Call,The Call,61,187426,False,0.58,0.101,10,-15.661,1,0.0289,0.934,0.000302,0.0768,0.302,91.003,3,piano
+5DezuV0RFcMcgA11UGdGBR,Gunnel Boek,Hommage d'amitié,Hommage d'amitié,67,136648,False,0.419,0.043,5,-29.477,1,0.0372,0.99,0.954,0.105,0.375,181.943,4,piano
+0yac0FPhLRH9i9lOng3f81,Keane,Hopes And Fears,Everybody's Changing,74,215880,False,0.517,0.839,0,-3.521,1,0.0287,0.0014,0.000365,0.108,0.416,94.015,4,piano
+5XRHGXut00SrJUFmcn2lQF,OneRepublic,Waking Up,All The Right Moves,67,238000,False,0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,4,piano
+7HW5WIw7ZgZORCzUxv5gW5,Elton John;Kiki Dee,Rock Of The Westies,Don't Go Breaking My Heart,78,275440,False,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,4,piano
+3zbKrkqZyv2TnL8kwv9UjO,Elton John;Britney Spears;Purple Disco Machine,Hold Me Closer (Purple Disco Machine Remix),Hold Me Closer - Purple Disco Machine Extended Mix,0,354920,False,0.854,0.699,0,-5.724,1,0.0696,0.0151,0.000585,0.0557,0.723,126.011,4,piano
+4uNG9ER2pDOayDd1Wq8Cjq,Elton John;Britney Spears;Purple Disco Machine,Hold Me Closer (Purple Disco Machine Remix),Hold Me Closer - Purple Disco Machine Remix,0,218853,False,0.692,0.842,0,-4.871,1,0.136,0.0506,1.79e-06,0.147,0.777,125.972,4,piano
+2EowclmjcHVK6W8xlngurh,Skylar Grey,Don't Look Down,Coming Home - Part II / Bonus Track,57,164826,False,0.568,0.283,4,-9.605,1,0.0333,0.93,2.04e-05,0.0906,0.173,130.052,4,piano
+3Cx4yrFaX8CeHwBMReOWXI,Billy Joel,Storm Front,We Didn't Start the Fire,76,287733,False,0.712,0.967,7,-5.206,1,0.047,0.0771,0.0,0.356,0.895,145.024,4,piano
+4IRHwIZHzlHT1FQpRa5RdE,Elton John,Goodbye Yellow Brick Road (Remastered),Goodbye Yellow Brick Road - Remastered 2014,74,192826,False,0.559,0.473,5,-7.712,1,0.0279,0.446,0.00141,0.154,0.397,121.227,4,piano
+5TvE3pk05pyFIGdSY9j4DJ,A Great Big World;Christina Aguilera,Is There Anybody Out There? - Track by Track Commentary,Say Something,70,229400,False,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,3,piano
+2SLxgJ2YFohfd8KwuJZTUE,OneRepublic,Human (Deluxe),Better Days,59,144545,False,0.618,0.725,5,-4.952,1,0.0479,0.255,0.0,0.424,0.242,88.982,4,piano
+5RgFlk1fcClZd0Y4SGYhqH,Billy Joel,The Stranger (Legacy Edition),She's Always a Woman,73,201373,False,0.292,0.324,3,-11.996,1,0.0346,0.797,0.000473,0.12,0.384,176.631,3,piano
+5jQXOC8ShgkFMahTEYPoQq,Elton John;Britney Spears,Hold Me Closer (Joel Corry Remix),Hold Me Closer,52,202245,False,0.665,0.769,0,-4.586,1,0.112,0.0854,0.000169,0.185,0.495,126.042,4,piano
+2hMTR8zK8Db849VttJXMSV,Chad Lawson,ZEN 2022,when the party's over - Slowed Remix,0,234280,False,0.409,0.0191,2,-31.753,1,0.0324,0.992,0.912,0.0981,0.181,104.164,4,piano
+2n0U2OG5d6TuW5mKx7YrC0,Regina Spektor,Far,Two Birds,73,195840,False,0.546,0.5,0,-8.881,1,0.0379,0.802,0.00108,0.107,0.449,150.92,4,piano
+4zz8azEqi0rEMKNxxIijqB,Vanessa Carlton,De ese gran pop de los 00's,A Thousand Miles,0,237493,False,0.559,0.845,11,-3.871,1,0.0379,0.222,0.0,0.164,0.304,94.916,4,piano
+3Xrasa4unuME8UMwOnqIP9,Ray Charles,Thanksgiving Party,Ain't That Love,0,173906,False,0.751,0.467,10,-9.535,1,0.327,0.303,0.0,0.163,0.774,118.11,4,piano
+4ztaiZfY9lPy1ItQ3DoRiT,Stephan Moccio,ZEN 2022,Wrecking Ball - Solo Piano Version,0,204560,False,0.515,0.0695,5,-22.837,1,0.0342,0.992,0.934,0.0943,0.109,112.81,4,piano
+6bGyX75xUytV0Ze8CY18UR,Bill Evans,Essential Christmas Cocktail Party,Santa Claus Is Coming To Town,0,264360,False,0.62,0.31,7,-16.749,1,0.0446,0.672,0.0954,0.14,0.649,92.421,4,piano
+5JDcQAztvZTIkrWoZihgvC,Ron Pope,The Bedroom Demos,A Drop in the Ocean,68,220239,False,0.447,0.393,5,-8.65,1,0.038,0.785,0.0,0.28,0.564,73.139,3,piano
+2uU4tNepmkbE5lyQ9d0zFZ,Kris Bowers,Bridgerton Season Two (Covers from the Netflix Series),Kabhi Khushi Kabhie Gham,57,208893,False,0.448,0.0588,1,-27.582,1,0.0328,0.625,0.952,0.132,0.418,95.997,4,piano
+6hLkeOMrhZ2CMLBp2of576,OneRepublic,Wanted,Wanted,58,136247,False,0.668,0.534,1,-6.586,1,0.0677,0.164,0.0,0.1,0.711,145.816,4,piano
+4g7wXitUwsMOjZMA9m1vy6,Ever So Blue,Sketches,Sketches,54,157126,False,0.353,0.0944,10,-26.851,1,0.0386,0.993,0.938,0.103,0.416,147.411,4,piano
+5Sies2EfN1e7CNHhfaAq8g,Teide,Girasole,Sorrisi,57,147573,False,0.461,0.0551,7,-24.737,1,0.043,0.972,0.935,0.123,0.355,112.247,4,piano
+0yccHAlypw9zM9Pf33lLjd,Milo Edale,Returning,Returning,66,140250,False,0.334,0.0203,7,-32.364,0,0.0325,0.993,0.919,0.0917,0.351,88.396,4,piano
+0yc37FvbXRwwFaQxzpxbsd,OneRepublic,Somebody To Love,Somebody To Love,56,181408,False,0.401,0.503,2,-8.084,1,0.0437,0.0158,0.0,0.134,0.236,118.491,4,piano
+5BMOKxB68b72YxWVnbq6Zf,Elliott Jacqués,Finding Beauty,Afterthought,59,149026,False,0.367,0.103,4,-27.538,1,0.0392,0.98,0.951,0.11,0.0412,64.925,4,piano
+1oMUYmXy85ZOQGZ2fylBiN,Mingmei Hsueh,Lullabies,Itsy bitsy spider,69,82500,False,0.452,0.0238,7,-27.5,1,0.0622,0.995,0.966,0.154,0.36,109.71,4,piano
+5B6082J94hvTWxLjWBIm2g,Skylar Grey,Aquaman (Original Motion Picture Soundtrack) [Deluxe Edition],Everything I Need - Film Version,54,196234,False,0.502,0.458,2,-9.294,1,0.0383,0.4,0.0,0.0917,0.289,75.067,4,piano
+2RaiBxsqe36vP0akK2BWHZ,Pharozen,Suzume no Tojimari Fan Original Soundtrack,"Suzume (From ""Suzume no Tojimari"") - Orchestral Lullaby Version",45,158887,False,0.468,0.223,5,-12.11,1,0.0336,0.719,0.0408,0.0598,0.401,155.97,4,piano
+3cOO5IQtOYs7huq4Z6lYfr,OneRepublic,Native,Love Runs Out,64,224853,False,0.715,0.931,7,-3.793,1,0.0565,0.171,0.0,0.0757,0.742,120.025,4,piano
+7zP20CANb26S52imHKKWEc,Benny Garner,Soft Piano Covers,Comptine d'Un Autre té,60,149055,False,0.391,0.11,2,-22.971,1,0.0434,0.97,0.931,0.108,0.198,98.834,4,piano
+16dkWKIlBsfYTISCVuDs0w,Ron Pope,Whatever It Takes,A Drop In the Ocean,55,219480,False,0.484,0.573,5,-6.183,1,0.0298,0.0882,1.14e-06,0.15,0.346,139.966,3,piano
+00PnFrg2QQzPqkeuxGxcz9,Kalen Elmsley,Relaxing Piano (Neoclassical Sessions),Spheroidal,66,184220,False,0.367,0.0221,2,-27.33,1,0.0459,0.996,0.95,0.0709,0.158,103.169,3,piano
+5KlCWDbatUCBhvN7ZwyeEF,Elton John,Diamonds (Deluxe),Can You Feel The Love Tonight - Remastered,65,241893,False,0.298,0.382,10,-7.812,1,0.0299,0.798,9.87e-06,0.0988,0.124,125.473,4,piano
+5RblS5gGs0nfWBKk153KCN,Norman Dück,Ein kurzer Augenblick,Ein kurzer Augenblick,56,140544,False,0.435,0.0506,2,-30.564,0,0.0482,0.987,0.91,0.113,0.163,115.551,3,piano
+0pg4ptWsO9eMH6nEhrM9fD,OneRepublic,Dreaming Out Loud,Stop And Stare,62,223853,False,0.492,0.859,4,-4.274,1,0.0332,0.0659,0.0,0.0756,0.251,92.474,4,piano
+0tL0JB08d5De5zBko245Y8,Christian Peterson-Bergling,Midsommarnatt,Sommarvals,66,176557,False,0.352,0.0464,1,-27.631,1,0.0307,0.973,0.879,0.107,0.339,98.943,4,piano
+3xr8COed4nPPn6XWZ0iCGr,Yiruma,The Best - Reminiscent 10th Anniversary,River Flows in You,64,218293,False,0.287,0.292,9,-19.285,1,0.0541,0.968,0.978,0.09,0.346,145.703,4,piano
+3TwtrR1yNLY1PMPsrGQpOp,Five For Fighting,America Town,Superman (It's Not Easy),70,221693,False,0.382,0.416,0,-9.303,1,0.0302,0.0733,0.0,0.0719,0.125,102.089,4,piano
+2SkJKMfjpYsNv0KWOxiegX,A Great Big World,When the Morning Comes,Kaleidoscope,62,229320,False,0.709,0.913,7,-5.148,1,0.0748,0.0182,0.0,0.167,0.519,108.024,4,piano
+7D49Iig0avHre9RFSUMkd2,OneRepublic,Native,I Lived,70,234546,False,0.599,0.854,9,-5.429,1,0.0436,0.0746,0.0,0.278,0.311,119.986,4,piano
+3r9m79pHykbs4FrCXlq1oO,Skylar Grey;Polo G;Mozzy;Eminem,"Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]","Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",54,258678,True,0.585,0.714,1,-4.117,0,0.116,0.25,0.0,0.0556,0.227,103.051,5,piano
+7vd1j4IDTU0koES9M8dvBQ,Yiruma,Yiruma 3rd Album 'From The Yellow Room' (The Original & the Very First Recording),Kiss The Rain,61,260653,False,0.56,0.0519,8,-22.616,1,0.0423,0.99,0.905,0.117,0.182,132.691,4,piano
+7DJ6c1V0fJUIpTTYbVOPpU,Jim Brickman,Winter Chill,A Taste Of Snow,0,217268,False,0.399,0.314,5,-12.206,1,0.0379,0.991,0.897,0.078,0.336,135.281,4,piano
+0PscpNWPbcAXrZwgvifbR2,Jim Brickman,Winter Chill,Jingle Bells,0,173208,False,0.454,0.0958,0,-17.878,1,0.0359,0.987,0.951,0.103,0.249,129.388,4,piano
+7eK418wMGx908CDgCNwAPh,Jim Brickman,Winter Chill,Amber Glow,0,156257,False,0.395,0.0942,7,-17.859,1,0.0359,0.977,0.872,0.0848,0.268,133.35,3,piano
+16f5nKCHNOL2NjBA45xIoH,Jim Brickman,Winter Chill,"Mary, Did You Know?",0,202630,False,0.39,0.091,2,-18.195,0,0.031,0.983,0.908,0.0769,0.0744,61.324,4,piano
+4vtX1U34XrXZ6T8A3ycGzM,Jim Brickman,Winter Chill,Marble Halls,0,192840,False,0.454,0.0921,10,-18.764,1,0.0488,0.986,0.757,0.0908,0.106,119.035,3,piano
+0fI7AW2As1UGXw1tKw5Fey,Jim Brickman,Winter Chill,Winter Waltz - 2020 Version,0,228399,False,0.435,0.0885,9,-19.184,0,0.0488,0.991,0.945,0.0915,0.195,115.758,4,piano
+72tinFpEPWLUZJ4kOIJz7U,Jim Brickman,Winter Chill,Away In The Manger,0,236791,False,0.308,0.119,5,-18.25,1,0.0343,0.973,0.941,0.11,0.0826,126.44,3,piano
+0ImYtGljvVGvRIFueRumGE,Jim Brickman,Winter Chill,The Little Drummer Boy,0,173956,False,0.351,0.0709,0,-19.615,1,0.034,0.981,0.872,0.105,0.0951,139.035,4,piano
+6lSPwGVUg40KxFwR2kV15Q,Jim Brickman,Winter Chill,O Christmas Tree,0,238478,False,0.592,0.131,5,-17.116,1,0.0344,0.975,0.928,0.091,0.118,132.014,4,piano
+1Mjsb1o0I16XLlX90ojBca,Jim Brickman,Winter Chill,Coventry Carol,0,202703,False,0.302,0.039,9,-19.122,0,0.0349,0.98,0.905,0.0632,0.0621,130.765,4,piano
+4w2dwWRCQSvNUt2Hn8LEAP,Jim Brickman,Winter Chill,I Heard The Bells On Christmas Day,0,199522,False,0.423,0.0465,5,-19.652,1,0.0338,0.987,0.875,0.109,0.0771,56.318,5,piano
+3FlyGsMdfPz50sWYpkPpQx,Jim Brickman,Winter Chill,O Come O Come Emmanuel,0,177632,False,0.419,0.0724,7,-17.252,1,0.036,0.98,0.791,0.119,0.227,132.459,5,piano
+2ZWg239gHVNGV8t2h0ci29,Jim Brickman,Winter Chill,I'll Be Home For Christmas,0,225131,False,0.248,0.0657,0,-18.973,1,0.0318,0.968,0.877,0.111,0.0793,91.47,4,piano
+0wet4UoyZTBkgywjEUs4IS,Jim Brickman,Winter Chill,Angels We Have Heard On High,0,273685,False,0.362,0.0845,5,-19.229,1,0.033,0.984,0.93,0.0976,0.137,133.107,4,piano
+1tTjmC6FSSFE04FkNpa3xJ,Jim Brickman,Christmas Faves 2022,"Believe - From ""The Polar Express""",0,289053,False,0.364,0.11,4,-18.897,1,0.0771,0.985,0.924,0.111,0.15,196.58,3,piano
+0qJGlogD7AyMLAJfQ42aI2,Five For Fighting,Bookmarks,Heaven Knows,62,210612,False,0.6,0.845,10,-7.076,1,0.0311,0.048,0.0,0.24,0.392,97.631,4,piano
+2zHc7NcuFFuT6lobLAUzgp,Rufus Wainwright,Christmas Songs 2022,Hallelujah,1,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,piano
+75u8RkM5CGoMn5E3vJOdPt,Duke Ellington;John Coltrane,Best Christmas Songs 2022 | For under the Mistletoe,In A Sentimental Mood,0,256293,False,0.445,0.278,10,-11.882,0,0.0313,0.914,0.00577,0.101,0.262,99.058,3,piano
+752n4jKSMASefgd8MpEqq5,Rufus Wainwright,Sad Covers 2022,Hallelujah,2,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,piano
+7fZiHuZ3OapgnshQ7QtxWV,Rufus Wainwright,Christmas Best Hits 2022,Hallelujah,0,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,piano
+2TIw5PyvZZ9N3EzDveEoTi,Rufus Wainwright,All I Want For Christmas Is You,Hallelujah,0,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,piano
+6PrnqAkxifshpNad1rFk5t,Rufus Wainwright,Alternative Christmas 2022,Gay Messiah,0,194840,True,0.373,0.438,0,-9.214,1,0.0297,0.563,0.000109,0.355,0.411,139.331,3,piano
+2xZEp5wiB3fdZYGE9wCDOh,Rufus Wainwright;Sharon Van Etten,Alternative Christmas 2022,"Baby, It’s Cold Outside",0,253746,False,0.249,0.25,0,-9.806,0,0.0291,0.902,0.0,0.107,0.298,73.52,4,piano
+3wjQZWJAeEmb7Z3CdsNajq,Duke Ellington;John Coltrane,All I want For Christmas Is Music,In A Sentimental Mood,0,256293,False,0.445,0.278,10,-11.882,0,0.0313,0.914,0.00577,0.101,0.262,99.058,3,piano
+29eo4Bc2tFUrS7VoApleeK,Oscar Peterson,Ultimate Calm Christmas Jazz,White Christmas,0,228466,False,0.406,0.0242,8,-27.846,1,0.0328,0.956,0.773,0.113,0.185,78.691,4,piano
+1Ic5yiebfz4GfOTfJnzZ3W,Skylar Grey,"I Know You (From The ""Fifty Shades Of Grey"" Soundtrack)","I Know You - From The ""Fifty Shades Of Grey"" Soundtrack",51,299306,False,0.421,0.409,5,-7.641,0,0.0318,0.354,0.0,0.107,0.152,147.88,4,piano
+0rI56S1biB0efYypn7eNpP,Skylar Grey;Eminem,Natural Causes,Kill For You,53,291666,True,0.67,0.8,4,-5.933,0,0.297,0.151,3.47e-06,0.613,0.268,95.693,4,piano
+6ikDZX0oc8EKGj2vdMAEDv,OneRepublic,Didn't I,Didn't I,59,207616,False,0.606,0.613,4,-6.758,1,0.0306,0.0182,0.0,0.125,0.258,123.943,4,piano
+3MOqT1Ka4jEf9PKSafbDiT,Ever So Blue,Dvala,Dvala,65,177813,False,0.251,0.0902,7,-25.186,1,0.0418,0.971,0.868,0.0871,0.128,65.816,3,piano
+6oaQuXiRKqQq9ITJBV1XmC,OneRepublic,Wild Life,Wild Life,59,267117,False,0.498,0.764,2,-8.096,1,0.0382,0.0118,0.0104,0.156,0.0557,115.975,4,piano
+36QUkXZd5QuCItDvIPSbH0,Ever So Blue,Symbios,Symbios,63,173161,False,0.482,0.234,7,-22.993,1,0.0379,0.995,0.943,0.101,0.593,95.657,4,piano
+5t9WS1mp1WGOqz6lJut8za,Davignon,Dualities,Dualities,64,129306,False,0.444,0.121,7,-22.522,0,0.039,0.988,0.924,0.109,0.175,127.897,1,piano
+5V7mTIcXVU9k2JNu0mE6vy,Secondhand Serenade,A Naked Twist in My Story,Fall for You (Acoustic),64,176946,False,0.433,0.307,0,-8.796,1,0.0327,0.65,0.0,0.0635,0.378,178.114,4,piano
+13F8dKNDk0VclpO0QBjgop,Skylar Grey,Fifty Shades Of Grey (Original Motion Picture Soundtrack),"I Know You - From The ""Fifty Shades Of Grey"" Soundtrack",50,298880,False,0.467,0.406,5,-7.643,0,0.0304,0.379,0.0,0.107,0.155,74.003,4,piano
+0sCPbmOcdRcTWVDjHh22id,William Cas,Hour of Rest,Hour of Rest,65,112653,False,0.308,0.00889,5,-28.337,1,0.0397,0.973,0.936,0.112,0.11,143.231,3,piano
+24ot0ptpr1AmuYqUn2OqYR,Chewie Melodies,Tsurumi Fog Island Piano Cover Collection,Through the Mists,49,90871,False,0.615,0.0123,5,-33.484,1,0.0595,0.989,0.939,0.0913,0.137,140.079,4,piano
+7guzWL6scF2bIRud4Mfk9Y,Laetitia Dostie,Tu as disparu,Tu as disparu,65,115915,False,0.362,0.107,9,-22.77,0,0.0443,0.994,0.972,0.107,0.363,87.942,3,piano
+4ZoBC5MhSEzuknIgAkBaoT,Billy Joel,52nd Street,My Life,72,284000,False,0.741,0.647,2,-12.878,1,0.0427,0.108,0.00139,0.0555,0.804,131.097,4,piano
+2WZyfujzMweFLnozyUJBkW,Augustana,All The Stars and Boulevards,Boston,63,245933,False,0.404,0.571,0,-5.069,1,0.0303,0.182,2.08e-05,0.129,0.29,147.01,4,piano
+5LIsR2QFLqxot9tX9huYwi,Albin Svensson,Your Story,From Above,65,106013,False,0.382,0.0737,3,-26.048,1,0.0366,0.993,0.919,0.0965,0.294,94.112,4,piano
+33JFCwEvVejNIxGwHMakbk,Jacob's Piano,Mariage d'Amour,Mariage d'Amour,55,269629,False,0.303,0.178,7,-20.756,0,0.0467,0.972,0.941,0.0836,0.218,162.93,4,piano
+11dXcanDmcbLe5qyFRKFty,Piano Peace,Bts Piano Covers,Save Me,42,220898,False,0.702,0.114,1,-19.589,1,0.0467,0.986,0.929,0.104,0.0621,128.001,4,piano
+2lxBZVbkiCXC1soks2RXwV,Ben Rector,Magic,Love Like This,61,214240,False,0.637,0.14,2,-11.472,1,0.0407,0.903,0.0,0.107,0.392,139.78,4,piano
+0rlR7gBOx5jfIvVsPfGQsC,Elliott Jacqués,Sunday Morning,Sunday Morning,61,134706,False,0.348,0.0143,6,-33.971,1,0.0406,0.993,0.93,0.102,0.304,70.771,4,piano
+4iCLo3ZjF6V1RW4Wz18KMz,Ploxxio,Praxedis,Aufgang der Sonne,63,172813,False,0.374,0.0405,5,-29.196,1,0.0408,0.981,0.924,0.103,0.226,129.413,4,piano
+2m2GJpBjQNNphaCgBeoj7R,Stephan Moccio,Fracture,Fracture,69,207640,False,0.324,0.0186,2,-28.248,1,0.0476,0.99,0.934,0.105,0.126,85.297,4,piano
+49MHCPzvMLXhRjDantBMVH,Billy Joel,The Stranger (Legacy Edition),Just the Way You Are,72,290573,False,0.589,0.453,7,-8.912,1,0.0397,0.703,2.54e-05,0.134,0.513,139.148,4,piano
+2qCzkyUdNWxGY0lQh0jp8F,Miriam Raye,River Running Free,River Running Free,61,136000,False,0.266,0.0661,8,-30.81,1,0.049,0.991,0.919,0.0993,0.516,191.598,3,piano
+1sbtlxnooEBDFwBmPNeoWP,Kenzie Smith Piano,"Anime Music Collection Piano Solo, Vol. 7","Sadness and Sorrow (From ""Naruto"")",49,190275,False,0.536,0.0486,4,-17.507,0,0.132,0.92,0.822,0.0821,0.157,128.263,4,piano
+2z8S9ARUXOXWT9h0PdF4yP,OneRepublic,Human (Deluxe),Somebody To Love,51,181408,False,0.401,0.503,2,-8.084,1,0.0439,0.0158,0.0,0.134,0.236,118.486,4,piano
+1iBBkRHjW8zY4foZ42hOAa,Skylar Grey,Don't Look Down,Love The Way You Lie - Part III (Original Demo),43,249360,False,0.599,0.242,10,-11.686,1,0.0335,0.911,0.0,0.07,0.263,82.995,4,piano
+64VP3skE86iTvdOlbzuIcO,Jerry Lee Lewis,Jerry Lee's Greatest,Great Balls Of Fire,68,111535,False,0.533,0.729,7,-7.227,0,0.0714,0.563,0.0,0.159,0.884,78.67,4,piano
+3d8ujibjeeCh4tgyMwz2jk,Aaren Hughes,Summer Light,Summer Light,62,132681,False,0.533,0.027,8,-29.485,1,0.0554,0.996,0.876,0.103,0.147,52.556,4,piano
+3eabrKx1t8T4sHLEAMmOXK,Smyang Piano,"Piano Collection, Vol. 4",Euphoria,47,203279,False,0.428,0.0985,11,-25.133,0,0.0446,0.974,0.949,0.119,0.153,70.003,5,piano
+7hIRQZhDjab4YgqkkkehV9,OneRepublic,Native,If I Lose Myself,59,241640,False,0.482,0.713,2,-6.017,1,0.0487,0.0969,0.0,0.111,0.263,140.069,4,piano
+5ZhaKUsY68U0lgREFWfoxg,Ross Copperman,Holding On And Letting Go - Single,Holding On And Letting Go,49,319000,False,0.502,0.53,2,-9.573,1,0.0266,0.805,0.000738,0.0728,0.102,78.046,4,piano
+5dUMh0ugelpKfoFp3qChuK,Ray Charles,True Genius,Hit the Road Jack,70,119880,False,0.598,0.571,8,-12.616,0,0.139,0.704,0.0,0.513,0.962,173.141,4,piano
+4qto2kJITIHyE086P4WtkU,Yiruma,The Best - Reminiscent 10th Anniversary,Kiss the Rain,56,300413,False,0.557,0.0958,8,-18.457,1,0.0542,0.99,0.872,0.145,0.202,112.819,4,piano
+11NT523llsajdTS0yVddPR,Smyang Piano,"Piano Collection, Vol. 1",Spring Day,45,286406,False,0.382,0.132,3,-18.34,1,0.0471,0.974,0.938,0.0957,0.0394,115.584,4,piano
+0v0pc1lIt5p6EBX7pnfOGF,Ross Copperman,Holding On and Letting Go LP,Holding On and Letting Go,49,317441,False,0.486,0.555,2,-9.466,1,0.0271,0.818,0.00269,0.109,0.0992,77.987,4,piano
+3G0ENKW9vzV0SuYKaWFflI,Elton John,Ice On Fire,Nikita,68,343240,False,0.632,0.656,7,-9.29,1,0.0277,0.123,0.000264,0.0735,0.752,86.605,4,piano
+3mvP667bhJfOlex53b2oFT,Tommy Flanagan,The Smart Attitude of Tommy Flanagan,Delarna,40,283040,False,0.452,0.242,2,-16.941,1,0.0344,0.698,0.46,0.0942,0.347,101.194,4,piano
+02xd7yuAEiLOF7rt4zlPep,Yiruma,The Rewritten Memories,River Flows in You - Orchestra Version,57,285251,False,0.0863,0.201,4,-14.365,0,0.0355,0.915,0.943,0.113,0.0398,74.351,3,piano
+5BJSZocnCeSNeYMj3iVqM7,OneRepublic,Native,Love Runs Out,65,224226,False,0.719,0.935,7,-3.752,1,0.0589,0.167,0.0,0.0973,0.738,120.022,4,piano
+7kSaXrHANOFv8iXgh2gvgA,Brad Mehldau,"Progression: The Art of the Trio, Vol. 5",The Folks Who Live on the Hill - Live,42,590666,False,0.422,0.0793,3,-23.268,1,0.0487,0.958,0.878,0.713,0.119,139.312,1,piano
+0Q0Vl9fKJF5MDxfVKbD78e,OneRepublic,Waking Up,Everybody Loves Me,61,214400,False,0.578,0.907,4,-4.869,1,0.0895,0.0229,0.0,0.557,0.66,170.04,4,piano
+7hlZSfZMS88Tv2jsnI0sK8,Akira Kosemura,ZEN 2022,"Toujours, jamais - From Les Demoiselles de Rochefort / The Young girls of Rochefort",0,152452,False,0.453,0.0939,0,-17.53,1,0.0336,0.989,0.885,0.102,0.113,89.665,4,piano
+6WCeFNVAXUtNczb7lqLiZU,Elton John,Don't Shoot Me I'm Only The Piano Player,Crocodile Rock,73,235440,False,0.621,0.8,4,-7.284,0,0.0344,0.0263,1.51e-05,0.0591,0.968,149.91,4,piano
+5j8OKKKrBtD591i0rf5Jov,Pascal Rogé;Cristina Ortiz;London Sinfonietta;Charles Dutoit,Anthems for Witches 2022,"Le Carnaval des Animaux, R. 125: 7. Aquarium",0,151173,False,0.193,0.0371,9,-35.398,0,0.0408,0.984,0.937,0.129,0.146,136.13,3,piano
+6XUHsYE38CEbYunT983O9G,Supertramp,Even In The Quietest Moments,Give A Little Bit,75,248173,False,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.0096,0.263,0.471,90.767,4,piano
+5sLrsH9u2lsp3PPZPV3Szy,Vince Guaraldi;Lee Mendelson;Vince Guaraldi Trio,Weihnachten Klassik 2022,Christmas Time Is Here - Instrumental,0,366213,False,0.418,0.116,5,-18.397,1,0.0331,0.966,0.648,0.138,0.0861,74.923,3,piano
+45353YQKFRGxmQP3XXE8sw,Tori Amos,Christmas Songs 2022,Christmastide,0,224360,False,0.666,0.38,7,-13.067,1,0.0324,0.826,5.1e-05,0.101,0.282,115.94,4,piano
+3OGC0n3jV8RsxOKEjlHhGc,Brian Crain;Johannes Bornlöf,Stress Free Music,Song for Sienna,0,224550,False,0.256,0.0652,7,-26.663,1,0.0378,0.99,0.929,0.0816,0.307,185.015,4,piano
+1PXI1i7FV4UALDE2uHT8tD,Tori Amos,Alternative Christmas 2022,Christmastide,0,224360,False,0.666,0.38,7,-13.067,1,0.0324,0.826,5.1e-05,0.101,0.282,115.94,4,piano
+6PHvw5aBX2gGOeGXNaKnFV,Tori Amos,Session Acoustique,Smells Like Teen Spirit - Acoustic Version,1,195160,False,0.251,0.263,8,-12.538,1,0.0327,0.93,0.00172,0.0954,0.199,177.21,4,piano
+2QV0SPhmLDd9jqshZRnLY5,James Quinn,A Gentle Sunlight,A Gentle Sunlight,62,117625,False,0.317,0.0349,8,-30.853,1,0.037,0.993,0.806,0.117,0.12,74.547,4,piano
+0dUOr3rkkH19T12jRCxjUh,PianoDeuss,Hokage Funeral (Naruto Original Soundtrack),Hokage Funeral (Naruto Original Soundtrack),40,150674,False,0.306,0.0653,9,-20.226,0,0.0354,0.965,0.93,0.124,0.109,65.195,4,piano
+6cnF63Qm1qAJ0sHKvM5BOg,Elton John;Charlie Puth,The Lockdown Sessions,After All,58,208714,False,0.501,0.556,5,-5.628,1,0.0266,0.361,0.000133,0.115,0.165,82.017,4,piano
+1FJYqedfrSGitGHMvwRGBg,Skylar Grey;Eminem;Yelawolf,SHADYXV,Twisted,45,299000,True,0.58,0.527,11,-6.972,0,0.361,0.287,0.0,0.367,0.177,177.853,4,piano
+1jcQ040aWKeiUGJ2IcnFtV,Yiruma,Sunset Bird,Sunset Bird,60,191000,False,0.349,0.191,0,-16.111,0,0.0463,0.992,0.936,0.132,0.0414,140.422,3,piano
+4QeoDcR16IHpmmgFGQDrCp,OneRepublic,No Vacancy,No Vacancy,56,223189,False,0.72,0.727,5,-3.882,1,0.0489,0.0556,0.0,0.138,0.481,99.994,4,piano
+0OyfmSpjOUz6k0swecwQEw,Teide,Dione,Dione,63,148662,False,0.447,0.0136,2,-26.598,1,0.0432,0.985,0.931,0.108,0.14,67.659,4,piano
+6V3EqKAHRMDKUYYPtD0lVQ,Niall Byrne,Afterthought,Afterthought,63,149758,False,0.345,0.0195,0,-29.871,1,0.0409,0.99,0.87,0.0951,0.461,122.677,4,piano
+2QnEeS0SxgJR9RrMGB2dnm,Haru Kitamura,Partenza,Partenza,51,112428,False,0.384,0.146,4,-25.606,0,0.0505,0.996,0.891,0.0891,0.735,127.584,3,piano
+17jkqGy5v8YMNRxhnegd6G,We The Kings,We The Kings (Deluxe Version),"Check Yes, Juliet",29,218640,False,0.346,0.915,2,-4.201,1,0.0759,0.00198,0.0,0.18,0.343,166.843,4,piano
+2LC523tbEPFpc1pnikbt5b,Aqualung,Still Life,Brighter Than Sunshine,53,242439,False,0.418,0.489,6,-8.373,0,0.0323,0.287,0.0288,0.42,0.398,72.891,4,piano
+5EcZL9ug4iU6C7Dqqfixgt,Lupe Sinsonte,We were the hook,We were the hook,62,127260,False,0.426,0.0303,9,-28.242,1,0.0506,0.994,0.897,0.0926,0.111,98.668,4,piano
+6D5XSLIx1yYfreJPm7LuaG,Destly,Genshin Impact Sumeru Collection (Visages of Wisdom),Port Ormos,49,106743,False,0.368,0.281,6,-16.335,1,0.0508,0.0208,0.917,0.0814,0.775,87.387,4,piano
+5hw7bUv7NtrsepLROgIxLl,Elton John;Dua Lipa;PS1,Cold Heart (PS1 Remix),Cold Heart - PS1 Remix,64,166674,False,0.655,0.877,10,-5.791,0,0.0526,0.00191,0.0,0.117,0.628,121.921,4,piano
+1sINJB2tVaHV5r3iKCACHv,Norman Dück,Reframe,Reframe,63,127109,False,0.319,0.0367,9,-29.23,0,0.0481,0.99,0.942,0.102,0.0556,138.784,3,piano
+2JATE4qxTuVgKEKe12sqLp,OneRepublic,Oh My My,Future Looks Good,54,210586,False,0.33,0.548,10,-7.922,1,0.0426,0.214,1.21e-05,0.12,0.559,78.594,3,piano
+0ad4PNbIzDJwVzCCjKhvAA,Aestivum,Growing Green,Growing Green,62,176626,False,0.194,0.0123,10,-26.423,1,0.0451,0.991,0.903,0.117,0.144,174.543,3,piano
+3NT3cMv9qqmIX45fQqwVIU,Aron Edwards,Sweet Water,Finale,56,154829,False,0.307,0.121,5,-27.696,1,0.0352,0.984,0.859,0.106,0.396,112.869,4,piano
+3IEl5LLYsvTEQmnxMaxBQa,Yiruma,SOLO,River Flows In You,56,210562,False,0.385,0.285,9,-19.837,1,0.0583,0.966,0.937,0.111,0.267,137.2,3,piano
+3sp6FlleWKCE9mxdnHXFlU,Garreth Broke,Riverlight,Riverlight,57,133250,False,0.255,0.0329,4,-26.423,1,0.0419,0.985,0.924,0.096,0.0408,73.673,4,piano
+2bPWLtJe3v33z1j40sWB8a,Kris Bowers;Hillary Smith,Bridgerton (Covers from the Netflix Original Series),Strange (feat. Hillary Smith),59,198640,False,0.251,0.15,2,-15.076,1,0.0342,0.989,0.972,0.113,0.0727,70.453,4,piano
+6i17OjR0ZQYh5RkHexzDMR,Alida Sørby,Det skal nok gå,Det skal nok gå,55,123000,False,0.422,0.0921,10,-25.712,1,0.0441,0.992,0.968,0.0911,0.435,87.058,4,piano
+1CHIhjz4MKZXzGk8Ncebib,Skylar Grey,Furious 7: Original Motion Picture Soundtrack,I Will Return,28,236440,False,0.534,0.646,0,-7.533,1,0.0343,0.168,4.74e-06,0.151,0.0562,124.872,4,piano
+3mGGrT3NVzpa2M9gnocR45,Thirteen Senses,The Invitation,Into The Fire,58,218773,False,0.388,0.638,3,-6.807,0,0.0279,0.0449,0.00555,0.114,0.142,174.071,4,piano
+1N62wozuHCvczCkY4QidpP,The Fray,How To Save A Life,Over My Head (Cable Car),70,236266,False,0.592,0.729,8,-4.156,1,0.0448,0.022,0.0,0.0653,0.709,116.03,4,piano
+0UcRrIl4Ti4xSdp314ZASI,Franz Ewer,Hiemalis,Hiemalis,57,167624,False,0.473,0.0309,7,-30.664,1,0.0493,0.982,0.923,0.124,0.209,116.612,4,piano
+2MUBJrvs9yanwhD9HZnXUB,Anna Landström,Light in the Mist,To Let Go,63,146580,False,0.453,0.0101,10,-30.496,1,0.0493,0.992,0.938,0.124,0.313,73.774,4,piano
+5aIZ2jtxZ4o4GHQXTybkIa,OneRepublic,Native,Something I Need,58,240080,False,0.683,0.591,7,-6.955,1,0.0314,0.134,0.0,0.235,0.628,98.982,4,piano
+0JdUloeK9xqiorsQPsvugp,BigRicePiano,The Sound of Rain,The Sound of Rain,51,254954,False,0.533,0.357,10,-23.667,0,0.083,0.957,0.197,0.345,0.399,121.259,4,piano
+4QRkCwqwHFaZ7xeoR9CHL6,Keane,Strangeland,Sovereign Light Café,62,218840,False,0.535,0.725,8,-5.861,0,0.0302,0.013,0.0,0.156,0.509,122.84,1,piano
+6Ad2BCQGByNSDSYAdn9iEk,Bobby Timmons,Young Chet,Autumn In New York,39,128773,False,0.421,0.112,5,-19.046,1,0.0454,0.994,0.871,0.0952,0.15,68.879,4,piano
+6RTWC9YIPsoQpLJNDLTrBL,Billy Joel,Live at Yankee Stadium,"I Go to Extremes - Live at Yankee Stadium, Bronx, NY - June 1990",37,282826,False,0.378,0.956,5,-3.822,1,0.13,0.137,6.04e-06,0.856,0.286,130.638,4,piano
+4a5pNRjwmzYQuEY1E7O6pj,Supertramp,Breakfast In America (Deluxe Edition),Breakfast In America - 2010 Remastered,72,159346,False,0.532,0.663,0,-5.886,0,0.0292,0.425,1.07e-06,0.0734,0.756,75.14,4,piano
+3URt4lJQlANOstDBAWQJA7,The Fray,Scars & Stories,Be Still,56,168853,False,0.361,0.149,7,-12.066,1,0.0333,0.887,0.0,0.175,0.302,107.607,3,piano
+7xLhousIHDxoGgeJNhO4Ye,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,Say Something,57,233266,False,0.447,0.158,2,-7.571,1,0.036,0.872,1.58e-06,0.0816,0.142,140.942,3,piano
+5tQ2Zd9ZZ80feVfXje7gWk,Billy Joel,Live at Yankee Stadium,"The Downeaster 'Alexa' - Live at Yankee Stadium, Bronx, NY - June 1990",35,283506,False,0.396,0.847,9,-4.808,0,0.0634,0.0458,0.0,0.983,0.501,93.607,4,piano
+2S9OvGTtHz5NWvIo8wadBq,Billy Joel,Live at Yankee Stadium,"Shameless - Live at Yankee Stadium, Bronx, NY - June 1990",36,268453,False,0.327,0.907,7,-4.869,1,0.0817,0.126,0.000956,0.993,0.304,149.382,4,piano
+6mHOcVtsHLMuesJkswc0GZ,Supertramp,Breakfast In America (Deluxe Edition),The Logical Song - Remastered 2010,73,251253,False,0.625,0.758,5,-6.213,0,0.0463,0.512,0.00022,0.153,0.695,119.719,4,piano
+2gvmxusSOe3vNjNDjQWaso,The Dresden Dolls,"Yes, Virginia",My Alcoholic Friends,72,167680,False,0.596,0.679,4,-3.881,0,0.0324,0.18,0.0,0.0938,0.746,110.464,4,piano
+7rwHRvR50VhG135VmovIe4,Billy Joel,Live at Yankee Stadium,"Only the Good Die Young - Live at Yankee Stadium, Bronx, NY - June 1990",50,222640,False,0.366,0.956,0,-4.909,1,0.172,0.301,0.0,0.971,0.543,157.943,4,piano
+6Vhim6j6QuZryAzMnLkhsR,Billy Joel,Live at Yankee Stadium,"Scenes From an Italian Restaurant - Live at Yankee Stadium, Bronx, NY - June 1990",37,444213,False,0.32,0.901,5,-4.13,1,0.0695,0.55,1.64e-06,0.925,0.21,102.959,4,piano
+6lnWx6BPGTnBPVhinMALTX,Billy Joel,Live at Yankee Stadium,"You May Be Right - Live at Yankee Stadium, Bronx, NY - June 1990",35,298813,False,0.446,0.982,9,-4.549,1,0.104,0.0781,1.55e-05,0.96,0.407,151.887,4,piano
+5m7z3tMjKarWkLZZfD6vln,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Digno É o Senhor,38,342738,False,0.521,0.0693,8,-15.973,1,0.0335,0.99,0.848,0.105,0.117,135.629,4,piano
+0g5ccHoD0kjJ8GR8u330lV,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Agnus Dei,38,224467,False,0.47,0.13,10,-15.194,1,0.0376,0.981,0.785,0.144,0.143,116.018,4,piano
+573o3RPFGAXaob5lqXzli7,Dr. John,New Orleans Voodoo Soul,Zu Zu Man,0,199960,False,0.428,0.594,9,-9.657,1,0.0693,0.875,2.2e-05,0.133,0.786,131.18,4,piano
+0s7LZdfEIdXJPNLfNsKQXF,Dave Brubeck,Ultimate Calm Christmas Jazz,Away In A Manger,0,303400,False,0.55,0.00947,8,-34.657,1,0.0687,0.995,0.937,0.0709,0.17,109.255,4,piano
+1Mbv3EJOUo6twpjn1p5oWY,Dave Brubeck,Ultimate Calm Christmas Jazz,O Tannenbaum,0,215400,False,0.572,0.0134,3,-29.694,1,0.0632,0.995,0.925,0.104,0.0873,113.888,4,piano
+4s4huMzMAmAAbEuSAmwt6b,Dr. John,New Orleans Voodoo Soul,Woman Is The Root Of All Evil,0,129132,False,0.633,0.619,4,-9.53,0,0.0336,0.257,0.0,0.0631,0.924,135.181,4,piano
+7dOojrH8KZCPzOo5m7M4WN,George Winston,The Very Best Christmas Songs 2022,Linus And Lucy,0,195893,False,0.289,0.599,8,-12.626,1,0.0392,0.893,0.814,0.212,0.804,165.914,4,piano
+76jWJuEetXRW0nmoT7Ur55,George Winston,Best Christmas Playlist Ever 2022,Linus And Lucy,0,195893,False,0.289,0.599,8,-12.626,1,0.0392,0.893,0.814,0.212,0.804,165.914,4,piano
+2HoqbEOXgbDSLZ5XCePEXt,Ray Charles,Soul,Hit the Road Jack,69,119880,False,0.598,0.571,8,-12.616,0,0.139,0.704,0.0,0.513,0.962,173.141,4,piano
+7ddJJFmXZ3984IbVEKinp5,Secondhand Serenade,Awake,Your Call,57,222320,False,0.591,0.239,7,-11.943,1,0.0259,0.774,0.0,0.127,0.346,88.919,4,piano
+2lFlveK1y13WWp3vnQtrr3,Five For Fighting,The Battle for Everything,100 Years,66,244600,False,0.643,0.569,7,-7.459,1,0.0276,0.544,2.17e-05,0.178,0.275,120.507,4,piano
+1nJE8TEWK9hf9Bl0pekJCi,Javi Lobe,Lost Time,Lost Time,59,140555,False,0.481,0.0639,2,-24.46,0,0.0449,0.991,0.942,0.0922,0.301,125.058,4,piano
+3msS7xaelR4Oa0n7IwHkgF,Cold War Kids;Bishop Briggs,LA DIVINE,So Tied Up,58,189506,False,0.587,0.894,0,-4.184,0,0.0402,0.0309,2.15e-05,0.179,0.81,104.993,4,piano
+23l1kVpqMVREiwU1YAlcr4,Elton John,Too Low For Zero,I Guess That's Why They Call It The Blues,70,285333,False,0.673,0.663,0,-7.29,1,0.0269,0.217,0.017,0.177,0.671,120.634,3,piano
+3omXshBamrREltcf24gYDC,Cold War Kids,Hold My Home,First,67,200360,False,0.468,0.692,2,-4.015,1,0.0295,0.0202,2.39e-06,0.523,0.561,78.009,4,piano
+53P6FuGYsY5veR6DDGIFIs,Teide,Lumière du Matin,Érase Una Vez,50,171395,False,0.198,0.0762,1,-26.676,1,0.0397,0.965,0.935,0.106,0.333,143.503,4,piano
+5bCzEzg4PSJ3jNcNojmdGm,Elton John,Songs From The West Coast (Expanded Edition),Original Sin,42,289426,False,0.689,0.635,1,-7.153,1,0.0251,0.12,0.000206,0.121,0.439,104.971,4,piano
+1XfJ4VvulKXjwxIEQURE8R,Javi Lobe,Where Is My Mind?,Where Is My Mind?,58,226062,False,0.457,0.00924,4,-29.358,1,0.0505,0.991,0.917,0.0957,0.0642,64.974,3,piano
+3MWklqtDFfMkD3pcf4rBwu,Sarah Spring,Across Long Lakes,Across Long Lakes,56,148416,False,0.363,0.0437,5,-31.559,1,0.0353,0.993,0.875,0.0951,0.254,102.193,4,piano
+0t0X7v3Qcq7wMviNjWaWDO,Carluccio,Adesso,Adesso,62,147000,False,0.354,0.097,8,-23.244,1,0.0345,0.96,0.939,0.109,0.325,110.577,4,piano
+0k6LV1ohcK2hlNPwu1nVw9,Elton John;Dua Lipa,Cold Heart (Acoustic),Cold Heart - Acoustic,64,195373,False,0.641,0.512,10,-4.935,0,0.0285,0.577,0.0,0.215,0.395,116.059,4,piano
+12pdXFcruNcPUbZypKUDgz,Cold War Kids,LA DIVINE,Love Is Mystical,60,214360,False,0.567,0.863,7,-5.158,0,0.037,0.00462,4.77e-05,0.207,0.722,106.03,4,piano
+7jOC9bmHMZ5m4S1ZDAYgzn,Kiara Leonard,Silent sky,Silent sky,61,132937,False,0.58,0.114,0,-27.919,1,0.049,0.995,0.916,0.11,0.225,104.383,5,piano
+78TKtlSLWK8pZAKKW3MyQL,A Great Big World;Christina Aguilera,Say Something,Say Something,58,229400,False,0.453,0.146,2,-8.976,1,0.0343,0.867,3.49e-06,0.0945,0.0915,137.905,3,piano
+0ZZcxfVdAMt4TkyUY5y4eF,Elliott Jacqués,Alone In Paris,Alone In Paris,63,139533,False,0.489,0.0547,0,-29.421,0,0.039,0.988,0.954,0.0974,0.0563,70.778,3,piano
+48aOlsvnC4e8cdMsrw59Qd,Keiko Ishida,Nature undisclosed,Nature undisclosed,63,147661,False,0.303,0.0421,3,-28.638,1,0.0485,0.991,0.933,0.183,0.21,165.352,4,piano
+2l3gQ8Zv1KlGqyE6B4ntPC,OneRepublic,Human (Deluxe),Distance,51,180352,False,0.611,0.766,8,-5.686,1,0.0634,0.112,7.13e-06,0.195,0.713,150.956,4,piano
+5BzZhlqDnYYDr17sciEOjj,OneRepublic,Dreaming Out Loud,Say (All I Need),47,230573,False,0.548,0.742,9,-5.741,1,0.0498,0.0184,0.0,0.153,0.31,122.007,4,piano
+5Wj1rJnCLpMHdLaxsFtJLs,Elton John,Goodbye Yellow Brick Road (Remastered),Bennie And The Jets - Remastered 2014,74,322548,False,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,4,piano
+6yBVcsulkHwSDPbydL25Qk,Daniele Leoni,Perfect (Piano Version),Perfect - Piano Version,53,234208,False,0.297,0.0627,8,-25.138,1,0.0678,0.99,0.942,0.15,0.151,184.227,3,piano
+4PLaetqDYcJK1e6VFb361C,Verney Pépin,Je vous ai trouvé,Je vous ai trouvé,62,140505,False,0.483,0.116,2,-21.813,1,0.0523,0.993,0.959,0.106,0.543,67.581,4,piano
+5DH7nDryMhpixm4G4B7RP9,Billy Joel,An Innocent Man,The Longest Time,68,217906,False,0.637,0.333,3,-9.603,1,0.0262,0.181,0.0,0.147,0.588,84.347,4,piano
+7falOwHJ9MjskdcNehIh79,Keane,Under The Iron Sea,Nothing In My Way,64,240386,False,0.399,0.854,10,-4.97,0,0.0294,0.00107,3.96e-06,0.0893,0.872,172.478,4,piano
+1nQ2WCJTn89CnirpfDHV60,Tamara Eden,Horizon,Horizon,61,142614,False,0.334,0.13,1,-25.537,1,0.0488,0.971,0.902,0.111,0.595,144.733,3,piano
+79JqhhT62bJSWP7OqQPlnc,Smyang Piano;tamagopalette,No Hard Feelings,Euphoria - Lofi Edit,42,98250,False,0.558,0.33,11,-17.237,0,0.0299,0.862,0.946,0.112,0.328,160.088,4,piano
+3LqvmDtXWXjF7fg8mh8iZh,Billy Joel,The Nylon Curtain,Pressure,59,280333,False,0.548,0.68,9,-8.675,0,0.0474,0.0148,0.000949,0.0877,0.851,148.494,4,piano
+025aQi6Ffw676y8m4zLPk7,Anna Landström,To the Rain,To the Rain,62,145620,False,0.464,0.0639,4,-26.028,0,0.0385,0.992,0.927,0.0829,0.317,111.993,4,piano
+1FJswUXEo8jr5E1zLjjClr,Smyang Piano,"Piano Collection, Vol. 1",Intro: Serendipity,44,177266,False,0.541,0.0424,8,-26.804,1,0.0503,0.994,0.94,0.115,0.142,59.825,4,piano
+3eTbOx5tsMwmdrEAVJkR5z,Smyang Piano,Playroom,Winter Bear,41,146666,False,0.416,0.395,7,-13.216,1,0.0289,0.929,0.926,0.106,0.0889,161.931,3,piano
+0EANX0OVKSCcmarY50Xa4p,Elton John,The Lion King,"Can You Feel the Love Tonight - End Title/ From ""The Lion King""/Soundtrack Version",62,241013,False,0.309,0.181,10,-17.022,1,0.0337,0.87,0.000279,0.118,0.146,124.711,4,piano
+2IpeTEPICyB66jjg2hU4Vg,OneRepublic,Human (Deluxe),Didn't I,53,207616,False,0.611,0.61,4,-6.745,1,0.0314,0.0186,0.0,0.125,0.242,123.943,4,piano
+03b9EWz24mTfDvnrE8G41I,Stephan Moccio,Tales Of Solace,Whitby,45,195240,False,0.21,0.0223,7,-28.528,0,0.0432,0.991,0.922,0.105,0.252,166.662,3,piano
+4qxn07sJNAlYKnk4aQp3PF,Smyang Piano,"Piano Collection, Vol. 1",I Need U,43,262112,False,0.527,0.107,5,-20.018,0,0.0472,0.992,0.901,0.118,0.249,126.202,4,piano
+3fT6xqEkC1jm4mHjOyXbKw,OneRepublic,Human (Deluxe),Wanted,52,136247,False,0.665,0.539,1,-6.613,1,0.0699,0.165,0.0,0.0912,0.666,145.828,4,piano
+3QaYNoyQzsOFfek0pTgqWi,Milo Liana,Aquiver,Aquiver,62,119234,False,0.419,0.0126,2,-30.76,1,0.038,0.992,0.936,0.0935,0.157,103.524,3,piano
+4p7na6NSU0F7lMOhx9kg9k,Kris Bowers,Bridgerton Season Two (Covers from the Netflix Series),Material Girl,59,244339,False,0.588,0.155,0,-20.621,1,0.0321,0.633,0.694,0.0748,0.404,136.482,4,piano
+6VpNGCU2ig4NQmsLfALdJU,Kate Bush,Never for Ever (2018 Remaster),Babooshka - 2018 Remaster,66,199226,False,0.49,0.362,5,-12.047,0,0.0382,0.762,1.14e-05,0.0671,0.292,108.866,4,piano
+1L9fzw2pXprOqtemTwtxXF,Elton John,Goodbye Yellow Brick Road (Remastered),Candle In The Wind - Remastered 2014,66,228932,False,0.602,0.536,4,-9.74,1,0.0288,0.183,1.9e-05,0.0802,0.506,124.558,4,piano
+12yHvSYFXI7PGzNecUvIDu,Elton John,Goodbye Yellow Brick Road (Remastered),Saturday Night’s Alright (For Fighting) - Remastered 2014,68,295466,False,0.513,0.979,0,-6.362,1,0.0425,0.0195,0.0951,0.0906,0.94,152.875,4,piano
+5ZGWsBCqC79v1NyNnTQeUZ,Billy Joel,Live at Yankee Stadium,"Goodnight Saigon - Live at Yankee Stadium, Bronx, NY - June 1990",33,441440,False,0.321,0.778,0,-3.929,1,0.0521,0.603,1.51e-06,0.953,0.226,119.691,4,piano
+1k5ikG1uA7sPMCKhKOocIo,Billy Joel,Live at Yankee Stadium,"Pressure - Live at Yankee Stadium, Bronx, NY - June 1990",35,321066,False,0.435,0.909,2,-5.69,1,0.0433,0.0736,0.00147,0.961,0.591,151.722,4,piano
+4ELbfx5VBt4rm808g1g6k0,Billy Joel,Piano Man - The Very Best of Billy Joel,Piano Man - Radio Edit,40,274733,False,0.333,0.531,0,-6.487,1,0.0263,0.55,4.31e-06,0.106,0.422,178.265,3,piano
+7yVGa0eKMNhL6GKTF6TBdS,Billy Joel,Live at Yankee Stadium,"Allentown - Live at Yankee Stadium, Bronx, NY - June 1990",33,235973,False,0.588,0.91,0,-5.0,1,0.0311,0.196,4.79e-06,0.318,0.587,115.389,4,piano
+5PqMlhjfgEYcipKzOmsHIa,Billy Joel,Live at Yankee Stadium,"We Didn't Start the Fire - Live at Yankee Stadium, Bronx, NY - June 1990",35,311066,False,0.428,0.968,7,-3.446,1,0.152,0.18,0.0,0.86,0.501,144.067,4,piano
+5aKeoAh8dF3mZEt5Av3LvZ,Fred Mollin,Disney's Lullaby Album Vol. 2,You Can Close Your Eyes - Instrumental,37,208360,False,0.215,0.128,2,-17.217,1,0.0341,0.924,0.85,0.0761,0.121,56.646,3,piano
+0F7egCnOFt305S4xtMc14U,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Oceanos (Onde Meus Pés Podem Falhar),38,240618,False,0.761,0.0685,2,-16.678,1,0.0407,0.993,0.928,0.155,0.0764,119.972,4,piano
+1QZfhqwTaGWzAubdHXU8WS,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Vim para Adorar-Te,37,232208,False,0.601,0.0847,9,-17.406,1,0.0327,0.991,0.898,0.109,0.114,125.731,4,piano
+4DD4SQfk6ss720Mkgv3GOc,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Tu És Santo (Príncipe da Paz),37,283684,False,0.555,0.134,8,-15.761,1,0.0367,0.987,0.885,0.0859,0.084,180.047,4,piano
+3vaSf5wHVxXN1EFhUOxH9C,Theishter,Again from Your Lie in April,Again from Your Lie in April,44,174000,False,0.435,0.157,6,-19.866,1,0.0384,0.993,0.913,0.124,0.0395,92.637,4,piano
+3gQQT8DcqmyDi7duOxnmN3,PianoDeuss,Again (Your Lie in April Original Soundtrack),Again (Your Lie in April Original Soundtrack),39,170603,False,0.279,0.213,6,-18.813,1,0.0394,0.987,0.914,0.113,0.0825,182.007,3,piano
+0PMAlHB4OYyLjqHVvhD3hV,Kim Bo,A Piano Dream,Mia & Sebastian's Theme,57,87288,False,0.389,0.0371,9,-23.951,1,0.0501,0.994,0.841,0.128,0.269,96.57,1,piano
+7BvM6gezSZfDN3WQjYjEgg,Marika Takeuchi,Breathe Out,Breathe Out,51,156280,False,0.435,0.28,9,-23.598,0,0.0352,0.976,0.932,0.0805,0.547,163.981,4,piano
+7dS7O9Fv4P4pnX1Xz1DhSR,Marika Takeuchi,Missing Piece,Missing Piece,52,245306,False,0.589,0.365,9,-14.291,1,0.0284,0.874,0.905,0.101,0.192,110.023,4,piano
+4RBuB7D4zW3dy6ZvuQgN7c,Jacob David;Arvid Holst,Skagerrak,Skagerrak,62,130250,False,0.301,0.0248,0,-32.552,1,0.0345,0.979,0.907,0.107,0.0831,96.67,4,piano
+18S2PRuactalb1hwBxfwGl,Haru Kitamura,You & Me,You & Me,61,138000,False,0.329,0.0375,0,-28.147,1,0.0422,0.991,0.893,0.148,0.191,108.214,4,piano
+15BXZpDEzGSoKRdqvEieXQ,Ever So Blue,Remembering,Remembering,52,121423,False,0.295,0.0693,4,-25.177,1,0.0357,0.99,0.909,0.105,0.262,118.817,3,piano
+3XHMKTB48PDvENNjBzaYLw,Piano Project,Piano Renditions of BTS,Still With You,37,244072,False,0.463,0.232,1,-21.371,0,0.0462,0.991,0.952,0.112,0.561,172.059,4,piano
+2eB6dVkwbCJayvgplBO6Nt,Teide,Malerei,Rhyl Sands,55,182407,False,0.301,0.0212,5,-31.384,1,0.0447,0.969,0.946,0.114,0.266,122.018,4,piano
+51K71t2Sk90AVbjVsBcorb,Cyril Mathews,A Recurring Theme,A Recurring Theme,59,160835,False,0.396,0.00598,5,-29.643,0,0.0382,0.99,0.939,0.114,0.039,142.357,3,piano
+1lFHaHvZeLf6XrOqX6iLlS,OneRepublic,Oh My My,Heaven,52,258946,False,0.585,0.724,10,-6.658,0,0.0321,0.0607,0.0,0.105,0.37,95.009,4,piano
+2VRtvXFwINloiZyYE5GGNG,Ever So Blue,Concepts,Concepts,53,150910,False,0.451,0.0476,10,-25.382,1,0.0355,0.995,0.911,0.0997,0.224,135.892,3,piano
+4lu6zYkghmAlCnDcgKqJcY,Mia Carrera,Halo,Halo,60,210583,False,0.407,0.114,9,-25.778,1,0.0499,0.989,0.943,0.0985,0.0614,114.752,4,piano
+7kftK4n15rl1wbpfjSq2Tk,OneRepublic,Oh My My,Wherever I Go,64,169773,False,0.54,0.675,10,-6.449,0,0.0429,0.1,0.0,0.237,0.348,99.97,4,piano
+79TFJ7hsMTcn3fGn0DiuMg,HalcyonMusic,Anime Music on the Piano (2nd Collection),"unravel (from ""Tokyo Ghoul"") - Piano Arrangement",45,239250,False,0.532,0.326,7,-15.227,0,0.0343,0.917,0.887,0.295,0.265,135.038,4,piano
+428lSKYV9R5f5d4XGOeniY,OneRepublic,Dreaming Out Loud (Deluxe),Apologize,54,208106,False,0.593,0.74,8,-6.12,1,0.0339,0.363,2.22e-05,0.102,0.502,118.008,4,piano
+0CMjjw0RYpNfQ1VkkL6Bwf,Chloé Czans,Fleurs de cerisier,Fleurs de cerisier,61,160000,False,0.416,0.0503,5,-27.03,1,0.0318,0.992,0.92,0.113,0.0902,88.541,4,piano
+0CNhH6mjashU1e7z0j1LXl,Con Alma,Zephyr,Zephyr,62,160694,False,0.321,0.013,6,-28.058,0,0.0387,0.992,0.892,0.103,0.216,106.316,4,piano
+2XXnGBKuvfcpfVvRgBEdvP,Finley Rhone,San Remo,San Siro,60,170966,False,0.648,0.0143,8,-33.461,1,0.0529,0.995,0.956,0.125,0.166,120.121,4,piano
+37aia1wG2Ncz8AWjM4tPlY,Maya Åström,Om än bara för en stund,Om än bara för en stund,62,158591,False,0.504,0.056,9,-24.25,1,0.0478,0.992,0.963,0.11,0.337,75.761,4,piano
+0ngwNemhn1nKmYHYZnJZmB,Tamara Blake,Whirling sky,Whirling sky,62,169874,False,0.397,0.0511,3,-29.707,1,0.0491,0.977,0.919,0.111,0.298,124.936,3,piano
+2V1y8aiJS9HMFqh51dNVs4,Lílian Pinto,primeiro verão,primeiro verão,50,208624,False,0.33,0.0576,4,-23.233,1,0.0387,0.995,0.912,0.097,0.086,69.092,5,piano
+47u0q4Z7iALJXli6pkcnvA,Cassandra Nestico,Mystique,Mystique,61,150250,False,0.415,0.048,1,-27.644,1,0.0395,0.983,0.942,0.108,0.137,165.912,1,piano
+7xe3EQCvXnx6Q0zs41Y65n,Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],Great Balls of Fire,57,111240,False,0.592,0.627,10,-10.14,1,0.0662,0.55,0.0,0.43,0.909,79.567,4,piano
+7cY9kWU1cPLJ1wxxvKEZMh,Leila Milki,Springtime Improvisations,Golden Hour,59,94169,False,0.504,0.0248,3,-26.158,1,0.0603,0.993,0.969,0.109,0.198,113.122,4,piano
+0DXsxu0TJ8TtrOklnsL6nj,Regnør,Night Sky,Night Sky,61,146973,False,0.285,0.148,2,-32.145,1,0.0372,0.987,0.952,0.0794,0.381,77.603,4,piano
+2hxaiA9EtXjMlXhG6SCoW8,Rebecca Woods,In The Stars,In The Stars,60,163916,False,0.397,0.00375,9,-38.226,1,0.0393,0.988,0.957,0.115,0.11,64.443,3,piano
+6a2LtHG5EH3GSjkkFVFFNK,Dean Demir,Raconteur,Raconteur,62,107717,False,0.417,0.00489,1,-31.073,1,0.0419,0.988,0.937,0.0911,0.286,71.084,4,piano
+6kRZfOZSuoi0Htg6gROKDz,A Great Big World,流星花園音樂專輯,Say Something,40,229573,False,0.456,0.101,2,-11.75,1,0.038,0.876,1.74e-06,0.0776,0.155,139.896,3,piano
+6phvTw8jPSP9U8VAKnvDmO,Fonzi M,"Kamado Tanjiro no Uta (From ""Demon Slayer: Kimetsu no Yaiba"") [Piano Solo]","Kamado Tanjiro no Uta (From ""Demon Slayer: Kimetsu no Yaiba"") [Piano Solo]",45,386459,False,0.636,0.193,2,-19.498,0,0.0496,0.983,0.874,0.115,0.0731,75.993,4,piano
+4AZqhWHFLMJ5O05vxodOIC,Smyang Piano;tamagopalette,No Hard Feelings,Epiphany - Lofi Edit,41,114857,False,0.572,0.12,2,-21.246,0,0.0319,0.903,0.877,0.104,0.237,140.067,4,piano
+3QnU25Zw23qOUugdtTWgsY,Valentina Lisitsa,Beethoven: Rage Over A Lost Penny,"Rage Over A Lost Penny, Op. 129",49,373665,False,0.303,0.193,7,-19.428,1,0.0334,0.99,0.909,0.0887,0.322,79.845,4,piano
+53Mz9H5UvWMQUXHZnaZYKQ,Kate Bush,Never for Ever,Babooshka,65,209933,False,0.466,0.439,5,-8.892,0,0.0325,0.741,1.64e-05,0.0707,0.289,107.173,4,piano
+4X7aJG4AHslt5JpobU9LMf,Frano Stanić,Proljetna šetnja,Proljetna šetnja,50,125250,False,0.427,0.0598,2,-30.727,1,0.0412,0.992,0.961,0.0995,0.364,98.207,4,piano
+54MnM9dYvVaV9jAZLcZu7P,Bodor Vencel,Gyere velem,Gyere velem,61,137862,False,0.376,0.0851,6,-24.311,0,0.0471,0.996,0.963,0.101,0.265,88.321,4,piano
+5YSI1311X8t31PBjkBG4CZ,Kate Bush,The Kick Inside,Wuthering Heights,71,269066,False,0.481,0.392,1,-11.381,1,0.0312,0.366,0.0452,0.124,0.52,124.572,4,piano
+0E8q2Fx2XuzXCO2NSAppkR,Duke Ellington;John Coltrane,Duke Ellington & John Coltrane,In A Sentimental Mood,65,255226,False,0.464,0.305,3,-12.435,0,0.0316,0.936,0.0846,0.208,0.282,108.229,4,piano
+3v5dEeN8mrw8XFq3wnGL1H,OneRepublic,One Night In Malibu,Run - From One Night In Malibu,54,170090,False,0.778,0.626,11,-10.126,0,0.0478,0.449,1.55e-05,0.0848,0.67,117.005,4,piano
+7pW9ORO9s2w7khW7LXm5qF,Smyang Piano,"Piano Collection, Vol. 4",Magic Shop,42,284383,False,0.434,0.0762,6,-25.486,1,0.0524,0.991,0.949,0.0918,0.0771,70.129,4,piano
+75hLNJfiXV5k2YGrbGEW51,OneRepublic,Native,Feel Again,59,185080,False,0.467,0.815,7,-7.929,0,0.0524,0.0198,1.23e-06,0.118,0.335,140.047,4,piano
+0BhGZmaQ1SET53qGkGvwxD,Keane,Strangeland,Silenced By The Night,60,196466,False,0.515,0.809,1,-5.051,1,0.0288,0.00188,9.86e-06,0.0983,0.237,111.985,4,piano
+4KANJH1baadr3U7XsVbM17,OneRepublic,Native,Something I Need,58,241266,False,0.683,0.601,7,-6.927,1,0.0308,0.164,0.0,0.119,0.62,98.97,4,piano
+6JSWqiggSXO5ujah8fkUOL,Delta Spirit,Ode To Sunshine,Tomorrow Goes Away,39,90040,False,0.686,0.678,8,-7.35,0,0.044,0.603,0.0,0.282,0.597,131.965,3,piano
+0Oof6vxILckpjyHM8wT6kX,Nico Rezende,Nico Rezende Piano & Voz,Esquece e Vem,36,246093,False,0.498,0.125,10,-14.298,1,0.0342,0.967,2.38e-05,0.107,0.229,72.092,3,piano
+1BvJmtaXsqtH438BcDPeBb,Elton John,Don't Shoot Me I'm Only The Piano Player,Daniel,67,234666,False,0.688,0.477,0,-11.945,1,0.029,0.38,4.93e-05,0.0864,0.897,132.071,4,piano
+3QBmpk1Q0ecWMswFtppfp6,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Pra Sempre Reinarás,37,242854,False,0.546,0.126,0,-19.576,1,0.0395,0.994,0.91,0.101,0.218,173.693,4,piano
+3B0axMfYGvnvEhrbtGhZh2,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Vasos Quebrados,36,288549,False,0.756,0.0682,8,-16.922,1,0.0378,0.993,0.908,0.0758,0.272,137.726,4,piano
+57JHvKFJpLMaTM1Vg4YC2P,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Não Há um Nome Igual,36,368452,False,0.561,0.0916,7,-17.478,1,0.0299,0.988,0.965,0.209,0.15,79.994,4,piano
+47lidybKKepRB4tFjdkpYu,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Oh Quão Lindo Esse Nome É,36,258123,False,0.696,0.11,2,-14.871,1,0.0349,0.992,0.865,0.0623,0.164,130.047,4,piano
+2fywBLXK9GQi8YR8C8d3c4,Secondhand Serenade,A Twist in My Story,Fall for You,52,183600,False,0.396,0.451,0,-7.109,1,0.0362,0.177,0.0,0.103,0.358,169.518,4,piano
+0lOj8NkloHAEbGQtk1OlTo,Laura Sullivan,"Loneliness (From ""Naruto"")","Loneliness (From ""Naruto"")",46,262800,False,0.439,0.0505,2,-20.986,0,0.0305,0.95,0.927,0.17,0.206,99.992,4,piano
+1MFASTOgDmN4AdjC6aPX3b,Smyang Piano,One Summer's Day,One Summer's Day,50,168168,False,0.686,0.228,0,-18.453,1,0.0494,0.97,0.937,0.0745,0.0968,139.934,4,piano
+6sSFbKl9oQ7ToYxBeTQZvw,Ever So Blue,Fragment,At Dawn,57,136000,False,0.622,0.0251,2,-24.907,1,0.056,0.996,0.945,0.0902,0.363,116.364,3,piano
+05HDcU36t1sVPiOzAAolke,Lorenzo Fiore,Il lago,Il lago,60,150874,False,0.376,0.0254,11,-28.245,0,0.044,0.988,0.943,0.0923,0.169,90.977,4,piano
+1TWlhhICPR0UpyIJhxPiEx,Anne Vallayer,Matin,Matin,60,114000,False,0.492,0.138,4,-27.362,1,0.0502,0.991,0.933,0.0893,0.184,114.103,3,piano
+4v1nkqzbzajcLBxEnJ1AP3,Con Alma,Libre,Libre,62,143624,False,0.427,0.0272,1,-23.74,1,0.049,0.96,0.852,0.109,0.0911,68.903,3,piano
+5yEtUaumGVhaoYvPrQo6tY,Smyang Piano,Silver Lining,Black Swan,39,145575,False,0.405,0.431,2,-12.911,0,0.0429,0.914,0.914,0.126,0.0572,113.306,4,piano
+6V50MyHPGhEmwYu0Wdyf0t,Bruce Hornsby;The Range,The Way It Is,The Way It Is,71,297853,False,0.582,0.689,7,-12.203,1,0.0277,0.607,0.0571,0.145,0.531,111.166,4,piano
+5xy2cj5d2WOTjPkkHuVH84,William Cas,All the Same,All the Same,60,113200,False,0.462,0.0244,5,-28.993,1,0.0385,0.981,0.921,0.123,0.128,74.267,4,piano
+5q3d5I3rMvfKAuyDvmBwwe,Pontiver Bogross,Frühlingsbach,Frühlingsbach,50,171084,False,0.348,0.238,3,-21.222,1,0.0436,0.989,0.899,0.108,0.247,127.367,4,piano
+23FvAAvnx3NzbTmMiod5nf,Regnør,In The End,In The End,60,166320,False,0.477,0.0384,7,-31.781,0,0.0372,0.983,0.952,0.123,0.149,91.452,3,piano
+0J2lmSTQQWhTiglHDbhLWm,Hikaru Shirosu,Op. 1: Multiverse,"Waltz No. 1, Collapse",51,156038,False,0.505,0.0239,9,-27.412,0,0.0445,0.994,0.956,0.123,0.193,155.588,3,piano
+39cFQHfY6tsdMRmSbFse3X,Billy Joel,Storm Front,The Downeaster 'Alexa',57,223266,False,0.457,0.808,9,-5.914,0,0.0349,0.11,0.0,0.127,0.681,89.893,4,piano
+66SOCh2sG0WhwqxSWOGDbB,Skylar Grey,Suicide Squad: The Album,Wreak Havoc,27,228826,False,0.611,0.7,1,-8.944,1,0.0506,0.00811,8.8e-06,0.279,0.0722,110.94,3,piano
+571Mm5to0AsIT7IPCM5B3E,Elias Braun;Astrid Sky,Distant Nights,Distant Nights,52,177311,False,0.295,0.0503,11,-29.764,1,0.0353,0.981,0.887,0.11,0.249,121.839,4,piano
+4y2so9vmKY8h26tCxCIeT3,LucasPianoRoom,"Anime Piano, Vol. 4","Saitama's Theme ~Sad Ver.~ (From ""One Punch Man"")",38,124525,False,0.364,0.072,11,-16.448,0,0.0426,0.969,0.927,0.109,0.106,74.153,4,piano
+3B2ZNozl6e0gtRLMwJU3b5,Smyang Piano;tamagopalette,No Hard Feelings,Serendipity - Lofi Edit,42,121384,False,0.468,0.124,8,-19.338,1,0.0365,0.964,0.918,0.108,0.199,129.841,4,piano
+60aQ47g6775vmbN3yMntql,Giselle Guarezi,My Absence,My Absence,60,118270,False,0.574,0.0236,8,-24.283,1,0.0691,0.996,0.953,0.121,0.245,68.24,4,piano
+7JVjcxfs9CG6Ozlmibdrkl,Stephan Moccio,Whitby,Whitby,49,195240,False,0.215,0.0223,7,-28.528,0,0.0432,0.991,0.922,0.105,0.253,166.528,3,piano
+058YoEqihKwmd8ipTOEWse,Andrea Monet,Reverence,Reverence,61,138000,False,0.495,0.0495,10,-29.144,1,0.0358,0.984,0.937,0.102,0.223,61.915,4,piano
+5YvY66JItF2jFFKeB27pmO,Stephan Moccio,pt. 1 Owl Light,pt. 1 Owl Light,61,189906,False,0.442,0.0992,0,-22.153,1,0.0346,0.983,0.852,0.0975,0.213,113.645,3,piano
+4fLj4bSuBFUwh1LvMcyjmn,Smyang Piano,Just a Nap,4 O' Clock,44,145996,False,0.549,0.0916,0,-21.058,1,0.0319,0.943,0.943,0.202,0.296,147.984,4,piano
+6osge3cxU5DKKEcbru8Tk5,Omri Grummet;Nadav Amir-Himmel,Fusionnelle,Fusionnelle,60,145810,False,0.249,0.0374,5,-28.261,1,0.0596,0.996,0.946,0.124,0.14,64.162,3,piano
+4sej0O7NBjgr31sPkjKyrf,Xaverius Love,Arán,Arán,60,157750,False,0.242,0.139,2,-24.804,1,0.0336,0.985,0.932,0.104,0.327,91.851,4,piano
+30qVCFYKBtAENjTIBA8FPZ,Billy Joel,River Of Dreams,The River of Dreams,65,247626,False,0.631,0.749,7,-8.15,1,0.0576,0.205,5.21e-06,0.0667,0.437,89.646,4,piano
+1ri9OTTCvGn1yMlDiqAdFS,Stephanie Middleton,Sleeping at last,Sleeping at last,60,134750,False,0.329,0.0592,4,-30.669,1,0.0423,0.986,0.929,0.0932,0.276,110.747,3,piano
+2n07NKEPbQ1ABTvhTGJcYj,Ellie-May Robertson,Immersion,Immersion,60,144500,False,0.465,0.0561,7,-30.924,0,0.0512,0.989,0.882,0.123,0.697,110.634,4,piano
+5QNd0EiOtXqivyOqw1bRxR,Smyang Piano,"Piano Collection, Vol. 4",Fake Love,40,308331,False,0.26,0.014,2,-27.393,0,0.0422,0.995,0.921,0.106,0.106,139.239,4,piano
+1ayY7LLVuMg8sWhjxqZSoT,BigRicePiano,Stories in the Rain,April Rain,48,238104,False,0.419,0.173,11,-25.105,0,0.0393,0.984,0.924,0.0825,0.171,140.307,4,piano
+5fzcvWkk3Y7PeJq3T49r5T,Smyang Piano,"Piano Collection, Vol. 4",The Truth Untold,41,262275,False,0.42,0.0251,4,-28.347,1,0.0759,0.995,0.96,0.0688,0.0392,65.715,4,piano
+3GqCRANHPtS6zb3XPPYXCL,Smyang Piano,"Piano Collection, Vol. 1",Pied Piper,40,309629,False,0.243,0.0504,2,-23.171,0,0.0477,0.994,0.917,0.113,0.2,61.783,3,piano
+2d64USUwOGOfA2Zh9gpXqb,Fazıl Say;Serenad Bağcan,Zülfü Livaneli 50. Yıl - Bir Kuşaktan Bir Kuşağa,Yiğidim Aslanım Burda Yatıyor,35,360240,False,0.401,0.214,9,-10.528,0,0.0401,0.969,0.00199,0.121,0.0729,121.477,4,piano
+0z4GaZaZcXdm6bFhAcSLrh,Anna Landström,Song for Teddy,Song for Teddy,61,92703,False,0.538,0.0485,1,-21.621,1,0.0388,0.995,0.934,0.101,0.481,81.769,4,piano
+07m8PuXxxv5J4qPEDq6ZkK,Ben Rector,Brand New,Brand New,65,243933,False,0.555,0.934,9,-5.04,1,0.113,0.00268,0.0,0.122,0.422,144.874,4,piano
+70FROKEHubzMxSstCgaZZl,Víkingur Ólafsson,Bach Reworks (Pt. 2),Prelude in G Major,62,234880,False,0.314,0.0249,7,-34.402,1,0.0469,0.995,0.938,0.0914,0.238,102.328,5,piano
+0KF5nzdiqZlxVK68MPITst,Ben Rector,Brand New,"30,000 Feet",57,256933,False,0.555,0.452,0,-9.636,1,0.0554,0.694,0.0,0.0595,0.321,179.921,4,piano
+2Zj30DnM86JYR91PAlHyRW,BigRicePiano,Memories in the Rain,First Rain in Spring,47,176982,False,0.407,0.0605,11,-24.98,0,0.0361,0.978,0.719,0.279,0.328,56.605,3,piano
+61tbjHBiaY9S95pDMYm4Wb,Nico Rezende,Nico Rezende,Esquece e vem,34,215360,False,0.272,0.427,10,-12.556,1,0.032,0.613,0.0123,0.252,0.309,69.805,4,piano
+3sSESwCLq4g7WiXk6LJKbI,Stephan Moccio,Wrecking ball (Solo Piano Version),Wrecking Ball - Solo Piano Version,60,204560,False,0.515,0.0695,5,-22.837,1,0.0342,0.992,0.934,0.0943,0.109,112.81,4,piano
+4IB7n3ojGU6rhubPRmN3KW,Gabriela Montero,Stress Free Music,Beyond Bach,0,265706,False,0.27,0.0423,2,-23.163,0,0.0347,0.994,0.942,0.0744,0.0574,78.069,4,piano
+6ijkMqIk7M1gsZYo3dw908,Joe Sample,Ultimate Calm Christmas Jazz,I Saw Mommy Kissing Santa Claus,0,320613,False,0.498,0.0538,0,-19.137,1,0.0565,0.993,0.908,0.156,0.16,80.057,4,piano
+2wBqMT6p5YmoUqztbdgUrW,Starsailor,Session Acoustique,Way to Fall,0,269973,False,0.328,0.337,2,-11.001,0,0.0279,0.215,9.47e-05,0.117,0.207,140.571,3,piano
+44gDVZAzNjXeZv8HywAsSV,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Thy Word,35,188081,False,0.597,0.0787,4,-15.647,1,0.0346,0.99,0.887,0.0855,0.157,127.051,4,piano
+1lhuAPk2QrWU3p75nFCZ8X,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Now Behold the Lamb,35,207198,False,0.547,0.0235,11,-21.561,1,0.0448,0.99,0.912,0.0726,0.144,65.638,4,piano
+0Jyn2SgnPMaqlrDkxCDvu1,Something Corporate,Emo Christmas 2022,Forget December,0,192226,False,0.624,0.683,0,-6.188,1,0.0415,0.0129,0.0,0.106,0.492,127.091,4,piano
+2gwqNSjWizu6CkIdRaAr6p,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),Cordeiro Que Sofreu,35,312744,False,0.572,0.0745,6,-16.153,1,0.0314,0.988,0.949,0.11,0.152,137.708,4,piano
+2T7qCmVQfFrh0ihKjprF45,Starsailor,Alternative Rock Mixtape,Four to the Floor,2,230960,False,0.53,0.782,1,-6.872,0,0.0259,0.0265,0.000187,0.0688,0.719,93.106,4,piano
+6XfbQ2W0pbNQhxl7PhK9oK,Erroll Garner,Thanksgiving Party,The Way You Look Tonight,0,194800,False,0.626,0.255,7,-17.945,0,0.0423,0.938,0.875,0.0814,0.622,130.473,4,piano
+3Wpxw0RmkbFKfIEuVemMGx,Helen Jane Long;Johannes Bornlöf,Creative Piano,Embers,0,202800,False,0.396,0.0327,10,-28.736,1,0.0465,0.98,0.9,0.154,0.179,95.671,4,piano
+0ngRF3XtGxXhFWDxeOJqfb,Hiroko Murakami;Hiroco.M,Little Forest,Little Forest,49,128438,False,0.432,0.0347,2,-20.034,0,0.0356,0.968,0.918,0.105,0.232,134.078,4,piano
+1g8dRVzAvmSOTfTz5m0H9K,Civil Twilight,Civil Twilight,Letters From The Sky,50,275040,False,0.342,0.7,8,-5.955,1,0.0449,0.561,0.00121,0.0994,0.118,150.04,4,piano
+6JygrgxtMOiBWG4QJrDiTB,PianoDeuss,Kioku (Yosuga No Sora Original Soundtrack),Kioku (Yosuga No Sora Original Soundtrack),41,196960,False,0.427,0.0419,11,-26.576,0,0.0517,0.984,0.864,0.175,0.198,108.137,4,piano
+08hlaHY7ssHzr2MvBKyKvt,Theishter,Watashi No Uso (Your Lie in April Original Soundtrack),Watashi No Uso (Your Lie in April Original Soundtrack),48,240071,False,0.349,0.0154,0,-26.107,1,0.0632,0.991,0.875,0.092,0.102,73.862,4,piano
+4OQ4Ua0SulicmSHpgBXCvs,Mirta da Silva,Oceá,Oceá,49,158974,False,0.346,0.0431,10,-29.328,1,0.0387,0.994,0.951,0.109,0.326,138.532,3,piano
+0RdeSJMPOXBb8a1MmEP7Fq,Jacob David,Svaj,Svaj,61,146812,False,0.3,0.0572,0,-29.935,1,0.0382,0.96,0.89,0.111,0.193,129.894,4,piano
+6mib8jl6fASfaAahkDoCr8,Pontus De Bjorn,Agile,Agile,49,206250,False,0.355,0.0117,8,-32.75,0,0.0412,0.995,0.891,0.0999,0.161,124.238,3,piano
+3a2fZ1oqZMDnjFI5ANACiz,Jacob David,Blåregn,Blåregn,54,160000,False,0.293,0.127,2,-30.206,1,0.165,0.97,0.951,0.11,0.556,171.198,4,piano
+2Gv0GXMGtNEcMYjDNVpSRu,Rick Gallagher Project,Pardon,Pardon,61,150127,False,0.428,0.0335,0,-32.234,1,0.0403,0.986,0.954,0.0987,0.0587,126.318,3,piano
+50Ihxe8oJ8cQ1tDYoehuTc,Christopher Dicker,In Repose,In Repose,59,142805,False,0.354,0.0368,1,-22.43,0,0.0451,0.983,0.96,0.109,0.157,92.885,4,piano
+1hEqY5WgZIpNgZKmuFGNax,Mauvais Roger,Peace Frame,Peace Frame,54,179257,False,0.324,0.104,4,-27.014,0,0.0414,0.995,0.957,0.0819,0.254,120.572,4,piano
+1TOme860eWLYhQCkSPpXmE,Kate Bush,The Whole Story,Running Up That Hill (A Deal With God),49,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,piano
+5H9nnDuwE0UCEyQgN42XCs,Yiruma,The Best - Reminiscent 10th Anniversary,Reminiscent,52,192133,False,0.287,0.245,0,-17.241,1,0.0381,0.982,0.923,0.0876,0.0626,150.269,3,piano
+5dH4xnErpUOIDrGySWGkfJ,Ross Copperman,Stars Are on Your Side,Stars Are on Your Side,49,218004,False,0.255,0.625,0,-8.31,1,0.0323,0.63,0.000211,0.0976,0.191,84.611,4,piano
+0x7oCog91UWqiYJQEee3uK,OneRepublic,Oh My My,Lift Me Up,51,226186,False,0.69,0.84,3,-6.104,0,0.0307,0.0107,0.0,0.0785,0.701,115.0,4,piano
+6d1XH0OKwZVbITLqPoToDg,April Baxter,Starry Sky,Starry Sky,60,140000,False,0.563,0.0253,9,-25.218,1,0.0437,0.991,0.831,0.089,0.0987,108.367,4,piano
+4PdjQqQIf7S5MYE044XugT,Paco Ruiz,Calas de Roche,Calas de Roche,48,146247,False,0.313,0.039,8,-23.373,1,0.0344,0.986,0.915,0.114,0.065,73.598,3,piano
+5OQudMRPKLSOQz5MMcF1t4,Kim Bo,Suzume,"Suzume (From ""Suzume no Tojimari"") - Piano Version",37,96923,False,0.52,0.176,5,-21.099,1,0.0371,0.98,0.868,0.157,0.191,77.993,4,piano
+5JcvLTlhEtDl3lPFs95xRM,Kiara Leonard,Fields,The oak,59,124750,False,0.39,0.128,7,-28.989,1,0.0356,0.976,0.854,0.116,0.348,79.297,5,piano
+2fPb58e6f8KxejYDCaARwS,A Great Big World,Is There Anybody Out There?,Say Something,57,233266,False,0.447,0.158,2,-7.571,1,0.036,0.872,1.58e-06,0.0816,0.142,140.942,3,piano
+6IDDwI0YOCAUDhMZltQekS,The Fray,Helios,Love Don't Die,56,183093,False,0.632,0.805,11,-4.488,0,0.0303,0.0095,0.0,0.197,0.275,115.489,4,piano
+0XAivVlq04RdaO5FpIUcm3,Chewie Melodies,Genshin Impact Piano Cover Collection (Pt. 2),Mondstadt Nighttime,45,65762,False,0.448,0.0297,7,-31.359,1,0.0794,0.992,0.644,0.0768,0.28,128.861,1,piano
+0ndzVIqnahvsvjihtlOsHx,Norman Dück,Everything About You,Everything About You,60,137418,False,0.393,0.0717,9,-31.148,1,0.0591,0.995,0.856,0.0863,0.358,87.708,4,piano
+3jBZ215eVz9qwazMIQNSOO,OneRepublic,Waking Up,All This Time,52,242946,False,0.413,0.374,0,-10.744,1,0.0321,0.433,0.0,0.111,0.105,144.93,4,piano
+7Ig3MGkYCA3r3GS84zQ7NI,Philip,Happier Than Ever - Piano Version,Happier Than Ever,42,287294,False,0.428,0.0373,0,-24.593,1,0.0422,0.992,0.915,0.12,0.159,107.43,4,piano
+1K70WrOUKdoejNZ0JlzzGB,Aleksy Wysocki,Zakochany,Zakochany,33,131000,False,0.341,0.0945,8,-23.961,0,0.0482,0.996,0.936,0.106,0.224,65.224,4,piano
+6aPNSFUv5X13wjZsjJAbYW,Miriam Raye,Sempiternal,Sempiternal,61,128000,False,0.487,0.0708,7,-30.666,1,0.0397,0.99,0.931,0.116,0.49,123.902,4,piano
+0SQjOIAnltBea68Xptj6BE,Smyang Piano,Silver Lining,Sweet Night,40,227500,False,0.451,0.174,3,-16.293,1,0.034,0.955,0.922,0.28,0.0399,191.975,4,piano
+1PjFebgYCE4h0l8WJvnFHG,Smyang Piano,"Piano Collection, Vol. 9",Filter,36,196704,False,0.374,0.103,5,-19.767,1,0.0434,0.974,0.908,0.117,0.114,110.01,4,piano
+5UvE5QlINnvEc7aFO14DVL,Jerry Lee Lewis,The Golden Rock Hits Of Jerry Lee Lewis,Great Balls Of Fire - 1964 Version,58,109706,False,0.4,0.818,0,-11.238,1,0.08,0.458,3.25e-06,0.132,0.936,166.287,4,piano
+7awdbrOwQYaqQ7Zquriqe5,Benny Garner,Soft Piano Covers,Prelude in C,52,139259,False,0.157,0.0579,1,-30.856,1,0.042,0.986,0.829,0.0982,0.289,137.032,4,piano
+5phqPWGuBctKI3eNxsJvaN,BigRicePiano,Stories in the Rain,A Bitter Rain,49,230639,False,0.356,0.0217,10,-32.216,0,0.0568,0.991,0.864,0.264,0.183,173.716,3,piano
+3DUcaEvPO72PijivCjtZcU,Elton John,Candle In The Wind 1997 / Something About ...,Candle In The Wind 1997,59,250106,False,0.45,0.311,4,-8.175,1,0.0314,0.977,0.00713,0.167,0.367,125.648,4,piano
+06UlQEupfklesVD0OB2N87,Chad Lawson,the color of the sky (solo piano),the color of the sky - solo piano,51,223880,False,0.171,0.0172,9,-32.538,0,0.0458,0.989,0.902,0.0876,0.0686,67.6,3,piano
+3bYUFS0H27cU8A7DJW0AOY,We The Kings;Derek Sanders,When We Were Young,When We Were Young,49,191493,False,0.358,0.929,7,-5.422,1,0.0449,9.18e-05,0.0,0.264,0.524,196.027,4,piano
+0noUgseAwk5ocHM4RyWcKg,Smyang Piano,"Piano Collection, Vol. 4",Airplane pt. 2,38,174576,False,0.347,0.114,0,-24.026,1,0.0437,0.992,0.955,0.171,0.103,139.646,4,piano
+1xOXXYh6lTW8laxlW7JP2J,Billy Joel,The Stranger (Legacy Edition),Only the Good Die Young,68,235560,False,0.579,0.872,0,-6.126,1,0.159,0.159,0.0,0.0935,0.761,76.214,4,piano
+0ob3wzPe3R3NpJtUEz0wUQ,Christian Peterson-Bergling,Sunnebovals,Sunnebovals,61,173519,False,0.41,0.138,0,-25.783,0,0.0304,0.98,0.918,0.108,0.184,83.35,4,piano
+1gdMwDjEMYMwfI9Q19B5Uh,Jon Sarta,Piano Lullabies for Christmas,"Still, Still, Still",33,121685,False,0.41,0.062,2,-25.843,1,0.0617,0.994,0.975,0.085,0.446,173.776,4,piano
+2S0sTz1lrEu4R82mA572Cb,Yiruma,The Rewritten Memories,Kiss the Rain - Orchestra Version,50,285632,False,0.214,0.22,8,-13.912,1,0.0319,0.955,0.897,0.11,0.0701,101.147,4,piano
+6IVlHRrjTKep5SS9kbcpTa,Keane,Hopes And Fears,This Is The Last Time,64,208786,False,0.522,0.827,7,-4.145,1,0.0283,0.0018,6.8e-06,0.0818,0.335,131.691,4,piano
+2ACs0dJwkSsvNZvEbvFurK,The Brobecks,Violent Things,Better Than Me,67,267466,False,0.378,0.665,7,-7.386,1,0.0428,0.00461,0.000118,0.0575,0.431,169.981,4,piano
+79nJj5dMyTsUzKvN5jUXsJ,Ray Charles,"Modern Sounds in Country and Western Music, Vols 1 & 2",I Can't Stop Loving You,63,256120,False,0.31,0.279,5,-13.552,1,0.0308,0.815,0.0,0.318,0.377,79.397,3,piano
+0IVkP59yJ9GFF6B7IrvrxA,Fiona Apple,When The Pawn...,Paper Bag,65,219266,False,0.709,0.446,0,-9.904,1,0.037,0.716,2.39e-05,0.11,0.843,140.993,3,piano
+0iluWxTpC9QOdVPg3PROvm,Kate Bush,Hounds Of Love,Hounds Of Love,61,183266,False,0.546,0.748,5,-13.989,1,0.0384,0.505,0.0,0.16,0.9,145.582,4,piano
+22KbVMZekQbkrHGrubQTpQ,Five For Fighting,Bookmarks,What If,55,207228,False,0.565,0.895,0,-5.354,1,0.04,0.194,0.0,0.101,0.592,149.919,4,piano
+3zzKxN6S0IkqicdavOvNsG,Nico Rezende;Ive Greice,Esquece e Vem,Esquece e Vem,34,253500,False,0.62,0.377,7,-11.817,0,0.0292,0.482,7.72e-05,0.0881,0.233,80.032,4,piano
+0ImYAp6gNWhXa9DagJQ4tQ,Fred Mollin,Disney Lullaby & Goodnight,You Can Close Your Eyes - Instrumental,33,208706,False,0.3,0.142,2,-17.209,1,0.033,0.922,0.875,0.0761,0.104,57.415,3,piano
+4EfbrtIsjMxN38pA7CmD42,Instrumental Worship Project from I’m In Records,Adoração (Instrumental),I Can Hear Your Voice,34,155797,False,0.415,0.114,6,-14.789,0,0.0329,0.987,0.847,0.096,0.294,91.608,3,piano
+5mThnGZIhQleSySO6QsM7f,Elton John,El Rey León (Banda Sonora Original en Español),Never Too Late,34,249213,False,0.663,0.972,0,-4.93,1,0.0467,0.0116,1.71e-05,0.849,0.645,123.978,4,piano
+4iDTVERxWIlXYZZeq2XeVM,Benny Martin,Memories (Piano Instrumental),Memories (Piano Instrumental),37,222343,False,0.445,0.114,11,-17.2,1,0.0466,0.994,0.929,0.0937,0.137,79.087,4,piano
+3FCto7hnn1shUyZL42YgfO,Billy Joel,The Essential Billy Joel,Piano Man,66,336093,False,0.334,0.472,0,-8.791,1,0.0277,0.6,3.62e-06,0.317,0.431,179.173,3,piano
+32RxZnEk5KyWUTZR4azxbD,Elton John,The Lion King: Special Edition Original Soundtrack (Swedish Version),Can You Feel the Love Tonight,60,241253,False,0.313,0.275,10,-12.501,1,0.0326,0.887,0.0003,0.11,0.148,124.085,4,piano
+2Xzwy48kdZBWGo2lTc8fVn,Cold War Kids,LA DIVINE,Restless,46,292680,False,0.513,0.647,11,-5.444,1,0.037,0.15,4.47e-06,0.214,0.236,125.842,4,piano
+4SsDrt7HV1ECcJ2A7EHfLL,Gabríel Ólafs,Piano Works,Filma Solo,58,195154,False,0.213,0.0377,10,-33.06,1,0.0475,0.986,0.869,0.139,0.0973,165.763,4,piano
+4soIPtfbXw5v7FGQGtWFLq,Skylar Grey,The Buried Sessions of Skylar Grey,Words,47,306786,False,0.487,0.322,7,-8.035,0,0.0292,0.864,0.000198,0.0994,0.197,147.916,4,piano
+7iG6ySNM8AjH8zR3N3F4FY,OneRepublic,CLOUDS (Music From The Disney+ Original Movie),Wild Life,46,267117,False,0.485,0.762,2,-7.843,1,0.0379,0.00711,0.0132,0.12,0.052,115.956,4,piano
+6bII2soeyLixg1Pwpqd3Bp,Jacob's Piano,"Hymn to the Sea (From ""Titanic"")","Hymn to the Sea (From ""Titanic"")",44,147000,False,0.246,0.0794,2,-22.618,1,0.0341,0.87,0.947,0.106,0.0343,135.113,4,piano
+1fyoUmAZLx9tLmXA99Uxs4,Biba Dupont,Longest days,Longest days,60,165898,False,0.385,0.0453,8,-28.853,1,0.0325,0.981,0.913,0.11,0.207,106.871,4,piano
+26UD6EFThaMnBcmHxb8MOG,Crimson Memoirs,Turn,Turn,59,179500,False,0.289,0.0434,5,-26.34,1,0.0384,0.98,0.912,0.0877,0.181,68.352,3,piano
+77axyFLRvnyWiI6abb8cbB,Claribel Ramón,"De perdidos, al río","De perdidos, al río",42,117374,False,0.51,0.0238,7,-31.104,1,0.0402,0.993,0.923,0.12,0.18,53.459,4,piano
+44jnGxgCSoyxygFmpyCiPy,Eu Nice,Another Life,Another Life,60,139777,False,0.385,0.0251,9,-27.255,1,0.0508,0.992,0.942,0.106,0.238,63.828,5,piano
+0BET2XNs9xjzW6uQ5yvqjQ,Alfred Janders,Strosande,Strosande,59,182500,False,0.432,0.0458,7,-30.643,0,0.0329,0.984,0.891,0.102,0.203,144.434,3,piano
+0odacBbDauDRkmcR1DtGsg,Thalia Havenstein,Quiet Dance,Quiet Dance,49,162999,False,0.377,0.012,3,-28.691,1,0.0353,0.991,0.912,0.0959,0.072,95.31,4,piano
+4TntitqQYWyRoIc7WuvESy,Jacob's Piano,Arrival of the Birds,Arrival of the Birds,50,160246,False,0.2,0.2,3,-17.189,0,0.0397,0.901,0.825,0.0898,0.102,126.226,3,piano
+5CIuhTu5H6req55w8yBejp,Chloé Czans,A Thought Evoked,A Thought Evoked,42,174000,False,0.29,0.0324,3,-25.762,1,0.046,0.994,0.945,0.123,0.267,69.12,4,piano
+2nyu65wNXcu377f7UVDnYa,Eugene Goh,Lilt,Lilt,39,141312,False,0.405,0.134,7,-22.188,1,0.0419,0.98,0.931,0.11,0.129,112.285,4,piano
+3NJ3rJfgSHeRqM9Fz12lLJ,Igulfrid,Waltz For Nala,Waltz For Nala,52,137510,False,0.259,0.0491,10,-24.068,1,0.0372,0.959,0.946,0.108,0.163,74.514,3,piano
+2ExaKO7GhafvrUHOjWxjgC,OneRepublic,Human (Deluxe),Take Care Of You,48,228364,False,0.461,0.704,0,-6.451,1,0.0377,0.00788,8.88e-06,0.148,0.25,98.539,4,piano
+6p8tAo2HjobS7Me75EJcBq,Bjarni Erlingursson,Homeward,Homeward,60,151624,False,0.416,0.0472,1,-29.503,1,0.038,0.988,0.967,0.103,0.152,85.571,4,piano
+7jLc5XBbuIDciFmJg2FeCu,The Theorist,Heat Waves (Piano Arrangement),Heat Waves - Piano Arrangement,42,252597,False,0.378,0.147,11,-21.057,1,0.0462,0.98,0.81,0.1,0.202,146.248,4,piano
+0gsBQy8Q0eWlR67xDmoWFw,Emile Pandolfi,So This Is Love,So This Is Love,56,172187,False,0.279,0.234,7,-17.515,1,0.0396,0.975,0.871,0.0908,0.24,163.883,1,piano
+6JVzX8BxLiG4WN3xkJZ3Xu,Taichi Chishaki,Nocturnes op.4,Nocturnes op.4,59,171071,False,0.576,0.0359,3,-29.107,1,0.0929,0.995,0.951,0.11,0.101,139.033,4,piano
+3TFkBg4Ykbemy3QeIztw70,Ima Rayner,Clear Day,Clear Day,60,165000,False,0.372,0.0407,3,-29.75,1,0.0489,0.991,0.946,0.101,0.0564,81.931,3,piano
+3OPVsn0Dk3s8vWhXxnK35p,The Fray,Live From Soho,How to Save a Life - Live in NYC - 2009,54,290266,False,0.54,0.294,10,-12.181,1,0.0323,0.775,0.0,0.708,0.204,119.134,4,piano
+4uNQlDhz4fIKvjvdSESKou,Ed Chinaski,For Kate,For Kate,60,137519,False,0.315,0.0546,3,-28.225,1,0.0596,0.994,0.902,0.11,0.128,163.274,3,piano
+45YmYHJG9AoFEg6X2xvmTV,Chloe Doyle,Aislingeach,Aislingeach,59,121518,False,0.343,0.0184,5,-32.656,0,0.0444,0.993,0.928,0.123,0.303,66.526,3,piano
+5yLEm7dJOXoMBR5OztKbY4,Elias Braun;Denis Turbide,As You Close Your Eyes,As You Close Your Eyes,56,126793,False,0.448,0.0708,7,-25.966,1,0.0301,0.993,0.883,0.0961,0.396,139.035,1,piano
+1iGMUpV6h0zA6pUSXfQJVr,Joaquim Azevedo,Mimetismo,Mimetismo,59,142624,False,0.384,0.0686,8,-24.733,0,0.0578,0.99,0.91,0.0944,0.487,135.352,4,piano
+348MCvZbnPrsHkxq6w8cif,OneRepublic,Dreaming Out Loud,Come Home,48,261653,False,0.521,0.155,0,-12.147,1,0.0286,0.947,9.32e-06,0.103,0.16,75.003,4,piano
+64VzxgaIpjB52YUtsF9St7,OneRepublic;Alesso,Forever,If I Lose Myself - Alesso vs OneRepublic,46,213480,False,0.518,0.829,2,-3.322,1,0.0414,0.198,5.57e-06,0.13,0.149,125.991,4,piano
+2n4tgkKIrN1DPOUamOFnrO,Taichi Chishaki,Nocturnes op.3,Nocturnes op.3,60,154714,False,0.604,0.06,0,-25.813,1,0.0713,0.996,0.96,0.106,0.275,130.794,4,piano
+0yAgdDXxal3Em3W4X1bkGq,Anna Landström,Early Memories,Early Memories,60,153524,False,0.368,0.0272,7,-24.72,1,0.043,0.99,0.915,0.103,0.51,79.307,4,piano
+4CcLHdPVxsePAnX7NzfgxT,Jake Eaw,"Spring 2021 Anime Piano, Vol. 2",Hands Up To The Sky,45,80419,False,0.51,0.269,4,-18.953,1,0.0404,0.957,0.955,0.111,0.26,98.006,4,piano
+391sYYvLJu1ewPZoAiVDFf,Anime Piano Dreamers,Anime Piano For Sleep,"Loneliness (from ""Naruto Shippuden"") - Piano Lullaby",40,90117,False,0.379,0.0138,2,-25.238,0,0.0467,0.991,0.948,0.106,0.378,65.14,4,piano
+2atYprr9JsQaLynGhrWhld,The Fray,Scars & Stories,Heartbeat,53,220693,False,0.458,0.821,9,-5.076,1,0.0334,0.000594,9.46e-05,0.161,0.323,144.46,4,piano
+1nE1VjP943pIuFdNWcLgYM,OneRepublic,Native,Feel Again,49,185080,False,0.471,0.822,7,-8.017,0,0.0538,0.0201,0.0,0.105,0.363,140.007,4,piano
+7pSYz3CoBpjJHj6S8k575N,Smyang Piano,"Piano Collection, Vol. 6",Mikrokosmos,41,248738,False,0.196,0.16,3,-23.953,1,0.0495,0.984,0.952,0.122,0.177,52.891,4,piano
+3bcJ1qsFsBDMhoWaVBx0HW,Jim Well Tempered,Piano Covers Vol.1 - Relaxing Piano Music - Best of Pop Hits and Classical Piano Masterpieces,Comptine D'un Autre Été,49,121901,False,0.278,0.0153,5,-26.859,1,0.042,0.984,0.947,0.0917,0.123,67.418,3,piano
+78WVLOP9pN0G3gRLFy1rAa,Billy Joel,Piano Man,Piano Man,64,336200,False,0.334,0.477,0,-8.806,1,0.0276,0.618,4.17e-06,0.312,0.405,179.239,3,piano
+6IQBnoeLPehnJaE6sKMhVs,Laura Sullivan,A Thousand Years (Piano Version),A Thousand Years (Piano Version),54,148369,False,0.316,0.0831,10,-25.582,1,0.0427,0.989,0.929,0.161,0.276,148.688,3,piano
+17w9YzwFHZH1BfzTDIRiw6,Laura Sullivan,Studio Ghibli Felt Piano and Fantasy Collection,"The Name of Life - Felt Piano Version (From ""Spirited Away"")",34,200434,False,0.431,0.0652,0,-25.806,1,0.0457,0.983,0.955,0.0947,0.314,165.948,4,piano
+5atQ2haKP5LT65WM0KUts3,Kate Bush,Hounds Of Love,Cloudbusting,62,310160,False,0.68,0.248,1,-17.465,0,0.0328,0.696,8.88e-06,0.0839,0.812,112.806,4,piano
+28breCSDTKxrWa96iZBNlq,The Masked Pianoman,Tolerance,Tolerance,57,140844,False,0.288,0.00706,7,-33.604,1,0.0443,0.987,0.959,0.121,0.0898,79.384,4,piano
+1cpANF6zMBoFoxkoIjZHjv,Bill Evans;Jim Hall,Undercurrent,Skating In Central Park,59,324200,False,0.478,0.0294,0,-25.319,1,0.0453,0.993,0.948,0.105,0.148,124.308,3,piano
+5LjSxAIKwyZvQqJ04ZQ0Da,Elton John,Candle In The Wind 1997 / Something About ...,Something About The Way You Look Tonight - Edit Version,58,240546,False,0.48,0.628,6,-7.643,1,0.0262,0.174,3.28e-05,0.0753,0.541,143.412,4,piano
+39cXmGCpwPk5nzPQQRRX6I,Chantry Johnson,Little Nightmares,Poor Jack,32,199448,False,0.439,0.00928,5,-33.082,0,0.0556,0.995,0.951,0.13,0.0677,133.423,4,piano
+5p6me2mwQrGfH30eExHn6v,Dave Brubeck,On Time,Take Five,51,323066,False,0.457,0.219,8,-15.325,0,0.0385,0.545,0.00098,0.0681,0.62,168.55,5,piano
+1hZk9dktp4yRFTm0TrycuH,OneRepublic;Alesso,Native,If I Lose Myself - Alesso vs OneRepublic,60,214813,False,0.523,0.782,2,-4.846,1,0.041,0.219,1.03e-05,0.133,0.164,125.998,4,piano
+2bXKTR6ZGmRL73GW7DMAYC,Chantry Johnson,Little Nightmares,Kidnap the Sandy Claws,33,298785,False,0.436,0.0557,5,-29.955,1,0.0444,0.991,0.94,0.121,0.324,169.994,4,piano
+3YvutLE6lwEyW4WMF5FIi6,Aqualung;Kina Grannis,10 Futures,To the Wonder (feat. Kina Grannis),21,239004,False,0.515,0.46,9,-11.261,0,0.0436,0.891,0.14,0.0874,0.259,140.067,4,piano
+6IRxsf4hUTLzVeXb8PhiGs,Torby Brand,Your Lie in April - Music of the Heart,Again,39,153670,False,0.617,0.26,5,-14.363,1,0.0373,0.986,0.871,0.115,0.104,94.023,4,piano
+28GCsymrcDUXXLC12nkhp3,Dominique Marais,Ellipses,Ellipses,59,151251,False,0.307,0.0756,8,-27.6,1,0.0349,0.994,0.932,0.103,0.188,85.334,4,piano
+797fEwjPjyNhkoQCHDkzne,OneRepublic,Oh My My,Born,48,265893,False,0.251,0.843,7,-5.318,0,0.055,0.0715,3.99e-06,0.361,0.211,93.102,4,piano
+0tQesiSZJQOdHeAC7r59us,GODA,One Punch Man (Original Soundtrack),원펀맨 Theme - Sad Theme,37,228000,False,0.542,0.337,2,-16.088,1,0.0539,0.985,0.933,0.147,0.443,159.951,4,piano
+6yupcJhCWpLXHjm6zQHgaF,Hiroco.M,Hex,Hex,59,152000,False,0.396,0.00635,1,-28.98,0,0.039,0.995,0.916,0.104,0.148,65.118,4,piano
+2nqVa3s6vyN10I8mjb4KwI,Elton John,Love Songs,Candle In The Wind,46,228933,False,0.596,0.468,4,-11.694,1,0.0292,0.208,5.17e-06,0.195,0.584,124.139,4,piano
+1ZxqvIpfcqYDcV4nP6jxms,Haakon Stange,Finding Hope,Finding Hope,48,147000,False,0.216,0.0819,9,-26.17,1,0.0444,0.994,0.954,0.0931,0.0911,71.07,5,piano
+4aWE5S8LTbTBeR1o44ozLu,We The Kings;Demi Lovato,Smile Kid,We'll Be a Dream (feat. Demi Lovato),23,233066,False,0.434,0.702,9,-4.681,1,0.0305,0.00346,0.0,0.232,0.15,159.94,4,piano
+2gtgt4HljfLVdXRMPG9QiA,Biba Dupont,Shared Shelter,Shared Shelter,60,161723,False,0.349,0.0451,4,-27.358,1,0.043,0.996,0.953,0.0758,0.143,93.299,3,piano
+2J9UTgDdul3kMGZgnsUZIp,Hiroko Murakami;Hiroco.M,Like a Child,Like a Child,60,155138,False,0.259,0.00486,0,-31.167,1,0.0524,0.994,0.927,0.144,0.281,65.403,3,piano
+6nuB9oOX8Cdj4uUUvus6SO,PianoDeuss,"Naruto Piano Collection, Vol. 1",Hokage Funeral (Naruto Original Soundtrack),39,144240,False,0.368,0.0887,9,-17.558,0,0.0339,0.964,0.931,0.108,0.117,65.707,4,piano
+4xugZez7zpHFNTgkf0DLV1,Mirta da Silva,Before your eyes,Before your eyes,55,180777,False,0.412,0.0394,3,-26.907,1,0.033,0.992,0.976,0.107,0.19,51.076,3,piano
+6hB8cRpNQzIj7k6MCYh89H,Cassandra Nestico,Hope,Hope,59,173276,False,0.502,0.0762,0,-26.647,1,0.0398,0.986,0.922,0.105,0.089,70.404,3,piano
+2AeveYrc3HVuvOd7ivfaps,Elliott Jacqués,Eva's Quest,Eva's Quest,34,152813,False,0.288,0.0578,0,-27.282,0,0.0341,0.981,0.914,0.109,0.172,73.326,4,piano
+2UUoUzFXegRNIzIangETNG,Ledetraad,Atlas,Atlas,59,132000,False,0.414,0.136,3,-25.295,1,0.0373,0.979,0.958,0.103,0.406,85.905,3,piano
+4vCdNdBT7N2t9ajQHxIR92,Esther Dutch,Fallboard,Fallboard,59,160009,False,0.404,0.0384,7,-30.272,1,0.0416,0.996,0.942,0.0952,0.385,97.428,4,piano
+7f6YYO3XtJgWiddeVqnhI0,Luna Bauer,Lady Ground,Lady Ground,58,174352,False,0.35,0.0922,8,-26.764,1,0.0426,0.993,0.975,0.109,0.445,119.252,3,piano
+6ZMrN8FKGjRPQHzUPInmhM,Fonzi M,"Gurenge (From ""Demon Slayer: Kimetsu no Yaiba"") [Full Version] - Piano Arrangement","Gurenge (From ""Demon Slayer: Kimetsu no Yaiba"") [Full Version] - Piano Arrangement",41,225993,False,0.298,0.375,2,-16.042,0,0.0343,0.953,0.922,0.121,0.264,134.943,4,piano
+3qowDmCLrK4mgwbbFW5unz,Sanna Aalto,Movement,Movement,58,174000,False,0.407,0.0573,1,-28.79,0,0.0483,0.99,0.944,0.0901,0.437,128.937,1,piano
+7J1KmTQJFGhkyKHNZBbmc0,Alfred Janders,Apelblom,Mol allena,52,146874,False,0.401,0.0591,5,-31.025,0,0.0455,0.994,0.927,0.163,0.383,64.988,4,piano
+5utxu2AYfXzn3uHYrG29YF,Smyang Piano,"Piano Collection, Vol. 4",134340,38,171630,False,0.467,0.0918,9,-27.194,1,0.0389,0.994,0.946,0.0955,0.377,110.455,4,piano
+1kjxU1Z1omaqsaS7qh3ZhQ,Selma India,Je Suis Paix,Je Suis Paix,58,182831,False,0.304,0.0219,9,-30.35,1,0.0324,0.987,0.91,0.109,0.231,104.09,4,piano
+4xYztiOcXXOiC1TwTsXuY3,Jacques Blanc,Moving Slowly,Moving Slowly,60,119523,False,0.27,0.0229,5,-29.554,1,0.0363,0.994,0.911,0.0818,0.238,88.897,4,piano
+3SwnQKMO2D0jOUKxaqIHLw,Samuel Félix,Hands and Feet,Hands and Feet,50,114725,False,0.47,0.109,1,-23.997,1,0.0567,0.995,0.934,0.101,0.614,177.517,3,piano
+4RcazdOk2fclED0uZ1S2K9,Volker Anderson,Yesterdays Answer,Yesterdays Answer,58,159414,False,0.499,0.0494,7,-25.632,0,0.0409,0.987,0.94,0.107,0.265,122.134,4,piano
+45Tw2NZgCTA0CHwrkuakCj,Sleeperstar,Just Another Ghost,I Was Wrong,43,152808,False,0.436,0.32,5,-10.405,1,0.0342,0.528,6.83e-06,0.3,0.113,108.043,4,piano
+0zo88XnlK4ZGd16RIKFTgz,Smyang Piano,Silver Lining,Zero O' Clock,37,158706,False,0.583,0.283,6,-14.697,1,0.0377,0.976,0.907,0.11,0.0611,74.987,4,piano
+52gy2KpFkLkAERIhMCYESc,Carlo Boscoli,Il Colibrì,Il Colibrì,60,150187,False,0.503,0.0555,3,-24.975,1,0.0338,0.977,0.824,0.106,0.167,128.033,4,piano
+78ntGe4xyecZHg9exQWwK6,Oscar Peterson,Plays Count Basie,Blue And Sentimental,58,146093,False,0.551,0.114,3,-24.78,0,0.0451,0.977,0.874,0.141,0.124,70.141,4,piano
+6uP2G9yg9zidWT8kyy9pPT,Smyang Piano,"Piano Collection, Vol. 4",Intro: Singularity,38,196405,False,0.318,0.0168,6,-27.405,0,0.0521,0.993,0.947,0.103,0.114,73.25,4,piano
+56QsUnqZRgPYygHww8mnNN,Jake Eaw,"Spring 2021 Anime Piano, Vol. 2",Avid,46,88490,False,0.383,0.257,4,-19.732,0,0.0421,0.97,0.953,0.11,0.291,78.092,4,piano
+0yePjh2a4ppkc9CdYktQ9J,Smyang Piano;tamagopalette,No Hard Feelings,Fake Love - Lofi Edit,38,105230,False,0.591,0.18,2,-15.424,0,0.0338,0.962,0.913,0.136,0.0933,130.076,4,piano
+22MNl16HnscsCgptZ1r8Ib,Smyang Piano;tamagopalette,No Hard Feelings,Save Me - Lofi Edit,39,118235,False,0.568,0.174,6,-17.985,1,0.0302,0.929,0.933,0.378,0.0592,136.132,4,piano
+2nLJMA693clFEHKBi9de3i,Reivaj Ebol,Emociones,Desenlace,59,170125,False,0.255,0.132,7,-24.946,1,0.0378,0.989,0.862,0.0949,0.378,169.698,3,piano
+1NgM2SEuhj7pAzeVTF6Oe5,Genevieve Melton,Testimony (EP),Testimony,60,164000,False,0.428,0.0145,2,-31.154,1,0.047,0.994,0.895,0.0881,0.345,128.522,4,piano
+1t055EdeL1r5DfORFy0UXX,Elton John,Diamonds (Deluxe),Circle Of Life - Remastered,57,293268,False,0.27,0.612,10,-6.101,1,0.0336,0.174,0.205,0.119,0.116,160.417,4,piano
+7FA5BsdrX2pAaBbGoCqOQC,Smyang Piano;tamagopalette,No Hard Feelings,The Truth Untold - Lofi Edit,39,135000,False,0.63,0.148,9,-20.199,1,0.0387,0.859,0.891,0.121,0.0378,119.881,4,piano
+5rScTt133AzCfZCgI2pq6n,Smyang Piano,"Piano Collection, Vol. 1",DNA,38,284238,False,0.398,0.0523,1,-24.195,0,0.0433,0.989,0.918,0.245,0.0931,65.726,4,piano
+1hiWYCNFjrBkunLBo528Z7,Smyang Piano,"Piano Collection, Vol. 2",Dimple,37,217887,False,0.319,0.0275,0,-29.284,0,0.0366,0.987,0.883,0.119,0.12,64.055,4,piano
+2Q5J3fYP2cPXDQwCsS0OkT,Bjarni Erlingursson,Hymn,Rowan's Lullaby,58,116000,False,0.522,0.00941,1,-32.631,1,0.055,0.992,0.91,0.0999,0.184,112.488,3,piano
+4xTvAj3iYFWOoeaErsNwbj,Brian Lyndon,Wake with me,Wake with me,60,135647,False,0.277,0.00176,0,-43.303,1,0.0485,0.99,0.945,0.103,0.0795,110.541,4,piano
+1sjLTFmGf51cdTCDhTAkqa,Smyang Piano,"Piano Collection, Vol. 4",Paradise,37,247669,False,0.274,0.0617,2,-24.157,0,0.0397,0.995,0.927,0.0917,0.0995,139.584,3,piano
+3OrNycpUQqB3sn9QRUqfjj,Temperance Lloyd,The light that blinds us,The light that blinds us,59,148625,False,0.448,0.0643,2,-29.059,1,0.0499,0.994,0.941,0.108,0.279,95.491,4,piano
+31wNr2tvChskzUC29jB0oI,Daniele Leoni,Memories (Piano Version),Memories - Piano Version,46,191218,False,0.345,0.315,11,-17.227,1,0.0467,0.96,0.929,0.078,0.286,78.932,4,piano
+34E0Higz6fFVXlbVsn6TIW,Billy Joel,52nd Street,Honesty,63,233506,False,0.552,0.265,10,-15.482,1,0.0332,0.415,0.0,0.107,0.212,135.476,4,piano
+4XLlFjAwjDENyqYAkRbVuA,Smyang Piano,"Piano Collection, Vol. 1",Save Me,40,198138,False,0.427,0.0771,1,-20.939,1,0.0468,0.987,0.853,0.119,0.184,137.357,4,piano
+71vcffc4Yfz0pt9AbaL386,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,I Don't Wanna Love Somebody Else,49,163960,False,0.495,0.22,5,-11.16,1,0.0355,0.847,1.4e-06,0.0957,0.345,126.618,4,piano
+0vElGKE2gSceTJvWZ20gjt,Smyang Piano,"Piano Collection, Vol. 2",Blood Sweat & Tears,39,285779,False,0.425,0.032,0,-23.56,0,0.0599,0.995,0.905,0.0899,0.249,174.196,4,piano
+7etGs69UCKGxJIHxKFe7BD,See Siang Wong,Cinema Classics: The Piano at the Movies,River Flows in You,48,173426,False,0.259,0.183,9,-20.917,1,0.0485,0.988,0.918,0.103,0.186,71.339,3,piano
+2FwKDwQyIKK1YgLAg9wjnV,Torby Brand,Your Lie in April - Music of the Heart,Spring's Melody,42,147079,False,0.392,0.309,0,-13.233,1,0.0342,0.852,0.939,0.0758,0.136,113.039,3,piano
+1DOMGngtpVWJBCQpu2jOeP,Jacob LaVallee,Somewhere in Between,Somewhere in Between,53,181992,False,0.425,0.124,4,-19.731,0,0.0436,0.991,0.934,0.0858,0.308,139.027,3,piano
+4x0UFoPofsiqTndmsZpG2h,Tristen Longfellow,die kleine Raupe,die kleine Raupe,51,157984,False,0.474,0.0315,5,-29.749,1,0.0433,0.995,0.925,0.11,0.146,127.789,3,piano
+5In20kbEsaxFQ3q2RG0TQb,We The Kings,Sunshine State of Mind,Say You Like Me,21,210645,False,0.412,0.744,9,-4.301,1,0.0651,0.0265,0.0,0.21,0.342,176.171,4,piano
+4T9ej7a6gtJyQ5yFRO1vXc,Davignon,Laredo,Laredo,58,167500,False,0.407,0.0326,1,-26.293,1,0.0411,0.976,0.927,0.1,0.184,143.346,4,piano
+4Q4LaLRedI0F02XS2lsYkP,Jøsefine,Numéro 1,Numéro 1,59,154625,False,0.413,0.0734,5,-26.001,1,0.0311,0.992,0.947,0.093,0.366,131.462,4,piano
+5xtliWYBVT4cKo9BtBn43B,OneRepublic,Oh My My,Choke,50,226760,False,0.582,0.607,4,-6.397,0,0.0346,0.302,0.0,0.116,0.263,92.021,4,piano
+0NEX6oBUy1iu6KALZ1m94c,Denise Santoz,Phoneme,Phoneme,59,171500,False,0.3,0.122,2,-30.482,1,0.0355,0.973,0.909,0.104,0.225,97.192,4,piano
+0rafHfCcXPvNoLf5uHQvpr,Freya Rääf,Min Melodi,Min Melodi,57,130804,False,0.396,0.0158,3,-27.169,1,0.0371,0.995,0.936,0.144,0.0799,136.559,3,piano
+424kxlBHkHVxwwMkDlPp1s,Maru Gomes,Esthetic,Esthetic,58,147702,False,0.364,0.0393,4,-28.813,1,0.0374,0.995,0.865,0.0897,0.195,95.027,4,piano
+5SlNjNaibdMLveJPYqAAaE,OneRepublic,Oh My My,All These Things,49,199093,False,0.584,0.654,5,-6.485,1,0.0361,0.0247,1.48e-05,0.434,0.287,151.916,4,piano
+6cOu2uTUIHNpjcnZ7kaJ2v,We The Kings;Elena Coats,Stripped,Sad Song (feat. Elena Coats),36,264140,False,0.345,0.328,11,-5.741,1,0.0283,0.873,0.0,0.0992,0.344,149.45,4,piano
+7N05mAG1X23Sd2PNOyoJSF,Hikaru Shirosu,Blue Stone of Atlas (Piano Solo Version),Blue Stone of Atlas - Piano Solo Version,50,158000,False,0.455,0.0038,10,-32.104,1,0.177,0.992,0.951,0.141,0.254,204.573,4,piano
+3RIYWuMEasEhXVNx722ZOC,OneRepublic,Champagne Supernova,Champagne Supernova,49,380802,False,0.488,0.588,2,-5.929,1,0.0298,0.157,1.53e-06,0.111,0.156,75.982,4,piano
+6BKGokQ3PKLFqBlCBjCy8J,Dominique Marais,Mondegreen,Mondegreen,51,144846,False,0.26,0.168,7,-25.407,1,0.0321,0.992,0.96,0.103,0.0968,146.628,3,piano
+6mwVh9GJeesKKE0OJWHrMt,Mauvais Roger,Approaching Haumea,Approaching Haumea,48,171688,False,0.258,0.125,3,-24.067,1,0.0341,0.985,0.92,0.112,0.407,146.305,3,piano
+5y0Ea7N6qh5ov0Y4WGIfDX,Philip,As It Was (Piano Version),As It Was - Piano Version,41,156000,False,0.4,0.136,9,-17.935,1,0.0344,0.982,0.918,0.123,0.495,72.424,4,piano
+7jCQisqspF9CBSrTIykHei,Philip,Glimpse of Us (Piano Version),Glimpse of Us - Piano Version,40,240545,False,0.322,0.115,8,-18.564,1,0.0491,0.979,0.942,0.114,0.259,153.784,3,piano
+6H3zH7j2izbhiKwq7yQTJa,Benny Martin;The Wong Janice,Canon In D (Piano & Cello),Canon In D - Piano & Cello,51,244090,False,0.165,0.171,2,-17.485,1,0.038,0.983,0.9,0.125,0.404,181.416,4,piano
+5JbPjRk4CJCPWJPQ6SQO6K,Laura Sullivan,Perfect,Perfect,49,291301,False,0.287,0.145,8,-21.454,1,0.047,0.988,0.948,0.111,0.262,172.799,3,piano
+5Z4EgTCCoObfO1WfrvrQ9v,Supertramp,The Very Best Of Supertramp,The Logical Song,56,249666,False,0.623,0.666,5,-9.255,0,0.0457,0.562,0.000228,0.148,0.729,120.247,4,piano
+3W5GfZBvDJQKovjdCww4pL,Luisa Amogida,Impuissance,Impuissance,59,123888,False,0.448,0.011,10,-26.821,1,0.0469,0.996,0.94,0.101,0.301,92.778,1,piano
+7oyFihJppZYPP7o0NfoHnZ,A Great Big World;Christina Aguilera,Particles,Fall on Me,50,262820,False,0.393,0.268,9,-6.741,1,0.0385,0.697,0.0,0.11,0.225,110.456,4,piano
+1MSM3Fo2fvnwVqMcz8Jhjq,Andrew McMahon in the Wilderness,Andrew McMahon In The Wilderness,Cecilia And The Satellite,61,223879,False,0.381,0.844,5,-7.123,1,0.144,0.0131,0.0,0.318,0.239,194.0,4,piano
+4VhR9r9zgzikeruUScgj8A,OneRepublic,Human (Deluxe),Savior,47,181358,False,0.59,0.583,9,-6.985,0,0.0309,0.016,8.49e-05,0.0703,0.234,92.995,4,piano
+1rpF77jsLBMG2QjCuhe0Sr,Yiruma;Ólafur Arnalds,We Contain Multitudes — piano reworks,We Contain Multitudes — piano reworks,57,264052,False,0.417,0.0287,7,-25.066,1,0.0714,0.994,0.889,0.079,0.285,143.262,4,piano
+6kskp4wLp2RvmyZdyIJPCb,Chewie Melodies,Genshin Impact Piano Cover Collection (Pt. 2),Qingyun Peak (Mellow),43,77941,False,0.576,0.00552,4,-33.017,1,0.111,0.979,0.958,0.101,0.345,113.249,4,piano
+7Afr3PKTtlFGHGiXYgnv6P,Ben Rector,The Walking in Between,I Like You,56,138506,False,0.624,0.334,3,-11.89,1,0.0391,0.321,3.27e-06,0.113,0.397,157.92,4,piano
+73xYQWRzImNfVHhz0x9ETV,OneRepublic,Human (Deluxe),Forgot About You,47,173249,False,0.793,0.627,1,-5.689,1,0.0528,0.318,0.0,0.0696,0.544,142.91,4,piano
+2xar08Fq5xra2KKZs5Bw9j,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",I've Got a Woman,66,171466,False,0.556,0.61,9,-4.729,1,0.213,0.833,2.22e-06,0.258,0.665,199.373,4,piano
+6XfxmT5QNCXvpZA6PKfWVL,Elton John,Blue Moves,Sorry Seems To Be The Hardest Word,62,228933,False,0.371,0.22,7,-12.797,0,0.0324,0.828,1.23e-06,0.195,0.112,118.464,4,piano
+42WpwYm7DYxbbVbUO35LUX,Yiruma,Yiruma 2nd Album 'First Love' (The Original & the Very First Recording),May Be,53,240533,False,0.467,0.124,1,-22.377,1,0.0516,0.992,0.879,0.0912,0.123,112.598,4,piano
+2I5GCwdJkw7hhnUkSjzqUU,Keane,Hopes And Fears (Deluxe Edition),Somewhere Only We Know - BBC Steve Lamacq Session / 2003,59,229080,False,0.437,0.574,9,-6.611,1,0.0259,0.0328,0.000376,0.102,0.271,172.031,4,piano
+2u6fRGcaBhpI4uNBHpGv0b,Rufus Wainwright,Vibrate: The Best Of (Deluxe Edition),Hallelujah,62,251586,False,0.367,0.156,9,-10.052,0,0.0314,0.88,0.0,0.0972,0.44,73.138,4,piano
+4xyFKeBM18JfbKI5ksbCzI,Laura Sullivan,You Are the Reason (Instrumental),You Are the Reason - Instrumental,54,209984,False,0.498,0.236,10,-16.117,1,0.0457,0.99,0.938,0.11,0.148,168.215,3,piano
+4YACCGEjeX1LEpY5tIBb97,Mark Benson,Piano Favorites 2,It Must Have Been Love - Piano version,56,255236,False,0.554,0.0583,5,-24.27,1,0.0458,0.988,0.933,0.119,0.154,118.13,4,piano
+0WXWiXfd4V6MCkBkrUV0NK,Akira Kosemura,Evening Light,Evening Light,53,141315,False,0.393,0.0399,8,-27.124,1,0.0469,0.982,0.892,0.109,0.147,123.787,3,piano
+4Be0A7S5hA8MvzB7rbFuHc,Anna Landström,Light in the Mist,Light in the Mist,51,240099,False,0.306,0.00806,8,-29.693,1,0.0386,0.985,0.869,0.101,0.324,141.475,4,piano
+5CJQMw0y824OWaQJSlszY5,OneRepublic,Human (Deluxe),Someday - Acoustic,47,185550,False,0.575,0.494,0,-7.487,1,0.0297,0.565,0.0,0.156,0.207,120.998,4,piano
+6X4fTprmm1elJ6LPGXJEsP,Xaverius Love,Santolea,Santolea,59,151250,False,0.49,0.0531,2,-27.898,1,0.0534,0.995,0.931,0.108,0.319,99.335,3,piano
+65a1ng2xAbaRbYWsq9H2MH,Stephan Moccio,Lionheart,Lionheart,56,209693,False,0.329,0.0232,2,-24.632,0,0.0372,0.993,0.922,0.0965,0.112,111.377,4,piano
+60tXDXk5K67J18XNgZ7JZt,Stephan Moccio,Tales Of Solace,Sea Change,52,171213,False,0.458,0.00701,8,-34.755,1,0.0438,0.993,0.948,0.102,0.0939,118.444,3,piano
+0vxlqUrmgsiyAWOHaAfnSK,Ron Pope,Daylight,A Drop In the Ocean,55,228311,False,0.458,0.363,5,-6.473,1,0.032,0.892,3.79e-06,0.155,0.492,134.252,3,piano
+5gfVUrKzYPQ8wocsJZinPY,Flying Fingers,Someone You Loved (Piano Version),Someone You Loved - Piano Version,57,158000,False,0.48,0.291,1,-13.377,1,0.0497,0.987,0.894,0.107,0.107,109.09,4,piano
+5FYlc7iKGQTlXjIKdBSgWB,We The Kings,Somewhere Somehow,Any Other Way,22,224926,False,0.457,0.924,11,-3.935,1,0.0604,0.0104,0.0,0.0847,0.434,77.457,4,piano
+2d3Q2OiMkU7aBKCQznnkxd,Smyang Piano,"Piano Collection, Vol. 9",We Are Bulletproof : The Eternal,38,247620,False,0.265,0.0795,9,-23.188,0,0.0509,0.992,0.933,0.0887,0.151,168.445,4,piano
+1iw55v0rmwLoTQZVlJi5ti,BigRicePiano,The Heart's Tale,The Heart's Tale,46,294399,False,0.565,0.034,2,-24.597,1,0.0726,0.991,0.946,0.0862,0.191,121.663,4,piano
+6PNvv1dmDbOWrAYwEcuKBX,Fiona Apple,Tidal,Criminal,63,341533,False,0.595,0.804,7,-7.911,0,0.0326,0.0129,1.97e-05,0.299,0.586,89.846,4,piano
+3iwSjHyE2dXvTgzL2u771I,Valentina Romano,Ombre,Ombre,59,125183,False,0.397,0.00919,11,-27.502,0,0.0402,0.994,0.934,0.104,0.102,76.178,4,piano
+464RPvFsPPkLd3MNdqH2ZT,George Winston,Linus & Lucy - The Music of Vince Guaraldi,The Great Pumpkin Waltz,32,235178,False,0.498,0.0939,3,-16.324,1,0.0402,0.992,0.859,0.11,0.134,77.636,4,piano
+7gREIuHognJFspylIDJ94p,Billy Joel,The Stranger,Vienna,58,214240,False,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936,4,piano
+02kN88Xc8ks3JiKkGrMNpm,Hideyuki Hashimoto,Page,Page,57,128000,False,0.477,0.0493,11,-29.775,1,0.0366,0.985,0.952,0.102,0.201,76.017,1,piano
+6NEZlv8KhZ7D625Ry6g5s5,Takare Tadame,人生への古代のステップ,人生への古代のステップ,47,130483,False,0.35,0.129,9,-22.005,1,0.0418,0.991,0.936,0.107,0.114,132.021,4,piano
+4WPC9MrVbtnpxcKFDyouit,Jacob's Piano,"G Minor Bach (From ""Piano Tiles 2"")","G Minor Bach (From ""Piano Tiles 2"")",50,200000,False,0.252,0.27,0,-19.12,0,0.0324,0.975,0.917,0.118,0.224,83.947,4,piano
+3uc0n09OB7e2CNXBvrSUAG,Javi Lobe;Second Light,Continuum,Continuum,43,142980,False,0.254,0.214,2,-16.714,1,0.0276,0.966,0.911,0.105,0.123,74.878,4,piano
+0B1T2ALl2JTJQlsqIo5pGK,RMaster,Anime Collection Naruto,Lonelyness - From Naruto,29,130095,False,0.655,0.378,9,-11.3,0,0.0316,0.0422,0.889,0.106,0.343,147.946,4,piano
+6oJIMUBDopuFljMNBFrq9Z,Ever So Blue,Fragment,Progress,52,138629,False,0.268,0.0234,0,-27.141,1,0.0487,0.995,0.929,0.0975,0.0382,99.734,4,piano
+0dxGWPgY0qGI7EgYmnSPDj,Philip,Stay (Piano Version),Stay - Piano Version,42,144044,False,0.378,0.191,1,-21.391,1,0.039,0.964,0.922,0.112,0.312,149.659,4,piano
+17Y4HMDNr3FGAAiORjRbGW,Skylar Grey,Suicide Squad: The Album (Collector's Edition),Wreak Havoc,41,228947,True,0.607,0.827,1,-3.402,1,0.0464,0.00844,6.31e-06,0.336,0.0959,110.917,3,piano
+3V6pjN89k3xSkmbsfQTko6,Gavin Mikhail;The Cameron Collective,"Collaborations, Vol. I",In The Name Of Love (Acoustic),39,190424,False,0.615,0.483,5,-5.334,1,0.0351,0.892,0.0,0.175,0.503,133.917,4,piano
+16GUMo6u3D2qo9a19AkYct,Billy Joel,The Stranger (Legacy Edition),Movin' Out (Anthony's Song),67,210760,False,0.664,0.88,2,-5.009,0,0.0326,0.465,1.63e-05,0.0591,0.895,133.898,4,piano
+7jyTA0SnsCBKDLslEM9bJu,Quiet Gaze,Peaceful Anime,"Dream Lantern (from ""Your Name"") - Piano Version",42,144213,False,0.701,0.145,3,-17.597,1,0.0467,0.981,0.901,0.115,0.187,134.967,4,piano
+6TAdSTLJrVdWjmuvUhTaDd,Ava Decker,Let many flowers grow,Let many flowers grow,50,190750,False,0.264,0.0224,2,-29.738,1,0.0374,0.968,0.887,0.103,0.266,54.356,3,piano
+26RTd4wqzRGUAAC2XoOAa4,Keiko Ishida,Out Of The Blue,A Winged Time,50,120000,False,0.388,0.0356,3,-27.984,1,0.0373,0.995,0.955,0.11,0.18,98.216,4,piano
+6tilCYbheGMHo3Hw4F22hF,Lafayette Leake,"Easy Blues (France, 1978) [Blues Reference]",Short Dressed Woman,49,252133,False,0.767,0.496,10,-11.399,1,0.0307,0.237,0.0723,0.0853,0.751,110.932,4,piano
+0GUncXNah8KoaErnDd7H1L,OneRepublic,Human (Deluxe),Ships + Tides,48,296424,False,0.242,0.354,7,-8.783,1,0.0299,0.768,0.0234,0.117,0.183,135.852,4,piano
+2qWD1fINOZ421QSOqVnDVC,Destly,Genshin Impact Sumeru Collection (Visages of Wisdom),Sumeru,40,105717,False,0.115,0.29,4,-14.306,0,0.0377,0.941,0.91,0.139,0.133,82.92,3,piano
+6XxqVuReY8oStJvHuG3cOZ,Tanisha Hickman,Feathers,Feathers,52,125500,False,0.28,0.0485,7,-28.995,1,0.0385,0.995,0.933,0.116,0.273,147.162,3,piano
+4hV0rODQtqQBzlAmfjBzcv,Smyang Piano,Silver Lining,Shadow,35,130285,False,0.608,0.473,9,-12.25,0,0.0717,0.889,0.942,0.089,0.103,139.867,4,piano
+3BpTPTsyNwA38QVtCZgqbv,Smyang Piano,"Piano Collection, Vol. 9",Black Swan,37,286899,False,0.388,0.0604,2,-27.541,0,0.044,0.993,0.917,0.0958,0.0725,129.681,4,piano
+6fcBDcZTZVx1jJAED8KYv0,Emilia Branco,Boundaries,Boundaries,59,170566,False,0.419,0.0391,3,-28.006,1,0.0362,0.995,0.946,0.114,0.414,92.371,3,piano
+5QIi1Vv5Wyb7Nw1Dz01xS9,Yiruma,The Best - Reminiscent 10th Anniversary,May Be,49,306200,False,0.387,0.159,1,-19.106,1,0.0477,0.99,0.87,0.0906,0.103,97.176,4,piano
+2ZzCYFbW5wbGU6NfuJoZRm,Smyang Piano;tamagopalette,No Hard Feelings,First Love - Lofi Edit,38,127500,False,0.471,0.195,8,-17.976,0,0.0289,0.964,0.905,0.111,0.258,79.997,4,piano
+6VnHJ2qyC1MpodivmPBm8F,Chewie Melodies,Genshin Impact Piano Cover Collection (Pt. 2),Qingyun Peak Daytime,40,70273,False,0.485,0.0192,4,-29.844,1,0.0503,0.991,0.922,0.0991,0.41,134.218,4,piano
+1YuUPfLPOyvB1QYDKam0tc,Vanessa Carlton,Hear The Bells,A Thousand Miles - Acoustic,57,278346,False,0.44,0.236,11,-7.712,1,0.0279,0.88,3.09e-05,0.108,0.329,83.935,4,piano
+2FJiWb3xZQmuZhNYZRK2bJ,Nelson Haynes,Symposium,Symposium,52,142750,False,0.246,0.0663,0,-31.455,0,0.0421,0.993,0.885,0.119,0.37,194.824,4,piano
+2bUXfclD8DwJwwUENtSCWu,Elton John,Diamonds (Deluxe),Your Song - Remastered,62,243066,False,0.555,0.336,3,-9.916,1,0.0296,0.821,2.17e-06,0.089,0.303,127.792,4,piano
+3mrWC8aEj9JrxKl6gQ0HRv,Víkingur Ólafsson,Reflections Pt. 1 / Debussy: Bruyères,Reflection,54,332746,False,0.426,0.0153,1,-32.834,1,0.0372,0.993,0.957,0.108,0.265,104.717,4,piano
+6yjKlmm7vOszkXEUku1EM1,Billy Joel,Turnstiles,New York State of Mind,63,362400,False,0.506,0.373,0,-9.473,1,0.0347,0.499,4.05e-05,0.323,0.194,121.289,4,piano
+6v712JjelPt8DeJRQqLN1V,Smyang Piano,"Piano Collection, Vol. 11",Life Goes On,36,238232,False,0.38,0.0751,1,-22.998,1,0.0452,0.992,0.933,0.106,0.115,150.796,4,piano
+6bXuTbOQeHnTobLDUpqPpu,Yiruma,The Rewritten Memories,Sunset Bird - Piano Septet Version,49,197611,False,0.395,0.224,3,-15.074,1,0.0301,0.968,0.853,0.146,0.319,143.964,3,piano
+4wLJSKfwBPNHZboMdKOIjX,Tifita,Anime: Piano Emotions,"Sadness and Sorrow (From ""Naruto"")",42,102166,False,0.563,0.0358,4,-20.609,0,0.0745,0.977,0.891,0.0982,0.159,132.552,4,piano
+1u7kQUb3lQcpHaYRfia13A,Billy Joel,Storm Front,And So It Goes,53,217573,False,0.433,0.0871,0,-14.532,1,0.0341,0.91,1.98e-05,0.113,0.336,135.498,4,piano
+50RTSw2EyTVOcb4iIBHOPl,Smyang Piano;tamagopalette,No Hard Feelings,Autumn Leaves - Lofi Edit,38,154916,False,0.541,0.242,6,-22.273,1,0.0297,0.947,0.922,0.108,0.0639,112.121,4,piano
+4BUtvtGTRvJB49Hx2F7lle,OneRepublic,Waking Up,Marchin On,53,251666,False,0.508,0.807,11,-8.581,1,0.0686,0.333,0.00363,0.136,0.306,123.034,4,piano
+2xwp3DfpcINuUpbnQM86X1,Kevin Kern,In the Enchanted Garden,Through the Arbor,53,225800,False,0.302,0.0797,2,-18.901,1,0.0331,0.981,0.836,0.0793,0.235,199.907,4,piano
+59eCy91JDrnpbPLF3T3L03,Smyang Piano,"Piano Collection, Vol. 5",Epiphany (Full Length),38,247481,False,0.593,0.176,5,-18.27,1,0.048,0.991,0.947,0.11,0.209,134.016,4,piano
+14ZKDLMXidw9jrzWkK53tL,Yiruma,The Rewritten Memories,Maybe Christmas - Orchestra Version,48,303297,False,0.105,0.154,1,-14.355,1,0.0334,0.946,0.895,0.0683,0.0756,71.0,4,piano
+2E3y6Tmfgs0NRIPxrZQuRH,Ben Folds,Rockin' The Suburbs,Gone,31,202666,False,0.273,0.752,5,-5.406,1,0.0506,0.00514,5.34e-06,0.124,0.19,124.502,4,piano
+3utq2FgD1pkmIoaWfjXWAU,Billy Joel,The Stranger (Legacy Edition),Scenes from an Italian Restaurant,62,456893,False,0.415,0.931,5,-4.988,1,0.126,0.407,0.000501,0.114,0.339,97.953,4,piano
+4mPiTSD96K4Dha1irhqpW3,Keane,Hopes And Fears,Bend & Break,60,220133,False,0.467,0.839,4,-3.584,1,0.0295,0.000738,1.99e-05,0.121,0.518,137.902,4,piano
+7snsIXBqXSt3XcYAJUiBNr,Bobby Timmons,Moanin',This Here,32,214200,False,0.554,0.493,5,-16.959,1,0.0281,0.85,0.943,0.122,0.771,95.519,3,piano
+2Oq7FNjSS7hdVYqWqmDcQr,Ben Folds,Rockin' The Suburbs,"Fred Jones, Pt. 2",31,225933,False,0.486,0.166,0,-11.534,1,0.0323,0.894,2.45e-06,0.0932,0.239,131.854,3,piano
+6qWGRBzQMq6DXovBZMSE9d,Jim Brickman;Martina McBride,Picture This,Valentine,57,196266,False,0.521,0.263,1,-12.711,1,0.0264,0.836,2.62e-05,0.138,0.184,95.448,4,piano
+4jZTC2kZHxUtC9gupbmUtz,Tom Ameen,Magical Moments 2: The Magic Continues,Soarin' Over California,31,217988,False,0.378,0.162,4,-14.478,1,0.05,0.983,0.888,0.141,0.132,117.83,4,piano
+3vXXUi4bPLz5e5fCPmuKNL,Kate Bush,Selection from 'The Other Sides' (2018 Remaster),"12"" Running Up That Hill (A Deal With God) - 2018 Remaster",54,349000,False,0.718,0.397,10,-16.856,0,0.062,0.39,0.443,0.0622,0.329,108.334,4,piano
+4zAEL7TeQ3bd3EeEajrTaF,Fred Mollin,Disney Lullaby & Goodnight,All Through the Night - Instrumental,31,211133,False,0.493,0.0757,9,-19.919,1,0.0313,0.895,0.563,0.115,0.298,75.009,4,piano
+7sUuVZwDh9XWtgVwbitU2q,Paul Cardall,Primary Worship,Keep the Commandments,31,181853,False,0.337,0.0472,5,-21.658,1,0.034,0.993,0.886,0.0917,0.153,80.535,4,piano
+3UrDYCWfY6fTsiA63NNL27,Jackson Browne,The Next Voice You Hear - The Best Of Jackson Browne,Running on Empty,61,298093,False,0.531,0.948,9,-5.438,1,0.0568,0.006,0.0117,0.694,0.498,136.891,4,piano
+7ps0lU6VumdsH5JqAjzDRm,Helen Jane Long,Classical Chillout,Long: Porcelain,31,220386,False,0.301,0.0949,5,-22.734,1,0.0344,0.986,0.957,0.137,0.0589,93.53,4,piano
+7ICZkeodyeK8foAiGbJjOI,Daigo Hanada,Dear,Dear,58,116000,False,0.335,0.0168,8,-32.159,0,0.0479,0.989,0.856,0.0998,0.177,92.277,3,piano
+27iZxQjtXo4OxoZyk91Ooq,Secondhand Serenade,A Naked Twist in My Story,"Stay Close, Don't Go",50,212066,False,0.528,0.487,3,-5.322,1,0.033,0.686,0.0,0.0618,0.342,175.663,4,piano
+0PiQD1eZ6eVhyP9yLK3uCN,Smyang Piano,Tokyo,Tokyo,40,182471,False,0.689,0.246,5,-20.274,0,0.0392,0.98,0.923,0.139,0.198,129.921,4,piano
+3MHeGswE0BGskmSYhU1n6M,Marika Takeuchi,Daydream,Daydream,47,174893,False,0.434,0.45,6,-16.443,0,0.0437,0.827,0.914,0.1,0.137,179.742,4,piano
+7iv6u8KM5GVTt01WbDLQAO,F.B. Piano Anime,Yuri on Ice (Yuri!!! on Ice Original Soundtrack),Yuri on Ice (Yuri!!! on Ice Original Soundtrack),34,235998,False,0.253,0.239,3,-16.741,1,0.0306,0.95,0.908,0.125,0.0599,77.321,4,piano
+5CBDOzmi9RXYOWi7YMrU9e,Hideyuki Hashimoto,Echo,Echo,57,121250,False,0.516,0.0213,1,-33.477,1,0.0392,0.986,0.956,0.145,0.0481,82.577,3,piano
+2S31fN4fo8ihtHSLrhQFcT,Marika Takeuchi,Missing Piece,First Light,48,160586,False,0.254,0.495,3,-16.035,1,0.0382,0.946,0.87,0.109,0.461,179.836,4,piano
+6YJmFcuQdTUxGMYrfrLn2w,We The Kings;Olivia Holt,Sad Song (Rj Remix) [feat. Olivia Holt],Sad Song (Rj Remix) [feat. Olivia Holt],21,239789,False,0.577,0.843,1,-4.692,1,0.101,0.0707,0.0,0.109,0.771,99.91,4,piano
+4h0KkJEWim1EJJrHbB26Tb,Jacob David,Lille fugl,Lille fugl,26,133874,False,0.381,0.18,5,-26.271,1,0.0279,0.924,0.873,0.111,0.177,45.647,4,piano
+3e1WYfmlGZvuwiwJRZ9x0f,Jan Thiel,Cosmos,Cosmos,57,159500,False,0.34,0.0755,8,-31.981,1,0.0368,0.989,0.938,0.106,0.136,116.385,4,piano
+5HSBbEUofDbCCZOuXaJ9un,JON,Chasing Z's,Departure,58,184000,False,0.426,0.0271,7,-26.072,0,0.0368,0.994,0.699,0.101,0.164,91.208,3,piano
+20fUrFnUxqCJvTO40j6DbA,Starsailor,Love Is Here,Way to Fall,48,269973,False,0.329,0.333,2,-11.026,0,0.0279,0.211,0.000142,0.118,0.18,140.596,3,piano
+0DoZ4rU4WmaHcySIJHQY5A,Jackson Love,Snowfall in a Forest,Snowfall in a Forest,58,148801,False,0.425,0.00957,0,-31.269,0,0.044,0.995,0.957,0.108,0.0965,91.129,4,piano
+25h6NHq2mLaiupkc0XDuBa,Akira Kosemura,Kioque,Kioque,58,130045,False,0.448,0.107,5,-23.153,1,0.0321,0.951,0.921,0.111,0.2,139.33,4,piano
+5A6E9cVlxYAmEvdbEE4w9Y,Karim Kamar,"Selected Works, Vol. 3",drivers license - Piano Arrangement,40,284000,False,0.344,0.081,10,-23.65,1,0.0564,0.983,0.9,0.103,0.034,128.876,4,piano
+0utTxlkXq7mv67jgyL7XEg,Javi Lobe,Eternal Light,Eternal Light,59,138500,False,0.46,0.049,5,-27.913,1,0.0531,0.995,0.938,0.104,0.483,142.786,4,piano
+65HxtQIYEnCl7wor098PWC,Teide,Dulcinea,Ombro,46,203692,False,0.224,0.0469,2,-28.394,0,0.0371,0.951,0.88,0.11,0.0462,145.452,4,piano
+6oCUME6tmQJi4LPHogLpUV,Elise Lindahl,Alt jeg tør,Alt jeg tør,50,142000,False,0.415,0.00179,10,-33.759,1,0.0469,0.994,0.944,0.126,0.0782,109.399,4,piano
+0M3DaTZsuttjClg5VG8exA,Lihua Zhao,Heartland,Heartland,52,208500,False,0.325,0.0762,4,-28.507,0,0.0367,0.974,0.933,0.097,0.141,123.907,4,piano
+4NSH5KlrNzdH9OBtgsBFpL,Lazar Berman,Inedito (Unpublished),Chaconne in sol maggiore : Variazione 9,58,63840,False,0.387,0.00181,7,-43.957,0,0.0632,0.995,0.919,0.0996,0.475,98.691,4,piano
+00utEhrTFR6V4HEuLh2ncI,Love Falk,Someone You Loved,Someone You Loved,56,185845,False,0.481,0.0686,1,-24.577,1,0.0655,0.993,0.95,0.101,0.0799,73.739,4,piano
+4iMQEdNXGMVlAbqsJGhvxx,Piotr Wiese,"Waltz, Interrupted","Waltz, Interrupted",57,131561,False,0.48,0.0714,0,-25.184,0,0.044,0.995,0.936,0.11,0.198,129.905,3,piano
+3nI7ooi7HA8oRVSgCKvcE7,Lihua Zhao,The Far West,The Far West,58,171000,False,0.507,0.0414,3,-28.956,1,0.0395,0.988,0.942,0.107,0.538,132.344,4,piano
+2HsdXI21r6mfT7GOA2PzGb,Teide,Girasole,Girasole,38,161599,False,0.355,0.0592,11,-23.272,1,0.0418,0.97,0.947,0.105,0.374,126.421,4,piano
+3H8OiohyQRpHw4YJLzclKg,Paintamelody,Still With You Army Piano Collection Album,Still With You (Lo-Fi Jazzhop),30,244176,False,0.637,0.368,1,-16.698,0,0.0399,0.867,0.917,0.161,0.605,173.237,4,piano
+2KOxgVJN5IGm8Of4IARigO,Mayumi Sasaki,Shu's Sonata,Shu's Sonata,49,151261,False,0.198,0.0224,7,-25.397,1,0.0377,0.99,0.87,0.107,0.12,73.883,1,piano
+6peFJMhlZsmPf85LJx5DBp,Gavin Mikhail;The Cameron Collective,In The Name Of Love,In The Name Of Love - Acoustic,36,190424,False,0.615,0.483,5,-5.334,1,0.0351,0.892,0.0,0.175,0.503,133.917,4,piano
+7smv9FDgDqLgnNbC1bdANi,Smyang Piano,Playroom,Scenery,36,206086,False,0.644,0.153,3,-18.357,1,0.0366,0.777,0.841,0.124,0.107,92.017,3,piano
+35PyovSr4wZwaFtnrfZUKp,OneRepublic,The Giver: Music Collection,Ordinary Human,44,291613,False,0.282,0.719,5,-7.633,1,0.0335,0.196,0.000358,0.107,0.276,99.992,4,piano
+51jloR6rJcBkT1f8n3paRW,Elton John,Gnomeo and Juliet (Original Motion Picture Soundtrack),Hello Hello,55,224826,False,0.576,0.597,2,-7.256,1,0.0241,0.523,0.0,0.369,0.414,83.052,4,piano
+5GYKdUcKo5iuhHla2ekgS9,Andrea Binotto,Gocce d'acqua,Gocce d'acqua,58,109741,False,0.381,0.0056,5,-28.975,1,0.0443,0.995,0.904,0.0963,0.259,133.188,5,piano
+08CEozAr9W6tjhOEpSY2J4,Mark Northam,Up: Music From The Pixar Films For Solo Piano,"Stuff We Did (From ""Up"")",39,114651,False,0.674,0.00277,7,-21.907,1,0.0904,0.995,0.933,0.11,0.346,130.297,5,piano
+03MQLVWZhp4MTuM1HVnnSg,Léa Corbelin,Venetian Spring,Venetian Spring,50,134019,False,0.331,0.0225,5,-25.558,1,0.0743,0.994,0.893,0.109,0.0711,67.898,3,piano
+0LoY54m9XFnSaSxeQZEI00,OneRepublic,One Night In Malibu,Wanted - from One Night In Malibu,48,137382,False,0.678,0.528,1,-11.071,1,0.0779,0.226,0.0,0.0695,0.676,145.833,4,piano
+4xqay5NL9jPHSCP2mo3U67,Stephan Moccio,Le Jardin de Monsieur Monet,Le Jardin de Monsieur Monet,48,313973,False,0.357,0.0431,2,-25.461,1,0.0334,0.992,0.948,0.13,0.0698,131.976,4,piano
+40rsEMVMCHI2zA2ZnZnqmd,Smyang Piano,"Piano Collection, Vol. 1",Butterfly,39,247079,False,0.445,0.0369,6,-21.594,1,0.0437,0.989,0.944,0.086,0.08,140.753,4,piano
+6Z6UFrFl9uTfIF0idCJDYi,Smyang Piano,"Piano Collection, Vol. 1",Best of Me,38,362135,False,0.243,0.0368,3,-25.503,1,0.0428,0.994,0.904,0.1,0.0843,70.884,3,piano
+2JFbKZZLVUSEwCOT2npKs5,BigRicePiano,Memories in a Box,The Scent of Rain,46,228529,False,0.472,0.143,8,-25.115,1,0.0655,0.896,0.0712,0.0705,0.444,115.878,4,piano
+5K05sFeFBCV6GTySqHtUH3,We The Kings,Somewhere Somehow,Queen of Hearts,20,214663,False,0.402,0.81,1,-4.839,0,0.0792,0.0516,0.0,0.713,0.572,84.139,4,piano
+0BTszzu4PNTJwMtxR4IqKL,João Donato,Ritmo Brasilero,Amazonas,31,132533,False,0.77,0.436,8,-11.751,1,0.0627,0.724,0.865,0.0996,0.619,83.034,4,piano
+3D15FZXmjfna7aFfKmEajd,Elton John,Diamonds (Deluxe),Are You Ready For Love? - Remastered,64,212440,False,0.803,0.748,2,-5.221,1,0.0314,0.254,0.00212,0.113,0.752,116.532,4,piano
+0ies8iLptgb1tt6mNYp0K2,BigRicePiano,Stories in the Rain,This City at Night,47,170603,False,0.503,0.0536,2,-25.963,1,0.0415,0.993,0.898,0.348,0.109,76.116,4,piano
+13AHWCWfqyjhfs4AOjIqdD,Chantry Johnson,Little Nightmares,Making Christmas,30,257169,False,0.561,0.0323,11,-31.602,0,0.0598,0.993,0.953,0.118,0.17,171.973,4,piano
+7gMOe0gXYcELUoVugfMmHP,Billy Joel,Glass Houses,You May Be Right,65,253200,False,0.567,0.945,9,-7.243,1,0.0458,0.175,2.6e-06,0.35,0.961,150.792,4,piano
+0R7EWhquaAICmyE5MZqt3q,Ben Rector,The Joy of Music,Living My Best Life,59,215213,False,0.566,0.733,4,-5.302,1,0.0699,0.083,1.55e-06,0.362,0.636,178.828,4,piano
+1pwlr46vM1mPwfC9GQ5mD6,Ben Folds Five,Whatever And Ever Amen (Remastered Edition),Steven's Last Night in Town,31,207893,False,0.514,0.699,9,-5.274,1,0.0654,0.0235,0.000709,0.547,0.23,112.935,4,piano
+73SBAGI4fPFm4VkB3NjXq8,Fiona Apple,Fetch The Bolt Cutters,I Want You To Love Me,59,237713,False,0.528,0.504,9,-8.821,0,0.09,0.559,0.0414,0.0936,0.712,141.369,3,piano
+0uJbZrHPbAN9G3Er3iOK6t,Jack's Mannequin,Everything In Transit,"MFEO - Pt. 1: Made for Each Other, Pt. 2: You Can Breathe - 2015 Remastered",30,480786,False,0.48,0.887,0,-5.918,1,0.0872,0.0223,2.18e-05,0.417,0.158,116.153,4,piano
+7bdsNVQUGs9O0Qc8FtTKPn,Tori Amos,Under the Pink (Deluxe Edition),Cornflake Girl - 2015 Remaster,33,305533,False,0.621,0.684,7,-7.949,1,0.0289,0.518,0.00761,0.366,0.847,133.803,4,piano
+73LiEBWGJBnhF05czzX0qR,Piano Radiance,"24 Baby Lullabies for Music Box Piano: Disney, Pop and Nursery Rhymes",Twinkle Twinkle Little Star,30,92394,False,0.262,0.0445,7,-20.49,1,0.0478,0.995,0.969,0.11,0.441,66.975,4,piano
+4OSg2NjzYpjIaMHkQWNu2n,LucasPianoRoom,"Anime Piano, Vol. 2","Mother Sea (From ""One Piece"")",43,95424,False,0.337,0.0392,7,-17.416,0,0.0522,0.984,0.939,0.0882,0.179,74.165,4,piano
+1F1Dm72g4B182v6jTj5Dm3,André Laplante,Call Me By Your Name (Original Motion Picture Soundtrack),Une barque sur l'océan from Miroirs,49,430567,False,0.292,0.113,2,-21.698,1,0.0403,0.981,0.887,0.0871,0.0308,68.081,3,piano
+7FQgwxkgClQLTwEilUlscr,OneRepublic,Oh My My,Fingertips,48,255786,False,0.357,0.281,9,-11.982,0,0.0417,0.901,3.53e-05,0.0927,0.0507,130.857,3,piano
+5USZyz6dnBEn1oLsKcAKQy,Rufus Wainwright,Shrek,Hallelujah,57,248800,False,0.344,0.196,9,-7.518,0,0.032,0.881,0.0,0.104,0.45,72.609,4,piano
+4PUB0fooIq7UudnzAKHjeS,Fonzi M,"Anime Piano Music Collection in Fall, Vol. 2","Fukashigi no Carte (From ""Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"") [Ending]",44,102500,False,0.405,0.255,2,-17.557,0,0.0478,0.981,0.871,0.124,0.116,99.062,4,piano
+6znLeGhFx7y3dzLgLWy2WW,Ever So Blue,Letters,Letters,34,193778,False,0.261,0.0959,9,-23.699,1,0.042,0.992,0.868,0.103,0.369,182.65,3,piano
+6z80w3KsiHTJioRQYGlPDx,Jean DeVoite,A Quiet Triumph,A Quiet Triumph,55,124175,False,0.631,0.00579,3,-20.984,1,0.0628,0.992,0.939,0.107,0.332,79.681,4,piano
+4AfTf4LCOYOllXEHPgROVf,Niall Byrne,Lambay,Lambay,57,133478,False,0.312,0.00675,7,-35.164,0,0.0372,0.994,0.946,0.0988,0.345,146.922,3,piano
+32M1PQzEcQ3QayteUcZDrD,Frode Gjermundsen,Dans,Dans,57,142124,False,0.418,0.115,0,-28.377,1,0.0507,0.99,0.954,0.088,0.193,176.005,4,piano
+1OJmKyPXayT4TID0XE2uxt,Jacob David;Elliott Jacqués,Stundom,Stundom,53,148000,False,0.39,0.0346,6,-30.959,1,0.0448,0.994,0.938,0.116,0.223,122.709,4,piano
+7nEWerH9vQDQ1wNoH8J3K6,Con Alma,Halcyon,Halcyon,58,150500,False,0.334,0.0399,8,-25.468,1,0.0367,0.984,0.934,0.111,0.111,98.711,4,piano
+5Bl7fjZwq3u37T51tspPAp,Mirta da Silva,De Seu,De seu,49,155107,False,0.322,0.0343,8,-27.406,1,0.0444,0.995,0.95,0.106,0.312,178.422,4,piano
+6M97uxgvb8dEPDIetC7OgD,Dagmar Collier,Revenons à nos moutons,Revenons à nos moutons,50,155000,False,0.275,0.00943,4,-31.218,0,0.0521,0.995,0.872,0.13,0.165,94.092,3,piano
+6KU4IwlxqeODKgwKiSDOWB,Elton John;Stevie Wonder,The Lockdown Sessions,Finish Line,56,264846,False,0.48,0.803,5,-3.415,1,0.0485,0.0756,0.0,0.195,0.539,171.79,4,piano
+5A6E9cVlxYAmEvdbEE4w9Y,Karim Kamar,"Selected Works, Vol. 3",drivers license - Piano Arrangement,40,284000,False,0.344,0.081,10,-23.65,1,0.0564,0.983,0.9,0.103,0.034,128.876,4,piano
+5ZWodvcCq8kTLjfy821dRO,Piotr Wiese,Waiting for You,Waiting for You,57,139109,False,0.215,0.109,0,-27.799,0,0.0321,0.994,0.873,0.166,0.483,88.886,3,piano
+0p8gAcPkDYgzcZZwAou12B,Umitaro Abe,Cahier de musique / 音楽手帖,"Scene I, Kyoto",53,87693,False,0.199,0.138,2,-17.578,1,0.0373,0.756,0.7,0.0904,0.214,168.644,3,piano
+6tvG8zCw6fmMG6BwtFYYHb,Smyang Piano,Tokyo,Forever Rain,38,114942,False,0.386,0.323,4,-20.328,0,0.0369,0.915,0.919,0.239,0.136,97.807,3,piano
+5142lCsaSvrtIBv6yMV5Pl,Daigo Hanada,Ichiru,"Fragment, Pt. 1",49,128042,False,0.355,0.0107,9,-29.526,0,0.0405,0.993,0.969,0.106,0.0983,75.623,3,piano
+2MGl6n14QcvZoAsJR4oIyo,Kenzie Smith Piano,"Anime Music Collection Piano Solo, Vol. 5","I Will (From ""Ao Haru Ride"")",42,139760,False,0.452,0.172,4,-17.752,0,0.0889,0.982,0.907,0.0953,0.302,141.795,4,piano
+2jRlPB32YMnpz1qcIY97oY,Vanja Lind,Skymning,Skymning,57,123114,False,0.256,0.00409,1,-35.54,1,0.0396,0.995,0.913,0.12,0.437,101.043,4,piano
+16zbo4n31PEtvx6eDCWJqe,Ledetraad,Røgslør,Røgslør,58,132000,False,0.454,0.143,6,-26.672,0,0.0558,0.959,0.958,0.111,0.235,114.928,3,piano
+7Ifj1BA2mFHr1FmCxV9p1M,Niall Byrne,Howthian,Howthian,58,144555,False,0.384,0.0178,5,-33.397,0,0.0314,0.994,0.939,0.114,0.164,61.485,4,piano
+5jkFEHWraBRMHSlEQ7pU4g,Mark Benson,Piano Favorites 3,I Can't Make You Love Me - Piano Version,57,218266,False,0.442,0.0405,0,-25.777,1,0.057,0.992,0.962,0.115,0.191,111.388,4,piano
+2uDpyb11bwgMOqLQ1ZQ9E9,Anna Landström,Wisteria Blue,Wisteria Blue,53,147243,False,0.319,0.0321,9,-24.243,1,0.0337,0.985,0.956,0.108,0.185,76.268,4,piano
+0eOrZh0eXsw99k8gFJUpq5,Gavin Mikhail,Amnesia,Amnesia,49,289756,False,0.396,0.398,11,-6.15,1,0.0412,0.88,0.0,0.203,0.305,89.017,4,piano
+4MxEz4tMqi8ceBMWMGo5A2,Jacob's Piano,"For the Love of a Princess / Hymn to the Sea / Wallace Courts Murron (Music from the Original Motion Pictures ""Braveheart"" and ""Titanic"")","For the Love of a Princess / Hymn to the Sea / Wallace Courts Murron (Music from the Original Motion Pictures ""Braveheart"" and ""Titanic"")",45,387428,False,0.307,0.0253,9,-23.873,0,0.0449,0.991,0.932,0.106,0.0803,65.502,4,piano
+0rIILfeK7DEyWgCqUtvH0z,Reivaj Ebol,The Farewell,The Farewell,57,168000,False,0.41,0.0206,0,-29.954,1,0.0434,0.993,0.918,0.0793,0.215,86.998,1,piano
+4DMh4qSlqDlquSNEW2nji6,Isla Bell,Keyside,Someone Like You,43,320257,False,0.288,0.0154,9,-28.153,1,0.0485,0.992,0.866,0.122,0.0656,71.401,3,piano
+0qdpBSgdFsOPGv9QLxEjdu,OneRepublic,One Night In Malibu,Good Life - from One Night In Malibu,48,238991,False,0.686,0.663,6,-8.751,1,0.0415,0.0176,0.0,0.0713,0.599,94.991,4,piano
+27An0sDvzMb7GM6pRE9ycF,Ole-Bjørn Talstad,Like Before,Like Before,58,135903,False,0.56,0.0345,11,-28.982,0,0.0353,0.987,0.918,0.102,0.34,48.281,4,piano
+3XOeIXnEzWf0JzoI5w8siW,Smyang Piano,"Piano Collection, Vol. 2",Lie,38,245541,False,0.458,0.0351,6,-24.711,0,0.0624,0.992,0.887,0.0908,0.0881,65.931,4,piano
+2nZZxQh7KoSyIjCP5w2HKA,Smyang Piano,Blue & Grey (Midnight Edit),Blue & Grey - Midnight Edit,36,272000,False,0.544,0.296,8,-18.68,1,0.0332,0.96,0.911,0.275,0.0986,59.97,4,piano
+5axUCaGmmqMGXyAg8BF1FF,Marinella Necchi,Le notti rosse,Le notti rosse,57,134595,False,0.339,0.0138,11,-33.138,0,0.0337,0.992,0.902,0.0866,0.175,82.431,4,piano
+63OB8oKmBUUYiRtrRtFCvX,Jukebox The Ghost,Jukebox The Ghost,Girl,60,213786,False,0.605,0.615,8,-5.617,1,0.0474,0.479,0.0,0.137,0.841,172.211,4,piano
+0GZap2PHRZ1NGELroxGnmQ,Nazareno Aversa,Piano Cover 6,A Thousand Years,43,212193,False,0.567,0.137,10,-19.474,1,0.0467,0.958,0.87,0.116,0.111,103.993,4,piano
+2zkL8Dc5WBky17BWgAMMXz,Jim Well Tempered,Piano Covers Vol.1 - Relaxing Piano Music - Best of Pop Hits and Classical Piano Masterpieces,River Flows in You,46,138097,False,0.339,0.0673,7,-28.078,1,0.0481,0.989,0.942,0.0792,0.314,168.084,4,piano
+0zhaw7PAf3Wofl1yANAOa0,The Masked Pianoman,Arcticgrey,Arcticgrey,54,122466,False,0.41,0.00303,8,-34.124,1,0.0476,0.991,0.965,0.102,0.27,75.425,4,piano
+2mx6puNmToZ7DkvY0SANiP,Tommy Flanagan,"The Tommy Flanagan Trio - Moodsville, Vol. 9",Come Sunday,31,218040,False,0.421,0.0216,1,-25.428,1,0.0411,0.995,0.932,0.126,0.0392,68.355,4,piano
+5YgSOlHwnhGJx6Mxh63ABH,Keane,"Tear Up This Town (From ""A Monster Calls"" Original Motion Picture Soundtrack)","Tear Up This Town - Orchestral Version / From ""A Monster Calls"" Original Motion Picture Soundtrack",52,187120,False,0.522,0.637,8,-8.956,1,0.0354,0.398,2.76e-06,0.0993,0.391,141.919,4,piano
+24UjbN6SUAV7I67AtH9FT3,BigRicePiano,Poem of the Rain,Poem of the Rain,45,311738,False,0.59,0.161,11,-23.341,0,0.0413,0.992,0.839,0.0708,0.313,145.108,4,piano
+6CDQBADsdzJwc3qZ3OPDHH,Red Garland;Paul Chambers;Art Taylor,Red Garland's Piano,Almost Like Being In Love,57,290293,False,0.561,0.346,0,-12.596,0,0.0409,0.873,0.399,0.104,0.697,93.689,4,piano
+1L4mI0W77dkLDVYCpagz2n,Paul Cardall,Primary Worship,I Feel my Saviors Love,30,207093,False,0.371,0.114,5,-18.905,1,0.0465,0.989,0.904,0.0925,0.298,93.812,3,piano
+1QDwrYCz1skJ9RTRIgsIHl,Chantry Johnson,Little Nightmares,Finale/Reprise,29,235817,False,0.378,0.0114,8,-28.54,1,0.05,0.992,0.952,0.102,0.0386,66.583,1,piano
+6GlD1SzE45tHgzHPkV9XAp,Andy Tallent,It's a Small World (Disney Parks) [Arr. for Piano],It's a Small World (Disney Parks) - Arr. for Piano,29,132755,False,0.377,0.0525,7,-22.204,1,0.0648,0.995,0.945,0.147,0.256,131.238,4,piano
+7uU0Zdhcr2PYLfz59afn6w,Claudio Arrau,En la nada,"Suite bergamasque, L.75: 3. Clair de lune",0,408000,False,0.289,0.00815,1,-31.834,1,0.0547,0.995,0.92,0.108,0.0397,72.104,4,piano
+0sCeNwt8xRCMR4NhKpMyBe,Herbie Hancock,Empyrean Isles (Expanded Edition),Cantaloupe Island - Remastered,60,333946,False,0.515,0.583,0,-8.182,0,0.0284,0.749,0.000294,0.123,0.414,116.11,4,piano
+67oyFnjJnn78fZP9KjeZx0,Supertramp,Breakfast In America (Deluxe Edition),Goodbye Stranger - 2010 Remastered,67,350573,False,0.42,0.668,1,-7.35,1,0.0517,0.607,0.016,0.0585,0.338,125.391,4,piano
+5NvNo6iJw4lZhjPGYlWnMw,Fats Domino,The Complete Imperial Singles,I'm Ready,32,123133,False,0.652,0.934,5,-3.89,1,0.0497,0.629,0.000377,0.327,0.971,85.845,4,piano
+3FkzSXO9uZbQ4sgRgR8O0m,Fats Domino,The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them,Let The Four Winds Blow - Remastered 2002,32,138693,False,0.588,0.494,10,-10.687,1,0.0525,0.535,0.0155,0.0942,0.964,91.964,4,piano
+4d3i3FmlzftJvrRt3zv7Q1,OneRepublic,Dreaming Out Loud,Won't Stop,43,302666,False,0.384,0.568,6,-7.009,0,0.0278,0.379,0.0,0.122,0.3,91.96,4,piano
+1vaLaizp9SS2AMyadBtwzL,Crimson Memoirs,Geniality,Geniality,57,170624,False,0.22,0.131,7,-26.866,1,0.029,0.972,0.896,0.101,0.305,96.725,1,piano
+1oh5FOxndjZVz1wjiBeBmY,OneRepublic,Native,Au Revoir,38,290480,False,0.517,0.528,2,-9.405,1,0.0293,0.913,0.309,0.123,0.108,117.04,4,piano
+6V2SKZhymLim16ri8A7K6h,The Fray,The Fray,Ungodly Hour,45,304520,False,0.563,0.274,3,-12.995,1,0.0333,0.482,0.000135,0.245,0.183,81.928,4,piano
+4Si7JHUD6XLygvGzNFyBMa,Grace Valiery,Amihan,Amihan,51,190723,False,0.342,0.00906,10,-24.475,1,0.0429,0.984,0.945,0.114,0.168,123.324,4,piano
+7I3YkJ333ghsMaQXSiQNi2,Isaac Nash,Marietta,Marietta,50,143874,False,0.317,0.0626,2,-29.537,1,0.0518,0.995,0.964,0.0956,0.263,89.895,3,piano
+6M2N8fKC1Ik2rX6ZFW9QOf,Ledetraad,Vilma,Vilma,57,120062,False,0.211,0.21,5,-32.349,1,0.0563,0.964,0.847,0.1,0.22,204.592,4,piano
+1kahBtroEDGLOvzu1PeM64,Frode Gjermundsen,Hvile,Hvile,45,151989,False,0.406,0.0556,0,-25.052,1,0.039,0.99,0.94,0.101,0.108,80.348,4,piano
+6DRCugEZcKbSOK9OT5cNvM,Alvize Fantacone,Fiore,Fiore,55,175284,False,0.606,0.0157,9,-28.185,1,0.0683,0.996,0.942,0.0898,0.0639,47.745,4,piano
+04QMzMxrwND0Tkh3Na0K6K,Sorrel Hauer,Contemplation,Contemplation,55,184240,False,0.58,0.0261,5,-23.713,1,0.0851,0.993,0.948,0.0891,0.074,127.878,4,piano
+5o7zflAK8LxDYuqpSDmwhM,David Hazeltine,When I Fell for You,When I Fell for You,54,322362,False,0.471,0.283,1,-15.997,1,0.0308,0.927,0.671,0.13,0.23,130.373,4,piano
+638iDsayTPgIScb5MSn4Qz,Valérie Beaumont,Memoir,Pool of light,45,149283,False,0.439,0.131,9,-26.456,1,0.0421,0.995,0.937,0.1,0.318,124.149,3,piano
+0i5RkqFU2XfihIcxTxG3h1,Biba Dupont,Home full of solipsism,Home full of solipsism,56,177882,False,0.479,0.0431,0,-28.446,1,0.0378,0.996,0.94,0.0914,0.172,95.694,3,piano
+1BfkOTr6W7SyXsfappHLHy,Rick Gallagher Project,Goodwill,Goodwill,58,206868,False,0.236,0.056,1,-31.629,0,0.0437,0.992,0.926,0.0975,0.184,211.567,4,piano
+5pgQi74y4bGoT3bYFKZagk,Christopher Dicker,Ephemera,Something (Nothing),52,158759,False,0.399,0.055,3,-30.203,1,0.0431,0.991,0.915,0.11,0.155,138.428,3,piano
+3pWpN8zvwf9rBHEgajjgsJ,Ingrid Olsson,Apologize (Piano Arrangement),Apologize - Piano Arrangement,40,216600,False,0.614,0.0502,3,-23.896,1,0.0603,0.995,0.956,0.101,0.123,99.901,4,piano
+4q7tMaar2kUMweKu6N5bZz,Elton John,Honky Chateau,I Think I'm Going To Kill Myself,57,215173,False,0.627,0.539,0,-8.226,1,0.0274,0.526,3.61e-06,0.129,0.718,137.598,4,piano
+4p3aBt5WfldkaRaDfBcfGG,Aron Edwards,Danderlion,Danderlion,50,136000,False,0.126,0.224,8,-26.95,1,0.0299,0.982,0.893,0.106,0.734,178.22,4,piano
+0ett0qCHbl0vdSRFhRSkMc,OneRepublic,Native,If I Lose Myself,53,241560,False,0.485,0.699,2,-6.017,1,0.0479,0.096,0.0,0.109,0.242,140.096,4,piano
+7lISY14A9I1w3m7to2kWv1,OneRepublic,Human (Deluxe),Take It Out On Me,45,147800,False,0.437,0.314,4,-8.007,1,0.0372,0.81,0.0,0.116,0.13,119.888,4,piano
+3qLlQ4RLl3B8PaEdIG6H0d,Tomas Lee,Every Breath You Take,Every Breath You Take,55,227858,False,0.316,0.0538,8,-22.842,1,0.0642,0.995,0.941,0.106,0.15,204.556,4,piano
+2PCTrOWob0vs0io6pfGOYS,Emile Pandolfi,Believe,Once Upon a December (from Anastasia),55,252253,False,0.239,0.173,11,-19.353,0,0.0362,0.981,0.929,0.16,0.131,72.718,4,piano
+43z2LSP0180NFwr720P3xk,Elfrieda,Remembrance,Remembrance,54,146000,False,0.459,0.101,4,-26.824,0,0.0417,0.977,0.866,0.098,0.241,76.974,4,piano
+0pRfOWb0VgT5o8bws4iHvf,Thriving Ivory,Thriving Ivory,Angels On The Moon,56,252800,False,0.441,0.8,10,-3.268,1,0.0365,0.267,0.0,0.101,0.204,151.011,4,piano
+3FQrnheOyqkoJPVgS7ZjoH,OneRepublic,Native,Burning Bridges,39,257573,False,0.576,0.737,1,-5.266,1,0.0261,0.0583,0.0,0.0825,0.248,97.949,4,piano
+6U0Rth9EM8xwmg7rtrKV3t,Cassandra Nestico,Everlasting,Everlasting,56,154374,False,0.43,0.0404,0,-29.926,1,0.0404,0.982,0.939,0.0982,0.104,82.137,3,piano
+5SGDHySVUTpk4fdjRvYGqB,Aestivum,Seeds Of Life,Seeds Of Life,50,127125,False,0.316,0.0317,10,-27.646,1,0.039,0.992,0.888,0.105,0.493,149.082,4,piano
+6FiFFLgiC4yfPfTCXWIKtT,Alfred Janders,Apelblom,Apelblom,51,124000,False,0.409,0.0276,0,-28.76,1,0.0392,0.995,0.938,0.107,0.323,66.873,4,piano
+0SdMLlsw5FOEbHJmJs8aUA,Smyang Piano,"Piano Collection, Vol. 6",Boy With Luv,37,323754,False,0.291,0.0527,11,-23.292,0,0.0536,0.993,0.942,0.204,0.138,70.706,3,piano
+0akM7cwQ5xLQIIlTeWzubk,The Summer Set,Legendary,Boomerang,56,209732,False,0.646,0.926,6,-2.531,0,0.15,0.0452,0.0,0.2,0.797,93.998,4,piano
+3xIu6hYXz0gTjJtmGu60M8,Ignaz Friedman;Christoph Willibald Gluck;Joseph Banowetz,Friedman: Piano Transcriptions,"Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, ""Mélodie"" (arr. I. Friedman for piano)",54,251733,False,0.38,0.00402,2,-34.344,0,0.0446,0.995,0.899,0.0726,0.0597,128.238,4,piano
+4aiBJw2AUIIbBzgrhh4uOI,Yiruma,The Rewritten Memories,Reminiscent of Days - Orchestra Version,48,285656,False,0.242,0.275,9,-13.869,0,0.0321,0.966,0.867,0.0984,0.154,144.341,4,piano
+3jVQvvPLV18ZmIr3HfOV3j,Jack's Mannequin,Everything In Transit (Non-PA Release),Bruised,30,242760,False,0.531,0.94,3,-4.594,1,0.0485,0.0042,0.0,0.136,0.39,135.82,4,piano
+0uhYgQQ6WX9rCONnum7Fmw,Fiona Apple,When The Pawn...,I Know,59,295133,False,0.324,0.211,0,-14.223,1,0.0287,0.944,0.0031,0.118,0.199,146.367,3,piano
+0W3kIk1w1qw0G3zKQsuApH,OneRepublic,Hangover Hug,If I Lose Myself - Acoustic,29,230200,False,0.542,0.59,2,-8.01,1,0.0278,0.653,0.0,0.133,0.59,139.971,4,piano
+6gdMat5d3oWN0cBnex17XH,Kenzie Smith Piano,Anime Music Collection Piano Solo Vol.2,Shigatsu Wa Kimi No Uso - Hikaru Nara [Soft Version],42,171981,False,0.638,0.198,6,-20.311,0,0.0505,0.924,0.847,0.117,0.218,99.994,4,piano
+4l4mSq8IKgCMz0q9KFZ7tK,Elton John,The Big Picture,Something About The Way You Look Tonight,55,308840,False,0.48,0.52,6,-10.393,1,0.0268,0.208,0.000374,0.0788,0.511,143.503,4,piano
+3vNFsxBbA4dPkymPF5Jm1b,PJ Harvey;Thom Yorke,"Stories From The City, Stories From The Sea",This Mess We're In,59,235840,False,0.541,0.572,0,-9.634,1,0.0277,0.0266,0.186,0.0925,0.406,126.302,4,piano
+5yQ9iMZXGcr5rlO4hoLsP4,Ray Charles,What'd I Say,"What'd I Say, Pt. 1 & 2",62,307053,False,0.54,0.681,4,-5.44,1,0.0508,0.808,0.0,0.162,0.794,88.385,4,piano
+5BSUCTU9z9vxhkb5dFwfFM,Delta Spirit,Ode To Sunshine,Strange Vine,31,248453,False,0.426,0.748,11,-5.071,1,0.0361,0.204,0.0,0.109,0.586,121.854,4,piano
+1L4U5ikDKnskqKUpe1Knzc,Mae,The Everglow,Someone Else's Arms,30,309104,False,0.519,0.893,1,-5.037,1,0.0758,0.001,0.000931,0.433,0.525,142.022,4,piano
+5PezyvrAMMS1e2jZznCxxF,Elton John,Don't Shoot Me I'm Only The Piano Player,Skyline Pigeon - Piano Version,58,236200,False,0.546,0.549,3,-8.675,1,0.0289,0.333,1.54e-06,0.158,0.428,132.462,4,piano
+10ZVSS0MiaKl9hQXAmBjYS,The Hush Sound,Goodbye Blues,Not Your Concern,30,174893,False,0.575,0.758,9,-5.512,0,0.031,0.157,0.0,0.0853,0.703,135.992,4,piano
+11FcfHd3SOmmrWJPGe7Y30,Elton John,Caribou,Don't Let The Sun Go Down On Me,62,336733,False,0.424,0.446,0,-8.526,1,0.0261,0.121,1.89e-06,0.0921,0.354,139.701,4,piano
+7HCNbDryMDKzCmW7QXWUi1,BigRicePiano,Northwinds,Raindrops,45,261052,False,0.48,0.0215,10,-30.353,0,0.041,0.986,0.946,0.836,0.223,170.862,3,piano
+5I9wre7izglAuWMmTOgU1L,Bobby Timmons,This Here Is Bobby Timmons,Moanin',30,301740,False,0.546,0.429,0,-13.616,0,0.0306,0.973,0.885,0.128,0.622,106.285,3,piano
+4iNRpUHLIeW1T3XdHOx2HG,Walt's Piano,Mickey's Boo to You Halloween Parade,Mickey's Boo to You Parade,29,192444,False,0.705,0.126,5,-25.08,1,0.0617,0.984,0.954,0.119,0.591,134.973,4,piano
+2dykyGTXNyZA3zN6zX2g12,Dream House,Your Best Night's Sleep - Jazz Piano,Snuggle Down,28,139630,False,0.2,0.0191,5,-24.818,1,0.0446,0.988,0.911,0.126,0.169,72.652,4,piano
+1hYd1uyB9HQpf4icjtBQoB,Eliane Elias,Dreamer,Time Alone,31,400560,False,0.248,0.133,10,-18.583,1,0.0323,0.939,0.403,0.295,0.0572,92.333,3,piano
+1TRS8VIiJq4OuNVmhHcj1r,Eliane Elias,The Three Americas,Chega De Saudade,32,230026,False,0.682,0.179,7,-17.604,1,0.0495,0.97,0.134,0.111,0.442,82.594,4,piano
+6zsFCfP4TK2J48tMYjb668,OneRepublic;Santigold,Oh My My,NbHD,47,224133,False,0.547,0.804,1,-5.413,0,0.0424,0.0011,2.54e-06,0.687,0.343,97.005,4,piano
+0vkyBVcGTbdOW5BJirBjKx,Hikaru Shirosu,"Waltz No. 1, Op. 6 ""Collapse""","Waltz No. 1, Op. 6 ""Collapse""",52,157647,False,0.537,0.0758,0,-26.395,0,0.043,0.993,0.9,0.225,0.412,154.438,3,piano
+3I3WY0C7AQMe6Z6hMUQqd5,Eric Badanti,Vals De Rodrigues,Vals De Rodrigues,49,161209,False,0.418,0.0368,11,-24.304,0,0.0499,0.993,0.944,0.0848,0.119,111.355,4,piano
+0duYOyKFVmUrJpDhmKaIyW,Jacob David,Blund,Blund,51,166000,False,0.268,0.0444,0,-33.096,1,0.0356,0.962,0.942,0.111,0.123,104.841,3,piano
+2S436lN0BPgUh7TmLEmT6G,PianoDeuss,"Naruto Piano Collection, Vol. 2",Obito's Theme (Naruto Shippuden Original Soundtrack),39,184320,False,0.342,0.12,5,-19.712,1,0.0345,0.964,0.852,0.114,0.1,127.893,4,piano
+1o0yFkUycTAWIIWFOlhDcV,A Great Big World,You,You,49,218133,False,0.505,0.31,5,-10.423,1,0.03,0.885,0.00359,0.0996,0.34,82.591,4,piano
+7lihjNUhcrpaennBT2nuWX,Hideyuki Hashimoto,Kanade,Kanade,56,161013,False,0.586,0.161,8,-28.224,1,0.0399,0.992,0.945,0.106,0.331,73.436,3,piano
+4Vuegf7MFlYZ5h8WK973O3,Edgar De Vries,The Chapel,The Chapel,48,210000,False,0.604,0.0325,8,-27.453,1,0.0629,0.993,0.951,0.0956,0.195,71.169,4,piano
+2ElVZ4JztgEiG6vfb0ZdB2,William Cas,Drifting Sand,Drifting Sand,57,140544,False,0.336,0.0343,9,-26.76,1,0.0357,0.916,0.9,0.0992,0.291,77.125,4,piano
+0CoSBNNeO8JgayAfLttECk,Ever So Blue,Traces,Onthou,44,128333,False,0.307,0.05,0,-27.964,1,0.0345,0.996,0.94,0.105,0.41,138.484,4,piano
+4zD9RBG51Lj8bnQwolLnyu,OneRepublic,Human (Deluxe),Wild Life,45,267117,False,0.479,0.762,2,-7.86,1,0.0378,0.00711,0.011,0.0965,0.0519,115.956,4,piano
+4EuLUeWUGHK3BVJGBcpQah,Lilly Eaton,Back home,The lighthouse,49,172500,False,0.553,0.051,0,-29.617,1,0.05,0.98,0.915,0.108,0.717,118.668,3,piano
+4Xh4QnG4qgeppENlobwoFa,Kim Bo,At My Worst (Piano Version),At My Worst - Piano Version,42,174782,False,0.442,0.108,0,-23.89,1,0.0511,0.987,0.929,0.0772,0.103,184.01,4,piano
+6PQX1Odq26b6zGJESw9c6Z,Luis Berra,Pieces For Claudia,Silent Alleys,44,156631,False,0.479,0.111,7,-21.953,0,0.0379,0.994,0.94,0.122,0.487,97.538,4,piano
+5Zpsc6bmptDWbiwf4Wsnhb,Elliott Jacqués,Song For Katie,Song For Katie,40,146960,False,0.507,0.0228,0,-26.492,0,0.0321,0.99,0.918,0.135,0.101,58.658,4,piano
+1GGPUkn7gZtsxoMdLqwHms,Anne Vallayer,Toujours,Toujours,48,134000,False,0.457,0.155,11,-26.123,0,0.0973,0.969,0.953,0.0995,0.494,137.284,3,piano
+45FYVNr9jhoZ5r3oj4feKn,Philip,Running Up That Hill (A Deal With God) [Piano Version],Running Up That Hill (A Deal With God) - Piano Version,42,169756,False,0.388,0.0569,0,-19.957,0,0.0614,0.935,0.932,0.109,0.163,189.937,4,piano
+5F5CYCF7DHv89BzNMOqy6x,Norman Dück,Timeless,Rescued,40,168818,False,0.654,0.034,7,-26.483,0,0.0398,0.99,0.883,0.0943,0.199,118.04,3,piano
+6NBLwZ9QMRMUzmAST5Mxqj,Smyang Piano,"Piano Collection, Vol. 2",First Love,36,190354,False,0.375,0.00362,8,-26.514,0,0.0535,0.993,0.964,0.097,0.342,76.859,4,piano
+2FqPT4G4ygSSRTerAfyUD6,Carla Simmons,In Faith,Underverse,51,192842,False,0.315,0.0192,8,-29.55,0,0.0484,0.983,0.938,0.107,0.138,66.861,3,piano
+4NeZ7w5jZezntwgohYqIvi,Jacob's Piano,4 Soundtracks,"Comptine d'un autre été: l'Après-midi (from ""Amélie"")",48,146000,False,0.479,0.0764,7,-23.448,1,0.0325,0.988,0.918,0.0789,0.118,98.178,4,piano
+0ILXYaWxMQVEXnKq2eTmjW,OneRepublic,Native,What You Wanted,38,241106,False,0.553,0.843,0,-7.424,1,0.0404,0.00255,0.184,0.108,0.219,119.988,4,piano
+747fyAuUDG3feXRd6pILnx,Elton John,To Be Continued...,Your Song,52,240800,False,0.554,0.331,3,-10.866,1,0.0299,0.781,3.26e-06,0.107,0.295,128.216,4,piano
+4rhOJ6KXbzenI63eYKjdrw,Albin Svensson,Storytelling,Storytelling,49,141355,False,0.396,0.0402,7,-24.137,1,0.0406,0.995,0.944,0.12,0.0375,102.655,4,piano
+7jGNmNMR3OAnuey01B7OH4,Smyang Piano,Heartbeat (Lofi Edit),Heartbeat - Lofi Edit,35,166153,False,0.666,0.329,5,-12.681,1,0.0266,0.864,0.927,0.123,0.108,129.987,4,piano
+3o98MyqnV6YBo2cIM9E2zX,Smyang Piano,Playroom,Suga's Interlude,34,150400,False,0.569,0.287,0,-15.86,1,0.0536,0.941,0.721,0.194,0.0922,75.017,4,piano
+1OafpQVW8r13NUtd2ZMh4M,Smyang Piano,"Piano Collection, Vol. 10",Your Eyes Tell,37,308923,False,0.404,0.0526,9,-20.862,0,0.041,0.986,0.934,0.115,0.103,120.593,4,piano
+17xGX76BVzLRSbpYteAGR4,Keane,Hopes And Fears,Bedshaped,58,278000,False,0.501,0.407,4,-6.947,1,0.0301,0.633,0.000198,0.0918,0.0922,74.937,4,piano
+5JaEvKVQbXVxqq2S6a1CVj,Fazıl Say;Jamal Aliyev,Hayat Ağacı,"Hayat Ağacı Süiti, Op. 100: III. Ece",29,187541,False,0.291,0.109,10,-20.775,0,0.043,0.986,0.884,0.12,0.229,108.154,3,piano
+4GSiy5JzJoWJ9GgMnroiLE,Skylar Grey,The Buried Sessions of Skylar Grey,Love The Way You Lie - Part III (Original Demo),48,249933,False,0.604,0.239,10,-11.754,1,0.0336,0.901,0.0,0.0724,0.251,83.002,4,piano
+7CgSotbNO8YesINbIWsmaV,Bodor Vencel,Gyere velem,Nyári séta,48,133691,False,0.551,0.0716,4,-23.494,0,0.0504,0.996,0.961,0.11,0.145,80.818,4,piano
+3W6Tx6pKOD4O97uTIYwoEZ,Eric Sebastian,Wish Your Way,Wish Your Way,56,162624,False,0.388,0.0651,2,-30.34,0,0.0387,0.966,0.925,0.111,0.0397,85.008,4,piano
+3FsI8wbBAFBjuVqgLPlVLB,Smyang Piano,"Piano Collection, Vol. 9",Zero O' Clock,37,280611,False,0.469,0.0727,1,-22.57,1,0.0361,0.991,0.944,0.125,0.165,76.011,4,piano
+5uNEaSgkkPw6vLCUh3KsdQ,Jon McLaughlin,Indiana,Beautiful Disaster,52,251640,False,0.432,0.664,7,-4.662,1,0.0302,0.215,0.0,0.15,0.294,156.216,4,piano
+36nYdygI2cwOtjBqGxhHzY,Smyang Piano,"Piano Collection, Vol. 9",Friends,35,198825,False,0.305,0.0647,1,-24.815,1,0.0368,0.988,0.915,0.0984,0.257,76.732,4,piano
+28xbMQBhgbDPbI5Zk7pMk9,Smyang Piano,"Piano Collection, Vol. 6",Make It Right,36,241110,False,0.415,0.0994,7,-23.762,1,0.0389,0.995,0.962,0.123,0.287,97.115,4,piano
+4N1JHcYR9TskJmqj2g5uA6,BigRicePiano,The Silent City (Chapter I),Konbini,45,212061,False,0.557,0.000544,10,-38.463,0,0.508,0.996,0.937,0.144,0.603,67.505,5,piano
+03hvqPt6gyJH4EFOfpbPY1,Ben Folds,"supersunnyspeedgraphic, the lp",Adelaide,29,193200,False,0.578,0.866,4,-6.691,1,0.0326,0.00467,0.216,0.0805,0.528,129.227,4,piano
+0niZLaY9i1YB5fi93AAFNP,BigRicePiano,Piano Collection 1,The Rain's Tale,45,208251,False,0.547,0.081,11,-25.035,0,0.0349,0.982,0.843,0.283,0.261,150.032,4,piano
+20j6UxtRdY8ry3JfVPJIqJ,BigRicePiano,Piano Collection 2,Pluvius,45,225155,False,0.285,0.0679,0,-28.242,0,0.0391,0.867,0.556,0.247,0.078,127.816,4,piano
+7p8vwbbf9sMQbrdQrsmTlI,Chantal Kreviazuk,What If It All Means Something,Feels Like Home,55,279866,False,0.562,0.385,2,-7.279,1,0.0258,0.733,0.00438,0.11,0.2,99.142,4,piano
+4wFEol3Mkl1Ztg8jefmNIy,The Whitlams,Torch The Moon,Royal In The Afternoon,30,178466,False,0.475,0.913,9,-4.541,0,0.048,0.0402,3.57e-05,0.104,0.849,147.925,4,piano
+5P11rW6aJErF37MTfRZS31,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)","Hallelujah, I Love Her So",62,155506,False,0.696,0.547,5,-5.954,0,0.169,0.792,0.0,0.155,0.623,73.203,4,piano
+4bmqCyU3YCgc91Iizkrn1H,Jack's Mannequin,Everything In Transit,Miss Delaney - 2015 Remastered,29,223586,True,0.476,0.915,10,-4.204,1,0.0483,0.000464,6.36e-06,0.221,0.399,118.986,4,piano
+0HhDrzhTf9e4qpacpDEbiW,Paul Cardall,Primary Worship,Oh what do you do in the Summertime,29,172186,False,0.301,0.199,7,-17.741,1,0.0437,0.985,0.924,0.135,0.156,111.134,1,piano
+0v0XYK0pLgsPiq5u4FKHaw,Supertramp,Breakfast In America (Deluxe Edition),Take The Long Way Home - 2010 Remastered,66,308853,False,0.414,0.7,5,-8.838,1,0.0301,0.22,0.000721,0.114,0.37,76.79,4,piano
+06PdA0DLgF4BfAeUNZAbFG,Fats Domino,Fats Domino Swings,Blueberry Hill,61,147880,False,0.489,0.499,11,-9.702,1,0.0271,0.74,0.000236,0.156,0.829,133.341,3,piano
+4Jab4dZJ6E6T0nXNN8hhYR,Jacky Terrasson,"Jazz Piano French Touch - Terrasson, Herman, Enhco",Sous Le Ciel De Paris,30,245066,False,0.363,0.119,5,-22.673,0,0.0456,0.176,0.708,0.218,0.0785,77.361,4,piano
+63X6Fb0DoPjSymRYak7awf,Axel Gillison,Autumn Nights,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0,268631,False,0.441,0.00791,8,-33.056,0,0.0521,0.996,0.945,0.0737,0.15,87.977,4,piano
+5LAur1C9pzB7SxWcchYgjm,Axel Gillison,Autumn Nights,"The Seasons, Op. 37a: X. October, Autumn Song",0,336949,False,0.414,0.0152,11,-30.494,0,0.0591,0.995,0.917,0.0725,0.0516,138.348,3,piano
+7JTR461r0gTLE41gRMWT4q,The Theorist,"Piano Covers, Vol. 12",Lovely (Piano Arrangement),45,201474,False,0.434,0.247,4,-18.27,0,0.0442,0.983,0.91,0.112,0.13,119.585,4,piano
+3UYtQXfQt0INwMUHwju5M7,Elton John;Young Thug;Nicki Minaj,The Lockdown Sessions,Always Love You,50,257237,True,0.687,0.655,1,-4.919,1,0.0414,0.253,4.63e-06,0.114,0.244,122.999,4,piano
+5qmRevePYyVzWefMUjcdu3,Teide,Yamasá,Yamasá,45,171908,False,0.43,0.0715,4,-25.984,1,0.0361,0.972,0.897,0.108,0.173,104.424,4,piano
+7kIqDHQi0LgGXflnqf6Sy5,Marika Takeuchi,Missing Piece,Drifting Away,47,227360,False,0.298,0.333,9,-16.215,1,0.0436,0.967,0.906,0.122,0.16,86.234,4,piano
+3zahvGDaE79KRUr447Jrzw,Christopher Dicker,Timid Scripts,Timid Scripts,48,144341,False,0.34,0.0494,7,-27.583,0,0.0442,0.984,0.917,0.1,0.222,147.822,4,piano
+5jHnXmEf1qldo6lpsmMJGx,Skylar Grey,Skylar Grey,Falling Apart,36,163092,False,0.51,0.158,4,-12.34,0,0.0359,0.914,0.0,0.112,0.42,120.114,3,piano
+1vViUoB7DpXUX10isPj7YL,Danielle Fleur,Time is the Longest Distance,Time is the Longest Distance,54,124452,False,0.427,0.00442,10,-29.795,1,0.0424,0.994,0.897,0.107,0.278,69.962,4,piano
+3CSpzkoL1XgDBZ1q9aDCUV,Billy Joel,The Essential Billy Joel,Uptown Girl,63,194866,False,0.696,0.943,4,-2.962,1,0.043,0.0736,0.0,0.653,0.832,129.002,4,piano
+70xkPyYuIxxTs0Fx4VNp9M,The Theorist,Heartbreak Anniversary (Piano Arrangement),Heartbreak Anniversary - Piano Arrangement,44,201500,False,0.368,0.261,0,-19.773,1,0.0564,0.966,0.804,0.104,0.198,133.232,4,piano
+28JVD0j9MIraxyvP7j60uy,Alexander Luchs,Piha,Piha,57,199287,False,0.51,0.00885,8,-28.703,1,0.044,0.993,0.958,0.0917,0.405,106.89,4,piano
+6ujYgJuuMoDJMnJ8N7iKrm,Yiruma,The Best - Reminiscent 10th Anniversary,Love Me,49,248586,False,0.544,0.137,5,-18.412,1,0.0683,0.992,0.868,0.0854,0.229,144.33,4,piano
+3VBPPIu4MGBnMj4SF8sJBJ,Ever So Blue,Fragment,Fragment,46,153103,False,0.403,0.0621,6,-28.678,1,0.049,0.995,0.932,0.0999,0.146,135.761,4,piano
+0BXq9t3wTA8HMqFPvGxZYf,Cedric Armfeldt,Sweet Redolence,Sweet Redolence,49,114400,False,0.395,0.0307,2,-31.07,1,0.0482,0.991,0.896,0.109,0.386,131.514,4,piano
+4C4B9L1O7JCiDSniF64rbJ,Lydia Barnes,Harbour,Like A Whisper,52,237250,False,0.419,0.00988,6,-28.722,1,0.0395,0.991,0.854,0.0888,0.249,95.894,4,piano
+6lX9u3tr5Au2bxXLdFHd91,Ole-Bjørn Talstad,Lost Words,Lost Words,51,151761,False,0.287,0.0245,9,-27.876,1,0.0364,0.994,0.908,0.105,0.432,154.272,3,piano
+3zzIO4KB7dz0fMSD2f7TyS,Kenzie Smith Piano,"Anime Music Collection Piano Solo, Vol. 4","The World (From ""Death Note"")",28,95991,False,0.345,0.415,11,-13.334,0,0.0392,0.865,0.665,0.0997,0.269,89.972,5,piano
+0a8JnrGsVJstKtEzJCnGgD,Jacob's Piano,4 Soundtracks,"Una Mattina (from ""The Intouchables"")",49,206000,False,0.354,0.076,9,-22.115,0,0.0545,0.982,0.839,0.149,0.0984,133.6,4,piano
+6QjDVuX5ufvEQZfo5gmBKi,Tiphaine Calvet,Views Of Nature,Views Of Nature,56,138717,False,0.485,0.0349,4,-27.584,1,0.0526,0.993,0.978,0.111,0.487,80.627,3,piano
+2aVPRmQnQ95n2lPG1QjXr2,Niels Wang,Hearts of Us,Hearts of Us,53,136000,False,0.267,0.052,5,-26.421,1,0.0343,0.991,0.919,0.116,0.269,77.457,4,piano
+0OQXYoAMu9z5Gb20PVAlcx,Kris Bowers,Bridgerton (Music from the Netflix Original Series),Love is A Choice,52,140000,False,0.239,0.0585,7,-18.376,1,0.0373,0.991,0.969,0.121,0.209,97.545,3,piano
+6WTikw3wYizU78xt0ahfKv,Mark Benson,Piano Favorites 3,Let It Be - Piano Version,55,173644,False,0.243,0.0654,3,-25.734,1,0.0506,0.992,0.948,0.122,0.137,59.95,3,piano
+405SkgLToVyC2ZjBJMsrO8,Yiruma,Yiruma 2nd Album 'First Love' (The Original & the Very First Recording),Love Me,51,245600,False,0.407,0.254,5,-21.673,1,0.0583,0.992,0.933,0.0889,0.257,77.0,4,piano
+53lhuLjADteKhZtnQ0W3Fz,RMaster,"Most Beautiful Anime Music, Vol. 4 (Instrumental)","Ikki's Theme (From ""Saint Seiya"") - Instrumental",28,176567,False,0.388,0.224,3,-11.726,1,0.0347,0.849,0.941,0.162,0.139,123.311,4,piano
+39hqQ6Tko2I2PkQcCAhGoB,Stanton Lanier,So Loved,A Beautiful Thing,28,291967,False,0.328,0.168,5,-23.253,1,0.0555,0.995,0.904,0.08,0.0895,96.467,4,piano
+5hWiDRCRKtf8TDpoX1Idk4,Andrea Monet,Where Stars Are Born,Where Stars Are Born,56,187347,False,0.475,0.0631,5,-27.611,1,0.0369,0.989,0.953,0.103,0.16,134.841,4,piano
+0OrLZ1TQu1eGUJvrUB75BH,Smyang Piano,"Piano Collection, Vol. 9",Inner Child,35,232657,False,0.612,0.127,11,-22.07,1,0.0453,0.989,0.924,0.128,0.318,134.976,4,piano
+3Ie2eLOIj2IhKnzPwXrLbJ,Billy Joel,Cold Spring Harbor,She's Got a Way,54,169226,False,0.495,0.142,11,-16.186,0,0.0436,0.97,1.93e-06,0.113,0.196,75.859,4,piano
+3RYoQuF5Wfw425VwQEiMBo,BigRicePiano,Stories in the Rain,The Scent of Rain,45,228529,False,0.472,0.143,5,-25.115,0,0.0661,0.896,0.0712,0.0705,0.443,115.946,4,piano
+1kpQ8P7L3aIJg5Pnr6fdpG,Yiruma,The Rewritten Memories,Nocturnal Mind in d Minor - Piano Septet Version,47,211191,False,0.245,0.171,2,-16.443,0,0.0327,0.969,0.885,0.0989,0.0735,98.289,4,piano
+49qvegzonjCFLkYNQpyqxQ,Jon Sarta,"Piano Lullabies for Bedtime, Vol. 2",Shenandoah,27,138197,False,0.527,0.00841,5,-30.475,1,0.0705,0.993,0.908,0.0815,0.335,77.455,4,piano
+3f9KhpRN6mMYoVnpuozgHD,Bill Evans,You Must Believe In Spring (Remastered Version),Gary's Theme - Remastered,56,257693,False,0.421,0.08,7,-21.795,1,0.04,0.903,0.859,0.135,0.0546,122.044,3,piano
+4rmCI9VWrwrJTJ8XQ80BMN,Duke Ellington;John Coltrane,Duke Ellington & John Coltrane,My Little Brown Book,59,319733,False,0.372,0.187,0,-13.497,0,0.0323,0.942,0.139,0.161,0.217,70.334,4,piano
+7wF4asYZw8cAHEljYd2Wid,Ben Rector,The Walking in Between,Forever Like That,52,254026,False,0.592,0.304,8,-9.833,1,0.0298,0.564,0.0,0.107,0.307,114.72,3,piano
+536YzEwf77mNcYsrWjtjci,Kate Miller-Heidke,Nightflight,Sarah,29,234586,False,0.553,0.595,2,-9.045,0,0.049,0.27,0.00026,0.0944,0.342,127.886,4,piano
+7nMYIdyLvE97RYqvmMVwJX,Piano Peace,Piano Therapy: Spa & Sleep Healing,Clarity,28,210250,False,0.526,0.0144,7,-24.495,0,0.0414,0.991,0.92,0.0869,0.0844,119.999,4,piano
+1wl5b2lw3YagQtZiYZbQWP,Thelonious Monk,"Genius Of Modern Music (Vol.1, Expanded Edition)",'Round Midnight,54,193840,False,0.542,0.32,8,-9.975,1,0.0387,0.907,0.649,0.0609,0.206,116.648,4,piano
+2JAUBPBVkimRLc5BGhAkfJ,Regina Spektor,Begin to Hope,Samson,56,189506,False,0.49,0.193,11,-9.544,1,0.0421,0.862,9.74e-06,0.113,0.184,89.154,4,piano
+3Ta5OTDDDLmWcVXeQAobZ5,Jim Brickman,"Soothe, Vol. 5: Lullaby Dreams - Music for a Peaceful Escape",Somewhere Over The Rainbow,28,244782,False,0.367,0.0604,0,-18.687,1,0.0383,0.982,0.924,0.116,0.0707,127.168,4,piano
+5UahfndzuaFbOk29YyAc3M,The Circle Session Players,The Circle Sessions (The Music of Carthay Circle),Some Day My Prince Will Come,27,189106,False,0.436,0.253,7,-16.316,0,0.0368,0.939,0.734,0.105,0.339,93.587,4,piano
+7lUB18zW8flnzCpHmIA0lL,Jon Sarta,"Piano Lullabies for Bedtime, Vol. 3",Angels Watching over Me,28,157418,False,0.729,0.0201,5,-19.78,1,0.0465,0.994,0.927,0.106,0.28,78.051,4,piano
+3FOR2dT87P5utTulsvpwDr,Piano Peace,Piano Therapy: Spa & Sleep Healing,Release,27,207625,False,0.26,0.0138,6,-29.226,1,0.0389,0.989,0.93,0.0964,0.0759,69.843,3,piano
+1UVuBcfjaWPmA8Mrig9E5b,BigRicePiano,Piano Collection 1,Your Skyblue Portrait,45,284160,False,0.532,0.0086,1,-32.701,1,0.0463,0.995,0.948,0.0983,0.265,161.488,3,piano
+2apMdZgwltVNsyOGrGcKPo,Mezzo Piano,Reckless Love,Your Love is Strong,28,274384,False,0.707,0.0416,8,-20.531,1,0.0555,0.99,0.939,0.112,0.0393,130.079,3,piano
+5fpbJ17L8Cw0OYcOdIG224,Ben Folds,Rockin' The Suburbs,Losing Lisa,29,250866,False,0.568,0.842,2,-4.358,0,0.0311,0.0746,2.7e-06,0.0982,0.521,133.373,4,piano
+0NVRJQy3PD9f0B8OBOAJvh,Ray Charles,The Genious of Soul - Ray Charles,Hallelujah I Love Her So,30,152633,False,0.609,0.6,11,-4.2,1,0.227,0.765,0.0,0.175,0.68,146.966,4,piano
+7GIuzsEszLCtOinomo2l1w,Vince Guaraldi,Peanuts Portraits,Sally’s Blues,29,120000,False,0.625,0.373,7,-10.051,1,0.111,0.91,0.962,0.34,0.574,143.726,3,piano
+1GzygBcsXQW5HVEvIky76a,Jack's Mannequin,Everything In Transit,Into the Airwaves - 2015 Remastered,29,247506,False,0.319,0.902,5,-4.326,1,0.078,0.0413,0.0,0.356,0.603,175.976,4,piano
+03MUFVqN2vqmGWdFKfnZv9,Paul Cardall,Primary Worship,Prelude in F,28,153493,False,0.534,0.107,5,-23.176,1,0.0888,0.996,0.967,0.0918,0.384,131.499,3,piano
+6YaKD6M6fcLH5boPdcPK7G,Paul Cardall,Primary Worship,This is God's House,28,181040,False,0.418,0.0511,5,-19.234,1,0.0708,0.992,0.96,0.111,0.137,138.34,4,piano
+4LGOSAiawQeYRefjruL9Xe,Eudóxia De Barros,Lua Branca (Piano),Brasileirinho,27,146120,False,0.427,0.314,5,-16.865,1,0.0367,0.96,0.895,0.096,0.928,105.85,4,piano
+1ALF19nT37rRaJ9frQq35e,Jacob's Piano,"Sadness and Sorrow (From ""Naruto"")","Sadness and Sorrow (From ""Naruto"")",38,216204,False,0.373,0.0712,4,-18.089,0,0.0368,0.983,0.954,0.0943,0.0898,120.619,4,piano
+2p4wwhk7JRXnyyHdCepUbC,Pharozen,"Suzume (From ""Suzume no Tojimari"") [Orchestral Lullaby Version]","Suzume (From ""Suzume no Tojimari"") - Orchestral Lullaby Version",31,158887,False,0.468,0.223,5,-12.11,1,0.0336,0.719,0.0408,0.0598,0.401,155.97,4,piano
+2Ibyx9m0rs3MSVWdqaCWkI,Jacob David,Nederlag,Nederlag,58,137013,False,0.208,0.0709,5,-32.798,1,0.0478,0.988,0.964,0.0923,0.174,206.563,4,piano
+1Ez4p27fWkO7j9F1o5aHOD,Skylar Grey;X Ambassadors,Cannonball,Cannonball,46,235426,False,0.577,0.798,9,-6.64,1,0.0556,0.0523,0.000922,0.46,0.397,103.036,4,piano
+3KxA3AlLpX2RXaARLnpuCt,OneRepublic;Seeb,Kids (Seeb Remix),Kids - Seeb Remix,43,195306,False,0.634,0.853,2,-2.798,1,0.0537,0.13,0.0,0.0774,0.443,102.074,4,piano
+70Znjq5VPKFrwlB7O26SWT,Billy Joel,52nd Street,Zanzibar,62,310760,False,0.589,0.46,9,-14.54,0,0.0511,0.271,4.95e-05,0.224,0.705,148.172,4,piano
+3AbK2ut769qCyhdAox3QVQ,Biba Dupont,Loopholes,Loopholes,44,170889,False,0.316,0.168,4,-22.999,0,0.0302,0.987,0.902,0.108,0.0387,133.078,4,piano
+1mGkSBPN3SN2o2YTVbmr3C,Jacob David,Mursejler,Mursejler,48,178000,False,0.475,0.068,7,-31.32,0,0.0345,0.942,0.899,0.124,0.252,116.881,4,piano
+5Is7FSdnGkmQ12KyXJitNB,Philip,Another Love (Piano Version),Another Love - Piano Version,42,194318,False,0.322,0.156,4,-17.462,0,0.0599,0.989,0.939,0.121,0.102,73.365,3,piano
+3VBPPIu4MGBnMj4SF8sJBJ,Ever So Blue,Fragment,Fragment,46,153103,False,0.403,0.0621,6,-28.678,1,0.049,0.995,0.932,0.0999,0.146,135.761,4,piano
+1J9iVCaEriyoMXpj2XszhU,McCoy Tyner,Today And Tomorrow,When Sunny Gets Blue,59,282320,False,0.427,0.114,2,-22.546,0,0.0509,0.843,0.863,0.0966,0.114,60.484,4,piano
+3iyNoFOyMTZU1SdGbnmdy6,Yao Chen,Purity,Purity,53,146000,False,0.368,0.153,1,-27.895,0,0.026,0.96,0.863,0.111,0.508,75.194,4,piano
+6EEFUnAypbEwE4GgYD6b6U,Love Falk,Memories,Memories,52,215874,False,0.476,0.0146,11,-27.395,1,0.0498,0.995,0.961,0.0985,0.155,75.844,4,piano
+3ejZDyN8cOcVtK9P8VHfXn,Love Falk,A Whole New World,A Whole New World,57,235342,False,0.385,0.0133,7,-25.166,1,0.0511,0.992,0.926,0.0939,0.126,77.872,4,piano
+6sinw4zZPdNS2ftU1QfTyK,Keane,Under The Iron Sea,A Bad Dream,54,304280,False,0.408,0.729,1,-4.918,1,0.0302,0.00731,3.98e-06,0.172,0.279,145.055,4,piano
+0SpK2s8gJnetHIuzSBqgta,Lupe Sinsonte,Donde Nadas,Donde Nadas,53,141941,False,0.323,0.0323,2,-26.851,1,0.0376,0.995,0.934,0.089,0.196,98.443,1,piano
+6ZQgooEk8PvsLxedYaT6Oa,Fiona Apple,Pleasantville -Music From The Motion Picture,Across the Universe,60,307333,False,0.578,0.481,4,-10.545,1,0.0317,0.431,0.00299,0.0951,0.548,129.881,4,piano
+3WiissyVFRpCVrqbyPKZxZ,Elliott Jacqués,Kaleidoscope,Kaleidoscope,51,121068,False,0.366,0.0161,5,-27.355,1,0.0632,0.992,0.951,0.11,0.171,49.668,4,piano
+2DqzdGlNJtimH8XbA173La,Smyang Piano;Bibimbeats,Just a Nap,Stigma,36,158769,False,0.686,0.105,7,-25.182,0,0.036,0.921,0.8,0.131,0.0948,129.985,4,piano
+3pPVu5GqeYai4ZFNP0j9Wr,Kotono Tanaka,Foreigners,Foreigners,49,179250,False,0.414,0.0656,7,-29.947,0,0.0328,0.995,0.942,0.118,0.179,106.375,4,piano
+7lUXTcOSlWXNGN25wj7iNf,Élise Aucoin,Dorénevant,Dorénevant,50,148114,False,0.461,0.0256,5,-26.405,1,0.052,0.996,0.944,0.109,0.474,130.615,4,piano
+1qHiDbTJI7GB62W3BBFigx,A Great Big World;Futuristic,When the Morning Comes,Hold Each Other (feat. Futuristic),47,216040,False,0.61,0.796,10,-5.431,1,0.0656,0.0365,0.0,0.274,0.51,159.944,4,piano
+3yXQyJLMVElujd88Gt4fAf,Norman Dück,Weightless,Weightless,50,138750,False,0.353,0.0327,9,-27.967,0,0.0647,0.993,0.951,0.0903,0.359,130.503,4,piano
+6L6TuOAEZHf93tJULIjQrj,Yiruma,Blind Film,Waltz in C Minor (Only for Piano),50,228293,False,0.377,0.0725,0,-22.218,0,0.0584,0.993,0.912,0.174,0.0472,67.547,3,piano
+3z1CsfRRtj69DPWrNkOPGW,Kenzie Smith Piano,Anime Music Collection Piano Solo Vol.2,Shigatsu Wa Kimi No Uso - Otouto Mitai na Sonzai,41,189668,False,0.448,0.164,3,-17.712,1,0.0943,0.955,0.858,0.106,0.107,129.087,4,piano
+3U6R2JSOzgPzQo57fZFsDZ,Gunnel Boek,Wiegenlieden,Wiegenlieden,55,158000,False,0.39,0.00456,3,-30.247,1,0.0403,0.994,0.958,0.116,0.255,59.022,3,piano
+3pTP6JJ5im89P2rICAfj3P,Stephanie Middleton,Rose garden,Crystal moon,49,186446,False,0.375,0.032,2,-29.684,1,0.0452,0.988,0.842,0.0922,0.232,85.909,5,piano
+7N02vK6QmHRiMVa6oy3HUA,Stanton Lanier,Open Spaces,Spirit of Grace,28,224840,False,0.377,0.19,6,-21.428,1,0.0552,0.989,0.887,0.0965,0.173,116.84,4,piano
+1L9C9xGr6rbCmojIp87DVG,Ingrid Olsson,Piano Pop Covers,Watermelon Sugar,40,244285,False,0.44,0.0185,0,-29.909,1,0.0722,0.994,0.943,0.115,0.154,74.337,4,piano
+5dYOIVFuh9iaepv1IZrJXe,Ben Folds Five,Ben Folds Five,Julianne,28,150960,False,0.463,0.872,2,-7.425,1,0.0574,0.00964,5.68e-05,0.199,0.842,142.534,4,piano
+6djFRgAtFL0qTELYJqVicP,Smyang Piano,"Piano Collection, Vol. 13",Epiphany - Jin Demo Version,36,216269,False,0.634,0.0841,5,-18.65,1,0.0356,0.985,0.943,0.11,0.0713,135.918,4,piano
+5vKkaZHPzuqQheytfKuXzp,Elton John,The Lion King,"Circle of Life - From ""The Lion King""/Soundtrack Version",55,291600,False,0.3,0.387,10,-15.321,1,0.0331,0.264,0.215,0.106,0.137,160.587,4,piano
+27sZtnaLNm4O6YAjqUJxwI,Flying Fingers,Don't Start Now (Piano Version),Don't Start Now - Piano Version,47,141500,False,0.552,0.0995,11,-18.172,0,0.0572,0.989,0.848,0.126,0.113,112.732,4,piano
+5xrGRfPozR7XRlt9ny8bWo,The Summer Set,Legendary,Lightning In A Bottle,53,245492,True,0.656,0.865,4,-1.616,1,0.0335,0.0949,0.0,0.298,0.772,128.992,4,piano
+7z0ZoL0KzHK0MWYvvXFUIM,Sonic Wine,My Prince Will Come,What A Wonderful World,27,192502,False,0.4,0.0859,10,-19.98,1,0.0325,0.989,0.648,0.119,0.147,140.15,3,piano
+35RrDnREM1xxx4YBxDHikm,Ben Rector,Magic,I Will Always Be Yours,49,226826,False,0.444,0.771,0,-4.607,1,0.0485,0.13,0.0,0.273,0.45,148.028,4,piano
+5xT8JXJSyHYNfC11OFqzFL,Keane,Under The Iron Sea,Is It Any Wonder?,60,186173,False,0.489,0.955,11,-2.771,0,0.0363,3.82e-05,0.000178,0.334,0.816,129.352,4,piano
+1FLhGUcHcWs8usJNi3yJ0c,Bobby Timmons,This Here Is Bobby Timmons,Dat Dere,29,321150,False,0.461,0.337,8,-14.095,1,0.0372,0.941,0.868,0.121,0.383,68.434,4,piano
+7ny1jOJSZAF6VBb7x9DRO2,Ben Folds,Rockin' The Suburbs,Fired,28,229506,False,0.453,0.864,5,-5.521,1,0.035,0.00506,0.000843,0.0642,0.507,158.01,4,piano
+4aaOblwrIiVnScKL51pGdo,Billy Joel,Greatest Hits Volume I & Volume II,You're Only Human (Second Wind),51,288440,False,0.759,0.795,3,-8.713,1,0.062,0.0356,1.12e-05,0.0678,0.877,130.803,4,piano
+3DsIu9DB0AZufrQHR4yJKL,Red Garland;Paul Chambers;Art Taylor,Red Garland's Piano,I Know Why (And So Do You),56,287613,False,0.528,0.0847,0,-16.575,0,0.0405,0.984,0.893,0.131,0.0431,111.49,4,piano
+4bL2aekMQ0jdrEyBwERSmb,George Winston,Remembrance: A Memorial Benefit (Special Edition),Lament,28,143520,False,0.388,0.0128,6,-18.532,0,0.0534,0.995,0.886,0.103,0.359,77.217,4,piano
+4SQx6YAAwKYT36xt4hol6G,Michael Hanley;Disney Peaceful Piano;Disney Peaceful Guitar,Acoustic Disney Music to Relax to,Kisse the Girl,27,184005,False,0.568,0.0914,0,-23.777,1,0.0425,0.983,0.941,0.109,0.123,120.255,4,piano
+4SCobBx8k3ZXNvj17o1NZc,Delta Spirit,Ode To Sunshine,Streetwalker,30,250360,False,0.589,0.713,11,-4.879,1,0.0335,0.139,0.00102,0.129,0.626,125.94,4,piano
+5PocwBP4qm33W4eQSZyVBZ,Oscar Peterson,Work From Home with Oscar Peterson,Stormy Weather,54,214000,False,0.621,0.197,7,-14.483,1,0.0573,0.99,0.878,0.152,0.569,120.194,4,piano
+2jw9uRjSU1yGjMv3YMhbho,Ben Folds Five,The Sound Of The Life Of The Mind,Draw A Crowd,29,254346,False,0.722,0.746,2,-6.904,0,0.0367,0.101,0.0,0.0509,0.678,112.214,4,piano
+3np71XMsjRnFTol0XTEgOZ,Paul Cardall,40 Hymns for Forty Days,Father in Heaven,28,147626,False,0.2,0.209,3,-12.772,1,0.0393,0.901,0.893,0.137,0.0398,76.491,4,piano
+4VA8Z5k2hd4RkBTlJFPPyd,Piano Peace,Baby Lullaby Piano Sleep Music,Baby Lullaby,27,188000,False,0.203,0.00547,7,-29.795,1,0.0455,0.991,0.901,0.0777,0.138,69.492,5,piano
+7xJEyMvEa3eeP1fN3E18PI,George Winston,Linus & Lucy - The Music of Vince Guaraldi,Young Man's Fancy,28,231585,False,0.432,0.0498,7,-17.124,0,0.0513,0.994,0.949,0.0932,0.0589,76.215,4,piano
+4gHZlq1u5m89HP96BT3QHk,Dave Brubeck,A Dave Brubeck Christmas,"""Farewell"" Jingle Bells",29,179400,False,0.444,0.00402,2,-35.904,0,0.075,0.996,0.908,0.0599,0.0385,90.026,0,piano

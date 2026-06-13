@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2MLHyLy5z5l5YRp7momlgw,Weezer,Weezer (Green Album),Island In The Sun,78,200306,False,0.654,0.81,4,-6.26,0,0.0288,0.00719,0.00251,0.165,0.661,114.623,4,power-pop
+6GG73Jik4jUlQCkKg9JuGO,Jimmy Eat World,Bleed American,The Middle,81,165853,False,0.643,0.849,2,-5.428,1,0.0526,0.0371,0.0,0.058,0.903,162.152,4,power-pop
+6Byuke1Ac5qWJHFgzu7byM,Weezer,Rock - Best of 2022,Records,4,208920,False,0.658,0.773,11,-5.119,1,0.0244,0.000901,0.0,0.194,0.66,100.006,4,power-pop
+3qmncUJvABe0QDRwMZhbPt,Weezer,90's Music Grandi Successi,Say It Ain't So,2,258825,False,0.635,0.551,3,-7.136,1,0.0354,0.00743,1.82e-05,0.07,0.451,151.779,4,power-pop
+5KoRwyRC1Yp3fTQQuZeMbM,Jimmy Eat World,Alternative Christmas 2022,Christmas Card,0,173560,False,0.196,0.93,11,-5.131,1,0.0519,0.0116,0.00214,0.105,0.566,194.319,4,power-pop
+2q9STTSwMoEVLyvlNZyOdA,Weezer,Rock Brandneu,Records,0,208920,False,0.658,0.773,11,-5.119,1,0.0244,0.000901,0.0,0.194,0.66,100.006,4,power-pop
+6WwoaXSpEJ75vG1t674Cmm,Weezer,Fishing Music,Say It Ain't So,0,258825,False,0.635,0.551,3,-7.136,1,0.0354,0.00743,1.82e-05,0.07,0.451,151.779,4,power-pop
+6uYSPBL3Y2shKlqH52Rw4l,Jimmy Eat World,Emo Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,2,-6.152,1,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+1l1ra0gsPlpnDOc4HdkKZU,Weezer,Emo Christmas 2022,O Come All Ye Faithful,0,124653,False,0.516,0.818,11,-6.076,1,0.0393,0.00701,0.0,0.337,0.769,121.907,4,power-pop
+61c2cPZd0ZZr7W2X5d0bUR,Weezer,Rock Workout 2023,Buddy Holly,2,159226,False,0.555,0.921,8,-4.606,1,0.0369,0.00264,0.000205,0.117,0.775,121.141,4,power-pop
+11oRhYmKwkh6iUTC521TSk,Weezer,Top of the Rock,Records,0,208920,False,0.658,0.773,11,-5.119,1,0.0244,0.000901,0.0,0.194,0.66,100.006,4,power-pop
+6T1TompuJnWs8299wj9Zpm,Fountains Of Wayne,Emo Christmas 2022,I Want An Alien For Christmas,0,141586,False,0.479,0.802,9,-9.03,1,0.0512,0.0117,0.0,0.333,0.625,148.658,4,power-pop
+5oJgIQPvytf2nR7WX3vZLn,Weezer,Tek It - New Noise,Records,0,208920,False,0.658,0.773,11,-5.119,1,0.0244,0.000901,0.0,0.194,0.66,100.006,4,power-pop
+2Nmgl5ms85CE90Yu4lm8jL,Weezer,Alternative Christmas 2022,O Holy Night,0,244306,False,0.173,0.609,3,-7.724,1,0.0482,0.359,0.0,0.1,0.0988,197.819,3,power-pop
+65mksf4l4ShgosppsGHoVR,Weezer,90's Music Grandi Successi,Buddy Holly,0,159226,False,0.555,0.921,8,-4.606,1,0.0369,0.00264,0.000205,0.117,0.775,121.141,4,power-pop
+6vMAhCWv2XzOqXj6pYTh5H,Jimmy Eat World,Alternative Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,2,-6.152,1,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+7MUd9iu6pW3KnLcz2NuMcs,Jimmy Eat World,Christmas Rock 2022,Last Christmas,0,267493,False,0.532,0.842,2,-6.152,1,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+0hPjv7ShJQkoZM8JiBnTqa,Jimmy Eat World,Rock n Roll Christmas,Last Christmas,0,267493,False,0.532,0.842,2,-6.152,1,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+7cEZSmCRCiOU1nsCuAtx0F,Weezer,Mirando las nubes,Island In The Sun,1,200053,False,0.654,0.794,4,-6.288,0,0.0284,0.00769,0.00134,0.165,0.678,114.62,4,power-pop
+03I89EqsberXEAapUd1yWu,Weezer;AJR,Here to Forever - All New Indie,All My Favorite Songs,0,170720,False,0.605,0.7,4,-6.47,1,0.0277,0.00998,0.0,0.116,0.588,84.962,4,power-pop
+2MCUHzFEXf39cyzcNyKw7B,Weezer;AJR,All Out Alternative,All My Favorite Songs,0,170720,False,0.605,0.7,4,-6.47,1,0.0277,0.00998,0.0,0.116,0.588,84.962,4,power-pop
+42SA4KoBUJARXHjwyxsQuf,Blondie,70s Christmas Party,Heart Of Glass,0,250440,False,0.724,0.725,4,-6.92,1,0.0323,0.00102,0.0645,0.0889,0.42,114.725,4,power-pop
+3x0lg7bRDP2LCn65JeNdwL,Blondie,80s Bangers Vol. 1,"Call Me - Single Version / Theme From ""American Gigolo""",6,212706,False,0.557,0.832,2,-6.708,0,0.0325,0.000868,0.00128,0.0975,0.75,142.702,4,power-pop
+2S9yxu8MLsL0CXoSdGuues,Jimmy Eat World,Alternative Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,2,-6.152,1,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+7yI7YDsXGrwUX8sFTXXnVV,Weezer,Los Clásicos del Pop 90s,Say It Ain't So,1,258825,False,0.635,0.551,3,-7.136,1,0.0354,0.00743,1.82e-05,0.07,0.451,151.779,4,power-pop
+3M1kaOBZv0cvlXK7xYCT1Z,Weezer,Rock n Roll Christmas,O Come All Ye Faithful,0,124653,False,0.516,0.818,11,-6.076,1,0.0393,0.00701,0.0,0.337,0.769,121.907,4,power-pop
+2MtzZmYmxAhNMxilcwrV4b,Blondie,70s Christmas Party,One Way Or Another,0,217364,False,0.442,0.921,2,-5.086,1,0.0655,0.0532,3.89e-06,0.0767,0.855,162.267,4,power-pop
+14OePRS8B28wHaZ3g6sv9w,Fountains Of Wayne,Alternative Christmas 2022,I Want An Alien For Christmas,0,141586,False,0.479,0.802,9,-9.03,1,0.0512,0.0117,0.0,0.333,0.625,148.658,4,power-pop
+1mEmpPOgLzbDKwi5Us6Haz,Blondie,Halloween 2022,Heart Of Glass - Special Mix,0,272266,False,0.659,0.78,4,-8.425,1,0.031,0.0144,0.0351,0.181,0.807,114.422,4,power-pop
+6cE1curXkmm1ad2TeQmzdx,The Cars,80's,Drive,0,234493,False,0.579,0.608,6,-9.961,1,0.029,0.124,0.00148,0.151,0.499,111.441,5,power-pop
+6onqaGWMLgfvupMO76XHP3,Blondie,Halloween Party 2022,Heart Of Glass - Special Mix,0,272266,False,0.659,0.78,4,-8.425,1,0.031,0.0144,0.0351,0.181,0.807,114.422,4,power-pop
+40CUNmDPXt292b3zFlWWpC,Andrew Gold,Para pedir dulces,Trick Or Treat,0,206066,False,0.807,0.631,10,-10.347,1,0.0346,0.554,0.0,0.0608,0.972,120.058,4,power-pop
+1wmOubz5LefeGM4KDAcsfz,Weezer,Christmas Rock 2022,O Come All Ye Faithful,0,124653,False,0.516,0.818,11,-6.076,1,0.0393,0.00701,0.0,0.337,0.769,121.907,4,power-pop
+4haXv9IJwOlJJsT6FNJPYk,Jimmy Eat World,Обратно в клас - rock,The Middle,0,166040,False,0.644,0.848,2,-5.385,1,0.0529,0.0358,0.0,0.0676,0.928,162.151,4,power-pop
+08k0JhCj8oJLB7Xuclr57s,Weezer,Fiesta temática 90s,My Name Is Jonas,1,206120,False,0.261,0.947,11,-3.031,1,0.0487,0.000193,0.00326,0.31,0.552,185.942,3,power-pop
+2Pn03PIZpWIt34wML20qst,Cheap Trick,Christmas Rock 2022,Christmas Christmas,0,136480,False,0.331,0.942,9,-3.968,1,0.141,0.00228,0.00524,0.0974,0.143,180.372,4,power-pop
+7bg7JfJvKgKX1xTn1gGAki,Jimmy Eat World,Mirando las nubes,The Middle,0,166040,False,0.644,0.848,2,-5.385,1,0.0529,0.0358,0.0,0.0676,0.928,162.151,4,power-pop
+6RYHGsmhxeZ5694zS1zDF6,Weezer,Rock n Roll Christmas,We Wish You A Merry Christmas,0,84973,False,0.387,0.786,11,-4.127,1,0.0436,0.0195,0.0,0.123,0.462,149.806,3,power-pop
+63Slke1vlnpTejDeluhyQ9,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,power-pop
+4K7x9KC3XrcKMNdhVoaBOj,Fountains Of Wayne,Rock n Roll Christmas,The Man In The Santa Suit,0,160346,False,0.622,0.72,9,-6.578,1,0.0255,0.0525,0.0,0.109,0.948,133.922,4,power-pop
+5QWR5HivGtat7XXOCSAdlI,Fountains Of Wayne,Christmas Rock 2022,The Man In The Santa Suit,0,160346,False,0.622,0.72,9,-6.578,1,0.0255,0.0525,0.0,0.109,0.948,133.922,4,power-pop
+2fo7XZELsDVsvdDoqLc3lr,Andrew Gold,Anthems for Witches 2022,It Must Be Halloween,0,176933,False,0.507,0.472,0,-12.911,0,0.0763,0.652,0.0,0.401,0.527,117.053,4,power-pop
+02IzKHWkGVtNMdPoOAxHb3,Cheap Trick,Alternative Christmas 2022,I Wish It Was Christmas Today,0,194120,False,0.383,0.984,8,-3.573,1,0.103,0.000246,0.287,0.24,0.304,164.959,4,power-pop
+4MCWSjTJyWPjJ9P8JCAMZL,The Cars,Maintain Your Mojo,Just What I Needed,0,225893,False,0.64,0.627,4,-9.048,1,0.0428,0.00948,0.000134,0.0764,0.793,127.07,4,power-pop
+3USB8LxwvkIvm95HcTW8Gv,Andrew Gold,Halloween y diversión para peques,"Witches, Witches, Witches",0,186373,False,0.726,0.772,2,-11.947,1,0.038,0.111,1.32e-06,0.183,0.867,140.113,4,power-pop
+7mntHnF2frXuZwFAp8ouCB,Weezer,Alternative Christmas 2022,We Wish You A Merry Christmas,0,84973,False,0.387,0.786,11,-4.127,1,0.0436,0.0195,0.0,0.123,0.462,149.806,3,power-pop
+3v8CoiN19zAzkTG0E7TBTN,Weezer,Christmas Rock 2022,We Wish You A Merry Christmas,0,84973,False,0.387,0.786,11,-4.127,1,0.0436,0.0195,0.0,0.123,0.462,149.806,3,power-pop
+5hk8JIdHWQBEwxljJmEmTi,Andrew Gold,Halloween 2022,"Spooky, Scary Skeletons - Undead Tombstone Remix",0,125624,False,0.772,0.788,9,-5.414,0,0.0619,0.0027,0.000502,0.353,0.574,127.91,4,power-pop
+22rUY52RY8r6fi66gtEono,Weezer,Alternative Christmas 2022,We Wish You A Merry Christmas,0,84973,False,0.387,0.786,11,-4.127,1,0.0436,0.0195,0.0,0.123,0.462,149.806,3,power-pop
+1VNYKQGmcvHOTddiFztcPj,Andrew Gold,Happy Haunted Halloween Tunes,"Spooky, Scary Skeletons - Undead Tombstone Remix",1,125624,False,0.772,0.788,9,-5.414,0,0.0619,0.0027,0.000502,0.353,0.574,127.91,4,power-pop
+4oDZ5L8izBals6jKBJDBcX,The Outfield,Play Deep,Your Love,76,216466,False,0.579,0.654,1,-12.421,0,0.0553,0.121,3.62e-06,0.0673,0.616,129.537,4,power-pop
+1TvNcWY7WwPLQINhimxycA,Jimmy Eat World,Bleed American,Hear You Me,64,284373,False,0.465,0.517,4,-6.189,1,0.0284,0.00854,0.0403,0.209,0.137,136.176,3,power-pop
+41AE8ODX2JETBCa6muhSLY,Blondie,Greatest Hits: Blondie,Heart Of Glass,66,252186,False,0.726,0.696,4,-8.017,1,0.0333,0.00114,0.0771,0.0563,0.41,114.691,4,power-pop
+3LGUsgNrsptmc9SFqVNZyD,Rooney,Iron Man Armored Adventures Theme,Iron Man Armored Adventures Theme,50,136240,False,0.571,0.891,1,-3.518,0,0.047,0.00114,0.00295,0.0428,0.821,144.985,4,power-pop
+3wfujdbamR3Z46F4xav7LM,The Cars,Heartbeat City,Drive,67,234493,False,0.582,0.606,6,-9.961,1,0.0289,0.124,0.00139,0.151,0.504,111.441,5,power-pop
+6VoIBz0VhCyz7OdEoRYDiA,Weezer,Weezer,Say It Ain't So,77,258826,False,0.634,0.551,3,-7.136,1,0.0352,0.00737,1.82e-05,0.07,0.453,151.779,4,power-pop
+37oU0liybMY8aI9u6QMVM9,Nada Surf,Let Go,Inside of Love,50,298533,False,0.394,0.737,9,-7.119,1,0.029,0.0248,0.0,0.108,0.438,178.327,4,power-pop
+2lFFiNm0XtgJ6wkdncTB4k,The Cars,Heartbeat City (Expanded Edition),Drive - 2017 Remaster,70,234332,False,0.261,0.703,6,-7.871,1,0.0414,0.115,0.00078,0.102,0.405,83.495,4,power-pop
+3A6nR4GSolo160nu7xtDk7,Weezer;AJR,All My Favorite Songs (feat. AJR),All My Favorite Songs (feat. AJR),63,170720,False,0.605,0.7,4,-6.47,1,0.0277,0.00998,0.0,0.116,0.588,84.962,4,power-pop
+4qO03RMQm88DdpTJcxlglY,Blondie,Atomic/Atomix,Call Me,73,212600,False,0.56,0.825,2,-6.711,0,0.0347,0.000785,0.00246,0.0892,0.74,142.669,4,power-pop
+5WhtlIoxoZrMmuaWWEQhwV,Weezer,Weezer,Undone - The Sweater Song,72,305533,False,0.457,0.618,6,-6.682,1,0.0296,0.00114,0.00257,0.0679,0.579,80.184,4,power-pop
+2ccUQnjjNWT0rsNnsBpsCA,Cheap Trick,Heaven Tonight,Surrender,69,253733,False,0.524,0.955,0,-7.081,1,0.0411,0.00717,8.77e-06,0.659,0.869,133.849,4,power-pop
+27L8sESb3KR79asDUBu8nW,Fountains Of Wayne,Welcome Interstate Managers,Stacy's Mom,76,197986,False,0.774,0.75,11,-4.927,0,0.0412,0.00207,1.78e-05,0.0808,0.927,118.015,4,power-pop
+3mwvKOyMmG77zZRunnxp9E,Weezer,Weezer,Buddy Holly,75,159226,False,0.556,0.92,8,-4.606,1,0.0367,0.00271,0.00021,0.117,0.771,121.138,4,power-pop
+6S3JlDAGk3uu3NtZbPnuhS,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Baby Blue - Remastered 2010,67,217346,False,0.623,0.876,11,-7.788,1,0.066,0.0189,0.0134,0.0728,0.515,124.431,4,power-pop
+1sUdq3kWa9dJXHu3eYOUll,Andrew Gold,Halloween Howls: Fun & Scary Music (Deluxe Edition),"Spooky, Scary Skeletons - Undead Tombstone Remix",71,125624,False,0.772,0.788,9,-5.414,0,0.0619,0.0027,0.000583,0.353,0.574,127.91,4,power-pop
+2vk8PCaUuAZ63dsi1lqkn0,Big Star,#1 Record (Remastered),Thirteen,54,154480,False,0.456,0.344,0,-10.296,0,0.0298,0.565,9.19e-06,0.114,0.359,117.116,4,power-pop
+75GQIYnRaBg7ndHxhfYuQy,Raspberries,Raspberries,Go All The Way,62,205346,False,0.305,0.849,9,-4.892,1,0.0999,0.548,0.000134,0.0995,0.555,134.287,4,power-pop
+4alHo6RGd0D3OUbTPExTHN,The Cars,The Cars,Just What I Needed,71,225626,False,0.619,0.579,4,-9.307,1,0.0473,0.0152,6.4e-05,0.0858,0.69,127.224,4,power-pop
+5Th6EdNVhxp0TPX41ZLZk6,Blondie,One Way Or Another,One Way Or Another - Remastered/2001,60,212706,False,0.45,0.877,9,-6.403,1,0.0532,0.0118,4.95e-05,0.0699,0.896,162.477,4,power-pop
+31Tp5iKrVUayn65qhg06nE,Elvis Costello,In Motion Pictures,She,70,187720,False,0.333,0.28,1,-12.87,1,0.032,0.427,1.88e-06,0.13,0.276,130.876,4,power-pop
+1HOMkjp0nHMaTnfAkslCQj,The Knack,Get The Knack,My Sharona,75,295400,False,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,4,power-pop
+528CAH5pTLq86oZ52fHifA,Cheap Trick,Lap Of Luxury,The Flame,66,338800,False,0.629,0.581,4,-11.856,1,0.027,0.513,2.06e-06,0.0755,0.359,97.074,4,power-pop
+4cQJ27R11K634x5qCOwKW5,Blondie,Parallel Lines (Remastered),One Way Or Another - Remastered/2001,67,215106,False,0.45,0.914,2,-5.4,1,0.0607,0.0305,1.42e-05,0.152,0.904,162.487,4,power-pop
+7bOYOD0d7ByMTXvJnQVl8d,Blondie,Greatest Hits,Maria,67,249426,False,0.548,0.8,9,-6.926,1,0.0597,0.038,0.00255,0.0678,0.805,159.654,4,power-pop
+50u2y4zgROMZq2db8Qx94B,glass beach,the first glass beach album,cold weather,62,138119,True,0.341,0.661,10,-4.251,1,0.0335,0.00422,0.0,0.103,0.675,154.99,4,power-pop
+3srgB1L9XfePDOIY4DrN2K,Sunflower Bean,Moment In The Sun,Moment In The Sun,53,189634,False,0.687,0.63,2,-5.13,1,0.031,0.0576,0.0,0.257,0.548,115.986,4,power-pop
+0a4agFmqHXxcZl1nho1BxM,Blondie,Best Of Blondie,Heart Of Glass - Special Mix,69,275733,False,0.694,0.577,4,-14.63,1,0.0308,0.015,0.00836,0.0853,0.845,114.478,4,power-pop
+4ryTGEMh9eyb14WRdJwk7Y,Hoodoo Gurus,In Blue Cave,Waking Up Tired - Remaster 2005,35,174080,False,0.549,0.862,9,-5.325,1,0.0365,0.0171,0.0,0.073,0.679,127.367,3,power-pop
+4qVFyZB1ugfSTGYlu9lUoc,The Knack,70s Christmas Party,My Sharona,0,292413,False,0.558,0.711,0,-8.171,1,0.0419,0.00851,0.00045,0.17,0.869,147.265,4,power-pop
+4nWDNtxHSjrcZZZjpFrmpB,The 20 Belows,Late Nights,Agree To Disagree,33,136542,False,0.412,0.934,9,-4.01,1,0.0489,3.34e-05,0.141,0.0644,0.516,93.953,4,power-pop
+2CborWCkWeDJzG0ZbB89BY,Andrew Gold,Para pedir dulces,"Witches, Witches, Witches",0,186373,False,0.726,0.772,2,-11.947,1,0.038,0.111,1.32e-06,0.183,0.867,140.113,4,power-pop
+3vHGv2e1xn7Dm3D4i8unmw,Off With Their Heads,Home,Shirts,35,151786,False,0.342,0.992,1,-3.616,0,0.105,0.00254,3.32e-06,0.677,0.629,172.891,4,power-pop
+5o8ni24h1XQiNAYLBx3hKz,Andrew Gold,Spooky Scary Season,It Must Be Halloween,0,176933,False,0.507,0.472,0,-12.911,0,0.0763,0.652,0.0,0.401,0.527,117.053,4,power-pop
+6VpWcEEG7EIyDnyN9kvJOp,Andrew Gold,Para pedir dulces,It Must Be Halloween,0,176933,False,0.507,0.472,0,-12.911,0,0.0763,0.652,0.0,0.401,0.527,117.053,4,power-pop
+6nW2ucfxkjeb6IeKWesbPJ,Marshall Crenshaw,Songwriters In the 1980s,Whenever You're On My Mind,34,197493,False,0.511,0.748,2,-11.793,1,0.0434,0.173,0.0,0.22,0.895,115.061,4,power-pop
+4aP4JetposvOptIKZ0CefO,Andrew Gold,Para pedir dulces,In Our Haunted House,0,358960,False,0.523,0.501,0,-13.8,0,0.0442,0.715,0.0,0.374,0.478,149.129,3,power-pop
+5qeIxEG7ugqXcddblbARHV,Andrew Gold,Halloween y diversión para peques,It Must Be Halloween,0,176933,False,0.507,0.472,0,-12.911,0,0.0763,0.652,0.0,0.401,0.527,117.053,4,power-pop
+76TMSqHtd16PJYnJFpk1kD,Andrew Gold,Halloween y diversión para peques,Trick Or Treat,0,206066,False,0.807,0.631,10,-10.347,1,0.0346,0.554,0.0,0.0608,0.972,120.058,4,power-pop
+4AO22AeyUGh14qYsgkBPcR,Joe Jackson,(70's) Seventies Collected Volume 2,It's Different For Girls,0,225293,False,0.678,0.774,11,-6.505,1,0.0273,0.0489,0.00202,0.0954,0.288,118.58,4,power-pop
+1gyYcM9VWjpxOaZyDzXDSm,The Knack,On air 70's Hits,My Sharona,1,292413,False,0.558,0.711,0,-8.171,1,0.0419,0.00851,0.00045,0.17,0.869,147.265,4,power-pop
+3wbLj9Rd3YBZzKRDxC266o,The Smithereens,Especially For You,Blood And Roses,41,216826,False,0.477,0.686,6,-14.141,1,0.0406,0.0101,0.0118,0.0633,0.81,120.837,4,power-pop
+3dKhcCyVHuyCDiFuIHTo0q,Andrew Gold;Greg Prestopino,Halloween y diversión para peques,Gimme A Smile (The Pumpkin Song),0,239506,False,0.778,0.395,2,-12.054,1,0.0401,0.767,0.0,0.109,0.681,111.075,4,power-pop
+4QhpFTrtlnoRzH3PFO4xRC,Andrew Gold,Pop & Halloween,"Spooky, Scary Skeletons - Undead Tombstone Remix",1,125624,False,0.772,0.788,9,-5.414,0,0.0619,0.0027,0.000502,0.353,0.574,127.91,4,power-pop
+32jlsYHeLMvnJNeaDUbWaO,Andrew Gold;Greg Prestopino,Para pedir dulces,Gimme A Smile (The Pumpkin Song),0,239506,False,0.778,0.395,2,-12.054,1,0.0401,0.767,0.0,0.109,0.681,111.075,4,power-pop
+2d3CLdRZNaRw6hUfvIXwk0,Andrew Gold,Halloween Kids Party 2022,"Spooky, Scary Skeletons - Undead Tombstone Remix",0,125624,False,0.772,0.788,9,-5.414,0,0.0619,0.0027,0.000502,0.353,0.574,127.91,4,power-pop
+22HbhNEr0eG7q0lGcV6Oqx,Joe Jackson,Fiesta temática 70s,I'm The Man,0,238666,False,0.484,0.969,9,-5.187,1,0.0545,0.00205,0.000714,0.161,0.647,173.478,4,power-pop
+01zp4taj3AApYlN2iejw3W,Elvis Costello & The Attractions,70s Christmas Party,Pump It Up,0,196680,False,0.645,0.809,11,-6.12,1,0.0385,0.00921,0.00108,0.106,0.966,138.978,4,power-pop
+6yTcuw0gnl48hq9xSAjRnq,Elvis Costello & The Attractions,On air 70's Hits,Pump It Up,0,196680,False,0.645,0.809,11,-6.12,1,0.0385,0.00921,0.00108,0.106,0.966,138.978,4,power-pop
+2UE0OluEMEi9RROw7uR159,Elvis Costello & The Attractions,Fiesta temática 70s,Oliver's Army,0,179653,False,0.53,0.807,4,-7.027,1,0.0286,0.131,0.0,0.18,0.911,143.15,4,power-pop
+5dRQUolXAVX3BbCiIxmSsf,The Outfield,Super Hits,Your Love,72,221840,False,0.555,0.757,1,-7.868,0,0.0601,0.103,1.16e-06,0.0631,0.582,129.607,4,power-pop
+2OOajhp6mEuXTo9uifUzPg,Elvis Costello,Notting Hill,She,34,186466,False,0.339,0.328,1,-10.164,1,0.0316,0.542,3.48e-05,0.117,0.223,129.196,4,power-pop
+2ckXnzyvgva2oE9FWjb405,Todd Rundgren,The Very Best of Todd Rundgren,Hello It's Me,55,264093,False,0.578,0.848,5,-6.842,1,0.0261,0.0563,0.00426,0.0963,0.779,87.246,4,power-pop
+5tKlIgkTo8QZBVLGkyhEso,Weezer,Cars 2 (Original Soundtrack),"You Might Think - From ""Cars 2""/Soundtrack Version",54,187266,False,0.715,0.758,2,-7.52,1,0.0319,0.0162,0.0294,0.119,0.978,133.622,4,power-pop
+2HhBmnL8kVYaevaaCsnMVB,Blondie,Parallel Lines: Deluxe Collector's Edition,Heart Of Glass - Remix,63,249733,False,0.654,0.809,4,-5.053,1,0.0417,0.00147,0.0143,0.123,0.492,114.685,4,power-pop
+7HKxTNVlkHsfMLhigmhC0I,Blondie,Call Me,Call Me,69,212226,False,0.554,0.833,2,-6.667,0,0.0347,0.000646,0.0025,0.0737,0.773,142.673,4,power-pop
+4ebcE2SmkG7nplvzFAWRu7,The Romantics,The Romantics,What I Like About You,69,175266,False,0.514,0.942,9,-8.433,1,0.0502,0.282,6.6e-05,0.17,0.912,159.847,4,power-pop
+1yKu2MhpwzDXXH2tzG6xoa,Weezer,Make Believe,Beverly Hills,71,196093,False,0.693,0.823,5,-3.761,1,0.0726,0.0932,0.0,0.328,0.741,87.904,4,power-pop
+5uRkew0DtfAQmv0oEYNwFF,Todd Rundgren,Something / Anything?,I Saw the Light - 2015 Remaster,65,180280,False,0.504,0.673,0,-11.834,0,0.0336,0.214,2.29e-06,0.171,0.581,120.418,4,power-pop
+1VrIr1toXX6bOSdotodB71,Badfinger,No Dice (Remastered 2010 / Deluxe Edition),Without You - Remastered 2010,53,283493,False,0.558,0.339,6,-10.393,1,0.0274,0.429,2.75e-06,0.16,0.309,135.235,4,power-pop
+0V8SWgdKA0BWydzwQflZAY,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Sweet Tuesday Morning - Remastered 2010,52,150786,False,0.509,0.396,2,-13.505,0,0.0296,0.738,7.9e-05,0.121,0.486,78.046,4,power-pop
+5EugXICXL06waHgP4iTI58,The Lemonheads,It's A Shame About Ray (Expanded Edition),Mrs. Robinson - Remastered,64,224480,False,0.494,0.936,11,-7.195,0,0.0398,0.0112,0.000693,0.276,0.834,107.543,4,power-pop
+1gKmnrz6SzJlGMNRKBLx1V,Blondie,Best Of Blondie,One Way Or Another,61,216400,False,0.47,0.796,6,-12.055,0,0.0517,0.0792,7.35e-05,0.292,0.909,161.414,4,power-pop
+0vTEksNDRuJxDMLOOgn0fA,Eluveitie,Origins,The Call of the Mountains,55,253896,False,0.305,0.884,11,-4.869,1,0.0514,0.0385,7.96e-05,0.974,0.196,108.355,4,power-pop
+32SckiFOYb8bwYewY51WA7,Cheap Trick,Top Gun - Motion Picture Soundtrack (Special Expanded Edition),"Mighty Wings - From ""Top Gun"" Original Soundtrack",56,231040,False,0.467,0.937,5,-8.285,1,0.0483,0.0269,0.0,0.235,0.848,158.071,4,power-pop
+1y6KiCQ0ARDLUW3O9CkOIV,PEARS,PEARS,Comfortably Dumb,30,144326,False,0.394,0.992,1,-4.016,1,0.202,0.000361,0.000525,0.23,0.174,93.972,4,power-pop
+0JqDfzUZZi86BoZnx1MPQv,Badfinger,No Dice (Remastered 2010 / Deluxe Edition),Believe Me - Remastered 2010,56,180053,False,0.548,0.406,9,-8.946,1,0.029,0.114,5.63e-05,0.102,0.386,142.568,4,power-pop
+0WNGPpmWqzPnk0psUhJ3SX,Mott The Hoople,All The Young Dudes (Expanded Edition),All the Young Dudes,64,211066,False,0.429,0.668,4,-7.539,0,0.044,0.208,0.0,0.538,0.398,77.737,4,power-pop
+35wVRTJlUu2kDkqXFegOKt,The Cars,Heartbeat City (Expanded Edition),You Might Think,65,184717,False,0.728,0.855,2,-6.031,1,0.0333,0.109,0.000576,0.113,0.971,133.887,4,power-pop
+6nvVrOYJKgeLHobIFrA2w2,The Falcon,Unicornography,Blackout,34,183146,False,0.319,0.938,9,-7.169,1,0.046,0.000435,3.37e-05,0.0688,0.87,191.989,4,power-pop
+6pJ45M2a1OncLUUJGRCjuy,Direct Hit!,Wasted Mind,Do the Sick,30,129573,False,0.411,0.996,1,-2.392,1,0.0946,0.00351,0.236,0.267,0.762,187.933,4,power-pop
+1jlOBkk10A0GyBwsURt1yp,Chixdiggit!,Born on the First of July,Chupacabras,31,120760,False,0.325,0.959,4,-4.906,1,0.0901,0.0126,0.000573,0.0827,0.658,130.854,4,power-pop
+3mlnJWidDh0ASIJYNXDWxH,Michael Penn,March,No Myth,31,249160,False,0.626,0.696,0,-11.073,1,0.0303,0.0461,1.69e-05,0.293,0.854,103.486,4,power-pop
+4TqSZLPgTr5g70TFhY1I8c,The 20 Belows,Late Nights,Staying In,29,101146,False,0.286,0.995,2,-3.361,1,0.0957,1.69e-05,0.0529,0.375,0.547,180.188,4,power-pop
+0zK545STj6P7qbFSpCK9pp,Badfinger,No Dice (Remastered 2010 / Deluxe Edition),No Matter What - Remastered 2010,67,180546,False,0.529,0.743,9,-5.523,1,0.0481,0.177,0.0,0.0759,0.78,116.817,4,power-pop
+2LGAbm0xHNu7scBDVCkFwN,Fountains Of Wayne,Welcome Interstate Managers,Hey Julie,55,156933,False,0.739,0.554,7,-5.668,1,0.0363,0.39,0.0,0.0785,0.978,137.013,4,power-pop
+5obwLR73JZh0JFHRbhgg9s,Swingin' Utters,Swingin' Utters,Pills & Smoke,35,154453,False,0.457,0.962,0,-4.118,1,0.0413,8.5e-05,0.054,0.155,0.662,113.363,4,power-pop
+0otlwsD3mSogk7VJCTp6Kg,Pete Townshend,Empty Glass,Let My Love Open The Door,65,164653,False,0.651,0.653,0,-9.731,1,0.0545,0.365,0.000117,0.0742,0.729,164.912,4,power-pop
+6fOKrUhmNyKAMco7xUhaSr,The 20 Belows,For Better Days,20_20,29,126757,True,0.504,0.968,4,-4.314,1,0.0592,0.0487,0.0,0.326,0.731,98.36,4,power-pop
+3TPmyItKoiPKNcH7S308S0,Groovie Ghoulies,Go! Stories,(She's My) Vampire Girl,31,133546,False,0.331,0.914,7,-5.157,1,0.0489,6.56e-05,0.0028,0.158,0.784,173.918,4,power-pop
+3q3lxI83Wr6wI2VprOigYr,Shannon & The Clams,Onion,I Never Wanted Love,32,219306,False,0.571,0.811,6,-5.978,0,0.0389,0.108,0.524,0.191,0.887,112.259,4,power-pop
+2Oa4PQ6WVqng8AnB7Gbabs,The Outfield,Românticas Anos 80,Your Love,31,219653,False,0.576,0.706,1,-9.926,0,0.0537,0.146,7.99e-06,0.0689,0.68,128.959,4,power-pop
+4jJ3rcbPevOdXr6hFIVW45,Swingin' Utters,A Juvenile Product of the Working Class,Windspitting Punk,35,134800,False,0.284,0.959,1,-6.02,0,0.123,0.00142,0.000146,0.0866,0.665,174.296,4,power-pop
+5Bf7sguvQ1ilipDZJCBTRS,The 20 Belows,Late Nights,Time To Kill,29,148767,True,0.445,0.971,9,-2.964,1,0.0379,1.72e-05,0.0211,0.382,0.743,98.001,4,power-pop
+1c0lUCuGiVlBbuCi9bxf0N,Nick Lowe,Jesus of Cool,Nutted By Reality,33,171466,False,0.599,0.503,9,-11.478,1,0.0461,0.0381,8.47e-05,0.127,0.96,125.642,4,power-pop
+3iuJytXIDXGbpZbDWxfgHl,The 20 Belows,For Better Days,Like A Chokeslam,29,140341,False,0.488,0.908,6,-4.991,1,0.0597,0.136,0.0,0.123,0.895,133.027,4,power-pop
+3UgiXDauVuj9HZKzFY8TBL,The Dictators,Bloodbrothers,Stay With Me,32,250506,False,0.426,0.98,2,-5.056,1,0.0823,0.00205,0.00177,0.343,0.395,158.725,4,power-pop
+4CaugnobWI6UpdixogHUrl,The Del Fuegos,The Best Of The Del Fuegos : The Slash Years,Don't Run Wild,32,211626,False,0.715,0.472,11,-13.474,1,0.0426,0.131,0.000968,0.208,0.785,128.146,4,power-pop
+4zciNpj3c6qIfiikaihQnO,Tsunami Bomb,Trust No One,Lemonade (2000),33,151106,True,0.371,0.635,11,-5.064,0,0.0444,0.0823,3.64e-06,0.0956,0.789,175.89,4,power-pop
+5lNf1QuG7smWG4GNzMIHlE,Screeching Weasel,My Brain Hurts,The Science of Myth,32,143093,False,0.317,0.978,6,-3.462,0,0.114,0.0362,0.0,0.321,0.326,157.636,4,power-pop
+2acyyfElkEmXWcfOVGMx6A,Brinsley Schwarz,Surrender To The Rhythm,Surrender to the Rhythm,31,205266,False,0.573,0.624,9,-9.166,1,0.0299,0.0519,0.00144,0.204,0.859,134.912,4,power-pop
+3bVMp3CDlCKPthzmUk5h6O,Hoodoo Gurus,Stoneage Romeos,Leilani - Remaster 2005,34,335520,False,0.589,0.906,1,-4.063,1,0.0308,0.00502,0.0563,0.133,0.821,139.876,4,power-pop
+6ZsocAcKcoCqtpwapvQYoB,Nick Lowe,The Convincer,She's Got Soul,34,143573,False,0.726,0.49,4,-9.13,1,0.0526,0.63,0.0229,0.109,0.621,116.798,4,power-pop
+20KGZ4M94wfou9mkWvTMO2,The Dollyrots,Because I'm Awesome,Brand New Key,33,172453,False,0.433,0.808,7,-4.973,1,0.0385,0.000413,0.00018,0.107,0.475,173.032,4,power-pop
+2lLM66gVTrcgJHU4zOZJ64,Hoodoo Gurus,Stoneage Romeos,Tojo - Remaster 2005,32,201240,False,0.259,0.828,0,-3.894,1,0.0756,0.0101,1.82e-06,0.147,0.713,168.123,4,power-pop
+2dBud3AlOI7HI9Es8oBa8i,Off With Their Heads,Home,Focus On Your Own Family,34,136520,False,0.461,0.988,0,-3.904,1,0.0854,0.00463,1.47e-05,0.12,0.275,109.464,4,power-pop
+2QuOheWJqShIBIYC1ZCcFu,Hoodoo Gurus,Crank,The Right Time - Remaster 2005,32,233560,False,0.412,0.998,11,-1.636,1,0.0696,0.00162,0.00158,0.0888,0.31,165.509,4,power-pop
+4J8OowbDixNh2yWBvaN33O,Off With Their Heads,Home,Seek Advice Elsewhere,33,129506,False,0.305,0.974,0,-3.579,1,0.0718,0.00158,6.15e-05,0.106,0.392,101.534,4,power-pop
+0QoxHScqypEXwMFrVnCoV0,Off With Their Heads,In Desolation,Trying To Breathe,31,169413,False,0.452,0.973,0,-4.352,1,0.0737,0.00111,0.000431,0.379,0.705,165.122,4,power-pop
+46kiOFsTdGjcuLyebQParY,Nick Lowe,Quiet Please: The New Best of Nick Lowe,I Knew the Bride (When She Used to Rock and Roll),35,266280,False,0.63,0.865,4,-9.081,1,0.034,0.386,1.15e-05,0.333,0.964,147.36,4,power-pop
+7fRvtXvJMpGfTLdF0M09a1,The Romantics,In Heat,Talking In Your Sleep,66,235093,False,0.72,0.967,9,-4.434,0,0.0343,0.0289,0.000345,0.142,0.977,129.766,4,power-pop
+6Awxltp70eHixrcPz3OKa4,Nada Surf,The Weight Is a Gift,Always Love,31,198877,False,0.325,0.759,2,-5.078,1,0.0318,0.00296,0.0,0.245,0.353,126.861,4,power-pop
+4HJc004qYXE9zsG6PfTFFj,glass beach,the first glass beach album,bedroom community,55,361328,True,0.46,0.694,1,-5.49,1,0.0468,0.0477,0.000112,0.367,0.337,134.935,4,power-pop
+6F2vo4sxRNQ58VYe3pdiaL,Blondie,Greatest Hits: Blondie,Rapture,59,299373,False,0.724,0.704,11,-8.258,0,0.0511,0.113,0.00425,0.466,0.96,107.486,4,power-pop
+35SRuRfp5BvD1yArmXKNHO,Weezer,Pinkerton - Deluxe Edition,I Just Threw Out The Love Of My Dreams,66,157960,False,0.413,0.967,6,-3.96,0,0.136,0.00176,1.09e-06,0.101,0.279,130.451,4,power-pop
+4nOn70NoLWKOwqSaSwbjR4,Eluveitie,Everything Remains (As It Never Was),Isara,39,164413,False,0.392,0.772,4,-4.349,0,0.0301,0.0497,0.0301,0.921,0.102,160.043,4,power-pop
+227zkOoNpqRrzEPxvVRiF5,Weezer,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Lost in the Woods - Weezer Version,55,185231,False,0.403,0.598,8,-5.735,1,0.0241,0.198,0.0,0.101,0.294,75.592,4,power-pop
+5sf1wqBZsHkpy7dPnDb7aD,The Outfield,Play Deep,All the Love in the World,67,212240,False,0.624,0.531,4,-13.23,1,0.0408,0.0403,1.21e-06,0.0914,0.743,128.08,4,power-pop
+2imlSz1OkvN8QyAkQ4WL2a,The Rubinoos,The Rubinoos,I Think We're Alone Now,43,176040,False,0.586,0.565,11,-8.55,1,0.0541,0.163,0.0,0.107,0.633,128.956,4,power-pop
+0nFKHCf1Ibij8m370l2KlZ,The Cars,The Elektra Years 1978 - 1987,Good Times Roll - 2016 Remaster,56,225226,False,0.631,0.689,4,-8.358,1,0.0284,0.0731,0.000357,0.102,0.645,107.667,4,power-pop
+61XspFITuKmAlYdQacNCbF,Jimmy Eat World,Bleed American,Bleed American,67,181493,False,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08e-06,0.806,0.584,160.212,4,power-pop
+2mPMFJvQ0v27gVqe5b6nDn,Weezer,Weezer (Green Album),Hash Pipe,69,186533,False,0.578,0.882,7,-6.354,1,0.044,0.000121,0.479,0.284,0.623,125.603,4,power-pop
+0hiMfefSLhzCs2tujQG28n,Michael Penn,March,This & That,27,211400,False,0.713,0.555,0,-11.779,1,0.0524,0.00708,0.00219,0.0495,0.944,112.343,4,power-pop
+54qG9hpUjLgkgTJQ9qvB1P,Badfinger,Magic Christian Music (Remastered 2010 / Deluxe Edition),Dear Angie - Remastered 2010,58,160906,False,0.633,0.417,1,-9.11,0,0.0265,0.3,3.06e-06,0.114,0.506,81.976,4,power-pop
+4rETMmjiQ7NL0KFCIZa5oV,Cheap Trick,"The Epic Archive, Vol. 3 (1984-1992)","Mighty Wings - From ""Top Gun"" Original Soundtrack",60,231080,False,0.465,0.939,5,-7.793,1,0.0494,0.0384,0.0,0.181,0.805,158.44,4,power-pop
+6hknftJ4NeJK6xywlbkbEL,Mean Jeans,Tight New Dimension,Nite Vision,29,131933,False,0.274,0.896,1,-3.837,0,0.0395,0.00107,9.55e-06,0.177,0.378,174.057,4,power-pop
+1oiJ5YlSymmVqgOMYpnTSd,Los Crudos,Discografía,Asesinos,32,61590,False,0.387,0.86,4,-3.777,0,0.199,0.00831,0.00748,0.144,0.396,108.395,4,power-pop
+51rJTgn79z6SeJacLvsZ0q,Teen Idols,Teen Idols,Come Dance with Me,30,79840,False,0.381,0.992,2,-3.81,1,0.075,9.45e-05,0.000289,0.307,0.585,159.646,4,power-pop
+3GjNgJri0tX34qavdUSXuh,The 20 Belows,Wreckage,So Simple,28,137144,False,0.375,0.894,6,-2.063,1,0.039,2.49e-05,0.636,0.395,0.604,88.746,4,power-pop
+1zVuOp3i19QqXmKDFey7i2,The Ergs!,"Hindsight Is 20​/​20, My Friend",Hey Jealousy,30,188293,False,0.366,0.939,6,-4.985,0,0.0621,1.2e-05,0.0,0.0906,0.512,93.384,4,power-pop
+2FVEJt4xS9rumGapVJfw82,The Dollyrots,Because I'm Awesome,My Best Friend's Hot,27,190133,False,0.578,0.867,9,-2.671,1,0.0369,0.000673,0.00016,0.128,0.637,143.966,4,power-pop
+416BxG9416xVKVQrdXDfAf,The Plimsouls,Beach Town Confidential: Live at the Golden Bear 1983,Oldest Story In The World,27,217106,False,0.415,0.806,2,-5.247,1,0.0405,0.557,6.48e-06,0.717,0.211,126.598,4,power-pop
+1konoT78IvxDzyyY0wJUM6,The Del Fuegos,The Best Of The Del Fuegos : The Slash Years,I Still Want You,29,232160,False,0.715,0.5,9,-13.326,0,0.029,0.109,0.000129,0.0991,0.653,115.625,4,power-pop
+7wmIDMcXmL6K7kZsjBxRWL,Andrew Gold,Halloween Howls: Fun & Scary Music,Don't Scream (It's Only Halloween),28,212000,False,0.609,0.647,1,-11.688,1,0.037,0.231,6.29e-06,0.391,0.822,136.632,4,power-pop
+3avE7LWJmuzRRJeUZWpTub,Sloppy Seconds,Destroyed,I Don't Wanna Be a Homosexual,30,306640,True,0.547,0.827,1,-7.422,1,0.0893,0.254,0.0,0.432,0.821,98.504,4,power-pop
+0GFlj8tSc4TMReREuqXkqO,Masked Intruder,M.I.,I Fought the Law,29,151946,False,0.425,0.945,0,-4.866,1,0.0764,0.00161,0.000157,0.23,0.796,199.822,4,power-pop
+25UEMYOAjBNiPpjJ4frzmc,Screeching Weasel,Boogadaboogadaboogada! (2020 Remaster),Dingbat,30,118880,False,0.348,0.972,10,-5.698,1,0.0826,0.0164,0.0,0.366,0.812,138.368,4,power-pop
+369BIbw9KW8R4BljjTkRUW,Teen Idols,Teen Idols,Porno Shop,28,97306,False,0.401,0.977,0,-3.672,1,0.0554,0.000211,0.0,0.758,0.868,157.772,4,power-pop
+4qf7vg5tXAztGb90vzIGUh,The 20 Belows,Wreckage,Wreckage,27,143369,False,0.282,0.926,1,-2.044,0,0.0536,5.72e-05,0.273,0.191,0.531,178.275,4,power-pop
+3h8WjmOJJZot5uLuSIcLzp,Sloan,Between the Bridges,Losing California,30,176795,False,0.576,0.833,4,-5.538,1,0.0295,0.00178,1.25e-05,0.37,0.667,134.287,4,power-pop
+5WOJlrdIBOQ23SeI4Ia3t0,The 20 Belows,For Better Days,The Only Excuse,28,102910,True,0.544,0.96,4,-4.225,1,0.0617,0.00958,0.0,0.403,0.676,104.93,4,power-pop
+65KDWPvhKsspH6hX6GLFi9,The 20 Belows,For Better Days,Double Gin,28,144822,False,0.4,0.988,7,-4.078,1,0.114,0.0385,0.0,0.781,0.653,151.936,4,power-pop
+6p082R9fzGVugAWKXlOq4V,The 20 Belows,Late Nights,The Lakes,29,164623,False,0.44,0.984,7,-3.367,1,0.0835,1.99e-05,0.274,0.106,0.454,135.94,4,power-pop
+2b7GNB8khVfQnM1zzUlf8b,Tsunami Bomb,The Definitive Act,Dawn On A Funeral Day,30,188653,False,0.46,0.947,4,-2.643,0,0.0616,2.81e-05,0.0128,0.0866,0.43,167.92,4,power-pop
+6My1PfmDeYo8jr5c1Bzhjm,Dave Edmunds,From Small Things: The Best Of Dave Edmunds,Slipping Away,29,260826,False,0.583,0.924,2,-8.277,1,0.0314,0.042,0.00531,0.355,0.817,130.335,4,power-pop
+7uykYHCkou98B5r1BNJ15g,The 20 Belows,Late Nights,Microphone,28,162821,False,0.308,0.981,9,-3.267,1,0.0462,4.16e-05,0.0145,0.36,0.707,184.224,4,power-pop
+3XwwD4bmTu66hXzAVIcogf,The Queers,Love Songs For the Retarded,You're Tripping,31,111280,False,0.43,0.962,4,-3.347,1,0.0861,1.09e-05,0.00305,0.304,0.595,146.568,4,power-pop
+2DmEfGC4Ae3rGKB6mE1bcF,Teenage Bottlerocket,Total,Stupid Games,30,147680,False,0.484,0.983,7,-4.358,1,0.142,0.00107,0.0,0.275,0.383,95.488,4,power-pop
+4kBJKzHDMYlocOXDssdqNi,Flamin' Groovies,Groovies Greatest Grooves,Don't Put Me On,31,252346,False,0.631,0.593,5,-11.485,1,0.0444,0.0866,0.122,0.374,0.58,128.47,4,power-pop
+5iO9jmJQ4aHzE32d6yEUcr,Superchunk,On the Mouth (Remastered),Precision Auto,29,166213,False,0.417,0.996,9,-5.197,1,0.116,0.00935,0.0304,0.296,0.281,123.399,4,power-pop
+60NgzbI2jBY1TuTbooGUOM,Masked Intruder,Masked Intruder,25 to Life,28,128706,False,0.559,0.886,2,-5.086,1,0.0394,0.000333,0.000169,0.142,0.762,109.989,4,power-pop
+6sLfxJeJB7wuekjHsZMJY4,The Smithereens,Smithereens 11,Yesterday Girl,29,207266,False,0.654,0.884,8,-8.366,1,0.0299,0.0606,2.49e-06,0.318,0.966,124.869,4,power-pop
+685bKO7yPFcoSgs4JTOUE9,The Queers,Love Songs For the Retarded,Ursula Finally Has Tits,30,146600,False,0.4,0.952,9,-2.998,1,0.0801,0.000127,0.0,0.0787,0.777,141.128,4,power-pop
+6vPWwMHmLCo8IwRHtA9yqG,Off With Their Heads,In Desolation,Drive,31,165573,False,0.529,0.973,0,-4.358,1,0.062,0.00025,0.0379,0.145,0.465,100.018,4,power-pop
+7tbnCDFBygaYTnhY6qyldE,Nerf Herder,American Cheese (Reissue),Mr. Spock,30,209706,False,0.554,0.911,9,-3.29,0,0.0607,0.0302,0.00122,0.0908,0.624,140.055,4,power-pop
+2hllpVVDanlsKNLUscH4PA,Swingin' Utters,A Juvenile Product of the Working Class,The Next in Line,31,220400,False,0.316,0.863,11,-6.17,1,0.097,0.00278,8.5e-05,0.0417,0.557,181.104,4,power-pop
+7z4SmxVFUoMUJ9RjXjXsFA,Alex Chilton,"Free Again: The ""1970"" Sessions",Jumpin' Jack Flash,31,247893,False,0.526,0.97,2,-5.57,1,0.0398,0.000225,6.95e-05,0.0706,0.584,122.091,4,power-pop
+4JexFFm0DJLQ8IodTQ72Yh,Squeeze,Singles - 45's And Under,Up The Junction,30,192693,False,0.519,0.665,9,-8.317,1,0.051,0.48,0.000448,0.099,0.866,120.767,4,power-pop
+6hNjGPE8S1No2Evu4aPLjL,Squeeze,Singles - 45's And Under,Another Nail In My Heart,30,177533,False,0.562,0.741,4,-9.362,1,0.0308,0.214,1.75e-05,0.103,0.85,149.145,4,power-pop
+5X8oinKsFkPHuHvFMPB5MH,The Smithereens,Alternative Christmas 2022,"Rudolph, The Red-Nosed Reindeer",0,184213,False,0.38,0.9,7,-4.233,1,0.0684,0.0226,1.28e-06,0.308,0.744,143.481,4,power-pop
+3ao7thlAYIVPJw3e1u51PE,Cheap Trick,Dream Police,Voices,43,261066,False,0.259,0.55,7,-11.353,1,0.0324,0.368,1.63e-06,0.329,0.64,193.147,4,power-pop
+0moJi7C89oQnsGAVGgiRn1,Nada Surf,Lucky,Beautiful Beat,26,278429,False,0.368,0.822,6,-5.929,1,0.033,0.000148,0.00623,0.129,0.515,200.338,4,power-pop
+429IbFR4yp2J81CeTwF5iY,Jimmy Eat World,Bleed American,Sweetness,68,220026,False,0.487,0.898,5,-4.436,1,0.038,0.00305,0.0,0.26,0.597,135.331,4,power-pop
+5CmGnAY7I7Ggj303HZBbkX,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),I'd Die Babe - Remastered 2010,56,154413,False,0.684,0.669,7,-8.327,1,0.0366,0.00893,0.000252,0.283,0.874,126.802,4,power-pop
+2XKW8CH8nRZH9cF2DNjBHN,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Day After Day - Remastered 2010,59,191053,False,0.399,0.686,5,-7.112,1,0.0311,0.109,0.000874,0.112,0.377,101.806,4,power-pop
+3jw5KrLTxeIzpSvByNsH7F,Twin Peaks,Sweet '17 Singles,Blue Coupe,59,222672,False,0.597,0.864,5,-5.629,1,0.0271,0.261,0.0747,0.0973,0.55,130.079,4,power-pop
+5gWod9YHXBh6cdW8w2lszm,Weezer,SZNZ: Autumn,What Happens After You?,56,199592,False,0.646,0.607,7,-7.671,0,0.0335,0.0127,2.32e-05,0.32,0.536,123.033,4,power-pop
+1P2DGPlGdhQZ1hcVx7qC0N,Royal Headache,High,High,28,133091,False,0.42,0.923,0,-4.521,1,0.0395,0.00139,0.00261,0.108,0.812,127.109,4,power-pop
+5x7Ffxc1Obg13x5IzM1XXV,Weezer,SZNZ: Autumn,What Happens After You?,56,199592,False,0.646,0.607,7,-7.671,0,0.0335,0.0127,2.32e-05,0.32,0.536,123.033,4,power-pop
+08nbKZTgrxdObcdVFVX6W2,Shannon & The Clams,Onion,Did You Love Me,28,212080,False,0.219,0.706,9,-6.931,1,0.0384,0.086,0.922,0.685,0.43,149.775,3,power-pop
+0yqGaBZ0r4av8o40knrpjz,Sunflower Bean,Headful of Sugar,Moment In The Sun - Bonus Track,42,189634,False,0.687,0.632,2,-5.14,1,0.0309,0.0572,0.0,0.257,0.559,115.987,4,power-pop
+6NdcSEhpGGAYXNnnhGS2s6,The Romantics,What I Like About You (And Other Romantic Hits),What I Like About You,64,175400,False,0.542,0.915,9,-9.637,1,0.0549,0.319,5.34e-05,0.171,0.92,159.81,4,power-pop
+6EbkeUGJxhibnOMtX8dNRJ,The Falcon,Unicornography,Unicorn Odyssey,29,159720,False,0.328,0.977,0,-6.219,1,0.145,0.0077,0.0,0.09,0.518,182.384,4,power-pop
+1uwnBpEtKYO883Ro3woXWw,The dB's,Falling Off The Sky,That Time Is Gone,26,212720,False,0.393,0.917,9,-4.456,1,0.125,0.000567,0.000112,0.281,0.664,130.451,4,power-pop
+6qYIz7R35QEQ1ouXV2OooZ,Riverdales,Storm The Streets,Make Way,27,118000,False,0.479,0.972,11,-5.34,1,0.0495,0.00124,3.34e-06,0.535,0.891,186.782,4,power-pop
+0zt8GJzgYpifvQugGDiuTk,Shannon & The Clams,Onion,Love Strike,27,167720,False,0.454,0.842,8,-5.924,1,0.0339,0.0588,0.777,0.81,0.542,124.514,4,power-pop
+0AORZyIRAwcDMfCuo4uVAl,Screeching Weasel,The Awful Disclosures Of Screeching Weasel,All Stitched Up,29,77600,False,0.4,0.914,0,-5.275,0,0.0377,3.15e-05,0.0322,0.0879,0.947,194.954,4,power-pop
+0ASYYaJ8RMrZ7N44KMEJr8,Dinosaur Jr.,Green Mind,Green Mind,28,296733,False,0.398,0.877,1,-10.762,0,0.0495,3.34e-05,0.0,0.354,0.558,134.242,4,power-pop
+5QH1hWHqOFjvggbgI5xb0q,Sloan,One Chord to Another,The Lines You Amend,28,152213,False,0.685,0.862,5,-5.531,1,0.0322,0.0858,1.72e-06,0.174,0.96,126.902,4,power-pop
+2GTMvEjoCKe52M5936CFLO,Old 97's,Graveyard Whistling,Good With God,28,235577,False,0.461,0.957,5,-5.862,0,0.0724,0.000148,4.41e-06,0.116,0.268,129.91,4,power-pop
+32uXfxJERzv4RK1gMLXbOA,Fountains Of Wayne,Fountains of Wayne,Sink to the Bottom,50,192493,False,0.471,0.71,4,-6.418,1,0.0286,0.0142,3.57e-05,0.283,0.809,97.43,4,power-pop
+04LL918sfjXolHQB8evxCV,The Briefs,Hit After Hit,Silver Bullet,28,68000,False,0.332,0.989,9,-4.031,1,0.0921,0.0236,0.0,0.502,0.502,185.696,4,power-pop
+1OvRxi9UEbK2zS6UG1VNQI,Chixdiggit!,Chixdiggit,Henry Rollins Is No Fun,27,74840,False,0.385,0.95,0,-6.177,1,0.0574,0.00451,0.0,0.332,0.748,114.321,4,power-pop
+2buVW5p8JXaDDdb6PzSti7,Groovie Ghoulies,Berry'd Alive,Trick Or Treat,28,92933,False,0.309,0.861,7,-4.558,1,0.0562,0.0041,0.0448,0.279,0.671,153.107,4,power-pop
+7E99aG3oPQslXHHdnKFAmB,Guided By Voices,Alien Lanes,Game Of Pricks,55,93306,False,0.368,0.966,10,-6.984,1,0.073,0.248,0.663,0.529,0.323,122.243,4,power-pop
+0z3ySibZnm5fScys2fMcC7,Jeff Rosenstock,Summer Seven Club,Teenager,28,155028,False,0.354,0.866,5,-4.065,1,0.0821,8.39e-05,0.0156,0.124,0.496,164.95,4,power-pop
+3hnAt0i4wMqZg5VDxRquAQ,Shannon & The Clams,Dreams in the Rat House,Hey Willy,28,159373,False,0.454,0.883,7,-5.278,1,0.122,0.0623,0.000129,0.199,0.743,151.268,4,power-pop
+7INrT9Vjp8TMVzglOyPZyA,Western Addiction,Cognicide,The Church of Black Flag,28,132506,False,0.393,0.802,11,-6.513,1,0.0577,0.000384,0.372,0.0691,0.595,110.36,4,power-pop
+5aNkMeddXkDXbqntUUrTjH,The Nerves,One Way Ticket,Paper Dolls,27,147973,False,0.295,0.955,4,-4.746,1,0.0618,0.0485,0.088,0.191,0.377,174.414,4,power-pop
+3RgUzbBzDYimNWvEbkQPIQ,Tacocat,NVM,Bridge to Hawaii,28,170878,False,0.149,0.879,0,-5.503,1,0.0529,0.0309,0.0,0.204,0.809,175.884,4,power-pop
+2IuMLcC6IIbnhNFooJWOCn,Shannon & The Clams,Onion,It's Gonna Go Away,27,191320,False,0.506,0.74,9,-7.773,0,0.0492,0.36,0.754,0.128,0.781,126.143,4,power-pop
+4bnSmLwLQ5LmowFZtneSMg,The Manges,All Is Well,I Tried to Die Young,27,145069,False,0.44,0.92,0,-3.677,1,0.0472,0.00335,0.0,0.166,0.665,113.816,4,power-pop
+4ZOyVR7xUwi9iVQlUQsAGe,Masked Intruder,M.I.,The Most Beautiful Girl,26,111106,False,0.421,0.985,8,-4.357,1,0.0388,1.89e-05,6.46e-06,0.466,0.7,104.907,4,power-pop
+5oHJE4qCu170sH2ABgr52M,Dillinger Four,C I V I L W A R,A Jingle for the Product,28,227826,False,0.519,0.966,11,-4.452,1,0.203,0.0301,0.0,0.342,0.544,159.985,4,power-pop
+0fb6n0GYhVltgYzw7Wubr8,Groovie Ghoulies,Go! Stories,Ghoulies Are Go!,26,184066,False,0.337,0.887,7,-5.463,1,0.0376,1.62e-05,0.354,0.332,0.66,177.422,4,power-pop
+185XqJBXx9uLvP2UPzBxmM,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Senior Service,28,138066,False,0.798,0.716,5,-12.844,1,0.0637,0.0225,0.000617,0.205,0.916,132.597,4,power-pop
+57h78tTPfMNlb2UHyQggcI,Sloppy Seconds,Destroyed,The Horror of Party Beach,27,130613,False,0.385,0.975,9,-5.845,1,0.0853,0.0114,0.0,0.188,0.618,153.043,4,power-pop
+0QKKI3pKCkSIJnICOWQMvG,Andrew Gold,Classic Rock Masters (Re-Recorded Versions),Lonely Boy - Re-Recorded,27,268000,False,0.573,0.691,9,-4.965,1,0.0322,0.11,0.0,0.0824,0.482,122.906,4,power-pop
+4L2GtbmwFh91qm473u5pOE,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),It's A Shame About Ray - Remastered,26,187040,False,0.645,0.792,9,-8.671,1,0.0304,0.00164,0.000126,0.0799,0.705,131.393,4,power-pop
+0MlXO3L2vRz5bPSsV1pYZo,Teenage Bottlerocket,They Came From The Shadows,Not Ok,29,197560,False,0.326,0.989,0,-3.403,1,0.115,1.34e-05,0.0,0.104,0.695,198.032,4,power-pop
+05kLpvpugneGj8jqoQcQSK,Tsunami Bomb,The Ultimate Escape,Russian Roulette,27,151346,False,0.635,0.86,5,-4.188,0,0.0409,0.017,0.0548,0.0941,0.717,121.459,4,power-pop
+0EKkqQapgIe6R32RwM70od,The Lawrence Arms,Metropole (Deluxe Edition),You Are Here,29,164306,False,0.471,0.965,4,-6.176,0,0.0475,0.000362,0.00779,0.129,0.643,101.696,4,power-pop
+7mPFw2uKoAPsC6ykTbYHLz,Swingin' Utters,"Here, Under Protest",Brand New Lungs,29,163800,False,0.505,0.902,9,-4.965,0,0.0322,0.000103,0.0,0.0658,0.706,104.961,4,power-pop
+0etELaqj8pGviRsaaDOQHx,Dwarves,Come Clean,Better Be Woman,28,155066,False,0.536,0.946,9,-3.994,1,0.0441,0.00649,0.0,0.12,0.747,99.088,4,power-pop
+3faYvQmW73Gd61w9T4l3MU,Dwarves,The Dwarves Are Young and Good Looking,One Time Only,29,90093,True,0.384,0.951,7,-5.121,1,0.0686,0.000445,0.0,0.208,0.443,134.668,4,power-pop
+06MQns7Bz5uVJ1AIj2SgEc,Hoodoo Gurus,Stoneage Romeos,(Let's All) Turn On - Remaster 2005,28,184746,False,0.417,0.941,4,-3.325,1,0.0555,0.000938,8.61e-05,0.485,0.414,114.952,4,power-pop
+6Mp9HT5VbhliOB0nizJw8c,Guadalcanal Diary,Flip-Flop,Always Saturday,26,254600,False,0.477,0.491,9,-15.01,1,0.0417,0.0476,2.71e-06,0.0677,0.68,130.706,4,power-pop
+6uZ93RzCZIB84Rlf7DIH9v,Dwarves,The Dwarves Are Young and Good Looking,The Crucifixion Is Now,30,71466,True,0.357,0.975,7,-5.389,1,0.0634,0.0114,0.0,0.119,0.112,122.281,4,power-pop
+600JcNvc6TpOej7DXOIDk7,The Lemonheads,Come On Feel The Lemonheads,Style,26,143706,False,0.373,0.866,0,-10.858,1,0.0541,0.000216,0.000232,0.0967,0.497,168.235,4,power-pop
+0hyHlv8GgTPJIx8vn2QxwC,Marshall Crenshaw,Classic USA Pop,Mary Anne - Remastered,27,175266,False,0.663,0.94,0,-7.174,1,0.0533,0.0821,0.00364,0.125,0.658,120.799,4,power-pop
+5fiH8RdAqIR6bSokyYRn2d,Andrew Gold;DMA ILLAN,Spooky Scary Skeletons (DMA ILLAN Trap Remix),"Spooky, Scary Skeletons - DMA ILLAN Remix",50,160560,False,0.689,0.937,7,-4.389,1,0.0889,0.0208,0.0519,0.0687,0.835,77.045,4,power-pop
+6qQGxKyy6LcyZVsWn93lyS,Weezer,Pinkerton,Pink Triangle,58,238600,False,0.282,0.894,6,-4.834,1,0.0822,0.0118,0.0,0.347,0.466,118.809,4,power-pop
+3DkHNCA4QRBQgTzF2T18hm,Weezer,Weezer,Only In Dreams,57,479066,False,0.507,0.535,1,-9.051,1,0.0261,0.00215,0.495,0.111,0.403,78.049,4,power-pop
+5Ozv6hQIj20iX3nFfJCe8E,The Cowsills,The Cowsills,The Rain The Park And Other Things,57,184240,False,0.376,0.662,11,-8.771,1,0.0404,0.809,0.00131,0.683,0.691,131.582,4,power-pop
+5QIbR39hAEDIOkr4ggh4xc,Blondie,Eat To The Beat,Atomic,58,280324,False,0.596,0.824,4,-4.893,0,0.0361,0.0504,0.129,0.0586,0.786,135.171,4,power-pop
+7usbSmFna598CdvpZiHWlq,Tony Molina,Dissed and Dismissed,Change My Ways,27,72339,False,0.233,0.818,2,-10.238,1,0.0375,0.215,0.0689,0.296,0.76,164.429,4,power-pop
+4f3g4NIJMywPIeTY74wh9b,The Copyrights,Alone in a Dome,Halos,26,94450,False,0.406,0.986,4,-2.69,1,0.0978,0.00051,2.13e-05,0.351,0.589,193.954,4,power-pop
+2RWCmhT0erG8A9S19EXWq0,Tony Molina,Dissed and Dismissed,Nowhere to Go,27,48325,False,0.182,0.725,5,-8.504,1,0.0356,0.205,1.04e-06,0.302,0.778,143.151,4,power-pop
+228ZhwXbX1nzXDlRHwJoDk,ShitKid,This Is It,High Way,26,166624,False,0.602,0.935,5,-0.971,1,0.0412,0.000803,0.079,0.722,0.187,130.221,4,power-pop
+7dNsG3ixofzQIQW9BjWg26,Dead To Me,Cuban Ballerina,Visiting Day,28,79680,False,0.561,0.93,1,-6.82,0,0.161,0.00145,2.63e-06,0.313,0.372,123.508,4,power-pop
+7t1UzsIKRBXXVdwJRIaDxn,Nerf Herder,Slay,Slay,26,154588,False,0.493,0.95,4,-4.526,0,0.0516,0.0436,3.12e-05,0.14,0.237,97.947,4,power-pop
+2WhDg8UWljoAl8oNh8uZbJ,Jimmy Eat World,Futures (Deluxe Edition),Pain,64,181306,False,0.395,0.955,0,-3.352,0,0.12,0.0176,0.0,0.585,0.283,168.005,4,power-pop
+7yrTSn5vgSweMMifvK7q6S,The Outfield,Rock Clássico,Your Love,26,214133,False,0.592,0.71,1,-9.376,0,0.0542,0.145,2.04e-06,0.0795,0.624,129.896,4,power-pop
+04lYv7Y2Vd8ns6LCshS8EB,Night Birds,Roll Credits,My Dad Is the B.T.K.,28,142022,False,0.52,0.951,11,-5.118,0,0.0554,0.00141,0.00506,0.199,0.704,108.086,4,power-pop
+5RzSQ1wMRb4BfOYG9KQ2Me,The Mr. T Experience,Our Bodies Our Selves,More Than Toast,25,177171,False,0.501,0.96,0,-4.747,1,0.0709,0.0467,0.000503,0.195,0.582,99.917,4,power-pop
+0smShzCjTNpnsRfmNaEj6c,that dog.,Totally Crushed Out,He's Kissing Christian,25,208066,False,0.553,0.93,4,-7.309,1,0.0816,0.000574,0.0196,0.148,0.442,129.845,4,power-pop
+6zVhXpiYbJhLJWmLGV9k1r,Weezer,OK Human,All My Favorite Songs,52,202703,False,0.384,0.628,1,-8.018,0,0.031,0.126,9.93e-06,0.314,0.394,161.438,4,power-pop
+0F2soqePchJnmT2GFM0tpU,Nobodys,The Smell Of Victory,A Girl Like You,26,96360,False,0.24,0.895,7,-6.745,1,0.0639,7.08e-05,0.825,0.183,0.738,174.786,4,power-pop
+2RUymZBJ1PUDPIB7KkW3F2,Giuda,Lets Do It Again,Wild Tiger Woman,26,213446,False,0.531,0.829,5,-3.642,0,0.124,0.03,0.000531,0.0774,0.847,165.841,4,power-pop
+0CcFWS26kaNNOQ2CyuHsBf,Banner Pilot,Heart Beats Pacific,Forty Degrees,28,134693,False,0.486,0.991,0,-2.677,1,0.0617,1e-05,0.252,0.322,0.505,102.353,4,power-pop
+56FNy1crkdeoOhhxH3yWJk,Direct Hit!,Crown of Nothing,Welcome to Heaven,25,248044,False,0.352,0.859,1,-6.187,1,0.042,0.00143,0.0985,0.0735,0.358,169.833,3,power-pop
+4fDuudoAsQf9lqCCRQz4N9,Western Addiction,Cognicide,Charged Words,27,92560,False,0.442,0.932,5,-6.397,0,0.0568,0.000376,0.0117,0.585,0.796,107.079,4,power-pop
+7fT3ZFYttlbQDWrx9UPw5h,Shannon & The Clams,Sleep Talk,Baby Don't Do It,26,161933,False,0.518,0.645,11,-5.973,1,0.064,0.591,0.0,0.0671,0.673,132.93,4,power-pop
+5azdR0MZxdZjGtb6tFLEav,White Reaper,The World's Best American Band,The Stack,26,165523,False,0.589,0.946,1,-2.249,1,0.0347,0.146,0.0,0.105,0.622,135.019,4,power-pop
+7CYrVoeNQ1N6JnZkckmW1q,The Marked Men,Fix My Brain,"Wait Here, Wait for You",26,119480,False,0.241,0.972,0,-3.392,1,0.0663,0.00613,0.518,0.333,0.504,192.013,4,power-pop
+2Dw37zWsi4HPkvjWnMnMXB,Los Crudos,Discografía,Las Madres Lloran,28,39880,False,0.263,0.843,2,-6.405,0,0.061,1.95e-06,0.751,0.147,0.97,145.422,4,power-pop
+0wpJR7m3gGrywZbmG20Oai,Barreracudas,Can Do Easy,Promises,25,182013,False,0.324,0.936,10,-5.967,1,0.129,0.0185,0.000224,0.0782,0.899,164.402,4,power-pop
+50boDUJ7PKWc0XC85915Od,The Manges,Go Down,Vengeance Is Mine,25,120826,False,0.351,0.9,11,-2.788,1,0.131,0.00732,0.000144,0.0658,0.899,187.068,4,power-pop
+3n5tgT9Q5uAn4vw5xvp9Nw,Shannon & The Clams,Year Of The Spider,"Mary, Don’t Go",26,173893,False,0.541,0.842,0,-3.479,1,0.0436,0.145,3.05e-05,0.135,0.747,120.987,4,power-pop
+3NdZOLiujwW06QYApQqQoh,The Lemonheads,It's A Shame About Ray (Expanded Edition),My Drug Buddy - Demo Version,26,166786,False,0.594,0.207,2,-14.937,1,0.0335,0.862,0.0346,0.208,0.288,136.911,4,power-pop
+68g3xsAjcdPGyKfKj7QG5d,The Bombpops,Fear of Missing Out,F.O.M.O.,26,162853,False,0.447,0.972,2,-5.133,1,0.075,5.53e-05,0.0,0.192,0.613,196.978,4,power-pop
+48cDp6sgNIuIHrxtuhDRrg,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Rudderless - Remastered,25,199506,False,0.548,0.928,9,-7.407,1,0.0486,0.026,0.0,0.444,0.677,136.151,4,power-pop
+1KN65AWTSIN6koeLdwYEbg,Screeching Weasel,My Brain Hurts,What We Hate,27,146266,False,0.352,0.989,0,-3.017,1,0.084,0.136,2.01e-06,0.531,0.488,136.964,4,power-pop
+5mJXpSeA67IBHEnLeCxCEN,Mean Jeans,Are You Serious?,Steve Don't Party No More,26,103946,False,0.363,0.919,4,-4.094,1,0.0631,0.000209,0.726,0.626,0.692,106.501,4,power-pop
+1it35zRmbKV7odS7SIwaM9,Teen Idols,Teen Idols,When I Hear Your Name,26,90266,False,0.419,0.968,9,-4.225,1,0.043,0.000131,0.000399,0.315,0.832,151.684,4,power-pop
+2t6vIo7av9Jygj24ARHfjM,Tsunami Bomb,The Ultimate Escape,20 Going On...,26,244426,False,0.584,0.756,0,-5.2,1,0.0411,0.00187,0.000177,0.164,0.411,115.842,4,power-pop
+31mUSL7eFtWvKnESHbUph1,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Rockin' Stroll - Remastered,25,106760,False,0.461,0.944,2,-7.26,1,0.0491,0.000706,0.0,0.117,0.773,116.321,4,power-pop
+71E24h4qj6rSfq9g4qmBqs,The 20 Belows,Late Nights,Perfectly Content,24,117629,False,0.363,0.954,6,-2.641,1,0.0588,6.11e-05,0.264,0.125,0.678,151.845,4,power-pop
+2NEeO8TLqtks9M7kaKRikJ,Hoodoo Gurus,Kinky,A Place In The Sun - 2005 Remaster,26,223253,False,0.408,0.929,7,-3.653,1,0.03,0.00238,0.0187,0.344,0.693,165.233,4,power-pop
+0QX6fXsSyQflGxRWhwRiAy,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Confetti - Remastered,25,164746,False,0.571,0.934,2,-7.016,1,0.0898,0.000661,1.14e-06,0.105,0.474,120.728,4,power-pop
+3QC8SkNKVI278HWa53zE2a,Bob Mould,Black Sheets Of Rain,It's Too Late,25,243733,False,0.521,0.88,4,-11.238,1,0.0448,0.136,4.88e-05,0.346,0.482,127.932,4,power-pop
+2o8qIKie0LrWnWka2QtLzY,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),My Drug Buddy - Remastered,25,171533,False,0.58,0.388,10,-10.189,1,0.0257,0.189,0.000188,0.219,0.282,146.541,4,power-pop
+7d1nPsb5AFrmqn4IKoj9DG,Teenage Bottlerocket,Warning Device,In the Basement,27,116400,False,0.536,0.986,0,-2.862,1,0.0403,0.000409,0.00466,0.276,0.745,102.968,4,power-pop
+58JTq1B8lzpqAt9Dh8rDGk,Hoodoo Gurus,Stoneage Romeos,Dig It Up - Remaster 2005,25,214520,False,0.498,0.971,4,-1.99,1,0.0469,0.0779,5.13e-05,0.286,0.68,107.522,4,power-pop
+65kSCCFGF57JuPKAxyMlKT,Weezer,Die Eiskönigin 2 (Deutscher Original Film-Soundtrack/Deluxe Edition),Lost in the Woods - Weezer Version,26,182906,False,0.326,0.605,8,-5.744,1,0.0248,0.198,0.0,0.0991,0.341,151.345,4,power-pop
+4g5Xzds1GLR8yvuGUGTmwF,Off With Their Heads,Be Good,Be Good,27,212506,False,0.468,0.951,4,-5.185,1,0.0843,0.00269,0.0847,0.269,0.241,144.896,4,power-pop
+7Lr1KhYWnrGQGLH3jFq1CI,The Lemonheads,Come On Feel The Lemonheads,Paid To Smile,26,180399,False,0.613,0.577,7,-13.689,1,0.0276,0.0275,0.000917,0.0463,0.694,121.225,4,power-pop
+2nIdwh499z1vWpzNy7IeGP,Hoodoo Gurus,In Blue Cave,Night Must Fall - Remaster 2005,26,346666,False,0.524,0.845,11,-7.585,0,0.177,0.0761,0.289,0.721,0.233,151.433,4,power-pop
+6JDbQMoHuwu6iQgbX3ouTw,The Lillingtons,Death By Television,Murder On My Mind,27,123506,False,0.434,0.933,1,-5.095,0,0.0321,4.07e-05,0.808,0.331,0.764,125.228,4,power-pop
+2pvGHaskdT2ZrKlXCVr03g,Elvis Costello,Spike,Tramp the Dirt Down,27,341333,False,0.403,0.272,7,-9.955,1,0.03,0.485,0.0,0.326,0.302,143.598,3,power-pop
+3KxOYNt66Hj42HzO7ao0CV,Weezer,Weezer (Teal Album),Happy Together,51,145640,False,0.444,0.943,6,-3.724,0,0.104,0.171,6.59e-06,0.297,0.411,125.896,4,power-pop
+1ZB2qWsheGabSEYvBYxjKn,Weezer,Weezer (Teal Album),Take on Me,55,223560,False,0.441,0.762,8,-3.857,1,0.0438,0.00568,3.31e-05,0.0865,0.743,167.964,4,power-pop
+7kQNr3s3LJtQEJJQjN1oKy,Weezer,Blue/Green/Red,Undone - The Sweater Song,25,305506,False,0.448,0.622,6,-6.677,1,0.0299,0.00115,0.0026,0.0672,0.537,80.194,4,power-pop
+61JLiusPv1z3VOn3MMPj50,Falconshield,Legends of the Rift,My Spring Your Fall,45,250920,False,0.479,0.84,11,-8.795,0,0.0504,0.0497,3.23e-05,0.109,0.242,159.957,4,power-pop
+669cOBjpY4Y5O98Nmk6139,Cheap Trick,The Essential Cheap Trick,Surrender,56,253826,False,0.524,0.953,0,-7.097,1,0.0416,0.00757,5.02e-06,0.771,0.869,133.828,4,power-pop
+2UJZ9VmOZBBIroB1KifAFL,Dead To Me,Little Brother,Don't Wanna,25,156293,False,0.206,0.897,1,-6.695,0,0.0606,3.55e-05,0.000634,0.138,0.522,186.521,4,power-pop
+5wZK0hHduZpjWWoT0rq9p4,Jimmy Eat World,Something Loud,Something Loud,57,196618,False,0.375,0.899,2,-2.667,1,0.0478,0.00151,0.0,0.357,0.497,151.932,4,power-pop
+2R7qip8VANCHLVYsov9zbT,Tony Molina,In the Fade,Leave This Town,26,110462,False,0.348,0.21,1,-11.837,1,0.033,0.018,0.48,0.136,0.218,76.13,4,power-pop
+1viX5zE30hdynvdTI9pP3A,Ex Hex,It's Real,Rainbow Shiner,25,215373,False,0.591,0.723,4,-4.591,1,0.0258,0.034,0.000111,0.278,0.642,94.977,4,power-pop
+0tBTnrMcc91qKP9dHqhsS7,Joe Jackson,Night And Day,Steppin' Out,58,262866,False,0.584,0.474,11,-9.431,1,0.0296,0.0366,0.000363,0.0518,0.651,160.173,4,power-pop
+0uvIZmM4QbKrIBWcCTaBNe,The Cowboys,Volume 4,I Feel Therefore I Am,25,161974,False,0.42,0.916,10,-5.994,0,0.042,0.000252,0.692,0.251,0.739,131.74,4,power-pop
+2JaH53lfEHvrHRE8JWSjN3,White Reaper,You Deserve Love,Ring,26,137746,False,0.464,0.791,6,-4.34,1,0.0497,1.21e-05,0.244,0.102,0.7,131.056,4,power-pop
+15RXL05X13S8iZaQ9LPKOj,Badfinger,Magic Christian Music (Remastered 2010 / Deluxe Edition),Maybe Tomorrow - Remastered 2010,46,180600,False,0.363,0.397,9,-10.053,1,0.0398,0.585,0.0,0.0983,0.23,81.192,4,power-pop
+13no7E4dn8VAjVTqWF0u7O,White Reaper,White Reaper Does It Again,Last 4th of July,25,81199,False,0.333,0.902,11,-4.831,1,0.0459,7.3e-05,0.000792,0.143,0.782,154.889,4,power-pop
+0M3rVS2aYMDiobszBYRmVh,Shannon & The Clams,Year Of The Spider,Crawl,26,139133,False,0.576,0.645,9,-4.608,0,0.0287,0.234,0.0,0.112,0.767,111.525,3,power-pop
+4qfj7D3fL7Q8x2vnCpfMrN,Shannon & The Clams,Dreams in the Rat House,Into a Dream,25,176346,False,0.308,0.771,11,-6.873,1,0.039,0.0679,0.00182,0.118,0.772,140.334,4,power-pop
+4rCpobCxlVAm5KbDyxpJim,Groovie Ghoulies,Monster Club,Deviltown,24,54226,True,0.489,0.859,7,-5.463,1,0.0413,0.000179,1.16e-06,0.228,0.542,92.84,4,power-pop
+0goYWUDOZqWc8ZKMUJc24O,Dinosaur Jr.,Green Mind,Water,27,338400,False,0.301,0.878,7,-11.579,1,0.0938,0.00481,0.000663,0.117,0.481,137.558,4,power-pop
+5uiQsj5aTREYHt8hu8fEla,The Posies,Dream All Day: The Best Of The Posies,Dream All Day,23,184466,False,0.481,0.934,11,-5.749,0,0.0731,0.000223,0.0,0.0596,0.435,125.844,4,power-pop
+700PKIY07tMUJjSb2stekx,The Falcon,Gather Up The Chaps,Hasselhoff Cheeseburger,26,125801,False,0.52,0.903,1,-6.719,0,0.109,0.000584,0.0559,0.0831,0.447,105.15,4,power-pop
+2NZK1eJ7ujlKjYVAsOa4lw,The Cars,The Cars (Deluxe Edition),Good Times Roll,27,225853,False,0.607,0.662,4,-9.456,1,0.0278,0.0951,8.27e-05,0.125,0.629,107.643,4,power-pop
+3abcbNKEuj8356QQr1CPZs,Hoodoo Gurus,Stoneage Romeos,Zanzibar - Remaster 2005,25,205373,False,0.535,0.769,4,-3.233,0,0.0262,0.27,0.00103,0.22,0.667,108.711,4,power-pop
+2D3aYQHQXj6KAs6VIiwJLv,Old 97's,"The Grand Theatre, Vol. 1",A State of Texas,25,177880,False,0.345,0.974,2,-4.687,1,0.0702,1.14e-05,1.91e-05,0.393,0.646,139.427,4,power-pop
+4UAA90EcCF2AdBcvA9z0l9,Smoking Popes,Destination Failure,I Know You Love Me,25,196000,False,0.454,0.818,6,-5.472,1,0.0349,0.00334,1.36e-05,0.301,0.523,139.321,4,power-pop
+2tDcQzjl8q3qwsYFc3bCwa,Elvis Costello & The Attractions,Taking Liberties,Girls Talk,25,116266,False,0.588,0.513,2,-17.406,1,0.033,0.318,0.0,0.168,0.965,136.314,4,power-pop
+1J8PgePsTmVm3TAuYnblw6,Blondie,Eat To The Beat,Slow Motion,25,208977,False,0.514,0.884,7,-4.283,1,0.0378,0.0236,0.0,0.282,0.809,138.31,4,power-pop
+1pdDiwTCPxoE3MkoYoagL7,The Jayhawks,Smile (Expanded Edition),Smile,25,229640,False,0.423,0.435,0,-10.028,1,0.0275,0.00857,0.0,0.0932,0.24,75.348,4,power-pop
+1WyC8eDMSAss5aoqtlLCIq,Dwarves,"Blood, Guts & Pussy",Detention Girl,25,93933,False,0.254,0.967,9,-5.3,0,0.109,1.29e-05,0.892,0.0621,0.688,117.84,4,power-pop
+0B364GBiXZXYMPJqnqKE6M,Tsunami Bomb,Trust No One,...Not Forever,25,180146,False,0.363,0.95,9,-4.884,0,0.097,0.00127,2.8e-06,0.0887,0.318,153.326,4,power-pop
+4CaA8y2biBaumzlfL2LWGF,Tsunami Bomb,The Definitive Act,Being Alright,25,183533,False,0.554,0.98,6,-2.332,0,0.0478,3.92e-06,6.8e-05,0.158,0.79,125.878,4,power-pop
+5xOumQd5RhbKhXSWOgj7zC,Jason & The Scorchers,A Blazing Grace,"Take Me Home, Country Roads",25,192826,False,0.305,0.901,2,-10.521,1,0.0867,0.00317,4.96e-06,0.0521,0.173,137.405,4,power-pop
+4XQiVpepPeoq9KYt4Pv15B,Dave Edmunds,Twangin...,The Race is On,25,126173,False,0.476,0.797,1,-12.034,0,0.0453,0.45,0.000566,0.221,0.831,171.605,4,power-pop
+0MAM2oW5WSw0bFXtpr7efI,Redd Kross,Third Eye,Annie's Gone - Remastered Version,25,216866,False,0.586,0.71,7,-10.999,1,0.0437,0.000268,0.0253,0.1,0.909,149.27,4,power-pop
+79SKP05U8m18ERyXnXSElZ,The Cars,Candy-O (Expanded Edition),Candy-O - 2016 Remaster,27,156093,False,0.576,0.882,9,-8.384,1,0.031,0.00541,0.0292,0.3,0.845,123.852,4,power-pop
+2MU7xkcmcAt74almO7ulvD,Swingin' Utters,Peace and Love,"Undertaker, Undertake",27,117044,False,0.487,0.999,5,-3.34,1,0.164,4.86e-06,0.0281,0.371,0.119,101.515,4,power-pop
+0sk1XKozzvSVQW7ZU6AAW1,Sloan,Navy Blues,She Says What She Means,24,181880,False,0.395,0.912,9,-4.983,1,0.0967,0.00279,2.11e-06,0.125,0.622,123.271,4,power-pop
+1gkhXnZAFfaHB78oV8pDXV,The New Pornographers,Electric Version,From Blown Speakers,26,169200,False,0.449,0.861,0,-3.919,1,0.0362,0.177,3.75e-06,0.127,0.693,170.065,4,power-pop
+5zxp37YfQ781NJOVCbJq3J,The Queers,Punk Rock Confidential,Tamara Is A Punk,26,123666,False,0.529,0.93,7,-3.798,1,0.0364,0.00226,0.0275,0.406,0.957,108.798,4,power-pop
+2HVIfgb2kooROnL3H8Wefe,Dillinger Four,C I V I L W A R,Minimum Wage Is a Gateway Drug,27,141706,False,0.365,0.973,2,-3.446,1,0.0876,0.0396,0.503,0.689,0.457,179.839,4,power-pop
+63HcBFCbrEpxOUbslNtBxL,Joe Jackson,Jumpin' Jive (Remastered 1999),Jumpin' With Symphony Sid,27,164466,False,0.67,0.634,1,-6.25,1,0.0407,0.422,0.000474,0.395,0.853,119.308,4,power-pop
+4rfoxdyoyZc9Es4TitEpMr,Blondie,Blondie 4(0)-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download,Rapture - Rerecorded 2014 Version,25,333505,False,0.691,0.862,11,-4.521,0,0.0395,0.331,0.00317,0.0847,0.909,107.343,4,power-pop
+467O1AN0r6BWP0odJmkowL,Screeching Weasel,Boogadaboogadaboogada! (2020 Remaster),I Wanna Be Naked,26,104586,False,0.312,0.859,9,-5.519,1,0.0709,0.00073,0.0176,0.0964,0.883,141.664,4,power-pop
+4yI1wZFvbyNE26RRV4oVVD,Dave Edmunds,Rockpile,King of Love,25,191320,False,0.388,0.831,4,-8.686,1,0.055,0.16,0.0,0.156,0.8,173.636,4,power-pop
+19CyQN564BDNwZ0lOyJDjp,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Two Little Hitlers,26,193373,False,0.685,0.497,9,-13.232,1,0.0516,0.0396,0.0,0.0622,0.781,114.425,4,power-pop
+1bO9AXIlBcoNnHLjDoBBNT,Squeeze,Greatest Hits,Up The Junction,25,189866,False,0.504,0.59,9,-11.792,1,0.0597,0.327,0.00306,0.109,0.91,121.812,4,power-pop
+5RNjs0ue5fBDLRmS1OCZcW,Teenage Bottlerocket,They Came From The Shadows,They Came from the Shadows,25,136760,False,0.44,0.994,6,-2.938,0,0.0736,6.97e-06,0.0518,0.0744,0.611,102.982,4,power-pop
+1KyyWmXr1jKcvpDcuLXYbF,Masked Intruder,Masked Intruder,Wish You Were Mine,25,179080,False,0.413,0.769,11,-5.66,0,0.0415,0.0012,2.95e-05,0.26,0.439,171.941,4,power-pop
+3N0RC9rz0RVz20lQgAJiqq,Off With Their Heads,In Desolation,Their Own Medicine,25,150906,False,0.376,0.995,0,-4.236,1,0.14,0.000487,0.0,0.345,0.459,202.721,4,power-pop
+3va040I74nnmPEFFbLjoMJ,The Lemonheads,Come On Feel The Lemonheads,Dawn Can't Decide,25,143293,False,0.42,0.875,2,-10.59,1,0.0505,0.0358,0.0,0.379,0.497,135.349,4,power-pop
+38Rb6IvrT8IuxTptjjA5rP,Squeeze,Singles - 45's And Under,If I Didn't Love You,25,253106,False,0.657,0.64,7,-10.848,1,0.0282,0.379,0.000842,0.283,0.626,122.374,4,power-pop
+64TGtWC8WLzVt7PamUo9EO,Elvis Costello,Notting Hill,She,47,186466,False,0.335,0.328,1,-10.164,1,0.0312,0.542,3.48e-05,0.117,0.223,131.163,4,power-pop
+11PUdjgVfGEZLG9zs9UeTp,Fountains Of Wayne,Welcome Interstate Managers,Hackensack,47,180093,False,0.675,0.52,3,-9.515,1,0.0317,0.543,0.000256,0.0965,0.701,117.008,4,power-pop
+4v2rkl1mC3zVAz0nXMx9r4,Blondie,Parallel Lines,Heart Of Glass,64,229423,False,0.77,0.654,4,-6.108,1,0.0361,0.0539,0.00047,0.0819,0.685,114.82,4,power-pop
+29f4cPjqBi9n5lS8XQlKa3,Jimmy Eat World,Place Your Debts,Place Your Debts,38,310380,False,0.344,0.458,7,-6.649,1,0.0285,0.00343,0.158,0.0747,0.0647,87.959,4,power-pop
+0D6qZlc6vNR7PDW2RKGPsV,Blondie,Autoamerican,Rapture - Remastered 2001,49,391426,False,0.7,0.845,2,-5.69,1,0.0331,0.403,0.000586,0.34,0.81,107.523,4,power-pop
+1D7UBHqaPWDbBHs2S5YXge,Weezer,Make Believe,Perfect Situation,55,254333,False,0.47,0.806,6,-4.1,1,0.0328,0.0271,0.000142,0.2,0.403,93.853,4,power-pop
+5txH6topQylTHnb4lZMdQ1,Weezer,Weezer,Pork And Beans,52,189400,False,0.599,0.626,6,-6.622,1,0.0339,0.0108,8.8e-06,0.158,0.708,119.837,4,power-pop
+7zz7iNGIWhmfFE7zlXkMma,The Posies,Amazing Disgrace,Grant Hart,22,144973,False,0.263,0.957,4,-6.887,1,0.0897,2.29e-05,0.0063,0.378,0.204,172.932,4,power-pop
+6mBoE4SeqM0zYBKFvPB5Pd,XTC,Nonsuch,Then She Appeared - 2001 Remaster,47,231706,False,0.522,0.72,2,-6.204,1,0.0266,0.184,4.06e-06,0.748,0.601,105.566,4,power-pop
+0aBiwUsKI4buvP29xsacIm,Blondie,Essential,Heart Of Glass - Remix,24,251653,False,0.726,0.688,4,-8.123,1,0.0325,0.00116,0.0857,0.12,0.451,114.698,4,power-pop
+5XJ1J9QPxaOzdpkGxKU4lA,Blondie,Parallel Lines (Remastered),Heart Of Glass [24-Bit Digitally Remastered 01],55,350240,False,0.662,0.633,9,-7.793,1,0.0433,0.0078,0.0233,0.0689,0.657,115.007,4,power-pop
+6YyfkLDAV3On5pozPKlp0C,Nobodys,Hussy,Know It All,23,100053,True,0.431,0.993,2,-3.491,1,0.149,0.000895,0.000885,0.174,0.33,166.236,4,power-pop
+3j986eQulpLZKpX7kLzGu1,Shannon & The Clams,Mama,Mama,25,170813,False,0.354,0.62,4,-5.898,1,0.0302,0.0424,0.0,0.225,0.528,136.82,4,power-pop
+22QRsnGR9m9fLv3czhFE0v,The Muffs,Happy Birthday To Me,Crush Me,24,108360,False,0.495,0.964,5,-3.755,1,0.0586,0.000128,0.0,0.251,0.488,116.782,4,power-pop
+0MIBP8AL52wEm4pevVgPZI,Banner Pilot,Heart Beats Pacific,Intervention,25,223133,True,0.59,0.992,0,-3.334,1,0.0809,0.000137,0.46,0.495,0.211,96.429,4,power-pop
+6zV7pFGeNk2dAm5Huj5wwu,Shannon & The Clams,Onion,Tryin',24,237680,False,0.213,0.762,9,-5.402,1,0.0424,0.236,0.179,0.331,0.674,166.454,3,power-pop
+09iS7q6Q5PXufKNtAr6MJf,Robyn Hitchcock & The Egyptians,Greatest Hits,Balloon Man,23,213533,False,0.527,0.815,7,-7.583,1,0.0612,0.0104,0.00399,0.0982,0.961,175.075,4,power-pop
+0aQZRGfC66TyUKCzdpVnYF,Miracle Legion,Surprise Surprise Surprise,Mr Mingo,23,199146,False,0.36,0.809,0,-7.637,1,0.04,0.119,0.0229,0.273,0.647,151.781,4,power-pop
+4FSPVh8N8QSPWLKaxoCH61,The Dollyrots,I Know How to Party,I Know How to Party,23,170853,False,0.541,0.854,1,-5.237,1,0.0454,0.00186,7.31e-06,0.371,0.899,158.073,4,power-pop
+72rGGvwLxICnDMK4EpyDsv,Nikki and the Corvettes,Nikki and the Corvettes,Let's Go,22,74333,False,0.596,0.763,3,-6.71,1,0.0419,6.49e-05,0.0,0.0427,0.93,111.981,4,power-pop
+6SwL2vB9y90bkazMNTfe0m,The Lawrence Arms,Skeleton Coast,Pigeons and Spies,26,151076,True,0.584,0.887,1,-6.449,0,0.0453,0.0196,0.00179,0.36,0.719,108.968,4,power-pop
+3TtILP6ufeAsUQ6eH41ILA,Dinosaur Jr.,Dinosaur,Repulsion,26,184640,False,0.379,0.967,11,-3.953,0,0.0821,0.000347,0.00678,0.0688,0.798,145.744,4,power-pop
+61pf2kwW6jwFcIaF4nA01w,The Cars,The Cars (Deluxe Edition),Moving in Stereo,26,286106,False,0.718,0.543,4,-11.238,1,0.0372,0.0606,0.0988,0.0646,0.37,115.522,4,power-pop
+4DyrcSV3fWTF6ENIgKBCxP,Sloppy Seconds,Destroyed,Come Back Traci,24,125546,True,0.476,0.919,11,-6.178,1,0.0661,0.0021,1.02e-05,0.0345,0.827,103.585,4,power-pop
+6XR39r2QaqGKEt11aO2rEy,Graham Parker & The Rumour,Howlin' Wind,White Honey,24,214480,False,0.702,0.668,0,-12.467,1,0.0302,0.294,0.000939,0.15,0.927,137.673,4,power-pop
+7j9llDlHEFEfwZBv3864ji,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),The Turnpike Down - Remastered,24,153986,False,0.52,0.871,7,-8.993,1,0.0326,0.012,2.05e-06,0.1,0.752,158.338,4,power-pop
+3LTd8XKx4Qfyl0KSTuvscH,Matthew Sweet,Blue Sky On Mars,Where You Get Love,23,215040,False,0.539,0.824,4,-7.648,1,0.0339,0.0016,0.000188,0.128,0.849,108.223,4,power-pop
+4TeFiXTZZwL5jKysSkCTsl,XTC,Mummer,Love On A Farmboy's Wages - 2001 Remaster,26,238466,False,0.686,0.667,4,-7.414,1,0.029,0.524,0.0258,0.128,0.492,120.66,4,power-pop
+6CZ9Kca2A2fOjaR3uCTVCl,Jason & The Scorchers,Fervor / Lost & Found,Lost Highway,23,121413,False,0.332,0.981,9,-3.66,1,0.178,0.00117,0.0108,0.345,0.454,171.221,4,power-pop
+4Q5zDXQbEI8iAvMHChy7Vh,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Bit Part - Remastered,24,111013,False,0.349,0.704,4,-8.472,0,0.13,0.00118,0.00013,0.0604,0.858,187.832,4,power-pop
+4FJgUAD56nOwhbEuzjChn6,Elvis Costello & The Attractions,Get Happy,Love For Tender,25,117413,False,0.633,0.77,9,-7.508,1,0.031,0.0395,0.0,0.231,0.686,109.728,4,power-pop
+0zvQqkCAQyYj1cgVVgociJ,The Only Ones,The Only Ones,City Of Fun - 2008 re-mastered version,24,210906,False,0.226,0.887,2,-6.751,1,0.0411,4.15e-05,0.000435,0.699,0.561,184.608,4,power-pop
+5cAugj8x0meZxfoGkivFws,Teen Idols,Full Leather Jacket,Midnight Picture Show,24,138933,False,0.433,0.917,2,-5.707,1,0.0606,0.0279,0.0,0.331,0.672,153.158,4,power-pop
+3zsLNrl18Um1i0TawERfOE,Graham Parker & The Rumour,Howlin' Wind,Don't Ask Me Questions,24,337146,False,0.601,0.523,11,-12.2,0,0.0281,0.0642,0.000369,0.275,0.604,105.084,4,power-pop
+4IeK3g0aW7E1HRgMz2Xs68,The Smithereens,Especially For You,In A Lonely Place,25,251973,False,0.655,0.294,3,-18.744,0,0.0344,0.629,0.000356,0.0609,0.523,125.857,4,power-pop
+4k0gm8GjjKQkBPqiIiLxPs,Teenage Bottlerocket,Stay Rad!,Everything to Me,25,176531,False,0.385,0.846,4,-3.843,1,0.0813,0.000539,0.00122,0.0744,0.929,161.906,4,power-pop
+2XvbK0W443tQaHYDB0yU8q,The 20 Belows,For Better Days,The Inevitable Knockdown,23,69822,False,0.21,0.989,9,-4.466,0,0.232,0.000458,7.5e-06,0.596,0.546,199.33,4,power-pop
+0PYPP7JIf0jja7WOjQPuVS,Screeching Weasel,The Awful Disclosures Of Screeching Weasel,Just Another Fool,25,148440,False,0.434,0.903,7,-5.975,1,0.0427,3.94e-05,0.0516,0.0857,0.439,97.003,4,power-pop
+6I8DWWmz2ovgGTre0obJS9,Cheap Trick,At Budokan,"Hello There - Live at Nippon Budokan, Tokyo, JPN - April 1978",25,147360,False,0.254,0.991,2,-8.653,1,0.164,0.0518,0.408,0.834,0.0611,168.068,4,power-pop
+29j2QIF7k8hcuRtNdDbs56,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Alison's Starting To Happen - Remastered,23,119240,False,0.522,0.848,0,-6.591,1,0.147,0.0327,0.0,0.0592,0.963,89.251,4,power-pop
+4nCZLNJ1wi9GV0YUOPx3VF,Swingin' Utters,A Juvenile Product of the Working Class,Fifteenth and T,25,133533,False,0.466,0.953,11,-6.814,0,0.0533,0.00242,0.00104,0.25,0.708,107.861,4,power-pop
+6jKpaytieEZYfz9VI2VURv,The Queers,Love Songs For the Retarded,Teenage Bonehead,25,134920,False,0.288,0.84,0,-3.404,1,0.0341,0.00154,0.0,0.113,0.672,184.58,4,power-pop
+5FV18rZ70X4uosT8UfIJ8E,Off With Their Heads,From the Bottom,"Fuck This, I'm Out",25,156960,False,0.416,0.842,0,-4.398,1,0.0381,0.000452,0.00541,0.0851,0.842,128.176,4,power-pop
+2UI5ABI8qfxQJZoeDoxlz7,Groovie Ghoulies,Monster Club,The Beast With Five Hands,23,125266,True,0.507,0.951,9,-5.238,1,0.0627,0.00371,0.0,0.0545,0.512,161.384,4,power-pop
+4RGuk6QPx9FsguioVwsVXl,Off With Their Heads,Won't Be Missed,The Eyes of Death,25,162288,False,0.606,0.657,9,-5.426,1,0.0273,0.35,0.0,0.0932,0.814,94.98,4,power-pop
+6bvBYjggZrWbgOEaOCZsej,Material Issue,International Pop Overthrow 20th Anniversary Edition,Valerie Loves Me,23,184653,False,0.611,0.909,0,-5.371,1,0.0403,0.012,8.39e-06,0.266,0.619,92.438,4,power-pop
+5ph7N5CSES3txaZ4WiMmSk,Hoodoo Gurus,Electric Soup,What's My Scene,24,229936,False,0.255,0.889,2,-4.007,1,0.058,0.000775,0.000331,0.157,0.54,166.996,4,power-pop
+0C9E39MqYy5usQcl0aGPU0,The Lillingtons,Death By Television,I Saw The Apeman,25,150106,False,0.54,0.836,9,-5.993,1,0.0288,0.000672,0.000667,0.208,0.84,94.796,4,power-pop
+2bY8Z6v3kY5MdHc93GCU8x,Dwarves,The Dwarves Invented Rock & Roll,Sluts of the USA,25,82065,False,0.552,0.982,11,-4.432,1,0.132,0.000773,1.55e-06,0.347,0.738,103.967,4,power-pop
+6EkjoXJvFQ6V7l5nto15bL,The Lemonheads,Come On Feel The Lemonheads,Rest Assured,24,148199,False,0.479,0.885,4,-9.792,1,0.0454,0.0022,0.0,0.173,0.764,101.392,4,power-pop
+4wxm46qMm1P7JH1ivm1BQ2,Eluveitie,Ategnatos,Ambiramus,52,173213,False,0.434,0.908,6,-4.715,1,0.0936,0.00791,0.0,0.662,0.461,126.331,4,power-pop
+5xLfQuX5YAfog2JgPz0dpA,The Cars,The Cars,Moving in Stereo,57,286106,False,0.718,0.543,4,-11.238,1,0.0372,0.0606,0.0988,0.0646,0.37,115.522,4,power-pop
+4CZg3tQMBSCgrNEHSvyOyY,Jimmy Eat World,Surviving: Phoenix Sessions,Delivery,24,193398,False,0.472,0.724,11,-10.793,0,0.0419,0.000262,8.78e-06,0.322,0.668,86.056,4,power-pop
+23ZmKlucJRQrdR0QItAafL,Weezer,SZNZ: Summer,Records,56,208920,True,0.658,0.773,11,-5.119,1,0.0244,0.000901,0.0,0.194,0.66,100.006,4,power-pop
+390viE1HgESBNYE8vRKiQB,Big Star,#1 Record (Remastered),The Ballad Of El Goodo,38,260240,False,0.3,0.562,1,-5.536,1,0.0294,0.0144,0.0,0.0492,0.368,152.313,4,power-pop
+7DfIDN6rPq46vu648YhlT6,Velvet Crush,Teenage Symphonies To God,Hold Me Up,22,178973,False,0.366,0.635,1,-7.414,1,0.0328,0.000984,0.00313,0.196,0.704,127.394,4,power-pop
+4nzyOwogJuWn1s6QuGFZ6w,Weezer,Weezer,My Name Is Jonas,62,204293,False,0.295,0.94,11,-5.247,1,0.0449,0.00021,0.00106,0.276,0.58,186.186,3,power-pop
+35So3EqoTmTiRCVNR1pZ1T,Falconshield,Legends of the Rift,Nothing To Forgive,48,260063,False,0.508,0.75,7,-8.373,0,0.106,0.302,1.31e-05,0.326,0.407,119.993,4,power-pop
+24nGYlFa2j6qJ8j1WWlRG8,Weston,Got Beat Up,Retarded,23,163587,False,0.263,0.985,11,-3.805,1,0.155,0.00356,0.0,0.37,0.471,181.582,4,power-pop
+5P0xgHpE3OVKB4rLU9zzBn,Horror Section,"The Twilight Zone, Vol. 1",The Obsolete Man,23,108460,False,0.472,0.915,7,-6.875,0,0.0518,0.000645,0.616,0.346,0.686,119.993,4,power-pop
+1XT5kxg6Tk0ukCO2vBQN4v,XTC,Drums And Wires,Making Plans For Nigel,60,253800,False,0.632,0.893,7,-6.04,1,0.0455,0.0143,5.24e-06,0.0741,0.773,149.97,4,power-pop
+0IjjGQAWS5Xnlp0lHnd3Ko,The Lemonheads,Varshons 2,Things,23,165720,False,0.416,0.606,6,-8.296,0,0.0286,0.0667,0.00357,0.12,0.583,147.178,4,power-pop
+3oyc1mIdCBGaU55wX7otqM,Elvis Costello & The Attractions,This Year's Model (2021 Remaster),Pump It Up - 2021 Remaster,62,196680,False,0.645,0.809,11,-6.12,1,0.0385,0.00921,0.00108,0.106,0.966,138.978,4,power-pop
+74kpJaQf7qjEoDcZmF8hQj,The Manges,Go Down,Another Day,23,120520,False,0.578,0.964,11,-3.065,1,0.05,0.000107,0.0107,0.0688,0.734,105.196,4,power-pop
+6vE4n6MTCprTQi5hsOqZ5q,Lyres,On Fyre,Don't Give It Up Now,25,249866,False,0.465,0.901,10,-6.02,1,0.047,0.000624,0.321,0.0718,0.729,154.932,4,power-pop
+4j32IYISFANlHk68xiqWMP,The Lemonheads,Lovey,Half The Time,23,165666,False,0.457,0.601,2,-11.797,1,0.0287,0.024,0.000642,0.0656,0.656,78.096,4,power-pop
+5NFs3doJqtVsjlEazAz2qg,The Ergs!,"Hindsight Is 20​/​20, My Friend",Jazz Is Like the New Coke,25,137106,False,0.242,0.959,11,-4.055,1,0.0925,0.000286,9.55e-05,0.301,0.432,103.797,4,power-pop
+3u7pHtKn4sU86VzJHM4Wbw,Direct Hit!,Wasted Mind,Artificial Confidence,24,169658,False,0.353,0.973,1,-3.126,1,0.117,0.00764,0.0,0.105,0.707,167.92,4,power-pop
+32KHCKubOoqIuBmdEwFak4,The Manges,Book Of Hate For Good People,High On Stress,23,158280,False,0.547,0.991,4,-3.643,1,0.0487,0.000771,0.000572,0.366,0.419,100.004,4,power-pop
+2rD9tU2bws0PgOPsI6aIZo,The Lemonheads,Come On Feel The Lemonheads,Into Your Arms,55,164706,False,0.504,0.782,2,-9.27,1,0.0301,0.0661,1.31e-06,0.115,0.619,123.883,4,power-pop
+4B88nunwGGX1MfrZytxWCL,Los Crudos,Discografía,Me Robaron,25,44117,False,0.262,0.933,6,-6.545,1,0.0811,8.97e-05,0.835,0.505,0.844,205.497,4,power-pop
+3L56NA4r0sBxXiZh73Lefx,Robyn Hitchcock & The Egyptians,Greatest Hits,So You Think You're In Love,23,154506,False,0.591,0.84,4,-7.029,1,0.0278,0.046,0.000926,0.0961,0.958,129.029,4,power-pop
+5h4q7eIbHOKHFPihFt2dGR,Screeching Weasel,The Awful Disclosures Of Screeching Weasel,My Favorite Nightmare,25,128399,False,0.273,0.96,9,-5.684,1,0.0906,6.56e-06,0.0222,0.169,0.665,199.968,4,power-pop
+7Cpn5JqDJR22FoF6c94lHd,White Reaper,You Deserve Love,Hard Luck,24,239746,False,0.541,0.759,7,-4.717,1,0.0431,0.00185,0.294,0.0998,0.314,120.048,4,power-pop
+3urIHiMeJLHGVTO0ybSF0d,Weezer,90s Mixtape,Buddy Holly,24,160133,False,0.544,0.913,8,-4.233,1,0.0425,0.00245,0.000156,0.0686,0.786,121.183,4,power-pop
+5r2z0FHOoFI06GZEVGDjzM,Squeeze,East Side Story,Tempted,61,240333,False,0.729,0.356,6,-13.743,0,0.0347,0.0916,0.0905,0.052,0.392,95.026,4,power-pop
+2tXhKmjsg3A6ghzLbskYkV,Nada Surf,High/Low,Tree House,23,163173,False,0.353,0.972,9,-6.121,1,0.0899,1.01e-05,0.362,0.21,0.431,160.2,4,power-pop
+6Dqb8HDPamnC4LGd0dSAbw,Shannon & The Clams,Year Of The Spider,Leaves Fall Again,24,159666,False,0.256,0.856,10,-2.816,0,0.0536,0.121,9.48e-06,0.0957,0.571,160.912,4,power-pop
+7q8P4uyBBOW8VadS69xgOc,The Barracudas,Drop Out With The Barracudas,I Can't Pretend,24,157760,False,0.222,0.943,0,-6.92,1,0.0474,0.063,0.0,0.342,0.687,165.692,4,power-pop
+1U7GmrnyBWxvBOsJdhrN1d,Shannon & The Clams,Year Of The Spider,Godstone,24,150520,False,0.358,0.654,6,-4.344,0,0.0358,0.433,0.0,0.0864,0.696,138.565,4,power-pop
+6bvhuPFwuK9RrqPHtsh4Bi,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Hannah & Gabi - Remastered,23,160533,False,0.423,0.76,2,-8.616,1,0.0385,0.00692,7.88e-05,0.104,0.255,143.948,4,power-pop
+1Q21VA8HYwM49wrlh2fkg4,Mannequin Pussy,Mannequin Pussy,Pissdrinker,24,196440,False,0.354,0.854,0,-5.701,1,0.034,0.057,0.0027,0.102,0.316,78.825,4,power-pop
+4e0PKxOa8coog2w9UXiVe7,Teenage Bottlerocket,Stay Rad!,Death Kart,24,156702,False,0.415,0.904,11,-3.603,0,0.0385,7.66e-05,0.000942,0.324,0.778,175.071,4,power-pop
+1Hz4xJrAEzHTc6WXTD5pOW,The Lillingtons,Death By Television,X-Ray Specs,24,144800,False,0.444,0.93,7,-5.723,1,0.0335,4.78e-05,0.0524,0.209,0.801,97.981,4,power-pop
+50ehFCyLYlNKJ9e5YXfqs0,Bob Mould,Black Sheets Of Rain,Black Sheets Of Rain,23,463693,False,0.272,0.909,2,-11.323,1,0.0558,0.0677,0.0536,0.368,0.226,192.527,4,power-pop
+4Jp0KB33WziGb1LIxZLYbN,Teenage Bottlerocket,Freak Out!,Cruising for Chicks,25,128493,False,0.439,0.983,6,-4.386,0,0.123,0.000142,0.000251,0.0724,0.432,185.324,4,power-pop
+3d9BU2H7yRIHKg88ZYDHr1,Teenage Fanclub,Songs From Northern Britain,Planets,23,170240,False,0.428,0.411,7,-11.058,1,0.0267,0.191,0.00133,0.146,0.5,77.18,4,power-pop
+1eGAZX0TKa5qCxWsvhf8Th,The Lawrence Arms,Apathy and Exhaustion,Brick Wall Views,26,252573,False,0.314,0.895,4,-6.384,1,0.0493,0.00334,0.000504,0.398,0.423,91.454,4,power-pop
+3Ic6gvBFRh65UEvmkkfZKX,The Epoxies,Synthesized,Need More Time,23,150093,False,0.295,0.757,2,-6.949,1,0.0527,0.000883,1.17e-06,0.124,0.329,191.994,4,power-pop
+5LB2xfod5kl8QJH2vQUztv,Masked Intruder,Masked Intruder,How Do I Get to You,23,151333,False,0.469,0.969,4,-4.874,1,0.0952,0.000127,0.00145,0.0981,0.605,113.985,4,power-pop
+6dkvErYa3YQiAKaQROakdb,Sahara Hotnights,Jennie Bomb,Alright Alright (Here's My Fist Where's the Fight ?),23,127066,False,0.395,0.969,11,-4.041,0,0.0636,2.91e-05,0.262,0.169,0.707,168.687,4,power-pop
+63HkkLxSefpYzy1kPrcAOy,The New Pornographers,Electric Version,All For Swinging You Around,25,222200,False,0.401,0.909,6,-3.913,1,0.0541,0.0111,2.07e-06,0.278,0.797,177.948,4,power-pop
+4l59X8bm9XY73QAExTdtd9,Off With Their Heads,Home,Always Alone,24,154000,False,0.713,0.869,0,-5.203,1,0.0305,0.00373,3.14e-06,0.398,0.377,127.982,4,power-pop
+2P8vKb0ZXizbR13KsYYw0e,Masked Intruder,III Turbo,No Case,23,155928,True,0.411,0.898,1,-4.027,1,0.0412,0.000622,0.000895,0.239,0.665,178.032,4,power-pop
+3CdJlOOJZeJjwqFj4KHDAv,The Shivvers,Lost Hits From Milwaukee's First Family Of Powerpop 1979-82,Teenline,22,222053,False,0.4,0.914,0,-7.365,1,0.0459,0.0276,0.0154,0.133,0.884,160.411,4,power-pop
+5KckAOzQttI3LsIEzfSAaG,Off With Their Heads,Home,Janie,24,123733,False,0.348,0.996,7,-3.269,1,0.0564,5.4e-05,0.0,0.421,0.501,102.12,4,power-pop
+12bBG2L6kHEzHANNaXNMHN,XTC,English Settlement,Jason And The Argonauts - 2001 Remaster,26,367066,False,0.582,0.795,11,-10.188,0,0.0304,0.00476,0.00612,0.0472,0.594,139.658,4,power-pop
+3miNUXAGvMFePI3EwItWWY,Elvis Costello,Spike,Deep Dark Truthful Mirror,25,245133,False,0.406,0.354,7,-8.701,1,0.0455,0.233,0.0,0.341,0.58,78.477,3,power-pop
+2m03BtMMefvQspKp35yLwk,Squeeze,Greatest Hits,Take Me I'm Yours,24,169866,False,0.623,0.587,2,-13.956,1,0.0409,0.00205,0.0,0.0494,0.858,123.779,4,power-pop
+4DgdwOjB8GSPdFqJmxVZh7,Nick Lowe,Quiet Please: The New Best of Nick Lowe,Half a Boy and Half a Man,24,175640,False,0.538,0.894,7,-9.523,1,0.0316,0.00307,0.00039,0.29,0.963,153.384,4,power-pop
+6rSJz9u8Y9xixsh5fKu9hV,Weezer,OK Human,Aloo Gobi,43,183672,False,0.565,0.68,8,-7.229,1,0.0303,0.0138,0.000132,0.133,0.847,95.958,4,power-pop
+2jz1bw1p0WQj0PDnVDP0uY,Weezer,Pacific Daydream,Feels Like Summer,54,195893,False,0.53,0.867,11,-4.989,1,0.0504,0.02,0.000248,0.737,0.74,175.981,4,power-pop
+2ZUOmCodNzWpzaomqle7aW,Blondie,Mean Girls (Original Motion Picture Soundtrack),One Way or Another,50,208666,False,0.44,0.932,6,-3.586,0,0.0574,0.00861,0.00616,0.0629,0.876,162.403,4,power-pop
+59B5CBl2vFYsZogVmCGf0L,Falconshield;FrivolousShara,PICK YOUR POISON,PICK YOUR POISON,40,187494,False,0.653,0.581,9,-12.702,0,0.0794,0.107,0.0,0.219,0.308,144.83,4,power-pop
+4TcD4rdGXL9y8ZGkFCwXB4,Dead To Me,Fear Is the New Bliss,Fear Is the New Bliss,24,218892,False,0.28,0.986,9,-4.282,1,0.213,0.00563,0.0393,0.357,0.156,167.815,4,power-pop
+0k4Fk3Fe2AZzYJ2c51mJMc,Beach Slang,Cheap Thrills on a Dead End Street,American Girls And French Kisses,23,174346,False,0.136,0.918,8,-5.414,1,0.0891,0.000233,0.00424,0.172,0.485,176.473,4,power-pop
+729Y2Qkaj2oeVhPsArJC3O,Beach Slang,Cheap Thrills on a Dead End Street,All Fuzzed Out,23,191508,False,0.378,0.893,1,-5.051,1,0.0442,0.000144,0.229,0.384,0.251,129.433,4,power-pop
+28j6SB1eThSU2Z4YWJF1zV,Dan Vapid & the Cheats,Escape Velocity,Burning Questions,23,136918,False,0.464,0.713,7,-10.002,1,0.0481,0.000351,0.0,0.0373,0.684,171.966,4,power-pop
+1ULfoJYmTKkIPFfikw8A6Y,The Posies,Amazing Disgrace,Please Return It,22,209906,False,0.303,0.899,5,-8.365,1,0.0697,0.00209,0.0,0.102,0.223,132.376,4,power-pop
+6tP1a9Zwu2E0xitNx0UjlA,Royal Headache,Royal Headache,Never Again,24,129639,False,0.176,0.753,0,-5.754,1,0.044,1.07e-05,0.839,0.199,0.47,102.101,4,power-pop
+4HRhnr7osDZ1nAknBjilfA,Radioactivity,Radioactivity,Other Life,23,119352,False,0.29,0.966,7,-3.229,1,0.0906,0.0118,0.833,0.167,0.619,187.175,3,power-pop
+72mulbQzBi7mlk1JdIytaG,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Divan,23,117266,False,0.7,0.228,0,-12.038,1,0.0533,0.292,0.0,0.116,0.628,123.235,4,power-pop
+4hILHNh4FIPejpfGLJPuni,Jimmy Eat World,Chase This Light,Distraction,24,178773,False,0.436,0.975,8,-2.942,1,0.0771,0.000711,0.0,0.103,0.636,175.033,4,power-pop
+4fQPEt6AbVlceBLLfx8WBN,Radioactivity,Silent Kill,Silent Kill,24,90893,False,0.407,0.967,2,-5.306,1,0.0506,0.000129,0.712,0.127,0.639,97.456,4,power-pop
+3l8lEwF5mrF58wkiYNPjUZ,The Bombpops,Death in Venice Beach,Sad to Me,23,161613,False,0.545,0.868,7,-4.376,1,0.0835,0.000159,1.82e-05,0.137,0.621,155.955,4,power-pop
+6JPxCmhwVNsmpYfuMrHYuq,Mikal Cronin,Mikal Cronin,Get Along,22,232813,False,0.288,0.726,2,-6.752,1,0.0333,0.00056,0.848,0.359,0.603,77.521,4,power-pop
+7gTkklEGHCuuxKumTcEpNB,Joe Jackson,Body And Soul,The Verdict,25,332200,False,0.636,0.457,5,-9.203,1,0.0281,0.0153,0.0,0.0934,0.283,108.842,4,power-pop
+1fzyjaz3QhL4ZhrzD22uPl,Mean Jeans,Gigantic Sike,Stuck in a Head,23,132506,False,0.542,0.978,11,-1.504,1,0.0467,0.00046,1.28e-06,0.168,0.8,102.838,4,power-pop
+3zxZn5a0sTfDIphG3tzk79,The Jayhawks,Back Roads And Abandoned Motels,Backwards Women,24,216493,False,0.616,0.707,4,-5.116,1,0.0273,0.152,5.74e-06,0.11,0.671,130.535,4,power-pop
+7zDzoMGQURPsfDsGOLookv,Joe Jackson,Steppin' Out: The Very Best Of Joe Jackson,Steppin' Out,25,261826,False,0.592,0.481,11,-7.18,1,0.0328,0.0432,0.00221,0.067,0.58,159.605,4,power-pop
+5zHx5ZKOLaatEm9mdVhobm,Shannon & The Clams,Onion,Tell Me When You Leave,23,142706,False,0.417,0.757,0,-6.786,1,0.0514,0.127,0.892,0.0969,0.912,156.164,4,power-pop
+2EEDEOk1DLHTM7pDuvSc2x,The Bombpops,Death in Venice Beach,House on Fire,23,176965,False,0.61,0.811,0,-4.86,1,0.065,0.0035,0.0,0.161,0.199,113.476,4,power-pop
+2wSQ3R8BBAG2lB16Wnh3Cg,Dave Edmunds,Trax on Wax 4,Trouble Boys,23,182306,False,0.516,0.957,4,-5.613,1,0.0569,0.0268,1.53e-05,0.0616,0.953,164.405,4,power-pop
+6oRgBbSeawL4i7gF3tqRJJ,Freedy Johnston,This Perfect World,This Perfect World,23,275293,False,0.591,0.395,1,-12.134,0,0.026,0.332,0.0167,0.121,0.217,95.955,4,power-pop
+6ea7xISIQvio1JC1zZkc2p,Hoodoo Gurus,Chariot Of The Gods,World Of Pain,23,224658,True,0.648,0.575,2,-6.363,1,0.034,0.00261,0.682,0.0738,0.855,141.961,4,power-pop
+6KlLjzEYcJs0VmPMLe6FUw,glass beach,classic j dies and gets a million streams,classic j dies and gets a million streams,23,302903,False,0.469,0.362,5,-11.382,0,0.0498,0.0661,0.0,0.573,0.156,123.371,4,power-pop
+3qEgc2gahKn6oSQLAKTsMV,Hoodoo Gurus,Chariot Of The Gods,Carry On,23,164829,False,0.533,0.882,4,-4.445,1,0.0637,0.0192,0.0,0.183,0.655,124.071,4,power-pop
+4CyfoJZdIKGXBMIpVCX13X,The Jayhawks,Rainy Day Music,Eyes Of Sarahjane,24,226413,False,0.552,0.717,8,-4.059,0,0.0328,0.00691,2.23e-06,0.0809,0.397,122.559,4,power-pop
+4wQdNXWC9oXoVVoJRMMCdH,Mott The Hoople,The Best Of,Roll Away the Stone,25,186786,False,0.553,0.948,1,-5.63,1,0.0634,0.0114,0.0,0.812,0.746,125.267,4,power-pop
+1YCWamtRdi9an4nZmVCxRB,The Bombpops,Fear of Missing Out,Watch Me Fold,23,151466,False,0.403,0.958,0,-3.913,1,0.0811,2.18e-05,1.48e-06,0.0387,0.418,166.087,4,power-pop
+7EYoPg7AavQDIxhuPcMzsu,The Dollyrots,Barefoot and Pregnant,Da Doo Ron Ron / I Wanna Be Sedated,22,180119,False,0.522,0.914,7,-5.27,1,0.0363,0.000194,7.36e-05,0.199,0.721,98.046,4,power-pop
+5DgejFrK1uMn5S5svXXJdI,Blondie,Atomic: The Very Best Of Blondie,Heart Of Glass - Remix,23,251773,False,0.724,0.701,4,-8.067,1,0.0331,0.000916,0.0725,0.082,0.422,114.692,4,power-pop
+0TFudoDnTvEiwdEsqwiCHD,Hoodoo Gurus,Chariot Of The Gods,Get Out Of Dodge,23,216373,False,0.568,0.921,9,-5.033,1,0.114,0.373,0.0,0.0771,0.867,142.041,4,power-pop
+50vziqQ4v5QpjQvZbPlr0b,Cheap Trick,At Budokan,"Goodnight - Live at Nippon Budokan, Tokyo, JPN - April 1978",24,188840,False,0.183,0.971,2,-8.727,1,0.375,0.00756,0.245,0.943,0.0767,162.563,4,power-pop
+3ETM2oz7x4tlBGcCCbMloH,Elvis Costello & The Attractions,The Best Of The First 10 Years,(I Don't Want To Go To) Chelsea,24,190226,False,0.507,0.791,11,-7.111,0,0.0386,0.0691,0.00046,0.0482,0.959,166.972,4,power-pop
+4Q4Y39aWAgYIHjUafrD3Kc,Elvis Costello;Burt Bacharach,Painted From Memory,Such Unlikely Lovers,25,203573,False,0.527,0.485,2,-10.894,1,0.0426,0.519,4.66e-06,0.129,0.516,76.491,4,power-pop
+2LPoZ0ToV1A2atD2CWRYOI,Off With Their Heads,In Desolation,My Episodes,24,246653,False,0.465,0.499,9,-7.207,1,0.0294,0.242,1.11e-05,0.111,0.135,115.902,3,power-pop
+72n9VfCePhb88GN8gEeQJr,Screeching Weasel,Bark Like a Dog,You Blister My Paint,24,200133,False,0.494,0.925,8,-5.564,1,0.0404,0.0161,3.02e-05,0.292,0.83,153.948,4,power-pop
+0yt3glAjUFcOwjh6VnTmUv,The Nerves,One Way Ticket,Stand Back and Take a Good Look (Demo),23,126586,False,0.801,0.87,0,-6.017,1,0.0366,0.651,0.0,0.244,0.963,135.685,4,power-pop
+5qDWGQOvrVfaIjC3N750Fi,Teenage Bottlerocket,Stealing the Covers,Why the Big Pause,24,90163,False,0.617,0.858,0,-5.596,1,0.137,0.00051,3.27e-05,0.135,0.278,115.788,4,power-pop
+0Q5OUoMBRrbQIYb3TZnzQe,Off With Their Heads,Be Good,No Love,24,173386,False,0.425,0.998,9,-3.432,1,0.0491,4.84e-05,0.0111,0.437,0.207,95.01,4,power-pop
+35vtdP2aBztq9Uqmod0nwA,Eddie & The Hot Rods,Punk Essentials,Do Anything You Wanna Do - Edit,23,244053,False,0.359,0.812,4,-7.487,1,0.0549,0.0054,0.05,0.0703,0.684,149.294,4,power-pop
+7bsrm89CgDackHdyPCD7ad,Hoodoo Gurus,Blow Your Cool,Come On - 2005 Remaster,23,163680,False,0.593,0.775,7,-4.26,1,0.0268,0.0376,0.00615,0.193,0.683,114.75,4,power-pop
+27zpsdvYZ2RKD8Fn0GQv51,Material Issue,International Pop Overthrow,Very First Lie,21,209933,False,0.454,0.573,0,-12.116,1,0.0589,0.0651,9.38e-06,0.192,0.491,75.761,4,power-pop
+6qprRDt6zULzmz2IuflagZ,Squeeze,Greatest Hits,Tempted,24,238400,False,0.738,0.347,6,-14.001,0,0.0334,0.052,0.00585,0.0652,0.345,95.797,4,power-pop
+4aPlzaMuyJAkNwEdqnlMNc,The Lillingtons,Death By Television,Invasion Of The Saucermen,24,141000,False,0.395,0.987,1,-5.75,0,0.0682,0.00146,0.0619,0.101,0.44,165.75,4,power-pop
+6GZgG42XDPw3Wuu3Thu1B4,Hüsker Dü,Candy Apple Grey,Too Far Down,24,278266,False,0.521,0.406,7,-13.468,1,0.028,0.797,0.00634,0.191,0.536,92.132,4,power-pop
+5bgm3hAFXiqjdsKSa3aSTs,Hoodoo Gurus,Gold Watch,What's My Scene - 2005 Remaster,23,229000,False,0.247,0.937,2,-2.839,1,0.0645,0.00169,0.000455,0.134,0.599,166.944,4,power-pop
+7zumacGldlmxpoP8bpaeLe,Squeeze,Greatest Hits,Slap & Tickle,24,256839,False,0.585,0.805,11,-14.211,0,0.0344,0.00739,0.000828,0.0699,0.919,131.82,4,power-pop
+0OfQVzxnO17sGMzPOaOJrK,Squeeze,Greatest Hits,Labelled With Love,24,272933,False,0.573,0.264,4,-15.345,1,0.0323,0.057,0.0,0.17,0.742,93.696,4,power-pop
+2ugSAWatjCmL6dgvAKcZrn,Blondie,Pollinator,Long Time,12,275053,False,0.522,0.807,11,-4.505,0,0.0339,0.000117,0.0,0.201,0.442,119.941,4,power-pop
+0vLwL4xuJ3s7SeaCdvMqkY,Blondie,Best Of Blondie,Call Me,59,212893,False,0.551,0.628,2,-13.799,1,0.036,0.0336,0.000194,0.151,0.777,142.167,4,power-pop
+3lYEqnZ9PVQNteUaSB3A1d,PEARS,Green Star,Hinged by Spine,23,138614,False,0.491,0.981,4,-4.38,1,0.0867,0.00071,0.0,0.382,0.496,105.043,4,power-pop
+1sBTqdKiKnCqg5sJCMUfJQ,Jimmy Eat World,Clarity: Phoenix Sessions,Lucky Denver Mint,23,190490,False,0.555,0.865,11,-6.39,0,0.0305,0.000791,0.0139,0.0492,0.842,124.924,4,power-pop
+7phf3iuemxpzD4UfZb1SKo,The Manges,Book Of Hate For Good People,Chicken Park,22,178466,False,0.621,0.966,2,-4.195,1,0.0366,0.00978,2.1e-05,0.398,0.802,97.997,4,power-pop
+28c4nfBHdb3xviamRCEsIe,Dinosaur Jr.,Without a Sound,Feel the Pain,59,259600,False,0.34,0.804,0,-8.355,1,0.0516,0.00331,0.0191,0.0727,0.854,131.5,4,power-pop
+0CxXdYtBAWzE58Inc2Zius,Banner Pilot,Collapser,Central Standard,24,170240,False,0.433,0.995,11,-4.437,1,0.15,3.8e-05,0.000426,0.421,0.353,99.979,4,power-pop
+5jSHYxzQZnUNr53CHaGPWi,The Exploding Hearts,Guitar Romantic,Rumours in Town,22,152546,False,0.239,0.97,7,-0.858,1,0.0823,0.361,0.0,0.289,0.398,166.002,4,power-pop
+5kfjM1oIlalAL5VMc0ZjrZ,The Manges,Book Of Hate For Good People,The Girl With Two Brains,22,122693,False,0.482,0.95,5,-4.442,1,0.0613,0.00692,3.92e-05,0.386,0.906,163.931,4,power-pop
+6f706m5UoJcFhVjaumGKeg,Stiv Bators,Disconnected,Evil Boy,22,197373,False,0.364,0.977,4,-7.351,1,0.0908,0.313,0.0,0.413,0.385,148.944,4,power-pop
+19qgxliML6dF1v2upzP3j6,Pointed Sticks,Waiting for the Real Thing,Out Of Luck,22,151986,False,0.306,0.755,9,-6.832,1,0.0685,0.0104,0.0,0.0956,0.656,197.388,4,power-pop
+3Wi1kHqmjuWOtf1PtyHBqt,Dan Vapid & the Cheats,Two,Miracle Drug,22,133558,False,0.463,0.904,4,-4.702,1,0.0428,0.0102,5.24e-06,0.315,0.886,175.031,4,power-pop
+31nZ7Qmv1eGOFXBYM88EXI,The Manges,Book Of Hate For Good People,Jesus Is My Homeboy,22,174720,False,0.527,0.912,1,-4.695,0,0.0402,0.00593,0.00985,0.0676,0.919,163.929,4,power-pop
+2bmpohm2ZVk5fDCfX5gAwU,Dan Vapid & the Cheats,Three,Silver Lining,22,162214,False,0.487,0.93,4,-5.927,1,0.0603,0.00156,3.63e-06,0.369,0.743,139.923,4,power-pop
+1qWsE6O5N0pXuagGrCA7rT,Riverdales,Riverdales,Judy Go Home,23,114586,False,0.269,0.948,9,-3.855,1,0.0438,0.00142,0.0,0.348,0.613,177.698,4,power-pop
+6Wv01TAWJ1mJDivryAyPmC,The Muffs,Happy Birthday To Me,Outer Space,23,192333,False,0.483,0.945,2,-4.328,1,0.0618,0.00123,0.0,0.0935,0.667,135.52,4,power-pop
+5aCdWcN7QpY8Q6PECvcJYK,Superdrag,Head Trip In Every Key,I'm Expanding My Mind,23,273573,False,0.587,0.697,1,-8.0,0,0.0271,0.00847,3.91e-05,0.27,0.487,106.433,4,power-pop
+14g6foD6sxO1qgkDKuPgWv,The Replacements,Tim (Expanded),Swingin Party - 2008 Remaster,58,233573,False,0.647,0.69,6,-8.657,0,0.0454,0.0224,0.0,0.147,0.682,117.514,4,power-pop
+2oJeOK86g6rG3ni3KWJ33U,The Godfathers,"The Best Of The Godfathers: Birth, School, Work, Death",She Gives Me Love,22,232440,False,0.45,0.814,9,-8.855,1,0.0503,0.00043,0.0051,0.0633,0.561,140.143,4,power-pop
+3WTV5hdOLjkE6byJMoEn4P,The Fleshtones,Roman Gods,The Dreg - Fleshtones 77,24,193466,False,0.442,0.925,11,-8.318,0,0.0714,0.00536,0.723,0.638,0.414,133.123,4,power-pop
+4xg4sEf7yuL3WUSnB3xYXz,Tacocat,Lost Time,"You Can't Fire Me, I Quit",23,133255,False,0.346,0.906,0,-4.311,1,0.0622,0.0708,7.05e-06,0.12,0.553,116.529,4,power-pop
+0ivrqdSNVmReUeSkNexBDx,The Arrivals,Marvels of Industry,I'm Sorry For Saying I'm Sorry,22,121666,False,0.247,0.819,0,-6.312,1,0.0484,0.000893,0.00375,0.38,0.494,177.834,4,power-pop
+0gY7wLbJeqt7Mj9WBhQZsJ,Chixdiggit!,Chixdiggit,Where's Your Mom?,23,118066,False,0.478,0.836,7,-6.648,1,0.0976,0.00552,0.000108,0.257,0.614,117.608,4,power-pop
+2XZBEM4HjKutCsqicQb0h5,The Godfathers,"Birth, School, Work, Death (Expanded Edition)",If I Only Had the Time,23,149840,False,0.398,0.871,0,-9.384,1,0.0356,6.49e-05,0.00607,0.131,0.76,139.114,4,power-pop
+2rUPR83nD3UoSCEdjNsKfF,Frank Black,The Cult Of Ray,I Don't Want To Hurt You (Every SingleTime),23,182746,False,0.526,0.834,5,-8.625,1,0.0296,0.00291,7.9e-05,0.0981,0.473,118.37,4,power-pop
+3E3ZEUuuEkzaQzOjYahjVU,Sloan,Never Hear the End of It,Who Taught You to Live Like That?,23,182973,False,0.496,0.893,7,-4.299,1,0.0497,0.00103,0.0,0.236,0.526,122.131,4,power-pop
+0cAmFTnXn4ljPuqOqvK6nb,Lunachicks,Babysitters on Acid,Babysitters on Acid,22,247493,True,0.363,0.922,4,-9.729,1,0.0661,0.00529,2.78e-05,0.126,0.498,103.696,4,power-pop
+7E78uoirmkgDzwRH6HGuUH,Bob Mould,Workbook,Sinners And Their Repentances,22,246240,False,0.436,0.29,6,-14.841,1,0.0315,0.26,0.0,0.0805,0.304,128.048,4,power-pop
+7nWzpMBJwjubxBF75Pi4An,Juliette & The Licks,You're Speaking My Language,You're Speaking My Language,25,134512,False,0.605,0.915,4,-4.177,0,0.104,0.00737,0.0,0.358,0.909,145.021,4,power-pop
+5bwn375xcJ5zKbwsykTgHJ,Nerf Herder,How To Meet Girls,Vivian,22,166533,False,0.566,0.772,9,-7.298,1,0.0396,0.00256,0.0,0.0486,0.661,92.417,4,power-pop
+0YcxTTiIY9cGyG4BjjUIes,Masked Intruder,Love and Other Crimes,First Star Tonight,23,129621,False,0.304,0.958,11,-3.421,1,0.0624,0.0039,0.000294,0.134,0.734,203.96,4,power-pop
+6t3HNbiC2Ij9gVpudq3wz0,Lunachicks,Jerk of All Trades,Drop Dead,22,172160,False,0.533,0.964,9,-5.711,1,0.155,0.0256,0.000623,0.329,0.463,138.05,4,power-pop
+0OWdPch0FiCzO2jc68WDPB,Alejandro Escovedo,Big Station,Bottom Of The World,24,184693,False,0.655,0.687,2,-9.366,1,0.0271,0.0767,0.0,0.0809,0.803,126.397,4,power-pop
+6028v7Uu22M78zzk7s9jSD,Superchunk,No Pocky for Kitty (Remastered),Skip Steps 1 & 3,23,186213,False,0.2,0.965,2,-8.462,1,0.257,2.63e-06,0.373,0.0891,0.582,183.271,4,power-pop
+3zEIs01JjvsNRtUdakjvxe,Matthew Sweet,Altered Beast,Devil With The Green Eyes,22,282933,False,0.4,0.801,11,-6.885,0,0.0348,0.0734,0.0088,0.134,0.5,128.163,4,power-pop
+3DO4NLnMy8xYF034zbHdHP,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Kitchen - Remastered,22,174973,False,0.509,0.93,7,-7.7,1,0.053,0.0101,1.48e-06,0.16,0.59,100.547,4,power-pop
+007ufdfvS8NxnwuwSkOdw4,Teenage Bottlerocket,Sick Sesh!,Never Sing Along,24,160425,True,0.564,0.985,7,-1.845,1,0.0844,0.00874,1.2e-06,0.137,0.446,94.972,4,power-pop
+21y9DwOQLGmtAZa4ZIELyc,Hoodoo Gurus,Stoneage Romeos,Death Ship - Remaster 2005,23,155266,False,0.363,0.929,4,-1.987,0,0.0483,0.0128,0.00191,0.104,0.633,109.789,4,power-pop
+1jYbC28GVYRNOrBltndpjl,Blondie,Atomic: The Very Best Of Blondie,Atomic,23,230160,False,0.527,0.82,4,-5.49,0,0.0338,0.00157,0.197,0.347,0.748,136.578,4,power-pop
+7dtkaBKlHTaQJ1Bnq67Q4J,The 20 Belows,For Better Days,For Better Days,21,155527,True,0.399,0.977,0,-3.814,1,0.0649,0.101,0.0,0.301,0.584,169.961,4,power-pop
+0lGePAsfKiwMXhTe2ACuTJ,The New Pornographers,Challengers,"Mutiny, I Promise You",24,252160,False,0.647,0.818,5,-5.173,1,0.0323,0.616,1.56e-06,0.365,0.674,132.511,4,power-pop
+272IT2AATmMoihb4ABdb9U,Elvis Costello & The Attractions,The Best Of The First 10 Years,Good Year For The Roses,23,187226,False,0.502,0.412,9,-10.373,1,0.037,0.251,0.000321,0.135,0.388,97.218,4,power-pop
+34K1fVqENAoDXbh0SitVhY,XTC,Alternative Mix,Generals And Majors - 2001 Remaster,24,244506,False,0.61,0.895,10,-7.029,1,0.0289,0.0118,3.09e-05,0.0479,0.933,141.365,4,power-pop
+5hNd3UB2VG6M38kqgTHE3o,Elvis Costello & The Attractions,The Best Of The First 10 Years,Accidents Will Happen,24,181480,False,0.605,0.65,0,-9.019,1,0.0276,0.0612,0.0183,0.357,0.677,120.129,4,power-pop
+2QeXGCzl1RtBqh5uRuXs7O,Swingin' Utters,Peace and Love,Human Potential,25,108348,False,0.463,0.992,9,-3.376,1,0.0764,0.000191,1.17e-06,0.182,0.681,90.417,4,power-pop
+5bhjdWvbt4rNcBZIHDe0hB,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Mrs. Robinson - Remastered,22,224480,False,0.494,0.936,4,-7.195,0,0.0401,0.0112,0.000693,0.276,0.835,107.393,4,power-pop
+7dReElMZ9l8sg2OQbda9Da,Elvis Costello & The Attractions,Blood And Chocolate,I Hope You're Happy Now,24,187373,False,0.388,0.852,9,-5.981,1,0.0578,8.61e-05,5.06e-05,0.107,0.727,133.113,4,power-pop
+6sXtdCMxgpmRVctBlYgWLu,Squeeze,Greatest Hits,Goodbye Girl,23,185960,False,0.705,0.631,2,-13.718,1,0.0427,0.119,0.000178,0.0698,0.972,157.295,4,power-pop
+2btAqXXb9XWPx1otiZtJbd,Squeeze,Greatest Hits,Another Nail In My Heart,23,178400,False,0.536,0.593,4,-14.733,1,0.0334,0.187,3.79e-06,0.102,0.869,150.219,4,power-pop
+54sy1DVLpbmEQ4d3kYsjH8,Squeeze,Greatest Hits,Pulling Mussels (From The Shell),24,239600,False,0.594,0.672,0,-12.889,1,0.0402,0.0158,0.000103,0.245,0.944,142.766,4,power-pop
+3ZPKocroJIcnHGcnJVlLKD,Weezer,Weezer (Teal Album),Africa,59,238626,False,0.534,0.784,8,-3.59,1,0.0339,0.205,0.00579,0.106,0.6,92.147,4,power-pop
+2xO8kCpctRw9ofqeL71NaT,Jimmy Eat World,Futures: Phoenix Sessions,Kill,23,221088,False,0.55,0.907,7,-3.744,0,0.0434,0.00437,0.0,0.236,0.512,127.068,4,power-pop
+3DiRdaZtPrVdb4U2RIuRWm,Blondie,Greatest Hits: Blondie,One Way Or Another,54,208466,False,0.447,0.863,6,-6.303,0,0.0585,0.00365,0.0138,0.0448,0.835,162.311,4,power-pop
+1fA0jlzXGXnotgczLdol8a,Mikey Erg,Mikey Erg,Rumblestrip,23,85573,False,0.33,0.981,1,-5.213,0,0.0742,0.00259,4.49e-05,0.61,0.501,98.944,4,power-pop
+5snXnagG5li4hYhsurEkau,Horror Section,My Bloody Valentine,Die Alone,22,159007,False,0.345,0.95,8,-4.557,1,0.08,0.000509,0.0153,0.175,0.154,170.068,4,power-pop
+7DowQgdUeWLUbDb3SVv1sQ,Twin Peaks,Wild Onion,Making Breakfast,46,132668,False,0.495,0.782,9,-4.694,1,0.0315,0.000267,0.736,0.54,0.451,116.114,4,power-pop
+1AkfLrSAGqHfPkehct08Tw,Banner Pilot,Souvenir,Effigy,23,177320,False,0.515,0.972,4,-2.953,1,0.0543,0.000245,0.893,0.0733,0.627,151.018,4,power-pop
+4MvLUiNGrRvnXivUdWj2v7,Tommy Keene,Based On Happy Times,Nothing Can Change You,20,199733,False,0.542,0.645,6,-11.654,1,0.0299,0.0186,6.01e-06,0.205,0.695,144.942,4,power-pop
+3BWOEIkW9H7tCr8wwjzOyf,The Outfield,Bangin',Since You've Been Gone,50,286466,False,0.491,0.834,2,-11.204,1,0.0571,0.26,1.07e-05,0.196,0.481,124.122,4,power-pop
+2trEgoZgPLKyaek0vg9Gfb,Horror Section,They're Inside,They're Inside,21,145541,False,0.297,0.92,1,-5.291,1,0.0472,0.000234,1.4e-05,0.321,0.714,199.998,4,power-pop
+2OTcKbUQwBiBrjmpPuti3z,Jimmy Eat World,Surviving: Phoenix Sessions,All the Way (Stay),23,207627,False,0.578,0.68,7,-10.253,1,0.0447,0.00172,0.0,0.0864,0.718,136.062,4,power-pop
+2ZVsepXjpvWmajHp5bQsgZ,The Dollyrots,Everything,Everything,21,183911,False,0.445,0.942,10,-3.589,1,0.0646,8.95e-05,0.0188,0.319,0.872,180.003,4,power-pop
+2JhK40HKMjR9fzTXDvOAeV,Jimmy Eat World,Futures: Phoenix Sessions,Work,23,190714,False,0.573,0.922,8,-3.806,1,0.0499,0.0256,0.0,0.26,0.536,120.917,3,power-pop
+7p51Rj1pKhCkCDHcXAIfdI,The Hextalls,Play With Heart,"Ouch, My Childhood",22,154362,True,0.526,0.947,4,-3.19,1,0.0946,0.00139,1.15e-05,0.253,0.576,99.984,4,power-pop
+1IrLxksPvryMhit5zFacfM,Western Addiction,Cognicide,Incendiary Minds,22,79133,False,0.448,0.955,4,-5.888,1,0.0975,0.000457,0.000894,0.335,0.494,107.436,4,power-pop
+2uE5JDb0ZJsJkzZ8gvL5jw,Dave Edmunds,I Hear You Knocking,I Hear You Knocking,51,167786,False,0.528,0.445,6,-12.075,0,0.0482,0.0198,0.000384,0.0766,0.97,206.361,4,power-pop
+0HRucEMSy95PtpP1mEu94q,The Dream Syndicate,Ultraviolet Battle Hymns and True Confessions,Beyond Control,22,355733,False,0.353,0.68,2,-8.382,0,0.0378,0.536,0.456,0.109,0.484,154.017,4,power-pop
+7J9GCSFb9VCIJsdPItX9oF,Nobodys,Hussy,Beer for Breakfast,22,91631,True,0.393,0.909,2,-3.811,1,0.064,0.00114,2.91e-05,0.339,0.605,188.001,4,power-pop
+0ezw1IioXzohRtHf5DfcvH,The Briefs,Hit After Hit,Rotten Love,22,213693,False,0.517,0.908,0,-4.15,1,0.0364,0.00234,1.79e-05,0.0744,0.577,121.443,4,power-pop
+4b1enTJSxhOuoOPbC0Anjf,Los Crudos,Discografía,Corrido Jodido,23,99207,False,0.38,0.908,11,-5.847,0,0.0785,0.000358,0.891,0.0777,0.844,199.443,3,power-pop
+5S4dff9BWqROe8WbmtxsgG,Dinosaur Jr.,Dinosaur,Severed Lips,24,242560,False,0.438,0.853,7,-3.575,1,0.0467,0.0278,0.474,0.111,0.718,122.951,4,power-pop
+28plxWKEmmubA4AwEH3GLk,Shannon & The Clams,Gone by the Dawn,Telling Myself,23,262694,False,0.564,0.572,2,-6.132,1,0.0326,0.104,0.0,0.127,0.752,131.083,4,power-pop
+3TPerY4roQBzjTTFv41xBW,Shannon & The Clams,Dreams in the Rat House,Heads or Tails,23,251480,False,0.368,0.848,4,-5.218,1,0.0762,0.299,0.00965,0.295,0.458,149.162,4,power-pop
+0wb21I1NV5uVUolRXIqlJF,Badfinger,Magic Christian Music (Remastered 2010 / Deluxe Edition),Come And Get It - Remastered 2010,55,143213,False,0.616,0.629,8,-6.9,1,0.0263,0.0285,1.32e-06,0.208,0.606,94.004,4,power-pop
+4beOdN2knXQ56LvxNruIWi,The Dream Syndicate,Ultraviolet Battle Hymns and True Confessions,Every Time You Come Around,23,225853,False,0.321,0.722,9,-5.732,0,0.0458,0.0506,0.562,0.215,0.619,117.216,4,power-pop
+1HqkUaVMht41tBturrMmfP,The Soft Boys,Underwater Moonlight,Queen of Eyes,24,121053,False,0.361,0.924,4,-4.468,1,0.0672,0.253,2.09e-06,0.307,0.63,139.54,4,power-pop
+07rvgUG4SAHVRLFiEwYHtI,Shannon & The Clams,I Wanna Go Home,You Can Come Over,23,146786,False,0.374,0.712,4,-5.144,0,0.0447,0.0821,0.1,0.111,0.764,82.758,4,power-pop
+2NkLltdxEz6LgS12cFkabc,Ex Hex,Rips,How You Got That Girl,22,186226,False,0.626,0.726,4,-6.005,1,0.0704,0.163,1.7e-05,0.533,0.459,140.444,4,power-pop
+5UB05M7pQk2i9RtPITIDjw,Tommy Keene,Tommy Keene You Hear Me: A Retrospective 1983-2009,Places That Are Gone,20,231426,False,0.283,0.936,5,-6.262,1,0.0728,0.000858,0.000317,0.256,0.48,145.744,4,power-pop
+451lXmfCoq5KvTo83Mk1Co,The Young Fresh Fellows,This One's for the Ladies,Picture Book,20,139160,False,0.621,0.792,0,-11.053,1,0.0309,0.0484,0.0,0.113,0.97,131.08,4,power-pop
+2tZlqrCMPrFDklYFCLcTbZ,Blondie,Blondie (Remastered),The Attack Of The Giant Ants - Remastered,22,214160,False,0.441,0.762,7,-8.653,1,0.155,0.276,0.311,0.445,0.585,137.574,4,power-pop
+2oq1WCCxJegpH8NFvcO7Jz,The Bombpops,Can of Worms,Can O' worms,22,173332,False,0.379,0.959,1,-3.456,0,0.092,0.000995,2.28e-06,0.107,0.573,178.026,4,power-pop
+51yVmxofBMYaib4uAI6b2h,The Nerves,One Way Ticket,Thing of the Past,22,132413,False,0.305,0.829,7,-8.654,0,0.0446,0.00351,0.00294,0.337,0.863,140.124,4,power-pop
+0efz8jwkeHjwhVZKSfdeND,XTC,The Compact XTC,Sgt. Rock (Is Going To Help Me),24,217066,False,0.706,0.62,4,-13.713,1,0.0636,0.059,0.0,0.0739,0.806,129.03,4,power-pop
+5Zx0Rrkn5RFBMD2PRxX3mI,Dillinger Four,C I V I L W A R,"""Contemplate This on the Tree of Woe.""",24,180706,False,0.565,0.977,11,-3.592,1,0.0546,0.0282,0.00132,0.433,0.387,106.478,4,power-pop
+07lRI7dpCGLp1uV8k1Q9J3,NRBQ,Scraps,Howard Johnston's Got His Ho-Jo Working,22,200640,False,0.558,0.753,9,-8.309,1,0.0374,0.0737,0.000576,0.118,0.913,202.753,4,power-pop
+73pVkQkDvsIs3B9knkGVCc,Hoodoo Gurus,Stoneage Romeos,Arthur - Remaster 2005,22,189200,False,0.399,0.92,9,-2.482,1,0.0338,0.0173,5.44e-05,0.234,0.751,143.067,4,power-pop
+1W8gSLQdt7FM4glZLVXmzu,Teenage Fanclub,Songs From Northern Britain,Speed of Light,21,235266,False,0.577,0.86,9,-8.095,1,0.0669,0.000215,6.98e-05,0.0754,0.813,125.996,4,power-pop
+6hul3HqX9u3yE6U734s1Uq,Swingin' Utters,"Here, Under Protest",Kick It Over,23,150893,False,0.514,0.933,9,-5.549,1,0.0342,0.00798,0.0136,0.119,0.96,158.967,4,power-pop
+2tMnUAgtaxh69R5K7Fa3uf,Hoodoo Gurus,Magnum Cum Louder,Axegrinder,22,207293,False,0.466,0.849,2,-2.329,1,0.0347,0.00716,0.00295,0.0601,0.834,110.029,4,power-pop
+4gi2e6rh7dKSw14P4pODT7,Sloppy Seconds,More Trouble Than They're Worth,Fifteen Minutes... Or It's Free,22,159333,False,0.403,0.955,11,-4.068,1,0.0435,0.00136,0.0,0.146,0.58,96.042,4,power-pop
+1DwxZFTSDnHGz5N30KTZfV,Squeeze,East Side Story,Piccadilly,23,207772,False,0.651,0.622,2,-14.889,1,0.0322,0.00935,0.0527,0.251,0.96,136.239,4,power-pop
+5sTnepiKZelRpUmjAXNMVE,The Lawrence Arms,Cocktails & Dreams,Presenting: The Dancing Machine (The Robot With the Monkey Head),24,87706,False,0.18,0.968,4,-5.698,1,0.117,0.000183,0.758,0.332,0.373,150.031,4,power-pop
+0wAObZ46FfLqLBpTDjHBzx,Off With Their Heads,Home,Altar Boy,23,147400,False,0.353,0.997,9,-2.947,1,0.0769,0.00259,0.0,0.26,0.526,155.615,4,power-pop
+7rBuZl6EfQGqQc16peGTS1,Teenage Bottlerocket,Stay Rad!,Wild Hair (across My Ass),23,116919,False,0.556,0.828,7,-4.772,1,0.0497,0.0031,0.0116,0.0642,0.722,175.007,4,power-pop
+4SE5DLktx49YQSKTme6JsG,The Lillingtons,Death By Television,You're The Only One,23,165933,False,0.332,0.882,1,-5.512,1,0.0318,0.000798,0.00786,0.0916,0.625,165.134,4,power-pop
+12DiarOYgP7svONKpI8rLd,Hoodoo Gurus,Blow Your Cool,I Was The One - 2005 Remaster,22,250226,False,0.378,0.82,2,-2.994,1,0.048,0.00656,0.198,0.203,0.482,115.067,4,power-pop
+0XnwL5wPUgAsMOEYi09UPu,Dillinger Four,Situationist Comedy,Sellthehousesellthecarsellthekidsfindsomeoneelseforgetiti'mnevercomingbackforgetit,24,122906,False,0.307,0.947,6,-5.724,0,0.165,0.000149,0.000147,0.516,0.404,123.044,4,power-pop
+4DUczTnQxJ6vVcRgFmItvU,Squeeze,Spot the Difference (Deluxe Edition),Another Nail In My Heart,23,180946,False,0.569,0.718,4,-6.001,1,0.0307,0.169,0.0,0.109,0.688,150.288,4,power-pop
+15T5zb1i1cq9liKNrg3N78,The Lemonheads,Come On Feel The Lemonheads,Favorite T,22,174106,False,0.583,0.193,0,-18.591,1,0.0344,0.534,3.16e-06,0.332,0.445,111.422,4,power-pop
+2HcE0UBhTeY1LYj4VcseJZ,Elvis Costello,My Aim Is True,Alison,35,204533,False,0.555,0.323,1,-10.774,0,0.0469,0.752,4.28e-05,0.209,0.371,176.387,4,power-pop
+3qEdIElBXVZUWavcuPHIEH,Michael Penn,"Palms & Runes, Tarot & Tea: A Michael Penn Collection",Walter Reed,34,219360,False,0.591,0.505,11,-7.891,1,0.0264,0.0404,0.000111,0.381,0.458,142.502,4,power-pop
+6nFdjV1Ko66O111x74K2kn,XTC,Skylarking,Dear God - Remastered 2001,52,219506,False,0.577,0.464,7,-7.943,1,0.024,0.0979,1.3e-06,0.154,0.346,90.557,4,power-pop
+0pycFs4JU3nSdoF4WvOIOX,The Lemonheads,Car Button Cloth,Tenderfoot,22,121640,False,0.323,0.901,7,-8.54,1,0.107,0.0545,0.221,0.134,0.345,161.605,4,power-pop
+6yixR12u4bb4rH4IklPpYi,Western Addiction,I'm Not the Man That I Thought I'd Be,I'm Not the Man That I Thought I'd Be,22,195480,False,0.55,0.926,0,-4.371,1,0.0715,0.000723,0.00524,0.395,0.569,123.049,4,power-pop
+6Noj1s3Ld4BsiKPe8sQOKc,White Reaper,White Reaper,Cool,23,161266,False,0.136,0.983,4,-4.194,1,0.0583,2.39e-05,0.724,0.214,0.431,170.673,4,power-pop
+08GASJbPjMHzPoV0dzVMYT,The Lemonheads,Lovey,Stove,22,188600,False,0.201,0.672,9,-14.963,1,0.0446,0.00193,0.00818,0.132,0.554,184.171,4,power-pop
+30bYKcsjRWRGqERYAnI37b,Cheap Trick,Dream Police,Need Your Love,24,457360,False,0.399,0.586,9,-13.792,1,0.0333,0.00433,0.0837,0.112,0.469,121.222,4,power-pop
+5hrm4EsjKXstkHgBypelD7,Alejandro Escovedo,Burn Something Beautiful,Horizontal,24,214666,False,0.449,0.744,4,-5.969,1,0.0349,0.000188,0.000194,0.129,0.369,106.502,4,power-pop
+08i3T9DXIgoNrrdTNqtgsR,that dog.,Retreat From The Sun,Gagged And Tied,22,198000,False,0.25,0.929,9,-5.527,0,0.0595,0.000288,0.0461,0.114,0.427,141.743,4,power-pop
+1s45UMzb4201qnFbYKxA4i,Teenage Bottlerocket,They Came From The Shadows,Without You,23,130986,False,0.334,0.992,0,-3.185,1,0.111,1.24e-05,0.000209,0.0895,0.696,188.995,4,power-pop
+2TuQv76tDFGZbAA8vcrH9b,Direct Hit!,Human Movement,Blood on Your Tongue,22,138506,False,0.45,0.942,1,-5.113,1,0.0348,6.9e-05,1.06e-06,0.133,0.722,174.978,4,power-pop
+33LleOXlYSGmHinXyHWU7g,Teenage Bottlerocket,Total,Crashing,23,83613,False,0.42,0.935,0,-5.686,1,0.169,0.0111,0.00316,0.285,0.481,187.821,4,power-pop
+5aNar2dzZ5r2iRfeXwzhil,The Smithereens,The Lost Album,Out Of This World,22,213080,False,0.598,0.936,6,-3.423,0,0.0482,0.00866,1.82e-06,0.0368,0.722,118.13,4,power-pop
+4kBfdJ8EqlwCGamQltH8RT,Cheap Trick,In Color,So Good to See You,24,216466,False,0.561,0.71,4,-9.803,1,0.0324,0.1,0.00169,0.104,0.677,124.803,4,power-pop
+7bkFaxB2bI0cdTi5zuLQ03,Elvis Costello;Burt Bacharach,Painted From Memory,My Thief,24,259839,False,0.373,0.142,7,-14.455,1,0.0357,0.74,2.35e-06,0.0705,0.16,122.321,4,power-pop
+5AFtplOqaP5Ji21E5HC5Wk,The Bombpops,Fear of Missing Out,Capable of Lies,22,155200,False,0.566,0.929,2,-4.663,1,0.0344,2.2e-05,0.0,0.0993,0.811,107.436,4,power-pop
+5dQ9lpB9amNsRvkbNEHyPL,PEARS,Human Movement,The World Is Ending (Sorta),22,134866,False,0.553,0.983,2,-5.043,1,0.0649,1.21e-05,0.00178,0.0264,0.647,102.516,4,power-pop
+5hxXcBDNGRsq5zkP54VjT7,XTC,Skylarking,Dying - Remastered 2001,24,151373,False,0.631,0.274,9,-11.615,0,0.0306,0.45,5.49e-06,0.0775,0.607,157.732,4,power-pop
+4j02fSIuNijpQRyu5XXKM5,The Copyrights,Make Sound,Kids of the Black Hole,22,154986,False,0.397,0.763,0,-7.032,1,0.0514,0.0288,0.000653,0.138,0.683,190.01,4,power-pop
+4CgH9V2G8vg0UvIFbEq8QT,The Cars,The Cars (Deluxe Edition),Bye Bye Love,24,255160,False,0.626,0.741,4,-7.817,1,0.0298,0.0378,0.00239,0.282,0.911,126.513,4,power-pop
+7rI8Y7mwHhaEYblq7wWtdb,The Lillingtons,Stella Sapiente,Zodiac,23,157240,False,0.384,0.972,7,-3.331,0,0.0473,0.000623,0.0251,0.108,0.548,169.887,4,power-pop
+1EhGKYU81Y7dtBCz477OF3,Groovie Ghoulies,99 Lives,I Wanna Have Fun,21,150160,False,0.204,0.91,2,-5.897,1,0.223,0.00495,0.546,0.386,0.571,191.267,4,power-pop
+54CNbsriybd0OWKBT0cnmN,Teenage Bottlerocket,Freak Out!,Maverick,23,138346,False,0.403,0.962,9,-3.726,1,0.0868,0.00158,0.0,0.301,0.664,186.911,4,power-pop
+2ef9tIleKf7mTz4bYmvt3l,Old 97's,Hit By A Train: The Best Of Old 97's,Doreen,23,223506,False,0.484,0.896,0,-5.354,0,0.0333,0.0004,0.0653,0.112,0.862,138.282,4,power-pop
+11SSeXk05lkzcVttnquVCH,The Lemonheads,It's A Shame About Ray (Expanded Edition),Hannah & Gabi - DemoVersion,22,146280,False,0.407,0.228,2,-16.722,1,0.0385,0.756,0.0146,0.407,0.527,77.809,4,power-pop
+3Nyuzv1SJniIYkIhkZjzfs,Teenage Bottlerocket,Sick Sesh!,Semi Truck,23,113092,True,0.44,0.971,2,-2.857,1,0.065,0.000271,2.52e-05,0.642,0.321,99.982,4,power-pop
+1bLXL3MPkzfdrK6NC0u0N3,Screeching Weasel,Boogadaboogadaboogada! (2020 Remaster),Love,23,110053,False,0.287,0.933,2,-6.786,1,0.0376,0.00922,2.57e-06,0.33,0.853,137.344,4,power-pop
+10E2LMoTXKnqszgFHmZEDa,Shannon & The Clams,I Wanna Go Home,Troublemaker,23,170066,False,0.348,0.734,11,-4.384,1,0.0477,0.295,0.0118,0.302,0.502,84.305,4,power-pop
+6PWoa9gZC0JdlPA38ZOZJI,Jeff Rosenstock,SKA DREAM,Monday At Back To The Beach,23,73980,False,0.574,0.549,5,-9.182,1,0.031,0.025,0.000139,0.382,0.905,177.142,4,power-pop
+6ULTShYs7hdQsmzlzFMjFb,Hoodoo Gurus,Chariot Of The Gods,Was I Supposed To Care?,21,273653,False,0.489,0.621,11,-5.465,0,0.0281,0.0218,3.26e-05,0.118,0.407,152.02,4,power-pop
+61YFsOR4RO3xpmovcV5UuI,The Lawrence Arms,Metropole (Deluxe Edition),Chilean District,24,82346,False,0.545,0.957,7,-7.472,1,0.122,0.000231,0.00573,0.509,0.519,125.685,4,power-pop
+4pl9lukL9Yme5nRtbd5ujH,Screeching Weasel,Anthem for a New Tomorrow,Totally,23,101773,False,0.465,0.972,11,-3.235,1,0.0808,0.00279,0.0,0.153,0.741,99.608,4,power-pop
+5iC6ZUWu0FOug6uyNLZRS8,Elvis Costello & The Attractions,Get Happy,The Imposter,23,118466,False,0.483,0.906,0,-6.624,1,0.04,8.74e-05,0.0052,0.0712,0.965,185.521,4,power-pop
+37Yzsng4h42PTNcIGYQ1hA,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Frank Mills - Remastered,22,103973,False,0.499,0.371,8,-14.488,0,0.0614,0.431,0.0,0.076,0.627,115.384,4,power-pop
+6iCsxY7ylVPS9Okw6QZfAU,The Replacements,All for Nothing / Nothing for All,Can't Hardly Wait - The Tim Version,23,186173,False,0.373,0.952,2,-6.429,1,0.262,0.000645,0.0,0.188,0.342,146.048,4,power-pop
+2Xg1jewTdorDPXO8EUPXSS,Elvis Costello & The Attractions,All This Useless Beauty,All This Useless Beauty,23,277973,False,0.449,0.149,2,-13.869,1,0.0428,0.726,7.73e-05,0.134,0.356,137.28,3,power-pop
+2KOEGN6Q7ByNjmPNJ8O07o,White Reaper,The World's Best American Band,Party Next Door,22,135262,False,0.565,0.778,8,-2.64,1,0.0507,0.156,0.0,0.214,0.758,165.15,4,power-pop
+2UFtcdHQnzDkLJ9a8GIUkU,The Knack,Get The Knack,Maybe Tonight,22,243093,False,0.468,0.331,2,-12.49,1,0.0363,0.228,0.0,0.091,0.677,168.805,4,power-pop
+0Yp9hUhGsLsKkfZShbpmUH,Elvis Costello,My Aim Is True,Waiting For The End Of The World,24,202893,False,0.74,0.651,0,-9.427,1,0.093,0.0743,3.2e-05,0.136,0.793,114.138,4,power-pop
+0rlqKl77Ae960tst3q0mNU,Elvis Costello;Burt Bacharach,Painted From Memory,The Long Division,24,253666,False,0.647,0.462,0,-8.277,0,0.0296,0.618,0.0,0.0869,0.489,80.129,4,power-pop
+0qZ0m8Gq4Ug5kBxKe9BVvj,The Outfield,Super Hits,Voices Of Babylon,22,211133,False,0.63,0.862,3,-5.889,1,0.0344,0.0584,0.339,0.327,0.675,121.049,4,power-pop
+7IuwYm9J6tMw6emT5ocVLZ,Nerf Herder,How To Meet Girls,Pantera Fans In Love,22,200040,False,0.219,0.862,7,-6.25,1,0.0411,0.00159,0.0,0.182,0.761,199.583,4,power-pop
+75Rqf4uPU8VLoBh7M5bKQo,Off With Their Heads,Home,Come Find Me,23,165653,False,0.24,0.988,9,-3.098,1,0.169,0.000448,0.000305,0.159,0.625,178.973,4,power-pop
+4HRlnQdOhl9iE7HEChm4Nn,Weezer,La Reine des Neiges 2 (Bande Originale Française du Film/Deluxe Edition),Lost in the Woods - Weezer Version,22,182906,False,0.326,0.605,8,-5.744,1,0.0248,0.198,0.0,0.0991,0.341,151.345,4,power-pop
+4y9OVwrQLvzB9vsC39y5Vm,The Queers,Punk Rock Confidential,Like A Parasite,23,172200,False,0.535,0.934,7,-4.28,1,0.0364,0.00103,0.211,0.375,0.97,130.956,4,power-pop
+5cYYs1vCd0G69632Cs8pmB,Elvis Costello,Spike,Let Him Dangle,24,285200,False,0.666,0.737,4,-6.28,0,0.0353,0.418,0.0,0.0429,0.624,112.969,4,power-pop
+0ccEtd9vMVSjm1R5y8R4xq,XTC,English Settlement,Yacht Dance - 2001 Remaster,24,236493,False,0.656,0.477,9,-12.696,1,0.0271,0.11,0.000256,0.315,0.691,97.375,3,power-pop
+0pLfv0qTmH5AG2aUQQdkBt,Elvis Costello & The Attractions,Blood And Chocolate,Tokyo Storm Warning,23,384973,False,0.381,0.846,7,-5.244,1,0.0626,0.233,0.0,0.0741,0.841,159.276,4,power-pop
+4BroOvcNJHLTcFCHTIx7wc,The Lemonheads,Come On Feel The Lemonheads,You Can Take It With You,22,131479,False,0.363,0.719,2,-10.192,1,0.0366,0.0221,0.0,0.298,0.585,95.903,4,power-pop
+3ezuOjWuTirncJITAb8ahf,glass beach,the first glass beach album,classic j dies and goes to hell part 1,50,304144,False,0.235,0.702,0,-5.112,0,0.0588,0.00985,0.000184,0.326,0.215,80.013,4,power-pop
+2guXQPy9ZxM9jNfu5meTnW,Let's Active,Blue Line,Blue Line,20,180400,False,0.49,0.76,4,-9.074,0,0.0398,0.0213,2.2e-05,0.051,0.772,128.241,4,power-pop
+5IUXdG3PGRd0QpVMpacSCQ,Toys That Kill,Fambly 42,The Nervous Rocks,22,98626,False,0.35,0.926,9,-4.781,1,0.0729,0.0305,0.00197,0.184,0.304,92.152,4,power-pop
+1Au335vlNHQjNlvsa8PEw2,The Muffs,Blonder And Blonder,On and On,21,106600,False,0.291,0.934,8,-5.453,1,0.0501,6.86e-05,0.11,0.318,0.537,153.574,4,power-pop
+6DeGhcWbG8uu79VkIuPDNa,ShitKid,Oh Please Be A Cocky Cool Kid,Oh Please Be A Cocky Cool Kid,21,120372,False,0.43,0.901,0,-3.447,1,0.0788,8.33e-06,0.0,0.0919,0.467,200.49,4,power-pop
+1zYApollKzH9eEVNDouTJ4,Dinosaur Jr.,Sweep It Into Space,N Say,24,195986,False,0.302,0.934,9,-6.267,1,0.076,0.00435,0.0273,0.15,0.537,154.148,4,power-pop
+0Lyv8rA24qURaeuQWVWPim,White Reaper,White Reaper,Funn,22,102240,False,0.33,0.96,9,-4.21,1,0.0443,0.000221,0.00059,0.329,0.431,97.456,4,power-pop
+6fXP5EulQSD87BL7akILIg,Barreracudas,Can Do Easy,Shampoo,21,144666,False,0.228,0.894,2,-4.915,1,0.053,0.00855,1.76e-05,0.196,0.812,176.124,4,power-pop
+5ncLYUmT8HlecKUJBMq4y0,Dinosaur Jr.,Green Mind,Muck,23,255800,False,0.513,0.716,8,-11.695,1,0.029,3.22e-05,0.0107,0.058,0.801,113.087,4,power-pop
+094Pr6hoLEcTnjRS9IxAL5,Elvis Costello & The Attractions,Get Happy,Riot Act,23,216013,False,0.434,0.504,2,-8.705,1,0.0326,0.0796,2.64e-06,0.138,0.533,115.775,4,power-pop
+6y4tqwwrrIHBtb6UAfaafT,Matthew Sweet,"Music From the Motion Picture ""The Craft""",Dark Secret,21,243333,False,0.5,0.735,6,-6.215,0,0.0293,0.124,0.013,0.0568,0.9,119.42,4,power-pop
+06isZAG9Bgm4jhPj7V0Rhx,Weezer,Weezer,The World Has Turned And Left Me Here,55,259466,False,0.455,0.918,6,-5.724,1,0.0352,0.000399,0.0134,0.323,0.56,99.078,4,power-pop
+6UyHf5Wrc1qL8m0x23evtZ,Let's Active,Room With A View,Room With A View,20,230026,False,0.726,0.69,6,-11.403,0,0.0523,0.043,0.000515,0.351,0.922,134.88,4,power-pop
+1eWIf1OBcQ4S1prYGVdiJP,The Smithereens,Out Of This World,Out Of This World,22,213080,False,0.598,0.936,6,-3.423,0,0.0482,0.00866,1.82e-06,0.0368,0.722,118.13,4,power-pop
+4qtoKYeuy3YKtuic1iF4g3,Huntingtons,Get Lost,No Pool Party Tonight,22,183800,False,0.556,0.959,9,-4.117,1,0.0422,0.0126,0.0,0.168,0.713,97.589,4,power-pop
+7hVhRCDV100Jq26NGR7adw,The Cars,The Cars,Good Times Roll,64,225853,False,0.607,0.662,4,-9.456,1,0.0278,0.0951,8.27e-05,0.125,0.629,107.643,4,power-pop
+6ohB3BC0bgPbb23wQqBvN6,Elvis Costello & The Attractions,Imperial Bedroom,Human Hands,23,163360,False,0.539,0.664,7,-7.043,1,0.0802,0.448,0.0,0.129,0.785,144.766,4,power-pop
+1T7AjEuVKRcpVD44uKQ6Li,Joe Jackson,Blaze Of Glory,Nineteen Forever,24,348533,False,0.635,0.71,0,-10.445,1,0.0322,0.0928,6.25e-05,0.34,0.847,115.046,4,power-pop
+6JSQu4eO5a81ZUNDUmMVUN,Tsunami Bomb,Trust No One,Mushy Love Song,22,145186,False,0.295,0.841,2,-6.161,1,0.0414,3.98e-05,0.0301,0.0586,0.676,152.145,4,power-pop
+0Pn8WdMrrxJMMxIYpavrnZ,Smoking Popes,Into the Agony,Simmer Down,22,146622,False,0.393,0.924,0,-5.064,1,0.066,0.000139,0.00327,0.466,0.459,99.304,4,power-pop
+0Z2OyJ84AztZDiozI5AQJ5,F.Y.P,Come Home Smelly,Come Home Smelly,21,120333,False,0.323,0.952,0,-5.382,1,0.0623,0.000357,0.00328,0.592,0.738,189.308,4,power-pop
+1q6EtzeNXA6cDZgN1CJPIv,Dinosaur Jr.,Dinosaur,Mountain Man,23,208933,False,0.154,0.98,2,-3.306,1,0.135,0.000956,0.069,0.412,0.389,91.325,4,power-pop
+2HlVqCHFlLln2Ar4z0lKmR,Alejandro Escovedo,Burn Something Beautiful,Beauty Of Your Smile,23,186666,False,0.572,0.787,4,-6.137,1,0.0351,0.0689,0.0297,0.213,0.706,121.459,4,power-pop
+73Wii1V5rmPCz5h7GP4IVd,The Dream Syndicate,Ultraviolet Battle Hymns and True Confessions,The Chronicles of You,22,172146,False,0.286,0.611,11,-6.959,0,0.035,0.266,0.766,0.105,0.508,157.84,4,power-pop
+7uufxK4eMIoc6CsJQ9jwsP,Sloppy Seconds,Destroyed,Runnin' from the CIA,21,124026,True,0.371,0.885,4,-5.589,1,0.111,0.0169,5.96e-06,0.196,0.932,199.325,4,power-pop
+2vbnR9YmMgIVUaLFBbjyYR,Screeching Weasel,My Brain Hurts,Cindy's on Methadone,23,87426,False,0.381,0.947,9,-2.915,1,0.0664,0.0699,0.0,0.185,0.639,113.267,4,power-pop
+3XIxlev3dpFhjhLjLpNp4p,Nada Surf,High/Low,Psychic Caramel,21,240226,False,0.204,0.956,11,-6.306,0,0.116,1.87e-05,0.0147,0.105,0.318,176.908,4,power-pop
+3bO7KpFDRIbUURbrHbquuw,Sloppy Seconds,Destroyed,Black Roses,22,145253,False,0.365,0.897,9,-6.34,1,0.0505,0.00188,0.000218,0.124,0.81,98.966,4,power-pop
+2pbwvoLkxuDKnOOXACj2D0,The Jayhawks,Paging Mr. Proust,Lovers of the Sun,22,195404,False,0.517,0.686,1,-6.762,0,0.0359,0.171,0.106,0.326,0.581,120.496,4,power-pop
+6rWjSJfzdvmsgdFBtJUXGo,The Dukes Of Stratosphear,Chips From The Chocolate Fireball,Collideascope - 2001 Mix,21,202960,False,0.552,0.744,11,-4.126,0,0.0295,0.00483,0.000847,0.169,0.8,91.582,4,power-pop
+4BwKxKoTqpwyQ4zOXXvp6T,Dinosaur Jr.,Whatever's Cool With Me,Whatever's Cool With Me,23,273760,False,0.177,0.98,0,-7.963,1,0.0876,0.0246,0.000116,0.736,0.0562,151.386,4,power-pop
+4MjLU7ihI3K7EOcMVB9Wk5,Screeching Weasel,My Brain Hurts,Slogans,23,97680,False,0.348,0.953,9,-2.836,0,0.066,0.041,3.05e-06,0.688,0.93,141.713,4,power-pop
+7gx45iIMOqoVkIibopDVn3,Graham Parker & The Rumour,Stick To Me,Stick To Me,21,208333,False,0.589,0.86,4,-8.44,0,0.0577,0.271,0.00903,0.0683,0.753,151.714,4,power-pop
+72JzlqSqHIor9bU3e5CbE8,The Replacements,Don't Tell a Soul (Expanded),Anywhere's Better Than Here - 2008 Remaster,23,167760,False,0.615,0.874,11,-5.887,1,0.0429,0.0603,0.0004,0.767,0.826,130.456,4,power-pop
+5ciHTt0PB0pyNWCgkVrU1F,Teenage Bottlerocket,Warning Device,Social Life,23,118266,False,0.347,0.979,7,-3.828,1,0.0688,2.61e-05,0.00186,0.19,0.467,199.901,4,power-pop
+10rIXBFUX53qx2yMuivDVK,Graham Parker & The Rumour,Howlin' Wind,Soul Shoes,21,193120,False,0.611,0.636,4,-12.171,1,0.0273,0.0285,1.39e-06,0.07,0.969,133.483,4,power-pop
+6ULTShYs7hdQsmzlzFMjFb,Hoodoo Gurus,Chariot Of The Gods,Was I Supposed To Care?,21,273653,False,0.489,0.621,11,-5.465,0,0.0281,0.0218,3.26e-05,0.118,0.407,152.02,4,power-pop
+23dqdi0EpPA3Hgh0fYo6k7,XTC,Skylarking,Sacrificial Bonfire - Remastered 2001,24,229693,False,0.576,0.495,2,-10.341,1,0.0471,0.743,0.00407,0.0793,0.191,149.812,3,power-pop
+1FDZCj7oigIZkJeTqsV5jU,Andrew Gold,All This and Heaven Too,How Can This Be Love,21,239933,False,0.669,0.568,0,-13.139,1,0.0348,0.0801,0.0,0.151,0.766,123.786,4,power-pop
+4qPaCbwwvKJVzkvUuwJldh,Teenage Bottlerocket,Stealing the Covers,Back and Forth,23,181200,False,0.521,0.991,0,-2.703,1,0.056,0.00195,0.0,0.207,0.665,102.467,4,power-pop
+0PnaWGFod9gsV7Lwg4EmYy,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Ceiling Fan In My Spoon - Remastered,21,108013,False,0.266,0.946,11,-7.628,0,0.0541,0.000233,0.00291,0.0481,0.594,179.054,4,power-pop
+6NnewyzybtlYpugv5jNZ8A,Hoodoo Gurus,Purity Of Essence,Crackin' Up,22,233293,False,0.388,0.97,6,-3.877,0,0.0583,0.0824,0.0,0.446,0.811,152.082,4,power-pop
+5YUMq12ReUUQ7lSWopDgDf,Teenage Bottlerocket,Goin' Back to Wyo,Walking the Yard,23,132041,False,0.359,0.983,0,-3.468,1,0.111,0.00169,3.81e-06,0.209,0.726,193.75,4,power-pop
+4MFCmEk0AymuN4ZbOmuW6g,Hoodoo Gurus,Mars Needs Guitars!,Hayride To Hell,22,197240,False,0.62,0.897,4,-4.656,0,0.0438,0.0247,6.77e-05,0.348,0.674,122.36,4,power-pop
+2e1lf1z0NxVOs8emvamnW4,Teenage Bottlerocket,Stealing the Covers,Robocop Is a Halfbreed Sellout,23,153626,False,0.491,0.952,2,-3.487,0,0.14,0.00634,9.7e-06,0.307,0.59,98.076,4,power-pop
+4acix07d9rBanQ81cNGxl4,Dillinger Four,Versus God,"Suckers, Intl. Has Gone Public",24,122400,False,0.412,0.984,11,-3.453,1,0.154,0.000253,0.0,0.609,0.559,127.761,4,power-pop
+2mtHYlHTrxGxwR0xqy05Ks,Dwarves,The Dwarves Are Young and Good Looking,Unrepentant,23,134106,True,0.178,0.987,4,-5.47,0,0.0827,0.00173,0.0,0.634,0.144,171.719,4,power-pop
+4TtxJBLWvgD9pnY0Lrxipe,The Smithereens,Especially For You,Strangers When We Meet,22,228093,False,0.388,0.879,5,-12.571,0,0.0554,0.0975,0.0158,0.344,0.675,144.922,4,power-pop
+158QZS0zZ4ycGZtZFPa7In,Squeeze,Greatest Hits,Last Time Forever,23,253373,False,0.458,0.511,5,-13.411,1,0.0405,0.167,0.000147,0.0744,0.72,176.23,4,power-pop
+1A4pATp8XdX3vfd6YoKuKn,The Lemonheads,Come On Feel The Lemonheads,Rick James Style,21,197639,False,0.607,0.515,4,-14.054,0,0.0261,0.0441,0.00186,0.0831,0.392,106.533,4,power-pop
+6B5ZzpitykBtZSJ5zoYq2i,Horror Section,Collection I,Graduation Dance,20,119826,True,0.301,0.914,7,-5.13,1,0.0651,0.0146,0.00701,0.301,0.593,180.024,4,power-pop
+5v4ikwHHJWghlUcDoaYWNW,2nd Grade,Easy Listening,Hands Down,21,165348,False,0.449,0.914,4,-5.76,1,0.0424,0.00179,9.24e-06,0.262,0.867,130.14,4,power-pop
+6VPMzaIGmqK43M6Yil9uUc,Western Addiction,Tremulous,"Masscult, Vulgarians, And Entitlement",21,145026,False,0.559,0.953,5,-5.76,0,0.0694,0.000166,1.08e-06,0.0687,0.574,103.508,4,power-pop
+4I1UdWSa55VKTiII5Zpn6P,Go Betty Go,Nothing Is More,Saturday,21,197186,False,0.367,0.941,2,-3.379,1,0.0487,0.00253,4.57e-06,0.452,0.73,187.089,4,power-pop
+21BpAlItCeNQofnzxmswj0,2nd Grade,Easy Listening,Controlled Burn,21,129052,False,0.461,0.899,3,-7.333,1,0.0496,0.00208,0.000141,0.307,0.48,121.44,4,power-pop
+0hw3eT3dTMA9UQ2H758x1k,The Outfield,Live in Brazil '01,"Your Love - Live at The Forum, Curitiba, Brazil, 2001",22,371160,False,0.253,0.866,1,-4.802,0,0.0627,4.73e-05,4.09e-05,0.363,0.483,127.313,4,power-pop
+16SYxKZlGXo0NN418KVVbo,The Boys With The Perpetual Nervousness;Mary Lou Lord,The Third Wave of...,Isolation,21,168266,False,0.516,0.624,8,-8.729,1,0.0285,0.0316,0.431,0.145,0.805,120.091,4,power-pop
+2MKOTPfq4hZu30XtHfImNu,The Manges,Book Of Hate For Good People,The Hate Parade,21,133960,False,0.62,0.947,0,-3.81,1,0.0604,0.000478,0.000278,0.336,0.579,105.993,4,power-pop
+7j6jTmlMd4l496KFdv1Kju,PEARS,Go to Prison,You're Boring,22,53986,False,0.343,0.981,6,-6.285,0,0.256,0.000767,0.0,0.0941,0.532,195.882,4,power-pop
+6ry0tpxTHyFizLV6YFfIbz,Toys That Kill,Fambly 42,I've Been Stabbed,21,65026,False,0.254,0.957,9,-4.577,1,0.122,0.0219,0.232,0.185,0.299,173.783,4,power-pop
+6wGtU984VFxR5nT4T4F2Xi,Dinosaur Jr.,Emptiness at The Sinclair,Thumb - Live from The Sinclair,23,403573,False,0.138,0.95,7,-5.782,1,0.116,0.000268,0.496,0.29,0.211,161.099,4,power-pop
+3eRmP3pJRNA93NhvVnD6s1,Dinosaur Jr.,Bug,The Post,23,218466,False,0.168,0.937,2,-4.513,1,0.0646,0.00589,0.733,0.102,0.242,136.868,4,power-pop
+5kCjHUh0QdbANYM0ZVlLVO,The Cars,Shake It Up (Expanded Edition),Midnight Dancer,23,262146,False,0.691,0.592,4,-7.251,1,0.029,0.353,0.223,0.188,0.347,113.324,4,power-pop
+0qR3E3iLBjDBeeTS7xCoLf,The Soft Boys,Underwater Moonlight,I Got the Hots,23,283026,False,0.414,0.675,11,-9.715,0,0.0531,0.0175,0.0631,0.121,0.581,105.869,4,power-pop
+2QkdJnZesau0hIfgwqdBkM,Dinosaur Jr.,Hand It Over,I'm Insane,23,233400,False,0.237,0.973,8,-4.881,1,0.0944,0.000829,0.538,0.108,0.351,117.011,4,power-pop
+7z9r5ZqzrXvSXByOb3kX28,The Dream Syndicate,Ultraviolet Battle Hymns and True Confessions,Hard to Say Goodbye,22,307853,False,0.387,0.526,4,-8.277,1,0.027,0.464,0.0128,0.147,0.197,147.984,4,power-pop
+5Ag2HVfyE4rzXa8ba47Qqo,The Lemonheads,Varshons 2,Abandoned,21,220306,False,0.444,0.545,0,-6.574,1,0.0284,0.0391,0.000356,0.184,0.382,126.728,4,power-pop
+50PTf1z8QxoYAFsr0g7r5D,The Falcon,Unicornography,The Angry Cry of the Angry Pie,23,114093,False,0.333,0.929,4,-6.777,0,0.0649,0.000847,0.00958,0.0847,0.625,93.646,4,power-pop
+6imAiQde4tZKnFCr7oDajb,Chixdiggit!,Born on the First of July,Gettin' Air,22,93000,False,0.515,0.951,0,-5.333,1,0.0485,0.0254,0.0,0.0991,0.702,150.822,4,power-pop
+5Blj2sPUANGciixUQRdvNp,The Bombpops,Can of Worms,Breathe,21,194546,False,0.404,0.982,1,-3.531,1,0.0812,0.000509,0.0,0.169,0.625,156.029,4,power-pop
+7dsc0u18GBSOlvB25fSChP,Squeeze,Cool For Cats,It's Not Cricket,22,154840,False,0.63,0.658,2,-11.523,1,0.0308,0.401,0.0,0.183,0.934,133.639,4,power-pop
+2ZiugPYLX2ioPg1WWyc2Gy,The Nerves,One Way Ticket,It's Hot Outside,21,150506,False,0.411,0.925,2,-6.938,1,0.0692,0.000257,0.000155,0.236,0.889,175.921,4,power-pop
+4woDiVSldSOqMuYm25cU1s,The Jayhawks,Xoxo,Bitter Pill,22,203524,False,0.317,0.649,9,-6.877,1,0.0299,0.497,0.00111,0.126,0.352,170.831,4,power-pop
+121q8jKrIWA135KrNQwmCq,Nada Surf,High/Low,Hollywood,20,140800,False,0.396,0.961,2,-5.824,1,0.0485,1.17e-05,0.00723,0.135,0.438,133.177,4,power-pop
+5Ogn4J7BiPGa797n3kEWHb,The 20 Belows,Late Nights,Reasons,19,97201,True,0.357,0.958,7,-2.997,1,0.0971,0.00016,1.16e-05,0.387,0.426,137.711,4,power-pop
+04tKWCoK9J9GSpiJ2V3gr4,The Copyrights,North Sentinel Island,Worn Out Passport,21,125186,False,0.538,0.886,11,-5.265,1,0.0398,0.00157,0.000181,0.774,0.612,91.983,4,power-pop
+3InIrRs2R78HeFcfms44IB,Dinosaur Jr.,Green Mind,How'd You Pin That One On Me,23,263600,False,0.192,0.966,1,-10.592,0,0.0539,4.64e-05,0.0107,0.323,0.338,100.32,4,power-pop
+2BFdYguVhdbLjzWn3rSpP9,The Lemonheads,Varshons 2,Settled Down Like Rain,21,172920,False,0.529,0.74,0,-7.885,1,0.0292,0.035,0.00706,0.0992,0.664,115.583,4,power-pop
+4OFtgK51IxIdZvhcGqCNrL,Dinosaur Jr.,Beyond,Been There All The Time,23,220666,False,0.177,0.969,9,-3.2,1,0.194,0.00219,1.53e-06,0.0624,0.268,162.365,4,power-pop
+3IL65b1CNflxcFiBouXvDA,The Lawrence Arms,Apathy and Exhaustion,Your Gravest Words,24,259600,False,0.342,0.929,11,-6.074,1,0.0553,0.000453,0.000108,0.212,0.783,171.717,4,power-pop
+6iNMaGdQf5g2KWNEKx7TTC,The Bombpops,Dear Beer,Polluted Skies,21,145906,False,0.566,0.948,3,-5.272,1,0.0522,5.5e-05,0.0,0.148,0.574,105.079,4,power-pop
+08hLh94HjmD4JdZ4ETflsh,White Reaper,The World's Best American Band,Crystal Pistol,22,142350,False,0.449,0.969,0,-1.482,0,0.189,0.0144,0.0,0.139,0.344,145.008,4,power-pop
+3EOuEJsT7Vnr3Nd1ZMRA4d,Blondie,Eat To The Beat,Living In The Real World,21,163706,False,0.288,0.947,0,-2.975,1,0.0638,0.223,0.0,0.254,0.432,93.396,4,power-pop
+0P8tqwpP4qLqrcgAFwY3dl,Superchunk,Wild Loneliness,This Night,21,275680,False,0.555,0.926,6,-5.686,1,0.0461,0.00453,0.000611,0.254,0.694,130.042,4,power-pop
+4KU0aSzKcROJhrwTdt3L2C,Old 97's,Hit By A Train: The Best Of Old 97's,Timebomb,21,188746,False,0.292,0.95,0,-4.651,1,0.0803,0.00314,0.00422,0.297,0.33,143.115,4,power-pop
+4iCy5QDLde11xsxu7JgA8m,Teenage Bottlerocket,They Came From The Shadows,Do What?,22,147493,False,0.553,0.94,7,-3.79,1,0.0752,0.000529,0.0,0.296,0.844,97.028,4,power-pop
+3E534gp8N1tY0fNDG7TEEN,Screeching Weasel,Boogadaboogadaboogada! (2020 Remaster),Sunshine,23,164853,False,0.198,0.983,6,-5.233,1,0.108,0.0768,0.000898,0.76,0.56,142.749,4,power-pop
+0mMaXb6uX7IA7rnN9xCxBJ,Los Crudos,Discografía,No Estoy Convencido,23,59268,False,0.366,0.89,6,-5.735,0,0.148,0.000149,0.194,0.37,0.694,176.97,4,power-pop
+2IsnWvRlyWLAeN6xShjAZq,Masked Intruder,Masked Intruder,Hello Beautiful,21,173266,False,0.579,0.783,2,-6.854,1,0.146,0.00226,0.111,0.664,0.203,107.103,4,power-pop
+2s7lwrJorAb2nGJ2dDs2Sq,Teenage Bottlerocket,Stay Rad!,Creature from the Black Metal Lagoon,22,164365,False,0.525,0.896,4,-4.149,0,0.0376,0.000272,0.00157,0.414,0.377,155.056,4,power-pop
+2DGoiBUZSbprAcvGw5l1W7,Screeching Weasel,Anthem for a New Tomorrow,Every Night,23,222706,False,0.22,0.872,8,-5.388,1,0.0461,0.00048,0.000186,0.0541,0.414,177.017,4,power-pop
+19xmhGDOerikf4Wl5LrstY,Smoking Popes,Destination Failure,Pretty Pathetic,21,248066,False,0.663,0.796,11,-5.922,1,0.0384,0.038,7.54e-05,0.112,0.758,123.951,4,power-pop
+1dCsPW2sYz3LqPTZGCMFXe,Swingin' Utters,Five Lessons Learned,A Promise to Distinction,23,128066,False,0.396,0.981,7,-4.153,1,0.0633,0.00329,3.52e-05,0.194,0.761,115.804,4,power-pop
+0lBXQmLqB6tgBdezJMBc4F,Teenage Bottlerocket,Total,Rebound,22,138640,False,0.499,0.971,10,-4.024,1,0.0441,0.0145,2.51e-05,0.195,0.756,139.971,4,power-pop
+12aorxTsA3NlwJd7wDiOi3,The Lawrence Arms,The Greatest Story Ever Told,The Ramblin' Boys of Pleasure,24,164493,False,0.318,0.835,0,-5.887,1,0.0712,0.0045,0.0,0.35,0.266,101.646,4,power-pop
+2SMaJehM2fAd9lXUgMFc4w,The Cowsills,20th Century Masters: The Millennium Collection: Best Of The Cowsills,"The Rain, The Park & Other Things - Single Version",21,182266,False,0.427,0.669,11,-8.919,1,0.0387,0.41,2.32e-05,0.355,0.657,129.403,4,power-pop
+4cq62MGrYV4f0LHARaqar3,Hoodoo Gurus,Mars Needs Guitars!,Show Some Emotion - 2005 Remaster,21,178213,False,0.574,0.92,7,-4.498,1,0.0314,0.00757,0.000332,0.162,0.649,126.328,4,power-pop
+0gof4zJewt0Krlibe7egiR,Cheap Trick,The Essential Cheap Trick,Dream Police,23,231266,False,0.471,0.862,4,-7.362,1,0.0407,0.00686,3.87e-05,0.109,0.621,137.532,4,power-pop
+1kIlUyCy5HJOZrm4fap6Yq,Spinning Jennies,Det våras för Werther,Hon bor i Hammarbyhöjden,20,127059,False,0.58,0.565,7,-6.117,1,0.0303,0.3,0.0,0.26,0.915,148.994,4,power-pop
+2zig85o7jNJ5YJyL2LzDFb,Nick Lowe,Labour of Lust,Switchboard Susan,23,229383,False,0.634,0.75,10,-9.045,1,0.029,0.0563,0.000504,0.0547,0.815,138.674,4,power-pop
+2JjPXPtaFSv3gKvciSc4we,Blake Babies,Rosy Jack World,Severed Lips,21,255426,False,0.588,0.606,0,-11.032,1,0.0319,0.0322,0.0607,0.352,0.673,125.967,4,power-pop
+7z8k6KAvjHX3RtkYNhIC9B,The Cars,Heartbeat City,Magic,48,237093,False,0.683,0.806,9,-7.574,1,0.042,0.125,0.000548,0.191,0.962,118.032,4,power-pop
+39h7ZrihlEwur7jVSxUzYg,Jimmy Eat World,Futures: Phoenix Sessions,Just Tonight,21,207956,False,0.419,0.941,1,-4.455,1,0.0808,0.00585,0.0,0.24,0.574,169.981,4,power-pop
+28cguPgj5JK79FsWCf93n1,Jimmy Eat World,Clarity: Phoenix Sessions,Table for Glasses,22,256147,False,0.574,0.385,2,-6.786,1,0.0326,0.019,0.0,0.103,0.0875,122.02,4,power-pop
+04zz61bceQwMJUa61BVreA,The Riptides,Canadian Graffiti,Totally Wasted,21,103346,False,0.389,0.878,1,-4.737,0,0.0646,9.04e-05,2.31e-06,0.191,0.765,197.74,4,power-pop
+48em2surDglwbkUmdrHNjd,Falconshield,Storm Crusaders,Kill! Drink! Kill!,21,191634,False,0.407,0.971,4,-6.027,0,0.13,3.49e-05,0.0,0.165,0.355,169.84,4,power-pop
+5uSfNhOp6hyIISbdh1PqTH,Superdrag,Head Trip In Every Key,Sold You an Alibi,21,192866,True,0.574,0.806,11,-6.75,0,0.028,0.000119,0.0547,0.122,0.828,128.655,4,power-pop
+0Bx1ZimXQCcRK1jtGpptqJ,The Lemonheads,Favorite Spanish Dishes,Ride With Me - Acoustic,20,234573,False,0.432,0.16,7,-20.509,1,0.0353,0.628,4.91e-06,0.119,0.267,124.473,3,power-pop
+3D4vCxJemidHRGSj85GnqN,Blondie,Autoamerican,Walk Like Me - Remastered,21,224960,False,0.614,0.664,4,-6.128,0,0.0505,0.0752,0.000126,0.581,0.369,158.974,4,power-pop
+2twRRzKh1cq4bKoOIIwaVJ,Royal Headache,High,Little Star,22,155098,False,0.344,0.932,0,-4.348,1,0.0572,1.15e-05,0.824,0.376,0.405,101.15,4,power-pop
+1FNCO6SmZdJN5a07k3nhjl,Ex Hex,It's Real,Tough Enough,21,278453,False,0.608,0.834,6,-5.101,0,0.0381,0.0218,0.000164,0.13,0.855,139.993,4,power-pop
+5Qb2RFpMDU7c0RpnxMWCBQ,The Muffs,Alert Today Alive Tomorrow,I Wish That Could Be You,21,106293,False,0.382,0.809,4,-3.837,1,0.0431,0.000915,0.000136,0.145,0.591,128.488,4,power-pop
+73HBy76X1gdbTVwDcqnJWY,The Manges,Book Of Hate For Good People,Too Many Freaks,20,119706,False,0.46,0.961,2,-4.358,1,0.0356,0.000856,0.00905,0.383,0.831,180.069,4,power-pop
+3TGpIrnRqORtV9s5foN92I,Joe Jackson,Night And Day,T.V. Age,23,222626,False,0.689,0.845,3,-4.893,1,0.0284,0.0973,0.000915,0.114,0.853,111.482,4,power-pop
+3xzgQ1C98KoUaQrwTt9REj,The Boys With The Perpetual Nervousness,The Third Wave of...,Turning Red,21,134681,False,0.564,0.807,6,-9.178,1,0.0264,0.0925,0.04,0.336,0.737,129.949,4,power-pop
+0PNKW23m5Qu4OJ9UjPZTuQ,Direct Hit!,Brainless God,The World Is Ending (No One Cares),21,146386,False,0.43,0.994,1,-3.65,1,0.0704,0.000384,0.000184,0.087,0.583,95.974,4,power-pop
+2Bdk07i7W4GmrwX1H5u0Vv,Radioactivity,Radioactivity,Locked in My Head,21,149093,False,0.23,0.949,10,-3.786,1,0.0693,0.00183,0.911,0.259,0.506,189.929,4,power-pop
+4dHY6Wk0HBF9lCc22Ril4M,Nikki and the Corvettes,Nikki and the Corvettes,Young & Crazy,20,115000,False,0.384,0.938,2,-2.826,1,0.194,0.443,0.584,0.409,0.466,200.06,4,power-pop
+62k6H81zXT132MOAhDlU1A,Fountains Of Wayne,Traffic And Weather,Strapped For Cash,20,211266,False,0.663,0.826,6,-5.184,0,0.0453,0.0722,0.0,0.114,0.927,120.862,4,power-pop
+7xC0S1h29b9W9RwYwabiCl,glass beach;Skatune Network,alchemist rats beg bashful (remixes),Calico (Emo Rocksteady Cover),21,131612,False,0.615,0.537,2,-5.925,1,0.0374,0.0056,0.063,0.167,0.676,154.951,4,power-pop
+0wdLeSbEJyg7lkJ6WPD22L,Paul Collins,King Of Power Pop!,Many Roads To Follow,20,144920,False,0.551,0.647,3,-9.078,1,0.0288,0.56,0.000268,0.115,0.609,125.61,4,power-pop
+4vLCRNSVt3r281oEEDkty3,Squeeze,Cool For Cats,Revue,22,150360,False,0.466,0.634,5,-14.155,1,0.0822,0.109,0.0,0.172,0.774,151.682,4,power-pop
+1yv4qlcuYd1MO0LBj9wokm,The Replacements;Jay Healy,All Shook Down (Expanded Edition),Sadly Beautiful - 2008 Remaster,22,197013,False,0.527,0.192,2,-20.596,1,0.0344,0.868,0.00063,0.123,0.452,106.534,4,power-pop
+5xnPzWZDowGxTQTl4RwrmC,Old 97's,Satellite Rides,King of All the World,22,171813,False,0.405,0.715,0,-7.362,1,0.044,0.000776,0.0,0.139,0.693,77.112,4,power-pop
+4MgFEi9BQrLfA6KOwAdk1G,The Nerves,One Way Ticket,Are You Famous? (Demo),21,114293,False,0.626,0.803,9,-5.908,1,0.0299,0.716,0.226,0.102,0.728,136.341,4,power-pop
+43lJEt3UP88ObREbTJH8AY,The Bombpops,Death in Venice Beach,Southbound Stranger,21,188139,False,0.513,0.94,7,-5.243,1,0.0614,0.000292,5.01e-06,0.138,0.175,134.927,4,power-pop
+2U63omtSNQ5ZB6n0A049hD,The Ergs!,Dork Rock Cork Rod,"A Very Pretty Song for a Very Special Young Lady, Pt. 2",22,106880,False,0.374,0.948,11,-3.915,1,0.123,0.00943,0.0,0.391,0.578,111.263,4,power-pop
+5GBHdemznBEivjuGaCwdZH,The Jayhawks,Back Roads And Abandoned Motels,Carry You to Safety,22,324493,False,0.552,0.571,10,-8.283,1,0.0286,0.472,6.32e-05,0.0857,0.331,92.623,4,power-pop
+28QeAQyaa93Bp5CPYrHFUW,Buffalo Tom,Let Me Come Over,Velvet Roof,21,235400,False,0.413,0.937,0,-8.99,1,0.0485,2.17e-05,0.000105,0.238,0.604,134.993,4,power-pop
+36AgakpKJ3bchn2Sz3FrZw,Los Crudos,Discografía,Eliminación,23,31637,False,0.235,0.901,1,-5.465,1,0.0964,0.000153,0.947,0.113,0.913,167.057,4,power-pop
+68EPWFdvx17RWixM9KPaGi,The Dream Syndicate,Ultraviolet Battle Hymns and True Confessions,Trying to Get Over,21,215880,False,0.339,0.937,9,-4.303,0,0.0702,0.000132,0.0751,0.632,0.562,151.756,4,power-pop
+31a2yZFwIeDYIP1ulpTGRa,Shannon & The Clams,I Wanna Go Home,The Warlock in the Woods,21,182973,False,0.285,0.685,6,-5.541,1,0.0424,0.00787,0.362,0.227,0.71,149.695,4,power-pop
+26vPQPgyjrM2SGonhn8X0Y,Screeching Weasel,My Brain Hurts,Kamala's Too Nice,23,81320,False,0.375,0.972,11,-3.03,0,0.0807,0.0179,1.15e-05,0.185,0.716,157.138,4,power-pop
+2JSr7ac0mggMkATfcqHIFP,Blondie,Greatest Hits: Blondie,Rip Her To Shreads,21,201080,False,0.581,0.705,9,-6.772,1,0.0324,0.000189,0.045,0.259,0.787,123.615,4,power-pop
+2bAbDf7h7gUEJQRxXBBq2N,Big Star,Keep An Eye On The Sky,Thank You Friends,22,186293,False,0.389,0.962,7,-6.316,1,0.0655,0.0968,1.4e-06,0.0633,0.558,112.501,4,power-pop
+26LtMtNSAFwBMl6ehOq37r,Joe Jackson,Night And Day,Real Men,23,244933,False,0.665,0.5,2,-5.951,1,0.0256,0.633,5.61e-05,0.156,0.348,113.485,3,power-pop
+640qGOXw20YB2MkZX0wGaq,Screeching Weasel,Bark Like a Dog,You'll Be in My Dreams Today,22,158960,False,0.537,0.938,10,-6.029,1,0.0468,0.00221,0.0,0.125,0.737,100.283,4,power-pop
+5wkZAZSY9DE4xpSJqTMSGR,Los Crudos,Discografía,Se Ve En Tu Cara,23,50457,False,0.333,0.961,9,-3.709,0,0.105,0.000165,0.0281,0.0528,0.665,155.005,4,power-pop
+4Rfh6I1TAB7vXCK0A6k8sH,The Queers,Don't Back Down,Born To Do Dishes,22,115466,False,0.269,0.893,7,-3.595,1,0.0397,0.00018,0.0,0.498,0.879,178.687,4,power-pop
+2zzj3oL71Pm0Cav4sNiBIU,Graham Parker,Your Country,Almost Thanksgiving Day,20,203933,False,0.433,0.573,2,-8.451,1,0.0285,0.00562,8.35e-06,0.369,0.363,119.728,3,power-pop
+0cDEQnSicWVB8qWv68k6qn,Dillinger Four,Midwestern Songs Of The Americas,O.K. F.M. D.O.A.,23,190533,False,0.342,0.953,4,-5.874,1,0.149,0.021,0.0038,0.587,0.279,91.305,4,power-pop
+1nW1ddXz1qUJset1eRVpda,Swingin' Utters,Five Lessons Learned,Tell Me Lies,23,129600,False,0.47,0.984,9,-3.628,1,0.0609,0.000389,0.000674,0.726,0.834,119.7,4,power-pop
+2crISejaCPWZus5OVJ2f7j,Off With Their Heads,From the Bottom,I Am You,22,153960,False,0.451,0.988,9,-5.03,1,0.157,0.000108,0.514,0.19,0.308,106.261,4,power-pop
+5k0zYYlBVSD0P2YudfaMfd,Hoodoo Gurus,Magnum Cum Louder,Shadow Me,21,220453,False,0.313,0.818,9,-4.671,1,0.0453,0.112,0.232,0.0662,0.552,170.751,4,power-pop
+6dF0VLtLe6De30w17TMquI,The New Pornographers,Together,Your Hands (Together),22,212786,False,0.324,0.528,0,-8.21,1,0.0362,0.0163,0.0,0.343,0.47,150.721,4,power-pop
+29GYqN3PpCr6Q6Frvozmwo,Joe Jackson,Jumpin' Jive (Remastered 1999),What's The Use Of Getting Sober (When You're Gonna Get Drunk Again),23,229400,False,0.633,0.363,3,-7.809,1,0.034,0.603,1.13e-06,0.0496,0.396,77.887,4,power-pop
+2G2fylyaJAYV9LgCY9gLMG,The Cowboys,The Bottom of a Rotten Flower,Some Things Never Change,21,104138,False,0.316,0.872,0,-1.667,1,0.04,0.0236,0.904,0.246,0.803,91.105,4,power-pop
+6Uyxtcvx2ZH98Zc4O2QOVO,Off With Their Heads,Home,Take Me Out,22,144993,False,0.341,0.963,1,-4.02,0,0.103,0.000807,8.19e-05,0.0989,0.538,101.852,4,power-pop
+4JoaPjcbTsuut7mGqPKKFs,Squeeze,Greatest Hits,Black Coffee In Bed,22,371093,False,0.62,0.398,6,-13.625,0,0.0308,0.166,0.000337,0.08,0.775,108.596,4,power-pop
+1fY7pURE3mF7ugBIsnKEO0,Squeeze,Greatest Hits,Is That Love?,22,151200,False,0.423,0.629,9,-13.874,0,0.0419,0.0451,0.0,0.162,0.597,160.347,4,power-pop
+6S1LhONOa49GngT8CfQX0z,Jimmy Eat World,Surviving: Phoenix Sessions,Diamond,21,185554,False,0.541,0.71,9,-11.037,1,0.0555,0.00425,4.39e-05,0.174,0.488,135.907,4,power-pop
+6AYhInfkWT8sOUKqS2quCF,Jimmy Eat World,Surviving: Phoenix Sessions,Love Never,21,171724,False,0.513,0.776,1,-11.023,0,0.0501,0.00056,0.00387,0.61,0.573,136.079,3,power-pop
+3Vus333xGsTTCH8nP9JFWx,Cende,Cende EP,Vice,21,83763,False,0.294,0.977,6,-4.243,1,0.152,3.15e-06,0.18,0.491,0.362,174.038,4,power-pop
+5wLVpReOUanAaJYS8VgUfo,Riverdales,Riverdales,Outta Sight,21,67480,False,0.199,0.977,9,-4.057,1,0.0714,0.0022,0.0,0.388,0.368,187.537,3,power-pop
+6fp60S08PAKL0WvU9UDixo,Pointed Sticks,Waiting for the Real Thing,Somebody's Mom,20,95093,False,0.292,0.827,11,-5.915,0,0.123,0.02,0.000195,0.0878,0.83,192.028,4,power-pop
+5pBaIDEQbrXKpplRE9sU5B,The Manges,Book Of Hate For Good People,I'm Not A Sissy,20,141480,False,0.622,0.966,0,-3.95,1,0.0354,0.0086,3.57e-06,0.368,0.79,108.013,4,power-pop
+3kkRw4UoDWF6J85H6FC2dq,The dB's;Don Dixon,I Thought You Wanted to Know: 1978-1981,Black and White - Don Dixon Mix,20,176613,False,0.451,0.866,4,-9.587,1,0.0346,0.059,0.0249,0.0842,0.885,86.543,4,power-pop
+5edvkkeTm7ruKIyq9NPDEP,Royal Headache,Royal Headache,Pity,22,144908,False,0.262,0.825,9,-5.739,1,0.0438,1.27e-06,0.848,0.0722,0.394,98.681,4,power-pop
+3ZYmMeRuZavTwuAnMAhbco,The Whiffs,Another Whiff,Shakin All Over,20,162912,False,0.185,0.854,8,-3.532,1,0.0446,0.00196,0.0169,0.133,0.85,147.76,4,power-pop
+01lhcfZIEUd20ZbtLSoZWx,Royal Headache,High,Garbage,21,241312,False,0.226,0.909,9,-6.422,1,0.064,3.33e-05,0.487,0.432,0.684,139.291,4,power-pop
+2Q4UhhabUUEDYAhGTuVINc,Jimmy Eat World,Damage,How'd You Have Me,21,222280,False,0.311,0.894,4,-4.192,1,0.0431,9e-06,0.00123,0.334,0.324,154.924,4,power-pop
+6IZIEhCq9crPjl2jGUvELS,The Jayhawks,Rainy Day Music,Save It For A Rainy Day,51,187733,False,0.632,0.757,11,-3.536,1,0.0267,0.278,0.0,0.358,0.718,124.805,4,power-pop
+2do5cya7VhSK0lZ8k5WGjO,Jason & The Scorchers,Fervor / Lost & Found,If Money Talks,21,155093,False,0.299,0.985,7,-3.008,1,0.103,0.0168,0.000204,0.339,0.349,175.934,4,power-pop
+6ncxugYK1RzlvG4xvmHmP5,The Dollyrots,Daydream Explosion,I Know How to Party,20,170853,False,0.541,0.854,1,-5.237,1,0.0454,0.00186,7.31e-06,0.371,0.899,158.073,4,power-pop
+0W8aG3ZDwyGZHPsf4oGNeU,Blake Babies,Sunburn,I'm Not Your Mother,21,191333,False,0.564,0.753,7,-8.686,1,0.0283,0.0485,0.000116,0.331,0.711,145.087,4,power-pop
+7tyxIzfJI6uoc7t9kwwGmf,F.Y.P,Toys That Kill,Wherever the Creeps Go,20,114360,False,0.346,0.862,5,-6.208,1,0.0993,0.00762,0.0,0.676,0.741,178.092,4,power-pop
+5hHlsZEZWw90LRGjbknYJt,The Falcon,Gather Up The Chaps,Sailor's Grave,22,153295,False,0.507,0.884,0,-6.398,1,0.0605,0.00212,0.00383,0.175,0.767,113.994,4,power-pop
+1H8lL6KK0auSsErQb0V83H,Blondie,Blondie (Remastered),X Offender - Private Stock Single Version / Remastered,21,193706,False,0.32,0.783,4,-6.834,1,0.059,0.0088,0.000484,0.165,0.852,154.123,4,power-pop
+0Qxy16VftGDe1CxAZmoytL,Buffalo Tom,Let Me Come Over,Mineral,20,272840,False,0.324,0.584,10,-10.741,1,0.0325,0.000958,0.000308,0.144,0.334,112.051,4,power-pop
+6oe8UWZVOysx9HxbPzdYMo,Jeff Rosenstock,2020 DUMP,ILLEGAL FIREWORKS AND HIDING BOTTLES IN THE SAND,22,248511,False,0.465,0.613,11,-6.424,1,0.0354,0.0176,0.0314,0.0735,0.372,114.989,4,power-pop
+71OjIXPki20m05d4dxs25n,Matthew Sweet,Altered Beast,Time Capsule,20,236026,False,0.529,0.714,8,-8.426,1,0.0295,0.229,0.00909,0.128,0.837,110.16,4,power-pop
+3gnECjoda7OKT4qD18rKfa,Dinosaur Jr.,Dinosaur,The Leper,22,244733,False,0.261,0.99,9,-3.432,1,0.167,0.00221,0.165,0.0854,0.39,90.243,4,power-pop
+5SoRR3BFTr0zJANmKvzbgR,The Marked Men,Fix My Brain,Sully My Name,21,127680,False,0.391,0.898,9,-4.037,1,0.0425,6.18e-05,0.46,0.141,0.757,130.813,4,power-pop
+75bYz6igpTeg4D1vnPHp3c,The Dollyrots,Daydream Explosion,Everything,20,183911,False,0.451,0.938,10,-4.277,1,0.0636,0.000103,0.0109,0.316,0.861,179.98,4,power-pop
+7JlrM6MxsLw5l70L6xDaUw,Screeching Weasel,The Awful Disclosures Of Screeching Weasel,In La Quinta del Sordo,22,158613,False,0.278,0.912,0,-5.542,0,0.0704,2.94e-05,0.0407,0.12,0.49,179.847,4,power-pop
+2lnsPwMiu9LWtn2xgLKDqz,The Lillingtons,Stella Sapiente,Pursuit of Pleasure,22,224733,False,0.31,0.949,7,-4.562,0,0.0485,2.44e-05,0.0063,0.303,0.452,169.894,4,power-pop
+0ZCoqEDvsKYQrvb4VmexUj,Teenage Fanclub,Songs From Northern Britain,Can't Feel My Soul,20,191986,False,0.274,0.62,5,-8.316,1,0.0323,4e-06,0.252,0.127,0.393,70.808,4,power-pop
+6I027hXtehcE55bFjbxhLk,World Party,Goodbye Jumbo,Ain't Gonna Come Till I'm Ready,22,305800,False,0.572,0.655,0,-8.019,0,0.0278,0.238,0.574,0.0724,0.68,188.337,4,power-pop
+5qoJCrVHq60horajlEnl9y,XTC,Oranges & Lemons,Scarecrow People - 2001 Remaster,23,253160,False,0.595,0.89,1,-4.998,0,0.028,0.0233,2.02e-05,0.21,0.92,94.648,4,power-pop
+3nKitBLMtQNotadAdyEhox,The Jayhawks,Back Roads And Abandoned Motels,Gonna Be a Darkness,21,298346,False,0.478,0.546,2,-7.218,1,0.0351,0.493,3.27e-06,0.197,0.371,137.104,4,power-pop
+0yhc4Hdzc6t2EAUbSJLofl,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Busy Bodies,22,215840,False,0.45,0.768,2,-10.697,1,0.0367,0.0706,0.00115,0.311,0.838,137.932,4,power-pop
+4MRylYuw7JcYVuSo3YFy5f,The Replacements,All for Nothing / Nothing for All,"Another Girl, Another Planet - Live",21,151893,False,0.228,0.98,4,-6.158,1,0.251,0.000651,0.000259,0.545,0.226,160.512,4,power-pop
+3KGvLzxVR60a5ZvkbKTGc1,Joe Jackson,Night And Day,Steppin' Out - Demo Version,23,252800,False,0.607,0.578,0,-8.318,1,0.0259,0.167,0.000702,0.142,0.614,152.617,4,power-pop
+4qmpaHIZ9sG3iu6lcqh6lb,Elvis Costello & The Attractions;Cami,Spanish Model,La Chica De Hoy (This Year's Girl),22,209280,False,0.614,0.868,9,-4.573,0,0.0406,0.000183,0.0394,0.202,0.875,133.186,4,power-pop
+59lcXrBkoYv63Hn1YAYW5a,The Jayhawks,Sound Of Lies (Expanded Edition),It's Up To You,21,218346,False,0.486,0.771,7,-8.951,1,0.0364,0.00148,0.129,0.402,0.741,117.696,4,power-pop
+0Sz4HOImRIm7SE7S4OcnYp,Elvis Costello;Burt Bacharach,Painted From Memory,What's Her Name Today?,22,247733,False,0.363,0.241,5,-12.675,1,0.0457,0.637,0.0,0.132,0.196,73.628,4,power-pop
+5kWlR2bbOe56XLsRJ5EHlE,Joe Jackson,"Big World (Live At The Roundabout Theatre, New York City/1986)","Right And Wrong - Live At The Roundabout Theatre, New York City/1986",23,274733,False,0.688,0.585,9,-11.537,0,0.0309,0.00445,1.53e-06,0.0492,0.841,119.37,4,power-pop
+6vAxSw0WOTvzZ7Bzilnscq,Teenage Bottlerocket,Total,Fall For Me,22,182026,False,0.308,0.971,7,-5.003,1,0.156,0.0318,1.18e-06,0.424,0.506,178.337,4,power-pop
+3Xb3Dkg22CazcSc9eTrJfw,Blondie,Atomic: The Very Best Of Blondie,Call Me,21,212600,False,0.559,0.832,2,-6.685,0,0.0337,0.000735,0.00203,0.0906,0.785,142.674,4,power-pop
+0MHvQ4Afst1nRQzrmlMfqP,The Lawrence Arms,Apathy and Exhaustion,Boat Less Booze Cruise Party,23,207733,False,0.297,0.913,4,-7.282,1,0.0322,0.00119,0.754,0.149,0.911,154.348,4,power-pop
+4zi8jA4hDOXyI2lLCJcu8L,Teenage Fanclub,Songs From Northern Britain,Take the Long Way Round,20,205266,False,0.472,0.774,2,-8.276,1,0.0293,2.32e-05,0.021,0.124,0.646,123.245,4,power-pop
+6c8ZUcvaqdDqkWSOVhvabA,Teenage Bottlerocket,They Came From The Shadows,Be with You,22,102946,False,0.486,0.98,6,-2.868,0,0.0903,0.000115,0.0,0.0485,0.591,101.496,4,power-pop
+2xEuXzb9Iqd6Bzy2abykOg,Masked Intruder,Masked Intruder,Why Don't You Love Me in Real Life,20,166040,False,0.392,0.426,9,-6.558,1,0.0911,0.0298,0.000228,0.0983,0.569,149.368,4,power-pop
+39ndhdKnXD9hgiknOybQLb,The New Pornographers,Together,We End Up Together,22,346773,False,0.503,0.603,9,-8.26,1,0.0354,0.257,0.0,0.168,0.459,178.057,4,power-pop
+02Yz60gPergGhGxfOfbve8,The New Pornographers,Challengers,All The Things That Go To Make Heaven And Earth,22,188973,False,0.526,0.978,6,-4.105,1,0.0428,0.304,0.000217,0.267,0.941,152.548,4,power-pop
+0W6BlKqPGR1Df1yhb8I228,Hoodoo Gurus,Electric Soup,1000 Miles Away,21,272716,False,0.516,0.763,9,-5.904,1,0.0461,0.0427,0.000578,0.0845,0.296,128.425,4,power-pop
+0wHuZDzuvyinhVnxyy9ZJO,Cheap Trick,At Budokan,"Clock Strikes Ten - Live at Nippon Budokan, Tokyo, JPN - April 1978",23,241293,False,0.332,0.981,2,-8.838,1,0.129,0.0217,0.302,0.891,0.237,161.16,4,power-pop
+13yf6g8rRnV1HEBbQYgi0T,Teenage Bottlerocket,They Came From The Shadows,Fatso Goes Nutzoid,22,99773,False,0.25,0.982,0,-3.862,1,0.131,0.00032,0.00107,0.384,0.561,195.276,4,power-pop
+5hGCgA3TV7Z8iE4EItBKdr,The Lillingtons,Death By Television,I Came From The Future,22,98026,False,0.14,0.985,1,-5.664,0,0.089,2.02e-05,0.783,0.265,0.561,168.582,4,power-pop
+5KDhQJZTlsGmZ5vd0q3Zes,Elvis Costello & The Attractions,Punch The Clock,Let Them All Talk,22,186066,False,0.588,0.887,4,-7.593,0,0.0488,0.107,0.0,0.313,0.935,156.062,4,power-pop
+48sJGpBLqQTs0sZ2ImHJof,Nada Surf,High/Low,Popular,57,220586,False,0.444,0.884,7,-6.104,1,0.119,0.00751,8.94e-05,0.116,0.296,94.82,4,power-pop
+5yNUgA66PbcPIJPOU2eBwR,Andrew Gold,All This and Heaven Too,Thank You for Being a Friend,48,280760,False,0.695,0.568,3,-13.572,1,0.0294,0.166,0.0,0.125,0.786,111.887,4,power-pop
+76V8RiIPYdFuAYYO6AF2fb,The Copyrights,Welcome Wagon,Welcome Wagon,21,148809,False,0.492,0.971,0,-2.979,1,0.0455,0.00429,0.0,0.228,0.687,95.019,4,power-pop
+4Nm1WuaXkTq1vT5YLSNVxh,Direct Hit!,Wasted Mind,Was It the Acid?,21,151520,False,0.391,0.986,8,-2.713,1,0.131,0.000633,1.55e-05,0.0595,0.872,194.047,4,power-pop
+5pBaIDEQbrXKpplRE9sU5B,The Manges,Book Of Hate For Good People,I'm Not A Sissy,20,141480,False,0.622,0.966,0,-3.95,1,0.0354,0.0086,3.57e-06,0.368,0.79,108.013,4,power-pop
+4Zz1ctRTK04dytKiFuavBX,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Oliver's Army,59,180840,False,0.527,0.725,4,-9.405,1,0.0287,0.336,0.0,0.221,0.94,143.162,4,power-pop
+0iAOkuD9EtvRvxglrDgz6M,I Was A King,Here at Last,Here at Last,20,139560,False,0.518,0.82,9,-9.152,0,0.0338,0.0458,0.000741,0.96,0.41,116.03,4,power-pop
+4j3qhTfw6ZB6kmgtuXnybZ,Barreracudas,Can Do Easy,Nasty Boots,20,139413,False,0.248,0.894,4,-5.263,1,0.0608,0.000621,6.28e-06,0.119,0.626,173.693,4,power-pop
+2GGsSN5RZMvGNJkKAAflJD,The Copyrights,Alone in a Dome,Part of the Landscape,21,152631,False,0.39,0.965,2,-2.713,1,0.0621,0.0004,1.38e-06,0.403,0.762,195.957,4,power-pop
+5kwuPm3p11TnirbMvcGrZZ,Andrew Gold,Halloween Howls: Fun & Scary Music (Deluxe Edition),"Spooky, Scary Skeletons - Undead Tombstone Remix Extended",55,229199,False,0.795,0.816,9,-5.602,0,0.112,0.00103,0.00196,0.359,0.599,127.973,4,power-pop
+2BIRd8kIyrfjV5FCOg4vHM,that dog.,Totally Crushed Out,One Summer Night,20,130666,False,0.388,0.735,1,-12.123,1,0.044,0.0495,0.0886,0.105,0.144,141.56,4,power-pop
+2IMDgVgp3r8qhpexQxeSVJ,Dinosaur Jr.,Dinosaur,Gargoyle,22,131400,False,0.276,0.966,0,-4.028,1,0.101,7.28e-05,0.303,0.229,0.762,172.595,4,power-pop
+1q4Dl6dxDMltMGHH9TdYqo,The Muffs,The Muffs,Not Like Me,20,183693,False,0.578,0.734,7,-10.207,1,0.0306,0.000182,0.000103,0.1,0.943,118.503,4,power-pop
+1RDBHcCshnAAsGWzZsral5,Dan Vapid & the Cheats,Two,I'm a Contrarian,20,97640,False,0.543,0.983,7,-4.747,1,0.052,0.000276,2.84e-06,0.0816,0.457,112.447,4,power-pop
+6eXFUPGPHK4V0CgsLNCMEM,Direct Hit!,Wasted Mind,Hospital for Heroes,21,187480,False,0.47,0.979,11,-2.848,1,0.0834,0.00369,2.08e-06,0.187,0.732,173.968,4,power-pop
+3ssvpmbEwlhvNgkCxPgTc2,Robyn Hitchcock & The Egyptians,Greatest Hits,One Long Pair Of Eyes,19,298200,False,0.473,0.749,9,-8.94,1,0.0344,0.0915,0.00966,0.112,0.577,102.571,4,power-pop
+04ILadtH6a83MZ8rAsk9TS,Superchunk,Wild Loneliness,Wild Loneliness,20,183253,False,0.489,0.827,4,-5.991,1,0.0291,0.102,0.0153,0.343,0.533,154.935,4,power-pop
+2v9m7YE7C6G968RtjFAzgx,The Donnas,The Donnas Turn 21,Play My Game,20,182413,False,0.487,0.958,7,-3.467,1,0.107,0.000552,9.74e-05,0.0784,0.678,170.075,4,power-pop
+7tyxIzfJI6uoc7t9kwwGmf,F.Y.P,Toys That Kill,Wherever the Creeps Go,20,114360,False,0.346,0.862,5,-6.208,1,0.0993,0.00762,0.0,0.676,0.741,178.092,4,power-pop
+2dqmgtEy3ca7ElF4Dv0hdu,Old 97's,Satellite Rides,Buick City Complex,22,219906,False,0.376,0.701,7,-7.556,1,0.0364,0.0912,0.0006,0.12,0.492,168.903,4,power-pop
+0bsI63iz4dCq7ILxrgiXcH,Pinhead Gunpowder,Goodbye Ellston Avenue,Song Of My Returning,20,148561,False,0.463,0.977,0,-3.869,1,0.0779,0.00067,0.0,0.303,0.683,96.275,4,power-pop
+3fnL2JDgy4QD04araOl0eY,The Replacements,Let It Be (Expanded),Androgynous,51,190853,False,0.476,0.361,11,-9.312,1,0.0287,0.518,0.0,0.0817,0.389,106.484,4,power-pop
+75pTbAqnw5kKRJ5En420Xt,The Lemonheads,Schoolhouse Rock! Rocks,"My Hero, Zero",20,186000,False,0.469,0.788,4,-8.356,1,0.0955,0.316,0.0,0.0988,0.685,141.768,4,power-pop
+7c4Q9yEJGRXva8KNSLRZkP,Redd Kross,Red Cross,Cover Band,20,86600,False,0.516,0.858,7,-5.71,1,0.0527,5.32e-05,0.00105,0.0677,0.618,97.353,4,power-pop
+47gsoojtyxC7ANyvh4E9xr,Joe Jackson,Body And Soul,Go For It,23,256493,False,0.711,0.831,7,-5.95,0,0.0271,0.0302,0.000387,0.156,0.786,145.722,4,power-pop
+6k0o7pOByFAi1LVqE0plZA,Old 97's,Too Far To Care,Streets of Where I'm From,22,195173,False,0.489,0.759,0,-7.216,1,0.0509,0.0105,0.0,0.115,0.682,149.02,4,power-pop
+2Uug3JtuWyuiBqmvpaRHOp,Groovie Ghoulies,Go! Stories,Chupacabras,19,83266,False,0.518,0.938,4,-4.619,1,0.0814,0.00293,0.000142,0.271,0.961,169.78,4,power-pop
+5lxHWIYfTTtp4obD51FIws,Stiv Bators,Disconnected,A Million Miles Away,20,225480,False,0.475,0.936,7,-6.92,1,0.0757,0.119,4.73e-06,0.849,0.611,136.848,4,power-pop
+1JPhFBs7SeGbv3GQb4DpX6,Superchunk,Wild Loneliness,On the Floor,20,218173,False,0.474,0.92,2,-6.793,1,0.0314,0.00229,0.00016,0.134,0.576,148.058,4,power-pop
+3e36XA5So34fzwfGU3llQk,Nerf Herder,Nerf Herder,Golfshirt,20,217466,False,0.485,0.8,4,-6.078,1,0.0592,0.014,0.0,0.164,0.777,136.401,4,power-pop
+4jKod1DGOTaRTe4r498AEW,Andrew Gold,70's Road Trip,Lonely Boy,20,264893,False,0.587,0.599,9,-13.288,1,0.0295,0.0389,4.95e-05,0.107,0.867,123.725,4,power-pop
+2unc6kE9GTyHgYCp9ly0Rb,Frank Black,Honeycomb,Selkie Bride,20,185786,False,0.662,0.446,0,-13.023,0,0.0361,0.84,0.00635,0.113,0.204,118.973,4,power-pop
+0973OdStQqLjCdZyRyrYQV,The New Pornographers,Challengers,Unguided,22,393213,False,0.478,0.779,9,-6.041,1,0.0295,0.287,0.00106,0.0954,0.224,80.972,4,power-pop
+4e3RvdMP5l8bW5ml8Zf4Pd,Los Crudos,Discografía,Curiosidad,22,49632,False,0.436,0.961,5,-4.104,1,0.194,0.000546,0.715,0.0811,0.336,149.172,4,power-pop
+05S6wqFq8yuWDJbmfbm33h,Groovie Ghoulies,Go! Stories,Til Death Do Us Party,20,158346,False,0.502,0.837,7,-4.582,1,0.032,0.000239,3.11e-06,0.183,0.705,145.139,4,power-pop
+51XZBnAdNQKkhtkHvY4fxS,Graham Parker & The Rumour,Heat Treatment,Hotel Chambermaid,20,179093,False,0.594,0.534,4,-9.11,1,0.0277,0.00476,6.88e-06,0.129,0.667,132.486,4,power-pop
+5C1tUrEsphNhPUDwjKja5x,Dave Edmunds,Here Comes the Weekend,Louisiana Man,21,222186,False,0.696,0.945,5,-8.089,1,0.041,0.646,0.344,0.294,0.956,77.145,4,power-pop
+7A4veMj4kN3nAOA6L0Kx6H,The Jayhawks,Rainy Day Music,One Man's Problem,21,242306,False,0.774,0.651,9,-5.397,1,0.029,0.33,2.8e-05,0.15,0.546,111.289,4,power-pop
+5usqAd5N9BgRJhM93KCxbq,The Lemonheads,It's A Shame About Ray (Expanded Edition),Kitchen - Demo Version,20,192386,False,0.501,0.268,7,-14.772,1,0.0319,0.911,0.0505,0.13,0.682,81.807,4,power-pop
+7e2GyGtiMbUaxobafUAgt2,The Lillingtons,Stella Sapiente,Night Visions,21,244573,False,0.576,0.948,2,-4.33,1,0.0326,0.00567,0.00859,0.141,0.68,95.01,4,power-pop
+2FunEKXAcxONo4Stwj1Bfw,Screeching Weasel,My Brain Hurts,Don't Turn Out the Lights,22,156653,False,0.347,0.99,2,-2.813,1,0.092,0.0039,7.35e-05,0.316,0.651,151.946,4,power-pop
+6TePXOII1S5e2pJG44P9uf,Masked Intruder,Masked Intruder,Unrequited Love,20,178800,False,0.447,0.803,2,-5.774,1,0.0541,0.00191,0.000776,0.374,0.572,161.984,4,power-pop
+57kUV2eZIvJ6otioPZInvR,Elvis Costello & The Attractions,The Best Of The First 10 Years,I Can't Stand Up For Falling Down,21,126466,False,0.602,0.719,0,-7.679,1,0.0274,0.000405,0.542,0.0876,0.977,141.793,4,power-pop
+4sy8yNumBh9S2LgoFZSQGP,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Chemistry Class,21,178266,False,0.681,0.557,2,-12.225,1,0.0251,0.227,0.00111,0.0886,0.796,111.38,4,power-pop
+1NrcW9URrwGM2OncPxkhOa,The Queers,Don't Back Down,I Only Drink Bud,21,125800,False,0.298,0.937,9,-4.267,1,0.0439,8.5e-06,0.932,0.066,0.806,187.438,4,power-pop
+2FMW1J3EUKoWq0NP32AgVN,Hoodoo Gurus,Chariot Of The Gods,My Imaginary Friend,20,248897,False,0.545,0.91,0,-5.294,1,0.0422,0.00402,0.000484,0.0901,0.81,130.933,4,power-pop
+2YDZ9UrAuUsLPreezYKcVJ,Hoodoo Gurus,Mars Needs Guitars!,In The Wild - 2005 Remaster,20,190693,False,0.403,0.974,9,-3.197,1,0.0593,2.15e-05,0.0183,0.144,0.53,81.224,4,power-pop
+3xKJA2UdkdiTvH7g4LFX7A,The Lawrence Arms,Apathy and Exhaustion,Navigating the Windward Passage,23,203426,False,0.315,0.973,4,-6.158,1,0.103,3.74e-05,0.00195,0.441,0.5,148.642,4,power-pop
+2LZdr7PYmSKOeE2ZJGp26P,Hoodoo Gurus,In Blue Cave,If Only... - Remaster 2005,20,224466,False,0.436,0.951,4,-5.082,1,0.0703,0.00393,3.73e-05,0.153,0.7,165.634,4,power-pop
+3nbRFWzOJrHIRh3xc53bKK,Material Issue,International Pop Overthrow,Renee Remains The Same,19,196600,False,0.515,0.913,7,-10.643,1,0.0556,0.000817,7.96e-05,0.232,0.624,133.392,4,power-pop
+5CjwXdq5Z73Va0XCPFG5Aq,Weezer,Pinkerton,The Good Life,54,257000,True,0.539,0.893,6,-4.566,1,0.0423,0.14,0.0,0.339,0.683,135.76,4,power-pop
+5QuQFz3QK3ILCpBgGHGss8,The Cars,Heartbeat City,Heartbeat City,52,270013,False,0.649,0.562,9,-14.93,0,0.0333,0.225,0.18,0.0705,0.882,143.343,4,power-pop
+3g2gQMeeQAEPztiQKMlGSl,Weezer,Pinkerton,El Scorcho,56,243466,False,0.479,0.707,1,-4.968,1,0.0659,0.0471,0.0,0.0932,0.661,148.092,4,power-pop
+5cLTu5D17jWS3gsDZXZ7bU,Jimmy Eat World,Futures: Phoenix Sessions,The World You Love,21,301796,False,0.527,0.934,8,-4.753,1,0.0405,0.0103,7.8e-06,0.132,0.469,138.95,4,power-pop
+1hO5PM8f3DwiDRkM57cG1b,Blondie,Atomic/Atomix,Atomic,49,230156,False,0.528,0.821,4,-5.489,0,0.0336,0.00147,0.269,0.326,0.742,136.564,4,power-pop
+7srDntwfJSpAk4DAdBT9LT,Mikal Cronin,Seeker,Shelter,20,228840,False,0.393,0.838,4,-6.417,1,0.0482,0.0207,0.0269,0.168,0.159,88.17,4,power-pop
+09eRAKe2ebCGRExiszPIRD,Beach Slang,The Things We Do To Find People Who Feel Like Us,Noisy Heaven,21,149130,True,0.196,0.877,2,-3.31,1,0.0909,4.1e-05,0.347,0.541,0.211,144.488,4,power-pop
+6wGMLoEqD2k3RBXFHD0yUp,Andrew Gold,What's Wrong with This Picture?,Lonely Boy,56,264893,False,0.588,0.598,9,-13.288,1,0.0296,0.0386,5.83e-05,0.107,0.866,123.724,4,power-pop
+6QuYC4Vcr3myWxZRJxg4NZ,Weezer,Spotify Sessions,Island in the Sun - Live from Spotify NYC,48,224353,False,0.689,0.673,5,-7.6,0,0.0287,0.303,0.0,0.723,0.564,113.139,4,power-pop
+3feeZeT89PWE9eonRCrFIO,Guided By Voices,Bee Thousand,Demons Are Real,41,48506,False,0.308,0.701,1,-11.793,0,0.0733,0.0933,0.000491,0.236,0.368,129.264,4,power-pop
+6zSuELST8D2qfC9DqOVODG,Jimmy Eat World,Clarity: Phoenix Sessions,Believe in What You Want,21,189915,False,0.512,0.899,5,-5.818,1,0.0406,0.000672,0.00118,0.239,0.652,74.999,4,power-pop
+1pKubpcbRCOLY4wbvSDqzt,Cheap Trick,"The Epic Archive, Vol. 3 (1984-1992)",The Flame - Single Version,51,281693,False,0.631,0.62,4,-8.847,1,0.0267,0.574,6.27e-06,0.11,0.3,96.82,4,power-pop
+6ueERhwsiTewqkNb5sdfzC,Horror Section,Horror Section,Are You There,19,148909,False,0.334,0.939,2,-5.002,1,0.0396,5.69e-05,2.17e-05,0.356,0.734,165.128,4,power-pop
+0x1euOTMBBYzX1BMIH3UYL,The Plimsouls,Beach Town Confidential: Live at the Golden Bear 1983,Now,18,199733,False,0.332,0.889,2,-5.589,1,0.0509,0.173,4.73e-06,0.978,0.87,138.826,4,power-pop
+3XLLcsj95TZRf2mgsd5hP2,Blondie,80s 12'' Party,Rapture - US Disco Version; 1999 Remaster,21,433680,False,0.705,0.669,11,-10.548,0,0.0286,0.0728,0.00125,0.176,0.855,107.607,4,power-pop
+0LP99CFTGRXm5YO1jjKFuJ,Dead To Me,African Elephants,A Day Without a War,21,149480,False,0.526,0.818,2,-4.656,1,0.0364,0.0178,0.0,0.116,0.781,148.377,4,power-pop
+4lrtGDao1CxXsIjrBFBzsY,Chixdiggit!,Pink Razors,Welcome to the Daiso,21,101120,False,0.471,0.917,3,-3.283,1,0.0521,0.013,0.0,0.213,0.938,111.959,4,power-pop
+6pwYsWXD3cBu2CR2KVnvkG,Sloan,Twice Removed,I Can Feel It,20,206640,False,0.811,0.575,0,-8.347,1,0.0294,0.0541,4.29e-06,0.0944,0.626,126.567,4,power-pop
+6bFz6LCT95vrP0WP9ZBMDY,The Marked Men,Fix My Brain,Going Crazy,21,141306,False,0.287,0.93,11,-5.571,1,0.0399,0.000389,0.378,0.146,0.744,169.602,4,power-pop
+1cnl1Fojf62RzL99IvqVkW,The Falcon,Gather Up The Chaps,War of Colossus,22,102641,False,0.492,0.955,1,-6.8,0,0.111,0.000279,0.588,0.161,0.465,104.321,4,power-pop
+28jj3KEdWz0yKpVsCGVydC,White Reaper,The World's Best American Band,Another Day,21,111290,False,0.324,0.983,5,-1.624,0,0.099,0.000271,0.000117,0.565,0.178,148.234,4,power-pop
+5Npe3of0NOoDVamMLyz1Sd,Guided By Voices,Under The Bushes Under The Stars,Your Name Is Wild,20,121906,False,0.319,0.993,11,-4.549,1,0.0887,0.0281,0.138,0.138,0.257,135.901,4,power-pop
+6IicYKDzPBN2VDClsjxR9x,Elvis Costello,My Aim Is True,I'm Not Angry,22,179320,False,0.547,0.823,1,-8.579,0,0.0693,0.159,0.119,0.325,0.729,139.38,4,power-pop
+2nSOSrdzjSkHC9FYBDuYUP,Elvis Costello;The Imposters,The Boy Named If,Penelope Halfpenny,22,177011,False,0.562,0.861,10,-5.64,1,0.0499,5.03e-05,1.25e-05,0.285,0.568,134.883,4,power-pop
+0ynEZvJZRqBpQljfP0QNgf,Masked Intruder,III,I'm Free (At Last),20,130714,False,0.357,0.971,1,-3.313,0,0.0911,4.06e-05,1.39e-05,0.12,0.573,174.01,4,power-pop
+6gCRvKpLUWhbJ9wZ9LgqzG,Mannequin Pussy,Mannequin Pussy,My Baby (Axe Nice),21,59400,False,0.335,0.922,11,-3.562,1,0.0527,0.197,2.01e-05,0.148,0.248,92.456,4,power-pop
+64MoAgts5fFfj5Q2Qzc4Ms,Buffalo Tom,Big Red Letter Day,Tree House,20,255760,False,0.277,0.952,7,-8.153,1,0.0581,0.0167,0.0,0.775,0.345,137.57,4,power-pop
+7vlcIZXHj5hS99g7bNET9N,Los Crudos,Discografía,Sin Caras,21,31172,False,0.402,0.938,0,-3.151,1,0.0809,0.00233,0.656,0.102,0.962,154.699,1,power-pop
+2bDzzVKowehXl7MaFfZ4Du,The Fleshtones,Mondo Zombie Boogaloo,Dracula a GoGo,22,130866,False,0.505,0.946,2,-4.523,1,0.0512,0.51,0.00953,0.243,0.722,146.297,4,power-pop
+0h8wEbGKWStqCZyRrmZ7i1,Los Crudos,Discografía,Nada Cambia,22,71981,False,0.432,0.978,0,-5.122,1,0.444,0.00105,0.924,0.105,0.31,142.05,4,power-pop
+4Znt4ohK6UOUphYtdoxIKQ,The Lawrence Arms,Buttsweat and Tears,Demons,22,133800,False,0.386,0.926,0,-5.669,1,0.0846,0.00141,2.84e-05,0.368,0.71,146.954,4,power-pop
+2BzZUelqEirF3kCEjiWijv,The Cowboys,The Bottom of a Rotten Flower,Pie in My Eye,21,92957,False,0.236,0.84,11,-2.11,1,0.0471,0.126,0.767,0.123,0.739,175.888,4,power-pop
+7ljajsdFTaRVN7EUCE6ODY,Elvis Costello & The Attractions,Imperial Bedroom,You Little Fool,21,189546,False,0.581,0.621,7,-7.952,1,0.0259,0.126,0.0,0.0584,0.421,112.263,4,power-pop
+48SL6DNBgvrm3aHkS8NLPI,Cobra Skulls,American Rubicon,Rebel Fate,21,172120,False,0.37,0.826,0,-5.613,1,0.0351,0.000133,0.00148,0.175,0.721,97.029,4,power-pop
+7fQk04iA9GcH4hexEblRon,Los Crudos,Discografía,¿Por Qué-,21,68789,False,0.295,0.961,4,-3.297,1,0.164,0.00286,0.778,0.402,0.574,172.55,3,power-pop
+1wH3PxeMNXKVkuG67czNOQ,The Jayhawks,Hollywood Town Hall (Expanded Edition),Settled Down Like Rain,21,180533,False,0.64,0.696,0,-8.37,1,0.0269,0.000532,0.00155,0.294,0.892,115.289,4,power-pop
+1K0Q6IDaQpKbHXcPsKTEUS,Screeching Weasel,First World Manifesto,Frankengirl,22,109800,False,0.578,0.957,1,-3.506,0,0.0527,0.015,0.0,0.365,0.789,105.543,4,power-pop
+7h8bnu16P1gLNCwtiQ1Nk9,Guided By Voices,Propeller,Over The Neptune/Mesh Gear Fox,20,341666,False,0.171,0.8,7,-4.778,1,0.0454,0.00709,0.0165,0.328,0.352,142.74,4,power-pop
+3RQ9rAfpwuM6lpgsBriByX,The Jayhawks,Tomorrow The Green Grass,Blue,21,189506,False,0.524,0.577,4,-8.192,1,0.0278,0.239,0.0,0.224,0.366,136.176,4,power-pop
+619gFMxhEtuhCpRHStYsnz,The Lawrence Arms,Metropole (Deluxe Edition),Drunk Tweets,23,84680,False,0.538,0.95,0,-6.607,1,0.0527,0.000697,0.0,0.963,0.802,109.796,4,power-pop
+6MftrZMEUrUDgWUjjifia4,Hoodoo Gurus,Kinky,I Don't Mind - 2005 Remaster,20,219973,False,0.582,0.962,2,-2.798,1,0.0578,0.0685,0.00117,0.0378,0.804,138.096,4,power-pop
+5YAVX4rQLZE4DIA3qd33Rc,Hoodoo Gurus,Crank,You Open My Eyes - Remaster 2005,20,197560,False,0.548,0.948,7,-2.06,1,0.0344,0.00197,0.0,0.155,0.688,108.856,4,power-pop
+2WpEHlXuYViB3tFGGwm8rr,Los Crudos,Discografía,"Cipayos, Traidores y Vendidos",21,34456,False,0.209,0.993,4,-3.608,1,0.144,0.000151,0.000385,0.19,0.515,157.578,4,power-pop
+1KcjWpoH4csZvBhnWauYxa,Squeeze,East Side Story,Someone Else's Heart,21,180400,False,0.646,0.505,9,-14.801,0,0.0344,0.00317,0.11,0.0762,0.776,138.022,4,power-pop
+6rVfzUhBz1lMVKUOwuWgBk,Teenage Fanclub,Songs From Northern Britain,Winter,20,226600,False,0.454,0.796,3,-7.999,1,0.0311,0.000154,0.00253,0.178,0.909,113.292,4,power-pop
+1Ow9eFVO6YMzsajOm2cJqB,Elvis Costello & The Attractions,Blood And Chocolate,Blue Chair,21,220466,False,0.613,0.652,2,-7.214,1,0.0291,0.534,0.0,0.0874,0.703,117.293,4,power-pop
+4AKGj2MWGWVtsSkLNAitPK,The Replacements,All for Nothing / Nothing for All,Beer for Breakfast,21,97866,True,0.517,0.855,10,-5.594,1,0.0355,0.0733,0.00123,0.0678,0.913,180.499,4,power-pop
+2OHaCYqolwDtsDNeCIFCMH,The Lillingtons,Death By Television,Phantom Maggot,21,115000,False,0.501,0.868,0,-5.373,1,0.0312,0.000362,0.135,0.113,0.898,89.753,4,power-pop
+2Rp53mn2EGNjKt8liJ0zGM,The Replacements,Pleased to Meet Me (Expanded),Red Red Wine - 2008 Remaster,21,182093,False,0.205,0.959,0,-8.252,1,0.06,0.00082,0.0,0.127,0.287,168.641,4,power-pop
+7nh0arkkvidz5s5EB9wA27,Elvis Costello & The Attractions,Punch The Clock,The Greatest Thing,21,184280,False,0.689,0.748,11,-9.524,0,0.0564,0.0367,8.3e-06,0.0947,0.963,101.06,4,power-pop
+57TUYBa41jfW56U2U9652l,Guided By Voices,Bee Thousand,Awful Bliss,49,72466,False,0.508,0.312,7,-13.333,1,0.0355,0.786,0.0259,0.0684,0.179,160.236,3,power-pop
+01BmQnWTLdDojdO5eZU6nm,The Cars,"Stranger Things: Soundtrack from the Netflix Original Series, Season 3",Moving In Stereo,42,281773,False,0.71,0.542,11,-11.659,1,0.0409,0.144,0.117,0.208,0.344,115.773,4,power-pop
+5Tuout5bAcki6wuD7PTAT9,Badfinger,Ass (Remastered 2010 / Deluxe Edition),Apple Of My Eye - Remastered 2010,42,186400,False,0.57,0.338,6,-10.163,1,0.0257,0.471,0.0,0.0913,0.388,72.587,4,power-pop
+6Qe3oEUnOc3YkmDtvoFRLj,The Reflectors,Faster Action,All Made Up,19,131573,False,0.411,0.918,2,-6.479,1,0.0477,0.00822,6.68e-05,0.109,0.673,156.836,4,power-pop
+2XCBqjHk1WqF49hMs6gxZN,Jimmy Eat World,Surviving: Phoenix Sessions,Recommit,20,251772,False,0.563,0.7,11,-12.245,0,0.041,0.000436,0.000143,0.382,0.317,124.031,4,power-pop
+1vBb0m2Ggsj9MTtwrVKW1I,The Exploding Hearts,Guitar Romantic,Jailbird,19,217013,False,0.435,0.962,7,-5.594,1,0.0461,0.216,3.87e-06,0.201,0.575,138.865,4,power-pop
+5YVB47AB7D0AsYevzRSBJ5,Crying,Get Olde / Second Wind,Rat Baby,20,116278,False,0.414,0.669,3,-5.716,1,0.0382,0.0166,0.00409,0.291,0.821,157.594,4,power-pop
+2mypeVhzzgPXe4inY9c8fL,Tony Molina,Dissed and Dismissed,Don't Come Back,20,92244,False,0.127,0.839,7,-6.01,1,0.0545,0.138,0.0963,0.444,0.476,148.266,4,power-pop
+0cBmv1SKmKfV7tPCrHmi3Y,The Donnas,Get Skintight,Skintight,20,155666,False,0.27,0.974,2,-3.925,1,0.075,0.000964,2.88e-05,0.265,0.416,88.258,4,power-pop
+6eyWEjmI9HRHdLxaNqFs65,Chris Spedding,Chris Spedding (Expanded Edition),Jump in My Car,19,201786,False,0.731,0.61,2,-5.477,1,0.0301,0.558,1.26e-05,0.0772,0.586,113.13,4,power-pop
+3Ybq6vSBlIguvBnoaNeCYq,Jimmy Eat World,Clarity: Phoenix Sessions,Your New Aesthetic,21,164029,False,0.573,0.851,7,-6.154,1,0.0658,0.00884,2.63e-06,0.307,0.788,162.897,4,power-pop
+5wvz17siOwAGFXcOmUCPIV,Superdrag,In the Valley of Dying Stars,Keep It Close to Me,20,230690,False,0.385,0.887,5,-5.72,1,0.0482,0.000283,6.91e-05,0.636,0.261,132.404,4,power-pop
+7HiRMD4CzFLrt3kFzYpXqr,Elvis Costello,King Of America,Little Palaces,22,229053,False,0.615,0.318,7,-10.261,1,0.046,0.229,1.67e-06,0.199,0.551,94.984,4,power-pop
+0voIXYsgcMrgwm94dOi1Nb,The Records,Play Live! Evanston ILL 9/7/80,Starry Eyes,20,287893,False,0.101,0.776,3,-6.978,1,0.053,0.186,0.000154,0.979,0.393,158.096,4,power-pop
+1lTYhT1XwSNwmBFglMTcZq,The Lemonheads,It's A Shame About Ray (30th Anniversary Edition),Shakey Ground,20,108120,False,0.579,0.317,0,-14.671,1,0.0413,0.773,0.0103,0.152,0.673,114.641,4,power-pop
+1gFG9HDI16kewwNLZliF6J,Chixdiggit!,Pink Razors,You're Pretty Good,21,108786,False,0.421,0.953,1,-4.409,1,0.0593,0.0281,0.000478,0.0344,0.884,171.911,4,power-pop
+28jj3KEdWz0yKpVsCGVydC,White Reaper,The World's Best American Band,Another Day,21,111290,False,0.324,0.983,5,-1.624,0,0.099,0.000271,0.000117,0.565,0.178,148.234,4,power-pop
+2dEjGfMHtd0LxYIDrfnmHT,The Jayhawks,Sound Of Lies (Expanded Edition),Trouble,21,289800,False,0.489,0.402,9,-10.111,1,0.0311,0.0749,2.58e-05,0.118,0.368,140.085,4,power-pop
+6oo6VQtCWER0Havn92qyvY,Dinosaur Jr.,Bug,Keep the Glove,22,170973,False,0.308,0.928,7,-5.11,1,0.095,0.00857,0.000421,0.0812,0.37,129.266,4,power-pop
+1sEG0kcqs9BpJEnehnNUie,Blondie,Plastic Letters,Kidnapper - Remastered,20,157666,False,0.513,0.817,11,-6.615,0,0.101,0.012,7.03e-06,0.291,0.853,75.795,4,power-pop
+3QBdwJOhS0Zen5Bs7zchih,Too Much Joy,Cereal Killers,Crush Story,19,241733,False,0.609,0.918,9,-9.976,1,0.0461,0.249,8.43e-05,0.0198,0.371,135.03,4,power-pop
+5epm6Odk2zOU78ET2dp3JV,Swingin' Utters,Sirens,Innocence,21,93728,True,0.401,0.998,0,-3.161,1,0.0628,1.44e-05,0.0925,0.112,0.425,130.466,4,power-pop
+38sWKCjn81IEWpdp6xP9Mn,Elvis Costello;The Imposters,The Boy Named If,What If I Can't Give You Anything But Love?,22,243510,False,0.454,0.839,2,-5.543,1,0.0478,1.88e-05,0.00035,0.118,0.531,120.017,3,power-pop
+4OfE7tj2tVdSR1AfgJmshm,Smoking Popes,Born To Quit,Midnight Moon,20,131373,False,0.431,0.741,9,-6.158,1,0.0315,0.0742,0.00146,0.27,0.516,133.011,4,power-pop
+1DXTkrWs5R0WFLaE776Ath,Old 97's,Satellite Rides,Weightless,21,224426,False,0.528,0.423,2,-10.147,1,0.025,0.0717,0.00215,0.276,0.474,84.097,4,power-pop
+73iKc7jRk4CYTpiNlwWi52,Groovie Ghoulies,99 Lives,Wolf Girl,19,109693,False,0.305,0.927,7,-6.162,1,0.097,0.000762,3.75e-05,0.349,0.854,160.483,4,power-pop
+6nu72EsxDZcJSP2B7EJiZj,Old 97's,Fight Songs,Valentine,21,188406,False,0.596,0.42,10,-10.584,1,0.0255,0.776,0.0103,0.094,0.431,91.899,4,power-pop
+14XTeULkTlXbtKClGqWMb3,Nick Lowe,Walkabout,Blue on Blue,21,206386,False,0.646,0.425,3,-10.233,1,0.0257,0.326,0.214,0.0933,0.77,97.647,4,power-pop
+4UdEN88dySC99cuNZG7B6m,Dan Vapid & the Cheats,Two,I Wanna Go to Machu Picchu Before I Die,19,72109,False,0.565,0.881,8,-4.338,1,0.0403,0.00608,0.0,0.318,0.826,118.942,4,power-pop
+6f4EijEzakCPFDVTCWrwrC,Guided By Voices,Half Smiles of the Decomposed,Girls of Wild Strawberries,20,150133,False,0.605,0.773,9,-4.006,1,0.0289,0.242,0.948,0.0939,0.688,102.173,4,power-pop
+3kOa9XxdcFDBW4XUSdDLYp,Paul Westerberg,14 Songs,Dice Behind Your Shades,20,254266,False,0.527,0.784,9,-10.59,0,0.0404,0.0587,0.0,0.222,0.669,143.585,4,power-pop
+7qVYQgZfZ9QVmm7RykKKcD,Cheap Trick,Dream Police,The House Is Rockin' (With Domestic Problems),22,310360,False,0.356,0.944,9,-10.448,1,0.0506,0.00814,0.558,0.467,0.537,164.207,4,power-pop
+2e95TYicnEkTgutf6UNOHA,Joe Jackson,Night And Day,A Slow Song,22,423360,False,0.309,0.557,5,-7.049,1,0.0275,0.119,2.62e-06,0.0583,0.205,174.372,3,power-pop
+2dTvqLNjZ7QEXYaUlIIoJi,The Only Ones,The Only Ones,No Peace For The Wicked - 2008 re-mastered version,20,171480,False,0.633,0.643,11,-7.865,1,0.0308,0.0302,2.64e-05,0.325,0.747,113.687,4,power-pop
+7ejgwyIypjgvDjI2Jee5wP,Masked Intruder,M.I.,Saturday Night Alone,19,129960,False,0.463,0.981,11,-4.448,1,0.0488,0.00018,1.13e-05,0.348,0.693,110.005,4,power-pop
+0pU3BtslOPzQIhwgdZMd8O,Nick Lowe,Lay It On Me Baby,Lay It On Me Baby,21,172106,False,0.592,0.597,7,-10.594,1,0.0303,0.163,2.78e-05,0.0728,0.844,119.363,4,power-pop
+1yWRbOzBD3d6C3Ttu3xF5Y,Elvis Costello & The Attractions,Armed Forces (Remastered 2020),Sunday's Best,21,202000,False,0.477,0.479,2,-14.853,1,0.0382,0.113,0.0,0.0989,0.742,190.854,3,power-pop
+2FP8dNGoNwjusZEI0wPenp,Dave Edmunds,Repeat When Necessary,Sweet Little Lisa,20,222466,False,0.271,0.933,9,-9.07,1,0.0906,0.114,1.63e-06,0.364,0.743,187.454,4,power-pop
+62gC5BU5NqXUvHIXvEDUL6,Redd Kross,Phaseshifter,Lady In The Front Row,19,199600,False,0.273,0.93,0,-8.294,1,0.0622,9.43e-05,0.821,0.176,0.455,133.877,4,power-pop
+7bfaGEsUeb8dGWg58uxyyA,Elvis Costello,Spike,...This Town...,22,270200,False,0.708,0.717,7,-7.762,1,0.0678,0.156,6.02e-06,0.0431,0.848,130.025,4,power-pop
+1kZ6QKr5poslmv0dKOpfKL,The Jayhawks,Rainy Day Music,Don't Let The World Get In Your Way,21,259200,False,0.489,0.51,7,-5.557,1,0.0251,0.0637,1.88e-06,0.0907,0.185,83.194,4,power-pop
+0eG50gK4BJqPRyHAWSZbq9,Masked Intruder,Masked Intruder,Crazy,19,159626,False,0.498,0.807,0,-5.246,1,0.0428,0.000708,0.00903,0.178,0.455,99.949,4,power-pop
+68sPLsAnLniQlX6J1Pj0Cd,The New Pornographers,Brill Bruisers,Marching Orders,22,259079,False,0.587,0.904,4,-6.249,1,0.0319,0.00119,0.133,0.353,0.882,114.021,4,power-pop
+7hZQ276oACDD0dJYjFTheQ,Masked Intruder,Masked Intruder,Am I Only Dreaming,19,116986,False,0.451,0.895,8,-4.534,1,0.0481,0.000674,0.00342,0.397,0.686,96.957,4,power-pop
+167z2d3wIG5nohBgXbPkdn,Teenage Bottlerocket,They Came From The Shadows,Call in Sick,21,133120,False,0.437,0.96,6,-3.52,0,0.105,0.000384,2.31e-06,0.314,0.768,194.026,4,power-pop
+5RmDHH54g4IhWO0DVQzD5u,The Replacements,Pleased to Meet Me (Expanded),Birthday Gal - Demo,21,293106,False,0.536,0.692,9,-7.567,1,0.0596,0.00221,0.00385,0.362,0.388,121.62,4,power-pop
+5sY9rNLAgzb4q50MXwZj04,Hoodoo Gurus,Mars Needs Guitars!,The Other Side Of Paradise - 2005 Remaster,20,212840,False,0.544,0.855,0,-3.464,1,0.0282,0.00341,0.0428,0.26,0.609,139.432,4,power-pop
+29taYyy3cbuuS9L2fPWbuN,Hoodoo Gurus,Mars Needs Guitars!,Mars Needs Guitars! - 2005 Remaster,20,173160,False,0.522,0.853,5,-3.973,1,0.0319,0.000145,0.696,0.15,0.794,102.905,4,power-pop
+24XnWjWWak4AihE42M2Xjz,Off With Their Heads,In Desolation,The Eyes of Death,21,164773,False,0.515,0.992,9,-4.423,1,0.0471,0.000145,0.0267,0.346,0.489,102.518,4,power-pop
+7CzEC3Nc6Cjf4YkGBGxqFm,The Replacements,Pleased to Meet Me (Expanded),Shooting Dirty Pool - 2008 Remaster,21,142533,False,0.401,0.968,11,-5.344,0,0.119,0.0191,0.0,0.409,0.27,151.762,4,power-pop

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+6f3Slt0GbA2bPZlz0aIFXN,Tiësto,The Business,The Business,82,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+3Nku6gLNqnwUuq8GLkqyhW,Armin van Buuren;Vini Vici;Hilight Tribe,Great Spirit,Great Spirit,66,215773,False,0.592,0.911,9,-7.975,1,0.0659,0.00608,0.0123,0.223,0.211,103.517,3,trance
+5ialmmuwylzm1xDwHlxpCg,Blastoyz;Sajanka;Liora Itzhak,Indian Spirit,Indian Spirit,48,365714,False,0.539,0.938,11,-4.846,0,0.0639,0.00656,0.464,0.103,0.318,147.039,4,trance
+5YaskwnGDZFDRipaqzbwQx,ATB;Topic;A7S,Your Love (9PM),Your Love (9PM),78,150052,False,0.669,0.784,7,-5.603,1,0.112,0.194,6.28e-06,0.115,0.517,125.993,4,trance
+0bI7K9Becu2dtXK1Q3cZNB,Tiësto;KAROL G,Don't Be Shy,Don't Be Shy,84,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,trance
+18asYwWugKjjsihZ0YvRxO,Tiësto;Ava Max,The Motto,The Motto,86,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+3Z7CaxQkqbIs1rewKi6v4W,Tiësto;Charli XCX,Hot In It,Hot In It,84,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+2AzM4cYfa7hyvWRw2T2uT0,Sajanka;Yarden,Mister Chung,Mister Chung,46,375012,False,0.555,0.948,11,-5.672,1,0.132,0.00825,0.738,0.134,0.101,145.002,4,trance
+6Rc5E1q0q1wF0XWkUrnXJv,Sajanka,Sun Is Coming,Sun Is Coming,53,385012,False,0.614,0.755,6,-6.147,1,0.0584,0.00819,0.652,0.268,0.182,149.917,4,trance
+7178s8knXnZFMbsaGJtymo,Tiësto;Charli XCX,Miss You,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+1NM2NUzlN9SY8z5k4ZfRJB,Armin van Buuren;Hardwell,Ping Pong (Hardwell Remix),Ping Pong - Hardwell Remix,55,180923,False,0.575,0.985,6,-3.493,1,0.0747,0.00379,0.155,0.0471,0.0762,129.956,4,trance
+4jfD8YbSpNO9OLDuCrYOyb,Tiësto;Charli XCX,Happy Pop Vibes,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+0OMCA2QeJ2Oe5mPKt3Wzsf,Tiësto;Charli XCX,Workout by the Fitness Marshall,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+6NJOOWpT5g3Y46G2qtRejH,Tiësto;Stevie Appleton,pov: it's 2020,BLUE,2,167858,False,0.744,0.725,11,-6.056,1,0.0303,0.0179,1e-05,0.212,0.902,118.035,4,trance
+5IGsV7tGijVH9R7KtneqKn,Tiësto;Charli XCX,Daily Pop Mix,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+1MJ4JImHw0LCpK26EGrVsC,Tiësto;Ava Max,Workout by the Fitness Marshall,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+5CPSCmZBxiVgQlOuiCX7b4,Tiësto,Miss You,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+0RzEfVy07ukh7GxnwVjPmr,Tiësto;Charli XCX,For the Girls: Summer Hits,Hot in It,1,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+75mtKeIPLHAXokQVQmwPLp,Tiësto;Charli XCX,New Arrivals,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+2UWgnHDwD8Uw5hU1akDWDl,Tiësto;Charli XCX,EDM Hits,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+5rsIUZDVbqneGM0GWs7Obd,Tiësto;Charli XCX,Upbeat 20's,Hot in It,1,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+7GjQssVu8uKn4WGTIgTOIA,Tiësto;Charli XCX,Hot Mix Pop,Hot in It,3,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+3BbzQ0VuM1QTMOiqva7VYe,Tiësto;Charli XCX,Hit After Hit,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+4NR32XsVHm1oN9x8ExR8Yu,Tiësto;Ava Max,Today's Party Hits,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+1AKp9qHetnBliEwP9oMiFY,Tiësto,Workout by the Fitness Marshall,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+389GFtpjhmv2HxiEyWH3FE,Tiësto;Ava Max,Trending Pop,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+6PgCzuBQFnTFOCUXHtp3Nl,Tiësto;Charli XCX,All That Really Matters - Just Hits,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+0EpO6LZgIlxTUHE2e1ckCa,Tiësto;Ava Max,Hit After Hit,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+12gp9XggBAImRaqz7ASv9u,Tiësto;Ava Max,Summer Music Festival Hits,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+2DEQAi3HSie56MG0M5pGwJ,Tiësto;KAROL G,Today's Party Hits,Don't Be Shy,0,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,trance
+1jT2yBR6qi5mrGwFGIeKmR,Tiësto;Ava Max,Back to School!,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+43ZXaExiD5ExmSpmPK5aQZ,Tiësto;KAROL G,Feeling Good,Don't Be Shy,2,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,trance
+2Q1IoizHMaYROD9JrAsLDS,Tiësto,Today's Party Hits,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+5jZdUmR7UmVsw9XkEsPGZF,Tiësto,Hit After Hit,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+1vXNHt7Vj7U75R0qV2YrOu,Tiësto;Charli XCX,Pop Brandneu,Hot in It,2,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+2QKALbvieihPo40okeVa1v,Tiësto,House Anthems,The Business,4,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+5KomSS7roeHMj6r3THWiWo,Tiësto;Charli XCX,Cardio Tracks,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+4e5s77PZaf4ulqs5bFeik9,Tiësto;Charli XCX,Brandneu Dance,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+6N2yutZiLVpqbF1AK8Vxhu,Tiësto,Feeling Good,The Business,1,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+5mjTbRn7WG6HsxJI9wUMUL,Tiësto;Ava Max,Objectif Running : Dance,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+7CQ85NHNXA7HRAJVAfSC41,Tiësto;Charli XCX,Objectif Running : Dance,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+5rQ8KYGO7MetiCgqnn4hby,Tiësto;Ava Max,Dance Dance Dance,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+0j1oGNwg8VVosfPezkrSni,Tiësto;Ava Max,Cardio Tracks,The Motto,1,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+0yLkV9faqUbeejohPNxa8a,Tiësto;KAROL G,Objectif Running : Dance,Don't Be Shy,0,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,trance
+3i31Itck9EgI1vRjZxdYe9,Tiësto;KAROL G,Dance Dance Dance,Don't Be Shy,0,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,trance
+5odOSnLe89YWZ198e9SJ8O,Tiësto;Charli XCX,Your Perfect Soundtrack,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+3mTUMIT3M0e9PySC1mteSV,Tiësto;Mabel,pov: it's 2019,God Is A Dancer,0,168125,False,0.798,0.747,1,-3.91,0,0.0808,0.0284,1.9e-06,0.344,0.805,120.002,4,trance
+0jGNrMFSke9iI1pmfWbvft,Tiësto;Becky Hill,pov: it's 2020,Nothing Really Matters,0,157720,False,0.735,0.842,5,-4.079,0,0.0403,0.00519,4.52e-06,0.308,0.681,123.039,4,trance
+5h4c5VjiJ3QUZRNQ7iRgka,Tiësto,Objectif Running : Dance,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+6JuWIotnwCQm2V3LKlwPdV,Armin van Buuren,Armada Music - ADE 2022,Computers Take Over The World,7,152250,False,0.777,0.832,1,-5.739,1,0.179,0.00632,0.0508,0.12,0.775,139.917,4,trance
+4kWO6O1BUXcZmaxitpVUwp,Tiësto;Dzeko;Preme;Post Malone,Jackie Chan,Jackie Chan,72,215759,True,0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,4,trance
+2fovN88nMPZhATtCNeNaqM,Vini Vici;Astrix,Adhana,Adhana,54,460869,False,0.593,0.992,6,-6.58,0,0.0724,0.00808,0.822,0.165,0.0749,138.052,4,trance
+1AQH4K1OX1KHbTt5ojMonp,Mandragora,Disc 1,Codeine,58,329125,False,0.495,0.532,1,-8.846,0,0.0528,0.0227,0.354,0.331,0.0514,140.004,4,trance
+2MWjwvJD5Khi8XQ4YPAcTn,Blastoyz,Mandala,Mandala,53,357482,False,0.625,0.949,6,-5.756,0,0.106,0.0174,0.838,0.176,0.236,143.019,4,trance
+2wy29RBixBECDOsXuBs7md,Hilight Tribe;Vini Vici,Free Tibet,Free Tibet - Vini Vici Remix,62,474782,False,0.382,0.947,1,-5.93,1,0.0662,0.0132,0.698,0.143,0.0728,103.495,3,trance
+2yEHX6MqAXPyD7bm47A2Br,Tiësto;Black Eyed Peas,Pump It Louder,Pump It Louder,76,158571,False,0.66,0.942,4,-2.273,1,0.185,0.00789,1.76e-05,0.834,0.543,126.017,4,trance
+5T4lERmPqhO2ukZoGJ5sSr,KVSH;Schillist,Sicko Drop,Sicko Drop,69,147976,False,0.843,0.713,0,-5.487,1,0.0851,0.0276,0.76,0.0961,0.298,123.983,4,trance
+65QQ7BX2f45PrU1EF3DLu4,KiLLATK;Popek,Hijacked FM Station,Hijacked FM Station,35,328000,False,0.537,0.977,1,-6.946,1,0.047,5.18e-05,0.646,0.0848,0.0663,180.036,4,trance
+5gXKDmafOQ8i4lYr62wxTk,Astrix,He.art,Deep Jungle Walk,58,555704,False,0.618,0.885,6,-8.347,0,0.0454,0.000658,0.502,0.37,0.105,138.029,4,trance
+3HfUAWHIjzfNzlbfdvIyx4,Blazy;Aura Vortex;Shapeless,Interlude,Interlude - Shapeless Remix,56,157169,False,0.571,0.772,6,-4.854,1,0.199,0.306,0.815,0.237,0.215,191.979,3,trance
+4zqlCicLICAUkPYYqnPbkn,Sajanka;TERRA,Galiya,Galiya,41,386000,False,0.535,0.732,6,-6.269,0,0.0455,0.00584,0.502,0.0604,0.493,150.025,4,trance
+3oMMc8zlJUqQjSgIWPqvKR,Sajanka;Barsha,Global Tribes,Purple Control,43,415016,False,0.647,0.942,4,-6.441,0,0.0877,0.213,0.811,0.114,0.369,150.006,4,trance
+09IdXXMhrxNnmWqIStQ8hv,Reality Test;Shanti People,Passion,Passion,46,210434,False,0.637,0.858,6,-5.923,0,0.161,0.0753,0.00787,0.368,0.272,138.029,4,trance
+5G28yk9vcQyMDzJXbu5DeL,Sajanka,Ethnic Serenade,Ethnic Serenade,45,386636,False,0.576,0.807,1,-6.616,0,0.055,0.00259,0.0973,0.067,0.146,169.985,4,trance
+4Vb8CqP2qhyPolnu729yIS,Raz,RAZ WORLD 2019,Psy & Fly,51,119273,False,0.665,0.945,6,-4.531,1,0.0423,0.0216,0.69,0.0948,0.252,103.486,4,trance
+1XPV4x6p6VkTvb4BJ70kCN,Sajanka,Oasis,Oasis,37,405000,False,0.332,0.73,6,-7.581,0,0.0455,0.00643,0.535,0.22,0.306,145.056,4,trance
+3WH4RxZ2nbkt57INuyE2eN,Sajanka,Time of India,Mystical Electric,41,430793,False,0.649,0.871,7,-5.766,1,0.0949,0.00632,0.802,0.716,0.244,148.001,4,trance
+2xkrujtSjZz7EKAYGbIIzH,Armin van Buuren,Blah Blah Blah,Blah Blah Blah,67,183518,False,0.612,0.963,5,-3.912,0,0.0531,0.00897,0.00378,0.294,0.179,138.009,4,trance
+3M9Apu4OZfylLTFKvgEtKa,Tiësto;Jonas Blue;Rita Ora,Ritual,Ritual,67,198995,False,0.647,0.726,3,-4.389,0,0.0552,0.157,0.0,0.0844,0.767,114.996,4,trance
+3ChrN5yqI2YE6eAMMfvDs1,Hilight Tribe,Trancelucid,Shankara,43,400320,False,0.629,0.905,2,-5.284,1,0.0334,0.000526,0.638,0.121,0.751,144.978,4,trance
+76A1RRDEyHKtmV3Vh6PeVN,Tiësto;Deorro,Savage,Savage,71,167500,False,0.694,0.7,0,-5.53,0,0.0488,0.191,0.0,0.0719,0.261,127.965,4,trance
+7fTOmqPsWSzcTcRfdRCfNM,Sajanka,Tana Num 170bpm,Tana Num 170bpm,40,380007,False,0.538,0.96,1,-4.577,1,0.0431,0.00437,0.719,0.171,0.25,170.033,4,trance
+5VIZnHRkpfZB9f4KoKomBx,Armin van Buuren;Simon Ward,Hey (I Miss You),Hey (I Miss You),61,199522,False,0.615,0.88,5,-3.717,1,0.0355,0.000376,0.000966,0.046,0.43,120.044,4,trance
+65wCztDg4kLZjQWKx4k6Ek,Sajanka;Adiistation,Pa Ma Garesa,Pa Ma Garesa,38,338823,False,0.516,0.67,7,-6.066,1,0.038,0.0168,0.617,0.118,0.196,169.993,4,trance
+5NPc9zZ5oDt6Sp9rEsQvme,Sajanka;Soumya Sanathanan,Om Bhur,Om Bhur,41,380000,False,0.571,0.839,10,-6.118,0,0.0314,0.029,0.484,0.0994,0.292,149.961,4,trance
+3KruoUtSkm84Az0bJunnxl,Tiësto,Baila Conmigo,Baila Conmigo,76,146249,False,0.652,0.855,7,-6.411,1,0.0775,0.00658,0.409,0.341,0.0834,127.964,4,trance
+0RPRRhb78GmS7emFAbJ4ME,Talamasca;Block Device;Lucid,The Time Machine,We Are Aliens - Original Mix,37,500281,False,0.646,0.907,7,-5.171,1,0.0978,0.000617,0.826,0.375,0.312,142.007,4,trance
+2ayyzfxamdoNRDI0au3wva,Armin van Buuren;R3HAB;Simon Ward,Love We Lost (with R3HAB),Love We Lost (with R3HAB),63,136000,False,0.651,0.783,0,-6.162,1,0.0501,0.045,0.0,0.0628,0.311,119.995,4,trance
+148KyQbBQnbJkx1uCki02A,Berg,Aurora,Monks,41,377391,False,0.644,0.899,1,-6.888,1,0.0514,0.00228,0.8,0.217,0.225,138.033,4,trance
+2iUFSTafPaK4IETG3FbUcw,Fungus Funk,"Space Ganesh, Pt. 2",India,40,356000,False,0.66,0.966,11,-5.369,1,0.0479,4.74e-05,0.678,0.308,0.132,145.999,4,trance
+1oD31XHWUmzpciJIA2p9Bi,Tiësto;Ava Max;Robin Schulz,The Motto (Robin Schulz Remix),The Motto - Robin Schulz Remix,59,157426,False,0.551,0.889,7,-6.109,0,0.0415,0.00323,0.651,0.447,0.157,126.007,4,trance
+4EEBn0pbdBm3eUk5WEyizA,Alexander Popov;Whiteout,Never Cry Again,Never Cry Again,42,230476,False,0.584,0.897,10,-5.841,0,0.0359,0.000443,0.0946,0.132,0.117,125.96,4,trance
+4O5c8T9I55IZr1hEUQrEGi,Armin van Buuren;Jorn Van Deynhoven,Lost In Space,Lost In Space,51,201304,False,0.561,0.903,7,-4.868,0,0.0463,0.00917,0.0613,0.188,0.084,138.081,4,trance
+5GjnIpUlLGEIYk052ISOw9,Armin van Buuren;Trevor Guthrie,Intense,This Is What It Feels Like,67,204360,False,0.551,0.833,8,-5.217,1,0.03,0.0391,2.77e-06,0.0632,0.145,129.885,5,trance
+0c5nqQNIH07Lh16AOjqEPQ,W&W;AXMO;Giin,Skydance,Skydance,66,166812,False,0.377,0.895,8,-2.467,1,0.0476,0.000408,0.000647,0.607,0.449,75.108,4,trance
+16UQJHO164ZQ8W2y7O7Gp5,ALPHA 9;Scorz;Tom Bailey,ASOT 1090 - A State Of Trance Episode 1090,Calling (ASOT 1090),42,234729,False,0.568,0.888,5,-7.863,0,0.0536,0.000298,0.0842,0.119,0.05,126.03,4,trance
+1lXyxleB814ehGUXzsWNXu,Armin van Buuren;Maia Wright,One More Time,One More Time,69,148095,False,0.579,0.761,0,-5.547,1,0.0509,0.1,0.00176,0.279,0.287,126.165,4,trance
+2sIsOou7WRCcxg2EoH1SuL,Daxson,ASOT 1090 - A State Of Trance Episode 1090,Behind The Mask (Transmission 2022 Theme) [ASOT 1090],42,190920,False,0.513,0.906,9,-8.441,1,0.0467,2.28e-05,0.684,0.383,0.0389,133.951,4,trance
+0bOMWdmLlkPlzGpSArVWtO,GXD,ASOT 1090 - A State Of Trance Episode 1090,The Box (ASOT 1090),38,251828,False,0.366,0.946,7,-6.994,0,0.0454,6.68e-05,0.876,0.0772,0.0392,133.965,4,trance
+6d9c8VM5eMaUheUwkwOTm6,Bryan Kearney,ASOT 1090 - A State Of Trance Episode 1090,Kaia (ASOT 1090) [Trending Track],40,127030,False,0.437,0.989,6,-7.107,0,0.0533,0.000219,0.556,0.313,0.0978,137.974,4,trance
+76EvbfwH5r8BHkukcFxd0N,Andy Moor;GXD,ASOT 1090 - A State Of Trance Episode 1090,Resurrection (ASOT 1090) - GXD Remix,37,176074,False,0.414,0.92,11,-8.341,0,0.0368,0.000182,0.802,0.105,0.187,134.98,4,trance
+4B7BMeAQxw5FrZlryfSwzq,Allen Watts,ASOT 1090 - A State Of Trance Episode 1090,Dynamo (ASOT 1090),40,163770,False,0.351,0.962,3,-8.15,0,0.0571,3.77e-05,0.37,0.204,0.149,137.927,4,trance
+1moFkZDqcjQNeXtyoanLHv,Armin van Buuren,Balance,Blah Blah Blah,66,183518,False,0.612,0.963,5,-3.912,0,0.0531,0.00897,0.00378,0.294,0.179,138.009,4,trance
+6OLIEGHsA4WMbedcjY3Ncr,David Forbes,ASOT 1090 - A State Of Trance Episode 1090,Threshold (ASOT 1090),41,124530,False,0.473,0.94,1,-7.879,0,0.0488,1.75e-05,0.755,0.175,0.565,133.982,4,trance
+0pMGtE1PivAOx5NnIOSgn7,Paul Denton,ASOT 1090 - A State Of Trance Episode 1090,Mr Toad (ASOT 1090),35,222410,False,0.497,0.998,7,-6.713,1,0.07,0.00076,0.898,0.0621,0.203,138.145,4,trance
+19CfdCbfhg1QQIbIz9EFjN,GXD;James Christian;Scar,ASOT 1090 - A State Of Trance Episode 1090,Connected (ASOT 1090),37,238650,False,0.479,0.878,8,-8.732,0,0.0653,0.00108,0.151,0.31,0.192,134.988,4,trance
+15blW8gWnwnu96IVuHnWs2,Robbie Seed;Steve Brian,ASOT 1090 - A State Of Trance Episode 1090,Holding On (ASOT 1090) - Steve Brian Remix,39,178760,False,0.541,0.812,7,-9.471,1,0.0387,0.000445,0.0166,0.271,0.145,127.993,4,trance
+53KAjgxWKEqw7nOufSKRQf,Robert Nickson,ASOT 1090 - A State Of Trance Episode 1090,Rocket Surgery (ASOT 1090),41,171190,False,0.416,0.936,7,-8.562,1,0.0428,0.000138,0.866,0.125,0.0803,133.949,4,trance
+6Pyb3IExfdj8CSjQeN3455,Ruben de Ronde;Zack Evans,ASOT 1090 - A State Of Trance Episode 1090,Lean On Me (ASOT 1090) - Zack Evans Remix,38,181940,False,0.531,0.914,4,-8.185,0,0.0586,0.00041,0.000595,0.86,0.189,127.983,4,trance
+2ZKsKEpsHr3beCD4SPpig1,Robert Miles,Techno Weekend,Fable - Message Version,0,384666,False,0.579,0.724,1,-7.989,0,0.025,0.0081,0.00468,0.171,0.188,136.094,4,trance
+5xvzN9tprEU16VYxgZ9he4,Henrique Camacho;Fatality,Sevilla,Sevilla,61,352003,False,0.498,0.949,9,-5.145,1,0.289,0.00522,0.697,0.0674,0.155,180.06,4,trance
+0vtR1BWnjKvzs85eqcC5gn,Blastoyz,Parvati Valley,Parvati Valley,44,406153,False,0.577,0.941,1,-6.567,1,0.0551,0.0036,0.697,0.211,0.517,143.016,4,trance
+5L2l7mI8J1USMzhsmdjat9,Tiësto,A Town Called Paradise,Red Lights,66,262200,False,0.654,0.83,10,-4.801,1,0.0366,0.000629,1.13e-06,0.121,0.548,124.989,4,trance
+5Twubz3SaJmTykgAn8t7IS,Mandragora,Galactic Symphony,Galactic Symphony,46,322387,False,0.539,0.794,0,-9.073,0,0.0546,0.0604,0.274,0.18,0.125,99.946,4,trance
+4wtR6HB3XekEengMX17cpc,Robert Miles,Children (Dance Vault Mixes),Children,69,243266,False,0.604,0.755,0,-10.761,1,0.0337,0.000298,0.817,0.0625,0.387,137.064,4,trance
+0BhLfxWA4TwGu8bGVKBotN,Armin van Buuren;Philip Strand,"Feel Again, Pt. 2",Roll The Dice,27,155238,False,0.612,0.731,1,-5.869,0,0.0527,0.057,0.0,0.317,0.569,125.916,4,trance
+3l1cyMgi27bv1KIP10cqOW,Armin van Buuren;Scott Abbot,"Feel Again, Pt. 2",I'm Sorry,7,190384,False,0.596,0.919,9,-6.179,0,0.0485,0.0329,0.000216,0.138,0.218,130.017,4,trance
+2WEVh0TBS8P38BvjBh8Wem,Armin van Buuren;Diane Warren;My Marianne,Hey (I Miss You),Live On Love,36,171733,False,0.681,0.76,10,-6.331,0,0.062,0.0382,1.11e-05,0.119,0.548,122.895,4,trance
+6tDtuaCX0sIea6o8Qmpyae,Armin van Buuren;Husky,"Feel Again, Pt. 2",Shot At Love,5,202677,False,0.54,0.916,6,-6.275,1,0.0382,0.00237,0.00015,0.0622,0.262,126.999,4,trance
+2fAMFVfSiadA8FUlQTx1bW,Armin van Buuren;Sam Gray,"Feel Again, Pt. 2",Human Touch,2,145748,False,0.64,0.831,2,-5.317,1,0.0363,0.00288,6.17e-05,0.19,0.585,126.968,4,trance
+1TrkJKPYB2oFe3NRS4jJme,Hilight Tribe;Vini Vici,A State Of Trance Classics - Mix 014: Vini Vici,Free Tibet (Mixed) - Vini Vici Remix,52,194779,False,0.405,0.943,11,-5.154,0,0.0584,0.0569,0.48,0.613,0.4,103.492,3,trance
+2i6vQrYVULLekBceqmCNwT,Armin van Buuren;Simon Ward,"Feel Again, Pt. 2",Hey (I Miss You),3,199522,False,0.615,0.88,5,-3.72,1,0.0356,0.000377,0.000929,0.0464,0.416,120.049,4,trance
+5fMy36xPHP4PEgsirxLmma,Armin van Buuren,"Feel Again, Pt. 2",Something Beautiful,5,154336,False,0.581,0.821,6,-4.702,1,0.033,0.00981,0.0,0.226,0.514,120.733,4,trance
+1UktZnwuS1reRmRtli8QS9,Armin van Buuren;Maia Wright,"Feel Again, Pt. 2",One More Time,5,148095,False,0.579,0.764,0,-5.55,1,0.0512,0.0995,0.00174,0.273,0.289,126.162,4,trance
+26rzkGV7pXYOIr4hUg8Mbb,Armin van Buuren;Diane Warren;My Marianne,"Feel Again, Pt. 2",Live On Love,3,171733,False,0.631,0.761,10,-6.289,0,0.0708,0.038,1.05e-05,0.114,0.534,122.698,4,trance
+6vM3LS50ZghrtkTKBvm2Kd,Armin van Buuren;Jesse Fink,"Feel Again, Pt. 2",Start Again,2,167441,False,0.432,0.724,1,-3.568,0,0.0593,0.00538,1.35e-06,0.167,0.377,172.012,4,trance
+6T0e1wKkONiIZQ1FTjMlGZ,Armin van Buuren;Gareth Emery;Owl City,"Feel Again, Pt. 2",Forever & Always,4,194002,False,0.58,0.921,8,-7.376,1,0.0463,0.00787,8.06e-05,0.097,0.37,144.98,4,trance
+2PVA13ykYYHeXKlIsx2Vjk,Armin van Buuren,"Feel Again, Pt. 2",Clap,3,150002,False,0.647,0.97,9,-3.417,1,0.134,0.00795,0.594,0.411,0.122,130.25,4,trance
+4e6fdJaczDlNjMvNwVMSVD,Armin van Buuren;Wrabel,"Feel Again, Pt. 2",Feel Again,2,178750,False,0.58,0.942,10,-5.305,0,0.0422,0.022,0.2,0.138,0.23,120.027,4,trance
+5ZQUoZUqQ1D7QiSOmtQCoI,Armin van Buuren;Maia Wright,Hey (I Miss You),One More Time,32,148095,False,0.579,0.768,0,-5.552,1,0.0508,0.0996,0.00182,0.283,0.302,126.153,4,trance
+68wA3be5nyIqyHvukORvqK,Armin van Buuren;Gareth Emery;Owl City,Hey (I Miss You),Forever & Always,33,194002,False,0.58,0.921,8,-7.376,1,0.0463,0.00787,8.06e-05,0.097,0.37,144.98,4,trance
+5dSc5BbU8wbGY0dHVpf4Ys,Armin van Buuren,Hey (I Miss You),Clap,32,150002,False,0.645,0.97,9,-3.417,1,0.134,0.00804,0.562,0.411,0.123,130.244,4,trance
+6N2dua8p7nL9T67WITwaIY,Armin van Buuren;R3HAB;Simon Ward,"Feel Again, Pt. 2",Love We Lost (with R3HAB),2,136000,False,0.651,0.783,0,-6.162,1,0.0501,0.045,0.0,0.0628,0.311,119.995,4,trance
+3GmVvoNGooqTx3fV2H1rjU,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance (ASOT 1090) - Outro,33,36170,False,0.429,0.829,0,-9.952,1,0.509,0.0973,0.0,0.287,0.555,72.434,3,trance
+0aeqKlSGQgi6Dwr87N3LNq,Armin van Buuren;Blasterjaxx;24h,"Feel Again, Pt. 2",Superman,5,204250,False,0.403,0.884,6,-6.25,0,0.126,0.0115,6.92e-05,0.805,0.436,103.501,3,trance
+3CvfYeaJX8JAT1tF5IzVlG,Paul van Dyk;Alex M.O.R.P.H.,ASOT 1090 - A State Of Trance Episode 1090,Hawkins Square (ASOT 1090),39,224370,False,0.584,0.923,7,-7.32,0,0.0447,0.000417,0.887,0.0601,0.0334,128.025,4,trance
+1rBJb3j8zvMlwIxmozOE7d,Armin van Buuren;Billen Ted;JC Stewart,"Feel Again, Pt. 2",Come Around Again,2,169108,False,0.589,0.912,9,-3.878,0,0.0766,0.0366,0.0,0.0752,0.426,123.946,4,trance
+4LTFOJjQt0wSunlfvIuCYe,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Track Recap, Pt. 1",41,33680,False,0.721,0.703,2,-7.36,1,0.299,0.084,0.0,0.226,0.842,124.097,4,trance
+512rk6iIuzhzOtBGHTUVUS,Armin van Buuren;Blasterjaxx;24h,Hey (I Miss You),Superman,33,204250,False,0.403,0.884,6,-6.25,0,0.126,0.0115,6.92e-05,0.805,0.436,103.501,3,trance
+2o7xb3qaBMnGicq3T4XEWv,Armin van Buuren,"Feel Again, Pt. 2",Let You Down,1,210476,False,0.569,0.959,10,-3.614,0,0.0418,0.0102,0.000199,0.224,0.0368,126.001,4,trance
+2ZFx4terxlW3FNY25kpy71,Armin van Buuren;AVIRA;Chicane,"Feel Again, Pt. 2",Offshore,1,199680,False,0.533,0.948,5,-5.977,0,0.0392,0.0011,0.896,0.128,0.354,125.016,4,trance
+5DUOMqtIps27xFZvCxGWSD,Armin van Buuren,Hey (I Miss You),Computers Take Over The World,34,152250,False,0.777,0.832,1,-5.739,1,0.176,0.00642,0.05,0.12,0.777,139.901,4,trance
+5x4wjHroFa5k0gUCzpYZAn,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Tune Of The Year Votings, Pt. 3",41,44920,False,0.311,0.914,0,-8.082,1,0.0654,0.000777,1.87e-05,0.833,0.377,138.035,4,trance
+3LNJXM1TJlksK5WnabNqDg,Armin van Buuren,"Feel Again, Pt. 2",Computers Take Over The World,4,152250,False,0.777,0.832,1,-5.739,1,0.179,0.00632,0.0508,0.12,0.775,139.917,4,trance
+2a1dpnaLw3CmTu9ofgwLE3,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Tune Of The Year Votings, Pt. 4",40,35450,False,0.602,0.812,9,-8.006,1,0.293,0.27,0.0,0.354,0.832,128.921,4,trance
+48AOncBL3ZkSCJLzEh1OdO,Armin van Buuren,"Feel Again, Pt. 2",Oumuamua,2,325884,False,0.329,0.873,6,-5.323,1,0.0705,0.00013,0.734,0.0563,0.0403,127.923,4,trance
+3et3ldx15qAilZa1ErXaS8,Armin van Buuren;The Stickmen Project,"Feel Again, Pt. 2",No Fun,1,130412,False,0.731,0.904,10,-4.774,0,0.0349,0.00861,0.000164,0.0916,0.328,121.03,4,trance
+4eO3uE6IJVbT5Xex1DrmbE,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Track Recap, Pt. 4",34,44910,False,0.577,0.632,6,-8.207,1,0.301,0.0969,0.0,0.244,0.683,135.43,4,trance
+3wvo6Fh3RBn5t60p3iK16Z,Markus Schulz;Delacey;GXD,ASOT 1090 - A State Of Trance Episode 1090,Destiny (ASOT 1090) - GXD Remix,39,279420,False,0.461,0.901,3,-7.969,0,0.0474,0.000228,0.00691,0.197,0.048,133.863,4,trance
+0LCNtzhgRDbCpcfMAWL61u,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance (ASOT 1090) - Contact Service For Dreamers,38,32540,False,0.582,0.703,11,-7.055,0,0.247,0.071,0.0,0.398,0.743,132.478,3,trance
+2Roub2Oj45R0903dCNZ1eh,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Track Recap, Pt. 3",37,32250,False,0.567,0.671,11,-7.216,0,0.338,0.0298,0.0,0.726,0.614,125.405,3,trance
+2DnINK9YPAgEpT9hP5cWqc,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Track Recap, Pt. 2",39,31900,False,0.503,0.85,1,-7.678,1,0.28,0.0187,0.0,0.369,0.894,137.354,4,trance
+1P7Ik6OX9dV3BnXZi9L4cI,Rodrigo Deem,ASOT 1090 - A State Of Trance Episode 1090,Deem Theater (ASOT 1090),39,241800,False,0.59,0.896,2,-9.474,1,0.0478,0.00263,0.846,0.239,0.12,128.015,4,trance
+2YYVPeCDpnCKo7mMnY4T4m,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,I Live For That Energy (ASOT 800 Anthem) [ASOT 1090] [Service For Dreamers],39,161740,False,0.312,0.841,1,-8.6,0,0.0403,0.00169,0.00909,0.176,0.528,131.981,4,trance
+7GXsxXkvOvSN8qyOtidFDQ,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance (ASOT 1090) - Coming Up,39,35541,False,0.586,0.626,7,-8.127,1,0.321,0.0115,0.0,0.301,0.704,125.716,4,trance
+3keynY7XZqJtdRZVnnLRKc,Armin van Buuren;Simon Ward,ASOT 1090 - A State Of Trance Episode 1090,Hey (I Miss You) [ASOT 1090] [Future Favorite],43,107503,False,0.634,0.805,6,-7.269,1,0.0376,0.000968,0.00691,0.418,0.357,125.122,4,trance
+5xKGdGXYh3LRYTzwVZSb0u,Armin van Buuren;Lucky Lou,"Feel Again, Pt. 2",Pas de Bourree,1,141071,False,0.681,0.867,0,-5.729,0,0.0413,0.000611,0.134,0.0463,0.454,126.031,4,trance
+5hlzz0D0ttrhZk8XSbbBVC,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Interview with GXD, Pt. 1",35,33653,False,0.551,0.68,6,-8.036,0,0.293,0.0517,0.0,0.43,0.768,132.42,1,trance
+2sscCAOTZOYW5N8MlNKbyQ,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Interview with GXD, Pt. 3",35,32169,False,0.625,0.523,5,-9.239,1,0.83,0.137,0.0,0.108,0.881,142.099,5,trance
+5LXaBBZePqShzKxM6b9RFU,Kyau & Albert,ASOT 1090 - A State Of Trance Episode 1090,Velvet Morning 22 (ASOT 1090),42,137625,False,0.479,0.946,10,-7.859,0,0.0388,0.000548,0.261,0.136,0.0381,125.487,4,trance
+0XMl0fVTh3PyPlwyJTn33n,KVSH;Schillist;Ray X Ben,Be Someone,Be Someone,69,166005,True,0.711,0.722,2,-8.438,1,0.202,0.101,1.26e-05,0.628,0.398,120.058,4,trance
+0sovW60r4jvID7qwfaPeL8,Henrique Camacho;Zigma,Ganesha,Ganesha,40,329775,False,0.509,0.554,10,-8.155,0,0.105,0.04,0.277,0.0891,0.235,131.003,4,trance
+0SZPXD0uEl72YjUVY2K3E9,Tiësto;Ty Dolla $ign,"The Business, Pt. II","The Business, Pt. II",63,164267,False,0.658,0.747,8,-6.567,0,0.0971,0.138,0.0,0.129,0.326,120.073,4,trance
+1bxtePWzYybaPiUZqvgQVf,Armin van Buuren;Vini Vici;Hilight Tribe,Great Spirit,Great Spirit - Extended Mix,52,457826,False,0.349,0.94,1,-5.949,0,0.0707,0.00307,0.161,0.474,0.139,138.051,4,trance
+71aoIeMlKuQdrkHljBf0nU,Vini Vici;Neelix;MKLA,Come Close,Come Close,58,194347,False,0.737,0.775,5,-5.443,0,0.0399,0.0945,0.349,0.191,0.306,137.982,4,trance
+2edDfadeDMGIbuctGn0g5e,Sajanka,Time of India,Jumpa Lumpa,39,399996,False,0.637,0.914,0,-6.317,1,0.113,0.0461,0.63,0.187,0.242,170.037,4,trance
+1PCg8EFkkIMuzUhluYyW7D,KiLLATK;Pyrokine,TAAL,TAAL,33,392842,False,0.516,0.977,7,-4.518,1,0.0718,3.13e-05,0.849,0.169,0.0879,94.949,4,trance
+39vokRBOVdnTwRbIOadhqp,Mandragora,"Sem Voce, Sou Ninguem","Sem Voce, Sou Ninguem",51,259452,False,0.485,0.447,11,-8.42,0,0.0471,0.18,0.35,0.124,0.139,136.001,4,trance
+5Ss7C8bSDZMm0pt9pXqObC,Querox;Phaxe,Tripical Moon,Tripical Moon,49,438055,False,0.471,0.529,0,-7.419,1,0.0585,0.00929,0.873,0.0998,0.0378,102.737,1,trance
+25xa84ZW8Wy3cHvRUzpvrY,Mandragora,Slytherin,Slytherin,53,210731,False,0.729,0.406,3,-8.831,0,0.0822,0.109,0.565,0.27,0.0388,163.998,4,trance
+3PY691uPzp970VQl9NII7I,Pondora;Gonzi,Galeira,Galeira,34,408214,False,0.563,0.874,2,-4.334,1,0.0555,0.006,0.151,0.187,0.351,140.004,4,trance
+2w2WGSwcfSoZMpA9NKI2lj,Tiësto;SWACQ,The Business (SWACQ Remix),The Business - SWACQ Remix,42,169440,False,0.899,0.542,7,-7.393,0,0.0806,0.202,0.206,0.371,0.423,125.039,4,trance
+3d2wjKvGWCpXexbOZnW0fS,Sajanka;WHITENO1SE,Anima Mea,Anima Mea,38,382451,False,0.596,0.86,6,-5.593,0,0.0958,0.0602,0.656,0.0876,0.365,155.041,4,trance
+4o5qNxBMh54wvmPNVxZiag,Berg,The Chant,The Chant,37,356521,False,0.379,0.958,6,-5.576,0,0.102,0.00683,0.797,0.0987,0.107,137.898,4,trance
+6Jf6SuWBMPpQydPRPAYy3n,Mandragora;Berg;Phanatic,"Shiva Style (Berg, Phanatic Remix)","Shiva Style - Berg, Phanatic Remix",46,422608,False,0.383,0.754,2,-7.816,1,0.0641,0.00757,0.684,0.095,0.232,138.002,4,trance
+3nwUX7DkMuGPcuHrOXN5VM,Vini Vici,Future Classics,The Tribe,49,467826,False,0.675,0.954,6,-6.423,0,0.127,0.00603,0.464,0.115,0.204,138.017,4,trance
+5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,61,225546,False,0.175,0.995,6,1.023,0,0.211,0.000145,2.5e-06,0.214,0.303,184.066,4,trance
+0NIC4unbe5KZOp1d9T7OaF,Tiësto;KSHMR;VASSY,"Club Life, Vol. 4 - New York City",Secrets,65,250946,False,0.648,0.812,11,-7.585,0,0.0414,0.000329,0.0369,0.0857,0.122,128.178,4,trance
+3YOZWCREvKsxhcZNJix5xd,Armin van Buuren;The Stickmen Project,No Fun,No Fun,63,130412,False,0.731,0.904,10,-4.774,0,0.0349,0.00861,0.000164,0.0916,0.328,121.03,4,trance
+6UiDiFJUGEDzkGpZBL8IYq,Tritonal;Ross Lynch;R5,Painting With Dreams,I Feel The Love,56,213120,False,0.555,0.813,0,-5.792,1,0.033,0.0201,0.0,0.165,0.435,125.034,4,trance
+7glUdHk3PMaHvuXg5OV337,Berg,Aurora,Bayaka,48,420869,False,0.689,0.867,11,-7.35,0,0.0814,0.00765,0.348,0.338,0.369,138.023,4,trance
+4vvnuJlgBeNVwq3TNmLMNX,Tiësto;Dzeko;Preme;Post Malone,The London Sessions,Jackie Chan,64,215759,True,0.747,0.833,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.008,4,trance
+0FEk8LwY8h4rAR63ggfhV0,Tiësto;Jonas Blue;Rita Ora,The London Sessions,Ritual,62,198995,False,0.647,0.726,3,-4.389,0,0.0552,0.157,0.0,0.0844,0.769,114.998,4,trance
+50yvBhmvDKCpc7Yzwobew6,BROX,Lights,Lights,38,485142,False,0.646,0.647,8,-8.549,0,0.0686,0.0254,0.407,0.383,0.426,140.009,4,trance
+6qnK9DPkxzNFkvZzHh2A6e,Animato;Gaudium,Heart Beat,Heart Beat,50,246857,False,0.634,0.933,11,-5.931,0,0.0419,0.0293,0.91,0.334,0.357,139.989,4,trance
+2wxs5sF8JzScf1CV8u9tNU,Armin van Buuren;Bassjackers,Blah Blah Blah (Remixes),Blah Blah Blah - Bassjackers Remix,50,196363,False,0.635,0.962,5,-2.699,0,0.053,0.0458,0.00581,0.68,0.311,132.017,4,trance
+01Lh80BtWdfDkyaSUh37zi,WHITENO1SE;DEGO,A State Of Trance Showcase - Mix 020: WHITENO1SE,Trampoline,54,171857,False,0.594,0.633,7,-5.349,0,0.0433,0.0141,0.0315,0.28,0.0397,139.977,4,trance
+37rLocsfRSSL41RMoeqSC7,Synergetic Emotion;Nictofilia,Water,Water,39,418285,False,0.791,0.576,7,-7.48,1,0.0839,0.0415,0.675,0.133,0.205,140.003,4,trance
+6Sy9BUbgFse0n0LPA5lwy5,Darude,"Before the Storm, Special Edition",Sandstorm,70,225493,False,0.528,0.965,11,-7.984,0,0.0465,0.141,0.985,0.0797,0.587,136.065,4,trance
+701Y3VMDHgqWXMTKXn6Yyh,Ace Ventura;Astrix,Paradise Engineering,Pranava,48,584347,False,0.736,0.906,7,-8.894,1,0.0417,0.000632,0.863,0.0931,0.0431,137.991,4,trance
+4SHuKJoNrvt3pj5VEePCzT,ID,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance ID #001 (ASOT 1090) [Tune Of The Week],42,262130,False,0.588,0.914,9,-8.494,0,0.0532,0.00358,0.00777,0.307,0.0991,129.97,4,trance
+6zn1Ggk5bUGpt22fGJQwpz,Alexander Popov;Luminn;DEXTER KING,Constancy,Constancy,38,194307,False,0.469,0.983,1,-2.944,0,0.0433,0.000938,0.8,0.152,0.09,130.039,4,trance
+4jWHxoaQVTrtm0qTRnigA0,Henrique Camacho,Maharani Remixes,Maharani Hi-Tech,45,416006,False,0.497,0.864,11,-6.868,1,0.189,0.00989,0.671,0.065,0.291,180.004,4,trance
+2HXX7sAKE71YbJ5Wysju9e,Armin van Buuren;Blasterjaxx;24h,Superman,Superman,61,204250,False,0.403,0.884,6,-6.25,0,0.126,0.0115,6.92e-05,0.805,0.436,103.501,3,trance
+32KpVkEKmO5g0t68o1gq23,Something Good,ASOT 1090 - A State Of Trance Episode 1090,Rhythm (Of The Night) [ASOT 1090] [Progressive Pick],43,287188,False,0.571,0.909,3,-8.234,0,0.0396,0.00022,0.736,0.086,0.181,125.989,4,trance
+6X6Ow0iioCrYQSK1QDHQbC,Age Of Love;Charlotte de Witte;Enrico Sangiuliano,The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix),The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix,64,489480,False,0.748,0.909,5,-8.322,0,0.0505,0.0576,0.89,0.0945,0.0617,130.0,4,trance
+5kP8xQ2bcZ13N13xzrBx3z,Liquid Soul;Vini Vici,A State Of Trance Classics - Mix 014: Vini Vici,Universe Inside Me (Mixed),51,189577,False,0.603,0.93,7,-6.661,1,0.0509,0.0127,0.776,0.657,0.163,137.969,4,trance
+4Y7eqYTpV7fQxpYj1isN2F,We Came As Romans;Caleb Shomo,Black Hole,Black Hole,69,179181,False,0.48,0.958,5,-4.241,0,0.0664,2.45e-05,0.0,0.52,0.385,110.05,4,trance
+0moqpuDhgttCjbCW9eYtNq,Armin van Buuren;Gareth Emery;Owl City,Forever & Always,Forever & Always,58,194002,False,0.58,0.921,8,-7.376,1,0.0463,0.00787,8.06e-05,0.097,0.37,144.98,4,trance
+1U0WQ4RwkVkKXu3uOY3fdQ,ID,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance ID #002 (ASOT 1090),37,218240,False,0.401,0.94,11,-8.468,0,0.0509,5.43e-05,0.604,0.156,0.166,135.004,4,trance
+5zGVeEERT36Ww9KcXDAfFh,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Tune Of The Year Votings, Pt. 2",40,36330,False,0.708,0.797,1,-7.472,0,0.542,0.0466,0.0,0.32,0.949,129.861,4,trance
+07ugFdRCBuyCxThGzt4Z1c,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance (ASOT 1090) - ASOT ADE 2022,38,34460,False,0.689,0.756,9,-7.992,1,0.352,0.205,0.0,0.281,0.754,75.819,4,trance
+041YXYyuWu7L4NykzFagcP,Mandragora,"Deep And Sunsets, Vol. 4",Kamayatra,0,196638,False,0.761,0.542,11,-9.789,0,0.0547,0.000434,0.854,0.122,0.18,118.988,4,trance
+3IgXAJImaSIZ8pBF1z1Ucv,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,A State Of Trance (ASOT 1090) - GXD Guest Mix,37,31520,False,0.835,0.68,1,-7.537,1,0.307,0.0195,0.0,0.395,0.937,127.677,5,trance
+0tXo9d1J9y5KkeypIPfp1q,Richard Durand;Susana;XiJaro & Pitch,I Matter to You (XiJaro & Pitch Remix),I Matter to You - XiJaro & Pitch Remix,47,239130,False,0.274,0.952,6,-5.073,0,0.109,0.00444,0.285,0.146,0.0537,138.012,4,trance
+5uUYKILx8eE05jnIT4rkuR,Armin van Buuren,ASOT 1090 - A State Of Trance Episode 1090,"A State Of Trance (ASOT 1090) - Interview with GXD, Pt. 4",35,31990,False,0.696,0.59,2,-8.772,1,0.738,0.158,2.05e-06,0.308,0.826,126.326,5,trance
+34L980Ez8bi6da2zlj7j92,Mandragora,"Sound of Deep-House, Vol. 1",Enjoy the Greatness - Club Mix,0,197520,False,0.659,0.842,11,-13.185,1,0.0462,8.79e-05,0.506,0.367,0.131,119.04,4,trance
+1SSSyYRtTNmrelUuqnv59h,Chicane;Kryder,Armada Music - ADE 2022,Offshore - Kryder Remix,2,196012,False,0.63,0.967,5,-4.835,0,0.0488,0.0104,0.784,0.104,0.0743,126.007,4,trance
+3cNFB4y3aon3pmrVzsmv0Y,Mandragora,"A Quest Into Deep, Vol. 1 (A Special Deep House Experience)",Kamayatra,0,196638,False,0.761,0.542,11,-9.789,0,0.0547,0.000434,0.854,0.122,0.18,118.988,4,trance
+12zekfTE19F1o8kPAKieSa,Ferry Corsten,Armada Music - ADE 2022,You Can't Stop Me,0,189843,False,0.551,0.958,7,-4.764,1,0.0395,0.00159,0.00563,0.328,0.366,124.993,4,trance
+5SIJt068nCivJx4X1Zyior,Blazy;Aura Vortex,Interlude,Interlude,48,206514,False,0.7,0.89,6,-4.802,0,0.119,0.0132,0.745,0.186,0.408,140.047,4,trance
+4QXkaHldbQLCyFwhRQwgpP,Raz,RAZ WORLD 2019,Psychedelic Universe,37,256521,False,0.603,0.961,9,-4.371,1,0.053,0.00185,0.854,0.167,0.0393,138.004,4,trance
+5djymDPX9E9k6kHzEukIeS,Vermont (BR);Bandi,Kazahi,Kazahi,46,385774,False,0.338,0.891,6,-5.181,0,0.0446,0.000153,0.541,0.0442,0.135,106.508,1,trance
+3OkIj3tNADPToDwtdUuBDe,Mandragora,AK-47,AK-47,45,235039,False,0.624,0.51,4,-6.796,0,0.149,0.0224,0.707,0.049,0.209,159.841,4,trance
+1s0bfXRHSFSJENNMDgVt9C,KiLLATK,Mangeshkar,Mangeshkar,31,384000,False,0.521,0.829,11,-9.193,1,0.0987,0.011,0.792,0.13,0.168,180.037,4,trance
+19VKBRNKSbjXSsx3s7W7lk,"It Lives, It Breathes",Metalingus (Edge's WWE Theme),Metalingus (Edge's WWE Theme),50,296000,False,0.487,0.991,6,-1.741,1,0.0673,2.73e-05,0.0,0.177,0.369,110.019,4,trance
+3etD8PWKEohdhwLw9s2zfG,KiLLATK;Vasco,Remember,Remember,32,408297,False,0.513,0.87,10,-4.747,0,0.0749,0.000646,0.673,0.328,0.141,175.003,4,trance
+7vcXWUS5ML6dJ3nkvSc9aR,Sander van Doorn;Martin Garrix;DVBBS;Aleesia,Gold Skies (feat. Aleesia),Gold Skies (feat. Aleesia),39,329067,False,0.564,0.823,9,-6.316,0,0.046,0.00406,0.0716,0.684,0.221,128.018,4,trance
+7m0xP08bcvcHFVnlEzOhBG,Astrix,Psychedelic Awakening,Sahara - Original mix,46,528000,False,0.526,0.923,6,-7.129,0,0.0727,0.00492,0.791,0.833,0.0365,144.999,4,trance
+6kw4tVX6fxwLqfo8LK7Wdp,Omiki,Balkan,Balkan,49,387428,False,0.691,0.961,11,-4.323,0,0.162,0.00106,0.324,0.194,0.279,140.037,4,trance
+1guRSzYTioLu9Dw8yIsgq4,Berg;Chapeleiro,Rolling Sky,Organic,39,413043,False,0.716,0.72,9,-7.166,1,0.116,0.018,0.838,0.165,0.199,138.057,4,trance
+5bFhLxqmSghToSzZGMeh1I,Astrix;Ritmo,He.art,Agate,43,523478,False,0.621,0.885,8,-7.601,1,0.0487,0.00159,0.791,0.14,0.127,137.966,4,trance
+59Bg2fdusOwU7a5ExDGf3J,Vini Vici,Future Classics,Namaste,45,462608,False,0.656,0.981,11,-6.26,0,0.0512,0.000604,0.643,0.354,0.156,138.042,4,trance
+4GwXdVLueKZ8YhYjZmWtYh,W&W;Hardwell;Lil Jon,Live The Night,Live The Night,57,133125,False,0.805,0.968,10,-3.909,1,0.227,0.00707,0.00091,0.368,0.211,127.984,4,trance
+6UffFtGJyLC5JLWtHV4XTw,Berg,See It Coming,See It Coming,51,229714,False,0.619,0.927,9,-4.938,1,0.0433,0.0117,0.788,0.153,0.205,140.016,4,trance
+4tbZ8DNmFxSMjw7gDuSCoq,Sajanka;Barsha,Revolt,Revolt,32,390000,False,0.595,0.755,6,-6.654,0,0.0348,0.00133,0.765,0.0958,0.103,149.997,4,trance
+337KKIbBxbptBecyIdsm0D,Sajanka,Sunny Dunny,Sunny Dunny,32,365008,False,0.584,0.841,7,-6.506,1,0.0482,0.00431,0.552,0.0616,0.18,149.975,4,trance
+7eCJDbPTWMH0csoAk0BGSI,Berg,Randa,Randa,46,217500,False,0.645,0.787,1,-6.157,1,0.0613,0.0068,0.214,0.502,0.075,138.001,4,trance
+0ubjNus6ut2BifiXQI7ZJD,Captain Hook;Astrix,Akashic Library,Bungee Jump,49,518260,False,0.732,0.785,4,-8.835,0,0.0846,0.00893,0.75,0.0903,0.119,138.039,4,trance
+6NFPKVYtb1tUEuEdvcH5G1,Astrix;Ace Ventura,He.art,Valley of Stevie,45,521142,False,0.609,0.879,6,-8.172,0,0.0476,0.000617,0.844,0.126,0.161,140.01,4,trance
+1qdC4a9JRZlyMeOdhJQDYy,Astrix;Freedom Fighters,Burning Stones,Burning Stones,40,488695,False,0.653,0.896,10,-8.211,1,0.0577,0.00181,0.842,0.326,0.122,137.986,4,trance
+75REiWoSiU04TL1l8EnFS0,Pondora;Skazi;Shanti People,Deva Mahadeva,Deva Mahadeva,34,337342,False,0.627,0.899,4,-4.081,1,0.0393,0.000876,0.00587,0.0789,0.377,142.975,4,trance
+1DZCUAimghmegaMeFG617V,Vegas (Brazil),Caixa Magica,Elipsy,48,402110,False,0.641,0.832,10,-7.476,1,0.0823,0.00136,0.74,0.582,0.0329,137.999,4,trance
+7eiuL8b6TSjkhNEk544GLZ,Dj T.H.;Mitraz,Chasing Stars,Chasing Stars,29,215390,False,0.604,0.905,0,-2.843,0,0.0419,0.00178,0.000835,0.249,0.238,130.019,4,trance
+5ScYUv4grVUOvOECp6TiKZ,Armin van Buuren;Diane Warren;My Marianne,Live On Love,Live On Love,60,171733,False,0.681,0.76,10,-6.331,0,0.062,0.0382,1.11e-05,0.119,0.548,122.895,4,trance
+4s4odJtCP8YlXssj1VYrp6,Andrew Rayel;Sam Gray,Wild Feelings,Wild Feelings,57,161634,False,0.706,0.894,2,-4.765,1,0.0331,0.0181,1.05e-05,0.306,0.475,122.031,4,trance
+54yAfxuhZqdm3Sr1i33goh,BROX,Real Live,Falling,35,370434,False,0.598,0.881,1,-8.54,1,0.0324,0.000976,0.755,0.291,0.394,138.0,4,trance
+66jOXJrDytE0Ye3oUmvj7D,Mark Sixma,The World of Six (Incl. Bonus Remixes),Million Miles,50,202968,False,0.616,0.716,4,-4.953,1,0.0566,0.0497,2.82e-05,0.689,0.419,128.034,4,trance
+6fenHIxXuuzKB55wY4WCHP,Tiësto;Mabel,God Is A Dancer (with Mabel),God Is A Dancer (with Mabel),63,168125,False,0.774,0.747,1,-3.908,0,0.082,0.0241,6.11e-06,0.342,0.833,119.964,4,trance
+3d2580DKGk2tH3XrTFiRZf,Maarten de Jong,Atom (138 Mix),Atom - 138 Mix,47,206956,False,0.466,0.975,7,-4.731,0,0.0739,0.00909,0.91,0.0959,0.0627,137.984,4,trance
+396fYbisUapKklDCsxF2vJ,S.U.N. Project;Atomic Pulse,Paralysed II,Metalic Taste - Atomic Pulse Remix,30,465559,False,0.626,0.85,9,-8.646,1,0.053,0.00935,0.899,0.326,0.194,144.003,4,trance
+4Get5ZiY8kJAWaqkPhSGb1,Talla 2XLC;Ralphie B,Spirit,Spirit,44,239973,False,0.426,0.962,0,-8.397,1,0.0836,0.000241,0.835,0.357,0.126,139.98,4,trance
+64efbrqLb53cBFwoWS9mAE,Talla 2XLC;Airwalk3r,Enough for Me,Enough for Me,48,233043,False,0.545,0.944,8,-6.114,1,0.0498,0.0168,0.032,0.162,0.119,138.037,4,trance
+7JoVRy6b5AqggrBcSQ27wV,Armin van Buuren,A State Of Trance Top 20 - June 2018 (Selected by Armin van Buuren),Blah Blah Blah,47,183518,False,0.612,0.963,5,-3.912,0,0.0531,0.00897,0.00378,0.294,0.179,138.009,4,trance
+2WyKvnMEF9H8CKHvmAXSm3,Omnia;Ira;Blastoyz,The Fusion (Blastoyz Remix),The Fusion - Blastoyz Remix,50,173142,False,0.488,0.99,8,-2.718,1,0.0574,0.000144,0.0453,0.389,0.221,139.994,4,trance
+2ZWdUSlnSgHv2pxqMieKWM,Roman Messer;Christina Novelli,Frozen (Full Fire Mix),Frozen - Full Fire Mix,51,266086,False,0.544,0.996,9,-2.994,0,0.194,0.00288,0.115,0.187,0.0708,138.01,4,trance
+6SrwmS9G3gI3cGNUqv6QzV,Armin van Buuren,"Feel Again, Pt. 1",Let You Down,56,210476,False,0.572,0.956,10,-3.605,0,0.0418,0.0104,0.000188,0.205,0.0375,125.998,4,trance
+0R2KmlsyojxoYG8wxcd5XX,W&W;Groove Coverage,Moonlight Shadow,Moonlight Shadow,65,179586,False,0.457,0.92,5,-4.309,1,0.102,0.0137,3.43e-05,0.133,0.39,145.176,4,trance
+08Cz11QoQysCqgDONUVXmL,Armin van Buuren;The Stickmen Project,"Feel Again, Pt. 1",No Fun,60,130412,False,0.731,0.904,10,-4.774,0,0.0349,0.00861,0.000164,0.0916,0.328,121.03,4,trance
+3ADl2kvyEaYmL2jMrHgIot,Armin van Buuren;R3HAB;Simon Ward,"Feel Again, Pt. 1",Love We Lost (with R3HAB),56,136000,False,0.651,0.783,0,-6.162,1,0.0501,0.045,0.0,0.0628,0.311,119.995,4,trance
+22DnBQIIXFPJNRGuNjWlSg,Infected Mushroom,Vicious Delicious,Becoming Insane,54,440266,False,0.654,0.82,2,-5.769,1,0.0648,0.00368,0.364,0.195,0.617,145.002,4,trance
+2bcYHFk3XWcPnDXYY3tdJX,Nadia Ali,Queen of Clubs Trilogy: Onyx Edition,Rapture - Avicii New Generation Mix,55,221543,False,0.558,0.934,10,-4.072,0,0.0355,0.0185,0.21,0.275,0.385,130.008,4,trance
+6UCpR17pbWqO88Xf7TwZq6,Roman Messer;Joe Jury,Upon The Horizon,Upon The Horizon,46,248759,False,0.415,0.99,1,-3.466,1,0.0665,0.000418,0.212,0.197,0.237,138.003,4,trance
+6mdNaH0NcBqAf6X343agug,Alex M.O.R.P.H.,Calling San Francisco,Calling San Francisco,45,194122,False,0.359,0.987,0,-5.437,1,0.0437,0.00123,0.955,0.149,0.247,136.026,4,trance
+1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,58,218573,False,0.357,0.98,5,-1.286,0,0.153,0.00143,0.0,0.196,0.567,191.147,4,trance
+0uoIZEtT7zRTbPLOR4rmr7,Hilight Tribe;Vini Vici,Tomorrowland Belgium 2018 (Highlights) [A State Of Trance Stage],Free Tibet (Mix Cut) - Vini Vici Remix,44,114406,False,0.482,0.918,1,-11.515,1,0.051,0.000228,0.512,0.202,0.355,140.008,4,trance
+5s76Adm7BH1gbWsVhDKrnf,Cosmic Gate;Diana Miro,Black Hole House Music 10-22,Hear Me Out - Extended Mix,0,445406,False,0.602,0.916,9,-5.91,0,0.0413,0.00277,0.56,0.0864,0.036,122.997,4,trance
+7mfemPkXO5f3uw6cXOikHQ,Cosmic Gate;Greenhaven DJs,Black Hole Trance Music 10-22,Analog Feel - Greenhaven DJs Extended Remix,0,458139,False,0.704,0.833,6,-4.667,0,0.0716,0.00312,0.876,0.0919,0.205,128.992,4,trance
+6T6GxQNHaCfGAGH5tjRRFA,Crown The Empire,Emo Christmas 2022,Burn,0,228213,False,0.444,0.843,5,-5.376,0,0.0641,0.0645,2.61e-05,0.135,0.399,153.959,4,trance
+7EkEG47RFRjxbpSafL0Ufp,York;Sin Plomo;Janet Taylor;JJ Flores,"Swanky Club House, Vol. 1",It's You - JJ Flores Remix Extended,0,382187,False,0.748,0.939,8,-5.23,1,0.0472,0.0607,0.31,0.0891,0.398,126.984,4,trance
+1ChzNnL5BTDCDYQHxrT1l9,Ranji;Ghost Rider,Can't Sleep (Radio Version),Can't Sleep - Radio Version,54,201467,False,0.514,0.753,7,-7.352,0,0.0817,0.0416,0.0039,0.205,0.109,138.054,4,trance
+4rfhAoZjGwraqwX1w47uij,Above & Beyond;Richard Bedford,Group Therapy,Sun & Moon - Original Mix,53,326266,False,0.682,0.524,6,-8.061,0,0.0918,0.0228,0.0138,0.11,0.194,133.998,4,trance
+4vwJX9lbOptwFowOnIO6Bh,Mandragora;Henrique Camacho,Lion-Tech,Lion-Tech,44,331830,False,0.533,0.892,7,-6.001,1,0.209,0.00263,0.66,0.15,0.0382,184.92,4,trance
+4i8QAWAKm368EOorr8j3By,Menumas;The Witcher,Power,Power,29,427452,False,0.477,0.732,11,-6.565,0,0.086,0.0587,0.879,0.146,0.375,145.0,4,trance
+1xjbXrUGEC1vpGlz73hNzB,Mandragora,Standing Ground,Standing Ground,42,210371,False,0.75,0.568,5,-8.264,0,0.0286,0.0881,0.562,0.0907,0.0398,127.984,4,trance
+5Gx270oFh2Dp2sK0VFYO6p,Henrique Camacho,Sitar Hi-Tech,Sitar Hi-Tech,34,355270,False,0.356,0.849,11,-6.273,1,0.0738,0.0106,0.504,0.175,0.343,150.004,4,trance
+1Q4jb2UjtWUDUojHsB8mLY,Tiësto;The Chainsmokers,Split (Only U),Split (Only U),60,256640,False,0.634,0.927,1,-3.282,1,0.136,0.048,0.687,0.0864,0.35,128.016,4,trance
+065AgIXWjkGIm2cpYx4zlu,KiLLATK,Never Slackin',Never Slackin',28,384000,True,0.632,0.949,1,-7.063,1,0.0933,0.00114,0.403,0.116,0.512,95.02,4,trance
+3GKN5PYjlS7baPtrbdLtev,Ranji;Ghost Rider;Berg,Lay Me Down,Lay Me Down,54,210652,False,0.758,0.68,6,-7.685,0,0.0808,0.199,0.184,0.243,0.127,138.079,4,trance
+6KaEnhXKR6vSqqWzQOyqxE,Berg;Skazi,Breeze,Breeze,43,337391,False,0.593,0.915,10,-6.325,0,0.104,0.00316,0.584,0.112,0.265,138.043,4,trance
+22msYUtSlQFpFDO60JPHgK,Sajanka,Time of India,Hayde,29,340012,False,0.629,0.97,0,-5.055,1,0.0614,0.0371,0.583,0.118,0.342,148.02,4,trance
+69zxj1EFDfAouZu9JDmQld,Tiësto;KSHMR;VASSY,Secrets (Radio Edit),Secrets - Radio Edit,60,216967,False,0.677,0.811,11,-4.53,0,0.043,0.0012,0.00761,0.0896,0.185,128.004,4,trance
+4YNZzacYj5eE9n3ccXR9x9,Alpha Portal;Ajja,The Other Side,The Other Side,38,499238,False,0.657,0.882,9,-6.238,1,0.0788,0.000522,0.88,0.0999,0.0375,143.014,4,trance
+0yrlRdgnfEFvk5zlZ9yCKy,Armin van Buuren,Turn It Up,Turn It Up,52,172173,False,0.582,0.953,5,-6.113,0,0.0567,0.00136,0.00197,0.324,0.12,138.025,4,trance
+3MhymzaFcj7bXVJzB0ZJb8,W&W;Timmy Trumpet;Will Sparks;Sequenza,Tricky Tricky,Tricky Tricky,56,162302,False,0.632,0.962,8,-3.311,1,0.302,0.0146,0.53,0.297,0.0919,139.051,4,trance
+69pnjAws2uzNZJEK64p9JI,Vini Vici;Jean Marie;Hilight Tribe,Moyoni,Moyoni,44,217391,False,0.614,0.989,1,-4.724,1,0.194,0.0132,0.0176,0.112,0.0921,103.485,3,trance
+77OuOZhDxJSQLYnNIpX2AG,Tiësto;Matthew Koma,A Town Called Paradise,Wasted,62,190013,False,0.638,0.816,2,-5.503,1,0.0308,0.00149,0.00115,0.195,0.386,112.014,4,trance
+0TejbZNnypwBQDwkUPjPrT,Tiësto;Charli XCX,Hot In It (Tiësto’s Hotter Mix),Hot In It - Tiësto’s Hotter Mix,64,184871,False,0.723,0.99,7,-4.409,1,0.198,0.00214,5.63e-05,0.328,0.167,126.05,4,trance
+0XL75lllKb1jTmEamqwVU6,Sajanka,Time of India,Time of India,30,240062,False,0.689,0.554,9,-8.2,1,0.0759,0.091,0.914,0.0867,0.163,148.002,4,trance
+13GV28kgnu0P8IrYfrgwIc,Sajanka,Time of India,Lord Shiva,28,310067,False,0.559,0.924,7,-5.017,1,0.0674,0.0105,0.884,0.864,0.134,145.008,4,trance
+04x4RHqb7UQMG978AlxkrD,Morten Granau,San Pedro,San Pedro,40,448000,False,0.72,0.877,0,-6.673,0,0.0534,0.118,0.756,0.626,0.118,135.021,4,trance
+7u4jxqiqlXTGKlwbnUIODB,Astrix;Avalon,Psy-Fi Book of Changes Compiled by Astrix,Moonshine - Original mix,42,466285,False,0.577,0.921,7,-7.809,1,0.045,0.00221,0.819,0.161,0.179,140.017,4,trance
+2Cn42wAQwgQ5qv61UUdKdR,Scorz;Diana Leah,Come To Life,Come To Life,55,183876,False,0.744,0.85,0,-6.633,1,0.0401,0.00569,0.111,0.098,0.211,123.992,4,trance
+0YHL0wDP6b7ov6h0yEhorO,W&W;AXMO;SONJA,Rave Love,Rave Love,60,189000,False,0.393,0.895,6,-4.935,0,0.0493,0.00259,0.000407,0.151,0.183,160.057,4,trance
+3FZJvSZFHmCk4gASYCHixf,Berg,Tantra,Tantra,40,327428,False,0.652,0.894,1,-6.71,1,0.0603,0.00436,0.21,0.337,0.197,140.023,4,trance
+6po0MzJTuLfaVLGKQUthGw,tyDi;Kundo;London Thor,Please Stay (feat. London Thor),Please Stay (feat. London Thor),51,218000,False,0.459,0.718,4,-5.487,1,0.052,0.249,0.0,0.174,0.182,144.952,4,trance
+0iXNpYZw6eZN30cQkc72B0,Electric Universe,Mantra,Mantra,38,457315,False,0.512,0.893,8,-5.724,1,0.0363,2.72e-05,0.852,0.0632,0.225,145.016,4,trance
+2HXWW3EM1SkQGMI2XvAZLW,Armin van Buuren,Clap,Clap,58,150002,False,0.646,0.971,9,-3.417,1,0.135,0.00776,0.588,0.411,0.122,130.218,4,trance
+16V8meQabrUEUI5GRC8x4K,Vini Vici;Mira Feder,Rapture,Rapture,53,201739,False,0.598,0.924,10,-5.147,0,0.053,0.0498,0.00598,0.292,0.394,137.99,4,trance
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,trance
+1PfLmjg83VihYZJtVQk1bX,tyDi;Electric Polar Bears;neverwaves,You Never Know,You Never Know,57,139173,False,0.621,0.955,0,-3.716,1,0.0444,0.0871,0.00326,0.296,0.424,126.966,4,trance
+244w7BpXC62Dc5dAtQryAv,W&W;Groove Coverage,God Is A Girl,God Is A Girl,54,194482,False,0.528,0.884,0,-5.144,0,0.037,0.00128,0.000273,0.0952,0.254,145.033,4,trance
+6kcNjnL7G6Ym2sJjO017YO,Ace Ventura;Module Virus,Psychedelic Awakening,Going Back - Module Virus Remix,28,425386,False,0.677,0.952,1,-5.536,1,0.0593,0.000747,0.822,0.147,0.331,145.022,4,trance
+1fN2cemf6ByT2WKqtumwR5,Dash Berlin;Roxanne Emery;Yoel Lewis,Trance Top 1000 (Mini Mix 006) - Armada Music,Shelter (Mix Cut) - Yoel Lewis Remix,51,105218,False,0.486,0.855,3,-4.493,0,0.0497,0.000452,0.00146,0.249,0.151,129.9,4,trance
+3LHCdEoFMgqaEGmMtAN3Hu,Liquid Soul;Zyce;Solar Kid,EDM Gaming Music Autumn/Winter 2022,Anjuna,0,494117,False,0.775,0.902,1,-7.896,1,0.0618,0.00307,0.899,0.078,0.101,136.011,4,trance
+6qLOjFCDPQUHMtsdAMnUaH,Synergetic Emotion,In the end,In the end,43,301714,True,0.484,0.718,7,-8.554,1,0.0964,0.115,0.689,0.16,0.14,140.029,4,trance
+2mHD1X70ZkFXzVcyUbC4up,Steve Dekay,Bellatrix,Bellatrix,44,239995,False,0.501,0.936,6,-9.276,1,0.0608,0.00102,0.875,0.267,0.247,138.016,4,trance
+5krhLpkt6KhhomFqHWPgYl,W&W;AXMO;SONJA,StarShine (I Don't Want This Night To End),StarShine (I Don't Want This Night To End),61,177600,False,0.437,0.917,1,-2.027,1,0.0488,0.0135,1.49e-06,0.512,0.289,150.0,4,trance
+6lcfXzhZNBttvzKLFonaTu,Liquid Soul;Zyce;Solar Kid,Night Drive Autumn/Winter 2022/23,Anjuna,0,494117,False,0.775,0.902,1,-7.896,1,0.0618,0.00307,0.899,0.078,0.101,136.011,4,trance
+1Q7FZie2f2sJjfI5svBjGR,Armin van Buuren;Tempo Giusto,Balance,Mr. Navigator,55,152238,False,0.759,0.948,1,-5.465,1,0.114,0.0212,0.336,0.366,0.181,134.085,4,trance
+3yRcwIkTVIJTEGAoPlsHbW,Tiësto,Can U Dance (To My Beat),Can U Dance (To My Beat),62,148125,False,0.725,0.894,7,-4.231,1,0.427,0.0132,1.83e-05,0.387,0.427,128.053,4,trance
+7CGgMARb0uCM4IaqzHLiiN,Ilan Bluestone;Giuseppe De Luca;XiJaro & Pitch,Impulse (Remixed),Love Is A Drug - XiJaro & Pitch Remix,45,217418,False,0.503,0.945,9,-5.793,0,0.0421,0.00209,0.0692,0.138,0.288,137.998,4,trance
+5pr0RW6itk3yEfJHkg4DIF,Armin van Buuren;Billen Ted;JC Stewart,"Feel Again, Pt. 1",Come Around Again,62,169108,False,0.589,0.912,9,-3.878,0,0.0766,0.0366,0.0,0.0752,0.426,123.946,4,trance
+6FzjJPwf5JzzFOei7h6Qrp,Armin van Buuren;Vini Vici;Hilight Tribe,The Best Of Armin Only,Great Spirit,56,215773,False,0.591,0.911,9,-7.975,1,0.0661,0.00609,0.0123,0.223,0.211,103.517,3,trance
+6NNpXXkpPDZKxdavZbVhwJ,Tiësto;Ava Max,The Motto (Tiësto’s VIP Mix),The Motto - Tiësto’s VIP Mix,63,206160,False,0.682,0.922,7,-2.936,0,0.0421,0.00956,0.00215,0.0626,0.266,125.004,4,trance
+4BSEVK92SsTGvzxLrpZNEr,Liquid Soul;Inner Sphere,Set: 38,Revolution - Inner Sphere Remix,4,405000,False,0.754,0.93,7,-5.403,1,0.0607,0.00111,0.865,0.713,0.247,140.004,4,trance
+1mQxwuR5fKytJ1N32I5xj1,Giuseppe Ottaviani;Sarah de Warren,Black Hole House Music 10-22,Melody - Extended Mix,0,433508,False,0.687,0.665,11,-9.755,0,0.0422,0.00052,0.267,0.0805,0.324,124.992,4,trance
+1nDH2KRXRIITHhNwK0V7JW,Liquid Soul;Ritmo;Asgard,Psy Trance Universe - Road to Goa,Be Right - Asgard Remix,0,500281,False,0.535,0.911,6,-6.932,0,0.038,0.0101,0.814,0.091,0.559,141.988,4,trance
+5gdg8veEXwC9qPnmXZN1x1,Issues,Emo Christmas 2022,"Merry Christmas, Happy Holidays",0,227973,False,0.607,0.919,1,-5.432,1,0.172,0.0275,0.0,0.225,0.469,109.993,4,trance
+6G6aJKF6u2NiA3hiY08yAQ,Roman Messer;Aleksey Ekimov,"Nothing But... Underground Trance Selections, Vol. 03",Mass Effect,0,187500,False,0.55,0.893,5,-4.794,0,0.211,0.0273,0.495,0.237,0.316,128.139,4,trance
+5DRGuHS0xJ3X3OZjCrglTI,Astrix;Rising Dust,Universo,Universo,49,607552,False,0.644,0.761,3,-7.26,0,0.043,0.000118,0.841,0.0869,0.037,143.004,4,trance
+6BDLcvvtyJD2vnXRDi1IjQ,Seven Lions;ILLENIUM;Said The Sky;HALIENE,Rush Over Me,Rush Over Me,55,259555,False,0.441,0.753,0,-4.074,1,0.044,0.0701,0.0,0.027,0.254,135.015,4,trance
+3enau2GRU6Bfvo4H4zdDig,Ranji;Omiki;AViVA,Psycho,Psycho - Remix,49,284678,False,0.648,0.88,7,-6.054,0,0.0602,0.0346,0.295,0.324,0.155,140.058,4,trance
+5jaywpfJCyObexTb1prNPi,Vermont (BR),Stars,Survey Selva,38,368516,False,0.533,0.765,11,-7.134,1,0.0399,0.0117,0.775,0.171,0.471,154.999,4,trance
+7mQRfJ54ccWllxki6Q42lh,Upgrade,Baileys,Baileys - Original Mix,38,407323,False,0.807,0.754,5,-3.433,0,0.187,0.158,0.71,0.113,0.276,142.024,4,trance
+6qLIrkb2cbxziWCq08PXJV,Alpha Portal,Dimension 005 (Compiled by Alpha Portal),Acid Rain,43,488450,False,0.554,0.936,6,-6.794,0,0.0517,0.000499,0.793,0.183,0.0389,142.008,4,trance
+216UNs7lSOQNVcH6saiLOD,Sajanka,Time of India,Alejandro,27,348652,False,0.66,0.891,8,-7.813,1,0.104,0.197,0.829,0.108,0.192,148.001,4,trance
+4FF9V7CCKx5RajkF92d07e,Pettra,Middle Eastern,Jamil,27,487000,False,0.649,0.628,1,-11.067,1,0.0562,0.00278,0.872,0.227,0.194,138.016,4,trance
+4R7P9MgPwDpaXGBseZx9W5,Scorz;Mokita,Scared Of Us,Scared Of Us,42,211935,False,0.605,0.933,1,-6.125,1,0.038,0.0849,0.0276,0.138,0.101,121.983,4,trance
+10EpXLXKHmNSVKvX7A5hg8,Tritonal;Angel Taylor;Koven,Getaway (Remixes),Getaway - Koven Remix,61,203720,False,0.488,0.914,6,-2.875,0,0.223,0.00415,0.0,0.158,0.222,172.187,4,trance
+6kOkhuico8F2222r3WVAT7,Mandragora,Disc 2,It Might Have Been,43,236446,False,0.651,0.601,6,-10.344,0,0.0363,0.177,0.706,0.155,0.335,150.049,4,trance
+7g2zJC8JmpZF2vcXjZOHOe,Gareth Emery;Janet Devlin;William Black,Lost,Lost - William Black Remix,49,185379,False,0.594,0.806,8,-8.878,0,0.276,0.0738,0.000909,0.115,0.259,144.891,4,trance
+6UWZP82Q9I7lUtQaPBWJL7,W&W;Vini Vici,Chakra,Chakra,45,203000,False,0.474,0.94,5,-4.558,1,0.261,0.00446,0.00172,0.417,0.0878,103.483,3,trance
+7ydaic6O1E9pVrzQiXYDZt,Omiki,Devil in Me,Devil in Me,48,194571,False,0.37,0.949,4,-5.119,0,0.14,0.0121,0.0978,0.356,0.0356,140.061,4,trance
+0NRihvQ9nO5evfhSFilEJE,Reality Test;Shanti People,Shiva Bhole,Shiva Bhole,29,330652,False,0.554,0.888,6,-5.844,0,0.0543,0.00537,0.541,0.161,0.0617,138.095,4,trance
+5r69A87KyL53dnEsT8GUNC,Blastoyz;Ranji,Blastoyz + Friends vol.2,Zoom,41,401142,False,0.641,0.928,8,-5.927,1,0.102,0.00867,0.759,0.48,0.301,139.982,4,trance
+1ZJFc8isFWKXtN1BlE20fX,ALPHA 9,Come Home,Come Home,55,226889,False,0.519,0.827,4,-6.908,0,0.0451,0.038,0.911,0.177,0.0361,128.059,4,trance
+4IOK3PjSHrQm6dgYZdHZkE,Armin van Buuren;Sam Gray,Human Touch,Human Touch,52,145748,False,0.633,0.834,2,-5.316,1,0.0383,0.0029,4.37e-05,0.19,0.599,126.981,4,trance
+4G6iSwBeF8fOLZEjYlXZTb,Blastoyz;Aquatica,Colosseum,Colosseum,38,171549,False,0.313,0.96,9,-4.457,1,0.113,0.00214,0.641,0.0965,0.256,106.613,4,trance
+5iyzatiVME0zoQvP9Sq7Va,Avalon;Tristan;Vini Vici;Killerwatts,Colors (Killerwatts UK Psychedelic Remix),Colors - UK Psychedelic Remix,41,415114,False,0.608,0.924,8,-6.67,1,0.0419,4.46e-05,0.671,0.142,0.0393,143.99,4,trance
+3W0wCpIAMV6NZeoYlCd4JY,Vermont (BR);D-Stroyer,Stars Remixes,Survey Selva - D-Stroyer Remix,38,232258,False,0.535,0.943,10,-2.758,0,0.0447,0.00131,0.587,0.137,0.0995,155.046,4,trance
+5fcJyQfkypQ8AzfLOGAAZ5,Astrix,Artcore,Beyond the Senses,37,465000,False,0.403,0.809,1,-7.811,1,0.0567,0.00505,0.793,0.218,0.159,100.025,4,trance
+1Ba2bKM9cglSy23kIScGnh,Sajanka,Time of India,Zulu Warriors,28,410008,False,0.657,0.938,10,-7.021,0,0.0725,0.125,0.705,0.411,0.338,148.011,4,trance
+3rTDI5zFvAWhcDW77ePuxp,Liquid Soul;Vini Vici,Universe Inside Me,Universe Inside Me,46,481738,False,0.687,0.834,7,-7.699,1,0.0823,0.00413,0.893,0.0608,0.055,137.985,4,trance
+4bsaUtRfcQMVTCo6OOCKEk,Sajanka;Barsha,Global Tribes,Mellow Desert,27,413016,False,0.577,0.929,8,-6.299,0,0.0437,0.226,0.845,0.147,0.353,150.016,4,trance
+6O2UoM5MbPtiXd44UgZKfo,Fungus Funk;Kabayun;Ingrained Instincts,Bubble Universe (Compiled by Emiel & Giuseppe),Future Kids (148 Bpm),31,442454,False,0.574,0.909,7,-9.265,1,0.0365,2.14e-05,0.784,0.445,0.573,148.017,4,trance
+5Xw7riSdSL7mWmxXZCBZrM,Mad Maxx;Shivadelic,Shivadelics,Ganesha Namah - Original Mix,33,561126,False,0.472,0.941,7,-6.592,1,0.0422,3.45e-05,0.729,0.142,0.0831,142.012,4,trance
+5KXKrwGufdiczNjHWbveOV,Sajanka,Time of India,Shanty Banty,28,340403,False,0.651,0.682,10,-6.166,0,0.0462,0.00892,0.724,0.693,0.0843,147.99,4,trance
+7MKJv10BVcfkZSJZzOmtvI,Emma Hewitt;Markus Schulz,INTO MY ARMS,INTO MY ARMS,51,234285,False,0.463,0.928,10,-6.571,1,0.0613,0.262,0.108,0.387,0.0747,125.962,4,trance
+13lUhE5ppZ8srSnaLoK2ky,Alexander Popov;Whiteout,Right Back,Right Back,53,209280,False,0.567,0.942,4,-7.217,0,0.0379,0.000957,0.0779,0.343,0.0396,125.043,4,trance
+254692vwx0pCzwKc9njNae,Vandeta,Loca People,Loca People,43,248516,False,0.651,0.895,7,-5.519,1,0.125,0.0423,0.335,0.312,0.281,142.015,4,trance
+02X7XgBMKqtFpYyXStl3Rs,Vegas (Brasil);Vagus,Answer From The Stars (Vagus Vip Remix),Answer From The Stars - Vagus Vip Remix,40,349090,False,0.536,0.672,7,-7.66,0,0.0504,0.00385,0.798,0.13,0.153,142.999,4,trance
+6fTNQPbtyEPFBkMDc8AmVH,Blastoyz;Aquatica,Colosseum,Colosseum - Extended Mix,20,332957,False,0.522,0.944,9,-4.837,1,0.127,0.00173,0.737,0.111,0.177,142.022,4,trance
+7zgVP6i47KC2HfKroljecW,BROX,Real Live,Universe,28,426857,False,0.628,0.894,6,-8.866,0,0.0442,3.51e-05,0.774,0.0744,0.259,140.004,4,trance
+5ur1ROwagj4u672Hq3QAol,Shogun,Trance Top 1000 (Mini Mix 001) - Armada Music,Skyfire (Mixed),57,101831,False,0.616,0.938,1,-6.592,0,0.195,0.3,0.39,0.678,0.17,132.052,4,trance
+0CxkmF72bUmXLVKpnTP9r3,Mark Sixma,Sinfonia,Sinfonia,50,173999,False,0.659,0.879,1,-4.545,0,0.0451,0.00074,0.606,0.111,0.104,129.964,4,trance
+1eFConHOGgiTlukHE7xmkr,Astrix;Tristan;Volcano On Mars,Awake the Snake (Volcano on Mars Remix),Awake the Snake (Volcano on Mars Remix),45,499862,False,0.582,0.972,6,-5.889,1,0.0465,0.00039,0.802,0.582,0.134,144.995,4,trance
+0pbZX9CK1W2iIiUFJf39wr,Sound Quelle,Trait,Ah Up,53,200375,False,0.533,0.818,6,-6.979,0,0.0312,0.00757,0.888,0.225,0.238,111.979,4,trance
+0zpl5uMmSeTIPheLMEzn6y,Synergetic Emotion,Vikings,Vikings - VIP Mix,39,257142,True,0.754,0.411,4,-9.015,1,0.0538,0.0087,0.837,0.185,0.323,142.074,4,trance
+13JYeTnxWhXJcwjogYSraT,Dash Berlin;Photographer,In The End (Photographer Remix),In The End - Photographer Remix,53,209666,False,0.474,0.913,0,-8.561,1,0.0658,0.0668,0.931,0.115,0.0847,135.017,4,trance
+6E8mspz7C4Sf6fmZgvnqFY,XiJaro & Pitch;Clara Yates,Rescue Me,Rescue Me,48,239714,False,0.531,0.975,1,-5.87,0,0.145,0.000232,0.0156,0.483,0.0702,140.014,4,trance
+3qPXWPkEZgUhUgPifbE99z,Tiësto,WOW,WOW,61,148125,False,0.6,0.99,6,-3.016,1,0.337,0.00116,0.52,0.124,0.192,127.954,4,trance
+1form6XxaJCcp9CoU3Qxos,Hilight Tribe,Love medicine & natural trance,Free tibet,42,359533,False,0.487,0.861,11,-7.899,1,0.0516,0.475,0.753,0.072,0.776,137.927,4,trance
+0eDI4488gNLeA7pssOZHOD,Armin van Buuren,Balance,Turn It Up,51,172173,False,0.582,0.953,5,-6.113,0,0.0567,0.00136,0.00197,0.324,0.12,138.025,4,trance
+4b6FjQyawYRV1qZHp8x8W7,Aly & Fila;Billy Gillies,FSOE - October 2022,Kings (FSOE750 Anthem),0,171428,False,0.37,0.993,1,-4.213,0,0.0753,0.000122,0.916,0.347,0.138,139.891,4,trance
+7mnKyGfRTHjZo9fYpb9WeX,Alexander Popov;Whiteout,Wake Your Mind Radio 444,Never Cry Again (WYM444),11,256467,False,0.569,0.915,10,-6.231,0,0.0422,0.000307,0.023,0.625,0.242,128.073,4,trance
+6numlOA4nPr8Hb6YwBpspl,Aly & Fila,FSOE - October 2022,Beyond The Lights,0,233142,False,0.447,0.972,6,-5.182,0,0.132,0.0265,0.902,0.289,0.0863,139.966,4,trance
+1fguCbTXxKtNOgz4bYDQzL,BT;Jody Wisternoff,Black Hole House Music 10-22,Laurel Canyon Night Drive - Jody Wisternoff Extended Breaking Sticks Remix,0,512424,False,0.655,0.755,8,-8.409,1,0.0422,0.0183,0.837,0.165,0.243,121.999,4,trance
+5iznkI4FXblSG31LN4hcun,Orjan Nilsen,Black Hole Trance Music 10-22,Ascend - Extended Mix,1,325214,False,0.585,0.986,9,-4.227,0,0.074,0.00127,0.141,0.352,0.312,132.989,4,trance
+2VpJeDfgFPZsaMsmf0GNnD,Rocco;Special D.;Andy Judge,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Generation of Love,0,140343,False,0.478,0.843,9,-4.068,0,0.0885,0.00316,0.00013,0.449,0.33,159.828,4,trance
+6BxSem6OQcmyQf4hDd81Rt,Dash Berlin,Oceans,Oceans,51,222072,False,0.49,0.861,11,-2.683,0,0.0445,0.0496,0.0,0.102,0.324,132.014,4,trance
+27YD36FUikKxbp3bKSiKGZ,Seven Lions;SLANDER;Dabin;Dylan Matthew,First Time (feat. Dylan Matthew),First Time (feat. Dylan Matthew),56,297782,False,0.422,0.677,11,-5.76,1,0.0365,0.251,3.55e-06,0.16,0.146,150.131,4,trance
+6P4htgfAujzQGcHiIv64vm,Bliss,My LSD Song,My LSD Song,37,452167,False,0.514,0.663,7,-5.684,1,0.0689,0.00637,0.642,0.343,0.178,145.011,4,trance
+2950OAvbXU95Qx85Yek02v,Mandragora;Groovaholik,La Españolita,Carousell - Original Mix,38,478772,False,0.693,0.698,5,-7.128,0,0.0487,0.0255,0.895,0.085,0.175,135.972,4,trance
+3SYO8wU4bEgIYt7AeGRIwG,Jody Wisternoff;James Grant,Nightwhisper,Nightwhisper,51,217000,False,0.674,0.894,1,-6.386,1,0.0341,0.0013,0.915,0.165,0.141,119.962,4,trance
+1v9ciHEQ38bWRa3EfTUiwZ,Henrique Camacho,50's,50's,33,259472,False,0.565,0.981,7,-3.877,1,0.281,0.00143,0.616,0.153,0.3,184.993,4,trance
+4vhCeAF7zOV0OaeVtMLNxw,Avalon;WAIO,Shiva,Shiva,35,399260,False,0.524,0.881,6,-6.703,0,0.0438,0.000115,0.53,0.143,0.242,145.006,4,trance
+6C9HiTTS0fNatgaxoDlS9X,Menumas;Raz,Peace Of Mind,Peace Of Mind,37,407382,False,0.498,0.73,1,-8.202,1,0.0626,0.0431,0.852,0.0689,0.195,108.626,3,trance
+6n2OgfyvY0MuwFphEywfgz,Electric Universe;Ace Ventura,Ancient Aum,Ancient Aum,49,480000,False,0.545,0.928,8,-5.377,1,0.0408,0.000205,0.798,0.738,0.244,141.988,4,trance
+3PwvV5JpEYwtKKRcV37JOV,Astrix;Vertical Mode,Seven Gates,Seven Gates,42,553714,False,0.645,0.911,7,-6.725,1,0.0509,0.00131,0.753,0.125,0.075,140.007,4,trance
+0OSAJEA0ekX6pr2nuiPzX7,iio;Nadia Ali,Poetica (feat. Nadia Ali),Rapture (feat.Nadia Ali),56,253586,False,0.661,0.855,8,-8.403,1,0.0377,0.0722,0.0185,0.199,0.601,123.943,4,trance
+1zYpqIQECxD2NNjqku04Qv,Pettra,Naked in the Desert,Sunset,33,370285,False,0.648,0.744,1,-6.72,0,0.0466,0.016,0.883,0.0712,0.0816,140.018,4,trance
+0Memc4WL8oO0xUnkXCsNnV,8th Sin;Mandragora,All The Things That We Wished,All The Things That We Wished - Original Mix,42,394782,False,0.713,0.649,2,-6.537,1,0.0642,0.0261,0.524,0.197,0.074,137.995,4,trance
+2AJL5Z7SjjilD8fAFWp8uo,Sajanka,The Goddess,The Goddess,26,435017,False,0.353,0.944,6,-5.798,0,0.0732,0.00591,0.803,0.0962,0.367,144.966,4,trance
+7hQvu9NBBRrSHg2U8PBFvl,Berg;Artic,The Godfather,The Godfather,37,315428,False,0.61,0.867,6,-6.246,0,0.0546,0.00162,0.875,0.1,0.219,140.005,4,trance
+4DkVMKiU48LNaLTiT0KPCc,Sajanka;Barsha,Global Tribes,Frozen,26,462004,False,0.544,0.824,5,-6.159,0,0.0444,0.00661,0.701,0.118,0.0671,144.968,4,trance
+4pBykn8eWxl3O9JvIHZXj4,Armin van Buuren;Vini Vici;Alok;Zafrir,United,United,50,217391,False,0.643,0.957,1,-5.026,1,0.0892,0.0565,0.841,0.0763,0.281,138.073,4,trance
+6AXnPkErD6bFWoQd0VZUrG,Skazi;Freedom Fighters;Moto Perpetuo;Blazy,Falafel (Moto Perpetuo & Blazy Remix),Falafel - Moto Perpetuo & Blazy Remix,33,383146,False,0.621,0.939,0,-5.995,1,0.112,0.000536,0.797,0.292,0.113,140.011,4,trance
+5v0TUGNaoQmU6LKrbLwvyc,Earthspace;Ital,Afterlife,Afterlife,38,384000,False,0.657,0.992,0,-5.723,1,0.0726,0.000108,0.846,0.737,0.149,145.0,4,trance
+7n57gzUf3DTutmdth8UwdV,Ajja,Tulpa,Bebopper,35,457432,False,0.629,0.89,6,-7.82,0,0.0564,0.000206,0.783,0.73,0.463,144.003,4,trance
+0gFQ0zR40UTHeRCg02cJMK,Astrix,He.art,Shamanic Tales,41,781623,False,0.401,0.857,6,-8.17,0,0.0553,0.0038,0.411,0.196,0.152,120.009,4,trance
+4et8IPRZc7pY3tND8NjSGy,Scorz,Because Of You / Orpheus,Because Of You,52,189697,False,0.622,0.937,1,-7.037,0,0.0392,0.00182,0.844,0.214,0.0888,124.004,4,trance
+3ZmFIbF32Mufdh8oVmLcwB,Sajanka,Time of India,Perfect Match,26,360008,False,0.729,0.914,10,-5.784,0,0.155,0.039,0.137,0.132,0.449,148.056,4,trance
+3dxDj8pDPlIHCIrUPXuCeG,Darude,Before the Storm,Sandstorm,65,225666,False,0.532,0.967,11,-7.977,0,0.0457,0.146,0.985,0.115,0.59,136.083,4,trance
+68p0qxKUrXRUYdLX6IghFk,Paul van Dyk;Chris Bekker;Jan Dzialek,Rhapsody,Rhapsody,50,198750,False,0.446,0.941,10,-6.566,0,0.0387,0.000377,0.924,0.233,0.0653,127.99,4,trance
+1CgbwsrNDlFrRuk2ebQ7zr,ATB,Movin' Melodies,9Pm (Till I Come),64,193880,False,0.672,0.941,9,-6.427,0,0.0494,0.0276,0.926,0.149,0.754,130.218,4,trance
+6yf6FF8BxqLqEr87RFY96m,Armin van Buuren;AVIRA;Chicane,Offshore,Offshore,52,199680,False,0.533,0.949,5,-5.978,0,0.0399,0.00111,0.903,0.129,0.353,125.008,4,trance
+6wEEFHBgJoauVJp5XpVwg5,Vegas (Brazil);Bizzare Contact;Vini Vici,Answer From The Stars (Vini Vici vs. Bizzare Contact Remix),Answer From The Stars - Vini Vici vs. Bizzare Contact Remix,46,236571,False,0.456,0.938,0,-5.055,1,0.0919,0.00134,0.646,0.0837,0.0651,140.027,4,trance
+5Zj7nQgikLMlf2Gc8ss0BE,Ferry Corsten;Haris,Hello World,Back To Paradise,46,195920,False,0.468,0.673,6,-5.428,0,0.0297,0.000353,0.0,0.274,0.221,127.932,4,trance
+0KU8W0lHfsNlH7lfV1dz29,Above & Beyond;anamē;Marty Longstaff,Gratitude,Gratitude,56,233619,False,0.521,0.927,10,-4.63,1,0.036,0.00307,0.0138,0.125,0.0429,128.05,4,trance
+4PH6mswadkm3Ue05uBohEa,Tiësto,Hotel Transylvania 3,Seavolution (From Hotel Transylvania 3),54,121600,False,0.533,0.94,5,-2.636,1,0.0643,0.00252,0.788,0.829,0.417,75.001,4,trance
+43LZO9z9DmI585kXj0TIBM,Vini Vici;Timmy Trumpet;Symphonic,100 (feat. Symphonic),100 (feat. Symphonic),48,207787,False,0.362,0.966,10,-4.731,0,0.154,0.0129,0.46,0.191,0.0374,137.645,4,trance
+5KteBzvgHmFUGpjJ8iN3XY,Sound Quelle,Trait,Hung,52,202250,False,0.743,0.837,11,-5.421,1,0.0629,0.00538,0.851,0.0919,0.189,119.976,4,trance
+1O0iUsIwFDt7GyqjOkAHa8,Escape The Day,Into Inception,Tsunami,26,243555,False,0.568,0.97,11,-5.633,0,0.12,0.00523,0.00014,0.341,0.23,135.076,4,trance
+7IBPhceLwEKHWKqc1MvVuK,Synergetic Emotion,Feeling,Feeling,42,239999,False,0.649,0.685,1,-6.996,1,0.0539,0.0521,0.792,0.133,0.138,140.017,4,trance
+1TnnEEqHYmQsVc8cemlxyl,Aura Vortex;Blazy,Ad Astra,Horizons - Interstellar,38,436363,False,0.57,0.585,9,-8.583,0,0.0387,0.0134,0.703,0.124,0.215,142.978,4,trance
+2miW2IBj50D7e1bniBXUqW,Bitkit;Spirit Architect,Moonshine,Tunnelvision - Spirit Architect Remix,28,481655,False,0.582,0.975,6,-4.907,0,0.0711,3.83e-05,0.798,0.101,0.0837,145.02,4,trance
+48HelMaBXoGa2UxE6nDlqX,Infected Mushroom,Vicious Delicious,Heavyweight,41,521013,False,0.599,0.605,4,-7.26,0,0.0317,0.0232,0.729,0.172,0.145,139.952,4,trance
+3P4lqTLBjHHIqszDF8xB8F,Talla 2XLC;Roland Klein,Nexus Point,Nexus Point,46,223767,False,0.374,0.96,4,-6.075,0,0.0499,7.42e-05,0.978,0.736,0.129,139.999,4,trance
+55Y4oE6oE6XBT2e71vK2yA,Armin van Buuren;Billen Ted;JC Stewart,Come Around Again,Come Around Again,64,169108,False,0.589,0.912,9,-3.878,0,0.0766,0.0366,0.0,0.0752,0.426,123.946,4,trance
+5s9cRHGtNwMEMiJ1bOEQ9r,Mad Tribe,Amazing Tales from Outer Space,Lsd Party (Kicking In) - Original Mix,36,516413,False,0.545,0.976,6,-5.454,1,0.0399,6.85e-05,0.705,0.127,0.382,144.99,4,trance
+033uNwmVzZvXm00CUPBnA0,Robert Miles;Maria Nayler;Robin Hancock,Dreamland,One & One (feat. Maria Nayler),54,239626,False,0.65,0.702,2,-9.085,0,0.0295,0.0534,0.00121,0.0496,0.775,120.057,4,trance
+7cuRgdYlesmnGmVaZwhkda,W&W,Rave After Rave,Rave After Rave,54,161953,False,0.639,0.907,6,-3.214,0,0.0837,0.00419,0.00535,0.366,0.468,128.054,4,trance
+6N7JorLgKsFEXD3doBDQKM,Estiva,Cruise Control 019,Cascada,0,278709,False,0.619,0.866,11,-7.483,0,0.0584,0.0253,0.941,0.0842,0.129,123.979,4,trance
+1CbQHLrNnIit9VPgCoZo3b,Talla 2XLC;Karl8;Andrea Monta,All The Dreams We Shared (Karl8 x Andrea Monta Rework),All The Dreams We Shared (Karl8 x Andrea Monta Rework),42,206612,False,0.542,0.714,3,-8.22,1,0.0512,0.292,0.281,0.127,0.246,123.818,4,trance
+6OHG0h7K7d4V2RnIZZx2hd,Omiki,Psy Trance Galaxy 2023 - The Awakening,Na Le - Coming Soon!!! Remix,0,202285,False,0.59,0.945,0,-5.223,1,0.0993,0.00226,0.593,0.184,0.225,139.985,4,trance
+1AN7oPX1SNgkNvBYhlduKZ,Omiki,Psy Trance Universe - Road to Goa,Na Le - Coming Soon!!! Remix,0,202285,False,0.59,0.945,0,-5.223,1,0.0993,0.00226,0.593,0.184,0.225,139.985,4,trance
+2bRzvuNVNrWiSvzIzLMMVY,Talamasca,Psychedelic Trance,Psychedelic Trance - Original Mix,40,461792,False,0.57,0.873,5,-7.614,0,0.0348,0.000809,0.715,0.0913,0.376,145.017,4,trance
+6R84ZlQF7gGkPB6o3GLZXB,Age Of Love;Charlotte de Witte;Enrico Sangiuliano,The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Charlotte de Witte & Enrico Sangiuliano Remix - Edit],The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix),58,489480,False,0.748,0.908,5,-8.319,0,0.0504,0.0588,0.894,0.0943,0.0576,130.004,4,trance
+77k3Gs132df3WuwwFSz9It,Solarstone;Stoneface & Terminal,Black Hole Trance Music 10-22,Mist on the Hill - Stoneface & Terminal Extended Mix,0,507167,False,0.544,0.961,1,-6.775,1,0.042,4.35e-05,0.772,0.0341,0.0386,135.002,4,trance
+0UxJMuoqFl3k9htjrxDfqG,Liquid Soul;Zyce;Solar Kid,Anjuna,Anjuna,51,494117,False,0.775,0.902,1,-7.896,1,0.0618,0.00307,0.899,0.078,0.101,136.011,4,trance
+3BHVLXvqAoIzsnC33u3YJT,Mandragora,Disc 1,Fake Acid,42,383375,False,0.609,0.443,1,-9.011,1,0.0443,0.1,0.626,0.148,0.127,132.999,4,trance
+1qXJtdNOWUC68Uha0ZOkkp,Special M;Marambá,Monster Breeze,Monster Breeze,35,284000,False,0.611,0.873,7,-5.899,1,0.103,0.00601,0.458,0.0806,0.0284,180.012,4,trance
+0mSmkjs0CVW1jQdz6xEFmU,Dzp;Zanon,Indica,Indica - Original Mix,35,377391,False,0.509,0.868,4,-7.003,0,0.0509,0.00102,0.641,0.343,0.144,103.509,3,trance
+2x1GoZKREbFkQJ8FUaz3Lc,Phaxe;Morten Granau,Lost,Lost,47,560242,False,0.745,0.726,6,-7.816,0,0.044,0.0706,0.868,0.0731,0.259,135.0,4,trance
+0LUpB6bqImcWEki20oFdBD,Mandragora;Belik Boom,Disc 1,No ID,38,199000,False,0.706,0.485,7,-9.807,1,0.0481,0.0419,0.897,0.591,0.275,135.046,4,trance
+3ZUGQQQdTteMWdPg2bvLsp,ATB;Topic;A7S;Tiësto,Your Love (9PM) [Tiësto Remix],Your Love (9PM) - Tiësto Remix,57,186531,False,0.689,0.914,7,-3.258,1,0.0421,0.00485,0.00134,0.179,0.465,128.013,4,trance
+4hkZMpR9ptEQLqlIorFPeN,Dead by April,Dead by April,Losing You,54,237866,False,0.272,0.903,2,-4.343,0,0.0961,0.0134,0.0,0.321,0.154,120.057,4,trance
+2B2vTMJ6vcsHAsbkcSWJRR,LTN;Ghostbeat,After Dark,After Dark,50,234000,False,0.61,0.827,5,-7.78,1,0.0341,0.00841,0.764,0.0719,0.267,120.014,4,trance
+4ZBPl8bv68teqVD2OFMFmy,Mandragora;Devochka,Aladin,Aladin - Original Mix,40,288750,False,0.785,0.542,2,-5.821,1,0.0526,0.0551,0.345,0.151,0.144,128.015,4,trance
+3KFei4ncqdevg1vZaAZgIL,Armin van Buuren;Nicky Romero;Ifimay,I Need You To Know,I Need You To Know,47,180000,False,0.44,0.739,1,-5.341,0,0.0494,0.0221,0.0,0.561,0.156,127.62,4,trance
+19XDJlw6WxC4XOKC1LGKid,Armin van Buuren;Laura V;Avicii,Drowning,Drowning - Avicii Remix,51,204321,False,0.533,0.849,11,-7.148,1,0.036,0.0365,0.00232,0.379,0.281,126.944,4,trance
+7cdA1Rzltz10frwA33DcQH,Estiva,Group Therapy 500 Live From Los Angeles - Deep Set,Rays,38,289459,False,0.678,0.791,10,-8.798,0,0.0396,0.0259,0.843,0.176,0.185,122.659,4,trance
+17Oc0A2SpLgg2HWSvGPvyH,Ghost Rider;Ranji;Stonefox,Lightning,Lightning - Ghost Rider & Ranji Remix,52,232608,False,0.733,0.669,4,-7.964,0,0.0524,0.166,0.0465,0.101,0.361,138.014,4,trance
+6IDkdabcsyZmLQDCMtp6An,Armin van Buuren;Vini Vici;Tribal Dance;Natalie Wamba Berry,Yama,Yama,49,196521,False,0.609,0.954,5,-5.506,1,0.171,0.0122,0.05,0.138,0.117,138.051,4,trance
+3NQ2JBHK5OAzblu8z5KUVj,Ferry Corsten;Morgan Page;Cara Melín,Wounded,Wounded,58,191718,False,0.702,0.731,10,-5.193,0,0.0556,0.0148,0.00022,0.249,0.541,125.034,4,trance
+1f8hDvNuRTUxUPh8Zgeo8C,Astrix;Hi Profile,Artcore (Hi Profile Remix),Artcore - Hi Profile Remix,41,451267,False,0.604,0.815,9,-6.541,0,0.0582,0.000882,0.86,0.303,0.0395,142.003,4,trance
+346EyByIOtfAgGjQg6CEEi,Capital Monkey;Klopfgeister,Tomorrow - Single,Tomorrow,39,452173,False,0.75,0.892,0,-7.801,1,0.138,0.00742,0.747,0.139,0.046,137.998,4,trance
+3LiU1IMIbzPR5MpOmo8HDt,Daxson;Numa,The Only Way,The Only Way,44,286222,False,0.463,0.9,3,-5.477,0,0.0811,0.014,0.00445,0.0958,0.0775,134.973,4,trance
+6IhHyxeOqS6LKgP2Lawj55,Seven Lions;Vancouver Sleep Clinic,Call On Me (feat. Vancouver Sleep Clinic),Call On Me (feat. Vancouver Sleep Clinic),55,293122,False,0.323,0.695,2,-5.507,1,0.0447,0.0794,0.0,0.122,0.105,145.738,4,trance
+4nM12eRb7k6pylJGGivAQp,Gareth Emery;Roddy Woomble,This Is Not The End,This Is Not The End,49,198547,False,0.488,0.895,3,-9.643,1,0.0348,0.00781,0.391,0.262,0.372,138.003,4,trance
+7KvKyP3l4lYjB0VVrOsEPr,Asia 2001;Goa Gil,Amnesia,Vertige - Goa Gil Burning Man Mix,32,550066,False,0.527,0.973,9,-9.568,1,0.0447,0.000975,0.719,0.367,0.182,146.027,4,trance
+5XkFtO7uMk7k0VmNT5wxUT,Above & Beyond;Zoë Johnston,Group Therapy 500 Live From Los Angeles - Deep Set,Peace Of Mind - Above & Beyond Deep Mix,38,340838,False,0.695,0.742,0,-9.339,1,0.0365,0.0189,0.159,0.0974,0.144,124.016,4,trance
+57Y9YzDxXB2sVlhvqK94sK,York;Kryder,On The Beach (Kryder Remix),On The Beach - Kryder Remix,54,173841,False,0.565,0.899,1,-6.016,1,0.0324,0.00576,0.795,0.162,0.111,123.988,4,trance
+2v5Us4Zi4EbZ2taztKbl1i,Talla 2XLC;Alexandra Badoi,Revive My Light,Revive My Light,41,243478,False,0.518,0.997,4,-4.191,0,0.0732,0.0148,0.0101,0.362,0.166,137.985,4,trance
+2Fn66Mos1yElxdJBadXgpO,Armin van Buuren,Computers Take Over The World,Computers Take Over The World,56,152250,False,0.775,0.832,1,-5.742,1,0.178,0.0064,0.0495,0.12,0.76,139.913,4,trance
+35je53nGcUJwuA0sF5lr9u,Above & Beyond;Zoë Johnston;Etherwood,10 Years of Group Therapy (Part 2),Giving It Out - Etherwood Remix,52,321379,False,0.335,0.777,1,-5.599,1,0.0431,0.00317,0.0721,0.108,0.0611,109.04,5,trance
+2Fs5fnxRdf7XsvgmlUAOwQ,Andrew Bayer;OLAN,Journey To ABGT500 pt.2,Under Pressure (ABGT499D3),38,336963,False,0.518,0.726,10,-9.088,1,0.046,0.0315,0.000257,0.255,0.113,118.034,4,trance
+6uT3CGGp5SmiZgS0DbpQBZ,Animato;Gaudium,A State Of Trance Episode 878 [Hosted by Cosmic Gate & Vini Vici],Heart Beat (ASOT 878),37,108000,False,0.484,0.937,7,-11.821,1,0.0458,0.00965,0.722,0.452,0.662,139.981,4,trance
+1bokCdLRWPmwH2vOclyHF2,Hel:sløwed;That Girl,In Silence,In Silence,52,199024,False,0.598,0.839,10,-5.613,0,0.0374,0.00572,0.9,0.334,0.0371,123.015,4,trance
+300s5Xx2mSihgeZwyPOSAN,Above & Beyond,Journey To ABGT500 pt.2,Waltz (ABGT499D3),35,271875,False,0.246,0.832,0,-9.194,1,0.0346,0.000883,0.924,0.1,0.0356,127.996,4,trance
+0vrubfVLTbMi3GQilZaiOq,Above & Beyond;Richard Bedford;Blastoyz,10 Years of Group Therapy (Part 2),Sun & Moon - Blastoyz Remix,37,211002,False,0.64,0.881,6,-3.029,0,0.0632,0.00472,0.116,0.325,0.147,138.04,4,trance
+53wwYV2Dx9d4mByCvmzbEa,Andrew Bayer,Journey To ABGT500 pt.2,Memories (ABGT499D3),31,300000,False,0.201,0.896,1,-6.664,0,0.0502,0.00106,0.00537,0.181,0.385,127.975,4,trance
+0bhZzQupRdX5fIDyHPTSfv,Tristan,Way Of Life,Talking In Technicolour - Dancefloor Deluxe Version,41,340079,False,0.613,0.837,2,-6.627,1,0.0395,5.06e-05,0.72,0.503,0.361,144.006,4,trance
+2lWSivBXPdJWVYr6nWnCVx,Above & Beyond;Zoë Johnston;Fehrplay,10 Years of Group Therapy (Part 2),You Got To Go - Fehrplay Remix,34,266596,False,0.578,0.857,0,-7.068,0,0.03,0.064,0.855,0.135,0.225,124.0,4,trance
+1wHxznFmAVR47Kv5C1DvU5,Durs;Blazy;Adrian Daniel,Psy Trance Galaxy 2023 - The Awakening,51 Ways - Deluxe Mix,0,302608,False,0.615,0.726,9,-10.2,1,0.0415,0.0534,0.00856,0.115,0.138,137.974,4,trance
+1hmfCUTmSfLWecxk8JDNRr,DRYM;GXD;Christina Novelli,Saving Grace,Saving Grace,48,219130,False,0.425,0.957,6,-5.718,1,0.0888,0.000366,0.0124,0.24,0.071,137.88,4,trance
+4UCdQ7bEg49S8P9rq5HVRO,Andrew Bayer,Journey To ABGT500 pt.2,The District (ABGT499D3),32,299536,False,0.567,0.855,1,-5.844,0,0.0857,0.000522,0.584,0.0813,0.151,128.112,4,trance
+42XXRSqhkkfKh9h1fm3AuA,ALPHA 9;Scorz;Tom Bailey,Journey To ABGT500 pt.2,Calling (ABGT499D3),36,243569,False,0.56,0.84,5,-7.984,0,0.0389,0.000907,0.133,0.152,0.127,126.24,4,trance
+4Ukfz6oCzkU5OlA7px1Ase,Andrew Bayer,Journey To ABGT500 pt.2,"If You Loop It, They Will Come (ABGT499D3)",33,320625,False,0.549,0.937,7,-7.872,1,0.0829,0.000274,0.919,0.129,0.301,128.034,4,trance
+3mM7JqDOcGQ23lts9b6uE6,Above & Beyond;Zoë Johnston;Nourey,Journey To ABGT500 pt.2,Only A Few Things (ABGT499D3) - Nourey Remix,38,291840,False,0.637,0.702,1,-11.412,1,0.0517,0.0177,0.816,0.354,0.2,124.961,4,trance
+6SF5PDHGvtO3ByeRTxLs0H,Above & Beyond;M.O.S.,10 Years of Group Therapy (Part 2),Prelude - M.O.S. Remix,30,285245,False,0.607,0.867,11,-7.272,0,0.0345,0.00141,0.907,0.117,0.14,121.99,4,trance
+0gxK4cfYe2xVX5ySfhYnbY,KVSH;Beowülf;Flakkë;Emy Perez,Treino 2022 - Músicas para Malhar,Me Gusta (feat. Emy Perez),35,183517,False,0.762,0.697,7,-5.465,1,0.0496,0.0362,0.00412,0.505,0.261,123.086,4,trance
+7hoE6tBvjppcNyVQEaLoKc,Jerome Isma-Ae,Wake Your Mind Radio 444,Smile When You Kill Me 2015 (Throwback) [WYM444],11,225415,False,0.667,0.839,6,-8.114,0,0.0391,0.00645,0.181,0.657,0.0389,127.992,4,trance
+14qgM5yGL5txxssgQqM5Bh,Above & Beyond;Richard Bedford,Journey To ABGT500 pt.2,Happiness Amplified (ABGT499D3) - Above & Beyond Club Mix,35,292500,False,0.564,0.693,1,-7.916,1,0.045,0.00263,0.0202,0.227,0.107,127.977,4,trance
+41VQsZP0pOHnWCPTfcp5r4,Andy Moor;GXD,Black Hole Trance Music 10-22,Resurrection - GXD Extended Remix,0,352027,False,0.473,0.947,11,-3.534,0,0.0374,0.000525,0.885,0.342,0.488,134.967,4,trance
+2snsWpChEAbMGjr9i9clEh,Fabio Fusco;Marc Deal,Psy Trance Culture 2023 - Spiritual Rebels of Goa,Freaks of the Night,0,294857,False,0.718,0.89,10,-6.232,0,0.414,0.00133,0.0478,0.889,0.348,137.99,4,trance
+5l4DU5tgUtLqFSxir6y0dp,Asking Alexandria;Within Temptation,Faded Out (feat. Within Temptation),Faded Out (feat. Within Temptation),65,185542,False,0.478,0.937,8,-4.775,1,0.0938,0.000151,0.0,0.198,0.526,74.966,4,trance
+4WVNd5cqkWusZSDqNiqjI6,Morten Granau,Psy Trance Universe - Road to Goa,Sandbox - Original Mix,0,347826,False,0.872,0.529,1,-5.656,1,0.253,0.197,0.0869,0.303,0.501,138.047,4,trance
+2gG1YLJfNnuPW8AYNUsaM4,The Browning,Release Your ANGER,Final Breath,0,217371,False,0.137,0.946,7,-4.628,1,0.0988,0.00243,0.00444,0.168,0.171,175.02,4,trance
+0cyAQoQXbdsGtZRcqW6NsC,Astrix;Loud,High on Mel,Genetic Lottery,44,493714,False,0.688,0.64,8,-9.879,1,0.0621,0.131,0.764,0.17,0.109,140.016,4,trance
+7FbAwfXjDH8bW9rhNARU2E,Ranji,Power of Acid - Single,Power of Acid,42,548436,False,0.602,0.906,7,-7.248,1,0.0546,0.00431,0.794,0.112,0.0399,140.015,4,trance
+569BGSWQapYD8Niuy67Cal,Seven Lions;Blastoyz;Fiora,After Dark (feat. Fiora),After Dark (feat. Fiora),48,229859,False,0.558,0.976,1,-3.906,0,0.125,0.00316,0.38,0.166,0.301,142.003,4,trance
+7mPc8ZB3HojopWd0EKQkLO,Omiki;Planet 6;Ankit Sharda,Krishna,Krishna (feat Ankit Sharda),33,401142,False,0.589,0.822,11,-7.405,1,0.0511,0.015,0.686,0.0895,0.584,140.0,4,trance
+4mA8VXKSpyfTZ66uuyQnw7,Ranji;Bingo Bango,The Road I'm On,The Road I'm On,51,260868,False,0.572,0.743,8,-7.129,0,0.0418,0.0349,0.61,0.109,0.183,103.477,3,trance
+4uMFOQrzjeGhTYgGw3zrF2,Mandragora,Simulation Of Your Dreams,Simulation Of Your Dreams,38,199121,False,0.74,0.8,5,-5.382,0,0.0265,0.164,0.135,0.118,0.376,127.971,4,trance
+20mtnOhS8JJCkrsI3Djbwn,Ajja,Tulpa,Bazinga,31,496567,False,0.689,0.884,7,-7.416,1,0.0556,7.08e-05,0.797,0.131,0.177,144.011,4,trance
+6yyjcaUe0zqxo2CV1Jv3ar,Above & Beyond;Marty Longstaff,Chains,Chains,51,217145,False,0.553,0.726,3,-7.536,0,0.0376,0.0377,0.000198,0.253,0.112,125.937,4,trance
+17pKBF6PSmtlRxIgdTAkVn,ATB;Morten Granau,Ecstasy (Morten Granau Remix),Ecstasy - Morten Granau Remix,51,350487,False,0.687,0.851,6,-7.485,0,0.0418,0.321,0.502,0.228,0.548,137.991,4,trance
+6xt95LFkU8fAQr3CK4lpC9,W&W,Caribbean Rave,Caribbean Rave,51,151781,False,0.603,0.903,4,-1.539,0,0.0709,0.0377,0.0,0.629,0.67,127.944,4,trance
+3SeowzTaXWE7YsIvltrFgE,Armin van Buuren;Shapov,Our Origin,Our Origin,52,211406,False,0.452,0.927,9,-6.496,0,0.033,0.00946,0.353,0.118,0.0372,131.984,4,trance
+0gDfkQYmyiq0eZFLof6hbh,Airbase,Escape,Escape - Radio Edit,52,194946,False,0.405,0.882,7,-8.774,1,0.0322,0.00037,0.961,0.1,0.0571,134.782,4,trance
+6iwnnTtJcKlpbq11OlnTvx,Scorz,That's Life,That's Life,50,200655,False,0.382,0.755,6,-7.679,0,0.0456,0.275,0.543,0.107,0.0502,122.004,4,trance
+1LhO3e7X53MxSuYjUQ5ROt,KhoMha,Oblique,Oblique,50,145039,False,0.656,0.932,7,-7.37,0,0.0462,0.0438,0.724,0.3,0.188,126.941,3,trance
+1lyFyZAYzbDNcGSA8MJyC9,Hyperflow,Magic Mushrooms,Magic Mushrooms,40,438843,False,0.599,0.857,3,-7.49,0,0.054,0.000433,0.628,0.214,0.264,139.985,4,trance
+13gzqa9L58ZszOIqON5ZZR,KhoMha,Earthshine,Earthshine,51,148613,False,0.532,0.88,9,-8.751,0,0.0369,0.0207,0.919,0.0847,0.12,128.014,4,trance
+2pW7OYEY2hmOMWZPtnUxyH,Armin van Buuren;Florentin;Jordan Grace,Echoes,Echoes,51,207360,False,0.597,0.828,2,-5.02,1,0.0681,0.0309,0.0,0.126,0.396,125.053,4,trance
+6Y6UGoBsciuvspTsJ4ZnLf,Unstable,Flow State,Flow State,31,404942,False,0.638,0.845,9,-8.076,0,0.0479,0.00779,0.639,0.692,0.422,140.004,4,trance
+26suEPhwmZwfCzxPFo0fQ4,KhoMha,Profundo,Lights Code,50,154777,False,0.751,0.859,0,-11.088,0,0.0493,0.0227,0.88,0.105,0.332,126.039,3,trance
+6XubRj327VPMQCUgJJpCub,W&W;The Lost Shepherds;Sonny Wilson,Sao Paulo,Sao Paulo,56,190312,False,0.67,0.957,9,-2.39,1,0.0695,0.00376,0.00469,0.27,0.176,127.973,4,trance
+12Dov40hSJdrgS5uHGKNP3,Blank & Jones;Boney M.,Relax Edition 9,Sunny - Summer Vibe Mix,53,259934,False,0.824,0.693,8,-7.354,1,0.0631,0.0382,0.291,0.095,0.521,113.995,4,trance
+6eLZm1ey3GOzDL0HjbKTAu,Killerwatts,Beyond The Edge Of Time,Fractals,34,374201,False,0.634,0.98,7,-5.576,1,0.0407,3.06e-05,0.802,0.124,0.206,145.986,4,trance
+2OfDYA3xkEQ2fILrBlknHD,Andrew Rayel;AIDYL,Feels Like Home,Feels Like Home,48,266492,False,0.521,0.814,8,-5.363,1,0.0419,0.00131,0.00881,0.121,0.0995,134.983,4,trance
+0nTwqduNW37UxBixthuQjX,Above & Beyond;Zoë Johnston;Nourey,10 Years of Group Therapy (Part 2),Only A Few Things - Nourey Remix,31,224640,False,0.623,0.609,1,-10.486,1,0.0455,0.163,0.837,0.441,0.211,124.982,4,trance
+7u7RMMynAINKO3iMS0s0pZ,Super8 & Tab;Nazzereene,Lightning,Lightning,50,234960,False,0.561,0.902,10,-5.203,0,0.0308,0.000412,0.0178,0.151,0.215,125.007,4,trance
+6Y6py4pHq2Toh3xEvBn233,Above & Beyond;Sunny Lax,10 Years of Group Therapy (Part 2),Sun In Your Eyes - Sunny Lax Remix,31,241363,False,0.566,0.835,7,-6.956,0,0.0396,0.00157,0.569,0.0666,0.235,132.014,4,trance
+72fRIQFj7gJHwjkNUGnCcm,Above & Beyond,Journey To ABGT500 pt.2,1001 (ABGT499D3),32,333750,False,0.639,0.773,6,-6.708,0,0.0501,0.000935,0.0516,0.137,0.068,128.013,4,trance
+1bD8JkjAYlzOuF7KAhls1R,Above & Beyond;Zoë Johnston,10 Years of Group Therapy (Part 2),Alchemy - i_o Remix,31,227076,False,0.649,0.867,2,-8.062,0,0.0453,0.00594,0.77,0.0838,0.16,129.98,4,trance
+4lFVJRzXwMf3GsNtu8uAUO,Avancada;Darius & Finlay,A State Of Trance Episode 830,Xplode (ASOT 830),64,87269,False,0.509,0.743,1,-11.588,0,0.028,0.000384,0.615,0.213,0.496,131.922,4,trance
+7KcioPZr1pfYTCVPH43QHi,Above & Beyond,Journey To ABGT500 pt.2,Another Angel (ABGT499D3),34,210000,False,0.253,0.837,11,-7.595,0,0.0731,0.00056,0.871,0.358,0.145,128.005,4,trance
+0RkLL6wLzJ9wATC8WR6aSY,Above & Beyond;Zoë Johnston;Fehrplay,10 Years of Group Therapy (Part 2),You Got To Go - Fehrplay Extended Mix,27,452903,False,0.633,0.797,0,-7.942,0,0.0339,0.0614,0.887,0.0668,0.355,123.999,4,trance
+1L53k5cul5FJRlQiPAH9Vk,Above & Beyond;Alex Vargas,Journey To ABGT500 pt.2,All Over The World (ABGT499D3) - Above & Beyond Club Mix,33,322500,False,0.534,0.822,0,-7.767,1,0.0451,0.00229,0.359,0.133,0.197,127.984,4,trance
+2zMVqPvaiazxp7q66PAeXl,Above & Beyond;Zoë Johnston;A.M.R,10 Years of Group Therapy (Part 2),Love Is Not Enough - A.M.R Remix,28,297699,False,0.391,0.745,1,-10.242,1,0.0477,0.0732,0.269,0.0776,0.042,118.953,4,trance
+1ltZgsLlfxgtNh5U74JPu3,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 9) [ABGT499D3],29,48695,False,0.66,0.917,7,-6.56,1,0.215,0.068,0.000216,0.683,0.74,138.065,3,trance
+6Cjc7BxVs0wdBJXuV5EDIM,Above & Beyond;Zoë Johnston;ALPHA 9,Journey To ABGT500 pt.2,My Own Hymn (ABGT499D3) - ALPHA 9 Remix,33,286875,False,0.487,0.849,0,-6.247,1,0.0739,0.00305,0.00704,0.43,0.108,128.009,4,trance
+0P9on3nShcAePryJ1uuotG,Above & Beyond;Sunny Lax,10 Years of Group Therapy (Part 2),Sun In Your Eyes - Sunny Lax Extended Mix,23,503575,False,0.478,0.848,7,-6.546,0,0.034,0.00182,0.692,0.73,0.0761,131.989,4,trance
+6ObaCfpCR75IgvTBsmclzL,Above & Beyond;Richard Bedford;Blastoyz,10 Years of Group Therapy (Part 2),Sun & Moon - Blastoyz Extended Mix,25,381002,False,0.59,0.913,6,-3.507,0,0.0632,0.00323,0.452,0.381,0.0729,138.037,4,trance
+6A7bkVeOt2d6cVpblYHRff,Above & Beyond;Richard Bedford;Blastoyz,Journey To ABGT500 pt.2,Sun & Moon (ABGT499D3) - Blastoyz Remix,31,276521,False,0.585,0.887,6,-5.221,0,0.0575,0.000719,0.232,0.423,0.17,138.0,4,trance
+0b5mVj4f96m0uSlT1seTy2,Above & Beyond;Richard Bedford;Maor Levi,10 Years of Group Therapy (Part 2),With Your Hope - Maor Levi Remix,29,187663,False,0.632,0.966,2,-4.005,0,0.0871,0.00168,0.0162,0.416,0.239,127.993,4,trance
+4kDfDIC0Vr1oaMzIQFB4oY,Above & Beyond;Richard Bedford;Nox Vahn,10 Years of Group Therapy (Part 2),On My Way To Heaven - Nox Vahn Remix,29,236502,False,0.543,0.812,11,-6.385,0,0.0524,4.97e-05,0.167,0.062,0.0975,124.973,4,trance
+3Z8Zq7xpZzeHwpw16Me9lQ,Above & Beyond;Zoë Johnston;A.M.R,10 Years of Group Therapy (Part 2),Love Is Not Enough - A.M.R Extended Mix,20,413486,False,0.637,0.643,10,-11.811,0,0.0497,0.0152,0.477,0.0548,0.153,118.99,4,trance
+05kCj9F8WPIzDg4O7tioj7,Above & Beyond;M.O.S.,10 Years of Group Therapy (Part 2),Prelude - M.O.S. Extended Mix,23,463616,False,0.686,0.73,11,-7.069,0,0.0438,0.00117,0.911,0.0204,0.341,122.0,4,trance
+36ejtd28NIUCbWY2sRnhfr,Deny,En las Noches,En las Noches,33,223714,False,0.489,0.992,11,-2.862,1,0.104,0.000489,0.000751,0.485,0.601,140.003,4,trance
+0fA91AADBhhpqq4NhEUGAL,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 6) [ABGT499D3],32,65625,False,0.538,0.742,10,-6.492,0,0.38,0.121,0.0,0.0886,0.813,125.558,3,trance
+0cxXQy8AkfPWeCaY9uTfNb,Above & Beyond;Richard Bedford;Nox Vahn,10 Years of Group Therapy (Part 2),On My Way To Heaven - Nox Vahn Extended Mix,21,394829,False,0.712,0.651,7,-7.421,1,0.0431,0.000134,0.468,0.161,0.136,125.0,4,trance
+6U3tkJFUsXzAQXf4MsyA8s,Above & Beyond;Zoë Johnston,10 Years of Group Therapy (Part 2),Alchemy - i_o Extended Mix,25,347076,False,0.745,0.773,7,-8.698,1,0.052,0.00689,0.803,0.132,0.0877,129.995,4,trance
+1fTS5Hq6xICq4VSG0AQsAg,Above & Beyond;Richard Bedford;Maor Levi,10 Years of Group Therapy (Part 2),With Your Hope - Maor Levi Extended Mix,22,364426,False,0.665,0.918,7,-4.483,0,0.102,0.00162,0.156,0.088,0.142,127.996,4,trance
+0Uf4ZiL2dBCSB0XcldN3vy,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 7) [ABGT499D3],31,37500,False,0.673,0.83,7,-6.315,1,0.216,0.0259,0.0,0.193,0.749,127.208,4,trance
+6doSMlKtyUKzoTtuHSRfac,Above & Beyond;Zoë Johnston;Nourey,10 Years of Group Therapy (Part 2),Only A Few Things - Nourey Extended Mix,23,414330,False,0.771,0.619,1,-10.464,1,0.0567,0.0385,0.886,0.633,0.39,125.002,4,trance
+79UzNKpci0X3L44t9vZIbD,Roger Shah;Adrina Thorpe;Yelow,Black Hole Trance Music 10-22,Skyline - Roger Shah & Yelow Extended Retouch,0,473043,False,0.529,0.987,7,-5.788,0,0.0457,0.0143,0.794,0.406,0.5,138.012,4,trance
+2rfHuw7fMHH2BioEMl5NHT,Menumas,Happiness,Happiness,34,441965,False,0.676,0.885,9,-8.482,0,0.1,0.0169,0.694,0.0909,0.0954,145.02,4,trance
+2isunnayB7fJUBhTLnbGYi,ANUQRAM,Group Therapy 500 Live From Los Angeles - Deep Set,Get On,36,377146,False,0.561,0.901,5,-9.347,1,0.0356,0.00189,0.906,0.0905,0.144,124.011,4,trance
+4kHAdiSNZO6kfd9t0OaKQv,Phaxe;Morten Granau,The Collective,The Collective,44,501304,False,0.84,0.723,7,-6.019,1,0.048,0.00799,0.79,0.129,0.198,136.991,4,trance
+46uNlWVK8dpozeWfM6C23U,KiLLATK;Spiral,HOPE,HOPE,25,372705,False,0.452,0.924,1,-7.096,0,0.0463,0.000119,0.809,0.0928,0.216,170.03,3,trance
+34HLm0LVMY1rYEUKQBZrVP,Omiki,Na Le,Na Le,40,320571,False,0.538,0.977,10,-5.511,0,0.138,0.00088,0.0792,0.112,0.0704,140.038,4,trance
+405hgdKApeaYy6xExaHLpc,KiLLATK,Solve et Coagula,Kwiz,24,318439,False,0.758,0.839,11,-5.477,0,0.174,1.89e-05,0.19,0.108,0.167,102.544,4,trance
+51jwJt0AOoHRerPrzv0NHy,Omiki;Melicia,Shivaya,Shivaya,37,286285,False,0.519,0.945,7,-5.289,1,0.0808,0.0392,0.288,0.217,0.136,140.017,4,trance
+3g36KmRGI8hmnCcTFak4Wn,Tiësto;Lucas & Steve,Oohla Oohla,Oohla Oohla,56,143280,False,0.694,0.856,10,-4.937,0,0.222,0.00198,0.000189,0.67,0.486,124.923,4,trance
+582JLMTy2WCHPgKFJ4xCq7,Nadia Ali;Starkillers;Alex Kenji;Alesso,Pressure (The Remixes),Pressure - Alesso Remix,53,368000,False,0.64,0.792,10,-4.875,0,0.0419,0.000538,0.604,0.0745,0.383,128.001,4,trance
+2p5Hto8KF3EBez3XtO3NFM,Freedom Fighters;Merkaba,Moonlight Purpose,Moonlight Purpose,36,510679,False,0.761,0.473,1,-13.048,1,0.0539,0.0431,0.871,0.0871,0.43,135.0,4,trance
+0FcBKpVcEsTUY5DChWAqFT,Blastoyz;Omiki,Bali,Bali,38,245294,False,0.563,0.957,0,-3.985,1,0.0558,0.00542,0.608,0.133,0.448,135.907,4,trance
+5hZz0GjweCU7v0u5VU6KlT,Tiësto;Don Diablo;Thomas Troelsen,Chemicals (feat. Thomas Troelsen),Chemicals (feat. Thomas Troelsen),53,222075,False,0.529,0.955,10,-2.59,0,0.0794,0.0344,4.55e-05,0.353,0.0893,125.988,4,trance
+2L7qzGqRIWrLw2YDdB6azz,Shpongle;The Lost Secret Door;Astrix;Loud,"Divine Moments of Truth (Astrix, Loud & The Lost Secret Door Remix)","Divine Moments of Truth - Astrix, Loud & The Lost Secret Door Remix",35,600410,False,0.454,0.766,10,-6.856,0,0.0564,0.0194,0.433,0.366,0.0386,140.008,4,trance
+57nKL06bKwjaM5Y0aMtY9v,Armin van Buuren;Sharon Den Adel,Armin Anthems Top 100 (Ultimate Singles Collected),In And Out Of Love,56,181680,False,0.526,0.705,5,-6.777,0,0.0301,0.067,6.4e-05,0.125,0.413,134.947,4,trance
+5qKmOUVLrqcD1w1OtCmHHl,Mandragora;Special M,Triple M,Honey Honey - Original Mix,36,211291,False,0.658,0.582,8,-9.431,1,0.057,0.0656,0.263,0.668,0.183,150.026,4,trance
+7wS1QmUNph8AQFeWj22ufC,Ghost Rider;Ranji;Major7,Vicious Game,Vicious Game,48,235071,False,0.834,0.652,3,-8.078,0,0.0572,0.0866,0.539,0.163,0.138,140.047,4,trance
+5OWWBPmbl5abcQlsCHieFK,Spencer Brown;Ben Böhmer,Phases,Phases,45,266730,False,0.702,0.659,9,-10.705,1,0.24,0.0742,0.849,0.191,0.118,124.019,4,trance
+1VHRlrPL530DVdOCjIOdtC,Mandragora,Disc 3,Happening Right Now,38,219477,False,0.745,0.485,1,-9.698,1,0.385,0.397,0.323,0.758,0.235,140.044,4,trance
+6zrkWFn28ep82mbAXsQn1k,W&W;Nicky Romero,Ups & Downs,Ups & Downs,48,182192,False,0.567,0.907,8,-3.154,1,0.0498,0.166,0.000619,0.102,0.242,130.048,4,trance
+0eet5AET9CQWWe334yK0W0,Mandragora;Jack In The Box,Disc 3,Church of Stones,27,357096,False,0.744,0.702,9,-7.788,1,0.0528,0.000837,0.918,0.103,0.0404,144.987,4,trance
+6c8dy6EKmAADEYX0CJNU2S,Mandragora;Special M,Triple M,Cosmic Calendar - Original Mix,36,398666,False,0.458,0.695,1,-8.53,1,0.0631,0.0815,0.612,0.0968,0.13,102.003,3,trance
+6OAk8W4ebDp8UgOj6IBClU,Oliver Smith,Be Alone,Be Alone,50,219615,False,0.567,0.967,11,-4.142,0,0.0475,0.0108,0.0228,0.314,0.177,125.0,4,trance
+3fW0qHrlcv8y0pc6SHo66V,Phaxe;Caroline Harrison;Neelix,Angels of Destruction (Neelix Remix),Angels of Destruction - Neelix Remix,52,478260,False,0.718,0.541,2,-9.262,1,0.0391,0.0143,0.476,0.148,0.0898,136.03,4,trance
+4N3bkmxFELN6Q4yTOImxhW,Vegas (Brazil),Tempoo,Tiempow,39,356571,False,0.65,0.755,2,-7.003,1,0.0455,0.0144,0.777,0.0992,0.0652,140.018,4,trance
+7gXJltd3E2qaoASGx6hCOE,Denis Kenzo;Sveta B.,Let Me Go,Let Me Go - Radio Edit,49,186923,False,0.487,0.937,10,-5.039,0,0.0645,0.0313,1.3e-05,0.101,0.0744,129.956,4,trance
+0w98WsIkBacOrDHGaPcdYt,Interactive Noise,Fking Bass Line,Fking Bass Line,33,356000,False,0.701,0.935,11,-7.839,0,0.196,0.0105,0.803,0.735,0.0382,140.002,4,trance
+466GjLMDKgG1yZbr4aGaXI,TERRA,Kundalini,Kundalini,32,463216,False,0.643,0.923,1,-6.447,1,0.0848,0.000639,0.44,0.183,0.0761,143.025,4,trance
+2spyaDFRS112FVYq9UZ6Xu,Dj T.H.;Mitraz,Chasing Stars,Chasing Stars - Extended Mix,21,354375,False,0.669,0.918,0,-3.301,0,0.047,0.000981,0.0261,0.521,0.37,129.984,4,trance
+7mY5rHx11vyazThG8xIBzO,Gareth Emery;Dani Poppitt,Friendly Fires,Friendly Fires,49,292026,False,0.539,0.747,11,-7.569,0,0.0306,0.00555,0.0139,0.247,0.167,130.011,4,trance
+1H1T6YC7ZE3cS2J1sAGMlG,Djantrix;Spirit Architect,Synthetic Memories,Synthetic Memories - Original Mix,29,436965,False,0.668,0.969,7,-5.025,1,0.0838,0.000267,0.84,0.619,0.11,145.013,4,trance
+2zpIU1OroZ3mUzrnYqoLBa,Cosmic Gate;Diana Miro,Hear Me Out,Hear Me Out,49,279555,False,0.524,0.894,9,-5.214,0,0.0378,0.00685,0.226,0.156,0.134,122.97,4,trance
+6imZUICpik2ZVecP0MO3aF,Durs;Jacob,All Gone,All Gone,42,229436,False,0.815,0.611,11,-6.137,0,0.0644,0.0515,0.274,0.338,0.299,141.997,4,trance
+49424i5Jhxfd2NYMcDqeqQ,Earthspace,Freaking Out,Freaking Out,36,417959,False,0.608,0.94,8,-7.715,0,0.0406,0.000218,0.732,0.471,0.356,146.996,4,trance
+0yAoLxOVvKF8F9Fl3HOQYw,Paipy,Nopturnia,Nopturnia,43,209142,False,0.453,0.995,1,-5.429,1,0.13,0.0127,0.964,0.118,0.184,140.02,4,trance
+70pCGxki9NjJTk9nzYu8Di,Above & Beyond;Zoë Johnston;Etherwood,Giving It Out (Etherwood Remix),Giving It Out - Etherwood Remix,41,321379,False,0.335,0.777,1,-5.599,1,0.0431,0.00317,0.0721,0.108,0.0611,109.04,5,trance
+6HdmuUpOb8dBBwwPCPktCW,Kathryn Gallagher,I'll Get the Coffee,I'll Get the Coffee,50,199537,False,0.805,0.533,9,-5.658,1,0.0362,0.0276,0.0578,0.203,0.547,132.979,4,trance
+61HB6vZxCpL9wuaxyZn7yh,XiJaro & Pitch,Party On,Party On,44,202339,False,0.439,0.99,10,-6.624,0,0.142,8.57e-05,0.93,0.211,0.072,140.002,4,trance
+0Tla25Sdpmhty2PGc0Ulcj,BT;Au5;Mangal Suvarnan;Aneesh Gera,The Light Is Always On (Aneesh Gera Remix),The Light Is Always On - Aneesh Gera Remix,20,279323,False,0.6,0.746,7,-7.697,1,0.0392,0.0972,0.0497,0.391,0.177,122.011,4,trance
+3YWRP8f5PKO4bJZipqAPXm,Killerwatts;Mandala (UK);Ingrained Instincts,Beyond The Edge Of Time,Edge of Time - Ingrained Instincts Remix,24,499726,False,0.641,0.949,9,-5.543,1,0.0385,1.22e-05,0.753,0.145,0.195,145.993,4,trance
+3nuO4pi4R1koRgvDl23ra4,Freakaholics,Pulpo Loco,Indian Trip,32,357517,False,0.704,0.766,1,-8.825,1,0.102,0.00675,0.748,0.376,0.475,145.044,4,trance
+15Gx9EfVLZ4lx5dzWEFair,Mat Zo;Eyes That Lie,Journey To ABGT500 pt.2,Hurricane (ABGT499D3),34,271600,False,0.536,0.812,1,-8.17,1,0.0455,0.000132,0.159,0.308,0.2,129.909,4,trance
+0fr7Nl49mFbf6nXXca6YwO,We Came As Romans,Cold Like War,Learning to Survive,62,269966,False,0.588,0.829,6,-6.196,1,0.0511,0.0181,0.000462,0.153,0.495,140.041,4,trance
+5U1g4OWjCCkZtWNreyuHtw,Dead by April,Incomparable (Mystery Version),Last Goodbye,50,197653,False,0.398,0.935,6,-4.443,1,0.0581,0.000775,0.0,0.113,0.425,180.051,4,trance
+6HnC8UJ9WqKUwx3dcha5Md,Mat Zo;OLAN;Fred Falke,Journey To ABGT500 pt.2,Colours (ABGT499D3) - Fred Falke Remix,38,202622,False,0.647,0.839,5,-6.864,0,0.0395,4.99e-05,0.499,0.202,0.191,122.04,4,trance
+6qKvPOJjG5ilpqbB6UH9hx,Karen Overton;ALPHA 9,Your Loving Arms (ALPHA 9 Remix),Your Loving Arms - ALPHA 9 Remix,49,274345,False,0.546,0.885,7,-4.3,1,0.0381,0.15,0.0202,0.212,0.161,126.022,4,trance
+3nfbj0fsvf5haKXxEiQ34n,Above & Beyond;PROFF;Igor Garanin,Group Therapy 500 Live From Los Angeles - Deep Set,Surge - PROFF & Igor Garanin Remix,39,417211,False,0.822,0.738,7,-8.538,0,0.053,0.129,0.929,0.0959,0.346,121.956,4,trance
+0DiTeEH38dwM9Vstp4R5dj,Mat Zo;Chuck D,Journey To ABGT500 pt.2,Pyramid Scheme (ABGT499D3),34,219375,False,0.626,0.834,10,-7.969,0,0.0581,0.000515,0.62,0.452,0.511,128.04,4,trance
+6ueUBDRT1yJuAyy4tPmC5v,Roman Messer;Cari,Silence,Silence,43,316739,False,0.485,0.983,9,-4.366,0,0.173,0.000252,0.0796,0.299,0.121,138.012,4,trance
+3ufj6x8nitVdtKBiZFx8VR,U96;Claude Oliver Rudolph,20.000 Meilen unter dem Meer,"Ich, Nemo",35,279240,False,0.498,0.825,5,-8.072,0,0.0534,0.0225,0.0238,0.187,0.141,129.999,4,trance
+2tD9wE7JCxSCQEoxFsR5nG,Steve Brian;RENÉE;Disfunktion,Tritonia 333,Sweet Little Lies (Tritonia 333) - Disfunktion Remix,54,175250,False,0.547,0.906,2,-4.127,1,0.0324,0.0117,0.202,0.29,0.295,125.966,4,trance
+5z0QLEpkbUh00SevSuYxOh,Shpongle,Are You Shpongled?,Divine Moments of Truth,42,620333,False,0.449,0.704,6,-8.83,1,0.0712,0.0194,0.614,0.319,0.273,90.822,3,trance
+4B3jhwZHmryt2OhsfXlk6Q,Menumas;All In One,Together Always,Together Always,37,429797,False,0.491,0.622,9,-7.937,0,0.0656,0.0371,0.776,0.116,0.231,144.992,4,trance
+34stxnAP0BkWdaseZTruM4,Ghost Rider,Everlasting,Everlasting,23,428260,False,0.705,0.954,6,-7.095,0,0.0412,0.00546,0.892,0.129,0.144,138.0,4,trance
+1dDDVfAfms7M6VLLKmubaJ,Above & Beyond;Seven Lions;Opposite the Other,See The End,See The End,50,185746,False,0.497,0.656,7,-6.716,1,0.0374,0.0141,0.0,0.0577,0.0884,127.975,4,trance
+2V1BrpHiHIJTtzBBvjWSTH,Cosmic Gate;Diana Miro,Nothing to Hide,Nothing to Hide,48,214634,False,0.557,0.723,9,-5.638,0,0.0501,0.00557,0.00133,0.151,0.158,122.998,4,trance
+3z4ojKmiVKXdsOxRUBuNSF,4i20;Claudinho Brasil;Mandragora;Devochka,Bach (Mandragora & Devochka Remix),Bach - Mandragora & Devochka Remix,44,339375,False,0.582,0.46,11,-7.086,0,0.0802,0.019,0.395,0.387,0.0829,127.995,4,trance
+5kCdc14ItHSF6N6rI7wGSX,Phaxe;Querox,Bloom,Bloom,44,331094,False,0.727,0.853,8,-7.185,0,0.0382,0.00298,0.895,0.578,0.194,136.997,4,trance
+6cYvyHoORDeHa35ZoyqeeY,Groundbass;Tijah;Perception,We Are Thoughts,We Are Thoughts,39,371664,False,0.652,0.927,7,-7.339,1,0.0428,0.00998,0.743,0.11,0.453,137.996,4,trance
+4kd8NJrrfzzPvarSre2yAu,Armin van Buuren;Jake Reese,Need You Now,Need You Now,49,181741,False,0.673,0.793,4,-5.265,0,0.0391,0.00542,4.1e-05,0.104,0.352,125.028,4,trance
+7KC9bnTvAbU3gJTBej0qP3,Sander van Doorn;Martin Garrix;DVBBS;Aleesia,Gold Skies (feat. Aleesia) [Radio Edit],Gold Skies (feat. Aleesia) - Radio Edit,40,235327,False,0.476,0.771,9,-5.846,0,0.0412,0.0294,0.0136,0.553,0.164,128.018,4,trance
+4muUXLYIrhCXtFsPogjIcn,Sander van Doorn;ONR,Temper Temper (feat. ONR),Temper Temper (feat. ONR),47,213571,False,0.639,0.788,11,-6.965,0,0.0545,0.0146,0.348,0.651,0.399,125.955,4,trance
+22y6H1UGawe4H9JWPEk5n8,Vermont (BR),Stars,Andromeda,37,358400,False,0.533,0.913,1,-5.97,0,0.0413,0.00554,0.628,0.444,0.12,150.005,4,trance
+2iU4ZlFm68vUQ5u3Xd4lN3,Jilax,Clouds,Clouds,42,500281,False,0.695,0.778,6,-5.572,0,0.06,0.0257,0.189,0.103,0.462,142.036,4,trance
+3aETCpK7MAIao4zRpKQ6QU,Henrique Camacho;Vibration,Ragga-Tech,Ragga-Tech,38,253347,False,0.631,0.867,10,-4.54,0,0.264,0.00479,0.297,0.656,0.352,180.051,4,trance
+0V6GWgubCBR8955ZWtJ4WR,Push;Joyhauser,Choir Of Spirits,Choir Of Spirits,56,405439,False,0.62,0.701,1,-9.663,1,0.0445,0.000809,0.865,0.119,0.187,134.999,4,trance
+2U67EmIoFt4YGBuJHJ6lmE,Shpongle;Astrix,Codex VI,Strange Planet,40,535653,False,0.665,0.54,2,-14.452,1,0.0398,0.0541,0.846,0.11,0.034,110.005,4,trance
+27aJsdHeQcIfkB0M6JVcnx,KiLLATK,Ultradynamics,Bizarro,23,344727,False,0.598,0.957,7,-4.875,1,0.0728,0.000261,0.689,0.231,0.199,164.967,4,trance
+1OC4YqoHPj2yVAudBkzH7F,Mandragora,You Feel Like Shanti,You Feel Like Shanti - Original Mix,34,261176,False,0.452,0.727,0,-8.136,1,0.0729,0.00186,0.8,0.106,0.0554,135.964,4,trance
+61AjJVPp7cZ4Llwi6TPQ99,Jacob;Mandragora,Blooming,Perfect Drug,39,473430,False,0.525,0.706,5,-6.985,0,0.0665,0.0224,0.249,0.297,0.231,136.014,4,trance
+4MLKuT1DWWFsLfqoCOZzNg,Tiësto;220 KID,The Business (220 KID Remix),The Business - 220 KID Remix,48,199024,False,0.677,0.743,8,-7.843,0,0.0403,0.234,0.0296,0.043,0.538,123.021,4,trance
+72XFpEC85OwkVTXc2U37Gp,Berg,Ultimate Energy,Ultimate Energy,29,372173,False,0.696,0.649,6,-7.51,0,0.0688,0.0124,0.532,0.174,0.276,138.052,4,trance
+7325Hia21fgJf2aOIuhqCu,Tristan;Raja Ram,Turn On!,Turn On!,36,312714,False,0.66,0.969,7,-6.003,1,0.0928,0.000111,0.697,0.144,0.316,145.0,4,trance
+2AG8rOY3Gzd2pL1kBpluGt,Armin van Buuren;Vini Vici;Alok;Zafrir,United,United,49,217391,False,0.643,0.957,1,-5.026,1,0.0892,0.0565,0.841,0.0763,0.281,138.073,4,trance
+6B6jWtgW9ZCocu0alFox1m,Fatum,Kenshō,Kenshō,49,220161,False,0.573,0.894,1,-8.824,1,0.0385,0.00634,0.847,0.12,0.0402,124.019,4,trance
+6D9pncRlZZoq4oc1tzAC1y,Andrew Rayel,Silver Lining,Silver Lining,50,177745,False,0.633,0.844,5,-3.815,0,0.0461,0.0451,0.0,0.097,0.637,125.032,4,trance
+38QPhgJozKkMtKJItgxP6C,Blazy,Nicotine,Nicotine,48,224761,False,0.64,0.582,7,-7.528,1,0.0423,0.0024,0.624,0.466,0.403,126.039,4,trance
+4Xg3MxCFNAVJSguYX2XpLv,Armin van Buuren,Soundscape,Soundscape,49,146718,False,0.663,0.912,1,-4.204,0,0.05,0.0066,0.014,0.312,0.395,128.06,4,trance
+6bolfjXj78EIQRB48C6QTc,Tiësto;Stargate;Aloe Blacc,Carry You Home (feat. StarGate & Aloe Blacc),Carry You Home (feat. StarGate & Aloe Blacc),53,192731,False,0.518,0.724,8,-6.327,1,0.0839,0.0308,0.0,0.116,0.334,121.884,4,trance
+2ItO4ZVCtwEHuLL6ygajGM,W&W;Blasterjaxx,Let The Music Take Control,Let The Music Take Control,49,156449,False,0.388,0.971,6,-2.274,0,0.149,0.00143,0.091,0.433,0.175,194.956,3,trance
+4ztHw0kosQU4WymQf7SItU,Yoel Lewis,Dubai,Dubai,48,178593,False,0.466,0.898,10,-7.064,0,0.0377,0.0229,0.914,0.436,0.41,127.993,4,trance
+4Zsc1z2p4T9umEQhMv6OYF,GMS;Ajja;Pixel,Gms and Amigos II,What Makes a Man,36,468000,False,0.62,0.905,7,-7.036,1,0.0463,0.00103,0.763,0.104,0.114,144.985,4,trance
+33qlBuVjeSlvQ4KNzvG9ai,Tiësto;Mabel;Toby Green,God Is A Dancer (Remixes),God Is A Dancer - Toby Green Remix,43,163548,False,0.526,0.825,1,-8.968,0,0.0772,6.08e-05,0.29,0.154,0.0396,123.97,4,trance
+3reyHrjQqNBv35CBKKfX2s,Vini Vici;Diego Miranda;Chimo Bayo,Esta Si,Esta Si,51,155217,False,0.732,0.966,7,-5.769,1,0.16,0.0242,0.108,0.268,0.0941,138.051,4,trance
+3iMR9x7qT6yNdiyF1i1ra0,Dj T.H.;Gid Sedgwick,Devil's Deal,Devil's Deal,42,214925,False,0.594,0.919,11,-3.891,0,0.0761,0.0169,0.0187,0.392,0.109,133.965,4,trance
+7IiqF2tYiixnpBcFjkocjA,Asking Alexandria,From Death To Destiny,Moving On,58,242593,False,0.446,0.761,3,-4.141,0,0.032,0.000569,0.0,0.182,0.336,134.971,4,trance
+5VNcKdmfAAsfbxbuo1Y7Vl,Armin van Buuren;Duncan Laurence,Feel Something (feat. Duncan Laurence),Feel Something (feat. Duncan Laurence),49,155467,False,0.687,0.645,0,-4.745,1,0.127,0.0688,0.0,0.114,0.732,93.76,4,trance
+1uIBzJWcxbUSMX4OFi7XwQ,W&W;Harris & Ford;Special D.,Come With Me,Come With Me,65,161589,False,0.676,0.989,8,-2.731,1,0.13,0.0442,0.0022,0.311,0.553,145.019,4,trance
+70fRSxiHIPSL5xAk1PWGqX,Beatsole,Trance Top 1000 (Mini Mix 009) - Armada Music,Before I Wake (Mixed),53,87024,False,0.439,0.989,5,-4.148,0,0.159,0.00251,0.823,0.338,0.0393,133.132,4,trance
+3ctHq3dW1l745lpETPyWe2,Electric Universe,Cosmic Experience,The Prayer,36,529240,False,0.592,0.876,3,-9.258,0,0.0326,0.00118,0.783,0.116,0.237,145.004,4,trance
+3acDFtOzGJXpXbYNUHxuog,Deny,Aire,Aire,32,225581,False,0.473,0.946,11,-3.434,0,0.0779,0.00181,0.0,0.112,0.653,110.057,4,trance
+4x0yoDODvzz1P6Ii0LCZLO,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 2) [ABGT499D3],36,51147,False,0.648,0.793,1,-6.144,1,0.334,0.0146,0.0,0.502,0.711,120.914,5,trance
+5INy3j14sCyFLzxcUveX9s,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 3) [ABGT499D3],36,67741,False,0.715,0.834,7,-6.12,1,0.4,0.0391,0.0,0.588,0.726,114.323,5,trance
+090LRdcD8Tzjmu0VTyvjqr,Shogun;Neo Tokyo,ASOT 1079 - A State Of Trance Episode 1079,Gasoline (ASOT 1079),52,109070,False,0.443,0.942,6,-8.496,1,0.0484,0.000472,0.79,0.146,0.536,132.054,4,trance
+7vcbohXLkdTXK61AiemEX1,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 8) [ABGT499D3],30,69540,False,0.624,0.878,11,-6.408,0,0.314,0.112,0.0,0.119,0.683,131.105,5,trance
+5EUkwA51dK3nEkvGgQ1dfs,RAM;Darren Porter;XiJaro & Pitch,Black Hole Trance Music 10-22,The Calling - XiJaro & Pitch Extended Remix,3,387482,False,0.518,0.999,7,-3.879,1,0.171,0.000157,0.88,0.32,0.0475,139.977,4,trance
+1gSP99RzH5yZ2FKZXwpMKs,Ace Ventura;Vertical Mode;Ticon,Set: 38,Deep Breath - Ticon remix,5,511285,False,0.714,0.921,1,-6.974,1,0.0602,0.000705,0.71,0.669,0.111,139.998,4,trance
+6lVi71kr3GYn4abKfkHSPw,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 4) [ABGT499D3],35,68571,False,0.581,0.813,7,-6.449,1,0.378,0.133,0.0,0.191,0.586,130.887,1,trance
+6Gzbcdyv1z4aPAPRbLnxcx,Above & Beyond,Journey To ABGT500 pt.2,Group Therapy (Messages Pt. 5) [ABGT499D3],33,37500,False,0.686,0.881,1,-5.616,1,0.323,0.0321,0.0,0.327,0.73,127.909,3,trance
+5yXrusTgMYIpM16juW43ZG,Ace Ventura;Liquid Soul;Gabriel Le Mar,Set: 38,Neurochemistry - Gabriel Le Mar remix,2,430833,False,0.641,0.833,7,-11.106,1,0.0491,0.0174,0.789,0.547,0.233,108.0,4,trance
+3AKmFnBp3y1MxubtuXOkA0,Klubbheads,Ultimate NRG - Best of 1996-2016 (Mixed by Alex K),Kickin' Hard,33,417632,False,0.699,0.955,11,-10.148,0,0.071,0.00128,0.00369,0.0392,0.569,140.108,4,trance
+4oaOiFsrOQFqRnIU3hg3cM,Seven Lions;Myon;Shane 54;Tove Lo,Worlds Apart,Strangers,49,204120,False,0.577,0.706,0,-7.421,0,0.0404,0.0147,2.56e-06,0.128,0.458,129.974,4,trance
+6qCfyMpiQzPf2AiJlTu5Fu,Ranji,Lights On,Lights On,42,469714,False,0.894,0.67,7,-6.183,1,0.0986,0.00622,0.372,0.097,0.353,140.023,4,trance
+6ulV6BN8zJe3t9JyvaEAsT,W&W,The One,The One,50,148738,False,0.614,0.922,2,-3.257,1,0.23,0.169,0.00664,0.197,0.615,126.025,4,trance
+2BqABA2hfI6cNOqogEDnwO,Tiësto;KSHMR;Talay Riley,Harder (feat. Talay Riley),Harder (feat. Talay Riley),49,193751,False,0.606,0.806,7,-3.755,0,0.0589,0.232,2.46e-05,0.457,0.294,126.039,4,trance
+6RrUUleT9JI0KQHZYBdJMB,Armin van Buuren;Josh Cumbee,Sunny Days,Sunny Days,53,210125,False,0.631,0.71,7,-7.09,1,0.031,0.00919,0.00577,0.139,0.243,115.007,4,trance
+1zTz6vRaCzwVuwRsK7s2Hu,Vini Vici,Future Classics,Veni Vidi Vici,39,468175,False,0.695,0.866,2,-7.534,1,0.143,0.00217,0.844,0.111,0.0383,137.018,4,trance
+12tw0TYIJMf1bowLBYWqTp,Dead by April,Worlds Collide,Perfect The Way You Are,47,224800,False,0.435,0.849,11,-4.007,1,0.0434,0.0103,0.00864,0.329,0.257,134.913,4,trance
+7767ZS9IfGEfqt07atU64n,Astrix,He.art,He.art,39,481739,False,0.385,0.938,7,-7.859,1,0.0434,0.00308,0.76,0.0853,0.0353,103.52,1,trance
+1YXUD5D1ZRSaKZRZME4UB5,Gareth Emery;Annabel,You'll Be OK,You'll Be OK,52,209937,False,0.498,0.494,0,-12.42,1,0.0343,0.0118,0.00108,0.166,0.12,134.983,4,trance
+0dRdMPNSXkevcUyzIiQiE6,E-Mov;Quantum;Keren Porat Snapir,Takitadhina,Takitadhina,35,406666,False,0.636,0.9,1,-6.808,1,0.0393,0.00428,0.819,0.328,0.376,143.992,4,trance
+6zfyJTgFvo54oLVJjS3jNa,Infected Mushroom;Bad Computer,Walking on the Moon (Bad Computer Remix),Walking on the Moon - Bad Computer Remix,51,189230,False,0.72,0.85,8,-4.764,1,0.107,0.0528,0.0863,0.0899,0.825,130.004,4,trance
+0V73UMwqrQTpFj4KCHAZWt,Dash Berlin;Luca Perra,Without The Sun,Without The Sun - Club Mix,46,134047,False,0.513,0.916,5,-1.634,0,0.0509,0.247,0.0,0.0816,0.528,126.053,4,trance
+7yfnNGWg10OgBjpGx1G2M7,Tritonal;Last Heroes;Lizzy Land,Safe & Sound,Safe & Sound,44,208800,False,0.488,0.719,10,-6.269,1,0.0317,0.0445,0.000184,0.0983,0.142,100.012,4,trance
+2s4AbiaTKGrKldnICBxaWW,Dead by April,Dead by April,Promise Me,48,214493,False,0.408,0.939,11,-4.993,1,0.0531,0.000141,0.0,0.143,0.432,174.967,4,trance
+65GjGEAs6RfC0PeYUyBTS5,Skazi;Blastoyz,Heart on the Tree,Heart On The Tree,44,179130,False,0.628,0.902,10,-4.96,0,0.0485,0.0125,0.000783,0.405,0.354,138.016,4,trance
+2CLF6goFaTYQBUlRC0JZgR,Husman,Desire,Desire,55,156923,False,0.565,0.928,3,-3.16,0,0.0576,0.0243,0.81,0.136,0.138,129.944,4,trance
+1x267jJXWKQZcnS7copUE0,Dj T.H.;Mitraz,Chasing Stars,Chasing Stars - Dub Version,19,354375,False,0.703,0.938,0,-3.47,0,0.0485,0.000829,0.124,0.596,0.312,129.977,4,trance
+2fQYA6cFN4ClfI4OmtpC98,Tiësto;Jonas Blue;Rita Ora;Benny Benassi;BB Team,Ritual (Remixes),Ritual - Benny Benassi & BB Team Remix,53,185765,False,0.721,0.783,1,-5.174,1,0.0595,0.0133,2.58e-06,0.155,0.291,122.997,4,trance
+0qPomrBI5l7I7txysyfQut,WHITENO1SE;No Comment;Richie Loop,Faya,Faya,38,420000,False,0.625,0.903,2,-4.776,1,0.0955,0.0013,0.161,0.111,0.0456,140.035,4,trance
+4qrzgVfjMTVFUcPZRcuyYc,1200 Micrograms,Juice EP,Shiva's India - Outsiders Remix,32,489931,False,0.518,0.931,2,-6.442,1,0.0387,0.000632,0.792,0.42,0.219,145.0,4,trance
+2pqtiIAAmYoGVso0i1KlZL,Hilight Tribe,The Best of Hilight Tribe,Shankara,21,399920,False,0.633,0.887,2,-5.568,1,0.0338,0.000227,0.58,0.154,0.73,144.99,4,trance
+3GYH6TqF2fIihKps1Sedxc,Armin van Buuren;AVIRA,Sirius,Sirius,48,226976,False,0.406,0.991,7,-4.221,1,0.0505,0.00422,0.84,0.12,0.219,122.528,4,trance
+3OmhzPRlGZIFrNlGWPU6jS,Berg;Skazi,Aurora,Power of God,25,397681,False,0.615,0.736,7,-7.635,1,0.0604,0.0155,0.724,0.0978,0.0772,139.999,4,trance
+1JE8jVRbEMG8ANRnc5of4f,Dash Berlin;Rigby,We Are (Part 1),Earth Meets Water,54,189433,False,0.461,0.736,2,-2.379,1,0.0338,0.024,0.0,0.163,0.212,127.957,4,trance
+1he0nibCzlDvB96EoJbbIZ,Sander van Doorn;Blondfire,Golden (feat. Blondfire),Golden (feat. Blondfire),49,209016,False,0.605,0.772,6,-5.971,1,0.0657,0.0687,0.0227,0.151,0.61,121.994,4,trance
+6RIdyxpj3X8cDfHCHTvPgy,Hyperflow,Namah Shiva,Namah Shiva,30,432214,False,0.683,0.758,2,-5.135,1,0.047,0.00821,0.846,0.23,0.0398,140.011,4,trance
+2HB0RLSCaKALpRHFw7PcOy,Dead by April,Me,Me,54,201938,True,0.601,0.767,11,-6.374,0,0.0316,0.000231,0.953,0.388,0.486,113.519,4,trance
+5JZ8RfDr77rUuaqmggMwx0,Rodg,Fate,9th Ave,52,202031,False,0.623,0.8,10,-5.532,1,0.0373,0.0903,0.859,0.122,0.367,128.026,4,trance
+1KtasGfNyxrf9xmANm8lYs,W&W;Martin Jensen;Linnea Schossow,Greece 2021,Greece 2021,51,204375,False,0.355,0.99,1,-3.327,0,0.183,0.00507,0.356,0.0896,0.184,127.148,4,trance
+6VHBZt8T7ZdlUt3MkOZqPy,Infected Mushroom,Head of NASA and the 2 Amish Boys,Guitarmass,50,398896,False,0.504,0.606,4,-7.078,0,0.086,0.00469,0.848,0.17,0.111,144.979,4,trance
+1C7dZ88uvixW5qQpK1RFBS,W&W;Blasterjaxx,Dynamite (Bigroom Nation),Dynamite (Bigroom Nation),53,170000,False,0.527,0.947,11,-3.654,0,0.0807,0.0246,0.00103,0.145,0.182,131.821,4,trance
+0wYVNC09iLBVIqHB07Hckt,ATB,No Silence,Ecstasy,54,261093,False,0.658,0.878,8,-6.834,0,0.0346,0.135,0.591,0.0948,0.907,130.009,4,trance
+0mszeXZFLWHTS6a4UoJ8rn,Allen Watts;Yoshi & Razner,Bohemia,Bohemia,42,214263,False,0.41,0.969,1,-5.853,1,0.0814,0.000723,0.978,0.697,0.237,139.991,4,trance
+5DOL2R736GPvEL6yE05n4R,Armin van Buuren;Vini Vici;Hilight Tribe;Wildstylez,Great Spirit (Wildstylez Remix),Great Spirit - Wildstylez Remix,52,236000,False,0.276,0.942,11,-5.882,0,0.172,0.00351,0.0511,0.454,0.0509,149.982,4,trance
+22T6UPu3Ynx2Nk3e1GNtyg,Major7,Toxic Generation's Music,Sequence - Original Mix,40,394285,False,0.622,0.782,2,-5.898,1,0.171,0.00233,0.521,0.0922,0.0295,140.018,4,trance
+4TRIU5zQl9EwTi94K5E54R,Dezza;Dan Soleil,"44° North, 63° West",My Breath,50,181000,False,0.699,0.771,7,-5.405,1,0.0299,0.0173,0.0168,0.318,0.366,123.991,4,trance
+7cEkyAXkwXCxTR3IKE0XHu,Robert Miles,Dreamland,Children - Dream Version,48,426626,False,0.596,0.814,0,-10.054,1,0.03,0.00129,0.776,0.467,0.177,137.052,4,trance
+6BEZw2d7m5ygLItc1HexzV,Digicult,The Lucid Nation,Microcosmos - Original Mix,32,438891,False,0.55,0.953,8,-5.126,1,0.0384,0.000417,0.767,0.122,0.188,144.992,4,trance
+1KGNzb5XDbFOJCOhQjnDJy,Ashley Wallbridge;John Weber;Bodine,Flashing Lights,Flashing Lights,48,203567,False,0.244,0.899,7,-4.386,0,0.0531,0.00258,0.000341,0.114,0.0539,129.981,4,trance
+4co3il6gimSyfEgN9MV4cl,Above & Beyond;Richard Bedford;Blastoyz,Sun & Moon (Blastoyz Remix),Sun & Moon - Blastoyz Remix,51,211002,False,0.64,0.881,6,-3.029,0,0.0632,0.00472,0.116,0.325,0.147,138.04,4,trance
+6QoVPPIRdkiNCVcCUJOzbI,Kasper Koman,The Observer,The Observer,53,492899,False,0.804,0.962,7,-8.818,1,0.0522,7.48e-05,0.864,0.0467,0.576,120.998,4,trance
+1890XyLaHj9kjYEyOstCVp,Ben Gold,Rest Of Our Lives,Rest Of Our Lives,47,240897,False,0.463,0.972,5,-5.275,1,0.0574,0.00379,0.000725,0.184,0.161,135.003,4,trance
+4b8hEyG9qldX3Z3MyLK5d6,Armin van Buuren;Conrad Sewell,Armada Invites Radio 194,"Sex, Love & Water (AIR194)",31,206394,False,0.833,0.685,9,-5.109,1,0.115,0.22,2.42e-05,0.125,0.514,109.029,4,trance
+2OtsKyrXfB88EFUCKFXTP1,Armin van Buuren,Trance Top 1000 (Mini Mix 009) - Armada Music,Blah Blah Blah (Mixed),40,76137,False,0.569,0.993,1,-4.287,1,0.115,0.00014,0.0184,0.333,0.0498,136.479,4,trance
+06YwUN3ytQn10H19x9cSPj,Mad Tribe,Amazing Tales from Outer Space,Joint O'clock - Original Mix,34,460273,False,0.611,0.934,7,-6.634,1,0.0535,0.000104,0.537,0.268,0.248,145.999,4,trance
+1MQkhomMlwsYigfmswbEbx,Gareth Emery,Laserface 01 (Aperture),Laserface 01 (Aperture),53,153444,False,0.553,0.825,9,-7.068,0,0.0382,0.0133,0.894,0.159,0.215,135.998,4,trance
+4aflTgaweUtE9ucnOxmLIJ,RAM;Darren Porter;XiJaro & Pitch,The Calling (XiJaro & Pitch Remix),The Calling - XiJaro & Pitch Remix,40,231535,False,0.461,0.998,8,-3.555,1,0.259,0.000116,0.912,0.512,0.0516,140.016,4,trance
+0P2sfcfRD0lWw4b8eXegmR,Cosmic Gate,Exploration of Space,Exploration of Space,56,216360,False,0.631,0.912,9,-7.591,0,0.0362,0.0346,0.539,0.0729,0.329,138.043,4,trance
+0NVcz0wpaCkx3dAnUjdLDX,Deny,Invencible,Toulouse,31,250147,False,0.322,0.932,0,-2.647,1,0.05,0.000153,0.103,0.347,0.426,74.936,4,trance
+0NriRqnZ4n9TTxzQMFzKJ3,Daxson;Nation Of One,Black Hole Trance Music 10-22,Now or Never - Extended Mix,0,454883,False,0.579,0.891,7,-6.738,0,0.0385,0.000168,0.556,0.646,0.198,132.001,4,trance
+2xr79hSXgDHGgJMaHQktdQ,Henrique Camacho;Pyrokine,Baiana,Baiana,3,317082,False,0.668,0.939,10,-4.764,0,0.0698,0.000442,0.655,0.516,0.308,94.987,4,trance
+2pnYwQEvz3eNMzASjdwXY5,Menumas,Love Story,Love Story,23,423758,False,0.646,0.871,8,-7.572,1,0.177,0.08,0.32,0.125,0.16,144.859,4,trance
+1JTDSEyewEX9CTEcZnOcRX,Dzp,Bhangra - Single,Bhangra,34,333913,False,0.46,0.8,1,-7.835,1,0.061,0.0163,0.412,0.105,0.111,103.5,3,trance
+1GQDiMcvhXlnz9G90n9q6h,Vermont (BR);Pondora,Revival,Revival - Original Mix,35,354857,False,0.518,0.866,7,-6.549,1,0.0823,0.0203,0.737,0.595,0.149,104.93,3,trance
+3mnN2XjyF7awsMYS4IMFmF,Groundbass;HACOON;Synthatic,Davadeva,Davadeva,34,356571,False,0.68,0.959,10,-3.852,0,0.164,0.00205,0.853,0.105,0.0391,140.029,4,trance
+5MuWGLrqeqYEcpqWMq5M1w,Asking Alexandria,The Black,I Won't Give In,60,229600,False,0.428,0.914,2,-3.017,1,0.0762,0.00594,0.0,0.309,0.494,74.989,4,trance
+64AwAe6HpIEGFjy0KoGsmH,Andy Moor;Adam White;Whiteroom,The Whiteroom,The Whiteroom,47,233848,False,0.467,0.941,1,-6.992,1,0.0359,0.00276,0.886,0.453,0.172,134.968,4,trance
+07LzdQEfH1hu3RXM7JUqL7,Above & Beyond;anamē;Marty Longstaff,Group Therapy 480,Gratitude (ABGT480),27,352500,False,0.546,0.832,10,-8.834,1,0.0372,0.00145,0.0801,0.193,0.0374,127.996,4,trance
+1QH83zBuFEy7Tbgf2UvAnD,GAIA,Tuvan,Tuvan,51,170360,False,0.518,0.888,7,-7.539,1,0.0486,0.0013,0.908,0.203,0.289,131.984,4,trance
+3xdUWpu1vwrLLj9ReUip8V,Blastoyz,High On Acid,High On Acid,34,473379,False,0.539,0.949,7,-4.757,1,0.0674,0.00962,0.8,0.122,0.392,144.989,4,trance
+5iypSEg6inNmRr3nKCCZfz,Tristan;Magik UK,Triptamine,Triptamine,35,413164,False,0.75,0.875,7,-7.783,1,0.0538,2e-05,0.777,0.073,0.132,144.988,4,trance
+0zjORbo98bRxMmyS3wzeKW,Chicane;Bryan Adams,Twenty,Don't Give Up,49,210786,False,0.644,0.72,10,-9.635,0,0.0419,0.00145,0.504,0.0839,0.53,132.017,4,trance
+4cfEA7zQhaQpkhUFonoOPw,Dead by April,Worlds Collide,Crying Over You,51,265226,False,0.377,0.955,8,-4.581,0,0.0924,0.00113,0.634,0.341,0.506,180.048,4,trance
+0taZjhXbTPtGHQsEv3nhkl,Andy Moor;Somna;Natalie Major,Born to Run,Born to Run,44,210376,False,0.581,0.809,7,-8.852,0,0.0394,0.0277,0.548,0.399,0.0828,127.993,4,trance
+2M2P3sbarzko7EWUtdaANf,Armin van Buuren;Timmy Trumpet,Anita,Anita,53,180904,False,0.722,0.909,4,-3.952,0,0.0365,0.00371,0.00586,0.0792,0.392,140.041,4,trance
+0CBOEvhkbOWAWiLkYbYXxM,Fungus Funk,Psychedelic Awakening,Protomolecule - Original mix,28,433390,False,0.697,0.954,7,-5.751,1,0.043,1.78e-05,0.875,0.751,0.27,141.998,4,trance
+6Z1LO7aiIypc9ey5bMQHnG,Omnia;Christian Burns,All I See Is You,All I See Is You,37,236484,False,0.486,0.788,7,-3.774,0,0.0355,0.0247,0.0,0.0666,0.237,130.018,4,trance
+5p144lbzJw9kMCMOG61SF3,Dead by April,Anything at All,Anything at All,49,246545,False,0.482,0.925,7,-2.795,0,0.108,0.00364,0.0,0.111,0.238,110.0,4,trance
+1fbjqiXopUoZiXt5JQnhLv,Gareth Emery,THE LASERS,way to you,48,163765,False,0.629,0.507,11,-14.537,1,0.0263,0.115,0.00127,0.13,0.327,107.008,4,trance
+5XOsVtC4JMqNUVg48w9z13,Astrix;Avalon,Remixes,Sapana - Avalon Remix,39,491666,False,0.614,0.946,11,-6.165,0,0.0408,7.99e-05,0.718,0.199,0.0768,144.011,4,trance
+5AOlLWl9KE6MRpTCqUprNd,Husman,Arrival,Arrival,50,133124,False,0.783,0.886,4,-6.404,0,0.331,0.0125,0.508,0.56,0.391,128.071,4,trance
+7GagmRhYjhBMBqdFcb1Vdt,BROX,Real Live,Real Live,30,409436,False,0.576,0.847,7,-7.823,0,0.0645,0.0193,0.00493,0.253,0.0903,142.002,4,trance
+63mwx3CdqgxPOEOGXvhuZN,Astrix,He.art,Alien Turned Human,41,488823,False,0.382,0.83,4,-8.322,0,0.0662,0.000354,0.81,0.152,0.0345,135.991,4,trance
+27jMFglAMnOG5rn2NwSt1Z,Ace Ventura;Animato,Moments of Ecstasy,Moments of Ecstasy,36,445714,False,0.619,0.928,6,-6.818,0,0.0482,0.00199,0.767,0.615,0.468,140.007,4,trance
+6ci9b9DpCNHSfKRIS626lT,Synergetic Emotion,Endemic (Compiled by Durs),Touché,35,221500,False,0.638,0.593,6,-8.064,0,0.0311,0.107,0.832,0.122,0.3,140.024,4,trance
+4GFJmAmzgZ95AbEMeNEi7l,Sighter,Northern Lights,Northern Lights,35,398142,False,0.494,0.774,10,-7.924,0,0.0356,0.000199,0.846,0.0716,0.107,139.989,4,trance
+3mACbLdK3YU4H6SQjVKhN4,Dickster;Outsiders,Be as You Are,Strange Goblin,24,489863,False,0.59,0.983,8,-6.793,0,0.0554,0.000712,0.802,0.113,0.66,145.999,4,trance
+6kNp25thKD57gxpyz7M7IE,Spirit Architect,Moonshine,Ayahuasca,32,370758,False,0.591,0.977,8,-5.051,1,0.0667,0.000266,0.734,0.137,0.0818,144.997,4,trance
+0o6V0Ij0wf7nZiTxPTiWgQ,Gareth Emery;Gid Sedgwick,California,California,49,191994,False,0.479,0.792,8,-9.519,1,0.0412,0.00164,5.1e-05,0.123,0.183,150.052,4,trance
+0bMzCNqq4U5pQakqcyfJHR,Jason Ross;HOLT,Hate This Kind of Love (feat. HOLT),Hate This Kind of Love (feat. HOLT),41,226857,False,0.574,0.794,4,-4.81,1,0.058,0.106,0.0,0.103,0.439,104.906,4,trance
+2JtLVLcBKBoMoM3C8OMtu4,Ilan Bluestone;Maor Levi;EL Waves;Spencer Brown,Scars (Remixed),Will We Remain? - Spencer Brown Remix,46,365714,False,0.789,0.701,6,-6.582,0,0.035,0.00202,0.418,0.117,0.326,126.005,4,trance
+5RScucFoUuNzhLWwGWy05b,Armin van Buuren;Miri Ben-Ari,Intense,Intense,44,527786,False,0.641,0.832,5,-7.136,0,0.0499,0.00955,0.0481,0.124,0.115,135.1,4,trance
+4HnkK1OJiWzm29hSysJ9E2,Symphonix;Interactive Noise,Instant Moment,Instant Moment,46,213063,False,0.695,0.816,6,-6.63,1,0.0812,0.024,0.325,0.311,0.0626,141.973,4,trance
+2zM1zEjv2JX1qTmSDeB8IL,Gareth Emery;Christina Novelli,Concrete Angel,Concrete Angel - Radio Edit,54,235024,False,0.63,0.892,7,-5.122,1,0.041,0.0105,0.0069,0.144,0.557,130.012,4,trance
+4DYsxBBZNIrRdWRm5JSjQX,Tiësto,Hotel Transylvania 3,Wave Rider (From Hotel Transylvania 3),51,171428,False,0.637,0.982,5,-5.243,1,0.464,0.000232,0.853,0.111,0.344,140.048,4,trance
+4RQGig0Vhr4GXmqfklCCyK,iio;Nadia Ali,Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered],Rapture (Armin Van Burren Remix Remastered - Made Radio Edit) [feat. Nadia Ali],53,189700,False,0.541,0.931,10,-9.687,0,0.0552,0.326,0.129,0.325,0.148,128.584,4,trance
+1oOOiIOR4OXntHkpSvytwb,York;Scot & Millfield,The Awakening (2020 Edit),The Awakening - 2020 Edit,51,212015,False,0.848,0.87,11,-4.014,0,0.0395,0.172,0.795,0.247,0.25,120.013,4,trance
+4f5zIx0gKbINrbM58Sbpgw,BROX,Look in My Face,Look in My Face,34,355714,False,0.676,0.82,9,-7.84,1,0.0514,0.00808,0.372,0.0755,0.237,140.032,4,trance
+2CfNnviw8KsMGGcJ5RtZ61,Tritonal;Eric Lumiere;Steve Brian,Live In The Sky (Original + Steve Brian Remix),Live In The Sky - Steve Brian Remix,50,210476,False,0.582,0.785,11,-6.984,1,0.0373,0.00252,0.344,0.351,0.175,126.039,4,trance
+0vfTdJ8TYLBVuDAvjCHaOa,Digicult,Out Of This World,Star Travel - Original Mix,33,432346,False,0.51,0.921,7,-6.187,1,0.0405,0.000311,0.822,0.11,0.334,145.004,4,trance
+0CqCpm4LLQbHUX5ysizWJS,Asking Alexandria,Stand Up And Scream,The Final Episode (Let's Change Channel),61,242080,True,0.213,0.957,3,-2.967,1,0.235,0.00156,0.0,0.394,0.157,196.118,3,trance
+29sk0Udjd50TCXBOAtSh4W,Mark Sixma;ANVY,The World of Six (Incl. Bonus Remixes),Meet Again,48,186307,False,0.674,0.766,5,-4.53,0,0.0524,0.0631,0.0,0.528,0.357,123.991,4,trance
+0XHnYbXteyBDfVvk9EGaPu,Asking Alexandria,See What’s On The Inside,Never Gonna Learn,57,198041,True,0.274,0.922,1,-3.663,0,0.0593,0.000115,0.0,0.123,0.366,105.132,4,trance
+6VNlCvJOz1UgXGQRJXfC48,Ghost Town,Party in the Graveyard,Monster - 2013 Remaster,30,244213,True,0.371,0.862,0,-6.108,0,0.0735,0.0731,0.0,0.388,0.169,157.875,4,trance
+7ocUMTh2XF8JECuVErcXwI,Steve Brian;Danni Baylor,1986,Damage Each Other,55,204285,False,0.527,0.763,1,-7.44,1,0.0415,0.0409,1.13e-06,0.0969,0.372,125.997,4,trance
+3EeMVq0FpmYhlq0KnJw0uF,JES,Black Hole Trance Music 10-22,All or Nothing - Extended Mix,0,387840,False,0.62,0.925,9,-5.463,0,0.062,0.00481,6.54e-05,0.0341,0.246,124.991,4,trance
+3NqigSf4ZhHqRDyT1kTVAc,Deny,Invencible,Invencible,31,255000,False,0.362,0.948,2,-2.898,0,0.0459,3.17e-05,6.18e-05,0.348,0.304,155.955,4,trance
+4SCMdsxICghj6ZqWX7u8Kl,Interactive Noise,Psy Trance Universe - Road to Goa,M.A.D. - Original Mix,0,309250,False,0.642,0.655,0,-7.145,0,0.0628,0.101,0.431,0.0917,0.283,142.045,4,trance
+3n3turoo9rMhlrjh90lkyI,Dennis Sheperd;Scott Cameron;RELEJI,Black Hole Trance Music 10-22,This One - Extended Mix,0,404637,False,0.715,0.641,2,-9.541,1,0.0574,0.000373,0.917,0.0642,0.228,124.006,4,trance
+7Dv1rYPkx3v2QVCPUY0yhj,Destroy Rebuild Until God Shows,Post-Millennial Noise,"If You Think This Song Is About You, It Probably Is",0,150200,False,0.597,0.97,4,-6.303,1,0.159,0.00279,1.36e-05,0.354,0.352,121.971,4,trance
+6NHRWtAQTtCELvv3h0pGYq,Becker;Labirinto,DMT,DMT,37,450206,False,0.626,0.955,6,-6.072,1,0.0602,0.000162,0.824,0.326,0.377,145.008,4,trance
+5skawbzQY8Y8yKtPq8y897,Menumas,Stars,Stars,33,489931,False,0.71,0.535,0,-8.307,1,0.0649,0.0109,0.822,0.142,0.306,144.996,4,trance
+6If6tXpbwYs5zBop1AqfwG,Dash Berlin;Do;DJ Isaac,Heaven (Remixes),Heaven - DJ Isaac Remix,58,198010,False,0.3,0.897,0,-1.6,0,0.0481,0.0251,0.0,0.328,0.237,150.062,3,trance
+2wG2zxj4G6A5NuYBfKkCY1,Groundbass;Blazy;Dang3r,Sentidos,Sentidos,41,392425,False,0.48,0.864,5,-5.663,1,0.182,0.0161,0.192,0.19,0.0714,140.033,4,trance
+4jzYRdSHm4aBXqjLoCXcBD,Mandragora,Nostalgia,Nostalgia - Original Mix,35,262000,False,0.66,0.602,2,-7.606,0,0.0325,0.0196,0.542,0.0739,0.108,127.965,4,trance
+1Vc1lmI1hZQOyIgO7SN2Xk,Omiki;Mandragora,Balkan (Mandragora Remix),Balkan - Mandragora Remix,41,192948,False,0.665,0.905,2,-5.233,1,0.0599,0.000356,0.663,0.43,0.0378,99.755,4,trance
+4D1MZYkBeUXbizRC0Th0tF,Aly & Fila;Plumb;Paul Thomas,Somebody Loves You (Paul Thomas Remix),Somebody Loves You - Paul Thomas Remix,46,208064,False,0.562,0.851,4,-8.614,0,0.039,0.0277,0.929,0.234,0.0396,124.004,4,trance
+5nmr0qCA3JXN2MRdEDUFi6,16BL,Deep In My Soul EP,Deep In My Soul - Original Mix,45,483966,False,0.859,0.44,9,-11.224,0,0.0514,0.14,0.537,0.689,0.743,121.002,4,trance
+64BbRFQBFPpSKhmCZ5w7K1,W&W,How Many,How Many,49,168250,False,0.554,0.884,4,-3.548,0,0.108,0.04,0.000225,0.132,0.229,128.036,4,trance
+0sVGeRw2BwO6rSmODLkm1T,Mandragora,Disc 3,Drama,35,202036,False,0.761,0.588,2,-6.729,1,0.0276,0.169,0.853,0.178,0.0791,119.992,4,trance
+4toYSvr11AsKlRlGg1r5a2,Blastoyz;Reality Test,Part Of The Dream III - Compilation by Blastoyz & Reality Test,Kabalah,31,344347,False,0.278,0.984,4,-3.091,0,0.109,0.000578,0.815,0.671,0.0992,103.482,3,trance
+0H6vRV11qSb3YGU6LpCMCq,Menumas,Inner Voice,Inner Voice,36,513103,False,0.675,0.674,9,-5.811,0,0.0493,0.0264,0.795,0.292,0.0425,145.016,4,trance
+1XJMtuGHvGhu8BSJED4LHo,Armin van Buuren;AVIRA;Be No Rain;Colyn,Hollow (Colyn Remix),Hollow - Colyn Remix,40,259672,False,0.689,0.898,7,-4.014,1,0.031,0.00125,0.527,0.373,0.407,121.997,4,trance
+2InrK5IWeTPIVRZQPOEDIO,Matt Fax,To The Ground,To The Ground,49,233440,False,0.556,0.855,6,-8.916,1,0.0693,0.0137,0.323,0.202,0.0534,123.989,4,trance
+2DWMIhDJpB6h6CqJ1f8gA3,Ajja,Oddular,Context High - Original Mix,32,443333,False,0.676,0.93,1,-5.618,1,0.0552,3.9e-05,0.668,0.2,0.73,144.004,4,trance
+3pNnSLPQUHxUrLMoiMNN6d,LTN;Ghostbeat;Nina Carr,Captivated,Captivated,48,187118,False,0.737,0.741,7,-6.638,1,0.0302,0.118,0.504,0.148,0.212,117.99,4,trance
+6WQ0dxunGQuNXVNYmkDXfU,Christina Novelli;Richard Durand,My Guiding Light,My Guiding Light,45,225217,False,0.495,0.887,5,-4.367,0,0.0411,0.0122,0.104,0.115,0.0978,137.947,4,trance
+2GnYss45b02kqVWTdc99QO,Hi Profile,"Goa Beach, Vol. 26",Harmony - Original Mix,39,429893,False,0.48,0.819,0,-9.471,1,0.172,0.000569,0.762,0.45,0.061,138.03,4,trance
+3CvUnlgIZHhlemdivpN4tY,Mandragora,Disc 1,Center Of The Universe,37,372000,False,0.695,0.557,5,-10.54,0,0.0435,0.532,0.836,0.545,0.426,135.981,4,trance
+0WjEpYRXjUpdA0GehkTce1,ReOrder;Jordan Tobias;Crowd+Ctrl;Ben Thrills,High,High,45,199056,False,0.678,0.582,8,-10.114,1,0.0383,0.0305,0.237,0.334,0.0744,123.002,4,trance
+7MPHgXUz1JtYD0ozqEQViw,Gareth Emery,THE LASERS,elise,46,234508,False,0.469,0.525,10,-12.986,1,0.0478,0.144,5.36e-05,0.101,0.14,129.967,4,trance
+5B4dKEFwXSEAJYTuXFogA6,Mad Tribe;Vertical Mode,Mix Tape Vol.2,Lsd Party - Vertical Mode Remix,30,496901,False,0.637,0.984,0,-6.352,1,0.0577,0.00125,0.774,0.616,0.486,142.004,4,trance
+1M7h0DxRLM9qctzi9KmdNX,Emma Hewitt;Ben Nicky,COLLIDE,COLLIDE,48,209142,False,0.4,0.993,11,-2.996,0,0.0714,0.00184,0.153,0.229,0.118,140.057,4,trance
+6MUZSRiBO5mpq5qQkFgAgz,Armin van Buuren;Tempo Giusto,Mr. Navigator,Mr. Navigator,50,152238,False,0.759,0.948,1,-5.465,1,0.114,0.0212,0.336,0.366,0.181,134.085,4,trance
+40fFjxtsBoIdTEL71kbp39,Rub!k,Orbit 37,Orbit 37,46,174077,False,0.456,0.935,5,-3.03,0,0.0324,0.028,0.776,0.741,0.387,133.928,4,trance
+6rCcJf8p7z9QDlfzmBVSVl,Infected Mushroom;Bliss;MIYAVI,Head of NASA and the 2 Amish Boys,Bliss on Mushrooms,44,570978,False,0.562,0.732,6,-5.896,0,0.0489,0.0169,0.788,0.118,0.074,140.005,4,trance
+4s5YiAfgPWyq37WukmceRI,Paul van Dyk;Fuenka,Artefact,Artefact,47,220649,False,0.459,0.975,1,-7.354,1,0.0454,0.0191,0.893,0.0828,0.138,128.018,3,trance
+0PklkaNjPAdXdc5xPQwBfR,Dezza;Lauren L'aimant,"44° North, 63° West",Settle,49,252000,False,0.579,0.716,0,-7.64,0,0.0309,0.113,0.219,0.145,0.133,122.023,4,trance
+1USfcCaQyxfp3WESraFsQP,Mark Sixma;Jordan Shaw,Somebody Else Instead,Somebody Else Instead,48,163833,False,0.792,0.509,0,-10.198,1,0.0439,0.167,5.42e-05,0.31,0.84,121.978,4,trance
+6mylgnvuGYjcakF6ur4uHC,Armin van Buuren;Shapov,Welcome Home,"Let's Rave, Make Love",50,200952,False,0.624,0.972,5,-5.485,0,0.0415,0.137,0.396,0.171,0.436,125.999,4,trance
+32qsBWH7rum5R0njrjXC9M,GAIA,Trance Top 1000 (Mini Mix 001) - Armada Music,Stellar (Mixed),51,109105,False,0.541,0.846,8,-10.979,1,0.0462,0.00306,0.901,0.516,0.0395,131.945,4,trance
+0TZL4krCFcuTlYZ8J9kcBX,Three Drives On A Vinyl,Greece 2000,Greece 2000,58,234773,False,0.707,0.842,1,-11.393,0,0.0532,0.00618,0.871,0.0628,0.763,131.783,4,trance
+4gwc4MohsQEX9sAZh1K7Tw,Armin van Buuren;Dmitriy Mityukhin,Blah Blah Blah (Dmitriy Mityukhin '6 Underground' Edit),Blah Blah Blah - Dmitriy Mityukhin '6 Underground' Edit,37,165652,False,0.591,0.84,1,-6.974,1,0.0655,0.000179,0.128,0.617,0.145,138.014,4,trance
+2glojqSUlUzBiTLQqn425l,Tristan;Raja Ram,The Tristan Collection,Take A Trip,33,396387,False,0.592,0.939,0,-4.518,1,0.0711,0.00012,0.631,0.663,0.215,148.039,4,trance
+5WXnQn7u43LLa2pFhJoHlR,Tristan;Raja Ram;Laughing Buddha,Regan Presents Origin 5,Beautiful Garden - Laughing Buddha Remix,33,483270,False,0.633,0.898,5,-5.37,0,0.0404,2.9e-05,0.857,0.233,0.374,147.011,4,trance
+7FcYggV5JO2L00B6CKg7W0,Ace Ventura;GMS;Poli,Going Back (GMS & Poli Remix),Going Back (GMS & Poli Remix),41,445714,False,0.65,0.843,6,-7.398,0,0.0547,0.00344,0.884,0.0979,0.219,140.024,4,trance
+0HkYWF3O2mW56RU67gEqyG,Richard Durand;Sarah de Warren,Made of Stone,Made of Stone,46,219555,False,0.525,0.937,8,-5.651,1,0.0367,0.0259,0.447,0.415,0.094,135.006,4,trance
+2zI4py4xY6v4vIrAlR6GtP,Paul van Dyk,For An Angel,For An Angel - PVD Angel In Heaven Radio Edit,58,233243,False,0.668,0.982,9,-7.979,0,0.0331,0.0437,0.849,0.887,0.591,138.223,4,trance
+4PTIAmRG2ckFNySN9FArFv,Tritonal,Tritonia 399,Adelphi '88 (Tritonia 399),46,262873,False,0.536,0.966,9,-5.94,0,0.0386,0.00122,0.62,0.416,0.162,125.987,4,trance
+5Y4shJuqQRfXfs1tF8wFXQ,Roman Messer,Magic Touch,Magic Touch,46,135495,False,0.702,0.888,3,-4.946,0,0.0444,0.0256,4.25e-05,0.0927,0.644,123.955,4,trance
+2sZ0uw5ZgibFVCRWmpWBRK,Jam & Spoon;Wehbba,Odyssey to Anyoona (Wehbba + Frankyeffe Remix),Odyssey to Anyoona - Wehbba Remix,35,250909,False,0.516,0.925,10,-8.089,0,0.0474,0.00104,0.861,0.122,0.0368,132.013,4,trance
+0z9a2LaIyMT9t6XpxusJBK,Ben Gold,Rest Of Our Lives,Ultrasonic,39,202666,False,0.191,0.99,1,-4.05,1,0.146,0.000265,0.906,0.0976,0.0516,135.0,4,trance
+79cxnmnGiC0qZfxi5ogp4j,Dennis Sheperd;York;Iris,Tritonia 399,The Fall (Tritonia 399),26,297143,False,0.597,0.809,2,-7.128,1,0.0337,0.00173,0.452,0.141,0.244,125.98,4,trance
+0sqszVJTgFXRjgSXxt7USt,Ahmed Helmy;Gid Sedgwick,Black Hole House Music 10-22,Exploited Lover - Deep Extended Mix,0,348603,False,0.687,0.721,1,-8.393,1,0.0633,0.000936,0.586,0.0281,0.216,123.987,4,trance
+6Eukq40cWhZjXSyRmJfUhw,Kosmonova;Technorocker,Next Chapter,Heart Is in Debt - Technorocker Remix,30,169384,False,0.518,0.938,7,-5.046,1,0.299,0.00576,0.0,0.705,0.0933,130.049,4,trance
+4ZmIPSFXAvpr80vACC30W3,Ghost Town,Party in the Graveyard,Voodoo - 2013 Remaster,30,244160,False,0.527,0.865,3,-6.813,1,0.106,0.137,0.0,0.407,0.35,124.978,4,trance
+4WeKDxtxgn7fMbUq2V1pAC,Steve Brian;Eric Lumiere;Dante Klein,In Your Eyes (Dante Klein Remix),In Your Eyes - Dante Klein Remix,53,135238,False,0.655,0.874,1,-3.478,0,0.0445,0.00793,0.0,0.0701,0.607,126.073,4,trance
+17C4oPQ3sTpF11pi9yvGcs,Asking Alexandria,Stand Up And Scream,Not The American Average,63,279226,True,0.236,0.892,2,-4.106,0,0.188,0.0305,0.0,0.278,0.0685,184.981,4,trance
+4roXv3mn51oNFxMY4GJ8Rf,Somna;Julie Thompson,Black Hole Trance Music 10-22,Pretty Lies - Extended Mix,0,382556,False,0.787,0.681,8,-6.627,0,0.0456,0.002,0.0245,0.0837,0.189,132.965,4,trance
+6IkcTpdDbL4OVg7skLdUyF,Electric Callboy,TEKKNO,Arrow of Love,67,222866,True,0.45,0.863,4,-7.284,0,0.0649,6.28e-05,0.0,0.358,0.62,75.028,4,trance
+1lK6R9b6oNANXOsFxSv427,Dzp,Roobaai - Single,Roobaai,33,333913,False,0.425,0.951,1,-7.194,1,0.0913,0.0103,0.107,0.396,0.357,103.537,3,trance
+7m3SW4vmDNYQE8wg7NgMUI,Special M,Trammpoline (Remix),Trammpoline (Remix),36,283478,False,0.51,0.686,7,-6.596,0,0.0817,0.0301,0.311,0.104,0.114,103.498,3,trance
+10vfOPjMNnhqKhqYz3GoxH,Mandragora,La Luna,La Luna,38,219534,False,0.775,0.725,0,-4.622,0,0.0378,0.215,0.618,0.5,0.222,129.009,4,trance
+7IgA0pcFcslMMsBZsDnWaX,Tomcraft;MOGUAI;ILIRA,Happiness,Happiness,48,150486,False,0.636,0.841,0,-5.28,0,0.169,0.0983,2.48e-05,0.136,0.298,123.913,4,trance
+19vs5EKA0WfxAmjDLzLhnx,Raz;Henrique Camacho,NAMAHA,NAMAHA,36,358945,False,0.444,0.894,10,-6.264,0,0.123,0.00227,0.465,0.106,0.124,166.033,4,trance
+0uif0Lvh62KQ8GIFY594M7,Tiësto;SWACQ,Party Time,Party Time,46,166560,False,0.635,0.878,0,-4.753,1,0.07,0.0103,0.538,0.338,0.414,125.002,4,trance
+5RT22k0yL1HpwbftyNjDjP,Above & Beyond;Justine Suissa,Almost Home,Almost Home,45,239735,False,0.598,0.827,9,-6.381,0,0.0262,0.000556,0.268,0.0967,0.484,128.004,4,trance
+79SCIhOaRBqHdrBurD2JKb,Mandragora,Disc 2,Burn It Down,35,312891,False,0.778,0.696,9,-8.794,0,0.0434,0.0103,0.869,0.107,0.383,134.99,4,trance
+6utwmLAd4ep8hkQce0eXF3,MaRLo;HALIENE,Say Hello,Say Hello - Radio Edit,45,172578,False,0.577,0.628,2,-7.154,1,0.0352,0.0761,1.81e-05,0.135,0.301,127.934,4,trance
+6eHPxuuhkQLbu6Up0k8MEO,Sam Laxton,Kanban System,Kanban System,18,224133,False,0.551,0.934,11,-7.0,0,0.0483,0.000544,0.845,0.0673,0.153,138.027,4,trance
+4RdZfdkgW1OmkajhvcOxA1,Tritonal;HALIENE;SCHALA;Jorza,Long Way Home,Long Way Home,45,214153,False,0.511,0.795,6,-3.901,0,0.0509,0.0461,0.0,0.138,0.415,129.855,4,trance
+5kVRGfWiIOcJwxIjLjesuM,Dezza;Lauren L'aimant,Settle,Settle,50,252000,False,0.579,0.716,0,-7.64,0,0.0309,0.113,0.219,0.145,0.133,122.023,4,trance
+3SbCWIF7UaSewGfGHkFEI2,Andain,"Mixed For Feet, Vol. 1",Beautiful Things,52,199320,False,0.693,0.665,4,-8.111,0,0.0255,0.00299,0.118,0.347,0.616,130.998,4,trance
+3lLQHqHJtOXWeJfqguiOd1,Armin van Buuren;Sarah Reeves,Tell Me Why,Tell Me Why,48,179118,False,0.625,0.818,3,-6.211,0,0.0499,0.0397,0.465,0.325,0.26,128.006,4,trance
+7sFk2PA3NsrrSsGa4CM3rs,Tiësto;ILIRA,The London Sessions,Lose You,57,148329,False,0.704,0.899,6,-5.61,0,0.178,0.189,2.43e-05,0.228,0.576,123.028,4,trance
+75toOpdBwyysYcyDspID2y,Dash Berlin;Alex M.O.R.P.H.,Oceans (Alex M.O.R.P.H. Remix),Oceans - Alex M.O.R.P.H. Remix,46,186666,False,0.457,0.942,2,-4.493,1,0.0356,0.00291,0.225,0.112,0.133,135.015,4,trance
+4DFPLQ1A5VX3XJ2EdX4RzU,Tiësto;Dzeko;Preme;Post Malone;Keanu Silva,"Jackie Chan (Remixes, Vol. 2)",Jackie Chan - Keanu Silva Remix,48,155324,True,0.885,0.869,6,-4.939,1,0.0552,0.00211,7.85e-06,0.0325,0.702,126.005,4,trance
+2evXDtD2q2faHAiESi9LyH,Myon;ICON;Sean Darin,Cold Summer (Remixes),Cold Summer - Sean Darin Remix,45,177945,False,0.539,0.757,7,-5.461,0,0.0401,0.421,0.0,0.0908,0.398,145.955,4,trance
+4GqvWKAq6uKAcivJGnNAhR,Armin van Buuren,Ping Pong,Ping Pong,43,178923,False,0.566,0.935,6,-6.732,0,0.0573,0.00192,0.333,0.135,0.554,130.01,4,trance
+49ziHtycEUnbFQtE8e8slt,Tiësto;Dzeko;Preme;Post Malone,Jackie Chan,Jackie Chan,51,215675,False,0.742,0.838,3,-2.758,0,0.0476,0.339,0.0,0.0595,0.694,128.022,4,trance
+5b1k8soHjvcK3yfS1KGLEC,Dash Berlin;Bo Bruce,We Are (Part 2),Coming Home,43,194062,False,0.606,0.636,4,-3.182,1,0.0434,0.029,0.0,0.095,0.0768,127.981,4,trance
+0vrSxYXbexiU1E5snzFsRT,Astrix,Red Means Distortion,Dharma,23,535240,False,0.685,0.898,11,-5.778,0,0.0469,0.000143,0.867,0.331,0.0268,139.986,4,trance
+2AOmTB8IJm0decOoE21PxI,Synthatic;Tijah,Take A Ride,Trust Me,35,366760,False,0.68,0.712,0,-7.365,1,0.0577,0.000707,0.841,0.14,0.571,141.989,4,trance
+7f9PFz2XCYECXLV0rARvwU,Ace Ventura;Pantomiman,Hello?,Hello? - Pantomiman Remix,28,461652,False,0.736,0.803,11,-6.93,1,0.0531,6.18e-05,0.802,0.375,0.185,146.985,4,trance
+4I6JwM7pS6Uo705qqyM2su,Armin van Buuren;Wrabel,Feel Again,Feel Again,47,178750,False,0.585,0.942,10,-5.294,0,0.0427,0.0213,0.199,0.138,0.241,120.037,4,trance
+5RNGOlGqKBawkqLfdJqiqA,Shpongle,Ineffable Mysteries From Shpongleland,Nothing Is Something Worth Doing,44,384226,False,0.568,0.7,5,-12.089,0,0.03,0.192,0.907,0.117,0.247,118.027,4,trance
+0rSpu20UCvDF2BE2tNx4LF,Maarten de Jong,Tritonia 400,X2 (Tritonia 400),0,164985,False,0.538,0.968,2,-6.073,1,0.0858,0.0211,0.736,0.164,0.0364,127.957,4,trance
+0liZcBeGoLuzDIat1YXRZk,Ron with Leeds,The Space Between Us,The Space Between Us,18,150952,False,0.58,0.876,5,-5.764,1,0.0445,0.000407,0.0177,0.258,0.178,127.995,4,trance
+166EdekvYW9WCri2CSNKCH,Vini Vici;Berg,Sweet Harmony,Sweet Harmony,46,183007,False,0.596,0.724,10,-7.074,0,0.0415,0.155,0.106,0.166,0.319,137.648,4,trance
+5defyd9WrJCioezXeTqMdZ,Dezza;Lauren L'aimant,"44° North, 63° West",Ghost,46,262750,False,0.648,0.805,10,-7.145,0,0.029,0.0654,0.887,0.154,0.0627,123.998,4,trance
+4uB7RmCoM5NAZKMYypDLpz,Nadia Ali;Starkillers;Alex Kenji;Alesso,Pressure (Alesso Radio Edit),Pressure - Alesso Radio Edit,46,182929,False,0.527,0.866,10,-6.838,0,0.0346,0.000174,0.615,0.16,0.266,128.033,4,trance
+53u6z4AWKeb5rJCJ45Q3P5,Freakaholics,Penta Loco,Penta Loco,37,265199,False,0.507,0.629,11,-10.055,0,0.0903,0.102,0.833,0.0984,0.138,145.032,4,trance
+44EbX1Cuwpq3hdnpTHsmfO,Armin van Buuren;Mr. Probz,Embrace,Another You,50,192306,False,0.59,0.647,6,-5.06,0,0.033,0.00807,4.3e-05,0.0921,0.39,127.979,4,trance
+6SLq6JFLiev4woRchnY9xn,Digicult;U-Recken,Soul Samadhi,Sundara - Original Mix,28,570374,False,0.583,0.82,1,-4.742,1,0.0367,4.47e-05,0.815,0.337,0.19,144.01,4,trance
+0vqxBVOlXfe2FZODqapOvg,Electric Universe;Faders,Calling for Peace,Calling for Peace,42,539586,False,0.495,0.953,6,-5.1,1,0.0419,0.000171,0.649,0.324,0.384,145.011,4,trance
+625E63s5zHYTzx6rOi5Gea,Synergetic Emotion;Miirage,Need You,Need You,33,390428,False,0.662,0.478,9,-9.561,1,0.0556,0.022,0.3,0.102,0.0523,140.029,4,trance
+2L2rzhnx1Xr6LiGuaYMepY,Seven Lions;Blastoyz;ERV ELLO,Reason For Fighting (feat. ERV ELLO),Reason For Fighting (feat. ERV ELLO),48,238285,False,0.467,0.931,4,-3.318,0,0.14,0.00705,0.000365,0.348,0.253,140.008,4,trance
+1ovFnZv6mUe0LzAbfVqOmh,Blind Channel,Dark Side,Dark Side,55,177789,False,0.571,0.955,7,-3.795,1,0.105,0.00254,1.55e-06,0.274,0.437,98.01,4,trance
+1ORDYmBYllvoGjgWEDXPp5,Andy Moor;Adam White;Whiteroom;Marsh,The Whiteroom (Marsh Remix),The Whiteroom - Marsh Remix,43,213257,False,0.576,0.901,0,-6.612,0,0.0284,0.0218,0.882,0.435,0.229,124.99,4,trance
+21moRXryd6OlSAL00a9BMJ,Mandragora;4i20;Slava (NL),Mechanics of Travel,Faze,36,364680,False,0.567,0.67,1,-8.929,1,0.113,0.157,0.108,0.375,0.349,155.005,4,trance
+22PEA9hscWITQmbUFg0Jas,Armin van Buuren;Jorn Van Deynhoven,A State Of Trance FOREVER,Lost In Space,44,201304,False,0.561,0.903,7,-4.868,0,0.0463,0.00917,0.0613,0.188,0.084,138.081,4,trance
+7bPzk1B12yFWpnbzZIQGhm,Chicane;Joseph Aquilina,Everything We Had To Leave Behind,1000 More Suns,54,264523,False,0.531,0.614,8,-11.274,1,0.0315,0.352,0.731,0.0944,0.0393,122.977,4,trance
+2WiW6RcpDaCivdk7cofdBA,Giuseppe Ottaviani;Jan Burton,Horizons [Part 1],Colour Me,46,237133,False,0.488,0.947,2,-7.592,0,0.0408,0.012,0.0159,0.0935,0.115,125.008,4,trance
+4fKBKp6v52BBYHw3ePMXFp,Astral Projection,Trust In Trance 2,Mahadeva,33,565960,False,0.523,0.984,1,-9.015,1,0.0373,0.0185,0.9,0.133,0.824,149.836,4,trance
+1cWNKK948isGJ9QSayCLDT,Paul Oakenfold;Carla Werner;Tiësto,Trance Top 1000 - The Legends,Southern Sun - DJ Tiësto Remix,36,278290,False,0.623,0.905,4,-8.458,0,0.0411,0.09,0.482,0.3,0.438,137.047,4,trance
+06sH5jlyJ5c4DynYpIZrYB,Ace Ventura;Liquid Soul,Paradise Engineering,Neurochemistry,40,480000,False,0.717,0.898,7,-7.52,1,0.0424,0.000228,0.884,0.16,0.127,137.024,4,trance
+37lDLLICQiM2RJuFy76mdn,Super8 & Tab;Richard Walters,Start Again,Start Again,49,193596,False,0.541,0.839,11,-7.141,0,0.0324,0.0117,0.00331,0.216,0.178,123.984,4,trance
+2JaIA5hhY7QuoD4BdxLZaV,Floe,Visions / Restless,Visions - Extended Mix,29,358669,False,0.632,0.983,7,-6.276,1,0.0631,0.0673,0.87,0.643,0.453,129.995,4,trance
+2I0s3IcylrD0MpcFQb1RQy,Luminn;Roxanne Emery;Eximinds,Tritonia 399,In The Silence (Tritonia 399) - Eximinds Remix,21,204687,False,0.433,0.816,7,-5.507,1,0.0831,0.14,0.000145,0.557,0.234,131.287,4,trance
+3xWwecwIKqwgbMamxQ3vtG,Deny,Invencible,Un Año Más,30,279000,False,0.62,0.585,7,-7.233,0,0.0312,0.244,0.0,0.175,0.391,124.137,4,trance
+68c8qaChNLXdBvFPCSQz4d,KVSH;Beowülf,Suavemente,Suavemente,53,162580,False,0.709,0.74,5,-5.783,1,0.0545,0.0353,0.0603,0.13,0.131,124.144,4,trance
+1AYN2i3mNIQkaRJjvSURV5,KiLLATK,NOISE,NOISE,21,354666,False,0.563,0.879,11,-7.16,0,0.0939,3.66e-05,0.605,0.07,0.261,180.009,4,trance
+6tPJXUMn1AjvEBqzwTUHOU,W&W,Whatcha Need,Whatcha Need,47,147230,False,0.393,0.94,6,-3.894,0,0.0718,0.0663,0.00264,0.546,0.297,129.958,4,trance
+7iMLLuT7YNX9JLfFuYuNiO,Mandragora,Efecto Mariposa,Efecto Mariposa,36,182553,False,0.658,0.857,2,-5.625,1,0.0322,0.111,0.686,0.204,0.0596,140.985,3,trance
+22szgJ9WufVHgefSgOD6Dv,Seven Lions;Echos;MitiS,Cold Skin (The Remixes),Cold Skin - MitiS Remix,49,236712,False,0.519,0.874,10,-4.219,1,0.0389,0.144,0.0016,0.0548,0.166,145.944,4,trance
+4sNX7d8SpdAC0G3LoU6dvB,Mandragora,Oie,Oie,37,200000,False,0.839,0.595,5,-7.556,0,0.136,0.00635,0.92,0.0583,0.322,150.025,4,trance
+2b4AEHOpIdB9XCFQfsCuJ0,Omiki;Phanatic;David Trindade,Maya,Maya,37,198000,False,0.334,0.911,1,-5.703,1,0.06,0.00109,0.404,0.125,0.118,140.078,4,trance
+5ecZ2R0Gv93PjBBbO1Zwys,Liquid Soul,Wake Up,Wake Up,29,453043,False,0.676,0.936,6,-7.228,0,0.0509,0.00206,0.841,0.107,0.0384,137.997,4,trance
+4ZUTq4eWs1NlMXko4kNjt9,Fungus Funk;Liftshift,Fractal Funk,Kush Tea,27,425164,False,0.693,0.988,7,-5.658,1,0.101,0.000112,0.831,0.641,0.349,146.999,4,trance
+4B8D5Cm7lxAIlPNh2saXRP,Robert Miles,Dreamland,Fable - Dream Radio,44,433066,False,0.608,0.815,1,-10.215,0,0.027,0.0293,0.92,0.814,0.255,136.074,4,trance
+3f2WFDZHrY19p2uIa0K056,Durs;Who Knows?,Hollows,Hollows,37,282125,False,0.676,0.586,11,-8.351,0,0.0343,0.166,0.273,0.108,0.338,137.987,4,trance
+7hCZVX8ogwzgszIKtkD6Bv,Jason Ross;Blanke;Chandler Leighton,One More Day (with Chandler Leighton),One More Day (with Chandler Leighton),47,272000,False,0.444,0.719,1,-3.513,0,0.0666,0.122,5.3e-06,0.115,0.159,149.941,4,trance
+1X8ogY5IBc1deuzzhvFMer,Giuseppe Ottaviani;Mila Josef,Fade Away,Fade Away,47,261802,False,0.493,0.943,9,-8.548,1,0.0445,0.000502,0.221,0.107,0.0384,128.012,4,trance
+5gprlslyCZD2zaFRwbu22t,Blastoyz;All In One;Dantra,Key To Happiness,Key To Happiness,42,355862,False,0.57,0.87,11,-6.485,0,0.0461,0.0477,0.695,0.118,0.489,144.953,4,trance
+2Z6KB75kOBk4iQRZrhSJH0,Suspect 44;RUMORS,Here Right Now,Here Right Now,41,225139,False,0.478,0.722,2,-6.893,1,0.0458,0.00266,0.00831,0.114,0.287,127.977,4,trance
+6uBqW0IfwvcAbYA5x8LVMy,Tropical Bleyage;A-Tech,Universal Language,Reborn - A-Tech Remix,35,417103,False,0.566,0.951,8,-6.684,0,0.0422,0.000152,0.811,0.111,0.226,145.008,4,trance
+6AkEP2vEcpTRn2ilHVPNsa,Seven Lions;So Below,Every Time (feat. So Below),Every Time (feat. So Below),55,342008,False,0.352,0.871,7,-3.696,0,0.0768,0.00047,0.000764,0.238,0.0717,146.014,4,trance
+4ppG3XawSqo2b0qpq4E3vb,Armin van Buuren;Davina Michelle,Hold On,Hold On,55,207727,False,0.603,0.738,7,-5.464,0,0.0646,0.037,2.24e-06,0.16,0.327,132.047,4,trance
+0N7xGxnWoSqVvT5QpzUZ83,Major7;Reality Test,Casa Blanca,Casa Blanca,34,476521,False,0.623,0.924,8,-4.854,0,0.0987,0.00528,0.637,0.228,0.0693,138.02,4,trance
+2lAxI691mgNx49rakccH1w,Synergetic Emotion;Kurtt,Utopia,Utopia,27,300000,False,0.621,0.626,4,-6.927,1,0.0526,0.0933,0.713,0.0834,0.184,140.031,4,trance
+0onLNYV4aYuSQb8wPxR0O0,Tritonal;Marlhy,Back To My Love,Back To My Love,46,401951,False,0.61,0.924,10,-6.062,0,0.0614,0.00208,0.517,0.241,0.0802,123.032,4,trance
+67Lj6xHDrizXIDDFKYwdae,Giuseppe Ottaviani;Natalie Shay,Replay,Replay (feat. Natalie Shay),44,252826,False,0.667,0.867,11,-8.158,0,0.0891,0.209,0.128,0.108,0.247,124.966,4,trance
+21t2aeBdnMEl2xVG4ORhP7,Killerwatts;Vini Vici,Edge Of Time,Colors,39,487374,False,0.609,0.979,11,-6.824,0,0.0563,0.00261,0.63,0.284,0.233,138.001,4,trance
+2c7y5n1q4rwHNTUPzi4HOe,Infected Mushroom;Bliss,IM25,Boss La Rosh,51,401167,False,0.53,0.84,7,-5.465,1,0.04,0.00769,0.906,0.0894,0.0398,139.967,4,trance
+1B0FEDRzzN5GP7HGZZfNQl,Dennis Sheperd;York;Iris,The Fall,The Fall,41,230476,False,0.59,0.811,2,-7.518,1,0.0343,0.00142,0.544,0.145,0.151,125.98,4,trance
+7j91sj24ANYQIfptwaemjC,Hilight Tribe,Trancelucid,Tambakunda,28,467293,False,0.712,0.631,10,-8.063,0,0.174,0.000601,0.897,0.271,0.589,149.991,4,trance
+0tQIROLkrjb4s3UFeJd0EE,Digicult;Tropical Bleyage,Soul Samadhi,Aradhana - Original Mix,30,415497,False,0.541,0.946,4,-4.97,0,0.0449,0.000155,0.786,0.381,0.149,145.004,4,trance
+1okI0EddpA2UxVY4hBw4PA,Solarstone;Nall,Seven Cities (Nall Remix),Seven Cities - Nall Remix,48,208803,False,0.527,0.823,0,-8.581,1,0.0341,0.367,0.954,0.133,0.14,122.011,4,trance
+4ljvM25QQsr2qRYnN5COID,Armin van Buuren,Trance Top 1000 - The Legends,Blue Fear,41,220280,False,0.557,0.844,10,-9.086,0,0.0636,0.00683,0.943,0.11,0.42,135.992,4,trance
+0YMmKbsH25K6Mp7Ld8VT1c,Mark Van Dale;Enrico;Vengaboys,Power Woman (Vengaboys Remix),Power Woman - Vengaboys Remix,31,259253,False,0.686,0.983,7,-6.532,1,0.0524,6.53e-05,0.772,0.0483,0.612,140.023,4,trance
+6sBPGTOC25BMmS0SMzJGMr,Roman Messer;Roxanne Emery,Dream,Lost & Found,49,191136,False,0.498,0.878,3,-3.408,1,0.05,0.00377,0.000166,0.532,0.176,132.065,4,trance
+6sSLvw4GjXvRIOZfA3fTHh,Mandragora;4i20,Mechanics of Travel,Monster Juice,35,277057,False,0.698,0.498,1,-8.709,1,0.0748,0.0535,0.359,0.484,0.34,160.012,4,trance
+3VpQWglejczAMkxS5vUXw1,Roman Messer;Diandra Faye,In Our Memories,In Our Memories,40,208695,False,0.493,0.975,5,-4.327,0,0.0866,0.000642,0.161,0.153,0.132,138.128,4,trance
+7dx4PRez4LH6eI6Sw1jDQu,Above & Beyond,Tritonia 400,Projection (Tritonia 400),0,247486,False,0.53,0.86,1,-6.882,0,0.0303,0.000958,0.821,0.65,0.0793,128.035,4,trance
+2zGRWSi7klnfoF4IYRAuon,The Thrillseekers;En-Motion,Trance Top 1000 (Mini Mix 003) - Armada Music,Synaesthesia (Mixed) - En-Motion Remix,54,71384,False,0.319,0.891,10,-6.577,1,0.0371,0.0725,0.889,0.32,0.214,139.806,4,trance
+3T6Gt575CWSaiU4nnRreMJ,Veracocha,Trance Top 1000 (Ibiza Anthems Mini Mix),Carte Blanche (Mix Cut) - FM Edit,55,123937,False,0.601,0.947,10,-9.37,0,0.0316,6.93e-05,0.825,0.351,0.659,140.009,4,trance
+56DeYl4hyvAQzi1CzD17zB,Blank & Jones,Relax Edition 4,Where You Belong - Poolside House Mix,29,426405,False,0.737,0.5,5,-6.447,0,0.0456,0.00831,0.158,0.121,0.724,124.986,4,trance
+57y3XVfjS2DCFnHXQpLtTU,Mandragora;4i20,Mechanics of Travel,No Stick No Stone,35,323621,False,0.499,0.621,9,-8.277,0,0.0624,0.00289,0.672,0.142,0.196,145.005,4,trance
+092KFe88nwvQaXbN5lFmiK,Push,The Sound Of Belgium,Universal Nation,28,614106,False,0.662,0.828,8,-9.513,1,0.0493,0.0562,0.888,0.0958,0.374,138.009,4,trance
+10HL9aeNAgXGTnS31X450v,Deny,El Enemigo,El Enemigo,29,206470,False,0.418,0.94,11,-3.965,0,0.14,0.000307,0.0,0.322,0.506,160.075,4,trance
+7g8dJIEhLLS17rESlJbp1e,Mark 'Oh,90s Charthits,Never Stop That Feeling 2001 - Video Cut,30,214333,False,0.694,0.983,1,-5.012,1,0.0665,0.145,0.977,0.24,0.519,139.97,4,trance
+2wfHc3wJjCeaaB78MlIJ2i,Perplexer,Da Capo,Da Capo - Video Mix,30,249493,False,0.591,0.816,0,-12.801,1,0.0495,0.00123,0.895,0.106,0.162,158.775,4,trance
+4x7F7Pf7ZvDUsgwSfwsAAQ,Jones & Stephenson,Thunderdome Never Dies,The First Rebirth - Remastered Original Mix,29,360800,False,0.511,0.99,3,-7.26,0,0.0588,0.0167,0.967,0.0859,0.211,159.82,4,trance
+64Oj8il1kLO8gFea7VELK8,GXD;Sarah de Warren;DRYM,Black Hole Trance Music 10-22,Hell & High Water - DRYM Extended Remix,1,403478,False,0.477,0.991,1,-7.075,0,0.061,6.5e-05,0.629,0.0964,0.139,138.002,4,trance
+6i4uYhwMOXSvqaMMOiujfv,Dj T.H.;EKE (NL),"Underground Trance Selections, Vol. 11",Crystal Eyes - Extended Mix,0,337500,False,0.553,0.939,6,-5.13,0,0.0382,0.000666,0.495,0.336,0.241,127.985,4,trance
+1CmXnj2xE35kq4gyCm3kLM,NG Rezonance,Hard Trance Workout,Thermite - Mixed Edit,29,305142,False,0.501,0.952,5,-5.027,0,0.0361,4.27e-05,0.846,0.105,0.0376,140.016,4,trance
+2wnoCQPbacTlzLcbTs7KhX,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Equilibrium - Radio Edit,29,138620,False,0.582,0.994,10,-5.548,0,0.242,0.00017,0.895,0.335,0.0393,145.005,4,trance
+2HvV1mmcU6vNrskPrDJ8iP,NG Rezonance;S5,Hard Trance Workout,Daylight - Mix Edit,29,335998,False,0.433,0.978,11,-7.9,0,0.0616,0.000705,0.94,0.0836,0.217,139.994,4,trance
+6WBnpegtgCV8kaPGrAB0AF,NG Rezonance,Hard Trance Workout,Adrenaline - Mix Edit,29,269142,False,0.51,0.994,1,-3.624,0,0.0801,0.00206,0.786,0.369,0.0693,140.037,4,trance
+1JPKHjsECXhTx418zqeU2c,NG Rezonance;PHD,Hard Trance Workout,No Regrets - Mix Edit,29,281142,False,0.466,0.954,1,-5.421,0,0.049,6.7e-05,0.095,0.112,0.0377,139.935,4,trance
+4G58eym5EGj8ZG1qt8DXIx,Something Good;Yotto,Rhythm (Of The Night),Rhythm (Of The Night),49,201621,False,0.534,0.946,10,-6.632,1,0.0383,0.000404,0.698,0.348,0.173,121.951,4,trance
+79Vz5MNH7Qe4F7hPKT8tPz,Tiësto;Stevie Appleton,BLUE,BLUE,59,167858,False,0.744,0.725,11,-6.055,1,0.0303,0.018,9.29e-06,0.212,0.904,118.034,4,trance
+1DZhHGSzZd61Eezn1oICcx,Simon Patterson,Roll the Credits,Roll the Credits,22,460000,False,0.576,0.97,1,-6.115,1,0.0821,0.000354,0.769,0.29,0.352,143.999,4,trance
+7chO7fuXHHB3nZVjEQMXwx,Tiësto;Lucas & Steve,Together Again,Oohla Oohla,51,143280,False,0.694,0.856,10,-4.937,0,0.222,0.00198,0.000189,0.67,0.486,124.923,4,trance
+2YOuBWIyHgyvHnLMpjzBf2,Dario G,Sunchyme,Sunchyme,61,235850,False,0.694,0.977,4,-4.553,1,0.0734,0.0115,0.1,0.0916,0.333,132.994,4,trance
+4ZkFgEWxurnQt1IA2nKL8z,Raz;Henrique Camacho,Vikings,Vikings,43,325962,False,0.5,0.906,5,-5.819,0,0.0698,0.00438,0.359,0.1,0.165,165.073,4,trance
+2KJc0tlouvIy4xwwlp40Hr,Reality Test;Gproject;HYBIT,The Hook,The Hook,30,285217,False,0.587,0.913,11,-2.887,0,0.0451,0.00145,0.9,0.261,0.0487,137.993,4,trance
+3XuCumsigEjMaHQ7PY40Ca,Alexander Popov;Sam Bagira,We Are,We Are,28,213750,False,0.656,0.837,9,-7.155,0,0.0845,0.201,0.00043,0.102,0.263,128.045,4,trance
+2ZDFiYhZUQA7bR6nYCvJ8z,Vegas (Brazil);Aura Vortex,Caixa Magica,Imaginarium - Vegas (Brazil) Remix,46,473610,False,0.673,0.847,0,-7.209,1,0.0412,0.0198,0.792,0.119,0.276,142.014,4,trance
+5PTwd54TX8VWHOD2UgR32f,Electric Universe,Bansuri,Bansuri,42,450206,False,0.512,0.963,8,-4.078,1,0.0509,8.17e-05,0.824,0.22,0.147,144.994,4,trance
+1SgNbJpAzhsWK29YTRr8H2,Space Food,Miracle,Miracle,41,212017,False,0.735,0.718,10,-8.005,0,0.0396,0.0371,0.758,0.0802,0.21,120.007,4,trance
+32aKImKoiukzUxnWENXJXb,W&W;Sandro Silva;Justin Prime,This Is Our Legacy,This Is Our Legacy,52,159404,False,0.669,0.979,7,-2.07,0,0.0997,0.032,0.208,0.293,0.534,128.019,4,trance
+7qK0mNHVdVbnqt3Prd26Vs,Darude;Ashley Wallbridge;Foux;Hixxy,Surrender (The Remixes),Surrender - Hixxy Remix,57,204906,False,0.467,0.965,7,-1.564,1,0.119,0.0155,0.00155,0.116,0.174,164.961,4,trance
+1YddMZzakt7WEZ9y1xGQgR,Dash Berlin,The New Daylight (Radio Versions),Till The Sky Falls Down,56,230146,False,0.663,0.668,3,-7.733,0,0.0479,0.00522,0.0113,0.0689,0.451,131.966,4,trance
+63vjnB6EeQuVf64zLxIo90,Aly & Fila;JES;Space Motion,Summer Sessions 2021,I Won't Let You Fall - Space Motion Extended Remix,36,449032,False,0.693,0.731,2,-8.552,1,0.0438,0.00483,0.543,0.112,0.273,122.987,4,trance
+2frE5dTlla9H4E71bvlQbQ,Orjan Nilsen;Fingerling,The Devil Is In The Detail,1 Like You,48,200129,False,0.579,0.753,7,-3.923,1,0.324,0.0215,0.0,0.365,0.286,127.972,4,trance
+5m7ttxM7WpPZ0VfKKwniPX,Above & Beyond;Richard Bedford;Maor Levi,With Your Hope (Maor Levi Remix),With Your Hope - Maor Levi Remix,47,187663,False,0.609,0.964,10,-4.017,1,0.0931,0.00165,0.018,0.406,0.228,127.969,4,trance
+7BQd7bXMRvyXyoLFpxz0hb,Blind Channel,Balboa,Balboa,49,192489,False,0.38,0.899,7,-3.554,1,0.165,0.00256,0.0,0.0626,0.406,82.828,4,trance
+3qehmGY1DnlBI5W9iFlUhR,Avalon;Tristan;Killerwatts;GMS,Rise The Remixes,We are Psychedelic - GMS Remix,38,427605,False,0.56,0.928,8,-5.797,1,0.0735,0.000142,0.801,0.411,0.425,142.02,4,trance
+1Dls4kcgFCFXuymquHsYG8,Tropical Bleyage,Constant Present,Mala - Original Mix,36,443584,False,0.587,0.818,10,-6.53,0,0.046,0.00677,0.885,0.87,0.234,144.999,4,trance
+0gd6Iz0oD2ROwesoHCKIQ4,Ruben de Ronde;Rodg;Louise Rademakers;Solid Stone,TogetheRR (Remixed),Riptide - Solid Stone Remix,48,259024,False,0.778,0.685,7,-9.616,1,0.042,0.00352,0.775,0.125,0.0974,122.995,4,trance
+2MyrJatlZSOhfgtc8UlNBu,Liquid Soul;Zyce;Solar Kid,"Full On Fluoro, Vol. 3 (Mixed Version)",Anjuna [Mix Cut] - Original Mix,50,279548,False,0.646,0.865,1,-16.545,1,0.0559,0.00165,0.816,0.0754,0.0396,137.437,4,trance
+6bmygzEpGwj7YFiDwRs0QJ,Almanac,Treino 2022 - Músicas para Malhar,Sarrinho,29,167041,False,0.811,0.692,2,-5.905,1,0.0482,0.024,0.179,0.556,0.435,125.004,4,trance
+1715OLhgEevHoE6bvfARzg,Imperio,Best of Imperio,Amor Infinitus - Single Version,30,294798,False,0.649,0.82,8,-10.769,0,0.0414,0.00169,0.0199,0.133,0.239,166.0,4,trance
+1xlv5OjWJPO5WGDhv72NOj,NG Rezonance;PHD,Hard Trance Workout,Hidden - Mix Edit,29,329142,False,0.501,0.994,1,-4.973,1,0.0564,0.00274,0.843,0.0953,0.465,140.017,4,trance
+4qbVmHAR2ldYQmS8KopbPR,NG Rezonance;PHD,Hard Trance Workout,Forgotten - Mix Cut,29,267428,False,0.477,0.992,8,-7.612,1,0.0525,0.000722,0.901,0.133,0.419,139.988,4,trance
+17gDUHYrKUwKnqpBaflc7Y,NG Rezonance;Peter Berry,Hard Trance Workout,How Hard Is Your Trance - Mix Edit,29,329142,False,0.472,0.999,9,-6.057,1,0.0716,0.000273,0.882,0.091,0.107,140.005,4,trance
+120Tni2Xm0XoIvGt0o8NYD,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Enigma - Radio Edit,29,134285,False,0.439,0.972,4,-3.378,0,0.0618,0.000141,0.913,0.0986,0.182,146.98,4,trance
+7ovBMy5H4MINAeXD0rUJSQ,NG Rezonance;S5,Hard Trance Workout,Eternity - Mix Edit,29,267428,False,0.387,0.993,5,-6.306,0,0.053,0.000129,0.888,0.0935,0.0807,140.022,4,trance
+2lX2gtkLVsaLxQ8MqSADtM,NG Rezonance,Hard Trance Workout,Resurgence - Mix Edit,29,270857,False,0.462,0.947,6,-8.183,0,0.05,6.29e-05,0.89,0.176,0.135,140.003,4,trance
+7DdYDHW8wX2EVrAI348nFj,NG Rezonance;S5,Hard Trance Workout,Reflection - Mix Edit,29,325714,False,0.455,0.934,11,-7.826,0,0.0516,0.00311,0.939,0.109,0.0393,139.996,4,trance
+7oXeg01xj3djNz0PisDWXd,NG Rezonance;PHD,Hard Trance Workout,Salvation - Mix Edit,29,329142,False,0.455,0.992,2,-5.494,1,0.0402,9.91e-05,0.926,0.0824,0.331,139.999,4,trance
+4J0t5MTjdeVpNM65Gwq659,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Genesis - Radio Edit,29,154400,False,0.444,0.939,6,-5.367,0,0.0476,0.000607,0.928,0.314,0.0398,150.006,4,trance
+00XqpAvp16qJ27mCTKFmYA,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Life - Radio Edit,29,168428,False,0.665,0.944,10,-6.394,0,0.0503,3.05e-05,0.221,0.0408,0.508,140.012,4,trance
+6Hc8lMLA2xnQm9IceDa9MH,NG Rezonance;Matt Draper,Hard Trance Workout,Tranquillity - Mix Edit,29,349714,False,0.457,0.964,0,-8.947,1,0.0808,0.000276,0.956,0.0994,0.0569,139.979,4,trance
+3Msrp56q1eTLQaZFX06Qp3,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Lockdown - Radio Edit,29,195857,False,0.477,0.989,1,-5.541,1,0.043,8.65e-05,0.849,0.143,0.522,140.036,4,trance
+5VORHKuWtUrxW7GciRNdeq,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Inversion - Radio Edit,29,132000,False,0.392,0.985,11,-5.151,0,0.0478,0.000632,0.955,0.0686,0.201,150.025,4,trance
+5XhWk9gAvL5e6km50aedqQ,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Infamous - Radio Edit,29,126206,False,0.634,0.948,0,-5.461,1,0.0602,0.0218,0.204,0.675,0.0338,144.912,4,trance
+4HKz3oUGYWMtyh3pJWcGH6,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Nemesis - Radio Edit,29,138000,False,0.503,0.936,11,-5.644,0,0.0441,0.000114,0.912,0.244,0.428,149.981,4,trance
+0UgievjjcbopXpT4ioO1zk,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Memento - Radio Edit,29,206142,False,0.455,0.977,10,-6.336,0,0.0561,1.36e-05,0.876,0.23,0.0812,139.952,4,trance
+1ZHCb2rhR6O8VQPgQYuIBw,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Parallax - 155 Radio Edit,29,162967,False,0.367,0.989,10,-4.865,0,0.0945,0.000634,0.953,0.1,0.0579,155.041,4,trance
+20O8KGqLW4GCw7ZvVHmr4s,NG Rezonance;PHD,Hard Trance Workout,Imaginarium - Mix Edit,29,342857,False,0.478,0.947,7,-7.206,0,0.035,0.000311,0.938,0.179,0.179,139.969,4,trance
+2SdJPnZ1gpN6H0s6HIDf8q,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Odysseus - 155 Radio Edit,29,164129,False,0.402,0.954,6,-5.067,0,0.0927,0.000191,0.839,0.254,0.0383,155.038,4,trance
+0I68a0g4naHlFcdXMyDWkW,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Liberation - Radio Edit,29,168352,False,0.479,0.96,9,-5.418,0,0.0557,0.000595,0.957,0.229,0.038,169.998,4,trance
+3LNBwCPuBbL2oz8KMzROpF,NG Rezonance;Avaxx,Hard Trance Workout,Thirium - NG Rezonance Mix Edit,29,183428,False,0.236,0.946,5,-7.077,0,0.0586,0.00328,0.632,0.189,0.174,139.85,4,trance
+3tfga0DJ46WbGdQJjaqcq2,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Liberation - 155 Radio Edit,29,127354,False,0.481,0.988,9,-5.331,0,0.204,0.0182,0.967,0.119,0.12,154.998,4,trance
+3bfL531R4KO1u7dtzeRweH,NG Rezonance,"Syncopy Radio Edits, Vol. 2",Adrenaline - Instrumental Radio Edit,29,162857,False,0.526,0.989,1,-6.353,0,0.091,0.0103,0.88,0.15,0.0388,140.039,4,trance
+4tXaZUDEwnWun6g4DteKtf,NG Rezonance,Hard Trance Workout,Drop Set - Mix Edit,29,286285,False,0.44,0.982,11,-8.144,1,0.0529,0.000689,0.93,0.157,0.24,139.944,4,trance
+289jf87DPQP96vSnTaivuv,NG Rezonance;PHD;Peter Berry,Hard Trance Workout,Envisage - Peter Berry Remix Edit,29,212571,False,0.432,0.936,3,-8.084,0,0.0579,0.00378,0.906,0.116,0.178,140.005,4,trance
+5fN6GTHOitOSazlodWJbAB,NG Rezonance;Venetica,Hard Trance Workout,Point Pleasant - Mix Edit,29,301714,False,0.384,0.989,6,-8.758,0,0.0555,0.00231,0.921,0.117,0.0943,139.99,4,trance
+4K6cLLpCAIsDzFlBycfkde,Sesto Sento,La Españolita,My Trip To Fantasy - Mandragora Remix,38,321176,False,0.718,0.583,10,-8.11,1,0.0503,0.0162,0.858,0.261,0.438,136.003,4,trance
+6ykdXpEG7cTSOfRSBv1ROA,Breathe Carolina;Robert Falcon;Conor Maynard,IF U,IF U,41,159818,False,0.617,0.762,11,-5.061,0,0.0414,0.0364,0.0,0.235,0.39,109.959,4,trance
+3nbnyZb8F60d9vHLm8RX9N,Seven Lions;Ellie Goulding,Don't Leave,Don’t Leave,50,169106,False,0.523,0.716,11,-5.861,1,0.0355,0.0045,0.000669,0.299,0.386,131.972,4,trance
+0YAngMtTaCX3f62yxJwiq9,Mandragora,Disc 2,Special Treatment,34,259558,False,0.658,0.702,7,-7.454,0,0.0331,0.247,0.287,0.189,0.173,93.048,4,trance
+0CftBgYTVQ2pxfsMDraezu,Hi Profile,Live at Tomorrowland 2022 (Highlights),The Ghost (Mixed),40,73030,False,0.437,0.977,2,-7.099,1,0.0694,2.6e-05,0.586,0.493,0.134,138.017,4,trance
+6DC1ZXYmB7gVSwnGDn426N,Interactive Noise,The 1001 Nights,Ali Baba,25,405547,False,0.693,0.904,6,-5.365,0,0.0619,0.0123,0.896,0.093,0.122,138.038,4,trance
+4wkUa6PiswVtAwak37I1zC,Tiësto,I’ll Take You High,I’ll Take You High,50,172500,False,0.66,0.953,8,-5.25,0,0.0782,0.000508,0.0436,0.605,0.118,127.958,4,trance
+6YYlDwGwQvWIePrUk42Pxi,Tiësto;Hardwell;Matthew Koma,A Town Called Paradise,Written In Reverse,43,268267,False,0.473,0.765,1,-3.427,0,0.048,0.00446,1.53e-06,0.072,0.271,129.989,4,trance
+7zx2Nb2BTMOFelkvb4nNPB,Dash Berlin;Syzz,We Are (Part 2),This Is Who We Are,42,186587,False,0.529,0.704,5,-2.691,0,0.0411,0.00486,0.0,0.646,0.267,124.228,4,trance
+64xXJHoaNRJ9yXIXrubb0t,Vini Vici;Omiki,In the Middle,In the Middle,42,186086,False,0.497,0.882,10,-7.217,0,0.0504,0.00852,0.0353,0.12,0.0636,137.902,4,trance
+4tGJ68OwrbEobOLzyqsv1V,Dead by April,Dead by April,What Can I Say,48,188173,False,0.472,0.969,10,-4.587,0,0.0573,0.00176,0.0,0.15,0.649,84.982,4,trance
+0nJu3is8rdbac8Lk04XgBJ,Vini Vici;Pawan Nair,11:11,11:11,45,393529,False,0.532,0.921,1,-7.104,1,0.0372,0.000956,0.887,0.19,0.0411,136.014,4,trance
+27nGU2v3syK7aU3AVY2vUO,Cosmic Gate;Nathan Nicholson,Follow You Anywhere,Follow You Anywhere,45,244982,False,0.581,0.869,1,-6.7,0,0.0423,0.0564,0.0789,0.0792,0.0389,123.982,4,trance
+0Yezswq6lOGq176qw681FI,Vini Vici;Pixel,Future Classics,Anything & Everything,38,445216,False,0.444,0.802,7,-9.4,1,0.0533,0.00953,0.777,0.34,0.0597,138.0,4,trance
+294bZQoJEueD2ys3wrNDmI,Rank 1,Airwave,Airwave - Radio Vocal Edit,53,179800,False,0.511,0.793,2,-11.87,0,0.0285,0.000563,0.826,0.123,0.233,136.067,4,trance
+1qHFwPyMr2ZQwoVQrlucjF,Liquid Soul;Suduaya,Remixes EP,Devotion - Suduaya Remix,39,384444,False,0.464,0.855,9,-8.527,0,0.0358,0.0301,0.918,0.133,0.157,134.958,4,trance
+41idbhuTXkbe1fAa2rIEXx,Hilight Tribe,Legacy,Legacy,34,202000,False,0.755,0.931,11,-6.406,0,0.041,0.000264,0.9,0.15,0.416,147.004,4,trance
+3Ak6t93rQhbgjSsaNwxwoq,Tiësto;SWACQ,Together,Party Time,50,166560,False,0.635,0.878,0,-4.753,1,0.07,0.0103,0.538,0.338,0.414,125.002,4,trance
+3QjUQpn6qb3MybBsoaSPwD,Allen Watts,Shadows,Shadows,42,223152,False,0.329,0.997,0,-5.475,0,0.0663,0.00176,0.976,0.724,0.255,137.955,4,trance
+1FzbOPWCZiNxnLjAhY1jAR,Armin van Buuren;Sharon Den Adel,In And Out of Love,In And Out Of Love,49,181680,False,0.526,0.705,5,-6.777,0,0.0301,0.067,6.4e-05,0.125,0.413,134.947,4,trance
+63vjnB6EeQuVf64zLxIo90,Aly & Fila;JES;Space Motion,Summer Sessions 2021,I Won't Let You Fall - Space Motion Extended Remix,36,449032,False,0.693,0.731,2,-8.552,1,0.0438,0.00483,0.543,0.112,0.273,122.987,4,trance
+54Vyt2gufmJpaFNOmKP6Jo,Gareth Emery;Annabel,Breathe,Breathe,50,197561,False,0.507,0.513,6,-10.323,1,0.0312,0.0935,0.0932,0.0981,0.216,130.043,4,trance
+4jui0fclpOBF9zf0CuuwNU,Avancada;Darius & Finlay;Yoel Lewis,Xplode (Graham Bell & Yoel Lewis Remix),Xplode - Graham Bell & Yoel Lewis Remix,47,139523,False,0.589,0.923,3,-3.065,0,0.0456,0.00133,0.881,0.355,0.205,130.969,4,trance
+7JP8lWYrxpA8luKU8IPd3Y,Asking Alexandria,See What’s On The Inside,Alone Again,56,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,trance
+6ShcmN8c6rQjA27t0X8MBB,Synergetic Emotion;Who Knows?,Sleep Talking,Sleep Talking,34,281142,False,0.674,0.684,1,-8.168,1,0.0401,0.00922,0.532,0.11,0.149,140.014,4,trance
+7E25uFkj24ZY9V4YI5o1qK,Digicult;U-Recken,The Lucid Nation,Into The Heartland - Original Mix,27,401510,False,0.547,0.929,9,-5.232,0,0.0378,0.000465,0.802,0.105,0.292,144.025,4,trance
+4aUloVufmSiVD7mcvTJWQV,Miroslav Vrlik,Let It Be,Let It Be - Radio Edit,27,179130,False,0.414,0.993,7,-5.047,1,0.0588,0.01,0.841,0.266,0.165,138.0,4,trance
+1Pe3Tnahd3nNcKrTvNvNvW,Armin van Buuren,Balance,Million Voices,41,187150,False,0.466,0.869,3,-4.275,1,0.0529,0.0142,0.00241,0.115,0.185,126.113,4,trance
+0pMqxVqhkyRGPeeNqgsLS8,Tritonal;Eric Lumiere,Live In The Sky (Original + Steve Brian Remix),Live In The Sky,25,218536,False,0.61,0.88,4,-5.157,1,0.0361,0.00189,0.00249,0.23,0.493,121.952,4,trance
+7DVpVWuhf70KsaxZ7VmJbS,Armin van Buuren;Davina Michelle;Madwave,ASOT 1058 - A State Of Trance Episode 1058,Hold On (ASOT 1058) - Madwave Remix,40,225920,False,0.504,0.962,10,-8.206,1,0.0793,0.000186,0.495,0.342,0.179,136.007,4,trance
+0tWAGWvw3WWySN5fXfW1jO,Tritonal;Eric Lumiere;Steve Brian,Live In The Sky (Original + Steve Brian Remix),Live In The Sky - Steve Brian Extended Remix,19,373452,False,0.67,0.698,11,-7.122,1,0.0438,0.00147,0.577,0.0617,0.55,125.987,4,trance
+5VVaoVH3Hj0PlhzifnQuAy,Tritonal,Tritonia 399,"Tritonia (Tritonia 399) - Coming Up, Pt. 3",22,30474,False,0.776,0.755,4,-9.867,0,0.0668,0.029,0.000123,0.65,0.853,126.011,4,trance
+1XK0SrwnujLMZv22WjVQU9,Electric Callboy,TEKKNO,Tekkno Train,65,177626,False,0.538,0.87,8,-7.739,0,0.0533,0.000123,8.56e-06,0.155,0.541,145.02,4,trance
+0XRbPt9t2YgAYE0bggT783,Mandragora;4i20,Mechanics of Travel,Evil Away,36,232980,False,0.637,0.692,0,-7.99,1,0.065,0.018,0.209,0.187,0.157,180.013,4,trance
+3GKa3RctO1YHniUDerjAij,Tritonal,Tritonia 399,"Tritonia (Tritonia 399) - Coming Up, Pt. 1",22,37533,False,0.852,0.684,1,-12.282,1,0.349,0.0124,0.0,0.122,0.48,125.93,3,trance
+2BVCjTA33G3ILpvx0J7ODw,Tritonal,Tritonia 399,"Tritonia (Tritonia 399) - Coming Up, Pt. 2",23,30474,False,0.5,0.922,6,-6.575,1,0.107,0.0389,3.28e-05,0.555,0.715,126.027,3,trance
+6geGwNtsM2riKL4okOcYwW,Rodrigo Deem,Tritonia 399,Deem Theatre (Tritonia 399),25,182850,False,0.58,0.853,7,-10.207,1,0.0532,0.11,0.965,0.292,0.0686,125.973,4,trance
+6laq4MxNrh2ZKZGLhB7G0V,Steve Brian;Christian Carcamo,Wanderlust,Wait For Me,49,217142,False,0.465,0.739,10,-7.786,1,0.0648,0.00987,1.88e-06,0.373,0.0652,125.994,4,trance
+1Wt8OoQoQ2DsoPHs0TdOHn,Seven Lions;Vancouver Sleep Clinic,Beyond The Veil,Call On Me (feat. Vancouver Sleep Clinic),8,293122,False,0.323,0.698,2,-5.498,1,0.0449,0.0801,0.0,0.122,0.105,145.987,4,trance
+7M44kAX5Li4d3uPhTopygZ,Blind Channel,Blood Brothers,Scream,28,199295,False,0.664,0.832,2,-6.093,0,0.0521,0.000844,0.0,0.137,0.419,140.02,4,trance
+3JWKsOFco8bXX5HEQcpVg9,NG Rezonance;Costa Pantazis,Giga Shadow,Giga Shadow - Radio Edit,29,200571,False,0.476,0.996,1,-1.695,1,0.14,0.00189,0.262,0.355,0.308,140.029,4,trance
+7AoQay4gO0sdMUi641ghSH,NG Rezonance;Begbie,"Syncopy Radio Edits, Vol. 1",Motherfucker - Radio Edit,28,209600,True,0.571,0.987,9,-6.321,1,0.0525,3.62e-05,0.839,0.0389,0.402,150.03,4,trance
+06g9DdwqtCC6qNAqbFPz1K,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Adagio - Radio Edit,28,207724,False,0.404,0.967,1,-5.618,1,0.0659,0.000369,0.893,0.237,0.0438,144.969,4,trance
+3nXC43q7wAOAWBA18iAAlV,NG Rezonance;Avaxx,"Syncopy Radio Edits, Vol. 1",Hyperion - Radio Edit,28,191739,False,0.448,0.99,7,-5.93,0,0.0711,0.0255,0.725,0.233,0.0341,138.002,4,trance
+1T7Yv49uxGhwMIbo105HRC,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Android - Radio Edit,28,162739,False,0.455,0.995,1,-4.646,1,0.104,0.000508,0.862,0.0317,0.295,146.004,4,trance
+45qkjz1abvvi11Qz1Rjd1k,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Adagio - 140 Radio Edit,28,215142,False,0.462,0.951,1,-5.783,0,0.0455,0.00025,0.93,0.174,0.051,139.971,4,trance
+6AkTMQgaGTbwfyTiANDVYq,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Deception - Radio Edit,28,160551,False,0.476,0.999,9,-1.313,0,0.127,0.00312,0.934,0.205,0.298,144.959,4,trance
+7qMFw62zGbJy6uHERqZFjr,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Born Bad - Radio Edit,28,148965,True,0.546,0.999,4,-7.631,1,0.0928,0.00163,0.222,0.845,0.416,144.999,4,trance
+6Z9VVmXtcO9xNPuZT5LEVQ,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Collision - Radio Edit,28,145945,False,0.516,0.995,3,-4.359,0,0.0665,0.00193,0.9,0.204,0.631,145.003,4,trance
+5e4lB4UhS1lR9hOOLDqG3u,NG Rezonance;S5,"Syncopy Radio Edits, Vol. 1",Eternity - Radio Edit,28,132000,False,0.384,0.994,1,-6.39,1,0.0576,0.00546,0.933,0.286,0.165,139.996,4,trance
+7d0rDNu6YGNXLgcv2BiNw3,Frogg,Feche Os Olhos,Feche Os Olhos,23,397714,False,0.657,0.749,11,-5.346,1,0.103,0.0031,0.645,0.324,0.109,139.982,4,trance
+2LUaTRzLQ0LxX8l6xcBZ34,Above & Beyond;Gemma Hayes,We Are All We Need,Counting Down The Days,43,288613,False,0.623,0.681,1,-8.272,1,0.0364,0.177,0.0376,0.11,0.237,127.988,4,trance
+2GlBzXw3XQmsHhargtOKi8,D-Formation;Saccao,Ares Hera,Ares,40,284160,False,0.721,0.915,8,-9.652,0,0.0367,0.00043,0.878,0.1,0.0383,125.006,4,trance
+4iZMmS1vpXOoxlBTCFquSD,Mandragora;Devochka;Tripo,Aladin Remixes,Aladin - Tripo Remix,21,338321,False,0.669,0.678,9,-6.929,1,0.0764,0.000686,0.831,0.425,0.0354,140.053,4,trance
+1pvm2RwPMaEqiSgjcyyuXc,Astrix,Artcore,Sex Style,34,410880,False,0.583,0.821,5,-6.576,0,0.0571,0.00348,0.918,0.352,0.244,143.02,4,trance
+6CFItAJCYVyqIFtXFJqKML,Phaxe,Leyenda,Leyenda,39,399698,False,0.774,0.87,4,-6.815,0,0.0541,0.00832,0.832,0.1,0.0354,103.491,4,trance
+7nudwi49ZHlgt6AtNNgVnJ,Tritonal;HALIENE;SCHALA;Jorza,Tritonia 400,Long Way Home (Tritonia 400),17,304390,False,0.584,0.77,11,-3.514,0,0.0644,0.0113,3.39e-05,0.418,0.411,129.913,4,trance
+497k4sQ2fYCqx7LvMzu7jI,16BL,Deep House Essentials #005 - Armada Music (Mixed Version),Got This Feeling [Mix Cut] - Original Mix,47,290034,False,0.599,0.541,2,-9.65,0,0.0284,0.0545,0.927,0.216,0.0819,120.712,4,trance
+45R2HdRQDcp3orCRJJ8daH,Avalon;Azax,Universal,Universal - Extended Mix,27,415000,False,0.561,0.814,6,-7.041,1,0.0464,0.00153,0.73,0.22,0.054,144.002,4,trance
+5bKi7jdLo6lJ3wpIzItNS0,1200 Micrograms,Remix It,"Merijuana - Cortex, Didrapest Remix Part 2",34,384738,False,0.651,0.922,10,-6.387,0,0.0802,0.00206,0.53,0.258,0.379,145.019,4,trance
+1CLsyhuaEWQCfaf93m9736,Deeparture;UOAK;Rubenson,Parachute,Parachute,46,209256,False,0.632,0.622,9,-10.958,0,0.0417,0.199,0.663,0.116,0.106,120.995,4,trance
+2ji53kdnw4UtV6PIt94MLq,Tritonal;Henry Dark,Tritonia 400,Shivohum (Tritonia 400),1,247032,False,0.485,0.911,5,-3.887,0,0.0501,0.00558,0.00106,0.164,0.11,128.04,4,trance
+2wER3gVMMIWPusxOjoWlcQ,Oliver Smith,Warehouse,Warehouse,42,246996,False,0.554,0.8,0,-6.059,0,0.0299,0.00696,0.00467,0.0817,0.244,127.977,4,trance
+2kp6AKfu0JauDqwqTBSSVP,Symphonix,Aware,Aware,47,234000,False,0.823,0.75,2,-7.828,1,0.0643,0.0133,0.415,0.451,0.12,140.032,4,trance
+25ysC9uw0bpwgcxOhnrwjk,Tritonal,Tritonia 400,Adelphi '88 (Tritonia 400),1,316091,False,0.543,0.97,9,-6.097,0,0.0386,0.00195,0.833,0.102,0.126,122.981,4,trance
+3TNUCQeXAALQrTw7ANSEoB,Tritonal;EMME,Tritonia 400,Out Of The Dark (Tritonia 400),1,450735,False,0.565,0.958,2,-5.341,1,0.0637,0.00375,0.522,0.709,0.0762,122.975,4,trance
+0P2HpJnPusLZ01iBlPG2HR,Tritonal,Tritonia 400,Waterboiler (Tritonia 400),1,343408,False,0.373,0.961,2,-3.893,1,0.0573,0.0927,0.768,0.864,0.0744,122.999,4,trance
+2DibTL74jfWYk7BSak9lkd,Yuri Kane,Right Back,Right Back,48,189945,False,0.59,0.708,4,-8.458,0,0.0301,0.00287,0.000792,0.428,0.235,129.942,4,trance
+0BkfeemCDp8WmuKVnrwBaN,Tritonal;Brigetta,Tritonia 400,Born Yesterday (Tritonia 400),1,419355,False,0.571,0.91,8,-4.136,1,0.0963,0.247,0.0671,0.0847,0.176,129.932,4,trance
+4YsKbWkeQD3SoKVhbJ5fPu,Tritonal;Rosie Darling,Tritonia 400,Never Be The Same (Tritonia 400),1,318742,False,0.525,0.917,4,-4.529,1,0.0573,0.00382,4.66e-05,0.357,0.353,127.989,4,trance
+4zBXE3hymk2qz1LIk9Swph,Tritonal;Eric Lumiere,Tritonia 400,Something Beautiful (Tritonia 400),1,368870,False,0.493,0.9,2,-6.563,1,0.0356,0.000296,0.569,0.804,0.116,127.968,4,trance
+5QyuuDwAXgw5HVanpJQHSi,Astrix;Antinomy,Remixes,Acid Rocker - Antinomy Remix,35,485070,False,0.6,0.932,7,-6.047,1,0.0803,0.00244,0.848,0.115,0.233,142.014,4,trance
+35UWbzEKncOdB4Wwe9GaBt,Roger Shah;Sian Evans,Hide U (Jerome Isma-Ae 2022 Remix),Hide U - Jerome Isma-Ae 2022 Remix,45,253548,False,0.628,0.839,0,-8.011,1,0.0481,0.0015,0.497,0.0644,0.156,124.002,4,trance
+0S6npsazTIPiXfhlyg9yNx,Infected Mushroom,Legend of the Black Shawarma,Saeed,47,423720,False,0.568,0.846,5,-5.565,0,0.0691,0.00531,0.416,0.128,0.337,145.02,4,trance
+6zJob7NjhfptpxyO0SgTyu,Tritonal;Codeko;Seven Lions;SLANDER;Dabin;Dylam Matthew,Tritonia 400,Superhuman / First Time (Tritonia 400) - Tritonal Mashup,1,273772,False,0.566,0.69,11,-7.614,1,0.0421,0.0269,0.0015,0.85,0.163,128.0,4,trance
+2aWKb2LbwbdMQtwr7ogAE6,Gareth Emery,Dopex,Dopex,47,236687,False,0.27,0.703,2,-12.63,0,0.0408,0.0684,0.93,0.16,0.205,125.002,4,trance
+1hChLdk0hBQbapbpVUVlNa,Ayla,Nirwana,Ayla Pt. 2,56,199674,False,0.694,0.893,0,-8.758,0,0.0444,0.108,0.97,0.136,0.269,137.933,4,trance
+0teJO13Uua0AamcZ681qOd,Tiësto;Jonas Blue;Rita Ora,The London Sessions,Ritual,45,198995,False,0.647,0.726,3,-4.389,0,0.0552,0.157,0.0,0.0844,0.769,114.998,4,trance
+1UrslSwLauA5DZMDonlIGc,Antillas;Fiora,Human Frames,Damaged,48,197786,False,0.583,0.693,11,-4.819,0,0.0605,0.05,0.0,0.205,0.392,130.157,4,trance
+1c6j6uYwk6DwuqwFAzetz2,1200 Micrograms,Heroes of The Imagination,Acid For Nothing - Original Mix,41,480640,False,0.582,0.951,7,-7.367,1,0.0477,0.00138,0.709,0.57,0.259,146.009,4,trance
+7dzI7FiaWeCOWLOdKFWkKN,Vincent de Moor;KhoMha,Fly Away (KhoMha Remix),Fly Away - KhoMha Remix,49,169571,False,0.503,0.96,5,-7.821,0,0.0479,0.00136,0.898,0.101,0.102,128.032,4,trance
+34EP6EwyXIbZLfgHFvkkDK,Miroslav Vrlik,Blacklight,Blacklight - Radio Edit,27,161156,False,0.434,0.997,0,-6.278,0,0.09,0.0207,0.913,0.667,0.0948,140.013,4,trance
+5KwlmRXv01tbQ7p4H8hajy,Miroslav Vrlik,Heartbeat,Heartbeat - Radio Edit,27,206584,False,0.45,0.975,4,-4.913,0,0.0353,0.0724,0.917,0.354,0.401,140.003,4,trance
+2kZUyX4QxigPHwCGcTPZb0,Miroslav Vrlik,Genesis,Genesis - Radio Edit,27,184352,False,0.5,0.996,6,-5.516,1,0.1,0.00676,0.927,0.761,0.116,137.922,4,trance
+6GdePdISO2BpRQhIF8TUvm,Ghost Town,Party in the Graveyard,Skeleton - 2013 Remaster,28,223173,True,0.552,0.85,0,-5.944,1,0.0431,0.106,0.0,0.52,0.624,124.991,4,trance
+0XUhKhyPTLA3jEm3jLCanp,F.G. Noise;Costa Pantazis,Bergen Street,Bergen Street - Radio Edit,29,220000,False,0.188,0.991,7,-6.503,1,0.0917,0.00161,0.875,0.575,0.178,137.991,4,trance
+2vICdcAEc10WfqMeRxOF1I,Blind Channel,Lifestyles of the Sick & Dangerous,Dark Side,59,177789,False,0.566,0.954,7,-3.786,1,0.0938,0.00208,2.1e-06,0.29,0.441,98.006,4,trance
+4oxViCKTqGIgJo4u6dttOC,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Riff Raff - Radio Edit,28,222985,False,0.496,0.918,7,-9.617,1,0.0394,0.000125,0.895,0.267,0.174,134.004,4,trance
+7rXDcLZpYYCJ4oCeTZKmLI,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Adrenaline - Radio Edit,28,162857,False,0.359,0.982,1,-4.785,0,0.0989,0.0237,0.899,0.203,0.149,139.995,4,trance
+4XSurlkVQNUYYFTXDuSjAr,NG Rezonance;Alex Wright,Sinners,Sinners - Alex Wright Remix Edit,28,190299,False,0.293,0.955,4,-6.279,0,0.132,0.018,0.895,0.309,0.219,139.942,4,trance
+5INYQIy7OzwoN4Ww5dx4Zl,NG Rezonance;Costa Pantazis,Prometheus,Prometheus - Costa Pantazis Remix Edit,28,200665,False,0.473,0.863,7,-3.536,0,0.0769,0.0148,0.104,0.376,0.483,139.925,4,trance
+0y2Xy0fXdFYLrigUkFk79S,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Defiance - Radio Edit,28,215172,False,0.44,0.99,11,-5.216,0,0.0747,7.51e-05,0.898,0.118,0.284,144.979,4,trance
+6gPHZwi0wYGSMoM0GqwNlq,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Resurgence - Radio Edit,28,165428,False,0.464,0.963,8,-7.409,0,0.0715,0.000128,0.946,0.0463,0.0938,139.975,4,trance
+2EymjANc9mlIiWxFQTECrq,NG Rezonance;S5,"Syncopy Radio Edits, Vol. 1",Daylight - Radio Edit,28,192000,False,0.367,0.987,7,-7.395,0,0.0644,0.0325,0.978,0.119,0.11,139.98,4,trance
+3B3eQO2U5mWSO8HXfdWumg,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Drop Set - Radio Edit,28,159428,False,0.39,0.992,4,-7.631,0,0.0742,0.00647,0.981,0.101,0.37,139.956,4,trance
+7sLknEg8aVr0m5ZuCja7b3,NG Rezonance;PHD,"Syncopy Radio Edits, Vol. 1",Divergence - Radio Edit,28,185142,False,0.148,0.993,0,-7.696,0,0.0922,0.0097,0.937,0.0376,0.0928,140.001,4,trance
+6veycwSGozeHSFQ6fbr5dC,NG Rezonance;PHD,"Syncopy Radio Edits, Vol. 1",Forgotten - Radio Edit,28,193714,False,0.504,0.985,8,-7.305,1,0.0504,0.00081,0.922,0.125,0.383,139.978,4,trance
+0MLEzWJQcRkc5IMAqucPbV,NG Rezonance;Begbie,"Syncopy Radio Edits, Vol. 1",Feel The Panic - Radio Edit,28,209600,False,0.474,0.995,6,-4.265,1,0.0979,0.000166,0.369,0.15,0.0634,150.002,4,trance
+0cRNPYxzXLNLQd1g4kKYS6,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Fate - Instrumental Radio Edit,28,134800,False,0.416,0.981,9,-3.653,0,0.0943,7.87e-05,0.928,0.187,0.0662,150.054,3,trance
+2dDE3WCSj2cELFYO1IfECD,NG Rezonance,"Syncopy Radio Edits, Vol. 1",Deception - NG Rezonance 2013 Radio Edit,28,162206,False,0.469,0.987,9,-5.525,0,0.0796,5.49e-05,0.932,0.308,0.243,145.0,4,trance

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2nLeVfLE8t3hzHhXkZ6Ez2,Serhat Durmus,La Câlin,La Câlin,67,172008,False,0.598,0.439,2,-10.987,1,0.0429,0.0879,0.868,0.103,0.0673,147.84,4,turkish
+1acHg5hL2dLV7Zo2tBWSj5,Lil Zey;Kozmos,Viral Şarkılar,Eskisi Gibi,0,186461,True,0.802,0.592,1,-7.495,0,0.12,0.629,0.0058,0.09,0.665,129.899,4,turkish
+21monEVgRlouZOarTXChkL,Serhat Durmus,Gesi Bağları,Gesi Bağları,51,215973,False,0.59,0.46,5,-11.046,0,0.0271,0.0396,0.121,0.134,0.0392,100.987,4,turkish
+1NpNY2V9pyCZW2xPbkcQaM,Serhat Durmus;Ecem Telli,Yalan,Yalan,53,201775,False,0.58,0.525,3,-10.873,0,0.0363,0.00695,0.0509,0.0759,0.0925,112.991,4,turkish
+7uYyhUnxIsSF2LMWUpLs5V,Ilkay Sencan,Do It,Do It,52,210146,True,0.795,0.874,1,-3.502,1,0.0506,0.0812,0.0906,0.065,0.2,108.001,4,turkish
+4a1WLOoydq7u011UG9jjC9,UZI,Kan,Krvn,66,171880,True,0.966,0.582,8,-6.225,1,0.0837,0.138,1.92e-05,0.112,0.186,115.05,4,turkish
+7w749aVZCoiZZwxhMLslw5,Serhat Durmus;Mazlum Uruc,Duhan,Duhan,47,177272,False,0.42,0.681,5,-8.029,0,0.176,0.0768,0.00016,0.171,0.0898,193.928,4,turkish
+294KvzBHtUO0nmbPS5uhJU,Lil Zey;Kozmos,Best Viral Tunes,Eskisi Gibi,0,186461,True,0.802,0.592,1,-7.495,0,0.12,0.629,0.0058,0.09,0.665,129.899,4,turkish
+4OgwXdylh75fHfwUzJTUqg,Ilkay Sencan;Dynoro,Rockstar,Rockstar,70,212280,False,0.771,0.826,11,-3.978,1,0.0604,0.142,0.03,0.145,0.185,100.012,4,turkish
+0UC22lRMZdf2dUoWMcdwwS,Serhat Durmus;BÖ,Shaman,Shaman,43,202909,False,0.629,0.679,11,-8.169,1,0.0581,0.022,0.0518,0.371,0.0989,109.841,4,turkish
+4I2WkgpBY4OtFTqH2jRBqq,Serhat Durmus;Georgia Ku,My Feelings,My Feelings,61,207692,False,0.612,0.542,1,-6.916,0,0.0632,0.381,0.000565,0.0977,0.0745,129.773,4,turkish
+0DMzkDvrWz7GaTNf3257uZ,Serhat Durmus,ME and U,Mirror,53,183199,False,0.476,0.473,0,-8.555,0,0.0397,0.397,7.09e-06,0.0858,0.155,76.171,4,turkish
+5qYuO20KldSxvWQrJCbyM7,Serhat Durmus;Melanie Fontana,Arres,Arres,54,167625,False,0.532,0.56,2,-5.452,0,0.0275,0.246,0.000169,0.127,0.131,79.961,4,turkish
+3D3mz2uMaOmxjlLp9yjW1h,Şam;No.1;Seda Erciyes,P.O.P Mixtape pt.2,POP,50,155384,False,0.682,0.532,9,-7.945,0,0.291,0.172,1.05e-06,0.0699,0.56,77.989,4,turkish
+6KKskhz8aQU9uR8n1SjQFY,DJ Kantik,Our Streets,Our Streets,44,262654,False,0.812,0.598,11,-7.325,0,0.0705,0.0205,0.837,0.335,0.521,103.0,4,turkish
+0uTEaevJy8TUD8MgzuEOc5,Arem Ozguc;Arman Aydin;Jordan Rys,Astronaut In The Ocean,Astronaut In The Ocean,68,156205,False,0.712,0.867,4,-5.623,0,0.0581,0.0134,0.00939,0.196,0.544,126.005,4,turkish
+0RTqRMNHselkQSCxbnsGYz,Armağan Oruç,Gun Double,Gun Double,51,168638,False,0.77,0.533,1,-11.022,1,0.0885,0.0331,0.463,0.0935,0.493,95.017,4,turkish
+2tE7RudE4JHwDP2TMU0jtS,DJ Kantik,Zooo,Kul,44,161382,False,0.802,0.874,3,-1.984,0,0.0542,0.217,0.761,0.116,0.495,94.983,4,turkish
+2kTwN4aDpAmCLVbVWAdb6j,Tepki,Şehir Efsanesi,Lambalar Ve Kelebek,52,179483,False,0.717,0.44,8,-7.563,0,0.263,0.368,9.12e-06,0.108,0.217,83.924,4,turkish
+1Btjr5d0cOIazDQC9HHyKh,Lil Zey;Rosalie.,Viral Şarkılar,80 Kere,0,159190,True,0.726,0.781,1,-6.595,0,0.0484,0.212,0.0,0.109,0.428,98.03,4,turkish
+0LnT7NTyTW8hJGffRCNoy6,Khontkar,Ondan Böyleyim,Ondan Böyleyim,50,129802,True,0.653,0.585,11,-6.42,1,0.0242,0.0628,0.0,0.36,0.277,110.005,4,turkish
+5BuKHYnXTIVxSV88Pewmpf,Pinhani,Çok Alıştım Sana,Çok Alıştım Sana,49,293930,False,0.459,0.329,2,-11.41,0,0.0291,0.0798,0.000286,0.082,0.369,149.956,3,turkish
+2tzxyUrihN6rOy3YHIHM3m,Armağan Oruç,Plevne,Plevne,42,198673,False,0.523,0.716,11,-7.017,1,0.0499,0.305,0.737,0.321,0.542,179.989,4,turkish
+3fSfUFlvKQ6E6aHSYaZYRu,Mavi,Best Viral Tunes,ama hala,0,267209,False,0.541,0.754,10,-9.565,1,0.0835,0.0116,0.196,0.0908,0.891,172.021,4,turkish
+3g2TrHxAEugjJ5DtFFQBr5,Mavi,Viral Şarkılar,ama hala,0,267209,False,0.541,0.754,10,-9.565,1,0.0835,0.0116,0.196,0.0908,0.891,172.021,4,turkish
+4bDt80mGRTNCH1Kg7AePVa,Lil Zey;Rosalie.,Best Viral Tunes,80 Kere,0,159190,True,0.726,0.781,1,-6.595,0,0.0484,0.212,0.0,0.109,0.428,98.03,4,turkish
+5I2NN6vgWwIs76hshzIr7e,Yıldıray Gürgen,Plevne Marşı (Trap Versiyon),Plevne Marşı (Trap Versiyon),42,190566,False,0.123,0.657,6,-7.871,1,0.0637,0.00872,0.656,0.12,0.0563,171.441,4,turkish
+5gfZ08BA3Oh6XaH9WHDuxg,Ayna,Bostancı Durağı,Severek Ayrılanlar,49,296866,False,0.558,0.687,11,-7.25,1,0.0369,0.293,0.0,0.104,0.298,113.037,4,turkish
+1ZLExfqDJGcoZfc6l1vDws,Flört,Cemiyette Pişiyoruz,Bir Tek Sen Gelmedin,49,261373,False,0.611,0.7,9,-7.966,0,0.0302,0.00181,0.00248,0.291,0.707,145.943,4,turkish
+0u9cZveZpqEwpaP5fX6UgR,Şehinşah,Denetimli Serbestlik Stili (Deluxe),Hiphop Okulu,49,210837,True,0.807,0.631,7,-8.03,1,0.338,0.171,0.0,0.271,0.748,89.983,4,turkish
+2zhttCT008CWBEbQ6fuU7k,Aspova;Motive;Murgs,MATRIX (Blue),Yük Gemisi,50,172452,True,0.798,0.678,9,-8.69,1,0.306,0.076,0.0,0.144,0.339,158.944,4,turkish
+3L79KPrmrGZWzjA1kPghJE,Lvbel C5,Viral Şarkılar,GELMEZSEN GELME,0,93015,True,0.76,0.555,11,-12.659,0,0.0599,0.185,0.000255,0.0916,0.269,120.003,4,turkish
+1k5OoVoOdYwDrZAeqGADyv,Anıl Piyancı,Best Viral Tunes,Beraber Büyüdük,0,227691,False,0.794,0.604,1,-7.433,1,0.304,0.0326,0.0,0.353,0.343,98.048,4,turkish
+4djDNCRDTXhGQDp0wJMrMH,Lvbel C5,Best Viral Tunes,GELMEZSEN GELME,0,93015,True,0.76,0.555,11,-12.659,0,0.0599,0.185,0.000255,0.0916,0.269,120.003,4,turkish
+6BkbMulHPIwqOJPVJy15pr,Anıl Piyancı,Viral Şarkılar,Beraber Büyüdük,0,227691,False,0.794,0.604,1,-7.433,1,0.304,0.0326,0.0,0.353,0.343,98.048,4,turkish
+4xcNgAUqgeMCmu5H1VCYYj,Lvbel C5,Viral Şarkılar,10 NUMARA,1,118565,True,0.684,0.652,11,-10.144,1,0.164,0.00667,0.000236,0.0816,0.654,142.068,4,turkish
+0IsVK8G6JKmA1CHgh5eG7l,Lvbel C5,Best Viral Tunes,10 NUMARA,0,118565,True,0.684,0.652,11,-10.144,1,0.164,0.00667,0.000236,0.0816,0.654,142.068,4,turkish
+7lfnnW74hr3PfOwbojgCnW,Hüsnü Arkan;Birsen Tezer,Kırık Hava,Öyle Bir Rüya,49,261000,False,0.372,0.475,4,-10.046,0,0.0298,0.142,4.97e-05,0.131,0.369,97.146,4,turkish
+3lAfuHJHOHa1IPD1QUVdYc,Ceg,Trapanasyon,Neden,49,182624,True,0.905,0.508,3,-6.471,1,0.357,0.399,0.0,0.134,0.442,119.908,4,turkish
+2iwsJcPB5HIVTuHHwdTNO4,Duman,Viral Şarkılar,Her Şeyi Yak,0,270280,False,0.629,0.538,2,-6.79,1,0.0244,0.461,0.0,0.123,0.205,100.038,4,turkish
+5s2oLZj9UbpNpo1fsGHaUK,No.1,Sen Kötü Bir Rüyasın,Ateş ve Barut,51,202786,True,0.591,0.513,1,-7.937,1,0.0377,0.00765,0.0,0.0671,0.566,83.098,4,turkish
+6CkLcIjIAWHJp3nZWhNQvF,Duman,Best Viral Tunes,Her Şeyi Yak,0,270280,False,0.629,0.538,2,-6.79,1,0.0244,0.461,0.0,0.123,0.205,100.038,4,turkish
+6uS2G7PdDL0qmYs6glOgrO,Vega,Tatlı Sert,Bu Sabahların Bir Anlamı Olmalı,54,268760,False,0.486,0.628,2,-8.561,0,0.0285,0.466,3.13e-05,0.155,0.345,132.999,4,turkish
+5ol1YlrXJABoBwbZ4tNfQt,Teoman,Viral Şarkılar,Gemiler,0,260466,False,0.555,0.742,6,-7.554,0,0.0419,0.0773,1.38e-06,0.0457,0.379,80.048,4,turkish
+6UFyWa5VL7hFVopDeBQDF1,Teoman,Viral Şarkılar,Sevdim Seni Bir Kere,0,252733,False,0.737,0.386,1,-9.395,0,0.0324,0.292,2.84e-06,0.109,0.234,120.005,4,turkish
+6mVCfS4ENOzSzUAuKpY2Ge,Teoman,Best Viral Tunes,Sevdim Seni Bir Kere,0,252733,False,0.737,0.386,1,-9.395,0,0.0324,0.292,2.84e-06,0.109,0.234,120.005,4,turkish
+7or4EBM9mSptrTR5CsFJQX,Teoman,Best Viral Tunes,Gemiler,0,260466,False,0.555,0.742,6,-7.554,0,0.0419,0.0773,1.38e-06,0.0457,0.379,80.048,4,turkish
+2sQ9Ge9iZiK1xgPKXWQ5MS,Emir Can İğrek,Ağır Roman,Kaptan,51,257872,False,0.439,0.661,6,-7.007,0,0.0341,0.0437,2.27e-05,0.132,0.478,93.657,4,turkish
+5PhGZJlf2qJquzTYwWrj5N,Teoman,Viral Şarkılar,Paramparça,0,232533,False,0.701,0.794,11,-4.679,1,0.0533,0.202,0.0,0.426,0.82,94.986,4,turkish
+2XlIDfAjkxT6cye4G75lsr,Teoman,Best Viral Tunes,Paramparça,0,232533,False,0.701,0.794,11,-4.679,1,0.0533,0.202,0.0,0.426,0.82,94.986,4,turkish
+5ilKR6ucV43TXQFLoLVpsb,Mahmut Orhan;Colonel Bagshot,ONE,6 Days,56,260559,False,0.776,0.699,7,-5.965,1,0.0333,0.0293,0.195,0.144,0.332,104.998,4,turkish
+18Yyp3ut7I9neYEfNXkhfB,Ilkan Gunuc;Clara Stegall,SexyBack,SexyBack,56,148800,True,0.824,0.706,11,-8.572,0,0.0488,0.0902,0.123,0.0584,0.434,99.976,4,turkish
+0HS08diM8VNq8zyEi1B0Zi,Serhat Durmus;BÖ;Ecem Telli,Elimi Tut (feat. Ecem Telli),Elimi Tut (feat. Ecem Telli),49,260816,False,0.658,0.592,9,-9.429,0,0.0309,0.132,0.768,0.093,0.102,98.003,4,turkish
+4bQPTF342jVUgisDgJGMDo,Ilkan Gunuc;Emie,Plain Jane,Plain Jane,57,208200,False,0.82,0.857,0,-6.764,1,0.0567,0.112,0.000256,0.0757,0.686,100.025,4,turkish
+6lTDavNwANeRtFS6NGFnXb,Serhat Durmus,ME and U,Not Alone,48,204759,False,0.627,0.683,6,-9.165,0,0.054,0.0392,0.0415,0.113,0.0381,143.029,4,turkish
+4cXiHCkyfMiDrPbPk0f3rA,Ais Ezhel;Dj Suppa,3 Gün,3 Gün,48,384078,True,0.778,0.589,9,-8.459,0,0.121,0.214,0.0111,0.105,0.455,89.985,4,turkish
+4Fq1AsPB0HIK2n5qYL8rSy,Şehinşah,Denetimli Serbestlik Stili (Deluxe),Koyu,46,171874,True,0.747,0.684,7,-9.705,0,0.465,0.64,0.0,0.128,0.802,159.872,4,turkish
+2w3E0I0vpPJsLah019b00Q,NOES,Like A Boss,Like A Boss,55,177057,False,0.605,0.916,2,-3.589,1,0.0567,0.0149,0.453,0.122,0.388,157.91,4,turkish
+270QvftMQtNDGJT5nwo5ha,Xir;Maestro,SÜR,SÜR,47,195889,True,0.729,0.746,2,-5.129,1,0.0494,0.0788,2.15e-05,0.26,0.214,149.024,4,turkish
+4NtvC6LHrYT8GI8C8mxLB1,Şehinşah,666,Dilemma X Kuytu,46,227113,True,0.6,0.803,1,-6.964,0,0.12,0.416,0.0,0.129,0.208,138.249,4,turkish
+1AlG0sHFDQJP2HdXyQb8bL,Anıl Piyancı,İzmir,Beraber Büyüdük,47,227691,False,0.794,0.604,1,-7.433,1,0.304,0.0326,0.0,0.353,0.343,98.048,4,turkish
+0QnICpnSkCXY4d4zfYA2bB,Serhat Durmus;Georgia Ku,My Feelings,My Feelings,50,207692,False,0.612,0.542,1,-6.916,0,0.0632,0.381,0.000565,0.0977,0.0745,129.773,4,turkish
+1Warn6ZbqZnD4ZpGiVvW4j,Cem Öget,Erkenci Kuş (Orijinal Dizi Müzikleri),Erkenci Kuş Jenerik Sözlü,45,129340,False,0.446,0.558,5,-5.51,0,0.0479,0.457,0.0,0.116,0.431,180.329,3,turkish
+6yB3rQMeDyQw31rYvVWglg,Stap,Işporta Holding,Nolur,46,258048,False,0.788,0.686,5,-4.802,0,0.0526,0.367,0.00359,0.108,0.632,149.951,4,turkish
+1wIMtO7qBakesdiMuMLIp7,Nev,Işığım ve Gölgem,Susma,48,316023,False,0.53,0.612,8,-8.027,0,0.0411,0.255,0.0,0.0854,0.585,167.72,4,turkish
+74sGontnRy751y9wYos5Fi,Nev,Sen Gibi,Benmişim,49,264939,False,0.566,0.84,0,-4.548,1,0.0343,0.00625,0.0,0.0699,0.9,174.041,4,turkish
+0ZBPBb0aeltt3rVxBM0O4M,Stap,Işporta Holding,Memur,46,208249,False,0.577,0.585,9,-8.651,1,0.14,0.0525,0.000107,0.104,0.405,119.867,4,turkish
+759944Jv8yJ1mrZiYTBYw3,Hidra,Yenilmez,Neden mi İllegal 3,47,221999,True,0.792,0.838,4,-6.235,0,0.206,0.284,0.0,0.191,0.784,91.99,4,turkish
+1slPfzh75wRINYk4OaN1fp,Şehinşah,666,Türlü Bela,46,251891,True,0.658,0.506,1,-8.224,1,0.11,0.303,0.0,0.133,0.0381,116.756,4,turkish
+4O63KQiapr34KezOXfJlth,Şehinşah;DJ Artz,DEEV (Deluxe Edition),Plüton (feat. DJ Artz),48,263239,True,0.687,0.805,7,-7.45,1,0.341,0.261,0.0,0.104,0.613,89.991,4,turkish
+49Gfk8HqWfFce5YDMfhzFX,MAW,KARAMBOL,KARAMBOL,46,141818,False,0.743,0.571,4,-6.293,0,0.0446,0.633,0.0017,0.129,0.317,132.061,4,turkish
+34F2qwUwhOfInM11eYLWz5,Nev,Sen Gibi,Mühürlü Kaderim,46,265775,False,0.408,0.658,8,-4.961,1,0.0387,0.161,0.0,0.113,0.48,165.051,4,turkish
+5dJRxKI4Wqvsi5z9eeDOYB,Joker,Yaşamak Öldürür,"Yaşamak Öldürür, Pt. 1",46,294086,True,0.606,0.706,8,-4.27,1,0.0381,0.0887,1.47e-06,0.122,0.104,91.017,4,turkish
+26M2lCbAZWXfrftCzxHDYt,Keskin,BOZGUN,55 Ghetto,49,153000,True,0.585,0.942,11,-5.857,1,0.315,0.161,0.0,0.125,0.395,140.143,4,turkish
+13DqxJiOQYYbgcFVhd8Rtk,Birileri,...aynı yer,...aynı yer,46,213033,False,0.635,0.414,11,-10.369,0,0.0322,0.165,2.13e-05,0.229,0.692,88.978,4,turkish
+1dUTePKI0w1oIq1UuENgCm,Emir Can İğrek,Bıraktım Şaşırmayı,Bıraktım Şaşırmayı,47,196566,False,0.535,0.302,3,-14.901,0,0.0379,0.567,0.00119,0.417,0.434,84.987,4,turkish
+30d9raQFQMxgRabekkXz2s,Ceg,Trapanasyon,Onlar Acımı Bilemez Hacım,49,233888,True,0.781,0.483,4,-5.826,1,0.188,0.164,1.67e-05,0.391,0.459,107.844,4,turkish
+7uRaUVwPw9p0T6siGuIhS0,Ahiyan,Old Tape,Cereyan,46,195480,False,0.787,0.425,7,-13.63,1,0.182,0.0398,4.07e-05,0.12,0.261,90.024,4,turkish
+6hTlfgh8zGrpJ1ijRXxUGK,Athena,Geberiyorum (Nazım Hikmet Ran Günler Şiiri),Geberiyorum - Nazım Hikmet Ran Günler Şiiri,47,172082,False,0.637,0.341,7,-8.72,0,0.042,0.0536,0.000654,0.125,0.515,113.065,5,turkish
+47H1TH4VS8LRdgyOZWM96l,Şehinşah,Kunteper,Kunteper,48,230400,True,0.875,0.688,3,-6.289,0,0.283,0.61,0.0,0.141,0.696,150.043,4,turkish
+0lObSY55zUQxlkPGaMpKGL,Contra,Ötesi,Ötesi,46,154383,False,0.731,0.976,1,-4.188,0,0.399,0.408,0.0,0.151,0.879,102.144,4,turkish
+1qECV83HnSreVWZxxXtCO4,Stabil,Sokak Güvercini,Sokak Güvercini,48,189691,False,0.749,0.49,7,-8.634,1,0.282,0.578,8.32e-06,0.19,0.666,85.482,4,turkish
+5ptQepn6HP5jMllqHCmr4F,Emre Fel,Sevgilim Biz Ayrıldık,Sevgilim Biz Ayrıldık,49,259320,False,0.444,0.423,9,-12.036,1,0.0452,0.736,0.0,0.113,0.538,88.178,4,turkish
+590LwPfoRH6qwag96WFpwt,Teoman;İrem Candar,Eski Bir Rüya Uğruna...,Seninim Son Kez,47,156926,False,0.442,0.342,8,-7.757,0,0.0405,0.75,0.0,0.369,0.297,85.105,4,turkish
+2rJZkXH2XwFqQTKpjOb1Cn,Hidra,08-13,Karıncalar,48,180923,True,0.728,0.538,7,-11.973,1,0.167,0.129,0.0,0.491,0.339,89.993,4,turkish
+3SKvEgMSFfvAReY8fGXk5C,Reyhan Karaca,İmza,İki Gözüm,46,282720,False,0.705,0.464,7,-7.685,0,0.043,0.365,2.55e-06,0.068,0.606,72.032,4,turkish
+67mVAKOBPr39D25capVNRY,Emir Can İğrek,Sapa,Ecza Deposu,48,192814,False,0.413,0.61,6,-7.388,0,0.0332,0.0941,3.25e-05,0.135,0.285,139.298,4,turkish
+15QLIggYFzLAcEs37c4Dfj,Şehinşah,Denetimli Serbestlik Stili (Deluxe),Güller Ve Rhyme,46,259065,True,0.561,0.898,9,-5.668,0,0.463,0.0399,0.0,0.174,0.598,88.792,4,turkish
+0rzRXVH66JucDSYGcqpP0j,No.1,Canavar,Canavar,47,275454,True,0.743,0.573,5,-9.666,1,0.328,0.378,0.0,0.122,0.431,121.033,4,turkish
+03xG7eYS0cfhqdORcGYJeJ,Pamela,Yara,Kal Benim İçin,46,227072,False,0.366,0.8,5,-4.658,0,0.0818,0.0285,0.0,0.109,0.454,95.013,4,turkish
+64J4NcChlZMjN4YdMCUi9e,Arda Gezer;Şehinşah;Caner Özgür,Lanet,Lanet,46,189500,False,0.714,0.479,7,-8.174,1,0.0839,0.059,7.24e-05,0.13,0.116,123.986,4,turkish
+4Mh6tmmffs0erwdJLnBpGY,No.1,P.I.V,Beni Duy,47,236732,False,0.712,0.745,1,-7.468,1,0.0471,0.189,0.0172,0.342,0.447,110.062,4,turkish
+6kHjMdhMOz1Y84X3DHvbni,Ne Jupiter,Aklımın Derinlerinde,Gökyüzüm Siyah Olsa Da,47,259200,False,0.599,0.563,1,-7.317,0,0.0407,0.526,0.0623,0.053,0.302,150.009,4,turkish
+5kbFRDD4H5lnbcrurJWlJj,Şanışer,12-15,Benim Aklımdan Zorum Var,47,190693,False,0.538,0.5,9,-12.722,1,0.408,0.119,0.0,0.39,0.21,174.037,4,turkish
+73fRMyckZKtemX14eku8uu,Sertab Erener,İyiliğe Ninniler,Dandini Dandini Dastana,48,149168,False,0.506,0.233,3,-12.077,0,0.0276,0.957,2.8e-05,0.116,0.275,88.08,4,turkish
+5BqCr7Mnaa7igTSjagZlyq,Umut Kaya,Umut Kaya,Yanıma Yataydı,45,227648,False,0.649,0.481,6,-6.124,1,0.0393,0.0144,0.00111,0.0655,0.882,97.007,4,turkish
+294JL3Xexu3sVRH9tpn60G,Rana Alagöz;Selçuk Alagöz,Biz Sizin Şarkılarınızla Büyüdük,Aşkın Gözü Kör Mü,46,210560,False,0.477,0.789,4,-5.426,0,0.0699,0.537,0.0,0.325,0.856,87.798,4,turkish
+7HAfvMEv1LYKgElxt1RSOF,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Eski Sevgilim - Live,47,245286,False,0.641,0.496,2,-8.07,0,0.0438,0.698,0.0,0.897,0.391,138.033,4,turkish
+7AH7gmGD0jasr5pKzQlFMu,Emir Can İğrek,Ağır Roman,Franco,49,252631,False,0.523,0.626,9,-7.953,0,0.0305,0.257,0.0,0.262,0.759,94.99,4,turkish
+6si8O4MOkdrhBKIbTD4pBC,Saian,Ay Şarkısı,Ay Şarkısı,48,186052,False,0.702,0.593,2,-8.268,1,0.0664,0.21,0.000101,0.245,0.718,96.002,4,turkish
+4gzUsRJz7RDZYPVdi2euew,Onur Ormen;Reaktive;Peter Piffen,No L's,No L's,43,156800,False,0.644,0.938,9,-4.075,1,0.0949,0.0906,0.000128,0.125,0.333,149.989,4,turkish
+1PrXSvX8N0SlQNQ4jMrCSb,Furkan Sert,Hold on to Me,Hold on to Me,58,276350,False,0.805,0.364,2,-13.213,0,0.0583,0.552,0.0112,0.0732,0.311,99.98,4,turkish
+1Ud2NakQQzZOdNdxrrbXsT,Lil Zey,Zor,Zor II,46,128571,False,0.64,0.459,1,-7.888,0,0.116,0.34,0.00962,0.103,0.123,140.033,4,turkish
+2Kol2qlCossViohuPdqFL2,Ahiyan,Akıllanamadım,Akıllanamadım,45,170000,False,0.375,0.45,5,-11.021,0,0.0589,0.78,0.0,0.105,0.246,171.879,4,turkish
+0bAuzGnpoaZFpfbAhEWjqO,Serhat Durmus,About It,About It,45,187151,False,0.63,0.472,11,-11.289,0,0.0558,0.49,0.555,0.0967,0.185,149.967,4,turkish
+79OUttYM7WQUzEtsugTwEX,Ilkan Gunuc;Emrah Turken,Polkka,Polkka,60,136320,False,0.725,0.738,6,-8.383,0,0.132,0.157,0.513,0.348,0.294,125.097,4,turkish
+11nF2KoF7ztbj0dQEf1Mul,Asil Slang;Kozmos,Paris,Paris,45,164000,False,0.836,0.56,0,-5.967,0,0.0691,0.348,0.00026,0.139,0.479,97.977,4,turkish
+2ArFH6WL37HIV1BkvZuP61,Ravend,niye ben?,niye ben?,46,109422,True,0.759,0.387,4,-12.112,0,0.134,0.122,0.0,0.111,0.0589,79.005,4,turkish
+1SbgCVsKA78Jd9S8YrdhES,Ais Ezhel;Dj Suppa;Sansar Salvo,Gerçek Sandım,Gerçek Sandım,46,204303,True,0.737,0.637,10,-11.175,0,0.417,0.363,0.0,0.106,0.448,93.856,4,turkish
+2JWcIs25p03SYHWTez6pwc,Ceg;Anıl Piyancı,Yeşillendir,Yeşillendir,45,199196,False,0.879,0.73,10,-4.551,0,0.247,0.212,1.04e-06,0.115,0.877,154.989,4,turkish
+3DYp10bpYNLLoin7U4eQpi,Artz;Hidra,İşin Mutfağı,Ritalin (feat. Hidra),45,182643,True,0.806,0.798,6,-6.618,1,0.104,0.343,1.4e-05,0.0959,0.96,91.966,4,turkish
+4aNKwMW76gdQAudFtGxveu,Hidra,C-137,Bağırın,44,236124,True,0.873,0.561,1,-10.38,1,0.379,0.204,0.0,0.493,0.173,119.999,4,turkish
+2TfYnTUWpo6j22FsOMayK0,Old G,P.İ.M,Pim,45,194003,True,0.661,0.823,2,-6.475,1,0.0948,0.707,0.00153,0.288,0.526,149.894,4,turkish
+2esbthZf8kgJK8x8n9BYNe,Ati242;Ceg,Son Gaz,Son Gaz,46,184772,True,0.826,0.706,2,-10.631,1,0.244,0.291,5.67e-06,0.0848,0.375,126.049,4,turkish
+0bx6QCt942mmbzi0PJE48j,No.1,"Canımız Cehenneme, Pt. III",Söyle Ona,46,283062,True,0.522,0.452,6,-12.35,1,0.118,0.64,0.00732,0.107,0.47,100.433,4,turkish
+6VDbIjLQx6DnRZ3lpmv9sy,Şebnem Ferah,Od,Kalbim Mezar,44,279103,False,0.414,0.921,0,-3.623,1,0.0785,0.00204,1.08e-05,0.196,0.435,194.994,3,turkish
+5N443V1kL0JLBdqvqk1xvA,Beta Berk Bayındır;Şanışer,Best of Beta,Her Şey Aynı,46,209536,True,0.701,0.424,7,-10.653,1,0.0555,0.563,1.62e-06,0.158,0.588,139.985,4,turkish
+5i9YJPhJo1RrWHKjkbkgmk,Büyük Ev Ablukada,FIRTINAYT,BENİM KAFAM SİKTİRMİŞ GİTMİŞ,45,117460,True,0.761,0.652,11,-10.534,0,0.236,0.0632,0.0,0.104,0.847,125.018,4,turkish
+27LtwN20Rvhi6LVmUaaucZ,Ezginin Günlügü,İlk Aşk,Zerdaliler,44,260480,False,0.407,0.292,2,-10.662,0,0.0497,0.94,0.00121,0.11,0.293,86.411,1,turkish
+4goQTzhTJuKmLGJLLEsILq,Saian;Bedo,Birkaç güzel gün için,Birkaç güzel gün için,45,166191,False,0.729,0.685,9,-9.637,0,0.105,0.41,1.37e-05,0.12,0.32,93.969,4,turkish
+44EWXmAtCZvLGADIrOYxnF,Şanışer,Umut,Belki Bir Gün Barışırız,46,208727,False,0.682,0.74,3,-9.581,0,0.161,0.0746,0.0,0.159,0.808,82.519,4,turkish
+4EzchO3kZDtrsoDSv262YL,Pinhani,On Türkü,Bülbülüm Altın Kafeste,44,374640,False,0.409,0.494,0,-7.834,1,0.035,0.599,7.78e-06,0.241,0.385,111.646,3,turkish
+33bnqlKpgpx5LVeyK3cTxG,Emir Can İğrek;Kurtalan Ekspres,"Anadolu Rock Aid, Vol. 2",Yerin Altındayim,45,217690,False,0.677,0.6,8,-8.411,1,0.04,0.279,2.03e-06,0.0953,0.551,109.985,4,turkish
+5jIjojn5x2N8vHfoFRFoYh,Patron,KIŞ UYKUSU,KARAR,44,195346,False,0.501,0.608,5,-7.376,0,0.354,0.457,1.36e-05,0.167,0.508,85.408,4,turkish
+0oV80pWpo0fpMrKZWU9kNy,Saian,Yeni Beyaz,Yeni Beyaz,44,178586,False,0.726,0.57,11,-8.641,0,0.325,0.436,4.31e-06,0.109,0.282,90.025,4,turkish
+1diy0BWaQp16nBNNTO63sx,Mavi,VERITAS,bipo-love,47,138305,False,0.72,0.607,7,-7.043,1,0.0321,0.0188,0.0015,0.13,0.354,118.017,4,turkish
+55K1ON51dMNDODZG8y0ClU,Hidra,Yenilmez,Burası Dünya Değil,44,182181,True,0.614,0.734,1,-6.839,1,0.295,0.104,0.0,0.0709,0.816,179.823,4,turkish
+2P7u3rUHzWnRQOmeHoWc9m,Contra,Hayırlara Ola,Hayırlara Ola,44,175290,True,0.797,0.48,1,-7.992,1,0.0413,0.132,1.49e-06,0.0759,0.0713,125.064,4,turkish
+3FGw0p5G1wEqv9ymTaWMv3,Ceg,Trapanasyon,Kafamın İçi Dolu,45,230124,True,0.777,0.53,2,-6.294,1,0.289,0.466,0.00119,0.13,0.115,119.922,4,turkish
+4BBm6HC1WlhYhQk36DBhkM,Grogi;Maho G,Cayır Cayır,Cayır Cayır,45,236000,False,0.773,0.752,1,-6.079,0,0.051,0.0473,0.0,0.0603,0.361,96.012,4,turkish
+286e3fdJbK8fGWPGSnvUbe,Ahiyan,Carnavale,Carnavale,45,190295,False,0.541,0.58,6,-5.963,0,0.189,0.285,0.0,0.105,0.228,82.918,4,turkish
+006tmNZLXEXPqdb23wwSN1,İlhan İrem,Bezginin Gizli Mektupları,Yemyeşil Bir Deniz,44,358173,False,0.486,0.568,9,-9.199,0,0.0417,0.652,0.0,0.834,0.65,127.184,4,turkish
+1eQraz7v3rjPrSRhXYWQ24,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Ağla Ağla - Live,45,312040,False,0.582,0.5,2,-8.698,0,0.0429,0.697,0.000452,0.958,0.356,136.038,4,turkish
+4dMMjymiFBFxuqEGNrygD6,Haluk Levent,Trilogy,Zor Aşk,45,256146,False,0.439,0.4,9,-11.008,0,0.0481,0.299,0.0,0.128,0.445,159.749,3,turkish
+4Qhr8dKGrAkKhZmE5npfOi,Allame,Fare Kapanı,Allame Sendromu,45,210390,False,0.625,0.881,2,-7.331,1,0.229,0.0359,0.0,0.329,0.873,77.81,4,turkish
+6bJhqWNOkcFWfFogVxMxxv,Motive,Makaveli,Yüksel,45,135011,False,0.739,0.661,11,-7.237,0,0.0439,0.441,0.0,0.119,0.0487,120.128,3,turkish
+7y1HozTqR9gU3Os4Ixkaix,Teoman,Rock and Roll,Kalbin Yok mu?,45,208909,False,0.332,0.546,2,-5.438,1,0.0326,0.0105,0.0,0.105,0.403,159.459,3,turkish
+6CuTbIg3qRPZs1XEJxoEbY,Motive,Makaveli (Deluxe),Zgt,46,229029,True,0.633,0.53,11,-9.085,1,0.374,0.517,0.0,0.0933,0.378,129.025,4,turkish
+4gBNgq0v7fG5kGC857Pb8M,Birileri,Pür Akustik,Aşık Olmamam Gerek - Canlı Akustik,45,211700,False,0.516,0.733,4,-10.627,0,0.0376,0.352,0.0,0.29,0.657,90.563,4,turkish
+4jLDhhFGxgHZZEnv5ym64l,No.1,Karanlıkta Güneşlenenler,Karanlıkta Güneşlenenler,46,235279,True,0.67,0.897,11,-4.642,0,0.289,0.0474,0.000258,0.474,0.552,90.496,4,turkish
+46xC5pDq9vxl4JcHkb1QkX,Evgeny Grinko,Outtakes,Jane Maryam,64,90984,False,0.393,0.0984,0,-19.02,0,0.0445,0.984,0.921,0.122,0.139,96.939,3,turkish
+2LxGrlboLTVvmegFyRtdP5,Sertab Erener;Can Bonomo,İyiliğe Ninniler,Fış Fış Kayıkçı,45,424029,False,0.657,0.134,0,-13.431,1,0.0357,0.986,0.0,0.114,0.119,117.838,4,turkish
+7tpIYgAGMtGtrx5OlOKUab,Stabil;Bedo,OKSMRN2,Aynalarımda,46,203520,False,0.614,0.749,9,-7.561,0,0.0746,0.234,2.56e-05,0.205,0.409,129.24,5,turkish
+140Gw2YEm6CjfxDwe2vzba,Haluk Levent,Bu Ateş Sönmez,Ankara,45,291133,False,0.68,0.544,7,-13.096,1,0.0338,0.128,0.0,0.0737,0.624,129.528,4,turkish
+6dIBSpL0BOvtImFUUTKWMo,Ajda Pekkan,Hoşgör Sen,Sana Neler Edeceğim,45,185466,False,0.62,0.62,9,-7.66,1,0.0516,0.681,0.0,0.358,0.795,134.613,4,turkish
+7891lsVcfSTqV03kr4SIGi,Haluk Levent,Trilogy,Dağlara Küstüm,45,261355,False,0.444,0.484,5,-10.537,1,0.118,0.351,0.0,0.089,0.619,180.396,4,turkish
+0ilYcbLCGUWc53kMzQqSW4,Zakkum,Bir Gece Yarası,Dile Kolay Kalbe Değil,45,307420,False,0.43,0.624,11,-6.015,0,0.0291,0.0418,0.0,0.127,0.439,165.872,4,turkish
+6NNiVBkstx4zWrQVbEpZ8I,Nurettin Rençber,Eski Yara,Yürürüm,46,306013,False,0.344,0.42,5,-11.73,0,0.0454,0.605,2.11e-05,0.206,0.519,91.766,4,turkish
+4ZSAKPr2ij5gt75og7VuUa,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Kalbime Gömüyorum - Live,45,281280,False,0.558,0.522,2,-8.719,0,0.0344,0.801,6.8e-06,0.11,0.381,141.871,4,turkish
+3lic57ZmqP8F7yrtPCk02G,Ahiyan,SAKLAYANLARDANIM,İstemem,45,198181,True,0.58,0.479,0,-10.397,0,0.191,0.224,0.0,0.133,0.352,119.758,4,turkish
+4hv9mEWi4911k1uhU4fPEH,Ufuk Beydemir,Sevda Gibi,Ay Tenli Kadın,67,197967,False,0.533,0.541,6,-7.854,1,0.0252,0.217,4.39e-06,0.11,0.335,144.135,4,turkish
+6wdT1ioy3SlobYfXJRUG1y,Şam,P.O.P Mixtape pt.1,Efsane,45,143949,False,0.585,0.46,3,-9.54,0,0.114,0.728,0.0,0.109,0.0921,112.273,4,turkish
+7J2JnVWhxySGf48iJgk6pv,Cut Off,Escuro,Escuro,48,285913,False,0.748,0.646,1,-8.136,0,0.0652,0.0419,0.438,0.18,0.166,115.01,4,turkish
+0EXfBkE3nbVvFXItrBTZBK,Sansar Salvo;Kaan Boşnak,Koptu Kayış,Koptu Kayış,44,181536,False,0.817,0.675,1,-8.295,1,0.0972,0.334,0.0,0.0989,0.584,122.082,4,turkish
+5XS0I9pJA1ei8gE2cuQixt,Da Poet,Sonbahar,Sonbahar,44,224000,False,0.754,0.562,5,-5.926,0,0.0614,0.0739,1.82e-06,0.0758,0.673,83.983,4,turkish
+2vvsSgFnlWJMrpfWPfYGfw,Şam,Vehim,Kör Kurşun,43,104007,True,0.834,0.625,10,-8.126,1,0.34,0.14,0.0,0.138,0.32,110.747,4,turkish
+2oNbJh6ohXY88ispYK9AWK,Da Poet;Kayra,Manifest,Manifest,43,215083,False,0.759,0.862,7,-4.604,1,0.293,0.209,0.0,0.0557,0.623,89.976,4,turkish
+72OKguvBNCfLfGKPI3lBGy,Stap,Size XXL,Size XXL,44,160338,True,0.84,0.831,8,-5.561,1,0.12,0.0764,9.42e-05,0.0769,0.504,111.021,4,turkish
+3YHvDD4kOmU0aNyq9QH5tW,Ati242,NERDESİN,NERDESİN,45,225697,False,0.662,0.679,0,-4.951,0,0.13,0.022,3.22e-06,0.112,0.319,160.133,5,turkish
+6z9vDgzUUYTdvIikaMIEVt,Khontkar,100,Legal,43,222988,True,0.811,0.824,11,-5.628,1,0.152,0.328,0.0,0.0606,0.62,73.969,4,turkish
+2LricmvjlAmMgMYnqyWHRu,Pinhani,İnandığın Masallar,Unutuldular,44,279661,False,0.534,0.47,2,-9.729,0,0.0255,0.435,2.77e-05,0.0875,0.185,151.915,4,turkish
+3SyV5VGDSI4ZcomImKSRxV,Şanışer,Umut,Beni Kır,44,266382,False,0.53,0.444,6,-11.976,0,0.187,0.272,0.0,0.253,0.367,84.889,4,turkish
+4KegU9xBCWXkDkNdoTUQFT,Birkan Nasuhoğlu,SEVDA,SEVDA,43,196010,False,0.519,0.371,4,-11.543,0,0.0491,0.485,5.37e-06,0.337,0.367,154.008,4,turkish
+3WjNhFQ9TMdZ12QJRlJ8jV,No.1,İyilik Meleğim,İyilik Meleğim,44,144065,True,0.659,0.664,10,-11.136,1,0.044,0.152,0.00282,0.153,0.546,100.004,4,turkish
+3whEd94HYT5iHKu2hYmk9K,Irem,Hayalet Sevgilim,Ne Olur Anla,43,221226,False,0.642,0.516,5,-7.957,0,0.0237,0.541,2.65e-06,0.0924,0.372,82.009,4,turkish
+6IDDGRXj9zOcdCDaSe2KXr,Hopex,Warrior,Warrior,51,171517,False,0.409,0.931,7,-5.679,0,0.0454,0.000104,0.695,0.185,0.053,139.924,4,turkish
+1oFnf7O5pRtgTt1U6cBxHl,Gece,Gece,22,43,219986,False,0.351,0.794,0,-4.417,1,0.0355,0.0022,2.06e-06,0.0846,0.338,67.469,4,turkish
+6oni57FTRDHVrNpsib9gdN,Şehinşah,666,Az,44,193513,True,0.715,0.877,10,-6.005,0,0.114,0.336,0.0,0.134,0.551,164.964,4,turkish
+1p68GwDcxsvxUol38AuyFA,Lil Zey;Metth,Marina,Marina,45,185573,True,0.847,0.704,9,-5.4,0,0.0569,0.0523,0.0,0.23,0.645,145.031,4,turkish
+2u1B87jh7hcE0ImLMfHNji,Duman,Darmaduman,Akıbet,44,227873,False,0.375,0.537,5,-8.967,0,0.0295,0.361,2.58e-05,0.101,0.181,140.111,4,turkish
+4DA5sNDdnpku4K6URoi0Ku,Birsen Tezer,Saklasam Kendimi,Saklasam Kendimi,43,300967,False,0.319,0.622,0,-5.918,0,0.0603,0.579,1.15e-06,0.224,0.379,149.301,3,turkish
+7JccyiK5ppxIvnAR5e9ttr,Patron,KIŞ UYKUSU,HUZUR,44,193796,True,0.804,0.761,8,-5.68,0,0.247,0.187,0.0,0.0973,0.635,150.01,4,turkish
+0jdfbvSdaWvxfAlD20TtNc,Yaşlı Amca,Akşamüstü,Sanki Yapamadım,44,213198,False,0.442,0.567,8,-6.346,0,0.0516,0.238,0.000325,0.0852,0.639,138.616,0,turkish
+2EbxeHi1idR4DRPL3Qf36m,Pit10;Sansar Salvo,"Organize Oluyoruz, Vol. 2",Kasımpatı,44,203917,False,0.727,0.648,1,-6.384,1,0.0555,0.0861,1.22e-06,0.109,0.361,87.993,4,turkish
+0HdjvmdgdGz5xXVvbrrcaP,Yeni Türkü,Yeni Türkü Koleksiyon,Olmasa Mektubun,43,214466,False,0.546,0.192,11,-17.624,0,0.0304,0.483,0.0,0.111,0.264,107.118,4,turkish
+36hTKOgo5Ra03y0GlpJPd3,Burcu Güneş,Tılsım,Yansın Geceler,43,289400,False,0.29,0.712,4,-5.56,0,0.0478,0.413,0.0,0.112,0.287,169.288,4,turkish
+1aMHHBij5LOsyBB7PKiqKh,No.1,"Canımız Cehenneme, Pt. I",Sana Bu Siyah Laik,45,232020,True,0.737,0.501,9,-8.27,0,0.0751,0.0307,0.0015,0.228,0.381,97.688,4,turkish
+0asl8EwEHiyOAPTHF31cAg,Veys Colak;Melek Mosso,Kimsenin Kimsesi,Kimsenin Kimsesi,45,208000,False,0.35,0.519,11,-7.138,0,0.0355,0.622,0.0,0.132,0.376,161.389,4,turkish
+7GawgSohrHICmemM8RZauh,Tuhan,Motorola,Marlboro,44,123275,False,0.781,0.739,2,-5.35,1,0.0808,0.294,0.00012,0.0445,0.678,144.012,4,turkish
+56AD3PBYdPepniv4VtsV7s,Yüzyüzeyken Konuşuruz,Evdekilere Selam,Kendi Evimde Deplasmandayım,44,274773,False,0.346,0.717,2,-7.727,0,0.138,0.347,0.0,0.225,0.838,182.498,4,turkish
+6E9deAT9PHY3xwZwD0fvhZ,Batu Akdeniz,Bir Kalbin Çöküşü,Ona Gitme,44,199872,False,0.475,0.728,11,-4.741,0,0.0362,0.0331,0.0,0.198,0.483,82.474,4,turkish
+7j7QY7Z84bFoIUYc2sEkjz,Güncel Gürsel Artıktay,Kanar,Kanar,44,248600,False,0.306,0.338,4,-11.963,0,0.0319,0.45,0.422,0.137,0.226,149.126,4,turkish
+3lIZy99mnEArB9FWVoxH3C,Gece,İyi Niyetli Bir Gün,Derbeder,43,245040,False,0.381,0.806,10,-6.376,0,0.0641,0.00184,0.000233,0.162,0.425,172.068,4,turkish
+4HZZRWcZCn9QGafB8XtGfn,Şanışer;Sokrat St,Onuncu Gün,Güya,44,168569,True,0.633,0.837,11,-4.86,0,0.306,0.0307,0.0,0.161,0.506,177.861,4,turkish
+2lR5EvBBNs4UHFvojb0q5k,Bahadır Sağlam,Sınırımız Gökyüzü,Sınırımız Gökyüzü,44,262402,False,0.404,0.719,5,-5.858,0,0.0522,0.487,0.0,0.209,0.668,165.667,4,turkish
+6gOVjoYnnnbDHGsreS0fgu,Allame,Hayalin Yeri Yok (Akustik),Hayalin Yeri Yok (Akustik),43,202615,False,0.708,0.441,6,-11.073,0,0.232,0.826,0.0,0.0995,0.795,87.788,4,turkish
+059tlr6szKvE8LcuJfNwwf,Emir Can İğrek,Ağır Roman,Beni Uğurla,44,275454,False,0.263,0.423,6,-10.167,0,0.0357,0.743,0.000933,0.0698,0.316,176.046,4,turkish
+2ol1ST9LqK6gR7QOp03exs,Aşık Veysel,"Dostlar Beni Hatırlasın 1894-1973, Vol. 1 (Hiç Unutulmayacaklar)",Güzelliğin on para etmez,44,138386,False,0.472,0.221,8,-13.813,1,0.0317,0.948,0.0,0.0715,0.563,107.345,4,turkish
+3v4X0bNqKpDQ1oucPsBTnV,Ati242;Bedo;Stabil,DIPSOMANIA,KAPA GÖZLERİNİ,44,197179,True,0.784,0.805,11,-5.767,0,0.111,0.35,1.14e-06,0.0907,0.557,109.995,4,turkish
+6D8MQ04WjnY9Jrhi1MdNFa,Müzeyyen Senar,"Yayınlanmamış Şarkılar, Vol. 2",Gamzedeyim Deva Bulmam,43,197146,False,0.294,0.441,4,-7.625,0,0.0327,0.836,0.467,0.102,0.328,143.52,4,turkish
+1E5Zumas0loctbiUN2whpi,Sera Savaş,Kiraz,Anlatsam Anlatamam,43,138165,False,0.605,0.402,8,-13.79,1,0.293,0.448,0.0,0.133,0.781,115.321,4,turkish
+5cWZDusEqLjuVzuu6w6SFG,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Ben Her Bahar Mutsuzum - Live,44,329960,False,0.579,0.493,7,-8.307,0,0.0394,0.731,0.00678,0.305,0.27,136.137,4,turkish
+7ruJnH1BbrDaWNEGoww2tg,Can Gox,Severek Ayrılanlar,Severek Ayrılanlar,45,255691,False,0.352,0.755,11,-8.648,1,0.0458,0.0486,2.39e-05,0.122,0.377,102.936,1,turkish
+5IArBzYZe6lQQpUwhhP1Nw,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Ziyan & Doğum Günü - Live,44,261678,False,0.577,0.516,2,-8.573,0,0.0451,0.796,0.0,0.956,0.443,139.903,4,turkish
+20cg5mxChgLS0KjNRZDY3V,Kayra,Bütün Ayazların Ortasında,Çok Yaşlıyım,44,165916,False,0.76,0.86,8,-4.022,0,0.309,0.137,0.000186,0.204,0.872,89.989,4,turkish
+5WumaFZFiyJ70lUhtYFTOC,Müzeyyen Senar,Son Askimi Canlandiran,Elbet Bir Gün Buluşacağız,44,356240,False,0.222,0.264,7,-10.185,0,0.0376,0.914,0.00857,0.109,0.341,81.536,3,turkish
+5BEsYw1foOjENU54YrBKN5,Teoman,Koyu Antoloji,Renkli Rüyalar Oteli,44,262398,False,0.562,0.443,0,-8.975,1,0.0405,0.244,0.000122,0.225,0.46,99.922,4,turkish
+76gf6DpUXDvgXnGsIGE8kk,Hidra,Cennetten Cehenneme,Cennetten Cehenneme,44,207659,True,0.746,0.699,1,-9.243,1,0.0705,0.00242,0.0,0.363,0.466,141.02,4,turkish
+5TxPhGSp5fUrMCA6WtTjws,Zakkum,Bir Gece Yarası,Sen Hala Benimlesin,43,270724,False,0.432,0.609,9,-6.201,0,0.0367,0.275,1.08e-05,0.0874,0.525,173.783,4,turkish
+6A7FIO2ZmRZf2bnRt8G2AU,Gülden Karaböcek,"Duyarmısın Feryadımı (Gülden Karaböcek Altın Klasikleri, Vol. 1)",Sevsen Ne Olurdu,45,364333,False,0.345,0.453,11,-8.274,0,0.0275,0.221,1.45e-05,0.358,0.281,78.538,4,turkish
+18Ies0Fsw2IwDuLoOhDlyy,Zeynep Bastık,Ara,Ara,65,180226,False,0.621,0.674,0,-5.777,0,0.0472,0.241,0.00182,0.116,0.304,163.917,4,turkish
+3fGq0g7fhBaAyQju4oBOJO,GOKO!,Best Viral Tunes,EVA & MIA,0,174883,True,0.78,0.636,7,-5.698,0,0.0568,0.288,0.0,0.121,0.803,129.065,4,turkish
+2KrrkACm5tgcUJthsuhySV,GOKO!,Viral Şarkılar,EVA & MIA,0,174883,True,0.78,0.636,7,-5.698,0,0.0568,0.288,0.0,0.121,0.803,129.065,4,turkish
+26g90nfKw79y5ZcRRqHLCz,Cem Karaca,Haykırış,Çökertme,43,181973,False,0.629,0.521,6,-9.27,1,0.0378,0.285,0.0,0.125,0.615,124.178,4,turkish
+30N9iQ35AyTPQXDdoNus8u,Arman Aydin;Philip Strand;Arem Ozguc,The Plan,The Plan,58,135483,False,0.812,0.653,5,-5.849,0,0.0361,0.0059,0.0,0.105,0.864,124.034,4,turkish
+5QMcvZks4GHWCGu047Ze6p,Sokrat St,Hayal,Bunu Sen Seçtin,44,273902,False,0.733,0.67,7,-6.063,0,0.186,0.455,0.0,0.083,0.758,141.981,4,turkish
+54tpOLXYzwilGybXpIAPhH,Sehabe;Şanışer,His,Siyah,43,252751,False,0.513,0.581,0,-8.563,0,0.0861,0.544,8.35e-05,0.122,0.437,171.87,4,turkish
+50oPmiKA4FDPDJ8gwTOuF2,Teoman,Kalbin Yok mu?,Kalbin Yok mu?,42,208909,False,0.342,0.552,2,-5.437,0,0.0333,0.00988,0.0,0.105,0.378,159.497,3,turkish
+5rtEABE6O3vt9ERu5NYEEw,Keişan,"Ateş, Elbet","Ateş, Elbet",43,241786,False,0.537,0.524,8,-8.218,1,0.108,0.231,2.16e-06,0.143,0.138,144.691,4,turkish
+2w7PIxakNkNbPIT3IhPiD9,Tepki,9,Rüyalar,43,196166,False,0.682,0.871,10,-4.206,0,0.235,0.0493,0.0,0.144,0.808,89.984,4,turkish
+6sdwrMh2WwmKALGMSK3pNG,Cash Flow,Suç Sokağı Sakinleri,600 Watt,44,192689,False,0.829,0.596,1,-6.913,1,0.229,0.0749,0.0,0.586,0.0921,76.019,4,turkish
+34cr8mFR7XyDzD47WtRAmZ,Artz;Şehinşah;Ceg,İşin Mutfağı,Yıkılıyorum (feat. Şehinşah & Ceg),43,214151,True,0.777,0.782,10,-7.43,0,0.207,0.128,0.0,0.156,0.734,89.997,4,turkish
+0E7VEl3GwKqf0giNFuv5iN,Hopex,Conquer,Conquer,51,168008,False,0.57,0.85,4,-5.929,1,0.0635,0.00242,0.542,0.336,0.276,149.86,4,turkish
+1uNdxNGDhjTTbsdRtx6s1r,Ati242;Şehinşah,Junkie Flow,Press,43,179652,True,0.808,0.666,7,-8.636,1,0.164,0.0144,5.36e-05,0.241,0.467,96.026,4,turkish
+24WxherbUpdXB1lUTRsqmJ,Ais Ezhel;Red;Emrah Karakuyu;Keişan;Anıl Piyancı;Nomad,Sekiz,Sekiz 2,44,278453,False,0.821,0.839,2,-4.723,1,0.22,0.272,0.0,0.306,0.285,101.118,4,turkish
+4Nhzp5J1JSYaqXCFvrKwNJ,Şanışer;Sokrat St,Onuncu Gün,Anlamı Yok,44,193150,True,0.462,0.826,6,-4.841,1,0.322,0.435,0.0,0.204,0.576,173.544,4,turkish
+2X1xpbHHYq3ZGSK3kIqAcq,No.1;Rozz Kalliope,P.I.V,Yokluğuma Alışma,43,252556,True,0.813,0.706,9,-7.414,0,0.0407,0.075,0.00249,0.0376,0.505,99.991,4,turkish
+5gFfoZxgMHgMiArpO4Balz,İnsan Mıyız,Seni Senden,Seni Senden,44,229125,False,0.628,0.703,10,-8.365,0,0.0341,0.0355,0.000696,0.105,0.231,120.006,4,turkish
+2pMJHVV8TRnh6hWsoEsJhu,Teoman,Gönülçelen,Hayalperest,42,193626,False,0.536,0.62,8,-7.015,0,0.0288,0.00313,0.00408,0.348,0.315,92.231,4,turkish
+2qCrkyUd57Od0o2Grxs8Qp,Tanerman;Lia Shine;Yung Ouzo,Benden Uzak,Benden Uzak,43,160993,True,0.66,0.584,10,-8.417,0,0.337,0.111,9.62e-06,0.206,0.469,180.069,4,turkish
+61ETNByp6W03R3P8arJrE6,No.1,Kron1k,Sarhoş,43,200593,True,0.562,0.788,0,-5.633,0,0.183,0.451,4.59e-05,0.129,0.299,130.023,4,turkish
+2L8DgKunEz9gszwTvMnnrj,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Beş Dakika - Live,44,189689,False,0.663,0.546,4,-8.69,0,0.045,0.74,8.62e-06,0.744,0.391,103.135,4,turkish
+0hkuE7tEnOoCIY8dMKDDVf,Hidra,Sniper,Sniper,43,230495,True,0.831,0.675,8,-9.952,1,0.161,0.184,0.0,0.124,0.561,101.008,5,turkish
+3yQCp4qxlnvi4e3q4Pbhp2,Şehinşah,Denetimli Serbestlik Stili (Deluxe),İstila,43,226092,True,0.841,0.858,2,-4.7,1,0.0997,0.015,0.0,0.0507,0.0738,136.999,4,turkish
+2rbD17OQwYnyCKZshUR5Ny,Hayki,ICONIQUE,Bu Kendime Son Gelişim,43,224217,True,0.878,0.711,9,-6.602,0,0.205,0.223,0.0,0.158,0.461,114.95,4,turkish
+1vZDPEngmDv3qxXQpVzuN6,Özlem Özdil,Zamansız Yağmur,Sürgün,43,271480,False,0.646,0.485,4,-7.918,0,0.0263,0.624,0.0,0.0962,0.546,104.947,4,turkish
+7He6O9MfnoiYyLyScflLRX,Hidra,C-137,Lirikal Ağ,43,180052,True,0.797,0.563,4,-11.412,0,0.106,0.539,0.0,0.106,0.169,97.007,4,turkish
+2oJ0dSKYEgRvSVtCx3mC8e,Bağzıları,Sizin Olsun Dünyalar,Sizin Olsun Dünyalar,43,217500,False,0.539,0.559,4,-9.687,0,0.0244,0.0426,1.03e-05,0.193,0.668,148.163,4,turkish
+5ENWRf6LBynCbfoqNUP1Ps,Tan Taşçı,İşaret,Elbet,43,284573,False,0.632,0.625,7,-6.091,0,0.0482,0.421,0.0,0.136,0.458,139.975,4,turkish
+6oXljg61730CnMgPZ1wC3S,Mavi;Defa,VERITAS,fanus,44,169322,True,0.704,0.546,1,-7.206,1,0.0524,0.0581,0.0,0.0973,0.169,118.022,4,turkish
+6mBzMnYNYleDgJcbsCt7Yx,Ceg,Trapanasyon,Asi,43,150624,True,0.877,0.621,2,-6.13,1,0.114,0.371,3.75e-06,0.164,0.247,119.934,4,turkish
+7kTRgxS3THFvORSeb1NZ2x,Şanışer,LUDOVICO II,Yanıma Gelmesinler,44,199026,True,0.663,0.579,7,-11.992,1,0.226,0.0664,0.0,0.245,0.592,99.957,4,turkish
+1aen7mZIWZdVU6M6wzuXT0,Mavi Gri,Şiir senin yüzündür,Şiir senin yüzündür,43,236210,False,0.603,0.564,7,-9.03,0,0.0471,0.0632,1.46e-05,0.0948,0.338,95.009,4,turkish
+1R9DqmisgzCj1btxmbVVlU,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Cumartesi - Live,43,312482,False,0.717,0.794,11,-7.348,0,0.0604,0.499,0.000851,0.704,0.644,125.969,4,turkish
+3HphA3fVNs1QmhpXGAfB9M,Teoman,Teo,Rapsodi İstanbul,42,279573,False,0.577,0.678,7,-7.064,0,0.0432,0.0474,7.02e-06,0.0849,0.558,179.733,4,turkish
+7DdvDxrc8iYum3tIdS7Lim,Cegıd,Delüzyon,Herşeyin Bir Bedeli Var,43,228532,True,0.764,0.648,5,-7.178,1,0.271,0.372,0.0,0.0911,0.353,121.968,4,turkish
+6Iz5jqNvLvaYHdqgVp9laj,Ceg,DMT,Eski Jagged,43,178946,True,0.629,0.492,8,-9.417,1,0.317,0.491,0.0,0.189,0.143,76.103,4,turkish
+1pIpnZhcoht3IMc4zKPiTr,Ceg,DMT,Dün Gece,43,182056,True,0.763,0.428,9,-9.295,0,0.173,0.306,5.68e-05,0.157,0.474,169.97,4,turkish
+64iA48gs2n6FQpna3qthpG,Istanbul Trip,110,Kural Ne Bilmiyorum,43,276394,True,0.747,0.643,10,-6.046,0,0.29,0.0524,0.0,0.0772,0.429,119.918,4,turkish
+4ixzlBuJEWtHnY4HgQcxTM,Saian,Başıbozuk,Kanunsuzlar,43,182592,False,0.572,0.654,11,-8.012,0,0.255,0.208,2.96e-06,0.0832,0.546,84.035,4,turkish
+4PdRmauZ4AF8HJiwpMVaXT,Ayten Alpman,Ben Böyleyim (45'lik),Ben Böyleyim,42,206725,False,0.399,0.496,5,-7.763,0,0.0509,0.905,0.00786,0.26,0.62,113.625,3,turkish
+3rqhucvukCxRQrVDjq8uRs,Can Bonomo,Bardak Taşıyor,Bardak Taşıyor,43,176059,False,0.72,0.8,6,-7.299,1,0.137,0.123,7.69e-06,0.0849,0.879,104.011,4,turkish
+1ogRx8rHI8vpSLxg6lUkdv,Norm Ender,Aura,Benim Stilim,43,213996,False,0.777,0.729,10,-6.456,0,0.156,0.0242,0.0,0.291,0.837,100.01,4,turkish
+6cMiDfcYG2qJSx2H2GzLSK,Bağzıları,Gece Lambası,Allı Turnam,43,217307,False,0.477,0.481,11,-8.347,0,0.0295,0.413,0.0,0.285,0.289,156.013,4,turkish
+3PAAraURTeoxX4XOF7F2zU,Grup Yorum,Cesaret,Sevda Türküsü,44,294940,False,0.553,0.466,7,-12.786,0,0.0313,0.443,0.117,0.125,0.836,80.965,4,turkish
+3XPGYuJQV0XxSxpboc3qlB,Bergen,İnsan Severse,Kader Diyemezsin,44,263640,False,0.44,0.512,10,-7.357,0,0.0303,0.961,0.323,0.129,0.51,87.935,4,turkish
+1q4Pes6Q7W0sx8kSUFa6zL,Taladro,Dem,Risale 2,44,374896,False,0.732,0.426,6,-7.815,0,0.068,0.248,0.0738,0.0774,0.529,78.013,4,turkish
+2lypX2C1BRKDFefGOQ0eXM,Sezen Aksu,Karşıyım,Karşıyım,43,238690,False,0.702,0.874,0,-5.881,0,0.0909,0.309,0.0,0.059,0.825,150.021,4,turkish
+6sStbTtFbc3VF4Wdj9Z5LQ,Hidra,Holigan,Kriz Gibi Geri Geldim,42,200727,True,0.661,0.967,4,-5.057,0,0.219,0.13,0.0,0.0636,0.7,142.092,4,turkish
+35wZQhXPio95cP72pqo6Wx,Ajda Pekkan,Seksenlerin En Güzel 4 Albümü,Son Yolcu,42,229266,False,0.535,0.738,4,-4.654,1,0.121,0.668,0.0,0.233,0.505,103.254,4,turkish
+6g6MHm9u0h2Em9Xuk89eqR,EDIS,Arıyorum,Arıyorum,72,193805,False,0.442,0.73,8,-4.673,0,0.0755,0.0781,5.24e-06,0.156,0.381,97.062,4,turkish
+04Q5xTS6JKv4zqTbTq92Fa,Onur Ormen;Nieko,Lose Yourself,Lose Yourself,41,142588,False,0.554,0.872,2,-5.657,1,0.12,0.00836,0.542,0.243,0.429,170.007,4,turkish
+4qUz3BeVkyirERXDv5VMkG,Khontkar,100,Olmaz,42,321943,True,0.738,0.783,9,-5.912,1,0.041,0.106,0.0327,0.0908,0.393,106.02,4,turkish
+37dj9NRkXaBrvW0i2XKqus,Gülşen,Beni Durdursan Mı ?,Seyre Dursun Aşk - Akustik,43,248476,False,0.349,0.769,6,-4.848,0,0.0829,0.357,0.0,0.172,0.59,119.907,4,turkish
+1bYbiK0GZbRoCw8S2nq4pw,Lil Zey,Kara Tiyatro,Avaz Avaz,43,142000,False,0.701,0.474,4,-8.023,0,0.0657,0.578,0.000364,0.128,0.0767,138.025,4,turkish
+3Nb8JQTxHJNIhavp9Fjh3i,Anıl Piyancı;Artz;Ezhel,Batı Yakası,Keyif Pezevengi (feat. Ezhel),42,195318,True,0.684,0.787,1,-5.505,1,0.33,0.0862,0.0,0.112,0.836,100.043,4,turkish
+60rspD9bYWHC404mdRHjiP,Aspova;Motive,Matrix (Red),Bin Defa,42,212571,True,0.782,0.575,10,-8.976,0,0.207,0.439,0.0,0.626,0.625,140.023,4,turkish
+0un1UwP6LBEUp1qPyTMV2C,Candan Erçetin,Melek,Bahane,43,182648,False,0.724,0.692,7,-7.111,0,0.419,0.345,0.0,0.065,0.861,189.938,4,turkish
+3bH14FqMe4LSmUVsaWgx9o,Ati242,Dondu Puşt,Dondu Puşt,43,143169,True,0.916,0.499,6,-9.498,1,0.349,0.06,0.0,0.0937,0.813,102.019,4,turkish
+7LWeGt0EmNtuu2h2Pz0vkF,Asil Slang;Zen-G;Tahribad-ı İsyan,RAKSGELE,BANA Bİ'ŞEY OLMAZ,42,192473,False,0.755,0.437,7,-9.861,0,0.105,0.188,0.0,0.11,0.416,130.002,4,turkish
+3FWblef3WNyMeTBCh6xhjg,TNK,Kanatlarımdan Tutma,Ruhum Boğaziçi,42,203439,False,0.519,0.709,10,-7.744,0,0.0649,0.0444,0.0,0.0857,0.688,89.974,4,turkish
+3P4mJbu3evIXhTi6wO6oRs,Keişan;Anıl Piyancı,12,BANA DİK DİK BAKMA,42,181384,False,0.905,0.508,1,-8.836,1,0.245,0.307,9.79e-06,0.122,0.191,129.967,4,turkish
+2PQPjYtchdg7ecv5VXL0ZU,Şanışer,Onuncu Gün,Artık Anlamıyorum,43,226090,False,0.448,0.804,9,-6.85,0,0.197,0.0572,0.0,0.0922,0.398,170.119,4,turkish
+3EqaZCd9Uf9CPKpaWewnhx,Son Feci Bisiklet,Vesaire,Modern Zamanlar,43,282125,False,0.319,0.75,9,-6.866,1,0.0437,0.394,0.0,0.362,0.409,97.963,4,turkish
+3ZX2bOVm7kJH4s2Yhkgpgq,Killa Hakan;Ezhel;GRiNGO,Fight Kulüp,İlk Kural Saygı,42,281774,True,0.638,0.846,11,-4.156,0,0.227,0.388,0.0,0.31,0.587,154.111,4,turkish
+5vLGqpRIfC2LUhcI7S0FPQ,Sagopa Kajmer,Romantizma,Sagopa Yaşlı Planet,42,196803,False,0.776,0.564,2,-7.765,1,0.0899,0.0327,0.0,0.0991,0.561,86.984,4,turkish
+6xgUoKGDKuwkISFEIUbY6s,Şehinşah,666,Intro,42,151081,True,0.616,0.706,11,-7.381,0,0.139,0.315,0.0,0.124,0.126,140.162,4,turkish
+6OYWwrrA1DrthAF6XcCzAF,Şebnem Ferah,Kelimeler Yetse,Babam Oğlum,42,335806,False,0.655,0.581,4,-6.873,0,0.0311,0.0921,0.0,0.153,0.287,91.966,4,turkish
+6u6XQZLNw4AOV2wZgMszpX,Zakkum,"Duble, Vol. 1",Hiç mi Özlemedin,42,202124,False,0.388,0.398,4,-11.964,0,0.0445,0.299,0.000142,0.158,0.429,179.856,4,turkish
+2i969LNj3kMS4wbRsz7zC8,Kayra,Hayırsız Evlat,Hayırsız Evlat,43,183927,False,0.642,0.811,3,-6.81,0,0.223,0.00574,0.0,0.365,0.811,94.099,4,turkish
+0ffoEaBfbccbYWFsubcF8O,Ajda Pekkan,Ajda Pekkan Box Set,Baksana Talihe,42,239333,False,0.451,0.715,8,-10.07,0,0.105,0.297,2.69e-06,0.454,0.872,172.421,4,turkish
+2oDtpMCWMnOAitKNIoyW8g,Şehinşah,666,Sendeliyorum,42,261756,True,0.786,0.742,5,-6.193,0,0.0397,0.153,0.0,0.108,0.695,125.049,4,turkish
+3EAZILxlMITj5PyquATJI5,Şanışer,Otuzuncu Gün,Yazamam Ecele,43,195887,False,0.536,0.763,9,-3.742,0,0.0468,0.0159,0.0,0.104,0.355,135.922,4,turkish
+2vNEj66XGZYt3gNX0n5mJ1,Gökhan Türkmen,Biraz Ayrılık,Biraz Ayrılık,43,260852,False,0.679,0.821,4,-7.836,0,0.139,0.524,0.0,0.106,0.606,89.987,4,turkish
+6YmIYB5h8biNAfzXuBcqLH,Cem Adrian,Gökyüzümün Yıldızları,Duymak İstiyorum,42,255385,False,0.404,0.369,2,-9.806,0,0.0349,0.815,0.0,0.307,0.146,78.268,4,turkish
+3pu1Q8D1KgapWsNM4fz7Q8,Asya,Masum,Pişmanım,42,269226,False,0.494,0.442,5,-8.493,0,0.0425,0.75,0.0,0.298,0.32,156.014,4,turkish
+0HgvuEVpnv8TjvdQkZRcet,Gece,Gece,Yarım,41,197986,False,0.53,0.845,11,-4.767,0,0.0384,0.017,0.0,0.265,0.308,138.057,3,turkish
+3O1g8J812AuiHWhynoLQ1E,Kibariye,Bir Duygudur Kibariye,Kara Gözlü Çingenem,42,252226,False,0.404,0.628,2,-10.407,1,0.0516,0.502,0.0,0.241,0.518,147.182,3,turkish
+7rFkmqlY34Jt0iRfENJoWM,Sokrat St;Beta Berk Bayındır,Grafomani,Gregoryen,43,187562,True,0.765,0.525,2,-11.767,1,0.0924,0.312,0.000229,0.0991,0.42,122.778,4,turkish
+1BoyRKQzis8ASM8NsFrZiJ,Stabil,Kalender,Kalender,43,181022,False,0.725,0.564,1,-9.951,0,0.149,0.452,0.000139,0.112,0.175,109.978,4,turkish
+6vpyvi70JNqAJa9IqNx8qy,Tan Taşçı,İşaret,Aşkım Diyorum,43,245626,False,0.667,0.749,7,-6.609,0,0.108,0.145,0.0,0.187,0.733,145.967,4,turkish
+4xvLwIKhEDQ5QyPnBswVBH,Ceg;Ati242,DMT,Ciro,42,193933,True,0.717,0.683,1,-9.698,1,0.139,0.265,0.0447,0.0843,0.861,76.029,4,turkish
+70yTGo4j6gMh3MpbTZP5ZS,Ati242;Massaka,DIPSOMANIA,9 MM,43,191587,True,0.804,0.799,10,-5.095,0,0.303,0.247,0.0,0.137,0.649,78.431,4,turkish
+7HB1SEhUPXRndE7uOdEssq,No.1;Azap HG,Düş O Zaman,Düş O Zaman,43,293147,True,0.622,0.625,4,-7.936,0,0.0567,0.00338,0.0,0.163,0.257,86.97,4,turkish
+1IBRy2b801SzkoA2vcA1wX,Yaşar,Divane,O'nun Vedası,43,289973,False,0.347,0.568,0,-7.779,0,0.0674,0.395,0.0,0.166,0.281,76.631,3,turkish
+171luCSfSTBnaIVnfTVbS6,Melike Şahin,Merhem: İlk Konserler (Live),Nasır (Live @ Zorlu PSM),42,269354,False,0.551,0.478,10,-10.58,0,0.0378,0.526,0.0,0.288,0.523,98.056,4,turkish
+3ZJtTM551IMKK9iYZTInZL,Taladro;Canfeza,Dem,Payiz,43,310217,False,0.415,0.637,7,-8.477,0,0.267,0.584,2.63e-06,0.0976,0.327,84.871,4,turkish
+4tQK5nLncEwIbxmWEz3LUb,Nalan,Usul Usul,Farzet,42,293360,False,0.408,0.537,0,-9.31,0,0.0841,0.547,0.0,0.149,0.449,165.506,5,turkish
+2fOgVsqqhoKosAiIBdHzoY,No.1,Siyah Bayrak,"Nefes Al Zombi, Pt. 2",43,192134,True,0.576,0.857,2,-5.861,1,0.23,0.0459,0.0,0.0639,0.757,93.873,4,turkish
+5429svPuyzL4AvvQUTyPPn,Şehinşah;DJ Artz,DEEV (Deluxe Edition),Hepsi Benim 2 (feat. DJ Artz),42,154736,True,0.845,0.922,1,-6.286,1,0.137,0.18,0.0,0.209,0.583,132.0,4,turkish
+4nGy2XA9QGxYb90cNyHguO,Barış Kocatürk,Kesin Kesiktir,Kalmalısın,42,199285,False,0.646,0.645,11,-6.775,0,0.0287,0.246,0.0,0.181,0.687,121.999,4,turkish
+062WEhWJ0tNa0CaAEuMwYB,Kurban,Kurban,Yalan,42,207706,False,0.609,0.965,7,-5.245,1,0.112,0.000877,0.000806,0.188,0.783,140.121,4,turkish
+5bpxN2pClWhTo48Cqtj8kc,Yedinci Ev,Şimdi,Eninde Sonunda,42,199090,False,0.606,0.753,9,-7.92,0,0.0357,0.0638,0.0,0.19,0.894,144.022,4,turkish
+4BaHxoK6n9LkHOa2mBvpWn,Nazan Öncel,Hayvan,Beni Bu Koca Şehirde Yalnız Bırakma,42,230240,False,0.715,0.809,3,-4.404,0,0.0528,0.116,3.76e-05,0.0805,0.757,149.978,4,turkish
+3WkBs1gsmOcjND2jEu5KK5,Pera,En Güzel Mevsimim,Veda Busesi,43,253570,False,0.484,0.484,4,-12.882,0,0.0442,0.113,4.08e-06,0.0947,0.356,147.992,4,turkish
+6lCXA1AzsYY9nohwPuAkYc,Ceg,Trapanasyon,Bafi,42,228193,True,0.831,0.639,10,-6.14,0,0.181,0.286,0.00119,0.0894,0.662,155.031,4,turkish
+0wFDRW3s1i5rhFIl3KQ3wr,Cash Flow,Suç Sokağı Sakinleri,Hergün Bela Devam,43,214884,False,0.606,0.689,10,-5.628,0,0.504,0.0208,0.0,0.386,0.105,76.727,4,turkish
+6Zl5O5HoaYrVdogW4i5njF,Norm Ender,Enderground,Enderground,42,125116,True,0.654,0.65,2,-8.638,1,0.0717,0.0709,1.71e-06,0.353,0.913,94.035,4,turkish
+5Wf7RzQmw0mP5jdXD02zNn,Emre Kaya,Senin de Aşkın Yalanmış (Akustik),Senin de Aşkın Yalanmış - Akustik,42,318876,False,0.55,0.497,0,-8.768,0,0.053,0.307,1.34e-06,0.115,0.375,88.039,4,turkish
+6TiiDZgtQ3xJLWzrGBWDmc,Kamuran Akkor,Sev Yeter,Beni Kaybettin Artık,43,256673,False,0.444,0.684,0,-6.525,0,0.0379,0.658,0.000145,0.315,0.483,149.361,3,turkish
+6o9EqO0WhvfzvEQOIDtiWK,Serhat Durmus;Zerrin,Yolu Yok (feat. Zerrin),Yolu Yok (feat. Zerrin),44,195991,False,0.655,0.632,9,-8.655,0,0.0454,0.0677,0.000599,0.0907,0.13,89.985,4,turkish
+4IRitV0vz4K7lCgwPilLPO,Şam;Ohash,P.O.P Mixtape pt.2,Artık,42,189397,False,0.673,0.486,8,-7.119,0,0.316,0.7,0.0,0.11,0.486,108.265,4,turkish
+0n80PaFFbFL7MiCbFjAt6A,Şanışer;Sezgin Alkan,LUDOVICO II,Ölüm Aklımı Çelmek Üzere,42,232411,False,0.661,0.438,9,-11.291,1,0.0546,0.442,0.0,0.0967,0.119,122.019,4,turkish
+3q6wNLr8r15KguHfGbPZNm,Sözer Sepetçi;Samet Yıldırım,My Neck My Back,My Neck My Back,41,220133,False,0.792,0.847,7,-6.476,1,0.0561,0.00172,0.131,0.361,0.299,110.013,4,turkish
+0eI3hO3Uoo9jl0ARjdtnk4,Serhat Durmus;Camilia,Safe With You,Safe With You,48,197773,False,0.636,0.613,8,-8.322,0,0.0667,0.0289,0.00594,0.128,0.093,114.902,4,turkish
+7xRbBFmXl2qurYXDP1pldn,Kum,Karolina,Karolina,42,157492,True,0.74,0.516,4,-8.344,0,0.0301,0.0607,0.0,0.154,0.459,87.973,4,turkish
+6Ung3QAE6PzpCgVJLMAisr,Aspova,S P A C E,Bir Sigara,41,235200,True,0.699,0.613,10,-9.235,0,0.217,0.236,0.0,0.416,0.493,100.041,4,turkish
+1RaB8wBS5z9z2TvfaLEB2R,Şam,P.O.P Mixtape pt.1,Ailem İçin,42,218733,True,0.664,0.534,1,-8.806,0,0.232,0.468,0.0,0.258,0.351,120.482,4,turkish
+4pbMu6fRhg9mEZcHaO4NNo,Kaan Tangöze,Gölge Etme,Bir Kız Bana Emmi Dedi,42,151219,False,0.402,0.213,2,-13.662,0,0.0392,0.91,3.88e-05,0.357,0.146,145.91,4,turkish
+3M9kaCvxRrELK2dyrcYdnz,MAW;Myndless Grimes,BUZ,Benim Olsan Sen,41,224000,False,0.593,0.537,10,-9.112,0,0.0389,0.0662,0.00407,0.131,0.146,164.976,4,turkish
+7MvAxPydiZTdyhj8Ix9rqE,Barlas & Mert;Yoelle,Astronaut in the Ocean,Astronaut in the Ocean,49,141945,False,0.772,0.841,1,-4.698,1,0.0754,0.175,0.055,0.107,0.172,123.998,4,turkish
+5BKdRtbYplpPYkLE9NlZ24,Şehinşah,Hadi Yaparsın,Hadi Yaparsın,42,195692,True,0.856,0.509,4,-8.038,0,0.0851,0.0397,4.48e-05,0.12,0.397,129.993,4,turkish
+13z58W2I8gxu7OtgmkJ5VB,Yaşlı Amca,Akşamüstü,Her Şey Sen,41,166905,False,0.426,0.839,8,-4.809,0,0.039,0.000407,3.25e-05,0.134,0.557,102.02,4,turkish
+36ROZuJyblakeB5BJijGjG,Mert Demir;Tolga Akdoğan,1500,1500,42,188000,False,0.682,0.789,5,-7.925,1,0.252,0.505,0.014,0.0855,0.735,89.999,4,turkish
+7sU47AuRDvIxpS77gkMuO5,Deniz Seki,Sahici,Sahici,41,237786,False,0.637,0.614,5,-6.125,1,0.0896,0.372,0.0,0.326,0.711,81.954,4,turkish
+0CW8BDlowvfZGkf5JINSjH,Nazan Öncel,Yan Yana Fotoğraf Çektirelim,Beni hatırla,41,312120,False,0.693,0.629,10,-8.301,0,0.0484,0.51,3.11e-05,0.168,0.621,84.032,4,turkish
+3DKeM8CWG2bbxB6A8Ok2ea,Çağrı Sinci,Kayıp Şarkılar,Daha Neler,42,193108,False,0.696,0.626,10,-10.12,0,0.274,0.259,0.0,0.0748,0.729,172.024,4,turkish
+1YNejzXu2HDtUhnyPEsXOM,Stap,Işporta Holding,Işporta Holding,42,182494,False,0.68,0.781,8,-8.32,0,0.252,0.0806,3.98e-06,0.102,0.438,140.013,4,turkish
+23BU6vssuoPppnNsBwFgQ3,Şanışer,Umut,Kuytu Köşelerde,43,235651,False,0.697,0.376,1,-10.987,1,0.0821,0.565,0.0,0.118,0.14,126.034,4,turkish
+1MRvGeMiQ0gNfQTmP4Kz0G,Hidra,Reptilian,Reptilian,41,150243,False,0.867,0.83,10,-4.947,0,0.14,0.168,0.0,0.0992,0.15,123.078,4,turkish
+6vTrmti4xuMtXvkjJbLlKk,Melike Şahin,Ezginin Günlüğü 40 Yıllık Şarkılar,Aşk Bitti,42,214412,False,0.412,0.352,0,-8.956,0,0.0421,0.831,0.0,0.126,0.457,157.493,3,turkish
+2Jqu87GbopSiPP3v9DR5j6,Nova Norda,Paralel Evrende Dünya Tarihi,Yüreğim Ellerinde,41,209141,False,0.604,0.375,1,-10.925,0,0.0312,0.028,0.0178,0.332,0.0502,119.86,4,turkish
+3d2LudfuvNYJ5TCUvYnjMP,Yedinci Ev,Şimdi,Şimdi,42,273544,False,0.534,0.594,4,-8.529,0,0.0315,0.038,0.0,0.0842,0.577,152.023,4,turkish
+7y0KCFFSd4s84LcqKWO5Q7,Batuflex,Okkey EP,Yavrum,42,191538,True,0.843,0.435,4,-14.406,0,0.137,0.0599,3.94e-06,0.0645,0.147,113.233,5,turkish
+39BYcHLXEyVRZ3WBlaUa6E,Sertab Erener,İyiliğe Ninniler,Dandini Dandini Dastana,41,149168,False,0.506,0.233,3,-12.077,0,0.0276,0.957,2.8e-05,0.116,0.275,88.08,4,turkish
+6evqur3UoNFDzJp3eY86dq,Sertab Erener,Tesadüf Aşk,Tesadüf Aşk,41,233042,False,0.437,0.479,6,-5.698,0,0.0326,0.841,0.0,0.185,0.308,141.49,4,turkish
+2h4AV0nuaKK0rXnQSKzg8A,Cem Adrian,Hüzün Kovan Kuşu,Hüzün Kovan Kuşu,41,277741,False,0.584,0.318,4,-10.394,1,0.0344,0.709,8.74e-05,0.112,0.19,124.003,4,turkish
+6IhcoQkZW6JUB95mHWDt2W,Dört X Dört,Hayır,Arada Bir,41,278853,False,0.472,0.815,1,-4.293,0,0.0343,0.00754,0.00217,0.115,0.323,140.027,4,turkish
+0Kg8R6ta0baT39rXifTqxz,Sagopa Kajmer,Sarkastik,Sal Gitsin,41,270546,False,0.711,0.735,2,-6.521,0,0.0986,0.0618,0.0,0.134,0.67,84.042,4,turkish
+0lO2UiapDVjCZBIpqNGNBO,Niran Ünsal,Haktan,Haktan,41,347333,False,0.489,0.453,4,-10.504,0,0.0452,0.66,0.0,0.276,0.352,119.984,4,turkish
+6eJQWdK5fRPzc0SzWRnPTc,Motive,"M.O.B Mixtape, Vol. 1",Nwa,42,193689,False,0.709,0.783,4,-7.175,0,0.322,0.298,0.0,0.348,0.728,163.828,4,turkish
+5TySgjt2Jbh6qyeQH8gD2r,Haluk Levent,Trilogy,Acılara Tutunmak,42,239146,False,0.647,0.74,10,-9.363,1,0.0748,0.0441,0.0,0.287,0.59,125.903,4,turkish
+21ZjS5SElT8hgyHarqhsIQ,KÖFN,Tepeler,Sensiz N'aparım Ben,42,203000,False,0.705,0.394,11,-9.447,0,0.197,0.119,0.0122,0.145,0.675,172.06,4,turkish
+4aFjH5DC9JXnkVr9PkrtFH,Kibariye,Gülü Soldurmam,Gülü Soldurmam,41,267080,False,0.535,0.638,1,-6.305,0,0.0586,0.635,2.1e-06,0.202,0.532,142.699,3,turkish
+7xxqcMUWjFzVRnHEs3YpqZ,Ayna,20. Yıl (1. Bölüm),Çayımın Şekeri,41,295733,False,0.57,0.89,9,-7.199,0,0.0403,0.0757,5.44e-06,0.0991,0.692,138.031,4,turkish
+036OY3xFXIRCTTCLyIs0yd,Mode XL,Serseri Serbest Stili,Toz Konduramazsın,42,175000,False,0.888,0.204,11,-9.486,1,0.456,0.37,0.00045,0.112,0.218,90.059,4,turkish
+3t3sAYQwV4ZclVBjKan5DL,Gülden Karaböcek,Hatıran Yeter (1990-1991 Folk Kayıtları),Hatıran Yeter,43,298160,False,0.53,0.752,4,-2.683,0,0.0351,0.778,0.0,0.249,0.467,90.007,4,turkish
+5NApByZPKrET70ySe5LpJE,Yiğit Seferoğlu,İnorganik Şehir Müziği,Uğruna Savaşlar Verilmiş Gibisin,41,204042,False,0.653,0.589,11,-6.517,0,0.0689,0.0913,0.0,0.589,0.61,78.008,4,turkish
+4TXW37vOHHoo1oyYHEw85t,Melek Mosso,Kedi,Kedi,42,213024,False,0.824,0.703,7,-5.242,1,0.173,0.192,0.0,0.0919,0.645,124.031,4,turkish
+3soQ0e19kGGF6CDyCoZvrt,Müzeyyen Senar,Esiri Zülfünüm,Akşam Oldu Hüzünlendim Ben Yine,41,166680,False,0.279,0.471,4,-8.347,0,0.0359,0.913,0.00328,0.316,0.349,104.432,4,turkish
+0EhMQgTXdA6qa4rkXTofHk,Allame,Fare Kapanı,Fare Kapanı,42,175437,False,0.527,0.825,7,-7.034,1,0.323,0.103,0.0,0.37,0.81,76.262,4,turkish
+3OruMvKSSssJEiTwQxcyET,Motive,Makaveli (Deluxe),Risk,42,114067,False,0.746,0.61,11,-8.075,1,0.403,0.351,0.0,0.156,0.503,165.006,4,turkish
+0brFNoWWDo4EhKbOcFYFLc,Ceg,Trapanasyon,Tanrı,42,243060,True,0.833,0.625,10,-6.16,0,0.185,0.254,0.00256,0.0919,0.238,124.976,4,turkish
+1kZh2hBrCRobQWdfaNhCfZ,Saian,Dilimizi Biliyor,Al Sevgilim Kanser Ol Bununla,41,248688,False,0.742,0.652,11,-7.611,0,0.242,0.0743,1.22e-06,0.342,0.792,96.036,4,turkish
+6DR3yiy1fpW1892MznPkLr,Yüksek Sadakat,Renk Körü,Onlar Bizi Dinlerler,41,278726,False,0.594,0.793,5,-8.096,1,0.05,0.0509,0.000162,0.102,0.636,136.984,4,turkish
+0YBafQ4nOmk2KSbCzTtMJu,Zakkum,Bir Gece Yarası,İkimiz de Yorgunuz,41,236990,False,0.465,0.582,6,-5.885,0,0.0317,0.203,0.0,0.122,0.532,169.957,4,turkish
+1krEOcGboawg1tMfFCwXKJ,Hayko Cepkin,Destina (Yeni Türkü Zamansız),Destina - Yeni Türkü Zamansız,41,182843,False,0.311,0.641,9,-8.449,0,0.0357,0.0221,1.63e-06,0.121,0.0477,109.84,4,turkish
+2L9tF2fgLtHCGcS4jF7aMw,Stabil,Stabil,Mesele2,43,195213,False,0.705,0.515,4,-14.346,1,0.0466,0.91,0.25,0.114,0.678,84.985,4,turkish
+1o7GNDGGssOGUEHqwUo9uk,Seyyal Taner,Son Verdim Kalbimin İşine,Son Verdim Kalbimin İşine,43,214973,False,0.631,0.555,1,-8.093,0,0.0442,0.696,0.0,0.426,0.778,127.958,4,turkish
+2pK07K26sYHQuH3NwL0Kgm,Linet,Yorum Farkı,Eylül Akşamı,42,276688,False,0.286,0.594,4,-4.231,0,0.0526,0.513,0.0,0.196,0.235,92.054,4,turkish
+0JZv3A589Gt4wFSHxOYWxq,Ilkan Gunuc;Emrah Turken,My Name Is Tokyo,My Name Is Tokyo,50,172216,False,0.712,0.81,4,-3.659,0,0.0344,0.000624,0.326,0.0725,0.393,119.988,4,turkish
+45rP37B0Fu5u7Me7ORJr8A,Hepsi,Hepsi İki,Olmaz Böyle Şey,42,213160,False,0.854,0.508,0,-5.125,1,0.0755,0.0388,0.0,0.199,0.756,110.013,4,turkish
+5h10bwQGHBYiMWbbVNOMqq,Stap,Size XXL,Bana Masal Anlatma,41,215412,True,0.896,0.79,9,-6.921,1,0.245,0.132,1.68e-05,0.151,0.825,130.021,4,turkish
+577q8gGSTryRxX1YHWSjWk,Birsen Tezer,Kadın,Kadın,40,341094,False,0.545,0.467,7,-8.641,0,0.0291,0.706,1.92e-06,0.112,0.251,88.178,4,turkish
+5tSEnjvsdrkzwcD9q0Lklf,Artz;Şehinşah;Ezhel,İşin Mutfağı,Ihtan (feat. Şehinşah & Ezhel),42,217730,True,0.863,0.59,0,-7.486,1,0.268,0.295,0.0,0.102,0.475,100.009,4,turkish
+43XJDleJSJ9jPoozxv4rz6,Ati242;Zen-G,Flowjob,Flowjob,42,153000,True,0.734,0.658,10,-8.258,0,0.108,0.0765,3.69e-05,0.289,0.449,80.001,4,turkish
+3UsAv3f3IgAIaPK2NBSih8,Ahiyan,Zindan,Zindan,41,136901,False,0.65,0.519,6,-7.886,0,0.129,0.307,0.00284,0.104,0.515,141.892,4,turkish
+3QrBrMbPxOWcCYcwSlxliL,Vio,Output Nr.1 – Varoş,Output Nr.1 – Varoş,41,224023,False,0.858,0.784,6,-4.183,0,0.28,0.612,0.0,0.0622,0.443,130.014,4,turkish
+2ZMBcQC69mT9rydz83SVPz,Asil Slang,Çıkmadın Aklımdan,Çıkmadın Aklımdan,41,170625,False,0.529,0.53,6,-7.71,0,0.149,0.443,0.00974,0.0739,0.11,99.939,4,turkish
+6YPCSiUNUJqxMIC8ppj7dV,Khontkar,Trap Kont 2.5,Hepsi Geçecek,41,194790,True,0.827,0.57,8,-7.595,1,0.0911,0.0943,0.0,0.123,0.167,138.016,4,turkish
+35uSkg3jgO5Ut0uDHHGRhO,Ceza,Rapstar,Sabah Bastı Geceyi (Savaş Çocukları Part 2),43,154173,False,0.856,0.767,7,-6.848,1,0.339,0.262,0.000134,0.267,0.727,96.99,4,turkish
+4pxcboeftnVJoMuqigFL4g,Cash Flow;Gekko G,Suikast,Suikast,42,199111,False,0.808,0.642,6,-6.665,0,0.0881,0.061,0.0,0.0803,0.353,135.002,4,turkish
+22g9QSTWCCUvCqzVwOlfcZ,maNga,Zor,Zor,41,219849,False,0.562,0.816,4,-4.234,0,0.0398,0.0198,4.78e-06,0.106,0.238,122.01,4,turkish
+3EkN2OnkpsVFZj29Jn8fCI,Khontkar,Hiç Uğraşma,Hiç Uğraşma,41,148500,True,0.715,0.672,2,-6.196,0,0.0552,0.198,0.0,0.0888,0.647,149.981,4,turkish
+4JTJfU6tEmeMKwxgkRqy7V,No.1,Renkler (Sü),Renkler (Sü),42,190615,True,0.607,0.266,9,-14.241,0,0.0489,0.935,0.213,0.348,0.22,89.407,4,turkish
+4kOWMEmGpyxQk6n72bYvot,Elyas & Taha,Ay,Ay,42,140364,False,0.449,0.146,6,-19.824,0,0.0298,0.936,5.04e-05,0.107,0.313,139.823,4,turkish
+0UdLsmZQiV8VakbQ9xMYdx,Redd,Gecenin Fişi Yok (Akustik),Boşver - 2020 Remastered,42,272653,False,0.452,0.58,7,-9.582,0,0.0498,0.256,1.28e-05,0.755,0.335,96.208,4,turkish
+0MrRkPobZqa3PKwnmEqTRL,İkiye On Kala,Yaka Faça,Ben Bu Kafayla Napıcam,42,306000,False,0.498,0.338,1,-15.845,0,0.043,0.111,0.0155,0.173,0.355,126.675,5,turkish
+6NOMa4tPPbfCmGzNLy8u8K,Güney Marlen,Boş Lunapark,Nasıl Düştüm Bu Derde,41,224710,False,0.715,0.414,0,-12.851,0,0.0324,0.0536,4.7e-06,0.197,0.478,90.043,4,turkish
+1FAERur0SW0KB38aii9tPF,Nilüfer;Malt,12 Düet,Ara Sıra Bazı Bazı,42,218853,False,0.511,0.894,3,-5.179,0,0.0863,0.0159,0.0,0.331,0.466,88.002,4,turkish
+43f3oGrYrjcB06aNPVXH2T,Evgeny Grinko,Outtakes,Wind Brought,61,84948,False,0.282,0.0663,0,-24.072,0,0.0448,0.989,0.93,0.0985,0.155,209.557,4,turkish
+4RNuCCsvfGF03sfmboHwlT,Peyk,Suluşaka,Gidin,41,195533,False,0.698,0.532,4,-8.513,1,0.032,0.226,0.00425,0.0684,0.394,105.909,4,turkish
+5buYtr0iPGkVC45w58Zpfl,110,Sıfır,İstediğin Buysa,41,248667,False,0.587,0.622,4,-6.907,0,0.0263,0.00566,0.196,0.317,0.366,85.986,4,turkish
+47oYqbEyPdb6H9LktAHStx,Hidra,Zehir,Zehir,41,248000,True,0.856,0.791,10,-8.757,0,0.0855,0.361,0.0,0.0679,0.727,110.012,4,turkish
+5mJjrT0Sh1ylDc6wOte7BX,Şehinşah;DJ Artz,DEEV (Deluxe Edition),Arkadaş (feat. DJ Artz),41,295131,True,0.641,0.76,11,-7.101,1,0.462,0.102,0.0,0.203,0.324,90.111,4,turkish
+50K50CRUzz8i6CBy5pWRE7,Sezen Aksu,Bahane,Yanmışım Sönmüşüm Ben,42,280613,False,0.717,0.819,7,-5.786,0,0.0626,0.0558,0.0176,0.352,0.825,125.017,4,turkish
+5zpp05KjY1h6WDFsujb1yy,Cash Flow,Gayri Meşhur,Mikrofon Biznezz,42,189264,True,0.592,0.85,2,-3.79,1,0.313,0.0743,0.0,0.241,0.716,79.816,4,turkish
+42dmx5VU5Se0SkoDq5vMB0,Sagopa Kajmer,Ahmak Islatan,Bir çok Kez Öldüm,41,242175,False,0.627,0.606,1,-6.583,1,0.0437,0.00933,0.0,0.13,0.504,89.001,4,turkish
+12SNxpytVKahQ25nOTpbFX,Jehan Barbur,Kusura Bakmasınlar,Kusura Bakmasınlar,41,247160,False,0.65,0.577,4,-8.728,0,0.0426,0.543,1.23e-06,0.18,0.373,81.986,4,turkish
+3MPWFeAd3vI1b0JXoPSeDH,Nalan,Adresi Biliyorsun,Adresi Biliyorsun,41,282333,False,0.785,0.893,9,-6.551,0,0.0732,0.306,2.18e-06,0.173,0.811,105.997,4,turkish
+7uLKvHDrpVZ6WdLGJH2dG1,Hayko Cepkin,Sakin Olmam Lazım,Görmüyorsun,41,184853,False,0.525,0.637,7,-7.479,0,0.0293,0.00293,2.45e-05,0.102,0.653,77.493,4,turkish
+3d6O6X0g6uLFao75MVby0Q,Ferdi Tayfur,Zengin Olursam,Ayrılacağım,42,232600,False,0.521,0.517,7,-10.936,1,0.277,0.194,0.00392,0.203,0.493,167.563,4,turkish
+3qeXSz02VoeNntvBX0Skw6,Zülfü Livaneli,"Bütüneserleri, Vol. 6 (Günlerimiz)",Kardeşin Duymaz,41,219973,False,0.609,0.423,0,-11.647,0,0.0308,0.797,0.00461,0.141,0.39,135.601,4,turkish
+4r31doUQx7wRpbG4y4hTXU,Defkhan;Rota,Besdokuz,Mat,42,194959,True,0.848,0.767,11,-6.818,1,0.0696,0.398,0.0,0.0995,0.875,139.954,4,turkish
+3GyDOD74sUjRACdCMm7OqS,Ahiyan,SAKLAYANLARDANIM,Kurtulamadım,41,174178,False,0.533,0.418,2,-9.351,0,0.0421,0.0652,0.0414,0.0912,0.262,147.868,4,turkish
+4ExbXuHC5aS8yM98PeGNpP,Hayki;Hayko Cepkin,OL,Çoban Yıldızı (feat. Hayko Cepkin),41,198803,False,0.791,0.727,6,-6.154,0,0.196,0.181,0.0,0.118,0.719,139.974,4,turkish
+1DKt8jBLop9ybhGwkxhOO6,Kibariye,Anlayamazsın,Tepecikli,41,352800,False,0.67,0.608,11,-11.298,0,0.208,0.0765,0.0,0.0531,0.712,149.024,3,turkish
+1smXC6H0O8po3P4bS7MrgC,İlhan İrem,Dünden Yarına,Konuşamıyorum (Sazlıklardan Havalanan),40,226493,False,0.607,0.536,4,-13.088,0,0.0323,0.162,0.0692,0.0935,0.562,108.427,4,turkish
+1dnvyFdxMSFadWjg7IhMXV,Motive,Makaveli (Deluxe),Davam,41,155623,False,0.672,0.759,1,-5.259,1,0.0534,0.0992,3.51e-06,0.317,0.247,137.029,4,turkish
+5S5GrvMjoup87vV4sORTVb,Rana Alagöz;Selçuk Alagöz,Biz Sizin Şarkılarınızla Büyüdük,Her Şey Bitmedi Bitemez,41,184786,False,0.348,0.727,1,-6.782,1,0.38,0.257,0.0,0.162,0.648,185.076,3,turkish
+6rDlblA3VRAk1V6RAAFQ5a,Teoman,Rock and Roll,Ruhun Sarışın,41,257105,False,0.684,0.708,2,-4.818,0,0.0476,0.0204,4.08e-05,0.075,0.405,91.98,4,turkish
+2FU1YUBRONE4XXTiffe2Bv,Sertab Erener;Öykü Karayel,İyiliğe Ninniler,Benim Annem Güzel Annem,40,145008,False,0.671,0.185,0,-10.555,1,0.0302,0.986,0.0,0.106,0.353,77.943,3,turkish
+09vAeAkA2wbwJZNSyzse2D,Hidra,Hedefte,Kadınlar,41,190909,False,0.737,0.804,1,-4.378,1,0.0967,0.16,0.0,0.315,0.463,91.978,4,turkish
+0WnwDmHrQE4a9sU6jaDj0s,Ferhat Göçer,Bana Aşkı Yaşat,Adını Tek Geçerim,42,183447,False,0.764,0.856,0,-5.956,0,0.0667,0.143,0.0,0.37,0.875,160.921,4,turkish
+46nm5ts33PX7ZaHbg9vT9T,Barış Kocatürk,Kesin Kesiktir,Çirkin Olunca,41,190285,False,0.542,0.525,7,-9.796,0,0.0984,0.201,0.0,0.151,0.51,172.23,4,turkish
+2rDGftPrTLAsxt67i03HoU,Hidra,Holigan,Ölüme İnat 2,41,181090,True,0.747,0.832,4,-4.54,0,0.0633,0.415,0.0,0.105,0.26,92.009,4,turkish
+3qL3V1yLXabasgRK9FV1L3,Stabil,Stabil,Ortaya Karışık,43,143333,False,0.693,0.687,9,-6.693,1,0.149,0.506,0.0,0.0735,0.652,90.001,4,turkish
+7K1XtggTqNXQeciAF5rLWN,Ajda Pekkan,Hoşgör Sen,Dert Bende Derman Sende,41,230626,False,0.328,0.521,0,-9.804,0,0.0468,0.61,2.71e-06,0.255,0.748,106.31,4,turkish
+5eI11836uL4Ek3jGS1p50y,Ferhat Tunç,Her Mevsim Bahardır,Sen Ateş Ol Ben Yanayım,42,297746,False,0.735,0.463,5,-9.386,1,0.0332,0.736,0.000148,0.136,0.502,110.085,4,turkish
+5wvngasOG8mLVo305CYJWf,Metin Kemal Kahraman,Deniz Koydum Adini,Deniz Koydum Adini,41,362254,False,0.465,0.375,0,-14.046,0,0.0353,0.812,5.85e-06,0.193,0.279,89.974,4,turkish
+6wfb4nI2Vih263JqC8WSoW,Anıl Emre Daldal,M.,M.,75,223750,False,0.575,0.366,1,-13.644,0,0.0281,0.568,0.957,0.129,0.444,100.004,4,turkish
+7Is0OPWVcN8DdZpcNuClcy,Mahmut Orhan;Sena Şener,Feel (feat. Sena Sener) [Radio Edit],Feel (feat. Sena Sener) - Radio Edit,56,172558,False,0.731,0.756,1,-4.937,0,0.0436,0.038,0.162,0.157,0.723,121.004,4,turkish
+7nCIoLLN4BMO8Q6851b8N8,Serhat Durmus,Karma,Karma,39,195142,False,0.499,0.789,9,-5.518,1,0.166,0.0477,0.0953,0.31,0.0663,154.969,4,turkish
+51qhFS6BXk6tTLVlzBVxWF,Can Bonomo,Aşktan ve Gariplikten,İyi ki Doğdun,41,170786,False,0.637,0.661,2,-5.284,0,0.0388,0.107,0.0,0.0916,0.622,96.042,4,turkish
+4MDrGVm2yYsMj97CLGdhdI,Arem Ozguc;Arman Aydin;Jordan Rys,Infinity,Infinity,58,201919,False,0.736,0.916,11,-5.643,0,0.0826,0.00876,0.000163,0.0887,0.339,125.946,4,turkish
+4lWVd7wbwi9qqMKmW5gLWg,Sagopa Kajmer,Tek,Bir Dizi İz (2021 Tek Edit),41,108000,False,0.736,0.583,1,-12.741,1,0.0761,0.00227,0.0,0.107,0.496,91.011,4,turkish
+31nBrU6mQUIsTYzPkFpbEA,Çağrı Sinci,Çığ,Kusursuz Gün,41,163000,False,0.743,0.468,10,-9.216,0,0.0814,0.372,0.627,0.187,0.693,89.979,4,turkish
+3frFcVhiT3voBzNsDpcDSR,TNK,Manik Depresif,Ölelim Mi Beraber,40,238831,False,0.476,0.671,3,-5.258,0,0.0492,0.629,0.0,0.176,0.513,78.305,4,turkish
+4cAp9fEdhzLVYEgd7MnV1D,Suzan Hacigarip,Şimdi Biraz Uyu,Şimdi Biraz Uyu,42,194538,False,0.705,0.393,0,-15.107,0,0.035,0.295,0.00559,0.354,0.459,129.99,4,turkish
+75qBypHcy2uLuZrmuKyL9p,Yedinci Ev,İçine Düştüm,O Olmasa,41,289408,False,0.559,0.604,8,-9.58,0,0.0352,0.0302,0.0463,0.112,0.253,123.841,4,turkish
+0d553W5BQJ5l9Rk5mh5H6k,Kezzo,Düşündüm,Düşündüm,41,189863,True,0.785,0.667,7,-8.339,1,0.184,0.273,3.66e-06,0.089,0.689,145.926,4,turkish
+01mu4LFiBrFkJyELag2eZe,Kuty;Ege Boran;Lia Shine,PAINBOYS,PAINBOYS,43,185146,True,0.62,0.667,1,-7.953,0,0.0664,0.0653,0.0,0.342,0.228,150.042,4,turkish
+4SBTogXwTxT4Okzrej5PtW,Çilekeş,Y.O.K.,Yetmiyor,40,276080,False,0.472,0.749,1,-6.537,0,0.0304,0.000954,9.72e-06,0.153,0.107,141.986,4,turkish
+7tOL8oiMVKiYSzW7gN03Mk,Sezen Aksu;Sertab Erener,Yavrucanım (İyilikle Büyüsün),Yavrucanım - İyilikle Büyüsün,41,227314,False,0.434,0.231,2,-9.807,1,0.0346,0.932,0.0,0.122,0.438,172.961,4,turkish
+0EaHW2BpzOP4P06FqUwkqL,İlhan İrem,Dünden Yarına,Yazık Oldu Yarınlara,40,248200,False,0.617,0.555,4,-12.872,0,0.0328,0.332,0.255,0.258,0.691,107.352,4,turkish
+4VJ0fyWbmVgKUkMkcnEMsI,Khontkar,PLA4: THE VISION,ANTEN FREESTYLE (PLA4 INTRO),41,148500,True,0.776,0.487,1,-10.646,1,0.101,0.543,0.00154,0.0994,0.301,133.944,4,turkish
+6vS6aMSpWDGqugmQ2NsE0l,Teoman,Gönülçelen,İstasyon İnsanları,40,252106,False,0.272,0.447,1,-6.761,1,0.0404,0.0121,0.0,0.0751,0.523,60.736,4,turkish
+5L5ioPrGoDIW93Ek9VbmnF,Sibel Can,Meşk,Senin İçin,40,203572,False,0.382,0.722,4,-6.605,0,0.141,0.229,0.0,0.108,0.453,168.05,3,turkish
+1TlchpKtkmZdYmzWWU569Y,Düşbaz,Güzel Günler,Bahar,41,220640,False,0.572,0.824,7,-6.077,0,0.0528,0.671,0.0,0.238,0.213,91.979,4,turkish
+3cyN4BZhcTdZyTMcqaCDb3,Khontkar;Bixi Blake,PLA4: THE VISION,İZMİR CONFIDENTIAL,41,170000,True,0.828,0.598,2,-8.672,1,0.168,0.243,0.000433,0.11,0.644,98.02,4,turkish
+4KizzdSdXMao25OVesQmOn,Motive,Makaveli,Ateş Et,41,188074,False,0.496,0.692,8,-5.449,1,0.221,0.0726,1.25e-05,0.0973,0.283,163.073,4,turkish
+1pnZlxBY7x2o8q7n5du5Dq,No.1,Siyah Bayrak,Kırmızı Bandana,42,219453,True,0.54,0.827,4,-5.426,0,0.0441,0.000627,0.0383,0.161,0.647,91.096,4,turkish
+5TNxtf7JVC7KtWqTjWZR2A,Joker;Defkhan;Kurşun,Son Kale,Son Kale,41,216413,True,0.72,0.92,5,-5.515,0,0.16,0.0594,0.00091,0.0984,0.333,145.028,4,turkish
+0NL7yybnhCEnTqAZZ28Vkl,Hüsnü Arkan;Feyza Eren,Yalnız Değiliz,Yağmurlar,40,298546,False,0.539,0.393,11,-6.499,0,0.0247,0.814,3.82e-05,0.113,0.235,95.977,4,turkish
+21pLiZEjZoxC7xBCgeTxvP,Allame;Ados,Anakronik,Şehir,40,201734,False,0.693,0.817,8,-4.541,0,0.185,0.108,0.0,0.118,0.615,174.008,3,turkish
+3nUkezJa4NAiyZY1FBgCML,Pamela,Yara,Ağla Halime,40,211477,False,0.652,0.787,1,-5.79,0,0.0355,0.0403,4.59e-05,0.145,0.437,108.009,4,turkish
+74pOe1O7dwfQw4i2DyJwP4,Hidra;No.1;Rapozof,Holigan,Ölüm Kalım Günü,41,331636,True,0.744,0.693,9,-9.563,0,0.226,0.674,0.0,0.161,0.64,140.023,4,turkish
+59YZK0d2ttqxIKD36PaX3t,Emel Sayın,Türk Film Müzikleri,Bak Yeşil Yeşil,41,242677,False,0.453,0.452,10,-7.806,1,0.0362,0.954,0.00728,0.336,0.44,99.16,4,turkish
+4wqeNlogyJtBbcSmL5saYo,Teoman,Gecenin Sonuna Yolculuk,Koma Hali,40,265480,False,0.784,0.561,1,-7.972,1,0.0378,0.348,0.0106,0.112,0.667,110.097,4,turkish
+6O3FZGHypfvAJNsY12MPAJ,Müzeyyen Senar,Müzeyyen Senar Yayınlanmamış Şarkılar (Altın Arşiv Serisi),Kimseye Etmem Şikayet,40,222106,False,0.257,0.422,5,-4.838,1,0.0311,0.948,0.00821,0.322,0.334,96.078,4,turkish
+3aZVPjTCjTqgSqUmstrtBP,No.1,Çiçeklerde Bir Telaş Var (Remix),Çiçeklerde Bir Telaş Var - Remix,41,195356,True,0.551,0.917,7,-6.79,1,0.438,0.0691,0.0,0.157,0.241,172.031,4,turkish
+2fEGPi5nyFvuD9v2Rck9hK,Stap,Yazı,Nasıl Bilirdiniz,41,252132,True,0.783,0.421,4,-12.303,0,0.343,0.0275,0.0,0.0819,0.477,143.021,4,turkish
+4JhcYmk2J6gmykfILxhxKX,Melek Mosso,Parayla Saadet Olmaz,Parayla Saadet Olmaz,41,214598,False,0.645,0.705,5,-6.139,0,0.0551,0.0436,4.44e-06,0.265,0.643,122.058,4,turkish
+0JJQnEfqLwr6dEEBLgr8st,Ceg,DMT,Dedemin Anadol'u,41,175243,True,0.752,0.412,8,-8.445,1,0.127,0.494,0.000422,0.113,0.342,153.99,4,turkish
+7KDyAlFudPiDprkCFEyra9,Rota,Bir Yalan Söyle Bana,Bir Yalan Söyle Bana,42,198923,False,0.731,0.81,1,-4.739,0,0.0386,0.0048,0.000332,0.0936,0.398,129.993,4,turkish
+3dcsMdXSK7hcUDpTOjFpJJ,Deniz Tekin,Hep Oturup Bekledim,Hep Oturup Bekledim,40,266195,False,0.65,0.394,1,-11.404,1,0.0352,0.593,0.00229,0.0907,0.658,93.944,4,turkish
+5KKi4yzW3hcFfINO4xi8D5,Contra;Anıl Piyancı,YERDEN YÜKSEK,YERDEN YÜKSEK,41,133173,True,0.911,0.685,4,-8.672,1,0.172,0.265,0.0,0.0907,0.726,99.042,3,turkish
+71ejLHLwmZKf0oL9gaRC8h,Pera,En Güzel Mevsimim,Sevemezsin,41,231938,False,0.558,0.554,9,-11.589,0,0.0287,0.0689,0.0,0.223,0.503,144.133,4,turkish
+6ndogC1fgl3hSwtRGcqJL2,Motive,Makaveli (Deluxe),Yüksel,41,135011,False,0.741,0.653,11,-7.035,0,0.0451,0.458,0.0,0.119,0.0517,120.093,3,turkish
+2UYW5Kooj6jZTwQCoP10nv,Motive,Makaveli (Deluxe),Ateş Et,41,188074,False,0.709,0.701,8,-5.263,1,0.11,0.0727,8.95e-06,0.0953,0.3,163.074,4,turkish
+5K2ZLj7bSY1PxpOgRgQpFj,Can Bonomo,Ruhum Bela,Bardak Taşıyor,40,176059,False,0.72,0.8,6,-7.299,1,0.137,0.123,7.69e-06,0.0849,0.879,104.011,4,turkish
+4fmEPQo97PVjtGMkpuWyJE,Hidra,Hoş Geldin Dünya Senin Evin,Kudurtan Şehir,41,247875,True,0.625,0.73,4,-9.612,0,0.385,0.225,0.0,0.09,0.473,180.01,4,turkish
+3fGsCkZgaEPWdHLMoNexcA,Kargo;Dilek Türkan,Mazi Kalbimde Bir Yaradır,Mazi Kalbimde Bir Yaradır,41,229455,False,0.547,0.752,6,-3.487,0,0.0298,0.0108,0.0,0.0886,0.635,123.956,4,turkish
+2ta23QFnRMP0Bi7n87xGcp,Hidra,Yenilmez,Merhamet,41,140727,True,0.719,0.949,1,-4.882,0,0.0752,0.645,0.0,0.0921,0.915,140.074,4,turkish
+1IIRFdnVhwx0VMOZ9cDfkd,Rana Alagöz;Selçuk Alagöz,Biz Sizin Şarkılarınızla Büyüdük,Her Şey Bitmiştir Artık,41,180120,False,0.216,0.663,9,-8.324,0,0.0474,0.64,0.000842,0.227,0.891,199.214,3,turkish
+68WxzBjHZ9cUYS0Lb5nJrs,Melike Şahin,Merhem: İlk Konserler (Live),Serim & Hepsi Geçti (Live @ Bostancı Gösteri Merkezi),41,316992,False,0.465,0.465,2,-10.997,0,0.0308,0.0436,0.0,0.577,0.103,134.122,4,turkish
+4qCvhgnQAP01JOJFvJoidH,Cegıd,Delüzyon,Anormal,41,245276,True,0.783,0.672,3,-5.943,0,0.173,0.203,0.00957,0.104,0.471,87.996,4,turkish
+09SsT6U26aWDG3VeiZUA4e,Nazan Öncel,Sokak Kızı,Erkekler De Yanar,40,230320,False,0.683,0.77,6,-6.49,1,0.0246,0.00263,7.03e-06,0.354,0.784,102.732,4,turkish
+5TOgswBE98S73QjS9KniDY,Patron,Slam Dunk,Slam Dunk,40,150401,True,0.845,0.646,6,-6.514,1,0.215,0.181,2.19e-06,0.115,0.282,95.944,4,turkish
+2nAKXs0tQPOXSnK9mFmqy5,Hüsnü Arkan,Bir Yalnızlık Ezgisi (Remastered),Nereye Uçar Turnalar - Remastered,40,249856,False,0.572,0.377,7,-10.625,0,0.0413,0.79,3.6e-06,0.159,0.559,144.015,4,turkish
+5NJKTfyxjv4GlDL6kRQ5fg,Gülşen,Of Of,Nazar Değmesin,41,278186,False,0.504,0.504,5,-6.046,0,0.0515,0.324,0.0,0.133,0.468,139.48,4,turkish
+1xEpgyKx4ZHtefFAh0SmU5,EDIS,Martılar,Martılar,69,157439,False,0.84,0.611,11,-6.904,0,0.0718,0.0615,0.0,0.131,0.898,122.997,4,turkish
+1i2ctgOjPz5SRdFqMlCmhI,Serhat Durmus;NOES,Imagine,Imagine,45,214828,False,0.618,0.641,5,-7.928,0,0.0539,0.0912,0.277,0.172,0.0554,113.001,4,turkish
+44KaWtwXDUHkXhkjmLGQZD,Allame,Yalan,Yalan,40,155600,False,0.503,0.535,6,-10.155,0,0.325,0.526,0.0,0.0958,0.398,79.462,4,turkish
+5aYOZF87pf0hqU5ePWj8YG,Dj Mehmet Tekin,Back,Back,40,286355,False,0.752,0.974,7,-3.443,0,0.0378,0.0609,0.468,0.536,0.386,130.027,4,turkish
+5cZkudJYkjAKcU4Cs0BM6H,Tanju Okan,Bir Zamanlar (Best Of),Dostlarım,40,247560,False,0.328,0.613,2,-6.47,0,0.0335,0.545,0.0,0.377,0.473,99.824,4,turkish
+3JVRSJftrt85VTSNO0fb6t,Ravend,Branda,Branda,42,135652,False,0.86,0.481,10,-8.113,0,0.154,0.356,0.0,0.114,0.642,91.982,4,turkish
+3UkOoXRAOEskENOyu2Kidk,Serhat Durmus,ME and U,Run Away,40,190063,False,0.421,0.631,7,-7.784,0,0.057,0.174,0.0004,0.114,0.206,175.95,4,turkish
+1G7HbXyCWWUc5Yrtj8J4TA,Old G,Yola Çıktık Çoktan,Yaktım,41,163200,False,0.752,0.786,5,-7.913,0,0.045,0.189,0.0,0.157,0.555,125.001,4,turkish
+6jYJijKfOeFukSQGxZnxfm,İmpala;Rebossa,LANETİM OL,LANETİM OL,40,148280,True,0.717,0.519,3,-8.684,0,0.0585,0.215,0.000487,0.111,0.131,96.958,4,turkish
+4GVzBVrDce2kS5TDQBMUJ5,MFÖ,Ele Güne Karşı Yapayalnız,Bu Sabah Yağmur Var İstanbul'da,40,220641,False,0.504,0.245,2,-11.935,1,0.0331,0.706,0.0,0.137,0.266,120.0,4,turkish
+3sdqNGRy41hjLgkfX7EYZR,Yonca Evcimik,Abone,Cesaretim Yok,40,287840,False,0.578,0.552,7,-7.319,0,0.0536,0.721,0.0,0.104,0.488,159.701,4,turkish
+2ysuWb85yf3N39LRGxwL88,Resit Kemal;Lust,İhanetini Doldurdum,İhanetini Doldurdum,41,136414,False,0.641,0.668,8,-8.574,0,0.0461,0.627,0.0,0.312,0.764,130.016,4,turkish
+1QXVekOyWPBUQF7aOh5KT6,Yaşlı Amca,Akşamüstü,Kimsesiz,40,266807,False,0.512,0.564,7,-6.674,0,0.0256,0.223,0.0808,0.113,0.419,94.924,4,turkish
+6TaQbV1VqH1QUsgq6apGB3,Gülşen,Erkeksen,Gözü Karalım,41,325666,False,0.489,0.57,10,-9.705,0,0.0806,0.336,0.0,0.0589,0.573,141.894,4,turkish
+33DhPKcRaVOemvkI5Db3lQ,Spade427;Şehinşah,KARANFİL,MATRIX,41,146483,True,0.865,0.503,10,-11.473,0,0.0951,0.0837,0.0,0.107,0.645,99.993,4,turkish
+4C5LpqteACiMS5AEed75wE,Emir Can İğrek,Ağır Roman,Kır Düğünü,41,226285,False,0.441,0.552,2,-8.159,0,0.0278,0.0711,2.16e-05,0.357,0.484,139.959,4,turkish
+1YB89znSaRUUd5u7Z6PZ1F,Vio;Tepki;Patron,"Yanyol, Vol. 1",Her Gece,40,186246,True,0.742,0.753,10,-5.804,0,0.0524,0.0359,1.43e-05,0.14,0.683,158.045,4,turkish
+6VvtVCA2KqgpPrdS3MgPH8,Tankurt Manas,"Koleksiyon, Vol. 2",Flex Man,41,232333,False,0.668,0.939,0,-4.824,1,0.206,0.466,0.0,0.0716,0.687,74.996,4,turkish
+3n1Pkq4SEStmueLE9I5VFO,Teoman,Teoman,Ne Ekmek Ne De Su,40,241760,False,0.528,0.571,10,-12.537,0,0.0336,0.385,0.000266,0.0575,0.672,79.985,4,turkish
+0hcxYAEljUNRNEJ106UmUr,Stap,Kral,Manyak,40,204375,True,0.705,0.528,8,-11.964,1,0.133,0.0527,0.000435,0.0864,0.312,139.91,4,turkish
+3TN0Q7BZYADUmqzj9upqQl,Aspova,Öpünce geçer mi,Öpünce geçer mi,40,189103,False,0.665,0.488,9,-9.709,0,0.0624,0.444,0.0,0.137,0.518,95.005,4,turkish
+5rJxR79Sthj9fhJZSNossM,Hayki,ICONIQUE,Hangisi Doğru,40,182303,True,0.751,0.731,6,-6.601,0,0.341,0.152,0.0,0.202,0.491,139.841,4,turkish
+7f5Z2XqZPKECoY2jY2Om1U,Motive,Tirat,Sherlock Holmes - Tirat,41,177959,True,0.643,0.706,0,-8.481,0,0.161,0.135,6.7e-05,0.721,0.491,147.084,4,turkish
+3aSrj9NKKBlZ3PSg2PFB17,Allame,Toprak,Toprak,40,186283,False,0.77,0.825,7,-4.985,1,0.196,0.302,0.0,0.362,0.651,136.046,4,turkish
+0qjNiWY8m32di3CxubFmHH,Teoman,O,Sus Konuşma,40,275826,False,0.591,0.665,9,-9.241,0,0.0295,0.00342,0.00338,0.105,0.678,142.09,4,turkish
+5E0Rk6dIfej6CzPN8yuH7f,Levent Yüksel,Med Cezir,Kadınım,40,271699,False,0.625,0.32,0,-15.046,0,0.0308,0.433,1.81e-05,0.117,0.305,101.865,4,turkish
+08xNKSu5opbDcUN9f136f5,Ali Katı,iyiden iyiye,iyiden iyiye,41,153290,False,0.871,0.62,8,-6.619,0,0.0765,0.163,1.65e-05,0.153,0.802,98.02,4,turkish
+20iJjrQc6GRWDncFtrqWnd,Rota,Kukla,Kukla,41,157714,False,0.779,0.458,4,-13.562,0,0.133,0.0981,0.0289,0.0878,0.0543,104.903,4,turkish
+5hdip1meqoJHgZAahYcvGD,Sezen Aksu,Kendimce,Kendimce,41,210156,False,0.776,0.513,0,-6.596,1,0.0358,0.405,0.0,0.34,0.903,127.989,4,turkish
+7Lh5iVEyV0LJfQjhll5wLF,Arda Gezer;Şehinşah;SALİ,Episode 2,Nefret,40,202000,True,0.702,0.641,8,-7.488,0,0.142,0.293,0.0,0.0624,0.374,119.962,4,turkish
+0S4HB769BP3gdVWfe7SLtS,Nazan Öncel,Yan Yana Fotoğraf Çektirelim,Beyoğlu,39,222320,False,0.661,0.764,5,-6.572,0,0.0357,0.0613,0.0,0.261,0.637,114.949,4,turkish
+4aXvTeaE2kLuF4yz22VT3w,Şekersiz,Birini Bul Sakın Üşüme,Birini Bul Sakın Üşüme,40,213658,False,0.67,0.401,1,-16.401,0,0.0789,0.256,0.00013,0.0921,0.531,81.976,4,turkish
+54Ke2X20pG0nmGnId5502J,Hidra,MUSALLAT,MUSALLAT,40,192631,True,0.776,0.82,1,-2.733,1,0.0891,0.215,0.0,0.14,0.4,152.018,4,turkish
+5QDT9tNIvFqmw1SEv7qhAd,Şekersiz,Peki Yasemin,Birini Bul Sakın Üşüme,40,213658,False,0.67,0.401,1,-16.401,0,0.0789,0.256,0.00013,0.0921,0.531,81.976,4,turkish
+7jyeCEP9Vgq1CiQtANzxOG,Anıl Piyancı,İzmir,Fiyasko,40,124316,False,0.73,0.673,10,-5.147,0,0.0546,0.366,9.14e-06,0.213,0.81,145.897,4,turkish
+3x4CJOkuWUq7jqjsMqbc7D,Revart,nereye giderdim,nereye giderdim,41,176598,False,0.644,0.787,8,-5.881,1,0.0828,0.27,0.0,0.0663,0.64,172.092,4,turkish
+3AiWvgjuKs5c034R3zcXMr,Hidra;Hasip Aksu,Holigan,Gezegen,40,222545,True,0.797,0.553,6,-10.004,0,0.104,0.316,0.0,0.0686,0.611,139.956,4,turkish
+61jF8YOnSMJL1C7ll6EOdW,No.1,Sen Kötü Bir Rüyasın,Harikalar Diyarında,41,267216,True,0.669,0.564,11,-7.395,0,0.0506,0.00152,7.31e-06,0.471,0.0801,101.241,4,turkish
+7sXZJsHoJ1f4kaUrDlJhci,Leman Sam,İlla,İlla,39,304266,False,0.522,0.628,8,-4.769,1,0.0309,0.646,0.0,0.323,0.39,121.769,4,turkish
+7glq8W06XgN56OSvDRitjw,No.1,Beklerken Durakta,Beklerken Durakta,41,237296,True,0.695,0.892,9,-5.126,0,0.0641,0.00774,2.27e-05,0.318,0.519,115.36,4,turkish
+3G2W7Kn7H2gTathzp9d1F6,Ceg,DMT,Uyuşana Dek,41,155706,True,0.669,0.537,2,-7.059,1,0.0862,0.222,0.0287,0.402,0.387,190.079,4,turkish
+5DTfCqhcur6JkArL80B5iQ,Mode XL,"Organize Oluyoruz, Vol. 3",Eski Bi' Numara,41,118700,False,0.777,0.723,11,-7.261,0,0.109,0.37,0.00661,0.125,0.595,111.056,4,turkish
+3ftvlnoUtxkgiFjJHsAhES,Eskitilmiş Yaz,Korkuyu Al İçimden,Korkuyu Al İçimden,40,269250,False,0.604,0.528,8,-10.274,0,0.029,0.0738,0.0179,0.225,0.651,90.971,4,turkish
+1TQf1cQLGtWl5vO1ob2zE7,Sezen Aksu,Git,Değer mi?,41,295920,False,0.527,0.858,6,-7.387,0,0.117,0.17,1.15e-06,0.292,0.683,126.634,4,turkish
+5cj4Lbn8qnoYAxfNLeN5UD,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Elbet - Live,41,271354,False,0.571,0.421,7,-8.538,0,0.0501,0.811,0.0,0.164,0.396,139.987,4,turkish
+3qCSAe5ZUIfeUeuDs3Z0XH,Şebnem Ferah,Can Kırıkları,Okyanus,40,275760,False,0.551,0.892,2,-2.48,1,0.081,0.0516,0.0,0.115,0.358,139.91,4,turkish
+3gtZKfWzdUf4WBdum7IUfb,Dolunay Obruk,Yalnızca,Aşık Olmak İstemem,41,252012,False,0.742,0.389,5,-11.862,0,0.0287,0.395,0.0,0.357,0.538,109.964,4,turkish
+08s1q5FYAlHnLdadK0Cspk,Teoman,Gönülçelen,Zamparanın Ölümü (İkinci Ve Son Bölüm),40,301000,False,0.774,0.745,8,-6.335,1,0.0382,0.0127,4.11e-05,0.327,0.567,100.464,4,turkish
+0Ti1Lm3mwR2kwl8o2pVnRd,Linet,"Ahmet Selçuk İlkan Unutulmayan Şarkılar, Vol. 1 (40 Yıl, 40 Ses, 40 Nefes)",Hatıram Olsun,40,339187,False,0.535,0.755,1,-5.221,0,0.0662,0.314,0.0,0.217,0.519,94.88,4,turkish
+6vEL7E8TGzrxuxbrgdlkLL,Tarkan,Ölürüm Sana,Şımarık,66,235218,False,0.775,0.818,7,-8.687,1,0.164,0.0518,0.0,0.114,0.826,97.06,3,turkish
+7LFIhRcOJ6UR5Q0gNWhgkO,Feride Hilal Akın;Hakan Tunçbilek,Gizli Aşk,Gizli Aşk,53,178285,False,0.473,0.71,6,-5.395,0,0.0325,0.181,0.0,0.47,0.178,140.211,4,turkish
+5h8f9DCgVEUqgfLuXwPIHO,Onur Ormen;Tommygunnz,Greatest,Greatest,39,160500,True,0.699,0.748,10,-8.538,0,0.184,0.0103,1.23e-05,0.0572,0.61,159.975,4,turkish
+0detIQ549lMtKf3D4uu4qW,Cem Tuncer,Aşk Laftan Anlamaz (Orijinal Dizi Müzikleri),Aşk Laftan Anlamaz,31,115170,False,0.421,0.443,2,-11.094,0,0.0287,0.00858,0.894,0.0959,0.301,179.943,3,turkish
+3KLsuhN1a1pnBruYVeOq3X,Kibariye,Yeniden,İllede Roman Olsun,40,232093,False,0.645,0.721,7,-5.222,0,0.0533,0.41,0.0,0.0816,0.748,145.954,3,turkish
+6cLCzmY3Z1ZxILaVhbbRdL,Tepki,Sür Ya Da Öl,Sür Ya Da Öl,40,151666,True,0.751,0.571,2,-10.313,1,0.045,0.496,0.000392,0.117,0.794,143.984,4,turkish
+6zXNFaVOGBgJkOtcYyzSEI,Aşkın Nur Yengi,Hesap Ver,Karanfil,40,323600,False,0.54,0.207,7,-19.951,0,0.0793,0.517,0.0,0.138,0.203,155.933,4,turkish
+5FTmcMXpsCrkynecM4iyzT,Yedinci Ev,İçine Düştüm,Eylül,40,250865,False,0.426,0.48,4,-8.88,0,0.0329,0.0452,0.146,0.0894,0.282,53.363,4,turkish
+08isVfPzPF8eYPj5iiS7wQ,Pinhani,Kediköy,Dur Söyleme,40,198391,False,0.522,0.676,6,-8.117,0,0.0279,0.0121,0.00209,0.114,0.245,102.069,4,turkish
+4mX9RPpbVHd1j5GI5eLk0s,Tekir,Kaybım Var (Akustik),Kaybım Var - Akustik,41,179347,False,0.633,0.471,11,-11.547,0,0.0405,0.673,0.0,0.152,0.358,92.003,4,turkish
+7qol6vGF1Tp8QZMXQfbHqL,Emir Can İğrek,Ağır Roman,Güya,41,278333,False,0.337,0.333,7,-12.124,0,0.0399,0.724,0.000339,0.243,0.19,142.209,4,turkish
+00REsurT9T9JF6CxhT4h39,Aksan;Mavi,Illegal,Hikaye,40,167810,False,0.489,0.523,9,-9.506,1,0.157,0.296,0.0,0.259,0.186,109.402,3,turkish
+2BxRxqP6gqHHO0dQzse8pe,Kızılırmak,Gölge,Adıyaman,39,133720,False,0.599,0.365,6,-7.628,0,0.0282,0.867,0.0,0.209,0.459,127.962,4,turkish
+03u0SQvzUKRcIv7mHA3X1M,Kargo,Gelecekle Randevum Var,Kehribar,41,212323,False,0.581,0.428,7,-10.857,0,0.0254,0.374,0.00278,0.0672,0.677,88.08,4,turkish
+560hhPa9vwZonMVt56uSMd,Jehan Barbur,Sarı,Güzel Adam,39,252813,False,0.605,0.216,8,-11.59,0,0.0391,0.907,1.27e-05,0.0956,0.23,119.623,4,turkish
+2Uc8q2ANutjQcstQAhgNru,Serhat Durmus;Raaban;Georgia Ku,My Feelings,My Feelings - Raaban Remix,48,206720,False,0.706,0.716,1,-6.983,0,0.269,0.254,0.000506,0.0799,0.369,120.825,4,turkish
+6xIFgdZOdXxnlHG29QzH6j,Bahadır Sağlam,Herkesler Tanır,Herkesler Tanır,40,203405,False,0.689,0.589,7,-7.487,0,0.0336,0.248,0.0,0.206,0.617,108.02,4,turkish
+28ZIAO8uDAgqfm4lQjfusj,Kenan Doğulu,Sımsıkı Sıkı Sıkı,Sımsıkı Sıkı Sıkı,40,338200,False,0.522,0.682,2,-13.547,1,0.0596,0.0875,0.000474,0.0687,0.51,110.918,4,turkish
+6mzUIHlROFcUjJ7sGzSR4z,Kıraç,Bir İstanbul Masalı (Orijinal Dizi Müzikleri),Olur Ya,40,226533,False,0.328,0.668,4,-3.924,0,0.0438,0.779,0.0,0.264,0.36,113.651,4,turkish
+4jb14dAeRBPMhHyS4u8ZKW,Ozbi;Gülce Duru,Rakılı Live 1. Seri,Aysel,41,357333,False,0.329,0.649,7,-7.427,0,0.175,0.568,0.0,0.0494,0.339,181.773,4,turkish
+7ncZ7K2VIA9x8Pobcfnx5E,Teoman,Renkli Rüyalar Oteli,Terlemeden Sevişenler,39,275986,False,0.486,0.885,5,-4.136,0,0.0319,0.0264,0.00329,0.083,0.806,174.029,4,turkish
+76zoOB2W5KAh77cFcvKZyJ,Khontkar;Bixi Blake,SİS,SİS,40,194000,True,0.906,0.582,4,-8.943,0,0.225,0.0529,0.0269,0.246,0.498,131.995,4,turkish
+5Fy9DvD8I6x9e1BX6uqiNz,Ersay Üner,Nokta,Nokta,40,240587,False,0.76,0.57,0,-8.353,1,0.0559,0.476,0.0,0.103,0.305,108.015,4,turkish
+0BLC4nWTB1bGBXbtpiSmSN,Saian,Başıbozuk 1,Kanunsuzlar,40,182047,False,0.559,0.725,2,-5.927,0,0.27,0.204,2.68e-06,0.0977,0.547,83.591,4,turkish
+377XKUiU2s0Y6jVDSypffA,Ayla Algan,En İyileriyle Ayla Algan,Bak Şu Adama Aşık Oldu,40,189626,False,0.576,0.594,5,-9.869,0,0.0577,0.344,0.0,0.27,0.792,96.837,4,turkish
+1suafzwNT5Kv9JHnxiHNz7,Barış Akarsu,Islak Islak,İsterdim,40,219689,False,0.772,0.585,7,-9.457,0,0.0375,0.241,0.0,0.112,0.5,91.99,4,turkish
+1BaaFZganZshYr5jYNgFEJ,Bağzıları,Müptezel,Müptezel,40,165409,False,0.67,0.442,9,-10.79,0,0.0442,0.329,7.73e-06,0.0945,0.0949,90.049,4,turkish
+1yxSsBZtl3Uj9U2IHKefAL,Sokrat St,Kahve Kağıt ve Kalem,Korkularıma Dair,40,182088,True,0.565,0.68,7,-9.347,0,0.084,0.0422,0.138,0.131,0.67,169.715,4,turkish
+2aon7le7rtVuBe6f2MkuOw,Istanbul Trip;Maestro;Şam;Xir;Ashoo;Heja;No.1,ŞAFAK OPERASYONU,ŞAFAK OPERASYONU,40,379783,True,0.763,0.809,4,-5.37,0,0.271,0.032,0.0,0.106,0.437,90.904,4,turkish
+5oPk8O1fxbxRV73w1kBE7S,Hidra,Hedefte,Hedefte,40,243272,False,0.766,0.803,11,-5.03,0,0.289,0.216,0.0,0.134,0.341,91.94,4,turkish
+041vpMVqrDfFKLQXyMkhKT,Mirkelam,Mirkelam Joker,Kaprislisin Sevgilim,40,196440,False,0.737,0.905,9,-7.21,1,0.0501,0.25,0.0,0.0472,0.96,145.02,3,turkish
+6yysTBx7fYqP27Omb0ZYcC,Şanışer;Alef High,12-15,Anlat Bana,41,228493,False,0.57,0.625,1,-10.868,0,0.0778,0.459,0.0,0.201,0.363,139.785,4,turkish
+5bmno8gS846nO9SoAklU2S,Nasıl Derler Bilirsin,Tertemiz Delirdim,Tertemiz Delirdim,41,163007,False,0.672,0.629,9,-8.288,0,0.0408,0.159,0.000869,0.15,0.759,127.944,4,turkish
+1tBdAuEeHQjE48ritKeWVd,Motive,Output Nr.1,Peter Pan,40,275083,False,0.79,0.655,0,-6.234,0,0.136,0.511,0.0,0.111,0.416,110.018,4,turkish
+2DmSPP1Zds1wkfmmlBvZcI,No.1,"Canımız Cehenneme, Pt. II",Dünyaya Yazık,41,196858,True,0.643,0.691,6,-6.886,0,0.0459,0.00888,3.91e-05,0.23,0.431,99.974,4,turkish
+6Be9oHXdxGHBctbB5AscXo,Manuş Baba,İki Gözümün Çiçeği,Bir Acı Türkü,41,135266,False,0.642,0.273,7,-10.407,0,0.0346,0.895,2.88e-05,0.0818,0.514,114.867,4,turkish
+4yzs6Ba0GQH55Zo66Q51PS,Ceg;Fery,Trapanasyon,Sonuna Kadar,40,266580,True,0.617,0.681,11,-4.712,1,0.386,0.412,0.0,0.141,0.64,125.07,4,turkish
+3u0wGaA5YB5YDMofMhKYBy,Contra;Anıl Piyancı,YERDEN YÜKSEK,YERDEN YÜKSEK 2,40,177590,False,0.909,0.532,1,-7.823,1,0.16,0.0702,0.0,0.0898,0.275,99.009,4,turkish
+3yFZE1qrOrlshwB2lUfBNu,Zara,Derin Aşk 4,Sevdalılar Beni Anlar,40,241297,False,0.72,0.723,4,-5.556,0,0.0373,0.199,0.0,0.35,0.451,108.026,4,turkish
+2PUkeLu4dsa0F3hmDb5Chi,Gece,Gece,Gamsız,39,211720,False,0.676,0.612,7,-3.779,1,0.0452,0.0456,0.0,0.779,0.544,99.91,4,turkish
+6kM4A4oVGsNkoy0hgh90Dj,Pera,Giz,Kimseler,40,179760,False,0.539,0.343,7,-9.673,0,0.0377,0.374,1.62e-06,0.104,0.58,180.011,5,turkish
+7HJIitGbekZK8hD7YvO8DG,Grogi;Ceg;Tankurt Manas,Bu Gece Bizim,Bu Gece Bizim,40,249357,False,0.82,0.599,2,-10.344,1,0.243,0.327,0.0,0.0743,0.418,83.993,4,turkish
+76jqYRytkvCM1ByVYBs3NS,Malt,Kendi Adını Taşıyan İlk Albüm,Gol,39,190821,False,0.519,0.849,5,-5.102,0,0.0362,0.00115,0.000355,0.0989,0.743,150.077,4,turkish
+4nA9hQUadaagXUi1GctdVM,Motive,Output Nr.1,Teker Teker,41,151550,False,0.831,0.686,2,-5.466,1,0.164,0.16,0.0,0.0763,0.335,119.803,4,turkish
+57STxTnU6IFigeip8MxBJC,Saian,Dilimizi Biliyor,Feleğin Çemberine 40 Kurşun,40,193104,False,0.744,0.785,8,-7.417,1,0.36,0.11,4.87e-06,0.0989,0.732,87.952,4,turkish
+3LhrqTEJyY0TYlaUhSj5e9,Müzeyyen Senar,Saklı Kayıtlar (1934 - 1996),Benzemez Kimse Sana,40,157146,False,0.352,0.442,9,-5.14,0,0.0323,0.818,0.00373,0.101,0.464,112.633,3,turkish
+1lUbwJqUbNWungNXhrCVo9,Teoman,Rock and Roll,Paramparça 2017,40,247943,False,0.662,0.579,7,-4.2,1,0.0377,0.0483,0.0298,0.114,0.64,87.032,4,turkish
+5ce2KHedroUibIVu4hz0Yl,Kayahan,Son Şarkılarım,Kara Saplantım,39,208933,False,0.74,0.64,11,-12.294,0,0.047,0.578,0.00052,0.0709,0.879,98.983,4,turkish
+3GKDwLHEZMWqVoCyNubD7n,Emel Sayın,Yeşilçam Şarkıları Vol. 2 - Artık Sevmeyeceğim,Rüyalar Gerçek Olsa,39,167322,False,0.228,0.523,0,-10.564,1,0.0422,0.918,0.00121,0.608,0.539,168.236,4,turkish
+4pbgdgo3Pe2YnOfV9c2xGX,Kayahan,Odalarda Işıksızım,Beni Anlamadın Ya,39,227040,False,0.744,0.659,9,-14.362,0,0.0864,0.0814,0.0,0.0276,0.911,103.957,4,turkish
+6QFe6vJhkqlHEgejKYc992,Efemero,Amelia,Amelia,51,193684,False,0.745,0.78,4,-4.704,0,0.037,0.014,0.336,0.356,0.191,114.012,4,turkish
+26QSK2Ew6e74RA8wGwmY8S,Yusuf Ekşioğlu,Teri Meri,Teri Meri,38,241846,False,0.777,0.834,3,-4.061,0,0.0538,0.106,0.0687,0.107,0.341,129.98,4,turkish
+6jxYjS0eBmhyYbs2wuk3iv,Aspova,S Y N T H W A V E,Benmişim,39,202971,False,0.624,0.612,8,-4.414,0,0.0629,0.00766,0.0,0.267,0.398,87.576,4,turkish
+3rH6tUMYBgUa2we3SADFc1,Dj Mehmet Tekin,Legend İs Back,Drugs,37,241860,False,0.731,0.825,7,-5.083,0,0.0534,0.00151,0.476,0.104,0.485,130.028,4,turkish
+0B2fzeoOnkte1hwxQnXjNt,MAW,BUZ,Ben,39,196000,False,0.785,0.528,4,-8.11,0,0.0363,0.17,1.84e-05,0.127,0.169,119.994,4,turkish
+21xBPv2mfFQVc8888DFfJX,Ahiyan,Yalancılar (Tirat),Yalancılar - Tirat,39,153882,True,0.634,0.631,1,-8.659,1,0.266,0.397,3.08e-05,0.232,0.694,85.258,4,turkish
+3FrTVRdeE8czuBokChGI6A,Old G,BLACKBOX,BLACKBOX,40,120473,True,0.841,0.589,11,-9.973,1,0.158,0.046,0.000694,0.191,0.523,128.014,4,turkish
+3AGCytWwz3x1QIPVhBQllG,Şanışer,Umut,Kış Yağmuru,40,220434,True,0.597,0.592,1,-9.439,0,0.116,0.187,0.0,0.0879,0.498,92.011,4,turkish
+7LR44miVMWFENCpE4ZXNo1,Ceylan Ertem;Melike Şahin,Seyrüsefer,Seyrüsefer,39,187562,False,0.339,0.298,2,-9.875,0,0.0541,0.912,0.0,0.351,0.468,88.447,4,turkish
+3JMoGWdr7IxYn3259x4mB4,Barış Akarsu,Islak Islak,Mavi,40,265195,False,0.65,0.744,7,-6.467,0,0.0317,0.00546,3.75e-06,0.117,0.548,127.016,4,turkish
+1ftlXY1s5dIha4qmoHePHs,Aspova,Matrix (Red),Nefes Alamam,40,192000,True,0.696,0.524,9,-9.993,0,0.409,0.365,0.0,0.122,0.581,145.227,4,turkish
+29QJEp74ugIJocvAXqTGjk,Istanbul Trip;Şam;Maestro;Heja;Xir,110,Korkusuz,40,241237,True,0.658,0.593,8,-7.427,1,0.546,0.241,0.0,0.0965,0.576,89.156,4,turkish
+56Artz7MieU1h1Y7SdHMmi,Khontkar,Hiçbir Şeyim Yok,Hiçbir Şeyim Yok,39,193200,False,0.668,0.756,11,-5.778,1,0.296,0.189,0.0,0.154,0.156,150.397,4,turkish
+1Cqch4t148h9MoiPIacExB,Spade427;Info,Şans Değil,Şans Değil,40,151165,False,0.798,0.791,1,-5.629,0,0.0672,0.222,0.014,0.128,0.692,103.042,4,turkish
+1P9oNuhkq4ZMzJB6AkOvbS,Neco,En İyileriyle Neco,Seni Bana Katsam,40,208376,False,0.608,0.477,0,-11.155,0,0.0424,0.674,4.83e-06,0.126,0.604,124.947,4,turkish
+7LN8r323npl8Yc0wOdDSqu,Müzeyyen Senar,"Yayınlanmamış Şarkılar, Vol. 2",Unutturamaz Seni Hiçbir Şey,40,148893,False,0.324,0.397,2,-9.066,0,0.04,0.85,0.689,0.0865,0.52,108.332,4,turkish
+5WesaRQpgOQgNeRvilEnc8,Şanışer;Sokrat St,LUDOVICO II,Bu Sabah,40,254693,True,0.706,0.578,2,-11.617,0,0.0658,0.137,0.0,0.0854,0.641,104.976,4,turkish
+6twCOHBycvvQFXJl4CrbvZ,Duman,Canlı,Haberin Yok Ölüyorum,39,363903,False,0.291,0.773,6,-6.922,0,0.0432,0.108,1.57e-06,0.948,0.293,152.96,4,turkish
+1CdVMBDfVkGkwS9hE1i7kP,Keskin,BOZGUN,BBS,41,147500,True,0.573,0.629,0,-6.796,1,0.175,0.118,0.0,0.128,0.561,130.104,4,turkish
+0HLLXulya71QkF53jef2U3,Ceylan Ertem,Yine De Amin,Kovdum,39,225777,False,0.483,0.49,6,-7.935,1,0.04,0.819,0.000109,0.157,0.247,77.141,4,turkish
+4sePh4e6tkjXyiByl4C60q,Can Gox,Yalnızım Ben,Drama Köprüsü,40,267482,False,0.61,0.429,2,-9.252,0,0.0267,0.384,0.0,0.373,0.37,101.92,5,turkish
+4En6idM4o5670zPD5WxiFl,Ravend,Rahatımı Bozamam,Rahatımı Bozamam,41,181417,False,0.758,0.492,2,-6.999,0,0.045,0.389,0.0,0.191,0.38,127.128,4,turkish
+5RPUW5EpOaig0CiuobYI1f,Umut Kaya,Gün Olur Devran Döner,Canım Çok Yanıyor,39,177541,False,0.647,0.83,8,-5.44,0,0.029,0.465,0.0,0.0696,0.602,125.056,4,turkish
+22mFTU9nbKvbFHvu2aQUly,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Ona Söyle - Live,40,264639,False,0.679,0.694,9,-8.377,0,0.0372,0.662,0.00016,0.434,0.496,88.055,4,turkish
+72b3Ws3byP6yidFilsOoyz,Büyük Ev Ablukada,FIRTINAYT,HAYALETLER,39,429294,False,0.654,0.461,4,-13.017,0,0.036,0.305,0.00909,0.107,0.116,125.052,4,turkish
+214bi8cFWxqH8M46P12qfg,Taladro,Hülya,Sihirli Lamba,40,210876,False,0.672,0.687,7,-6.69,1,0.0827,0.12,0.0,0.312,0.288,140.04,4,turkish
+217AK9cJZwZ4B9bpf7XvF8,Duman,Darmaduman,Saldır,39,204844,False,0.477,0.889,4,-4.126,0,0.068,0.00576,0.0142,0.154,0.571,110.808,4,turkish
+7L05IkgbhyfHKWZLQ8Wqwf,Redd,Mükemmel Boşluk,Bugün Herkes Ölsün İstedim,40,271808,False,0.564,0.697,10,-7.884,0,0.0275,0.00232,0.176,0.108,0.547,144.962,4,turkish
+5ArfTAZvNf78k1k4WWo3fu,Hayko Cepkin,"Beni Büyüten Şarkılar, Vol.1",Ağla Sevdam,39,154569,False,0.201,0.509,3,-6.773,0,0.0373,0.253,0.0,0.123,0.149,99.875,4,turkish
+6ygGHzg8CPcxDPocEkfpO4,Kalben,Sonsuza Kadar,Rüzgar,40,193233,False,0.687,0.371,4,-12.489,1,0.0377,0.629,1.16e-05,0.293,0.294,111.925,4,turkish
+6Ytf8ASfFtVqDBH5S00Rkr,Şebnem Ferah,Kadın,Fırtına,39,347277,False,0.59,0.83,9,-6.915,0,0.0462,0.000135,0.127,0.297,0.292,144.991,4,turkish
+6bF7vDIjykeAeC706WE2KW,Mustafa Sandal,Gölgede Aynı,İki Tas Çorba,40,228200,False,0.619,0.433,8,-17.763,0,0.0424,0.729,0.00215,0.152,0.782,170.178,4,turkish
+1iUCtfemDonYdROLIJMatf,Stabil;Ati242,OKSMRN1,MATHILDA,41,213926,False,0.778,0.694,2,-5.663,1,0.102,0.356,6.96e-06,0.0989,0.522,92.026,4,turkish
+6wRBr1VICJv3quodxRYYhT,Barış Manço,Sahibinden İhtiyaçtan,Ömrümün Sonbaharında,39,277266,False,0.533,0.247,8,-14.965,0,0.0301,0.829,1.08e-05,0.0986,0.35,72.326,4,turkish
+0EGmp03Vx7uzO8O36AaYCe,Motive,Makaveli,Bin Defa,40,214284,False,0.839,0.521,1,-7.301,1,0.158,0.453,0.0,0.132,0.131,139.99,4,turkish
+5qB4yK6zf7YeFJmw9PvUVe,Nurettin Rençber,Eski Yara,Eski Yara,40,303306,False,0.572,0.323,4,-9.528,0,0.0383,0.87,3.22e-05,0.237,0.338,116.933,3,turkish
+6OPbkpYyRTPjbweLRcRMbU,Ümit Besen,Şikayetim Var,Alışmak Sevmekten Zor,39,291466,False,0.378,0.569,9,-11.009,0,0.0522,0.341,3.2e-06,0.0627,0.608,172.923,4,turkish
+2v0N2f44ugsUQUjWU1Z9Ll,Barış Kocatürk;Batu Akdeniz,Vurdum Kendimi Yola,Vurdum Kendimi Yola,39,227043,False,0.553,0.471,0,-7.78,1,0.029,0.598,0.0,0.11,0.336,139.959,4,turkish
+4SMsVfkVvvhNFeZDLAqETZ,Şebnem Ferah,Can Kırıkları,Sana Bilmediğin Birşey Söyleyemem,39,315373,False,0.457,0.708,9,-2.962,1,0.0373,0.2,0.0,0.114,0.192,169.005,4,turkish
+0INPrmyJo1vEVHjA8a9qgO,Nükleer Başlıklı Kız,Beni Hatırla,Beni Hatırla,39,230405,False,0.473,0.782,0,-5.639,0,0.0541,0.393,4.21e-06,0.251,0.585,172.095,4,turkish
+3yO3vRarkBXyYeqvLMY624,Patron,EL PATRON,Sevdik de noldu sanki,39,165790,False,0.791,0.635,8,-7.071,1,0.0793,0.608,0.0,0.124,0.302,129.94,4,turkish
+6g055EyHqojzd01stwknaq,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Bilir Mi - Live,40,268142,False,0.68,0.484,1,-8.618,0,0.0322,0.732,0.0,0.467,0.432,113.937,4,turkish
+26xKA9OhVaZa0gm53BhIiH,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Yalvarırım - Live,40,186519,False,0.426,0.404,4,-8.75,0,0.0716,0.896,0.0,0.197,0.229,142.808,4,turkish
+1jVVc6xsGbG9frXgMAX3RR,Yeni Türkü,Şimdi Ve Sonra,Sevgi Özleyendir,39,195186,False,0.458,0.655,4,-6.856,0,0.0318,0.516,0.0,0.203,0.38,80.174,4,turkish
+4qXcrhhTJheiDpa7zsK8bU,Candan Erçetin,Elbette,Unut Sevme,40,278400,False,0.786,0.952,2,-6.772,1,0.123,0.112,0.0,0.114,0.422,124.048,4,turkish
+5z1bH63TwXLslyDcDZKmqR,Can Bonomo,Bulunmam Gerek,Senin Olmadan Ölemem,39,185608,False,0.639,0.779,4,-6.33,0,0.0465,0.105,0.0,0.0892,0.645,108.054,4,turkish
+2w7LbnZdWCG9Ux7gzVbQFC,Levent Yüksel,Aşk Mümkün müdür Hala?,Aşk Mümkün Müdür Hala?,39,243253,False,0.629,0.732,9,-4.179,1,0.0497,0.605,5.72e-05,0.193,0.449,100.025,4,turkish
+25Q6Ks3UcQae51kLjR1hHp,Sagopa Kajmer,Ahmak Islatan,Bir Tek Bende Yok,39,233181,False,0.624,0.658,5,-6.906,1,0.281,0.374,0.0,0.107,0.621,175.951,4,turkish
+3Du83Lme0QXH5IqKhxjIWe,Pera,Sevda Beladır,Düşüyorum Sana,40,167055,False,0.521,0.674,2,-8.396,1,0.0351,0.0579,5.83e-06,0.486,0.215,93.749,4,turkish
+6cIofvIR0suRIIcvlJOO26,Nilüfer;Feridun Düzağaç,25 Düet,Kavak Yelleri,40,256906,False,0.516,0.599,2,-5.443,0,0.0459,0.312,0.0,0.126,0.302,73.043,4,turkish
+6QdPABNw1TzH76Qouv8Nbh,Armağan Oruç,Bamba!,Bamba!,45,164057,False,0.803,0.956,2,-2.4,1,0.0483,0.209,0.42,0.128,0.838,120.002,4,turkish
+5X4UUWdOURJN7PePHKJBy4,Felix Za,Fiery Sky (Deep House Remix),Fiery Sky - Deep House Remix,44,211453,False,0.86,0.456,10,-8.983,0,0.047,0.234,0.471,0.122,0.386,109.991,4,turkish
+77chvdp4uwNOZwLGtNE2jk,FRO,Yangın,Yangın,40,159963,False,0.565,0.676,0,-6.377,0,0.0527,0.277,1.56e-06,0.274,0.188,66.44,5,turkish
+6hVLkc1612BQeD6EQFKECm,Şanışer,Live Sessions (Sezon 1),Belki - Live,40,205640,False,0.513,0.339,4,-11.336,0,0.0321,0.0414,0.0,0.158,0.305,140.462,4,turkish
+1UEPxJbRiIJvY6Szfa6o2T,Bilici;Bedo,YARA,Bu Kadar,40,193804,False,0.621,0.537,0,-8.548,0,0.0767,0.328,0.0455,0.122,0.304,180.08,4,turkish
+4jPo5fzAsXyV7pIjWq7fnZ,Hepsi,Hepsi Bir,Çok Güzelsin,40,163344,False,0.75,0.687,0,-4.572,0,0.0286,0.0197,0.0,0.105,0.598,119.917,4,turkish
+0wXPE7CGCd8KKPPi9G4EA7,Saian;NORA,KUZ,KUZ,39,201000,False,0.771,0.432,7,-13.271,1,0.0816,0.155,0.427,0.107,0.0788,119.97,4,turkish
+3tsmRAwwprM8Uc2TxUWYEP,Baneva,Tek Tabanca,Tek Tabanca,39,156375,True,0.581,0.716,2,-6.93,0,0.231,0.251,0.0,0.279,0.692,179.727,3,turkish
+72EsHQaM41uaUlq2nMHQFy,mor ve ötesi,Gül Kendine,Bazen,38,235266,False,0.538,0.597,0,-8.767,1,0.03,0.00211,0.00255,0.124,0.764,143.035,4,turkish
+5tg61WGZrVzolByJ44C9PJ,Ağaçkakan;Çağrı Sinci;Emiladil,Peh Peh Peh,Peh Peh Peh,40,204878,False,0.699,0.74,7,-8.774,1,0.3,0.243,0.0,0.087,0.312,82.025,4,turkish
+1dh0sHh0f6GqaMxO1y3dcm,Yedinci Ev,İçine Düştüm,Dolunay,39,222902,False,0.617,0.408,4,-8.762,1,0.0262,0.154,0.00269,0.121,0.144,136.121,4,turkish
+62IzwpesSn9F6GSGy3tqNj,No.1;Efe Can,Sinekler Soğukta Salak,Sinekler Soğukta Salak,40,206904,True,0.549,0.848,8,-5.612,0,0.0841,0.544,2.82e-06,0.219,0.701,87.752,4,turkish
+7osiUHfgXjWSpctz7tJIk6,Soner Sarıkabadayı,Akustikler 1,Koparılan Çiçekler - Akustik,40,212000,False,0.527,0.265,11,-8.98,0,0.0452,0.862,0.0,0.204,0.466,103.613,4,turkish
+63VlXyGkSmKI0F4t0XPq2A,Gökhan Keser,Gökhan Keser,Kırık Ayna,40,187213,False,0.623,0.232,7,-8.186,0,0.0339,0.778,0.0,0.192,0.309,140.227,3,turkish
+6AAnY8H4tNTbcGP6KETgmA,Kezzo,Yangın,Yangın,39,244773,False,0.803,0.684,6,-8.697,0,0.0609,0.156,3.4e-05,0.127,0.289,127.002,4,turkish
+2UILyUt1270c0RoIxTBNnP,Hande Mehan,Olamam,Olamam,39,177960,False,0.717,0.931,0,-6.977,1,0.0314,0.592,4.35e-06,0.261,0.964,115.993,4,turkish
+3Tzgr29bOgxVSS71bpeoLJ,Kamufle;Contra;Mali Green,RUH,RUH,39,181588,True,0.806,0.929,10,-3.475,0,0.232,0.164,0.0,0.157,0.332,105.07,4,turkish
+6bQ3YsMCZdISxAnDIWM2hY,Oguz Aksaç,Oğuzname,Niye Çattın Kaşlarını,39,211640,False,0.511,0.595,9,-4.612,0,0.0298,0.291,3.53e-05,0.134,0.188,95.927,4,turkish
+6irFcHIQhLBbLTquGxZXha,Motive,Makaveli,Risk,40,114067,False,0.752,0.605,11,-8.265,1,0.404,0.334,0.0,0.156,0.521,164.858,4,turkish
+0O902NFSnEwxbTNTluL2Ie,Sattas,Şarkı Söylemek Lazım,Şarkı Söylemek Lazım,40,280710,False,0.61,0.553,5,-8.132,0,0.0346,0.262,0.044,0.0867,0.554,119.992,4,turkish
+7CWZVgUQXUF2rDpGjae1J6,Kaan Boşnak,Güzel Değil,Güzel Değil,40,135797,False,0.537,0.47,7,-14.577,1,0.113,0.611,0.0285,0.109,0.719,173.958,4,turkish
+7wPOMpOTxqaf2eVefEQU5U,Yedinci Ev,İçine Düştüm,Gitmeden Önce,39,214937,False,0.623,0.727,11,-6.528,0,0.0567,0.131,0.00121,0.104,0.345,136.105,4,turkish
+0UAUIhvxs5Zl2QKPDSpMq3,Şanışer;Sokrat St,Umut,Bıktım Dünyadan,40,201618,True,0.667,0.753,1,-9.955,1,0.16,0.42,0.0,0.106,0.406,127.904,4,turkish
+36dfpaght4ZcDyNe6wWEfk,Sayedar;Önder Şahin,Bela Gelir Bulur Bizi,Bela Gelir Bulur Bizi,40,167471,True,0.647,0.67,6,-8.287,1,0.24,0.226,6.06e-05,0.208,0.879,176.175,4,turkish
+3gAex0HrVg17v5z6gGiwUQ,Can Gox,Ah Bir Ataş Ver,Ah Bir Ataş Ver,40,261670,False,0.502,0.566,7,-8.728,1,0.0307,0.29,0.0357,0.106,0.256,75.03,3,turkish
+4w5ioVLA2jho995QY2RHWS,Kenan Doğulu,Aşka Türlü Şeyler,Bir İleri İki Geri,40,261506,False,0.718,0.668,9,-6.484,0,0.0391,0.361,0.0,0.104,0.707,130.017,4,turkish
+1gxXYbu3reRQZMCuh5jMnJ,Ados,Naperva,Gri,40,247000,False,0.465,0.824,6,-6.974,0,0.307,0.716,0.0,0.125,0.449,83.238,4,turkish
+2ABc8kK4RaccQs7NV2ddCC,No.1,Cehennemin Dibi,Kalmadım,40,273266,True,0.749,0.671,9,-10.635,0,0.102,0.0558,0.0,0.0995,0.898,100.015,4,turkish
+7iTZD4M4zMyJhDKk7JQSun,Sezen Aksu,Deli Kızın Türküsü,Kalbim Ege'de Kaldı,39,293573,False,0.445,0.121,6,-18.745,0,0.134,0.539,0.0,0.0978,0.291,162.926,3,turkish
+5iHZGWJIDGPjnQEXpLnI3n,Duman,Darmaduman,Sınana Sınana,39,379716,False,0.495,0.797,8,-7.378,0,0.0378,0.0282,0.0376,0.0605,0.721,90.338,4,turkish
+7jDophGhVVanhFlvkywzyX,Taladro,Hülya,Bağ Evi,40,190978,False,0.793,0.545,1,-6.999,1,0.324,0.127,0.0,0.116,0.588,82.03,4,turkish
+7KVu3nqt9EcIEsre6LxCNe,Eda Baba,Deli Divane,Deli Divane,40,191999,False,0.76,0.421,9,-8.699,0,0.0496,0.872,0.0,0.134,0.855,100.012,4,turkish
+7iz4fcxfbxnqB50ITIKaRa,Ceg,DMT,Yatmadan Önce,39,174126,False,0.766,0.548,10,-8.507,0,0.104,0.0712,0.0715,0.152,0.201,136.016,4,turkish
+2NK2NdlDeRGcS4J5ZdMAKj,mor ve ötesi,Canlı Senfonik - Aya İrini,Oyunbozan - Canlı,39,280969,False,0.371,0.783,11,-6.878,0,0.0391,0.00254,0.000128,0.339,0.276,131.595,4,turkish
+3iX2aBQdzOMyqfc2umONBu,Hidra,08-13,Türkçe Rap,39,184615,True,0.713,0.957,1,-5.824,1,0.234,0.232,0.0,0.452,0.743,89.942,4,turkish
+4ADX2Fg1pHM0EeUCmvigJg,Sehabe;Yeis Sensura,His,Kitaplarda Yazmayan,40,192719,False,0.682,0.571,4,-8.693,0,0.0608,0.396,0.0,0.334,0.714,142.159,4,turkish
+3xC0qqn1KWCgNi4NobRkTE,Hidra,Holigan,Holigan,39,247636,True,0.813,0.782,9,-5.982,0,0.247,0.274,0.0,0.339,0.423,128.036,4,turkish
+1GthdGLkffYiwjYNk0Gy66,Hayko Cepkin,Sakin Olmam Lazım,Ben Gideyim,39,248333,False,0.573,0.623,8,-6.809,0,0.0297,0.104,2.62e-06,0.115,0.459,134.9,4,turkish
+3VKQHcllVFNbn1n5M5bnyE,Badem,S'onsuz,Kalpsiz,39,286000,False,0.443,0.839,4,-4.063,0,0.0609,0.0671,8.65e-06,0.356,0.505,169.942,4,turkish
+2qWx127uJ6Qk41wk2sWZJc,Cem Adrian;Kalben,Geri Dönme (feat. Kalben),Geri Dönme (feat. Kalben),39,299000,False,0.519,0.498,9,-6.934,1,0.0413,0.38,6.44e-06,0.113,0.49,73.121,4,turkish
+3KThRpXIa6uyM9AMBpfBjM,Müzeyyen Senar,Gelse O Şuh Meclise (Deluxe),Gündüzüm Seninle,39,187750,False,0.397,0.237,5,-13.597,1,0.0387,0.974,0.102,0.145,0.233,124.733,4,turkish
+1Ozppabe5Tx59z2XEq65yH,Koray Candemir,Sade,Nefesini Tut,40,237306,False,0.695,0.555,2,-8.321,0,0.0306,0.0768,0.0024,0.184,0.523,118.008,4,turkish
+6rrAa1Tzr00PzfrPUJ3QEz,Kolpa,Aşk Ve Hayat Hakkında,Ne Sevmeyi Bildik Biz Ne Sevilmeyi,39,266655,False,0.51,0.667,1,-6.551,0,0.0359,0.54,0.0,0.221,0.407,78.956,4,turkish
+3wQLbN1jRDawNvHvqyC7wJ,Seksendört,"Ahmet Selçuk İlkan Unutulmayan Şarkılar, Vol. 2 (40 Yıl, 40 Ses, 40 Nefes)",Sarhoş Gibiyim,39,208751,False,0.644,0.733,7,-7.134,1,0.0273,0.0126,0.0,0.194,0.904,93.989,4,turkish
+4F8NuHhwTjco3NT1rGhMcs,Umut Kaya,Umut Kaya,Ben Seni Sevemedim,39,187617,False,0.599,0.811,8,-5.667,0,0.0368,0.105,0.0,0.0915,0.889,139.948,4,turkish
+1nXx62nYa06ic40v2KNeGo,Tankurt Manas;Baneva,Bilinçaltı,Yükseklere (feat. Baneva),40,183250,False,0.882,0.662,6,-6.264,0,0.219,0.641,0.0,0.169,0.567,119.884,4,turkish
+2hUvo9TxVWCbszNphTtNlJ,Malt,Kendi Adını Taşıyan İlk Albüm,Aşkın Gözü,39,237865,False,0.635,0.761,9,-3.992,0,0.0351,0.000538,0.000659,0.307,0.538,139.972,3,turkish
+2u1suQZ2iaj0yUomZ283Jz,Ceg;Aspova,Trapanasyon,Mangır,39,252180,True,0.848,0.581,3,-4.884,0,0.269,0.373,1.34e-06,0.227,0.486,124.805,4,turkish
+3nC6iMsN6ALaewr2LArtRQ,Pilli Bebek,Olsun,Anlıyorum,40,302773,False,0.254,0.692,9,-7.634,0,0.0382,0.00965,0.00408,0.16,0.367,166.036,3,turkish
+3zWfjRtvm3gFEAjqeWScEl,Evgeny Grinko,Silent Like Water,Field,59,113050,False,0.191,0.0859,9,-21.876,0,0.0389,0.988,0.902,0.115,0.292,161.21,4,turkish
+10n66m41IGjA2ZulKPK7Ew,Madrigal,Seni Dert Etmeler,Seni Dert Etmeler,77,188500,False,0.552,0.608,5,-11.211,0,0.0274,0.148,2.05e-05,0.332,0.835,88.002,4,turkish
+2SwQShWjZsxoGviEyaEMOX,Ezhel,Nerdesin,Nerdesin,69,176268,False,0.816,0.696,8,-6.75,0,0.153,0.201,0.000643,0.13,0.81,100.004,4,turkish
+3dqbjQcoEgezBPuAPt9zyj,Cem Öget,Erkenci Kuş (Orijinal Dizi Müzikleri),Erkenci Kuş Jenerik Slow,33,184259,False,0.34,0.379,4,-8.68,0,0.0337,0.947,0.0121,0.141,0.145,123.941,3,turkish
+05BJ8vGejJnZlLGNDTn1FB,Serhat Durmus,Minnet Eylemem,Minnet Eylemem,44,209208,False,0.611,0.466,1,-10.124,0,0.0332,0.0254,0.264,0.084,0.0502,140.008,4,turkish
+69RuOoiyE8yNt87aiBM2UC,Orkundk,Ananın Amına Kadar Yolun Var,Ananın Amına Kadar Yolun Var,40,155490,True,0.643,0.592,2,-10.362,1,0.278,0.685,0.0,0.1,0.544,62.508,4,turkish
+41o1OikLPIxHG3OBwtvpmU,Şam;Xir,P.O.P Mixtape pt.1,Çok Derin,39,203915,True,0.543,0.565,7,-11.424,0,0.292,0.497,5.23e-06,0.107,0.421,129.977,4,turkish
+6WLkV7mY1onlkxDrE8ujvO,Şam,Vehim,Psikoz,39,195692,True,0.884,0.463,7,-7.913,1,0.594,0.29,0.0,0.11,0.349,130.141,4,turkish
+0sBfrrFgkRkvb3woBnxwYD,Jefe;Bar B;Bekom,ROADRUNNER,ROADRUNNER,40,164571,True,0.809,0.464,5,-8.716,0,0.373,0.483,0.0,0.111,0.441,140.006,4,turkish
+0ynFJpdwxNpv22s2r5XEdj,Sufle,Seninle,Seninle,38,238064,False,0.667,0.645,9,-8.727,0,0.0319,0.0111,0.000114,0.216,0.499,123.994,4,turkish
+4P7b0CQDQos4tBDmsfyh9x,Son Feci Bisiklet,Çikolata,Çikolata,39,200145,False,0.541,0.84,4,-10.416,1,0.0338,0.146,0.00986,0.302,0.91,137.04,4,turkish
+5708ZWpCPG8bTtbrcIPvGx,Ati242,Bulutlarda,Bulutlarda,39,162384,True,0.734,0.551,4,-10.879,0,0.0974,0.463,4.09e-05,0.11,0.648,144.058,4,turkish
+0N7MNRg9RpwmB51U5cTjCv,Birkan Nasuhoğlu,DİKEN,DİKEN,38,259339,False,0.388,0.498,3,-9.165,0,0.0492,0.65,0.000806,0.0982,0.259,84.567,4,turkish
+7F4yovnXyQ4WUrCLHiyyK7,Umut Timur;MRC,Şaheser,Vermedin,56,220506,False,0.857,0.628,10,-5.58,0,0.0781,0.529,0.0,0.049,0.758,101.987,4,turkish
+5UgUXbFkcVG4hcjGpve0ta,Şanışer;Ados,Umut,Kendim İçin,39,214256,False,0.537,0.417,11,-11.937,1,0.0936,0.646,0.0,0.102,0.478,73.916,3,turkish
+2fbHtVGsYXL95MRdGkEL5R,Mavi Işıklar,Mavi Işıklar - Türk Pop Tarihi,Sevgilim,39,203600,False,0.404,0.448,4,-10.731,0,0.0305,0.724,0.906,0.1,0.584,98.503,4,turkish
+1YFw7jP8wvkrvrJ8nVtkNv,Deyim Yerindeyse,Bir Ben Yabancı,Bir Ben Yabancı,40,281566,False,0.389,0.516,5,-9.313,0,0.0328,0.835,0.00243,0.0818,0.434,165.68,4,turkish
+304nrsKjxLAI84fXrAuQR2,KÖFN,DANS,EL,39,214200,False,0.716,0.671,5,-9.517,0,0.0453,0.0886,0.00954,0.188,0.666,100.021,4,turkish
+10gnTF3jj1awFsRNUKjWHg,Teoman,Teo,Motosikletli Kız,39,247720,False,0.495,0.969,4,-3.376,0,0.103,0.00189,0.0,0.225,0.621,179.729,4,turkish
+2iSzbTzpS9a5IzvZ1CslSV,Eza,Tattoolu Bebek,Tattoolu Bebek,39,120122,False,0.811,0.731,5,-4.085,0,0.133,0.065,0.0016,0.148,0.795,100.017,4,turkish
+29DAF4DKeSlS8D8ctbDzI1,Dolu Kadehi Ters Tut,Evim,Evim,40,140700,False,0.727,0.423,5,-12.411,0,0.0532,0.398,0.146,0.116,0.379,100.038,4,turkish
+20aL7puq4bsxxnOI5xz0Ya,Ravend,ben böyle hissediyorum,24'e 5 kala,40,192000,True,0.78,0.721,9,-7.042,1,0.471,0.222,0.0,0.111,0.747,79.996,4,turkish
+6fPa57Q0X4vjU8BpTa4U8B,Bedo,Kimsen Yok,Kimsen Yok,40,194567,False,0.772,0.652,11,-8.125,0,0.0487,0.309,0.0,0.15,0.619,127.027,4,turkish
+0NoGNBOL1IxYIWWcZBad6q,maNga;Kenan Doğulu,Işıkları Söndürseler Bile,Bize Müsaade Ettim,39,232041,False,0.5,0.912,9,-5.725,0,0.0635,0.00181,0.0,0.152,0.312,139.865,4,turkish
+7Ehc03bVHIf5NSU4EOYSgE,Tan Taşçı,Sözümü Tutamadım,Neler Neler,39,229200,False,0.707,0.885,0,-5.133,0,0.0522,0.0672,1.16e-06,0.0837,0.879,120.032,4,turkish
+7aiG5WVfv2TSRjrXqQA811,Emre Altug,Zil,Çifte Kavrulmuş,38,305481,False,0.68,0.78,0,-5.851,0,0.0336,0.517,1.7e-06,0.136,0.776,141.96,4,turkish
+3alzMs9dw6XR4gIjbM9GmC,Şanışer,LUDOVICO II,Dünyadan Alacaklarım Var,40,195735,False,0.437,0.535,6,-11.528,0,0.152,0.159,0.0,0.343,0.439,92.819,4,turkish
+2BfHMFtcO4lMDCAveGXFfA,Dario Moreno,Dario Moreno'suz 40 Yıl,Mesut Ol Sen,39,130453,False,0.275,0.4,9,-9.558,0,0.0282,0.898,0.426,0.12,0.271,93.117,4,turkish
+0E7Yn2tIKmwPecYtrR79Uv,Ati242;Patron,DIPSOMANIA,PMC IN THE HOUSE,39,212736,True,0.753,0.826,5,-5.921,0,0.0421,0.0424,0.0,0.281,0.486,94.052,4,turkish
+4wD1Vpnw2jUHs07HeAEeFt,Rota,İblisler,İblisler,39,233379,True,0.688,0.886,11,-5.435,1,0.339,0.115,0.0,0.187,0.667,144.972,4,turkish
+2WoePXK4XYZcLTRtPYMKUP,Saian,Berhava,Yerdeniz,39,210500,False,0.662,0.618,0,-12.235,0,0.26,0.0716,0.0,0.317,0.844,91.004,4,turkish
+4tGNtRblzjwLkHllmH8rIS,Moğollar,Umut Yolunu Bulur,Çaya Kaç Şeker,39,262293,False,0.541,0.52,0,-10.12,0,0.0314,0.372,0.0261,0.105,0.584,81.973,3,turkish
+0vkCMfjUHi6NDcWQFrHebQ,Ahiyan,SAKLAYANLARDANIM,Mahkeme Şarkısı,39,148971,False,0.624,0.452,0,-9.297,0,0.0361,0.027,1.44e-05,0.244,0.187,74.015,4,turkish
+41Q2plsnTdz4V67yFLFcM1,Sukriye Tutkun,Gucum Yetene Kadar,Uyan Sunam Uyan,38,284466,False,0.688,0.436,3,-8.006,1,0.029,0.859,0.0,0.127,0.676,115.923,4,turkish
+0Knau01dc3C81fbyOCSj9F,Sagopa Kajmer,Ne Kaybederdin,Ne Kaybederdin,38,307764,False,0.64,0.647,1,-8.521,1,0.0964,0.00947,0.0,0.119,0.639,170.003,4,turkish
+4pSyXtDjPy9G601YfzpA8p,Joker,Jokzilla P6,Jokzilla P6,38,449142,True,0.754,0.592,8,-7.344,1,0.0718,0.00526,0.039,0.246,0.0374,140.061,4,turkish
+1067ZkQkZgEHszEfnFWEgM,Şebnem Ferah,Can Kırıkları,Delgeç,38,255047,False,0.446,0.872,9,-3.133,0,0.057,0.0214,2.65e-06,0.0537,0.424,94.707,4,turkish
+0etgJQI7MuU45j45hItfLE,Defkhan,Besdokuz,BD Intro,40,137506,True,0.672,0.813,9,-5.527,1,0.304,0.239,0.0,0.115,0.679,91.938,4,turkish
+258RIVFMuibgf38bu48HAW,Sertab Erener,İyiliğe Ninniler,Uyusun Da Büyüsün,38,107325,False,0.483,0.18,3,-9.416,0,0.0292,0.907,0.0,0.102,0.15,84.99,4,turkish
+6hPe40jIPik7hRZHwv7VtQ,Haluk Levent;Melek Mosso,Vasiyet,Zülüf,39,262399,False,0.553,0.778,9,-5.643,1,0.0314,0.244,5.95e-05,0.129,0.207,94.973,4,turkish
+1FQmfJurWWewYBHPeUL5UK,Can Bonomo,Kâinat Sustu,Esmer,39,209226,False,0.65,0.813,11,-7.615,0,0.0358,0.161,3.49e-06,0.208,0.706,99.989,4,turkish
+7rxyem3ajHOyoAYbheLr38,Pinhani,Küçük Bir Evde,Masal,39,219477,False,0.537,0.621,7,-9.164,1,0.069,0.218,0.0034,0.151,0.608,78.06,4,turkish
+3i5sulO1DlBMj1XaST28W0,Bergen,Sevgimin Bedeli,Sevgimin Bedeli,40,395940,False,0.67,0.712,2,-4.731,0,0.0631,0.571,0.00079,0.144,0.65,125.834,4,turkish
+0DT06IKGryQWR9pYnEaA85,Sagopa Kajmer,Saydam Odalar,İnsafa Gel,38,279240,False,0.597,0.832,2,-7.03,0,0.128,0.0239,6.37e-06,0.0988,0.454,168.011,4,turkish
+79uSVx8rnsOL9cHenhxjj8,Patron;Stabil,"Pmc Legacy, Vol.1",Dermanım yok,38,208747,True,0.775,0.572,2,-8.488,1,0.507,0.177,0.0,0.0795,0.284,150.018,4,turkish
+4QkKRtOPA0mU55JoyVqtQV,Sertab Erener,İyiliğe Ninniler,Çamlıbelden Çıktım Yayan,38,172013,False,0.481,0.248,9,-11.826,0,0.0311,0.977,4.77e-06,0.102,0.433,75.136,4,turkish
+4I1JXqEZFMSH7y5xzEGGnH,Şebnem Ferah,Parmak İzi,Başka Bir Yol Var,38,239022,False,0.642,0.79,9,-7.845,0,0.0568,0.0792,0.000997,0.0985,0.39,130.052,4,turkish
+3jPifP48viX8AdmSOcUTMP,Teoman,Eski Bir Rüya Uğruna...,Yıldızları Yakalamak,38,234661,False,0.582,0.938,0,-5.951,0,0.0574,0.0296,0.0,0.359,0.88,150.015,4,turkish
+4RIlOkcNx3O9eFspSdEoQd,Güncel Gürsel Artıktay,"Bekliyorum, Öyleyse Yoksun",Yağmurla Gelen,39,239882,False,0.326,0.31,2,-19.063,0,0.0908,0.855,0.263,0.148,0.132,176.021,4,turkish
+4cePIfEB7d8xNEcvdTC8tU,Engin Nursani,Sen Nefsine Köle Oldun,Sen Nefsine Köle Oldun,40,232989,False,0.656,0.55,1,-6.589,1,0.0253,0.539,2.92e-05,0.0809,0.64,92.778,3,turkish
+6A9LfLZ5pDN7os9fovGyGJ,Müzeyyen Senar,Çilingir Sofrası - Oturak Alemi,Sevmekten Kim Usanır,39,289733,False,0.327,0.422,5,-6.289,0,0.0398,0.803,0.00766,0.0947,0.34,145.945,4,turkish
+1xlXvK3CtEGFttrOPijgCS,Ömer Balık,Coffee Blues,Coffee Blues,52,220000,False,0.843,0.37,6,-11.635,0,0.041,0.521,0.0097,0.114,0.664,99.996,4,turkish
+4SKKmtA5ZgbcLzcjTzl8iP,Adem & Murat;Megan Kashat,Dripping,Dripping,53,194234,False,0.816,0.651,2,-7.988,0,0.0869,0.0132,0.5,0.0811,0.294,110.001,4,turkish
+2LJj6EepVuS7CtSuhA1a4g,Berc Polat,Love of My Life,Love of My Life,46,186807,False,0.766,0.687,1,-5.447,0,0.0629,0.209,0.0044,0.105,0.123,94.996,4,turkish
+2JmSLEqFPhIeeIOuxOYucI,Bossy,Yorgun,Fiyakalı Yok Oluşlar,38,204989,True,0.585,0.602,9,-7.443,1,0.0572,0.212,2.68e-05,0.0672,0.142,180.027,4,turkish
+4oaQcMvtAdT95zgC4KjZVA,rody dünyada,Keşif,Keşif,38,260269,False,0.594,0.295,2,-14.478,0,0.0364,0.212,0.0,0.138,0.27,148.013,4,turkish
+4Qpc2aLfJqmqA2Kqj6bgun,Aspova,MATRIX (Blue),Dur Dedik,38,169875,False,0.573,0.595,2,-7.344,1,0.3,0.389,0.0,0.242,0.394,160.045,4,turkish
+7GcLztxPB9XHrCKsAiVlNy,Ati242,Alabama,Alabama,39,193946,True,0.752,0.667,2,-6.041,1,0.085,0.0919,2.66e-05,0.265,0.5,123.976,4,turkish
+3B2iXJTdfe32vUmAsEYw5I,Ohash;Ezhel,Shahulean,Nerden Nereye,38,242037,False,0.592,0.528,6,-7.88,0,0.0968,0.148,0.0,0.0927,0.357,129.938,4,turkish
+2wRZom2rD6XFhTkv0uRlbl,Defa;Mavi,Gerçek Rüya,Gerçek Rüya,41,144490,False,0.684,0.51,1,-12.402,0,0.0788,0.0734,0.0,0.194,0.0962,103.033,4,turkish
+1Xfbnh0217t3gSfqIWHtFg,Diplomat;Bora,YAŞANMAMIŞ SAY,YAŞANMAMIŞ SAY,39,153962,False,0.685,0.901,2,-5.591,1,0.0608,0.229,2.77e-05,0.14,0.451,105.994,4,turkish
+0GRUdNbFzhCFceOI8fLHoQ,MAW,BUZ,Ötesi Yok,38,172800,False,0.587,0.657,2,-8.949,1,0.0833,0.144,0.000406,0.157,0.303,187.493,3,turkish
+6mpF7xC1KXIlsczgPQmN1Z,Pinhani,Canlı Yayın (Live),Bir Damla Gözlerimde - Live,38,267146,False,0.578,0.58,9,-8.484,0,0.249,0.696,0.0,0.736,0.313,107.069,4,turkish
+1B0Qu88HC3dch1V4tXtSwZ,Tan Taşçı,İlk,İmkansız (Rüyalarım Olmasa),39,352634,False,0.458,0.757,7,-6.072,0,0.0794,0.625,2.34e-05,0.325,0.456,169.823,4,turkish
+0yvI86cWrXebjm9zSVcuQD,Haluk Levent,Arkadaş,Kağızman,38,219333,False,0.385,0.728,9,-6.521,0,0.123,0.0845,0.0,0.149,0.577,133.499,4,turkish
+6nnKFhZdk8A8Ghw0px0Mog,Baneva,IKONIK,IKONIK,38,173538,True,0.732,0.606,4,-10.17,0,0.378,0.0968,0.0,0.132,0.778,150.129,4,turkish
+0TnxZVgJKNtMfLddp6vvv4,Şanışer,Otuzuncu Gün,Cinayet,39,222690,False,0.663,0.676,4,-5.195,0,0.0557,0.0922,0.0,0.163,0.276,130.969,4,turkish
+70t4FwQv2r1o9GQZmxrHVw,Anıl Piyancı,Sen Olmazsan,Sen Olmazsan,38,172983,False,0.764,0.555,11,-7.99,0,0.0722,0.317,0.0,0.165,0.403,124.136,4,turkish
+3MYtRN7kbtlNMNtGXCcQHh,Emre Nalbantoğlu,Derdi Neydi?,Sen nerden çıktın?,39,202666,False,0.377,0.701,9,-6.36,0,0.0773,0.0796,2.29e-05,0.089,0.539,137.995,4,turkish
+6KWnBmoNBrUzYB3njC7wAX,Göksel,Tam da Şu An,Tam da Şu An,40,222531,False,0.661,0.81,9,-5.599,0,0.0606,0.305,5.08e-05,0.0869,0.618,82.033,4,turkish
+7v6y0LgWhmP1IoMB575HWW,Sertab Erener;Can Bonomo,İyiliğe Ninniler,Fış Fış Kayıkçı,38,424029,False,0.657,0.134,0,-13.431,1,0.0357,0.986,0.0,0.114,0.119,117.838,4,turkish
+2hVBDR2SJX5ypmlUtLB4wG,Perdenin Ardındakiler;Emirhan Derindere,Meseleler,Meseleler,39,176005,False,0.448,0.173,1,-14.758,0,0.0363,0.635,7.97e-05,0.0688,0.0381,60.907,4,turkish
+3I8gqk9MQtq8iGRNfzTutY,Kenan Doğulu,Ex Aşkım,Kime Ne,39,249333,False,0.793,0.908,9,-6.752,1,0.0803,0.045,0.0,0.0442,0.663,122.035,4,turkish
+7BHJeDZuB9QiTz7y5jewSj,Duman,Seni Kendime Sakladım,Sen Ben,38,204186,False,0.656,0.669,4,-5.535,1,0.0296,0.202,0.0,0.131,0.335,109.996,4,turkish
+7HLfJRAac399SuAd6Me2Bh,Ati242,Uçuyoz Gökyüzüne,Uçuyoz Gökyüzüne,39,189508,True,0.746,0.784,8,-7.981,1,0.059,0.691,0.0,0.109,0.802,113.04,4,turkish
+5Uegjzqb73WmTpGEbroA9D,Gece Yolcuları,Gece Yolculari,Olum de Var,38,287253,False,0.434,0.568,9,-6.598,0,0.0289,0.00568,0.0,0.0999,0.413,129.992,4,turkish
+02sEDfbS0iwKdagP309Gfy,Ati242,Winnie the Pooh,Winnie the Pooh,39,230350,True,0.76,0.629,1,-8.191,1,0.196,0.126,0.00297,0.118,0.304,150.009,4,turkish
+6UX8nGE5sT7FsUAgQILD6X,Kibariye,İşte Ses İşte Yorum,Lafımı Olur,38,212062,False,0.687,0.65,7,-11.052,0,0.0837,0.645,0.0,0.115,0.91,93.33,4,turkish
+4ice9UF9ZbtANWAYNOptW7,Keskin,BOZGUN,Kim O,41,135750,True,0.765,0.711,0,-5.697,1,0.334,0.372,0.0,0.121,0.38,150.085,4,turkish
+26BXHBxL0h0V4wdKy9aXKX,Ayben,Başkan,Yol Ver,39,242124,False,0.765,0.699,3,-5.216,0,0.13,0.448,0.0,0.308,0.553,120.009,3,turkish
+1F8PaZlw4n1Ds7lZfMUmU5,Anıl Durmuş,Çıkmaz Sokak,Çıkmaz Sokak,39,225000,False,0.282,0.593,1,-9.476,0,0.0521,0.399,0.0,0.208,0.358,159.219,4,turkish
+21PiVlkfkG1UXjJAj2xksB,No.1,Gün Size Günaydı,Gün Size Günaydı,39,208948,True,0.564,0.808,2,-4.805,1,0.224,0.00304,4.44e-06,0.59,0.656,84.809,4,turkish
+1x87xvhX9vvDsMSpGCJx2o,Vera,Karşının Hikayesi,Mutluluk Reklamı - Akustik,39,213949,False,0.438,0.288,0,-9.669,1,0.0324,0.854,0.0,0.0967,0.19,82.155,4,turkish
+2SGw7SCQWp1vdTAqiy9LnZ,Gripin,Nilüfer,Nilüfer,38,257613,False,0.33,0.514,10,-9.847,0,0.0349,0.588,0.000613,0.112,0.349,152.087,4,turkish
+57NChv3uzjm8y4Y3x3Y8g0,Sertab Erener,Ben Yaşarım,Aç Sesini,38,240933,False,0.562,0.751,5,-6.478,1,0.0315,0.136,1.45e-06,0.0895,0.341,67.006,4,turkish
+2FBQ0rV0S780tLI4I5oUWZ,Emre Fel,Deli Sevda,Deli Sevda,39,300179,False,0.471,0.831,4,-5.215,0,0.0423,0.767,0.00022,0.135,0.224,145.944,4,turkish
+5PzX50eYGKgceDgVbevYnG,Khontkar;Bixi Blake,PLA4: THE VISION,SİS,38,194000,True,0.906,0.582,4,-8.943,0,0.226,0.0505,0.026,0.26,0.489,132.009,4,turkish
+6dWcsKnaJHd8gjJSnHh8Ar,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Yalan - Live,39,246644,False,0.351,0.304,2,-8.931,0,0.0342,0.929,0.0,0.673,0.312,97.296,3,turkish
+2xVoBE8IwIF3d7lpFE75iC,Teoman,Gecenin Sonuna Yolculuk,Gecenin Sonuna Yolculuk,38,280600,False,0.686,0.404,11,-7.457,0,0.0268,0.119,0.000386,0.108,0.56,100.932,4,turkish
+0HdOiqUyOvIKyMwDRcW4vh,Melek Mosso,Kızgınım,Kızgınım,39,218662,False,0.544,0.353,10,-9.752,0,0.0362,0.454,5.98e-06,0.0934,0.264,77.042,4,turkish
+1U2EecRng7FsdMZr3IlS0i,Cem Adrian,2020 Model: Murathan Mungan,"Eskidendi, Çok Eskiden",38,303454,False,0.301,0.348,9,-7.349,0,0.0454,0.825,0.0,0.118,0.354,175.3,3,turkish
+2R0W3yzaYLWOz1pDzUpgkh,Norm Ender,Konu Kilit,Konu Kilit,38,212357,False,0.876,0.721,6,-4.525,0,0.116,0.0216,0.0,0.0654,0.568,77.003,4,turkish
+28ewfZ6bTCVCNOFEZ1Q7q8,Pentagram,Makina Elektrika,Maymunlar Gezegeni,39,296187,False,0.322,0.981,2,-6.576,1,0.075,3.05e-05,0.483,0.262,0.402,174.884,4,turkish
+35epJUtGmcvhxY3ho6BIfY,Birkan Nasuhoğlu,Hani Dersin Ya Tamam (Akustikhane Sessions),Hani Dersin Ya Tamam (Akustikhane Sessions),38,178183,False,0.406,0.205,4,-16.815,0,0.0448,0.672,0.00028,0.0926,0.3,132.844,3,turkish
+36XWUlUGrfZ8da2fLbnNqj,Can Bonomo,Ruhum Bela,Ruhum Bela,38,165192,False,0.638,0.893,9,-4.857,1,0.076,0.0398,0.0,0.0801,0.567,127.947,4,turkish
+1m37Hf4mCV6XoGA1AuSfR9,Moğollar,Moğollar'94,Dinleyiverin Gayri,38,235199,False,0.768,0.485,1,-13.449,0,0.0685,0.142,1.92e-06,0.269,0.838,115.866,4,turkish
+4Cfx42Bl9RH5Z0ruiZoccb,Stabil,Kovala (Orijinal Film Müziği),Kovala - Orijinal Film Müziği,40,208705,False,0.763,0.679,6,-8.173,0,0.233,0.482,3.86e-06,0.112,0.34,135.071,4,turkish
+7xMxs0Olfv0KKeaXmBZHYH,Doğan Canku,Best Of +3,Gecelerim,38,162801,False,0.475,0.289,0,-9.519,0,0.0393,0.926,1.09e-06,0.121,0.669,91.664,4,turkish
+4U2Q0DTLuNKYnWmt3nXmd6,Teoman,Rock and Roll,Serseri,38,221155,False,0.65,0.519,6,-5.886,0,0.0323,0.114,1.05e-06,0.0756,0.528,74.932,4,turkish
+1G6oaokLtM7Tn5ddWYFqbl,Grup Yorum,Sıyrılıp Gelen,Büyü,40,227648,False,0.515,0.353,5,-13.192,0,0.0324,0.816,1.06e-06,0.678,0.534,147.517,4,turkish
+2G79dQYPEChZWac5hHi4UU,Barış Akarsu,Düşmeden Bulutlarda Koşmam Gerek,Yaz Demedim,39,222680,False,0.633,0.865,4,-5.259,0,0.0546,0.22,6.62e-06,0.391,0.76,139.944,4,turkish
+2RuYfjedS5DW26ejCu5nZC,Jay Aliyev,Together,Together,46,229524,False,0.685,0.701,0,-10.272,0,0.0363,0.0354,0.796,0.109,0.2,100.003,4,turkish
+688td3ERdnPDqNyT80PAA8,Onur Atli;Efekan;Jordan Rys,Industry Baby,Industry Baby,56,168764,False,0.745,0.9,10,-5.387,0,0.0665,0.0039,0.000678,0.0946,0.504,128.014,4,turkish
+6YOD2nHY0P3Usl4e58iO3m,Ozbi,Serserilik Ve Şiir,Bana Yol Söyle,39,260608,False,0.609,0.638,7,-8.149,0,0.0363,0.0517,0.0,0.0929,0.184,115.015,4,turkish
+0foCYfdIVahzQlj6H9ym6x,Sertab Erener,Aşk Ölmez,Sessiz Gemi,38,273000,False,0.371,0.462,7,-11.096,0,0.0583,0.377,0.0,0.26,0.462,135.872,3,turkish
+5nlAJwdemeX73vBXZhg1Fm,Ahmet Aslan,Konser Kayıtları,Divane Gönlüm Benim,39,209645,False,0.58,0.237,1,-11.489,0,0.0357,0.962,0.000564,0.108,0.631,113.125,4,turkish
+19cxPUMbttLsZhifmpKnId,Orkundk,Tanrılar Bunu İstedi,Marsa Gönder Beni Elon Musk,39,220824,True,0.783,0.481,8,-13.369,1,0.249,0.106,0.0195,0.207,0.521,100.046,4,turkish
+53XpYnPMm9sDql7MDj97yJ,Barış Manço,Dağlar Dağlar / Barış Manço Klasikleri,Kol Düğmeleri,37,206452,False,0.379,0.438,8,-8.725,1,0.0349,0.00191,3.35e-05,0.311,0.426,163.704,3,turkish
+0gb2OSLW7O6QFm3Wshx50B,Kerim Tekin,Kara Gözlüm,Kara Gözlüm,39,282000,False,0.502,0.413,2,-7.568,0,0.0509,0.578,0.0,0.0521,0.178,191.728,3,turkish
+3XI5LS5zvxcaqXIKXbr1ar,Sagopa Kajmer,Tek,Bu Böyledir (2021 Tek Edit),38,155500,False,0.742,0.559,6,-11.468,0,0.254,0.0146,0.000716,0.0852,0.215,89.972,4,turkish
+7IPjHxPkwUbfVfKlh07VlJ,Bahadır Sağlam,Mavi,Kördüğüm,39,252693,False,0.545,0.489,9,-6.57,0,0.0309,0.784,0.0,0.0658,0.249,100.017,4,turkish
+1HHbvFwzFKz38MfEBJ4dPo,Artz;Şehinşah,İşin Mutfağı,Sizle Muhattabım (feat. Şehinşah),39,193796,True,0.767,0.622,4,-8.871,0,0.279,0.122,0.0,0.185,0.395,79.904,4,turkish
+6s2u8neVUCKOxvKDW6ZT9o,Sertab Erener,Ben Yaşarım,Belki De Aşk Lazım Değildir,38,222733,False,0.461,0.39,7,-10.973,0,0.0385,0.577,7.04e-06,0.12,0.498,172.044,4,turkish
+48hmCZt8zQ35HPWt3jw7i8,Ceza,BakaBaka,BakaBaka,39,180946,False,0.891,0.891,4,-4.861,0,0.381,0.278,0.0,0.691,0.69,102.892,4,turkish
+3inki2RvQVvKtaruRmYcMJ,Karaçalı;Cem Adrian;Melis Danişmend,Sesindeki Yalnızlık (feat. Cem Adrian & Melis Danişmend),Sesindeki Yalnızlık (feat. Cem Adrian & Melis Danişmend),39,275086,False,0.338,0.892,9,-5.574,0,0.436,0.475,1.48e-05,0.0345,0.35,83.852,4,turkish
+4R654w6r5SSSmfyAzl0S86,Allame,AV,Işıklar,38,265454,True,0.726,0.906,6,-4.236,1,0.0767,0.672,0.0,0.337,0.573,132.067,4,turkish
+3qC0TjQ2bJSz3NSJjTQEj9,Vio;Modd,"Yanyol, Vol. 1",Naber,38,178385,True,0.826,0.603,10,-5.954,0,0.137,0.0615,4.27e-05,0.205,0.173,130.049,4,turkish
+359vccqtXdNwLIND0s2nok,Kaan Tangöze,Gölge Etme,Kıyamet,38,274901,False,0.514,0.262,5,-12.981,1,0.0363,0.824,0.000156,0.0686,0.382,120.894,4,turkish
+5rY3r2uYoHPswDaoQT0mmL,Kalben,Kaybolmuş,Kaybolmuş,39,338831,False,0.534,0.669,7,-9.534,1,0.0442,0.323,0.034,0.223,0.386,86.968,4,turkish
+6kUkJoXA4610jVIhS6unrv,Hidra,C-137,A-A O!,38,193959,True,0.78,0.702,1,-9.178,1,0.144,0.266,0.000609,0.0896,0.38,149.986,4,turkish
+6l7D7gpltHZOBXVzXjaA9t,Özgün,Aşık,Aşık,38,209995,False,0.704,0.871,2,-6.114,1,0.0514,0.159,0.0,0.154,0.95,132.006,4,turkish
+5RQOOES2NBTUhqhBaufWax,Tankurt Manas,Çene Kemiklerimi Kırdım,Çene Kemiklerimi Kırdım,39,127500,False,0.68,0.625,4,-14.203,0,0.143,0.361,0.0179,0.0891,0.857,160.035,4,turkish
+07MuBzFv2Eyx5MEjW9bPIo,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Benim Gibi Olmayacak - Live,39,236501,False,0.455,0.575,2,-7.867,0,0.0339,0.789,2.38e-05,0.19,0.172,109.959,4,turkish
+37Bp57WSol5g0pLbXPVnQE,Birkan Nasuhoğlu,ne çok şey birikti içimde,Yollar Bitmez,38,196346,False,0.575,0.388,8,-13.337,0,0.0338,0.361,5.04e-06,0.145,0.366,124.03,3,turkish
+5GviQ4GxF2KHohAW8DPvMg,Khontkar,RDKYSZN,Hata Edersin,38,208561,True,0.895,0.515,1,-9.579,1,0.079,0.493,0.0002,0.106,0.347,130.027,4,turkish
+460EBoaiW3WaGkLOKfo2CO,Şebnem Ferah,"Bülent Ortaçgil İçin Söylenmiş Bülent Ortaçgil Şarkıları, Vol. 1",Değirmenler,38,254000,False,0.444,0.308,11,-13.634,0,0.064,0.126,0.0,0.141,0.0689,112.853,4,turkish
+0nXs17LnXEqk3rtRMTUjNi,Can Gox,Yalnızım Ben,Sorma,39,235020,False,0.572,0.817,5,-5.825,0,0.0418,0.0345,1.27e-05,0.203,0.583,100.043,4,turkish
+3cNw94RcgXmcKw0268eipF,Şehinşah,Denetimli Serbestlik Stili (Deluxe),Dilemma,38,85008,True,0.814,0.914,4,-3.304,0,0.0445,0.186,0.0,0.107,0.741,140.103,4,turkish
+4aoN6rHl9SkAZJw8BFh4yf,Zülfü Livaneli,Nefesim Nefesine,Nefesim Nefesine,38,338866,False,0.398,0.318,3,-12.283,1,0.0299,0.544,6.02e-06,0.0875,0.137,105.849,4,turkish
+6mboYkYC6aXpdixTQAm1y6,Sagopa Kajmer,Kötü İnsanları Tanıma Senesi,Sahibinin Sesi,38,265226,False,0.776,0.531,11,-9.429,1,0.119,0.11,0.0,0.118,0.789,92.027,4,turkish
+2MCVxSNE8L8Ov3Qgi5Mb38,Yüksek Sadakat,Rengarenk,Rengarenk,38,233560,False,0.688,0.719,4,-6.694,0,0.0281,0.283,4.54e-06,0.0774,0.868,112.013,4,turkish
+3OoxDuv9UEwukblwp7NqPm,Redd,Yersiz Göksüz Zamanlar,"Tutmuyor Frenler, Pt. 1",39,198998,False,0.538,0.325,9,-9.89,0,0.0343,0.158,6.02e-05,0.116,0.522,105.323,4,turkish
+7jztxVlmqgxirfxNb3k9TB,Hande Yener,Sen Yoluna... Ben Yoluma...,Şansin Bol Olsun,39,240760,False,0.731,0.97,6,-6.511,1,0.0766,0.479,0.0,0.214,0.748,132.944,4,turkish
+73iHZz0omZYeHnoBzYFBOH,Şanışer,LUDOVICO II,Şer'in Atlası,39,205897,True,0.701,0.661,1,-11.771,1,0.319,0.479,0.0,0.0971,0.519,140.031,4,turkish
+0XoE4XmlJyz7UyfluaGXi3,163,Kedimle Aram,Kedimle Aram,38,192000,False,0.726,0.498,7,-9.308,0,0.0478,0.00203,0.000658,0.0967,0.665,104.954,4,turkish
+0hSeZwrQcT7jQZVY2OeRRY,mor ve ötesi,Harbiye Açıkhava (Canlı Senfonik),"Aşk İçinde (Harbiye Açıkhava, 2019) - Canlı Senfonik",38,246549,False,0.302,0.725,11,-8.445,0,0.0684,0.00577,0.231,0.71,0.372,126.48,3,turkish
+3GXcF8i4agXLn1GrXIpZlw,Hayko Cepkin,Sakin Olmam Lazım,Eller Aldı,38,260986,False,0.516,0.586,4,-7.061,0,0.025,0.0581,0.000243,0.114,0.25,147.777,4,turkish
+75MDHWR9XFLAgDr2nHsH7e,Batuflex,Okkey EP,Başka Yolu Yok,39,138461,True,0.905,0.323,2,-11.248,1,0.301,0.399,0.000517,0.0748,0.351,98.535,4,turkish
+3Dl93wvmDX415PsH5RDTk2,No.1,Siyah Bayrak,Bizede Dön,39,264765,True,0.787,0.293,5,-12.011,0,0.237,0.345,0.0257,0.115,0.0913,79.989,4,turkish
+4w03tdVI0Gyo3LRsKcVCSo,Beta Berk Bayındır,Best of Beta,Pardon Aşkım,39,191639,False,0.961,0.493,1,-5.75,1,0.17,0.233,0.0,0.137,0.679,105.004,4,turkish
+2r9siAoZ9yrt5CzPXHmxfX,Hayko Cepkin,Sakin Olmam Lazım,Yarası Saklı,38,267306,False,0.547,0.73,4,-7.552,0,0.0367,0.0774,0.00144,0.107,0.249,98.007,4,turkish
+6PC4FyTCCkOz6HvJnJlBKb,Sezen Aksu,Işık Doğudan Yükselir,Alaturka,39,263973,False,0.354,0.286,9,-7.432,0,0.0356,0.813,0.0,0.189,0.533,141.309,3,turkish
+1s1MYfBzfabSOtpOy07bHA,Onur Can Özcan,Ah Adam,Bu Değildi,39,184145,False,0.546,0.121,0,-17.448,1,0.0658,0.896,0.0,0.16,0.52,133.87,4,turkish
+6BUfqtQcP26I7MNC5fAg7w,Sertab Erener,İyiliğe Ninniler,Uyu Yavrum Yine Sabah Oluyor,38,131889,False,0.536,0.237,0,-10.133,1,0.0305,0.976,0.000142,0.0981,0.107,78.048,3,turkish
+1MtwgapAb0uB9FQph0qKTX,Suat Suna,Hasret Fenerleri,Aramızda Uçurumlar,38,226089,False,0.796,0.743,1,-11.085,0,0.0375,0.25,2.14e-06,0.0402,0.963,143.046,4,turkish
+4JRHYvSbFG7MaykB23AMYT,Ilkay Akkaya,Yine,Bir Şehri Düşlemek,39,223813,False,0.502,0.429,5,-9.597,0,0.0339,0.904,0.0,0.282,0.533,157.951,4,turkish
+3UxPbLkQniiproORCEFgzH,Neşet Ertaş,Zahidem,Haydar Haydar,40,261000,False,0.412,0.343,6,-9.123,1,0.0654,0.871,1.9e-05,0.25,0.217,84.76,4,turkish
+3521U20eZSGzR5TJwgwVzR,Erol Evgin;Candan Erçetin,Altın Düetler,Aldım Başımı Gidiyorum,38,230165,False,0.612,0.528,7,-4.968,0,0.045,0.233,0.0,0.153,0.313,103.797,3,turkish
+3I2RcaYY3bjZR1ia13kHGi,Motive,Makaveli (Deluxe),Bi Sıkıntı Yok,39,193611,False,0.762,0.915,1,-4.684,0,0.0821,0.462,0.0,0.0905,0.483,94.992,4,turkish
+6tpYtU4s4h0cWiDD1qyPhW,Saian,Sıkı dur geliyorum!,Al Sevgilim Anne Ol Bununla,38,246413,False,0.359,0.609,11,-9.207,0,0.309,0.000279,0.000904,0.173,0.611,79.443,4,turkish
+2VDDXzeL8f9DuX6QsZ4WXa,Kıraç,Bir Garip Aşk Bestesi,Karahisar,38,216456,False,0.631,0.709,9,-12.015,0,0.0521,0.0358,0.0,0.112,0.482,122.381,4,turkish
+7a6t3mi92Z7qDWxyPblbdZ,Cem Tuncer;Nail Yurtsever,Adını Feriha Koydum (Orijinal Film Müziği),Beni Unutma - Enstrumantal,36,214986,False,0.308,0.343,2,-10.091,0,0.0325,0.943,0.948,0.114,0.327,99.448,4,turkish
+62FGiKU4IdFgb9au7uRMle,Aydilge,Kiralık Aşk (Sen misin İlacım?),Kiralık Aşk (Sen misin İlacım?),50,226928,False,0.683,0.805,5,-4.704,0,0.0566,0.0741,0.0,0.047,0.811,102.0,4,turkish
+63UlcXS3kWJXph9FL5zeWA,Evgeny Grinko,Orange Marmalade,See You Tomorrow,59,91303,False,0.639,0.028,6,-29.729,0,0.039,0.971,0.397,0.116,0.4,130.02,3,turkish
+2Bcf4MCdFoeuVg26w3x2La,Yonca Evcimik,Yonca Evcimik 94,8:15,38,264466,False,0.689,0.6,9,-17.285,0,0.0849,0.0413,2.02e-05,0.118,0.96,193.992,4,turkish
+0aUhJQdCqJ5Xtrb8PoOE0F,rody dünyada,add,add,38,146493,False,0.511,0.489,6,-11.655,0,0.0577,0.816,0.0,0.0936,0.364,96.841,4,turkish
+2rMpjMvi9zOuyEIqw1BF0N,Özdemir Erdoğan,Unutulmayan Şarkılar,İkinci Bahar,37,195026,False,0.406,0.232,7,-19.399,0,0.051,0.853,0.000877,0.194,0.454,138.129,3,turkish
+1ahsw2lavEiDcBd0BDE06Q,Mediha Demirkıran,Huysuz Ve Tatlı Kadın,Huysuz Ve Tatlı Kadın,39,210000,False,0.277,0.47,9,-2.328,0,0.035,0.735,2.25e-06,0.189,0.144,99.847,4,turkish
+05kp3xSFqvGpxEhtgDjras,Artz;Şehinşah,İşin Mutfağı,Düşünmemek (Remix) [feat. Şehinşah],38,214494,True,0.626,0.725,3,-7.025,1,0.243,0.501,0.0,0.192,0.632,86.895,4,turkish
+4BYVQZQizXAvMvAAk5Q757,Cengiz Kurtoğlu,Bizim Şarkımız,Benim Olsaydın,39,193640,False,0.486,0.488,11,-11.453,0,0.0334,0.677,0.0,0.136,0.836,100.225,4,turkish
+0Z24BDg7llOCkLHosxnmbD,Ilkay Akkaya,Unutma,Yol,38,311293,False,0.582,0.406,2,-7.808,0,0.0286,0.806,1.35e-05,0.0794,0.541,103.892,4,turkish
+7xsld6L73TJgWzOAsVYRIl,Ravend,Yudumlarım,Yudumlarım,40,138666,False,0.701,0.451,6,-8.87,0,0.0593,0.719,7.11e-06,0.135,0.668,89.955,4,turkish
+7EFaH1sfrNZwJIYP7dJST2,Ahiyan,İstemem,İstemem,38,198181,True,0.58,0.479,0,-10.397,0,0.191,0.224,0.0,0.133,0.352,119.758,4,turkish
+2efzFaOnSIlXcQkTAw2Dr6,Ayben,Başkan,Başkan,38,190072,False,0.742,0.834,7,-4.467,1,0.23,0.163,0.0,0.863,0.645,137.039,4,turkish
+3mZQAM3IZdrzs61VoRe5wa,Ali Meydanioğlu,belki kafam dünden güzel,belki kafam dünden güzel,39,247710,False,0.573,0.664,9,-7.534,0,0.0357,0.127,0.0402,0.371,0.152,93.961,4,turkish
+1S4UvzpGRT6xJqrucICslQ,Killa Hakan;Khontkar,Bang Bang,Bang Bang,38,260625,True,0.769,0.766,2,-6.442,1,0.328,0.273,0.0,0.0522,0.403,127.761,4,turkish
+4zsq1x8VqjjbyUSKSLU2eN,maNga;Kamufle;Joker;Tankurt Manas;Fate Fat;Dj Hırs,X,1000 Parça,38,238163,False,0.625,0.971,5,-4.246,0,0.146,0.00529,7.11e-06,0.326,0.544,136.037,4,turkish
+7lZEYa1Xq69w1xvIp8hiTy,Can Bonomo,Kara,Kara,38,167723,False,0.367,0.369,6,-10.83,0,0.0449,0.78,0.0,0.0927,0.498,187.708,4,turkish
+1KNQbnpnsyp7lhP5BbPtD0,Onur Can Özcan,Bu Mevsimde,Bu Mevsimde,39,106000,False,0.702,0.373,11,-5.61,0,0.0615,0.864,0.00365,0.0903,0.545,85.074,4,turkish
+0PHfHk7nElZ2EX7phkuTwl,Cem Karaca,"Cem Karaca'nın Apaşlar, Kardaşlar, Moğollar, Ferdy Kleine'a Teşekkürleriyle",Unut Beni,38,243693,False,0.393,0.454,5,-15.335,1,0.0385,0.127,2.72e-05,0.375,0.42,95.628,4,turkish
+3LySeEB89ILe0D39Xzn20N,Çağrı Sinci,Modern Zamanlar,Kaçamadım,39,158894,False,0.565,0.792,2,-8.668,1,0.135,0.0316,0.000196,0.493,0.101,86.145,4,turkish
+7deDMFMXrZgLY8JIXoEmxw,Sagopa Kajmer,Tek,Mevsimler Gibisin (2021 Tek Edit),38,137478,False,0.547,0.631,8,-13.988,1,0.248,0.0201,0.0,0.254,0.603,171.789,4,turkish
+3iiZjpzqX9It7OcPmnIJl3,Taladro;R-Ash,Hülya,Duydum Ki,39,156513,False,0.713,0.574,1,-8.269,1,0.0488,0.0751,0.0,0.262,0.119,130.025,4,turkish
+2Y0rbMONCI9mU8h8lw1S5A,Yaşar,Esirinim,Esirinim,38,198933,False,0.693,0.836,2,-7.987,0,0.143,0.414,0.0,0.129,0.77,113.974,4,turkish
+6GU0hoKkcGELLLXIZvrLCW,Tepki,Şehir Efsanesi,Üzgünüm Anne,38,179200,False,0.655,0.637,11,-8.099,0,0.185,0.469,0.0,0.0999,0.371,171.921,4,turkish
+6Ydk01HgyFkkZ92UtwmdJu,Hayki;Da Poet,2005 - 2015 Compilation,Hiç Sevmedim Seni,37,282723,True,0.664,0.569,9,-14.47,1,0.137,0.442,0.0,0.313,0.424,89.982,4,turkish
+7HD8tXm2ussN67ZQe0z6HU,Şehinşah;DJ Artz;Xir;Sansar Salvo,DEEV (Deluxe Edition),"Rec, Play, Pause (feat. DJ Artz, Xir & Sansar Salvo)",38,268888,True,0.778,0.716,1,-7.848,1,0.0375,0.000327,0.0,0.0755,0.0826,108.003,4,turkish
+2YWHanCmJIIwX33UgZhrnq,Tarkan,Ahde Vefa,Akşam Oldu Hüzünlendim Ben Yine,39,176808,False,0.569,0.641,1,-6.56,1,0.035,0.354,0.000137,0.297,0.276,121.903,4,turkish
+3qI8l5G1oTanBE2rbCnEId,Stabil,OKSMRN1,ALIŞTIM ARTIK,40,179239,False,0.702,0.676,2,-8.458,0,0.103,0.599,7.14e-06,0.124,0.409,143.935,4,turkish
+2JeSPDpLdZN8LjG4oDk5wI,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Sevda - Live,39,265515,False,0.619,0.546,2,-8.417,0,0.0512,0.705,0.0,0.683,0.344,98.986,4,turkish
+7p3kqLp9dlKmsqMCSvxNJ8,Şanışer,LUDOVICO II,Yanlışlara Gidiyorum,39,224496,False,0.569,0.511,4,-15.951,0,0.165,0.276,0.0,0.334,0.0934,110.031,4,turkish
+5KzyfqUnXjRm2cfiz1pcSS,Tan Taşçı,Yıldızlarda Kayar,Söyleme,39,288480,False,0.622,0.762,4,-5.899,0,0.0468,0.116,0.0,0.288,0.448,129.948,4,turkish
+59tB3EzbE5sj8hx4OBjWRy,Batu Akdeniz;Aleyna Talınlı,Yarın Yokmuş Gibi (Akustik),Artık Bi' Manyağın Var - Akustik,38,170057,False,0.493,0.296,2,-7.785,0,0.0757,0.667,0.0,0.0916,0.394,147.03,4,turkish
+0CEHFX26ws7A3HJhNVGbzt,Derya Bedavacı,Sayende,Sayende,38,240930,False,0.391,0.554,11,-4.821,0,0.0498,0.15,0.0,0.142,0.346,151.908,4,turkish
+3xR7G6Oxitpn4hW3jNEj6P,Yıldız Tilbe,Delikanlım,Yalnız Çiçek,39,242240,False,0.745,0.356,9,-13.732,0,0.039,0.385,6.95e-06,0.0533,0.623,109.966,4,turkish
+6XycYLbXK7ShMa7kfwJkMI,Kazancı Bedih,"Eşliğinde Şanlıurfa Sıra Geceleri, Vol. 6 (Nemrudun Kızı/ Neler Ettin Keje)",Mardin Kapısından Atlayamadım,38,218573,False,0.407,0.715,9,-7.358,1,0.0711,0.86,0.0,0.283,0.533,132.974,3,turkish
+2pL9RRcyNIZU2wBWoPRmp2,Hidra,Yenilmez,Burası Dünya,38,255818,True,0.742,0.816,8,-6.313,1,0.134,0.494,0.0,0.0857,0.864,93.981,4,turkish
+3GKrAk1f2WFlgWALwJ6MiJ,Beta Berk Bayındır,Best of Beta,9,39,183384,True,0.934,0.548,1,-7.89,0,0.224,0.0334,0.0,0.0621,0.455,105.042,4,turkish
+2EM58GRsFTN2noP2UNUQC2,Nilüfer,Sürprizler,Of Aman Aman,38,135573,False,0.56,0.814,2,-6.541,1,0.124,0.764,1.02e-05,0.15,0.694,90.448,4,turkish
+4xfNO1hq6afGwhxvLMAkmy,Joker;Allame,Featurings,Tanınmayanlar,38,210442,True,0.787,0.778,9,-8.014,1,0.279,0.519,0.0,0.107,0.859,83.034,4,turkish
+3PPpiTKqKvRyFh0xFslZPS,No.1,P.I.V,Hasta Olmak İçin,39,229262,True,0.736,0.824,9,-6.487,0,0.311,0.081,0.0,0.388,0.762,127.933,4,turkish
+7DEh574l5gTV0FjHVild3l,Patron,EL PATRON,Jet Lag,37,171967,True,0.684,0.637,11,-6.244,0,0.286,0.255,0.0,0.254,0.846,149.917,4,turkish
+31P2qMD7VSeJkRPISiJTH4,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Nasıl Seveceğim - Live,39,293668,False,0.507,0.439,0,-8.885,0,0.0314,0.797,4.81e-05,0.177,0.19,138.139,4,turkish
+6sOC8bNYY09sKMjXwegRzN,Can Bonomo,Ruhum Bela,Eğlen,38,183194,False,0.356,0.796,9,-5.242,0,0.0389,0.0424,1.71e-06,0.152,0.424,188.119,3,turkish
+5ckv3g87dkbraa8lrPKRhW,Kurban,İnsanlar,İnsanlar,38,307664,False,0.535,0.953,11,-5.16,0,0.0573,0.0021,7.1e-05,0.113,0.775,144.974,4,turkish
+6GeU7bmiWCjDdbedTVIIlo,Gündoğarken,İstanbul Atina İstanbul,Gördüğüme Sevindim,38,209789,False,0.489,0.414,9,-10.871,0,0.0297,0.799,3.11e-06,0.228,0.35,151.159,4,turkish
+2I5qy5LR80wnCgPQzLvuYd,Havva Öğüt,Bu Kara Sevdayı Sardın Başıma,Bi Gönlüne Ben Sığmadım,39,258204,False,0.559,0.28,7,-7.97,0,0.033,0.818,4.8e-05,0.198,0.404,102.293,4,turkish
+3vWjG4yGIip2a4XUf3rt4R,Bergen,Garibin Çilesi Mezarda Biter,Garibin Çilesi Mezarda Biter,39,324205,False,0.524,0.589,11,-3.556,0,0.0304,0.946,0.00089,0.226,0.403,100.042,4,turkish
+3RrBcQlMGFdFtz1JMIHaK1,İlhan İrem,Bezginin Gizli Mektupları,Olanlar Olmuş,37,487866,False,0.275,0.491,4,-6.95,0,0.0375,0.891,0.0149,0.295,0.32,158.676,4,turkish
+37XYfCkwvTmfn0Q3JbCpRJ,Contra;Mister Geng;Orking,Böyle (feat. Mister Geng & Orking),Böyle (feat. Mister Geng & Orking),38,197142,False,0.611,0.767,7,-4.835,1,0.256,0.301,0.0,0.0819,0.337,168.096,4,turkish
+5Yxem6p8kLKrMo3JbG7sLB,Teoman,Rock and Roll,Sardunyalar Arasında,37,288415,False,0.574,0.779,4,-5.568,0,0.037,0.0071,0.0,0.665,0.533,144.102,4,turkish
+3Oyp1lkh1KEX8a5qg6eHZJ,Kıvılcım Ural,Aşk Laftan Anlamaz,Aşk Laftan Anlamaz,33,144536,False,0.821,0.379,11,-16.691,0,0.0573,0.437,0.00421,0.115,0.573,109.912,4,turkish
+6h8NuIBrwMcXkoLZNPqCzt,Furkan Sert;Elnur Mikayilov,Alone,Alone,49,225226,False,0.74,0.535,4,-6.881,0,0.0423,0.309,0.417,0.106,0.229,99.99,4,turkish
+5OzZtKR8gaHUyomrZaMEJZ,Serhat Durmus,Arres,Beside Me,41,198400,False,0.472,0.776,9,-9.287,0,0.124,0.297,0.142,0.0921,0.158,150.033,4,turkish
+4oFjWv0hf8gPkG6ASFJTHz,Ilkay Sencan;Faruk Sabanci,All The Things She Said,All The Things She Said,53,169102,True,0.791,0.89,6,-4.845,1,0.0906,0.166,0.00319,0.489,0.256,105.056,4,turkish
+4Tys2WHEtI398byk6PVAGZ,İzel,Bebek,Kıyamadım,38,228200,False,0.542,0.322,10,-13.086,0,0.0333,0.801,1.94e-06,0.089,0.22,122.645,4,turkish
+6ctEfeQwedxC2yDZLmj54i,Dolu Kadehi Ters Tut,Akustik Takılmacalar,Yol,39,191714,False,0.526,0.287,0,-11.831,1,0.0341,0.77,0.00666,0.0579,0.29,73.868,4,turkish
+4CdNda7ol24UqRKdLl41kJ,Tepki;Ceza,Yak,Yak,38,204000,True,0.715,0.702,8,-6.398,0,0.27,0.146,0.0,0.266,0.239,159.955,4,turkish
+4XuicRrvKC31f7VuNTxChL,Xir;No.1,XX,Tsubasa (feat. No.1),38,261443,False,0.733,0.525,1,-9.573,0,0.301,0.0629,0.0,0.164,0.291,107.023,4,turkish
+0vqtRYkKXZmkYDfAd2La34,Maestro,Semt İşi,Semt İşi,39,202234,True,0.824,0.498,10,-8.427,0,0.0692,0.322,0.0,0.0958,0.263,119.002,4,turkish
+3O4NV6VbiTTnmJdhXQAUlr,Allame;Necip Mahfuz,Riziko,İnsan,37,141716,False,0.836,0.638,4,-11.442,0,0.413,0.19,7.71e-05,0.0738,0.589,82.954,4,turkish
+5J9j7wfyWzL0vAiRu2j40n,Fikri Karayel,Ne Güzel Oldu,Ne Güzel Oldu,38,248361,False,0.423,0.356,4,-12.999,0,0.0374,0.822,4.99e-05,0.203,0.636,142.463,4,turkish
+2hMYAo7z6vIRiIvoalRO72,Batu Akdeniz,Bir Kalbin Çöküşü,Bir Sebebi Var,37,234077,False,0.447,0.805,10,-4.812,0,0.0553,0.459,0.0,0.188,0.522,159.747,4,turkish
+1McBwx7OlcKxrqFLVTSQ4F,Ati242,Gringo,Gringo,38,213514,True,0.719,0.634,10,-6.393,0,0.0958,0.066,2.55e-05,0.0918,0.378,149.934,4,turkish
+1XDrWUmmNH3jTrg5JRzfQr,İmpala,GEÇ GELEN BAHAR,KENDİMİ NASIL ESKİTTİM ?,38,192560,True,0.858,0.505,1,-8.286,1,0.27,0.0195,0.0,0.0836,0.379,130.915,4,turkish
+4JaJ61dreS1ueVshIkvts4,Asil Slang;Patron,Suikast (Seri Katiller Volume 2),Suikast - Seri Katiller Volume 2,38,217600,False,0.824,0.562,1,-10.53,1,0.0635,0.0394,5.02e-05,0.117,0.357,126.04,4,turkish
+1oSWrUVYSAnom3NGPvoBnt,Perdenin Ardındakiler,Yalnız Kalmışım,Yalnız Kalmışım,38,171146,False,0.793,0.293,7,-14.005,0,0.0358,0.0125,0.621,0.0934,0.176,114.97,4,turkish
+3FFzs4mXpSAaRxev80mX3d,Sokrat St;Burak Alkın;Contra,Hayal,Zor Bir Gün,38,192632,False,0.613,0.913,11,-6.303,0,0.292,0.0353,1.18e-05,0.446,0.802,91.045,4,turkish
+1VjqGprYjUsLcpKTaKSGJf,Rota,1826 GÜn,1826 GÜn,39,190268,True,0.664,0.418,7,-14.593,1,0.267,0.435,0.0292,0.144,0.302,99.968,4,turkish
+2GiUWH13wdIfvvR2vjemAH,Athena;Aylin Aslım;Bülent Ortaçgil;Feridun Düzağaç;Koray Candemir;mor ve ötesi;Nejat Yavaşoğulları;Vega,Savaşa Hiç Gerek Yok,Savaşa Hiç Gerek Yok - Version 1,37,218120,False,0.591,0.617,0,-10.068,1,0.0252,0.0225,0.0,0.101,0.36,97.963,3,turkish
+3kVFYB1LkUYH4Q8cjpIJq6,Sagopa Kajmer,Romantizma,Leyli,37,197696,False,0.856,0.596,8,-6.388,0,0.207,0.391,6.49e-06,0.104,0.578,94.973,4,turkish
+222dKmEQpyzdd3tYFrgHrC,Sansar Salvo,Sigara Yanınca,Sigara Yanınca,38,186038,False,0.653,0.713,8,-10.046,1,0.139,0.461,0.0,0.0456,0.839,173.798,4,turkish
+3DrQsIe4cyX3bNCJY6bq11,Teoman,Gecenin Sonuna Yolculuk,Viski Ve Lazanya,38,331826,False,0.662,0.527,9,-8.132,0,0.263,0.629,0.709,0.129,0.422,95.038,4,turkish
+1f8k3XUSUw6u4JqVFnClnh,Onur Akın,Memleket İsterim,Çam Kolonyası - Sevdadır,38,294933,False,0.625,0.752,9,-6.355,0,0.0443,0.701,1.09e-06,0.168,0.789,159.948,4,turkish
+72vbDhl7Bz9HMP9j9Xsutq,Kayra,Bütün Ayazların Ortasında,Olmadım Say,38,202500,False,0.674,0.897,11,-4.631,1,0.184,0.0227,0.0,0.0737,0.719,176.072,4,turkish
+4AlymlrsjwBvl3KTUHKLeu,Redd,Kirli Suyunda Parıltılar,Hala Aşk Var mı,38,259738,False,0.595,0.911,4,-4.462,0,0.0378,0.0538,2.41e-05,0.301,0.434,115.99,4,turkish
+1XaUYCC1APNDArvgE8lP0E,Defkhan,Uppercut,Tornavida,39,172283,True,0.691,0.908,7,-5.002,0,0.118,0.432,0.0,0.0926,0.762,92.008,4,turkish
+3BXKbNQdmtwx96VMvCy4xg,Sagopa Kajmer,Ahmak Islatan,Ahmak Islatan - 2017 Edit,37,226843,False,0.752,0.711,1,-5.342,1,0.0716,0.0356,0.0,0.116,0.489,89.984,4,turkish
+3tsIjGkS2B9B1XdYPenFQa,Sagopa Kajmer,Kalp Hastası,Dalgın,37,241213,False,0.628,0.685,5,-9.384,0,0.224,0.0333,6.16e-05,0.102,0.351,174.113,4,turkish
+3XHqKpo7SdMSvvExGHidRu,Soner Arıca,Yaşıyorum,Derbeder,38,268173,False,0.705,0.7,9,-15.759,0,0.0619,0.555,7.32e-05,0.279,0.34,98.567,4,turkish
+6lF3SP3iGnHVsb7TyZKPE0,Bahadır Sağlam,Çaresiz Şehir,Çaresiz Şehir,38,245910,False,0.393,0.546,9,-8.665,0,0.0352,0.316,0.0,0.0966,0.422,163.916,4,turkish
+31EjsvYbdnPtvzSKr5TXqo,Cem Karaca;Kardaslar,Anadolu Efsaneleri,Üryan Geldim,38,257666,False,0.487,0.629,4,-11.938,0,0.0624,0.0316,0.79,0.0775,0.678,93.101,4,turkish
+2tJ38ncCRX9wamWIHP5pTO,Ajda Pekkan;Ozan Çolakoğlu,Ara Sıcak,Ara Sıcak,37,227571,False,0.748,0.912,7,-3.688,0,0.19,0.0204,0.0,0.1,0.338,129.998,4,turkish
+5Ts1dR3cOr57PopiHRFUep,Zeki Müren,"Dünden Bugüne, Vol. 6",Sen Kimseyi Sevemezsin,37,225173,False,0.383,0.763,9,-5.889,0,0.0808,0.573,0.431,0.132,0.648,144.475,4,turkish
+10aQdFAd97zPjzxqaKKo8s,Volkan Konak,Klasikler 1,Feriğim,38,259091,False,0.714,0.62,7,-5.746,0,0.0437,0.549,0.0,0.652,0.667,104.005,4,turkish
+4wSehsk6FBUrrLSn6acBtA,Zeki Müren,Hayat Öpücüğü,Bir Gülü Sevdim,37,302600,False,0.323,0.41,10,-12.175,1,0.0425,0.486,3.72e-05,0.325,0.525,95.451,4,turkish
+0kkzwzoUEzMdTBThNTrhat,Metth;Khontkar;Ceg,METFLIX,Her Gece,37,264010,True,0.761,0.498,10,-9.623,1,0.292,0.0834,0.0,0.0775,0.374,78.006,4,turkish
+3voiBIQtU1V2dlHUWJ0sck,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Kusura Bakma - Live,38,261838,False,0.589,0.661,2,-7.769,0,0.034,0.637,1.47e-06,0.691,0.452,141.914,4,turkish
+1IZ1JxfRwNMqFfFQeeD2gF,Norm Ender,Enderground,Kafam 1 Milyon,38,193469,False,0.588,0.58,9,-8.039,0,0.335,0.33,0.0,0.0934,0.284,123.029,4,turkish
+0txC7x8NTrzWVXpURcEf50,Teoman,Rock and Roll,Duş,37,286440,False,0.59,0.874,4,-3.42,1,0.0908,0.00304,5.67e-06,0.102,0.717,144.106,4,turkish
+4ZOI5Ac2ufLXK1DWYi1UKz,Allame,"Organize Oluyoruz, Vol. 3",Bir Dakika,37,256708,False,0.717,0.949,2,-4.959,1,0.214,0.0216,0.000107,0.183,0.453,130.059,4,turkish
+4pFWKeA177hhSyRvmWkDNL,Ömür Göksel,Bak Bir Varmış Bir Yokmuş,Seni Tanır Gibiyim,38,165626,False,0.591,0.574,6,-6.643,1,0.0623,0.718,0.000744,0.196,0.759,123.828,4,turkish
+7GJi3O8hJFsifndyaVKHO4,Nesrin Sipahi;Süheyl Denizci Orkestrası,Arım Balım Peteğim,Arım Balım Peteğim,40,155689,False,0.363,0.412,0,-8.869,0,0.0369,0.74,4.32e-05,0.358,0.658,117.619,4,turkish
+6uldj8hFDELGGNQZzxSg8p,Emel Sayın,Türk Film Müzikleri,At Kadehi Elinden,37,203520,False,0.433,0.464,10,-5.98,1,0.0345,0.966,0.000313,0.164,0.465,131.698,4,turkish
+2cqFcmV1cnzyriLe4gbkju,Umut Kaya,Umut Kaya,Ver O Güzel Gözlerinden Birini,37,215016,False,0.36,0.744,1,-5.941,0,0.0342,0.0841,0.0,0.092,0.377,203.592,4,turkish
+19X3RToXJoJQmDz1BtyGw5,Hayko Cepkin,"Beni Büyüten Şarkılar, Vol.1",İtirazım Var,37,246325,False,0.362,0.754,9,-5.219,0,0.0452,0.0315,0.0,0.32,0.273,90.716,4,turkish
+29G1nt9VoBZNfmdReA1toz,Taladro,Beşinci Mevsim,Unutamazsın,38,238280,False,0.414,0.623,7,-7.802,0,0.0956,0.291,0.0,0.107,0.549,68.944,4,turkish
+0UY3deGYcjFNhWFfXvIaTM,Barış Manço,"Mançoloji, Vol. 1",İşte Hendek İşte Deve,37,212662,False,0.683,0.835,5,-10.584,1,0.0404,0.218,0.000584,0.254,0.784,93.012,4,turkish
+4HeXZwvwjFTnCLq6ASYngI,Cegıd,Delüzyon,Skimde Değil,38,246138,True,0.77,0.696,2,-8.259,1,0.362,0.262,0.0,0.101,0.731,90.347,4,turkish
+7zFjD0CUKNtXBWBxZfRiNI,Ajda Pekkan,Seni Seçtim,"Eline, Gözüne, Dizine Dursun",37,242266,False,0.668,0.882,8,-8.598,0,0.0447,0.351,0.00192,0.0188,0.968,92.817,4,turkish
+5ttPhgLuzPJfzFrLPlmJUv,Stabil,Stabil,Rüya & Gerçek,39,153756,False,0.701,0.537,9,-13.138,0,0.0429,0.828,0.0157,0.0965,0.307,89.997,4,turkish
+29ajTypGTz6gP9cP0FLadM,TNK;Jay Jones;Gundy;Wahu,"Drop It Low, (Extended)","Drop It Low, (Extended)",0,406308,True,0.551,0.81,11,-6.992,1,0.0335,0.0605,0.0,0.15,0.364,149.996,4,turkish
+1w1rv7yP14aUqdCYKiXGFu,Ceza,Rapstar,Anneme,39,70893,False,0.651,0.288,9,-14.318,0,0.222,0.785,0.000106,0.249,0.297,128.004,4,turkish
+5GA1ijnbqpmvPGtJANZZan,Şam,47 Mixtape,İHTİRAS,38,162432,True,0.624,0.49,8,-10.86,1,0.333,0.266,0.0,0.127,0.494,129.377,4,turkish
+30hKEQLgr25oI91btWLvCi,Cut Off,Lonely,Lonely,56,282857,False,0.785,0.565,5,-6.661,0,0.0422,0.0865,0.211,0.259,0.186,112.017,4,turkish
+3NNPdBEeaFWAsik1Hq1USP,Serhat Durmus;NOES,Arres,Lies,38,160390,False,0.498,0.426,11,-10.89,0,0.0483,0.0743,0.649,0.102,0.0903,80.018,4,turkish
+6Lk6Waiox6qhvC5dM6Sy2v,Şam,P.İ.Ç,PARASIZ İNSAN ÇÖPLÜĞÜ,38,134205,True,0.646,0.759,7,-6.265,0,0.332,0.495,0.0,0.14,0.631,88.566,4,turkish
+7L4xsGOxKnncXzZLBKdEeI,Serhat Durmus,YNX,YNX,47,179925,False,0.777,0.731,8,-6.297,1,0.311,0.0893,0.00545,0.234,0.377,165.028,4,turkish
+2a4DcdXLdFvZtvTGHkhhfw,Yasir Miy,İyiki Doğmuşsun,İyiki Doğmuşsun,38,176718,False,0.346,0.209,6,-13.973,0,0.0383,0.91,0.00112,0.129,0.212,125.249,4,turkish
+64kptUxbrFKtgvyBsf8KZ6,Son Feci Bisiklet,Kötü Şeyler,Müptezel,38,230810,False,0.559,0.64,0,-8.46,1,0.029,0.194,0.435,0.267,0.443,125.941,4,turkish
+3jxn92KU8l5RPjwLTGlMyg,Arem Ozguc;Arman Aydin;Jordan Rys,The One,The One,56,133375,False,0.863,0.624,5,-6.574,0,0.0437,0.000316,0.000131,0.0822,0.482,120.02,4,turkish
+7a6FLQOSUUJXAC7YQqtu1E,Kum,Her Şey Çok Güzel Olacak,Adam,38,156800,False,0.741,0.566,11,-8.032,1,0.115,0.296,0.0376,0.109,0.48,74.983,4,turkish
+6iYQCMnUucNMM9Frw2kreu,Tekir,o mood'um kalmadı,o mood'um kalmadı,38,227368,False,0.714,0.516,2,-10.151,0,0.076,0.539,0.00121,0.171,0.734,75.05,4,turkish
+5eU8RMwPIIZxdbjSJQMQWu,Özgün,Bu Kadar mı Zor,Bu Kadar mı Zor,37,249527,False,0.559,0.673,2,-5.951,0,0.0478,0.0268,0.0,0.147,0.254,77.982,4,turkish
+59YZrBAIg1tDH8squLd7gY,Cem Adrian,Salvatore,Salvatore,37,197513,False,0.811,0.521,10,-6.038,0,0.0374,0.246,1.04e-05,0.14,0.714,114.877,4,turkish
+3s1kmMxWYpiFyv2BeweOA7,Modd,Toxic,Frisbee,39,148298,False,0.651,0.769,8,-6.448,1,0.292,0.495,0.0,0.151,0.631,140.05,4,turkish
+19hRqM6tyuq0MLWjxMhcEi,Kamufle;Aspova,darda kal,darda kal,37,183000,True,0.764,0.531,11,-6.797,1,0.185,0.0932,0.0,0.129,0.353,80.032,4,turkish
+7mjo3sYcb5duRlllAnnvnW,Maestro;Melek Mosso,Bataklık,Duman Oldum,39,253747,True,0.495,0.85,8,-4.696,1,0.111,0.139,3.81e-06,0.438,0.0549,95.03,4,turkish
+7geyRKMrppFqTSIWbrDmYW,Göksel,Arka Bahcem,Karar Verdim,39,211720,False,0.706,0.62,6,-6.963,0,0.0512,0.42,0.0,0.0977,0.577,131.895,4,turkish
+0l3p85cVj6FVQ2Nh7l94sr,Evrencan Gündüz,Sabah Şarkıları / Orta Şeker,Benimle Evlensen,37,254293,False,0.609,0.428,4,-11.821,1,0.0509,0.754,1.04e-05,0.108,0.521,76.867,4,turkish
+5TXf2XLpamuB1Xwz4Kc7v5,Orhan Gencebay,Yarabbim,Yarabbim,37,304226,False,0.381,0.43,7,-9.565,1,0.0344,0.33,0.0,0.151,0.535,137.901,4,turkish
+7oa8CQV3oVrY8jgPGPDnyb,yunusemre;Şekersiz,istanbulla değil sorunum,istanbulla değil sorunum,38,241999,False,0.578,0.398,4,-9.277,0,0.0264,0.748,0.000139,0.073,0.169,110.015,4,turkish
+1YfTEptpSZ3lCZDZcuqjEE,Asu Maralman,Yalanmış - Yalnızlık,Yalanmış,37,181280,False,0.578,0.737,0,-4.463,0,0.0342,0.621,0.0,0.69,0.734,102.909,4,turkish
+6dnLlf9gVrE8RVYoPGDrSX,Büyük Ev Ablukada,Full Faça,Tayyar Ahmet'in Sonsuz Sayılı Günleri,37,377280,False,0.487,0.662,2,-10.057,0,0.0583,0.128,0.0,0.325,0.349,117.596,4,turkish
+76k07GNJbJn8O4MgYyyNzh,Ferdi Özbeğen,Bir Sır Gibi,Yok Yok Yalan Deme,38,253093,False,0.587,0.501,5,-8.294,0,0.0283,0.469,3.87e-06,0.627,0.584,96.602,4,turkish
+5shqzROw4w8dUVCgK1K4WV,Sagopa Kajmer,Kalp Hastası,Bulun,37,208520,False,0.642,0.559,8,-9.341,1,0.209,0.397,0.00402,0.14,0.404,89.975,4,turkish
+4Kb0JDWG5FmMSaUpujHQeQ,Çilekeş,Y.O.K.,Siyah,37,285293,False,0.59,0.778,1,-6.084,0,0.0339,0.00895,0.0,0.166,0.331,104.993,4,turkish
+1SOOrc0raVGiP5Wv2cc8uP,Şanışer;Sehabe,Otuzuncu Gün,Aşılmaz Yollar,38,256000,False,0.559,0.746,4,-3.716,0,0.0501,0.346,0.000118,0.21,0.342,119.994,4,turkish
+4E3sRBOjCjxsotCLduEJcN,Gaye Su Akyol,Develerle Yaşıyorum,Yıllar Yılan,37,255720,False,0.662,0.409,2,-10.455,0,0.0414,0.325,0.00199,0.116,0.502,119.986,5,turkish
+4SB7wPWYA0PPiq9BamZjk6,Nazan Öncel,Demir Leblebi,Bu Havada Gidilmez,37,240066,False,0.691,0.57,11,-9.898,0,0.0336,0.868,3.38e-06,0.0679,0.751,95.054,4,turkish
+6OTZmey0AydX3Yb513CmW7,Anıl Piyancı,Zaman Yok,İnan İsterdim,37,241208,False,0.467,0.914,2,-6.486,0,0.242,0.00903,0.0,0.0897,0.48,100.018,4,turkish
+6zdzp7ETXDHstw7SilkjEW,Cem Adrian;Aylin Aslım,Cem Adrian Canlı,Herkes Gider Mi (Live) (feat. Aylin Aslim),37,322525,False,0.361,0.141,2,-15.501,0,0.0394,0.911,0.0,0.486,0.0921,72.837,4,turkish
+6qVA1MqDrDKfk9144bhoKp,Acil Servis,Küçük Adam,Bebek,38,319933,False,0.486,0.485,5,-12.391,0,0.0331,0.00446,1.69e-05,0.369,0.353,120.095,4,turkish
+4TIPgvu9xxO3mW6WT1HAKz,Zeki Müren,"Saklı Kayıtlar, Vol. 2 (1960 - 1984)",Huysuz ve Tatlı Kadın,37,162146,False,0.248,0.519,0,-1.977,0,0.0331,0.768,0.0588,0.166,0.333,112.778,5,turkish
+28pafyv8VWZmfuMc5B8XsD,Kaçak,Silahlı Ve Tehlikeli,Olunurde,37,275840,False,0.45,0.733,11,-2.482,0,0.0322,0.0137,6.81e-06,0.123,0.215,160.165,4,turkish
+5HYXtTdr5aaYhM0wACx1kA,Leman Sam,Ayak Sesleri,Yol Ver,37,171400,False,0.775,0.671,2,-8.978,1,0.0333,0.141,0.0,0.415,0.905,116.938,4,turkish
+2CqqyQ1jH8TOGuYRX3XqBY,Gece,İyi Niyetli Bir Gün,İyileşmiyor,37,217840,False,0.63,0.628,1,-5.512,0,0.031,0.103,1.23e-05,0.114,0.366,126.006,4,turkish
+0U2Xl74IBIXMlBO4pW3xZU,Yaşlı Amca,Yaşlı Amca,İstasyon,37,231253,False,0.519,0.671,8,-5.191,1,0.0439,0.188,1.28e-05,0.0761,0.655,93.024,4,turkish
+2TZIlIHBbz6XlFTxJXWdiu,Taladro,Ayakta Dur,Ayakta Dur,38,181333,False,0.634,0.621,6,-9.795,0,0.288,0.411,0.0,0.0884,0.278,179.9,4,turkish
+3VAJBFYuXqfai6ssxa6Vj7,Nalan,Türk Sineması Klasikleri,Seven Ne Yapmaz,38,240133,False,0.238,0.43,2,-7.019,0,0.0392,0.704,2.2e-06,0.0766,0.287,158.798,3,turkish
+66aGyYpJQdv6cAfjIuZJfZ,Candan Erçetin,Çapkın,Hayranım Sana,38,200946,False,0.61,0.464,4,-8.535,0,0.0413,0.0843,0.0,0.175,0.116,147.932,4,turkish
+41NL5MKZ50QVDggEMW2N6a,Sagopa Kajmer,Tek,Kendim İçin (2021 Tek Edit),37,237500,False,0.65,0.49,9,-13.757,0,0.203,0.477,0.00302,0.111,0.643,173.955,4,turkish
+3vKjGeZez4Ge6VPyHc3bSK,Ajda Pekkan,Farkın Bu Remixes,Resim - İlker Tandoğan Remix,37,248732,False,0.706,0.765,8,-7.184,0,0.0333,0.209,0.0,0.097,0.81,130.014,4,turkish
+6RdR1EeVBOr6YQBgIX6EXr,Serap Mutlu Akbulut,Odeon Yılları (Türk Sanat Müziği Serisi),Ben Seni Unutmak İçin Sevmedim,39,213760,False,0.333,0.368,7,-8.104,1,0.0353,0.843,3.25e-06,0.117,0.464,112.654,4,turkish
+1dVuRDQTEskwGzyhpDzzNk,Pickpocket,Hayalle Geçek Arasında,Ne Farkeder?,37,305830,False,0.505,0.857,2,-5.329,0,0.0382,0.00115,2.05e-06,0.0816,0.437,150.082,4,turkish
+7nHOsei8ZAuZCuMjO0OzCw,Melihat Gülses,Musikişinas Tüccarlarımız,Şarkılar Seni Söyler Dillerde Nağme Adın,37,276085,False,0.329,0.458,0,-7.671,0,0.0369,0.728,0.00533,0.115,0.299,120.232,4,turkish
+7rLMiboVmBwaWIP9UI4Ph2,Nesrin Sipahi,"Nesrin Sipahi, Vol. 2",Hani O Bırakıp Giderken Seni,40,196284,False,0.291,0.292,5,-6.799,1,0.0357,0.871,0.0,0.353,0.0792,140.492,3,turkish
+0UpgAtOy9yVQfMLQja7u87,Malt,Kendi Adını Taşıyan İlk Albüm,Motor,37,195372,False,0.482,0.954,4,-3.673,0,0.0431,0.000136,5.28e-06,0.0624,0.626,186.107,4,turkish
+5ZmmCJeG3ob3p3IauV1PTn,Candan Erçetin,Ah Bu Şarkıların Gözü Kör Olsun,Ah Bu Şarkıların Gözü Kör Olsun,38,278386,False,0.435,0.564,9,-6.291,0,0.0371,0.644,0.0,0.207,0.476,83.34,3,turkish
+0MAVs0XWmcO0RIqjtaMyAq,Zeki Müren,Pırlanta Şarkılar,Gözlerin Doğuyor Gecelerime,37,319066,False,0.423,0.501,0,-13.298,0,0.0586,0.606,3.23e-05,0.14,0.543,88.253,4,turkish
+6msJFkNfTMHunvKi4PZWlY,Kenan Doğulu,Vay Be,Boğazımdan Geçmiyor,38,220537,False,0.731,0.591,10,-6.478,0,0.14,0.434,1.37e-06,0.113,0.199,99.98,4,turkish
+4DsjiElZzrVRJZv1nFoqV8,Barış Manço,Hal Hal,Kol Düğmeleri,37,258133,False,0.257,0.193,0,-18.953,0,0.032,0.761,0.000304,0.0621,0.171,78.461,3,turkish
+0SawScuD13ugQMZwI2IKcR,Serhat Durmus,Hola - EP,Hola,39,191058,False,0.572,0.617,2,-6.15,1,0.0364,0.0723,0.589,0.101,0.0394,147.259,4,turkish
+6zPM5oAVtNdriFhm7ZS1N4,Barlas & Mert;Emrah Turken,Whiskey & Vodka,Whiskey & Vodka,50,139124,False,0.771,0.714,2,-5.396,1,0.113,0.0254,0.0248,0.165,0.34,114.025,4,turkish
+0YC0W6d5o4xPkjAqJTAIgJ,Fredd,999,Beni Son Kez Gör,38,206590,False,0.349,0.481,7,-8.508,0,0.0374,0.559,1.87e-06,0.185,0.269,87.043,4,turkish
+4YdiTSLtUj45GZpHNuXWFY,Çağrı Sertel,Kuytu,İlkyaz,37,96277,False,0.551,0.188,4,-20.493,0,0.0349,0.993,0.901,0.131,0.32,118.811,4,turkish
+04Vtwjvv0xozQ9YsEXsvOZ,Fettah Can,Aklımda Kalanlar,Duvar,37,252725,False,0.464,0.793,0,-4.261,0,0.0435,0.163,0.0,0.481,0.468,144.082,3,turkish
+1f9qJwOb7CXpqnMYBI3lAs,Ati242,GHETTO STAR,Şöhret,38,186967,True,0.721,0.611,2,-9.958,1,0.153,0.138,0.0,0.0937,0.413,139.011,3,turkish
+4lSBfTETDE7vSAzVcMpSLz,5 Adım,Sevgiye Hasret,Gözleri Kara Dilber,37,212750,False,0.476,0.469,11,-11.371,0,0.0504,0.887,2.6e-06,0.242,0.525,110.884,4,turkish
+7pi6pyhxnNjch3BsefiPMU,Tan Taşçı,Sözümü Tutamadım,Ziyan,38,294960,False,0.622,0.789,7,-4.203,1,0.0401,0.238,0.000227,0.144,0.601,134.024,4,turkish
+4knb2WnF04NkKTiOGl15hz,Yaşlı Amca,Evleniyor,Evleniyor,37,281209,False,0.324,0.414,8,-8.541,0,0.0309,0.655,0.0275,0.0932,0.201,128.78,4,turkish
+07H8jfMcf7fUfiPlWztZYI,Khontkar,100,Asla,37,202269,True,0.632,0.708,7,-5.709,1,0.179,0.136,0.0,0.0924,0.0512,164.925,4,turkish
+0d9N1NmMN4RnWqsF1gyBfk,Duman,Canlı,Bu Aşk Beni Yorar,37,236286,False,0.316,0.38,9,-9.084,0,0.0334,0.0564,0.000707,0.69,0.0633,122.424,3,turkish
+16jCKRNfPtviqAaPn6SffK,Badem,Badem ve Konukları,Bir Ben Gibi Sev,37,231000,False,0.381,0.85,0,-6.579,0,0.0533,0.406,0.0,0.291,0.53,171.898,4,turkish
+1lBqaMn59aIxdg3h0fXtm1,Ati242,GHETTO STAR,Düşledim,38,194838,True,0.705,0.412,0,-12.453,0,0.0794,0.536,0.0,0.205,0.345,90.001,4,turkish
+01N4rGD2WJZewp4RAu8034,Kızılırmak,Figan,Kime Kin Ettin,37,257600,False,0.619,0.318,3,-11.953,1,0.0384,0.839,8.75e-06,0.2,0.627,140.725,1,turkish
+27ySu5G3hIHmxMp30Gzoo7,Rota,MetaVerse,Zınk,38,90800,True,0.68,0.806,7,-7.022,1,0.309,0.063,3.95e-05,0.187,0.528,150.132,4,turkish
+599jSLh0LL1gM465pOHDS4,Kutay Uçar,Gülümsemen Değişmiş,Özlemiş Gibisin Sen De,38,133746,False,0.499,0.142,5,-16.573,1,0.0446,0.914,0.000852,0.112,0.154,142.517,4,turkish
+5zlaSGtG7e8tVEMsXGy3Ae,Ahiyan,Deli Diyorlar,Deli Diyorlar,37,243271,False,0.659,0.448,0,-9.961,0,0.117,0.268,0.0,0.239,0.525,70.046,4,turkish
+6qVA1MqDrDKfk9144bhoKp,Acil Servis,Küçük Adam,Bebek,38,319933,False,0.486,0.485,5,-12.391,0,0.0331,0.00446,1.69e-05,0.369,0.353,120.095,4,turkish
+7EOfxZ0aPpKpoEjM7giX4d,Saian,Kirmizi Ciceklinin Oykusu,Kirmizi Ciceklinin Oykusu,37,275304,False,0.609,0.632,7,-9.108,0,0.314,0.105,0.0,0.0719,0.56,87.882,4,turkish
+0JlmgfqhxzdRDsqnc6CUBK,Şebnem Ferah,Kelimeler Yetse,İyi Kötü,37,354057,False,0.484,0.622,2,-7.438,0,0.0411,0.46,0.0,0.242,0.244,149.87,4,turkish
+5ukniNohEgaerrbHbVlBLf,Vera,Bir Yangın Var,Güzel Bir Kadın,38,229271,False,0.561,0.847,4,-3.895,1,0.0429,0.00785,1.69e-06,0.375,0.726,159.955,3,turkish
+4iehSC3GZEt4FUUUbqN4us,Rota,MetaVerse,Trajik,38,101968,True,0.682,0.686,2,-7.249,1,0.122,0.45,0.00127,0.149,0.552,96.628,4,turkish
+2QvdkrSzGIK97FrDjGB1oO,Candan Erçetin,Melek,Yaşıyorum,38,252400,False,0.442,0.693,7,-5.126,0,0.0908,0.33,0.0,0.174,0.699,96.397,4,turkish
+3r9hUxZWewrsJuIgoNkw44,Bağzıları,Gece Lambası,Leyla,37,238411,False,0.578,0.492,1,-8.247,0,0.0267,0.262,3.74e-06,0.545,0.45,169.969,4,turkish
+2LbWFZ11LU71fTOXnaYohJ,Sagopa Kajmer,Kalp Hastası,Durdur Beni,37,309373,False,0.742,0.914,4,-6.893,0,0.113,0.321,0.00409,0.0605,0.35,81.009,4,turkish
+2GEbjuHvth4NpnWKzYWCJX,Hidra,Yolculuk,Yarılamışım,37,185365,True,0.789,0.885,6,-4.309,0,0.245,0.472,0.0,0.109,0.289,137.958,4,turkish
+4DfRseYfBS7cjHKidKxmS7,Sinan Akçıl;İrem Derici,Piyanist 2,İyi Değilim,37,183306,False,0.636,0.603,2,-6.978,1,0.0388,0.0983,1.39e-06,0.39,0.287,127.95,4,turkish
+2ndqlAxw7FLcddyYuQFbxC,Cem Adrian,Aşk Bu Gece Şehri Terk Etti,Yağmur (Denizhan'la Düet),37,320445,False,0.224,0.313,4,-7.541,0,0.0412,0.93,1.77e-05,0.14,0.259,172.942,4,turkish
+2pVDYk6eG9iqB88BvkBFGz,Yeni Türkü,Yeni,Nerelere Gideyim?,36,277053,False,0.456,0.519,7,-8.166,0,0.0389,0.773,9.99e-05,0.336,0.504,159.851,3,turkish
+0UB9JiWD415ZYGbwpOXDTH,Yaşar Güvenir,Gel Desen Gelemem Ki,Gel Desen Gelemem Ki,38,245016,False,0.3,0.221,6,-14.684,0,0.036,0.749,4.95e-05,0.155,0.417,82.153,3,turkish
+53e3xJBg7Y74aYqWsJGEC2,Hayko Cepkin,Aşkın Izdırabını,İçgüdü,37,216800,False,0.405,0.668,4,-7.211,0,0.0539,0.057,0.00853,0.0526,0.335,145.423,4,turkish
+4iHLavxFdS4ctN2Fd8LCmW,Sezen Aksu,"Orhan Gencebay ile Bir Ömür, Vol.2",Akşam Güneşi,38,244863,False,0.539,0.685,1,-7.715,0,0.0344,0.641,0.000147,0.327,0.507,78.989,4,turkish
+1E6l6wLjVXURKH2If5BG2M,Contra;İtaat,Hitz En Şitz,Flowlarım Çok Zengin,37,182761,True,0.758,0.658,11,-5.608,0,0.279,0.106,0.0,0.104,0.371,84.974,4,turkish
+1NyBy7w03Bpum3LfvQBT9Q,Levent Yüksel,Uslanmadım,Bu Aşkın Katili Sensin,37,245585,False,0.656,0.797,5,-5.863,1,0.0373,0.0207,2.79e-06,0.0605,0.397,96.041,4,turkish
+3G8gAZWEo5py4XsVOA2xr2,Havva Öğüt,Duvarlara Yazıyorum İsmini,Duvarlara Yazıyorum İsmini,38,213900,False,0.497,0.578,9,-7.597,1,0.0389,0.835,0.0,0.236,0.676,157.918,4,turkish
+516hqXkL3eYY1c63sDo59g,Dolu Kadehi Ters Tut,Akustikhane Sessions,Aldattın Mı,38,206000,False,0.69,0.571,4,-15.092,0,0.0498,0.233,0.000145,0.212,0.704,94.928,4,turkish
+5v0kY5pPWOL5mUCmq4jHUB,Cem Karaca,Merhaba Gençler,Hep Kahır,37,321146,False,0.297,0.626,4,-6.432,0,0.0629,0.728,3.54e-05,0.0864,0.496,67.926,4,turkish
+6kQWmc8pD47x343LScCHCc,Cemiyette Pişiyorum,Et Rengi Tuzak,Supradin,37,141394,False,0.6,0.876,2,-6.934,0,0.0386,0.0143,0.000155,0.119,0.662,149.265,4,turkish
+5jjPESQ43CVEXqXIMDCW23,Adamlar,Eski Dostum Tankla Gelmiş,Bizim Zamanımız,38,198219,False,0.689,0.67,11,-5.36,0,0.0367,0.237,1.05e-06,0.399,0.399,116.145,4,turkish
+6H8bJPcwgyTSkaTCzB0NC7,Stabil,OKSMRN2,Bana Söyle,39,75186,False,0.703,0.643,6,-9.242,0,0.112,0.495,0.0,0.267,0.106,109.881,4,turkish
+1EPDUNgrJvM9i35hQIrxOH,Batuhan Kordel,Yolculuk,İtiraf,38,188062,False,0.561,0.217,5,-12.469,1,0.0313,0.862,1.64e-06,0.11,0.17,127.966,4,turkish
+4CwabJInluLMkFwlQhYJjs,Adamlar,Eski Dostum Tankla Gelmiş,Kendime Çaylar,38,252853,False,0.419,0.531,4,-8.276,1,0.0375,0.0945,0.000659,0.0899,0.275,154.714,3,turkish
+31PJ1LZjJKfphESzV7xdvg,Tan Taşçı,Söz & Müzik: Tan Taşçı (Live),Hafız - Live,38,303636,False,0.465,0.57,2,-9.377,0,0.121,0.687,0.0,0.961,0.449,101.028,4,turkish
+57WkOzvuw0v4XadnZ6VvvA,Ayla Dikmen,Klasikler (Orijinal Kayıtlar),Alyanaklım,37,153813,False,0.55,0.468,6,-8.198,0,0.0518,0.925,0.00142,0.163,0.738,114.311,3,turkish
+7fo4ScxpiBnESWu8NRMyzx,Ebru Yaşar,Haddinden Fazla,Öldüm Sahiden,37,249996,False,0.277,0.674,7,-5.128,0,0.0458,0.224,0.0,0.0943,0.356,85.839,4,turkish
+2iSS96WasflS5EbkXytwDM,Can Bonomo;Ceza,Kâinat Sustu,Terslik Var,37,200776,False,0.676,0.799,7,-6.933,0,0.0412,0.0897,0.0,0.133,0.568,98.018,4,turkish
+5MaKcM9OtEnbu8YAZbPtfS,Melike Şahin,Merhem: İlk Konserler (Live),Uykumun Boynunu Bükme (Live @ Bostancı Gösteri Merkezi),37,280469,False,0.488,0.672,9,-11.69,0,0.0365,0.0219,3.46e-05,0.712,0.463,105.943,3,turkish
+4yiW7dLPFKyMlalsB8UMSc,Hayko Cepkin,Aşkın Izdırabını,Geç Kaldım - Akustik,37,206680,False,0.425,0.405,7,-12.428,0,0.0299,0.333,2.52e-05,0.136,0.382,160.058,3,turkish
+3wfEDxGgqZnuOUerhVAQ8S,Grup Gündoğarken,Ankara'dan Abim Geldi,Gibi Gibiyim,37,303670,False,0.691,0.406,2,-18.681,1,0.0394,0.00747,0.0,0.358,0.431,108.407,4,turkish

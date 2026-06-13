@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+5XCtjnFMKtCT7ycDwV3Kdh,Hillsong Worship;Brooke Ligertwood,What A Beautiful Name,What A Beautiful Name,66,240200,False,0.417,0.499,2,-6.364,1,0.0296,0.212,0.0,0.112,0.144,135.923,4,world-music
+0fxpHpK3aw2nFWII6yveDD,Matt Redman,"10,000 Reasons (Live)","10,000 Reasons (Bless The Lord) - Live",66,342493,False,0.431,0.485,7,-8.085,1,0.0274,0.452,0.0,0.544,0.367,145.22,4,world-music
+0rH0mprtecH3grD9HFM5AD,Cory Asbury,Reckless Love,Reckless Love,70,333386,False,0.572,0.685,6,-7.29,1,0.0356,0.0291,0.0,0.0963,0.232,110.698,4,world-music
+1O6OPFAXdTdjHtT7Z2Hlt8,Bethel Music;Jenn Johnson,Peace,Goodness of God,61,456480,False,0.37,0.119,6,-11.513,1,0.0392,0.953,1.97e-06,0.099,0.183,110.424,4,world-music
+0H4BGX7L8UfoD0g4wgXd0D,Leeland,Way Maker,Way Maker - Single Version,64,206440,False,0.468,0.655,4,-6.384,1,0.0296,0.0149,0.0,0.104,0.222,144.045,4,world-music
+40lKptao1hxVqA7fd1OOGp,Chris Tomlin,And If Our God Is For Us...,Our God,63,285160,False,0.509,0.778,11,-3.608,1,0.0295,0.00998,0.0,0.19,0.216,105.066,4,world-music
+6aRwLqDf1bN3lI2gMd6wXp,Passion;Kristian Stanfill,Passion: Let The Future Begin,In Christ Alone - Live,57,339493,False,0.378,0.596,5,-5.406,1,0.0323,0.0182,1.14e-05,0.144,0.172,135.968,3,world-music
+1QoQC9g6R0K1SrPQifxaWB,Hillsong Worship;Brooke Ligertwood,Who You Say I Am,Who You Say I Am,56,198704,False,0.377,0.644,6,-8.139,1,0.0404,0.0041,0.0,0.089,0.299,171.908,3,world-music
+4ElNxglBjcrASiGn58t9Jm,for KING & COUNTRY,Burn The Ships,God Only Knows,64,229760,False,0.597,0.417,2,-7.952,1,0.0502,0.395,8.35e-06,0.128,0.263,143.839,4,world-music
+35WtFQK3iG2WPjstuuKaVc,Hillsong Worship;TAYA,No Other Name,Broken Vessels (Amazing Grace),63,568791,False,0.379,0.489,7,-7.051,1,0.0281,0.293,8.83e-06,0.721,0.0871,140.937,4,world-music
+5pF1L2TboIEiZQwHekySET,Phil Wickham,Hymn of Heaven,Battle Belongs,52,287532,False,0.375,0.798,1,-5.495,1,0.0497,0.00125,0.0,0.117,0.316,161.794,4,world-music
+4irEfIEfEXuaPVOYDCw5Rm,Hillsong Worship,Cornerstone (Live),I Surrender - Live,56,346346,False,0.269,0.521,5,-7.402,1,0.0338,0.023,0.00228,0.205,0.12,154.087,3,world-music
+5d9RSSwDvlTyuwfmeafUah,Phil Wickham,Living Hope,Living Hope,54,327000,False,0.292,0.535,3,-6.892,1,0.0393,0.0355,0.0,0.0977,0.316,143.949,4,world-music
+1gj9poFl2mLKkguqWo5Y1i,Bethel Music;Jenn Johnson,Victory (Live),Goodness of God - Live,66,296400,False,0.466,0.67,8,-4.701,1,0.0297,0.155,0.0,0.145,0.395,126.142,4,world-music
+27uBwOJbW6kHsCbKGukxMK,Chris Tomlin,Love Ran Red,At The Cross (Love Ran Red),58,250626,False,0.391,0.535,8,-4.516,1,0.0291,0.00324,0.0,0.205,0.127,145.937,4,world-music
+0YxrPdW9NpNFtqh7Fw0rva,Bethel Music;Jonathan David Helser;Melissa Helser,Victory (Live),Raise a Hallelujah - Live,63,470880,False,0.452,0.866,1,-4.431,1,0.04,0.0041,0.0,0.134,0.291,81.972,4,world-music
+0RW1xWSPxmbXf012RN3yWl,Phil Wickham,The Ascension,This Is Amazing Grace,65,279786,False,0.512,0.814,10,-5.467,1,0.0327,0.00419,0.0,0.0991,0.277,97.996,4,world-music
+0qf2iUDfPDtrLeJFmOvVn6,Bethel Music;Steffany Gretzinger,Starlight (Live),King of My Heart - Live,63,299365,False,0.438,0.529,9,-9.224,1,0.0324,0.0113,0.0,0.109,0.395,136.147,4,world-music
+584GnCDcDhRV6R8iZ7gzxC,Bethel Music;Jonathan David Helser;Melissa Helser,We Will Not Be Shaken (Live),No Longer Slaves (Spontaneous) - Live,62,373691,False,0.412,0.61,10,-7.988,1,0.0379,0.177,0.000102,0.0851,0.242,148.005,4,world-music
+40ozK0lCJ0EQzVGWsCNUhk,Leeland,Better Word (Live),Way Maker - Live,67,503240,False,0.432,0.524,4,-8.721,1,0.0321,0.0289,0.0,0.682,0.183,135.956,4,world-music
+2UNSjAMTbEYRVgj0VscPEA,Chris Tomlin,Holy Roar,Nobody Loves Me Like You,49,266000,False,0.493,0.692,11,-5.428,1,0.0265,0.05,0.0,0.113,0.411,83.501,4,world-music
+6BxW8Umq3QIbipmo2c7WYz,Hillsong Worship,No Other Name,This I Believe (The Creed),63,401759,False,0.427,0.612,0,-6.812,1,0.0309,0.0105,0.0,0.574,0.154,142.053,4,world-music
+14lvgljH9T2JOhBSLBty0j,Hillsong Worship,Ultimate Worship Vol 1,Here I Am To Worship,61,220826,False,0.373,0.435,4,-6.685,1,0.029,0.352,0.0,0.128,0.176,143.868,4,world-music
+0jOSpB2zK2O0SNxj8ZT5lp,Chris Tomlin,How Great Is Our God: The Essential Collection,How Great Is Our God,64,305426,False,0.318,0.573,1,-5.653,1,0.0324,0.107,0.0,0.0854,0.0765,156.054,4,world-music
+1mWdyqs6Zvg8b1lKjDc8yB,Chris Tomlin,The Ultimate Playlist,Good Good Father,66,293398,False,0.429,0.587,9,-4.588,1,0.0275,0.315,0.0,0.108,0.164,145.003,3,world-music
+4vQW0xTLnsTYT1jLT2cH5P,Hillsong Worship,Ultimate Worship Vol 1,Worthy is the Lamb,50,362706,False,0.433,0.6,9,-6.339,1,0.0293,0.242,8.71e-05,0.103,0.17,143.818,4,world-music
+5W9Al2ewPfzbWHOV2BAtBR,Chris Tomlin,Double Take - Chris Tomlin,Amazing Grace (My Chains Are Gone),60,267066,False,0.471,0.164,7,-10.879,1,0.0324,0.833,0.0,0.101,0.17,125.242,4,world-music
+2MobJagQB0dGJoRqI8OT0m,Matt Redman,Sing Like Never Before: The Essential Collection,"10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",65,256933,False,0.459,0.561,7,-7.091,1,0.0271,0.0839,0.0,0.0998,0.306,144.783,4,world-music
+524KQvc46Y1X6HRomMKoBJ,Hillsong Worship,Ultimate Worship Vol 1,Still,61,320506,False,0.419,0.473,0,-6.804,1,0.0282,0.34,0.0,0.111,0.184,70.022,4,world-music
+50lW1fKoDtyKaiR2bR7ksl,Hillsong Worship;Brooke Ligertwood;Reuben Morgan,There Is More,Who You Say I Am - Live,62,329080,False,0.271,0.669,6,-6.046,1,0.0362,0.000292,0.0,0.61,0.21,171.911,3,world-music
+5N23UhzMfAuCYjwhSbTQwH,Matt Redman,Sing Like Never Before: The Essential Collection,The Heart Of Worship,58,318120,False,0.507,0.28,3,-10.284,1,0.0282,0.775,0.000264,0.122,0.233,139.791,4,world-music
+6ylhMPeBV9kF5dYvBAO2tQ,Hillsong Worship;Reuben Morgan,Glorious Ruins,Christ Is Enough,59,320986,False,0.366,0.812,11,-4.609,1,0.034,0.00946,0.0,0.292,0.241,79.962,4,world-music
+15RiCX4GasV0oulOzdzGaN,Hillsong Worship;Brooke Ligertwood,Awake,King Of Kings - Studio,60,265133,False,0.489,0.477,2,-7.343,1,0.0299,0.122,0.0,0.1,0.177,136.045,4,world-music
+0zpNYm246lwLt7HO6Lwcb1,Michael W. Smith;Carrie Underwood,Santa's Christmas List,All Is Well,0,235493,False,0.238,0.329,5,-7.081,1,0.0354,0.935,0.0,0.118,0.193,136.47,3,world-music
+14HrSWGYPCDwqAcVFUYKsq,Matt Redman,Sing Like Never Before: The Essential Collection,Blessed Be Your Name,55,348893,False,0.443,0.819,11,-6.61,1,0.0615,0.00338,0.016,0.696,0.0983,116.033,4,world-music
+6nvbYcbL79UQ5VFKE0aeeq,Kari Jobe,Sad Love Songs 2022,In The Name Of Love - Recorded At Spotify Studios NYC,2,205738,False,0.675,0.375,6,-8.985,1,0.0452,0.542,2.5e-06,0.0951,0.187,134.023,4,world-music
+1GN7Kn9Hr4pOpVVxBL1ZUD,Chris Tomlin;Lauren Daigle,Christmas Dinner,Noel - Live,1,257720,False,0.349,0.261,10,-9.478,0,0.0306,0.748,0.0,0.104,0.103,137.954,4,world-music
+1EWRXz6c0WPKae8vziEnZi,Chris Tomlin,Santa's Christmas List,Joy To The World (Unspeakable Joy),3,230720,False,0.418,0.876,2,-5.157,1,0.0529,0.00187,0.0,0.829,0.341,128.033,4,world-music
+0WJa7QAYzg34rQ7iPXVTTS,Michael W. Smith,Santa's Christmas List,The Spirit Of Christmas - Medley,0,321773,False,0.282,0.478,9,-6.411,1,0.0322,0.835,0.186,0.166,0.127,122.705,4,world-music
+5Z5nDrUm4et2SBtLDKnF38,Michael W. Smith;Lady Antebellum,Santa's Christmas List,White Christmas,0,229106,False,0.335,0.552,8,-6.654,1,0.0357,0.465,1.18e-06,0.102,0.35,126.622,4,world-music
+7IWbx6SKa1HzTdw9wuxUfc,Michael W. Smith,Santa's Christmas List,Happy Holiday / Holiday Season - Medley,0,186760,False,0.339,0.67,5,-4.587,1,0.0405,0.511,0.0,0.208,0.494,147.844,4,world-music
+5izpR8PlJCjgJexf7JkMa9,Kari Jobe,Sad Covers 2022,In The Name Of Love - Recorded At Spotify Studios NYC,2,205738,False,0.675,0.375,6,-8.985,1,0.0452,0.542,2.5e-06,0.0951,0.187,134.023,4,world-music
+2eXCP4kLEm5b11TH2MVas6,Chris Tomlin;Audrey Assad,Santa's Christmas List,Winter Snow,0,212773,False,0.444,0.33,2,-15.594,1,0.262,0.954,1.49e-06,0.676,0.308,95.47,4,world-music
+2XdGsYBDQYXjgdixMdn7w2,Matt Redman;Chris Tomlin,Slow Christmas Songs 2022,Angels (Singing Gloria),0,316920,False,0.424,0.239,3,-10.601,1,0.0309,0.658,1.73e-05,0.0951,0.0697,141.88,4,world-music
+5AOrknyCsTI1KUBr92efWi,Chris Tomlin,Alternative Christmas 2022,Little Drummer Boy,0,215373,False,0.699,0.585,7,-5.755,1,0.0297,0.246,0.000329,0.0975,0.757,124.054,4,world-music
+4EiKZxDgW0sbT8BZ9Gl6dC,Hillsong Worship;Brooke Ligertwood,let there be light.,What A Beautiful Name,57,343080,False,0.396,0.5,2,-7.746,1,0.032,0.0128,0.0,0.535,0.099,135.857,4,world-music
+3W73vndiqDkaYwYjSMaSWu,Rend Collective,Santa's Christmas List,Ding Dong Merrily On High (The Celebration's Starting),0,117226,False,0.696,0.715,7,-7.741,1,0.0314,0.34,0.0,0.18,0.959,130.021,4,world-music
+18FIFh4AGPC2zDLLFkJp4j,Kim Walker-Smith,Santa's Christmas List,Rudolph The Red-Nosed Reindeer,0,175426,False,0.581,0.436,8,-7.936,1,0.0443,0.232,0.0,0.0547,0.412,120.138,4,world-music
+6xw4sP2mGqAtVYZkBojxcI,Kim Walker-Smith,Santa's Christmas List,I'll Be Home For Christmas,0,193653,False,0.413,0.437,1,-7.983,0,0.0327,0.042,3.59e-05,0.146,0.102,120.259,4,world-music
+6E7Ix5jkd6uzfoxuvcI8Ww,Rend Collective;We The Kingdom,Santa's Christmas List,God Rest Ye Merry Gentlemen (Hallelujah),0,217120,False,0.607,0.884,2,-4.059,1,0.0489,0.023,0.0,0.226,0.555,139.988,4,world-music
+73u7dTjaBTMyvs3KWOThGR,Michael W. Smith,Surrounded,Surrounded (Fight My Battles),55,300026,False,0.483,0.556,10,-8.296,1,0.0323,0.0514,0.163,0.0981,0.231,140.001,4,world-music
+7vJhZnFfHRgHArNOb2Y6pW,Hillsong Young & Free,III,Highs & Lows,52,354786,False,0.522,0.309,10,-12.762,1,0.031,0.541,0.000778,0.0953,0.0432,119.879,3,world-music
+366BwPapHtQuX7vS2DoZ3o,Hillsong Young & Free,This Is Living,Sinking Deep,54,248360,False,0.538,0.25,10,-11.732,1,0.0277,0.572,0.0,0.109,0.1,140.051,4,world-music
+3cuGik6VFOpDNWW4yFqnl9,Hillsong Young & Free;TAYA,We Are Young & Free,Wake (Live),53,275573,False,0.508,0.981,4,-3.882,0,0.0629,0.000154,6.16e-05,0.833,0.381,131.026,4,world-music
+2NsJh6vFQlruTkdm7LdUCB,Phil Wickham,Living Hope,Till I Found You,47,240266,False,0.368,0.681,4,-6.451,1,0.0689,0.0645,0.0,0.0666,0.185,125.071,4,world-music
+0ChDt0BqsA8O5FIxum6WpT,Phil Wickham,Hymn of Heaven,It's Always Been You,50,241946,False,0.318,0.483,6,-5.944,1,0.0304,0.496,0.0,0.115,0.0686,145.491,4,world-music
+2elEVvWjPZltkotzcCwKvM,Kari Jobe;Cody Carnes;Elevation Worship,The Blessing (Live),The Blessing - Live,61,514665,False,0.411,0.562,11,-8.152,1,0.0362,0.0407,0.0,0.222,0.197,140.015,4,world-music
+5slbo6eYwUmnrOdP7JBjTF,Hillsong Worship;Reuben Morgan,Hillsong Chapel: Yahweh,Yahweh,41,289466,False,0.449,0.673,6,-9.785,0,0.0405,0.127,0.0162,0.108,0.107,125.959,4,world-music
+2lIB1TU0Cqnc6RuYDjc92z,Kari Jobe;Cody Carnes,The Blessing,The Blessing,60,423193,False,0.367,0.463,11,-7.638,1,0.0335,0.121,1.04e-05,0.0983,0.187,139.996,4,world-music
+0xGXCPSjxkHxElgi7kC5SZ,Passion;Chris Tomlin,Passion: Here For You (Live),"Lord, I Need You - Live",54,274814,False,0.181,0.432,11,-8.922,1,0.0387,0.545,0.0,0.965,0.159,68.326,4,world-music
+0Yb8wF1HLvel0RYqHHeAUi,Passion;Melodie Malone,Whole Heart (Live),Reckless Love - Live,45,343320,False,0.522,0.689,0,-4.575,1,0.0286,0.129,2.41e-06,0.16,0.0763,111.606,4,world-music
+0X7KcOQdOeAuHQjURq0PVL,Hillsong Worship,There Is More,Touch Of Heaven - Live,53,427546,False,0.399,0.438,9,-7.947,1,0.0297,0.131,0.0,0.105,0.211,134.863,4,world-music
+3ebqpN2hFJNeTuTTI5G0nd,Hillsong Worship;TAYA,There Is More,So Will I (100 Billion X) - Live,56,424386,False,0.307,0.587,2,-8.503,1,0.0343,0.00594,0.0,0.698,0.0981,127.551,4,world-music
+3vk0GnIa9jp1B00felbJQE,Jesus Culture;Kristene DiMarco,Awakening - Live From Chicago,Break Every Chain - Live,54,487506,False,0.317,0.666,9,-5.809,1,0.0365,0.343,0.0,0.314,0.179,135.784,4,world-music
+4nK7i4idbh4N3Nf6p9PSPa,Phil Wickham,Hymn of Heaven,Hymn of Heaven,52,267773,False,0.423,0.46,4,-6.662,1,0.0313,0.32,0.0,0.0993,0.205,142.108,4,world-music
+5iLcslKagPwxnypFvGRgoY,Phil Wickham,Hymn of Heaven,House of The Lord,52,256133,False,0.495,0.789,10,-4.139,1,0.0348,0.0199,0.0,0.126,0.286,86.019,4,world-music
+2o2o8Te356JJtPjeEojLhZ,Hillsong Worship,OPEN HEAVEN / River Wild,Jesus I Need You,52,299685,False,0.397,0.467,9,-7.897,1,0.0286,0.00954,0.0,0.698,0.142,154.953,4,world-music
+4tkmm0pdXEZvHscuHWnkqy,Michael W. Smith;Vanessa Campagna,Waymaker (Radio Version),Waymaker - Radio Version,60,242107,False,0.499,0.73,11,-6.374,1,0.0355,0.058,0.0,0.146,0.449,142.016,4,world-music
+5KiTsR2h8jnzkvTeucxoAn,Michael W. Smith,Worship,Above All - Live,48,263840,False,0.405,0.329,10,-10.064,1,0.0309,0.682,2.14e-06,0.541,0.168,66.601,4,world-music
+3cGyrppZWoGKI5IA8amT5e,Planetshakers,Endless Praise (Live),Turn It Up - Live,54,224653,False,0.551,0.984,4,-2.997,1,0.0921,0.000841,0.0,0.55,0.299,123.991,4,world-music
+0T8ImseEmDPO88UTfiIdVr,I AM THEY,No Longer Slaves,No Longer Slaves,58,230088,False,0.525,0.581,11,-6.222,1,0.028,0.00749,5.46e-05,0.11,0.326,147.708,4,world-music
+4LjGJzjSR48S5zsYGnYZ8q,Urban Rescue,Wild Heart,Song Of My Father,58,247386,False,0.532,0.447,1,-10.588,1,0.0265,0.137,0.0,0.0782,0.236,92.001,4,world-music
+3MRqm3VNWLIjRiLRQezul7,Bethel Music;Kristene DiMarco,You Make Me Brave (Live),It Is Well - Live,62,385053,False,0.35,0.25,4,-10.648,0,0.0314,0.698,1.46e-05,0.11,0.11,129.82,4,world-music
+72B1Omo2kmEst4YKO8vOB6,I AM THEY,Trial & Triumph,Scars,62,238306,False,0.417,0.524,10,-6.6,1,0.0326,0.048,0.0,0.103,0.152,75.266,4,world-music
+0KzY8h4ReWfvp6QruM4hof,Hillsong Worship;Brooke Ligertwood,King Of Kings,King Of Kings - Studio,52,265133,False,0.49,0.478,2,-7.329,1,0.0299,0.119,0.0,0.0959,0.188,136.058,4,world-music
+784qUrovUUH4jYQ811D6hF,Chris Tomlin;Matt Redman,How Great Is Our God: The Essential Collection,The Wonderful Cross,40,427706,False,0.339,0.618,2,-6.663,1,0.0361,0.251,0.0,0.0669,0.244,173.953,4,world-music
+7kuQv8ZvNutcbqznIbjkGL,Hillsong Worship;Reuben Morgan,Mighty To Save (Live),Mighty To Save,50,409066,False,0.453,0.802,9,-6.636,1,0.0446,0.0893,0.0,0.0799,0.297,146.024,4,world-music
+0gI1wucmc2djSV3e25LqCd,Laura Story,Blessings,Blessings,54,298226,False,0.614,0.354,11,-5.187,1,0.0322,0.903,0.0,0.289,0.374,115.927,4,world-music
+5AcdaSVQfLcUKMaqchfBie,Rend Collective,The Art Of Celebration,My Lighthouse,61,224169,False,0.545,0.805,0,-5.792,1,0.0491,0.0326,0.0,0.781,0.727,110.005,4,world-music
+1L4MQJhKyrw0XiF0n0C2hL,Chris Tomlin;Lady A,Chris Tomlin & Friends,Who You Are To Me (feat. Lady A),57,230360,False,0.586,0.791,1,-4.761,1,0.0346,0.255,0.0,0.112,0.305,96.033,4,world-music
+5GcKV6j1JgaSMKG5Jl3NRN,Hillsong Worship,Blessed (Live),Through It All,59,317266,False,0.195,0.68,7,-6.497,1,0.0376,0.0242,2.11e-06,0.32,0.221,152.29,4,world-music
+3wvFggj1ihpMGOecTVSanj,Planetshakers,Endless Praise (Live),Endless Praise - Live,54,246786,False,0.539,0.971,11,-3.797,0,0.215,0.0042,0.0,0.648,0.42,128.025,4,world-music
+3SpEJEJtn8EE0EzGY6xDdD,Chris Tomlin,Burning Lights,Lay Me Down,50,285115,False,0.619,0.875,0,-3.421,1,0.0455,0.00268,6.1e-06,0.16,0.371,127.94,4,world-music
+6arhFMHHQFVAKUINBs8wjQ,Hillsong Worship;TAYA,let there be light.,Grace To Grace,53,426320,False,0.478,0.57,5,-7.875,1,0.0348,0.0701,0.0,0.815,0.162,119.901,4,world-music
+7qWobXw5X9lTsevTUvF4Js,Kathryn Scott,Live Worship At Focusfest,I Have Decided to Follow Jesus,52,186946,False,0.26,0.546,5,-9.546,1,0.0351,0.241,0.0,0.833,0.248,143.994,4,world-music
+5CvN2ry4gEfttAuCAS1JFs,Hillsong Worship,Hillsong Chapel: Forever Reign,God Is Able,56,230226,False,0.455,0.662,6,-6.963,0,0.0357,0.0125,0.0,0.635,0.169,77.523,4,world-music
+4LnHfZGEitmIVS17wndaUI,Bethel Music;Jonathan David Helser;Melissa Helser,Raise a Hallelujah (Studio Version),Raise a Hallelujah (Studio Version),61,244040,False,0.42,0.823,1,-4.889,1,0.0434,0.00985,0.0,0.103,0.517,163.997,4,world-music
+67egl4SMI7KfwW1kaf89PN,Hillsong Worship;Brooke Ligertwood,Awake,Awake My Soul - Studio,52,264320,False,0.455,0.587,5,-8.665,1,0.0336,0.00134,0.0,0.0942,0.127,126.836,4,world-music
+1k9dLBzwep1k1eGP0Ec8ZK,Chris Tomlin;Thomas Rhett;Florida Georgia Line,Chris Tomlin & Friends,Thank You Lord (feat. Thomas Rhett & Florida Georgia Line),58,168693,False,0.667,0.87,9,-3.321,1,0.078,0.391,0.0,0.0697,0.695,104.946,4,world-music
+1z5xgcRgxxGEKrXUCEFpA9,Kari Jobe,Majestic (Live),Forever - Live,57,409986,False,0.268,0.697,8,-5.886,1,0.0422,0.0212,4.58e-06,0.38,0.112,144.01,4,world-music
+48LRu8wJeDbUaAlZMg7fBF,Kari Jobe,Majestic (Live),I Am Not Alone - Live,55,333053,False,0.452,0.318,4,-7.1,1,0.0318,0.87,3e-05,0.277,0.201,135.889,4,world-music
+1sF4VadVaVTvp9WTEy79JT,Vertical Worship,Bright Faith Bold Future,Yes I Will,64,234731,False,0.43,0.708,0,-7.14,1,0.0336,0.0561,0.0,0.704,0.243,75.024,4,world-music
+2VuwpxQR7rTPWkoLkpANdz,Chris Tomlin,Burning Lights,Whom Shall I Fear (God Of Angel Armies),58,267906,False,0.444,0.778,0,-3.037,1,0.0324,0.051,0.0,0.269,0.42,148.044,4,world-music
+5uj2wWw0gnNqkVqGNWbGrf,Planetshakers,Nothing Is Impossible,Nothing Is Impossible (Featuring Israel Houghton),57,244333,False,0.51,0.937,0,-4.979,1,0.0821,0.0187,0.0,0.681,0.539,141.975,4,world-music
+4um6ZMnib1I7VuG3c6jGm5,Michael W. Smith,Worship,Open The Eyes Of My Heart - Live,54,321933,False,0.388,0.568,4,-9.395,1,0.0338,0.624,1.64e-06,0.715,0.207,107.965,4,world-music
+23STcG7v9HNwdqnROFSS8n,Hillsong Worship,Cornerstone (Live),Cornerstone - Live,54,409146,False,0.391,0.568,0,-6.698,1,0.031,0.0477,2.35e-05,0.538,0.129,142.977,4,world-music
+1lBwL3aelajbfCPVoaShv3,Planetshakers,This Is Our Time (Live),This Is Our Time - Live,52,228293,False,0.575,0.947,8,-4.31,1,0.18,0.00167,0.0,0.724,0.377,128.027,4,world-music
+5zYi7qCamxnub1bk2GFVeM,Hillsong Worship,OPEN HEAVEN / River Wild,O Praise The Name (Anástasis),54,329221,False,0.389,0.488,0,-7.466,1,0.0301,0.0047,0.0,0.64,0.303,144.339,4,world-music
+7fd0eYNqpAGyoFA2AgHEDP,Hillsong Worship;Reuben Morgan;Cody Carnes,These Same Skies (Studio),Hope Of The Ages - Studio,48,310492,False,0.212,0.465,11,-7.719,1,0.0345,0.214,0.0,0.102,0.197,198.694,3,world-music
+4pG38RfddM4XtRAjwBOmsF,Bryan & Katie Torwalt,Santa's Christmas List,It's Beginning To Look A Lot Like Christmas,0,160199,False,0.412,0.34,4,-6.243,1,0.0339,0.407,0.0,0.404,0.412,92.46,4,world-music
+3BDpn2Vivr1BFhlGsYs5tp,Housefires,Housefires III,Build My Life,62,491690,False,0.303,0.478,7,-7.851,1,0.0352,0.371,0.0,0.131,0.117,139.795,4,world-music
+5SU08C7u2nFFZ10QyvI8RO,Hillsong Young & Free,Phenomena (DA DA),Phenomena (DA DA) - Live,53,162894,False,0.673,0.864,6,-6.382,1,0.044,0.0057,4.3e-06,0.971,0.734,131.914,4,world-music
+63Ewmqu1gZ7ZaQ5Q4mnuXz,Bethel Music;Jonathan David Helser;Melissa Helser,Peace,No Longer Slaves,51,371506,False,0.491,0.197,7,-11.346,1,0.0303,0.93,2.77e-05,0.101,0.167,127.904,4,world-music
+5AkoMexMFW2knOhHOuS9iV,Darlene Zschech,Revealing Jesus,In Jesus' Name - Live,48,599586,False,0.423,0.714,7,-6.543,1,0.0398,0.000417,1.9e-06,0.131,0.0729,104.996,4,world-music
+2wM1n6rc7cucc8W84gpz06,"Phillips, Craig & Dean",Hymns and Psalms,I Surrender All,43,276320,False,0.252,0.124,3,-11.132,1,0.033,0.848,0.0,0.169,0.221,68.615,5,world-music
+6nYXrAIDYE1F3CZ5AXhiRU,Brian Doerksen,Spirit & Song: Disc G,Purify My Heart,51,247013,False,0.543,0.5,4,-7.225,1,0.0266,0.358,2.97e-06,0.173,0.291,74.019,4,world-music
+2Cj5LxM6O2HWQIr9p9h3TH,for KING & COUNTRY;Kirk Franklin;Tori Kelly,TOGETHER,TOGETHER,59,206103,False,0.389,0.784,0,-4.389,0,0.13,0.203,1.13e-05,0.201,0.484,178.093,4,world-music
+2YRx8jviX9HnvxD0uDIOma,Bethel Music;Dante Bowe,Revival's In The Air (Live),Champion - Live,60,526890,False,0.314,0.634,10,-7.168,1,0.0344,0.0207,7.52e-05,0.687,0.172,143.992,3,world-music
+6CW9qtzZpHZ3o39BYlpU0x,Bethel Music;Bethany Wohrle,Living Hope,Living Hope,53,406346,False,0.414,0.712,9,-6.815,1,0.0379,0.0486,0.0,0.529,0.185,143.957,4,world-music
+35msHwn81uKQS5Jn783oSU,Passion;Kari Jobe,Passion: Let The Future Begin (Deluxe Edition),Revelation Song - Live,46,508800,False,0.211,0.558,7,-6.056,1,0.0343,0.0448,2.75e-05,0.351,0.0871,127.187,4,world-music
+1zX4Lq4tYy3FxaQnLD8SeI,Paul Baloche,What a Friend We Have In Jesus (Audio Performance Trax),What a Friend We Have In Jesus,41,256266,False,0.459,0.404,5,-8.279,1,0.0257,0.437,0.0,0.156,0.244,81.849,4,world-music
+6briCXTsGwU0Mfx87T5LXm,Jadon Lavik,I Have Decided To Follow Jesus - Single,I Have Decided To Follow Jesus,50,188291,False,0.6,0.159,3,-15.091,1,0.0334,0.7,2.59e-05,0.106,0.272,131.953,4,world-music
+0LQaCTgnZzVJzUVA13NelO,Aaron Keyes,Because,Grace Like Rain,54,91226,False,0.523,0.231,5,-13.844,1,0.029,0.777,0.0,0.101,0.146,99.938,4,world-music
+5MCG4XcVcvCOXWpSg2cfRC,for KING & COUNTRY,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Shoulders,55,303306,False,0.518,0.744,3,-7.106,1,0.0351,0.171,7.63e-06,0.109,0.161,98.022,4,world-music
+2aMb1asq5acm7cDYlFsYhY,Chris Tomlin,Never Lose Sight (Deluxe Edition),Home,55,219720,False,0.468,0.786,9,-2.757,1,0.0334,0.0363,0.0,0.31,0.461,84.992,4,world-music
+6RTOAaQeVkm1GUTqIY0hjp,Mosaic MSC,Unknown - EP,Tremble - Studio Version,59,183280,False,0.468,0.552,9,-7.329,0,0.0448,0.326,2.55e-06,0.131,0.135,149.945,4,world-music
+0qIx8dthnBVdqP0F7Pl8AG,Chris Tomlin;Thomas Rhett,Chris Tomlin & Friends,God Who Listens (feat. Thomas Rhett),53,249480,False,0.374,0.668,9,-5.244,1,0.0366,0.0645,0.000106,0.0638,0.212,159.899,4,world-music
+6kpAhNL6CYs3NSbFs3tHwf,Chris Tomlin,And If Our God Is For Us...,I Will Follow,53,220000,False,0.586,0.783,10,-3.684,1,0.026,0.0617,0.0,0.129,0.483,95.932,4,world-music
+2VzPD82kuj3ELatCBPAv9D,Travis Cottrell;Lily Cottrell,The Reason,What A Beautiful Name / Agnus Dei - Medley,56,399506,False,0.445,0.45,2,-7.607,1,0.0356,0.803,0.0,0.0555,0.122,136.046,4,world-music
+2pYazEOXRSlMfxZzrelFbu,Phil Wickham,Battle Belongs,Battle Belongs,51,287532,False,0.375,0.798,1,-5.495,1,0.0497,0.00125,0.0,0.117,0.316,161.794,4,world-music
+2FGEfXuCyrAmiTvDfjF4QV,Leeland,Better Word,Better Word - Single Version,54,202624,False,0.41,0.685,11,-7.875,1,0.0377,0.0167,0.000336,0.175,0.154,167.971,4,world-music
+7pV7A75agkBv5Vnl3PqvwD,Hillsong Worship,There Is More,God So Loved - Live,49,271986,False,0.454,0.525,9,-7.567,1,0.0284,0.0267,0.0,0.2,0.329,138.932,4,world-music
+2nVmKOoqzbHt5YMT3dzLnp,Chris Tomlin,Burning Lights,God's Great Dance Floor,50,218747,False,0.527,0.911,10,-4.036,1,0.0388,0.00066,0.00324,0.103,0.305,127.937,4,world-music
+3QhL4eWBVv64IycG3i9XTb,Passion;Kristian Stanfill,Worthy Of Your Name (Live),Glorious Day - Live,60,298520,False,0.49,0.805,2,-4.578,1,0.0424,0.00289,3.19e-06,0.141,0.166,109.951,4,world-music
+1tElh70sXmt1yAGJ7Szw6S,Hillsong Worship,Mighty To Save (Live),At The Cross,51,409826,False,0.367,0.363,4,-7.965,1,0.0298,0.692,0.0,0.214,0.172,139.598,4,world-music
+7fwbbvgHiX5j7hjDCs6B0O,Jadon Lavik,Roots Run Deep,Blessed Assurance,44,292493,False,0.536,0.563,4,-7.644,1,0.0285,0.272,0.0,0.0857,0.207,140.004,3,world-music
+0lWqNkcbYNZpik6AjywkNm,Bethel Music;kalley,Por Siempre (Live),Por Siempre (Live),37,320013,False,0.336,0.697,2,-5.03,1,0.0339,3.07e-05,0.0,0.0598,0.125,138.122,4,world-music
+4E43YlwUlpYDJIxcMjt0S7,Chris Tomlin,Holy Roar,Is He Worthy?,54,271920,False,0.357,0.552,4,-6.084,1,0.0289,0.153,0.0,0.112,0.217,145.811,4,world-music
+2W1EsT0BlEnFaPe44Q71N5,Bethel Music;Jonathan David Helser;Melissa Helser,No Longer Slaves (Radio Version),No Longer Slaves - Radio Version,56,249213,False,0.417,0.655,10,-5.798,1,0.0347,0.0459,0.0,0.11,0.321,147.972,4,world-music
+14flwcbz38Q5HeQiutm0SQ,Jadon Lavik,Roots Run Deep,My Father's World,56,163880,False,0.458,0.218,4,-11.597,1,0.0281,0.762,8.37e-06,0.105,0.244,94.926,4,world-music
+6qNSq6OKjNgXAn3Kj9HBKf,for KING & COUNTRY,Burn The Ships,Burn The Ships,60,276400,False,0.497,0.542,5,-7.398,1,0.0315,0.16,1.4e-05,0.084,0.0707,93.57,4,world-music
+1gUoaZkPi7vMZdxMlGsGOw,Michael W. Smith,The Second Decade 1993-2003,You Are Holy (Prince Of Peace),50,320026,False,0.501,0.756,7,-6.208,1,0.0376,0.0123,0.0,0.967,0.293,104.035,4,world-music
+2XXXk54soacKXmnUYUbMKE,Hillsong Worship,let there be light.,In Control,49,307520,False,0.408,0.519,9,-8.732,1,0.0311,0.106,0.0,0.96,0.212,141.883,4,world-music
+0c4UVGcDiYxFMH0ly0xa4R,Matt Redman,Sing Like Never Before: The Essential Collection,Once Again,38,299186,False,0.425,0.843,4,-5.89,1,0.0307,0.00907,2.72e-06,0.913,0.387,159.975,4,world-music
+14s1OyBVh737J6OyZot7GH,Hillsong Worship;Aodhan King,Team Night,Resurrender - Live at Team Night,47,428567,False,0.402,0.411,0,-8.46,1,0.0303,0.049,0.0,0.106,0.11,140.132,4,world-music
+7jrsM2LoAP1bSbtp2tZDIY,Cory Asbury,To Love a Fool,The Father’s House,57,245740,False,0.539,0.522,1,-7.315,1,0.0456,0.207,5.34e-06,0.0768,0.53,162.065,4,world-music
+5GDtkgG9T1BDknHHyDtghv,Cory Asbury,The Father's House,The Father's House - Studio,62,253640,False,0.408,0.707,1,-5.4,1,0.0341,0.189,0.0,0.626,0.333,161.962,4,world-music
+1tvwBvLun5paMzlwaW8q1q,Hillsong Worship,From The Inside Out,"Mighty To Save - Live At Sydney Entertainment Centre, Sydney, Australia/2006",52,406774,False,0.45,0.782,9,-6.92,1,0.046,0.0757,0.0,0.0818,0.244,146.041,4,world-music
+2FKd5vdRSk313W6B9s69tB,Hillsong Worship;Benjamin William Hastings,Awake,Come Alive - Studio,46,272426,False,0.335,0.571,0,-8.644,1,0.0345,0.00492,0.0,0.0656,0.169,101.809,4,world-music
+6z5nJUEl6pCt7XdnBOCV51,Hillsong Worship,Ultimate Worship Vol 1,One Way,54,236320,False,0.461,0.918,4,-4.884,1,0.0493,0.00331,0.000842,0.335,0.337,135.081,4,world-music
+4PYOh644yKjYyvyVUHqcof,All Sons & Daughters;Leslie Jordan;David Leonard,Live,Great Are You Lord - Live,60,290413,False,0.39,0.457,9,-7.915,1,0.0327,0.0874,8.9e-06,0.123,0.145,143.977,3,world-music
+5W0HZpfl86aVxUoLtV8BGL,Hillsong Worship,Awake,No One But You - Studio,47,535720,False,0.358,0.427,7,-9.18,1,0.0296,0.0976,1.07e-05,0.0849,0.0694,145.891,4,world-music
+6zN6wjHO3ALVCIQQhSqqqN,Chris Tomlin;Thomas Rhett;Florida Georgia Line,Thank You Lord (feat. Thomas Rhett & Florida Georgia Line),Thank You Lord (feat.Thomas Rhett & Florida Georgia Line),51,168842,False,0.667,0.881,9,-3.366,1,0.0815,0.35,0.0,0.0742,0.711,104.968,4,world-music
+7dHyEEppnmfZJjNaNZzhl6,Hillsong Worship,Awake,See The Light - Studio,48,247786,False,0.595,0.836,9,-6.622,1,0.0398,0.00689,4.39e-06,0.34,0.441,116.0,4,world-music
+587Me0Eu0minxPZ5zaVU0m,Hillsong Worship;Hannah Hobbs,No Other Name,Thank You Jesus,49,350068,False,0.349,0.35,9,-8.086,1,0.0286,0.117,0.0,0.198,0.0629,158.057,4,world-music
+3Md8YScIGo5rx8NvEomkmw,Laura Story,Great God Who Saves,Mighty to Save,47,229946,False,0.486,0.66,6,-5.08,1,0.0279,0.0192,3.66e-06,0.0995,0.348,155.919,4,world-music
+5OMpZa1m8amJy7ICItG1Sc,Hillsong Worship;Brooke Ligertwood,There Is More,New Wine - Live,52,490000,False,0.362,0.307,10,-10.056,1,0.0293,0.0658,0.0,0.114,0.154,140.055,4,world-music
+4AJ99UeL45ibxRT7GzMWqS,Laura Story,Great God Who Saves,Grace,50,274680,False,0.699,0.304,3,-11.567,1,0.029,0.764,0.0,0.141,0.457,104.143,4,world-music
+1fcytmf4DjBc7ZkhSPnNIP,Hillsong Worship,let there be light.,Behold (Then Sings My Soul),50,406173,False,0.365,0.458,11,-8.138,1,0.0311,0.0576,0.0,0.302,0.114,73.991,4,world-music
+1cUyNauQChHpZm4RIe2Yuy,Chris Tomlin,See The Morning (Special Edition),Everlasting God,54,262266,False,0.577,0.732,1,-4.508,1,0.0272,0.05,2.39e-06,0.121,0.268,98.068,4,world-music
+2G83Bi2pnml8ZEskoheM0Y,Shane & Shane,Vintage,As the Deer,46,256379,False,0.606,0.067,4,-15.147,1,0.0322,0.893,0.0,0.1,0.162,103.89,4,world-music
+7gDKbsjVEXVT4W1Xt2bkKz,Hillsong Worship;Hillsong Young & Free,OPEN HEAVEN / River Wild,Pursue / All I Need Is You,50,463983,False,0.473,0.434,7,-7.08,1,0.0295,0.0902,0.0,0.097,0.197,143.943,4,world-music
+3bxZhauuIU4ubctdRZwPYW,Buena Vista Social Club,Buena Vista Social Club,Chan Chan,22,258693,False,0.529,0.421,2,-14.15,0,0.0341,0.847,0.00699,0.118,0.694,82.923,4,world-music
+2Ilbv0FdK3FDydyjwLYbz9,Hillsong Worship;TAYA,Take Heart (Again),I Surrender,47,314493,False,0.375,0.288,11,-11.709,1,0.0303,0.754,2.08e-06,0.14,0.171,147.972,3,world-music
+0NokhuFCbhYoMY4cgRuuZi,Phil Wickham;Madison Cunningham,Children of God,The Secret Place,41,283613,False,0.508,0.817,0,-4.836,0,0.0416,0.0256,0.0,0.22,0.336,132.019,4,world-music
+3AHWbUsTaYecnT4aTEU0ut,Passion;Kristian Stanfill;Melodie Malone,Whole Heart (Live),"God, You’re So Good - Live",50,426573,False,0.266,0.327,10,-7.195,1,0.0307,0.295,0.0,0.0953,0.0548,139.635,4,world-music
+4DosgMYWthi2sAHwiOQte2,Hillsong Young & Free;Alexander Pappas,We Are Young & Free,Alive (Live),49,233373,False,0.567,0.947,1,-3.733,0,0.0883,0.000891,6.79e-05,0.869,0.635,131.988,4,world-music
+4vM708B1zJUObZEzwjZZZK,Phil Wickham,It's Always Been You,It's Always Been You,43,241946,False,0.318,0.483,6,-5.944,1,0.0304,0.496,0.0,0.115,0.0686,145.491,4,world-music
+1GHiyg8UOFAHavQJ7EWI34,Hillsong Worship,There Is More (Studio Sessions),New Wine,48,242720,False,0.486,0.225,5,-11.663,0,0.0309,0.626,0.0,0.112,0.0876,140.046,4,world-music
+1C1cV8Xa7LjrgE29Pez7yp,Darlene Zschech,Revealing Jesus,Victor's Crown - Live,47,444493,False,0.254,0.718,0,-6.915,1,0.0392,0.00265,0.0,0.141,0.244,147.699,4,world-music
+0Nxb56H6D3z2ZO9BniUcNj,for KING & COUNTRY;Jordin Sparks,Love Me Like I Am (with Jordin Sparks),Love Me Like I Am (with Jordin Sparks),55,187306,False,0.536,0.606,4,-7.297,1,0.0416,0.0133,0.000319,0.0608,0.301,159.913,4,world-music
+46JqDjp4BMbLQrTOUHdspO,Chris Tomlin;Lady A,Who You Are To Me (feat. Lady A),Who You Are To Me (feat. Lady A),47,230108,False,0.59,0.798,1,-4.75,1,0.0349,0.261,0.0,0.112,0.272,96.02,4,world-music
+6QXYasHJWtowuoT9bRI8wy,Hillsong Young & Free,This Is Living,This Is Living (feat. Lecrae),49,214520,False,0.62,0.856,1,-4.932,0,0.0754,0.00381,0.0,0.102,0.808,127.982,4,world-music
+6hFZ2ObKK34x70YNYMSCDx,Phil Wickham,Living Hope,Song In My Soul,41,231400,False,0.401,0.505,7,-6.662,1,0.0386,0.118,0.0,0.122,0.282,77.442,4,world-music
+2rOiIawE2hzmTKAGKyxI3S,Starfield,The Saving One,Absolutely,52,239106,False,0.512,0.318,4,-11.047,1,0.027,0.576,6.23e-06,0.0926,0.154,143.998,4,world-music
+2RxEX1W0GSQRcQEmwut9OA,for KING & COUNTRY,Burn The Ships,Hold Her,53,244320,False,0.393,0.481,0,-9.168,1,0.0523,0.45,0.0,0.222,0.104,80.086,4,world-music
+0yt5ocnFqmznlEDHcAgwVx,Hillsong Worship;Hannah Hobbs,OPEN HEAVEN / River Wild,Open Heaven (River Wild),49,449384,False,0.416,0.458,0,-7.847,1,0.0288,0.0752,0.0,0.689,0.0548,137.971,4,world-music
+1AtwsVXr1zaZf4YgIEOlDK,Bryan & Katie Torwalt,Here On Earth,Holy Spirit,50,348800,False,0.384,0.493,2,-8.718,1,0.0382,0.0164,0.0,0.101,0.0601,143.711,4,world-music
+3Ia7UXH7fERHxzLevh9RQw,"Phillips, Craig & Dean",Let Your Glory Fall,Here I Am To Worship,52,232026,False,0.454,0.538,0,-7.838,1,0.0303,0.0907,0.0,0.11,0.457,164.975,4,world-music
+4rjkDg26WVRWMZ1XL02z8m,Hillsong Worship;Brooke Ligertwood,King Of Kings (Live),King Of Kings - Live at Hillsong Conference,45,291565,False,0.454,0.427,2,-8.049,1,0.029,0.0205,0.0,0.69,0.184,135.887,4,world-music
+35GACeX8Zl55jp29xFbvvo,Mosaic MSC,Glory & Wonder,Tremble - Live,61,309093,False,0.329,0.682,0,-6.374,1,0.0526,0.221,0.0,0.19,0.162,148.029,4,world-music
+79r0T2eehj5l0baOIlqP2o,Chris Tomlin;Brett Young;Cassadee Pope,Chris Tomlin & Friends,Be The Moon (feat. Brett Young & Cassadee Pope),47,214720,False,0.522,0.843,9,-4.66,1,0.0356,0.202,0.0,0.0938,0.435,74.941,4,world-music
+1zexNfdOpmr21LpIr09IRe,Chris Tomlin,And If Our God Is For Us... (Deluxe),Our God,39,285160,False,0.509,0.778,11,-3.608,1,0.0295,0.00998,0.0,0.19,0.216,105.066,4,world-music
+1bojRy5in1TdHzdWdxULgr,Cory Asbury,To Love a Fool,Dear God,51,367462,False,0.451,0.491,3,-9.858,1,0.0398,0.643,0.00131,0.0801,0.288,153.768,4,world-music
+1LnhZGHXR4RJowuNz3wb1L,Hillsong Worship,There Is More,Be Still - Live,49,487666,False,0.352,0.433,5,-9.485,1,0.0285,0.0601,2.36e-05,0.103,0.0771,148.738,4,world-music
+3JTAiYMIby5pLUjJCcuYSS,Planetshakers,Limitless (Live),The Anthem (Full Song) - Live,49,462013,False,0.339,0.874,10,-5.794,0,0.0716,0.00241,0.0,0.366,0.16,151.96,4,world-music
+4bKkUZX9OlAh8fE5KsaE0G,Chris Tomlin;Russell Dickerson;Florida Georgia Line,Chris Tomlin & Friends,"Sing (feat. Russell Dickerson, Florida Georgia Line)",51,166880,False,0.643,0.738,10,-3.708,1,0.0332,0.528,0.0,0.124,0.369,119.927,4,world-music
+0hLsDRLsfvwExXMBeDS53k,Michael W. Smith;Vanessa Campagna;Madelyn Berry,Awaken: The Surrounded Experience,Waymaker,51,437131,False,0.412,0.633,9,-8.478,1,0.0467,0.287,0.0,0.801,0.257,131.846,4,world-music
+6r0WuK50Lpu9u460x84oBn,Bethel Music;Brian Johnson;Jenn Johnson,Revival's In The Air (Live),God of Revival - Live,58,515387,False,0.36,0.608,1,-7.811,1,0.0309,0.065,0.0,0.43,0.21,144.004,4,world-music
+2soQW3y7DwZIPH4fS5av1W,Bethel Music;We The Kingdom,Peace,Dancing on the Waves,55,376093,False,0.318,0.209,2,-10.664,1,0.0295,0.934,0.0,0.0946,0.365,90.336,3,world-music
+5ciUxkJBtUkkR7KwvwJUyH,Chris Tomlin,Always,Strongholds,57,240566,False,0.502,0.613,10,-6.419,1,0.0295,0.0153,0.0,0.301,0.271,89.992,4,world-music
+6mOQSS2xTtKyiIuqtHjHtA,Planetshakers,Beautiful Saviour,Beautiful Saviour,52,506120,False,0.234,0.45,7,-8.999,1,0.0311,0.366,0.0,0.131,0.178,106.757,4,world-music
+0OZGzrcnmOC56TJGQ2E3yu,I AM THEY,Faithful God,Faithful God,58,209320,False,0.529,0.558,0,-5.406,1,0.0258,0.191,0.0,0.25,0.296,87.987,4,world-music
+7cxJYR854kSbX8g4QFUU12,Hillsong Worship;Integrity's Hosanna! Music;Darlene Zschech,Shout to the Lord (Live),The Power of Your Love - Live,56,302093,False,0.454,0.396,7,-11.462,1,0.0242,0.0431,1.83e-05,0.645,0.255,80.784,4,world-music
+6okuhsKrNfoxY4FdJpClgy,Cory Asbury,To Love a Fool,Sparrows,58,197046,False,0.58,0.704,8,-5.942,1,0.0282,0.0428,0.0,0.101,0.549,139.896,4,world-music
+5Xjcst6Rle74VteHx0zczO,Jesus Culture;Kim Walker-Smith,Live From New York,Holy Spirit - Live,55,489453,False,0.363,0.533,2,-8.319,1,0.0314,0.136,0.0,0.358,0.0693,144.005,4,world-music
+6KwkVtXm8OUp2XffN5k7lY,Hillsong Worship,No Other Name,No Other Name,50,440247,False,0.369,0.598,7,-6.984,1,0.0304,0.00511,0.0,0.176,0.0466,148.014,4,world-music
+27H6PPj9if4ZNZcudJqWQV,Hillsong Worship,Awake,I Will Praise You - Studio,46,350306,False,0.493,0.524,0,-9.861,1,0.0297,0.0849,0.0199,0.0718,0.159,130.066,4,world-music
+5KvGGCPaC7AOqtqTo6HCjJ,Hillsong Worship;TAYA,Team Night,Never Walk Alone - Live at Team Night,51,273245,False,0.319,0.482,7,-8.374,1,0.0421,0.0418,0.0,0.16,0.0747,138.946,4,world-music
+1lMG8zOEc89JkZRuPhft7Y,Shane & Shane,Vintage,Awesome God,52,171062,False,0.725,0.474,8,-12.143,0,0.0449,0.0983,0.0,0.131,0.649,137.9,4,world-music
+0CQPPHjPpG4kAzvfOcKvh8,for KING & COUNTRY,What Are We Waiting For?,For God Is With Us,58,196846,False,0.338,0.643,4,-7.093,0,0.0681,0.0102,1.98e-05,0.11,0.15,75.571,4,world-music
+5Ezujip0fVjJ48dlCV07YM,Hillsong Worship;Hannah Hobbs,Awake,Every Breath - Studio,44,291400,False,0.389,0.393,0,-9.021,1,0.0284,0.146,3.62e-06,0.0951,0.127,136.439,3,world-music
+1EuWwrRXDaJC0knqYE31wy,Hillsong Worship,Awake,Bright As The Sun - Studio,45,378626,False,0.438,0.514,11,-8.749,1,0.0296,0.0545,9.7e-06,0.241,0.201,135.082,3,world-music
+0WcDc8rCKIxNLXxSmIjTqu,Hillsong Worship,Awake,From Whom All Blessings Flow (Doxology) - Studio,46,288920,False,0.317,0.459,0,-7.871,1,0.0295,0.138,0.0,0.105,0.113,145.045,4,world-music
+52mdbM1tueoC8UnYvZ9uTX,Hillsong Worship;Integrity's Hosanna! Music;Darlene Zschech,Shout to the Lord (Live),Shout to the Lord - Live,51,279506,False,0.389,0.305,9,-12.527,1,0.0252,0.223,0.0,0.12,0.263,74.921,4,world-music
+0bOiEr1jajwxfI920ZG68L,Matt Redman,Sing Like Never Before: The Essential Collection,Never Once,51,240066,False,0.482,0.637,8,-5.857,0,0.0295,0.177,0.0,0.172,0.411,138.184,4,world-music
+1ZwyRRW5zGjt9gGOwSO5YM,Phil Wickham;Madison Cunningham,Children of God Acoustic Sessions,The Secret Place - Acoustic,53,283785,False,0.512,0.362,3,-6.655,1,0.0305,0.612,0.0,0.0784,0.282,125.893,4,world-music
+0GwVNKyG6DSL8gc72S4HGo,Hillsong Worship,Christian Music's Best - Worship,I Give You My Heart,49,316388,False,0.372,0.501,7,-5.275,1,0.0278,0.579,3.8e-06,0.233,0.121,141.562,4,world-music
+5f7eZRUBHwsf8SMVYVCgrG,Jesus Culture;Chris Quilala,Your Love Never Fails (Live),Your Love Never Fails - Live,53,477880,False,0.41,0.869,7,-4.496,0,0.0472,0.00801,0.0,0.238,0.353,113.971,4,world-music
+4IEsMBjh6M0kYH1Jx30ek6,Hillsong Worship,Glorious Ruins,Man of Sorrows,48,322373,False,0.375,0.539,5,-6.392,1,0.0293,0.0384,0.0,0.0769,0.235,71.985,4,world-music
+1mM1sTyjFu3q8HbGJoXTOm,Cory Asbury,Egypt (Studio Version),Egypt - Studio Version,58,200360,False,0.436,0.802,5,-5.015,0,0.0499,0.0539,0.0,0.113,0.202,153.842,4,world-music
+5XKPxXuDDkCqatONHZw39X,Hillsong Worship;TAYA,OPEN HEAVEN / River Wild,Transfiguration,49,336516,False,0.329,0.609,0,-7.125,1,0.0337,0.0237,9.39e-06,0.697,0.173,74.056,4,world-music
+6YWOZAhJNr5C1gOqoX0Kby,"Phillips, Craig & Dean",Hymns and Psalms,On Christ the Solid Rock,42,243400,False,0.494,0.452,6,-5.71,1,0.026,0.0175,0.0,0.204,0.249,76.969,3,world-music
+72SrSfTI6p9HCBuVKmCNu9,Bethel Music;Cory Asbury,Revival's In The Air (Live),Egypt - Live,58,383447,False,0.328,0.845,8,-6.606,1,0.0407,0.000227,0.0,0.138,0.282,149.773,4,world-music
+0vBjd0I8iefycEZ2ex1Zpi,for KING & COUNTRY,Burn The Ships,joy.,58,233946,False,0.68,0.536,5,-6.669,0,0.0582,0.0102,0.00105,0.113,0.417,119.958,4,world-music
+6HT8RS2HlFq0VRvrxgfS8U,for KING & COUNTRY,Unsung Hero,RELATE,50,173500,False,0.694,0.564,10,-8.649,1,0.174,0.0683,8.88e-06,0.307,0.341,99.999,4,world-music
+5YcgWiIj7woRmQQMXDjQ7H,I AM THEY,Faithful God,Faithful God,50,210013,False,0.532,0.567,0,-5.66,1,0.0253,0.134,0.0,0.242,0.231,88.053,4,world-music
+5QT13TE0vN29dYa8Ifkz0A,Leeland;TAYA,Heart & Flesh,Heart & Flesh,55,431520,False,0.27,0.386,2,-8.193,1,0.0301,0.269,1.27e-06,0.0995,0.151,131.876,3,world-music
+2Gpk1rtu5wVUCMQH86kErs,Bethel Music;We The Kingdom,Peace,Peace,52,297293,False,0.553,0.127,11,-13.067,1,0.0336,0.953,0.0,0.104,0.178,118.003,4,world-music
+1Hv54MWloXiAZDam1ez840,All Sons & Daughters;Leslie Jordan;David Leonard,All Sons & Daughters,Great Are You Lord,57,296343,False,0.472,0.351,9,-8.996,1,0.0326,0.589,0.0,0.0821,0.0611,144.01,3,world-music
+2tMjhETPLkWILXN3NnmDt3,Chris Tomlin,Good Good Father,Good Good Father,51,297146,False,0.436,0.6,9,-4.4,1,0.0273,0.291,0.0,0.0996,0.181,145.004,3,world-music
+4VS6PK5bVEBtEt4lLvLYoi,Jesus Culture;Chris Quilala,Let It Echo (Live),Fierce - Live,43,246640,False,0.493,0.814,11,-6.366,0,0.0439,0.00167,1.09e-05,0.398,0.362,158.12,4,world-music
+0s9o5zNpoRcYkXOVeLASCa,Hillsong Young & Free,All Of My Best Friends,Best Friends - Studio,45,183414,False,0.491,0.828,11,-5.368,1,0.0311,0.0829,0.0,0.222,0.509,75.001,4,world-music
+089YdobV7859anDvVu1TsY,Michael W. Smith,Decades of Worship,Awesome God,49,197613,False,0.298,0.66,7,-8.187,1,0.041,0.283,5.24e-06,0.629,0.185,138.902,4,world-music
+6HKmAGpQgDNQ4sFhAgvkA2,Starfield,Starfield,Cry In My Heart,51,200880,False,0.509,0.412,2,-10.249,1,0.0271,0.123,0.0,0.37,0.201,155.932,4,world-music
+4Eda1y3heYypvl4KRcJcKs,Chris Tomlin,Hello Love,God Of This City,47,297920,False,0.487,0.509,2,-6.935,1,0.0294,0.15,4.45e-06,0.0857,0.181,77.985,4,world-music
+6K01FcARJz4bGkXvoBEbU2,Hillsong Worship,Cornerstone (Live),Running - Live,37,243986,False,0.449,0.92,11,-4.87,1,0.0742,0.000165,0.0,0.804,0.277,125.979,4,world-music
+1bfRXeYRGJF8aCxUpQ4yOq,Chris Tomlin,Holy Forever,Holy Forever,54,308066,False,0.453,0.704,1,-4.62,1,0.0351,0.226,0.0,0.118,0.271,144.004,4,world-music
+0oIJ7r16P1YsR8hXyMl7l6,Planetshakers,Endless Praise (Live),Dance - Live,48,232893,False,0.602,0.965,1,-3.765,0,0.0789,0.00359,0.0,0.685,0.461,130.015,4,world-music
+0AMzOlSgwUfPNa57WBby2K,Phil Wickham;Lecrae,Breakthrough (Music From & Inspired By The Motion Picture),This Is Amazing Grace - Breakthrough Mix,49,157066,False,0.535,0.72,10,-5.969,1,0.0287,0.00221,0.0,0.0966,0.345,98.011,4,world-music
+458RO9dmBSI8dNIDypcvIV,Kim Walker-Smith,Protector (Live),Protector - Live,49,408063,False,0.437,0.597,4,-7.266,1,0.0361,0.297,0.0,0.146,0.204,77.459,4,world-music
+09nXBi19jRO59kMA36fJGE,Hillsong Worship;Brooke Ligertwood,Take Heart (Again),Hosanna,45,277168,False,0.354,0.223,11,-10.956,0,0.0358,0.804,0.0,0.119,0.262,89.445,5,world-music
+1vNfnVBCNVHC7qQpQ6P4YF,Hillsong Young & Free,All Of My Best Friends,Lord Send Revival - Live,48,402052,False,0.342,0.477,1,-9.166,1,0.031,0.00985,0.0,0.136,0.218,148.855,3,world-music
+1uneiO81sTTdPvsjr54yPK,Leeland,Invisible,Lion and the Lamb - Studio,50,271533,False,0.346,0.806,11,-5.828,1,0.0415,0.0202,0.0,0.0951,0.224,175.891,4,world-music
+2YgtXx9OVBOzja9Fckb4FY,one sonic society,Great Are You Lord EP,Great Are You Lord,59,232379,False,0.492,0.656,9,-7.361,1,0.0365,0.0832,0.0,0.202,0.358,147.948,3,world-music
+2DrarKE3JnOXED3kbTuLtY,Bethel Music;Jenn Johnson;Michaela Gentile,Simple,Let My Life Be Worship,57,319739,False,0.374,0.338,0,-12.44,1,0.029,0.737,6.42e-05,0.0649,0.0953,155.965,3,world-music
+4zpOLmgrWhOPuXfTi5K6Kc,Hillsong Young & Free,All Of My Best Friends,Never Have I Ever - Studio,43,185217,False,0.655,0.8,0,-6.416,1,0.0332,0.0101,0.0,0.232,0.561,144.019,4,world-music
+02xLq9IUGckovMN8Gs1irQ,Hillsong Worship;Reuben Morgan,No Other Name,Calvary,45,253206,False,0.382,0.558,9,-6.471,1,0.0324,0.00355,0.0,0.167,0.215,136.575,4,world-music
+5SAGveGOe6o2IchtvLIlmd,Hillsong Worship;TAYA,Awake,Upper Room - Studio,46,240946,False,0.417,0.172,4,-14.3,1,0.0321,0.928,2.48e-05,0.205,0.167,131.969,4,world-music
+55T6hkea97kp6UCZ2CVe0M,Chris Tomlin,Always,Always,51,248666,False,0.389,0.535,0,-7.077,1,0.0289,0.00812,0.0,0.0807,0.235,157.894,3,world-music
+1csG2fLT075hqfjW7gdWkS,Phil Wickham,Living Hope,Great Things,46,290133,False,0.508,0.881,1,-5.459,0,0.0486,0.00257,0.0,0.128,0.339,101.989,4,world-music
+6wEiuEjdvTEy3CyqnFFQ4r,Hillsong Worship,Spotify Singles,Who You Say I Am - Recorded at Sound Stage Nashville,45,303959,False,0.267,0.367,6,-9.951,1,0.0323,0.332,0.0,0.0856,0.0925,169.641,3,world-music
+1ZO99OrjupdwV1MWfgmihI,for KING & COUNTRY,What Are We Waiting For?,RELATE,55,173500,False,0.694,0.566,10,-8.639,1,0.17,0.064,7.77e-06,0.308,0.33,100.008,4,world-music
+7xAnK3cE81erl8ZTxJbYWq,I AM THEY;Cheyenne Mitchell,Gratitude (feat. Cheyenne Mitchell),Gratitude (feat. Cheyenne Mitchell),58,252492,False,0.321,0.337,11,-7.668,1,0.0326,0.773,0.0,0.116,0.234,101.873,4,world-music
+6qdpQ6jPiaCYE9Qw4nZVuD,Tenth Avenue North,Over And Underneath,By Your Side,54,241826,False,0.454,0.7,7,-6.222,1,0.0264,0.0649,1.1e-06,0.115,0.0704,130.09,4,world-music
+43OioCdtXLa0YuS8tgBGAY,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),Reason I Sing - Acoustic,42,272391,False,0.43,0.21,7,-12.989,1,0.0352,0.884,0.0,0.0677,0.305,151.439,3,world-music
+2EeCxglAQ4XK0IwuqjvRwj,Rend Collective,As Family We Go,Every Giant Will Fall,52,225320,False,0.551,0.847,10,-6.909,1,0.0456,0.0198,0.0,0.132,0.445,111.975,4,world-music
+2IPWIK1PH9ArgXTaKmk7Ly,Chris Tomlin,Holy Roar,Holy Roar,43,251933,False,0.444,0.829,10,-4.997,1,0.0455,0.00244,0.0,0.0695,0.337,156.146,4,world-music
+0xHdrRs3i00vBbXzx0Hq67,Mosaic MSC,This Is How I Thank The Lord,This Is How I Thank The Lord,62,189933,False,0.333,0.254,4,-9.369,1,0.0549,0.825,0.0,0.0795,0.272,189.168,3,world-music
+6FNpOUzRqjj38xjswMnFgc,Planetshakers,Outback Worship Sessions,Nothing Is Impossible,46,250346,False,0.413,0.836,0,-4.867,1,0.0433,0.00202,0.0,0.0842,0.303,143.962,4,world-music
+1e2ShXB96jVtJfd3KemRXn,Matt Redman,One Day (When We All Get To Heaven) [Radio Version],One Day (When We All Get To Heaven) - Radio Version,46,230026,False,0.486,0.238,0,-8.182,1,0.0301,0.894,0.0,0.093,0.336,80.157,4,world-music
+2JdhRRTl3ee6pQQupVQqyb,Chris Tomlin,Arriving,How Great Is Our God,42,266586,False,0.471,0.626,1,-5.686,1,0.0279,0.139,0.0,0.0753,0.305,152.008,4,world-music
+2MxWMPW8E1p8B0Wcc5ypfU,Chris Tomlin,Holy Roar,Resurrection Power,44,250800,False,0.387,0.715,1,-4.246,1,0.044,0.0098,0.0,0.0908,0.306,150.079,4,world-music
+1TsBTEIa4jJD7tgD3j6C40,Rend Collective,Good News (Deluxe Edition),Rescuer (Good News),56,208800,False,0.494,0.72,7,-5.093,1,0.0568,0.398,0.0,0.341,0.553,152.049,4,world-music
+3RBnnfWA4Q2AqNuwTDdDgz,Kari Jobe,I Am Not Alone (Radio Version),I Am Not Alone - Radio Version,53,237453,False,0.415,0.398,4,-7.204,1,0.0268,0.314,0.0,0.106,0.13,143.582,4,world-music
+4NLhBI305BBR59kmQAGOfz,Hillsong Worship,let there be light.,Love So Great,47,319000,False,0.428,0.757,11,-5.797,1,0.0342,0.00264,0.0,0.166,0.184,93.983,4,world-music
+6vLOjUphbNT9Q21euUuCSZ,Phil Wickham,Cannons,Messiah / You're Beautiful,49,293720,False,0.329,0.511,3,-7.687,1,0.0287,0.0755,0.0297,0.146,0.167,166.028,4,world-music
+1syFMBjjRvL3uReOM8yWEb,Aaron Shust,Anything Worth Saying,My Savior My God,54,291986,False,0.563,0.467,2,-6.087,1,0.0241,0.0229,0.0,0.0945,0.241,77.982,4,world-music
+5VMPBdWTXlBkTOinoxfhHI,Bethel Music;Jenn Johnson,Be Lifted High,God I Look to You,51,452520,False,0.307,0.394,11,-8.716,1,0.0338,0.0611,8.04e-06,0.254,0.159,134.967,4,world-music
+0lATXmstYwzQjOLgkzvnEc,Rend Collective,Good News (Deluxe Edition),Counting Every Blessing,58,302780,False,0.55,0.681,9,-4.759,1,0.0334,0.136,0.0,0.216,0.174,89.989,4,world-music
+63BqUlW3h2ojDnexl3NxrQ,Hillsong Young & Free,III,Every Little Thing,44,204866,False,0.477,0.67,5,-6.741,1,0.0322,0.0453,0.0,0.117,0.451,154.991,4,world-music
+2ftKsLTGZDgFw5BuBL2ixy,Phil Wickham,Hymn of Heaven,Falling In Love,37,285586,False,0.321,0.123,5,-14.226,1,0.0354,0.918,8.49e-06,0.0934,0.192,146.611,4,world-music
+76BHmT2sUm6yjo9TivNRda,Bethel Music;Steffany Gretzinger,Moments: Mighty Sound,Reckless Love (Spontaneous),52,599746,False,0.252,0.462,11,-9.05,1,0.0334,0.0135,0.0,0.104,0.0604,110.243,4,world-music
+0voVzEvUL4HPHgp7P2rGdt,Gateway Worship;Jessie Harris,I Need You (Live),I Need You - Live,44,473653,False,0.253,0.395,2,-9.633,1,0.0306,0.313,0.0,0.316,0.0999,145.963,3,world-music
+6apFmBCR7iOTwZ1yK8xcDT,Hillsong Young & Free,III,Let Go,48,230880,False,0.59,0.923,0,-6.576,1,0.117,0.0236,0.0,0.0669,0.496,126.032,4,world-music
+21OxPURFtFrTwWGq9aJCju,Bethel Music;Emmy Rose,Simple,Tend,55,293377,False,0.517,0.155,11,-13.335,1,0.032,0.877,0.0,0.103,0.223,135.203,4,world-music
+7lNZVe64Do0fQIUR2AGli8,Leeland,Still Mighty,Still Mighty,44,232040,False,0.647,0.681,2,-5.387,1,0.028,0.0346,2.06e-06,0.283,0.761,101.982,4,world-music
+6CdzB6ZB5Af8wfAfAAQwaq,Bethel Music;Jonathan David Helser;Melissa Helser,Peace,Raise a Hallelujah,51,375813,False,0.326,0.161,9,-12.798,1,0.0366,0.956,7.26e-06,0.086,0.177,131.952,4,world-music
+1D9qrTl2rVrS2XP9RDLLs0,for KING & COUNTRY;Kirk Franklin;Tori Kelly,Burn The Ships (Deluxe Edition: Remixes & Collaborations),TOGETHER,55,206103,False,0.389,0.786,0,-4.392,0,0.138,0.216,8.23e-06,0.198,0.482,178.103,4,world-music
+3JSxKlxWTriK218L3yqoLN,Michael W. Smith,Worship,Above All,45,276773,False,0.374,0.291,10,-11.251,1,0.0305,0.723,0.000882,0.12,0.108,133.009,4,world-music
+3pZVH0mPC6fxtmjOT0i9t5,Kari Jobe,Kari Jobe,Revelation Song,53,361386,False,0.276,0.263,7,-7.859,1,0.0372,0.609,0.0,0.0802,0.0997,124.404,4,world-music
+3qJrhAPsIAPZ0NcJ7erI6t,Cory Asbury,To Love a Fool,Canyons,55,280797,False,0.312,0.523,8,-8.137,1,0.0372,0.159,7.72e-05,0.0931,0.181,89.976,4,world-music
+0Fobi27WbuelkMVhfZbB2r,Tommy Walker,Never Gonna Stop,He Knows My Name,48,200026,False,0.361,0.0755,5,-19.055,1,0.0363,0.759,0.0,0.126,0.102,122.596,4,world-music
+4eLKR4wt81H4aso4KyAkO1,Bethel Music;Leeland Mooring,Have It All (Live),Lion and the Lamb,53,280762,False,0.455,0.734,11,-7.422,1,0.0315,0.00555,0.0,0.243,0.267,90.019,4,world-music
+1FTInStxJsbzQp75jrsxsI,Chris Tomlin,Holy Roar,Impact,41,254173,False,0.407,0.53,11,-7.091,1,0.0324,0.0686,0.0,0.0568,0.219,143.955,4,world-music
+0HtWxjydJ3pEwT5nHJxxZ1,Bethel Music;Kari Jobe,Peace,Surrounded (Fight My Battles),55,303053,False,0.398,0.208,5,-10.525,1,0.0394,0.953,6.26e-06,0.108,0.132,129.682,4,world-music
+0pAPFaE1Iwfvex9EVJuQlG,Tenth Avenue North,Followers,Control (Somehow You Want Me),57,248733,False,0.509,0.75,11,-5.884,1,0.0397,0.00208,0.0,0.182,0.131,120.001,4,world-music
+0iE9E6qNW8jOnQaz2MgWRd,Hillsong Worship;Hannah Hobbs,Hillsong Chapel: Forever Reign,It Is Well With My Soul,45,288293,False,0.326,0.498,7,-6.188,1,0.0325,0.00661,0.0,0.128,0.14,150.026,4,world-music
+3H5ly2nTpUNUdbg1X9dHWJ,for KING & COUNTRY,For God Is With Us,For God Is With Us,55,196846,False,0.517,0.639,4,-7.105,0,0.0547,0.01,2.59e-05,0.11,0.152,75.032,4,world-music
+0WFaQNCdmyONO7GIWL8mDZ,Jesus Culture;Chris Quilala,Live From New York,Set A Fire - Live,54,315253,False,0.16,0.563,5,-7.771,1,0.0492,0.0381,0.00297,0.147,0.0859,139.623,4,world-music
+6M391pAp3LXdjQurMdyDkv,Planetshakers,Legacy (Live),Prophesy - Live In Melbourne,43,261992,False,0.502,0.9,0,-6.692,0,0.0489,0.000177,8.79e-06,0.451,0.339,128.002,4,world-music
+7BTmtN6bP35E54vVASTqao,for KING & COUNTRY,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Priceless,56,208520,False,0.529,0.769,11,-6.369,1,0.0469,0.00532,0.0,0.19,0.66,73.946,4,world-music
+5go3zDh6wyW7DPwO2lWtmL,Chris Tomlin,Never Lose Sight (Deluxe Edition),Good Good Father,49,292200,False,0.424,0.608,9,-4.414,1,0.0275,0.261,0.0,0.102,0.193,145.031,3,world-music
+0AmYeA2gUXqeduh4srUqaq,Planetshakers,Greater (Live),Greater - Live,48,215699,False,0.564,0.899,4,-6.523,1,0.106,0.00688,0.0,0.711,0.376,128.058,4,world-music
+7cCH8aGct7FNkZf3vd1iAb,Hillsong Worship,Ultimate Worship Vol 1,I Give You My Heart,47,321186,False,0.402,0.501,7,-6.718,1,0.0265,0.581,6e-06,0.197,0.131,141.895,4,world-music
+3xRyvAjJ3jI3XuS7urBomO,Matt Redman,Unbroken Praise (Live),It Is Well With My Soul - Live,48,357213,False,0.37,0.817,4,-5.276,1,0.0419,0.0703,0.0,0.937,0.191,159.981,4,world-music
+4YFy1VOf7pV1PF6rSxiz1v,Phil Wickham;Chandler Moore;Maverick City Music;Mav City Gospel Choir,Worthy of My Song (Worthy of It All),Worthy of My Song (Worthy of It All),58,506796,False,0.26,0.622,2,-6.619,1,0.0417,0.128,0.0,0.644,0.231,139.002,4,world-music
+43Vf5BA8PaR5drTVcABix3,Bethel Music;William Matthews,Be Lifted High,Deep Cries Out,45,314480,False,0.427,0.849,0,-7.014,1,0.0484,0.00214,0.0,0.441,0.272,150.028,4,world-music
+5btL5b8tZqaoRNNoCURgxC,Bethel Music;Kim Walker-Smith,Here Is Love,I Need You More,45,541213,False,0.446,0.467,2,-6.684,1,0.0306,0.00572,0.0,0.111,0.184,130.08,4,world-music
+3ZCDz9QVHABW1N39XfgJBf,Chris Tomlin,Holy Roar,Praise Is The Highway,39,296466,False,0.374,0.716,11,-6.065,1,0.0404,0.0179,0.0,0.0877,0.152,155.954,4,world-music
+69bi9FkxOVP5nI7VadHKjp,Hillsong Worship;Brooke Ligertwood,There Is More,The Passion - Live,46,272093,False,0.464,0.694,2,-6.593,1,0.0362,0.00426,0.0,0.686,0.288,139.916,4,world-music
+7zJg7aNCvTKW9EtG1Dvzkl,for KING & COUNTRY,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Fix My Eyes,57,215933,False,0.587,0.739,0,-5.762,1,0.0365,0.0539,2.08e-06,0.049,0.549,100.005,4,world-music
+1cKPHrpgYiKCYOSmv7DHHH,Hillsong Worship;Brooke Ligertwood,Team Night,That's The Power - Live at Team Night,46,319852,False,0.47,0.538,0,-7.742,1,0.0336,0.0547,0.0,0.174,0.0697,148.009,4,world-music
+4nL5eZM7nlC8cyQfKKYZQZ,Hillsong Worship;Brooke Ligertwood,There Is More,Remembrance (Live Acoustic) - Bonus,44,310760,False,0.522,0.199,4,-13.736,1,0.0301,0.812,0.0,0.107,0.107,140.033,4,world-music
+573mudwDhftRSSbvLHC8xS,Kim Walker-Smith,Still Believe (Live),Spirit Break Out - Live,55,382573,False,0.185,0.717,4,-5.735,0,0.0455,0.0496,0.0,0.546,0.1,73.6,4,world-music
+6jVGHnqzyD5l23YpJQP7RW,Hillsong Young & Free,Out Here On A Friday Where It Began,Pride Of A Father - Live,49,312133,False,0.469,0.27,11,-10.886,1,0.0283,0.827,0.0,0.687,0.278,142.029,4,world-music
+7FOI7Ho79zyVSoL9EHGDIW,Hillsong Worship;Reuben Morgan,Awake,He Shall Reign - Studio,43,397320,False,0.308,0.351,4,-8.806,1,0.0278,0.0419,1.89e-05,0.314,0.125,144.108,4,world-music
+2XJ73OpbAluRnivJ4UI1C6,I AM THEY,Trial & Triumph,No Impossible with You,55,217866,False,0.552,0.883,5,-4.912,1,0.0409,0.00601,0.0,0.102,0.737,142.015,4,world-music
+1GoE6xwwZ20NbxCKVA5nz2,Chris Tomlin,How Great Is Our God: The Essential Collection,Indescribable - Arriving Album Version,49,238786,False,0.38,0.799,11,-4.128,1,0.0299,0.0818,0.0,0.108,0.407,179.848,3,world-music
+4Ma9gBNyCW8tbr8NMMPyEs,Hillsong Worship;Darlene Zschech,In Jesus' Name: A Legacy of Worship & Faith,Shout to the Lord,44,277272,False,0.377,0.412,9,-7.579,1,0.0255,0.222,0.0,0.118,0.261,76.009,4,world-music
+4Sqlq9shFIxvDnP8fFGB5h,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 2",32,344963,False,0.386,0.115,11,-17.686,0,0.0314,0.985,0.888,0.149,0.12,103.936,3,world-music
+31unYkU9GTvYYSDhVyJmpc,Hillsong Worship;Brooke Ligertwood,Awake,See The Light - Live at Hillsong Conference,43,250313,False,0.512,0.87,9,-6.745,1,0.0626,0.000829,0.0,0.945,0.309,115.942,4,world-music
+1ZC6jSfp8wnrD57BSSMSM6,Hillsong Worship,Awake,No One But You - Live at Hillsong Conference,44,522126,False,0.321,0.41,7,-9.671,1,0.0294,0.0397,2.7e-06,0.0917,0.0692,146.124,4,world-music
+6HRU0CPcG0q3Dq8XVBWacL,Bethel Music;Josh Baldwin,Stand In Your Love (Radio Version),Stand In Your Love (Radio Version),56,221333,False,0.461,0.802,0,-4.448,1,0.0325,0.112,0.0,0.116,0.342,144.518,4,world-music
+4lVkwkjR27tEl9i8ZG7MTb,Rend Collective,CHOOSE TO WORSHIP,I CHOOSE TO WORSHIP,54,266946,False,0.515,0.648,2,-6.035,1,0.0358,0.00826,0.0,0.0968,0.357,134.937,4,world-music
+5WaioelSGekDk3UNQy8zaw,Matt Redman,Sing Like Never Before: The Essential Collection,Our God - New Recording,34,265373,False,0.487,0.895,11,-5.061,1,0.0413,0.000183,0.0,0.359,0.384,105.021,4,world-music
+6M71YDFupcg9UTkR1ED57g,Hillsong Worship,let there be light.,Let There Be Light,47,451946,False,0.285,0.438,0,-10.007,1,0.0316,0.0563,0.000239,0.987,0.155,141.822,4,world-music
+6eYawsVsCvja8wXmcshtdI,Lincoln Brewster,Let the Praises Ring: The Best of Lincoln Brewster,Everlasting God,47,287434,False,0.534,0.763,11,-6.348,1,0.0304,0.00285,0.0,0.0655,0.634,109.971,4,world-music
+03dRFCBePUxmKYrL9im8v0,Hillsong Worship;Brooke Ligertwood;David Ware,These Same Skies (Studio),Fresh Wind - Studio,46,273183,False,0.559,0.413,0,-9.166,1,0.029,0.134,0.0,0.0967,0.385,125.976,4,world-music
+4xuToNvDiZHnDQVujjK49s,Vertical Worship,Church Songs,Spirit of the Living God,54,339480,False,0.368,0.531,2,-6.553,1,0.0317,0.0298,0.0,0.639,0.166,133.962,4,world-music
+4VFWvbMMb23ixVFEc6edX0,Hillsong Worship;Delirious?,iWorship: No Boundaries,I Could Sing of Your Love Forever,47,227026,False,0.204,0.551,2,-7.447,1,0.0331,0.046,0.0,0.161,0.142,153.285,4,world-music
+0S2dqmIdV30dhoNV4BHNTO,Chris Tomlin,Always,Always,50,247294,False,0.405,0.532,0,-7.063,1,0.0289,0.00788,0.0,0.0792,0.27,157.95,3,world-music
+5h0DGzgQpKTyXL0bH5cvXZ,for KING & COUNTRY,RELATE,RELATE,52,173500,False,0.695,0.568,10,-8.636,1,0.17,0.0684,6.92e-06,0.307,0.342,99.997,4,world-music
+7gbdU7Cuj07lHi0qW0vZcG,Bethel Music;kalley,We Will Not Be Shaken (Live),Ever Be - Live,54,322326,False,0.394,0.56,2,-6.925,1,0.0281,0.00162,0.000582,0.107,0.107,138.057,4,world-music
+4DrI28RhuPmHn0LdGKf6wN,Audrey Assad,Inheritance,It Is Well with My Soul,51,251303,False,0.373,0.0851,11,-10.6,1,0.0312,0.92,0.0,0.108,0.28,75.232,4,world-music
+15ieUaAegwQRlmEigRUwTv,Aaron Shust,Ever Be,Ever Be,49,230093,False,0.453,0.729,9,-4.767,1,0.0462,0.00775,0.0,0.12,0.413,144.031,4,world-music
+3QMwYjjg2r9jdzj6w6vR6e,Phil Wickham;Chris Quilala,You Cannot Be Stopped,You Cannot Be Stopped,52,261360,False,0.479,0.614,2,-9.055,1,0.0364,0.0995,0.0,0.104,0.154,90.997,4,world-music
+23siGWx4ojJGFXeySD6CVt,Hillsong Young & Free;Alexander Pappas,Youth Revival,Real Love (Live),48,227573,False,0.506,0.89,2,-5.862,1,0.0434,0.00263,0.0,0.98,0.457,139.96,4,world-music
+2fOs1YeQPjNEIZgLbI80h5,for KING & COUNTRY;MORIAH;Courtney,Burn The Ships,Pioneers,51,323946,False,0.475,0.385,5,-9.966,0,0.028,0.386,0.00348,0.0968,0.0845,99.997,4,world-music
+2ulN39Ben05IHc5AUOgOqG,Hillsong Worship,OPEN HEAVEN / River Wild,One Thing,45,373271,False,0.508,0.51,0,-7.485,1,0.0281,0.144,0.0,0.68,0.0905,113.046,4,world-music
+36xYoOtShnAMxoMfdblRIZ,Phil Wickham;Anne Wilson,Behold,Behold,40,264160,False,0.44,0.566,11,-7.451,1,0.033,0.214,0.0,0.0657,0.338,146.97,3,world-music
+0jdWct4BgFwuZVWAtAg3DL,Phil Wickham,Children of God,Your Love Awakens Me,51,233720,False,0.498,0.89,1,-4.607,0,0.0486,0.00078,0.0,0.0924,0.392,100.956,4,world-music
+2s1a8wNeH6IiOSowWj9veS,Audrey Assad,Inheritance,Be Thou My Vision,53,213730,False,0.194,0.324,1,-12.412,1,0.0338,0.902,0.196,0.109,0.157,169.758,3,world-music
+20iakTsX1xqTvcqKYH6W8k,Passion;Kristian Stanfill,Passion: White Flag,One Thing Remains - Live,45,348485,False,0.304,0.674,11,-6.012,1,0.039,0.0506,0.000218,0.548,0.163,148.039,4,world-music
+68x16tb33FQdWyiOaZYteP,Lincoln Brewster,Oxygen,There Is Power,53,225187,False,0.509,0.871,2,-5.855,1,0.0519,0.00837,0.0,0.124,0.351,80.008,4,world-music
+3az1K7WlXr9OLsVUivPlxx,Hillsong Worship,There Is More,Touch Of Heaven (Live Acoustic) - Bonus,46,377626,False,0.498,0.103,9,-13.925,1,0.0317,0.879,0.0,0.106,0.108,134.852,4,world-music
+53ZlW7K2N8TBFonJLLruLw,Hillsong Worship,let there be light.,Elohim,44,269546,False,0.349,0.242,3,-9.713,1,0.028,0.763,1.12e-06,0.218,0.0749,134.114,4,world-music
+6R6V0yswnkY01L9buDZa7O,Hillsong Worship;Brooke Ligertwood,These Same Skies (Live),Resurrender - Live,48,422135,False,0.45,0.434,0,-9.544,1,0.0295,0.148,0.0,0.0697,0.143,139.93,4,world-music
+2owGrDWxxSiC66DqLg8dA7,Planetshakers,Endless Praise (Live),Made For Worship - Live,39,373186,False,0.34,0.842,1,-4.558,1,0.0523,0.00714,0.0,0.157,0.163,151.937,4,world-music
+2aVWXW3JC6MHK5TzwrezIZ,Chris Tomlin,Never Lose Sight (Deluxe Edition),Come Thou Fount (I Will Sing),45,299786,False,0.436,0.408,2,-7.913,1,0.0282,0.236,0.0,0.107,0.281,135.832,3,world-music
+1tlyPIx6lL2g4Em8JbHDcR,Chris Tomlin;Nicole Serrano,Holy Roar,I Stand In Awe,42,257240,False,0.317,0.27,3,-9.204,1,0.0298,0.796,7.77e-06,0.186,0.197,137.401,4,world-music
+34n8xD9eHSdpwIGffhSLvW,for KING & COUNTRY;Dolly Parton,God Only Knows (with Dolly Parton),God Only Knows (with Dolly Parton),53,213653,False,0.656,0.561,11,-5.626,0,0.0495,0.276,0.0,0.143,0.469,143.962,4,world-music
+6xYHIXSrucTcC9AXoTBEoB,Chris Tomlin,Never Lose Sight (Deluxe Edition),Yes And Amen,47,306013,False,0.459,0.712,2,-4.721,1,0.0337,0.148,0.0,0.0895,0.349,151.945,4,world-music
+6HUSALGkJg1m4089T4inbI,Planetshakers,Greater (Live),Beauty For Ashes - Live,45,227220,False,0.433,0.92,10,-5.111,1,0.103,0.01,0.0,0.479,0.193,127.882,4,world-music
+0h5C31CdrgABjHATYcBq6e,Audrey Assad;Fernando Ortega,Inheritance,"Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",48,157337,False,0.405,0.134,9,-11.84,1,0.0292,0.954,0.000203,0.0681,0.28,80.007,3,world-music
+4HnbSlpOft2KHemDU1x3Vt,Chris Tomlin;Lecrae,Burning Lights,Awake My Soul,41,234728,False,0.552,0.85,7,-4.086,1,0.0297,0.00234,5.18e-05,0.227,0.307,106.887,4,world-music
+7GoYovaEPv6dpjxbiPVN4s,Hillsong Worship,Glorious Ruins,Glorious Ruins,45,533160,False,0.394,0.639,6,-6.847,1,0.0307,0.38,0.000181,0.206,0.12,137.034,4,world-music
+41q8IpBfJMjKZr3XCFTkdP,Hillsong Worship,For All You've Done (Live),With All I Am,47,443400,False,0.417,0.395,2,-9.227,1,0.029,0.78,0.0179,0.252,0.0811,137.78,4,world-music
+1BubUaiRcdN5mdhBS27Pkf,Las Olas Del Mar,Las Olas del Mar,Las Olas del Mar,31,62563,False,0.136,0.863,7,-28.098,1,0.0699,0.545,0.923,0.504,0.00766,142.748,3,world-music
+62shNor7VDjzBx8SC9YTPm,Chris Tomlin,Holy Roar,Praise Him Forever,44,293733,False,0.448,0.895,9,-4.265,1,0.0886,0.00413,0.0,0.0752,0.205,130.078,4,world-music
+4GTkBqQwkjGpOjwgCPnabN,Rend Collective,Good News (Deluxe Edition),Nailed To The Cross,52,245738,False,0.44,0.778,9,-5.161,1,0.0472,0.0167,0.0,0.097,0.231,160.054,3,world-music
+2RwzuFDm2uqTaMMXXSZSw6,Chris McClarney,Everything And Nothing Less (Live),God Of Miracles - Live,54,326613,False,0.408,0.544,10,-8.28,1,0.0305,0.0307,0.0,0.958,0.0907,74.994,4,world-music
+2hJtYiDfwn57achG9nuiyl,Chris Tomlin,Arriving,Unfailing Love,40,239973,False,0.599,0.647,8,-5.846,1,0.0257,0.395,0.0,0.129,0.52,141.93,4,world-music
+39j8vHnmQYpN87ifGIK7UK,Hillsong Worship,There Is More,Remembrance - Live,46,335973,False,0.365,0.51,11,-8.067,1,0.0276,0.229,1.73e-06,0.554,0.13,139.854,4,world-music
+2Bc7hzJcTjSQ7Ns4n8qobW,Cesária Evora,Sao Vicente,Tiempo Y Silencio,31,199266,False,0.712,0.368,7,-8.972,0,0.0312,0.848,5.38e-06,0.149,0.411,120.051,4,world-music
+36AKA4ge37GanDDTYKFg2g,Rend Collective,Good News (Deluxe Edition),Resurrection Day,51,223000,False,0.495,0.911,0,-3.764,1,0.0454,0.246,0.0,0.138,0.615,164.047,4,world-music
+5gnMKEfIyg2zu84vfmfSpa,Chris Tomlin,How Great Is Our God: The Essential Collection,We Fall Down,46,280960,False,0.37,0.249,6,-10.077,1,0.0312,0.415,2.72e-06,0.0726,0.151,135.934,4,world-music
+37bJkchCs6NwEQeXzuS0uY,"Phillips, Craig & Dean",Let the Worshippers Arise,You Are God Alone (Not a God),49,258440,False,0.466,0.575,1,-8.053,1,0.0306,0.094,0.000116,0.0892,0.255,141.954,4,world-music
+7GKRdRDyYBCK5Y4WMuLtPn,Chris Tomlin,Holy Roar,"Goodness, Love And Mercy",41,260519,False,0.524,0.697,0,-4.683,1,0.0303,0.121,0.0,0.102,0.24,95.95,4,world-music
+4zYvDOveReSl6t86OfBMCU,Highlands Worship,Jesus You Alone,Jesus You Alone,54,372150,False,0.276,0.54,4,-7.566,1,0.0352,0.00823,0.0,0.929,0.0965,159.749,3,world-music
+5k6or66S86HbgZN3Zrf5Dw,Mc_team,Frecuencias Curativas Solfeggio 369 Hz,396 Hz Liberación del Miedo y la Culpa,30,172148,False,0.138,0.00738,5,-33.578,0,0.0593,0.988,0.699,0.101,0.163,143.868,4,world-music
+6ci70PFY04KxK9oFOceqMw,Michael W. Smith,Worship,Draw Me Close - Live,47,254800,False,0.46,0.326,10,-11.081,1,0.026,0.627,1.41e-05,0.704,0.265,72.053,4,world-music
+22wEdAfAi35HqfNBCRzaz4,Bryan & Katie Torwalt,Kingdom Come,When You Walk Into The Room,56,288640,False,0.21,0.58,10,-8.751,1,0.0359,0.0339,0.000105,0.13,0.118,143.753,4,world-music
+2GwhmLK4T0l15MRxy56PCu,Hillsong Worship;Passion;Chidima;Jenn Johnson;Brooke Ligertwood,At Easter,Agnus Dei / King of Kings,44,402973,False,0.262,0.516,2,-7.225,1,0.0376,0.394,0.0,0.107,0.177,135.789,4,world-music
+4qGwoTBvRhJ7YGeoQGytJV,Chris Tomlin,And If Our God Is For Us...,I Lift My Hands,48,278013,False,0.433,0.542,11,-5.589,1,0.0264,0.157,6.56e-05,0.12,0.158,83.938,4,world-music
+5WaioelSGekDk3UNQy8zaw,Matt Redman,Sing Like Never Before: The Essential Collection,Our God - New Recording,34,265373,False,0.487,0.895,11,-5.061,1,0.0413,0.000183,0.0,0.359,0.384,105.021,4,world-music
+5dTg6siS27l7o2ZYWdkFoq,Hillsong Worship;Reuben Morgan,God Is Able (Live),God Is Able,42,280160,False,0.34,0.81,11,-5.567,1,0.0365,0.0165,6.92e-06,0.21,0.104,157.972,4,world-music
+3ExKJt4K8duUfEG49QWzPi,Bethel Music;Jeremy Riddle,For the Sake of the World,This Is Amazing Grace,50,452013,False,0.437,0.735,0,-6.606,1,0.0301,0.00206,2.15e-05,0.701,0.145,98.923,4,world-music
+6iycYNyYgphDgTsKfwpqhr,Matt Redman,Sing Like Never Before: The Essential Collection,You Never Let Go,43,277306,False,0.219,0.771,11,-5.047,1,0.0544,0.115,0.0,0.113,0.272,157.76,4,world-music
+4s4bRV7Hdmw127h83Hfi9F,Chris Tomlin,Christian Music's Best - Worship,Your Grace Is Enough,43,248241,False,0.575,0.871,9,-4.408,1,0.0332,0.00312,0.0,0.364,0.517,119.987,4,world-music
+7rqAUvqxpNHKgEFQw6sFSt,Hillsong Young & Free;Alexander Pappas,III,Love Won't Let Me Down,46,207413,False,0.67,0.822,7,-6.227,1,0.0379,0.00201,1.15e-06,0.0915,0.348,124.09,4,world-music
+60GTOisUSdUksjMzq17XvO,for KING & COUNTRY,What Are We Waiting For?,Love Me Like I Am,53,184103,False,0.492,0.429,4,-8.126,1,0.0392,0.0368,0.000164,0.0887,0.0981,159.746,4,world-music
+7dgURqWJNjjnKYkmlK1yUi,Kari Jobe,Spotify Singles,In The Name Of Love - Recorded At Spotify Studios NYC,48,205738,False,0.675,0.375,6,-8.985,1,0.045,0.542,2.5e-06,0.0952,0.187,134.027,4,world-music
+34plEFbj6nBMG7esY9rzim,Passion;Brett Younker,Worthy Of Your Name (Live),Build My Life - Live,52,459466,False,0.323,0.467,7,-7.282,1,0.0334,0.221,0.0,0.115,0.0626,139.506,4,world-music
+0WznLeFE5gOyBU8mUyDx4d,Cory Asbury,Dear God (Acoustic),Dear God - Acoustic,49,217373,False,0.577,0.224,3,-11.479,1,0.035,0.867,0.0,0.112,0.53,153.758,4,world-music
+35xxlDrbgHAbOMYLoTrImH,Passion;Chris Tomlin,Passion: Here For You (Live),Here For You - Live,44,280477,False,0.363,0.638,1,-6.088,1,0.0303,0.0142,0.0,0.722,0.136,170.088,4,world-music
+0UL9awCNZORZpqGzinoBO2,Paul Baloche,Hosanna (Praise Is Rising) [Audio Performance Trax],Hosanna (Praise Is Rising),44,316548,False,0.552,0.71,7,-8.619,1,0.0298,0.00215,2.73e-06,0.182,0.445,115.975,4,world-music
+3zT4HsLsuLyqRblEqouOOP,Darlene Zschech,Here I Am Send Me (Live),Here I Am Send Me - Live,30,476420,False,0.401,0.668,2,-8.731,0,0.0404,0.0224,0.0,0.122,0.277,75.995,4,world-music
+5aHZnvy8EqhViyoJo971Wy,for KING & COUNTRY,Burn The Ships,Amen,55,227013,False,0.64,0.469,7,-8.718,1,0.0412,0.00758,0.000453,0.0711,0.305,90.001,3,world-music
+0WsXGJzmsAXxxVIsHS9SBW,"Phillips, Craig & Dean",Restoration,When God Ran,47,318160,False,0.557,0.41,1,-10.323,1,0.0264,0.0918,0.0,0.165,0.0945,97.023,4,world-music
+5ExBj7cdyNLZ1t5PalfPWa,Chris McClarney;Hollyn,Fill This Place (Live),I'm Listening - Radio Version,53,248854,False,0.411,0.706,2,-7.321,1,0.0372,0.0126,0.0,0.149,0.274,144.049,4,world-music
+1S2yuNLsKtee4wTsRLC0ul,Chris Tomlin;Chris Lane,Chris Tomlin & Friends,Gifts From God (feat. Chris Lane),45,202240,False,0.515,0.841,8,-3.753,1,0.0382,0.266,0.0,0.259,0.82,156.061,4,world-music
+40Ka89QSyNMAbkDnIwnWyn,Hillsong Worship,Spotify Singles,Obsession - Recorded at Sound Stage Nashville,42,356285,False,0.52,0.344,2,-10.132,1,0.0243,0.0173,0.00467,0.0856,0.0825,77.968,4,world-music
+6dcVuuFbBFNHux4RDepCxZ,Hillsong Young & Free,All Of My Best Friends,Indescribable - Live,43,218266,False,0.364,0.864,5,-5.742,1,0.0704,0.0305,0.0,0.979,0.394,104.992,4,world-music
+14I9CpiA1CMTdLga8SKAjJ,Bethel Music;Amanda Cook,You Make Me Brave (Live),You Make Me Brave - Live,54,366160,False,0.422,0.672,3,-6.629,1,0.0333,0.0163,0.00203,0.108,0.342,137.933,4,world-music
+3lqLz5HJ7JFMcOKMNIH3Uo,Phil Wickham,Living Hope (The House Sessions),How Great Is Your Love,41,394626,False,0.441,0.423,0,-9.573,1,0.0291,0.179,0.0,0.0639,0.103,73.9,4,world-music
+4o9ZocOOoe5n7gXiCaLuWs,Starfield,Beauty In The Broken,Unashamed - Beauty In The Broken Album Version,49,304853,False,0.442,0.458,5,-7.875,1,0.0259,0.0979,0.0,0.187,0.139,153.991,4,world-music
+7wgzG5AFCpAmU80Buk9i0j,Michael W. Smith,The Second Decade 1993-2003,Above All - Live,44,273866,False,0.383,0.351,10,-9.385,1,0.0298,0.594,1.18e-06,0.942,0.192,135.582,4,world-music
+2yUVCrzeOEChacYpE0MUAP,Planetshakers,Legacy (Live),Alive Again - Live In Manila,48,252149,False,0.561,0.925,1,-5.77,1,0.0566,0.000184,0.0119,0.606,0.614,126.019,4,world-music
+1ZJ8pODFM2y5DeSthUTBrC,Bethel Music;Brian Johnson,Simple,I Still Believe,54,305768,False,0.414,0.25,9,-11.802,1,0.029,0.776,0.0,0.0886,0.25,148.402,4,world-music
+5uP35U4Sal7M9jYOGjC7hM,Hillsong Worship;Aodhan King,Resurrender,Resurrender - Live at Team Night,43,428567,False,0.402,0.411,0,-8.46,1,0.0303,0.049,0.0,0.106,0.11,140.132,4,world-music
+16lF3B47C7KM9GPok917Ap,Passion;Kristian Stanfill;Kari Jobe;Cody Carnes,Roar (Live From Passion 2020),Way Maker - Live From Passion 2020,49,412227,False,0.414,0.679,2,-7.806,1,0.0427,0.0184,0.0,0.0895,0.183,138.149,4,world-music
+3CxO2k87MVTRqPUVuYhnFm,Michael W. Smith,Christmas at Home,Christmas Is Here,1,206165,False,0.219,0.281,0,-9.79,1,0.0322,0.796,0.0,0.0773,0.301,183.446,3,world-music
+0Z6NbNX43bPaHylvR2yvCV,Michael W. Smith,Christmas at Home,Christmas Is Here - Radio Edit,1,181143,False,0.226,0.279,0,-8.73,1,0.0299,0.738,0.0,0.141,0.354,183.6,3,world-music
+4CfhzPd0hIm8Zn5qUI5ybf,Reiki Armonía;Maestros de musica de la meditacion;Canciones De Cuna Para Dormir Bebes,Meditación Con Amor y Amabilidad Vol. 1,Céntrate En Ti Mismo,29,120000,False,0.254,0.00147,9,-27.251,0,0.0533,0.996,0.999,0.119,0.0251,35.79,4,world-music
+2YEJL2fwTq6RpH5PtdQfge,Michael W. Smith,Christmas at Home,God with God,1,250859,False,0.226,0.388,8,-8.44,1,0.0314,0.535,0.0,0.103,0.158,114.126,4,world-music
+2ZohuMP9amLDPubKYsPXjA,Hillsong Worship,Christmas: The Peace Project,Seasons,44,274386,False,0.286,0.498,0,-7.77,1,0.0296,0.0751,0.0,0.106,0.227,142.516,3,world-music
+5dvZzijbqmJ0lgUq9j9eG3,Hillsong Worship;Benjamin William Hastings,There Is More,Seasons (Live) - Bonus,45,279933,False,0.275,0.538,0,-7.42,1,0.0372,0.029,0.0,0.673,0.101,145.685,3,world-music
+0MBuO5wzBy07IjiyrLCoFo,Starfield,The Saving One,The Saving One,47,246573,False,0.376,0.733,2,-3.825,1,0.0311,7.17e-06,0.0,0.075,0.264,144.059,4,world-music
+0tpVWJz22EjKfcCT8BcBht,Hillsong Worship,Shout to the Lord (Special Gold Edition),The Power of Your Love,40,302093,False,0.454,0.396,7,-11.462,1,0.0242,0.0431,1.83e-05,0.645,0.255,80.784,4,world-music
+7GI4rfvBq7dxCktVuMRnSH,Hillsong Worship,A Beautiful Exchange (Live),Forever Reign,43,343893,False,0.172,0.599,0,-7.63,1,0.0332,0.188,0.00019,0.339,0.0687,83.016,4,world-music
+7GwYyLNFyAsSsmt2aa0z6u,Michael W. Smith,Christmas at Home,Freeze The Frame,1,231873,False,0.392,0.285,5,-11.236,1,0.0309,0.694,0.0,0.11,0.212,70.792,4,world-music
+6RNypYZTcpgYIsLNazd1qW,Jesus Culture;Kim Walker-Smith,Jesus Culture Em Português,Mostra-me Tua Gloria,30,405306,False,0.459,0.76,2,-7.419,1,0.0414,0.00603,1.78e-05,0.0669,0.0587,146.064,4,world-music
+1vLyRxwjTGHixEwnpBXkKa,Hillsong Worship,Ultimate Worship Vol 1,Shout to the Lord,41,289480,False,0.405,0.581,9,-5.499,1,0.031,0.232,0.0,0.332,0.18,77.217,4,world-music
+1jnU6ZJXnSSwxfmjGGed2J,Chris Tomlin,Always,Holy Forever,47,308066,False,0.453,0.704,1,-4.62,1,0.0351,0.226,0.0,0.118,0.271,144.004,4,world-music
+5WKEKguT5QbGZG7Klh1Ccd,Chris Tomlin,Always,The Answer,43,215399,False,0.532,0.726,1,-4.474,1,0.0296,0.0199,3.1e-06,0.099,0.404,89.971,4,world-music
+3WVDGjwLYHdtIFYcfyUkgM,Chris Tomlin,Holy Roar,Satisfied,39,213013,False,0.572,0.786,1,-3.628,1,0.0442,0.0166,0.0,0.0378,0.381,87.991,4,world-music
+7jQpjGSWuxXT84p00VF9EH,Passion;Kristian Stanfill,There’s Nothing That Our God Can’t Do (Live),There’s Nothing That Our God Can’t Do - Live,48,303653,False,0.507,0.848,8,-5.571,1,0.0304,0.00402,5.54e-06,0.101,0.343,105.019,4,world-music
+7hlRDPH40A6qC98Q7aNB2C,Chris Tomlin;Pat Barrett,Holy Roar,How Sweet It Is,40,219560,False,0.468,0.157,6,-11.996,1,0.031,0.837,0.0,0.191,0.356,135.415,4,world-music
+59jGIptqj3Z8Z75QV3IdmD,Chris Tomlin,Holy Roar,Forever Young,38,247800,False,0.258,0.677,2,-5.258,1,0.0366,0.00836,0.0,0.0904,0.144,111.874,4,world-music
+0D3Sk50zjkHC7RZCSntomo,Mc_team,Música Relajante Para Calmar La Mente,Cantos Gregorianos Sanadores,29,1457998,False,0.144,0.0389,2,-27.084,0,0.0463,0.985,0.688,0.096,0.0334,77.219,3,world-music
+7ktXVe69SF3sZoTCo54VIX,Planetshakers,Greater (Live),Victory Of Jesus - Live,52,400897,False,0.448,0.795,4,-7.069,1,0.0585,0.0013,4.52e-06,0.197,0.133,150.017,3,world-music
+7FoR7NSegGv5kTSMhNC2sn,Bethel Music;Brian Johnson;Jenn Johnson,Victory (Live),Living Hope - Live,46,304813,False,0.386,0.67,1,-6.817,1,0.0387,0.087,0.0,0.107,0.214,143.842,4,world-music
+29YUMVIUxuMi2QtK6sg0lI,Jesus Culture;Chris Quilala,Come Away (Live),One Thing Remains - Live,46,520053,False,0.241,0.912,11,-5.751,1,0.0765,0.000655,0.00207,0.717,0.149,143.989,4,world-music
+20ByU9GDZOICvcMQfBWGtj,Hillsong Worship;Brooke Ligertwood,Team Night,Eagle's Wings - Live at Team Night,45,196021,False,0.42,0.257,0,-11.963,1,0.029,0.775,2.62e-06,0.106,0.121,92.228,5,world-music
+4JSHSBPIwUMzjF6v1jWLdi,Hillsong Worship;Benjamin William Hastings,There Is More,The Lord's Prayer - Live,44,368506,False,0.35,0.537,9,-8.012,1,0.0311,0.00744,0.0,0.831,0.123,137.92,4,world-music
+0T3iZrykxliMyN1yeunXQh,Vertical Worship,Grace Is On Our Side,Faithful Now,56,234560,False,0.156,0.739,11,-6.062,1,0.0436,0.0462,0.0,0.158,0.186,73.354,4,world-music
+0SkZ2cIkpA9t8FquCjM08N,Passion;Brett Younker,Glorioso Día,Construir Mi Vida,30,394466,False,0.36,0.558,7,-6.479,1,0.0339,0.0735,1.51e-05,0.138,0.0931,139.676,4,world-music
+1ExpEXUOW2KzpfV0v8iWUp,Matt Redman,Your Grace Finds Me (Live),Your Grace Finds Me - Live,47,340826,False,0.455,0.715,10,-5.614,1,0.0259,0.0998,4.78e-06,0.897,0.342,76.494,4,world-music
+0yqWOXyvDtC2ol1Idz8r8J,Rend Collective,Homemade Worship by Handmade People,Build Your Kingdom Here,55,257959,False,0.456,0.508,2,-14.339,1,0.0402,0.0218,0.0,0.237,0.553,133.965,4,world-music
+5Wqz0Ayyr6ciO1oSAujrGj,Hillsong Young & Free,III,P E A C E,43,238493,False,0.437,0.357,11,-12.497,0,0.0281,0.49,0.00633,0.0937,0.132,127.949,3,world-music
+5oiNJJdKqJ5Vfwion1dR1n,Bethel Music;David Funk,Touch of Heaven / Alabaster Heart (Live),Touch of Heaven / Alabaster Heart - Live,49,630228,False,0.388,0.554,6,-8.562,0,0.0318,0.0131,0.00768,0.0794,0.14,135.078,4,world-music
+35sVDinWrh5nYjpzPXe4qz,Bethel Music;Jenn Johnson,"Peace, Vol. II",You're Gonna Be Ok,48,261519,False,0.487,0.15,8,-10.057,1,0.0402,0.912,0.0,0.11,0.222,117.995,4,world-music
+4wiv0itDHcgSB8IjOxn4SA,Bethel Music;Cory Asbury;Naomi Raine,Homecoming (Live),Reason To Praise - Live,55,510726,False,0.274,0.573,7,-7.881,1,0.0391,0.0604,1.2e-06,0.537,0.223,126.319,3,world-music
+7zvGj5jjRIBRqT82crTMVf,Phil Wickham,Hymn of Heaven,"1,000 Names",38,344200,False,0.47,0.693,10,-5.803,1,0.0443,0.153,0.0,0.115,0.115,129.139,4,world-music
+0FqT68Su7VQHXDH1WsF7aW,Chris Tomlin,Jesus,Jesus,34,249160,False,0.441,0.745,9,-4.279,1,0.0315,0.0105,0.0,0.199,0.298,76.994,4,world-music
+0hhyxHohjhc6d2Tg7FvQhZ,Lincoln Brewster,God of the Impossible (Deluxe),God of the Impossible,38,283066,False,0.546,0.708,10,-6.406,1,0.0335,0.0288,0.0,0.133,0.371,121.994,4,world-music
+3bIzAIUOuFdwczUbjWvgI6,Darlene Zschech,Revealing Jesus,Jesus At The Center - Live,44,405173,False,0.218,0.573,2,-6.748,1,0.0346,0.0102,0.0,0.159,0.125,138.447,4,world-music
+5yNffCuv0YGOgRazVMfEP6,I AM THEY,Tremble,Tremble,52,238546,False,0.442,0.532,0,-6.085,0,0.0352,0.0191,0.0,0.104,0.243,147.735,4,world-music
+2qHScCZ9f4FPBNVBpFMZ0G,Jesus Culture;Kim Walker-Smith,Let It Echo (Live),In The River - Live,50,277173,False,0.546,0.9,7,-5.571,0,0.0408,0.000459,4.33e-06,0.318,0.279,118.008,4,world-music
+11eR3j6v07i70jh1jz6e67,Phil Wickham;Brandon Lake,Hymn of Heaven,Where I'm Standing Now,40,270560,False,0.303,0.685,8,-6.018,1,0.0409,0.0834,0.0,0.14,0.248,155.862,3,world-music
+5UKiOsxr7Q3NQT2LkyFt9n,Jesus Culture;Kim Walker-Smith,Living With A Fire (Live),Freedom - Live,52,391053,False,0.541,0.841,7,-5.29,1,0.0421,0.000179,0.0,0.938,0.277,124.005,4,world-music
+5pNavG44Qct8Vm5vQDDxYF,for KING & COUNTRY,Crave,The Proof of Your Love,53,197320,False,0.396,0.671,0,-6.953,0,0.0351,0.0984,0.0,0.0844,0.257,156.072,4,world-music
+2x1OHiX3PqNZ7NcWSjPQ0w,Darlene Zschech,Revealing Jesus,God Is Here - Live,40,364053,False,0.358,0.741,2,-6.633,1,0.0613,0.000167,1.45e-06,0.555,0.0752,121.133,4,world-music
+0mqDhUDKwpnDvIFoQYR524,Cory Asbury,Reckless Love,Endless Alleluia,56,265377,False,0.261,0.179,9,-10.423,1,0.0368,0.848,0.0,0.113,0.229,77.473,4,world-music
+5WGpg5FAO6OOm396QS53Re,Phil Wickham,You Are I Am - 6 Essential Christian Pop Songs,You're Beautiful,26,293720,False,0.329,0.518,3,-7.715,1,0.0286,0.0749,0.0278,0.149,0.187,166.115,4,world-music
+54swLoNkqkw4yMjkMVQtRN,Hillsong Worship;Delirious?,[UP] UNIFIED:PRAISE (Live),Majesty (Here I Am),29,366893,False,0.501,0.641,1,-7.683,1,0.0265,0.00111,1.26e-06,0.0686,0.281,142.062,4,world-music
+31XV6mfKY1Vdyb6KuNfArI,Tenth Avenue North,No Shame,Greater Than All My Regrets,49,256782,False,0.363,0.525,7,-6.234,1,0.0385,0.0844,0.0,0.0777,0.164,143.918,4,world-music
+3HXfNHAwafX6GVzQBrhFTD,Chris Tomlin,Burning Lights,Sovereign,41,275491,False,0.464,0.549,9,-6.19,1,0.0322,0.466,0.0,0.0616,0.0505,142.029,4,world-music
+2KGCoNE3ID4elLLLw3q2lI,Hillsong Young & Free;Alexander Pappas,We Are Young & Free,Alive (Studio),38,227600,False,0.714,0.743,1,-3.494,0,0.0464,0.00168,2.81e-05,0.064,0.683,131.997,4,world-music
+24UZjJnRpd3k94FCXYhyl0,Hillsong Young & Free,All Of My Best Friends,Uncomplicated - Live,42,349000,False,0.399,0.461,7,-9.841,1,0.0283,0.0449,1.41e-05,0.352,0.208,143.997,4,world-music
+2NFYkgjUiiKgplnB7tgjoe,Jesus Culture;Kim Walker-Smith,Come Away (Live),Rooftops - Live,49,471213,False,0.449,0.684,4,-5.195,1,0.0362,0.0377,0.0,0.717,0.156,100.029,4,world-music
+3mNVXuLY3MHMRc8CMKLGuu,Matt Redman,Son of Suffering,Son of Suffering,50,455362,False,0.49,0.565,0,-10.45,1,0.0327,0.0743,6.88e-06,0.119,0.271,142.047,4,world-music
+5Eq1Z4rkhksRO09wOH3GSm,Hillsong Young & Free,All Of My Best Friends,World Outside Your Window - Live,43,313133,False,0.319,0.72,9,-7.452,1,0.042,0.000372,0.0,0.453,0.36,136.816,4,world-music
+7F3VROOXA3kwdmHlNFgtCO,Kari Jobe,Where I Find You,Love Came Down,46,293106,False,0.401,0.683,8,-5.722,1,0.0401,0.181,0.0,0.0837,0.226,135.951,4,world-music
+7lPM8uXuIO5MDWv6L0TPaZ,for KING & COUNTRY,Burn The Ships,"Fight On, Fighter",53,218106,False,0.616,0.641,1,-6.696,1,0.0354,0.0104,0.0,0.0813,0.134,107.979,4,world-music
+1HS8qdPU2WgwFEAJZZIS0C,Hillsong Worship;Brooke Ligertwood,Saviour King (Live),Hosanna,41,376866,False,0.389,0.744,4,-6.983,1,0.0359,0.0782,1.23e-05,0.174,0.114,152.791,4,world-music
+5Qmf84ccZFZ1xryTCH6FO5,for KING & COUNTRY,What Are We Waiting For?,Cheering You On,48,202383,False,0.518,0.391,7,-11.55,0,0.098,0.0711,9.51e-05,0.0845,0.253,147.989,4,world-music
+5EYzrykQ95uOmepteDi9KT,El Ruido Blanco;Soñoliento Juan;Mantra para Dormir,Aire Acondicionado de Ruido Blanco,Aire de verano,27,128000,False,0.0,0.188,8,-25.837,0,0.0,0.139,0.339,0.122,0.0,0.0,0,world-music
+5Yc0v1nWEbZHgq7cXqlDIi,Kari Jobe,Where I Find You,Steady My Heart,43,217893,False,0.58,0.654,7,-4.0,1,0.0262,0.0517,0.0,0.147,0.526,93.979,4,world-music
+1qxDqbzmWODOkr0Ja5Iotz,Michael W. Smith,Worship,Agnus Dei - Live,46,400800,False,0.323,0.34,9,-11.013,1,0.0308,0.477,6.67e-05,0.622,0.0983,135.842,4,world-music
+25A92qcO6w5ERUwKqt4UwC,Jesus Culture;Kim Walker-Smith,Esto Es Jesus Culture,Glorioso Eres Tú,28,264906,False,0.553,0.604,6,-6.67,1,0.0366,0.0341,0.0,0.106,0.114,108.055,3,world-music
+2U51UMaauzeR3uPaGCGTXT,Fondo de la lectura,Estudiar Con Sonidos de Truenos,"Estudiar Con Sonidos de Truenos, Pt. 03",28,97581,False,0.161,0.897,10,-22.398,0,0.0804,0.00163,0.92,0.863,0.0247,110.367,4,world-music
+7bEqhiJ4Umi4s4QaqjLB68,Planetshakers,This Is Our Time (Live),Joy - Live,45,243200,False,0.595,0.928,0,-3.539,1,0.0679,0.000354,0.0,0.955,0.569,124.018,4,world-music
+2ooZId1w8kz1FWe3WOT0iM,Chris Tomlin;Elevation Worship,Always,YAHWEH (No One) (with Elevation Worship),44,290633,False,0.538,0.797,10,-6.794,1,0.0568,0.014,0.0,0.0966,0.21,137.036,4,world-music
+4v3j3mqjPX0p7uohes7edY,Kathryn Scott,Live Worship At Focusfest,There Is a Redeemer,47,252920,False,0.276,0.228,0,-11.879,1,0.0291,0.876,0.0,0.0763,0.156,64.91,3,world-music
+15hBh5GGmDSsJvMbl8axF7,Planetshakers,Greater (Live),No. 1 Sound - Live,44,213879,False,0.569,0.914,6,-5.596,1,0.0606,0.00311,0.0,0.821,0.473,114.0,4,world-music
+3XWkCXFG7iAB6aDtsuftrG,Mc_team,Frecuencias Curativas Solfeggio 369 Hz,396 Hz Frecuencia del amor y la unidad,28,162565,False,0.17,0.0401,0,-31.853,1,0.0508,0.918,0.884,0.0889,0.0356,124.52,4,world-music
+6dpfUvKmpo6xHv5LLw1WWJ,Hillsong Worship,Hillsong Chapel: Forever Reign,Desert Song,44,243053,False,0.56,0.598,2,-6.016,1,0.0259,0.104,0.0,0.347,0.353,110.029,4,world-music
+5Gzoj8wHozuSPn4eOFIQu1,Kari Jobe,Kari Jobe Collection,Be Still My Soul (In You I Rest),47,311122,False,0.245,0.326,8,-8.735,1,0.0324,0.654,3.53e-06,0.121,0.163,122.006,4,world-music
+1AMCroLHu9Tho2lXzKaUWj,Lincoln Brewster,Today Is the Day,Today Is The Day,42,276746,False,0.527,0.929,2,-3.473,1,0.0451,0.0164,0.0,0.1,0.543,119.985,4,world-music
+2gBEoBsBhSHgjk5hUsGD2v,Hillsong Worship;TAYA,Team Night,Clean (+ spontaneous) - Live at Team Night,45,331082,False,0.308,0.435,0,-8.738,1,0.0311,0.0896,0.0,0.112,0.0794,135.842,4,world-music
+6ChFsa3xElTTIJAo460out,Chris Tomlin,How Great Is Our God: The Essential Collection,Forever,44,326960,False,0.554,0.705,10,-5.939,1,0.0404,0.0174,2.21e-05,0.121,0.133,118.008,4,world-music
+31Kb7jyAscJJma1gTXRUFQ,Chris Tomlin,How Great Is Our God: The Essential Collection,Holy Is The Lord - Arriving Album Version,44,252533,False,0.467,0.708,10,-4.149,1,0.0269,0.000992,0.0,0.238,0.422,83.954,4,world-music
+6p9Frj8pPOCWol6HMFihSs,Bethel Music;Jonathan David Helser;Melissa Helser,Homecoming (Live),I Believe - Live,52,456000,False,0.44,0.702,10,-6.759,1,0.0325,0.0197,3.79e-05,0.109,0.295,143.99,4,world-music
+1UOzgUuakMRQcKVTUTU6Pu,one sonic society;Essential Worship;Vertical Worship,Goodness of God (feat. Vertical Worship),Goodness of God (feat. Vertical Worship),52,287611,False,0.255,0.674,2,-7.147,1,0.0474,0.166,0.0,0.624,0.184,136.101,4,world-music
+73THBZXMt4CZD0RCaUDXid,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 3",28,314000,False,0.41,0.107,7,-17.474,1,0.0328,0.974,0.774,0.078,0.0712,64.018,4,world-music
+72hJbRHWFYDEAYHdGOX7EU,Matt Redman,Sing Like Never Before: The Essential Collection,Better Is One Day,43,290933,False,0.471,0.688,7,-6.55,1,0.0322,0.085,0.0,0.351,0.503,77.13,4,world-music
+0lSwLhBarLwM5XTFmBc8ri,Planetshakers,Nada Es Imposible,Todo mundo de Pie,29,239093,False,0.62,0.9,7,-4.158,1,0.0365,0.00332,0.0,0.0118,0.706,129.999,4,world-music
+07B2uqy1rZZsGCq3idEKBE,Rend Collective,CHOOSE TO WORSHIP,YOUR NAME IS POWER,52,234826,False,0.529,0.791,8,-6.234,1,0.0629,0.00161,1.68e-06,0.336,0.561,86.023,4,world-music
+5oNVcN0U025yRRH8pbl82p,Hillsong Young & Free,III,First Love,41,318226,False,0.44,0.696,8,-7.034,1,0.0329,0.0149,6.85e-06,0.137,0.168,79.967,4,world-music
+1glJZF62bpxXzaF2N5YWdb,Hillsong Young & Free;TAYA,We Are Young & Free,Wake (Studio),44,254946,False,0.531,0.673,4,-4.753,0,0.0325,0.000362,0.0,0.462,0.261,130.997,4,world-music
+3MYl1Q21PZjCEV4Qmj8yLt,Hillsong Kids,Jesus Is My Superhero,Superhero,35,184560,False,0.463,0.961,4,-3.173,1,0.111,0.00412,0.0088,0.431,0.535,134.005,4,world-music
+2w2rXEfI37pm7XhHIgebPm,Lincoln Brewster,God of the Impossible (Deluxe),While I Wait,45,298546,False,0.448,0.399,6,-8.303,0,0.0313,0.579,0.0,0.0762,0.12,73.959,4,world-music
+1d6BkMki9M6K0yp9OLBzOM,Actress,Karma & Desire,Fire and Light,57,75969,False,0.337,0.28,0,-18.646,0,0.0384,0.987,0.882,0.0851,0.0824,140.004,4,world-music
+3ToiZ2yRXXa1uap4JIMbPP,Hillsong Young & Free,We Are Young & Free,Sinking Deep (Live),43,448573,False,0.432,0.509,9,-5.716,1,0.0298,0.0862,1.13e-06,0.721,0.242,139.954,4,world-music
+2ZUEopklc3lUm4OXUPB6WS,Bethel Music;Brandon Lake,Too Good To Not Believe (Live),Too Good To Not Believe - Live,54,633462,False,0.355,0.734,0,-8.221,1,0.0509,0.00177,0.0,0.0965,0.237,143.964,4,world-music
+35jVid0Qi789ypoem4KMrs,Jesus Culture;Chris Quilala,Fierce (Studio Version),Fierce - Studio Version,50,222186,False,0.518,0.797,2,-6.116,1,0.0418,0.000906,0.0,0.105,0.607,157.913,4,world-music
+65O1Ry1edYOixyVOCXXY7R,Kim Walker-Smith,Just Be,Just Be,49,273960,False,0.391,0.246,3,-9.214,1,0.0271,0.85,0.0,0.0893,0.118,71.616,4,world-music
+29wltCk6XgsiLdIWw8vbKN,"Phillips, Craig & Dean",Breathe In,Great I Am,50,269786,False,0.408,0.75,2,-7.278,1,0.0352,0.00249,3.66e-05,0.086,0.258,160.141,4,world-music
+20bD4lkiXkxl5VVg0Y7Tjz,Chris Tomlin,Resurrection Power,Resurrection Power,44,251106,False,0.389,0.719,1,-4.264,1,0.0431,0.00875,0.0,0.0886,0.316,150.011,4,world-music
+065JpMm3wBounTRtaoqVyS,Vertical Worship,Church Songs,Lamb of God,43,251546,False,0.434,0.614,11,-6.35,1,0.0432,0.0411,0.0,0.197,0.196,141.99,4,world-music
+34yDNxPkPxzG0tkpyIfHJD,Hillsong Young & Free,All Of My Best Friends,All My Life - Live,37,235880,False,0.261,0.265,0,-9.515,1,0.0327,0.726,0.0,0.673,0.134,84.344,4,world-music
+0GRkrdDS476AdjfI9ZlzaC,Michael W. Smith,Worship Again,Here I Am To Worship,43,296706,False,0.486,0.385,7,-7.338,1,0.0261,0.32,0.0,0.109,0.222,78.03,4,world-music
+2biU8EO9TFZ6lMz8q6A92W,Shane & Shane,Hymns Live,Is He Worthy (Live),48,293802,False,0.356,0.428,2,-9.459,1,0.0321,0.703,0.0,0.211,0.104,143.658,4,world-music
+18Kt9lI9qQK5hUHtaIPOP2,Bethel Music;Cory Asbury;Gable Price,Homecoming (Live),Homecoming - Live,55,468274,False,0.388,0.566,0,-8.316,1,0.0332,0.269,1.2e-06,0.0938,0.17,144.914,3,world-music
+4Aa5v0LJ8VoJAt68deFiPf,Gateway Worship,"Heart Of Worship - 10,000 Reasons (Bless The Lord)","10,000 Reasons (Bless The Lord)",41,322906,False,0.27,0.264,7,-10.597,1,0.033,0.224,6.1e-06,0.109,0.162,73.016,4,world-music
+2mmgSWEUFikmuFEfQtvtk6,Ruido Blanco Hart;Musica para Bebes;Canciones De Cuna Para Dormir Bebes,Ruido Blanco De Ondas Para Bebés Durmiendo Vol. 1,Ruido Blanco De Costa,27,110000,False,0.321,0.0731,11,-40.264,0,0.0616,0.987,0.973,0.108,0.0313,149.98,4,world-music
+70Y8ty6KcaQhy5OYcId1Fb,Hillsong Young & Free,All Of My Best Friends,Best Friends - Live,41,206741,False,0.502,0.772,11,-6.814,1,0.0315,0.0446,0.0,0.714,0.528,75.024,4,world-music
+6YyizHBnH22hpC4R3CwJK5,Passion;Kristian Stanfill,Passion Collection,One Thing Remains - Radio Version,49,239628,False,0.425,0.728,11,-4.492,1,0.0286,0.00468,2.62e-06,0.172,0.164,147.986,4,world-music
+0IAHW8BtLVBN2PVPiWo7zE,Matt Redman,"10,000 Reasons (Live)",We Are The Free - Live,40,242626,False,0.498,0.927,10,-5.156,1,0.088,0.000186,0.0,0.673,0.486,145.052,4,world-music
+3AXN1PPzFyqncgBIaGEJP7,Planetshakers,Overflow (Live),I Came For You - Live,46,445149,False,0.269,0.611,3,-8.364,1,0.0401,0.0342,0.000108,0.227,0.138,152.21,4,world-music
+3TMFxaCtDbBGi0UeGH2dzc,Matt Redman;Tasha Cobbs Leonard,Glory Song,Gracefully Broken,48,350480,False,0.322,0.666,9,-5.527,1,0.0466,0.302,0.0,0.0643,0.156,175.603,4,world-music
+4uFHiIdvpDAABh9N5Zuinh,Hillsong Young & Free,All Of My Best Friends,Never Have I Ever - Live,40,193875,False,0.48,0.853,0,-5.573,1,0.0372,0.00456,0.0,0.98,0.488,144.063,4,world-music
+4DeoucgVChdV0zkeLzNKji,Hillsong Worship,OPEN HEAVEN / River Wild,Love On The Line,45,296672,False,0.236,0.503,7,-6.555,1,0.0307,0.0925,0.0,0.269,0.0688,172.203,3,world-music
+2N18pBnfGpmBhd4GlKudDN,Reiki Armonía,Sonidos de Fondo para Reiki: Gotas de Agua,"Para Reiki: Gotas de Agua, Pt. 31",27,87771,False,0.201,0.922,10,-32.796,0,0.0539,0.143,0.995,0.895,0.00398,111.492,5,world-music
+2Sj93sagk6Nw9s9e4ZZpg3,Hillsong Worship,Glorious Ruins,Anchor,44,390200,False,0.345,0.721,4,-6.416,1,0.039,0.0671,0.000437,0.126,0.16,145.962,4,world-music
+2MPGhx7H9uE54UEmJEffh5,Jadon Lavik,Roots Run Deep,Turn Your Eyes,47,182106,False,0.212,0.32,4,-10.837,1,0.0369,0.745,0.0,0.126,0.267,197.477,4,world-music
+15CTEO3L1CyZ0IVvsuodKC,Jesus Culture;Kim Walker-Smith,Your Love Never Fails (Live),Happy Day - Live,41,401960,False,0.435,0.956,5,-3.941,1,0.0564,0.000541,0.0,0.636,0.307,131.998,4,world-music
+5ELZpvTDGorz9BIE9zaBoZ,Tenth Avenue North,Followers,I Have This Hope,52,204800,False,0.422,0.336,0,-7.199,1,0.0306,0.199,0.0,0.189,0.11,108.009,4,world-music
+1SnZi2eVU2kcXRNJT6ek4J,Shane & Shane,"Hymns, Vol. 1",How Great Thou Art,49,294386,False,0.46,0.509,2,-6.997,1,0.0303,0.289,0.000143,0.351,0.297,115.89,4,world-music
+61jQN64QwaHBfXidHeBU0H,Shane & Shane,Dare 2 Share - Unending Worship,Our God Is Greater,44,282240,False,0.629,0.652,11,-7.429,1,0.0252,0.0186,0.0,0.119,0.349,102.957,4,world-music
+7FINWnbVBnZdja3kUIvptF,Bethel Music;Brian Johnson,Be Lifted High,You Are Good,40,265520,False,0.396,0.843,9,-7.077,1,0.0467,0.0041,2.46e-06,0.45,0.354,144.011,4,world-music
+5ZHd2S3xeMXKoSws9XlwKC,Jadon Lavik,Roots Run Deep,I Surrender All,50,264453,False,0.412,0.362,2,-9.556,1,0.0272,0.412,1.49e-05,0.146,0.365,77.459,4,world-music
+1Y7KVgkbFclosIdPkYJUyb,Planetshakers;Su Presencia,Sé Quién Eres Tú,Momentum - Live,28,224480,False,0.605,0.948,10,-4.649,1,0.0694,0.011,4.4e-06,0.834,0.472,133.962,4,world-music
+5Rm70bhYNH2eTtHjlwgPY0,Hillsong Worship;Brooke Ligertwood,There Is More,The Passion (Live Acoustic) - Bonus,42,238333,False,0.437,0.413,0,-9.602,1,0.03,0.283,0.0,0.252,0.17,69.825,4,world-music
+6nVzKwxkRdm5ZM7rMDCwE1,Chris Tomlin,Arriving,Your Grace Is Enough,43,248986,False,0.575,0.863,9,-4.42,1,0.0307,0.00255,2.42e-06,0.292,0.597,120.008,4,world-music
+6REeeIqHCptiIsfzInGxb5,Hillsong Worship;Benjamin William Hastings,These Same Skies (Live),That's The Power - Live,43,274533,False,0.454,0.635,10,-8.286,1,0.0331,0.0103,0.0,0.233,0.0931,148.169,4,world-music
+0M1ujzJ1RTvLt13C4GsnaT,Chris Tomlin,Arriving,Indescribable - Arriving Album Version,46,237986,False,0.362,0.83,11,-4.183,1,0.033,0.0341,0.0,0.115,0.447,179.867,3,world-music
+0uryoZxnSimQVSFnGhyqxU,Rend Collective,Whosoever,Hallelujah Anyway,57,225755,False,0.494,0.857,8,-4.042,1,0.0379,0.0019,7.76e-06,0.132,0.467,129.994,4,world-music
+4Pt5FtylMrJQZ1NHhSSdAj,Ondas Delta,Relajación Absoluta con Ondas Delta: Musicoterapia para Encontrar la Paz Interior,Entendiendo la Mente Humana,28,325999,False,0.136,0.0671,2,-25.522,1,0.0494,0.989,0.968,0.105,0.0384,72.815,4,world-music
+5WLagYfb65npT1kJg8PiwC,Cascada de Lluvia,"Meditación con la Música de Fondo para el Masaje, Spa & Wellness",Piensa Positivo,27,404999,False,0.11,0.099,0,-21.924,1,0.0416,0.978,0.867,0.106,0.0313,80.683,4,world-music
+7j1e730A8K1my1mM4knYmr,Chris Tomlin,How Great Is Our God: The Essential Collection,I Will Rise,47,300373,False,0.213,0.32,11,-7.086,1,0.0301,0.349,0.0,0.0844,0.25,80.424,4,world-music
+198MQwd4SASt2PPGbtHu2I,Chris Tomlin,Hello Love,"Sing, Sing, Sing",45,229680,False,0.494,0.845,9,-6.214,1,0.068,0.084,0.0,0.101,0.261,144.979,4,world-music
+0x37pd7WllmDTIMm4T0UaN,Jesus Culture;Kim Walker-Smith,Consumed (Live),Revelation Song - Live,49,567186,False,0.368,0.607,4,-5.572,1,0.0344,0.024,0.0,0.864,0.147,131.469,4,world-music
+256jkIFnGq7cX7yqqKhdHh,Planetshakers,Legado,En Tempestad,27,255900,False,0.637,0.719,8,-5.964,1,0.0778,0.01,1.72e-06,0.231,0.528,122.006,4,world-music
+4TmS38n8HjIHAzlSK4smGW,Hillsong Worship;Brooke Ligertwood,let there be light.,What A Beautiful Name (Acoustic),44,254973,False,0.459,0.171,2,-10.804,1,0.0348,0.846,0.0,0.106,0.168,139.866,4,world-music
+3CO19cTl5zzlWx9GWEpOhD,Michael W. Smith,Change Your World,I Will Be Here For You,53,273773,False,0.425,0.519,9,-9.707,1,0.0279,0.185,0.0,0.102,0.208,143.887,4,world-music
+7kDC9sSvlG0rl0SCgDuB80,Hillsong Worship;Hannah Hobbs,These Same Skies (Studio),Always Been God - Studio,39,238903,False,0.292,0.327,1,-9.864,1,0.0325,0.421,0.0,0.0735,0.131,132.147,3,world-music
+1drusoBCtNqLex2lIdA527,Hillsong Worship,let there be light.,As It Is (In Heaven),44,519626,False,0.343,0.572,4,-8.502,1,0.0341,0.0144,0.0,0.276,0.105,125.851,4,world-music
+2kDe0QRaCBKIh8QY64GDvK,Bethel Music;Jenn Johnson,We Will Not Be Shaken (Live),In Over My Head (Crash Over Me) - Live,49,298681,False,0.416,0.392,9,-8.97,1,0.0282,0.205,0.0294,0.0833,0.0896,141.8,3,world-music
+0VmBlp1AM3B8IxQnuBLQJ6,Tenth Avenue North,Control (Acoustic),Control (Acoustic),51,228999,False,0.666,0.408,11,-7.756,1,0.0285,0.743,0.0,0.11,0.324,119.955,4,world-music
+5u2wlrx4vu2iSHexMrKz4H,Hillsong Young & Free;Alexander Pappas,This Is Living,This Is Living (Acoustic),43,267733,False,0.658,0.293,10,-8.857,1,0.0303,0.852,0.0,0.102,0.186,119.981,4,world-music
+3sS3krMEoOsTSAPNtsTobt,Jesus Culture;Chris Quilala,Let It Echo (Live),Miracles - Live,49,518679,False,0.375,0.681,2,-7.758,1,0.0404,0.00122,0.00265,0.632,0.0676,143.885,4,world-music
+5UjaOsrdoI4shw9gM2eNPC,Buena Vista Social Club,Buena Vista Social Club,El Cuarto de Tula,14,445426,False,0.546,0.715,9,-11.927,1,0.0459,0.621,0.000218,0.294,0.85,104.905,4,world-music
+32DCSsnAxX8jpmu9w6C8DW,Bethel Music;Steffany Gretzinger,You Make Me Brave (Live),We Dance - Live,50,281506,False,0.302,0.274,1,-10.26,1,0.0353,0.947,2.28e-06,0.105,0.379,75.891,5,world-music
+3OBG99yPHZwjhPpALz17jm,Passion;Kristian Stanfill;Melodie Malone,"God, You're So Good (Live)","God, You’re So Good - Live",43,426699,False,0.203,0.331,10,-7.2,1,0.0311,0.278,0.0,0.0948,0.0546,139.449,4,world-music
+4jZHeAug66KEXw7KZbOX43,Michael W. Smith,Sovereign,Sovereign Over Us,40,354280,False,0.453,0.496,9,-6.816,1,0.0293,0.0631,0.00018,0.0619,0.158,135.934,4,world-music
+61hO2ZrTkcOXNt8eBIMJX9,Phil Wickham,Hymn of Heaven,His Name Is Jesus,38,321000,False,0.428,0.773,10,-5.181,1,0.0487,0.028,0.0,0.126,0.274,143.986,4,world-music
+5I49PGcxUCZFoMpZ6s9lj5,Passion;Chris Tomlin,Passion: Everything Glorious,I Stand Amazed (How Marvelous),41,396666,False,0.251,0.484,8,-8.249,1,0.043,0.121,7.79e-06,0.483,0.192,136.067,4,world-music
+3Zm6QMBYCwNZFUOmVBoVhA,Bethel Music;Jenn Johnson;Mitch Wong,Simple,The Blood,52,342259,False,0.478,0.333,7,-11.441,1,0.0328,0.316,0.0,0.0646,0.204,74.935,4,world-music
+4PVt0PcZyI61mCuwMdvtzy,Chris Tomlin;RaeLynn,Chris Tomlin & Friends,Chase Me Down (feat. RaeLynn),43,208053,False,0.658,0.612,6,-5.132,1,0.0337,0.821,0.0,0.101,0.248,108.08,4,world-music
+6g4T7apIu8fT2LzoPvAa2U,for KING & COUNTRY,Burn The Ships,Control,50,266773,False,0.436,0.435,0,-8.182,1,0.0368,0.326,1.56e-05,0.088,0.189,123.207,4,world-music
+6hZQGrJlAQwrNnUyFkdO8r,for KING & COUNTRY;R3HAB,RELATE (R3HAB Remix),RELATE (R3HAB Remix),47,166666,False,0.651,0.887,10,-4.67,1,0.111,0.109,0.0,0.0765,0.238,107.991,4,world-music
+1VNP6bgTcqE6cxkU8Zpy21,Bethel Music;Melissa Helser,Revival's In The Air (Live),Revival’s In The Air - Live,50,444174,False,0.593,0.625,2,-7.11,1,0.0291,0.015,0.000108,0.15,0.229,127.007,4,world-music
+2Zxili8AmCuqiomg9HzTgH,Shane & Shane,"Psalms, Vol. 2","Psalm 23 (Surely Goodness, Surely Mercy)",52,287080,False,0.509,0.276,0,-10.406,1,0.0301,0.203,0.0,0.15,0.138,109.707,4,world-music
+56ECskEyc7XqOCyRPruZ37,Bethel Music;Steffany Gretzinger,Have It All (Live),Pieces - Live,53,339870,False,0.128,0.396,10,-9.904,1,0.0342,0.0561,8.3e-06,0.0966,0.05,71.965,4,world-music
+5UivJ02lC3RH9MmAysIltU,Bethel Music;Steffany Gretzinger;Amanda Cook,Starlight (Live),Extravagant - Live,50,371774,False,0.403,0.412,6,-8.863,1,0.0286,0.0247,0.0,0.128,0.064,136.05,4,world-music
+3HB2BROPfh86ChvOoe2dFq,Hillsong Worship;Hillsong Young & Free,Take Heart (Again),Heart of God,38,375200,False,0.42,0.342,7,-8.831,1,0.0297,0.392,0.0,0.107,0.09,137.97,4,world-music
+3IuTraprrDiCiGJ7tiGpGu,Aaron Shust,This Is What We Believe (Deluxe Edition),My Hope Is in You,48,254880,False,0.434,0.873,2,-3.749,1,0.0489,0.0234,0.0,0.323,0.365,150.077,4,world-music
+0ikjzGMJbuO7Fv8uVQmSSh,Sonidos De Aves,Sonidos de Aves,Sonidos de Aves,26,64470,False,0.411,0.0173,8,-43.043,1,0.763,7.41e-05,0.913,0.13,0.631,77.255,4,world-music
+6obkbpih6pYSgjPyoI75Xp,Shane & Shane,"Psalms, Vol. 2",Psalm 46 (Lord of Hosts),53,302817,False,0.435,0.458,1,-10.148,0,0.0332,0.05,0.0,0.0799,0.221,137.595,4,world-music
+6YCCHnSCcJYWenamiJfLWh,Chris Tomlin;Lauren Daigle,Adore: Christmas Songs Of Worship (Live),Noel - Live,43,257653,False,0.344,0.248,10,-10.553,0,0.0306,0.678,0.0,0.106,0.119,137.92,4,world-music
+0x5ZedIvJAu3lXo355x8AQ,Mc_team,Frecuencias Curativas Solfeggio 369 Hz,396 Hz Aumenta las ganas de vivir,26,174566,False,0.104,0.0176,0,-32.272,1,0.0423,0.992,0.913,0.13,0.0396,90.758,4,world-music
+6luyRxa08kYuB6lXmvXR7s,Hillsong Young & Free;Hillsong en Español,Todos Mis Mejores Amigos,Más Allá De Tu Ventana - Studio,26,305573,False,0.404,0.655,9,-8.001,1,0.034,0.0031,0.0,0.165,0.2,136.946,4,world-music
+4jx6YFhGbw3Bkjn7o2KgzW,Bethel Music;Jenn Johnson,For the Sake of the World,Our Father,48,408826,False,0.312,0.431,11,-7.23,1,0.0296,0.191,0.00107,0.124,0.287,139.542,4,world-music
+1AQLZQf57wGH2dLdKL99Wu,Reiki Armonía;Solfeggio;Relajación Piano,Sueño Profundo: Aura Calma y Protectora,Transmisión Relajada Del Sueño,26,116000,False,0.437,0.216,0,-21.602,1,0.0522,0.957,0.936,0.0983,0.0299,120.266,3,world-music
+19uV6FQniZrbWtDPvBisIB,Bethel Music;Jeremy Riddle,Have It All (Live),Be Enthroned - Live,50,485396,False,0.303,0.516,1,-8.518,1,0.0302,0.00574,0.0,0.163,0.0592,141.932,4,world-music
+7wBs0H1Ebr1h14Qqm43KiO,Chris Tomlin,Burning Lights,White Flag,40,273558,False,0.475,0.772,3,-3.988,1,0.0325,0.0141,0.0,0.151,0.318,81.998,4,world-music
+4aB9LZg1oFl459DOgPlEHP,Kari Jobe;Cody Carnes,The Blessing,The Blessing - Radio Version,50,273066,False,0.427,0.549,11,-5.669,1,0.0348,0.0359,0.0,0.104,0.213,139.719,4,world-music
+5pME1MDi0g4wCmEvTet9mG,Chris Tomlin;Steffany Gretzinger,Always,"O Lord, You’re Beautiful (with Steffany Gretzinger)",43,235599,False,0.406,0.121,5,-11.65,1,0.0373,0.806,0.0,0.115,0.387,118.071,4,world-music
+1Z2cCWfKXLmaJXW2kCqSb3,Reiki Armonía,"Reiki - Música para Curar con las Manos, Canciones de Curación para Sanar el Cuerpo y el Alma",Musica para Relajar la Mente,26,384999,False,0.0899,0.118,5,-27.108,1,0.0351,0.963,0.962,0.0895,0.0602,79.274,4,world-music
+49uBqsqkSRTufWYBadrKLx,Monjes Tibetanos,Mantra Om - Musicas Espirituales y Mantras Tibetanos para Meditacion Om,Cuencos Tibetanos,26,364999,False,0.308,0.0738,0,-25.906,0,0.047,0.926,0.0488,0.106,0.0559,71.61,3,world-music
+6RB7itKpuVkamoVga0JBVw,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Práctica Espiritual,27,287854,False,0.209,0.00448,4,-28.345,1,0.0351,0.986,0.922,0.122,0.0394,70.92,3,world-music
+02HdjmfXq1F2OsX6yPg86n,Paul Baloche,Open the Eyes of My Heart,Open the Eyes of My Heart,41,285626,False,0.523,0.882,4,-6.634,1,0.042,0.00267,0.0,0.107,0.445,116.113,4,world-music
+2rkCecVJbymKFl4Axf9rJs,Hillsong Worship,Simply Worship,I Give You My Heart,40,467573,False,0.431,0.361,7,-10.6,1,0.0247,0.587,0.0,0.129,0.15,76.851,4,world-music
+4FwOCO9W6aH5QSh7dix8ey,Shane & Shane,Hymns Live,I Will Wait for You (Psalm 130) [Live],51,378076,False,0.412,0.371,0,-8.831,1,0.0336,0.435,0.0,0.117,0.206,129.409,3,world-music
+5JDSpEwsKzy8DQcFtyF5qB,Planetshakers;Su Presencia,Sé Quién Eres Tú,Nuevo Tiempo,27,229653,False,0.676,0.941,11,-4.116,0,0.0543,0.00296,0.0,0.309,0.559,120.023,4,world-music
+4iDemLlTTWSXbPTMpNRKS2,Hillsong Worship;Jad Gillies,Team Night,Waiting Here For You - Live at Team Night,43,355102,False,0.461,0.45,0,-8.849,1,0.0279,0.00976,0.00046,0.122,0.0808,128.015,4,world-music
+7slWhtdhiZy6dBg6xYFLKC,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 8",26,159781,False,0.509,0.206,0,-17.289,1,0.0803,0.992,0.9,0.187,0.342,75.057,4,world-music
+4YqN6UqQvWVdg4K6Rm222j,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Chakras (Como Hacer Meditacion),27,375977,False,0.0905,0.144,6,-25.182,1,0.0401,0.984,0.959,0.122,0.0347,170.643,3,world-music
+7b2FPGWNIEebCkfWRYYToG,Hillsong Worship;Jad Gillies,Team Night,A Thousand Hallelujahs / I (We) Exalt Thee - Live at Team Night,43,504913,False,0.429,0.416,9,-8.32,1,0.0283,0.0305,5.29e-05,0.107,0.0368,135.86,4,world-music
+0NogxGvvVUZSoutdffhBTF,Hillsong Worship;Chris Davenport,Team Night,Secret Place / Goodness of God - Live at Team Night,44,546300,False,0.282,0.393,0,-10.0,1,0.0324,0.0333,0.0,0.102,0.106,129.891,4,world-music
+7gtGbX9rmuqBKlj3xCWWET,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Reiki Healing (Musica para Relajar),27,192630,False,0.287,0.0808,11,-21.822,0,0.0496,0.916,0.312,0.121,0.0588,62.194,4,world-music
+6DB93LekjrVBcu4Zta8baD,Mc_team,Música Relajante Para Calmar La Mente,Eliminar el Estrés,26,588148,False,0.116,0.156,2,-20.382,0,0.0375,0.938,0.958,0.067,0.0361,76.621,4,world-music
+5bewVvwCqElPwlD6uNNxMz,Hillsong Worship;Jad Gillies,Team Night,On Repeat / All To Him - Live at Team Night,44,440746,False,0.341,0.499,0,-7.397,1,0.0324,0.0403,0.0,0.094,0.156,126.226,4,world-music
+5GpIzOMAMHws2xOSjoyYj1,Hillsong Worship;Brooke Ligertwood;Reuben Morgan,There Is More,Who You Say I Am (Live Acoustic) - Bonus,43,191920,False,0.378,0.285,6,-11.503,1,0.0271,0.257,0.0,0.078,0.175,171.865,3,world-music
+56SvYdddE1igvBFZn17hRx,Chris Tomlin,How Great Is Our God: The Essential Collection,Amazing Grace (My Chains Are Gone),45,266520,False,0.515,0.168,7,-10.785,1,0.0321,0.828,0.0,0.104,0.169,125.558,4,world-music
+3DC2Mj0eARTXedJXADQDEc,Hillsong Worship;Benjamin William Hastings,These Same Skies (Studio),That’s The Power - Studio,41,241960,False,0.493,0.654,10,-6.55,1,0.0326,0.00639,0.0,0.337,0.0899,148.113,4,world-music
+60iVN2c4KpoB9teVSBzmzt,Reiki Armonía;Paz Interior,"Musica para Reiki con Campanillas, Sonidos de la Naturaleza y Musica Relajante",Sonido Del Viento - Música de Fondo para Masajes Sensuales (Música de Spa),27,224000,False,0.308,0.653,6,-19.75,0,0.409,0.883,0.805,0.556,0.0377,97.168,1,world-music
+5WM76peU5aoFjdZeN48929,Cory Asbury;Tori Kelly,Reckless Love,Reckless Love,48,234000,False,0.306,0.613,6,-5.214,1,0.0671,0.119,0.0,0.105,0.546,162.524,3,world-music
+1caT2YklnqZq35IcQ0oRLj,Buena Vista Social Club,Buena Vista Social Club,Candela,14,329200,False,0.516,0.623,9,-12.638,1,0.0362,0.747,0.000214,0.27,0.825,101.22,4,world-music
+0mLk4AuHy7DTkoChwaYRJc,Hillsong Young & Free;Peter CottonTale,As I Am (with Peter CottonTale),As I Am (with Peter CottonTale),38,205520,False,0.324,0.524,0,-7.622,1,0.0375,0.155,0.0,0.149,0.351,124.777,4,world-music
+0pzPfzBwovCvzNkk8OZLw1,Passion;Chris Tomlin,Passion: Even So Come (Live),Even So Come - Live,43,439573,False,0.31,0.737,7,-5.427,1,0.0317,0.0321,1.25e-06,0.107,0.186,161.982,3,world-music
+45N0c8UKowVhDEuR54nRaT,Hillsong Young & Free,Out Here On A Friday (Acoustic),At The Cross - Acoustic,41,278036,False,0.581,0.312,0,-10.178,1,0.0281,0.486,4.78e-06,0.12,0.182,126.824,4,world-music
+5iBYUI5N7zZzTkd7ychQ0P,Housefires;Kirby Kaple,I’ll Give Thanks,I’ll Give Thanks,50,232656,False,0.444,0.642,4,-5.856,1,0.0309,0.0107,0.0,0.104,0.0831,156.875,4,world-music
+5BA4y3yBlTMFPzkRJh9M2G,Brian Doerksen,It's Time,The River,35,238773,False,0.51,0.564,0,-7.443,1,0.0284,0.1,0.0,0.318,0.328,137.931,4,world-music
+2oXkMfwSrpdhQ0mn34NzRT,Passion;Kristian Stanfill,Whole Heart (Live),More Like Jesus - Live,47,337453,False,0.405,0.678,10,-5.448,1,0.0352,0.0298,0.0,0.367,0.177,144.075,3,world-music
+1mxgHDkI8VOs0vnpA9Sucl,Aaron Shust,Nothing to Fear,Zion,39,312506,False,0.355,0.453,4,-7.113,1,0.0293,0.304,0.0,0.317,0.272,146.101,3,world-music
+0XMQuzgUJu7AjruBHzTg4Z,for KING & COUNTRY;Echosmith;Timbaland,God Only Knows (Timbaland Remix),God Only Knows (Timbaland Remix),48,215020,False,0.7,0.487,11,-5.437,0,0.0486,0.208,0.0,0.11,0.363,143.964,4,world-music
+4uQcfhLIZNpiWJKS9nPz3z,for KING & COUNTRY;R3HAB,Burn The Ships (R3HAB Remix),Burn The Ships (R3HAB Remix),48,146020,False,0.637,0.759,5,-4.804,1,0.0809,0.0244,0.0,0.0991,0.304,98.035,4,world-music
+4i8FcEMiMlU6R2TS3WgHGm,Hillsong Worship;Hillsong Young & Free,Take Heart (Again),Highs & Lows,38,289000,False,0.536,0.364,2,-9.82,1,0.0291,0.576,1.97e-06,0.154,0.275,113.875,4,world-music
+3G36YqxxdFoiIlh7YklGGB,Gateway Worship;Kari Jobe;Walker Beach,Wake Up the World (Live),Alabaster Jar - Live,40,479053,False,0.237,0.55,7,-7.204,1,0.0327,0.117,4.62e-06,0.553,0.0762,151.477,4,world-music
+6TyyGSk69X8S922AF5L4qE,Shane & Shane,"Psalms, Hymns, and Spiritual Songs, Vol. 1",Living Water,52,225506,False,0.405,0.617,4,-6.413,1,0.0326,0.0457,0.0,0.201,0.588,73.972,4,world-music
+3stuliHpnexsTj6uXFJ5iI,Audrey Assad,The House You're Building,Restless,47,295064,False,0.422,0.377,11,-8.705,1,0.0267,0.774,0.0,0.108,0.203,135.97,4,world-music
+6lRgQaX1BJ5VKsYHVBo05q,Hillsong Worship,By Your Side (Live),This Is How We Overcome,27,229733,False,0.384,0.852,0,-7.162,1,0.0676,0.171,0.0,0.381,0.586,131.56,4,world-music
+6vCzWS8xkRbilNXuwvuQ7O,Michael W. Smith,Sovereign,Sky Spills Over,48,244973,False,0.585,0.752,2,-5.552,1,0.04,0.011,4.98e-06,0.266,0.34,119.962,4,world-music
+0msEjN5VnHwJHZIMm2UhSX,I AM THEY,In Between,In Between,42,197019,False,0.485,0.61,11,-5.759,1,0.0322,0.0248,0.0,0.0664,0.277,143.875,4,world-music
+3cTqopgJTXyuuNdfOWE4qC,Travis Cottrell,When the Stars Burn Down,Just as I Am,43,334533,False,0.366,0.499,9,-7.263,1,0.0276,0.408,0.000213,0.125,0.128,72.913,3,world-music
+2uCLhG4UKRErEUpjsXBaeD,Passion;Kristian Stanfill,Glorious Day (Radio Version),Glorious Day - Radio Version,54,251695,False,0.471,0.846,2,-4.05,1,0.0388,0.0174,0.0,0.148,0.314,109.997,4,world-music
+2rEENZaUAxElWIy97Xhmws,Reiki Armonía;Meditación Guiada;Meditaciones Espirituales,Meditación y Mente Plena Ses. 1,Una Mañana Tranquila,25,117000,False,0.363,0.0195,4,-28.902,1,0.0566,0.95,0.964,0.101,0.0317,135.756,3,world-music
+5C1Z0bLu8UFl4DbOZHy54h,Paul Baloche,Open the Eyes of My Heart,Praise Adonai,32,241600,False,0.576,0.711,5,-8.159,1,0.0421,0.213,2.43e-06,0.106,0.581,95.914,4,world-music
+1saXUvvFlAQaefZUFVmhCn,Bethel Music;Paul McClure,We Will Not Be Shaken (Live),Jesus We Love You - Live,53,415079,False,0.253,0.359,11,-8.482,1,0.0317,0.31,6.16e-06,0.359,0.115,115.348,3,world-music
+3DgwAwHOyxfpQUuuMzvzUN,Rend Collective,Campfire,"10,000 Reasons",45,300427,False,0.595,0.319,4,-10.656,1,0.0271,0.643,2.32e-06,0.0898,0.235,136.09,4,world-music
+0k3H456t5wd6kkje7MTarL,Hillsong Worship,People Just Like Us (Live),Shout To The Lord,40,270400,False,0.338,0.371,9,-13.026,1,0.0334,0.705,0.0,0.334,0.244,159.633,4,world-music
+5Z2TvUNflVYGsoFGkvAKzE,for KING & COUNTRY;Courtney,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Without You,44,292693,False,0.327,0.269,4,-12.912,1,0.0339,0.825,0.000234,0.108,0.0857,141.514,4,world-music
+0nFWKqVII0kYjT1O39i8pm,Reiki Armonía;Sleep;White Noise,Fire Ambience: Sounds of Burning Wood of Bonfire Vol. 1,Great Balls Of Fire Sound,26,117000,False,0.222,0.502,1,-24.618,1,0.061,0.86,0.97,0.101,0.227,132.561,1,world-music
+3rJAP9G6hjx2kN8Jsvas09,New Life Worship;Integrity's Hosanna! Music,You Hold It All (Live),Great I Am - Live,48,328933,False,0.246,0.51,2,-6.637,1,0.036,0.00799,4.57e-05,0.325,0.101,159.915,4,world-music
+0oe9sIcwjodrYVHOSfT5Y6,Hillsong Worship;TAYA,There Is More,Valentine - Live,43,319493,False,0.228,0.527,5,-7.72,1,0.0359,0.00189,0.0,0.106,0.0843,161.463,4,world-music
+6cgbrOA9fWSyhkFOgnyn5y,Mc_team,Música Relajante Para Calmar La Mente,Activar la Glándula Pineal,25,705288,False,0.308,0.148,4,-23.87,1,0.0395,0.83,0.811,0.0963,0.0398,116.531,3,world-music
+6WD6IVP2clFYZVTOUMqloC,Jadon Lavik,Roots Run Deep,I Need Thee,47,193106,False,0.493,0.16,10,-11.501,1,0.0312,0.932,0.0,0.193,0.253,78.345,3,world-music
+4yoi5sglz8YR3SX2WwPpgC,Hillsong Worship,No Other Name,Our Father,38,363013,False,0.307,0.546,4,-6.651,1,0.046,0.0904,0.0,0.551,0.3,141.605,4,world-music
+3625GrMFN53eHBFIdBBdEL,Lincoln Brewster,Live To Worship,Lord I Lift Your Name On High,38,213173,False,0.479,0.942,8,-5.803,1,0.041,0.0297,1.09e-05,0.112,0.647,96.397,4,world-music
+7dlCAK8HdnI6UGHqZkfvJT,for KING & COUNTRY,What Are We Waiting For?,Broken Halos,48,191283,False,0.6,0.566,9,-9.058,1,0.114,0.131,1.07e-05,0.113,0.153,120.088,4,world-music
+6vaRFxq8wymCD3rFueOtyh,Fondo de la lectura,Concentración: Sonidos de la Lluvia,"Concentración: Sonidos de la Lluvia, Pt. 02",26,222171,False,0.363,0.978,1,-25.881,1,0.0579,0.918,0.939,0.805,0.0128,97.477,3,world-music
+4ZIMjegJQJoCVnwr61sIvT,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),Battle Belongs - Acoustic,37,335724,False,0.348,0.154,11,-13.982,1,0.0507,0.884,0.0,0.111,0.295,77.992,4,world-music
+7cJpy9t7Ph5Yny1M4nWN43,Planetshakers,Let's Go (Live),Let's Go,43,244696,False,0.551,0.945,2,-8.005,1,0.0439,3.55e-05,0.0,0.469,0.296,125.982,4,world-music
+5B4up6kvYgU71HfTV40II1,Flor de Loto,25 Canciones de la Naturaleza - Sonidos de la Naturaleza y Ruido Blanco para Relajación Profunda y Meditación,Estudio - Equilibrio de Meditación Chakra,25,253000,False,0.19,0.445,1,-16.112,0,0.048,0.786,0.837,0.151,0.118,119.421,3,world-music
+5WJbUQV3FbzOxB4tA7yiXF,Chris Tomlin;Brandon Lake,Always,I See You (with Brandon Lake),43,230673,False,0.431,0.734,1,-4.561,1,0.0383,0.121,0.0,0.104,0.363,159.974,4,world-music
+1SoI6qkdq320N99MickTb1,Hillsong Worship,At Easter,Man of Sorrows (Passion),34,300560,False,0.459,0.375,4,-7.457,1,0.0254,0.28,0.0,0.111,0.46,144.027,4,world-music
+0fjKrQ4h2n3tJOPne0BqzW,Cesária Evora;Michel Martelly;Fabrice Rouzier,Haïti Twoubadou Volume 1,Pa Manyen Fanm Nan,26,299200,False,0.768,0.534,4,-10.144,0,0.152,0.34,1.41e-05,0.0708,0.764,179.97,4,world-music
+5ZXlrEFrZMWHZ0tzR28qxk,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Toque Terapeutico,25,212079,False,0.123,0.00887,6,-27.479,1,0.0389,0.99,0.925,0.123,0.0439,70.454,4,world-music
+3zjItNbpLrzJZXmPchb7c9,Planetshakers,Let's Go (Live),Perfect Love,37,244349,False,0.573,0.881,8,-7.097,1,0.0509,0.000915,0.0,0.202,0.51,126.039,4,world-music
+6H1U6y9b0htZoSCfROkKgh,Ruido Blanco Hart,Juegos para el Cerebro - La Mejor Música Relajante para Concentrarse y Preparar Examenes,Mejora la Memoria,25,403999,False,0.208,0.151,4,-17.049,1,0.0493,0.994,0.967,0.0933,0.0709,115.146,1,world-music
+3qPHL64oFScNfkqqiuCIGO,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),It's Always Been You - Acoustic,37,240396,False,0.518,0.183,4,-14.355,1,0.0328,0.907,0.0,0.112,0.308,143.62,4,world-music
+3GfZlPyhn9NkkftKf2vCSm,Hillsong Worship;Benjamin William Hastings,let there be light.,Crowns,41,297640,False,0.388,0.561,7,-7.374,1,0.0302,0.00881,0.0,0.763,0.18,139.777,4,world-music
+00tmncKNivQuNIXAhvI2ZU,Rainy Lullaby,"#mindfulness - Soft Rain for Mindful Meditation, Stress Relief Relaxation Music",Take You to the Water,26,364981,False,0.143,0.0206,9,-30.18,0,0.0475,0.809,0.606,0.0859,0.039,71.35,4,world-music
+0ViUZDRHUXYPfrloKITuMK,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Centro Budista (Musica Relajantes),25,403113,False,0.135,0.0271,9,-29.209,1,0.0373,0.993,0.983,0.0907,0.0376,70.888,4,world-music
+2t8f07knCNSY19avq19l1R,Mosaic MSC;Cody Carnes;Amanda Cook;Joe L Barnes,Thanks,"This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",56,221274,False,0.455,0.403,4,-8.221,1,0.0388,0.555,0.0,0.327,0.434,125.858,4,world-music
+2cSwzkJ4yNwhwBrhUCorYn,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Meditación Budista (Musica de Relajacion para Escuchar),25,396033,False,0.0748,0.202,1,-16.793,1,0.0368,0.987,0.939,0.124,0.034,66.177,4,world-music
+3okCsBWWv7okRgaTnMQ2Fp,Buena Vista Social Club,Buena Vista Social Club,Dos Gardenias,13,184026,False,0.569,0.205,4,-16.741,0,0.0382,0.833,0.00014,0.0935,0.518,91.439,4,world-music
+5TE4nCYmhOv3U30JmKrRxj,Phil Wickham,Hymn of Heaven,Reason I Sing,37,268600,False,0.45,0.817,0,-5.069,1,0.047,0.0016,0.0,0.175,0.457,159.817,3,world-music
+1gdKqUMnmKcTae3AXsBW4l,New Life Worship;Integrity's Hosanna! Music;Ross Parsley,I Am Free,I Am Free,37,329106,False,0.516,0.717,2,-6.718,1,0.0329,0.00194,0.00306,0.904,0.176,135.9,4,world-music
+60eWxFAnJhjGOBEDNWipZi,Aaron Keyes,Because,You Deserve the Glory,34,222840,False,0.614,0.417,11,-10.491,1,0.0275,0.453,1.1e-05,0.199,0.309,132.06,4,world-music
+2fQCMX03xgnxgmYbZam7FU,Hillsong Worship;Benjamin William Hastings;Hannah Hobbs,Take Heart (Again),Still / P E A C E,41,301973,False,0.323,0.232,9,-12.207,1,0.0344,0.846,8.6e-06,0.0777,0.322,132.536,4,world-music
+1Q5jFp1g2Ns4gBsHRpcqhu,Bethel Music;Jenn Johnson;Michaela Gentile,Simple,In The Ordinary - Spontaneous,50,174971,False,0.49,0.231,0,-13.968,1,0.0265,0.607,0.0,0.0859,0.0904,103.958,4,world-music
+006ATYzgynEKIPgVaT5LQM,Mc_team,Frecuencias Curativas Solfeggio 528 Hz,528Hz Energía curativa profunda,24,166746,False,0.0865,0.00504,5,-36.082,0,0.0494,0.991,0.965,0.101,0.138,169.362,4,world-music
+1N9SysNAP8j4wbAIHzlM9m,Michael W. Smith,Decades of Worship,Agnus Dei,42,417840,False,0.294,0.35,9,-11.215,1,0.0326,0.467,9.58e-05,0.85,0.0835,135.927,4,world-music
+59KUJ2TocepvimrTBUzpBn,Chris Tomlin;Russell Dickerson,Chris Tomlin & Friends,Together (feat. Russell Dickerson),41,178720,False,0.442,0.722,8,-4.79,1,0.039,0.416,0.0,0.122,0.526,75.966,4,world-music
+2SXrg51ciQMurVKgwTpatg,Chris Tomlin;Brandon Lake,I See You,I See You,43,228845,False,0.424,0.732,1,-4.547,1,0.0393,0.104,0.0,0.108,0.426,160.287,4,world-music
+36JWXzz773ljAGmwwz4ISZ,Passion;Rachel Halbach,Live From Camp,Christ Our King - Live From Camp,52,365185,False,0.301,0.47,1,-7.896,1,0.0314,0.195,0.0,0.113,0.0724,74.912,4,world-music
+1x1sAvpoyOTpnJnCthiGul,Planetshakers,Heaven On Earth,Electric Atmosphere - Live,42,207384,False,0.663,0.899,1,-3.816,1,0.0472,0.00041,0.000905,0.366,0.841,118.015,4,world-music
+4Upx1mXplDCRQKpnF64KXc,Chris Tomlin,Always,Great Forgiver,40,197979,False,0.526,0.833,1,-5.112,1,0.0412,0.0447,0.0,0.134,0.524,81.936,4,world-music
+7KOOS4qtz25PfQz5qrTGWC,Planetshakers,Outback Worship Sessions,Leave Me Astounded,43,330506,False,0.395,0.58,0,-7.423,1,0.0284,0.363,0.0,0.0436,0.16,153.784,4,world-music
+4maYtkkk0yegIvU6LrQM6e,Chris Tomlin,Always,History,39,199066,False,0.415,0.693,9,-4.664,1,0.0318,0.027,0.0,0.183,0.572,167.826,4,world-music
+7JzvdSrUXSMXll3SISuO1K,Audrey Assad,Inheritance,"Holy, Holy, Holy",47,189398,False,0.431,0.34,11,-10.316,1,0.0275,0.472,0.0034,0.115,0.181,80.044,4,world-music
+4t7zkjpvUeOi41k4Q9ZiRx,Passion;Chris Tomlin,Passion: Let The Future Begin,God's Great Dance Floor - Live,38,431380,False,0.517,0.956,10,-4.709,1,0.0675,0.00018,0.00159,0.215,0.193,127.985,4,world-music
+71dLJx3qHOTQMTvvoE2dmd,Bethel Music;Amanda Cook,Peace,King of My Heart,48,330840,False,0.515,0.0736,8,-15.492,1,0.031,0.975,0.000261,0.082,0.0684,109.964,4,world-music
+1eqD94mGbMtZOVMZr52dut,Mc_team;Sonic Whales,888 Hz Abundancia y la Prosperidad,888 Hz Ondas Cuánticas,25,216903,False,0.131,0.00867,9,-41.49,0,0.0408,0.992,0.925,0.113,0.0569,145.861,4,world-music
+6OG5TBCmuTOuWCzSGsETrE,Bethel Music;Brian Johnson;Jenn Johnson,Simple,Simple,48,351236,False,0.624,0.124,5,-11.191,1,0.028,0.917,0.0,0.12,0.206,78.014,4,world-music
+3exoPpEA6dsPy7EL9ogyvZ,Passion;Chris Tomlin,Passion: The Essential Collection (Live),Amazing Grace (My Chains Are Gone) - Live,39,441680,False,0.255,0.148,5,-13.001,1,0.0361,0.626,2.89e-06,0.989,0.0809,117.479,4,world-music
+2oi9hdNzZ5SFSzg8oEPxoA,Phil Wickham,Response,"At Your Name (Yahweh, Yahweh)",45,234466,False,0.276,0.766,9,-5.202,1,0.0387,0.000465,7.25e-06,0.0874,0.19,167.92,4,world-music
+2dBpNhfNCT1XkBRAOdam5J,for KING & COUNTRY;KB,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),O God Forgive Us,49,205386,False,0.464,0.225,0,-9.155,1,0.0403,0.587,5.64e-06,0.116,0.214,84.677,4,world-music
+6dHIgPjCbOZceIT5pBNV1c,"Phillips, Craig & Dean",Let My Words Be Few,"Come, Now Is The Time To Worship",40,238893,False,0.551,0.65,4,-9.09,1,0.0316,0.00865,5.58e-05,0.263,0.301,98.098,4,world-music
+6U3gM6SROUBawkCE7txzXN,Reiki Armonía,"Musica Reiki - Musica Relajante para Reiki, Yoga, Meditación, Tai Chi y Armonia",Fuerza Vital,25,370774,False,0.206,0.19,2,-20.226,1,0.0422,0.972,0.923,0.11,0.0353,128.255,4,world-music
+6QhwdCYm0tgZ3IqsYwt1qV,Ondas Delta,Relajación Absoluta con Ondas Delta: Musicoterapia para Encontrar la Paz Interior,Emociones Positivas,25,377999,False,0.0633,0.083,4,-25.813,0,0.0458,0.963,0.959,0.106,0.0329,67.022,4,world-music
+2eYJSfG4XE5M1PbcecUiMd,Planetshakers,Revival (Live),Way Truth Life - Live,43,200360,False,0.645,0.944,0,-5.451,1,0.0565,0.0133,0.0,0.667,0.396,99.971,4,world-music
+1uYzjO9kztEi2KVSS5rDgE,Chris Tomlin,Love Ran Red,Jesus Loves Me,43,211506,False,0.391,0.6,0,-3.935,1,0.0298,0.0692,0.0,0.134,0.27,81.964,4,world-music
+1VRJ4SY6wqGNtQwJG9z69B,Urban Rescue,Wild Heart,Never Stop,46,237773,False,0.669,0.856,2,-6.437,1,0.0492,0.00995,0.0,0.491,0.502,121.972,4,world-music
+5FcLBY4WNXjCzuFuaWLA5I,Paul Baloche;Integrity's Hosanna! Music,Our God Saves (Live),How Great Thou Art - Live,40,297133,False,0.511,0.935,10,-4.743,1,0.0409,0.00061,2.39e-06,0.928,0.511,107.999,4,world-music
+4rzhfYLxMINSb2g5UysPjB,Lucia Guiada,Meditación Guiada Corta - Mantra Meditación Profunda con Voz Femenina y Frases de Tranquilidad para Sanación Diaria,Jardín Japonés (Remedio Zen contra el Estrés),25,380999,False,0.117,0.224,5,-22.045,1,0.0381,0.944,0.963,0.0992,0.0335,87.464,4,world-music
+17ierdILmXjF0ylXJilXS7,Mc_team,Frecuencias Curativas Solfeggio 369 Hz,396 Hz Destruye Bloqueos Inconscientes,25,236968,False,0.166,0.00892,5,-32.364,0,0.0514,0.988,0.955,0.0918,0.0929,130.205,4,world-music
+5ozmvzdmTenViUuxX5687c,Bryan & Katie Torwalt,I've Got Good News (Live) [Deluxe],Sound Mind - Live,25,455580,False,0.436,0.336,10,-9.894,1,0.0307,0.0455,0.0,0.7,0.143,107.78,4,world-music
+6itTRDLwxG43NhRe8DRvpS,Mc_team,Música Relajante Para Calmar La Mente,Mejorar la Memoria Ondas Alfa,25,555826,False,0.228,0.127,7,-25.494,1,0.0598,0.924,0.777,0.14,0.0363,128.591,3,world-music
+5Ym7Kf9ViygmbRNzd19eL0,Musica para Acostarse,Música para Acostarse - 30 Canciones Relajantes para Dormir Profundamente y Recarga de Energía,Amar ti Mismo,24,310552,False,0.327,0.0848,11,-21.8,1,0.0317,0.993,0.946,0.165,0.104,67.844,4,world-music
+3rmzOry93Q6CQuHKVyBTQm,Lincoln Brewster,Oxygen,Made New,44,202988,False,0.599,0.935,10,-3.736,1,0.0453,0.0541,0.0,0.11,0.405,119.984,4,world-music
+7e3Cq97NjHGQQk8Kkx7Pq4,Agua Mantra,"Agua Pura 2018 - La Mejor Música con Ruidos de Agua, Ríos y Cascadas para Relajarse y Dormir",Rios y Arroyos,25,401999,False,0.197,0.137,1,-20.976,0,0.0449,0.994,0.957,0.104,0.0377,86.368,4,world-music
+2jjyMzq3pvknVSBeSzjck6,Chris Tomlin,Pour Over Me - Worship Together Live 2001,Give Us Clean Hands - Pour Over Me Album Version,42,338026,False,0.274,0.485,8,-9.375,1,0.0299,0.0852,0.0,0.129,0.333,146.464,4,world-music
+6hECXTux8nBYPNDjQHD6jq,Hillsong Worship;Brooke Ligertwood,This Is Our God (Live),Desert Song,36,250973,False,0.536,0.667,2,-8.427,1,0.0268,0.0041,0.00306,0.752,0.329,110.013,4,world-music
+4u2nnrRhnpkLi4Nd24T2OX,Cascada de Lluvia,"Meditación con la Música de Fondo para el Masaje, Spa & Wellness",Paz Interior,25,331613,False,0.517,0.116,5,-21.764,0,0.0483,0.994,0.929,0.109,0.0999,90.003,4,world-music
+6goM4VNCDajmBCqDNDarVe,for KING & COUNTRY,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),It's Not Over Yet,52,218786,False,0.575,0.604,7,-7.223,1,0.0452,0.015,0.0,0.0725,0.517,74.974,4,world-music
+7xsirhcgFWOnItsGuBfrv9,Bethel Music;Steffany Gretzinger,For the Sake of the World,Closer,49,413573,False,0.322,0.558,4,-8.321,1,0.0306,0.0596,0.00016,0.102,0.0813,139.92,4,world-music
+6hzaKM08IZOAWMoITG9UjV,Raul Paz,Ven Ven,No Me Digas Que No,25,207866,False,0.773,0.634,5,-7.33,0,0.0754,0.381,0.0,0.163,0.565,135.991,4,world-music
+4htCtkD53SNQtoY0S5rsNV,Laura Story,Great God Who Saves,Indescribable,39,253986,False,0.671,0.428,8,-7.347,1,0.0282,0.322,0.0,0.111,0.36,113.379,4,world-music
+5uXMiTPXw21xFvyeyqxyIw,Hillsong Worship;Benjamin William Hastings,That's The Power (Live),That's The Power - Live,43,274533,False,0.454,0.635,10,-8.286,1,0.0331,0.0103,0.0,0.233,0.0931,148.169,4,world-music
+33q4ENIRByGmdKeRWoIfSm,I AM THEY,Trial & Triumph,My Feet Are on the Rock,55,183706,False,0.612,0.83,0,-4.361,1,0.0464,0.00171,0.0,0.125,0.525,103.84,4,world-music
+5xmHywsTAxHu1SpjiyLY4p,Rainy Lullaby,"#mindfulness - Soft Rain for Mindful Meditation, Stress Relief Relaxation Music",I Know How to Make You Sleep,25,268000,False,0.162,0.419,2,-17.254,0,0.0417,0.739,0.967,0.0961,0.0757,99.655,5,world-music
+0LWmER4wsrSX0u8lKa8sHT,Hillsong Worship;Ben Fielding,These Same Skies (Studio),Son Of David - Studio,37,273465,False,0.301,0.302,10,-10.509,1,0.0294,0.0628,8.14e-06,0.106,0.13,136.356,4,world-music
+1llB9MDgXKQyCt8VS8bFuc,New Life Worship,New Life Worship: I Am Free (The Essential Collection),Here In Your Presence,45,319744,False,0.412,0.345,2,-9.411,1,0.0281,0.434,1.14e-05,0.36,0.101,139.951,3,world-music
+7MzEigadl6tP6TmaxagWNt,Hillsong Worship,The Best Worship Songs In The World,Worthy Is The Lamb,25,433513,False,0.166,0.687,7,-5.253,1,0.0394,0.00332,3.45e-05,0.188,0.198,151.263,4,world-music
+1bVVKpdOuQ77Ti3kcTdfTy,Passion;Kristian Stanfill,One Thing Remains,One Thing Remains,49,239613,False,0.428,0.73,11,-4.435,1,0.0286,0.00497,0.0,0.244,0.161,147.976,4,world-music
+7dhXGtYEZrxzkIsB1kY0Ps,Cory Asbury,Reckless Love,Born Again,50,252957,False,0.446,0.0974,6,-14.472,1,0.0319,0.95,0.000149,0.0725,0.146,64.068,4,world-music
+4VvhdAJYKkQoVqug73IeOL,Passion;Chris Tomlin,Passion: Our Love Is Loud (Live),God Of Wonders - Live,39,278440,False,0.336,0.653,8,-8.475,1,0.0341,0.0301,2.6e-06,0.964,0.271,160.529,4,world-music
+2pcV9xZcsvwQsXRR1ole1n,Bethel Music;David Funk,Simple,Our Jesus,50,329534,False,0.333,0.119,7,-15.373,1,0.0325,0.787,7.2e-05,0.103,0.0702,139.742,4,world-music
+3EmRQKvvxTg0Zi3txjd2IB,Phil Wickham,Worthy of My Song,Worthy of My Song,39,371640,False,0.4,0.728,2,-6.467,1,0.0448,0.0183,0.0,0.0913,0.205,139.821,4,world-music
+2yCf80rxfz3Dk7OCAnQvz1,Passion;Kristian Stanfill,Even So Come (Radio Version/Live),Even So Come - Radio Version/Live,49,254373,False,0.301,0.762,7,-3.392,1,0.0402,0.0919,0.0,0.0822,0.223,161.864,3,world-music
+6WUwmKUfTF12jlJ2ll1aW5,Bethel Music;Zahriya Zachary,Homecoming (Live),Back To Life - Live,51,395161,False,0.368,0.672,11,-7.597,1,0.0402,0.00269,0.0,0.121,0.165,145.114,4,world-music
+090yW5nfZqCi8jVtf9WxvP,Passion;Chris Tomlin;Matt Redman,Passion: White Flag,Lay Me Down - Live,37,325253,False,0.456,0.805,0,-4.308,1,0.0348,8.3e-05,3.55e-06,0.924,0.21,128.001,4,world-music
+2vLFUP3vfSMoF2G395khbn,Chris Tomlin,Chris Tomlin Collection,Nobody Loves Me Like You,27,266000,False,0.493,0.684,11,-5.436,1,0.0262,0.0468,0.0,0.121,0.357,83.516,4,world-music
+1Fp8jxeTB5GlSbpG50zHLf,Hillsong Young & Free,All Of My Best Friends,Everything I Could Want - Live,36,120413,False,0.628,0.52,4,-8.331,1,0.0278,0.812,0.0,0.963,0.654,89.97,4,world-music
+6jAAYLKxXPyeEoddXu6Gf7,Tenth Avenue North,The Struggle,Worn,50,244120,False,0.51,0.42,6,-8.014,1,0.0312,0.384,0.0,0.102,0.19,125.898,4,world-music
+0lZuO6rDcav6gUpRF9PHER,Hillsong Worship,Let Hope Rise – The Hillsong Movie Soundtrack,This I Believe (The Creed) - Hillsong Worship: No Other Name,30,401773,False,0.423,0.617,0,-6.458,1,0.0308,0.0091,0.0,0.866,0.199,142.042,4,world-music
+5F8dat7oGa2evN3heXZ078,Gateway Worship;John Michael Howell,Here In Your House (Live),Here In Your House - Live,44,258482,False,0.513,0.81,0,-6.826,1,0.0393,0.000796,0.0,0.911,0.372,121.015,4,world-music
+1xszab6anqq4lM6zPR2wJu,Ondas Delta,"Abre Tu Mente: Música con Sonidos Binaurales y Ondas Cerebrales, Creatividad y Memoria",Hipnosis Real,24,350000,False,0.205,0.181,0,-18.639,0,0.0618,0.987,0.968,0.129,0.0377,72.184,3,world-music
+0YR6Ga8ZNd9w93OP8Goaem,Shane & Shane,Vintage,I Could Sing of Your Love Forever,48,261229,False,0.523,0.535,0,-11.394,1,0.031,0.0209,0.0,0.111,0.76,159.903,4,world-music
+0Aa9storemJMkPbFnLH8jE,Bethel Music;Bethany Wohrle,Homecoming (Live),All Hail King Jesus - Live,55,336932,False,0.254,0.527,4,-9.225,1,0.0395,0.0327,3.21e-05,0.0532,0.1,147.561,4,world-music
+4w5gkpszgPKDdWMjTiHm8Y,Passion;Kristian Stanfill,Passion: Even So Come (Live),Shout Hosanna - Live,42,242840,False,0.451,0.952,9,-3.186,1,0.0571,0.0378,0.0,0.901,0.381,95.985,4,world-music
+5htaHX4FQTQ47JNYXWXIYi,Ruido Blanco Hart;Ondas Alfa;Música de concentración profunda,Chispa Encendida: Flujo De Antorchas,Niebla Cálida,24,118000,False,0.254,0.996,6,-21.444,1,0.0549,0.157,0.661,0.353,0.012,107.921,4,world-music
+6AowVmxZ6G2zikw5MeqfOG,Hillsong Young & Free,All Of My Best Friends,Need Your Love - Live,42,209920,False,0.571,0.853,9,-6.589,0,0.0465,0.00643,1.32e-06,0.684,0.376,126.016,4,world-music
+3TqsgsmGiio7F54HTzpx4J,Chris Tomlin,Always,I Believe In Jesus,40,240493,False,0.457,0.435,8,-7.299,1,0.0277,0.262,0.0,0.103,0.312,75.997,4,world-music
+3MDjTpFXZEnGQn8GqGcjOZ,Laura Story,God With Us,Come Thou Long Expected Jesus,25,277920,False,0.234,0.673,1,-4.898,1,0.0372,0.157,0.0,0.129,0.419,159.785,3,world-music
+3quSq5vOjnLoWiOgcj9E4a,Massagem Guru,"Som Relaxante: Música de Massagem, 25 Faixas para Spa e Pensamento Positivo",Boas Vibrações,24,278998,False,0.12,0.0846,1,-24.92,1,0.0465,0.993,0.945,0.105,0.0338,71.719,3,world-music
+1Y6sgWCNUPzhxmDLMD1wH0,Planetshakers,Let's Go (Live),I Just Want You,40,290300,False,0.449,0.213,6,-13.079,0,0.0291,0.573,0.0,0.706,0.172,70.477,4,world-music
+3Um3NbvIH75Q4vSAJSYFJF,Hillsong Worship,Hillsong Chapel: Forever Reign,Cornerstone,38,267546,False,0.421,0.554,11,-7.365,1,0.0323,0.0318,8.89e-05,0.26,0.0709,142.663,4,world-music
+6Jiso4ug5cX4zByqXyGUHw,I AM THEY,Faithful God,Promises,47,182573,False,0.64,0.848,5,-4.172,1,0.0444,0.0103,0.0,0.176,0.639,141.978,4,world-music
+1HkXH8anJdvM3zjouj4E9k,Hillsong Worship;Tasha Cobbs Leonard;Brooke Ligertwood,Awake,Awake My Soul,44,225623,False,0.436,0.721,5,-7.864,1,0.0461,0.00383,0.0,0.361,0.196,126.859,4,world-music
+2EGPol5mJUxbqcnkK0kQyZ,Hillsong Worship;Reuben Morgan,Hope (Live),Here I Am To Worship/Call,38,394293,False,0.338,0.486,4,-7.38,1,0.0308,0.235,0.0,0.433,0.117,143.689,4,world-music
+2WVBWj0856UeKixWOlsUbN,Hillsong Young & Free;Hillsong en Español,Todos Mis Mejores Amigos,Hay Otra Salida - Alternate Studio,24,203960,False,0.53,0.654,11,-7.017,1,0.0279,0.045,0.0,0.0685,0.427,75.033,4,world-music
+4TIL4sLUfgra7SbZgoO9SC,Hillsong Young & Free,Out Here On A Friday Where It Began,Song For His Presence - Live,37,470760,False,0.499,0.531,4,-10.022,1,0.0291,0.0106,0.0,0.247,0.139,104.026,4,world-music
+0UK511K1sEmtdcnD1ylhCJ,Hillsong Young & Free,Youth Revival,Only Wanna Sing (Live),45,195480,False,0.545,0.822,7,-6.555,1,0.0278,0.0136,1.27e-05,0.716,0.229,130.051,4,world-music
+519Ng29TJ1QWHp3DaWxSYb,Ruido Blanco Hart;Musica para Bebes;Canciones De Cuna Para Dormir Bebes,Ruido Blanco De Ondas Para Bebés Durmiendo Vol. 1,Grandes Olas Rompiendo,24,118000,False,0.165,0.112,1,-39.693,1,0.101,0.96,0.972,0.107,0.173,85.856,4,world-music
+5Xiz4KHePDAnoI7nC7Vofr,Hillsong Worship,Jesus Is,How Great Is Our God,43,386986,False,0.359,0.501,2,-8.621,1,0.0294,0.151,2.31e-06,0.11,0.077,145.785,4,world-music
+5xkBCB7MqqCXNfIucasj9W,I AM THEY,Faithful God,Lift My Eyes,43,222746,False,0.516,0.832,10,-4.899,1,0.0419,0.124,0.0,0.0663,0.614,139.955,4,world-music
+2RTxaHkrOC3WgQU6SmPBPA,Dormida: Por Daniela;Sonidos De Lluvia y Tormentas,Suena Una Hora de Calma Lluvia,Ojo Mojado Cerrado,24,106000,False,0.196,0.116,3,-31.417,1,0.0377,0.859,0.956,0.106,0.102,49.126,4,world-music
+7cKOonqtTxSUBLcUg1vMoO,Hillsong Worship,Shout To The Lord Platinum 1,My Redeemer Lives,33,232333,False,0.535,0.793,4,-8.073,1,0.0518,0.0409,0.0,0.487,0.558,131.798,4,world-music
+4I8LbCVYOc8gJbx8fBBRqo,Hillsong Worship,Cornerstone (Deluxe Edition/Live),Cornerstone - Studio Version,37,208120,False,0.388,0.794,0,-6.262,1,0.044,0.12,0.0,0.0957,0.328,150.032,4,world-music
+0VI2Pe8VIcAQoGg42Zs2vA,Reiki Armonía,Sonidos de Fondo para Reiki: Gotas de Agua,"Para Reiki: Gotas de Agua, Pt. 24",25,109506,False,0.139,0.925,10,-32.267,0,0.0474,0.131,0.992,0.895,0.00271,85.949,1,world-music
+5DWuh0oKJfcpabhzAMbXOM,Bethel Music;David Funk;Matt Redman,Homecoming (Live),Son Of Suffering - Live,50,479771,False,0.375,0.508,1,-9.399,1,0.0335,0.115,2.04e-06,0.0647,0.124,135.024,4,world-music
+2EnZf7wbFv7ST4CJ3EvNzT,El Ruido Blanco,Ruido Blanco para el bebé: sonidos relajantes para bebés recién nacidos para ayudar a dormir,Ruido Rosa Puro - Una Hora Versión,24,3601693,False,0.0,2.03e-05,1,-11.165,1,0.0,0.186,1.0,0.362,0.0,0.0,0,world-music
+5B1fUGBm5LF3V9UlAYpLpf,Hillsong Worship,No Other Name,All Things New,36,251264,False,0.369,0.637,11,-6.279,1,0.0299,0.0443,0.0,0.179,0.121,75.37,4,world-music
+0LpDJTnJrHNZrhDiHaa65J,Planetshakers,This Is Our Time (Live),Covered - Live,34,475813,False,0.239,0.694,10,-5.618,1,0.0381,0.00045,0.0,0.425,0.166,169.966,3,world-music
+5vnwBJxMnwGPPG2U3tToJc,Mosaic MSC,Heaven,Maker of the Heavens,25,253320,False,0.517,0.606,7,-8.692,1,0.0319,0.138,1.67e-05,0.0645,0.187,148.054,4,world-music
+16w5AAmYno58qPvkMJAcZz,Lucas Cervetti;Aymará,Trempülkalwe,Amar el Agua,25,266847,False,0.177,0.208,11,-12.633,1,0.0376,0.906,0.919,0.111,0.0381,68.734,4,world-music
+2R0B44jOb1mC2rU8ObMh0f,Michael W. Smith,Worship,Awesome God - Live,43,280600,False,0.215,0.699,4,-9.236,0,0.12,0.387,0.0122,0.974,0.147,135.639,4,world-music
+2QPqSUhQo0Ghzaj1YGtnCb,Cesária Evora,Anthologie,Cinturao Tem Mele,25,212800,False,0.535,0.537,7,-9.015,0,0.038,0.808,0.0,0.255,0.919,119.241,4,world-music
+0ZW5hqwu7WWaNGcrk2Jc68,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),Hymn Of Heaven - Acoustic,37,288345,False,0.464,0.239,2,-10.822,1,0.0289,0.606,0.0,0.112,0.361,139.63,4,world-music
+797ikuM3k4gkjaxStQnxgW,Cesária Evora;Ismaël Lô,Rogamar,Africa Nossa (with Ismaël Lô),25,232146,False,0.804,0.854,7,-7.937,1,0.0487,0.611,8.31e-05,0.395,0.841,104.004,4,world-music
+0RIuAkPZlstLtckTla1i9c,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 11",25,320465,False,0.285,0.21,4,-15.226,1,0.0335,0.934,0.0601,0.11,0.105,70.582,3,world-music
+5hk9uMYxhN2rChyO1UupWN,Hillsong Worship,let there be light.,Look To The Son,40,276426,False,0.527,0.838,0,-6.615,1,0.0478,0.00161,0.0,0.764,0.371,121.96,4,world-music
+7AbEm0TbdsKTpK0aMA2QwL,Hillsong Worship;Mi-kaisha Rose,These Same Skies (Studio),Never Walk Alone - Studio,40,254235,False,0.458,0.58,5,-7.502,1,0.0347,0.0802,1.41e-06,0.238,0.168,143.81,4,world-music
+3nEUnvbFAS0GSBSeZYbKX4,Hillsong Young & Free,III,Days Gone By,38,228986,False,0.532,0.23,4,-13.153,1,0.0314,0.81,0.0,0.107,0.267,124.822,4,world-music
+5hwWiu59QUAMJOjLZqi1FF,Brian Doerksen,It's Time,Refiner's Fire,43,292546,False,0.503,0.143,2,-14.105,1,0.0291,0.913,0.0,0.12,0.263,70.072,4,world-music
+2Iz9iPqFT7gk3ZCkpyyP18,Hillsong Young & Free,All Of My Best Friends,As I Am - Live,38,324173,False,0.437,0.555,10,-6.758,1,0.0367,0.0833,0.0,0.704,0.157,119.902,4,world-music
+45uqKF8Fqwd0LgAABnRRYg,Hillsong Young & Free;Andy Mineo,III (Reimagined),Every Little Thing (feat. Andy Mineo),36,202878,False,0.526,0.707,5,-5.696,1,0.0388,0.053,0.0,0.13,0.39,154.83,4,world-music
+7CTyBvcRHWso8oUcvyNkLt,for KING & COUNTRY;R3HAB,God Only Knows (R3HAB Remix),God Only Knows (R3HAB Remix),46,155000,False,0.542,0.695,11,-7.566,0,0.0559,0.19,0.000184,0.515,0.435,144.007,4,world-music
+5DPQC7LbE4b8u8Jfzuu4bc,Bethel Music;Jenn Johnson,Goodness of God (Live),Goodness of God (Live),42,296400,False,0.466,0.67,8,-4.701,1,0.0297,0.155,0.0,0.145,0.395,126.142,4,world-music
+1BKzi9a5cjsvy9woy3VZhb,Chris Tomlin;Blessing Offor,Chris Tomlin & Friends,Tin Roof (feat. Blessing Offor),46,203752,False,0.418,0.331,8,-8.296,1,0.0339,0.931,4.92e-05,0.0994,0.376,82.134,5,world-music
+6tEPe1D8X4gkHUfcUsiNTL,Matt Redman,The Same Jesus,The Same Jesus,42,225996,False,0.293,0.658,6,-9.224,0,0.0447,0.0122,0.0,0.089,0.338,157.315,3,world-music
+1jLAfwuB7v9lBdwDcJF39G,Phil Wickham,House Of The Lord,House Of The Lord,41,256133,False,0.495,0.789,10,-4.139,1,0.0348,0.0199,0.0,0.126,0.286,86.019,4,world-music
+7BAPIZgldsXfRcQs0bybAC,Phil Wickham,Reason I Sing (Acoustic),Reason I Sing - Acoustic,33,272391,False,0.43,0.21,7,-12.989,1,0.0352,0.884,0.0,0.0677,0.305,151.439,3,world-music
+04BK9iNMK68az2vNr0d9B4,Hillsong Worship,Hillsong Chapel: Yahweh,Mighty To Save,37,311400,False,0.303,0.731,9,-7.861,1,0.0608,0.164,0.000383,0.284,0.224,147.386,4,world-music
+0BBjhj30FWEZre4UQ4jU6m,Hillsong Young & Free;Alexander Pappas,Vivo Estás,Vivo Estás,24,227668,False,0.73,0.744,1,-4.444,0,0.0439,0.00651,3.36e-05,0.0633,0.696,131.971,4,world-music
+33cxZe0ojty9oB0tvVcNOh,Hillsong Kids,Can You Believe It!?,Ask Seek Knock,38,203440,False,0.658,0.575,9,-7.546,1,0.0276,0.00386,0.0,0.135,0.82,100.026,4,world-music
+178bcv2OQc2eB3JT5cJ0Fd,Chris Tomlin;Brett Young;Cassadee Pope,Be The Moon (feat. Brett Young & Cassadee Pope),Be The Moon (feat. Brett Young & Cassadee Pope),32,214724,False,0.53,0.841,9,-4.643,1,0.0342,0.25,0.0,0.0939,0.417,75.033,4,world-music
+08sKY18GLyeVmfjEUU3Ryk,Bethel Music;Sydney Allen,Simple,Honesty,47,314328,False,0.402,0.263,2,-12.643,1,0.0301,0.821,0.0,0.0824,0.282,143.773,4,world-music
+0AGM3L1E346dTkLcGMaEdv,Chris Tomlin;Bear Rinehart;NEEDTOBREATHE,Chris Tomlin & Friends,Power (feat. Bear Rinehart of NEEDTOBREATHE),43,193240,False,0.344,0.598,9,-4.596,1,0.0376,0.541,0.0,0.196,0.276,179.89,4,world-music
+2ok2FRBdJTClHUN68whaEE,Travis Cottrell,I'm Living Proof,Man of Sorrows,40,319960,False,0.417,0.535,2,-7.033,1,0.0359,0.209,0.0,0.0948,0.355,143.895,4,world-music
+6hgwFbsBPGfqBwynBGLyc5,for KING & COUNTRY,What Are We Waiting For?,Benediction,41,181507,False,0.283,0.0678,2,-13.795,1,0.033,0.704,0.00125,0.11,0.179,86.938,4,world-music
+1pVosmqPBSi5QHiQZFcsBy,Bethel Music;Brian Johnson,The Loft Sessions,One Thing Remains,45,241773,False,0.471,0.617,0,-9.163,1,0.0302,0.424,2.62e-05,0.364,0.362,136.013,4,world-music
+5QRO4jOYY8EFqyq04aQ75E,Chris Tomlin,Always,All In All,40,227033,False,0.503,0.581,10,-6.928,1,0.0347,0.188,0.0,0.109,0.379,143.969,4,world-music
+08Uob2WMCXKlzzNcHTxXG4,Thetahealing,Ondas Theta 2018 - Frecuencias Relajantes para Dormir y Dejar de Pensar Tanto,Sonidos Curativos,23,357999,False,0.139,0.0838,3,-24.937,0,0.0437,0.994,0.907,0.109,0.0363,70.194,5,world-music
+4wnkpCwzXKfDXE2H4qjemi,Petra Espiritu,"Música de Meditación Chamánica - Canciones Sonidos Instrumentales Meditar, Relajar Profundamente",El Fuego Interno,23,240000,False,0.526,0.192,10,-19.492,1,0.0327,0.89,0.942,0.1,0.365,125.962,4,world-music
+5ecN8ysoiyCrdGmUyyEOba,for KING & COUNTRY,Burn The Ships,Never Give Up,47,226373,False,0.59,0.782,9,-5.638,1,0.123,0.0107,1.12e-05,0.0484,0.352,177.811,4,world-music
+2jG1hlHYxmWHyjAda1QGVV,Hillsong Worship,Shout To The Lord Platinum 1,Eagle's Wings,40,377533,False,0.179,0.384,7,-10.577,1,0.0299,0.561,7.77e-06,0.191,0.171,69.024,4,world-music
+07aaGuAVr6KEr4ppMVl4yr,Planetshakers,Greater (Live),Move In Power - Live,43,428102,False,0.187,0.587,5,-7.662,0,0.0472,0.0154,9.92e-06,0.105,0.0716,75.237,4,world-music
+62U9SPNDUlNdhsqQ4aWZmm,Leeland,Majesty: The Worship EP,Majesty,41,305880,False,0.404,0.649,2,-5.299,1,0.0285,0.00278,8.85e-06,0.191,0.194,77.064,4,world-music
+1QNIcIBXg4M2wXvTxHCQuo,Mc_team,Música Relajante Para Calmar La Mente,Flauta India Relajante,24,604806,False,0.132,0.0542,7,-20.167,1,0.0364,0.969,0.928,0.0988,0.0518,97.971,4,world-music
+2PUt9U9BfXaKZ6UwkO4SSy,Petra Espiritu,Música para Vibrar Alto – Música para Aumentar Tu Energía y Tener Armonía con el Universo,Mente Completa,23,355000,False,0.325,0.00267,10,-20.489,1,0.0514,0.979,0.933,0.0991,0.0964,69.883,4,world-music
+7g6LwD8T8nYuuDj6l62nSL,Housefires,Housefires III,Yes and Amen,50,426715,False,0.494,0.522,2,-6.723,1,0.0291,0.319,0.0,0.67,0.188,72.009,4,world-music
+4vuJBFn3pjgac1NPJoVvly,Planetshakers,Greater (Live),It Is Done - Live,41,213523,False,0.5,0.937,0,-4.606,1,0.0886,0.00633,0.0,0.686,0.341,131.988,4,world-music
+5mukyVBO2iWwXEh3x33im7,Hillsong Worship,Hillsong Chapel: Forever Reign,Hallelujah,36,129960,False,0.348,0.249,9,-10.28,1,0.029,0.143,0.0,0.221,0.0913,74.577,3,world-music
+2tcoj7QkDbo5CO86Dee9OY,Agua Mantra,"Salida del Sol: Poder del Cerebro, Musica para Reiki, Música Relajante para Yoga y Meditación",Música para Tranquilidad,24,271000,False,0.174,0.133,0,-23.521,1,0.0374,0.969,0.274,0.154,0.0719,92.279,4,world-music
+0x33SufELKXXg0zxhvvKum,Hillsong Worship,Ultimate Worship Vol 1,Made Me Glad,41,300386,False,0.341,0.748,10,-5.559,1,0.0334,0.047,0.000529,0.396,0.326,161.714,4,world-music
+4iFGj9LMN5xYuGeDcNifo9,Jadon Lavik,Roots Run Deep,What A Friend,41,310506,False,0.329,0.368,2,-9.865,1,0.0334,0.395,1.67e-05,0.115,0.354,108.685,4,world-music
+6IYrkhrJZlDUcUpz0sl21d,Hillsong Young & Free,All Of My Best Friends,World Outside Your Window - Studio,36,298764,False,0.414,0.639,9,-6.234,1,0.0305,0.0684,0.0,0.102,0.347,136.789,4,world-music
+0YIJ5WfVKpq7B21QRkmRJR,for KING & COUNTRY,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Ceasefire,46,256640,False,0.643,0.78,6,-5.352,0,0.04,0.102,2.81e-05,0.0941,0.48,113.96,4,world-music
+2tdLKWPT0CMJleoyCGo64F,Planetshakers,Rain,My Reason - Live,42,208978,False,0.575,0.939,1,-4.113,1,0.127,0.00118,0.0,0.205,0.624,128.035,4,world-music
+5FQxCrphg2xjAhNzUXRQxc,Hillsong Worship,There Is More,Lettered Love - Live,40,222733,False,0.333,0.52,0,-9.746,1,0.0315,0.182,6.28e-06,0.673,0.259,91.983,4,world-music
+1gnZdWSuXQz8qUJ65zX2fN,Planetshakers,Let's Go (Live),Born To Praise,45,218197,False,0.681,0.843,5,-6.213,1,0.0423,0.0421,0.0,0.791,0.612,104.983,4,world-music
+1NJBnGY0qu7yQKBYBZmiyh,Michael W. Smith,Worship,The Heart Of Worship - Live,43,375000,False,0.43,0.376,4,-12.676,1,0.0361,0.727,8.29e-05,0.234,0.338,147.28,4,world-music
+3jIdl5LURV3fJNmVSnDS74,Hillsong Worship,No Other Name,Heaven And Earth,37,302113,False,0.359,0.78,1,-5.685,0,0.0372,2.46e-05,0.0,0.738,0.26,151.939,4,world-music
+1rOhVx3owbBq4oZL9Vqlhk,Cesária Evora,Voz d'Amor,Velocidade,25,201600,False,0.647,0.682,2,-6.662,1,0.0394,0.731,4.02e-06,0.235,0.879,95.701,4,world-music
+732IGuPmiz5jt3iasSLlFi,Hillsong Worship,There Is More,You Are Life - Live,40,203426,False,0.558,0.858,0,-6.5,1,0.0431,0.00571,0.0,0.715,0.269,114.992,4,world-music
+6jMmnkoP60X1lshIPBMGdg,Hillsong Worship;Jad Gillies,Team Night,Hope Of The Ages - Live at Team Night,41,334053,False,0.158,0.499,0,-7.422,1,0.0369,0.00399,0.0,0.112,0.109,199.573,3,world-music
+73thBYypIRDkDz9Fw1kgCN,Bethel Music;Josh Baldwin,Victory (Live),Stand in Your Love - Live,50,248760,False,0.426,0.829,0,-4.075,1,0.0334,0.118,0.0,0.137,0.524,144.834,4,world-music
+57xCSQ2a41k8zW8PkcbnBO,Hillsong Worship;Mi-kaisha Rose,These Same Skies (Live),Surrounds Me - Live,38,219378,False,0.531,0.534,5,-7.577,1,0.0277,0.0143,0.0,0.0642,0.344,81.873,4,world-music
+4cd4S4o80CBDAXEI9f4Fch,Chris McClarney,Breakthrough (Live),Hallelujah For The Cross - Live,46,332946,False,0.421,0.75,2,-6.596,1,0.0437,0.227,0.0,0.702,0.199,75.003,4,world-music
+7h9VHJe3SJnNpedITpOQWO,Cesária Evora,Voz d'Amor,Jardim Prometido,24,287466,False,0.694,0.463,4,-6.785,0,0.029,0.642,2.24e-06,0.118,0.178,106.684,3,world-music
+1gdo4xYWtoGFRTb6zyxq0n,Cesária Evora,Cesaria Evora & ...,Sodade - En Duo Avec Eleftheria Arvanitaki - Live,25,354626,False,0.483,0.501,0,-10.215,0,0.0587,0.807,0.000217,0.711,0.583,154.884,4,world-music
+0BP0JHEeYVZZsyngW4Uc1x,Chris Tomlin,Hello Love,I Will Rise,46,301240,False,0.438,0.32,11,-7.085,1,0.0282,0.356,0.0,0.0767,0.267,81.979,4,world-music
+4a6gCiN3y65Dg1U3aTkFNW,Hillsong Young & Free,III,Just Jesus,40,215066,False,0.679,0.757,10,-7.668,0,0.0556,0.0255,0.355,0.312,0.611,110.015,4,world-music
+3ceYEyDWAU10XMolE7bWYD,Hillsong Young & Free,All Of My Best Friends (Acoustic),Lord Send Revival - Acoustic,41,293160,False,0.248,0.294,11,-8.327,1,0.0295,0.764,0.0,0.108,0.126,149.464,3,world-music
+5dhnnWCTlmxsgzXyb1wVKm,"Phillips, Craig & Dean",Fearless,Revelation Song,51,353013,False,0.397,0.727,11,-5.316,1,0.0316,0.0336,8.33e-05,0.113,0.141,136.017,4,world-music
+5NPFbfu66b3BlhgfZGK9HJ,Hillsong Young & Free,III,Heart Of God,40,344853,False,0.455,0.445,0,-9.249,1,0.0306,0.155,7.88e-06,0.174,0.0987,142.004,4,world-music
+7iraBslVEX9wlVVwmsg4m7,Phil Wickham,Hymn of Heaven,God of Revival,36,320146,False,0.432,0.701,1,-6.181,1,0.0474,0.0202,0.0,0.151,0.169,144.074,4,world-music
+5W1oLSGVHOpd3qTfFhieIq,Chris Tomlin;We The Kingdom,Chris Tomlin & Friends,Reaching For You (feat. We The Kingdom),39,281440,False,0.465,0.726,2,-5.334,1,0.0602,0.0603,0.0,0.0919,0.185,139.916,4,world-music
+7mZQL5rMd6BwppELobLMpI,Bethel Music;Jenn Johnson;Chris Quilala,Homecoming (Live),Send Me - Live,45,389982,False,0.199,0.277,8,-10.719,1,0.0327,0.843,0.0,0.0725,0.142,89.074,5,world-music
+2q7NWcqIPqAr6bBF6Heqs7,Hillsong Kids,Can You Believe It!?,Who You Say I Am,36,239040,False,0.384,0.576,11,-9.801,1,0.0311,0.257,0.0,0.0868,0.324,171.987,3,world-music
+2o2u20zbZ2bCOUoBaGOM2s,Michael W. Smith,Worship Again,Ancient Words,41,276066,False,0.235,0.208,7,-14.046,1,0.0317,0.752,0.0,0.947,0.226,144.471,3,world-music
+2NLGDqOvvIU1ZNzAFHeVcO,Bethel Music;Brian Johnson,Peace,By the Grace of God,46,319546,False,0.585,0.113,1,-14.884,1,0.0335,0.921,0.0,0.108,0.224,138.186,4,world-music
+5uucjQhsswzAAn4tJpjujn,Bethel Music;Paul McClure;Hannah McClure,Simple,Stand In Awe,49,330422,False,0.3,0.189,7,-11.753,1,0.0303,0.935,0.0,0.114,0.264,96.731,3,world-music
+7kmWh757H6leAXfZQSe4gp,Hillsong Kids,Can You Believe It!?,My Best Friend,36,203200,False,0.57,0.838,2,-6.17,1,0.0257,0.000186,0.0,0.08,0.454,105.977,4,world-music
+1BsEjM4yjgsTlykhygDeNr,Shane & Shane,"Psalms, Hymns, and Spiritual Songs, Vol. 1",Psalm 90 (Satisfy Us with Your Love),45,315007,False,0.395,0.397,10,-9.125,1,0.0334,0.537,6.75e-05,0.125,0.229,131.527,4,world-music
+1pPRYJX9WM9eV9dn2eayzy,Bethel Music;Jenn Johnson,Revival's In The Air (Live),Sing His Praise Again (Oh My Soul) - Live,44,387167,False,0.503,0.747,11,-7.591,1,0.0285,0.0795,2.72e-05,0.099,0.189,132.001,4,world-music
+2rttfaiYMTmtThsgdYmCWg,Phil Wickham,Hymn of Heaven,Heart Full of Praise,35,240853,False,0.341,0.349,11,-8.402,1,0.0319,0.628,0.0,0.162,0.199,70.65,3,world-music
+3JLp0nKPNJKfeFWJMJYj1g,Bethel Music;Brian Johnson;Jenn Johnson,"Peace, Vol. II",Battle Belongs,45,372546,False,0.563,0.307,10,-11.49,1,0.0286,0.863,3.2e-05,0.108,0.25,131.91,4,world-music
+0elHZFtNBDKLQtV6Q0TMP8,Planetshakers,Overflow (Live),Come Right Now - Live,42,228341,False,0.523,0.899,5,-8.22,0,0.121,0.000108,0.00143,0.713,0.439,128.075,4,world-music
+5zKEoeTgIzSW4nUzAW6SIq,Bryan & Katie Torwalt,Bryan & Katie Torwalt Collection,Remember,50,312266,False,0.416,0.429,0,-10.347,1,0.0355,0.592,0.0,0.0622,0.0926,91.072,4,world-music
+6ANte5hMRsKsiUd7x0F4kg,Ruido Blanco Hart;Ondas Alfa;Música de concentración profunda,Chispa Encendida: Flujo De Antorchas,Niebla Hirviendo,23,116000,False,0.249,0.995,1,-21.726,1,0.0722,0.178,0.819,0.397,0.00984,110.245,4,world-music
+49EYyEIx0xpGuPLWxSsNgX,Passion;Kristian Stanfill;Tasha Cobbs Leonard;Anna Golden,Burn Bright,What He's Done - Live From Passion 2022,50,397216,False,0.255,0.558,1,-7.974,1,0.0359,0.0169,2.17e-05,0.0879,0.183,141.486,4,world-music
+3k4jdLi2SgFwoiXACKgm8s,Travis Cottrell,Alive Forever (Live),Blessed Be Your Name - Live,36,386040,False,0.546,0.514,9,-7.224,1,0.0324,0.377,6.87e-06,0.1,0.14,119.91,4,world-music
+6sxp2vjr5QD13ydS5dC6AP,Chris Tomlin,Always,Father Of Lights,39,272290,False,0.541,0.495,9,-6.221,1,0.0288,0.452,0.0,0.112,0.386,74.986,4,world-music
+2OYba9zhoMDKvoexwBzQk3,Hillsong Worship;TAYA;David Ware,Fresh Wind / What A Beautiful Name (Live),Fresh Wind / What A Beautiful Name - Live,43,611770,False,0.308,0.613,0,-7.665,1,0.0427,0.0167,0.0,0.217,0.19,127.08,4,world-music
+27lvXcZqfFzjnI50JXJLGR,Starfield,I Will Go,Reign In Us,45,334466,False,0.392,0.769,0,-5.137,1,0.032,0.0403,0.0,0.306,0.294,144.025,4,world-music
+4EQYur0tRZpHbQJxgCRy4Q,Michael W. Smith,Worship,"More Love, More Power - Live",39,310293,False,0.226,0.275,7,-13.02,0,0.0302,0.74,9.42e-05,0.344,0.151,142.075,4,world-music
+1f1Gw6iSRoOrc9rEYc3rhx,for KING & COUNTRY;Andy Mineo,RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition),Run Wild.,48,240986,False,0.59,0.837,7,-5.204,0,0.0921,0.217,1.66e-05,0.107,0.356,130.043,4,world-music
+5bSlH6lVzXjxnQIIsTPRDn,Bethel Music;Francesca Battistelli,Starlight (Live),God I Look to You - Live,45,385360,False,0.445,0.559,11,-9.474,1,0.0364,0.00603,1.24e-05,0.949,0.185,136.016,4,world-music
+39yNGLlopJa3q3brHLUrlc,Phil Wickham,Heaven & Earth,Heaven Song,42,244546,False,0.447,0.315,7,-9.422,1,0.0282,0.437,0.0,0.125,0.334,134.052,4,world-music
+16b3DajNe0LzMGSEV2ZQP6,Vertical Worship,Frontiers,Exalted Over All - Live,42,383293,False,0.464,0.788,11,-6.405,1,0.0405,0.144,0.0,0.195,0.186,104.965,4,world-music
+6deng8FUWMyGHyGgqs1VYm,Hillsong Worship,OPEN HEAVEN / River Wild,In God We Trust,41,241263,False,0.38,0.742,2,-5.677,1,0.0369,0.000812,0.0,0.856,0.262,160.748,4,world-music
+2NODl42T5Ox6POgs24mWWs,Descansa,"Super Relajante - Aliviar la Ansiedad y Sanar el Cuerpo, Objetivo Bienestar para Armonizar el Alma",Como Concentrarse para Estudiar,23,227000,False,0.421,0.0099,7,-26.688,1,0.0332,0.982,0.954,0.0928,0.0357,69.963,3,world-music
+7GyF1KwnX5YBxPw2gjbfOd,Shane & Shane,Vintage,Lord I Lift Your Name on High,42,196022,False,0.549,0.466,2,-12.071,1,0.0379,0.2,1.13e-06,0.121,0.258,149.87,4,world-music
+62GB5MzYJtNP3xAONmCBnv,Fondo de la lectura,Estudiar Con Sonidos de Truenos,"Estudiar Con Sonidos de Truenos, Pt. 09",24,96219,False,0.24,0.86,8,-22.247,0,0.0673,0.000592,0.978,0.82,0.0223,112.507,3,world-music
+3SlET8cwpL8uGI6BFFqmsp,for KING & COUNTRY,What Are We Waiting For?,Unsung Hero,45,211822,False,0.342,0.297,0,-8.403,0,0.0312,0.717,6.21e-05,0.131,0.071,76.657,4,world-music
+3f7Kj9ZX3DEIdAc2UnrOKi,Michael W. Smith,Worship,Breathe - Live,44,416893,False,0.289,0.262,0,-11.907,1,0.0304,0.616,0.0012,0.933,0.154,136.47,4,world-music
+3qZ0bcvpxtd6uLzhNJb6Z1,Lucas Cervetti,Trempülkalwe,Guardianas de los Océanos,24,334592,False,0.0765,0.317,6,-11.549,0,0.0337,0.797,0.869,0.111,0.124,80.168,4,world-music
+37Ms9rdo26omDpCINsHhui,Chris Tomlin;Steffany Gretzinger,"O Lord, You're Beautiful","O Lord, You’re Beautiful (with Steffany Gretzinger)",43,235599,False,0.406,0.121,5,-11.65,1,0.0373,0.806,0.0,0.115,0.387,118.071,4,world-music
+3hyNia7VDRIF3XhSGWJPVo,Cesária Evora,Carnaval de Mindelo,Angola (versão carnaval),24,272880,False,0.691,0.651,1,-9.419,1,0.11,0.501,1.51e-05,0.162,0.552,105.997,4,world-music
+1J9FMt3VPeTbnhSOiDFZj5,Reiki Armonía,Sonidos de Fondo para Reiki: Gotas de Agua,"Para Reiki: Gotas de Agua, Pt. 40",23,113406,False,0.102,0.93,8,-31.992,1,0.0422,0.143,0.993,0.85,1e-05,75.548,3,world-music
+2uVI5v84RZfWonUxb96B11,Hillsong Worship,Glorious Ruins,You Never Fail,39,311240,False,0.171,0.752,6,-5.515,0,0.0414,0.0224,0.0,0.317,0.165,72.895,4,world-music
+1JkzzVIHygqz274CKFvjoa,Reiki Armonía,Sonidos de Fondo para Reiki: Gotas de Agua,"Para Reiki: Gotas de Agua, Pt. 01",23,104025,False,0.173,0.895,1,-33.335,1,0.0431,0.152,0.992,0.92,0.00312,94.917,3,world-music
+03KJvToiQ5xkTvgii0iVuJ,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 1",23,421000,False,0.196,0.126,2,-15.217,1,0.0306,0.976,0.905,0.0639,0.0796,99.783,1,world-music
+58ePGDlx3W3o9sh8N1HLh3,Chris Tomlin;We The Kingdom,Miracle Of Love: Christmas Songs Of Worship,Christmas Day,36,263266,False,0.256,0.648,10,-4.237,1,0.0382,0.0202,0.0,0.299,0.331,179.688,3,world-music
+6r7uNQPj4LfNj70j21CJR2,Bryan & Katie Torwalt;Cody Carnes,I've Got Good News (Live) [Deluxe],Simple Kingdom - Live,24,384501,False,0.266,0.318,0,-8.948,1,0.0429,0.265,0.0,0.713,0.219,190.389,3,world-music
+6F8GSWUO4zMJYwZFxqg25m,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 10",23,345909,False,0.445,0.168,0,-16.367,1,0.0306,0.962,0.679,0.554,0.0951,132.089,4,world-music
+0UaKprr86DxlOQzWMhYT5K,Massagem Guru,"Relaxamento, Yoga e Meditação - Seleção de Música Doce, Suave e Relaxante para Ajudar a Acalmar, Trazer Serenidade",Música Doce,23,312396,False,0.138,0.255,5,-19.885,1,0.0331,0.988,0.871,0.0848,0.0399,74.75,5,world-music
+3Lca29U4AaObrsNauGFhgK,Chris Tomlin,How Great Is Our God: The Essential Collection,How Great Is Our God - World Edition,42,365134,False,0.356,0.555,1,-5.658,1,0.0311,0.237,0.0,0.107,0.0759,78.104,4,world-music
+6iMzeLAXynEt62vhtZhiPd,Hillsong Worship,let there be light.,In Control (Acoustic),41,271586,False,0.312,0.22,8,-9.98,1,0.0411,0.829,0.0,0.103,0.173,71.038,4,world-music
+23J8FIDtxge7KrlpGZG8sn,Chris Tomlin,The Ultimate Playlist,Whom Shall I Fear (God Of Angel Armies),35,267353,False,0.444,0.766,0,-3.648,1,0.0322,0.059,0.0,0.269,0.393,148.023,4,world-music
+03EM4X7msE6ZRxT1a6zVBh,Hillsong Worship;Reuben Morgan,let there be light.,I Will Boast In Christ,39,292373,False,0.353,0.575,9,-7.047,1,0.0316,0.0278,0.0,0.856,0.255,143.982,4,world-music
+4qCv9ASsTJ4kg8gsUWUaAD,Cory Asbury;Anna Asbury,Dear God (Acoustic),Dear God - Acoustic,40,217373,False,0.626,0.195,3,-12.24,1,0.0379,0.876,0.0,0.117,0.532,153.712,4,world-music
+3t4dCm7bHSGzl2xigMaN1Y,Passion;Chris Tomlin,Passion: Here For You (Live),All My Fountains - Live,39,311788,False,0.516,0.806,9,-7.74,1,0.0492,0.00198,3.75e-06,0.699,0.315,103.063,4,world-music
+3rqhtNTYBbUxQ2j4NaG0Qx,Kari Jobe,The Blessing (Live),First Love - Live,46,556844,False,0.124,0.481,2,-7.785,1,0.0324,0.174,0.0,0.268,0.105,74.962,4,world-music
+5g4kuydmePUJAMYGNACvRy,Hillsong Young & Free,lll (Studio Sessions),Highs & Lows - Acoustic,43,351771,False,0.515,0.261,10,-12.016,1,0.0289,0.781,0.000828,0.11,0.0388,119.941,3,world-music
+11TMcTS3iao1dvMogUSQVk,Buena Vista Social Club,Buena Vista Social Club,De Camino a la Vereda,11,303973,False,0.63,0.462,3,-10.792,1,0.0406,0.849,0.000186,0.125,0.963,84.252,4,world-music
+4WenUCZ8CKWSf2Pyfp3izS,Passion;Chris Tomlin,Chris Tomlin Collection,"Lord, I Need You - Live",28,274829,False,0.283,0.432,11,-8.925,1,0.0352,0.543,0.0,0.965,0.161,73.195,4,world-music
+3DY5GOnDQXNKP0fNXcnW2U,one sonic society;Elle Limebear,Love Song,Love Song,43,214693,False,0.487,0.568,11,-8.444,0,0.0395,0.811,0.000107,0.135,0.291,187.774,4,world-music
+3xKxh0ES9v65MfR6wWjiCl,Jesus Culture;Kim Walker-Smith,Church Volume Two (Live),Fearless - Live,45,280519,False,0.548,0.737,6,-7.471,1,0.0337,0.157,0.0,0.382,0.407,119.974,4,world-music
+7G41Hwq5m4RZYaFyHhQtr3,"Phillips, Craig & Dean",You're Still God,There Is A God,40,244413,False,0.452,0.821,7,-5.863,1,0.0442,0.382,0.0,0.0902,0.311,147.871,4,world-music
+2y5w00ZbmGhfp1bQytUtDE,Bethel Music;Cory Asbury,Victory (Live),Endless Alleluia - Live,45,323346,False,0.394,0.627,9,-6.707,1,0.0322,0.25,0.0,0.118,0.237,153.939,4,world-music
+5QmvryaxUQyXyFMljdgOPD,Passion;Chris Tomlin,Passion: OneDay Live,You Are My King (Amazing Love) - Live,38,574973,False,0.337,0.418,4,-10.758,1,0.034,0.101,0.0,0.395,0.305,131.985,4,world-music
+06p76VeZ5hze6B575qxlXz,Hillsong Worship;Brooke Ligertwood;David Ware,Fresh Wind,Fresh Wind - Studio,47,273183,False,0.558,0.418,0,-9.144,1,0.0291,0.137,0.0,0.0965,0.385,125.97,4,world-music
+0qcVosiukBmgBS0eUDrwk6,Chris Tomlin;Florida Georgia Line,Chris Tomlin & Friends,Forever Home (feat. Florida Georgia Line),44,207720,False,0.619,0.621,6,-4.78,1,0.0229,0.461,0.0,0.186,0.633,92.017,4,world-music
+37KOF8SG5laalNUQhtS8dN,Laura Story,God of Every Story,Till I Met You,35,198043,False,0.509,0.572,7,-4.139,1,0.0282,0.606,4.42e-05,0.125,0.141,139.852,4,world-music
+4coQmgq7zuag1hyCfGUWjS,Darlene Zschech;West Australian Symphony Orchestra,The Power of Your Love Symphony (Live in Australia),There Is None Like You - Live,37,194266,False,0.231,0.234,5,-12.478,1,0.0328,0.872,0.0,0.228,0.107,74.248,4,world-music
+558zN6py9wKPeApweIRwV7,Planetshakers,Heaven On Earth,The Greatest - Live In Asia,41,304140,False,0.578,0.91,0,-6.849,1,0.0672,0.000661,0.0472,0.42,0.691,123.976,4,world-music
+51IOMFLZNIn4oynL6t6bwr,Passion;Chris Tomlin,Passion: Take It All (Live),At The Cross (Love Ran Red) - Live,39,428186,False,0.316,0.581,7,-6.609,1,0.0325,0.0873,0.0,0.0699,0.175,141.705,4,world-music
+4HDEhhIjVtmo1r89zOLuB9,Planetshakers,Endless Praise (Live),No Other Name - Live,41,347960,False,0.337,0.884,1,-5.096,1,0.0588,0.0154,0.0,0.395,0.331,155.942,4,world-music
+7iBIuW0do6NaHXQ7Jueu67,for KING & COUNTRY,What Are We Waiting For?,Seasons,43,195516,False,0.348,0.693,1,-6.024,1,0.187,0.208,0.0,0.268,0.245,87.969,4,world-music
+0MGaMJckimN7NUtJNofC02,Agua Mantra,"Salida del Sol: Poder del Cerebro, Musica para Reiki, Música Relajante para Yoga y Meditación",Eternidad,22,370999,False,0.165,0.146,0,-23.202,1,0.0426,0.972,0.264,0.229,0.0552,93.777,1,world-music
+6RZ8i45jxuvih2qeNfoUdv,Passion;Matt Redman,Passion: White Flag,"10,000 Reasons (Bless The Lord) - Live",40,350720,False,0.478,0.524,7,-7.588,1,0.0267,0.121,0.0,0.667,0.32,72.502,4,world-music
+4ECDvXMDVz3nUXfZOqF9j2,Bethel Music;Brandon Lake,Revival's In The Air (Live),We Praise You - Live,54,416323,False,0.282,0.775,9,-5.33,1,0.0446,0.00428,0.0,0.35,0.224,82.702,4,world-music
+2Z0A7W013G7P0byg4GNtse,Passion;Melodie Malone,Worthy Of Your Name (Live),Holy Ground - Live,49,328973,False,0.279,0.664,0,-5.613,0,0.0389,0.0152,0.0,0.11,0.0527,144.168,4,world-music
+6fiARGC2wsBpuOech1FAun,Bethel Music;Kristene DiMarco,Starlight (Live),Take Courage - Live,46,378693,False,0.446,0.504,7,-9.005,1,0.0274,0.00882,0.00974,0.37,0.136,142.004,4,world-music
+0vU90qsuKzKIbKN3X2apUa,Hillsong Young & Free;Hillsong en Español,Todos Mis Mejores Amigos,Hay Otra Salida - Studio,22,183883,False,0.506,0.795,11,-5.407,1,0.0307,0.13,0.0,0.217,0.639,75.037,4,world-music
+6yZzhSXmwDC7tHTqjj2mZj,Thetahealing,Ondas Theta 2018 - Frecuencias Relajantes para Dormir y Dejar de Pensar Tanto,Música para Aliviar el Estrés,22,291000,False,0.21,0.122,7,-19.735,0,0.0362,0.955,0.722,0.118,0.0384,132.386,3,world-music
+6Xsayxd27Ez7vcRHAg0Wpt,Urban Rescue,Wild Heart,Open Hands,44,203320,False,0.598,0.715,11,-6.036,1,0.0449,0.0111,0.0,0.233,0.319,95.028,4,world-music
+4bBcbuFQXJHxvyTLPCZaWm,Vertical Worship,Bright Faith Bold Future,Strength of My Life,32,290764,False,0.353,0.723,1,-7.409,0,0.0738,0.215,0.0,0.598,0.176,143.994,4,world-music
+4MAU7cSYFsyTmlkZpz5kGV,"Phillips, Craig & Dean",Let My Words Be Few,Your Grace Still Amazes Me,42,312666,False,0.291,0.17,0,-12.116,1,0.033,0.814,0.0,0.128,0.264,127.708,4,world-music
+1BtmOwHG65JnrWeRRhHLD7,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),"1,000 Names - Acoustic",33,339082,False,0.403,0.196,8,-11.488,1,0.0344,0.803,0.0,0.105,0.169,127.274,4,world-music
+2sQqirlONxKt5Qr32tu5hi,Mosaic MSC,Heaven,Never Let Me Down,23,236000,False,0.495,0.614,2,-8.616,1,0.0343,0.0423,2.22e-05,0.112,0.178,142.049,4,world-music
+7q8xQK3L1z3Vt9El830B6O,Relajación océano y olas,Sonido de las Olas del Mar para Relajarse,"Sonido de las Olas del Mar para Relajarse, Pt. 11",22,108570,False,0.183,0.823,2,-29.707,1,0.0712,0.543,0.92,0.921,0.00766,83.046,4,world-music
+7GT8eex9MR0kW80XSMYlYg,Passion;Brett Younker,Roar (Live From Passion 2020),Raise A Hallelujah - Live From Passion 2020,35,339994,False,0.362,0.728,0,-8.105,1,0.046,0.027,0.0,0.0681,0.0557,163.941,4,world-music
+7HMaIo455cDTQceGXDUUMk,Jesus Culture;Kim Walker-Smith,This Is Jesus Culture (Live),Show Me Your Glory - Live,23,500600,False,0.385,0.586,2,-8.668,1,0.035,0.0348,0.0,0.976,0.0776,143.119,4,world-music
+7FllOr2AVNe64yqEKmPjGy,Musica para Acostarse,Música para Acostarse - 30 Canciones Relajantes para Dormir Profundamente y Recarga de Energía,Profunda Relajacion del Ser,23,387997,False,0.251,0.00627,7,-29.792,0,0.0295,0.64,0.933,0.112,0.0463,143.844,3,world-music
+3eiEcBQ9QBHyDmCwuoQXLZ,Hillsong Worship,This Is Our God (Live),Healer,39,424906,False,0.356,0.668,11,-6.695,1,0.0336,0.0221,0.000112,0.148,0.0531,76.964,4,world-music
+0p5CPH1ChVpy79HIZPR4uy,Hillsong Worship;Reuben Morgan,These Same Skies (Live),Freedom - Live,36,256790,False,0.484,0.68,9,-8.489,1,0.0317,0.00226,0.0,0.136,0.189,75.007,4,world-music
+4hlzUfLHRCr9HKXCBpCPZf,Rend Collective;Hillsong Young & Free,Good News (Deluxe Edition),Marching On,48,219000,False,0.488,0.875,10,-4.645,1,0.101,0.00585,0.0,0.0793,0.486,119.995,4,world-music
+2YnwZFPghbal3aQG2eXo29,Musica para Acostarse,Música para Acostarse - 30 Canciones Relajantes para Dormir Profundamente y Recarga de Energía,Flauta Shakuhachi (Canciones Orientales),23,329352,False,0.113,0.169,6,-16.514,1,0.0413,0.979,0.951,0.116,0.0383,74.423,3,world-music
+0WGsusgAqhhuyeylmWwNiD,Musica para Acostarse,Música para Acostarse - 30 Canciones Relajantes para Dormir Profundamente y Recarga de Energía,Canciones de Cuna para Niños y Adultos,23,324999,False,0.0688,0.0434,5,-23.135,0,0.0407,0.981,0.868,0.104,0.038,70.747,4,world-music
+17mIn8NhvzkNbzxCukVKdZ,Hillsong Worship;Mi-kaisha Rose,These Same Skies (Live),Never Walk Alone - Live,39,348619,False,0.42,0.553,5,-8.049,1,0.0332,0.141,0.0,0.103,0.214,143.804,4,world-music
+20G2renN0RS9I28qoVXexF,Cascada de Lluvia,"Meditación con la Música de Fondo para el Masaje, Spa & Wellness",Sueño Lúcido,23,292000,False,0.0997,0.04,5,-21.754,1,0.0401,0.968,0.669,0.0888,0.0327,72.379,4,world-music
+54DFEHLEHHVvBJChO1ging,Hillsong Worship;Aodhan King;Saye Pratt,These Same Skies (Live),Song For His Presence - Live,37,454912,False,0.534,0.539,4,-9.436,1,0.031,0.0235,0.0,0.075,0.0655,103.975,4,world-music
+2P4uW66TDMiFFHQlFZfYFY,Hillsong Worship,let there be light.,Your Word,40,420280,False,0.203,0.54,0,-8.723,1,0.0332,0.0859,0.00127,0.921,0.0638,109.62,4,world-music
+0233dmODqfxbCpHQmspl5e,Chris Tomlin,Arriving,Holy Is The Lord - Arriving Album Version,43,251933,False,0.481,0.691,10,-4.253,1,0.026,0.00158,0.0,0.177,0.428,83.984,4,world-music
+5oyYmgnwGZ74992OLfYD2f,Hillsong Worship;Brooke Ligertwood,Awake,King Of Kings - Live at Hillsong Conference,40,291565,False,0.454,0.427,2,-8.049,1,0.029,0.0205,0.0,0.69,0.184,135.887,4,world-music
+6xd77JLm08CGVv2GKwL9rz,Planetshakers,Legado,Aquí Estoy,23,416178,False,0.417,0.688,8,-7.356,1,0.0397,0.00401,1.24e-05,0.0619,0.283,155.676,4,world-music
+1W5mifA8dmXAkeich4GPFK,one sonic society;Mike Weaver,Great Is Thy Faithfulness (Beginning to End) [feat. Mike Weaver] (feat. Mike Weaver),Great Is Thy Faithfulness (Beginning to End) [feat. Mike Weaver] (feat. Mike Weaver),45,250426,False,0.478,0.347,0,-7.43,1,0.0261,0.0672,0.0,0.0838,0.28,99.947,3,world-music
+0dfo4CuQKD8PoWmiFLrNjx,Hillsong Worship;Brooke Ligertwood,These Same Skies (Studio),Resurrender - Studio,37,413889,False,0.511,0.423,0,-8.902,1,0.0285,0.0846,0.0,0.218,0.167,139.855,4,world-music
+0hydAWLokpunNzzBUXNe0U,Cesária Evora,Best Of,Tudo Tem Se Limite,23,272600,False,0.641,0.306,7,-11.56,0,0.094,0.867,0.0,0.341,0.746,77.944,4,world-music
+6FnD62i17Yb1gd2RBS1x30,Michael W. Smith;Skye Reedy,Awaken: The Surrounded Experience,Agnus Dei,40,294368,False,0.204,0.242,7,-12.121,1,0.0354,0.608,0.0,0.174,0.0765,134.742,4,world-music
+0mQaOUXJ46pdM0dHmKu5ha,Bethel Music;Zach Vestnys;Abby Vestnys,Simple,Jesus My King,48,195846,False,0.321,0.148,0,-13.452,1,0.0311,0.81,0.0,0.131,0.166,139.766,3,world-music
+0OVsEZ9BLf4zNa4d8OOL3a,Lincoln Brewster,No One Like Our God,No One Like Our God,44,249080,False,0.525,0.718,2,-5.464,1,0.0433,0.0427,0.0,0.147,0.288,90.016,4,world-music
+42u1rtRxJAvX9Kzz4DGWhP,Planetshakers,I Remember (Studio Version),I Remember - Studio Version,36,207800,False,0.459,0.734,1,-6.151,1,0.0424,0.0052,0.0,0.25,0.39,76.011,4,world-music
+2qv9ePKhcetn23hpMSblip,Fee,Hope Rising,Everything Falls,34,223400,False,0.385,0.786,0,-5.198,1,0.0406,0.00486,0.0,0.209,0.382,159.923,4,world-music
+7ATRQZwETMu5jFYzXiMjNc,Passion;Kristian Stanfill,Breakthrough Miracle Power / You Are The Lord,Breakthrough Miracle Power,40,352520,False,0.488,0.555,8,-6.777,1,0.0271,0.136,0.0,0.114,0.202,143.886,4,world-music
+6XsYJ0dwT2hRzp0Qles78F,Колыбельная-земля,Расслабляющие звуки - белый шум для вашего ребенка,Пылесос (Белый шум),22,302185,False,0.0,0.224,8,-10.224,1,0.0,0.142,0.986,0.411,0.0,0.0,0,world-music
+13OhZWtL7Tqa0uneEtruzg,Bryan & Katie Torwalt,Champion,High Above,23,298080,False,0.389,0.685,7,-8.478,1,0.0327,0.00859,9.45e-05,0.122,0.125,75.019,4,world-music
+2pxyd0ly9E5TEObwOvkedv,Passion;Kristian Stanfill;Tasha Cobbs Leonard;Anna Golden,Burn Bright,What He's Done,47,217651,False,0.361,0.43,1,-8.438,1,0.0451,0.0985,2.68e-06,0.0736,0.251,141.802,4,world-music
+4PSITiLRcdZI5WyGlXAssT,Michael W. Smith,Worship Again,I Give You My Heart,41,205840,False,0.4,0.284,7,-11.616,1,0.0265,0.378,3.13e-05,0.55,0.236,82.544,4,world-music
+5Rh0IO9XOuKDcLU71Qd1yp,Lucas Cervetti,Calma,Calma #2,23,523893,False,0.473,0.109,7,-17.631,1,0.0315,0.976,0.896,0.0983,0.146,96.008,4,world-music
+3OhF89cVIbCq5oG4syZ3dr,Passion;Kristian Stanfill,Follow You Anywhere (Live),Follow You Anywhere - Live,47,300933,False,0.144,0.644,0,-6.666,1,0.0431,0.0166,0.0,0.0934,0.138,185.57,3,world-music
+6gNcKZEw76aqNTq6aV2yug,Mantra Deva,"Mantra para Limpiar las Malas Energías - Limpieza del Aura, del Espiritu y el Cuerpo",Harmonia,22,354000,False,0.177,0.17,3,-30.298,0,0.0443,0.971,0.957,0.102,0.243,136.492,3,world-music
+42TAP4olyZONFmNT48O10D,Bethel Music;Jeremy Riddle,The Loft Sessions,Fall Afresh,49,264680,False,0.466,0.486,11,-10.731,1,0.0288,0.82,4.5e-05,0.156,0.186,136.949,4,world-music
+47xHJQGerfD3QjcnsAuw3N,Brian Doerksen,It's Time,Come Now Is The Time To Worship,34,318373,False,0.515,0.854,9,-6.375,1,0.0394,0.0256,0.00023,0.1,0.288,103.448,4,world-music
+0ttGekhJiRgUntY34isdm9,Leeland,Christ Be All Around Me - Live,Where You Are (Live),45,522200,False,0.373,0.477,0,-8.052,1,0.0271,0.409,0.000425,0.0811,0.095,143.869,4,world-music
+5jI9fVQ1QqUygoNpVRdzu3,Phil Wickham,Christmas,This Year for Christmas,30,210161,False,0.365,0.487,9,-6.523,1,0.0374,0.204,0.0,0.0934,0.474,207.881,3,world-music
+4cirFEQ9qFi9C5Iy0uSwGM,Cesária Evora,The Very Best Of,Petit pays,23,224533,False,0.581,0.427,4,-13.769,0,0.0354,0.796,0.0,0.282,0.864,77.895,4,world-music
+0ICLbQyVK7TaGKfAdPBCFa,for KING & COUNTRY,Crave,Love's to Blame,42,265306,False,0.471,0.551,11,-6.897,1,0.0326,0.188,0.0,0.133,0.195,135.866,4,world-music
+3r9q9VDgIQB7HuUuqfmbA0,Cory Asbury,Reckless Love,Water and Dust,47,213076,False,0.387,0.379,6,-12.589,1,0.0292,0.748,0.00258,0.0898,0.404,80.754,4,world-music
+414HE9gFITyWEBHvOdJ2xv,Chris Tomlin,Always,Precious Love,39,295239,False,0.395,0.389,3,-7.506,1,0.0266,0.702,1.41e-06,0.101,0.129,74.738,3,world-music
+0tXaXcuDbaX0Jhzns45Gx5,for KING & COUNTRY;Rebecca St. James,My Utmost For His Highest,Amazing Grace,43,201401,False,0.373,0.225,0,-10.295,1,0.0279,0.148,0.00026,0.111,0.0857,96.014,3,world-music
+7xzMrUmlooPa1Fmp88hlYc,Cesária Evora,Miss Perfumado,Sodade,59,293640,False,0.575,0.43,8,-13.168,1,0.0363,0.822,0.000661,0.115,0.427,82.691,4,world-music
+2yPA4CICpx6vYqR1ILpQO1,Planetshakers,Endless Praise (Live),Praise You Lord - Live,38,278586,False,0.666,0.956,4,-3.09,1,0.0975,0.00455,1.6e-06,0.953,0.487,124.003,4,world-music
+0akp96dzRtVRv1Gi38zSwG,Bryan & Katie Torwalt,Here On Earth,You Saved My Soul,23,229320,False,0.373,0.37,2,-12.215,1,0.0276,0.234,0.0294,0.106,0.149,77.853,4,world-music
+1XfU2QAc5LGxJd2V4k6gLQ,Hillsong Worship;Brooke Ligertwood,Saviour King (Live),Lord Of Lords,39,274333,False,0.315,0.39,4,-9.468,1,0.0316,0.649,0.0,0.476,0.253,135.354,3,world-music
+2y2it6Cv1VCQYA7hT3S793,Hillsong Young & Free,All Of My Best Friends,Indescribable - Studio,36,210314,False,0.633,0.694,0,-5.612,1,0.097,0.0998,0.0,0.0975,0.594,104.832,4,world-music
+2PRTK0ECnncrILxu6u7xBY,Reiki Armonía,Música Relajante para Reiki - Canciones de Fondo Spa para Tratamiento Ayurvedico,Musica para Relajacion Guiada,22,240962,False,0.167,0.1,9,-22.747,1,0.0359,0.986,0.962,0.109,0.0349,85.407,4,world-music
+0Jjc88qUHyyhQap2MrTz2W,Housefires,Housefires,One Thing,23,467089,False,0.396,0.42,5,-8.238,1,0.0315,0.694,0.0,0.132,0.355,131.472,4,world-music
+4EQfxtvhrryDfVoTjl89lj,Dulces Sueños,"Sleep 101 Música para Dormir – Música Suave New Age para Descansar, Massage, Yoga Nidra y Ejercicios de Relajacion",Share the Joy,22,356000,False,0.158,0.0457,10,-20.763,1,0.0385,0.977,0.326,0.102,0.0337,74.084,4,world-music
+5c9IryvZqln1WVQaCvlGpI,Mc_team,Frecuencias Curativas Solfeggio 369 Hz,396 Hz Liberar el Miedo Subconsciente,22,214377,False,0.226,0.125,7,-27.496,0,0.0363,0.958,0.928,0.105,0.108,74.1,3,world-music
+1myRTCOm1pPlykQTiwbEMy,Bryan & Katie Torwalt,I've Got Good News (Live) [Deluxe],Good News - Live,23,266632,False,0.473,0.474,6,-9.175,1,0.0558,0.395,0.0,0.163,0.251,140.746,4,world-music
+7lYdF3SC4SCJPg5kROvXWx,Bryan & Katie Torwalt,I've Got Good News (Live) [Deluxe],Good News - Live,23,266632,False,0.473,0.474,6,-9.175,1,0.0558,0.395,0.0,0.163,0.251,140.746,4,world-music
+0mhKPUIHNEz4tuWNxNEqCS,Bethel Music;Paul McClure;Hannah McClure,Homecoming (Live),I Belong To Jesus - Live,50,519770,False,0.462,0.613,9,-8.559,1,0.0328,0.254,7.74e-05,0.124,0.259,133.851,4,world-music
+663E0Tn2w7TyDSO4ATGiPD,Shane & Shane,Hymns Live,His Mercy Is More (Live),49,286851,False,0.448,0.52,7,-7.17,1,0.0298,0.598,0.0,0.093,0.347,117.903,3,world-music
+0vp0LCl0aj8X4sJQRGzeRd,Bryan & Katie Torwalt,I've Got Good News (Live) [Deluxe],Wouldn't It Be Like You - Live,23,578680,False,0.397,0.468,5,-8.151,1,0.0521,0.414,0.0,0.0971,0.266,135.012,4,world-music
+5UrQ6n04AmNUbrRA2lZ6dy,Relajación océano y olas,Océano New Age: Música Instrumental Tranquila con Hermosos Sonidos de las Olas,Canción del Océano,22,281000,False,0.241,0.281,11,-22.301,1,0.05,0.872,0.00257,0.113,0.166,124.982,3,world-music
+02X93AUKXP7FPJBPckqgGu,Kim Walker-Smith,On My Side,Throne Room,48,284946,False,0.514,0.803,6,-6.415,0,0.0495,0.0382,0.0,0.0899,0.262,128.001,4,world-music
+0GQ2zC56TjGBPapAPOW7yT,Kari Jobe,Majestic (Deluxe / Live),Forever - Radio Version/Live,40,240066,False,0.297,0.676,8,-5.891,1,0.0409,0.0851,0.0,0.0802,0.172,148.151,4,world-music
+4U0rgCu3sVS4UvJ4cv6ueJ,"Phillips, Craig & Dean",Let the Worshippers Arise,Wonderful Merciful Savior,36,232280,False,0.348,0.386,2,-8.52,1,0.0284,0.399,1.11e-06,0.0706,0.334,131.437,3,world-music
+65n35kzA6UNsvxrsrIIw0Y,Darlene Zschech,In Jesus' Name: A Legacy of Worship & Faith,At the Cross,35,409023,False,0.319,0.412,4,-7.529,1,0.0308,0.509,0.0,0.253,0.148,139.661,4,world-music
+6Nenm0bjHwjCbTet7Zb9VH,I AM THEY,I AM THEY,From the Day,48,219626,False,0.576,0.837,0,-5.877,1,0.0326,0.000215,0.0,0.191,0.419,118.974,4,world-music
+2C9Axi3dDNtF79PbVZNqDS,Planetshakers,Let's Go (Live),Nobody Like You,40,220393,False,0.608,0.934,8,-7.437,1,0.0745,0.000791,0.0,0.378,0.438,124.036,4,world-music
+3NjxQKRl1zjzHlOH0EVRBy,Planetshakers,Legado,Pasión,23,231299,False,0.567,0.865,8,-6.731,1,0.0357,0.000526,0.00187,0.353,0.444,131.984,4,world-music
+7gl2Uwxq2ys24OPRBTiLg3,Hillsong Worship;Reuben Morgan,This Is Our God (Live),This Is Our God,39,348226,False,0.296,0.348,4,-10.548,1,0.0295,0.249,0.297,0.444,0.0703,159.955,4,world-music
+7AjXdZJMnNH7FcVmGn6UEX,Jadon Lavik,Roots Run Deep,Come Thou Fount,47,208000,False,0.583,0.596,4,-7.159,1,0.0309,0.219,3.58e-05,0.114,0.478,82.996,3,world-music
+05W8PJmja6rf2jlXf57C5a,Hillsong Worship;Chris Davenport,These Same Skies (Live),Secret Place - Live,37,327625,False,0.301,0.297,2,-12.963,1,0.0354,0.419,0.0,0.111,0.146,129.829,4,world-music
+1VcFSLsUWrTggLBZqq8b4u,Salvador Andrades,Musica Relajante Para Que Estudien Los Niños,Lullaby Con Guitarra Española,22,144080,False,0.514,0.156,9,-15.889,1,0.0423,0.958,0.93,0.111,0.158,142.513,4,world-music
+7qazSbDDqnhimUEZWJXmHb,Bryan & Katie Torwalt;Cody Carnes,I've Got Good News (Live) [Deluxe],Simple Kingdom (with Cody Carnes) - Live,23,384501,False,0.266,0.318,0,-8.948,1,0.0429,0.265,0.0,0.713,0.219,190.389,3,world-music
+2ctXQ21bZ7ZsCsWnbFIkAp,Monjes Tibetanos,"Monjes Tibetanos - Canciones Asiaticas Relajantes, Música Budista con Cantos de Tibet",Dormir Bien,22,371000,False,0.088,0.123,0,-21.381,1,0.0428,0.99,0.869,0.0787,0.0342,70.189,3,world-music
+5lORa4H99zsSobiyanlsgk,Jason Upton,Remember,Fly,41,777866,False,0.237,0.161,2,-12.265,1,0.0326,0.778,0.00358,0.182,0.0812,104.997,4,world-music
+0k0Eiw6sJJUYyKcVzDILD4,Phil Wickham,Living Hope,Tethered,34,282546,False,0.29,0.209,2,-9.947,1,0.0341,0.778,6.03e-06,0.093,0.172,124.092,1,world-music
+7pYtl9OXETa8itI4iFjMhJ,Hillsong Young & Free,This Is Living,Pursue,37,422426,False,0.41,0.531,11,-7.9,1,0.0339,0.203,0.00121,0.182,0.074,87.955,4,world-music
+0jwJrWjeJLF9KmvVh5cYDc,Antonio Jesús Asiáin Sanz,Detalles,Nostalgia,21,200516,False,0.599,0.0869,9,-20.312,1,0.0333,0.895,0.891,0.11,0.0762,105.02,4,world-music
+1SuyvMeuls9KdpGBTbtyVw,Meditación: Por Mateo;Meditaciónessa,Calla Tu Mente,Rocas de Meditacion,21,105000,False,0.259,0.0337,3,-35.648,1,0.0468,0.45,0.735,0.103,0.0358,78.003,3,world-music
+2ouxV2rl5fwS3R4BqT7eUf,Meditación: Por Mateo;Meditaciónessa,Calla Tu Mente,Casa Contigo,21,108000,False,0.166,0.0614,0,-32.625,1,0.0398,0.29,0.868,0.122,0.0489,71.805,3,world-music
+5FeIwnHme2zk6YJMyd6odO,Shane & Shane,Psalms,Psalm 145,22,356600,False,0.314,0.264,6,-15.305,1,0.0417,0.698,0.0,0.101,0.454,92.669,4,world-music
+12Nbr3tbxdEyqjcHjxNM0O,Hillsong Young & Free,Youth Revival,To My Knees (Live),41,473293,False,0.503,0.315,0,-10.545,1,0.0252,0.436,1.31e-05,0.712,0.184,99.073,3,world-music
+6kVaoEeXl7X8VwqQ2LotIE,Hillsong Worship,What A Beautiful Name - EP,What A Beautiful Name - Gospel Version,36,284186,False,0.447,0.286,3,-9.486,1,0.0284,0.855,0.0,0.111,0.233,129.816,4,world-music
+5R1JVwgo4l0eFLjzWmseqF,Hillsong Young & Free,Phenomena (DA DA) Remixes,Freedom Is Coming - Reimagined,39,154385,False,0.63,0.702,8,-5.355,1,0.0365,0.0559,0.0,0.0709,0.453,101.997,4,world-music
+572afBiucwePeZgB1BBRfC,Shane & Shane,"Psalms, Vol. 2",Psalm 91 (On Eagles' Wings),46,244639,False,0.37,0.271,9,-8.894,1,0.03,0.157,0.0,0.116,0.112,123.921,4,world-music
+13t0zj4RPKM1asysCWgRaU,Bethel Music;Amanda Cook,Starlight (Live),Starlight - Live,45,337956,False,0.376,0.467,10,-8.251,1,0.0292,0.0192,7.75e-05,0.222,0.0764,149.985,4,world-music
+1sQzql0UMBfpFWGENPFTTN,Thetahealing,This is Thetahealing,Understanding the Human Mind,21,278726,False,0.0903,0.00895,3,-31.771,1,0.0394,0.951,0.977,0.0942,0.0348,79.452,3,world-music
+2Oghfvs0YkMNadU5c31GpJ,Paul Baloche;Integrity's Hosanna! Music,A Greater Song (Live),Your Name - Live,37,344080,False,0.384,0.539,10,-7.433,1,0.0308,0.138,0.0,0.375,0.287,147.79,4,world-music
+35WuqC0pMixNnnljOx1wjc,Jesus Culture;Chris Quilala,Come Away (Live),Let It Rain - Live,46,420386,False,0.314,0.711,1,-5.927,0,0.0432,0.0283,4.85e-06,0.7,0.147,141.911,4,world-music
+3vb0esfk0vnzl6veqMX8Nt,Paul Baloche;Integrity's Hosanna! Music,Our God Saves (Live),Our God Saves - Live,33,302360,False,0.505,0.721,2,-5.164,1,0.0293,0.0297,0.0,0.544,0.233,96.011,4,world-music
+6ul5bvsJ2Z59kC62nzrmrP,Ruido Blanco Hart;Ondas Alfa;Música de concentración profunda,Chispa Encendida: Flujo De Antorchas,La Calidez Sana Del Agua,21,120000,False,0.229,0.986,10,-21.872,0,0.0577,0.103,0.0427,0.716,0.0148,112.275,3,world-music
+4r0ETFFJMBSQ0Z3ntuMDP2,Hillsong Worship;Mi-kaisha Rose,Never Walk Alone (Live),Never Walk Alone - Live,41,348619,False,0.42,0.553,5,-8.049,1,0.0332,0.141,0.0,0.103,0.214,143.804,4,world-music
+5KmmiVOsTjzJhuPxXxpeGt,Chris Tomlin;Danny Gokey,Never Lose Sight (Deluxe Edition),Impossible Things,37,267453,False,0.627,0.843,2,-4.418,1,0.0276,0.0034,0.0,0.0573,0.744,96.483,4,world-music
+3oEUEyCzKwaBHBvzsJaiGJ,for KING & COUNTRY;Hillary Scott,For God Is With Us (with Hillary Scott),For God Is With Us (with Hillary Scott),48,199085,False,0.513,0.546,4,-6.804,0,0.042,0.132,1.61e-06,0.158,0.226,74.879,4,world-music
+7uyyB67tSYtUdZaeuKIgJY,Laura Story,Open Hands,Open Hands,35,222213,False,0.464,0.784,7,-4.198,1,0.0276,0.00335,0.0,0.109,0.451,148.847,4,world-music
+1mWVXiafBgfyjLZdAYGppw,Petra Espiritu,Música para Vibrar Alto – Música para Aumentar Tu Energía y Tener Armonía con el Universo,Música para Iniciar el Día,21,394999,False,0.168,0.132,4,-23.575,0,0.0328,0.846,0.821,0.0953,0.0362,71.287,5,world-music
+4XMIXntvfwPbMnmUbZuNMT,Planetshakers,Legacy (Live),Passion - Live In Melbourne,37,238586,False,0.542,0.868,8,-6.726,1,0.0325,3.83e-05,0.00841,0.978,0.498,131.956,4,world-music
+4wl9wFhVgT4ucd72OEpEeZ,for KING & COUNTRY;Dante Bowe,What Are We Waiting For?,Unity,47,209608,False,0.445,0.593,11,-7.496,0,0.16,0.0657,5.15e-05,0.297,0.326,171.774,4,world-music
+3E5BnoNWWtNLC4jEKroH4g,Phil Wickham,Christmas: Acoustic Sessions,Joy to the World (Joyful Joyful),28,257192,False,0.48,0.15,0,-12.751,1,0.0293,0.846,3.44e-06,0.115,0.285,141.786,4,world-music
+2kEOVT4a8BoYqcRw4Mw5FB,Hillsong Worship,Take Heart (Again),Take Heart (MMXX),37,333813,False,0.487,0.384,0,-11.071,1,0.0297,0.478,1.33e-05,0.1,0.164,131.963,4,world-music
+62q03kZpF2r4d8rfLcExsu,Chris Tomlin;Tyler Hubbard,Chris Tomlin & Friends: Summer EP,Good To Be Loved By You (with Tyler Hubbard),47,201533,False,0.552,0.449,7,-6.986,1,0.0375,0.362,0.0,0.0945,0.314,149.919,4,world-music
+62mIVLwQoI8tzNmHKUxikq,Hillsong Worship,Christmas: The Peace Project,O Holy Night,34,334173,False,0.405,0.562,7,-7.929,1,0.0288,0.00775,1.37e-06,0.108,0.133,111.832,4,world-music
+2UlWfUwpJ0wbsh9Kol14e1,Hillsong Worship;Reuben Morgan,Hillsong Chapel: Forever Reign,Forever Reign,37,271680,False,0.389,0.641,11,-6.54,1,0.029,0.0167,0.0,0.366,0.248,82.821,4,world-music
+18q8W11QNDEfhYIxwypTQK,Rend Collective,Campfire II: Simplicity,Oceans (Where Feet May FaiI),53,283066,False,0.533,0.768,9,-7.223,1,0.0542,0.163,0.0,0.0847,0.396,140.005,4,world-music
+6IA4ksaymdlYSdf3AoiWQb,for KING & COUNTRY;Dolly Parton,Burn The Ships (Deluxe Edition: Remixes & Collaborations),God Only Knows,45,213653,False,0.651,0.561,11,-5.624,0,0.0506,0.274,0.0,0.143,0.469,143.959,4,world-music
+172wTMTSTGKoQ3c3y1dD6A,Estudio Hermoso,"Música para Estudiar 2020: Música Relajante para Estudiar y Leer, Música Instrumental de Piano",Música para Estudiar,21,369000,False,0.109,0.187,0,-20.388,0,0.0354,0.933,0.979,0.162,0.0318,92.223,5,world-music
+3Ia4fDeie06NoYMSnoipZV,Phil Wickham,Children of God Acoustic Sessions,Divine / Sailing / Time / Hymn - Acoustic,47,464398,False,0.282,0.3,11,-10.28,1,0.035,0.466,0.0,0.107,0.266,155.654,4,world-music
+1oGy2VRzqSUsQqzS7T9RWM,Massagem Guru,"Som Relaxante: Música de Massagem, 25 Faixas para Spa e Pensamento Positivo",Cantiga Relaxante,22,224000,False,0.208,0.015,5,-26.307,0,0.0457,0.991,0.894,0.102,0.133,64.803,4,world-music
+73EIpn5AcedCWPOmxWMxH9,Passion;Kristian Stanfill,Passion: Everything Glorious,Jesus Paid It All,47,327400,False,0.317,0.562,11,-8.719,1,0.0343,0.0925,0.0,0.893,0.218,76.915,3,world-music
+6aqfqfzU1GjtKQb3ujUMGb,Reiki Armonía,Sonidos de Fondo para Reiki: Gotas de Agua,"Para Reiki: Gotas de Agua, Pt. 17",22,112198,False,0.118,0.927,10,-32.297,0,0.0395,0.154,0.985,0.893,0.00398,150.37,5,world-music
+5KG8QLbyJHqlwWtLvSHPLS,Hillsong Worship,Ultimate Worship Vol 1,The Potters Hand,41,256093,False,0.301,0.456,7,-6.606,1,0.0259,0.34,2.46e-06,0.205,0.193,74.59,4,world-music
+6SokaOu5AZLSCWAWS1jZeB,Bryan & Katie Torwalt,I've Got Good News (Live) [Deluxe],Holding Onto Hope - Live,22,292567,False,0.444,0.372,5,-10.232,1,0.042,0.312,0.0,0.0933,0.213,138.172,4,world-music
+30bAlHDwEyu2iI1O6WVasv,Hillsong Worship;Brooke Ligertwood,Awake,Awake My Soul - Live,40,280373,False,0.267,0.484,5,-9.222,1,0.0332,0.00284,2.69e-06,0.946,0.206,126.865,4,world-music
+1hsbxu82J3uqLyvd5qxhdC,Hillsong Worship;Integrity's Hosanna! Music;Darlene Zschech,Shout to the Lord (Live),Jesus Lover of My Soul - Live,42,215733,False,0.476,0.396,0,-10.916,1,0.026,0.31,0.0,0.658,0.199,72.157,4,world-music
+3Fj6wu6AAnltIyS2jNbqiG,Flor de Loto,25 Canciones de la Naturaleza - Sonidos de la Naturaleza y Ruido Blanco para Relajación Profunda y Meditación,Hermosa Daydream (Música Tranquila y Pacífica),22,289999,False,0.0565,0.995,2,-21.042,0,0.352,0.867,0.000419,0.683,0.0101,53.465,3,world-music
+46kZhvM2ms6pIXP8Mc04Tr,Christy Nockels,Be Held : Lullabies for the Beloved,River of Grace,47,232653,False,0.521,0.396,11,-10.654,1,0.0468,0.828,0.000766,0.1,0.398,77.046,4,world-music
+1QwLpfmZ6NPzjk3YFXkl0E,Cesária Evora,Voz D' Amor,Beijo Roubado,22,249733,False,0.838,0.471,4,-9.141,0,0.0335,0.798,2.39e-05,0.239,0.855,103.008,4,world-music
+2XrZVAgEyFuhasEwfpG7Oa,Monjes Tibetanos,"Monjes Tibetanos - Canciones Asiaticas Relajantes, Música Budista con Cantos de Tibet",Sueños de Plata,21,255999,False,0.176,0.222,5,-18.027,0,0.0391,0.965,0.737,0.126,0.0626,79.519,3,world-music
+38I54HzdySOwsuRKt3hEZw,Phil Wickham,Hymn Of Heaven (Acoustic Sessions),House Of The Lord - Acoustic,34,226182,False,0.582,0.399,7,-11.004,1,0.0297,0.112,0.0,0.112,0.29,135.974,4,world-music
+5jawyqbfmVufFM2YDS2jdu,Hillsong Worship;Reuben Morgan,These Same Skies (Live),Hope Of The Ages - Live,36,396646,False,0.229,0.503,11,-8.769,1,0.03,0.0051,0.0,0.105,0.148,99.938,3,world-music
+5XTdgvMiVHNSzzFrKAXU91,Cesária Evora,Best Of,Petit Pays,22,226160,False,0.555,0.486,4,-11.584,0,0.0324,0.79,0.0,0.256,0.836,156.17,4,world-music
+0cqsWgcbzZy77hPJ6IlvYj,Rend Collective,Build Your Kingdom Here (A Rend Collective Mix Tape),You Are My Vision,22,235000,False,0.502,0.94,4,-6.427,1,0.0813,0.0135,0.0,0.366,0.318,123.03,4,world-music
+7qXftOJ8aDwpoV9OBXJj1a,Planetshakers,Legado,Incontenible,23,268441,False,0.558,0.834,0,-5.552,0,0.045,0.0357,1.29e-05,0.194,0.483,127.931,4,world-music
+1wLWY9NxvVh3AIw78hvRGe,Cesária Evora,Best Of,Sabine Larga’m,23,188917,False,0.546,0.463,9,-9.482,0,0.0404,0.432,2.17e-05,0.373,0.487,127.358,4,world-music
+4JDmqxJrJS9FoMPzWmILkQ,Shane & Shane,"Psalms, Vol. 2",Psalm 34 (Taste and See),50,326652,False,0.557,0.393,2,-8.304,1,0.0331,0.11,0.0,0.38,0.238,114.048,4,world-music
+54o7m2sWPTagySKiaPPpT2,Passion;Kristian Stanfill,More Like Jesus (Live),More Like Jesus - Live,44,338694,False,0.404,0.676,10,-5.468,1,0.0354,0.0274,0.0,0.352,0.163,144.056,3,world-music
+5ronibgkTWGuuQhrrGcqRx,Phil Wickham,Hymn of Heaven,Look to Jesus,33,282106,False,0.524,0.823,9,-6.284,1,0.0389,0.00588,0.0,0.0781,0.309,91.973,4,world-music
+2uDngplEd0RW5hqcAur5uY,Kari Jobe,Kari Jobe,Healer,43,307933,False,0.32,0.583,6,-5.708,1,0.0335,0.0326,0.0,0.205,0.312,155.705,4,world-music
+79jjYHyM1luXI6G2aBLdBJ,Hillsong Young & Free,The Stand,The Stand,38,247340,False,0.408,0.719,3,-5.361,1,0.0288,0.000299,0.0,0.333,0.183,77.975,4,world-music
+6ibX7aG1bsQzTJb5gUjCpn,Bryan & Katie Torwalt,Praise Before My Breakthrough,My Hallelujah,46,246619,False,0.453,0.498,2,-8.341,1,0.0427,0.879,2.27e-05,0.106,0.178,137.831,4,world-music
+2eEdlQTF6qJCXC5f8MFnu7,Hillsong Young & Free,lll (Studio Sessions),P E A C E - Acoustic,41,263893,False,0.38,0.265,9,-10.763,0,0.0302,0.669,2.2e-06,0.12,0.106,127.692,3,world-music
+5LOmYKKXSkAeB4m2YsDJrI,for KING & COUNTRY;Lecrae;The WRLDFMS Tony Williams,Amen (Reborn),Amen (Reborn),47,228762,False,0.428,0.599,9,-5.508,0,0.0586,0.0132,0.0,0.268,0.253,119.993,4,world-music
+6NLvZYW0COmwDboKdLhYIi,Michael W. Smith,Worship Again,There Is None Like You,40,129933,False,0.34,0.32,7,-15.807,1,0.0495,0.906,0.0,0.976,0.575,66.443,4,world-music
+1V0iyVxxWAidx25wcYdzEp,Housefires,We Say Yes,Open Space,50,456981,False,0.319,0.229,2,-10.504,1,0.0324,0.888,0.000167,0.11,0.146,123.835,4,world-music
+2gk9L9TNH6MCr74dSxRLzm,Bethel Music;John Wilds,Simple,Forever Be Praised,47,273148,False,0.509,0.2,2,-13.489,1,0.0337,0.83,5.53e-06,0.0631,0.107,129.574,4,world-music
+6mOjAGbAr6yZFxuhC2cAYx,Passion;Chris Tomlin,Passion: The Essential Collection (Live),How Great Is Our God - Live,39,291600,False,0.343,0.586,0,-6.962,1,0.0346,0.147,0.0,0.694,0.155,77.979,4,world-music
+3gSp7wFRqSkOEBm4pDAWYP,Bethel Music;Emmy Rose,Victory (Live),Promises Never Fail - Live,45,297000,False,0.383,0.836,3,-4.788,1,0.0468,0.101,0.0,0.229,0.26,146.052,4,world-music
+1s4YQ8NGWahmewapzQz83s,Passion;Kristian Stanfill,Passion: Take It All (Live/Deluxe Edition),My Heart Is Yours - Radio Version,40,248053,False,0.374,0.829,9,-3.49,1,0.0365,0.13,0.0,0.141,0.228,143.972,4,world-music
+2SxRPSQg90BMbSIMtCDVc4,Matt Redman,"10,000 Reasons (Live)",Here For You - Live,40,357120,False,0.226,0.845,0,-5.346,1,0.0425,4.21e-05,3.04e-05,0.635,0.153,69.773,3,world-music
+4DrOtvGcJRQ71S0TPwGMHW,Paz Interior,Ambient Attention,"Ambient Attention, Pt. 14",21,125580,False,0.21,0.0712,9,-26.1,1,0.0518,0.501,0.922,0.111,0.0387,62.201,3,world-music
+42bdU7oDyRvyRXaKbUrtfu,Bethel Music;Bethany Wohrle,Victory (Live),Victory Is Yours - Live,44,333080,False,0.418,0.786,9,-5.257,1,0.0471,0.0105,0.0,0.342,0.0656,139.92,4,world-music
+1eZYPovTvmxk3QlVD2VpCX,Bethel Music;Brian Johnson,We Will Not Be Shaken (Live),We Will Not Be Shaken - Live,46,332604,False,0.392,0.668,9,-7.342,1,0.0296,0.00356,0.00056,0.588,0.115,148.013,4,world-music
+4yoH9qzZQk1q7tQEiy4v4Y,Lucas Cervetti,Ámbar,Suspiro,21,89274,False,0.581,0.0618,0,-23.637,1,0.046,0.981,0.952,0.101,0.402,65.978,4,world-music
+7mD7yAQm4GcifSnWqJdZHi,Bethel Music;Molly Skaggs,Victory (Live),Ain’t No Grave - Live,47,493293,False,0.37,0.831,4,-4.484,1,0.0442,0.0129,0.000122,0.109,0.185,148.008,4,world-music
+3IxffkznUu2I4mx9OWibW5,Cuencos Tibetanos Sonidos Relajantes,Tibetanos Sonidos Relajantes,De Conexion,21,96302,False,0.121,0.242,8,-17.98,1,0.0375,0.000878,0.813,0.12,0.0362,85.784,4,world-music
+4aLBgBxa1ajNoWD3OSDay6,Ondas Delta,"Abre Tu Mente: Música con Sonidos Binaurales y Ondas Cerebrales, Creatividad y Memoria",Ondas Cerebrales Delta,21,359003,False,0.312,0.033,9,-25.894,1,0.0307,0.853,0.851,0.114,0.0639,79.655,4,world-music
+6xZuzUxNn5AGIPQ2FvXXLP,Mc_team,Frecuencias Curativas Solfeggio 528 Hz,528Hz La frecuencia del amor,21,170387,False,0.17,0.052,2,-28.693,1,0.0374,0.875,0.904,0.129,0.0475,114.573,4,world-music
+1d2LyEJ1zZ0gWtlxyZQpDE,Vertical Worship,The Rock Won't Move,I Will Follow,44,260839,False,0.319,0.577,4,-7.679,1,0.033,0.0499,0.0,0.729,0.189,97.678,4,world-music
+0VVvjjtKyOeT2AEMTSQ33t,Chris Tomlin,And If Our God Is For Us...,Faithful,34,285120,False,0.618,0.419,6,-6.156,1,0.0279,0.309,0.0,0.107,0.373,131.973,4,world-music
+2yAo8cJDVoMjBMS5MgrO8P,Hillsong Worship;Hillsong Young & Free,OPEN HEAVEN / River Wild,This Is Living,38,214647,False,0.611,0.857,0,-6.248,0,0.0384,0.00182,0.0,0.326,0.464,128.001,4,world-music
+11Jywidl4OVzmjziGR0QiO,Urban Rescue,Wild Heart,Alive In You,42,253546,False,0.522,0.697,2,-7.21,1,0.0344,0.0557,0.0,0.134,0.288,75.972,4,world-music
+3FuOBnk7Xsglp7AIsHQVaA,Reiki Armonía,Música Relajante para Reiki - Canciones de Fondo Spa para Tratamiento Ayurvedico,Paz Mental,21,290999,False,0.0672,0.0903,9,-23.496,1,0.0401,0.97,0.977,0.093,0.0361,76.042,4,world-music
+7IPetVJ4VQgCT5Sh5VA4h1,Lucas Cervetti,Trempülkalwe,Maremágnum,21,260506,False,0.405,0.283,4,-9.471,1,0.03,0.894,0.806,0.119,0.0813,99.947,4,world-music
+5wMkhfu3oYYmFimOGzeFt2,Fondo de la lectura,Concentración: Sonidos de la Lluvia,"Concentración: Sonidos de la Lluvia, Pt. 01",22,143403,False,0.417,0.967,5,-27.146,0,0.0503,0.924,0.958,0.696,0.0147,65.002,4,world-music
+64BdW5aHuB3C0QP3qjBJVi,I AM THEY,I AM THEY,Amen,41,238146,False,0.516,0.634,7,-4.85,1,0.0339,0.03,1.89e-06,0.0813,0.0921,76.994,4,world-music
+1pBc7W7UQacUeQ6kBVlN9f,Planetshakers,Greater (Live),Heaven Is My Home - Live,39,289179,False,0.498,0.957,1,-5.807,0,0.162,0.00527,0.0,0.477,0.205,128.028,4,world-music
+39So2wAM6l3XKWDf5XjiIz,Planetshakers,All For Love,Come Holy Spirit,36,352453,False,0.437,0.638,4,-6.483,0,0.0308,0.211,0.000428,0.138,0.159,148.0,4,world-music
+6X6wIzuxsh7GVNMPz1xTNa,Hillsong Worship,No Other Name,Depths,37,377697,False,0.363,0.462,7,-8.232,1,0.0284,0.00887,8.81e-06,0.706,0.0687,80.003,4,world-music
+0PjyOURxQ6wiHaBYXf53G2,Tenth Avenue North,The Light Meets The Dark,Healing Begins,44,237280,False,0.541,0.583,2,-7.047,1,0.0285,0.0142,0.0,0.102,0.276,96.008,4,world-music
+5y8ARSg47Yx52xvQQAlS35,Mosaic MSC,HUMAN (Deluxe) [Live],Fountain (I Am Good) - Live,22,318874,False,0.438,0.577,5,-8.285,1,0.0357,0.0206,1.29e-05,0.253,0.114,139.983,4,world-music
+2ZYEpnio0Z6EfJWy2JAf53,Dulces Sueños,#20 Sueños Vividos - Música Intrumental Suave 2018 para Dormir Bien y Relajarse Profundamente,Sueños Vividos,21,335999,False,0.198,0.257,8,-17.361,1,0.0415,0.968,0.949,0.11,0.0381,89.494,4,world-music
+4jDhzTYkEG5GloIWwVeVkc,Planetshakers,Revival (Live),All My Life - Live,40,246306,False,0.47,0.938,11,-4.722,0,0.105,0.000529,0.0,0.251,0.453,128.002,4,world-music
+6PM55W7WiUmHVPdUebJP55,Planetshakers,Greater (Live),Stay (You Are Good) - Live,38,462397,False,0.296,0.762,2,-5.696,1,0.0548,0.0724,2.68e-06,0.374,0.146,139.051,4,world-music
+0XEgJiDryoDd2gIJhVXghd,Bryan & Katie Torwalt;Brock Human,I've Got Good News (Live) [Deluxe],Hallelujah On My Knees - Live,22,380344,False,0.495,0.281,2,-12.07,1,0.0316,0.392,0.0,0.662,0.206,127.731,4,world-music
+2A4dSiJmbviL56CBupkh6C,Lucas Cervetti,Frecuencias Álmicas en 432hz (Solo Piano),Frecuencia Álmica XI - Solo Piano,22,369049,False,0.579,0.245,4,-16.357,1,0.0384,0.97,0.924,0.101,0.302,112.011,3,world-music
+0CE0Y6GM75cbrqao8EOAlW,Chris Tomlin,The Ultimate Playlist,At The Cross (Love Ran Red),32,250629,False,0.387,0.531,8,-4.788,1,0.029,0.00305,0.0,0.201,0.153,146.003,4,world-music
+3FjOBB4EyIXHYUtSgrIdY9,Jesus Culture,Revelation Songs,Your Love Never Fails,38,312566,False,0.475,0.86,10,-4.722,1,0.0421,0.0065,1.72e-06,0.246,0.427,113.949,4,world-music
+4OkMK49i3NApR1KsAIsTf6,Chris Tomlin,See The Morning (Special Edition),How Can I Keep From Singing,39,256026,False,0.505,0.687,10,-4.375,1,0.0287,0.0841,0.0,0.188,0.382,104.083,3,world-music
+4WbOUe6T0sozC7z5ZJgiAA,Lucas Cervetti,Frecuencias Álmicas en 432hz,"Frecuencia Álmica, Pt. 4",22,305454,False,0.331,0.171,1,-15.668,1,0.035,0.92,0.0229,0.0679,0.327,132.147,3,world-music
+2C3TZjDRiAzdyViavDJ217,Rainy Lullaby,"#mindfulness - Soft Rain for Mindful Meditation, Stress Relief Relaxation Music",Sleep My Little Boy,21,384999,False,0.172,0.235,5,-16.393,1,0.0422,0.64,0.928,0.0863,0.0339,125.995,5,world-music
+1hIz5L4IB9hN3WRYPOCGPw,Rainy Lullaby,"#mindfulness - Soft Rain for Mindful Meditation, Stress Relief Relaxation Music",Water Into Light,22,385000,False,0.174,0.117,0,-18.318,0,0.0401,0.994,0.976,0.105,0.035,85.239,4,world-music
+6x8ZfSoqDjuNa5SVP5QjvX,Cesária Evora,Best Of,Miss Perfumado,22,271466,False,0.629,0.329,0,-10.895,0,0.042,0.867,0.0,0.0839,0.743,132.378,4,world-music
+2e6sXL2bYv4bSz6VTdnfLs,Michael W. Smith,Change Your World,Friends,41,283893,False,0.587,0.506,7,-10.889,1,0.0297,0.381,0.0,0.27,0.413,135.96,4,world-music
+2hETkH7cOfqmz3LqZDHZf5,Cesária Evora,Miss Perfumado,Barbincor,22,241826,False,0.526,0.487,1,-10.204,0,0.0725,0.681,0.0,0.0893,0.708,79.198,4,world-music

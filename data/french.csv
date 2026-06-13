@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+6GyFP1nfCDB8lbD2bG0Hq9,M83,"Hurry up, We're Dreaming",Midnight City,76,243960,False,0.507,0.729,11,-5.399,0,0.0393,0.0182,1.4e-06,0.0658,0.272,105.013,4,french
+6RK3IsiUW6YaSMEodbO4tk,M83;Felsmann + Tiley,Solitude (Felsmann + Tiley Reinterpretation),Solitude - Felsmann + Tiley Reinterpretation,72,222354,False,0.367,0.202,0,-11.342,1,0.0313,0.668,0.145,0.109,0.0362,121.865,4,french
+01Q3OyB05mLgH01fpdAMPP,M83,"Hurry up, We're Dreaming",Wait,72,343253,False,0.426,0.228,2,-10.552,1,0.0322,0.198,0.13,0.0832,0.0822,147.994,4,french
+6nGeLlakfzlBcFdZXteDq7,Indila,Mini World,Love Story,75,316280,False,0.375,0.255,10,-12.279,0,0.0376,0.815,0.0,0.0845,0.331,95.978,3,french
+1MqzIgGsHP4cNjPboevsfq,Indila,Mini World,Tourner Dans Le Vide,78,246093,False,0.594,0.698,6,-8.645,0,0.0428,0.103,0.0,0.173,0.376,119.991,4,french
+5JdLUE9D743ob2RtgmVpVx,Jain,Zanaka,Makeba,60,249533,False,0.824,0.656,2,-9.432,1,0.0704,0.388,0.506,0.253,0.418,116.068,4,french
+2H7F7EfsVhy0jNLsVz8MLH,Else,Paris,Paris,64,209708,False,0.792,0.583,8,-8.305,0,0.027,0.023,0.582,0.0809,0.54,102.979,4,french
+3HeZam86SuxGp1wZ3XMIjE,Trinix;Queen D,She Said (Big Jet Plane),She Said (Big Jet Plane),71,173750,False,0.808,0.538,0,-10.211,0,0.0608,0.108,0.0743,0.0555,0.416,108.026,4,french
+65uoaqX5qcjXZRheAj1qQT,Indila,Mini World,Dernière danse,76,213493,False,0.669,0.449,0,-7.658,0,0.0489,0.184,0.0,0.0729,0.327,114.926,4,french
+3QXEVqeemynLGRqke5zOrC,Tez Cadey,Seve (Slow Version),Seve - Slow Version,53,333333,True,0.732,0.501,9,-10.626,1,0.0475,0.232,0.191,0.0937,0.334,152.634,4,french
+5ZduaRci3iNUiDfJbBfAaf,Matt Sassari,Give It To Me (Full Vocal Mix),Give It To Me - Full Vocal Mix,79,102860,False,0.874,0.869,1,-5.996,0,0.0315,0.00116,0.00238,0.164,0.726,126.027,4,french
+4lsOsGMzO1yCjGVucoWOZ1,Indila,Mini World (Deluxe),Ainsi bas la vida,72,214760,False,0.776,0.641,8,-6.925,1,0.0981,0.0486,5.77e-06,0.0977,0.437,128.05,4,french
+0Cp85ha3RN0FDytbku8nzq,Feder;Lyse,Goodbye (feat. Lyse) [Slow Version],Goodbye (feat. Lyse) - Slow Version,60,185173,False,0.764,0.683,1,-5.658,0,0.0715,0.173,0.842,0.117,0.141,92.654,4,french
+3s6ltUrI93LBKU8taezsLn,Magic System;Chawki,Africainement vôtre,Magic in the Air (feat. Ahmed Chawki),68,233693,False,0.621,0.907,2,-3.923,1,0.0474,0.091,0.0,0.067,0.884,128.056,4,french
+1ZNDa26Rrj8VVOnsV7q1Dj,Deep Chills,All About It,All About It,59,135642,False,0.741,0.564,7,-8.777,1,0.0328,0.307,0.0,0.171,0.884,108.055,4,french
+1m0UFnuTktOkksvjbF9z0m,Vegedream,Marchand de sable,Ramenez la coupe à la maison,72,235555,False,0.808,0.661,0,-6.237,0,0.0395,0.0358,0.0,0.138,0.804,107.992,4,french
+1oIdcFtf58sZbS7QyZQJ2P,Deep Chills;IVIE,Run Free,Run Free,67,170562,False,0.727,0.69,7,-4.559,1,0.0345,0.202,3.27e-06,0.414,0.699,100.002,4,french
+7fgIAr1aKeYNKLkKPzToz3,Indila,Top Trending Romania - Vara 2022,Love Story,3,316280,False,0.611,0.255,10,-12.291,0,0.0339,0.813,0.0,0.083,0.341,95.981,3,french
+3zlZM4O9Xzfm9T6bGuKTwf,Indila,Viral Şarkılar,Tourner Dans Le Vide - Version Orchestrale,6,229360,False,0.329,0.362,6,-10.162,0,0.0325,0.206,0.0,0.151,0.104,59.548,4,french
+2uN3Y88Uu3MLz5uq5qUYPw,Dinos,Best Hip Hop Tunes,Tulum,0,147840,True,0.863,0.561,11,-9.924,0,0.161,0.178,0.000844,0.0814,0.472,119.9,4,french
+6tFTvOg7J59fmBmN0NlQge,Polo & Pan,Pop Fun and Christmas Music 2022,Magic,0,408800,False,0.575,0.7,7,-8.444,1,0.0636,0.34,0.0329,0.0998,0.113,110.989,4,french
+1L7OypCjRlLuaoHNDqMwJh,Alonzo,Best Hip Hop Tunes,Mchenzi,0,135440,True,0.785,0.677,11,-5.665,1,0.26,0.254,0.0,0.107,0.356,143.015,4,french
+0u5mGjvZPRx3uFCwXKcXCP,Dinos,Best Hip Hop Tunes,Tulum,0,147840,True,0.863,0.561,11,-9.924,0,0.161,0.178,0.000844,0.0814,0.472,119.9,4,french
+2UuecWcpFpSngpTvm00eQj,Deep Chills;IVIE,Run Free (8D TikTok Edit),Run Free - 8D TikTok Edit,52,170800,False,0.617,0.604,7,-9.676,1,0.0323,0.0489,9.94e-05,0.168,0.515,99.961,4,french
+60WkxUM7Zhx2N1Fik1r9Gy,Dinos,Best Hip Hop Tunes,Tulum,0,147840,True,0.863,0.561,11,-9.924,0,0.161,0.178,0.000844,0.0814,0.472,119.9,4,french
+0KuO7KFCTgcGbQTVteJG0V,Dinos,Plug Walk,Tulum,0,147840,True,0.863,0.561,11,-9.924,0,0.161,0.178,0.000844,0.0814,0.472,119.9,4,french
+41C5SxPDN5z6GdvbtWRAv5,Soolking;Boro Boro,HOT PARTY BACK TO SCHOOL 2022,Suavemente,2,157714,True,0.854,0.682,7,-5.212,1,0.053,0.335,0.000926,0.0569,0.507,140.019,4,french
+32vssMXppasx2pREn1YoUA,Alonzo,Plug Walk,Mchenzi,0,135440,True,0.785,0.677,11,-5.665,1,0.26,0.254,0.0,0.107,0.356,143.015,4,french
+5I95jHzVIBX8As1RHXaSx4,Alonzo,Best Hip Hop Tunes,Mchenzi,0,135440,True,0.785,0.677,11,-5.665,1,0.26,0.254,0.0,0.107,0.356,143.015,4,french
+6EaqFRc9W6EfiOlYLlhxmv,Indila,Top Trending Romania - Vara 2022,S.O.S,3,272760,False,0.532,0.585,6,-6.98,1,0.0322,0.276,0.0,0.233,0.222,93.034,4,french
+1zSZivSYhjNTJfEhcaki5U,Alonzo,Best Hip Hop Tunes,Mchenzi,0,135440,True,0.785,0.677,11,-5.665,1,0.26,0.254,0.0,0.107,0.356,143.015,4,french
+38kvRDOkORGfZVjiwyjDZz,Soolking;Boro Boro,TickTok Back To School 2022,Suavemente,2,157714,True,0.854,0.682,7,-5.212,1,0.053,0.335,0.000926,0.0569,0.507,140.019,4,french
+4wOF4JSNrLRjWNPCYahZn1,Indila,Best Viral Tunes,Tourner Dans Le Vide - Version Orchestrale,0,229360,False,0.329,0.362,6,-10.162,0,0.0325,0.206,0.0,0.151,0.104,59.548,4,french
+6KpdH8vAqNUNQIrrOzkOCp,Vegedream;Negrito,RAP MUSCULATION RENTRÉE 2022,Pandémie,0,176813,False,0.8,0.618,0,-7.204,1,0.233,0.123,0.0,0.0734,0.867,135.031,4,french
+7jsztTcRQhf5WWZ2vqWy4e,Soolking;Boro Boro,TickTok Back To School 2022,Suavemente,0,157714,True,0.854,0.682,7,-5.212,1,0.053,0.335,0.000926,0.0569,0.507,140.019,4,french
+1iE8JCcL0rAVPjRFGEmFaT,Dosseh,RAP MUSCULATION RENTRÉE 2022,Cardio,0,181408,True,0.937,0.658,0,-6.42,0,0.177,0.207,0.0,0.193,0.401,130.057,4,french
+56T1puCxItOKMU3k8EsELm,Mig,RAP MUSCULATION RENTRÉE 2022,18 mars,1,155179,True,0.703,0.839,6,-7.032,0,0.33,0.374,0.0,0.305,0.952,140.16,4,french
+6nSnDI2EvwXocgjj6hwQRv,Camille Saint-Saëns;石丸由佳,死の舞踏~悪魔のパイプオルガン,死の舞踏,1,538293,False,0.213,0.159,7,-13.897,1,0.0366,0.715,0.914,0.101,0.0373,143.35,4,french
+6Dapl0G5RactW4em76RQkB,Niska,RAP MUSCULATION RENTRÉE 2022,Le monde est méchant,1,147226,True,0.938,0.571,9,-8.507,1,0.314,0.08,0.0,0.146,0.783,135.023,4,french
+7kUorPztrb9NLsYZIlGurI,Mig;ISK,RAP MUSCULATION RENTRÉE 2022,Criminel,0,276500,True,0.56,0.699,8,-6.429,0,0.369,0.174,0.0,0.163,0.352,126.134,4,french
+0sswApV2NWdBgUOx9dtjpG,Dinos,RAP MUSCULATION RENTRÉE 2022,5711,0,185306,True,0.913,0.62,8,-8.679,1,0.235,0.105,1.14e-06,0.211,0.49,140.049,4,french
+4ykLkP1LMu6n3d4TPsr7Rr,Mig,RAP MUSCULATION RENTRÉE 2022,Vrai Savage,1,198355,True,0.466,0.817,1,-4.778,1,0.269,0.105,0.0,0.307,0.543,137.036,4,french
+0EvCiWxEVUUJpwbbgJvfxK,Mig,RAP MUSCULATION RENTRÉE 2022,Sauvette Sauvage,0,147626,True,0.764,0.682,1,-6.826,1,0.303,0.334,0.0,0.0925,0.772,130.99,4,french
+1tK29op2PjXpYyYdnWMqT5,Camille Saint-Saëns;Isata Kanneh-Mason;Jeneba Kanneh-Mason;Sheku Kanneh-Mason,Clásica para los niños de hoy,Carnival of the Animals: The Swan,0,150146,False,0.213,0.0656,7,-24.81,1,0.0467,0.992,0.969,0.0699,0.0384,65.023,3,french
+0kjxcuJ4nciYNi9yebUhwN,Lacrim,RAP MUSCULATION RENTRÉE 2022,P38 Special,2,199093,True,0.826,0.679,5,-6.579,0,0.436,0.213,0.0,0.0975,0.262,139.888,4,french
+18DA9kxKKd4pjjdanpDTaa,Camille Saint-Saëns;Daniel Reichert;Simon Reichert,Belle Époque,Fantasie No. 1 in E-Flat Major (Transcr. H. Büsser for Cornet & Organ),0,339613,False,0.288,0.186,3,-19.017,1,0.0628,0.965,0.971,0.126,0.0673,67.37,4,french
+2Ey5iQDQY9RuTZHgYsaL5I,Camille Saint-Saëns;phil Blech Wien;Anton Mittermayr;Wiener Sängerknaben;Chorus Viennensis,Classical Christmas,"Oratorio de Noël, Op. 12: 10. Tollite hostias",0,119346,False,0.401,0.302,7,-10.229,1,0.0344,0.984,1.39e-05,0.334,0.497,127.555,4,french
+1RaWrq3YuSbG0zxcS4ODZg,Camille Saint-Saëns;Alfons Kontarsky;Aloys Kontarsky;Wiener Philharmoniker;Karl Böhm,Relajación y siestas,"Le carnaval des animaux, R. 125: IV. Tortues - V. L'Éléphant - VI. Kangourous",0,208360,False,0.373,0.0108,10,-33.756,1,0.0326,0.975,0.961,0.0982,0.143,133.496,3,french
+2Z3mCkdgvmcOeyj2rwVEB2,Camille Saint-Saëns;Pascal Rogé;Cristina Ortiz;London Sinfonietta;Charles Dutoit,Clásica para los niños de hoy,"Le Carnaval des Animaux, R.125: 3. Hémiones (Animaux véloces)",0,31106,False,0.321,0.26,0,-22.783,0,0.0422,0.977,0.938,0.148,0.275,88.565,4,french
+4BDkjIvf7i6NDIa13ULvbI,Camille Saint-Saëns;Leander High School Wind Ensemble;Robert Selaiden,2021 Midwest Clinic: Leander High School Wind Ensemble (Live),"Symphony No. 3 in C Minor, Op. 78 ""Organ"": II. Allegro moderato - Presto - Maestoso - Allegro (Excerpts Arr. E. Vandoren for Wind Ensemble) [Live]",0,489306,False,0.345,0.147,10,-20.149,1,0.0407,0.907,0.799,0.671,0.13,105.862,4,french
+45eY7Qi2PDUs8WJEhjGWdN,Vegedream,Ramenez la coupe à la maison,Ramenez la coupe à la maison,65,235555,False,0.808,0.661,0,-6.237,0,0.0395,0.0358,0.0,0.138,0.804,107.992,4,french
+6UqRGwjwYL0stXbaodTxwo,Tez Cadey,Seve (Radio Edit),Seve - Radio Edit,69,210853,False,0.74,0.831,5,-7.321,1,0.0456,0.444,0.00304,0.0769,0.448,121.034,4,french
+5JAfEQ836WnMJogH7rDT5Q,Rilès,Should I,Should I,57,204444,True,0.822,0.528,10,-7.61,0,0.0398,0.423,0.0,0.0869,0.518,108.01,4,french
+7M3HuQRRAm1QD4kftmq0bb,Videoclub,Amour plastique,Amour plastique,68,227026,False,0.7,0.354,6,-14.043,0,0.0345,0.765,0.00158,0.128,0.245,119.965,4,french
+2JOTbHmj0jwBM9bHgcVEOq,Boris Way,Pink Soldiers,Pink Soldiers,66,135688,False,0.828,0.639,5,-6.251,0,0.0351,0.167,0.165,0.133,0.496,123.021,4,french
+2W3EgJst61RLZtPPm3EQim,The Blaze,Territory,Territory,67,276373,False,0.563,0.44,9,-11.943,0,0.0822,0.286,0.683,0.269,0.213,120.009,4,french
+6eOc4UyJok1C0t3mur8GYD,PLÜM,I See You,I See You,61,165161,False,0.696,0.565,6,-8.084,0,0.0933,0.613,1.62e-05,0.128,0.287,93.041,4,french
+33Om1hVbO2fvyERdp7CBO8,Rilès,WELCOME TO THE JUNGLE (Deluxe),MARIJUANA,59,159597,True,0.803,0.246,0,-8.362,0,0.0523,0.715,3.37e-06,0.126,0.431,141.992,3,french
+24upABZ8A0sAepfu91sEYr,Kid Francescoli;Julia Minkin,Play Me Again,Moon (And It Went Like),66,390638,False,0.662,0.657,7,-10.002,1,0.0345,0.288,0.856,0.102,0.0584,117.986,4,french
+6c12fBpCtuVIq8OFxT0A3S,Feder;Alex Aiono,Lordly (feat. Alex Aiono),Lordly (feat. Alex Aiono),55,196091,False,0.716,0.713,8,-6.246,1,0.0365,0.078,0.0331,0.0563,0.415,119.988,4,french
+0Ei1aBiIELwXmUcIZDETOi,Rilès,Pesetas,Pesetas,63,193561,True,0.772,0.659,11,-5.218,0,0.335,0.0785,0.0,0.0834,0.536,147.149,4,french
+53rjOcc3HVPKvGG5MLYl3O,Trinix;Holly Henry,Sweet Dreams,Sweet Dreams,61,161652,False,0.72,0.656,0,-7.994,0,0.137,0.17,0.00295,0.527,0.398,121.005,4,french
+1TURPL0kG4SEOanrx37yeo,Manudigital;Joseph Cotton,Only Just Begun,Only Just Begun,57,204032,True,0.831,0.854,7,-4.275,1,0.105,0.439,6.69e-06,0.147,0.743,93.025,4,french
+08wnOyN1wyMaNrup3m353f,M83,"Hurry up, We're Dreaming",My Tears Are Becoming a Sea,64,151826,False,0.162,0.353,8,-11.286,0,0.0509,0.0993,0.274,0.575,0.0551,110.76,1,french
+3h0tEwAyOCQDa4X8NEcy0Q,PLÜM,Crazy,Crazy,67,220000,False,0.769,0.596,7,-9.359,0,0.0524,0.0487,0.00803,0.204,0.259,105.032,4,french
+5fnA9mkIfScSqHIpeDyvck,Lilly Wood and The Prick;Robin Schulz,Prayer in C,Prayer in C - Robin Schulz Radio Edit,73,189413,False,0.763,0.875,9,-5.797,0,0.0262,0.024,5.41e-06,0.599,0.8,123.013,4,french
+45uwWuhL7nNamSKw3DnpQl,Luca;Nina Carr,Fever,Fever,65,173411,False,0.61,0.554,2,-8.301,0,0.13,0.428,0.000322,0.157,0.231,106.818,4,french
+6eFlqtmgYckrLelrV4oc9C,Y.V.E. 48,Let You Know (Summer Edit),Let You Know - Summer Edit,66,149400,False,0.623,0.398,2,-13.815,0,0.0331,0.381,0.426,0.109,0.0974,99.992,4,french
+1s9i7W8zx7Nxx78MUIsvjV,M83,"Hurry up, We're Dreaming",Outro,65,247026,False,0.162,0.256,2,-11.296,1,0.0346,0.0332,0.0923,0.0621,0.0784,108.893,4,french
+5vOUYERtWnw7CfrxktLrK2,Lonely in the Rain;Panama,Feel This Way,Feel This Way,65,220645,False,0.757,0.405,10,-13.709,1,0.117,0.528,0.126,0.1,0.0537,124.014,4,french
+19aBGyxQrl8LDnPUyusjRa,MR TOUT LE MONDE,Sunny Day,Sunny Day,70,192000,False,0.451,0.422,3,-8.477,0,0.0433,0.512,0.162,0.139,0.119,119.998,4,french
+1HPJOoIVdUPuaebxzMrVaD,F.R. David,Words,Words - Original Version 1983,73,209013,False,0.537,0.789,10,-5.578,0,0.0549,0.372,2.66e-05,0.138,0.527,123.763,4,french
+5tFrkZF1LBDo6uG3Z8UIlI,Feder,Lordly (feat. Alex Aiono) [Remix EP],Lordly - Instrumental Mix,51,273470,False,0.748,0.596,10,-8.222,0,0.0397,0.0111,0.833,0.0506,0.472,115.006,4,french
+1sK88xCAHDRj6uNxz7W7nM,Indila,Romantic Tok 2022,Love Story - Radio Edit,45,211348,False,0.649,0.281,10,-11.956,0,0.0359,0.799,0.0,0.0771,0.439,95.978,4,french
+4bNqSJ92afDvDZiYgpckVf,Imany;Filatov & Karas,The Wrong Kind of War,Don't Be so Shy - Filatov & Karas Remix,66,191360,False,0.768,0.904,8,-5.759,0,0.0584,0.0502,0.011,0.386,0.906,119.989,4,french
+0KBsyEAb5ORTJrGfc3smu4,Indila,Mini World (Deluxe),Love Story - Version Orchestrale,51,297973,False,0.574,0.291,10,-11.337,0,0.0297,0.758,0.0,0.143,0.289,96.073,3,french
+7FE0ThVWVTIHYKv14xlMVr,Indila,Mini World,S.O.S,60,272760,False,0.531,0.587,6,-6.995,1,0.0328,0.271,0.0,0.228,0.208,93.023,4,french
+4GCfdrH7k3AwbK9uREy3oX,Indila,Mini World (Deluxe),Dernière danse,49,213493,False,0.669,0.449,0,-7.658,0,0.0489,0.184,0.0,0.0729,0.327,114.926,4,french
+14rZjW3RioG7WesZhYESso,Yann Tiersen,Le Fabuleux destin d'Amélie Poulain (Bande originale du film),"Comptine d'un autre été, l'après-midi",73,140733,False,0.483,0.192,4,-15.378,0,0.0469,0.991,0.908,0.106,0.0542,100.848,4,french
+2HrZq3Z11Jfc7HJysagg1R,Adon;Emilia Sonate,Castle in the Sky,Castle in the Sky,48,171130,False,0.75,0.825,8,-5.609,1,0.0286,0.00618,0.00048,0.122,0.119,114.969,4,french
+2RO4aPByijQUqBZhYm1apz,Vianney;Ed Sheeran,Call on me (feat. Ed Sheeran),Call on me (feat. Ed Sheeran),72,200706,False,0.618,0.66,6,-3.202,1,0.0664,0.116,0.0,0.0727,0.572,81.023,4,french
+0YtUhW9p7E0DgU6bFzGxLF,Polo & Pan,Halloween & Chill,Zoom Zoom,0,209800,False,0.678,0.849,7,-6.983,1,0.0367,0.0461,0.625,0.0833,0.499,94.005,4,french
+1PwJ2wgHHGWR2tHYmxR1Q7,Polo & Pan,Halloween & Chill,Nanã,0,190826,False,0.685,0.735,4,-6.337,0,0.0336,0.191,0.0387,0.188,0.386,94.026,3,french
+5HYuRYANROil0iLwKWkBdB,Pomme,ZEN 2022,when I c u,0,238626,False,0.328,0.116,9,-14.55,1,0.0371,0.957,7.08e-05,0.388,0.259,181.687,3,french
+59LwyGp3Vn4LFDmCLeePoh,Feder;Ofenbach;Dawty Music,Cardio Tracks,Call Me Papi,0,140631,False,0.868,0.634,4,-6.122,0,0.212,0.0493,0.000383,0.085,0.352,120.949,4,french
+01kzWd0EWMYrSDHESjTjfU,Deep Chills;Coral Reef;Bikini Bandits;Julia Raye,Talkin' Bout a Revolution,Talkin' Bout a Revolution,41,153065,False,0.718,0.767,7,-6.695,1,0.0482,0.616,0.000956,0.14,0.424,117.952,4,french
+2lIt81r59Q6AeNb8iFuPOb,1PLIKÉ140,RAP MUSCULATION RENTRÉE 2022,COMME BOU,0,203240,True,0.762,0.659,1,-6.382,1,0.195,0.423,9.14e-06,0.143,0.643,137.97,4,french
+0nrCJPLsvZrV805zb6FUbh,Polo & Pan,Autumn Vibes 2022,Ani Kuni - Edit,0,169266,False,0.704,0.669,0,-5.691,1,0.0309,0.0862,0.348,0.108,0.305,121.005,4,french
+38msGDKGlIRI4GOkaSk2wF,Vegedream,Top Trending Romania - Vara 2022,Ramenez la coupe à la maison,2,235555,False,0.808,0.66,0,-6.237,0,0.0395,0.0358,0.0,0.138,0.804,107.994,4,french
+7bcWFmFSQ7INVYL5ly40pB,Sefa;Dr. Peacock;Chrono,Harder Stylez: We Love The Bass,Das Boot,0,248400,False,0.444,0.993,0,-0.882,1,0.122,0.0186,0.0388,0.376,0.0921,99.994,4,french
+0zAk27oGo3z1cKjX8Q4aj5,Lilly Wood and The Prick;Robin Schulz,Running Songs,Prayer in C - Robin Schulz Radio Edit,0,189399,False,0.76,0.886,9,-5.357,0,0.0258,0.0219,5.78e-06,0.623,0.78,123.002,4,french
+7DczAzWKf2WOretzrzQOCf,Gojira,Metal,Stranded,0,269533,False,0.512,0.879,7,-4.69,0,0.031,9.54e-05,0.00745,0.0824,0.484,92.358,4,french
+6sPp2vmtuPClF2ADvwUxNO,Vanessa Paradis,OO's Music Grandi Successi,Dès que j'te vois,0,203640,False,0.73,0.746,9,-6.618,1,0.0263,0.141,6.35e-06,0.0957,0.52,115.029,4,french
+6kyOjb08Ce4BIXpGHi1a1j,Sofiane,RAP MUSCULATION RENTRÉE 2022,Caisse pleine,0,130979,True,0.828,0.852,4,-5.663,0,0.305,0.212,0.0,0.333,0.523,139.973,4,french
+4sm26CYtyVGsBHKoe59KFz,Louane,Christmas Songs 2022,Santa Claus Is Coming To Town,0,165067,False,0.558,0.522,6,-5.573,1,0.0379,0.801,1.44e-06,0.172,0.404,122.076,4,french
+6HV9YfCGW2zUHa22ajUUuN,1PLIKÉ140,RAP MUSCULATION RENTRÉE 2022,CHIRAQ,0,180000,True,0.774,0.781,1,-5.875,1,0.24,0.322,1.22e-06,0.0833,0.829,160.038,4,french
+1WfShFNteH2XK96ahIWikp,The Avener;Phoebe Killdeer,10's Music Grandi Successi,Fade Out Lines,0,194493,False,0.865,0.7,8,-5.305,0,0.0318,0.0236,0.0323,0.0948,0.665,119.008,4,french
+3TmpdfRQpuPJzd0j7gqED6,The Avener;Phoebe Killdeer,Autumn Vibes 2022,Fade Out Lines - The Avener Rework,0,276000,False,0.855,0.693,8,-5.662,0,0.0308,0.0165,0.0794,0.118,0.687,119.005,4,french
+3pbMHrYR8i2qndIDhwtVBg,Georges Bizet;Francesco Verzillo;Danilo Dellepiane,"Chrétien, Cohen, Rousseau, Berlioz, Barthe, Thomas, Demersseman, Verzillo, Bizer: Le trombone romantique dans la France du XIXe siècle","Carmen: ""Habanera""",0,182093,False,0.572,0.0144,7,-23.133,1,0.0576,0.995,0.969,0.109,0.536,123.784,4,french
+31weWETfEZxvFORVi9o25F,Georges Bizet;Francesco Verzillo;Danilo Dellepiane,"Chrétien, Cohen, Rousseau, Berlioz, Barthe, Thomas, Demersseman, Verzillo, Bizer: Le trombone romantique dans la France du XIXe siècle","Carmen: ""Danse des gitans""",0,187520,False,0.594,0.0852,7,-20.606,1,0.0533,0.994,0.937,0.101,0.626,127.091,4,french
+47x1Gh7yk5mblUWxWRdtjH,French 79,Joshua,Hometown,55,202107,False,0.566,0.713,5,-9.134,1,0.034,0.255,0.944,0.109,0.18,117.987,4,french
+2dxyTLxvO1xzHSD6fDafwZ,Oscar Anton;Clementine,nuits d'été,nuits d'été,57,207053,False,0.71,0.458,6,-11.79,0,0.0757,0.71,0.00179,0.112,0.29,144.019,4,french
+6LptEwO1ObZvVQXlU0BPIJ,Lavern,Move Me,Move Me,63,140000,False,0.706,0.644,8,-9.958,1,0.044,0.802,0.0264,0.14,0.188,120.032,4,french
+5fOAqQede0xm3pocMD3X8u,COY,Forever in My Mind,Forever in My Mind,61,108224,False,0.802,0.486,2,-9.723,0,0.0646,0.222,0.721,0.11,0.159,107.005,4,french
+607k4fZHtv9fBHc8HAA8dy,Taiwan MC;Davojah,Nah Leave Me Corner,Let the Weed Bun,54,319294,False,0.813,0.709,10,-5.24,0,0.0493,0.0592,1.25e-05,0.239,0.93,152.017,4,french
+4ipoHe6bjN9IeXr8CGJYgR,The Blaze,EYES,EYES,64,212080,False,0.818,0.433,0,-10.853,1,0.0702,0.175,0.00413,0.124,0.119,119.993,4,french
+0Psz3az3RIYfJpnsajBT8N,Polo & Pan,Caravelle,Nanã,65,190826,False,0.685,0.735,4,-6.337,0,0.0334,0.191,0.038,0.188,0.385,94.035,3,french
+0JWSMYurMhPmlD5H8VRoTn,TWOPILOTS;De Hofnar,If You Had My Love,If You Had My Love,68,174210,False,0.77,0.875,10,-4.012,0,0.0817,0.375,0.0,0.335,0.766,113.99,4,french
+4xJgLXFUkIkILn6Z5IHBtD,PLÜM,Flower,Flower,62,166607,False,0.697,0.751,5,-8.253,0,0.0943,0.343,0.00291,0.136,0.305,111.985,4,french
+3nKxX6zfFneRwrQtC8mshP,PLÜM,Sensation,Sensation,57,164869,False,0.688,0.479,2,-9.419,1,0.0777,0.823,0.0,0.11,0.432,114.89,4,french
+6JrAEmBFd61eYIGVOSPnT4,Parra for Cuva;Anna Naklab,Wicked Games (feat. Anna Naklab) [Radio Edit],Wicked Games (feat. Anna Naklab) - Radio Edit,65,195210,False,0.801,0.641,11,-8.584,1,0.0455,0.0667,0.0244,0.172,0.701,124.979,4,french
+3hkFFtJqJOXAlEPVWl15zS,Trinix;Moze,Replay,Replay,58,152553,False,0.654,0.583,8,-8.806,1,0.294,0.37,0.0,0.0894,0.632,93.872,4,french
+67i1stWSGQXQi1sbc0dKTf,Mizmo;Freeless,Stars,Stars,35,171434,False,0.639,0.791,11,-8.113,1,0.0415,0.138,0.00234,0.199,0.0576,98.02,4,french
+7tYCf3ftc99AQrn2cXYM6d,PLÜM;Tanaë,Just One Dance,Just One Dance,59,212352,False,0.668,0.686,9,-5.95,0,0.149,0.26,3.03e-05,0.31,0.323,101.936,4,french
+2OKfbCxQZ9ylJpulyG0iBj,PLÜM,Rêve sans fin,Rêve sans fin,62,155000,False,0.797,0.554,9,-8.161,0,0.0665,0.322,0.0709,0.0939,0.403,112.976,4,french
+1zyUz3eZ3sytdaR9lfW17q,Vendredi sur Mer,Premiers émois,Écoute Chérie,64,224933,False,0.607,0.647,7,-7.17,0,0.0452,0.138,0.00102,0.255,0.689,92.915,4,french
+3Ra4rkq1ExwPXwrPQeHBWg,Alexandre Desplat,"Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)",Lily's Theme,61,148813,False,0.179,0.048,6,-28.663,1,0.0469,0.889,0.974,0.0775,0.0278,72.93,4,french
+0BQ4zIMESy75Qf2HeMi4ds,TEEMID,Electric Feel,Electric Feel,64,213974,False,0.686,0.472,0,-8.638,0,0.0897,0.416,0.0908,0.0971,0.0832,100.106,3,french
+0nS2xf6yooLnSAthClLCDi,TWOPILOTS;De Hofnar;Kav Verhouzer,If You Had My Love (Kav Verhouzer Remix),If You Had My Love (Kav Verhouzer Remix),71,158536,False,0.73,0.699,10,-7.332,0,0.0434,0.0401,2.94e-06,0.129,0.624,122.968,4,french
+2gz4mdVCGRqX6NrWWE7vOE,Kedam,Kedam,Shy Girl,60,224104,False,0.788,0.711,11,-9.564,1,0.0694,0.244,2.1e-06,0.223,0.13,113.048,4,french
+0eIeQTtVOtGopW4AjpU2Bj,Dr. Peacock;Billx,Frenchcore Worldwide 04,It's Called XTC,51,243600,False,0.628,0.988,3,-3.971,0,0.101,0.0779,0.169,0.286,0.396,99.978,4,french
+3yZuIZOZCBImbR0SKTkj7S,Lvne,Beautiful,Beautiful,61,177611,False,0.731,0.683,7,-10.692,1,0.181,0.206,0.082,0.556,0.156,122.982,4,french
+59orINRme5lLjeK2oREPuV,WAVE.;Marcus Alexander;JYRYMY,Memories (Jyrymy Remix),Memories - Jyrymy Remix,63,204787,False,0.787,0.689,10,-9.061,0,0.177,0.366,0.0461,0.117,0.24,121.0,4,french
+5ixnguUMnrlwoUH7hhb6gQ,Friends & I,Does It Mean I Love U,Does It Mean I Love U,61,150000,False,0.691,0.714,8,-7.568,0,0.0358,0.0309,0.54,0.302,0.242,108.005,4,french
+0FXEr1tdiBcLsnLSG8ol2l,Feder;Ofenbach;Dawty Music,Call Me Papi (feat. Dawty Music),Call Me Papi (feat. Dawty Music),58,140631,False,0.868,0.634,4,-6.122,0,0.212,0.0493,0.000383,0.085,0.352,120.949,4,french
+3i7Yfu2wBqCBcVofjdRDJK,Lonely in the Rain,In Love Again,In Love Again,62,140880,False,0.873,0.489,0,-10.008,1,0.251,0.719,0.0284,0.087,0.208,115.038,4,french
+4sigEqg7SMeZsn8haXoloU,TEEMID,Wonderwall,Wonderwall,63,246169,False,0.7,0.705,5,-6.026,1,0.0414,0.148,0.0343,0.161,0.521,99.97,4,french
+16IzV3JdxmR3X10ZbWHlfB,The Blaze,Dancehall,She,63,218653,False,0.697,0.829,9,-8.869,0,0.0399,0.0314,0.283,0.307,0.0398,125.027,4,french
+4u62RkJPMac3ZP4yBJEiLw,Luca;De Rien,Keep You Away,Keep You Away,61,138000,False,0.573,0.44,1,-15.567,0,0.323,0.758,1.92e-05,0.276,0.121,99.956,4,french
+1o6JHLSAtNsIj8AgAvDxXX,Rilès,WELCOME TO THE JUNGLE (Deluxe),THANK GOD,61,210236,True,0.79,0.793,6,-6.544,1,0.121,0.393,0.0,0.138,0.496,141.046,4,french
+49A10weBfgwg4TUM3My7iv,Soko,I Thought I Was An Alien,We Might Be Dead By Tomorrow,59,161413,False,0.391,0.152,7,-16.558,1,0.0391,0.966,0.00197,0.119,0.0974,143.508,4,french
+0ujT2z8Pz9Z4PPdLSYsuw1,Horizon Blue;S3da;Coulson,Need You,Need You,62,139636,False,0.704,0.647,7,-8.039,0,0.0849,0.732,0.000197,0.117,0.153,110.095,4,french
+2ynaRz7EuNbDrNrlr3QUjP,Lucenzo;Don Omar,Emigrante Del Mundo (Remastered),Danza Kuduro - Version MTO,45,216352,False,0.482,0.968,7,-4.164,1,0.408,0.00967,0.0,0.0477,0.595,130.02,4,french
+4TDh2sMmrfbzx7kfW4CoQP,Alex Keeper,Remember These Days,Remember These Days,61,154138,False,0.701,0.596,4,-10.755,1,0.0338,0.543,0.881,0.23,0.173,115.983,4,french
+7mTu2ZcNb2Ip79YEzZZnrf,Kid Francescoli,Nopalitos,Nopalitos,60,230089,False,0.607,0.583,5,-8.928,0,0.0321,0.0774,0.849,0.116,0.166,125.005,4,french
+3lTGqzJbMYDHXbqeV8pt7d,Indila,Parle à ta tête,Parle à ta tête,57,176933,False,0.661,0.813,5,-4.428,0,0.347,0.335,0.0,0.169,0.459,127.808,4,french
+44EgTZXLY0a2NcKaZdnkyL,Broken Back,Away From Home,Away From Home,63,149072,False,0.698,0.871,2,-7.073,1,0.0469,0.221,0.0,0.298,0.79,98.003,4,french
+0o9ivTBX7mjTnaUYF4Gk6t,Alexandre Desplat;London Symphony Orchestra,The Imitation Game (Original Motion Picture Soundtrack),The Imitation Game,58,157026,False,0.318,0.308,5,-13.676,0,0.0285,0.438,0.889,0.109,0.0592,103.925,4,french
+5LI5DHVYrtMKJQaedaUhTS,Broken Back,Shine,Shine,63,171870,False,0.683,0.758,7,-7.29,1,0.163,0.284,0.0,0.312,0.686,95.956,4,french
+4W00lcpsSmRjJTsewJQO1j,Møme;Merryn Jeann,Autumn Vibes 2022,Aloha,0,218400,False,0.6,0.727,10,-5.978,0,0.16,0.203,6.25e-05,0.115,0.417,100.074,4,french
+0WxiQqTcK3ZErx2mMWgtm6,Lartiste;Caroliina,Grandestino,Mafiosa (feat. Caroliina),65,193700,False,0.867,0.724,6,-4.266,1,0.0978,0.258,0.0,0.0527,0.757,128.97,4,french
+1Q2gUmvHoPeLuPi7WPq8lP,Lonely in the Rain;PALOSUEÑO;SOMOH,Chasing My Dreams (Palosueño Remix),Chasing My Dreams - Palosueño Remix,61,169426,False,0.734,0.464,2,-11.389,1,0.0597,0.349,0.078,0.0952,0.171,122.002,3,french
+7Kb1EXKP6v5oTYFRVfWlGD,TAL,A l'infini (Summer Edition),Sans un regard,42,222466,False,0.609,0.51,8,-8.302,1,0.0371,0.0818,0.0,0.18,0.166,93.91,4,french
+0jOnZhF75V68VsBObWx2XO,Camille Saint-Saëns;Yo-Yo Ma;Kathryn Stott,Songs from the Arc of Life,"The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",70,174266,False,0.169,0.0161,9,-31.034,0,0.0442,0.986,0.86,0.0805,0.0573,128.143,3,french
+3pIpa33ZYgL6ZEkpBRA8BF,Deep Chills,Every Breath You Take,Every Breath You Take,65,198058,False,0.78,0.573,0,-8.545,1,0.038,0.249,0.245,0.18,0.671,119.973,4,french
+55HsZ3r9G0G58AYWZFY5VI,YL,RAP MUSCULATION RENTRÉE 2022,Niya,0,180120,True,0.753,0.759,0,-7.848,0,0.0669,0.157,0.0,0.102,0.514,105.015,3,french
+3gRRxRO9IlBOQEnJ3vDCTu,ISK,RAP MUSCULATION RENTRÉE 2022,Snowfall,1,163276,True,0.775,0.685,11,-5.863,0,0.253,0.626,0.0,0.096,0.785,143.036,4,french
+1wuULYQgIl0JfgP2bAW7B8,Jules Massenet;Michel Schwalbé;Berliner Philharmoniker;Herbert von Karajan,Relajación y siestas,Thaïs / Acte Deux: Meditation,0,359946,False,0.161,0.0825,4,-23.357,0,0.0408,0.795,0.84,0.148,0.0371,132.577,3,french
+1ycNgydCKB8WJfRRuro8Jc,Jean-Philippe Rameau;Pavel Nersessian,"Schumann, Poulenc & Others: Piano Works (Live in Japan, 2022)","Suite in E Minor, RCT 2: V. Le rappel des oiseaux (Live in Japan, 2022)",0,174600,False,0.307,0.0532,4,-31.453,0,0.0403,0.995,0.898,0.11,0.514,80.306,4,french
+3wwx4W1lVWo0amhT1lQXcP,Jean-Philippe Rameau;Pavel Nersessian,"Schumann, Poulenc & Others: Piano Works (Live in Japan, 2022)","Pièces de clavecin avec une méthode, Suite in D Major, RCT 3: No. 17, Les cyclopes (Live in Japan, 2022)",0,205773,False,0.311,0.361,2,-22.436,0,0.0584,0.992,0.835,0.688,0.56,129.37,4,french
+12LOYGBr0T0IqyuhEILYFh,NTO,La clé des champs,La clé des champs,59,416000,False,0.461,0.526,6,-10.668,1,0.0506,0.00142,0.861,0.108,0.0401,120.011,4,french
+1na2MOlie83rN9sTNRuEOj,M83,Divergent: Original Motion Picture Soundtrack,I Need You,57,181280,False,0.187,0.526,2,-7.291,1,0.0326,0.0261,0.0342,0.172,0.0739,72.259,4,french
+71MEWIf4Itr8Pd9OW5Mq7q,GIMS;Maluma,Hola Señorita,Hola Señorita,62,206853,False,0.588,0.796,0,-3.945,0,0.262,0.386,0.0,0.198,0.546,192.128,4,french
+79npfYK6N5RnBc1jiaoHCr,M83;Susanne Sundfør,Oblivion (Original Motion Picture Soundtrack),Oblivion,59,356674,False,0.399,0.612,4,-7.814,0,0.0358,0.00317,0.33,0.127,0.0567,128.167,4,french
+6yv0ZjBlZy2oRFq7jAis2C,TWOPILOTS,Riptide,Riptide,68,154731,False,0.729,0.836,8,-4.312,1,0.0462,0.156,3.27e-05,0.336,0.288,113.998,4,french
+1uTfgYieZbJ2qZ2v2ICndT,Seth XVI,Your Taste,Your Taste,55,202966,False,0.871,0.409,11,-11.66,1,0.0905,0.0902,0.701,0.0615,0.074,105.033,4,french
+7IfOWyh4jTfkcGVrXKVNq0,Møme;Merryn Jeann,Panorama,Aloha,62,218480,False,0.661,0.635,10,-7.423,0,0.0645,0.204,0.00114,0.186,0.365,99.972,4,french
+2gK4qTOtzYQiiOW6I2bXj8,PLÜM,Kuala Lumpur,Kuala Lumpur,59,182000,False,0.753,0.54,3,-8.857,0,0.0419,0.572,0.00152,0.121,0.233,104.075,4,french
+6nNXTSvVO6ue9Ywshh4PZ4,Trinix;Dominic Neill,Now or Never,Now or Never,62,182750,False,0.898,0.564,9,-9.207,1,0.121,0.463,0.00553,0.113,0.435,117.992,4,french
+7as88HhLbDLgobaSbJrVBs,Pomme,À peu près,Ceux qui rêvent,64,118386,False,0.432,0.419,8,-8.018,0,0.0346,0.869,7.94e-05,0.103,0.658,133.713,4,french
+1kUoZXVgTMT9TakkZY6DZf,Lonely in the Rain;Madeline,Feels Like Paradise,Feels Like Paradise,58,194288,False,0.756,0.405,7,-13.438,0,0.118,0.811,0.167,0.174,0.169,115.013,4,french
+0HDO6JFfplYPrSWuufUosZ,Videoclub,Euphories,Amour plastique,62,227026,False,0.696,0.354,6,-14.043,0,0.0353,0.767,0.00158,0.128,0.242,119.938,4,french
+2XWV1kIh4nth7BbpUjd371,Mizmo;Roundrobin,Keep On Trying,Keep On Trying,58,190656,False,0.622,0.802,7,-6.272,1,0.0725,0.188,0.0,0.389,0.329,120.012,4,french
+7ID9hY0L3R4GKtvUThHa0q,Indigo Pool;Mushroom People,Broken Waves,Broken Waves,62,146351,False,0.638,0.496,10,-7.304,1,0.0444,0.0952,0.0266,0.125,0.337,105.02,4,french
+5AaYPmsMNjs72u0HNVwOZn,Indila,Mini World (Deluxe),Tourner dans le vide - Version Orchestrale,52,227640,False,0.278,0.371,6,-10.154,0,0.035,0.184,0.0,0.224,0.0979,61.043,4,french
+260V7huyJrXnyYe0dFv2Fa,Polo & Pan,Caravelle,Canopée,66,276293,False,0.704,0.692,5,-6.558,0,0.0304,0.0942,0.0109,0.0922,0.369,96.005,4,french
+2d8D7uk3tbAThjRkdfrx9c,Desireless,François,Voyage voyage,70,266600,False,0.606,0.913,8,-6.039,0,0.0351,0.246,0.00696,0.34,0.838,123.58,4,french
+3PnOOmkxruDDAiMYZZTgO7,Feder;Lyse,Goodbye (feat. Lyse) [Radio Edit],Goodbye (feat. Lyse) - Radio Edit,59,201938,False,0.832,0.876,6,-5.124,0,0.205,0.173,0.737,0.162,0.635,120.057,4,french
+1zNr4vG0eDb9wpj6qsmKJX,Lonely in the Rain,Far Away,Far Away,59,174747,False,0.799,0.415,3,-12.865,1,0.144,0.667,0.217,0.111,0.0398,114.025,4,french
+2hT9vWmKp6uduKzmalqeMA,Jane Good;Samuel Miller,The One,The One,64,125347,False,0.644,0.632,2,-5.927,0,0.0376,0.162,0.342,0.132,0.219,114.986,4,french
+4vC2iSW6pMcDvAb98Tc8ma,Lonely in the Rain;De Rien,Hangin Up,Hangin Up,59,184296,False,0.656,0.522,8,-10.777,1,0.11,0.7,0.00509,0.112,0.176,111.824,4,french
+5G0oVoL309pqsvGDzhMOwx,French 79;Sarah Rebecca,Olympic,Diamond Veins (feat. Sarah Rebecca),61,240120,False,0.498,0.54,8,-10.441,1,0.0302,0.000499,0.436,0.132,0.0944,100.024,4,french
+0uVyZywUNOp6S0dU5r8TS8,Lilly Wood and The Prick;Robin Schulz,Prayer,Prayer in C - Robin Schulz Radio Edit,67,189399,False,0.76,0.886,9,-5.356,0,0.0258,0.0219,7.43e-06,0.623,0.78,123.002,4,french
+1YrC8s6yZWw23QxW6rfM9f,Jain,Zanaka,Come,60,162266,False,0.818,0.783,1,-6.534,1,0.0444,0.232,0.00886,0.0803,0.819,99.992,4,french
+6udsrE4qFaLBIU19lHZjUG,Lonely Night,No One Like You,No One Like You,56,143632,False,0.728,0.677,7,-9.515,0,0.0444,0.117,0.000334,0.215,0.227,122.039,4,french
+45TqppkuQzkufRylqNYZEy,Altero,Different Ways,Different Ways,56,152028,False,0.662,0.509,11,-10.792,1,0.086,0.346,0.00612,0.307,0.326,105.018,4,french
+34LLQGc0BIVtOTBXOkQVGH,Lonely Night,Destiny,Destiny,56,120245,False,0.596,0.573,11,-8.458,0,0.0346,0.537,2e-05,0.138,0.267,121.94,4,french
+4dvRowqJbGcM9LtMnTWYf2,Noyade;Cinnamonrolls,In My Mind,In My Mind,58,181565,False,0.663,0.642,3,-8.107,1,0.0343,0.835,0.101,0.11,0.102,115.006,4,french
+3IZ5QRmjEDflLTZgRyTppR,Marina Kaye,Fearless (Deluxe),Freeze You Out,49,247000,False,0.399,0.672,0,-6.185,0,0.0318,0.00359,0.0,0.567,0.275,89.233,4,french
+3ZAtgPjqwwxxvXk9mbUeFX,MR TOUT LE MONDE,Souvenir,Souvenir,61,194879,False,0.692,0.67,6,-7.459,1,0.0302,0.146,0.00084,0.262,0.601,124.96,4,french
+47fOtKyt7VeUIer3SqgNOp,MR TOUT LE MONDE,HER,Never Known,60,180000,False,0.565,0.642,6,-10.425,0,0.0503,0.553,0.295,0.0678,0.0673,119.939,3,french
+5xQr5TxQ77siaKfuyiJbT0,Ottawan,Hands Up,Hands Up - Single Version,66,208573,False,0.888,0.876,8,-4.249,1,0.0425,0.61,3.25e-05,0.375,0.992,123.291,4,french
+4WvsxOf6HXbSA8bPKb7bXA,Indila,Mini World (Deluxe),Feuille d'automne,49,241200,False,0.533,0.437,2,-6.662,1,0.0294,0.0199,1.75e-06,0.175,0.0747,87.52,4,french
+5fJX0XsZwvAtiE5M6tUF1y,Deep Chills;Tilsen,Stay Yours,Stay Yours,55,128397,False,0.551,0.482,1,-6.404,1,0.242,0.652,0.0,0.18,0.628,200.116,4,french
+5D3QfcDoUnLjMtsOdxmucm,Vald,Journal perso II,Journal perso II,40,213720,True,0.641,0.764,7,-6.473,0,0.382,0.644,0.0,0.112,0.221,89.722,3,french
+6Mp1vr4RqZadG14P9UVzTx,Luv Resval,"MPC, Part II (La rivière)","MPC, Part II (La rivière)",41,329733,True,0.827,0.574,10,-5.309,0,0.214,0.67,1.44e-06,0.312,0.582,92.027,4,french
+6rHywKNBPzJ6aLVLT5RshH,Amir;Indila,Ressources,Carrousel (feat. Indila),58,218000,False,0.722,0.388,7,-8.569,0,0.0359,0.366,0.0,0.0923,0.604,122.004,4,french
+47wEJBAmpxNnzGXv45UtP4,Vald,XEU,Rocking Chair,41,216253,True,0.719,0.715,4,-5.96,0,0.324,0.263,0.0,0.357,0.366,128.874,4,french
+5aIED8wcFVv4Kbi1uX9O4h,PNL,Deux frères,Kuta ubud,40,304795,True,0.757,0.618,3,-8.037,0,0.172,0.378,0.0,0.106,0.316,101.031,4,french
+4DyI5W9u1mM3vmXtqWq2wC,Stephanie,Ouragan,Ouragan,39,280840,False,0.707,0.75,3,-6.987,0,0.0286,0.53,0.00387,0.148,0.881,117.986,4,french
+0ntQK6z2qRozTOsCPMyJJE,Paradis,Halloween & Chill,Garde le pour toi,0,406533,False,0.665,0.88,8,-7.475,0,0.0435,0.0086,0.47,0.156,0.503,117.009,4,french
+7cQ0dT1Xt0k5j3n2jc0ry0,Paradis,Tsugi Electro,La ballade de Jim,0,411761,False,0.393,0.521,10,-8.374,1,0.0637,0.435,0.854,0.0871,0.337,179.894,3,french
+4JC8vnwP59u2WG6jbHCPOO,Hugo TSR,Tant qu'on est là,La cage,39,199720,False,0.831,0.577,7,-6.774,1,0.364,0.258,0.0,0.354,0.245,95.018,4,french
+5S1qJhqo0f9BAxy0CCc8oW,Caballero,RAP MUSCULATION RENTRÉE 2022,Polaire,0,185453,False,0.671,0.619,2,-6.932,1,0.356,0.256,1.93e-06,0.169,0.582,72.436,4,french
+1K0UqOAilRFJvZPvtWU3Oc,Stupeflip,Terrora !!,Le sonkifoudécou,38,173893,False,0.735,0.887,4,-4.517,0,0.118,0.219,0.000548,0.177,0.516,95.995,4,french
+381QvfbZrlhwjKA7fzQkxf,Stupeflip;Hélène,Stup Religion,Le cartable,38,251773,False,0.54,0.54,0,-7.234,0,0.028,0.0984,0.00325,0.186,0.418,145.992,4,french
+3zP5yRv22b4fEsyW7YEzG3,Suprême NTM,Le monde de demain (Bande originale de la série),Le monde de demain,8,239613,True,0.748,0.887,10,-9.044,0,0.153,0.0209,0.000187,0.0409,0.95,96.986,4,french
+1CC2xTLApSOTDVXm74PF0H,Suprême NTM,Le monde de demain (Bande originale de la série),That's My People,8,252520,True,0.729,0.573,7,-9.733,1,0.355,0.0489,0.0,0.314,0.555,87.942,4,french
+685AfgP5HgLrsa01uU1h4C,Les Fatals Picards,Pamplemousse Mécanique (Edition Eurovision + 1 titre bonus),Bernard Lavilliers,37,177853,False,0.727,0.889,0,-2.208,1,0.178,0.162,0.0,0.195,0.815,147.284,4,french
+4FiHB49VxHRiOMMDTAeR4V,Charles Gounod;Boston Symphony Orchestra;Seiji Ozawa,Halloween Musica Horror 2022,"Faust, Ballet Music: 7. Danse de Phryné (Allegro vivo)",0,151240,False,0.303,0.581,4,-13.108,1,0.139,0.736,0.638,0.147,0.389,158.663,4,french
+49xgzcmtmEnsEDWSOMYWoD,M83,Junk,Solitude,57,363573,False,0.352,0.306,0,-7.872,0,0.0343,0.0721,0.494,0.122,0.0861,122.014,4,french
+397sfkANMRKEuchzPCvlFL,The Blaze,Territory,Virile,57,321560,False,0.679,0.462,3,-10.128,1,0.0326,0.0442,0.793,0.0846,0.302,120.012,4,french
+5rmBaAiu9UfniHh099wFBB,Billx;Dr. Peacock,Frenchcore Worldwide 04,Naarayanaa,47,273600,False,0.646,0.98,0,-2.673,1,0.0822,0.0241,0.858,0.366,0.104,99.996,4,french
+656vbT8JKkVx7g1yG12L89,OBOY,OMEGA,Avec Toi,71,193813,True,0.661,0.666,10,-5.932,0,0.0277,0.457,0.0,0.13,0.381,92.475,4,french
+6P3FBaZfUjeWYExU2ShaPZ,DTF,On ira où ?,Me Gusta,72,175269,True,0.834,0.734,6,-5.948,0,0.341,0.413,4.01e-05,0.113,0.356,89.989,4,french
+76x2IsGuDbgu9eUnPvcOFx,Billx;Ti K Ry,Bravery,Bravery,35,243115,False,0.286,0.943,6,-4.632,0,0.211,0.000761,0.0181,0.131,0.158,199.784,4,french
+7jRiYlv4KQU2vT6lG7I1to,The Blaze,Dancehall,Breath,57,229426,False,0.379,0.502,11,-10.84,0,0.0528,0.158,0.533,0.0934,0.0373,124.995,4,french
+5YzaostcCu9Sgp5T7bFuX3,The Blaze,Territory,Juvenile,59,203693,False,0.63,0.554,9,-9.675,0,0.0256,0.00393,0.829,0.145,0.119,127.013,4,french
+5UEZzRsrB4FKw1SIMoMD2y,Myd,Born a Loser,The Sun,66,207373,False,0.773,0.586,5,-7.623,0,0.0311,0.752,0.762,0.0941,0.729,126.014,4,french
+6mW2IiQDrp66AUjCsRu6Kg,The Blaze,Dancehall,Places,58,214826,False,0.771,0.448,2,-9.513,1,0.0446,0.493,0.708,0.108,0.0364,99.994,4,french
+7nZ9CzhiFRPhOQCn7eDSnn,L'Impératrice,Vanille fraise,Vanille fraise,62,238183,False,0.767,0.547,7,-11.458,0,0.0474,0.0399,0.485,0.0949,0.66,103.03,4,french
+0mpkpO26XkXjT5t3vyl8PA,Trinix,5th Avenue,5th Avenue,61,184888,False,0.791,0.387,0,-9.6,1,0.159,0.482,0.000109,0.251,0.528,117.05,4,french
+3VOtDNKPohGZKv1OAO5QKR,Sara Costa,Ithaque,Ithaque,58,189026,False,0.803,0.684,8,-10.081,1,0.0627,0.68,0.0722,0.131,0.563,112.985,4,french
+6TRWXw2vSGfSBzfgF9RxM5,Feder;Alex Aiono;MDZN,Lordly (feat. Alex Aiono) [Remix EP],Lordly (feat. Alex Aiono) - MDZN Remix,45,277440,False,0.658,0.764,0,-5.235,1,0.044,0.0963,0.0073,0.0909,0.687,124.962,4,french
+46XpZgZjDK9Vpz5TBZUiYu,Thunder,Dreaming,Dreaming,60,138947,False,0.848,0.49,1,-10.753,0,0.0686,0.462,9.66e-05,0.26,0.58,114.006,4,french
+01FnTmSe5zIE0LmqPISajN,Clément Leroux,Imaginary Friend,Imaginary Friend,59,232195,False,0.686,0.574,8,-8.868,1,0.0272,0.0706,0.0647,0.0894,0.545,123.0,4,french
+41iKApBwuxn4DlCulZGmYj,MR TOUT LE MONDE;Nounours,Now You Know,Now You Know,59,169032,False,0.507,0.505,1,-9.919,0,0.0431,0.607,0.00209,0.118,0.228,93.378,4,french
+5hkZyWkafKoQW4eGwaJWFF,MR TOUT LE MONDE,Home,Home,59,196000,False,0.707,0.541,0,-12.621,0,0.0421,0.512,0.395,0.112,0.0338,120.01,4,french
+2ynCjjrmED5CfiVn2ZLkUk,Syd Matters,Someday We Will Foresee Obstacles,Obstacles,58,208706,False,0.395,0.415,3,-8.461,1,0.0338,0.242,0.912,0.134,0.143,126.875,4,french
+6G0SscWHDmLr05nByFmhwf,Indila,Mini World (Deluxe),Love Story,45,316280,False,0.611,0.255,10,-12.291,0,0.0339,0.815,0.0,0.083,0.341,95.981,3,french
+1PRT1JHwc66PGya593WcMr,Mellowdy,Rise Up,Rise Up,60,151575,False,0.562,0.529,2,-10.031,0,0.126,0.67,0.929,0.107,0.371,115.992,4,french
+6xJouIXcEu4BPRT4wGsf11,Indila,Mini World,Mini World,50,309946,False,0.563,0.541,11,-8.458,0,0.0359,0.296,0.000352,0.104,0.165,131.947,4,french
+5dO6eoFYVSkqtIcwIIAWr5,Lonely Night;Ari;Lost Dreamers,Lied To Me,Lied To Me,54,151680,False,0.566,0.614,4,-9.913,0,0.0334,0.419,0.00471,0.232,0.132,125.058,4,french
+4m46FJjrPcwyM7UjS0ctFn,Indila,Mini World (Deluxe),Tourner dans le vide,47,246093,False,0.592,0.7,6,-8.645,0,0.0432,0.101,0.0,0.173,0.362,119.989,4,french
+6wwo6hmz8HXsWptpO2KxKB,Najoua Belyzel,Au féminin,Au féminin,51,180946,False,0.404,0.408,0,-8.851,0,0.0279,0.233,0.0,0.0984,0.367,178.138,3,french
+4B6XjmOWI55np7y4MUTXDu,Vanessa Paradis;-M-,Best Of & Variations,La Seine - Extrait de la bande originale un monstre à Paris,65,167520,False,0.736,0.667,2,-7.901,0,0.0307,0.43,4.42e-05,0.0992,0.4,113.062,4,french
+0z3bi63SNZ5ylyHOzb81Uq,Gambi,PETETE,PETETE,78,123846,False,0.752,0.669,10,-9.817,0,0.251,0.167,0.0,0.0795,0.627,155.997,4,french
+19BuHpCRvqCvgpKF7DNnFq,Panta Ray,Remember That Summer,Remember That Summer,58,162762,False,0.689,0.416,0,-9.32,1,0.0324,0.51,0.875,0.177,0.0971,120.027,4,french
+36JXKRIYkJqJqGQRswwKvT,Subriser;Victor Marc,Satisfaction,Satisfaction,60,181500,False,0.739,0.494,6,-11.595,1,0.113,0.219,2.4e-05,0.16,0.505,120.069,4,french
+4XANZ0xRF0vGRso3vJZVrF,Lonely in the Rain;Leo Stannard,Drifting,Drifting,60,206646,False,0.692,0.481,0,-9.084,1,0.0585,0.137,0.0,0.15,0.367,115.007,4,french
+2rufneHYKv1mvhYSafNeFY,Lomepal,FLIP (Deluxe),Avion,39,233973,True,0.623,0.584,7,-9.363,0,0.0667,0.172,5.84e-06,0.196,0.0574,99.998,4,french
+0vVtG6RG5DUQArrbV0gvm6,Lonely Night;Ari;Ellou,Endlessly,Endlessly,49,156107,False,0.562,0.713,2,-8.082,1,0.0403,0.0114,0.0,0.643,0.143,123.045,4,french
+2WUzrSNIHhB8JwLk8HTymW,Lonely in the Rain,Crowded Room,Crowded Room,59,143257,False,0.749,0.668,7,-12.781,1,0.119,0.407,0.0364,0.097,0.0391,117.988,4,french
+41Lve6OfiwXjLUlkjNihU4,MR TOUT LE MONDE,HER,Hello,60,249214,False,0.567,0.627,3,-8.134,0,0.0407,0.699,0.00393,0.134,0.0922,119.876,4,french
+1Tzeyy3gxlJuhVyHxCagge,Lujipeka,Montagnes Russes,0.6,39,149520,True,0.653,0.592,5,-8.515,0,0.545,0.31,0.0,0.151,0.57,180.068,3,french
+5OjCsHeByDYEGxMrb1z8KQ,Gojira,From Mars to Sirius,Flying Whales,61,464453,False,0.266,0.925,7,-3.75,0,0.0834,0.000233,0.0379,0.19,0.2,95.438,4,french
+1G3QPQkoXvpChjNUhd6Tfs,Jean-Philippe Rameau;Víkingur Ólafsson,"Rameau, Ólafsson: The Arts and the Hours",The Arts and the Hours,64,285442,False,0.415,0.026,1,-36.7,1,0.0496,0.995,0.938,0.107,0.268,136.191,4,french
+60fUDmIWuKhngaeBIVhqIV,Gojira,Magma,Stranded,65,269533,False,0.513,0.88,7,-4.69,0,0.0309,9.59e-05,0.00614,0.0824,0.495,92.358,4,french
+4m5pesbV7m3GPcfBZdrkYd,Patrick Fiori;Florent Pagny,J'y vais,J'y vais,39,221773,False,0.597,0.705,5,-5.375,0,0.061,0.135,0.0,0.24,0.302,153.991,4,french
+3LKJLzyN8PlBhHKzuhFs8B,Casseurs Flowters,Orelsan et Gringe sont les Casseurs Flowters,03h53 - Manger c'est tricher,39,264306,False,0.604,0.805,6,-6.917,0,0.823,0.406,0.0,0.658,0.237,83.346,1,french
+4yksBrqsVlu6D5EgfEo9cC,Renaud,Mistral gagnant,P'tite conne,37,221333,False,0.503,0.493,10,-12.019,1,0.0311,0.115,0.0027,0.106,0.335,132.911,3,french
+6PrB4KpvuoYWtwjPC5a44S,Soolking;Niska,Sans visa,Balader,79,176120,False,0.603,0.802,4,-5.089,0,0.111,0.306,5.06e-05,0.124,0.787,130.121,4,french
+4Z0H83AIGuK6D2N1mX9rNL,Julie Pietri,Origami,Les signes indiens,38,194186,False,0.588,0.649,9,-6.117,0,0.0275,0.691,1.12e-05,0.108,0.536,89.966,4,french
+5j8OKKKrBtD591i0rf5Jov,Pascal Rogé;Cristina Ortiz;London Sinfonietta;Charles Dutoit,Anthems for Witches 2022,"Le Carnaval des Animaux, R. 125: 7. Aquarium",0,151173,False,0.193,0.0371,9,-35.398,0,0.0408,0.984,0.937,0.129,0.146,136.13,3,french
+3QYlagTqWyDHuGoNsWYz8P,Captaine Roshi;Timal,RAP MUSCULATION RENTRÉE 2022,Fast Life,0,188106,True,0.749,0.68,1,-6.188,0,0.276,0.377,0.0,0.12,0.59,155.048,4,french
+2eAhVprzLy0aTURlyKmhGJ,Jean Ferrat,1963 - 1964 : Nuit et Brouillard - La Montagne,La montagne,38,189666,False,0.494,0.433,7,-12.15,1,0.0365,0.673,0.000424,0.0987,0.452,115.298,4,french
+0TiLuTqfktmNNKclGI9VG2,Stupeflip,Stupeflip,J'refume du shit,37,261946,True,0.668,0.639,11,-7.753,1,0.0304,0.0469,0.00106,0.109,0.474,143.946,4,french
+1NCQm0fVwW1SA2P62CQQm8,Charles Gounod;石丸由佳,死の舞踏~悪魔のパイプオルガン,操り人形の葬送行進曲,0,286600,False,0.283,0.062,2,-17.116,1,0.033,0.945,0.815,0.125,0.175,88.707,4,french
+11HWKbhBZTW69ZJbAXlFVe,Charles Gounod;Johann Sebastian Bach;Gerhard Schmidt-Gaden;Anneliese Rothenberger;Symphonie-Orchester Graunke;Tölzer Knabenchor,Alle Jahre wieder: Weihnachten mit Kindern,"Ave Maria, CG 89a",0,168773,False,0.199,0.175,7,-17.18,1,0.04,0.967,0.00025,0.107,0.0387,97.569,3,french
+6H4sjLl4Nd54scDUWSKhJQ,"Charles Gounod;Orchestra of the Royal Opera House, Covent Garden;Sir Alexander Gibson",Halloween Musica Horror 2022,Funeral March of a Marionette (Marche funèbre d'une marionette),0,277320,False,0.44,0.0193,2,-26.975,1,0.048,0.966,0.601,0.0993,0.384,97.663,4,french
+0E7U13bmvEccq4CtC3q0Pw,TWOPILOTS,Me & U,Me & U,64,174512,False,0.781,0.849,8,-4.855,0,0.0396,0.0123,0.000523,0.0602,0.495,118.012,4,french
+2yhgVnRlGhlQZo7Be1GkTj,PLÜM,Somebody to Hate,Somebody to Hate,58,179000,False,0.8,0.541,4,-9.417,0,0.0569,0.303,1.9e-05,0.101,0.301,112.997,4,french
+4WyhOKXtCkNVcgfTBpYaxm,Christian Löffler,Ronda,Ronda,57,346586,False,0.794,0.307,3,-15.629,0,0.0486,0.674,0.935,0.0954,0.171,119.994,4,french
+0q2hS3I1hhRZdxACmj6qVo,RAINBOW.,All I Want,All I Want,59,168000,False,0.831,0.361,8,-14.086,1,0.0648,0.707,0.0774,0.118,0.0902,109.996,4,french
+2L0wPdpLIZBSMmkS8RDFtw,Y.V.E. 48,Waiting for You,Waiting for You,56,152000,False,0.69,0.608,9,-8.006,0,0.0311,0.00529,0.00473,0.193,0.33,102.984,4,french
+0q1pkKvBMInZxxUzjuIrdf,Parra for Cuva,Paspatou,Paspatou,55,269400,False,0.625,0.482,0,-7.504,0,0.0261,0.717,0.823,0.113,0.182,147.984,4,french
+6BuGA3ontF6D4jluQ0DHZY,Üm,Take My Way,Mia Mia,59,209454,False,0.759,0.607,7,-11.491,0,0.0564,0.262,0.79,0.318,0.149,109.979,4,french
+3cx4qyjwX8Ji4SXKc7P5F6,Snazzy;Nuxe,Upside Down,Upside Down,58,119500,False,0.719,0.355,1,-9.975,1,0.0664,0.881,0.308,0.113,0.41,144.93,4,french
+666ml7se6LQntlMMsTbjUG,Indila,Tik Tock Hits 2022,Ainsi bas la vida,56,214760,False,0.776,0.641,8,-6.925,1,0.098,0.0486,5.78e-06,0.0977,0.436,128.046,4,french
+7Jqh8o6yV7EeFokJX5gQsa,Christophe,Original Album Classics,Aline,24,170840,False,0.274,0.659,0,-5.557,1,0.0334,0.406,1.95e-05,0.346,0.532,177.732,3,french
+5fcIg2K2fGHToWOC8pvuX2,Else,"Sequence, Pt. I",Origine,50,234706,False,0.451,0.865,4,-6.501,0,0.0335,0.0139,0.578,0.314,0.0799,98.967,4,french
+7j56bK7gq6iV7zsD6lbP4J,Vegedream;Ninho,Ategban,Elle est bonne sa mère,67,196880,True,0.787,0.741,4,-5.484,0,0.0592,0.329,1.88e-05,0.341,0.466,105.0,4,french
+3Z9wiXDPADfxgovNa2I6ph,Mateo;Arinity;BIMINI,Free To Love,Free To Love,58,155458,False,0.428,0.493,0,-9.754,1,0.0351,0.259,2.04e-06,0.084,0.154,105.138,4,french
+3H2QL13RLffEoHls92ClHK,Moonkids,Somebody,Somebody,57,153583,False,0.749,0.385,8,-10.886,1,0.177,0.278,0.791,0.131,0.24,118.009,4,french
+2Mt60ByiUEt1CEoMG6vdTo,Triomphe,Vapor,Vapor,58,126545,False,0.664,0.779,5,-11.964,0,0.0426,0.136,0.898,0.112,0.211,109.999,4,french
+01iG3sHdWmPn7xPtpkZyCC,Lonely in the Rain;Joel Stewart,Falling into Sleep,Blue Lights,58,204717,False,0.623,0.478,1,-10.444,1,0.0645,0.709,8.05e-06,0.111,0.0769,115.037,4,french
+5UkM8D1WUBLvnXGRwt2lXI,LYOD;Celi,Underwater,Underwater,60,177988,False,0.661,0.703,4,-6.659,1,0.039,0.404,3.35e-05,0.21,0.433,111.987,4,french
+7uw26UWzSgHsbLbdwbtSB2,Panta Ray,Before The Sun,Before The Sun,57,181652,False,0.728,0.291,2,-13.366,1,0.0411,0.752,0.765,0.0949,0.0573,115.008,4,french
+3gHqqfGzGlA6AomepHu4zj,Mizmo,Roches blanches,Roches blanches,60,156298,False,0.735,0.483,2,-9.437,1,0.0775,0.326,0.000189,0.135,0.184,117.019,5,french
+4Mg3YzlEp93OhGQol4VqXL,Saco;Sebastiën,Take Me Home,Take Me Home,65,171578,False,0.746,0.747,11,-8.217,0,0.0353,0.579,0.000197,0.124,0.668,113.932,4,french
+3TU0TQUp9FeXXCp3BTe12u,Alex Keeper,Around For You,Around For You,57,152068,False,0.697,0.425,10,-14.948,0,0.0403,0.743,0.0423,0.108,0.151,116.017,4,french
+2Hp3OqegIMtyAMH9UXlG6U,Prigida,Early Thoughts,Pillow Thoughts,57,144000,False,0.501,0.437,7,-14.806,1,0.188,0.694,0.844,0.109,0.18,84.011,4,french
+6nplz6DNx6eKtfM2SgqEqF,MR TOUT LE MONDE,SUN,Soulmate,57,186901,False,0.756,0.6,6,-9.658,1,0.0547,0.307,0.377,0.0953,0.12,119.988,4,french
+4vBES0Ba2PQKAma04JKPfl,EDGE;Ratu$,LA NOYADE,LA NOYADE,39,176986,True,0.93,0.501,1,-8.066,1,0.251,0.114,7.29e-06,0.0672,0.64,122.979,4,french
+7vKQrsNBq4wPQZKmFtv8PW,Georgio;S.Pri Noir,Full moon,Full moon,37,178051,True,0.67,0.569,10,-7.459,1,0.171,0.708,0.0,0.231,0.385,150.001,4,french
+4BlTRgkqWq9Hh1KJpxfUJr,Georgio,Ciel enflammé - Sacré,Spirituel,38,213659,True,0.578,0.713,2,-8.106,0,0.293,0.374,0.0,0.193,0.358,145.351,4,french
+0GgsBtBlbcZN2R79eXOBq3,Spider ZED,Pas si sûr,Pas si sûr,37,153159,False,0.718,0.438,10,-7.287,0,0.571,0.817,0.0119,0.0894,0.398,128.124,4,french
+2La21GqU4fKTQLcfLxTeoz,L'Impératrice,Odyssée - EP,Agitations tropicales,65,248892,False,0.76,0.401,1,-9.537,0,0.0674,0.564,0.259,0.0977,0.619,115.989,4,french
+6OZwia8loN0aPS0vTvsBjR,Alonzo;Ninho;Naps,QUARTIERS NORD,TOUT VA BIEN (feat. Ninho & Naps),79,192960,True,0.66,0.72,3,-5.874,0,0.0753,0.301,0.0,0.226,0.628,99.937,4,french
+4vXOwhcy8Bg3kd8Uxx4lgH,SCH,Deo Favente,Slow Mo,37,201466,True,0.735,0.89,1,-4.066,1,0.21,0.0916,1.66e-06,0.0626,0.385,130.059,4,french
+7auQDsvUSlpffrznSUKhFv,D.ACE;Nhox;Cookiesan,Nakama,Hime,37,194500,False,0.698,0.76,5,-7.643,0,0.0371,0.563,0.000181,0.125,0.471,100.0,4,french
+1UxkwOCYbFrpdWCa4IGiAG,Spider ZED,Bien ou quoi,Pour du beurre,37,201617,False,0.831,0.414,2,-11.024,1,0.0699,0.764,1.44e-05,0.194,0.462,136.043,4,french
+2O8otibdZAPJcdBCPvHGkU,Lujipeka,Montagnes Russes,L'autre univers,37,154346,True,0.837,0.65,11,-6.809,0,0.292,0.329,0.0,0.103,0.643,96.042,4,french
+49S28jfJ5giwAwXWDCCTnR,Volo,Jours Heureux,C'est Pas Tout Ça,36,188413,False,0.598,0.495,11,-7.953,1,0.0682,0.696,0.0,0.106,0.552,138.517,4,french
+5uunXHE4kIW6uS4HWAXaOQ,Gojira,Magma,Silvera,62,212653,False,0.333,0.959,2,-4.348,1,0.072,3.19e-06,0.0563,0.299,0.242,137.052,4,french
+08guLUrI2nhm8E8gBuUXcp,TSR Crew,A Quoi ça Rime ?,A Quoi ça Rime ?,38,330048,False,0.807,0.77,4,-4.815,0,0.355,0.442,0.0,0.0613,0.49,94.999,4,french
+318jLr9oY0UrxYqyUHCfBA,Jean-Philippe Rameau;Víkingur Ólafsson,Debussy – Rameau,The Arts and the Hours,54,285442,False,0.415,0.026,1,-36.7,1,0.0496,0.995,0.938,0.107,0.268,136.191,4,french
+7n0WoHUsLHqDE3ZnerTPdV,Moussu T E Lei Jovents,Mademoiselle Marseille,À la ciotat,36,252173,False,0.667,0.493,9,-6.964,1,0.0308,0.116,0.0,0.272,0.776,119.866,4,french
+3NZ4hVNi8K7PLR2TZhwRSb,Louis Chedid;Yvan Cassar,La belle (Version Piano – Voix),La belle - Version Piano – Voix,37,195480,False,0.688,0.407,2,-12.53,1,0.0665,0.82,0.0191,0.0895,0.234,102.545,4,french
+2ohPYOeluWG3wcEuZyAC9A,Stupeflip,Vengeance!!!,Vengeance!!!,36,197440,False,0.491,0.866,1,-5.432,0,0.226,0.106,0.0,0.442,0.334,93.918,4,french
+7i3lvAmSIPEmrKkRsUCQlB,Colonel Reyel,The Ultimate Dance Hits Collection (100 Of The Best Dance Hits Ever),Toutes Les Nuits - Radio Edit,37,204566,False,0.69,0.831,10,-5.566,1,0.03,0.0682,0.0,0.158,0.784,94.999,4,french
+431r9TaumLoQ2z2qzXkwEO,Ben Mazué;Jérémy Frerot,Paradis (réédition),Gaffe aux autres,36,171160,False,0.586,0.239,4,-11.986,1,0.0498,0.928,0.0,0.113,0.538,149.98,4,french
+2efj0AL33odgMfU2qir4Su,Renaud,Métèque,Le Métèque,36,199733,False,0.706,0.608,1,-9.868,1,0.036,0.229,0.000466,0.0979,0.73,99.024,4,french
+6RmEfog9mkYv5J4w97U2S7,Rone,Tsugi Chill-Out,Bora Vocal,2,334942,False,0.714,0.609,5,-11.471,1,0.0568,0.679,0.521,0.108,0.151,124.991,4,french
+5tgQAAHw30mSCYMRW2DGwB,Anthony B,Solace Riddim,Lying Lips,0,195242,False,0.676,0.712,0,-6.379,1,0.255,0.103,0.0,0.0992,0.671,85.017,4,french
+6pio03mANohJOzNyf0IzFK,Renaud,Marchand de cailloux,Marchand de cailloux,36,211200,False,0.525,0.483,4,-13.75,0,0.119,0.655,4.12e-06,0.111,0.254,132.087,4,french
+5aqwjTskgGmb4V5DhAJAQ0,Shaka Ponk,Apelogies,My Name Is Stain,37,211040,False,0.796,0.839,9,-4.956,0,0.0458,0.00398,0.000274,0.26,0.76,109.0,4,french
+2Y4CWtO7CFJiEmif4LQ9U4,Ben Mazué,Paradis (réédition),Quand je marche,37,233506,False,0.511,0.593,0,-9.512,1,0.437,0.579,5.41e-05,0.101,0.19,76.842,4,french
+0M6TVQKZLvsk3AVEtqOWKu,Les Ramoneurs De Menhirs;Gilles Servat,Amzer an dispac'h !,La blanche hermine,37,306813,False,0.39,0.997,10,-0.198,1,0.333,0.0942,0.0,0.0829,0.158,172.034,4,french
+2p5HyDplWmkd8FhzMRlEh1,Serge Reggiani,50 plus belles chansons (15ème anniversaire),Le petit garçon - Réenregistrement Polydor,36,193120,False,0.554,0.372,1,-11.255,0,0.0407,0.232,1.01e-06,0.104,0.165,116.738,3,french
+46N0cSUeoKfdGOGG852Jk1,Space 92;The YellowHeads,Planet X,Planet X,52,227871,False,0.792,0.836,7,-6.252,1,0.0648,0.006,0.878,0.108,0.183,130.003,4,french
+49PyCCLOdJi0jHkGyyY2vv,L'Impératrice;Isaac Delusion,Sonate Pacifique,Sonate Pacifique,61,348944,False,0.558,0.538,5,-8.853,1,0.0327,0.629,0.0198,0.424,0.254,99.992,4,french
+1Ar6FiOnKp8XSaU5g1d7cR,Billx,Tree of Life (Psy to Hard),Tree of Life - Psy to Hard,50,313224,False,0.489,0.992,11,-1.642,1,0.205,0.0157,0.00485,0.229,0.0551,160.037,4,french
+2K0uZFmADV2hpSvJITvGoL,Joris Delacroix,Aiguilhe,Aiguilhe,57,289268,False,0.687,0.892,4,-7.473,0,0.0613,0.205,0.814,0.0636,0.197,123.026,4,french
+6yGAgWa1aMglog9hnFyyM7,Jumo,Dérive,Ville,55,132000,False,0.719,0.527,0,-10.35,0,0.196,0.385,0.894,0.105,0.352,157.536,3,french
+5ORJq9RvKIVGf1pVWWTUB7,Lonely in the Rain;SOMOH,Way Back Home,Way Back Home,52,184509,False,0.521,0.493,1,-10.006,1,0.0479,0.595,0.166,0.127,0.0517,107.107,4,french
+0p874cho40bM8HTxGaorjx,Luca;Nokyo,Be Alive,Be Alive,57,142200,False,0.559,0.519,11,-11.287,0,0.085,0.305,0.0148,0.194,0.241,100.037,4,french
+09wrW4mdaoBrOFY6KSR94h,The Blaze,Dancehall,Heaven,58,219280,False,0.613,0.461,1,-10.493,0,0.0313,0.0257,0.75,0.0776,0.0837,125.066,4,french
+6wlVxD051aMtGLxNMjbckT,Lvne;BIMINI,Apologize,Apologize,56,174222,False,0.679,0.627,3,-5.819,1,0.0555,0.25,0.00021,0.153,0.16,115.021,4,french
+4ZK6kJ2LllaXrbSG41uOtq,TEEMID,Believe,Believe,58,225880,False,0.627,0.52,10,-10.873,1,0.313,0.564,0.0254,0.0925,0.107,103.92,4,french
+7juRT2OnZvXW8irziSULlU,Lvne;EE,Never Ending,Never Ending,59,141538,False,0.684,0.52,3,-11.36,1,0.273,0.237,3.47e-05,0.83,0.454,117.122,4,french
+0VLaaS481wSlMnf6UEQnJM,NORRA,Run,Run,60,191420,False,0.745,0.672,10,-10.484,0,0.05,0.177,0.874,0.153,0.0894,124.008,4,french
+0tPk6OPi760BD6C5WtqcqG,Angara,Rwanda,Kyoto,52,195243,False,0.583,0.773,1,-9.422,0,0.037,0.063,0.95,0.36,0.147,122.997,4,french
+1MSr681PNnYl99LGajtPi5,Sara Costa,Tourment d'amour,Tourment d'amour,58,163738,False,0.673,0.671,1,-7.026,0,0.0358,0.0333,0.107,0.0835,0.31,107.013,4,french
+6rv5QNHsRsLQtbbn6nlUsW,Wavey,Another Chance,Another Chance,56,178909,False,0.764,0.337,6,-14.35,0,0.0472,0.351,0.0172,0.0991,0.178,110.043,4,french
+6shJxx7eKRWokBUlh4sZjv,P.A.V,Todaiji Temple,Todaiji Temple,48,152631,False,0.748,0.612,9,-9.474,0,0.0354,0.204,0.541,0.109,0.0764,113.973,4,french
+63EiOoWTrs2HhSBoUqO871,Roméo Elvis,MAQUETTE,MAQUETTE,36,185880,True,0.685,0.405,8,-8.432,1,0.115,0.471,1.76e-06,0.118,0.502,78.956,4,french
+1n291hI6Re3EmIMVpmP27p,Magic System;Chawki,Magic In The Air: la compilation,Magic in the Air (feat. Ahmed Chawki),43,233693,False,0.621,0.907,2,-3.923,1,0.0475,0.091,0.0,0.067,0.884,128.056,4,french
+3Cg22mWYpcDrCLWsgTaUwk,Lonely in the Rain;Nounours,City of Love,City of Love,59,179113,False,0.819,0.61,6,-8.376,1,0.366,0.207,1.13e-05,0.353,0.306,110.046,4,french
+72tWoP1KOVvoXk6ikg7n8m,Horizon Blue;Music Travel Love,Have You Ever Seen The Rain,Have You Ever Seen The Rain,60,154606,False,0.721,0.519,8,-7.407,1,0.0324,0.439,0.0,0.134,0.531,124.171,4,french
+1p2KclGv8c1qKPoRq4exKd,Camille Saint-Saëns;Sebastian Comberti;Miriam Keogh,Romance,The Swan,61,174333,False,0.216,0.149,7,-18.173,1,0.0402,0.986,0.94,0.0921,0.117,123.201,4,french
+6bpmBNPfQ2KFAW0ik6F9Vq,Yann Tiersen,Le Fabuleux destin d'Amélie Poulain (Bande originale du film),La Valse d'Amélie - Version piano,64,158666,False,0.194,0.179,9,-16.834,0,0.0422,0.988,0.866,0.0819,0.179,177.694,3,french
+0B2Rij48hhqlJFFUpr6bPv,Jok'air,Jok'Pololo,Hypocrite,37,280560,True,0.689,0.502,11,-7.086,0,0.0707,0.0533,0.0,0.209,0.198,125.11,4,french
+1uDRZub66gXtj83iKl2WUK,Lonely Night;Arinity;Ellou,Feel Right,Feel Right,50,165744,False,0.588,0.773,8,-8.299,1,0.0373,0.00744,0.00098,0.353,0.189,126.055,4,french
+6m3ObG4d6M92hJWYplJfnb,Pomme,les failles,soleil soleil,59,157866,False,0.439,0.202,5,-11.399,0,0.0335,0.945,1.68e-05,0.253,0.56,113.464,4,french
+6GgqU6HZx6oIcMHFBcnS41,MR TOUT LE MONDE,HER,Why You Lie,57,180000,False,0.691,0.436,2,-9.363,1,0.0275,0.898,0.261,0.122,0.239,119.927,4,french
+6HTJgY7iWWlVLSDHsfHePf,Ninho,Jefe,Jefe,74,177705,True,0.648,0.599,7,-8.611,0,0.0799,0.474,6.81e-06,0.121,0.213,120.985,4,french
+5KXE69qhSBH9ksigiYFSG2,Lujipeka,Montagnes Russes,Bordel,37,192533,True,0.581,0.565,0,-7.599,0,0.0352,0.147,0.0,0.12,0.318,176.963,3,french
+03Jx4f1Worr2LOrpqHdzHF,Vitalic,ASW is Live EP4,And It Goes Like,0,319235,False,0.604,0.817,8,-8.148,0,0.0409,0.000259,0.859,0.104,0.0604,134.601,4,french
+3DNKI7DBI5Pa5vCZlYPkte,Binks Beatz;So La Lune,Drip Music 2,Sous le ciel (feat. So La Lune),38,142146,True,0.766,0.658,9,-4.695,1,0.137,0.0601,0.0,0.283,0.637,112.022,4,french
+6f2AaCWRNZwTsV6ruoy6FH,Luther,Trame,Savane,37,165917,True,0.726,0.587,5,-9.899,0,0.271,0.149,0.0,0.171,0.432,160.091,4,french
+7Kcq3w8VcM1ols0j8Bpccl,Fauve,Vieux Frères - Partie 1,DE CEUX,35,209760,False,0.569,0.894,7,-4.645,1,0.1,0.0961,0.00014,0.0898,0.392,95.085,4,french
+31cBOSlykfEsNuVhpzm535,Hugo TSR,Fenêtre Sur Rue,Point Final,37,402071,False,0.731,0.925,2,-7.37,1,0.599,0.294,0.0,0.23,0.111,97.03,4,french
+1ntwYN2nT0Dl3c8lne15ii,Jacques Offenbach;Helmuth Brandenburg,"Operas Operetta Overtures, Operetten Opern Ouvertüren",Can Can,57,131599,False,0.429,0.535,3,-11.043,1,0.0379,0.815,0.93,0.0759,0.926,81.182,4,french
+6eNbZHgy85Hsw6JGME1j6P,Vitalic,Tsugi Club,The Light Is a Train,0,344335,False,0.864,0.828,4,-8.525,0,0.147,0.0118,0.886,0.107,0.0846,127.016,4,french
+145zzsbRgWKKkJdX5LxEoQ,Ben Mazué,Paradis (réédition),Tu m'auras tellement plu,35,171240,False,0.561,0.194,4,-13.579,0,0.159,0.886,9.91e-06,0.114,0.306,59.485,4,french
+73bGQfzWTsaQvKOJnu2D6I,Les Sales Majestés,L.S.M. 1992-2002,Dernier Combat,35,132346,False,0.229,0.889,2,-4.747,1,0.111,0.0263,0.0,0.293,0.725,215.149,4,french
+2g9nW9edpxcz60FTuJzlY3,Francis Cabrel,Algo Más de Amor,Si Algùn Día la Ves,35,189933,False,0.586,0.349,7,-9.575,1,0.0312,0.746,0.0,0.0904,0.338,117.782,3,french
+76GR5yCQbmjBMYEKYTKB1r,Gaëtan Roussel,Reprises Chanson Française,Je te promets,35,237920,False,0.554,0.536,7,-7.935,1,0.033,0.783,0.000196,0.121,0.237,119.174,4,french
+5VThMxtZZTYgCRTifW6q4X,Tiken Jah Fakoly;Saramba Kouyate,Best Afrodance Tunes,Alou Maye,9,323000,False,0.723,0.576,6,-6.443,1,0.0612,0.421,0.0136,0.0708,0.818,149.225,4,french
+0Ord8zDs9Kwa01AT5OkbcY,Tiken Jah Fakoly,Africa Rising Vol.1,Deme,2,250746,False,0.825,0.861,4,-5.394,0,0.0617,0.0963,0.0006,0.13,0.919,110.376,4,french
+3E5MhY69Vt98jPTcZES8RA,Tiken Jah Fakoly,Afrodance 2022,Alpha Conde,0,248320,False,0.726,0.48,10,-8.784,1,0.165,0.311,0.0245,0.0734,0.87,75.89,4,french
+4x5CoOmv9ylbTQgfICSVS6,Tiken Jah Fakoly,Afrodance Anthems,Délivrance,0,231866,False,0.719,0.583,7,-5.883,0,0.0976,0.11,2.26e-05,0.114,0.785,74.008,4,french
+6JiWI1D3nzo3Sptcj1FjDI,Tiken Jah Fakoly;Saramba Kouyate,Best Afropop Tunes,Alou Maye,0,323000,False,0.723,0.576,6,-6.443,1,0.0612,0.421,0.0136,0.0708,0.818,149.225,4,french
+1gvIuhQk0Md118eoTTpj1V,Tiken Jah Fakoly;Nneka;Patrice,Africa Rising Vol.2,War Ina Babylon,0,207493,False,0.71,0.839,5,-6.705,1,0.041,0.184,0.0,0.099,0.965,78.973,4,french
+5BZZZkbsiVldS3g6juDBna,Tiken Jah Fakoly,Africa Rising Vol.3,La porte de l'histoire,0,252400,False,0.694,0.951,6,-2.223,0,0.0338,0.119,0.00112,0.248,0.87,105.123,4,french
+3fWnInOzeN4gsGTmHS9icz,Tiken Jah Fakoly;Max Romeo,Afropop 2022,One Step Forward,0,211880,False,0.9,0.591,2,-5.712,0,0.0487,0.107,0.0,0.07,0.557,132.111,4,french
+0HMFZrCL4IfUuHcUi5pY7A,Julien Clerc,A Rendez-Vous With Julien Clerc,Hélène,35,221733,False,0.83,0.62,6,-8.561,1,0.0544,0.0627,0.000482,0.168,0.588,123.136,4,french
+6qiZQdGPdLSAsOHiiflkv5,Tiken Jah Fakoly;Max Romeo,Africa Rising Vol.4,One Step Forward,0,211880,False,0.9,0.591,2,-5.712,0,0.0487,0.107,0.0,0.07,0.557,132.111,4,french
+7hi9yOsAATUoFuOB9dOzuG,François Couperin;Pierre Gallon,Bach - Suites françaises,"Suite française No. 1 in D Minor, BWV 812: I. Prélude",0,142693,False,0.355,0.173,8,-21.277,1,0.0392,0.793,0.888,0.0544,0.425,83.775,1,french
+4oqyzxXvzHTptWo5l2tlpz,Duñe;Crayon;Lossapardo,Hundred Fifty Roses,Slowdiving,57,194157,False,0.723,0.708,4,-10.91,0,0.055,0.226,0.73,0.306,0.958,89.002,4,french
+4aD6AB42IyjDv8hcveaOPN,Møme;Assassin's Creed,Ezio's Family (Møme Remix),Ezio's Family - Møme Remix,49,202857,False,0.561,0.596,2,-8.369,0,0.0322,0.592,0.754,0.101,0.0367,125.998,4,french
+6KHsTu4Ht4XYiWcZOOdwbW,Fresh,Chop (Nouvelle École),Chop (Nouvelle École),76,195560,True,0.745,0.801,3,-6.545,0,0.724,0.439,1.13e-06,0.519,0.486,143.011,4,french
+6iyUPiRoHqlKOR94xSQYfq,M83,Knife + Heart (Original Soundtrack),Tu m'as tuée,50,59743,False,0.215,0.383,2,-15.149,1,0.0605,0.694,0.941,0.0765,0.0392,118.915,3,french
+0x0uobgoQpUnTKw8wFMypM,PLÜM,Help Me,Help Me,53,182654,False,0.753,0.616,10,-6.9,0,0.0387,0.3,0.000111,0.108,0.308,112.99,4,french
+2I4AhSWdVku2SQsJXiIci6,Bleu Toucan,Origami,Hanoï café,60,194082,False,0.565,0.755,2,-7.402,0,0.0406,0.258,0.00976,0.219,0.499,172.01,4,french
+3PVczFr0abPSkgcwjXJJDh,Y.V.E. 48,Let You Know,Let You Know,55,173166,False,0.61,0.571,5,-9.432,1,0.0395,0.242,0.21,0.228,0.147,89.769,4,french
+4pNe1h6fI98gVafiF9xf0w,PLÜM,Slow Down,Slow Down,57,176000,False,0.812,0.432,11,-9.119,0,0.0384,0.782,0.493,0.134,0.629,89.0,4,french
+6T5hiZikP7CNI2uXdWYlCg,Joachim Pastor,Eternity,Millenium,53,421935,False,0.443,0.517,6,-10.019,0,0.0542,0.0372,0.895,0.0702,0.0739,123.978,4,french
+0dDs144SVansAFynvKYQMW,Gojira,Our Time Is Now,Our Time Is Now,60,271417,False,0.229,0.949,2,-3.315,0,0.0537,1.67e-05,0.187,0.153,0.4,99.325,4,french
+4KHXk0rTD80mEf7bbdK29j,Soolking,Suavemente,Suavemente,74,159357,False,0.865,0.682,7,-4.563,0,0.0548,0.284,0.00445,0.0422,0.508,140.052,4,french
+1XsN9Flu0VvZpXmrkBtZGt,Stuck in the Sound,Pursuit,Let’s Go,60,211453,False,0.486,0.623,11,-5.07,0,0.0309,0.0097,3.4e-05,0.178,0.275,89.454,4,french
+2W0otyOuO6PixES66V4SgR,Y.V.E. 48,You've Got The Love,You've Got The Love,63,147750,False,0.755,0.44,8,-11.7,1,0.0475,0.202,0.129,0.167,0.151,107.036,4,french
+5yizzF8tORzeLVEzk237J6,Zimmer,Coming of Age,Moonrise,53,242639,False,0.734,0.524,7,-9.481,0,0.0475,0.551,0.815,0.0886,0.198,115.017,4,french
+0y4iXXlpVFJSQjlx0vQ3MZ,Alex Keeper,Forever,Forever,57,172714,False,0.763,0.457,10,-14.629,0,0.0539,0.796,0.414,0.108,0.0384,117.996,4,french
+0qY5r0ghjNwFos5BObMTbn,Lucenzo,Bailamos,Bailamos,63,173195,False,0.682,0.781,11,-4.957,1,0.119,0.299,4.66e-05,0.113,0.568,193.877,4,french
+3n6a0UdtMgOvtJRR4zlAwS,Prigida,Polly,Polly,52,82250,False,0.801,0.441,9,-11.303,1,0.337,0.856,0.905,0.105,0.49,82.007,4,french
+6DeKdryGn3yX3VvzJUeIYX,Cinco;Josman,G13,G13,36,150000,True,0.599,0.536,1,-9.528,1,0.112,0.418,0.0,0.231,0.671,105.16,3,french
+47rNhgxRUrDSkWBp3Kxrvb,Altero;NVRT,One Day,One Day,48,176495,False,0.691,0.565,1,-8.795,1,0.0768,0.436,1.28e-05,0.0762,0.174,116.919,4,french
+2Od3Ysez43Zq6SgUijASW1,Meynberg;Joseph Feinstein,Lights Go Down,Lights Go Down,62,158769,False,0.856,0.554,7,-9.015,1,0.0482,0.2,0.0792,0.11,0.76,121.025,4,french
+74zddYeCEHW8ORcr4t1O8K,Triomphe,Place de l'étoile,Place de l'étoile,56,189473,False,0.661,0.409,10,-15.182,1,0.0442,0.899,0.821,0.0989,0.266,114.049,4,french
+6aIPM03SNTYOmZm2aeAGkX,Lonely in the Rain;SOMOH,Chasing My Dreams,Chasing My Dreams,54,155010,False,0.635,0.394,2,-12.156,1,0.199,0.834,0.0126,0.143,0.0756,120.015,4,french
+4VWbPQUPvLes814r6T11Jz,Joe Dassin,Les Champs-Èlysées,Les Champs-Elysées,63,157626,False,0.783,0.454,4,-8.251,1,0.0489,0.456,0.0,0.155,0.711,111.577,4,french
+09nEPqqMCJ5gNioi7M2dth,Yael Naim,Yael Naim,New Soul,59,225105,False,0.582,0.371,0,-8.519,1,0.0525,0.748,9.19e-05,0.122,0.604,200.085,4,french
+70y7gzZLKEZWv144BGDSMy,DJ Kayz;Mister You;Dr Zeus;Sophia Akkara,Paris Oran New York 2015,"Jugni Ji (feat. Mister You, Dr Zeus & Sophia Akkara)",47,159381,False,0.755,0.766,1,-6.007,1,0.31,0.443,0.0,0.572,0.938,95.357,4,french
+6YEQ0MCpxOBB0s904XKh0r,Clio,L'amour hélas,Elle voudrait,42,171960,False,0.887,0.456,6,-9.271,1,0.0557,0.118,0.025,0.127,0.829,137.028,4,french
+1Nb2v2LCq4dgZLorOGZhNJ,Deep Chills;Le Boeuf;Kersty Ryan,Weak,Weak,50,141488,False,0.795,0.698,6,-5.751,1,0.0462,0.416,4.9e-06,0.0834,0.739,119.023,4,french
+3jMimE9wZwPxVDiUgzFeDm,L'Algérino,International,"Va Bene - Extrait de la BOF de ""Taxi 5""",57,198268,True,0.793,0.946,0,-3.141,0,0.0584,0.0944,0.0,0.145,0.742,99.996,4,french
+2r0ECFc7nWPdRosmgo84pl,Mister V,Double V,Venice,36,185493,False,0.697,0.782,0,-5.464,1,0.119,0.0669,0.0,0.0651,0.694,128.019,4,french
+3U8Fx7zNTQrctytkj6Gqgd,Camille Saint-Saëns;Isata Kanneh-Mason;Jeneba Kanneh-Mason;Sheku Kanneh-Mason,Saint-Saëns: Carnival of the Animals: The Swan,Carnival of the Animals: The Swan,62,150146,False,0.213,0.0656,7,-24.81,1,0.0467,0.992,0.969,0.0699,0.0384,65.023,3,french
+6Di7JDj7qcLYcLJnuv1UAk,Nounours;Queen D,Hallucinogenics,Hallucinogenics,56,197877,False,0.736,0.454,8,-8.367,0,0.0337,0.603,0.000865,0.145,0.321,115.972,4,french
+0hUCsXwywsvHXBEtmjpElI,SAF;Jul,BREAK (feat. Jul),BREAK (feat. Jul),37,182240,True,0.509,0.495,8,-8.139,1,0.276,0.306,0.0,0.268,0.357,97.1,3,french
+1FxwMVKEEZYMsOPUiHdC4X,Deep Chills;Tilsen,Are You Lonely,Are You Lonely,53,137208,False,0.795,0.588,0,-6.413,1,0.0808,0.663,1.34e-06,0.194,0.26,101.828,4,french
+2xUsXYIiK18wSnv2SXFGtj,NTO;Paul Kalkbrenner,Invisible (Paul Kalkbrenner Remix),Invisible - Paul Kalkbrenner Remix,61,457036,False,0.705,0.597,1,-8.817,0,0.0406,0.393,0.838,0.103,0.465,128.001,4,french
+36DQ8jmugcqNQPelDRTtKn,Kendji Girac,Barbecue,Andalouse,47,167373,False,0.827,0.731,5,-4.531,0,0.0372,0.23,1.51e-06,0.224,0.933,112.001,4,french
+6qynl60zV0oHvGY57xXaG1,Deep Chills;IVIE;Alex Grey,Run Free (Alex Grey Remix),Run Free - Alex Grey Remix,38,159600,False,0.598,0.764,4,-6.289,0,0.0592,0.0623,0.00302,0.387,0.669,200.042,4,french
+7h3aRvcSZdrEhi8PHNUqWI,MR TOUT LE MONDE,HER,I Want You,56,189227,False,0.682,0.837,6,-7.889,1,0.0401,0.139,0.181,0.141,0.0355,120.006,4,french
+5zx9zvMa5VD8cM6kLDzNxI,Leto,Double Bang 7,Double Bang 7,36,181548,True,0.614,0.498,4,-9.263,0,0.457,0.134,0.0,0.0944,0.198,79.095,4,french
+0m9eEKjKUd2aUo6O5ESjSv,So La Lune;Rouge Carmin,Tsuki,Deux vies,36,223975,True,0.844,0.389,7,-9.524,0,0.261,0.529,0.0,0.109,0.524,111.058,4,french
+5GCmVlg8itWzQHBKprhJ77,D.ACE;Cookiesan;Zoro L'Frérot;Negrito Senpai;Ol Kainry;Volts Face,Shonen vs Shonen,Shonen vs Shonen,35,234942,False,0.736,0.745,1,-8.255,1,0.316,0.018,0.0,0.138,0.631,146.003,4,french
+1dKy2nkrvgXwa1vjRCqEma,B.B. Jacques,Vague à l'âme,Vague à l'âme,37,230356,True,0.703,0.59,2,-8.531,1,0.465,0.513,0.0,0.253,0.425,124.181,4,french
+5sUEELDkPsTKniGd5itg6k,MPL,Bonhommes,"Souvenirs, souvenirs, souvenirs",34,210021,False,0.751,0.523,9,-9.356,0,0.0843,0.452,1.35e-05,0.247,0.668,137.959,4,french
+4W3e2IhmFSNLVOVfDZTAef,Agoria,Technics : Techno,Panta Rei,0,402528,False,0.558,0.633,9,-9.875,0,0.0551,0.0462,0.862,0.0964,0.425,123.963,4,french
+1nKCL4fNYgKQUvuM6Srd3u,Marie-Flore,Je sais pas si ça va,Mieux en mieux,35,150933,False,0.813,0.499,5,-6.9,0,0.0358,0.111,4.26e-06,0.166,0.652,110.029,4,french
+7wcsvrfWegq6AKy0LWgegd,Hugo TSR,Fenêtre Sur Rue,Piège à Loup,36,218351,False,0.799,0.769,10,-8.224,0,0.571,0.397,0.0,0.283,0.591,89.995,4,french
+1MVcQPtprPbH7B0zzgMpkB,Agoria;David Carretta,ADN RETROSPECTIVE (Part.1),Mad Max - David Carretta Remix,0,402400,False,0.582,0.794,2,-8.445,1,0.0377,0.000523,0.236,0.141,0.465,129.968,4,french
+4SJ05qIEyH0BGgu6P7LQ7x,Niaks;Fresh La Douille,Du sale (feat. Fresh LaDouille),Du sale (feat. Fresh LaDouille),36,211360,True,0.723,0.818,4,-5.81,0,0.441,0.304,0.0,0.111,0.644,100.992,4,french
+24rWXYouIpQQiaYbKWcwKr,Mig,Goya Chantal,Goya Chantal,36,212253,True,0.942,0.339,1,-11.193,0,0.567,0.211,0.0,0.251,0.794,119.933,4,french
+3TjLHRMgcXG9eO1FUaxQ6T,Lorenzo,Empereur du sale,En fumette,36,187106,True,0.884,0.749,4,-8.31,0,0.0514,0.645,0.0,0.1,0.331,106.03,4,french
+57RPJrjsYcFj1kC7L41U1Z,Stupeflip,The Hypnoflip Invasion,Lettre à Mylène,34,250200,False,0.471,0.815,5,-6.094,1,0.0733,0.0149,0.0179,0.446,0.359,73.934,4,french
+3AVyKOmMgvRjsC576xWw78,Paradis,Recto Verso,Toi Et Moi,60,220853,False,0.703,0.76,11,-7.308,0,0.0635,0.00412,0.761,0.111,0.608,113.01,4,french
+5NPFaYopu3sV98Rx1LmkKu,Rilès,MOONTALK,MOONTALK,45,209351,True,0.725,0.433,2,-9.22,1,0.0366,0.741,2.68e-06,0.11,0.541,142.926,4,french
+0g2x0hTPKHONcep74XrtbX,Vendredi sur Mer,Métamorphose,Déçue,49,209186,False,0.796,0.664,8,-5.263,0,0.0716,0.353,0.0211,0.129,0.455,103.015,4,french
+5pK2Elt8xOENwe8xAGfASw,NTO;Monolink,Apnea,Beyond Control,51,332146,False,0.669,0.619,8,-9.02,0,0.0376,0.00122,0.817,0.0677,0.432,124.994,4,french
+6joEpIEWpZYrezVvqrbvxy,Matt Sassari,Give It to Me,Give It to Me,63,210000,False,0.838,0.664,6,-8.126,1,0.0484,0.00132,0.035,0.131,0.545,126.047,4,french
+0FxIDZ0d2169ACdRbe8mtk,Rilès,In the Jungle,In the Jungle,52,175032,True,0.831,0.709,7,-3.681,1,0.144,0.444,0.0,0.638,0.791,101.01,4,french
+6Y7SslHFxMnUTAXqbQkAAN,Soolking;Reynmen,Askim,Askim,64,173133,False,0.777,0.671,1,-5.351,0,0.0687,0.128,0.0,0.108,0.537,98.017,4,french
+3H0ZT9YkGlYH9rNIcB4ysg,NTO,The Morning After,The Morning After,53,408595,False,0.879,0.456,9,-9.695,0,0.112,0.00551,0.865,0.0819,0.238,120.991,4,french
+4Q7lXTzCcsDd6VkM9eXEwC,Dizaro;WLZN,Evermore,Evermore,58,158400,False,0.555,0.655,2,-8.432,0,0.0542,0.00525,0.0,0.663,0.278,99.699,4,french
+6EexWwmpNWqmBF6FtINLFp,Rilès,WELCOME TO THE JUNGLE (Deluxe),QUEEN,50,143126,True,0.853,0.647,6,-7.243,0,0.23,0.114,9.31e-06,0.127,0.77,150.01,4,french
+0v9Ud7xm4hiYEFu5nKcYzC,M83;Anthony Gonzalez;Joseph Trapanese,Oblivion (Original Motion Picture Soundtrack),StarWaves,53,221021,False,0.321,0.177,8,-12.708,1,0.035,0.237,0.837,0.102,0.0399,99.088,4,french
+0rCxlp7KdpW1JR8uG6Uno0,Lucenzo;Don Omar,Danza Kuduro 2019 (Luigi Ramirez Remix),Danza Kuduro,51,196099,False,0.539,0.927,0,-5.588,1,0.179,0.0518,0.0,0.0683,0.689,130.019,4,french
+4YyTSL5nlHICPyX50Gc4aZ,Teho,Glacier 3000,Glacier 3000,50,329240,False,0.562,0.67,5,-10.301,0,0.0374,0.0259,0.185,0.052,0.458,122.014,4,french
+7qibGVhkRyQ4kgYwzZu7iG,L'Algérino,"Va Bene (Extrait de la BOF de ""Taxi 5"")","Va Bene - Extrait de la BOF de ""Taxi 5""",51,198680,True,0.786,0.95,0,-2.782,0,0.056,0.11,0.0,0.121,0.756,100.073,4,french
+3qDTfBuKrM54QbY32Z5uCE,Lonely in the Rain,Breathe,Breathe,54,163010,False,0.625,0.496,1,-13.347,0,0.0568,0.455,0.479,0.101,0.0352,119.976,4,french
+7JIp1FAaNEBjTerXUxeDTD,Panta Ray,Sea You,Sea You,56,170346,False,0.797,0.576,9,-8.055,0,0.0442,0.383,0.737,0.149,0.152,115.001,4,french
+5AQgWo2iZ0JCJkyxRHAtT2,Lvne;EE,Feel The Same,Feel The Same,55,172004,False,0.751,0.593,0,-9.556,1,0.0593,0.0851,0.0387,0.275,0.371,120.989,4,french
+2U5kSevItDmL0XzSDyemRp,Bon Entendeur;Isabelle Pierre,Aller-retour,Le temps est bon,64,203160,False,0.573,0.679,3,-5.693,1,0.079,0.237,6.82e-05,0.375,0.583,98.085,4,french
+5NRNaKM0jU1RQQ9C2l4SCZ,Indila,Mini World,Ego,50,256413,False,0.748,0.752,5,-6.828,0,0.0705,0.0185,5.41e-06,0.118,0.73,86.005,4,french
+1ubVPccf8Vb9mL0XYpVpCV,The Avener;Phoebe Killdeer,The Wanderings Of The Avener,Fade Out Lines - The Avener Rework,65,276600,False,0.876,0.731,1,-5.833,0,0.0325,0.0163,0.0926,0.101,0.699,119.011,4,french
+1GWtUkDQk7XC35r7kTPfqx,Gojira,Fortitude,Amazonia,59,300783,False,0.382,0.954,9,-4.831,1,0.0417,0.00038,0.776,0.244,0.513,181.933,4,french
+1cfSfAarIcTOsCH6osnQCo,D.ACE,Mangas 3,Mangas 3,35,198478,False,0.816,0.822,3,-4.986,0,0.152,0.438,0.0,0.135,0.861,127.065,4,french
+1zX4Lq4tYy3FxaQnLD8SeI,Paul Baloche,What a Friend We Have In Jesus (Audio Performance Trax),What a Friend We Have In Jesus,41,256266,False,0.459,0.404,5,-8.279,1,0.0257,0.437,0.0,0.156,0.244,81.849,4,french
+2nDsznhiXK993cCwn1zksX,Vald,"Echelon, Vol. 1",C'est pas nous les méchants,36,178493,True,0.779,0.659,10,-6.432,0,0.234,0.247,0.0,0.0784,0.262,134.985,4,french
+31WC6bwvkbvpQCeLD50zAp,EDGE;Ratu$,EN LESSGUILL,HORS BORD,36,156200,True,0.925,0.453,9,-6.797,0,0.417,0.101,1.71e-06,0.11,0.22,126.931,4,french
+5S12Ds2RswM2ITC0u1J01f,Ninho,Jefe,VVS,73,187027,True,0.751,0.61,10,-8.368,0,0.485,0.337,0.0,0.11,0.525,167.983,4,french
+33w3gWxtTPBrbxBbViBY8W,Lucenzo;Don Omar;Big Ali;Luigi Ramirez,Emigrante Del Mundo,Danza Kuduro 2019 - Luigi Ramirez Mix,51,200769,False,0.605,0.747,0,-7.217,1,0.196,0.00784,0.0,0.126,0.325,129.97,4,french
+4WAFGB14LqG3LHsi1GlSwB,Georgio;S.Pri Noir,Ciel enflammé - Sacré,Full Moon,35,178051,True,0.669,0.569,10,-7.458,1,0.146,0.703,0.0,0.237,0.387,149.922,4,french
+0BEklK9Q0LvUEdA99Uf5DB,Guillaume Grand,[Des]Espoirs,Océan,34,180960,False,0.491,0.546,3,-7.824,0,0.132,0.295,0.000993,0.0638,0.776,171.534,4,french
+6cxs36B9IwFb3cKg4bTBEB,Lujipeka;Cerrone,Montagnes Russes,On ira,35,169400,True,0.626,0.788,0,-5.674,0,0.0329,0.0764,8.91e-06,0.133,0.654,122.062,4,french
+1FXcpgtPHJvrcx4vLKx9CF,Alpha Wann,Alph Lauren 2,Alph Lauren,35,279240,True,0.541,0.734,11,-5.214,0,0.424,0.191,0.0,0.572,0.378,75.076,4,french
+5mhwVh01wwvX92uUqWPAp0,J9ueve,Illusions,No More,36,145973,False,0.716,0.526,8,-9.027,0,0.285,0.133,0.0,0.127,0.53,144.895,4,french
+4dlR4XIpm3wsd9iSPJeKbS,Renaud,Métèque,L’amitié,34,153186,False,0.617,0.354,1,-13.149,1,0.0292,0.869,2.28e-05,0.116,0.194,105.999,5,french
+5DWyzRdimYu6Hl15DwvOz1,Columbine,"Adieu, au revoir",Borderline,35,168600,True,0.713,0.752,5,-6.257,0,0.069,0.267,0.0,0.0895,0.435,137.963,4,french
+5jhgLWi8sstyfLhTIONlKQ,Zkr,Dans les mains,Y'a trop,36,222533,True,0.95,0.616,1,-7.027,1,0.248,0.311,0.0,0.106,0.688,104.985,4,french
+1LYaVPLp3W7cuGb3l2jCBq,Francis Cabrel,Quelqu'un de l'intérieur (Remastered),Saïd et Mohamed - Remastered,34,230213,False,0.542,0.47,4,-10.024,1,0.035,0.756,0.0,0.17,0.454,137.411,4,french
+3DDozsIhKdjaOhnEPwn9H3,Rasta Bigoud,Kana diskan,Kana diskan,34,226866,False,0.911,0.734,10,-5.885,0,0.106,0.011,2.27e-06,0.0788,0.965,88.991,4,french
+1cVRg5ip6EAu1hJ99zZpW6,Ben Mazué,Ben Mazué,L'homme modeste,34,227066,False,0.619,0.654,2,-6.465,0,0.135,0.28,0.0,0.167,0.808,134.694,4,french
+12GJnnfZegWzlL3Ogm0A2y,Zuukou mayzie;Vickie Cherie,Le film : Le commencement,Free Solo,36,183424,False,0.671,0.493,0,-10.49,0,0.0408,0.156,0.0273,0.0995,0.302,128.028,4,french
+5X5xWnr5e7bDpfIXqipcBw,Indochine;Melissa Auf der Maur,Singles Collection (2001 - 2021),Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix,34,294826,False,0.633,0.181,10,-12.435,1,0.0308,0.945,1.91e-05,0.122,0.0945,112.212,4,french
+3O6Hqq7ol3CgsEqlobDMRH,Téléphone,Best of,Hygiaphone,34,174906,False,0.39,0.762,9,-12.293,1,0.0607,0.00985,3.93e-05,0.294,0.692,169.258,4,french
+2tr24VBF280hvO14tSNBEO,Laurent Voulzy;Véronique Jannot,Belle Ile En Mer,"Désir, désir, Pt. 1",35,296506,False,0.748,0.466,7,-14.149,1,0.0366,0.0542,6.21e-06,0.241,0.891,115.045,4,french
+1tbgTtEZTGDf3EGVoaKu0D,Saez,Le Manifeste Lulu (Mon Européenne) - EP,Mon Européenne,34,333360,False,0.679,0.778,1,-6.688,0,0.125,0.354,0.0,0.0802,0.822,109.975,4,french
+0HwrEBVdVnI0H3OGqejlne,Les Caméléons,Not Dead,Comme s'il en pleuvait,33,254086,False,0.659,0.873,10,-4.642,1,0.0383,0.0136,0.0,0.308,0.92,116.979,4,french
+0HadKAh01sn4LQ7ntnRVm9,Stupeflip,Stup Religion,Argent,34,221986,False,0.627,0.907,0,-3.974,1,0.0412,0.335,0.00101,0.693,0.949,143.998,4,french
+6RuBH60do7z2d2QXsn5j8g,Dub Inc,Hors contrôle,Fils de,35,291736,False,0.823,0.827,11,-4.788,0,0.055,0.143,0.0,0.14,0.726,102.007,4,french
+4Km9A3jXJ4J7fpEmtdwx1G,Djadja & Dinaz,Spleen,Plein les poches,36,165413,True,0.94,0.597,1,-7.785,0,0.105,0.159,3.39e-05,0.0954,0.866,132.044,4,french
+1Kiidpd9HxHWIIiDKackZf,Gérard Lenorman,Olympia 75,"La ballade des gens heureux - Live à l'Olympia, 1975",35,213840,False,0.592,0.436,5,-11.694,1,0.0578,0.755,0.0,0.712,0.657,124.063,4,french
+671FtednpnMTgU26wryBl6,Jacques Offenbach;Nemanja Radulović;Camille Thomas;Double Sens,Offenbach - Great Recordings,"Les Contes d'Hoffmann / Act III: Barcarolle (Arr. for Violin, Cello, Piano and String Ensemble by Aleksandar Sedlar)",34,201960,False,0.11,0.0299,2,-22.969,1,0.0426,0.97,0.778,0.102,0.0543,167.214,4,french
+0lLom788MgNXvKTj9rQ0Ua,Jean-Baptiste Lully;Clément Debieuvre;Davy Cornillot;David Witczak;Ensemble Leviathan;Lucile Tessier,"Purcell: See, even Night herself is here (The Fairy Queen) - Rameau: Dormons, dormons tous (Atys)","Atys, LWV 53: Dormons, dormons tous",0,454360,False,0.136,0.0503,5,-22.275,0,0.0407,0.962,0.221,0.11,0.073,89.42,4,french
+1CxtymiucDK0AB9vgGZ6q2,PNL,Que la famille,J’comprends pas,74,283493,False,0.373,0.523,1,-9.111,1,0.041,0.228,0.0171,0.111,0.0398,104.959,4,french
+5LInOGDHqrgetnMlnvaDNq,L'Impératrice;Rejjie Snow,Everything Eventually Ends,Everything Eventually Ends,63,177280,False,0.865,0.484,11,-9.321,0,0.177,0.361,9.53e-06,0.116,0.849,95.016,4,french
+0HhleUCwCfFYS413WmpMxJ,The Blaze;Octavian,Somewhere,Somewhere,50,215106,True,0.489,0.425,1,-11.98,1,0.0506,0.3,0.0703,0.106,0.117,130.104,4,french
+1UFyg50crB3cjd2euYKHoH,Videoclub,Euphories,Roi,55,224226,False,0.704,0.467,9,-9.263,1,0.0342,0.559,0.00117,0.0947,0.29,107.993,4,french
+378c4bnvmnfAoMTSIOveDX,Catching Flies,Silver Linings,Satisfied - Edit,62,223336,False,0.744,0.593,4,-8.765,0,0.107,0.0482,0.3,0.264,0.12,122.05,4,french
+5MDKJ7OhZkJh0qnYyILE4Q,PLÜM,Blame,Blame,54,182000,False,0.732,0.56,11,-8.266,0,0.0869,0.577,0.000322,0.0961,0.282,95.994,4,french
+7Md7IzzMCu8IgbZr5AJpoX,Y.V.E. 48,Fast Car,Fast Car,59,157232,False,0.765,0.561,1,-8.946,0,0.0361,0.0805,0.141,0.123,0.147,112.034,4,french
+3OKXoqt03pPP0EbSQpzmQJ,Y.V.E. 48,Wicked Game,Wicked Game,59,166525,False,0.802,0.382,9,-14.841,1,0.0468,0.131,0.0271,0.161,0.0894,117.969,4,french
+5eycAkZ5W7NJMz3PmvpCsC,Dizaro;Binkie,You & I,You & I,57,161739,False,0.671,0.657,11,-6.924,1,0.0603,0.198,4.54e-06,0.177,0.105,115.073,4,french
+0cSx626ZgTuknh3DbzYtRx,Luca,Above the Clouds,Above the Clouds,51,148000,False,0.506,0.516,8,-11.827,1,0.0539,0.401,0.702,0.254,0.0624,119.883,4,french
+2opemWX71oebOvol9at15T,Chullo,Your Type,Your Type,57,129032,False,0.629,0.442,3,-13.25,0,0.0391,0.0048,0.459,0.344,0.202,93.003,4,french
+4DN8e56DFCEXISA8Uqz5Pw,Lucenzo,No Me Ama,No Me Ama,61,167474,False,0.799,0.675,7,-5.999,0,0.0772,0.418,0.0,0.0958,0.678,96.797,4,french
+6L7mM6G8HBCP8lvHNoRrQn,Lartiste;Nej,FOTO,FOTO,61,220267,False,0.811,0.537,1,-8.223,0,0.165,0.449,3.33e-06,0.136,0.595,112.1,4,french
+3Allgqu3MaHE8QFvzoP90S,KAS:ST;Be No Rain;Tale Of Us,Hold Me To The Light,Hold Me To The Light - Tale Of Us Remix,48,398095,False,0.643,0.822,7,-9.29,1,0.0497,0.00363,0.749,0.13,0.0854,125.969,4,french
+0FoSiffuAmaJ3VyPaebY6I,M83;Eric Prydz,Midnight City (Eric Prydz Private Remix),Midnight City - Eric Prydz Private Remix,51,361740,False,0.541,0.854,11,-7.54,0,0.0599,0.00145,0.695,0.129,0.351,125.021,4,french
+0folicqtCOgdXb3yWJrXw4,NSH,Chasing a Dream,Chasing a Dream,55,148800,False,0.737,0.53,9,-11.238,1,0.0278,0.132,0.797,0.221,0.314,99.988,4,french
+5UYEyQjDOOXhb9Kjlu7q22,Coffee Cub,I Need You,I Need You,59,141453,False,0.586,0.748,6,-7.603,1,0.105,0.000584,0.0152,0.217,0.235,111.97,4,french
+1J42zXH24aUfvqXUZUCyy3,Jok'air,Abdomen,Abdomen,36,194893,True,0.762,0.703,11,-5.591,0,0.0938,0.218,0.0,0.112,0.193,111.045,4,french
+0068lzo1xXa9ED8ThypHU1,Horizon Blue;Carston,Got You On My Mind,Got You On My Mind,58,154426,False,0.814,0.532,4,-6.798,0,0.0386,0.363,1.59e-06,0.0842,0.482,121.973,4,french
+3yndKI4zWEyC36BQYrdKBA,Therapie TAXI;Roméo Elvis,Hit Sale,Hit Sale (feat. Roméo Elvis),64,184400,False,0.573,0.784,9,-5.224,1,0.0591,0.141,0.0,0.0844,0.69,82.009,4,french
+1vELwZM3uBYWd8HrtddD4l,GIMS,Subliminal (La face cachée),Bella,63,226480,False,0.781,0.944,9,-2.64,0,0.0615,0.0873,0.0795,0.117,0.965,103.003,4,french
+3wfQEIvOfeVkXgGZogK3gL,RIDSA,Santa Maria,Santa Maria,70,189519,False,0.664,0.656,7,-7.089,1,0.0399,0.408,0.0,0.246,0.562,169.978,4,french
+27ttKRZGALgDyoFCxzxNP0,Koba LaD;Bolémvn;Mafia Spartiate,VII,Seven Binks,35,216040,True,0.635,0.754,11,-5.318,0,0.377,0.106,0.0,0.133,0.801,136.997,4,french
+2WCcNcnj6YIiKTNMmQiBKI,Saco;Sebastiën,Gotta Give Me,Gotta Give Me,63,199016,False,0.864,0.707,8,-7.335,0,0.0387,0.469,0.0,0.129,0.721,115.034,4,french
+0vfECNOObGkuE5h4YZjA5C,RK,Neverland,Hood,35,185400,True,0.665,0.596,9,-7.183,0,0.139,0.168,0.0,0.0451,0.555,170.17,4,french
+2D40momtVZGXlEWVYf6WK4,Josman,M.A.N (Black Roses & Lost Feelings) [Bonus],La Danse de la Joie,35,256893,True,0.591,0.294,10,-10.884,0,0.593,0.278,0.0,0.106,0.254,75.529,4,french
+1SxQkC6gToofJbL4sI0aKQ,Lujipeka,Montagnes Russes,Mempapeur - Interlude,35,87586,True,0.709,0.558,8,-9.55,0,0.135,0.302,0.0,0.108,0.821,170.153,4,french
+66BL8LOHoqwGgPzMOraqtW,Corneille,Parce qu'on vient de loin,Parce Qu'On Vient De Loin (Version Acoustique),34,241346,False,0.663,0.456,11,-9.948,0,0.0728,0.456,0.0,0.0795,0.902,92.016,4,french
+4JRfGLJeMlt7WaGhv97m7r,Izïa,La vitesse,Qui nous sommes,33,216440,False,0.726,0.913,7,-4.602,0,0.0352,0.299,0.000489,0.0371,0.8,135.033,4,french
+6J9pMCvCVPwSotW3XXTZ5U,Izïa,La vitesse,Royale,34,222960,False,0.609,0.56,0,-7.662,1,0.0532,0.218,0.0,0.162,0.258,142.026,4,french
+7tC7te6Lc8ZD0iS4ufVG1b,Luther,IDD,Yuto & Yugi,35,126546,True,0.771,0.522,1,-10.733,1,0.379,0.276,0.0,0.145,0.639,50.805,4,french
+4fQVYYEzfZ4Ka2zXIPVJeS,Biga*Ranx,Nightbird,Prison House,34,244929,False,0.861,0.476,9,-8.968,0,0.399,0.562,0.00239,0.119,0.818,161.972,4,french
+3ttSE0JGWH5919vcrX7bF8,Michel Sardou,Le Bac G,Le bac G,34,231773,False,0.648,0.314,5,-11.65,1,0.028,0.854,0.00036,0.101,0.206,111.105,4,french
+4xIE7iBIg5qm4sgmJQA9QU,Eddy de Pretto,À TOUS LES BÂTARDS,Créteil Soleil,33,237640,False,0.55,0.616,4,-8.268,0,0.254,0.0776,0.0,0.139,0.188,167.58,4,french
+2qQCE84dnNwA7pJ62OsVda,KIKESA,PUZZLE,Bandana mauve,34,224028,False,0.773,0.626,8,-6.382,1,0.126,0.0315,0.0,0.0969,0.814,140.976,4,french
+4yXGT4W5q4xaii4O1XNhdj,KIKESA,Rubi,L'histoire commence comme ça (à écouter dans l’ordre),34,126333,False,0.572,0.438,5,-13.018,1,0.372,0.82,0.0,0.37,0.624,85.925,4,french
+0wkE43OL2HrFu1AknZwoZ6,J9ueve,Arc-en-ciel,Plus rien à perdre,35,162253,True,0.828,0.445,11,-9.313,0,0.348,0.0216,0.0,0.119,0.238,142.006,4,french
+6PjI9D6IHOZn7o4Jnqzn1Y,La Belle Bleue,Fenêtres,À tes côtés,34,216013,False,0.681,0.732,6,-7.432,0,0.0332,0.233,1.11e-05,0.116,0.96,89.989,4,french
+6N6fJJWnK4KQvh9M5wFWIZ,Columbine,"Adieu, au revoir",La gloire ou l'asile,35,186480,True,0.674,0.584,0,-7.193,1,0.136,0.55,0.0,0.083,0.689,150.066,4,french
+1f5uD6ZGC5kCq69GyAT4OR,Deluxe,Moustache Gracias,You Heard It All Before,35,198440,False,0.749,0.699,6,-5.963,1,0.301,0.105,6e-06,0.0972,0.931,91.988,4,french
+3owHWDJIs5mT584uCqcUA7,Les Caméléons,Not Dead,Je suis un con,33,231849,True,0.53,0.905,6,-5.936,0,0.0949,0.00122,2.4e-05,0.152,0.654,176.001,4,french
+4vRo3l3lAvBPHnSRBnjQln,Louise Attaque,Louise Attaque (20ème anniversaire),J't'emmène au vent,33,184173,False,0.569,0.779,6,-5.592,1,0.0352,0.233,0.0,0.0936,0.567,136.982,4,french
+0r8pr40vuAfn5s67TBCpJP,Lutan Fyah,Reggae Sunset Riddim,Friend Of Music,5,163000,False,0.571,0.703,0,-5.71,1,0.243,0.0156,0.0,0.287,0.714,77.929,4,french
+5rETbVSxYPrYF6uzSCkXrg,Lutan Fyah,Arising,Stay Firm,0,240065,False,0.667,0.62,1,-5.647,1,0.282,0.308,0.0,0.0488,0.75,85.358,4,french
+0NcWI0my7uo4OCbqubBp1L,Lutan Fyah,Solace Riddim,Think Twice,0,191466,False,0.67,0.665,0,-6.109,1,0.296,0.101,0.0,0.106,0.537,84.976,4,french
+4SLE3KrGQD5nmMdD3Avz24,Stupeflip;Tanguy P,Stupeflip,Les monstres,33,223986,False,0.732,0.505,4,-6.799,0,0.0368,0.133,0.107,0.298,0.412,87.505,4,french
+64ny95nYwrNqoZOj7R1vkE,Georges Delerue;Romain Leleu;Stuttgart Philharmonic Orchestra;Marcus Bosch,Move - The Trumpet as Movie Star,La Nuit américaine: Grand Choral,37,135120,False,0.3,0.251,2,-13.273,1,0.0387,0.92,0.903,0.111,0.34,94.981,4,french
+5NnqBhxSQGgEkvT6sRt2zF,Merzhin,Pleine lune,Nains de jardins,33,223800,False,0.625,0.977,2,-3.021,0,0.0963,0.0263,9.47e-05,0.311,0.8,135.968,4,french
+24OtbzeSNwZsG3iY4UaOuN,Mes Souliers Sont Rouges,Tape la galoche (Ou quand le public s'en s'melle),Nuit humide,33,211493,False,0.535,0.804,4,-8.429,0,0.121,0.649,0.0,0.69,0.589,96.261,4,french
+6IkpQyY8TcaMM0Cx4OCf2N,Stupeflip;Reverb Man,The Hypnoflip Invasion,La mort à Pop Hip - Interlude 6,34,85986,False,0.477,0.428,0,-12.858,1,0.435,0.0435,0.00542,0.322,0.717,131.862,3,french
+7yC7FWZz24L43brXzNpLWT,Syd Matters,Someday We Will Foresee Obstacles,To All of You,56,283266,False,0.312,0.536,1,-11.701,0,0.036,0.269,0.0769,0.113,0.0971,104.483,4,french
+0DxTEuqiERU7W4Cfy6IeLa,Camille Saint-Saëns;Philippe Entremont;Gaby Casadesus;Yo-Yo Ma,Saint-Saëns: Organ Symphony; Bacchanale; Danse Macabre; Carnaval des Animaux,"Carnival of the Animals, R. 125: The Swan",60,184706,False,0.211,0.00756,7,-33.123,1,0.0455,0.994,0.89,0.0734,0.0391,118.247,4,french
+49hAL0xPGPpjnshjQA22tq,H Magnum,Bansky,Goudou,55,139426,True,0.709,0.697,8,-7.084,0,0.296,0.427,0.00427,0.258,0.603,189.79,4,french
+2YPlyabdiWOKS0LZ3mjzIc,Alex Baker,Soft Focus,Awaken,51,205555,False,0.533,0.408,5,-15.16,1,0.047,0.814,0.71,0.133,0.103,107.991,4,french
+44ahv3Zj4FOJoy8gJLZF9B,Jain,Souldier,Alright,52,222493,False,0.685,0.611,8,-8.057,0,0.068,0.0181,6.64e-06,0.035,0.598,184.055,4,french
+6JgjIRRv7uMSEjzzxHTQoh,Harold van Lennep,Liberation,Liberation,61,149088,False,0.628,0.836,3,-7.071,1,0.072,0.702,0.627,0.131,0.372,99.992,4,french
+45KqDHTOJtIM53QR1gPGTa,Rilès,Brothers,Brothers,58,182044,True,0.67,0.63,1,-3.651,1,0.0694,0.133,0.0,0.118,0.582,86.025,4,french
+2Qk8dVhZgVpAftReOcXM2I,GIMS;Super Sako;Hayko,Mi Gna (feat. Hayko) [Maître Gims Remix],Mi Gna (feat. Hayko) - Maître Gims Remix,53,214720,False,0.777,0.768,10,-5.206,0,0.243,0.281,0.0,0.371,0.533,91.95,4,french
+1SJR3tlgtFEGdzNrBHhHU2,Prigida,Jelly,Jelly,56,163255,False,0.803,0.706,8,-8.68,1,0.0485,0.712,0.155,0.0986,0.392,114.748,5,french
+1sPIy8kKqXUhxbXwXmhyD7,Gabriel Vitel;Monolink,Mind Doodles (Monolink Remix),Mind Doodles - Monolink Remix,53,223728,False,0.882,0.543,8,-7.427,1,0.0392,0.191,0.000237,0.0897,0.483,118.01,4,french
+3TVUW7bJJWDOonkVCZxfLV,Beendo Z,L'Élu,Pas bête,76,143525,True,0.734,0.532,7,-9.038,0,0.102,0.361,0.0,0.105,0.491,138.043,4,french
+775OxWq9wfVzmVDS0n3zff,Alexandre Desplat,"Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)",Statues,55,144200,False,0.321,0.241,1,-20.495,1,0.0373,0.442,0.888,0.105,0.0795,128.98,4,french
+56cqmGid7J5wMyfXJzOEOd,You Man,Spectrum of Love,Who We Are,57,175578,False,0.659,0.766,7,-8.321,1,0.0391,0.659,0.579,0.134,0.389,95.011,4,french
+0BKzMLvouXW9khQeFiOOTz,MR TOUT LE MONDE,For Real,For Real,55,181732,False,0.421,0.724,2,-6.747,1,0.0328,0.0175,0.0254,0.182,0.262,179.992,3,french
+12QphPukpWDR9w1iimddfP,Polo & Pan,Ani Kuni,Ani Kuni,60,276386,False,0.661,0.623,0,-6.157,1,0.0292,0.198,0.602,0.0753,0.0491,121.002,4,french
+07J5gvVBcXUPcsa9KVYwHu,Camp Claude,Double Dreaming,Old Downtown,60,169906,False,0.676,0.449,1,-7.058,0,0.0399,0.211,0.00475,0.129,0.322,87.937,4,french
+5l3Grgdq66KpZAopeBHF01,Prigida,Early Thoughts,Our House,55,156000,False,0.692,0.651,10,-8.68,1,0.163,0.475,0.189,0.0838,0.224,114.014,4,french
+1Jy8mHUF1tVHM4T0msTSTO,1995,Paris Sud Minute,Pleure Salope,33,264626,False,0.627,0.7,10,-3.997,0,0.27,0.382,0.0,0.141,0.832,87.805,4,french
+4xtKL2P4DIQAdxG5B8kx2i,Sopico,Nuages/Orages,Dans les yeux,34,214880,False,0.686,0.399,8,-13.257,1,0.0742,0.868,0.000334,0.0995,0.507,134.143,4,french
+6fsJhoEd8cWAKnu4I1Q7Yr,Roméo Elvis,Chocolat,Bobo,34,171293,True,0.749,0.605,3,-8.58,0,0.282,0.22,0.0,0.216,0.356,110.119,4,french
+2iwJ7fMxCZSYO46ZwKczjT,MR TOUT LE MONDE,SUN,Searching,53,209910,False,0.586,0.811,8,-12.527,1,0.0364,0.0666,0.631,0.318,0.0383,122.014,4,french
+5QjLud8Gx1Vl4G5ykpJBKT,KARLK;Guitk,Crossroads,Daydreamer - Radio Edit,54,184918,False,0.954,0.718,9,-7.05,0,0.0542,0.073,0.000285,0.161,0.682,122.015,4,french
+0Yu7xTujO7aKsVww6npA95,Lonely Night;Ari;Ellou,Speechless,Speechless,51,157000,False,0.695,0.566,8,-9.106,0,0.0323,0.271,0.000303,0.289,0.665,120.037,4,french
+0Jh6iWjna1wk5le0Ahn7No,Ninho,Destin,La vie qu'on mène,73,193443,False,0.8,0.756,7,-4.4,0,0.0367,0.687,2.06e-06,0.111,0.456,113.204,3,french
+4liqaqNptY4g86Ft3wpsOi,Jok'air;Le Juiice,VI République (Bonus Track Version),Bonne bonne,35,171253,True,0.733,0.871,2,-3.983,0,0.101,0.0325,0.00116,0.0955,0.566,162.043,4,french
+60eGKTJsvDndvt0JrMx6Vg,Vald,NQNT33,Baby Squirt,34,219200,True,0.677,0.652,6,-7.448,1,0.29,0.343,0.000176,0.285,0.539,149.919,4,french
+2PGhWKvTDnP0l0w0ASMOls,Vald,NQNT33,Foie gras,35,199297,True,0.715,0.812,1,-3.808,1,0.353,0.478,0.0,0.281,0.485,128.173,4,french
+5QQEFFSyhQijN02EqlXlxa,Nusky,Nusky,Paname,34,196173,False,0.817,0.634,10,-6.477,1,0.0697,0.376,0.0,0.119,0.595,114.975,4,french
+4oFsQeWex1N73ryt5RX3D2,Limsa d'Aulnay,"Logique, Pt. 3",Paradis Vide,34,197647,True,0.657,0.35,1,-10.68,0,0.523,0.729,9.12e-06,0.0962,0.233,67.614,4,french
+4uoF7cX5NXaj1K4FuNROhB,Spider ZED,Jeune intermittent,Chaussettes,34,178961,True,0.886,0.745,11,-8.124,0,0.0395,0.633,0.00855,0.111,0.537,129.978,4,french
+3BnCZCBjTRL3laJPmr0yOj,Lesram,Wesh Enfoiré #3,Wesh Enfoiré #3,35,197052,True,0.579,0.791,9,-3.827,0,0.329,0.31,0.0,0.0808,0.564,95.353,4,french
+6q0kToRO5nX5L84IH6GwGf,D.ACE;Dehmo,Nakama,Raftel,33,151963,False,0.642,0.612,6,-7.555,0,0.114,0.538,0.0,0.108,0.471,141.37,4,french
+5jBEW0XyYuA0DlqkgkWhjy,DENZO,Atrocité,Atrocité,34,231431,False,0.556,0.682,2,-7.652,0,0.343,0.206,0.0,0.0609,0.351,129.721,4,french
+69vSowJrjBnE9GBMz4mrHH,-M-,le tour de m,Au suivant - Live,33,192960,False,0.553,0.543,8,-9.332,1,0.132,0.507,0.0,0.975,0.436,108.253,4,french
+1nsXIEti19ymvEmqnENakw,Ben Mazué,La règle des 3 unités,Imprévu,33,198320,False,0.696,0.51,9,-8.488,1,0.0318,0.791,0.00379,0.154,0.575,146.024,4,french
+5HoQ7BOMJ3cGIr1N5OYgSE,D.ACE;Cookiesan,Nakama,La mélodie des katanas,34,152700,False,0.535,0.722,9,-7.684,0,0.555,0.388,0.0,0.0995,0.594,143.285,4,french
+0nCPzric3OZJEm1pvD54Mb,Daniel Balavoine,Sauver l'amour (Remastered),Petite Angèle,33,281785,False,0.585,0.757,1,-8.494,1,0.0312,0.0519,0.000923,0.096,0.829,139.769,4,french
+1adwLzinGzckhrVfjQsjN9,Michel Sardou,Le choix du fou,Le figurant,34,232173,False,0.454,0.592,7,-6.502,1,0.0386,0.0365,0.0,0.28,0.129,74.967,4,french
+4J5c9HxCgGF6LWUCaxO5Qi,KIKESA,PUZZLE,La paix,34,168476,False,0.659,0.804,1,-4.531,0,0.0627,0.0185,0.0,0.313,0.804,154.111,4,french
+6ohVFU3E1i5Ke7k37vtDdS,Pierre Bachelet,Le Meilleur De,Marionnettiste,33,294106,False,0.604,0.573,1,-11.357,1,0.0623,0.631,2.56e-06,0.356,0.604,90.198,4,french
+5brhIOcGDbN7uTRNy0ta4r,Ben Mazué,La femme idéale,Let Me,33,165480,False,0.594,0.467,7,-8.537,1,0.0366,0.775,1.3e-06,0.322,0.295,105.856,4,french
+67cR7hkzHhFAdg1UzPM3Xz,Bernard Lavilliers;Bonga,Les 50 plus belles chansons,Angola,33,244400,False,0.751,0.515,7,-7.752,0,0.0377,0.811,0.0242,0.136,0.609,94.967,4,french
+3qGBJPzh2BpgtpvjriFxYq,Girls In Hawaii,From Here to There,Flavor,34,217613,False,0.82,0.433,11,-8.421,1,0.0491,0.102,0.134,0.0881,0.426,114.981,4,french
+4EkZhTmEP7RUH7n8CCNj6A,Pierre Bachelet,Les corons,Écris-moi,33,207813,False,0.443,0.415,9,-8.456,1,0.0484,0.82,0.0,0.146,0.468,79.33,4,french
+3eB7PSJvvpuVjPkN2MCM0J,Les Fatals Picards,Le syndrome de Göteborg,La nouille à l'air,33,201400,False,0.655,0.759,0,-7.224,1,0.0496,0.146,3.89e-06,0.295,0.792,139.971,4,french
+2blJsYMS9VSHcEqYUQhCkM,Ben Mazué,Ben Mazué,Je regrette,33,218240,False,0.689,0.8,7,-5.94,1,0.253,0.364,0.0,0.174,0.632,123.092,4,french
+4lnZ0kOwTWgDlEntsZV11r,La Rue Kétanou,Ouvert a double tour,Impossible,33,273893,False,0.385,0.859,7,-5.185,1,0.29,0.688,0.0,0.849,0.595,160.73,4,french
+75oi5Vrvd1YWsaG7feRGdd,Stéphane Grappelli;Joe Pass;Niels-Henning Ørsted Pedersen,Fiesta temática 70s,Time After Time - Live - Instrumental,0,321106,False,0.491,0.212,9,-19.719,0,0.0726,0.908,0.0909,0.954,0.341,111.116,3,french
+2U8lx1Z0mxwL6nmuFHLJOG,François Couperin;Pavel Nersessian,"Schumann, Poulenc & Others: Piano Works (Live in Japan, 2022)","Premier livre de pièces de clavecin, deuxième ordre: No. 23, Les papillons (Live in Japan, 2022)",0,73973,False,0.358,0.0471,5,-32.506,1,0.0457,0.99,0.926,0.0991,0.208,76.774,4,french
+4LgHw6dhyApTDWLSCKgGuu,François Couperin;Pavel Nersessian,"Schumann, Poulenc & Others: Piano Works (Live in Japan, 2022)","Troisième livre de pièces de clavecin, dix-septième ordre: No. 2, Les petits moulins à vent (Live in Japan, 2022)",0,110920,False,0.32,0.124,4,-30.61,0,0.0371,0.978,0.973,0.145,0.625,65.385,5,french
+34eeJ4JoXWqe6wmOHmgsCe,The Dø,Both Ways Open Jaws,Dust It Off,47,222000,False,0.52,0.204,6,-13.159,0,0.0336,0.963,0.0845,0.0891,0.344,133.849,4,french
+5x1RPNP8Uydtz23MR0T2UG,Jako Diaz,Sunrise,Sunrise,60,229850,False,0.696,0.701,7,-9.277,0,0.041,0.593,0.749,0.105,0.491,117.99,4,french
+4TVXQID05mAuTOiWdCPGXW,French 79;Kid Francescoli;Sarah Rebecca,Diamond Veins (Remixes),Diamond Veins (feat. Sarah Rebecca) - Kid Francescoli Remix,55,240000,False,0.563,0.574,8,-13.591,1,0.0367,0.016,0.267,0.0804,0.388,103.961,4,french
+3Gh3191tWa7RvJPyHrucxC,Billx,Pagan Totem,Pagan Totem,41,246000,False,0.448,0.958,11,-3.343,1,0.0822,0.00951,0.0517,0.173,0.139,119.999,3,french
+7L8SRVO4dFBBoYsRbgZpg8,NSH,Lost in Space,Lost in Space,55,170437,False,0.82,0.643,4,-8.34,1,0.298,0.0385,0.804,0.146,0.628,113.997,4,french
+3Ui2Nnw7T9Jd9tYI3jn1vZ,Daniel Glaven;Will Church,Riverside,Riverside,61,136229,False,0.86,0.721,1,-5.004,0,0.0376,0.0205,1.96e-06,0.155,0.359,122.002,4,french
+7w0FV6ViNDZFy9Mu90sQzl,M83,"Hurry up, We're Dreaming",Intro,50,322760,False,0.41,0.765,6,-6.788,1,0.0319,0.00109,7e-05,0.112,0.0381,105.013,4,french
+380vyl9xb7um0l5qIYyWeC,Luca;Joel Stewart,Overflow (feat. Joel Stewart),Overflow - feat. Joel Stewart,53,142105,False,0.603,0.421,9,-10.646,1,0.0493,0.567,5.58e-05,0.0757,0.242,114.093,4,french
+1zumjd8Hp0GIu3g14g8xx0,Triomphe,Give Me The Sun,Give Me The Sun,55,133333,False,0.791,0.633,5,-11.506,1,0.0486,0.0187,0.713,0.1,0.0732,108.0,4,french
+4usHSrOZZfpRh5Zh7M1Qtd,Django,S/O le Flem,Fléau,35,231428,True,0.879,0.578,4,-10.472,1,0.316,0.28,1.31e-05,0.087,0.571,133.009,4,french
+7KkdYJqxvq4ZFq9gvFy06v,Ottawan,D.I.S.C.O.,D.I.S.C.O. - Single Version,57,196506,False,0.714,0.867,7,-6.295,0,0.0569,0.11,8.98e-05,0.325,0.872,122.915,4,french
+1fLShBLFdS1gTv9KSXWQMG,GIMS,Mon coeur avait raison,Est-ce que tu m'aimes ? - Pilule bleue,47,237093,False,0.779,0.852,2,-3.353,1,0.0651,0.235,0.0,0.212,0.601,119.892,4,french
+5pVFQcYx5ESJDoB9ZZPVdb,Zamdane,20's,Disaster,35,169277,False,0.641,0.468,2,-8.408,1,0.369,0.759,1.15e-06,0.109,0.486,122.119,4,french
+7mzU3O4ixZNhShH6SrCInw,Django,Anthracite,Anthracite,35,142222,True,0.64,0.459,2,-8.439,1,0.25,0.448,5.75e-05,0.107,0.14,100.071,3,french
+0BD9boQC7jUTWkAoib4Z0d,Soolking;Dadju,Vintage,Meleğim,65,220280,False,0.682,0.697,3,-4.276,0,0.0757,0.188,0.0,0.334,0.57,95.012,4,french
+41SRUviAhdtZAJLKhJs6Uu,DA Uzi,L’impasse,L’impasse,34,165906,True,0.715,0.564,2,-7.164,0,0.188,0.653,0.0,0.0995,0.878,131.395,3,french
+2WiKD8U7aq9ACPxMR3mmK1,MR TOUT LE MONDE,SUN,Wrong Love,53,170044,False,0.663,0.687,10,-8.896,0,0.069,0.459,0.286,0.252,0.315,110.003,4,french
+1vYOxzQBlZ7Iz8YY1qDm5f,Tchoupi,T'choupi fait son spectacle,Le chat,34,140960,False,0.862,0.653,9,-5.598,1,0.0527,0.191,0.0,0.0812,0.691,107.13,4,french
+4FnK3GEuekjYXavXPIGlmQ,Alexandre Desplat;Jean-Yves Thibaudet,Extremely Loud and Incredibly Close (Original Motion Picture Soundtrack),Extremely Loud and Incredibly Close,56,117673,False,0.474,0.0118,9,-31.108,0,0.0318,0.991,0.891,0.0622,0.0656,79.1,3,french
+1sTRr45HiInR6ZigZATPzL,D.ACE,Mangas,Mangas,33,132989,False,0.708,0.791,9,-5.475,0,0.227,0.338,0.0,0.0918,0.92,76.014,4,french
+4PWxt9Fy949kUtkEi2GI5V,Gojira,L'Enfant Sauvage (Special Edition),L'enfant sauvage,58,257733,False,0.143,0.995,8,-5.698,1,0.185,0.000146,0.438,0.364,0.079,87.803,3,french
+7iMQChXFK33TS49QWhE4tt,Gojira,The way of all flesh,The art of dying,57,594213,False,0.493,0.83,0,-5.983,0,0.105,0.000308,0.543,0.102,0.114,137.967,4,french
+155CBDWW4MBdHyKNv6sN3U,So La Lune,Tsuki,6 sens,35,225507,True,0.81,0.504,5,-8.071,0,0.129,0.657,0.0,0.139,0.529,120.061,4,french
+6UWHPiDxBtTrktr4hjKlj0,Vald,NQNT,Par Toutatis,34,222335,False,0.879,0.675,2,-5.454,1,0.268,0.206,0.0,0.235,0.622,131.198,4,french
+5Zp1zCKzXQGZxiBU2FGjdf,Youri,"Tsar Trap, Vol. 3",Tel Aviv,35,184616,True,0.655,0.607,10,-8.755,1,0.442,0.00373,0.0,0.16,0.414,106.547,5,french
+6Zw0NBdfr1VlVJjDRFwUe1,Moriarty,Gee Whiz But This Is a Lonesome Town,Jimmy,63,264826,False,0.748,0.305,10,-9.166,0,0.034,0.901,3.11e-06,0.103,0.263,126.149,4,french
+42HcUrNxi8D63EOwr8Cg5c,BB Brunes,Nico Teen Love (Edition Deluxe),Lalalove You,32,180813,False,0.616,0.757,9,-6.048,0,0.028,0.00033,1.14e-05,0.279,0.831,130.274,4,french
+1F483X66iokesCpYEQkbcG,Kyo,La part des lions,Enfant de la patrie,32,183373,False,0.586,0.851,2,-4.254,1,0.0548,0.0185,0.0,0.351,0.761,83.014,4,french
+79XGrJPrQYdg3Qv1DfeSHe,Josman,M.A.N (Black Roses & Lost Feelings) [Bonus],Interdit (Interlude),34,142720,True,0.896,0.421,0,-10.026,1,0.434,0.132,1.53e-05,0.113,0.409,95.021,4,french
+4tLkJPg3sV1SVvSA34CtXe,So La Lune,1ère Faille (L'Afar),Montana,35,151750,True,0.84,0.65,1,-7.724,1,0.357,0.142,0.0,0.106,0.649,115.027,4,french
+0bIDncNZTbwa1mRQ8nasHr,So La Lune,3ème Faille (San Andreas),Gina,35,168668,True,0.734,0.493,5,-9.826,1,0.0817,0.267,0.0,0.0926,0.426,137.966,4,french
+5Afd5L4ovAvBpgOBI6lk7L,Les Rita Mitsouko,Variéty,Même si,33,212800,False,0.482,0.72,5,-5.237,1,0.034,0.326,0.000426,0.12,0.662,203.98,4,french
+5vJC6EHHjEfEqFSkAcLIg5,-M-,En Tête-A-Tête,Mama Sam - Live 2005,33,388159,False,0.575,0.855,4,-6.726,0,0.193,0.216,4.77e-05,0.954,0.333,114.251,4,french
+7cTmN2Xe67zAInUHw67IVD,Bekar,Avalanche,Avalanche,34,191466,True,0.808,0.615,1,-8.207,0,0.306,0.164,0.0,0.11,0.412,123.148,4,french
+7qKMFqPDqD8QuwGutv6F5m,DENZO,La pépite,La pépite,34,118821,False,0.72,0.569,1,-10.327,0,0.555,0.435,1.36e-05,0.0789,0.105,139.93,4,french
+1i7Vc7WByNZpKjOCt94p4D,Lujipeka,Montagnes Russes,Le seum,34,139400,True,0.842,0.521,9,-6.454,0,0.171,0.215,0.0,0.182,0.79,103.004,4,french
+4nceGFzMae98fnUCjhzbpF,Glorious,Electro Pop Louange,Dans La Joie,33,280621,False,0.596,0.649,2,-6.313,1,0.0348,0.011,1.08e-05,0.107,0.304,119.944,4,french
+39PeeCsRLmwLg4fhKJ8tSb,Swift Guad,"Vice & vertu, vol. 2",Amstramgram,34,228500,False,0.509,0.629,0,-10.909,0,0.42,0.661,0.0,0.107,0.361,78.142,4,french
+2hmCyffvKkkCb98nQazWIM,Ben Mazué,Ben Mazué,Papa,33,225653,False,0.506,0.469,7,-8.695,1,0.255,0.517,0.0,0.117,0.738,73.358,4,french
+7ijOLIYbAqtLsqMpjWYMfL,Jules Massenet;Nicola Benedetti;London Symphony Orchestra;Daniel Harding,Szymanowski: Violin Concerto No.1,Meditation: Méditation from Thaïs,47,337253,False,0.2,0.0686,2,-23.415,1,0.046,0.873,0.402,0.0911,0.0358,91.498,4,french
+7AALbooevgNyqFpc59j8wd,Julien Granel,COOLEUR,COULEUR,33,201400,False,0.644,0.591,0,-7.559,1,0.0274,0.148,0.00323,0.0903,0.379,103.027,4,french
+7hSTh1YWoPGMlVnevO6Rev,Astonvilla,Aston Villa,Raisonne,33,307440,False,0.449,0.788,4,-6.745,0,0.035,0.00211,0.0215,0.196,0.33,80.119,4,french
+7KBotkRcWIrSUZvs55WU1S,Ben Mazué,Paradis (réédition),Divin exil,33,196680,False,0.484,0.37,10,-12.196,1,0.0403,0.55,0.000619,0.113,0.549,105.678,3,french
+5qI3oh6jptYaTZR5fct0ZF,Marie-Flore,Je sais pas si ça va,Mon coeur y va bien,33,162293,True,0.696,0.512,0,-7.215,1,0.0409,0.141,0.0,0.108,0.586,126.07,4,french
+3w7oa1Jx7IXrII3B5pB3CK,100 Blaze;Lacrim,RAP MUSCULATION RENTRÉE 2022,Phenomenal,0,235538,True,0.779,0.91,1,-3.717,1,0.346,0.183,0.0,0.111,0.491,139.976,4,french
+7qFW8kp1WUn3nvWYDjhqI6,100 Blaze,RAP MUSCULATION RENTRÉE 2022,D.S.C.P,0,156653,True,0.771,0.456,10,-11.036,0,0.439,0.122,0.0,0.136,0.607,148.062,4,french
+4R8cBLCm1FG3cdEtLLXBl1,Georges Brassens,Georges Brassens interprète ses dernières compositions N°2,Il n'y a pas d'amour heureux,33,146280,False,0.634,0.0901,6,-16.02,0,0.0748,0.954,6.16e-06,0.12,0.513,81.056,4,french
+0NXZvYMBQ5TQN5QBODOa3q,Stupeflip;Sandrine,Stup Virus,Forcefield,32,130199,False,0.715,0.565,6,-11.518,0,0.0725,0.0165,0.344,0.177,0.323,136.008,4,french
+2963yhZUT0SGPudxNfsEAB,La Rue Kétanou,Ouvert a double tour,Personne n'a le prénom de ma femme,32,180826,False,0.511,0.754,9,-5.982,0,0.333,0.608,0.0,0.92,0.9,76.001,4,french
+1OOeO3v4M8JJoHINVKU051,Renaud,Marchand de cailloux,500 connards sur la ligne de départ,33,223733,False,0.513,0.83,7,-10.741,1,0.0426,0.699,0.0,0.363,0.923,161.961,4,french
+1x7Ts6pnwIwOOo0vSMNndW,Her,Her Tape #1,Her,54,258264,False,0.698,0.458,7,-8.735,0,0.0348,0.808,0.0962,0.151,0.114,94.969,4,french
+4Nnhxs3I2IuHn9vZBu6TDO,Duñe;Crayon;Ichon,Hundred Fifty Roses,Pointless,45,172529,True,0.521,0.299,11,-7.905,0,0.149,0.247,1.24e-05,0.107,0.329,51.293,4,french
+6koq1DWY1e6JVFy7wQgYCo,KAS:ST;Gordo;Ki Bae,Leaving Earth,Leaving Earth,49,303431,False,0.573,0.891,4,-7.074,0,0.0452,0.00908,0.835,0.0601,0.038,129.976,4,french
+4w4fTlQRxtXaTpvSqSqDaM,Else,Ambre,Ambre,49,240625,False,0.492,0.806,8,-6.31,1,0.0427,0.221,0.67,0.225,0.143,96.065,4,french
+7fbdTbr12vcmJhWgp58dvO,Moi Je,Profite (Remixes),Profite - Kazy Lambist Remix,61,198688,False,0.753,0.645,5,-6.738,0,0.0435,0.186,0.0725,0.123,0.604,122.004,4,french
+2GuIRSthEpYN5MO6PGD7Vx,Polo & Pan,Dorothy,Dorothy,59,316372,False,0.803,0.427,8,-10.819,1,0.0509,0.0245,0.405,0.0953,0.439,118.008,4,french
+5ioieZofgvXQK70RFhVohl,PLK;OBOY,Enna Boost,Attentat,71,194266,True,0.844,0.656,7,-5.935,0,0.216,0.192,1.82e-05,0.115,0.398,99.983,4,french
+0eXIlXgGQTD6hezaxdl3wO,Miel De Montagne,Miel de Montagne,J'y peux rien,59,181803,False,0.806,0.458,8,-11.019,0,0.0382,0.129,0.322,0.0998,0.21,114.019,4,french
+3uRAxz8ic40d9IuNe8fnsb,Jako Diaz;Margret,Mirror,Mirror,63,242000,False,0.659,0.674,9,-10.415,1,0.0451,0.638,0.674,0.602,0.0642,120.015,4,french
+636ieo1frTLl9XvQwalG1o,Thylacine,Anatolia,Anatolia,50,309840,False,0.77,0.665,1,-11.045,1,0.0671,0.406,0.862,0.109,0.172,119.998,4,french
+68av1mZz0VsIYXJWATZWUW,Soolking;Dhurata Dora,Zemër,Zemër,63,224713,True,0.782,0.864,11,-2.918,0,0.053,0.299,0.0,0.0876,0.941,156.989,4,french
+18MlLrfCkYOnKutil99GwY,NTO,Alter Ego,Alter Ego,52,444878,False,0.716,0.534,6,-9.327,1,0.0531,0.00729,0.74,0.0682,0.271,123.003,4,french
+2m8dDOhC8fIaCFQ53c1l5z,Y.V.E. 48,There For You,There For You,56,165500,False,0.7,0.422,8,-14.276,0,0.0356,0.523,0.424,0.12,0.193,111.967,4,french
+7LihoPgTF9hnxMh9lRTNkA,Emrod,Jennesys,Jennesys,56,240000,False,0.646,0.83,0,-8.398,1,0.0395,0.21,0.836,0.115,0.137,124.009,4,french
+2frQh7VPaDY3y6a7ZoGw33,Magic System;Chawki,Magic In The Air: la compilation,Magic In The Air (feat. Ahmed Chawki) - Version Champions du Monde 2018,44,233600,False,0.649,0.913,2,-3.47,1,0.048,0.204,0.0,0.128,0.912,127.989,4,french
+0LNMSp3yVRnXiv4pxuIRJZ,MUNICH MONSTRS;Nick Yume,Ain't No Sunshine,Ain't No Sunshine,58,147157,False,0.747,0.526,9,-9.059,0,0.0475,0.52,0.000616,0.133,0.288,95.014,4,french
+7nkxIKWh0PQYwYcKmwt1Fj,Panta Ray;Leonel P;Anna-Sophia Henry,Highly Functioning,Highly Functioning,54,219637,False,0.834,0.547,7,-12.108,0,0.0516,0.223,0.11,0.197,0.596,113.009,4,french
+4U4bS5ORFFvXIsqFQjAzIW,Feder;Kairos Grove,"Me, Myself and Miami (feat. Kairos Grove)","Me, Myself and Miami (feat. Kairos Grove)",0,158873,True,0.733,0.792,9,-4.003,0,0.344,0.0865,0.0,0.371,0.551,142.091,4,french
+4VbgBIyek7eDZasMZ2OBQn,Spider ZED,Mes Ex,"Mes Ex, Pt. 3",34,97333,False,0.71,0.398,6,-10.816,0,0.296,0.474,0.0,0.121,0.796,179.984,4,french
+3MsEj3a4VkrgveoFE8JAXO,Captaine Roshi;Alpha Wann,Attaque II,Détail,34,182280,True,0.86,0.632,4,-6.777,0,0.273,0.15,0.0,0.096,0.686,74.998,4,french
+742Bg0cIn3YxM28PomtUeM,D.ACE;Demi Portion;Ol Kainry;Tiers;Zoro L'Frérot,Nakama,Le club,33,210000,False,0.631,0.729,9,-7.718,0,0.295,0.513,3.85e-05,0.0723,0.671,91.433,4,french
+6z7d5pPjVh9Ikq7HZzdyP8,D.ACE,Nakama,Tierlist,33,179600,False,0.534,0.455,11,-9.553,1,0.386,0.466,1.38e-06,0.109,0.427,82.626,4,french
+1x4wr4JsHHZKsUqTJqyqCg,Alkpote;Caballero & JeanJass,Ninjas et gargouilles (Les marches de l’empereur Saison 3 / épisode 2),Ninjas et gargouilles - Les marches de l’empereur Saison 3 / épisode 2,34,243809,True,0.838,0.565,3,-9.285,1,0.265,0.219,0.0,0.124,0.427,125.973,4,french
+7eHc2nQ1tKJHEwR3ge2ZQy,MadeInParis,Sensationnel,Sensation,34,182426,True,0.507,0.677,7,-7.353,0,0.088,0.308,5.97e-05,0.133,0.491,68.531,4,french
+5skmucgeOLKZzQOYJnfSqo,91 All Stars;LE RISQUE;Zokush;Daks,La famille,La famille,34,208733,False,0.702,0.799,6,-4.241,0,0.109,0.263,0.0,0.281,0.571,139.997,4,french
+2xawhXN7xO01JqhSoaKCIW,Sofiane;Sifax,La Direction,Bout de papier,33,182746,False,0.857,0.621,2,-5.302,1,0.298,0.305,0.0,0.139,0.414,129.872,4,french
+30y3V4UWyXfbCyIPfwVGAU,Luv Resval,Etoile Noire : Nébuleuse,Pellicule,34,201386,True,0.73,0.743,1,-5.871,0,0.216,0.274,0.0,0.303,0.351,162.97,4,french
+74my4kR2tAZrC2tJBJvitW,Lomepal,FLIP (Deluxe),70 - Live acoustique,33,234680,True,0.481,0.533,5,-7.589,0,0.504,0.83,0.0,0.694,0.576,85.204,4,french
+4a0qRi121ryIbl3jfcSROV,Keen' V;Dely Kate,Dilemme (feat. Dely Kate),Dilemme (feat. Dely Kate),33,191500,False,0.788,0.673,0,-4.98,1,0.095,0.0787,8.26e-06,0.123,0.361,90.013,4,french
+5swhl8mbCWW9UvSFpfSuBx,Hugo TSR,Fenêtre Sur Rue,Intact,34,280660,False,0.807,0.674,0,-7.49,1,0.349,0.112,0.0,0.0914,0.571,92.956,4,french
+0Yr1TfeacyGFyDe0aWDla9,Étienne Daho;Italoconnection,Virus X,Virus X - SAGE Rework - radio edit,32,165386,False,0.706,0.766,7,-6.055,0,0.0792,0.00513,0.0192,0.199,0.661,101.999,4,french
+7fcL2cL9h0lCOK7zcXilR7,Lujipeka,Montagnes Russes,2 âmes,34,117053,True,0.88,0.539,10,-7.065,0,0.27,0.466,0.000161,0.102,0.749,105.0,4,french
+7j1WLY4GfFuUYCw5CTugiE,Carbozo;Sasso,"Carbozo, Vol. 1",J'en veux encore,34,183253,True,0.807,0.844,10,-4.425,0,0.0544,0.0678,0.0,0.11,0.436,127.976,4,french
+75j5Ue04YUwJ1ADxux8iXo,Koba LaD,L' Affranchi,C’est moi,34,179600,True,0.824,0.716,5,-4.909,1,0.136,0.152,0.0,0.135,0.506,130.035,4,french
+7xwRFIxcKvJhYkKISwKOCL,Massilia Sound System,Òai E Libertat,Massilia Fai Avans,32,221518,False,0.759,0.836,8,-4.762,1,0.312,0.072,0.0,0.0167,0.736,159.836,4,french
+63BT1ZA8NSk0soGSmKQVfq,Mister Gang,Liberté illégale,Tout le monde est là,33,178920,False,0.776,0.64,0,-10.67,1,0.11,0.0296,1.74e-06,0.105,0.84,166.116,4,french
+6wptozcE7gLLscFWnhUgxB,Miss Kittin;The Hacker,Tsugi Electro,Frank Sinatra,2,232417,False,0.866,0.847,10,-4.498,0,0.041,0.000937,0.0145,0.0549,0.644,124.841,4,french
+4zysmLfPxdLETAb5kkvuZP,Ben Mazué,Paradis (réédition),Nulle part,32,191280,False,0.413,0.459,5,-11.075,0,0.19,0.696,0.142,0.12,0.614,179.918,3,french
+6DQOlhzKCp0hV99zZfvYIk,Soldat Louis,Itinéraires 1988-2006 (Le meilleur de Soldat Louis en 30 chansons),Tonton Louis,32,268760,False,0.745,0.4,7,-14.693,0,0.0268,0.651,0.0,0.168,0.545,99.921,3,french
+43nB4BTmfrOZ80QYrD3Ap2,Emily Loizeau,Icare,Celle qui vit vers le sud,32,184315,False,0.399,0.333,9,-14.247,1,0.0306,0.699,6.71e-05,0.102,0.244,100.418,4,french
+5kCM7Rqd0hnwgCuNLZlags,Columbine,"Adieu, au revoir",Jrefaiscequejevois,34,249080,True,0.612,0.553,1,-7.809,1,0.0584,0.625,0.0,0.11,0.282,90.062,4,french
+0TCuE3btejwV6EXbrxASwY,Alain Chamfort,L'amour en France,Adieu mon bébé chanteur,32,162746,False,0.69,0.904,9,-9.69,1,0.0302,0.314,0.0,0.166,0.981,130.299,4,french
+0wH6J4Qvjdy1SBQGORpSAq,Les 3 Fromages;Les Fatals Picards,Matures & découvertes,BB Rockers,32,182153,False,0.598,0.931,7,-2.533,1,0.0548,0.0109,0.0,0.291,0.719,130.054,4,french
+0SwrpK6ZkaoGvBrdbrklFh,Lynda Lemay,Lynda Lemay,Les Souliers verts,34,254640,False,0.609,0.563,10,-10.399,0,0.0764,0.312,0.0,0.109,0.398,115.805,4,french
+4lsxE7TLiXz8n7E22yZayg,Starshooter,Starshooter [1er Album],Betsy Party - Remasterisé en 2010,32,193640,False,0.176,0.939,4,-5.363,1,0.0995,0.0155,0.00966,0.849,0.553,188.798,4,french
+4HTy9X5DCSc0Beo9IXXgLf,Les Fatals Picards,Le syndrome de Göteborg,Les Playmobils complotistes,32,274506,False,0.754,0.519,7,-7.169,1,0.03,0.0964,2.88e-06,0.106,0.503,99.993,4,french
+5inFYGvCcHwG2cvjG6XkRo,Les Fatals Picards,10 bitures de pêche,Goldorak est mort,32,171813,False,0.341,0.933,7,-1.66,1,0.0932,0.00125,0.0,0.314,0.848,176.984,4,french
+3Jzmf2dDBpZ8DUtIwoEeWE,Michel Berger,Beaurivage (Remasterisé en 2002),Mademoiselle Chang - Remasterisé en 2002,33,289293,False,0.848,0.815,7,-7.679,0,0.0304,0.276,0.0499,0.331,0.967,120.445,4,french
+4pYkPdL9sIWzoFLZlttIh3,Philippe Lafontaine,Cœur de Loup / Et dire / Parlez-moi d'elle encore,Cœur de loup,32,222580,False,0.796,0.468,11,-10.482,0,0.172,0.442,0.0,0.0668,0.917,94.584,4,french
+5kCSv8whN36gYuvYJbDPOo,Liane Foly;The Pinnacle Gospel Choir,La Princesse et la Grenouille (Bande Originale Française du Film),"Creuse encore et encore - De ""La Princesse et la Grenouille""/Bande Originale Française du Film",33,168026,False,0.694,0.898,0,-5.453,1,0.109,0.432,0.0,0.0783,0.641,98.085,4,french
+4BhAN9ph0KpIOCvDxkKhFz,Trinix,No Sleep,No Sleep,50,182400,False,0.742,0.597,1,-9.405,0,0.0307,0.297,0.00836,0.114,0.121,100.056,4,french
+66BDXKHZOvvz4CwZovEMwH,Lavern,Sunshine,Sunshine,59,142674,False,0.682,0.552,2,-12.351,1,0.0461,0.814,0.444,0.194,0.0946,111.898,4,french
+6hzi3AGB39FjxFqcjgbWs7,PNL,Deux frères,Deux frères,73,247459,True,0.794,0.659,7,-7.063,0,0.0498,0.143,0.00224,0.0944,0.308,112.019,4,french
+0hiaru68mN9eHiKKLwl60e,Eneko Artola;NSH,Don't You Forget,Don't You Forget,54,154146,False,0.844,0.621,4,-8.887,1,0.0436,0.339,0.0247,0.0995,0.36,120.008,4,french
+7dNqszkx1prIf0m33E8gDw,Kid Francescoli;Julia Minkin,With Julia,Blow Up,55,315086,False,0.693,0.406,9,-8.154,1,0.0524,0.571,0.782,0.115,0.571,104.987,4,french
+2h4wIFtj26OnX7aW1zmest,Prigida,Last Time,Last Time,55,133565,False,0.641,0.853,6,-10.147,1,0.0577,0.505,0.735,0.0796,0.0366,115.037,4,french
+7texBUhFxiH5nsSYPKnJ8Y,Kedam,Night Out,Night Out,53,219755,False,0.858,0.517,6,-11.374,1,0.0984,0.0192,0.894,0.107,0.266,120.018,4,french
+6qSeyDQjR9cBtopcSS626e,Drics,Won't Fall,Won't Fall,55,190260,False,0.73,0.385,2,-15.808,1,0.113,0.283,0.861,0.0792,0.0398,120.024,4,french
+4s7QgMMyMlol6ccHoSwyyQ,Xad;Joel Stewart,Time For Reason,Time For Reason,54,212506,False,0.733,0.488,1,-12.761,1,0.11,0.838,0.28,0.108,0.253,119.998,4,french
+6Vk0CuNEJnDJvM9QaHheeJ,Billx;Shanti People,Parvati Shankara,Parvati Shankara,43,231000,False,0.427,0.961,1,-4.793,1,0.118,0.000471,0.00986,0.107,0.139,160.027,4,french
+0hOW6iNtMXxl9UB70gt8Bc,Caballero & JeanJass;Lomepal,High & Fines Herbes,Brillant,34,160746,True,0.735,0.567,1,-8.228,1,0.171,0.0242,1.3e-05,0.417,0.408,106.146,4,french
+6vi4I2vZkN5mDePmVSSVTq,M83,"Hurry up, We're Dreaming",Reunion,49,235386,False,0.427,0.823,7,-4.997,1,0.0466,6e-05,0.000129,0.127,0.311,124.024,4,french
+2e1WR9PYEAyuu9k5hNHHI1,The Avener;Kadebostany,The Wanderings Of The Avener,Castle In The Snow,57,212893,False,0.664,0.807,4,-4.855,0,0.0463,0.0173,2.98e-05,0.0893,0.641,98.017,4,french
+6zDoJPNO6ma2VPaRhNQOKe,Worakls;Ben Böhmer;Eivør,Orchestra (Remixes),Red Dressed - Ben Böhmer Remix,48,358587,False,0.588,0.492,9,-9.111,0,0.0931,0.000573,0.726,0.256,0.328,123.991,4,french
+1uXUZfJykefWuwj9VtyxIq,NTO;Worakls,Hungry 5 (The Best of 5 Years),Trauma - Worakls Remix,56,600121,False,0.799,0.484,2,-10.484,0,0.0409,0.564,0.93,0.0863,0.136,128.006,4,french
+4MteadAdoJXNnuBIa0Q1ZK,Lilly Wood and The Prick,Invincible Friends,Prayer In C,51,190132,False,0.693,0.141,9,-14.368,0,0.0366,0.541,0.000873,0.113,0.091,94.0,4,french
+7vVcQ3qUJkHZ5pZrxZaOVa,Lucenzo;Don Omar;Big Ali;Luigi Ramirez,Danza Kuduro 2019 (Luigi Ramirez Remix),Danza Kuduro 2019 - Luigi Ramirez Mix,48,200769,False,0.588,0.738,0,-7.519,1,0.222,0.0104,0.0,0.128,0.336,129.932,4,french
+1PiASZMKp39IsWwiiIYgPO,Polo & Pan,Cyclorama,Ani Kuni,59,277520,False,0.662,0.621,0,-6.158,1,0.0291,0.204,0.591,0.0658,0.0477,120.998,4,french
+0o3c5qfqOU5b3Vrlmx7TUP,Lomepal;Alpha Wann,Majesté,Chienne de vie,33,284120,False,0.508,0.701,0,-6.411,1,0.247,0.491,0.0,0.437,0.243,148.207,4,french
+2ZHg57ek1pKrnt5uNzzZRi,-M-,qui de nous deux,Sous ta peau,32,225320,False,0.658,0.583,11,-10.327,1,0.0339,0.0284,0.000274,0.108,0.447,104.079,4,french
+2KPwU1SPsfViaOKLrtfn3U,-M-,qui de nous deux,La corde sensible,31,211773,False,0.253,0.157,10,-16.035,0,0.0314,0.876,0.113,0.106,0.182,65.165,3,french
+56YLNejnyHdf3yiJg8fDUp,Vald,NQNT33,Rhumance,34,185060,True,0.52,0.775,10,-6.284,0,0.392,0.105,1.57e-05,0.084,0.651,82.89,4,french
+22bEOzAZRu4dtmLqjiXuGN,Taïro,Ainsi soit-il,Dilemme,32,249213,False,0.569,0.553,7,-6.724,0,0.203,0.0741,0.0,0.0955,0.712,79.371,4,french
+7LLcCqoQOhfgBbap9WRs1H,So La Lune,Théia,I8,34,218438,True,0.735,0.304,4,-12.471,0,0.156,0.69,0.0,0.0584,0.39,116.363,4,french
+4RLS7zLMhbApSUHe8Evp1G,Poupie,Enfant Roi,Pur,33,153853,False,0.726,0.417,4,-6.64,1,0.0335,0.651,0.0,0.518,0.274,122.637,3,french
+1VgzZhrDM5zKjXxlEaSr6U,Sexion d'Assaut,Best of,Wati by Night,34,248866,False,0.929,0.758,2,-2.614,1,0.152,0.139,0.0,0.0213,0.742,114.951,4,french
+3U2aOihx5r67vwYHO5igXE,RK,Rêves de gosse,Indécis,34,199369,True,0.818,0.742,8,-5.289,0,0.269,0.651,0.0,0.149,0.53,139.966,4,french
+68lnnqUEbjOv8jZ3KhQy5m,-M-,Lettre infinie,Thérapie,32,178693,False,0.558,0.657,8,-9.657,0,0.0404,0.588,0.00536,0.112,0.544,107.862,4,french
+1MFdvtOsTFLGaTazPICuGs,Captaine Roshi;Timal,Fast Life,Fast Life,34,188106,True,0.749,0.68,1,-6.188,0,0.276,0.377,0.0,0.12,0.59,155.048,4,french
+6w5aPn3t2c2dYid5zaItjf,Zed Yun Pavarotti,Beauseigne,Mon frère,33,228252,False,0.663,0.445,6,-7.364,0,0.0306,0.217,0.0,0.104,0.28,120.115,4,french
+2pZsQqXFgcY03vRyZxSQhU,Gojira,From Mars to Sirius,The Heaviest Matter of the Universe,58,237840,False,0.243,0.97,5,-2.518,0,0.0878,2.6e-06,0.0415,0.284,0.243,102.729,4,french
+5rYr8uocUvAjoS1lviNmly,Patrick Fiori;Slimane,Promesse,Promesse (with Slimane),33,182026,False,0.648,0.74,1,-5.392,1,0.0386,0.438,0.0,0.0772,0.522,130.01,4,french
+0sC2VnAdZsCWd4qVTw7CvB,Luther,IDD,Chrysant3mes,33,136617,True,0.703,0.548,1,-10.643,1,0.65,0.119,0.0,0.0911,0.444,170.056,4,french
+44h041D14k51xKXPG0KztZ,Swift Guad,La chute des corps,J'attends un miracle,33,214388,True,0.55,0.522,6,-7.685,0,0.228,0.739,0.0,0.212,0.63,76.603,4,french
+61hWXxafFxRqPG6Bhc6oum,Claude Barzotti,Je Reviens D'un Voyage (Live À L'olympia),Mais Où Est La Musique,32,194920,False,0.693,0.746,0,-9.78,0,0.089,0.209,2.11e-06,0.973,0.638,129.048,4,french
+7bq1UByhd0fUN4zOZcAquH,Renaud,Boucan d'enfer,Baltique,33,176493,False,0.533,0.313,0,-14.724,1,0.0416,0.73,1.54e-05,0.139,0.472,94.44,4,french
+4mxvmWj7oqjUJRpGGswdwp,Lorenzo,Empereur du sale,Sale babos de merde,34,166515,True,0.83,0.541,2,-8.695,0,0.461,0.658,0.0,0.0937,0.484,130.069,4,french
+7cUBBeNGt4jfVcwXJeiJJZ,Djadja & Dinaz,Spleen,Ca va aller,34,172213,True,0.793,0.593,4,-7.417,0,0.207,0.115,0.0,0.117,0.381,139.05,4,french
+6pC8O5jF0ckyJNAwa1kA3f,Dominique A,Nouvelles du monde lointain,Nouvelles du monde lointain,32,192400,False,0.541,0.362,1,-11.012,0,0.031,0.542,0.00024,0.0938,0.221,120.595,4,french
+5zBKLL980Mcy80pgH7Lb4U,Sergent Garcia,La Semilla Escondida,El Regreso,33,537066,False,0.877,0.773,7,-3.118,1,0.0352,0.154,0.000414,0.0889,0.796,99.951,4,french
+2A6DhFsTv4TRNNG7ua7pbt,Renaud,Renaud (Deluxe Version),Héloïse,32,131786,False,0.561,0.527,9,-8.424,1,0.0295,0.651,0.0,0.11,0.647,95.917,4,french
+6LJ9ERF6iox8Zp1SeKEDYL,Ben Mazué,Paradis (réédition),Les jours heureux,32,183440,False,0.734,0.49,9,-10.726,0,0.126,0.838,3.37e-05,0.238,0.722,115.007,4,french
+5czoeqJk0IQc8c7kCSqQRL,Stupeflip,Stup Religion,35 animaux morts,32,161573,False,0.716,0.988,1,-2.715,1,0.165,0.11,0.0,0.768,0.642,115.058,4,french
+6hWgYiiafHmpFFSTDnb1eD,Parabellum,Gratuit: 2 Morceaux en Moins,Ilot Amsterdam,32,182440,False,0.318,0.95,11,-7.842,0,0.104,0.000167,6.94e-06,0.0722,0.369,100.224,3,french
+6ql19mxUHWS34Wqa7VhdUi,Stupeflip;Hélène,Stup Religion,Stup danse,32,209466,False,0.792,0.931,11,-2.571,1,0.0489,0.206,0.0,0.321,0.858,97.972,4,french
+76msL2R0fii1Rk2Sf88O33,Michel Berger,Michel Berger (Remasterisé en 2002),Pour me comprendre - Remasterisé en 2002,33,217533,False,0.412,0.485,4,-8.305,0,0.028,0.819,0.0148,0.115,0.184,131.67,4,french
+4grqfe2UnI62nEqvzHhAmU,Laurent Voulzy,Belle Ile En Mer,"Bubble Star, Pt. 1",33,225746,False,0.618,0.731,9,-10.728,1,0.0385,0.124,0.0,0.381,0.759,133.917,4,french
+7AJ2OCJ1mDnOLW0NnJwqfU,Stupeflip,The Hypnoflip Invasion,Keep the Faith - Interlude 7,32,72160,False,0.715,0.991,7,-7.376,1,0.269,0.859,0.0944,0.356,0.0371,98.469,4,french
+5Jyp68GyLYmTtreUjsTlJ4,Stupeflip;MC Salo,Stup Virus,Le trou noir,32,304506,False,0.482,0.527,5,-9.178,0,0.1,0.372,0.102,0.242,0.252,73.662,4,french
+626KJ8oTkNs9znR1nDqq1k,Stupeflip,The Hypnoflip Invasion,Ancienne prophétie - Interlude 5,32,36346,False,0.531,0.819,5,-8.199,1,0.209,0.678,0.000163,0.677,0.629,82.034,4,french
+6EjTmLZVdDfp66yawG1CDb,The Blaze,Dancehall,Queens,54,234680,False,0.617,0.589,2,-12.767,1,0.0457,0.69,0.268,0.0958,0.0301,125.058,4,french
+3t9AQbyfGnVbe3xuTg9PEX,Vendredi sur Mer,Premiers émois,La femme à la peau bleue,56,206546,False,0.673,0.557,11,-6.645,0,0.0446,0.502,0.519,0.369,0.282,99.972,4,french
+7Bz5B6hEU5TS145QYTfc3k,Soolking;Boro Boro,Suavemente,Suavemente,73,157714,True,0.854,0.682,7,-5.212,1,0.053,0.335,0.000926,0.0569,0.507,140.019,4,french
+7FbMYA708SVxzWp92OUNXz,French 79,FOIX,FOIX,49,245945,False,0.726,0.444,11,-14.347,0,0.0537,0.555,0.894,0.107,0.164,119.998,3,french
+3YDo9vofdadozleiiPTjUa,The Blaze,Territory,Sparks & Ashes,54,184000,False,0.685,0.319,5,-14.189,1,0.0569,0.657,0.931,0.156,0.151,127.001,4,french
+3VdTkrOXjoKe4nutykkoz1,The George Kaplan Conspiracy,Recollected Memories,Again,53,244522,False,0.661,0.46,9,-10.224,1,0.0484,0.134,0.675,0.0842,0.232,105.006,4,french
+7IXQrRgmHxWYWitSlyFY7z,Kerchak;Ziak,Peur (feat. Ziak),Peur (feat. Ziak),75,190213,True,0.715,0.836,11,-4.972,1,0.366,0.203,0.0,0.0288,0.777,160.015,4,french
+3Q8CwfdyDIjHdlItATIxLt,Prigida,Passage,Passage,55,130188,False,0.688,0.547,2,-8.754,1,0.0578,0.678,9.3e-05,0.111,0.0528,106.048,4,french
+6IVxzXBmoXk1TSoI2yrqGT,The Blaze,Dancehall,Runaway,52,255026,False,0.67,0.6,8,-9.868,0,0.057,0.0358,0.534,0.0857,0.21,95.004,4,french
+0G6rdIsquisxkZZSUzLGxq,Billx;Black Muffin,Irish Legend,Irish Legend,46,342348,False,0.377,0.976,9,-2.445,1,0.142,0.0462,0.781,0.0874,0.225,143.02,4,french
+3dQkixAA0EprLAfta5lw2S,Coffee Cub,Ibiza,Ibiza,59,145833,False,0.687,0.414,1,-9.662,1,0.0526,0.124,0.334,0.101,0.378,108.065,4,french
+4Gonfq9ClHR585pQHvKgWh,Alex Baker,Soft Focus,Water Colors,53,206400,False,0.611,0.452,2,-13.359,0,0.0491,0.545,0.553,0.114,0.101,100.004,4,french
+0LuShx5q0CPiZZjSWHK7tN,The Dø,Shake Shook Shaken,"Despair, Hangover & Ecstasy",54,173814,False,0.681,0.827,2,-7.352,0,0.0329,0.0101,1.29e-05,0.149,0.763,143.014,4,french
+3gnZbqBrwCJPf2hvgAgW4I,Alex Keeper,Close to Me,Close to Me,52,167058,False,0.597,0.516,1,-12.589,0,0.0344,0.773,0.556,0.128,0.0677,102.06,4,french
+3glNWhZ110B2DLJcCyPfGt,Sara Costa,Ants in Pants,Ants in Pants,54,150000,False,0.666,0.626,9,-7.733,1,0.0862,0.503,0.00025,0.449,0.404,109.876,4,french
+1QY1XwW35qIyzavlWOCcZo,Wavey,Forever,Forever,56,142222,False,0.725,0.407,2,-11.451,0,0.0448,0.175,0.687,0.706,0.262,107.991,4,french
+3EEzQDCP8jRl2pEt9eDKMO,Melody's Echo Chamber,Melody's Echo Chamber,I Follow You,49,215586,False,0.41,0.78,9,-4.941,0,0.0327,0.0174,0.408,0.233,0.727,100.452,4,french
+4IR1ZygDYovtGiuyZFxgNt,La Fine Equipe,La boulangerie (Back Burners),Tiramisu fraise,57,139464,False,0.801,0.586,5,-6.769,0,0.0319,0.526,0.0138,0.146,0.886,83.656,4,french
+5yJsObSRy2FD0QQK7A93rB,Captaine Roshi,Régiment,Régiment,34,200026,True,0.598,0.543,1,-7.414,0,0.105,0.582,0.0,0.23,0.435,125.823,4,french
+5F6MTsxZ1Q3apVDdkPBGXF,Jok'air,New Jok City,New Jok City,33,210440,True,0.825,0.614,1,-6.296,1,0.115,0.0125,5.53e-06,0.102,0.432,156.997,4,french
+3x63A5hq4vldKE8hWIi1tE,Deepend;YouNotUs;Martin Gallop,Woke up in Bangkok,Woke up in Bangkok,62,169105,False,0.776,0.692,7,-6.426,1,0.039,0.204,0.00114,0.165,0.38,120.0,4,french
+51prkMZzhTgCFBKKjdZJ5z,MR TOUT LE MONDE;ROLEON,SUN,Pour Toujours,50,186000,False,0.734,0.659,9,-7.881,0,0.0789,0.117,0.000729,0.228,0.254,119.985,4,french
+5NQF8k8G29agljdd2PGWuj,Youv Dee,De toi,De toi,34,183171,True,0.458,0.677,4,-7.063,1,0.424,0.453,2.05e-06,0.0756,0.0546,77.848,4,french
+2oUSxhTzXlYyM7D31ohQok,Deep Chills;Brendan Mills,Nalu,Nalu,56,149000,False,0.675,0.638,7,-6.141,0,0.031,0.142,0.0365,0.245,0.234,120.087,4,french
+2UWM7TU0Qwe0gNBJIlrrUa,Ninho,Art de rue,Sur paname,33,145533,False,0.708,0.789,6,-5.305,0,0.312,0.202,0.0,0.112,0.765,82.487,4,french
+0OskPVP9XXOcxsQ126gSs5,Kaza,TOXIC (Bonus Version),Les femmes sont si bizarres - Bonus track,33,182146,True,0.793,0.742,2,-6.93,0,0.101,0.275,0.0,0.172,0.723,140.034,4,french
+07qMAL1gIEMLIES4c13fXH,Julien Clerc,"Fans, je vous aime",Partir,33,343933,False,0.345,0.879,3,-5.602,1,0.0966,0.486,0.000761,0.113,0.429,116.698,4,french
+5uuFQR6tOujYUK5LteeV0Q,Amel Bent,Délit Mineur,Je reste,33,196853,False,0.589,0.715,0,-5.775,1,0.0344,0.286,0.0,0.205,0.628,144.012,4,french
+1mKoTwFGRzGr1qdXh9Sw81,MZ,On shoot,On shoot,33,218533,False,0.858,0.673,1,-5.301,1,0.181,0.0602,2.64e-06,0.0756,0.186,130.109,4,french
+59eugpPzqGZW1ZsV5JTAk2,Josman,000$,Merde (Outro),33,306640,True,0.841,0.494,2,-8.907,1,0.306,0.575,2.57e-06,0.0992,0.214,119.984,4,french
+1Wz8llswutQXcv6DziDcH3,Kyo,La part des lions,"Margaux, Omar, Marlow",31,255853,False,0.48,0.84,6,-5.139,0,0.0428,0.0024,6.54e-06,0.132,0.309,154.569,4,french
+3dRAUtSPXyFVQYEOehJXJ0,Benab,Au clair de la rue,Au clair de la rue,33,141328,True,0.634,0.633,7,-6.789,1,0.06,0.512,0.0,0.277,0.507,165.255,3,french
+3gfAE4VFqH3VC9J5JO9YIH,Raspigaous,Haut & fort,7 milliards et des poussières,31,349526,False,0.804,0.594,1,-6.87,0,0.0932,0.258,7.11e-06,0.163,0.829,154.944,4,french
+27gRiKeM9yJzlboKFOrvM8,Deen Burbigo,Cercle vertueux,CLIO & BERLINE,34,182780,True,0.873,0.662,0,-7.722,0,0.318,0.578,0.0,0.915,0.879,141.001,4,french
+360Xv6Pn6ENVkFD7Hcfymf,Tryo,Aimer,Aimer,31,198506,False,0.732,0.851,4,-6.451,0,0.0792,0.362,1.64e-05,0.0889,0.605,102.005,4,french
+1J94KH2yF5PpwROJlVX00o,Hugo TSR,La Salle D'attente,Jungle Urbaine,33,237080,False,0.783,0.803,4,-4.165,0,0.343,0.143,0.0,0.128,0.263,93.903,4,french
+3CsJeM0tCt1mBXf5I66hsZ,Sasso;L'Allemand,2 Lions,M'en voulez pas,34,129287,True,0.789,0.831,10,-6.999,0,0.152,0.221,0.0,0.12,0.642,139.884,4,french
+3Clq3Nkvml7zX8qbdHyNT9,Djadja & Dinaz,Spleen,Anonymat,33,223466,True,0.765,0.516,11,-10.779,0,0.404,0.216,0.0,0.367,0.55,141.007,4,french
+2u05JBdp35sXaMq4oq586x,La Belle Bleue,Fenêtres,Fenêtres,32,213026,False,0.583,0.778,0,-6.237,0,0.0387,0.222,0.0,0.163,0.434,176.105,4,french
+2PqJJlxblaExcR6rJ00EHx,Ben Mazué,Paradis (réédition),Mathis,32,193226,False,0.483,0.205,7,-13.586,1,0.0567,0.941,0.0041,0.113,0.398,139.594,4,french
+3OVWwUgpeXZ3unSsI3K9YM,Louise Attaque,A Plus Tard Crocodile,See You Later Alligator,31,176506,False,0.744,0.691,11,-10.089,0,0.0353,0.158,0.14,0.136,0.628,124.487,4,french
+0aiv5MbwwxPhXgHq0YmgR6,Binks Beatz;Kaza,Drip Music 2,Palm Angels (feat. Kaza),34,180401,True,0.67,0.573,11,-9.532,1,0.149,0.663,0.0,0.325,0.876,140.048,4,french
+4fKQ6ZCk6qQp2EEbfOdzga,Julien Clerc,Terrien (Edition Collector),Mademoiselle,32,183693,False,0.533,0.628,7,-6.199,1,0.12,0.578,0.0,0.268,0.577,169.447,4,french
+1tSFk99gkq1HZz2dmysPhK,Charles Pasi,ZEN 2022,Mike And Richie,0,199546,False,0.635,0.409,0,-11.039,0,0.0444,0.801,0.00336,0.108,0.223,128.153,4,french
+5OV6dKamedp1icTXhcNpfg,Saez,"Le Manifeste (Vol. 1 Mon Européenne, Vol. 2 Lulu, Vol. 3 Les bords de Seine) [Extraits]",Mon terroriste,31,319733,False,0.695,0.49,9,-11.445,0,0.133,0.475,0.0,0.155,0.4,114.907,4,french
+7fuJkTGGi5L2mWgjHNRk8v,Nicolas Peyrac,Fait beau chez toi,Le boulevard où tu m'attends,32,172146,False,0.364,0.378,2,-12.305,1,0.0396,0.891,6.68e-05,0.286,0.523,98.819,3,french
+4YjBB4ogGnL8SIjCctrrnO,Rose Laurens,Déraisonnable,Africa (Version longue),32,297745,False,0.821,0.922,2,-7.916,0,0.0376,0.108,0.0,0.195,0.969,119.499,4,french
+1oZztsvCFx6dkjm8ws5v4O,Mes Souliers Sont Rouges,Tape la galoche (Ou quand le public s'en s'melle),M'en va-t'à la fontaine,31,279200,False,0.715,0.696,9,-9.901,1,0.54,0.828,0.0,0.492,0.721,118.682,3,french
+2Zwj03lnIc2fG4Ky0mbyN3,Les 3 Fromages,"Cheese Powers (Réédition anniversaire, deluxe edition)",Ma botte au cul,31,273600,True,0.363,0.834,10,-4.216,1,0.0634,0.000476,0.0,0.035,0.332,150.109,4,french
+6gnl7hMK1M5GgprAmdvfBF,Stupeflip,Stup Virus,Pleure pas Stupeflip,32,924280,False,0.509,0.362,2,-10.603,1,0.292,0.121,7.63e-05,0.279,0.0554,163.988,4,french
+0fROT4kK5oTm8xO8PX6EJF,Rilès,!I'll Be Back!,!I'll Be Back!,52,178533,True,0.823,0.612,1,-7.767,1,0.248,0.168,0.0,0.109,0.688,142.959,4,french
+1rVDyh25v3jIQL7GqoNcLQ,Dr. Peacock;Billx,Frenchcore Worldwide 04,Trip to Mongolia,42,220259,False,0.635,0.961,8,-3.534,1,0.0652,0.431,0.508,0.198,0.149,100.018,1,french
+5s9J2tSD2NGzr82jW87gw1,Alexandre Desplat,"Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)",Courtyard Apocalypse,54,120386,False,0.137,0.313,1,-17.088,1,0.0386,0.487,0.918,0.111,0.131,97.365,4,french
+5nk4df3GXo1zTtEJDYzWmX,Soko;Keegan DeWitt,"See You in the Dark (From ""Little Fish"" Soundtrack)","See You in the Dark - From ""Little Fish"" Soundtrack",49,201226,False,0.29,0.38,10,-13.895,1,0.0332,0.585,0.107,0.119,0.333,87.933,4,french
+5h1pZUy66SpvvhtmhPQ1yg,PLÜM,Wish You Again,Wish You Again,53,162968,False,0.693,0.573,8,-7.116,1,0.244,0.29,0.1,0.459,0.342,160.02,4,french
+1I3rbQWAHJsToxBQQ8yMN9,Indila,"Aznavour, sa jeunesse",Mon fol amour,43,246706,False,0.577,0.711,0,-9.739,1,0.141,0.102,4.34e-05,0.043,0.249,114.942,4,french
+22UDmbP8eiz97tNyACphRl,Parra for Cuva;Beau Diako;Kyson,Juno,Ordel,52,258665,False,0.597,0.575,11,-9.959,1,0.0368,0.669,0.858,0.113,0.0987,90.004,4,french
+2ETRMTZSxymoNLgQVFMdyA,Kalash,Mada,Mada,33,203700,True,0.86,0.61,10,-7.17,0,0.0658,0.0992,0.000473,0.101,0.144,112.098,4,french
+4cMBFU3ZjlbscquikM8sM7,Deep Chills;Not Famous,Backfire,Backfire,37,184800,False,0.806,0.491,11,-7.053,1,0.0479,0.329,4.16e-06,0.189,0.847,100.001,4,french
+60cDK8K6EAvk7SI7xOGVun,Namic;Marmy,Be Okay,Be Okay,56,152750,False,0.648,0.482,5,-8.998,1,0.0304,0.0769,2.21e-06,0.0982,0.357,109.909,4,french
+2T042GvN2IhLJ8CsDqWE4P,Di-Meh;Roméo Elvis,"Focus, Vol. 2",Ride,34,238534,True,0.865,0.539,10,-7.904,0,0.325,0.276,0.0,0.0911,0.643,130.027,4,french
+5Pl7UEPvH3WSoPk1TH2oCZ,J9ueve,Distanciel,Distanciel,33,131500,True,0.852,0.62,9,-8.22,0,0.184,0.428,0.0,0.0999,0.323,119.933,4,french
+362PVrKFsGk1rzV4WpBj4H,Triomphe,Scintilla,Scintilla,54,192000,False,0.788,0.798,7,-9.79,1,0.0641,0.0856,0.776,0.177,0.0382,105.002,4,french
+3JTNg0Phoyh2ybwyjaCwxN,Swing;Le Motel,Marabout,Corbeaux,33,227973,False,0.88,0.587,2,-11.69,1,0.134,0.371,0.000218,0.0894,0.289,120.019,4,french
+5D5ozxcof41qi9V6ypcAJ8,Triomphe,Patience,Patience,54,128727,False,0.741,0.488,5,-14.283,0,0.0427,0.354,0.768,0.0576,0.127,110.055,4,french
+2s8q3MEyTXW7wZjmXkDxDW,M83,Saturdays = Youth,We Own the Sky,51,302746,False,0.403,0.747,9,-6.334,1,0.0323,0.000118,0.0433,0.101,0.237,140.056,4,french
+2pz2M2tXX8ROcV1Pesr725,Lacrim,Jon Snow,Jon Snow,34,198733,True,0.91,0.782,6,-7.621,0,0.322,0.0762,2.13e-06,0.101,0.49,106.99,4,french
+72xOaOaBm8KsTFXHB0qU7P,Georgio,A l'abri,A l'abri,33,228800,True,0.571,0.704,10,-5.677,1,0.44,0.634,0.0,0.244,0.769,107.336,5,french
+7tCeZmrIbRlykjCJKB5Hzc,Jok'air;Linema,New Jok City,Henry & Karen,33,254720,True,0.696,0.567,0,-7.579,1,0.189,0.139,1.86e-06,0.1,0.449,80.034,4,french
+3v87GMW1TX5xG2uZZFpk4q,M.I.L.K.,Frühstücksmusik Herbst/Winter 2022/2023,Another Weekend,0,198566,False,0.819,0.648,7,-7.352,0,0.0595,0.469,3.63e-06,0.101,0.844,156.928,4,french
+3WYMsecnH2dLr8Xex59SLX,Village,LoFi & Halloween,Lights Out,2,205714,False,0.732,0.323,6,-11.34,1,0.19,0.222,0.952,0.13,0.168,112.071,4,french
+1liRNanPls9Ri9LwcbMw1Z,Deluxe,Moustache Gracias,Tududu,33,208093,False,0.784,0.449,1,-8.515,1,0.0767,0.117,0.0383,0.0799,0.536,98.009,4,french
+4oviAMVnj3noW22hfvgFQS,Léo Delibes;Razumovsky Symphony Orchestra;Andrew Mogrelia,Delibes: Sylvia (Complete Ballet) / Saint-Saens: Henry Viii,Sylvia: Act III: Divertissement: Variation - Valse,58,75106,False,0.346,0.0578,3,-22.644,1,0.0352,0.932,0.928,0.211,0.422,97.259,3,french
+5uuFQR6tOujYUK5LteeV0Q,Amel Bent,Délit Mineur,Je reste,33,196853,False,0.589,0.715,0,-5.775,1,0.0344,0.286,0.0,0.205,0.628,144.012,4,french
+3Ef66CvCqZYROeU6JS44ng,Timal,Caliente (Bonus Version),Charbonner,33,221853,True,0.599,0.647,9,-6.685,0,0.332,0.421,0.0,0.115,0.287,174.21,4,french
+7aRlFHYFRngsHVdSHDxaiF,Zikxo;Hornet La Frappe,Temps,TP (feat. Hornet La Frappe),33,226706,False,0.824,0.488,1,-5.847,1,0.132,0.261,0.0,0.0803,0.351,121.927,4,french
+2qLECr1Z9a9IMoAGAUbHQI,Magic System,Cessa kié la vérité,Bouger bouger,32,220426,False,0.777,0.955,6,-1.268,0,0.266,0.0896,0.0,0.504,0.94,128.003,4,french
+7enAyzUewfzGLSaObznGAG,Village,LoFi Beats of the Summer of 2022,Lights Out,0,205714,False,0.732,0.323,6,-11.34,1,0.19,0.222,0.952,0.13,0.168,112.071,4,french
+1LnC2j20pWSOJN5uujkvwB,ISHA,Labrador bleu,La réincarnation de Biggie,35,192130,True,0.706,0.506,2,-7.861,1,0.322,0.199,0.0,0.142,0.306,124.644,4,french
+63kgSKGSMuiaHLjvM57ccy,So La Lune,Satellite naturel,Malade,34,173876,True,0.834,0.53,0,-6.942,0,0.223,0.0845,2.01e-06,0.225,0.494,124.984,4,french
+3P3LTqcIZBNEQGdCteA7wk,Gaël Faye,Lundi Méchant,Kerozen,33,212173,False,0.754,0.42,1,-11.717,0,0.0367,0.626,2.54e-05,0.126,0.389,112.023,4,french
+5gE4Gj8qtbbMAhG4A1dbM3,Izïa,La vitesse,Tristesse,32,251040,False,0.657,0.648,0,-6.233,1,0.0547,0.403,1.42e-05,0.432,0.262,154.2,4,french
+1DFja8hpLlBhD28BtpWXar,James Deano,Le Fils Du Commissaire,Le Fils Du Commissaire,32,175400,False,0.798,0.889,4,-4.319,0,0.368,0.0281,0.0,0.929,0.914,96.968,4,french
+6ubYk4jucMRsMQ2cfdxVOq,Lujipeka;Lil Tooom,Montagnes Russes,Pas à ma place (feat. Lil Tooom),33,175247,True,0.702,0.654,8,-7.109,0,0.134,0.301,0.0,0.0467,0.489,149.188,4,french
+32lffyUnAXcnF7Ku9DmY8J,Luther,IDD,20 Mach/s (interlude),33,95093,True,0.79,0.369,1,-10.1,1,0.279,0.0532,0.00124,0.0976,0.648,153.982,4,french
+4sZc1lIErPY5VbcMkEhvCw,Danakil,Rien ne se tait,Monde de fous,32,234613,False,0.814,0.599,10,-6.293,0,0.144,0.0367,0.0,0.438,0.721,78.015,4,french
+4P5QjbWV3K3vVRLotvaxal,Josman;Eazy Dew;Soleil Noir,M.A.N (Black Roses & Lost Feelings) [Bonus],Hasta el Cielo (feat. Eazy Dew & Soleil Noir),33,203253,True,0.81,0.535,0,-6.442,1,0.0907,0.347,0.0,0.211,0.643,128.936,4,french
+5k67jma1k154TGc7wzE90B,D.ACE,Inévitable,Petite sœur,32,232760,True,0.561,0.713,11,-7.16,0,0.212,0.429,0.0,0.0867,0.613,71.962,4,french
+4TyllEiaFHQMLRB30zVpbm,Tryo;Mcfly & Carlito,XXV,Désolé pour hier soir XXV,31,208940,False,0.83,0.711,10,-5.519,0,0.154,0.104,0.0,0.147,0.36,104.024,4,french
+6b3Hgev5YOJrqbF9IRaTka,Raspigaous,Chaud time,Vitrolles,31,304346,False,0.778,0.492,7,-7.602,0,0.392,0.0237,0.0,0.209,0.764,146.792,4,french
+030LRE8b24maUNiC9OG2FP,Hugo TSR,La bombe h,L'étendard brûle,33,224250,False,0.893,0.658,7,-9.109,1,0.28,0.675,0.0,0.116,0.587,94.907,4,french
+7taoYAfDTtuI5dxSBeijUO,Indochine,Singles Collection (2001 - 2021),Alice & June - Mix 2020,31,208986,False,0.456,0.888,2,-6.36,0,0.0756,0.00253,0.0214,0.322,0.315,136.114,4,french
+5yq59pn3w77smcLvTks5Bk,Louise Attaque,Anomalie,Un peu de patience,31,162880,False,0.675,0.453,3,-8.95,1,0.0285,0.522,0.0,0.0849,0.415,116.981,4,french
+7MuijIlCD4pJmPl8JECIu4,Broussaï,Insurrection,Et le manège tourne,32,284773,False,0.889,0.602,5,-8.268,1,0.0745,0.374,3.75e-05,0.083,0.886,138.043,4,french
+1xp6YOsmCBPDDXFkjAO7mM,Michel Berger;France Gall,Double jeu (Remasterisé en 2002),Superficiel et léger - Remasterisé en 2002,32,344240,False,0.764,0.726,5,-7.459,1,0.0293,0.231,0.00493,0.08,0.923,112.918,4,french
+2OROqVWNgnRxyWsoELIkIW,Stupeflip,Stupeflip,Comme les zot,31,91253,False,0.81,0.8,10,-5.693,0,0.297,0.172,0.0,0.112,0.608,99.959,4,french
+6uIWNn0GtpoDY74rNgSvXY,Les Fatals Picards,Pamplemousse Mécanique (Edition Eurovision + 1 titre bonus),Française des jeux,31,203826,False,0.716,0.802,9,-4.325,0,0.142,0.474,0.0,0.25,0.738,152.072,4,french
+7lIxq2FyZ9JlYVC52Wb5E5,Nicolas Peyrac,Quand pleure la petite fille,Comment t'appelles-tu?,31,290706,False,0.421,0.29,5,-13.717,1,0.0325,0.569,0.000337,0.111,0.378,111.813,4,french
+5Le4oiulapnamqbju8JXjB,Michel Legrand,Les meilleures musiques des premiers films de LOUIS DE FUNÈS,Générique - From Le Gentleman d'Epsom 1962,0,140565,False,0.391,0.581,2,-9.599,0,0.0398,0.644,0.0,0.341,0.601,131.928,4,french
+5JXbFbY9oJFI5GgfXKCTAo,Matmatah,La Ouache,Dernière journée en mer,31,251373,False,0.312,0.613,4,-7.386,0,0.0322,0.15,0.0,0.115,0.333,149.948,3,french
+1gtA0oV2QCxDowZaPkKX0c,GIMS;Lil Wayne;French Montana,Corazón,Corazón,38,227014,True,0.761,0.784,3,-5.974,0,0.0752,0.187,3.47e-05,0.104,0.342,100.036,4,french
+6YWjskKykdPsBuiTBOg1VK,Damso,Ipséité,Δ. Dieu ne ment jamais,75,199346,True,0.756,0.736,11,-7.719,1,0.0443,0.0597,4.98e-06,0.0373,0.612,115.985,4,french
+18mNRyfNGQvVfwTJo27sNR,M83;MAI LAN,Junk,Go!,47,235733,False,0.497,0.742,7,-6.353,0,0.0291,0.00132,0.0395,0.0522,0.209,90.994,4,french
+5f5DBTOW5Y6wPiKTVcYVkg,doVicente,Superlove,Superlove,58,145737,False,0.753,0.809,6,-8.268,1,0.0637,0.317,0.0076,0.141,0.409,119.991,4,french
+5cZ6NaDFs0a7ZYfGpaJWEt,Franglish;Aya Nakamura,Vibe,Sans moi,56,159434,True,0.709,0.645,1,-4.449,1,0.329,0.145,0.0,0.0869,0.423,91.793,4,french
+6ErCBDr5mfwDIVXE5uIGYp,NSH,Used To Believe,Used To Believe,57,156290,False,0.76,0.669,6,-8.114,1,0.0312,0.309,5.61e-05,0.381,0.596,124.064,4,french
+5o9SLRWHivg58UvnssxY4v,VEERUS;Limsa d'Aulnay,Post Scriptum,Wu-Tang,32,165504,False,0.765,0.669,8,-8.018,1,0.302,0.0797,1.51e-06,0.129,0.106,119.022,4,french
+4fRu2ATUIiKB0TdlIPVAop,MR TOUT LE MONDE,Tears Back,Tears Back,54,175611,False,0.387,0.563,4,-9.069,1,0.0418,0.342,0.213,0.0921,0.279,129.133,4,french
+6Zg1gsOZdYbIHWU4GhoE0p,Coffee Cub,No Need to Worry,No Need to Worry,56,163448,False,0.676,0.536,11,-9.509,0,0.0639,0.414,0.248,0.0864,0.195,115.982,4,french
+3tBVr995CiHtewbqBx3hkT,Lonely Night;Ari;Lost Dreamers,Sweet Escape,Sweet Escape,47,173225,False,0.603,0.518,7,-8.497,1,0.0468,0.0092,1.19e-05,0.12,0.249,124.009,4,french
+7e9aJrCb2fMRSv6CAlf8bJ,Raft,Madagascar,Debout les gazelles,20,257666,False,0.783,0.734,4,-11.311,0,0.0331,0.317,0.00017,0.335,0.981,126.26,4,french
+4O1VIRlpNBTNKpa5wkvfbe,Bjarne Hendrik,I've Been Feeling,I've Been Feeling,57,183665,False,0.702,0.535,5,-12.939,0,0.0334,0.0263,0.195,0.132,0.0571,115.012,4,french
+0KUu1mcqWylcOhp92A7nSa,Lonely Night;Lost Dreamers,Control Of Me,Control Of Me,48,124000,False,0.77,0.442,4,-11.251,0,0.0863,0.689,4.26e-05,0.139,0.529,120.057,4,french
+1RHiqaz9MG1tKqJ9ny5Alf,Soprano;Indila,La colombe et le corbeau,Hiro (feat. Indila),55,281533,False,0.465,0.733,11,-6.935,0,0.444,0.495,0.0,0.0903,0.466,92.411,4,french
+2SWBWoXNgduC3MtVamamZR,Koba LaD,VII,Tout,33,182200,True,0.714,0.611,8,-5.211,1,0.34,0.452,0.000103,0.166,0.323,139.784,4,french
+2NWbXBECMfIqn0dOlgBxXZ,EDGE;Ratu$,EN LESSGUILL,ADDICTIONS,33,177106,True,0.927,0.385,5,-7.53,0,0.0976,0.283,8.96e-06,0.142,0.232,122.951,4,french
+1DJakPKQjUoAuHK52vhMRq,PRIME,U.S.S.O,Maradoué,33,217364,False,0.611,0.642,1,-9.964,1,0.446,0.0848,7.25e-06,0.0652,0.572,80.422,4,french
+3wFAmH9zEYcHNXqNU98eUZ,4Keus Gang,Hors Série,Flex,32,221300,False,0.609,0.677,3,-7.774,0,0.216,0.582,0.0,0.0949,0.697,129.889,4,french
+2l0MpaIoaddCw00dJ0UxLX,Georgio,Bleu noir,Rêveur (Pour Anatole),32,331162,False,0.555,0.543,10,-8.578,1,0.391,0.311,1.12e-05,0.289,0.116,93.409,4,french
+1iwgk7hPJ8zRluVwXxN0j9,RK,Balboa,Balboa,33,148386,True,0.785,0.662,4,-7.463,0,0.391,0.222,2.48e-06,0.285,0.483,146.101,4,french
+5RGvZQcThxwqdnGKCOHBbc,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),The Lost King,26,175800,False,0.491,0.446,5,-10.135,0,0.0482,0.878,0.573,0.264,0.33,123.683,4,french
+2VurMrYaLBpoDselPxSMcs,Primero,Serein,Longues heures,33,186004,False,0.665,0.531,8,-7.615,1,0.222,0.441,2.92e-05,0.123,0.391,79.946,4,french
+2XMjqvCBGhdvdKlNqVO2yW,ISHA;Caballero;JeanJass,Labrador bleu,Meilleur karaté (feat. Caballero et JeanJass),35,163632,True,0.819,0.56,6,-8.99,0,0.338,0.128,0.0,0.094,0.333,142.084,4,french
+2lvx7R5lvH2oKrhAHXPG4k,Jazzy Bazz,Nuit,El Presidente,33,187000,True,0.688,0.659,11,-7.404,0,0.235,0.107,0.00116,0.165,0.247,153.945,4,french
+6IuHbYWV49tArCbHBgMHl7,Georges Bizet;Orquestra Simfònica de Barcelona i Nacional de Catalunya;Pablo González,Bizet: Carmen & L'arlésienne Suites,Carmen Suite No. 1 (Arr. E. Guiraud): IV. Séguedille,60,121933,False,0.248,0.00674,2,-36.547,1,0.0417,0.952,0.271,0.155,0.185,176.236,3,french
+0OeiauLMp3plmFiZSRzA2i,PRIME;MADERR,U.S.S.O,Q.P.P Remix (feat. MADERR),33,209460,True,0.863,0.706,4,-8.935,0,0.288,0.286,0.00115,0.331,0.562,109.998,4,french
+30YQJqM9hBxX9oyFo16PH1,Jacques,LIMPORTANCEDUVIDE,C'est,31,248920,False,0.546,0.172,8,-12.147,0,0.146,0.728,0.0052,0.111,0.112,61.988,4,french
+2g8c9EqMnsTZk0BymjBr92,Lomepal,FLIP (Deluxe),Lucy - Live acoustique,32,229133,True,0.539,0.493,2,-7.776,0,0.484,0.815,0.0,0.685,0.457,81.012,4,french
+3TaPTbbNASnjit3f488fZT,Limsa d'Aulnay;JeanJass,"Logique, Pt. 2",Ca M'arrange,32,165789,True,0.887,0.409,0,-10.749,0,0.379,0.166,0.00203,0.101,0.677,152.012,4,french
+1NFtRwFATrg3hkcgR7SeRB,Caballero & JeanJass,Double Hélice 2,SVP,34,250118,True,0.903,0.647,2,-5.581,1,0.428,0.457,0.0,0.0853,0.71,139.906,4,french
+6Qe7YCkIOc1iaw9HKqO3qV,Soolking,Sans visa,Suavemente,67,159360,False,0.862,0.696,0,-4.519,1,0.0538,0.326,0.00467,0.0418,0.519,140.018,4,french
+058jHBybDKOfnQksnduCIQ,Zed Yun Pavarotti,French Cash,Monstre,32,195669,False,0.648,0.655,1,-6.809,0,0.0812,0.328,0.00112,0.0987,0.315,157.05,4,french
+1BKl6JHciO3gjIjTzsG7hF,Raphaël,caravane,Peut-être a-t-il rêvé?,31,165080,False,0.527,0.378,9,-8.863,0,0.0258,0.922,4.12e-05,0.104,0.249,90.069,1,french
+2mq1MbB5TtbMYwuyis5ZOA,Gérard Rinaldi,La Petite Sirène (Bande originale française du Film),Les Poissons - French version,32,93146,False,0.638,0.6,2,-9.401,1,0.557,0.813,0.0,0.605,0.679,94.165,3,french
+6Z89eOQm9Nq9CRvsQ4pRwN,Yaniss Odua,Moment idéal,Moment idéal,32,267960,False,0.658,0.824,8,-4.746,0,0.304,0.274,0.0,0.111,0.692,77.781,4,french
+5ViwP0aRcES1craxI3angv,Cœur De Pirate,Le Pop 6,Pour un infidéle,33,151026,False,0.756,0.555,7,-5.478,1,0.116,0.0183,6.46e-06,0.141,0.683,135.015,4,french
+1TRPCgtAgm4R74V5dU4x5K,Vald,NQNT33,Berflam,33,138262,True,0.66,0.882,6,-4.714,1,0.269,0.0213,0.0,0.258,0.239,136.972,4,french
+1NKx2wQl7VgX3YBO3h8vaf,Soprano,Puisqu'il faut vivre (Deluxe Edition),Le Poids d'un amour,31,265973,False,0.502,0.87,5,-3.685,0,0.52,0.35,0.0,0.299,0.403,180.332,4,french
+4Q5C7twok1xx5r5tZK2Kv5,Julien Granel,COOLEUR,DISTANCE,31,179546,False,0.853,0.567,11,-9.604,0,0.136,0.479,0.378,0.137,0.946,149.008,4,french
+6oJV3vHWvTHd3Cxv1RZ47H,Djadja & Dinaz,"Le revers de la médaille, pt. 2",Fais du pain,33,186656,True,0.836,0.6,5,-7.934,0,0.421,0.269,0.0,0.0965,0.453,97.83,4,french
+32j4n8wDASlxokGlDWyqO8,Marie-Flore,Je sais pas si ça va,Après vous,31,194586,False,0.703,0.239,8,-10.738,1,0.043,0.925,0.00061,0.101,0.115,124.104,4,french
+2rR0h0Us3Dvb7KoRLN7wdO,DTF,Sans rêve,La dernière,33,230875,True,0.713,0.732,9,-6.027,0,0.281,0.637,0.0,0.113,0.403,124.545,4,french
+48id9r9TFOqG31HdskTxsi,La Grande Sophie,Cet instant,Où vont les mots,31,196213,False,0.75,0.373,9,-10.718,0,0.0489,0.926,0.00192,0.0987,0.476,119.932,4,french
+6kIfAkYJx1ehPM0pEhw482,Bénabar,Indocile heureux,Les belles histoires,31,208853,False,0.587,0.82,10,-6.912,0,0.0318,0.0693,0.000194,0.223,0.803,94.013,4,french
+0IEQtkNEroBdJ0poqk4L4Z,Jacques Offenbach;Quatuor Zaïde,No(s) Dames,"Les Contes d'Hoffmann, Act 4: Barcarolle (Arr. for String Quartet by Eric Mouret)",31,177840,False,0.182,0.115,0,-20.767,1,0.0541,0.85,0.043,0.14,0.249,73.292,4,french
+6BOgdezDdj9muLUKBAn8r0,Jean-Jacques Goldman,Un tour ensemble (Live),Puisque tu pars - Live Un tour ensemble 2002,32,445653,False,0.359,0.392,5,-8.091,1,0.0327,0.194,4.08e-06,0.376,0.145,116.894,4,french
+3rEiBsVWrvSBfK3jJkGQq1,Julien Clerc,100 Chansons,This Melody,32,251266,False,0.581,0.547,2,-8.604,1,0.0295,0.0542,0.0,0.181,0.566,120.989,4,french
+21yOaTUVC5hzAAHwNe0RNw,France Gall;Starmania,Starmania (2009 Remaster),Besoin d'amour - Remastered,32,238133,False,0.696,0.896,0,-9.063,1,0.03,0.284,0.0375,0.396,0.95,132.221,4,french
+0B1BM32QH1JD90hue6HBRK,Les Fatals Picards,Pamplemousse Mécanique (Edition Eurovision + 1 titre bonus),Djembé Man,31,245560,False,0.656,0.907,9,-3.45,1,0.278,0.38,0.0,0.084,0.757,123.897,4,french
+4jZ1zz3G7I53FOhgTstUiB,France Gall,En Allemand - Das Beste Auf Deutsch,A Banda (Zwei Apfelsinen im Haar),32,172773,False,0.758,0.778,8,-9.236,1,0.0777,0.229,0.000168,0.597,0.965,122.937,4,french
+1yMbUKRRiISrp66LUHRpSr,Pyramid,We Are Your Friends (Music From The Original Motion Picture),Cole’s Memories - Original Mix,51,351213,False,0.573,0.522,8,-11.369,1,0.0388,0.00452,0.792,0.0932,0.0517,125.987,4,french
+6JE5WAHYG6bV8iXl742wts,Subriser;blackbird,Tealy,Tealy,53,213818,False,0.758,0.515,1,-12.119,1,0.106,0.781,0.234,0.108,0.163,110.006,4,french
+16hV7KbASg4EWoEymJerRA,NSH,Sunbeams,Sunbeams,58,147125,False,0.654,0.67,1,-10.393,1,0.0403,0.149,0.157,0.118,0.528,120.028,4,french
+7c9feZKNvthiW1H0NToeFK,Mazoulew;Sebastian Davidson,For You,For You,53,188244,False,0.653,0.717,5,-7.612,1,0.0328,0.0196,0.928,0.148,0.0769,115.016,4,french
+7IHIPmg1XhzjqAyavpJ5k4,Altero;NVRT,No Matter,No Matter,47,135615,False,0.69,0.306,6,-15.215,0,0.0818,0.64,0.00215,0.221,0.276,103.449,4,french
+5fnndSCNEnRYozMDZr0gbU,Noyade,Underwater,Underwater,53,188728,False,0.684,0.504,11,-10.672,0,0.0321,0.655,0.69,0.114,0.0394,114.982,4,french
+5wFbhhwqavrKGvSkGeFyLL,Mellowdy,On My Way,On My Way,57,152021,False,0.607,0.463,11,-11.186,1,0.0727,0.0646,0.451,0.0958,0.212,105.044,4,french
+3ezoEY4TKU8frUXAYFJstC,Remzcore,Sweater Weather,Sweater Weather,61,230389,False,0.507,0.985,1,-0.181,0,0.192,0.0467,0.000394,0.107,0.23,95.0,4,french
+3MHqGAgzog0ws73QGNmpPA,Georgio,Ciel enflammé - Sacré,Miraculé,32,137661,True,0.827,0.571,5,-6.756,0,0.5,0.518,0.0,0.105,0.317,100.142,4,french
+1XHEfPi42FK7D8CeFPhIOH,MadeInParis,Voulez-vous coucher avec moi,Nous,33,151400,True,0.728,0.539,10,-9.411,0,0.577,0.311,0.0,0.156,0.533,122.86,4,french
+5il9UQOOygJ8rPE6u50HZQ,Roméo Elvis,Chocolat,La Belgique Afrique,32,185586,True,0.619,0.78,9,-8.108,0,0.377,0.243,0.0,0.24,0.79,83.531,3,french
+6NfiOR3aA7iVpya1pXgrhJ,Limsa d'Aulnay,"Logique, Pt. 3",Comme la Lune,32,195000,True,0.468,0.375,7,-12.73,1,0.295,0.75,0.0,0.0992,0.56,151.606,4,french
+1j3UJMSzEXKtKWj7W6NcjE,Leo Roi,Château Eclat Soleil,Xanax,32,186409,True,0.713,0.452,5,-10.996,0,0.0483,0.17,0.0,0.103,0.527,139.937,4,french
+1mMNHBj0WhBfZY4BEClj45,Cinco;Leto,Four,Four,33,200431,True,0.961,0.773,2,-4.934,1,0.315,0.17,0.0,0.331,0.82,125.011,4,french
+6sPY9WHY49CA6ixufShUiO,Lonely in the Rain;Anna-Sophia Henry,Always a Light On,Once More,53,195715,False,0.788,0.465,7,-12.084,0,0.0532,0.727,0.0406,0.109,0.0352,110.018,4,french
+7MIN37CiVP1lVjqKNmLMWk,Yann Tiersen,Le Fabuleux destin d'Amélie Poulain (Bande originale du film),La valse d'Amélie,59,135906,False,0.433,0.564,9,-8.917,0,0.0405,0.713,0.275,0.117,0.855,192.07,3,french
+2wscladvcClNbW7io99gWw,DA Uzi,"Booska Pefra, Vol. 6",Booska Mexico,32,188967,True,0.878,0.74,6,-6.47,0,0.181,0.316,2.87e-06,0.0905,0.651,120.04,4,french
+7HWQVRjbGHYLlTmXGoml8A,joysad,Espace temps (Réédition),Smala,33,208586,True,0.571,0.625,10,-6.4,0,0.124,0.393,0.0,0.0625,0.38,99.118,3,french
+6zLLSPSFHSH7OQ26Qi6xZh,Captaine Roshi,Larosh,Voile troué,33,190906,True,0.721,0.575,9,-8.11,0,0.194,0.266,0.0,0.107,0.405,74.086,4,french
+5gPmpgnbsl3d6u9s8bIMcb,Shiba San;Millad,#PlasticFreeParty,Freedom,0,232330,False,0.809,0.902,1,-6.572,0,0.0745,0.00102,0.604,0.0451,0.0773,126.981,4,french
+0kMZJwr2Q4YazsZQdROXzb,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Leicester,15,136853,False,0.482,0.0636,8,-20.915,1,0.0295,0.954,0.932,0.108,0.036,86.876,3,french
+5mHHsLLoM1M7z9mAdw0qvG,IAM,Arts Martiens,Sombres Manoeuvres / Manoeuvres Sombres,32,403026,False,0.541,0.849,8,-5.024,1,0.351,0.137,1.18e-05,0.365,0.638,76.314,4,french
+00KPxBKmSKv26ComPaEZe8,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),City’s Archives,19,205453,False,0.195,0.228,5,-14.972,0,0.0371,0.939,0.904,0.0841,0.0725,93.764,4,french
+2hT0M0vFgMEPgBrvO0Vqse,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),To Prove a Villain,18,192866,False,0.256,0.0434,10,-25.605,0,0.0379,0.965,0.782,0.106,0.0717,73.73,3,french
+3ePTHGMOp03hPGalBIu2VL,Poupie,Enfant Roi,Vue sur la mer,32,154400,False,0.498,0.444,3,-6.444,0,0.0389,0.804,0.0,0.105,0.209,123.05,4,french
+1PEgU5npUj2DqghY8owslK,Zikxo,Freestyles Temps,2 Temps,33,209972,True,0.834,0.785,7,-4.104,1,0.237,0.431,0.0,0.16,0.673,92.729,4,french
+3fz5wOO1kzz7PEgicojJB1,Eddy Mitchell;Julien Clerc,La même tribu (Vol. 1),J'ai oublié de l'oublier,32,198506,False,0.566,0.441,5,-9.468,0,0.028,0.366,4.17e-05,0.126,0.309,100.999,4,french
+3Ps6rBpWSfXxHnhMlOl3aY,J9ueve,Le Neuf,Big Money,33,151514,True,0.924,0.428,8,-12.314,1,0.316,0.0134,0.0411,0.111,0.44,102.02,4,french
+64dnK9CdyuvamFBC7cTfOv,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Farewell Richard,20,164306,False,0.0908,0.178,11,-14.27,1,0.0346,0.927,0.873,0.163,0.0374,81.821,4,french
+2aJ4sTob2JAxWC2QKJawV0,D.ACE;Negrito Senpai;Jewel Usain,Millions de Berrys,Millions de Berrys,32,170020,False,0.544,0.546,2,-8.543,1,0.393,0.0561,0.0,0.13,0.554,125.958,4,french
+65yY9P2b9U7s1igLgJWt99,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Bosworth,13,181586,False,0.118,0.2,7,-13.702,0,0.04,0.929,0.927,0.347,0.036,78.578,5,french
+468ZARXyBNDPBPyrzQ3WAu,Eddy de Pretto,À TOUS LES BÂTARDS,Rose Tati,31,204866,False,0.579,0.369,7,-9.058,0,0.0602,0.852,0.0,0.121,0.204,134.33,4,french
+7v3bNHIiJoxUc4W9dVghjs,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),The Boar,12,232466,False,0.246,0.23,2,-16.662,0,0.0298,0.823,0.932,0.131,0.0657,90.453,4,french
+7C4OA3yEgH6oB85QkZLaEr,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),We Found Richard,12,189413,False,0.364,0.198,2,-19.843,0,0.0452,0.979,0.941,0.0738,0.096,92.065,4,french
+3I3HitmtLA7kpNWDW1MfGo,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),New Street,13,179773,False,0.164,0.0986,1,-22.135,1,0.0342,0.933,0.881,0.107,0.0745,80.763,4,french
+56hNxsAptIl9OTfVSfRJSN,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),The Maps,12,197093,False,0.108,0.08,11,-24.875,0,0.037,0.946,0.962,0.119,0.0382,83.613,3,french
+4AAuHpqSjH9B0SENHuqzIw,Vald,NQNT33,No Tube Zone,33,139939,True,0.766,0.859,6,-4.006,0,0.105,0.0548,0.0,0.218,0.641,154.995,4,french
+77uXS81ZM8mMj5hbfzrhrl,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Empty Bench,13,182773,False,0.181,0.0489,2,-24.373,0,0.0399,0.977,0.807,0.193,0.0348,82.72,3,french
+4FWmh70056lRFVNR6snlXo,-M-,Îl (Deluxe Version),Baïa,30,203360,False,0.653,0.868,9,-7.1,1,0.0551,0.238,0.000519,0.211,0.419,118.05,4,french
+7sFBoEnskTLRTHr8fFvZ9C,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Greyfriars,14,63560,False,0.476,0.125,3,-15.758,1,0.0499,0.791,0.932,0.109,0.0425,117.654,4,french
+5imoEW9NoVvTtqK6310PIj,L'Allemand,Sixnueve,AMG 63,33,192461,True,0.813,0.72,11,-7.607,0,0.0715,0.42,0.0,0.1,0.476,129.998,4,french
+0laUPhh0p0BceQBPqwwck5,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),National Library,14,269040,False,0.0938,0.151,2,-20.418,0,0.038,0.917,0.959,0.11,0.038,79.952,4,french
+6Jq8qDJ4qY6m4A40otRyy5,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),Digging The R,12,122680,False,0.321,0.347,10,-14.438,0,0.0402,0.853,0.925,0.151,0.19,123.047,4,french
+1lYiMxVy1t64ejOwV92UPf,DTF,La hass avant le bonheur,La dalle,33,182066,False,0.518,0.624,0,-8.498,1,0.392,0.253,0.0,0.105,0.46,161.256,5,french
+7CaGUdesPoI2n7NgQKYsJY,Alexandre Desplat,The Lost King (Original Motion Picture Soundtrack),The Next Morning,12,122733,False,0.702,0.241,5,-14.149,1,0.0995,0.945,0.9,0.112,0.178,122.937,4,french
+59TYlhFzLavmJjCnuqmQRK,DTF,Sans rêve,Je t'ai menti,33,252668,True,0.798,0.612,6,-8.21,0,0.0584,0.349,0.0,0.102,0.509,124.494,4,french
+4Wkj3V6czhnUVJHUGBDXBW,Axel Bauer,Ici Londres,Ici Londres - Version Single,31,216586,False,0.498,0.7,0,-7.501,0,0.0298,0.0978,4.91e-06,0.155,0.704,94.8,4,french
+1G2trxNchRnwwcMdsN1Lg8,Lynda Lemay,Du coq à lâme,Les Maudits français,32,190200,False,0.625,0.396,9,-13.416,1,0.826,0.893,0.0,0.971,0.637,106.765,4,french
+0bRtoCdAu4ttzr03Zhlcel,Pierre Perret,Humour liberté,Humour liberté,32,201280,False,0.53,0.408,10,-10.054,0,0.0407,0.761,0.0,0.0704,0.837,88.901,4,french
+2zpPCxKnfbrivRiwWIcanu,Les Ramoneurs De Menhirs;Marie-Noëlle Lemapihan;Marie-Hélène Conan,Amzer an dispac'h !,Marijanig,31,320866,False,0.466,0.975,10,-0.964,1,0.185,0.0183,6.59e-05,0.314,0.707,181.878,4,french
+1Piu78nUTeJScTY2RKvypU,Lartiste,Maestro,Missile - Acte II,69,261182,False,0.817,0.542,0,-6.503,0,0.0725,0.346,0.000205,0.215,0.474,115.042,4,french
+3ys5J8MAFYex3zO7n9VduT,Polo & Pan;Channel Tres,Tunnel,Tunnel,53,310573,False,0.73,0.505,2,-9.248,1,0.0606,0.119,0.711,0.148,0.38,119.995,4,french
+5xl0p7WkEry8QAOxTs28kY,Zimmer;Panama,Zimmer,Wildflowers,54,217986,False,0.728,0.544,9,-7.848,0,0.0502,0.347,0.576,0.179,0.255,101.029,4,french
+77cHi3HzlrS8XDgue2WT8y,Worakls,Utopia / Porto,Porto,60,330000,False,0.678,0.713,8,-6.451,1,0.0487,0.00136,0.865,0.0837,0.19,127.993,4,french
+4IRXYhfzLlDCWQJZ9vPAxP,Sefa,Lost in Thoughts,Lost in Thoughts,54,244800,False,0.453,0.979,1,-1.929,1,0.0453,0.0143,0.54,0.143,0.138,99.975,4,french
+2OtHPItRShU1by6SliultH,TEEMID,Love Me,Love Me,55,174975,False,0.706,0.606,1,-7.059,0,0.0789,0.033,0.00215,0.116,0.254,101.491,4,french
+0tjuvO3dOJyouKoPk9vmdI,Billx,Eclipse,Eclipse,42,353684,False,0.424,0.944,1,-4.038,1,0.0547,0.00014,0.66,0.691,0.0369,189.855,4,french
+6wdI9sg2VdgjqSg0ozu9PK,MHD,Afro Trap Part. 7 (La puissance),Afro Trap Pt. 7 (La puissance),65,140077,False,0.97,0.806,8,-5.628,0,0.298,0.0955,0.0,0.133,0.815,120.003,4,french
+4yJRkaRQkhYzjfaQ8mdxao,Angara,Drive,Drive,51,255737,False,0.598,0.59,10,-11.465,0,0.103,0.0141,0.788,0.112,0.0639,122.046,4,french
+3yHH3LPyinYelEnaj15yKb,Junerule;Weisser Quiff,Alright,Alright,58,149508,False,0.733,0.475,0,-9.198,0,0.028,0.381,0.000443,0.397,0.0961,122.114,4,french
+0Wi6hvPJTZBKrXjmvVFtOQ,Y.V.E. 48,Close To Me,Close To Me,58,155277,False,0.63,0.363,7,-13.643,1,0.0288,0.248,0.47,0.112,0.0675,108.007,4,french
+5hsMGqudpEZ18OPmgqd6Tb,Mazoulew;Handbook;Dokkodo Sounds,Kin Remix,Kin - Dokkodo Sounds Remix,51,175140,False,0.622,0.513,11,-10.352,1,0.0308,0.707,0.855,0.11,0.0777,90.003,4,french
+4VNaf2gQOAcqRIsbdnqKvu,Ashh,HALLUCINATIONS,HALLUCINATIONS,32,288460,True,0.452,0.555,5,-7.365,0,0.12,0.761,2.25e-06,0.0862,0.386,89.978,4,french
+6OGpURRDL26WAeouxgnfX9,Bon Entendeur;Mouloudji,Aller-retour,"L'amour, l'amour, l'amour",58,187360,False,0.581,0.623,2,-7.767,0,0.0887,0.532,0.0116,0.0919,0.382,98.052,4,french
+6FZfPWE4iw6jp2ppsKyMXV,Lstn,Take Me,Take Me,56,198000,False,0.712,0.624,5,-8.839,1,0.0323,0.00109,0.459,0.0892,0.435,119.988,4,french
+0DPW2nHPwPMuHuk9CLldCa,Django,A l'envers,A l'envers,33,179397,True,0.821,0.406,6,-11.224,0,0.184,0.104,0.00102,0.107,0.621,99.015,4,french
+0Jl9rd0LX2xrZFPEpRYWAT,Naza,Incroyable,MMM,53,197226,True,0.669,0.774,4,-6.675,0,0.292,0.557,0.000351,0.0761,0.685,194.959,4,french
+3tpr03iAT3ZMUdJBNMHptV,Limsa d'Aulnay,"Logique, Pt. 1",Avec Moi,32,186666,True,0.933,0.337,1,-14.25,0,0.37,0.239,1.12e-05,0.0875,0.331,126.021,4,french
+2ySAw4DXFzXR4jUH9u7pJV,PSO THUG,En attendant Demoniak,Bienvenue dans le XV,33,255737,True,0.896,0.463,2,-4.766,1,0.292,0.306,0.0,0.103,0.0769,121.965,4,french
+73J45LsWHlyLrOpeWwVNE9,Vald,Gizeh,Gizeh,32,195070,True,0.567,0.665,3,-6.613,0,0.426,0.159,0.0,0.156,0.393,68.257,4,french
+2nYuEm5rCCiQWqGgUq5ptt,ISHA,Labrador bleu,À plat ventre,34,161845,True,0.814,0.586,10,-10.072,0,0.246,0.472,0.0,0.372,0.651,123.989,4,french
+6UcRpwQooAsR4ru2IPEcFP,Lucenzo;Don Omar;Big Ali;Luigi Ramirez,Emigrante Del Mundo,Danza Kuduro 2019 - Diamont Dr,49,180704,False,0.857,0.714,7,-6.401,1,0.168,0.00233,0.0251,0.0195,0.429,130.044,4,french
+5BizW2g9ZVId09YIXQJK98,TK,Reste cool,Reste cool,33,193097,False,0.919,0.644,6,-8.437,0,0.0461,0.138,0.0,0.158,0.977,129.969,4,french
+6hS70dAx8l2OCXTjSUBoBN,Georgio,Ciel enflammé - Sacré,Petit prince,32,220394,True,0.829,0.604,9,-8.855,0,0.215,0.574,2.36e-06,0.099,0.203,125.999,4,french
+3UKwm5G898I1BvYt7uU4t0,ICO,Petit con,Petit con,33,134553,True,0.895,0.479,11,-9.071,0,0.273,0.208,0.0,0.0902,0.719,146.049,4,french
+1L6w6Fi2TMCtEtJBoSPQM0,Kalash Criminel;Bigflo & Oli,Sélection naturelle,Moments,32,298746,True,0.769,0.652,6,-7.301,0,0.109,0.116,1.29e-06,0.344,0.481,156.985,4,french
+5rg17cUeCIqbtpKcwWD8s6,13 Block,Triple S,Triple S,32,170924,True,0.716,0.495,6,-8.997,0,0.188,0.579,0.000112,0.109,0.407,145.04,4,french
+4V68G1f2P3xGjfCiit6P43,Taïro,Reggae Français,Bon vieux temps,31,273074,False,0.71,0.825,9,-3.421,1,0.104,0.045,5.22e-06,0.501,0.671,87.068,4,french
+1M2yV5pvQbcmvApjC3lKA1,Izïa,La vitesse,Dehors (c'est la vie),31,291453,False,0.744,0.731,2,-5.598,1,0.0429,0.00339,0.0112,0.22,0.264,123.988,4,french
+2NLPWBfJBi21l70j2aPe5p,Lorenzo,Rien à branler,Bouteille d'eau,32,176506,True,0.799,0.584,6,-8.228,0,0.38,0.778,0.0,0.0814,0.792,104.08,4,french
+7wzpvaJQJ4zM4eV6xWxYTP,Larry,Petit Prince,Moonwalk,32,149173,True,0.724,0.68,9,-8.502,1,0.163,0.293,0.0,0.0567,0.668,136.062,4,french
+4v8BdXXwDRwxgGekEF7YzJ,Juliette Armanet,Brûler le feu,Qu'importe,32,226866,False,0.676,0.639,2,-4.483,0,0.0273,0.449,0.0,0.126,0.406,117.053,4,french
+6qxTCokfGW3kUS1IvcMd3J,Mansfield.TYA,Monument ordinaire,Le parfum des vautours,31,195800,False,0.48,0.197,2,-13.487,0,0.0434,0.968,0.0237,0.0865,0.371,149.84,4,french
+4CLYsmWsQzyCbUcqu2OYNT,Fauve,Vieux Frères - Partie 1,TUNNEL,30,248266,False,0.567,0.686,11,-8.35,0,0.045,0.00368,0.146,0.0804,0.229,110.045,4,french
+3uJSlXVVZvIz7mqp4ujysy,La Rue Kétanou,Los Pájaros,Los Pájaros,30,268482,False,0.638,0.65,5,-7.266,1,0.0337,0.813,0.00764,0.21,0.904,88.945,4,french
+51cUqztL12O60LUz9SmtNV,Brigitte,Nues,Sauver ma peau,31,208866,False,0.662,0.867,9,-4.021,0,0.0576,0.441,8.31e-06,0.243,0.758,108.062,4,french
+3zY8rcYpeZ58AdlUGGYNKG,Axel Bauer,Radio Londres,Ce que tu ne sais pas,30,212666,False,0.601,0.878,4,-6.513,0,0.0386,0.000312,5.83e-05,0.0967,0.704,113.948,4,french
+2jvZdz0iA6cSQHOASmMZhW,La Grande Sophie,Cet instant,Missive,30,168786,False,0.616,0.687,4,-7.286,0,0.0583,0.135,0.0235,0.0767,0.489,117.099,4,french
+1bzi8WPGNsIADFUocxFAp6,Nosfell,Pomaïe klokochazia balek (10th Anniversary),Mindala Jinka - Remastered,30,316546,False,0.841,0.23,8,-11.786,1,0.0592,0.908,2.26e-06,0.119,0.491,115.078,4,french
+7JK1c7j8Qi61oKhDbNtYYk,So La Lune,2ème faille (Silfra),Sortilège,32,174285,True,0.457,0.567,6,-8.97,1,0.279,0.159,0.0,0.122,0.372,143.259,4,french
+7hSWqK9HqfDvrWn38BUrge,James Deano,James Deano: Freestyles de septembre,La mitraillette,31,188840,True,0.455,0.75,7,-8.633,0,0.546,0.523,0.0,0.149,0.612,176.499,4,french
+1W1fQ84xvzfdMuFLBPy6Jh,Z.E.P,Zone d'expression populaire,La gueule du patrimoine,30,285760,False,0.84,0.728,11,-5.619,1,0.265,0.417,0.0,0.458,0.937,95.05,4,french
+5VyfAfp2Yt3qaeuvq55ll3,KIKESA,PUZZLE,4 millions,31,230854,False,0.8,0.719,7,-6.262,1,0.234,0.109,0.0,0.058,0.815,143.975,4,french
+7M0xo1O2e39PqDmiqxIRdC,Georges Brassens,Intégrale des albums originaux,Le testament,31,237680,False,0.716,0.286,6,-10.516,0,0.111,0.751,9.7e-06,0.527,0.704,126.089,4,french
+7CjPiRmZ6UHNlTUVGjWNcn,Jean-Jacques Goldman,Singulier 81 - 89,Elle a fait un bébé toute seule,32,233600,False,0.452,0.782,5,-7.425,1,0.0395,0.347,3.43e-05,0.0731,0.719,97.933,4,french
+3rSdRXn1oPQDWbKu74Xflt,Joyeux urbains,Devant des gens,Achète un chien,30,360640,False,0.513,0.914,0,-9.072,1,0.395,0.258,0.0,0.965,0.401,86.007,4,french
+2tNoqTnNZrOU8jRvyqyu0Y,Zuukou mayzie;Tom Hardy,Le film : Le commencement,Aniki mon frère (part. 1),32,41181,False,0.565,0.524,3,-12.296,0,0.171,0.912,2.28e-05,0.297,0.408,90.862,4,french
+2GeNSGQEiJXXhEZ0oDJFy7,Nicolas Peyrac,"Nicolas Peyrac, le disque d'or",Il y aurait du soleil,30,257133,False,0.411,0.546,0,-11.167,1,0.0364,0.536,0.00797,0.321,0.375,131.857,4,french
+5v9xa2Nv0oYxh1XilPR8r9,Les Fatals Picards,Pamplemousse Mécanique (Edition Eurovision + 1 titre bonus),Et puis merde je vote à droite!,30,185493,False,0.641,0.741,10,-4.76,1,0.116,0.0214,0.0,0.0631,0.654,148.786,4,french
+6ymMsWBTQTCJJoOVDlWUHU,Les Fatals Picards,Pamplemousse Mécanique (Edition Eurovision + 1 titre bonus),Partenaire particulier,30,163480,False,0.634,0.889,9,-3.239,1,0.0431,0.00635,0.0,0.0484,0.805,97.546,4,french
+779jUckoYttWLL7FYTZpRx,Rilès,WELCOME TO THE JUNGLE (Deluxe),I LOVE YOU,48,173583,True,0.847,0.424,6,-9.595,0,0.132,0.441,4.3e-06,0.098,0.278,97.991,4,french
+79ZQoLroAAQYHM9sJ1kbGh,Two Another,Keeping Me Under,Keeping Me Under,62,218926,False,0.794,0.549,2,-7.791,1,0.0874,0.135,0.000108,0.115,0.58,108.015,4,french
+0DkXEsmHuwN7OzPbssvtUU,Else,Night Thoughts,Night Thoughts,44,227760,False,0.729,0.683,10,-5.369,0,0.04,0.00887,0.868,0.0887,0.375,109.981,4,french
+6yGNvSOyCZvNOCtHs3hfrH,Catching Flies,GLY,GLY,59,220623,False,0.669,0.563,5,-10.437,0,0.0357,0.25,0.917,0.142,0.394,119.974,4,french
+0jqiUpx2nUzwisZe1PTLvS,Dehmo;Tayc,Addict,Tout est cassé,59,236363,True,0.469,0.473,2,-9.57,1,0.169,0.691,0.000739,0.108,0.361,99.02,4,french
+1OxaAC72au0z2HORS9yt1m,Lonely in the Rain;Benji Lewis,Tell Me,Tell Me,35,196015,False,0.799,0.519,9,-10.262,1,0.0698,0.158,0.00893,0.111,0.121,119.991,4,french
+5UNnhT9Ni6tW72zFLADsjy,Attom,Sights,Sights,52,214772,False,0.611,0.744,8,-6.463,1,0.0663,0.171,0.768,0.154,0.0408,110.019,4,french
+6ku3i5WNrsY3qhOq6ua9TL,Lucenzo;Big Ali,Emigrante Del Mundo (Remastered),Vem Dancar Kuduro,67,199235,False,0.327,0.941,1,-3.294,1,0.353,0.0231,0.0,0.0636,0.707,129.738,4,french
+1FqyrPWyT5kPxS77IGkPku,Snazzy,Coolin',Coolin',53,138791,False,0.739,0.266,11,-12.694,0,0.0395,0.757,0.905,0.112,0.25,89.987,4,french
+06ynDvyG7P9TCZupu29WPs,Planetopia,For You,For You,56,168461,False,0.632,0.56,4,-11.366,1,0.0308,0.373,0.856,0.0723,0.388,104.013,4,french
+4SMvzsQDI2SNHDwfcWM7kr,Xad,Forever,Forever,53,182361,False,0.695,0.505,6,-9.036,0,0.111,0.828,0.104,0.0985,0.479,107.983,4,french
+3FyK7HfeMLdhIA0OAQ9nT3,Feder;Ofenbach;Dawty Music,Call Me Papi (feat. Dawty Music),Call Me Papi (feat. Dawty Music),53,140631,False,0.868,0.634,4,-6.122,0,0.212,0.0493,0.000383,0.085,0.352,120.949,4,french
+4jlod5Jgj3yiH8FcSLXrcv,Luca;CLOSR,Counterfeit,Counterfeit,53,140400,False,0.571,0.45,7,-12.373,0,0.155,0.641,6.38e-05,0.13,0.2,100.192,4,french
+5xD5mG8uIsyxA73S0nP0Rh,Deep Chills;Natania,Feelings,Feelings,33,163738,False,0.818,0.575,6,-8.454,1,0.0457,0.392,2.3e-05,0.118,0.384,107.041,4,french
+2U6NZdGlnkKhMdZ8BayQNi,Bjarne Hendrik,Inspire,Inspire,55,128000,False,0.781,0.632,6,-11.349,0,0.0386,0.0688,0.749,0.0571,0.0893,120.01,4,french
+1TUpKepASZ9fQbcG2v9kOy,Planetopia,Falling In Love,Falling In Love,57,157756,False,0.701,0.534,1,-9.159,1,0.0344,0.0251,0.493,0.138,0.468,116.022,4,french
+06rcHn4ehOCA1I1n6CJ2lb,TEEMID,Sexy and I Know It,Sexy and I Know It,53,213345,False,0.877,0.639,2,-7.886,1,0.0582,0.00906,0.00205,0.224,0.63,116.996,4,french
+2myvu5uXaNBDZ5dYecilSC,Georgio,XX5,Coup pour coup,32,215166,False,0.796,0.633,1,-6.515,1,0.365,0.415,0.0,0.227,0.428,138.018,4,french
+1LSN3H8bdKM0226K3djEa1,Luidji,Champagne,Champagne,32,139593,True,0.857,0.408,10,-10.218,0,0.142,0.266,0.0,0.169,0.421,140.014,4,french
+7Fv5i7pS4an7WxmTE0dkbF,RK,Neverland,La flamme,33,159973,True,0.73,0.581,6,-6.6,0,0.168,0.139,0.0,0.112,0.441,140.088,4,french
+5mLv6mQnA8UKDoOERoHpmj,Lonely in the Rain;Jodie Knight,Always a Light On,Head Straight,52,188010,False,0.665,0.491,11,-11.007,0,0.328,0.625,0.000359,0.371,0.106,120.133,4,french
+7nNFPI4xVf2XNRUrjQc8MY,Lola Le Lann,Glaz,Monopolis,31,181293,False,0.598,0.202,11,-11.434,1,0.0338,0.936,0.00233,0.107,0.145,120.163,4,french
+2brLSQnK9jprduMBn3XBVp,EDGE;Ratu$,EN LESSGUILL,CDG,32,173720,True,0.719,0.597,9,-8.26,0,0.244,0.344,0.0,0.0932,0.469,100.115,4,french
+4n7C8u727ZbP4dHVhxaTxW,Zuukou mayzie,Le film : Bande annonce,True Romance,33,169813,False,0.627,0.689,2,-7.108,1,0.188,0.323,0.000205,0.121,0.135,81.972,4,french
+0AvxFnOpOlZCcWLiIPrHOy,Sopico,Nuages/Orages,Slide,32,229720,False,0.627,0.551,4,-9.329,1,0.369,0.667,9.2e-05,0.0896,0.709,119.968,4,french
+4pxWoFKjtOldt6M5l36Af4,Georgio,Héra,La vue du sang,31,264853,False,0.333,0.809,7,-6.405,0,0.311,0.00959,0.0,0.106,0.665,75.952,5,french
+1fDFx7MpMpxNeHj0uQ4395,Kendji Girac;Soolking,Mi Vida (Edition de Noël),Bebeto,64,205400,False,0.851,0.712,8,-6.135,0,0.154,0.462,1.03e-05,0.133,0.891,110.965,4,french
+2CTCJt66KWzMpxzuU5EnHB,-M-,Lettre infinie,Lettre infinie,30,188906,False,0.707,0.484,6,-9.602,0,0.141,0.393,0.000199,0.131,0.641,103.887,4,french
+6mLLwHRZrF9QRCVnxE7Xq3,Still Fresh,Collision,Collision,32,221666,True,0.775,0.568,10,-8.456,0,0.0644,0.414,1.45e-05,0.113,0.478,99.942,4,french
+61sZPyPeuMfawNRMpgsTkO,Naps;Kalif Hardcor,Momo design,Momo design,32,166813,True,0.913,0.692,0,-6.129,1,0.132,0.293,0.0,0.0887,0.751,128.008,4,french
+1amDwHVfnNAJ9SqIHPMAA5,Columbine,"Adieu, au revoir",Indochine,32,198040,True,0.571,0.59,9,-8.514,0,0.109,0.517,0.0,0.105,0.274,139.803,4,french
+3ONhNRJEb3xLZu0hX629pi,Benjamin Biolay,Volver,Avec le temps,30,259519,False,0.331,0.279,5,-11.692,0,0.0312,0.734,0.00189,0.562,0.122,62.565,3,french
+3fBvbm4fwzaBPJ8JgkdIUe,Youv Dee,La Vie de Luxe : Dark Edition,Les démons les anges,32,162986,True,0.553,0.424,11,-8.247,0,0.0631,0.23,2.05e-06,0.2,0.253,119.884,4,french
+2LRmGn0AxW9YILLppAbhLw,Kyo,L'équilibre,Nuits blanches,31,208493,False,0.611,0.626,0,-6.085,1,0.0256,0.002,0.0,0.297,0.585,114.976,4,french
+7ITEWyZlNF2bpDPsHan8Ea,Datune,Changer d'air,Cette fois,31,320453,False,0.691,0.706,8,-6.845,0,0.169,0.0301,0.0,0.11,0.714,79.995,4,french
+72J9zhugzMVxHtTIwn7Xwg,DA Uzi,Architecte,Berline,32,171960,True,0.789,0.56,2,-7.037,0,0.131,0.517,0.0,0.116,0.645,138.095,4,french
+3qTC5MLwhsIEQjily7VgZK,Juliette Armanet,Brûler le feu,Tu me Play,32,164893,False,0.726,0.739,9,-4.062,0,0.0541,0.215,0.0,0.0592,0.501,145.079,4,french
+0nScvODJ2v8DIUlmrmskYx,Davodka;Dooz Kawa,À juste titre,Petit miroir,32,265053,True,0.711,0.694,2,-7.783,1,0.4,0.292,8.6e-06,0.203,0.634,179.995,4,french
+65sFu7f6QE80bJnUSePJQx,Josman,Matrix,Doobie,32,233009,True,0.67,0.674,9,-5.896,0,0.359,0.0671,0.0,0.0847,0.508,102.852,4,french
+5PZ646MwJZbGRYPKH3MjVE,Ben Mazué,Paradis (réédition),J'écris,31,184453,False,0.619,0.42,4,-12.118,0,0.257,0.623,0.000324,0.109,0.409,120.824,4,french
+6DXazvidTcZ7Nx78cm5hZE,Mike Brant,20 Chansons D'or,Laisse moi t'aimer,31,203093,False,0.422,0.392,1,-8.577,1,0.0278,0.676,0.0,0.13,0.315,83.788,3,french
+7035Owio3wVweVyzP5ratY,Percubaba,Percubaba,Jamïcan,30,263080,False,0.56,0.815,4,-5.992,1,0.204,0.305,0.0155,0.237,0.921,154.607,4,french
+2iH73otLOf6KUEovhuQvP2,Renaud,50 + belles chansons,Germaine,30,196253,False,0.308,0.665,0,-6.726,1,0.113,0.657,0.0,0.394,0.758,201.387,3,french
+4iiC0gEmoE06ucdE73NaoU,Djadja & Dinaz,"Le revers de la médaille, pt. 2",En otage,32,193957,True,0.794,0.511,7,-8.758,0,0.411,0.273,0.0,0.202,0.324,109.912,4,french
+5YKyEOXInpfadidKHIxPAs,Shaka Ponk,Apelogies,Smells Like Teen Spirit - 2020,31,331906,False,0.294,0.678,10,-4.286,0,0.0518,0.0552,5.31e-06,0.104,0.16,94.881,4,french
+08olIWLCiC3Nu5LshVuULo,Mademoiselle K,Ça me vexe,Ça sent l'été,30,181066,False,0.507,0.964,9,-2.722,1,0.255,0.127,3.22e-05,0.272,0.572,160.076,4,french
+7CCE9PGuNCnuPm4Tk0efrG,Stupeflip;Salo',Stup Religion,Salo therapy - Interlude,31,46253,False,0.74,0.846,9,-6.163,0,0.103,0.07,0.0154,0.184,0.854,95.991,4,french
+3gI2QTGqRxtXtYTy9bzkNZ,Les Sales Majestés,Ni Dieu ni maître,Marine,30,131773,False,0.541,0.977,1,-3.945,1,0.0606,0.000166,0.0,0.0959,0.952,165.1,4,french
+0vRZ80iF5yB1kX816P8gG0,Naps;Rim'K,"En équipe, vol. 1",Le sens des affaires,32,212800,True,0.877,0.6,1,-9.299,0,0.288,0.563,0.0,0.0825,0.529,124.007,4,french
+0lcK6TheN4lbUDHQyj0YYh,Tryo,Grain de sable,Récréaction,30,205026,False,0.754,0.642,11,-7.185,0,0.169,0.287,0.0,0.112,0.969,168.212,4,french

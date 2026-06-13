@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2vXKRlJBXyOcvZYTdNeckS,Gesaffelstein;The Weeknd,Hyperion,Lost in the Fire (feat. The Weeknd),85,202093,True,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,4,club
+095nyFKlTwa9JIp9cVrHOF,Gesaffelstein;Pharrell Williams,Blast Off (feat. Pharrell Williams),Blast Off (feat. Pharrell Williams),49,215973,False,0.627,0.505,6,-12.659,1,0.0549,0.197,0.0149,0.0583,0.146,100.005,4,club
+6HJiKaPc4LYPczBFGSMBFs,Jay Dunham,I Got Summer On My Mind,I Got Summer On My Mind,65,188160,False,0.807,0.835,9,-6.849,0,0.0631,0.00148,0.527,0.233,0.349,124.979,4,club
+12Ypr3PCVJ2i7Uwz93q1Vl,Gesaffelstein,Conspiracy Pt.2,Opr,59,233965,False,0.748,0.549,6,-5.447,0,0.065,0.00268,0.792,0.196,0.197,101.033,4,club
+2zwcnaxahJOnYwG0H6tXTz,Le Castle Vania,John Wick: Chapter 2 (Original Motion Picture Soundtrack),John Wick Mode,55,187173,False,0.683,0.869,0,-4.828,1,0.0515,0.00088,0.836,0.206,0.219,123.983,4,club
+4CHDcWhqTsz53Ur9zmvHs8,Saint Punk,Empty Bed,Empty Bed,58,214634,False,0.714,0.69,8,-5.356,1,0.0875,0.0137,1.17e-05,0.13,0.631,123.037,4,club
+4RBQt9IvE0Qmzdt6XlzNpd,ZABO,Drown,Drown,49,185142,False,0.774,0.87,6,-5.954,0,0.0646,0.0318,0.907,0.107,0.0461,105.01,4,club
+1ME8Thb5mDmBYTI3I5f3uJ,ZABO,Breathe,Breathe,55,199200,False,0.561,0.547,5,-5.345,0,0.0825,0.0622,0.874,0.149,0.202,99.982,4,club
+2KLA6CccrZHaqmEIVJNcsN,Limbo Slice,Lethargy,Lethargy,48,203773,False,0.665,0.984,0,-5.202,1,0.115,0.00758,0.776,0.326,0.0392,106.013,4,club
+2jcMktZrayNaiWRnRmItnY,KLOUD;Fytch,AUTONOMY (REMIXES),VIRUS (Fytch Remix),52,170500,False,0.432,0.624,10,-6.731,0,0.093,0.0509,0.0192,0.181,0.262,123.074,5,club
+3RxNoBUmsatoQ86dAhV92v,Le Castle Vania,"""LED Spirals"" (Extended Version) [From ""John Wick""]",LED Spirals - Extended Version,52,195950,False,0.931,0.584,1,-6.013,1,0.0777,0.0116,0.43,0.0899,0.307,119.992,4,club
+5hxMK9b3lDs5Ah9SU0k0fC,Le Castle Vania,John Wick (Original Motion Picture Soundtrack),Shots Fired,45,191397,False,0.693,0.792,10,-5.729,1,0.0321,1.74e-05,0.787,0.113,0.553,120.013,4,club
+4c6Tv9hOtTqWv13OzRDMPi,Max Brhon,Humanity,Humanity,51,197960,False,0.669,0.864,0,-3.611,1,0.0536,0.0742,0.667,0.0803,0.307,110.042,3,club
+1FrNSgJjVV0uvg7bMy4HgY,F.O.O.L,Revenger,Criminals,52,250920,False,0.591,0.885,8,-5.193,1,0.0287,0.00152,0.482,0.112,0.111,109.983,4,club
+0x5iuaeBzKEVT49lJKpRAR,Max Brhon,Cyberpunk,Cyberpunk,59,215079,False,0.529,0.979,11,-7.062,1,0.0887,0.147,0.811,0.119,0.088,110.018,4,club
+60fAgJqxcBuUqAOZ4q2r6K,Max Brhon,Pain,Pain,47,224113,False,0.486,0.754,7,-5.932,1,0.05,0.0254,0.699,0.396,0.0854,105.113,4,club
+3w0kbTGhBX8cvlQ7y8nPFb,Glee Cast,"Glee: The Music, The Complete Season Three",Stereo Hearts (Glee Cast Version),47,211800,False,0.62,0.698,6,-4.38,1,0.0449,0.0168,0.0,0.153,0.617,90.059,4,club
+2odJRoZ0Bx3aHvNa8hpNrD,KLOUD,AUTONOMY,BLOOD,61,194157,False,0.497,0.825,8,-4.638,0,0.0821,0.0031,0.00496,0.0905,0.235,88.712,4,club
+26BETKUTsxD6cX5QY1C9qz,Le Castle Vania,John Wick (Original Motion Picture Soundtrack),LED Spirals,43,58462,False,0.843,0.576,1,-6.668,1,0.158,0.00679,0.905,0.211,0.281,120.052,4,club
+1M3Rc9seRrTowsyXhGWf1Z,dj Shawny,Get Get Down,Get Get Down,57,108448,False,0.911,0.889,8,-3.681,1,0.0872,0.0778,0.0702,0.147,0.4,150.029,4,club
+4eRRbY3OV4AGAvAXijjt2e,Max Brhon,The Future,The Future,45,215785,False,0.578,0.953,9,-4.559,1,0.056,0.0654,0.769,0.127,0.345,109.014,4,club
+1Mb8Ag76aENO1iiGMMak7V,Le Castle Vania,John Wick (Original Motion Picture Soundtrack),The Red Circle,45,59973,False,0.69,0.824,1,-7.529,1,0.0377,7.08e-06,0.812,0.0976,0.689,120.046,4,club
+2nCL4jSUB2iLfySrjVTWgj,One True God,Addicted,Addicted,57,162711,False,0.725,0.868,2,-2.537,1,0.0364,0.0181,0.359,0.0687,0.0624,117.994,4,club
+7AQyx6fF4zINWCuwVTGcx0,F.O.O.L,Revenger,Revenger,49,222562,False,0.595,0.879,2,-3.83,1,0.0347,0.00048,0.848,0.115,0.166,110.012,4,club
+7iNN6Mv9iW9eRnaG0srOFh,Hyper,We Control,We Control,47,201360,False,0.562,0.819,2,-6.674,1,0.0432,4.13e-05,0.118,0.433,0.476,133.014,4,club
+0nEeyKLtk5vTlbcdvgrCOH,Le Castle Vania,Payday,Infinite Ammo,48,232637,False,0.597,0.96,7,-1.94,0,0.0627,9.38e-05,0.89,0.325,0.144,127.016,4,club
+7DvdT3OFNvVLVGfOk5HN0a,KLOUD;Fabian Mazur,AUTONOMY (REMIXES),BLOOD (Fabian Mazur Remix),52,167053,False,0.648,0.534,8,-6.286,1,0.282,0.00704,0.0551,0.0991,0.683,93.012,4,club
+7jzaHFrYAaui2i1dGDN8Ra,KLOUD,AUTONOMY,VIRUS,55,206250,False,0.493,0.902,3,-1.467,0,0.0671,0.0391,0.0922,0.0832,0.203,96.009,4,club
+4Ac9Vhb6uEZN3smH8z6Y7o,Owl Vision,PAIN.EXE,BL00D,57,101946,False,0.604,0.965,7,-2.812,1,0.0665,0.00077,0.802,0.0911,0.0469,113.015,4,club
+6I7FFkcXS58luQoYLzPHi3,F.O.O.L;Power Glove,Mercenary,Mercenary,56,219818,True,0.683,0.779,9,-6.324,1,0.0546,0.0243,0.839,0.119,0.136,103.004,4,club
+4TPzn1tHoa186Nu2wb68r0,One True God;Roniit,Emptiness,Emptiness,55,149690,False,0.494,0.746,2,-4.775,1,0.0397,0.0012,0.0291,0.106,0.0398,194.043,4,club
+3BcEpBfEx2mOyCSJWIHSvu,Hyper,Lies,Spoiler - Original Mix,60,272000,False,0.424,0.797,5,-2.321,1,0.0577,0.000969,0.841,0.234,0.223,179.893,4,club
+2Igc5kWSzeztCCZInea9Mf,Glee Cast,"Glee: The Music, The Complete Season Four",Teenage Dream - Acoustic,54,225346,False,0.493,0.362,2,-9.56,1,0.0385,0.738,0.0,0.0966,0.65,129.657,4,club
+1YVPBX1nfpWOlp6rSrg0C4,Lucille Croft,Control,Control,53,177600,False,0.702,0.842,1,-3.992,1,0.0506,0.0121,0.108,0.157,0.533,99.969,4,club
+6L80YrRsEDdPOe5ObjF1UL,dj Shawny;IShowSpeed,"Shake, Pt. 2 (Slowed + Reverb)",Get Get Down - Slowed + Reverb,50,139293,False,0.931,0.624,8,-6.259,1,0.107,0.121,0.00268,0.177,0.0426,119.988,4,club
+5pL19PkLA1LFMaHvrYlBYU,Le Castle Vania,"Freak (The Otherside Series, Vol.2)","Freak (The Otherside Series, Vol.2)",52,171743,True,0.687,0.974,11,-2.343,1,0.0344,0.000464,0.373,0.0945,0.325,108.974,4,club
+2mP53Cu7tiHQ9ImEexoLdy,dj Shawny;IShowSpeed,"Shake, Pt. 2 (Sped Up Version)",Get Get Down - Sped Up Version,52,97779,False,0.875,0.879,5,-10.781,1,0.0817,0.0885,0.644,0.23,0.444,165.533,4,club
+1eG6ogBMDCT36ciEocKV8V,Lucille Croft,Seduce / Destroy,Seduce / Destroy,52,182857,False,0.625,0.808,8,-3.321,1,0.0333,0.000478,0.28,0.163,0.27,105.005,4,club
+06ANCcAnZnK0x1KGmodioE,Absolute Valentine,Police Heartbreaker,In the 42nd Street,56,140347,False,0.567,0.79,0,-6.51,1,0.0996,0.252,0.908,0.105,0.639,180.06,4,club
+0wEhUkwFAAahFN2OITEy4q,One True God,Kill Me With Your Love,Kill Me With Your Love,51,174736,False,0.754,0.701,10,-6.252,0,0.0398,0.192,0.364,0.0709,0.306,114.019,4,club
+0PxE0HRS9Iddrc2ZZVmL2B,dj Shawny,Back It Up (Blick Cypher),Back It Up (Blick Cypher),27,65567,False,0.77,0.398,11,-12.815,1,0.165,0.0257,0.577,0.0753,0.287,175.175,4,club
+7qekEQyGFRim7qNhxzkaLo,Glee Cast;Darren Criss,Glee: The Music presents The Warblers,Somewhere Only We Know (feat. Darren Criss),65,184653,False,0.494,0.556,7,-6.348,1,0.0257,0.433,0.0,0.0969,0.325,85.986,4,club
+6ZPuQzivx212dWhy688ain,Swan Meat,PERFECT CHERRY BLOSSOM,PERFECT CHERRY BLOSSOM,47,276000,False,0.559,0.979,6,-2.968,1,0.0523,0.0287,0.763,0.105,0.458,95.018,4,club
+4KLp7sKY2YCzaSQelZZjZr,Glee Cast;Jonathan Groff,"Glee: The Music, Volume 3 Showstoppers",Total Eclipse Of The Heart (Glee Cast Version) (feat. Jonathan Groff),56,264493,False,0.513,0.662,8,-6.058,1,0.0293,0.195,0.0,0.101,0.261,134.128,4,club
+2M4gBVSuTLI1GIcM9vL6DH,One True God,Move Slow,Move Slow,52,141600,False,0.807,0.794,7,-4.902,0,0.112,0.142,0.862,0.0993,0.295,99.979,4,club
+2M0627dznvRUfgc6jp7cst,Glee Cast,Glee Love Songs,Stereo Hearts (Glee Cast Version),58,211800,False,0.62,0.698,6,-4.38,1,0.0449,0.0168,0.0,0.153,0.617,90.059,4,club
+4YqaTJsKcZ79EoJIsvYZbM,dj Shawny;IShowSpeed,"Shake, Pt. 2 (Sped Up Version)","Shake, Pt. 2 (Get Get Down) - Sped Up Version",57,97605,True,0.657,0.904,5,-3.469,1,0.289,0.18,0.0,0.251,0.669,167.936,4,club
+6xY7r8duYr3rMioEXm0daL,Glee Cast,"Glee: The Music, The Complete Season Four",Hall Of Fame (Glee Cast Version),47,198906,False,0.421,0.813,10,-5.427,1,0.0424,0.0535,0.0,0.283,0.635,169.895,4,club
+2OuCkfX39Geg49wLwjsQ9z,Linn da Quebrada;Liniker;Urias;Alice Guél;Jup do Bairro;Danna Lisboa;Ventura Profana;Verónica Decide Morrer,Oração,Oração,37,239669,False,0.621,0.273,0,-8.607,1,0.0325,0.811,1e-05,0.0841,0.146,127.044,4,club
+1CWkb6uHs2tZnSOtR1mi6z,Linn da Quebrada,Trava Línguas,amor amor,41,144837,False,0.543,0.63,5,-8.236,0,0.319,0.674,5.96e-06,0.293,0.565,203.688,4,club
+5H0kIgpWNZm9HF6VkU4dow,Gesaffelstein;Pharrell Williams,Hyperion,Blast Off (feat. Pharrell Williams),43,235200,False,0.628,0.498,6,-12.803,1,0.0522,0.241,0.027,0.0579,0.138,99.978,4,club
+4C7j2x6EiKygp7V1LjINCO,DJ Flex;Kyle Edwards,Controlla Anthem,Controlla Anthem,39,110210,True,0.904,0.871,8,-8.588,1,0.403,0.00645,5.21e-06,0.0697,0.346,144.993,4,club
+5OO8xKi2eig03aOhJRxn3N,Kyle Edwards;DJ Smallz 732,"Warning, Vol. 2",Somebody,29,144091,False,0.932,0.58,1,-11.198,1,0.0633,0.156,0.696,0.143,0.373,139.995,4,club
+08WLYptwEeNak4i7S32gh7,KLOUD;Gabriel Paris,LOVE ME,LOVE ME,50,204705,False,0.587,0.902,8,-2.506,1,0.049,0.0336,0.000112,0.1,0.0878,102.029,4,club
+4J8yNRPLsdfO1jFgt1ZM5u,Corvad,Prime,Tesla,49,326869,False,0.576,0.935,7,-6.092,1,0.0623,0.000908,0.869,0.623,0.169,104.964,4,club
+5vJ8wLhKQUsIAmm9kz0PRL,DJ Envy;Fetty Wap;DJ Sliink,Text Ur Number (feat. DJ Sliink & Fetty Wap),Text Ur Number (feat. DJ Sliink & Fetty Wap),19,242134,False,0.691,0.782,8,-5.365,1,0.0561,0.0211,1.88e-05,0.406,0.741,139.946,4,club
+2O5nA2P316C0HP4j0MfpWx,ZABO,Blasphemy,Blasphemy,25,208000,False,0.779,0.629,6,-4.832,1,0.527,0.0944,0.34,0.113,0.285,90.014,4,club
+4Gd6yYZtA0U0fQbphXZGWI,Gesaffelstein,Conspiracy Pt.2,Viol,51,343878,False,0.597,0.84,7,-6.964,1,0.0377,7.65e-05,0.828,0.55,0.201,108.993,4,club
+11hQpTbTymxIZzSmabCd9b,Max Brhon,Redemption,Redemption,44,245529,False,0.49,0.741,5,-6.601,0,0.0561,0.000887,0.189,0.0787,0.0793,105.057,4,club
+2jJIxT6WAIVWzDo3Ou53Q0,Gesaffelstein,Aleph,Pursuit,51,247603,False,0.682,0.934,7,-4.822,1,0.0741,0.0619,0.926,0.106,0.0708,108.982,3,club
+5iFaTYNw5IN3Ri2KBsH2LV,dj Shawny,Bombs Away (Throwback Cypher),Bombs Away (Throwback Cypher),58,77583,False,0.714,0.389,1,-6.689,1,0.0385,0.00179,0.56,0.178,0.702,92.526,4,club
+1jIIA2V3HUuFGPrKCwqEwQ,Head Splitter,VALORANT (Theme Remake),VALORANT - Theme Remake,40,165333,False,0.645,0.878,2,-4.358,1,0.0369,0.0614,0.856,0.234,0.21,90.037,4,club
+1l06BAA8vssAu35vqKlzcl,KLOUD,SYNTHESIZE,SYNTHESIZE,43,151111,True,0.605,0.768,2,-4.939,1,0.0325,0.155,0.0,0.0846,0.0736,108.07,4,club
+6NkpHVmPu6mNSSE0fK8aKL,Max Brhon,Illusion,Illusion,40,227139,False,0.575,0.856,0,-4.804,1,0.121,0.00591,0.731,0.169,0.0736,108.969,4,club
+6fWFFBD6VM5xEHpQUFhLe1,F.O.O.L,MENTAL STATE,MENTAL STATE,49,249454,False,0.501,0.903,4,-3.894,0,0.0433,0.000363,0.692,0.106,0.0662,165.082,4,club
+0qetfWOgsiLK4QiXDpURW3,Le Castle Vania,John Wick (Original Motion Picture Soundtrack),The Drowning,37,144106,False,0.572,0.862,5,-4.513,0,0.0329,3.4e-06,0.877,0.0829,0.484,149.998,4,club
+53i0NQW6ytb5gPheBhRKZA,Head Splitter,"Cyberpunk 2077 Fanmade Soundtrack, Vol. I",Welcome to Night City,50,240039,False,0.347,0.478,8,-10.341,1,0.0406,0.0401,0.748,0.111,0.031,199.964,4,club
+6w9zusNDxi0gmcH6FrHRtE,Hyper,Cyberpunk EP,FCKD,53,206400,False,0.327,0.853,2,-3.68,1,0.0568,0.00175,0.235,0.208,0.143,99.919,4,club
+1DOgO7ek31amB3SF2g1FVH,Infraction,Almost Evil,Almost Evil,43,247358,False,0.543,0.981,1,-2.699,0,0.0468,0.00488,0.755,0.0917,0.111,106.001,4,club
+6UxamX8NLRrQzIb17xQ7vW,One True God;adam&steve,Devotion,Devotion,46,123966,False,0.69,0.809,8,-4.931,1,0.0375,0.4,0.285,0.118,0.0481,120.946,4,club
+3oXyxYeCJsVMMV1Vuido4g,Infraction,Devil In a Red Dress,Devil In a Red Dress,32,204000,False,0.702,0.821,5,-4.299,0,0.0495,0.051,0.118,0.151,0.199,110.015,4,club
+3EVROibC8utd9tGNrJvoNo,HVDES;sharks!,When I'm Alone,When I'm Alone,51,202597,False,0.593,0.632,6,-6.45,0,0.0305,0.195,0.0,0.114,0.225,77.025,4,club
+1PpDWm6xqTir7SaNnFi7sK,KLOUD,HUMANS,HUMANS,49,242330,False,0.485,0.808,1,-5.324,1,0.0563,0.0309,0.00958,0.143,0.295,103.007,4,club
+6rLNDssC5bnJ2l7N1aRAgu,Lucille Croft,Resonate,Resonate,48,211071,False,0.698,0.743,9,-7.804,1,0.11,0.284,0.0172,0.411,0.0442,111.993,4,club
+0mhBepv4boH5xvn2wy6JP0,Dustycloud,Wack!,Wack! - Original Mix,52,142382,True,0.708,0.977,1,-4.018,1,0.0676,0.038,0.668,0.218,0.671,128.023,4,club
+1hNb2eDg25jGC5rCQS1OwY,Woesum;Yung Lean,Blue Summer,Summer Rain,51,138057,True,0.662,0.717,4,-5.211,1,0.274,0.628,6.66e-06,0.427,0.689,169.853,4,club
+5uffB0o1ruF4O5o3KOelvu,Glee Cast,Glee: The Music presents Glease,Hopelessly Devoted To You (Glee Cast Version),55,181906,False,0.61,0.53,6,-7.132,0,0.0253,0.247,0.0,0.35,0.305,110.778,3,club
+1REX2q4Fverp8zH7KuSeZC,Glee Cast,The Quarterback,If I Die Young (Glee Cast Version),57,221773,False,0.717,0.382,4,-7.782,1,0.036,0.83,0.0,0.0986,0.358,130.843,4,club
+2DRIlKYPYCa1SQTG14k3h5,One True God,Everytime,Everytime,48,151200,False,0.699,0.894,10,-2.648,1,0.0321,0.0222,0.117,0.0667,0.33,99.994,4,club
+6lYZ5UWuPbXLX357pPONa7,Infraction,Control,Control,41,258678,False,0.543,0.869,2,-4.266,0,0.031,0.000132,0.715,0.226,0.0512,106.03,4,club
+018SQDupRTRsl1Wolu1X0c,Daniel Deluxe,Magnatron,Star Eater,51,272855,False,0.577,0.555,2,-9.045,1,0.0598,0.618,0.866,0.116,0.147,189.97,3,club
+1e4xuwzSRHr6agxwXMEg16,Tenebrax,Reflexia,Tell Me How to Love,48,214216,False,0.704,0.884,9,-4.273,1,0.0486,0.000428,0.204,0.15,0.452,105.02,4,club
+7FEKwb52OpeVSZxaqUspP1,KLOUD;Far Out,HUMANS (Far Out Remix),HUMANS - Far Out Remix,44,285271,False,0.416,0.741,8,-6.807,0,0.0481,0.0823,0.00146,0.338,0.299,91.954,4,club
+4Zl87UYUFG5OJNPhzMTk20,Hyper,Lies,Clockwork - Original Mix,50,276000,False,0.522,0.886,10,-6.484,0,0.058,9.49e-05,0.697,0.063,0.158,99.992,4,club
+1wWYqFc1ElJL4bnTfvmR2z,dj Shawny;IShowSpeed,"Shake, Pt. 2 (Slowed + Reverb)","Shake, Pt. 2 (Get Get Down) - Slowed + Reverb",41,145432,True,0.702,0.401,1,-13.281,1,0.11,0.341,0.0,0.176,0.0879,120.109,4,club
+3MLWx8r8WhUAn0WDCtiBFy,Glee Cast,Glee LGBTQIA+ Pride,I Kissed A Girl,49,179946,False,0.687,0.756,9,-3.601,0,0.0596,0.00335,0.0,0.0663,0.623,130.043,4,club
+2HejOe2xupqJYBzExs9bN4,Noisecream,Bananas,Mist of Rage,49,175272,False,0.602,0.916,7,-6.566,1,0.251,0.000197,0.842,0.143,0.464,100.037,4,club
+0GS0aMonIhHrD4lJLlkkOe,Kyle Edwards;DJ Smallz 732,Say It (Jersey Club),Say It (Jersey Club),30,125779,False,0.908,0.865,6,-5.992,0,0.245,0.196,0.000156,0.174,0.664,139.89,4,club
+6GoLARmR2OZl2EldehFrsA,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,Immaterial,53,232806,False,0.776,0.717,2,-4.897,1,0.0836,0.115,0.00755,0.327,0.828,139.995,4,club
+4E7B45OimTovLiETRzSBly,Glee Cast;2CELLOS,"Glee: The Music, The Complete Season Three",Smooth Criminal (Glee Cast Version) (feat. 2CELLOS),55,214680,False,0.756,0.814,0,-6.111,1,0.0436,0.634,0.00068,0.161,0.905,135.045,4,club
+4Pw5JYC3k40FQZya8w0s8A,DEADLIFE,FiXT Presents: Sinister Sounds,Boreal Nerve,3,236000,False,0.597,0.928,5,-6.102,1,0.0497,0.0543,0.911,0.096,0.0308,128.0,4,club
+4pfxefygvuMNU3zuBP02LM,Linn da Quebrada;Liniker,Pajubá,Serei A,30,259178,False,0.75,0.828,6,-7.185,0,0.372,0.197,8.8e-05,0.253,0.301,170.025,4,club
+6kQA1WzWswBfx9rTjC7M3N,Linn da Quebrada,Trava Línguas,cobra rasteira,30,181557,False,0.734,0.777,11,-6.194,0,0.0412,0.144,4.05e-06,0.304,0.371,113.032,4,club
+5rMNiDunMJCTME1CDa0u6d,Linn da Quebrada,Pajubá,A Lenda,32,201450,False,0.868,0.668,7,-6.064,0,0.244,0.323,0.0,0.123,0.818,119.975,4,club
+5ZFqJl35Kksk8BfOMia619,DJ Frosty,Ride That Wave,Ride That Wave - Original radio,28,108968,False,0.743,0.927,7,-3.876,1,0.247,0.526,1.6e-05,0.204,0.478,133.983,4,club
+34zBuLmfKMk6MkCcBDaAfG,Linn da Quebrada,Pajubá,Coytada,31,175893,False,0.681,0.989,9,-2.722,1,0.128,0.0172,0.00806,0.811,0.455,129.992,4,club
+2qzAQ81W0CvZqmhK8BYGLe,Glee Cast,"Glee: The Music, The Complete Season Four",Footloose (Glee Cast Version),57,227400,False,0.577,0.96,9,-3.811,1,0.0636,0.0193,9.56e-06,0.0498,0.701,173.988,4,club
+6W0javyKuVICRsmD8DqQfI,Glee Cast,"Glee: The Music, The Complete Season Three",I Kissed A Girl,50,179946,False,0.687,0.756,9,-3.601,0,0.0596,0.00335,0.0,0.0663,0.623,130.043,4,club
+2ag8xyS2fHx2Y27MVu1Nrk,Linn da Quebrada,Trava Línguas,medrosa - ode à Stella do Patrocínio,30,133617,False,0.464,0.31,9,-11.257,1,0.0279,0.913,0.000568,0.12,0.347,77.416,4,club
+46D13WjTPaTwGMkLrPEhug,Linn da Quebrada,Trava Línguas,pense & dance,31,286617,False,0.783,0.764,1,-7.754,1,0.132,0.265,0.000125,0.124,0.439,130.972,4,club
+3tw38CkaOgncThUwXO80NO,Gesaffelstein,Hyperion,Ever Now,43,98066,False,0.658,0.373,1,-12.473,1,0.0399,0.197,0.89,0.131,0.0372,107.995,4,club
+61aw1V0KLPD4XIjqNsGqo9,Gesaffelstein;The Hacker;Electric Youth,Hyperion,Forever (feat. The Hacker & Electric Youth),42,271733,False,0.652,0.426,9,-12.596,0,0.0309,0.00453,0.033,0.0592,0.139,117.985,4,club
+5PqLykInqe8C45DRkcIW0F,Mvntana;Jdub,Play No Games (No Guidance),Play No Games (No Guidance),16,101093,False,0.872,0.599,1,-9.701,1,0.405,0.0351,0.000413,0.34,0.631,152.086,4,club
+2bRs25TmImvXkYlR3mQhkT,DJ Flex;Kyle Edwards,Down in the DM,Down in the DM,36,100463,True,0.839,0.584,5,-10.214,0,0.072,0.238,0.0249,0.112,0.766,152.951,4,club
+3BBtBgwmSXmcJgbTKiB4ap,KLOUD;Odd Mob,AUTONOMY (REMIXES),VIRUS (Odd Mob Remix),54,184761,False,0.824,0.755,1,-5.272,1,0.0649,0.0141,0.0021,0.0944,0.412,125.963,4,club
+7nyprGzLfhdp0zJfa0peji,Gesaffelstein,Aleph,Obsession,45,249373,False,0.7,0.712,8,-4.553,1,0.0397,0.00062,0.0404,0.374,0.0883,100.968,4,club
+5Ub5SzOZ2kGwoazjnQSfdS,Gesaffelstein,Aleph,Destinations,46,216720,False,0.801,0.551,10,-11.19,0,0.208,0.189,0.67,0.315,0.19,102.014,4,club
+7FuyeSPssuLmWG4fNNTiNa,Infraction;Aim To Head,Falling,Falling,44,182399,False,0.404,0.903,1,-3.026,1,0.0878,0.00972,0.514,0.0613,0.0954,100.061,4,club
+5BwZzYVMsf8EEbQcD1CQp2,F.O.O.L,Highway,Highway,47,290979,False,0.506,0.717,9,-6.482,0,0.0446,0.00201,0.689,0.146,0.0726,112.991,4,club
+4rk94uEZLJftdhnjp4Hwsx,F.O.O.L,Revenger,Conflict,41,187527,False,0.662,0.809,3,-6.583,1,0.0351,0.0306,0.875,0.115,0.114,112.009,4,club
+2Eg5PLuDyYqZPnUHIHJjt4,ZABO;FOVOS,Roll (Remixes),Roll - FOVOS Remix,43,196363,False,0.752,0.867,2,-5.55,1,0.0442,0.111,0.848,0.148,0.169,132.009,4,club
+535sg5Q0QFrgXvMkdznzeR,Toutant,Rebirth,Rebirth,43,199578,False,0.632,0.92,7,-4.659,1,0.0729,0.00331,0.865,0.12,0.15,94.991,4,club
+2ZFu40Ik8VsUE9H87W0MmZ,Arca;ROSALÍA,KiCk i,KLK,57,227401,False,0.798,0.873,10,-6.732,0,0.0908,0.064,5.17e-05,0.764,0.846,98.017,4,club
+4GOvxgkT5LwHh8ZPWbDJPm,Vondkreistan,Maniac,Authority,43,268536,False,0.645,0.784,6,-7.94,1,0.0362,0.00807,0.688,0.333,0.51,106.006,4,club
+0hp5IJ83YpnglsrvGfIhIN,Arca,KICK ii,Rakata,60,151531,False,0.581,0.844,5,-6.64,0,0.0595,0.0855,0.0,0.224,0.546,93.963,4,club
+5fTaC6VSUxQz0sCbbHwJkY,ZABO,Affliction,Affliction,42,199275,False,0.705,0.909,6,-2.77,0,0.0348,0.0147,0.839,0.155,0.21,99.98,4,club
+4q0CSHFWnVajd3sMEwyH4f,SIERRA,Gone,Unbroken,48,194927,False,0.651,0.384,1,-8.27,1,0.0291,0.00404,0.869,0.0526,0.0308,113.011,4,club
+7lPL2wD5oCwBuqBLJhCFEa,Ziggy,Ziggy Reloaded II,Look Back It (Club Mix),42,102187,True,0.768,0.805,6,-8.536,0,0.23,0.0217,0.000264,0.181,0.253,136.06,4,club
+2636bfqhucgtVPFG1zwEQf,KLOUD,AUTONOMY,FOLLOW ME,45,297600,False,0.497,0.853,8,-3.157,1,0.0434,0.0346,0.00141,0.0968,0.0526,99.958,4,club
+6Kr6OpOWGEyVQaE5Qipw4K,KLOUD,Satisfied (Chapter IV),Satisfied - Chapter IV,37,230400,False,0.481,0.912,0,-1.493,1,0.0414,0.0705,0.0,0.154,0.11,149.951,4,club
+1d60khvJOU5PIUWNu35yGr,TOKYO ROSE;ZABO;Aloma Steele,Last Goodbye,Last Goodbye,39,205006,False,0.642,0.658,10,-3.443,1,0.0778,0.00409,0.00632,0.12,0.199,180.03,4,club
+3xhVKCpKzdyKiH0gnugfj6,HORSKH,Wire,Trying More,52,117200,False,0.37,0.983,2,-4.776,1,0.186,1.1e-05,0.75,0.122,0.182,170.054,4,club
+7I8UTLiBA1ptFm04WulwhH,Arca,KICK ii,Prada,58,163348,False,0.619,0.712,4,-6.893,0,0.0328,0.103,0.0,0.24,0.35,95.025,4,club
+5o0TzTBBSaouG2Yi58ZLON,One True God,Honey,Honey,49,143076,False,0.787,0.629,4,-5.782,0,0.0748,0.0122,0.425,0.121,0.46,104.033,4,club
+7b9IARaKDslL1JMtT7Ovlu,ALEX;TOKYO ROSE;THE AKUMA,AKUMA II,ANTAGONIST,49,331622,False,0.481,0.645,2,-7.74,1,0.0404,2.5e-05,0.842,0.346,0.0833,170.027,4,club
+2D20RgZ2TfdyPqTOkRozAu,Gold Geisha,Belladonna,Belladonna,47,191988,False,0.574,0.902,1,-4.046,1,0.0716,0.000844,0.8,0.35,0.174,200.06,4,club
+27ytWN3ttrpFvp84COmofs,One True God;Le Castle Vania,Bad Company,Bad Company,43,167368,False,0.752,0.895,9,-3.293,1,0.0374,0.00079,0.186,0.0773,0.0373,114.016,4,club
+1d6BkMki9M6K0yp9OLBzOM,Actress,Karma & Desire,Fire and Light,57,75969,False,0.337,0.28,0,-18.646,0,0.0384,0.987,0.882,0.0851,0.0824,140.004,4,club
+1JnlpPaMACqbAzuo5xbZR4,DJ Sliink;TWRK,BaDinga (Reloaded),BaDinga - Reloaded,42,168000,False,0.762,0.932,1,-5.285,1,0.0516,0.354,0.432,0.496,0.757,129.99,4,club
+0mgpKVkh9yenAnNB0lTWO4,One True God;EDDIE,Think About,Think About,51,204000,False,0.648,0.86,11,-5.7,1,0.0552,0.112,0.764,0.128,0.0763,100.01,4,club
+0y4YmA9UGpQnWdIFbWBHu0,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,Faceshopping,47,236937,False,0.636,0.441,1,-7.273,1,0.247,0.0528,0.00152,0.0684,0.304,114.045,4,club
+1wxgWPF7uUr9aHDC9QuMEO,One True God;MASTERIA,Night Shift,Night Shift,51,230625,False,0.751,0.964,2,-3.039,1,0.0478,0.266,0.62,0.0682,0.417,127.991,4,club
+55DTBfMjuBk3b79XXb2lc5,dj Shawny,Bombs Away (Throwback Cypher),Bombs Away (Throwback Cypher) [Sped up Version],52,64547,False,0.739,0.931,1,-6.941,1,0.04,0.00152,0.891,0.335,0.727,111.001,4,club
+68iMdxXn1timrxURm9dR8C,Glee Cast,"Glee: The Music, Season 4 Volume 1",The Scientist (Glee Cast Version),53,254413,False,0.506,0.481,2,-6.098,1,0.0264,0.482,0.0,0.2,0.224,148.626,4,club
+5eYAZko7TMVUh6e2GGrmJX,Glee Cast;Darren Criss,Glee: The Music presents The Warblers,Teenage Dream (feat. Darren Criss),46,220373,False,0.76,0.543,3,-5.759,1,0.0415,0.494,0.0,0.0802,0.84,120.003,4,club
+40xf41xM6NvGX0BUzpjYOQ,Glee Cast,"Glee: The Music, The Complete Season Three",Glad You Came (Glee Cast Version),42,194666,False,0.597,0.765,7,-5.831,0,0.223,0.425,0.0,0.111,0.391,126.857,4,club
+3IFo5x0HWlvRu0QIAtefor,Glee Cast,"Glee: The Music, Volume 4",Marry You,50,225133,False,0.637,0.768,5,-6.888,1,0.0318,0.0335,7.77e-06,0.161,0.459,144.914,4,club
+79MPey8BlbWAM5xV5GOUSF,Linn da Quebrada;BADSISTA,Trava Línguas,mate & morra,29,216237,True,0.832,0.676,1,-5.834,1,0.11,0.0212,0.000203,0.0888,0.371,127.998,4,club
+0TWramd5KqDXxMTjkJxDkx,3FORCE,FiXT Presents: Sinister Sounds,"In the House, In a Heartbeat",4,227692,False,0.3,0.623,2,-7.534,0,0.0313,0.000952,0.945,0.0908,0.0346,156.038,4,club
+56qKFfg9GclGaI5xOwoT5E,3FORCE,FiXT Presents: Sinister Sounds,"Once, There Was an Explosion - Death Stranding Theme",3,240000,False,0.526,0.666,7,-8.743,0,0.0348,0.184,0.128,0.112,0.106,120.041,3,club
+4hBW3h6FnQNh7NRmyxLLG7,Glee Cast,"Glee: The Music, Volume 4",Valerie - Glee Cast Version,59,213413,False,0.651,0.889,5,-5.236,1,0.0694,0.00308,0.0,0.417,0.813,107.009,4,club
+7iMyX6FTRrY4fO8dHQhAUs,Glee Cast,"Glee: The Music, The Complete Season Three",What Doesn't Kill You (Stronger) (Glee Cast Version),48,221026,False,0.618,0.752,0,-4.828,1,0.0302,0.00863,0.000175,0.127,0.679,115.957,4,club
+28CheZFrkYyeJUP02gfzt1,Linn da Quebrada;Luísa Nascim,Trava Línguas,dispara,28,214197,False,0.585,0.715,7,-6.841,0,0.305,0.332,0.000108,0.0864,0.646,121.305,5,club
+3SmEmQtCTSHSHPRKdRuHli,Glee Cast,"Glee: The Music, The Complete Season Two",P.Y.T. (Pretty Young Thing),28,236320,False,0.847,0.772,9,-4.763,0,0.0692,0.196,0.0,0.24,0.914,127.381,4,club
+4Rfdm6jtBeEcXAI1dSZKL6,Linn da Quebrada;Ventura Profana,Trava Línguas,eu matei o Júnior,28,217257,False,0.636,0.787,0,-5.46,0,0.0611,0.279,0.0,0.0971,0.542,140.007,4,club
+0VbWMtsD3tLnQo0oTpL5R6,Glee Cast,"Glee: The Music, The Complete Season Two",Sweet Transvestite,26,179920,False,0.736,0.571,4,-3.942,1,0.0457,0.451,0.000618,0.223,0.554,107.781,4,club
+7KX91rgYkAbeqDsYjVe4ec,Glee Cast,"Glee: The Music, The Complete Season Four",Signed Sealed Delivered I'm Yours (Glee Cast Version),28,169266,False,0.548,0.839,5,-4.66,1,0.0368,0.0364,0.0,0.201,0.827,113.468,4,club
+62ZYyXIsHVX5xVUj80arVu,The Magnetic Fields,69 Love Songs,The Book of Love,57,162413,False,0.485,0.262,7,-13.286,1,0.0263,0.978,5.99e-05,0.117,0.332,98.536,4,club
+6pA8RUm0OkT4aNbY2GqfhF,Glee Cast;Kristin Chenoweth,"Glee: The Music, The Complete Season One",Home (Glee Cast Version) (feat. Kristin Chenoweth),26,211093,False,0.286,0.623,0,-5.013,1,0.042,0.693,1.5e-05,0.306,0.109,96.649,4,club
+0SSSffzPG01HyGPjFMgQMg,Glee Cast,"Glee: The Music, The Complete Season Two",As Long As You're There,27,256079,False,0.359,0.601,2,-5.525,1,0.0335,0.233,0.0,0.127,0.263,161.618,3,club
+1GG23RRVNQiPbzEY8cBXNG,Eartheater,Scripture,Scripture,50,251217,False,0.514,0.615,5,-6.44,0,0.0326,0.011,0.06,0.222,0.133,140.039,4,club
+2AHnUkgAkoOFnkvwRIezrK,DJ Sliink;Skrillex;Wale;Austin Millz,Saint Laurent,Saint Laurent,39,152727,True,0.551,0.765,1,-7.661,0,0.358,0.0117,0.0016,0.224,0.537,131.712,4,club
+1r4MvTc1gwfHdt2TuMMYx0,Sega Bodega;Arca,Romeo,Cicada (feat. Arca),49,233314,False,0.649,0.55,11,-8.591,0,0.152,0.574,0.0188,0.124,0.575,103.965,4,club
+0jqlnmgSkAR3ZPPhsmlQAQ,DJ Envy;Fetty Wap;DJ Sliink,Text Ur Number (feat. DJ Sliink & Fetty Wap),Text Ur Number (feat. DJ Sliink & Fetty Wap),13,242134,True,0.691,0.782,8,-5.365,1,0.0561,0.0211,1.88e-05,0.406,0.741,139.946,4,club
+4H97Ldkl4dvkGbcfqZxUhJ,Eartheater,Mitosis,Mitosis,50,147355,True,0.544,0.507,1,-7.755,1,0.0481,0.019,0.0164,0.185,0.206,153.079,4,club
+46CRHxwDo4BmFjplAm6Z4d,KLOUD;Wasiu,MATTER,MATTER,42,191111,False,0.802,0.952,2,-3.298,1,0.0947,0.0941,0.00472,0.126,0.27,107.977,3,club
+374Fkh72U4Q2uQ20yiRhGv,Infraction,Just Evil,Just Evil,30,224400,False,0.583,0.974,0,-2.588,1,0.0669,0.00304,0.638,0.351,0.0393,100.014,4,club
+2z4PMFI4qjetKHd1nFsewU,Infraction,Training Day,Training Day,37,133333,False,0.622,0.743,10,-5.096,1,0.0471,0.0976,0.0551,0.0387,0.598,143.981,4,club
+3hzxBcOpm0wmr6YDD1EPq5,KLOUD,Save The World,Save The World,37,229380,False,0.498,0.796,9,-2.1,0,0.0436,0.0499,0.0,0.109,0.278,112.853,4,club
+1HYIxT29a0gtzhqGjVQule,Phil Gonzo,Gang,Gang,44,271081,False,0.752,0.892,0,-6.296,1,0.0354,0.108,0.9,0.147,0.506,115.008,4,club
+10ZzDXNhc56QQfMDF9loIS,ZABO,Crusade,Crusade,39,174545,False,0.547,0.855,10,-4.688,0,0.248,0.0505,0.308,0.236,0.202,110.023,4,club
+5WnnOy3qXPS8qOwl3U5KWX,DJ Sliink;Zak Leever,Let Me Go,Let Me Go,40,208264,False,0.764,0.595,1,-9.233,0,0.0441,0.0224,0.00178,0.109,0.371,121.018,4,club
+6vuF3LYipww2DRhRJ9s7CH,F.O.O.L;Extra Terra,AGONIZE,AGONIZE,45,223163,False,0.713,0.898,11,-4.402,0,0.0358,0.00122,0.595,0.113,0.0736,114.025,4,club
+3YoXksESEwIkPsH1gZBq4r,COUCOU CHLOE,NOBODY,NOBODY,52,116756,True,0.844,0.788,11,-7.043,1,0.136,0.0905,0.000656,0.0839,0.536,110.988,4,club
+06xAXT9rka5ZGu19gcbufd,Dark Smoke Signal,Megacorp,Megacorp,50,235200,False,0.541,0.918,2,-7.232,1,0.0456,0.0089,0.733,0.0941,0.166,100.012,4,club
+7Jlqg70T1RhZICoFJmj1Bm,Gesaffelstein,Aleph,Hate or Glory,44,288786,False,0.699,0.824,2,-5.176,1,0.0664,0.00741,0.939,0.198,0.0895,102.987,4,club
+21BfslzLCx6jrXwjqV6Cpg,Infraction;Alexi Action,Atomic,Atomic,36,173333,False,0.518,0.936,11,-4.389,1,0.0408,0.000893,0.934,0.0594,0.0532,108.02,4,club
+1TYSdxFGUKUrsd7a0FJX7u,DEADLIFE,Afterlight Special,Afterlight Special,48,265090,False,0.604,0.78,2,-6.216,1,0.0711,0.000764,2.62e-05,0.141,0.0565,110.013,4,club
+0FBzoIIRHpb81roPMjpkBX,One True God,Afterlife,Afterlife,37,173114,False,0.702,0.741,5,-6.332,0,0.0296,0.0237,0.678,0.104,0.271,122.006,4,club
+30lIB7UwSLy5qgkfYZEtB1,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,Ponyboy,44,194437,False,0.823,0.381,1,-7.372,1,0.0889,0.000497,0.000542,0.14,0.46,107.996,4,club
+5iGWdCXBO6iYkMDK9fMrfL,KLOUD,Dark Down Below (Chapter II),Dark Down Below,40,235354,False,0.473,0.938,10,-2.307,1,0.068,0.0171,0.000332,0.151,0.267,155.019,4,club
+539y2n1UYiM2gyYJKGNuuQ,Daniel Deluxe,Darkness,Darkness,49,257490,False,0.638,0.637,2,-10.727,1,0.0332,0.0429,0.752,0.11,0.0664,95.989,4,club
+2kGFo8cQRNtCfQjFNrvrEE,MAGNAVOLT,Edgerunner,Edgerunner,47,262736,False,0.613,0.988,11,-5.498,1,0.113,5.13e-05,0.835,0.427,0.0393,95.027,4,club
+1uzUOkIB0fZ19A6Hu65HC7,Julian Winding,The Neon Demon (Bande originale du film),The Demon Dance,35,359960,False,0.692,0.608,2,-9.763,1,0.0379,0.0472,0.862,0.0807,0.216,113.001,4,club
+6H8ceuSNpEiLToX9pZpKuZ,DEADLIFE;Scandroid,God in the Machine (Deluxe Edition),Obsolete,49,345000,False,0.489,0.895,1,-4.471,1,0.0793,0.00103,0.0,0.0905,0.348,92.038,4,club
+3XxItD7JwghG475aDe8yL2,Daniel Deluxe,Ghostrunner (Original Soundtrack),Infiltrator,44,210019,False,0.607,0.56,11,-8.493,0,0.0434,0.0239,0.812,0.141,0.0372,96.005,4,club
+38DAl9PzomoqfPpEFpibwB,Lucille Croft,Patient X,Post Human,43,91437,False,0.733,0.483,0,-4.836,0,0.048,0.0121,0.0166,0.386,0.155,105.023,4,club
+1JcwHjETNNbUH0yfrc9w9n,Power Glove,Far Cry 3: Blood Dragon (Original Game Soundtrack),Power Core,49,126352,False,0.4,0.774,11,-8.539,1,0.0341,0.0401,0.932,0.11,0.204,170.111,4,club
+48EjMTlOf6RyKXD4jkc9f4,Linn da Quebrada;BADSISTA,I míssil,I míssil,27,312117,False,0.737,0.617,2,-6.864,1,0.0484,0.11,0.000643,0.128,0.85,117.988,4,club
+7DAk5oLyfCSSQMazwbHzzM,Absolute Valentine,Police Heartbreaker,Bad News,49,238709,False,0.599,0.856,7,-7.964,1,0.0387,0.175,0.868,0.114,0.663,93.007,4,club
+1v4wTGL3HAAUDcLjJXiQWG,Extra Terra,Convergence 2045,Cyberpunk,42,218259,False,0.597,0.92,11,-4.524,1,0.0553,0.000247,0.844,0.109,0.135,101.975,4,club
+0TcbMBsLnhquWjhsxIN1BW,Arca,KICK ii,Tiro,56,138630,False,0.748,0.864,1,-7.535,1,0.0705,0.134,0.0,0.252,0.793,98.035,4,club
+3CwJI2rcnyZL0DVaUZ2D99,DJ Flex;Denise Belfon,Put Your Back In It (Afrobeat),Put Your Back In It (Afrobeat),52,84000,False,0.929,0.889,1,-2.647,1,0.204,0.221,0.281,0.0934,0.868,140.04,4,club
+0F0vP1gOKm3TRc8RxuWH7K,Linn da Quebrada;Boss in Drama;BADSISTA,mEnorme,mEnorme,26,224246,False,0.384,0.508,1,-9.587,1,0.0483,0.127,0.000199,0.234,0.227,124.82,4,club
+2IIdrejPZuHHFpc3LbTtEK,Glee Cast,"Glee: The Music, Volume 5",Get It Right,53,227853,False,0.471,0.549,2,-5.696,1,0.0315,0.331,0.0,0.0729,0.141,83.681,4,club
+4SZM5Rj0bWylIUvkuFswiy,Glee Cast,"Glee: The Music, The Complete Season Four",Whistle (Glee Cast Version),44,226853,False,0.791,0.878,0,-4.402,1,0.0489,0.356,0.0,0.133,0.839,103.993,4,club
+5EQoIi5yW1h3IBT3bJSN8b,Glee Cast,Britney 2.0,Womanizer (Glee Cast Version),48,212653,False,0.619,0.84,1,-5.167,1,0.0382,0.0334,0.0,0.183,0.44,139.043,4,club
+5cxq7YCarud9twaVh6Y3Rt,Glee Cast,"Glee: The Music, The Complete Season Three",Somebody That I Used To Know (Glee Cast Version),46,246186,False,0.833,0.467,8,-7.693,1,0.0355,0.554,1.14e-05,0.135,0.814,128.918,4,club
+5iYUt3rsgrGFU0nugdhYwj,Glee Cast,"Glee: The Music, Volume 7",Rumour Has It / Someone Like You,54,207946,False,0.64,0.896,6,-3.221,0,0.079,0.275,0.0,0.147,0.751,123.071,4,club
+1zugfOhn6BebboqGcpUlba,Glee Cast,"Glee: The Music, The Graduation Album",We Are Young,50,249773,False,0.378,0.554,7,-6.086,1,0.0497,0.0504,0.0,0.199,0.523,91.977,4,club
+2MLPCjSRpBVLoX6y2P6vJ9,Glee Cast,"Glee: The Music, We Built This Glee Club",Take Me to Church (Glee Cast Version),46,242440,False,0.469,0.649,4,-7.056,0,0.0419,0.44,0.0,0.102,0.425,129.043,3,club
+4ZSWROYQK0lkkE8SZeEPwl,Glee Cast,Glee Love Songs,I Wanna Dance With Somebody (Who Loves Me) (Glee Cast Version),51,242186,False,0.653,0.811,11,-5.433,1,0.0319,0.000612,2.86e-05,0.135,0.659,128.023,4,club
+4JITK6LNul3oc5aDcCYlLx,Retroj,UNTITLED,To The Left (Jersey Club),24,129976,False,0.933,0.37,6,-12.258,1,0.321,0.098,0.353,0.164,0.329,134.998,4,club
+3iAvTn62s7rvE6hm6fFodt,Glee Cast,"Glee: The Music, Volume 5",Loser Like Me,53,199000,False,0.701,0.864,3,-4.351,1,0.0631,0.00331,0.0,0.0421,0.811,106.032,4,club
+7LqfLfRDpJQkr5LHtPMLql,Glee Cast,"Glee: The Music, The Complete Season Three",Cough Syrup (Glee Cast Version),53,251280,False,0.579,0.833,2,-5.371,1,0.0276,0.0103,2.24e-05,0.105,0.343,129.009,4,club
+75MtyxCW4EhkpZUq8CwJ04,Linn da Quebrada,Trava Línguas,tudo,25,185637,False,0.509,0.2,4,-12.151,1,0.0373,0.939,0.00367,0.0909,0.199,99.93,3,club
+40Lx8yaEYXsGymEtVqFOg5,Linn da Quebrada,Pajubá,Enviadescer,25,246229,False,0.796,0.786,9,-3.978,1,0.299,0.22,0.0,0.07,0.615,130.007,4,club
+4xUDDrNNLaFKzjfM3JLyZm,Linn da Quebrada;BADSISTA,Trava Línguas,quem soul eu,26,224397,False,0.601,0.73,5,-6.947,1,0.0584,0.168,8.27e-06,0.151,0.312,112.034,4,club
+1JQcgccHr9uIhlj3sUtUTw,Glee Cast,"Glee: The Music, The Complete Season Two",Don't Stop,25,196933,False,0.589,0.87,7,-4.79,1,0.0321,0.0557,3e-06,0.205,0.577,120.99,4,club
+1c7h130PVLDvjuztyMlfSG,Glee Cast,"Glee: The Music, The Complete Season Two",As If We Never Said Goodbye,25,294933,False,0.326,0.263,3,-9.668,1,0.0375,0.599,2.3e-06,0.221,0.229,111.109,3,club
+0fAuuR5hoWZtTMpuqqxAGy,Two Shell,home,home,48,245472,False,0.731,0.94,2,-6.634,0,0.0501,0.472,0.674,0.0987,0.672,162.017,4,club
+13AsTzqHpaD6qleOQ7ypPM,Gesaffelstein,Novo Sonic System,Orck,40,188413,False,0.501,0.963,7,-5.459,1,0.0973,0.000648,0.284,0.0993,0.0751,181.955,3,club
+0UIYSqVwyz9bhMA9Pa6eI3,Rrodney,Do You Remember (Jersey Club Remix),Do You Remember - Jersey Club Remix,57,85394,False,0.651,0.582,11,-7.105,0,0.236,0.000909,0.0843,0.868,0.351,90.059,4,club
+5Woxn89IL5z5YJcuWib8Qk,ALEX,ODYSSEY,ODYSSEY,39,222222,False,0.613,0.995,6,-4.959,0,0.0466,0.216,0.77,0.21,0.293,107.971,4,club
+67TS0XzhK4CKoYX9Bm44t9,ZABO,Low,Low,32,176000,False,0.692,0.788,2,-2.718,1,0.0397,0.0788,0.685,0.364,0.364,105.006,4,club
+3XdXixlx3MoVzfL7pu9hx6,Arca,KiCk i,Time,49,165789,False,0.548,0.322,3,-13.198,0,0.0266,0.8,0.301,0.0867,0.374,105.947,4,club
+7yF0tjZPXO9x4v0M9U6VQy,KLOUD,THE HILLS,THE HILLS,37,258782,False,0.512,0.826,8,-5.202,1,0.0351,0.00401,0.00264,0.184,0.0373,115.178,4,club
+6NvS4rMdQiHdr5anwyX8Dz,ZABO,Dusk & Dawn,Bing Bong,30,188481,True,0.622,0.996,6,-3.122,1,0.101,0.0379,0.779,0.115,0.211,106.998,4,club
+0Z3azmUTP30fOD1XJ0hSjV,HVDES,Fallout,Fallout,46,292173,False,0.525,0.801,2,-5.294,0,0.0516,0.0155,0.0645,0.132,0.111,183.961,4,club
+6E8sLL7D4VEZNLpWPQqeA9,Owl Vision,Downlord,Horus,48,254867,False,0.709,0.928,9,-3.15,1,0.0655,0.000543,0.882,0.159,0.171,113.003,4,club
+2F14jGKSIvL10dEYhimqVY,ZABO;C.D,Flow,Flow,38,192035,False,0.452,0.568,7,-4.952,0,0.127,0.0319,0.000305,0.121,0.318,101.043,4,club
+0an42ZDRxMJXkBh49eNvQt,Dustycloud;Kage;LexBlaze,Ignore Them,Ignore Them,47,188095,False,0.835,0.789,2,-6.857,1,0.18,0.0452,0.45,0.132,0.458,125.949,4,club
+2NjljSTMMopdS3rYsJxGAa,LICK;LUNA AURA,DARK VIBE ORDER,BODY,43,208941,False,0.488,0.674,9,-6.344,0,0.0729,0.0129,0.00785,0.125,0.37,170.046,4,club
+3D9wMpAv3lE79V4mVQ0jFF,FOVOS,Psychopath,Psychopath,41,169600,True,0.647,0.988,1,-5.222,1,0.0975,0.0279,0.511,0.266,0.204,150.016,4,club
+0oglz5q06CXysGBhL299OP,Infraction,Nothing to Lose,Nothing to Lose,31,197333,False,0.534,0.848,8,-5.428,1,0.0559,0.0138,0.000318,0.209,0.196,180.042,4,club
+7bbkcBG3f7qKYLPH1rNrQu,LeKtriQue;Proxy,Break Your Skull,Break Your Skull,42,219600,False,0.697,0.851,7,-4.915,1,0.123,0.00282,0.74,0.168,0.299,99.972,4,club
+4u4FI7ZplnBpQ3Id8yU3uW,Neo Fresco,"No False Idols, Chapter 1",Sublimation,46,266213,False,0.778,0.64,2,-7.051,1,0.088,0.0381,0.435,0.0946,0.487,110.009,4,club
+7nKiLyUUSbNUwaoMBzBeQO,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,It's Okay To Cry,44,230624,False,0.579,0.232,8,-18.228,1,0.0434,0.395,0.0553,0.344,0.2,127.151,4,club
+0XGoZeBkI6n9TKnp7pjMMu,FOVOS,Breathe,Breathe,43,186666,False,0.669,0.927,1,-6.919,1,0.0464,0.039,0.901,0.331,0.547,126.012,4,club
+6Y0U7xFEKsWpgdjogqF6gI,Kingdom;Tiara Thomas,Neurofire,High Enough,22,258698,False,0.757,0.584,11,-6.238,0,0.0431,0.11,0.00043,0.353,0.255,119.94,4,club
+1m2Rimh8YEA6mirZDErK6g,SWARM,Alpha & Omega,Alpha & Omega,47,275044,False,0.256,0.969,2,-5.209,1,0.177,4.39e-05,0.000761,0.135,0.127,144.494,4,club
+6T3EnxsNJDW5SnpFYfDhT4,Hyper;WARGASM (UK),Spoiler (Recoil),Spoiler - Recoil,43,240000,False,0.491,0.777,5,-7.002,1,0.0533,0.00327,0.0411,0.129,0.255,89.954,4,club
+4I4p4iwxzFzdiz1WOZdZk7,Arca,KICK ii,Luna Llena,52,199000,False,0.689,0.605,4,-7.42,0,0.0737,0.0799,0.0685,0.191,0.162,96.991,4,club
+0F1yb5tFzXDocAXqcljA9H,El Tigr3,¡Roar!,She Swallowed Burning Coals,47,279420,False,0.641,0.645,1,-7.996,1,0.0479,0.0418,0.0404,0.147,0.342,109.994,4,club
+1d4m1qmn5Bu2Y7dXBCM1kw,Catnapp,Break,Thunder,45,240069,False,0.629,0.745,8,-9.437,1,0.0318,0.847,0.0655,0.139,0.459,89.979,4,club
+6ZQcTdTv19DT26dEnI42jx,One True God,I See U,I See U,43,189152,False,0.68,0.833,1,-3.272,1,0.0283,0.00195,0.106,0.113,0.0541,117.979,4,club
+2kJqKOf3MKOVHKDoDD9nKg,MAGNAVOLT,Prime Complex,Prime Complex,48,210461,False,0.508,0.934,10,-9.577,0,0.0504,9.31e-05,0.959,0.124,0.698,130.012,4,club
+1gnASrgMSzNlqjmj9kiTqx,SWARM,Say Goodbye,Say Goodbye,43,268800,False,0.447,0.921,8,-5.879,0,0.101,0.000735,0.000237,0.183,0.148,149.844,4,club
+1lCSVEqFldH6cTMnm28M8k,One True God;Coka Cobra,Burned,Burned,40,184285,False,0.782,0.788,0,-7.23,1,0.0349,0.00785,0.432,0.173,0.137,111.981,4,club
+19SONTXWkRG3DjINX3pxoB,Saint Punk,Ouroboros,Closer Tonight,39,171840,False,0.836,0.735,6,-3.25,0,0.143,0.00952,1.36e-05,0.122,0.45,125.094,4,club
+26vsNNsXVJ45soCZcCtKUN,Glee Cast,Britney 2.0,Oops!... I Did It Again (Glee Cast Version),43,171093,False,0.706,0.667,8,-5.243,1,0.0517,0.0125,1.09e-06,0.531,0.539,98.97,4,club
+7KkNDNSl8N9yT9VyQHre73,Gost,Behemoth,Reign in Hell,47,111250,False,0.614,0.942,7,-1.744,1,0.0541,7.55e-06,0.92,0.0978,0.345,122.992,4,club
+0nulkrtTeEYJ5975HPHWkV,Saint Punk;MXMS,Ouroboros,Ghost Blood (with MXMS),43,222963,False,0.701,0.683,1,-5.055,0,0.0363,0.15,0.000698,0.39,0.138,122.941,4,club
+7oBKHPJYECedAEiKzvI7Oh,Kyle Edwards;DJ Bake,Turn Around (Jersey Club),Dance for You (Jersey Club),23,113920,False,0.913,0.778,2,-5.772,1,0.115,0.00649,0.0101,0.0432,0.562,144.999,4,club
+3KvTZQPpzPw9UKxaGlJkBs,The Magnetic Fields,69 Love Songs,All My Little Words,51,166133,False,0.477,0.532,8,-7.744,1,0.0274,0.731,0.0114,0.0973,0.403,105.239,4,club
+6X9kJKaZlpBmkVinla2nNB,Linn da Quebrada,Pajubá,Submissa do 7º Dia,24,214762,False,0.537,0.786,2,-5.955,1,0.132,0.456,0.000484,0.106,0.356,109.962,4,club
+1OsOKKocRWMSWzC6fgdQFT,The 6ths,Wasps' Nests,Movies In My Head,23,258466,False,0.521,0.67,2,-10.742,1,0.0327,0.258,0.659,0.0744,0.872,148.417,4,club
+7rqRdS3vnalxld1CdxAjZh,Retroj,Drive You (Jersey Club),Drive You (Jersey Club),23,112274,True,0.857,0.437,2,-10.76,1,0.859,0.00198,0.135,0.0912,0.0734,145.63,4,club
+0XL6MrReH2SJwPdlISewPc,Linn da Quebrada,Pajubá,Bixa Travesty,24,158000,False,0.597,0.905,6,-5.288,1,0.149,0.0344,6.57e-05,0.108,0.513,134.725,4,club
+4WiKM50TuDoLBYPNDTfbes,Linn da Quebrada;Pepita,Pajubá,Dedo Nucué,24,242197,False,0.88,0.836,0,-5.193,0,0.0736,0.231,1.21e-06,0.526,0.596,130.025,4,club
+478LSBFNhkCaSix30hr3OH,DJ Tray,Stop Playing,Stop Playing - Jersey Club,22,140800,False,0.868,0.651,1,-5.344,0,0.375,0.177,0.00076,0.137,0.545,150.002,4,club
+6m2qba8pt0oa13nBLA2Nt2,Glee Cast,"Glee: The Music, The Complete Season Three",Survivor / I Will Survive,54,208573,False,0.563,0.913,9,-4.384,0,0.225,0.00773,0.0,0.127,0.311,128.083,4,club
+06SiZAfeYY3rDYRFc4Dlek,Glee Cast;Kristin Chenoweth,"Glee: The Music, The Complete Season One",Fire (Glee Cast Version) (feat. Kristin Chenoweth),36,204453,False,0.796,0.544,5,-5.564,1,0.0427,0.147,0.0,0.138,0.487,117.987,4,club
+5XzEh1jkaMxoy39Q5c3jFh,Glee Cast,"Glee: The Music, The Hurt Locker",Whip It (Glee Cast Version),23,172066,False,0.737,0.963,2,-3.606,1,0.0898,0.297,0.0,0.124,0.965,158.05,4,club
+5jxiPjBHVjP22HVgMAuBtC,Teki Latex;Lio,Party De Plaisir,Les matins de Paris (feat. Lio),22,232880,False,0.701,0.709,11,-11.241,1,0.0363,0.141,1.66e-05,0.324,0.837,116.978,4,club
+4fUnWdIBHzigp0KcaZwwCq,Glee Cast,"Glee: The Music, Season 4 Volume 1",Give Your Heart A Break (Glee Cast Version),51,209480,False,0.645,0.439,6,-6.372,1,0.0296,0.846,0.0,0.108,0.56,118.987,4,club
+2V1BAm4Ph2BXEqTjssxjjc,Retroj,Vickeelo (Jersey Club),Vickeelo (Jersey Club),22,111452,True,0.856,0.702,4,-6.083,0,0.307,0.0357,0.0752,0.0712,0.319,85.042,4,club
+1SXnEl6HKPKea9nG4nh2uJ,Glee Cast,"Glee: The Music, Old Dog, New Tricks",Werewolves of London,22,189413,False,0.691,0.904,9,-6.162,1,0.0295,0.0872,3.96e-05,0.108,0.866,110.025,4,club
+0so0moYLqkFWE6dquoCOsh,Glee Cast;Gwyneth Paltrow,"Glee: The Music, Volume 4",Forget You (feat. Gwyneth Paltrow),51,221360,False,0.674,0.739,2,-5.446,1,0.0385,0.0716,2.4e-06,0.15,0.851,127.424,4,club
+2YjbRNLXewpRk5FXM0xqop,Linn da Quebrada,Trava Línguas,onde,24,220317,False,0.671,0.773,8,-6.121,1,0.187,0.109,0.00161,0.117,0.719,169.953,4,club
+1LzvuqP3L5Q7G61kUBgfCJ,SOPHIE,VYZEE,VYZEE,49,202531,False,0.891,0.571,11,-5.568,0,0.332,0.147,0.0,0.715,0.733,129.994,4,club
+6QSVzUOFxBhaiCnggbX5sJ,F.O.O.L,Monstercat Uncaged Vol. 9,Criminals,23,250920,False,0.59,0.885,8,-5.193,1,0.0287,0.00152,0.475,0.112,0.111,109.98,4,club
+1yVbARBysb11nskwIzXLIg,Arca,Prada / Rakata,Rakata,52,151531,False,0.581,0.844,5,-6.64,0,0.0595,0.0855,0.0,0.224,0.546,93.963,4,club
+6ACkoKsRIwPoUuk5d43Srq,Rabit;Eartheater,Angelica,Angelica,38,215118,False,0.56,0.797,1,-7.603,1,0.186,0.516,0.897,0.115,0.357,144.026,4,club
+5caIlq2BbPS6aTEVsobSZA,Daniel Deluxe,Purification,Purification,42,190876,False,0.475,0.683,11,-8.392,1,0.0419,0.657,0.669,0.0827,0.326,179.722,4,club
+69az5d2qrBdACE7o93HY3X,DreamReaper,ERROR404,ERROR404,47,230857,False,0.652,0.936,11,-3.536,0,0.0608,0.00222,0.114,0.324,0.48,105.047,3,club
+292h0AOEEmddv9wIWnrDl4,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,Is It Cold In The Water?,43,212213,False,0.233,0.39,0,-6.943,0,0.0336,0.000781,0.000228,0.141,0.0565,159.667,4,club
+2hdhMoaEpzenU9vGtAuWwF,SIERRA,Gone,Gone,45,216250,False,0.617,0.397,7,-10.121,1,0.0272,0.00179,0.865,0.111,0.0344,99.973,4,club
+5wibR7lM8TpbBYJDExo0xt,One True God,JINN,JINN,44,185454,False,0.781,0.858,11,-3.506,1,0.0634,0.0317,0.576,0.115,0.347,109.969,4,club
+0D7obTbuXuZS8Y4tA7BYFL,Mvntana,I Got Hoes (Mo Bamba),I Got Hoes (Mo Bamba),33,108000,False,0.785,0.7,1,-9.486,0,0.189,0.0158,7.55e-05,0.339,0.622,159.963,4,club
+0TZoEOZKZcQVw4sKAwWT87,Dustycloud,The World Is Yours,The World Is Yours,47,186210,False,0.797,0.626,10,-9.604,0,0.0807,0.0315,0.714,0.11,0.171,124.993,4,club
+0Zo3dEV1BOVGF1DaW5aGq9,COUCOU CHLOE,WIZZ,WIZZ,50,174915,True,0.809,0.663,1,-6.889,1,0.258,0.0115,0.583,0.332,0.74,136.046,4,club
+5x9lyB5lP2lXR0zb7L6RaB,Woesum;Bladee;Thaiboy Digital;Yung Lean,Blue Summer,Violet Gold,44,142180,True,0.669,0.689,5,-6.269,1,0.0625,0.344,4.09e-05,0.0976,0.669,179.053,4,club
+3e5N6hXvsybNHFqkrLF1Zu,dj Shawny,Go Daddy Go,Go Daddy Go,32,47661,False,0.738,0.626,1,-3.661,0,0.279,0.000585,0.0,0.11,0.569,159.991,4,club
+4DAcodxBzJZA5zbYoR4gMo,Gress,MMXX,VLST,43,187428,False,0.426,0.76,5,-7.025,0,0.0422,0.000133,0.622,0.0488,0.0449,104.997,4,club
+5sPJnPDr0Tl8Iz67Nn251N,One True God;Vania,Lovely Drug,Careless,40,201578,False,0.698,0.914,7,-2.521,1,0.0345,0.182,0.0682,0.143,0.263,113.961,4,club
+5B3AkVsXqpokA567NwQ2td,KilSoSouth,THONG,THONG,21,120048,False,0.832,0.67,1,-8.483,1,0.301,0.0276,0.419,0.0826,0.591,180.041,4,club
+1XJOrr8OTcB1D4u1mUM0vg,Malibu,One Life,Lost At Sea,22,406153,False,0.0601,0.449,5,-13.867,1,0.0893,0.104,0.845,0.866,0.0372,66.981,4,club
+2rb7ow4hAmloaakkWQAwDR,Daniel Deluxe,Star Eater,Star Eater,43,272855,False,0.578,0.555,2,-9.045,1,0.0598,0.62,0.865,0.116,0.147,189.969,3,club
+21lsxNQxBO9TLUsq3AqDfK,Eartheater,Trinity,Supersoaker,49,184505,False,0.502,0.825,1,-7.609,1,0.0367,0.0121,0.689,0.12,0.198,177.996,4,club
+0mjDJiWmZ548y9EUnogCP1,Arca,KicK iii,Señorita,45,141364,True,0.67,0.778,11,-6.828,0,0.115,0.00309,0.00156,0.133,0.231,176.028,4,club
+6x2497wWaSlpPeLYzTuPuP,HVDES,Revelations,R U Afraid,47,181816,False,0.586,0.729,2,-5.861,1,0.0472,0.000128,0.847,0.101,0.078,95.033,4,club
+0MBcVBOZy6yR3fZ6R2SFeu,The Magnetic Fields,i,It's Only Time,33,265720,False,0.656,0.484,2,-7.23,1,0.0246,0.268,0.00236,0.124,0.453,100.548,4,club
+63CIZNPyppJJSlMcK3aHVg,KLOUD,AUTONOMY,DISCONNECT,43,193513,False,0.573,0.874,2,-2.813,1,0.0373,0.0277,2.84e-06,0.238,0.0955,110.964,4,club
+3iMgqf7gCjBhRdBrLm5WbM,One True God,Unholy,Sleep,42,145555,True,0.797,0.829,1,-3.771,1,0.0332,0.0333,0.651,0.0849,0.395,107.97,4,club
+52iV7av0pPkXl0LEmecPl0,Daniel Deluxe,Ghostrunner (Original Soundtrack),Air,39,174556,False,0.573,0.732,6,-8.993,1,0.0296,0.266,0.893,0.0959,0.054,110.019,4,club
+1wPZSxai0IQWb3eB0iabbH,Owl Vision,Doomster,Holy Shit,44,268623,False,0.638,0.915,7,-3.083,1,0.0434,0.00031,0.754,0.121,0.132,109.01,4,club
+3Qnz0h9QoUcqr1webXWbYM,Lazerpunk,Death & Glory,Power,36,252014,False,0.517,0.87,7,-6.138,1,0.0482,0.00125,0.811,0.632,0.208,95.027,4,club
+0AkxZb3XkSOdLghm6EB7p2,Lucille Croft;Bad/Love;TMRRW,Kill The Machine (feat. Bad/Love),Kill The Machine (feat. Bad/Love),44,195720,False,0.446,0.983,2,-5.684,1,0.232,0.00209,0.0158,0.605,0.449,177.072,4,club
+5pt3wTkkdhbYTpi3INmA27,Kelvin T;Takeem,Synthetic,No Sleep,21,252123,True,0.632,0.756,11,-5.893,1,0.0419,0.52,0.000242,0.205,0.519,140.037,4,club
+3R0uRYQu4aaBUg0BArJz8M,Kelvin T;Takeem,Synthetic,Like Me,21,235212,True,0.524,0.812,6,-5.804,1,0.0397,0.0825,0.000358,0.199,0.363,150.004,4,club
+6w0w5Yj3b6IaZ77DPLwXDM,Daniel Deluxe,Ghostrunner (Original Soundtrack),Vendetta,40,164583,False,0.64,0.89,7,-6.647,1,0.0572,0.0502,0.824,0.43,0.145,104.979,4,club
+2ZweT6b3eqIrX8OV33ldlO,dj Shawny,Little Einsteins Tangin Song,Little Einsteins Tangin Song,41,66913,False,0.711,0.728,1,-3.977,0,0.335,0.00631,0.00109,0.0887,0.461,164.871,4,club
+42wY7uB3WafeqwEcXvxZGu,Noisecream,Bananas,Discrete,40,159408,False,0.642,0.747,7,-8.064,1,0.05,0.000263,0.726,0.124,0.384,114.985,4,club
+5iaPhRuBYqeCHbCOpOlvx5,Glee Cast,"Glee: The Music, Volume 7",Uptown Girl,46,180706,False,0.618,0.643,4,-4.086,1,0.0297,0.569,0.0,0.443,0.722,128.992,4,club
+4Dq3hEZc9WryOSyHEXrzPN,Linn da Quebrada,Pajubá,(Muito +) Talento,23,178858,False,0.611,0.819,7,-5.031,0,0.231,0.343,0.0094,0.233,0.501,129.947,4,club
+12CQQ1yENFHIhJl7U9MeJL,DJ LILMAN;DJ Wallah,Hit It to the Beat,Hit It to the Beat,21,173946,False,0.894,0.418,1,-11.604,1,0.267,0.0244,0.0667,0.106,0.0368,138.049,4,club
+6JAmWTVfU9uwJDcXi7SERD,Smerz,Believer,Versace Strings,22,123730,False,0.333,0.0873,6,-23.85,0,0.0368,0.979,0.797,0.292,0.192,83.279,3,club
+5vdnVb9TxdowGuKNIPMwMF,Fire-Toolz;Sophiaaaahjkl;8901,"Interbeing , Vol. 1 (Remix)",CODENAME_BONKERS - Remix,21,204003,True,0.68,0.636,4,-11.432,0,0.135,0.00329,0.875,0.165,0.338,100.006,4,club
+3AJ7w7Un7IIMyRJ6PJ2pOJ,Even As We Speak,Blue Suburban Skies (1987 Remastered),Bizarre Love Triangle - Remastered,22,122753,False,0.419,0.483,0,-13.364,1,0.0331,0.493,0.002,0.0619,0.806,125.844,4,club
+3gHizsJz9wunLcqn0Ygel1,Kyle Edwards;DJ Bake,Know Everything (Jersey Club) [feat. DJ Bake],Know Everything (Jersey Club) [feat. DJ Bake],20,109766,False,0.912,0.833,2,-6.093,1,0.516,0.158,0.378,0.0821,0.281,139.952,4,club
+2UNGc0hxwSLWowb2Ri86mm,Linn da Quebrada,Pajubá,Transudo,22,208938,False,0.938,0.772,1,-5.385,1,0.35,0.0637,0.0,0.126,0.894,124.043,4,club
+0LpE5tfNe15QLvQL4YDi7T,Glee Cast,"Glee: The Music, Volume 3 Showstoppers",Bad Romance (Glee Cast Version),47,294226,False,0.628,0.922,9,-4.638,0,0.0759,0.0055,3.69e-06,0.181,0.532,119.005,4,club
+2kjMpCZBF8fArH7B4yku9T,Glee Cast,"Glee: The Music, Season 4 Volume 1",Mine (Glee Cast Version),52,251946,False,0.787,0.344,7,-7.331,1,0.031,0.706,0.0,0.0643,0.361,110.036,4,club
+0zAAGOZZcnZxdZGAaSAj8k,Glee Cast,"Glee: The Music, Season 4 Volume 1",Some Nights (Glee Cast Version),47,263280,False,0.596,0.769,0,-6.185,1,0.0412,0.0443,0.0,0.527,0.348,108.078,4,club
+2ufmiGf9zDBGQduFiZxmPs,Linn da Quebrada,Mulher,Mulher,22,380505,True,0.574,0.478,0,-10.564,1,0.344,0.0736,4.52e-06,0.144,0.192,119.956,4,club
+2kXnOV5df9njPkGKOiYDfr,Glee Cast,"Glee: The Music, Volume 6",I Feel Pretty / Unpretty,51,239373,False,0.343,0.484,0,-8.173,0,0.0361,0.112,0.0,0.125,0.336,75.46,4,club
+27kzeiYID7wyktLz6YdfHV,Glee Cast,Whenever I Call You Friend (Glee Cast Version),Whenever I Call You Friend (Glee Cast Version),22,248013,False,0.413,0.853,0,-6.375,1,0.0699,0.193,0.0,0.0606,0.35,129.883,4,club
+1BJAi32qx32HYnv9G0iZRV,Glee Cast,"Glee: The Music, The Complete Season Two",Bella Notte,21,151120,False,0.295,0.205,2,-8.163,1,0.0289,0.627,0.0,0.0653,0.408,93.288,4,club
+6ObXqVTebtSXcaA2WnMI30,Linn da Quebrada;Podeserdesligado;Ventura Profana,PAJUBÁ REMIX I,Ventura Profana & Podeserdesligado * Bixa Travesty - Poder & Glória (Remix),23,212727,False,0.711,0.861,1,-4.904,1,0.13,0.0747,0.000763,0.123,0.451,131.798,4,club
+3r0gvoaAkWmLdJO4UUv94v,Arca,Arca,Desafío,44,233079,False,0.161,0.483,1,-11.21,0,0.0472,0.486,0.42,0.371,0.0929,161.117,5,club
+2hhIvbMtsxm8Lw5WDO6GKk,Eartheater,Trinity,Spill The Milk,47,219770,False,0.586,0.419,4,-10.375,0,0.0503,0.296,0.379,0.0911,0.216,123.03,4,club
+6AerqwCmIFR3qqiskGzsYA,Sega Bodega,Romeo,Only Seeing God When I Come,47,200501,False,0.705,0.647,0,-8.32,0,0.0377,0.486,0.00029,0.251,0.531,136.029,4,club
+3Voxs701PykNiku7EOcB8L,ZABO,Blood Moon,Schizophrenia,27,189473,False,0.795,0.848,2,-3.634,1,0.0686,0.00576,0.791,0.162,0.251,94.993,4,club
+53Z0D7GFwQUrgKlBwkREXB,LICK,DIMENSION,REBEL,43,252000,False,0.492,0.932,8,-5.105,1,0.0487,0.00126,0.837,0.288,0.142,99.991,4,club
+5pqaZzkZ5AnjZs5AV3Bnvn,F.O.O.L;Caster,INERTIA,INERTIA,40,223326,False,0.418,0.918,7,-3.814,0,0.106,0.000941,0.0903,0.103,0.258,154.951,4,club
+4QoUM2jgHS1fYWDyFfBvn0,LICK,REFLECTIONS,GIVE IN,25,204138,False,0.496,0.849,8,-4.526,0,0.0363,0.111,0.803,0.128,0.102,174.037,4,club
+0qJtV82bKOgB2kvfa8IrZp,A. G. Cook;Cecile Believe,7G,Show Me What,47,169500,False,0.755,0.433,4,-4.703,0,0.287,0.431,0.0,0.0903,0.605,160.052,4,club
+3H5eCyts4yAaxhoZzde5Kh,Max Brhon,Can't Take This,Can't Take This,33,226295,False,0.564,0.88,11,-6.158,1,0.0366,0.0194,0.757,0.0971,0.0418,108.998,4,club
+0NhaSNiyeNC2kzJYGSWEq8,ALEX;TOKYO ROSE;THE AKUMA;Power Glove,AKUMA II,RIVALS,42,260970,False,0.669,0.717,7,-8.019,1,0.0438,0.145,0.902,0.111,0.858,103.022,4,club
+3w2sS9NjSvrf4FCOC1vZrQ,FOVOS,Hypnos,Hypnos,44,171428,False,0.739,0.915,2,-6.656,1,0.06,0.00708,0.916,0.442,0.32,125.997,4,club
+0k5s5ytFmdF9eZvt4bEcVw,LICK,REFLECTIONS,BACK TO YOU,29,236860,False,0.533,0.84,4,-3.959,0,0.0323,0.0218,0.398,0.131,0.13,171.999,4,club
+2d58FzVzUULJSy1YRQWB09,Vector Seven,Modified,Trauma Team,43,244800,False,0.562,0.897,11,-7.923,1,0.056,0.00705,0.608,0.0914,0.431,99.964,4,club
+2IjQVByU3MNXCunLL1CVmR,Infraction,Take That,Take That,30,171428,False,0.609,0.895,11,-3.552,1,0.0344,0.000168,0.83,0.135,0.134,98.008,4,club
+2Qd3WSAVk0JJ6xrJpJqUEd,F.O.O.L,Revenger,Revenger,34,222562,False,0.595,0.879,2,-3.83,1,0.0347,0.00048,0.848,0.115,0.166,110.012,4,club
+6yIbhvGr0vzp2plUIivNh4,Owl Vision,H0RR0R,MEGATON,43,142048,False,0.531,0.91,1,-4.051,1,0.0454,0.000421,0.73,0.103,0.0755,83.016,4,club
+5AMV02ipEOnPNyfEuIlpjX,Catnapp;Modeselektor,Break,The Mover,38,177208,False,0.438,0.551,3,-8.006,0,0.0602,0.0201,0.126,0.0879,0.268,100.701,3,club
+0Qs8gLPsl6ToR9HmdcpryZ,SWARM,Take Me to Hell,Take Me to Hell,42,307200,False,0.659,0.681,8,-7.799,1,0.101,0.183,0.648,0.0922,0.0746,99.986,4,club
+3KHKpb11TVJ3ReHLpIFZyR,Lucille Croft;BRVMES;TINYKVT,Misery,Misery,40,205411,False,0.531,0.867,2,-4.392,1,0.0467,0.00874,0.609,0.0785,0.0597,169.942,4,club
+2rK8dE0UsTl1VeSCqRmdYA,LICK;SOUNDR,REFLECTIONS,TELL ME WHERE,21,168727,False,0.604,0.731,5,-4.436,1,0.0354,0.0102,0.181,0.197,0.247,165.013,4,club
+4iPvXzEGbz79VVugn9ML5v,Mvntana;DJ Taj,Ice Me Out (Still Jiggle),Ice Me Out (Still Jiggle),21,127007,False,0.901,0.614,11,-9.041,1,0.494,0.00489,2.29e-06,0.0647,0.925,155.027,4,club
+1D86iI0GlMq1VnWAsze1Ek,DJ Flex,Bum Tum (Jersey Club),Bum Tum (Jersey Club),39,128855,False,0.929,0.863,1,-4.064,1,0.243,0.256,0.407,0.0652,0.877,146.01,4,club
+1LOmRBg3chULvqcTYGsdpu,SWARM,The End of All Things,The End of All Things,40,319789,True,0.361,0.968,0,-3.985,1,0.383,0.000412,0.00392,0.108,0.297,149.512,4,club
+39r4slJXUjGgozrkQQ19Cb,STRNGR;Destryur,Night at the Grindhouse,Devil Doctor,41,219789,False,0.52,0.836,2,-8.204,1,0.0366,0.00071,0.759,0.121,0.118,94.936,3,club
+4uK0HBycTNPrY2gBz86aT0,COUCOU CHLOE;COBRAH,WIZZ (COBRAH REMIX),WIZZ (COBRAH REMIX),52,160000,False,0.766,0.701,4,-8.089,1,0.0737,0.261,0.447,0.0886,0.568,135.991,4,club
+37GD7jrPe7DubPim1i5kJI,Daniel Deluxe,Corruptor,Blood Magic,45,214874,False,0.582,0.869,2,-7.114,1,0.0322,0.000151,0.141,0.0917,0.0715,105.001,4,club
+1ijUZ5EjQWJcAPtF1ovyDT,Absolute Valentine,Omega,Omega,44,191684,False,0.527,0.9,2,-4.444,1,0.0407,0.0471,0.785,0.176,0.371,95.012,4,club
+1tLs7pJH2EYNTUQ0eQBROn,Kelvin T;Takeem,Synthetic,On The Floor,19,151261,True,0.769,0.745,6,-6.146,1,0.0469,0.0446,0.764,0.426,0.532,122.986,4,club
+32SL0NKS1QiR7XUKzlqufJ,One True God,Pray For It,Pray For It,40,166611,False,0.763,0.855,2,-5.863,1,0.0412,0.0329,0.348,0.411,0.531,121.018,4,club
+3U1gcqjUsmcUuq4s6MMD3E,ALEX;TOKYO ROSE;Rachel Mcalpine;THE AKUMA,AKUMA,AKUMA,47,234126,False,0.809,0.65,2,-7.457,1,0.0456,0.00123,0.0626,0.08,0.564,120.004,4,club
+47eegRsZAnFulGZf4vNdTI,Malibu,One Life,Tilting On Windmills,20,498065,False,0.159,0.167,5,-18.523,0,0.0434,0.924,0.887,0.108,0.0247,132.166,4,club
+77GcYr9JP6uvJM0kPa6Nzk,Glee Cast,"Glee: The Music, The Christmas Album Vol. 3",Jingle Bell Rock,48,152946,False,0.623,0.738,3,-5.709,1,0.0281,0.179,0.0,0.146,0.874,152.066,4,club
+4BaEOfLHGeP9gw5ToeiY7a,Glee Cast,"Glee: The Music, Volume 4",Lucky,49,187560,False,0.632,0.468,0,-8.089,1,0.0412,0.541,0.0,0.165,0.669,130.052,4,club
+03X1SHRxnIb2jtjcQx54Et,Gost,Skull,Cursed,50,213159,False,0.583,0.929,1,-5.106,1,0.198,0.00115,0.873,0.164,0.285,118.0,4,club
+7pIUiiq1nnrzP2mRdO05qg,DJ LILMAN,1 Finger in the Air,1 Finger in the Air,20,121901,False,0.641,0.394,2,-9.297,1,0.0681,0.000109,0.00181,0.0943,0.63,130.909,4,club
+7pYVIpuFrH2cDMseplG8Jn,Glee Cast,"Glee: The Music, Volume 4",Empire State of Mind,47,277346,False,0.508,0.883,6,-4.567,1,0.329,0.0617,0.0,0.158,0.717,173.566,4,club
+1aZzcqUAnTyzC6WkpdggpB,King Stephen,Vanitas,Nocturna,20,318500,False,0.506,0.982,1,-6.285,1,0.115,0.0441,0.873,0.0891,0.17,120.02,4,club
+0dgAEW5nCROeM4vr5dtq3Z,DJ Taj;Jdub,New Freezer (Jersey Club),New Freezer (Jersey Club),20,128104,True,0.886,0.584,5,-11.021,0,0.369,0.00809,4.33e-05,0.135,0.392,150.039,4,club
+0nzvwCXs0X3SGPhyGdb7Cp,Glee Cast;Darren Criss,"Glee: The Music, Volume 4",Teenage Dream (feat. Darren Criss),47,220386,False,0.775,0.529,3,-6.523,1,0.0434,0.534,0.0,0.0907,0.796,119.988,4,club
+6G6mGMH3JSVHaby296gl5h,The Cat's Miaow,Songs '94-'98,Not Like I Was Doing Anything,21,102929,False,0.476,0.435,9,-12.264,0,0.0287,0.826,0.923,0.0847,0.537,148.874,4,club
+5oxioZhKHdASa1PZM65kYT,Glee Cast,"Glee: The Music, Volume 4",Toxic,46,204413,False,0.606,0.74,8,-5.401,1,0.056,0.131,0.0,0.0797,0.485,132.582,4,club
+6RBqI3GA8ApKBHQzvoHr9I,ESA (Electronic Substance Abuse),That Beast,Like Meat (Spoiled),21,384750,False,0.587,0.894,1,-5.391,0,0.0336,2.98e-05,0.838,0.399,0.0427,125.003,4,club
+2gvkj2LCOBF9Ysi52KVzYl,Kyle Edwards;DJ Smallz 732,$ave Dat Money (Jersey Club),$ave Dat Money (Jersey Club),20,124917,True,0.935,0.689,0,-7.993,0,0.285,0.00907,1.35e-05,0.0785,0.808,139.913,4,club
+4ybKmh6wn33ZppPpMxbqfV,Gost,Non Paradisi,Unum Infernum,20,248760,False,0.485,0.934,0,-2.473,1,0.113,0.000151,0.811,0.379,0.219,68.51,4,club
+7IcPhG3UyCmFDHmdwB79CF,Linn da Quebrada,Pajubá,Tomara,22,187562,False,0.887,0.796,8,-5.258,0,0.246,0.0964,2.42e-06,0.05,0.801,110.075,4,club
+1v8QLMcGPV5vOEnHbanadJ,Linn da Quebrada,Pajubá,Bomba Pra Caralho,22,131290,False,0.682,0.619,9,-6.981,0,0.46,0.48,0.0,0.133,0.739,149.746,4,club
+18k2vGf6TWpBoy8ASTuPdS,Glee Cast,Glee LGBTQIA+ Pride,Don't Stop Believin' (Glee Cast Version) - Cover of Journey,48,230200,False,0.473,0.619,7,-3.823,1,0.0336,0.0383,0.0,0.189,0.274,123.857,4,club
+4kRROniJRDFFhgzGv2pnD1,Glee Cast;Darren Criss,Glee: The Music presents The Warblers,"Hey, Soul Sister (feat. Darren Criss)",45,220546,False,0.664,0.533,2,-6.112,1,0.0279,0.587,0.0,0.225,0.628,97.032,4,club
+1ifRGSRp58TOVXTZUAHUP0,Gaze,Shake the Pounce,So Early To Tell,20,175693,False,0.561,0.792,2,-6.924,1,0.0303,0.616,0.0479,0.188,0.837,150.149,4,club
+01hzSkNrbt10n7GaEulntu,Glee Cast,"Glee: The Music, Season 4 Volume 1",Everybody Talks (Glee Cast Version),48,179280,False,0.495,0.891,4,-4.266,1,0.0383,0.000186,0.0,0.475,0.735,155.075,4,club
+1AWHIMK1YKJoOGD13t0OeW,Power Glove;PYLOT,Aeon,Aeon,40,271235,False,0.599,0.753,2,-9.062,1,0.0414,0.0496,0.901,0.121,0.173,92.0,4,club
+31MOdvW2VwY6dIykMMYxWb,Dustycloud,Alive,Alive,46,240000,False,0.701,0.518,8,-8.871,0,0.056,0.122,0.851,0.046,0.303,124.005,4,club
+4JgCLSsPYhABzfDJUSOufy,BRVMES,Rêve,Rêve,38,228000,True,0.666,0.524,4,-5.691,1,0.0763,0.135,0.583,0.107,0.148,160.057,4,club
+3mKuX3jnciGRXRHrV6O3rJ,Gesaffelstein,Hyperion,Reset,33,205440,False,0.735,0.418,7,-13.27,1,0.296,0.0577,0.222,0.0982,0.241,94.5,4,club
+2TqYC6Gn7vDhL8f2wWCYTB,Arca,KiCk i,Machote,44,177200,False,0.209,0.724,5,-9.143,0,0.0424,0.00148,1.24e-06,0.369,0.185,136.718,4,club
+0QXDrUNf9WvYebhnJzPjrR,One True God;Darkk Matter,Cult 45,Don't Ask Me,34,147428,True,0.698,0.854,9,-2.922,1,0.0779,0.0889,0.0,0.136,0.508,140.115,4,club
+1wQ5iwSpQYl4Kp5JLYlz6o,Woesum;Oklou,Blue Summer,Empty Lightning,42,129548,False,0.801,0.651,11,-5.879,1,0.0344,0.574,0.000242,0.0985,0.58,113.02,4,club
+3ousqyeuUtGWL20gZLrgGB,EDDIE;Voicians,Night Runners,Night Runners,39,217500,False,0.524,0.704,11,-7.607,0,0.0444,0.0184,0.00452,0.323,0.185,128.011,4,club
+4iZdjw66yXD4qXwybIuCIw,Dustycloud,Fate EP,Obsession,45,144761,False,0.699,0.868,9,-5.717,1,0.049,0.00367,0.855,0.749,0.624,126.041,4,club
+6VYUpXZesAGIKO4IPDnF21,Catnapp,No Cover,No Cover,42,125855,False,0.71,0.708,5,-10.197,1,0.114,0.00522,0.429,0.115,0.518,147.957,4,club
+3hEeAlRlAmWeS08g46OkiO,Woesum;Yung Lean,Blue Summer,Walking Ferragamo,42,110192,True,0.586,0.679,8,-6.814,0,0.0617,0.436,0.0,0.305,0.78,160.164,4,club
+2xWJ7nu0KXxcozsByEWE7O,Woesum;Thaiboy Digital,Blue Summer,Yin & Yang Remix - Remix,40,144115,True,0.509,0.761,7,-6.322,0,0.049,0.371,0.792,0.108,0.209,133.951,4,club
+4DbRtnuP6eyQSGXbquLRv0,Arca,KicK iii,Bruja,49,230625,True,0.431,0.663,1,-8.108,1,0.213,0.002,0.0,0.813,0.431,93.607,3,club
+3MFBFXmISHQdhEN3AFFuOs,KLOUD,VIP Remixes,HUMANS (VIP REMIX),45,206775,True,0.413,0.962,6,-2.91,0,0.0487,0.00837,0.249,0.215,0.0313,128.004,4,club
+2qaZ0gPUwpL4NeoXbasriP,Retroj,SKYPE,UMPH,19,116691,False,0.79,0.895,6,-0.654,1,0.198,0.122,0.000173,0.636,0.516,159.991,4,club
+4SOnL149BShT4rIN3mHBpP,Le Castle Vania,Payday,Use of Force,41,225730,False,0.592,0.886,2,-2.775,1,0.0311,6.45e-05,0.804,0.302,0.136,117.0,4,club
+05kufzkEAcBQ2MPkx2Pu2b,DJ Smallz 732;Kyle Edwards,Ayo Smallz,Rock Yo Hips,19,127346,False,0.869,0.872,11,-7.156,1,0.314,0.0345,0.00149,0.0836,0.333,165.117,4,club
+2G4k8hkfM5xZBwR4DH77Rg,DreamReaper;MAGNAVOLT,BLOODRAVE,BLOODRAVE,45,223000,False,0.508,0.98,2,-3.586,1,0.0466,0.000592,0.894,0.0877,0.575,95.005,4,club
+5zbRFBOAjFzFwloq84RLT8,Extra Terra,Cybertruck,Cybertruck,41,223625,False,0.728,0.95,10,-3.53,0,0.0553,0.00488,0.842,0.138,0.211,109.989,4,club
+1WKhHlXOqCBXKlHt1CVrNA,Shredder 1984,Resistance,This Is a Call To Arms,44,102000,False,0.448,0.738,11,-9.218,1,0.0344,0.0762,0.983,0.234,0.0439,120.141,4,club
+5MoiqhZBl5pJnDVPQc0C6Z,Kelvin T;Takeem;Qqbbg,Synthetic,MK Nose,19,149019,True,0.559,0.832,7,-6.142,0,0.0515,0.00152,0.000776,0.0858,0.263,145.041,4,club
+6RJiY28t9jWpdy1JkUhNgK,Arca,KiCk i,Mequetrefe,49,140742,False,0.674,0.823,0,-8.654,1,0.202,0.0199,1.25e-05,0.666,0.673,94.118,4,club
+6wv6Knl7cmtWcJTYgY4x8D,DJ Taj;DJ Sliink;Big O,Best Friend Anthem,Best Friend Anthem,19,142633,True,0.946,0.93,1,-3.173,1,0.185,0.111,0.0,0.0906,0.616,138.047,4,club
+7eQmfS3PahueO79SRzBKIj,Lazerpunk;Max Brhon,Do Not Disturb,Do Not Disturb,38,194369,False,0.518,0.964,2,-5.769,1,0.0475,0.00274,0.778,0.221,0.0501,109.989,4,club
+0thnRNBpYTbx4XMI7dLvrU,Noisecream,Bananas,The Alien,35,172392,False,0.609,0.791,2,-4.932,1,0.0839,0.00023,0.307,0.0942,0.137,164.788,3,club
+7kbvZI5tnmk2ofhBuOB3rt,Tullycraft,The Singles,Superboy & Supergirl,39,183440,False,0.497,0.548,0,-12.384,1,0.0669,0.43,0.148,0.119,0.6,137.224,4,club
+67QoEc0mR2OpqNKXgHGHDq,Glee Cast;Darren Criss,Glee: The Music presents The Warblers,"Bills, Bills, Bills (feat. Darren Criss)",46,180280,False,0.833,0.441,11,-6.172,0,0.152,0.392,0.0,0.149,0.762,127.658,4,club
+2Q29bebCGRudrX7YI8AzNg,Dinamarca;Talisto,Sol De Mi Vida: Vocalized,Sol,20,116210,False,0.672,0.373,2,-13.974,0,0.0583,0.275,0.0208,0.089,0.156,94.967,4,club
+5qWoMjTxPfhUNDdQMF6hMF,3FORCE,Crossfire,"In the House, In a Heartbeat",41,227692,False,0.3,0.623,2,-7.534,0,0.0313,0.000952,0.945,0.0908,0.0346,156.038,4,club
+3BP8hJTYC4PoL8TNTBtnbV,Glee Cast,Glee Love Songs,Let Me Love You (Until You Learn To Love Yourself) (Glee Cast Version),48,219040,False,0.401,0.177,5,-11.218,1,0.0359,0.938,8.49e-05,0.121,0.449,111.648,4,club
+25E2XD6pXuH5vk3P0I4kEJ,HORSKH,Wire,Common Crimes,20,211760,False,0.646,0.938,4,-4.76,0,0.0978,0.000321,0.00274,0.368,0.52,110.003,4,club
+3dF5c8lFKYH7pxOEWDVwB5,Allo Darlin',We Come from the Same Place,We Come from the Same Place,19,277386,False,0.511,0.682,4,-8.897,1,0.0322,0.111,0.00327,0.116,0.438,164.721,4,club
+6SluKjEbTkN9eUn6C4Qzh0,Glee Cast,"Glee: The Music, The Complete Season Three",It's All Coming Back To Me Now (Glee Cast Version),48,322933,False,0.269,0.516,0,-7.361,1,0.0366,0.406,0.0,0.117,0.341,178.174,4,club
+5BthMM1ZvdIRWA7fe4rDAj,Glee Cast;2CELLOS,Glee LGBTQIA+ Pride,Smooth Criminal (Glee Cast Version) (feat. 2CELLOS),49,213693,False,0.753,0.811,0,-6.128,1,0.0441,0.645,0.000766,0.238,0.896,135.043,4,club
+3LRcDiWeIFSXmBZtyv7sJ4,Glee Cast,"Glee: The Music, Volume 4",Just The Way You Are,43,216093,False,0.606,0.719,8,-6.77,1,0.039,0.00864,0.0,0.0765,0.366,108.985,4,club
+2uq0ZXtL4mF5pvZ8LeVIDo,Glee Cast,"Glee: The Music, Volume 6",Pretending,44,237520,False,0.477,0.687,9,-5.721,1,0.0468,0.291,0.0,0.118,0.421,167.947,4,club
+0AILicFrWqwwPOjuByDrYV,Glee Cast,Glee Love Songs,A Thousand Years (Glee Cast Version),42,306786,False,0.409,0.35,10,-8.025,1,0.0275,0.75,0.0,0.114,0.126,139.876,3,club
+4oPwiOa5pPq8Raa6phjiEE,SIERRA;Z6b3r,Strange Valley (The Remixes),Hide - Z6B3R Remix,20,174857,False,0.59,0.806,8,-5.732,1,0.038,0.0364,0.0794,0.111,0.552,100.021,4,club
+58Q3bM45iawA7RaPJY5c3S,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Born This Way,20,239266,False,0.511,0.939,11,-6.039,0,0.0943,0.000163,0.0105,0.949,0.176,123.997,4,club
+6cNSOKvw5hYVrOCrLw8joJ,Glee Cast;Neil Patrick Harris,"Glee: The Music, Volume 3 Showstoppers",Dream On (Glee Cast Version) (feat. Neil Patrick Harris),49,274133,False,0.417,0.622,3,-4.706,1,0.0299,0.0128,2.46e-06,0.614,0.224,154.022,4,club
+0ut1UTeccM48xyYxGG63dg,Tiger Trap,Tiger Trap,My Broken Heart,22,180000,False,0.175,0.802,7,-7.666,1,0.0331,0.00115,0.642,0.0996,0.949,197.182,4,club
+67f4716llTQM7PEjjZHjwA,The Magnetic Fields,Holiday,Swinging London,23,155813,False,0.565,0.722,0,-8.29,1,0.035,0.107,0.00688,0.228,0.662,128.435,4,club
+6w8tGzTSdZKkKG4IWh1n6h,Glee Cast,"Glee: The Music, Volume 4","River Deep, Mountain High",52,212626,False,0.325,0.855,8,-4.603,1,0.0755,0.0563,0.000299,0.298,0.497,167.538,4,club
+6cJYecL5EcPoRROOHBxtX5,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),I'm A Slave 4 U,20,203586,False,0.778,0.839,7,-7.795,1,0.0944,0.0852,0.000133,0.396,0.535,110.005,4,club
+2zphznHEwLRNCC6P1lJoIX,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Dog Days Are Over,20,178893,False,0.382,0.81,7,-5.696,1,0.0677,0.312,4.69e-06,0.741,0.352,150.06,4,club
+6WrtyVY9CgbXi8TbAOr3KH,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Firework (Glee Cast Concert Version),20,164320,False,0.532,0.875,10,-6.057,0,0.0543,0.0231,0.0,0.946,0.397,124.058,4,club
+7xdMHkLSF7zRRmml8BWunV,Glee Cast;Gwyneth Paltrow,Glee The 3D Concert Movie (Motion Picture Soundtrack),Forget You (feat. Gwyneth Paltrow),20,162080,False,0.571,0.947,7,-4.695,1,0.0812,0.176,0.0,0.9,0.579,127.411,4,club
+05wRpBHnbs5xsz8UhRZz3x,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Safety Dance,20,154626,False,0.609,0.947,8,-5.823,0,0.234,0.0389,0.0,0.956,0.177,105.012,4,club
+7gXtBbYMZK5x2J7miBOTGn,Linn da Quebrada;Potyguara Bardo;Tinoc,PAJUBÁ REMIX II,Potyguara Bardo & Tinoc * Submissa (Remix),21,252545,False,0.835,0.788,11,-4.81,0,0.0863,0.0461,8.85e-05,0.0884,0.55,110.022,4,club
+478D8hHQGWGPFIAH9bRmNg,Linn da Quebrada,Manhãs De Setembro: 2ª Temporada (Música da Série Original Amazon),Ex Mai Love (Da Série Original Amazon Manhãs De Setembro),21,168202,False,0.685,0.743,10,-5.097,0,0.0608,0.0633,0.00309,0.302,0.648,141.944,4,club
+5HuOQHBDbb0UJjEE2fw6Uq,SOPHIE,BIPP,BIPP,45,224142,False,0.765,0.703,2,-3.883,1,0.166,0.0937,0.0843,0.127,0.335,82.681,5,club
+0M6kxde1FdGI95X0XPuru6,Arca;Sia,Born Yesterday,Born Yesterday,41,198529,False,0.402,0.646,1,-8.087,0,0.0498,0.0516,0.0,0.12,0.0956,144.93,4,club
+6ZDlNJ1RTu4HZv18GYVB2v,FOVOS,Platia,Platia,42,192380,False,0.758,0.828,7,-6.815,0,0.055,0.031,0.462,0.124,0.292,126.013,4,club
+2eTmOAAlQd17DGnuAW9sVl,Tarik Bouisfi;ISEKXI,Lost Spirit,Lost Spirit,35,232571,False,0.532,0.978,2,-4.966,1,0.0474,0.145,0.895,0.45,0.311,120.013,4,club
+1HrDeVl2xmX0ALXE1fl4qE,F.O.O.L;Klasey Jones,Revenger,Safe,30,188000,False,0.546,0.895,4,-5.241,0,0.0302,0.00109,0.744,0.0988,0.047,120.01,4,club
+7gbn8fYb4VHd1ZHdqfOylI,Ase Manual;SBF;Lvcky Fem,Shake That Thing,Shake That Thing,49,221142,False,0.813,0.782,5,-10.335,0,0.0627,0.0018,0.86,0.115,0.769,140.003,4,club
+4PACAdF8q4Xx1pzQ5shHCz,Kelman Duran,TOMA,TOMA,19,132000,False,0.85,0.312,5,-7.764,0,0.0649,0.102,0.552,0.082,0.147,100.001,4,club
+0PMke9FhkG66sL6LM8mmA3,Infraction,Not the Only One,Not the Only One,29,169846,False,0.606,0.789,4,-6.637,1,0.0354,0.0031,0.00964,0.107,0.229,130.02,4,club
+1eRMet17FVv9ql9kgJRpG1,Saint Punk,Closer Tonight,Closer Tonight,32,171840,False,0.852,0.735,6,-3.25,0,0.122,0.00968,1.45e-05,0.122,0.452,125.022,4,club
+6mo88PgAWke0VsVbFmABoT,F.O.O.L,TROUBLEMAKER,TROUBLEMAKER,37,222724,False,0.694,0.935,10,-4.239,0,0.0845,0.00219,0.759,0.153,0.666,124.983,4,club
+6pmWZjdqBpBWJvRe3vBTrA,Le Castle Vania;Hyper,Pray For My Enemies,Pray For My Enemies,37,249600,False,0.494,0.828,5,-4.147,0,0.0387,0.00012,0.875,0.275,0.0787,100.002,4,club
+0MGkVtHqa6hp9WFaUc0fq1,Le Castle Vania,Payday,Fully Loaded Epic Win,39,187001,False,0.679,0.952,1,-2.777,1,0.0596,1.66e-05,0.686,0.515,0.175,128.033,4,club
+6pdFWoSqOdRs5SCpeVMh8n,Haezer,Exit,Dumb,44,98691,True,0.615,0.361,1,-6.7,1,0.225,0.00153,0.573,0.115,0.387,213.778,4,club
+4cEvym0z23fSm40dyu1333,N O W A V E,SINGULARITY,OBEY,41,284373,False,0.519,0.901,1,-4.215,1,0.0405,0.000313,0.943,0.678,0.126,95.009,4,club
+0K7u9s0WKPh3gGS5YdtJWd,Misanthropix,Boostergangs,Boostergangs,40,243157,False,0.551,0.838,11,-6.231,0,0.105,0.000431,0.242,0.155,0.353,95.036,4,club
+7G61RIOr0fW6pk7HIeSjSp,Blackhaine,Armour,Black Lights on the M6,18,145777,True,0.422,0.687,8,-6.877,1,0.852,0.229,7.77e-05,0.0904,0.286,171.698,5,club
+5Vij2SbkSbPRosI0m5vdS2,Le Castle Vania,"Operation Black Light (The Otherside Series, Vol. 4)","Operation Black Light - The Otherside Series, Vol. 4",41,287619,False,0.616,0.838,10,-3.151,0,0.0329,0.00497,0.877,0.101,0.0691,126.002,4,club
+1PRpJKvfeaOPhJW39ecgw2,One True God;ARIUS,Misbehave,Misbehave,38,163298,False,0.677,0.697,5,-4.2,0,0.0346,0.0428,0.024,0.167,0.213,96.987,4,club
+2IfDGY0NSaCucgusiXGhFX,Haezer;Born I,You Feel Me,You Feel Me - Original Mix,43,191612,False,0.685,0.989,7,-2.347,1,0.206,0.275,0.0,0.225,0.505,123.987,4,club
+52n4kofyXauJYktwjDZJOE,ALEX;Rachel Mcalpine,SIMULATIONS,Game Over,46,238802,False,0.61,0.744,4,-6.475,0,0.0392,0.00986,1.93e-06,0.186,0.635,144.987,4,club
+0hUeLzZyTbX5yXvKqdDYk9,DJ LILMAN;Jiddy,Fake Love,Fake Love,18,191111,False,0.919,0.712,1,-8.471,1,0.278,0.0594,0.0319,0.13,0.684,151.945,4,club
+3BdgnQZJBTfafXIU5eV1yu,Smash Stereo,Legendary,Legendary,44,180023,False,0.585,0.946,7,-5.452,1,0.0627,3.04e-05,0.854,0.114,0.327,108.976,4,club
+1kJwBiHE5PjtqvbOH697Gv,Nick León,Rompe Discoteka,Bachetrón,18,238356,False,0.787,0.782,1,-7.319,1,0.0576,0.041,0.798,0.233,0.506,105.991,4,club
+731wnLuIxBdoqArAo7ls5U,The Encounter;Street Cleaner,Bad Blood,Astrid,42,296744,False,0.462,0.854,2,-10.331,1,0.034,0.000502,0.896,0.11,0.058,110.017,4,club
+3732IAzhrTY71dMHvVzcoB,Gold Geisha,Dominare,Dominare,40,151994,False,0.792,0.886,0,-3.377,1,0.0556,0.00768,0.853,0.121,0.258,120.006,4,club
+5IqiNPpMK74L47YfcJ5HWk,Meth Math;Dinamarca,m♡rtal,Beso Con Baba,21,113142,False,0.73,0.435,8,-6.678,1,0.042,0.284,0.0107,0.151,0.456,140.044,4,club
+1ha61qmGiLAJEiz6AOzmIo,Kyle Edwards;Dj K-Deucez,The Worst (Jersey Club),The Worst (Jersey Club),18,227631,False,0.729,0.786,8,-7.102,0,0.277,0.00939,4.81e-06,0.621,0.398,135.005,4,club
+1zk13qn2OJYa9Y7GJ08Lt3,Noisecream,Bananas,The Doom Party,41,217128,False,0.699,0.837,10,-9.09,0,0.186,0.0273,0.749,0.784,0.374,109.985,4,club
+2NDkFgYYfd78FdxMwPcitx,DJ Smallz 732;Nyema,Skinny Girl Challenge (Make It Bounce) [feat. Nyema] - Single,Skinny Girl Challenge (Make It Bounce) [feat. Nyema],18,134478,False,0.888,0.717,7,-7.17,1,0.416,0.108,0.0,0.0616,0.718,75.017,4,club
+67f3MoMGMpnemJmixGr7JF,DJ Smallz 732;Kyle Edwards,DJ Smallz 732,Pretty Brown Eyes (Jersey Club),19,171520,False,0.771,0.882,1,-2.3,1,0.289,0.00347,0.0,0.55,0.552,140.123,4,club
+3qby1r9Eyyvn1Lqgwe9x2V,The Cat's Miaow,Songs '94-'98,I Take It That We're Through,19,187725,False,0.444,0.185,2,-15.44,1,0.0294,0.864,0.657,0.101,0.374,97.011,4,club
+0VSbESTIeUvBjF9GbzF201,The Hit Parade,With Love From...,Forever,19,178000,False,0.571,0.698,5,-11.867,0,0.0316,0.457,0.639,0.076,0.478,141.441,4,club
+0JA3Sw747nqPs6jVmpHtFl,KilSoSouth,Raise Your Glass (Jersey Club),Raise Your Glass - Jersey Club,18,76776,False,0.645,0.43,10,-8.803,0,0.381,0.00299,0.000125,0.551,0.468,170.101,4,club
+6d5CfH0P84foEd1fkmp7po,Glee Cast,"Glee: The Music, Volume 4",Billionaire,47,211440,False,0.791,0.721,6,-5.588,0,0.094,0.259,0.0,0.104,0.66,87.032,4,club
+4gyo8vLgo6MPiqqEiM4Tv6,Glee Cast,Don't Rain on My Parade (Glee Cast Version),Don't Rain on My Parade (Glee Cast Version),47,167640,False,0.544,0.797,1,-5.187,1,0.162,0.199,0.0,0.0986,0.384,77.565,4,club
+1sEOregWycPnHc3SGl0uE5,HORSKH,Wire,Black Switch,19,194480,False,0.602,0.99,3,-5.463,0,0.181,0.00132,0.047,0.384,0.169,125.034,4,club
+1TDaJdffDuZo7jVOpWkgg1,DJ Smallz 732,Club Control,I Wanna Rock (Jersey Club),19,109766,False,0.957,0.917,10,-5.12,1,0.326,0.0289,0.886,0.0851,0.913,139.972,4,club
+29K9e80R1v6OesMQiUJ5AC,Linn da Quebrada,Pajubá,Pare Querida,20,176234,False,0.824,0.79,8,-4.899,1,0.235,0.5,0.0,0.0451,0.685,132.024,4,club
+5yDeRxGhyl6MjnJ93dTwdK,Girl Pusher,Singles,Disconnect,18,83555,False,0.617,0.776,4,-8.746,1,0.0406,0.0253,0.88,0.117,0.884,135.043,4,club
+6lEM8pimYEkdY9PJEti1oo,Gost,Possessor,Shiloh's Lament,19,236910,False,0.429,0.956,9,-2.951,0,0.347,0.000682,0.55,0.111,0.287,154.087,4,club
+2ip9o30QUaAeg1yg8NGINl,Big Dope P;DJ Slugo;Lauren Flax,MOVELT HOUSE PARTY 2,Work Move Shake - Lauren Flax Remix,0,363000,False,0.829,0.729,6,-8.372,1,0.0628,0.0133,0.386,0.101,0.162,140.017,4,club
+1uNrJJe4Y4yMv3pcuaNXb0,Reznyck,Muscle Cardiac,Chevrolexomyl,18,221935,False,0.381,0.786,6,-5.58,1,0.0372,3.1e-05,0.767,0.613,0.271,92.927,4,club
+0Y1JthFAUbcqmNxEMAklOe,Glee Cast;Darren Criss,"Glee: The Music, Volume 7",Last Friday Night (feat. Darren Criss),43,228066,False,0.657,0.852,11,-4.041,0,0.0369,0.00292,0.0,0.123,0.792,126.003,4,club
+3rE9V4p5WkROR7ud2QG6Yh,Tayhana,Tierra del Fuego,Corazón Lleno de Mil Inviernos,18,234468,False,0.582,0.638,5,-7.588,0,0.0591,0.171,0.787,0.122,0.715,199.998,4,club
+7lUA5kETZGrFSRUzXHAQtZ,Glee Cast,"Glee: The Music, The Complete Season Four",Chasing Pavements (Glee Cast Version),46,210813,False,0.573,0.499,3,-6.363,1,0.0275,0.578,0.0,0.118,0.288,80.059,4,club
+68BY7HWkshsCSq5GkAlZVD,Black Tambourine,Black Tambourine,Dream Baby Dream,20,236720,False,0.393,0.803,5,-10.078,0,0.044,0.0116,0.725,0.106,0.169,131.455,4,club
+3oMKhAUF7rEU75jT33dQFs,Girl Pusher,911,Reformed Hellraiser,18,151312,True,0.469,0.8,7,-7.984,1,0.0506,0.0023,0.711,0.438,0.242,154.885,4,club
+3QRqN7McYHxVyfGW7jy4vR,Linn da Quebrada,Pajubá,Pirigoza,20,172544,False,0.716,0.99,7,-4.353,1,0.0771,0.14,6.54e-05,0.422,0.694,132.014,4,club
+2L4ppJgbf6JxcRV1lUkaAg,Glee Cast,"Glee: The Music, The Complete Season Three",Here's To Us (Glee Cast Version),43,180880,False,0.418,0.867,11,-3.844,1,0.0393,0.00176,0.0,0.238,0.433,80.123,4,club
+3XBrJwCHsTYd2m95E85xRh,Glee Cast,"Glee: The Music, The Graduation Album",Edge Of Glory (Glee Cast Version),49,262893,False,0.554,0.699,9,-5.788,1,0.0369,0.000363,3.56e-06,0.0819,0.214,128.021,4,club
+06PndIW5FcipqMJwbdLIwB,Kai Whiston;EDEN,Stingray,Stingray,32,174967,False,0.402,0.58,5,-7.2,0,0.245,0.0284,0.00113,0.0901,0.708,76.221,3,club
+5gjq3i68QgHjjl0f5I0mEo,Kai Whiston;EDEN,Drayan!,Stingray,33,174967,False,0.402,0.58,5,-7.2,0,0.245,0.0284,0.00113,0.0901,0.708,76.221,3,club
+2PAwc7JR6ASO6BFuT5jMJE,Gesaffelstein,Hyperion,Memora,34,217106,False,0.624,0.494,11,-12.832,0,0.0321,0.199,0.808,0.107,0.0393,99.045,4,club
+0u0kDkhqxEIntRcpK63Z5T,Moa Pillar;Ушко,Volvo,Volvo,34,411428,False,0.562,0.897,8,-8.494,0,0.0402,0.00581,0.105,0.114,0.27,140.003,4,club
+3BfwSBhhhYi3KEonAOZkKQ,DJ Flex;A-Star;Edouble,Eggplant Afrobeat,Eggplant Afrobeat,43,119184,False,0.887,0.728,1,-5.906,1,0.0567,0.00536,0.421,0.0454,0.685,138.012,4,club
+2sGrahhcZy4BRGbzKhFQZF,Max Brhon,Reality,Reality,30,198504,False,0.54,0.537,2,-6.383,1,0.0321,0.0271,0.0115,0.101,0.0711,110.012,4,club
+1Wu6bxVoI79qR4L9wEzz3c,CABLE,Vanisher,Vanisher,39,240000,False,0.632,0.673,0,-6.576,1,0.0336,0.00109,0.0622,0.174,0.0533,100.016,4,club
+2cK3dIoov6hwuDK0z9TGf2,Gastel,Rene,Rene,40,184000,False,0.708,0.978,1,-4.529,1,0.098,0.332,0.667,0.323,0.0377,118.002,4,club
+4DxL57anHzvn7bTHA66ohV,Infraction,Diamonds,Diamonds,31,211636,False,0.632,0.86,2,-5.319,1,0.0464,0.000651,0.181,0.347,0.0453,110.023,4,club
+07OkFwUb3oCMV85SBmPF07,ZABO;Social Kid,Ultima,Ultima,33,196800,False,0.535,0.933,1,-1.626,1,0.0325,0.000123,0.838,0.0709,0.315,99.991,4,club
+26D0cJCvW1pWwl89qAhmHg,F.O.O.L,Mercenary,She,40,245821,False,0.588,0.917,1,-4.673,1,0.0359,0.102,0.844,0.354,0.327,124.01,4,club
+5nk8sivgJEHLjycLWA8Iof,CASHEW,Back To You,Back To You,37,163200,False,0.746,0.978,10,-1.422,0,0.0598,0.00738,0.00183,0.12,0.226,124.962,4,club
+6W4YTp6QKGVzMPBasGeP6m,Garçons,The Destroyer,The Destroyer,40,253252,False,0.603,0.58,0,-7.61,1,0.034,0.000421,0.811,0.115,0.0621,103.058,4,club
+43KdfKR1Yx1dbHlpr7K2ZQ,AIRMANN,The Blackening,The Blackening,41,263720,False,0.703,0.65,10,-6.705,0,0.0498,0.00129,0.843,0.152,0.471,111.991,4,club
+0mZlsjRxRwzgdexzQKkxVj,Kyle Edwards;DJ Bake,Just Dance,Sex with Me,18,123480,True,0.866,0.75,1,-5.416,0,0.33,0.142,9.36e-06,0.141,0.527,139.977,4,club
+7sy4upvDMtpz0jDCech44W,A. G. Cook,7G,2021,45,116142,False,0.588,0.545,1,-11.115,1,0.0667,0.119,0.0,0.266,0.22,140.065,4,club
+41WcsNGnJilfj2i6t0MD4p,Kyle Edwards;DJ Smallz 732,"Warning, Vol. 2",Yummy (Jersey Club),18,116884,False,0.815,0.833,1,-7.778,0,0.209,0.177,0.00196,0.229,0.439,149.948,4,club
+5ruAfadigoJgCI5DnnMshZ,FOVOS,Feel The Rhythm EP,Feel The Rhythm,37,200889,False,0.678,0.755,11,-6.448,1,0.0552,0.0011,0.391,0.483,0.0537,135.001,4,club
+2dD4peQoDBVZE6kx5DjaNN,SWARM;TINYKVT,Devil's At Your Door,Devil's At Your Door,40,210545,False,0.589,0.925,9,-6.91,0,0.0905,0.133,0.0227,0.401,0.0617,109.995,4,club
+6miahXSZE01l2lNDqNCfxQ,Arca,Prada / Rakata,Prada,47,163348,False,0.619,0.712,4,-6.893,0,0.0328,0.103,0.0,0.24,0.35,95.025,4,club
+3DaDJQoUIR0wCA0dSkFvFw,Mvntana;Flyy TheProducer;Pyt Ny,Clout Chaser Pt. 3,Clout Chaser Pt. 3,18,146952,False,0.678,0.85,6,-1.587,1,0.56,0.434,0.0,0.288,0.454,164.999,4,club
+2KeaniyEzZlYZzR1qodSso,Actress,AZD,FALLING RIZLAS,47,145946,False,0.442,0.101,4,-15.898,0,0.0623,0.941,0.941,0.11,0.0655,114.852,4,club
+1q2Nt4Qh0jyh1LYItiOnA2,Destryur;DreamReaper,Into the Beyond,Into the Beyond,44,195600,False,0.608,0.841,0,-6.254,1,0.0469,0.0116,0.777,0.196,0.217,99.986,4,club
+7FNtKxDAV3vcApMdwC7acS,Donbor,Dead City,Against the Law,43,296727,False,0.641,0.679,8,-6.358,0,0.03,0.00152,0.00586,0.0775,0.232,110.015,4,club
+0mQhyFFBrHZPXXQGj1jEib,Paul Marmota;La Zowi,Zona II,Te Miento,19,173871,True,0.72,0.595,1,-11.005,1,0.141,0.00731,0.443,0.0724,0.293,188.021,4,club
+0cThl4Nj41xfszudfUHlEd,3FORCE,Divide & Collide (Deluxe Edition),Shape Shifter,39,296727,False,0.448,0.973,4,-2.532,0,0.0434,7.49e-05,0.849,0.0922,0.0364,110.014,4,club
+1vUNgZq9RLRMe3Oiu9wQrz,One True God,Eat Your Soul,Eat Your Soul,40,159622,True,0.779,0.83,4,-4.464,1,0.0531,0.0098,0.627,0.0575,0.218,106.008,4,club
+4QntHiDb5tbfZAJRSK1diV,Hiérophante,I Should Probably Try Harder,Reproduction - Instrumental,42,139500,False,0.704,0.628,0,-5.43,1,0.058,0.00226,0.911,0.162,0.596,163.943,4,club
+2bgQE0osF1reLxV4qiEgw9,Lazerpunk;Max Brhon,Covenant (Deluxe Edition),Covenant - Max Brhon Remix,35,234851,False,0.481,0.755,0,-7.496,0,0.0511,0.037,0.0775,0.08,0.195,105.016,4,club
+7k13D4NejoBho82nqEypfn,DJ Smallz 732;Kyle Edwards,Law & Order (Jersey Club),Law & Order (Jersey Club),19,62093,False,0.798,0.712,0,-9.258,1,0.358,0.0869,0.852,0.233,0.239,77.457,4,club
+0QgctkORUASJBsgivxAZt3,ALEX;Megan McDuffee,VILLAIN (Instrumental),VILLAIN - Instrumental,41,282413,False,0.578,0.819,2,-8.22,1,0.063,8.2e-05,0.85,0.121,0.266,174.002,4,club
+56i0pQMTaM9Hq1gvjF9p9m,Glee Cast,"Glee: The Music, The Complete Season Four",Wannabe (Glee Cast Version),42,167800,False,0.778,0.897,11,-4.159,1,0.0348,0.167,0.0,0.895,0.816,111.127,4,club
+7empQNiKO0Cc7nvCF1yn4X,Daniel Deluxe,Overseer,Overseer,18,174572,False,0.688,0.735,2,-9.732,1,0.0413,0.0547,0.816,0.0833,0.337,112.995,4,club
+2CqvXeAza1v6jxhauVxT2k,death's dynamic shroud,Darklife,Judgment Bolt,42,272021,False,0.222,0.729,11,-7.782,1,0.041,0.00275,0.305,0.175,0.203,90.452,4,club
+7qIHbNBlqMJnID5l66bLN0,The Magnetic Fields,69 Love Songs,Nothing Matters When We're Dancing,39,147373,False,0.467,0.277,5,-9.041,1,0.0289,0.935,1.83e-06,0.115,0.6,96.639,4,club
+0sr2wvf1XUZGX7i9RBzgL1,Glee Cast,"Glee: The Music, The Complete Season Four",Call Me Maybe (Glee Cast Version),41,193280,False,0.754,0.64,7,-5.595,1,0.039,0.114,0.0,0.335,0.722,120.03,4,club
+5sPmgythKfFqmy0Id4QO1c,Black Tambourine,Black Tambourine,We Can't Be Friends,20,108373,False,0.215,0.87,0,-5.889,1,0.0501,6.8e-05,0.89,0.0773,0.787,158.384,4,club
+6Z6K2l6vnfgUs4z0lFiA5W,Retroj,Essence,Hit Different (Jersey Club),17,117864,False,0.52,0.536,1,-9.526,1,0.219,0.0015,0.719,0.0703,0.356,143.831,4,club
+7LSAtbMWcyKWjIrFOroPhz,Glee Cast;Gwyneth Paltrow,"Glee: The Music, Volume 5",Landslide (feat. Gwyneth Paltrow),49,226760,False,0.637,0.416,2,-7.595,1,0.0269,0.434,0.0,0.139,0.588,145.924,4,club
+7z4NUyUwIUAGLewBrwRdHP,Glee Cast,Glee Summer Hits,What Doesn't Kill You (Stronger) (Glee Cast Version),42,221026,False,0.618,0.752,0,-4.828,1,0.0302,0.00864,0.000187,0.127,0.68,115.957,4,club
+7Fn84f1WeWabP3aFXW5TA8,Glee Cast,"Glee: The Music, Journey To Regionals",Faithfully (Glee Cast Version),43,273866,False,0.411,0.54,4,-5.788,1,0.0289,0.143,0.0,0.111,0.0997,129.876,4,club
+6FwXHGxQrdsxvQV7Kfs2XN,Girl Pusher,Groceries EP 2,For the Love of Holy Ghost Power,18,158333,False,0.445,0.646,5,-13.065,1,0.0674,0.0467,0.476,0.253,0.0958,95.267,5,club
+6UdIofJNMIluHM52LG24Jd,Aberdeen,Dyce,Knockdhu,19,69819,False,0.615,0.938,7,-9.955,1,0.102,0.805,0.871,0.214,0.81,128.205,3,club
+7oN2q9L9YShc6weFVvnnxA,Glee Cast,"Glee: The Music, Volume 3 Showstoppers",Gives You Hell (Glee Cast Version),48,206666,False,0.752,0.605,6,-5.569,0,0.032,0.0807,0.0,0.112,0.789,100.007,4,club
+63RjPVTZMZkwb7jsGHynUI,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Happy Days Are Here Again / Get Happy,18,171840,False,0.27,0.575,8,-7.51,1,0.0632,0.762,0.0,0.908,0.313,69.142,4,club
+61c03vsfswPXqPsf5EhEr6,Glee Cast,"Glee: The Music, The Untitled Rachel Berry Project",Pompeii (Glee Cast Version),44,214000,False,0.641,0.66,2,-6.165,1,0.0371,0.0171,0.0,0.161,0.29,127.473,4,club
+1dbssL6Ur80M3xFJS7Tzcu,Television Personalities,And Don't The Kids Just Love It,World Of Pauline Lewis,20,158399,False,0.621,0.787,0,-8.819,1,0.0384,0.175,0.186,0.179,0.73,142.325,4,club
+6tdjG97rdzv0LvSEE0hQhR,Glee Cast,"Glee: The Music, The Complete Season Two",There's A Light (Over At The Frankenstein Place),18,153493,False,0.262,0.453,4,-7.203,1,0.0284,0.255,6.28e-06,0.104,0.348,177.667,4,club
+6WuK68WPdUGsDByO3A99Ry,Glee Cast,Glee LGBTQIA+ Pride,Edge Of Glory (Glee Cast Version),19,262893,False,0.553,0.699,9,-5.788,1,0.0368,0.000363,4.03e-06,0.0819,0.213,128.028,4,club
+75lfNSIGcFTk3nBX6HyMu7,Glee Cast,"Glee: The Music, The Complete Season Three",Glory Days (Glee Cast Version),19,212133,False,0.622,0.844,9,-4.469,1,0.0361,0.114,0.0,0.107,0.885,120.024,4,club
+3jRl9iaoq6BmkkDbFmndpi,Gesaffelstein,Hyperion,Hyperion,30,173080,False,0.636,0.877,1,-12.505,1,0.0397,0.0812,0.9,0.0827,0.0764,129.214,4,club
+04LKnpDHdgal3q5xihAQ3N,DreamReaper,ERROR303,ERROR303,19,183215,False,0.508,0.977,6,-3.18,0,0.053,5.45e-05,0.935,0.318,0.772,119.985,4,club
+0K3VVmc7YkSvlbmOX46zTw,Gesaffelstein,Variations,Selected Faces,35,431969,False,0.627,0.776,7,-8.622,1,0.0398,0.000873,0.883,0.111,0.153,126.0,4,club
+6tS9z4PYZpOFaHFs6Nuoz0,Sharaya J,Banji,Banji,34,155110,False,0.828,0.784,1,-6.782,1,0.287,0.0611,0.0,0.175,0.391,131.791,4,club
+5qTg7ZtUycWkR1YtUF7mSg,EDDIE,Waiting,Waiting,38,225234,False,0.612,0.815,3,-6.872,0,0.0392,0.00721,0.419,0.0976,0.0774,128.002,4,club
+3S9aIzgHKk5IsyVCsIymIq,Arca,KiCk i,Riquiquí,45,159621,False,0.48,0.804,1,-7.906,1,0.459,0.0317,3.92e-06,0.841,0.6,89.762,3,club
+04IKKY3i8PLUIB2fIbvIJM,Kyle Edwards,Trvp Queen,Trvp Queen,17,157963,True,0.813,0.911,2,-4.387,1,0.322,0.0106,1.3e-05,0.179,0.777,144.979,4,club
+6FtUUBRsv1YCZNhgLcebDQ,KLOUD,ERROR,ERROR,38,240000,False,0.527,0.749,10,-5.774,0,0.0459,0.0145,0.542,0.129,0.0926,116.028,4,club
+28s7uQxvvtluoPner6q4lT,Tonebox;Mellow Fields,Dimensional,Dimensional,38,308600,False,0.613,0.668,10,-8.671,0,0.0395,0.0454,0.878,0.128,0.115,128.016,4,club
+5p66ip2k92QBjuYYw2X0qa,One True God;Vania,Lovely Drug,Lovely Drug,35,220327,False,0.71,0.766,11,-3.632,1,0.0289,0.093,0.0094,0.0747,0.0794,122.014,4,club
+5ZphONN5x6VG5gRTSQyoPu,Eartheater,Trinity,Solid Liquid Gas,45,244442,False,0.276,0.78,1,-8.35,1,0.0965,0.0283,0.0705,0.294,0.326,179.989,4,club
+7HnMWRC2qmuiMzaJ1FKxCh,TOKYO ROSE;ALEX;Ultraboss,The Chase: Last Run,Yakuza,37,206418,False,0.594,0.852,4,-8.488,0,0.05,0.000877,0.855,0.158,0.13,100.021,4,club
+4lUlYGT5VvZWN3GBDIc9KT,Arca,KiCk i,Nonbinary,42,139850,True,0.746,0.439,5,-10.892,0,0.258,0.0165,0.00083,0.0845,0.218,93.851,5,club
+0HfALo3mOpwNyQoGfO4pbF,Arca,KicK iii,Incendio,45,164388,True,0.706,0.778,1,-7.529,1,0.248,0.0116,7.63e-05,0.255,0.512,129.688,4,club
+5sUY2FPXJy1E2eZPBdT7AW,Varg²™;Bladee,Evanescence (a Love Letter),Perfect Violation,43,242000,False,0.363,0.636,9,-7.785,1,0.0415,0.0127,2.97e-06,0.186,0.0615,151.302,4,club
+7AaM3qK1PnqW2JkQxq6TeQ,Kick Puncher,Magnatron,Resolution,41,184000,False,0.389,0.583,6,-9.353,0,0.0399,0.00102,0.866,0.0632,0.0393,90.074,4,club
+5FWoBviZ0S6pNT1x0u0oxU,Sega Bodega,Romeo,Effeminacy,43,175754,False,0.669,0.677,0,-9.124,1,0.245,0.369,0.00716,0.274,0.39,98.584,4,club
+7irY7Ldcf6BFpycGl62vum,Glee Cast;Darren Criss,"Glee: The Music, The Christmas Album","Baby, It's Cold Outside (feat. Darren Criss)",49,166546,False,0.52,0.27,8,-9.806,1,0.0299,0.616,0.0,0.109,0.509,110.789,4,club
+1jBfdScUh4KHSz3ZIXulZS,Conan Osíris,ADORO BOLOS,BORREGO,18,278145,False,0.384,0.554,3,-8.856,1,0.243,0.457,0.000878,0.1,0.372,90.096,4,club
+7r1AZDkEpEHiKwlEXNShBV,Owl Vision,Pale Demon (slowed + reverb),Pale Demon - slowed + reverb,35,235312,False,0.73,0.967,6,-4.569,1,0.0391,0.00765,0.89,0.304,0.0846,111.961,4,club
+3xtySJF8p0GiNhSJE5TZTY,Daniel Deluxe,Ghostrunner (Original Soundtrack),Blood and Steel,36,163647,False,0.696,0.326,2,-8.469,1,0.0513,0.00617,0.821,0.118,0.0376,110.004,4,club
+1v6MfEr8W8nYORznb7vzZi,Niky Nine,Suncore,Exhausted Divinity,39,287500,False,0.535,0.68,2,-7.568,1,0.0328,0.0108,0.932,0.107,0.203,89.989,4,club
+6T7ORp4dBOA93elX1NIYOm,HVDES;CRaymak;AFTERMYFALL,Subliminal (Even the Ghosts are Laughing),Subliminal (Even the Ghosts are Laughing),37,318428,True,0.529,0.844,9,-3.422,1,0.0662,0.0145,1.73e-05,0.0955,0.192,140.133,4,club
+6jtsw8r97HHJGdYh8ClNn2,Kingdom;Syd,Tears in the Club,Nothin,17,222911,False,0.686,0.479,5,-9.237,0,0.0578,0.537,0.00977,0.0857,0.3,119.999,4,club
+5cCdleArb34GSOJjw1cjZM,Daniel Deluxe,Magnatron 2.0,Brute Force,33,231144,False,0.614,0.87,7,-8.855,1,0.0352,0.0287,0.896,0.0682,0.237,95.982,3,club
+6YNCufh7I0lhUWCksR83kr,Hiérophante,I Should Probably Try Harder,Encore,18,227636,False,0.59,0.552,2,-9.879,0,0.0647,0.325,0.0113,0.256,0.309,89.98,4,club
+4RtKWao64GNQBLs7WgbxXb,Gost,Possessor,Sigil,17,234770,False,0.301,0.97,6,-0.939,0,0.122,0.00109,0.946,0.0879,0.217,129.768,4,club
+3YFZNKOzCm3Xy1mQoqiH65,Dinamarca,Holy,Holy,18,250624,False,0.791,0.932,7,-4.881,1,0.133,0.0584,0.796,0.373,0.743,140.025,4,club
+3wm8lKhz6ocSacwIJN6sOU,Newtone,Make It Real / Rhapsody,Make It Real,17,247671,False,0.735,0.667,11,-6.768,0,0.0515,0.0416,0.892,0.12,0.264,124.013,4,club
+0vr8nLEp5H0ksJMCSAb42s,Glee Cast,"Glee: The Music, The Complete Season One",I Say A Little Prayer (Glee Cast Version),50,100813,False,0.648,0.773,6,-7.188,0,0.0947,0.773,1.17e-05,0.111,0.544,72.471,4,club
+1oqIgJpPpW9wwXcitli8EF,Glee Cast,"Glee: The Music, The Complete Season Two",Telephone,44,222960,False,0.729,0.804,5,-5.183,0,0.0329,0.00363,3.12e-06,0.11,0.749,122.021,4,club
+0cpuoPpooX5pZZqzAFEEE9,Misanthropix,Solve Everything with Violence,Solve Everything with Violence,18,224435,False,0.513,0.889,6,-5.562,0,0.115,2.79e-05,0.865,0.147,0.509,170.995,4,club
+0fkgNje097R3eszeV59iTI,Power Glove,Far Cry 3: Blood Dragon (Original Game Soundtrack),Blood Dragon Theme,43,184000,False,0.493,0.92,10,-6.39,0,0.0331,0.000472,0.687,0.0907,0.804,144.009,4,club
+4d2x7dx52GFrGDyV2HJenx,DJ Taj;DJ Smallz 732,Before I Let go (Cookout Anthem),Before I Let go (Cookout Anthem),17,61779,False,0.797,0.863,11,-5.726,0,0.202,0.0282,3.07e-05,0.397,0.901,140.038,4,club
+6In0XQ2hzhfHbW5L6mkc4j,The Magnetic Fields,69 Love Songs,Absolutely Cuckoo,45,94746,False,0.464,0.423,11,-10.142,1,0.0284,0.989,0.882,0.172,0.892,99.077,3,club
+2excL3a9i3J9GOeCebsAnP,Trembling Blue Stars,Fast Trains And Telegraph Wires,Cold Colours,18,226280,False,0.439,0.675,1,-7.375,1,0.0311,2.19e-05,0.0526,0.0933,0.379,133.926,4,club
+3GdWO3jWnHOmfjKwHHYdYG,Donbor,Restore,Don't Kill Me,17,303272,False,0.549,0.911,1,-5.707,1,0.0256,0.0886,0.882,0.0912,0.404,110.034,4,club
+4kEzw2gtpxUBfgmhTEwIuE,Glee Cast,"Glee: The Music, Volume 5",Need You Now,45,217413,False,0.55,0.674,4,-5.248,1,0.0277,0.0881,0.0,0.0873,0.248,108.037,4,club
+1NdBLNUZSEpBEITAt08ZmM,Glee Cast,"Glee: The Music, The Complete Season One",It's My Life / Confessions Part II,47,111333,False,0.587,0.882,11,-3.794,0,0.0487,0.0385,0.0,0.32,0.707,131.008,4,club
+25N9PiAQnH5CxjKIa58MaN,The Magnetic Fields,69 Love Songs,I Don't Want to Get Over You,48,142600,False,0.47,0.867,7,-8.019,1,0.0885,0.0183,0.00283,0.117,0.265,120.407,4,club
+5wXyMkBT8qNpAwAsYC2nLW,The Magnetic Fields,50 Song Memoir,'74: No,21,176426,False,0.275,0.439,0,-8.169,1,0.0281,0.895,0.0824,0.166,0.406,150.66,4,club
+7GeYvtNRnQc8WmHZXz2set,Glee Cast,"Glee: The Music, The Complete Season Three",Without You,46,210586,False,0.467,0.749,7,-6.086,1,0.0525,0.149,7.44e-06,0.0865,0.0975,127.887,4,club
+5wblUEYtyquHtluFdKlMhs,Glee Cast;Demi Lovato;Adam Lambert,A Katy or a Gaga (Music from the Episode),Roar (Glee Cast Version) (feat. Demi Lovato & Adam Lambert),41,225440,False,0.639,0.754,7,-5.075,0,0.0291,0.0145,6.63e-05,0.0672,0.628,89.959,4,club
+17vvsRxWjU6iK2KFPANn6h,Glee Cast,"Glee: The Music, The Complete Season Four",Wake Me Up Before You Go-Go (Glee Cast Version),45,228973,False,0.657,0.867,5,-4.67,0,0.0763,0.0415,0.0,0.084,0.862,81.322,4,club
+6cVw5WnMUCIhFawrGlDo8Z,Linn da Quebrada;BADSISTA,mate & morra,mate & morra,19,216237,False,0.832,0.676,1,-5.834,1,0.11,0.0212,0.000203,0.0888,0.371,127.998,4,club
+4iTGIE1P09KoG0ODB8KoGt,Glee Cast,"Glee: The Music, Volume 6",Born This Way,45,246946,False,0.604,0.842,11,-5.441,1,0.0898,0.00546,0.0,0.26,0.586,123.999,4,club
+16V5thzOT3WBnbmwkRe8jB,Linn da Quebrada,Talento,Talento,19,178858,True,0.782,0.669,7,-6.861,1,0.419,0.0425,0.0,0.671,0.559,129.884,4,club
+2AZng4FjjurxDHGDOx5z6Z,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Sing (Glee Cast Concert Version),18,160626,False,0.539,0.945,7,-4.897,0,0.0686,0.0187,0.0,0.867,0.268,111.012,4,club
+460opww0SOGYK2F4Lcv9gz,Glee Cast;Jonathan Groff,"Glee: The Music, Volume 6",Rolling In The Deep (feat. Jonathan Groff),46,204600,False,0.42,0.454,8,-5.993,0,0.0471,0.753,0.0,0.334,0.655,96.558,1,club
+0I43ju6kU6lWOyElMDJEj9,Glee Cast;Ricky Martin,"Glee: The Music, The Complete Season Three",La Isla Bonita (Glee Cast Version) (feat. Ricky Martin),46,194586,False,0.694,0.724,1,-5.992,1,0.0529,0.00119,1.26e-05,0.108,0.335,113.02,4,club
+2rItExC2Ht8PcgMV0lqbf8,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM,Not Okay - Alone Mix,41,84921,False,0.844,0.55,5,-5.776,0,0.255,0.00329,0.451,0.328,0.322,130.064,4,club
+6eyrDurDCi6nI8FSWGnRUn,Tre Oh Fie,Give It 2 Em,Give It 2 Em,43,118450,False,0.637,0.895,1,-9.268,0,0.0788,0.00486,0.0141,0.225,0.587,150.018,4,club
+0hYBKhln0aqDgRuzboUYcQ,TOKYO ROSE;ALEX,New Era,Dark Sun,40,214831,False,0.517,0.954,6,-3.726,1,0.137,0.00131,0.0855,0.209,0.549,173.987,4,club
+0eC8otaIkta7JKZ53UC6Ux,Unholy,20202020,20202020,39,316804,False,0.538,0.77,2,-9.23,1,0.0567,0.0214,0.825,0.134,0.0309,94.0,4,club
+0QLuV3O6ygaj7DmsZ7X9Yv,FOVOS,Cosmos,Cosmos,41,187500,False,0.729,0.841,11,-7.262,1,0.0912,0.121,0.853,0.273,0.533,128.032,4,club
+3hySkDq0w8sx9zkFAWE4D6,Retroj;Big Flex,SKYPE,CRAVIN,17,128052,False,0.855,0.558,10,-8.19,0,0.38,0.71,0.0,0.121,0.527,135.05,4,club
+0SJ67eb09va4gh0qlD2eSq,JVLIAH,Kiss of Jvdas,Kiss of Jvdas - Original Mix,37,278130,False,0.662,0.892,1,-4.811,0,0.0778,0.00117,0.915,0.199,0.0337,106.947,4,club
+4wmeLB1RhmbHNv2G0L8jXi,Social Kid,Transmissions,Transmissions,37,240300,False,0.756,0.673,8,-5.866,1,0.264,0.11,0.518,0.26,0.437,100.0,4,club
+6iaG4YXLAafWpczBnMFKVC,Tre Oh Fie,For My Hand,For My Hand,17,143200,False,0.678,0.716,8,-8.448,1,0.0653,0.0428,0.00264,0.194,0.536,150.064,4,club
+20n6pulppo2t7feTBVvuh4,Nadus,Broke City (Deluxe),Nxwxrk,17,204374,False,0.386,0.662,3,-6.572,0,0.032,0.106,0.817,0.0701,0.532,177.018,4,club
+1gexiILoiAONdvcXlzVQeE,Unholy,Ego Sum Deus,Ego Sum Deus,41,310390,False,0.636,0.538,2,-6.921,1,0.0324,0.00126,0.881,0.123,0.0388,115.983,4,club
+6kqLDMdqgbgCsLbsSlWRjo,Cameo Blush,Crimson Arch,Crimson Arch,41,288013,False,0.711,0.888,7,-11.402,0,0.0388,0.00227,0.66,0.0931,0.272,135.002,4,club
+0G1QJXeeYKChFaYm5oMd6u,Matteo Tura,Lumen,Lumen,38,230727,False,0.498,0.909,7,-6.096,1,0.0331,0.000336,0.954,0.109,0.0396,100.01,4,club
+4Vbwap6K56bB5sYnBBD6GY,Glee Cast,The Quarterback,Make You Feel My Love (Glee Cast Version),46,195440,False,0.37,0.12,10,-12.637,1,0.0335,0.979,0.00154,0.0816,0.19,77.404,1,club
+5syz53Osm3oEI0OLzhR2SB,Lyde,Augmentation,Augmentation,37,212774,False,0.536,0.723,7,-4.346,1,0.0434,0.000867,0.0977,0.0776,0.0736,120.062,4,club
+3vzdaUwY9ouQ2jyJw5ITff,Blackhaine,Stained Materials,Stained Materials - Edit,17,116129,True,0.553,0.508,9,-9.668,1,0.449,0.0443,0.0,0.0806,0.487,89.417,4,club
+1FQdnxbsSJG2ZO4i30kEJU,SWARM;ATHRS,Singing to the Sky,Singing to the Sky,17,310200,False,0.47,0.984,7,-2.623,1,0.215,0.00306,0.181,0.304,0.108,120.038,4,club
+36kDrsAPQ62bI32WPrlJew,ZITH;Misanthropix,Machine Spirit,Machine Spirit,17,228571,False,0.643,0.956,1,-3.385,1,0.051,0.000458,0.78,0.228,0.515,104.99,4,club
+0B2rWVZN25CDSc59hA6R9X,Jasmine Infiniti;Sir JoQ,Stunna,Stunna,17,329539,True,0.658,0.941,6,-5.572,0,0.0645,0.00165,0.722,0.103,0.485,139.998,4,club
+4lCjq7OxoVJzdbHmLpT1Bd,Starfarer,A New Horizon,A New Horizon,17,278787,False,0.359,0.575,0,-10.779,1,0.0342,0.00891,0.938,0.106,0.21,198.031,4,club
+3fRsh1JrJH0Mq2U7bIvVDz,Powernerd,Destroy to Create,Dark Triads,42,194641,False,0.43,0.909,2,-7.091,0,0.0322,0.00183,0.781,0.32,0.135,102.007,4,club
+3d7C9CxR92ECjhu4WLFuig,MAGNAVOLT,NEXUS (Demo Disc),Prime Complex,18,210461,False,0.508,0.934,10,-9.577,0,0.0504,9.31e-05,0.959,0.124,0.698,130.012,4,club
+5qBhUQLFCdIut4QZrIh7XI,DJ Taj;Jdub;Mvntana,Hit It From The Back,Hit It From The Back,17,135053,False,0.852,0.861,1,-7.666,0,0.287,0.00113,0.0379,0.0536,0.609,160.038,4,club
+17HVg14XBSF5fMdPJqDgVf,Nightcrawler,Phantasm,Phantasm,18,281822,False,0.496,0.895,4,-5.988,0,0.0296,0.0168,0.938,0.583,0.254,117.997,4,club
+0HfHtjS9S9q4DGVC3uIIRB,Five Star Hotel,Gray Data,Fate Dance,16,237000,False,0.31,0.999,4,4.532,0,0.343,0.000102,0.945,0.148,0.0333,160.04,4,club
+0IWS9EjgCy2CEQB9DyixlM,The Cat's Miaow,Songs '94-'98,Smitten,18,71566,False,0.387,0.483,2,-11.002,1,0.0328,0.616,0.0423,0.324,0.737,150.013,4,club
+02A3eRn6nWx5NFQ8V0bzD8,GAZZI,Puro Mareo (Vol. 2),Qué Tengo Que Hacer,17,280615,False,0.86,0.779,7,-5.342,1,0.0393,0.000645,0.136,0.0653,0.475,130.005,4,club
+1NdXVeZjLwaxum662PqdzW,Five Star Hotel,Machine Girl / Five Star Hotel,S. Diverge,16,192211,False,0.266,0.938,5,-3.282,0,0.0424,0.000192,0.916,0.458,0.0378,101.815,4,club
+7tyZJ1SU9MuwVuAJ81HY94,LeKtriQue;Autodidakt,Shots Fired (Reloaded),Shots Fired (Reloaded),17,198043,False,0.718,0.893,1,-3.276,1,0.0789,0.00093,0.865,0.107,0.194,170.052,4,club
+7melzi9ApEUgOUapxhTVKP,Glee Cast,A Katy or a Gaga (Music from the Episode),Wide Awake (Glee Cast Version),41,212133,False,0.427,0.23,5,-8.935,1,0.0338,0.927,0.0,0.173,0.27,133.347,4,club
+22k97IzqwfJvz1Fk0C5nW1,Glee Cast,Glee: The Music presents Glease,You're The One That I Want (Glee Cast Version),46,167293,False,0.732,0.9,0,-4.957,1,0.0626,0.0753,3.68e-05,0.128,0.694,106.998,4,club
+5B0XeSTJOsee83eWjtGIV9,Glee Cast,Glee LGBTQIA+ Pride,If I Die Young (Glee Cast Version),44,221773,False,0.718,0.382,4,-7.782,1,0.036,0.831,0.0,0.0986,0.358,130.835,4,club
+7LAxtAlzbvCvew2x6J6wy7,Irving Force;Volkor X,Violence Suppressor,Violence Suppressor - Volkor X Remix,18,328500,False,0.575,0.939,6,-6.104,0,0.0561,6.51e-05,0.831,0.232,0.5,119.983,4,club
+6BunoFOFJ537xcmzFVvBsz,DJ LILMAN;DJ Taj,One Leg Get Back (feat. DJ Taj),One Leg Get Back (feat. DJ Taj),17,172461,False,0.937,0.813,1,-4.612,1,0.3,0.104,0.0,0.279,0.6,137.974,4,club
+71ntIc5obhKGFeLWTrdQ1L,ALEX,SIMULATIONS,Autonomous,17,192184,False,0.645,0.993,2,-5.8,1,0.0523,0.0338,0.874,0.0986,0.599,109.983,4,club
+5oBvGaf71ARBNmzO0OPOdt,Glee Cast,"Glee: The Music, Season 4 Volume 1",Live While We're Young (Glee Cast Version),40,198640,False,0.648,0.826,2,-5.069,1,0.0674,0.0658,0.0,0.341,0.849,126.021,4,club
+000CC8EParg64OmTxVnZ0p,Glee Cast,Glee Love Songs,It's All Coming Back To Me Now (Glee Cast Version),47,322933,False,0.269,0.516,0,-7.361,1,0.0366,0.406,0.0,0.117,0.341,178.174,4,club
+3idwcdfG4zo2snHt24OJ0Y,Meth Math,Pompi,Piel De Bebe,20,102645,False,0.667,0.464,7,-10.581,0,0.0307,0.00996,0.17,0.0894,0.263,127.995,4,club
+1ZZJmQTmZ1xqi3sL8n3PkR,Glee Cast,"Glee: The Music, The Complete Season Two",Tik Tok (Glee Cast Version),41,199080,False,0.753,0.747,2,-4.314,0,0.0423,0.145,0.0,0.319,0.915,120.115,4,club
+3ZAyhJqf0ACUFsmPwE7F6P,MORIS BLAK;Pete Crane,The Irregularity Of Being,Erase Displace (feat. Pete Crane),17,250909,True,0.649,0.681,1,-5.817,1,0.0379,0.00957,0.222,0.0528,0.111,110.005,4,club
+4LM77KZM8EgPn9nKk7TdT5,Free Refills,Raw Steak Black Coffee,Eternity or Something,17,119625,False,0.638,0.689,8,0.777,1,0.0673,0.00158,0.789,0.0795,0.891,137.025,4,club
+13D5rVUwj1AMsW9WNBZTam,Neoslave,From Womb to Doom,Overdrive Overture,17,237724,False,0.508,0.929,3,-5.889,1,0.0908,0.00011,0.669,0.49,0.368,144.97,4,club
+1v3RJ3mtHllca29JVi12OB,Glee Cast;Gwyneth Paltrow,"Glee: The Music, The Complete Season Two",Singing In The Rain / Umbrella (feat. Gwyneth Paltrow),46,183293,False,0.596,0.74,0,-5.552,1,0.0486,0.00724,0.0,0.357,0.527,88.935,4,club
+06MiHpV03vUtw7yTKDVKHd,Girl Pusher,Groceries EP 2,I Don't Like People,17,72312,False,0.51,0.816,3,-8.712,1,0.0988,0.091,0.0,0.146,0.757,110.897,3,club
+26K3adqoohq5BQh1K3qhNY,Glee Cast;Darren Criss,Glee: The Music presents The Warblers,Raise Your Glass (feat. Darren Criss),47,198466,False,0.756,0.659,4,-5.593,1,0.0709,0.135,0.0,0.355,0.861,122.022,4,club
+4hElemKogZAQkyalmaMu9f,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),I Want To Hold Your Hand,17,188173,False,0.241,0.552,7,-8.352,1,0.032,0.564,0.211,0.892,0.068,77.939,4,club
+2RF6eSUY1uOWaQjIC4rAFb,Glee Cast,"Glee: The Music, The Complete Season One",Halo / Walking On Sunshine,49,125013,False,0.243,0.91,9,-5.193,1,0.111,0.066,3.37e-06,0.137,0.252,193.95,4,club
+71WLu8I7YigziuM35wmsup,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Fat Bottomed Girls,18,140546,False,0.391,0.892,7,-5.226,1,0.0545,0.0112,0.0,0.733,0.414,90.155,3,club
+2ai00wzDJkotEhAKqCN93d,Glee Cast;Adam Lambert,Gloria (Glee Cast Version) (feat. Adam Lambert),Gloria (Glee Cast Version) (feat. Adam Lambert),49,221640,False,0.689,0.884,9,-4.199,1,0.0398,0.00834,0.0,0.27,0.673,133.019,4,club
+1DvYAcGqkmL2ZIxaHk8Alb,Glee Cast,"Glee: The Music, The Complete Season Three",Do They Know It's Christmas?,17,205360,False,0.497,0.731,10,-5.427,1,0.0327,0.00085,6.96e-06,0.261,0.558,115.988,4,club
+64LJZpSz4VxvNDcyx1762M,SOPHIE,HARD,HARD,42,174367,False,0.779,0.728,5,-5.962,0,0.227,0.0119,0.0854,0.108,0.552,83.986,4,club
+2QuQnPXZ0BRgNoDW5b1Ee7,Doon Kanda,Heart EP,Axolotl,36,172015,False,0.777,0.797,2,-10.404,1,0.0988,0.361,0.963,0.0686,0.822,130.276,4,club
+6Xggu3df2iPtollOOT5efM,Jam City,Dream A Garden,Proud,17,300675,False,0.529,0.253,6,-12.159,0,0.0306,0.644,0.845,0.108,0.145,79.998,4,club
+0hLgXCcfChXIcOnSSCk4Jz,Gesaffelstein,Aleph,Hellifornia,39,220813,False,0.537,0.784,5,-3.734,1,0.0329,9.01e-06,0.288,0.101,0.0384,93.988,4,club
+4n2PSeiL4Ormw7SqfZbJ2j,dj Shawny,BMK,BMK,19,54726,False,0.931,0.754,11,-9.47,1,0.0849,0.000188,0.386,0.0631,0.0735,96.01,4,club
+68RqzBNbrTlT5RPygZM4BM,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,Infatuation,38,280286,False,0.355,0.335,7,-10.414,0,0.0357,0.195,0.0208,0.122,0.0395,74.533,4,club
+2b5quz1xqBnmUeYYPdPkuS,F.O.O.L;Holly Drummond,Carry On,Carry On,34,277509,False,0.74,0.641,5,-4.199,0,0.0336,0.0117,0.405,0.358,0.601,128.026,4,club
+6SnewX10TcsggY6qRDFyKe,Aim To Head,E.M.P. Eror,E.M.P. Eror,37,207478,False,0.69,0.306,9,-8.109,1,0.0403,0.000525,0.911,0.305,0.0384,130.006,4,club
+5ZI6koxwSOERRPLrEebqZj,Ohota,Everything Is as It Should Be,Everything Is as It Should Be,35,453120,False,0.825,0.551,8,-14.777,1,0.0772,0.135,0.869,0.109,0.1,125.006,4,club
+4ogKG8W4iXhZ7DijimF3Tl,ZABO,Sacrifice,Sacrifice,29,240000,False,0.556,0.771,6,-6.065,0,0.148,0.00215,0.000691,0.116,0.0753,105.006,4,club
+63oIL8TdR6iO1JxArVadLf,Tzafu,Resurrection,Resurrection,43,282109,False,0.622,0.778,2,-10.705,1,0.0471,0.0548,0.865,0.111,0.206,125.995,4,club
+78rwYkCrixIrp8rW1yfMxP,Mvntana;Flyy TheProducer;Pyt Ny;Dj Smallz 732,Clout Chaser,Clout Chaser,17,169613,False,0.886,0.791,10,-3.056,0,0.409,0.239,1.15e-05,0.113,0.434,80.015,4,club
+4ntprXh1s0PxdOP1TjoOKX,CASHEW;ONI,Into You,Into You,30,186240,False,0.79,0.907,6,-3.448,0,0.188,0.032,0.825,0.126,0.581,125.102,4,club
+4EFrCcPqsTnJOfVXHUnrTO,Unholy,Silver grave,Silver grave,39,283681,False,0.632,0.567,9,-8.277,1,0.0362,0.0456,0.91,0.193,0.38,110.042,4,club
+2HXLC1alUzezTMoBM0Sxkb,COUCOU CHLOE,ONE,ZERO FIVE STARS,42,156253,True,0.816,0.643,1,-8.134,1,0.244,0.021,0.534,0.113,0.592,104.022,4,club
+5vlxhzvjTIbqK3PXw2EnZh,Neo Fresco,Alone,Alone,16,298909,False,0.829,0.819,1,-5.478,1,0.0533,0.00358,0.897,0.11,0.0773,109.949,4,club
+096mBvW2OMGWRdF6VCo4GA,DJ Sliink;TWRK;Green Lantern,Trifecta (We Came To Party),Trifecta (We Came To Party),37,318020,False,0.631,0.662,1,-6.694,1,0.321,0.00185,0.58,0.0598,0.326,140.046,4,club
+3OPfGZ252zPTSTsUA8fKfC,Extra Terra;Urbanstep,Tech Power,Tech Power,38,290406,False,0.619,0.885,10,-4.309,1,0.0592,0.0234,0.48,0.111,0.227,100.007,4,club
+5UETCRZNic9tMJSnDCsTJ3,Woesum;Bladee,Blue Summer,Exceler,39,173069,True,0.585,0.704,5,-7.189,1,0.0262,0.226,0.0018,0.0901,0.466,90.982,4,club
+1UHEmEQTc1opwPPHpk9Zek,Arca;Sia,KICK ii,Born Yesterday,39,198529,False,0.402,0.646,1,-8.087,0,0.0498,0.0516,0.0,0.12,0.0956,144.93,4,club
+31Ptn3k6isug3x2JRhGfDc,Tenebrax,Pizdec,Pizdec,34,171789,False,0.645,0.933,2,-1.809,1,0.0704,0.00117,0.0723,0.157,0.278,95.022,4,club
+6IIhORHe099lyJlQEc30hM,Irving Force,Corporate Killer,Corporate Killer,44,284454,False,0.589,0.719,7,-8.746,0,0.0549,0.000578,0.115,0.104,0.327,110.002,4,club
+0VIhKSfhwjZZKteueIug3h,Corvad,Unreal,Off,16,247500,False,0.628,0.913,4,-3.493,1,0.0679,0.0711,0.156,0.21,0.185,100.017,4,club
+6l45DlUoOTzCGUjlF4aTwo,We Are Magonia,The Living Will Envy the Dead,The Living Will Envy the Dead,42,273188,False,0.468,0.838,6,-7.924,1,0.0996,0.00101,0.88,0.314,0.212,114.9,4,club
+1UVs1ztfNKsMlMIk50BxB3,Tenebrax,Lethargy,Lethargy,39,215394,False,0.786,0.805,11,-4.522,1,0.153,0.0367,0.709,0.0597,0.128,109.985,3,club
+2lwxEnxej7akHwygpQnsmQ,Conan Osíris,ADORO BOLOS,100 PACIENCIA,17,257459,False,0.628,0.612,8,-7.704,1,0.047,0.387,0.000894,0.0841,0.292,110.015,4,club
+7vSh7CaPK8CLqJpbrIf6oB,Absolute Valentine,Police Heartbreaker,A Fallen Rose,42,178615,False,0.671,0.818,9,-8.456,0,0.0282,0.0154,0.941,0.0686,0.189,129.993,4,club
+7u1S5QZSwrWyNczrN9IAKR,Marina Herlop,Nanook,Doiloi,17,230000,False,0.343,0.129,8,-14.82,1,0.042,0.988,0.174,0.141,0.0371,124.396,5,club
+1kLuGwD2qUanffeftdCP6l,MAGNAVOLT;Sleen Mp,Hard Instincts (Sleen Mp Remix),Hard Instincts - Sleen Mp Remix,16,207618,False,0.605,0.679,7,-9.041,1,0.0305,0.0202,0.808,0.127,0.303,99.999,4,club
+61frbeZKl33hLAeyWGc5Wn,Glee Cast,"Glee: The Music, Volume 5",Baby,34,215026,False,0.741,0.817,10,-5.556,1,0.09,0.133,0.0,0.0965,0.564,129.972,4,club
+65tuNzTvQRvOpN7hxLpwgi,Absolute Valentine,Police Heartbreaker,Extreme Drift,43,208695,False,0.644,0.884,11,-6.52,1,0.0437,0.332,0.261,0.0845,0.597,114.982,4,club
+6Vm6VoYJ4nGMhMSr2wwUTA,N O W A V E,SINGULARITY,SINGULARITY,16,307333,False,0.367,0.82,4,-4.732,1,0.195,0.000406,0.0384,0.366,0.107,179.962,4,club
+5NtishSRrPOOySdQ1fAgl1,death's dynamic shroud,Darklife,Stay,42,312187,False,0.176,0.689,4,-9.876,1,0.0505,0.0615,0.188,0.156,0.0776,77.92,3,club
+44Y7sLVnDebyXtdkbY9zMx,Glee Cast,"Glee: The Music, Dreams Come True",I Lived (Glee Cast Version),45,244200,False,0.575,0.803,2,-6.193,1,0.0318,0.11,0.0,0.144,0.325,120.02,4,club
+0CNtGh7bzssbfA85XOQABG,Sissy Bar,Statutory Grape,Trailer Song,17,181360,False,0.72,0.536,0,-12.534,1,0.0304,0.192,0.00142,0.05,0.791,116.569,4,club
+5Vgka1mo8i7kjlwKXCDlcE,Lyde,Augmentation,Peacebreaker,17,236312,False,0.626,0.812,1,-6.048,1,0.0364,0.0481,0.3,0.248,0.423,116.02,4,club
+4srUZJMFJEP1YbGRAfTRAS,Into The Pale Abyss,Cybergenesis,Caustique,16,278400,False,0.506,0.792,1,-5.793,1,0.0623,7.71e-06,0.905,0.0626,0.242,100.013,4,club
+2pD5n6o114anm9oc4Iu0zV,HORSKH,Wire,Pull the Wire,17,238280,False,0.597,0.957,7,-4.684,1,0.124,5.59e-05,0.742,0.139,0.318,125.014,4,club
+6nljbSma4YDzJJEcnLQ3oF,The Softies,Holiday In Rhode Island,Holiday In Rhode Island,19,115826,False,0.618,0.295,9,-8.871,0,0.031,0.861,6.26e-06,0.138,0.129,126.026,4,club
+4klAoEgBUf5caLNhU4dR8S,Neoslave,Autoviolator,Cross of Fire,17,230500,False,0.587,0.767,10,-4.62,0,0.0314,0.00674,0.964,0.176,0.408,120.02,4,club
+3toYsd6LHT1HVr8eGQoApk,Neoslave,From Womb to Doom,Necrodancer,17,280000,True,0.423,0.875,1,-7.303,1,0.064,0.000224,0.9,0.11,0.173,75.146,4,club
+0tv7AfxhAdba4daHMbaZLw,Glee Cast;Darren Criss,Glee Love Songs,Teenage Dream (feat. Darren Criss),42,220373,False,0.76,0.543,3,-5.759,1,0.0415,0.494,0.0,0.0802,0.84,120.003,4,club
+5SekMqPSRq3YUrezggydWs,Lil E,Eric Butler vs. the State of Indiana,Punisher,17,161142,True,0.72,0.708,7,-8.88,1,0.362,0.045,0.0,0.205,0.664,139.935,4,club
+5rjPvVYhfQ9twNPQyiywg6,Megahit,Not Your Action Hero,"Guns, Bikes, And Neon Lights",17,217709,False,0.497,0.957,4,-4.153,1,0.0509,0.00406,0.0451,0.381,0.376,140.012,4,club
+1GzE0fPtJ4kWRz5vqJ2Pwb,Tiger Trap,Tiger Trap,Tore A Hole,18,118173,False,0.4,0.71,9,-8.662,0,0.0326,0.00896,0.832,0.0856,0.897,167.973,4,club
+3vwTNVxHRpRw9Jr4RT7HJF,Glee Cast,"Glee: The Music, The Complete Season Four",Bye Bye Bye / I Want It That Way (Glee Cast Version),42,169426,False,0.595,0.903,7,-4.4,0,0.0315,0.0221,2.28e-06,0.0878,0.523,93.994,4,club
+1Et2wMhDPqbu5y4sGRt6Ue,Glee Cast,"Glee: The Music, Volume 6",Light Up The World,43,223653,False,0.689,0.796,10,-5.472,1,0.0406,0.000599,0.0,0.12,0.856,118.03,4,club
+3wgQhWu5ZuP5Ysgit4ti5E,Glee Cast;Adam Lambert,A Katy or a Gaga (Music from the Episode),Marry the Night (Glee Cast Version) (feat. Adam Lambert),46,220506,False,0.488,0.925,9,-5.871,0,0.0552,0.000444,5.35e-06,0.191,0.369,133.024,4,club
+6FCngfdkfRZ0CwL2eZAgnc,Glee Cast,"Glee: The Music, Volume 5",Thriller / Heads Will Roll,52,216560,False,0.633,0.822,10,-5.011,0,0.0722,0.00846,0.0,0.141,0.633,122.993,4,club
+6iMBCO8p8c7RMbuHXXpgDw,Glee Cast,Glee LGBTQIA+ Pride,You're The One That I Want (Glee Cast Version),17,167293,False,0.732,0.9,0,-4.957,1,0.0626,0.0753,3.68e-05,0.128,0.694,106.999,4,club
+18uMuvNai5GtXxw4q8qjKR,Oklou;Casey MQ,For the Beasts,Lurk,40,153231,False,0.763,0.268,10,-18.192,0,0.0522,0.983,0.936,0.088,0.841,105.295,4,club
+6xoKWTiw0jVO3IvEKLxMSs,Oklou,Galore,god's chariots,36,183506,False,0.672,0.476,0,-14.645,0,0.0864,0.929,0.812,0.136,0.0491,94.263,4,club
+4nb7jXzRc6ubMZF3q2rTTO,Gesaffelstein,Novo Sonic System,Doom,36,109373,False,0.554,0.97,4,-5.966,1,0.0406,0.0264,0.798,0.109,0.531,104.021,4,club
+1ifMJraYUkVtRHeDBBs1PQ,Oklou;Pomme;Danny L Harle,galore (french version),galore - french version,44,140964,False,0.67,0.381,11,-11.735,0,0.0336,0.844,0.00348,0.376,0.554,124.877,4,club
+3N39a63azXQRQ4S9tGVtGb,COUCOU CHLOE;Lederrick,NAUGHTY DOG,WAITING,44,157000,True,0.915,0.454,11,-8.847,1,0.0988,0.388,0.15,0.108,0.318,136.926,4,club
+5VFFhtNuUrlUSUAOFnUK1C,Blackhaine;Iceboy Violet;Blood Orange,Armour II,Prayer,17,260958,False,0.366,0.685,8,-9.52,0,0.111,0.205,0.0135,0.216,0.0863,98.247,3,club
+5MvvKvb8LfyeqMv0VSvlPP,Jam City,Dream A Garden,Crisis,17,255316,False,0.354,0.425,8,-10.168,0,0.0462,0.0233,0.593,0.091,0.318,82.929,4,club
+28NftaX1Z3CwSFkIEv5Mfj,F.O.O.L,Showdown,Showdown,38,301609,False,0.656,0.84,11,-3.755,0,0.0407,0.00158,0.264,0.369,0.187,124.998,4,club
+62Yl7gGDPF7Wf6bXG1OTuf,Anz,All Hours,Decisions (AM Intro),44,100881,False,0.287,0.871,10,-7.446,1,0.0399,0.0957,0.942,0.112,0.0542,108.327,1,club
+36eQcuMTs70AElJHnx8kKc,13,Atomic,Atomic,19,204166,False,0.726,0.778,2,-3.683,1,0.0633,0.000259,0.86,0.359,0.139,89.997,4,club
+6BTaOTV4R07QunBda62fR7,Arca;Shygirl,KiCk i,Watch,43,148576,False,0.669,0.732,6,-8.724,0,0.244,0.00308,0.0,0.0492,0.727,150.043,4,club
+5HnhcDRF47L7JJccmMdTGg,Chris Keya;Celina,Criminals,Criminals,41,173000,False,0.658,0.656,7,-10.693,1,0.0534,0.0815,0.922,0.244,0.312,110.029,4,club
+57Xrr61VaAellAX9hjxK19,death's dynamic shroud,Faith In Persona,Just to be Needed,40,372250,False,0.473,0.497,11,-8.001,1,0.0357,0.0106,0.00617,0.371,0.119,120.091,4,club
+7jckam3u2rKAPqwscTcBY1,A. G. Cook,7G,Silver,40,122526,False,0.462,0.69,5,-7.192,1,0.0331,0.348,0.143,0.106,0.709,94.961,4,club
+5vzDuKCpZrTiFYuukkg50W,Head Splitter,"Cyberpunk 2077 Fanmade Soundtrack, Vol. II",Prototype,31,252682,False,0.688,0.359,5,-13.372,0,0.066,0.309,0.881,0.109,0.037,94.98,4,club
+6TrZhcE5oa8S04BDBkv9cr,One True God,Cult 45,Move Slow,27,141600,False,0.806,0.792,5,-4.902,1,0.111,0.145,0.86,0.0993,0.299,99.976,4,club
+0Ez3g4uT8NLP9vDykop6ol,ZABO,Overdrive,Overdrive,28,225637,False,0.702,0.745,1,-7.252,1,0.0901,0.149,0.633,0.114,0.417,100.0,4,club
+5gKfjl3XR7Oqf07gkjwLQk,Glee Cast,The Quarterback,Seasons Of Love (Glee Cast Version),48,184480,False,0.605,0.507,5,-6.354,1,0.0259,0.618,1.92e-06,0.122,0.253,89.033,4,club
+38AwV5GNyNgLn11btYOWvb,KilSoSouth,Just Like That,Just Like That,16,122736,False,0.766,0.521,8,-8.605,1,0.337,0.00391,0.368,0.294,0.228,180.037,4,club
+3RtukT6Wau6KFf8OGMF5qE,Revizia,Nightmare,Nightmare,17,196800,False,0.754,0.648,1,-5.911,1,0.0455,0.0983,0.894,0.0977,0.443,100.002,4,club
+4wSMi5urWxpBPbnWqfI1Ht,Andy Stott,Faith in Strangers,Faith in Strangers,45,389186,False,0.657,0.692,7,-10.121,1,0.0526,0.0286,0.894,0.11,0.164,136.995,4,club
+0fUFpFczhuhJBz2Z28IL2x,Glee Cast,"Glee: The Music, The Christmas Album",Last Christmas,45,216626,False,0.631,0.757,5,-6.005,1,0.0254,0.00703,0.0,0.348,0.649,106.885,4,club
+3hmvOKuezxt23DpfqalTb0,One True God,Love Me Tomorrow,Love Me Tomorrow,35,253333,False,0.677,0.755,9,-5.427,0,0.0352,0.282,0.544,0.0733,0.282,126.017,4,club
+3JMTWuUH9FTbn2CqhGPLeC,Woesum;Bladee;Yung Lean,Blue Summer,Airwalker,40,139391,True,0.6,0.665,11,-5.959,1,0.0526,0.157,1.96e-05,0.282,0.566,147.893,4,club
+6zpGlMguCiKeoUMMe4NUce,Power Glove,EP II,Motorcycle Cop,42,265280,False,0.78,0.953,1,-7.636,1,0.234,0.437,0.813,0.106,0.415,110.449,4,club
+24Svkho3v17WAYaxDZLStN,Haezer,The Wrong Kid Died,Troublemaker,35,214384,False,0.853,0.625,9,-6.449,1,0.156,0.000772,0.0205,0.373,0.861,129.97,4,club
+3Dk2StRqlP3JmXIY4aWyvA,Yikii,深眠中的小怪獸 ❀ a sleeping monster,underwater,18,188571,False,0.228,0.153,3,-23.075,1,0.0356,0.994,0.866,0.137,0.115,136.914,4,club
+3VBNALX54Gryj4yCtmyrZq,KilSoSouth,Noodles,ALONE,17,111383,False,0.786,0.471,1,-9.411,1,0.409,0.0125,0.656,0.13,0.268,175.002,4,club
+6pdtl7kB0Z7wmzCnNf1Z0Q,Nick León;Kelman Duran,Rompe Discoteka,Apretao - Kelman Duran Remix,16,246575,False,0.27,0.843,5,-8.484,0,0.0384,0.0858,0.907,0.093,0.0687,102.01,4,club
+2JVTTnyOZpkra28KPIcNSV,DJ Rozwell,NONE OF THIS IS REAL,In the Dungeon,16,254888,False,0.377,0.564,6,-14.298,0,0.257,0.37,0.494,0.345,0.241,140.622,4,club
+5JAxXI5nw6JLEDLgXsKtSQ,Glee Cast,Glee LGBTQIA+ Pride,Bust Your Windows - Cover of Jazmine Sullivan,44,260133,False,0.409,0.774,7,-4.716,0,0.122,0.606,1.63e-06,0.0821,0.734,110.033,4,club
+3uevycmVxjYJMHeToJmUgr,Zamilska,Uncovered,Front,17,195413,False,0.546,0.48,1,-12.256,1,0.087,0.585,0.374,0.155,0.153,120.029,4,club
+5zhq01rIbCE2Uh21oUDTF3,The Softies,Holiday In Rhode Island,Just A Day,18,103973,False,0.765,0.374,0,-10.787,1,0.0327,0.672,0.00385,0.261,0.71,106.689,5,club
+6Ln9akCDdRGYtdSiBfdDwr,The Softies,Holiday In Rhode Island,Sturdies Bay,18,106066,False,0.434,0.372,2,-7.678,1,0.031,0.74,0.000105,0.322,0.616,117.107,4,club
+220tmLcSAjU548WvzAqG1K,Dinamarca,Sol De Mi Vida,Luna,17,201093,False,0.762,0.846,7,-4.598,0,0.0398,0.717,0.806,0.118,0.237,98.0,4,club
+4kKByPNfkjX3w1redEJKTY,Vector Seven,Modified,Baseline Test,16,261333,False,0.373,0.702,8,-8.698,0,0.096,0.00527,0.533,0.321,0.0371,90.002,4,club
+4icPLUSRwaYZSTqmC3HQBA,Glee Cast,Glee LGBTQIA+ Pride,Survivor / I Will Survive,48,208573,False,0.563,0.913,9,-4.384,0,0.225,0.00773,0.0,0.127,0.311,128.083,4,club
+1Ccfb1xzwLDjQHLfAa2TxQ,The Magnetic Fields,Holiday,Strange Powers,51,161613,False,0.667,0.677,0,-8.154,1,0.0318,0.526,2.64e-05,0.129,0.963,131.768,4,club
+6f32nGt3V27a8qHjEWJrOU,The Cat's Miaow,Songs '94-'98,Light the Beacon,17,126229,False,0.505,0.427,0,-12.656,1,0.027,0.759,0.892,0.241,0.605,134.308,4,club
+1po4usjMmM3mA22fP3fCMb,Speed Machine,Dystopian Sytem,Bionic Chase,16,255706,False,0.562,0.958,5,-6.4,0,0.149,0.00895,0.019,0.347,0.641,108.022,4,club
+4m6OevxZXKRN181OClRCDN,Gregorio Franco,The Dark Beyond,Hyperforce,17,346305,False,0.365,0.717,2,-8.038,1,0.0326,0.000113,0.901,0.0876,0.184,140.046,4,club
+3lHnxCL8XOxmgLVyPPm2K5,death's dynamic shroud,Live from Japan,Bae,18,315160,False,0.158,0.69,0,-6.873,1,0.0381,0.00516,0.00187,0.42,0.0668,74.085,4,club
+53Qhkne6ZqkzVtcZQDGs0t,Occams Laser,Occult 91,Incandescence,16,249608,False,0.365,0.759,7,-4.783,1,0.0324,0.00442,0.927,0.093,0.165,75.017,4,club
+6yvjTkgVh2NaT1r42nbIyM,Glee Cast,"Glee: The Music, Season 4 Volume 1",New York State Of Mind (Glee Cast Version),46,221306,False,0.358,0.418,4,-7.147,1,0.0355,0.693,0.000774,0.447,0.171,120.74,4,club
+4vE6TZnL54xyWZyHvVR4vu,Girl Pusher,Dont Die,Decapitation (Odeath - 911 Cut),16,193714,False,0.358,0.456,11,-9.638,0,0.107,0.138,0.0258,0.469,0.425,139.841,4,club
+0tjeY2rdrKjUjtO5IwKusl,Glee Cast;Jonathan Groff,"Glee: The Music, Journey To Regionals",Bohemian Rhapsody (Glee Cast Version) (feat. Jonathan Groff),45,356133,False,0.388,0.419,0,-7.111,0,0.0286,0.417,0.0,0.171,0.382,143.099,4,club
+0tI8VpuGpuhuP9efA0hC7G,Glee Cast,Glee LGBTQIA+ Pride,Hopelessly Devoted To You (Glee Cast Version),17,181906,False,0.61,0.53,6,-7.132,0,0.0253,0.247,0.0,0.35,0.305,110.778,3,club
+5FSIL8tIIYIR2i7WzmuKm0,Glee Cast,"Glee: The Music, The Untitled Rachel Berry Project",All of Me (Glee Cast Version),41,270933,False,0.456,0.243,8,-8.664,1,0.035,0.885,0.0,0.112,0.492,125.983,4,club
+23qGKUIKmNsdISeLogDWuH,Glee Cast,"Glee: The Music, The Complete Season Two",Candles,17,171360,False,0.446,0.423,2,-8.175,1,0.0366,0.822,0.0,0.105,0.19,176.165,4,club
+0E5TS3JXZUilFvzRGIEDRX,Glee Cast,"Glee: The Music, The Complete Season Three",Good Riddance (Time Of Your Life) (Glee Cast Version),16,151280,False,0.345,0.351,7,-7.844,1,0.0343,0.713,0.0,0.0876,0.457,96.538,4,club
+79WkDHrA86LckfmnjC0LIx,DJ Flex,She Don't Text Afrobeat,She Don't Text Afrobeat,42,106728,False,0.752,0.812,11,-3.648,0,0.195,0.29,0.00131,0.0573,0.541,144.014,4,club
+5yFN02Cfksk2iADPofGNIy,Varg²™;Bladee,SHINIE,SHINIE,42,182068,False,0.74,0.872,11,-6.272,0,0.118,0.0622,0.000418,0.152,0.789,145.01,1,club
+6YE1M9TlDXY7BYEV4pn0np,Lyde,Homeseeker,Homeseeker,37,330480,False,0.588,0.684,6,-5.924,1,0.0426,0.000113,0.0949,0.102,0.0377,95.015,4,club
+0U1e0nOw2WlQ6l2sTgfxJS,LEYA;Okay Kaya,Eyeline,Win Some,33,312513,False,0.178,0.187,1,-17.942,1,0.0348,0.893,0.899,0.121,0.0375,116.49,3,club
+56tNMHvbcFPvYiDxA7xROH,Anz;George Riley,You Could Be,You Could Be,50,218024,False,0.712,0.818,7,-5.162,0,0.0368,0.0123,0.141,0.0499,0.52,124.012,4,club
+7L0N1gZpNqiErYa0j2x54T,Quinze,Ending Night,Ending Night,37,151419,False,0.63,0.903,0,-6.98,1,0.0516,0.0028,0.729,0.242,0.0756,115.008,4,club
+5SfNRmPGCTyhfTOmIPgt49,Hotcaller;Nexy,Damn,Damn,37,177000,True,0.566,0.948,7,-2.962,1,0.145,0.000163,0.515,0.549,0.204,99.977,4,club
+1H6nNUCOhkAIUfuxVF2HAA,Matteo Tura;Stefano F,Majesty,Majesty,37,301500,False,0.594,0.678,2,-10.412,1,0.0352,0.00102,0.932,0.571,0.112,99.978,4,club
+78AE73S8cKpXqRuKaVNOwp,Matteo Tura,Larsen,Larsen,37,300000,False,0.556,0.943,11,-10.736,0,0.053,0.00258,0.899,0.0576,0.286,124.986,4,club
+5Mf2BXikqaIxNj1ePWj1ir,DJ Flex,Hold Me Down,Hold Me Down,16,195000,False,0.679,0.571,3,-8.997,0,0.0403,0.449,0.0136,0.271,0.824,99.984,4,club
+7tlvEaE7OkSt5fgivXkRIP,Garçons,Shellshock,Shellshock,33,319235,False,0.588,0.823,1,-4.415,0,0.0722,0.000112,0.809,0.18,0.082,170.086,4,club
+6Rp9xHx6X5JgZMTXIcRCEY,Infraction,Freaky,Freaky,33,202105,False,0.66,0.962,9,-3.221,1,0.0363,0.00028,0.93,0.346,0.694,113.987,4,club
+5doObAd4avGUIL8vy6X0Ku,FOVOS,Feel The Rhythm EP,My Real Desire,30,191302,False,0.498,0.954,10,-7.082,0,0.0448,0.00476,0.72,0.361,0.162,138.014,4,club
+3CTCq5KkL2Od9jVDCrTQra,Mascarpone,Dodecacotronic,Suicide,40,248769,False,0.654,0.817,11,-7.748,0,0.0551,0.000333,0.753,0.3,0.323,130.014,4,club
+7ki5Zd8IydTM7m4uUauLVp,DJ Jayhood,King,Apologize,16,134000,False,0.547,0.719,8,-5.647,1,0.0376,0.00329,0.00238,0.105,0.0397,134.044,4,club
+34uiE9j8DXfab7oaw1PdV9,Navie D,Music to Banana To,Cave Crawl,40,208404,False,0.707,0.694,5,-6.332,1,0.0299,0.00021,0.896,0.11,0.313,125.008,4,club
+4wOhPUptCNCCJK0OtjFzpy,DEADLIFE,Bionic Chrysalis,Deviant,43,322075,False,0.672,0.743,1,-5.0,1,0.0558,0.0377,0.000689,0.299,0.246,105.995,4,club
+1OdDRqfzpu3PD7SxMunwAo,Blackhaine,Prayer,Stained Materials - Edit,15,116129,True,0.553,0.508,9,-9.668,1,0.449,0.0443,0.0,0.0806,0.487,89.417,4,club
+27S361Y1Yrp8pnSJTFNoOM,DJ LILMAN;Dj Flawless,End Of Time,End Of Time,16,204852,False,0.623,0.475,7,-13.06,1,0.0586,0.285,0.889,0.0862,0.0946,149.85,4,club
+0wY6Zaxswug2Wb9JZZ2HLv,ALEX;TOKYO ROSE;THE AKUMA,AKUMA,DELETE SOUL,39,182114,False,0.486,0.481,8,-10.271,1,0.0284,0.676,0.727,0.306,0.239,104.014,4,club
+2HFPstnd5E4X9HQKIOebdz,AGLORY,Lethal - EP,Nyctophilia,37,297142,False,0.738,0.718,1,-3.59,0,0.0553,0.0014,0.878,0.339,0.064,104.971,4,club
+05OYrX2wIpHZYVuy56Rce8,DJ Envy,The Desert Storm Mixtape: DJ Envy Blok Party Vol. 1,"What, Why, Where, When (featuring Styles)",15,195706,True,0.919,0.515,8,-6.995,1,0.466,0.0884,0.0,0.132,0.798,98.063,4,club
+4pm5uZE88AmGJdGcQ6M4PJ,Noisecream,Legion,Legion,16,167981,False,0.595,0.785,7,-7.469,1,0.107,0.000102,0.342,0.0976,0.121,100.018,4,club
+3fOlSmwDdOPJHkEi4ivSjS,DEADLIFE,City of Eternal Rain,Strands Unravel,40,414500,False,0.461,0.575,5,-7.221,0,0.0987,0.0474,0.879,0.265,0.0898,105.967,4,club
+6SqMItUwt1VjzjsuA8Sq5P,Tarik Bouisfi,Tenebris,Welcome Hell,37,274285,True,0.512,0.948,7,-3.494,1,0.0498,0.000468,0.892,0.19,0.3,105.009,4,club
+2D3qufqNMZql09F5PH6vfF,DJ Smallz 732;Kyle Edwards,Ayo Smallz,How Deep Is Your Love,16,82364,False,0.853,0.699,10,-5.678,0,0.108,0.00992,0.0136,0.142,0.335,140.001,4,club
+4XWqY9Xxxatm15wB39AwHc,DJ LILMAN;West End Tricks,Nice for What,Nice for What,16,137195,False,0.923,0.921,10,-5.493,0,0.162,0.0051,0.00499,0.836,0.81,139.998,4,club
+0LlFpeFxoQD7pRHRphuDNX,Tygapaw,GET FREE,Facety,16,196285,False,0.483,0.952,4,-7.202,1,0.0703,0.000319,0.946,0.0565,0.0909,142.016,4,club
+3JtT1jQsPFNI5JQSwoNPqH,DJ Flex;Shatta Wale;Uk Boga,Kpuu Kpa Challenge (Boga Dance Edition),Kpuu Kpa Challenge (Boga Dance Edition),39,111360,False,0.843,0.896,11,-3.261,1,0.0712,0.104,0.371,0.0791,0.865,137.966,4,club
+2uaclGIGor9KoqYyQtg1zM,Shredder 1984,Nemesis,Alaska,16,261069,False,0.53,0.923,9,-4.703,0,0.0409,0.00068,0.841,0.569,0.587,130.044,4,club
+3fIky6J3lcf2Xt4xAuNVY0,Huerco S.,Plonk,Plonk II,18,200125,False,0.525,0.0265,1,-15.997,0,0.0425,0.849,0.285,0.168,0.0771,120.835,1,club
+2eGDPajtfmiRcu7d2H6fVR,Lazerpunk;Max Brhon,Synthicate,Do Not Disturb,32,194369,False,0.518,0.964,2,-5.769,1,0.0475,0.00274,0.778,0.221,0.0501,109.989,4,club
+1drsYftFGhmvy1duioAI1P,BlackGummy;Louis Vivet,Deep Bounce,Deep Bounce,15,348750,False,0.835,0.736,0,-8.8,1,0.0955,0.00314,0.0319,0.0706,0.214,127.948,4,club
+2fZb3RFZIIzqE8Hjn0YjIF,DJ Envy,The Desert Storm Mixtape: DJ Envy Blok Party Vol. 1,D Block (featuring The LOX & J. Hood),15,200066,True,0.537,0.806,9,-5.143,0,0.366,0.0927,0.0,0.385,0.67,101.217,4,club
+6EQTb5f3Ws9MqCyT7rPPoR,Donbor;Brosher,Restore,Ghost,16,221676,False,0.494,0.91,6,-5.727,1,0.0589,0.0151,0.134,0.161,0.494,102.008,4,club
+0peoHOkfai7vlQhUIGVmtt,DEADLIFE,Bionic Chrysalis,Remember,17,351272,False,0.619,0.69,5,-6.106,0,0.0776,0.0539,0.814,0.101,0.152,110.007,4,club
+3W5fNX5cl9M65tK8Nm6lG2,Power Glove,Playback,Adult Themes,17,274285,False,0.652,0.873,9,-5.529,0,0.107,0.0513,0.346,0.144,0.3,112.008,4,club
+3CEJKH29plZk21jcUD3x6w,DJ Smallz 732;Kyle Edwards,Jersey Hub,Trip,15,92682,True,0.752,0.886,1,-5.367,0,0.307,0.129,0.0129,0.86,0.551,140.052,4,club
+6zSuCSwHwTzMljf78Y6cdW,Noisecream,"Robocream (Original Roboquest Soundtrack), Pt. 2",Sector,15,161892,False,0.594,0.939,5,-3.892,0,0.17,0.000143,0.827,0.361,0.369,171.958,4,club
+5yRvX935ESfGdnEUt2yGg7,Girl Pusher,911,Red Was the Color of the Candle,16,120000,True,0.491,0.7,2,-4.968,1,0.0981,0.0206,0.000317,0.185,0.0497,101.471,3,club
+0y26aohDq6nCmfv3dpNofu,SWARM;SOUNDR,I'll Never See The World,Eat Me Alive,16,293173,False,0.398,0.872,1,-6.065,1,0.168,0.00137,0.232,0.0981,0.18,109.998,4,club
+7uhAE0tRkx1qxuTdcalqbS,Girl Pusher,911,Runaway,16,88510,True,0.399,0.884,7,-5.557,1,0.359,0.573,0.00383,0.85,0.231,174.045,5,club
+0C9BNN49PelCGT8fQukhfU,Girl Pusher,Singles,Thanks Bitch,16,134193,False,0.552,0.719,2,-4.475,1,0.0395,0.000586,0.613,0.132,0.421,139.495,3,club
+2HZOevDRVUYGDHaqryF1Ez,Girl Pusher,Singles,U Cant Hurt Me,16,136000,False,0.554,0.784,0,-7.228,1,0.0524,7.71e-05,0.924,0.282,0.299,150.158,4,club
+4jD6Fqu0M64xqiHAnVuy90,Noisecream,"Robocream (Original Roboquest Soundtrack), Pt. 2",Ddos,16,183232,False,0.565,0.99,7,-5.245,1,0.0702,5.72e-05,0.716,0.179,0.355,150.013,4,club
+6n3hvW61UezCAXz3PRyqCN,ALEX,BLOOD CLUB (Deluxe Edition),BLOOD CLUB,16,297812,False,0.756,0.927,0,-7.797,1,0.147,0.06,0.343,0.111,0.22,103.984,4,club
+55jT8qsCj08EVXVC9jjtJL,Glee Cast,Happiness Forever,Don't Stop Believin' (Glee Cast Version) - Cover of Journey,16,230546,False,0.472,0.6,7,-4.009,1,0.0334,0.0342,0.0,0.13,0.295,123.839,4,club
+1sQ5zziiE3Ou1IPebmoWo2,Dj. Great,"Dj Great Jersey Club Remix EP, Vol. 2",Bounce Ass - Original Mix,15,156455,True,0.958,0.707,1,-8.674,1,0.108,0.0921,0.0107,0.19,0.412,134.998,4,club
+2CRPEKzMxZYfzlYBvmiTnT,Linn da Quebrada;Laysa;BADSISTA,PAJUBÁ REMIX II,Badsista & Laysa * Mulher (Remix),17,404409,False,0.721,0.765,1,-5.698,1,0.0803,0.000855,0.0161,0.267,0.114,126.984,4,club
+6pxKdowiSbl0XAtqIdyymQ,Glee Cast,Glee LGBTQIA+ Pride,I Wanna Dance With Somebody (Who Loves Me) (Glee Cast Version),16,242186,False,0.653,0.811,11,-5.433,1,0.0319,0.000612,2.86e-05,0.135,0.659,128.023,4,club
+677URO2eaUkEKpGeKq6Lds,Zamilska,Fragile,Fragile,41,186000,False,0.624,0.651,2,-10.015,0,0.0429,0.0226,0.853,0.139,0.0549,159.983,4,club
+0iH6OQyLpgOJfxLSzB4NNR,Doon Kanda,Labyrinth,Polycephaly,32,191041,False,0.549,0.741,0,-5.957,0,0.0244,0.102,0.904,0.312,0.397,156.018,3,club
+2Q1ePwIF8CrYzhV3pTsgaE,F.O.O.L,TROUBLEMAKER,VIOLENCE,34,186666,False,0.493,0.801,11,-3.364,0,0.0342,0.00958,0.607,0.142,0.099,108.001,4,club
+5MKI1qLfoj0YFzuZ9lhRzN,Zamilska,Undone,Ruin,41,216000,False,0.423,0.873,6,-6.453,1,0.077,0.484,0.807,0.143,0.312,159.939,4,club
+6DlRfyTfszZhK5D7ojj1tX,One True God,Fall Asleep,Fall Asleep,31,166666,False,0.768,0.728,8,-5.275,1,0.0362,0.106,0.839,0.179,0.096,107.965,4,club
+4IXcyFokSa9eoAdzTX8mFT,Absolute Valentine;Billy Mays Band,DNA War,DNA War,38,243789,False,0.598,0.865,8,-8.419,1,0.0441,0.00781,0.747,0.119,0.157,94.972,4,club
+21vLMUijA5tF8W99hPkTsQ,Dustycloud,Blind,Blind,16,201433,True,0.822,0.908,7,-5.947,0,0.138,0.451,0.0378,0.114,0.494,125.987,4,club
+3lmtdBi2hCaBhGjgW9hB4i,LeKtriQue;Sam Lamar,Black Magic,Black Magic,41,245367,False,0.738,0.965,8,-2.877,0,0.117,0.000539,0.728,0.393,0.284,112.01,4,club
+6IYF1sSXcT68dNuFNNYYcH,TOKYO ROSE;ALEX,4AM,4AM,16,191297,False,0.521,0.724,3,-6.003,0,0.105,0.00463,0.76,0.168,0.0588,170.08,4,club
+0PKAeFJSAMQoawJx1KploR,Arca,KICK ii,Lethargy,42,127564,False,0.66,0.826,6,-9.684,0,0.446,0.0229,0.0127,0.413,0.528,83.029,4,club
+5BdlXS2ZXIGMyTAw8XRNNC,Djedjotronic;Lokier,R.U.R,Are Friends Electric,38,244280,False,0.729,0.698,10,-6.196,0,0.0353,0.00292,0.675,0.0813,0.275,110.977,4,club
+2KBOfdbo1WlLsPI87RrqPH,Vessel,"Punish, Honey",Red Sex,41,337405,False,0.556,0.73,11,-7.1,1,0.0294,3.9e-05,0.821,0.091,0.0689,127.516,4,club
+5cMYCqBfubL8w7H3kimF6T,Catnapp;O.L.I.V.I.A,TRUST,despierta,15,302639,False,0.295,0.488,0,-14.032,1,0.254,0.369,0.0394,0.215,0.385,80.625,5,club
+5R3iPnd6wkFzJO4MtxkSDz,Oli XL,"""I Could Go Anywhere But Again I Go With You""",Power Over Death,16,230514,False,0.422,0.436,1,-10.828,1,0.161,0.0344,0.862,0.0838,0.492,94.416,1,club
+2Dnd6d6qETLUJqNln7NpzO,Namasenda;Joey LaBeija,Unlimited Ammo: Infinity (Remix),Finish Him,40,200594,True,0.545,0.817,9,-6.471,1,0.0402,0.0142,0.00979,0.0846,0.523,149.95,4,club
+6moTiVH1eYdM7WsGUJYa2K,Absolute Valentine;Powernerd;Vector Seven,Cyber Ravage (Vector Seven Remix),Cyber Ravage - Vector Seven Remix,15,252285,False,0.539,0.831,2,-6.177,1,0.0585,0.0471,0.772,0.157,0.15,105.009,4,club
+1SeAOwpppNBBf9Wn9g7NgE,Leonce,Penetration Testing,Penetration Testing,15,302769,False,0.799,0.968,7,-7.343,1,0.0484,2.98e-06,0.907,0.16,0.1,129.99,4,club
+1qcxmjYqXXaWLRJTq7oWXl,HDMIRROR,United Ravers Against Fascism,Burst Open,15,185700,True,0.278,0.999,0,-2.421,1,0.132,0.000879,0.896,0.357,0.225,200.03,4,club
+1N5sSLpAnV1hH3M5sB0UEK,Glee Cast,"Glee: The Music, The Complete Season Four",Don't Dream It's Over (Glee Cast Version),41,226733,False,0.399,0.602,3,-8.486,1,0.0348,0.341,2.3e-05,0.0808,0.287,164.067,4,club
+2MgwaKmXHTmBasVC93IbTa,Processor;Modesty Beast,Modern Way,Modern Way,16,203389,False,0.595,0.946,6,-3.157,0,0.173,0.00577,0.2,0.594,0.558,118.0,4,club
+6O72Ao6kORIi0Ky2nl58Rx,Daniel Deluxe,Ghostrunner (Original Soundtrack),Truth to Power,34,150271,False,0.653,0.897,8,-5.694,0,0.0559,0.343,0.87,0.11,0.613,114.979,4,club
+3JfkECJCGeVvVDs9j15OoB,Himera;JEL: The Digital Dream Girl,Whisper,Whisper,16,226299,False,0.685,0.788,8,-6.184,1,0.0789,0.0145,0.896,0.0769,0.457,139.946,4,club
+3GHjSHDeB2Qy5BwGuNAIgD,Glee Cast,"Glee: The Music, The Complete Season Two",Jar Of Hearts,44,246146,False,0.277,0.402,5,-5.964,1,0.031,0.856,0.0,0.469,0.16,74.193,4,club
+1ZKvXZmNl0ptRrZZ0lRbtW,Dustycloud,Fate EP,Truth,16,161680,False,0.816,0.899,7,-7.34,1,0.0938,0.0757,0.644,0.693,0.507,124.993,4,club
+53sAdxzf4iBbN35OUENeFY,Glee Cast,Glee Love Songs,Take Me to Church (Glee Cast Version),35,242440,False,0.469,0.649,4,-7.056,0,0.0419,0.44,0.0,0.102,0.425,129.043,3,club
+2z1DR0bNunlqbO3uPRwvYD,Glee Cast;Kate Hudson,Glee: The Music presents Glease,There Are Worse Things I Could Do (Glee Cast Version) (feat. Kate Hudson),48,141560,False,0.406,0.494,7,-5.84,1,0.0332,0.561,0.0,0.123,0.223,99.854,3,club
+3Xgc0P2nr8h4qkCN8eiK25,Five Star Hotel,Machine Girl / Five Star Hotel,Blister,14,204113,False,0.398,0.76,8,-4.633,1,0.579,0.00011,7.68e-05,0.206,0.402,89.638,5,club
+3FSgMrKrH49IFEEbVM7ySG,Occams Laser,Occult 91,Monsters of Men,16,261216,False,0.569,0.931,2,-6.697,0,0.0269,0.0584,0.838,0.356,0.415,129.984,4,club
+72ZqwPX063K6z7f6GZX4bU,Power Glove;Judge Bitch,Wolf (Judge Bitch Remix),Wolf - Judge Bitch Remix,16,169557,False,0.541,0.759,1,-11.127,1,0.056,0.00427,0.891,0.372,0.455,130.017,4,club
+0whprVibzmbCNK1215rESv,The Aislers Set,Terrible Things Happen,Why Baby,17,114480,False,0.371,0.554,1,-10.091,1,0.0341,0.195,0.00508,0.106,0.595,142.937,4,club
+1AiZoNMhO0YyKWf9CAH228,Absolute Valentine,Police Heartbreaker,Police Heartbreaker,42,145515,False,0.493,0.997,9,-4.78,1,0.0555,0.0409,0.79,0.34,0.287,135.005,4,club
+3IcSgaj3iwBGzCeCgLcV54,The Magnetic Fields,69 Love Songs,I Think I Need a New Heart,47,152733,False,0.62,0.83,2,-6.581,1,0.0464,0.703,0.0427,0.201,0.912,159.448,4,club
+5IENCk2ARF4RVE0Alypsj1,HORSKH,Wire,Break Off,16,198546,False,0.472,0.709,1,-9.738,1,0.492,0.121,0.369,0.135,0.182,139.943,4,club
+40DIoG0pcfuFOZDjPioFQc,Glee Cast,"Glee: The Music, The Complete Season Three",I Want You Back (Glee Cast Version),40,160920,False,0.686,0.817,0,-5.306,1,0.0594,0.107,0.0,0.189,0.793,107.004,4,club
+5FeMd5rQHvn9oQQoD8j0Z9,Glee Cast,"Glee: The Music, Volume 4",I Want To Hold Your Hand,42,156346,False,0.484,0.261,7,-10.951,1,0.0267,0.664,1.09e-05,0.17,0.215,78.015,1,club
+4ny7REI3HTKchGTDRyADou,Namasenda,hot_babe_93,Here,18,196000,False,0.665,0.775,11,-5.905,1,0.0363,0.146,0.00309,0.153,0.877,76.013,4,club
+1PBdK8qp3x5umgDVGDMXku,SIERRA,Strange Valley,A Long Walk,15,240124,False,0.397,0.66,2,-9.303,1,0.0345,5.87e-05,0.885,0.083,0.0365,122.024,4,club
+5hFVEGh2BOFApHqZX62nnP,Gost,Valediction,Dreadfully Pious,16,251506,False,0.437,0.967,7,-5.002,0,0.0422,1.06e-05,0.92,0.107,0.291,126.033,4,club
+25Ff6JPWUkl786IQeCkcCc,Free Refills,Raw Steak Black Coffee,The Mall,16,113741,True,0.504,0.982,3,1.673,0,0.204,0.00154,0.293,0.24,0.915,153.03,4,club
+4FzZjyygwM5zxIW3oTJRQI,Glee Cast,"Glee: The Music, The Complete Season Four",To Love You More (Glee Cast Version),43,265866,False,0.31,0.502,2,-6.438,1,0.0322,0.631,1.24e-06,0.132,0.0524,119.993,4,club
+07YdlRy1GxHXYYPdy6FMfW,Glee Cast,"Glee: The Music, The Complete Season Four",Mamma Mia (Glee Cast Version),43,213573,False,0.611,0.753,2,-5.064,1,0.0334,0.476,5.45e-06,0.304,0.33,137.974,4,club
+0ePqObE8GoAjuFpfhIyJ9M,The Magnetic Fields,Holiday,Sugar World,19,199813,False,0.597,0.792,8,-9.154,1,0.0299,0.452,0.0213,0.199,0.939,118.792,4,club
+2vHWPXnIuNS1uc7Zq3LRV4,Glee Cast,"Glee: The Music, The Complete Season Four",Don't Speak (Glee Cast Version),45,260920,False,0.505,0.852,5,-5.122,0,0.0415,0.0048,0.0,0.115,0.464,77.062,4,club
+2mNefE3in2Zen1s30gcL3R,Organ Tapes,唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao,never had,16,140487,False,0.405,0.389,2,-14.809,1,0.0419,0.863,0.72,0.134,0.748,89.271,4,club
+00RTPYo7pvEqHGOyLZWyJu,Black Tambourine,Black Tambourine,I Was Wrong,17,94680,False,0.499,0.933,9,-4.22,0,0.0377,0.0425,0.928,0.288,0.977,126.508,4,club
+3Ntp14p4caf7ge693VMxV0,Daniel Deluxe,Corruptor,Burning Skylines,16,203197,False,0.336,0.589,7,-6.344,1,0.0305,0.197,0.179,0.109,0.163,96.007,4,club
+1wYDz3NuqlGxPnQDX8OuV6,Glee Cast,"Glee: The Music, Volume 4",(I've Had) The Time Of My Life,43,277560,False,0.459,0.77,9,-5.993,1,0.0472,0.0765,0.0,0.0879,0.168,110.706,4,club
+3RUGyF5Ax44NyQl23kUwA7,Glee Cast,"Glee: The Music, The Complete Season Three",I Was Here (Glee Cast Version),16,238160,False,0.545,0.601,7,-7.265,1,0.0313,0.25,3.22e-06,0.0879,0.167,110.94,3,club
+6TUA6N0btxE8iO74j6MiUL,Glee Cast,Glee LGBTQIA+ Pride,It's All Coming Back To Me Now (Glee Cast Version),16,322933,False,0.269,0.516,0,-7.361,1,0.0366,0.406,0.0,0.117,0.341,178.174,4,club
+0ETDRoS675x8vFPT1GuLgL,Glee Cast,Glee LGBTQIA+ Pride,"River Deep, Mountain High",16,212626,False,0.325,0.855,8,-4.603,1,0.0755,0.0563,0.000299,0.298,0.497,167.538,4,club
+6b6CdXY3wpG7OFtp6FOwLz,Dustycloud,Golden Hour,Golden Hour,42,269695,False,0.681,0.627,8,-8.842,1,0.159,0.303,7.04e-05,0.245,0.135,125.008,4,club
+7zWYZS3MmS4YcqkQ02VnZc,Gesaffelstein,Novo Sonic System,Dance X,33,255426,False,0.637,0.94,2,-5.494,1,0.0502,0.126,0.865,0.187,0.0896,107.056,4,club
+76JjZ1DCmW8ROUb4KpHelZ,A. G. Cook,7G,Windows,29,279905,False,0.655,0.488,11,-6.36,1,0.0376,0.82,0.321,0.113,0.398,105.953,4,club
+13S8rPFs0oA0qqEsqvrTbO,Kai Whiston;EDEN,Carrier Signal,Carrier Signal,35,247190,False,0.556,0.762,2,-7.12,1,0.158,0.00151,0.22,0.76,0.111,128.018,4,club
+5FqMFN6enobvl6ojiTt98J,DEADLIFE,Drift,Drift,42,307000,False,0.627,0.84,7,-6.455,0,0.0532,0.00317,0.717,0.0849,0.0382,123.972,4,club
+1G950qfSStXZLjScolxmmv,Dark0,Solace,Fuschia,16,289018,False,0.786,0.461,7,-6.281,1,0.0841,0.0597,0.941,0.138,0.252,142.04,4,club
+5do4uP7PRNeqZ1qDvDH5II,Gesaffelstein,Aleph,Trans,35,273600,False,0.669,0.924,9,-4.699,1,0.055,0.000108,0.898,0.123,0.0662,107.035,4,club
+1L6hxC6UccyWQlqPDumxXP,ALEX;TOKYO ROSE;THE AKUMA;WVLFPAKT;Mecha Maiko,AKUMA,CURSED,36,266198,False,0.609,0.802,9,-6.999,0,0.109,0.0533,0.647,0.325,0.475,110.021,4,club
+2Vv2boJ8svGFAOA348ApxQ,Varg²™;Bladee,SIREN CALL,FELL,40,183333,False,0.574,0.734,1,-5.864,0,0.0306,0.0806,0.00014,0.118,0.269,144.05,4,club
+26bmTNZzIN3J7mYfHIQ7qK,One True God,No Names,No Names,33,162285,False,0.647,0.814,2,-2.456,1,0.0523,0.00169,0.136,0.373,0.196,104.996,4,club
+6ajUcZRcV4gymkMAlcZqzu,NGUZUNGUZU,Just A Touch,Just A Touch,16,262000,False,0.535,0.487,4,-9.13,0,0.0326,0.385,0.165,0.146,0.141,119.944,4,club
+5EuXqe8xIlAd6ckMUO7Exv,One True God,Little Things,Little Things,34,221463,False,0.664,0.892,1,-3.238,1,0.0333,0.119,0.867,0.118,0.288,123.014,4,club
+1JIXDf3lK4fvrMr0EpUzlm,Kingdom,Vertical XL,Bank Head (feat. Kelela),15,260085,False,0.712,0.788,9,-6.911,1,0.0773,0.115,0.0248,0.0856,0.604,134.978,4,club
+5CIW5yZEzjsJHI6Nv340Fk,DJ Tray,Can't Wait,Can't Wait,15,135915,False,0.827,0.511,6,-15.485,0,0.0594,0.000929,0.246,0.152,0.494,143.067,4,club
+2NLcsuFUwxuPON7fBnxyv2,One True God;LICK,Tesla,Tesla,36,176585,False,0.736,0.846,10,-4.228,0,0.0398,0.00923,0.137,0.126,0.281,123.011,4,club
+0Qia3sEByGk9ELKGBRRvYF,Eartheater,Trinity,High Tide,41,179701,False,0.5,0.662,1,-8.022,1,0.0555,0.00418,0.0237,0.133,0.13,153.022,4,club
+6Vl4aJTHXPjUnPtjucRuGN,Kyle Edwards;Karium K.E. Edwards;Wakyin;Campaign Nino,Run Away (feat. Campaign Nino),Run Away (feat. Campaign Nino),14,192584,False,0.809,0.788,10,-5.127,0,0.0457,0.354,0.0905,0.181,0.465,126.056,4,club
+0B4hwC70DBwK4COEMmGO7c,Lazerpunk;Max Brhon,Covenant (Max Brhon Remix),Covenant - Max Brhon Remix,32,234851,False,0.483,0.754,0,-7.514,0,0.0507,0.0385,0.0857,0.08,0.199,105.026,4,club
+6KCympU2zvB2nzs3XUsvP9,Mvntana,Die Very Rough (Remix),Die Very Rough - Remix,33,142602,False,0.725,0.529,11,-10.434,0,0.0566,0.0154,0.0268,0.268,0.321,82.512,4,club
+3rGfD8XpNBkv3WOgHPROiS,Gesaffelstein,Conspiracy Pt.2,Conspiracy Origins,35,150200,False,0.675,0.307,7,-9.472,1,0.108,0.000351,0.909,0.127,0.579,130.038,4,club
+2LrlmWXBgoWxqXDXv7E0vI,HORSKH,Wire,May Day,15,155386,False,0.629,0.418,5,-10.112,1,0.0536,0.272,0.872,0.103,0.109,190.355,4,club
+6DwuitsCmoN4YlXFbJBaxc,Head Splitter,"Cyberpunk 2077 Fanmade Soundtrack, Vol. I",Hyperpunk,36,275513,False,0.626,0.865,8,-8.285,1,0.0448,0.313,0.874,0.106,0.0328,115.015,4,club
+631PO6REAW5P3cVCqGuRbZ,Hyper,Lies,Live Forever - Original Mix,27,222222,False,0.51,0.919,4,-4.288,0,0.0717,0.000234,2.47e-05,0.108,0.361,135.116,4,club
+1t0yaPngkHpryY7LmGVhNb,Blueboy,"Clearer and other singles, 1991-1995",Clearer,17,232613,False,0.423,0.329,5,-15.726,1,0.0351,0.702,0.0803,0.102,0.318,184.259,4,club
+7KdtM0WqdwCpk7bFYlgyqt,Varg²™,EXIT WOUNDS,LUNARSTORM,16,324000,False,0.265,0.902,1,-7.732,1,0.0535,0.00288,0.47,0.294,0.164,109.433,3,club
+1XPRqqVm4HH0DowRrq7L3J,Tre Oh Fie,So Flo Fie,Bring Dat Bak,14,145600,False,0.685,0.83,1,-7.056,0,0.0403,0.00636,0.0101,0.146,0.682,150.023,4,club
+3ljHAga5LxyqBhpsdTNhxo,Yawning Portal,The Bliss of a Soft Comedown,C2u,15,209426,False,0.2,0.325,7,-12.053,0,0.0338,0.768,1.26e-05,0.189,0.0971,82.394,5,club
+5IMfc8mZIYm8XevwCW5l8Z,Occams Laser,Occult 91,Heat,15,195697,False,0.487,0.94,1,-6.703,1,0.121,0.0476,0.88,0.381,0.341,129.982,4,club
+2ynpXSsqC55wwzmt35TjLk,Occams Laser,Phantasm,Relic,15,220872,False,0.483,0.922,10,-6.482,0,0.0504,0.00476,0.787,0.274,0.199,143.971,4,club
+0Dq9fMtiubl73UQCiKRYi8,Daniel Deluxe,Ghostrunner (Original Soundtrack),The Orb,38,121919,False,0.512,0.947,4,-8.508,1,0.0529,0.318,0.841,0.785,0.746,126.012,4,club
+5ILYK0JRTx4F66sgJX3Tfj,Ray Gun Hero,Sectors,Transport,16,292708,False,0.627,0.917,2,-6.098,1,0.0474,0.000124,0.631,0.359,0.305,125.991,4,club
+6RqOnpucV7p2Qv0FwNtOAU,Babyfather,UK2UK,Bangin' Lemon,16,389296,True,0.574,0.348,6,-15.789,1,0.0849,0.107,0.847,0.111,0.357,97.055,4,club
+5ITulM2hyTM1lRVRrw4iLa,Fire-Toolz,Eternal Home,Yearning = Alchemical Fire,16,158806,False,0.454,0.969,5,-7.841,1,0.044,0.0973,0.924,0.0999,0.19,136.985,4,club
+6mVhB6pXMrRdJyQ9ueIRng,DEADLIFE,Bionic Chrysalis,For You,16,353061,False,0.58,0.569,10,-6.291,0,0.076,0.0171,0.0672,0.089,0.358,122.416,4,club
+6kdr0FFscsql8NBO6oaWdc,DreamReaper,Liminality,Summoner,16,242875,False,0.569,0.827,8,-5.373,1,0.0416,0.0039,0.804,0.371,0.521,112.999,4,club
+6sZxNeH1jyNEfBbD6WCuGN,death's dynamic shroud,Darklife,Light Left The Garden,40,333500,False,0.502,0.515,5,-9.099,0,0.0525,0.00848,0.602,0.0839,0.266,179.853,3,club
+1gE5jl1b1UboD4ltrU8gBt,ALEX;Madelyn Darling,SIMULATIONS,Norma,15,173616,False,0.513,0.713,7,-8.884,0,0.0369,0.0047,0.523,0.15,0.666,160.01,4,club
+6RD5GiFTfkNiQ8PV1vANBA,Deathpact,Departure,Point of Departure,17,182380,False,0.647,0.934,1,-5.378,1,0.422,0.0538,0.00365,0.709,0.483,125.965,4,club
+6nwhyV9p7fAaPkGE93SnWv,Language of Flowers,Songs About You,If It's Not You,16,188400,False,0.4,0.86,5,-6.015,1,0.0521,0.0279,2.32e-05,0.0987,0.851,184.716,4,club
+6NNtcE2NOJKjKV62KNOkdo,Noisecream,"Robocream (Original Roboquest Soundtrack), Pt. 2",Nova,14,176665,False,0.757,0.89,7,-3.628,0,0.271,0.00276,0.1,0.122,0.483,125.031,4,club
+5Ei6mYy1CBSIF8otlFft74,Andy Stott,We Stay Together,We Stay Together (Part One),18,396093,False,0.711,0.293,1,-17.61,0,0.0912,0.287,0.888,0.092,0.0798,95.066,4,club
+3394Xch6hlz57FZX6oODGQ,Neoslave,Autoviolator,The New Slaves,16,240875,False,0.487,0.936,11,-3.96,0,0.14,0.000271,0.873,0.121,0.288,159.969,4,club
+6m7q23s4kruW0BPwJ6h68V,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),P.Y.T. (Pretty Young Thing),15,162440,False,0.682,0.954,9,-4.896,0,0.117,0.253,0.0,0.357,0.398,127.362,4,club
+0UMLFx5VO2BdqTPdZwiSGb,Andy Stott,We Stay Together,Bad Wires,18,441000,False,0.617,0.602,10,-15.453,0,0.0639,0.129,0.807,0.0866,0.157,192.051,4,club
+67lMr5SLliCy6erdyT2RG0,Glee Cast;Darren Criss,"Glee: The Music, Volume 5",Don't You Want Me (feat. Darren Criss),44,213573,False,0.734,0.706,0,-4.99,1,0.0375,0.000597,0.000276,0.273,0.335,119.993,4,club
+2nY1py09fzLOOLL9s2UZnN,Irving Force,Sigmata FM,"Get In, Get Out",16,774391,False,0.459,0.586,0,-12.31,1,0.0535,0.182,0.0119,0.112,0.126,89.985,4,club
+4M319bQXFJlITi7NscXC0x,Linn da Quebrada;MikeQ,PAJUBÁ REMIX II,MikeQ * Tomara (Remix),17,284307,False,0.881,0.813,8,-5.344,0,0.0832,0.106,0.00583,0.0856,0.538,129.973,4,club
+6KQ0HYY0zSZVHIxFvommre,Glee Cast;Jonathan Groff,Glee LGBTQIA+ Pride,Like A Virgin (Glee Cast Version) (feat. Jonathan Groff),15,195093,False,0.679,0.845,4,-3.05,0,0.0478,0.0651,0.0,0.0841,0.763,119.989,4,club
+5uJdU9lZQ8cLHy909ZCpVl,Glee Cast,Glee LGBTQIA+ Pride,Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version),16,187413,False,0.463,0.839,9,-3.084,1,0.0361,0.00416,0.0,0.442,0.614,145.935,4,club
+0nFLTkNB02S9OyulVIrwRb,Linn da Quebrada;Various Artists,Manhãs De Setembro (Música da Série Original Amazon),Não Sou Tua (Da Série Original Amazon Manhãs De Setembro),17,130897,False,0.705,0.745,0,-5.416,1,0.0388,0.00989,4.98e-05,0.0773,0.879,137.951,4,club
+7pVuGWgUcABk3ToWt2hGNU,DJ Smallz 732,Chicago (Jersey Club),Chicago (Jersey Club),40,118256,False,0.872,0.527,10,-12.91,1,0.076,0.523,0.117,0.157,0.0877,129.966,4,club
+6WvjZs6aOzTmi9wd0mZc1P,Karen Nyame KG;Mista Silva,Koko,Koko,46,172489,True,0.812,0.725,8,-8.947,1,0.0579,0.0277,0.574,0.0826,0.617,115.038,4,club
+6b6CdXY3wpG7OFtp6FOwLz,Dustycloud,Golden Hour,Golden Hour,42,269695,False,0.681,0.627,8,-8.842,1,0.159,0.303,7.04e-05,0.245,0.135,125.008,4,club
+5rOzcHIZaF038jMeHkUZR0,Arca,Arca,Reverie,40,192767,False,0.251,0.554,9,-9.641,0,0.0334,0.0528,0.127,0.188,0.0764,126.224,4,club
+520lZsDzgWcQz5qpt3nFIk,gosha,Чернобыль,Чернобыль,38,240000,False,0.761,0.843,2,-1.831,1,0.145,0.00727,0.2,0.0755,0.396,104.971,4,club
+2wEHloBpu1qPbLvJ5ywhK5,Infraction,Dizziness,Dizziness,26,194400,False,0.588,0.789,6,-4.165,1,0.0335,0.0164,0.251,0.14,0.303,100.019,4,club
+3M3ACmJBc1ivTnh8MbN9A3,Smash Stereo,Riot,Riot,39,132559,False,0.573,0.973,6,-2.565,0,0.362,0.00025,0.461,0.297,0.4,110.052,4,club
+2MwrFzPLPhx12QF3xjfXjR,SWARM;I-Exist,In My Dreams,In My Dreams,41,310857,False,0.431,0.93,8,-2.854,1,0.146,0.00309,0.00937,0.354,0.191,104.971,4,club
+6Y3VKAhFR2Zrqd2MiI35jR,JVLIAH,Jericho,Jericho,38,192897,False,0.479,0.812,1,-7.042,1,0.0568,0.00333,0.94,0.981,0.0248,106.991,4,club
+1ylzRbRcouAgM8iZF4SqCK,DJ Flex,Amaka,Amaka,15,188844,False,0.821,0.824,5,-5.971,0,0.0334,0.412,0.871,0.11,0.692,119.006,4,club
+7ED7AVTiTcsnMPAQ95hUtK,Blackhaine,Hotel,Hotel,15,378499,False,0.378,0.611,5,-8.979,0,0.507,0.125,0.0023,0.078,0.159,160.442,4,club
+37VU6eEJNlq2NqAZnRxZBf,Mobiius,Deadeyes,Deadeyes,38,159308,True,0.802,0.811,0,-8.437,1,0.133,0.146,0.846,0.388,0.571,110.018,4,club
+39r7Qe9OnogjcCBDTYG9wI,DJ LILMAN;West End Tricks,Toast,Toast,14,161201,False,0.931,0.671,1,-9.231,1,0.261,0.0187,1.36e-05,0.0773,0.598,139.942,4,club
+6DADAscOCSjtCAsAgOdiKY,Head Splitter,"Cyberpunk 2077 Fanmade Soundtrack, Vol. II",Kyoto,35,225645,False,0.67,0.551,2,-9.032,1,0.0299,0.0637,0.735,0.703,0.0337,100.006,4,club
+5CIW5yZEzjsJHI6Nv340Fk,DJ Tray,Can't Wait,Can't Wait,15,135915,False,0.827,0.511,6,-15.485,0,0.0594,0.000929,0.246,0.152,0.494,143.067,4,club
+0RziRXSj2ZHVLonxak2WLV,The Hit Parade,With Love From...,You Didn't Love Me Then,40,212440,False,0.473,0.562,4,-12.418,1,0.0401,0.0561,2.58e-05,0.125,0.677,81.724,4,club
+0fE6qIN5ZWJLCwpH5nLayr,Mobiius,I Need You / Smolder,Smolder,42,193170,False,0.853,0.636,0,-6.208,1,0.0988,0.00676,0.507,0.588,0.232,123.005,4,club
+1Pqu5RCYo7JFVb8N1JvmEP,DJ Smallz 732;Kyle Edwards,DJ Smallz 732,Redbone (Groovy Anthem),15,84088,False,0.823,0.847,10,-2.998,0,0.237,0.0294,0.0648,0.304,0.775,159.905,4,club
+3yvzcVFbz2ziA2NAq9hn7f,Kyle Edwards;DJ Smallz 732,Warning,Nobody Supposed to Be Here,15,99526,False,0.885,0.75,6,-8.859,0,0.173,0.0878,0.963,0.0453,0.406,140.079,4,club
+1yaR3sqfwdT2oh7JIe6ga7,Tzafu,Clathrus Archeri,Clathrus Archeri,15,197546,False,0.676,0.619,1,-8.892,1,0.0404,0.00418,0.357,0.0763,0.126,107.008,4,club
+4XTimrKnrQdKN5ii0eW98O,Arca,KicK iii,Morbo,38,135236,True,0.75,0.738,1,-10.116,1,0.277,0.307,0.0188,0.0976,0.679,113.534,4,club
+3yPJHSHFMrD7T1DjPXpvyT,Glee Cast,"Glee: The Music, The Complete Season Three",Saving All My Love For You (Glee Cast Version),36,231333,False,0.55,0.432,5,-7.121,1,0.0341,0.788,0.000215,0.105,0.401,197.547,3,club
+2uVafXvUyC7p9wkgFvSieY,Arca,KicK iii,Electra Rex,39,128781,True,0.556,0.699,1,-9.058,1,0.381,0.00222,0.00512,0.203,0.468,71.421,4,club
+1yPz3RSIX5LpxiskHB55lG,Arca,Mequetrefe,Mequetrefe,17,140742,False,0.674,0.823,0,-8.654,1,0.202,0.0199,1.25e-05,0.666,0.673,94.118,4,club
+5fZE0TVp6FFesXodTd8Uvx,Glee Cast,Wrecking Ball (Glee Cast Version),Wrecking Ball (Glee Cast Version),39,219053,False,0.579,0.373,5,-7.003,1,0.0294,0.44,0.0,0.113,0.387,119.954,4,club
+5kKmz3LyhG2Iqdqv67SFXl,Namasenda,Unlimited Ammo,Black Ops 2,41,123306,False,0.622,0.765,10,-3.768,0,0.0345,0.381,0.0,0.17,0.652,143.842,4,club
+2iqRJPNkfUSg5TIHrM3B2m,Celina,Origins,A Hero Born,16,200175,False,0.528,0.781,0,-7.305,1,0.0318,0.00636,0.854,0.12,0.0388,95.999,4,club
+5n4Ovy86K5wlA5Xg8L2rXg,King Stephen,Bloody Night Fever,You Can't Outrun the Devil,15,353837,False,0.252,0.991,7,-2.723,1,0.541,7.8e-06,0.849,0.267,0.111,185.036,4,club
+2DLczPkq6zt8ZXIcfWkBfh,Nick León,Rompe Discoteka,Apretao - Original Mix,15,224383,False,0.771,0.799,0,-9.393,1,0.0659,0.00569,0.873,0.0782,0.0912,100.009,4,club
+0axJOlU1BJqXET56Sd9Q7l,Neo Fresco,"No False Idols, Chapter 1",Red Pyramid X,15,325198,False,0.792,0.955,11,-6.089,1,0.0482,9.2e-05,0.879,0.0586,0.118,123.984,4,club
+0GA0MWNzKfYNlcuCb4zLer,KilSoSouth,This Woman's Work,This Woman's Work - Dance Version,15,120000,False,0.603,0.629,0,-7.015,0,0.0762,0.000524,0.0166,0.277,0.0701,165.272,4,club
+4f0yGg3NWobgrdN7x5ZQ0R,Gabber Eleganza,Blist (Compilation IV),Bonjour Travelers,15,246851,False,0.695,0.926,4,-4.224,0,0.0717,6.72e-05,0.856,0.211,0.174,178.046,4,club
+09MQwsUkzi29VEQLsUBSvX,Glee Cast;Jonathan Groff,"Glee: The Music, Volume 3 Showstoppers",Hello (Glee Cast Version) (feat. Jonathan Groff),43,206040,False,0.586,0.3,7,-9.517,0,0.0335,0.813,0.0,0.117,0.319,121.755,4,club
+3ZLGYdkjnOMdzHr0bGCGs9,iMarkkeyz,Coronavirus,Coronavirus,32,154853,True,0.717,0.831,11,-3.878,0,0.203,0.000898,0.000185,0.854,0.821,83.986,4,club
+4cKQXhrbTBXBspQdrDeAPR,Kyle Edwards;DJ Smallz 732,"We Are Young, Vol. 5 (Jersey Club)",I Dont Want Your Number,15,82378,False,0.92,0.452,8,-9.494,0,0.201,0.193,0.0182,0.0574,0.814,139.999,4,club
+4CQfNX7WkyoGUEig0qUBI5,Reznyck,Muscle Cardiac,Maseratiphoïde,15,215172,False,0.399,0.865,7,-5.338,1,0.0964,5.18e-06,0.822,0.0852,0.644,144.897,4,club
+4nMGtCN3vBJ5MrdPeuUoSP,Free Refills,Raw Steak Black Coffee,Silicone,16,137127,True,0.42,0.997,6,0.665,1,0.218,0.00578,0.626,0.424,0.559,155.861,4,club
+7aefUMacpQOkLJLAMCjbCI,Tiger Trap,Tiger Trap,Chester,17,183973,False,0.232,0.734,9,-7.406,1,0.0373,5.97e-05,0.533,0.118,0.714,135.931,4,club
+7FUNGlYkniRH0qhSHWU5HK,Glee Cast;Jonathan Groff,"Glee: The Music, The Power Of Madonna",Like A Virgin (Glee Cast Version) (feat. Jonathan Groff),45,195093,False,0.678,0.845,4,-3.05,0,0.0475,0.0651,0.0,0.0841,0.763,119.999,4,club
+5ubaoU3DVQte0ThJkxo3HM,The Orchids,Dreaming Kind,This Boy Is A Mess,15,200586,False,0.617,0.535,9,-13.171,1,0.0279,0.0665,0.0792,0.59,0.963,133.958,4,club
+7t0u2dbZoby5Y6yWXY2zYG,Glee Cast,"Glee: The Music, The Complete Season Four",Creep (Glee Cast Version),44,237266,False,0.329,0.54,5,-6.814,1,0.033,0.017,1.63e-05,0.176,0.137,184.572,4,club
+7ykxRuzU1KhQC2TZ2YDEyK,Organ Tapes,唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao,ID,15,203541,False,0.194,0.236,4,-13.885,0,0.0353,0.271,0.0275,0.0833,0.07,96.489,4,club
+4uSYnxjz5AQlCGelseiFFV,The Magnetic Fields,Holiday,In My Car,18,176986,False,0.376,0.554,5,-11.649,0,0.0313,0.317,0.856,0.427,0.677,126.672,4,club
+7mZoDbttXQ6zUOqGCKODYC,Even As We Speak,Feral Pop Frenzy,Swimming Song,16,102066,False,0.536,0.693,7,-13.96,1,0.0413,0.0138,0.000439,0.0677,0.798,142.982,4,club
+0LS0EWnoAJWRFdOFonyXXR,Girl Pusher,Dont Die,Wheres My Shit,15,123428,False,0.285,0.966,4,-8.013,0,0.438,0.239,0.0778,0.113,0.0863,140.146,4,club
+4sLrEAfwvFAkaL1kwHmvPC,Free Refills,Raw Steak Black Coffee,Malfunction,15,116804,False,0.384,0.955,2,1.795,1,0.0851,0.00312,0.603,0.0542,0.888,187.112,4,club
+2JzWtF26a8dySdtK2iNIf8,Glee Cast,Glee The 3D Concert Movie (Motion Picture Soundtrack),Silly Love Songs,16,153493,False,0.508,0.752,0,-8.823,1,0.0521,0.435,0.0,0.939,0.381,124.949,4,club
+7f2heXmnd24lwz7ng32qZ1,Glee Cast,"Glee: The Music, The Complete Season Three",Santa Baby,16,151826,False,0.706,0.308,8,-7.35,1,0.0343,0.6,0.0,0.254,0.62,114.974,4,club
+6KQ0HYY0zSZVHIxFvommre,Glee Cast;Jonathan Groff,Glee LGBTQIA+ Pride,Like A Virgin (Glee Cast Version) (feat. Jonathan Groff),15,195093,False,0.679,0.845,4,-3.05,0,0.0478,0.0651,0.0,0.0841,0.763,119.989,4,club
+176s8JW6yBZn0Nn1e8jgHX,Glee Cast,"Glee: The Music, The Complete Season Three",Forever Young (Glee Cast Version),15,234653,False,0.637,0.272,0,-8.468,1,0.0263,0.826,0.0,0.0958,0.179,97.036,4,club
+5g5y3bgYrajITEEYsLnkDq,SOPHIE,MSMSMSM,MSMSMSM,38,215628,False,0.514,0.94,11,-6.459,0,0.0441,0.0303,0.905,0.11,0.0317,133.507,4,club
+5rOzcHIZaF038jMeHkUZR0,Arca,Arca,Reverie,40,192767,False,0.251,0.554,9,-9.641,0,0.0334,0.0528,0.127,0.188,0.0764,126.224,4,club
+4x8M9f7VYpzG8pyLQx30bF,El Tigr3,Kronos,Say Goodbye Fireflies,36,261066,False,0.578,0.857,8,-10.54,0,0.0419,0.236,0.915,0.0885,0.0349,105.009,4,club
+7MRVvdYpEt0hdVigHOys6k,Sega Bodega,Romeo,I Need Nothing From You,41,218250,False,0.418,0.133,5,-12.277,1,0.0534,0.624,0.0,0.0716,0.378,167.912,3,club
+7GhXiOOmyKfgEsxGfiXEQa,Infraction,Loony,Loony,28,164137,False,0.498,0.894,7,-4.479,1,0.0458,0.00229,0.539,0.146,0.547,174.111,4,club
+5u4s1yOwdcd7TX8bOMHR6T,Infraction;Jinaction,Mad At Chu,Mad At Chu,31,180000,False,0.742,0.885,5,-3.635,0,0.0653,0.00448,0.00233,0.0858,0.47,99.992,4,club
+51Xn6IYNyiYaKc8ECI5CUr,Arca;SOPHIE,KiCk i,La Chíqui,41,167458,False,0.462,0.771,7,-8.722,1,0.273,0.0086,0.000228,0.131,0.457,113.0,5,club
+7AlwyhnJAZgtIsm1GnEU3I,Eartheater,Phoenix: Flames Are Dew Upon My Skin,How To Fight,39,211295,False,0.404,0.249,7,-15.881,1,0.0472,0.702,0.000911,0.171,0.284,120.223,4,club
+14oP6leIOPTvqP6zEcpW4Y,HKE,愛慕 / 悲哀,"独自一人,一起",15,544000,False,0.127,0.412,0,-13.833,1,0.0349,0.903,0.903,0.0898,0.0838,59.484,4,club
+6ZnJBU6z5j5ovNSLG9e4IF,The 6ths;Katharine Whalen,Hyacinths and Thistles,You You You You You,37,190613,False,0.527,0.178,7,-12.27,1,0.0325,0.989,0.00233,0.127,0.263,110.144,4,club
+4cEhfMDQJenkOB12pvW051,Sega Bodega,Salvador,Salv Goes To Hollywood,39,182000,False,0.761,0.514,1,-9.271,1,0.143,0.0492,0.00801,0.217,0.258,110.042,4,club
+0PtcAocxleRXX4HCK9dblL,Gost,Behemoth,Behemoth,43,267090,False,0.551,0.982,8,-1.265,1,0.139,9.38e-06,0.877,0.19,0.175,128.966,4,club
+70Ue5y7cM0Szs4aHTp2LnN,Retroj;@1Tmt__,SKYPE,RUB YA TUMMY,14,96849,False,0.896,0.524,11,-8.973,0,0.055,0.36,0.665,0.131,0.282,144.994,4,club
+2OVNYceLSQLy890RxjcUDk,3FORCE;Scandroid,Divide & Collide (Deluxe Edition),Abyss,38,270400,False,0.401,0.898,5,-3.961,0,0.067,0.000323,0.0451,0.103,0.178,149.968,4,club
+0vnh0D3xtxMMuG0VO8kr2p,Actress,Hazyville,Crushed,46,195122,False,0.783,0.632,1,-10.869,1,0.27,0.354,0.526,0.0792,0.579,130.105,4,club
+7FHG31F8SzGxcpQHsRTDoI,Eartheater,Phoenix: Flames Are Dew Upon My Skin,Below The Clavicle,41,238558,False,0.409,0.276,4,-10.627,0,0.0306,0.907,0.0397,0.0666,0.105,120.314,4,club
+766Y1kYTYrEmHSTvouyHCj,3FORCE,Resistance,Grand Design,38,366857,False,0.511,0.82,9,-4.413,0,0.0369,0.00055,0.938,0.17,0.0493,140.062,4,club
+5Wrd7eU7jcJPoZEU1Z26ow,Gost,Behemoth,Genesee Avenue,43,232820,False,0.619,0.945,10,-1.417,0,0.0639,0.000118,0.896,0.161,0.34,133.015,4,club
+5tllnTsNNravC9cGifydo6,Glee Cast,"Glee: The Music, Volume 6",Bella Notte,32,151120,False,0.295,0.205,2,-8.163,1,0.0289,0.627,0.0,0.0653,0.408,93.288,4,club
+5OwEDYM68SK0A5o1nz94sM,Eartheater,Fontanel,Fontanel,17,220246,False,0.601,0.878,9,-7.758,0,0.0937,0.0379,0.0428,0.593,0.209,120.017,4,club
+0qnIM4x81t3DGOGb1NpWJZ,Dark Smoke Signal,First Date at Starcourt Mall,First Date at Starcourt Mall,14,256125,False,0.42,0.873,11,-6.786,1,0.0376,0.00696,0.754,0.102,0.707,109.985,3,club
+3ElRruui1pSlpqr5mLTn4y,Glee Cast,"Glee: The Music, The Complete Season Two",Back To Black,46,239306,False,0.538,0.721,4,-4.641,0,0.0534,0.2,0.000337,0.332,0.33,123.421,4,club
+0wI4vrJkIMDBcmYHiGWKt5,Tayhana,Cenizas Quedaban,Hasta Que Me Quieras,14,332571,False,0.751,0.942,9,-8.2,1,0.0629,0.54,0.875,0.101,0.611,140.054,4,club
+1aqunrj4Bqo2YOpvbSkHxf,Noisecream,"Midnight Fight Express (Original Game Soundtrack), Pt. 1",Red Eyes,32,179486,False,0.771,0.866,4,-5.722,1,0.093,7.57e-05,0.874,0.0748,0.432,110.016,4,club
+4utJUGMfAkQLc6Vwyg6vHw,Paul Marmota;Kaydy Cain;El Mini,Zona,Sucio y Vicioso,16,194612,False,0.802,0.64,1,-5.264,0,0.0932,0.66,0.00108,0.0947,0.345,97.002,4,club
+1bGKpknnjpmAS4jjNuCCkJ,Newtone,Mind Eraser,Mind Eraser,15,186686,False,0.796,0.876,6,-4.652,1,0.0524,0.064,0.694,0.12,0.612,125.989,4,club
+2Zk1727EP6wYTFwoCkJcQq,Kyle Edwards;DJ Smallz 732,"We Are Young, Vol. 3",Make It Bounce,15,100414,False,0.912,0.436,1,-12.266,1,0.107,0.111,0.262,0.104,0.409,133.992,4,club
+2enfl1jhLsJTJ2IsVYWo7X,3FORCE,Divide & Collide (Deluxe Edition),Deviant,15,345230,False,0.51,0.925,1,-3.494,1,0.051,8.51e-05,0.917,0.161,0.124,130.017,4,club
+3DU1G3nyYZe0sTzxx7pjD7,Five Star Hotel;Spirit Waves,Machine Girl / Five Star Hotel,For a Moment,14,222712,False,0.483,0.714,2,-7.418,0,0.0358,0.0978,0.647,0.105,0.165,99.999,4,club
+3c3QvcgyvR2w7WPj1fWkk3,Big Dope P,Diggity Two EP,Turnt Up,15,175080,False,0.811,0.981,10,-1.337,0,0.341,0.05,0.00393,0.123,0.435,135.048,4,club
+4VlWvWf3gOF2yZ0SOyUCtX,Glee Cast,"Glee: The Music, The Complete Season Four",Let Me Love You (Until You Learn To Love Yourself) (Glee Cast Version),45,219040,False,0.401,0.177,5,-11.218,1,0.0359,0.938,8.49e-05,0.121,0.449,111.648,4,club
+46fKTdEBlU0kDDfg8XouXk,Glee Cast,Glee Love Songs,Make You Feel My Love (Glee Cast Version),39,195440,False,0.373,0.12,10,-12.637,1,0.0375,0.978,0.00135,0.0816,0.192,168.857,4,club
+3GiEEED2kzjx0shCZhQQ2y,Ase Manual;Byrell The Great,Body Drop (Remixes),Body Drop - Remix,15,179076,True,0.874,0.767,9,-9.297,1,0.0706,0.212,0.0861,0.0933,0.429,130.005,4,club
+4NSbGBT1aWQQd3O14HnbFv,Catnapp,TRUST,forget,15,187600,True,0.761,0.365,7,-10.69,1,0.425,0.151,0.00617,0.235,0.434,75.075,4,club
+7dfZoXPz7AKCTEmsyRHLHP,The 6ths,Wasps' Nests,Here In My Heart,15,210200,False,0.549,0.802,4,-9.925,1,0.0308,0.0655,2.7e-06,0.625,0.894,115.599,4,club
+4Lukd8KLAkrPLoAi0zwkm2,Dav Dralleon,Alteredeath,Alteredeath,14,222006,False,0.546,0.954,5,-6.204,1,0.0535,0.0102,0.454,0.234,0.348,100.039,4,club
+57WA16FUx2FXSs3VmaEryS,Glee Cast,Glee LGBTQIA+ Pride,Glad You Came (Glee Cast Version),37,194666,False,0.68,0.765,7,-5.83,0,0.199,0.425,0.0,0.111,0.392,126.91,4,club
+0IwS8Is01f44z6EAxs80sM,Dinamarca;Pierre Kwenders,Sol De Mi Vida: Vocalized,Luna,15,200816,True,0.793,0.517,7,-9.413,0,0.0403,0.589,0.0886,0.0939,0.515,97.998,4,club
+6caL1raHBvs18WEJzkHoK2,The Softies,Holiday In Rhode Island,My Empty Arms,17,219786,False,0.558,0.31,7,-9.789,1,0.0283,0.908,1.65e-06,0.122,0.0913,108.06,4,club
+77dzuHEfo4zL2AxeoFv8AP,JACKIE EXTREME,JACKIE EXTREME,"10,000 DOLLARS",16,161560,True,0.744,0.53,8,-7.813,1,0.139,0.0263,0.259,0.208,0.661,139.978,4,club
+04ugzFDYcsvp9ssHo0L2QQ,Glee Cast,"Glee: The Music, The Complete Season Four",A Thousand Years (Glee Cast Version),37,306786,False,0.409,0.35,10,-8.025,1,0.0275,0.75,0.0,0.114,0.126,139.876,3,club
+1HQmItFwfttjjGvjovbrln,Gost,Possessor,Beliar,14,204060,False,0.467,0.901,1,-2.207,0,0.0598,6.44e-05,0.561,0.142,0.0834,93.801,4,club
+6QycALmIOi9Bp2SOlKcuYB,Dj. Great,The Best of Dj Great Jersey Club Remix Compilation,Bodyyy,16,100153,False,0.69,0.541,9,-10.444,1,0.475,0.447,1.88e-06,0.458,0.3,139.918,4,club
+7ykxRuzU1KhQC2TZ2YDEyK,Organ Tapes,唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao,ID,15,203541,False,0.194,0.236,4,-13.885,0,0.0353,0.271,0.0275,0.0833,0.07,96.489,4,club
+7oUqrkz1A5D6XIVZUya44D,Glee Cast;Demi Lovato,Glee Sings The Beatles,Here Comes The Sun (Glee Cast Version) (feat. Demi Lovato),42,180453,False,0.698,0.329,2,-6.227,1,0.0268,0.792,0.0,0.151,0.379,125.869,4,club
+2jgmFMBG5x4KlHxXbYrfUF,The Magnetic Fields,Quickies,Castle Down a Dirt Road,18,107200,False,0.297,0.658,7,-4.754,1,0.0424,0.988,0.0524,0.191,0.507,109.872,4,club
+3gDL5Ezpg8HX5OUgaYddpa,Organ Tapes,唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao,passin through,16,178681,False,0.556,0.277,1,-16.92,0,0.0273,0.904,0.177,0.0974,0.205,91.292,4,club
+6rG8dSIKzhfbtnGDsBX8kZ,The Magnetic Fields,Quickies,(I Want to Join A) Biker Gang,18,141120,False,0.587,0.852,7,-6.195,1,0.0508,0.69,0.46,0.329,0.487,118.265,4,club
+2wA15QQIDV2Ar6K76vbkWW,Television Personalities,And Don't The Kids Just Love It,La Grande Illusion,17,213813,False,0.245,0.919,0,-9.826,1,0.179,0.117,0.00013,0.084,0.283,155.505,4,club
+2fvExpGz8yeEDRU9hLjGMh,Linn da Quebrada;Danna Lisboa;Nelson D,PAJUBÁ REMIX I,Danna Lisboa & Nelson D * Serei A (Remix),16,244482,False,0.639,0.67,7,-7.209,1,0.049,0.0507,3.64e-06,0.142,0.219,86.991,4,club
+6qfnPUcs1Qba8eePYBPu8X,Kai Whiston,Drayan!,Betty,38,164276,False,0.758,0.459,11,-13.758,0,0.124,0.593,0.631,0.356,0.169,107.993,4,club
+4lkvZBYX58DMvomoEHe8c5,Arca,Arca,Urchin,37,240113,False,0.191,0.495,6,-10.721,1,0.0457,0.0093,0.896,0.0926,0.0512,129.649,4,club
+6IZDFhyHiWcLJPEo1W4nvd,Oli XL,Mono No Aware,Heretic,39,257467,False,0.225,0.227,4,-19.877,0,0.0444,0.745,0.87,0.109,0.109,83.377,1,club
+6udFBv3qe6LOh2LfgVmbcY,Arca,Arca,Piel,39,247553,False,0.169,0.167,7,-18.586,1,0.036,0.589,0.74,0.0902,0.0377,67.864,3,club
+1SOVqO9yC3UkHwFUpaPUyA,Allo Darlin',Capricornia,When You Were Mine,7,185866,False,0.516,0.833,9,-7.09,1,0.0331,0.0707,8.77e-06,0.258,0.802,92.863,4,club
+2Bm51cQWtgUSekm6lgeeZc,Samuel Organ,A Safe Place in Cyberspace,Guidance,39,222222,False,0.527,0.242,0,-21.519,0,0.0355,0.984,0.923,0.0913,0.223,135.08,3,club
+1s7oKuT7720tOM0JSshbMv,1788-L;TYNAN,A B Y S S,A B Y S S,35,212893,False,0.393,0.938,9,-5.819,1,0.137,0.00467,0.717,0.398,0.102,177.055,4,club
+0qtEDu0RYKlSN13TS0c0Uk,Gesaffelstein,Hyperion,Vortex,29,157373,False,0.663,0.715,1,-12.426,1,0.123,0.0971,0.945,0.189,0.448,184.014,4,club
+1bYscy2XwW0fKJoNrALWP7,Deathpact,SPLIT // PERSONALITY,SONG SIX,37,290666,False,0.541,0.891,4,-4.399,0,0.0595,0.0703,0.381,0.1,0.0483,179.982,4,club
+52894gpzyShQOmkn3NOKR7,Mvntana,21 (What's 9+10),21 (What's 9+10),14,60670,False,0.81,0.597,10,-6.835,0,0.478,0.0844,3.56e-05,0.235,0.785,144.918,4,club
+2Sn2a0JAP2RjqQTwIhJLGO,Power Glove,Playback,Clutch,37,253539,False,0.655,0.813,10,-6.812,0,0.0537,0.0422,0.87,0.112,0.432,113.028,4,club
+7v7UZAX5TR64Pmvda8kI8E,COUCOU CHLOE;Shygirl,NAUGHTY DOG,JUICY,43,146000,True,0.789,0.666,11,-10.272,1,0.176,0.0266,0.22,0.0851,0.575,95.013,4,club
+3ebvEbKKCzxCmNUvrYIKUq,One True God,Give It To Me,Give It To Me,33,206037,False,0.742,0.503,10,-8.196,1,0.0535,0.202,0.834,0.12,0.269,105.993,4,club
+3ahHAqlTrvLgmtS1lvl5OF,One True God;Tiny Elephant,Problems,Problems,33,140500,False,0.669,0.973,2,-2.772,1,0.0454,0.001,0.649,0.652,0.0397,116.006,4,club
+6DXadXOOEPThFrQZ15BZKC,ZABO;ARIUS,Death On The Dance Floor,Death On The Dance Floor,29,214406,False,0.684,0.945,1,-2.583,1,0.0854,0.0184,0.782,0.172,0.0829,100.036,4,club
+27ThU2UjsMWH48A49DEKck,One True God;Not The Father,Queue,Queue,36,186050,False,0.752,0.874,6,-3.575,0,0.159,0.0188,0.795,0.151,0.394,119.03,4,club
+4RMFDkIBGhG0nBq0hMMYeD,LeKtriQue;MIDNIGHT CVLT,Night Fall,Full Throttle,37,332540,False,0.649,0.935,8,-4.473,0,0.0528,0.00274,0.676,0.11,0.22,125.995,4,club
+5nUAgIC64xH4ZdO98GTmCY,Tonebox,Crypt,Crypt,15,264444,False,0.697,0.639,11,-9.33,0,0.0451,0.228,0.871,0.155,0.0407,108.0,4,club
+0O1MTjKL5SiDunFga9eGri,We Are Magonia,La Crypte,La Crypte,37,250550,False,0.439,0.739,8,-6.961,1,0.0448,0.00356,0.587,0.0915,0.0746,94.738,4,club
+5u2NPvCmo6iGMLY69eO92O,COUCOU CHLOE;CLIP;Kelvin Krash,"ZERO FIVE STARS (CLIP, KELVIN KRASH REMIX)","ZERO FIVE STARS - CLIP, KELVIN KRASH REMIX",44,118725,False,0.697,0.643,2,-5.798,1,0.0359,0.0192,0.623,0.204,0.222,135.008,4,club
+2NxBITuVHlGNPQlzFmbjOm,Donbor,Magnatron 2.0,Grey Sky,38,254608,False,0.598,0.859,2,-6.6,0,0.0419,0.0107,0.00127,0.0983,0.185,114.952,4,club
+0HWFz9sKXuXlIZgVUvOKPU,Daniel Deluxe,Exile,Territory,41,202494,False,0.619,0.649,6,-9.68,1,0.0414,0.01,0.916,0.535,0.298,80.886,4,club
+74KSE7y8YHGzaAI4gOTIFn,Swan Meat,SLUDGE,SLUDGE,14,246500,False,0.601,0.994,6,-0.405,1,0.187,0.00101,0.798,0.108,0.247,149.97,4,club
+6JEyVE81QXHryJLl7s5aL7,Donbor,Bloq Num 11,D411,15,261702,False,0.531,0.974,9,-6.184,0,0.0567,0.00182,0.851,0.372,0.887,188.009,4,club
+7BElmYKpwmKKdJm2Hauy1G,Donbor,Remoteness,86 minutes until dark,15,246599,False,0.552,0.593,8,-7.476,1,0.0351,0.0218,1.08e-06,0.486,0.101,100.076,4,club
+7cIbS6n0en7OnZjwnMgeGT,Lazerpunk,Death & Glory,Black Lambo,40,234510,False,0.704,0.941,8,-4.751,1,0.0736,0.0255,0.817,0.266,0.766,119.971,4,club
+65c7u6UByQmVdH6ZJcKTHq,Mvntana;Pyt Ny,The Bounce Tape,Got Bounce (Arch That Back & Bounce It),15,84427,False,0.849,0.665,9,-8.336,1,0.511,0.0079,0.00822,0.314,0.436,164.943,4,club
+05wBgZ6McX2EgmqD23M3bp,Varg²™,EXIT WOUNDS,NO FLOWERS GROW FROM FROZEN GROUND,15,258271,False,0.288,0.89,5,-5.985,0,0.0489,0.00191,0.825,0.243,0.297,93.834,4,club
+1XQTBGZ3nlqqbn9lFdFL4b,Oscillian,In the Company of Robots,In the Company of Robots,15,307572,False,0.687,0.776,8,-8.136,1,0.0996,0.0329,0.126,0.265,0.281,102.985,4,club
+0PhVeoHEEaRkar3ToDQz6w,Daniel Deluxe,Ghostrunner (Original Soundtrack),Dharma,36,162706,False,0.616,0.829,6,-10.03,1,0.0383,0.151,0.886,0.469,0.171,117.966,4,club
+6ouvBZsyhSLdDlAscP5tfA,Allo Darlin',Allo Darlin',What Will Be Will Be,15,217706,False,0.61,0.234,0,-15.176,1,0.0385,0.851,7.73e-05,0.129,0.156,138.705,4,club
+2UUBFc0PxUqGw822Z1YEsw,Glee Cast,Glee LGBTQIA+ Pride,Cough Syrup (Glee Cast Version),46,251280,False,0.579,0.833,2,-5.371,1,0.0276,0.0104,2.24e-05,0.105,0.343,129.007,4,club
+6uzLvZZOFLb8P2CDw85Pum,Raydar,Neon Graffiti,Night Walkers,15,336410,False,0.73,0.918,7,-3.35,1,0.0344,0.0114,0.595,0.0449,0.149,117.023,4,club
+3GXwSWWDcotwPRHmkTHKFe,Dinamarca,Sol De Mi Vida,Mi Todo,15,226593,False,0.752,0.72,0,-3.443,1,0.0729,0.335,0.807,0.114,0.202,177.994,4,club
+7LgKjZpzhKQrwQLocXuoO8,Glee Cast,Glee Love Songs,Marry You,32,225133,False,0.637,0.768,5,-6.888,1,0.0318,0.0335,7.77e-06,0.161,0.459,144.914,4,club
+12e1plmZmOAQa88YmwCWAX,Glee Cast,"Glee: The Music, Homecoming",Problem (Glee Cast Version),40,194213,False,0.721,0.774,4,-6.063,1,0.139,0.0132,1.83e-06,0.303,0.719,103.057,4,club
+0tWrkL51l5P9JR1Sda6WCa,Conan Osíris,"MUSICA, NORMAL",CORUJA,14,253173,False,0.686,0.535,7,-9.097,1,0.0339,0.04,0.188,0.084,0.451,89.996,4,club
+2Doo65iQvX0q6kE5W2cnlw,DEADLIFE,God in the Machine (Deluxe Edition),Boreal Nerve,14,236000,False,0.597,0.928,5,-6.102,1,0.0497,0.0543,0.911,0.096,0.0308,128.0,4,club
+2Q7YtzC4tH9td1NFJD68bv,DreamReaper,Liminality,Diaxiom,15,263428,False,0.525,0.83,11,-5.253,1,0.0688,2.43e-05,0.301,0.173,0.712,127.013,4,club
+4n0iKnuP1mliydPSvC7pec,Gaze,Mitsumeru,Jelly-Bean,15,126000,False,0.408,0.922,7,-6.786,1,0.0465,0.00205,0.126,0.332,0.828,113.86,4,club
+7shfzDJwUBKTuxNTiS85jo,Tullycraft,Every Scene Needs a Center,The Punks Are Writing Love Songs,16,178093,False,0.597,0.935,7,-5.139,1,0.106,0.152,0.0,0.368,0.844,108.194,4,club
+7pQLDFpyHjAJsnloiDAEZS,death's dynamic shroud,Darklife,Neon Memories,40,275979,False,0.608,0.703,4,-7.167,1,0.0312,0.0432,0.0478,0.218,0.271,135.002,4,club
+0l0515yhITEQ0Lwa8Fc5mS,Donbor,Restore,Born Killer,15,197454,False,0.634,0.622,10,-5.228,1,0.0456,0.00628,0.000661,0.0784,0.43,109.96,4,club
+4Vh2XXiHc5bYMtynfKvDf4,Kick Puncher,In Search of Darkness (Original Documentary Soundtrack),Midnight Escape Finale,15,260207,False,0.475,0.566,7,-9.999,1,0.0491,0.00266,0.878,0.355,0.255,155.98,4,club
+29VshuB64KlheFxIBEdwHT,The 6ths;Sarah Cracknel,Hyacinths and Thistles,Kissing Things,15,148613,False,0.799,0.23,0,-13.041,1,0.0447,0.916,0.00538,0.431,0.698,106.853,4,club
+4UTMM08M1KoRFsBQlKnTth,Destryur;Cobra Wipeout,Panic,Narc City,15,188685,False,0.519,0.83,10,-6.355,0,0.0468,5.58e-05,0.642,0.518,0.269,129.814,4,club
+5gpxN0PKFEFbj2k3x3dK6D,Gaze,Shake the Pounce,Detail Queen,15,128399,False,0.515,0.721,0,-7.889,1,0.0297,0.583,0.881,0.0569,0.851,113.176,4,club
+6jNFu6bOsUYFMF3ejC990h,Marina Herlop,Nanook,Heks,14,238624,False,0.361,0.226,1,-12.589,0,0.0351,0.969,0.167,0.0907,0.0765,103.02,3,club
+4RoblsWbf7A2wj2x91N9lb,Fire-Toolz,Eternal Home,Shenpa Indicator Light!!!,15,145403,False,0.357,0.882,0,-7.669,0,0.119,0.00267,0.626,0.239,0.291,114.43,4,club
+5nWK8uFJdq9FPHWuZ4GSj3,Organ Tapes,唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao,earned,16,123314,False,0.422,0.477,6,-15.273,0,0.0318,0.0337,6.34e-05,0.223,0.392,90.511,4,club

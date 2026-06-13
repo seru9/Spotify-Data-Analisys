@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+44AyOl4qVkzS48vBsbNXaC,Elvis Presley,Blue Hawaii,Can't Help Falling in Love,80,182360,False,0.396,0.293,2,-14.062,1,0.0275,0.941,0.000196,0.105,0.343,100.307,3,rockabilly
+2qhASBzpbFhPRtrnZ5lLnz,The Righteous Brothers,Just Once In My Life,Unchained Melody,75,218013,False,0.339,0.208,0,-16.725,1,0.0308,0.396,0.000519,0.18,0.288,98.54,3,rockabilly
+1B5Tp2Ml9nLlmTSJx8xVfI,Elvis Presley,Elvis (Fool),Always On My Mind,73,218440,False,0.358,0.387,7,-14.342,1,0.0324,0.746,0.0121,0.119,0.495,181.183,4,rockabilly
+2QfiRTz5Yc8DdShCxG1tB2,Chuck Berry,Berry Is On Top,Johnny B. Goode,76,161560,False,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,4,rockabilly
+48i055G1OT5KxGGftwFxWy,Roy Orbison,"Oh, Pretty Woman","Oh, Pretty Woman",73,178933,False,0.619,0.603,9,-9.481,1,0.0342,0.712,0.0,0.0721,0.958,127.433,4,rockabilly
+1H5IfYyIIAlgDX8zguUzns,Elvis Presley,From Elvis in Memphis,Suspicious Minds,76,261279,False,0.487,0.382,7,-10.889,1,0.0309,0.0422,4.74e-06,0.411,0.714,116.557,4,rockabilly
+452KBpASS5lZLeJWX9Ixub,Elvis Presley,Platinum - A Life In Music,Jailhouse Rock,72,146933,False,0.623,0.537,10,-10.014,0,0.0726,0.332,1.4e-05,0.0963,0.905,166.885,4,rockabilly
+3KJombE6eRPrdrhNJza7T8,Elvis Presley,Santa Claus Is Coming To Town,Blue Christmas,0,128080,False,0.506,0.475,4,-7.552,1,0.0324,0.83,0.00411,0.124,0.596,94.494,4,rockabilly
+1Gz71YTPdkTuY07nTW03Pz,Chuck Berry,Best Christmas Songs 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+6CGmcIW8lElAxYJb3dETOS,Chuck Berry,Xmas Classics 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1S4rxDloMtAduogKeiJZmR,Chuck Berry,CHRISTMAS TOP HITS 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+5KyvxpYGgAUY55lDfnSROX,Chuck Berry,The Very Best Christmas Songs 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+7pO8TsOPKQCgFVLYkoCiFV,Chuck Berry,Santa Claus Is Coming To Town,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+03MW3H9B2P7tgpvzG3klNI,Chuck Berry,pov: you hear the bells jingle,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+6rLd9ykKL0GubTG8PDFxA6,Chuck Berry,Classic Christmas Music 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1ZCreSfHLOgtmC85t9nNsI,Chuck Berry,12 Days of Christmas 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0GZpxW1UfoInSJug7m34fR,Chuck Berry,Classic Christmas 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0qyMrxLDdU14grB9GWndxa,Chuck Berry,Best Christmas Music 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0A2fX1kBVpevzGnMjx5fnX,Chuck Berry,Christmas Playlist 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+4VP37dqsrYmgYiAF7MO4i1,Chuck Berry,60s Christmas Party,You Never Can Tell - 1964 Single Version,0,163066,False,0.572,0.848,7,-10.054,1,0.125,0.739,4.67e-06,0.245,0.927,157.621,4,rockabilly
+52MCmoSCtPRbVN5Njdo6G5,Chuck Berry,Weihnachten Playlist,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+6qxqttcwmFodaFyhaCvIiT,Chuck Berry,Weihnachtslieder 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+5YtIkHosMnyhM3ZwcAnvtd,Chuck Berry,Best Christmas Playlist Ever 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0FJ5C03igALJMeicHGorCo,Chuck Berry,Christmas Best Hits 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1B7GdW07UqOJzgZDc8T3ec,Chuck Berry,Silent Night,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0HeG8Hl4Upx3zqwK7VNY2l,Chuck Berry,Christmas Songs 2022,Run Rudolph Run,1,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0RphKXkhRYBkPDA0SkG5U7,Chuck Berry,"It's Christmas, Let's Dance",Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+73bhxlCJIK9bwH0miqSxw9,Chuck Berry,On air 70's Hits,Route 66 - Stereo Remix,1,170173,False,0.755,0.642,10,-11.849,1,0.0566,0.564,0.000105,0.0443,0.969,79.768,4,rockabilly
+3RXAcz7Sa6JDZSxcH1EEQ6,Chuck Berry,Best Christmas Songs 2022 | For under the Mistletoe,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1P5YSdlW0yDkMTxiLGDldP,Chuck Berry,Christmas Faves 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+47AOrVM9akhsb59TD6ijjz,Chuck Berry,Christmas Eve At Home,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+02NjAsgrCjbFioTyGI0FeT,Chuck Berry,All I Want For Christmas Is You,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0UfbRLBZi1780FbGc07dg0,Chuck Berry,Home At Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+7m4luTtlene5vS6xUvWxRt,Chuck Berry,Holidays Are Coming,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+3jjT8uAXdwIgXCbRjfnsSE,Chuck Berry,Christmas Dinner 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+2NDDTipKDL1L09WV2GSN52,Chuck Berry,Christmas Classics,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+03Uo2utHEdsOoEKwPs4w0G,Chuck Berry,pov: you are walking in a winter wonderland,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+4DQg4j3oJyFWiPyc9g1fmQ,Chuck Berry,pov: you saw mommy kissing santa claus,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+7c3WYpxhHvUFaYqWioIN7a,Chuck Berry,Rock n Roll Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1GqAFWj0HSbX055zDc94Wj,Chuck Berry,Classic Christmas Greatest Hits,Run Rudolph Run,0,164160,False,0.682,0.776,7,-8.314,0,0.114,0.83,1.1e-05,0.17,0.959,151.799,4,rockabilly
+64tk48BHD71SlomdRag8bm,Chuck Berry,Weihnachtssongs,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+6ceypJqP0dr2LDpeZpSaXR,Chuck Berry,Weihnachten Musik,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+1Jc5rVFIyOy6XO3ATB1Lh9,Chuck Berry,World's Best Christmas Playlist,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+3iyTXUFlm1YrquUUgXlPM1,Chuck Berry,All I want For Christmas Is Music,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+0XgmLT6nDInA6w2yxpVsZh,Chuck Berry,Rockin' Around The Christmas Tree 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+6QxjRIvCx9Xs4XwKBHKTbh,Brenda Lee,Country Christmas Time,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+4vJrtcgQoULwkPyFkXNYCx,Chuck Berry,pov: you bake cookies,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+4KlkkmZpxUkBFnmbAOQ9RQ,Chuck Berry,(60's) Sixties Collected Volume 2,You Never Can Tell - 1986 Stereo Remix,0,165226,False,0.588,0.682,7,-14.75,1,0.161,0.683,2.44e-05,0.274,0.889,157.189,4,rockabilly
+43UwresvfvNPDl8BQruk4L,Chuck Berry,Christmas time but not Christmas songs 2022,You Never Can Tell - 1964 Single Version,0,163066,False,0.572,0.848,7,-10.054,1,0.125,0.739,4.67e-06,0.245,0.927,157.621,4,rockabilly
+3IUpuyEMIgt4GvEZ2TqERF,Chuck Berry,Jingle Bell Rock 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+7zMUCLm1TN9o9JlLISztxO,Elvis Presley,Elvis (Fool),Burning Love,74,170293,False,0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,4,rockabilly
+2TwM6FmWDMSBDdKYOsWKdy,Bobby Day,The Rockin' Adventures of Bobby Day,Rockin' Robin,47,156293,False,0.549,0.686,7,-10.313,1,0.136,0.291,0.0,0.201,0.926,172.601,4,rockabilly
+0BgfLQ1dbGysAmDb4gvNBb,Brenda Lee,Christmas time but not Christmas songs 2022,I'm Sorry,0,161546,False,0.357,0.223,10,-12.362,1,0.0377,0.867,0.000972,0.13,0.314,204.193,3,rockabilly
+6miHkzLx5cKHhxSP3ozWQ6,Brenda Lee,Country Christmas Greatest Hits,Rockin' Around The Christmas Tree,1,124906,False,0.708,0.593,8,-6.167,1,0.046,0.764,0.0,0.484,0.856,140.508,4,rockabilly
+6Y7phwBL69tp128Fpwx2SS,Brenda Lee,Christmas Vibes But Not Christmas Songs,I'm Sorry,0,161546,False,0.357,0.223,10,-12.362,1,0.0377,0.867,0.000972,0.13,0.314,204.193,3,rockabilly
+2Cuqsq8nvm7ZI0Iu2YWZti,Brenda Lee,Best Christmas Songs 2022 | For under the Mistletoe,Rockin' Around The Christmas Tree,1,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7a4DR0TA0QsrSgEhJ4m9rv,Brenda Lee,JULMUSIK,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+28Dx1LdHVYVJuxclLNT9MC,Brenda Lee,Christmas Dinner 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+6gVbCnRpMkTMN8ipFMAzbT,Brenda Lee,Rockin' Around The Christmas Tree 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+2jPtg8iyyLNPWwcRR82TMX,Brenda Lee,Christmas Dinner,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+5HrDA3N0ksfsqXamG0r4nR,Brenda Lee,All I want For Christmas Is Music,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+2urRTL3v5O8BBr8HWSSPos,Brenda Lee,Christmas Playlist 2022,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+5QeRZMksqmcDJu0huc20f3,Brenda Lee,GOD JUL,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+3Yx2eHxE7fh3FWXnTN9xGO,Brenda Lee,A Very 60s Christmas,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7GzSY3LxG4b3EUpzUlPjv2,Brenda Lee,Classic Christmas 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+5qp6vUMJGAzi7D6WjVgVqi,Brenda Lee,CHRISTMAS TOP HITS 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+4RmMvHjKvMckUcopOZWDZN,Brenda Lee,Best Christmas Songs 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7IcRl10zsFcBNG4A0OPIH0,Brenda Lee,12 Days of Christmas 2022,Jingle Bell Rock,0,130199,False,0.688,0.394,5,-9.601,1,0.0386,0.673,0.0,0.175,0.827,122.911,4,rockabilly
+4RUCYBo6q6SvaccxHt2dcp,Brenda Lee,Classic Christmas Greatest Hits,Rockin' Around The Christmas Tree,0,125426,False,0.696,0.494,8,-8.162,1,0.0392,0.69,0.0,0.479,0.903,141.096,4,rockabilly
+1bspDLAXNjbSmqThncJaA3,Brenda Lee,Christmas Country Songs 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+4XLheA5mXKurAA8Vc9Kou8,Brenda Lee,World's Best Christmas Playlist,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+6QUUUfdM8ivwzTgnHTdzCz,Brenda Lee,Classic Christmas Music 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+47Ppm2n6VYSa0e2QnpURQS,Brenda Lee,pov: you saw mommy kissing santa claus,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+4hVYS6OZJgslwnIajJzJqz,Brenda Lee,Christmas Classics,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+2xxbCXaB21Yol8xd08NxZH,Brenda Lee,"It's Christmas, Let's Dance",Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1LRKq70OrRHTCvsbtipH7F,Brenda Lee,pov: you saw mommy kissing santa claus,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+3pyKviQJeRTXQTccuyJVgv,Brenda Lee,pov: you bake cookies,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+0j6FbpWCboFDsKxeWOqhOi,Brenda Lee,Best Christmas Music 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1wNMaLFck9jsXipv8CQG0w,Brenda Lee,All I Want For Christmas Is You,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+2nI2QRUlRCXlpKD2VUNTnK,Brenda Lee,Weihnachtslieder 2022,Jingle Bell Rock,0,130199,False,0.688,0.394,5,-9.601,1,0.0386,0.673,0.0,0.175,0.827,122.911,4,rockabilly
+2OTR1v2uIW7OuGTHiQ9zBV,Brenda Lee,Christmas Best Hits 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+74adYQI0h489FyVSc5EGfi,Brenda Lee,Best Christmas Playlist Ever 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+127PZFbwkTh2DDG3OLETbb,Brenda Lee,pov: you rock around the christmas tree,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+21cgfam4hDWQvBjkubjfOl,Brenda Lee,Weihnachtssongs,Jingle Bell Rock,0,130199,False,0.688,0.394,5,-9.601,1,0.0386,0.673,0.0,0.175,0.827,122.911,4,rockabilly
+4dTm5j41esyHgv2O6SsC3C,Brenda Lee,Merry Christmas,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+7c0YADmyBIFYFRkwR0WWa8,Brenda Lee,Weihnachtspop 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+5v1TJu6PLaBGPQj66NK2Et,Brenda Lee,Perfect Christmas Hits,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+3ESHDbkl1jpdrhrl5EKiEy,Brenda Lee,Home For Christmas 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+3vHNDTSeqchW55ni9apM8H,Brenda Lee,Christmas Only: The Timeless Classic Collection,Rocking Around the Christmas Tree,0,125893,False,0.697,0.558,8,-5.836,1,0.0401,0.787,0.0,0.403,0.894,140.5,4,rockabilly
+3UTLeMspFykyZR4kAjzfRL,Brenda Lee,Home At Christmas,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+49gCOqE9Z1WiViwrbibwHN,Brenda Lee,Happy Country Christmas,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+3VHqrQhOVsSunkkNZUX2EJ,Brenda Lee,Weihnachtssongs,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+1mCIgYhMPorNlMCqr1RNEM,Brenda Lee,pov: you ride on santa's sleigh,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+1kIk2VlX0AC6LQVFIeEqRF,Brenda Lee,Christmas Music - Holiday Hits,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+2ajbBbeVds2WKva78gVUIQ,Brenda Lee,Holly Jolly Christmas,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+2Yrsev5D6RwqvPltgOmUcH,Brenda Lee,pov: you rock around the christmas tree,Blue Christmas,0,164240,False,0.467,0.207,0,-11.064,1,0.0264,0.836,1.05e-06,0.127,0.247,90.02,4,rockabilly
+2FNPWTi38vYjOefCdzesee,Brenda Lee,pov: you rock around the christmas tree,Santa Claus Is Coming To Town,0,133133,False,0.652,0.366,5,-10.582,1,0.0325,0.693,1.85e-06,0.0785,0.621,135.682,4,rockabilly
+2UwgluDIPJP6ICC40XZxbj,Brenda Lee,pov: you rock around the christmas tree,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+53PHACvXLyTm5bYJeEy5eV,Brenda Lee,Christmas Time,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+00yPinAe1rsCCCtI1F43fp,Brenda Lee,Country Holiday,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,8,-8.904,1,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+0D1pEisM3QkiacGXJe5dmd,Elvis Presley,Elvis 30 #1 Hits,(You're The) Devil in Disguise,67,140426,False,0.481,0.733,5,-7.633,1,0.165,0.575,1.18e-05,0.108,0.874,122.909,4,rockabilly
+4gphxUgq0JSFv2BCLhNDiE,Elvis Presley,Elvis' Golden Records,Jailhouse Rock,68,146480,False,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396,4,rockabilly
+2vGfjY0JLLiBiEFq7zgQjB,Buddy Holly;The Crickets,Christmas time but not Christmas songs 2022,Everyday,0,128466,False,0.731,0.255,3,-11.732,1,0.0375,0.485,0.0,0.09,0.564,135.346,4,rockabilly
+2DUxQ0f2AR7QcG7iKOPNGL,Eikichi Yazawa,SUBWAY EXPRESS (50th Anniversary Remastered),チャイナタウン (セルフカバー) - Remastered 2022,43,228320,False,0.69,0.627,1,-10.818,0,0.0313,0.113,0.00033,0.0744,0.855,118.65,4,rockabilly
+4IMY53WTwPCK0RiXcpzAXb,The Platters,Classic Christmas Music 2022,Christmas Time,0,124013,False,0.299,0.377,0,-7.425,1,0.0283,0.859,0.0,0.116,0.378,69.272,4,rockabilly
+5LnKmt8Gc9vrqeFdliF3vM,The Platters,Xmas Classics 2022,Christmas Time,0,124013,False,0.299,0.377,0,-7.425,1,0.0283,0.859,0.0,0.116,0.378,69.272,4,rockabilly
+63Y39bpBmgiKXs4hSJ0dD3,The Platters,A Very 60s Christmas,Blue Christmas,0,115573,False,0.45,0.552,2,-6.9,1,0.0391,0.745,0.0,0.707,0.741,157.24,4,rockabilly
+7g7Zqii3qccY5O8DNL8PFw,The Platters,A Very 60s Christmas,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rockabilly
+3Ma7En4uWNtzGAhXHVfmCY,The Platters,A Very 60s Christmas,"Rudolph, The Red Nosed Reindeer",0,112960,False,0.576,0.682,3,-4.212,1,0.0369,0.726,0.0,0.236,0.919,145.274,4,rockabilly
+4S3Rq07dySyfkce2v2arfp,The Platters,60s Christmas Party,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rockabilly
+62U267s93BGXW3NksPKVs3,The Platters,Christmas Soul Classics,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rockabilly
+0q0blWBIHZZSMgCISWdBYC,The Fastback,Keep on Rockin',Trodde det skulle bli vi,46,189532,False,0.603,0.756,5,-6.467,1,0.105,0.111,0.0,0.383,0.908,139.979,4,rockabilly
+24TRTp7M7B2eYgK9kof5je,The Platters,Christmas Soul Classics,I'll Be Home For Christmas,0,156840,False,0.252,0.32,3,-8.69,1,0.0293,0.797,1.36e-06,0.138,0.23,101.535,3,rockabilly
+7jkfwumh6cQYFsIsqPJ7ps,The Platters,A Very 60s Christmas,Winter Wonderland,0,133133,False,0.648,0.463,3,-7.572,1,0.032,0.806,0.0,0.396,0.744,102.511,4,rockabilly
+5nWRUrB7JpVr9eXrGllpEX,Brenda Lee,World's Best Christmas Playlist,Rockin' Around The Christmas Tree,1,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7l9cCg3EBqVfBikbc21Kb0,The Drifters,Christmas Only: The Timeless Classic Collection,White Christmas,0,158413,False,0.555,0.213,8,-9.262,1,0.0449,0.939,5.33e-05,0.113,0.498,125.126,4,rockabilly
+4iFECwt9g4TzMpX304uqWy,The Drifters,R'n'B Studying,She Never Talked to Me That Way,0,153973,False,0.386,0.384,10,-12.716,1,0.0426,0.679,0.0,0.116,0.791,146.387,4,rockabilly
+40L8OVaEpyF7KTRWTNvJGY,The Platters,Classic Christmas Music 2022,"Rudolph, The Red Nosed Reindeer",0,112960,False,0.576,0.682,3,-4.212,1,0.0369,0.726,0.0,0.236,0.919,145.274,4,rockabilly
+7oq30Ybi655pwJpXvU8LsE,The Platters,Desayuno en calma,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rockabilly
+6JOjnFaRacNaTqvFsA2prT,Brenda Lee,Santa Claus Is Coming To Town,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+6WltSgEAIdgsJUwZOWI80S,Brenda Lee,60s Christmas Party,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+72rfsZ534KtakoeOPZnA9T,Brenda Lee,The Very Best Christmas Songs 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1RNJP2UR28cOToXUnWB8N9,The Platters,Xmas Classics 2022,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rockabilly
+4d3ORkKEIDZF9MOV2erLAq,The Platters,Classic Christmas 2022,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rockabilly
+1ort5ZSs5dxZR9Q7NJNIKA,Brenda Lee,pov: you are walking in a winter wonderland,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+24zpYUiIHsOg5gjLHKFNEw,Brenda Lee,World's Best Christmas Playlist,Blue Christmas,0,164240,False,0.467,0.207,0,-11.064,1,0.0264,0.836,1.05e-06,0.127,0.247,90.02,4,rockabilly
+0urAdcTNGNqUwFsiIEMA9C,Brenda Lee,Weihnachten Playlist,Blue Christmas,0,164240,False,0.467,0.207,0,-11.064,1,0.0264,0.836,1.05e-06,0.127,0.247,90.02,4,rockabilly
+2iqSNpmrIYXjgxSxjAYWM2,Brenda Lee,pov: you hear the bells jingle,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1UsAO8Vl1UgWuRMcNDvffu,Brenda Lee,Silent Night,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1Tq4dufJO0EwRQUQrIkgu5,Brenda Lee,Weihnachten Musik,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+2OEmtRXH5FL5foKlwoIZYU,The Drifters,Christmas Time,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+5jRqLID0I6gWwnunOBcRY7,Brenda Lee,Weihnachten Playlist,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+264ZS67Jh0vG6VG46JB7A3,Brenda Lee,Weihnachtssongs,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+1OPoUUFSLgXXsFcjP1SRIS,The Drifters,Perfect Christmas Hits,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+5SQIEHNedYoJqOAB9x2DDF,The Drifters,Merry Christmas,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+31pvUJ3ebISKLUwykwvAl6,Brenda Lee,World's Best Christmas Playlist,Santa Claus Is Coming To Town,0,133133,False,0.652,0.366,5,-10.582,1,0.0325,0.693,1.85e-06,0.0785,0.621,135.682,4,rockabilly
+5gAuZSGGbtk1SNoJGFhRLK,Brenda Lee,Weihnachtslieder 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+0t5sWeoRaFXUxu4xTtoTLd,Brenda Lee,Christmas Eve At Home,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+6a1nDjFiNCG3ieP7619RxN,Brenda Lee,Christmas Faves 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7sfFSW5Z9GPrjibl4bCfVd,Brenda Lee,Beste Weihnachtslieder,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+3LJF72vPczYb04NczDfAYH,Brenda Lee,Holidays Are Coming,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+4DAjen92eztOlTKQbNE3PO,Brenda Lee,Weihnachten Musik,Jingle Bell Rock,0,130199,False,0.688,0.394,5,-9.601,1,0.0386,0.673,0.0,0.175,0.827,122.911,4,rockabilly
+2oxwGK9FIstfI2oVr3TlyZ,Brenda Lee,pov: you have a holly jolly christmas,Santa Claus Is Coming To Town,0,133133,False,0.652,0.366,5,-10.582,1,0.0325,0.693,1.85e-06,0.0785,0.621,135.682,4,rockabilly
+5p9IGH0xpbhJI9d8YWJe47,The Drifters,Thanksgiving Party,Sweets for My Sweet,0,147146,False,0.772,0.81,0,-7.602,1,0.0322,0.687,2.42e-06,0.097,0.971,119.883,4,rockabilly
+4smNdPucOx7h9ITj5VJCnx,Brenda Lee,Jingle Bell Rock 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+3SqWXTR40ETna3e4EHYTHq,The Drifters,Christmas Music - Holiday Hits,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+1qtOncyVGwrltAsTWFuW6m,The Drifters,Holly Jolly Christmas,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+4pBNh5tkGXCNDcQxjXloM9,Brenda Lee,pov: you have a holly jolly christmas,A Marshmallow World,0,152160,False,0.73,0.406,7,-10.209,1,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+1LNoZkLH5celMJhViMnRYM,Brenda Lee,pov: you have a holly jolly christmas,Blue Christmas,0,164240,False,0.467,0.207,0,-11.064,1,0.0264,0.836,1.05e-06,0.127,0.247,90.02,4,rockabilly
+1XhMDkExXkwO1C3oJtcEwB,Brenda Lee,pov: you have a holly jolly christmas,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,5,-5.956,0,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+7caj6X6NMX3tlhWnu1du6V,Ritchie Valens,Ritchie Valens,We Belong Together,69,116626,False,0.684,0.247,5,-13.71,1,0.0281,0.872,0.000166,0.113,0.768,106.522,3,rockabilly
+4hAUynwghvrqDXs1ejKNEq,Elvis Presley,Elvis 30 #1 Hits,Can't Help Falling In Love,65,177840,False,0.438,0.325,2,-11.066,1,0.0268,0.893,5e-06,0.107,0.362,101.577,3,rockabilly
+0QGwOFQChzflLAmPq5NwKo,Dion & The Belmonts,Presenting Dion And The Belmonts,A Teenager In Love,61,158253,False,0.555,0.377,1,-9.123,1,0.0295,0.671,0.0,0.128,0.619,78.986,4,rockabilly
+3C6pSIVeBKIbSpCFtaw1r8,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),If I Can Dream,71,191840,False,0.325,0.715,7,-7.744,1,0.0368,0.00708,2.79e-05,0.0987,0.282,93.914,3,rockabilly
+1yWxDvpM1zZoT355bEjU8G,Neil Sedaka,All Time Greatest Hits,Oh! Carol,45,136200,False,0.58,0.622,11,-13.001,1,0.04,0.761,1.09e-05,0.362,0.825,132.685,4,rockabilly
+4Y6pdMS2PwGshq1MYcJ9fC,Ricky Nelson,For Your Sweet Love,I Will Follow You,58,146133,False,0.671,0.442,0,-11.595,1,0.0332,0.758,1.63e-05,0.108,0.749,120.774,4,rockabilly
+7xe3EQCvXnx6Q0zs41Y65n,Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],Great Balls of Fire,57,111240,False,0.592,0.627,10,-10.14,1,0.0662,0.55,0.0,0.43,0.909,79.567,4,rockabilly
+5gJKsGij5oGt5H5RSFYXPa,The Champs,Greatest Hits / Tequila,Tequila,60,135240,False,0.671,0.742,5,-9.912,1,0.0441,0.121,0.679,0.0601,0.897,89.748,4,rockabilly
+1INWPr855fwWdAOeecbu0W,Chubby Checker,It's Pony Time/Let's Twist Again,Let's Twist Again,68,137360,False,0.604,0.709,8,-6.377,1,0.158,0.0987,0.0,0.0551,0.907,167.832,4,rockabilly
+0LfJkvPNCNEMLpZJgDQiV1,Elvis Presley,The Essential Elvis Presley,The Wonder of You,64,153200,False,0.448,0.691,7,-6.957,1,0.0286,0.286,0.00111,0.945,0.633,88.836,4,rockabilly
+52HAHV1j93s5B8GoTNI7DJ,Roy Orbison,The Essential Roy Orbison,"Oh, Pretty Woman",63,176933,False,0.609,0.584,9,-9.734,1,0.0353,0.725,0.0,0.0854,0.954,127.306,4,rockabilly
+64Ny7djQ6rNJspquof2KoX,Elvis Presley,Elvis' Golden Records,Hound Dog,66,136026,False,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895,4,rockabilly
+2Q0vnDYHgq4M9Ax3pahjPz,Shakin' Stevens,Let's Boogie,Because I Love You,50,197826,False,0.577,0.49,11,-7.262,1,0.0248,0.328,5.99e-05,0.14,0.422,102.048,4,rockabilly
+5zvOXJrzzUlvXwyuwZ0toZ,Neil Sedaka,Rock with Sedaka (Expanded Edition),Oh! Carol,59,135466,False,0.728,0.734,11,-3.234,1,0.0318,0.63,3.56e-05,0.137,0.965,135.078,4,rockabilly
+47gmoUrZV3w20JAnQOZMcO,Elvis Presley,Elvis Presley,Blue Suede Shoes,66,119200,False,0.557,0.66,2,-7.706,1,0.056,0.654,1.66e-06,0.138,0.962,95.252,4,rockabilly
+7iBBcw61QVJxI3NDzlpX2E,Elvis Presley,Elvis 30 #1 Hits,Love Me Tender,59,162066,False,0.439,0.0529,9,-16.253,1,0.039,0.881,0.0,0.106,0.314,109.382,3,rockabilly
+1U9n0AGpu9X69SeaMJfs8R,Brenda Lee,Emotions,If You Love Me (Really Love Me),54,160066,False,0.417,0.377,3,-8.726,1,0.0281,0.63,0.000202,0.108,0.383,97.854,3,rockabilly
+0SsYlkXxZ5vkWOTsKxMfMz,Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Lonesome Town,63,134040,False,0.404,0.193,11,-12.501,1,0.0305,0.794,0.000296,0.103,0.273,77.026,4,rockabilly
+6FT83pFXKhDlXDsNJFAHWz,Chuck Berry,St. Louis To Liverpool,You Never Can Tell,70,161906,False,0.525,0.852,7,-9.519,1,0.222,0.731,5.11e-05,0.218,0.884,157.404,4,rockabilly
+0S5cs4lAkx99tGjoWS4Jtk,The Platters,The Magic Touch: An Anthology,Only You (And You Alone),56,156666,False,0.486,0.231,3,-12.06,1,0.0354,0.936,0.0,0.125,0.303,80.049,4,rockabilly
+1sM0yZDxUhPQhkDh2CLd6l,Ricky Nelson,Rick Is 21,Travelin' Man - Remastered,61,143200,False,0.723,0.44,2,-10.536,1,0.0319,0.667,0.0,0.128,0.843,123.217,4,rockabilly
+2EjXfH91m7f8HiJN1yQg97,Brenda Lee,Merry Christmas From Brenda Lee,Rockin' Around The Christmas Tree,71,126266,False,0.589,0.472,8,-8.749,1,0.0502,0.614,0.0,0.505,0.898,67.196,4,rockabilly
+2j8bXaOBeEeyoY4ZpCcFIW,Shakin' Stevens,Shaky,You Drive Me Crazy,58,171720,False,0.754,0.927,5,-2.597,1,0.0313,0.173,3.22e-06,0.307,0.975,119.494,4,rockabilly
+64VP3skE86iTvdOlbzuIcO,Jerry Lee Lewis,Jerry Lee's Greatest,Great Balls Of Fire,68,111535,False,0.533,0.729,7,-7.227,0,0.0714,0.563,0.0,0.159,0.884,78.67,4,rockabilly
+2zskzzvImqBBqWmPcIUeNa,Los Vaguens,Bestiario de Santa Lucia,Labios Carmin,38,209536,False,0.513,0.679,11,-6.277,0,0.0298,0.242,0.000197,0.351,0.843,154.918,4,rockabilly
+0iujTWTgmqgrc6bXxVu9aC,BOØWY,BOφWY,BAD FEELING,41,268933,False,0.606,0.966,2,-7.638,1,0.0617,0.000226,0.0529,0.0819,0.571,132.899,4,rockabilly
+2LBuXj5GUClLgOX7f86IMK,Eikichi Yazawa,the Name Is… (50th Anniversary Remastered),いつの日か - Remastered 2022,37,330626,False,0.443,0.403,9,-10.472,1,0.0296,0.472,5.27e-06,0.0924,0.176,150.651,4,rockabilly
+7KWoeBqSdZHEloYKVxssfG,Elvis Presley,From Elvis in Memphis,In the Ghetto,69,167413,False,0.404,0.266,10,-16.688,1,0.0334,0.716,0.133,0.107,0.491,88.916,4,rockabilly
+0dfxkucAK6HIqSbLhyyJvr,Eikichi Yazawa,P.M.9 (50th Anniversary Remastered),LAHAINA - Remastered 2022,36,220413,False,0.706,0.456,0,-12.169,0,0.0284,0.171,0.00289,0.164,0.678,114.725,4,rockabilly
+0KM3fzzUBVW0vW7RmFh28v,Connie Francis,The Collection,Stupid Cupid,57,134560,False,0.606,0.725,3,-7.019,1,0.0352,0.831,1.07e-05,0.0407,0.963,136.815,4,rockabilly
+0OavtQSojULqejmC4Qbstr,Elvis Presley,Moody Blue,"Unchained Melody - Live at Ann Arbor, MI",68,151906,False,0.271,0.266,0,-13.703,1,0.0348,0.845,0.00174,0.795,0.163,79.079,3,rockabilly
+7dblNGnRXEBrVJunazs2U5,The Everly Brothers,The Very Best of The Everly Brothers,All I Have to Do Is Dream,67,143333,False,0.534,0.462,4,-8.172,1,0.0266,0.839,0.0,0.129,0.534,96.195,4,rockabilly
+29A4wZq3zu5SiliT3BbwIR,BOØWY,JUST A HERO,BLUE VACATION,38,216213,False,0.591,0.959,6,-6.325,0,0.0503,0.183,0.00511,0.399,0.896,170.196,4,rockabilly
+18rI489dTiiDiBSWMW0TSu,Eikichi Yazawa,永吉 (50th Anniversary Remastered),PURE GOLD - Remastered 2022,37,239960,False,0.677,0.717,7,-8.342,1,0.0633,0.188,0.000585,0.0935,0.6,122.938,4,rockabilly
+00uTtxaqbG0jPPjPCZx37Q,Eikichi Yazawa,共犯者 (50th Anniversary Remastered),共犯者 - Remastered 2022,40,267520,False,0.675,0.856,11,-9.795,0,0.0483,0.127,0.0,0.054,0.686,110.108,4,rockabilly
+0qjhMbCmCSZC2f4qohgcxa,Eikichi Yazawa,the Name Is… (50th Anniversary Remastered),アリよさらば - Remastered 2022,38,255893,False,0.682,0.828,11,-8.009,0,0.0571,0.241,0.0,0.286,0.886,120.323,4,rockabilly
+2vSxjnyrWrtxyfzO47EX6q,The Platters,Remember When?,Smoke Gets In Your Eyes,65,160933,False,0.203,0.295,3,-11.155,1,0.0323,0.92,2.05e-06,0.173,0.285,171.222,3,rockabilly
+2rZ113Rwo5iwIA2orRpDKI,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),ファンキー・モンキー・ベイビー - Live at 横浜スタジアム'95 - Remastered 2022,40,144080,False,0.573,0.961,4,-5.012,1,0.0639,0.0175,4.17e-05,0.945,0.773,136.193,4,rockabilly
+6UzTyhhqRDeuyfinRdBgFD,BOØWY,LAST GIGS COMPLETE,"LONGER THAN FOREVER - FROM ""LAST GIGS""",38,244053,False,0.249,0.945,7,-3.041,1,0.0411,1.19e-05,0.0958,0.858,0.479,164.109,4,rockabilly
+7CjXQ1FJXnvQcGXGgnjTpL,Tupelo Highshots,Lonesome Drifter,Lonesome Drifter,36,226375,False,0.514,0.889,2,-3.678,1,0.0388,0.391,0.00111,0.41,0.648,101.025,4,rockabilly
+2DooBdT3SX7YLLgBP8BHni,Los Teen Tops,La Plaga,Pensaba En Ti,39,211905,False,0.422,0.295,9,-11.157,1,0.0972,0.788,0.0,0.163,0.467,207.098,3,rockabilly
+34tJeSFXLDRwdtBSPW9nFl,Los Benders,"Llegaron Los Benders Ol' school Rock n' roll Hecho En Mexico, Vol. 1",Oye Gato,36,342986,False,0.537,0.71,11,-6.308,0,0.0343,0.0275,0.000592,0.234,0.694,119.281,4,rockabilly
+5S0yacsFpFnsZH2Kh4r4Zu,Dion,Fiesta temática 60s,Somebody Nobody Wants,0,158586,False,0.514,0.495,11,-6.806,0,0.0333,0.724,0.0,0.227,0.756,110.839,3,rockabilly
+7nvMpVadr2vaZESadQRjCl,The Champs,Wiggle Wobble (50's & 60's Collection of Music),Tequila,0,134533,False,0.699,0.861,10,-9.368,1,0.046,0.0591,0.408,0.0967,0.945,90.291,4,rockabilly
+6Qtsg8iui24fPWGQslfjZ0,The Ventures,Happy Haunted Halloween Tunes,The Twilight Zone,1,155933,False,0.563,0.719,6,-11.323,0,0.0276,0.242,0.146,0.288,0.488,113.657,4,rockabilly
+6IWgHV06sU7ZfLAqB7GOtX,Connie Francis,Christmas Only: The Timeless Classic Collection,The Bells of St. Mary's,0,153066,False,0.284,0.156,11,-9.556,1,0.0334,0.896,0.0,0.156,0.146,60.645,4,rockabilly
+5Db8xWFjgozOIfpR043Ukn,Connie Francis,Christmas time but not Christmas songs 2022,Stupid Cupid,0,133613,False,0.609,0.756,3,-5.747,1,0.0375,0.762,5.11e-05,0.0521,0.968,136.045,4,rockabilly
+0hRphF5bOnJkQzKSKuJbmc,Rebel Cats;Daniel Gutierrez,Rebel Cats Y Sus Amigos,Shooby Doo Wop,37,148360,False,0.509,0.964,9,-4.558,1,0.118,0.000803,0.0,0.149,0.538,118.963,4,rockabilly
+1GcnF0cnsvfBHwA7Sfyckl,Connie Francis,The Greatest Jazz Mix,Don't Break The Heart That Loves You,0,182133,False,0.366,0.413,8,-6.496,1,0.0303,0.818,0.0,0.2,0.193,73.4,4,rockabilly
+0VYMOnSfURf4sr2AxBgZ0D,John Lindberg Trio,Brand New Philosophy,Drunksters,38,179373,False,0.691,0.869,2,-7.51,1,0.12,0.283,0.000423,0.103,0.708,119.861,4,rockabilly
+1Qn5jElT7XqjvVeJ8pYM2w,Ricky Nelson,Legacy,A Teenager's Romance,54,140773,False,0.51,0.484,10,-6.942,1,0.038,0.784,0.0,0.306,0.683,103.356,3,rockabilly
+3KzgdYUlqV6TOG7JCmx2Wg,Bobby Darin,That's All,Beyond the Sea,68,172480,False,0.521,0.516,2,-7.456,0,0.0369,0.723,0.0,0.257,0.569,136.483,4,rockabilly
+7JO9xpBP2uwgMMINJkc43y,Elvis Presley,King Creole,Trouble,62,136546,False,0.42,0.371,0,-10.952,1,0.315,0.873,0.0,0.294,0.882,85.539,4,rockabilly
+7jeOETwLUP84mPQzxlD5nh,The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,Then He Kissed Me,59,158853,False,0.431,0.678,4,-7.945,1,0.0365,0.7,6.37e-06,0.199,0.633,135.919,4,rockabilly
+2aEeghgUcnu75tzcolFMfs,Ritchie Valens,Ritchie Valens,La Bamba - Single Version,66,126960,False,0.516,0.809,0,-6.419,1,0.0545,0.787,0.000331,0.303,0.939,75.099,4,rockabilly
+6TXnGAr6DLVYshIrMeP0lZ,Chuck Berry,New Juke Box Hits,Route 66,60,171413,False,0.686,0.692,10,-9.793,1,0.0419,0.902,0.000474,0.104,0.962,79.071,4,rockabilly
+4aTCNddtjztjuK2EOgz7ZZ,Brian Hyland,The Bashful Blond,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,54,143733,False,0.814,0.427,2,-11.543,1,0.0918,0.558,0.0,0.0248,0.964,123.109,4,rockabilly
+2IBMvJqiBJBcbEddTlZZxI,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),バラードよ永遠に - Remastered 2022,34,243102,False,0.665,0.558,6,-9.161,1,0.0311,0.27,0.000181,0.127,0.827,129.063,3,rockabilly
+4l9rJRwlaMnPYD5DJtIIFo,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Hound Dog,63,133293,False,0.343,0.884,5,-4.123,0,0.128,0.623,0.000623,0.497,0.94,177.751,4,rockabilly
+0Juciz8gOjrO89qw5KwQV5,Bobby Darin,Hello Dolly To Goodbye Charlie,Call Me Irresponsible,59,124560,False,0.607,0.347,7,-12.241,1,0.0369,0.695,0.0,0.121,0.644,125.485,4,rockabilly
+6Q2pkSKuM08SDOuAS5amQD,The Platters,The Magic Touch: An Anthology,The Great Pretender,48,159066,False,0.652,0.303,7,-8.573,1,0.0297,0.851,0.0,0.324,0.706,114.665,3,rockabilly
+1iUgrte2PxLxQ6Te95RnAV,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Heartbreak Hotel,63,127960,False,0.695,0.295,9,-8.672,1,0.0609,0.843,1.58e-06,0.0856,0.732,93.574,4,rockabilly
+7x2rua8HcHsaJV5ib1BQbu,Eikichi Yazawa,YOKOHAMA二十才(ハタチ)まえ [50th Anniversary Remastered],あ・い・つ - Remastered 2022,33,258773,False,0.323,0.441,0,-9.504,1,0.03,0.508,4.52e-05,0.081,0.525,180.169,3,rockabilly
+7pQCFdcOmQMuI4SX1LrspN,Eikichi Yazawa,永吉 (50th Anniversary Remastered),DIAMOND MOON - Remastered 2022,35,266346,False,0.673,0.599,5,-8.299,1,0.0316,0.67,1.29e-05,0.166,0.417,113.752,3,rockabilly
+6fSNK6QlZskYmKTvJnNH5P,Gerry & The Pacemakers,The Very Best Of Gerry & Pacemakers,You'll Never Walk Alone,58,159546,False,0.474,0.365,0,-5.446,1,0.0306,0.251,2.02e-06,0.186,0.219,113.207,3,rockabilly
+0b6YJvYoOLT6aXWru8ckDX,Eikichi Yazawa,MARIA (50th Anniversary Remastered),MARIA - Remastered 2022,35,206706,False,0.65,0.645,6,-8.278,1,0.0298,0.125,0.0,0.217,0.527,103.696,4,rockabilly
+0j5u1HPcFQxKDJQ89zwOFn,Elvis Presley,I Got Lucky,I Got Lucky,57,115720,False,0.731,0.386,0,-12.331,1,0.0444,0.838,0.0,0.195,0.962,92.867,4,rockabilly
+5ueyLj6e6oVaTY0KQ6yLaA,Elvis Presley,Elvis' Golden Records,All Shook Up,62,117080,False,0.624,0.468,10,-12.162,1,0.132,0.881,6.35e-06,0.144,0.952,74.139,4,rockabilly
+0Tjdbd83LEAWrA0atsXMDJ,The Everly Brothers,Best Of The Everly Brothers - Rare Solo Classics,Let It Be Me,58,146733,False,0.471,0.19,7,-16.046,1,0.028,0.77,0.00385,0.129,0.305,72.764,4,rockabilly
+3ZbWEeC7kBVrGBSMV1p5Xr,Eikichi Yazawa,RISING SUN (50th Anniversary Remastered),YOU - Remastered 2022,35,200053,False,0.602,0.59,0,-10.671,1,0.0596,0.027,2.69e-05,0.195,0.418,143.643,4,rockabilly
+1aesK4KrWp8IF3jtRdA3WJ,Eikichi Yazawa,YAZAWA (50th Anniversary Remastered),LOVE THAT WAS LOST - Remastered 2022,34,225826,False,0.741,0.519,0,-11.103,1,0.0259,0.215,0.00205,0.319,0.899,107.882,4,rockabilly
+5dg4ZDlBtLr3b91LS0ynip,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),"アイ・ラヴ・ユー,OK - Live at 日本武道館'95 - Remastered 2022",36,284120,False,0.649,0.741,9,-8.161,1,0.0397,0.0263,0.000146,0.941,0.5,113.946,3,rockabilly
+7lekmoc4i0EunGhvfqYzPl,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),あの日のように - Remastered 2022,34,289692,False,0.454,0.573,7,-9.0,1,0.0304,0.201,0.000207,0.0734,0.539,206.101,4,rockabilly
+4wQA4Fcc09gK11bzdkDSpE,Eikichi Yazawa,情事 (50th Anniversary Remastered),FLESH AND BLOOD - Remastered 2022,33,238186,False,0.642,0.907,9,-7.525,0,0.0511,0.549,0.0,0.0681,0.673,123.14,4,rockabilly
+2iXcvnD3d1gfLBum0cE5Eg,Little Richard,Here's Little Richard (Deluxe Edition),Tutti Frutti,65,144226,False,0.555,0.658,5,-3.866,1,0.0541,0.793,0.0,0.118,0.937,184.835,4,rockabilly
+6U5CcGwPuRfhUKY2cV9YhP,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),SOMEBODY'S NIGHT - Live at 日本武道館'96 - Remastered 2022,34,253466,False,0.399,0.908,4,-7.294,0,0.121,0.014,6.22e-06,0.436,0.363,121.959,4,rockabilly
+5UvE5QlINnvEc7aFO14DVL,Jerry Lee Lewis,The Golden Rock Hits Of Jerry Lee Lewis,Great Balls Of Fire - 1964 Version,58,109706,False,0.4,0.818,0,-11.238,1,0.08,0.458,3.25e-06,0.132,0.936,166.287,4,rockabilly
+4v3qiVO0JzRL8wKx6XpGZ6,Eikichi Yazawa,"YOU, TOO COOL (50th Anniversary Remastered)",背中ごしのI LOVE YOU - Remastered 2022,35,278413,False,0.766,0.715,9,-7.336,1,0.0283,0.0121,1.57e-05,0.0808,0.638,109.015,4,rockabilly
+1AapIlVhixpMUU8aDHDXPa,BOØWY,JUST A HERO,WELCOME TO THE TWILIGHT,36,360626,False,0.639,0.784,2,-6.524,1,0.0284,0.0151,0.352,0.198,0.694,120.161,4,rockabilly
+0MuNLdcYFEx8NC7ormxtYX,BOØWY,SINGLES,“16”,35,236146,False,0.555,0.935,4,-5.294,1,0.112,0.0114,0.00176,0.214,0.376,99.475,4,rockabilly
+6YxZq8buq24e0nLJVnj5al,Eikichi Yazawa,共犯者 (50th Anniversary Remastered),ニューグランドホテル - Remastered 2022,36,258040,False,0.597,0.752,7,-8.472,0,0.0352,0.174,0.000175,0.386,0.814,115.126,4,rockabilly
+5RBkxxZAYHU7R9GuzEZk1g,BOØWY,PSYCHOPATH,ANGEL PASSED CHILDREN,36,142000,False,0.529,0.85,7,-4.658,1,0.0426,0.0116,0.0,0.681,0.965,199.824,4,rockabilly
+6oM4ryXpuZmbFfBv2sEe7v,Brian Hyland,Chronology,Sealed With A Kiss,57,162160,False,0.449,0.362,5,-10.38,0,0.0279,0.743,0.0,0.132,0.6,90.822,4,rockabilly
+2ozTcQyZQmm9tSmc4VZfwU,Neil Sedaka,The Definitive Collection,Laughter In The Rain,67,170066,False,0.495,0.613,5,-9.463,1,0.0239,0.348,0.0058,0.0406,0.924,100.535,4,rockabilly
+5qyq1H5OPMlfuvZQ1wQNo7,Jackie Wilson,Higher And Higher,(Your Love Keeps Lifting Me) Higher & Higher,72,179120,False,0.634,0.677,2,-7.19,1,0.0448,0.318,0.0,0.0902,0.939,95.792,4,rockabilly
+6r20M5DWYdIoCDmDViBxuz,Roy Orbison,Mystery Girl,You Got It,69,210266,False,0.649,0.618,9,-10.728,1,0.0265,0.596,1.46e-06,0.192,0.667,114.688,4,rockabilly
+3QhLwMZzScNE9NjB9R3qC7,Gene Vincent & His Blue Caps,Dance To The Bop,Crazy Legs,34,130440,False,0.468,0.622,2,-10.179,1,0.0382,0.516,0.0,0.318,0.776,169.614,4,rockabilly
+6VR67hW1E1qUevxEAhBm9f,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","FUNNY BOY - FROM ""GIGS"" CASE OF BOOWY",35,256213,False,0.233,0.962,9,-2.955,0,0.0825,0.00852,0.000232,0.507,0.405,162.823,4,rockabilly
+39lnzOIUCSNaQmgBHoz7rt,Buddy Holly;The Crickets,Buddy Holly,Everyday,65,129120,False,0.747,0.219,3,-12.562,1,0.0371,0.584,2.57e-05,0.107,0.498,135.562,4,rockabilly
+391TUcoPonqYykPkSZ5Z9U,The Drifters,Save the Last Dance for Me,Save the Last Dance for Me,63,154960,False,0.54,0.53,4,-10.583,1,0.0361,0.614,0.0,0.198,0.896,143.453,4,rockabilly
+6WIZ0DpCblLlMXQDvqCEUU,Eva Eastwood & The Major Keys,En NY Stil I Stan,Allting Om Kjell,33,173613,False,0.625,0.778,5,-4.335,1,0.0364,0.601,0.0,0.405,0.944,154.823,4,rockabilly
+6a2wEyecNdSGVVdUcYUZ86,Hillbilly Rawhide,F.N.M.,O Enxofre e a Cachaça,36,230160,False,0.644,0.841,4,-11.087,0,0.0374,0.407,0.0421,0.0661,0.713,146.037,4,rockabilly
+70dBmROatI6VWV7HoWayte,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Popotitos (Bonie Moroni),36,171733,False,0.533,0.624,4,-10.47,1,0.0297,0.71,2.96e-06,0.146,0.888,140.626,4,rockabilly
+2z2a6v6pqtB3rI2oKbNWkD,Los Teen Tops,Los Teen Tops De Su Epoca De Oro,Anoche No Dormí,36,143053,False,0.531,0.405,7,-11.003,1,0.0294,0.353,0.0,0.349,0.431,106.35,3,rockabilly
+1pWnxqaHgd6Ql3zhcVATWd,The Coasters,R'n'B Studying,Shoppin' for Clothes,0,178880,False,0.613,0.229,7,-14.887,0,0.353,0.683,0.0,0.197,0.578,85.854,4,rockabilly
+6AgREmqB7Nd8wPk4hpuQfX,The Boo Devils,The Noble Art of Rock n' Roll,All the Pretty Things,35,210986,False,0.459,0.916,5,-5.373,0,0.0455,0.186,0.00681,0.134,0.825,165.068,4,rockabilly
+62FqttV28C4sWWTB3VwCOJ,John Lindberg Trio,Brand New Philosophy,I'm on Fire,34,166160,False,0.579,0.899,4,-6.507,1,0.0634,0.439,0.00111,0.148,0.531,167.761,4,rockabilly
+6573np2fgNlf5hatUZTRUr,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,El Rock de la Cárcel - Jailhouse Rock,37,132426,False,0.442,0.776,9,-6.727,0,0.0381,0.412,0.0,0.0323,0.925,95.587,4,rockabilly
+5uVUmnrajAJCvsTDDwaufP,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Buen Rock Esta Noche - Good Rockin' Tonight,38,136400,False,0.418,0.857,9,-7.343,1,0.0648,0.187,0.0,0.359,0.925,95.043,4,rockabilly
+1eso5zqeGc9fI06Ti5afWj,John Lindberg Trio,Made For Rock N Roll,Don’t Fade Away,34,221680,False,0.571,0.932,5,-6.424,1,0.0391,0.0276,0.0084,0.344,0.807,107.62,4,rockabilly
+2IfE8FhnPPEBSS4rL1qhBb,Elvis Presley,Elvis 30 #1 Hits,Heartbreak Hotel,56,127960,False,0.694,0.295,9,-8.672,1,0.0611,0.843,1.42e-06,0.0856,0.729,93.577,4,rockabilly
+1GEGKdhnYoQYZ2cvbo5XPM,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),(You're The) Devil in Disguise,60,140426,False,0.481,0.733,5,-7.633,1,0.165,0.573,1.17e-05,0.108,0.874,122.903,4,rockabilly
+1YPxUP9zcrvDQpX3ZCjKan,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Love Me Tender,56,162066,False,0.454,0.0529,9,-16.253,1,0.039,0.879,0.0,0.106,0.315,112.101,3,rockabilly
+4xUqqie4bBKufHtlMuZS3k,Elvis Presley,Platinum - A Life In Music,Are You Lonesome Tonight?,56,186666,False,0.433,0.0748,0,-19.351,1,0.049,0.92,0.00104,0.105,0.193,73.093,3,rockabilly
+0TOnotspiMwE2Uc2CM1RJD,Eikichi Yazawa,LIVE HISTORY 2000~2015 (50th Anniversary Remastered),サブウェイ特急 - Live at 日本武道館'04 - Remastered 2022,32,236786,False,0.482,0.916,0,-7.512,0,0.0551,0.00131,0.0101,0.428,0.517,142.014,4,rockabilly
+4dZIosXCsTzpIXs6tX85Ld,Shakin' Stevens,Give Me Your Heart Tonight,Give Me Your Heart Tonight,50,184640,False,0.66,0.705,7,-4.225,1,0.0269,0.276,4.23e-05,0.077,0.817,128.33,4,rockabilly
+3BrthwY8fzvCmX7VesDzOH,Eikichi Yazawa,LIVE HISTORY 2000~2015 (50th Anniversary Remastered),苦い雨 - Live at 日本武道館'14 - Remastered 2022,33,234986,False,0.555,0.875,11,-7.028,0,0.0499,0.00113,0.00255,0.977,0.303,126.139,4,rockabilly
+1eSmUVZcTsTLGoi3iGWiMt,Eikichi Yazawa,この夜のどこかで (50th Anniversary Remastered),青空 - Remastered 2022,32,208613,False,0.65,0.818,4,-7.549,1,0.0315,0.255,6.86e-06,0.323,0.897,116.585,4,rockabilly
+542C7PqR1oEfl63hlhQO4V,Charlie Rich,Behind Closed Doors,The Most Beautiful Girl,60,161906,False,0.576,0.318,7,-14.366,1,0.0286,0.661,7.47e-06,0.167,0.41,103.493,4,rockabilly
+7ELG6GDOcEn1ely06rzRN7,BOØWY,BOφWY,唇にジェラシー,35,258680,False,0.701,0.883,9,-6.847,1,0.0417,0.00483,0.00299,0.0355,0.798,142.198,4,rockabilly
+6AeyHqzNHJthYJbn0tvJ4b,The Righteous Brothers,You've Lost That Lovin' Feelin',You've Lost That Lovin' Feelin' - Single Version,63,226453,False,0.369,0.305,1,-14.303,1,0.0267,0.522,0.0,0.0579,0.376,94.791,4,rockabilly
+019kQw9gcLJONeYgEtlf9t,Eikichi Yazawa,Don't Wanna Stop (50th Anniversary Remastered),夢の彼方 - Remastered 2022,33,234186,False,0.45,0.74,4,-8.273,1,0.0873,0.0331,0.000247,0.0999,0.387,177.602,4,rockabilly
+7Fs8f5A5gAv7owU5DwsboG,Eikichi Yazawa,LOTTA GOOD TIME (50th Anniversary Remastered),風の中のおまえ - Remastered 2022,32,232280,False,0.546,0.755,7,-7.638,1,0.0338,0.00444,4.8e-06,0.0964,0.724,153.02,4,rockabilly
+507IFqPuG8mBQoKebfGG9t,Little Richard,Here's Little Richard (Deluxe Edition),Long Tall Sally (The Thing),64,127426,False,0.474,0.608,5,-5.139,1,0.0825,0.755,0.0,0.0928,0.888,184.694,4,rockabilly
+3rWYwCirbUO0X3EkKEbGUD,Eikichi Yazawa,HEART (50th Anniversary Remastered),この海に - Remastered 2022,32,234786,False,0.728,0.625,4,-9.571,1,0.0294,0.0865,0.0108,0.068,0.568,112.305,4,rockabilly
+6SYPEs6RfcvpjuBYfJPaNy,BOØWY,PSYCHOPATH,GIGOLO & GIGOLET,34,143533,False,0.632,0.886,7,-4.286,1,0.0322,0.02,0.000568,0.362,0.886,153.868,4,rockabilly
+1MUsWVRPLaC7ANKcEiMRCl,Elvis Presley,Platinum - A Life In Music,Don't Be Cruel,61,121960,False,0.678,0.494,2,-12.941,1,0.17,0.78,0.0,0.0737,0.803,84.398,4,rockabilly
+0VWbQje9Ad3HQmTiRb3u6w,BOØWY,MORAL+3-DIGITAL REMASTER,DAKARA,34,228904,False,0.458,0.906,4,-6.288,0,0.109,0.0113,0.000121,0.098,0.593,172.334,4,rockabilly
+1KqeEMYA5V8CWTbgVPXRbr,Eikichi Yazawa,共犯者 (50th Anniversary Remastered),くちづけが止まらない - Remastered 2022,33,292240,False,0.591,0.798,11,-10.725,0,0.0404,0.309,0.000269,0.0949,0.388,108.097,4,rockabilly
+00kZX8Ne9wNJoChq7KzEpg,Eikichi Yazawa,ONLY ONE (50th Anniversary Remastered),ONLY ONE - Remastered 2022,32,215026,False,0.682,0.669,4,-7.687,0,0.0337,0.00319,6.24e-06,0.17,0.362,129.084,4,rockabilly
+5Q7ayTarb9Tpmkik5cVMug,Elvis Presley,"Elvis' Gold Records, Vol. 4",Viva Las Vegas,64,144840,False,0.608,0.567,7,-11.297,1,0.0445,0.819,0.0,0.344,0.861,144.034,4,rockabilly
+6vY1m6XIR5tjwG7IRUMIUf,Eikichi Yazawa,Anytime Woman (50th Anniversary Remastered),Anytime Woman - Remastered 2022,33,281320,False,0.709,0.742,5,-7.956,1,0.0269,0.00603,0.000813,0.174,0.817,130.107,4,rockabilly
+7yF4vHCCDfiYj012IlhgkG,Danny Cooltmoore;Svänzons,Kom Kom,Kom Kom,33,228109,False,0.681,0.842,7,-4.871,1,0.028,0.384,6.51e-05,0.0913,0.491,130.001,4,rockabilly
+6PT6nSEatLEKVLOo4asoAr,Eikichi Yazawa,LIVE HISTORY 2000~2015 (50th Anniversary Remastered),もうひとりの俺 - Live at 日本武道館'06 - Remastered 2022,32,229373,False,0.54,0.389,5,-12.257,1,0.0305,0.637,0.0,0.815,0.322,104.969,4,rockabilly
+1RFTlrpmEUyBpkaW6mfrxQ,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","RATS - FROM ""GIGS"" CASE OF BOOWY",34,159600,False,0.258,0.985,0,-3.376,1,0.157,0.0202,0.000308,0.432,0.382,176.952,4,rockabilly
+1WoPnsEsqZM8pw1RHlqeUC,BOØWY,"""GIGS"" JUST A HERO TOUR 1986 NAKED (Live)",IMAGE DOWN - Live,34,267613,False,0.475,0.979,7,-3.954,1,0.129,0.0208,0.264,0.342,0.202,98.924,4,rockabilly
+1EIvjDvoKjwhokJsigvleb,Elvis Presley;Royal Philharmonic Orchestra,The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra,Always on My Mind - with The Royal Philharmonic Orchestra,56,217746,False,0.29,0.593,7,-7.971,1,0.039,0.563,0.0235,0.127,0.275,89.521,4,rockabilly
+7aLh3kqOguvlZQdBioa5cP,Eduardo Araujo;The Fevers,O Bom,O Bom,34,166906,False,0.681,0.831,2,-6.45,1,0.0739,0.315,0.0,0.0627,0.887,141.414,4,rockabilly
+3miOxudu6gPucbG4kjCKj6,BOØWY,BOφWY,CHU-RU-LU,34,240466,False,0.667,0.858,11,-6.723,0,0.0706,0.00509,0.0048,0.315,0.694,139.908,4,rockabilly
+65jrjEhWfAvysKfnojk1i0,The Drifters,Under the Boardwalk,Under the Boardwalk,68,161960,False,0.747,0.226,7,-13.635,1,0.0414,0.908,0.000168,0.107,0.778,123.792,4,rockabilly
+0iArjUPsvxGaap0XEQBH9B,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","MORAL - FROM ""GIGS"" CASE OF BOOWY",35,154146,False,0.283,0.996,4,-3.731,1,0.152,0.0125,0.00998,0.367,0.439,174.394,4,rockabilly
+5nP6bZZpeT9hbtvePmy9ko,Elvis Presley,Moody Blue,Moody Blue,62,169320,False,0.643,0.729,0,-10.231,1,0.0297,0.674,7.99e-06,0.173,0.963,135.29,4,rockabilly
+42FsvUF4iYyXVx9jc54ziM,BOØWY,PSYCHOPATH,RENDEZ-VOUS - LIVE IN HAMBURG JULY 1987,34,222093,False,0.505,0.945,7,-4.83,1,0.0439,0.00598,0.000151,0.971,0.557,151.784,4,rockabilly
+4R2LyMD5WcEzV2p3Vfr4gL,BOØWY,SINGLES,Marionette -マリオネット-,34,218240,False,0.563,0.98,11,-4.919,1,0.107,0.232,7.37e-06,0.186,0.704,159.274,4,rockabilly
+4JQ47NNAe3KNfx905OxkES,BOØWY,GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11~1987.2.24 (Live),ホンキー・トンキー・クレイジー - Live,34,299506,False,0.389,0.963,2,-3.843,1,0.079,0.00536,0.423,0.388,0.804,109.875,4,rockabilly
+2XTBQyBapzuWbx3ZByfOrn,Dale Hawkins,Presenting Dale Hawkins (65th Anniversary Edition),Susie-Q,33,133373,False,0.475,0.603,9,-7.989,1,0.0421,0.486,0.0001,0.249,0.848,141.751,4,rockabilly
+3lWuagNhAzcqOikD5KnBku,The Everly Brothers,The Golden Hits of The Everly Brothers,Crying in the Rain,58,120306,False,0.61,0.379,2,-9.381,1,0.0278,0.622,0.0,0.144,0.48,97.166,4,rockabilly
+6DVjpD3z71kA7dAssucVIY,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","ON MY BEAT - FROM ""GIGS"" CASE OF BOOWY",34,195120,False,0.204,0.992,4,-2.4,1,0.255,0.0212,0.000389,0.818,0.233,151.338,4,rockabilly
+4hXYsBvtAH7VkvmVNw73c5,Francine,One Step Further,You Wanna Have It All,32,196066,False,0.516,0.837,8,-6.377,0,0.0715,0.00622,0.0167,0.24,0.707,136.02,4,rockabilly
+0ygvZpFhwpSoQl8mw5d4jg,Gene Vincent & His Blue Caps,Dance To The Bop,Say Mama,33,131960,False,0.484,0.84,9,-9.832,1,0.0401,0.398,0.0,0.349,0.964,156.167,4,rockabilly
+06YFRJshz2Kz0hwyDu0v4T,John Wildcat;Dogge Doggelito,King of the Road (Eurodance remix),King of the Road - Eurodance remix,33,219833,False,0.582,0.856,6,-6.096,0,0.0665,0.0433,2.18e-05,0.0824,0.25,190.081,4,rockabilly
+27hF5Hpy2p6RZmJh9x1W4G,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Presumida (High Class Baby),34,127306,False,0.531,0.809,0,-6.945,1,0.067,0.419,0.0,0.105,0.891,90.884,4,rockabilly
+7qOBXSVpUgiRCHplmyTPb3,Sun Cats,Pajala Till Haparanda,Pajala Till Haparanda,33,145520,False,0.587,0.815,0,-8.271,1,0.0324,0.0443,0.00304,0.16,0.962,161.952,4,rockabilly
+49mrUgNUqZvCyDpcjO3XWb,The Marcels,Anthology: The Deluxe Collection (Remastered),Blue Moon - Remastered,35,133178,False,0.575,0.465,7,-8.745,1,0.0361,0.275,0.0,0.12,0.872,127.672,4,rockabilly
+7i8Kv9xDbADYpa8RhQUpGO,Toini & The Tomcats,Traction,True Love,33,194720,False,0.481,0.947,4,-6.123,1,0.0704,0.251,3.48e-05,0.353,0.935,156.818,4,rockabilly
+18p2UDumDJbYdZAT2st0Bs,Rebel Cats,Puro Cañonazo,La Dosis Perfecta,33,200720,False,0.639,0.937,5,-5.118,0,0.0865,0.0513,3.56e-05,0.0969,0.895,154.956,4,rockabilly
+1SdwywRhxTWnZdaUihMdeD,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,"La Plaga (Good Golly, Miss Molly)",34,132933,False,0.337,0.857,2,-7.037,1,0.0662,0.188,3.22e-05,0.626,0.96,182.885,4,rockabilly
+1yzoFk7CkO01YSC3GWi5Z1,Rebel Cats;Marcela Viejo;Mario Cobo;Dani Nel-lo,Rebel Cats Y Sus Amigos,Mala Influencia,33,207720,False,0.556,0.964,0,-3.453,1,0.0738,0.0606,0.000495,0.253,0.521,94.031,4,rockabilly
+6LiB2EaS3yxxJF4TWFgbno,John Lindberg Trio,Brand New Philosophy,Brand New Philosophy,32,157933,False,0.469,0.882,9,-5.093,1,0.0585,0.153,0.0,0.0903,0.967,168.019,4,rockabilly
+6NgqDV3AFkXJWGFArVUQ9A,Brian Hyland,Christmas time but not Christmas songs 2022,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini - Single Version,0,143733,False,0.814,0.427,2,-11.543,1,0.0918,0.558,0.0,0.0248,0.964,123.109,4,rockabilly
+60jQTAr2OkFcV4SWSRz3st,Brenda Lee,Emotions,Emotions,61,171226,False,0.466,0.416,5,-8.249,1,0.026,0.742,5.04e-06,0.249,0.516,98.78,3,rockabilly
+20NUlNuGgxtGkl2utHGL5w,The 5.6.7.8's,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),The Barracuda,46,148466,False,0.539,0.97,0,-4.54,0,0.0633,0.00395,0.0188,0.333,0.877,145.493,4,rockabilly
+5a3ZlfUdkef5uuXYcYNbUP,Elvis Presley,Fun in Acapulco,Marguerita,29,162026,False,0.475,0.403,2,-14.768,1,0.0361,0.66,3.59e-05,0.177,0.555,166.897,3,rockabilly
+1XunTmhOcj3xwh4b8P3isX,Elvis Presley,Elvis 30 #1 Hits,It's Now or Never,57,194600,False,0.643,0.491,4,-9.312,1,0.0344,0.642,0.00972,0.286,0.753,126.399,4,rockabilly
+64NHAxoXRHW7WprPLFM5S2,Eikichi Yazawa,Anytime Woman (50th Anniversary Remastered),Dry Martini - Remastered 2022,31,245720,False,0.634,0.71,0,-6.972,1,0.0271,0.224,0.000213,0.132,0.487,123.912,3,rockabilly
+2kcI4ia8K3wpHIlf5jbOrz,Eikichi Yazawa,SUBWAY EXPRESS (50th Anniversary Remastered),親友 (セルフカバー) - Remastered 2022,31,211346,False,0.469,0.499,5,-9.552,1,0.0342,0.603,0.0,0.179,0.217,139.704,4,rockabilly
+32J2hO5MU8pmA1l9UbIV0u,Eikichi Yazawa,Anytime Woman (50th Anniversary Remastered),アンジェリーナ - Remastered 2022,32,236653,False,0.647,0.729,1,-8.323,0,0.0239,0.055,0.00248,0.201,0.848,109.937,4,rockabilly
+63Hb7XoQ8JzBiTr1nxp9pH,The Ventures,Another Smash!!!,(Ghost) Riders In The Sky,50,148493,False,0.577,0.619,0,-9.022,1,0.0323,0.697,0.445,0.318,0.537,126.242,4,rockabilly
+62p6cgUc0cdguS1DttbfKU,Elvis Presley,Today (Legacy Edition),And I Love You So,56,219066,False,0.485,0.332,8,-13.288,1,0.0257,0.129,0.0668,0.0687,0.39,81.741,4,rockabilly
+1Uxk2dxmATlKH5quLX2iFG,Elvis Presley,NBC-TV Special (Live),If I Can Dream - Live from the '68 Comeback Special,65,200057,False,0.346,0.62,7,-9.247,1,0.0432,0.0822,0.00393,0.599,0.391,93.932,3,rockabilly
+4j4Zt1hjZocWXCyrf4kKUW,Eikichi Yazawa,LIVE HISTORY 2000~2015 (50th Anniversary Remastered),棕櫚の影に - Live at 日本武道館'03 - Remastered 2022,32,368386,False,0.511,0.617,5,-12.154,1,0.0406,0.0219,0.000366,0.99,0.495,107.321,4,rockabilly
+3MpGQae6zAFd7Z1FdLV9fV,The Platters,The Flying Platters Around The World,Twilight Time - Single Version,60,168293,False,0.455,0.361,9,-12.562,1,0.0473,0.747,0.0,0.238,0.285,115.854,3,rockabilly
+3Uplo1YrIFa0cDVWef5ytf,BOØWY,"""GIGS"" JUST A HERO TOUR 1986 NAKED (Live)",GIVE IT TO ME - Live,33,226533,False,0.241,0.966,11,-4.513,1,0.0772,0.0191,0.00298,0.688,0.47,165.004,4,rockabilly
+0aktpJHZ4Qd3GWUKKvJq8C,Eikichi Yazawa,SUBWAY EXPRESS (50th Anniversary Remastered),古いラヴ・レター (セルフカバー) - Remastered 2022,31,216280,False,0.513,0.436,7,-10.931,1,0.03,0.33,1.3e-05,0.313,0.43,89.314,4,rockabilly
+5QLndwpuydTkQow1127Rxr,Eikichi Yazawa,ONLY ONE (50th Anniversary Remastered),白い影 - Remastered 2022,31,246493,False,0.635,0.495,2,-11.321,1,0.0234,0.000228,0.00047,0.241,0.332,100.033,4,rockabilly
+6vG4oazWuYOaMnHyLJmOMe,Elvis Presley,On Stage (Live),Sweet Caroline - Live,56,162560,False,0.401,0.488,11,-12.607,1,0.0534,0.537,5.77e-05,0.828,0.621,147.132,4,rockabilly
+1t2zYsS4UgIkkuBgSe0fZt,Bobby Vee,Bobby Vee,More Than I Can Say,49,149973,False,0.578,0.295,1,-10.379,1,0.0294,0.792,0.0,0.109,0.603,101.171,4,rockabilly
+4lTIVHttNJYHG1PhzS8CAg,BOØWY,PSYCHOPATH,LIAR GIRL,33,251626,False,0.564,0.837,4,-4.734,1,0.0296,0.00457,1.26e-05,0.0709,0.261,147.788,4,rockabilly
+6NDg4EyQE5lalcCEEpytsM,Buddy Holly,Giant,"(Ummmm, Oh Yeah) Dearest",56,113066,False,0.548,0.493,1,-11.052,1,0.0282,0.577,0.0195,0.13,0.568,115.24,4,rockabilly
+6feurIHW6vyqq9OGOieSVo,Frankie Avalon,The EP Collection,Venus,33,142200,False,0.57,0.547,10,-9.11,1,0.0283,0.669,2.01e-05,0.0849,0.714,115.146,4,rockabilly
+2ohZvIuVR5CWwewvxXMmjZ,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","LONDON GAME - FROM ""GIGS"" CASE OF BOOWY",33,204533,False,0.39,0.986,2,-3.322,1,0.0661,0.0296,0.0556,0.701,0.238,95.274,4,rockabilly
+5JccvAiwcZ7n3urnXqWPsG,Brenda Lee,"...""Let Me Sing""",Break It To Me Gently,59,164000,False,0.539,0.26,0,-10.414,0,0.0268,0.588,0.0,0.134,0.492,92.032,3,rockabilly
+3Kb4kr3DGzzU5OtYqycWvE,Elvis Presley,That's the Way It Is,"You've Lost That Loving Feeling - Live at The International Hotel, Las Vegas",61,264293,False,0.409,0.292,7,-13.276,1,0.0271,0.476,3.92e-05,0.61,0.342,78.395,4,rockabilly
+3Mk4nxxKHem8rWxdWLC0R6,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),トラベリン・バス - Live at 横浜スタジアム'95 - Remastered 2022,31,249906,False,0.493,0.943,5,-6.579,1,0.101,0.000409,0.1,0.923,0.274,140.2,4,rockabilly
+1eqGYJJr2z2GXK1i0hD3BC,Pat Boone,Pat Boone's Greatest Hits (Reissue),Love Letters In The Sand - Single Version,55,134560,False,0.571,0.196,3,-13.216,1,0.0278,0.811,0.0,0.142,0.555,88.728,4,rockabilly
+5fZS83DoIkvSdwQKTRYdMF,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","TEENAGE EMOTION - FROM ""GIGS"" CASE OF BOOWY",33,236440,False,0.429,0.981,7,-3.174,1,0.0599,0.00213,0.000732,0.513,0.395,95.544,4,rockabilly
+47M6eDZT5JVRxteXdYy1VB,BOØWY,"""GIGS"" JUST A HERO TOUR 1986 NAKED (Live)",INSTANT LOVE - Live,33,240360,False,0.259,0.994,9,-3.837,0,0.14,0.00864,0.207,0.989,0.173,106.906,4,rockabilly
+3cQjdIZtFiVstWpjyvHtac,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),THIS IS A SONG FOR COCA-COLA - Remastered 2022,30,193325,False,0.629,0.532,1,-9.978,0,0.0362,0.288,8.19e-05,0.31,0.446,77.211,4,rockabilly
+1QpM8tHlyYgnNgI0rv9wAt,Crazy Ken Band,Single Collection / P-VINE YEARS,あ、やるときゃやらなきゃだめなのよ。,32,239920,False,0.63,0.898,10,-3.463,1,0.0573,0.332,0.000131,0.44,0.83,110.04,4,rockabilly
+75rmkfnhh0wDPqKITSNTju,BOØWY,BOφWY,ホンキー・トンキー・クレイジー,32,214920,False,0.557,0.871,11,-6.297,0,0.104,0.0212,6.66e-05,0.289,0.91,204.944,4,rockabilly
+1FuZ8H0Ts3799ZNVN5ZcSZ,Billy Fury,A Thousand Stars,It's Only Make Believe,34,146706,False,0.419,0.382,9,-13.438,1,0.0322,0.32,0.0,0.106,0.462,84.185,4,rockabilly
+2hh6RGmBNTGB7fi62fYgUL,Johnny Tillotson,Johnny Tillotson's Best,Why Do I Love You So - 1960 #42 Billboard chart hit,51,127106,False,0.385,0.257,8,-11.282,0,0.0315,0.892,3.35e-06,0.117,0.617,152.872,4,rockabilly
+2GMmZu2M9gemkEX6bMZ1iL,Eva Eastwood & The Major Keys,Hot Chicks & Cool Cats,Buddy I Got You,31,125426,False,0.438,0.863,5,-4.236,1,0.0463,0.715,0.0,0.153,0.96,187.791,4,rockabilly
+0aK3Xgv9CRa9T62PXLG3fX,BOØWY,JUST A HERO,DANCING IN THE PLEASURE LAND,33,271626,False,0.634,0.975,6,-5.433,0,0.057,0.0081,0.0764,0.21,0.77,140.299,4,rockabilly
+4XWW9hzf95NduvyfkgC3V8,The Baseballs,Hot Shots,Mambo,31,162746,False,0.733,0.916,10,-4.65,1,0.0649,0.592,0.0,0.383,0.936,116.006,4,rockabilly
+0VhvFvsU6G7zqxTZuTsQYb,The Fastback,Roll the dice,Blame it in me,31,203624,False,0.63,0.861,1,-4.893,1,0.0362,0.438,0.0,0.055,0.812,120.029,4,rockabilly
+7vW5ibTBXgnkDSCcVHsao0,The Fastback,Roll the dice,So long baby goodbye,31,213916,False,0.641,0.82,11,-5.686,0,0.0916,0.0778,3.22e-06,0.101,0.961,180.024,4,rockabilly
+5d6ZRqgbz26Sg4bk1oifQw,Carl Perkins,The Dance Album,Blue Suede Shoes,58,134445,False,0.548,0.673,4,-7.318,0,0.0364,0.448,8.53e-05,0.342,0.965,168.891,4,rockabilly
+3uwIoa2emQILz6BmH6MtiW,Elvis Presley,Girls! Girls! Girls!,"Return to Sender - From ""Girls! Girls! Girls!""",61,126693,False,0.845,0.563,8,-9.488,1,0.0439,0.628,0.0,0.0614,0.969,130.335,4,rockabilly
+2lxR1hB6hAJ0p09B05kaRg,Black Raven,Rockbox Revival,Chrome Heart,30,216433,False,0.66,0.638,9,-9.219,0,0.0428,0.693,2.57e-05,0.139,0.289,109.986,4,rockabilly
+3zd7u67fas3rqIVjrwvnI4,Toini & The Tomcats,Traction,Charity,31,164653,False,0.599,0.812,0,-5.359,1,0.0315,0.26,0.0,0.227,0.852,108.94,4,rockabilly
+56Ka2yaNSmVZVOT9FsUD6n,John Lindberg Trio,Bad Loving,Bad Loving,31,210659,False,0.592,0.933,6,-5.276,1,0.0391,0.00223,5.94e-06,0.482,0.899,82.052,4,rockabilly
+1bK0ReDd5OXyul71Nl1d9o,Johnny Kidd & The Pirates,Very Best Of Johnny Kidd & The Pirates,Shakin' All Over,32,141000,False,0.767,0.626,9,-8.408,1,0.036,0.188,1.03e-05,0.327,0.715,125.237,4,rockabilly
+2xdIHrH1a0IuThQTbwpzmc,Los Teen Tops,Los Teen Tops De Su Epoca De Oro,Popotitos (Bonie Moroni),34,170800,False,0.588,0.512,4,-12.253,1,0.0302,0.739,3.02e-05,0.227,0.92,140.257,4,rockabilly
+05K9S4Tbxaj7mKiZyHtjFl,Duane Eddy;The Rebelettes,Wiggle Wobble (50's & 60's Collection of Music),(Dance with the) Guitar Man,1,160093,False,0.688,0.925,9,-6.69,1,0.0395,0.732,0.00131,0.136,0.932,137.193,4,rockabilly
+40WKBTSgL6lyBpgQPanpoS,Rebel Cats;Jay de la Cueva,Rebel Cats Y Sus Amigos,Anclado A Ti,31,172586,False,0.512,0.954,0,-3.671,1,0.105,0.0183,0.0121,0.609,0.607,110.121,4,rockabilly
+10poTYehx5Yg1W9bWNHs9D,Rebel Cats;Dr. Shenka,Rebel Cats Y Sus Amigos,Gato Rebelde,31,156213,False,0.503,0.982,9,-3.297,1,0.109,0.00317,9.82e-06,0.347,0.632,101.461,4,rockabilly
+5TfzQLpqWXar5tkXcuKOP2,John Lindberg Trio,Straight from the Heart,This Is What You Get,30,160143,False,0.554,0.948,0,-4.804,1,0.0431,0.295,0.000995,0.131,0.398,81.478,4,rockabilly
+31jdflvTFQhJ4zmMJNTgl7,Bobby Day,The Rockin' Adventures of Bobby Day,Little Bitty Pretty One,32,148373,False,0.803,0.467,10,-10.171,0,0.0752,0.789,0.28,0.0565,0.935,85.731,4,rockabilly
+4VPq4O1fhqHyKpP2UoKryq,The Big Bopper,Teenage Monster (Spooky Monster Music),Purple People Eater Meets the Witch Doctor,0,132000,False,0.725,0.951,3,-0.131,0,0.279,0.784,0.0721,0.279,0.969,79.314,4,rockabilly
+45Szkclj1lt4ubm7RFK68t,Del Shannon,Runaway with Del Shannon,Runaway,62,137306,False,0.594,0.533,10,-7.993,0,0.0438,0.153,1.49e-05,0.172,0.729,78.552,4,rockabilly
+4wM7V31TsZzzDBEH02Hltb,Elvis Presley,Elvis 30 #1 Hits,Are You Lonesome Tonight?,53,186506,False,0.421,0.201,0,-12.399,1,0.0436,0.917,0.000436,0.116,0.188,129.689,5,rockabilly
+4KtgvmeeJ83iRxHc9QrBmf,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),Suspicious Minds (Film Edit),59,377586,False,0.284,0.801,7,-9.981,1,0.0639,0.000687,0.00326,0.888,0.521,136.943,4,rockabilly
+5GMw6X6BbCDGO9gApQYRSa,The Righteous Brothers,The Very Best Of The Righteous Brothers - Unchained Melody,You've Lost That Lovin' Feelin',59,225426,False,0.366,0.317,1,-13.976,1,0.027,0.541,0.0,0.0865,0.398,94.108,4,rockabilly
+2TE4xW3ImvpltVU0cPcKUn,Shakin' Stevens,Merry Christmas Everyone,Merry Christmas Everyone,63,220160,False,0.534,0.904,9,-3.315,1,0.0369,0.129,0.0,0.128,0.96,202.899,4,rockabilly
+0yywQJ4fpMlDg44mkZ5wfX,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),THE BORDER - Remastered 2022,29,262891,False,0.673,0.563,4,-10.616,0,0.0254,0.41,0.000191,0.173,0.889,104.461,4,rockabilly
+3qt3ybU6MScMxMKL2TYBvt,Chuck Berry,St. Louis To Liverpool,No Particular Place To Go,62,163000,False,0.596,0.791,7,-8.88,1,0.0446,0.425,0.000295,0.0886,0.98,129.237,4,rockabilly
+3TvqmnfVDMnwdhrtR9d30h,BOØWY,MORAL,SCHOOL OUT,32,150602,False,0.526,0.919,9,-4.677,1,0.183,0.0705,3.1e-05,0.0287,0.96,94.892,4,rockabilly
+0gaZi6J3Pk7FG7GNMHsK5o,Elvis Presley,That's the Way It Is,Bridge Over Troubled Water,59,275333,False,0.21,0.236,0,-14.48,1,0.0278,0.86,0.00182,0.713,0.196,82.833,4,rockabilly
+6yP3V5FXNNJU8Z441vxhCV,Elvis Presley,Platinum - A Life In Music,It's Now or Never,55,193906,False,0.633,0.365,4,-14.94,1,0.0403,0.428,0.00378,0.569,0.743,126.266,4,rockabilly
+7tihZUkK5CdXXtPpukvm9e,Gene Vincent & His Blue Caps,Gene Vincent And The Blue Caps,Unchained Melody,51,158133,False,0.54,0.158,7,-17.694,1,0.0335,0.704,0.000482,0.096,0.303,122.286,3,rockabilly
+020XZ8mDVjzbnmvjL6GKls,The Champs,Go Champs Go!,Tequila,55,135026,False,0.6,0.528,10,-16.601,1,0.0385,0.752,0.685,0.0493,0.971,174.095,4,rockabilly
+6pyex9B1kBoRIuabBAc4m8,Elvis Presley,Elvis 30 #1 Hits,Jailhouse Rock,57,155333,False,0.635,0.672,10,-6.788,0,0.0637,0.314,5.03e-06,0.0688,0.895,166.903,4,rockabilly
+4FrMb1ckGBrhARbHySQKx5,The Everly Brothers,The Very Best of The Everly Brothers,Devoted to You,55,141040,False,0.587,0.34,3,-9.387,1,0.0256,0.834,0.0,0.0955,0.526,90.523,4,rockabilly
+2uwP4d0aVAo90aet6UnaRK,Frankie Avalon,Venus,Venus,31,144493,False,0.573,0.356,10,-18.849,1,0.0321,0.854,0.627,0.159,0.87,114.845,4,rockabilly
+6yWOldW7kMEgIhFG9J9chf,Eikichi Yazawa,東京ナイト (50th Anniversary Remastered),止まらないHa~Ha - Remastered 2022,30,236106,False,0.581,0.95,11,-7.426,0,0.0401,0.0613,0.000146,0.226,0.833,137.404,4,rockabilly
+3TmnUIbelFiDzrhZqavHU0,Pat Boone,Pat Boone's Greatest Hits (Reissue),Speedy Gonzales,52,153093,False,0.589,0.447,11,-12.912,1,0.0748,0.821,0.0,0.0999,0.789,146.845,4,rockabilly
+0udDJIWbHhgSIbpZavxm8I,BOØWY,MORAL,MASS AGE,32,192006,False,0.654,0.9,9,-4.053,1,0.117,0.0335,0.6,0.274,0.879,121.82,4,rockabilly
+1bT6PezpaP1caCie9UZHe3,BOØWY,"""GIGS"" JUST A HERO TOUR 1986 (Live)",DREAMIN' - Live,31,233773,False,0.296,0.983,0,-4.822,1,0.0598,0.0432,0.00213,0.408,0.456,177.613,4,rockabilly
+7Gpx2fNJiilvrf9Ss8qbit,Neil Sedaka,Rock with Sedaka (Expanded Edition),Calendar Girl,53,159693,False,0.703,0.649,8,-7.727,0,0.0312,0.397,0.0,0.209,0.862,122.719,4,rockabilly
+2q6wc5D0jaxOZcycuyllLG,Los Vaguens,Los Amantes,Los Amantes,29,212571,False,0.473,0.747,11,-6.369,1,0.0353,0.413,0.000102,0.369,0.418,104.839,4,rockabilly
+7uXktLVq43HeS4fPU4nQna,Bobby Rydell,The Best Of Bobby Rydell,Sway,54,140333,False,0.659,0.814,4,-5.364,0,0.036,0.603,0.0,0.559,0.937,122.962,4,rockabilly
+5FUxnxo1B3IPUGA1kT0yGs,Eduardo Araujo;The Fevers,Bis Jovem Guarda,O Bom,31,163373,False,0.684,0.789,9,-8.984,1,0.065,0.31,2.31e-06,0.0708,0.923,141.895,4,rockabilly
+6viZwcFruRw07jfzTI42SI,BOØWY,PSYCHOPATH,季節が君だけを変える,31,280160,False,0.516,0.861,9,-4.944,1,0.0359,0.0478,0.0,0.308,0.517,189.457,4,rockabilly
+7t3kukBDmQfukoaT6BywML,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),黒く塗りつぶせ - Live at 日本武道館'98 - Remastered 2022,29,251200,False,0.58,0.946,10,-7.321,1,0.0578,0.000598,0.109,0.42,0.707,129.88,4,rockabilly
+1dIChAQ6MLzIsXWl6vWAqX,Elvis Presley,From Elvis in Memphis,Kentucky Rain,60,195720,False,0.411,0.374,0,-14.028,1,0.0282,0.427,1.01e-05,0.154,0.558,105.265,4,rockabilly
+6ImmlZj8ysK2jDnqqbKp60,Ricky Nelson,Rick Is 21,"Hello Mary Lou, Goodbye Heart - Remastered",56,138546,False,0.602,0.633,9,-9.756,1,0.0314,0.502,0.0,0.0614,0.931,98.995,4,rockabilly
+0ZvgXNstN4o2ZXPomtBYVp,Little Richard,Good Golly!,"Good Golly, Miss Molly",61,129132,False,0.563,0.741,7,-11.947,1,0.0486,0.602,0.00251,0.325,0.967,164.15,4,rockabilly
+6C7aTTCUWRK7dD379yUT3W,Chuck Berry,Berry Is On Top,Roll Over Beethoven,60,144600,False,0.715,0.797,3,-10.154,1,0.193,0.837,0.0,0.209,0.841,92.739,4,rockabilly
+4YCnTYbq3oL1Lqpyxg33CU,Chubby Checker,Dancin' Party: The Chubby Checker Collection (1960-1966),The Twist,62,155040,False,0.571,0.618,4,-5.682,1,0.0371,0.18,2.69e-06,0.178,0.852,156.892,4,rockabilly
+0tHcXWIYt99GY8BONrPIfA,Elvis Presley,For LP Fans Only,That's All Right,59,115280,False,0.655,0.405,2,-9.825,1,0.036,0.808,1.33e-06,0.116,0.696,105.272,4,rockabilly
+0ubPzd5jJBS6CezeTFEHqB,Eva Eastwood,Lyckost,Ford - 56,30,171716,False,0.392,0.794,7,-7.081,1,0.125,0.194,0.0,0.15,0.836,183.93,4,rockabilly
+3r1c2lFev1jfRMHH0iDSU5,Danny Cooltmoore;The Great Western Alarm,KÄRLEK TILL FOLKET,Sundsvalls Öl,30,177259,True,0.773,0.794,7,-4.472,1,0.0379,0.255,0.0,0.264,0.954,120.039,4,rockabilly
+44IRk3JU9STse043Fkz9Nw,Elvis Presley,Elvis 2nd To None,Kentucky Rain,29,198200,False,0.432,0.444,0,-8.914,1,0.0333,0.567,2.51e-06,0.107,0.546,105.868,4,rockabilly
+57x95B07DeGsD0AsjW0CjI,Toini & The Tomcats,Traction,Caught in a Storm,30,219586,False,0.51,0.909,4,-5.397,1,0.0594,0.202,0.0,0.355,0.828,154.606,4,rockabilly
+3tNyFKxcFszV0TiDDJsYVx,Elvis Presley,Elvis Now,Hey Jude,56,271573,False,0.333,0.338,3,-15.48,1,0.0278,0.783,0.000116,0.11,0.627,78.662,4,rockabilly
+6WRey29v6FSsEq2yiTIiWB,The Hillbilly Moon Explosion;Mark Philips,With Monsters and Gods,Jackson,29,185933,False,0.572,0.863,5,-5.265,0,0.0465,0.00487,0.000243,0.248,0.811,141.999,4,rockabilly
+7z2ci4dZdAPUgDb4bJVGqV,Toini & The Tomcats,Traction,Another Day,30,166453,False,0.494,0.865,0,-5.215,0,0.0495,0.229,0.0,0.0495,0.909,184.986,4,rockabilly
+6AuY8LkI0USenNbHzX1AVh,Toini & The Tomcats,Traction,Honey Bee,29,128466,False,0.577,0.826,11,-5.812,1,0.042,0.213,0.0,0.114,0.941,127.255,4,rockabilly
+7bKc2tkyD6hCq8sMItMsnE,Toini & The Tomcats,Awake at Night,That's How Much I Love You,29,164453,False,0.553,0.946,4,-3.817,1,0.0815,0.0208,0.000144,0.0713,0.889,89.786,4,rockabilly
+0bXmoMSBZSAVdSVt54PQVS,Toini & The Tomcats,Traction,Love Me Like I Love You,29,188520,False,0.409,0.941,7,-6.225,1,0.11,0.139,0.0,0.0808,0.669,174.182,4,rockabilly
+651YiPRtkwDtIlatE28SFm,Toini & The Tomcats,Traction,Kill You,29,159973,False,0.359,0.949,9,-5.479,0,0.186,0.136,0.0,0.364,0.452,135.739,4,rockabilly
+12YCMhJuk4SPrrrQcGvJJ7,Toini & The Tomcats,Going Wild,I Saw Elvis,29,201160,False,0.529,0.911,0,-3.737,1,0.0506,0.202,0.0,0.118,0.907,151.67,4,rockabilly
+4h9kDkkCpJWzgayjlPXktu,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),It Hurts,30,152866,False,0.595,0.849,4,-2.917,1,0.0455,0.0953,1.16e-05,0.198,0.926,113.682,4,rockabilly
+0J14macNc8qWBmQfcySj8c,Johnny Tillotson,Why Do I Love You So,Send Me the Pillow That You Dream On (Alternate Take),32,173973,False,0.411,0.314,2,-9.257,1,0.0276,0.751,4.76e-06,0.42,0.447,108.84,4,rockabilly
+4EWfkpTArMEGK6x1d3MajU,Toini & The Tomcats,"Welcome to the Rock Garden, Vol. 2",Good Life,29,178386,False,0.511,0.769,0,-4.888,1,0.035,0.0168,2.1e-05,0.352,0.64,147.326,4,rockabilly
+0lxZo8brQB2p9tCCOUoGmg,Los Teen Tops,Serie De Colección 16 Autenticos Exitos,Quiero Ser Libre - I Want to be Free (Remasterizado),31,151400,False,0.477,0.496,4,-9.028,1,0.0304,0.641,0.0,0.179,0.639,95.067,3,rockabilly
+5tDxrJQcuYLgJFfkUWG3xr,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),Love Never Dies,29,153373,False,0.606,0.701,0,-4.752,1,0.0266,0.238,0.0,0.128,0.771,101.09,4,rockabilly
+3agQa2P1Kr5YAq58nvIT8t,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Rock Nena Linda (Rock Pretty Baby),31,107533,False,0.525,0.641,4,-6.825,1,0.0793,0.572,0.0,0.253,0.919,95.273,4,rockabilly
+3FkzSXO9uZbQ4sgRgR8O0m,Fats Domino,The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them,Let The Four Winds Blow - Remastered 2002,32,138693,False,0.588,0.494,10,-10.687,1,0.0525,0.535,0.0155,0.0942,0.964,91.964,4,rockabilly
+1jFhnVoJkcB4lf9tT0rSZS,The Righteous Brothers,The Very Best Of The Righteous Brothers - Unchained Melody,Unchained Melody,61,216266,False,0.361,0.219,0,-16.553,1,0.0285,0.563,0.0,0.558,0.26,98.532,3,rockabilly
+4FlYcJnfkeBpowEHJ72Bmt,Bobby Day,Rockin' Robin,Rockin' Robin,62,160080,False,0.541,0.608,7,-13.083,1,0.106,0.298,0.0,0.234,0.938,171.992,4,rockabilly
+7gxW8hMXEUkc1G3m7z9vei,Bobby Darin,The Legendary Bobby Darin,More - Remastered 2004,58,145933,False,0.498,0.484,5,-8.74,0,0.0315,0.481,0.0,0.243,0.691,152.498,4,rockabilly
+25IiJu0DjOqsnQXgNHWp5i,The Shirelles,Remember When,Will You Love Me Tomorrow,64,160864,False,0.527,0.308,0,-11.809,1,0.0284,0.551,4.25e-05,0.0921,0.514,136.297,4,rockabilly
+3KHJcWcCoITtaP8q6XJkdY,Bobby Darin,Hello Dolly To Goodbye Charlie,More - 2001 Digital Remaster,55,145240,False,0.518,0.52,8,-9.128,1,0.0362,0.726,0.0,0.233,0.682,152.791,4,rockabilly
+1DndHckdH9m5rp6gYP086b,Dion,Runaround Sue,Runaround Sue,67,171600,False,0.364,0.607,2,-9.791,1,0.125,0.451,0.0,0.251,0.598,79.987,4,rockabilly
+7JcX4005zed4YWfujwIE1i,Katteni Shiyagare,ニルヴァーナ ・サン,エカクシャナ (ケモブレインの言葉),28,234280,False,0.466,0.831,9,-4.402,1,0.0496,0.00499,0.000577,0.214,0.608,185.176,4,rockabilly
+5blcqgpsuKhm0WQwMsmywj,Elvis Presley,The Best of The '68 Comeback Special (Live),Trouble / Guitar Man - Live from the '68 Comeback Special,58,206373,False,0.435,0.828,0,-8.764,1,0.101,0.31,4.07e-05,0.667,0.743,116.141,4,rockabilly
+52ECvnYJlnpFsyikUdffyN,BOØWY,JUST A HERO,ミス・ミステリー・レディ(Visual Vision),30,237786,False,0.672,0.908,9,-5.771,0,0.0827,0.0555,1.04e-06,0.269,0.419,117.692,4,rockabilly
+18YPNs20cBfgqkY8YCJlOH,Neil Sedaka,Rock with Sedaka (Expanded Edition),You Mean Everything to Me,52,157866,False,0.374,0.429,0,-7.801,0,0.0279,0.523,0.0,0.134,0.679,71.519,4,rockabilly
+5usNPz6U1acDrkUYekGYDY,The Crystals,Wall of Sound: The Very Best of Phil Spector 1961-1966,Then He Kissed Me,55,158853,False,0.44,0.682,4,-7.416,1,0.0373,0.681,3.33e-05,0.207,0.626,135.917,4,rockabilly
+47y8hRlWLEJ4VafE6LMjEZ,Elvis Presley,The Essential Elvis Presley,A Little Less Conversation,59,132013,False,0.584,0.802,2,-8.03,1,0.0784,0.149,0.0,0.0683,0.835,114.172,4,rockabilly
+3PNLqKBbWaTBGt9Y1lM1eB,Frankie Avalon,Frankie Avalon,Why,30,157718,False,0.408,0.213,5,-14.843,1,0.0295,0.869,0.0,0.101,0.643,94.608,4,rockabilly
+7E1XmqVGR1GfAPa6LYEYM0,Pepita Slappers,Rocket to the Moon,Rocket to the Moon,28,214400,False,0.489,0.793,11,-8.472,0,0.0457,0.000253,0.000926,0.144,0.607,94.992,4,rockabilly
+39zODpVtRvghMyfNjZ3BVK,Elvis Presley,"Elvis' Golden Records, Vol. 3",Stuck on You,54,139640,False,0.647,0.513,7,-12.372,1,0.0421,0.758,8.64e-06,0.108,0.955,131.641,4,rockabilly
+06PdA0DLgF4BfAeUNZAbFG,Fats Domino,Fats Domino Swings,Blueberry Hill,61,147880,False,0.489,0.499,11,-9.702,1,0.0271,0.74,0.000236,0.156,0.829,133.341,3,rockabilly
+4XPbmXwd2UGRgSqsUjCSup,BOØWY,BOφWY,CLOUDY HEART,31,269053,False,0.635,0.875,11,-6.818,0,0.0723,0.0247,0.00836,0.0794,0.541,157.251,4,rockabilly
+6vXZs9rEQF7Nd6O8Ue7NrT,Elvis Presley,"Elvis' Golden Records, Vol. 3",Are You Lonesome Tonight,53,187026,False,0.355,0.0922,7,-17.747,1,0.0515,0.918,0.000702,0.106,0.191,65.952,3,rockabilly
+4cXnUi6qulwgj0fLSu0VYE,Elvis Presley,Almost in Love,Rubberneckin',59,133813,False,0.623,0.613,10,-10.099,1,0.0698,0.231,0.0,0.12,0.918,144.334,4,rockabilly
+0hSm73TiWFaTRy9d8Aple5,Los Vaguens,Bestiario de Santa Lucia,Enemiga,28,103607,False,0.397,0.491,0,-6.727,1,0.0338,0.212,8.46e-05,0.111,0.663,160.141,4,rockabilly
+23BvnpzmCJ9bEVvnXOLtfB,BOØWY,PSYCHOPATH,LONGER THAN FOREVER,31,248573,False,0.58,0.859,7,-5.848,1,0.0315,0.00911,1.85e-06,0.282,0.811,157.684,4,rockabilly
+0OUFi9CN6HNqeNyfuoDOMW,Imelda May,Love Tattoo - Special Edition,Meet You At The Moon,27,167173,False,0.335,0.292,5,-12.004,1,0.0314,0.774,2.37e-06,0.176,0.315,178.374,3,rockabilly
+5NdUZlleEfmfxLtuFj0Nce,The Baseballs,Hit Me Baby...,The Sign,29,174760,False,0.577,0.895,7,-2.842,0,0.0334,0.00793,0.000204,0.311,0.927,109.992,4,rockabilly
+2CQkUn3dNSS1cemBOYo1Ln,Imelda May;Ronnie Wood;Gina Martin;Dr. Shola Mos-Shogbamimu,11 Past The Hour,Made To Love,28,205213,False,0.447,0.808,2,-5.061,1,0.0377,0.0484,2.78e-05,0.524,0.539,136.96,4,rockabilly
+4cWeuj8jjitaSIU2BHeTR0,Eva Eastwood;The Boppers,Det Bästa Med Eva Eastwood,They Never Know,29,162500,False,0.644,0.716,7,-4.747,1,0.0444,0.474,4.01e-06,0.109,0.934,80.065,4,rockabilly
+1puTLQ5v3ErYGIM8MwD1xs,The Baseballs,Hit Me Baby...,Believe,29,215320,False,0.463,0.9,1,-3.037,1,0.0419,0.416,0.000176,0.294,0.898,80.052,4,rockabilly
+7FhIxFg3PwfDHZhs0jRZsw,Bob Luman,Let's Think About Living,Let's Think About Living,29,124800,False,0.613,0.636,2,-13.398,1,0.0713,0.717,0.0,0.446,0.962,96.762,4,rockabilly
+1DRFM6sp93e2JHv0ooKUqR,John Wildcat,Bilburen Gangster,Mördar-Anders,29,117506,False,0.711,0.811,7,-6.507,1,0.0318,0.653,5.65e-06,0.219,0.973,120.025,4,rockabilly
+0PkBTqRtN25z3oKasWoKlj,Roy Orbison,Sings Lonely and Blue,Only the Lonely,61,145533,False,0.57,0.529,5,-10.769,1,0.028,0.377,0.00509,0.203,0.934,123.273,4,rockabilly
+6U3MkOZUrQ086VifeHEFVK,Deke Dickerson,Soundtrack Album: The Wild And Wonderful Whites of West Virginia,West Virginia White Boy,28,91509,True,0.351,0.538,7,-8.681,1,0.0505,0.775,0.0761,0.182,0.924,162.914,4,rockabilly
+5voOl6pISwOVF7zzFO8Bj0,Toini & The Tomcats,Going Wild,I Don't Wanna Worry,28,185320,False,0.55,0.845,7,-4.695,1,0.0491,0.086,1.88e-06,0.0592,0.667,150.925,4,rockabilly
+2bTJ0QUfs63RrBPbvo7YO9,Eva Eastwood & The Major Keys,En NY Stil I Stan,Vårt Liv I Repris,28,161186,False,0.441,0.884,4,-2.988,1,0.0383,0.778,0.000508,0.088,0.873,170.758,4,rockabilly
+23LQimhaFmor64X8zlbNwL,The Blasters,The Blasters Collection,Marie Marie,30,125906,False,0.412,0.81,7,-10.655,1,0.0725,0.0363,1.1e-05,0.104,0.966,174.362,4,rockabilly
+53SAk5gi3DHwjzfF4pjHHo,Toini & The Tomcats,Traction,Turtle Dove,29,122653,False,0.498,0.929,7,-6.131,1,0.0421,0.297,0.0754,0.202,0.971,164.385,4,rockabilly
+7JLtbrmHW0SIayVzJ6RWAL,Toini & The Tomcats,Going Wild,I Can't Believe It,29,252453,False,0.575,0.663,9,-5.375,1,0.0276,0.366,0.0,0.344,0.563,126.604,4,rockabilly
+6PdEIvNoIkbvkE56zqwDYq,Toini & The Tomcats,Traction,Ready to Go,29,133986,False,0.362,0.901,4,-5.504,0,0.103,0.175,0.0,0.0408,0.695,201.41,4,rockabilly
+4eG3VjakbudZXlZtLMtSZU,Toini & The Tomcats,Traction,Sea Song,29,131160,False,0.36,0.883,0,-5.96,1,0.0585,0.0122,2.04e-05,0.0556,0.784,159.547,4,rockabilly
+6AuY8LkI0USenNbHzX1AVh,Toini & The Tomcats,Traction,Honey Bee,29,128466,False,0.577,0.826,11,-5.812,1,0.042,0.213,0.0,0.114,0.941,127.255,4,rockabilly
+4qsI4NwXnOSmmIBdVEDpRe,Warren Smith,The Legendary Sun Classics,Red Cadillac And A Black Moustache,29,138973,False,0.653,0.437,2,-16.212,1,0.034,0.572,0.000141,0.247,0.772,77.806,4,rockabilly
+6VwHMn6TNj4K3ilRtB8yAQ,Toini & The Tomcats,Traction,Dear Whoever,28,153720,False,0.364,0.397,0,-7.28,1,0.0332,0.556,0.0,0.122,0.307,184.721,3,rockabilly
+1lyZAqin56kwnPlKLbs5xO,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),The Coolest Cat,28,174066,False,0.646,0.909,7,-3.308,1,0.04,0.182,0.000436,0.17,0.837,104.429,4,rockabilly
+5NvNo6iJw4lZhjPGYlWnMw,Fats Domino,The Complete Imperial Singles,I'm Ready,32,123133,False,0.652,0.934,5,-3.89,1,0.0497,0.629,0.000377,0.327,0.971,85.845,4,rockabilly
+7gxYn3huLYOHlpe4DWYwNJ,John Wildcat,Bilburen Gangster,Volvo Är Ingenting O Ha,29,135426,False,0.451,0.743,9,-6.69,1,0.0489,0.743,0.0,0.0889,0.964,200.25,4,rockabilly
+605F0nqGa8zFsGbC1ePsxS,Toini & The Tomcats,Going Wild,Rollin' with Sonny,28,238746,False,0.41,0.879,0,-3.972,1,0.0424,0.48,0.0,0.0523,0.85,174.969,4,rockabilly
+4Qlw6p2C7mNbjFeFUyidmx,Toini & The Tomcats,Going Wild,Going Wild,29,170720,False,0.379,0.87,4,-4.394,0,0.0642,0.0583,0.0,0.0905,0.638,183.782,4,rockabilly
+74VMqItxgjcxn555Puv9UQ,Los Benders,"Llegaron Los Benders Ol' school Rock n' roll Hecho En Mexico, Vol. 1",Lobo Feroz,29,177453,False,0.452,0.923,11,-4.04,0,0.0796,0.0225,0.0,0.117,0.711,96.103,4,rockabilly
+2VmNXNQyZeb1P72Vuz5v7y,John Lindberg Trio,Brand New Philosophy,Brand New Philosophy,28,155742,False,0.477,0.884,9,-5.078,1,0.0536,0.147,0.0,0.101,0.964,168.16,4,rockabilly
+0TI1nzPjvxM7e87dT8oG0q,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),Like This,29,189640,False,0.676,0.832,4,-3.565,1,0.0312,0.212,4.16e-05,0.38,0.962,134.971,4,rockabilly
+4ugW7XYsSNMJVMDRsUUOPx,TT Grace,"Let Me in, Let´s Rock'n'roll",The Hateful and the Faithful,29,189000,False,0.622,0.793,5,-9.784,0,0.0398,0.00898,0.00165,0.106,0.79,105.045,4,rockabilly
+11fNLqDB47gMKj7BHhR2Qr,The Everly Brothers,The Very Best of The Everly Brothers,Wake up Little Susie,61,123520,False,0.709,0.62,2,-9.382,1,0.034,0.318,0.0,0.0426,0.936,93.723,4,rockabilly
+7p6ZGUXjUe0ctAu5RNnghu,Chuck Berry,Pulp Fiction (Music From The Motion Picture),You Never Can Tell,46,161453,False,0.581,0.687,7,-14.152,1,0.15,0.694,7.05e-05,0.305,0.892,157.291,4,rockabilly
+2hEwjc5DZVPcC4cVVBuMr5,Elvis Presley,"Elvis' Gold Records, Vol. 4",(You're The) Devil In Disguise,56,140680,False,0.483,0.579,5,-13.923,1,0.116,0.481,0.00141,0.242,0.891,122.527,4,rockabilly
+4yT5usLhavd4mzP14LSiPU,Elvis Presley,"From Elvis Presley Boulevard, Memphis, Tennessee",I'll Never Fall In Love Again,56,224680,False,0.295,0.374,2,-11.457,1,0.0293,0.836,0.385,0.137,0.293,145.302,3,rockabilly
+4yt0DRCLWr1608bGXGcD5u,Elvis Presley,Spinout,I'll Remember You,53,165053,False,0.468,0.298,4,-15.661,1,0.0286,0.845,0.044,0.249,0.36,78.127,4,rockabilly
+1sbUdoRASGk8sOqCCCTlcB,Jimmy Clanton,This Is Jimmy Clanton,Another Sleepless Night,50,131266,False,0.58,0.306,5,-9.484,1,0.0296,0.73,0.0,0.157,0.72,79.978,4,rockabilly
+4LJcNiq2pBb8OeqrGdBJQw,Brenda Lee,Brenda Lee,I'm Sorry,56,161546,False,0.558,0.223,10,-12.362,1,0.0299,0.868,0.000972,0.13,0.303,101.711,3,rockabilly
+4eCOq0IQTW7uQhx0JAmAz1,Crazy Ken Band;Maki Nomiya,香港的士,T字路,28,204866,False,0.599,0.83,0,-5.147,1,0.048,0.35,2.74e-06,0.648,0.607,114.997,4,rockabilly
+7HgkQxxpt8CW8NqUVJF0Eh,Jimmy Clanton,This Is Jimmy Clanton,Venus in Blue Jeans,55,143826,False,0.497,0.762,1,-4.462,1,0.038,0.354,5.89e-05,0.278,0.727,111.534,4,rockabilly
+5oPurPK2ImFFpTvFFJp3O1,Eikichi Yazawa,E' (50th Anniversary Remastered),逃亡者 - Remastered 2022,27,225360,False,0.716,0.591,9,-9.802,1,0.0317,0.0439,3.02e-05,0.0683,0.833,128.997,4,rockabilly
+4pyQ5n3teYo2C89zE3NBrM,Crazy Ken Band,樹影,ドバイ,28,229881,False,0.633,0.821,8,-9.115,1,0.0524,0.138,0.0,0.193,0.916,120.024,4,rockabilly
+7DBHT8SI35z5I8sssBJ2WP,Elvis Presley,Always On My Mind (Rehearsal),Always On My Mind - Rehearsal,55,264680,False,0.502,0.463,7,-13.144,1,0.0434,0.726,0.00965,0.238,0.394,92.279,4,rockabilly
+4zzXm1QJQXWLyUfFhWZBRg,Elvis Presley,Elvis 30 #1 Hits,Don't Be Cruel,57,122866,False,0.68,0.675,2,-7.998,1,0.191,0.772,0.0,0.069,0.805,84.967,4,rockabilly
+2OCoH12t6olzx9bT1PEC8F,Chuck Berry,Rockin' At The Hops,Let It Rock - Single Version,56,102800,False,0.632,0.716,10,-12.387,0,0.0646,0.581,2.48e-05,0.181,0.935,164.851,4,rockabilly
+50RwvvEKX5Q7AZt8FTAwIF,Buddy Holly,That'll Be The Day,That'll Be The Day,62,150133,False,0.536,0.637,2,-7.774,1,0.0343,0.467,0.0,0.0838,0.798,115.24,4,rockabilly
+3QiAAp20rPC3dcAtKtMaqQ,Elvis Presley,Elvis' Christmas Album,Blue Christmas,59,129173,False,0.465,0.27,4,-16.661,1,0.0425,0.9,0.00104,0.145,0.58,94.518,4,rockabilly
+0DDkW8j34M5hvxj79uGmK7,Frankie Avalon,Greatest Hits,Venus,29,143493,False,0.558,0.483,10,-10.229,1,0.0291,0.732,2.76e-05,0.131,0.745,115.184,4,rockabilly
+2eSj0HHwB9aHJQ7zFOu90G,Elvis Presley,From Elvis in Memphis,Don't Cry Daddy,57,167746,False,0.44,0.196,2,-17.375,1,0.0272,0.804,8.95e-06,0.179,0.333,85.776,4,rockabilly
+7im82Ki0wDa210H4cgnzZg,BOØWY,BEAT EMOTION,B・E・L・I・E・V・E,29,259560,False,0.484,0.588,9,-10.397,1,0.0317,0.0661,0.00765,0.0418,0.693,209.143,4,rockabilly
+2kVQpubE6URKKj9L7Upk2l,Elvis Presley;Lisa Marie Presley,Where No One Stands Alone,Where No One Stands Alone (with Lisa Marie Presley),54,220106,False,0.345,0.291,0,-8.748,1,0.0278,0.641,0.0399,0.151,0.299,136.751,3,rockabilly
+0ymqjWwvtGGCQeZPYQfpZt,BOØWY,BEAT EMOTION,DON'T ASK ME,30,203093,False,0.612,0.949,0,-5.071,1,0.0589,0.00635,1.17e-05,0.401,0.512,140.055,4,rockabilly
+44pN9jfSqY3d3lrKuv3QeN,Roy Orbison,In Dreams,In Dreams,57,169160,False,0.495,0.435,0,-9.99,1,0.0286,0.67,0.00038,0.13,0.71,108.189,4,rockabilly
+40fD7ct05FvQHLdQTgJelG,Bobby Darin,Bobby Darin,Splish Splash,59,131719,False,0.645,0.943,0,-1.526,1,0.0393,0.385,0.0,0.37,0.965,147.768,4,rockabilly
+6cEnw857u8QoKNXvphv8W4,The Baseballs,Strike,Umbrella,27,187533,False,0.644,0.879,10,-3.716,1,0.0458,0.447,1.27e-06,0.127,0.926,106.056,4,rockabilly
+0G70aloSY9y0Ro0BUawzZA,Los Vaguens,Las Rosas,Las Rosas,28,191150,False,0.547,0.735,1,-5.676,1,0.0322,0.114,0.0297,0.106,0.546,113.136,4,rockabilly
+0fonScmHUzC0MglSLn9saA,The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,Da Doo Ron Ron (When He Walked Me Home),59,140120,False,0.535,0.797,3,-7.533,1,0.0459,0.48,3.42e-05,0.141,0.613,148.835,4,rockabilly
+1zEX8UTjxzNRvysKIHtyAj,Eduardo Araujo,Jovem Guarda Sem Limite,Rua Augusta,28,150200,False,0.539,0.83,7,-7.918,1,0.032,0.174,0.0,0.338,0.961,174.279,4,rockabilly
+7nQkIv6NYKGzjBytrBfTnm,Eikichi Yazawa,ALL TIME BEST ALBUM (50th Anniversary Remastered),スタイナー(Introduction)~逃亡者 - Remastered 2022,27,268693,False,0.66,0.566,9,-9.266,1,0.0387,0.0832,0.000606,0.065,0.484,128.955,4,rockabilly
+01u6AEzGbGbQyYVdxajxqk,Elvis Presley,Elvis' Golden Records,Don't Be Cruel,58,122893,False,0.697,0.55,2,-11.496,1,0.179,0.856,3.44e-05,0.0907,0.844,84.802,4,rockabilly
+5Yv3ZIpvWLS78UIKOQlsp9,Danny Cooltmoore;The Great Western Alarm,Raggarbil,Raggarbil,27,161726,False,0.462,0.851,9,-2.771,1,0.0346,0.000962,0.000724,0.277,0.701,149.937,4,rockabilly
+05eNEozACh10Rn0ewFnH8Y,Bill Haley & His Comets,Rockin' The Joint,"See You Later, Alligator",54,166840,False,0.663,0.758,10,-10.07,0,0.0571,0.272,0.0,0.319,0.814,157.198,4,rockabilly
+43qHkH4GheNaQ68r4SQZ04,BOØWY,THIS BOφWY,NO. NEW YORK - Michael Zimmerling Mix,29,255840,False,0.526,0.825,4,-5.648,1,0.0363,0.0188,0.00166,0.239,0.816,166.281,4,rockabilly
+1NapyvR1Oh8zoU3lAnjJKx,Tupelo Highshots,Pure Rockabilly Party,Nathalie,27,169845,False,0.626,0.96,4,-4.708,1,0.029,0.00994,5.35e-06,0.311,0.915,102.504,4,rockabilly
+7mBQ9o1ki3o9fpTP3LsD7R,Eva Eastwood & The Major Keys,"Åh, Vilken Skiva!",Vill & Vill Inte,27,172960,False,0.466,0.6,5,-5.088,1,0.0369,0.596,0.0,0.238,0.787,163.524,4,rockabilly
+41iti2jnVYqhlxWMcGsDa8,Bill Haley,"Las Grandes Leyendas Del Rock, Vol. 1",Rock Around the Clock,55,132101,False,0.523,0.511,2,-11.653,1,0.138,0.572,0.454,0.103,0.778,182.144,4,rockabilly
+4Tat1HfwxpkO5MlfLYNNcU,Toini & The Tomcats,Awake at Night,Why Should I Care,27,209880,False,0.558,0.898,7,-5.725,1,0.06,0.0687,5.76e-05,0.365,0.873,152.5,4,rockabilly
+5Qk2ca503PdWIh7XJhnpDT,Toini & The Tomcats,Going Wild,Crazy for You,28,151853,False,0.317,0.823,7,-5.224,0,0.0473,0.0666,0.0,0.131,0.77,172.732,4,rockabilly
+0XNNUvtKF1YA6ycZfN57El,Lee Rocker,Night Train to Memphis,Night Train to Memphis,27,297984,False,0.651,0.839,11,-4.2,1,0.031,0.129,0.0,0.115,0.869,103.006,4,rockabilly
+1lTlC3CBHUORQEsrlLg7Lc,Toini & The Tomcats,Awake at Night,Zip Zap Zoe,28,144226,False,0.625,0.896,6,-4.483,0,0.115,0.0338,0.000297,0.272,0.535,109.892,4,rockabilly
+28U9Y3R6hJtPUdVK7FFrhN,Gene Vincent & His Blue Caps,The Rock N' Roll Collection,Crazy Legs,28,131398,False,0.471,0.618,2,-10.299,1,0.04,0.538,0.0,0.331,0.769,169.514,4,rockabilly
+6zetzE9JidathFioYpcw0O,The Baseballs,Hot Shots,Wake Me Up Before You Go Go,28,199786,False,0.461,0.836,9,-4.066,1,0.0766,0.602,0.0,0.0904,0.947,175.923,4,rockabilly
+6oRHRkQigTzJ3KwpO3XOV6,The Everly Brothers,The Very Best of The Everly Brothers,Bye Bye Love,59,142906,False,0.547,0.523,9,-9.176,1,0.0572,0.724,0.0,0.103,0.89,169.598,4,rockabilly
+3ODli2r4fsQnwEFzx6rSqe,The Reverend Horton Heat,The Full Custom Gospel Sounds Of . . .,Big Little Baby,28,151640,False,0.501,0.975,7,-6.804,1,0.0824,0.0059,0.0116,0.391,0.36,116.764,4,rockabilly
+6fvef3azbLTaeo3VOer8oC,Toini & The Tomcats,Going Wild,Restless Heart,28,177213,False,0.599,0.821,9,-4.007,1,0.0328,0.318,0.0,0.243,0.903,133.557,4,rockabilly
+1QfE9NTcIN7p7GmnkbMT2W,Toini & The Tomcats,Going Wild,So Can't You See,28,191160,False,0.39,0.908,1,-3.517,0,0.0456,0.0264,0.0,0.314,0.832,175.802,4,rockabilly
+1Fs0yyfsXxw4XiuDNfOIRo,John Lindberg Trio,Brand New Philosophy,Slow Down,27,189893,False,0.596,0.894,5,-6.457,1,0.0429,0.0661,3.99e-05,0.184,0.966,160.011,4,rockabilly
+5bpRBSk8PWLSDORhAUkEv5,Toini & The Tomcats,Awake at Night,For a Minute or Two,28,147026,False,0.763,0.472,7,-8.232,1,0.0429,0.5,0.0,0.263,0.583,125.339,4,rockabilly
+4ioqGCkmubr8E86LaR80mv,Rebel Cats;Abulon,Rebel Cats Y Sus Amigos,La Chica Rockabilly,28,115293,False,0.363,0.971,9,-4.495,1,0.161,0.0368,0.0,0.063,0.677,185.945,4,rockabilly
+17Ya2vsIJmIekLf9L0Izmw,The Reverend Horton Heat,Lucky 7,Like A Rocket,28,163826,False,0.462,0.942,7,-3.165,1,0.034,8.32e-05,6.19e-06,0.881,0.672,103.974,4,rockabilly
+4NhFaw4t0Jtihruigm13zZ,Jan & Dean,The Teammates: Twenty Years of Making Music 1965-1985,Louisiana Man (with Session Intro),2,237933,False,0.604,0.584,9,-11.631,0,0.339,0.733,0.00955,0.232,0.859,148.087,4,rockabilly
+3N35KfOEekTaN0uctl7gLt,Jan & Dean,Wiggle Wobble (50's & 60's Collection of Music),Heart and Soul,0,129453,False,0.577,0.68,4,-7.362,1,0.0313,0.501,0.0,0.212,0.913,125.069,4,rockabilly
+6KDG8vvFerlCU63IXdw1zb,Elvis Presley,Elvis 30 #1 Hits,Suspicious Minds,60,272360,False,0.542,0.722,7,-5.065,1,0.0262,0.0516,1.18e-05,0.131,0.609,115.21,4,rockabilly
+1KLpjQFgubHI3GkAICCNH3,Bobby Darin,The Ultimate Bobby Darin,Dream Lover,59,150706,False,0.526,0.774,5,-1.692,1,0.0459,0.715,0.0,0.437,0.715,131.715,4,rockabilly
+1sue5MiV1Uq7KInSM6UGTj,Elvis Presley,How Great Thou Art,In the Garden,51,190786,False,0.314,0.122,7,-16.931,1,0.0289,0.975,0.0065,0.108,0.119,73.104,3,rockabilly
+7ycFNferNuk6wAjBa0vWvl,The Diamonds,The Best Of The Diamonds,Little Darlin',59,129333,False,0.631,0.587,6,-11.402,1,0.042,0.536,0.29,0.333,0.664,152.851,4,rockabilly
+4ugBXQVxTzKLmdCRL7yRRa,Elvis Presley,"From Elvis Presley Boulevard, Memphis, Tennessee",Hurt,57,127453,False,0.607,0.479,2,-10.492,1,0.0273,0.894,0.668,0.182,0.587,111.368,3,rockabilly
+0snHlyyyUp2hKYEz7ffmkx,Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Never Be Anyone Else But You - Remastered,50,136266,False,0.577,0.45,0,-10.327,1,0.0352,0.127,7.28e-05,0.138,0.711,141.703,3,rockabilly
+1ew45xX9ESwKAlAVdS8KW3,Crazy Ken Band,樹影,夕だち,27,188975,False,0.69,0.778,8,-9.722,0,0.067,0.297,7.39e-05,0.122,0.93,93.959,4,rockabilly
+75aYHaHGXHopX2uS1cMbGd,COOLS,ゴールデン☆ベスト シングルス&モア:ポリスター・イヤーズ,紫のハイウェイ,27,155306,False,0.289,0.924,8,-3.97,1,0.0858,4.52e-05,0.0,0.194,0.654,82.24,4,rockabilly
+6UM5WX0bgEkcv1CzKWyacv,Pat Boone,Pat Boone's Greatest Hits (Reissue),Sugar Moon - Single Version,47,115200,False,0.463,0.0924,10,-16.966,1,0.0278,0.957,0.00508,0.135,0.333,70.343,4,rockabilly
+6akD1Z7Z568bR09rOnU0e2,BOØWY,BEAT EMOTION,DOWN TOWN SHUFFLE,28,210000,False,0.658,0.945,5,-5.457,1,0.038,0.0163,0.0,0.154,0.903,124.647,4,rockabilly
+3c4SjyAymkdkqlY0ebfJzK,BOØWY,MORAL,IMAGE DOWN,28,181845,False,0.718,0.967,9,-4.186,1,0.0508,0.0934,0.0,0.107,0.796,92.6,4,rockabilly
+4GqMYg91LJXiLjvQBFc3s0,Bobby Darin,Definitive Pop: Bobby Darin,Dream Lover - 2006 Remaster,55,151253,False,0.526,0.608,5,-6.855,1,0.0468,0.703,0.0,0.438,0.723,131.851,4,rockabilly
+5oeFEW0WGSGEdXMDKNI4z4,Johnny Burnette,Johnny Burnette's Hits And Other Favorites,"You're Sixteen, You're Beautiful (And You're Mine)",51,119026,False,0.431,0.352,2,-11.673,1,0.0313,0.816,0.0,0.066,0.693,76.412,4,rockabilly
+6xNwKNYZcvgV3XTIwsgNio,Elvis Presley,Elvis' Golden Records,Heartbreak Hotel,58,127560,False,0.696,0.21,4,-11.922,1,0.067,0.84,1.62e-06,0.107,0.717,93.543,4,rockabilly
+241A55np6HAqymEjP5CAiK,BOØWY,BEAT EMOTION,RUNAWAY TRAIN,28,201400,False,0.621,0.958,2,-6.018,1,0.0411,0.00995,0.00161,0.0833,0.797,74.937,4,rockabilly
+6A28sLdLOf9vohN5LVl5KR,Elvis Presley,Platinum - A Life In Music,All Shook Up,58,117360,False,0.688,0.468,10,-12.503,1,0.15,0.89,0.000134,0.177,0.946,74.832,4,rockabilly
+17AaJrwNCQxQ80lz6DBuEH,Eikichi Yazawa,Don't Wanna Stop (50th Anniversary Remastered),BIG BEAT - Remastered 2022,26,252320,False,0.589,0.84,10,-7.232,0,0.0526,0.00235,1.97e-05,0.0526,0.828,126.724,4,rockabilly
+6U7QjXYOaLJ741cIWPBTyN,Roy Orbison,The Essential Roy Orbison,I Drove All Night,59,226893,False,0.478,0.624,5,-11.16,1,0.0393,0.655,0.00197,0.114,0.579,138.708,4,rockabilly
+6QllOjKnpJiFxKI0jdRkv0,COOLS,GREAT SONGS of COOLS:村山一海 SELECTION ~Mr.ハーレー・ダビッドソン~,シンデレラ,27,179120,False,0.392,0.993,7,-1.623,1,0.0884,0.0128,1.26e-06,0.126,0.852,161.622,4,rockabilly
+6fZWjCUAwxLIwvO7iku6wY,Teddy & The Tigers,Boppin',Dancing Shoes - 2007 Remaster,27,127226,False,0.562,0.803,1,-10.498,1,0.0384,0.297,0.000772,0.118,0.928,93.449,4,rockabilly
+6fanIaSaXG4ZsB1zMcuKSn,Danny Cooltmoore,Sundsvall Blå,Sundsvall Blå,26,240026,False,0.622,0.941,11,-3.218,0,0.0379,0.00177,0.000383,0.0333,0.752,105.056,4,rockabilly
+6JJhNMv6JooXnN9rq9TBmZ,Link Wray;The Wraymen,Link Wray & the Wraymen,Slinky,28,154041,False,0.374,0.502,9,-12.131,1,0.0286,0.171,0.768,0.141,0.66,176.238,4,rockabilly
+2D6jFLPcSHZ8FaFpCipUgj,BOØWY,JUST A HERO,PLASTIC OCEAN,29,193626,False,0.636,0.833,0,-5.524,1,0.0356,0.0774,7.82e-05,0.25,0.963,207.054,4,rockabilly
+0ozqdYQjGNEAtcZnVheEiA,The Baseballs,The Sun Sessions,Hello,26,172451,False,0.579,0.867,9,-5.731,1,0.0413,0.158,0.0,0.257,0.909,146.051,4,rockabilly
+6xwqmrEshHeFlVI3hrc685,Los Vaguens,Hotel Acapulco,Penurias,27,198013,False,0.329,0.596,5,-11.17,1,0.0569,0.0179,0.00102,0.267,0.413,167.831,4,rockabilly
+3BLbvD1MnY0GiQHfOWcAJL,Mario Bradley,Rhythm Junction,Bip Bop Baby,26,131546,False,0.51,0.888,0,-8.709,1,0.206,0.77,0.0139,0.282,0.921,200.933,4,rockabilly
+1hIDTpCdDQ4yluhcOOZtYb,Texabilly Rockets,Raw & Wild,Outerspace Chick,26,144480,False,0.526,0.969,9,-2.738,1,0.0478,0.277,0.000126,0.319,0.872,88.322,4,rockabilly
+2I8FGJnNzD3aX9FFSVEhQo,Imelda May,Mayhem,Proud and Humble,27,240879,False,0.607,0.743,7,-5.771,1,0.0382,0.156,6.81e-05,0.389,0.615,179.989,4,rockabilly
+5c1VzSOm3aE4xOaVN7KgBd,Eva Eastwood,Det Bästa Med Eva Eastwood,I Wanna Party,27,185500,False,0.626,0.913,0,-6.633,1,0.042,0.538,5.85e-06,0.0868,0.896,139.968,4,rockabilly
+0jT0wvPNOhtvmEK2KJDCLg,Imelda May,Love Tattoo,It's Your Voodoo Working,25,192453,False,0.625,0.801,7,-5.179,0,0.0332,0.000516,0.00324,0.301,0.558,120.128,4,rockabilly
+4vaVOrCyqWKDosCS3Qr3mr,Batmobile,Bail set at $6M,Shoot shoot,26,204600,False,0.644,0.792,10,-10.694,0,0.0445,0.0062,0.000619,0.316,0.603,99.296,4,rockabilly
+2CWcO0kduKYfsSHY8E3Iml,The Blasters,The Blasters Collection,American Music,29,127680,False,0.448,0.873,4,-10.266,1,0.0545,0.00873,2.88e-05,0.347,0.968,192.572,4,rockabilly
+4mVwP9I1bUNC8fgJiHw83L,Toini & The Tomcats,Merry Christmas,The Moon's Blue Too,26,172280,False,0.556,0.525,7,-8.917,1,0.0288,0.0388,7.5e-06,0.332,0.701,128.951,4,rockabilly
+3XhRytKC9SRDvr5SajtSBS,Foggy Mountain Rockers,Dice in Flames / Angel Heart,Teenage Paradise,26,149946,False,0.743,0.937,4,-2.138,0,0.0597,0.169,0.0198,0.133,0.819,105.146,4,rockabilly
+7ItZM6DMZE2m1X7yIaRxjq,Eddie Cochran,12 Of His Biggest Hits,C’Mon Everybody,58,118226,False,0.627,0.7,3,-9.657,1,0.0522,0.121,0.0111,0.188,0.856,175.33,4,rockabilly
+3QslWf6jjw6f0by37Zrupd,Frankie Avalon,Venus,Bobby Sox to Stockings,29,159948,False,0.608,0.405,7,-12.973,0,0.031,0.781,0.0,0.263,0.617,117.758,4,rockabilly
+2VfvfFSVD1Ki0PH0Xd0jcv,Gerry & The Pacemakers,How Do You Like It? [Mono And Stereo Version],You'll Never Walk Alone - Stereo; 1997 Remaster,55,164173,False,0.48,0.235,0,-12.636,1,0.0318,0.172,4.56e-06,0.234,0.295,113.33,3,rockabilly
+7dgXB9Y5Aa0ScoDde0Jnmy,The Reverend Horton Heat,Liquor In The Front,In Your Wildest Dreams,27,178733,False,0.613,0.544,5,-10.269,0,0.0307,0.0886,0.0,0.229,0.548,123.475,4,rockabilly
+09eZrv3r5HwUNoVhKEtBjn,Toini & The Tomcats,Going Wild,Living on a Lie,26,196453,False,0.67,0.902,9,-5.141,1,0.0377,0.13,0.00035,0.13,0.774,113.448,4,rockabilly
+4MnA4DRfswvZjJXcplU8jB,Southern Culture on the Skids,Liquored Up and Lacquered Down,Drunk And Lonesome (Again),27,173264,False,0.732,0.639,7,-5.482,1,0.0453,0.485,0.000868,0.314,0.907,120.955,4,rockabilly
+0nfcnT5afUkGMbE1IiLRaI,Rebel Cats,Puro Cañonazo,La Célula Que Explota,27,182600,False,0.675,0.666,8,-7.185,0,0.0283,0.188,0.113,0.12,0.608,146.996,4,rockabilly
+6EuRU9AoOj1xgVme6YNBv8,The Playtones,Rock 'n Roll Dance Party,Dagny,27,201573,False,0.659,0.793,0,-6.971,1,0.0553,0.673,6.56e-06,0.128,0.961,158.31,4,rockabilly
+6z0tyKIUzITK4Avrd1ubOy,Fats Domino,The Complete Imperial Singles,I Hear You Knocking - Remastered 2002,29,116000,False,0.498,0.684,0,-4.813,1,0.0283,0.258,0.0,0.195,0.779,141.814,3,rockabilly
+5jftUou8uMmQ423cCM1p1k,John Lindberg Trio,Made For Rock N Roll,To The Rockabilly Beat,26,165026,False,0.542,0.914,1,-6.911,1,0.0477,0.00191,0.351,0.193,0.929,91.463,4,rockabilly
+4q9Y4zKvR0HwslCtO49kDm,Toini & The Tomcats,"Welcome to the Rock Garden, Vol. 2",A Million Smiles,26,177120,False,0.531,0.348,9,-7.58,1,0.0322,0.33,0.00043,0.204,0.263,115.289,4,rockabilly
+0zDGnnzRirZghHoaeqLinB,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),Love Is All Around,26,139880,False,0.597,0.703,2,-3.577,1,0.0335,0.332,0.0,0.121,0.646,121.572,4,rockabilly
+4k5q8y7J26urrLirp603xb,Southern Culture on the Skids,Liquored Up and Lacquered Down,King Of The Mountain,27,252865,False,0.592,0.885,4,-3.274,1,0.0334,0.0112,2.02e-05,0.13,0.964,139.678,4,rockabilly
+0xERMvJD8djz1ZBjPSRLvM,Don Gibson,RCA Country Legends: Don Gibson,Sea of Heartbreak,55,155040,False,0.59,0.586,7,-9.158,1,0.0344,0.422,4.46e-05,0.337,0.729,91.17,4,rockabilly
+3soRlZEyTtu69KNZ0ZPLoj,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Quién Puso el Bomp (Who Put the Bomp),28,145133,False,0.443,0.578,9,-9.951,1,0.0331,0.715,0.0,0.295,0.918,90.208,4,rockabilly
+6qs3dE67YKcxBX89d1Y3tJ,John Lindberg Trio,Made For Rock N Roll,A Young Girls Heart,25,221306,False,0.665,0.855,2,-6.069,0,0.0287,0.0331,0.00308,0.261,0.899,107.494,4,rockabilly
+2DQ5r0crvortwaNRYcninK,Elvis Presley,Elvis,Love Me,55,163786,False,0.505,0.11,5,-12.936,1,0.0317,0.952,0.0,0.125,0.167,72.115,4,rockabilly
+1yLsZ8fuQJqk2cm1VDWTGb,Connie Francis,Gold,You're Gonna Miss Me,53,164413,False,0.327,0.262,5,-9.49,1,0.0446,0.85,0.0,0.193,0.421,190.806,3,rockabilly
+4tlaJa7CjOTsLSwqYkk2cV,Elvis Presley,Walk a Mile in My Shoes: The Essential '70s Masters,My Way,53,273893,False,0.516,0.271,0,-12.138,1,0.0267,0.864,0.037,0.171,0.207,102.036,3,rockabilly
+2M4WuxWd3KpTDV3QnID6aI,Ray Peterson,Missing You,The Wonder of You,50,157933,False,0.158,0.479,5,-7.554,1,0.0336,0.358,9.09e-06,0.101,0.319,73.192,4,rockabilly
+3E5ndyOfO6vFDEIE42HA8o,Bobby Darin,That's All,Mack the Knife,62,184333,False,0.549,0.529,3,-12.291,0,0.108,0.76,0.0,0.206,0.464,82.755,4,rockabilly
+2wLfMh5e1tX9ift0PbLhkZ,Cliff Richard & The Shadows,40 Golden Greats,Theme for a Dream,28,126240,False,0.74,0.201,7,-16.658,1,0.0541,0.887,0.0,0.306,0.694,118.59,4,rockabilly
+2cdzutoqFK6sfW6exi7oXh,Elvis Presley,Elvis 30 #1 Hits,Return to Sender,55,128306,False,0.838,0.616,8,-6.502,1,0.0433,0.575,0.0,0.0785,0.971,131.719,4,rockabilly
+72ZMVgIzYIBoIVc8gVieYQ,Eikichi Yazawa,永吉 (50th Anniversary Remastered),GET UP - Remastered 2022,26,230600,False,0.653,0.932,9,-6.428,1,0.0451,0.17,4.94e-06,0.11,0.721,122.079,4,rockabilly
+0IHYNEHVT1zMEeNOgvyg9B,Chuck Berry,Fresh Berry's,My Mustang Ford,53,136546,False,0.621,0.759,0,-10.235,1,0.0335,0.384,0.118,0.336,0.977,162.92,4,rockabilly
+04qaYqfGL8lYP9SRdKGLX6,Crazy Ken Band,SOUL電波,タオル,26,274666,False,0.581,0.842,8,-3.843,1,0.0398,0.231,0.0,0.31,0.609,89.03,4,rockabilly
+1mPt6pPmOcVYFsVqT2N03V,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Don't Be Cruel,54,122866,False,0.68,0.675,2,-7.998,1,0.191,0.772,0.0,0.069,0.805,84.967,4,rockabilly
+1KBfjGjPKMgbxKxFFzJtDw,BOØWY,BEAT EMOTION,DRAMATIC? DRASTIC!,27,257773,False,0.676,0.725,5,-7.358,1,0.044,0.0234,0.000192,0.109,0.853,130.83,4,rockabilly
+40OldtTNXlKvHeqfgNUKth,Eduardo Araujo,O Bom,O Mundo A Teus Pes,27,176053,False,0.445,0.506,9,-8.029,0,0.0349,0.0109,0.0,0.0653,0.437,124.378,4,rockabilly
+2Lf1k4m4ZSciPF3GLbXOkO,COOLS,GREAT SONGS of COOLS:村山一海 SELECTION ~Mr.ハーレー・ダビッドソン~,ミスター・ハーレー・ダビットソン,27,258453,False,0.308,0.877,5,-3.76,1,0.0494,0.0129,0.0,0.202,0.705,173.292,4,rockabilly
+4Y9x59A25BP1UHfGUhG6hM,The Baseballs,Game Day (Deluxe Edition),Diamonds,26,178803,False,0.691,0.788,6,-5.552,0,0.0884,0.548,0.0,0.12,0.864,110.018,4,rockabilly
+6uJXOi796U1D8iW9fj2ZGn,Wanda Jackson,The Capitol Singles 1959-1961,Funnel Of Love,56,128426,False,0.6,0.593,0,-9.799,1,0.0452,0.726,0.0,0.399,0.912,134.979,4,rockabilly
+2VGkf2IJXOSWouDhatlH3i,Elvis Presley,Aloha from Hawaii Via Satellite (Live),My Way - Live at the Honolulu International Center,56,241880,False,0.284,0.253,0,-14.6,1,0.0347,0.712,0.353,0.69,0.292,81.575,4,rockabilly
+5z2Gef9D3UgRquZXe7UUW4,Bill Haley & His Comets,Rock Around The Clock,"Shake, Rattle And Roll",54,149466,False,0.662,0.794,5,-6.942,1,0.152,0.206,0.0,0.149,0.841,168.106,3,rockabilly
+3CPwJFhSDB7xzyCU5NLAY3,Eikichi Yazawa,FLASH IN JAPAN (50th Anniversary Remastered),TAKE IT TIME - Remastered 2022,26,260493,False,0.595,0.828,6,-8.879,0,0.0512,0.0696,4.03e-06,0.0575,0.76,163.912,4,rockabilly
+3VWzxuO5Z7hQojEAxysjeG,Jumpin'up,Swing It Again,Un bacio a mezzanotte,26,164746,True,0.507,0.583,8,-7.481,1,0.137,0.456,7.27e-06,0.0823,0.966,203.75,4,rockabilly
+4MbqzK2Oa7B9UE8KvYqv35,COOLS,GREAT SONGS of COOLS:横山剣 SELECTION ~シンデレラ・リバティ~,CINDERELLA LIBERTY,26,256440,False,0.516,0.917,11,-3.549,1,0.0341,0.0438,0.0,0.402,0.81,122.489,4,rockabilly
+2ImKaI1sWJbcx6TagSR9tz,The Platters,The Best Of The Platters,Heaven On Earth,28,154000,False,0.471,0.328,3,-10.358,1,0.0301,0.529,0.0,0.124,0.579,111.946,3,rockabilly
+3fxThbBnb37RSkDyb7RDaI,The Baseballs,Game Day,Let It Go,26,204500,False,0.531,0.713,4,-6.671,1,0.0894,0.138,0.0,0.221,0.692,167.846,4,rockabilly
+5JgQc2DNO8tNayPNs8z9Ek,Si Cranstoun,Old School,Vegas Baby,26,198946,False,0.714,0.784,2,-5.201,1,0.0946,0.501,0.0,0.25,0.965,157.009,4,rockabilly
+2YdPpZv37DgAaDjLYvohfm,The Baseballs,Strings 'n' Stripes Live,Torn - Live,26,244040,False,0.443,0.445,9,-9.544,1,0.0515,0.734,5.87e-06,0.669,0.351,83.398,4,rockabilly
+0qn89mS4HFZCkN7Urj0E5T,Imelda May,Mayhem,All For You,25,170546,False,0.712,0.581,0,-5.635,0,0.0326,0.438,4.15e-05,0.096,0.551,119.854,4,rockabilly
+4bzvhZFlV9UqQ3EmV2i8s4,Connie Francis,Gold,Who's Sorry Now,54,136626,False,0.522,0.326,3,-6.448,1,0.0273,0.755,2.26e-05,0.36,0.443,87.535,4,rockabilly
+7GAbVjDjHUyNyL8x8WvLGI,The Baseballs,Game Day,Goodbye Peggy Sue,26,184095,False,0.662,0.838,2,-6.136,0,0.0507,0.112,0.0,0.0871,0.797,110.979,4,rockabilly
+3PSktGTav6MwuDI8Tw0mfI,Webb Wilder,About Time,Looking For A Fool,26,196106,False,0.675,0.417,11,-8.23,1,0.0265,0.741,0.00879,0.0722,0.54,104.103,4,rockabilly
+24VOjsqObY6Nh0WStwCQWG,João Gordo,Fuscão Preto,Fuscão Preto,25,157013,False,0.524,0.957,1,-7.133,0,0.0448,0.00484,4.56e-05,0.164,0.833,129.99,4,rockabilly
+6mRKpKiWCZlZjINeHwRcHa,The Baseballs,Hot Shots,Ghostbusters,26,211546,False,0.58,0.913,11,-5.361,0,0.0459,0.32,3.03e-05,0.571,0.871,116.974,4,rockabilly
+1oodUql6aDnKoA6iRs1PfJ,João Gordo,Brutal Brega,Fuscão Preto,26,157013,False,0.524,0.957,1,-7.133,0,0.0448,0.00484,4.56e-05,0.164,0.833,129.99,4,rockabilly
+2tF7MJUcoQV1QCMQhSQagY,The Polecats,The Best Of Polecats,Make A Circuit With Me,26,175612,False,0.436,0.95,0,-6.63,0,0.184,0.000867,0.249,0.244,0.599,188.008,4,rockabilly
+5vHBFQGi6CZGR5RuBx8zjb,The Baseballs,Strings 'n' Stripes (Deluxe Edition),California Gurls,26,252251,False,0.615,0.764,3,-6.41,1,0.0468,0.79,1.54e-06,0.184,0.675,128.078,4,rockabilly
+6HVtjbLoKFaqhuyqXyv7cU,The Roaring Cadillacs,Fest hos Errol (med Eddie Meduzas kompband),Kom ner från taket,26,153440,False,0.526,0.901,0,-5.882,1,0.181,0.0409,0.0,0.284,0.786,92.465,4,rockabilly
+6EkeTn530FSyUGdoC7ZpoL,Connie Francis,The Ultimate Collection,Among My Souvenirs,27,151693,False,0.464,0.447,9,-6.15,1,0.0266,0.464,2.9e-05,0.165,0.466,109.081,3,rockabilly
+65oGRCTLH20vPKtqmimyqN,Eduardo Araujo,O Bom,Vem Quente Que Eu Estou Fervendo,27,149520,False,0.569,0.78,9,-5.808,1,0.0707,0.0383,0.0,0.0907,0.64,151.116,4,rockabilly
+7b8LnYkdkK7BlLptuGmSvO,The Drifters,Drift and Dream,Up on the Roof,28,155973,False,0.673,0.483,8,-11.485,1,0.0298,0.452,6.49e-06,0.353,0.888,123.335,4,rockabilly
+4TBBPZks71c60whhq0PgdP,Jackie Wilson,The Ultimate Jackie Wilson,(Your Love Keeps Lifting Me) Higher & Higher,65,181066,False,0.631,0.69,2,-6.676,1,0.0531,0.176,0.0,0.121,0.938,94.574,4,rockabilly
+47bpESmD4V4h443XcPRice,The Playtones,It's Alright (Deluxe Version),Volvo 142,26,132946,False,0.664,0.858,9,-5.654,1,0.035,0.518,0.000643,0.347,0.925,148.959,4,rockabilly
+4LcrHUkRmXG3c0YD5VYutn,Danny & The Juniors,Rockin' With Danny And The Juniors (Expanded Edition),At The Hop,59,150866,False,0.407,0.826,8,-8.29,1,0.0495,0.693,1.57e-05,0.285,0.891,192.21,4,rockabilly
+4nDX8rpWNCMIfZjENIkXVx,Toini & The Tomcats,Traction,Crooked,26,155320,False,0.51,0.96,4,-6.22,0,0.0938,0.0148,0.00275,0.375,0.609,101.293,4,rockabilly
+1ZFlkbk4r0Eo1kWPjQDx0J,Toini & The Tomcats,Going Wild,Only One,25,196853,False,0.339,0.879,4,-3.532,1,0.062,0.343,0.0,0.165,0.603,140.051,4,rockabilly
+1Ti3pN8KirXqwX5BwxXAKF,The Delta Bombers,Pressure and Time,Jump Back Baby,25,179920,False,0.385,0.958,8,-4.013,1,0.123,0.479,0.000152,0.0215,0.835,171.593,4,rockabilly
+0hwn115SSdnVqoom1qggQF,Los Teen Tops,La Plaga,El Rock de la Carcel,28,139624,False,0.628,0.476,2,-8.174,1,0.0512,0.665,0.00273,0.0576,0.645,90.314,4,rockabilly
+6Xlnhht2brHigHH9qaXMQW,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Pensaba en Ti,28,203893,False,0.492,0.319,9,-11.747,1,0.0319,0.703,0.0,0.125,0.536,108.385,3,rockabilly
+3Z5OBLvs1eFCr53YGqhQJG,Los Teen Tops,Serie De Colección 16 Autenticos Exitos,Lucila - Lucille (Remasterizado),26,173800,False,0.397,0.963,0,-7.589,1,0.0548,0.701,0.00122,0.392,0.602,154.114,4,rockabilly
+2x6pbpjVGjiWCcH89IK8AX,Neil Sedaka,Circulate (Expanded Edition),Breaking Up Is Hard to Do,57,139200,False,0.743,0.799,8,-5.466,0,0.0375,0.699,0.0,0.0635,0.965,116.112,4,rockabilly
+0Vy5Xw0ldSYuKHcTayt1bE,Los Teen Tops,Teen Tops,Muchacho Triste y Solitario (Lonely Blue Boy),28,166546,False,0.323,0.376,11,-15.845,1,0.0285,0.66,0.0,0.723,0.365,91.355,3,rockabilly
+1DZIgXipOf51JmJ1Zp2iWD,John Lindberg Trio,Hell Of A Ride (Bonus Track Version),Here I Go Again (Bonus Track),26,176179,False,0.558,0.88,2,-7.861,1,0.054,0.00945,1.95e-05,0.0851,0.693,146.02,4,rockabilly
+0VE4ayVlGs5DBoqOdgJ0Zv,Ritchie Valens,Ritchie Valens,Donna - Single Version,57,150973,False,0.472,0.225,5,-12.581,1,0.0263,0.864,0.0,0.111,0.29,100.299,3,rockabilly
+4cRfSR0QxDlXRHTKyEOu93,Ritchie Valens,Ritchie Valens,"Come On, Let's Go",58,124586,False,0.616,0.724,9,-8.101,1,0.042,0.788,3.16e-06,0.128,0.809,81.402,3,rockabilly
+0kY5UKJr6HJHYL8bFuam9s,Dion,Runaround Sue (Original Album Plus Bonus Tracks),Runaround Sue,44,172786,False,0.469,0.6,2,-9.445,1,0.0783,0.321,0.0,0.0596,0.653,158.348,4,rockabilly
+73m8WuJlhzVusTVzJCGaDZ,Elvis Presley,Elvis Is Back,Fever,54,212920,False,0.711,0.0939,1,-21.255,1,0.0486,0.742,0.0644,0.112,0.392,61.657,4,rockabilly
+6rIO7NYAGzLavmQViqelcG,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),She's Not You,54,129026,False,0.56,0.406,5,-10.079,1,0.0339,0.845,0.000985,0.148,0.664,115.008,4,rockabilly
+6eLL7QTdMWdhhG4i3jHDR9,Roy Orbison,Crying,Crying,59,166466,False,0.35,0.293,2,-9.502,1,0.0258,0.758,8.21e-06,0.104,0.162,96.685,4,rockabilly
+5MvSzIw42V8I8Uk0xTMnj5,THE MODS,FIGHT OR FLIGHT,TWO PUNKS,26,293560,False,0.584,0.763,2,-11.476,1,0.0723,0.0257,3.61e-06,0.33,0.66,79.357,4,rockabilly
+0tPLecvcusN5pIphE1BQur,João Gordo;Marisa Orth,Brutal Brega,Não Se Vá,25,204000,False,0.541,0.859,4,-6.023,1,0.0414,0.00581,0.0,0.452,0.699,135.027,4,rockabilly
+59Wo0nrfki4N7lflMgl8u8,Crazy Ken Band,GT,G.T.,25,262760,False,0.634,0.943,6,-4.402,1,0.172,0.0118,2.22e-06,0.0808,0.742,162.818,4,rockabilly
+7KCH88irjIT54TsDbP23GP,Elvis Presley,The Best of The '68 Comeback Special (Live),Trying To Get To You - Second 'Sit-Down' Show - Live,53,177893,False,0.25,0.641,4,-10.52,1,0.0516,0.844,0.266,0.958,0.676,92.833,4,rockabilly
+1vooOVcSqqxHtvz3b1BnQN,BOØWY,MORAL,ON MY BEAT,27,138200,False,0.477,0.959,9,-4.121,1,0.232,0.0901,0.0,0.138,0.623,135.864,4,rockabilly
+3bLuiLSi7aYHTSABCQxdbb,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Jailhouse Rock,55,155333,False,0.636,0.672,10,-6.788,0,0.0637,0.314,5.03e-06,0.0688,0.895,166.905,4,rockabilly
+34AmZ4PMz9iNZVp9AMIGZj,Bill Haley & His Comets,Biggest Hits,Rock Around The Clock,53,137000,False,0.609,0.526,9,-13.106,1,0.43,0.139,0.0,0.0946,0.93,173.179,4,rockabilly
+6zahbizoDqcpCbXkDhe4Er,Johnnie Ray,16 Most Requested Songs,Just Walkin' in the Rain,52,157240,False,0.638,0.188,5,-16.788,1,0.0363,0.87,0.0,0.0739,0.693,97.189,4,rockabilly
+5UDan8x6RrtoXHpEexwzcx,BOØWY,PSYCHOPATH,FANTASTIC STORY,27,232560,False,0.563,0.894,9,-5.675,1,0.0333,0.00347,0.00462,0.226,0.59,147.563,4,rockabilly
+5ySeilYrLzw6qy7JDmUB95,BOØWY,JUST A HERO,ROUGE OF GRAY,27,172106,False,0.747,0.959,1,-5.02,0,0.0619,0.288,0.00113,0.328,0.799,132.21,4,rockabilly
+7qEc8nbrfXwlN8MkjzAxQn,Josie Kreuzer,Hot Rod Girl,Ball That Jack,24,127033,False,0.624,0.807,9,-8.122,1,0.0416,0.0189,0.000898,0.318,0.96,120.616,4,rockabilly
+1VCk5EBNnPlimjTMY2WQuj,Elvis Presley,Elvis Presley: The Searcher (The Original Soundtrack) [Deluxe],It's Now or Never,25,195813,False,0.644,0.438,4,-12.168,1,0.0379,0.508,0.000211,0.494,0.775,126.204,4,rockabilly
+4DEtJVdtgva5Ms1U5uzVYK,Eikichi Yazawa,情事 (50th Anniversary Remastered),SOMEBODY'S NIGHT - Remastered 2022,25,229040,False,0.635,0.838,7,-9.912,1,0.0595,0.262,0.000168,0.0967,0.692,120.261,4,rockabilly
+06JokgprGDKrtZ1eP6z2CQ,Bobby Vee,Take Good Care Of My Baby,Take Good Care Of My Baby,55,149800,False,0.487,0.441,1,-11.297,1,0.0722,0.761,0.0,0.15,0.604,82.707,4,rockabilly
+5LtcgqtM9HE9faSEOJg4EB,Chubby Checker,Best of Rock 'n' Roll Music: 100 Originals from the 50s & 60s,Let's Twist Again - Radio Version,51,145786,False,0.617,0.732,3,-6.799,1,0.0362,0.0468,2.29e-06,0.0537,0.968,160.185,4,rockabilly
+0gT8byqkK1ScRNgppCF0tI,Eikichi Yazawa,YAZAWA It's Just Rock'n Roll (50th Anniversary Remastered),ROCKIN' MY HEART - Remastered 2022,25,226533,False,0.646,0.881,0,-7.635,1,0.0501,0.113,0.0,0.0948,0.885,136.621,4,rockabilly
+22Z6ClJxSRovjPiswfCg3V,Elvis Presley,Fun in Acapulco,Bossa Nova Baby,55,122760,False,0.755,0.736,0,-9.594,1,0.107,0.657,0.0,0.226,0.953,106.777,4,rockabilly
+4qbLOU1T7xgTH87eUSkvJ1,Elvis Presley,Elvis 30 #1 Hits,(Marie's The Name) His Latest Flame,55,127093,False,0.661,0.917,4,-6.329,0,0.0375,0.565,0.00202,0.134,0.893,105.289,4,rockabilly
+054qLeg034PXr1wM3DMstk,Cliff Richard & The Shadows,Summer Holiday,Summer Holiday - 2003 Remaster,47,129333,False,0.601,0.467,4,-10.041,1,0.0263,0.716,0.0,0.135,0.66,129.578,4,rockabilly
+4rkv812lQ9utiRQ9EMLIKb,The Platters,The Very Best Of The Platters,I'm Sorry,27,172013,False,0.436,0.26,0,-10.008,1,0.0354,0.903,0.0,0.314,0.34,109.749,3,rockabilly
+7w9s71v9Q5ifH46apOqA07,Rockin' Ryan & The Real Goners,Cry of Midnight,Headstone Rock,24,113173,False,0.646,0.979,1,-1.656,1,0.0892,0.616,0.0,0.0875,0.92,102.721,4,rockabilly
+4jxECEYsKkWBDdAzZSR7kP,Imelda May,No Turning Back,Till I Kissed You,24,160933,False,0.761,0.546,9,-9.699,1,0.0879,0.278,0.0,0.351,0.815,140.737,4,rockabilly
+6esMo8iWS3YrPxFp6K3FuK,Midnight Teds,Tonight We Gonna Raise the Flag,Heaven For a Ted,25,266416,False,0.401,0.917,4,-3.764,1,0.0564,0.156,5.45e-05,0.11,0.653,117.354,4,rockabilly
+4fV0JX8psOmXACNG4Gd3JZ,Shakin' Stevens,The Bop Won't Stop,A Love Worth Waiting For,43,202013,False,0.659,0.882,3,-4.304,1,0.0307,0.0424,2.03e-06,0.114,0.922,130.697,4,rockabilly
+2OqzR7I7GF19T2qPrbmYQC,Cliff Richard & The Shadows,Radio Gold - Cliff Richard And The Shadows,Living Doll,47,156793,False,0.599,0.481,9,-7.412,1,0.0467,0.501,0.0,0.0982,0.772,62.573,4,rockabilly
+7ucgcKHb0r9orpwBeqF0MV,The Brian Setzer Orchestra,Vavoom,'49 Mercury Blues,26,170800,False,0.437,0.947,4,-4.537,0,0.149,0.024,1.59e-05,0.0887,0.74,184.249,4,rockabilly
+3dFyht4qagMu8Q2Ewoj9Wg,Guana Batz,Held Down….At Last!,King Rat,25,158440,False,0.464,0.981,2,-7.294,1,0.0838,0.65,1.73e-06,0.0826,0.311,150.657,4,rockabilly
+5j8N5O7ZOOGtGFFdiqN1si,Bobby Rydell,Swingin' 60's,Volare,28,146066,False,0.498,0.648,9,-6.355,0,0.0339,0.596,0.0,0.094,0.904,130.014,4,rockabilly
+7E8osPOfj1L5OjlMCFC3aD,The Baseballs,Game Day,Royals,25,175124,False,0.716,0.86,1,-5.512,1,0.0738,0.513,8.35e-06,0.356,0.94,109.0,4,rockabilly
+33kSQpLXzz9S99OwfjYcO1,Johnnie Ray,I Cry For You,Somebody Stole My Gal,28,140573,False,0.776,0.315,8,-11.6,1,0.0513,0.89,4.94e-05,0.23,0.72,108.864,4,rockabilly
+7FttgFSnOO5xwljvtGDxv1,The Delta Bombers,Save Me,Save Me,25,191957,False,0.583,0.662,6,-11.258,1,0.0274,0.375,0.346,0.314,0.784,116.614,4,rockabilly
+4F5np0vOU7CCFCE0mRLfnh,The Fastback,Keep on Rockin',Maybe,25,212520,False,0.456,0.879,7,-6.04,1,0.0413,0.761,2.62e-05,0.0794,0.967,165.168,4,rockabilly
+4hurKoJaOsZHfHiI4feGyy,Gene Vincent & His Blue Caps,Gene Vincent And The Blue Caps,Double Talkin' Baby,25,132800,False,0.516,0.863,9,-7.027,1,0.0635,0.728,0.0,0.287,0.724,103.328,4,rockabilly
+59UOja5WPlavqP10fZPlnX,Hillbilly Hellcats,Hotter Than Hell... An Injection of Psychobilly Madness,Hillbilly Cats on Speed,25,153360,False,0.351,0.986,6,-5.64,0,0.0711,0.0165,0.00399,0.263,0.712,157.814,4,rockabilly
+6h2PUzWuKwAMhYRxL3hqds,Gene Vincent & His Blue Caps,Dance To The Bop,Important Words,26,143160,False,0.397,0.206,7,-14.353,1,0.0314,0.784,0.0,0.165,0.356,116.278,3,rockabilly
+5xeZDsYEOaBWAAFexDACba,Los Pandilleros,Soy Pandillero,Soy Pandillero,25,224151,False,0.522,0.873,9,-6.33,0,0.0599,0.00183,9.27e-06,0.822,0.519,82.503,4,rockabilly
+7wOWWIO2Nyo8u9cOtSSFAv,Los Teen Tops,Los Grandes Años del Rock Vol. I,El Gato Loco,27,101575,False,0.686,0.821,7,-5.991,1,0.242,0.296,0.0,0.1,0.961,160.873,4,rockabilly
+62Bedx2oyQoT4jtAlOwb1y,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Rey Criollo - King Creole,27,120666,False,0.421,0.869,4,-6.517,1,0.0591,0.376,1.57e-06,0.0369,0.894,91.043,4,rockabilly
+3pTHO0Q5QlixCL2eGbx1kl,Rebel Cats,La Dosis Perfecta,La Dosis Perfecta,26,201133,False,0.64,0.938,5,-5.13,0,0.0874,0.0491,3.42e-05,0.0971,0.899,154.973,4,rockabilly
+07NJ2eXCV8M18Xm9GMgsqJ,Toini & The Tomcats,"Welcome to the Rock Garden, Vol. 2",Troubled Mind,25,253106,False,0.589,0.81,4,-4.307,1,0.0307,0.0779,5.46e-06,0.0378,0.793,136.263,4,rockabilly
+7dPlZZgp0zJzrZAYFnQq9S,Hillbilly Rawhide,Ten Years On the Road,"Uma Cerveja, Uma Cachaça E Um Remedinho",26,224826,True,0.443,0.965,9,-5.256,1,0.142,0.258,8.25e-06,0.771,0.669,195.973,4,rockabilly
+4dVS8rOylV1IMwn0HsQPDH,Southern Culture on the Skids,Dirt Track Date,Fried Chicken And Gasoline,25,257306,False,0.593,0.917,11,-5.529,0,0.0275,0.0293,0.606,0.265,0.939,135.275,4,rockabilly
+2EylEfBPBiBMZ3HnSk6Fn5,Elvis Presley,Aloha from Hawaii via Satellite (Legacy Edition),"Fever - Live at The Honolulu International Center, Hawaii January 14, 1973",25,169773,False,0.638,0.19,0,-19.574,0,0.129,0.695,0.446,0.673,0.279,115.311,4,rockabilly
+5X28P6dOXwmvWhm0z06xVa,Duane Eddy,The Birth of a Guitar Legend,The Girl on Death Row,27,171306,False,0.499,0.266,7,-12.427,0,0.0287,0.477,0.028,0.342,0.445,108.576,4,rockabilly
+5Qkixf9OjJp5a4XphaONKO,Elvis Presley,Elvis 30 #1 Hits,Surrender,44,112226,False,0.454,0.666,3,-8.193,1,0.0379,0.758,2.89e-05,0.275,0.894,82.61,4,rockabilly
+1odzZRPb3CvbIT2xU5vFma,Frankie Avalon,25 All-Time Greatest Hits,Venus,48,143760,False,0.605,0.434,10,-12.976,1,0.0298,0.538,2.41e-05,0.0804,0.837,114.983,4,rockabilly
+30QIN4fNF6kGGyNyIi3vhy,Billy Fury,The 40th Anniversary Anthology,Wondrous Place - Single Version,51,144173,False,0.674,0.496,9,-8.936,1,0.038,0.826,0.0,0.0862,0.387,115.097,4,rockabilly
+5PwZqDdJmDqF25solWayeR,The Shadows,The Original Chart Hits 1960-1980,Sleepwalk,47,169000,False,0.655,0.289,0,-12.479,1,0.0499,0.843,0.88,0.097,0.432,93.314,3,rockabilly
+3sBpwAkBOUKyATRbzrjujG,Eikichi Yazawa,ドアを開けろ (50th Anniversary Remastered),チャイナタウン - Remastered 2022,24,241160,False,0.648,0.619,9,-10.744,0,0.0412,0.226,3.92e-05,0.055,0.754,125.599,4,rockabilly
+3htVOUt4zoFthJhqtJMGTo,Elvis Presley,The Essential Elvis Presley,Blue Suede Shoes - Remastered,49,119600,False,0.545,0.714,2,-5.659,1,0.0562,0.675,2.52e-06,0.121,0.952,94.784,4,rockabilly
+4wrqtbZb8NsVwkKrsEDEBG,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),I'm Coming Home (Film Mix),55,143880,False,0.511,0.831,5,-8.53,1,0.0351,0.456,0.206,0.173,0.74,93.241,4,rockabilly
+0xLuApPQoEmMIx7VKE1QS8,Cliff Richard & The Shadows,40 Golden Greats,Bachelor Boy,35,122200,False,0.413,0.499,2,-10.709,1,0.0332,0.639,0.0,0.084,0.852,200.541,3,rockabilly
+5ayybTSXNwcarDtxQKqvWX,Ricky Nelson,Ricky Nelson (Expanded Edition / Remastered),Poor Little Fool - Remastered,53,153933,False,0.474,0.338,0,-11.528,1,0.0299,0.648,0.0,0.13,0.81,154.596,4,rockabilly
+6d7Jz2np6jtNaZv1DiWfJs,Charlie Rich,Love Songs,Behind Closed Doors,55,174666,False,0.492,0.329,2,-11.788,1,0.0274,0.961,0.199,0.0955,0.589,85.196,4,rockabilly
+2tofXDrli8EbbsM7bZflXq,BOØWY,PSYCHOPATH,PSYCHOPATH,26,285093,False,0.792,0.818,5,-5.783,1,0.0406,0.00787,0.014,0.0716,0.742,128.543,4,rockabilly
+760clbeDBWmBsBLbszWuNZ,Bo Diddley,Bo Diddley,I'm A Man,56,164546,False,0.513,0.546,0,-15.672,1,0.0391,0.333,0.0,0.17,0.834,85.527,4,rockabilly
+3gSSqGBeRMIixptaR0IhbV,The Barnshakers,Five Minutes To Live,Nature's Goodness,24,133546,False,0.712,0.88,7,-4.541,1,0.0365,0.198,0.000438,0.107,0.858,92.547,4,rockabilly
+3sjF3ik9IkWZrBVw3IpfNs,Eikichi Yazawa,STANDARD ~THE BALLAD BEST~ (50th Anniversary Remastered),"アイ・ラヴ・ユー,OK - Live at 東京ドーム'18 - Remastered 2022",24,262079,False,0.603,0.582,8,-8.917,1,0.0367,0.041,0.000341,0.959,0.403,114.066,3,rockabilly
+1e4URAY17wNJAk9zoV4aBq,João Gordo,Brutal Brega,A Namorada Que Sonhei,24,131826,False,0.533,0.735,9,-7.932,0,0.0341,0.00356,0.0,0.302,0.786,104.939,4,rockabilly
+5DwcKHWuKpR3BIDTqe9hkn,Link Wray,Presenting Link Wray,Rumble,52,145920,False,0.552,0.623,9,-9.86,1,0.0361,0.238,0.000647,0.476,0.629,85.071,4,rockabilly
+406RedcyUEOwpVQSM1cpsh,Johnny Tillotson,Johnny Tillotson's Best,Why Do I Love You So,41,125000,False,0.539,0.144,8,-16.424,0,0.0328,0.982,0.00132,0.162,0.543,76.442,4,rockabilly
+4IYyGIbMS5ZkxDXGfPIrXr,The Del-Vikings,Come Go With Me: The Best Of The Del-Vikings,Come Go With Me,61,162293,False,0.566,0.534,5,-9.416,0,0.0409,0.713,0.0,0.0883,0.582,129.69,4,rockabilly
+75lHbRGAZ30m8wjFIXFfMu,Runaway Boys,Too Shy,Keep Cool,24,195240,False,0.686,0.832,9,-7.589,1,0.0292,0.143,0.0,0.114,0.841,112.772,4,rockabilly
+1tY8PhIOqDTx1GHDEhSuxh,Connie Francis,The Collection,Lipstick On Your Collar,45,136573,False,0.526,0.931,7,-6.723,1,0.0526,0.342,9.91e-05,0.271,0.929,165.365,4,rockabilly
+0r7WXHi71IJQXCSlKUNLfB,Snakebite,Explosive Rock'n'roll No. 2,Little Ace,24,185471,False,0.657,0.956,5,-3.442,0,0.0668,0.0848,0.493,0.156,0.798,91.574,4,rockabilly
+1gKNucDIa31ex2cRP49vPG,João Gordo,Brutal Brega,Tenho,24,137026,False,0.52,0.915,0,-6.155,1,0.0824,0.00726,0.0,0.347,0.815,175.011,4,rockabilly
+7lEB9zJVSZjohbGGfiFsc6,The Brian Setzer Orchestra,Vavoom,Jumpin' East Of Java,25,182666,False,0.318,0.941,10,-4.921,0,0.164,0.00262,5.46e-05,0.128,0.547,203.888,4,rockabilly
+1Apr0ZQevjzuVxGxF2aAva,Bob & Lucille,Eeny Meeny Miney Moe,The French Song,23,175173,False,0.401,0.273,1,-10.344,1,0.0269,0.861,8.27e-05,0.163,0.373,98.212,4,rockabilly
+6hgY1l6EqrfrHRNrxwKRiK,The Everly Brothers,A Date with The Everly Brothers,Love Hurts - 2007 Remaster,50,142306,False,0.65,0.246,6,-16.171,1,0.0263,0.846,5.07e-06,0.186,0.539,91.04,4,rockabilly
+3kt71HMQTfKNcwaZNGh1Ki,Hillbilly Hellcats,Rev it up with Taz,Dead Man's Party,24,151773,False,0.447,0.965,4,-6.894,0,0.0611,0.00201,0.491,0.0967,0.916,113.004,4,rockabilly
+3XJtlzhTO9X9Rizv7ZQf46,The Baseballs,Strike! Back,Last in Line,24,190280,False,0.616,0.909,0,-4.419,1,0.0327,0.0679,4.66e-06,0.452,0.879,102.49,4,rockabilly
+4RN1hrcYYPOQ16QJJfWYMf,The Baseballs,Umbrella,Bleeding Love,24,232946,False,0.403,0.6,9,-9.199,1,0.11,0.596,0.0,0.349,0.832,78.084,4,rockabilly
+7FMXSSzIRW8aJwUPfzXsa2,Roy Orbison,Mystery Girl,She's a Mystery to Me,52,254960,False,0.431,0.485,0,-11.844,1,0.0279,0.0326,0.27,0.157,0.699,177.329,4,rockabilly
+60HibhiSF8eBC2w4DWgorI,Loquillo,Heroes De Los 80,Cadillac solitario,55,214560,False,0.393,0.828,11,-4.147,0,0.0332,0.0746,0.00192,0.148,0.473,129.743,1,rockabilly
+1a9EyBydOYhE7SGSodUIjP,"Clarence ""Frogman"" Henry","Ain't Got No Home: The Best Of Clarence ""Frogman"" Henry (Reissue)",(I Don't Know Why) But I Do,55,141200,False,0.662,0.535,10,-5.457,1,0.027,0.563,0.0,0.125,0.83,109.695,4,rockabilly
+2nnGYUALBrnD0w7gs2eO2m,Toini & The Tomcats,Awake at Night,Chance to Find Me,25,163386,False,0.522,0.804,0,-5.451,1,0.112,0.552,7.52e-05,0.26,0.878,151.4,4,rockabilly
+7BeMCT0fSzuBOABu1B3I8t,Big Joe Turner,Big Joe Rides Again,Switching in the Kitchen,27,220893,False,0.516,0.336,6,-12.105,1,0.187,0.68,0.0,0.314,0.77,161.747,4,rockabilly
+2fifxpzbq0nkyfPHxs3Il2,The Reverend Horton Heat,The Full Custom Gospel Sounds Of . . .,Beer:30,24,180160,False,0.494,0.953,6,-8.205,0,0.0414,6.29e-05,0.663,0.349,0.631,109.425,4,rockabilly
+0d7ji3amWcozazpjq5hojw,Imelda May,Love Tattoo,Love Tattoo,24,175746,False,0.597,0.889,9,-4.793,1,0.134,0.00469,0.000477,0.144,0.921,92.452,4,rockabilly
+3wUzu2dnfxqcePMV5XlnEn,Carolina & Her Rhythm Rockets,Carolina & Her Rhythm Rockets,Rock the Bop,24,116946,False,0.637,0.761,4,-3.042,0,0.0521,0.62,0.0,0.234,0.961,149.975,4,rockabilly
+7x2cbbfBLsnGBBLRygwURV,Imelda May,Love Tattoo - Special Edition,Big Bad Handsome Man,24,163800,False,0.769,0.676,5,-5.509,1,0.0422,0.0358,0.0,0.28,0.755,120.063,4,rockabilly
+3W552UEuHMOzSCqbPsCF1j,Toini & The Tomcats,Awake at Night,Cat Prance,24,145053,False,0.599,0.879,6,-6.388,0,0.0677,0.139,0.0,0.307,0.546,108.235,4,rockabilly
+1rsrri33ctr7nDU4Clf1qm,Bill Haley,"La discothèque idéale / Nos années 60 !: Vol. 3 ""Les rockers"", Pt. 1",Rock Around the Clock,48,131080,False,0.682,0.777,1,-11.284,0,0.226,0.48,2.88e-05,0.0587,0.874,182.016,4,rockabilly
+3rszA4lAZJcO77o49hYlkS,The Delta Bombers,Wolf,Who Are You,24,157933,False,0.61,0.991,2,-2.547,1,0.115,0.539,3e-05,0.259,0.914,102.27,4,rockabilly
+2QxTeHgiZ13bm9YmKb8QUk,Los Teen Tops,Serie De Colección 16 Autenticos Exitos,Popotitos - Remasterizado,26,174440,False,0.614,0.625,4,-10.019,1,0.0322,0.776,0.000327,0.157,0.961,139.496,4,rockabilly
+6wZe22z6jyBEvIUxEjQnO1,Black Raven,No Way To Stop Me (I'm On Rock'n'roll) [Remastered],Mound Of Clay - Remastered,24,180493,False,0.754,0.855,0,-6.096,1,0.0778,0.349,0.0046,0.0774,0.948,111.946,4,rockabilly
+4tqcMmLizd3a0dg2d7ySoY,Dave Edmunds,Repeat When Necessary,Crawling from the Wreckage,26,176693,False,0.546,0.901,7,-10.711,1,0.0508,0.15,0.0,0.0467,0.929,164.186,4,rockabilly
+75aDv2QJ4w6ue7C3keqHcw,Gene Vincent & His Blue Caps,Gene Vincent Really Rocks,Dance To The Bop,24,136200,False,0.511,0.612,2,-10.294,1,0.0624,0.481,0.0,0.0592,0.794,93.25,4,rockabilly
+7J5tyfg3OYVNR97KH66ovw,Ricky Nelson;The Stone Canyon Band,Garden Party,Garden Party,56,229800,False,0.774,0.247,2,-21.657,1,0.0779,0.786,0.0186,0.116,0.803,143.955,4,rockabilly
+5t6J0AQpx1TBqtIsRCZ60Y,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),Lovely Lonely Summer Day,24,165520,False,0.604,0.845,0,-3.404,1,0.0494,0.0598,4.08e-06,0.313,0.577,91.8,4,rockabilly
+5oV0Z1w1yZePvSY2Q6gtnD,Elvis Presley,Aloha from Hawaii via Satellite (Legacy Edition),"A Big Hunk O' Love - Live at The Honolulu International Center, Hawaii January 14, 1973",24,128759,False,0.389,0.852,0,-10.264,1,0.0946,0.725,0.0595,0.948,0.807,191.283,4,rockabilly
+6CNXp4dlBuNR1ZhaZ4SFDx,John Lindberg Trio,Brand New Philosophy,High Speed Daddy,24,167706,False,0.342,0.896,5,-5.171,1,0.0952,0.0277,3.59e-06,0.0813,0.745,205.661,4,rockabilly
+5Mggz5o8l77QsLYvhfs0CZ,Johnny Kidd & The Pirates,Thanksgiving Party,Shakin' All Over,0,141000,False,0.767,0.626,9,-8.408,1,0.036,0.188,1.03e-05,0.327,0.715,125.206,4,rockabilly
+0isEaDMlKduDGJHi9lop2l,Big Joe Turner,Thanksgiving Party,"Shake, Rattle and Roll",0,180106,False,0.604,0.366,8,-13.767,1,0.0513,0.641,4.91e-05,0.0927,0.896,155.139,4,rockabilly
+5whvZmQ6Apf4TGpBeNcpBx,The Platters,Deluxe: Greatest Hits,Only You,48,166573,False,0.585,0.338,3,-4.916,1,0.0247,0.943,0.0,0.089,0.288,77.319,4,rockabilly
+6lSGhstIFdvPT0mYbTM6Y2,Elvis Presley,G.I. Blues,Pocketful of Rainbows,51,154533,False,0.435,0.187,2,-16.958,1,0.0462,0.892,4.51e-05,0.105,0.349,116.602,4,rockabilly
+3UUwbJd2j4RORlalTUhaDk,The Ventures,Hawaii Five-O,Hawaii Five-O,51,113893,False,0.518,0.782,9,-9.753,1,0.0631,0.265,0.654,0.0769,0.861,163.647,4,rockabilly
+4PrjkjbIYtnA4BY9YQ21Zf,The Righteous Brothers,The Righteous Brothers,Time of My Life,45,201600,False,0.507,0.825,9,-2.572,1,0.046,0.248,0.0,0.0993,0.449,111.217,4,rockabilly
+383aGoaNoE3Jb8UreVYrwp,Billy Fury,Love Songs,I Love How You Love Me,45,129773,False,0.52,0.382,3,-8.376,1,0.0248,0.585,4.04e-06,0.266,0.668,92.188,3,rockabilly
+233JnMkdDZQqydlAhLA4rF,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),ひき潮 - Remastered 2022,24,262330,False,0.443,0.634,11,-9.025,0,0.0323,0.251,0.00164,0.324,0.377,110.459,3,rockabilly
+1vNXvCxrcKg8Mq6KHAV6ZF,Cliff Richard & The Shadows,Summer Holiday,Bachelor Boy,18,122339,False,0.363,0.232,2,-20.154,1,0.0356,0.828,0.0,0.0931,0.898,201.199,3,rockabilly
+12wgf01fxaVdmfViuo67fw,Elvis Presley,Moody Blue,Pledging My Love,43,171453,False,0.399,0.42,7,-12.737,1,0.0335,0.84,0.0313,0.168,0.767,69.208,4,rockabilly
+1L6ElBhaMeoOuRbczG18nq,Crazy Ken Band,GALAXY,秋になっちゃった,24,246773,False,0.676,0.828,9,-4.407,1,0.0283,0.0532,0.0,0.0787,0.909,116.077,4,rockabilly
+6j7zXlw0L2qHxVxmMb5qBm,Cliff Richard & The Shadows,Summer Holiday,Summer Holiday,27,133762,False,0.555,0.174,4,-21.151,1,0.0317,0.884,6.96e-06,0.1,0.658,130.261,4,rockabilly
+7DKNcWFgJiy4CZ377CZc1f,Ray Peterson,Presenting Ray Peterson,Tell Laura I Love Her,48,177546,False,0.508,0.475,10,-8.436,1,0.032,0.758,0.0,0.132,0.235,102.38,4,rockabilly
+5RSs8hnJTb8CMOHjGrdSSI,BOØWY,JUST A HERO,JUST A HERO,26,328333,False,0.756,0.549,4,-7.635,1,0.0337,0.00496,0.0793,0.0686,0.856,133.436,4,rockabilly
+4pAk5rjfyA4BkUKysqNk5U,Los Tiki Phantoms,Papá Soy una Zombie,Papá Soy una Zombie,26,152122,False,0.437,0.866,2,-5.657,0,0.0431,0.00823,0.892,0.0696,0.612,95.059,4,rockabilly
+3qvizeEugFwaOTHoYMMjMR,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),ルイジアンナ (ニューヴァージョン) - Remastered 2022,24,158915,False,0.497,0.851,0,-8.646,1,0.0409,0.00317,1.23e-06,0.0864,0.825,159.549,4,rockabilly
+3NdK2FmEM5d00BAq7uhN0n,Pepita Slappers,Stop Play with My Heart,Stop Play with My Heart,24,171493,False,0.514,0.944,2,-6.989,1,0.0506,0.00303,0.000915,0.328,0.585,92.994,4,rockabilly
+1iqr7rUgmGIO9ImEhXzbXJ,João Gordo,Brutal Brega,Domingo Feliz,24,164160,False,0.63,0.897,2,-7.322,1,0.0352,0.0118,0.0,0.306,0.876,150.018,4,rockabilly
+09ZjVaACAnS3bYPNmULuND,Los Vaguens,Hotel Acapulco,Disco Malibú,24,308546,False,0.468,0.727,2,-10.084,1,0.053,0.0433,0.0012,0.234,0.652,134.854,4,rockabilly
+07GtDOCxmye5KDWsTSACPk,The Big Bopper,Chantilly Lace,Chantilly Lace,58,145266,False,0.489,0.806,3,-6.054,1,0.0858,0.841,2.96e-05,0.0687,0.944,172.269,4,rockabilly
+1nwoHSKbhOF9hPX9JbGo1X,Eikichi Yazawa,KAVACH (50th Anniversary Remastered),レイニー・ウェイ - Remastered 2022,23,204653,False,0.571,0.456,9,-10.286,0,0.0363,0.139,2.66e-06,0.0566,0.421,119.229,4,rockabilly
+3SQhmctWreNM0X6Zkm2K5R,Chuck Berry,Berry Is On Top,Maybellene,57,143240,False,0.756,0.768,0,-10.701,1,0.112,0.735,0.0,0.182,0.783,118.208,4,rockabilly
+3Cs2cP4ucvaO22LCNljzJY,Elvis Presley;Royal Philharmonic Orchestra,The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra,The Wonder of You - with The Royal Philharmonic Orchestra,51,151013,False,0.266,0.735,7,-5.863,1,0.0508,0.421,0.0117,0.17,0.442,136.148,4,rockabilly
+6gwfZiaiggMuXtLunXL14P,Los Vaguens,Hotel Acapulco,Monserrat,25,196946,False,0.233,0.629,7,-10.335,0,0.0597,0.0538,0.000373,0.164,0.658,189.788,3,rockabilly
+7Aqvo11JLf67sSH4WekaDA,The Troubled Three,Moving On,Ride My Bike,23,116895,False,0.613,0.777,7,-6.564,1,0.0493,0.311,0.0114,0.225,0.906,103.389,4,rockabilly
+4wtc62JWGKZ7IczfEcp8eS,Sneaky Pete & Cool Cats,Refuse to Loose,You Ain´t Nothing but Fine,23,126885,False,0.448,0.92,8,-7.292,1,0.053,0.0162,0.0,0.0594,0.846,97.031,5,rockabilly
+223xCG1Ut17sKwE20L5m2Y,Imelda May,Mayhem,Psycho,24,172799,False,0.504,0.888,9,-2.524,1,0.0339,0.0115,0.795,0.0894,0.74,146.975,4,rockabilly
+4GrFU6vSw8ildV5dQIgnI7,Frankie Ford,Let's Take a Sea Cruise (Deluxe Version),Alimony,25,142706,False,0.849,0.374,0,-12.059,1,0.0707,0.778,0.0,0.235,0.973,130.618,3,rockabilly
+7w4xR9mgJdJ30h0NNRfgDg,John Wildcat,Bilburen Gangster,Snutjävel,24,94866,False,0.65,0.887,4,-5.439,1,0.0485,0.616,0.00203,0.189,0.964,115.104,4,rockabilly
+04cLnlJZglUQq4nBWve6eq,Rockin' Ryan & The Real Goners,Cry of Midnight,I'm The Wolfman,24,167960,False,0.297,0.994,4,-1.21,1,0.232,0.157,0.00198,0.349,0.461,203.7,4,rockabilly
+4Swf4WlGoBZDVgk6MFOsrr,Dion,The Best Of Dion & The Belmonts,Come Go With Me,26,167413,False,0.322,0.718,0,-11.428,1,0.0938,0.239,0.0,0.676,0.737,118.735,4,rockabilly
+1vcefBk2EG8Vbfa16dJCZq,Fatboy,Bad News From Pretty Red Lips,Bad News From Pretty Red Lips,24,168240,False,0.654,0.912,11,-3.816,0,0.0377,0.0242,0.000629,0.0672,0.751,98.253,4,rockabilly
+2peOzfnFJibJja8pN6vbN4,Dr. Feelgood,Doctors Orders,She's in the Middle,25,165906,False,0.585,0.675,9,-11.974,1,0.0304,0.024,0.0056,0.401,0.969,155.546,4,rockabilly
+2LFLDDLXl5F6V153KitZmJ,The Baseballs,Hot Shots,Boys Don't Cry,23,147573,False,0.497,0.906,9,-5.033,1,0.0558,0.233,0.0,0.245,0.821,95.878,4,rockabilly
+6PanmBWD5O01iVwBcwX4tl,Eva Eastwood,Lyckost,Han Är Kung,24,169443,False,0.522,0.745,2,-6.002,1,0.033,0.486,0.0,0.307,0.961,142.952,4,rockabilly
+1tdk9AdzpYRihGtZyvEbeQ,Toini & The Tomcats,Awake at Night,Phases of the Moon,24,273320,False,0.483,0.354,1,-8.73,1,0.034,0.661,1.9e-06,0.247,0.368,106.643,3,rockabilly
+50QE48sFA6kUKnACXgGTM3,The Blasters,The Blasters Collection,Border Radio,25,163640,False,0.832,0.598,7,-11.115,1,0.0411,0.323,6.68e-06,0.339,0.971,122.002,4,rockabilly
+3RmNUeKJD22gmGjXzROfrV,Toini & The Tomcats,Awake at Night,The Witch Song,24,167186,False,0.65,0.793,9,-5.805,0,0.0432,0.277,2.85e-05,0.362,0.682,130.872,4,rockabilly
+3OCwp4hImJPlUwCE5hvrJR,The Reverend Horton Heat,Spend A Night In The Box,Spend A Night In The Box,24,187240,False,0.311,0.962,0,-3.524,1,0.0883,0.00255,0.0,0.0956,0.889,199.121,4,rockabilly
+3U9Kkv90QElks0pzIgfAxw,Buddy Holly,Buddy Holly,Words Of Love,52,117213,False,0.626,0.453,9,-10.118,1,0.0269,0.112,0.226,0.0539,0.615,129.402,4,rockabilly
+5io8Y3ZeGybiNg5z1wYrPh,Duane Eddy,Boss Guitar,Rebel Rouser,25,151093,False,0.324,0.561,0,-7.134,1,0.0333,0.628,0.929,0.623,0.891,205.666,4,rockabilly
+6WGwvrIjh6ZCO9r7nEBGuN,The Playtones,The King,The King,24,175506,False,0.543,0.923,9,-4.219,1,0.0914,0.00271,0.0,0.281,0.544,104.049,4,rockabilly
+4iUTK39pDuDaSBLAnkkkfQ,Imelda May,Mayhem,Johnny Got A Boom Boom - Radio Edit,24,157320,False,0.733,0.886,7,-3.523,1,0.0363,0.0236,0.00962,0.285,0.865,110.561,4,rockabilly
+4lwHv5QQ8qbP6rpPP7pg86,Charlie Rich,SUPER HITS,On My Knees - Previously Released Material,26,192026,False,0.584,0.391,8,-11.36,1,0.0273,0.845,7.66e-06,0.213,0.611,114.963,4,rockabilly
+5TBbTkb0jzSO7jKv0I4QPi,Pepita Slappers,That's The Day (I Never Will Forget),That's the Day (I Never Will Forget),24,164852,False,0.432,0.966,7,-7.052,1,0.0746,0.00875,0.000796,0.295,0.898,170.128,4,rockabilly
+4ZjTZ6gRWfzepxzo3uqc5J,Bobby Day,The Rockin' Adventures of Bobby Day,Over and Over,25,142080,False,0.646,0.501,0,-11.395,1,0.0438,0.794,4.79e-06,0.133,0.934,80.275,4,rockabilly
+7CV0simdlDvsUY3UD8sF0g,Bobby Vee,The Very Best Of Bobby Vee,Take Good Care Of My Baby,26,149266,False,0.459,0.435,1,-12.293,1,0.0529,0.794,0.0,0.268,0.621,82.596,4,rockabilly
+0x6gSfnYA91AHPLvULn5NK,Johnny Preston,Golden Selection (Remastered),Running Bear - Remastered,26,158213,False,0.762,0.419,5,-9.312,0,0.0653,0.744,0.0,0.144,0.765,119.964,4,rockabilly
+0lUJhP1D5ZNPGxVHxIyDSV,John Lindberg Trio,Dig It! (Bonus Track Version),My Love Is for You,24,144200,False,0.542,0.902,4,-2.937,0,0.0305,0.00296,0.0,0.511,0.943,137.077,4,rockabilly
+1PEqmiMV2RWoIWxY3dsSF0,Johnny Burnette & The Rock 'N' Roll Trio,Tear It Up: The Complete Legedary Coral Recordings,You're Undecided - Single Version,24,117906,False,0.762,0.536,4,-7.876,1,0.0418,0.278,0.000122,0.364,0.574,110.36,4,rockabilly
+708n8lvH3MaU3oTfhhTL70,Elvis Presley,Aloha from Hawaii via Satellite (Legacy Edition),"Blue Suede Shoes - Live at The Honolulu International Center, Hawaii January 14, 1973",24,76653,False,0.512,0.819,9,-11.529,1,0.102,0.742,0.869,0.914,0.709,103.537,4,rockabilly
+3NFScsiDPfCzKgQQUL0674,Gerry & The Pacemakers,Ferry Cross The Mersey [Mono And Stereo Version],Ferry Cross the Mersey - Stereo; 1997 Remaster,58,143866,False,0.396,0.286,6,-11.494,0,0.0283,0.548,8.51e-06,0.122,0.605,105.289,4,rockabilly
+54xQKzGRXCOg2csW5CJRHS,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),Craw-Fever,54,226466,False,0.602,0.756,5,-7.321,0,0.0307,0.304,0.00315,0.087,0.499,120.039,4,rockabilly
+1hH0t381PIXmUVWyG1Vj3p,Brian Hyland,The Bashful Blond,"""A"" You're Adorable",39,151680,False,0.615,0.375,0,-10.362,0,0.0319,0.482,0.0,0.111,0.922,110.72,4,rockabilly
+65ndJdPZmiV8egz8h3kPuf,Elvis Presley,Blue Hawaii,Rock-A-Hula Baby,46,119893,False,0.528,0.645,10,-8.695,1,0.0635,0.804,0.0,0.0935,0.884,94.257,4,rockabilly
+3lbIsyhdbxUVeh9Mc1iwWW,Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Old Enough To Love - Remastered,39,137706,False,0.694,0.483,6,-9.749,1,0.0282,0.679,0.0147,0.102,0.45,115.032,3,rockabilly
+7F1eoVZd2ySSJ70iP3PN1m,Jackie Wilson,I Get The Sweetest Feeling,I Get The Sweetest Feeling,60,178373,False,0.684,0.482,5,-9.234,1,0.0371,0.778,0.000351,0.148,0.749,123.532,4,rockabilly
+6dQV4B1Pjxl3i64nR4lAXw,Crazy Ken Band,樹影,莎拉 - Sarah -,24,182114,False,0.679,0.772,11,-8.986,0,0.0588,0.0966,7.08e-06,0.0169,0.926,119.952,4,rockabilly
+0U8p0THj4vrpCTOLK3gU5q,Eikichi Yazawa,STANDARD ~THE BALLAD BEST~ (50th Anniversary Remastered),A DAY - Live at 日本武道館’17 - Remastered 2022,23,377760,False,0.433,0.425,2,-8.583,1,0.0295,0.00346,0.00415,0.713,0.124,145.92,4,rockabilly
+5BaDwxvxYqV0lMDfkXFxhm,Chris Montez,Time After Time,Sunny,50,169000,False,0.595,0.853,5,-2.137,0,0.0479,0.513,0.0,0.313,0.691,129.294,4,rockabilly
+7cNRqg0lbiqBaGeOlA4AEU,The Drifters,Under the Boardwalk,Up on the Roof,59,157173,False,0.693,0.29,8,-17.501,1,0.0334,0.706,1.49e-05,0.137,0.92,121.795,4,rockabilly
+7MIJUWRxUT0esbJaR6nMMr,Crazy Ken Band,ソウルパンチ,流星ドライヴ,24,200893,False,0.607,0.781,5,-4.795,0,0.0312,0.0451,0.0206,0.131,0.859,87.039,4,rockabilly
+5XmRpFSrGCTCkqj3an2Adt,Eikichi Yazawa,いつか、その日が来る日まで… (50th Anniversary Remastered),魅せてくれ - Remastered 2022,23,218000,False,0.561,0.691,5,-8.435,1,0.0428,0.00218,0.0,0.102,0.756,151.853,4,rockabilly
+4baNC6PNq37xOVRqoZcNY5,Elvis Presley,Good Times,My Boy,55,198853,False,0.387,0.534,11,-11.809,0,0.0331,0.586,0.00084,0.607,0.372,92.475,4,rockabilly
+5ax1MN2MGW0ZJXquCkpuLM,Pat Boone,Pat Boone's Greatest Hits (Reissue),April Love,50,161200,False,0.388,0.169,8,-14.834,1,0.032,0.828,0.0135,0.0812,0.498,91.323,1,rockabilly
+4cwkfuKdVARQzIqt6CrRp8,Pat Capocci,Call of the Wild,Call of the Wild,22,155720,False,0.68,0.878,4,-5.658,0,0.0405,0.294,0.000414,0.108,0.831,122.999,4,rockabilly
+3BKdVJ65d6MMJdWD6x3GbQ,BOØWY,BEAT EMOTION,OUR REVOLUTION,25,232933,False,0.602,0.735,11,-7.152,1,0.0371,0.078,0.00666,0.0746,0.744,139.409,4,rockabilly
+0E1OTri8DZ6UuBeqJb9s2S,Don Gibson,Oh Lonesome Me,I Can't Stop Lovin' You,45,156093,False,0.496,0.358,11,-11.559,1,0.0307,0.826,1.25e-06,0.425,0.428,82.027,4,rockabilly
+2LRKRBdcYaWqy4wSyvIEIp,Crazy Ken Band,PUNCH! PUNCH! PUNCH!,葉山ツイスト,24,138773,False,0.456,0.847,1,-7.6,0,0.0552,0.00178,0.00542,0.328,0.86,159.903,4,rockabilly
+20UjAGdEjVb8DniNXvqHJy,Buddy Holly & The Crickets,"The ""Chirping"" Crickets",Maybe Baby,54,122600,False,0.607,0.477,9,-12.904,1,0.0333,0.708,0.0,0.253,0.887,136.614,4,rockabilly
+0Dh6iikOZiVGUiqkEehOxf,Gutter Demons,Enter the Demonz,Out of Sight,24,261853,False,0.458,0.933,7,-4.197,0,0.0342,0.215,1.41e-05,0.109,0.864,142.752,4,rockabilly
+54L6rC5mpGdFNgYnkIAogl,Imelda May,Tribal,Little Pixie,22,218133,False,0.447,0.509,0,-7.236,1,0.0279,0.894,0.00136,0.0809,0.285,83.916,4,rockabilly
+6vCr0qIoGCRX0B4IUQaC4a,João Gordo,Brutal Brega,Ciganinha,23,150760,False,0.567,0.937,9,-7.789,1,0.0651,0.00183,0.000106,0.187,0.815,144.958,4,rockabilly
+0ijKW319aVwVVDmFGU4rGC,Gene Vincent;The Blue Caps,Capitol Collectors Series,Lotta Lovin',52,131973,False,0.565,0.495,7,-14.611,1,0.0506,0.766,0.000111,0.287,0.952,168.21,4,rockabilly
+3bVgLtzCcv0AZdWrtcNHpl,Deke Dickerson,King of the Whole Wide World,Deep River,22,162506,False,0.624,0.886,5,-3.857,1,0.03,0.204,1.16e-06,0.349,0.963,103.287,4,rockabilly
+1QUQkPdroMjVD4FeEQ1c3U,Gene Vincent,Saga All Stars: Be Bop a Lula / 1956,Be Bop a Lula,53,156493,False,0.575,0.482,9,-12.705,1,0.0454,0.488,0.0,0.171,0.85,127.631,3,rockabilly
+380DWVuwaV5cEdg3EykEHb,Elvis Presley,Elvis Recorded Live on Stage in Memphis (Legacy Edition),"Let Me Be There - Live at Mid-South Coliseum, Memphis, TN - March 1974",24,214640,False,0.544,0.906,0,-7.679,1,0.0784,0.368,0.0,0.718,0.857,138.192,4,rockabilly
+4v3xzTvUxIKPUmh3g5sLg0,Ronnie Hawkins,Ronnie Hawkins [Roulette],Forty Days - Single Version,23,136666,False,0.614,0.966,9,-7.247,0,0.0566,0.315,0.0,0.0754,0.601,96.402,4,rockabilly
+66t429vEmiqGQoXSrBEGYP,Elvis Presley,Elvis Recorded Live on Stage in Memphis (Legacy Edition),"Can't Help Falling In Love - Live at Mid-South Coliseum, Memphis, TN - March 1974",24,98546,False,0.448,0.799,0,-7.572,1,0.0511,0.305,2.97e-05,0.937,0.688,51.953,4,rockabilly
+3GQPjADwqNanOyF03j80jJ,The Reverend Horton Heat,Space Heater,Jimbo Song,24,141293,False,0.481,0.937,4,-4.923,1,0.0579,9.36e-06,1.89e-06,0.513,0.789,149.993,4,rockabilly
+58hEBlMI11W93uguhqcExc,Gene Vincent,Dance To The Bop,Wild Cat,24,143973,False,0.64,0.487,4,-14.023,1,0.0464,0.546,0.0,0.166,0.907,117.534,4,rockabilly
+5Wb9wMLponIA1jCErPxYId,Marvin Rainwater,Sings: With a Heart - With a Beat,Gonna Find Me a Bluebird,24,152093,False,0.545,0.335,10,-10.985,1,0.03,0.917,0.000714,0.177,0.306,119.617,4,rockabilly
+0S86etG8vnQ42qi7vdrpj1,Eva Eastwood,Lyckost,Boogien I Blodet,24,164081,False,0.504,0.827,0,-6.628,1,0.0719,0.651,4.33e-06,0.141,0.886,186.334,4,rockabilly
+1f0LO3szNxDKn19pFEGPan,Eddie Cochran,The Very Best Of Eddie Cochran,Three Steps To Heaven,25,144800,False,0.675,0.366,10,-12.542,1,0.0309,0.419,0.0,0.0583,0.964,131.666,4,rockabilly
+3rV13eMQR0G93DEYhpB09B,The Swinging Blue Jeans,Hippy Hippy Shake: The Definitive Collection,The Hippy Hippy Shake,54,106066,False,0.551,0.686,4,-11.969,1,0.0536,0.348,0.0,0.33,0.982,70.959,4,rockabilly
+3mr4e4J7DuouvGP6DLCGyK,The Baseballs,Hit Me Baby...,Daylight in Your Eyes,23,178866,False,0.534,0.99,9,-2.76,1,0.0635,0.0179,0.0,0.325,0.861,160.932,4,rockabilly
+2xG2IpH5h0cOTdNq6rHjju,Danny & The Juniors,Boppin' At the Hop,Rock and Roll Is Here to Stay,26,147892,False,0.673,0.72,7,-9.306,1,0.0376,0.734,0.0,0.377,0.887,97.764,4,rockabilly
+07TeCXbiN0UlCqkO1eDew4,Tupelo Highshots,Pure Rockabilly Party,Cry,23,213611,False,0.618,0.893,0,-6.159,1,0.0264,0.153,1.09e-05,0.148,0.807,104.047,4,rockabilly
+6SesqTxqo0FlU6XlHNHKuG,The Delta Bombers,Pressure and Time,Sorrow and Pain,23,211213,False,0.593,0.614,8,-7.134,0,0.0303,0.659,0.0135,0.369,0.531,81.557,4,rockabilly
+2HKafPuzWaKsCzcE3zFOIX,Johnny Tillotson,Johnny Tillotson's Best,Poetry In Motion - 1960 #2 Billboard chart hit,49,154466,False,0.485,0.706,8,-7.387,1,0.0319,0.392,0.0,0.0991,0.912,135.255,4,rockabilly
+30DwTnTpoc9NEDZiP57gx7,The Delta Bombers,Pressure and Time,Pressure and Time,23,172880,False,0.583,0.933,8,-4.474,1,0.0551,0.349,0.000125,0.118,0.934,91.185,4,rockabilly
+5717wNTWOLzodTCch2hpt5,Matchbox,The Platinum Collection,Buzz Buzz a Diddle It,23,174840,False,0.691,0.908,7,-4.504,1,0.0753,0.453,1.06e-05,0.597,0.901,116.241,4,rockabilly
+5ebmv6CgwbSbKwxApKtAPK,Black Raven,Rock In Threes!,Once Again,22,214360,False,0.621,0.932,7,-5.303,1,0.0421,0.0305,0.000517,0.0992,0.908,112.456,4,rockabilly
+5ZiPfpJcQXVDEOypizITeV,The Reverend Horton Heat,Laughin' & Cryin' With The Reverend Horton Heat,Drinkin' & Smokin' Cigarettes,24,244613,False,0.55,0.83,0,-4.467,1,0.0708,0.53,2.7e-05,0.233,0.887,94.693,4,rockabilly
+4bkG4W5n6IGkjjjd564hkm,Rebel Cats;Comisario Pantera,Rebel Cats Y Sus Amigos,Para Nada,24,149333,False,0.586,0.85,0,-4.394,1,0.103,0.0448,0.0,0.115,0.761,109.875,4,rockabilly
+5fIsWQulXw8FZ2tYavpW5V,Los Teen Tops,Los Grandes Años del Rock Vol. Ii,La Bamba,25,157112,False,0.593,0.737,0,-6.189,1,0.0411,0.302,3.3e-06,0.143,0.945,160.04,4,rockabilly
+5ruISdKEabbZ6Rx660zSCA,Toini & The Tomcats,Welcome to the Rock Garden (Vol. I),The Man I Want,23,202986,False,0.588,0.732,6,-3.403,0,0.0346,0.168,0.000537,0.0532,0.751,114.18,4,rockabilly
+0NeJzwDzZGBLSVF3ywB7je,Hillbilly Rawhide,Ramblin' Primitive Outlaws,Caramuru Calibre 32,25,164466,False,0.398,0.952,9,-3.471,0,0.0786,0.605,3.99e-05,0.0783,0.882,154.504,4,rockabilly
+294Ud3P8EdcY2vzi0i1tYy,The Playtones,Dansbandskampen - Den kompletta boxen,Dagny,23,198866,False,0.611,0.912,0,-2.087,1,0.0593,0.726,0.0,0.187,0.948,157.185,4,rockabilly
+5atAgYOzuoYeMfs1YMMmjx,The Rockabilly Rebels,Rockabilly Rebels,Crazy Horse Boogie,23,127384,False,0.302,0.709,0,-6.478,1,0.0434,0.0546,0.00044,0.36,0.901,153.803,4,rockabilly
+0K9Xk9AKGtvjXn063Ok6Eg,Wanda Jackson,The Capitol Singles 1959-1961,Riot In Cell Block Number Nine,25,150933,False,0.565,0.707,9,-8.908,1,0.105,0.753,0.000185,0.281,0.75,127.476,4,rockabilly
+1yWnyH6fL3l3e29T4GllbA,Los Teen Tops,Los Grandes Años del Rock Vol. I,Bule Bule,25,188600,False,0.73,0.571,9,-10.326,1,0.0331,0.376,0.0381,0.0717,0.961,144.99,4,rockabilly
+5hsvWsoSImw6M0QcsRwZEU,Elvis Presley;Nardo Wick,ELVIS (Original Motion Picture Soundtrack),Product of the Ghetto,52,197586,False,0.438,0.531,10,-11.08,1,0.266,0.803,0.0548,0.133,0.663,179.868,4,rockabilly
+4GAhAw0RCzNVP976NRMOqO,Elvis Presley,Elvis' Golden Records,"Love Me Tender - From the 20th Century-Fox CinemaScope Production, ""Love Me Tender""",51,161360,False,0.396,0.0373,9,-18.642,1,0.0416,0.907,4.41e-05,0.111,0.302,103.051,3,rockabilly
+3gYV1w4NuNnTjTZU07Q3jq,THE MODS,BEAT ODYSSEY,崩れ落ちる前に,24,218666,False,0.428,0.779,0,-11.283,1,0.0368,0.000274,4.97e-05,0.032,0.883,138.526,4,rockabilly
+6TxJloapzIwrKoGqRIIZJA,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,You're Moving Me,38,147186,False,0.746,0.62,10,-5.231,1,0.0501,0.698,0.0,0.0752,0.766,113.493,4,rockabilly
+2Wf1E1KMmup9misxjmFm1u,THE MODS,BEAT ODYSSEY,バラッドをお前,23,259239,False,0.582,0.446,2,-13.001,1,0.0278,0.0592,0.0031,0.123,0.4,114.165,4,rockabilly
+0FzcQJc9rUrTfHaHpCmj3b,COOLS,ロックンロール・ジャンキー,MAGIC WOMAN,23,148733,False,0.645,0.921,9,-4.149,1,0.0283,0.0304,5.64e-05,0.0956,0.771,106.059,4,rockabilly
+69oT3ALd4CRsBIcNNfp8gi,Crazy Ken Band,好きなんだよ,時間よ止まれ,23,274946,False,0.774,0.801,1,-7.907,0,0.0316,0.138,0.00424,0.103,0.735,117.992,4,rockabilly
+09hxCc0SgV8u46gWsfeqJA,Chuck Berry,One Dozen Berry's,Rock And Roll Music,53,151773,False,0.529,0.768,8,-6.201,1,0.0446,0.418,0.000947,0.0655,0.871,165.225,4,rockabilly
+0WkpGqzBfi0mp8tJPalCTR,João Gordo,Brutal Brega,Pepino,23,109840,False,0.481,0.975,1,-7.671,0,0.0592,0.000258,0.0,0.296,0.837,165.01,4,rockabilly
+2EIaO5knwUA3F2qnf9LV3S,Bobby Darin,The Ultimate Bobby Darin,Beyond the Sea,57,172480,False,0.521,0.516,2,-7.456,0,0.0369,0.723,0.0,0.257,0.569,136.483,4,rockabilly
+3OmTeCUYZmgZhXhrIz75Wj,Ricky Nelson,Album Seven By Rick (Expanded Edition),I Need You,32,147373,False,0.636,0.16,11,-16.32,1,0.0299,0.442,4.37e-06,0.0904,0.572,108.684,4,rockabilly
+5yIdYQ6ng5IIYzqzaYP8lr,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),RUN & RUN - Remastered 2022,23,192079,False,0.562,0.645,9,-9.019,0,0.0738,0.0704,1.29e-05,0.713,0.577,129.92,4,rockabilly
+2p0u2DXT6WKGorvrzGXdGx,Eikichi Yazawa,東京ナイト (50th Anniversary Remastered),BELIEVE IN ME - Remastered 2022,23,246386,False,0.658,0.711,2,-8.259,1,0.0354,0.142,6.31e-05,0.0656,0.541,126.113,4,rockabilly
+7m7p1cJ1UBpCzHiSUF8feh,Eikichi Yazawa,SUBWAY EXPRESS (50th Anniversary Remastered),サブウェイ特急 (セルフカバー) - Remastered 2022,23,237533,False,0.559,0.86,11,-9.134,1,0.0434,0.0675,0.0,0.0677,0.654,139.594,4,rockabilly
+7DkhMvHhowRkJA9ny7fVVJ,The Blue Cats,The Tunnel,The Tunnel,22,211666,False,0.533,0.792,11,-10.358,1,0.0319,0.155,0.000631,0.0714,0.718,95.519,4,rockabilly
+3ahF45Um5pAnMba7Q5e6nN,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),YES MY LOVE - Live at 横浜国際総合競技場'99 - Remastered 2022,23,309773,False,0.561,0.736,5,-10.162,1,0.0662,0.0115,0.000223,0.926,0.356,122.54,4,rockabilly
+3VJbn43VBILVWsy14qQGTW,Glen Glenn,The Glen Glenn Story / Everybody's Movin',Laurie Ann,22,165000,False,0.617,0.697,3,-9.744,1,0.054,0.813,0.531,0.331,0.901,165.557,4,rockabilly
+4hVikGHKBackP6vLFlGYE8,Charlie Rich,SUPER HITS,Spanish Eyes,25,171960,False,0.463,0.397,11,-12.057,1,0.0287,0.916,0.0184,0.132,0.3,107.34,4,rockabilly
+2pnPe4pJtq7689i5ydzvJJ,Chuck Berry,Rock 'N' Roll Rarities,Run Rudolph Run,59,165733,False,0.681,0.715,7,-10.609,0,0.0912,0.812,9.43e-06,0.0777,0.957,152.132,4,rockabilly
+3KrKYbDJukARK3LfXozh5T,The Baseballs,Hit Me Baby...,Survivor,23,188733,False,0.458,0.979,5,-3.493,0,0.27,0.0318,1.31e-05,0.176,0.486,204.165,4,rockabilly
+2qzFaUkPP510VTnui66MCG,The Baboons,Drinking Gasoline,Drinking Gasoline,23,175333,False,0.802,0.5,4,-11.085,0,0.0344,0.771,0.00158,0.102,0.853,113.83,4,rockabilly
+0nzcviyIUbfv08Edgrv5yA,Bobby Day,"Les idoles américaines du rhythm and blues : Bobby Day, Vol. 1",Darlin' If I Had You,24,121678,False,0.337,0.229,5,-11.992,1,0.0374,0.986,0.00415,0.292,0.666,200.565,3,rockabilly
+59HU62MvFOWtYlXpZdy9sM,Los Vaguens,Tropicaria,Tropicaria,23,213200,False,0.289,0.728,8,-5.822,1,0.036,0.154,0.000135,0.359,0.588,148.488,4,rockabilly
+4IulREhBqdT9VVjlAJkiVG,Eva Eastwood,Lyckost,Lyckost,24,150316,False,0.371,0.909,9,-5.573,1,0.0598,0.715,1.44e-06,0.304,0.869,182.788,4,rockabilly
+5abaSwfLdybG2it1QzV5cB,Pepita Slappers,Like It That Way,Like It That Way,23,153280,False,0.426,0.98,5,-6.152,1,0.0556,0.0371,1.63e-05,0.321,0.869,187.09,4,rockabilly
+5Ynf2QbdmVVx0ZuuXc3Q7y,Charlie Hightone and The Rock-It´s,Major Production & B - Tracks,Dead End Track,22,166693,False,0.735,0.894,1,-3.601,1,0.128,0.261,0.00589,0.105,0.944,96.382,4,rockabilly
+3UE0SXiu1l9IhZrZtCCSDS,The Baseballs,The Sun Sessions,Bad,23,206000,False,0.744,0.872,4,-6.619,0,0.0798,0.112,5.41e-05,0.147,0.626,118.995,4,rockabilly
+2GULMtAJYtWViznfW7cER7,The Slapbacks,Roasted & Toasted,Blue Blue Day,22,196747,False,0.591,0.908,7,-3.977,1,0.0804,0.243,4.63e-05,0.0918,0.92,119.581,4,rockabilly
+6a9IyyR436gjqDNwF8ZJRm,Ray Campi,"Rockabilly Rebellion: The Very Best Of Ray Campi, Vol. 1",Rockin' At The Ritz,22,188173,False,0.752,0.733,4,-8.664,0,0.0495,0.137,0.000413,0.0825,0.734,99.635,4,rockabilly
+2pMuf8ZJIfr28C7tElp1Pc,Pepita Slappers,Train Back Home,Train Back Home,23,180221,False,0.456,0.972,2,-7.881,1,0.0716,0.0522,0.0,0.31,0.9,175.988,4,rockabilly
+4YXKKnIZuk7UtXH5oC0ffa,Little Richard,Good Golly!,Lucille,56,143826,False,0.676,0.708,8,-12.115,0,0.0698,0.592,0.000307,0.166,0.919,143.669,4,rockabilly
+650HIE3VxMtF4R50Vwaj4U,Janis Martin,Presenting Janis Martin,Will You Willyum,24,118213,False,0.526,0.64,2,-6.397,1,0.0408,0.791,0.0,0.159,0.93,84.943,4,rockabilly
+2dpcXxdL7VJffajmBDGtxG,Joe Clay,Rock-a-Billy Classics,Sixteen Chicks,22,119466,False,0.625,0.777,6,-9.955,1,0.0647,0.625,0.00126,0.114,0.796,105.359,4,rockabilly
+3IrcXSg255PDIIu0UjzRLh,Ronnie Self,Rockabilly Classics,Pretty Bad Blues,23,133826,False,0.7,0.56,4,-13.497,1,0.188,0.497,0.0,0.0938,0.911,101.66,4,rockabilly
+4XQiVpepPeoq9KYt4Pv15B,Dave Edmunds,Twangin...,The Race is On,25,126173,False,0.476,0.797,1,-12.034,0,0.0453,0.45,0.000566,0.221,0.831,171.605,4,rockabilly
+1ZF747WWzQNJqqgXuhN8aS,Danny & The Juniors,Twistin' All Night Long,Back to the Hop,25,127707,False,0.569,0.627,10,-9.495,1,0.056,0.751,0.0,0.0601,0.912,168.056,4,rockabilly
+2ovPw10uTkY2WPvFlBSGSl,Tupelo Highshots,Pure Rockabilly Party,Hot Teasing Baby,23,132791,False,0.636,0.945,9,-4.814,1,0.0598,0.106,0.0,0.0729,0.691,112.049,4,rockabilly
+6YS9gh6dxp4rYKWk5jjBDC,Fats Domino,Legends Of Rock n' Roll,Jambalaya (On The Bayou),53,146333,False,0.623,0.746,6,-10.285,0,0.0454,0.804,0.000116,0.262,0.965,75.353,4,rockabilly
+7pzVg3DrKbo8JMJFCHsMQ9,Ricky Nelson;The Stone Canyon Band,Greatest Hits,Garden Party,24,225866,False,0.781,0.367,2,-15.957,1,0.0767,0.482,3.94e-05,0.127,0.784,144.04,4,rockabilly
+4G3wQNaWDtqWnHQnFwH84N,Bob Luman,Presenting Bob Luman,Let's Think About Living,24,125480,False,0.608,0.866,2,-6.26,1,0.0639,0.47,0.0,0.297,0.959,97.016,4,rockabilly
+2EctP6iUYPlIDF6j1vhwdl,Guana Batz,Loan Sharks,Radio Sweetheart,23,200173,False,0.593,0.569,11,-14.61,1,0.106,0.33,5.09e-05,0.124,0.703,76.77,4,rockabilly
+0iRI6TRQ6omHdw6bJ7aefY,Cliff Richard & The Shadows,The Best of The Rock 'n' Roll Pioneers,Summer Holiday - 2003 Remaster,46,135040,False,0.588,0.533,4,-7.354,1,0.0306,0.843,0.0,0.117,0.701,129.639,4,rockabilly
+3NUXLtK8UGdD8TvZ12b4dD,The Everly Brothers,The Golden Hits of The Everly Brothers,Walk Right Back,54,139640,False,0.625,0.358,1,-13.199,1,0.0342,0.749,0.0,0.0593,0.871,135.797,4,rockabilly
+0jrdWPwYjUZvqfJcwE8ddh,The Drifters,The Good Life With the Drifters,Saturday Night at the Movies,57,153626,False,0.708,0.545,6,-7.376,1,0.0502,0.648,0.0,0.121,0.935,135.241,4,rockabilly
+4yI1wZFvbyNE26RRV4oVVD,Dave Edmunds,Rockpile,King of Love,25,191320,False,0.388,0.831,4,-8.686,1,0.055,0.16,0.0,0.156,0.8,173.636,4,rockabilly
+7dAy3lwzP9aAP5NujoVa83,Eva Eastwood,Lyckost,Hade Velat Vara Med (Tillägnad Rock-Olga),24,210791,False,0.439,0.785,1,-6.5,0,0.0405,0.698,0.0,0.675,0.861,165.556,4,rockabilly
+7uF7JmOfHM38fuxlJ4lHBw,Los Teen Tops,Teen Tops,Tutti Frutti (Tuti - Fruti),25,136613,False,0.306,0.662,7,-11.077,1,0.0365,0.203,0.0,0.312,0.902,98.391,4,rockabilly
+0Cx7w1aXcvsPBdfdND0Pju,Los Teen Tops,Los Teen Tops De Su Epoca De Oro,Presumida (High Class Baby),25,126386,False,0.571,0.751,2,-9.544,1,0.0585,0.556,0.0,0.0646,0.966,91.002,4,rockabilly
+3VNxbWlw9oVvxSnSbeiCBb,Loquillo,Rock & Roll Star - 30 años,Cadillac solitario,57,214560,False,0.393,0.828,11,-4.147,0,0.0332,0.0746,0.00192,0.148,0.473,129.743,1,rockabilly
+05y5s9yU709Nt5uTXs3T7z,John Lindberg Trio,Hell Of A Ride (Bonus Track Version),Don't Bug Me,22,175989,False,0.563,0.89,4,-7.623,1,0.0507,0.0399,1.51e-05,0.355,0.654,128.03,4,rockabilly
+5j8cflZIx0GwvlkzPImbtK,Elvis Presley,A Boy From Tupelo: The Complete 1953-1955 Recordings,"Baby, Let's Play House",51,139040,False,0.668,0.65,4,-9.373,1,0.042,0.733,0.0284,0.122,0.961,103.975,4,rockabilly
+1llEDq837U8lS5BEeNT8fk,THE MODS,NEWS BEAT,ゴキゲンRADIO,23,165186,False,0.554,0.805,11,-10.681,1,0.0417,0.0112,7.44e-05,0.356,0.766,102.684,4,rockabilly
+6p8LNHMqJiUMjPXy4rnO5H,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),It's Now or Never,51,194600,False,0.645,0.493,4,-9.311,1,0.0344,0.641,0.0094,0.286,0.753,126.4,4,rockabilly
+2CAXzfk8tLXCi3rWjAJUNp,Elvis Presley,Pot Luck,Kiss Me Quick,48,167373,False,0.56,0.652,10,-9.809,1,0.0538,0.589,0.00171,0.249,0.947,134.015,4,rockabilly
+0cDWCh9u46tQ4fN833vR9L,Crazy Ken Band,樹影,The Roots,23,244142,False,0.679,0.399,1,-8.215,0,0.0369,0.465,0.0,0.1,0.705,82.021,4,rockabilly
+2sPqUJOxqQUDLkRwjMjcqs,Crazy Ken Band,好きなんだよ,冬のリヴィエラ,23,273653,False,0.599,0.764,0,-5.431,1,0.0265,0.263,0.0,0.341,0.571,113.017,4,rockabilly
+6lDyc6QGEGUsBc7Y3Fk9BC,Crazy Ken Band,好きなんだよ,やさしさに包まれたなら,23,206973,False,0.745,0.834,0,-5.682,1,0.0247,0.048,0.0,0.314,0.841,105.007,4,rockabilly
+4xHXqIwdjXRYJvwT8HNByt,Cliff Richard & The Shadows,40 Golden Greats,Lucky Lips,36,163840,False,0.686,0.481,4,-12.25,1,0.045,0.793,0.0,0.216,0.902,144.862,4,rockabilly
+6Gx0IZAM6lNRiw4aoV1Qlg,Eikichi Yazawa,東京ナイト (50th Anniversary Remastered),YOKO - Remastered 2022,23,238973,False,0.662,0.491,9,-10.825,1,0.0232,0.471,0.00122,0.135,0.533,92.788,4,rockabilly
+1ZzRuFUIYVIMQmPhZbnpdf,The Shadows,String of Hits,"The Theme from ""The Deer Hunter"" (Cavatina)",47,206066,False,0.505,0.226,4,-13.649,1,0.0258,0.707,0.883,0.118,0.121,81.246,3,rockabilly
+51bylzFSkrMp9kwmMtzN2X,Herman's Hermits,Herman's Hermits,The End of the World - 1997 Remaster,41,180226,False,0.429,0.257,5,-10.906,1,0.028,0.864,0.00154,0.0878,0.382,90.004,3,rockabilly
+6Pt0UcyBb3Hf08G0OkQqth,Bobby Darin,I Got Rhythm,18 Yellow Roses,43,137826,False,0.604,0.412,4,-13.994,1,0.0306,0.784,1.38e-06,0.18,0.689,128.71,4,rockabilly
+7qshDjYWSQ3vVuonlsdsvg,M-BAND,ZAPPER,ハートブレイク,23,180800,False,0.497,0.903,4,-8.327,0,0.0383,0.0175,0.00144,0.343,0.735,164.446,4,rockabilly
+1aR6KEUmuCvrI5Q7LhmQLN,Charlie Feathers,Kill Bill Vol. 1 Original Soundtrack (PA Version),That Certain Female,46,181293,False,0.637,0.626,11,-7.332,1,0.102,0.0245,0.00609,0.295,0.655,93.447,4,rockabilly
+28updGMl4zhhpfHiCfULq9,Wild Wax Combo,Jungle Fever,Hide'n Seek,22,103360,False,0.527,0.829,9,-6.718,1,0.0774,0.0643,0.000138,0.314,0.956,194.494,4,rockabilly
+6U4FfDDSysMWEjNqcCM6nO,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),All Shook Up,52,118066,False,0.665,0.668,10,-6.356,1,0.168,0.837,0.0,0.192,0.938,73.851,4,rockabilly
+1iQERO5OxLABBiNySV1ab6,Crazy Ken Band,好きなんだよ,横須賀ストーリー,23,223413,False,0.717,0.879,7,-5.495,1,0.0331,0.0618,1.24e-06,0.156,0.961,145.036,4,rockabilly
+0JOw67rq2X6NDz5AJP9uIG,Elvis Presley,Elvis 30 #1 Hits,Hound Dog,54,133293,False,0.343,0.884,5,-4.123,0,0.129,0.62,0.000673,0.497,0.94,177.751,4,rockabilly
+3mewJ611cPqPIk8EQDiA12,Don Gibson,The Essential Don Gibson,I Can't Stop Loving You,40,154440,False,0.595,0.289,11,-11.768,1,0.0292,0.946,8.98e-05,0.246,0.505,83.428,4,rockabilly
+2NeKjEryWM5VZToeosUsUu,Elvis Presley,Elvis Is Back,The Girl of My Best Friend,50,142640,False,0.644,0.42,1,-14.931,0,0.0349,0.795,0.0146,0.4,0.89,132.892,4,rockabilly
+7Hq93ZcYLyY7I0aMFSCqdt,Hillbilly Hellcats,Early Daze (Remastered),White Trash,22,117142,False,0.585,0.957,7,-6.025,1,0.0943,0.0171,0.0,0.216,0.604,92.111,4,rockabilly
+1ncodDZqf5JkRcBM01tQ1v,Eikichi Yazawa,P.M.9 (50th Anniversary Remastered),NETTAIYA (熱帯夜) - Remastered 2022,23,305786,False,0.7,0.592,6,-10.286,0,0.0296,0.0289,0.00853,0.0482,0.894,115.22,4,rockabilly
+4Vng7f02Hz7XvPFsC1qFjl,Herman's Hermits,"A's, B's & EP's",I'm into Something Good,54,153240,False,0.589,0.451,0,-8.19,1,0.0315,0.822,1.25e-06,0.151,0.734,134.082,4,rockabilly
+2SOJLHlmiS83tuiCvGmoQV,BOØWY,LAST GIGS COMPLETE,"B・BLUE - FROM ""LAST GIGS""",25,248986,False,0.272,0.966,9,-3.576,1,0.0606,1.77e-05,0.121,0.369,0.363,81.911,4,rockabilly
+2Xml1d3fsR6xM8rTJPMXKY,Stray Cats,Blast Off,Nine Lives,23,236933,False,0.655,0.393,7,-13.969,0,0.0461,0.0999,0.0,0.101,0.382,130.703,4,rockabilly
+4OK7EIBsQfBjNBPYcy453s,Eddie Bond,Memphis Rockabilly King,Rockin' Daddy,23,123186,False,0.537,0.857,0,-5.313,1,0.043,0.723,0.0,0.122,0.748,95.082,4,rockabilly
+2Ng14pUxmM2TgGpDlrxW8P,Fatboy,Overdrive,What Would Elvis Do?,23,141053,False,0.632,0.891,1,-4.265,1,0.04,0.343,3.01e-05,0.187,0.97,92.822,4,rockabilly
+0DlHkpPATDBeAHftuBvDOS,Link Wray;The Wraymen,Link Wray & the Wraymen,Ramble,24,137044,False,0.51,0.43,4,-12.023,1,0.0362,0.869,0.581,0.168,0.763,121.459,1,rockabilly
+1yanWgRMVmEqOOjrpl8D20,Tom Stormy Trio;Rhythm Sophie,Respect for the '50s,Rockabilly Rhythm - Bonus Track,23,122520,False,0.485,0.944,2,-3.568,1,0.0455,0.00089,0.0,0.384,0.855,112.892,4,rockabilly
+07SfXBjuEymuUQAs50Lxpm,The Sharks,Psychobilly Sampler Vol. 1,Death Row,23,176360,False,0.338,0.689,2,-12.255,1,0.0852,0.00302,0.000202,0.133,0.856,181.82,4,rockabilly
+7D8uCohbrhlIRNEcJcRM5R,Roy Orbison,The Monument Singles Collection,Sleepy Hollow,25,157600,False,0.471,0.271,2,-11.448,1,0.0283,0.897,0.0035,0.0967,0.344,90.803,3,rockabilly
+6en4NMn5Mac3lqJKNxUdaz,Brenda Lee,"...""Let Me Sing""",The End Of The World,50,189653,False,0.327,0.223,9,-11.803,1,0.0293,0.939,0.000197,0.121,0.31,176.86,3,rockabilly
+64KZTBQqCG8OEWlidIM9ii,Hicksville Bombers,Ready to Rumble,Ready to Rumble,22,224880,False,0.522,0.822,11,-7.568,0,0.0888,0.362,0.000181,0.136,0.844,202.457,4,rockabilly
+2V5cxyFtUKuIYRthYtg3nL,The Sharks,Phantom Rockers,Take a razor to your head,23,130173,False,0.652,0.685,1,-9.354,1,0.103,0.104,8.36e-05,0.124,0.385,135.743,4,rockabilly
+5yqVF4y7dq6AgnNCHnHZEA,Roy Orbison,Mystery Girl,California Blue,52,235906,False,0.651,0.596,2,-12.561,1,0.0271,0.67,1.27e-05,0.376,0.695,105.679,4,rockabilly
+35FdyUxBYDgm1cXCNf23kc,The Baseballs,The Sun Sessions,Thinking Out Loud,23,253945,False,0.737,0.836,5,-8.039,0,0.0442,0.379,4.57e-06,0.305,0.853,105.994,4,rockabilly
+1HenyvhDS3QDnngcCzbLUR,The Rockats,The Good The Bad The Rockin',Tattooed Lady,21,123600,False,0.654,0.679,0,-12.289,1,0.0532,0.0754,0.0,0.358,0.739,97.663,4,rockabilly
+5bFOycHjbUpUWJusyUdBZV,Eddie Cochran,12 Of His Biggest Hits,Three Steps To Heaven - Single Version,50,144933,False,0.685,0.346,10,-12.705,1,0.0349,0.0666,0.00317,0.0678,0.944,131.514,4,rockabilly
+7hQTewgpQuqocEizvO80GB,The Creepshow,Sell Your Soul,Sell Your Soul,24,161640,False,0.528,0.963,2,-1.465,1,0.0568,0.000227,0.000136,0.46,0.574,107.921,4,rockabilly
+0djMBF95vQs4f3yms93G0D,The Creepshow,Death at My Door,Tomorrow May Never Come,24,180886,False,0.496,0.981,8,-2.664,0,0.0974,0.000237,0.000145,0.0698,0.618,112.058,4,rockabilly
+7wClHQJlSp23OJ4TEi10Dn,Toini & The Tomcats,"Welcome to the Rock Garden, Vol. 2",Let's Go,23,169706,False,0.368,0.927,7,-3.184,1,0.0604,0.0249,0.00459,0.159,0.816,174.66,4,rockabilly
+7LfvdUcwrrMKVh8WPGXnbA,Gerry & The Pacemakers,You'll Never Walk Alone (The EMI Years 1963-1966),How Do You Do It? - Mono,26,114986,False,0.617,0.711,9,-6.433,1,0.0297,0.36,1.59e-06,0.0841,0.963,142.266,4,rockabilly
+0a4npNaaH0FuAVkH2ORqpH,The Hillbilly Moon Explosion,Raw Deal,Maniac Lover,22,219266,False,0.5,0.836,4,-7.909,0,0.0341,0.025,0.00126,0.16,0.515,99.446,4,rockabilly
+47w0bCg60WtegkZYYQZOMd,Southern Culture on the Skids,Plastic Seat Sweat,Banana Puddin',23,288298,False,0.545,0.863,1,-4.066,1,0.0321,0.382,3.55e-06,0.103,0.892,134.224,4,rockabilly
+6eTjWy4MXJymRuJwwDUS2C,The Playtones,Rock'n Roll Is King,Madeleine,23,188026,False,0.467,0.873,9,-5.995,1,0.0395,0.0208,0.000386,0.282,0.961,158.024,4,rockabilly
+1U0IIhrMkhadvXOnSZ1tUT,Buddy Holly;Gregory Porter;Royal Philharmonic Orchestra,Still Rising - The Collection,Raining In My Heart,25,170386,False,0.527,0.26,7,-12.978,1,0.0304,0.59,0.000112,0.073,0.579,105.687,4,rockabilly
+2OARIMw1hpehr86Iwmv04c,Buddy Holly;The Crickets,Buddy Holly,Peggy Sue,59,150960,False,0.676,0.424,9,-8.132,1,0.0329,0.947,0.000494,0.119,0.493,148.373,4,rockabilly
+7DgAvD18BX3KeUSVUtwTL2,The Meteors,Bastard Sons of a Rock n' Roll Devil,Psychobilly Stomp (The Real MC.Coy),23,258026,False,0.362,0.907,5,-9.298,0,0.0551,0.351,0.773,0.367,0.617,131.691,4,rockabilly
+5Ya7FRcfqrm5yyW0zCIpFh,Johnny Burnette & The Rock 'N' Roll Trio,Tear It Up: The Complete Legedary Coral Recordings,Eager Beaver Baby - Single Version,23,121666,False,0.695,0.535,7,-8.851,1,0.0527,0.831,4.12e-06,0.137,0.771,130.074,4,rockabilly
+6FlMYrisBkSY2PfFTajWvB,Elvis Presley,Aloha from Hawaii via Satellite (Legacy Edition),"Long Tall Sally / Whole Lotta Shakin' Goin' On - Live at The Honolulu International Center, Hawaii January 14, 1973",23,124653,False,0.561,0.793,0,-11.654,1,0.0405,0.63,2.67e-05,0.745,0.891,97.986,4,rockabilly
+1ntGJDSakqsaw1KhptKrB5,The Platters,The Platters,My Prayer,53,167800,False,0.359,0.272,10,-8.393,1,0.0294,0.812,0.0,0.095,0.254,109.249,3,rockabilly
+3NeGGLc03MKcd1Sl2YflI1,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Can't Help Falling In Love,51,177840,False,0.437,0.325,2,-11.066,1,0.0268,0.893,4.93e-06,0.107,0.362,101.577,3,rockabilly
+0gHSwPpnHuLn66mtN3wnd4,The Platters,The Very Best Of The Platters,Enchanted,37,171693,False,0.382,0.223,3,-13.817,1,0.0324,0.903,3.23e-06,0.282,0.292,79.395,4,rockabilly
+7IN7zeBVrXGf9B3yLZYeQM,Jitterin' Jinn,ハッピーカムカム,アニー,22,248906,False,0.712,0.959,9,-10.651,1,0.034,0.185,0.00126,0.0513,0.97,160.397,4,rockabilly
+7uQwjfW1G67202A33odrlh,Crazy Ken Band,樹影,おじさん,22,279073,False,0.574,0.515,9,-10.372,1,0.0275,0.58,0.0,0.339,0.64,98.057,3,rockabilly
+2UCpj9yvbos0fqfMUWP4si,Eikichi Yazawa,I am a Model (50th Anniversary Remastered),ミスティ misty - Remastered 2022,22,223626,False,0.529,0.535,9,-10.744,1,0.0459,0.378,0.000184,0.044,0.673,169.372,4,rockabilly
+7JKzpxMrN4QpApzbkIJhy7,Crazy Ken Band,GALAXY,メリメリ,23,233786,False,0.589,0.866,10,-5.646,0,0.0639,0.318,0.0,0.347,0.923,95.054,4,rockabilly
+6Z7h9EstX9Dufe4IieibPU,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),アリよさらば - Live at 日本武道館'97 - Remastered 2022,22,232986,False,0.669,0.94,11,-7.346,0,0.0506,0.000892,4.22e-05,0.966,0.711,124.025,4,rockabilly
+56XoFI6v7kbGNdM8ALYWof,Ricky Nelson,The Legendary Masters Series (Volume 1),Lonesome Town - 1990 Digital Remaster,50,135840,False,0.508,0.0965,11,-18.283,1,0.031,0.856,0.012,0.102,0.296,77.907,4,rockabilly
+1vGfZYrNSxT72PdgToMubU,Elvis Presley,Elvis Is Back,Such a Night,54,178760,False,0.418,0.766,11,-11.415,1,0.0862,0.747,0.0,0.222,0.906,171.755,4,rockabilly
+7iOkj3G0gQPg8d3eHpmvhe,Shakin' Stevens,"Lipstick, Powder and Paint",Teardrops,36,237920,False,0.583,0.719,9,-4.521,1,0.0248,0.262,1.77e-05,0.0504,0.664,109.05,3,rockabilly
+2frzTmZ8Yy0DkTszstwGw6,Wild Wax Combo,Model A,I'm on Fire,22,136399,False,0.562,0.857,2,-6.261,0,0.0578,0.604,0.0,0.209,0.864,139.542,4,rockabilly
+1kx5O4CQc8L1YyAEvFKlNg,Crazy Ken Band,愛があるなら年の差なんて,愛があるなら年の差なんて,22,277093,False,0.633,0.782,7,-7.197,0,0.0326,0.515,0.0012,0.121,0.68,105.002,4,rockabilly
+5EXFyvILBXij8ypL2GIBvU,BOØWY,PSYCHOPATH,CELLULOID DOLL,24,153133,False,0.703,0.977,4,-5.144,1,0.0474,0.0218,0.000277,0.193,0.795,106.306,3,rockabilly
+2B4IYgIkBnemrp0YEkaUIH,Wanda Jackson,Wanda Jackson,Let's Have A Party,53,131200,False,0.522,0.901,4,-8.559,1,0.0479,0.535,9.3e-06,0.176,0.916,166.885,4,rockabilly
+0VDSyxeOwsmdqoYXAtTaeH,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),MARIA - Live at 横浜アリーナ'97 - Remastered 2022,22,205560,False,0.664,0.821,6,-6.04,1,0.0243,0.013,0.00388,0.303,0.498,104.011,4,rockabilly
+3whENzWXwXqgClynkEdj7C,Elvis Presley,Love Letters from Elvis,Life,23,190280,False,0.288,0.491,9,-11.841,1,0.0384,0.615,0.000192,0.567,0.719,87.435,4,rockabilly
+42ojLX3UYsp4XhaX0sx29E,The Marcels,The Best Of The Marcels,Blue Moon,52,138360,False,0.624,0.432,7,-11.132,1,0.0344,0.656,0.0,0.0785,0.935,127.69,4,rockabilly
+5k8HtMMebjFkS2GMy8eKUi,João Gordo,Brutal Brega,Tô Doidão,22,165786,False,0.594,0.891,4,-8.581,1,0.0393,0.00231,0.00443,0.655,0.928,159.997,4,rockabilly
+3RVKeAie8vdadw5r1PPBx5,Jody Reynolds,Endless Sleep,(Evil Hearted Me) Downright Evil,23,154466,False,0.593,0.865,4,-10.227,1,0.0378,0.719,2.29e-05,0.303,0.969,157.96,4,rockabilly
+0j23sgMqelcyiP866gXsBI,BOØWY,BOφWY,DANCE CRAZE,24,179133,False,0.769,0.804,10,-7.534,1,0.0429,0.0225,0.0296,0.021,0.632,127.131,4,rockabilly
+2GM23TPqcL8zXBhWf1fjaD,Elvis Presley,Speedway,Western Union,23,131413,False,0.656,0.72,5,-9.007,1,0.0573,0.774,0.000349,0.324,0.95,141.651,4,rockabilly
+41JI5sBDfqReFuEcdaVt5j,João Gordo,Brutal Brega,Amante Latino,22,162680,False,0.493,0.849,9,-7.563,1,0.0622,0.00368,9.71e-05,0.333,0.888,185.039,4,rockabilly
+7qdPnRNw3pBcUw14IgUOE7,Eduardo Araujo,Bis - Jovem Guarda,No Rancho Fundo,23,178866,False,0.414,0.633,4,-11.174,1,0.0525,0.219,7.55e-05,0.125,0.527,146.458,4,rockabilly
+0MDzpSrAf7vTX1vtl2qw9K,BOØWY,BOφWY,黒のラプソディー,24,215306,False,0.602,0.821,7,-7.285,1,0.0808,0.00182,0.000157,0.162,0.497,96.464,4,rockabilly
+2rBXPL2zK799KQpCdAotSI,Imelda May,11 Past The Hour,Breathe,21,204360,False,0.271,0.563,6,-8.573,1,0.0386,0.577,1.49e-05,0.177,0.195,176.713,3,rockabilly
+5YO6FmBuCpd5HJvT1GCYnc,Big Daddy & Rockin' Combo,Runaway,Runaway,23,166920,False,0.615,0.799,7,-8.019,1,0.0375,0.0251,0.00292,0.125,0.715,75.003,4,rockabilly
+3kR46NDulqIda1yZqrspnn,Jumpin'up,Swing It Again,Baciami piccina (Botch-A-Me),23,194666,False,0.694,0.591,7,-6.591,0,0.0974,0.384,0.0784,0.12,0.943,93.816,4,rockabilly
+5h7t3xeHdfDthaqIF0fn3q,Eikichi Yazawa,TEN YEARS AGO (50th Anniversary Remastered),ミスター・ギブソン (セルフカバー) - Remastered 2022,22,160200,False,0.585,0.825,5,-8.653,0,0.0484,0.00398,1.5e-05,0.14,0.773,115.266,4,rockabilly
+7jZwak3w1Sbwkb8aqusUwi,Duane Eddy,Twangin' The Golden Hits,Rebel Rouser,49,153933,False,0.408,0.497,7,-10.092,1,0.0374,0.822,0.839,0.718,0.928,204.592,4,rockabilly
+0mLzs7HA6ERXy1RZuivjBO,Imelda May,Mayhem,Bury My Troubles,21,186746,False,0.797,0.562,7,-4.792,0,0.0302,0.334,0.0012,0.179,0.839,112.025,4,rockabilly
+1qC8zQRrdkZCwzQ5N4ECoD,Connie Francis,Gold,Everybody's Somebody's Fool,48,157880,False,0.584,0.737,1,-4.643,1,0.0306,0.745,1.93e-05,0.208,0.753,84.322,4,rockabilly
+1yFAmicXSTBlBMnHcRIWKO,Texabilly Rockets,Bop Potion No 5,Gotta Love You Baby,22,135400,False,0.617,0.994,5,-1.518,1,0.0913,0.766,4.57e-05,0.252,0.598,100.082,4,rockabilly
+3SAdoXTrYdw5Va3eAB038W,The Go Getters,Rock & Roll Is Everywhere,Speed Limit,21,140440,False,0.619,0.858,9,-5.164,1,0.0473,0.00138,0.00542,0.112,0.757,106.11,4,rockabilly
+6lxKLjWjADsC3BAhi3228I,Mike Teardrop Trio,Hangin' Around,Honky Tonk Hardwood Floor,22,132649,False,0.734,0.931,9,-5.733,1,0.0775,0.597,0.0,0.191,0.966,92.182,4,rockabilly
+4MMI40mol3S79cEsOKaifK,The Baseballs,The Sun Sessions,...Baby One More Time,22,190675,False,0.599,0.718,0,-7.085,1,0.121,0.275,2.19e-06,0.29,0.722,79.992,4,rockabilly
+3BBQNmqsLA0QWzpbCk0v5r,Imelda May,Love Tattoo,Feel Me,21,177733,False,0.656,0.762,8,-5.144,1,0.0335,0.00138,0.339,0.169,0.811,106.154,4,rockabilly
+69ozbSmiU02mwqhxaqymNC,Brenda Lee,Xmas Classics - Essential Christmas Songs,Rockin' Around the Christmas Tree - Remastered,24,127320,False,0.672,0.503,8,-8.328,1,0.0596,0.726,0.0,0.288,0.845,70.908,4,rockabilly
+42iwgWCBOJr142iY4wB8un,Elvis Presley,Pure... 70's Dance Party,"Burning Love - Digitally Mastered- May - June, 1988",23,173506,False,0.563,0.955,2,-7.139,1,0.0502,0.418,0.0,0.118,0.923,143.219,4,rockabilly
+0V58TmLnChjbNycM9QfFC0,The Everly Brothers,The Fabulous Style Of The Everly Brothers,Let It Be Me,48,158560,False,0.229,0.125,7,-14.462,1,0.0335,0.841,0.0,0.178,0.261,179.181,3,rockabilly
+4uerkM87jKGkJ7f6jmRYWl,Toini & The Tomcats,Awake at Night,Talk to You Later,22,193653,False,0.718,0.922,2,-4.446,1,0.0538,0.569,0.000112,0.197,0.777,119.306,4,rockabilly
+6edZ0TuyxgifbQPLy3t2Cr,John Wildcat;Raggarbritta,Bilburen Gangster,Jag Är En Ligist,23,138346,False,0.707,0.751,7,-6.025,1,0.0316,0.479,4.01e-05,0.0933,0.966,119.946,4,rockabilly
+2F2iucbmcrCvCiKPF3LtNz,The Drifters,60s: The Collection,Under the Boardwalk,24,161773,False,0.743,0.324,7,-10.381,1,0.0395,0.767,0.0,0.088,0.768,123.792,4,rockabilly
+7HfF51FWYji8RUB1aoI8ru,Johnnie Ray,16 Most Requested Songs,Just Walkin' in the Rain,25,157240,False,0.638,0.188,5,-16.788,1,0.0363,0.87,0.0,0.0739,0.693,97.189,4,rockabilly
+0vKdmlGUHZC4NMUXKNGnNz,TT Grace,"Let Me in, Let´s Rock'n'roll","Let Me in, Let`s Rock`n Roll",22,193906,False,0.52,0.879,11,-8.729,0,0.113,0.000107,0.000118,0.0621,0.587,102.584,4,rockabilly
+75PVgxdZra8pK0mwGJwf0Q,The Brian Setzer Orchestra,The Dirty Boogie,Let's Live It Up,23,221893,False,0.366,0.894,0,-6.618,0,0.0881,0.0893,0.0,0.206,0.709,179.563,4,rockabilly
+3LILhhKRUnE9HTHxzk4L1t,Johnny & The Hurricanes,Rock 'N' Roll Legend: Johnny And The Hurricanes,Rockin' Goose,24,108373,False,0.599,0.757,5,-13.046,1,0.0401,0.522,0.462,0.181,0.961,166.287,4,rockabilly
+7DQ4Z21hk1wu1RuBMIbMfa,The Hillbilly Moon Explosion,Raw Deal,"Poupée de cire, poupée de son",22,158253,False,0.522,0.825,3,-7.103,1,0.0384,0.4,0.0,0.182,0.881,92.569,3,rockabilly
+3lbQFJ2QRvQ4zlq2GEGsKG,The Hillbilly Moon Explosion,Introducing the Hillbilly Moon Explosion,Clarksdale Boogie,22,180440,False,0.529,0.893,11,-7.173,0,0.0412,0.0361,0.00289,0.158,0.896,76.154,4,rockabilly
+5DbaYVlNQebfVJ4fc1CPpD,The Hillbilly Moon Explosion;Emanuela Hutter;Sparky Philips,My Love for Evermore (All the Greatest Hits Remastered),My Love for Evermore - Remastered,22,206306,False,0.68,0.617,9,-8.167,0,0.0284,0.395,3.88e-05,0.104,0.56,107.175,4,rockabilly
+5pLYbOJYUHdnim9lbjhN2C,Chris Montez,Watch What Happens,Watch What Happens,49,162280,False,0.542,0.41,9,-12.142,1,0.0364,0.669,0.0,0.673,0.68,118.783,4,rockabilly
+7vAw4LLIms6X8ZHcbtoazz,Dion & The Belmonts,Presenting Dion And The Belmonts,I Wonder Why,54,141386,False,0.506,0.699,10,-3.834,1,0.0348,0.569,0.0,0.158,0.901,103.463,4,rockabilly
+0s3DYFA62sx5dUfPPRucOR,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Are You Lonesome Tonight?,49,186506,False,0.428,0.201,0,-12.399,1,0.044,0.917,0.000436,0.116,0.187,88.752,4,rockabilly
+1c1WAHT4YkS0ualatx3nxg,THE MODS,BEAT ODYSSEY,BABY BLUE,23,259346,False,0.618,0.793,2,-9.916,1,0.0368,0.0093,2.93e-05,0.129,0.58,125.203,4,rockabilly
+1uc0yWeUO9sM2T9cbW2Agw,THE MODS,BEAT ODYSSEY,LET'S GO GARAGE,23,178080,False,0.474,0.592,11,-12.42,0,0.0542,0.000523,0.00632,0.139,0.65,98.65,4,rockabilly
+3e6DgJHco44VZekE9wz8Wh,Johnny Burnette,Dreamin',Dreamin',52,141493,False,0.471,0.449,11,-9.845,0,0.0546,0.794,2.25e-05,0.35,0.715,74.673,4,rockabilly
+6S9cD7tH4ddYXuat55DqgW,Crazy Ken Band,好きなんだよ,雨に泣いてる,22,256746,False,0.727,0.898,2,-4.399,0,0.0278,0.0148,0.000178,0.0695,0.902,128.008,4,rockabilly
+1aECQTfv5SO42lU4fvrdJJ,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Surrender,53,112226,False,0.454,0.666,3,-8.193,1,0.0379,0.758,2.89e-05,0.275,0.894,82.61,4,rockabilly
+18saDSsPSQqVk3fv7ZYTHL,Eikichi Yazawa,アルバム未収録集 (50th Anniversary Remastered),夏の終り(1995Ver. セルフカバー) - Remastered 2022,22,225418,False,0.563,0.305,2,-12.784,1,0.0261,0.643,3.15e-06,0.102,0.333,84.316,4,rockabilly
+6aKzxns1rGMjLSij4PuWhh,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),(Now and Then There's) A Fool Such as I,52,159360,False,0.574,0.714,0,-6.344,1,0.0403,0.901,1.7e-05,0.255,0.722,63.623,4,rockabilly
+19ZjBzxJ5ARxbln6Qmw1AN,Ray Peterson,Missing You,"Corrina, Corrina",47,162160,False,0.481,0.413,9,-8.688,1,0.0326,0.798,1.61e-05,0.0817,0.681,127.591,4,rockabilly
+1VI29k31nGdasgJ8BBpPu8,Neil Sedaka,Collections,Oh! Carol,46,135773,False,0.584,0.743,8,-7.039,0,0.0463,0.766,0.0,0.319,0.815,132.747,4,rockabilly
+4Xotl6L8N0hyNiN4fGICEh,Eikichi Yazawa,情事 (50th Anniversary Remastered),時計仕掛けの日々 - Remastered 2022,22,227093,False,0.637,0.954,9,-7.604,0,0.0448,0.344,0.0,0.0623,0.883,128.124,4,rockabilly
+7u26KINEAKojv88UOaIMpS,Eikichi Yazawa,LIVE DECADE 1990-1999 (50th Anniversary Remastered),TAKE IT TIME - Live at 日本武道館'98 - Remastered 2022,22,269280,False,0.497,0.962,6,-6.881,0,0.0746,0.00692,2.02e-05,0.36,0.499,161.686,4,rockabilly
+4OnqJ1ml4Jgr5AAKNrrYCD,The Coasters,The Coasters,Down in Mexico,54,196466,False,0.614,0.589,1,-8.667,1,0.0573,0.7,0.0,0.069,0.894,111.879,4,rockabilly
+0bRR8AwiKQNsvidcNBnQCK,The Baboons,Uptown and Back Again,Devil Moon,22,197546,False,0.542,0.544,5,-11.213,1,0.0339,0.485,7.92e-05,0.422,0.741,105.175,4,rockabilly
+6qNY8xr8GNcvskh5GkVS7b,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Viva Las Vegas (Bonus Track),55,144840,False,0.608,0.567,7,-11.297,1,0.0445,0.819,0.0,0.344,0.861,144.022,4,rockabilly
+2QIouSWy8hIz47oBLeDfBX,Jerry Lee Lewis,Original Golden Hits (Vol. 2),Save the Last Dance for Me,46,110000,False,0.481,0.66,5,-7.123,1,0.0369,0.578,0.0,0.199,0.884,162.093,4,rockabilly
+49h88o4NI0i0WTkU2HN1JS,João Gordo,Brutal Brega,Eu Vou Rifar Meu Coração,22,141106,False,0.648,0.883,4,-7.021,1,0.037,0.00479,6.09e-06,0.396,0.949,130.027,4,rockabilly
+6QVhD1GF91jgMfUI2ZAuJO,Los Vaguens,Hotel Acapulco,Acapulco,22,179226,False,0.638,0.587,6,-10.838,1,0.0533,0.196,3.03e-05,0.292,0.786,105.045,4,rockabilly
+4Y8LIgUI8tmqb1MmgHm727,Bob & Lucille,Eeny Meeny Miney Moe,Demon Lover,21,161040,False,0.711,0.319,11,-10.289,0,0.0649,0.904,0.0,0.143,0.74,69.58,4,rockabilly
+2Mp8l8gam0wRVnbZQDHLg5,Elvis Presley,Girl Happy,Fort Lauderdale Chamber of Commerce,22,90706,False,0.69,0.215,2,-15.494,1,0.0467,0.787,0.0,0.206,0.904,114.561,4,rockabilly
+4BYYCp48UbtbrOcHpQLg3f,Eikichi Yazawa,TEN YEARS AGO (50th Anniversary Remastered),最後の恋人 (セルフカバー) - Remastered 2022,22,187986,False,0.694,0.664,0,-9.197,1,0.0297,0.0196,4.49e-05,0.0914,0.812,122.371,4,rockabilly
+4HLJfzxYJTAnJ1rUVYsPMO,Los Vaguens,Hotel Acapulco,Júpiter,22,144346,False,0.466,0.663,5,-10.792,1,0.0412,0.016,0.000666,0.114,0.722,138.385,4,rockabilly
+0k6oKzcvfTJh59e20ouMHH,Snake-Bite,Full Throttle,Rockabilly Kangaroo,22,160026,False,0.486,0.755,7,-9.549,1,0.0463,0.111,2.76e-05,0.233,0.966,179.482,4,rockabilly
+5Q7z7pU21TygwhXm5wnYZB,Crazy Ken Band,Single Collection / P-VINE YEARS,香港グランプリ,22,198493,False,0.539,0.87,2,-4.307,1,0.203,0.0164,0.0,0.151,0.663,169.057,4,rockabilly
+5NItI4mEfxJqhnyaVRjMDR,Webb Pierce,Golden Hits - Volume I (Vol. 1),I'm Walking the Dog,22,143730,False,0.374,0.439,9,-10.924,1,0.0309,0.679,0.000209,0.132,0.83,144.654,4,rockabilly
+16GMlvbWHeWXHYzJCVtD6d,Charlie Feathers;Jody & Jerry,Meteor Rockabilly & Hillbilly Recordings,Get with It,23,124160,False,0.748,0.652,2,-8.089,1,0.0281,0.733,0.0,0.0776,0.921,100.894,4,rockabilly
+4kEdOAZlGaIzQwv6Bg7oSD,Nick Curran and the Lowlifes,Reform School Girl,Baby You Crazy,22,132813,False,0.549,0.942,5,-3.619,1,0.0457,0.503,4.9e-05,0.325,0.923,91.179,4,rockabilly
+4YQ94KSsJ9FSVZHvoo1PCO,Imelda May,11 Past The Hour,Can't Say,22,227440,False,0.345,0.241,7,-9.113,1,0.0458,0.872,1.42e-05,0.0953,0.221,76.879,4,rockabilly
+4q5CT5LUEabNmnMgaJmU20,Roy Orbison,The Essential Roy Orbison,Leah,24,160866,False,0.622,0.348,4,-10.334,1,0.0307,0.848,0.000212,0.064,0.424,102.527,4,rockabilly
+1B4ZZJiw59S4vBwMVptFhG,Imelda May,Mayhem,Eternity,22,196466,False,0.658,0.865,2,-4.241,1,0.0279,0.32,8.52e-05,0.0566,0.903,89.995,4,rockabilly
+2P8ruXnV0coLc7dAa93ZPy,The Meteors,Teenagers from Outer Space,My Daddy Is a Vampire,23,219333,False,0.37,0.683,6,-9.647,0,0.0282,0.142,5.28e-05,0.279,0.271,95.955,4,rockabilly
+0ocYpRgwVdunEea31HbfGK,Imelda May,More Mayhem,Tainted Love,21,165586,False,0.494,0.923,9,-2.013,0,0.116,0.149,0.0,0.148,0.719,174.914,4,rockabilly
+5uLI5nNH2i5X0oE8oU1cq2,The Hub Caps,Rockabilly Party,Tiger,22,133920,False,0.628,0.948,6,-5.646,0,0.0611,0.162,0.0,0.026,0.964,89.992,4,rockabilly
+13r0Ffx6F3tRANYleJtMsD,Francine,Trouble - EP,Tainted Love,22,192973,False,0.353,0.936,6,-7.152,0,0.171,0.0237,2.45e-06,0.126,0.505,186.602,4,rockabilly
+3IBoPIzNR8NhllqeWQV3ML,Imelda May,Mayhem,Pulling The Rug,22,233639,False,0.716,0.859,0,-2.89,1,0.0374,0.114,2.6e-05,0.0826,0.832,104.99,4,rockabilly
+6QJme6cl8r17i7RMUcUvz9,The Go Getters,Hot Rod Roadeo,Blitzkrieg Bop,21,177880,False,0.508,0.991,2,-1.642,1,0.0496,0.102,6.18e-06,0.276,0.775,102.116,4,rockabilly
+0uSd9wC6aZB4eZ6cTgF0SL,The Baseballs,Forever Young,Forever Young,22,182173,False,0.455,0.805,8,-5.346,1,0.037,0.445,2.84e-05,0.323,0.934,82.401,4,rockabilly
+4VsPj1Kmj1z5PoAzCXkxlO,The Delta Bombers,Howlin,Howlin,22,124598,False,0.714,0.958,9,-3.923,0,0.0767,0.334,0.223,0.285,0.773,103.991,4,rockabilly
+1xGX57W7WQVN5TYEnCdZgo,Imelda May,No Turning Back,Dealing with the Devil,21,138933,True,0.661,0.881,9,-4.433,1,0.0461,0.223,8e-05,0.271,0.96,79.345,3,rockabilly
+6Vae0PVYJDP8v4bS6NdhYz,The Creepshow,Sell Your Soul,Shake,23,218333,False,0.477,0.969,4,-0.88,0,0.126,0.00279,0.0,0.289,0.513,101.04,4,rockabilly
+2GZpVvcUlEPg5eVmUUSrzd,The Creepshow,Death at My Door,My Soul to Keep,22,312906,False,0.553,0.19,11,-10.184,1,0.0289,0.633,8.58e-05,0.173,0.261,140.076,4,rockabilly
+7tjBJNURg9ovvoRDkuPYtt,Toini & The Tomcats,Traction,Roses,22,292720,False,0.503,0.671,4,-6.404,0,0.0247,0.299,0.0,0.139,0.451,94.928,3,rockabilly
+6XK5VcVlY38BnKfw6shMmv,The Creepshow,Death at My Door,Another Way Out,23,234660,False,0.548,0.964,9,-3.018,1,0.0784,0.000106,8.58e-05,0.305,0.367,110.037,4,rockabilly
+7o8bf9SHWmIAgTdexmgyj5,The Brian Setzer Orchestra,The Dirty Boogie,Since I Don't Have You,23,249266,False,0.33,0.533,0,-6.25,1,0.032,0.105,0.0,0.0725,0.506,112.785,4,rockabilly
+0aflkSQaHnq3ZCaMoawMSu,Fats Domino,The Complete Imperial Singles,It Keeps Rainin',24,162715,False,0.81,0.671,5,-6.361,1,0.0374,0.41,9.77e-05,0.12,0.969,117.903,4,rockabilly
+33aYzW5ToRjiFOzkubeJ8H,Buddy Holly;The Crickets,Buddy Holly,Rave On,57,109960,False,0.566,0.711,0,-6.536,1,0.0335,0.611,6.59e-06,0.417,0.961,159.629,4,rockabilly
+5Xk9S2AxytNejHXIXQncrR,John Lindberg Trio,Straight from the Heart,Sweet Love,21,144629,False,0.623,0.805,2,-5.693,1,0.0419,0.0981,0.0126,0.129,0.773,80.998,4,rockabilly
+3WZw5OqPDCEP2JKwWoP3Rm,Matchbox,Rockabilly Rebel,Buzz Buzz a Diddle It,22,172293,False,0.696,0.841,7,-6.818,1,0.0691,0.0732,3.69e-06,0.28,0.788,117.242,4,rockabilly

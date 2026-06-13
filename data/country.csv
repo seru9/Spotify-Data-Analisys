@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2wrJq5XKLnmhRXHIAf9xBa,Dan + Shay;Justin Bieber,"10,000 Hours (with Justin Bieber)","10,000 Hours (with Justin Bieber)",78,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,4,country
+6AHJTA1BN7ePfChCwqph3z,Luke Bryan,Country USA,Country On,0,236455,False,0.52,0.751,5,-5.064,1,0.0551,0.171,7.4e-06,0.0624,0.519,156.044,4,country
+5eUtyONoPyfZYGrFHmZzlc,Thomas Rhett,Mientras hago aromaterapia,Die A Happy Man,1,228320,False,0.59,0.389,2,-9.245,1,0.0387,0.411,1.48e-06,0.117,0.389,166.055,4,country
+1e3QZ42GsP8cTy5uQ0G7J3,Zach Bryan,New Country,Something in the Orange,3,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+5Vnx0s7H73V3l6qPWvbHIM,Zach Bryan,Easy Country,Something in the Orange,4,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+0aEPP6wdKf2uBYEz72gnAe,Zach Bryan,Relaxing Pop,Something in the Orange,4,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+1Op9SWtCrRGmax5BjNehes,Zach Bryan,It's You - Fresh Hits,Something in the Orange,2,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+3IMghNhZWUZ2S1PjXK7zBd,Zach Bryan,Beautiful Trending Hits 2022,Something in the Orange,2,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+0VFF0uBG8KYutpiF4C8DA0,Zach Bryan,rainy day indie,Something in the Orange,1,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+43WFp6WBAvNgc7iaFFEUJp,Luke Bryan,Tailgate Country,Country Girl (Shake It For Me),2,225560,False,0.644,0.904,2,-4.532,1,0.0464,0.0295,0.0,0.0834,0.672,105.969,4,country
+3FOLF9tK1usNKU5EriOv4G,Zach Bryan,I'm Blue - Hits of 2022,Something in the Orange,1,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+1B3WNcUnRMZvJ9YPVYmW7u,Zach Bryan,Hideaway - New Boots,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+16LAkUOZbmqdHgicUsHY1S,Thomas Rhett,Sad Country Songs,Slow Down Summer,8,216764,False,0.464,0.755,4,-5.707,1,0.0354,0.00838,0.0,0.0989,0.449,155.973,4,country
+0DgoQwJjr6oM5vFIRtFJNu,Zach Bryan,Give You Love - Cozy Hits,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+3PoUfHaM3PVrqDXhKUqPW2,Zach Bryan,Hits Hits Hits,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+6rfDtM5aHbsaLGAUxfIgpN,Florida Georgia Line,Sad Country Songs,Stay,2,200426,False,0.493,0.931,1,-2.99,1,0.041,0.0838,0.0,0.172,0.556,141.979,4,country
+24NRxtqD6oySjRnAZxa4Hf,Zach Bryan,Country Car Hits,Oklahoma Smokeshow,3,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+4F2xA29Ea6dt4Nw0yiztvT,Zach Bryan,Oklahoma Smokeshow - Breakout Country,Something in the Orange,1,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+1uv9nDXqHJkybUGfVJws3U,Zach Bryan,Hideaway - New Boots,Oklahoma Smokeshow,5,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+3opqy7HYeNHQaUwYVS7cLo,Thomas Rhett;HARDY,Tailgate Country,Put It On Ice,0,184800,False,0.554,0.757,0,-4.298,1,0.0355,0.0101,0.0,0.0604,0.629,75.049,4,country
+66ERrn57fmkbOq9zhELGPv,Zach Bryan,rainy day indie,November Air,2,243709,False,0.429,0.197,3,-9.798,1,0.032,0.774,3.02e-06,0.146,0.197,128.49,4,country
+32nkedxdwf3uW4jS8Jdxca,Zach Bryan,Cozy Country,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+46lUgixgC1Q39P0oWwJZLF,Thomas Rhett;Danielle Bradbery,Sad Country Songs,Playing With Fire,3,206706,False,0.477,0.697,11,-4.348,1,0.0301,0.031,0.0,0.111,0.486,150.048,3,country
+7nbj09isjVmgNYJ7eKBzyt,Zach Bryan,Your Perfect Soundtrack,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+6RfcUecxEqj4rFo9vhvpCr,Zach Bryan,Country Road Songs,Oklahoma Smokeshow,0,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+50c1S2S83wvta4UOk910MY,Zach Bryan,Oklahoma Smokeshow - Breakout Country,Oklahoma Smokeshow,0,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+7C9wYAslZ7ffzhJZTyaCYs,Zach Bryan,Laidback Country,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+3ph79KYuJ2bndNPA2c1tRH,Florida Georgia Line,Country USA,I Love My Country,0,185466,False,0.525,0.94,4,-3.546,1,0.065,0.0283,0.0,0.236,0.636,140.093,4,country
+7M9ZOPynXtdsAYhDCeeYnN,Zach Bryan,Single Saturday Night - Country Songs,Something in the Orange,0,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+4tYjwNdqpgvvgOt1O6li7x,Zach Bryan,Never Leave - Country Magic,Oklahoma Smokeshow,1,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+60HMnpDctYiFAoGkj5ciW6,Luke Bryan,Country Christmas Greatest Hits,Run Run Rudolph,2,172733,False,0.606,0.972,9,-4.872,1,0.0459,0.0217,0.000161,0.338,0.856,151.049,4,country
+6UmnCDi8DGVLqh7M2gltkq,Creedence Clearwater Revival,Rock Workout 2023,Have You Ever Seen The Rain,1,160133,False,0.741,0.697,0,-7.03,1,0.0277,0.0665,2.35e-05,0.133,0.774,116.109,4,country
+6ZqH4uUlj3rArdFyaejq9n,Zach Bryan,Burn Burn Burn - Hot Country Hits,"Burn, Burn, Burn",0,268856,False,0.508,0.296,3,-10.513,1,0.0755,0.897,5e-05,0.11,0.134,82.532,4,country
+62GUsHPmjBVmuDmyE3PuGP,Zach Bryan,New Country Hits,Oklahoma Smokeshow,0,211739,False,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,4,country
+49oArb5U9DsUXpPSjDPsob,Creedence Clearwater Revival,REGNIG DAG,Have You Ever Seen The Rain,1,159693,False,0.779,0.662,0,-5.826,1,0.0284,0.141,1.16e-05,0.119,0.811,116.115,4,country
+754GZNuFfUJ0RVPjG8Gwaw,Luke Bryan,Artsy & Colourful,Rain Is A Good Thing,0,176160,False,0.622,0.931,11,-4.66,0,0.0507,0.106,2.45e-06,0.328,0.521,108.051,4,country
+71Qz8eIA8FAty6bWWowNDH,Luke Bryan,Christmas Country Songs 2022,Run Run Rudolph,0,174360,False,0.611,0.972,9,-4.845,1,0.0464,0.0253,0.000111,0.28,0.871,150.992,4,country
+4ciJOrk7GS4N0wJeQJATLN,Zach Bryan,Good Times Country,If She Wants a Cowboy,3,192293,False,0.553,0.823,7,-3.194,1,0.0689,0.0201,0.0,0.111,0.552,133.781,4,country
+2wSZhX2Yvslh1oZFFjj45p,Florida Georgia Line,Tailgate Country,Sun Daze,0,185400,False,0.484,0.944,4,-3.652,1,0.0413,0.0901,0.0,0.471,0.839,170.064,4,country
+7m0ZqFw6SHoAvtEccpMOs3,Creedence Clearwater Revival,Best 70s Rock Tunes,Hello Mary Lou,2,134440,False,0.633,0.674,9,-8.638,1,0.0348,0.0572,0.00154,0.0504,0.965,103.426,4,country
+6ndj9mwGI2t50WWLPwLzIM,Zach Bryan,Finest Country,Heavy Eyes,0,190780,False,0.471,0.912,5,-3.032,1,0.0724,0.032,0.0,0.343,0.613,139.667,4,country
+4nyN0a40cy71y5kWMLL6A2,Creedence Clearwater Revival,Twisted Halloween Hits,I Put A Spell On You,0,271786,False,0.393,0.732,4,-8.188,0,0.0295,0.00471,0.123,0.0979,0.621,100.41,4,country
+014SIjoLDG1Ku19c5FlDYh,Creedence Clearwater Revival,Pumpkin Patch Hits,I Put A Spell On You,0,271786,False,0.393,0.732,4,-8.188,0,0.0295,0.00471,0.123,0.0979,0.621,100.41,4,country
+1Ygg8lP3sRwkN9aEyBQgC6,Creedence Clearwater Revival,Fishing Music,Bad Moon Rising,1,141600,False,0.508,0.769,2,-5.973,1,0.0326,0.0577,6.1e-06,0.063,0.939,178.95,4,country
+2rggQ3hWhqF27FaxGLPnth,Creedence Clearwater Revival,Halloween Scary Party,I Put A Spell On You,0,270360,False,0.437,0.742,4,-7.062,0,0.0291,0.00651,0.037,0.112,0.688,102.186,4,country
+6Pt0FLZMQcycOm3BwToqQa,Creedence Clearwater Revival,Christmas time but not Christmas songs 2022,Fortunate Son,0,140773,False,0.64,0.663,0,-7.516,1,0.0373,0.201,0.00806,0.152,0.665,132.768,4,country
+3h39RyWGw1toh9dpSeNbdE,Creedence Clearwater Revival,60s Christmas Party,Bad Moon Rising,0,141600,False,0.508,0.769,2,-5.973,1,0.0326,0.0577,6.1e-06,0.063,0.939,178.95,4,country
+0BIpEYy15QaMusucc8H0l7,Creedence Clearwater Revival,Anthems for Witches 2022,Bad Moon Rising - Remastered 1985,0,139279,False,0.621,0.85,2,-4.203,1,0.0311,0.0221,1.52e-06,0.0581,0.923,89.497,4,country
+3qFSZXYoXpyjTvlG4jX9hJ,Zach Bryan,Single Saturday Night - Country Songs,Heading South,0,210304,True,0.617,0.378,4,-7.108,1,0.0662,0.808,2.33e-05,0.179,0.345,98.299,4,country
+5OLWhgBWQYUN6llsmYkPGp,Creedence Clearwater Revival,Spooky Scary Season,Bad Moon Rising - Remastered 1985,0,139279,False,0.621,0.85,2,-4.203,1,0.0311,0.0221,1.52e-06,0.0581,0.923,89.497,4,country
+4j5ffIFh7bFT7GZciP1TCy,Dan + Shay;Justin Bieber,Good Things,"10,000 Hours (with Justin Bieber)",70,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+6Xf8iYxVkoNXqWB0Yjgcpb,Dan + Shay;Justin Bieber,Music for Rainy Days,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+3ovpz51ql3sXfcDc66DNFb,Thomas Rhett,Country USA,Country Again,0,221240,False,0.467,0.481,2,-6.947,1,0.0255,0.227,0.000189,0.11,0.248,147.886,4,country
+7BccBkxwRLREpmLjZtZVfd,Dan + Shay,New Country Hits,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+5Ry3XVXK0nINrrH84IoO3W,Dan + Shay;Justin Bieber,Cozy Country,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+7oTUCpSwd2yVIUnzT5uaIv,Dan + Shay,Relaxing Pop,Glad You Exist,1,144760,False,0.741,0.499,11,-8.035,1,0.0356,0.23,0.0,0.125,0.692,103.96,4,country
+2o2UZk7OFL6QeMUOZW7RnH,Dan + Shay,All That Really Matters - Just Hits,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+1s4GtzDwUCQPdvkb7vXBUc,Dan + Shay,20s Love Songs,Glad You Exist,1,144760,False,0.741,0.499,11,-8.035,1,0.0356,0.23,0.0,0.125,0.692,103.96,4,country
+5SfNJC5gLHSsyRKN04jVi3,Dan + Shay,Good Times Country,Alone Together,0,171440,False,0.541,0.871,1,-4.741,1,0.122,0.00527,0.0,0.0867,0.666,179.973,4,country
+6QEQQbdqy6MIjqIa8tNvTj,Dan + Shay,New Country,You,1,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+5ROz72zGx6pWOKoes5soBm,Dan + Shay,Single Saturday Night - Country Songs,Glad You Exist,0,144760,False,0.741,0.499,11,-8.035,1,0.0356,0.23,0.0,0.125,0.692,103.96,4,country
+1reKcluTdLC5sHyUi49XOV,Dan + Shay,Burn Burn Burn - Hot Country Hits,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+6dF0KC5b9O5yaVAP6t6oFa,Dan + Shay;Justin Bieber,Give You Love - Cozy Hits,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+3olUwN8JrVTL2Jh1yDyJHi,Dan + Shay;Justin Bieber,Easy Country,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+4rhIB4nVYTvB7wi6SrLp6z,Dan + Shay,Chillin' It - Mellow Day Country,Nothin' Like You,0,186253,False,0.586,0.704,4,-4.772,1,0.0307,0.15,0.0,0.067,0.442,84.982,4,country
+0E3guardtMOU1IwzELZdXA,Dan + Shay,Never Leave - Country Magic,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+47etYUs12o0yYHd2bQ7Hel,Jordan Davis;Luke Bryan,Autumn Vibe,Buy Dirt,0,167480,False,0.586,0.559,4,-6.725,1,0.05,0.639,0.0,0.0872,0.437,177.945,4,country
+4WL9q9SK8qIlleTzocUAtZ,Dan + Shay,Oklahoma Smokeshow - Breakout Country,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+3QXRiVwxn7MHstHs11mwkX,Dan + Shay,Happy Country Christmas,Officially Christmas,0,178386,False,0.655,0.677,6,-4.278,1,0.0326,0.146,0.0,0.131,0.62,127.041,4,country
+4cDX4xSAxCH2ckaU6cJM25,Dan + Shay;Mushroom People,Am I Ready - Pop Night Out,Tequila - Mushroom People Remix,0,197817,False,0.545,0.713,8,-6.944,0,0.0543,0.0187,0.0,0.0775,0.476,189.985,4,country
+6eWeTcpAu5F68IQf2xWTU3,Shania Twain,Los Clásicos del Pop 90s,You're Still The One,3,212560,False,0.558,0.54,3,-7.2,1,0.0305,0.501,0.0,0.252,0.654,133.774,4,country
+5VFKfahPr6qgucDOv7oMIh,Jon Pardi,Mientras hago aromaterapia,Heartache On The Dance Floor,0,205200,False,0.596,0.833,9,-4.308,1,0.0474,0.0563,0.0,0.0866,0.618,115.997,4,country
+5VCy743OaUmLpijIonFmaw,Shania Twain,Los Clásicos del Pop 90s,Man! I Feel Like A Woman!,3,233000,False,0.654,0.889,10,-3.058,1,0.0513,0.64,0.0,0.297,0.73,125.018,4,country
+0Qi2JkCpl4VrTVC6UqxSGX,Shania Twain,Coffee Break,You're Still The One,0,212560,False,0.558,0.54,3,-7.2,1,0.0305,0.501,0.0,0.252,0.654,133.774,4,country
+7jkbE3Gxpqp58m4bn5FWu7,Shania Twain,90's Music Grandi Successi,You're Still The One,0,212560,False,0.558,0.54,3,-7.2,1,0.0305,0.501,0.0,0.252,0.654,133.774,4,country
+42Do6gNxZctRhhWKw55RJ5,Cody Johnson,New Country,Human,2,221520,False,0.4,0.647,2,-7.279,1,0.0337,0.176,5.79e-05,0.11,0.274,84.08,4,country
+4quvClCm13beWUAS7A8oOb,Cody Johnson,Hideaway - New Boots,Human,0,221520,False,0.4,0.647,2,-7.279,1,0.0337,0.176,5.79e-05,0.11,0.274,84.08,4,country
+02HqnDssYA62iGapkpJIkJ,Cody Johnson,Country Car Hits,'Til You Can't,1,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+1vL63FmpGbAEpKCSh7ZsL0,Shania Twain,Sunny Mornings,I'm Gonna Getcha Good - Green Version,0,269400,False,0.724,0.789,1,-4.813,1,0.0302,0.0441,0.0,0.0612,0.945,124.013,4,country
+5NIghjUqcZEDKbjLtlFEnS,Cody Johnson,Easy Country,Fenceposts,0,177040,False,0.455,0.628,7,-6.253,1,0.0272,0.31,1.85e-06,0.223,0.402,160.0,4,country
+2intfvINZGxNvyMRZaC7mI,Cody Johnson,Country Christmas Time,Hat Made of Mistletoe,1,156346,False,0.598,0.943,2,-3.964,1,0.0347,0.0933,0.0,0.331,0.801,117.906,4,country
+7frfyLfeNQbyKvPUBdrDjl,Cody Johnson,Country Holiday,Hat Made of Mistletoe,0,156346,False,0.598,0.943,2,-3.964,1,0.0347,0.0933,0.0,0.331,0.801,117.906,4,country
+7HUlOKnGX8VZjwSCdd6N7X,Jon Pardi,Country USA,Dirt On My Boots,0,201893,False,0.683,0.796,11,-4.179,1,0.0284,0.112,0.0,0.197,0.533,90.031,4,country
+0mTSm4MqhfSwCwDnQqABKk,Cody Johnson,Country Road Songs,'Til You Can't,1,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+1nSYUQngGS5foiagiilbYU,Jordan Davis,Mientras hago aromaterapia,Singles You Up,0,182693,False,0.634,0.903,7,-3.588,1,0.0323,0.0465,0.0,0.255,0.559,100.083,4,country
+20oObdEfRtnT9PkZ6YqOP2,Jon Pardi,Tailgate Country,Fill 'Er Up,0,168512,False,0.652,0.746,9,-5.325,1,0.0286,0.0142,0.0,0.272,0.876,135.063,4,country
+6fJbsque97JgCY0Bi3w1mQ,Cody Johnson,Oklahoma Smokeshow - Breakout Country,Human,0,221520,False,0.4,0.647,2,-7.279,1,0.0337,0.176,5.79e-05,0.11,0.274,84.08,4,country
+0flKOLkgpWup1pH16EVaPO,Jon Pardi,Tailgate Country,Dirt On My Boots,0,201893,False,0.683,0.796,11,-4.179,1,0.0284,0.112,0.0,0.197,0.533,90.031,4,country
+2bbBBFlA66OVmzX9BMD9Dh,Shania Twain,Tailgate Country,Man! I Feel Like A Woman!,0,233000,False,0.654,0.889,10,-3.058,1,0.0513,0.64,0.0,0.297,0.73,125.018,4,country
+7k50ddcASwxD4nq6cXCEle,Cody Johnson,Chillin' It - Mellow Day Country,Driveway,0,167213,False,0.486,0.565,6,-6.553,1,0.0336,0.27,0.0,0.109,0.269,129.961,3,country
+4TeLaDmBpXnXtzvlY353yD,Cody Johnson,Finest Country,Stronger,0,194760,False,0.453,0.7,1,-4.741,1,0.038,0.131,0.0,0.186,0.447,164.173,3,country
+0KL1FSJmz6Fie5xnzhfbIw,Cody Johnson,Cozy Country,Fenceposts,0,177040,False,0.455,0.628,7,-6.253,1,0.0272,0.31,1.85e-06,0.223,0.402,160.0,4,country
+5huByJCSYO88ozJcs4p8co,Cody Johnson,Never Leave - Country Magic,'Til You Can't,0,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+4RttQSlgO2ijW0wQNLz4GM,Cody Johnson;Clara Johnson;Brandi Johnson;Cori Johnson,Happy Country Christmas,Silent Night,0,218826,False,0.442,0.131,7,-10.49,1,0.028,0.687,0.0,0.127,0.277,76.991,3,country
+7CzUkV2dSe5WwM4apgSIhK,Cody Johnson,New Country Hits,'Til You Can't,0,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+32GoFnMDbw56kIBCmoHubS,Cody Johnson,Laidback Country,Fenceposts,0,177040,False,0.455,0.628,7,-6.253,1,0.0272,0.31,1.85e-06,0.223,0.402,160.0,4,country
+5XuozI1077Tdy8EUabPWuE,Cody Johnson,Good Times Country,Let's Build a Fire,1,176666,False,0.417,0.968,8,-3.827,1,0.0452,0.00144,2.56e-05,0.0827,0.879,187.979,4,country
+2JerUEDYblFmPzZjLs4a1z,Cody Johnson,Single Saturday Night - Country Songs,'Til You Can't,0,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+0EnvJBejWaMxn3qAvWV4B9,Cody Johnson,Single Saturday Night - Country Songs,On My Way to You,0,213306,False,0.445,0.537,1,-5.477,1,0.0311,0.331,5e-05,0.0866,0.246,157.98,4,country
+2eDNes32ixF4zZnBcRgIAw,Cody Johnson,Burn Burn Burn - Hot Country Hits,'Til You Can't,0,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+40riOy7x9W7GXjyGp4pjAv,Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,84,391376,False,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,4,country
+1RApeFN2al65TwLqQ2cVho,Dan + Shay;Justin Bieber,Relaxing Pop,"10,000 Hours",2,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+28mwPMWi59y5SIwOlRHGwi,Dan + Shay,Finest Country,How Not To,0,192000,False,0.501,0.836,11,-3.587,0,0.0488,0.208,0.0,0.152,0.617,159.849,4,country
+6oP9uP1m5EqgdeJiK0brk0,Dan + Shay,Country Car Hits,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+6nDPNWeMK5UxWwcMGGkVA4,Dan + Shay;Justin Bieber,Laidback Country,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+7LgyKYscgD7wkzsLRRTTpd,Dan + Shay,Autumn Hits,Speechless,0,213386,False,0.616,0.437,1,-5.968,1,0.0298,0.351,0.0,0.24,0.386,135.939,4,country
+0PkXnSmOLuk2LFQbQokBvc,Dan + Shay;Justin Bieber,Single Saturday Night - Country Songs,"10,000 Hours",0,167693,False,0.654,0.63,10,-4.644,1,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+3AiZ1NZ41XnHTqakJg18Gj,Dan + Shay,Hideaway - New Boots,You,0,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+74neN8NvU5LnqgzBibX6MH,Dan + Shay,Country Christmas Time,Take Me Home for Christmas,1,203880,False,0.694,0.769,6,-4.665,1,0.0325,0.163,0.0,0.0976,0.663,93.033,4,country
+4veKtopHidSZBhrDQJVQp1,Dan + Shay,Country Holiday,Officially Christmas,0,178386,False,0.655,0.677,6,-4.278,1,0.0326,0.146,0.0,0.131,0.62,127.041,4,country
+4kUrtRwzg1W6jN38Qk0Z5U,Bailey Zimmerman,All That Really Matters - Just Hits,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+1cH9CLvZO8Tk4xvKOPCM4d,Bailey Zimmerman,rainy day indie,Rock and a Hard Place,2,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+0WClv9xPvQPeuZcPwP0VZf,Bailey Zimmerman,Daily Pop Mix,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+1ubwDgxIb5ztWAkYxppOCi,Bailey Zimmerman,Country Car Hits,Where It Ends,1,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+4wFn8ntlog7h00pewaY4KJ,Bailey Zimmerman,Hideaway - New Boots,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+4wzN1hkeCOZumvfN8eKwJk,Bailey Zimmerman,I'm Blue - Hits of 2022,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+5qWwotKwu8uj7IoSFvbAmk,Carrie Underwood,Country Christmas Greatest Hits,Favorite Time Of Year,1,195320,False,0.509,0.881,0,-5.302,1,0.0497,0.00489,0.0,0.359,0.509,141.881,4,country
+5hEMsvmH7SpaiCVU9DZg5N,Bailey Zimmerman,It's You - Fresh Hits,Where It Ends,1,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+3SzuMY817DvasIC4q1GMSV,Bailey Zimmerman,Hideaway - New Boots,Where It Ends,0,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+0CJnj7jeQoDlupfJt9IVxS,Bailey Zimmerman,Your Perfect Soundtrack,Rock and a Hard Place,1,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+4N6gKsA1p5m8gjvgc0sEKB,Bailey Zimmerman,New Country,Fall in Love,1,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+2Lmzw98tabQcaOmjOJF1Eg,Bailey Zimmerman,Never Leave - Country Magic,Never Leave,3,207567,False,0.503,0.643,9,-6.586,1,0.0304,0.523,1.23e-06,0.0661,0.345,148.11,4,country
+356eIGWB5tgQ8d4o55kM27,Bailey Zimmerman,Hideaway - New Boots,Fall in Love,2,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+0BFPuuaii3WETh2ZtHWZAN,Bailey Zimmerman,Easy Country,Where It Ends,0,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+0JkcxWpvH30Nbtt5kdfjI6,Alan Jackson,Country Christmas Greatest Hits,Let It Be Christmas,1,250026,False,0.626,0.4,7,-6.689,1,0.0251,0.798,0.0,0.151,0.401,97.565,3,country
+3Aphk7SSL24n0njXT6k4l9,Bailey Zimmerman,New Country Hits,Where It Ends,0,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+33AUzFOiyOtWEr9aNU2d6H,Bailey Zimmerman,Laidback Country,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+08mp5CIILzrapwf3GX9sEH,Bailey Zimmerman,Good Enough - Easy Pop,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+2GfuDjHEPDpQMAe4mTgQ49,Bailey Zimmerman,Give You Love - Cozy Hits,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+0fchsvPWZULjTtlp8I6ehS,Bailey Zimmerman,Single Saturday Night - Country Songs,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+2PgbuDVrncYKcViqrB3L0p,Bailey Zimmerman,Cozy Country,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+6QQ5e8x9yRj62orHvwTFMo,Bailey Zimmerman,Oklahoma Smokeshow - Breakout Country,Rock and a Hard Place,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+2j9EhXt9y02th8iPkQUFsL,Carrie Underwood,Santa Claus Is Coming To Town,O Come All Ye Faithful,0,194454,False,0.248,0.308,2,-6.746,1,0.03,0.797,0.0,0.118,0.348,91.29,4,country
+16zU12K33u00PP0oz32bgv,Bailey Zimmerman,Oklahoma Smokeshow - Breakout Country,Where It Ends,0,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+21mw38dWyUNZ6fT0mo8aCt,Carrie Underwood;Isaiah Fisher,Santa's Christmas List,Little Drummer Boy,0,176103,False,0.642,0.354,6,-6.837,1,0.0281,0.672,0.0,0.0885,0.428,114.936,4,country
+2Qz1rfYZtRq6hLUqs2Afgj,Carrie Underwood,Santa's Christmas List,Favorite Time Of Year - Amazon Original,0,197223,False,0.497,0.897,5,-4.21,1,0.0513,0.00635,0.0,0.305,0.539,142.007,4,country
+1uM9MucJX0ztob8h3XFakX,Bailey Zimmerman,Single Saturday Night - Country Songs,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+1L3s7R9tvoXebcEioxl0at,Bailey Zimmerman,Oklahoma Smokeshow - Breakout Country,Fall in Love,0,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+3wYce5GyRKkhKfUlUE5RID,Carrie Underwood,Tailgate Country,Southbound,0,202853,False,0.614,0.884,0,-4.019,1,0.0402,0.00122,0.0,0.077,0.721,100.523,4,country
+2Uxnz7OTTYtgGrwjVcYRlG,Carrie Underwood,Christmas Country Songs 2022,Favorite Time Of Year - Amazon Original,0,197223,False,0.497,0.897,5,-4.21,1,0.0513,0.00635,0.0,0.305,0.539,142.007,4,country
+4mFZ4NKNLNVOugne8um1MT,Bailey Zimmerman,Country Road Songs,Small Town Crazy,0,162352,False,0.502,0.877,7,-2.847,1,0.0746,0.0129,0.0,0.244,0.696,170.123,4,country
+3VXroe2BrvpJh3O9dTgMWs,Bailey Zimmerman,Finest Country,Never Comin' Home - Live Acoustic,0,198958,False,0.585,0.51,10,-6.028,1,0.0322,0.427,0.0,0.0997,0.436,135.24,3,country
+3SCYKwSFwlSe5xEvVlcP1W,George Strait,Country Christmas Greatest Hits,Jingle Bell Rock,1,132493,False,0.775,0.562,4,-6.041,0,0.0299,0.468,0.0,0.174,0.77,121.034,4,country
+5Pc6HHW8FLEfZqYloxgbuw,George Strait,Christmas Country Songs 2022,Deck The Halls,0,119120,False,0.607,0.522,4,-10.068,1,0.0279,0.235,0.0,0.129,0.887,162.081,4,country
+7u5Yop62YKg1uws7uKyKE5,George Strait,Country USA,Heartland - Pure Country/Soundtrack Version,0,138160,False,0.449,0.89,8,-9.5,1,0.05,0.0521,7.82e-05,0.112,0.696,156.978,4,country
+2Jun5XTPvYxgMArwdDT4Vy,George Strait,Weihnachten Playlist,O Christmas Tree,0,147720,False,0.499,0.295,5,-11.782,1,0.0287,0.794,0.0,0.0829,0.323,154.938,3,country
+61gLyY13fBlwh9Kp2gvmlL,George Strait,World's Best Christmas Playlist,O Christmas Tree,0,147720,False,0.499,0.295,5,-11.782,1,0.0287,0.794,0.0,0.0829,0.323,154.938,3,country
+49yGVckA7KfjnYpKtBdACZ,George Strait,pov: you bake cookies,Christmas Cookies,0,195560,False,0.743,0.621,0,-10.742,1,0.0651,0.465,0.0,0.108,0.865,90.384,4,country
+22Q68uXoySffMDUAzYUyLR,George Strait,pov: you rock around the christmas tree,O Christmas Tree,0,147720,False,0.499,0.295,5,-11.782,1,0.0287,0.794,0.0,0.0829,0.323,154.938,3,country
+0nR17tnzpnWBFKW7EGLxfg,George Strait,Christmas Country Songs 2022,Christmas Cookies,0,195560,False,0.743,0.621,0,-10.742,1,0.0651,0.465,0.0,0.108,0.865,90.384,4,country
+3gq98hzXfMGQ5VFIGJ1DoB,Haley Mae Campbell,Never Been in Love,Never Been in Love,56,179189,False,0.679,0.742,4,-4.149,1,0.0292,0.121,7.21e-05,0.322,0.869,147.829,4,country
+3fgJqcj57xcIJTg5V76tzx,Blake Shelton,Hideaway - New Boots,No Body,3,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+6hES6A4ZOL8MzYpULEfsoZ,Blake Shelton,Single Saturday Night - Country Songs,God's Country,0,204800,False,0.537,0.754,10,-5.102,1,0.0399,0.0586,4.8e-06,0.118,0.212,139.986,4,country
+1gH8QigoIquQ3diZp0Ht6l,Tim McGraw,Sad Country Songs,7500 OBO,3,221400,False,0.528,0.718,7,-6.954,1,0.0337,0.1,0.0,0.304,0.51,155.759,4,country
+14kPhDLHvuDXVlOWS6hzJq,Blake Shelton,Merry Christmas,Jingle Bell Rock,1,123400,False,0.65,0.736,0,-5.222,1,0.0378,0.122,0.0,0.0998,0.595,129.941,4,country
+7bfZTvjOD4WXpweVxpg85o,Carrie Underwood;John Legend,Christmas Songs 2022,Hallelujah,2,275099,False,0.335,0.43,5,-5.364,1,0.0322,0.846,0.0,0.126,0.379,78.259,5,country
+6m239N2EPkMYkN5unIYT9F,Tim McGraw,Sad Country Songs,Doggone,1,215906,False,0.629,0.538,1,-7.386,1,0.029,0.416,1.07e-05,0.107,0.353,121.256,4,country
+3GG9WXxmHL5zGm7hXwCe7L,Blake Shelton,Cuddle Up Christmas,Home,2,230453,False,0.579,0.443,7,-6.972,1,0.0255,0.479,3.15e-06,0.11,0.288,127.814,4,country
+6gEaGQfwz4jUE94R6Om2hu,Tim McGraw,Santa Claus Is Coming To Town,Christmas All Over The World,0,166168,False,0.565,0.782,11,-5.098,0,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+42rRYDeMFkYfUGOIhDPlF9,Carrie Underwood;John Legend,Christmas Dinner,Hallelujah,1,275099,False,0.335,0.43,5,-5.364,1,0.0322,0.846,0.0,0.126,0.379,78.259,5,country
+1uJjQSOlc8ql6cs0cVWQH6,Blake Shelton,Country Car Hits,No Body,2,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+1DSf23IQgLUFAABgklPday,Blake Shelton;Gwen Stefani,Cozy Country,Happy Anywhere,0,171026,False,0.606,0.737,8,-5.745,1,0.0321,0.134,0.0,0.057,0.65,82.966,4,country
+62XZ7yQ1unC3jGGUK3HAJp,Blake Shelton;Michael Bublé,Country Christmas Time,Home,1,227040,False,0.576,0.456,7,-7.583,1,0.0267,0.584,2.68e-05,0.0912,0.21,127.854,4,country
+5toFHcmv9XVQsOKbjlUZWY,Blake Shelton;Michael Bublé,Country Holiday,Home,0,227040,False,0.576,0.456,7,-7.583,1,0.0267,0.584,2.68e-05,0.0912,0.21,127.854,4,country
+1SXRVPBqTOBlcMSbYwHfFH,Blake Shelton,New Country,Come Back as a Country Boy,1,221733,False,0.494,0.796,7,-3.965,0,0.0324,0.0197,0.000178,0.309,0.447,76.069,4,country
+2hyP9WkqwrydvQZ7IrCe0N,Blake Shelton,Finest Country,Austin,0,230333,False,0.603,0.609,7,-7.063,1,0.0278,0.188,0.0,0.0982,0.275,119.911,4,country
+1lhL0mBtkFnCfyCzXf86uk,Carrie Underwood;John Legend,All I want For Christmas Is Music,Hallelujah,0,275099,False,0.335,0.43,5,-5.364,1,0.0322,0.846,0.0,0.126,0.379,78.259,5,country
+4heQUaml94Gl0rhuQ1ON63,Blake Shelton;Gwen Stefani,Easy Country,Happy Anywhere,0,171026,False,0.606,0.737,8,-5.745,1,0.0321,0.134,0.0,0.057,0.65,82.966,4,country
+6PhPMKGWVQ90yccC4bQ7kx,Tim McGraw,Christmas 2022,Christmas All Over The World,0,166168,False,0.565,0.782,11,-5.098,0,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+1tu8axV7vE0nmgYuTD09ny,Blake Shelton;Michael Bublé,Happy Country Christmas,Home,0,227040,False,0.576,0.456,7,-7.583,1,0.0267,0.584,2.68e-05,0.0912,0.21,127.854,4,country
+1ERoFNNh3shILiAOFWjlgg,Kenny Chesney,Easy Country,Knowing You,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country
+7KxSHM4DGe0aOyeCDEMF1R,Blake Shelton;Gwen Stefani,Single Saturday Night - Country Songs,Nobody but You,0,194866,False,0.465,0.653,0,-5.515,1,0.0273,0.111,0.000125,0.172,0.233,143.912,4,country
+74Qd6pAZN3m4Rb1zYJDNHs,Carrie Underwood,Best Christmas Songs 2022 | For under the Mistletoe,O Come All Ye Faithful,2,194454,False,0.248,0.308,2,-6.746,1,0.03,0.797,0.0,0.118,0.348,91.29,4,country
+5gqlIpczfzjHkSToi7FPK3,Tim McGraw;Catherine Dunn,Sad Country Songs,Diamond Rings And Old Barstools,1,198373,False,0.55,0.496,5,-6.325,1,0.025,0.463,0.000135,0.119,0.353,141.898,4,country
+1Jp4sSVE8NlhjTJ9PY6MTh,Blake Shelton;Gwen Stefani,Laidback Country,Happy Anywhere,0,171026,False,0.606,0.737,8,-5.745,1,0.0321,0.134,0.0,0.057,0.65,82.966,4,country
+7bZHYtkSrYFg2OjPd3mqog,Carrie Underwood,Fiesta de disfraces vol. II,Favorite Time Of Year - Amazon Original,0,197223,False,0.497,0.897,5,-4.21,1,0.0513,0.00635,0.0,0.305,0.539,142.007,4,country
+5uvkJAiyyxXWGF0JPMxXjz,Tim McGraw,Christmas Dinner 2022,Christmas All Over The World,0,166168,False,0.565,0.782,11,-5.098,0,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+3wUnBlmeSQuUVXMMyTooNv,Tim McGraw,Jingle Bell Rock 2022,Christmas All Over The World,0,166168,False,0.565,0.782,11,-5.098,0,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+3khHZ5Tz9mwLYbEmnCimvq,Kenny Chesney,Country Road Songs,Happy Does,0,168733,False,0.716,0.665,6,-5.486,1,0.0382,0.304,0.0,0.123,0.598,109.021,4,country
+4ZG7iPwlyvJoFHuRWwXHOM,Kenny Chesney,Country Car Hits,Happy Does,0,168733,False,0.716,0.665,6,-5.486,1,0.0382,0.304,0.0,0.123,0.598,109.021,4,country
+44x4VUR7gXkrbo4aYy2d8e,Carrie Underwood,All I want For Christmas Is Music,O Come All Ye Faithful,0,194454,False,0.248,0.308,2,-6.746,1,0.03,0.797,0.0,0.118,0.348,91.29,4,country
+7F4Zrd4rCDwm4AaVJ8tpCu,Blake Shelton,Christmas Time,Jingle Bell Rock,0,123400,False,0.65,0.736,0,-5.222,1,0.0378,0.122,0.0,0.0998,0.595,129.941,4,country
+2d4pY4hVzuRkVcElAor3nW,Carrie Underwood;John Legend,pov: you ride on santa's sleigh,Hallelujah,0,275099,False,0.335,0.43,5,-5.364,1,0.0322,0.846,0.0,0.126,0.379,78.259,5,country
+5qxxGClUqyGC7hRwqYUjKP,Blake Shelton,Holly Jolly Christmas,Jingle Bell Rock,0,123400,False,0.65,0.736,0,-5.222,1,0.0378,0.122,0.0,0.0998,0.595,129.941,4,country
+4xUCKWVzabAVInYPBiiFv4,Kenny Chesney,New Country,Everyone She Knows,0,204986,False,0.659,0.682,5,-5.045,1,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+6YUqd1sWWp76BZoESbew59,Blake Shelton,Perfect Christmas Hits,Jingle Bell Rock,0,123400,False,0.65,0.736,0,-5.222,1,0.0378,0.122,0.0,0.0998,0.595,129.941,4,country
+2mfrgrVo0HhcPzcfiphmsy,Kenny Chesney,Hideaway - New Boots,Everyone She Knows,0,204986,False,0.659,0.682,5,-5.045,1,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+4vecNnSGKAOSRGzdlFDo9Z,Kenny Chesney,Cozy Country,Knowing You,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country
+351cvJkC8Vu4gPT4YMl3Ac,Kenny Chesney;Mindy Smith,Finest Country,Better Boat,0,224945,False,0.573,0.265,6,-11.3,1,0.0302,0.827,2.31e-05,0.133,0.396,143.808,4,country
+4GadSyQDGXV2FXL3Acl57f,Kenny Chesney,Good Times Country,Wind On,0,260359,False,0.497,0.866,0,-3.039,1,0.0464,0.00099,1.28e-05,0.35,0.338,123.019,4,country
+1mElWOxIAwRJJCVNpIvuTK,Tim McGraw,Rock Christmas 2022 - The Very Best Of,Christmas All Over The World,0,166168,False,0.565,0.782,11,-5.098,0,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+665Aynzj4XbHKVosATYEhL,Blake Shelton,Good Times Country,She Doesn't Know She's Got It,0,198800,False,0.654,0.873,6,-5.108,1,0.0298,0.069,2.99e-05,0.141,0.879,119.425,4,country
+4xcW1InAfQ7GBnDBHEC4a8,Kenny Chesney,Never Leave - Country Magic,Everyone She Knows,0,204986,False,0.659,0.682,5,-5.045,1,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+3yZ99lIQVH3U8EuNtieRWn,Kenny Chesney,Laidback Country,Knowing You,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country
+0dZlCvNl7rcMxdjm3VZqND,Kenny Chesney,Chillin' It - Mellow Day Country,The Life,0,266813,False,0.797,0.53,5,-8.876,1,0.025,0.575,0.000203,0.107,0.721,101.953,4,country
+5WqD6i9UyCi30V3LoC1zSn,Kenny Chesney,Single Saturday Night - Country Songs,Knowing You,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country
+0hBN7k2AAmbc0mM4cUAmQH,Kenny Chesney,Burn Burn Burn - Hot Country Hits,Everyone She Knows,0,204986,False,0.659,0.682,5,-5.045,1,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+3RzDfzK5TNMfVvQRTfJmxz,Eric Church,Tailgate Country,Drink In My Hand,0,191306,False,0.626,0.913,0,-4.452,1,0.0317,0.00635,0.0,0.293,0.946,113.045,4,country
+0pAujWDwUAvT0CdjZbEl2H,Kenny Chesney,Oklahoma Smokeshow - Breakout Country,Everyone She Knows,0,204986,False,0.659,0.682,5,-5.045,1,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+5CQq6JyQ4MCI4Nspxdnz22,Eric Church,Country USA,Pledge Allegiance To The Hag,0,265680,False,0.588,0.644,11,-9.213,1,0.0515,0.0444,0.0,0.0906,0.27,92.924,4,country
+2LawezPeJhN4AWuSB0GtAU,Creedence Clearwater Revival,Pendulum (Expanded Edition),Have You Ever Seen The Rain,84,160133,False,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109,4,country
+2KaWUXuvdE28pRmfybj4Gy,Sam Hunt,Un tecito y a mimir,Nothing Lasts Forever,0,184320,False,0.467,0.444,10,-7.181,1,0.0602,0.365,0.0,0.158,0.187,173.823,4,country
+44U3T6S8BsdE76sz1VmQig,Blake Shelton,New Country Hits,No Body,0,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+3R7PRbshYPRnT0mS4p02eD,Cole Swindell,New Country,Stereotype,0,222400,False,0.634,0.87,7,-5.42,1,0.0326,0.00776,7.06e-05,0.0845,0.786,130.043,4,country
+3nISsZvfqj0tnpzVN6xtEu,Cole Swindell,Finest Country,Stay Downtown,0,201866,False,0.336,0.756,5,-4.191,1,0.045,0.00275,0.0,0.189,0.237,77.807,4,country
+4waVhpVhVC26pybh8ttm2a,Kacey Musgraves;Lana Del Rey,Christmas Songs 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+3ojhxVHTQzpKDK9RpINaRy,Kacey Musgraves;Lana Del Rey,Christmas 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+6rFesOvUui282rDwAm8zLo,Dolly Parton,Country Christmas Time,"I Still Believe - Live on ""A Holly Dolly Christmas"" TV Special",1,229874,False,0.544,0.534,5,-8.335,1,0.0328,0.269,0.0,0.111,0.362,75.113,4,country
+3kV81EbR3PjIzZV3MSabIW,Kacey Musgraves;Lana Del Rey,Christmas Best Hits 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+6b60YNPl0hhQvVGko9epSI,Kacey Musgraves;Lana Del Rey,Holiday Favorites 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+73w8GfSDzvrW229qj0TxyG,Cole Swindell,Hideaway - New Boots,Stereotype,0,222400,False,0.634,0.87,7,-5.42,1,0.0326,0.00776,7.06e-05,0.0845,0.786,130.043,4,country
+07KkcT3p4w8TzIPm1UpC0e,Kacey Musgraves;Lana Del Rey,Holiday Tunes 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+5sGyUZU3woqmdsiae7m0dD,Blake Shelton,Never Leave - Country Magic,No Body,2,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+6BcKHm3M9k108jKf2C8h1l,Cole Swindell;Lainey Wilson,Easy Country,Never Say Never,0,177173,False,0.469,0.931,0,-4.187,0,0.0563,0.00752,0.0,0.111,0.49,140.059,4,country
+3b1VmMmh8KVV5es53mROfG,Blake Shelton,Country Road Songs,No Body,0,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+3wf8esPMWHNYuWoiCPgKHt,Kacey Musgraves;Lana Del Rey,All I Want For Christmas Is You,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+1foBcsKBlS2TvkXexVN91y,Cole Swindell,Good Times Country,Kiss,0,240733,False,0.461,0.887,11,-3.189,1,0.193,0.0358,0.0,0.118,0.638,167.957,4,country
+48cWThoEPUC17cVfrcPnSX,Sam Hunt,Tailgate Country,Body Like A Back Road,0,165386,False,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.942,4,country
+6uy0EH7owLvJrUKsiqW8oS,Dierks Bentley;Maren Morris,Mientras hago aromaterapia,I'll Be The Moon,0,210600,False,0.561,0.549,2,-8.341,1,0.0668,0.547,0.0,0.105,0.42,83.855,4,country
+7zWPS8cNSxWgGz6U00OIyT,Dolly Parton,Country Holiday,"Mary, Did You Know?",0,266506,False,0.355,0.382,10,-9.257,0,0.0378,0.784,0.0,0.123,0.261,95.994,4,country
+79mxynFVrkYCXwFEsgZmCX,Dierks Bentley,Country USA,Freedom,0,216000,False,0.547,0.832,0,-5.111,1,0.029,0.00192,0.0,0.2,0.544,91.032,4,country
+72kjJq1k5ki32RBxu1TF3j,Cole Swindell,Country Car Hits,She Had Me at Heads Carolina,2,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+1AzdplJAVv6zmqqE9trSaf,Cole Swindell,New Country Hits,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+4SgSCdVgvLAZS0lMVndle5,Cole Swindell;Lainey Wilson,Cozy Country,Never Say Never,0,177173,False,0.469,0.931,0,-4.187,0,0.0563,0.00752,0.0,0.111,0.49,140.059,4,country
+0PHdf5kceYHURIxLJU1lpt,Dierks Bentley;BRELAND;HARDY,Tailgate Country,Beers On Me,0,174680,False,0.59,0.846,4,-4.251,1,0.0396,0.182,0.0,0.53,0.733,146.028,4,country
+6lDWfsPviEeDc5xexjPOzF,Keith Urban;P!nk,Tailgate Country,One Too Many,0,203800,False,0.702,0.53,4,-6.403,1,0.0558,0.211,0.0,0.396,0.561,82.983,4,country
+4GKcUAbqU3gJE5TVgu8ASg,Cole Swindell,Country Road Songs,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+0KSbUqkc7zW39e4jF5au2F,Blake Shelton,Burn Burn Burn - Hot Country Hits,No Body,0,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+4p901Uf4UKvcmsDssXDFTJ,Cole Swindell,Oklahoma Smokeshow - Breakout Country,Stereotype,0,222400,False,0.634,0.87,7,-5.42,1,0.0326,0.00776,7.06e-05,0.0845,0.786,130.043,4,country
+1mKiMWqgZQrkjJyaT3Qp7C,Dolly Parton;Michael Bublé,Perfect Christmas Hits,"Cuddle Up, Cozy Down Christmas",0,219169,False,0.658,0.515,1,-7.283,1,0.0368,0.678,0.0,0.154,0.652,110.089,4,country
+0dA9bpWJw0yejIthqosxKb,Cole Swindell,Single Saturday Night - Country Songs,Single Saturday Night,0,189960,False,0.634,0.786,7,-5.093,1,0.0411,0.129,0.0,0.182,0.653,82.003,4,country
+0CwTsWbRl9vohH2RHAVqBy,Cole Swindell,Hideaway - New Boots,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+5uJNs7kHNXqmX8MSv52QN9,Kacey Musgraves,sadsadchristmas,Christmas Makes Me Cry,0,170786,False,0.477,0.206,11,-10.4,1,0.0349,0.9,1.37e-05,0.229,0.2,94.784,3,country
+0vwh0gJI3ovQwuMdSl1C8S,Cole Swindell;Lainey Wilson,Laidback Country,Never Say Never,0,177173,False,0.469,0.931,0,-4.187,0,0.0563,0.00752,0.0,0.111,0.49,140.059,4,country
+6ixXkrS6uKUnFfkPxj2V8o,Dolly Parton;Michael Bublé,Cuddle Up Christmas,"Cuddle Up, Cozy Down Christmas",0,219169,False,0.658,0.515,1,-7.283,1,0.0368,0.678,0.0,0.154,0.652,110.089,4,country
+2y6u1FsY2HSuSsn0cemmqu,Cole Swindell,Single Saturday Night - Country Songs,You Should Be Here,0,190173,False,0.491,0.641,7,-4.456,1,0.0282,0.0592,0.0,0.0857,0.299,136.1,4,country
+2i3jHrou8M7ec3AZi8HgPF,Sam Hunt,Mientras hago aromaterapia,Body Like A Back Road,0,165386,False,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.942,4,country
+421rkTNDnlI51wRDILMtdD,Kacey Musgraves;Lana Del Rey,Rock Christmas 2022 - The Very Best Of,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+1sEdRUbWvAP3uy8hmIfHkK,Blake Shelton,Oklahoma Smokeshow - Breakout Country,No Body,0,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+6DGrwPZQbPe2r3AS3LfcAw,Dolly Parton;Michael Bublé,Happy Country Christmas,"Cuddle Up, Cozy Down Christmas",0,219169,False,0.658,0.515,1,-7.283,1,0.0368,0.678,0.0,0.154,0.652,110.089,4,country
+6BFqJdjynoNSJiWyznyFJ6,Dolly Parton;Jimmy Fallon,Holly Jolly Christmas,All I Want for Christmas Is You,0,244874,False,0.42,0.755,7,-5.904,1,0.0584,0.593,0.0,0.204,0.361,149.918,4,country
+5aTofizIEsOAnD44vsuCQH,Dolly Parton;Jimmy Fallon,Christmas Time,All I Want for Christmas Is You,0,244874,False,0.42,0.755,7,-5.904,1,0.0584,0.593,0.0,0.204,0.361,149.918,4,country
+3JUspuLoZiYcmvjbHY488r,Cole Swindell,Never Leave - Country Magic,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+74nQluIhAOkMOn0w8FNRTJ,Cole Swindell,Burn Burn Burn - Hot Country Hits,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+7yOIaeHJ17V5ZUE8pRAd7b,Dolly Parton;Michael Bublé,Merry Christmas,"Cuddle Up, Cozy Down Christmas",0,219169,False,0.658,0.515,1,-7.283,1,0.0368,0.678,0.0,0.154,0.652,110.089,4,country
+6YB4nQPRxwRcqpNMLWY53B,Dolly Parton;Jimmy Fallon,Christmas Music - Holiday Hits,All I Want for Christmas Is You,0,244874,False,0.42,0.755,7,-5.904,1,0.0584,0.593,0.0,0.204,0.361,149.918,4,country
+5IoDSNO8QBvxCHGgQeIlKO,Cole Swindell,Chillin' It - Mellow Day Country,Chillin' It,1,196746,False,0.576,0.849,9,-3.057,1,0.0386,0.511,4.01e-05,0.109,0.666,137.99,4,country
+5sayrs9XWbGsK4maiGECG4,Cole Swindell,Oklahoma Smokeshow - Breakout Country,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+4Bl10FX8eEnYIUFYwir2h9,Cole Swindell,Your Perfect Soundtrack,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+1czrV52qlUec3aPirLYYcL,Willie Nelson;Norah Jones,Desayuno en calma,Baby It's Cold Outside,1,240533,False,0.532,0.358,10,-11.136,1,0.0671,0.717,0.0,0.112,0.449,90.475,4,country
+1YYhDizHx7PnDhAhko6cDS,John Denver,"Poems, Prayers and Promises","Take Me Home, Country Roads",73,190160,False,0.462,0.395,9,-9.376,1,0.0264,0.758,0.0,0.121,0.625,82.259,4,country
+57buRfUBYm7fFFoIM78qbs,Kacey Musgraves,Best Alternative Pop Tunes,easier said,0,187360,False,0.541,0.609,3,-8.077,1,0.0478,0.51,0.000668,0.102,0.381,147.828,4,country
+4XTJWc22VRo7oK4e6YmwtT,Kacey Musgraves,Best Alternative Pop Tunes,star-crossed,0,199226,False,0.378,0.441,2,-9.142,0,0.0355,0.709,0.00288,0.0887,0.158,105.905,4,country
+0WdLTvDQ6FD8jSkUjSvHqe,Kacey Musgraves,West Coast,star-crossed,0,199226,False,0.378,0.441,2,-9.142,0,0.0355,0.709,0.00288,0.0887,0.158,105.905,4,country
+6Do9ZomVFqtwpv9IbmRXpm,Kacey Musgraves;Lana Del Rey,Acoustic Christmas Campfire,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+1Tzxai0OSbtiiZMIOwgDut,Kacey Musgraves,Best Alternative Pop Tunes,star-crossed,0,199226,False,0.378,0.441,2,-9.142,0,0.0355,0.709,0.00288,0.0887,0.158,105.905,4,country
+0Q8L3edvNAAJ3CWgp1HxOO,Kacey Musgraves,Christmas Songs 2022,Feliz Navidad,1,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+6yewqac4EpQUb0zDD2U8MR,Kacey Musgraves;Lana Del Rey,Christmas Dinner 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+2kUfTIfkXwvL8fhVpUJI66,Kacey Musgraves;Lana Del Rey,sadsadchristmas,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+7GFvNSVGH1rwZ022nmehm7,Kacey Musgraves;Lana Del Rey,Alternative Christmas 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+4Tswz6Vd2cZg7Snm5rEtOF,Kacey Musgraves;Lana Del Rey,Holiday Anthems 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+4ifiz8TRTNdG9ORNWh2P0Q,Kacey Musgraves;Lana Del Rey,Jingle Bell Rock 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,5,-15.414,1,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+5Ae0vG7VEUzclhvYLOhmcN,Kacey Musgraves,Beste Weihnachtslieder,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+1Kkns2q20FCjLJpr6rZucI,Kacey Musgraves,Weihnachten Playlist,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+4RUFaIBvDBchXhoadT8CRM,Kacey Musgraves;Camila Cabello,Christmas Songs 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,2,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+0X8LZO3QByfmZolbkktTPR,Kacey Musgraves;Leon Bridges,Christmas Songs 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+2QKGw8gM1Q5FKRkvhdOkkJ,Kacey Musgraves,Holidays Are Coming,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+2C8AkTKpeOWIwNZFtlFxtd,Kacey Musgraves;Leon Bridges,Holidays Are Coming,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+0sJI0ZyPI4M4wyMS7AcA0G,Kacey Musgraves;Leon Bridges,Christmas Best Hits 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+3ZmOqbHp958pIFBjsufcN0,Kacey Musgraves;Leon Bridges,All I Want For Christmas Is You,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+3UF0PiAB94TmqxRNq4p7Tu,Kacey Musgraves;Leon Bridges,Jingle Bell Rock 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+0aksruBWQc4O42I23SleuW,Kacey Musgraves,pov: you have a holly jolly christmas,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+3GYJcVIgHXrvROEWKGXmDc,Kacey Musgraves,Santa Claus Is Coming To Town,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+0NXaCE6On3ZbHqzI5INTxp,Kacey Musgraves;Leon Bridges,Christmas Dinner 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+581N346m1nuPZYMr9JXQZA,Kacey Musgraves;Leon Bridges,Beste Weihnachtslieder,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+6cOUWggXh4qXXPzMIIvQ0b,Kacey Musgraves;Leon Bridges,Weihnachten Playlist,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+5h9wUtiU1t7kJsZto2eUGm,Kacey Musgraves;Leon Bridges,Lonely Christmas 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+0lKZAkE4ni8ruTOPli9F5k,Kacey Musgraves;Troye Sivan,Best Christmas Playlist Ever 2022,Glittery - From The Kacey Musgraves Christmas Show Soundtrack,0,143596,False,0.595,0.275,8,-9.815,0,0.0309,0.864,0.0,0.107,0.345,85.752,4,country
+6lfesPvu16ExPnecELeMwt,Kacey Musgraves;Camila Cabello,Holidays Are Coming,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+0t02v0CVkIMWiCJ9vm937B,Kacey Musgraves,Weihnachten Musik,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+0fI5GUO2rDHujmgu6JpUgQ,Kacey Musgraves;Camila Cabello,Christmas 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+7iICQYCePAFph6eUIgBbOn,Kacey Musgraves;Camila Cabello,CHRISTMAS TOP HITS 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+5KEWnHcFI1AjYNBMx5m1ND,Kacey Musgraves,World's Best Christmas Playlist,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+7CApeRUBX1cqQHmyCC1ofY,Kacey Musgraves;Troye Sivan,The Very Best Christmas Songs 2022,Glittery - From The Kacey Musgraves Christmas Show Soundtrack,0,143596,False,0.595,0.275,8,-9.815,0,0.0309,0.864,0.0,0.107,0.345,85.752,4,country
+0g2BTqSPGs13jBBOncJSxu,Kacey Musgraves;Camila Cabello,Jingle Bell Rock 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+6ocrXqJsh3T7NQ9Xuak0o2,Kacey Musgraves;Camila Cabello,Christmas Dinner 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+2eEW5oUP1iIWhC9fKGrmtH,Kacey Musgraves;Zooey Deschanel,Holidays Are Coming,Mele Kalikimaka - From The Kacey Musgraves Christmas Show,0,183943,False,0.78,0.5,1,-9.785,1,0.0468,0.571,0.0,0.718,0.717,109.912,4,country
+3JTW3jYsXWST0qp1y3uJ5H,Kacey Musgraves;Camila Cabello,Santa Claus Is Coming To Town,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+5sAUgrmC6oLNN1fNFL4eax,Kacey Musgraves;Camila Cabello,Weihnachtspop 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+0WiqhuNjzdiK3Kf0SfSWmG,Kacey Musgraves;Camila Cabello,"It's Christmas, Let's Dance",Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+73ckexV1890p7kz7P6AJYQ,Kacey Musgraves;Camila Cabello,Pop Christmas 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+55FUCDgGRlKY1GtfisHqR1,Kacey Musgraves;Camila Cabello,Christmas Best Hits 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+5pNAyiG39qtj7w8iMcoh6L,Kacey Musgraves,A Merry Modern Christmas,Feliz Navidad,0,201373,False,0.724,0.566,7,-5.117,1,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+69ftQx3HAMJx4ODVAeNWjT,Kacey Musgraves;Camila Cabello,All I Want For Christmas Is You,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+0AImaoLL03GspnSYyhh5Pd,Kacey Musgraves;Zooey Deschanel,Weihnachtssongs,Mele Kalikimaka - From The Kacey Musgraves Christmas Show,0,183943,False,0.78,0.5,1,-9.785,1,0.0468,0.571,0.0,0.718,0.717,109.912,4,country
+5eCl4mczlm5RKfEhprt94p,Kacey Musgraves,Slow Christmas Songs 2022,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0,183372,False,0.506,0.21,11,-12.534,1,0.0569,0.808,0.0,0.75,0.414,104.181,3,country
+3nSHkz2pTH4TzTVfdPvZ8A,Kacey Musgraves,Chill Christmas Dinner,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0,183372,False,0.506,0.21,11,-12.534,1,0.0569,0.808,0.0,0.75,0.414,104.181,3,country
+7yYcd2Fqa4E9sjOLPhnwpc,Kacey Musgraves;Willie Nelson,Christmas Country Songs 2022,A Willie Nice Christmas,0,203640,False,0.622,0.636,0,-7.397,1,0.0352,0.775,0.000161,0.136,0.759,151.2,4,country
+5WJTVtdhtZRYdLdVfZHXDC,Kacey Musgraves,Lonely Christmas 2022,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0,183372,False,0.506,0.21,11,-12.534,1,0.0569,0.808,0.0,0.75,0.414,104.181,3,country
+78HyBaJISlSxlmKgZCOdcg,Kacey Musgraves;Camila Cabello,Rock Christmas 2022 - The Very Best Of,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,10,-6.053,1,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+1WzAeadSKJhqykZFbJNmQv,Josh Turner,Your Man,Your Man,73,211893,False,0.744,0.637,6,-4.483,1,0.0241,0.337,0.000222,0.0696,0.785,100.511,4,country
+7GAaTpSoTWUTbP2Yxlt4Hd,Lady A,Need You Now,Need You Now,74,236440,False,0.581,0.717,4,-4.433,1,0.0318,0.0298,0.000186,0.243,0.316,107.884,4,country
+1wb4P4F0sxAQ2KXrRvsx6n,Shania Twain,Come On Over,You're Still The One,78,212200,False,0.585,0.494,3,-8.751,1,0.0353,0.363,0.0,0.0886,0.634,133.822,4,country
+5f1joOtoMeyppIcJGZQvqJ,Kane Brown;Swae Lee;Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That - feat. Swae Lee & Khalid,75,191406,False,0.727,0.626,7,-8.415,1,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,4,country
+472vIK1ldetTxRxG3ovaiY,Dan + Shay,Glad You Exist,Glad You Exist,70,144533,False,0.748,0.551,11,-6.12,1,0.0349,0.235,0.0,0.119,0.66,103.953,4,country
+34chhNX59Wo9HMFCsI3K8Y,Kane Brown;blackbear,Memory,Memory,72,153337,False,0.434,0.889,9,-5.684,1,0.0509,0.395,0.0,0.273,0.845,113.326,5,country
+5n4kMW5dn7MHFhXQuJb9zG,Restless Road,Growing Old With You,Growing Old With You,65,196007,False,0.478,0.516,5,-7.276,1,0.0267,0.403,0.0,0.0823,0.376,80.09,4,country
+10M2Ex445zw585Ducldzkw,Brett Young,Brett Young,In Case You Didn't Know,75,224853,False,0.607,0.536,10,-7.306,1,0.0305,0.386,0.0,0.102,0.434,147.986,4,country
+63jfUirW2IkypzR5BYiV8Q,Brett Young,Sad Country Songs,Mercy,2,217120,False,0.638,0.367,4,-7.906,1,0.0266,0.84,0.0,0.0999,0.219,71.957,4,country
+71lFFVaT9SLEnOAYjQSPsc,Kacey Musgraves,Autumn Vibes 2022,justified,0,180800,False,0.669,0.552,0,-7.98,1,0.0587,0.807,0.000874,0.321,0.488,100.102,4,country
+4yZyftmjG4vOK7KkOgOJsU,Rascal Flatts;Natasha Bedingfield,Sad Country Songs,Easy - Single Edit,1,213009,False,0.531,0.599,2,-4.53,1,0.0321,0.123,0.0,0.103,0.464,120.99,3,country
+59IPT6zHHTfZhY2ubtAVeL,Brett Young,Pop Christmas 2022,Silver Bells,0,212861,False,0.509,0.478,7,-8.973,1,0.0561,0.606,0.0,0.102,0.469,75.011,4,country
+6P3WtLdcQjc2BpCHf5yATw,Parker McCollum,Tailgate Country,Handle On You,1,219333,False,0.588,0.931,6,-3.925,1,0.0318,0.00411,0.0,0.345,0.625,105.027,4,country
+7ho8AmAGyByBomWJPwThKX,Lynyrd Skynyrd,Sweet Home Alabama,Sweet Home Alabama,2,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,country
+4TvZe6U2SwgEScreWEGA6y,Riley Green,Sad Country Songs,I Let A Damn Good Woman Leave,1,212200,False,0.526,0.583,3,-7.344,1,0.0268,0.0395,3.61e-06,0.0644,0.381,146.229,4,country
+7CeX5a1yiPeE9j2e7tHcgX,Brett Young,Sad Country Songs,You Ain't Here To Kiss Me,1,218960,False,0.411,0.662,0,-6.538,1,0.0513,0.0924,0.0,0.122,0.435,72.791,4,country
+7lKqg8JBcJbbQXssnwDAxc,Lady A;Little Big Town,Sad Country Songs,The Thing That Wrecks You,1,275133,False,0.474,0.474,2,-7.337,1,0.0265,0.347,2.75e-05,0.104,0.131,101.046,4,country
+2RNeNeEbmvfvNcnNR5pSDR,Brett Young,Christmas Country Songs 2022,Hallelujah,0,247765,False,0.445,0.401,8,-7.883,0,0.0294,0.63,2.36e-06,0.0958,0.206,145.15,3,country
+6JZg74LR98YrRM0wlbCDLM,Rascal Flatts,Christmas Country Songs 2022,Joy To The World,0,218520,False,0.417,0.88,7,-4.022,1,0.0521,0.167,0.0,0.0755,0.579,149.987,4,country
+2g5S7wT7ESu0QwiwwPNZxQ,Lady A,Pop Christmas 2022,Christmas Through Your Eyes,0,239266,False,0.584,0.579,1,-7.347,1,0.024,0.428,3.66e-05,0.302,0.256,99.024,4,country
+5LoTy8lGFkffsP1bjU1W9g,Kacey Musgraves;Leon Bridges,Christmas 2022,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+1AO5q3PNXDWNwgern0S2zt,Lynyrd Skynyrd,70s Christmas Party,Sweet Home Alabama,0,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,country
+4L6mJJhYx3PNhKhaXX4BCw,Lynyrd Skynyrd,Country Car Hits,Simple Life,1,197106,False,0.549,0.891,6,-4.044,1,0.0351,0.0141,0.00323,0.0661,0.508,111.996,4,country
+25xhL1egtULWxHD5YDJ9XY,Kacey Musgraves;Leon Bridges,Christmas Day Chill,Present Without A Bow,0,230480,False,0.693,0.492,10,-6.962,1,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+3Vx90YU1nE9FDb1t8wvXBW,Darius Rucker,Country Christmas Greatest Hits,"You're A Mean One, Mr. Grinch",1,206840,False,0.605,0.521,7,-7.266,1,0.0403,0.264,0.0,0.102,0.765,110.598,4,country
+2lTvTA03fnnqx0JQPUP3P8,Lady A,GOD JUL,A Holly Jolly Christmas,0,122826,False,0.626,0.52,8,-4.389,1,0.0284,0.392,0.0,0.0447,0.746,147.031,4,country
+3bwXXVAgssrfzsJPG8p8TC,Little Big Town,Country Christmas Greatest Hits,Have Yourself A Merry Little Christmas,1,229520,False,0.376,0.179,3,-11.792,1,0.0369,0.893,0.0,0.111,0.206,155.332,4,country
+1PvFGbb2Gj9GsalJgy6UhM,Little Big Town,Calm Christmas,Have Yourself A Merry Little Christmas,0,232720,False,0.401,0.178,3,-11.854,1,0.0372,0.897,0.0,0.107,0.221,155.888,4,country
+5pkRgODcezwvayn3yGIxHK,Lady A,JULMUSIK,A Holly Jolly Christmas,0,122826,False,0.626,0.52,8,-4.389,1,0.0284,0.392,0.0,0.0447,0.746,147.031,4,country
+3dcDc0eaQabbXoTNXysU6U,Little Big Town,Country USA,Boondocks,0,272346,False,0.406,0.78,9,-5.392,1,0.0324,0.21,0.0,0.474,0.687,88.017,4,country
+4a5Dibxjp4I8e4DWHg6apf,Lynyrd Skynyrd,Country Road Songs,Simple Life,0,197106,False,0.549,0.891,6,-4.044,1,0.0351,0.0141,0.00323,0.0661,0.508,111.996,4,country
+1JmlZodBeJCzYsUMROca9M,Riley Green,Country USA,Jesus And Wranglers,0,183560,False,0.579,0.754,4,-5.249,1,0.0261,0.00805,0.0,0.0803,0.734,124.036,4,country
+0d6VlFG2bn8yL0wiGgJRPx,Lauren Alaina,Christmas Country Songs 2022,O Holy Night,0,268373,False,0.287,0.498,9,-5.75,1,0.029,0.717,2.29e-06,0.072,0.141,170.774,3,country
+7nzbdPYlaoVjV42rzBWStH,Darius Rucker,Fishing Music,Wagon Wheel,1,298400,False,0.535,0.661,9,-7.139,1,0.0304,0.46,0.0,0.142,0.596,148.121,4,country
+2OWYsqzFeKRxXzIzhv3a0n,Little Big Town,Christmas Day Chill,Have Yourself A Merry Little Christmas,0,232720,False,0.401,0.178,3,-11.854,1,0.0372,0.897,0.0,0.107,0.221,155.888,4,country
+1ndsiN20NoDjZka7Uiij2b,Kenny Rogers,Christmas Time,I'll Be Home for Christmas,0,164906,False,0.437,0.229,9,-10.99,1,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+7thLVTvGXOpJcMEmQPNxU8,Little Big Town,Tailgate Country,Day Drinking,0,178840,False,0.591,0.959,9,-2.515,1,0.057,0.103,0.0,0.779,0.86,163.883,4,country
+6douPMNtBroh5JmfUKe4Tk,Kenny Rogers,Perfect Christmas Hits,I'll Be Home for Christmas,0,164906,False,0.437,0.229,9,-10.99,1,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+1q1qgE012Z79VBqqUBaPoz,Lady A,Tailgate Country,Champagne Night - From Songland,0,185069,False,0.523,0.927,4,-2.796,1,0.0489,0.0272,5.98e-06,0.168,0.939,149.929,4,country
+3hDSiWsdRj4e6iDV9Pc3tq,Darius Rucker,Tailgate Country,Wagon Wheel,0,298400,False,0.535,0.661,9,-7.139,1,0.0304,0.46,0.0,0.142,0.596,148.121,4,country
+2Ok3RB6OuSkV140AgyCuqd,Lynyrd Skynyrd,Rock Workout 2023,Sweet Home Alabama,1,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,country
+1gJrH78tBc0ymRXZiizxKx,Lynyrd Skynyrd,Best 70s Rock Tunes,Sweet Home Alabama,1,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,country
+5Sy1r6KDFCzuYeUqH9n0w3,Toby Keith,Tailgate Country,A Little Less Talk And A Lot More Action,0,169453,False,0.738,0.869,9,-5.118,1,0.0401,0.123,0.0,0.277,0.92,125.071,4,country
+2plJHpNYOmZUCcWieMc3FN,Little Big Town,Christmas Country Songs 2022,Go Tell It On The Mountain,0,230000,False,0.538,0.881,2,-5.205,1,0.0824,0.132,0.0,0.222,0.392,111.946,4,country
+0bvt5MK16LmsCqDhVegw3f,Kenny Rogers;Kim Carnes,Best 70s Rock Tunes,Don't Fall In Love With A Dreamer,0,220400,False,0.528,0.391,9,-9.39,1,0.0253,0.0333,0.0,0.115,0.201,80.31,4,country
+6fsHeJsRAscaPO6Wi8zwTX,Lynyrd Skynyrd,Best 70s Rock Tunes,Sweet Home Alabama,0,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,country
+1PaIRzJB1zB0jCxUPrW9OV,Riley Green,Tailgate Country,Georgia Time,0,221200,False,0.594,0.621,6,-6.23,1,0.0272,0.041,0.0,0.117,0.671,77.005,4,country
+6LBsmn8XJRNXv1jBBWFHV1,Kenny Rogers,Merry Christmas,I'll Be Home for Christmas,0,164906,False,0.437,0.229,9,-10.99,1,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+6scecOoBpMr3jV08gbSW3O,Lauren Alaina,Christmas Country Songs 2022,Like My Mother Does - American Idol Performance,0,252053,False,0.473,0.654,6,-5.417,1,0.0291,0.0118,0.0,0.121,0.174,139.956,4,country
+5fSKILoPQapUmvK0rRpKsj,Toby Keith,Country USA,"Courtesy Of The Red, White And Blue (The Angry American)",0,195480,False,0.426,0.674,2,-5.529,1,0.0452,0.48,1.32e-06,0.0784,0.378,110.399,4,country
+3WMj8moIAXJhHsyLaqIIHI,Zach Bryan,Something in the Orange,Something in the Orange,89,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+4BXkf6yww23Vdju7E1fUrn,Brad Paisley;Alison Krauss,Hits Alive,Whiskey Lullaby (feat. Alison Krauss),64,259453,False,0.587,0.35,2,-10.954,1,0.0318,0.74,0.0,0.156,0.17,74.479,4,country
+1GIFDbwxGx1jVfroBbzmwh,Josh Turner;Chris Janson,Country USA,Country State Of Mind,0,242022,False,0.594,0.833,1,-5.559,1,0.0337,0.0119,0.0,0.315,0.592,118.512,4,country
+7C2xXcXTr7AItNOMVr1Oul,Gabby Barrett,Country Car Hits,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+784F2uaW9wuXvf9QiXzTUU,Gabby Barrett,New Country Hits,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+3GCVKDkxKwMHHHOurpI6qR,Billy Ray Cyrus,Country USA,Some Gave All,0,245200,False,0.633,0.442,7,-8.463,1,0.0296,0.036,7.57e-06,0.0672,0.241,121.617,4,country
+0TgKHlvgZEfaiALjWqyidx,Gabby Barrett,Cozy Country,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+4BPcGND7l0vR0D2Ky8mJP1,Gabby Barrett;Charlie Puth,Single Saturday Night - Country Songs,I Hope,0,211605,False,0.563,0.576,6,-6.495,1,0.0401,0.171,0.0,0.158,0.412,75.019,4,country
+5BacLdcOdRTV9VRqVpBchv,Gabby Barrett,Country Road Songs,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+3wyJhkm39HVs3Riocur2Rf,Billy Ray Cyrus,90's Music Grandi Successi,Achy Breaky Heart,0,206800,False,0.768,0.753,9,-5.63,1,0.0289,0.0541,0.0,0.0893,0.964,121.789,4,country
+2ZfojROyvVjM7dQYa0bTJr,Gabby Barrett,New Country,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+6oaHCpUkUcvRZzerlEoDNk,Gabby Barrett,Hideaway - New Boots,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+1iGlm3Lm5sBo5KwFjoNhdo,Josh Turner,Mientras hago aromaterapia,Lay Low,0,260853,False,0.634,0.679,11,-5.922,1,0.0282,0.0813,0.000119,0.116,0.378,109.004,4,country
+3siQrWtkFVmCLYITXxuvPD,Gabby Barrett,Country Christmas Time,The First Noel,0,261303,False,0.458,0.351,10,-6.049,1,0.0244,0.696,0.0,0.143,0.102,79.993,3,country
+5kRKgcKiHbNbSl68FHMss5,Gabby Barrett,Laidback Country,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+2afvcSsn0RqhIRbMpECV8b,Gabby Barrett,Cuddle Up Christmas,The First Noel,0,261303,False,0.458,0.351,10,-6.049,1,0.0244,0.696,0.0,0.143,0.102,79.993,3,country
+3pv8OSXNuOdjhhTX0xN8bK,Gabby Barrett,Country Holiday,The First Noel,0,261303,False,0.458,0.351,10,-6.049,1,0.0244,0.696,0.0,0.143,0.102,79.993,3,country
+12BlMz2VV3i7L08ecFuIsK,Gabby Barrett,Easy Country,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+5YzfH7DTvRUf6l3ebJG0c0,Carly Pearce,Sad Country Songs,Every Little Thing,2,181053,False,0.639,0.427,0,-6.512,1,0.0368,0.434,1.14e-05,0.0903,0.322,139.899,4,country
+0rZ4nOlXciHhF0f7zoMltZ,Gabby Barrett,Single Saturday Night - Country Songs,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+35ES4VMxOzu4TtYulIL52v,Gabby Barrett,Burn Burn Burn - Hot Country Hits,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+4eLbYxBsc6ErmNtaZxhf2A,Josh Turner,Country Christmas Greatest Hits,Go Tell It On The Mountain,1,173746,False,0.508,0.485,5,-6.903,1,0.0325,0.835,0.0,0.126,0.808,117.015,5,country
+4ybNmXCmPYzVT8iRGVsQx4,Gabby Barrett,Happy Country Christmas,The First Noel,0,261303,False,0.458,0.351,10,-6.049,1,0.0244,0.696,0.0,0.143,0.102,79.993,3,country
+6O62mcdQBTU4AwVwLtGAHF,Justin Moore,Sad Country Songs,On The Rocks,2,210209,False,0.524,0.586,6,-5.778,1,0.0273,0.375,0.0,0.11,0.416,101.006,3,country
+3bXofvvuyCMopFxgcnK1B0,Gabby Barrett,Good Times Country,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+13csvOm2sBimqppl7rLJmc,Maddie & Tae,Country Christmas Greatest Hits,Holly Jolly Christmas,1,138760,False,0.699,0.487,9,-8.28,1,0.0326,0.717,5.69e-06,0.0986,0.665,136.042,4,country
+2U2hAcbYfk05ESxrpk3vmu,Carly Pearce,Sad Country Songs,Day One,1,210699,False,0.674,0.603,10,-6.704,1,0.0452,0.267,0.0,0.108,0.524,121.969,4,country
+00ZYYvMBC1Rs4nl0Y0suN1,Josh Turner,Christmas Country Songs 2022,Soldier's Gift,0,226516,False,0.598,0.326,11,-8.129,1,0.0308,0.837,0.107,0.099,0.182,125.671,3,country
+6dU8Gdxmk6gMmNQ9xbcqbX,Gabby Barrett,Chillin' It - Mellow Day Country,The Good Ones,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+77XdIOSscAatSVaPAJz7cp,Gabby Barrett,Never Leave - Country Magic,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+3hTB92pIwUNcIvpjvpyzDA,Gabby Barrett,Finest Country,Footprints on the Moon,0,190223,False,0.506,0.749,8,-4.982,0,0.0388,0.00648,2.03e-05,0.223,0.372,151.928,4,country
+4DNBm8arpcX9ryR99JYE4y,Justin Moore,Sad Country Songs,She Ain’t Mine No More,1,217227,False,0.606,0.795,6,-5.03,1,0.0284,0.0411,0.0,0.0892,0.599,109.069,4,country
+3KhYaYbgpORqQRMIWaSU2b,Gabby Barrett,Your Perfect Soundtrack,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+0QJfzIyIei7vm1Jrmh34HN,Gabby Barrett,Oklahoma Smokeshow - Breakout Country,Pick Me Up,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+1GQMpacZAFmsYYmkT87gUw,ZZ Top,Timeless Rock Hits,Rough Boy,1,287426,False,0.419,0.737,9,-7.09,1,0.0364,0.204,0.00716,0.24,0.595,157.991,4,country
+1oB5LE4GXJk9jIXxgJPglc,Maddie & Tae,Tailgate Country,Woman You Got,0,177973,False,0.515,0.896,10,-3.548,1,0.0558,0.112,0.0,0.161,0.715,170.073,4,country
+0zHdE6GnADD8Wiy85ZsI3z,Kenny Rogers,Country Holiday,Christmas in America,0,182773,False,0.524,0.228,9,-13.685,1,0.0326,0.661,0.0,0.129,0.475,117.997,4,country
+5bsyeHw6sQja0n3oUiDfMY,Kenny Rogers,Holly Jolly Christmas,I'll Be Home for Christmas,0,164906,False,0.437,0.229,9,-10.99,1,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+65RFXfpjIRrKrDBAWrBnlx,Maddie & Tae,Christmas Country Songs 2022,Have Yourself A Merry Little Christmas,0,229019,False,0.397,0.458,8,-7.796,1,0.0293,0.339,0.00366,0.11,0.239,67.968,4,country
+6uPNJqmDLsgAJnNTR5V7QP,ZZ Top,80's,Sharp Dressed Man - 2003 Remaster,0,253413,False,0.527,0.786,5,-8.01,1,0.0362,0.000153,0.00271,0.085,0.343,125.117,4,country
+3hMAnGqeTEAENfsOa5ggUm,Kenny Rogers;Kim Carnes,Best 70s Rock Tunes,Don't Fall In Love With A Dreamer,0,220400,False,0.528,0.391,9,-9.39,1,0.0253,0.0333,0.0,0.115,0.201,80.31,4,country
+7DSTFdDCDdAaD8hMtAmLzh,Billy Currington,Tailgate Country,Pretty Good At Drinkin' Beer,0,179906,False,0.769,0.678,5,-3.725,1,0.0315,0.427,8.04e-06,0.0939,0.581,106.953,4,country
+7g8FGqw4GeGlZRpmMYNEk6,Kenny Rogers,Christmas Music - Holiday Hits,I'll Be Home for Christmas,0,164906,False,0.437,0.229,9,-10.99,1,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+1Y1lY3CMLxuvtsW7YVxJAi,Maddie & Tae,A Merry Modern Christmas,Christmas (Baby Please Come Home),0,182506,False,0.424,0.451,3,-7.486,1,0.0285,0.821,1.46e-06,0.124,0.184,161.992,3,country
+32mcPl0kYmcAVGf884kCtp,Kenny Rogers;Kim Carnes,Best 70s Rock Tunes,Don't Fall In Love With A Dreamer,0,220400,False,0.528,0.391,9,-9.39,1,0.0253,0.0333,0.0,0.115,0.201,80.31,4,country
+0oYezIvTOWj9O2xfOpamEd,Kenny Rogers,Christmas Country Songs 2022,Kentucky Homemade Christmas,0,254742,False,0.563,0.709,9,-7.855,1,0.0272,0.0936,0.0,0.066,0.497,118.126,4,country
+3CnFfsYOIWdawTvM4Tnfh1,Billy Currington,Artsy & Colourful,People Are Crazy,0,232053,False,0.657,0.714,5,-4.986,1,0.0265,0.23,0.000744,0.127,0.361,141.967,4,country
+0WdivOp6ocXUwbBf8sNmqP,Kenny Rogers,Happy Country Christmas,Christmas in America,0,182773,False,0.524,0.228,9,-13.685,1,0.0326,0.661,0.0,0.129,0.475,117.997,4,country
+4zBoFf0ihjdF6FtX099AEF,Kenny Rogers;Kim Carnes,Sweet Home Alabama,Don't Fall In Love With A Dreamer,0,220400,False,0.528,0.391,9,-9.39,1,0.0253,0.0333,0.0,0.115,0.201,80.31,4,country
+09KEbfBvubWhOOJbNakvM1,Travis Tritt,Happy Country Christmas,Santa Looked a Lot Like Daddy,0,148453,False,0.622,0.778,7,-8.987,1,0.0361,0.234,0.0236,0.0978,0.975,164.416,4,country
+6OcCk1dbAb7XNHsC098oEM,Kelsea Ballerini;LANY,I Quit Drinking,I Quit Drinking,73,171200,False,0.607,0.418,1,-6.997,1,0.0363,0.394,0.0,0.182,0.386,95.002,4,country
+1yTTMcUhL7rtz08Dsgb7Qb,Maren Morris;Hozier,The Bones (with Hozier),The Bones - with Hozier,71,197298,False,0.561,0.597,11,-6.0,0,0.0405,0.286,0.0,0.0979,0.355,76.826,4,country
+4rMLQycynM5w0fmZregNe7,Tyler Hubbard,Artsy & Colourful,5 Foot 9,1,189780,False,0.602,0.796,5,-5.609,1,0.0465,0.146,0.0,0.125,0.53,106.005,4,country
+0HGpVO2aqh9Dadfs90S1mP,Faith Hill,Finest Country,Like We Never Loved at All,0,257693,False,0.494,0.467,2,-8.184,1,0.0286,0.0822,0.0,0.111,0.292,133.81,4,country
+4Pd7rBSiSh1gx9V58p0oNY,Tyler Hubbard,Tailgate Country,35’s,0,174721,False,0.535,0.79,10,-5.698,1,0.0553,0.00358,0.0,0.257,0.402,139.929,4,country
+6S0UqyKhplRUDKAuSEwvLl,Brett Eldredge,Hideaway - New Boots,Hideaway,3,163360,False,0.69,0.373,8,-5.566,1,0.0286,0.618,0.0,0.128,0.473,124.082,3,country
+7A2YSo9trGZ9OlO7w2DICx,Brett Eldredge,New Country,Songs About You,0,202386,False,0.649,0.558,8,-4.863,1,0.0253,0.147,0.0,0.172,0.635,89.988,4,country
+4OGn0e78ezPoLBGgVMPNtH,Brett Eldredge,Easy Country,Holy Water,0,164426,False,0.519,0.363,9,-8.238,1,0.0302,0.317,1.17e-06,0.108,0.211,95.275,4,country
+4T9NkV23VehFveulDtI7KC,Brett Eldredge,New Country Hits,Hideaway,0,163360,False,0.69,0.373,8,-5.566,1,0.0286,0.618,0.0,0.128,0.473,124.082,3,country
+1ZmOgTJs5e0rISzhmUtHA7,Brett Eldredge,Country Road Songs,Wanna Be That Song,0,236226,False,0.518,0.686,9,-4.911,1,0.0313,0.114,0.0,0.114,0.337,144.064,4,country
+78bCYt1ffwrT7xBCH7s5lw,Brett Eldredge,Hideaway - New Boots,Songs About You,0,202386,False,0.649,0.558,8,-4.863,1,0.0253,0.147,0.0,0.172,0.635,89.988,4,country
+1UO0GrW5aAYqWPBYvLdpo2,Brett Eldredge,Cozy Country,Holy Water,0,164426,False,0.519,0.363,9,-8.238,1,0.0302,0.317,1.17e-06,0.108,0.211,95.275,4,country
+0txUMkaN3gbwv4RlEwqzl5,Brett Eldredge;Meghan Trainor,Country Holiday,"Baby, It's Cold Outside",0,173546,False,0.609,0.575,1,-4.789,1,0.0387,0.723,0.0,0.176,0.662,113.958,4,country
+5fbrfve4yo0GUWfGNmhFJr,Faith Hill,Country Car Hits,This Kiss,0,194866,False,0.47,0.779,11,-6.624,1,0.0424,0.161,0.0,0.142,0.749,186.784,4,country
+7Dxwcjwp6K8iXketst7YxP,Brett Eldredge;Meghan Trainor,Cuddle Up Christmas,"Baby, It's Cold Outside",0,173546,False,0.609,0.575,1,-4.789,1,0.0387,0.723,0.0,0.176,0.662,113.958,4,country
+4oTZdXrLOVglANyo1dLa5L,Brett Eldredge,Never Leave - Country Magic,Hideaway,0,163360,False,0.69,0.373,8,-5.566,1,0.0286,0.618,0.0,0.128,0.473,124.082,3,country
+0jZ26U5zgR9tTjM0dAnJx2,Midland;Jon Pardi,Sad Country Songs,Longneck Way To Go,1,188400,False,0.485,0.883,5,-4.906,1,0.0403,0.00177,6.38e-06,0.37,0.604,129.021,4,country
+77ldbMS3wbtNlCYJt9qcia,Brett Eldredge,Laidback Country,Holy Water,0,164426,False,0.519,0.363,9,-8.238,1,0.0302,0.317,1.17e-06,0.108,0.211,95.275,4,country
+1KTX7h07fH3MtAzf5bsqHJ,Brett Eldredge,Finest Country,Gabrielle,0,216720,False,0.707,0.722,10,-6.722,1,0.0284,0.0485,0.0,0.122,0.431,98.991,4,country
+1BtZjD0TAUF4LaHXlFM5aH,Faith Hill,JULMYS,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+2xftwmAvlYcmZIq371oWt4,Brett Eldredge,Oklahoma Smokeshow - Breakout Country,Songs About You,0,202386,False,0.649,0.558,8,-4.863,1,0.0253,0.147,0.0,0.172,0.635,89.988,4,country
+0Gqt7TMY8pI89qfHTKLNrZ,Faith Hill,JULPYNTA,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+14vlb2rrtYJc2t5eN0Qxnp,Brett Eldredge,Burn Burn Burn - Hot Country Hits,Hideaway,0,163360,False,0.69,0.373,8,-5.566,1,0.0286,0.618,0.0,0.128,0.473,124.082,3,country
+0QBFN6bzOfLb42ktCeffpN,Upchurch,Son of the South,Ghost,52,191425,True,0.788,0.572,11,-8.368,1,0.0606,0.705,0.000777,0.123,0.427,118.041,4,country
+5khtfo0cmcluTkYSevgd1L,Brett Eldredge,Oklahoma Smokeshow - Breakout Country,Hideaway,0,163360,False,0.69,0.373,8,-5.566,1,0.0286,0.618,0.0,0.128,0.473,124.082,3,country
+0uZGpJDfstfdhZlkEjqghW,Faith Hill,Country Holiday,Holly Jolly Christmas,0,138200,False,0.606,0.372,7,-12.949,1,0.0718,0.42,0.0,0.0432,0.662,145.06,4,country
+3PB2otu6Z5yToA9irqF1fN,Faith Hill;Tim McGraw,Chillin' It - Mellow Day Country,Let's Make Love,0,252893,True,0.35,0.459,5,-8.618,1,0.0274,0.339,0.0,0.111,0.153,147.035,4,country
+5w9o8SPAR4MHyIqDBl8ux6,Faith Hill,Good Times Country,The Lucky One,0,216426,False,0.674,0.866,5,-4.067,1,0.0328,0.0739,0.0,0.377,0.684,119.991,4,country
+3FQn5MgSHzxEIPglrsLjHk,Brett Eldredge,Christmas Music - Holiday Hits,A Holly Jolly Christmas,0,142840,False,0.681,0.474,7,-8.623,0,0.0423,0.621,1.24e-06,0.137,0.7,71.957,4,country
+7kljF41HGcnuU4tBRQ8d6k,Brett Eldredge,Good Times Country,Time Well Spent,0,215226,False,0.53,0.888,4,-5.438,1,0.0817,0.0081,0.0,0.297,0.585,91.98,4,country
+7rVw4gyhclOgTIrFCtI3ZG,Brett Eldredge,Chillin' It - Mellow Day Country,Bring You Back,0,191986,False,0.571,0.711,8,-4.774,1,0.0423,0.307,0.0,0.203,0.571,143.924,4,country
+0T9jZM8wQ4524KS1hiWBje,Randy Travis,Country Christmas Time,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,country
+3trKXvHsDtWr4yG30UNuwZ,Faith Hill,Happy Country Christmas,Holly Jolly Christmas,0,138200,False,0.606,0.372,7,-12.949,1,0.0718,0.42,0.0,0.0432,0.662,145.06,4,country
+36kJAxLb04RxqtTETruUKM,Midland,Tailgate Country,East Bound And Down,0,177098,False,0.62,0.974,7,-4.175,1,0.0717,0.041,1.61e-05,0.339,0.711,118.06,4,country
+5RTYEflSyR3t9mp6nX7bjf,Steely Dan,70s Christmas Party,Reelin' In The Years,0,275466,False,0.52,0.758,2,-9.92,1,0.0363,0.115,0.0,0.109,0.706,135.349,4,country
+2fPizcwIsynudoau2XPZdX,Faith Hill,Slow Christmas Songs 2022,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+1cwpbCUPnLdgLw6QBFG9TZ,Faith Hill,Lonely Christmas 2022,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+7HSi0K1ryVMOC9T6fWKMK5,Randy Travis,Country Holiday,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,country
+6mod8hXI1qI0O0h7q5gcsQ,Faith Hill,Silent Night,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+5aHjmaVU5KmXiydGcZJ23v,Faith Hill,Christmas Faves 2022,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,10,-9.876,1,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+3AiKS1mpEoLLoSR5SuUf9k,Brett Eldredge,Single Saturday Night - Country Songs,Drunk on Your Love,0,173960,False,0.443,0.831,11,-5.606,1,0.0615,0.414,0.0,0.204,0.586,182.056,4,country
+1E8hlfifMjQiIHv0ZzAVK6,Randy Travis,Chillin' It - Mellow Day Country,"Forever and Ever, Amen (All the Number Ones Version)",0,213306,False,0.709,0.635,2,-10.375,1,0.0246,0.229,3.12e-05,0.194,0.741,90.554,4,country
+4kUVq3jrZsnfeOHC8T7Xqo,Brett Eldredge;Meghan Trainor,Happy Country Christmas,"Baby, It's Cold Outside",0,173546,False,0.609,0.575,1,-4.789,1,0.0387,0.723,0.0,0.176,0.662,113.958,4,country
+4bLCib4WnSGbkPTx6hln2x,Steely Dan,On air 70's Hits,Reelin' In The Years,0,275466,False,0.52,0.758,2,-9.92,1,0.0363,0.115,0.0,0.109,0.706,135.349,4,country
+5UYYKTnYTvNqLWMJtw6O6Q,Travis Tritt,Country Car Hits,Take It Easy,0,213706,False,0.633,0.876,7,-5.21,1,0.0276,0.0116,0.0,0.0537,0.738,140.971,4,country
+3lo3fpR0BO8pe2z5UhbcZw,Randy Travis,Happy Country Christmas,Meet Me under the Mistletoe,0,163320,False,0.626,0.422,9,-13.618,1,0.0492,0.246,0.0,0.342,0.661,151.466,4,country
+3ndZWLxbJQ2RXTAVtCGrAt,Travis Tritt,Christmas Time,Santa Looked a Lot Like Daddy,0,148453,False,0.622,0.778,7,-8.987,1,0.0361,0.234,0.0236,0.0978,0.975,164.416,4,country
+5rtBmROojOPvdwDi41bI4E,Travis Tritt,Holly Jolly Christmas,Santa Looked a Lot Like Daddy,0,148453,False,0.622,0.778,7,-8.987,1,0.0361,0.234,0.0236,0.0978,0.975,164.416,4,country
+2VSSRKrbZ8X1Is29UFST80,Travis Tritt,Chillin' It - Mellow Day Country,Worth Every Mile,0,306840,False,0.441,0.298,4,-14.499,1,0.0276,0.208,0.095,0.0983,0.169,77.235,4,country
+4Y85HkvhjdqBAo84NVoZJK,Travis Tritt,Country Holiday,Santa Looked a Lot Like Daddy,0,148453,False,0.622,0.778,7,-8.987,1,0.0361,0.234,0.0236,0.0978,0.975,164.416,4,country
+7yFhA2fUsL2oIMWlw5DaHQ,Maren Morris,GIRL,The Bones,75,197293,False,0.612,0.57,11,-6.642,0,0.0347,0.278,0.0,0.0963,0.334,77.004,4,country
+3GJ4hzg4lrGwU51Y3VARbF,Dan + Shay,Dan + Shay,Speechless,72,213386,False,0.616,0.438,1,-5.968,1,0.0298,0.356,0.0,0.24,0.386,135.929,4,country
+5gB2IrxOCX2j9bMnHKP38i,Rascal Flatts,Cars (Original Motion Picture Soundtrack),Life is a Highway,73,275640,False,0.562,0.934,5,-5.562,1,0.0607,0.00211,0.0,0.199,0.558,103.042,4,country
+5BJSIhaHPpnTkAahlmOQ1h,Eric Ethridge,Eric Ethridge,If You Met Me First,61,193832,False,0.31,0.552,9,-5.967,1,0.0303,0.344,0.0,0.0689,0.244,145.908,4,country
+7e89621JPkKaeDSTQ3avtg,Lynyrd Skynyrd,Second Helping (Expanded Edition),Sweet Home Alabama,81,283800,True,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798,4,country
+6HjF1gzVEZMb4GplnGl9B3,Dan + Shay;Justin Bieber,"10,000 Hours (with Justin Bieber) [Piano]","10,000 Hours (with Justin Bieber) - Piano",61,172320,False,0.426,0.366,10,-6.514,1,0.0312,0.765,0.0,0.117,0.386,179.736,4,country
+4BP3uh0hFLFRb5cjsgLqDh,Creedence Clearwater Revival,Willy And The Poor Boys (Expanded Edition),Fortunate Son,82,140773,False,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,4,country
+20PD57jNOHToaTbVi9ZHpa,BRELAND,Easy Country,For What It’s Worth,0,175212,False,0.661,0.749,1,-4.851,1,0.0371,0.0579,0.0,0.0898,0.682,146.079,4,country
+6Ny6eqPrLnYbSjrOyqLVAD,BRELAND,Country Road Songs,Growing Pains,1,161004,False,0.606,0.735,11,-4.676,0,0.0349,0.0738,0.0,0.243,0.604,81.997,4,country
+1Mq6RHNN1Rkti7lgfraO2B,BRELAND;Keith Urban,Finest Country,Throw It Back,0,188936,False,0.79,0.73,0,-4.98,1,0.0926,0.0586,0.0,0.0878,0.513,93.985,4,country
+1tQ7g3atJDUiwXqwCPQks0,Midland,Sad Country Songs,Burn Out,1,189613,False,0.672,0.724,7,-5.61,1,0.0244,0.292,0.0,0.231,0.801,99.975,4,country
+28cnXtME493VX9NOw9cIUh,Johnny Cash,American IV: The Man Comes Around,Hurt,74,216533,False,0.534,0.392,9,-7.636,0,0.0267,0.649,0.000227,0.0948,0.163,90.379,4,country
+1AhR2cNx9Kdta7FGvpfQ9H,BRELAND,New Country,Natural,1,162093,False,0.666,0.871,5,-4.212,1,0.0499,0.00294,0.0,0.319,0.706,123.952,4,country
+2audluGyqhja0vfNTsyisW,Ingrid Andress,Country Car Hits,Feel Like This,0,196162,False,0.536,0.605,7,-5.292,1,0.0338,0.141,0.0,0.0614,0.341,130.053,4,country
+7E8A7PXdL85m3iltVoTeIy,BRELAND,Hideaway - New Boots,Natural,0,162093,False,0.666,0.871,5,-4.212,1,0.0499,0.00294,0.0,0.319,0.706,123.952,4,country
+44k0lbFIwMyr2mHiQPxgOu,Ingrid Andress,Country Road Songs,Feel Like This,0,196162,False,0.536,0.605,7,-5.292,1,0.0338,0.141,0.0,0.0614,0.341,130.053,4,country
+6KBEi0APTBDw4xY0pHdFxl,Ingrid Andress;Sam Hunt,Easy Country,Wishful Drinking,0,194544,False,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+2MLD07nZFCPAYyqAxzmDFO,Ingrid Andress;Sam Hunt,Hideaway - New Boots,Wishful Drinking,0,194544,False,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+5XwnegeB8AsGCi5Yu9APR1,BRELAND;Lady A,Hideaway - New Boots,Told You I Could Drink,2,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+3tNX7fhcBaSms533LGrQAt,Ingrid Andress,Hideaway - New Boots,Seeing Someone Else,3,206737,False,0.443,0.497,5,-4.765,1,0.0315,0.0738,9.81e-05,0.128,0.294,147.859,4,country
+4Zsjw4wFbqAGjw0q4aL4gP,BRELAND;Lady A,Country Car Hits,Told You I Could Drink,1,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+50JeDnQBpt8TaOOZ1t2iei,Ingrid Andress;Sam Hunt,Laidback Country,Wishful Drinking,0,194544,False,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+3f87QI7MIu0VgijoiQmENv,Ingrid Andress;Sam Hunt,Single Saturday Night - Country Songs,Wishful Drinking,0,194544,False,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+5gviJgBATmGFHnWiQyx4xI,BRELAND;Keith Urban,Good Times Country,Throw It Back,1,188936,False,0.79,0.73,0,-4.98,1,0.0926,0.0586,0.0,0.0878,0.513,93.985,4,country
+6UF6LrOZlDZxJjooEqYaDh,BRELAND;Lady A,New Country Hits,Told You I Could Drink,0,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+13FXWhOqRbaZkrLSS3MH1q,BRELAND,Oklahoma Smokeshow - Breakout Country,Natural,0,162093,False,0.666,0.871,5,-4.212,1,0.0499,0.00294,0.0,0.319,0.706,123.952,4,country
+3Lu4WAsmpag6CZSN0H3Wor,Steely Dan,Fiesta temática 70s,Do It Again,0,354933,False,0.695,0.583,2,-8.265,0,0.0303,0.157,7.61e-05,0.0576,0.96,124.61,4,country
+3yuxU2iHhz7tocZG9ohT1A,BRELAND;Lady A,Never Leave - Country Magic,Told You I Could Drink,0,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+493RXTNYIr027MGi30cT1B,Brett Eldredge,Country Christmas Time,Christmas Time Is Here,1,210906,False,0.322,0.301,0,-11.993,1,0.0325,0.921,0.000799,0.168,0.234,74.518,3,country
+6WbRhuDhbFXIqKcqOFYEcG,Faith Hill,Country Christmas Time,Little Drummer Boy,1,185960,False,0.617,0.0774,4,-14.235,1,0.049,0.948,1.98e-06,0.109,0.251,120.234,4,country
+3hNGMcAUI003T6reBA4aW7,Trace Adkins,Tailgate Country,Honky Tonk Badonkadonk,0,241133,False,0.643,0.919,2,-3.487,1,0.0551,0.338,0.0,0.0555,0.823,114.983,4,country
+26eSvBHZXcbh7uyHS6N3VR,Ingrid Andress;Sam Hunt,Oklahoma Smokeshow - Breakout Country,Wishful Drinking,0,194544,False,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+7c3vEk2oabwRAsyXwFngAY,Brett Eldredge,Christmas Time,Christmas Time Is Here,0,210906,False,0.322,0.301,0,-11.993,1,0.0325,0.921,0.000799,0.168,0.234,74.518,3,country
+3oI7u4rwj9ThTeMkDdE35y,Brett Eldredge,Holly Jolly Christmas,Christmas Time Is Here,0,210906,False,0.322,0.301,0,-11.993,1,0.0325,0.921,0.000799,0.168,0.234,74.518,3,country
+7GR4jEz28VG56gBXp0Tn9D,Brett Eldredge,Perfect Christmas Hits,Christmas Time Is Here,0,210906,False,0.322,0.301,0,-11.993,1,0.0325,0.921,0.000799,0.168,0.234,74.518,3,country
+1ZZdzk0O2nd46H4rI2uyir,BRELAND;Lady A,Your Perfect Soundtrack,Told You I Could Drink,0,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+2t3aiGKuxn3slkY167QhWy,BRELAND;Lady A,Oklahoma Smokeshow - Breakout Country,Told You I Could Drink,0,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+1x1e7T0TFQP9tv4OJaj5qf,Ingrid Andress,Single Saturday Night - Country Songs,More Hearts Than Mine,0,214786,False,0.375,0.428,0,-7.387,1,0.029,0.109,0.0,0.105,0.361,78.516,4,country
+7hNS1ZFMtotZBXcsekVjvu,Brett Eldredge,Merry Christmas,Christmas Time Is Here,0,210906,False,0.322,0.301,0,-11.993,1,0.0325,0.921,0.000799,0.168,0.234,74.518,3,country
+6XECmlbKVHK2Oc4MS0nm7g,BRELAND;Lady A,Burn Burn Burn - Hot Country Hits,Told You I Could Drink,0,236990,False,0.542,0.68,8,-4.434,1,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+2yqTEHKrGZQ4TjdrW83E8p,Kip Moore,Tailgate Country,Hey Pretty Girl,0,215920,False,0.431,0.373,2,-10.76,1,0.0277,0.16,1.41e-05,0.259,0.0884,85.548,1,country
+1OvNXa8g4CM2iUV5GWg9WR,Ingrid Andress,Oklahoma Smokeshow - Breakout Country,Seeing Someone Else,0,206737,False,0.443,0.497,5,-4.765,1,0.0315,0.0738,9.81e-05,0.128,0.294,147.859,4,country
+5TxB8cvC3cTSJJMsijy7Su,Kip Moore,Country USA,Red White Blue Jean American Dream,0,180346,False,0.561,0.765,0,-5.987,1,0.0322,0.00319,6.28e-05,0.261,0.622,160.139,4,country
+2GEapH0Gfz5f1UahLkPuKO,Reba McEntire;The Isaacs,Christmas Country Songs 2022,What Child Is This?,0,198693,False,0.528,0.198,9,-13.06,0,0.027,0.911,0.000227,0.099,0.209,99.221,3,country
+3OH23zU0LDZj6RrB9LFCzm,Reba McEntire,Country Christmas Greatest Hits,Hard Candy Christmas,1,228506,False,0.647,0.275,7,-9.135,1,0.0286,0.89,0.000786,0.112,0.323,95.848,4,country
+0EzEP3y1Q5XTFk4P2SZ60t,Upchurch,Creeker,Rattlin Chains,51,151307,True,0.244,0.754,10,-6.082,1,0.0646,0.0726,0.0,0.236,0.45,169.899,4,country
+1Ukz0CbWzSxCx8IEMGvvIE,Steely Dan,Best 70s Rock Tunes,Midnite Cruiser,0,246600,False,0.64,0.644,1,-10.273,1,0.0283,0.273,0.0,0.0449,0.722,99.197,4,country
+6tyU34BJC9IlDvYteFfvaN,Koe Wetzel,Harold Saul High,Powerball,52,255156,True,0.455,0.512,0,-8.65,1,0.0381,0.00846,0.0,0.165,0.0945,130.064,4,country
+2VmyG10PAR0ZyTUtgOp5Wf,America,Session Acoustique,A Horse with No Name,0,252239,False,0.653,0.507,11,-17.18,0,0.0534,0.687,0.0147,0.155,0.831,123.188,4,country
+3lQ5ZqHj7cZXcGs4W6IILx,America,Timeless Rock Hits,A Horse with No Name,0,249026,False,0.67,0.713,2,-10.219,1,0.0491,0.643,0.000446,0.125,0.848,124.421,4,country
+4WZ3liyYz5ZzDcL4ibAuOi,Kane Brown,Grand,Grand,70,178973,False,0.583,0.856,6,-5.446,0,0.0445,0.00484,0.0,0.224,0.48,168.053,4,country
+79yxkv3OXHrqvjJkadhOCm,Don Williams,You're My Best Friend,You're My Best Friend,56,169560,False,0.554,0.211,1,-15.603,1,0.029,0.923,0.000438,0.117,0.331,130.071,4,country
+6HSXNV0b4M4cLJ7ljgVVeh,Bob Dylan,Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),Knockin' On Heaven's Door,73,149880,False,0.513,0.396,7,-13.061,1,0.0299,0.251,0.177,0.11,0.229,140.208,4,country
+2Fs18NaCDuluPG1DHGw1XG,Rascal Flatts,Me And My Gang,Life is a Highway,75,276320,False,0.582,0.952,5,-3.848,1,0.0731,0.00324,0.0,0.223,0.655,103.027,4,country
+52f5RgyEM4cfaPMeh1VbWo,Ingrid Andress,New Country Hits,Blue,0,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+6RbR5roCYCol0oQw4oUxU7,Ingrid Andress,Cozy Country,Blue,0,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+3S2gSqUHQkUZ1dZyIBJV9l,Kidd G,Sad Country Songs,People Talk,1,191079,False,0.616,0.805,7,-6.915,1,0.0391,0.00776,0.0,0.37,0.28,88.017,4,country
+1LJt4Lh6SXMoe7XKTHUJ7o,Ingrid Andress,Finest Country,Blue,0,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+5rHOjo1bvjdUYH9ViGclLH,Ingrid Andress,New Country,Blue,1,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+0NAf1tdqosJQk9pStk7m7y,Ingrid Andress,Burn Burn Burn - Hot Country Hits,Blue,0,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+1N3HJcBBeShzVnd6FKto84,Conner Smith,Sad Country Songs,Didn't Go Too Far,1,167546,False,0.553,0.839,1,-3.235,1,0.0375,0.356,0.0,0.0966,0.367,95.886,4,country
+1xUl4v2uK0hi7ZT3fF7ZII,Ingrid Andress,Never Leave - Country Magic,Blue,0,201541,False,0.488,0.175,8,-9.5,1,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+1zR2sUjTQB3LcYaWxoQUs5,Vince Gill;Jenny Gill,Christmas Playlist 2022,Let There Be Peace On Earth,0,272586,False,0.453,0.139,6,-12.683,1,0.0302,0.806,3.11e-06,0.121,0.17,105.33,3,country
+6B7KZkn8aUTZNaTjRRYgtK,Vince Gill;Jenny Gill,Slow Christmas Songs 2022,Let There Be Peace On Earth,0,272586,False,0.453,0.139,6,-12.683,1,0.0302,0.806,3.11e-06,0.121,0.17,105.33,3,country
+0iYj6ql0SO88nF64rBhhHu,Conner Smith,Tailgate Country,I Hate Alabama,0,213733,False,0.289,0.841,4,-3.615,1,0.0497,0.205,0.0,0.37,0.392,171.91,4,country
+0hQUygAdBv0KxxWWuWhMF2,Ian Munsick,Country Road Songs,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+0X7Rp8TOCxPGjqq5c9MD1r,Ian Munsick,Country Car Hits,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+74dFWMsYkDrbtM1XkoK5D4,Vince Gill;Jenny Gill,Lonely Christmas 2022,Let There Be Peace On Earth,0,272586,False,0.453,0.139,6,-12.683,1,0.0302,0.806,3.11e-06,0.121,0.17,105.33,3,country
+1gtl58TMl0fzivv3jO2IE9,Eli Young Band,Sad Country Songs,Break Up In A Bar,1,216133,False,0.602,0.831,4,-4.887,1,0.0365,0.0164,0.000736,0.184,0.722,119.935,4,country
+1P3LDx6pTNu44IYNE6ziCU,Eli Young Band,Sad Country Songs,Drunk Last Night,1,220360,False,0.525,0.858,7,-4.551,1,0.0355,0.0466,0.0,0.102,0.57,87.029,4,country
+0i4lBK59bwoXaOPqvwnHQ7,Ian Munsick,Easy Country,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+14ZoSQzMmy8LwCmCt7NynJ,Steve Miller Band,Halloween Songs | Witches Hour,Abracadabra,2,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,country
+5OI1viABJdGBC6KpMTyslB,Vince Gill;Jenny Gill,Chill Christmas Dinner,Let There Be Peace On Earth,0,272586,False,0.453,0.139,6,-12.683,1,0.0302,0.806,3.11e-06,0.121,0.17,105.33,3,country
+42RjAtGAGje1E5wYkAjeuE,Ian Munsick,Cozy Country,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+6vQTZKCbXMHlorFFWbznTW,Ian Munsick;Cody Johnson,Hideaway - New Boots,Long Live Cowgirls,0,184746,False,0.233,0.432,10,-5.957,1,0.0321,0.291,0.0,0.279,0.286,195.663,3,country
+4iaut2RZl7gn6hkipwSW1j,Ingrid Andress,Country Christmas Time,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+0e5LcankE0UyJUuCoq1uH2,Steve Miller Band,Fishing Music,The Joker,0,264503,False,0.596,0.448,5,-9.616,1,0.0396,0.365,5.22e-06,0.207,0.796,83.293,4,country
+4QGCcm1t0HyKdl8ocOyD6F,Ingrid Andress,Country Holiday,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+7leo97m61VXKzV7b4Na9qa,Vince Gill,Country Christmas Greatest Hits,It's The Most Wonderful Time Of The Year,1,165026,False,0.519,0.397,8,-9.369,1,0.0293,0.852,3.95e-05,0.217,0.557,97.717,3,country
+0pcxVCyHagJp84hRZJNaMs,Ingrid Andress,Christmas Time,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+365F2lUtKG3sO4ODtdAD4g,Scotty McCreery,Christmas Country Songs 2022,Christmas In Heaven,0,211613,False,0.49,0.515,0,-5.654,1,0.0236,0.623,1.26e-05,0.12,0.256,80.967,4,country
+2c3KL0MpJWRBbufcH3CuBC,Ingrid Andress,Holly Jolly Christmas,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+3x2WXRcsNdpo52l4ySF4Nb,Ingrid Andress,Cuddle Up Christmas,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+7ea2evBOZWG4277pXVuBhS,Ingrid Andress,Perfect Christmas Hits,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+6dqQ5mkxySSqJaUfp93U5O,Ian Munsick,New Country Hits,More than Me,0,210426,False,0.495,0.746,10,-5.317,1,0.0266,0.49,0.0,0.176,0.463,145.879,4,country
+4aqS25F3ywJ9TGnNkOqilC,Steve Miller Band,Halloween Hits,Abracadabra - Remastered 2017,2,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,country
+6WFhyQ6n43T6bWQgjtW3aX,Ian Munsick,Laidback Country,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+6oNVWNr2cwOboDGFDYa7RE,Ingrid Andress,Happy Country Christmas,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+05fL1P3yj5DLIE9mF7pf1z,The Doobie Brothers,OK Boomers - Top Tunes,What a Fool Believes,0,219573,False,0.646,0.625,8,-8.819,0,0.0336,0.275,0.0,0.086,0.977,120.656,4,country
+01YadfwyNIWIgMZiujcA0c,Ian Munsick,Single Saturday Night - Country Songs,Long Haul,0,231265,False,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+4yoPwM4ldSYczHNnwz8MT2,Ian Munsick,Never Leave - Country Magic,More than Me,0,210426,False,0.495,0.746,10,-5.317,1,0.0266,0.49,0.0,0.176,0.463,145.879,4,country
+6Kv74sdWoLySwl0I1vAlxA,Ingrid Andress,Merry Christmas,Christmas Always Finds Me,0,200662,False,0.386,0.124,0,-9.736,1,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+5vo6kGxIqicod1Cy7VN701,Ian Munsick;Cody Johnson,Oklahoma Smokeshow - Breakout Country,Long Live Cowgirls,0,184746,False,0.233,0.432,10,-5.957,1,0.0321,0.291,0.0,0.279,0.286,195.663,3,country
+0vQiTX6F4cJHHYJqPcBjVI,Ian Munsick,Oklahoma Smokeshow - Breakout Country,More than Me,0,210426,False,0.495,0.746,10,-5.317,1,0.0266,0.49,0.0,0.176,0.463,145.879,4,country
+0hEiyrHSHFJ6ElC5xGpyEB,Steve Miller Band,Happy Haunted Halloween Tunes,Abracadabra,2,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,country
+0d7MzvPpaFnPuyqCPjWEEt,Eli Young Band,REGNIG DAG,When It Rains,0,256066,False,0.604,0.666,0,-2.955,1,0.0309,0.172,4.48e-06,0.236,0.24,120.056,4,country
+6rGz0FddK18McPSG6lNlip,Ian Munsick;Ryan Charles,Good Times Country,Cowboy Killer,0,132506,False,0.784,0.723,11,-5.619,1,0.04,0.0163,0.0,0.16,0.739,115.047,4,country
+245W5qPqqHLkra1hgb2Gf4,Ian Munsick;Cody Johnson,Burn Burn Burn - Hot Country Hits,Long Live Cowgirls,0,184746,False,0.233,0.432,10,-5.957,1,0.0321,0.291,0.0,0.279,0.286,195.663,3,country
+2KM8qFw8vlV0m0HFBBoNxm,Steve Miller Band,Halloween Party 2022,Abracadabra,0,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,country
+4XYieGKSlJlHpzB3bl6WMP,Steve Miller Band,Helloween Party,Abracadabra - Remastered 2017,1,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,country
+2yBWKK84uebv35lGajIMhc,Thomas Rhett;Katy Perry,Where We Started,Where We Started,62,182026,False,0.6,0.533,2,-6.555,1,0.0256,0.272,0.0,0.0927,0.626,139.94,4,country
+3fqwjXwUGN6vbzIwvyFMhx,Chris Stapleton,Traveller,Tennessee Whiskey,81,293293,False,0.392,0.37,9,-10.888,1,0.0298,0.205,0.0096,0.0821,0.512,48.718,4,country
+18GiV1BaXzPVYpp9rmOg0E,Bob Dylan,The Freewheelin' Bob Dylan,Blowin' in the Wind,68,165426,False,0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874,4,country
+4J0DbyODwZJcmIAiTSJfMF,John Denver,Back Home Again,Annie's Song,71,180693,False,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,3,country
+4aY0tZIaboefmkBEsjAovI,The Band Perry,The Band Perry,If I Die Young,65,222773,False,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,4,country
+3oV2RVOmwdWdf9BmGS4Oad,Dan + Shay,Good Things,Glad You Exist,66,144760,False,0.741,0.499,11,-8.035,1,0.0356,0.23,0.0,0.125,0.692,103.96,4,country
+56OwX1K77V7zsaLKfmW8EU,Danielle Bradbery,Sad Country Songs,Look At The Mess I'm In,1,180833,False,0.333,0.478,2,-6.903,1,0.031,0.367,2.28e-06,0.115,0.291,179.448,3,country
+1Xb5x1ESNwewKHUc7TaZG7,Hunter Hayes,Cozy Country,Wanted,0,228840,False,0.414,0.475,0,-7.692,1,0.0299,0.268,0.0,0.0816,0.3,169.726,4,country
+7kOkswkkLIbmYjjce4TmCG,Conner Smith,Sad Country Songs,I Hate Alabama,1,214840,False,0.203,0.818,4,-4.79,1,0.0621,0.188,0.0,0.343,0.392,171.773,4,country
+3po0bTgwYIsUIiYPGSJUZr,Upchurch,River Rat,Hank Hill,50,167979,True,0.786,0.798,7,-6.777,1,0.268,0.0579,0.0,0.247,0.714,89.997,4,country
+1KAx9cgcFiavMltMk6MeMr,Hunter Hayes,Happy Commute,Tattoo - UK Pop Mix,0,201475,False,0.443,0.9,0,-4.294,0,0.0589,0.0102,1.36e-06,0.16,0.72,194.038,4,country
+1NoGgCGfH2Kg4p8DvWaFca,Koe Wetzel,Out on Parole,Gravedigger,50,240068,False,0.383,0.801,11,-6.309,0,0.0494,0.0404,0.0,0.285,0.506,134.866,4,country
+52uvyJkRAuJggkQdlXOYvP,Hunter Hayes,Single Saturday Night - Country Songs,Wanted,0,228840,False,0.414,0.475,0,-7.692,1,0.0299,0.268,0.0,0.0816,0.3,169.726,4,country
+6AVWrvJhz6AXOG3Rw097bc,Chris Janson,Country Car Hits,Keys to the Country,1,175493,False,0.569,0.852,0,-4.465,1,0.0373,0.0258,0.0,0.355,0.654,90.04,4,country
+5VBsNLvNQF3ugWJxK0uA1Z,Chris Janson,Country Road Songs,Keys to the Country,0,175493,False,0.569,0.852,0,-4.465,1,0.0373,0.0258,0.0,0.355,0.654,90.04,4,country
+2hsdrd6ux0B2sqS3hb08ou,Hunter Hayes,Country Christmas Time,This Christmas,0,171910,False,0.438,0.649,2,-10.139,1,0.068,0.179,1.46e-06,0.0676,0.745,178.114,4,country
+7i6skfKZnPwTvfEm5Vq7lp,Trisha Yearwood,Christmas Country Songs 2022,Away In A Manger,0,159106,False,0.309,0.135,0,-15.482,1,0.0313,0.933,1.16e-05,0.355,0.34,149.794,3,country
+2Zs6HOu5epK920pHXml6N5,Hunter Hayes,Country Holiday,This Christmas,0,171910,False,0.438,0.649,2,-10.139,1,0.068,0.179,1.46e-06,0.0676,0.745,178.114,4,country
+2ahEb81AtAETSy8si7xb1N,Danielle Bradbery,Tailgate Country,Stop Draggin' Your Boots,0,164347,False,0.463,0.76,2,-5.958,1,0.11,0.0379,0.0,0.115,0.65,123.899,4,country
+1r69MJnTryDGcWkfuqVPVH,Hunter Hayes,Finest Country,Storm Warning,0,239906,False,0.483,0.844,2,-5.62,1,0.0833,0.0331,0.0,0.133,0.772,185.998,4,country
+05nVzquNFrojXKRkyuZrPV,Hunter Hayes,Happy Country Christmas,This Christmas,0,171910,False,0.438,0.649,2,-10.139,1,0.068,0.179,1.46e-06,0.0676,0.745,178.114,4,country
+3ZUVp3sovVAVO18KRow3Lo,Chris Janson,Easy Country,Holdin' Her,0,244546,False,0.353,0.574,2,-5.126,1,0.0331,0.426,2.27e-05,0.0939,0.386,117.577,3,country
+58X3YpUUAWKjTuGiVAwRso,Chris Janson;Eric Church,New Country Hits,"You, Me & the River",0,236320,False,0.332,0.452,2,-6.77,1,0.0319,0.505,3.27e-06,0.133,0.333,149.231,4,country
+1QgccuE3F6F92kJUTpswy0,Loretta Lynn,Best 70s Rock Tunes,"I Love You, I Love You",0,160050,False,0.565,0.234,7,-8.089,1,0.0286,0.723,0.000354,0.0854,0.484,85.274,3,country
+5hRHZvANw3Pm2k4NR7oGbK,Chris Janson;Eric Church,Hideaway - New Boots,"You, Me & the River",0,236320,False,0.332,0.452,2,-6.77,1,0.0319,0.505,3.27e-06,0.133,0.333,149.231,4,country
+57ltwsHkFOIlblAUF0gUQ0,Loretta Lynn,Christmas Country Songs 2022,Country Christmas,0,126120,False,0.783,0.386,9,-10.36,1,0.0395,0.795,4.92e-05,0.129,0.834,99.322,4,country
+0oYyoE6MRQVa64FN9XxU7c,Trisha Yearwood,Country USA,XXX's And OOO's (An American Girl),0,167840,False,0.704,0.735,0,-5.68,1,0.031,0.18,0.0,0.172,0.766,125.815,4,country
+16mWEFcsAMYo29nEx15kJK,Chris Janson,Country Christmas Time,It Is Christmas,0,167613,False,0.289,0.424,2,-8.559,1,0.0329,0.826,3.02e-06,0.104,0.188,72.437,4,country
+0DRMigVA7KEsuCXMOluOjG,Hunter Hayes;The Shadowboxers,Chillin' It - Mellow Day Country,You Should Be Loved,0,176552,False,0.609,0.66,6,-5.665,1,0.0343,0.123,0.0,0.134,0.571,119.904,3,country
+5xHnfNLYTgtYvUgC4rgOUy,Chris Janson,Finest Country,Fix a Drink,0,188933,False,0.561,0.887,1,-5.013,1,0.0889,0.0297,0.0,0.352,0.792,158.032,4,country
+1TcnfbJfTuPsycLXNbLWlA,Loretta Lynn,Best 70s Rock Tunes,"I Love You, I Love You",0,160050,False,0.565,0.234,7,-8.089,1,0.0286,0.723,0.000354,0.0854,0.484,85.274,3,country
+7eD2Y45iwe5hHrmmmDNUsB,Chris Janson,Country Holiday,It Is Christmas,0,167613,False,0.289,0.424,2,-8.559,1,0.0329,0.826,3.02e-06,0.104,0.188,72.437,4,country
+2mWFXEnhhXJnKfs3nAFfbC,Chris Janson,Cozy Country,Holdin' Her,0,244546,False,0.353,0.574,2,-5.126,1,0.0331,0.426,2.27e-05,0.0939,0.386,117.577,3,country
+20ElUw6wK2R29yY6WLeyC7,Sturgill Simpson,Country Car Hits,Brace for Impact - Live a Little,0,349266,False,0.616,0.706,0,-6.846,1,0.0233,0.00975,0.309,0.111,0.655,89.995,4,country
+41ufY2GlLLZB5ZrTfsb0u0,Loretta Lynn,Sweet Home Alabama,"I Love You, I Love You",0,160050,False,0.565,0.234,7,-8.089,1,0.0286,0.723,0.000354,0.0854,0.484,85.274,3,country
+6Ub1ZjHKXMibG6poj5a81s,Chris Janson,Chillin' It - Mellow Day Country,Holdin' Her,0,244546,False,0.353,0.574,2,-5.126,1,0.0331,0.426,2.27e-05,0.0939,0.386,117.577,3,country
+0ATOzpyZ5IedrZ01QSrEgp,John Michael Montgomery,Country Car Hits,Weekend Superstar,0,151826,False,0.587,0.876,4,-5.614,1,0.0684,0.245,0.0,0.331,0.891,154.862,4,country
+3Nej4MnDboEWJEyEpETTx5,Chris Janson;Eric Church,Never Leave - Country Magic,"You, Me & the River",0,236320,False,0.332,0.452,2,-6.77,1,0.0319,0.505,3.27e-06,0.133,0.333,149.231,4,country
+4bqYjprVGnYIQ4hayGdkEp,Chris Janson;Eric Church,Burn Burn Burn - Hot Country Hits,"You, Me & the River",0,236320,False,0.332,0.452,2,-6.77,1,0.0319,0.505,3.27e-06,0.133,0.333,149.231,4,country
+0qgevPEvhJ1XCgzzPZKgFU,John Michael Montgomery,Country Christmas Time,The Christmas Song (Chestnuts Roasting on an Open Fire),0,235973,False,0.308,0.394,0,-11.238,1,0.0305,0.483,0.000866,0.0853,0.251,182.873,3,country
+267D8TDvvXoVty0KRlTs4z,Chris Janson,Happy Country Christmas,It Is Christmas,0,167613,False,0.289,0.424,2,-8.559,1,0.0329,0.826,3.02e-06,0.104,0.188,72.437,4,country
+1ASgWE2xwIXQmniMfwvOL9,Chris Janson,Laidback Country,Holdin' Her,0,244546,False,0.353,0.574,2,-5.126,1,0.0331,0.426,2.27e-05,0.0939,0.386,117.577,3,country
+1SdJjeWaSdVr1Nrcs0WT0R,Chris Janson,Single Saturday Night - Country Songs,Buy Me a Boat,0,179077,False,0.574,0.742,2,-6.663,1,0.0513,0.309,0.0,0.11,0.69,154.042,4,country
+0EWzVc9XR8UKRmjHfgqSmy,Chris Janson,Good Times Country,Who's Your Farmer,0,170346,False,0.618,0.861,11,-3.692,0,0.0427,0.0108,0.0,0.15,0.798,110.054,4,country
+0YFPw3rQR1nSeyd3q0uY5h,Sturgill Simpson,Just Best Covers,In Bloom,0,240640,False,0.433,0.366,2,-8.98,0,0.0311,0.0682,0.248,0.123,0.267,78.366,4,country
+6DEGStgt5L8qOKvuZ4R7Wq,Sturgill Simpson,Finest Country,All Around You,0,215693,False,0.312,0.562,9,-6.495,1,0.0298,0.123,0.165,0.136,0.513,185.718,3,country
+5L1WpemIJPb6U4f3ylBCLe,Sturgill Simpson,Chillin' It - Mellow Day Country,All Around You,0,215693,False,0.312,0.562,9,-6.495,1,0.0298,0.123,0.165,0.136,0.513,185.718,3,country
+2cx1tIGxn0EHZPN3pDkWsH,Sturgill Simpson,Country Road Songs,Brace for Impact - Live a Little,0,349266,False,0.616,0.706,0,-6.846,1,0.0233,0.00975,0.309,0.111,0.655,89.995,4,country
+3OiiXdJXUZVprVc43nkYEt,Sturgill Simpson,Cozy Country,In Bloom,0,240640,False,0.433,0.366,2,-8.98,0,0.0311,0.0682,0.248,0.123,0.267,78.366,4,country
+18QUFPpymPkOe1585RzBOl,Gary Allan,Christmas Country Songs 2022,Please Come Home For Christmas,0,231130,False,0.625,0.808,7,-5.036,1,0.0364,0.205,1.92e-05,0.421,0.583,108.07,4,country
+1QbOvACeYanja5pbnJbAmk,John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads","Take Me Home, Country Roads",75,197813,False,0.38,0.43,9,-12.564,1,0.0288,0.546,1.71e-05,0.188,0.547,82.204,4,country
+30VHURM5NOfoZmqp2iKawS,Kacey Musgraves,Golden Hour,Butterflies,68,219053,False,0.689,0.614,4,-6.137,0,0.0306,0.252,1.95e-05,0.178,0.411,141.97,4,country
+0ZUo4YjG4saFnEJhdWp9Bt,Carrie Underwood,Some Hearts,Before He Cheats,78,199946,False,0.519,0.749,6,-3.318,0,0.0405,0.271,0.0,0.119,0.29,147.905,4,country
+1K61P0kbiT6cJzh77NnxFg,Spencer Crandall,My Person,My Person,55,177000,False,0.567,0.757,7,-5.29,1,0.0485,0.0936,0.0,0.13,0.754,166.01,4,country
+6tbNaE7kvGNqS7FvJ0dzLB,Jana Kramer,thirty one,I Got the Boy,58,201013,False,0.625,0.569,0,-5.954,1,0.0271,0.26,0.0,0.127,0.361,149.987,4,country
+7bJSiwLFnhoO7g83bWkCtA,Eagles,Hell Freezes Over (Remaster 2018),Love Will Keep Us Alive,66,243453,False,0.658,0.374,9,-11.684,1,0.026,0.721,1.28e-05,0.112,0.367,98.892,4,country
+6uTb5oNK9RkTjxmh73W7MG,Thomas Rhett,Tangled Up,Die A Happy Man,62,227426,False,0.595,0.389,2,-9.245,1,0.0349,0.418,1.39e-06,0.116,0.4,166.052,4,country
+5EWPGh7jbTNO2wakv8LjUI,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,Free Bird,77,547106,False,0.249,0.834,0,-8.21,1,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223,4,country
+5KqldkCunQ2rWxruMEtGh0,Kenny Rogers,The Gambler,The Gambler,75,214880,False,0.671,0.501,4,-13.119,1,0.0594,0.342,0.0,0.194,0.86,87.04,4,country
+6J4Y8Wvb631w5UVxa1xX8T,Don Williams,Visions,Some Broken Hearts Never Mend,56,170800,False,0.622,0.466,9,-14.558,1,0.0257,0.868,0.888,0.108,0.71,97.583,4,country
+2rxQMGVafnNaRaXlRMWPde,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,80,193200,False,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,4,country
+2SpEHTbUuebeLkgs9QB7Ue,Dolly Parton,Jolene,Jolene,73,161533,False,0.674,0.537,1,-10.971,0,0.0363,0.566,0.0,0.131,0.809,110.578,4,country
+7ySh3j4kcq2mtxfjshPJSG,Don Williams,Lord I Hope This Day Is Good,"Lord, I Hope This Day Is Good - Single Version",57,249906,False,0.526,0.388,2,-17.983,1,0.029,0.252,0.00137,0.114,0.702,173.82,4,country
+1brnLTvarI9D1hLP6z2Ar8,Kane Brown;Katelyn Brown,Different Man,Thank God,78,174560,False,0.738,0.455,3,-8.735,1,0.0352,0.695,0.0,0.107,0.441,99.945,4,country
+1x41485hXYMS0PNICGph1X,Koe Wetzel,Harold Saul High,L.T.W.Y.H.M.,48,209849,False,0.439,0.528,9,-7.117,1,0.0262,0.398,0.0,0.0703,0.079,139.866,4,country
+6gm1mSNmXj8GqIo7c12hmm,Simon Casey,My Lord and My God,My Lord and My God,48,67500,False,0.199,0.119,4,-15.13,0,0.0381,0.99,0.269,0.0912,0.0991,95.292,4,country
+4DLYV1WiRijhGVQsGRgjqb,Devin Dawson,Happy Country Christmas,Christmas Time Is Here,0,204346,False,0.431,0.195,5,-13.207,1,0.0516,0.806,1.19e-06,0.0862,0.156,80.983,3,country
+7k6uh0LyiUSf2b074NXz6R,Devin Dawson,Country Christmas Time,Christmas Time Is Here,0,204346,False,0.431,0.195,5,-13.207,1,0.0516,0.806,1.19e-06,0.0862,0.156,80.983,3,country
+1eCNpcWoOssZw8XqeTfPDH,William Clark Green,Hebert Island,Drunk Again,49,246120,False,0.473,0.603,7,-5.214,1,0.026,0.0225,9e-06,0.156,0.423,144.029,4,country
+76iSLKjLG7WPT8XwaX8D31,Devin Dawson,Country Holiday,Christmas Time Is Here,0,204346,False,0.431,0.195,5,-13.207,1,0.0516,0.806,1.19e-06,0.0862,0.156,80.983,3,country
+5y2j0voADwpD6ZDGSxdnd7,Devin Dawson,Easy Country,All on Me,0,224626,False,0.634,0.666,5,-5.489,1,0.029,0.139,0.0,0.216,0.625,80.989,4,country
+7uoydebZMtE7Ly3jZVXfFN,Uncle Kracker,Country Car Hits,Drift Away,1,255560,False,0.584,0.66,11,-5.078,1,0.0375,0.18,0.0,0.0979,0.868,151.958,4,country
+6QtmvqyqMsEYYXkdxhYATK,Flatland Cavalry,Come May,Ain't Over You Yet,48,223080,False,0.503,0.525,7,-8.408,1,0.0255,0.126,1.31e-06,0.129,0.208,137.916,4,country
+7uxZ7GPRTGU7itqHXMNLy6,Devin Dawson,Country Road Songs,Range Rover,0,197958,False,0.765,0.718,0,-2.755,1,0.0473,0.415,0.0,0.0545,0.75,144.101,4,country
+2XeFvIUa37xNYIVWCoYKjA,Devin Dawson,Country Car Hits,Range Rover,0,197958,False,0.765,0.718,0,-2.755,1,0.0473,0.415,0.0,0.0545,0.75,144.101,4,country
+2einB00Doep8LZImPipb9r,Don Henley,80s Bangers Vol. 1,The Boys Of Summer,1,288333,False,0.516,0.775,6,-6.409,1,0.0412,0.396,0.00129,0.21,0.858,177.401,4,country
+0WIeJxgsLtiUGqoSxB9Bht,Devin Dawson,Cozy Country,All on Me,0,224626,False,0.634,0.666,5,-5.489,1,0.029,0.139,0.0,0.216,0.625,80.989,4,country
+0QyjGh6JOcIM1EAB7YC6QB,Jon Langston,Tailgate Country,Beers Got Drank,0,174200,False,0.55,0.883,7,-5.341,1,0.0615,0.0239,0.0,0.285,0.571,156.03,4,country
+5u6GO6c0SPTcFdvHXMHvTM,Uncle Kracker,Human - Best Adult Pop Tunes,No Stranger to Shame,0,220493,True,0.627,0.845,7,-3.533,1,0.25,0.0707,0.0,0.359,0.773,170.072,4,country
+2yEi49EFQdtO8EkPkJ0G5U,J.J. Cale,On air 70's Hits,Cocaine,0,172066,False,0.797,0.496,6,-10.054,1,0.0382,0.396,0.111,0.149,0.587,103.703,4,country
+0jSdF4nTvsqfWwLmEqoH15,Devin Dawson,Good Times Country,I Don't Care Who Sees,0,201520,False,0.659,0.663,5,-5.947,1,0.0483,0.0169,0.0,0.0726,0.685,103.935,4,country
+2svSyGhwHbF4CDTMM2HgtU,J.J. Cale,Best 70s Rock Tunes,Cocaine,2,172066,False,0.797,0.496,6,-10.054,1,0.0382,0.396,0.111,0.149,0.587,103.703,4,country
+5U0t4SMp344ER0F4jYb6xI,Don Henley,Обратно в клас - rock,The Boys Of Summer,0,288333,False,0.516,0.775,6,-6.409,1,0.0412,0.396,0.00129,0.21,0.858,177.401,4,country
+1LM8nT6s99R2iVHTsuFt6B,Devin Dawson,Laidback Country,All on Me,0,224626,False,0.634,0.666,5,-5.489,1,0.029,0.139,0.0,0.216,0.625,80.989,4,country
+2MkVqeZvoyx6UkRFutiflz,Big & Rich;Bon Jovi,Country Road Songs,Born Again,0,234946,False,0.476,0.888,0,-4.926,1,0.0534,0.0131,0.0,0.277,0.617,162.0,4,country
+6qBJhWis1EGlcDvC74PTyS,Rotlaus,Aldri tilbake,Aldri tilbake,48,201920,False,0.611,0.867,9,-4.897,1,0.0317,0.226,5.1e-05,0.152,0.669,129.979,4,country
+2ApAOCbBkN9MyyEYN0HaHq,Vassendgutane,Skrekkraude Rapala,Skrekkraude Rapala,49,187071,False,0.462,0.903,9,-6.761,1,0.033,0.0684,0.0,0.341,0.784,168.034,4,country
+4IcLNRtHFMTEAvoLklnZjA,Easton Corbin,Mientras hago aromaterapia,A Girl Like You,0,217840,False,0.733,0.768,5,-4.481,1,0.0354,0.0197,1.03e-06,0.0643,0.83,105.006,4,country
+1rpcfLhLC5gu1xOmFSsI14,Big & Rich,Country Christmas Time,Blue Christmas,0,177165,False,0.514,0.901,9,-5.674,1,0.114,0.0915,1.47e-05,0.076,0.422,120.647,4,country
+7JUnSfLFg3ykKysZK0u5LV,Big & Rich,Country Holiday,Blue Christmas,0,177165,False,0.514,0.901,9,-5.674,1,0.114,0.0915,1.47e-05,0.076,0.422,120.647,4,country
+11UF6aLWbnCaWM0V7CezX9,Glen Campbell,(60's) Sixties Collected Volume 2,Gentle On My Mind - Remastered 2001,0,178626,False,0.597,0.415,3,-13.799,1,0.0323,0.189,0.0,0.122,0.826,108.987,4,country
+4FQDsvQMu5ny7mY8ehv4vP,Sugarland,Christmas Country Songs 2022,Winter Wonderland,0,146973,False,0.587,0.876,9,-5.439,1,0.0432,0.12,0.0,0.0921,0.724,133.01,4,country
+1up0F8kK6mgObzqWi9Myom,Steve Earle,Finest Country,Jerusalem,0,236186,False,0.445,0.776,2,-4.492,1,0.0346,0.00252,0.0074,0.0981,0.403,118.379,4,country
+4BviPcJC1obuSn4sKkyRqG,Tracy Lawrence,Country Car Hits,Excitable Boy,0,176760,False,0.628,0.854,7,-7.045,1,0.0343,0.0827,0.0232,0.153,0.922,151.551,4,country
+3yz60wsJlg630mjAfU4qIv,Steve Earle,Good Times Country,Go Amanda,0,214720,False,0.326,0.716,10,-3.547,1,0.0306,0.00227,0.00171,0.123,0.648,143.148,4,country
+5wW7fkOaNCKHM8NvEDf8Kh,Big & Rich;Bon Jovi,Chillin' It - Mellow Day Country,Born Again,0,234946,False,0.476,0.888,0,-4.926,1,0.0534,0.0131,0.0,0.277,0.617,162.0,4,country
+4LILQ0tq8SoF29dkAX6RXf,Joe Diffie,16 Biggest Hits,Pickup Man,46,216400,False,0.712,0.745,7,-7.141,1,0.0389,0.408,0.0,0.346,0.843,140.621,4,country
+0EBP3qfDpCZE2skX3PfbTf,Tracy Lawrence,Chillin' It - Mellow Day Country,Just You and Me,0,220133,False,0.585,0.34,2,-8.433,0,0.0243,0.767,4.36e-06,0.254,0.26,100.379,4,country
+3t5tdzQKEqI3wqHIGCdNoB,Riley Green,We Out Here: Live,Hell Of A Way To Go - Live,47,223406,False,0.44,0.472,6,-9.026,1,0.0596,0.86,0.0,0.968,0.548,142.288,4,country
+2E9kAui8OwLU50kCvLQtiE,Lasse Stefanz;N!NE,Peppelinos bar (EPA Remix),Peppelinos bar - N!NE EPA Remix,50,170560,False,0.603,0.918,0,-7.397,1,0.0446,0.00877,3.01e-06,0.0581,0.874,152.946,4,country
+1HXy5I3HTWq8OvxCn0z7G7,Kane Brown,Kane Brown (Deluxe Edition),Heaven,73,179506,False,0.677,0.556,9,-6.544,1,0.0306,0.263,0.0,0.105,0.521,80.006,4,country
+6apPqjW8ezpKEicAkkBlvO,Dolly Parton;Kenny Rogers,Pure & Simple,Islands in the Stream,64,250053,False,0.611,0.524,8,-8.256,1,0.035,0.68,0.0,0.0753,0.73,203.787,4,country
+5uU1uuyaUIBOiiUSQG7Wl3,Morgan Wallen,You Proof,You Proof,86,157477,False,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,4,country
+4bVuIlGQBMWS7vIhcx8Ae4,Rascal Flatts,Me And My Gang,What Hurts The Most,71,214106,False,0.537,0.674,5,-5.134,0,0.0277,0.0088,0.0,0.265,0.33,136.002,4,country
+54eZmuggBFJbV7k248bTTt,America;George Martin,America,A Horse with No Name,76,252239,False,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,4,country
+7g0Zfd5J6Hzx9M2fRUMuba,Parmalee,For You,Take My Name,33,157906,False,0.559,0.66,7,-4.143,1,0.0512,0.222,0.0,0.193,0.574,163.957,4,country
+69AIpwGNLxr4qS1X5ynx60,Jordan Davis;Luke Bryan,Buy Dirt,Buy Dirt,80,167480,False,0.586,0.559,4,-6.725,1,0.05,0.639,0.0,0.0872,0.437,177.945,4,country
+7vF3xkCMvZjAe2nTWY0uQZ,Jake Owen,Greetings From...Jake,Made For You,70,238400,False,0.581,0.441,1,-6.829,1,0.0268,0.77,2.75e-05,0.111,0.337,82.125,4,country
+6sxptembJVty4sNtcPMAVz,Shania Twain,Come On Over,Man! I Feel Like A Woman!,78,234493,False,0.657,0.639,10,-7.527,1,0.0412,0.581,0.0,0.278,0.674,124.882,4,country
+79qxwHypONUt3AFq0WPpT9,Kacey Musgraves,Golden Hour,Rainbow,70,214293,False,0.581,0.197,3,-7.697,1,0.0329,0.88,0.0,0.107,0.349,130.367,4,country
+3hLuHKzG1cmlRpq53ZVWd8,Gabby Barrett,Goldmine,The Good Ones,74,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+6qc34bnVOyqGDPni8H5W0U,Lonestar,Lonely Grill,Amazed,71,240866,False,0.561,0.543,1,-8.498,1,0.0324,0.26,0.0,0.124,0.243,139.803,4,country
+0vswnzoKvhNkT1ehc0Tt19,Shania Twain,Greatest Hits,From This Moment On - Pop On-Tour Version,68,235106,False,0.46,0.505,9,-5.487,1,0.0266,0.42,0.0,0.134,0.22,135.757,4,country
+1PpbrbgsXRXeKw1GnZMEv7,Don Williams,I Believe In You,I Believe In You,59,246440,False,0.512,0.212,7,-21.426,1,0.0483,0.88,0.00573,0.115,0.51,117.756,3,country
+200x8ONbPfFzByUr3fVz46,Cole Swindell,Stereotype,She Had Me At Heads Carolina,82,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+58UKC45GPNTflCN6nwCUeF,Walker Hayes,Country Stuff The Album,Fancy Like,77,161853,False,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,4,country
+4yugZvBYaoREkJKtbG08Qr,Eagles,Eagles (2013 Remaster),Take It Easy - 2013 Remaster,77,211577,False,0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,4,country
+2e3FFYFj3PuH9rMwKmjgYF,Tyler Childers,Bottles and Bibles,Good Thing Windin' down,47,215866,False,0.401,0.114,7,-13.601,1,0.0357,0.921,0.0,0.122,0.456,102.904,4,country
+7yBcGJFP5bAMpAfToEm0dm,Tyler Farr,Suffer in Peace,C.O.U.N.T.R.Y.,45,201026,False,0.459,0.89,9,-4.448,0,0.044,0.00245,7.23e-06,0.306,0.809,181.837,4,country
+2XUI84SYtTxy6bPi0nThMV,Simon Casey,You’ll Never Walk Alone,You’ll Never Walk Alone,46,163095,False,0.481,0.373,0,-8.324,1,0.0313,0.65,0.000208,0.112,0.142,112.434,3,country
+1owAc7B3hoCvn2GXHMUHPJ,Florida Georgia Line;Jason Aldean,Can't Hide Red,Can’t Hide Red,46,181600,False,0.514,0.864,4,-3.246,0,0.0502,0.0256,0.0,0.103,0.471,94.927,4,country
+5ATfVQguM66UV9svXfTJg9,Michael Ray,Easy Country,Whiskey and Rain,0,206986,False,0.653,0.623,8,-4.56,1,0.0244,0.505,3.61e-06,0.279,0.718,100.021,4,country
+20OFwXhEXf12DzwXmaV7fj,Creedence Clearwater Revival,Green River (Expanded Edition),Bad Moon Rising,80,141600,False,0.508,0.774,2,-5.973,1,0.0321,0.0586,4.87e-06,0.063,0.942,178.946,4,country
+5ALPzPUKl3Np5BrYTFs4Pb,Jason Aldean,9,Talk About Georgia,46,164786,False,0.434,0.889,2,-4.243,1,0.0649,0.0232,0.0,0.0464,0.527,154.088,3,country
+6Bs9rgmIcVP39VdnhedfQI,Michael Ray,Finest Country,Get to You,0,191546,False,0.481,0.562,3,-5.661,1,0.0319,0.348,0.000428,0.106,0.212,167.962,4,country
+1eUagnbOw9MjesonPWNkNQ,Parker McCollum,The Limestone Kid,Galveston Bay,46,246466,False,0.527,0.375,0,-6.387,1,0.0243,0.482,0.0,0.132,0.318,81.92,3,country
+6eb3IuKwccD9xUAOULsBlk,Upchurch,River Rat,Dukes of Hazzard,46,128072,True,0.759,0.644,7,-4.988,1,0.0379,0.000607,0.0,0.125,0.129,139.956,4,country
+16InxTXSm3cunATdpqO0H9,Travis Denning,Tailgate Country,After A Few,0,214040,False,0.619,0.855,10,-4.356,0,0.0346,0.0155,0.0,0.162,0.656,107.004,4,country
+10VgkQlMqdck8KPIEDwkfA,Michael Ray,Just Best Covers,Blank Space,0,259370,False,0.529,0.825,4,-4.454,1,0.0324,0.158,0.0131,0.385,0.227,93.969,4,country
+3nk5Erbb2B36oA4Y8K6hcO,Michael Ray,Laidback Country,Her World or Mine,0,208506,False,0.568,0.499,4,-6.597,1,0.0288,0.638,0.0,0.122,0.243,143.759,4,country
+11CE50vgrAqz8NTgnUAFdl,Travis Denning,Country USA,"Red, White And Blue",0,206533,False,0.497,0.879,11,-4.81,1,0.0583,0.0755,0.0,0.0651,0.276,74.977,4,country
+0SJiu39u0VPgtUEfNWtuW1,Michael Ray,Cozy Country,One That Got Away,0,218733,False,0.566,0.825,10,-4.245,1,0.0416,0.00308,0.0,0.0779,0.609,160.003,4,country
+2eRV0Zen3OvAb2phNk7IIU,Koe Wetzel,Noise Complaint,I'll Be Fine,46,240846,False,0.663,0.644,4,-8.92,0,0.0375,0.0721,0.0,0.0736,0.372,123.968,4,country
+0CPo7vchHww5MWe13KhAuZ,Michael Ray,New Country Hits,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+4DpMimOybqjya7I5tb35UR,Clay Walker,Happy Country Christmas,Frosty the Snowman,0,163266,False,0.586,0.473,9,-9.244,1,0.0829,0.668,0.0,0.0746,0.713,178.906,4,country
+1V0R5iue1zHwywZL0qwinr,Big & Rich;Bon Jovi,Country Car Hits,Born Again,0,234946,False,0.476,0.888,0,-4.926,1,0.0534,0.0131,0.0,0.277,0.617,162.0,4,country
+0luuUN1kGvQrb8GMSGOdb0,Michael Ray,Hideaway - New Boots,Holy Water,0,209720,False,0.534,0.722,9,-4.944,1,0.0339,0.0367,1.68e-06,0.11,0.224,75.007,4,country
+0KwTW9dp15xWoX03XFeBKy,Clay Walker,Country Holiday,Frosty the Snowman,0,163266,False,0.586,0.473,9,-9.244,1,0.0829,0.668,0.0,0.0746,0.713,178.906,4,country
+2L1FG5guH4nea0Ot06Lu5a,Michael Ray,New Country,Holy Water,0,209720,False,0.534,0.722,9,-4.944,1,0.0339,0.0367,1.68e-06,0.11,0.224,75.007,4,country
+6RFxv9iWg8fd6k17W5fV2o,Michael Ray,Good Times Country,Livin' It Up,0,183573,False,0.41,0.947,6,-3.343,1,0.0747,0.00101,0.00477,0.26,0.502,197.856,4,country
+61202Zzk9rk4bPMZLh2gr6,Allman Brothers Band,Fiesta temática 60s,Trouble No More,0,227751,False,0.556,0.567,9,-11.426,0,0.0333,0.0577,0.00144,0.0907,0.856,141.348,4,country
+5dOq6PyEM6lVAqD4D2VLrg,Michael Ray,Country Road Songs,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+4NkuQQDDOgDOFAdpRVToqZ,Big & Rich,Happy Country Christmas,Blue Christmas,0,177165,False,0.514,0.901,9,-5.674,1,0.114,0.0915,1.47e-05,0.076,0.422,120.647,4,country
+36NwMJRaCy7x77xYGJiG2M,Allman Brothers Band,Fishing Music,Midnight Rider,1,177960,False,0.346,0.589,7,-9.922,1,0.036,0.21,0.00703,0.15,0.638,189.486,4,country
+0zpGkHUUi69tJu2iI2nUGk,Michael Ray,Country Car Hits,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+6nSPmeeGu3GFssIk4UnDYw,Koe Wetzel,Sellout,Crying From The Bathroom,47,259174,True,0.322,0.457,9,-7.685,1,0.0321,0.292,1.51e-05,0.0639,0.0729,143.841,4,country
+39ph3ZNvqkWOMd1Idtv3Vj,Michael Ray,Oklahoma Smokeshow - Breakout Country,Holy Water,0,209720,False,0.534,0.722,9,-4.944,1,0.0339,0.0367,1.68e-06,0.11,0.224,75.007,4,country
+0uodbo4X96E59zMLyqN0hm,Michael Ray,Never Leave - Country Magic,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+42LvI584BMZqaGT80UUBNe,Michael Ray,Good Times Country,Barefoot Blue Jean Night (The Next Performance),0,165451,False,0.518,0.601,4,-5.683,1,0.0428,0.00694,0.0,0.204,0.464,172.204,4,country
+4tq6cohvTZ3jqeiVNM8Jlx,Michael Ray,Oklahoma Smokeshow - Breakout Country,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+20A2Xe76p9wxUFLbbzZjTM,Jim Croce,Photographs & Memories: His Greatest Hits,Time in a Bottle,37,148586,False,0.533,0.155,2,-16.837,1,0.0376,0.888,0.0,0.108,0.592,134.019,3,country
+42fw0rxRO2xbesF6mJfd4Y,Dan + Shay,Dan + Shay,Tequila,72,196746,False,0.489,0.581,11,-5.731,1,0.0281,0.0312,0.0,0.132,0.494,86.016,4,country
+0BCy325UZyR9z0t0uxwn2N,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,71,194186,False,0.523,0.666,7,-4.081,0,0.0327,0.401,0.0,0.0728,0.564,78.077,4,country
+5cYFwgA5dHoqR3xGnlr9ew,Gabby Barrett;Charlie Puth,Goldmine,I Hope (feat. Charlie Puth),64,211605,False,0.563,0.576,6,-6.495,1,0.0401,0.171,0.0,0.158,0.412,75.019,4,country
+3cBsEDNhFI9E82vPj3kvi3,Morgan Wallen,Dangerous: The Double Album,Wasted On You,83,178520,False,0.505,0.657,11,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196.0,3,country
+11EX5yhxr9Ihl3IN1asrfK,Lady A,Need You Now,Need You Now,71,277573,False,0.587,0.622,4,-5.535,1,0.0303,0.0927,0.000636,0.2,0.231,107.943,4,country
+23T0OX7QOiIUFShSzbJ5Uo,Gabby Barrett,Goldmine,I Hope,74,210772,False,0.466,0.536,6,-6.227,1,0.0429,0.0951,0.0,0.114,0.377,75.998,4,country
+2OXidlnDThZR3zf36k6DVL,Lady A,Own The Night,Just A Kiss,64,218840,False,0.593,0.639,1,-5.826,1,0.0307,0.446,0.0,0.0998,0.332,142.881,4,country
+1QEEqeFIZktqIpPI4jSVSF,Boston,Boston,More Than a Feeling,79,285133,False,0.377,0.681,7,-8.039,1,0.0298,0.00088,0.0023,0.0504,0.285,108.789,4,country
+0LOgt6yDDGGBHSWvlKbdHo,Music Travel Love,"Covering the World, Vol. 3",You Are My Sunshine,58,210727,False,0.64,0.315,8,-9.422,1,0.0328,0.655,1.63e-06,0.108,0.584,152.06,4,country
+28n8z9IQKyjMPxmvYMBqZa,Luke Combs,The Kind of Love We Make,The Kind of Love We Make,82,224426,False,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,0.464,102.025,4,country
+2GpBrAoCwt48fxjgjlzMd4,Eagles,Hell Freezes Over (Remaster 2018),"Hotel California - Live On MTV, 1994",65,432040,False,0.55,0.49,2,-10.732,1,0.0572,0.368,9.96e-05,0.917,0.609,74.656,4,country
+70YvYr2hGlS01bKRIho1HM,ZZ Top,Tres Hombres (Expanded 2006 Remaster),La Grange - 2005 Remaster,77,230480,False,0.545,0.64,4,-9.937,0,0.224,0.00249,0.0304,0.196,0.606,80.544,4,country
+6IBcOGPsniK3Pso1wHIhew,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),Forever After All,79,232533,False,0.487,0.65,0,-5.195,1,0.0253,0.191,0.0,0.0933,0.456,151.964,4,country
+0vzSAyinyA619ZbrOaAi04,Dan + Shay,Good Things,Steal My Love,66,162120,False,0.59,0.633,2,-5.452,1,0.0328,0.619,0.0,0.157,0.751,179.856,4,country
+6iblnklMzUKIXAtjk5lzIy,Brad Paisley;Alison Krauss,Mud On The Tires,Whiskey Lullaby (feat. Alison Krauss),63,259893,False,0.52,0.333,2,-11.508,1,0.0302,0.816,0.0,0.188,0.198,74.165,4,country
+0wQCiHAgUJdlBdRtdrnLFK,Riley Green,Riley Green EP,North On 21,44,207360,False,0.614,0.589,6,-8.38,1,0.0351,0.472,0.0,0.109,0.351,148.076,4,country
+7d0r2pZJOkZCkS1sVmx6Tc,Koe Wetzel,Harold Saul High,One and Only,46,227248,False,0.394,0.734,7,-5.364,1,0.0335,0.0113,0.0,0.139,0.371,153.891,4,country
+1ml3WGeluftee3DiSfyIGx,Gerry Rafferty,OK Boomers - Top Tunes,Right Down the Line,0,267773,False,0.783,0.322,0,-15.091,1,0.0343,0.215,0.00243,0.114,0.77,128.227,4,country
+59Yb6w8DywcHViQUsd85Go,Casey Donahew,Lost Days,Stockyards,46,184306,False,0.708,0.622,0,-8.154,1,0.0409,0.0104,0.0,0.0735,0.777,134.023,4,country
+1XjrpDJARnUJtL1wRUQMbI,Glen Campbell,Fiesta temática 60s,Christmas Is For Children,0,199200,False,0.32,0.288,7,-13.439,1,0.0291,0.363,0.00561,0.0943,0.181,77.762,4,country
+13JoLz1uqiif77Bs1tSKlh,Rotlaus,Her,Her,46,237386,False,0.62,0.724,7,-7.875,0,0.0262,0.104,0.000354,0.26,0.279,111.992,4,country
+5anbo4JjAPHa8UbEmRls05,Riley Green,If It Wasn't For Trucks (Big Machine Radio Release Special),Jesus And Wranglers,45,183560,False,0.579,0.754,4,-5.249,1,0.0261,0.00805,0.0,0.0803,0.734,124.036,4,country
+0cBKPAPnFdtBFjDpTYJeI7,Upchurch,King of Dixie,White Lightning,45,231232,True,0.792,0.577,7,-9.651,1,0.0952,0.0471,2.83e-06,0.167,0.541,139.99,4,country
+62Xi63NkcmRVIwE63AqZco,Tyler Braden,Country Car Hits,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+2D2Ls7ydktNls6Dy3lm0Za,Tyler Braden,Oklahoma Smokeshow - Breakout Country,Try Losing One,4,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+0uG9Bqx2MzVF5k525wzaKS,Tyler Braden,New Country Hits,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+7sVNSNOadwp3fISfMoXUyc,Tyler Braden;American Song Contest,Easy Country,Seventeen,0,266933,False,0.401,0.656,8,-5.62,1,0.0315,0.117,2.02e-05,0.107,0.27,156.133,4,country
+5l3azn9twG7ayHoH0qAFGF,Tyler Braden,Burn Burn Burn - Hot Country Hits,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+7dpqyGseVaTFPXIsAQPyCg,George Thorogood & The Destroyers,Christmas Rock 2022,Rock And Roll Christmas,0,204720,False,0.348,0.981,11,-5.02,1,0.137,0.00479,0.0883,0.0905,0.704,182.456,4,country
+5kM8weDoNhadBDZyZ4tfq8,Michael Ray,Burn Burn Burn - Hot Country Hits,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,5,-7.251,0,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+5FcQcDHuwpzP70vhlCqVi2,Steppenwolf,Fiesta temática 60s,The Pusher,0,349826,False,0.508,0.47,0,-9.339,1,0.0262,0.201,0.0553,0.14,0.69,81.016,4,country
+2yeCrMf8koRuEWuRdo8SgX,Ashley McBryde,Cozy Country,A Little Dive Bar in Dahlonega,0,209080,False,0.651,0.479,1,-6.192,1,0.0447,0.426,0.0,0.151,0.575,145.979,4,country
+2xkoyfQ1hUuF8KmlT1hzfI,Ashley McBryde,Finest Country,First Thing I Reach For,0,194386,False,0.597,0.787,0,-5.464,1,0.0409,0.196,0.000362,0.239,0.886,157.98,4,country
+5z7GGdAezDWdJxBlAM4Hkf,Steppenwolf,On air 70's Hits,Hey Lawdy Mama - Single Version,0,178760,False,0.589,0.831,4,-12.373,1,0.0615,0.0195,2.41e-05,0.0635,0.511,98.813,4,country
+3HCcxZ6iz9HtoRRL0KgMlZ,Ashley McBryde,Easy Country,A Little Dive Bar in Dahlonega,0,209080,False,0.651,0.479,1,-6.192,1,0.0447,0.426,0.0,0.151,0.575,145.979,4,country
+6UBNNsbS3opjUenO8ZpErg,Ashley McBryde,Laidback Country,A Little Dive Bar in Dahlonega,0,209080,False,0.651,0.479,1,-6.192,1,0.0447,0.426,0.0,0.151,0.575,145.979,4,country
+5jQxNgMrDlbuYO6LQ3aY4Y,Lasse Stefanz,Greatest Hits,Du försvann som en vind,47,208120,False,0.633,0.696,7,-6.626,1,0.0296,0.0914,4.08e-05,0.266,0.714,112.992,4,country
+2yx3W98N7XWMCH6Q2CdbYn,Gunslingers,Bygdaslaur,Bygdaslaur,46,203307,False,0.576,0.793,7,-5.402,0,0.0481,0.288,0.0,0.188,0.438,144.936,4,country
+2N88n8i3WgXPzelcXpUhm1,Dr. Hook,On air 70's Hits,When You're In Love With A Beautiful Woman - Remastered 1996,0,177200,False,0.593,0.768,8,-10.459,1,0.0515,0.0535,0.0049,0.0476,0.874,110.41,4,country
+3bMh0f7p377DT6esXJoJa6,Ashley McBryde,Good Times Country,Styrofoam,0,175853,False,0.737,0.701,0,-6.013,1,0.0446,0.0495,1.11e-06,0.108,0.844,85.001,4,country
+3bav3x8ko6oQdqRV9r4WWm,Ashley McBryde,New Country,Martha Divine,0,217706,False,0.582,0.939,9,-4.868,0,0.0781,0.0069,0.00365,0.0732,0.594,136.871,4,country
+46DBOCyDDj0FFnWniwwNVW,Emmylou Harris,Country Holiday,Christmas Time's A-Coming,0,175400,False,0.715,0.404,11,-9.706,1,0.0262,0.583,0.0,0.115,0.709,104.438,4,country
+6TW8hTa1G41tVZ2RVEr9YI,Ashley McBryde,Never Leave - Country Magic,One Night Standards,0,190973,False,0.537,0.686,5,-5.022,1,0.0293,0.0287,0.00704,0.0988,0.611,78.051,4,country
+5Jq8ISsgnm2mPRqJi1swaZ,Steppenwolf,Обратно в клас - rock,Born To Be Wild - Single Version,1,216693,False,0.468,0.81,9,-8.33,1,0.0724,0.00169,0.0314,0.567,0.464,145.589,4,country
+6OfmhEOHcKhOUlh3vNE2zh,The Band,Home For Christmas 2022,Christmas Must Be Tonight - Remastered 2001,0,218666,False,0.668,0.665,7,-8.55,1,0.0267,0.0519,6.68e-05,0.109,0.766,128.619,4,country
+5u9yE5EPjKsuYItPZ1E0nH,The Band,70s Christmas Party,Christmas Must Be Tonight - Remastered 2001,0,218666,False,0.668,0.665,7,-8.55,1,0.0267,0.0519,6.68e-05,0.109,0.766,128.619,4,country
+6CqIPNIgAYmbOyPgVKv0u3,Emmylou Harris,Happy Country Christmas,Christmas Time's A-Coming,0,175400,False,0.715,0.404,11,-9.706,1,0.0262,0.583,0.0,0.115,0.709,104.438,4,country
+4FfJyCX8Dq3BcfOhFEL06K,The Band,A Very 70s Christmas,Christmas Must Be Tonight - Remastered 2001,0,218666,False,0.668,0.665,7,-8.55,1,0.0267,0.0519,6.68e-05,0.109,0.766,128.619,4,country
+6m3GKOLADaMvOT6iwT5FZ4,Joe Diffie,16 Biggest Hits,John Deere Green,45,271960,False,0.701,0.805,2,-5.584,1,0.0272,0.106,0.0,0.0581,0.696,130.406,4,country
+5nzZGxQGfIc117nKyCQV8G,Hannah Ellis;Nick Wayne,If the World Was Ending,If the World Was Ending,49,212000,False,0.492,0.399,1,-9.255,1,0.0653,0.771,0.0,0.189,0.637,133.416,3,country
+4w3tQBXhn5345eUXDGBWZG,Dolly Parton,9 To 5 And Odd Jobs,9 to 5,77,162466,False,0.554,0.783,6,-5.852,1,0.0457,0.416,1.54e-06,0.631,0.813,105.39,4,country
+1qRA5BS78u3gME0loMl9AA,Buffalo Springfield,Buffalo Springfield,For What It's Worth,78,153693,False,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,4,country
+0OWZFobGSIW9GrSlQ9C5pc,Thomas Rhett,Life Changes,Marry Me,70,205453,False,0.333,0.412,3,-8.633,1,0.029,0.0977,0.0,0.113,0.474,85.028,4,country
+3xdjjKMcMOFgo1eQrfbogM,Darius Rucker,True Believers,Wagon Wheel,78,298373,False,0.537,0.66,9,-7.174,1,0.0296,0.455,0.0,0.135,0.574,148.096,4,country
+2lNTHWu2I5Tcz9ukWsV5Jj,Jordan Davis,Next Thing You Know,Next Thing You Know,75,175237,False,0.557,0.597,5,-8.296,1,0.048,0.646,0.0,0.0974,0.414,78.526,4,country
+5bWZd1TOdlA1uOVhP6Vu0e,Emily Hackett;Will Anderson,Take My Hand (The Wedding Song) [feat. Will Anderson],Take My Hand (The Wedding Song) [feat. Will Anderson],53,238421,False,0.592,0.465,3,-10.008,1,0.0279,0.663,0.000776,0.0918,0.283,75.976,4,country
+63OFKbMaZSDZ4wtesuuq6f,Steppenwolf,Steppenwolf,Born To Be Wild,73,210373,False,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928,4,country
+0Q7Jp3aCwfYnSnbMDoXWyR,Shania Twain;Bryan White,Come On Over,From This Moment On,66,281533,False,0.305,0.323,7,-9.396,1,0.0284,0.483,0.0,0.107,0.103,135.803,4,country
+6S3JlDAGk3uu3NtZbPnuhS,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Baby Blue - Remastered 2010,67,217346,False,0.623,0.876,11,-7.788,1,0.066,0.0189,0.0134,0.0728,0.515,124.431,4,country
+60hGQrn24APqEFSLObLeDc,Tim McGraw;Taylor Swift;Keith Urban,Two Lanes Of Freedom,Highway Don't Care,57,279066,False,0.477,0.79,2,-5.348,1,0.0394,0.0261,0.0,0.0841,0.505,157.797,4,country
+5ta8NyQiixodcCinI6jjS6,Florida Georgia Line,Life,Life,61,232464,False,0.485,0.663,7,-5.759,1,0.0338,0.0686,0.0,0.129,0.38,142.921,4,country
+7H7cWKQa3KpySFitL8bSkc,Don Williams,Portrait,Good Ole Boys Like Me,52,255880,False,0.658,0.325,9,-17.557,1,0.0282,0.712,0.00261,0.158,0.483,107.456,4,country
+6kTk6AOcnPguvs1nQ4vUWZ,Dan + Shay,Good Things,Good Things,63,148906,False,0.529,0.621,11,-6.018,1,0.0296,0.13,0.0,0.173,0.617,97.189,4,country
+30JEWgciN2BrDSe1uPR7bv,Morgan Evans,New Country Hits,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+7wt7fEnJpsu9IRMadfc8Xm,Morgan Evans;Kelsea Ballerini,Cozy Country,Dance with Me,0,199501,False,0.611,0.519,1,-9.854,1,0.035,0.481,4.82e-06,0.107,0.462,147.979,4,country
+72RD8jifCUa7JtwQNSzadN,Morgan Evans,Burn Burn Burn - Hot Country Hits,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+3ZGT5qugV3L6AgB9DswiQp,Tyler Rich,Sad Country Songs,Trucks Don't Lie,2,209046,False,0.424,0.774,1,-4.35,1,0.0359,0.0573,8.54e-06,0.0854,0.346,76.888,4,country
+4mx87tH7mQjaTZSjxCHdi3,Morgan Evans,Finest Country,I Do,0,210663,False,0.509,0.761,7,-5.947,0,0.0441,0.122,0.0,0.137,0.71,176.054,4,country
+6pba9PrSRk9hfhtav9blTG,Morgan Evans,Country Car Hits,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+4HEhS3sdZu5X2c7oLOEry1,Morgan Evans;Kelsea Ballerini,Laidback Country,Dance with Me,0,199501,False,0.611,0.519,1,-9.854,1,0.035,0.481,4.82e-06,0.107,0.462,147.979,4,country
+1lcjqn3fCWAHdzOaDVnPj8,Morgan Evans,Country Road Songs,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+5kEy0SfJDGNqp6OhZPxTq3,Morgan Evans,New Country,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+4L9Ds4mpD3SuYoWwFUlv16,Florida Georgia Line,Can't Say I Ain't Country,Simple,73,185200,False,0.362,0.882,3,-3.717,1,0.0973,0.0791,0.0,0.15,0.864,199.811,4,country
+0IKFxQz9YhhnibrGnGSeUw,Little River Band,On air 70's Hits,Reminiscing - Remastered,2,253080,False,0.362,0.466,7,-11.257,1,0.0403,0.65,0.00589,0.132,0.342,189.141,4,country
+6WuG5vCUiW5c4GTWIb9AI2,Parker McCollum,Gold Chain Cowboy (Special Edition),To Be Loved By You,43,199680,False,0.475,0.805,10,-4.456,1,0.0377,0.000453,0.0,0.143,0.488,145.976,4,country
+3PKmssVlLJD7uwIgbWdSPg,Morgan Evans,Hideaway - New Boots,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+0eAJvOFndX8wqXSDhNmXgA,Morgan Evans,Never Leave - Country Magic,Country Outta My Girl,0,202613,False,0.448,0.932,7,-4.424,1,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+0qJyBqYvqtVbPWtsDY3RYe,Morgan Evans;Kelsea Ballerini,Easy Country,Dance with Me,0,199501,False,0.611,0.519,1,-9.854,1,0.035,0.481,4.82e-06,0.107,0.462,147.979,4,country
+22oERu0CP7nzYx7OcViO2l,Tyler Braden,Country Road Songs,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+7BmrtjHe3CSS0vN7XJt80Y,Upchurch,King of Dixie,Traveler,44,166272,True,0.786,0.599,4,-9.949,0,0.0602,0.454,6.95e-06,0.111,0.482,139.975,4,country
+4j8z6XqDYjY4bEldGBSMIT,Tyler Braden,Hideaway - New Boots,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+2vtwuaAGoDPlsLujnfTYEu,Steve Winwood,Mirando las nubes,Valerie,0,246333,False,0.679,0.766,9,-4.993,1,0.0291,0.32,0.015,0.111,0.679,116.269,4,country
+0bTbLiGCQdNfXpHYGkCfSV,Morgan Evans,Good Times Country,Song for the Summer,0,212596,False,0.606,0.817,9,-5.112,0,0.0327,0.0279,8.79e-05,0.228,0.645,124.072,4,country
+44l7z2oUGyC7YovlvLQ133,Gunslingers,Ein Skål Te,32-18,45,231794,False,0.646,0.836,10,-4.842,1,0.038,0.133,0.0,0.116,0.405,129.039,4,country
+4gYVXQS5DtRZD2oeBiAsZl,Tyler Braden,Never Leave - Country Magic,Try Losing One,0,219640,False,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+67JdxRxKgYprfdEpb3VqHb,Upchurch;Katie Noel;Chucky V,Parachute,Dance with the Devil (feat. Katie Noel & Chucky V),43,244947,True,0.711,0.813,4,-7.085,0,0.0535,0.0248,0.0,0.0941,0.347,159.92,4,country
+3jwcudvYIksoAjU0x6gagd,Steve Winwood,80s Bangers Vol. 2,Valerie,0,246333,False,0.679,0.766,9,-4.993,1,0.0291,0.32,0.015,0.111,0.679,116.269,4,country
+5WSej8avliNGF113FGCDJL,Koe Wetzel,Sellout,Outcast,44,241005,False,0.511,0.347,1,-8.729,0,0.025,0.726,0.00105,0.375,0.0514,95.088,4,country
+2zIXd7qeMY696KKiJrk6r2,Upchurch,King of Dixie,Tunnel Vision,44,150218,True,0.773,0.516,10,-10.011,1,0.0613,0.457,0.0,0.278,0.358,138.944,4,country
+5hwySzV76a0LyYExMoK5tq,BEIST;Stjørna Heimbrentslag,Kongen av campen,Kongen av campen,45,162013,False,0.65,0.844,2,-7.664,1,0.116,0.418,0.0,0.291,0.341,152.993,4,country
+0HLZjlJQj7msam8bnAfDLn,Salebarbes,Gin à l'eau salée,Good Lord,45,188251,False,0.54,0.932,7,-5.488,1,0.0551,0.0427,0.0,0.337,0.905,151.923,4,country
+5dxgUzUSEMddBRjMZk6bj4,Lasse Stefanz,Road Trip,Huaröd,45,151484,False,0.647,0.813,9,-5.076,1,0.0758,0.135,0.0,0.173,0.826,153.994,4,country
+05UpLy7Xd3eH6ZqHK125YZ,Rotlaus,På vei,Syng mej en song,45,220800,False,0.549,0.872,4,-4.892,0,0.0332,0.00262,0.0,0.302,0.66,130.953,4,country
+1AWrnfNUdUDoJ2qqOGyJWt,Tyler Braden;American Song Contest,Laidback Country,Seventeen,0,266933,False,0.401,0.656,8,-5.62,1,0.0315,0.117,2.02e-05,0.107,0.27,156.133,4,country
+64xp2l0AuDU8HkTvjuH50K,Tomgang,Hjortefall,Hjortefall,45,224260,False,0.538,0.646,9,-7.093,1,0.0423,0.0805,0.00671,0.0887,0.459,160.129,4,country
+3dAiWRwZXd8pEOhItkkZXb,Bachman-Turner Overdrive,Fiesta temática 70s,Hey You,0,210893,False,0.491,0.849,9,-5.188,1,0.0309,0.0526,0.0094,0.274,0.932,118.161,4,country
+3WBJcwnBI1eocuhkwTz8dg,Bachman-Turner Overdrive,On air 70's Hits,Takin' Care Of Business,0,291733,False,0.728,0.919,10,-5.751,1,0.0494,0.0495,0.0,0.152,0.963,130.22,4,country
+25GlfPUk2HGcaomdxFSktV,Three Dog Night,Fiesta temática 70s,An Old Fashioned Love Song - Single Version,0,226600,False,0.456,0.555,10,-10.615,1,0.0369,0.508,0.0194,0.106,0.776,101.31,4,country
+2Bhq7YTxIZgkdbmRC1tZSZ,Three Dog Night,On air 70's Hits,An Old Fashioned Love Song - Single Version,0,226600,False,0.456,0.555,10,-10.615,1,0.0369,0.508,0.0194,0.106,0.776,101.31,4,country
+18q0I5Mz5TbxMf4cWSKql9,Rascal Flatts,Twenty Years Of Rascal Flatts - The Greatest Hits,Bless The Broken Road,36,226693,False,0.588,0.448,0,-6.37,1,0.0265,0.668,1.37e-05,0.156,0.362,135.962,4,country
+3D8dwH690MXQRhtIZTSS9c,John Denver,John Denver's Greatest Hits,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",62,245533,False,0.406,0.188,7,-13.039,1,0.0324,0.852,0.0,0.105,0.629,120.757,4,country
+7k6tAZp4m93oswrPqSfBbc,Thomas Rhett;Kane Brown;Ava Max,SCOOB! The Album,On Me (feat. Ava Max),60,164683,False,0.548,0.721,8,-4.466,1,0.0472,0.0119,0.0,0.216,0.594,177.918,4,country
+4Qum1kECNQrpREev5fvAQ4,Mitchell Tenpenny,Truth About You,Truth About You,66,203036,False,0.492,0.708,10,-4.639,1,0.0334,0.0975,0.0,0.12,0.697,161.989,4,country
+77Bt2DXJE1R1qsnm4D10Ox,Seaforth,Breakups,Breakups,59,223129,False,0.531,0.552,1,-5.945,1,0.0309,0.436,0.0,0.0786,0.328,74.931,3,country
+4rQSLX4qMiUWL81hEQOuPY,Randy Travis,Top 10,"Forever and Ever, Amen",63,212586,False,0.701,0.68,2,-8.492,1,0.0264,0.303,1.51e-05,0.159,0.704,90.607,4,country
+4pMRIhO6qGmtEIBurzIutp,Restless Road;Kane Brown,Restless Road - EP,Take Me Home (with Kane Brown),57,201749,False,0.397,0.508,9,-7.305,1,0.0384,0.443,0.0,0.135,0.323,89.862,4,country
+60RFlt48hm0l4Fu0JoccOl,Ingrid Andress,Lady Like,More Hearts Than Mine,68,214786,False,0.375,0.428,0,-7.387,1,0.029,0.109,0.0,0.105,0.361,78.516,4,country
+5ovVcYo2MvjVydFwFyaaqy,Dan + Shay,I Should Probably Go To Bed,I Should Probably Go To Bed,67,171826,False,0.721,0.277,1,-7.128,1,0.0365,0.634,0.0,0.112,0.309,131.935,4,country
+7zVCrzzEJU7u24sbJPXA5W,Kane Brown;Lauren Alaina,Kane Brown,What Ifs (feat. Lauren Alaina),72,188253,False,0.612,0.799,10,-4.603,1,0.0275,0.00898,0.0,0.172,0.687,125.976,4,country
+4Z6wHGFWv1uxPGxuthqQav,Eddie Rabbitt,Variations,The Room at the Top of the Stairs - 2008 Version,44,219066,False,0.772,0.412,4,-11.682,1,0.0305,0.378,0.000199,0.184,0.605,108.352,4,country
+11qh54D0PKkBwelpDxxiEU,Little Big Town,Pain Killer,Girl Crush,70,193320,False,0.5,0.225,0,-10.22,1,0.0302,0.842,0.0,0.112,0.355,173.788,3,country
+50CjXiDFzVBVvwNv0LxAm3,Don Williams,Reflections,Sing Me Back Home,45,238990,False,0.738,0.417,4,-11.77,1,0.0261,0.392,0.00196,0.186,0.639,110.001,4,country
+6TgA7gRbih1UvQGRWWBsdS,Don Williams,Country Classics,Shot Full Of Love,36,169973,False,0.666,0.252,2,-17.614,1,0.0264,0.548,0.0221,0.113,0.547,94.111,4,country
+5sq5LFHInGYFrzNPhdO1Ol,Don Williams,Expressions,Lay Down Beside Me,50,174346,False,0.496,0.196,7,-16.85,1,0.0284,0.631,0.0473,0.102,0.207,102.942,3,country
+0JkIre0YxNmKGMU5V7ZiDx,Kenny Rogers,Kenny,Coward Of The County,64,258733,False,0.652,0.433,7,-12.843,1,0.0588,0.134,7.37e-06,0.146,0.675,91.471,4,country
+4mnOVRRXsaqg9Nb041xR8u,Dolly Parton;Kenny Rogers,Dolly,Islands in the Stream,67,249360,False,0.592,0.473,8,-9.834,1,0.0354,0.681,0.0,0.0732,0.741,203.989,4,country
+3AhXZa8sUQht0UEdBJgpGc,Bob Dylan,Highway 61 Revisited,Like a Rolling Stone,70,369600,False,0.482,0.721,0,-6.839,1,0.0321,0.731,0.0,0.189,0.557,95.263,4,country
+6rGkeKNrpmTOHNsgiKU429,Tyler Childers,Bottles and Bibles,The Harvest,44,184520,False,0.588,0.163,7,-13.481,1,0.0341,0.936,0.0,0.115,0.559,73.303,4,country
+064SVQsmWl5EF0zahmzkQk,The Bellamy Brothers,Bellamy Brothers,Let Your Love Flow,70,198760,False,0.679,0.553,3,-14.687,1,0.0316,0.0611,7.16e-06,0.139,0.946,109.071,4,country
+1zEvVF0TuZ25UHnzAutUuX,Mini Thin,City Bitch,City Bitch,43,205387,True,0.791,0.606,7,-12.038,1,0.296,0.0706,0.0,0.33,0.799,134.979,4,country
+5D2cMPwNY9Ftb7vqInLLQK,Zach Bryan,Highway Boys,From Austin,43,207453,False,0.5,0.485,0,-7.94,1,0.0422,0.633,1.26e-06,0.107,0.379,109.755,4,country
+5KPjrk4LADrGKL2PSSU1lS,RaeLynn,Finest Country,Lonely Call,0,224106,False,0.588,0.722,6,-4.667,1,0.0289,0.0663,0.0,0.0721,0.243,145.926,4,country
+2MXE5cIWke4AVIrXpr9Fg5,Cody Johnson,Cowboy Like Me,Holes,42,220533,False,0.47,0.572,8,-5.707,1,0.0283,0.0574,0.0,0.0902,0.422,131.962,4,country
+3XN9MFTsoo6v3sz1eWalfo,Upchurch,Parachute,Wake Me Up,42,250450,False,0.67,0.575,8,-8.624,1,0.0423,0.0441,0.0,0.231,0.135,124.988,4,country
+1mwBcXok4MlLEzU8u8ZEhh,RaeLynn,Single Saturday Night - Country Songs,Lonely Call,0,224106,False,0.588,0.722,6,-4.667,1,0.0289,0.0663,0.0,0.0721,0.243,145.926,4,country
+0iHjqIQdw2IMhD5j23gci7,Upchurch,King of Dixie,Legend,44,221866,True,0.909,0.77,5,-8.364,0,0.271,0.115,0.0,0.106,0.757,146.985,4,country
+7KFDQGhs0YtDCjmoayP48I,Riley Green,Bury Me In Dixie,Trouble With You,42,168673,False,0.764,0.646,6,-6.919,1,0.0403,0.254,0.0,0.113,0.434,96.041,4,country
+0mYUlkqXRLYYfiIMEYRuf9,RaeLynn,Country Road Songs,Tailgate,0,182289,False,0.608,0.755,1,-5.156,0,0.114,0.0525,0.0,0.0998,0.75,176.046,4,country
+4f82WYUALAnn6l1ZymXEYQ,RaeLynn,Country Car Hits,Tailgate,0,182289,False,0.608,0.755,1,-5.156,0,0.114,0.0525,0.0,0.0998,0.75,176.046,4,country
+71DzeSJmIaZ9UhJ1rJJ5Od,38 Special,Fishing Music,Caught Up In You,3,278133,False,0.361,0.787,1,-4.982,0,0.0363,0.0197,0.000586,0.0421,0.889,130.693,4,country
+2z9qzLuCkfRdGNI1u08EyO,Hellbillies,Søvnlaus,20 år på vegen,46,246626,False,0.356,0.568,5,-5.264,1,0.0295,0.191,0.0,0.183,0.42,77.35,4,country
+7ogBckkBvJJDRdn2ZNNUb4,RaeLynn,Cozy Country,Queens Don't,0,185586,False,0.658,0.695,0,-5.499,1,0.0279,0.0708,0.0,0.13,0.572,133.939,4,country
+1HdCiNsQKptIsDHkKEoFHV,Boz Scaggs,Thanksgiving Party,I'm Easy,0,184786,False,0.474,0.771,10,-5.719,1,0.0571,0.115,0.0,0.0712,0.898,172.375,4,country
+6u3HTPvOxhVWllNhu07vvA,38 Special,80s Bangers Vol. 2,Hold On Loosely,0,279754,False,0.565,0.707,9,-5.65,1,0.0298,0.0101,8.16e-05,0.0851,0.831,127.222,4,country
+1vGKGe8os1xUphjwyYxhju,Adam Calhoun,War,Tombstone,44,189210,True,0.671,0.733,7,-7.348,0,0.361,0.229,0.0,0.139,0.62,78.03,4,country
+43ArccpHriGNsOpak14pjS,RaeLynn,Laidback Country,Queens Don't,0,185586,False,0.658,0.695,0,-5.499,1,0.0279,0.0708,0.0,0.13,0.572,133.939,4,country
+6wXNTzpDEPEMc83QRlmiY6,RaeLynn,Easy Country,Queens Don't,0,185586,False,0.658,0.695,0,-5.499,1,0.0279,0.0708,0.0,0.13,0.572,133.939,4,country
+38Qxu73W4pnkkwlKJaLfUK,Rotlaus;Synne,Ei tid (Akustisk versjon),Ei tid - Akustisk versjon,44,242906,False,0.492,0.694,11,-6.033,0,0.0276,0.0765,0.0006,0.316,0.366,89.93,4,country
+7Kqr46BBaC5UOdnDkL65YG,RaeLynn,Good Times Country,The Apple,0,213413,False,0.593,0.646,4,-5.251,1,0.0396,0.173,0.0,0.112,0.571,80.016,4,country
+3sLWLYFIRgbbvKYhYCyK1D,Parker McCollum,Gold Chain Cowboy,Never Loved You At All,43,181066,False,0.552,0.891,2,-4.008,1,0.0344,0.0908,0.0,0.391,0.851,107.969,4,country
+2NjRIEb53CJWJqlHZ3xwH9,Staut,Eigarlaus,Slepp me inn,46,174826,False,0.585,0.789,2,-6.916,1,0.039,0.102,0.0,0.258,0.97,81.481,4,country
+7fPeYkxfPi3ig1OSvR5C1Z,Tomgang,Scaniakusken,Scaniakusken,43,240096,False,0.585,0.731,11,-6.795,1,0.056,0.473,1.23e-05,0.134,0.853,151.95,4,country
+2NJOi0ZgOrYLoVKlkqjgsN,Bailey Zimmerman,Fall In Love,Never Comin' Home - Live Acoustic,43,198958,False,0.585,0.51,10,-6.028,1,0.0322,0.427,0.0,0.0997,0.436,135.24,3,country
+7Amg1NLsU6NsPUsDzkJn0f,Upchurch,Son of the South,Walking Tall,43,161415,True,0.789,0.572,7,-11.271,1,0.115,0.203,0.0,0.119,0.689,113.021,4,country
+6S0Vwp6CA0rLVdP7Zi3fOF,Free,On air 70's Hits,All Right Now,0,338426,False,0.785,0.481,2,-11.323,1,0.101,0.0062,2.38e-06,0.122,0.77,119.937,4,country
+5j41TsRGWaY3k9WLMTaDQu,Bailey Zimmerman,Change,Never Comin' Home,43,194270,False,0.556,0.59,10,-6.846,1,0.029,0.25,0.0,0.109,0.573,143.972,4,country
+1CfnMFQtuay15XHlNGpCQa,Roger Miller,The Greatest Jazz Mix,King Of The Road - Single Version,0,148280,False,0.69,0.366,11,-10.414,1,0.0634,0.62,0.0,0.121,0.544,118.289,4,country
+4Gresv7JWudO3BhMFCVxge,Lasse Stefanz,Den lilla klockan,Vi går mot ljuset,44,194906,False,0.614,0.768,7,-8.968,1,0.0288,0.419,1.81e-06,0.0839,0.846,112.38,4,country
+40ZhguqieJZ0AJTHKQY6Q4,Gunslingers,Hardanger,Hardanger,44,236387,False,0.64,0.722,4,-6.264,1,0.0396,0.0965,0.0,0.272,0.52,131.067,4,country
+2S8UMuLJ0z8agFgFGJ6Ztt,Niko Moon,GOOD TIME,GOOD TIME,70,214720,False,0.802,0.59,5,-7.189,1,0.0493,0.0874,0.0,0.275,0.687,138.084,4,country
+2CxmktXqJwP9KZv6WJtZCm,Keith Urban,Ripcord,Blue Ain't Your Color,53,230600,False,0.69,0.416,7,-7.865,1,0.0335,0.617,1.37e-06,0.102,0.479,82.45,3,country
+11y8GSP2ASv8S9n0FiiDva,Juice Newton,Juice,Angel Of The Morning,59,250440,False,0.452,0.313,8,-9.309,1,0.026,0.433,2.6e-05,0.0772,0.344,75.806,4,country
+4686eQ81DEswHa90bcdlC9,Bailey Zimmerman,Rock and A Hard Place,Rock and A Hard Place,84,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+6ifRkrDOVOl894U1YuuTfM,Music Travel Love;Francis Greg,I Want It That Way,I Want It That Way,56,191114,False,0.575,0.368,6,-7.436,0,0.0317,0.289,0.0,0.245,0.621,200.016,4,country
+3LDkLpuxQlEuEiZmkxpr8S,The Handsome Family,Singing Bones,Far From Any Road,56,166493,False,0.707,0.556,9,-10.101,0,0.0303,0.19,0.0159,0.388,0.746,120.028,4,country
+7BD50ATrF3Vab5FQy7vtK8,LeAnn Rimes,Greatest Hits,How Do I Live,69,266973,False,0.577,0.462,2,-7.989,1,0.0279,0.128,0.0,0.0822,0.258,128.303,4,country
+17M1JFSr2eEvo5dQnCIQim,Leo Sayer,The Show Must Go On: The Leo Sayer Anthology,More Than I Can Say - Remastered,56,222133,False,0.726,0.506,10,-12.77,1,0.0239,0.213,3.41e-05,0.332,0.72,96.5,4,country
+52RNWUgJBF3LOqt3iw1s77,Dan + Shay,Glad You Exist (Acoustic),Glad You Exist - Acoustic,56,161786,False,0.538,0.386,11,-6.963,1,0.0309,0.797,0.0,0.119,0.653,184.022,4,country
+3y4LxiYMgDl4RethdzpmNe,Faith Hill,Breathe,Breathe,67,250546,False,0.529,0.496,7,-9.007,1,0.029,0.173,0.0,0.251,0.278,136.859,4,country
+2xPV95cfbyusygMTxpa3SW,Dan + Shay,Good Things,You,72,196253,False,0.544,0.572,0,-6.205,1,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+40e31PdTiS5oAorpANQXc4,Don Williams,Volume One,Amanda,48,187413,False,0.653,0.369,9,-11.469,1,0.0307,0.747,0.0059,0.115,0.478,116.467,3,country
+2EoIt9vdgFRNW03u5IvFsQ,Billy Ray Cyrus,Some Gave All,Achy Breaky Heart,68,203373,False,0.8,0.563,9,-10.209,1,0.0303,0.051,0.0,0.0797,0.961,121.808,4,country
+1MOOJuxUu9QiQE9GgkYYPb,Spencer Crandall,Wilderness,My Person,61,177000,False,0.567,0.753,7,-5.291,1,0.0487,0.0894,0.0,0.13,0.756,165.966,4,country
+3rXCZRMiMZp0feGcYXpwYX,The Chicks,Fly,Cowboy Take Me Away,71,287266,False,0.467,0.622,6,-7.255,1,0.031,0.365,0.00527,0.0982,0.455,164.418,4,country
+59kHPbwyyCApYA8RQQEuXm,Alan Jackson,A Lot About Livin' (And A Little 'Bout Love),Chattahoochee,72,148160,False,0.606,0.706,0,-9.665,1,0.0379,0.362,0.0,0.16,0.819,174.533,4,country
+2KBudV1Lf6ZDIS9hi60Lc5,Rascal Flatts,Nothing Like This,I Won't Let Go,52,227760,False,0.557,0.406,4,-7.083,1,0.0278,0.742,0.0,0.113,0.222,131.96,4,country
+3VWNwd48T1J9VR7cpcx4s1,Dan Seals,San Antone,One Friend,58,117040,False,0.459,0.0565,2,-20.923,1,0.0371,0.815,0.0,0.105,0.386,125.151,4,country
+7JJyuNGhAiPO1UHZcMITd8,Riley Green,County Line,Play Her Tonight,42,172330,False,0.529,0.906,8,-5.064,0,0.0677,0.265,0.0,0.1,0.836,184.384,4,country
+60mjh18gaMX1yrZPcAjtNB,Tyler Childers,Bottles and Bibles,We've Had Our Fun,43,187173,False,0.574,0.306,11,-11.877,0,0.0292,0.865,0.00258,0.117,0.491,90.575,4,country
+1Km9uekyhNf8LzAHflscWg,Upchurch,Hideas: The Album,Hideas 9,43,182122,True,0.942,0.76,10,-6.886,0,0.163,0.0648,5.79e-05,0.134,0.37,110.036,4,country
+3hboOw4dS0aXGuP0fyyvbC,Tenille Arts,"Love, Heartbreak, & Everything in Between",Somebody Like That,72,198208,False,0.574,0.798,6,-5.356,1,0.0485,0.0152,0.0,0.111,0.58,105.034,4,country
+0lWsB8RdihOrwXTNZ8shIe,The J. Geils Band,R'n'B Studying,On Borrowed Time,0,184373,False,0.511,0.42,2,-7.686,1,0.0418,0.633,0.000267,0.0417,0.405,129.544,3,country
+1KpUbzeaGFdcBD7aeEj0k9,Joe Nichols,Good Day for Living,Good Day for Living,41,190066,False,0.436,0.849,11,-5.279,1,0.0689,0.0122,0.0,0.122,0.696,82.465,4,country
+47upBXry4b2wDitlGmwsve,Rotlaus,Bygderamp,Bygderamp,43,201561,False,0.487,0.723,0,-4.315,1,0.0278,0.0567,0.0,0.377,0.257,169.834,4,country
+4ESkWmp6wJZhSQ64KBzYju,Upchurch,King of Dixie,Radio Jam,42,199466,True,0.465,0.612,9,-9.803,1,0.0529,0.304,0.0,0.0407,0.282,79.814,4,country
+5IfdDiOJitysgex3qEL0bn,Bleu Edmondson,Southland,$50 Dollars and a Flask of Crown,43,205826,False,0.748,0.695,4,-7.755,1,0.0358,0.215,0.000264,0.246,0.876,114.927,4,country
+4mbwslolhrTX8PlqGmZ8WE,Riley Green,We Out Here: Live,Dixieland Delight - Live,42,330939,False,0.254,0.909,1,-6.556,1,0.0713,0.00112,0.000334,0.925,0.437,94.32,4,country
+7lw7DXpbGG8tQFJYRpt2jH,Crashville,PØBEL,PØBEL,42,196578,False,0.558,0.742,9,-6.764,1,0.0287,0.0132,4.48e-06,0.0817,0.809,152.014,4,country
+1esj1LFgfyFRbU5brtALfE,Reckless Kelly,The Day,Crazy Eddie's Last Hurrah,43,205253,False,0.53,0.87,7,-6.488,1,0.0936,0.0146,6.84e-06,0.367,0.735,147.877,4,country
+4smdDxU927wqJsaNr8RkTc,Cody Johnson,Gotta Be Me,Chain Drinkin',42,189760,False,0.575,0.793,2,-4.954,1,0.0426,0.199,0.0,0.0818,0.817,166.099,4,country
+2A3h00rEz4kKkSkW9Pg0N6,Adam Calhoun;Big Murph,The Throne,Shut Up,43,153076,True,0.837,0.654,0,-5.148,0,0.16,0.0771,0.0,0.432,0.292,138.007,4,country
+0fzmhN3dop77DGQmcsi5MJ,Upchurch,Creeker,Bells,42,203882,True,0.528,0.795,1,-5.093,1,0.039,0.00458,0.000264,0.125,0.539,166.007,4,country
+6uwohXXrnk9ihvvS957yN9,Canned Heat,(60's) Sixties Collected Volume 2,Goin' Up The Country,0,169560,False,0.628,0.356,10,-12.471,1,0.0386,0.932,0.000608,0.116,0.605,80.205,4,country
+55Kb9jM9W9s9axYfaZ8Op1,Derek & The Dominos,On air 70's Hits,Layla - 40th Anniversary Version / 2010 Remastered,1,423840,False,0.403,0.903,1,-3.88,1,0.0664,0.574,0.305,0.287,0.498,115.669,4,country
+0DAMv2If2x4wHf7q7MZQna,Tomgang,Ei tid e forbi,Ei tid e forbi,43,226942,False,0.647,0.809,9,-6.97,1,0.0267,0.00781,4.18e-05,0.237,0.665,99.975,4,country
+4ARjGTiLzJ9KZQMKdb6txM,Upchurch,Everlasting Country,Roots Run Deep,42,213525,False,0.535,0.64,7,-3.055,1,0.0286,0.28,1.29e-05,0.101,0.388,120.03,4,country
+1Gqa68jG8OUsQg4DaWRH5m,High Valley,Easy Country,I Be U Be,0,213093,False,0.442,0.746,7,-5.883,1,0.0335,0.0074,0.0,0.0996,0.415,126.035,4,country
+66cOmJrHcs5jBDLisQ6Olx,High Valley,Cozy Country,I Be U Be,0,213093,False,0.442,0.746,7,-5.883,1,0.0335,0.0074,0.0,0.0996,0.415,126.035,4,country
+6vQl2D1iDIdCusSo1l8iwJ,Upchurch,Creeker,Spotlight,42,172663,True,0.432,0.692,10,-6.539,1,0.0337,0.000363,0.0,0.149,0.373,171.999,4,country
+3Nvh2G6LziUGKAGF7YBFfq,Cody Johnson,Cowboy Like Me,Hurtin',41,243040,False,0.487,0.821,0,-4.221,1,0.0406,0.0407,0.0,0.272,0.539,139.957,4,country
+5kZNc9sXkpD2BFipxNaTgX,High Valley,Good Times Country,Roads We've Never Taken,0,197133,False,0.627,0.962,5,-4.942,0,0.0574,0.0111,2.43e-06,0.204,0.559,120.017,4,country
+1G7VT3YnG7u9QHDtnjP7G0,High Valley,Country Road Songs,River's Still Running,0,189773,False,0.542,0.795,0,-5.662,1,0.0262,0.0251,0.0,0.122,0.476,85.951,4,country
+0xjKyw8MYQY33BlY9bvqCS,Rotlaus,På vei,Ei runde til,43,236520,False,0.608,0.832,4,-5.38,0,0.0237,0.0153,1.07e-05,0.179,0.525,102.99,4,country
+3ExeJTj9YrWpb5AktkkpuY,High Valley,Country Car Hits,River's Still Running,0,189773,False,0.542,0.795,0,-5.662,1,0.0262,0.0251,0.0,0.122,0.476,85.951,4,country
+63UqEB9MMwqGdFqj2hRon2,High Valley,Laidback Country,I Be U Be,0,213093,False,0.442,0.746,7,-5.883,1,0.0335,0.0074,0.0,0.0996,0.415,126.035,4,country
+4VWH58O5XUjPRDcU3KBUUJ,High Valley,New Country,River's Still Running,0,189773,False,0.542,0.795,0,-5.662,1,0.0262,0.0251,0.0,0.122,0.476,85.951,4,country
+5lG3i1d8SozygnpVfbEsAg,Byting,Byting,Huldersølv,43,164088,False,0.701,0.637,1,-6.857,0,0.0265,0.243,0.0,0.0934,0.865,112.023,4,country
+1a0ro0Q0fbLkGTMucWgFTb,Bailey Zimmerman,Change,Small Town Crazy,43,162352,False,0.502,0.877,7,-2.847,1,0.0746,0.0129,0.0,0.244,0.696,170.123,4,country
+4gTyrZ0cv1J5YZgNQiNyN4,Corey Smith,Outtakes from the Georgia Theatre,F*** the Po-Po,41,347666,False,0.481,0.468,2,-11.315,1,0.0605,0.817,0.0,0.933,0.443,112.981,4,country
+2PGYNCB7e3bC7AP0WMJiUI,Music Travel Love,"Take Me Home, Country Roads (Acoustic)","Take Me Home, Country Roads (Acoustic)",58,193055,False,0.703,0.316,10,-8.779,1,0.0332,0.736,0.0,0.222,0.645,94.03,4,country
+2Xb6wJYGi0QXwURw5WWvI5,Gerry Rafferty,City to City,Right Down the Line,74,267773,False,0.783,0.322,0,-15.091,1,0.0343,0.213,0.00243,0.114,0.77,128.226,4,country
+5eQtR62IZ8P8qZM2pSD9Ip,Shania Twain,Up! (Red and Green Versions),Forever And For Always,59,283000,False,0.469,0.722,6,-4.806,1,0.0326,0.232,0.0,0.123,0.529,85.984,4,country
+6pMnEX2iBcqQtUyIl1L6Oo,Alan Jackson,Precious Memories,What A Friend We Have In Jesus,51,136493,False,0.449,0.174,2,-12.56,1,0.0292,0.903,0.0,0.124,0.288,143.37,4,country
+6foY66mWZN0pSRjZ408c00,Morgan Wallen,If I Know Me,Whiskey Glasses,81,234346,False,0.614,0.68,6,-4.58,1,0.0289,0.369,1.84e-06,0.115,0.707,149.959,4,country
+1XazlqB4YAtvouCmJPWXlM,Brett Eldredge,Illinois,Wanna Be That Song,61,236226,False,0.518,0.686,9,-4.911,1,0.0313,0.114,0.0,0.114,0.334,144.065,4,country
+7FCthfxjvvXyukvP1dULIW,Shania Twain,Greatest Hits,You're Still The One - Remixed/Remastered 2004,62,194866,False,0.545,0.597,3,-5.748,1,0.0336,0.3,0.0,0.0783,0.559,133.678,4,country
+7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,Body Like A Back Road,72,165386,False,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.938,4,country
+03fT3OHB9KyMtGMt2zwqCT,Luke Bryan,Crash My Party,Play It Again,75,226866,False,0.506,0.886,11,-3.225,1,0.0655,0.0916,0.0,0.0734,0.595,143.935,4,country
+6Zyz8lsnMFpIrCTuvGurCB,Eagles,Hotel California (2013 Remaster),New Kid in Town - 2013 Remaster,67,304925,False,0.649,0.425,4,-9.811,1,0.0267,0.378,0.0013,0.108,0.651,107.383,4,country
+0f1svjHSiaCJif6noKKVHa,Hunter Hayes,Hunter Hayes (Encore),Wanted,56,228840,False,0.421,0.476,0,-7.692,1,0.0298,0.268,0.0,0.0816,0.3,169.784,4,country
+3LLezpquftwn7QI1rYIovM,Avery Anna,Narcissist,Narcissist,64,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+6lyKOW0FNW6aAZdKVgoM8m,Alan Jackson,Good Time,Good Time,71,306773,False,0.652,0.767,9,-10.445,1,0.0372,0.0355,6.92e-06,0.397,0.73,132.017,4,country
+3rLEBpW17OHOovVl0kcFKZ,Kelsea Ballerini,SUBJECT TO CHANGE,MUSCLE MEMORY,66,211843,False,0.596,0.786,8,-4.782,1,0.0391,0.00715,0.0,0.192,0.788,93.959,4,country
+2i84vfr3fIZUMAp61JZfKf,Don Williams,Yellow Moon,Stay Young,47,187613,False,0.77,0.482,5,-12.726,1,0.026,0.729,0.00983,0.0725,0.707,88.972,4,country
+2kkvB3RNRzwjFdGhaUA0tz,Derek & The Dominos,Layla And Other Assorted Love Songs (Remastered 2010),Layla,74,423840,False,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,4,country
+1ju7EsSGvRybSNEsRvc7qY,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,Simple Man,74,356626,False,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.403,120.471,4,country
+0qkdE1C0ufnUISKwhg8Wh6,Lady A,Ocean,What If I Never Get Over You,64,206597,False,0.576,0.724,0,-5.147,1,0.0274,0.016,0.0,0.107,0.34,93.029,4,country
+5vXsj8L4DK1gGQ43BBG028,Kenny Rogers;Sheena Easton,We've Got Tonight,We've Got Tonight,66,234560,False,0.543,0.227,8,-11.247,1,0.0298,0.767,4.29e-05,0.103,0.292,123.548,4,country
+3RkQ3UwOyPqpIiIvGVewuU,Bob Dylan,Bringing It All Back Home,Mr. Tambourine Man,64,330533,False,0.39,0.31,5,-14.545,1,0.0676,0.794,0.0,0.379,0.584,177.515,4,country
+5fdhThPDe6jQQDqCyWrdAn,Dolly Parton,Jolene (Expanded Edition),Jolene,70,161533,False,0.674,0.537,1,-10.971,0,0.0363,0.566,0.0,0.131,0.809,110.578,4,country
+2TjnCxxQRYn56Ye8gkUKiW,Eagles,Desperado (2013 Remaster),Desperado - 2013 Remaster,68,213712,False,0.228,0.224,7,-12.749,1,0.0311,0.946,0.000222,0.273,0.18,60.3,4,country
+5sp2ZYNA1EwmC6CA3CGxiq,Music Travel Love,"Covering the World, Vol. 1",When You Say Nothing at All (Live in Nashville),58,215850,False,0.717,0.397,8,-8.614,1,0.0269,0.743,0.0,0.112,0.48,94.072,4,country
+47sNDR69VgN2NboGRc9Yyo,Zach Bryan,Open the Gate,Late July,42,178019,False,0.532,0.354,2,-8.938,1,0.0504,0.736,0.0,0.11,0.419,151.266,4,country
+6CsGmt0gpkobJSVqLqBQLj,Aaron Watson,Real Good Time,Barbed Wire Halo,41,265266,False,0.546,0.383,9,-8.18,1,0.032,0.403,0.0,0.0924,0.372,113.673,3,country
+1IC1rnzhDBXWkB20bHly9G,Upchurch,Creeker 2,Hillbilly Psycho,41,250218,True,0.488,0.737,4,-6.782,1,0.0941,0.0131,0.0,0.349,0.272,147.676,4,country
+6nfSAz7ObIqNHTKPmVjy7c,Stoney LaRue,Velvet,Look At Me Fly,41,292386,False,0.532,0.821,7,-5.126,1,0.0323,0.0553,0.0014,0.113,0.368,118.464,4,country
+6oDihOuvOytAzuQt3SMDHk,Koe Wetzel,Sellout,SideChick,41,197905,False,0.497,0.366,11,-9.219,1,0.0255,0.33,0.0,0.0907,0.139,87.53,4,country
+2PGKzBxAvi1KOn9pSpHZcx,Upchurch,River Rat,Busy,41,182050,True,0.806,0.873,1,-4.787,1,0.243,0.00872,0.0,0.0897,0.705,140.031,4,country
+78vTiLFfciZ5kiryzaWFbk,Vassendgutane,Ungkar med dobbelseng,Hjortejakt,43,240546,False,0.62,0.828,7,-4.74,1,0.0251,0.0658,0.0,0.293,0.766,107.562,4,country
+2tEMqkUo0QCtGOyUATJRxZ,Upchurch,River Rat,Don't Come Knockin,41,204012,True,0.67,0.717,11,-7.688,1,0.111,0.00406,0.0,0.166,0.313,129.973,4,country
+6h5hwJ9ZfFZ81JqBjhgLwe,Too Far Gone,Bæst I Test,Kæm Tok Ho Me Sæ,44,186453,False,0.545,0.621,0,-7.598,1,0.0289,0.159,3.85e-05,0.292,0.339,170.199,4,country
+1JswREP8dKSYnAgGcDx2TP,Avery Anna,Never Leave - Country Magic,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+2Ey6v4Sekh3Z0RUSISRosD,Derek & The Dominos,70s Christmas Party,Layla,0,423680,False,0.459,0.89,1,-3.246,1,0.0487,0.451,0.11,0.306,0.447,115.654,4,country
+59t4K6bhYE1AhYreLD4ULB,Spelloppmaker,Langt Herifrå,Langt Herifrå,42,264408,False,0.547,0.676,0,-5.721,1,0.0336,0.498,0.0,0.147,0.149,119.97,4,country
+5UStrdTMXC3qwEQSEv1HWo,Plumbo,Gamle helter,Gamle helter,44,208615,False,0.686,0.797,7,-5.527,1,0.0288,0.0184,0.0,0.345,0.854,130.007,4,country
+6kw5rCgHgarcLUVQ3ObU7F,Kenny Chesney;Jimmy Buffett,Songs for the Saints,Trying to Reason With Hurricane Season (with Jimmy Buffett),40,249652,False,0.738,0.503,2,-10.876,1,0.0309,0.613,1.16e-05,0.1,0.556,121.914,4,country
+5BI1XqMJK91dsEq0Bfe0Ov,Peter Frampton,On air 70's Hits,Show Me The Way,0,243266,False,0.7,0.726,2,-7.717,1,0.0329,0.436,1.11e-06,0.0914,0.64,130.11,4,country
+61F4Rp4Kh9jQZxO9B5KDDJ,Cayouche,Un vieux hippy,La chaîne de mon tracteur,41,144240,False,0.603,0.198,2,-19.179,1,0.0319,0.952,0.000146,0.0999,0.734,98.548,4,country
+41fQMNPgj3QnyAFJhEepKx,Gunnar & The Grizzly Boys,Standard American,Standard American,43,209053,False,0.72,0.922,11,-4.827,0,0.113,0.0323,0.0,0.452,0.687,93.004,4,country
+5pz84AeaQR6cwS1TAnK32u,Salebarbes,Live au Pas Perdus,Marcher l'plancher - Live,42,179131,False,0.401,0.659,0,-7.259,1,0.0678,0.184,9.56e-05,0.822,0.787,81.612,4,country
+2NhyinfLxEiqsgFT814tgM,Ashley Monroe,New Country,Hands On You,0,232186,False,0.356,0.417,9,-8.91,0,0.038,0.0313,1.36e-05,0.155,0.316,190.414,4,country
+1YKTp5PVGuOSivCw5x3IQM,Koe Wetzel,Sellout,Lubbock,42,179704,True,0.562,0.948,6,-3.89,1,0.0359,0.0323,0.0,0.369,0.94,106.021,4,country
+5bssn5TFInaosqvW4GQJC8,Riley Green,Hell Of A Way To Go (Acoustic),Hell Of A Way To Go,41,166133,False,0.481,0.74,6,-4.672,1,0.0277,0.0262,0.0,0.157,0.669,150.053,4,country
+5lCI0WJto9UU4235xaHE4y,Tomgang,Ein Anleggsslusk,Ein Anleggsslusk,42,254559,False,0.563,0.653,9,-7.328,1,0.0464,0.068,0.000357,0.374,0.613,164.048,4,country
+23qRa5APj2X7llu4151g39,Salebarbes,Gin à l'eau salée,Gagner sa vie,41,172954,False,0.602,0.875,4,-5.643,1,0.0422,0.291,0.0,0.386,0.977,145.932,4,country
+1OMK243SuTPjG0UJS5pa6v,Canned Heat,Fiesta temática 60s,Let's Work Together,0,193853,False,0.748,0.703,0,-12.004,1,0.0362,0.114,1.39e-06,0.0646,0.882,118.944,4,country
+0jmHIDi5pCbtTuvM9t323L,Ashley Monroe,Country Christmas Time,Tennessee Christmas,0,253520,False,0.653,0.433,0,-8.307,1,0.0243,0.505,1.65e-05,0.193,0.423,96.004,4,country
+6saUNa3bf6yNLPs2oYKu2T,Ashley Monroe,Country Holiday,Tennessee Christmas,0,253520,False,0.653,0.433,0,-8.307,1,0.0243,0.505,1.65e-05,0.193,0.423,96.004,4,country
+7h3rVSwqhTiFiysLcVlR4S,Ashley Monroe,Happy Country Christmas,Tennessee Christmas,0,253520,False,0.653,0.433,0,-8.307,1,0.0243,0.505,1.65e-05,0.193,0.423,96.004,4,country
+3I4WFddKpe2PGZWFh7f10J,Russell Dickerson,Yours,Yours,67,216960,False,0.554,0.722,11,-6.005,1,0.034,0.119,0.0,0.0861,0.558,134.058,4,country
+0stPNUkU1LZnvxIcfrKnEZ,Carrie Underwood;Ludacris,The Champion,The Champion,59,223998,False,0.663,0.875,6,-3.301,1,0.183,0.0821,0.0,0.124,0.51,91.056,4,country
+29zZmiBDLykYYTj7RN6VhV,Megan Moroney,Tennessee Orange,Tennessee Orange,78,223119,False,0.38,0.488,9,-6.637,1,0.029,0.126,7.23e-06,0.115,0.268,156.031,3,country
+1LM5zQv5pBKPyO7rm7Uz6U,Maren Morris,HERO (Deluxe Edition),My Church,69,197930,False,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-06,0.107,0.664,76.979,4,country
+3aKAdHDxhYu2gpbQMYSEkv,Collin Raye,Love Songs,"Love, Me",56,231626,False,0.6,0.242,0,-12.63,1,0.031,0.697,0.0,0.128,0.3,106.616,4,country
+4TnUKixNWMfajncgdSwFoi,George Strait,Strait From The Heart,Amarillo By Morning,70,173466,False,0.606,0.361,9,-16.031,1,0.0346,0.264,3.39e-05,0.38,0.621,121.059,4,country
+5N1OpDajUX3bIMiDEVEK0U,Kelsea Ballerini,Unapologetically,I Hate Love Songs,43,191186,False,0.385,0.446,11,-7.806,1,0.0298,0.247,0.0,0.189,0.401,179.94,3,country
+5fjoMV6IwPKFsmm0LQuv0m,David J,Lost My Heartbreak,Lost My Heartbreak,61,157213,False,0.56,0.802,11,-5.428,1,0.0373,0.0863,0.0,0.116,0.423,103.059,3,country
+5EOoMWIB9iK4ZpcSex9Ec7,Bob Seger,Stranger In Town,Old Time Rock & Roll,74,194146,False,0.714,0.937,6,-2.947,1,0.0399,0.206,0.0,0.0731,0.964,124.13,4,country
+7Fq9RwQxSn3kW85PrDUf0M,Brooks & Dunn,#1s ... and then some,Boot Scootin' Boogie,71,198226,False,0.656,0.817,11,-4.296,0,0.0435,0.22,0.0,0.304,0.862,130.448,4,country
+0pdfN7nOHMYmKykzu1cyfm,Shania Twain,The Woman In Me,Any Man Of Mine,73,246760,False,0.592,0.725,8,-8.698,1,0.0412,0.207,0.0,0.148,0.784,78.235,4,country
+20hTmPgYgVWwtVgrSr3VFH,Tyler Childers,Bottles and Bibles,Silence,42,125413,False,0.502,0.301,7,-12.496,1,0.0315,0.835,9.95e-05,0.34,0.261,126.898,3,country
+5J4FuE4WdDIbwPfmzHa3zB,Randall King,New Country Hits,You in a Honky Tonk,0,183570,False,0.626,0.705,9,-5.911,1,0.0256,0.121,1.67e-05,0.341,0.62,103.936,4,country
+2cX9ntBh6nimzl0lVxniaU,Randall King,Country Car Hits,You in a Honky Tonk,1,183570,False,0.626,0.705,9,-5.911,1,0.0256,0.121,1.67e-05,0.341,0.62,103.936,4,country
+6hBGEEaHNrjGs6lZkyw5SH,Randall King,Country Road Songs,You in a Honky Tonk,0,183570,False,0.626,0.705,9,-5.911,1,0.0256,0.121,1.67e-05,0.341,0.62,103.936,4,country
+4gvea7UlDkAvsJBPZAd4oB,Don Henley,Building The Perfect Beast,The Boys Of Summer,77,288733,False,0.516,0.549,6,-13.741,1,0.0373,0.501,0.00572,0.184,0.907,176.941,4,country
+5M8goiFYynmNxhueYW6grR,Blake Shelton;Gwen Stefani,Fully Loaded: God's Country,Nobody But You (Duet with Gwen Stefani),66,194866,False,0.463,0.653,0,-5.515,1,0.0273,0.111,0.000136,0.172,0.233,143.912,4,country
+3wFbZ4cXhidu6UCZfV1LNf,Randall King,Oklahoma Smokeshow - Breakout Country,You in a Honky Tonk,0,183570,False,0.626,0.705,9,-5.911,1,0.0256,0.121,1.67e-05,0.341,0.62,103.936,4,country
+6a3gDZh0NcXWiF6kseRpTh,Stoney LaRue,Us Time,Empty Glass,41,246373,False,0.593,0.581,7,-7.415,1,0.0249,0.548,0.000202,0.108,0.256,100.035,4,country
+689hKgiURfX5545kFXcI2l,Randall King,Never Leave - Country Magic,You in a Honky Tonk,0,183570,False,0.626,0.705,9,-5.911,1,0.0256,0.121,1.67e-05,0.341,0.62,103.936,4,country
+0F0Hu3MIenJyvk7rdt00L4,Upchurch,Supernatural,Who,41,168797,True,0.853,0.791,2,-9.402,1,0.246,0.0942,0.0,0.388,0.596,117.039,4,country
+6dHDRVGS5ebUVo9Yrr7XJ5,Avery Anna,New Country Hits,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+2gWB4eoiiGtPTPGrvIKDUf,Avery Anna,New Country,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+55ozcvNq4CYnpWRR1Ma7F0,Avery Anna,Laidback Country,Critic,0,191493,False,0.529,0.467,8,-4.663,1,0.0263,0.23,0.0,0.0922,0.24,132.09,4,country
+6J29756CWuq2ryDATYgDCa,Avery Anna,Easy Country,Critic,0,191493,False,0.529,0.467,8,-4.663,1,0.0263,0.23,0.0,0.0922,0.24,132.09,4,country
+6SLQTs6vHo5aZrKLukqvnk,BEIST,Bøgdafest,Bøgdafest,42,161880,False,0.712,0.844,0,-5.052,1,0.103,0.146,0.0,0.138,0.679,140.063,4,country
+5GBmbWZnre6mK9kCpv1ZEZ,Jameson Rodgers,In It for the Money - EP,Some Girls,40,184893,False,0.429,0.831,8,-5.108,1,0.0473,0.0781,0.0,0.312,0.348,167.984,4,country
+17BbQod6UjEVSU4TC9lPwL,Avery Anna,Burn Burn Burn - Hot Country Hits,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+23auRivC8Z0CB4nS84sDiW,Hellbillies,Niende,Råka tå ei pil,44,253679,False,0.306,0.771,0,-6.162,1,0.0352,0.00416,0.0,0.114,0.348,176.529,4,country
+580IxrAL0g17NvFQiyEKrL,Randall King,Hideaway - New Boots,Baby Do,0,206539,False,0.674,0.86,7,-5.498,1,0.033,0.00469,0.00345,0.115,0.637,116.05,4,country
+167w1B4J7ntKYx7OlZNsI4,Avery Anna,Hideaway - New Boots,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+7m5AlHcLKi5KRZjH5B38RM,Randall King,New Country,Baby Do,0,206539,False,0.674,0.86,7,-5.498,1,0.033,0.00469,0.00345,0.115,0.637,116.05,4,country
+79YGRx3inck94sMnnsR3ra,Upchurch,Same Ol Same Ol,Different Cloth,40,149998,False,0.615,0.737,7,-4.084,1,0.0268,0.00357,8.75e-06,0.0995,0.629,89.99,4,country
+7DcwXqqkkUXRbkyqTrjnwF,Frankie Ballard,New Country,Sunshine & Whiskey,0,182400,False,0.67,0.737,9,-6.794,1,0.0434,0.223,0.0,0.325,0.753,92.958,4,country
+1JvF1A4iFynnOyvb8WKl6v,Jon Pardi,Write You A Song,Empty Beer Cans,40,209053,False,0.645,0.83,9,-4.39,1,0.0452,0.0192,0.0,0.18,0.471,99.965,4,country
+0E03JK89NfbKmXpjxyF4pV,Randall King,Happy Country Christmas,I Only Want You for Christmas,0,207677,False,0.621,0.844,7,-5.238,1,0.0496,0.0384,2.23e-05,0.0709,0.478,147.983,4,country
+2eWFxHnEFuRudme41Er4ef,The Oak Ridge Boys,Christmas Only: The Timeless Classic Collection,The Angels Must Have Cried,0,170040,False,0.205,0.443,5,-9.936,1,0.0326,0.985,0.0463,0.103,0.269,87.914,4,country
+6B8LH8uVk3m4MyiuqZ5H7a,Avery Anna,Oklahoma Smokeshow - Breakout Country,Narcissist,0,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+7w8PssLb3yPar3EcnStos3,Randall King,Burn Burn Burn - Hot Country Hits,Baby Do,0,206539,False,0.674,0.86,7,-5.498,1,0.033,0.00469,0.00345,0.115,0.637,116.05,4,country
+5FmALWOtlwXn4clL4i8IPQ,Upchurch,Son of the South,Vibes,41,202153,True,0.898,0.518,1,-10.12,1,0.0526,0.0267,0.00936,0.132,0.307,129.973,4,country
+6Lo21kYgNY0ASua2c4aQvN,BEIST,Dans som en idiot,Råne-Ræser,42,194170,False,0.715,0.649,4,-8.077,0,0.0286,0.639,0.000339,0.491,0.722,105.058,4,country
+5hy7nPUIveNGkYEesMv0Is,Robert Earl Keen,Cowboys Don't Cry,Cowboys Don't Cry,40,189657,False,0.681,0.564,7,-6.692,1,0.0448,0.42,0.0,0.098,0.42,88.951,4,country
+7MqKRP6kv3YkMD6xTk8zTa,Randall King,Country Holiday,I Only Want You for Christmas,0,207677,False,0.621,0.844,7,-5.238,1,0.0496,0.0384,2.23e-05,0.0709,0.478,147.983,4,country
+0lRtPuJoG47Mhm6a69Uewk,Rotlaus,På vei,På vei,42,279240,False,0.467,0.789,7,-6.404,1,0.029,0.0235,6.21e-06,0.128,0.351,87.958,4,country
+0nYYvSzTI0vM8WBuZbMHE9,Juice Newton,Country Greats - Juice Newton,Queen Of Hearts,41,207293,False,0.647,0.821,2,-11.312,1,0.0535,0.564,0.000629,0.235,0.969,169.131,4,country
+6DCXwlDxgCDXEFWlNEgWoj,Rotlaus,Når vi to blir en,Når vi to blir en,42,215000,False,0.558,0.898,7,-5.324,1,0.0301,0.0096,0.0,0.38,0.737,87.015,4,country
+3Brvbk03WC7yu1LgKwWG3L,Salebarbes,Gin à l'eau salée,Gin à l'eau salée,41,187982,False,0.494,0.966,5,-5.578,1,0.0724,0.0158,0.0,0.178,0.566,172.281,4,country
+6WnSqAp4o9ii13vVk4iM1t,Sawyer Brown,Best Of,Some Girls Do,40,194320,False,0.64,0.852,2,-6.406,1,0.028,0.0907,0.0,0.151,0.903,139.949,4,country
+7plI8XMJN3vIlPpSQAeIuR,Upchurch,Creeker,Blow My Smoke,41,202866,True,0.449,0.848,4,-5.584,0,0.0669,0.0152,0.0,0.882,0.643,150.039,4,country
+0Npdhq5RUQ3C5clbzOZmtQ,Lasse Stefanz,I ett fotoalbum,I ett fotoalbum,42,181946,False,0.593,0.555,0,-9.865,1,0.0254,0.483,0.0,0.0937,0.648,81.986,4,country

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+5mupOjWc7YMaUoQ9SQ6bp5,Igor Talkov,Новое Призвание,Чистые пруды,34,342204,False,0.342,0.321,1,-13.555,0,0.0302,0.649,0.000521,0.194,0.185,140.567,4,romance
+2elBGcWYDisolhRue2UyTE,Igor Talkov,Серия Лучшие Артисты России,Летний дождь,32,512365,False,0.665,0.315,2,-16.679,0,0.0297,0.577,4.84e-06,0.364,0.544,111.057,4,romance
+6gBOEgaE31SgL7d6hWzxqO,Maya Kristalinskaya,Нежность,Нежность,31,177706,False,0.334,0.245,0,-13.914,0,0.0319,0.872,0.0,0.0964,0.205,108.419,3,romance
+55ft1ayoxCuxeEaUxS0zja,Valery Obodzinsky,Вечная весна,Эти глаза напротив,35,206158,False,0.503,0.613,5,-4.221,0,0.0299,0.216,0.00178,0.0672,0.523,110.985,4,romance
+5DZWpWVFqeXLLZHoORLLLM,Maya Kristalinskaya,Знакомая песенка. Дискотека СССР,Я тебя подожду,31,194089,False,0.53,0.251,10,-12.719,0,0.0532,0.897,5.2e-05,0.247,0.666,144.019,4,romance
+0Wv643k6s2pxZ6FjWzdo5v,Georgi Vinogradov,Wartime Songs,Katyusha,34,138005,False,0.67,0.157,0,-17.9,1,0.0928,0.347,0.00342,0.0969,0.437,125.718,4,romance
+60N4tpWP7BIOPC4bItjAGd,Igor Talkov,Легенды всех времен - Игорь Тальков,Летний дождь,11,512365,False,0.665,0.315,2,-16.679,0,0.0297,0.577,4.84e-06,0.364,0.544,111.057,4,romance
+6VJqMOvXQltTJzXob7SkDp,Igor Talkov,Легенды всех времен - Игорь Тальков,Господа демократы,12,228466,False,0.728,0.771,9,-7.843,0,0.238,0.702,0.0,0.903,0.905,66.156,4,romance
+6I1mTKxLwLldptUn0cjbNQ,Valentina Ponomaryova,Любимые песни.ru,Любовь - волшебная страна,30,170613,False,0.445,0.211,7,-12.716,0,0.0577,0.93,0.0,0.116,0.214,136.231,3,romance
+1Izwzkicc4P2rEjD5droHU,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Tango Magnolija,28,184699,False,0.545,0.0918,1,-16.959,0,0.0475,0.992,0.000357,0.673,0.419,91.62,4,romance
+1DeYtuxIDI63U8bfTeHJze,"Группа ""Загадка""",Золотая коллекция эстрады. Каким ты был,Катюша,13,126293,False,0.711,0.273,9,-9.666,0,0.0543,0.918,0.0,0.0581,0.687,127.332,4,romance
+4HNHnDUrpjVVf6gf8Gqlu9,Elena Kamburova,Гардемарины вперёд! (Лучшие песни из кинофильмов),"Разлука - Из т/с ""Гардемарины, вперёд!""",32,152764,False,0.277,0.175,4,-17.183,0,0.0379,0.865,3.39e-06,0.0935,0.288,90.784,5,romance
+26sUCO5VIbKYLxWdIrKsZS,Александр Добронравов,Как упоительны в России вечера (Душевные русские песни),Как упоительны в России вечера,12,235300,False,0.518,0.682,9,-3.804,1,0.0286,0.322,0.0,0.113,0.333,138.176,4,romance
+0218OusF1etow0wB7zia7u,Kvatro,Русская зима,Опять метель,10,217819,False,0.294,0.285,7,-11.287,0,0.0296,0.826,0.000188,0.452,0.117,140.175,4,romance
+1dTzgAjWDXKjJMNmpzptHh,Kvatro,"Кватро - XV лет, Часть 1",Смуглянка,10,194119,False,0.391,0.538,7,-5.998,0,0.038,0.73,0.0,0.549,0.708,88.0,4,romance
+2p00hK0cPIFRmpiWKHBpQs,Igor Talkov;Elektroklub,Радио Шансон: Хиты разных лет,Чистые пруды,15,335072,False,0.397,0.468,1,-6.738,0,0.0277,0.359,0.000331,0.0703,0.167,141.569,4,romance
+4HKFF8kQupjxkx0SKxcPPZ,Elena Kamburova,Всё будет завтра,Город золотой,11,215080,False,0.332,0.161,4,-18.377,0,0.0446,0.984,0.312,0.158,0.262,89.714,4,romance
+26B4QsbHj3PADDopBxqRhs,Павел Михайлов;джаз-оркестр Александра Цфасмана,В парке Чаир. Выпуск 1,Утомлённое солнце,14,182773,False,0.544,0.303,5,-12.708,0,0.0365,0.953,0.00215,0.0486,0.726,121.578,4,romance
+7CUiA8VcA2tNANBunjp6ns,Elena Kamburova,Дрёма. Русские колыбельные,Умка,15,190066,False,0.36,0.144,6,-18.141,1,0.0388,0.848,0.00147,0.125,0.393,131.991,4,romance
+0h0dIAeZqoKwYjFNGvnRVV,Oleg Pogudin,От моей негасимой любви... Песни военных лет,Случайный вальс,9,169533,False,0.408,0.414,4,-10.263,0,0.0449,0.927,0.000357,0.679,0.356,97.635,4,romance
+7tHuxoILmgLWSB6azikwbq,Zhanna Bichevskaya;Gennadiy Ponomarjov,Господа офицеры,Поручик Голицын,12,253000,False,0.457,0.269,4,-12.357,0,0.0286,0.853,0.0,0.117,0.392,103.3,3,romance
+5fC34YZnZ9tB3jRIgtgI6y,Elena Kamburova,Дрёма. Русские колыбельные,Сон приходит на порог,13,211266,False,0.343,0.145,1,-20.13,1,0.0552,0.922,0.00893,0.118,0.105,80.056,4,romance
+3aFXI603MlJBRv9XgBQiqm,Elena Kamburova,Дрёма. Русские колыбельные,Колыбельная светланы,14,223306,False,0.324,0.0917,7,-19.377,0,0.0384,0.912,0.000868,0.224,0.0592,120.87,4,romance
+4W0HaaA3mtKFfElO8wh8ZX,Rashid Beibutov,Arshin Mul Ullun,Gol Gulum Galsin,15,148819,False,0.632,0.197,2,-9.42,1,0.0512,0.992,5.67e-06,0.0917,0.604,107.419,4,romance
+1WP23BusDHrQMb47cu0C2h,Kvatro,"Кватро - XV лет, Часть 1",А где мне взять такую песню (Тополя),11,211869,False,0.347,0.212,8,-12.005,0,0.0301,0.89,0.0,0.0956,0.196,103.687,4,romance
+6YXbeMDkN4pbnU7IME67T1,Sergey Nikitin;Татьяна Никитина,Юнна Мориц: Сто фантазий,Всадники,11,135321,False,0.793,0.0874,8,-21.031,1,0.109,0.835,0.0,0.103,0.538,122.946,4,romance
+7h415uWIuMv9DtP3fmbJwd,Nikolai Erdenko,20 шедевров цыганской песни,"Ай да ну да, да не",10,148480,False,0.341,0.638,11,-11.086,0,0.0514,0.785,1.85e-06,0.131,0.763,157.015,4,romance
+5qOx7JZFRXGHOICl2ekuQf,Sergey Nikitin;Татьяна Никитина,Юнна Мориц: Сто фантазий,Мы в трамвайчике плывём,10,148524,False,0.679,0.128,3,-18.331,0,0.0777,0.849,1.58e-06,0.12,0.548,128.342,4,romance
+2jqBkZ3VhBeuTLwXZtfSGe,Georgi Vinogradov;The Red Army Choir,Когда поют солдаты...,Соловьи,10,356573,False,0.232,0.272,5,-14.867,0,0.053,0.963,0.000177,0.135,0.0412,112.787,5,romance
+2YpgvAZIHw0Yf4xoo3JIPC,Oleg Pogudin,Песнопения иеромонаха Романа,Родник,10,222120,False,0.44,0.166,2,-13.307,0,0.0347,0.946,1.25e-05,0.105,0.385,114.145,3,romance
+4wbDt0iAV0zavwwiFA4tej,Ivan Rebroff,Ah ! Si j'étais riche...,Ech odessa,15,132586,False,0.629,0.694,9,-9.833,0,0.0551,0.65,0.0,0.188,0.883,113.339,4,romance
+5KKpPtvjMpfHUlTbFVH2u1,Elena Kamburova,Песни о любви из кинофильмов,"Разлука - Из т/с ""Гардемарины, вперёд!""",10,152764,False,0.277,0.175,4,-17.183,0,0.0379,0.864,3.39e-06,0.0935,0.288,90.786,5,romance
+4CrOTryuYvZ2fHMF8C098T,Pyotr Leshchenko,Velikie ispolniteli Rossii XX veka: Pjotr Lescenko,Chjornye glaza,11,195161,False,0.491,0.297,7,-10.551,0,0.0498,0.954,0.0,0.168,0.46,106.763,4,romance
+6vg520JAjbrViaRlMiiW3E,Sergey Nikitin;Татьяна Никитина,Юнна Мориц: Сто фантазий,"Слониха, слонёнок и слон",9,186409,False,0.806,0.067,0,-21.103,1,0.292,0.9,0.0,0.0899,0.643,119.069,4,romance
+7j5WPt9an1dV6UozaEfYiO,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Tschubtschik,13,128493,False,0.436,0.55,9,-8.846,0,0.0897,0.829,3.01e-06,0.305,0.722,127.86,4,romance
+1GQ8bpeJW2o4oOFALGWVDk,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Les deux guitares,14,216306,False,0.426,0.208,2,-14.852,0,0.039,0.984,0.0186,0.097,0.374,94.51,4,romance
+1Vv40w7lAYn0mOZqAORfuE,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Stenka rasin,12,214973,False,0.275,0.461,3,-11.575,1,0.0479,0.978,0.0417,0.0988,0.37,86.209,4,romance
+7pGLNHEf6uYcIExzrUsRxh,Ivan Rebroff,Ah ! Si j'étais riche...,Ach Natascha,11,142120,False,0.426,0.487,2,-10.286,0,0.0539,0.778,1.73e-06,0.167,0.647,103.81,4,romance
+5n2eTurl6CW2r7ozPDghpC,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Wot polk paschol,12,118586,False,0.437,0.544,2,-10.498,0,0.0584,0.872,0.0,0.146,0.773,148.043,4,romance
+4IHOj2rlSMPCRfdUtbu9Ky,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Tschorny woron,12,205706,False,0.226,0.382,2,-11.413,0,0.0334,0.987,0.165,0.329,0.447,81.16,4,romance
+5UtkyVR8UmkpOAybv8O3mj,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Joue tzigane (Poj Zyganka),15,227760,False,0.269,0.515,8,-8.963,1,0.0426,0.869,0.115,0.166,0.57,137.031,4,romance
+4IIwDFVOcxiqG9eIuGhiqF,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Mitschza Troika,12,169453,False,0.465,0.612,7,-9.36,1,0.0512,0.676,0.128,0.0747,0.467,143.795,4,romance
+4CRNcTXgIdFl9Fxef5TTZz,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Kalinka Malinka,12,241106,False,0.266,0.416,2,-11.946,1,0.0454,0.959,0.00103,0.266,0.113,169.52,5,romance
+5BjLrtI4u8dJFSeUXroYe5,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Légende des douze voleurs,12,279360,False,0.234,0.418,5,-14.681,1,0.0524,0.98,0.342,0.115,0.19,85.36,4,romance
+3mTsjeWMJIYXgDlTGxJsC7,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Dance of the Gypsies,12,106466,False,0.481,0.662,1,-12.719,0,0.0368,0.67,0.756,0.112,0.963,93.163,4,romance
+3gxVjbqzbomPXyiac6mM3k,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Les bateliers de la Volga,15,152000,False,0.333,0.284,5,-12.707,0,0.0459,0.988,0.301,0.121,0.39,84.662,4,romance
+73qqMtSxIx7ppR8Edosyrl,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Havah Nagila,11,169106,False,0.407,0.737,9,-10.551,1,0.355,0.606,0.000188,0.089,0.415,141.529,4,romance
+6AUlLtGSxLdxtzqdh7Efb6,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Moscow Nights,13,156960,False,0.22,0.423,9,-12.962,0,0.0543,0.981,0.00661,0.11,0.17,79.921,4,romance
+7i71kcxj4N4NUcdQMeoXOt,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Eintönig hell klingt das Glöcklein,13,234266,False,0.198,0.455,5,-9.397,1,0.0399,0.847,0.368,0.34,0.0797,115.961,1,romance
+0oxygOeCTYPgKYTPhaiIVB,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Wolgalied (Es steht ein Soldat am Wolgastrand),23,198080,False,0.0962,0.373,2,-10.712,1,0.0323,0.499,0.134,0.401,0.257,79.7,4,romance
+25NagGBYNPfgWwGRKPf4N0,Igor Talkov,Легенды всех времен - Игорь Тальков,"Скажи, откуда ты взялась",28,384000,False,0.653,0.562,1,-12.698,1,0.0293,0.667,0.000171,0.337,0.581,147.33,4,romance
+6qS2nl4bcj927dQGwMHKVh,Vladimir Troshin,Подмосковные вечера (Имена на все времена),Подмосковные вечера,26,275693,False,0.284,0.147,0,-17.561,0,0.0359,0.92,0.0215,0.105,0.259,121.137,4,romance
+6ObewuQSNkFe4IjKjb4IPy,"Группа ""Загадка""",Золотая коллекция эстрады. Сиреневый туман,Стою на полустаночке,8,156653,False,0.578,0.311,4,-8.767,0,0.0591,0.881,0.0,0.115,0.658,107.391,4,romance
+5Qp1gwP49eJQtCHIkgmQfN,Vladimir Troshin,14 минут до старта,"14 минут до старта - Я верю, друзья",29,199105,False,0.574,0.372,7,-9.662,1,0.059,0.486,2.55e-06,0.268,0.463,109.242,4,romance
+58zpSHENWnIrv9il2UQYwy,Vadim Kozin;Танго-ансамбль п/у Якова Хаскина,Я люблю вас так безумно,Осень,9,186560,False,0.422,0.15,0,-15.931,0,0.0499,0.993,0.397,0.119,0.232,101.701,3,romance
+687cKQVA11ACUbwSVIdFCx,Kvatro,Твои следы,Твои следы,8,258008,False,0.254,0.401,9,-6.766,0,0.037,0.519,0.0,0.101,0.0997,84.547,5,romance
+3xRiztE4I0joqGoHpeTWwO,Vadim Kozin,"Осень, прозрачное утро (Имена на все времена)",Очи чёрные,7,129412,False,0.536,0.384,0,-7.068,0,0.107,0.981,0.0,0.437,0.299,72.777,3,romance
+5RdaPjRBd5dMQFN9wAtKla,Igor Talkov,Лучшие песни часть 2,Память,11,344537,False,0.7,0.418,4,-12.679,0,0.0675,0.646,0.000486,0.106,0.319,128.075,4,romance
+0fuUny8fLdKNlM5Ogxe736,Rashid Beibutov,Bahar Sənsiz,Uzun Gecələr,11,305800,False,0.291,0.0542,5,-16.637,1,0.0412,0.994,0.0146,0.0935,0.19,179.517,4,romance
+2suhVE7UX0IL9ndj1GgZen,Georgi Vinogradov;Yuri Lavrentiev Jazz Orchestra,"Soviet Retro Jazz Collection (1937-1944), Vol. 3",Two Maxims,27,245016,False,0.657,0.307,10,-16.463,0,0.0625,0.955,1.95e-05,0.237,0.811,123.898,4,romance
+1u73lqyN5sXys0H6aQVRht,Igor Talkov,Лучшие песни часть 2,Чистые пруды,10,341263,False,0.355,0.353,1,-12.428,0,0.0301,0.303,0.000412,0.164,0.165,141.473,4,romance
+2y1RIsx6dIGhK3Exrq5QQT,Kvatro,XV лет. Посвящение женщине. Часть 3,Как ты красива сегодня,8,268000,False,0.477,0.392,7,-6.691,1,0.0274,0.677,0.0,0.273,0.178,110.029,4,romance
+7wM4KQklV780wgvQZtL9QT,Igor Talkov,Mission,Chistye pond,11,342256,False,0.443,0.341,1,-12.772,0,0.0297,0.653,0.000591,0.325,0.19,141.784,4,romance
+19OGiH6XKPY08VxJLBNAcf,Klavdiya Shulzhenko;Юрий Силантьев;Эстрадно-симфонический оркестр Всесоюзного радио и Центрального телевидения,Юрий Силантьев: Памяти маэстро,Синий платочек,8,151773,False,0.401,0.323,7,-12.85,0,0.0744,0.79,0.0,0.736,0.487,78.538,4,romance
+1DH8iVOkC9Ns6Gewl9mMe1,Igor Talkov,I Will Return,Pure Ponds,10,358008,False,0.408,0.243,1,-15.869,0,0.0358,0.452,0.00109,0.0686,0.126,141.902,4,romance
+7CqbL945q8todOONP78ZFg,"Группа ""Загадка""",Золотая коллекция эстрады. Каким ты был,Каким ты был,9,266880,False,0.465,0.152,0,-11.808,0,0.0355,0.956,0.0,0.222,0.391,133.465,4,romance
+6SCoRFgvgCxXxXHniKLV3u,Kvatro,"XV лет, Часть 2",На бис,8,249702,False,0.366,0.183,0,-11.307,0,0.0367,0.927,0.000726,0.129,0.166,116.92,3,romance
+5LHJ2Q4FKQhk9xi20LBGD2,Rashid Beibutov,Arshin Mul Ullun,Khana Khana,11,174628,False,0.402,0.169,8,-14.18,1,0.0384,0.992,0.00121,0.276,0.52,170.996,4,romance
+0SbrwwMBAGcWlOVTtaWky8,Oleg Pogudin,От моей негасимой любви... Песни военных лет,Давно мы дома не были,8,169853,False,0.413,0.244,9,-13.301,1,0.0495,0.906,0.0,0.0882,0.578,84.019,4,romance
+2q5irxA6AttN3TiQGQG96i,Николай Рыбников,Поющие звёзды советского кино,"Когда весна придёт - Из к/ф ""Весна на Заречной улице""",7,201769,False,0.529,0.128,2,-15.098,0,0.0421,0.993,0.000398,0.122,0.321,93.936,4,romance
+5ZnAagxm4OdHwbVnXiGMid,Андрей Петров,Уличные мелодии в смокингах,Вальс из телефильма «О бедном гусаре замолвите слово»,8,263280,False,0.246,0.219,2,-14.487,0,0.0295,0.922,0.684,0.0644,0.14,95.113,4,romance
+52VyHnnYsCZW7qi0zTsRP8,Elena Kamburova,Дрёма. Русские колыбельные,Крошка вилли-винки,9,117200,False,0.577,0.137,0,-16.103,0,0.0626,0.831,0.00026,0.155,0.36,109.733,4,romance
+5GellvxGUS76JQxopO4Zdi,Rashid Beibutov,Arshin Mul Ullun,Arsin Mal Alan,10,358530,False,0.312,0.269,8,-9.797,1,0.0362,0.99,0.00532,0.142,0.139,65.377,4,romance
+1iHWAIAGSx2nDmshYdYDdK,Kvatro,"Кватро - XV лет, Часть 1",Пой гитара (От зари до зари),9,193863,False,0.412,0.765,2,-4.546,0,0.0776,0.225,0.0,0.0841,0.738,141.157,5,romance
+0k6ahjMeMG9E8cPzSanQhF,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),"Kalinka, Kalinka",33,244773,False,0.265,0.363,2,-13.186,1,0.0445,0.957,0.00083,0.13,0.121,168.577,5,romance
+5HfK28sNLdT4yvSOB9m6q0,Vika Tsyganova,Золотые Хиты,Калина Красная,10,277146,False,0.669,0.543,3,-6.665,0,0.0257,0.436,2.13e-06,0.34,0.417,94.003,4,romance
+12ljYgh3Pj8OlMlj0PbHHz,Gelena Velikanova,Добрые детские песни,Песенка про папу,8,87144,False,0.813,0.338,2,-11.043,0,0.103,0.517,0.0,0.101,0.505,117.494,4,romance
+0iKWbe2dET29fGeL1gdXUt,Elena Kamburova,Дрёма. Русские колыбельные,Осенний блюз,9,327400,False,0.222,0.162,0,-18.135,1,0.0379,0.907,0.0577,0.23,0.116,75.8,4,romance
+7yFjT2BehN04qwTQtk9m6i,Zhanna Bichevskaya,Жанна Бичевская: Избранные записи,Чёрный ворон,11,289786,False,0.356,0.129,3,-14.412,1,0.0317,0.948,0.000826,0.108,0.22,97.427,4,romance
+1q3ISxk58qc43VxRSVikeV,Rashid Beibutov,Lab Larr,Sana Mani Yar,10,239647,False,0.493,0.509,9,-8.698,0,0.0517,0.937,0.00438,0.461,0.6,135.422,4,romance
+4JVcs7AUaMK1X8aHFpYgNY,Sergey Nikitin,Моей душе покоя нет,Я спросил у ясеня,8,188656,False,0.497,0.085,1,-24.699,0,0.0403,0.958,0.0263,0.111,0.259,109.449,4,romance
+2dXKW4veT0fpQPpCCNToNo,Oleg Pogudin,Я сохраню слова любви,Я вновь пред тобою,8,175320,False,0.381,0.106,11,-18.121,0,0.0354,0.961,6.13e-05,0.115,0.136,89.519,4,romance
+1ZclaSnIc0Pvhgz6WtZseD,Zhanna Bichevskaya,"Starye russkie narodnye derevenskie i gorodskie pesni, Ch. 2",Kazach'ja pritcha,11,170280,False,0.369,0.344,9,-6.692,0,0.0307,0.93,1.02e-05,0.106,0.318,145.751,4,romance
+2EjRmp0yMzHWPZ9Vn69s1L,Vladimir Troshin;Оркестр п/у Бориса Карамышева,"Пусть песни расскажут, какими мы были",Сердце моё,9,185466,False,0.516,0.363,8,-11.595,1,0.0358,0.79,7.83e-05,0.318,0.629,127.347,4,romance
+2jqBkZ3VhBeuTLwXZtfSGe,Georgi Vinogradov;The Red Army Choir,Когда поют солдаты...,Соловьи,10,356573,False,0.232,0.272,5,-14.867,0,0.053,0.963,0.000177,0.135,0.0412,112.787,5,romance
+0BCy7otF0nbxqiegenIxuU,Klavdiya Shulzhenko,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",Who Are You?,9,139693,False,0.561,0.265,0,-15.902,0,0.0854,0.952,0.0,0.415,0.585,89.055,4,romance
+0YKcxflIvNtQd2Chh5EWrg,Zhanna Bichevskaya,"Starye russkie narodnye derevenskie i gorodskie pesni, Ch. 3",Vinovata li ja,10,190080,False,0.577,0.527,5,-7.01,0,0.0272,0.806,0.0,0.0918,0.654,101.571,4,romance
+3VqylojwMOf3uYSBHoOR88,Vladimir Troshin,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",Have Some Feeling for the Lad,9,135266,False,0.643,0.17,6,-19.167,0,0.0485,0.948,0.127,0.0806,0.622,93.793,4,romance
+1KSCZNHSG9ad1ewnMKyFY0,Ivan Rebroff,Ah ! Si j'étais riche...,Spischi laschatka,8,236120,False,0.362,0.351,10,-11.222,0,0.0379,0.535,0.0774,0.516,0.476,137.296,4,romance
+0armmWaLqevs0Cqhb1fms5,Rashid Beibutov;Tofiq Quliyev,Baku gözel çeher,Baku gözel çeher,10,176506,False,0.525,0.535,8,-6.597,1,0.0673,0.965,4.06e-05,0.391,0.668,93.768,4,romance
+0lm2MMd3akr2VYEVWM2j83,Ivan Rebroff,Ah ! Si j'étais riche...,Hey andrjuschka,10,148626,False,0.603,0.67,0,-8.621,0,0.0485,0.665,0.0,0.254,0.746,130.472,4,romance
+5jkk7zl6aJy5bw8Ccri6CA,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Kalinka,8,177293,False,0.412,0.523,1,-11.437,0,0.0868,0.951,0.0815,0.32,0.402,137.635,1,romance
+54PDTfIM9Fsdk28AvhIvnx,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Schwarze Augen,11,246186,False,0.236,0.473,4,-10.406,0,0.0431,0.967,0.0072,0.303,0.201,90.879,4,romance
+7ASYsUj4MYg5WP42xIvrkg,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Fish Catch,11,135480,False,0.366,0.612,8,-13.677,0,0.0322,0.722,0.192,0.122,0.9,98.279,4,romance
+2MksgCX7EtJbWwV71TqB3k,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Bessarabianka,9,162693,False,0.339,0.841,9,-9.624,1,0.213,0.0932,0.00182,0.393,0.744,185.785,4,romance
+1dBAKeqpL18Bd2qUbGvL0Z,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,The Legend of the Twelve Thieves,11,225120,False,0.151,0.437,4,-13.635,1,0.0468,0.979,0.0861,0.173,0.087,76.371,3,romance
+23zprrpuEmPx7ngTtynxxI,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Stepj da stepj krugom,9,255000,False,0.157,0.273,11,-13.283,1,0.0323,0.986,0.243,0.388,0.0913,79.108,3,romance
+73W6FNO3QXeQ7RWBEEZv2S,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Sehnsucht (Das Lied der Taiga-Grustij-Toska),11,230920,False,0.259,0.366,2,-8.96,1,0.0325,0.962,0.14,0.35,0.247,81.823,3,romance
+2UWDgWz4OOWMJuZbNh5kGr,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Wenn Du glauben könntest,9,198560,False,0.315,0.356,9,-11.586,0,0.0306,0.347,0.0159,0.121,0.259,79.636,4,romance
+0xtsKbcB421gqYvtUb3GAy,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Dans les rues de St-Petersbourg,9,129880,False,0.406,0.65,4,-9.82,1,0.132,0.883,0.0,0.335,0.421,133.988,4,romance
+362m7XVWdOU7FsnliFZFHI,Rashid Beibutov,Arshin Mul Ullun,Kuchalara Soo Sapmisham,33,182047,False,0.464,0.0461,4,-16.501,0,0.0431,0.996,0.131,0.0752,0.257,70.901,3,romance
+3hFH0Ek05XxuUEgl8hER2B,Igor Talkov,Моя любовь Часть 1,Праздник,8,311745,False,0.736,0.562,2,-13.787,0,0.0477,0.567,0.0125,0.317,0.505,136.797,4,romance
+5ojPMOiVyN3OgdnU7st99B,Igor Talkov,Легенды всех времен,Сцена,8,227160,False,0.698,0.352,0,-19.413,1,0.107,0.489,1.04e-05,0.0951,0.425,133.961,4,romance
+3fdyxlnQU00lJ5yESLhcYl,Lyudmila Zykina,Созвездье Гагарина (1958 - 1962),На сопках Маньчжурии,19,213854,False,0.296,0.29,0,-12.41,1,0.0427,0.949,0.0,0.195,0.254,151.786,3,romance
+1NNAkE5eukjQpFbZ0DkTmL,Igor Talkov,Легенды всех времен,Ностальгия,8,324310,False,0.503,0.405,7,-13.706,0,0.0416,0.371,0.000873,0.15,0.419,129.0,3,romance
+6swuCaoQkAWKD6YAWTmwvN,Kvatro,Ты моё море,Ты моё море,7,224142,False,0.59,0.437,1,-10.581,0,0.0292,0.159,0.205,0.216,0.32,139.99,4,romance
+3zdrVlAy42Bza076mdzr4c,Igor Talkov,Легенды всех времен,Ты — есть!,9,195160,False,0.219,0.32,9,-13.52,0,0.035,0.694,3.07e-06,0.399,0.285,174.108,5,romance
+4PKzHiustbbqHoM2bWfTQ9,Николай Рыбников,Лучшие песни нашего кино,"Не кочегары мы, не плотники - Из к/ф ""Высота""",21,53472,False,0.657,0.417,5,-11.05,1,0.0835,0.752,2.29e-05,0.318,0.868,121.241,4,romance
+3GFKTTjXzCzr8QcqDfdnXy,Valery Obodzinsky,Вечная весна,Листопад,31,189074,False,0.622,0.412,8,-13.157,1,0.0589,0.449,5.4e-05,0.0789,0.719,118.63,4,romance
+3atiDMcXPSE5GrMb66MRNN,Rashid Beibutov,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",First Love Waltz,7,181933,False,0.355,0.197,11,-17.017,1,0.0445,0.973,0.0,0.111,0.342,132.196,4,romance
+5viEIdvoEWe1AMb62W3JED,Российский Государственный симфонический оркестр кинематографии,Гардемарины вперёд! (Лучшие песни из кинофильмов),"Не вешать нос - Из т/с ""Гардемарины, вперёд!""",22,168176,False,0.548,0.422,2,-11.719,0,0.0549,0.422,5e-05,0.125,0.563,86.633,4,romance
+1JihKsZjTyaqh0sPpOJqxW,Maya Kristalinskaya,Поёт Майя Кристалинская (Remastered),Три товарища - Remastered,26,122206,False,0.0,0.122,7,-20.512,0,0.0,0.987,0.324,0.824,0.0,0.0,0,romance
+3EyMnebawYAw9rdRM0xkpZ,Rashid Beibutov,Qalalıyam Qalalı (Azərbaycan Xalq Mahnıları),Yar Bizə Qonaq Gələcək,7,168466,False,0.405,0.273,4,-11.012,1,0.0425,0.993,2.1e-05,0.154,0.704,175.822,3,romance
+0WnRChnaSgbqDsw2o6feAu,Rashid Beibutov,Sənə Də Qalmaz (Tofiq Quliyevin Mahnıları),Bakı - 1960,9,135333,False,0.493,0.208,7,-13.392,0,0.104,0.988,0.0,0.297,0.536,174.934,3,romance
+60ZCS7ttJKqGZU58kOxTk4,Rashid Beibutov,Tələsiin İnsanlar,Qara Qız,9,136506,False,0.567,0.181,4,-15.477,1,0.0934,0.991,0.00504,0.309,0.422,123.588,4,romance
+4JZ8hMhz9GbiSFOqUFBTO0,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,"Madam, uzhe padajut list'ja",16,273353,False,0.479,0.108,1,-17.395,0,0.104,0.991,0.00015,0.693,0.446,100.062,4,romance
+4NkhtB8wNqphhDbfiQ0p3Q,Igor Talkov,Я вернусь,Чистые пруды,8,446040,False,0.359,0.457,2,-9.294,0,0.0295,0.782,5.48e-06,0.214,0.386,129.681,4,romance
+4ZGVSDqxtVmyIacvdzZX2l,"Группа ""Загадка""","20 лучших ресторанных песен. Ой, цветет калина","Ой, цветет калина",6,125333,False,0.507,0.248,11,-9.473,0,0.0322,0.867,0.0,0.301,0.411,127.246,4,romance
+3h4ChMXKBUUqbTeYyo7gLr,Ivan Kozlovsky,На сопках Маньчжурии (1943 - 1956),На сопках Манчжурии Ι,6,181369,False,0.359,0.189,2,-15.705,0,0.0415,0.965,0.0,0.602,0.342,96.051,1,romance
+1byhztoqgQERCSyFTvQsQe,Valery Obodzinsky,Velikie ispolniteli Rossii XX veka. Valeriy Obodzinskiy,Vostochnaja pesnja,29,209813,False,0.549,0.617,9,-5.067,0,0.0284,0.502,0.0,0.132,0.657,77.264,4,romance
+2EAG3XUJ3KfS2pY4r57Gov,Vika Tsyganova,"Романсы, Часть 1",Накрыла Осень,9,247640,False,0.497,0.337,11,-10.201,0,0.0299,0.382,4.14e-06,0.323,0.179,142.128,3,romance
+7HaG5yp38G71jppX9puYMv,Kvatro,"XV лет, Часть 2",Bella Ciao,5,182040,False,0.493,0.833,9,-3.877,0,0.236,0.209,0.0,0.129,0.43,135.988,4,romance
+0EZfZSvcxtmqKoEoyMjjRC,Rashid Beibutov,Qalalıyam Qalalı (Azərbaycan Xalq Mahnıları),Gözəlim Sənsən,8,236360,False,0.404,0.102,1,-16.215,0,0.0351,0.976,0.0122,0.172,0.257,61.371,4,romance
+2haLS23gcVIqweqBtW8AUj,Rashid Beibutov,Azerbyjan,Azerbyjan,9,195239,False,0.591,0.545,11,-8.416,1,0.0623,0.872,0.764,0.147,0.712,99.279,4,romance
+6B4vPRa8U5n7NPH6XiTi6N,"Группа ""Загадка""",Золотая коллекция эстрады. Каким ты был,"Ой, цветет калина",5,125333,False,0.507,0.248,11,-9.473,0,0.0322,0.867,0.0,0.301,0.411,127.246,4,romance
+0xoOPcTdczrl2Z4gboGXBt,Pyotr Leshchenko,Шедевры русской эстрады. Кирпичики,Студенточка,9,191133,False,0.487,0.222,5,-14.956,0,0.0394,0.985,0.00155,0.126,0.477,109.195,4,romance
+3iDYNMrOLJR4Ycyo4T1BZk,Igor Talkov,Лучшие песни часть 2,Моя любовь,8,382154,False,0.652,0.665,1,-9.737,1,0.0286,0.654,6.45e-05,0.339,0.581,147.154,4,romance
+1N6Ii4ArpzqKcz5CCg1qfJ,Николай Рыбников,Лучшие поющие актёры СССР,"О чём я печалюсь - Из к/ф ""Девушка без адреса""",6,176927,False,0.456,0.245,10,-11.593,0,0.0364,0.987,0.000494,0.126,0.526,88.867,4,romance
+18ERl8Qqmq5e3vc4hU6URi,Igor Talkov,"Скажи, откуда ты взялась. Новое звучание","Скажи, откуда ты взялась",8,384000,False,0.653,0.562,1,-12.698,1,0.0293,0.667,0.000171,0.337,0.581,147.33,4,romance
+66LdeqA7NqjPcY4s3TJnq6,Igor Talkov,Легенды всех времен - Игорь Тальков,Бывший подъесаул,8,357851,False,0.459,0.532,2,-12.672,0,0.0333,0.672,0.00547,0.208,0.279,142.793,4,romance
+6UXbbv1Ac9eF1VDIo1E2PZ,Rashid Beibutov,Ariya və Romanslar,Füzuli,8,275840,False,0.422,0.129,1,-16.375,1,0.0773,0.992,0.000235,0.698,0.242,73.837,3,romance
+3Q5ToeIenRbDgvIkwV2L9L,Rashid Beibutov,Arshin Mul Ullun,Ana,9,496744,False,0.369,0.202,7,-9.251,1,0.0402,0.964,3.96e-06,0.0961,0.153,79.636,1,romance
+38DrzN6zdlYfgoAIi4k8jG,Zhenya Shevchenko,Очи черные,Очи черные,9,240826,False,0.383,0.467,0,-14.331,0,0.0962,0.777,0.0,0.0431,0.464,142.908,4,romance
+2qHWrbwsytDnN8tsEY26Hw,Vika Tsyganova;Ярослав Сумишевский;Mikhail Krug;Igor Slutskiy,Золотые купола,Золотые купола - Авторская версия,10,320864,False,0.483,0.71,2,-5.105,0,0.0386,0.229,0.0,0.16,0.341,134.118,4,romance
+7fgLqzpXUq7EX1l30zYcfs,Vika Tsyganova,Любовь И Смерть,Любовь И Смерть,9,347492,False,0.638,0.546,7,-9.207,0,0.0391,0.317,2.67e-06,0.25,0.381,136.95,4,romance
+4KnUH9XeFVaBvpgWaoG97x,Rashid Beibutov;Tofiq Quliyev;Üzeyir Hacibeyov,Džan Azerbajdžan!,Xezer şefeqleri,8,168176,False,0.316,0.328,5,-10.9,0,0.0626,0.99,0.0147,0.377,0.643,180.653,4,romance
+3inS8wFRWzfXBQkYwI0vNf,Kvatro,The Best Of,Hallelujah,5,239451,False,0.322,0.214,2,-8.351,1,0.0284,0.97,0.00565,0.104,0.129,171.774,3,romance
+6HYB2ioC71XqQDKzuTsU36,Maya Kristalinskaya,"Oy, Moroz Moroz",A sneg idjot,9,139319,False,0.365,0.174,2,-13.534,0,0.0476,0.907,0.0,0.0466,0.636,203.375,4,romance
+4RZ9KLrGLVxg7wzyvBny9v,Александр Добронравов,"Шоферские песни (Для тех, кто в пути)",Как упоительны в России вечера,5,235300,False,0.518,0.682,9,-3.804,1,0.0286,0.322,0.0,0.113,0.333,138.176,4,romance
+6y05zW7YPobI68TQwpYwfd,Sergei Lemeshev,Лемешев Сергей - ХX Век Ретропанорама,Ты Не Пой Соловей,6,255093,False,0.426,0.132,9,-16.241,0,0.0445,0.966,0.0,0.061,0.227,82.794,4,romance
+7g1ID9Paz7HfwH58jnJrSP,Vladimir Troshin,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",My Friend,9,147360,False,0.416,0.16,9,-17.863,1,0.0559,0.975,0.173,0.086,0.562,88.454,4,romance
+7rTwRaALIQYmNcDitHeqlC,Rashid Beibutov,Azerbyjan,Gozleyam Sen Sen,8,235363,False,0.341,0.295,1,-11.256,0,0.034,0.938,0.00159,0.12,0.2,92.105,3,romance
+46VY1V1MHtjjtK6Pg7g5hv,Vladimir Troshin,4 ноября. День народного единства,"Песня неуловимых мстителей - Из к/ф ""Неуловимые мстители""",9,94850,False,0.484,0.284,1,-13.235,0,0.0403,0.929,3.78e-05,0.194,0.477,84.831,4,romance
+4ax9fr983IqnsZtiIipuQg,Valery Obodzinsky,Songs A.N. Vertinskogo,Those Eyes On the contrary,9,210390,False,0.507,0.408,8,-9.66,1,0.0319,0.758,5.13e-06,0.0591,0.567,111.695,4,romance
+4hL4RJ9JtSkBrHERkipPzB,Georgi Vinogradov;The Red Army Choir,Утомлённое солнце,"Эх, дороги",9,178826,False,0.337,0.164,7,-14.616,0,0.0509,0.988,0.0,0.252,0.344,84.756,3,romance
+4dkhw0B8wrn805DvAKSQwm,Gruppa Express,Одинокая ветка сирени,Одинокая ветка сирени,8,240382,False,0.299,0.527,7,-6.278,0,0.0358,0.0465,0.0,0.0663,0.498,73.259,4,romance
+4H0o1roxbn2btJjVeCBWBd,Rashid Beibutov;Šankar I Džajkišen,Baku gözel çeher,Pesnja radža,9,135146,False,0.493,0.19,7,-13.961,0,0.0984,0.988,0.0,0.296,0.521,176.555,3,romance
+4AHab2RIGNbVCh8jVNHRna,Zhanna Bichevskaya,"Ljubo, brattsy, ljubo...","Ljubo, brattsy, ljubo...",10,355324,False,0.412,0.414,8,-11.532,1,0.032,0.75,0.0,0.149,0.528,120.029,4,romance
+1urQwgP3Tbhd3oDA9WapA9,Zhanna Bichevskaya,Russkaja Golgofa,Gibel' Stereguscego,8,235817,False,0.191,0.371,2,-10.66,0,0.0302,0.85,2.46e-06,0.0966,0.126,107.834,4,romance
+5VU7XxrQj5gfJmFKyn0Qyv,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Notschenjka,9,230000,False,0.234,0.156,7,-14.337,0,0.0346,0.98,0.717,0.108,0.144,85.021,4,romance
+1mfL1QcHB8kz4F4iTZChAi,Николай Рыбников;Ефим Нейд;Инструментальный ансамбль п/у Юрия Силантьева,Сделано в СССР. Выпуск 1,Марш монтажников-высотников,20,122237,False,0.682,0.444,5,-9.817,1,0.0574,0.725,1.49e-05,0.273,0.781,119.076,4,romance
+1SMgTWlziD4zVIEX92XDbz,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Aleksandra,20,218232,False,0.637,0.25,7,-13.892,0,0.0627,0.871,0.0,0.145,0.496,115.578,3,romance
+30t7M7nfZ8rk4CznVyh9N0,Elena Kamburova,Дрёма. Русские колыбельные,Зеленая карета,26,219600,False,0.278,0.213,7,-17.459,1,0.0401,0.86,0.0149,0.0512,0.139,118.811,1,romance
+26fuEmOX5vuMZQdzTk0kvw,Дмитрий Харатьян;Светлана Тарасова,Гардемарины вперёд! (Лучшие песни из кинофильмов),"Песня о любви - Из т/с ""Гардемарины, вперёд!""",20,313730,False,0.319,0.255,2,-15.662,0,0.0311,0.566,0.00119,0.0926,0.107,108.165,4,romance
+4XSd3gOBb577jSqJbkS0U9,Valentina Ponomaryova,Моей душе покоя нет,А на последок я скажу,28,160679,False,0.404,0.0614,7,-19.947,0,0.0549,0.955,9.01e-06,0.108,0.124,77.217,3,romance
+4QtkuEXUmPI29GYjm3vILr,Kvatro,Ты моя Москва,Ты моя Москва,6,197143,False,0.745,0.64,1,-9.224,1,0.0508,0.233,0.0,0.217,0.776,89.988,4,romance
+4m7xhw0LE491EBBLJpXcUl,Elena Kamburova,Маленький принц. Песни из кинофильмов,"Вот опять окно (из к/ф ""Аэлита, не приставай к мужчинам"")",21,115253,False,0.638,0.113,2,-14.637,1,0.0841,0.946,0.0239,0.116,0.677,80.534,4,romance
+54k1ghTXsBi8evTkrddDpC,Valentina Ponomaryova,Любимые песни.ru,Под лаской плющевого пледа,27,157386,False,0.443,0.144,5,-16.26,1,0.0532,0.927,0.000101,0.142,0.223,78.92,3,romance
+3Stij2Z7cJSIi5LcTsrKn3,Elena Kamburova,Маленький принц. Песни из кинофильмов,"Разлука (из к/ф ""Гардемарины, вперед!"")",27,149053,False,0.287,0.346,4,-8.647,0,0.0342,0.804,2.69e-06,0.103,0.239,67.775,4,romance
+0nEQDvY9N3Y6ra8GoQX6U7,Владимир Бунчиков;Детский хор Центрального Дома Культуры железнодорожников;Большой детский хор Центрального телевидения и Всесоюзного радио;Симфонический Оркестр Московской Государственной Филармонии,Песни нашей Родины. Выпуск 2,"Песня о Родине (Из к/ф ""Цирк"")",6,286487,False,0.364,0.346,7,-12.485,1,0.0411,0.843,0.0,0.0747,0.349,106.745,4,romance
+1qgpkw5P4S0DjbwWABcK5J,Elena Kamburova,Маленький принц. Песни из кинофильмов,"До чего дошел прогресс (из к/ф ""Приключения Электроника"")",24,89893,False,0.717,0.421,7,-6.944,0,0.0368,0.796,0.00651,0.131,0.826,137.705,4,romance
+6qwI0ZOE3XNeMrbbFGZV31,Elena Kamburova,"Там вдали, за рекой",Там вдали за рекой,5,204506,False,0.308,0.0893,9,-19.164,0,0.063,0.983,0.0302,0.102,0.101,81.764,1,romance
+5ef6WF74Im5JpUZ8ciY0oR,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Vashi pal'tsy,14,159165,False,0.412,0.0376,4,-18.744,0,0.123,0.993,6.36e-05,0.232,0.23,79.966,4,romance
+4CRp77Sf1fHsFIOp4yhdcu,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Dorogoy dlinnoy,19,174871,False,0.566,0.201,10,-12.559,0,0.0707,0.989,5.86e-06,0.338,0.592,114.97,3,romance
+0Q2gbUVIIOacwCpISsQGn1,Kvatro,"Кватро - XV лет, Часть 1","Всё, что было",6,236871,False,0.306,0.588,10,-7.373,0,0.0625,0.495,0.0,0.178,0.542,76.063,4,romance
+4HB3MMcwWAACeUJaA6PZFJ,Elena Kamburova,Последняя любовь,Песенка кавалергарда,5,147333,False,0.452,0.358,7,-13.2,1,0.17,0.819,0.0,0.116,0.571,150.213,4,romance
+0Pvqm6q8JtvAG3Yxn5Pp3m,Oleg Pogudin,Я сохраню слова любви,Ночь светла,6,169026,False,0.41,0.155,2,-19.42,0,0.0384,0.928,7.88e-06,0.124,0.264,83.629,4,romance
+4I1GfpI1QvEycAVnb7wcwz,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,The streets of Moscow,4,231576,False,0.57,0.102,0,-18.05,1,0.0746,0.741,0.0,0.59,0.294,117.518,4,romance
+46HD0Iv7eIF0uUEzAuxIxZ,Oleg Pogudin,Любовь и разлука. Песни Исаака Шварца,Дождик осенний,6,191146,False,0.449,0.185,4,-14.767,0,0.0532,0.889,6.95e-06,0.0837,0.302,137.821,4,romance
+6FnxzPxqaAhMupLYlZtRFG,Kvatro,XV лет. Посвящение женщине. Часть 3,Виноградная косточка,6,196000,False,0.722,0.603,10,-7.995,1,0.0411,0.443,2.87e-06,0.0987,0.753,146.013,4,romance
+7zFcSxrve4D7vHsXisHbzY,Elena Kamburova,Дрёма. Русские колыбельные,Старая лестница,7,219933,False,0.281,0.199,7,-22.217,1,0.0936,0.722,0.0217,0.103,0.305,79.257,4,romance
+3ifbiedLrWS3v4FyIJilIq,Elena Kamburova,Синий троллейбус. Песни Булата Окуджавы,Жаркий огонь полыхает в камине...,5,261800,False,0.569,0.0344,7,-25.835,1,0.0375,0.966,0.0132,0.108,0.157,102.385,4,romance
+0ywd9lXPKFOw9qW14SDjI3,Valentina Ponomaryova,Моей душе покоя нет,Любовь - волшебная страна,7,173453,False,0.443,0.116,7,-18.114,0,0.0495,0.959,9.33e-06,0.118,0.256,134.568,5,romance
+2ywlUs5nhnB5X4i0gIWk3l,Elena Kamburova,Дрёма. Русские колыбельные,"Спи, мой мальчик",7,270706,False,0.205,0.209,0,-16.351,1,0.037,0.848,0.479,0.132,0.117,72.071,4,romance
+1RGVlOf6sRhuVcAJbKANAT,Kvatro,Русская зима,В лесу родилась ёлочка,5,197978,False,0.561,0.419,1,-9.068,0,0.046,0.884,0.0,0.196,0.423,110.431,4,romance
+28eZSuQEQG7lskw8GHP7GS,Дмитрий Харатьян,Лучшие песни из советских кинофильмов,"Песня о дружбе - Из т/с ""Гардемарины, вперёд!""",5,136385,False,0.403,0.592,0,-8.551,1,0.093,0.557,1.21e-05,0.327,0.638,150.897,4,romance
+0vNaNT09laqonNkOn1WXFL,Elena Kamburova,Последняя любовь,После дождичка небеса просторны,6,341466,False,0.179,0.112,7,-18.155,1,0.0388,0.927,0.0,0.105,0.143,78.794,3,romance
+7mf75mbPFLmtlcofz9mkk2,Yuri Morfessi,Юрий Морфесси. 20 лучших песен,Бублички,4,167560,False,0.693,0.353,4,-8.167,1,0.111,0.993,0.0,0.419,0.883,142.443,4,romance
+6lyJOfBsh6bXwNS0sGumPt,Valentina Ponomaryova,Любимые песни.ru,"Нет, не любил он",5,130573,False,0.456,0.131,2,-14.903,0,0.0542,0.987,3.61e-05,0.109,0.189,109.109,3,romance
+0BCWrrTUDqyo5BbCuICnIs,Olga Voronets,Velikie ispolniteli Rossii XX veka: Ol'ga Voronets,Sladka jagoda,6,255976,False,0.19,0.302,5,-10.987,0,0.0456,0.983,0.000389,0.111,0.103,64.427,4,romance
+0zOR5zs9vus72lS3sXtoGB,Kvatro,The Best Of,Опять метель,5,216467,False,0.312,0.334,7,-9.254,0,0.0287,0.857,5.61e-06,0.621,0.146,138.382,4,romance
+2x0jRIvOlkxKx2sH9cbGmK,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),"Katjuscha, Katjuscha !",29,134706,False,0.465,0.556,10,-10.174,1,0.0595,0.936,0.0012,0.372,0.842,114.565,3,romance
+14a0ll97PWfUwEepiA2gPc,Valentina Ponomaryova,Моей душе покоя нет,Под лаской плюшевого пледа,6,163160,False,0.402,0.106,5,-18.661,1,0.0641,0.948,2.76e-05,0.112,0.21,168.905,3,romance
+1YlGUez7LhxUuhTZtOyHbl,Sergei Lemeshev,Лемешев Сергей - ХX Век Ретропанорама,Ария Ленского,5,382373,False,0.222,0.195,5,-16.587,0,0.0478,0.982,1.39e-05,0.115,0.106,84.573,1,romance
+4hG5YfPEvOSAb7VGg3y8M3,Nikolay Kopylov,Популярные Арии Из Опер И Классических Оперетт,Ария Мистера Икс Из Оперетты ''принцесса Цирка'',6,234720,False,0.178,0.439,10,-9.031,0,0.0481,0.99,0.511,0.0829,0.188,73.95,3,romance
+7KHqssi6IR2isrdkUTS7Wc,Pyotr Leshchenko,"Золотая коллекция, Ч. 3",Сердце,5,171284,False,0.538,0.23,2,-9.326,1,0.0655,0.948,0.000805,0.0582,0.491,115.416,4,romance
+50NKHsW9erL6jr5ondTLm0,Sergei Lemeshev,Лемешев Сергей - ХX Век Ретропанорама,Романс Надира,6,249626,False,0.23,0.251,7,-16.047,0,0.0391,0.985,0.0172,0.11,0.0849,100.303,4,romance
+3tLTSFyO5OGVGjrBJTafPu,Oleg Pogudin,The Best Songs,Казачья колыбельная песня,6,294826,False,0.323,0.118,6,-16.407,0,0.0359,0.972,0.000314,0.102,0.254,136.321,4,romance
+3UYtNMVltEEM6fuHfV5VIu,Georgi Vinogradov;Джаз-аккордеон ансамбль п/у Ефима Розенфельда,В парке Чаир. Выпуск 1,Счастье моё,7,176293,False,0.466,0.234,10,-11.372,0,0.0395,0.988,1.47e-05,0.167,0.697,118.561,4,romance
+4G5fGPFCxdgie2uwpLvRaf,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Katyusha,25,110933,False,0.491,0.384,2,-10.216,0,0.0439,0.965,0.578,0.0933,0.668,94.151,4,romance
+5BGL9SpUDDWrJcqQzjChbc,Vadim Kozin,"Russian Light Songs, Vol. 1: Recordings 1930 - 1960",Friendship [Druzhba],7,157773,False,0.373,0.447,7,-6.222,0,0.0437,0.993,0.0347,0.276,0.469,83.193,4,romance
+7zZa2WYKHrPJMzfhXgp4P2,Gruppa Express,Застольные песни,Тонкая рябина,5,245186,False,0.389,0.54,8,-5.879,0,0.0285,0.809,0.0,0.132,0.463,159.877,3,romance
+4TY8hgM4OhW0ruQCaM8Bqz,Ivan Petrov;Osipov State Russian Folk Orchestra,From Russia with Song,Troika,7,276586,False,0.33,0.171,9,-17.694,0,0.0513,0.958,0.000113,0.271,0.359,117.13,4,romance
+0V1knFOy5e7XcwUgPxONnz,Klavdiya Shulzhenko,Wartime Songs,My Iz Odessy Moryaki,5,167080,False,0.428,0.326,11,-15.124,0,0.14,0.978,0.0157,0.787,0.696,117.547,4,romance
+5DJmCKCL6UKRdgZeScZqsw,Gruppa Express,"Застольные песни, Ч. 2","Верила, верила, верю",7,250000,False,0.648,0.695,7,-4.327,0,0.0258,0.313,0.0,0.189,0.657,104.961,3,romance
+055xoYPMw5bQYFxlbBZ123,Gruppa Express,Застольные песни,Ромашка белая,7,292720,False,0.763,0.624,6,-5.441,0,0.0294,0.599,0.0,0.323,0.883,109.994,3,romance
+61mo3ClxUEGhybxs6tJOGC,Ivan Rebroff,Ah ! Si j'étais riche...,"Pojedu, wjedu ja wo liosotschek",7,185306,False,0.278,0.495,9,-9.6,0,0.0384,0.921,0.141,0.749,0.838,86.124,3,romance
+5I4zjx5lfVZ7QMhdc7SPg7,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Die Nachtigall,5,209573,False,0.227,0.402,9,-10.876,0,0.0368,0.75,0.251,0.264,0.154,89.8,4,romance
+2DKNDdhOZHz81vKsFv3nGs,Ivan Rebroff,"Top 101 Wir Singen Deutsch, Vol. 3",Mutters Hände,5,176699,False,0.286,0.391,5,-10.753,0,0.0408,0.509,0.0561,0.295,0.364,80.274,4,romance
+3J8sFOJsRpc6ANr7xIkg3G,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Zwei Gitarren,6,199840,False,0.323,0.422,2,-9.726,0,0.0355,0.631,0.00194,0.171,0.36,94.086,4,romance
+214SqfOuNH1DmRYjuIg0UP,Lyudmila Zykina,Созвездье Гагарина (1958 - 1962),Течет река Волга,22,343746,False,0.248,0.323,2,-11.464,0,0.0356,0.931,0.0,0.206,0.182,94.393,4,romance
+70ToSMETBlQ5U7VVqP4n7b,Maya Kristalinskaya,Velikie ispolniteli Rossii XX veka: Mayja Kristalinskaja,Nezhnost',26,173992,False,0.287,0.373,0,-8.807,0,0.0294,0.945,0.00052,0.12,0.241,109.613,3,romance
+2Bxnegx80xKOmJ2bq14ed6,Georgi Vinogradov,В городском саду,Счастье моё,22,169779,False,0.451,0.274,10,-10.087,0,0.0369,0.986,1.93e-05,0.623,0.733,117.365,4,romance
+5LlhHG57NwQp91aOygFDe4,Vladimir Troshin,14 минут до старта,До завтра,24,143307,False,0.423,0.445,7,-13.232,0,0.0334,0.982,0.319,0.115,0.36,103.213,3,romance
+4Uf7jatoO8hJm2AGweszkn,Vika Tsyganova,Золотые Хиты,Приходите В Мой Дом,31,211653,False,0.626,0.692,4,-6.58,0,0.0449,0.421,0.0,0.541,0.826,86.731,4,romance
+4YuzJpVYs3zc6aMugBLQNn,Vladimir Troshin,Песни из военных кинофильмов,"Бьют свинцовые ливни - Из к/ф ""Неуловимые мстители""",23,94850,False,0.482,0.316,1,-11.749,0,0.042,0.926,4e-05,0.171,0.484,84.796,4,romance
+70tpfY2mt3i1aqTzhvljAN,Maya Kristalinskaya,Знакомая песенка. Дискотека СССР,"Еду я - Из к/ф ""Лушка""",5,140773,False,0.522,0.321,5,-11.632,0,0.138,0.936,0.0,0.0937,0.718,167.36,4,romance
+6LkiV1Z0Y0aRfpysElluac,Ivan Rebroff,Ah ! Si j'étais riche...,Hava naguila,26,171400,False,0.385,0.699,4,-12.012,1,0.323,0.658,0.000517,0.0548,0.412,154.782,4,romance
+2HlRchPMfKciNHFhWKFZYz,Valery Obodzinsky,Среди Миров,Золото Маккены,5,280640,False,0.539,0.583,0,-8.947,1,0.0294,0.0188,0.000179,0.0763,0.173,105.609,4,romance
+65yOmsCfT6sxIDroEULeg6,Rashid Beibutov,Ayrılıq,Ha Bu Diyar - Türk Xalq Mahnısı,4,79373,False,0.637,0.4,11,-12.446,1,0.157,0.979,0.00265,0.264,0.922,125.024,4,romance
+3S89XfLhhfiQVyOBencMvY,Klavdiya Shulzhenko;Борис Мандрус;Евгений Выставкин;Геннадий Мельников;Юрий Мухин;Владимир Флоря;Владимир Свешников,Священная война,Давай закурим,5,160266,False,0.456,0.196,9,-14.636,0,0.0363,0.962,0.0007,0.0848,0.427,116.572,4,romance
+7hVfHx6EnGhIwan7ZkqDcq,Vladimir Troshin,Подмосковные вечера (Имена на все времена),"Скажите, почему",6,258265,False,0.39,0.343,9,-11.697,0,0.0348,0.74,8.75e-05,0.0766,0.475,115.409,4,romance
+6MkE3SILGFHo1J5fmp2IKH,Valery Obodzinsky;Оркестр п/у Вадима Людвиковского,Летняя Мелодия,Карнавал,6,184816,False,0.411,0.359,9,-14.67,0,0.0914,0.259,0.0,0.188,0.285,90.077,4,romance
+3VzRzk5lRmIGMoqAvNIMeM,Lyudmila Zykina,Народные песни,"Ах, всю ночь я прогуляла",5,197786,False,0.245,0.417,10,-9.547,0,0.048,0.976,7.65e-05,0.231,0.162,93.842,4,romance
+3g5I7Ds0ij65eiDQxvmFDA,Zhanna Bichevskaya,"Золотые хиты, Ч. 1",Как служил солдат,5,353626,False,0.459,0.122,10,-16.575,0,0.0333,0.951,0.00112,0.333,0.225,101.401,4,romance
+2TIRn8YjqTrkAHm5CGHinV,Vika Tsyganova;Mikhail Krug,Михаил Круг (Альбом памяти 55),Приходите в мой дом,6,222281,False,0.667,0.742,2,-5.877,0,0.0455,0.212,2.18e-05,0.577,0.628,80.002,4,romance
+3SbiN8NB09ijMRSnVzMpxS,Klavdiya Shulzhenko,Клавдия Шульженко. 20 лучших песен,Синий платочек,6,170520,False,0.371,0.138,9,-19.114,0,0.0627,0.99,0.000315,0.0764,0.381,93.521,4,romance
+0mgDUPhlemo6omMEvI4T5Q,Valery Obodzinsky,Эти Глаза Напротив,Луна,5,199306,False,0.391,0.388,2,-7.627,0,0.0279,0.937,0.00754,0.178,0.376,104.527,4,romance
+2qTm47U2WpWT3hFQog59sq,Lyudmila Zykina,Velikie ispolniteli Rossii XX veka: Ljudmila Zykina,Podari mne platok,5,202427,False,0.382,0.171,0,-14.448,0,0.0497,0.974,0.0,0.103,0.13,79.354,3,romance
+0yg8hDoQRlwME53oinL1c5,Georgi Vinogradov,Velikie ispolniteli Rossii XX veka: Luchshie tango i fokstroty,Ljublju,6,176390,False,0.56,0.298,9,-12.286,0,0.0362,0.903,0.000248,0.661,0.604,115.61,4,romance
+3xJpTAqCbGL6ibOFpsQEJR,Zhenya Shevchenko,Очи черные,Очи черные,6,240066,False,0.355,0.469,0,-14.337,0,0.0888,0.784,0.0,0.0602,0.449,88.626,1,romance
+4BxiEpXb9sQjOGkMmglxCG,Zhanna Bichevskaya,"Золотые хиты, Ч. 1",Донская баллада,7,193586,False,0.454,0.28,0,-10.789,1,0.0453,0.879,0.0,0.111,0.563,129.936,3,romance
+5QrunUPFhpINfLWcR3yTV3,Feodor Chaliapin,Classics,Ochi Chernye,5,212013,False,0.387,0.237,5,-11.743,0,0.0432,0.995,9.6e-05,0.11,0.26,85.038,4,romance
+48jLTrztC0Zdqm5L14sA7d,"Pyotr Leshchenko;Оркестр ""Беллаккорд""",Утомлённое солнце,Моя Марусечка,6,149240,False,0.738,0.428,4,-10.585,0,0.0627,0.963,3.69e-05,0.315,0.914,131.584,4,romance
+2gFrejz48wRgBnBQVixUNO,Rashid Beibutov,Qalalıyam Qalalı (Azərbaycan Xalq Mahnıları),Girdim Yarın Bağçasına,5,201200,False,0.361,0.169,11,-13.005,0,0.0344,0.989,0.000171,0.0933,0.198,109.309,3,romance
+4NBDdJ7xivIwa8pmXtBNxw,Ivan Rebroff,Best of Ivan Rebroff (18 Hits),Patrouille des cosaques,28,165760,False,0.389,0.5,4,-11.65,0,0.0385,0.864,0.098,0.0718,0.216,136.433,4,romance
+47TJU5k15S4pZ2RlVItQEB,Zhanna Bichevskaya;Gennadiy Ponomarjov,Господа офицеры,Всё теперь против нас,5,237174,False,0.437,0.309,6,-11.948,0,0.0318,0.908,0.0,0.0937,0.255,93.147,4,romance
+0Tc5vY7doZgGwgLsFTH75A,Zhanna Bichevskaya,По диким степям Забайкалья,Молитва Франсуа Вийона,5,280680,False,0.373,0.253,4,-10.953,0,0.0281,0.926,0.0,0.113,0.213,99.106,3,romance
+4SI2hcE3BdbW3cg2AwT8Wn,Zhanna Bichevskaya,"Золотые хиты, Ч. 1",Бродяга,6,304413,False,0.428,0.253,7,-11.886,1,0.0276,0.891,0.00138,0.114,0.28,93.329,3,romance
+2nnPeoDFZh7RkNE7mPX0Xu,Zhanna Bichevskaya,"Bozhe, khrani svoikh",Pobeda budet za nami,6,226441,False,0.409,0.699,8,-4.151,0,0.0426,0.151,0.0,0.154,0.779,123.062,4,romance
+0CB0rzxGjwSjrnNgR0Aeh6,Vladimir Troshin,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",They Should Not Be Disturbed,5,161866,False,0.456,0.112,7,-20.62,0,0.0436,0.941,0.0017,0.129,0.33,89.011,4,romance
+0j4QiBQEv9EsxFpYvlcijB,Zhanna Bichevskaya,"Ljubo, brattsy, ljubo...","Ne nado grustit', gospoda ofitsery",7,230404,False,0.396,0.345,6,-12.72,0,0.0301,0.858,0.0,0.0896,0.347,97.926,3,romance
+42mctMjn0xdgn2sQSuuT2T,Vladimir Troshin,"Moscow Nights: Popular Russian Hits, Vol. 1 (CD edition)",The Night Trolley,7,229133,False,0.274,0.113,9,-21.097,0,0.0384,0.878,1.07e-06,0.136,0.299,74.519,4,romance
+2VncmhVohf0gU3ItvOy2Ao,Pyotr Leshchenko,Russian Popular Music in 78 Rpm Recordings / Pyotr Leshchenko,Katja katja - Foxtrot (1937),5,155386,False,0.696,0.545,0,-6.597,0,0.0448,0.983,0.0547,0.0739,0.909,128.634,4,romance
+3iXckjcziBevm1gZSBU3EK,Zhanna Bichevskaya,"Zhanna Bichevskaja poet pesni Ieromonakha Romana, Ch. 1",Rodnik,6,258481,False,0.383,0.473,5,-7.25,0,0.0283,0.808,1.46e-06,0.089,0.428,101.993,3,romance
+1mhSD2bznRpqfGtutowUnN,Zhanna Bichevskaya,"Ljubo, brattsy, ljubo...","Bozhe, tsarja khrani",6,109459,False,0.494,0.296,5,-10.868,1,0.0258,0.669,3.34e-06,0.662,0.636,100.053,4,romance
+65QUntRawicC44aM0M6bGr,Zhanna Bichevskaya,"Starye russkie narodnye derevenskie i gorodskie pesni, Ch. 1",Brodjaga,7,229324,False,0.397,0.358,3,-9.399,1,0.0302,0.827,0.0,0.0872,0.317,107.248,3,romance
+7kAghH1NK3QdwwdCX0PM8d,Zhanna Bichevskaya,"Starye russkie narodnye derevenskie i gorodskie pesni, Ch. 1",Svetit mesjats,4,183606,False,0.484,0.29,6,-11.357,1,0.0408,0.828,0.000147,0.0913,0.693,118.9,4,romance
+4slCqtSxGmf9P7NGb3EBC6,Ivan Rebroff,Ah ! Si j'étais riche...,Amazing Grace,5,197640,False,0.162,0.31,0,-13.129,1,0.0328,0.694,0.553,0.307,0.304,143.876,3,romance
+0Wium78nYXiKpv1sq7vebf,Ivan Rebroff,Ah ! Si j'étais riche...,Matuschka,5,183320,False,0.336,0.453,0,-10.27,1,0.038,0.95,0.155,0.139,0.599,142.204,5,romance
+2zPltdq6S0CXXRGEwEHOsX,Zhanna Bichevskaya,Liricheskie pesni: Ognei tak mnogo zolotykh...,"Kazach'ja pritcha (Oy, to ne vecher...)",5,170110,False,0.366,0.279,9,-9.471,0,0.0309,0.917,1.09e-05,0.107,0.354,146.188,4,romance
+5yEBUT9wy2HGMq5JULX448,Ivan Rebroff,Ah ! Si j'étais riche...,La paloma,7,206026,False,0.416,0.45,7,-10.615,1,0.0339,0.766,0.00035,0.21,0.573,107.219,4,romance
+4kC9ZAFzi5xWmTyWnf9QRJ,Ivan Rebroff,Ah ! Si j'étais riche...,Wnispo matuschkje,7,143240,False,0.157,0.314,2,-14.837,0,0.0437,0.994,0.418,0.162,0.112,166.358,1,romance
+50iSfXTCiO4Ao6IlsXW2uS,Ivan Rebroff,Paulus Oratorium II (Komm herüber und hilf uns),Glaube an den Herrn Jesus Christus,7,251200,False,0.222,0.277,2,-13.319,1,0.032,0.975,0.00474,0.114,0.336,145.672,1,romance
+4Ll2ZctybNQXBCLc0Hm9ro,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Along the Volga,7,214053,False,0.327,0.476,10,-10.821,1,0.0429,0.972,0.0516,0.163,0.38,120.031,4,romance
+788lQuTF4znc74FwkK9nDw,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Moldarian Suite,6,179466,False,0.39,0.435,10,-11.922,1,0.0385,0.877,8.63e-05,0.0766,0.511,124.938,3,romance
+1efPTD5RuhPw9jYKYapWQh,Ivan Rebroff;Balalaika-Ensemble Troika,Ivan Rebroff Sings Folk Songs from Old Russia,Stenka Rasin,5,192146,False,0.176,0.472,4,-10.043,1,0.047,0.984,0.215,0.383,0.375,78.791,5,romance
+6rWCSHQttLBmqya9kipVp4,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Roter Wein,6,198466,False,0.212,0.334,0,-10.036,1,0.0321,0.845,0.0,0.0704,0.421,74.815,3,romance
+0fh3doIpaDLP4HUen2tzjp,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Plaisir D'Amour,6,217946,False,0.165,0.4,3,-11.014,1,0.0311,0.742,0.498,0.295,0.157,90.195,3,romance
+4uhXNrkG0AracXFVNpEcde,Ivan Rebroff,Erinnerungen an seine großen Erfolg,Mitternacht in Moskau,6,265693,False,0.208,0.424,9,-10.021,0,0.0336,0.781,0.00931,0.153,0.284,107.697,4,romance
+4Vd9TNus4Al9GksXQeL7LR,Rashid Beibutov,Ayrılıq,Ayrılıq,30,288760,False,0.228,0.394,2,-10.976,1,0.0399,0.924,0.0012,0.37,0.437,166.855,3,romance
+3sFb9wmlGaj6M8T64p59v1,Rashid Beibutov,Qalalıyam Qalalı (Azərbaycan Xalq Mahnıları),Qalalı,7,190533,False,0.585,0.397,0,-12.943,1,0.064,0.92,0.000227,0.3,0.756,69.471,4,romance
+5BYVRJ9192EO2APrje49ch,Rashid Beibutov,Bahar Sənsiz,Bahar Sənsiz,7,397093,False,0.378,0.234,11,-12.34,0,0.0408,0.991,0.0289,0.115,0.143,125.034,3,romance
+77vfqNV4d4xFYJdphTd8rS,Rashid Beibutov,Azerbyjan,Ghala,6,120764,False,0.583,0.21,7,-14.226,0,0.0315,0.97,0.000184,0.143,0.501,100.195,4,romance
+6w7p9tBLpzRR6DAizEWQg0,Igor Talkov,Легенды всех времен - Игорь Тальков,Россия,5,471771,False,0.527,0.21,7,-19.687,0,0.033,0.861,0.394,0.106,0.0457,105.347,4,romance
+1rLBRiCpwMRafxSwkGkbe5,Valery Obodzinsky,Мы от любви зависим,Дождь и я,7,225906,False,0.46,0.287,5,-13.488,0,0.0541,0.822,0.0,0.0687,0.668,85.614,4,romance
+4KVXFZQ0SAd6Rx9n1t0Evg,Igor Talkov,Легенды всех времен - Игорь Тальков,Памяти Виктора Цоя,6,298031,False,0.553,0.527,9,-10.798,0,0.0263,0.236,0.0468,0.0862,0.311,169.638,4,romance
+3P0X3hU3NF6Hj5TL6z8OPR,Rashid Beibutov,Lab Larr,Chopan Ghara,6,221622,False,0.253,0.309,0,-8.207,1,0.0399,0.991,0.366,0.103,0.2,66.732,4,romance
+1x9tZ4qrRHWORqZ6X69WEi,Valery Obodzinsky,Velikie ispolniteli Rossii XX veka. Valeriy Obodzinskiy,Eti glaza naprotiv,27,210093,False,0.487,0.526,8,-5.177,1,0.0312,0.819,4.77e-05,0.164,0.545,111.197,4,romance
+1DalmuFDWNUda9n72RX8VV,Igor Talkov,Лучшие песни часть 1,Люди с забинтованными лбами,7,376952,False,0.517,0.629,9,-6.939,0,0.0333,0.469,0.000789,0.535,0.649,77.827,4,romance
+3nZWNQGaGg6le3Q4LJKwfC,Valery Obodzinsky,Эти Глаза Напротив,Первое Апреля,5,228586,False,0.424,0.348,2,-13.686,0,0.0609,0.851,0.0,0.0966,0.538,76.512,4,romance
+78LFKyCWZXJU96MEvKIUVz,Rashid Beibutov,Lab Larr,Azarbaejan,7,209920,False,0.358,0.366,5,-7.006,0,0.0335,0.97,0.00309,0.369,0.631,72.329,4,romance
+3wpQyLcfMcAWQrDkaI8siI,Igor Talkov,Легенды всех времен - Игорь Тальков,Ностальгия,6,324310,False,0.503,0.405,7,-13.706,0,0.0416,0.371,0.000873,0.15,0.419,129.0,3,romance
+1AuBpin6OF7zskX2zOcNYg,Rashid Beibutov,Arshin Mul Ullun,Kahlik,7,150099,False,0.446,0.13,0,-14.682,1,0.0538,0.995,0.00826,0.0826,0.324,64.172,4,romance
+1u8FVpugCoTfwuAcYESZe6,Rashid Beibutov,Arshin Mul Ullun,Hasrat(gizil Deglama),6,214752,False,0.268,0.142,4,-10.601,1,0.0343,0.987,0.0,0.175,0.253,70.684,4,romance
+2PQv9yXQirVnjaoNjRsvhy,Rashid Beibutov;Traditional,Džan Azerbajdžan!,Èvleri var hana-han,7,177626,False,0.462,0.292,5,-9.773,0,0.0291,0.985,0.183,0.202,0.553,81.529,4,romance
+2u39mmThiWBZdffOKxqWql,Valery Obodzinsky,Мы от любви зависим,Прощание с любимой,5,174184,False,0.584,0.266,7,-18.461,0,0.0423,0.48,0.00149,0.144,0.641,105.18,4,romance
+5UHkPmuKCzOBCIWfpk7b2c,Igor Talkov,Лучшие песни часть 2,Ностальгия,5,320266,False,0.544,0.412,7,-11.749,0,0.0357,0.433,0.00374,0.0826,0.438,128.993,3,romance
+05ORVcRHPhRgtgHCDku3lz,Igor Talkov,Лучшие песни часть 2,Маленькая планета,5,288148,False,0.749,0.57,9,-9.436,0,0.11,0.434,1.24e-06,0.367,0.911,132.646,4,romance
+2HanDMZaOnhYZGIwdZu2Pj,Alexander Vertinsky,Песни о любви,Бразильский крейсер,3,157000,False,0.613,0.0523,1,-16.987,1,0.114,0.982,0.000232,0.112,0.57,137.728,4,romance
+5w5GkinPYAWpmEdQjFiigv,Igor Talkov,Легенды всех времен - Игорь Тальков,Чистые пруды,6,446040,False,0.359,0.457,2,-9.294,0,0.0295,0.782,5.48e-06,0.214,0.386,129.681,4,romance
+3hTIkn1OcAfvddP18krjr6,Igor Talkov,Лучшие песни часть 2,Замкнутый круг,5,370451,False,0.826,0.359,9,-11.027,0,0.0544,0.797,6.26e-06,0.088,0.677,124.202,4,romance
+2y0j1rGWpEa6JI23iABu3r,Rashid Beibutov,Arshin Mul Ullun,Baku,6,225515,False,0.417,0.272,0,-10.697,1,0.0313,0.982,0.000935,0.229,0.162,61.893,3,romance
+1RTNUU0YYocc0YwoLkEMq6,Николай Рыбников,4 ноября. День народного единства,"Марш высотников - Из к/ф ""Высота""",0,53472,False,0.653,0.466,5,-9.439,1,0.0666,0.748,3.96e-05,0.322,0.882,121.245,4,romance
+3J4hiQsMvNGbgx9TndlQcU,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Two Women,4,151560,False,0.679,0.175,5,-17.052,1,0.111,0.955,0.000158,0.101,0.646,124.477,4,romance
+0xCnwK4oewiyRMMM1QXR3d,Rashid Beibutov,Azerbyjan,Soda (Torkey Estanboli),5,262295,False,0.551,0.494,9,-11.164,1,0.0496,0.938,0.000934,0.339,0.592,118.149,4,romance
+0wgC0qJgCGHdA5H8bauIK7,Mikhail Vavich,"Russkie narodnye pesni, Ch. 1",Jablochko,0,163083,False,0.715,0.491,11,-5.705,0,0.133,0.993,0.0099,0.222,0.811,113.385,4,romance
+6sSFydXXbEIaqR4n3XUQuz,Nikolai Erdenko,Шедевры цыганской песни. Знаменитые цыганские песни,"О, день",1,156000,False,0.308,0.483,10,-15.63,1,0.0742,0.854,0.017,0.423,0.687,91.738,4,romance
+4mMc59faBJp2jc3XWfkjSg,Igor Talkov,I Will Return,Summer Rain,5,519131,False,0.648,0.436,2,-11.607,0,0.0272,0.758,0.00226,0.332,0.49,109.631,4,romance
+6hb6tZMwumbYoXVxwEsWRk,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Ja segodnja smejus' nad soboy,2,168189,False,0.496,0.0237,4,-17.939,0,0.0747,0.992,4.63e-05,0.101,0.117,100.566,3,romance
+3kr9Ok89KUZsSi5jxC0rUw,Vadim Kozin,Вадим Козин. 20 золотых песен,Тучи над городом встали…,1,157000,False,0.383,0.242,2,-14.344,0,0.118,0.996,0.0709,0.372,0.72,175.607,4,romance
+3yavilApCRUIKYkIuX8DDk,Валерий Агафонов,Вам девятнадцать лет…,Глядя на луч пурпурного заката,0,201533,False,0.309,0.143,4,-18.305,0,0.0535,0.955,0.111,0.107,0.0632,174.026,4,romance
+2jQbiFdf25wYRHcq0JiWRR,"Группа ""Загадка""",Золотая коллекция эстрады. Сиреневый туман,Люблю (Вдыхая розы аромат),1,115706,False,0.621,0.233,7,-8.939,0,0.0696,0.889,2.41e-06,0.13,0.636,127.273,3,romance
+0v69V191z2ToywmtP3fgbK,Oleg Pogudin,Русское танго,Моё последнее танго,0,214954,False,0.416,0.28,6,-8.824,0,0.0335,0.825,1.39e-05,0.241,0.436,127.723,4,romance
+3HNugqbo2Y6WBtyMGuWZ1l,Александр Добронравов,Юбилейный концерт. Vegas City Hall (Live),Одинокая волчица - Live,0,263124,False,0.334,0.778,9,-7.268,0,0.078,0.196,0.0,0.667,0.562,79.021,3,romance
+5ugEAELzfwf3k07D3e1WNN,Владимир Бунчиков,Севастопольский Вальс (1943 - 1961),"Шумит волна, звенит струна",0,168923,False,0.346,0.303,4,-13.245,0,0.0362,0.961,5.55e-06,0.114,0.531,162.172,3,romance
+5mplGTxbzVHglczrA1l9qG,Sergei Lemeshev,Любимые русские романсы,Выхожу один я на дорогу,0,258324,False,0.304,0.44,4,-8.486,0,0.0566,0.957,0.0,0.687,0.243,92.928,3,romance
+1C3yze5JZ5Frb0m1XBgYHT,Алёша Димитриевич,Эмигрантское танго. Два концерта. Часть первая,Я милого узнаю по походке,0,176453,False,0.456,0.44,7,-14.748,1,0.24,0.905,0.00579,0.73,0.619,181.242,4,romance
+2Cew3GkK398ens1KADbLJo,Vadim Kozin;Jazz Orchestra E.Kemper,"Soviet Retro Jazz Collection (1939-1945), Vol.5",Again I Sing,0,191007,False,0.286,0.229,3,-13.032,1,0.0519,0.995,0.166,0.123,0.496,171.952,3,romance
+2QJmvhnhah2pOFvzJGg7Ro,Alla Bayanova;Давид Ашкенази;Геннадий Разуваев,Алла Баянова: И льётся песня,Я любовь не сберегла,1,175360,False,0.35,0.091,9,-15.221,0,0.0393,0.939,2.12e-06,0.0979,0.227,152.065,4,romance
+7zkgAyL3DS6PE5FWzk3QKM,Vladimir Nechaev,Душевные песни из советских кинофильмов,"Ты рядом со мной - Из к/ф ""Наши соседи""",1,207438,False,0.336,0.315,2,-10.006,0,0.0312,0.875,4.08e-06,0.426,0.454,147.996,3,romance
+0L7Rum7hF3qOvLZVMrEawY,Rashid Beibutov;Traditional,Baku gözel çeher,Qalanin dibinde,5,119586,False,0.586,0.189,10,-13.849,1,0.0303,0.979,5.63e-05,0.122,0.653,99.433,4,romance
+6xOrcNSwc9pnCcMYJjc4rn,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,Хотел бы в единое слово,0,121893,False,0.421,0.0908,7,-19.422,0,0.0459,0.979,0.0,0.0836,0.231,93.656,4,romance
+1zN6E83l8cwgDlxNhxPAUz,Oleg Pogudin,The Best Songs,Побудь со мной,1,165533,False,0.401,0.076,6,-17.782,0,0.0436,0.938,6.8e-06,0.123,0.122,69.474,3,romance
+7Ia6RT3vYcOcHbk4UhT98f,Oleg Pogudin,The Best Songs,Элегия,0,238026,False,0.333,0.179,2,-17.55,0,0.0468,0.904,0.00188,0.448,0.117,66.169,4,romance
+2nVL8B8ad5rJZGBRuVIKtR,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Лучшие цыганские песни,Ехали цыгане,0,106253,False,0.395,0.438,0,-17.157,0,0.0499,0.645,0.0,0.257,0.533,129.316,4,romance
+52bUdXFG2PVdsO64ylVNyx,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Ochi chjornye,1,274602,False,0.303,0.564,0,-11.823,0,0.0546,0.884,6.31e-05,0.215,0.317,122.517,4,romance
+3wty3BBEsbk8zj92IPQ9NO,Nikolai Erdenko,Шедевры цыганской песни. Знаменитые цыганские песни,На траве туман,0,317786,False,0.287,0.261,7,-18.994,0,0.0455,0.776,0.0519,0.0973,0.146,140.712,4,romance
+0gmV4mbtJsmveGlVAdLGho,Nikolai Erdenko;Nikolai Erdenko Gypsy Band,The Famous Songs of Russian Gypsies,"Oj, rucheek, rucheek (A Brook): Rucheek (A Brook)",1,153280,False,0.36,0.815,2,-12.779,1,0.146,0.46,0.0,0.365,0.439,122.176,4,romance
+0egeqq8xpExQHfPNuXfNfD,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Volume 1",Ogonyok,0,181800,False,0.433,0.307,10,-14.509,1,0.0475,0.992,0.174,0.2,0.536,127.73,4,romance
+3J4hiQsMvNGbgx9TndlQcU,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Two Women,4,151560,False,0.679,0.175,5,-17.052,1,0.111,0.955,0.000158,0.101,0.646,124.477,4,romance
+6sSFydXXbEIaqR4n3XUQuz,Nikolai Erdenko,Шедевры цыганской песни. Знаменитые цыганские песни,"О, день",1,156000,False,0.308,0.483,10,-15.63,1,0.0742,0.854,0.017,0.423,0.687,91.738,4,romance
+5MNxzyo5mrSoy3UkL9wbvT,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Brich-Mulla,4,283872,False,0.74,0.23,0,-13.538,0,0.127,0.837,0.0,0.0949,0.765,133.99,4,romance
+4J7zZIHzS3SJW3W4A0Cy5V,Владимир Бунчиков,Зимнее утро (1936 - 1958),Бескозырка,0,272043,False,0.543,0.334,8,-14.887,1,0.0662,0.835,0.0,0.179,0.598,112.454,4,romance
+1RTNUU0YYocc0YwoLkEMq6,Николай Рыбников,4 ноября. День народного единства,"Марш высотников - Из к/ф ""Высота""",0,53472,False,0.653,0.466,5,-9.439,1,0.0666,0.748,3.96e-05,0.322,0.882,121.245,4,romance
+0wgC0qJgCGHdA5H8bauIK7,Mikhail Vavich,"Russkie narodnye pesni, Ch. 1",Jablochko,0,163083,False,0.715,0.491,11,-5.705,0,0.133,0.993,0.0099,0.222,0.811,113.385,4,romance
+31V8fcY1mQGjqDIrFSNy2w,Александр Цфасман;Павел Михайлов,Избранное,Тебя здесь нет,0,177240,False,0.473,0.224,4,-15.187,0,0.0389,0.977,0.0383,0.128,0.571,124.432,4,romance
+5mplGTxbzVHglczrA1l9qG,Sergei Lemeshev,Любимые русские романсы,Выхожу один я на дорогу,0,258324,False,0.304,0.44,4,-8.486,0,0.0566,0.957,0.0,0.687,0.243,92.928,3,romance
+51QhZPWIe5gD5PgSV7luyl,Александр Цфасман;Вокальное Трио,Я люблю танцевать,Мечты,0,170893,False,0.373,0.14,5,-20.719,0,0.0506,0.976,0.367,0.156,0.226,117.624,3,romance
+10BRrgj7EQYj66xWJWsrNb,Владимир Бунчиков,"Песни войны, песни Победы, часть 1",Голубой конверт,0,210589,False,0.287,0.421,7,-7.08,0,0.0312,0.989,0.179,0.116,0.292,133.01,3,romance
+1JQTwfCws0BKFmFfaKaMs9,Валерий Агафонов,Ещё не раз вы вспомните меня,Мы вышли в сад,0,144146,False,0.322,0.119,5,-18.609,1,0.039,0.969,0.296,0.111,0.196,167.016,4,romance
+3yavilApCRUIKYkIuX8DDk,Валерий Агафонов,Вам девятнадцать лет…,Глядя на луч пурпурного заката,0,201533,False,0.309,0.143,4,-18.305,0,0.0535,0.955,0.111,0.107,0.0632,174.026,4,romance
+6hb6tZMwumbYoXVxwEsWRk,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Ja segodnja smejus' nad soboy,2,168189,False,0.496,0.0237,4,-17.939,0,0.0747,0.992,4.63e-05,0.101,0.117,100.566,3,romance
+2jQbiFdf25wYRHcq0JiWRR,"Группа ""Загадка""",Золотая коллекция эстрады. Сиреневый туман,Люблю (Вдыхая розы аромат),1,115706,False,0.621,0.233,7,-8.939,0,0.0696,0.889,2.41e-06,0.13,0.636,127.273,3,romance
+2QJmvhnhah2pOFvzJGg7Ro,Alla Bayanova;Давид Ашкенази;Геннадий Разуваев,Алла Баянова: И льётся песня,Я любовь не сберегла,1,175360,False,0.35,0.091,9,-15.221,0,0.0393,0.939,2.12e-06,0.0979,0.227,152.065,4,romance
+4O37j52pcr7FkAqdzjSl0L,"Группа ""Загадка""",20 морских песен,Кораблик (Я мечтала о морях и кораллах),1,143200,False,0.716,0.218,4,-10.672,0,0.0468,0.908,1.77e-06,0.0969,0.623,115.061,4,romance
+77b3gvoo5Hr2QBCAOrFLKb,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),Мы - молодые (Марш советской юности),0,173776,False,0.605,0.416,7,-13.705,0,0.0556,0.983,1.61e-05,0.796,0.524,117.597,4,romance
+5ugEAELzfwf3k07D3e1WNN,Владимир Бунчиков,Севастопольский Вальс (1943 - 1961),"Шумит волна, звенит струна",0,168923,False,0.346,0.303,4,-13.245,0,0.0362,0.961,5.55e-06,0.114,0.531,162.172,3,romance
+2nVL8B8ad5rJZGBRuVIKtR,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Лучшие цыганские песни,Ехали цыгане,0,106253,False,0.395,0.438,0,-17.157,0,0.0499,0.645,0.0,0.257,0.533,129.316,4,romance
+2bKwMCgSPNmR0gU31ZKX79,Oleg Pogudin,Я сохраню слова любви,Побудь со мною,2,166693,False,0.261,0.0452,6,-21.244,0,0.0429,0.935,1.71e-06,0.211,0.131,79.371,3,romance
+6x5sUSnjTj5pqOMEMbIhj8,Алёша Димитриевич,"Шедевры русской эстрады. Мама, я жулика люблю",Я милого узнаю по походочке,0,162186,False,0.484,0.391,7,-14.147,1,0.123,0.92,0.00673,0.203,0.577,181.397,4,romance
+0UswNGtK684rqSxXFP18Uw,Vadim Kozin,Последний концерт,"Давно, давно я с Вами не был вместе",0,173693,False,0.518,0.0331,3,-22.008,1,0.093,0.994,0.0183,0.195,0.316,93.295,3,romance
+6HPb5fGZ8jtCwQv6zZjpBi,Yuri Morfessi,Прощай Москва,Как цветок душистый,0,168877,False,0.452,0.118,6,-15.773,0,0.0668,0.996,0.00167,0.211,0.451,85.342,4,romance
+52VSOpFbg4GBpPNNv4ulbP,"Группа ""Загадка""",20 золотых дворовых песен. Разлука,В больнице больная лежала,0,196280,False,0.363,0.154,2,-10.63,0,0.0319,0.901,0.0,0.14,0.411,143.521,3,romance
+7GMYzt2h1jUs3PNefSool2,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Laskovo vzgljani,0,164364,False,0.545,0.217,11,-14.524,0,0.0788,0.995,0.338,0.123,0.702,80.063,4,romance
+1aW7Cno3iDf1jIraOXLOKJ,Irina Karatcheva,Возвращение. русские романсы,В лунном сияньи,0,125406,False,0.388,0.0369,9,-21.176,0,0.047,0.984,0.0,0.115,0.385,98.997,3,romance
+4V1CEf4NktNY6CfHKBqSKy,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Kovyl',0,189653,False,0.502,0.0984,2,-15.272,0,0.0918,0.994,0.0128,0.127,0.48,64.687,4,romance
+4PgK8fATgvhMaJQ2IGOwAZ,"Группа ""Загадка""",Золотая коллекция эстрады. Маруся отравилась,Васильки,0,150400,False,0.557,0.187,9,-10.317,0,0.0387,0.904,0.0,0.138,0.811,102.337,3,romance
+7zkgAyL3DS6PE5FWzk3QKM,Vladimir Nechaev,Душевные песни из советских кинофильмов,"Ты рядом со мной - Из к/ф ""Наши соседи""",1,207438,False,0.336,0.315,2,-10.006,0,0.0312,0.875,4.08e-06,0.426,0.454,147.996,3,romance
+7dwSsdCOY36upP3jChvTIJ,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Chudo-chudesa,0,180950,False,0.596,0.302,10,-10.254,1,0.104,0.989,0.000277,0.0786,0.81,101.37,3,romance
+3Z86aT11fOYi5fNiUxwjgm,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Классика цыганской песни,Две женщины,0,240120,False,0.541,0.228,8,-20.177,0,0.0505,0.899,0.434,0.153,0.33,82.514,4,romance
+02MRylJ1WAgxzdqfNfdIsR,Oleg Pogudin,Любовь и разлука. Песни Исаака Шварца,"Город пышный, город бедный",0,114600,False,0.446,0.121,4,-12.737,0,0.0414,0.937,0.0,0.125,0.18,107.573,3,romance
+6xOrcNSwc9pnCcMYJjc4rn,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,Хотел бы в единое слово,0,121893,False,0.421,0.0908,7,-19.422,0,0.0459,0.979,0.0,0.0836,0.231,93.656,4,romance
+0hfSC2bvaClrHzAnwPk41Q,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть третья,Что делать,0,200293,False,0.36,0.141,4,-15.662,0,0.0292,0.938,0.000494,0.14,0.223,75.581,4,romance
+5ybfqo1EiDwIhOvzBfJwx4,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Vsegda i vezde za toboju,0,179229,False,0.38,0.137,4,-14.335,0,0.0528,0.989,0.00248,0.113,0.349,94.145,5,romance
+4HC6cDv1j6fpbQ6FOPGm7O,Valentina Ponomaryova;Ансамбль ударных инструментов Марка Пекарского;Сергей Скрипка;Государственный Симфонический оркестр кинематографии,Terra Incognita,The Cat that Walked by Himself: First Witchcraft. Dog,0,398200,False,0.34,0.168,1,-25.023,1,0.0895,0.599,0.0369,0.16,0.0372,95.744,4,romance
+3wty3BBEsbk8zj92IPQ9NO,Nikolai Erdenko,Шедевры цыганской песни. Знаменитые цыганские песни,На траве туман,0,317786,False,0.287,0.261,7,-18.994,0,0.0455,0.776,0.0519,0.0973,0.146,140.712,4,romance
+1zN6E83l8cwgDlxNhxPAUz,Oleg Pogudin,The Best Songs,Побудь со мной,1,165533,False,0.401,0.076,6,-17.782,0,0.0436,0.938,6.8e-06,0.123,0.122,69.474,3,romance
+6R0TQQtu4guq2l4p4LIuuC,Sergei Lemeshev,"Romansy: Gori, gori, moja zvezda…",Svidanie,0,196204,False,0.29,0.306,10,-9.223,0,0.053,0.986,3.76e-06,0.108,0.0618,76.443,4,romance
+2r6Jay01kQTR0ztlXQbxf3,Nadezhda Obukhova,"Romansy Rossii, Chast’ 2",Ja vnov' pred toboju,0,171335,False,0.405,0.0576,9,-15.525,0,0.0431,0.993,0.0,0.0966,0.105,69.88,5,romance
+3Q4cgQC7JgtXqDcwZJ29Pp,Nikolay Kopylov,"Глинка, Романсы",В Крови Горит Огонь Желанья,0,76946,False,0.411,0.443,8,-8.237,1,0.0367,0.987,0.0638,0.142,0.364,137.253,4,romance
+0gmV4mbtJsmveGlVAdLGho,Nikolai Erdenko;Nikolai Erdenko Gypsy Band,The Famous Songs of Russian Gypsies,"Oj, rucheek, rucheek (A Brook): Rucheek (A Brook)",1,153280,False,0.36,0.815,2,-12.779,1,0.146,0.46,0.0,0.365,0.439,122.176,4,romance
+2sWCKLm6qrQ4Hu6Lkrh2Xb,Nikolai Erdenko,Лучшая цыганская музыка. Часть четвертая,Солнышко,0,213720,False,0.264,0.167,7,-20.194,0,0.0354,0.943,0.517,0.29,0.108,109.73,3,romance
+1OZtXGoPN2deUyjKLbl6CW,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,"Okh, neprijatnost'",0,183072,False,0.334,0.357,9,-10.103,0,0.0305,0.984,0.0026,0.318,0.585,149.913,4,romance
+5saBHi3sDRRcrtLUC4zwuZ,Nikolai Erdenko,Шедевры цыганской музыки. Серебряная скрипка романса,Я Вас любил,0,199280,False,0.305,0.201,3,-13.253,1,0.036,0.926,0.265,0.17,0.04,102.865,5,romance
+6FkTSDv17BIUGGAQkS6CJX,Nadezhda Kazantseva;Viktor Smirnov;Bolshoi Theatre Orchestra,"Soviet Film Soundtracks (1928 - 1950), Volume 5","Song - From ""Spring Flow""",0,156431,False,0.48,0.222,8,-14.529,1,0.0544,0.991,0.000822,0.542,0.381,121.857,4,romance
+7x8eeMIQ7TRCa7p6HgkgNS,Oleg Pogudin,La serenata (Live),"Funiculì, funiculà (Live)",0,157893,False,0.565,0.604,3,-8.867,1,0.0716,0.733,0.00427,0.484,0.59,127.955,4,romance
+0egeqq8xpExQHfPNuXfNfD,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Volume 1",Ogonyok,0,181800,False,0.433,0.307,10,-14.509,1,0.0475,0.992,0.174,0.2,0.536,127.73,4,romance
+7gtO54x88Y7GhY0jHgiV6P,Gelena Velikanova,Первая встреча (2022 Remastered),До завтра - 2022 Remastered,0,204752,False,0.446,0.0714,2,-14.648,1,0.064,0.972,0.0228,0.0942,0.504,202.618,3,romance
+2CiemyCTNfoTqKHxzZIk0w,Gelena Velikanova,Первая встреча (2022 Remastered),Ты не все сказал - 2022 Remastered,0,187421,False,0.591,0.0729,9,-16.353,0,0.211,0.99,0.00206,0.191,0.336,108.008,4,romance
+4f7ScGcFtjjBLs35q4vfTH,Tatiana and Sergey Nikitin,The Blue Color Vol.2,No one will be in the house,3,125544,False,0.762,0.108,0,-21.761,0,0.196,0.93,0.0677,0.116,0.786,87.822,4,romance
+4v16scAVhylOWvkkcmd4DX,Izabella Yurieva,Счастье мое,"Саша, ты помнишь наши встречи?",1,188637,False,0.597,0.38,11,-9.514,0,0.0747,0.988,0.000231,0.194,0.732,103.193,4,romance
+5MNxzyo5mrSoy3UkL9wbvT,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Brich-Mulla,4,283872,False,0.74,0.23,0,-13.538,0,0.127,0.837,0.0,0.0949,0.765,133.99,4,romance
+7485lzxQ1okfLNPNe8rpXV,Vadim Kozin,Последний концерт,Над рекой,0,111346,False,0.653,0.0639,5,-21.565,0,0.0709,0.995,0.163,0.128,0.6,107.638,4,romance
+41wRhP83bDYvNx0l1n2JWk,Александр Цфасман;Леонид Кострица,Александр Цфасман и звёзды советской эстрады,Перелётные птицы,0,186827,False,0.628,0.361,5,-13.485,0,0.0563,0.982,0.136,0.109,0.898,115.423,4,romance
+31V8fcY1mQGjqDIrFSNy2w,Александр Цфасман;Павел Михайлов,Избранное,Тебя здесь нет,0,177240,False,0.473,0.224,4,-15.187,0,0.0389,0.977,0.0383,0.128,0.571,124.432,4,romance
+51QhZPWIe5gD5PgSV7luyl,Александр Цфасман;Вокальное Трио,Я люблю танцевать,Мечты,0,170893,False,0.373,0.14,5,-20.719,0,0.0506,0.976,0.367,0.156,0.226,117.624,3,romance
+6oUDN88DZ8XKIVDfJEyzkN,Галина Карева,Не пробуждай воспоминаний (Имена на все времена),"Уйди, совсем уйди",0,221120,False,0.371,0.148,7,-15.852,0,0.0558,0.945,0.0,0.113,0.225,166.279,3,romance
+4HlCz7PGRfUNZHgvTWI7th,Валерий Агафонов,За кордоном – любовь,Шарманщик,0,220480,False,0.433,0.15,9,-16.9,1,0.0437,0.958,0.077,0.107,0.115,139.806,4,romance
+5X7UA8fbdiFr9BgxhDeClb,Александр Добронравов,Лучшие песни,Ангел ЗЗЗ,0,264869,False,0.379,0.334,9,-7.474,0,0.0309,0.665,0.0,0.115,0.131,128.577,4,romance
+52VSOpFbg4GBpPNNv4ulbP,"Группа ""Загадка""",20 золотых дворовых песен. Разлука,В больнице больная лежала,0,196280,False,0.363,0.154,2,-10.63,0,0.0319,0.901,0.0,0.14,0.411,143.521,3,romance
+05WLq8RH59gRD3gMnmxUKb,Vadim Kozin,Романсы и таборные песни,В последний раз,0,183954,False,0.419,0.0273,5,-23.017,0,0.0469,0.991,0.00466,0.0592,0.0786,72.274,3,romance
+1aW7Cno3iDf1jIraOXLOKJ,Irina Karatcheva,Возвращение. русские романсы,В лунном сияньи,0,125406,False,0.388,0.0369,9,-21.176,0,0.047,0.984,0.0,0.115,0.385,98.997,3,romance
+4worcVBM2RyWpQIyE7hJj5,Oleg Pogudin,Юбилей,Ещё один романс,0,159720,False,0.403,0.328,0,-11.581,0,0.0481,0.867,0.0,0.11,0.198,87.821,3,romance
+1vNamT7fPcHPQdYCFMiXoI,Oleg Pogudin,Я сохраню слова любви,Дремлют плакучие ивы,1,177800,False,0.295,0.0736,2,-23.546,0,0.0416,0.886,0.0166,0.114,0.243,73.922,4,romance
+4V1CEf4NktNY6CfHKBqSKy,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Kovyl',0,189653,False,0.502,0.0984,2,-15.272,0,0.0918,0.994,0.0128,0.127,0.48,64.687,4,romance
+2abeQBWSIzjO8J1KrPFZHy,Oleg Pogudin,Русский романс. Часть I,Забыли вы…,0,190933,False,0.474,0.0538,7,-21.541,0,0.0488,0.912,0.0,0.0901,0.207,93.964,3,romance
+56ZB19eqTsiuSkAz5aQIuc,Vadim Kozin,Чудо-чудеса,Одевэс - Колечки бирюзовые,0,94410,False,0.62,0.213,5,-14.271,0,0.0773,0.993,0.0,0.179,0.569,102.123,4,romance
+22lPvFQRM48nDvv0ozgsMI,Oleg Pogudin,Любовь и разлука. Песни Исаака Шварца,Затихнет шрапнель,0,129653,False,0.583,0.318,6,-9.946,0,0.0461,0.719,0.0,0.12,0.586,106.209,4,romance
+0UswNGtK684rqSxXFP18Uw,Vadim Kozin,Последний концерт,"Давно, давно я с Вами не был вместе",0,173693,False,0.518,0.0331,3,-22.008,1,0.093,0.994,0.0183,0.195,0.316,93.295,3,romance
+7dwSsdCOY36upP3jChvTIJ,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Chudo-chudesa,0,180950,False,0.596,0.302,10,-10.254,1,0.104,0.989,0.000277,0.0786,0.81,101.37,3,romance
+3IMEE1Goc1XeMlWUlVMqWA,Yuri Morfessi,Очи чёрные,Дорогой длинною,0,169341,False,0.267,0.399,7,-8.025,0,0.0367,0.995,0.00348,0.151,0.345,80.067,4,romance
+7GMYzt2h1jUs3PNefSool2,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Laskovo vzgljani,0,164364,False,0.545,0.217,11,-14.524,0,0.0788,0.995,0.338,0.123,0.702,80.063,4,romance
+6x5sUSnjTj5pqOMEMbIhj8,Алёша Димитриевич,"Шедевры русской эстрады. Мама, я жулика люблю",Я милого узнаю по походочке,0,162186,False,0.484,0.391,7,-14.147,1,0.123,0.92,0.00673,0.203,0.577,181.397,4,romance
+1gXqg06Sc5301iRoKNhRRL,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Классика цыганской песни,У реки,0,134173,False,0.536,0.391,6,-17.031,1,0.0387,0.933,0.00462,0.15,0.82,154.325,4,romance
+3Q4cgQC7JgtXqDcwZJ29Pp,Nikolay Kopylov,"Глинка, Романсы",В Крови Горит Огонь Желанья,0,76946,False,0.411,0.443,8,-8.237,1,0.0367,0.987,0.0638,0.142,0.364,137.253,4,romance
+02MRylJ1WAgxzdqfNfdIsR,Oleg Pogudin,Любовь и разлука. Песни Исаака Шварца,"Город пышный, город бедный",0,114600,False,0.446,0.121,4,-12.737,0,0.0414,0.937,0.0,0.125,0.18,107.573,3,romance
+5ybfqo1EiDwIhOvzBfJwx4,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Vsegda i vezde za toboju,0,179229,False,0.38,0.137,4,-14.335,0,0.0528,0.989,0.00248,0.113,0.349,94.145,5,romance
+3R073bM874OdRBZvEPzY7N,Konstantin Pluzhnikov;Mr.Gr.Ig.Al.,Стаканчики гранёные (Cut Glasses),Андрюша (Andryusha),0,137200,False,0.525,0.434,6,-12.175,1,0.107,0.738,0.0,0.519,0.865,150.739,4,romance
+3Z86aT11fOYi5fNiUxwjgm,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Классика цыганской песни,Две женщины,0,240120,False,0.541,0.228,8,-20.177,0,0.0505,0.899,0.434,0.153,0.33,82.514,4,romance
+4HC6cDv1j6fpbQ6FOPGm7O,Valentina Ponomaryova;Ансамбль ударных инструментов Марка Пекарского;Сергей Скрипка;Государственный Симфонический оркестр кинематографии,Terra Incognita,The Cat that Walked by Himself: First Witchcraft. Dog,0,398200,False,0.34,0.168,1,-25.023,1,0.0895,0.599,0.0369,0.16,0.0372,95.744,4,romance
+2Pgc97g0nMT8zTtumxVrXv,Oleg Pogudin,Je chante,Tombe la neige,0,180316,False,0.417,0.2,10,-10.918,0,0.0363,0.933,0.0397,0.112,0.341,110.67,4,romance
+2r6Jay01kQTR0ztlXQbxf3,Nadezhda Obukhova,"Romansy Rossii, Chast’ 2",Ja vnov' pred toboju,0,171335,False,0.405,0.0576,9,-15.525,0,0.0431,0.993,0.0,0.0966,0.105,69.88,5,romance
+2sWCKLm6qrQ4Hu6Lkrh2Xb,Nikolai Erdenko,Лучшая цыганская музыка. Часть четвертая,Солнышко,0,213720,False,0.264,0.167,7,-20.194,0,0.0354,0.943,0.517,0.29,0.108,109.73,3,romance
+4EJPDUuKsCArRCvhDx2YW9,Nikolay Kopylov,"Петр Чайковский, Романсы","Благословляю Вас, Леса",0,241453,False,0.39,0.351,5,-11.02,1,0.039,0.989,0.000485,0.085,0.116,75.389,4,romance
+2xRdvPX2IrKELYj9WvshTp,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"No ja znaju, ty ljubish' drugogo",0,164000,False,0.488,0.156,0,-11.457,0,0.0922,0.981,0.00855,0.116,0.402,130.864,5,romance
+5saBHi3sDRRcrtLUC4zwuZ,Nikolai Erdenko,Шедевры цыганской музыки. Серебряная скрипка романса,Я Вас любил,0,199280,False,0.305,0.201,3,-13.253,1,0.036,0.926,0.265,0.17,0.04,102.865,5,romance
+1OZtXGoPN2deUyjKLbl6CW,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,"Okh, neprijatnost'",0,183072,False,0.334,0.357,9,-10.103,0,0.0305,0.984,0.0026,0.318,0.585,149.913,4,romance
+6FkTSDv17BIUGGAQkS6CJX,Nadezhda Kazantseva;Viktor Smirnov;Bolshoi Theatre Orchestra,"Soviet Film Soundtracks (1928 - 1950), Volume 5","Song - From ""Spring Flow""",0,156431,False,0.48,0.222,8,-14.529,1,0.0544,0.991,0.000822,0.542,0.381,121.857,4,romance
+6R0TQQtu4guq2l4p4LIuuC,Sergei Lemeshev,"Romansy: Gori, gori, moja zvezda…",Svidanie,0,196204,False,0.29,0.306,10,-9.223,0,0.053,0.986,3.76e-06,0.108,0.0618,76.443,4,romance
+115R7u3I6ICJNKI6ErESlp,Nikolai Erdenko,Лучшая цыганская музыка. Часть вторая,Я не могу любить,0,182840,False,0.303,0.108,2,-18.41,1,0.0396,0.948,1.7e-06,0.0742,0.0615,98.239,4,romance
+0CzptLVu8meMD9m5jKpueg,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"Smeysja, smeysja gromche vsekh",0,190030,False,0.53,0.241,7,-11.996,0,0.119,0.995,1.1e-06,0.112,0.63,81.853,4,romance
+1JjlEP76VzsKKBRa2JdvIy,Nikolai Erdenko,Лучшая цыганская музыка. Часть вторая,Только раз бывают в жизни…,0,225093,False,0.333,0.131,2,-17.756,0,0.0373,0.97,0.0228,0.217,0.126,80.065,5,romance
+7x8eeMIQ7TRCa7p6HgkgNS,Oleg Pogudin,La serenata (Live),"Funiculì, funiculà (Live)",0,157893,False,0.565,0.604,3,-8.867,1,0.0716,0.733,0.00427,0.484,0.59,127.955,4,romance
+2rv9vjsnacgOKvZd2jBD66,Nikolai Erdenko,Шедевры цыганской музыки. Серебряная скрипка романса,Я помню вальса звук прелестный,0,125826,False,0.35,0.16,7,-14.295,0,0.0401,0.909,0.804,0.102,0.212,95.345,3,romance
+2Lvca9B2AQKTNx2yNxnWbr,Sergei Lemeshev;Евгений Белоусов;Валентина Петрова;Лариса Авдеева;Galina Vishnevskaya;Boris Khaikin;Оркестр Большого театра,"Tchaikovsky: Eugene Onegin, Op. 24","Eugene Onegin, Op. 24, Act I Scene 1: No. 5b, Quartet ""Skazhi, kotoraya Tatyana""",3,91037,False,0.272,0.326,2,-15.958,0,0.0931,0.948,0.0,0.135,0.479,163.233,5,romance
+7gtO54x88Y7GhY0jHgiV6P,Gelena Velikanova,Первая встреча (2022 Remastered),До завтра - 2022 Remastered,0,204752,False,0.446,0.0714,2,-14.648,1,0.064,0.972,0.0228,0.0942,0.504,202.618,3,romance
+3KKk48f33mlB56F5L5nbJk,Nikolay Kopylov,Popular Opera Arias,"""Don Carlos"" Roderigo'S Death Aria",0,235547,False,0.167,0.332,1,-9.888,1,0.0359,0.992,0.191,0.113,0.0527,62.97,4,romance
+2CiemyCTNfoTqKHxzZIk0w,Gelena Velikanova,Первая встреча (2022 Remastered),Ты не все сказал - 2022 Remastered,0,187421,False,0.591,0.0729,9,-16.353,0,0.211,0.99,0.00206,0.191,0.336,108.008,4,romance
+6P2z6tZi1K8pyHXV1i0DnK,Nikolay Kopylov,У камина (Старинные Русские Романсы)/ At a Fireplace,Твои глаза зеленые ( Green Eyes),0,219880,False,0.359,0.448,2,-7.961,1,0.063,0.869,0.00046,0.317,0.49,76.832,4,romance
+41wRhP83bDYvNx0l1n2JWk,Александр Цфасман;Леонид Кострица,Александр Цфасман и звёзды советской эстрады,Перелётные птицы,0,186827,False,0.628,0.361,5,-13.485,0,0.0563,0.982,0.136,0.109,0.898,115.423,4,romance
+4RLEptaOiYYtnZ07Nq87k2,Надежда Обухова;Матвей Сахаров,Песни советских композиторов,Осенние листья,0,208202,False,0.281,0.0665,9,-20.983,0,0.0495,0.988,1.23e-05,0.0904,0.159,74.017,3,romance
+4v16scAVhylOWvkkcmd4DX,Izabella Yurieva,Счастье мое,"Саша, ты помнишь наши встречи?",1,188637,False,0.597,0.38,11,-9.514,0,0.0747,0.988,0.000231,0.194,0.732,103.193,4,romance
+4f7ScGcFtjjBLs35q4vfTH,Tatiana and Sergey Nikitin,The Blue Color Vol.2,No one will be in the house,3,125544,False,0.762,0.108,0,-21.761,0,0.196,0.93,0.0677,0.116,0.786,87.822,4,romance
+35fXLEkCzyQJg0DET8wvhh,Boris Shtokolov;Оркестр народных инструментов имени Василия Андреева,Лучшие застольные,Вечерний звон,0,327493,False,0.226,0.421,6,-12.479,1,0.0854,0.926,0.364,0.348,0.0726,97.329,3,romance
+4w0kFToo4KieF43IMDb9ED,Татьяна Комова;Георгий Квик,Ромэн. Русские цыганские романсы,Солнышко,0,214373,False,0.306,0.202,9,-18.504,0,0.0333,0.978,0.0479,0.215,0.174,79.701,4,romance
+5X7UA8fbdiFr9BgxhDeClb,Александр Добронравов,Лучшие песни,Ангел ЗЗЗ,0,264869,False,0.379,0.334,9,-7.474,0,0.0309,0.665,0.0,0.115,0.131,128.577,4,romance
+6oUDN88DZ8XKIVDfJEyzkN,Галина Карева,Не пробуждай воспоминаний (Имена на все времена),"Уйди, совсем уйди",0,221120,False,0.371,0.148,7,-15.852,0,0.0558,0.945,0.0,0.113,0.225,166.279,3,romance
+7485lzxQ1okfLNPNe8rpXV,Vadim Kozin,Последний концерт,Над рекой,0,111346,False,0.653,0.0639,5,-21.565,0,0.0709,0.995,0.163,0.128,0.6,107.638,4,romance
+5ffAjEtQBzn7d7I9pl2kB0,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),На крейсере Молотов,0,199457,False,0.338,0.496,0,-12.617,1,0.0766,0.991,0.0,0.639,0.304,115.665,4,romance
+3ENn9ahP78mdUTHXDhnyFu,Izabella Jur'eva,Estrada 30-kh: Luchshie otechestvennye ispolniteli 30-kh godov XX veka,Belaja noch',0,196109,False,0.543,0.227,4,-11.044,0,0.042,0.994,0.000539,0.156,0.423,103.841,4,romance
+4HlCz7PGRfUNZHgvTWI7th,Валерий Агафонов,За кордоном – любовь,Шарманщик,0,220480,False,0.433,0.15,9,-16.9,1,0.0437,0.958,0.077,0.107,0.115,139.806,4,romance
+6FwmTj0KzcljTlBd0VqBcA,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть вторая,Мой костер,0,173000,False,0.464,0.191,5,-14.734,0,0.0509,0.995,0.553,0.155,0.461,80.211,4,romance
+05WLq8RH59gRD3gMnmxUKb,Vadim Kozin,Романсы и таборные песни,В последний раз,0,183954,False,0.419,0.0273,5,-23.017,0,0.0469,0.991,0.00466,0.0592,0.0786,72.274,3,romance
+5MzcMEsNgOEyd5D1E7FYMu,"Группа ""Загадка""",20 золотых дворовых песен. Разлука,Соловушка,0,138000,False,0.711,0.391,9,-6.593,0,0.0488,0.818,0.0,0.087,0.9,116.323,4,romance
+52VSOpFbg4GBpPNNv4ulbP,"Группа ""Загадка""",20 золотых дворовых песен. Разлука,В больнице больная лежала,0,196280,False,0.363,0.154,2,-10.63,0,0.0319,0.901,0.0,0.14,0.411,143.521,3,romance
+5FWXZQDgu0A4hS39eYrzBF,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Pesenka o zhene,2,302346,False,0.539,0.105,2,-16.811,0,0.178,0.978,1.32e-06,0.698,0.295,92.306,4,romance
+1vNamT7fPcHPQdYCFMiXoI,Oleg Pogudin,Я сохраню слова любви,Дремлют плакучие ивы,1,177800,False,0.295,0.0736,2,-23.546,0,0.0416,0.886,0.0166,0.114,0.243,73.922,4,romance
+4worcVBM2RyWpQIyE7hJj5,Oleg Pogudin,Юбилей,Ещё один романс,0,159720,False,0.403,0.328,0,-11.581,0,0.0481,0.867,0.0,0.11,0.198,87.821,3,romance
+56ZB19eqTsiuSkAz5aQIuc,Vadim Kozin,Чудо-чудеса,Одевэс - Колечки бирюзовые,0,94410,False,0.62,0.213,5,-14.271,0,0.0773,0.993,0.0,0.179,0.569,102.123,4,romance
+3IMEE1Goc1XeMlWUlVMqWA,Yuri Morfessi,Очи чёрные,Дорогой длинною,0,169341,False,0.267,0.399,7,-8.025,0,0.0367,0.995,0.00348,0.151,0.345,80.067,4,romance
+2abeQBWSIzjO8J1KrPFZHy,Oleg Pogudin,Русский романс. Часть I,Забыли вы…,0,190933,False,0.474,0.0538,7,-21.541,0,0.0488,0.912,0.0,0.0901,0.207,93.964,3,romance
+41BFw6SQKtl4FOCgaClWHC,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,Парижские фантазии,0,148480,False,0.739,0.339,9,-11.731,0,0.0962,0.729,0.0,0.0895,0.66,126.621,4,romance
+22lPvFQRM48nDvv0ozgsMI,Oleg Pogudin,Любовь и разлука. Песни Исаака Шварца,Затихнет шрапнель,0,129653,False,0.583,0.318,6,-9.946,0,0.0461,0.719,0.0,0.12,0.586,106.209,4,romance
+3ZfhmhDh8IYWtUrjmf3hbk,Sergei Lemeshev,Эстрада 40-х. Лучшие отечественные исполнители 40-х годов ХХ века,Песня о песне,0,213315,False,0.426,0.167,9,-12.823,0,0.0467,0.984,0.0,0.0954,0.243,117.277,4,romance
+6MGlS9t68GIFkcbWIzHcsM,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Bugi-vugi - ne sekret,0,110388,False,0.576,0.516,0,-8.355,1,0.0556,0.837,2.75e-05,0.0853,0.897,88.175,4,romance
+4EJPDUuKsCArRCvhDx2YW9,Nikolay Kopylov,"Петр Чайковский, Романсы","Благословляю Вас, Леса",0,241453,False,0.39,0.351,5,-11.02,1,0.039,0.989,0.000485,0.085,0.116,75.389,4,romance
+396SEUYrf8EGBUbMUvpaAU,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Nadezhda Kazantseva (Deluxe),Rossija,0,239227,False,0.441,0.249,5,-12.746,0,0.0512,0.971,5.72e-06,0.538,0.264,72.614,4,romance
+3R073bM874OdRBZvEPzY7N,Konstantin Pluzhnikov;Mr.Gr.Ig.Al.,Стаканчики гранёные (Cut Glasses),Андрюша (Andryusha),0,137200,False,0.525,0.434,6,-12.175,1,0.107,0.738,0.0,0.519,0.865,150.739,4,romance
+1gXqg06Sc5301iRoKNhRRL,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Классика цыганской песни,У реки,0,134173,False,0.536,0.391,6,-17.031,1,0.0387,0.933,0.00462,0.15,0.82,154.325,4,romance
+77WDNemIn6ZHUHeLMK5LWI,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Nadezhda Kazantseva (Deluxe),Estrellita,0,162537,False,0.332,0.253,6,-8.92,1,0.04,0.982,1.06e-05,0.102,0.141,77.107,4,romance
+399J96pvyrrDAHDXBY1qnf,Oleg Pogudin,The Best Songs,Дремлют плакучие ивы,0,178920,False,0.4,0.22,2,-14.161,0,0.0384,0.896,0.0254,0.114,0.186,89.595,3,romance
+2xRdvPX2IrKELYj9WvshTp,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"No ja znaju, ty ljubish' drugogo",0,164000,False,0.488,0.156,0,-11.457,0,0.0922,0.981,0.00855,0.116,0.402,130.864,5,romance
+2Pgc97g0nMT8zTtumxVrXv,Oleg Pogudin,Je chante,Tombe la neige,0,180316,False,0.417,0.2,10,-10.918,0,0.0363,0.933,0.0397,0.112,0.341,110.67,4,romance
+3ZNOzd4hnbbjTfMvebFt9D,Nikolay Erdenko,The Night Is Bright,"Goodbye, My Friend, Goodbye",0,153693,False,0.342,0.0701,9,-20.671,0,0.0373,0.946,1.55e-05,0.104,0.184,127.757,5,romance
+5eufSf7Ss9wFKGoEuqfNAv,Oleg Pogudin,Избранное I (Live),Я Вас люблю - Live,0,288000,False,0.382,0.423,4,-12.258,0,0.685,0.595,0.0,0.958,0.25,96.37,5,romance
+1cgM0c7AhnbJSZKgaXLNgF,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Звездочка,Что делать,0,200293,False,0.36,0.141,4,-15.662,0,0.0292,0.938,0.000494,0.14,0.223,75.581,4,romance
+1JjlEP76VzsKKBRa2JdvIy,Nikolai Erdenko,Лучшая цыганская музыка. Часть вторая,Только раз бывают в жизни…,0,225093,False,0.333,0.131,2,-17.756,0,0.0373,0.97,0.0228,0.217,0.126,80.065,5,romance
+0bWAjywvZX6qiyy6R0ocWz,Boris Shtokolov;Оркестр штаба Ленинградского Военного округа,"Люблю тебя, Петра творенье...",Ночь светла (feat. Оркестр штаба Ленинградского военного округа),0,174453,False,0.331,0.29,3,-12.592,0,0.0411,0.98,0.0154,0.0962,0.366,138.567,4,romance
+115R7u3I6ICJNKI6ErESlp,Nikolai Erdenko,Лучшая цыганская музыка. Часть вторая,Я не могу любить,0,182840,False,0.303,0.108,2,-18.41,1,0.0396,0.948,1.7e-06,0.0742,0.0615,98.239,4,romance
+3KKk48f33mlB56F5L5nbJk,Nikolay Kopylov,Popular Opera Arias,"""Don Carlos"" Roderigo'S Death Aria",0,235547,False,0.167,0.332,1,-9.888,1,0.0359,0.992,0.191,0.113,0.0527,62.97,4,romance
+3NlzdeBPtuSj89pf6Z1TvG,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Песня Пали Рача Из Оперетты «Цыган-Премьер»,0,246106,False,0.279,0.416,2,-12.525,1,0.0426,0.987,0.408,0.282,0.221,80.542,4,romance
+79Y0mhlybfVcoXJvi6A3aQ,Maria Maksakova;Makhov Russian Folk Instruments Orchestra,My Voice for You...,The Old Husband,0,167021,False,0.368,0.373,5,-5.001,0,0.041,0.976,0.0,0.278,0.124,81.902,1,romance
+0CzptLVu8meMD9m5jKpueg,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"Smeysja, smeysja gromche vsekh",0,190030,False,0.53,0.241,7,-11.996,0,0.119,0.995,1.1e-06,0.112,0.63,81.853,4,romance
+2rv9vjsnacgOKvZd2jBD66,Nikolai Erdenko,Шедевры цыганской музыки. Серебряная скрипка романса,Я помню вальса звук прелестный,0,125826,False,0.35,0.16,7,-14.295,0,0.0401,0.909,0.804,0.102,0.212,95.345,3,romance
+2Lvca9B2AQKTNx2yNxnWbr,Sergei Lemeshev;Евгений Белоусов;Валентина Петрова;Лариса Авдеева;Galina Vishnevskaya;Boris Khaikin;Оркестр Большого театра,"Tchaikovsky: Eugene Onegin, Op. 24","Eugene Onegin, Op. 24, Act I Scene 1: No. 5b, Quartet ""Skazhi, kotoraya Tatyana""",3,91037,False,0.272,0.326,2,-15.958,0,0.0931,0.948,0.0,0.135,0.479,163.233,5,romance
+2FgBbPzQtH6WcimQuh6yOi,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Vol. 2",Ja vlubilsya,0,160426,False,0.62,0.27,11,-15.228,0,0.0553,0.893,0.166,0.301,0.711,131.509,4,romance
+3gZdKSc7nIRAj1MgGcGDQP,Ivan Petrov;Chorus of the Bolshoi Theatre,Eugene Onegin,"Tchaikovsky: Eugene Onegin: Dyevitsi, krasavitsi - Act One",0,183466,False,0.384,0.134,9,-20.039,1,0.0369,0.992,0.000493,0.0824,0.123,106.939,3,romance
+6P2z6tZi1K8pyHXV1i0DnK,Nikolay Kopylov,У камина (Старинные Русские Романсы)/ At a Fireplace,Твои глаза зеленые ( Green Eyes),0,219880,False,0.359,0.448,2,-7.961,1,0.063,0.869,0.00046,0.317,0.49,76.832,4,romance
+6sfr06qqBzJNSRLBMLMewi,Nikolay Kopylov,Две гитары (Старинные Русские Романсы)/ Two Guitars (Ancient Russian Romances),Тебя любить (Loving You),0,173680,False,0.537,0.247,4,-12.172,0,0.0817,0.938,0.00143,0.0975,0.306,72.536,3,romance
+4JKQQSW9UIl6LUL723b8GB,Иван Петров;Валентина Клепацкая;хор Большого театра;Alexander Melik-Pashayev;Оркестр Большого театра,Mussorgsky: Boris Godunov,"Boris Godunov, Act IV Scene 2: ""Zvon! Pogrebalny zvon!""",0,238000,False,0.252,0.132,1,-17.041,1,0.041,0.962,0.0531,0.13,0.0487,131.936,3,romance
+4RLEptaOiYYtnZ07Nq87k2,Надежда Обухова;Матвей Сахаров,Песни советских композиторов,Осенние листья,0,208202,False,0.281,0.0665,9,-20.983,0,0.0495,0.988,1.23e-05,0.0904,0.159,74.017,3,romance
+5MIT4l7oCnyZf9DhLOWwQ5,"Группа ""Загадка""","Золотая коллекция эстрады. Ой, рябина кудрявая","Уральская рябинушка (Ой, рябина кудрявая)",3,374053,False,0.245,0.138,9,-12.998,0,0.036,0.93,0.0,0.114,0.284,174.958,5,romance
+35fXLEkCzyQJg0DET8wvhh,Boris Shtokolov;Оркестр народных инструментов имени Василия Андреева,Лучшие застольные,Вечерний звон,0,327493,False,0.226,0.421,6,-12.479,1,0.0854,0.926,0.364,0.348,0.0726,97.329,3,romance
+4w0kFToo4KieF43IMDb9ED,Татьяна Комова;Георгий Квик,Ромэн. Русские цыганские романсы,Солнышко,0,214373,False,0.306,0.202,9,-18.504,0,0.0333,0.978,0.0479,0.215,0.174,79.701,4,romance
+3ENn9ahP78mdUTHXDhnyFu,Izabella Jur'eva,Estrada 30-kh: Luchshie otechestvennye ispolniteli 30-kh godov XX veka,Belaja noch',0,196109,False,0.543,0.227,4,-11.044,0,0.042,0.994,0.000539,0.156,0.423,103.841,4,romance
+561whLWdtXC09jYMXr6BFC,Дмитрий Харатьян,Лучшие песни,Сны моряка,0,192826,False,0.663,0.656,2,-8.784,0,0.0615,0.581,0.0,0.335,0.448,131.98,4,romance
+5FWXZQDgu0A4hS39eYrzBF,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Pesenka o zhene,2,302346,False,0.539,0.105,2,-16.811,0,0.178,0.978,1.32e-06,0.698,0.295,92.306,4,romance
+5MzcMEsNgOEyd5D1E7FYMu,"Группа ""Загадка""",20 золотых дворовых песен. Разлука,Соловушка,0,138000,False,0.711,0.391,9,-6.593,0,0.0488,0.818,0.0,0.087,0.9,116.323,4,romance
+7BAMGxDDeH7SiDhOJ13w18,"Группа ""Загадка""","Золотая коллекция эстрады. По морям, по волнам",Кораблик (Я мечтала о морях и кораллах),2,143200,False,0.716,0.218,4,-10.672,0,0.0468,0.908,1.77e-06,0.0969,0.623,115.061,4,romance
+5ffAjEtQBzn7d7I9pl2kB0,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),На крейсере Молотов,0,199457,False,0.338,0.496,0,-12.617,1,0.0766,0.991,0.0,0.639,0.304,115.665,4,romance
+39gfBPwmfowarYJCdlBXDb,Владимир Бунчиков,День России. Песни о главном,Летят перелётные птицы,0,189518,False,0.558,0.438,1,-9.727,1,0.0386,0.99,0.00807,0.271,0.652,129.723,4,romance
+4lHRjqhliGlVyw7BoJK65Y,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Odinokaja garmon',0,161846,False,0.362,0.175,1,-12.094,0,0.0453,0.993,0.74,0.382,0.424,167.216,4,romance
+6FwmTj0KzcljTlBd0VqBcA,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть вторая,Мой костер,0,173000,False,0.464,0.191,5,-14.734,0,0.0509,0.995,0.553,0.155,0.461,80.211,4,romance
+78MaTag4E7UiNjI6d7KCeT,"Группа ""Загадка""",20 лучших ресторанных песен. Сладка ягода,Сладка ягода,0,190173,False,0.25,0.106,10,-12.954,0,0.0374,0.92,0.0,0.0802,0.313,75.807,4,romance
+03FDWX1SkS9XAQZ56Kz6dV,Izabella Yurieva,Шедевры русской эстрады. Бублички,Саша,0,179226,False,0.624,0.153,2,-15.108,1,0.0772,0.987,0.000587,0.0736,0.565,107.947,3,romance
+5WbFMsjJondIa0jQBwoBlt,Сергей Захаров,Вечерний звон,Я встретил Вас,0,256640,False,0.298,0.345,7,-13.592,0,0.0482,0.974,0.71,0.351,0.211,81.03,5,romance
+1XOoxrHEwBrh6NxGEDYN7z,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,Я тебе ничего не скажу,0,188333,False,0.334,0.0405,5,-24.064,0,0.0426,0.991,0.000318,0.176,0.0625,94.957,3,romance
+7IG4sxz8FTaJXQaojWwkZ7,Alla Bayanova;Александр Суптель;Валерий Ковтун;Инструментальный ансамбль п/у Виктора Фридмана,"Играй, моя гитара",Журавли,0,219066,False,0.442,0.26,9,-13.368,0,0.0446,0.781,0.0,0.0945,0.513,115.822,4,romance
+6qfjsmORmVO80YojXM1ZHR,Алёша Димитриевич,Эмигрантское танго,Звездочка,0,116226,False,0.499,0.379,7,-18.118,1,0.473,0.862,0.0203,0.958,0.947,72.558,3,romance
+6MGlS9t68GIFkcbWIzHcsM,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Bugi-vugi - ne sekret,0,110388,False,0.576,0.516,0,-8.355,1,0.0556,0.837,2.75e-05,0.0853,0.897,88.175,4,romance
+3SmJyyYCfz9hNDgJEps4Zy,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Jarmarka,0,191575,False,0.604,0.236,4,-11.005,0,0.0668,0.908,0.0,0.368,0.535,106.876,4,romance
+2abeQBWSIzjO8J1KrPFZHy,Oleg Pogudin,Русский романс. Часть I,Забыли вы…,0,190933,False,0.474,0.0538,7,-21.541,0,0.0488,0.912,0.0,0.0901,0.207,93.964,3,romance
+77stxHgDOzi9Ue9912tMRf,Sergei Lemeshev,Сергей Лемешев. 20 лучших песен,"У ворот, ворот",0,117093,False,0.65,0.348,7,-13.911,0,0.0563,0.987,0.104,0.108,0.9,118.899,4,romance
+41BFw6SQKtl4FOCgaClWHC,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,Парижские фантазии,0,148480,False,0.739,0.339,9,-11.731,0,0.0962,0.729,0.0,0.0895,0.66,126.621,4,romance
+396SEUYrf8EGBUbMUvpaAU,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Nadezhda Kazantseva (Deluxe),Rossija,0,239227,False,0.441,0.249,5,-12.746,0,0.0512,0.971,5.72e-06,0.538,0.264,72.614,4,romance
+1A5Wp5AmT9J4a6HEbzxrc5,Nikolay Kopylov,Популярные Арии Из Опер И Классических Оперетт,Ария Макбета Из Оперы ''макбет',0,238320,False,0.221,0.401,1,-10.41,1,0.0332,0.994,0.00255,0.0955,0.151,147.504,4,romance
+77WDNemIn6ZHUHeLMK5LWI,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Nadezhda Kazantseva (Deluxe),Estrellita,0,162537,False,0.332,0.253,6,-8.92,1,0.04,0.982,1.06e-05,0.102,0.141,77.107,4,romance
+4qLLWKpMHI73mJMUj9zfNW,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Chardash,1,263750,False,0.38,0.347,2,-11.619,1,0.041,0.852,0.101,0.259,0.161,99.408,1,romance
+68PILSibYx90wy3AVyvEs9,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Luchshie narodnye pesni,Kolodniki,0,451187,False,0.586,0.342,0,-17.463,1,0.0333,0.192,0.0,0.159,0.257,117.971,4,romance
+3ZfhmhDh8IYWtUrjmf3hbk,Sergei Lemeshev,Эстрада 40-х. Лучшие отечественные исполнители 40-х годов ХХ века,Песня о песне,0,213315,False,0.426,0.167,9,-12.823,0,0.0467,0.984,0.0,0.0954,0.243,117.277,4,romance
+0bWAjywvZX6qiyy6R0ocWz,Boris Shtokolov;Оркестр штаба Ленинградского Военного округа,"Люблю тебя, Петра творенье...",Ночь светла (feat. Оркестр штаба Ленинградского военного округа),0,174453,False,0.331,0.29,3,-12.592,0,0.0411,0.98,0.0154,0.0962,0.366,138.567,4,romance
+1QMlBYS7bYRWd5AGKmyVZJ,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol.2,Bagger Woman,0,227987,False,0.394,0.209,4,-11.33,0,0.0635,0.975,0.000205,0.0906,0.201,80.066,3,romance
+3NlzdeBPtuSj89pf6Z1TvG,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Песня Пали Рача Из Оперетты «Цыган-Премьер»,0,246106,False,0.279,0.416,2,-12.525,1,0.0426,0.987,0.408,0.282,0.221,80.542,4,romance
+3ZNOzd4hnbbjTfMvebFt9D,Nikolay Erdenko,The Night Is Bright,"Goodbye, My Friend, Goodbye",0,153693,False,0.342,0.0701,9,-20.671,0,0.0373,0.946,1.55e-05,0.104,0.184,127.757,5,romance
+39citGb6KMohZw2V7MJvT2,Sergei Lemeshev,World Ethno Music: Russian songs,Akh Ty Dushechka,0,200482,False,0.252,0.37,2,-12.03,0,0.0529,0.96,1.32e-05,0.127,0.199,93.309,3,romance
+399J96pvyrrDAHDXBY1qnf,Oleg Pogudin,The Best Songs,Дремлют плакучие ивы,0,178920,False,0.4,0.22,2,-14.161,0,0.0384,0.896,0.0254,0.114,0.186,89.595,3,romance
+1cgM0c7AhnbJSZKgaXLNgF,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Звездочка,Что делать,0,200293,False,0.36,0.141,4,-15.662,0,0.0292,0.938,0.000494,0.14,0.223,75.581,4,romance
+5eufSf7Ss9wFKGoEuqfNAv,Oleg Pogudin,Избранное I (Live),Я Вас люблю - Live,0,288000,False,0.382,0.423,4,-12.258,0,0.685,0.595,0.0,0.958,0.25,96.37,5,romance
+42QWaG61mwhl9dXPITQZFL,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Tol'ko raz byvajut v zhizni...,0,226774,False,0.381,0.178,2,-15.547,0,0.0361,0.961,0.0191,0.16,0.143,87.243,3,romance
+62svtfRdzCBy5qHInT7lYv,Nikolai Erdenko,20 лучших ресторанных песен. Цыганочка,Ехал на ярмарку ухарь-купец,0,158306,False,0.673,0.534,4,-14.0,0,0.0692,0.715,0.0,0.161,0.742,110.513,4,romance
+3Cxo96oc7eV2WABV7G0u5i,Nikolay Erdenko;Djang,The Long Road: 20 Best of Russian Gypsy Songs,By the Long Road,0,230186,False,0.348,0.532,9,-17.563,0,0.118,0.416,0.0,0.147,0.524,144.641,4,romance
+2FgBbPzQtH6WcimQuh6yOi,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Vol. 2",Ja vlubilsya,0,160426,False,0.62,0.27,11,-15.228,0,0.0553,0.893,0.166,0.301,0.711,131.509,4,romance
+79Y0mhlybfVcoXJvi6A3aQ,Maria Maksakova;Makhov Russian Folk Instruments Orchestra,My Voice for You...,The Old Husband,0,167021,False,0.368,0.373,5,-5.001,0,0.041,0.976,0.0,0.278,0.124,81.902,1,romance
+5CldA6QbHTODOOSBrHb1Jb,Nadezhda Obukhova,"Romansy: Gori, gori, moja zvezda…",Ja tebja s godami ne zabyla,0,177766,False,0.421,0.121,8,-13.754,1,0.0431,0.993,9.01e-06,0.105,0.0838,100.553,3,romance
+6P2z6tZi1K8pyHXV1i0DnK,Nikolay Kopylov,У камина (Старинные Русские Романсы)/ At a Fireplace,Твои глаза зеленые ( Green Eyes),0,219880,False,0.359,0.448,2,-7.961,1,0.063,0.869,0.00046,0.317,0.49,76.832,4,romance
+3gZdKSc7nIRAj1MgGcGDQP,Ivan Petrov;Chorus of the Bolshoi Theatre,Eugene Onegin,"Tchaikovsky: Eugene Onegin: Dyevitsi, krasavitsi - Act One",0,183466,False,0.384,0.134,9,-20.039,1,0.0369,0.992,0.000493,0.0824,0.123,106.939,3,romance
+7AVuvtcpFKhjuYuZrLdFEt,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Vol. 2",Otsluzhu k tebe priedu,0,194883,False,0.575,0.43,5,-8.378,0,0.0319,0.99,0.0159,0.532,0.749,105.857,4,romance
+5e9gfuBK49f8dkpk5wCFCP,Izabella Yurieva,100 Best Russian Romances Part 2,Only once in my life there are meetings,0,197224,True,0.445,0.0678,4,-18.802,1,0.0416,0.989,0.000179,0.165,0.213,63.209,4,romance
+6sfr06qqBzJNSRLBMLMewi,Nikolay Kopylov,Две гитары (Старинные Русские Романсы)/ Two Guitars (Ancient Russian Romances),Тебя любить (Loving You),0,173680,False,0.537,0.247,4,-12.172,0,0.0817,0.938,0.00143,0.0975,0.306,72.536,3,romance
+5Dy3HQsCmpetpVX1dkqEhI,Vadim Kozin,Мой костёр / Russian Vintage Songs,Дружба,13,155641,False,0.374,0.328,7,-10.589,0,0.054,0.993,0.0505,0.217,0.476,164.682,4,romance
+2NxBkt5ycvFc5tEQk3uRgA,Kvatro,The Best Of,Сердце в 1000 свечей,4,232479,False,0.532,0.542,10,-5.663,0,0.0381,0.631,0.0,0.216,0.371,140.02,4,romance
+2C0lhzFYU9yY5Jt4X5abE6,Kvatro,"XV лет, Часть 2",Caruso,3,206866,False,0.335,0.292,4,-7.273,0,0.0353,0.894,7.03e-05,0.123,0.195,129.028,4,romance
+6Wr1Wye4KR0sEWSwO2MEsy,Tatiana and Sergey Nikitin,Brich-Mulla Vol.2,Monday,0,135000,False,0.584,0.0282,7,-25.12,1,0.0649,0.951,0.0854,0.117,0.267,97.855,4,romance
+78MaTag4E7UiNjI6d7KCeT,"Группа ""Загадка""",20 лучших ресторанных песен. Сладка ягода,Сладка ягода,0,190173,False,0.25,0.106,10,-12.954,0,0.0374,0.92,0.0,0.0802,0.313,75.807,4,romance
+2nBFfa3EiDqtT1087WmBTE,Сергей Зыков,Марш Росгвардии,Марш Росгвардии,0,137769,False,0.486,0.824,11,-3.003,0,0.0378,0.154,0.0,0.0657,0.949,123.985,4,romance
+6pruqYZKfrlguHBxXOcEP8,Александр Цфасман;Ефрем Флакс,Александр Цфасман и звёзды советской эстрады,Грустить не надо,0,237766,False,0.478,0.335,9,-15.215,1,0.0681,0.955,0.000331,0.311,0.467,100.824,4,romance
+6mHNFI9dSDulhYRViTIkNd,Александр Цфасман,Я люблю танцевать,Лунный вечер,0,162089,False,0.2,0.0971,10,-22.96,1,0.0605,0.983,0.329,0.588,0.122,42.186,4,romance
+3tgrLb5fNuGYnDrbDUvoxS,Андрей Петров;Олег Басилашвили;Евгения Гороховская;Оркестр Ленинградского государственного академического театра оперы и балета им. С.М. Кирова;Лев Болдырев,Андрей Петров. Пушкин,Пролог,0,302815,False,0.338,0.134,8,-19.997,1,0.0473,0.946,2.75e-05,0.238,0.0609,102.366,4,romance
+4lliFPUOgbDDgKY0WUIBC1,Alla Bayanova,С добрым утром. Опять двадцать пять. (Выпуск 5),Две гитары,1,213289,False,0.384,0.287,3,-16.078,1,0.0541,0.944,0.000188,0.134,0.4,85.451,4,romance
+1giElCktoWjlnQy4douvC2,Дмитрий Харатьян;Oleg Anofriyev,Праздничный концерт ко Дню защитника Отечества,"Не вешать нос - Из к/ф ""Гардемарины вперёд!""",1,161515,False,0.542,0.546,2,-6.63,0,0.0786,0.445,7.57e-05,0.236,0.549,86.501,4,romance
+2OcR6dmUFIsyiF4FmzvdkK,Сергей Захаров;Станислав Горковенко;Оркестр Ленинградского государственного мюзик-холла,Пойте о любви,Талая вода,0,192333,False,0.349,0.438,1,-11.534,1,0.0474,0.304,0.0141,0.108,0.378,77.132,4,romance
+0DygpO0H9CK3rU8sKYIwRq,Сергей Зыков,Память жива. Песни Арно Бабаджаняна,Приснилось мне,0,193960,False,0.441,0.712,9,-7.969,1,0.236,0.834,1.46e-06,0.195,0.326,134.082,4,romance
+71ygYtGGYNmkYd6yXsix98,Надежда Обухова,Великие исполнители россии: надежда обухова,Что ты жадно глядишь на дорогу,0,202773,False,0.495,0.0833,4,-16.791,0,0.0821,0.981,0.0,0.095,0.3,94.839,4,romance
+0hXuX44t47CiS93Iom3FiA,Сергей Зыков,В минуты музыки (Песни на стихи Николая Рубцова),Журавли,0,239307,False,0.263,0.204,1,-14.972,1,0.0363,0.934,0.13,0.0853,0.0933,111.638,5,romance
+67f8E7U41Dcm9VJY71Kl2I,Сергей Зыков,Первый снег. Песни и романсы,"Не жалею, не зову, не плачу",0,278520,False,0.432,0.259,9,-12.609,0,0.0396,0.954,0.0331,0.202,0.208,123.101,3,romance
+67ih0EqKA3chpAZqEa4Zqf,Yuriy Morfessi,100 Best Russian Romances Part 2,The Long Road,0,171598,True,0.304,0.111,7,-19.389,0,0.0522,0.995,0.000782,0.152,0.28,82.82,4,romance
+13vLXnnvq6fWk2LmaX9jTM,Александр Добронравов,Города,Санкт - Петербург,0,309040,False,0.52,0.728,7,-5.643,1,0.0322,0.243,0.0,0.17,0.399,122.033,4,romance
+6mijF6cNxBTPsOIJo9SWH4,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,Средь шумного бала,0,154680,False,0.389,0.0257,2,-23.63,0,0.0413,0.99,0.0,0.0818,0.174,139.589,3,romance
+17ZyJI8Za0GXrlygzlKGuf,Александр Добронравов,Лучшие песни,Такси,0,221538,False,0.314,0.61,4,-6.855,0,0.0685,0.0659,0.0,0.13,0.643,69.027,3,romance
+3vmGqlTv2eNa4eToZXHhwF,Vadim Kozin,Избранное,Ковыль,0,189622,False,0.507,0.0933,2,-15.35,0,0.0709,0.994,0.00985,0.13,0.49,86.341,4,romance
+50IyeAwb5aFTQlT3Okam32,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть первая,"Эту песню, сердцу дорогую",0,105760,False,0.645,0.279,0,-14.508,0,0.173,0.987,0.0,0.146,0.727,112.975,4,romance
+61i7EWJQTpf9J2vnmeqG6e,Vadim Kozin,Чудо-чудеса,Чудо-чудеса,0,174891,False,0.566,0.268,11,-12.583,1,0.0925,0.993,1.93e-06,0.352,0.464,73.442,3,romance
+5nh7Llhl2hUAwTIjfi7YME,Oleg Pogudin,Городской романс,Я встретил Вас,0,226706,False,0.34,0.109,9,-17.869,0,0.0401,0.944,0.00237,0.0856,0.0891,95.877,4,romance
+4j9rhFtGmjbOOHZ4g07rp8,Yuri Morfessi,Прощай Москва,Время изменится,0,192097,False,0.326,0.358,8,-9.673,0,0.0397,0.989,0.00827,0.358,0.364,145.27,3,romance
+5kVVkEdO4dCGotDtbeyYgp,Vadim Kozin;Давид Ашкенази,Я люблю вас так безумно,"Смейся, смейся громче всех",0,186133,False,0.514,0.117,3,-17.88,1,0.099,0.995,0.000209,0.165,0.434,83.095,4,romance
+4wXp3J9wF5xQgQBnvylAKH,"Группа ""Загадка""",20 лучших застольных песен. Подмосковные вечера,Называют меня некрасивою,0,228293,False,0.302,0.122,7,-12.693,0,0.0339,0.921,0.0,0.0646,0.313,143.69,4,romance
+7zsOPNx7y9RQjk8Dj1MLgM,Oleg Pogudin,Русское танго,Голубые глаза,1,264829,False,0.462,0.298,2,-10.235,1,0.0386,0.741,9.78e-05,0.3,0.553,125.773,4,romance
+5H5woTnlQSsZoUphtm3WZW,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Druzhba,0,158693,False,0.439,0.294,7,-10.468,0,0.0644,0.992,0.147,0.148,0.623,84.219,4,romance
+6ZUOXFr9ERlxUgJDdgXZ73,Sergei Lemeshev,Сергей Лемешев. 20 лучших песен,Лучинушка,0,269266,False,0.23,0.271,7,-16.592,1,0.0455,0.969,0.0412,0.108,0.15,113.51,3,romance
+6uXF95biXozYWmDFOmqK7u,Oleg Pogudin,Русский романс. Часть II,Пара гнедых,0,301840,False,0.481,0.0438,0,-23.082,0,0.0784,0.89,0.0,0.0999,0.257,138.712,3,romance
+3MG1HKuRBsJsk7fTbdrxh6,Sergei Lemeshev,Никита Богословский: Три года ты мне снилась,"Помнишь, мама",1,180613,False,0.342,0.0832,5,-18.312,0,0.0482,0.952,0.0,0.354,0.264,89.943,4,romance
+7yiy2i0LoHczfHAyc3GYLy,Yuri Morfessi,Золотой фонд 19го века,Вахта кочегара,0,186200,False,0.365,0.291,11,-9.293,0,0.0579,0.996,0.0865,0.33,0.484,84.303,5,romance
+1JKSmutDPocfvaGUwXZJRN,Oleg Pogudin,Элегия концерт,Заздравный кубок,0,83480,False,0.549,0.138,9,-13.147,1,0.0576,0.898,0.0,0.635,0.512,135.155,3,romance
+13RyK4yPGlKAr8Rfv8hODC,Nikolay Kopylov,"Золотые Хиты Старинного Русского Романса, Часть 1",Изумруд,0,225826,False,0.519,0.301,11,-10.756,0,0.047,0.968,0.000401,0.0625,0.187,131.821,4,romance
+2zPHqZnWA77p15tjFuGUco,Vladimir Nechaev;Владимир Бунчиков,Песня Юности (1941 - 1961),Мы люди большого полета,0,136137,False,0.593,0.449,0,-13.782,1,0.0565,0.985,1.96e-06,0.762,0.678,117.677,4,romance
+774EXreNUayKFz7sm03EBs,Sergei Lemeshev,Легенды русской эстрады. Сергей Лемешев. Часть первая,Родина,0,167533,False,0.268,0.357,0,-10.928,1,0.0425,0.959,3.23e-06,0.117,0.186,129.711,3,romance
+0k85Gx60TVDYH5RE2mkRt0,Nikolay Nikitskiy,"Romansy Rossii, Chast’ 2",Ja ljublju vas tak bezumno,0,159900,False,0.453,0.338,0,-10.811,0,0.0398,0.908,1.5e-05,0.522,0.513,99.437,3,romance
+1XonWnuIjYd5gm9CmyJkSF,Konstantin Pluzhnikov;Mr.Gr.Ig.Al.,Стаканчики гранёные (Cut Glasses),"Ванька, спой (Van’ka,Sing!)",0,163413,False,0.728,0.335,7,-14.37,1,0.0429,0.867,2.84e-06,0.202,0.95,139.075,4,romance
+4elsSo7smj15jvjVnm9lVF,Nikolay Kopylov,"Петр Чайковский, Романсы",Средь Шумного Бала,0,133706,False,0.425,0.305,10,-12.593,0,0.0542,0.989,0.000325,0.121,0.187,73.421,3,romance
+62svtfRdzCBy5qHInT7lYv,Nikolai Erdenko,20 лучших ресторанных песен. Цыганочка,Ехал на ярмарку ухарь-купец,0,158306,False,0.673,0.534,4,-14.0,0,0.0692,0.715,0.0,0.161,0.742,110.513,4,romance
+0vcAhbJ73fWNrXpCQe2CSF,Ivan Petrov,"Romansy Rossii, Chast’ 2",Vykhozhu odin ja na dorogu,0,286936,False,0.25,0.302,6,-12.546,1,0.0444,0.979,0.000442,0.0992,0.418,83.266,3,romance
+7n8yKGSjVddy4ByB22bjxi,Oleg Pogudin,La serenata (Live),"Maria, Mari! (Live)",0,184573,False,0.293,0.494,11,-9.368,1,0.0514,0.762,0.000404,0.617,0.351,101.106,3,romance
+2CnEuyxqughmVIeRwWdCdN,Nikolay Kopylov,Вечер Старинного Русского Романса,Живет Моя Отрада,0,96493,False,0.526,0.526,2,-11.553,0,0.193,0.985,0.000768,0.689,0.554,125.302,3,romance
+6AzqAwxzUfifkY5FX5lHuc,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)","Терцет Розалинды, Фалька И Генриха Из 1 Действия Оперетты «Летучая Мышь»",0,202520,False,0.486,0.413,0,-8.677,1,0.0797,0.983,0.000146,0.17,0.312,103.106,3,romance
+4nDbitMlaaWysFyMhYg1R0,Ivan Petrov;Galina Vishnevskaya;Eugene Bekov,Eugene Onegin,Tchaikovsky: Eugene Onegin: O! kak mnye tyazhelo! - Act Three,0,218373,False,0.296,0.0596,11,-17.965,0,0.0447,0.983,0.0048,0.184,0.0714,150.626,3,romance
+0NLd3BZ66FtUZJa1rItvkt,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Volume 1",Nad volnoj goluboj,0,199973,False,0.567,0.382,7,-12.008,0,0.0377,0.969,0.0114,0.142,0.611,112.059,4,romance
+3u1JXiFQ2HjcEmxtJorrfn,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Vol. 2",Za rekoju zori,0,183134,False,0.411,0.314,7,-11.353,0,0.04,0.99,8.03e-06,0.501,0.496,74.129,4,romance
+1SE9kaXcjZB5poYghfBVst,Gelena Velikanova,Гелена Великанова (2021 Remastered Version),Идут белые снеги - 2021 Remastered Version,0,212378,False,0.442,0.0946,10,-16.065,0,0.077,0.845,0.0,0.117,0.22,179.433,3,romance
+1hFuvB4jZ5vi79RmVCQlT5,Keto Dzhaparidze,"Anthology of Russian Romance: Old Russian Romances, Vol. 1",Ya Pomnyu Valsa Zvuk Pryelyestniy (I Remember the Wonderful Sound of Waltz),0,131373,False,0.532,0.0543,8,-21.805,1,0.0657,0.981,0.0,0.182,0.129,111.882,4,romance
+4g1xDo8G87lr86iuDdQYvi,Alexander Vertinsky,"Russian Light Songs, Vol. 3: Recordings 1930 - 1960","What I Have to Say [To, chto ja dolzhen skazatj]",8,192933,False,0.43,0.0991,10,-16.125,1,0.172,0.992,0.0129,0.513,0.277,79.15,3,romance
+03gIgRP2VWZMQetzZvWRPW,Кэто Джапаридзе,"Тебя любить, обнять и плакать над тобой - русские романсы",Мы вышли в сад,0,172277,False,0.27,0.127,8,-16.858,1,0.0438,0.995,0.000705,0.219,0.168,75.614,3,romance
+5Usv3QqHqzYu3YMNGifTNE,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Dzhonni,1,174613,False,0.664,0.126,5,-13.159,1,0.164,0.981,0.0,0.121,0.48,107.627,5,romance
+1tLd0GVAKaUD6GTyCF9wQG,Татьяна Комова;Георгий Квик,Ромэн. Русские цыганские романсы,Сумерки,0,189600,False,0.259,0.134,4,-18.803,0,0.0342,0.98,0.172,0.0924,0.107,132.64,4,romance
+2dmtLl3XdO2rFTUh3hZ08t,Feodor Chaliapin,Русское наследие,Двенадцать разбойников,0,238066,False,0.247,0.235,6,-16.979,1,0.0541,0.729,0.0,0.345,0.321,75.591,3,romance
+5tC4xZ1VbLGopZurK3epH3,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),Первомайская,0,238699,False,0.632,0.49,5,-12.339,1,0.157,0.963,1.22e-05,0.682,0.619,122.036,4,romance
+0OE8UZxAwK9SwnSbgWOFyf,Владимир Бунчиков,Севастопольский Вальс (1943 - 1961),"Споём, пилот",0,112684,False,0.549,0.362,5,-11.184,0,0.0411,0.975,0.0,0.159,0.595,105.275,3,romance
+4azSeK5rPmxz1Da3EEAJOF,Валерий Агафонов,Ещё не раз вы вспомните меня,"В час, когда мерцанье...",0,250280,False,0.363,0.0757,8,-16.633,0,0.0548,0.973,0.0584,0.111,0.0395,86.963,4,romance
+2P0Is2KHw6ZvCTUC1e4k6j,Соня Тимофеева,Цыганские народные песни,Машенька,0,126040,False,0.436,0.413,0,-15.628,0,0.0979,0.843,0.0279,0.142,0.879,102.548,3,romance
+5riwo3iXkA1OebyeDmx1Ab,Александр Морозов,Я счастливей всех,Я счастливей всех,0,240799,False,0.309,0.602,9,-6.768,0,0.0371,0.162,0.0,0.246,0.274,149.679,4,romance
+7lfPz30clr8UHxwkqmFDSK,Сергей Захаров,Великие исполнители России. Сергей Захаров,Ноктюрн,0,320173,False,0.23,0.707,4,-6.068,1,0.0591,0.495,0.000921,0.16,0.237,148.429,4,romance
+26i84qE0eKvvm4JJzPdJPD,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Karavan,0,178255,False,0.472,0.0691,10,-13.333,0,0.202,0.994,0.00246,0.242,0.343,77.774,1,romance
+4ZaOZhuMW5ehPA4dHXpZ9g,"Группа ""Загадка""",Золотая коллекция эстрады. Раскинулись рельсы широко,Дайте ходу пароходу,0,211546,False,0.615,0.353,0,-7.899,1,0.0901,0.823,0.0,0.103,0.503,121.922,4,romance
+0AfWxuNJBszbB9FIkar5tl,Павел Михайлов;джаз-оркестр Александра Цфасмана,Антология советского джаза 4: Игра на пальцах,Случайная встреча,0,184546,False,0.568,0.198,0,-15.265,0,0.0435,0.931,1.36e-05,0.153,0.613,120.426,4,romance
+7vWDTrEfPsNGn9a8QQoFTF,Arkadiy Pogodin,Estrada 30-kh: Luchshie otechestvennye ispolniteli 30-kh godov XX veka,Ja zhdu pis'ma,0,188787,False,0.614,0.355,9,-11.325,0,0.0406,0.965,0.00019,0.685,0.838,115.093,4,romance
+7CELI1Bt017qTs7MIGkSR6,Александр Добронравов,Лучшие песни,"Не сказать, что люблю",0,218652,False,0.59,0.646,8,-6.973,1,0.0396,0.119,5.02e-05,0.101,0.766,111.626,4,romance
+68auV0Bu96QeRn4SI0psa0,Sergei Lemeshev,Лемешев Сергей - ХX Век Ретропанорама,Вот Мчится Тройка Удалая,3,227320,False,0.292,0.356,5,-12.364,1,0.0486,0.937,8.38e-06,0.136,0.196,93.366,3,romance
+3tUPOsoAKxSp7qZzfK2DCT,Vadim Kozin,Мой костёр / Russian Vintage Songs,Жигули,0,188823,False,0.387,0.139,11,-14.099,0,0.0386,0.993,0.0,0.286,0.201,105.996,3,romance
+556LOWUlA21iPkLX7479ym,Nikolay Kopylov,Популярные Арии И Дуэты Из Классических Оперетт,Чардаш Тассилло Из Оперетты ''марица'',0,162800,False,0.277,0.453,2,-8.486,1,0.0356,0.978,0.0392,0.0963,0.347,89.123,3,romance
+39hGEPjG5RmfFKgCs1oA1o,Vadim Kozin;Давид Ашкенази,Лирические песни,Восемнадцать и девятнадцать,0,140120,False,0.651,0.265,2,-12.663,0,0.0561,0.994,0.551,0.202,0.777,121.079,3,romance
+200TXGHZe4KJNNuSlg59k7,Vadim Kozin,Вадим Козин. 20 лучших песен,Локон матери,0,175773,False,0.557,0.0989,8,-17.991,1,0.153,0.972,5.2e-05,0.0725,0.292,79.977,3,romance
+1VtzsBQdKDXoI2wgV83vwh,Vadim Kozin,Праздничный концерт к 1 Мая,Выйду на улицу,0,131279,False,0.379,0.549,2,-7.789,0,0.0594,0.807,0.076,0.176,0.602,150.257,3,romance
+6bwQSWItbEw4KYZbmmYaHD,"Группа ""Загадка""",20 лучших застольных песен. Подмосковные вечера,"Черный ворон, друг залетный",0,215053,False,0.411,0.181,7,-13.404,0,0.0354,0.934,0.000186,0.182,0.257,139.001,4,romance
+7aJmDGX6tOhT4mDxIhnrkT,Vadim Kozin;Давид Ашкенази,"Тебя любить, обнять и плакать над тобой - русские романсы","Но я знаю, ты любишь другого",0,159817,False,0.461,0.0454,8,-19.825,1,0.0534,0.993,0.00286,0.0995,0.211,130.532,3,romance
+2nKjt4TODHMRaWSfnvwXHX,Nikolay Kopylov,"Сергей Рахманинов, Романсы",Давно В Любви...,0,88973,False,0.478,0.332,6,-10.409,0,0.0368,0.99,0.000164,0.251,0.332,106.325,4,romance
+0ZmQWtrCcPePKjsxCrK3Ja,Sergei Lemeshev,В эту лунную ночь,В крови горит огонь желанья,0,79317,False,0.415,0.0686,1,-18.969,0,0.0549,0.993,0.0,0.345,0.204,68.004,4,romance
+2GXwhkVTTi2PxrkVQvLHpZ,Oleg Pogudin,Народная песня. Часть 1,"Степь, да степь кругом",0,374066,False,0.216,0.298,5,-18.287,1,0.0409,0.907,0.609,0.203,0.13,171.924,5,romance
+1srA7XXVhBSt3LfvacwFhO,Sergei Lemeshev,Легенды русской эстрады. Сергей Лемешев. Часть вторая,Уж тает снег…,0,153493,False,0.446,0.0891,5,-20.31,1,0.0399,0.991,4.39e-05,0.0953,0.221,92.73,4,romance
+1fxoKxiNKMaHoR561zHi19,Oleg Pogudin,"...Я клянусь, что это любовь была... Песни Булата Окуджавы",Прощание с новогодней елкой,1,254320,False,0.389,0.105,0,-13.362,0,0.0465,0.931,0.0,0.122,0.27,149.111,3,romance
+5Kwl3xgzkS7QGcWtymy39M,Oleg Pogudin,От моей негасимой любви... Песни военных лет,"Я люблю тебя, жизнь",0,204120,False,0.574,0.299,3,-9.107,0,0.0438,0.957,0.0,0.69,0.44,102.164,4,romance
+6futDEDps3w0IcLryYHMJ3,Oleg Pogudin,Элегия концерт,Я знал её милым ребёнком,0,75600,False,0.54,0.101,2,-17.925,1,0.0671,0.931,1.27e-05,0.122,0.223,122.205,3,romance
+3Kb0ebZcPTL53GX12TIJEe,Nikolay Erdenko,"Romansy Rossii, Chast’ 1",Ja Vas ljubil,0,137511,False,0.454,0.196,5,-13.028,1,0.0421,0.98,0.000255,0.103,0.253,73.569,3,romance
+5s2E68l3hMHH3hyCefflWE,Oleg Pogudin,The Best Songs,"Гори, гори, моя звезда",0,217226,False,0.413,0.0944,11,-18.675,0,0.0376,0.925,0.00162,0.092,0.156,109.174,4,romance
+5L31UCBe8wBnNJwxKCZDJs,Vladimir Nechaev,22 июня 1941. День Памяти и Скорби,Враги сожгли родную хату,0,245121,False,0.432,0.266,3,-10.743,0,0.0444,0.979,0.000371,0.34,0.486,110.437,4,romance
+581T6eUgg9G5kBICloDkj4,Yuri Morfessi,"Смейся, смейся громче всех",Бублички,0,167623,False,0.672,0.354,4,-8.194,1,0.117,0.993,0.0,0.415,0.905,142.277,4,romance
+2iNmYBqg9ZUA8p83Q72deL,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть третья,Малярка,0,137266,False,0.356,0.105,6,-20.304,0,0.0412,0.973,0.000125,0.356,0.188,80.393,4,romance
+2Xg1fNxl7pd9VPEy53IMTm,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Лучшие цыганские песни,Глупо я исделал,0,221253,False,0.632,0.386,0,-17.669,1,0.164,0.372,0.0,0.457,0.724,92.306,4,romance
+6GOkkqYpnrDJLDuR8sg19J,Nikolay Kopylov,Изумруд (Emerald),Тени минувшего (Shadows Past),0,191986,False,0.279,0.262,11,-12.962,0,0.0472,0.872,0.0121,0.306,0.147,78.995,4,romance
+0X0iINnGPZV6mSc0NbijiN,Feodor Chaliapin,Федор Шаляпин. 20 золотых песен,Ночной смотр,0,230293,False,0.604,0.0598,2,-20.811,1,0.116,0.992,0.0,0.134,0.326,108.833,3,romance
+3H1E4MHzaUnx418lAtatsz,Oleg Pogudin,Любовь останется. Советская лирическая песня,Надежда,0,246826,False,0.527,0.305,2,-8.565,0,0.034,0.582,0.0,0.615,0.717,108.246,4,romance
+0am42GfUaKWZaeHnvezbVn,Ivan Kozlovsky;Matvey Sakharov,Velikie ispolniteli Rossii XX veka: Ivan Kozlovskiy,"Romansy i pesni: No. 13, Dlya beregov otchizny dal'ney",0,218579,False,0.351,0.0698,4,-12.157,0,0.0373,0.993,0.0,0.0733,0.0759,63.622,4,romance
+1DHQp3XEer6Ph69DI1mjlm,Nikolay Kopylov,"Золотые Хиты Старинного Русского Романса, Часть 2",Милая,0,117386,False,0.497,0.326,9,-8.412,1,0.111,0.98,3.21e-06,0.115,0.236,81.541,5,romance
+5voUCF1RKh5i7VG3l5YTX6,Tamara Tsereteli;Guitar Duet Alexeev - Sazonov,"Gypsy Music from 78 Rpm, Soviet Recordings 1930 - 1950",A Little Star,1,144565,False,0.49,0.116,3,-18.915,0,0.153,0.988,0.00024,0.183,0.487,80.957,4,romance
+73hMbPWPSaOpkzihMTEWtc,Sergei Lemeshev,Russian Vocal School. Sergey Lemeshev (CD2),I'm Sitting On A Stone,0,129000,False,0.576,0.13,7,-21.3,0,0.0666,0.976,0.000544,0.0501,0.885,104.358,4,romance
+2tTqRYug0P0AstbsXf8AOd,Sergei Lemeshev,Russian horses,Three horses,0,204878,True,0.408,0.166,11,-15.823,0,0.0562,0.941,0.0,0.327,0.39,104.8,3,romance
+2zLWkhRHZ6HzA2v1mJsFA5,Gelena Velikanova,Любимые песни (2022 Remastered),Ландыши - 2022 Remastered,0,195360,False,0.781,0.115,5,-17.086,0,0.0941,0.979,0.0421,0.127,0.752,131.2,4,romance
+1yF26btjqRGTuKP890EarJ,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Luchshie romansy,Moi zhuravli,0,118044,False,0.53,0.115,5,-17.129,0,0.319,0.993,0.000336,0.143,0.46,76.106,3,romance
+4b7EP2BqMTcT0gVUOGXP54,Anatoliy Aleksandrovich,Velikie ispolniteli Rossii XX veka: Luchshie romansy,Na zare ty ejo ne budi,0,180629,False,0.375,0.386,11,-15.846,0,0.196,0.989,0.0328,0.267,0.512,92.948,4,romance
+2SGGSbowD5pJXmwGP2nqcq,Maria Maksakova;Makhov Russian Folk Instruments Orchestra,My Voice for You...,The Fire of Desire Burns in My Blood,0,77972,False,0.287,0.464,5,-5.955,1,0.0419,0.932,0.0,0.109,0.404,175.361,3,romance
+6nQZ1UtL3Z1456AiFbWigI,Sergei Lemeshev;Лариса Авдеева;Евгений Белоусов;Андрей Соколов;хор Большого театра;Boris Khaikin;Оркестр Большого театра,"Tchaikovsky: Eugene Onegin, Op. 24","Eugene Onegin, Op. 24, Act II Scene 1: No. 14a, Scene ""Uzhel ya zasluzhil ot vas nasmeshku etu?""",2,196000,False,0.503,0.115,10,-15.921,0,0.158,0.961,0.0,0.605,0.122,104.553,4,romance
+4KQuE7jh9sqNTE8JrapkDv,Николай Рыбников,Моей душе покоя нет,Душа ни по ком до сих пор не страдала,1,113345,False,0.635,0.134,9,-19.399,0,0.0652,0.978,0.000147,0.109,0.495,88.417,4,romance
+4cCD0bV8NXVA52wFWfJ7dN,Иван Петров;Alexander Melik-Pashayev;Оркестр Большого театра,Mussorgsky: Boris Godunov,"Boris Godunov, Act IV Scene 2: ""Tsarevich skorey!""",0,46500,False,0.205,0.115,8,-22.21,1,0.0423,0.985,0.494,0.322,0.0917,140.523,3,romance
+5NlKX0JERutBd8F4qTralP,Аркадий Погодин,В парке Чаир,В парке Чаир,0,151092,False,0.449,0.311,9,-11.973,0,0.0383,0.995,0.0102,0.124,0.617,77.618,4,romance
+1rnX4bwENVk1ndJ7jYAg1M,Николай Никитский,Эстрада 50-х. Лучшие отечественные исполнители 50-х годов ХХ века,Бесаме мучо,0,248685,False,0.498,0.278,2,-10.134,0,0.0418,0.864,0.00726,0.154,0.675,118.299,4,romance
+4ELGoHY7cG7GDRSW28lymj,Александр Цфасман,В парке Чаир,Неудачное свидание,0,190589,False,0.544,0.686,10,-8.084,1,0.159,0.903,0.0126,0.204,0.872,181.066,4,romance
+43qJQmgugtWwdl3OnGemZ7,Галина Романова (Лёля Белая) и группа Первомайка,Последний луч заката. Народные романсы,Только раз,0,258298,False,0.332,0.125,7,-17.921,0,0.037,0.871,0.000819,0.101,0.123,109.684,3,romance
+39l8pwW6kquVEjtsIU0t8X,Николай Тимченко,Военно-патриотическая музыка. Выпуск 2,В землянке,1,186733,False,0.225,0.256,7,-14.576,0,0.057,0.958,1.24e-06,0.157,0.298,87.405,4,romance
+29hRNUCc8Ogu50tmW3GLM7,Tatiana and Sergey Nikitin,Brich-Mulla Vol.2,Letter,0,175704,False,0.596,0.143,7,-17.614,0,0.106,0.953,0.000462,0.113,0.526,108.06,4,romance
+5YvFYfl6vI5E5EKgAM0ipo,Владимир Бунчиков;Vladimir Nechaev,Военно-патриотическая музыка. Выпуск 5,Давно мы дома не были,1,157653,False,0.456,0.391,5,-9.835,0,0.0609,0.976,0.0,0.141,0.644,131.018,4,romance
+4NyQO0r1W2zVo1k9XEyKN2,Сергей Захаров,Великие исполнители России. Сергей Захаров,Русь,0,280480,False,0.42,0.728,5,-7.027,0,0.0609,0.296,0.0,0.136,0.528,107.382,3,romance
+5bgL8oOnMI9f63iwIRyX2I,Аркадий Погодин,Волшебный Мир Русского Романса,Быть тебе только другом,0,157936,False,0.413,0.0854,6,-18.838,0,0.0728,0.993,0.0,0.218,0.254,91.795,4,romance
+6LSfR3Wc4MPsYuPczutYw1,Галина Романова (Лёля Белая) и группа Первомайка,Последний луч заката. Народные романсы,"Там, где избушка над лесом стояла",0,293302,False,0.369,0.341,3,-11.049,0,0.0424,0.794,0.0,0.336,0.315,79.299,3,romance
+2TsSVZZeUQSiQiAaRgUJrv,Сергей Зыков,Есть одна хорошая песня у соловушки...,"Не жалею, не зову, не плачу",0,250096,False,0.303,0.247,9,-12.844,0,0.0344,0.978,0.0293,0.129,0.141,90.348,4,romance
+1CZ7tBCusBqys5WpBOZU2D,Сергей Зыков,В минуты музыки (Песни на стихи Николая Рубцова),В горнице,0,238785,False,0.18,0.338,0,-13.357,1,0.0341,0.932,0.317,0.306,0.287,98.61,3,romance
+2NZJllC7bzTOuK6zH0XGq2,"Группа ""Загадка""",20 лучших ресторанных песен. Сладка ягода,"Уральская рябинушка (Ой, рябина кудрявая)",1,374053,False,0.245,0.138,9,-12.998,0,0.036,0.93,0.0,0.114,0.284,174.958,5,romance
+6KfOLNghzxXDVVYUNN8Imb,Владимир Бунчиков,Зимнее утро (1936 - 1958),В любимом Бухаресте,0,150672,False,0.488,0.312,10,-11.116,1,0.0443,0.992,0.0,0.378,0.743,105.601,3,romance
+42USWIrLnoI0cAsDnPWbka,Валерий Агафонов,Ещё не раз вы вспомните меня,Нищая,0,197933,False,0.368,0.104,9,-14.115,0,0.0736,0.985,0.000177,0.113,0.221,85.952,4,romance
+6HNUaQNvF6w6F2FMTsYscg,Сергей Зыков,Есть одна хорошая песня у соловушки...,Тихо струится река серебристая,0,212009,False,0.323,0.283,2,-12.906,0,0.0326,0.982,0.399,0.115,0.243,71.427,3,romance
+7jBSnseeddcFiEaK5OYlg1,Oleg Pogudin,Юбилей,Утро туманное,1,176693,False,0.281,0.181,11,-14.175,0,0.0409,0.878,0.00431,0.1,0.104,83.157,3,romance
+2bMNHDdasYnKhQRJj83MtR,Vadim Kozin,Selections of Russian Light Songs,Дружба,0,155711,False,0.353,0.322,7,-10.9,0,0.0574,0.993,0.0696,0.24,0.473,77.553,3,romance
+3Vr3fltdfnkEwCYOYtJf9q,Алёша Димитриевич,Эмигрантское танго,Я милого узнаю по походке,0,192240,False,0.439,0.475,7,-15.422,1,0.366,0.9,0.0128,0.24,0.679,180.9,4,romance
+2ZcKYyKjmupN8DesiIMp5w,"Группа ""Загадка""",Золотые застольные песни. Часть шестая,Дорогой длинною,0,241160,False,0.506,0.394,2,-7.091,0,0.0438,0.818,0.0,0.108,0.5,122.187,4,romance
+14aeri9u3P1V00xOWczoR9,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Invitation to ershalaimskim adventures A. Dulova,1,224040,False,0.641,0.348,5,-11.694,0,0.0404,0.737,0.0,0.172,0.764,123.414,4,romance
+1dwYRsIu5GHqpyWTILLUOF,"Группа ""Загадка""",Коллекция застольной песни. Моторы пламенем объяты,"Ой, рябина кудрявая (Уральская рябинушка)",0,373053,False,0.245,0.138,9,-12.998,0,0.0359,0.93,0.0,0.115,0.284,174.957,5,romance
+4WHgIFXKIe8KjzRL3X12xK,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Snilsja mne sad,0,178613,False,0.19,0.315,7,-10.158,1,0.0406,0.94,6.08e-06,0.115,0.0998,81.573,4,romance
+1zo3vLyrNCxeVKfZ7LgXPl,Oleg Pogudin,Жаворонок,"Ямщик, не гони лошадей",0,231466,False,0.343,0.124,2,-15.975,0,0.0353,0.882,0.0102,0.0846,0.247,89.528,5,romance
+0DbjnobMwfD3rs9zcfCjfQ,Сергей Захаров,20 золотых шедевров романса,Милая,0,159760,False,0.263,0.404,2,-8.402,1,0.0393,0.926,0.00531,0.215,0.226,82.82,1,romance
+2ekuOuCfS6k0fNnxkyLHVb,Sergei Lemeshev,Русское наследие,Меж крутых бережков,0,184213,False,0.294,0.133,0,-17.964,1,0.052,0.994,5.68e-06,0.12,0.31,82.033,3,romance
+4y2jpiSWIFqdY01ZoUZUGK,"Группа ""Загадка""",Коллекция застольной песни. Вот кто-то с горочки спустился,Лодочка (Плыла-качалась лодочка),0,91466,False,0.706,0.162,9,-11.491,1,0.0465,0.957,0.0,0.0951,0.714,106.716,3,romance
+0kRXO4iwyNOktVFdBmmtbQ,"Группа ""Загадка""",20 лучших застольных песен. Коробушка,Пускай могила меня накажет,0,328146,False,0.416,0.199,9,-9.073,0,0.0297,0.896,0.0,0.272,0.371,134.821,4,romance
+2oTorCv9UquN9vZzd9ZfyB,Vadim Kozin,55 pesen o ljubvi muzhchiny zhenscinam,Tvoi glaza zeljonye,0,160733,False,0.337,0.41,0,-9.509,0,0.0339,0.989,0.0,0.39,0.486,136.286,4,romance
+2d2kyIZmaGEg0BOeQIgv1J,Sergei Lemeshev,Эстрада 40-х. Лучшие отечественные исполнители 40-х годов ХХ века,Жаворонок,0,203268,False,0.353,0.138,5,-12.453,0,0.0438,0.981,0.0,0.0947,0.209,90.2,3,romance
+5F6BHu75x6cSFQcWox5fxK,Boris Shtokolov;Анатолий Зыков,70 лет,Живёт моя отрада (feat. Анатолий Зыков),0,131440,False,0.493,0.34,11,-11.793,0,0.13,0.961,1.89e-05,0.0925,0.398,132.005,1,romance
+5YhazlK0bpn3WSPIUmpaKL,Oleg Pogudin,Русский романс. Часть II,Только раз бывает в жизни встречи,0,178346,False,0.361,0.0442,11,-22.473,0,0.0481,0.893,0.0,0.114,0.119,171.584,3,romance
+7ChlDmdiILGSif1jZX3dHy,Vladimir Nechaev;Владимир Бунчиков,Три брата (1941 - 1961),Шумит седой океан,0,259806,False,0.217,0.371,5,-16.977,0,0.0511,0.993,0.379,0.208,0.215,91.143,4,romance
+5a3atrwDjedqORUQGD3Y2p,Oleg Pogudin,Элегия концерт,Я вновь пред тобою,0,164320,False,0.435,0.0963,11,-18.574,0,0.0393,0.939,0.184,0.329,0.157,90.198,3,romance
+6dRn1qjVLCyMTrMnXj2ji0,Vladimir Nechaev;Владимир Бунчиков,Песня Юности (1941 - 1961),Песня о двух друзьях,0,236679,False,0.565,0.318,3,-13.133,1,0.0626,0.943,0.0,0.134,0.719,76.692,4,romance
+0pXXmshJb44maWuFeQcdpc,Vladimir Nechaev,Эстрада 50-х. Лучшие отечественные исполнители 50-х годов ХХ века,Зажглась заря вечерняя,0,131918,False,0.416,0.591,6,-8.394,1,0.0484,0.988,0.0517,0.215,0.519,82.46,4,romance
+0SIY0EVSYfJIDyIae3qCKS,Vadim Kozin,Поёт Вадим Козин (2022 Remastered),Русая Головка - 2022 Remastered,0,150000,False,0.539,0.207,2,-14.622,0,0.0518,0.975,3.29e-05,0.143,0.814,96.037,4,romance
+7oPeylKTrY3ALtZvhQxgR0,Tamara Tsereteli,Velikie ispolniteli Rossii XX veka: Tamara Tsereteli (Deluxe),"O, pozabud'!",0,172710,False,0.35,0.194,7,-15.448,0,0.0973,0.981,0.000629,0.108,0.316,68.762,3,romance
+34MVKkHUp5gVtqP5bXXdMu,Oleg Pogudin,Городской романс,Караван,0,264786,False,0.345,0.0855,2,-17.776,1,0.0516,0.925,2.86e-05,0.0784,0.0911,167.066,4,romance
+7rxbsAuzg9eKeVj40OQPc8,Oleg Pogudin,Je chante,Sa Jeunesse,0,292693,False,0.247,0.196,0,-13.074,0,0.0401,0.887,0.000397,0.218,0.116,75.593,5,romance
+5egq8VqY0Owa48ytUM4bXB,Nikolai Erdenko,Шедевры цыганской музыки. Цыганская скрипка,Цыганские напевы,0,396040,False,0.31,0.269,7,-14.806,0,0.0453,0.903,0.368,0.0621,0.25,179.042,4,romance
+4wEjsw3V6A8b9KtweSheio,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Дорогой длинною,"Все, что было",0,201986,False,0.454,0.255,11,-18.075,0,0.0402,0.278,0.0,0.103,0.574,100.36,5,romance
+2WGDTRC6XshzK8VNULDhAa,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Дорогой длинною,"Помню, помню я",0,165866,False,0.745,0.333,10,-18.067,0,0.056,0.357,0.0,0.17,0.622,114.917,3,romance
+6T32cF7Hn0Zi9d2CoWKjo3,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,Ty rjadom so mnoy,0,206961,False,0.325,0.373,2,-11.905,0,0.0356,0.977,0.43,0.335,0.494,84.552,4,romance
+4kVYZnaGFJoS7WPcmyByKW,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Otrada,0,131482,False,0.519,0.486,11,-14.31,0,0.107,0.918,1.33e-05,0.311,0.392,129.793,3,romance
+5rczbciKB9ozspbMjYPIRc,Sergei Lemeshev;Andrey Semjonov;Il'ja Mar'in,Velikie ispolniteli Rossii XX veka: Sergey Lemeshev (Deluxe Version),Mezh krutykh berezhkov,0,186030,False,0.349,0.229,4,-12.608,0,0.0404,0.994,0.0,0.294,0.375,103.885,4,romance
+24fsdEtEb9U7cwlPvbc5xr,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Ария Раджами Из Оперетты «Баядера»,0,145666,False,0.41,0.384,2,-7.537,0,0.0405,0.988,0.00384,0.0816,0.318,96.426,3,romance
+5GrzvSKmcqTUsRxwkQznEq,Oleg Pogudin,Избранное I (Live),"У зори –то, у зореньки - Live",0,205800,False,0.265,0.496,3,-10.317,0,0.0631,0.834,1.64e-06,0.706,0.156,175.223,3,romance
+7K8Qlqfmh9khKT0sv0IB9O,Tatiana and Sergey Nikitin,The Blue Color Vol.1,Waltz by candlelight,5,171441,False,0.589,0.0418,6,-24.051,0,0.107,0.969,0.0226,0.11,0.687,129.389,4,romance
+4wjZS87X6CU0XdkXiJY7lQ,Владимир Бунчиков;Ансамбль советской песни Всесоюзного радио,Песни нашей Родины. Выпуск 2,"Марш энтузиастов (Из к/ф ""Светлый путь"")",8,239006,False,0.464,0.442,1,-11.361,1,0.0693,0.973,0.0,0.0699,0.362,123.01,4,romance
+1kDgeQgIFa917vGDBq1jrX,Александр Добронравов,Лучшие песни,Чечёточка,0,218210,False,0.753,0.727,0,-7.751,0,0.205,0.217,0.0,0.091,0.715,110.012,4,romance
+5VovZWwXt4TP1ykxV9wgBh,Александр Цфасман;Юрий Силантьев;Эстрадно-симфонический оркестр Всесоюзного радио и Центрального телевидения,Юрий Силантьев: Памяти маэстро,Быстрое движение,0,184813,False,0.507,0.541,8,-11.854,1,0.0308,0.57,0.255,0.276,0.644,94.871,4,romance
+4aEztF3WEb8cBRrpa6mWQt,Стронгилла Иртлач,Две гитары,"Слушайте, если хотите",0,121555,False,0.431,0.105,11,-19.389,1,0.0464,0.963,4.72e-05,0.107,0.206,76.254,4,romance
+6FQjLBka6jZ7jVCnf00RH3,"Группа ""Загадка""",20 морских песен,"Эй, моряк",1,156560,False,0.472,0.402,9,-6.968,1,0.0649,0.79,0.0,0.0832,0.795,185.024,4,romance
+3WWs9j0WYgyfVw63qjZEBG,Галина Романова (Лёля Белая) и группа Первомайка,Последний луч заката. Народные романсы,По камешкам и кирпичикам,0,244845,False,0.525,0.378,10,-9.027,0,0.16,0.425,0.0,0.35,0.633,131.304,3,romance
+0TFXwCY9EDZ4UP1BmImJk6,Андрей Петров,Уличные мелодии в смокингах,"Веселый марш из кинофильма «Старая, старая сказка»",1,229533,False,0.482,0.339,5,-15.983,1,0.0378,0.84,0.759,0.153,0.36,131.095,4,romance
+0FkplQWAIMbCNcE700F4W5,Ivan Kozlovsky,На сопках Маньчжурии (1943 - 1956),В лесу прифронтовом,2,209163,False,0.391,0.376,9,-10.271,0,0.164,0.986,0.0,0.0971,0.509,78.124,3,romance
+44IP5qZCtn3xsmxL7QGYHk,Сергей Зыков,Первый снег,"Капризная, упрямая",0,306285,False,0.388,0.189,7,-12.88,0,0.0402,0.972,0.00203,0.0757,0.129,130.392,5,romance
+2i1B7kGUNligwBF3ae5pXl,Дмитрий Харатьян,Лучшие песни,"Ах, короли!",0,178976,False,0.624,0.785,7,-7.262,0,0.0718,0.478,0.0,0.271,0.723,76.949,4,romance
+10TcaC8gPaLnUTixaAiSWC,Надежда Обухова,Великие исполнители россии: надежда обухова,"Слушайте, если хотите",0,125133,False,0.465,0.0819,8,-15.578,1,0.0448,0.989,0.0,0.117,0.19,131.712,4,romance
+22kGU9Rc6stOsrekiVxn0l,Сергей Зыков,Память жива. Песни Арно Бабаджаняна,Письмо,0,284986,False,0.288,0.574,9,-6.211,0,0.0359,0.915,8.55e-06,0.12,0.2,101.334,3,romance
+7Dhqib7LpGjM2ZHZESq8Yl,Соня Тимофеева,Старинный романс,"О, позабудь былые увлеченья",0,194220,False,0.435,0.0332,5,-16.704,0,0.0394,0.963,0.0,0.103,0.367,95.57,5,romance
+4oCT3q3UTCA36cA11hW9rV,Соня Тимофеева,Цыганские народные песни,Кумушка,0,199758,False,0.421,0.339,0,-15.922,0,0.057,0.882,0.0436,0.334,0.495,111.275,4,romance
+0vXgVNMpd06n7g1MIIoAOG,Izabella Yurieva;Симон Каган,Сердце моё,Я жду тебя (ар. Евгений Рохлин),0,199173,False,0.519,0.236,11,-13.88,0,0.0915,0.995,0.789,0.123,0.461,87.101,3,romance
+07AZw96Z3hbOwqc26sMgao,Vadim Kozin,Очи чёрные,"Прощай, мой табор",0,166021,False,0.519,0.28,4,-8.109,0,0.0451,0.991,1.49e-06,0.205,0.292,102.36,4,romance
+5N05m5J5yKnkbIS8D1YVXP,Sergei Lemeshev,Русское наследие,"Эх ты, Ваня",0,189133,False,0.256,0.168,3,-16.912,1,0.0411,0.992,0.0012,0.244,0.126,97.992,4,romance
+0kWJ8smJRPgUVi45SODbhM,Sergei Lemeshev,Русское наследие,Когда я на почте служил ямщиком,0,308133,False,0.306,0.265,1,-15.967,1,0.106,0.968,0.0,0.218,0.46,77.215,4,romance
+1HHXhqKUKEyJ7RC8P7Mxck,Sergei Lemeshev,Русское наследие,Зимний вечер,0,186320,False,0.521,0.0568,8,-15.586,0,0.0567,0.98,0.0,0.16,0.45,104.887,3,romance
+0V9EiNRyvSlFbr6wnS3dyF,"Группа ""Загадка""",Коллекция застольной песни. Сулико,Огней так много золотых,0,192866,False,0.417,0.237,4,-9.193,0,0.0302,0.811,0.0,0.255,0.294,116.073,4,romance
+2wsAgS8LS8sT7NaRdD03zL,Oleg Pogudin,Юбилей,"Не уходи, побудь со мною",0,193280,False,0.292,0.216,6,-12.392,0,0.0395,0.956,0.0191,0.113,0.0725,95.703,3,romance
+4uNlpZbtKqeXhurSNyqzj4,"Группа ""Загадка""",Золотые застольные песни. Часть восьмая,Дайте ходу пароходу,0,210546,False,0.543,0.358,9,-7.874,0,0.146,0.824,0.0,0.108,0.477,90.955,3,romance
+0e9pDxoOOkDQijevdS6krs,Vadim Kozin,Вадим Козин. 20 лучших песен,Последний раз,0,182813,False,0.307,0.0272,0,-22.891,0,0.0449,0.991,0.00335,0.0592,0.072,172.324,4,romance
+6fK6zLRJgUBFQGAQlrIbFi,Vadim Kozin,Вадим Козин. 20 золотых песен,Восемнадцать и девятнадцать,0,140000,False,0.666,0.26,0,-12.66,1,0.0607,0.994,0.543,0.15,0.781,121.236,3,romance
+4UxDUJRtozMg3QmGtT1Yie,"Группа ""Загадка""","Коллекция застольной песни. Распрягайте, хлопцы, коней",Дайте ходу пароходу,0,210546,False,0.543,0.358,9,-7.874,0,0.146,0.824,0.0,0.108,0.477,90.955,3,romance
+5XAAoQE0GlAsLgPyup3aPY,Yuri Morfessi,Шедевры русской эстрады. Калитка,Калитка...,0,181693,False,0.372,0.112,0,-15.369,1,0.0514,0.995,0.000106,0.136,0.268,81.665,4,romance
+0CXCmKOPAacnKSX2clXlCZ,Maria Maksakova,Masha in Ukraine,Калина,0,275960,False,0.388,0.7,0,-5.214,0,0.033,0.135,2.58e-05,0.307,0.154,75.99,4,romance
+5AbnLCQFNfxyQnXgq7kp5y,Oleg Pogudin,Элегия концерт,Вам не понять моей печали,0,222266,False,0.48,0.119,9,-15.435,0,0.0472,0.933,5e-06,0.592,0.118,77.874,4,romance
+690PpvsMXhCXRQ9C0f6p5f,Nikolay Kopylov,Популярные Арии Из Опер И Классических Оперетт,Ария Ж. Жермона Из Оперы ''травиата'',0,280933,False,0.254,0.32,1,-10.509,1,0.0345,0.992,0.00498,0.11,0.15,74.416,4,romance
+6oQrWJ0m3LeQLSt6dfgS44,Yuri Morfessi,"Смейся, смейся громче всех",Кирпичики,0,157963,False,0.289,0.309,1,-9.379,0,0.0427,0.992,2.15e-06,0.151,0.451,176.318,3,romance
+1B27LNmD15BlaSRpi1hQtf,Sergei Lemeshev,Эстрада 50-х. Лучшие отечественные исполнители 50-х годов ХХ века,Вьётся вдаль тропа лесная,0,162191,False,0.33,0.43,4,-6.675,0,0.0282,0.948,4.11e-06,0.11,0.33,93.218,4,romance
+0v1Yw6CZy4xEkZHe8KllV5,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Ekhali tsygane,0,154549,False,0.483,0.268,4,-10.356,0,0.106,0.995,0.00538,0.0734,0.755,82.027,4,romance
+16ab1QJrOqJWzw1jAWd0Wt,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть третья,Шурьяки,0,176213,False,0.446,0.401,10,-17.215,0,0.072,0.91,0.0204,0.562,0.741,109.904,5,romance
+3g0IcGdbtXJGUW7Xj38dhi,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Дорогой длинною,Ты больная,0,289240,False,0.536,0.393,1,-19.204,1,0.0485,0.676,0.0,0.0623,0.397,110.175,3,romance
+3t0JZmC6J8EFG4Nfp2pyjT,Oleg Pogudin,Городской романс,Я вновь пред тобою,0,170853,False,0.436,0.141,11,-17.197,0,0.0393,0.943,0.00178,0.112,0.0727,93.817,3,romance
+0ksggmhAC7WlFWQf2AVhfg,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Звездочка,Холодный ветер,0,274320,False,0.355,0.186,1,-21.199,0,0.0348,0.917,0.0827,0.0993,0.149,61.367,3,romance
+3Q3ANlpg56NYfvBsTtoo39,Oleg Pogudin,Мелодия рассвета / Το μινόρε της αυγής,Поезд уходит в восемь / Το τρένο φεύγει στης οχτώ,0,176522,False,0.451,0.133,4,-16.147,0,0.0323,0.863,4.45e-05,0.112,0.301,76.866,4,romance
+0yFjiqcf961CTPJIOxJtjZ,Nikolay Kopylov,"Золотые Хиты Старинного Русского Романса, Часть 2",Мы Только Знакомы,0,129466,False,0.542,0.217,4,-12.526,0,0.0412,0.983,0.0194,0.101,0.192,104.58,4,romance
+08oB3NXB5ZdLxDk9VCnIb6,Konstantin Pluzhnikov;Mr.Gr.Ig.Al.,Стаканчики гранёные (Cut Glasses),"Понапрасну мальчик ходишь (Boy, You Go in Vain)",0,141840,False,0.616,0.359,4,-14.212,0,0.157,0.59,0.0,0.0733,0.696,139.497,4,romance
+7GIhswUp2I2noahbl1os5U,Tamara Tsereteli,Velikie ispolniteli Rossii XX veka: Tamara Tsereteli (Deluxe),Kanareechka,0,131671,False,0.601,0.127,9,-15.231,0,0.159,0.995,0.000363,0.228,0.818,76.548,4,romance
+2NSVyR2V60zggM7Am0FQqG,Oleg Pogudin,La serenata (Live),Surdaton`namurato (Live),0,167586,False,0.436,0.551,5,-7.216,0,0.0342,0.603,0.00693,0.646,0.428,120.86,4,romance
+0V84vkcmkVKjh99UKrEc2M,Gelena Velikanova,Zimnie pesni,Pervyy sneg,0,225041,False,0.461,0.168,0,-12.101,1,0.038,0.986,0.000372,0.112,0.311,129.003,4,romance
+6Lt01VhlbYELBIRO5OX8Tp,Nikolai Erdenko,The Best Gypsy Music - vol.1 (CD2),Snilsya Mne Sad,0,183680,False,0.216,0.0683,0,-18.52,1,0.0521,0.986,0.0374,0.0721,0.0375,81.431,3,romance
+6KoQ0HXjBb5h3Sw011HXWu,Ivan Kozlovsky;Yevgeny Svetlanov;Оркестр Большого театра,Dargomyzhsky: Rusalka,"Rusalka, Act III Scene 2: Cavatina of Prince ""Nevolno k etim grustnym beregam""",0,422066,False,0.268,0.131,8,-18.117,1,0.042,0.948,0.0,0.104,0.0853,128.661,1,romance
+3IS8GRdHhHQRwxdOpmZu4q,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Volume 1",Dubrava,0,195666,False,0.289,0.252,11,-14.286,0,0.0373,0.989,1.74e-05,0.191,0.208,99.708,5,romance
+4eyUfu56JmWzuOKr41Y2xy,Sergei Lemeshev;Евгений Белоусов;Валентина Петрова;Boris Khaikin;Оркестр Большого театра,"Tchaikovsky: Eugene Onegin, Op. 24","Eugene Onegin, Op. 24, Act I Scene 1: No. 5a, Scene and Quartet ""Mes-dames! Ya na sebya vzyal smelost""",3,111611,False,0.399,0.101,7,-17.888,1,0.0498,0.966,0.0,0.19,0.21,127.066,3,romance
+0QMVsQOKLsgcy33HWxkNsp,Ivan Petrov;Mikhail Shorin;Bolshoi Theatre Chorus and Orchestra,Eugene Onegin,Love is no respecter of age (Eugene Onegin),0,342893,False,0.249,0.138,6,-16.802,1,0.0558,0.99,0.0469,0.0995,0.146,73.182,3,romance
+1rJXpBmYrEdMXHsmYdIqQh,Ivan Petrov;Orchestra of the Bolshoi Theatre,Lebendige Vergangenheit - Ivan Petrov,The three Treasures (sung in russian) (Mazeppa),0,139493,False,0.215,0.279,3,-10.557,1,0.042,0.993,0.563,0.079,0.101,86.01,1,romance
+5ieQ7ACXKNy6UM3DUBjihs,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Vol. 2",Shestoj vagon vtoroe mesto,0,221749,False,0.332,0.232,1,-13.194,0,0.0325,0.977,0.00881,0.342,0.349,99.079,4,romance
+14fQbJ5Rf6Nuao1mGbme2r,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Lilovyy negr,11,168722,False,0.314,0.198,0,-17.584,0,0.167,0.991,0.0577,0.733,0.18,84.182,4,romance
+1lRBQxCm67YrKgfTPNdVV4,Tatiana and Sergey Nikitin,Brich-Mulla Vol.1,Oi Oi,1,208920,False,0.325,0.151,0,-15.538,1,0.0297,0.786,0.0,0.0813,0.1,106.146,4,romance
+3vICQMmq6wjrPrbwsv6wSZ,Александр Цфасман;Владимир Захаров,Александр Цфасман и звёзды советской эстрады,Письмо к любимой,0,171976,False,0.432,0.227,8,-12.213,1,0.0554,0.993,0.00165,0.413,0.282,126.018,4,romance
+2jncJLLaW8Uw8JdFNp0s3d,Николай Рыбников,"Ты да я, да мы с тобой",Тишина за Рогожской заставой,0,157801,False,0.424,0.185,8,-17.596,0,0.0517,0.995,6.63e-05,0.192,0.382,87.809,4,romance
+54kQW1Tdro8vfL84P7oDIk,Валерий Агафонов,Вам девятнадцать лет…,"Капризная, упрямая",0,223040,False,0.437,0.0916,9,-17.967,0,0.0419,0.972,0.0218,0.111,0.237,124.624,4,romance
+5o2TG8HvBzEujZQlITEuzP,Виктор Лебедев;Оркестр Ленинградского института культуры,"Танго ""Берет"" (Песни из любимых кинофильмов)","Ограбление банка - Из т/с ""Бюро счастья""",1,314801,False,0.525,0.501,5,-10.62,1,0.0498,0.441,0.686,0.108,0.336,99.915,4,romance
+2VvIUiPzHJcIwjUL5ZIxzZ,Аркадий Погодин,70 песен Победы,В парке Чаир,0,144600,False,0.495,0.213,0,-16.343,1,0.0541,0.98,0.0,0.385,0.683,77.914,1,romance
+7luPNDygl1pi2lMW4dPnJG,Александр Цфасман;Sergei Lemeshev,Александр Цфасман и звёзды советской эстрады,Голубой конверт,0,194246,False,0.395,0.263,0,-14.479,0,0.0564,0.9,0.0,0.237,0.358,121.13,4,romance
+5J4vJ4ZWumaLds2g6DjEwB,Александр Добронравов,Лучшие песни,Храмы России,0,245813,False,0.377,0.578,6,-9.78,0,0.0408,0.257,0.0,0.136,0.272,179.87,4,romance
+5uAC6mVNxp4vVbDp1dA2mh,Tatiana and Sergey Nikitin,The Blue Color Vol.1,"I'm sitting, my friends",0,134504,False,0.515,0.187,6,-19.249,0,0.194,0.872,0.0,0.135,0.569,133.531,4,romance
+66K36bjptNr0l2RL12ROjZ,Сергей Захаров,Великие исполнители России. Сергей Захаров,Мечта зеленоглазая,0,294653,False,0.286,0.741,4,-4.043,0,0.046,0.385,0.0622,0.337,0.434,117.675,4,romance
+6S9MdDD9WGs0yoh2yupMX1,Сергей Зыков,Память жива. Песни Арно Бабаджаняна,Твои следы,0,250066,False,0.256,0.525,1,-7.369,1,0.0471,0.943,4.32e-06,0.544,0.27,84.51,5,romance
+3Zl1BIkTA0SS2iY1w0pjQF,Стронгилла Иртлач,Две гитары,Гитара,0,214295,False,0.497,0.123,9,-18.701,0,0.117,0.994,0.0755,0.174,0.293,97.549,3,romance
+5mOYwLf0C2GFeLt8T0dKUp,Vadim Kozin,Счастье мое,Осень,0,182600,False,0.377,0.232,0,-11.482,0,0.0487,0.993,0.316,0.531,0.263,103.658,5,romance
+2Y1Xh17sIsCHhSx7G2td57,Надежда Обухова,Великие исполнители россии: надежда обухова,Сцена,0,625173,False,0.318,0.0981,1,-17.405,0,0.0593,0.972,2.69e-06,0.108,0.135,62.918,4,romance
+57jksH2dxkHmI9XOECQWDt,Alexander Vertinsky,Эстрада 50-х. Лучшие отечественные исполнители 50-х годов ХХ века,Доченьки,0,348102,False,0.498,0.11,0,-13.194,0,0.0811,0.983,2.35e-05,0.204,0.335,83.708,4,romance
+6AIEKcpcWMdfQ86p8McmBJ,"Группа ""Загадка""",Золотая коллекция эстрады. Раскинулись рельсы широко,Пропойте мне разлуку,0,154973,False,0.325,0.212,9,-8.179,0,0.0338,0.856,0.0,0.0872,0.466,174.719,5,romance
+4qk8TRTKURbYICrtfAfDYr,Izabella Yurieva,В парке Чаир,"Если можешь, прости",0,185965,False,0.538,0.241,1,-10.426,1,0.0388,0.985,0.0,0.0941,0.509,109.719,4,romance
+3BpzBv9MICTxozAKqLJfUW,"Группа ""Загадка""",Золотая коллекция эстрады. Сиреневый туман,Сиреневый туман,0,190800,False,0.556,0.229,2,-11.817,0,0.0676,0.869,0.0,0.0863,0.529,141.004,4,romance
+6I4vtlueXc8tnxoIZMw7q1,Владимир Бунчиков,70 песен Победы,Летят перелётные птицы,0,195613,False,0.529,0.385,10,-11.17,0,0.0471,0.88,5.89e-06,0.409,0.611,123.22,4,romance
+0WTMR6yPvnjjTil4XEMTBF,Сергей Захаров;Станислав Горковенко;Эстрадно-симфонический оркестр Ленинградского телевидения и радио имени Василия Соловьёва-Седого,Пойте о любви,Кто любит и любим,0,220880,False,0.306,0.49,9,-10.29,0,0.0384,0.608,0.000906,0.252,0.468,95.781,4,romance
+2vjN72K17CiSviA8s8AfoE,Vadim Kozin,Избранное,Жигули,0,188943,False,0.388,0.142,11,-14.039,0,0.0393,0.993,0.0,0.336,0.202,106.667,3,romance
+2J6hx9LbUIMhUETPp13rSV,Boris Shtokolov,"Гори, гори, моя звезда","Ямщик, не гони лошадей",0,268613,False,0.244,0.366,0,-12.686,0,0.0471,0.979,0.0816,0.115,0.109,153.188,3,romance
+2VpLjNjJpZGwCRLGDidHqt,Sergei Lemeshev,Сергей Лемешев. 20 лучших песен,"Эх, ты, душечка",0,204186,False,0.267,0.422,7,-11.141,0,0.0416,0.982,0.000435,0.0774,0.185,88.056,4,romance
+4mz7QTOsearY3W6aRPmrK4,Oleg Pogudin,Русский романс. Часть II,Моя душечка,0,135986,False,0.611,0.198,4,-15.871,0,0.307,0.808,0.0,0.114,0.511,96.001,3,romance
+7fois0iogLtPpeX8YzX802,Alexander Vertinsky,"Ремастированные Оригинальные Ретро Песни Советской России: Баллада, Романсы, Радиохиты Vol. 07, Ballads, Romances, Radio Hits of Soviet Russia",Jamais Bird Flobert,0,148146,False,0.347,0.17,6,-12.285,0,0.0377,0.965,0.0,0.202,0.192,83.483,5,romance
+5mTWN2AAAbTZDUrAHtHL9L,Vadim Kozin,"Russian Light Songs, Vol. 5: Recordings 1930 - 1960",Do Not Forget My Spring Tango [Ne zabыvaj moё vesennee tango],2,158306,False,0.502,0.294,5,-11.008,0,0.142,0.994,0.812,0.173,0.537,103.725,4,romance
+3DEP80dFPwaYskFpipy0CV,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Nadezhda Kazantseva (Deluxe),Poema,0,174645,False,0.291,0.116,1,-16.421,1,0.044,0.992,0.00107,0.102,0.113,100.629,5,romance
+04Wba2uZfXQcDksN1jfgY7,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,Песенка об открытой двери,0,252000,False,0.172,0.262,4,-12.92,0,0.0399,0.887,6.76e-05,0.141,0.145,183.244,3,romance
+4QOEtgtLYJ1gDCb10gyyY9,Vladimir Nechaev;Владимир Бунчиков,Три брата (1941 - 1961),Доставай свой старый чемодан,0,141500,False,0.611,0.493,7,-10.066,0,0.0489,0.98,0.0,0.329,0.549,120.28,4,romance
+0Oj68gImRy0oDYbHTb0MM2,Nikolay Kopylov,Популярные Арии И Дуэты Из Классических Оперетт,Куплеты Данило Из Оперетты ''веселая Вдова'',0,150400,False,0.414,0.416,8,-10.073,1,0.102,0.982,0.000356,0.0712,0.526,73.009,4,romance
+11IFUofpl5uugHVcpAKR1o,Gelena Velikanova,Золотая коллекция,Осенние листья,0,199079,False,0.392,0.153,4,-10.854,0,0.0513,0.977,1.61e-05,0.0978,0.277,168.707,1,romance
+0GjKzgERdNXhn6qV4Lf6gq,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,"Живописцы, окуните ваши кисти",0,130600,False,0.553,0.431,9,-9.029,0,0.0622,0.729,0.0,0.162,0.267,116.399,4,romance
+46Bpbkdjq4wXOiI6EtXR5X,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть первая,Пара гнедых,0,323600,False,0.478,0.248,8,-18.964,1,0.0317,0.747,1.59e-06,0.106,0.23,133.345,4,romance
+3RHNwBmT7k11R59zArhyHK,Strongilla Irtlach,"Romansy Rossii, Chast’ 2",My dolgo shli rjadom,0,202483,False,0.351,0.12,1,-15.49,0,0.0417,0.953,1.09e-05,0.108,0.0632,167.186,3,romance
+5ipA1Vs1wWS85ndO7A1F85,Sergei Lemeshev,Russian Vocal School. Sergey Lemeshev (CD2),Lutchinushka,0,269000,False,0.123,0.272,7,-16.685,1,0.0481,0.968,0.0906,0.109,0.138,57.886,5,romance
+7F5xiwp2xK6gwJjQdiZoXu,Oleg Pogudin,Je chante,Pour fair une jam,0,187265,False,0.504,0.421,6,-7.465,0,0.0587,0.802,1.31e-05,0.201,0.579,163.715,4,romance
+4OGTClZTIEwlfFeP0APZww,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть первая,"Эй, ямщик, гони-ка к Яру",0,189080,False,0.355,0.265,5,-18.811,0,0.0393,0.909,0.0,0.146,0.306,99.714,4,romance
+14lPj0tv1uLlli3b4CFrCg,Nikolay Kopylov,Вечер Старинного Русского Романса,Улица-Улица,0,179706,False,0.586,0.218,7,-14.036,1,0.231,0.985,1.59e-06,0.939,0.46,120.164,4,romance
+2fS6TdSfezpb420tLiOcAl,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Ария Мистера Х Из Оперетты «Принцесса Цирка»,0,237733,False,0.179,0.445,10,-9.089,0,0.0474,0.99,0.538,0.111,0.192,70.396,4,romance
+4mp3Q179yc5kcJHjJnttas,Nadezhda Obukhova,World Ethno Music: Russian songs,Ya Vecher Mlada,0,88999,False,0.437,0.346,7,-8.02,1,0.0551,0.96,0.0,0.129,0.687,127.945,4,romance
+5o30AUzgF2rLaRCVUVJty3,Vladimir Nechaev,"Russkie narodnye pesni, Chast' 2",Byloe na Volge,0,272536,False,0.297,0.321,8,-10.224,0,0.038,0.982,5.64e-05,0.108,0.319,113.078,3,romance
+6BjNlZkj87pfFZyb8Roedl,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Tsyganskaja melodija,0,141606,False,0.359,0.458,0,-11.741,0,0.0733,0.761,0.358,0.147,0.368,119.707,4,romance
+1lOJetNqXyO7cBqmtZTgkT,Zhanna Bichevskaya;Gennadiy Ponomarjov,Osen' muzykanta,Rakovina,0,435600,False,0.381,0.724,11,-6.528,0,0.0471,0.0507,0.0015,0.374,0.149,110.037,4,romance
+0AenbUijzoHtWVY45U9X1d,Nikolay Kopylov,Популярные Арии Из Опер,Каватина Фигаро Из Оперы ''севильский Цирюльник',0,316666,False,0.342,0.513,7,-7.865,1,0.0634,0.985,0.238,0.103,0.5,70.512,4,romance
+0B5tAQg1KdBGeRFXc2HcmC,Nikolay Erdenko;Djang,The Long Road: 20 Best of Russian Gypsy Songs,The Garden Dreamed Me,0,217413,False,0.261,0.163,1,-21.387,1,0.0404,0.935,0.0737,0.129,0.14,124.057,4,romance
+1gjCAwgzfLer27fudfDAmn,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol.2,"Farewell, My Camp",0,158827,False,0.367,0.371,0,-8.654,1,0.0444,0.899,0.000842,0.0765,0.392,90.518,4,romance
+3SSymnRDRItq1NO9DSBOUd,Vladimir Nechaev,"Russian Legends - Vladimir Nechaev, Volume 1",U nas v obschezhitii svadba,0,187800,False,0.499,0.277,10,-11.673,0,0.0359,0.988,0.000297,0.13,0.569,114.113,4,romance
+5g1LRVVhKZMmxl3w4qoC1J,Keto Dzhaparidze,"Anthology of Russian Romance: Old Russian Romances, Vol. 1",Kak Khoroshi Te Ochi (How Beautiful Those Eyes Are),0,145440,False,0.517,0.0721,8,-20.997,1,0.0795,0.995,0.00427,0.177,0.245,122.744,5,romance
+5jmM6f6mk89lQjntX3oG49,Feodor Chaliapin,Lebendige Vergangenheit - Feodor Chaliapin,Le veau d´or (sung in Russian) (Faust),0,121426,False,0.63,0.277,5,-11.939,0,0.0975,0.996,0.693,0.324,0.757,117.842,4,romance
+2ndSIY6A6ErqGOyRByUn4t,Kvatro,XV лет. Посвящение женщине. Часть 3,Позови меня с собой,18,246575,False,0.493,0.503,5,-4.92,0,0.0486,0.657,0.0,0.217,0.224,139.294,4,romance
+7eMCZz6HaMEG0UQ7u3kLi5,Иван Петров;Марк Решетин;Alexander Melik-Pashayev;Оркестр Большого театра,Mussorgsky: Boris Godunov,"Boris Godunov, Act IV Scene 2: Pimen's Story ""Smirenny inok""",0,299154,False,0.212,0.174,2,-19.164,0,0.05,0.989,0.0225,0.202,0.1,76.789,4,romance
+494ZlBmGxqwhL5JRIo5N3P,Александр Цфасман,Избранное,Шутка,0,118491,False,0.601,0.4,5,-13.191,1,0.0379,0.901,0.308,0.47,0.964,110.576,1,romance
+0NIpFxO2TIPUEjNgczHrsP,Сергей Зыков,Первый снег,"Улица, улица",0,208613,False,0.495,0.372,7,-10.438,1,0.0435,0.971,0.00526,0.0455,0.827,135.657,3,romance
+5HodBLNumkv6dPEYVPungU,Галина Карева,Не пробуждай воспоминаний (Имена на все времена),Звёзды на небе,0,106573,False,0.344,0.264,9,-14.2,0,0.0375,0.974,7.34e-06,0.105,0.0458,83.223,3,romance
+3PiCfazoaP1Cb0uvFF30Lm,Александр Цфасман;Ефрем Флакс,Я люблю танцевать,"Нет, нельзя",0,231810,False,0.278,0.215,3,-19.487,1,0.0613,0.89,0.0165,0.891,0.36,89.348,3,romance
+6WRAT99PciJ4p8ZaOeMIZH,Михаил Вавич,Золотой фонд 19го века,Ночи безумные,0,170053,False,0.211,0.488,10,-7.149,1,0.0425,0.993,0.188,0.215,0.208,78.623,3,romance
+0YkY9k8pZvkGylvuWU9s7D,Валерий Агафонов,За кордоном – любовь,Когда я вернусь,0,149120,False,0.479,0.115,3,-19.631,0,0.0607,0.983,0.392,0.108,0.266,64.222,3,romance
+4d0nCPMwYVDxnF4bafdE9m,Сергей Зыков;Михаил Лихачёв;Алина Атласова,Разбуди меня завтра рано. Песни на стихи Сергея Есенина,Ямщик,0,94493,False,0.706,0.323,4,-10.565,0,0.0557,0.989,0.0,0.0969,0.956,92.312,3,romance
+1ODwrtNEHKocYj8g0fBp9e,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть вторая,Любушка,1,161840,False,0.555,0.235,5,-13.783,0,0.0714,0.995,0.00799,0.197,0.751,124.688,4,romance
+1OCQiEKVQwMJudMMtEuc86,Надежда Обухова,Великие исполнители россии: надежда обухова,Плакучие ивы,0,188213,False,0.316,0.11,10,-17.088,0,0.0487,0.99,0.0,0.0908,0.163,92.705,5,romance
+4Yo8NjfdMJNhaVP1RqDjR2,Валерий Агафонов,Ещё не раз вы вспомните меня,Признание,0,190453,False,0.384,0.0735,3,-20.411,0,0.0992,0.986,0.00254,0.0957,0.305,86.364,3,romance
+0Eudle2XKKlA3LRyGsHGvb,Валерий Агафонов,Вам девятнадцать лет…,Снился мне сад,0,163973,False,0.367,0.129,11,-16.798,0,0.0428,0.979,0.171,0.116,0.0585,62.87,3,romance
+1LfSpQ86501X6r8IxoVsZi,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Na karnavale,0,165469,False,0.619,0.154,3,-14.302,1,0.239,0.993,0.111,0.184,0.238,76.526,3,romance
+2neMiBnoc9v3R4pwvy2wEf,Дмитрий Харатьян,"Митяевские песни, Ч. 4",Его большое сердце,0,201038,False,0.716,0.545,9,-9.711,0,0.04,0.265,0.0,0.0463,0.761,100.004,3,romance
+5KyoB1RSFJH9axTWhSlFos,Алёша Димитриевич,Эмигрантское танго,Гоп со смыком,0,197493,False,0.572,0.387,0,-17.043,0,0.11,0.659,4.23e-05,0.695,0.849,98.836,4,romance
+6AcWIZ1qNMpxpapcUIb5uj,Владимир Бунчиков,Севастопольский Вальс (1943 - 1961),"Это мы, молодежь",0,172963,False,0.495,0.535,3,-10.856,0,0.0457,0.914,0.0,0.347,0.368,122.722,4,romance
+3pvQ1YUVKX87SCc5vquYSo,Александр Добронравов,Лучшие песни,Воды Атлантики,0,303755,False,0.562,0.784,4,-5.929,0,0.045,0.157,1.73e-05,0.0675,0.3,117.062,3,romance
+3qy0Gn4CwyfoUu5LnntcMo,Oleg Pogudin,Я сохраню слова любви,"Гори, гори, моя звезда",2,215426,False,0.429,0.0584,11,-22.624,0,0.0381,0.907,0.00187,0.0841,0.16,67.244,3,romance
+0ynNz2CoySv6prEauAqORq,Vadim Kozin,"Осень, прозрачное утро (Имена на все времена)",Я ненавижу в людях ложь,0,123946,False,0.5,0.116,0,-11.531,0,0.376,0.987,3.36e-06,0.118,0.325,59.68,3,romance
+0WI5prdi6MYOnSKUblKl76,Oleg Pogudin,Русское танго,Тайна,1,162901,False,0.425,0.248,8,-11.068,0,0.0371,0.84,0.0041,0.112,0.363,121.424,4,romance
+1ML1Atm16oxlqd2efZIRu6,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Tvoi pis'ma,0,192988,False,0.569,0.192,9,-12.061,0,0.0865,0.991,0.0,0.2,0.483,134.282,4,romance
+5cCN5ZbuUgIRaSMQytrMob,Oleg Pogudin,Юбилей,"Эх, друг гитара",0,143760,False,0.449,0.368,4,-8.703,0,0.0633,0.829,0.0,0.0951,0.311,98.481,4,romance
+68Yx4cOTBvQkI7u5sHcZ0l,"Группа ""Загадка""",Золотые застольные песни. Часть третья,На побывку едет,0,238893,False,0.482,0.228,7,-9.039,0,0.0323,0.862,0.0,0.0513,0.429,70.12,4,romance
+0KKpLmein9ebBoKHotSFW0,Oleg Pogudin,Юбилей,Кончилось счастье,0,196400,False,0.309,0.294,11,-14.309,0,0.0424,0.884,0.00059,0.142,0.147,90.51,3,romance
+23u1AdnKcmgHRmibMgw6Gb,Александр Добронравов,Избранное,Есть женщины в русских селеньях,0,172410,False,0.418,0.441,7,-9.269,1,0.0354,0.46,0.0,0.0541,0.377,102.351,3,romance
+0oykoQRx0Zg25RDRNMyeg2,Nikolai Erdenko,Шедевры цыганской музыки. Цыганская скрипка,Порги,0,125080,False,0.252,0.304,10,-10.683,1,0.0363,0.713,0.0109,0.11,0.0893,85.309,3,romance
+1Wa6cdMc9j2HHLChVFfgCQ,Sergei Lemeshev,Сергей Лемешев. 20 лучших песен,Липа вековая,0,335506,False,0.198,0.247,4,-17.744,0,0.0448,0.959,0.00143,0.138,0.183,81.868,3,romance
+77ou4xwREuG6rqriGgWnpd,Vadim Kozin,Вадим Козин. 20 лучших песен,Я живу на улице Портовой,0,108200,False,0.678,0.106,0,-14.393,0,0.242,0.981,0.0,0.134,0.633,137.354,4,romance
+5pZKRP7OHyKRog7qI7esqF,Ivan Kozlovsky,Songs of Old Russia / Popular Russian Music From the 50's,Ozhidanyie - Zachem Sidish Polunchi,3,198706,False,0.272,0.0616,0,-16.787,0,0.0455,0.989,1.97e-05,0.118,0.119,168.525,3,romance
+5nT5tJaCZuizGCvGdLIw7t,Oleg Pogudin,От моей негасимой любви... Песни военных лет,В лесу прифронтовом,0,240173,False,0.308,0.396,4,-8.759,0,0.0736,0.95,2.67e-05,0.288,0.35,178.252,3,romance
+41N3Un7cXuEVtT8GwmheVb,Vladimir Nechaev;Владимир Бунчиков,Три брата (1941 - 1961),"Спасибо, Великий Учитель",0,187128,False,0.333,0.245,5,-14.394,1,0.0392,0.949,9.64e-06,0.532,0.373,88.596,4,romance
+1mZ7lCKrt16ugBdxwyGZxs,"Nikolai Erdenko;Ансамбль ""Джанг""",Шедевры цыганской музыки. Лучшие цыганские песни,"Помню, помню я",0,165866,False,0.745,0.333,10,-18.067,0,0.056,0.357,0.0,0.17,0.622,114.917,3,romance
+4lvsrQ04zDRHa6qr4uLwu7,Vladimir Nechaev,Все за Родину / Песни военных лет [1942],Все равно,0,158288,False,0.399,0.238,5,-10.173,1,0.0438,0.99,0.261,0.0789,0.71,91.851,3,romance
+3AWIsTih1Uz407KSvkJrbj,Oleg Pogudin,Русское танго,"Так дымно, что в зеркале нет отраженья...",0,223413,False,0.488,0.297,11,-9.898,0,0.0358,0.794,5.69e-05,0.0734,0.554,126.404,4,romance
+4ky239WwcQFzDoU0ys5Xe3,Ivan Kozlovsky;хор Большого театра;Yevgeny Svetlanov;Оркестр Большого театра,Dargomyzhsky: Rusalka,"Rusalka, Act II: Chorus ""Kak vo gornitse-svetlitse""",0,262213,False,0.433,0.194,8,-14.452,1,0.0398,0.932,0.0,0.139,0.374,123.81,4,romance
+34Wo7ICZYBwawhFjREVQPV,Nikolay Erdenko,"Romansy Rossii, Chast’ 1",Zachem ja vljubilsja,0,146712,False,0.377,0.181,7,-14.177,0,0.0402,0.981,0.000311,0.23,0.0995,86.99,4,romance
+2ZXBffiqoobplv6JZaygwF,Кето Джапаридзе,Old Russian Romances (Remastered),Не Вспоминай - Remastered,0,164911,False,0.372,0.164,5,-16.316,0,0.0428,0.995,0.809,0.116,0.134,137.258,3,romance
+6Qgqx0O4k3bByLUbQFMhfh,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,Dunay goluboy,0,231107,False,0.456,0.366,2,-9.917,0,0.033,0.961,1.78e-06,0.0886,0.425,98.373,4,romance
+46LAxxMVTZ4dHpTUWr88yQ,Sergei Lemeshev,Russian Vocal School. Sergey Lemeshev (CD2),"Eh You, Van'ka",0,202000,False,0.265,0.261,0,-15.024,0,0.0452,0.97,0.0186,0.0947,0.204,87.589,5,romance
+2PdFVUV6dP1ih2E8MqDZGO,Nikolay Kopylov,Вечер Старинного Русского Романса,Очи Черные,0,153453,False,0.492,0.289,0,-12.758,0,0.0601,0.982,0.00144,0.748,0.225,101.648,4,romance
+41Odu9Rs8svML5i4dnUIgP,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,Vesennie stradanija,0,221524,False,0.414,0.168,4,-8.55,1,0.0696,0.994,6.92e-06,0.342,0.497,177.151,4,romance
+5iC2KAaeDcjR1UBmiUDac0,Nikolai Erdenko,20 золотых романсов на скрипке,Я встретил Вас,0,226880,False,0.226,0.19,2,-15.303,0,0.0423,0.194,0.544,0.1,0.063,48.443,4,romance
+4R6CTUqISDAkCh9ruh4Q7z,Nikolai Erdenko,20 золотых романсов на скрипке,На заре ты ее не буди,0,73520,False,0.573,0.278,2,-12.266,0,0.067,0.953,0.661,0.356,0.83,176.308,4,romance
+48YZHLfSFnGPFmaGjJV05d,Oleg Pogudin,La serenata (Live),I’ te vurria vasa (Live),0,226240,False,0.247,0.553,4,-9.722,1,0.0484,0.818,0.000422,0.95,0.14,101.586,5,romance
+3oETjW03c8oLrx4HwXrPVo,Sergei Lemeshev,"Russkie narodnye pesni, Chast' 2",Pesnja bobylja,0,126911,False,0.618,0.644,5,-9.756,0,0.35,0.898,0.0,0.633,0.804,107.485,4,romance
+2szawx3FdEbLv7ah5vFYzL,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol.2,Farewell Love,0,302827,False,0.404,0.115,0,-16.676,0,0.0572,0.867,0.00118,0.101,0.143,91.025,3,romance
+6pcKE146x55SPk6g3Cnhq1,Nikolay Kopylov,Две гитары (Старинные Русские Романсы)/ Two Guitars (Ancient Russian Romances),Поручение и молитва (Assignment and Pray),0,276306,False,0.219,0.341,3,-8.249,0,0.0327,0.98,0.0493,0.107,0.127,179.646,4,romance
+1Xh2C1nUGfAsujetW9e2KA,Strongilla Irtlach;Alexei Kuzmin,Anthology of Russian Gipsy Romance: Strongilla Irtlach,Ya ne skazhu tebe / I Won't Tell You,0,275933,False,0.383,0.28,8,-13.525,1,0.0415,0.962,0.0,0.205,0.335,94.021,4,romance
+781FLFgFyTI1qrS7QUNOdN,Nadezhda Kazantseva,Velikie ispolniteli Rossii XX veka: Luchshie romansy,Zolotaja rybka,0,149481,False,0.394,0.192,3,-12.143,0,0.0449,0.987,0.0,0.12,0.202,88.21,4,romance
+3gHheP8xWToFNxCakCIl4Q,Alexander Vertinsky,Волшебный Мир Русского Романса,Прощальный ужин,3,164048,False,0.41,0.191,5,-18.697,1,0.184,0.948,2.76e-06,0.725,0.24,77.527,1,romance
+73WpIpfbvow1ZrPTimeHsv,Alexander Vertinsky,"Русский Свет Песни, том 2 / Записи 1933 - 1957",Malenkij Kreolčik,5,167578,False,0.471,0.0827,7,-12.718,0,0.103,0.994,5.78e-05,0.244,0.196,87.225,3,romance
+6GdYfkG1UpFLinXttOtP2v,Тамара Церетели,Любимые русские романсы,Взгляд твоих чёрных очей,1,155195,False,0.318,0.131,5,-18.588,0,0.0447,0.987,0.00682,0.101,0.143,84.422,1,romance
+5CdFHjd5D1lzKEriu496St,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),Марш веселых ребят,0,280100,False,0.558,0.532,3,-11.985,1,0.0986,0.849,0.0,0.275,0.416,118.266,4,romance
+3Wi4l9OGN3UJdkfAiNAOGu,Галина Романова (Лёля Белая) и группа Первомайка,Последний луч заката. Народные романсы,Листки календаря,0,248476,False,0.365,0.186,7,-15.309,0,0.0324,0.892,0.000857,0.142,0.129,127.784,4,romance
+6FV3JDjcNWsDq0aglYVQZ3,Александр Цфасман;Georgi Vinogradov,Александр Цфасман и звёзды советской эстрады,Утомлённое солнце (Расставание),0,178102,False,0.564,0.223,5,-15.675,0,0.0422,0.985,0.715,0.103,0.748,121.173,4,romance
+0HEx5h1Bi6w1HTK6IUd3J2,Сергей Захаров,Великие исполнители России. Сергей Захаров,Светит месяц,0,202400,False,0.513,0.781,0,-4.003,1,0.0559,0.107,0.512,0.201,0.837,96.887,4,romance
+4ahTGb6msfW2UCInFDdwMG,Надежда Обухова;Матвей Сахаров,Песни советских композиторов,Песня о песне,0,256821,False,0.267,0.0609,2,-20.214,0,0.0492,0.991,1.06e-06,0.079,0.123,74.05,4,romance
+5EDcaX50EdVFD5NpWsDZGh,Андрей Петров,Флейта-позвоночник,Во весь голос,0,171232,False,0.534,0.781,9,-4.8,1,0.144,0.633,0.0,0.133,0.818,108.67,4,romance
+6zlRBuvJ4wjPr51wiiDCMW,"Группа ""Загадка""","20 лучших ресторанных песен. Ой, цветет калина",Одинокая гармонь,1,209933,False,0.396,0.312,9,-8.374,0,0.0331,0.815,0.0,0.0594,0.347,142.454,4,romance
+2dmnEcMwk2aNbDiKbHa7cZ,Сергей Зыков,Память жива. Песни Арно Бабаджаняна,Верни мне музыку,0,210133,False,0.206,0.754,9,-4.594,1,0.0638,0.962,5.63e-06,0.267,0.627,77.877,4,romance
+5sVDV6amXLSNsQINI81KKN,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Snezhnaja kolybel'naja,2,171630,False,0.34,0.362,2,-13.495,0,0.192,0.968,0.0,0.175,0.133,79.157,3,romance
+3Ty0MazEBLUZ7vILFRe9NR,Александр Добронравов,"Мужики, как мужики...",Прекрасна Родина зимой,0,279860,False,0.29,0.653,5,-4.034,1,0.0326,0.152,0.0,0.14,0.351,76.595,4,romance
+1Mf2v4uKGP5pfcdYWJvo9B,"Группа ""Загадка""",Золотая коллекция эстрады. Раскинулись рельсы широко,Первая любовь,0,157746,False,0.658,0.412,10,-5.865,0,0.0585,0.775,0.0,0.106,0.684,106.876,4,romance
+0Mai9obTU8IuRBmUau3CkH,Nikolay Kopylov,"Сергей Рахманинов, Романсы",Ночь Печальна,0,126586,False,0.351,0.239,1,-15.79,0,0.0447,0.99,0.00488,0.176,0.077,145.327,3,romance
+7aneRt7P9F6ZmyxtCAH0ld,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть первая,Ее любовь,0,302866,False,0.607,0.06,7,-18.54,0,0.143,0.984,2.07e-06,0.103,0.3,116.656,4,romance
+1dPeJW9fBGGpbSd5JzM6bd,Vadim Kozin,Последний концерт,Локон матери,0,176413,False,0.463,0.0984,5,-18.007,0,0.151,0.971,3.94e-05,0.0753,0.335,166.172,4,romance
+0HsBgPFxxuuWIrXmwsU838,Oleg Pogudin,Жаворонок,Динь-динь-динь,1,178440,False,0.33,0.0451,4,-21.758,0,0.0336,0.81,0.0239,0.102,0.218,96.056,4,romance
+3krhZHEoxk1k4YISTHFdpU,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Olovjannoe serdtse,0,174575,False,0.534,0.0296,8,-18.989,1,0.152,0.995,4.27e-06,0.121,0.33,75.357,1,romance
+6h1UhdwT3PIjXauQmYgEBx,Izabella Yurieva;Борис Кремотат;Михаил Минин,Сердце моё,Спускалась ночная прохлада,0,204840,False,0.385,0.0999,1,-15.25,1,0.049,0.993,0.0171,0.121,0.247,84.841,3,romance
+5RjeuKVacq40VvPge2iFgD,"Группа ""Загадка""",20 лучших ресторанных песен. Калина красная,Счастье мое,0,152066,False,0.497,0.227,0,-8.993,1,0.0404,0.834,0.0,0.328,0.537,123.537,4,romance
+5mchyzusQOAnfVLHHXTIC0,Vadim Kozin,Избранное,Бирюзовые колечки,0,97410,False,0.572,0.244,1,-15.266,1,0.0828,0.993,0.0148,0.13,0.89,88.716,1,romance
+3Wrhsx8dv9vGVC03HvACvB,Vadim Kozin,Волшебный Мир Русского Романса,Газовая косынка,0,172225,False,0.386,0.143,0,-13.749,1,0.0446,0.991,1.08e-06,0.375,0.199,82.234,3,romance
+4xZHTNlNrjrWtLqHkbK5RO,"Группа ""Загадка""","20 лучших ресторанных песен. Ой, цветет калина","А за окном то дождь, то снег",0,215960,False,0.62,0.25,7,-10.793,0,0.0475,0.913,0.0,0.0733,0.586,132.383,4,romance
+1hgitBIufJCzMGWatsfA6l,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Lokon materi,0,192039,False,0.41,0.144,6,-13.811,0,0.133,0.992,0.00609,0.145,0.158,145.496,3,romance
+3DyfsdO2YIRAdRJ3Ok4wMx,Vadim Kozin,"Гори, гори, моя звезда",Снился мне сад,0,142197,False,0.221,0.169,10,-15.821,1,0.0631,0.992,0.0489,0.133,0.0412,58.679,4,romance
+0slKJg2GIV7JzuxpvPXBFy,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть вторая,Я люблю Вас так безумно,0,147226,False,0.606,0.124,3,-16.744,0,0.0557,0.995,0.0867,0.0986,0.452,113.227,3,romance
+4rfueQaH1t3U4CfqR6CBGb,Oleg Pogudin,Русское танго,Люблю,0,183237,False,0.507,0.288,9,-10.328,1,0.0373,0.843,0.0115,0.124,0.572,118.593,4,romance
+6sKcSNpxzbFsOHuCvOACrW,Oleg Pogudin,Русский романс. Часть II,Затворница,0,160533,False,0.569,0.086,7,-19.838,1,0.0522,0.894,0.0,0.108,0.503,100.304,4,romance
+5xLFCdgI2W9zzf2B1Ilot0,Oleg Pogudin,Русское танго,Дымок от папиросы,0,173104,False,0.458,0.257,5,-12.275,0,0.0422,0.845,0.00805,0.187,0.527,125.581,4,romance
+5mpoyBYJvkAXjhNp71921W,Вероника Борисенко;Yevgeny Svetlanov;Оркестр Большого театра,Dargomyzhsky: Rusalka,"Rusalka, Act III Scene 1: Introduction and Princess' Aria ""Chu! Kazhetsya, trubyat!""",0,500579,False,0.233,0.167,0,-16.188,1,0.0619,0.963,0.0,0.418,0.0651,173.991,3,romance
+31OVmkvQJ82we6Cvtz4uzj,Валерий Агафонов,Вениамин Баснер: Белой акации гроздья душистые. Песни из кинофильмов,Белой акации гроздья душистые... - романс из к/ф ''Дни Турбиных'',0,223200,False,0.456,0.0859,3,-22.514,1,0.0408,0.972,0.213,0.0958,0.186,113.941,3,romance
+5sUdoB1HpxwOt6MescTU7q,Oleg Pogudin,Юбилей,Notte senza luna,0,165626,False,0.48,0.286,9,-11.101,0,0.0358,0.771,0.0152,0.185,0.329,115.104,4,romance
+37Yjhk6ZKI2yDtZ5k7MToJ,Nikolay Kopylov,"Золотые Хиты Старинного Русского Романса, Часть 1",Хризантемы,0,178840,False,0.248,0.303,11,-13.588,0,0.042,0.977,0.274,0.138,0.158,95.66,4,romance
+0OMrUcd4KFdnGJY5nOAUdu,Nikolay Kopylov,"Петр Чайковский, Романсы",Отчего?,0,170240,False,0.353,0.424,11,-10.643,1,0.0436,0.991,0.000374,0.116,0.153,132.073,4,romance
+5OtCsD65rQmnddHkBQduJb,Maria Maksakova,Russian Folk Songs,"Цвели, цвели цветики",0,156013,False,0.255,0.187,3,-12.497,1,0.0351,0.992,0.0,0.111,0.155,86.38,4,romance
+5mqMiyQncZO1KJOKdORzA1,Sergei Lemeshev,В эту лунную ночь,Роняет лес багряный свой убор,0,197786,False,0.334,0.18,6,-14.943,0,0.0645,0.992,5.12e-06,0.147,0.112,83.135,1,romance
+5sHfmvkVuhNoZwiVKfYjn0,Nikolai Erdenko,Классические песни русских цыган,"О, день",0,157893,False,0.349,0.589,2,-11.83,0,0.095,0.904,0.0113,0.252,0.685,72.611,4,romance
+1n3S0Qwsw56T2S69LOZpGL,Ivan Kozlovsky,Russian horses,The black-daring horse,0,319477,True,0.307,0.0851,9,-17.663,0,0.041,0.984,0.000114,0.113,0.109,90.081,4,romance
+4wTMYsUaXJFwT9CqA0TOzX,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Malen'kaja khora,0,197510,False,0.56,0.422,4,-11.996,0,0.0416,0.769,0.31,0.118,0.477,96.446,4,romance
+6yY6KYg24ZOyjMscG0GIfH,Ivan Kozlovsky,"Romansy: Gori, gori, moja zvezda…",Ne probuzhday vospominan'ja,0,346872,False,0.288,0.149,0,-9.866,1,0.0364,0.977,6.29e-06,0.106,0.106,89.63,5,romance
+014yBfk5cE068jlXiX59l0,Oleg Pogudin,Городской романс,Не пробуждай воспоминаний,0,240080,False,0.328,0.0985,2,-18.566,0,0.0357,0.934,0.00363,0.141,0.174,91.147,3,romance
+3TeGnh9c51Du7BHtRkOeS6,Oleg Pogudin,Bella Ciao,The Leningrad Drinking Song,0,177133,False,0.713,0.594,3,-6.49,0,0.0637,0.593,0.0,0.836,0.682,101.974,3,romance
+2gZ45Yb8HkHKRFGRZXZ04v,Sergei Lemeshev;Unknown Artist,Tchaikovsky: Songs (Live),Between the Steep Banks of the River,0,255453,False,0.287,0.369,4,-13.136,0,0.0466,0.983,0.153,0.341,0.354,102.007,4,romance
+73RnyZF7SsGjspF8TpHHBu,Gelena Velikanova,Первая встреча (2022 Remastered),Пичирильо - 2022 Remastered,0,148055,False,0.81,0.364,5,-9.221,1,0.11,0.882,1.83e-05,0.276,0.966,126.3,4,romance
+40hdtURHdXL441fg20L5gI,Gelena Velikanova,Zimnie pesni,Esli jolka ognjami tsvetjot,0,90160,False,0.637,0.356,4,-9.434,0,0.199,0.986,0.0,0.615,0.701,81.059,5,romance
+2G3BepR1Bxuwah8sI2LYDa,Sergei Lemeshev;Osipov State Russian Folk Orchestra,Legends of Bolshoi: Russian Folk Songs (Live),Dunya the Fine Spinner (Live),0,108733,False,0.514,0.2,9,-18.475,0,0.0872,0.966,0.315,0.107,0.722,120.287,4,romance
+1uBuhpNAXERLNTfo7EvEUP,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol.2,Your Green Eyes,0,217293,False,0.426,0.459,2,-8.289,1,0.0465,0.88,0.00216,0.281,0.473,114.323,3,romance
+66hhxzBA0No9mYn4MqRbJQ,Gelena Velikanova,Любимые песни (2022 Remastered),Поезда - 2022 Remastered,0,161887,False,0.588,0.115,9,-11.238,0,0.0541,0.934,0.0,0.093,0.539,112.275,4,romance
+2NlrRd58BapKvLXHeukwMQ,Ivan Kozlovsky,Mikhail Ivanovich Glinka. Romances,In the fire of desire,0,60734,False,0.465,0.221,10,-12.564,1,0.0744,0.986,0.0,0.106,0.234,86.018,4,romance
+6aSMUeyFeABtnuaFkNG4ls,Kvatro,XV лет. Посвящение женщине. Часть 3,Vivo per lei,3,290000,False,0.213,0.434,4,-4.795,1,0.0356,0.61,0.0,0.0855,0.0925,84.135,3,romance
+2TvSQGky8UOsAaEcOAkaw5,Vadim Kozin,Русское наследие,Мой костер,0,172720,False,0.459,0.0961,5,-17.36,0,0.0446,0.994,0.021,0.107,0.426,76.727,4,romance
+7BmINw0sHvcuQXNl2Z9Gya,Сергей Зыков,В минуты музыки (Песни на стихи Николая Рубцова),Улетели листья,0,167000,False,0.18,0.223,9,-13.684,0,0.0351,0.981,0.128,0.103,0.117,88.159,3,romance
+0IOaug54ZnASgjgPl8IJlq,Тамара Церетели,Осенний романс,"О, позабудь!",0,172824,False,0.41,0.186,7,-15.958,0,0.0875,0.982,0.000379,0.128,0.339,73.266,3,romance
+2CTnFfLiRxOHEYaZAJlStu,Александр Цфасман;Vladimir Nechaev,Пионеры советского джаза - Александр Цфасман,Всё равно,0,158406,False,0.523,0.246,5,-10.139,1,0.0382,0.99,0.195,0.0788,0.69,95.6,4,romance
+08angE49gaHFtfzdE0RFRD,Сергей Зыков,Есть одна хорошая песня у соловушки...,Письмо матери,0,353410,False,0.357,0.28,9,-11.596,0,0.0349,0.966,0.0507,0.0779,0.267,136.75,4,romance
+2KAJEhRn8v8reBMKoF53sn,Сергей Захаров,Великие исполнители России. Сергей Захаров,Как пела эта скрипка,0,222746,False,0.251,0.794,1,-4.483,1,0.054,0.791,1.84e-05,0.174,0.197,86.09,3,romance
+00L0P49dBUYKHaeCZF5Q9i,Александр Цфасман;Ivan Shmelyov,Александр Цфасман и звёзды советской эстрады,Мне бесконечно жаль,0,163395,False,0.384,0.0776,1,-26.606,1,0.0565,0.936,0.0688,0.389,0.543,121.945,4,romance
+1yzefrrT7z8bGOYKv7A23T,Vadim Kozin,Легенды русской эстрады. Вадим Козин. Часть вторая,Хризантемы,0,193400,False,0.339,0.0594,2,-19.119,0,0.0519,0.994,0.000872,0.243,0.18,81.953,3,romance
+2UUelBFMOKLc8t9qxVs2aV,Татьяна Комова;Георгий Квик,Ромэн. Русские цыганские романсы,Пятеро детей,0,246107,False,0.263,0.155,0,-20.368,0,0.0349,0.968,0.22,0.0733,0.148,134.753,4,romance
+2mqbPPD2ndDDKXyP7oxEDA,Михаил Вавич,Шорох патефонной иглы. Вечер старинного романса-2,Время изменится,0,197616,False,0.311,0.281,1,-11.205,1,0.103,0.991,0.0,0.303,0.289,58.228,3,romance
+65Jj7iw9cG3abO2VTlAQdq,Валерий Агафонов,Вам девятнадцать лет…,Как хорошо,0,170293,False,0.323,0.192,2,-15.632,1,0.0527,0.968,0.205,0.118,0.134,92.852,3,romance
+6fVoQdjXgNhfURDidAiQJY,Ivan Kozlovsky,Ива́н Козло́вский / Голоса из прошлого,Белеет парус одинокий,0,111640,False,0.411,0.114,5,-14.939,0,0.0587,0.968,0.0,0.339,0.307,165.644,1,romance
+0yBaqTamVLOh88uqvfkq2c,Соня Тимофеева,Цыганские народные песни,Заборо,0,155062,False,0.34,0.274,7,-14.386,0,0.0329,0.945,4.44e-05,0.16,0.248,77.907,4,romance
+7td3K7L7pKXyfuCY1soplJ,Александр Цфасман;Павел Михайлов,В нашем парке старом - танцевальные ритмы прошлых лет,Случайная встреча,0,182099,False,0.574,0.121,5,-19.737,0,0.048,0.95,0.000322,0.126,0.639,120.776,4,romance
+72fHrsp9diMu2wPhE09Nck,"Группа ""Загадка""",20 лучших ресторанных песен. Сладка ягода,Кораблик,0,143200,False,0.724,0.204,4,-11.308,0,0.0508,0.911,1.16e-06,0.0959,0.615,115.006,4,romance
+4C9X4HPArBumasIYBLcaXe,"Группа ""Загадка""","Золотая коллекция эстрады. Ой, рябина кудрявая","Лейся, песня, на просторе",0,175000,False,0.652,0.188,9,-8.582,1,0.0419,0.853,0.0,0.0729,0.445,96.44,3,romance
+5jvaH3YEB7CriIG0PIHaQY,Vadim Kozin,"Осень, прозрачное утро (Имена на все времена)",Мой костёр,0,167773,False,0.498,0.361,5,-7.184,0,0.0433,0.995,0.524,0.14,0.425,79.879,4,romance
+5kFWFUWlUvtQPtNwg6aVfa,Alexander Vertinsky,"Ремастированные Оригинальные Ретро Песни Советской России: Баллада, Романсы, Радиохиты Vol. 01, Ballads, Romances, Radio Hits of Soviet Russia",Тюремная Песня,0,158153,False,0.365,0.515,4,-11.46,0,0.352,0.953,1.91e-06,0.36,0.475,79.917,3,romance
+1Yy8O5XhsIk7LKzb670qsd,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Moy kostjor,0,171573,False,0.331,0.252,2,-12.195,0,0.0443,0.96,0.00107,0.339,0.166,151.417,3,romance
+3FXUdx3pjmA1vCXP9b0inX,Oleg Pogudin,Русское танго,Тёмная ночь,0,239669,False,0.312,0.245,11,-13.359,0,0.0369,0.828,0.00535,0.102,0.295,132.731,3,romance
+4tV3EKEfazNW5hIp0f5C6B,Alla Bayanova,"Ремастированные Оригинальные Ретро Песни Советской России: Баллада, Романсы, Радиохиты Vol. 04, Ballads, Romances, Radio Hits of Soviet Russia",Хорошее Возвращение,0,177905,False,0.44,0.59,9,-8.875,1,0.114,0.795,0.685,0.0962,0.712,115.279,4,romance
+30KaS8STLhXnJOHxTicGhC,Nikolai Erdenko,20 золотых романсов на скрипке,Красный сарафан,0,269906,False,0.284,0.175,7,-15.816,1,0.0451,0.925,0.372,0.224,0.235,99.668,3,romance
+73msgu8FUg7DHWaD2tDywG,Yuri Morfessi,Лучшие песни первой мировой войны,Рвемся в бой,0,129880,False,0.508,0.415,5,-8.131,1,0.162,0.996,3.1e-06,0.32,0.621,83.198,3,romance
+71fOYhqGPAvMy0PzrIetYU,Nikolay Kopylov,"Сергей Рахманинов, Романсы",Эти Летние Ночи...,0,114013,False,0.456,0.476,0,-8.285,1,0.0619,0.977,0.0273,0.105,0.154,71.658,4,romance
+2n2E3rsK5adB45gUlaL274,Vladimir Nechaev;Владимир Бунчиков,Три брата (1941 - 1961),Шли бойцы,0,138017,False,0.63,0.344,6,-15.316,0,0.0581,0.975,0.0,0.184,0.884,98.565,4,romance
+0FN8wmJDeK8dlWa1mkrkLk,Keto Dzhaparidze,Velikie ispolniteli Rossii XX veka: Luchshie estradnye pesni pervoj poloviny XX veka,Jasnyy mesjats,0,186018,False,0.501,0.131,7,-13.591,1,0.301,0.994,0.000162,0.118,0.319,177.52,4,romance
+3TXxXDFsBsCDOpkvj12Fj6,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"Zabytoe tango, Ch. 2",0,153920,False,0.558,0.334,4,-10.404,0,0.101,0.992,0.701,0.117,0.841,99.71,4,romance
+1cZaJIdOQYkczizy3ILiS1,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,Молитва Франсуа Вийона,0,236453,False,0.364,0.273,0,-10.149,0,0.0355,0.95,0.000186,0.115,0.127,119.878,3,romance
+2CbEyPoDsZ9XuiqylphFN5,Tamara Tsereteli,Velikie ispolniteli Rossii XX veka: Tamara Tsereteli (Deluxe),Otrada,0,134246,False,0.542,0.115,7,-15.65,1,0.091,0.993,0.292,0.106,0.53,102.073,4,romance
+6aq6GWteiHn1J7MkiIapTl,Vladimir Nechaev;Владимир Бунчиков,Песня Юности (1941 - 1961),Марш молодых строителей,0,164906,False,0.527,0.492,6,-8.267,1,0.0692,0.984,0.0,0.793,0.481,130.901,4,romance
+2vQ9ZJCNr4uDuZySDhH0iT,Nikolai Erdenko,Чубчик,Ты больная…,0,292960,False,0.529,0.645,1,-9.64,1,0.0472,0.731,0.0,0.0738,0.381,110.21,4,romance
+5nrBXMtKMtCVgt5w0Vb6wl,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть третья,Все карты,0,159680,False,0.479,0.329,9,-20.522,0,0.0599,0.257,0.0,0.3,0.885,100.694,4,romance
+4KK6A8HKj23ASHNjbDdbMG,Nikolay Kopylov,Изумруд (Emerald),Изумруд (Emerald),0,241106,False,0.423,0.22,11,-12.834,0,0.0407,0.984,0.0101,0.0817,0.16,85.454,4,romance
+3xQyUEkQ1fhbY6lSRrH6jA,Кето Джапаридзе,Old Russian Romances (Remastered),Мы Вышли В Сад - Remastered,0,177815,False,0.346,0.0721,7,-17.583,0,0.0419,0.994,1.75e-05,0.114,0.165,81.818,4,romance
+36l84goWrMv0xA85RMIZG0,Oleg Pogudin,Мелодия рассвета / Το μινόρε της αυγής (Deluxe Edition),Друзья / Οι φίλοι,0,191677,False,0.575,0.191,1,-11.266,0,0.037,0.703,0.0,0.0934,0.569,96.021,4,romance
+5QUNbWfB0GoIfkl5uOUHy8,Vadim Kozin,"Pojte vmeste, druzya! 100 zastolnyh pesen v 3 chastyah. Chast 2",Tuchi nad gorodom vstali,0,169727,False,0.641,0.422,2,-6.718,0,0.139,0.994,0.0229,0.332,0.885,91.767,4,romance
+18tg0Q0XfkpNZZy2rYU1nz,Oleg Pogudin,Любовь останется. Советская лирическая песня,Грустить не надо,0,217200,False,0.597,0.471,11,-8.944,0,0.0703,0.472,0.0,0.69,0.859,124.092,4,romance
+3JdFzPjdzgztCZ7jWC4EHp,"Nikolai Erdenko;Ансамбль ""Джанг""",20 лучших цыганских песен. Звездочка,Сумерки,0,343066,False,0.467,0.275,9,-20.361,0,0.0328,0.831,0.755,0.149,0.36,125.649,4,romance
+2bFtTiEaCGt66cwsmLDVtk,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"Tuchi nad gorodom vstali (From ""Chelovek s ruzh'jom"")",0,159152,False,0.611,0.19,2,-12.656,0,0.059,0.995,0.000271,0.378,0.872,97.452,3,romance
+6MaCHh0TM6hVxrB8Gqq1nj,Oleg Pogudin,Юбилей,"Es muss was wunderbares sein (Из оперетты ""Гостиница ""Белая лошадь"""")",0,175733,False,0.376,0.207,1,-14.498,1,0.0359,0.627,8.6e-05,0.0731,0.322,129.25,4,romance
+70RGNKlvnZEKfE9p1wOc4P,Sergei Lemeshev,"Russkie narodnye pesni, Chast' 2",Korobeyniki,0,185496,False,0.284,0.552,7,-8.997,0,0.119,0.854,0.0,0.49,0.528,96.628,1,romance
+6KhMBsnpfHAmNSnTnsFmi2,Sergei Lemeshev,Russian Vocal School. Sergey Lemeshev (CD1),My Darling's Ring,0,263933,False,0.15,0.207,7,-18.234,0,0.0452,0.97,0.129,0.136,0.0699,176.852,4,romance
+3u6HsSdTOg3WXODIolmgTT,Nikolai Erdenko,Шедевры цыганской музыки. Серебряная скрипка романса,Только раз бывают в жизни встречи,0,162320,False,0.238,0.233,4,-13.837,0,0.0468,0.875,0.344,0.122,0.0412,173.586,5,romance
+32yHd903J5GbnZasbvvRRX,Sergei Lemeshev;Лариса Авдеева;Boris Khaikin;Оркестр Большого театра,"Tchaikovsky: Eugene Onegin, Op. 24","Eugene Onegin, Op. 24, Act I Scene 1: No. 6b, Lensky's Arioso ""Ya lyublyu Vas. Ya lyublyu Vas, Olga""",4,190351,False,0.248,0.196,4,-15.16,1,0.066,0.96,2.25e-06,0.14,0.159,178.019,5,romance
+5OiONTndVC5YOMXg6VC5xs,Nikolay Kopylov,Popular Opera Arias,"""Eugene Onegin"" Ariozo Of Onegin",0,111800,False,0.443,0.514,10,-8.068,1,0.0924,0.988,0.00187,0.0918,0.244,100.752,4,romance
+546L7tWoELBj3tv7DlM5ns,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol. 1,"Coachman, Don't Ride Horses Hard",0,194440,False,0.359,0.434,2,-8.428,0,0.0826,0.955,0.000126,0.117,0.353,140.713,4,romance
+009DZE5shRgOEnMD47h9uW,Gelena Velikanova,Гелена Великанова (2021 Remastered Version),Я не тороплюсь - 2021 Remastered Version,0,143771,False,0.493,0.356,9,-15.446,0,0.26,0.293,0.0,0.0648,0.738,86.692,4,romance
+3Iso9BNgODNjUEPIT1mpKz,Ivan Kozlovsky,Velikie ispolniteli Rossii XX veka: Luchshie romansy,Ne probuzhday vospominan'ja,0,344786,False,0.277,0.109,0,-12.461,1,0.0359,0.977,6.29e-06,0.117,0.13,84.563,3,romance
+2ylqFBtxSjMqMP7q0WO8gl,Nikolay Kopylov,"Glinka, Romances","Elegy ""Do Not Tempt Me Without Need""",0,190813,False,0.316,0.368,7,-10.603,0,0.0447,0.991,0.00181,0.094,0.111,171.321,4,romance
+6QlNikrhMp1FGEIS5mORxM,Тамара Церетели,Осенний романс,Я не люблю тебя,0,179372,False,0.434,0.169,7,-14.168,1,0.0692,0.994,0.103,0.107,0.282,61.643,4,romance
+0DE6uWUEZ6HBLHacptRIf2,Михаил Вавич,Лучшие песни первой мировой войны,На сопках Манчжурии,0,210506,False,0.315,0.447,5,-7.806,1,0.0524,0.995,0.124,0.131,0.334,76.391,1,romance
+2OFd67AsbCWEqnqFy9h9Hp,Владимир Бунчиков,Зимнее утро (1936 - 1958),Весёлый ветер (Песня Роберта),1,199156,False,0.659,0.541,3,-11.329,1,0.134,0.852,0.0,0.838,0.481,133.489,4,romance
+6Nb9EsIBbiIvnS1V2URaED,Алёша Димитриевич,Эмигрантское танго. Два концерта. Часть первая,Любовь прекрасная,2,154386,False,0.514,0.35,0,-19.948,0,0.077,0.778,1.73e-05,0.947,0.828,108.133,4,romance
+1l2rhgqW23rwd6xopUoCNK,Сергей Зыков,Есть одна хорошая песня у соловушки...,Тальянка,0,216816,False,0.393,0.322,4,-11.513,0,0.0367,0.981,0.00402,0.0791,0.198,81.021,4,romance
+2V1RrgegPQB1ymG9JTqIDc,Валерий Агафонов,Я вас любил. Романсы,Всегда и везде за тобою,0,167000,False,0.438,0.117,4,-16.616,1,0.0524,0.985,0.221,0.106,0.0773,113.905,5,romance
+2cAe9Ag4bMzVVQqWDBMyyP,Андрей Петров;Роберт Бернс;Самуил Маршак;Лариса Луста;Двойной дуэт МаГрИгАл;Андрей Славный,Берегись автомобиля. Фантазии на музыку Андрея Петрова,Моей душе покоя нет,0,140306,False,0.521,0.163,5,-16.164,0,0.0421,0.931,7.99e-05,0.125,0.64,119.656,4,romance
+3kLqZUahZCZrTB7MAMqJX1,Михаил Вавич,Коробейники,На последнюю пятерку,0,172801,False,0.489,0.266,0,-10.927,0,0.0691,0.996,3.72e-05,0.408,0.424,73.825,4,romance
+7ABB9iDHpHe49iDsZeeua2,Владимир Бунчиков,Зимнее утро (1936 - 1958),Майским утром,0,145773,False,0.545,0.465,4,-11.891,1,0.0424,0.882,0.0,0.783,0.931,116.056,3,romance
+0210gFYpVnijFhx38qw4Zf,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),"Объединяйся, молодежь!",0,180742,False,0.523,0.26,2,-18.286,0,0.0397,0.859,0.0,0.341,0.588,110.512,4,romance
+6dfxLgo6iB4fzglarK4wML,Соня Тимофеева,Старинный романс,Жалобно стонет,0,275696,False,0.287,0.13,10,-15.39,1,0.0522,0.956,1.12e-06,0.135,0.172,170.54,3,romance
+3fUK6eJKy95F4fdLosRzzi,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,Arabskoe tango,0,200951,False,0.63,0.229,4,-10.883,0,0.0383,0.914,2.1e-05,0.16,0.532,106.979,4,romance
+01K30kWClnaHI7ddZnJxa2,Аркадий Погодин,В нашем парке старом - танцевальные ритмы прошлых лет,Возврата нет,0,187010,False,0.357,0.303,10,-13.754,0,0.0464,0.991,0.0488,0.115,0.311,121.596,4,romance
+6awTwAWm85E9pW4khOv2wA,Ivan Kozlovsky;Максим Михайлов,23 песни о моряках и море,Моряки,0,248173,False,0.376,0.154,7,-12.419,0,0.0416,0.988,8.48e-06,0.137,0.364,168.047,3,romance
+75UguvFOfyCupQTvWlysfo,Vadim Kozin,Последний концерт,Стан журавлиный,0,166466,False,0.407,0.0302,4,-28.146,0,0.0535,0.993,0.152,0.107,0.215,180.324,3,romance
+10dRAfdjN1E4RzhyWMpgjc,"Группа ""Загадка""",Золотые застольные песни. Часть шестая,Сирень-черемуха,0,152106,False,0.424,0.199,7,-9.449,0,0.029,0.825,0.0,0.248,0.501,90.202,4,romance
+5sbX4in3ESMiRbdMa34gBO,Nikolay Nikitskiy,Velikie ispolniteli Rossii XX veka: Nikolay Nikitskiy,L'jotsja pesnja,0,251216,False,0.315,0.489,1,-7.958,0,0.0782,0.967,1.13e-05,0.963,0.233,78.807,3,romance
+2sSPjAu9Yb8R6Fedf99aND,Vadim Kozin,Избранное,Снова пою,0,193123,False,0.297,0.106,3,-19.496,1,0.051,0.995,0.544,0.255,0.475,79.219,3,romance
+05FL6RrDnrZ0x6dRBYqqYU,Alexander Vertinsky,Velikie ispolniteli Rossii XX veka: Aleksandr Vertinskiy,Malen'kie aktrisy,1,240401,False,0.574,0.147,2,-14.84,0,0.146,0.986,2.7e-06,0.753,0.38,114.286,3,romance
+5ZIb0xL1NCH7miFWzXYATZ,Izabella Jur'eva,Velikie ispolniteli Rossii XX veka: Izabella Jur'eva (Deluxe Version),Ochi chjornye,0,159736,False,0.337,0.44,11,-9.86,1,0.109,0.989,0.00223,0.187,0.362,171.441,4,romance
+5cXOu4q32eUjLPqGKRVmcO,Yuri Morfessi,Прощай Москва,Прощай Москва,0,135858,False,0.424,0.433,0,-7.132,1,0.0415,0.994,0.00061,0.417,0.745,157.848,4,romance
+3Qe24grb53uBl2tpwFkHMl,Vadim Kozin,"Осень, прозрачное утро (Имена на все времена)",Тихий день угасал,0,169946,False,0.43,0.326,0,-7.804,0,0.0406,0.995,0.225,0.386,0.28,100.892,4,romance
+1EPRVNBeFVCMHXbXnq6Pxy,"Группа ""Загадка""",20 лучших застольных песен. Уральская рябинушка,Дорогой длинною,0,241160,False,0.506,0.394,2,-7.091,0,0.0438,0.818,0.0,0.108,0.5,122.187,4,romance
+2yiAaQrQROhjoxZvwyS96p,Oleg Pogudin,Я сохраню слова любви,Моя душечка,0,146853,False,0.457,0.214,4,-17.081,0,0.0963,0.873,0.0,0.103,0.272,86.367,4,romance
+0CgtJy4Hj4t7hmLTHb9mTX,"Группа ""Загадка""",Коллекция застольной песни. Сулико,Пускай могила меня накажет,0,328146,False,0.416,0.199,9,-9.073,0,0.0297,0.896,0.0,0.272,0.371,134.821,4,romance
+6Q61fFluuW64lgbMb60MUD,Sergei Lemeshev,Легенды русской эстрады. Сергей Лемешев. Часть первая,Хуторок,0,233426,False,0.381,0.317,0,-9.251,0,0.0693,0.956,0.0,0.343,0.535,83.142,4,romance
+0XWYrGGrjHn8u6qnVCLpv7,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,Весна,0,153493,False,0.446,0.0891,5,-20.31,1,0.0399,0.991,4.39e-05,0.0953,0.221,92.73,4,romance
+0HoSXpY0esYLr5DuZsqQ0k,Sergei Lemeshev,Сергей Лемешев. 20 золотых песен,"О, если б знали вы",0,173386,False,0.399,0.133,4,-15.726,1,0.0446,0.977,0.0,0.101,0.138,85.211,3,romance
+5e8Lfu88hEVRsT9Bq7KKtb,Sergei Lemeshev,Советский Новый год,"Ах, мороз, мороз",0,200150,False,0.458,0.202,11,-12.61,0,0.14,0.969,0.0,0.238,0.325,104.432,4,romance
+5wpyfg3L9LKs64kJF6XiHF,Oleg Pogudin,Союз друзей. Песни Булата Окуджавы,Песенка о дальней дороге,0,130266,False,0.56,0.445,11,-10.492,0,0.047,0.759,0.0,0.138,0.424,86.862,4,romance
+4dj9qFZQkz6Qmx62nRpXi2,Vladimir Nechaev;Владимир Бунчиков,Песня Юности (1941 - 1961),Перед боем,0,152066,False,0.464,0.447,7,-12.206,0,0.0843,0.881,0.0,0.912,0.398,104.943,4,romance
+5IBupHRZr0lvSXmHyq5fRX,Yuri Morfessi,"Шедевры русской эстрады. Мама, я жулика люблю",Дни за днями катятся,0,173760,False,0.369,0.266,3,-10.591,0,0.0366,0.992,0.0,0.372,0.31,99.986,3,romance
+3Xga5XDH8FiTNgF8r2Pisd,Sergei Lemeshev,Шедевры русской эстрады. Калитка,Я на камушке сижу,0,129266,False,0.613,0.127,7,-20.994,1,0.0711,0.976,0.000763,0.0505,0.874,103.634,4,romance
+2Sou8iE7YS2h4lblj9oyQ6,Oleg Pogudin,The Best Songs,Свидание,0,141506,False,0.395,0.135,6,-17.867,0,0.0417,0.948,1.66e-05,0.109,0.179,93.235,3,romance
+6CmYg5ACTFWfv2WeAwdZsV,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),"Ey, bystrey letite, koni",0,178506,False,0.574,0.2,5,-10.437,0,0.209,0.993,0.000219,0.068,0.66,105.043,4,romance
+3S3ipXRx1uQ2jtav0u2K71,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Moja pesnja,0,190137,False,0.282,0.425,0,-11.709,1,0.0406,0.972,0.0127,0.118,0.157,121.157,5,romance
+4i3stAx1HPNERNuSegUS0W,Nikolai Erdenko,20 золотых романсов на скрипке,Две розы,0,242746,False,0.383,0.232,2,-13.473,0,0.0457,0.92,0.619,0.147,0.164,56.678,5,romance
+0qlSzQzgLXEDKizFuC4IhH,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,Siren'-cherjomukha,0,155259,False,0.524,0.371,4,-6.884,0,0.0302,0.966,0.0215,0.182,0.683,93.969,4,romance
+5BBOluknos4IDXwj0DnzGd,Nikolai Erdenko;Nikolai Erdenko Gypsy Band,The Famous Songs of Russian Gypsies,"Aj da nu da, da ne (Ai Da Nu Da, Da Ne)",2,155226,False,0.336,0.662,11,-10.676,0,0.0516,0.781,4.14e-06,0.1,0.727,157.133,4,romance
+4f2AJCvDRqxMDAD3OdODm3,Sergei Lemeshev,Narodnye pesni: Step' da step' krugom…,Metelitsa,0,156873,False,0.367,0.412,9,-7.748,0,0.0427,0.959,0.0,0.458,0.415,101.302,3,romance
+5MLi2WFf3lxZW1IHYR5G1G,Ivan Kozlovsky;Anatony Chmerev,Ukraine for Ever (Remastered Version),"Oi, Spivanochki Moye (My Little Songs) [Remastered Version]",0,104620,False,0.532,0.682,2,-7.593,1,0.112,0.985,3.78e-05,0.119,0.652,114.862,4,romance
+4ZtSVGNeKyFxbfKdfV2Cie,Nikolay Erdenko;Djang,The Long Road: 20 Best of Russian Gypsy Songs,Gypsies Traveled,0,106253,False,0.39,0.423,0,-17.105,0,0.0508,0.567,0.0,0.165,0.558,129.449,4,romance
+6uRBoVPbWs7axkEq8MoOKr,Ivan Petrov;Galina Vishnevskaya;Eugene Belov,Eugene Onegin,"Tchaikovsky: Eugene Onegin: Itak, poidyom... Uzhel ta samaya Tatyana - Act Three",0,232160,False,0.381,0.26,5,-12.679,1,0.0649,0.98,0.00194,0.202,0.277,75.574,4,romance
+0bTFasN3kpFwWvcg2kHCkD,Sergei Lemeshev,Russian Vocal School: Sergey Lemeshev (1939-1965),Story of the Coachman,0,307373,False,0.304,0.117,10,-21.891,0,0.0699,0.986,0.0,0.105,0.443,170.942,3,romance
+6Ex0Wja2G9rtF39qCxIXGS,Nadezhda Kazantseva,Voices behind the iron curtain - Soviet Singers of the Stalin Er,Je suis Titania la blonde (sung in russian) (Mignon),0,279093,False,0.483,0.275,10,-13.539,1,0.0645,0.98,0.00834,0.207,0.201,121.463,3,romance
+0X4JuUcI3NLTssaKbtQwEG,Strongilla Irtlach;Alexei Kuzmin,Anthology of Russian Gipsy Romance: Strongilla Irtlach,"Vernaya, manernaya / Faithful, Pretentious",0,117346,False,0.535,0.354,10,-11.522,0,0.0515,0.84,0.0,0.218,0.763,60.221,4,romance
+1xmIv8Z48sOB7g0zbzjrwv,Sergei Lemeshev,Russian Vocal School: Sergey Lemeshev (1939-1965),Ne osennij melkij dozhdichek (It's Not Autumnal Drizzle),0,198813,False,0.29,0.115,0,-16.908,1,0.0726,0.979,0.0,0.0802,0.0969,167.171,3,romance
+7rCPqozoQ47PjMoX2Er8bo,Keto Dzhaparidze,"Anthology of Russian Romance: Old Russian Romances, Vol. 1",Posledneye Pismo (Last Letter),0,186080,False,0.397,0.21,4,-15.816,0,0.0574,0.992,0.0427,0.395,0.191,76.386,4,romance
+2Khycv6QOImtE8lH77ZqNO,Nikolay Kopylov,"Glinka, Romances","Don't Say, That It Hurts Heart",0,138960,False,0.433,0.288,5,-11.055,1,0.0415,0.988,0.0132,0.103,0.241,74.597,3,romance
+10dywHsoWEgOvA2jiV6YVR,Gelena Velikanova,Velikie ispolniteli Rossii XX veka: Gelena Velikanova,Kak propal soldat,0,142453,False,0.712,0.303,7,-11.167,0,0.133,0.989,0.000801,0.702,0.721,131.536,4,romance
+53z65ZHq7dM7TIySN6R8pb,Alexander Vertinsky,Песни о любви,"То, что я доолжен сказать",7,190666,False,0.563,0.0424,2,-18.543,0,0.182,0.987,6.1e-06,0.161,0.269,100.692,3,romance
+72HBiTSEwP1gwGHmxRONE9,Oleg Pogudin,От моей негасимой любви... Песни военных лет,Смуглянка,2,203013,False,0.553,0.536,4,-5.297,0,0.0807,0.85,0.0,0.126,0.691,133.187,3,romance
+3LuiX5WKMPdNdS7EJzoM04,Sergei Lemeshev,В эту лунную ночь,Я помню чудное мгновенье,2,210951,False,0.326,0.156,11,-16.74,0,0.064,0.963,0.0,0.0962,0.128,84.876,4,romance
+60m0nPq3pDKU3ZoVEQyLkR,Vadim Kozin,Мой костёр / Russian Vintage Songs,Мой костёр,2,168250,False,0.484,0.152,5,-11.775,0,0.0528,0.994,1.25e-05,0.268,0.342,80.104,4,romance
+2VeHh5zDoFkkfi3FxzQfLA,Михаил Вавич,Золотой фонд 19го века,Пожалей,0,150013,False,0.464,0.358,10,-8.1,1,0.081,0.992,1.49e-05,0.267,0.441,80.446,3,romance
+206HoLNj0yA54f5xS8m0lo,"Группа ""Загадка""",Коллекция застольной песни. Вот кто-то с горочки спустился,Подмосковные вечера,0,211933,False,0.354,0.152,5,-11.998,0,0.0326,0.923,0.0,0.0974,0.288,120.793,4,romance
+6ZefnGpfihXy0R2zA5w1Vf,Владимир Бунчиков,Мы в жизнь идем (1936 - 1958),Мы молодой рабочий класс,0,168111,False,0.416,0.668,2,-10.081,0,0.0461,0.953,1.53e-05,0.808,0.678,118.5,4,romance
+3A5vbV1V6TrF7S0sg1cHDJ,Владимир Бунчиков,Зимнее утро (1936 - 1958),Белокрылые чайки,0,169875,False,0.33,0.367,11,-13.211,1,0.0461,0.975,0.0,0.359,0.394,83.298,5,romance
+4vvXidcNqYGv0neXd6rIxk,Алёша Димитриевич,Очи черные,Любовь прекрасная,1,152720,False,0.595,0.313,0,-19.778,0,0.0472,0.788,3.06e-06,0.732,0.865,108.177,4,romance
+4CgQDKupfoivWeUXO1gQPG,Vadim Kozin,Лирические песни,Калитка,0,166394,False,0.348,0.222,3,-15.946,1,0.0435,0.979,0.00017,0.12,0.307,76.581,4,romance
+4mzBXoXsxtLuJf7VEek8dr,"Группа ""Загадка""",Золотая коллекция эстрады. Раскинулись рельсы широко,Васильки,0,151400,False,0.47,0.194,9,-10.339,0,0.0404,0.9,0.0,0.167,0.788,102.158,3,romance
+5lpJGETPjS9SpQATfqeuHn,"Группа ""Загадка""","20 лучших ресторанных песен. Ой, цветет калина",И кто его знает,0,187720,False,0.506,0.199,10,-11.08,1,0.0314,0.945,0.0,0.0982,0.473,71.602,4,romance
+1tFPUU4DjSITWZS7dfRgIa,Oleg Pogudin,"...Я клянусь, что это любовь была... Песни Булата Окуджавы",Песенка о дальней дороге,1,156573,False,0.481,0.255,2,-13.456,1,0.04,0.888,0.000829,0.111,0.231,135.631,4,romance
+1rWch9MOgVLc8ZTWjhw937,Vadim Kozin,"Осень, прозрачное утро (Имена на все времена)",Нищая,0,178000,False,0.624,0.29,5,-7.069,0,0.0767,0.995,0.000163,0.11,0.312,72.808,4,romance
+56ho0NS1cz49wU1rYC77fm,Boris Shtokolov,Я встретил вас,Ноченька,0,249146,False,0.192,0.286,2,-14.692,0,0.0383,0.989,0.109,0.141,0.152,93.658,3,romance
+0YepiFIfBa3Ja4j7kHPuhZ,Vadim Kozin,Вадим Козин. 20 золотых песен,Хризантемы,0,193400,False,0.339,0.0594,2,-19.119,0,0.0519,0.994,0.000872,0.243,0.18,81.953,3,romance
+5PTZBcPNE8O39n2B56VLlh,Алёша Димитриевич,Эмигрантское танго. Два концерта. Часть вторая,Звездочка,0,116213,False,0.497,0.373,7,-18.169,1,0.509,0.864,0.023,0.959,0.93,73.636,3,romance
+5ZpcrzigeS55RYBQ4P9vSv,Александр Добронравов,Города,Санкт - Петербург (все звёзды),0,308840,False,0.6,0.756,7,-5.02,1,0.032,0.289,0.0,0.201,0.524,122.119,4,romance
+5cbEnm1UvM3Q1EyckRDder,Yuri Morfessi,Юрий Морфесси. 20 лучших песен,Мы только знакомы,0,176066,False,0.306,0.265,6,-11.805,0,0.0663,0.99,1.17e-05,0.134,0.197,165.85,4,romance
+5loN963ty5ggdzz1gWSBHA,Vadim Kozin,Вадим Козин. 20 золотых песен,Я люблю Вас так безумно,0,147226,False,0.606,0.124,3,-16.744,0,0.0557,0.995,0.0867,0.0986,0.452,113.227,3,romance
+74kWrMnfu1RIkXzjHpIjKJ,Vadim Kozin,Velikie ispolniteli Rossii XX veka: Vadim Kozin (Deluxe Version),Dva druga,0,178161,False,0.554,0.195,4,-10.144,1,0.298,0.994,0.0174,0.0589,0.566,95.537,3,romance
+4QpQJsLhE79UeqsHQnX2VT,Maria Maksakova,Masha in Ukraine,Гуцулка Ксеня,0,227760,False,0.533,0.824,7,-5.827,0,0.149,0.13,0.0,0.184,0.266,122.039,4,romance
+1sldwUsU9bYpwc06qqy4h4,Nikolay Kopylov,"Золотые Хиты Старинного Русского Романса, Часть 1",Две Розы,0,226240,False,0.524,0.183,8,-12.432,1,0.0797,0.944,0.0019,0.101,0.121,138.765,4,romance
+3buvXBYDRzc3HHJLqmAviS,Sergei Lemeshev,"Russkie narodnye pesni, Ch. 1",Metelitsa,0,156922,False,0.369,0.352,0,-10.308,1,0.0413,0.956,0.0,0.383,0.395,101.006,3,romance
+2DiBqxTPJhsbZXCuRZYfgO,Oleg Pogudin,"...Я клянусь, что это любовь была... Песни Булата Окуджавы",Пожелания друзьям,0,108826,False,0.613,0.149,2,-15.18,1,0.0477,0.867,1.13e-05,0.116,0.217,106.781,3,romance
+7hDaoAvDL0abhoyOnyEgmb,Vladimir Nechaev,Хочу лететь на пламя!,Снег,0,292733,False,0.448,0.581,4,-6.69,0,0.0277,0.486,0.0,0.322,0.293,140.018,3,romance
+1D0zagwbv3SaTKA97F5BEK,Vladimir Nechaev,Эстрада 50-х. Лучшие отечественные исполнители 50-х годов ХХ века,Ходит по полю девчонка,0,165639,False,0.474,0.507,9,-5.457,0,0.028,0.963,1.81e-06,0.232,0.849,100.978,3,romance
+5D0wjc5MIToteDeEMKCk8g,Gelena Velikanova;Квинтет п/у Виктора Миронова,Весенняя мелодия,Ландыши,0,151931,False,0.685,0.31,8,-13.228,1,0.0488,0.886,8.16e-05,0.224,0.747,131.529,4,romance
+4YejAZNv9NOZrTkMeVwL7k,Oleg Pogudin,Элегия концерт,"Гори, гори, моя звезда",0,218080,False,0.393,0.31,0,-19.931,0,0.104,0.904,0.0207,0.611,0.393,97.211,3,romance
+2yZ8eFkDZ6DmVLSmqXPtfV,Sergei Lemeshev,В эту лунную ночь,Мэри,0,154922,False,0.414,0.43,11,-11.808,1,0.0533,0.848,0.000194,0.113,0.378,106.344,4,romance
+2L2DOOFPaQL2f1CCFkBaKf,Sergei Lemeshev,Сергей Лемешев. 20 лучших песен,Ничто в полюшке не колышется,0,227266,False,0.16,0.188,7,-19.488,0,0.0482,0.965,0.541,0.102,0.0686,169.01,5,romance
+7F4sZBLJZ6Z5r9MkYgCc6r,Nikolay Kopylov,Популярные Арии Из Опер И Классических Оперетт,Ария Князя Елецкого Из Оперы ''пиковая Дама'',0,248826,False,0.264,0.403,3,-9.096,1,0.0362,0.993,0.00647,0.139,0.145,146.805,4,romance
+7gw7VUoAMcRC6r78jMODl6,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Тост Орловского Из Оперетты «Летучая Мышь»,1,133360,False,0.395,0.444,0,-9.143,1,0.0772,0.981,9e-05,0.276,0.433,90.136,3,romance
+1tfcYz0Aa61kb2pg5bZfHG,Oleg Pogudin,Городской романс,Троечка,0,185466,False,0.367,0.145,4,-14.366,0,0.0406,0.959,1.18e-05,0.105,0.186,90.353,3,romance
+4zr8pZBqamXGPv7OwFo1Q2,Konstantin Pluzhnikov,Встреча (Meeting),Облетели цветы (Flowers Fly Round),0,129720,False,0.437,0.136,1,-16.158,0,0.0363,0.892,2.15e-05,0.104,0.247,79.447,4,romance
+1dMe4SckZWmXeaW3v9O9Vj,Valentina Ponomaryova;Ансамбль ударных инструментов Марка Пекарского;Сергей Скрипка;Государственный Симфонический оркестр кинематографии,Terra Incognita,The Cat that Walked by Himself: Second Witchcraft. Horse,0,395987,False,0.388,0.17,10,-23.465,0,0.0622,0.705,0.0215,0.122,0.0376,97.942,4,romance
+0Gke2KKm6JCkSgTkFztOeV,"Nikolai Erdenko;Ансамбль ""Джанг""",Лучшая цыганская музыка. Часть первая,"Гори, гори, моя звезда",0,239480,False,0.437,0.255,10,-20.81,1,0.044,0.786,2.06e-05,0.164,0.131,129.424,4,romance
+4KccQjEB5HmfIm3AXfOKQn,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,My s toboju ne druzhili,0,193616,False,0.289,0.329,3,-9.692,0,0.0355,0.976,0.012,0.144,0.423,138.372,4,romance
+00NenVXc1ciWotMBpgGiQz,Vladimir Nechaev,Velikie ispolniteli Rossii XX veka: Vladimir Nechaev,Kol'tso dushi-devitsy,0,218045,False,0.179,0.32,7,-6.025,0,0.0308,0.989,1.54e-06,0.222,0.184,85.251,4,romance
+5HceiIiaDAMQhIvLGJq5HF,Nikolai Erdenko,Шедевры цыганской музыки. Золотые цыганские романсы,"Гори, гори, моя звезда",0,194826,False,0.313,0.127,4,-16.324,0,0.0487,0.963,0.00108,0.0665,0.133,157.223,3,romance
+4OZ0N1ghFG20YZlUnZOfLu,Nikolay Erdenko,"Romansy Rossii, Chast’ 1","Gori, gori, moja zvezda",0,238335,False,0.473,0.418,7,-12.923,0,0.0388,0.74,3.63e-05,0.234,0.131,129.559,4,romance
+1z3jyuhwBknmzu4pewk2os,Nikolay Erdenko,Velikie ispolniteli Rossii XX veka: Nikolay Erdenko (Deluxe),Tol'ko noch'ju tsvety ozhivajut,0,264297,False,0.208,0.14,2,-17.695,1,0.0391,0.972,0.083,0.121,0.0687,91.776,4,romance
+3jOTLz6yzBw8ZxTgvUK2Du,Nikolay Kopylov,"Ради Женщин (Сцены, Арии И Дуэты Из Классических Оперетт)",Ради Женщины Сцена Из Оперетты «Веселая Вдова»,0,179640,False,0.557,0.419,1,-11.089,1,0.102,0.908,0.000264,0.308,0.563,133.254,4,romance
+6oN7PNlxSIzpwd6PnHDFTQ,Nikolai Erdenko,Золотая коллекция эстрады. Подруга семиструнная,Ехал на ярмарку ухарь-купец,0,158306,False,0.673,0.534,4,-14.0,0,0.0692,0.715,0.0,0.161,0.742,110.513,4,romance
+2zgVh0IJZGplVw18fzLdHt,Nikolay Kopylov,Популярные Арии Из Опер,Сцена Смерти Родриго Из Оперы ''дон Карлос'',0,235546,False,0.201,0.345,1,-9.969,1,0.0342,0.992,0.193,0.117,0.0556,149.814,3,romance
+7twW3YXIZsYmHOhBeYu62j,Ivan Petrov;Sergei Lemeshev;Eugene Belov;Valentina Petrova;Galina Vishnevskaya;Larissa Avdeyeva,Eugene Onegin,Tchaikovsky: Eugene Onegin: Medames! Ya na sebya vzyal smyelost - Act One,0,204160,False,0.276,0.118,7,-18.853,1,0.101,0.982,0.0,0.129,0.214,66.706,4,romance
+2eqbfLa8jYXVJPi6W6e9MA,Ivan Petrov;Sergei Lemeshev;Eugene Belov;Galina Vishnevskaya;Chorus of the Bolshoi Theatre;Valentina Petrova;Larissa Avdeyeva,Eugene Onegin,Tchaikovsky: Eugene Onegin: V vashem dome! V vashem dome! - Act Two,0,304973,False,0.326,0.232,2,-13.969,1,0.222,0.969,2.83e-06,0.106,0.269,78.036,4,romance
+5C1Afe1ABbNGuaIR7ImmF6,Nikolay Kopylov,Golden Hits Of The Ancient Russian Romance Vol. 1,Only Once,0,186693,False,0.509,0.261,4,-8.962,0,0.0513,0.977,0.00285,0.109,0.173,133.327,4,romance
+4CgKJOIiMHdZ7oiDVZ38gy,Strongilla Irtlach;Alexei Kuzmin,Anthology of Russian Gipsy Romance: Strongilla Irtlach,Tryn-trava / Fieldweed,0,125613,False,0.427,0.234,7,-12.942,1,0.0406,0.88,0.0,0.0784,0.41,91.069,4,romance
+1bGx75B0dtv45ZbMLs2DUD,Gelena Velikanova,Velikie ispolniteli Rossii XX veka: Gelena Velikanova,Pervyy sneg,0,225041,False,0.461,0.177,0,-11.799,1,0.0383,0.986,0.000308,0.0948,0.285,129.519,4,romance

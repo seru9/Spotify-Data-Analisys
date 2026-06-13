@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+44AyOl4qVkzS48vBsbNXaC,Elvis Presley,Blue Hawaii,Can't Help Falling in Love,80,182360,False,0.396,0.293,2,-14.062,1,0.0275,0.941,0.000196,0.105,0.343,100.307,3,rock-n-roll
+3SdTKo2uVsxFblQjpScoHy,Ben E. King,Don't Play That Song (Mono),Stand by Me,80,180055,False,0.65,0.306,9,-9.443,1,0.0393,0.57,7.07e-06,0.0707,0.605,118.068,4,rock-n-roll
+2DpJ9T2RVRanZcYFHKOAfA,Paul Anka,Put Your Head On My Shoulder: The Very Best Of Paul Anka,Put Your Head On My Shoulder,69,154733,False,0.547,0.335,4,-9.2,0,0.0307,0.747,0.0,0.101,0.474,115.838,3,rock-n-roll
+2qhASBzpbFhPRtrnZ5lLnz,The Righteous Brothers,Just Once In My Life,Unchained Melody,75,218013,False,0.339,0.208,0,-16.725,1,0.0308,0.396,0.000519,0.18,0.288,98.54,3,rock-n-roll
+452KBpASS5lZLeJWX9Ixub,Elvis Presley,Platinum - A Life In Music,Jailhouse Rock,72,146933,False,0.623,0.537,10,-10.014,0,0.0726,0.332,1.4e-05,0.0963,0.905,166.885,4,rock-n-roll
+1H5IfYyIIAlgDX8zguUzns,Elvis Presley,From Elvis in Memphis,Suspicious Minds,76,261279,False,0.487,0.382,7,-10.889,1,0.0309,0.0422,4.74e-06,0.411,0.714,116.557,4,rock-n-roll
+4eI5BOrdNZxE8oHqLKUsNM,Ben E. King,Thanksgiving Party,Stand by Me,0,180055,False,0.65,0.307,9,-9.443,1,0.0393,0.57,7.07e-06,0.0707,0.604,118.087,4,rock-n-roll
+3KJombE6eRPrdrhNJza7T8,Elvis Presley,Santa Claus Is Coming To Town,Blue Christmas,0,128080,False,0.506,0.475,4,-7.552,1,0.0324,0.83,0.00411,0.124,0.596,94.494,4,rock-n-roll
+1Gz71YTPdkTuY07nTW03Pz,Chuck Berry,Best Christmas Songs 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1S4rxDloMtAduogKeiJZmR,Chuck Berry,CHRISTMAS TOP HITS 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+5KyvxpYGgAUY55lDfnSROX,Chuck Berry,The Very Best Christmas Songs 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+6CGmcIW8lElAxYJb3dETOS,Chuck Berry,Xmas Classics 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+7pO8TsOPKQCgFVLYkoCiFV,Chuck Berry,Santa Claus Is Coming To Town,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+6rLd9ykKL0GubTG8PDFxA6,Chuck Berry,Classic Christmas Music 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+03MW3H9B2P7tgpvzG3klNI,Chuck Berry,pov: you hear the bells jingle,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0GZpxW1UfoInSJug7m34fR,Chuck Berry,Classic Christmas 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1ZCreSfHLOgtmC85t9nNsI,Chuck Berry,12 Days of Christmas 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0qyMrxLDdU14grB9GWndxa,Chuck Berry,Best Christmas Music 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+6qxqttcwmFodaFyhaCvIiT,Chuck Berry,Weihnachtslieder 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0FJ5C03igALJMeicHGorCo,Chuck Berry,Christmas Best Hits 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+52MCmoSCtPRbVN5Njdo6G5,Chuck Berry,Weihnachten Playlist,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0A2fX1kBVpevzGnMjx5fnX,Chuck Berry,Christmas Playlist 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+5YtIkHosMnyhM3ZwcAnvtd,Chuck Berry,Best Christmas Playlist Ever 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1B7GdW07UqOJzgZDc8T3ec,Chuck Berry,Silent Night,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0HeG8Hl4Upx3zqwK7VNY2l,Chuck Berry,Christmas Songs 2022,Run Rudolph Run,1,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+3RXAcz7Sa6JDZSxcH1EEQ6,Chuck Berry,Best Christmas Songs 2022 | For under the Mistletoe,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0UfbRLBZi1780FbGc07dg0,Chuck Berry,Home At Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+3jjT8uAXdwIgXCbRjfnsSE,Chuck Berry,Christmas Dinner 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1P5YSdlW0yDkMTxiLGDldP,Chuck Berry,Christmas Faves 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0RphKXkhRYBkPDA0SkG5U7,Chuck Berry,"It's Christmas, Let's Dance",Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+73bhxlCJIK9bwH0miqSxw9,Chuck Berry,On air 70's Hits,Route 66 - Stereo Remix,1,170173,False,0.755,0.642,10,-11.849,1,0.0566,0.564,0.000105,0.0443,0.969,79.768,4,rock-n-roll
+4VP37dqsrYmgYiAF7MO4i1,Chuck Berry,60s Christmas Party,You Never Can Tell - 1964 Single Version,0,163066,False,0.572,0.848,7,-10.054,1,0.125,0.739,4.67e-06,0.245,0.927,157.621,4,rock-n-roll
+7m4luTtlene5vS6xUvWxRt,Chuck Berry,Holidays Are Coming,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+2NDDTipKDL1L09WV2GSN52,Chuck Berry,Christmas Classics,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+47AOrVM9akhsb59TD6ijjz,Chuck Berry,Christmas Eve At Home,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+03Uo2utHEdsOoEKwPs4w0G,Chuck Berry,pov: you are walking in a winter wonderland,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+7c3WYpxhHvUFaYqWioIN7a,Chuck Berry,Rock n Roll Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1GqAFWj0HSbX055zDc94Wj,Chuck Berry,Classic Christmas Greatest Hits,Run Rudolph Run,0,164160,False,0.682,0.776,7,-8.314,0,0.114,0.83,1.1e-05,0.17,0.959,151.799,4,rock-n-roll
+1qi64DOjaB3BQDGZmNg3AG,Frankie Valli & The Four Seasons,Christmas Time,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,0,-11.455,0,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+4DQg4j3oJyFWiPyc9g1fmQ,Chuck Berry,pov: you saw mommy kissing santa claus,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+02NjAsgrCjbFioTyGI0FeT,Chuck Berry,All I Want For Christmas Is You,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+1Jc5rVFIyOy6XO3ATB1Lh9,Chuck Berry,World's Best Christmas Playlist,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+64tk48BHD71SlomdRag8bm,Chuck Berry,Weihnachtssongs,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+6ceypJqP0dr2LDpeZpSaXR,Chuck Berry,Weihnachten Musik,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+0XgmLT6nDInA6w2yxpVsZh,Chuck Berry,Rockin' Around The Christmas Tree 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+4vJrtcgQoULwkPyFkXNYCx,Chuck Berry,pov: you bake cookies,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+3iyTXUFlm1YrquUUgXlPM1,Chuck Berry,All I want For Christmas Is Music,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+3IUpuyEMIgt4GvEZ2TqERF,Chuck Berry,Jingle Bell Rock 2022,Run Rudolph Run,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+43UwresvfvNPDl8BQruk4L,Chuck Berry,Christmas time but not Christmas songs 2022,You Never Can Tell - 1964 Single Version,0,163066,False,0.572,0.848,7,-10.054,1,0.125,0.739,4.67e-06,0.245,0.927,157.621,4,rock-n-roll
+4KlkkmZpxUkBFnmbAOQ9RQ,Chuck Berry,(60's) Sixties Collected Volume 2,You Never Can Tell - 1986 Stereo Remix,0,165226,False,0.588,0.682,7,-14.75,1,0.161,0.683,2.44e-05,0.274,0.889,157.189,4,rock-n-roll
+0D1pEisM3QkiacGXJe5dmd,Elvis Presley,Elvis 30 #1 Hits,(You're The) Devil in Disguise,67,140426,False,0.481,0.733,5,-7.633,1,0.165,0.575,1.18e-05,0.108,0.874,122.909,4,rock-n-roll
+1B5Tp2Ml9nLlmTSJx8xVfI,Elvis Presley,Elvis (Fool),Always On My Mind,73,218440,False,0.358,0.387,7,-14.342,1,0.0324,0.746,0.0121,0.119,0.495,181.183,4,rock-n-roll
+7eqNATKM78MkWP6aHGXHEV,Paul Anka,Sings His Favorites,Put Your Head on My Shoulder,64,155080,False,0.549,0.433,7,-8.526,1,0.0327,0.906,0.0108,0.0774,0.486,116.068,3,rock-n-roll
+4gphxUgq0JSFv2BCLhNDiE,Elvis Presley,Elvis' Golden Records,Jailhouse Rock,68,146480,False,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396,4,rock-n-roll
+7jmHyHMEqm9MJWiMAneF05,Ben E. King,Don't Play That Song,Stand by Me,67,175493,False,0.632,0.232,9,-12.326,1,0.0318,0.428,4.95e-06,0.215,0.673,119.136,4,rock-n-roll
+7zMUCLm1TN9o9JlLISztxO,Elvis Presley,Elvis (Fool),Burning Love,74,170293,False,0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,4,rock-n-roll
+2QfiRTz5Yc8DdShCxG1tB2,Chuck Berry,Berry Is On Top,Johnny B. Goode,76,161560,False,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,4,rock-n-roll
+48i055G1OT5KxGGftwFxWy,Roy Orbison,"Oh, Pretty Woman","Oh, Pretty Woman",73,178933,False,0.619,0.603,9,-9.481,1,0.0342,0.712,0.0,0.0721,0.958,127.433,4,rock-n-roll
+1hZnDaUq0F8VLn800aAbJK,Los Apson,"Amores Incomparables, Vol. 3",Fue en un Cafe,47,191040,False,0.734,0.458,4,-5.547,1,0.0287,0.685,0.0,0.0877,0.718,106.25,4,rock-n-roll
+2TwM6FmWDMSBDdKYOsWKdy,Bobby Day,The Rockin' Adventures of Bobby Day,Rockin' Robin,47,156293,False,0.549,0.686,7,-10.313,1,0.136,0.291,0.0,0.201,0.926,172.601,4,rock-n-roll
+00tVVn9y5Ar2mmfiN0Bjmq,Frankie Valli & The Four Seasons,Jazzy Christmas Vibes,The Little Drummer Boy,0,138866,False,0.613,0.278,10,-13.709,1,0.0288,0.633,0.0,0.0848,0.55,74.311,4,rock-n-roll
+4IM0eSvgcbFwuwMx0iYOUu,Paul Anka;Odia Coates,Best 70s Rock Tunes,I Don't Like To Sleep Alone,0,198826,False,0.471,0.557,10,-9.696,1,0.0277,0.413,7.61e-06,0.267,0.26,127.164,4,rock-n-roll
+2vGfjY0JLLiBiEFq7zgQjB,Buddy Holly;The Crickets,Christmas time but not Christmas songs 2022,Everyday,0,128466,False,0.731,0.255,3,-11.732,1,0.0375,0.485,0.0,0.09,0.564,135.346,4,rock-n-roll
+596C0Jf31sDqGQSgs9Dcfq,Paul Anka;Odia Coates,Sweet Home Alabama,I Don't Like To Sleep Alone,0,198826,False,0.471,0.557,10,-9.696,1,0.0277,0.413,7.61e-06,0.267,0.26,127.164,4,rock-n-roll
+04S5NntMFVj4ZSsJMhcsLD,Los Freddy's,20 Éxitos Populares,Se Ha Quebrado,45,211173,False,0.827,0.43,4,-12.935,1,0.0342,0.395,1.01e-06,0.0568,0.537,109.134,4,rock-n-roll
+5S0yacsFpFnsZH2Kh4r4Zu,Dion,Fiesta temática 60s,Somebody Nobody Wants,0,158586,False,0.514,0.495,11,-6.806,0,0.0333,0.724,0.0,0.227,0.756,110.839,3,rock-n-roll
+0snqXhYtZExuEtkdehmzhe,Paul Anka;Odia Coates,Best 70s Rock Tunes,I Don't Like To Sleep Alone,0,198826,False,0.471,0.557,10,-9.696,1,0.0277,0.413,7.61e-06,0.267,0.26,127.164,4,rock-n-roll
+4IMY53WTwPCK0RiXcpzAXb,The Platters,Classic Christmas Music 2022,Christmas Time,0,124013,False,0.299,0.377,0,-7.425,1,0.0283,0.859,0.0,0.116,0.378,69.272,4,rock-n-roll
+0eE1YHKP7ASJvSyBIxF5KL,Mike Laure,Lo Mejor De Mike Laure,Veracruz,47,154877,False,0.709,0.524,9,-5.838,0,0.035,0.255,0.0,0.0814,0.751,120.831,4,rock-n-roll
+5LnKmt8Gc9vrqeFdliF3vM,The Platters,Xmas Classics 2022,Christmas Time,0,124013,False,0.299,0.377,0,-7.425,1,0.0283,0.859,0.0,0.116,0.378,69.272,4,rock-n-roll
+7MoPVyB6vUWwzGoo2EMGD4,Paul Anka;Odia Coates,Best 70s Rock Tunes,I Don't Like To Sleep Alone,0,198826,False,0.471,0.557,10,-9.696,1,0.0277,0.413,7.61e-06,0.267,0.26,127.164,4,rock-n-roll
+63Y39bpBmgiKXs4hSJ0dD3,The Platters,A Very 60s Christmas,Blue Christmas,0,115573,False,0.45,0.552,2,-6.9,1,0.0391,0.745,0.0,0.707,0.741,157.24,4,rock-n-roll
+7KBPInlv2i4fjoLZ8vvLeG,Mike Laure,Lo Mejor De Mike Laure,Cuando Vuelva A Tu Lado,46,144242,False,0.566,0.668,7,-4.649,1,0.0343,0.443,0.0,0.206,0.828,125.291,4,rock-n-roll
+7g7Zqii3qccY5O8DNL8PFw,The Platters,A Very 60s Christmas,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rock-n-roll
+3Ma7En4uWNtzGAhXHVfmCY,The Platters,A Very 60s Christmas,"Rudolph, The Red Nosed Reindeer",0,112960,False,0.576,0.682,3,-4.212,1,0.0369,0.726,0.0,0.236,0.919,145.274,4,rock-n-roll
+4S3Rq07dySyfkce2v2arfp,The Platters,60s Christmas Party,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rock-n-roll
+4kk7W4DWULC2KWHaqbqvf9,Los Baby's;Thalia,Tributo a,Triángulo (feat. Thalia),46,214466,False,0.486,0.84,6,-2.076,1,0.0678,0.465,0.0,0.362,0.548,142.182,4,rock-n-roll
+62U267s93BGXW3NksPKVs3,The Platters,Christmas Soul Classics,Jingle Bell Rock,0,108186,False,0.525,0.711,2,-5.325,1,0.0333,0.651,0.0,0.657,0.904,69.688,4,rock-n-roll
+7jkfwumh6cQYFsIsqPJ7ps,The Platters,A Very 60s Christmas,Winter Wonderland,0,133133,False,0.648,0.463,3,-7.572,1,0.032,0.806,0.0,0.396,0.744,102.511,4,rock-n-roll
+31cWLSWcitDSeOBKhcjhMG,Frankie Valli & The Four Seasons,Perfect Christmas Hits,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,0,-11.455,0,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+24TRTp7M7B2eYgK9kof5je,The Platters,Christmas Soul Classics,I'll Be Home For Christmas,0,156840,False,0.252,0.32,3,-8.69,1,0.0293,0.797,1.36e-06,0.138,0.23,101.535,3,rock-n-roll
+763FEhIZGILafwlkipdgtI,Frankie Valli & The Four Seasons,Merry Christmas,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,0,-11.455,0,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+7oq30Ybi655pwJpXvU8LsE,The Platters,Desayuno en calma,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rock-n-roll
+4d3ORkKEIDZF9MOV2erLAq,The Platters,Classic Christmas 2022,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rock-n-roll
+40L8OVaEpyF7KTRWTNvJGY,The Platters,Classic Christmas Music 2022,"Rudolph, The Red Nosed Reindeer",0,112960,False,0.576,0.682,3,-4.212,1,0.0369,0.726,0.0,0.236,0.919,145.274,4,rock-n-roll
+1RNJP2UR28cOToXUnWB8N9,The Platters,Xmas Classics 2022,All I Want For Christmas Is My Two Front Teeth,0,131973,False,0.693,0.338,0,-6.372,1,0.0345,0.752,0.0,0.355,0.583,79.443,4,rock-n-roll
+4iFECwt9g4TzMpX304uqWy,The Drifters,R'n'B Studying,She Never Talked to Me That Way,0,153973,False,0.386,0.384,10,-12.716,1,0.0426,0.679,0.0,0.116,0.791,146.387,4,rock-n-roll
+3cHu1UqgGTMPLiGrWDQHVC,Frankie Valli & The Four Seasons,Christmas Music - Holiday Hits,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,0,-11.455,0,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+0Dsj4OiiWw4WkgbAkQaMY1,Jorge Muñiz,Sucesos Musicales (with María del Sol),La Otra Parte de Ti - Complimenti,45,228893,False,0.766,0.555,4,-11.37,1,0.0342,0.491,0.0,0.0503,0.806,120.062,4,rock-n-roll
+2RWApboy1wKHMeLD6KlFI9,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,Que Me Perdone Tu Señora,46,150640,False,0.608,0.447,6,-12.151,0,0.0663,0.335,3.51e-05,0.169,0.673,90.777,4,rock-n-roll
+7AOlhO09yFC6WvbPSj2qv1,Frankie Valli & The Four Seasons,Holly Jolly Christmas,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,0,-11.455,0,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+2OEmtRXH5FL5foKlwoIZYU,The Drifters,Christmas Time,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+1OPoUUFSLgXXsFcjP1SRIS,The Drifters,Perfect Christmas Hits,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+5SQIEHNedYoJqOAB9x2DDF,The Drifters,Merry Christmas,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+4aUsqDkhFNG0IADV9SkaSY,Estela Nuñez,Estela Nuñez... Sus Primeras E Inolvidables Grabaciones,Una Lágrima (Una Lacrima),45,233293,False,0.539,0.37,10,-11.268,1,0.0307,0.817,0.0,0.393,0.478,115.782,4,rock-n-roll
+5p9IGH0xpbhJI9d8YWJe47,The Drifters,Thanksgiving Party,Sweets for My Sweet,0,147146,False,0.772,0.81,0,-7.602,1,0.0322,0.687,2.42e-06,0.097,0.971,119.883,4,rock-n-roll
+1qtOncyVGwrltAsTWFuW6m,The Drifters,Holly Jolly Christmas,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+3SqWXTR40ETna3e4EHYTHq,The Drifters,Christmas Music - Holiday Hits,White Christmas,0,158533,False,0.578,0.182,8,-10.424,1,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+7l9cCg3EBqVfBikbc21Kb0,The Drifters,Christmas Only: The Timeless Classic Collection,White Christmas,0,158413,False,0.555,0.213,8,-9.262,1,0.0449,0.939,5.33e-05,0.113,0.498,125.126,4,rock-n-roll
+3x7Y3tjRKwV0EHEDPkUBfB,Los Solitarios,Antología. . . Los Solitarios,No debes llorar,45,211346,False,0.549,0.401,2,-11.673,1,0.0269,0.439,0.000341,0.154,0.513,81.661,4,rock-n-roll
+7caj6X6NMX3tlhWnu1du6V,Ritchie Valens,Ritchie Valens,We Belong Together,69,116626,False,0.684,0.247,5,-13.71,1,0.0281,0.872,0.000166,0.113,0.768,106.522,3,rock-n-roll
+4hAUynwghvrqDXs1ejKNEq,Elvis Presley,Elvis 30 #1 Hits,Can't Help Falling In Love,65,177840,False,0.438,0.325,2,-11.066,1,0.0268,0.893,5e-06,0.107,0.362,101.577,3,rock-n-roll
+6FT83pFXKhDlXDsNJFAHWz,Chuck Berry,St. Louis To Liverpool,You Never Can Tell,70,161906,False,0.525,0.852,7,-9.519,1,0.222,0.731,5.11e-05,0.218,0.884,157.404,4,rock-n-roll
+0QGwOFQChzflLAmPq5NwKo,Dion & The Belmonts,Presenting Dion And The Belmonts,A Teenager In Love,61,158253,False,0.555,0.377,1,-9.123,1,0.0295,0.671,0.0,0.128,0.619,78.986,4,rock-n-roll
+3C6pSIVeBKIbSpCFtaw1r8,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),If I Can Dream,71,191840,False,0.325,0.715,7,-7.744,1,0.0368,0.00708,2.79e-05,0.0987,0.282,93.914,3,rock-n-roll
+4Y6pdMS2PwGshq1MYcJ9fC,Ricky Nelson,For Your Sweet Love,I Will Follow You,58,146133,False,0.671,0.442,0,-11.595,1,0.0332,0.758,1.63e-05,0.108,0.749,120.774,4,rock-n-roll
+52HAHV1j93s5B8GoTNI7DJ,Roy Orbison,The Essential Roy Orbison,"Oh, Pretty Woman",63,176933,False,0.609,0.584,9,-9.734,1,0.0353,0.725,0.0,0.0854,0.954,127.306,4,rock-n-roll
+7GHf8dQ2wA71wYOuRsQCZP,The Cascades,Rhythm Of The Rain,Rhythm of the Rain,61,146360,False,0.659,0.66,0,-8.337,1,0.0441,0.627,0.000217,0.136,0.672,116.634,4,rock-n-roll
+1INWPr855fwWdAOeecbu0W,Chubby Checker,It's Pony Time/Let's Twist Again,Let's Twist Again,68,137360,False,0.604,0.709,8,-6.377,1,0.158,0.0987,0.0,0.0551,0.907,167.832,4,rock-n-roll
+7dblNGnRXEBrVJunazs2U5,The Everly Brothers,The Very Best of The Everly Brothers,All I Have to Do Is Dream,67,143333,False,0.534,0.462,4,-8.172,1,0.0266,0.839,0.0,0.129,0.534,96.195,4,rock-n-roll
+0SsYlkXxZ5vkWOTsKxMfMz,Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Lonesome Town,63,134040,False,0.404,0.193,11,-12.501,1,0.0305,0.794,0.000296,0.103,0.273,77.026,4,rock-n-roll
+0S5cs4lAkx99tGjoWS4Jtk,The Platters,The Magic Touch: An Anthology,Only You (And You Alone),56,156666,False,0.486,0.231,3,-12.06,1,0.0354,0.936,0.0,0.125,0.303,80.049,4,rock-n-roll
+1tfZtA15BfJHQTUy3dqTKC,The Foundations,Baby Now That I've Found You,Build Me Up Buttercup,32,180133,False,0.64,0.664,0,-4.73,1,0.0289,0.196,0.0,0.31,0.879,134.002,4,rock-n-roll
+6MTd61g9zq6CB1FnJydjEb,The Archies,Everything's Archie,Sugar Sugar,69,167213,False,0.757,0.725,2,-7.259,1,0.0275,0.399,0.0,0.108,0.965,122.439,4,rock-n-roll
+64VP3skE86iTvdOlbzuIcO,Jerry Lee Lewis,Jerry Lee's Greatest,Great Balls Of Fire,68,111535,False,0.533,0.729,7,-7.227,0,0.0714,0.563,0.0,0.159,0.884,78.67,4,rock-n-roll
+2j8bXaOBeEeyoY4ZpCcFIW,Shakin' Stevens,Shaky,You Drive Me Crazy,58,171720,False,0.754,0.927,5,-2.597,1,0.0313,0.173,3.22e-06,0.307,0.975,119.494,4,rock-n-roll
+7KWoeBqSdZHEloYKVxssfG,Elvis Presley,From Elvis in Memphis,In the Ghetto,69,167413,False,0.404,0.266,10,-16.688,1,0.0334,0.716,0.133,0.107,0.491,88.916,4,rock-n-roll
+0OavtQSojULqejmC4Qbstr,Elvis Presley,Moody Blue,"Unchained Melody - Live at Ann Arbor, MI",68,151906,False,0.271,0.266,0,-13.703,1,0.0348,0.845,0.00174,0.795,0.163,79.079,3,rock-n-roll
+5bGPLTIBVE2N4ZtbaGs7i3,Fresa Salvaje,Interrogación,Interrogación,42,268600,False,0.337,0.562,4,-4.94,0,0.0292,0.321,6.16e-06,0.522,0.433,89.319,4,rock-n-roll
+0g7B6dB30w5bnqaeitmZfj,Los Polifaceticos,Puros Exitos,Ocho Palabras,41,167366,False,0.42,0.568,11,-5.628,1,0.0341,0.579,6.31e-06,0.145,0.703,87.92,4,rock-n-roll
+0uIgAmyQYVLQnU2hCULaE3,Paco Cañedo,Paco Cañedo,Un Beso Más (One Last Kiss),43,106026,False,0.576,0.28,10,-21.319,1,0.0661,0.659,0.0,0.418,0.604,133.558,4,rock-n-roll
+5mQl3NEJrmJEOFVA5WjQex,Los Cuatro Soles,Nunca Más Podré Olvidarte,Nunca Más Podré Olvidarte,42,173200,False,0.446,0.605,4,-7.584,1,0.0383,0.465,0.0,0.193,0.568,176.221,4,rock-n-roll
+2p3hIfkLDE8AN2fvR3woq4,Jorge Muñiz;Marco Antonio Muñiz,Serenata,"Popurrí ""Los Tres Ases""",41,334533,False,0.484,0.448,10,-6.952,1,0.0454,0.731,0.0,0.0737,0.607,80.43,4,rock-n-roll
+32TkZ0EXNV01d6i3FquAiC,Alberto Vazquez,Baladas,Si La Invitará Esta Noche,43,191611,False,0.573,0.367,7,-9.494,1,0.0321,0.655,3.68e-06,0.0786,0.303,120.592,3,rock-n-roll
+6bapRGKGASRyExeiv9Zdmg,Mike Laure,Mi Historia,Me Quiero Casar Contigo,41,128336,False,0.758,0.531,8,-8.704,1,0.0349,0.608,0.0,0.214,0.966,119.975,4,rock-n-roll
+4jLRskkvnFsjUB3mvtXp5M,Alberto Vazquez;Estela Nuñez,Cosas de Alberto Vázquez,Para Decir Adiós,43,187426,False,0.578,0.4,11,-11.207,0,0.0285,0.248,0.0,0.218,0.479,89.31,4,rock-n-roll
+7zHQkpC5hy5VSPZwdz17ND,Los Apson,Loco - Vintage Rock en Español,Anoche Me Enamoré,42,142146,False,0.598,0.634,9,-6.22,1,0.0689,0.832,0.0,0.145,0.678,134.64,4,rock-n-roll
+6B7ohoEc96VRnmgzopDPG0,Angelica Maria,15 Éxitos,Yo Que No Vivo Sin Ti,42,182810,False,0.386,0.469,2,-5.938,1,0.0271,0.525,0.0,0.274,0.189,96.136,3,rock-n-roll
+5jlWc3WmSTZ73RNmCqCQP3,Alberto Vazquez;Manolo Muñoz,Rancheras Inmortales,Animas Que No Amanezca,44,146834,False,0.37,0.467,0,-6.983,1,0.0334,0.3,0.0,0.0888,0.811,180.611,3,rock-n-roll
+4nxv488CuSfrtH6jN4nsWB,Los Reno,Peerless 80 Aniversario - 24 Exitos,Y es por ti (Waiting Here for You),42,132000,False,0.769,0.556,4,-7.974,1,0.0292,0.7,0.0,0.191,0.929,132.389,4,rock-n-roll
+4HcAjWbSvFMPnqyuzU5qRI,La Tropa Loca,El Disco de Oro de la Tropa Loca,Engaño,44,206306,False,0.528,0.502,9,-7.453,1,0.0259,0.00982,0.0,0.221,0.538,88.092,4,rock-n-roll
+0jDjl6u73NHr2WhzoeEwQ3,Los Pasteles Verdes,Éxitos Eternos,Mi Amor Imposible,45,222668,False,0.55,0.698,4,-6.743,1,0.0482,0.409,0.00016,0.303,0.687,138.254,4,rock-n-roll
+5Db8xWFjgozOIfpR043Ukn,Connie Francis,Christmas time but not Christmas songs 2022,Stupid Cupid,0,133613,False,0.609,0.756,3,-5.747,1,0.0375,0.762,5.11e-05,0.0521,0.968,136.045,4,rock-n-roll
+1fv1xRgyEKJkG9YVEamBKS,Los Baby's;Shaila Dúrcal,Tributo a,Mi Loca Pasión (feat. Shaila Dúrcal),43,161906,False,0.672,0.86,7,-1.533,1,0.0284,0.213,0.0,0.281,0.847,110.179,4,rock-n-roll
+40Jl6RwbLIdXeqFR2HPOBv,Sonora Maracaibo,La Mas Romantica de America,No Dejes de Quererme,41,144979,False,0.547,0.318,0,-9.994,1,0.0328,0.712,5.11e-05,0.421,0.8,108.224,4,rock-n-roll
+3VNA5SrCXtBs2xUbA5bgpY,Ike & Tina Turner,On air 70's Hits,Nutbush City Limits,0,176880,False,0.693,0.845,7,-8.657,1,0.0327,0.0455,0.0449,0.0341,0.921,77.181,4,rock-n-roll
+2u1NjJFN4emN0o6AJHogGU,Ike & Tina Turner,60s Christmas Party,River Deep - Mountain High,0,215720,False,0.377,0.763,3,-6.866,1,0.0387,0.777,0.00125,0.157,0.302,83.267,4,rock-n-roll
+52qkmQRIc05KdnaY4CO8cJ,Mike Laure,Lo Mejor De Mike Laure,La Cosecha De Mujeres,44,103096,False,0.738,0.671,9,-8.821,1,0.127,0.72,2.06e-06,0.0593,0.967,95.059,4,rock-n-roll
+34TBrYxr2f00MpEsEvLEs3,Ricardo Ceratto,Los Autenticos Exitos De,Me Estoy Acostumbrando a Ti,42,194706,False,0.523,0.404,3,-12.686,1,0.0407,0.753,0.0,0.428,0.739,76.224,4,rock-n-roll
+1GcnF0cnsvfBHwA7Sfyckl,Connie Francis,The Greatest Jazz Mix,Don't Break The Heart That Loves You,0,182133,False,0.366,0.413,8,-6.496,1,0.0303,0.818,0.0,0.2,0.193,73.4,4,rock-n-roll
+0EkSHAQktdf7R26LRQiKGQ,Cliff Richard,Christmas Music - Holiday Hits,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+33kvjc4Mwb8Bw4spshLlE9,Marco Antonio Muñiz;José José,El Príncipe de la Canción,Tiempo (with José José),42,221520,False,0.275,0.327,3,-10.236,1,0.0336,0.822,0.0,0.108,0.283,141.195,4,rock-n-roll
+1MUSDyEOKOeVLV9Xdfgntr,Martha Reeves & The Vandellas,On air 70's Hits,Dancing In The Street - Stereo,1,159960,False,0.55,0.885,11,-1.983,0,0.0372,0.0418,0.0275,0.17,0.735,126.367,4,rock-n-roll
+076sWQZiNFZq605udzIw8N,Martha Reeves & The Vandellas,60s Christmas Party,(Love Is Like A) Heat Wave - Single Version,0,164560,False,0.406,0.842,5,-2.897,0,0.0661,0.464,0.0487,0.472,0.799,166.499,4,rock-n-roll
+1VErHw2douvYHUO1EUm7eh,Los Brios,30 Anos De Exitos,Porque Estas Enamorada,42,189466,False,0.536,0.831,0,-5.226,1,0.0306,0.0374,0.0977,0.269,0.963,203.762,4,rock-n-roll
+6IWgHV06sU7ZfLAqB7GOtX,Connie Francis,Christmas Only: The Timeless Classic Collection,The Bells of St. Mary's,0,153066,False,0.284,0.156,11,-9.556,1,0.0334,0.896,0.0,0.156,0.146,60.645,4,rock-n-roll
+2zlpPaYrmjkJavxPBIFmJq,Connie Francis,Christmas Only: The Timeless Classic Collection,I'll Be Home for Christmas,0,206440,False,0.248,0.218,8,-9.347,1,0.0325,0.8,9.49e-05,0.176,0.202,84.017,4,rock-n-roll
+3O41vXTFcrULtbGFZXIe1B,Los Freddy's,Antología. . . Los Freddy's,Déjenme llorar - Con banda,42,157600,False,0.734,0.496,11,-7.851,1,0.0337,0.646,0.0,0.0856,0.88,116.043,4,rock-n-roll
+51FpZbIYAtkWtbFzZVLxUk,Wilson Pickett,Thanksgiving Party,In the Midnight Hour,0,157160,False,0.751,0.444,4,-8.63,1,0.0403,0.12,3.53e-06,0.118,0.849,111.917,4,rock-n-roll
+7Lp2cR508UkYmwbWwXPF5s,Marco Antonio Muñiz,Coleccion Original,Quiero Abrazarte Tanto,42,214973,False,0.378,0.815,7,-5.354,1,0.0461,0.346,1.3e-06,0.223,0.666,121.38,3,rock-n-roll
+3BSjclxC2Idsc5d8LsCJwj,Paul Anka,Las 66 Favoritas de Jose María Íñigo y José Ramón Pardo. Vol. 1 (1958-1961) [Remastered]],Put Your Head On My Shoulder (Remastered),51,158879,False,0.587,0.55,4,-4.967,0,0.0279,0.712,0.0,0.182,0.525,109.967,3,rock-n-roll
+5gJKsGij5oGt5H5RSFYXPa,The Champs,Greatest Hits / Tequila,Tequila,60,135240,False,0.671,0.742,5,-9.912,1,0.0441,0.121,0.679,0.0601,0.897,89.748,4,rock-n-roll
+64Ny7djQ6rNJspquof2KoX,Elvis Presley,Elvis' Golden Records,Hound Dog,66,136026,False,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895,4,rock-n-roll
+252YuUdUaC5OojaBU0H1CP,Jay & The Americans,Come A Little Bit Closer: The Best Of Jay & The Americans,Come A Little Bit Closer,65,166666,False,0.636,0.684,3,-9.302,1,0.057,0.52,0.0015,0.534,0.881,132.509,4,rock-n-roll
+47gmoUrZV3w20JAnQOZMcO,Elvis Presley,Elvis Presley,Blue Suede Shoes,66,119200,False,0.557,0.66,2,-7.706,1,0.056,0.654,1.66e-06,0.138,0.962,95.252,4,rock-n-roll
+2Q0vnDYHgq4M9Ax3pahjPz,Shakin' Stevens,Let's Boogie,Because I Love You,50,197826,False,0.577,0.49,11,-7.262,1,0.0248,0.328,5.99e-05,0.14,0.422,102.048,4,rock-n-roll
+1sM0yZDxUhPQhkDh2CLd6l,Ricky Nelson,Rick Is 21,Travelin' Man - Remastered,61,143200,False,0.723,0.44,2,-10.536,1,0.0319,0.667,0.0,0.128,0.843,123.217,4,rock-n-roll
+1hQFF33xi8ruavZNyovtUN,Frankie Valli & The Four Seasons,Who Loves You,"December, 1963 (Oh What a Night!)",73,197146,False,0.737,0.495,1,-13.489,1,0.027,0.0588,9.12e-06,0.0542,0.967,104.409,4,rock-n-roll
+0KM3fzzUBVW0vW7RmFh28v,Connie Francis,The Collection,Stupid Cupid,57,134560,False,0.606,0.725,3,-7.019,1,0.0352,0.831,1.07e-05,0.0407,0.963,136.815,4,rock-n-roll
+0hIEAMMiVHPW8QvZ6r25U5,Carlos Lico,"Serie 3X4 (Los Angeles Negros, Altemar Dutra, Carlos Lico)",No,41,178226,False,0.252,0.535,2,-7.898,1,0.0387,0.659,2.58e-05,0.099,0.354,81.805,4,rock-n-roll
+7B1VlOOC2K4UkWNJNXbG6w,Los Apson,"Amores Incomparables, Vol. 3",Cuando Era un Jovencito,39,165840,False,0.653,0.474,4,-6.469,1,0.0286,0.745,0.0,0.124,0.853,131.995,4,rock-n-roll
+132C8Pg31mURcAWa4O2DbI,Sonia Rivas,Tesoros De Coleccion - Sonia Rivas,No Soy Como Tú,41,191000,False,0.385,0.473,2,-9.731,1,0.0331,0.636,0.000907,0.504,0.58,137.11,4,rock-n-roll
+6Epp9ml7BLZBcg0icTFTQu,Los Loud Jets,Buen Rock Esta Noche,Hermosa Laura,40,162133,False,0.329,0.429,0,-14.43,0,0.035,0.47,0.0,0.0965,0.652,177.062,4,rock-n-roll
+2GMHqFwYnY3OGSvACE1pkE,Little Anthony & The Imperials,The Best Of Little Anthony & The Imperials,I'm On The Outside (Looking In),42,187733,False,0.383,0.282,7,-11.764,1,0.0467,0.82,1.76e-05,0.212,0.246,187.09,3,rock-n-roll
+3tsMbJIgZQZR3MT6I89GI2,Los Baby's,Antología...Los Baby's,Triángulo,40,190840,False,0.544,0.333,8,-9.914,0,0.0433,0.91,2e-05,0.115,0.571,103.412,3,rock-n-roll
+4SVz82q5RfeWrbcQMevCOw,Ben E. King,Stand by Me (Rerecorded),Stand by Me (Rerecorded),39,192446,False,0.633,0.399,9,-10.876,1,0.0298,0.617,0.0,0.168,0.58,115.983,4,rock-n-roll
+1EiXHKMWX8Tx6jzeoTeCYy,Los Freddy's,10 Exitos De Los Freddy's,Tu Condena,39,228013,False,0.717,0.372,8,-16.721,1,0.0282,0.059,3.42e-06,0.0576,0.727,107.066,4,rock-n-roll
+5v1udQ8k09XuMjUb7OBmXa,Los Rogers,15 Exitos del Rock & Roll,Noches y Dias Perdidos,40,167862,False,0.64,0.419,2,-10.453,1,0.0337,0.704,0.0,0.212,0.527,108.401,3,rock-n-roll
+1drAPzG8FQ6eF2P41yWw3P,Mike Laure,Lo Mejor De Mike Laure,Cero 39,40,165163,False,0.722,0.475,9,-9.572,0,0.0511,0.545,0.0,0.416,0.903,104.54,4,rock-n-roll
+5CXC1tQRXrLTtRkzVbPTe6,Los Crazy Boys,Rock & Roll,"Corina, Corina",40,155533,False,0.428,0.47,7,-10.368,1,0.0313,0.857,3.38e-05,0.109,0.807,136.56,4,rock-n-roll
+3LxPolifAA2lfU0cvmOhVQ,Los Hermanos Carrion,"Hermanos Carrion 50 Años, Vol. 1",Se Fue,41,162847,False,0.488,0.447,2,-11.335,1,0.0361,0.169,0.000247,0.319,0.66,147.727,4,rock-n-roll
+2cxF8FgYxdvQzw8p4xTS6e,Angelica Maria,15 Éxitos,Dile Adiós,41,124145,False,0.591,0.472,0,-4.991,1,0.0276,0.579,0.0,0.111,0.747,129.948,4,rock-n-roll
+3bgKVqn6LRjdpuFNpJ3rSq,Cliff Richard,Cuddle Up Christmas,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+6oqmDOVXIvMUAI6f9xt17p,Sonora Maracaibo,20 Éxitos,La Chancla,39,162690,False,0.7,0.657,2,-11.374,1,0.0572,0.642,1.08e-06,0.097,0.971,150.002,4,rock-n-roll
+4JDVhYoBEwxf53DbJ8BRoF,Cliff Richard,Perfect Christmas Hits,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+0B8uTkOG0jkN1BfK2kaZe1,Mike Laure,Lo Mejor De Mike Laure,Humanidad,40,151974,False,0.664,0.379,9,-11.539,0,0.0382,0.693,0.0,0.314,0.877,122.175,4,rock-n-roll
+24WyT7rIQvUUEZVyLMEEf6,Nelson Ned,Antologia (Volumen 2),El Preso No. 9,41,205400,False,0.519,0.38,11,-11.009,0,0.0342,0.716,0.0,0.283,0.617,121.587,3,rock-n-roll
+0vjPike6L46Gll6M1oclg2,Los Chicanos,Sólo para Tu Corazón: Frío de Ausencia,Frío de Ausencia,38,225786,False,0.715,0.71,9,-8.636,1,0.0283,0.309,2.86e-06,0.314,0.937,116.647,4,rock-n-roll
+48ft3s71HdFEmEJPhhHssQ,Cliff Richard,Merry Christmas,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+7isAr2kWfTN2y1IiP0ndEJ,Cliff Richard,Christmas Time,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+2d7enT2XqHbg5xZSylQt7P,Acerina Y Su Danzonera,Almendra,Almendra,41,162632,False,0.452,0.527,7,-5.399,1,0.0471,0.796,0.712,0.129,0.929,135.602,3,rock-n-roll
+6d8yBVzlw4wJzygt2TnpXw,Grupo Lluvia,15 Baladas Inolvidables Vol. 1 - Las Mejores,Mi Plegaria,39,194686,False,0.561,0.44,2,-11.675,1,0.0308,0.178,0.0,0.258,0.691,105.627,4,rock-n-roll
+6rcvPsOgiwRTM4dTLSV8Jd,Mike Laure,15 Éxitos,La Secretaría,39,165198,False,0.817,0.579,0,-8.123,0,0.0527,0.628,0.0,0.068,0.911,117.267,4,rock-n-roll
+3AIPpo3z8KTN4hHhY7qRw8,Los Hitters,Grandes Exitos,Un Hombre Respetable,39,150413,False,0.563,0.646,9,-6.593,0,0.117,0.156,0.0,0.31,0.592,175.107,4,rock-n-roll
+1yhoppn03RhuWge08NDqKR,Mike Laure,Lo Mejor De Mike Laure,Quiero Amanecer,40,98092,False,0.708,0.746,9,-5.381,1,0.0963,0.542,1.9e-05,0.113,0.965,92.075,4,rock-n-roll
+6VBut35l7vvjb8No4WboLS,Los Pasteles Verdes,Éxitos Eternos,Ya Es Muy Tarde,41,224327,False,0.505,0.53,6,-9.391,0,0.0499,0.00437,0.164,0.0513,0.682,84.77,4,rock-n-roll
+5TmvmwxsHSfDfdW0RptHE4,Los Sleepers,Loco - Vintage Rock en Español,Al Ritmo De La Lluvia,40,140026,False,0.758,0.626,4,-8.901,1,0.0353,0.808,0.0,0.423,0.933,128.102,4,rock-n-roll
+5oNDbLcwCFsQal1b46WZYn,Los Solitarios,Serie Diamante (USA),No dudes de mi amor,40,171920,False,0.552,0.492,4,-8.919,0,0.066,0.605,2.38e-06,0.131,0.617,94.994,4,rock-n-roll
+1zhiY8SQbBksuS1O9WDfp2,Cliff Richard,Holly Jolly Christmas,Mistletoe and Wine,0,245333,False,0.498,0.432,9,-14.386,1,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+08ksJGciam3UJhNdVJ7I4S,Los Chicanos,Tesoros De Coleccion - Los Chicanos,El Puente de Piedra,41,220866,False,0.465,0.433,7,-9.187,1,0.0268,0.507,0.0,0.142,0.447,96.513,4,rock-n-roll
+6q8AvEr7oG3tgmmtI6O2uS,Little Gerhard,16 Svenska originalklassiker,Den siste mohikanen,40,174546,False,0.595,0.804,0,-4.511,1,0.0377,0.48,0.0,0.173,0.924,131.655,4,rock-n-roll
+4PC8qwYOLR8P0h4F49L1Kx,Hermanos Carrion,El Rock de los 60's: Hermanos Carrion,Magia Blanca,39,228284,False,0.596,0.416,2,-13.101,1,0.0311,0.913,0.0179,0.302,0.919,137.501,4,rock-n-roll
+2rHEyeBDE2w9jOMpTV1ICj,Los Apson,Fiesta Rocker,Anoche me enamoré,39,141920,False,0.593,0.619,9,-6.176,1,0.0497,0.818,0.0,0.185,0.72,134.614,4,rock-n-roll
+4L69BoE55Rl105sozTJNfK,Acerina Y Su Danzonera,"15 Exitos ""Danzones""",Rigoletito,39,203786,False,0.35,0.59,10,-11.337,1,0.0682,0.48,0.395,0.259,0.799,134.729,4,rock-n-roll
+6uA1qGKf0r5uYIg1aMhn7c,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,El Gorrión y Yo,40,181560,False,0.641,0.397,7,-11.549,1,0.0782,0.764,0.0,0.1,0.784,88.59,4,rock-n-roll
+0pW4iiqD5lr2c9FwDtmGCG,Ricardo Ceratto,Los Autenticos Exitos De,Que Mas Da,40,169666,False,0.792,0.435,3,-12.242,1,0.0469,0.531,0.0,0.126,0.963,100.197,4,rock-n-roll
+6ST2sndt6ieETDBzOSR063,Manolo Muñoz,Los Éxitos de Manolo Muñoz,El Rápido Speedy Gonzalez,40,156177,False,0.512,0.598,0,-5.868,1,0.0628,0.569,0.0,0.297,0.747,146.995,4,rock-n-roll
+6oSHUGPODHO48bLAyQGF1z,Los Baby's;Cristian Castro,Tributo a,Como un Duende (feat. Cristian Castro),39,176306,False,0.648,0.75,9,-4.156,1,0.0317,0.312,0.0,0.177,0.596,103.992,4,rock-n-roll
+012JFkVnfxxnL0dN29j73L,The Spencer Davis Group,(60's) Sixties Collected Volume 2,Keep On Running - Remastered 2010,0,168280,False,0.671,0.689,9,-7.755,1,0.0932,0.328,2.95e-06,0.352,0.811,138.306,4,rock-n-roll
+5RXdPnVu0Re9XvKo9v6Wx4,Los Baby's,Sólo para enamorados,Por qué?,40,183693,False,0.521,0.47,4,-11.747,1,0.0306,0.0293,0.0587,0.315,0.555,115.541,3,rock-n-roll
+3iSws76HjaU7k49EqJVTfF,The Archies,"The Very Best Of ""The Archies""","Sugar, Sugar",65,167186,False,0.736,0.871,2,-2.786,1,0.0278,0.466,0.0,0.108,0.967,122.395,4,rock-n-roll
+3KzgdYUlqV6TOG7JCmx2Wg,Bobby Darin,That's All,Beyond the Sea,68,172480,False,0.521,0.516,2,-7.456,0,0.0369,0.723,0.0,0.257,0.569,136.483,4,rock-n-roll
+0Juciz8gOjrO89qw5KwQV5,Bobby Darin,Hello Dolly To Goodbye Charlie,Call Me Irresponsible,59,124560,False,0.607,0.347,7,-12.241,1,0.0369,0.695,0.0,0.121,0.644,125.485,4,rock-n-roll
+7xe3EQCvXnx6Q0zs41Y65n,Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],Great Balls of Fire,57,111240,False,0.592,0.627,10,-10.14,1,0.0662,0.55,0.0,0.43,0.909,79.567,4,rock-n-roll
+0LfJkvPNCNEMLpZJgDQiV1,Elvis Presley,The Essential Elvis Presley,The Wonder of You,64,153200,False,0.448,0.691,7,-6.957,1,0.0286,0.286,0.00111,0.945,0.633,88.836,4,rock-n-roll
+7iBBcw61QVJxI3NDzlpX2E,Elvis Presley,Elvis 30 #1 Hits,Love Me Tender,59,162066,False,0.439,0.0529,9,-16.253,1,0.039,0.881,0.0,0.106,0.314,109.382,3,rock-n-roll
+4aTCNddtjztjuK2EOgz7ZZ,Brian Hyland,The Bashful Blond,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,54,143733,False,0.814,0.427,2,-11.543,1,0.0918,0.558,0.0,0.0248,0.964,123.109,4,rock-n-roll
+2aEeghgUcnu75tzcolFMfs,Ritchie Valens,Ritchie Valens,La Bamba - Single Version,66,126960,False,0.516,0.809,0,-6.419,1,0.0545,0.787,0.000331,0.303,0.939,75.099,4,rock-n-roll
+0Tjdbd83LEAWrA0atsXMDJ,The Everly Brothers,Best Of The Everly Brothers - Rare Solo Classics,Let It Be Me,58,146733,False,0.471,0.19,7,-16.046,1,0.028,0.77,0.00385,0.129,0.305,72.764,4,rock-n-roll
+6fSNK6QlZskYmKTvJnNH5P,Gerry & The Pacemakers,The Very Best Of Gerry & Pacemakers,You'll Never Walk Alone,58,159546,False,0.474,0.365,0,-5.446,1,0.0306,0.251,2.02e-06,0.186,0.219,113.207,3,rock-n-roll
+6Q2pkSKuM08SDOuAS5amQD,The Platters,The Magic Touch: An Anthology,The Great Pretender,48,159066,False,0.652,0.303,7,-8.573,1,0.0297,0.851,0.0,0.324,0.706,114.665,3,rock-n-roll
+4OTw5splgMdlYklwHMHxLK,The Hollies,Distant Light (Expanded Edition),Long Cool Woman (In a Black Dress) - 1999 Remaster,71,199200,False,0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,4,rock-n-roll
+2vSxjnyrWrtxyfzO47EX6q,The Platters,Remember When?,Smoke Gets In Your Eyes,65,160933,False,0.203,0.295,3,-11.155,1,0.0323,0.92,2.05e-06,0.173,0.285,171.222,3,rock-n-roll
+2mmEOMZRIxWsrAMV9WvV2J,Los Brios,Los Bríos,La Última Canción,38,193455,False,0.479,0.672,5,-8.537,0,0.0353,0.588,0.0,0.277,0.607,98.619,4,rock-n-roll
+2KE723Cj7xEvFe9qXgX8qu,Virginia Lopez,Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici,Ya Tú Verás,37,151266,False,0.533,0.746,0,-6.384,0,0.0734,0.755,0.0,0.351,0.607,110.257,4,rock-n-roll
+1jtDjvS0sFh44pYXZEZlbJ,Beto Diaz,Mirando Una Estrella,La Del Vestido Rojo,37,201897,False,0.804,0.615,1,-8.959,1,0.0439,0.195,0.0,0.042,0.969,137.137,4,rock-n-roll
+28z5a7yYVyjf69ghyI3O28,Los Hitters,Idolos del Rock & Roll,Un Hombre Respetable,37,143595,False,0.764,0.517,9,-8.073,0,0.059,0.651,0.0,0.278,0.64,90.195,4,rock-n-roll
+5kzDgkyl2iAo4qEitoqU5n,Imelda Miller,Que Alegre Va María,Voy a Rifar Mi Corazón,37,163706,False,0.73,0.612,10,-5.781,1,0.0379,0.594,0.0,0.64,0.83,107.635,4,rock-n-roll
+3b9ICYLGk3brPCarHbih8a,Los Juniors,Los Grandes Éxitos Del Rock & Roll (En Español) Vol. 2,Chica Alborotada,37,127525,False,0.683,0.883,2,-7.68,1,0.0453,0.481,0.0414,0.114,0.905,156.18,4,rock-n-roll
+0az7gdZQPf1H09WaCjBHKi,Los Pasteles Verdes,Historia: Discografía Completa,Recuerdos de una Noche,38,179000,False,0.597,0.552,0,-9.026,1,0.0272,0.0189,0.498,0.101,0.546,81.712,4,rock-n-roll
+1kIFa3geFcIPOfmzlbBt2z,Jorge Muñiz;Margarita la diosa de la cumbia,Azulejos 2,Madrigal,37,262240,False,0.678,0.391,2,-9.638,1,0.031,0.826,1.92e-05,0.639,0.409,112.042,4,rock-n-roll
+60iiiaHZ0RYPuEfROGdEG7,Javier Bátiz,Tierra de Nadie,Si Estuvieras Aquí,37,192029,False,0.662,0.627,7,-8.396,1,0.0277,0.199,4.04e-06,0.0723,0.943,127.261,4,rock-n-roll
+2DooBdT3SX7YLLgBP8BHni,Los Teen Tops,La Plaga,Pensaba En Ti,39,211905,False,0.422,0.295,9,-11.157,1,0.0972,0.788,0.0,0.163,0.467,207.098,3,rock-n-roll
+6PVBvmaAUXgvqoshDY4KkB,Estela Nuñez,Te Quiero Todo,Te Acuerdas?,38,218346,False,0.601,0.347,2,-12.588,1,0.029,0.603,0.0,0.341,0.507,93.96,4,rock-n-roll
+23c3BqMJumqqXFTjmVoMeF,Imelda Miller,Que Alegre Va María,Que Alegre Va María,37,292506,False,0.367,0.217,10,-21.015,1,0.0283,0.65,0.0,0.323,0.428,86.717,4,rock-n-roll
+2s53l8lFoLN7xWgYMnAdJX,Los Apson,La Leyenda Continúa (20 Éxitos),Cuándo Era Jovencito,37,160684,False,0.743,0.607,4,-8.336,1,0.032,0.0765,5e-05,0.314,0.895,135.975,4,rock-n-roll
+3RlRPLi8qkxiFDfWejKENv,Acerina Y Su Danzonera,Danzones a la Mexicana,Juárez,38,140225,False,0.486,0.282,7,-13.991,1,0.0634,0.604,0.19,0.281,0.879,120.695,4,rock-n-roll
+3fHZLCJKndlL9fxUVAh7zy,Hermanos Carrion,Lo Mejor De Los Hermanos,Magia Blanca (Devil Woman),37,204333,False,0.527,0.651,4,-9.78,1,0.0368,0.931,0.0293,0.324,0.676,136.994,4,rock-n-roll
+0q3xjsUpk7stvWNhvaxku3,Cesar Costa,Mi Pueblo,No Existe el Amor,39,135706,False,0.514,0.408,9,-8.999,0,0.0364,0.835,0.0,0.193,0.854,89.76,4,rock-n-roll
+6Qtsg8iui24fPWGQslfjZ0,The Ventures,Happy Haunted Halloween Tunes,The Twilight Zone,1,155933,False,0.563,0.719,6,-11.323,0,0.0276,0.242,0.146,0.288,0.488,113.657,4,rock-n-roll
+67IfzCjex50QivUEpEpfDt,Alberto Vazquez,Cosas de Alberto Vázquez,Anoche Yo Me Enamoré,38,191586,False,0.587,0.324,7,-14.043,1,0.0307,0.457,8.9e-05,0.0946,0.78,118.072,4,rock-n-roll
+1TRdUF2oyYENzeX30yQtwM,Virginia Lopez,Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici,Tus Promesas de Amor,38,159440,False,0.596,0.807,7,-5.319,1,0.0435,0.447,0.0,0.534,0.804,111.445,4,rock-n-roll
+5NHfrnF9xsCpsDY6ncvgIW,Jay & The Americans,60s Christmas Party,Come A Little Bit Closer,0,168853,False,0.594,0.716,3,-8.429,1,0.043,0.659,0.000914,0.363,0.847,132.31,4,rock-n-roll
+1zyUjykhD5NjcGs5EFIqPK,Enrique Guzmán & Teen Tops,El rock de la cárcel (Remastered),El Rock de la carcel - Remastered,38,132048,False,0.45,0.739,9,-6.93,0,0.0334,0.762,0.0,0.0358,0.938,95.155,4,rock-n-roll
+1pWnxqaHgd6Ql3zhcVATWd,The Coasters,R'n'B Studying,Shoppin' for Clothes,0,178880,False,0.613,0.229,7,-14.887,0,0.353,0.683,0.0,0.197,0.578,85.854,4,rock-n-roll
+1F1ZP4NEEL7ikqwqBftdIJ,Los Freddy's,Peerless 80 Aniversario - 24 Inolvidables,Déjenme llorar,37,158493,False,0.756,0.473,11,-8.419,1,0.0397,0.607,0.0,0.292,0.896,116.161,4,rock-n-roll
+0XbFXPpX4bafszOVa7fm9q,Jay & The Americans,Christmas time but not Christmas songs 2022,Come A Little Bit Closer,0,168853,False,0.594,0.716,3,-8.429,1,0.043,0.659,0.000914,0.363,0.847,132.31,4,rock-n-roll
+0C4ZlxpVPPTptUOj3REUQ4,Los Freddy's,Idolos Gruperos: 30 Grandes Exitos,Dejenme Llorar,37,158040,False,0.598,0.747,11,-2.497,1,0.0284,0.39,0.0,0.238,0.962,115.464,4,rock-n-roll
+3B0vDiUXETnZDEHssi6D0e,Los Baby's;Edith Márquez,Tributo a,Un Viejo Amor (feat. Edith Márquez),38,161960,False,0.62,0.853,7,-2.76,1,0.0407,0.215,0.0,0.177,0.825,110.009,4,rock-n-roll
+3JneJ4CR6ON6ud0sJJnPLD,Los Baby's;Aleks Syntek,Tributo a,Regresa Ya (feat. Aleks Syntek),38,182360,False,0.645,0.877,0,-2.756,1,0.0358,0.0511,0.0,0.355,0.545,95.013,4,rock-n-roll
+7nvMpVadr2vaZESadQRjCl,The Champs,Wiggle Wobble (50's & 60's Collection of Music),Tequila,0,134533,False,0.699,0.861,10,-9.368,1,0.046,0.0591,0.408,0.0967,0.945,90.291,4,rock-n-roll
+5KnbTBKHh455Ip2FBhGNJt,La Tropa Loca,El Disco de Oro de la Tropa Loca,Una Vieja Canción de Amor,38,234960,False,0.553,0.462,7,-9.259,1,0.0267,0.00807,1.19e-05,0.176,0.65,94.998,3,rock-n-roll
+7545Q9VR0txjH6yJUzo42v,Estela Nuñez,RCA 100 Anos De Musica - Segunda Parte,Aires del Mayab,38,194306,False,0.512,0.346,5,-10.235,1,0.0339,0.576,0.00288,0.268,0.49,98.601,4,rock-n-roll
+0Z2XAYXCv2GPpdAaLXiNo1,Gualberto Castro,20 Grandes Exitos,La Felicidad,37,212466,False,0.538,0.356,4,-13.669,1,0.0392,0.761,1.83e-05,0.103,0.499,133.883,4,rock-n-roll
+7B5kvvWZQ4kVEPIaluqa4A,Alberto Vazquez,Ritmos Juveniles,La Historia de Mi Amor,38,159105,False,0.608,0.45,2,-8.091,1,0.034,0.846,0.0,0.207,0.628,126.862,4,rock-n-roll
+2dIUXClkwYgcYL2m7BInXB,Los Gliders,Éxitos Del Rock,La Llorona Loca,38,138000,False,0.753,0.614,9,-12.382,1,0.0516,0.785,0.000497,0.382,0.963,89.22,4,rock-n-roll
+4bRInNUzu5HHl4Hk4v1El6,Los Tukas,15 Exitos,Nacimos Para Amarnos,37,162533,False,0.369,0.521,2,-8.896,1,0.0477,0.302,5.81e-05,0.31,0.664,184.347,4,rock-n-roll
+5uVUmnrajAJCvsTDDwaufP,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Buen Rock Esta Noche - Good Rockin' Tonight,38,136400,False,0.418,0.857,9,-7.343,1,0.0648,0.187,0.0,0.359,0.925,95.043,4,rock-n-roll
+2CLF3SdDjbsd551XCap4WA,Los Baby's,Sólo para enamorados,Sabotaje,37,187920,False,0.634,0.468,4,-11.862,1,0.0367,0.403,0.0,0.101,0.694,98.899,4,rock-n-roll
+0EecqFzxsr3Fac4C0bDOsu,Johnny Laboriel;Los Rebeldes Del Rock,Homenaje a Johnny Laboriel Con los Rebeldes del Rock,Todo Ha Terminado,37,134608,False,0.649,0.701,7,-5.223,0,0.0389,0.789,0.0,0.499,0.96,136.738,4,rock-n-roll
+1Qn5jElT7XqjvVeJ8pYM2w,Ricky Nelson,Legacy,A Teenager's Romance,54,140773,False,0.51,0.484,10,-6.942,1,0.038,0.784,0.0,0.306,0.683,103.356,3,rock-n-roll
+7JO9xpBP2uwgMMINJkc43y,Elvis Presley,King Creole,Trouble,62,136546,False,0.42,0.371,0,-10.952,1,0.315,0.873,0.0,0.294,0.882,85.539,4,rock-n-roll
+6TXnGAr6DLVYshIrMeP0lZ,Chuck Berry,New Juke Box Hits,Route 66,60,171413,False,0.686,0.692,10,-9.793,1,0.0419,0.902,0.000474,0.104,0.962,79.071,4,rock-n-roll
+7jeOETwLUP84mPQzxlD5nh,The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,Then He Kissed Me,59,158853,False,0.431,0.678,4,-7.945,1,0.0365,0.7,6.37e-06,0.199,0.633,135.919,4,rock-n-roll
+1udKn1oNKYQSQ9OmiIWCMu,The Lovin' Spoonful,Do you Believe In Magic,Do You Believe in Magic?,70,125826,False,0.553,0.738,0,-7.963,1,0.0457,0.213,0.0,0.339,0.759,138.602,4,rock-n-roll
+6oM4ryXpuZmbFfBv2sEe7v,Brian Hyland,Chronology,Sealed With A Kiss,57,162160,False,0.449,0.362,5,-10.38,0,0.0279,0.743,0.0,0.132,0.6,90.822,4,rock-n-roll
+2j8Eun1lSbrkpGSRpYgXOX,Los Freddy's,16 Exitos Vol. 1,Llévate,36,155440,False,0.416,0.547,10,-7.08,1,0.0426,0.616,0.0,0.0428,0.423,85.733,4,rock-n-roll
+5qyq1H5OPMlfuvZQ1wQNo7,Jackie Wilson,Higher And Higher,(Your Love Keeps Lifting Me) Higher & Higher,72,179120,False,0.634,0.677,2,-7.19,1,0.0448,0.318,0.0,0.0902,0.939,95.792,4,rock-n-roll
+15H0RKZY5UfzHBD0mx9zho,Carlos Lico,Se Me Olvidó Que Te Olvidé,Se Me Olvidó Que Te Olvidé,37,188186,False,0.546,0.377,0,-11.67,1,0.0341,0.578,1.66e-05,0.695,0.602,106.89,4,rock-n-roll
+3WLf5aW48LL1FFS4UrdthD,Miguel Angel,El Esqueleto,El Esqueleto,36,165227,False,0.687,0.663,11,-7.044,1,0.0404,0.0526,2.11e-05,0.212,0.94,151.333,4,rock-n-roll
+6r20M5DWYdIoCDmDViBxuz,Roy Orbison,Mystery Girl,You Got It,69,210266,False,0.649,0.618,9,-10.728,1,0.0265,0.596,1.46e-06,0.192,0.667,114.688,4,rock-n-roll
+39lnzOIUCSNaQmgBHoz7rt,Buddy Holly;The Crickets,Buddy Holly,Everyday,65,129120,False,0.747,0.219,3,-12.562,1,0.0371,0.584,2.57e-05,0.107,0.498,135.562,4,rock-n-roll
+2kf42noqJhQn2sexGbmiZR,Los Pasteles Verdes,Historia: Discografía Completa,El Loco,37,201000,False,0.626,0.533,2,-9.162,1,0.0289,0.46,0.000202,0.0568,0.695,110.316,4,rock-n-roll
+4O355ylmQaA6ozipU6jd7G,Los Freddy's,16 Exitos Vol. 1,Amor de los dos,37,193453,False,0.368,0.482,4,-7.827,1,0.0695,0.751,0.0,0.0598,0.631,188.984,3,rock-n-roll
+0aDv6DpPR3LC89RCcPERwc,Los Hnos. Carrión,Aquellos Bellos Recuerdos Volumen 10,Lagrimas De Crystal,35,173653,False,0.758,0.368,5,-9.98,1,0.0515,0.924,0.51,0.282,0.889,129.842,4,rock-n-roll
+3luBu1STG0gHqDNaQ3zRv8,Manolo Muñoz,Éxitos,Angelito,37,132458,False,0.614,0.52,2,-5.9,1,0.0321,0.388,0.0,0.338,0.562,119.4,4,rock-n-roll
+123NMd4vQMKK5C1pSzpI9a,Johnny Laboriel,El Juego De Simón,Algo Tonto,36,157872,False,0.43,0.329,5,-9.264,1,0.0397,0.589,0.0,0.077,0.676,207.31,4,rock-n-roll
+6hObbRRXsy6SCsJVDGFZfE,Palito Ortega,Te Llevo Bajo Mi Piel,Te Llevo Bajo Mi Piel,37,214243,False,0.569,0.504,1,-9.076,1,0.0341,0.456,0.0,0.151,0.621,138.191,4,rock-n-roll
+5pp6yNRRW9797i7lQtKFHk,Los Baby's,Antología...Los Baby's,Con una lágrima en la garganta,36,199106,False,0.719,0.567,1,-8.156,0,0.114,0.344,0.0,0.168,0.632,113.629,4,rock-n-roll
+7xgx60Vd1M8dSCbrmW1u2x,Johnny Rivers,Whisky A Go-Go Revisited (Live),It's Too Late - Live At The Whisky A Go-Go/1967,37,224986,False,0.529,0.626,9,-9.489,1,0.151,0.354,0.0,0.687,0.754,174.316,4,rock-n-roll
+21M1LN4KgNCLdyKOWXh3JV,Mario Pintor,Mi Éxito,Mi Éxito,36,195373,False,0.426,0.525,4,-8.741,1,0.0343,0.273,0.0,0.339,0.496,181.952,4,rock-n-roll
+5Q4fSJe60rKr48BHYAPgwU,Raul Abramzon,20 Secretos De Amor - Raul Abramzon,"Chau, Chau Adiós",36,171173,False,0.57,0.588,7,-9.418,1,0.04,0.445,0.0,0.397,0.755,90.714,4,rock-n-roll
+2bvrg7EQEr5WvhGHmJwnjm,La Tropa Loca,Viajeros en el Tiempo,Fue en un Café,36,187680,False,0.749,0.623,4,-6.789,1,0.0307,0.684,0.0,0.075,0.842,108.053,4,rock-n-roll
+4OC0hyDWe8UI2x7kAYZTCM,Los Pasteles Verdes,Historia: Discografía Completa,Siempre Estarás en Mi,37,149000,False,0.418,0.663,2,-5.258,0,0.0359,0.368,1.59e-06,0.314,0.179,169.99,4,rock-n-roll
+3qgUOxcOSf5Lf6MfUCkThu,Los Apson,Mexican Garage Rock '66,Y la Quiero,36,161013,False,0.57,0.299,1,-11.426,0,0.0287,0.806,0.0,0.0965,0.651,112.3,4,rock-n-roll
+4ksABW03O3kKMwBtidtUCm,Nelson Ned,Antologia (Volumen 2),Me Pasé De La Cuenta,36,263960,False,0.447,0.459,0,-11.148,1,0.0335,0.733,0.0,0.358,0.405,89.675,4,rock-n-roll
+26RuDmS6MxjfY5AjDZvubX,Los Baby's;Yuri,Tributo a,Me Piden (feat. Yuri),36,181680,False,0.602,0.817,4,-3.096,1,0.0348,0.122,0.0,0.11,0.765,110.063,3,rock-n-roll
+5PrasjLcmAf7psojVaQWSr,Mike Laure,Lo Mejor De Mike Laure,Tabaco Mascao,36,159404,False,0.743,0.564,5,-11.227,0,0.0511,0.5,0.00172,0.258,0.962,118.405,4,rock-n-roll
+0qif2VCV19Ewodgwe97sFJ,Grupo Yndio,20 Exitos,La Cancion De Los Dos,37,200359,False,0.604,0.663,5,-7.088,1,0.0256,0.282,0.0,0.0909,0.584,105.418,3,rock-n-roll
+26aQy7fgeQuhJm619Z8lgq,Los Reno,Loco - Vintage Rock en Español,Y Es Por Ti,36,131760,False,0.763,0.569,4,-7.267,1,0.0294,0.671,0.0,0.191,0.947,132.395,4,rock-n-roll
+0jI1SHJ4P9m5T3w4hSy8Kd,Virginia Lopez,Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici,Cariñito Azucarado,36,153253,False,0.49,0.914,0,-5.655,1,0.0622,0.619,0.0,0.533,0.925,133.613,4,rock-n-roll
+1rJOS8FZgCGjwCtm0h8RA4,Enrique Guzman;Los Teen Tops,El Rock de los 60s,Presumida,37,135575,False,0.551,0.475,2,-13.87,1,0.0791,0.987,0.141,0.311,0.966,166.735,4,rock-n-roll
+1jB2iqxlQZcLe2Cd9QOhgQ,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Muñequita (Roly Poly),37,141973,False,0.55,0.534,8,-9.032,1,0.0321,0.335,0.0,0.236,0.944,103.359,4,rock-n-roll
+4j1TNLRmDCTTNlpwhWQzS3,Los Apson,12 Grandes exitos Vol. 2,Sueña dulce nena - Dream Baby -,36,146480,False,0.495,0.571,3,-6.484,1,0.0322,0.615,0.0,0.104,0.927,90.313,4,rock-n-roll
+4jbGgA763QEJeku4ivgT67,Los Tukas,15 Exitos,Mal Pagadora,36,248893,False,0.56,0.569,7,-8.264,1,0.0292,0.37,6.01e-05,0.0748,0.517,95.182,4,rock-n-roll
+6573np2fgNlf5hatUZTRUr,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,El Rock de la Cárcel - Jailhouse Rock,37,132426,False,0.442,0.776,9,-6.727,0,0.0381,0.412,0.0,0.0323,0.925,95.587,4,rock-n-roll
+1dHSeRTyFtGbVnJEdaK2NJ,Los Freddy's,Peerless 80 Aniversario - 24 Inolvidables,Tu inolvidable sonrisa,37,168320,False,0.642,0.432,9,-5.014,0,0.0292,0.452,0.0,0.0581,0.96,103.103,4,rock-n-roll
+0iVmQ2JXeQXCnAJUtqx4zf,Los Pasteles Verdes,Éxitos Eternos,Angelitos Negros,37,201386,False,0.546,0.522,11,-7.764,0,0.0264,0.00291,8.34e-05,0.327,0.266,81.435,4,rock-n-roll
+2vVqZQifzXZY6j3buwnhPC,Gualberto Castro,La Gran Coleccion Del 60 Aniversario CBS - Gualberto Castro,La Felicidad,35,212960,False,0.536,0.468,4,-9.49,1,0.0369,0.461,1.89e-06,0.161,0.461,134.422,4,rock-n-roll
+4Avm8NVambkpMRGNy2BnlS,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,Papeles,36,154506,False,0.317,0.451,2,-9.08,1,0.0296,0.822,0.0,0.377,0.534,104.665,3,rock-n-roll
+1bfsu7i8jSRy1sY5be2Nuh,Los Apson,12 Grandes exitos Vol. 1,Señor Apache - Mister Custer-,36,182613,False,0.703,0.479,9,-7.521,0,0.0495,0.756,0.0,0.139,0.517,111.988,4,rock-n-roll
+58B68xfkvG0dogDZn15FLx,Angelica Maria,RCA 100 Años De Musica,El Amor Es Triste - Love Is Blue,36,142440,False,0.619,0.42,7,-10.822,1,0.0297,0.742,4.78e-06,0.351,0.69,115.904,4,rock-n-roll
+1mXjT9NrWGMeHM4HNNzi2P,Los Tukas,15 Exitos,Ya Me Canse,36,160760,False,0.374,0.567,9,-8.989,1,0.049,0.00515,4.99e-05,0.0505,0.69,191.142,4,rock-n-roll
+68YSWyORaQWhyjraUF95D6,Los Freddy's,Antología. . . Los Freddy's,Tu inolvidable sonrisa - Con banda,37,166813,False,0.638,0.349,9,-8.247,0,0.0301,0.457,0.0,0.0668,0.94,103.081,4,rock-n-roll
+43U2V485Fo9G5LQm2hrRXl,Los Churumbeles De España,Los Churumbeles,La Boda De Luis Alonso,36,198533,False,0.536,0.575,4,-5.775,1,0.0463,0.778,0.513,0.198,0.882,121.742,3,rock-n-roll
+3aRfIEkRcpOun80SfQhi3o,Los Solitarios,Antología. . . Los Solitarios,No llores corazón,36,175146,False,0.384,0.542,0,-9.158,1,0.0304,0.706,0.0155,0.329,0.398,85.487,4,rock-n-roll
+3c7IzA9guoQQTeciBaCzAF,Los Brios,30 Anos De Exitos,Silueta De Cristal,37,221066,False,0.585,0.532,9,-7.6,1,0.0272,0.116,0.0,0.0998,0.561,147.747,4,rock-n-roll
+3nS9QzPMWIbqUbGvIrA0I8,Estela Nuñez,RCA 100 Anos De Musica - Segunda Parte,Por Amores Como Tú,36,260173,False,0.31,0.38,7,-12.09,1,0.0405,0.809,0.0024,0.432,0.292,145.58,4,rock-n-roll
+5tyClIAs0JWrlX93jzq9Ea,Marco Antonio Muñiz,Coleccion Original,Celoso (Jealous Heart),37,163173,False,0.588,0.469,2,-7.401,1,0.0244,0.806,6.95e-06,0.146,0.642,97.349,4,rock-n-roll
+1QhmVhpCWt5HpSplRUxdlv,Estela Nuñez,Lo Esencial de Estela Nuñez,Nuestro Amor Es el Más Bello del Mundo,37,195693,False,0.748,0.582,4,-9.801,1,0.0548,0.609,0.000129,0.124,0.917,127.506,4,rock-n-roll
+0I4yYE831a8SW8QIx6bz4x,Tommy James & The Shondells,Anthology,Crimson & Clover,58,209640,False,0.408,0.692,11,-9.478,1,0.0685,0.235,0.0255,0.197,0.684,82.499,4,rock-n-roll
+1ZfbMOw5VSh5Qqr8hgLCkJ,Cliff Richard,40 Golden Greats,Congratulations,44,151800,False,0.478,0.681,4,-5.2,1,0.0291,0.133,0.0,0.0748,0.962,92.898,4,rock-n-roll
+5ueyLj6e6oVaTY0KQ6yLaA,Elvis Presley,Elvis' Golden Records,All Shook Up,62,117080,False,0.624,0.468,10,-12.162,1,0.132,0.881,6.35e-06,0.144,0.952,74.139,4,rock-n-roll
+542C7PqR1oEfl63hlhQO4V,Charlie Rich,Behind Closed Doors,The Most Beautiful Girl,60,161906,False,0.576,0.318,7,-14.366,1,0.0286,0.661,7.47e-06,0.167,0.41,103.493,4,rock-n-roll
+1iUgrte2PxLxQ6Te95RnAV,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Heartbreak Hotel,63,127960,False,0.695,0.295,9,-8.672,1,0.0609,0.843,1.58e-06,0.0856,0.732,93.574,4,rock-n-roll
+0j5u1HPcFQxKDJQ89zwOFn,Elvis Presley,I Got Lucky,I Got Lucky,57,115720,False,0.731,0.386,0,-12.331,1,0.0444,0.838,0.0,0.195,0.962,92.867,4,rock-n-roll
+4l9rJRwlaMnPYD5DJtIIFo,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Hound Dog,63,133293,False,0.343,0.884,5,-4.123,0,0.128,0.623,0.000623,0.497,0.94,177.751,4,rock-n-roll
+0VYhyWRfiiJQ5WRm3EOczU,The New Seekers,The Albums 1970-73,I'd Like To Teach The World To Sing (In Perfect Harmony),57,142533,False,0.507,0.478,11,-10.726,1,0.0308,0.712,0.0,0.182,0.885,134.603,4,rock-n-roll
+2iXcvnD3d1gfLBum0cE5Eg,Little Richard,Here's Little Richard (Deluxe Edition),Tutti Frutti,65,144226,False,0.555,0.658,5,-3.866,1,0.0541,0.793,0.0,0.118,0.937,184.835,4,rock-n-roll
+5UvE5QlINnvEc7aFO14DVL,Jerry Lee Lewis,The Golden Rock Hits Of Jerry Lee Lewis,Great Balls Of Fire - 1964 Version,58,109706,False,0.4,0.818,0,-11.238,1,0.08,0.458,3.25e-06,0.132,0.936,166.287,4,rock-n-roll
+5MA2Oc7KhWjIe5bGKWX8Up,Johnny Dynamo,Sonidos del Ayer,Colina Azul,35,151946,False,0.478,0.429,4,-10.607,1,0.0348,0.45,0.0,0.114,0.681,141.499,3,rock-n-roll
+5LNIT1cjnkIkPpZZIUQnCf,Los Freneticos Del Ritmo,Ritmo Frenético,Nena Baila Twist,35,129793,False,0.499,0.918,0,-5.84,1,0.036,0.751,0.0,0.176,0.858,172.382,4,rock-n-roll
+5jMzj2GJScTQKVd4pc4K01,Los Cuatro Soles,Inolvidables,Nunca Mas Podre Olvidarte,35,157701,False,0.627,0.42,4,-12.579,1,0.031,0.449,1.54e-06,0.0983,0.399,93.086,4,rock-n-roll
+2XKKLp6frHpBqZfeny0r1u,Marco Antonio Muñiz,La Serenata Del Siglo,Morenita Mía,35,176266,False,0.447,0.0882,9,-17.159,1,0.0403,0.965,7.74e-06,0.136,0.506,103.123,4,rock-n-roll
+2032cX8idLlbG5T0uCm422,Nelson Ned,El Romântico De América,Perfume de Gardênia,36,179906,False,0.576,0.368,2,-12.249,0,0.0283,0.54,9.23e-06,0.357,0.636,103.346,4,rock-n-roll
+6yLIqXX9edg1x0HZS7cZEv,The Hollies,Hollies,The Air That I Breathe - 2008 Remaster,66,257106,False,0.279,0.473,4,-8.375,0,0.0309,0.242,0.00164,0.158,0.246,167.792,4,rock-n-roll
+4FZVuDD8qDkAv4peFCNxmA,Jorge Muñiz;Ana Cirré,Serenata,Vuélveme A Querer,35,222212,False,0.509,0.521,0,-5.601,1,0.0397,0.731,0.0,0.071,0.663,171.95,4,rock-n-roll
+5I6mkJFLmnFZbZRafV1KWV,Jorge Muñiz,Azulejos 2,No Te Apartes De Mí,36,225240,False,0.809,0.538,5,-9.612,1,0.0316,0.768,6.21e-05,0.883,0.777,121.894,4,rock-n-roll
+08U1KWevchrVHDNkQV2iO7,Los Locos Del Ritmo,Rock Con los Locos del Ritmo,Yo No Soy Rebelde,35,80764,False,0.677,0.716,0,-8.777,0,0.145,0.899,0.00684,0.0836,0.945,108.955,4,rock-n-roll
+5iH9T60XDWhYNY8Jhv7stk,Los Pasteles Verdes,Canta Aldo,Alguien Cantó,36,234200,False,0.744,0.606,7,-5.729,0,0.03,0.0545,0.0,0.11,0.636,112.549,3,rock-n-roll
+3LY1pVyw2OsetNBvoVtHQj,Los Freddy's,Sonidos del Amor (Vol. 1),Sin tu amor (The Way It Used to Be),35,192440,False,0.552,0.5,8,-6.997,1,0.0272,0.695,0.0,0.296,0.608,98.434,3,rock-n-roll
+0U4zXyEAEXVF0KBH1aa2wo,Alberto Vazquez,Cosas de Alberto Vázquez,Cosas,36,191373,False,0.544,0.467,7,-12.231,1,0.0285,0.161,9.32e-06,0.147,0.944,178.145,4,rock-n-roll
+4d82n6rQPwKAku8DgDPCQl,Los Apson,Peerless 80 Aniversario - 24 Exitos Vol. 1,No hay amor,35,153026,False,0.651,0.339,2,-9.859,1,0.0286,0.611,5.77e-06,0.0762,0.78,104.965,4,rock-n-roll
+1LwsT07U5Pg78Esix68Yb4,Roberto Jordan,Roberto Jordán,1 2 3 Detente,35,134661,False,0.671,0.617,11,-11.625,1,0.0369,0.788,0.00109,0.169,0.926,127.344,4,rock-n-roll
+3IG42B2BsY0NInVNPbmhtK,Los Solitarios,Colección De Oro,Nuestro Error,35,168019,False,0.37,0.597,0,-6.769,1,0.0318,0.352,0.0,0.167,0.713,92.355,4,rock-n-roll
+1FwS7vySd21oOaRblIDQXm,Elio Roca,Contigo y Aquí,"Te Necesito Tanto, Amor",35,177680,False,0.532,0.228,9,-12.455,1,0.0387,0.936,0.000343,0.17,0.538,78.217,4,rock-n-roll
+1kwc6ggb5M9EsyBKb0z0CU,Los Crazy Boys,Rock & Roll,Leroy,35,143480,False,0.472,0.554,0,-10.442,1,0.157,0.903,5.09e-05,0.0865,0.652,202.752,4,rock-n-roll
+19MyioXhZPhtYVBfScNVij,Sergio Esquivel,Sergio Esquivel y Su Trova Yucateca,Desdeñosa,35,150066,False,0.724,0.233,3,-16.395,1,0.0354,0.897,2.2e-05,0.167,0.757,121.985,4,rock-n-roll
+6ewVJvtHgE43wbpKyGD2Ec,Mike Laure,15 Éxitos,El Conductor,35,169772,False,0.771,0.627,9,-8.009,0,0.0849,0.614,0.0,0.0269,0.97,96.277,4,rock-n-roll
+1BgibK7Ciwfx8fHatWTPf5,Mike Laure,Lo Mejor De Mike Laure,Amor En Chapala,35,151324,False,0.666,0.551,10,-6.514,1,0.0302,0.534,0.0,0.386,0.874,115.857,4,rock-n-roll
+2z2a6v6pqtB3rI2oKbNWkD,Los Teen Tops,Los Teen Tops De Su Epoca De Oro,Anoche No Dormí,36,143053,False,0.531,0.405,7,-11.003,1,0.0294,0.353,0.0,0.349,0.431,106.35,3,rock-n-roll
+7bj7YpHTPRjeBc6vVtd2Oo,Los Xochimilcas,Antología...Los Xochimilcas,Pulque para dos,35,192293,False,0.766,0.582,10,-4.691,1,0.0383,0.655,0.228,0.0649,0.95,123.808,4,rock-n-roll
+70dBmROatI6VWV7HoWayte,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Popotitos (Bonie Moroni),36,171733,False,0.533,0.624,4,-10.47,1,0.0297,0.71,2.96e-06,0.146,0.888,140.626,4,rock-n-roll
+1tYoZkGPkvHW9XmmweBd27,Los Blue Caps,Buen Rock Esta Noche,Vuelve Primavera,35,150013,False,0.522,0.566,4,-12.224,1,0.0341,0.571,0.000775,0.248,0.893,91.042,4,rock-n-roll
+4QeqV5lymMKs4OeeZPdk0K,Bobby Goldsboro,Sweet Home Alabama,My God And I,0,176013,False,0.429,0.464,9,-11.558,1,0.0314,0.577,0.0455,0.369,0.503,88.858,4,rock-n-roll
+0apq2ENNMlYg9Os1osfJ3Y,The Cascades,"Music To Park By ""20 Great Romantic Hits""",Rhythm Of The Rain,0,149160,False,0.761,0.561,4,-12.306,1,0.0354,0.129,7.71e-06,0.0833,0.966,117.483,4,rock-n-roll
+4vI35LUtIpj5bRrExUjaD6,Bobby Goldsboro,Fiesta temática 60s,By The Time I Get To Phoenix,0,166160,False,0.368,0.369,4,-10.908,0,0.027,0.47,0.000418,0.11,0.285,87.537,4,rock-n-roll
+0B1bBGgMpZhwOToqgQ5D4b,Mike Laure,15 Éxitos,El Solterito (Diez Años),35,131866,False,0.725,0.74,2,-4.637,1,0.0742,0.373,0.0,0.0644,0.961,91.997,4,rock-n-roll
+4l1APBZCbhhaAmSBZ23neL,Los Freddy's,Antología. . . Los Freddy's,Llegará tu final,35,153626,False,0.664,0.385,5,-11.153,1,0.0283,0.334,0.0155,0.214,0.718,99.066,3,rock-n-roll
+38RDIxRTSMSfU3IIQJpeq9,Los Solitarios,Imágenes III,He venido a despedirme,35,165666,False,0.238,0.276,2,-11.992,1,0.03,0.135,0.0,0.0922,0.387,158.711,3,rock-n-roll
+2KvqNMwgzwyteJPkbQIBJ9,Bobby Goldsboro,Best 70s Rock Tunes,My God And I,0,176013,False,0.429,0.464,9,-11.558,1,0.0314,0.577,0.0455,0.369,0.503,88.858,4,rock-n-roll
+5JS4ajwMamIZ7NWBEaGIIy,Bobby Goldsboro,Best 70s Rock Tunes,My God And I,0,176013,False,0.429,0.464,9,-11.558,1,0.0314,0.577,0.0455,0.369,0.503,88.858,4,rock-n-roll
+2k4EmAD8cDKVkwE3jTOLt1,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,Acéptame Como Soy,36,235533,False,0.685,0.563,9,-10.977,1,0.0535,0.573,0.0,0.0664,0.761,144.043,4,rock-n-roll
+1pbeuLjBg7Wm4xNOo42mae,Palito Ortega,Idolos de Argentina,Vesida de Novia,36,189361,False,0.391,0.286,9,-9.856,0,0.0398,0.886,0.0,0.101,0.186,76.503,3,rock-n-roll
+0oLdHGk4fPMd4TBXMTKEed,The Chiffons,(60's) Sixties Collected Volume 2,He's So Fine - Remastered 2000,0,112520,False,0.558,0.633,7,-3.265,1,0.0329,0.487,0.0,0.129,0.871,72.494,4,rock-n-roll
+5HSGz9SvZKWQswYt0sDkdO,Grupo Yndio,20 Exitos,Dame Un Beso Y Dime Adios (Kiss Me And Say Goodbye),35,279196,False,0.306,0.748,9,-5.419,1,0.0397,0.24,2.3e-05,0.151,0.489,61.737,4,rock-n-roll
+0uGTUhUrqGx9LYkkiLUXE4,Los Brios,Ayer y Hoy,Te Acordaras de Mí,36,228205,False,0.602,0.564,9,-11.127,1,0.0332,0.0586,0.0,0.151,0.725,97.978,4,rock-n-roll
+4jf5TDiRdjJVDUiwQ4BteV,Estela Nuñez,Lo Esencial de Estela Nuñez,La Malagueña,35,252080,False,0.448,0.327,9,-9.207,0,0.0295,0.777,5.75e-06,0.203,0.372,95.974,3,rock-n-roll
+6zf9PV7ucar5vSAvb5Ft5B,Estela Nuñez,Lo Esencial de Estela Nuñez,Ódiame (Te Lo Ruego),35,211666,False,0.509,0.443,9,-7.949,0,0.036,0.702,0.000116,0.0881,0.551,139.518,3,rock-n-roll
+2i1QhEEZB4nLdWrE5KGso7,Los Chicanos,20 Exitos de los Chicanos,Puente de Piedra,35,218093,False,0.512,0.269,7,-17.237,1,0.0323,0.608,0.0,0.169,0.519,99.842,4,rock-n-roll
+5KG2ahk1cONbHvg3dBdTbx,Bobby Vinton,The Best Of Bobby Vinton,Mr. Lonely,54,161373,False,0.245,0.293,4,-10.361,1,0.0303,0.817,0.0,0.177,0.344,168.984,3,rock-n-roll
+507IFqPuG8mBQoKebfGG9t,Little Richard,Here's Little Richard (Deluxe Edition),Long Tall Sally (The Thing),64,127426,False,0.474,0.608,5,-5.139,1,0.0825,0.755,0.0,0.0928,0.888,184.694,4,rock-n-roll
+1YPxUP9zcrvDQpX3ZCjKan,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),Love Me Tender,56,162066,False,0.454,0.0529,9,-16.253,1,0.039,0.879,0.0,0.106,0.315,112.101,3,rock-n-roll
+4dZIosXCsTzpIXs6tX85Ld,Shakin' Stevens,Give Me Your Heart Tonight,Give Me Your Heart Tonight,50,184640,False,0.66,0.705,7,-4.225,1,0.0269,0.276,4.23e-05,0.077,0.817,128.33,4,rock-n-roll
+6AeyHqzNHJthYJbn0tvJ4b,The Righteous Brothers,You've Lost That Lovin' Feelin',You've Lost That Lovin' Feelin' - Single Version,63,226453,False,0.369,0.305,1,-14.303,1,0.0267,0.522,0.0,0.0579,0.376,94.791,4,rock-n-roll
+3lWuagNhAzcqOikD5KnBku,The Everly Brothers,The Golden Hits of The Everly Brothers,Crying in the Rain,58,120306,False,0.61,0.379,2,-9.381,1,0.0278,0.622,0.0,0.144,0.48,97.166,4,rock-n-roll
+5Q7ayTarb9Tpmkik5cVMug,Elvis Presley,"Elvis' Gold Records, Vol. 4",Viva Las Vegas,64,144840,False,0.608,0.567,7,-11.297,1,0.0445,0.819,0.0,0.344,0.861,144.034,4,rock-n-roll
+26bc0h5bngOkWEv5944ZEA,Regina Alcover,Serie de Colección de la Nueva Ola en el Perú,"Yo,Tú y las Rosas",34,144133,False,0.241,0.507,10,-4.523,1,0.0289,0.649,0.0201,0.477,0.499,95.068,4,rock-n-roll
+0u5sJJNGHZUvckdMe96TkA,Cliff Richard & The Drifters,Cliff: Cliff Sings,Move It - Live; 1998 Remaster,33,138133,False,0.487,0.92,9,-6.139,0,0.109,0.0373,0.0813,0.926,0.661,96.828,4,rock-n-roll
+5nP6bZZpeT9hbtvePmy9ko,Elvis Presley,Moody Blue,Moody Blue,62,169320,False,0.643,0.729,0,-10.231,1,0.0297,0.674,7.99e-06,0.173,0.963,135.29,4,rock-n-roll
+65jrjEhWfAvysKfnojk1i0,The Drifters,Under the Boardwalk,Under the Boardwalk,68,161960,False,0.747,0.226,7,-13.635,1,0.0414,0.908,0.000168,0.107,0.778,123.792,4,rock-n-roll
+3gHDVQatKa5upJZT1zYPIc,Carlos Lico,Vete de Aquí,Vete De Aquí,35,224049,False,0.439,0.419,2,-8.717,1,0.0327,0.772,0.0,0.529,0.66,78.086,4,rock-n-roll
+3QhLwMZzScNE9NjB9R3qC7,Gene Vincent & His Blue Caps,Dance To The Bop,Crazy Legs,34,130440,False,0.468,0.622,2,-10.179,1,0.0382,0.516,0.0,0.318,0.776,169.614,4,rock-n-roll
+3BmbN6TbVL1Y5fJcUWXV64,Bruce Channel,Wild West Cowboys,Baby You've Got What It Takes,0,132026,False,0.546,0.548,2,-6.196,1,0.0327,0.831,1.19e-06,0.3,0.724,130.881,4,rock-n-roll
+0rMBAlhS6GMaeOauCk1aeP,Nelson Ned;Tropkillaz;Hot;Oreia,Crianças Selvagens,Domingo,35,213866,False,0.656,0.786,1,-5.02,0,0.306,0.458,0.00246,0.212,0.642,180.115,4,rock-n-roll
+5xR3X7BdIlZyjsz1YM5qGv,Carlos Lico,40 Éxitos,Tú Qué Me Das,35,171106,False,0.499,0.503,5,-10.227,0,0.0465,0.376,0.0,0.0887,0.883,109.024,4,rock-n-roll
+391TUcoPonqYykPkSZ5Z9U,The Drifters,Save the Last Dance for Me,Save the Last Dance for Me,63,154960,False,0.54,0.53,4,-10.583,1,0.0361,0.614,0.0,0.198,0.896,143.453,4,rock-n-roll
+5hBI68juwgVWKLrf6xOP8O,Owe Thörnqvist,14 x Owe Thörnqvist,Dagny,35,158066,False,0.693,0.705,7,-6.283,1,0.0352,0.407,0.0,0.108,0.904,100.367,4,rock-n-roll
+71QuiEHtO9Wkbf9fS1w8Gl,Enrique Guzman,"Enrique Guzmán, Sus Mejores Éxitos",Lo Sé,35,154746,False,0.716,0.225,7,-17.716,0,0.0535,0.932,0.0353,0.109,0.734,101.014,4,rock-n-roll
+3NSoccXNlR0igm0a2Igxy3,Angelica Maria,15 Éxitos,Con Un Beso Pequeñisimo,34,141572,False,0.581,0.526,10,-4.561,1,0.0759,0.395,0.0,0.524,0.735,140.24,4,rock-n-roll
+36HTZiVsdjSCx7X3IZWcis,Los Apson,12 Grandes exitos Vol. 1,El cartero,34,158013,False,0.504,0.759,4,-6.959,1,0.0834,0.397,4.9e-06,0.546,0.639,148.644,4,rock-n-roll
+6wQBqxOwJd6e2csv5y2qjF,Los Apson,12 Grandes exitos Vol. 2,Atras de la Raya,34,164093,False,0.617,0.791,5,-6.875,1,0.0849,0.482,0.0,0.447,0.938,91.555,4,rock-n-roll
+28G6JupBc72vynIwSIaSeR,Los Dinner's,15 Grandes Exitos,La Virgen De La Soledad,34,144786,False,0.682,0.73,10,-6.427,1,0.0457,0.056,0.0,0.118,0.785,81.666,4,rock-n-roll
+2qyR5laTCFag7vYR484x3v,Los Apson,Peerless 80 Aniversario - 24 Exitos Vol. 2,Señor Apache - Mister Custer-,34,182613,False,0.703,0.478,9,-7.546,0,0.05,0.755,0.0,0.139,0.535,111.988,4,rock-n-roll
+0RH979Lsta4yCR6AXG0P5b,Rockfolket,Tredje Repetitionen,Huvudstabadet,34,168000,False,0.563,0.801,4,-5.888,1,0.0582,0.013,0.0,0.0557,0.935,146.203,4,rock-n-roll
+6xMaSiMUGZCpkAKXXYSOXa,Jorge Muñiz,Azulejos 2,Culpable O No,35,249240,False,0.553,0.442,5,-8.506,0,0.0292,0.811,0.0,0.682,0.324,140.057,4,rock-n-roll
+12UVKpqsgfCcMlrAjyQVpY,Virginia Lopez;Fernando Fernandez;Lupita Palomera,Vereda Tropical,Vereda Tropical,34,225426,False,0.693,0.368,9,-13.225,1,0.0266,0.204,1.27e-05,0.139,0.81,107.559,4,rock-n-roll
+5kstxhvKTpuO3A8PYmYeKV,Los Hooligans,La Onda Juvenil 25 Aniversario,Agujetas de Color de Rosa (Pink Shoe Laces),34,133573,False,0.542,0.561,4,-11.493,1,0.0397,0.75,0.0,0.346,0.761,142.925,4,rock-n-roll
+59V9ZorlWoxEM6bUAqqtnx,Los Locos Del Ritmo,Pólvora,Avientense Todos,34,126693,False,0.57,0.598,0,-8.716,1,0.0417,0.818,0.0,0.102,0.925,172.983,4,rock-n-roll
+5M39ClRYJKRB2vJBFLf904,Los Apson,12 Grandes exitos Vol. 2,Fuiste a Acapulco,34,169200,False,0.645,0.705,0,-6.79,1,0.0417,0.817,0.0,0.0978,0.98,86.246,4,rock-n-roll
+641Q5Vrvc3j61g0Q7eBlVN,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,Así Que Adiós,35,173373,False,0.422,0.486,9,-7.8,1,0.0311,0.736,0.0,0.0536,0.623,119.897,3,rock-n-roll
+3781HPYTXtsBlZp3hdKclI,Los Polifaceticos,Puros Exitos,Bailemos Solamente Una Ves Mas,34,163631,False,0.28,0.62,5,-7.095,0,0.0592,0.258,0.0,0.117,0.592,171.19,4,rock-n-roll
+2qNIKwChg2Nznq2u1WhZVF,Manolo Muñoz,Los Éxitos de Manolo Muñoz,En Un Rincón Del Alma,34,187594,False,0.341,0.416,11,-6.429,0,0.0374,0.746,0.0,0.313,0.396,93.473,4,rock-n-roll
+0ww38cWFekEKR9gq5iIuAQ,Los Tukas,10 de Colección,Albricias,34,172160,False,0.589,0.461,9,-6.494,1,0.0245,0.803,0.0,0.124,0.582,91.883,4,rock-n-roll
+7EJ98pT3b8tE96Eolngl9P,Mike Laure,Lo Mejor De Mike Laure,Grande De Caderas,34,150616,False,0.733,0.34,7,-11.752,1,0.0653,0.545,0.0,0.0678,0.777,108.747,4,rock-n-roll
+27f0LCPusz3No9X3NIc8P9,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Ju Ju Julia,34,136800,False,0.516,0.328,0,-12.08,1,0.047,0.814,0.0,0.232,0.766,142.65,4,rock-n-roll
+67M9c4yhQD9WylCSCfhv1i,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,Oye (Hey There),35,141333,False,0.252,0.406,5,-10.179,1,0.0345,0.606,0.0,0.259,0.582,124.419,4,rock-n-roll
+0IgOpNUZUewUakkBGzRCQV,Los Baby's,Tributo a,Negrura,34,183320,False,0.703,0.838,0,-2.228,1,0.0292,0.14,0.0,0.299,0.817,119.079,4,rock-n-roll
+67ydXgXptZ0LgZrlUe66J1,Enrique Guzman;Juan Gabriel,Se Habla Español,Uno De Tantos,35,256586,False,0.535,0.472,4,-6.943,0,0.0286,0.358,0.000477,0.325,0.272,139.861,4,rock-n-roll
+5zFjvUEEQEU1H5oZWeuA9C,Angelica Maria,Exitos del Rock & Roll,Eddy Eddy,34,151745,False,0.516,0.773,2,-9.241,1,0.285,0.712,0.0,0.364,0.963,151.149,4,rock-n-roll
+49mrUgNUqZvCyDpcjO3XWb,The Marcels,Anthology: The Deluxe Collection (Remastered),Blue Moon - Remastered,35,133178,False,0.575,0.465,7,-8.745,1,0.0361,0.275,0.0,0.12,0.872,127.672,4,rock-n-roll
+6NgqDV3AFkXJWGFArVUQ9A,Brian Hyland,Christmas time but not Christmas songs 2022,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini - Single Version,0,143733,False,0.814,0.427,2,-11.543,1,0.0918,0.558,0.0,0.0248,0.964,123.109,4,rock-n-roll
+3RpwMvVrgwqHLh7RsoDEtw,Los Churumbeles De España,Los Churumbeles,Cariño Verdad,34,201200,False,0.329,0.299,2,-8.488,1,0.0342,0.293,0.0,0.402,0.53,120.673,4,rock-n-roll
+4ds0qnq5u3YjmQi1BhpgXG,Manolo Muñoz,El Inigualable,Un Millonario Más,35,119188,False,0.69,0.531,7,-7.409,1,0.161,0.565,0.0,0.147,0.888,79.484,4,rock-n-roll
+0BTaEgx1cjgOgYR0MjhYaO,Jorge Muñiz;Maria Del Sol,Sucesos Musicales (with María del Sol),No Prometas Lo Que No Será (with María del Sol),35,219826,False,0.466,0.243,4,-12.283,1,0.0298,0.737,0.0,0.121,0.213,109.618,4,rock-n-roll
+406t2Laod6hulo7BTncdHb,Los Baby's;Beto Zapata,Tributo a,Recuerdos (feat. Beto Zapata),34,182333,False,0.455,0.757,3,-3.283,1,0.0369,0.201,0.0,0.0892,0.804,155.527,4,rock-n-roll
+7alk40S5XfaIBzoMYAszV3,Marco Antonio Muñiz,Lo Mejor De Lo Mejor De Marco Antonio Muniz,Luz y Sombra,34,163026,False,0.57,0.226,7,-12.512,1,0.0356,0.887,0.000228,0.0973,0.544,100.959,4,rock-n-roll
+1G361ryM99zEbcnA55b4Q1,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,Las Hojas Muertas,34,217520,False,0.208,0.459,7,-5.928,0,0.0312,0.642,1.48e-06,0.414,0.232,80.359,4,rock-n-roll
+2FYdec3yREDp9gIoaWMOxn,Los Juniors,Loco - Vintage Rock en Español,Tequila Con Limón,34,157400,False,0.686,0.727,4,-8.201,1,0.285,0.761,0.0,0.292,0.873,149.814,4,rock-n-roll
+7zmPsoHcthoaniuGP80vgG,Los Baby's,Sólo para enamorados,Con los recuerdos al hombro,34,200400,False,0.651,0.518,0,-11.243,1,0.0402,0.462,0.0,0.391,0.516,113.086,4,rock-n-roll
+6bnFjTW3EnMG4BwreDnSHK,The Fleetwoods,Come Softly To Me: The Very Best Of The Fleetwoods,Mr. Blue,56,145133,False,0.374,0.0889,4,-17.475,1,0.0356,0.931,6.88e-06,0.111,0.211,96.677,4,rock-n-roll
+2IfE8FhnPPEBSS4rL1qhBb,Elvis Presley,Elvis 30 #1 Hits,Heartbreak Hotel,56,127960,False,0.694,0.295,9,-8.672,1,0.0611,0.843,1.42e-06,0.0856,0.729,93.577,4,rock-n-roll
+4xUqqie4bBKufHtlMuZS3k,Elvis Presley,Platinum - A Life In Music,Are You Lonesome Tonight?,56,186666,False,0.433,0.0748,0,-19.351,1,0.049,0.92,0.00104,0.105,0.193,73.093,3,rock-n-roll
+1MUsWVRPLaC7ANKcEiMRCl,Elvis Presley,Platinum - A Life In Music,Don't Be Cruel,61,121960,False,0.678,0.494,2,-12.941,1,0.17,0.78,0.0,0.0737,0.803,84.398,4,rock-n-roll
+2Qhvi6R73Zj3cpzRYzcAww,Bobby Goldsboro,Honey,Honey,60,238733,False,0.399,0.278,7,-13.122,1,0.0291,0.674,0.000694,0.203,0.597,93.189,4,rock-n-roll
+1EIvjDvoKjwhokJsigvleb,Elvis Presley;Royal Philharmonic Orchestra,The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra,Always on My Mind - with The Royal Philharmonic Orchestra,56,217746,False,0.29,0.593,7,-7.971,1,0.039,0.563,0.0235,0.127,0.275,89.521,4,rock-n-roll
+44fIc4zJWyRvmwCsUWdrWh,New Bomb Turks,Scared Straight,Jukebox Lean,35,156200,False,0.361,0.972,2,-4.892,1,0.127,0.0011,0.000626,0.132,0.403,111.82,4,rock-n-roll
+10nn8Uztc2Ay2EIVxGQRlu,Los Freddy's,16 Exitos Vol. 1,Mi Mundo,33,195800,False,0.483,0.336,6,-9.261,1,0.0327,0.329,0.0,0.0757,0.604,68.387,4,rock-n-roll
+7oggOq7kvGjZ3YgBlPV0Iy,Los Camisas Negras,El Tigre,Zapatos De Ante Azul,33,107972,False,0.515,0.877,7,-2.971,1,0.0492,0.769,1.82e-06,0.0937,0.764,93.678,4,rock-n-roll
+0pjXBnxlZahInIY2HG6qjE,Los Moonlights,15 De Los Moonlights,Rosa María,33,191226,False,0.768,0.575,9,-12.8,1,0.087,0.0958,0.0,0.211,0.914,96.79,4,rock-n-roll
+4pbh5svubqJpoiQ2ro1Ya2,Rafael Vázquez;Rondalla Mexicana Del Chato Franco,Que Seas Feliz,El Candado,33,161750,False,0.635,0.332,0,-8.604,1,0.0273,0.79,2.05e-05,0.577,0.737,102.258,4,rock-n-roll
+40wnykXpvCLFm6ec2hXnOt,Los Pasteles Verdes,Historia: Discografía Completa,Hipocresía,34,257000,False,0.396,0.622,2,-5.881,1,0.0377,0.502,3.07e-06,0.261,0.536,139.518,4,rock-n-roll
+2XTBQyBapzuWbx3ZByfOrn,Dale Hawkins,Presenting Dale Hawkins (65th Anniversary Edition),Susie-Q,33,133373,False,0.475,0.603,9,-7.989,1,0.0421,0.486,0.0001,0.249,0.848,141.751,4,rock-n-roll
+4rH42B3pxT584eVEGLOM9Y,Angelica Maria,Amame,Dile Adiós,33,125712,False,0.58,0.462,0,-6.221,1,0.0269,0.612,0.0,0.118,0.653,130.226,4,rock-n-roll
+6Wy4wYiZtpb3Cpqf8Nul1b,Los Reno,El Ultimo Beso,Reflexiona,33,130266,False,0.664,0.678,8,-5.369,1,0.0291,0.877,0.0,0.273,0.955,112.384,4,rock-n-roll
+1vVSxxOANVXYFXt5oNpJ8I,Roberto Jordan,Para Que No Me Olvides,Amor de Estudiantes,34,123715,False,0.656,0.55,1,-9.179,1,0.0268,0.0903,1.24e-05,0.0766,0.563,111.018,3,rock-n-roll
+48StZXZu1nwLSV4Qxa6ZS8,Los Baby's,Peerless 80 Aniversario - 24 Boleros,Te vengo a decir adiós,33,161786,False,0.673,0.481,4,-8.045,1,0.0338,0.598,0.0,0.211,0.91,117.735,4,rock-n-roll
+1FuZ8H0Ts3799ZNVN5ZcSZ,Billy Fury,A Thousand Stars,It's Only Make Believe,34,146706,False,0.419,0.382,9,-13.438,1,0.0322,0.32,0.0,0.106,0.462,84.185,4,rock-n-roll
+0rVnpRpBuMisTsleTfccD4,Los Baby's,20 Éxitos de Oro,Me Piden,33,166440,False,0.647,0.432,3,-11.805,1,0.0314,0.304,0.0,0.558,0.444,105.435,3,rock-n-roll
+2vCgTM0b01C0xTKgFi1VBm,Los Pasteles Verdes,Los 20 Grandes Éxitos,Besame Mucho,35,147133,False,0.471,0.373,7,-10.311,0,0.0277,0.537,0.0,0.233,0.566,110.38,4,rock-n-roll
+0VexJnnOkihunQtGSyPt3Y,Johnny Laboriel;Los Rebeldes Del Rock,La Hiedra Venenosa,Dulces Tonterias,33,138631,False,0.747,0.57,5,-7.776,1,0.0296,0.844,1.53e-06,0.076,0.906,127.249,4,rock-n-roll
+5jkqw7DBUxKnLf432tdI7j,Marco Antonio Muñiz,La Serenata Del Siglo,Perdón,34,160466,False,0.488,0.322,0,-11.514,0,0.0318,0.899,1.16e-06,0.314,0.598,113.367,4,rock-n-roll
+2cXLVbDnvEETHE0hJJIENa,Johnny Laboriel;Johnny Laboriel / Los Rebeldes Del Rock,Historia Musical de Mis Exitos,La Chica del Calendelario,33,148584,False,0.584,0.709,0,-9.442,1,0.0354,0.769,0.0,0.303,0.787,134.019,4,rock-n-roll
+0ygvZpFhwpSoQl8mw5d4jg,Gene Vincent & His Blue Caps,Dance To The Bop,Say Mama,33,131960,False,0.484,0.84,9,-9.832,1,0.0401,0.398,0.0,0.349,0.964,156.167,4,rock-n-roll
+2q3kT5fOhkV6FQ2RyVQkCP,Alberto Vazquez,Cosas de Alberto Vázquez,El Último Beso,34,192933,False,0.639,0.441,0,-10.665,1,0.0272,0.35,0.0,0.509,0.663,120.396,4,rock-n-roll
+1yeGawrdY1KquDyotx6bAy,Paco Cañedo,Paco Cañedo,Cuándo Volverás (Ginny Come Lately),33,163173,False,0.54,0.0794,9,-23.746,1,0.031,0.564,0.0,0.0436,0.601,99.866,4,rock-n-roll
+6m6QVcyoBvDU3ipMh4sIi2,Jorge Muñiz,Azulejos 2,Me Va A Extrañar,33,300253,False,0.581,0.417,11,-8.509,1,0.03,0.795,2.78e-06,0.706,0.217,131.917,4,rock-n-roll
+4rs0H0EHWCOkSovLtyKwwI,Los Solitarios,Colección De Oro,Lo Que Te Queda,33,145946,False,0.372,0.5,7,-6.951,0,0.0269,0.0988,1.99e-05,0.337,0.557,88.619,3,rock-n-roll
+2g9UPl5sdCGAcszvwMhE5o,Palito Ortega,Rock & Roll,Rock de la Cárcel,33,151346,False,0.562,0.719,1,-6.7,1,0.033,0.0544,0.0,0.0902,0.915,172.097,4,rock-n-roll
+27hF5Hpy2p6RZmJh9x1W4G,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Presumida (High Class Baby),34,127306,False,0.531,0.809,0,-6.945,1,0.067,0.419,0.0,0.105,0.891,90.884,4,rock-n-roll
+2sdxJdTYrvpVgFw8XekqT3,Manolo Muñoz,Los Éxitos de Manolo Muñoz,No Te Creo,33,143952,False,0.415,0.549,6,-6.795,1,0.0349,0.571,0.0,0.832,0.875,149.87,4,rock-n-roll
+6ZNp1Fg2IDhpfxW3yOoHv9,Los Sonor's,Antología...Los Sonor's,El Ahualulco,33,133000,False,0.779,0.499,1,-7.974,0,0.0512,0.126,0.0464,0.316,0.962,132.513,4,rock-n-roll
+5S5L53t8PhVaGDy6ds9D9K,Virginia Lopez,Lo Mejor De Lo Mejor De Virginia Lopez,Cariñito Azucarado,34,154960,False,0.571,0.831,0,-7.647,1,0.0605,0.759,0.0,0.415,0.884,133.016,4,rock-n-roll
+3fCWiuel6FcFwWKV4RTmdh,Cesar Costa,Historia de un Amor,Historia de Tommy,34,156395,False,0.677,0.363,10,-12.517,1,0.0398,0.416,0.0,0.117,0.556,118.417,4,rock-n-roll
+1cRUvSDRiFeuC2B1bsyDqo,Los Freddy's,20 Éxitos Populares,La Numero Cien,34,183000,False,0.792,0.373,9,-12.093,1,0.0412,0.891,0.00046,0.0986,0.429,95.111,4,rock-n-roll
+2xdIHrH1a0IuThQTbwpzmc,Los Teen Tops,Los Teen Tops De Su Epoca De Oro,Popotitos (Bonie Moroni),34,170800,False,0.588,0.512,4,-12.253,1,0.0302,0.739,3.02e-05,0.227,0.92,140.257,4,rock-n-roll
+451zZpz3lMOSIzaqcqjTj8,Cesar Costa;Eli Guerra,A Mi Manera,Algo Tonto (Something Stupid),34,199333,False,0.63,0.492,4,-10.474,1,0.0298,0.452,0.0,0.273,0.496,106.973,4,rock-n-roll
+0bfNMCcujmZHi03rkpFmAL,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Payasito (Ponchinello),33,156240,False,0.288,0.466,0,-8.452,1,0.0355,0.744,0.0,0.405,0.326,121.477,4,rock-n-roll
+37LMtqQkT9aEVZEedBJfw5,Jorge Muñiz;Ana Cirré,Serenata Volumen 3 Confidencias De Amor,Confidencias De Amor - Piel Canela,33,299983,False,0.548,0.547,6,-7.225,0,0.0495,0.503,0.0,0.0943,0.694,95.002,4,rock-n-roll
+7MF3XEeYpo3FX688GCVzZP,Hermanos Carrion,Discos Del Millón,Entre La Lluvia Y Mi Llorar,33,126800,False,0.573,0.236,0,-14.485,1,0.0334,0.954,0.0455,0.146,0.399,93.16,4,rock-n-roll
+6TfxcRdNwHzQYTdAj18YAL,Los Apson,Mexican Garage Rock '66,Satisfacción,34,210866,False,0.688,0.74,4,-7.841,1,0.042,0.698,0.0,0.11,0.797,132.495,4,rock-n-roll
+57Uadt78FPP6JmC19JufWZ,Mayte Gaos,La Fiebre del Rock and Roll,Vete Con Ella (Chappel of Love),33,173760,False,0.6,0.371,2,-13.054,1,0.0273,0.735,0.0,0.31,0.656,125.603,4,rock-n-roll
+1SdwywRhxTWnZdaUihMdeD,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,"La Plaga (Good Golly, Miss Molly)",34,132933,False,0.337,0.857,2,-7.037,1,0.0662,0.188,3.22e-05,0.626,0.96,182.885,4,rock-n-roll
+6NPTmYw2yMu0Oz0IJkoxeR,Los Tukas,10 de Colección,Mis Noches Te Recuerdan,33,134400,False,0.643,0.574,0,-5.427,1,0.035,0.583,0.0,0.0492,0.845,108.002,4,rock-n-roll
+5d1w5v23uRreAJNW5Kz6rL,Los Tukas,20 Doradas Y Adoradas Originales,Pero Esta Vez Llore,33,158014,False,0.557,0.691,6,-4.825,1,0.0507,0.321,0.0,0.639,0.575,124.632,4,rock-n-roll
+7xzxlk4jDDdwb2mDBRTSpZ,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,Florida Twist,34,133093,False,0.639,0.754,2,-10.198,0,0.0434,0.373,0.000285,0.0554,0.985,84.037,4,rock-n-roll
+2LQU8M7e2SiI9lD172yvCU,Enrique Guzman,Idolos del Rock de los 60's: Enrique Guzman,Con y por Amor,34,203258,False,0.324,0.531,10,-8.954,1,0.0349,0.566,0.0,0.668,0.433,93.092,4,rock-n-roll
+5wuSpl82FTKS7Miv8EXfMe,Los Baby's,Sólo para enamorados,Me piden,33,161173,False,0.402,0.422,4,-8.605,1,0.0294,0.795,0.0,0.0874,0.551,109.856,3,rock-n-roll
+1ns6LHnGOIh2TiO1hZWzko,Los Solitarios,Antología. . . Los Solitarios,Vivir para Llorar,33,164720,False,0.384,0.331,2,-13.683,0,0.0311,0.678,0.322,0.385,0.402,90.826,4,rock-n-roll
+3AP4xOuOQe6KeAeubj3qlF,Estela Nuñez,Lo Esencial de Estela Nuñez,Maldito Sea Tu Amor,34,249706,False,0.274,0.46,0,-9.913,1,0.0367,0.423,4.17e-05,0.515,0.32,175.466,4,rock-n-roll
+1GEGKdhnYoQYZ2cvbo5XPM,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),(You're The) Devil in Disguise,60,140426,False,0.481,0.733,5,-7.633,1,0.165,0.573,1.17e-05,0.108,0.874,122.903,4,rock-n-roll
+63Hb7XoQ8JzBiTr1nxp9pH,The Ventures,Another Smash!!!,(Ghost) Riders In The Sky,50,148493,False,0.577,0.619,0,-9.022,1,0.0323,0.697,0.445,0.318,0.537,126.242,4,rock-n-roll
+6NDg4EyQE5lalcCEEpytsM,Buddy Holly,Giant,"(Ummmm, Oh Yeah) Dearest",56,113066,False,0.548,0.493,1,-11.052,1,0.0282,0.577,0.0195,0.13,0.568,115.24,4,rock-n-roll
+1t2zYsS4UgIkkuBgSe0fZt,Bobby Vee,Bobby Vee,More Than I Can Say,49,149973,False,0.578,0.295,1,-10.379,1,0.0294,0.792,0.0,0.109,0.603,101.171,4,rock-n-roll
+4SGBuq37Ol4HJr7pQqFMKa,Sonny & Cher,Look At Us,I Got You Babe,65,190080,False,0.629,0.795,6,-6.02,1,0.0278,0.136,5.44e-06,0.132,0.6,110.583,3,rock-n-roll
+3Kb4kr3DGzzU5OtYqycWvE,Elvis Presley,That's the Way It Is,"You've Lost That Loving Feeling - Live at The International Hotel, Las Vegas",61,264293,False,0.409,0.292,7,-13.276,1,0.0271,0.476,3.92e-05,0.61,0.342,78.395,4,rock-n-roll
+0TQY0BnDjUBW9NddZpH3wo,Bijou,Pic A Glace,La Fille Du Père Noël,33,160333,False,0.702,0.619,0,-12.764,1,0.0297,0.132,0.0,0.37,0.945,126.297,4,rock-n-roll
+1eqGYJJr2z2GXK1i0hD3BC,Pat Boone,Pat Boone's Greatest Hits (Reissue),Love Letters In The Sand - Single Version,55,134560,False,0.571,0.196,3,-13.216,1,0.0278,0.811,0.0,0.142,0.555,88.728,4,rock-n-roll
+4irHHlpVq5VCPgqSoJgD89,Carlos Lico,"Serie 3X4 (Los Angeles Negros, Altemar Dutra, Carlos Lico)",Adoro,33,184480,False,0.407,0.45,0,-10.012,0,0.0285,0.651,0.0,0.226,0.326,105.85,3,rock-n-roll
+1SrXrirSAM0wfeeh1hbtwe,Los Pasteles Verdes,Canta Aldo,Detalles,34,320040,False,0.573,0.545,9,-7.274,1,0.0632,0.128,8.17e-06,0.0763,0.491,170.069,4,rock-n-roll
+5uvi6UhmUFn8jiSPxPOeIo,Los Apson Boys,Atras de la Raya,Cuando Era Jovencito,32,149629,False,0.5,0.561,4,-8.109,1,0.0356,0.55,0.0,0.0546,0.951,148.113,4,rock-n-roll
+2cEsU8F9HyaW1AVqcwcCBq,Los Fredy´s,Nuestros Primeros 20 Éxitos,Amor Indio,33,202466,False,0.539,0.462,4,-2.695,1,0.0255,0.359,0.0,0.136,0.443,93.092,4,rock-n-roll
+5I9HPhYD4FqcJHEYEehxK5,Los Pasteles Verdes,Historia: Discografía Completa,Es de Noche y Es Mejor,34,209000,False,0.297,0.607,0,-5.737,1,0.0527,0.211,0.0192,0.322,0.336,178.254,4,rock-n-roll
+4zkz2CPIvexCVklWz71qDz,Sonia Rivas,Sonia Rivas,No Eres Mi Guardian,33,167560,False,0.54,0.468,4,-9.338,1,0.0283,0.812,0.0,0.0823,0.447,142.088,4,rock-n-roll
+3uwIoa2emQILz6BmH6MtiW,Elvis Presley,Girls! Girls! Girls!,"Return to Sender - From ""Girls! Girls! Girls!""",61,126693,False,0.845,0.563,8,-9.488,1,0.0439,0.628,0.0,0.0614,0.969,130.335,4,rock-n-roll
+78ztWC6MD4CzfmmXwakSed,Los Apson,Rock Latino: Oldies,Fue en un café,33,190613,False,0.776,0.363,4,-7.309,1,0.0309,0.66,0.0,0.08,0.663,106.611,4,rock-n-roll
+6feurIHW6vyqq9OGOieSVo,Frankie Avalon,The EP Collection,Venus,33,142200,False,0.57,0.547,10,-9.11,1,0.0283,0.669,2.01e-05,0.0849,0.714,115.146,4,rock-n-roll
+05FpNUH3bXZ3JSspPTy4ky,Angelica Maria,Revelaciones,Una Copa de Champagne,32,231480,False,0.46,0.39,2,-11.557,0,0.0305,0.436,0.0,0.0873,0.2,140.136,4,rock-n-roll
+0r5a4dtFlmvrR1tu88AX6r,Los Solitarios,Colección De Oro,Rondando Tu Esquina,33,156160,False,0.583,0.705,4,-6.911,0,0.039,0.487,0.0,0.771,0.875,110.551,4,rock-n-roll
+2Sy45DT2A5xkhWzAbAlVIK,Los Crazy Boys,Los Exitos de Oro de Los Crazy Boy's,La Novia De Mi Mejor Amigo,32,150204,False,0.665,0.561,5,-13.227,1,0.0307,0.762,0.0,0.33,0.971,134.527,4,rock-n-roll
+307Ip1Gl8XSSYoGqaW6TVo,Los Baby's,Antología...Los Baby's,Por qué?,33,183693,False,0.521,0.47,4,-11.747,1,0.0306,0.0293,0.0587,0.315,0.555,115.541,3,rock-n-roll
+55Xrxpi5WADlaefkGB6M96,Mike Laure,Boleros Sabrosos,Hoja Seca,33,155155,False,0.654,0.477,10,-6.43,1,0.0465,0.68,0.0,0.0849,0.853,128.896,4,rock-n-roll
+4niCVPVar9M8h6lQlki4XE,Johnny Laboriel;Los Rebeldes Del Rock,La Hiedra Venenosa,Bote de Bananas,32,165642,False,0.535,0.719,0,-4.947,1,0.0396,0.781,0.0,0.304,0.58,134.736,4,rock-n-roll
+3zCOn0PzxaMPw9J2aCipfM,Los Baby's,Antología...Los Baby's,Sabotaje,33,187920,False,0.634,0.468,4,-11.862,1,0.0367,0.403,0.0,0.101,0.694,98.899,4,rock-n-roll
+5FYIIfaKXAgz1Phz6E6Cmj,Jorge Muñiz;Marco Antonio Muñiz,Serenata Vol. 2 Desvelo De Amor,Popurrí Alvaro Carrillo,33,333978,False,0.698,0.363,5,-8.319,1,0.0404,0.757,0.0,0.0915,0.541,92.118,4,rock-n-roll
+0bCytBmznSsL8EguzVf2iJ,Jorge Muñiz,Azulejos 2,Ódiame / Fina Estampa,33,273240,False,0.536,0.485,9,-9.326,1,0.0434,0.652,1.47e-05,0.662,0.536,143.332,3,rock-n-roll
+5k2DkrLxKo4NyU7Piw40oM,Jorge Muñiz,Azulejos 3,Nomás Contigo,33,219986,False,0.677,0.405,9,-8.996,1,0.0265,0.868,0.000665,0.0826,0.564,83.995,4,rock-n-roll
+16IdUN5TSzVe2vwnSV9wRD,Enrique Guzman;Los Teen Tops,El Rock de los 60s,Mi Suegra Llego,33,164649,False,0.741,0.373,11,-13.263,1,0.0405,0.965,0.0,0.158,0.7,128.136,4,rock-n-roll
+701BbS8jilekmOD2aL6NcW,Los Solitarios,"Tres en uno (Los Freddy's, Los Baby's y Los Solitarios)",Lo que te queda,33,145360,False,0.37,0.382,7,-10.76,0,0.0271,0.182,0.0,0.364,0.539,89.963,3,rock-n-roll
+4ehH2jFZdwqx2QuKgJuTRI,Marco Antonio Vázquez,Antología...Marco Antonio Vazquez,Mesa para uno,33,135506,False,0.657,0.564,3,-7.637,0,0.0284,0.492,8.66e-06,0.0897,0.696,104.058,4,rock-n-roll
+2ko3qA1QJZ7nla7XDImYHv,Los Apson,12 Grandes exitos Vol. 2,Barba azul - Let's Do The limbo,32,170000,False,0.669,0.728,7,-7.796,1,0.0501,0.426,0.0,0.152,0.788,137.174,4,rock-n-roll
+3z5ACXuIkSsHpzmdrXvLp8,Los Tukas,10 de Colección,Son Tus Ojos Verde Mar,33,160173,False,0.665,0.442,2,-7.34,1,0.0293,0.741,0.000717,0.0845,0.916,100.166,4,rock-n-roll
+0f8AMcclUWij6oCjYiyLQg,Gualberto Castro,25 Exitos,Hasta Que Vuelvas,33,237066,False,0.35,0.44,7,-5.25,0,0.035,0.495,0.0,0.102,0.322,76.796,1,rock-n-roll
+6EbmmL79iDxHrnduYQDBek,Richard Berry;The Pharaohs,"Have ""Louie"" Will Travel",Have Love Will Travel,33,176826,False,0.807,0.892,9,-6.373,0,0.18,0.703,0.000449,0.143,0.965,132.685,4,rock-n-roll
+36L4eoHrmdmu3CT2KTiNx1,Manoella Torres,Nació para cantar,El Último Verano - Balada Moderna,33,171160,False,0.574,0.359,5,-10.687,0,0.0324,0.769,0.0,0.166,0.673,107.026,4,rock-n-roll
+60QaBBHXudiV3W2sZDuYAb,Mike Laure,15 Éxitos,El Caiman (Se Va El Caiman),33,151973,False,0.5,0.501,9,-8.328,1,0.274,0.62,0.0,0.0738,0.92,207.952,4,rock-n-roll
+4GV6b8JkbtEwOsndEw3478,Enrique Guzman,"Enrique Guzmán, Sus Mejores Éxitos",Adiós Mundo Cruel,33,136960,False,0.692,0.392,7,-12.582,1,0.0822,0.829,2.63e-06,0.14,0.938,138.931,4,rock-n-roll
+5f69Ly72j7DIsdwx2qsrUY,La Tropa Loca,El Disco de Oro de la Tropa Loca,Espejismo,32,181280,False,0.593,0.567,9,-8.299,0,0.025,0.0362,0.000235,0.0679,0.784,105.056,4,rock-n-roll
+31jdflvTFQhJ4zmMJNTgl7,Bobby Day,The Rockin' Adventures of Bobby Day,Little Bitty Pretty One,32,148373,False,0.803,0.467,10,-10.171,0,0.0752,0.789,0.28,0.0565,0.935,85.731,4,rock-n-roll
+6doUGUOIEIUlUTmAeAPxl7,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,Vida,32,170600,False,0.246,0.626,1,-7.63,1,0.0421,0.149,0.0,0.636,0.631,118.142,4,rock-n-roll
+4P6dP5UQv6yjR8QxzWmmJV,Enrique Guzman,Primeros éxitos que me hicieron triunfar,Cien kilos de barro (Remastered),33,155599,False,0.472,0.701,11,-6.862,0,0.0358,0.604,0.0,0.565,0.533,115.116,4,rock-n-roll
+3qypBp8zGTalrIT1zWzcPY,Los Baby's;Jose Cantoral,Tributo a,Para Qué Volviste (feat. José Cantoral),33,200160,False,0.662,0.864,7,-1.998,1,0.0281,0.167,0.0,0.463,0.731,104.048,4,rock-n-roll
+3SgXIF6yUqZQt3bOvrXMIE,Los Strwck,El Disco De Oro,Pobre Reyna,33,176840,False,0.759,0.402,2,-13.005,1,0.0298,0.838,0.00786,0.122,0.783,96.015,4,rock-n-roll
+05K9S4Tbxaj7mKiZyHtjFl,Duane Eddy;The Rebelettes,Wiggle Wobble (50's & 60's Collection of Music),(Dance with the) Guitar Man,1,160093,False,0.688,0.925,9,-6.69,1,0.0395,0.732,0.00131,0.136,0.932,137.193,4,rock-n-roll
+1fE9K2Z085g4Xt3HAki7zN,Los Baby's;Los Ávila Boys,Tributo a,Promesas de Amor (feat. Los Ávila Boys),33,186080,False,0.737,0.751,5,-3.307,1,0.0252,0.337,0.0,0.245,0.899,102.048,4,rock-n-roll
+39AkiS6Hv24qJEgvwhm8fm,Los Brios,30 Anos De Exitos,Yo Se Que Te Acordaras,33,219626,False,0.638,0.412,9,-10.11,1,0.0321,0.486,3.33e-05,0.124,0.682,97.226,4,rock-n-roll
+4VPq4O1fhqHyKpP2UoKryq,The Big Bopper,Teenage Monster (Spooky Monster Music),Purple People Eater Meets the Witch Doctor,0,132000,False,0.725,0.951,3,-0.131,0,0.279,0.784,0.0721,0.279,0.969,79.314,4,rock-n-roll
+3NYym6QdNwvo7Gqrqs0cKu,Los Baby's,Sólo para enamorados,Mi loca pasión,32,163906,False,0.574,0.455,7,-9.526,1,0.0507,0.72,0.0,0.337,0.588,109.285,4,rock-n-roll
+3bj2vFCiyet7XqtU5UOeIr,Los Solitarios,Antología. . . Los Solitarios,Tumba de amor,32,144000,False,0.58,0.521,2,-8.774,1,0.0373,0.158,7.57e-06,0.334,0.83,112.27,4,rock-n-roll
+4k7eJO20dZQacbYPXOUc6f,Marco Antonio Muñiz;José José,Coleccion Original,Tiempo (with José José),33,219266,False,0.277,0.363,10,-9.034,1,0.0305,0.761,0.0,0.34,0.296,141.308,4,rock-n-roll
+2k6qpHJsrKCCyvsHv2cPqR,Paul Anka,Sings His Favorites,Diana,56,140520,False,0.551,0.576,7,-8.49,1,0.0325,0.762,0.0,0.803,0.919,142.814,4,rock-n-roll
+5a3ZlfUdkef5uuXYcYNbUP,Elvis Presley,Fun in Acapulco,Marguerita,29,162026,False,0.475,0.403,2,-14.768,1,0.0361,0.66,3.59e-05,0.177,0.555,166.897,3,rock-n-roll
+3qt3ybU6MScMxMKL2TYBvt,Chuck Berry,St. Louis To Liverpool,No Particular Place To Go,62,163000,False,0.596,0.791,7,-8.88,1,0.0446,0.425,0.000295,0.0886,0.98,129.237,4,rock-n-roll
+1Uxk2dxmATlKH5quLX2iFG,Elvis Presley,NBC-TV Special (Live),If I Can Dream - Live from the '68 Comeback Special,65,200057,False,0.346,0.62,7,-9.247,1,0.0432,0.0822,0.00393,0.599,0.391,93.932,3,rock-n-roll
+3MpGQae6zAFd7Z1FdLV9fV,The Platters,The Flying Platters Around The World,Twilight Time - Single Version,60,168293,False,0.455,0.361,9,-12.562,1,0.0473,0.747,0.0,0.238,0.285,115.854,3,rock-n-roll
+23xY5vuCuLJfU8YRrpRdcY,Rafael Vázquez,Al Claro de Luna,Al Claro de Luna,31,111493,False,0.419,0.288,8,-15.826,1,0.0454,0.71,0.0,0.274,0.795,145.557,3,rock-n-roll
+6vG4oazWuYOaMnHyLJmOMe,Elvis Presley,On Stage (Live),Sweet Caroline - Live,56,162560,False,0.401,0.488,11,-12.607,1,0.0534,0.537,5.77e-05,0.828,0.621,147.132,4,rock-n-roll
+2hh6RGmBNTGB7fi62fYgUL,Johnny Tillotson,Johnny Tillotson's Best,Why Do I Love You So - 1960 #42 Billboard chart hit,51,127106,False,0.385,0.257,8,-11.282,0,0.0315,0.892,3.35e-06,0.117,0.617,152.872,4,rock-n-roll
+3QHBvWR5x3aidziMIk25EO,Lalo Carrion,La Gran Coleccion Del 60 Aniversario CBS - Hermanos Carrion,Yo Sufro (I'm Hurtin'),32,151880,False,0.48,0.486,2,-8.016,1,0.0302,0.861,0.000201,0.461,0.529,130.634,4,rock-n-roll
+1eYJ6xZLZltINa6GKYmjZw,Los Pasteles Verdes,Los 20 Grandes Éxitos,Como Una Sombra,33,136160,False,0.543,0.355,6,-13.413,0,0.0287,0.769,0.000554,0.159,0.777,108.307,4,rock-n-roll
+4DjixhdAyHASyjcyNP7cUn,Hermanas Jimenez,La Epoca de Oro del Twist,San Antonio Twist,31,164205,False,0.66,0.598,7,-11.452,1,0.121,0.766,4.55e-05,0.129,0.956,173.088,4,rock-n-roll
+4oGoAbeCYFxQ6oXsNFnLEn,Alberto Vazquez,Dieciseis Toneladas,Olvida,32,170657,False,0.725,0.419,10,-8.079,1,0.0329,0.661,0.000817,0.184,0.697,129.127,4,rock-n-roll
+1ydA4b3RCTHhsvGmn8v7fm,Jorge Muñiz,Azulejos 2,Bachata Rosa,32,256240,False,0.777,0.387,2,-10.047,0,0.031,0.814,3.71e-05,0.123,0.51,115.012,4,rock-n-roll
+73BIHNAuJtxFTbuRK2y2sG,Ramon Marquez,Lo Mejor Para Bailar Con Ramón Márquez,Clases De Cha Cha Chá,32,185817,False,0.78,0.789,8,-7.956,1,0.049,0.842,0.0,0.0612,0.887,128.795,4,rock-n-roll
+4TnE3U1ZKmbhhbK13t1HPO,Los Crazy Boys,Los Exitos de Oro de Los Crazy Boy's,Leroy,32,146390,False,0.464,0.443,0,-14.555,1,0.147,0.887,7.95e-06,0.091,0.689,202.31,4,rock-n-roll
+6NUdUu1sW2cJCQK4c1zyod,Johnny Rivers,Whisky A Go-Go Revisited (Live),Sunny - Live At The Whisky A Go-Go/1967,33,147653,False,0.625,0.68,4,-9.754,0,0.129,0.458,0.0,0.756,0.856,143.859,4,rock-n-roll
+6iPXuMYdnnOxV8t6upqhL8,Los Fredy´s,Nuestros Primeros 20 Éxitos,Aunque Me Hagas Llorar,31,162493,False,0.555,0.717,1,-2.754,0,0.035,0.606,2.26e-06,0.111,0.426,100.377,3,rock-n-roll
+6u37hNmGrLcHaKJdau3dlF,Roberto Jordan,RCA 100 Años De Musica,La Chica de los Ojos Café - Brown Eyed Girl,32,178666,False,0.519,0.536,7,-7.267,1,0.0284,0.233,0.0,0.095,0.874,76.848,4,rock-n-roll
+2kzTXBnCJKId7MUljMICuf,Los Baby's,Antología...Los Baby's,Amor traicionero,32,182853,False,0.34,0.396,4,-7.155,1,0.0324,0.609,1.38e-06,0.144,0.578,78.153,4,rock-n-roll
+0J14macNc8qWBmQfcySj8c,Johnny Tillotson,Why Do I Love You So,Send Me the Pillow That You Dream On (Alternate Take),32,173973,False,0.411,0.314,2,-9.257,1,0.0276,0.751,4.76e-06,0.42,0.447,108.84,4,rock-n-roll
+1Dia1AGnNUGtQxIZE84eNe,Los Freddy's,16 Exitos Vol. 1,Si no me Quieres Dejame,32,152466,False,0.742,0.329,11,-12.465,1,0.0471,0.774,0.0,0.118,0.831,118.12,4,rock-n-roll
+7o1GLuVk1AEYyd10zoD6bg,Sonora Maracaibo,Mis Mejores 20 Exitos,Nayla,31,167333,False,0.689,0.338,2,-8.908,0,0.038,0.681,0.000604,0.317,0.608,118.58,4,rock-n-roll
+2gj0XAQIWOX72GRspbMTPc,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,Más (More),33,133200,False,0.343,0.447,2,-10.238,1,0.0327,0.742,0.0,0.308,0.536,90.833,3,rock-n-roll
+0qobdXHJ61Lhf0CO91xD52,Los Freddy's,Con Banda,Sí acaso vuelves - Con banda,32,148733,False,0.641,0.45,1,-10.549,1,0.0298,0.685,1.12e-06,0.0995,0.816,114.843,4,rock-n-roll
+7E5W3lXHHWBTEWJLTVOtqJ,Los Baby's,20 Éxitos de Oro,Como un Duende,32,170960,False,0.446,0.51,9,-10.313,1,0.061,0.376,0.257,0.443,0.59,208.578,4,rock-n-roll
+1WWKxCZY3R4Vs5FTv0HDRT,Los Hermanos Carrion,"Hermanos Carrion 50 Años, Vol. 1",Lindos Ojos,32,123846,False,0.694,0.283,11,-15.354,0,0.0325,0.111,4.31e-06,0.271,0.625,116.007,4,rock-n-roll
+1G5eAAupKCqIPMYwD9RVps,Los Hermanos Carrion,"Hermanos Carrión, Vol 1",Rosas Rojas,32,192444,False,0.727,0.527,2,-16.906,1,0.0338,0.148,1.21e-05,0.0801,0.969,138.854,4,rock-n-roll
+2zGV8MKVGeTwfG3TF0OIWt,Los Chicanos,Los Chicanos,Puente de Piedra,31,221493,False,0.487,0.373,7,-10.22,1,0.0289,0.795,0.0,0.0901,0.373,95.753,4,rock-n-roll
+1bK0ReDd5OXyul71Nl1d9o,Johnny Kidd & The Pirates,Very Best Of Johnny Kidd & The Pirates,Shakin' All Over,32,141000,False,0.767,0.626,9,-8.408,1,0.036,0.188,1.03e-05,0.327,0.715,125.237,4,rock-n-roll
+5nJhKycfoC8g3ENqwUfj4O,Los Solitarios,12 Grandes exitos Vol. 2,Hoy,32,154546,False,0.471,0.497,4,-9.246,1,0.0272,0.172,0.0,0.0914,0.74,89.839,4,rock-n-roll
+2aj3eD8ojbYMlZBXH6o43e,Hermanos Carrion,Lo Mejor De Los Hermanos,Rosas Rojas (Roses Are Red My Love),32,147760,False,0.485,0.352,2,-11.855,1,0.0321,0.967,0.00081,0.196,0.509,110.798,4,rock-n-roll
+1sQyHvsr6ltaENQEbl2pHM,Virginia Lopez,Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici,Tú Me Perteneces,32,160320,False,0.697,0.706,4,-6.81,0,0.0466,0.147,0.0,0.0816,0.931,127.054,4,rock-n-roll
+7fUCND6mrGWn5IBkcBpggV,Jorge Muñiz,Azulejos 2,Mujeres Divinas / Acá Entre Nos,32,282240,False,0.716,0.485,0,-9.156,0,0.0295,0.663,8.83e-06,0.599,0.67,92.1,4,rock-n-roll
+65nHDfhLe607gawYa1m1Dx,Alberto Vazquez,Alberto Vázquez Interpreta A Joan Sebastian,Prisionero De La Ciudad,32,202756,False,0.753,0.868,7,-5.27,1,0.0253,0.131,0.000508,0.318,0.932,112.464,4,rock-n-roll
+1jgNuEBCiPZeDOfnTtGfJq,Marco Antonio Muñiz,o,De Lo Que Te Has Perdido,33,192800,False,0.549,0.495,5,-5.234,0,0.0375,0.535,0.0,0.134,0.597,133.598,4,rock-n-roll
+0iFkRSU2LwOxKWdDNot2Xk,Los Apson,12 Grandes exitos Vol. 2,Popeye - The Hitch Hiker-,32,159880,False,0.756,0.598,4,-7.178,1,0.039,0.475,0.0,0.301,0.963,127.718,4,rock-n-roll
+4qqWBHZFTxdUYO5BuWBsXr,Los Apson,12 Grandes exitos Vol. 1,Por eso estamos como estamos,32,148826,False,0.674,0.858,4,-6.311,1,0.0849,0.831,0.0,0.249,0.792,96.893,4,rock-n-roll
+2O9Pf9JpoZFIwNgRoqhgcu,Los Tukas,15 Exitos,Dame Una Oportunidad,32,212600,False,0.352,0.559,7,-8.827,1,0.027,0.224,5.15e-06,0.124,0.688,176.981,4,rock-n-roll
+2e9NSjSOuXY2Pg9cToKmx4,Grupo Lluvia,15 Baladas Inolvidables Vol. 1 - Las Mejores,Una Vieja Canción De Amor,32,210053,False,0.702,0.351,7,-14.238,1,0.0304,0.227,9.43e-06,0.11,0.599,99.514,3,rock-n-roll
+0PhbqhZgVzaHzLn33LO2s9,Los Tukas,10 de Colección,Nacimos para Amarnos,32,154213,False,0.545,0.445,2,-3.922,1,0.0283,0.716,0.0,0.306,0.576,96.822,4,rock-n-roll
+1nYo1XPxlNiVNClaD1emxe,Leda Moreno,Disco Conmemorativo 40 Aniversario El Disco de Oro de Rock,Diablito Loco (Pickle Up a Doodle),31,146333,False,0.78,0.658,2,-11.972,1,0.0521,0.533,0.0,0.546,0.957,132.793,4,rock-n-roll
+6zcdLtTcaqCT4KAtESlNiY,Nelson Ned,Antologia (Volumen 2),El Dia Que Me Acaricies Lloraré,32,231093,False,0.308,0.338,7,-12.735,1,0.0379,0.582,0.0,0.0881,0.336,185.328,4,rock-n-roll
+19SrvhX7XkfvWwY6kGAv2X,Los Solitarios,12 Grandes exitos Vol. 2,No debes llorar,32,210973,False,0.549,0.479,2,-9.088,1,0.0258,0.276,6.97e-05,0.138,0.487,81.542,4,rock-n-roll
+7AEOf1U0qEM0PxB8FtWqwX,Johnny Dynamo,20 Exitos de los Grandes Años del Rock And Roll,Muchachita,32,177000,False,0.511,0.37,0,-14.519,1,0.0418,0.324,0.0,0.264,0.397,124.502,4,rock-n-roll
+2agRb9TNryf2vWcmBkYDP6,Los Hermanos Carrion,20 Kilates,Que Manera de Perder,32,160106,False,0.798,0.347,2,-13.75,1,0.0356,0.554,0.0,0.0997,0.496,100.143,4,rock-n-roll
+1i3TNrkFQvNbLkIJaoPGr2,Acerina Y Su Danzonera,Mis Danzones Favoritos,Teléfono a Larga Distancia,32,189178,False,0.412,0.436,9,-13.986,0,0.0491,0.441,0.33,0.296,0.948,140.287,3,rock-n-roll
+65JC1aD0zlq5RQ7Q8zQuss,Nelson Ned,Antologia (Volumen 2),Mi Manera De Amar,33,251600,False,0.477,0.357,2,-14.114,0,0.0384,0.473,3.31e-06,0.346,0.358,88.251,3,rock-n-roll
+22dqPEditHWH5vQ8S9pC8q,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,El Amor Es una Cosa Esplendorosa (Love Is a Many Splendored Thing),32,162626,False,0.165,0.436,2,-7.921,1,0.0341,0.72,0.0,0.225,0.314,175.835,4,rock-n-roll
+2qxZyZ8UoYk7MCGQawysXd,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,Fíjate Que No,33,189093,False,0.631,0.627,2,-11.266,0,0.039,0.585,0.0,0.295,0.726,142.941,4,rock-n-roll
+7DroPZbnPTJZSZtax3swP8,Los Baby's;La Original Banda El Limón de Salvador Lizárraga,Tributo a,Pero Yo No Lo Conozco (feat. La Original Banda el Limón de Salvador Lizárraga),32,152213,False,0.65,0.818,3,-1.728,1,0.0427,0.427,0.0,0.179,0.949,162.96,4,rock-n-roll
+2KQM3kDM0zMBC9iynePBbS,Ben E. King,Stand By Me,Stand By Me,58,174253,False,0.653,0.334,9,-6.955,1,0.0313,0.411,3.47e-05,0.123,0.665,119.46,4,rock-n-roll
+4FrMb1ckGBrhARbHySQKx5,The Everly Brothers,The Very Best of The Everly Brothers,Devoted to You,55,141040,False,0.587,0.34,3,-9.387,1,0.0256,0.834,0.0,0.0955,0.526,90.523,4,rock-n-roll
+4KtgvmeeJ83iRxHc9QrBmf,Elvis Presley,ELVIS (Original Motion Picture Soundtrack),Suspicious Minds (Film Edit),59,377586,False,0.284,0.801,7,-9.981,1,0.0639,0.000687,0.00326,0.888,0.521,136.943,4,rock-n-roll
+2TE4xW3ImvpltVU0cPcKUn,Shakin' Stevens,Merry Christmas Everyone,Merry Christmas Everyone,63,220160,False,0.534,0.904,9,-3.315,1,0.0369,0.129,0.0,0.128,0.96,202.899,4,rock-n-roll
+0kgjL2oRFsV6GSwVNCcQS6,Paul Anka;Odia Coates,Feelings,I Don't Like To Sleep Alone,49,198826,False,0.48,0.557,10,-9.696,1,0.0276,0.413,7.71e-06,0.267,0.26,127.237,4,rock-n-roll
+4S03cXyufGz1av5TvBkpjc,Ben E. King,Spanish Harlem,Stand By Me - Remastered,22,181293,False,0.647,0.38,9,-6.143,1,0.03,0.334,0.00025,0.149,0.653,119.628,4,rock-n-roll
+1XunTmhOcj3xwh4b8P3isX,Elvis Presley,Elvis 30 #1 Hits,It's Now or Never,57,194600,False,0.643,0.491,4,-9.312,1,0.0344,0.642,0.00972,0.286,0.753,126.399,4,rock-n-roll
+0gaZi6J3Pk7FG7GNMHsK5o,Elvis Presley,That's the Way It Is,Bridge Over Troubled Water,59,275333,False,0.21,0.236,0,-14.48,1,0.0278,0.86,0.00182,0.713,0.196,82.833,4,rock-n-roll
+62p6cgUc0cdguS1DttbfKU,Elvis Presley,Today (Legacy Edition),And I Love You So,56,219066,False,0.485,0.332,8,-13.288,1,0.0257,0.129,0.0668,0.0687,0.39,81.741,4,rock-n-roll
+1sQ5WUWw3JrsSEhdiQlfRt,The Seekers,The Seekers,I'll Never Find Another You,55,162320,False,0.567,0.672,10,-7.666,1,0.0336,0.75,0.0837,0.367,0.79,126.509,4,rock-n-roll
+6C7aTTCUWRK7dD379yUT3W,Chuck Berry,Berry Is On Top,Roll Over Beethoven,60,144600,False,0.715,0.797,3,-10.154,1,0.193,0.837,0.0,0.209,0.841,92.739,4,rock-n-roll
+3TmnUIbelFiDzrhZqavHU0,Pat Boone,Pat Boone's Greatest Hits (Reissue),Speedy Gonzales,52,153093,False,0.589,0.447,11,-12.912,1,0.0748,0.821,0.0,0.0999,0.789,146.845,4,rock-n-roll
+5ALgEAPt5pQrtF4GtEykLc,Las Moskas,"Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol. 2",Venus,31,185013,False,0.722,0.569,2,-9.64,1,0.0346,0.356,0.0351,0.317,0.953,137.028,4,rock-n-roll
+6dZK0TapcMXwM8VkJf6NM6,Los Yorsy's,Ciro Pera Loca,Enamorado,31,127407,False,0.638,0.583,7,-6.231,1,0.0299,0.715,0.0,0.37,0.868,139.487,4,rock-n-roll
+2KagwGYfubsoPYFpIosRMm,Los Fredy´s,Nuestros Primeros 20 Éxitos,Amor de los Dos,31,192826,False,0.522,0.652,4,-2.7,1,0.0495,0.752,0.0,0.0673,0.54,96.946,4,rock-n-roll
+3sgM5LULIwLCe5ocE1jLtS,Los Pasteles Verdes,Volveré por Ti,Volveré por Ti,32,204445,False,0.23,0.582,4,-3.625,0,0.0331,0.0962,0.0,0.0558,0.409,173.36,4,rock-n-roll
+7b94Oh1p69ue3mCdXsngrh,Mayte Gaos,Mayté...,El Gran Tomás (Norman),31,132680,False,0.716,0.195,9,-19.525,1,0.041,0.781,2.45e-05,0.149,0.943,132.025,4,rock-n-roll
+5ITEEp29Gg7LxVCNU3byo1,Los Crazy Boys,Los Exitos de Oro de Los Crazy Boy's,"Corina, Corina",31,159660,False,0.427,0.375,7,-14.245,1,0.0315,0.82,2.09e-05,0.102,0.803,136.633,4,rock-n-roll
+4cGCdqrH7i3rkirz6PhyBQ,Los Dinner's,15 Grandes Exitos,"El Jala, Jala",31,203293,False,0.763,0.77,7,-6.552,1,0.0495,0.162,0.000137,0.109,0.856,108.633,4,rock-n-roll
+12RU9OGw755tAIOCQuQJjy,Los Baby's,Antología...Los Baby's,Negrura,31,160800,False,0.561,0.578,0,-8.602,1,0.0351,0.231,7.48e-06,0.33,0.755,124.074,4,rock-n-roll
+4azoqBGN7f0kpizknJb0iq,Linda Vera,Viejas Pero Buenas,Cumbia De La Media Noche,31,144426,False,0.497,0.699,5,-3.618,0,0.0609,0.618,0.000614,0.141,0.929,204.456,4,rock-n-roll
+4y5kRVDLaQcuOJjVhs7AJf,Johnny Laboriel;Johnny Laboriel / Los Rebeldes Del Rock,Historia Musical de Mis Exitos,Rock del Angelito,31,121858,False,0.669,0.575,8,-9.366,1,0.0547,0.894,0.0,0.39,0.907,97.235,4,rock-n-roll
+3ed1b5bDbGy0IxjYnkfOZ7,Imelda Miller,Que Alegre Va María,Una Noche No,31,142973,False,0.584,0.0917,0,-22.106,1,0.0397,0.799,0.0,0.379,0.53,100.757,3,rock-n-roll
+06cu7T3qosTjOqNjEFOQus,Los Pasteles Verdes,Canta Aldo,Amar y Vivír,32,173853,False,0.749,0.709,2,-6.058,0,0.034,0.0581,0.0,0.187,0.775,108.033,4,rock-n-roll
+5d6ZRqgbz26Sg4bk1oifQw,Carl Perkins,The Dance Album,Blue Suede Shoes,58,134445,False,0.548,0.673,4,-7.318,0,0.0364,0.448,8.53e-05,0.342,0.965,168.891,4,rock-n-roll
+0vO5GpHD1VWi0GUAUgYjq2,Alberto Vazquez,Alberto Vázquez,Los Barandales Del Puente,32,130147,False,0.586,0.458,7,-7.459,1,0.029,0.745,9.15e-06,0.453,0.802,98.15,3,rock-n-roll
+53IcObq6WkHmE94wnfsQuC,Enrique Guzman,Grandes Canciones (Remastered),Abrázame Fuerte - Remastered,32,167986,False,0.29,0.394,4,-10.824,1,0.0342,0.636,0.0,0.422,0.339,93.779,4,rock-n-roll
+75bDVvmgOqg3WQBa9S5s3A,Los Baby's,Rondando Tu Esquina,Perdón Cariño Mío,32,165929,False,0.461,0.595,5,-7.326,1,0.0368,0.745,4.84e-05,0.602,0.667,99.442,4,rock-n-roll
+304igPMgB1RwzlL8XapR0p,Los Freddy's,15 Grandes Favoritas,Estoy Llorando,31,179906,False,0.726,0.422,11,-12.986,1,0.0316,0.562,0.0,0.105,0.749,111.22,4,rock-n-roll
+6hPuaKg3GXLHpbygnH3pAs,Sonia Rivas;YOSHIO,La Gran Coleccion Del 60 Aniversario CBS - Yoshio,El Reencuentro,31,227106,False,0.369,0.462,0,-9.897,1,0.036,0.352,0.0118,0.149,0.537,150.187,4,rock-n-roll
+60kUf6OpmrZc0Pr3Uh3Ad8,Jorge Muñiz,Azulejos 2,El Privilegio De Amar,32,229253,False,0.525,0.357,1,-9.862,1,0.039,0.799,2.57e-06,0.811,0.519,179.827,4,rock-n-roll
+66QG0d49tpc9VqfZZ590Oi,Roberto Jordan,Roberto Jordán,Amor de Estudiante,32,124969,False,0.629,0.356,1,-14.014,1,0.0311,0.844,0.353,0.228,0.779,110.622,3,rock-n-roll
+0Hfk6lnS4jvogpLDAzSvUA,Mayte Gaos,Mayté...,Susy la Coquetona (Runaround Sue),31,159666,False,0.481,0.358,7,-19.196,1,0.0493,0.401,0.0,0.164,0.794,80.701,4,rock-n-roll
+4xFakuJCAMiOCbclGhV53W,Los Baby's,Antología...Los Baby's,He perdido una perla,31,167533,False,0.639,0.433,5,-9.383,1,0.052,0.367,0.0,0.106,0.773,116.548,4,rock-n-roll
+6whvbyt205wxL7oe5VuiLR,Marco Antonio Muñiz;Pedro Vargas,Marco Antonio Muñiz Duetos,Parece Que Fue Ayer,32,173766,False,0.417,0.524,4,-10.711,1,0.0344,0.861,3.19e-05,0.112,0.598,94.129,4,rock-n-roll
+6e8O05koxjIQZEM7JCsVJl,Alberto Vazquez,"Tres Epocas de Oro, Vol. 2",Como No Creer en Dios,32,204826,False,0.452,0.446,0,-13.192,0,0.0323,0.688,0.0,0.126,0.312,106.076,4,rock-n-roll
+0E2qH2t1qUkl5Vbs5xLHcV,Gualberto Castro,La Gran Coleccion Del 60 Aniversario CBS - Gualberto Castro,Qué Mal Amada Estás,31,213200,False,0.368,0.64,8,-8.24,1,0.0488,0.392,0.0,0.166,0.542,168.027,4,rock-n-roll
+6v8pDrOktzNFTpyM2nMIG9,Queta Garay,Loco - Vintage Rock en Español,Chica Ye Ye,31,134306,False,0.668,0.756,10,-5.907,1,0.0536,0.68,0.0,0.37,0.962,87.482,4,rock-n-roll
+40UM6V4YgUkLIxT5BI2YSk,Los Polifaceticos,Puros Exitos,Cuatro Lagrimas,31,183248,False,0.528,0.519,10,-7.63,1,0.028,0.305,0.0,0.137,0.755,90.907,4,rock-n-roll
+7liYWrLR1Oyi2E5RXDXjwI,Los Pasteles Verdes,Historia: Discografía Completa,El Presidiario,32,188953,False,0.487,0.618,0,-8.728,1,0.0367,0.0408,0.000107,0.518,0.557,88.635,4,rock-n-roll
+3w7CYh1wbLGRC5MLFUhJer,Alberto Vazquez;Manolo Muñoz,Rancheras Inmortales,Ando Que Me Lleva,32,193671,False,0.374,0.336,7,-8.297,1,0.0304,0.31,3.91e-06,0.0577,0.511,146.65,3,rock-n-roll
+6hzdhZoncHJUpXHYKfK968,Marco Antonio Muñiz,La Serenata Del Siglo,A la Orilla del Mar,32,172133,False,0.476,0.23,11,-12.438,0,0.0345,0.924,0.0,0.56,0.556,100.902,4,rock-n-roll
+1hMy8yd3rbAwOING2JQLP1,Enrique Guzman;Los Teen Tops,El Rock de los 60s,Tutty Frutty,31,118439,False,0.614,0.471,0,-12.895,1,0.0298,0.878,0.501,0.109,0.936,91.63,4,rock-n-roll
+5ot9qZVwb1IIleKpgjrQhH,Mike Laure,Lo Mejor De Mike Laure,El Mochilón,31,147597,False,0.676,0.52,5,-7.383,0,0.0516,0.488,0.0,0.366,0.71,101.143,4,rock-n-roll
+6oyppllW1Tbus4rSixRlJN,Marco Antonio Muñiz;Jorge Muñiz;Mariano Perez,El Lujo de México (En Vivo),Coincidir / Celoso (with Jorge Muñiz) - A Dueto Con Jorge Muñiz,32,285026,False,0.256,0.495,2,-8.347,1,0.0951,0.632,0.0,0.553,0.314,194.745,4,rock-n-roll
+4RNBNq7x5bGaXcGwuWsvfF,Los Brios,30 Anos De Exitos,Inolvidable,32,189186,False,0.739,0.726,0,-6.98,1,0.0251,0.141,0.0,0.074,0.888,96.038,4,rock-n-roll
+5Ybp2ChtYg61zpl6vImNxR,Nelson Ned,Antologia (Volumen 2),Todavía Duele,32,206173,False,0.538,0.596,4,-9.853,1,0.0423,0.529,0.0,0.397,0.514,136.832,4,rock-n-roll
+3rbAG0mVCVmhEPhFs96deC,Marco Antonio Muñiz;Jorge Muñiz;Mariano Perez,El Lujo de México (En Vivo),Solito Con las Estrellas / Yolanda (with Jorge Muñiz) - A Dueto Con Jorge Muñiz,32,339733,False,0.408,0.693,5,-6.4,1,0.0761,0.624,0.0,1.0,0.502,118.378,4,rock-n-roll
+1snZEmpf72N62WKo1Qlqx2,Los Freddy's,Antología. . . Los Freddy's,Albur de amor,32,171026,False,0.648,0.765,4,-7.752,1,0.0535,0.525,6.58e-06,0.362,0.884,115.912,4,rock-n-roll
+6Luz0Yuh9iqxaxW1BYU9Pe,Estela Nuñez,RCA 100 Anos De Musica - Segunda Parte,No Me Arrepiento de Nada,31,213386,False,0.875,0.616,9,-9.51,1,0.0375,0.46,0.0,0.135,0.904,117.512,4,rock-n-roll
+4FlYcJnfkeBpowEHJ72Bmt,Bobby Day,Rockin' Robin,Rockin' Robin,62,160080,False,0.541,0.608,7,-13.083,1,0.106,0.298,0.0,0.234,0.938,171.992,4,rock-n-roll
+4wM7V31TsZzzDBEH02Hltb,Elvis Presley,Elvis 30 #1 Hits,Are You Lonesome Tonight?,53,186506,False,0.421,0.201,0,-12.399,1,0.0436,0.917,0.000436,0.116,0.188,129.689,5,rock-n-roll
+45Szkclj1lt4ubm7RFK68t,Del Shannon,Runaway with Del Shannon,Runaway,62,137306,False,0.594,0.533,10,-7.993,0,0.0438,0.153,1.49e-05,0.172,0.729,78.552,4,rock-n-roll
+5GMw6X6BbCDGO9gApQYRSa,The Righteous Brothers,The Very Best Of The Righteous Brothers - Unchained Melody,You've Lost That Lovin' Feelin',59,225426,False,0.366,0.317,1,-13.976,1,0.027,0.541,0.0,0.0865,0.398,94.108,4,rock-n-roll
+67KMzLiMuvd6I5c8UlK1u4,Los Loud Jets,Rockmance,Anoche Me Enamore,30,153480,False,0.587,0.677,4,-10.562,1,0.0307,0.506,3.27e-06,0.154,0.959,141.525,4,rock-n-roll
+6pyex9B1kBoRIuabBAc4m8,Elvis Presley,Elvis 30 #1 Hits,Jailhouse Rock,57,155333,False,0.635,0.672,10,-6.788,0,0.0637,0.314,5.03e-06,0.0688,0.895,166.903,4,rock-n-roll
+7tihZUkK5CdXXtPpukvm9e,Gene Vincent & His Blue Caps,Gene Vincent And The Blue Caps,Unchained Melody,51,158133,False,0.54,0.158,7,-17.694,1,0.0335,0.704,0.000482,0.096,0.303,122.286,3,rock-n-roll
+020XZ8mDVjzbnmvjL6GKls,The Champs,Go Champs Go!,Tequila,55,135026,False,0.6,0.528,10,-16.601,1,0.0385,0.752,0.685,0.0493,0.971,174.095,4,rock-n-roll
+25IiJu0DjOqsnQXgNHWp5i,The Shirelles,Remember When,Will You Love Me Tomorrow,64,160864,False,0.527,0.308,0,-11.809,1,0.0284,0.551,4.25e-05,0.0921,0.514,136.297,4,rock-n-roll
+2uwP4d0aVAo90aet6UnaRK,Frankie Avalon,Venus,Venus,31,144493,False,0.573,0.356,10,-18.849,1,0.0321,0.854,0.627,0.159,0.87,114.845,4,rock-n-roll
+1ju5g3JaKTFBIV6O2Eh4cp,Los Yorsy's,Me Quiero Casar Contigo,Ángel De La Mañana,31,190310,False,0.363,0.541,3,-4.664,1,0.0324,0.717,6.59e-06,0.104,0.591,88.38,4,rock-n-roll
+2CkJwySsYnvpafrCeGcXik,Beto Diaz,Invierno Triste,Una Mujer Enamorada,31,188128,False,0.517,0.445,5,-9.591,1,0.0258,0.0604,0.0902,0.233,0.514,103.174,4,rock-n-roll
+1dIChAQ6MLzIsXWl6vWAqX,Elvis Presley,From Elvis in Memphis,Kentucky Rain,60,195720,False,0.411,0.374,0,-14.028,1,0.0282,0.427,1.01e-05,0.154,0.558,105.265,4,rock-n-roll
+3OPefQtYkLSsrsjfcHbl7C,Los Fredy´s,Nuestros Primeros 20 Éxitos,Mis Noches Sin Ti,31,127266,False,0.658,0.686,11,-1.038,0,0.034,0.697,0.0,0.13,0.607,116.169,4,rock-n-roll
+1MvRkOxMgbwRBvk6DTsHcU,Nelson Ned,Los Romanticos- Nelson Ned,Júrame,31,247040,False,0.293,0.41,11,-6.49,0,0.0299,0.683,0.0277,0.0931,0.308,74.672,4,rock-n-roll
+0ZvgXNstN4o2ZXPomtBYVp,Little Richard,Good Golly!,"Good Golly, Miss Molly",61,129132,False,0.563,0.741,7,-11.947,1,0.0486,0.602,0.00251,0.325,0.967,164.15,4,rock-n-roll
+6ImmlZj8ysK2jDnqqbKp60,Ricky Nelson,Rick Is 21,"Hello Mary Lou, Goodbye Heart - Remastered",56,138546,False,0.602,0.633,9,-9.756,1,0.0314,0.502,0.0,0.0614,0.931,98.995,4,rock-n-roll
+2m7IC7dWGck4NNP1VRUiGY,Palito Ortega,Palito Ortega y Sus Exitos,Se Parece a Mi Mama,32,168437,False,0.688,0.33,7,-13.732,0,0.0327,0.564,0.0,0.315,0.935,121.73,4,rock-n-roll
+1oNFfrgSdZ2Af22M60gix4,Los Locos Del Ritmo,Pólvora,Haciendote el Amor,31,119745,False,0.571,0.719,2,-8.81,1,0.0447,0.871,0.0,0.133,0.988,138.16,4,rock-n-roll
+5tTZCXy4lOapYDw7kMPRaX,Javier Bátiz,Si Tú Te Acuerdas de Mi,Ella Fue,31,264161,False,0.766,0.648,0,-11.719,1,0.0344,0.021,0.000136,0.25,0.979,126.035,4,rock-n-roll
+2EVbRYZx9m4dZh1W1OHXcI,Frankie y Los Matadores,Rock Latino: Oldies,Conozco a los dos,30,175786,False,0.774,0.365,7,-8.688,1,0.0398,0.707,0.000874,0.196,0.649,110.668,4,rock-n-roll
+2Jaou8VEd28shN1Qbspgfc,Los Corazones Solitarios,20 Grandes Exitos Para Recordar,El Tiempo Que Haz Llorado,30,174333,False,0.255,0.358,4,-13.487,1,0.0301,0.391,0.0,0.0808,0.636,186.68,4,rock-n-roll
+2IVLV0nVfugT059uaMbMEG,Alberto Vazquez,Cosas de Alberto Vázquez,Te He Prometido,31,172000,False,0.561,0.412,2,-11.977,1,0.0298,0.107,1.61e-05,0.242,0.556,124.146,4,rock-n-roll
+4FAmccI3DfqPgHxEt0119u,Los Apson,12 Grandes exitos Vol. 1,Susie Q,31,125653,False,0.464,0.74,9,-6.698,1,0.0374,0.471,0.00192,0.14,0.958,151.242,4,rock-n-roll
+5HPbGQ2Rz9EiH0dypMIFWX,Los Johnny Jets,La Onda Juvenil 25 Aniversario,Es Lupe (Hang on Sloopy),30,198520,False,0.662,0.431,7,-12.224,1,0.0334,0.697,6.82e-06,0.0613,0.777,112.202,4,rock-n-roll
+3RCHByp4tFwehw7AqilrB7,Owe Thörnqvist,Sverigebesöket,Näcken,32,168133,False,0.625,0.783,7,-5.431,1,0.0387,0.615,0.0,0.0727,0.935,92.543,4,rock-n-roll
+5LIFunKJqv24wF9nQyo1So,Nelson Ned;Luiz De Carvalho,Jesus É Vida,Em Fervente Oração,32,229013,False,0.309,0.449,8,-6.273,1,0.0296,0.668,4.52e-05,0.179,0.234,90.484,3,rock-n-roll
+7uXktLVq43HeS4fPU4nQna,Bobby Rydell,The Best Of Bobby Rydell,Sway,54,140333,False,0.659,0.814,4,-5.364,0,0.036,0.603,0.0,0.559,0.937,122.962,4,rock-n-roll
+5NvNo6iJw4lZhjPGYlWnMw,Fats Domino,The Complete Imperial Singles,I'm Ready,32,123133,False,0.652,0.934,5,-3.89,1,0.0497,0.629,0.000377,0.327,0.971,85.845,4,rock-n-roll
+4YCnTYbq3oL1Lqpyxg33CU,Chubby Checker,Dancin' Party: The Chubby Checker Collection (1960-1966),The Twist,62,155040,False,0.571,0.618,4,-5.682,1,0.0371,0.18,2.69e-06,0.178,0.852,156.892,4,rock-n-roll
+2v9mhshNkMH1bc16GPgHt2,Los Freddy's,20 Éxitos Populares,Francamente,31,160760,False,0.8,0.441,3,-7.942,1,0.0317,0.499,0.0,0.207,0.463,104.122,4,rock-n-roll
+0rZFY2cnAlMSu7t9GegK9M,The Good The Bad and The Zugly,Research and Destroy,Nostradumbass,30,201943,False,0.409,0.884,4,-5.604,0,0.0344,1.72e-05,0.0442,0.187,0.443,139.955,4,rock-n-roll
+3qXBG1Zx3oU3Oyd37xbICU,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Mangos,31,147800,False,0.46,0.538,2,-12.641,1,0.102,0.643,0.0,0.328,0.648,126.399,4,rock-n-roll
+7AMlEGVu51mpYeNm8LiGtC,Grupo Yndio,12 Super Exitos,Pirata De Amor,31,178960,False,0.641,0.409,0,-15.412,1,0.0304,0.172,1.79e-06,0.101,0.679,103.959,3,rock-n-roll
+3cVUGijv6ROFeNjsyK8VJY,Los Sinners,15 Exitos del Rock & Roll,La Carrera del Oso,31,123977,False,0.538,0.494,10,-11.332,1,0.0471,0.897,0.0,0.214,0.881,116.642,4,rock-n-roll
+5ZiS8LSnCJd3zwMLkmHc2y,Los Tukas,Tesoros De Coleccion - Los Tukas,Albricias,31,172133,False,0.376,0.353,9,-11.551,1,0.0314,0.621,0.0,0.145,0.616,183.75,4,rock-n-roll
+6punhea3aLO1amgBFe5Onz,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,Gracias por el Recuerdo (Thanks for the Memory),32,172666,False,0.312,0.372,5,-9.472,1,0.0273,0.61,0.0,0.38,0.332,82.965,4,rock-n-roll
+6SQ9613M40JO7U4MtT0qmw,Mike Laure,15 Éxitos,Cuando Sali De Cuba,31,134698,False,0.75,0.528,0,-9.347,1,0.0363,0.759,0.0,0.256,0.968,133.816,4,rock-n-roll
+3FkzSXO9uZbQ4sgRgR8O0m,Fats Domino,The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them,Let The Four Winds Blow - Remastered 2002,32,138693,False,0.588,0.494,10,-10.687,1,0.0525,0.535,0.0155,0.0942,0.964,91.964,4,rock-n-roll
+5kM1MTkDfvvPDkw9KVSEBC,Los Tukas,15 Exitos,Mis Noches Te Recuerdan,30,141213,False,0.571,0.587,0,-8.755,1,0.031,0.185,9e-06,0.0853,0.818,101.084,4,rock-n-roll
+0lxZo8brQB2p9tCCOUoGmg,Los Teen Tops,Serie De Colección 16 Autenticos Exitos,Quiero Ser Libre - I Want to be Free (Remasterizado),31,151400,False,0.477,0.496,4,-9.028,1,0.0304,0.641,0.0,0.179,0.639,95.067,3,rock-n-roll
+6Oq3A4IxlvSU2PQVWb7D3G,Grupo Yndio,20 Exitos,Lagrimas Por Un Recuerdo,30,138004,False,0.406,0.663,5,-7.285,1,0.0294,0.107,0.0,0.0949,0.694,166.089,4,rock-n-roll
+3agQa2P1Kr5YAq58nvIT8t,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Rock Nena Linda (Rock Pretty Baby),31,107533,False,0.525,0.641,4,-6.825,1,0.0793,0.572,0.0,0.253,0.919,95.273,4,rock-n-roll
+5vEkDdJAhgaw5DLxLnT9QM,Los Tukas,15 Exitos,Mananitas A La Madre,31,199333,False,0.55,0.504,11,-10.15,1,0.0278,0.595,0.0,0.0989,0.611,98.641,4,rock-n-roll
+0Siww2WnFlL7BZDZFQNmRC,Nelson Ned,Antologia (Volumen 2),Yo También Soy Un Sentimental,31,215306,False,0.259,0.388,9,-13.121,0,0.0413,0.5,0.0,0.0814,0.397,175.293,3,rock-n-roll
+4jdm1Jt9YnHr7Mbef7wupm,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,Te Hubiera Conocido un Poco Antes,31,176866,False,0.683,0.391,7,-12.189,1,0.0478,0.683,0.0,0.118,0.723,112.368,4,rock-n-roll
+3Qu7AjfnzbCW7lrMOM6AK7,Los Baby's,Sólo para enamorados,Como un duende,30,170226,False,0.554,0.338,9,-10.831,1,0.0298,0.644,0.0,0.0899,0.54,105.577,4,rock-n-roll
+4k9kb8ykwYIlDX3Kvai0tX,Los Hooligans,Loco - Vintage Rock en Español,Adios A Jamaica [Album Version],31,134746,False,0.53,0.489,5,-10.104,1,0.0395,0.905,0.0,0.138,0.75,128.521,4,rock-n-roll
+5pmKTGyN0l9aEvmhJKc0nq,Estela Nuñez,Lo Esencial de Estela Nuñez,Cielo Rojo,31,213000,False,0.379,0.311,2,-10.096,0,0.0273,0.644,0.0,0.349,0.324,95.713,3,rock-n-roll
+7m5Lo4mHFrwPdMs2klNMdO,Los Baby's,Sólo para enamorados,Quisiera amarte menos,31,205573,False,0.478,0.25,0,-14.215,1,0.0339,0.102,1.03e-06,0.446,0.383,105.787,4,rock-n-roll
+2S6XOQqWqUBIySUU00vMru,Frankie Valli & The Four Seasons,New Gold Hits,Beggin',57,170626,False,0.59,0.356,2,-14.656,0,0.0404,0.0651,0.0,0.167,0.375,129.639,4,rock-n-roll
+1jFhnVoJkcB4lf9tT0rSZS,The Righteous Brothers,The Very Best Of The Righteous Brothers - Unchained Melody,Unchained Melody,61,216266,False,0.361,0.219,0,-16.553,1,0.0285,0.563,0.0,0.558,0.26,98.532,3,rock-n-roll
+7gxW8hMXEUkc1G3m7z9vei,Bobby Darin,The Legendary Bobby Darin,More - Remastered 2004,58,145933,False,0.498,0.484,5,-8.74,0,0.0315,0.481,0.0,0.243,0.691,152.498,4,rock-n-roll
+3KHJcWcCoITtaP8q6XJkdY,Bobby Darin,Hello Dolly To Goodbye Charlie,More - 2001 Digital Remaster,55,145240,False,0.518,0.52,8,-9.128,1,0.0362,0.726,0.0,0.233,0.682,152.791,4,rock-n-roll
+6yP3V5FXNNJU8Z441vxhCV,Elvis Presley,Platinum - A Life In Music,It's Now or Never,55,193906,False,0.633,0.365,4,-14.94,1,0.0403,0.428,0.00378,0.569,0.743,126.266,4,rock-n-roll
+0tHcXWIYt99GY8BONrPIfA,Elvis Presley,For LP Fans Only,That's All Right,59,115280,False,0.655,0.405,2,-9.825,1,0.036,0.808,1.33e-06,0.116,0.696,105.272,4,rock-n-roll
+5usNPz6U1acDrkUYekGYDY,The Crystals,Wall of Sound: The Very Best of Phil Spector 1961-1966,Then He Kissed Me,55,158853,False,0.44,0.682,4,-7.416,1,0.0373,0.681,3.33e-05,0.207,0.626,135.917,4,rock-n-roll
+3Z4ZuDrY684IFTBz2ze708,The Spencer Davis Group,Gimme Some Lovin' / Blues In F,Gimme Some Lovin' - Single Mix,64,178840,False,0.598,0.564,0,-6.454,1,0.032,0.216,0.000204,0.277,0.43,147.619,4,rock-n-roll
+06PdA0DLgF4BfAeUNZAbFG,Fats Domino,Fats Domino Swings,Blueberry Hill,61,147880,False,0.489,0.499,11,-9.702,1,0.0271,0.74,0.000236,0.156,0.829,133.341,3,rock-n-roll
+67zcTh67oLsdyYlnLjnzby,Los Fredy´s,Nuestros Primeros 20 Éxitos,Aquel Amor,30,185013,False,0.425,0.802,4,-0.326,1,0.0405,0.687,0.0,0.282,0.424,116.638,3,rock-n-roll
+6k5QsifpMWtY5ilnzBZ0u4,The Hollies,Confessions of the Mind (Expanded Edition),He Ain't Heavy He's My Brother - 1998 Remaster,61,262266,False,0.304,0.421,7,-7.769,1,0.0293,0.46,4.03e-05,0.163,0.216,75.928,4,rock-n-roll
+7un6jYnJseGTF6SFe7dapm,Los Pasteles Verdes;Fernando Arias,Historia: Discografía Completa,Y Tengo Miedo,31,221000,False,0.515,0.503,7,-9.774,1,0.04,0.656,3.63e-05,0.0549,0.406,81.813,4,rock-n-roll
+5YkCAxfI29GQb45v0mteWk,Rafael Vázquez;Rondalla Mexicana Del Chato Franco,Que Seas Feliz,Sueño Imposible,30,141966,False,0.413,0.333,2,-9.627,0,0.0632,0.827,0.0,0.11,0.33,189.419,4,rock-n-roll
+7jGzYUZ2Bgg8BDfYlQRfn8,The Troggs,From Nowhere,Wild Thing,65,155333,False,0.453,0.658,9,-13.472,1,0.0539,0.741,0.0288,0.135,0.761,203.871,4,rock-n-roll
+3UgiXDauVuj9HZKzFY8TBL,The Dictators,Bloodbrothers,Stay With Me,32,250506,False,0.426,0.98,2,-5.056,1,0.0823,0.00205,0.00177,0.343,0.395,158.725,4,rock-n-roll
+3tNyFKxcFszV0TiDDJsYVx,Elvis Presley,Elvis Now,Hey Jude,56,271573,False,0.333,0.338,3,-15.48,1,0.0278,0.783,0.000116,0.11,0.627,78.662,4,rock-n-roll
+4av2x96C9yjPyq0szOd63h,Johnny Rivers,Rewind,Tracks Of My Tears,31,180800,False,0.423,0.39,2,-13.829,1,0.0292,0.591,0.0,0.312,0.7,100.475,4,rock-n-roll
+44IRk3JU9STse043Fkz9Nw,Elvis Presley,Elvis 2nd To None,Kentucky Rain,29,198200,False,0.432,0.444,0,-8.914,1,0.0333,0.567,2.51e-06,0.107,0.546,105.868,4,rock-n-roll
+7qRK3Ho1Ihv8gJMXxKfKZm,Los Superclasicos,20 Rock's de los 60's en Español Vol. 1,Melodía de Amor,30,141560,False,0.67,0.521,0,-12.68,1,0.0419,0.826,1.49e-05,0.0715,0.963,152.129,4,rock-n-roll
+3mDwh1BzfsDeP3KOL9OyrW,Jorge Muñiz;José Luis Duval,Boleropera II,A Mi Manera,31,259000,False,0.403,0.451,5,-4.994,1,0.0288,0.195,3.32e-05,0.219,0.274,73.99,4,rock-n-roll
+7FzVgFOvltyHGJwZhBXJsz,Grupo Lluvia,"Colección De Oro: Hitazos De Los 70s Con Grupo Lluvia, Vol. 3",Hay Luto En Mi Alma,31,263918,False,0.455,0.527,0,-6.903,1,0.0273,0.612,1.09e-06,0.183,0.377,148.076,4,rock-n-roll
+1k47DfB1O0Yp7DC2lQx7up,Mike Laure,Cosas Del Ayer,Toda Una Vida,30,133416,False,0.764,0.496,11,-8.554,0,0.0339,0.507,0.0,0.0839,0.96,114.647,4,rock-n-roll
+3cIyT6Vc8eusiDoae76IjK,La Tropa Loca,La Tropa Loca,Un Sueño,30,194604,False,0.421,0.699,0,-6.277,1,0.0427,0.137,0.0,0.124,0.628,203.657,3,rock-n-roll
+2TmzCiBdiXUWpJ57mUUvDf,Sonia Rivas,Sonia Rivas,En las Buenas y en las Malas,30,192600,False,0.432,0.486,9,-10.375,1,0.0303,0.673,0.0,0.0382,0.27,149.958,4,rock-n-roll
+4CgPuVBwWT8ZGDaQi566St,Alberto Vazquez,Baladas,Necesito De Ti,31,197230,False,0.653,0.615,1,-9.676,0,0.0366,0.187,3.04e-06,0.0758,0.534,144.582,4,rock-n-roll
+37pfH2dpsJ0fFOZsrAhABo,Los Apson,12 Grandes exitos Vol. 2,El marcianito Bzz Bzz,30,138866,False,0.619,0.737,0,-7.987,1,0.0585,0.191,0.0,0.343,0.914,154.499,4,rock-n-roll
+17Hvwi97oKipA2h6evwzdM,Los Crazy Boys,Rock & Roll,La Novia de Mi Mejor Amigo,30,145533,False,0.666,0.697,5,-8.182,1,0.0295,0.716,0.0,0.224,0.973,134.488,4,rock-n-roll
+2Mveqy7F9UNjt44ZqRyu8E,Enrique Guzman,Sentimental y Alegre,Mavi (Mavie),30,162813,False,0.304,0.296,0,-13.53,1,0.0279,0.727,8.69e-06,0.367,0.197,98.094,3,rock-n-roll
+63EGslqVxh4qwvqGMl3vMA,michael holliday,Anthology: The Deluxe Collection (Remastered),The Story of My Life - Remastered,30,135047,False,0.651,0.549,9,-7.528,1,0.0432,0.813,0.262,0.297,0.888,139.179,4,rock-n-roll
+5kMe9YRcA4rLFdR4KFovHe,Grupo Yndio,Éxitos De Época (De Colección),Melodia Desencadenada,30,230106,False,0.23,0.332,0,-11.348,1,0.0321,0.415,4.47e-06,0.0776,0.2,186.519,3,rock-n-roll
+2bZQp5FZcLjgqTzoBF0SD5,Johnny Laboriel,"Historia Musical de Mis Exitos, Vol. 2",Señora Corazón: Tema Festival Oti,30,218174,False,0.374,0.449,0,-9.837,1,0.029,0.605,0.028,0.0466,0.512,78.305,4,rock-n-roll
+2m3CiuNfygDlbOZogliu9P,Jorge Muñiz,Serenata Vol. 2 Desvelo De Amor,Como Han Pasado Los Años,30,218050,False,0.441,0.388,10,-7.027,1,0.0473,0.46,1.49e-06,0.262,0.566,179.752,4,rock-n-roll
+5imMVggvBrWxJ4hnLexkhd,Gualberto Castro,20 Grandes Exitos,Qué Mal Amada Estás,30,212106,False,0.36,0.494,8,-11.173,1,0.0463,0.669,0.0,0.179,0.516,168.455,4,rock-n-roll
+6vaNJjyWP2sEPebcTpVsqL,Los Freddy's,20 Éxitos Populares,Que Se Te Ofrece,30,202106,False,0.857,0.369,8,-12.067,0,0.109,0.618,1.45e-06,0.106,0.615,99.494,4,rock-n-roll
+0nzlGGgKUsFFst5lXASVjv,Manoella Torres,Libre Como Gaviota,Libre Como Gaviota,31,157000,False,0.326,0.25,4,-16.368,1,0.0359,0.504,0.0,0.318,0.442,149.489,4,rock-n-roll
+7gc7RRrsSiTPV7vBVy26MC,Jorge Muñiz;Amaury Gutiérrez,Serenata Vol. 2 Desvelo De Amor,Popurrí Los 3 Diamantes,31,321143,False,0.464,0.397,5,-7.412,1,0.033,0.567,0.0,0.0952,0.483,125.323,4,rock-n-roll
+23LQimhaFmor64X8zlbNwL,The Blasters,The Blasters Collection,Marie Marie,30,125906,False,0.412,0.81,7,-10.655,1,0.0725,0.0363,1.1e-05,0.104,0.966,174.362,4,rock-n-roll
+70SPrz2hD9DCD3Oy9bADAo,Angelica Maria,Angélica María Interpreta Ranchero y Norteño,Tú Sigues Siendo el Mismo,30,268653,False,0.591,0.206,2,-14.158,1,0.0267,0.569,3.02e-06,0.213,0.442,94.547,3,rock-n-roll
+4D6fftpnLbNB6EfQRsacuW,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Cien Kilos de Barro (100 Pounds of Clay),31,156626,False,0.523,0.554,0,-8.572,1,0.0307,0.2,0.0,0.704,0.791,118.578,4,rock-n-roll
+44bOIQWj4jrb5L11ClihCc,Roberto Jordan;Estela Nuñez,"1,2,3 ¡Detente!",Una Razón para Creer (Reason to Believe),31,142813,False,0.546,0.265,1,-19.949,1,0.0269,0.375,4.15e-06,0.122,0.597,93.68,4,rock-n-roll
+1EOqrbAoknedZqtKuYublT,Enrique Guzman,Idolos del Rock de los 60's: Enrique Guzman,Magia Blanca,31,202240,False,0.636,0.647,2,-9.542,1,0.0313,0.194,0.0,0.783,0.883,138.493,4,rock-n-roll
+1IgSyV2PWkJNCFCLYHZdOw,Estela Nuñez,Estela Núñez (Con Mariachi),El Pastor,30,281000,False,0.439,0.13,0,-16.462,0,0.0309,0.744,0.00114,0.182,0.271,95.905,3,rock-n-roll
+6pLn8A7mhFxegIwTSyNulg,Los Hermanos Carrion,20 Exitos Colleccion de Oro,Lanza a tus Penas al Viento,31,198733,False,0.611,0.801,2,-8.522,1,0.0303,0.00159,0.0,0.0638,0.782,145.151,4,rock-n-roll
+1X2CMsrw2nhgbtkd7f7bhE,Alberto Vazquez,16 Éxitos: Baladas,La Historia De Mi Amor,31,146657,False,0.695,0.355,11,-7.843,0,0.0439,0.956,0.0,0.402,0.774,124.779,4,rock-n-roll
+5XTOStweq2Z2q0xoX8lzfw,The Fortunes,REGNIG DAG,Here Comes That Rainy Day Feeling Again,0,172533,False,0.728,0.695,2,-9.058,0,0.0391,0.519,0.0,0.124,0.836,120.932,4,rock-n-roll
+08xijbNrGSyR5XA4nPUvfk,Tommy Edwards,"The Vintage Christmas Album, Vol. 1",Christmas Is For Children,0,179528,False,0.331,0.28,2,-9.932,1,0.0316,0.979,0.135,0.0955,0.222,71.971,4,rock-n-roll
+34Nc86qo5wreXTDX496TRB,The Walker Brothers,(60's) Sixties Collected Volume 2,Make It Easy On Yourself,0,191986,False,0.384,0.503,9,-8.917,1,0.0306,0.072,0.000307,0.261,0.441,81.736,4,rock-n-roll
+7w3daSZKuzT1ANenzBkQFf,Los Baby's,Sólo para enamorados,El amor es para los dos,30,159826,False,0.69,0.625,4,-8.5,1,0.0341,0.598,0.0,0.0608,0.924,115.872,4,rock-n-roll
+6RPnoYSDNmth8Fab2Fky4H,Marco Antonio Muñiz,Lo Mejor De Lo Mejor De Marco Antonio Muniz,Lamento Borincano,30,244226,False,0.517,0.249,5,-11.445,0,0.0395,0.956,0.000459,0.1,0.431,118.397,4,rock-n-roll
+3TBpTpuJWV0xT38JxPEgKM,Angelica Maria,Tesoros De Colección - Los 5 Grandes del Rock,El Amor Es Triste - Love Is Blue,30,141000,False,0.618,0.409,7,-11.928,1,0.0304,0.739,1.37e-05,0.37,0.612,115.957,4,rock-n-roll
+6x8xIapc9xcZlJ9HpCkrm9,Bobby Vinton,16 Most Requested Songs,Mr. Lonely,45,160066,False,0.37,0.185,4,-14.335,1,0.028,0.804,1.35e-06,0.288,0.31,84.392,3,rock-n-roll
+5vZtw6zhx8bd7Umsv2w35x,Marmalade,Lovin' Things,Reflections Of My Life,57,256560,False,0.393,0.203,7,-15.365,1,0.0266,0.283,0.00212,0.109,0.415,93.798,4,rock-n-roll
+1sbUdoRASGk8sOqCCCTlcB,Jimmy Clanton,This Is Jimmy Clanton,Another Sleepless Night,50,131266,False,0.58,0.306,5,-9.484,1,0.0296,0.73,0.0,0.157,0.72,79.978,4,rock-n-roll
+2PaRgKXIroJJ351nwLmIe0,Petula Clark,The Classic Collection,Downtown,20,185066,False,0.495,0.54,4,-9.647,1,0.0389,0.718,0.0,0.163,0.559,118.359,4,rock-n-roll
+0PkBTqRtN25z3oKasWoKlj,Roy Orbison,Sings Lonely and Blue,Only the Lonely,61,145533,False,0.57,0.529,5,-10.769,1,0.028,0.377,0.00509,0.203,0.934,123.273,4,rock-n-roll
+3PNLqKBbWaTBGt9Y1lM1eB,Frankie Avalon,Frankie Avalon,Why,30,157718,False,0.408,0.213,5,-14.843,1,0.0295,0.869,0.0,0.101,0.643,94.608,4,rock-n-roll
+2RFdF7zbWTPPSJYnEVVoLZ,Los Apson Boys,Atras de la Raya,Atras de la Raya,30,142628,False,0.513,0.829,5,-6.725,1,0.072,0.639,0.0,0.039,0.963,173.983,4,rock-n-roll
+3OLM1nHABTctXiDs0S8UOh,Los Juniors,"Amores Incomparables, Vol. 4",A Través de los Años,29,161826,False,0.408,0.387,1,-10.935,1,0.0386,0.754,1.69e-05,0.109,0.539,139.148,3,rock-n-roll
+6h72WfMcjw6KhWDUiQAcGZ,Enrique Guzman,Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman,Acompáñame,30,202533,False,0.346,0.32,1,-11.515,1,0.0292,0.672,0.0,0.148,0.401,103.774,4,rock-n-roll
+1z9GHAYy5cSzeh4rRnafSN,Sonia Rivas,20 Éxitos,Con Tu Misma Moneda,30,213466,False,0.639,0.476,8,-10.393,1,0.0315,0.748,0.0,0.0915,0.528,98.065,4,rock-n-roll
+5nY0Hb0b7fDhgRjJi4Y3Kt,Los Locos Del Ritmo,Pólvora,Amorcito,29,135706,False,0.653,0.754,4,-8.753,1,0.0468,0.404,0.000186,0.114,0.962,146.533,4,rock-n-roll
+3HGeJ1QGVntSTMe8FTGo4j,Los Apson,Peerless 80 Aniversario - 24 Exitos Vol. 1,Triste luna (Mr. Moonlight),30,160266,False,0.599,0.378,8,-6.326,0,0.0346,0.686,2.41e-06,0.451,0.674,117.649,4,rock-n-roll
+03yJYejZ2kaKIx38tNksm9,Los Pasteles Verdes,Los 20 Grandes Éxitos,Sin Ti,31,149906,False,0.502,0.397,0,-10.104,1,0.0283,0.114,0.0,0.254,0.631,113.426,4,rock-n-roll
+17ZHSBMtIhPrl9ePwZUS0i,Los Pasteles Verdes,Canta Aldo,Candilejas,31,282506,False,0.708,0.596,7,-6.776,1,0.0256,0.0813,0.000171,0.258,0.682,102.005,4,rock-n-roll
+5gtnCZPzSTAXiHonpjvcwC,Los Baby's,15 Grandes Inolvidables,Y Si Lloro Que,30,175093,False,0.563,0.352,11,-14.686,1,0.0288,0.195,0.0,0.4,0.613,93.851,4,rock-n-roll
+1oJZyWsgnK8NFzN6Vomqhf,Elio Roca,Simplemente . . . Éxitos !!!,Cómo Deseo Ser Tu Amor,30,220598,False,0.616,0.404,7,-8.07,1,0.23,0.663,0.0,0.284,0.364,157.74,4,rock-n-roll
+1O8WQ7itdoIBpEnUFDWVnc,Generacion 2000,Exitos De Oro,No Hay Amor,30,204056,False,0.591,0.414,9,-9.491,1,0.0294,0.771,5.46e-06,0.2,0.745,106.067,3,rock-n-roll
+11fNLqDB47gMKj7BHhR2Qr,The Everly Brothers,The Very Best of The Everly Brothers,Wake up Little Susie,61,123520,False,0.709,0.62,2,-9.382,1,0.034,0.318,0.0,0.0426,0.936,93.723,4,rock-n-roll
+0yAxoCBmhhLePavtzoFHoM,Elio Roca,Simplemente . . . Éxitos !!!,"Contigo, Aquí",30,252026,False,0.586,0.46,4,-7.932,0,0.0422,0.604,0.0,0.13,0.524,99.854,1,rock-n-roll
+6mVfECocbMVldtwXFlYFoc,Alberto Vazquez;Manolo Muñoz,Rancheras Inmortales,Si Nos Dejan,30,163683,False,0.544,0.414,11,-8.062,0,0.0326,0.751,0.0,0.0719,0.46,97.021,4,rock-n-roll
+73pv1cbhOFsL4hSp7TwwLz,Sonia Rivas,Tesoros De Coleccion - Sonia Rivas,Aquella Flor y Tu Voz,30,201106,False,0.707,0.477,0,-8.223,1,0.0493,0.562,0.0,0.184,0.837,124.886,4,rock-n-roll
+2f6iMlqdATvXcnrJBhncOh,Paco Cañedo,La Fiebre del Rock and Roll,Cuando Volverás (Ginny Come Lately),29,167013,False,0.495,0.252,9,-16.604,1,0.0291,0.42,0.0,0.0809,0.401,99.317,4,rock-n-roll
+4klWZZU1MW4MYTXHGvvq10,Jorge Muñiz,Azulejos 2,Qué Lástima,30,274240,False,0.523,0.333,7,-10.165,1,0.0303,0.79,5.06e-06,0.698,0.401,147.299,4,rock-n-roll
+5ohwecZgSsvYj3rJOQrqlI,Mike Laure,Sabor Y Ritmo Con Mike Laure,A Tabasco,29,153321,False,0.496,0.611,5,-8.877,0,0.0499,0.213,1.08e-05,0.0583,0.974,206.354,4,rock-n-roll
+4BxY1gnqICuaP6qg2Nw5HV,Alberto Vazquez,La Voz Romántica de Alberto Vazquez,La Felicidad Llegó,30,145217,False,0.665,0.454,2,-7.84,1,0.0284,0.426,0.0,0.158,0.871,94.482,4,rock-n-roll
+2huvYgcL2c9ortiXWtHOIx,Owe Thörnqvist,14 x Owe Thörnqvist,Varm korv boogie,31,114786,False,0.364,0.841,7,-4.1,1,0.0728,0.401,0.0,0.175,0.933,175.067,4,rock-n-roll
+5vSve2QrxwxV6hXh9eXfCY,Angelica Maria,Ellas Cantan Asi,El Hombre de Mi Vida,30,194440,False,0.529,0.316,2,-15.325,1,0.0339,0.755,0.0,0.293,0.433,137.622,4,rock-n-roll
+0De50i0ncXQiU30WxASCQU,Los Baby's,Antología...Los Baby's,Regresa ya,30,210226,False,0.468,0.51,0,-5.944,1,0.029,0.821,0.0,0.108,0.51,95.703,4,rock-n-roll
+7gsqJ3tFw9BJtHCdROsAUC,Palito Ortega;Charly García,Rock & Roll,Popotitos (with Charly García),30,226786,False,0.659,0.731,9,-6.82,1,0.0322,0.105,0.0,0.0977,0.848,125.068,4,rock-n-roll
+3ZlZMY6etWSckMd4HpYJhM,Cesar Costa,Corazón Loco,Corazón Loco (Cuore Mato),30,168613,False,0.705,0.648,6,-6.686,0,0.0383,0.562,0.000572,0.155,0.789,137.714,4,rock-n-roll
+7BkqcPCSAVYxP3J3PfzN2t,Marco Antonio Muñiz,Canta Ranchero,De Qué Manera Te Olvido,30,174236,False,0.461,0.607,0,-8.558,1,0.0343,0.759,0.0248,0.661,0.496,98.981,4,rock-n-roll
+0z6HJqiMPXPO2zTmODCQ3v,Los Saylors,"20 Baladas del Recuerdo, vol. 3",Golpe traidor,29,238293,False,0.754,0.428,3,-6.669,1,0.0395,0.798,5.68e-05,0.101,0.914,106.916,4,rock-n-roll
+45lLiyP1kYkdlbIg5mHpAI,Johnny Dinamo,Los Grandes Éxitos Del Rock & Roll (En Español) Vol. 3,Cuando Apenas Era Un Jovencito,30,124104,False,0.671,0.549,4,-8.031,1,0.0433,0.0998,0.0,0.0944,0.96,149.09,4,rock-n-roll
+3uquKTKXYemmQZPnY25fiB,La Tropa Loca,Viajeros en el Tiempo,Creo Estar Soñando,29,172253,False,0.455,0.562,7,-6.96,1,0.0325,0.792,0.0,0.133,0.679,179.287,4,rock-n-roll
+5knZ2ikyoLL2b6zoCDU7Mg,Palito Ortega,Palito Siempre Primero,Sabor a Nada,30,175840,False,0.241,0.472,4,-6.258,0,0.0295,0.683,0.0,0.215,0.438,182.664,3,rock-n-roll
+5vDE5gNeKaoBfVnjqFgcfc,Los Tukas,Tesoros De Coleccion - Los Tukas,Nacimos para Amarnos,30,154400,False,0.547,0.369,2,-8.527,1,0.0302,0.655,0.0,0.248,0.547,96.836,4,rock-n-roll
+6eVMz5vDxBxZOje3PlNmEQ,The Good The Bad and The Zugly,Research and Destroy,Diet 1-2-3,30,237234,False,0.334,0.919,9,-5.921,1,0.0854,2.86e-05,0.00221,0.267,0.292,188.966,4,rock-n-roll
+2Jfsnt07szICCDxFEvgBNP,Estela Nuñez,Estela Núñez (Con Mariachi),No Volveré,30,200026,False,0.417,0.161,0,-15.638,1,0.0356,0.483,0.0,0.715,0.484,97.312,4,rock-n-roll
+6i867qZvO3A53f4uPJCrf3,Backstreet Girls,Party On Elmstreet,Gimme Just A Second,29,150226,False,0.379,0.83,5,-11.786,1,0.0339,0.00114,0.000568,0.346,0.536,174.059,4,rock-n-roll
+13mtGi7CVCoHdLfM3bejvF,The Good The Bad and The Zugly,Misanthropical House,Vik Bak Meg Satan,30,215176,True,0.545,0.954,7,-7.554,1,0.0827,0.000484,0.0,0.366,0.383,124.956,4,rock-n-roll
+5GROhpzQgoBi7EFbjmfjVH,Los Freddy's,Con Banda,Nada gano con quererte - Con banda,30,193200,False,0.687,0.338,6,-8.798,1,0.0283,0.295,1.01e-06,0.111,0.63,68.229,4,rock-n-roll
+3MxdMMQ8Rmkmnal7FKqRjr,Nelson Ned,Coleccion Suprema Plus- Nelson Ned,Si Las Flores Pudieran Hablar,30,242573,False,0.419,0.548,11,-3.082,1,0.0256,0.0717,0.0,0.0748,0.256,87.341,4,rock-n-roll
+5NpLeFA93egooOzqIh9jZu,Enrique Guzman,Grandes éxitos (Remastered),El mar - Remastered,30,179004,False,0.462,0.374,2,-10.694,0,0.0341,0.712,0.0,0.108,0.653,132.705,4,rock-n-roll
+7cmdqmWXQarqdQkbTpyYwx,Los Brios,"Los Brios ""Por Siempre",Yo Se Que Acordaras (De Mi) - Nueva Version,30,216826,False,0.733,0.401,9,-11.958,1,0.0287,0.321,0.0,0.101,0.693,98.08,4,rock-n-roll
+211DD7Jn9yDiqquNS09Iwd,Grupo Yndio,20 Exitos,Linea Telefonica (Telephone Line),30,267781,False,0.43,0.504,9,-6.531,1,0.0308,0.111,0.0,0.0986,0.313,74.766,4,rock-n-roll
+4RyW9qyWhEU0UY3Nwh4mFN,Alberto Vazquez,16 Éxitos: Baladas,Lanza Tus Penas Al Viento,30,146842,False,0.612,0.306,10,-11.611,1,0.121,0.937,1.49e-05,0.14,0.5,127.283,4,rock-n-roll
+0ZhPJLmuj6QrRHLOC3eAQC,Alberto Vazquez,16 Éxitos: Baladas,Cuando Calienta El Sol,30,175194,False,0.43,0.34,7,-8.303,1,0.0322,0.756,9.05e-05,0.439,0.397,83.325,4,rock-n-roll
+3u8yV3BNmVKhh4epeyS7dG,Los Solitarios,Serie Diamante (USA),Hay cosas inolvidables,30,169680,False,0.387,0.51,0,-9.855,1,0.0327,0.711,4.16e-06,0.161,0.64,96.83,4,rock-n-roll
+7epXbE0HjHnDrPfbYpl3eq,Marco Antonio Muñiz,Lo Mejor De Lo Mejor De Marco Antonio Muniz,A Donde Quiera,30,233640,False,0.283,0.507,7,-10.73,0,0.092,0.485,0.0011,0.108,0.408,168.382,4,rock-n-roll
+4fJLhUt5v9cR6x0AqTYRky,Estela Nuñez,Lo Esencial de Estela Nuñez,Volverás,30,231146,False,0.255,0.342,0,-9.902,1,0.0339,0.795,0.0,0.173,0.342,80.873,3,rock-n-roll
+1DndHckdH9m5rp6gYP086b,Dion,Runaround Sue,Runaround Sue,67,171600,False,0.364,0.607,2,-9.791,1,0.125,0.451,0.0,0.251,0.598,79.987,4,rock-n-roll
+2OCoH12t6olzx9bT1PEC8F,Chuck Berry,Rockin' At The Hops,Let It Rock - Single Version,56,102800,False,0.632,0.716,10,-12.387,0,0.0646,0.581,2.48e-05,0.181,0.935,164.851,4,rock-n-roll
+2oRn0QuaWQ1hragGQ7XZ9s,Cliff Richard,40 Golden Greats,Devil Woman,53,214575,False,0.71,0.792,0,-5.996,1,0.0453,0.0792,3.32e-05,0.0871,0.858,116.687,4,rock-n-roll
+5blcqgpsuKhm0WQwMsmywj,Elvis Presley,The Best of The '68 Comeback Special (Live),Trouble / Guitar Man - Live from the '68 Comeback Special,58,206373,False,0.435,0.828,0,-8.764,1,0.101,0.31,4.07e-05,0.667,0.743,116.141,4,rock-n-roll
+47y8hRlWLEJ4VafE6LMjEZ,Elvis Presley,The Essential Elvis Presley,A Little Less Conversation,59,132013,False,0.584,0.802,2,-8.03,1,0.0784,0.149,0.0,0.0683,0.835,114.172,4,rock-n-roll
+6vXZs9rEQF7Nd6O8Ue7NrT,Elvis Presley,"Elvis' Golden Records, Vol. 3",Are You Lonesome Tonight,53,187026,False,0.355,0.0922,7,-17.747,1,0.0515,0.918,0.000702,0.106,0.191,65.952,3,rock-n-roll
+39zODpVtRvghMyfNjZ3BVK,Elvis Presley,"Elvis' Golden Records, Vol. 3",Stuck on You,54,139640,False,0.647,0.513,7,-12.372,1,0.0421,0.758,8.64e-06,0.108,0.955,131.641,4,rock-n-roll
+44pN9jfSqY3d3lrKuv3QeN,Roy Orbison,In Dreams,In Dreams,57,169160,False,0.495,0.435,0,-9.99,1,0.0286,0.67,0.00038,0.13,0.71,108.189,4,rock-n-roll
+4cXnUi6qulwgj0fLSu0VYE,Elvis Presley,Almost in Love,Rubberneckin',59,133813,False,0.623,0.613,10,-10.099,1,0.0698,0.231,0.0,0.12,0.918,144.334,4,rock-n-roll
+6oRHRkQigTzJ3KwpO3XOV6,The Everly Brothers,The Very Best of The Everly Brothers,Bye Bye Love,59,142906,False,0.547,0.523,9,-9.176,1,0.0572,0.724,0.0,0.103,0.89,169.598,4,rock-n-roll
+7AXgOLyCNISp3Vp6GMiw1i,Ramon Marquez,Cógele Bien El Compás,Rico Vacilón,29,188035,False,0.825,0.657,3,-6.943,0,0.0686,0.726,1.36e-06,0.067,0.871,128.78,4,rock-n-roll
+01u6AEzGbGbQyYVdxajxqk,Elvis Presley,Elvis' Golden Records,Don't Be Cruel,58,122893,False,0.697,0.55,2,-11.496,1,0.179,0.856,3.44e-05,0.0907,0.844,84.802,4,rock-n-roll
+44NCulyppVZYaNS9o1ZNNJ,Los Yorsy's,Managua Nicaragua,Qué Familia,29,150906,False,0.666,0.559,9,-6.197,1,0.0472,0.71,0.0,0.602,0.964,125.233,4,rock-n-roll
+1hzLMLNIlLgrThcVYUDO62,Josue,30 Años de Exitos,Mi Linda Esposa,29,163666,False,0.668,0.436,4,-8.54,1,0.0298,0.234,1.12e-06,0.108,0.594,101.381,4,rock-n-roll
+0cLZ9ecuhocv99BICMb59O,Jay & The Americans,Come A Little Bit Closer,Come A Little Bit Closer,57,168853,False,0.594,0.716,3,-8.429,1,0.043,0.659,0.000829,0.363,0.847,132.309,4,rock-n-roll
+7FhIxFg3PwfDHZhs0jRZsw,Bob Luman,Let's Think About Living,Let's Think About Living,29,124800,False,0.613,0.636,2,-13.398,1,0.0713,0.717,0.0,0.446,0.962,96.762,4,rock-n-roll
+3q2URclxH5kXPn2vou2jS1,Roberto Jordan,Para Que No Me Olvides,Mary Es Mi Amor,30,195709,False,0.41,0.563,4,-9.204,1,0.0299,0.354,0.0,0.194,0.565,201.714,4,rock-n-roll
+3eVm1ftWpDoMZWZAHDKGcn,Jorge Muñiz,Serenata,"Popurrí ""Los Panchos""",29,298942,False,0.562,0.521,0,-6.974,1,0.0353,0.629,4.82e-06,0.17,0.683,99.429,4,rock-n-roll
+6G0pvWAQmwlzrLcP4T2XZn,Sonia Rivas,Sonia Rivas,Lo Nuestro Era Amistad,29,187906,False,0.457,0.346,6,-12.048,1,0.0323,0.823,0.0,0.0986,0.555,111.565,4,rock-n-roll
+5f8lcz6WmN77t1v01oi0ov,Peter Pan Speedrock,Premium Quality … Serve Loud,Resurrection,30,174000,False,0.43,0.98,11,-5.112,1,0.0879,0.00119,0.00475,0.101,0.577,153.411,4,rock-n-roll
+6VLQi7jri4fiE8BFXEiOez,Jorge Muñiz,Azulejos 2,Corazón Partio,29,274013,False,0.574,0.54,3,-9.027,1,0.0579,0.664,1.32e-06,0.693,0.641,83.856,4,rock-n-roll
+2ahDGFCrRQAu9gH9RqeSYT,Angelica Maria,Amame,Edi Edi,29,149328,False,0.53,0.744,2,-7.193,1,0.0432,0.85,0.0,0.214,0.975,141.812,4,rock-n-roll
+4Mx9vt5K7qVKhiaMoxK8Fz,The Moonglows,Their Greatest Hits: The Chess 50th Anniversary Collection,Ten Commandments Of Love,29,244533,False,0.407,0.0642,3,-17.702,1,0.0367,0.842,0.0,0.12,0.232,84.8,3,rock-n-roll
+324hWEJxNZ0ONeEzqlPRAj,Sonia Rivas,Sonia Rivas,El Reencuentro,30,210906,False,0.397,0.416,0,-10.534,1,0.0314,0.667,4.46e-06,0.0969,0.258,76.252,4,rock-n-roll
+4qsI4NwXnOSmmIBdVEDpRe,Warren Smith,The Legendary Sun Classics,Red Cadillac And A Black Moustache,29,138973,False,0.653,0.437,2,-16.212,1,0.034,0.572,0.000141,0.247,0.772,77.806,4,rock-n-roll
+5aXXUbzXqdMyCgC7E6jdTs,Johnny Maestro;The Crests,For Collectors Only,The Angels Listened In - Stereo,30,125440,False,0.534,0.559,0,-10.264,1,0.0682,0.63,0.0,0.362,0.868,147.101,4,rock-n-roll
+1UprRw114SQfZLpz35XdBl,Los Moonlights,15 De Los Moonlights,Con la Luna Llena (In the Misty Moonlight),29,154400,False,0.519,0.247,5,-16.248,1,0.0355,0.157,0.0,0.414,0.783,116.011,4,rock-n-roll
+08qQS8u0SqbiZ8hnUKxJlh,Mike Laure,Boleros Con Mike Laure,Tampico,29,140701,False,0.705,0.465,5,-6.449,1,0.0302,0.677,0.0,0.215,0.811,130.977,4,rock-n-roll
+5cXcm5yJJGbqYCD17TyWxH,Los Strwck,15 Exitos,Un Sueño,29,195056,False,0.606,0.418,11,-10.191,1,0.0393,0.621,0.0,0.113,0.272,81.999,1,rock-n-roll
+362FM0bdOWFdKt3NWVrqiq,Imelda Miller,Exitos de Imelda Miller,La Banda Dominguera,29,144783,False,0.591,0.654,11,-7.927,1,0.0839,0.482,0.0,0.713,0.962,119.147,4,rock-n-roll
+1L6029U8dgubxgANpj59SP,Los Baby's,Antología...Los Baby's,Va cayendo una lágrima,29,171000,False,0.481,0.421,4,-9.869,1,0.0987,0.762,0.000228,0.487,0.81,165.455,4,rock-n-roll
+7q62nEDFHW4Zdp6VRlB8sD,Los Corazones Solitarios,16 Exitos Serie de Coleccion,Mi Angel de Amor,29,173746,False,0.334,0.538,0,-11.523,1,0.0418,0.0258,0.516,0.434,0.284,189.325,3,rock-n-roll
+0aH8SQxdgigxxGaH0RvIyM,Roberto Jordan,Roberto Jordán,Hazme una Señal,30,147356,False,0.683,0.6,0,-12.877,1,0.0503,0.699,0.111,0.419,0.921,123.019,4,rock-n-roll
+0BAKqOChWlX4eTmEyIzk7B,Little Gerhard,Greatest Hits II,Ahab araben,30,196360,False,0.598,0.626,0,-12.651,1,0.201,0.698,0.0,0.0657,0.792,92.951,4,rock-n-roll
+7L6laDgYm7x2JbKdXtHVNw,Cesar Costa,Historia de un Amor,Historia de un Amor,30,136385,False,0.461,0.496,0,-13.603,1,0.0373,0.129,0.00161,0.194,0.888,134.13,4,rock-n-roll
+5fdYc5wpLgnN5BWrgdiNDj,Hep Stars,50th Anniversary 1964-2014,Sagan Om Lilla Sofie,30,203640,False,0.518,0.538,2,-7.314,1,0.0287,0.103,0.000476,0.493,0.56,77.117,4,rock-n-roll
+1CqlmFVsqVFzv5LPbHgt0P,Jorge Muñiz,Emociones,Popurrí Roberto Carlos,30,573049,False,0.452,0.454,9,-9.306,1,0.0338,0.608,1.75e-06,0.104,0.342,109.989,4,rock-n-roll
+3beXSl75AZaBHxVxDRGZ63,Los Cinco Latinos,Los Cinco Latinos,Quiereme Siempre (Love Me Forever),30,138333,False,0.417,0.556,10,-8.398,1,0.0371,0.816,1.28e-05,0.414,0.841,154.486,4,rock-n-roll
+4K7Ts5I4VYhKrxkbMZmP2J,Cool Candys,Cool Candys 3,Mustaschen,29,170536,False,0.723,0.819,6,-5.643,1,0.0378,0.4,0.0,0.417,0.964,111.341,4,rock-n-roll
+6VCcp9IEEyZg93ZlXZ2NCo,Sonora Maracaibo,20 Éxitos,No Dejes de Quererme,29,141897,False,0.527,0.281,2,-14.283,0,0.0306,0.432,0.00263,0.337,0.773,111.972,4,rock-n-roll
+1QnB5gB9sUKYISe2MHluzU,Johnny Rivers,Changes,California Dreamin',30,157666,False,0.56,0.226,0,-13.16,1,0.0347,0.872,0.0,0.0835,0.463,125.23,4,rock-n-roll
+08BV8hUgs3p7xJKDNseeiH,Manoella Torres,La Gran Colección del 60 Aniversario CBS - Manoella Torres,Acaríciame,30,265000,False,0.363,0.438,11,-12.024,0,0.0582,0.801,0.0,0.13,0.286,86.955,4,rock-n-roll
+0YKzNVdniFbIygZieYMeBW,Cesar Costa,Grandes Éxitos Vol.2,Adan y Eva,30,145658,False,0.459,0.435,4,-8.006,0,0.0391,0.845,2.74e-05,0.181,0.649,100.698,4,rock-n-roll
+1M1o7j25xuHXTAjRSH8ulv,Jorge Muñiz,Con La Gente Que Me Gusta,Me Va Me Va / Con La Gente,30,316240,False,0.701,0.632,0,-7.852,1,0.0644,0.425,0.0,0.0967,0.763,101.918,4,rock-n-roll
+1TqK433GmmiRzqoB69ivho,Sandie Shaw,(60's) Sixties Collected Volume 2,Long Live Love - Remastered 2004,0,162133,False,0.536,0.469,0,-8.759,1,0.0571,0.599,0.0,0.237,0.898,151.58,4,rock-n-roll
+56poPCRfDXkAdX7AvWLU4A,Enrique Guzman,60 Aniversario En Vivo (En Vivo/Vol.2),Pensaba En Ti - En Vivo,30,176440,False,0.527,0.669,9,-5.941,1,0.0303,0.384,0.00131,0.36,0.505,96.388,3,rock-n-roll
+5Iqh58mh9xHzOkXNorHibJ,Estela Nuñez,Estela Nuñez... Sus Primeras E Inolvidables Grabaciones,Ruega por Mí (Prega Per Me),30,201493,False,0.494,0.404,0,-10.108,1,0.0299,0.847,0.0,0.122,0.386,96.387,3,rock-n-roll
+40FvNcBeirJxKWUNd0rKlK,Los Brios,30 Anos De Exitos,Chau Chau Maria,30,206200,False,0.528,0.481,0,-8.846,1,0.0271,0.107,7.55e-06,0.115,0.513,159.721,4,rock-n-roll
+5jEMfipJriE8xdWDSQaxnS,Marco Antonio Muñiz,Coleccion Original,Adelante,30,126573,False,0.421,0.33,9,-8.508,0,0.0279,0.802,0.0,0.213,0.508,96.943,4,rock-n-roll
+5SevxrD3IuTyu4y3YcPrLe,Los Solitarios,Antología. . . Los Solitarios,Somos un corazón,29,164546,False,0.366,0.333,7,-12.817,1,0.0335,0.0932,2.36e-06,0.233,0.601,101.773,3,rock-n-roll
+7p6ZGUXjUe0ctAu5RNnghu,Chuck Berry,Pulp Fiction (Music From The Motion Picture),You Never Can Tell,46,161453,False,0.581,0.687,7,-14.152,1,0.15,0.694,7.05e-05,0.305,0.892,157.291,4,rock-n-roll
+4yT5usLhavd4mzP14LSiPU,Elvis Presley,"From Elvis Presley Boulevard, Memphis, Tennessee",I'll Never Fall In Love Again,56,224680,False,0.295,0.374,2,-11.457,1,0.0293,0.836,0.385,0.137,0.293,145.302,3,rock-n-roll
+4yt0DRCLWr1608bGXGcD5u,Elvis Presley,Spinout,I'll Remember You,53,165053,False,0.468,0.298,4,-15.661,1,0.0286,0.845,0.044,0.249,0.36,78.127,4,rock-n-roll
+7lsnsM39mjdDKEbge48Ezx,The Skyliners,Since I Don't Have You (50th Anniversary Golden Edition),Since I Don't Have You,53,159663,False,0.286,0.522,6,-5.329,1,0.0312,0.237,0.0,0.32,0.564,142.538,4,rock-n-roll
+5KcWjNtUm8gnNEMsfAYxlt,Tommy James & The Shondells,Anthology,Draggin' the Line,52,165866,False,0.68,0.519,1,-11.437,0,0.066,0.0504,1.13e-05,0.197,0.667,114.533,4,rock-n-roll
+7HgkQxxpt8CW8NqUVJF0Eh,Jimmy Clanton,This Is Jimmy Clanton,Venus in Blue Jeans,55,143826,False,0.497,0.762,1,-4.462,1,0.038,0.354,5.89e-05,0.278,0.727,111.534,4,rock-n-roll
+4zzXm1QJQXWLyUfFhWZBRg,Elvis Presley,Elvis 30 #1 Hits,Don't Be Cruel,57,122866,False,0.68,0.675,2,-7.998,1,0.191,0.772,0.0,0.069,0.805,84.967,4,rock-n-roll
+0DDkW8j34M5hvxj79uGmK7,Frankie Avalon,Greatest Hits,Venus,29,143493,False,0.558,0.483,10,-10.229,1,0.0291,0.732,2.76e-05,0.131,0.745,115.184,4,rock-n-roll
+2eSj0HHwB9aHJQ7zFOu90G,Elvis Presley,From Elvis in Memphis,Don't Cry Daddy,57,167746,False,0.44,0.196,2,-17.375,1,0.0272,0.804,8.95e-06,0.179,0.333,85.776,4,rock-n-roll
+2jXIuTi3U8XRpTuNNKdRrB,Los Moonlights,15 De Los Moonlights,Leticia Isabel,28,197533,False,0.451,0.145,7,-15.98,1,0.0291,0.428,0.0,0.209,0.367,96.104,3,rock-n-roll
+1sU96xA3zs1yx4hDboSpIO,Los Baby's,20 Grandes de los Baby's,Porque,29,183626,False,0.723,0.318,4,-15.12,1,0.0342,0.0229,2.09e-06,0.462,0.439,112.157,3,rock-n-roll
+50RwvvEKX5Q7AZt8FTAwIF,Buddy Holly,That'll Be The Day,That'll Be The Day,62,150133,False,0.536,0.637,2,-7.774,1,0.0343,0.467,0.0,0.0838,0.798,115.24,4,rock-n-roll
+2yr2B0HXnbQhVSwx7JdeOC,Josue,Mis Primeros 20 Éxitos,Engaño,29,197933,False,0.403,0.54,9,-5.484,1,0.0282,0.634,0.00126,0.0746,0.382,92.321,4,rock-n-roll
+40fD7ct05FvQHLdQTgJelG,Bobby Darin,Bobby Darin,Splish Splash,59,131719,False,0.645,0.943,0,-1.526,1,0.0393,0.385,0.0,0.37,0.965,147.768,4,rock-n-roll
+5FGtIsIxZ7eQxvwprE0ckY,Sonia Rivas,20 Éxitos,Flauta de Pan,29,203866,False,0.253,0.355,4,-10.13,1,0.034,0.749,4.82e-05,0.346,0.191,173.732,3,rock-n-roll
+34hg27mKsLglOhcFtCuuB1,Los Baby's,Antología...Los Baby's,Cariño,29,145200,False,0.698,0.27,6,-10.746,1,0.0441,0.393,0.0,0.188,0.573,110.585,4,rock-n-roll
+05eNEozACh10Rn0ewFnH8Y,Bill Haley & His Comets,Rockin' The Joint,"See You Later, Alligator",54,166840,False,0.663,0.758,10,-10.07,0,0.0571,0.272,0.0,0.319,0.814,157.198,4,rock-n-roll
+2ONw4JM2Br30KSyhuZsSIB,Los Pasteles Verdes,Canta Aldo,"Mi Querido, Mi Viejo, Mi Amigo",30,228413,False,0.773,0.653,11,-6.787,0,0.0394,0.0797,0.0,0.304,0.763,124.958,4,rock-n-roll
+09MDUuCWmLV73BK0uGZVgR,The Carburetors,"Pain Is Temporary, Glory Is Forever","Allright, Allright",28,205973,False,0.439,0.956,11,-3.812,0,0.0697,0.0027,0.0,0.196,0.364,97.591,4,rock-n-roll
+2OuojzM7CTpXIi30uKFPRN,Johnny Dynamo,20 Exitos de los Grandes Años del Rock And Roll,Al Ritmo de la Lluvia,28,146573,False,0.646,0.368,4,-15.714,1,0.0409,0.0926,0.0,0.0598,0.749,124.724,4,rock-n-roll
+0NfmP1GSjXTWxwGXJwpkJX,Los Freddy's,Idolos Gruperos: 30 Grandes Exitos,Tu Incomparable Sonrisa,29,168120,False,0.457,0.623,9,-2.106,0,0.0266,0.506,0.0,0.316,0.796,102.778,4,rock-n-roll
+2crVwyjmXwg5ljSLiRdhXr,Alberto Vazquez;Manolo Muñoz,Rancheras Inmortales,Leña De Pirul,30,159791,False,0.405,0.45,2,-7.2,1,0.0346,0.587,0.0,0.288,0.652,145.514,4,rock-n-roll
+32J3bDBXz2d4um5EnB5zsa,Johnny Dinamo,Los Grandes Éxitos Del Rock & Roll (En Español) Vol. 3,Ángel De La Mañana,29,191047,False,0.701,0.491,2,-8.29,1,0.0243,0.608,0.000207,0.0979,0.567,89.048,4,rock-n-roll
+4YwQ3BccBBKrjWGSfKRdGh,Los Polifaceticos,Coleccion Suprema Plus- Los Polifaceticos,Vuelve,29,198373,False,0.445,0.62,4,-7.024,1,0.0353,0.56,5.32e-05,0.471,0.612,99.234,4,rock-n-roll
+2QDpjHhd6IFzcBUxrdKUtW,Los Superclasicos,20 Rock's de los 60's en Español Vol. 1,Buen Rock Esta Noche,28,133933,False,0.524,0.492,9,-14.06,1,0.0883,0.498,0.0175,0.0822,0.832,196.129,4,rock-n-roll
+2n0kEcNkYwKtYKTumPznE9,Angelica Maria,La Basurita,La Basurita,28,145240,False,0.811,0.378,9,-7.448,1,0.0549,0.76,2.9e-06,0.0374,0.873,109.533,4,rock-n-roll
+2P9GEVzibbdG0q5rbpxdc9,Sergio Esquivel,Por Ti...,Después de Ti,29,175333,False,0.547,0.305,2,-8.751,1,0.0321,0.877,1.07e-05,0.103,0.187,139.521,4,rock-n-roll
+7Cugqd8YfpwvGxCkmJn9lH,Estela Nuñez,Para Toda la Vida,Cien Años,29,169946,False,0.542,0.259,5,-13.377,1,0.0278,0.506,0.0,0.488,0.709,101.694,4,rock-n-roll
+2pFyqaViQHNs36eMyyn85q,Turbonegro,Apocalypse Dudes,"Don`t Say Motherfucker, Motherfucker",29,130520,False,0.321,0.938,4,-3.28,0,0.0405,1.05e-05,3.02e-05,0.311,0.762,165.068,4,rock-n-roll
+2k2JAseX1EmLXI2VOv8S54,Los Apson,Peerless 80 Aniversario - 24 Exitos Vol. 1,Sueña dulce nena - Dream Baby -,29,149013,False,0.56,0.454,3,-9.118,1,0.0332,0.762,0.0,0.111,0.865,90.693,4,rock-n-roll
+4nYQcuY0FLpmQiwrfKxhjs,Hermanos Carrion,La Onda Juvenil 25 Aniversario,Magia Blanca (Devil Woman),29,204880,False,0.571,0.593,4,-7.967,1,0.0358,0.845,0.0,0.177,0.777,136.178,4,rock-n-roll
+6iGKcuOyqflKHTPXXkEfXa,Cool Candys,Goa bitar,Dansa Hucklebuck,29,150893,False,0.474,0.802,8,-9.912,1,0.0536,0.282,7.15e-05,0.0866,0.887,160.768,4,rock-n-roll
+4VFgikNc8JVEjp4vo2svQl,Los Hermanos Carrion,"Hermanos Carrión, Vol 1",Un Viejo Amor,29,170135,False,0.724,0.261,7,-19.102,1,0.0306,0.835,0.000613,0.0767,0.716,87.868,4,rock-n-roll
+2cwfeQgbK60Xuibd7Avp7j,Marco Antonio Muñiz,Cantandole A Venezuela,Muchacha De Ojos Negros,29,146548,False,0.609,0.433,2,-12.276,0,0.0393,0.8,5.25e-06,0.148,0.906,81.134,3,rock-n-roll
+50BvReVNqB97JYQwe4y7ZT,Los Solitarios,Los Solitarios (Un Millón de Besos),A Través del Amor (Under Stars of Love),29,146813,False,0.625,0.18,6,-14.472,1,0.0283,0.824,1.17e-06,0.308,0.505,93.45,3,rock-n-roll
+4qFj5gfmr0u5qhuLVlN1QZ,Sergio Esquivel,Un Tipo Como,San Juan de Letran,29,160133,False,0.802,0.497,2,-14.376,1,0.0423,0.639,1.98e-05,0.0901,0.884,142.23,4,rock-n-roll
+53PMFHY2ALYyMUU69PXrrH,Mike Laure,Boleros Sabrosos,Palabras De Mujer,29,132272,False,0.62,0.577,2,-4.982,1,0.0444,0.408,0.0,0.0746,0.59,123.008,4,rock-n-roll
+4NhFaw4t0Jtihruigm13zZ,Jan & Dean,The Teammates: Twenty Years of Making Music 1965-1985,Louisiana Man (with Session Intro),2,237933,False,0.604,0.584,9,-11.631,0,0.339,0.733,0.00955,0.232,0.859,148.087,4,rock-n-roll
+0Ld0qJ0c7LUnJwpbSnp0mY,Grupo Yndio,15 Grandes Exitos,Mar De Amor (Sea Of Love),29,212088,False,0.537,0.602,9,-7.306,1,0.0252,0.117,0.0,0.15,0.495,105.677,3,rock-n-roll
+6bWDWlFoeqADIHVC5X3KFE,Angelica Maria,Exitos del Rock & Roll,Siempre Sola,29,186749,False,0.216,0.343,10,-7.565,1,0.0327,0.854,1.99e-06,0.967,0.157,79.963,4,rock-n-roll
+5BmajovUhJUrZf59h1BKqu,Los Chicanos,15 Éxitos de Oro,Puente de Piedra,29,225360,False,0.628,0.274,7,-18.713,1,0.0385,0.627,1.09e-05,0.123,0.447,95.881,4,rock-n-roll
+0i02Kc3QwlaLx6bTNaxrl6,Los Hermanos Carrion,20 Exitos Colleccion de Oro,Lagrimas de Cristal,29,169266,False,0.694,0.53,4,-11.278,1,0.0762,0.382,0.00165,0.0939,0.961,137.53,4,rock-n-roll
+6MDObv540osUeQ2u1qlfs7,Los Pasteles Verdes,Éxitos Eternos,Te Amo y No Soy Correspondido,30,199861,False,0.727,0.635,4,-9.041,1,0.0607,0.159,6.27e-06,0.263,0.678,122.451,4,rock-n-roll
+3N35KfOEekTaN0uctl7gLt,Jan & Dean,Wiggle Wobble (50's & 60's Collection of Music),Heart and Soul,0,129453,False,0.577,0.68,4,-7.362,1,0.0313,0.501,0.0,0.212,0.913,125.069,4,rock-n-roll
+0M3KmhJ2QHE2tGXS9zq4ml,Los Xochimilcas,Antología...Los Xochimilcas,Que se Mueran los feos,28,132240,False,0.275,0.825,10,-3.869,1,0.0663,0.777,0.000241,0.737,0.935,198.905,4,rock-n-roll
+7CCapeC42r39AlXeyFEPs7,Enrique Guzman,60 Aniversario En Vivo (En Vivo/Vol.2),Quiero Ser Libre/Anoche No Dormí - En Vivo,29,267586,False,0.46,0.628,4,-5.971,1,0.0301,0.356,9.77e-05,0.794,0.385,96.578,3,rock-n-roll
+0uhwGiAqqhrXp9Rtv9lTLa,Tommy Roe,(60's) Sixties Collected Volume 2,Dizzy,0,177480,False,0.736,0.595,6,-5.847,1,0.0355,0.000512,0.0118,0.144,0.719,102.011,4,rock-n-roll
+1X1MdQKW9jW2XvpsOyGVMR,Grupo Yndio,15 Grandes Exitos,Herida De Amor (Love Hurts),29,240091,False,0.441,0.538,9,-8.29,1,0.0279,0.0773,0.0,0.114,0.224,79.024,4,rock-n-roll
+1HxmciCZuRwYfoCkUT8iQK,Los Sinners,Loco - Vintage Rock en Español,La Carrera Del Oso,29,128199,False,0.537,0.459,5,-12.922,1,0.0497,0.84,0.0,0.091,0.885,116.629,4,rock-n-roll
+0Pn067BGQUueWIR7MDVDRO,Los Hooligans,La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans,Hotel de los Corazones Rotos (Heartbreak Hotel),29,102306,False,0.545,0.69,11,-8.952,1,0.12,0.21,0.0,0.149,0.87,101.546,4,rock-n-roll
+2hEwjc5DZVPcC4cVVBuMr5,Elvis Presley,"Elvis' Gold Records, Vol. 4",(You're The) Devil In Disguise,56,140680,False,0.483,0.579,5,-13.923,1,0.116,0.481,0.00141,0.242,0.891,122.527,4,rock-n-roll
+1KLpjQFgubHI3GkAICCNH3,Bobby Darin,The Ultimate Bobby Darin,Dream Lover,59,150706,False,0.526,0.774,5,-1.692,1,0.0459,0.715,0.0,0.437,0.715,131.715,4,rock-n-roll
+6UM5WX0bgEkcv1CzKWyacv,Pat Boone,Pat Boone's Greatest Hits (Reissue),Sugar Moon - Single Version,47,115200,False,0.463,0.0924,10,-16.966,1,0.0278,0.957,0.00508,0.135,0.333,70.343,4,rock-n-roll
+2jSOD3Ki2aY8R9GcVrcqBI,Sandy Posey,One Man Woman,Single Girl,52,152947,False,0.657,0.381,10,-10.865,1,0.0308,0.769,0.0,0.108,0.692,106.93,4,rock-n-roll
+0obIo2GEab6qqms6t3JaMY,Bruce Channel,Hey! Baby (Deluxe Edition Remastered),Hey! Baby - Remastered,62,143627,False,0.515,0.623,9,-5.597,1,0.036,0.359,0.0,0.274,0.643,64.253,4,rock-n-roll
+7DBHT8SI35z5I8sssBJ2WP,Elvis Presley,Always On My Mind (Rehearsal),Always On My Mind - Rehearsal,55,264680,False,0.502,0.463,7,-13.144,1,0.0434,0.726,0.00965,0.238,0.394,92.279,4,rock-n-roll
+2kVQpubE6URKKj9L7Upk2l,Elvis Presley;Lisa Marie Presley,Where No One Stands Alone,Where No One Stands Alone (with Lisa Marie Presley),54,220106,False,0.345,0.291,0,-8.748,1,0.0278,0.641,0.0399,0.151,0.299,136.751,3,rock-n-roll
+2ctgZALPuTO2TkF5BVm0vS,Los Matematicos,Go-Go en Rojo,La Niña Bu (Ring Dang Doo),28,142946,False,0.654,0.697,4,-10.402,1,0.0382,0.253,0.0,0.165,0.943,145.052,4,rock-n-roll
+6H4YevxmxUxNgDbCRl4GU0,Tommy Edwards,It’s All In The Game: The Best Of Tommy Edwards,Please Love Me Forever,52,154560,False,0.533,0.37,10,-12.607,1,0.0267,0.652,0.0,0.101,0.587,110.548,3,rock-n-roll
+0fonScmHUzC0MglSLn9saA,The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,Da Doo Ron Ron (When He Walked Me Home),59,140120,False,0.535,0.797,3,-7.533,1,0.0459,0.48,3.42e-05,0.141,0.613,148.835,4,rock-n-roll
+1xkqx6iXlSYaqNgLcfrDaA,The Bones,Straight Flush Ghetto,Not a Lovesong,29,181453,False,0.416,0.963,2,-4.491,1,0.0845,0.00544,0.000249,0.182,0.429,160.121,4,rock-n-roll
+2njwHmNjXByi7oQZZr0ips,The Carburetors,Burning Love,Burning Love,28,204021,False,0.345,0.883,2,-7.354,1,0.0438,0.000714,6.04e-05,0.317,0.489,88.764,4,rock-n-roll
+6lyd1H0yh6gKZ6aPxhJ1Vu,Nelson Ned,Jesus Ressuscitou,Sonda-Me,29,278280,False,0.359,0.612,9,-4.353,0,0.0306,0.0904,0.0,0.0907,0.252,136.912,4,rock-n-roll
+3uwLRf5h1gnMkOfcjocjGi,Paul & Paula,Young Lovers (Nashville Mix),Young Lovers - Nashville Mix,29,155333,False,0.64,0.321,2,-10.695,1,0.0265,0.755,0.0,0.186,0.621,101.389,3,rock-n-roll
+5eei9FW7kTYWg9MRTzmee3,Raul Vale,25 Años de Éxitos,Quiéreme Tal Como Soy,28,205133,False,0.521,0.561,10,-9.972,1,0.0374,0.642,2e-06,0.0768,0.335,119.324,4,rock-n-roll
+4lrMwJB2kDo7EoERJE8ZeA,Rafael Vázquez;Rondalla Mexicana Del Chato Franco,Que Seas Feliz,No Vuelvo Contigo,28,163700,False,0.794,0.51,4,-7.017,1,0.0455,0.86,1.06e-06,0.275,0.822,108.242,4,rock-n-roll
+4TKNQtJbXfFPez1XICVktJ,Los Apson,Gruperos de ayer,No hay amor,28,153026,False,0.651,0.339,2,-9.859,1,0.0286,0.611,5.77e-06,0.0762,0.78,104.965,4,rock-n-roll
+6gny0vPDTDRkOMjtmnFgmJ,Los Pasteles Verdes,Canta Aldo,Amanecí Otra Vez,29,233493,False,0.585,0.472,7,-7.571,1,0.0507,0.0205,5.07e-06,0.2,0.5,159.754,4,rock-n-roll
+4f0HiyWZhreKLfnxof4uRu,New Bomb Turks,Destroy-Oh-Boy!,Born Toulouse-Lautrec,30,153880,False,0.165,0.906,1,-9.836,0,0.0766,0.000866,0.000618,0.326,0.347,152.779,4,rock-n-roll
+1D8Hz5NqFDeUhxEdJ77DfY,Los Reno,Sonidos del Amor (Vol. 1),Nos pertenecemos,28,111880,False,0.591,0.4,6,-10.376,0,0.0281,0.152,0.00017,0.23,0.156,112.114,3,rock-n-roll
+2VfvfFSVD1Ki0PH0Xd0jcv,Gerry & The Pacemakers,How Do You Like It? [Mono And Stereo Version],You'll Never Walk Alone - Stereo; 1997 Remaster,55,164173,False,0.48,0.235,0,-12.636,1,0.0318,0.172,4.56e-06,0.234,0.295,113.33,3,rock-n-roll
+6vZZ3XKpTKncNyS9fctRBy,Los Solitarios,12 Grandes exitos Vol. 2,Ya te perdí,29,157920,False,0.588,0.38,2,-8.728,1,0.0354,0.803,0.0,0.121,0.29,91.434,4,rock-n-roll
+6b9h2a5uVXmz28ryeGB3ra,Mayte Gaos,RCA 100 Años De Musica,Vete Con Ella (Chappel of Love),28,172720,False,0.68,0.423,2,-8.136,1,0.0279,0.774,0.0,0.32,0.658,125.807,4,rock-n-roll
+4NRQwaks9r58tTDvr4iEyv,Wilson Pickett,In the Midnight Hour,In the Midnight Hour,65,157160,False,0.75,0.444,4,-8.63,1,0.0403,0.12,3.69e-06,0.118,0.849,111.919,4,rock-n-roll
+7xxR2kNv2unGhoIepbsvqm,Roberto Jordan,Bolerissimo,Candilejas,29,200785,False,0.362,0.266,2,-14.054,1,0.0305,0.168,1.31e-06,0.122,0.261,180.164,4,rock-n-roll
+2eiIz2jHfujNYpKW7ch4zH,Manolo Muñoz,Exitos Inolvidables de Manolo Muñoz,Tus Ojos,29,171800,False,0.638,0.522,0,-7.001,1,0.0306,0.433,2.38e-06,0.0584,0.605,119.977,3,rock-n-roll
+1QF2cLdi0hsrXlzaNOmHoS,La Revolución De Emiliano Zapata,La Revolución de Emiliano Zapata 45 Aniversario,Nasty Sexo,28,380080,False,0.724,0.813,9,-5.53,1,0.0364,0.122,0.2,0.087,0.689,114.933,4,rock-n-roll
+2U18MztYGsKdOwlhShfQyi,Palito Ortega,Palito Ortega y Sus Exitos,La Llorona,29,177449,False,0.482,0.0876,2,-17.88,0,0.0548,0.922,0.0,0.101,0.488,168.133,3,rock-n-roll
+1ZGYAc1j0gA7xLz2ciAgBa,Los Corazones Solitarios,16 Exitos Serie de Coleccion,El Tiempo Que Haz Llorado,28,179386,False,0.488,0.484,4,-11.425,1,0.103,0.0441,0.278,0.265,0.723,91.962,4,rock-n-roll
+2Q5sHXMgubbFfiwi74FqsV,Mike Laure,Boleros Con Mike Laure,La Mesera,28,175240,False,0.775,0.697,5,-4.354,1,0.0374,0.788,0.0,0.0683,0.974,152.183,4,rock-n-roll
+28U9Y3R6hJtPUdVK7FFrhN,Gene Vincent & His Blue Caps,The Rock N' Roll Collection,Crazy Legs,28,131398,False,0.471,0.618,2,-10.299,1,0.04,0.538,0.0,0.331,0.769,169.514,4,rock-n-roll
+5K1dyxCpSIELa83Q6tIVDS,Los Dinner's,15 Grandes Exitos,El Perico Y Yo,28,195786,False,0.577,0.726,3,-5.393,0,0.0384,0.697,0.000235,0.163,0.926,90.19,4,rock-n-roll
+5RAcPBehNUWOpYVx8rxXKI,Los Corazones Solitarios,16 Exitos Serie de Coleccion,No Sigas Llorando,28,148613,False,0.443,0.513,4,-10.92,1,0.055,0.152,0.0189,0.491,0.61,95.525,4,rock-n-roll
+2CWcO0kduKYfsSHY8E3Iml,The Blasters,The Blasters Collection,American Music,29,127680,False,0.448,0.873,4,-10.266,1,0.0545,0.00873,2.88e-05,0.347,0.968,192.572,4,rock-n-roll
+71NnpQM1zu1iHj6LR3XSFI,Hermanos Carrion,Lo Mejor De Los Hermanos,Qué Inhumano (If I Didn't Have a Dime),28,144173,False,0.602,0.494,9,-10.619,1,0.0298,0.943,0.00528,0.111,0.789,113.853,4,rock-n-roll
+5sHfsGy5714nxQjqnTb9AN,Los Solitarios,Colección De Oro,Un Desengaño Mas,28,186697,False,0.271,0.441,7,-11.857,0,0.0328,0.0363,1.21e-06,0.442,0.586,93.362,4,rock-n-roll
+1CFOh8cEHWX5Qd6HMGZ2EV,Jorge Muñiz,Azulejos 3,Medley Tatuajes/Tu Cárcel,29,324026,False,0.793,0.386,5,-10.839,1,0.029,0.855,0.00024,0.188,0.752,100.017,4,rock-n-roll
+4lQgZK64ZMeDOQY4fghS2Y,Mike Laure,15 Éxitos,Los Borrachos Son Ustedes,29,170585,False,0.741,0.486,10,-9.553,1,0.0811,0.826,0.0,0.297,0.891,101.817,4,rock-n-roll
+2wSenI7HcUGPWt7NGFKEFQ,Enrique Guzman;Alejandra Guzman,60 Aniversario En Vivo (En Vivo/Vol.1),Popotitos/La Plaga - En Vivo/Medley,29,242333,False,0.574,0.913,9,-4.337,1,0.0572,0.274,0.0,0.971,0.776,132.169,4,rock-n-roll
+3cdX1QGG3nH0l9ELypSxr1,Angelica Maria,"Te Busco, Te Extraño",Te Quise Olvidar,28,204000,False,0.433,0.469,2,-4.98,1,0.0263,0.74,0.000547,0.498,0.372,100.011,3,rock-n-roll
+2MTNVoknkbqRIMHMNqs7WC,Los Ovnis,Loco - Vintage Rock en Español,La Última Vez,28,164440,False,0.517,0.686,9,-5.868,1,0.0313,0.67,0.000535,0.0979,0.558,87.773,4,rock-n-roll
+0G7CJLkSoZcQ4ToscCeCNT,Estela Nuñez,Con el Sentimiento de un Grande,No Me Trates Mal,29,157413,False,0.427,0.349,0,-7.231,1,0.0398,0.121,1.11e-05,0.597,0.495,199.337,3,rock-n-roll
+5hLH4yqTZUX9cpykeMo7Rs,Backstreet Girls,Sick My Duck,Hizbollah Rock'n'rollah,28,194173,False,0.325,0.919,4,-3.061,1,0.0559,0.00186,7.62e-05,0.213,0.406,99.41,4,rock-n-roll
+0XIgpDeAba8YhM1pvEDkXq,Los Tukas,Tesoros De Coleccion - Los Tukas,Mis Noches Te Recuerdan,28,133733,False,0.642,0.468,0,-10.414,1,0.0345,0.404,0.0,0.0702,0.769,107.956,4,rock-n-roll
+6rLqjzGV5VMLDWEnuUqi8q,Martha Reeves & The Vandellas,Dance Party,Dancing In The Street - Stereo,67,165226,False,0.556,0.57,2,-9.472,1,0.0393,0.0118,0.000526,0.198,0.304,126.01,4,rock-n-roll
+3g1SvPCQWfw4uP2gjux94b,Los Hermanos Carrion,20 Kilates,Entre la Lluvia y Mi Llorar,29,176613,False,0.665,0.263,0,-16.086,1,0.0249,0.595,2.3e-06,0.126,0.484,92.031,4,rock-n-roll
+1Dawu8rFPIJtemEb5NPnHP,Los Pasteles Verdes,Éxitos Eternos,No Se Que Tengo No Sé,30,163752,False,0.579,0.471,4,-12.98,0,0.0535,0.0689,0.000356,0.323,0.445,123.353,4,rock-n-roll
+1cjtX7ICjSMmemTD9y5tyk,Marco Antonio Muñiz,Coleccion Original,Que Murmuren,29,167506,False,0.345,0.633,0,-7.102,1,0.0336,0.821,0.000288,0.121,0.684,103.314,4,rock-n-roll
+6FEW9eacf1tzfedI1CbaBl,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,Cien Kilos de Barro (100 Pounds of Clay),29,155493,False,0.537,0.549,0,-8.893,1,0.0296,0.457,3.61e-06,0.547,0.884,118.63,4,rock-n-roll
+0SlxOCbMOZt5OyjDh1Owbl,Marco Antonio Muñiz,Lo Mejor De Lo Mejor De Marco Antonio Muniz,Popurrí Guajiro No. 2,28,188533,False,0.467,0.403,2,-10.138,1,0.0366,0.817,0.0,0.0447,0.635,128.513,4,rock-n-roll
+1Gv8dvKmkHVaB1edYvW0Fr,Paul Anka,Put Your Head On My Shoulder: The Very Best Of Paul Anka,Puppy Love - Remix,53,164000,False,0.29,0.408,7,-9.607,1,0.0318,0.662,0.0,0.272,0.542,102.229,3,rock-n-roll
+3WO8ZBnOtad3xMz46Z54pY,Bobby Vinton,16 Most Requested Songs,Blue Velvet,50,168000,False,0.418,0.153,10,-14.484,1,0.0293,0.879,4.23e-06,0.156,0.267,80.748,4,rock-n-roll
+6KDG8vvFerlCU63IXdw1zb,Elvis Presley,Elvis 30 #1 Hits,Suspicious Minds,60,272360,False,0.542,0.722,7,-5.065,1,0.0262,0.0516,1.18e-05,0.131,0.609,115.21,4,rock-n-roll
+1sue5MiV1Uq7KInSM6UGTj,Elvis Presley,How Great Thou Art,In the Garden,51,190786,False,0.314,0.122,7,-16.931,1,0.0289,0.975,0.0065,0.108,0.119,73.104,3,rock-n-roll
+603N4XGJUTbK760GLCvIIs,The Fleetwoods,Come Softly To Me: The Very Best Of The Fleetwoods,Come Softly To Me,56,144933,False,0.601,0.095,1,-18.478,1,0.0374,0.93,0.000285,0.116,0.672,122.975,4,rock-n-roll
+4ugBXQVxTzKLmdCRL7yRRa,Elvis Presley,"From Elvis Presley Boulevard, Memphis, Tennessee",Hurt,57,127453,False,0.607,0.479,2,-10.492,1,0.0273,0.894,0.668,0.182,0.587,111.368,3,rock-n-roll
+7ycFNferNuk6wAjBa0vWvl,The Diamonds,The Best Of The Diamonds,Little Darlin',59,129333,False,0.631,0.587,6,-11.402,1,0.042,0.536,0.29,0.333,0.664,152.851,4,rock-n-roll
+4JOpSaBuf6yABFxuiN36XF,Los Ovnis,Los Grandes Éxitos De Los Ovnis,Agujetas De Color De Rosa,28,133100,False,0.726,0.622,6,-8.231,0,0.187,0.125,0.0,0.118,0.846,153.594,4,rock-n-roll
+0snHlyyyUp2hKYEz7ffmkx,Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Never Be Anyone Else But You - Remastered,50,136266,False,0.577,0.45,0,-10.327,1,0.0352,0.127,7.28e-05,0.138,0.711,141.703,3,rock-n-roll
+6U7QjXYOaLJ741cIWPBTyN,Roy Orbison,The Essential Roy Orbison,I Drove All Night,59,226893,False,0.478,0.624,5,-11.16,1,0.0393,0.655,0.00197,0.114,0.579,138.708,4,rock-n-roll
+3QiAAp20rPC3dcAtKtMaqQ,Elvis Presley,Elvis' Christmas Album,Blue Christmas,59,129173,False,0.465,0.27,4,-16.661,1,0.0425,0.9,0.00104,0.145,0.58,94.518,4,rock-n-roll
+5oeFEW0WGSGEdXMDKNI4z4,Johnny Burnette,Johnny Burnette's Hits And Other Favorites,"You're Sixteen, You're Beautiful (And You're Mine)",51,119026,False,0.431,0.352,2,-11.673,1,0.0313,0.816,0.0,0.066,0.693,76.412,4,rock-n-roll
+7sgTB2w4PTeu4g2EUp6qjT,Los Fredy´s,Nuestros Primeros 20 Éxitos,El Pecador,28,170480,False,0.555,0.558,4,-2.058,0,0.0241,0.771,0.0,0.0892,0.307,94.091,4,rock-n-roll
+3mE7J6lKBJmHnwkXkzJabM,Polo Y Los Apson,15 Exitos Del Recuerdo,Solo Un Sueno,28,191786,False,0.474,0.347,7,-7.966,1,0.025,0.803,0.0,0.164,0.397,101.268,4,rock-n-roll
+0ZJ4VJ3dhlO0LUBSF6lO5V,Los Moonlights,15 De Los Moonlights,Sin Ti (Without You),28,167400,False,0.357,0.327,4,-13.35,1,0.0304,0.0398,0.0,0.0872,0.355,141.272,4,rock-n-roll
+4viGz9hEF5Dr71ABdbq8JJ,Los Strwck,Lo Maximo (The Best),El,28,179053,False,0.574,0.5,0,-8.561,1,0.0337,0.574,0.0,0.149,0.678,91.814,3,rock-n-roll
+6JeDLRfhKWAho4MCDkfzDe,Los Cuatro Soles,Inolvidables,Por Culpa De Tu Amor,28,166687,False,0.427,0.493,4,-10.539,0,0.0535,0.00615,3.44e-06,0.373,0.336,183.807,4,rock-n-roll
+6ycNjjdiIQRxcRkfeD240V,Los Fredy´s,Nuestros Primeros 20 Éxitos,La Hiedra,28,157293,False,0.42,0.554,2,-1.258,1,0.028,0.159,0.0,0.104,0.462,136.182,3,rock-n-roll
+5AsG3FPbBowITuDjspA8D4,King Clave,Grandes Exitos,Nuestro Juramento,28,206986,False,0.676,0.735,9,-6.614,0,0.0378,0.5,4.31e-06,0.109,0.561,122.234,4,rock-n-roll
+2IUeuG9fCgu5Ge4lpMgXaH,Los Baby's,15 Grandes Inolvidables,Suspenso Infernal,28,161906,False,0.608,0.353,5,-15.279,1,0.0285,0.561,0.0,0.113,0.785,99.545,4,rock-n-roll
+5xzdDMhFYiuUONB0Mha9VS,Little Eva,Llllloco-Motion,The Locomotion,61,139120,False,0.629,0.782,3,-9.595,1,0.0574,0.709,0.0215,0.304,0.736,128.973,4,rock-n-roll
+3PpbEUXlrpY8r7HV2OYMGr,Los Pasteles Verdes,Los 20 Grandes Éxitos,Ex Presidiario,28,176133,False,0.268,0.385,0,-11.749,1,0.031,0.374,0.0,0.0995,0.535,182.325,4,rock-n-roll
+41iti2jnVYqhlxWMcGsDa8,Bill Haley,"Las Grandes Leyendas Del Rock, Vol. 1",Rock Around the Clock,55,132101,False,0.523,0.511,2,-11.653,1,0.138,0.572,0.454,0.103,0.778,182.144,4,rock-n-roll
+4TBBPZks71c60whhq0PgdP,Jackie Wilson,The Ultimate Jackie Wilson,(Your Love Keeps Lifting Me) Higher & Higher,65,181066,False,0.631,0.69,2,-6.676,1,0.0531,0.176,0.0,0.121,0.938,94.574,4,rock-n-roll
+6PsiA6fWFPmblMogJQCMzM,Linda Vera,Tropicales de Siempre,Cumbia Que Te Vas de Ronda,28,138666,False,0.462,0.234,7,-18.632,1,0.0523,0.428,3.84e-05,0.0952,0.965,200.199,4,rock-n-roll
+0nzUmu4xYJSucNoDaxBVzz,Enrique Guzman,Grandes Canciones (Remastered),Una Lagrima en la Mejilla - Remastered,29,166813,False,0.59,0.399,0,-9.321,1,0.0322,0.774,0.0,0.106,0.811,101.579,4,rock-n-roll
+0S80vrUvbnoOlPVFAjesGc,Alberto Vazquez,Cosas de Alberto Vázquez,Creo Estar Soñando,29,163240,False,0.495,0.275,4,-11.136,1,0.0284,0.601,0.0,0.112,0.517,180.666,4,rock-n-roll
+2FlIV4B3MvdN44ta3RpcBx,Rafael Vázquez;Rondalla Mexicana Del Chato Franco,Que Seas Feliz,Que Seas Feliz (Anque No Sea a Mi Lado),28,238132,False,0.537,0.305,7,-9.978,0,0.0261,0.774,3.96e-05,0.403,0.46,94.716,4,rock-n-roll
+7ItZM6DMZE2m1X7yIaRxjq,Eddie Cochran,12 Of His Biggest Hits,C’Mon Everybody,58,118226,False,0.627,0.7,3,-9.657,1,0.0522,0.121,0.0111,0.188,0.856,175.33,4,rock-n-roll
+0WdNsj1tGFgnVYvbGq6qyv,Los Freddy's,La Hiedra,Preciso de Ti,28,220986,False,0.771,0.544,3,-10.024,1,0.0303,0.573,1.65e-05,0.189,0.798,117.534,4,rock-n-roll
+2gJGVeM1KOCXCNh5AbbIku,Leda Moreno,La Gran Epoca Del Rock En Español,La Montañesa,27,155333,False,0.484,0.386,0,-11.431,1,0.0279,0.909,0.0,0.143,0.695,106.583,4,rock-n-roll
+3QslWf6jjw6f0by37Zrupd,Frankie Avalon,Venus,Bobby Sox to Stockings,29,159948,False,0.608,0.405,7,-12.973,0,0.031,0.781,0.0,0.263,0.617,117.758,4,rock-n-roll
+0yj88HgmOz88bj1e9bk7TX,Alberto Vazquez,Si Pudiera Detener el Tiempo,Al Modo Mío,29,247906,False,0.572,0.428,2,-10.279,1,0.0258,0.056,1.54e-06,0.113,0.264,107.931,4,rock-n-roll
+0EyPK7qor5t10aO8ddptlB,Los Solitarios,Colección De Oro,Nunca Digas,28,164597,False,0.339,0.632,11,-9.629,0,0.0317,1.47e-05,0.00845,0.457,0.773,93.362,4,rock-n-roll
+5mrGm8drsrpQsmfD9Pzuvh,Sonora Maracaibo,La Mas Romantica de America,Naela,28,160313,False,0.641,0.262,2,-10.141,0,0.0277,0.892,0.0,0.178,0.46,98.02,4,rock-n-roll
+1nLr4BPL8q1w7OgUHk4mSQ,Alberto Vazquez,Baladas,Encarcelamiento,29,165953,False,0.782,0.365,9,-11.899,1,0.0413,0.627,0.126,0.11,0.501,115.474,4,rock-n-roll
+1QaRaVoZgcXi9Ir8bForVp,Mike Laure,Boleros Sabrosos,Noche De Luna En Jalapa,28,131991,False,0.757,0.482,5,-5.048,1,0.0513,0.818,0.0,0.296,0.962,123.913,4,rock-n-roll
+4UKoWrg6rVXUy2PVDsGcLg,La Tropa Loca,Las Canciones de Mi Vida,Mi Plegaria,27,188080,False,0.574,0.776,1,-5.653,0,0.0315,0.0367,3.16e-06,0.159,0.649,112.961,4,rock-n-roll
+4c1RN4umaw8fBeLGFSu7JL,Hep Stars,Svenska 60-tals Favoriter,I natt jag drömde något som,28,139453,False,0.4,0.326,2,-10.721,1,0.0279,0.515,0.0,0.359,0.503,72.874,3,rock-n-roll
+1Vy1yzb5ktmDwPO5TYiqPW,Los Locos Del Ritmo,Roots Of Rock En Español,Polvora,28,116253,False,0.687,0.888,9,-10.978,1,0.0885,0.725,0.0,0.108,0.892,92.737,4,rock-n-roll
+5NhsyYmw58vl3Jjhq7IMhY,Los Chicanos,Los Chicanos,No Pidas Más Perdón,28,181306,False,0.699,0.456,0,-13.625,1,0.0344,0.3,0.0,0.136,0.789,116.286,4,rock-n-roll
+075m6b1vB7f0CUZQlPhZNE,The Good The Bad and The Zugly,Algorithm & Blues,Welcome to the Great Indoors,28,254413,True,0.407,0.949,4,-7.267,1,0.0647,0.000181,0.000122,0.328,0.165,105.077,4,rock-n-roll
+1H8qHo0Jo0ALZ1x3hxqhD1,Marco Antonio Muñiz,La Serenata Del Siglo,A Donde Iran Las Almas,28,168773,False,0.594,0.17,5,-14.708,1,0.0461,0.933,0.0,0.212,0.438,111.909,4,rock-n-roll
+6z0tyKIUzITK4Avrd1ubOy,Fats Domino,The Complete Imperial Singles,I Hear You Knocking - Remastered 2002,29,116000,False,0.498,0.684,0,-4.813,1,0.0283,0.258,0.0,0.195,0.779,141.814,3,rock-n-roll
+1smbh1lcUXB7ZvlV9NlK3v,Angelica Maria;Mariachi Mexico,Angelica Maria Interpreta a Juan Gabriel y Otros Con el Mariachi Mexico,Me Gusta Estar Contigo,27,134826,False,0.784,0.414,9,-10.834,1,0.0593,0.685,1.09e-06,0.0459,0.961,115.029,4,rock-n-roll
+0xERMvJD8djz1ZBjPSRLvM,Don Gibson,RCA Country Legends: Don Gibson,Sea of Heartbreak,55,155040,False,0.59,0.586,7,-9.158,1,0.0344,0.422,4.46e-05,0.337,0.729,91.17,4,rock-n-roll
+4S51GXx1xzYwKAXiwf3ssx,Marco Antonio Vázquez,16 Exitos de Marco Antonio Vazquez,Besando la cruz,28,146693,False,0.593,0.403,7,-8.796,1,0.0485,0.856,4.32e-05,0.536,0.785,115.346,4,rock-n-roll
+6z2PLg3n6y0yrL2gi8qgPN,Hermanos Carrion,Discos Del Millón,Se Fue,28,141893,False,0.47,0.492,9,-12.184,1,0.032,0.928,0.000335,0.306,0.819,151.201,4,rock-n-roll
+69V5zjHCZzpu7qrqi0N0p6,Alberto Vazquez,16 Éxitos: Baladas,Cuando Brilla La Luna,29,145751,False,0.455,0.455,10,-7.539,1,0.03,0.863,0.0,0.0686,0.466,98.718,3,rock-n-roll
+6jZO5GYGEAxrvpWfurYMUZ,Enrique Guzman,La Gran Colección del 60 Aniversario CBS - Enrique Guzmán,La Noche del Sábado (Sabato Sera),28,100800,False,0.628,0.489,5,-11.479,1,0.0796,0.776,0.0,0.483,0.935,76.68,4,rock-n-roll
+0aD8W0ChzDgEKpB1zsJ8zv,Tommy James & The Shondells,Crimson & Clover,Crystal Blue Persuasion,55,242320,False,0.621,0.341,9,-11.447,1,0.049,0.102,7.78e-05,0.0652,0.578,98.554,4,rock-n-roll
+5PuAFxKmqG72uKyoo11zpQ,Paul Anka;Odia Coates,Anka,(You're) Having My Baby,53,156293,False,0.596,0.589,0,-8.747,1,0.037,0.551,0.0,0.0897,0.587,75.288,4,rock-n-roll
+6A28sLdLOf9vohN5LVl5KR,Elvis Presley,Platinum - A Life In Music,All Shook Up,58,117360,False,0.688,0.468,10,-12.503,1,0.15,0.89,0.000134,0.177,0.946,74.832,4,rock-n-roll
+0IHYNEHVT1zMEeNOgvyg9B,Chuck Berry,Fresh Berry's,My Mustang Ford,53,136546,False,0.621,0.759,0,-10.235,1,0.0335,0.384,0.118,0.336,0.977,162.92,4,rock-n-roll
+6xNwKNYZcvgV3XTIwsgNio,Elvis Presley,Elvis' Golden Records,Heartbreak Hotel,58,127560,False,0.696,0.21,4,-11.922,1,0.067,0.84,1.62e-06,0.107,0.717,93.543,4,rock-n-roll
+6uJXOi796U1D8iW9fj2ZGn,Wanda Jackson,The Capitol Singles 1959-1961,Funnel Of Love,56,128426,False,0.6,0.593,0,-9.799,1,0.0452,0.726,0.0,0.399,0.912,134.979,4,rock-n-roll
+4GqMYg91LJXiLjvQBFc3s0,Bobby Darin,Definitive Pop: Bobby Darin,Dream Lover - 2006 Remaster,55,151253,False,0.526,0.608,5,-6.855,1,0.0468,0.703,0.0,0.438,0.723,131.851,4,rock-n-roll
+6cTIBfHeUjl7JUq5FjvGf7,Los Yaki,La Gran Época de los Yaki,Teresa,27,188000,False,0.421,0.423,6,-13.976,1,0.0373,0.602,0.0,0.0581,0.782,118.163,4,rock-n-roll
+3aJJgr1X9wdxZpORCwIsCq,The Chiffons,The Best Of The Chiffons,One Fine Day,29,129333,False,0.457,0.602,6,-7.771,1,0.0346,0.49,0.0,0.499,0.904,89.271,4,rock-n-roll
+0YF7BsotVDPT91Q1LpAWty,Los Apson Boys,Atras de la Raya,Señor Apache,27,283689,False,0.602,0.578,9,-6.867,0,0.039,0.116,0.0,0.0954,0.438,97.8,4,rock-n-roll
+4fV0JX8psOmXACNG4Gd3JZ,Shakin' Stevens,The Bop Won't Stop,A Love Worth Waiting For,43,202013,False,0.659,0.882,3,-4.304,1,0.0307,0.0424,2.03e-06,0.114,0.922,130.697,4,rock-n-roll
+1sQ0z8UCVb9BAWvXrSqCPn,Los Camisas Negras,El Tigre,Fiebre,27,167926,False,0.653,0.293,1,-11.406,0,0.0336,0.798,0.0,0.335,0.319,113.445,4,rock-n-roll
+4LP7DuiOJjC6fGwzIazMyr,Nelson Ned,Coleccion Suprema Plus- Nelson Ned,Todavía Duele,28,207200,False,0.532,0.73,4,-5.994,1,0.0415,0.549,0.0,0.467,0.499,136.952,4,rock-n-roll
+1Cls464Epr7JDUxwyEbQEg,Sonia Rivas,Sonia Rivas,Amor No Te Guardo Rencor,28,172706,False,0.701,0.548,5,-10.52,1,0.0315,0.367,0.0,0.235,0.842,119.938,4,rock-n-roll
+7tTrHLvNCuOksffYMEp8Rv,Sonia Rivas,Sonia Rivas,No Soy Como Tu,27,184200,False,0.536,0.442,2,-8.649,1,0.0297,0.778,0.0,0.245,0.404,142.009,4,rock-n-roll
+0C13vJljh6hQUnDWbtf2UH,Josue,Mis Primeros 20 Éxitos,Piensa Morena,27,210720,False,0.454,0.816,4,-3.523,1,0.0367,0.11,0.0,0.163,0.681,108.118,4,rock-n-roll
+4LcrHUkRmXG3c0YD5VYutn,Danny & The Juniors,Rockin' With Danny And The Juniors (Expanded Edition),At The Hop,59,150866,False,0.407,0.826,8,-8.29,1,0.0495,0.693,1.57e-05,0.285,0.891,192.21,4,rock-n-roll
+2Rz3S19mFrLS9uZDvubntG,Los Brios,Los Bríos,Tengo Miedo,28,148140,False,0.44,0.634,2,-8.592,1,0.0289,0.246,0.0,0.689,0.493,94.501,4,rock-n-roll
+2eRDnR3l9CVtbGMdX30kgH,Sergio Esquivel,Para Todos Mis Amores,Por Amarte Así,28,176206,False,0.427,0.479,0,-8.874,1,0.0274,0.867,0.00336,0.129,0.56,80.201,4,rock-n-roll
+5NVMq3Dsy3V6PDBkTyz6PH,Elio Roca,Contigo y Aquí,Contigo y Aqui,27,236360,False,0.393,0.35,6,-10.048,0,0.0339,0.562,0.00103,0.0977,0.544,98.423,3,rock-n-roll
+7oFvnVEGN3hcThYaXFTSk3,Alberto Vazquez,Baladas,Inevitable,28,179954,False,0.735,0.367,7,-12.055,1,0.0379,0.359,1.02e-05,0.126,0.328,130.768,4,rock-n-roll
+0dDmigBsaykrkdLlcCR1Pg,Angelica Maria,30 Rancheras De Coleccion,Las Palomas,27,147617,False,0.582,0.501,9,-6.037,1,0.0376,0.551,5.25e-05,0.0972,0.638,116.567,4,rock-n-roll
+50CMrvmhkhoOIWnAT8Vva8,Marco Antonio Muñiz,Éxitos Inolvidables,Sabor a Mi,28,174660,False,0.449,0.803,11,-6.24,0,0.0446,0.171,1.11e-05,0.274,0.616,95.986,4,rock-n-roll
+1XHQ1Pgh9GQoYx2I7Urb4Q,Lety Cisneros,RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Español),Lo Siento,27,147080,False,0.573,0.454,10,-8.765,1,0.0279,0.799,0.0,0.303,0.565,115.335,3,rock-n-roll
+7t1eW5hjaSKaRFzeVMvJdb,Jorge Muñiz;Ana Velasco,Serenata,"Popurrí ""Los Tres Caballeros""",28,351530,False,0.481,0.422,0,-7.353,1,0.0395,0.61,0.0,0.0639,0.649,181.158,4,rock-n-roll
+51paoaZ6Ns16QRSobORJZ3,Los Hooligans,La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans,No Está Aquí,28,118426,False,0.417,0.686,6,-9.243,0,0.042,0.133,0.0,0.0717,0.973,143.448,4,rock-n-roll
+4USdB8vkBnJn4oR8JvSfto,Los Solitarios,Los Solitarios (Un Millón de Besos),Ésta Es Mi Historia,27,174360,False,0.551,0.173,6,-15.517,0,0.0306,0.818,4.07e-06,0.12,0.294,99.557,3,rock-n-roll
+1AhsWBIwA7eKaY0NivVxzz,Carmela Y Rafael,RCA 100 Años de Música - Segunda Parte,Un Hombre y una Mujer (A Man and a Woman),27,156786,False,0.581,0.372,10,-8.765,1,0.0293,0.442,0.0,0.434,0.417,66.204,4,rock-n-roll
+4FJaUD95SuKngRKb1M5yV3,Mike Laure,Rondando Tu Esquina,Fuiste A Acapulco,28,124633,False,0.68,0.586,0,-7.576,1,0.057,0.832,0.0,0.126,0.969,97.599,4,rock-n-roll
+4zae5PuQABqDYBCZtJ62Wo,Cesar Costa,Grandes Éxitos Vol.2,Diana,28,143333,False,0.451,0.523,5,-9.955,1,0.0305,0.778,1.84e-05,0.476,0.768,147.454,4,rock-n-roll
+0hwn115SSdnVqoom1qggQF,Los Teen Tops,La Plaga,El Rock de la Carcel,28,139624,False,0.628,0.476,2,-8.174,1,0.0512,0.665,0.00273,0.0576,0.645,90.314,4,rock-n-roll
+6yNmMB6Q1GysPt5TziGLhP,Enrique Guzman,15 Exitos De Enrique Guzman Vol. ll,Nunca Mi Amor,28,132293,False,0.403,0.448,0,-10.903,1,0.0293,0.467,0.000223,0.115,0.548,104.302,4,rock-n-roll
+6Xlnhht2brHigHH9qaXMQW,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Pensaba en Ti,28,203893,False,0.492,0.319,9,-11.747,1,0.0319,0.703,0.0,0.125,0.536,108.385,3,rock-n-roll
+1eGgjotq4YzIlHCSO5TOV6,Los Freddy's,Imágenes,Qué te ha dado esa mujer,28,187560,False,0.325,0.385,4,-14.233,1,0.0985,0.249,0.00149,0.234,0.584,87.067,4,rock-n-roll
+3uAq7iogI01PamnmOTYlFA,Los Solitarios,12 Grandes exitos Vol. 2,Siempre recuerdo - Take Time to Know Her,28,125813,False,0.482,0.527,4,-7.253,1,0.0286,0.776,0.0,0.142,0.54,82.28,3,rock-n-roll
+34h9MSa3iPLTDe10PlDOM2,Alberto Vazquez;Manolo Muñoz,Rancheras Inmortales,Compadecete Mujer,28,176744,False,0.395,0.384,7,-7.398,1,0.0282,0.375,0.0,0.147,0.524,83.206,4,rock-n-roll
+5a2z9zhMywwPXi70clzwq5,Los Pasteles Verdes,Éxitos Eternos,Olvidarte Jamás,29,261138,False,0.593,0.435,5,-12.84,1,0.0474,0.000412,0.328,0.0982,0.386,85.227,4,rock-n-roll
+1FfSrtVUdtkoUKxo9Alsdk,Los Hermanos Carrion,"Hermanos Carrion 50 Años, Vol. 1",Angel de Mi Vida,27,181864,False,0.596,0.353,0,-12.86,1,0.0268,0.15,0.0,0.127,0.432,93.954,4,rock-n-roll
+2f5ER3PDNoN5vbrLJtBVtU,Johnny Rivers,Changes,If I Were A Carpenter,29,154973,False,0.421,0.476,9,-10.552,1,0.0295,0.626,2.58e-05,0.137,0.828,150.283,4,rock-n-roll
+0yIq1aYIQ044YGQfpcZB9E,Hermanos Carrion,Magia Blanca,Creo Estar Soñando,27,167549,False,0.7,0.372,7,-14.622,1,0.0311,0.771,4.61e-05,0.074,0.747,87.915,4,rock-n-roll
+6GK7Z0wzM3iLNDuGFM6hhv,Alberto Vazquez,16 Éxitos: Baladas,Acompáñame,28,195291,False,0.3,0.329,9,-10.597,0,0.0303,0.953,0.00216,0.122,0.197,71.199,4,rock-n-roll
+4UVJxhnP2vhrwQaJmuB8Vd,Enrique Guzman,60 Aniversario En Vivo (En Vivo/Vol.1),Buen Viaje - En Vivo,28,189906,False,0.277,0.592,0,-4.444,1,0.0322,0.284,8.1e-05,0.839,0.23,111.743,4,rock-n-roll
+28LShwDy6gR9hKDUNKWCWX,Los Hermanos Carrion,Rock de los 60's,La Novia de Mi Mejor Amigo,27,169520,False,0.638,0.789,7,-4.888,1,0.0278,0.37,4.12e-05,0.102,0.849,129.389,4,rock-n-roll
+3soRlZEyTtu69KNZ0ZPLoj,Los Teen Tops,La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops,Quién Puso el Bomp (Who Put the Bomp),28,145133,False,0.443,0.578,9,-9.951,1,0.0331,0.715,0.0,0.295,0.918,90.208,4,rock-n-roll
+4TQocp0jSJdLp85Wu4oG6a,Angelica Maria;Vicente Fernández,Angélica María Interpreta Ranchero y Norteño,No Vas a Creer (with Vicente Fernández),27,199133,False,0.391,0.247,7,-11.69,1,0.03,0.533,3.64e-06,0.303,0.345,79.644,4,rock-n-roll
+6HtPYcfatqRlEgmys4bqmM,Enrique Guzman,60 Aniversario En Vivo (En Vivo/Vol.2),Agujetas De Color De Rosa - En Vivo,28,129520,False,0.669,0.848,9,-6.738,0,0.165,0.616,8.68e-06,0.948,0.789,136.021,4,rock-n-roll
+2sNmYSvlnGqBUNc2QNlH4L,Enrique Guzman,Leyendas Solamente Los Mejores,Ángel de Mi Vida - Angel of the Morning,28,168333,False,0.263,0.453,4,-8.19,1,0.0276,0.513,2.19e-05,0.399,0.496,95.766,4,rock-n-roll
+6gE6svxgPpdWtwnY3nEZUI,Los Baby's,Sólo para enamorados,Si me dejas de amar,28,196853,False,0.469,0.5,5,-8.767,1,0.0294,0.355,2.69e-06,0.306,0.619,105.141,4,rock-n-roll
+5m9otLv1iIOPtzsx07OsXg,Los Solitarios,Antología. . . Los Solitarios,Vete Ya,28,169280,False,0.675,0.279,4,-17.718,1,0.0846,0.96,0.000204,0.223,0.72,92.895,4,rock-n-roll
+7ifU1Gcuw0AbhNno1NV1zl,Juanello,Juanello,Adios Amor,28,146280,False,0.73,0.438,3,-12.178,1,0.0372,0.232,1.8e-05,0.0928,0.817,107.922,4,rock-n-roll

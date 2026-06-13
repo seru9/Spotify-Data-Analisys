@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+6k0X05danQOXSBTVek5DU1,SiM,The Rumbling,The Rumbling,73,220799,False,0.459,0.878,5,-1.399,0,0.0688,5.62e-05,0.000307,0.371,0.494,144.852,4,metalcore
+0WSa1sucoNRcEeULlZVQXj,Bring Me The Horizon,Sempiternal (Expanded Edition),Can You Feel My Heart,81,228146,True,0.15,0.859,4,-2.827,0,0.0595,0.00201,0.194,0.387,0.354,170.527,5,metalcore
+4xDwCYhobDehSBGUmd5H6Y,The Plot In You,DISPOSE,FEEL NOTHING,76,216826,True,0.448,0.825,4,-5.307,0,0.0621,0.00353,0.0,0.108,0.226,144.17,4,metalcore
+6o39Ln9118FKTMbM4BvcEy,Bring Me The Horizon,That's The Spirit,Drown,72,222093,False,0.405,0.94,1,-3.103,0,0.0844,0.000102,2.79e-05,0.719,0.24,143.126,4,metalcore
+6lFUdRItQEsEuD7dSINL47,Bring Me The Horizon,That's The Spirit,Follow You,69,231106,False,0.54,0.661,3,-5.534,0,0.0381,0.0765,0.0,0.125,0.506,90.012,4,metalcore
+0KCSJzsQVxkloxoT7dyrqV,SiM,The Rumbling (TV Size),The Rumbling (TV Size),66,90265,False,0.408,0.875,8,-1.536,1,0.0546,1.68e-05,0.000101,0.264,0.646,144.975,4,metalcore
+5UrZ1UfrJhyB7RMmWaRjXO,Northlane;PhaseOne,Crash & Burn,Crash & Burn,54,246400,False,0.227,0.861,8,-3.997,1,0.0628,0.000218,6.23e-06,0.155,0.143,74.824,1,metalcore
+5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,62,225546,False,0.175,0.995,6,1.023,0,0.211,0.000145,2.5e-06,0.214,0.303,184.066,4,metalcore
+2gT72HL4Y84K2Mle3miAMJ,Bring Me The Horizon,DiE4u,DiE4u,69,207141,True,0.355,0.919,7,-3.771,1,0.356,0.00234,0.000313,0.262,0.259,159.922,4,metalcore
+7CAbF0By0Fpnbiu6Xn5ZF7,Bring Me The Horizon;BABYMETAL,POST HUMAN: SURVIVAL HORROR,Kingslayer (feat. BABYMETAL),72,220041,True,0.434,0.929,1,-2.749,1,0.147,0.000207,0.00109,0.0916,0.428,92.541,4,metalcore
+6Q1m1GyNxyOwZ2ud3p7XoS,I Prevail,TRAUMA,Gasoline,68,153613,True,0.546,0.945,1,-4.399,1,0.0531,0.000311,0.0,0.724,0.545,135.128,4,metalcore
+5OxclJsdFESni44YlpNpkR,Bring Me The Horizon,Parasite Eve,Parasite Eve,65,291812,True,0.589,0.797,9,-5.464,1,0.15,0.0289,4.35e-06,0.383,0.232,102.489,4,metalcore
+5pKCDm2fw4k6D6C5Rk646C,Bullet For My Valentine,The Poison,Tears Don't Fall,65,348386,True,0.214,0.931,7,-3.347,0,0.143,0.000705,3.09e-06,0.0797,0.233,162.115,4,metalcore
+0bMOyiuk22fAKiwNoYsRYN,Bring Me The Horizon;Jeris Johnson,Can You Feel My Heart (Remix),Can You Feel My Heart - Remix,59,197412,True,0.576,0.88,9,-3.678,0,0.0507,0.00675,0.0,0.473,0.836,139.942,4,metalcore
+6sIbv1oWOuma2qV907MUbk,Bring Me The Horizon;Nova Twins,POST HUMAN: SURVIVAL HORROR,1x1 (feat. Nova Twins),67,209598,True,0.452,0.937,1,-3.346,0,0.161,0.000209,3.61e-06,0.606,0.604,164.032,4,metalcore
+0gchQwxmBWj5no8NJ8b2yH,Bring Me The Horizon,Sempiternal (Expanded Edition),Sleepwalking,70,230093,False,0.4,0.959,2,-3.258,0,0.103,0.000187,4.21e-06,0.231,0.339,149.062,4,metalcore
+4GssB27iJeqmfGxS94Tfij,Falling In Reverse,Popular Monster,Popular Monster,75,220537,True,0.461,0.897,3,-3.982,0,0.092,0.00821,0.0,0.0965,0.358,165.107,4,metalcore
+5fpq1wF8xa5tSSlcKHdmGQ,Bring Me The Horizon,sTraNgeRs,sTraNgeRs,75,195747,True,0.346,0.939,5,-3.061,1,0.182,0.000231,0.0,0.433,0.526,183.147,3,metalcore
+4EyPadLFhtWojU7mkT5hqT,Bring Me The Horizon,That's The Spirit,Avalanche,65,262013,False,0.426,0.934,7,-4.063,0,0.0685,2.97e-05,0.0089,0.113,0.285,160.077,4,metalcore
+2GFwwTIVLjnOrtP7m9luHC,I Prevail,TRAUMA,Hurricane,68,223173,True,0.389,0.885,6,-5.063,0,0.0551,0.000372,0.000311,0.202,0.187,164.989,4,metalcore
+0YZEYxd1oiqZRFhnnmTKKi,Motionless In White,Disguise,Another Life,72,205394,False,0.39,0.939,4,-3.828,0,0.0787,5.08e-05,0.0,0.0968,0.495,161.997,4,metalcore
+68osIGtVjM7QWVe6pazLHj,Bring Me The Horizon,Sempiternal (Expanded Edition),Shadow Moses,68,243320,True,0.456,0.985,6,-2.949,1,0.207,0.000235,0.00368,0.103,0.183,143.006,4,metalcore
+04EtBLFIxbcVt9NdYgcrpF,Lamb of God,Sacrament,Redneck,64,220880,True,0.512,0.996,2,-2.1,1,0.114,5.63e-05,0.000167,0.347,0.0601,130.931,4,metalcore
+3WATWS2Ywo5HeHtG0bE2iZ,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Teardrops,67,215003,True,0.497,0.916,7,-3.323,1,0.108,0.000323,0.0,0.36,0.401,96.051,4,metalcore
+1z3LsJRCvln5qO5TOLduQM,Bullet For My Valentine,The Poison,Hand Of Blood,60,216133,False,0.378,0.986,8,-2.769,1,0.0832,0.000248,0.0,0.0833,0.492,94.458,4,metalcore
+0M3adYbGtyRHACP86dey1H,Bring Me The Horizon,That's The Spirit,Throne,74,191520,False,0.426,0.888,0,-3.72,0,0.0987,0.000455,0.0,0.306,0.387,144.111,4,metalcore
+6vjvewW34Y3UiGQtJokGlY,Lamb of God,Sacrament,Walk with Me In Hell,61,311506,False,0.286,0.982,0,-3.828,0,0.131,3.39e-05,0.00675,0.309,0.118,110.629,4,metalcore
+25GC50HslaaruyrKjdu0lP,Bullet For My Valentine,Fever,Your Betrayal,68,291426,False,0.569,0.883,2,-4.41,0,0.0748,8.07e-05,7.74e-05,0.0883,0.373,134.001,4,metalcore
+1nxbn0COjeyH7MQZ27T3CR,Caskets,Lost Souls,Glass Heart,66,224421,False,0.412,0.958,6,-5.432,0,0.0997,0.000225,4.71e-05,0.119,0.341,164.072,4,metalcore
+5XUuldRjPXcP5QxyEN4IXT,Falling In Reverse,Voices In My Head,Voices In My Head,73,191414,True,0.546,0.898,2,-3.067,0,0.162,0.0266,0.0,0.129,0.639,173.17,4,metalcore
+5ofoB8PFmocBXFBEWVb6Vz,Architects,For Those That Wish To Exist,Animals,67,244364,True,0.532,0.759,1,-3.842,0,0.0319,0.000123,0.02,0.073,0.293,95.01,4,metalcore
+0jztNko72GBF0ZUkatu08w,SiM,TOKYO - HALLOWEEN -,MAKE ME DEAD!,0,237106,False,0.593,0.957,3,-2.012,0,0.0844,0.00559,1.13e-06,0.597,0.611,99.971,4,metalcore
+1yc53HK08sDab7PDFgnLWk,Lamb of God,Ashes of the Wake (15th Anniversary),Laid to Rest,66,230127,True,0.366,0.956,10,-3.725,0,0.108,0.000293,0.00447,0.449,0.159,104.016,3,metalcore
+4Y7eqYTpV7fQxpYj1isN2F,We Came As Romans;Caleb Shomo,Black Hole,Black Hole,70,179181,False,0.48,0.958,5,-4.241,0,0.0664,2.45e-05,0.0,0.52,0.385,110.05,4,metalcore
+5waHhqlk8iTweFuHeZz9CZ,Bullet For My Valentine,Release Your ANGER,Stitches,5,301426,True,0.547,0.941,1,-4.631,1,0.0824,5.72e-06,0.000756,0.323,0.331,100.007,4,metalcore
+1CfKabrnieuwFYodtDZvvw,Bullet For My Valentine,Release Your ANGER,Shatter - Edit,0,281757,False,0.413,0.923,9,-4.487,1,0.053,9.24e-06,0.00102,0.0883,0.504,150.059,4,metalcore
+0HdKT77fmQMoU0mAjHs7O0,Atreyu,Release Your ANGER,Anger Left Behind,0,203547,False,0.418,0.987,0,-3.331,1,0.209,0.0585,0.000144,0.0855,0.25,155.05,4,metalcore
+2miDOaZ3uuYy0mmNK91MoB,Wage War,Release Your ANGER,Low,1,227093,False,0.501,0.966,1,-3.22,1,0.0534,1.25e-05,5.74e-05,0.12,0.497,129.994,4,metalcore
+3OMd93g8K6Pcj6Je3kEtpe,Lamb of God,Release Your ANGER,Ruin,1,234266,False,0.288,0.955,7,-4.424,1,0.171,4.65e-05,0.139,0.394,0.0916,108.423,3,metalcore
+0Nc2X53OFDIxl1F1Z5AZfR,Atreyu,Release Your ANGER,Super Hero,0,385012,False,0.433,0.914,5,-3.894,1,0.0589,0.00394,0.000104,0.0896,0.158,144.007,4,metalcore
+6RDHOZtqz8iB6xzii7qaey,Ice Nine Kills,Halloween Songs | Witches Hour,Stabbing In The Dark,1,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metalcore
+2Mes3Ubeld6px0kvYRAra3,Ice Nine Kills,Halloween 2022,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metalcore
+31IfnfvSlw299vYoAicWGw,blessthefall,Post-Millennial Noise,I Wouldn't Quit If Everyone Quit,0,188600,False,0.286,0.939,2,-4.494,1,0.0948,8.19e-05,0.0299,0.38,0.217,106.342,4,metalcore
+0b9e8puk2zpi4ioDPWg5yx,Ice Nine Kills,Release Your ANGER,A Rash Decision,0,211320,False,0.487,0.933,11,-4.291,0,0.161,0.000135,0.0,0.185,0.467,95.58,4,metalcore
+5yHe5ugepahPTYnEdvu1gZ,The Devil Wears Prada,Metal,Home for Grave,0,205000,False,0.501,0.986,2,-3.162,0,0.076,0.000541,2.29e-05,0.372,0.117,107.472,4,metalcore
+6gRiwTlKLG2lHyu1M8Iwh6,Ice Nine Kills,Halloween Party 2022,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metalcore
+2L6NcYYiU1Ehy7aHPOPkiH,The Devil Wears Prada,Metal Lives!,Home for Grave,0,205000,False,0.501,0.986,2,-3.162,0,0.076,0.000541,2.29e-05,0.372,0.117,107.472,4,metalcore
+5cUH0jGZStImc41LbHSjhA,Machine Head,Groove Metal Roots & Branches,Davidian,1,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,metalcore
+1CaXCVkxVz7GfrE2Ifbha4,Ice Nine Kills,Happy Haunted Halloween Tunes,Stabbing In The Dark,0,276866,True,0.333,0.943,10,-4.184,0,0.149,0.00123,0.0,0.0609,0.292,164.979,4,metalcore
+7KaqcST5QdMTGPCKWW9ayv,Machine Head,Metal,Davidian,0,296626,False,0.276,0.937,7,-6.952,1,0.163,0.000531,0.123,0.227,0.306,153.814,3,metalcore
+3lPn81PFyKvXiyHhlkwkQ4,Bring Me The Horizon,That's The Spirit,Doomed,63,274133,True,0.271,0.903,6,-4.516,0,0.137,0.00152,1.5e-05,0.189,0.22,147.159,4,metalcore
+07ceEXOyS7ghQkyCOycXwP,Killswitch Engage,As Daylight Dies (Special Edition),This Fire,61,189666,False,0.447,0.993,7,-3.022,1,0.111,1.56e-05,0.027,0.474,0.108,140.018,4,metalcore
+5I29F9GR0OkaU1nuxp9hU8,Lamb of God,Lamb of God,Memento Mori,56,348099,False,0.538,0.984,2,-4.589,1,0.0992,0.000149,0.787,0.127,0.0494,123.008,4,metalcore
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,metalcore
+3aniWcwiiYKHpm3F5TdeKD,Bring Me The Horizon,Teardrops,Teardrops,61,215003,True,0.497,0.916,7,-3.323,1,0.108,0.000323,0.0,0.36,0.401,96.051,4,metalcore
+54otdw8MmYNz2ewGHzmaTP,The Plot In You,FEEL NOTHING (RESET),FEEL NOTHING - RESET,55,220688,True,0.34,0.887,4,-4.54,0,0.0898,0.00345,2.72e-06,0.0622,0.215,144.081,4,metalcore
+5qD3Qv8Wu3r5uRD0DahcZy,I Prevail,TRAUMA,Bow Down,65,242680,True,0.426,0.959,0,-4.95,1,0.0525,5.36e-05,6.54e-06,0.707,0.372,155.01,4,metalcore
+6WaYiQUPel70HUaCZj5eND,I Prevail,Lifelines,Scars,65,229773,False,0.505,0.964,7,-3.673,1,0.0718,9.97e-05,2.85e-06,0.113,0.571,138.021,4,metalcore
+7ox7vxy21ttBt1o7xIp1Si,Lamb of God,Resolution,Ghost Walking,55,270693,False,0.511,0.992,1,-3.359,1,0.163,0.000328,1.55e-05,0.299,0.35,129.921,5,metalcore
+40i81AcCCxiVEFUWElcjZC,Get Scared,Best Kind Of Mess,Sarcasm,69,198080,False,0.387,0.929,7,-4.825,0,0.161,0.00238,7.22e-06,0.314,0.591,180.359,4,metalcore
+6zKF4293k44ItKWJJgrhXv,Killswitch Engage,As Daylight Dies (Special Edition),My Curse,68,244773,False,0.197,0.956,10,-2.908,0,0.0663,7.61e-05,0.00992,0.261,0.209,177.018,3,metalcore
+3GHtEaicELsTViK08EXEQQ,Bring Me The Horizon,amo,medicine,61,227265,True,0.615,0.858,0,-3.3,1,0.0396,0.00393,0.0,0.0789,0.323,97.038,4,metalcore
+6MD6xpFK4cfquxRqXxqwjq,Bring Me The Horizon;YUNGBLUD,POST HUMAN: SURVIVAL HORROR,Obey (with YUNGBLUD),65,220538,True,0.462,0.99,1,-3.175,0,0.211,0.000103,0.0,0.374,0.204,137.061,4,metalcore
+2ib8fuTavdc48X6MjhE4Ft,Falling In Reverse,ZOMBIFIED,ZOMBIFIED,71,218520,True,0.544,0.911,10,-3.681,0,0.0422,0.000141,8.89e-06,0.333,0.558,91.033,4,metalcore
+1KTJmfwrk5pYqsi9mkY3nT,Bring Me The Horizon,That's The Spirit,True Friends,66,232320,False,0.419,0.938,7,-3.12,1,0.0837,0.000683,0.0,0.114,0.333,160.151,4,metalcore
+4UhMvTR5tHf2ecfoz0KV92,I Prevail,TRUE POWER,Self-Destruction,68,146176,True,0.423,0.975,7,-5.21,1,0.397,0.00372,0.0,0.346,0.387,172.046,4,metalcore
+27Nkg5NHILTJUcCyBkvVHt,I Prevail,TRUE POWER,Deep End,62,206142,True,0.53,0.729,4,-6.393,1,0.0338,0.00275,9.02e-06,0.471,0.261,119.981,4,metalcore
+4swVflM7KtMxzfHBWqPv9S,Bring Me The Horizon,amo,in the dark,61,271186,False,0.535,0.768,6,-4.554,0,0.0577,0.00736,0.0,0.661,0.514,156.014,4,metalcore
+1f4jpmUuTXDcFmB8gJiO6E,The Plot In You,DISPOSE,NOT JUST BREATHING,57,234226,False,0.462,0.826,9,-6.227,0,0.0623,0.00115,0.000775,0.613,0.308,129.918,4,metalcore
+3Ddgh4ZwVIkLx0f4WeDFmo,Bring Me The Horizon,amo,sugar honey ice & tea,62,261560,False,0.431,0.914,0,-4.243,0,0.0616,0.000243,0.0096,0.502,0.534,147.108,4,metalcore
+2qjH6wZfR0g11ZiT7KqyRO,Our Last Night,Astronaut In The Ocean,Astronaut In The Ocean,62,134200,True,0.519,0.956,11,-2.982,1,0.0788,0.00113,0.00912,0.106,0.655,149.942,4,metalcore
+1yYE8EyuIV0rrvQ1bA2Fyf,Bring Me The Horizon,That's The Spirit,Happy Song,67,239386,True,0.295,0.924,5,-3.407,1,0.0678,4.02e-05,0.00462,0.377,0.219,171.941,4,metalcore
+77tR4iQgyQTAnhhuPik3ZP,Escape the Fate,Ungrateful (Deluxe),One For the Money,65,199950,False,0.525,0.964,5,-3.451,0,0.0571,0.000328,5.5e-06,0.0527,0.385,90.013,4,metalcore
+060RNnzoMay3wKJek1faPc,Bring Me The Horizon,amo,MANTRA,64,233128,True,0.5,0.817,0,-3.501,1,0.0459,0.00054,0.0,0.152,0.599,90.01,4,metalcore
+6V4k01Xr3HsVrfqUyQSIqt,Lamb of God,Omens,Ditch,57,217606,True,0.506,0.959,0,-4.853,1,0.0966,0.000392,0.339,0.481,0.434,149.842,4,metalcore
+1mB7dCUM7sPyNab6R43nlj,Falling In Reverse,The Drug In Me Is You,The Drug In Me Is You,72,218786,True,0.548,0.855,3,-3.266,1,0.151,0.0149,0.0,0.127,0.644,145.133,4,metalcore
+2LqlhqFm6R4b455OGfsU81,Architects,a new moral low ground,a new moral low ground,62,211848,False,0.376,0.937,4,-3.427,0,0.152,0.000608,0.00145,0.329,0.197,178.139,4,metalcore
+3jTWNaSfBQvv3HPTqQjkkM,I Prevail,TRUE POWER,Bad Things,66,228260,False,0.5,0.844,5,-5.263,0,0.064,0.000791,9.54e-05,0.274,0.141,92.044,4,metalcore
+5nxcR7W60CU3cvmGX1jBzQ,Caskets,Lost Souls,Drowned in Emotion,61,222567,False,0.444,0.945,0,-6.389,0,0.0714,0.0015,2.84e-05,0.0661,0.333,77.041,4,metalcore
+4Ku3OOZWR4tpKNCVFXILY8,Suicide Silence,The Black Crown,You Only Live Once,60,192560,False,0.613,0.953,6,-4.936,1,0.153,0.00018,0.0614,0.116,0.213,119.976,4,metalcore
+2okeBtFNVJ4n33NEV1RxBm,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,59,193080,False,0.527,0.695,9,-4.99,1,0.0346,0.0331,3.78e-05,0.31,0.271,142.922,4,metalcore
+1I3EjtaIQz2zzDE1aeiUEz,Architects,deep fake,deep fake,63,213871,True,0.505,0.854,6,-4.167,0,0.0851,0.000101,0.00325,0.0556,0.319,96.023,4,metalcore
+44Gv80wmwzVpHGhlXttYLs,Bad Omens,THE DEATH OF PEACE OF MIND,THE DEATH OF PEACE OF MIND,66,241499,True,0.467,0.705,0,-5.613,0,0.046,0.079,0.000255,0.143,0.267,154.983,4,metalcore
+3zb8S65LhiPPPH4vov8yV2,Bad Omens,THE DEATH OF PEACE OF MIND,Just Pretend,71,204676,False,0.449,0.831,5,-4.668,0,0.0835,0.00257,0.00119,0.0998,0.211,140.091,4,metalcore
+6XimI1O15wpfwUdrCnlrxo,Bullet For My Valentine,The Poison,All These Things I Hate (Revolve Around Me),57,225440,False,0.495,0.869,6,-3.48,0,0.0462,0.0306,0.0,0.279,0.522,94.012,3,metalcore
+40P5d3p4icYCiN4SMUOE2E,Bad Omens,THE DEATH OF PEACE OF MIND,Like A Villain,67,210685,True,0.457,0.918,7,-4.51,1,0.203,0.000696,0.000128,0.429,0.392,154.963,4,metalcore
+0YHuruiHL4Vzna7jeOdfJt,Lamb of God,Omens,Nevermore,54,275924,False,0.496,0.988,4,-4.409,0,0.11,8.33e-05,0.323,0.155,0.199,102.005,3,metalcore
+7jrkBLvhjeNs7X86wL3jKf,Lamb of God,Omens,Vanishing,55,288657,False,0.533,0.983,5,-5.175,1,0.107,9.47e-05,0.49,0.136,0.12,122.011,4,metalcore
+6Q88Xw5D2syb9X5rZd3TLz,Lamb of God,Omens,To The Grave,54,223661,False,0.352,0.952,2,-5.435,1,0.138,0.00133,0.419,0.273,0.484,197.803,4,metalcore
+5IVA7WzOlWrmZh8EqZqMaw,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,70,161626,True,0.486,0.986,1,-4.71,1,0.0818,0.000662,0.048,0.29,0.501,180.085,4,metalcore
+3w8qOAwbHF6zYeYT7pj7DI,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",Devil in Your Heart,60,186026,True,0.542,0.94,8,-0.713,1,0.0628,0.000737,0.0,0.133,0.765,120.053,4,metalcore
+2calJdlU1JseiOf7c5jXwP,Lamb of God,Omens,Omens,55,227899,True,0.465,0.986,2,-5.551,1,0.0803,0.00024,0.102,0.37,0.261,95.518,4,metalcore
+36xBFaVGjqm7le8CTHytUj,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Parasite Eve,65,291812,True,0.589,0.797,9,-5.464,1,0.15,0.0289,4.35e-06,0.383,0.232,102.489,4,metalcore
+4Vb5Y6RQztThqqqFre24wL,Lamb of God,Ashes of the Wake (15th Anniversary),Omerta,60,285962,False,0.413,0.982,6,-4.079,0,0.201,0.00242,0.00112,0.323,0.155,118.504,4,metalcore
+1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,58,218573,False,0.357,0.98,5,-1.286,0,0.153,0.00143,0.0,0.196,0.567,191.147,4,metalcore
+1KCAEG6JcsTzi8ddZzs0nk,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),62,254613,False,0.295,0.98,2,-4.075,0,0.0854,3.21e-05,0.0,0.359,0.283,134.335,4,metalcore
+5wTfzzRW8ddRdgW2kASbox,Architects,when we were young,when we were young,62,193886,False,0.443,0.938,8,-3.01,1,0.106,4.42e-05,5.71e-06,0.32,0.439,169.995,4,metalcore
+5gdg8veEXwC9qPnmXZN1x1,Issues,Emo Christmas 2022,"Merry Christmas, Happy Holidays",0,227973,False,0.607,0.919,1,-5.432,1,0.172,0.0275,0.0,0.225,0.469,109.993,4,metalcore
+6T6GxQNHaCfGAGH5tjRRFA,Crown The Empire,Emo Christmas 2022,Burn,0,228213,False,0.444,0.843,5,-5.376,0,0.0641,0.0645,2.61e-05,0.135,0.399,153.959,4,metalcore
+3S6JPjGXviwy7HOOlAzmfB,Until I Wake,Release Your ANGER,Self Medicated,0,189103,False,0.438,0.96,5,-3.482,0,0.0756,9.53e-05,0.00158,0.0943,0.254,144.98,4,metalcore
+3le4ECmJTUNXYLsGjQYSXi,Our Last Night,Oak Island,Sunrise,57,229250,False,0.376,0.877,7,-4.007,1,0.0554,0.00395,4.26e-05,0.16,0.168,74.954,4,metalcore
+1O0iUsIwFDt7GyqjOkAHa8,Escape The Day,Into Inception,Tsunami,26,243555,False,0.568,0.97,11,-5.633,0,0.12,0.00523,0.00014,0.341,0.23,135.076,4,metalcore
+1JdWRS3PBZlSgKcPKcULtr,Bring Me The Horizon;Grimes,amo,nihilist blues (feat. Grimes),59,325501,False,0.607,0.813,4,-5.825,0,0.0936,0.0019,0.00088,0.305,0.195,133.962,4,metalcore
+4hkZMpR9ptEQLqlIorFPeN,Dead by April,Dead by April,Losing You,54,237866,False,0.272,0.903,2,-4.343,0,0.0961,0.0134,0.0,0.321,0.154,120.057,4,metalcore
+5MDv9EAucvoUKtCCyaCFHD,Our Last Night,MIDDLE OF THE NIGHT,MIDDLE OF THE NIGHT,57,185080,False,0.388,0.936,0,-4.134,1,0.0683,0.000138,0.0,0.657,0.226,93.018,3,metalcore
+5icbZiF6lcuEORG0UzMsS2,I Prevail;Delaney Jane,TRAUMA,Every Time You Leave,62,216626,False,0.473,0.749,1,-5.047,0,0.0287,0.000466,5.5e-06,0.0883,0.167,150.022,4,metalcore
+5LV0oQV98daZAUoWnQEW6N,Escape the Fate,I Am Human,Broken Heart,61,187371,False,0.528,0.861,2,-4.309,1,0.0518,0.0108,0.0,0.268,0.591,95.02,4,metalcore
+5IwUFTiNkarb5HEtNRtRtc,Bring Me The Horizon,amo,mother tongue,59,217424,False,0.598,0.872,6,-4.567,0,0.0328,0.0196,0.0,0.326,0.609,107.009,4,metalcore
+02PTdS9L4BFXOtNvyM1ukF,Bullet For My Valentine,Fever,Bittersweet Memories,52,308826,False,0.443,0.872,3,-4.205,1,0.0444,8.21e-05,3.37e-06,0.229,0.211,142.045,4,metalcore
+1WWq2DUV0UbO4XJda2usuv,Lamb of God,VII: Sturm und Drang,512,52,284840,True,0.344,0.971,1,-4.638,1,0.106,1.6e-05,0.0806,0.0893,0.108,192.117,4,metalcore
+1gg2pjLIkcxSnNfGORJ0u5,Bullet For My Valentine,Fever,A Place Where You Belong,47,306466,False,0.312,0.832,11,-3.882,0,0.0365,5.12e-05,0.00133,0.148,0.33,133.708,4,metalcore
+0SnvI0twJ1Mnh0rJlBRrf0,Motionless In White,Graveyard Shift,Voices,66,224000,False,0.499,0.937,6,-2.492,1,0.0605,4.54e-05,6.11e-06,0.477,0.569,90.029,4,metalcore
+070TMc1fjJGBGxxmf1DIbD,Bad Omens,THE DEATH OF PEACE OF MIND,THE DEATH OF PEACE OF MIND,57,241499,True,0.467,0.705,0,-5.613,0,0.046,0.079,0.000255,0.143,0.267,154.983,4,metalcore
+3rEwGRmPVVudVjqdgv0tRR,A Day To Remember,Homesick,If It Means A Lot To You,69,243226,False,0.584,0.536,10,-8.158,1,0.0279,0.112,0.0,0.456,0.441,127.001,4,metalcore
+2wJJNgD6GrKoQ435VxTRv6,coldrain;Ryo,THE SIDE EFFECTS,MAYDAY (feat. Ryo from Crystal Lake),61,227011,True,0.522,0.97,10,-4.576,0,0.209,5.53e-05,0.0,0.246,0.488,121.054,4,metalcore
+7rGN3oqzCpG2mLcwoPwDQm,Bullet For My Valentine,Gravity,Letting You Go,58,223655,False,0.459,0.903,5,-4.649,0,0.0673,0.00877,0.0,0.168,0.364,76.185,4,metalcore
+7ridH3hy4aXG6Kn1XomKrO,Holding Absence,The Greatest Mistake of My Life,Afterlife,66,226546,False,0.475,0.963,5,-2.651,0,0.0601,0.0016,0.0,0.344,0.355,134.013,4,metalcore
+0fr7Nl49mFbf6nXXca6YwO,We Came As Romans,Cold Like War,Learning to Survive,62,269966,False,0.588,0.829,6,-6.196,1,0.0511,0.0181,0.000462,0.153,0.495,140.041,4,metalcore
+4NPIkDt08kLz70gHOrO5uU,MAXIMUM THE HORMONE,Bu-ikikaesu,"What's up, people?!",60,250226,False,0.385,0.976,7,-3.788,1,0.252,0.0329,0.00767,0.445,0.206,160.977,4,metalcore
+75R95k0ICuZBFVEjBauOtt,Architects,Holy Hell,Doomsday,59,248880,False,0.523,0.979,2,-4.214,1,0.159,2.62e-05,2.56e-05,0.153,0.179,125.038,4,metalcore
+2ah5gOCogw00A62XBoepmc,A Day To Remember,Miracle,Miracle,69,243977,True,0.463,0.917,7,-3.776,1,0.13,0.000266,1.8e-05,0.0872,0.369,160.028,4,metalcore
+5U1g4OWjCCkZtWNreyuHtw,Dead by April,Incomparable (Mystery Version),Last Goodbye,50,197653,False,0.398,0.935,6,-4.443,1,0.0581,0.000775,0.0,0.113,0.425,180.051,4,metalcore
+2OYtcqflvzQwh3cMPmTHs4,I Prevail,TRUE POWER,There’s Fear In Letting Go,65,234945,False,0.492,0.869,0,-6.403,1,0.0673,0.000879,0.00185,0.588,0.136,123.118,4,metalcore
+13YWByXibBltt3T5u3IcT7,Caskets,Lost Souls,Lost in Echoes,62,217814,False,0.442,0.937,7,-6.693,0,0.0723,0.00368,0.000116,0.0814,0.444,75.034,4,metalcore
+5t1OFHuWDlmusIYUZSNADT,Currents,The Way It Ends,Never There,57,108934,False,0.206,0.556,4,-9.347,0,0.0309,0.191,0.18,0.191,0.0386,86.927,5,metalcore
+2nUy0ifVE7UwtOK4rugFsP,Killswitch Engage,The End of Heartache (Special Edition),The End of Heartache,62,298106,False,0.469,0.976,0,-3.569,0,0.111,0.000287,0.217,0.0636,0.222,124.001,4,metalcore
+5jmYu7XY4zd3mJfizA8t1K,I Prevail,TRAUMA,Let Me Be Sad,58,214226,False,0.478,0.574,3,-5.645,0,0.0288,0.000355,7.15e-06,0.151,0.0407,129.02,4,metalcore
+6DsILuMLGYN6QqPXlhGHWo,Bullet For My Valentine,Scream Aim Fire,Hearts Burst into Fire,50,297946,True,0.24,0.968,0,-3.669,0,0.109,0.000996,0.000106,0.119,0.119,89.686,4,metalcore
+3nVDri6Ynugk3G7URhdRFD,The Plot In You,FEEL NOTHING (RESET),FEEL NOTHING,38,216826,True,0.45,0.827,4,-5.319,0,0.07,0.00443,0.0,0.12,0.263,144.07,4,metalcore
+3DW6GVr7RVyfvo4NBRvZIZ,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,"Dear Diary,",62,164797,True,0.514,0.968,7,-3.737,1,0.19,0.000137,0.00026,0.128,0.262,117.878,3,metalcore
+1rnsFy41deoAFKeTTsNjNU,Lamb of God,Omens,Gomorrah,53,252125,False,0.483,0.99,8,-4.508,1,0.112,0.00176,0.000958,0.183,0.232,147.111,4,metalcore
+7sJbCv83nl2S94j8ZJz2WP,Lamb of God,Omens,Ill Designs,52,221309,False,0.436,0.989,4,-4.355,0,0.0974,7.42e-05,0.00367,0.401,0.121,113.764,4,metalcore
+1DbdQp5dwuawBGmxSHw6Fr,Bring Me The Horizon,Sempiternal (Expanded Edition),Empire (Let Them Sing),60,225693,True,0.443,0.96,5,-3.153,0,0.102,0.000779,0.0,0.81,0.263,96.579,4,metalcore
+3WeWaUyTww9gLKmimlwm5w,Lamb of God,As The Palaces Burn,Ruin,57,234266,False,0.195,0.958,7,-4.391,1,0.194,5.19e-05,0.128,0.371,0.11,198.151,3,metalcore
+63iWrvtycN9ro0gFD47JpU,Lamb of God,Omens,September Song,51,360419,False,0.288,0.978,7,-5.018,1,0.106,0.000368,0.351,0.0441,0.143,111.583,4,metalcore
+3c9kVsKF68xMzlS0NikVn3,Motionless In White,Scoring The End Of The World,Masterpiece,65,206648,False,0.324,0.863,10,-3.716,0,0.123,0.000109,0.0,0.311,0.394,177.985,4,metalcore
+2VjgDMPac8RDAaz2JH3UBs,Lamb of God,Omens,Denial Mechanism,51,157878,True,0.329,0.988,9,-4.539,1,0.228,6.95e-05,0.914,0.236,0.16,197.852,4,metalcore
+7hntkdvG3jWdFKm7pGCCzd,Bring Me The Horizon,Sempiternal (Expanded Edition),The House of Wolves,63,205160,True,0.425,0.98,8,-2.219,1,0.189,0.000104,1.46e-06,0.346,0.279,152.0,4,metalcore
+2Uyda5UuQnxkdYkECw3F8C,Lamb of God,Omens,Grayscale,52,239940,False,0.421,0.991,11,-4.76,1,0.149,0.000916,0.0298,0.353,0.413,175.023,3,metalcore
+2dbKMVQMjThcJ6GIdWK5Tb,Bullet For My Valentine,The Poison,Tears Don't Fall,36,348386,True,0.213,0.927,7,-3.378,0,0.14,0.000729,4.85e-06,0.081,0.28,162.109,4,metalcore
+5yDJpu0xh0d1w13gXaE3lS,Trivium,The Sin and the Sentence,The Heart from Your Hate,61,243853,False,0.582,0.928,10,-4.659,0,0.0635,0.00876,5.03e-06,0.297,0.565,113.043,4,metalcore
+0Koh9yED8UuaXvg9p5lQdB,Bring Me The Horizon,Sempiternal (Expanded Edition),"Go to Hell, for Heaven's Sake",62,243000,False,0.455,0.97,7,-2.914,0,0.112,7.36e-05,0.000133,0.123,0.235,137.955,4,metalcore
+0ds5MDAFjVNd5E2HDKLjAb,Bad Omens,THE DEATH OF PEACE OF MIND,Nowhere To Go,63,246774,True,0.417,0.958,7,-3.418,1,0.139,0.000738,0.0,0.173,0.458,174.089,4,metalcore
+5l4DU5tgUtLqFSxir6y0dp,Asking Alexandria;Within Temptation,Faded Out (feat. Within Temptation),Faded Out (feat. Within Temptation),65,185542,False,0.478,0.937,8,-4.775,1,0.0938,0.000151,0.0,0.198,0.526,74.966,4,metalcore
+0myb1jWdq3o8KH85NVgFIx,Ill Niño,Post-Millennial Noise,All I Ask For,0,219813,False,0.47,0.919,8,-3.5,1,0.0627,3.38e-05,0.111,0.136,0.514,136.354,4,metalcore
+0QSPohbvsYOEcvkHnok13V,Project46,Que Seja Feita a Nossa Vontade,Erro +55,37,280075,False,0.333,0.978,6,-3.452,1,0.18,0.00236,0.000437,0.372,0.267,159.981,4,metalcore
+2Npjui495Y4HPVyTi4wO7j,Ill Niño,Metal,If You Still Hate Me,0,175133,True,0.468,0.983,1,-2.848,1,0.114,6.21e-05,0.000292,0.0568,0.0914,135.439,4,metalcore
+2wt831VAOLWoAbIcQwxWsF,Ill Niño,Metal Lives!,If You Still Hate Me,0,175133,True,0.468,0.983,1,-2.848,1,0.114,6.21e-05,0.000292,0.0568,0.0914,135.439,4,metalcore
+7IeXr2kgIAGI36G64yKrQi,It Dies Today,The Caitiff Choir,A Threnody For Modern Romance,34,210893,False,0.366,0.94,8,-3.389,1,0.0953,1.51e-05,7.25e-06,0.105,0.544,177.095,4,metalcore
+2gG1YLJfNnuPW8AYNUsaM4,The Browning,Release Your ANGER,Final Breath,0,217371,False,0.137,0.946,7,-4.628,1,0.0988,0.00243,0.00444,0.168,0.171,175.02,4,metalcore
+1H5a6C6jqWN6XQI0Unq7W3,Bring Me The Horizon,That's The Spirit,Oh No,58,301013,False,0.505,0.827,0,-5.517,1,0.0456,0.00626,1.07e-05,0.112,0.0974,114.987,4,metalcore
+7e8CuL07X8B7EKA4h84V9Z,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Tragedy,53,228599,False,0.464,0.707,2,-5.171,0,0.0425,0.13,3.75e-06,0.141,0.2,163.893,4,metalcore
+12tw0TYIJMf1bowLBYWqTp,Dead by April,Worlds Collide,Perfect The Way You Are,47,224800,False,0.435,0.849,11,-4.007,1,0.0434,0.0103,0.00864,0.329,0.257,134.913,4,metalcore
+0KBRMpZVUTxrU8blRUBfm3,Atreyu;Zero 9:36;Travis Barker,Warrior,Warrior,56,167034,False,0.477,0.824,1,-3.888,0,0.0826,0.0607,2.97e-06,0.333,0.278,154.673,4,metalcore
+3GSMJpuz3rFU8WtCws1rv5,Falling In Reverse,Carry On,Carry On,60,294765,False,0.399,0.87,1,-4.91,0,0.0532,0.00359,0.0,0.361,0.298,149.081,4,metalcore
+2HsYjR4rBa38aePVMWL3zb,Bad Omens,Bad Omens,The Worst In Me,62,229209,False,0.43,0.945,11,-2.662,0,0.102,0.00109,5.5e-05,0.311,0.276,170.081,4,metalcore
+5BkCDt5w0WOGgBgDC7T39i,Falling In Reverse,Drugs,Drugs,62,231920,True,0.503,0.904,2,-3.895,0,0.048,0.000482,0.0,0.132,0.384,165.099,4,metalcore
+7gAfY8Y5aBrsAfNaejxXMY,Our Last Night,you broke me first,you broke me first,60,168145,True,0.515,0.949,1,-3.521,0,0.0806,0.000103,1.22e-05,0.348,0.308,124.069,4,metalcore
+2HnK4iistzFtrQZRCksrBo,Periphery,Periphery IV: HAIL STAN,It's Only Smiles,42,333000,False,0.187,0.933,3,-5.889,1,0.125,0.00104,3.73e-05,0.158,0.353,84.92,4,metalcore
+4b3f0U8gOfJKyxB8cYdCiw,I Prevail,Bad Things,Bad Things,62,228260,False,0.5,0.844,5,-5.263,0,0.064,0.000791,9.54e-05,0.274,0.141,92.044,4,metalcore
+0W9ZFdjumKClsj0UhYYnP3,Northlane,Obsidian,Clockwork,57,238373,False,0.48,0.97,8,-5.006,0,0.0595,3.72e-05,0.309,0.29,0.346,136.123,4,metalcore
+7dENhnDxTHnzGtpMrsJ72w,I Prevail,TRAUMA,Paranoid,61,144546,False,0.558,0.793,1,-6.861,0,0.0374,0.000641,2.93e-05,0.731,0.457,75.999,4,metalcore
+1d46ed3h4U9ws3YsvUOMon,Dayseeker,Without Me,Without Me,63,223800,False,0.421,0.819,1,-3.933,0,0.041,0.0145,0.0,0.12,0.162,92.72,4,metalcore
+4OmlsAT8r4q9vPFBvfYgyZ,Loathe,I Let It in and It Took Everything,Is It Really You?,62,287627,False,0.563,0.721,9,-7.578,1,0.0375,0.00213,0.4,0.14,0.11,110.027,3,metalcore
+1GIofMbTz83fXqNrEuf4bA,Our Last Night,hot girl bummer,hot girl bummer,60,185769,True,0.56,0.955,4,-2.954,0,0.0635,0.000129,0.00739,0.766,0.391,129.975,4,metalcore
+4xWirulal0kGikFE3WSU75,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Ludens,58,280151,False,0.294,0.679,8,-6.182,1,0.152,0.000551,5.13e-05,0.165,0.383,198.03,3,metalcore
+1wvs9V8xEJStRzx78lSNJK,Bring Me The Horizon,That's The Spirit,Run,58,222760,False,0.481,0.938,11,-4.759,0,0.0781,0.00301,0.000153,0.0859,0.357,134.962,4,metalcore
+2HB0RLSCaKALpRHFw7PcOy,Dead by April,Me,Me,54,201938,True,0.601,0.767,11,-6.374,0,0.0316,0.000231,0.953,0.388,0.486,113.519,4,metalcore
+6uWWfeZyj1UOGBjrf8fr4G,The Plot In You,Swan Song,Paradigm,53,200800,False,0.62,0.977,3,-2.899,0,0.206,0.0101,0.000173,0.352,0.307,109.998,4,metalcore
+7IiqF2tYiixnpBcFjkocjA,Asking Alexandria,From Death To Destiny,Moving On,58,242593,False,0.446,0.761,3,-4.141,0,0.032,0.000569,0.0,0.182,0.336,134.971,4,metalcore
+5fG83KM7CgRmjcKwmBNx2p,Bullet For My Valentine,The Poison (Deluxe Version),Tears Don't Fall - Acoustic Version,52,277533,False,0.316,0.596,7,-5.806,0,0.0282,0.705,0.0,0.102,0.563,147.842,4,metalcore
+6r7bDk4J0Okw4ezTBUQXo3,Bring Me The Horizon,That's The Spirit,Blasphemy,60,275013,False,0.409,0.859,10,-4.098,0,0.0367,0.000123,0.0,0.369,0.473,154.023,4,metalcore
+2eZjO58Qe9og2xmyfw4qwJ,Bring Me The Horizon;Death Stranding: Timefall,Ludens,Ludens,58,280151,False,0.295,0.679,1,-6.182,1,0.15,0.000551,5.44e-05,0.165,0.381,197.964,3,metalcore
+79rFv44RxuMb70y6sHC14l,Bullet For My Valentine,Fever,The Last Fight,54,259306,False,0.299,0.971,7,-3.118,1,0.142,0.000456,0.0,0.283,0.336,184.549,4,metalcore
+0XT70Wk9pP8JZkmJhfntuL,All That Remains,Overcome,Two Weeks,65,257346,False,0.558,0.943,1,-4.81,0,0.0535,0.00191,4.38e-05,0.248,0.56,111.994,4,metalcore
+7l0Lr7Tl4Gt8hQj4v3rwtf,Falling In Reverse,The Drug In Me Is You,I'm Not A Vampire,69,231840,False,0.235,0.965,2,-2.882,0,0.28,0.00887,0.0,0.0448,0.322,185.278,4,metalcore
+4hswIIoErwEhIwtuFxN40R,Lamb of God,Omens,Omens,51,227899,True,0.465,0.986,2,-5.551,1,0.0803,0.00024,0.102,0.37,0.261,95.518,4,metalcore
+69P1IEJ9OHNBQtTQf9YRrM,Bad Omens,THE DEATH OF PEACE OF MIND,CONCRETE JUNGLE,61,220495,True,0.551,0.841,1,-5.259,1,0.0402,0.00102,0.00432,0.0698,0.451,91.966,4,metalcore
+3v2u6vEUgHiFdQA4PsIpoE,Lamb of God,Grayscale,Grayscale,51,239940,False,0.421,0.991,11,-4.76,1,0.149,0.000916,0.0298,0.353,0.413,175.023,3,metalcore
+3FI0iAAAjmR31xpZEwbdys,Spiritbox,Eternal Blue,Circle With Me,22,233880,False,0.422,0.874,8,-4.606,0,0.0534,0.000166,0.231,0.143,0.392,102.743,4,metalcore
+2YZZ8qsDdvC008LgtpMoI6,Periphery,Periphery III: Select Difficulty,Marigold,47,439840,True,0.211,0.949,0,-5.724,0,0.214,0.00222,0.000535,0.103,0.0642,105.578,4,metalcore
+06BRkkaJsqM9i6VZKDvUlK,Architects,For Those That Wish To Exist,Black Lungs,58,231161,True,0.462,0.932,1,-3.933,1,0.0952,0.000139,7.02e-05,0.226,0.46,90.496,4,metalcore
+5GcmJoEmrus69907XfjoTu,Bullet For My Valentine,Scream Aim Fire Deluxe Edition,Road To Nowhere,43,259519,False,0.295,0.563,2,-8.686,1,0.0358,0.0305,0.0,0.0968,0.521,87.067,4,metalcore
+6QyBWey7P8ILuhS5RO7xYe,I Prevail;Justin Stone,TRAUMA,Rise Above It,60,184520,False,0.561,0.786,1,-6.99,1,0.0298,0.00131,7.05e-05,0.26,0.0907,140.017,4,metalcore
+3xVmo0y8QSYOVLaifgZv8H,The Devil Wears Prada,Color Decay,Broken,60,228600,False,0.43,0.855,4,-5.104,0,0.0711,0.00276,0.0,0.335,0.135,145.02,4,metalcore
+2rvQ8M4T6rbpc2c63pwNMu,Lamb of God,Sacrament,Descending,54,215240,False,0.494,0.969,2,-3.5,1,0.0905,7.94e-05,4.42e-05,0.0736,0.129,93.185,3,metalcore
+28urem2KpSOkljclEk8X8G,All That Remains,A War You Cannot Win,What If I Was Nothing,60,277346,False,0.436,0.772,4,-5.81,1,0.0377,0.00556,0.0,0.104,0.229,144.015,4,metalcore
+3a9urnht8HvfFzPwd0ipx6,Killswitch Engage,As Daylight Dies (Special Edition),Holy Diver,64,250253,False,0.369,0.995,0,-2.584,0,0.12,7.6e-05,0.00589,0.241,0.27,185.985,4,metalcore
+2mMNBgFRyEiRoGvrdoONeq,Ice Nine Kills,The Silver Scream,A Grave Mistake,64,184226,False,0.36,0.925,6,-3.775,0,0.0719,0.000838,0.0,0.115,0.446,175.088,3,metalcore
+2HdjEa5BP2VACt1velDTIk,As I Lay Dying,Shaped by Fire,Blinded,59,202158,False,0.332,0.972,8,-5.258,1,0.198,5.84e-06,0.141,0.365,0.122,200.153,4,metalcore
+73QoCfWJJWbRYmm5nCH5Y2,Motionless In White,Scoring The End Of The World,Sign Of Life,65,220066,False,0.507,0.929,0,-3.246,0,0.0756,4.37e-05,1.52e-05,0.397,0.429,101.05,4,metalcore
+2pd1Lm8Jsslf2VdWQv0Je8,Lamb of God,Ashes of the Wake (15th Anniversary),Hourglass,55,240183,False,0.347,0.982,2,-3.399,1,0.128,0.00235,0.0237,0.375,0.146,115.64,3,metalcore
+7B7t2vIP6njdUHCtaMfKi0,The Amity Affliction,Glory Days,Snicklefritz,32,195346,True,0.352,0.959,5,-5.657,0,0.0937,0.00029,0.0,0.386,0.334,161.059,4,metalcore
+37LTDJrNmWco1qHO1AuZ1r,Wage War,Manic,Circle The Drain,61,215346,False,0.448,0.969,5,-3.309,0,0.11,0.000129,0.000135,0.0771,0.387,92.512,4,metalcore
+6WDImQJbSYW8Mm7TMaG18m,Virtue In Vain,The Whispers of Sleep,The Whispers of Sleep,34,218409,False,0.105,0.954,1,-5.48,1,0.111,8.01e-06,0.000696,0.0874,0.0934,83.173,4,metalcore
+4YthwCt7NMqxQCQfJPZMnU,Lamb of God,Ashes of the Wake (15th Anniversary),Now You've Got Something to Die For,55,219762,False,0.361,0.986,2,-2.486,1,0.103,0.00272,0.00109,0.126,0.217,92.334,4,metalcore
+7LnWFUNT788TUHymfa2JED,36 Crazyfists,Metal,Digging the Grave,0,176440,False,0.468,0.942,7,-3.265,1,0.0836,0.000117,0.00291,0.164,0.614,170.091,4,metalcore
+1WfkLWberK650GDPDoc5uf,Spineshank,Post-Millennial Noise,Smothered,0,190840,False,0.59,0.944,5,-3.596,0,0.0496,4.69e-05,0.000107,0.0553,0.694,124.81,4,metalcore
+2zTXd81kS4LdLU97AnBnMo,Spineshank,Metal,New Disease,0,194733,True,0.566,0.909,7,-4.184,1,0.0637,5.81e-05,0.000254,0.0981,0.275,121.979,4,metalcore
+3ULYRogM46zGLQ7IvPI2QU,Spineshank,Metal Lives!,New Disease,0,194733,True,0.566,0.909,7,-4.184,1,0.0637,5.81e-05,0.000254,0.0981,0.275,121.979,4,metalcore
+2Tc9VznHtQUmfOgE3L1RdN,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,22,250240,False,0.394,0.975,2,-3.533,0,0.315,0.00151,0.0,0.118,0.466,192.021,4,metalcore
+5MuWGLrqeqYEcpqWMq5M1w,Asking Alexandria,The Black,I Won't Give In,60,229600,False,0.428,0.914,2,-3.017,1,0.0762,0.00594,0.0,0.309,0.494,74.989,4,metalcore
+6SSLgl0gywQ5Z4dlLj7laX,MAXIMUM THE HORMONE,Bu-ikikaesu,Zetsubou Billy,54,224120,False,0.282,0.913,3,-1.995,0,0.0656,0.00283,0.00397,0.292,0.46,90.416,4,metalcore
+2WaEDuJkKaepUB5AmcxJt9,Stigmata,Stigmata,Сентябрь,44,244760,False,0.454,0.681,11,-3.883,0,0.0425,0.00317,4.4e-06,0.11,0.262,140.084,4,metalcore
+4cfEA7zQhaQpkhUFonoOPw,Dead by April,Worlds Collide,Crying Over You,51,265226,False,0.377,0.955,8,-4.581,0,0.0924,0.00113,0.634,0.341,0.506,180.048,4,metalcore
+2s4AbiaTKGrKldnICBxaWW,Dead by April,Dead by April,Promise Me,48,214493,False,0.408,0.939,11,-4.993,1,0.0531,0.000141,0.0,0.143,0.432,174.967,4,metalcore
+5Ve3eqZmguw75vcY7iwwZY,The Devil Wears Prada,Salt,Salt,58,207400,False,0.433,0.926,8,-4.482,1,0.0971,9e-05,0.000843,0.24,0.24,138.052,4,metalcore
+1cCYNgQILq8D3uX2sy50Mv,Bullet For My Valentine,Temper Temper (Deluxe Version),Tears Don't Fall (Part 2),48,338640,False,0.307,0.987,7,-4.592,0,0.21,0.000133,0.00813,0.118,0.116,167.619,4,metalcore
+4vVUoi4U6ikqH2wIoE2fmG,Motionless In White,Reincarnate,Reincarnate,62,220040,True,0.478,0.992,7,-3.165,1,0.211,0.000245,0.000206,0.327,0.117,109.969,4,metalcore
+5FtKix007hseKxb8U5uNa2,Bullet For My Valentine,Fever,Alone,51,356280,False,0.321,0.97,7,-3.509,1,0.0644,2.2e-05,0.0047,0.118,0.08,119.005,4,metalcore
+5p144lbzJw9kMCMOG61SF3,Dead by April,Anything at All,Anything at All,49,246545,False,0.482,0.925,7,-2.795,0,0.108,0.00364,0.0,0.111,0.238,110.0,4,metalcore
+556JR8TWeOKA0OH9MJKb6B,The Plot In You,DISPOSE,THE ONE YOU LOVED,54,205560,True,0.553,0.859,6,-5.131,0,0.0468,0.00139,1.08e-06,0.127,0.459,99.891,4,metalcore
+4TncWhCfACwaIU8hllz8SQ,Falling In Reverse,Just Like You (Deluxe Edition),Sexy Drug,66,194671,False,0.367,0.978,5,-2.308,1,0.232,0.00146,0.0,0.113,0.639,135.15,4,metalcore
+0xZ2RmwcaiP0tvAll1Ndh5,Bring Me The Horizon,That's The Spirit,What You Need,57,252400,True,0.511,0.952,1,-4.243,0,0.0754,1.37e-05,0.00201,0.135,0.557,147.999,4,metalcore
+6V5RvNdSqdEDshRKhsiCEH,Polaris,The Death of Me,All of This Is Fleeting,57,236380,False,0.486,0.953,8,-3.468,0,0.0878,0.000139,0.00243,0.14,0.592,138.032,4,metalcore
+46lko6p7snMatkxxO1a41q,The Plot In You,Swan Song,Face Me,52,208200,False,0.556,0.902,3,-4.959,1,0.422,0.111,0.000196,0.143,0.299,148.221,4,metalcore
+0S674qD7nVFL0L7pHs6wUO,Bullet For My Valentine,Gravity,Over It,55,227864,False,0.374,0.971,11,-4.284,0,0.0697,7.69e-05,0.0,0.322,0.701,97.625,4,metalcore
+4Q9uL0DWDcpCV1tE14xqnt,Atreyu,In Our Wake,The Time Is Now,61,199959,False,0.481,0.944,8,-3.665,1,0.231,0.00926,0.000328,0.278,0.396,165.02,4,metalcore
+0CqCpm4LLQbHUX5ysizWJS,Asking Alexandria,Stand Up And Scream,The Final Episode (Let's Change Channel),61,242080,True,0.213,0.957,3,-2.967,1,0.235,0.00156,0.0,0.394,0.157,196.118,3,metalcore
+4cDGa3JhRfCAFnxHJdshp2,The Devil Wears Prada,Color Decay,Noise,57,222600,False,0.305,0.956,8,-3.998,0,0.153,0.000645,4.51e-06,0.342,0.317,163.818,4,metalcore
+5LJmf4fMXEvO1PdlCBKwRz,Spiritbox,Rotoscope,Rotoscope,20,215362,False,0.565,0.878,0,-4.521,0,0.0892,1.73e-05,0.104,0.107,0.455,125.014,4,metalcore
+0ncHMpFGT96pis5pi4iJDm,Trivium,Silence in the Snow,Until the World Goes Cold,50,321161,False,0.517,0.887,10,-7.637,0,0.0732,0.000244,0.00258,0.151,0.531,166.008,4,metalcore
+4FyhUbVIVFEEOHfdTiFmbf,Bring Me The Horizon,Sempiternal (Expanded Edition),Deathbeds,55,299173,False,0.26,0.731,4,-5.946,0,0.0545,0.517,0.179,0.106,0.152,160.396,4,metalcore
+2NDH7pMWv3UQHOCN4tnXbI,Dayseeker,Sleeptalk,Sleeptalk,63,223026,False,0.49,0.946,5,-3.563,0,0.118,0.0563,0.0,0.749,0.24,130.042,4,metalcore
+2hpiAF6SdteB0RbSTSMaXq,While She Sleeps;Oli Sykes,You Are We,Silence Speaks,51,295762,True,0.478,0.926,6,-4.728,0,0.0753,0.0011,0.0,0.447,0.312,92.994,4,metalcore
+2y2ePmhzeawxdgzODNvpCD,Slaughter to Prevail,Kostolom,Demolisher,60,216000,True,0.209,0.991,1,-1.876,1,0.356,0.000407,0.000501,0.307,0.0659,199.865,4,metalcore
+48KR8JAziwDhlKHZ1pR0qX,The Devil Wears Prada,Color Decay,Exhibition,58,238400,False,0.46,0.971,9,-4.581,1,0.179,6.86e-05,0.00102,0.319,0.0853,96.582,4,metalcore
+4BSrRUm2cSaLRjN7xGpCRt,The Devil Wears Prada,Color Decay,Salt,59,207400,False,0.433,0.926,8,-4.482,1,0.0971,9e-05,0.000843,0.24,0.24,138.052,4,metalcore
+6bgSE8is2v4HewzJ6xYI4A,Bad Omens,THE DEATH OF PEACE OF MIND,The Grey,59,246336,False,0.463,0.917,11,-3.885,0,0.0701,0.000867,5.83e-05,0.125,0.503,95.02,4,metalcore
+5d0CEohvmvqcizfc0cXn1t,Wage War,Manic,Manic,62,164666,False,0.472,0.872,2,-5.244,1,0.0987,0.00328,0.00254,0.212,0.328,180.053,4,metalcore
+2XdcUAsMCuNMaWLmXIhdjW,Architects,For Those That Wish To Exist,Dead Butterflies,56,242407,False,0.433,0.863,3,-4.941,0,0.0565,0.00148,0.00342,0.0931,0.425,125.021,4,metalcore
+0XHnYbXteyBDfVvk9EGaPu,Asking Alexandria,See What’s On The Inside,Never Gonna Learn,57,198041,True,0.274,0.922,1,-3.663,0,0.0593,0.000115,0.0,0.123,0.366,105.132,4,metalcore
+7LG0FEpKoKvHCv1S6FUrBY,Slaughter to Prevail,1984,1984,60,215000,True,0.465,0.993,0,-1.734,1,0.0903,0.000354,0.0335,0.464,0.204,92.472,4,metalcore
+79r1StxsiqwbLLkTGK2OdG,Level,Turn Da Beat Up!,Turn Da Beat Up!,31,171389,True,0.745,0.9,0,-5.158,1,0.458,0.141,0.0,0.364,0.46,176.014,4,metalcore
+6kuudUd50kADw1HmSGoT6X,Bring Me The Horizon,Sempiternal (Expanded Edition),Hospital for Souls,57,406413,True,0.221,0.773,9,-5.654,0,0.0604,0.00284,0.0057,0.0816,0.0768,132.737,4,metalcore
+5aeIj88MLdekYvObw5Yisk,Machine Head,Is There Anybody Out There?,Is There Anybody Out There?,64,272665,False,0.408,0.953,7,-3.883,1,0.226,0.00532,0.0,0.338,0.291,177.94,4,metalcore
+17C4oPQ3sTpF11pi9yvGcs,Asking Alexandria,Stand Up And Scream,Not The American Average,63,279226,True,0.236,0.892,2,-4.106,0,0.188,0.0305,0.0,0.278,0.0685,184.981,4,metalcore
+7gNqCN4EK3B0mnklBp7EqP,Lamb of God,Sacrament,Blacken the Cursed Sun,50,328200,False,0.401,0.995,6,-2.831,0,0.118,3.68e-05,0.00128,0.176,0.112,116.444,3,metalcore
+6AVoiK1AVLnDjwCrUJL2rF,Architects,a new moral low ground,deep fake,51,213871,True,0.503,0.855,1,-4.186,0,0.0894,0.000103,0.00345,0.0558,0.311,95.986,4,metalcore
+3coeo9H305LiuDbXXn9ANe,Alpha Wolf,A Quiet Place to Die,Akudama,58,157411,True,0.44,0.993,1,-1.115,0,0.141,0.000176,0.00123,0.33,0.178,170.196,4,metalcore
+35i03ZqMFb5Q3O9TAQ7XLB,Parkway Drive,Glitch,Glitch,59,261811,True,0.551,0.871,1,-3.998,1,0.0477,9.45e-05,0.0968,0.286,0.367,106.043,4,metalcore
+5Px0r8pvMF2wLBnMpjB6AV,The Amity Affliction,Severed Ties,Snitches Get Stitches,31,200560,False,0.474,0.982,5,-2.83,0,0.0779,0.000382,0.099,0.337,0.248,94.997,4,metalcore
+0xfWKcNu13xxXQ2GT0P09M,Parkway Drive,Horizons (Deluxe Edition),Carrion,60,187960,False,0.228,0.969,6,-4.07,0,0.1,0.000275,0.0,0.0982,0.428,155.212,4,metalcore
+6shny2UVkpaLc7jEKEoePa,Bring Me The Horizon;Halsey,Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO,¿ (feat. Halsey),53,313344,False,0.51,0.789,2,-6.384,1,0.116,0.00799,0.674,0.838,0.13,155.971,4,metalcore
+33rDXMMp4yh6WNHQAmUUWF,Fight The Fade,FiXT Presents: Sinister Sounds,Monster,6,203647,False,0.416,0.663,6,-5.145,0,0.0446,0.00379,9.41e-06,0.0711,0.251,170.05,3,metalcore
+0CcqWuAEJC93K8cBMbAjgI,As I Lay Dying,Shaped by Fire,My Own Grave,60,253317,False,0.477,0.994,5,-4.953,0,0.241,0.000115,0.0129,0.0534,0.0397,125.058,4,metalcore
+1yYr4D1KjhhyDD5bZIiFQy,Trivium,In Waves (Special Edition),In Waves,60,302466,False,0.477,0.94,9,-3.435,1,0.103,0.000211,0.0518,0.346,0.338,76.517,4,metalcore
+37O5phPvMfJZBIscgXlw4a,Parkway Drive,Darker Still,Darker Still,61,410773,False,0.499,0.491,9,-6.7,0,0.0252,0.0102,0.271,0.0805,0.13,80.026,4,metalcore
+6qaUcMfAKiIXCnpoxC01vl,Andromida;Daedric,FiXT Presents: Sinister Sounds,The Rumbling,4,225206,False,0.481,0.933,4,-3.787,0,0.0538,2.41e-05,0.101,0.0796,0.338,144.986,4,metalcore
+3IsAdsoecXwzR4bqOdQvCE,Project46,Tr3s,Pode Pá,33,307307,False,0.568,0.963,5,-3.776,0,0.0856,0.000325,7.15e-05,0.375,0.267,125.015,4,metalcore
+4s0O3I5ZpVYfbuZKvNVfRD,Our Last Night,Habits (Stay High) [Rock],Habits (Stay High) - Rock,56,198260,False,0.567,0.894,5,-2.901,1,0.0361,0.000284,0.0,0.155,0.349,115.041,4,metalcore
+6ouj46Wib4kXgR4tQZDB0E,Wildways,Картины счастливого мира,Тёплый чистый остров,40,221250,True,0.346,0.961,4,-2.228,0,0.11,0.000356,0.0,0.0949,0.373,175.911,4,metalcore
+1tbjeelOKIjolYNUNnPMAD,Our Last Night,Oak Island,Same Old War,54,244899,False,0.426,0.952,5,-2.649,1,0.0719,0.00151,2.76e-05,0.104,0.28,147.111,4,metalcore
+3WERezDCiZxIDfghCax9uJ,Veil Of Maya,Matriarch,Mikasa,54,189857,False,0.501,0.991,7,-1.731,1,0.0996,2.46e-05,0.0,0.107,0.222,110.001,3,metalcore
+5GNkskB1Gg0T6JX7yptUAa,SiM,Devil in Your Heart,Devil in Your Heart,49,186053,True,0.543,0.934,8,-0.738,1,0.0642,0.000631,0.0,0.115,0.78,120.074,4,metalcore
+2lLsjgDoS0Hg5pNNHymXGG,Bring Me The Horizon,amo,why you gotta kick me when i'm down?,55,268860,True,0.607,0.841,10,-4.805,0,0.136,0.175,1.33e-05,0.132,0.518,131.862,4,metalcore
+4tGJ68OwrbEobOLzyqsv1V,Dead by April,Dead by April,What Can I Say,48,188173,False,0.472,0.969,10,-4.587,0,0.0573,0.00176,0.0,0.15,0.649,84.982,4,metalcore
+1Ww6fxBrCpyGCDyXvpx92F,Periphery,Periphery IV: HAIL STAN,Satellites,40,565000,False,0.569,0.741,0,-7.422,0,0.0371,0.0439,0.000605,0.128,0.211,119.966,4,metalcore
+1CH4iKlzvNAKMT8l88Qdmr,The Plot In You,DISPOSE,ONE LAST TIME,49,199173,False,0.544,0.898,7,-4.614,1,0.0642,0.00021,0.000329,0.108,0.425,120.01,4,metalcore
+6EWepM3ld6UUzS2heUGNtg,Our Last Night,abcdefu,abcdefu,58,157062,True,0.491,0.965,9,-4.911,1,0.0744,0.000155,0.0,0.388,0.331,129.881,4,metalcore
+4bE3cBcwAe7T5SklvbkiYZ,I Prevail,TRAUMA,Breaking Down,62,206146,True,0.503,0.568,4,-7.182,0,0.0341,0.00131,0.00144,0.0856,0.0705,126.935,4,metalcore
+6wqMBrsXDJhwAaGi6DvJ2M,Our Last Night,This is Halloween,This is Halloween,57,185500,False,0.393,0.951,1,-4.733,1,0.0862,0.000296,2.74e-06,0.164,0.453,167.042,4,metalcore
+2JeEIJFABPGktfB7tgQFX9,Periphery,Periphery IV: HAIL STAN,Reptile,44,1003746,True,0.277,0.91,7,-5.723,1,0.117,0.0012,0.000716,0.342,0.112,118.375,4,metalcore
+3BI1nr32dmrPTTMmywXZZp,Slaughter to Prevail,Kostolom,Baba Yaga,57,255000,True,0.251,0.966,10,-1.803,0,0.236,0.000355,0.00326,0.577,0.278,195.038,4,metalcore
+6FqBQIRLJMluO10YtDbETv,Beartooth,Riptide,Riptide,65,211119,False,0.477,0.934,6,-2.884,0,0.0803,0.0015,0.0,0.243,0.55,128.037,4,metalcore
+1BqzzWlA868p8J5VIbp50A,Currents,The Way It Ends,Better Days,59,247747,True,0.372,0.978,4,-4.833,0,0.157,0.000624,2.22e-05,0.134,0.214,76.359,4,metalcore
+6oshufDccwvnIwKCvKayb6,coldrain,Bloody Power Fame,Bloody Power Fame,56,238498,False,0.436,0.963,8,-4.608,1,0.173,3.51e-05,0.0339,0.297,0.402,154.894,4,metalcore
+5nYKbDASgvCDV4BLVmuGv4,Motionless In White;Lindsay Schoolcraft,Cyberhex,Cyberhex,56,275247,False,0.526,0.944,6,-3.815,0,0.144,0.000207,1.76e-05,0.0994,0.281,112.531,4,metalcore
+11beGBTthT9XhdQXYFkajZ,Bullet For My Valentine,No More Tears To Cry,No More Tears To Cry,53,221433,True,0.428,0.939,11,-4.917,0,0.089,2.24e-05,2.89e-05,0.13,0.454,94.972,3,metalcore
+0ceW5TkemJUEmJERavfqQq,Bring Me The Horizon;Dani Filth,amo,wonderful life (feat. Dani Filth),56,274403,False,0.406,0.964,6,-4.076,1,0.206,0.000416,0.000231,0.401,0.406,173.058,4,metalcore
+42xYFBO1ahIWyisI7VVVEh,Bring Me The Horizon,Moon Over the Castle (from GRAN TURISMO 7),Moon Over the Castle - from GRAN TURISMO 7,47,187001,False,0.491,0.813,11,-9.102,0,0.0369,0.000178,0.788,0.155,0.239,125.038,4,metalcore
+4JsDHMv5PVO8N07DbDq33r,A Day To Remember,What Separates Me From You,All I Want,68,202640,False,0.349,0.981,2,-3.228,0,0.141,2.58e-05,0.0,0.343,0.207,160.042,4,metalcore
+60ns0VdKqXDHiQ9wAgE73e,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,57,213851,False,0.381,0.921,4,-4.212,0,0.511,0.00134,2.97e-05,0.0814,0.129,151.769,4,metalcore
+2a05MFdR1vtm8QVKFs1SGn,Polaris,The Death of Me,Masochist,58,247924,True,0.49,0.941,3,-3.242,0,0.0495,0.000634,1.16e-05,0.101,0.264,119.998,4,metalcore
+650iZCPhzCPtSmynGnUnhT,I Prevail,TRUE POWER,Body Bag,62,196979,True,0.507,0.958,1,-4.688,1,0.0588,0.000123,6.06e-05,0.378,0.362,105.034,4,metalcore
+7eDtl2KToh99gXNRRfuY9l,Thy Art Is Murder,Hate,Reign of Darkness,57,215226,False,0.392,0.966,9,-3.863,1,0.172,0.00132,0.0473,0.239,0.0764,139.83,4,metalcore
+690SQwV9HI5aK07YO5yByz,Villain of the Story,Divided,Losing Control,56,208920,False,0.548,0.966,11,-4.616,1,0.0719,0.00101,0.0,0.436,0.474,125.037,4,metalcore
+0k6wiMT26Wc3K4B2IiloUw,Bullet For My Valentine,Scream Aim Fire,Waking the Demon,51,247693,False,0.306,0.995,2,-3.203,1,0.1,2.98e-05,0.00859,0.254,0.135,127.908,4,metalcore
+2PIMvIwLS16zr5EBYss3pF,Architects,tear gas,tear gas,58,257903,True,0.51,0.874,1,-3.557,1,0.0402,4.54e-05,2.04e-06,0.335,0.336,85.985,4,metalcore
+1LLiDI21J4WWlmqk7zsm9v,Spiritbox,Eternal Blue,Holy Roller,19,173174,False,0.419,0.948,1,-5.944,1,0.0969,0.00097,0.0396,0.765,0.167,161.244,4,metalcore
+4MjJlPgUYMQjvHOQq0uvOv,Sleeping With Sirens,Madness (Deluxe Edition),Better Off Dead,62,183781,False,0.239,0.969,11,-3.547,0,0.27,0.0224,9.24e-05,0.452,0.245,93.565,4,metalcore
+4JIYKZzKnlPhL28h0uixzZ,Get Scared,"Built for Blame, Laced With Shame - Spotify Exclusive",Don't You Dare Forget the Sun,64,193584,False,0.276,0.814,9,-5.048,0,0.0998,0.000681,0.0,0.107,0.472,144.793,4,metalcore
+7v9ZePEkbz8CkpaPZPbof1,Bad Omens,THE DEATH OF PEACE OF MIND,ARTIFICIAL SUICIDE,60,195000,True,0.561,0.898,9,-4.785,1,0.195,0.00024,0.00024,0.252,0.276,95.016,4,metalcore
+46WIf1TzfOl4jfaWbGn9QT,Lamb of God,Ashes of the Wake (15th Anniversary),The Faded Line,52,277727,True,0.352,0.985,2,-3.263,1,0.175,0.000859,0.0163,0.339,0.113,107.092,4,metalcore
+2f6FEu22hAFV5KpMklVTN0,Dance Gavin Dance,Tree City Sessions 2,Strawberry's Wake - Tree City Sessions,31,248558,True,0.661,0.836,7,-5.372,1,0.0611,0.0208,0.0,0.0566,0.509,129.999,4,metalcore
+21fFP56Ij422EpG1c0Lrqf,Architects,a new moral low ground,tear gas,49,257903,True,0.51,0.875,1,-3.556,1,0.0398,4.54e-05,2.18e-06,0.342,0.322,85.985,4,metalcore
+5O7A6fe7HJ5S3CmxKrfjzE,Gideon,Milestone,Bad Blood,29,164093,False,0.525,0.957,6,-3.419,1,0.162,0.000195,0.000115,0.396,0.223,107.491,4,metalcore
+04xV6DzDzE7TgWQKBGaC5E,Parkway Drive,Darker Still,Ground Zero,62,249305,False,0.536,0.89,1,-3.4,0,0.053,4.89e-05,5.35e-05,0.0472,0.454,113.05,4,metalcore
+2ozFNiP2FJHdL8Mh45yfAN,Protest The Hero,Palimpsest,All Hands,32,280546,False,0.447,0.974,1,-6.426,1,0.116,0.000529,1.42e-06,0.142,0.443,150.066,4,metalcore
+7ln7o4q6y9h8qEc6hGrtr1,Bullet For My Valentine,The Poison,Tears Don't Fall,56,348386,True,0.214,0.931,7,-3.347,0,0.143,0.000705,3.09e-06,0.0797,0.233,162.115,4,metalcore
+5vJi1SLf3lKJo5TuiSMzMt,Bullet For My Valentine,Scream Aim Fire,End of Days,30,258398,False,0.357,0.989,0,-2.622,0,0.0805,0.000213,4.76e-06,0.042,0.448,102.019,4,metalcore
+6IkcTpdDbL4OVg7skLdUyF,Electric Callboy,TEKKNO,Arrow of Love,67,222866,True,0.45,0.863,4,-7.284,0,0.0649,6.28e-05,0.0,0.358,0.62,75.028,4,metalcore
+2PTP5F8LJomTlxciEwjMmc,Architects,a new moral low ground,when we were young,47,193886,False,0.441,0.938,8,-3.011,1,0.109,4.53e-05,7.57e-06,0.325,0.409,170.047,4,metalcore
+65V2meSeDYo17yCWYSx8ug,Alexisonfire,"""Watch out!""",White Devil,32,214786,True,0.19,0.871,4,-5.416,1,0.083,8.06e-06,1.74e-05,0.239,0.349,95.437,4,metalcore
+07biMowcpdaymeMN6S6Kq2,It Dies Today,The Caitiff Choir,Severed Ties Yield Severed Heads,30,182080,False,0.342,0.933,8,-4.064,1,0.116,0.00173,6.44e-05,0.0898,0.557,171.099,4,metalcore
+63wAdO46RIIfwkj9GRZlZR,Ice Nine Kills;Less Than Jake;Fenix TX;JR Wasilewski;Buddy Schaub;Will Salazar,Hardcore Halloween,IT Is The End,31,288120,True,0.175,0.958,1,-4.139,0,0.237,0.0077,0.0,0.23,0.147,93.011,4,metalcore
+48gmTNjtEFROuEWHegOASs,Chimaira,Metal,Disposable Heroes,0,500306,False,0.183,0.986,6,-5.133,0,0.0692,1.75e-05,0.000106,0.179,0.291,187.989,4,metalcore
+4H5i3NfZgjNfeVwLLyJYZL,Chimaira,Metal Lives!,Disposable Heroes,0,500306,False,0.183,0.986,6,-5.133,0,0.0692,1.75e-05,0.000106,0.179,0.291,187.989,4,metalcore
+7Dv1rYPkx3v2QVCPUY0yhj,Destroy Rebuild Until God Shows,Post-Millennial Noise,"If You Think This Song Is About You, It Probably Is",0,150200,False,0.597,0.97,4,-6.303,1,0.159,0.00279,1.36e-05,0.354,0.352,121.971,4,metalcore
+51haCqHVfdZMZC3Y3fffgA,Chimaira,Groove Metal Roots & Branches,Dead Inside,0,225666,True,0.384,0.982,9,-3.132,1,0.179,0.000125,0.293,0.354,0.284,105.363,4,metalcore
+78ML3F5Lz3KiNkpnFAaR3q,Falling In Reverse,The Drug In Me Is You,Good Girls Bad Guys,65,195373,True,0.474,0.948,3,-2.592,1,0.122,0.0223,0.0,0.43,0.611,146.46,4,metalcore
+11EVeW30HHEMZZsWgWzdfN,Motionless In White,Graveyard Shift,Eternally Yours,59,312351,False,0.481,0.94,10,-3.288,0,0.0564,0.00113,0.0,0.107,0.194,94.948,4,metalcore
+6dvh0VS6h6QBihnGFOxZtI,Wildways,Картины счастливого мира,Весна,37,188500,False,0.5,0.911,9,-3.192,0,0.0532,0.00196,0.0,0.351,0.35,120.016,4,metalcore
+31iAZuJu1Obz239eDpMfee,Memphis May Fire,Make Believe,Make Believe,17,229007,False,0.556,0.924,2,-4.048,0,0.0701,0.00225,6.98e-05,0.11,0.49,131.014,4,metalcore
+1etHDrmg3sdSfOpSVMw0G4,Dream on Dreamer,It Comes and Goes,Runaway,55,218803,False,0.399,0.914,3,-3.733,0,0.112,0.0521,0.0,0.0719,0.232,172.005,4,metalcore
+7zWPlO8Mcjc5mQGf7v8dlE,Asking Alexandria,Asking Alexandria,Into The Fire,58,237003,True,0.375,0.965,8,-2.436,0,0.123,0.000164,0.000835,0.28,0.292,175.014,4,metalcore
+3VnBhHJdT7p05Wtenu4fmt,A Day To Remember,Homesick,Mr. Highway's Thinking About The End,63,255826,False,0.301,0.916,10,-6.218,0,0.0919,0.000132,1.84e-05,0.293,0.451,150.091,4,metalcore
+0b4TKuvZ4eJ8eHgJgXaCnN,Loathe,I Let It in and It Took Everything,Two-Way Mirror,55,300186,False,0.32,0.84,2,-6.703,1,0.0447,7.86e-05,0.761,0.135,0.173,160.104,4,metalcore
+6c9xVWbPeVPgrmWTYYeMTr,I Prevail,Lifelines,Alone,58,221000,False,0.539,0.746,6,-5.242,0,0.036,0.00324,5.08e-06,0.085,0.287,118.994,4,metalcore
+18HnaB5tysZbLSf6AxNIic,Dead by April,Let The World Know,Replace You,39,205213,False,0.318,0.639,4,-5.384,0,0.035,0.413,0.0,0.203,0.292,184.946,4,metalcore
+3ktjSD56hFRXC3LjbHXAH1,All That Remains,The Order Of Things,For You,53,256279,False,0.468,0.839,1,-2.371,1,0.0352,0.0508,0.0,0.126,0.378,91.958,4,metalcore
+59PzGWG2yXtvQiznMaFTVg,Dayseeker,Dreamstate,Dreamstate,59,219354,False,0.471,0.935,6,-3.482,0,0.0567,0.00125,0.0,0.0386,0.496,95.983,4,metalcore
+1EjbQjTQFTtp2aESORysZh,Upon A Burning Body,Built from War,Extermination,58,197148,False,0.464,0.975,0,-5.262,1,0.197,1.62e-05,0.00321,0.123,0.175,93.251,4,metalcore
+7cITfGsdjGaTP0b5oiLL0z,Saosin,Saosin,You're Not Alone,60,238053,False,0.458,0.845,2,-4.384,0,0.0422,0.000948,1.99e-06,0.359,0.175,119.994,4,metalcore
+1KHKeIouP04dDtl0EetgED,A Day To Remember,Homesick,The Downfall Of Us All,70,209093,False,0.588,0.881,0,-4.62,1,0.0666,0.000252,0.0,0.326,0.709,129.947,4,metalcore
+0DfRNaeaJaKoTepzMQIxtg,Bullet For My Valentine,Venom (Deluxe Edition),Venom,48,234826,False,0.468,0.976,7,-4.013,0,0.0732,5.29e-05,0.00195,0.0931,0.545,146.066,4,metalcore
+7JP8lWYrxpA8luKU8IPd3Y,Asking Alexandria,See What’s On The Inside,Alone Again,56,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,metalcore
+5hKPv68Xf6xXRZeHiVpW3V,Dead by April,Incomparable (Mystery Version),Calling,39,216946,False,0.472,0.943,0,-4.431,0,0.0403,0.000232,0.0,0.266,0.552,74.967,4,metalcore
+3oKd79SzqVkiel75QUZxAy,Periphery,Periphery II,Scarlet,43,248800,False,0.398,0.974,0,-5.063,1,0.144,7.76e-06,3.31e-05,0.513,0.212,89.982,4,metalcore
+0JWpbl3Ppr71ONy6VDP5vu,Caskets,Lost Souls,Hold Me Now,55,239848,False,0.498,0.92,5,-6.465,0,0.0497,0.00331,2.77e-06,0.142,0.346,140.049,4,metalcore
+0XX1yoKE6UQzweWOmgsIg2,I Prevail,TRUE POWER,FWYTYK,61,197981,True,0.266,0.869,5,-6.086,1,0.0817,0.000352,5.65e-05,0.347,0.468,75.004,4,metalcore
+0ofLz0b9mmXXvDgQp7XPRd,I Prevail,Lifelines,Lifelines,59,201480,False,0.503,0.94,1,-4.66,0,0.0475,0.00045,0.000536,0.217,0.532,160.03,4,metalcore
+1vuhNiQZTPkmnNJ0xNsf5S,I Prevail,Body Bag,Body Bag,58,196979,True,0.507,0.958,1,-4.688,1,0.0588,0.000123,6.06e-05,0.378,0.362,105.034,4,metalcore
+3iWlbqAaoIR7H7gyO3a6rV,Bullet For My Valentine,The Poison (Deluxe Version),Tears Don't Fall,56,348386,True,0.212,0.924,7,-3.349,0,0.135,0.000729,2.23e-06,0.0831,0.244,162.128,4,metalcore
+0d2mj7p92bZEckjowsc1a4,Architects,For Those That Wish To Exist,Meteor,55,241034,False,0.429,0.957,1,-3.069,0,0.107,0.000212,1.87e-06,0.0682,0.249,136.142,4,metalcore
+1Jo1KIp5rigqKayHmce0Lz,Demon Hunter,HEAVEN DON'T CRY,HEAVEN DON'T CRY,55,265706,False,0.444,0.893,1,-6.139,1,0.0531,6.58e-05,0.596,0.116,0.295,130.044,4,metalcore
+2gF7u3yLBTy6vGrxwQBoGF,Motionless In White,Masterpiece,Masterpiece,60,206648,False,0.324,0.863,10,-3.716,0,0.123,0.000109,0.0,0.311,0.394,177.985,4,metalcore
+4MszbfXWf5j6jsvOgiE1Mz,Vanna,Void,Toxic Pretender,28,231186,False,0.232,0.991,11,-2.912,1,0.246,0.00269,0.0,0.371,0.111,150.044,4,metalcore
+0EVlhi2DePy8Qfc3suq0to,Sea Smile,Raplord,Raplord,31,286478,True,0.508,0.983,10,-3.414,0,0.121,0.0132,2.06e-06,0.164,0.582,141.96,4,metalcore
+3VGheGbJrEnGvwteXNBDNt,Architects,Holy Hell,Hereafter,55,255586,False,0.513,0.973,6,-4.115,0,0.0849,4.58e-05,0.00326,0.224,0.159,121.018,4,metalcore
+1FXHf8bzBY6BV8atsqGPBN,The Devil Wears Prada,Color Decay,Hallucinate,54,213800,False,0.492,0.948,5,-4.531,1,0.137,0.000582,0.000288,0.166,0.112,134.026,4,metalcore
+4lNe1c66WPQO17zDOcgTwm,The Devil Wears Prada,Color Decay,Time,55,240200,False,0.52,0.92,5,-4.521,0,0.0685,0.000193,0.00473,0.362,0.369,112.01,4,metalcore
+7lYrz70DntWR7o8Sqfz0Ok,As I Lay Dying,An Ocean Between Us,The Sound Of Truth,54,260786,False,0.368,0.981,2,-4.084,0,0.12,2.02e-05,0.00549,0.129,0.277,165.018,4,metalcore
+4mGHzFvAiRCSOPIpjLvf80,The Devil Wears Prada,The Act,Chemical,57,230141,False,0.527,0.789,5,-7.344,0,0.0331,0.0022,0.0172,0.085,0.209,75.019,4,metalcore
+5XHw5KggwtnDhNRwZGjFUl,The Devil Wears Prada,Color Decay,Watchtower,56,168400,False,0.434,0.957,8,-3.227,1,0.142,9.65e-06,0.5,0.25,0.325,104.957,4,metalcore
+03jdl5GTBhKsgB1Yw8mVPh,Beartooth,Disgusting,In Between,65,213576,False,0.462,0.972,7,-2.642,0,0.138,0.00285,0.0,0.666,0.449,128.092,4,metalcore
+1ZEoYuekZQo62DLFtPVdqT,Bullet For My Valentine,Scream Aim Fire,Waking the Demon,54,247693,False,0.306,0.995,2,-3.203,1,0.1,2.98e-05,0.00859,0.254,0.135,127.908,4,metalcore
+0xsfZgm2hJrJfflKHwAVU4,Attila,Rage,Lights Out,29,192266,True,0.315,0.95,1,-4.618,0,0.15,0.000247,0.00602,0.376,0.377,95.981,3,metalcore
+7lMFAK8dv0QkWpIlZcWQlJ,Parkway Drive,Reverence,Prey,61,255230,False,0.27,0.964,6,-4.545,1,0.0866,3.28e-05,0.0247,0.525,0.325,99.731,3,metalcore
+0T8P86fvSK8kCUJFYPZbIH,A Day To Remember,What Separates Me From You,All Signs Point To Lauderdale,67,197200,True,0.425,0.983,10,-3.437,1,0.114,0.000263,0.0,0.114,0.513,149.95,4,metalcore
+3fQWrpsIRK1iwupKnrKFRv,The Acacia Strain,The Dead Walk,Whoa! Shut It Down,29,178226,False,0.282,0.985,8,-4.813,1,0.232,8.12e-05,0.00384,0.224,0.151,121.567,4,metalcore
+5QLH7zAdcAJLgR25gtvtoK,After The Burial,Dig Deep,Lost In The Static,57,273194,False,0.602,0.955,6,-4.888,1,0.154,0.000989,0.0133,0.207,0.193,126.009,4,metalcore
+5gawwgpayyI5xRadHUAEvx,Bring Me The Horizon,Sempiternal (Expanded Edition),And the Snakes Start to Sing,56,301946,True,0.336,0.835,1,-4.367,1,0.0472,0.00488,4.51e-05,0.0826,0.145,82.498,4,metalcore
+3VCtGbUafExxtdGnPYY8A5,Bullet For My Valentine,Scream Aim Fire,Last to Know,29,195746,False,0.368,0.99,2,-3.219,1,0.0529,0.000192,5.54e-05,0.293,0.663,100.078,4,metalcore
+68ae1LwQdpHhYwPrz7rTdl,Bleed From Within,Fracture,The End of All We Know,51,252333,True,0.359,0.979,6,-5.599,0,0.0866,0.000449,0.000282,0.326,0.303,149.026,4,metalcore
+2aJaWfw3gG31BM6GaBfSer,The Acacia Strain,Wormwood,Bay of Pigs,29,317506,False,0.51,0.984,2,-3.839,1,0.0866,1.3e-05,4.12e-05,0.407,0.129,109.997,4,metalcore
+4fpdKDIpr8YVg89VRlLL2r,A Day To Remember,For Those Who Have Heart,"Fast Forward To 2012 - Live At The Capitol / Ocala, FL / January 5, 2008",30,147426,False,0.315,0.956,7,-8.301,1,0.173,0.00784,5.03e-06,0.616,0.137,143.069,4,metalcore
+15zUfY9L1p7bN9JsgaTAP0,Trivium,Vengeance Falls (Special Edition),Strife,58,269266,False,0.461,0.987,1,-1.711,0,0.108,3.58e-05,8.48e-05,0.359,0.309,142.031,4,metalcore
+1EdHRAkS19Pj4B0mohrpjX,Ice Nine Kills,Safe Is Just a Shadow (Re-Shadowed and Re-Recorded),Chris Brown's Latest Hit,30,217051,True,0.51,0.95,1,-4.058,0,0.0555,7.03e-05,0.000317,0.145,0.457,135.067,4,metalcore
+1HlOGL1p6wlpOZatJ2NwFk,Killswitch Engage,Disarm the Descent (Special Edition),In Due Time,57,197573,False,0.486,0.959,0,-3.857,0,0.0485,0.000203,0.0259,0.173,0.527,84.997,4,metalcore
+7kX56S5T5acyvFmEWwDait,Awaken I Am,Roses,Roses,55,193309,False,0.525,0.931,3,-3.304,0,0.0661,0.00238,1.34e-06,0.129,0.394,138.01,4,metalcore
+2kNwTLUVbnNkBKaQw0apx0,Dead by April,Worlds Collide,I Can't Breathe,48,241853,False,0.477,0.9,1,-5.204,0,0.0927,0.000834,0.0111,0.121,0.486,97.457,4,metalcore
+1v2e2rAmPZMXsUl3zdQLN0,Volumes,Happier?,Bend,50,258560,False,0.507,0.861,2,-6.259,1,0.0448,0.000539,0.00184,0.169,0.484,150.96,4,metalcore
+4ORXSxr4tV5H6gH5KHAiAh,Asking Alexandria,The Black,The Black,57,281332,True,0.417,0.954,11,-4.152,0,0.0627,0.00151,0.0,0.407,0.146,96.993,4,metalcore
+4AAcxOYMztCUH7dtNv4JFo,Foxblood,Grief & Mercy Sleep,Mess Like Me,52,223636,False,0.456,0.832,5,-5.411,0,0.0427,0.000125,0.0,0.397,0.365,132.055,3,metalcore
+0Fk2NcRQpungRyAx9Y6KTk,Asking Alexandria,Stand Up And Scream,A Prophecy,58,213640,True,0.233,0.943,2,-3.443,0,0.171,0.00878,0.0,0.359,0.0501,149.992,4,metalcore
+3lPSaYAvlmzNxkOKo79zps,Dead by April,Worlds Collide,Warrior,49,181506,False,0.505,0.932,8,-4.143,1,0.14,0.00647,2.92e-05,0.0716,0.566,92.105,4,metalcore
+4NOO855YQh16AF5FhhO41L,SiM,THE BEAUTiFUL PEOPLE,EXiSTENCE,51,244426,False,0.522,0.961,8,-2.963,1,0.0504,0.000109,2.53e-05,0.329,0.6,93.937,4,metalcore
+1wZy1qIk3qPVv33I9bALi6,The Word Alive,Violent Noise,Why Am I Like This?,54,193653,False,0.321,0.949,2,-3.332,1,0.0633,9.78e-05,1.1e-06,0.322,0.23,175.103,4,metalcore
+6gfUOprNMeD8amncMOSFl0,Memphis May Fire,Remade In Misery,Misery,16,192176,False,0.431,0.899,1,-2.88,1,0.135,0.000546,0.000432,0.346,0.553,85.019,4,metalcore
+4nJzTpnrmdSw6QuAXnZh4S,Betraying The Martyrs,Black Hole,Black Hole,56,231762,False,0.518,0.861,6,-6.998,0,0.0493,0.00189,0.000539,0.0747,0.317,100.08,4,metalcore
+7oUkPewtWnIAQ8MncVTXBv,Bullet For My Valentine,Don't Need You (Edit),Don't Need You - Edit,52,267997,True,0.206,0.962,7,-4.714,1,0.136,2.63e-05,3.17e-06,0.0679,0.303,152.327,4,metalcore
+6baGTtDakSNvUfW3FJd8yX,Bring Me The Horizon;Rahzel,amo,heavy metal (feat. Rahzel),56,240586,True,0.589,0.914,7,-3.582,1,0.0935,0.00119,0.000257,0.361,0.512,129.935,4,metalcore
+2VJ8DjdaOC5G3deIAefhq3,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Itch For The Cure (When Will We Be Free?),54,86242,False,0.192,0.884,1,-5.42,0,0.143,0.404,0.174,0.43,0.0584,180.908,4,metalcore
+2Pf0u0mhGSxayM79Vy4LoT,Of Virtue,Sinner,Sinner,54,193738,True,0.579,0.773,5,-4.036,0,0.0318,0.000781,0.0,0.41,0.533,90.978,4,metalcore
+6RbeLGGRcELEeKjMAplpap,blessthefall,Witness,"Hey Baby, Here's That Song You Wanted",61,194800,False,0.199,0.955,3,-2.774,0,0.111,0.00191,2.1e-05,0.098,0.454,184.916,4,metalcore
+46b5EPoX1k0Q1VymqWZ35R,Dayseeker,Neon Grave,Neon Grave,60,239353,False,0.498,0.898,6,-4.135,0,0.0563,0.000216,0.0,0.111,0.268,97.952,4,metalcore
+45kxQnnDYbzlJ6ZSnaDBEH,VRSTY,Sick,Sick,28,189066,False,0.574,0.937,0,-3.163,1,0.0641,0.00465,0.0,0.123,0.353,95.035,4,metalcore
+6NDoBIaqTHdcudaR8RDJNw,Silverstein,Discovering The Waterfront,My Heroine,59,207586,False,0.412,0.823,4,-2.572,0,0.0323,9.62e-05,8.25e-05,0.153,0.162,154.115,4,metalcore
+50xyeJL2Hs9FDgtI1ROeB0,Architects,Holy Hell,Royal Beggars,52,241586,False,0.376,0.87,11,-4.566,0,0.0578,0.000269,0.000373,0.128,0.132,178.111,4,metalcore
+6LNKeK9iJ66iwe16VxG43H,Motionless In White,Disguise,Disguise,60,237500,True,0.497,0.932,6,-4.621,1,0.0952,0.000147,0.0,0.11,0.482,104.932,4,metalcore
+7GV1PfkTW3aahvzXreoDc7,The Devil Wears Prada,Color Decay,Trapped,56,196160,False,0.506,0.838,3,-3.723,0,0.0492,0.000504,3.32e-06,0.135,0.171,125.07,4,metalcore
+43I7DWS2yqIAbF3oFZ3rLP,The Devil Wears Prada,Color Decay,Sacrifice,56,247440,False,0.207,0.959,8,-3.67,0,0.175,8.42e-05,4.4e-05,0.543,0.21,173.939,4,metalcore
+0Pl5XX0MbdQ5E702GBhnUn,Wage War,Deadweight,Stitch,62,205986,False,0.501,0.968,6,-5.324,1,0.12,0.000114,0.00868,0.683,0.392,149.989,4,metalcore
+3gRwYAsiX4e50J43BkmZxI,Wage War,Pressure,Low,59,227093,False,0.5,0.967,1,-3.218,1,0.0534,1.25e-05,6.16e-05,0.12,0.498,129.994,4,metalcore
+6NYdAmvdebGyB2zASPBEKg,Currents,The Death We Seek,The Death We Seek,56,245719,False,0.209,0.944,4,-4.104,1,0.103,8.65e-06,0.1,0.404,0.247,113.301,4,metalcore
+0vPkRB52RENZMpHybpFKYK,Motionless In White,Disguise,Brand New Numb,62,222461,True,0.566,0.886,0,-3.63,1,0.0902,0.000348,0.0,0.494,0.619,130.066,4,metalcore
+6yyNJbdf5ysREkntoCqPTz,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,61,207854,False,0.312,0.968,5,-3.316,1,0.418,0.000305,4.37e-05,0.113,0.3,103.005,4,metalcore
+5Bbfzqvb818wOUH5skkCr9,The Acacia Strain,Continent,Skynet,28,262200,True,0.194,0.94,11,-5.111,1,0.168,0.00245,0.0055,0.18,0.0996,179.982,4,metalcore
+4XIyKIqxM2wo4mZJYPwoqa,Slaughter to Prevail,Kostolom,Bonebreaker,56,265000,True,0.487,0.978,10,-1.451,0,0.111,0.00014,0.0251,0.307,0.266,100.0,4,metalcore
+4RUmLxHGEoeyG3TU78OCLG,Bullet For My Valentine,Scream Aim Fire,Waking the Demon,51,247693,False,0.306,0.995,2,-3.203,1,0.1,2.98e-05,0.00859,0.254,0.135,127.908,4,metalcore
+3RV8G3G7ACo0lRLvE2mhXP,Ocean Grove;Dune Rats,BORED,BORED,28,224535,False,0.444,0.866,6,-5.428,0,0.0459,7.72e-05,1.32e-05,0.299,0.523,134.94,4,metalcore
+5Rb3OxCE0BAuDfgTr4awtF,Asking Alexandria,Like A House On Fire,Antisocialist,56,216411,True,0.572,0.852,6,-4.712,0,0.0322,0.00105,0.0,0.0844,0.378,129.969,4,metalcore
+6QhzpxVOPMeku3Yuz3aeEl,Gideon,Calloused,Calloused,28,220480,False,0.555,0.994,6,-2.139,1,0.0909,0.00122,0.0,0.362,0.318,114.956,4,metalcore
+18tzenBUBfhF6Z15SGiGPk,Lamb of God,New American Gospel,Black Label,49,292293,False,0.297,0.962,2,-4.333,1,0.0775,4.6e-05,0.855,0.329,0.336,90.503,4,metalcore
+1jKH10ufuA4EzUCdobVxu0,Parkway Drive,Darker Still,Glitch,60,261811,True,0.552,0.87,1,-3.998,1,0.048,9.54e-05,0.0968,0.283,0.364,106.049,4,metalcore
+63GJDO5mxiFP1ZQEpdUWRd,Polaris,The Mortal Coil,The Remedy,57,243913,False,0.356,0.995,4,-3.366,0,0.172,3.26e-06,0.000196,0.403,0.167,183.985,4,metalcore
+5I6CHJ7deFzfpktAMjYLsr,King 810,Midwest Monsters,Midwest Monsters,29,160026,True,0.483,0.949,11,-5.19,0,0.156,0.00894,0.00023,0.302,0.156,125.104,4,metalcore
+3CYa33hVJKEwHC0HmgMQA8,The Acacia Strain,Wormwood,Nightman,28,171800,False,0.513,0.988,8,-3.453,1,0.0784,5.42e-05,0.00133,0.244,0.375,144.965,4,metalcore
+7uQF7RMPg9ffIRYIFdDsAJ,The Black Dahlia Murder,Miasma,Novelty Crosses,29,231626,False,0.282,0.989,7,-4.899,1,0.0887,2.89e-05,0.00292,0.392,0.104,105.285,4,metalcore
+4db68Sbkp5DydcmUAJgNvs,Gideon;Drew York,Out of Control,2 CLOSE (feat. Drew York),28,222823,True,0.587,0.959,5,-3.304,0,0.0692,0.000136,0.0578,0.67,0.446,97.531,4,metalcore
+31mSJLJ2UptaxPj2uCi88A,Stick To Your Guns,Comes From the Heart,Enough is Enough,29,237973,False,0.284,0.947,0,-3.69,0,0.162,0.00125,8.16e-05,0.335,0.274,174.998,4,metalcore
+52DtQQcCl82YR38T8oP0WK,Ice Nine Kills,The Burning,You Scratched My Anchor,29,173560,False,0.19,0.964,8,-2.85,1,0.197,0.000202,7.06e-06,0.347,0.659,187.998,4,metalcore
+3zxcrIUvm2eSTs4ZzzDtvk,The Devil Wears Prada,Dead Throne,My Questions,28,192360,False,0.303,0.973,11,-2.907,0,0.137,0.000197,1.3e-05,0.336,0.191,139.716,4,metalcore
+5TtVQeYpMJ7fED6C44p9CU,The Acacia Strain,Wormwood,Terminated,28,194386,False,0.52,0.991,11,-4.428,0,0.107,9.76e-05,0.0181,0.34,0.252,120.04,4,metalcore
+3lFakZehrbVDh7v52lunxS,Ice Nine Kills,Safe Is Just a Shadow (Re-Shadowed and Re-Recorded),Red Sky Warning,29,245916,False,0.316,0.978,9,-4.453,1,0.186,0.000251,0.0,0.334,0.354,199.92,4,metalcore
+1Rma7wWp8qWyoqRFll4bAz,Project46,Que Seja Feita a Nossa Vontade,Foda-Se - Se Depender de Nós,31,269126,True,0.363,0.996,4,-3.228,0,0.223,0.000634,0.000398,0.0679,0.0586,121.89,4,metalcore
+5OhsGNXNLzKlks9amdXFAw,Callejon,Hartgeld im Club (Bonus Tracks Version),Urlaub fürs Gehirn,30,213596,True,0.472,0.933,1,-5.791,1,0.0511,0.000592,0.0,0.346,0.316,159.988,4,metalcore
+1CJlYjcx4jFTKDLM5XbznM,Callejon,Hartgeld im Club (Bonus Tracks Version),Schlechtes Vorbild,30,211333,True,0.587,0.941,10,-5.116,0,0.0643,0.0193,0.0,0.336,0.535,97.021,4,metalcore
+4gh9MN31XjcG7USAQjhVEQ,Callejon;Antifuchs;Pilz,Hartgeld im Club (Bonus Tracks Version),Hartgeld im Club (feat. Antifuchs & Pilz),30,228749,True,0.61,0.898,2,-5.862,1,0.0683,0.000603,0.0,0.225,0.508,99.899,4,metalcore
+1PWFyfV7yYhlxHZX2g25wS,Bring Me The Horizon,amo,ouch,50,109011,True,0.514,0.813,2,-6.554,0,0.0719,0.00221,0.0204,0.295,0.382,160.047,4,metalcore
+4d8iN5Re3A6UOYVxZAbJ7v,Of Mice & Men,Obsolete,Obsolete,54,265750,False,0.407,0.95,7,-6.998,1,0.193,0.000103,0.191,0.516,0.246,191.741,4,metalcore
+496Lo05285W4Ut6PaW9y2t,Bad Omens,THE DEATH OF PEACE OF MIND,bad decisions,56,261346,False,0.514,0.53,7,-7.743,0,0.0315,0.0908,0.0493,0.117,0.13,90.005,4,metalcore
+7fQox8Ere1HDm0jhSnsFHu,Bring Me The Horizon;YUNGBLUD,Obey (with YUNGBLUD),Obey (with YUNGBLUD),55,220538,True,0.462,0.99,1,-3.175,0,0.211,0.000103,0.0,0.374,0.204,137.061,4,metalcore
+7v9HNMlAe2UBaEhvaCk5wX,Make Them Suffer,Doomswitch,Doomswitch,58,275205,True,0.25,0.952,9,-4.059,0,0.209,2.45e-05,0.0135,0.0892,0.126,143.022,3,metalcore
+7zgIdPmFuTRPj7MsAKV0lH,Bullet For My Valentine,Knives,Knives,51,256068,False,0.515,0.974,7,-3.716,1,0.0865,4.3e-06,3.3e-06,0.048,0.191,135.949,4,metalcore
+0y0v0SDevDcGW5rsDElup3,Motionless In White,Disguise,Thoughts & Prayers,60,240450,True,0.321,0.962,1,-3.364,1,0.161,6.78e-06,0.0,0.396,0.473,200.142,4,metalcore
+1KF6uW84ksAUlTMy08gP1R,Motionless In White,Somebody Told Me,Somebody Told Me,61,199477,False,0.486,0.961,10,-3.687,0,0.0776,1.01e-05,0.000232,0.121,0.65,138.029,4,metalcore
+2nuA1esWzYEgnfQ4DpsSsm,Trivium,Ascendancy,Dying in Your Arms,53,173160,False,0.446,0.933,9,-3.605,0,0.0537,2.55e-05,9.67e-05,0.085,0.753,159.961,4,metalcore
+14Zx6amujcHnn2IRlJeZvn,The Devil Wears Prada,Color Decay,Cancer,55,263000,False,0.402,0.849,5,-6.321,1,0.0642,0.0078,0.0,0.258,0.0923,158.966,4,metalcore
+0MBYfuf0BxZH1FJf6jHTus,I Prevail,TRUE POWER,Fake,61,171606,True,0.539,0.952,9,-5.301,0,0.0569,0.000408,0.000639,0.938,0.275,105.018,4,metalcore
+2uD8ezTUaLTtoqaXUiWPIR,Periphery,Periphery III: Select Difficulty,Lune,38,467013,False,0.488,0.851,5,-6.146,1,0.0447,0.00208,0.000501,0.0943,0.337,134.99,1,metalcore
+0qZ03ABKZsGbGhvh1zbbil,Spiritbox,Eternal Blue,Sun Killer,16,227477,False,0.33,0.777,6,-6.316,1,0.0838,0.00315,0.00227,0.167,0.236,114.309,1,metalcore
+7siSMBw1wFPPBNoBtXNzMb,Lamb of God,Resolution,Desolation,44,234306,True,0.434,0.997,1,-2.891,1,0.172,2.07e-05,0.00711,0.428,0.0676,137.936,4,metalcore
+2eInKe5RkYZanyWtSn2THJ,The Amity Affliction,Severed Ties,B.D.K.I.A.F,27,196520,False,0.37,0.962,1,-1.829,1,0.0756,0.0177,0.0,0.311,0.301,158.002,4,metalcore
+4v3Iyw1DP578eRpoQPpcv9,Lamb of God;Megadeth;Dave Mustaine,Wake up Dead (feat. Dave Mustaine),Wake up Dead (feat. Dave Mustaine),50,223413,False,0.225,0.937,0,-4.596,1,0.124,9.51e-05,0.163,0.119,0.351,161.195,4,metalcore
+0fmwyv8VP8Jh71e87oCHv1,As I Lay Dying,Shadows Are Security,Through Struggle,54,238173,False,0.195,0.976,8,-4.381,1,0.0808,6.86e-05,0.000912,0.263,0.531,180.372,4,metalcore
+3XofThdII94fVjvIj2QUci,The Devil Wears Prada,Broken,Broken,52,228600,False,0.43,0.855,4,-5.104,0,0.0711,0.00276,0.0,0.335,0.135,145.02,4,metalcore
+6RcsAN8XF5KX6mMh6dum8e,The Amity Affliction,Let the Ocean Take Me,Pittsburgh (No Intro),61,239127,True,0.386,0.943,5,-3.033,0,0.185,0.000133,0.0,0.0928,0.402,148.008,4,metalcore
+56ys3vnzof78GFoD3lf09j,The Amity Affliction,Severed Ties,Poison Pen Letters,27,250920,False,0.303,0.963,1,-1.689,0,0.0813,0.00829,0.0,0.273,0.393,177.953,4,metalcore
+1XK0SrwnujLMZv22WjVQU9,Electric Callboy,TEKKNO,Tekkno Train,65,177626,False,0.538,0.87,8,-7.739,0,0.0533,0.000123,8.56e-06,0.155,0.541,145.02,4,metalcore
+1be1JhmFD3qFqQ4BrDzcK6,Bury Tomorrow,Abandon Us,Abandon Us,58,222514,True,0.417,0.978,1,-3.954,1,0.222,6.26e-05,0.000396,0.22,0.189,138.236,4,metalcore
+4YhHPtAVCxj7HfcvGTBHAC,Spiritbox,Blessed Be,Blessed Be,56,245830,False,0.484,0.918,5,-4.684,0,0.0672,0.000391,0.0291,0.105,0.399,105.046,4,metalcore
+0qW7uuJfh6tuDocaamHi0I,Alpha Wolf,A Quiet Place to Die,A Quiet Place to Die,57,147227,False,0.542,0.958,8,-3.536,1,0.151,0.000627,0.149,0.307,0.0817,110.003,4,metalcore
+1tBghD5Z8rBeN7eHDXLamy,Ice Nine Kills;Jacoby Shaddix,Welcome To Horrorwood: The Silver Scream 2,Hip To Be Scared [Feat. Jacoby Shaddix],64,203560,True,0.276,0.862,1,-5.352,0,0.255,0.00147,0.0,0.174,0.526,182.115,3,metalcore
+44M12pkcMqqdbNNooHCZ6C,I Prevail,Lifelines,Come And Get It,62,181426,True,0.567,0.987,4,-4.069,1,0.0765,0.000133,2.38e-05,0.371,0.383,107.974,4,metalcore
+7mfMTQ21RSVhUw778ymlyV,Architects,the classic symptoms of a broken spirit,deep fake,0,213871,True,0.496,0.856,1,-4.169,0,0.0862,0.000109,0.00285,0.056,0.299,96.025,4,metalcore
+46xcK3IlceaiXFuzOaLysR,Architects,the classic symptoms of a broken spirit,spit the bone,0,212479,False,0.323,0.85,1,-3.273,1,0.112,3.77e-05,0.00303,0.128,0.361,124.597,3,metalcore
+4qRe7JlY6zvKzrzlXTugo6,Lamb of God,Ashes of the Wake (15th Anniversary),Ashes of the Wake,48,345410,False,0.208,0.974,7,-4.156,1,0.206,8.8e-05,0.842,0.183,0.0795,187.452,3,metalcore
+12lkUbhW7B4dZ46xHoT9Sj,Architects,the classic symptoms of a broken spirit,doomscrolling,0,261568,False,0.479,0.959,3,-2.929,0,0.0986,0.000101,0.000539,0.344,0.357,119.976,4,metalcore
+1nXWhLumXogqFeijfa1uJd,Architects,the classic symptoms of a broken spirit,be very afraid,0,260034,True,0.472,0.92,1,-5.141,1,0.186,0.000167,0.00436,0.498,0.266,105.128,4,metalcore
+7xcLEBPMj4vLqoF13r2T3h,Killswitch Engage,Disarm the Descent,No End in Sight,28,209266,False,0.531,0.983,8,-4.163,1,0.0735,5.59e-05,0.0439,0.155,0.253,120.048,4,metalcore
+1Ho5lI6FHNyG8H7UW5kSrs,Architects,the classic symptoms of a broken spirit,living is killing us,0,221406,True,0.469,0.849,0,-3.157,1,0.0527,2.23e-05,0.000212,0.571,0.266,94.962,4,metalcore
+3Pysg3zpSc34Aj08HPbl78,Architects,the classic symptoms of a broken spirit,burn down my house,0,259143,False,0.424,0.823,1,-4.472,0,0.0398,0.000181,0.000496,0.338,0.423,83.473,4,metalcore
+1pkL13XhGEPpCrswknIw9T,King 810,La Petite Mort or a Conversation with God,The Trauma Model,28,243373,True,0.665,0.881,2,-6.321,1,0.2,0.00316,0.000581,0.522,0.375,128.078,4,metalcore
+2ijbU93XOTRIqoOzPGPNiK,Parkway Drive,Darker Still,The Greatest Fear,59,328743,False,0.484,0.85,1,-3.428,0,0.0482,0.00013,0.00429,0.0423,0.123,106.012,4,metalcore
+1NDLQvcwBgWn4Il3ex0kkH,Architects,the classic symptoms of a broken spirit,born again pessimist,0,211394,True,0.473,0.9,1,-3.39,0,0.104,6.68e-05,0.000217,0.0615,0.468,151.988,4,metalcore
+6m1mPWWQTiOp2Daf024oCW,Architects,the classic symptoms of a broken spirit,all the love in the world,0,241040,True,0.386,0.906,7,-2.884,1,0.0916,3.68e-05,0.00011,0.227,0.48,161.787,4,metalcore
+7Igb2aGtzSlisOgXbjmdZW,Architects,the classic symptoms of a broken spirit,tear gas,0,257903,True,0.509,0.878,1,-3.57,1,0.0411,4.52e-05,2.63e-06,0.365,0.354,86.009,4,metalcore
+70rsxgG3v35GlBGUu3AsIY,Stick To Your Guns,Diamond,The Bond,27,156626,False,0.283,0.978,6,-4.059,0,0.125,3.58e-06,0.0141,0.081,0.164,140.06,4,metalcore
+0G5RmMCg44lYXCCg9EJ7qe,DevilDriver,"Outlaws ’Til The End, Vol. 1",Copperhead Road,29,215382,False,0.391,0.917,2,-4.973,1,0.063,0.000137,0.000362,0.34,0.245,95.364,4,metalcore
+2XNJNwSOq8tLWhQ5a9sGBb,Architects,the classic symptoms of a broken spirit,a new moral low ground,0,211848,False,0.469,0.937,4,-3.427,0,0.0773,0.00061,0.00176,0.329,0.198,89.041,4,metalcore
+7DkN4oeXv2mqyPy0sJNrus,Architects,the classic symptoms of a broken spirit,when we were young,0,193886,False,0.438,0.938,3,-3.011,0,0.121,4.52e-05,8.05e-06,0.325,0.407,169.868,4,metalcore
+5HXWIpc8zLACuoaR5gMaip,Bad Omens,Finding God Before God Finds Me,Dethrone,60,209134,True,0.283,0.935,6,-4.56,1,0.142,1.59e-05,0.0057,0.073,0.419,111.884,3,metalcore
+05dayqMNAmaZU7gTUdV0eM,Protest The Hero,Palimpsest,The Canary,30,267733,False,0.58,0.977,6,-6.444,1,0.0933,0.00186,2.05e-06,0.49,0.45,112.47,3,metalcore
+7vDaCNHW2KUUNZrxiYeRnD,He Is Legend,It Hates You,Everyone I Know Has Fangs,30,205786,False,0.337,0.966,1,-4.816,1,0.167,1.75e-05,0.731,0.182,0.567,176.003,4,metalcore
+4WJQ3CFiJf1GwRCmzcMwP8,Project46,Tr3s,Pânico,30,219252,False,0.375,0.987,2,-3.49,1,0.141,3.3e-05,0.0294,0.764,0.292,136.559,4,metalcore
+0hqVuGCLZXKj10jIjTkKB9,Atreyu,Suicide Notes And Butterfly Kisses,At Least I Know I'm A Sinner,28,202293,False,0.34,0.923,8,-4.924,1,0.0491,1.39e-05,3.45e-05,0.0591,0.58,97.739,4,metalcore
+2Qm7HUXiXKIKRlfGGyEHL5,He Is Legend,White Bat,When The Woods Were Young,29,216170,False,0.244,0.964,2,-4.663,1,0.119,4.07e-05,0.436,0.244,0.216,177.6,4,metalcore
+2fZeFBqhR1miYusitKjQls,bloodsimple,Metal,Dead Man Walking,0,237693,True,0.54,0.98,1,-3.463,1,0.0823,0.000169,1.56e-06,0.319,0.388,107.767,4,metalcore
+5IBDi9cISbefMMtAB8syp3,Bring Me The Horizon,Live at the Royal Albert Hall,Doomed - Live at the Royal Albert Hall,49,280250,False,0.402,0.9,5,-6.444,0,0.0919,0.0729,0.00401,0.783,0.223,147.021,4,metalcore
+6RObeP8IVb4X4nCLUCJ9Dx,Of Mice & Men,Of Mice & Men,Second & Sebring,16,229120,False,0.273,0.973,1,-3.324,0,0.0806,0.000856,0.0,0.388,0.186,133.286,4,metalcore
+50NQdrO55nqwZrDwKny5NH,Escape the Fate,Dying Is Your Latest Fashion,Not Good Enough For Truth In Cliché,61,231506,False,0.372,0.904,5,-4.438,1,0.106,0.007,1.34e-06,0.112,0.362,159.081,4,metalcore
+44qWzzAQIqRpBw7S2YZO8y,Emmure,Sons of Medusa,Sons of Medusa,56,93214,True,0.529,0.662,4,-7.474,1,0.0546,6.99e-06,0.558,0.327,0.188,139.995,4,metalcore
+6SeFPYWv9lIlSWanyEDYf5,Falling In Reverse,Losing My Life,Losing My Life,57,299015,True,0.446,0.927,2,-3.727,0,0.228,0.027,0.0,0.0931,0.274,160.031,4,metalcore
+2ZiJidFdQ30nVJEP4u44l3,I Prevail,Heart Vs. Mind,Blank Space,63,240927,False,0.437,0.863,11,-5.28,0,0.0941,0.00302,0.0,0.144,0.233,194.073,4,metalcore
+0p252h5o9bUfeAmc3NfXrA,Wildways,Километры,Километры,38,204000,False,0.373,0.882,4,-5.856,0,0.0497,3.77e-05,8.39e-05,0.159,0.181,99.946,4,metalcore
+3BzrV9GCvaCr4m7N2FvNvK,"LANDMVRKS;Chunk! No, Captain Chunk!",Lost in the Waves (The Complete Edition),Suffocate,55,198881,False,0.246,0.81,6,-5.091,0,0.0664,0.00744,2.02e-06,0.0963,0.194,142.909,4,metalcore
+7dRj3sTBYkNbEx5kdNHriv,Bring Me The Horizon,MANTRA,MANTRA,53,233297,True,0.502,0.817,0,-3.508,1,0.0447,0.000477,0.0,0.153,0.617,90.024,4,metalcore
+1NYlPHjmopAthEDeIGfJo3,Emmure,Hindsight,(F)Inally (U)Nderstanding (N)Othing,55,172394,True,0.519,0.898,6,-7.055,1,0.0758,0.000141,0.0433,0.378,0.196,106.543,4,metalcore
+6GR1sgN51rNrjhPVu0iEQA,Andrew Baena;Johnny Ciardullo,Hollywood's Bleeding,Hollywood's Bleeding,50,157623,False,0.347,0.898,4,-4.583,0,0.0519,0.000184,0.000199,0.35,0.127,134.062,4,metalcore
+5aoBuRB9lHxCh1J25wTPhQ,Falling In Reverse,I'm Not A Vampire (Revamped),I'm Not A Vampire - Revamped,56,376816,True,0.403,0.501,2,-5.781,0,0.0301,0.366,0.0,0.166,0.136,136.212,4,metalcore
+3flxPmOcA1rm7rKsZLfnD9,We Came As Romans,Darkbloom,Darkbloom,56,228272,False,0.493,0.837,8,-5.405,1,0.0411,8.86e-05,4.58e-06,0.124,0.342,110.012,4,metalcore
+0FCY8j3JRrZ2ynRUdMK9pS,Of Mice & Men,Echo,Obsolete,57,265750,False,0.407,0.95,7,-6.998,1,0.193,0.000103,0.191,0.516,0.246,191.741,4,metalcore
+3Wn52FjoUJClQOXwKePPp3,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,57,233967,False,0.561,0.984,2,-2.626,0,0.0636,0.0536,0.0,0.176,0.584,146.036,4,metalcore
+3A5zeEH2eLW3uMYXoBj9Tq,Lamb of God,Wrath (Special Edition),Grace,42,236466,False,0.303,0.971,6,-3.608,1,0.258,3.46e-05,0.0635,0.128,0.183,129.81,4,metalcore
+2jzqAyRGrsWrt45t5kGmfi,Bullet For My Valentine,Fever,Fever,52,237320,True,0.438,0.964,0,-3.334,1,0.116,0.000251,0.0,0.248,0.289,173.054,4,metalcore
+2AqKRuEcR0R8iYkBWk5Uqj,Spiritbox,Rotoscope,Hysteria,16,224075,False,0.423,0.938,11,-4.471,0,0.0798,1.73e-05,0.0415,0.67,0.202,104.046,4,metalcore
+6Hye4TXeYUXzU0tWofYdhC,LANDMVRKS,Lost in the Waves,Lost in a Wave,55,224929,False,0.192,0.944,2,-4.769,1,0.0635,8.07e-05,2.5e-05,0.095,0.289,147.001,4,metalcore
+5bnH51lYXOGVVjW7ABkKTW,I Prevail,TRUE POWER,Closure,58,189596,False,0.482,0.748,1,-7.351,0,0.0438,0.00472,0.0134,0.13,0.271,145.948,4,metalcore
+4rIoGk5qkn0yRDshvHVyjb,We Came As Romans,"Punk Goes Pop, Vol. 5",Glad You Came,59,183480,False,0.542,0.943,7,-4.168,0,0.0733,0.000323,6.65e-06,0.0926,0.277,129.996,4,metalcore
+2dsU8mGoNg4XdMKOBWyzKx,Sylar,To Whom It May Concern,Prescription Meditation,27,226573,True,0.432,0.971,8,-3.341,1,0.272,0.00123,3.81e-06,0.192,0.373,99.718,4,metalcore
+37SgiDGQSiUTQXZo2Ml888,August Burns Red,Chop Suey!,Chop Suey!,51,218187,False,0.535,0.98,7,-3.382,0,0.0699,0.00189,0.229,0.111,0.331,125.023,4,metalcore
+4f1Bxzgor1HNbdm2kGl8mL,Bullet For My Valentine,Bullet For My Valentine (Deluxe),This Means War,52,235018,True,0.478,0.899,11,-4.815,1,0.0724,7.82e-06,2.09e-05,0.0756,0.373,104.166,4,metalcore
+17ExHVQYfJBlTSnbidz0LQ,Bleed From Within,I Am Damnation,I Am Damnation,49,286000,False,0.476,0.966,6,-4.228,1,0.0727,0.000662,0.000212,0.0538,0.227,92.506,4,metalcore
+6Qd7XC9csaFz3dogXXhrVM,Wage War,Manic,Relapse,57,179266,False,0.496,0.962,1,-4.087,1,0.11,0.000188,4.76e-05,0.306,0.174,112.53,4,metalcore
+3rNzTOKfz7jZ86io1m9W5V,Bad Omens,THE DEATH OF PEACE OF MIND,Take Me First,57,199685,False,0.414,0.871,4,-3.893,0,0.109,0.00118,9.02e-06,0.107,0.434,164.148,4,metalcore
+46cEIa1iQPSQLnPVP2hmVm,The Amity Affliction,Severed Ties,Jesse Intense,27,252933,False,0.387,0.948,9,-2.458,1,0.053,0.0143,0.0,0.0739,0.269,159.989,4,metalcore
+1z33QOn2Hcq9SfI5pES25L,Escape the Fate,This War Is Ours (Deluxe Edition),This War Is Ours (The Guillotine II),58,266733,False,0.399,0.955,4,-5.593,0,0.163,0.00838,0.0,0.0759,0.152,95.498,4,metalcore
+49ylH81Y53wUOlTHqXK1J2,Light The Torch,Revival,The Safety of Disbelief,61,213226,False,0.389,0.972,2,-4.925,1,0.138,2.26e-05,0.0121,0.501,0.19,82.517,4,metalcore
+0XtWpvgfM8ImPG5Y6a9te3,Dr. Acula,Slander,Cocaine Avalanche,28,197426,True,0.334,0.959,6,-3.975,0,0.317,0.00221,1.19e-05,0.333,0.106,132.549,4,metalcore
+7tFxCn0Qb75pbx993wqUIQ,Bullet For My Valentine,Scream Aim Fire,Scream Aim Fire,50,266440,True,0.359,0.994,2,-4.232,1,0.084,0.000116,5.89e-06,0.0816,0.16,100.146,4,metalcore
+3p7qbTzPf4jKeEEwy765sI,Architects;Winston McCall,For Those That Wish To Exist,Impermanence,53,242356,False,0.374,0.895,8,-4.073,1,0.0752,0.000212,0.0,0.0289,0.417,174.062,4,metalcore
+1e1rQNYCZToyBDDka1Io34,Motionless In White,Scoring The End Of The World,Werewolf,61,212082,False,0.495,0.951,10,-3.01,0,0.149,0.0006,0.0,0.116,0.515,95.01,4,metalcore
+7dfpwCUFWh7VkOwykqIMwj,Blacklistt,Blacklistt,Worth Fighting For,28,213533,False,0.425,0.818,11,-8.173,0,0.0431,2.71e-06,5.74e-05,0.0912,0.323,129.836,4,metalcore
+5b7PFsHhtWAFV2AZC869Mf,Lamb of God,Sacrament,Again We Rise,47,270440,True,0.431,0.994,2,-3.743,1,0.153,9.12e-05,3.3e-05,0.115,0.0617,110.268,4,metalcore
+0Tkgl0sQyr6QO0IGmS8aa5,Motionless In White;Mick Gordon,Scoring The End Of The World,Scoring The End Of The World (feat. Mick Gordon),57,228354,False,0.383,0.972,8,-2.331,1,0.226,0.000113,1.82e-06,0.118,0.397,172.124,4,metalcore
+30RXGLshIRJPmktdMY5meA,Fit For A King,Descendants - Redux,Transcend,27,249000,False,0.364,0.385,7,-12.232,1,0.0286,0.168,1.43e-05,0.134,0.115,82.514,4,metalcore
+3ZykTVwx06JeQVVxUpiqxa,The Devil Wears Prada,Dead Throne,Chicago,26,164640,False,0.436,0.857,11,-3.631,1,0.037,0.00907,0.02,0.0842,0.11,146.937,3,metalcore
+2918T2ucPJn7lIxP0IGZnW,Asking Alexandria,Like A House On Fire,The Violence,54,208395,False,0.646,0.851,8,-4.22,0,0.0662,0.00618,0.0,0.629,0.333,129.921,4,metalcore
+1o6MIlfQAu0nmd7lu1qzvO,Stick To Your Guns,The Hope Division,Faith In The Untamed,27,221306,False,0.531,0.861,2,-6.054,1,0.113,0.0047,0.000128,0.606,0.324,89.752,4,metalcore
+2oFIvl4pywbL7EBsgBHdhx,Every Time I Die,The Big Dirty,Buffalo Gals,27,207306,False,0.212,0.986,8,-4.466,1,0.2,0.000142,5.15e-06,0.489,0.505,87.891,4,metalcore
+4pKsU5Z63kNVCgf2JhWnp8,Upon A Burning Body,Straight From The Barrio,Media Blackout,27,157633,True,0.523,0.969,2,-4.9,1,0.168,2.57e-05,0.0535,0.869,0.472,117.085,4,metalcore
+5MbD9viR57TKyarUgkrJLm,The Devil Wears Prada,Dead Throne,R.I.T.,26,169413,False,0.382,0.983,1,-2.395,0,0.114,0.000184,0.000178,0.313,0.294,143.523,4,metalcore
+5jBgbKKNSfE3JIixvDb4Jl,The Devil Wears Prada,Dead Throne,Forever Decay,27,204733,False,0.163,0.983,7,-2.314,1,0.082,3.53e-05,0.000517,0.257,0.334,184.907,4,metalcore
+6ealTEwEubl3VIyykylTCo,Within The Ruins,Black Heart,Open Wounds,27,238625,False,0.451,0.996,6,-3.203,1,0.167,4.67e-05,0.0411,0.58,0.176,117.504,4,metalcore
+7k36eXkgB6aLVsdwvjWqUr,It Dies Today,The Caitiff Choir,Freak Gasoline Fight Accident,28,229293,False,0.285,0.916,8,-4.349,1,0.0945,1.26e-05,0.000311,0.389,0.335,132.577,4,metalcore
+6w2JayI9T7PMXOYlHkTXA7,Spineshank,Freddy vs. Jason (Soundtrack),Beginning of the End - Soundtrack Version,28,212053,False,0.58,0.916,6,-4.12,1,0.0447,1.4e-05,0.00633,0.0859,0.628,124.784,4,metalcore
+3ucOCwg83vQI5AQukxNTM3,Ice Nine Kills,I Heard They KILL Live,"The Jig Is Up - Live in Worcester, MA / November 2019",28,238026,True,0.225,0.996,7,-3.909,1,0.227,2.33e-05,0.0596,0.509,0.0395,104.881,3,metalcore
+5KKaKUz11IqcBQ5loBRRX4,Times Of Grace,Metal,Strength in Numbers,0,257922,False,0.21,0.985,3,-3.602,1,0.145,5.11e-05,0.0289,0.168,0.176,95.39,4,metalcore
+1qPlNM2FaEWCMSxpVR5XeH,Falling In Reverse,Losing My Mind,Losing My Mind,54,257107,True,0.544,0.894,2,-5.193,0,0.0515,0.00916,0.0,0.365,0.41,148.0,4,metalcore
+3UmbswqNgS7J4K6zpHfUB2,Heruin,Leave Me,Leave Me,43,221659,False,0.592,0.92,7,-5.223,0,0.0499,0.000201,8.11e-06,0.128,0.189,120.004,4,metalcore
+171lZBEaiKMrV9V8c6QvPE,花冷え。,NEET GAME,NEET GAME,52,169500,False,0.492,0.974,1,-3.913,1,0.105,2.46e-05,2.84e-05,0.0646,0.192,100.946,4,metalcore
+2C5jGbR23YLonV7Lton6fV,Bring Me The Horizon,Suicide Season,Chelsea Smile,52,302560,True,0.407,0.891,10,-5.201,0,0.105,3.61e-05,0.0182,0.328,0.22,99.898,4,metalcore
+6TeB7j56k4AbELOl3G4zfj,Our Last Night;I See Stars;The Word Alive;Ashland,Someone You Loved,Someone You Loved,52,181695,False,0.571,0.925,2,-4.031,1,0.0549,0.00112,0.0,0.107,0.485,115.017,4,metalcore
+3D0MA3iSnhkVpt0P2o45vu,The Plot In You,Swan Song,Enemy,48,220000,True,0.328,0.716,0,-5.823,1,0.073,0.00182,0.0162,0.326,0.26,69.694,4,metalcore
+0DSy16o7Wc01c4ZNzeN0qR,Dead by April,Memory,Memory,42,211200,False,0.375,0.848,7,-4.039,0,0.0637,0.000814,0.000113,0.106,0.398,175.094,4,metalcore
+013TFRzJWkT41RRSgSenfI,Bring Me The Horizon,amo,i don't know what to say,52,352375,False,0.499,0.728,7,-6.744,0,0.055,0.0154,0.0982,0.246,0.239,92.449,4,metalcore
+2yAfzkn1JFekLsqVDDualq,Bad Omens,Like A Villain,Like A Villain,55,210685,True,0.457,0.918,7,-4.51,1,0.203,0.000696,0.000128,0.429,0.392,154.963,4,metalcore
+2JEuoW7VtugjY2XtxK034T,I Prevail,TRAUMA,I Don't Belong Here,51,221933,False,0.308,0.479,6,-9.04,0,0.035,0.271,0.00257,0.47,0.156,130.007,4,metalcore
+7N1t3vT849WXqA4QA1IjoV,I Prevail,TRAUMA,Deadweight,55,184333,True,0.509,0.968,1,-4.075,1,0.0802,4.28e-05,4.31e-05,0.353,0.37,104.97,4,metalcore
+7sxiG6BuAb28nh3qGmbz7L,Born Of Osiris,Tomorrow We Die Alive,Machine,49,264773,False,0.443,0.991,1,-3.458,1,0.281,0.00398,0.000579,0.106,0.0519,155.045,4,metalcore
+08c44mv6lHEfUHlPtVg8Yp,Suicide Silence,The Cleansing,Unanswered,52,135653,True,0.329,0.993,6,-3.416,1,0.0983,1.69e-05,0.641,0.343,0.376,116.462,4,metalcore
+7yhN7C46ts8tAKHoNRrBL6,We Came As Romans;Zero 9:36,Daggers,Daggers,57,194093,True,0.435,0.961,7,-3.658,1,0.141,6.16e-05,0.000134,0.384,0.427,148.016,4,metalcore
+0CrJVibIdsL6mqmYI9R9hc,Bring Me The Horizon,Sempiternal (Expanded Edition),Seen It All Before,53,247413,False,0.398,0.948,1,-3.981,1,0.102,0.000214,0.0248,0.248,0.176,135.068,4,metalcore
+1ZJNyOtk0bdYbPi1zlyFj5,I Prevail,TRUE POWER,Visceral,59,164073,False,0.446,0.946,1,-4.598,1,0.088,0.000112,0.0,0.129,0.471,155.004,4,metalcore
+6jfkVCpUDnmgplHoAD7Hbo,The Amity Affliction,Severed Ties,So You Melted?,26,168293,False,0.219,0.835,6,-5.58,1,0.0456,0.0166,0.841,0.461,0.0753,133.719,4,metalcore
+4x9A6Ymy2u6FfoE4ba4iP3,We Came As Romans,Darkbloom,One More Day,55,268000,False,0.574,0.86,7,-5.719,1,0.0358,0.00256,4.79e-06,0.128,0.279,105.009,4,metalcore
+0JX13l9ixwzb9BBTG5vaNV,Sleeping With Sirens;Charlotte Sands,Let You Down (feat. Charlotte Sands),Let You Down (feat. Charlotte Sands),58,205974,False,0.439,0.941,5,-3.398,0,0.122,0.00244,2.53e-05,0.305,0.624,174.024,4,metalcore
+1bmDf8qcqTcwAgWKpFIF8K,Polaris,The Death of Me,Hypermania,55,161918,False,0.545,0.989,7,-2.528,1,0.0865,0.000289,0.000395,0.39,0.545,103.501,4,metalcore
+1urdP8pQZHZ8bBRBJIYu7C,Hands Like Houses,Anon.,Bad Dream,27,191400,False,0.623,0.843,0,-4.611,1,0.0854,0.0445,2.93e-05,0.0584,0.395,129.99,4,metalcore
+7h0VeXlTvqW7CwC6czI2X1,In Hearts Wake,Ark,Nomad,26,254030,False,0.45,0.937,9,-3.589,0,0.0897,0.00032,0.0,0.234,0.174,118.026,4,metalcore
+5Mc8JV7hhgDW7GtlW6TNWQ,The Devil Wears Prada,Color Decay,Twenty-Five,53,228400,False,0.482,0.669,4,-5.53,0,0.0366,0.0471,6.27e-06,0.11,0.171,147.843,5,metalcore
+70fiaCGcCBWCGKXXISgdJf,Suicide Silence,The Cleansing,No Pity for a Coward,53,191880,True,0.292,0.989,1,-3.379,1,0.0851,1.35e-05,0.748,0.212,0.355,104.329,3,metalcore
+5OVb8VkoO9ZYG64ngOPZpW,Architects,For Those That Wish To Exist,Giving Blood,52,212063,True,0.448,0.877,1,-4.342,0,0.0633,0.000695,8.99e-05,0.0556,0.199,136.984,4,metalcore
+1cetZ53ybwRhTCi6N2KHTS,I Prevail,TRUE POWER,Long Live The King,58,180727,False,0.434,0.86,1,-5.757,1,0.0958,0.00127,4.58e-06,0.403,0.544,165.002,4,metalcore
+1y8k3vis3WkBOVq0fL4GJF,While She Sleeps,SLEEPS SOCIETY,SLEEPS SOCIETY,55,199429,False,0.304,0.952,2,-4.156,1,0.188,0.000242,5e-05,0.29,0.317,84.317,4,metalcore
+1zNBVe8QG37iPLLQHlUS2u,Currents,The Way It Ends,Kill the Ache,57,233355,False,0.486,0.934,4,-6.064,0,0.0703,0.00171,0.0037,0.108,0.125,139.934,4,metalcore
+6iyBH6S4HSfM5G8knOsdyt,Vanna,A New Hope,Trashmouth,26,150026,False,0.314,0.984,4,-4.426,1,0.258,0.00382,0.0,0.357,0.135,141.779,4,metalcore
+2NT3vBkWwhfob1dtxY68uV,Light The Torch,You Will Be the Death of Me,Let Me Fall Apart,56,207844,False,0.431,0.88,9,-5.464,1,0.0858,0.000139,0.00132,0.242,0.212,154.997,4,metalcore
+1l3CKosutLUUgSmnJJAyof,Fox Lake,Silence & Violence,IYKYK,28,258624,True,0.591,0.83,1,-5.892,1,0.139,0.00267,0.0,0.15,0.284,87.564,4,metalcore
+2vNUATEUKbavRo2gMjHs2S,Motionless In White;Lindsay Schoolcraft,Scoring The End Of The World,Cyberhex,58,275247,False,0.526,0.944,6,-3.815,0,0.144,0.000207,1.76e-05,0.0994,0.281,112.531,4,metalcore
+6w3hTgFYPaUo6WFz2tEOtX,Motionless In White,Scoring The End Of The World,Meltdown,59,268919,True,0.453,0.987,11,-3.012,0,0.251,0.000164,0.0,0.0776,0.206,154.08,4,metalcore
+3iXNlPQNYPrtimAEM49PsG,Electric Callboy,Pump It,Pump It,63,172758,True,0.448,0.896,8,-6.533,1,0.0593,2.94e-05,0.0,0.375,0.437,174.073,4,metalcore
+3qOTlNs5GLNeyEBNhX86Qs,Upon A Burning Body,Straight From The Barrio,The Outcast,26,231959,True,0.507,0.928,2,-4.678,1,0.083,2.51e-05,0.00414,0.155,0.272,103.511,4,metalcore
+1fUacP7XP697l6ry01oO4d,Bring Me The Horizon,Sempiternal (Expanded Edition),Antivist,56,193640,True,0.494,0.99,7,-2.28,1,0.176,2.01e-05,0.0,0.127,0.283,136.995,4,metalcore
+6yXwzAdml0MyRURctW038w,Bring Me The Horizon,There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret,It Never Ends,51,274133,True,0.394,0.949,0,-5.443,0,0.0907,9.87e-05,0.00026,0.38,0.136,105.048,4,metalcore
+1m2kn7VbKCD7jKaDq975SQ,Ice Nine Kills,Welcome To Horrorwood: The Silver Scream 2,Funeral Derangements,62,224586,False,0.338,0.98,9,-4.156,0,0.292,0.00055,0.0,0.363,0.309,158.042,4,metalcore
+3nzC7h6uULmlCuLHoeMGJ7,Bleed From Within,Shrine,Levitate,53,270800,True,0.34,0.977,4,-4.947,0,0.145,0.000311,0.468,0.104,0.118,152.056,4,metalcore
+19JvAP6RDVLg1xJBeRLzje,The Devil Wears Prada,Dead Throne,Holdfast,26,228960,False,0.411,0.986,11,-2.227,0,0.111,8.06e-05,2.53e-06,0.299,0.45,170.034,4,metalcore
+7zD3M5MSB3FlDVcu7djZPi,Every Time I Die,Hot Damn!,I Been Gone a Long Time,27,182760,False,0.243,0.977,2,-4.907,1,0.113,6.02e-05,5.87e-05,0.359,0.279,108.578,4,metalcore
+73HnOgHf0Xw5KNvEeGBNzW,For Today,Portraits,Isaiah (The Willing),26,243146,False,0.225,0.922,7,-4.846,1,0.189,0.000319,0.0139,0.583,0.26,201.018,3,metalcore
+1mecmGWlkkXnSWbvcP7ArF,The Acacia Strain,Wormwood,The Carpathian,27,197906,False,0.511,0.986,2,-4.232,1,0.121,3.64e-05,0.00662,0.437,0.286,109.993,4,metalcore
+3QjDM9cyPgpKVnifHsKaXp,Upon A Burning Body,Red. White. Green.,Game Over,27,98080,False,0.479,0.857,1,-5.777,1,0.208,0.00132,1.11e-06,0.112,0.072,120.084,4,metalcore
+1oRi9SJ8UmyYZsOmsR4Vb9,A Day To Remember,For Those Who Have Heart,"A Shot In The Dark - Live At The Capitol / Ocala, FL / January 5, 2008",27,251440,False,0.315,0.938,1,-8.24,1,0.101,0.000263,3.37e-06,0.192,0.221,98.256,4,metalcore
+0nx5gQ8OhfYPQpQ3udfz8D,Every Time I Die,Low Teens (Deluxe Edition),Nothing Visible; Ocean Empty,27,229095,False,0.208,0.94,0,-4.137,1,0.161,8.74e-06,0.0117,0.105,0.562,177.407,4,metalcore
+6lSS5pQ7NA0oqC2UU10fFK,Ice Nine Kills,I Heard They KILL Live,"The Nature Of The Beast - Live in Worcester, MA / November 2019",27,213746,True,0.359,0.991,9,-4.225,1,0.257,0.000132,0.000166,0.505,0.141,159.955,4,metalcore
+0H3yTXxl9kLJzJ7UFpX5kw,He Is Legend,Suck Out The Poison,Dixie Wolf (The Seduction Of...),28,232720,False,0.531,0.958,7,-5.826,1,0.125,0.000197,0.00216,0.294,0.363,107.822,4,metalcore
+7IPChGUDfbu0N5UwSRnj7W,Poison The Well,Metal,Sounds Like the End of the World,0,264133,False,0.274,0.729,0,-4.711,1,0.0452,5.06e-05,0.257,0.279,0.0489,61.953,4,metalcore
+1KxrkdJlsMOjM0nfFWTwI6,Callejon,Hartgeld im Club (Bonus Tracks Version),Von Party zu Party,29,224385,True,0.55,0.869,8,-6.265,1,0.0529,0.000145,0.0,0.323,0.385,119.981,4,metalcore
+50mHTNxev0bSYQhuAASe17,As I Lay Dying,The Powerless Rise,Parallels,49,297426,False,0.282,0.97,7,-4.086,1,0.18,6.35e-06,0.358,0.385,0.0391,200.005,4,metalcore
+3eJaCUXhOJsXy92dYGZ1uP,The Devil Wears Prada,Sacrifice,Sacrifice,52,246800,False,0.221,0.962,8,-3.654,0,0.194,7.99e-05,6.2e-05,0.491,0.147,173.942,4,metalcore
+3WRTADbL0criwvX6IQFex2,All That Remains,The Fall Of Ideals,Six,57,202440,False,0.241,0.961,2,-3.476,0,0.0852,0.000103,0.00657,0.0994,0.195,97.015,4,metalcore
+4MvYmy4nmohMICJi8RpKKl,Dead by April,Let The World Know,As A Butterfly,40,292360,False,0.562,0.938,11,-4.741,0,0.0365,0.00719,0.0,0.279,0.528,107.527,4,metalcore
+6rKbCZwk0bdcJ1BU96CuW5,Bullet For My Valentine,Gravity,Breathe Underwater,45,221157,False,0.384,0.451,4,-10.031,0,0.0291,0.342,0.0,0.0695,0.24,77.999,4,metalcore
+3Rho0TjpvbauID06XhM9aO,Until I Wake,Until I Wake,Self Medicated,56,189103,False,0.438,0.96,5,-3.482,0,0.0756,9.53e-05,0.00158,0.0943,0.254,144.98,4,metalcore
+5X0o92ihmXE7KP5fcmNSFv,ERRA,Pull From The Ghost,Pull From The Ghost,53,251191,False,0.519,0.985,8,-3.058,1,0.107,0.000785,5.95e-06,0.107,0.437,111.989,4,metalcore
+1s1G7P7dp7M5v8Jo4ZikMT,Holding Absence,Gravity,Gravity,55,262432,False,0.389,0.92,1,-6.02,0,0.0847,0.00077,1.15e-06,0.277,0.246,172.053,4,metalcore
+0diSnstejl46AiNC2ISoeW,Emmure,Look at Yourself,You Asked for It,56,92266,False,0.512,0.778,2,-7.925,1,0.0485,0.00013,0.838,0.0829,0.0368,103.103,4,metalcore
+61hyN4WD3KyJ8adCThANGr,Chelsea Grin,The Isnis,The Isnis,53,197614,False,0.489,0.98,7,-4.465,1,0.0896,7.86e-06,0.00874,0.0983,0.278,130.055,4,metalcore
+5NFXZaUersjjJuIqPbOlhF,Dead by April,Better Than You,Better Than You,46,212480,False,0.448,0.838,11,-4.361,0,0.068,0.013,0.0,0.212,0.269,92.574,1,metalcore
+39SIi2MMUOr68UXRNZq1jb,Our Last Night,OLN Goes 80's,Running Up That Hill,56,229000,False,0.504,0.936,8,-7.0,1,0.0447,9.43e-05,2.33e-05,0.368,0.275,111.96,4,metalcore
+6yHx2dNnWb1fEChGoulEVc,Bullet For My Valentine,Venom (Deluxe Edition),No Way Out,51,233933,False,0.441,0.994,5,-4.138,1,0.114,1.51e-05,9.68e-06,0.368,0.19,140.053,4,metalcore
+09TYM8GCSYtQmpaXe8kYuK,Periphery,Periphery IV: HAIL STAN,Blood Eagle,40,358120,False,0.492,0.982,1,-5.251,1,0.147,8.87e-05,0.0108,0.392,0.0877,124.94,4,metalcore
+4vVzmaBsxXuKrJeMSLRF4y,The Amity Affliction,Misery,Drag the Lake,58,211520,True,0.498,0.904,6,-6.351,1,0.0456,0.026,4.98e-06,0.0685,0.343,133.973,4,metalcore
+7jm63qwHLmemNcMzORjwfi,I Prevail,TRUE POWER,Choke,60,182388,True,0.566,0.89,1,-4.89,1,0.0413,8.66e-05,0.0032,0.257,0.313,110.041,4,metalcore
+2vH5Fy44mcCDUrUk0XbvfH,All That Remains,The Fall Of Ideals,This Calling,58,218533,False,0.543,0.988,2,-2.672,0,0.0906,1.08e-05,0.000855,0.317,0.245,108.058,4,metalcore
+3fnqNxjN7o0tJe7zOQZV68,Trivium,What The Dead Men Say,Catastrophist,55,388035,False,0.263,0.965,10,-4.25,0,0.197,1.42e-05,3.13e-05,0.0598,0.488,157.102,4,metalcore
+4G8EhnfKvBQVlOJ4xXCHpQ,Parkway Drive,Atlas,Wild Eyes,58,258586,False,0.299,0.99,6,-3.498,1,0.156,0.000732,0.000405,0.165,0.197,110.313,4,metalcore
+71GOYiaA8DUE8gflwvKxMT,Darko US;Shaolin G,Oni,Evolving,52,176000,True,0.378,0.977,4,-3.805,0,0.182,3.45e-05,0.786,0.352,0.202,124.922,4,metalcore
+1yz9WlBMOrYZ9o9B0cyFvG,Scary Kids Scaring Kids,The City Sleeps in Flames,The Bright Side of Suffering,28,242306,False,0.33,0.941,0,-5.714,0,0.251,0.00341,0.0,0.0772,0.116,174.107,4,metalcore
+5eqB8FjyujwxBGfdibWEuL,We Came As Romans;Brand of Sacrifice,Darkbloom,Darkbloom,58,224659,False,0.442,0.958,8,-4.314,1,0.0771,8.04e-06,1.64e-05,0.656,0.166,109.887,4,metalcore
+6rLEeo9rNT87t2xHry8xUl,Whitechapel,Our Endless War,The Saw Is the Law,53,267613,False,0.476,0.994,11,-3.429,0,0.18,0.000569,0.000149,0.139,0.216,115.103,4,metalcore
+5obeSir74lcMTrdsLh7d7p,Dead by April,Incomparable (Mystery Version),Mystery,45,177786,False,0.513,0.977,1,-4.288,0,0.0541,0.000269,0.0,0.103,0.437,92.534,4,metalcore
+0qdzdBNLU6BAxTCt8FLptu,Electric Callboy,TEKKNO,Mindreader,63,225000,True,0.413,0.919,1,-7.677,1,0.0618,4.71e-06,2.64e-06,0.0679,0.146,90.033,4,metalcore
+65IszYMAcZBZ31WJeMkGx3,VRSTY,Welcome Home,Hush,26,217000,True,0.38,0.887,9,-3.49,0,0.119,0.0364,0.0,0.0665,0.493,119.223,4,metalcore
+6skRokbpxb1OFXqxzpEQVi,Bullet For My Valentine,Scream Aim Fire,Hearts Burst into Fire,45,297946,True,0.24,0.968,0,-3.669,0,0.109,0.000996,0.000106,0.119,0.119,89.686,4,metalcore
+0v1QET6Q1YD7HQK4FBT8on,Dayseeker,Sleeptalk,Burial Plot,60,237573,False,0.428,0.873,5,-4.325,1,0.052,0.039,0.0,0.0528,0.222,92.558,4,metalcore
+0gS5SDdFwpS0bgmfmlLdJl,From First To Last,"Punk-O-Rama, Vol. 10",Failure By Designer Jeans,27,183293,False,0.423,0.909,4,-4.586,0,0.0781,0.000604,0.0,0.233,0.337,100.014,4,metalcore
+5h8lsxmbPSzGPLS4cVfdiu,Bad Omens,Finding God Before God Finds Me,Careful What You Wish For,54,272800,False,0.398,0.964,4,-3.738,0,0.175,0.0194,0.0,0.251,0.116,145.039,4,metalcore
+3du1QIq1C3hhsSa4qp6upW,Stick To Your Guns,The Hope Division,Some Kind of Hope,26,256466,False,0.312,0.728,0,-5.563,1,0.0507,0.00872,0.00109,0.632,0.13,112.369,4,metalcore
+1j0FpmahaWqEa0t8LLzstQ,Vanna,Curses,We Ate The Horse,26,248426,False,0.282,0.988,4,-1.234,1,0.17,1.69e-05,0.000234,0.231,0.274,115.852,4,metalcore
+0wXK5IepYKg2qfpCAoSsqC,Vanna,A New Hope,The Same Graceful Wind,26,235106,False,0.345,0.988,4,-4.912,0,0.208,0.000379,0.0,0.215,0.11,124.741,4,metalcore
+5ALX6hYJfLLtp98KqC0Y3j,Parkway Drive,Darker Still,Like Napalm,59,224994,True,0.44,0.927,7,-2.716,1,0.0542,3.2e-06,0.358,0.331,0.371,142.038,4,metalcore
+2ClgEn1FZxchrqRZ04JZzj,Motionless In White;Bryan Garris;Knocked Loose,Scoring The End Of The World,Slaughterhouse (feat. Bryan Garris Of Knocked Loose),59,263947,True,0.304,0.987,7,-2.578,1,0.193,6.13e-05,0.000162,0.371,0.153,149.992,4,metalcore
+2nAXdlfl5k2Y390mIdwNtU,The Acacia Strain,Continent,Dr. Doom,26,146400,True,0.366,0.961,11,-4.584,0,0.144,0.00116,0.0147,0.235,0.189,169.915,4,metalcore
+0UzBSh6GnmIj2u0X4KCkWO,Eyes Wide Open,Die Another Day,Die Another Day,26,257166,False,0.439,0.752,8,-8.399,0,0.071,0.00103,6.74e-06,0.06,0.424,160.083,4,metalcore
+39CJN5XXMaWOSn5LDtzzpM,Upon A Burning Body,The World Is My Enemy Now,"Blood, Sweat and Tears",26,203386,False,0.422,0.996,10,-2.088,1,0.183,0.000336,0.0,0.37,0.106,154.943,4,metalcore
+5pcOBLTSwsyO0zoFhPbqsv,Silverstein,When Broken Is Easily Fixed,Wish I Could Forget You,29,206586,False,0.538,0.73,7,-6.794,1,0.0296,0.0081,0.0103,0.105,0.257,101.732,3,metalcore
+4X0x0waRvRmFC9pc3DdQq4,Chimaira,The Impossibility of Reason,Pure Hatred,27,256720,True,0.522,0.919,2,-5.748,1,0.0396,5.33e-06,0.00154,0.0636,0.322,90.013,4,metalcore
+7CFCPxGWl38dV0Zg9eHD6q,3 Pill Morning,Transmission (DIWD4),All Before,28,234040,True,0.407,0.967,5,-4.559,1,0.114,0.000303,0.000632,0.0817,0.436,170.074,4,metalcore
+6i262UpOYbVOFh88NU0SZc,Callejon,Ich komme niemals an,Mary Shelley,28,259428,False,0.33,0.93,0,-4.513,0,0.154,0.00121,0.0,0.0728,0.0549,148.251,4,metalcore
+4PCSGmV5PbkFhGjvY0PPEA,Bleed From Within,Shrine,I Am Damnation,50,282466,False,0.475,0.957,6,-5.193,1,0.0672,0.000754,0.000335,0.0463,0.24,92.499,4,metalcore
+4Ksp9EVleo4VxPeOFkczMs,A Day To Remember,For Those Who Have Heart,"1958 - Live At The Capitol / Ocala, FL / January 5, 2008",27,255226,False,0.242,0.955,1,-8.131,1,0.104,8.12e-05,1.22e-05,0.414,0.235,155.389,4,metalcore
+0d64ZVyTAex5f4zPw6zKj5,Ice Nine Kills,I Heard They KILL Live,"Your Number's Up - Live in Worcester, MA / November 2019",27,239760,False,0.254,0.957,1,-5.473,0,0.295,0.00895,0.00514,0.718,0.138,157.886,4,metalcore
+5cTapduezHvQifo0IYIdYh,Bury Your Dead,Cover Your Tracks,The Outsiders,26,135906,False,0.447,0.85,3,-4.303,1,0.183,0.00235,0.00671,0.0794,0.486,84.806,5,metalcore
+4TQKV9htVjvvFl6Anq0u9x,King 810,Memoirs Of A Murderer,boogeymen,27,281546,False,0.575,0.963,4,-3.049,1,0.126,0.000162,0.000412,0.357,0.436,127.005,4,metalcore
+25Dz0Jc4HF0MlZKKofj2Ug,Ice Nine Kills,I Heard They KILL Live,"SAVAGES - Live in Worcester, MA / November 2019",27,182240,False,0.225,0.998,7,-3.331,1,0.34,0.000171,0.0391,0.984,0.0945,130.985,4,metalcore
+7GIeXTjdlxsaejjYkFMoVt,Bury Your Dead,Cover Your Tracks,Vanilla Sky,26,143746,False,0.438,0.965,6,-3.165,1,0.168,0.00203,0.0,0.191,0.323,98.612,4,metalcore
+1aSlbsafTMTjyu9Q616v8a,Upon A Burning Body,Red. White. Green.,Planet Terror,26,204333,False,0.294,0.976,9,-4.638,1,0.28,0.00211,0.0,0.0757,0.0391,104.149,3,metalcore
+4nsRC5m6nhWEGytiaDgewc,Invent Animate,Shade Astray,Shade Astray,49,277093,False,0.405,0.958,5,-5.668,0,0.0982,0.000324,0.000298,0.135,0.184,164.02,4,metalcore
+75IgEto7grPuLZpqr1L1kQ,Our Last Night;Sam Tinnesz,HELL TO HAVE YOU,HELL TO HAVE YOU,50,173665,False,0.412,0.92,5,-3.434,0,0.134,0.000997,0.0,0.558,0.474,135.031,4,metalcore
+7xCcUcMcGsIYGKUVgBZUw5,Dance Gavin Dance,Instant Gratification,We Own the Night,15,205706,False,0.226,0.905,8,-3.239,1,0.0942,0.0509,0.0,0.281,0.475,80.349,4,metalcore
+3EC4B8QG0trMZFHBbiDKVN,Oceans Ate Alaska,Hikari,Hansha,51,218466,True,0.517,0.846,7,-4.616,1,0.0515,0.00143,1.01e-05,0.437,0.293,130.013,4,metalcore
+38YYxh8T6zcXpuUpjrai5b,Stain the Canvas;Call Me Karizma,"ob-la-di, ob-la-die","ob-la-di, ob-la-die",50,183614,True,0.475,0.968,10,-3.999,1,0.0928,0.000225,0.00394,0.359,0.393,166.049,4,metalcore
+7gDvwGORGBR48kpSXbvK6o,Dead by April,Dead by April,Carry Me,37,228746,False,0.347,0.821,7,-4.925,1,0.0411,0.00344,0.0,0.391,0.257,75.022,4,metalcore
+09TkAVCSopkrzLli1RwRHx,Wildways;polnalyubvi,Ветивер (feat. polnalyubvi),Ветивер (feat. polnalyubvi),37,204000,False,0.33,0.863,6,-4.987,0,0.0815,0.00432,0.0,0.185,0.476,155.073,4,metalcore
+7kmrqM46LuMVbDjYyKIum8,Bullet For My Valentine,Temper Temper (Deluxe Version),P.O.W.,46,233733,False,0.317,0.931,4,-4.808,0,0.149,0.000298,0.00176,0.502,0.232,130.73,4,metalcore
+3R6WrsYpIuxJw7ZGHT5w85,Asking Alexandria,Alone Again,Alone Again,52,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,metalcore
+5V2okh49WkuGz0IvnRuqWL,Enter Shikari;WARGASM (UK),The Void Stares Back,The Void Stares Back,53,231286,False,0.554,0.913,10,-4.262,0,0.103,0.0108,2.54e-06,0.0635,0.588,136.066,4,metalcore
+4EllS6NXwCOggtnnBqByNd,Atreyu;Travis Barker,Baptize,Warrior,55,165891,False,0.528,0.908,1,-4.243,0,0.0913,0.0485,0.000581,0.239,0.296,154.958,4,metalcore
+2j02RtZz6v53FRw4oWliZf,FEVER 333,STRENGTH IN NUMB333RS,BURN IT,56,232053,False,0.591,0.959,6,-3.074,1,0.164,0.00343,0.0,0.068,0.426,130.017,4,metalcore
+11zEEKMORg4bIyGZ9HpkKz,Atreyu;Travis Barker,Warrior / Underrated,Warrior (feat. Travis Barker),53,165891,False,0.528,0.908,1,-4.243,0,0.0913,0.0485,0.000581,0.239,0.296,154.958,4,metalcore
+1ILi61AsfqMfUvxWpoJiuc,Lamb of God,Lamb of God,New Colossal Hate,44,270746,False,0.383,0.995,2,-3.222,1,0.217,1.09e-05,0.735,0.306,0.15,199.954,3,metalcore
+3p3t4C8mvtZrFBRs6OE7eY,Motionless In White,Disguise,</c0de>,56,228333,False,0.488,0.977,6,-3.27,0,0.0839,2.28e-05,0.0,0.36,0.569,108.035,4,metalcore
+4sBOU30e7J2KF2VzBwDG2M,Wage War,Johnny Cash (Stripped),Johnny Cash - Stripped,55,216000,False,0.49,0.615,4,-7.878,0,0.0286,0.386,0.0,0.0814,0.11,109.985,4,metalcore
+3cWMNY5QEgeFl7WOfn4gf3,Periphery,Periphery III: Select Difficulty,Absolomb,36,463973,False,0.434,0.928,8,-5.54,1,0.0995,6.38e-05,0.00142,0.0918,0.202,90.084,4,metalcore
+64bYbVvaukSYcWrUrO6klS,Sleeping With Sirens,Complete Collapse,Complete Collapse,57,192553,False,0.416,0.945,1,-3.641,1,0.195,0.000602,0.0,0.367,0.491,163.081,4,metalcore
+42lC6bnDdAjRqZtsFe1tmg,Killswitch Engage,As Daylight Dies (Special Edition),The Arms of Sorrow,53,224120,False,0.499,0.963,5,-2.729,0,0.0578,6.53e-05,0.000507,0.608,0.16,123.981,4,metalcore
+4FtWn9oF9YneHguKyz6YYJ,I Prevail,TRUE POWER,The Negative,58,140441,True,0.549,0.933,7,-4.177,1,0.0756,0.000801,0.0,0.134,0.481,137.912,4,metalcore
+7d1GHT3e3Y5HtX8TOqL5kD,I Prevail,TRUE POWER,Judgement Day,59,166331,True,0.455,0.954,5,-4.031,0,0.124,4.88e-05,0.00183,0.763,0.516,93.501,4,metalcore
+5lrqstcg3Xk9D1lLGqSsal,Wage War,Pressure,Me Against Myself,57,237346,False,0.487,0.958,1,-3.373,1,0.152,0.000179,0.0,0.111,0.694,90.079,4,metalcore
+0NCvhkLffy3suyYgXITOzP,Ice Nine Kills,Hunting Season,Hunting Season,57,198665,False,0.434,0.824,0,-6.864,1,0.0587,0.000206,0.000321,0.337,0.287,163.989,4,metalcore
+77XOYoYeK1CoTfnKUIXTjk,Lamb of God,As The Palaces Burn,Vigil,45,283000,False,0.326,0.949,2,-5.027,1,0.12,0.0002,0.00115,0.091,0.12,106.145,4,metalcore
+4IX6QvjOI62tyHigVsTUlv,A Day To Remember,Homesick,Have Faith In Me,65,188813,False,0.507,0.933,0,-4.7,1,0.0869,7e-05,0.0,0.105,0.715,149.996,4,metalcore
+1ViiOKBUbJY69lSrRTbDXi,Wage War,Manic,Death Roll,53,181266,False,0.507,0.975,0,-3.346,0,0.182,1.03e-05,0.0118,0.133,0.14,122.021,4,metalcore
+2gYLeC5Ikd8DFSJfwGZJp3,Northlane,Alien,Bloodline,51,205666,True,0.514,0.964,6,-6.78,1,0.0992,8.3e-05,0.196,0.137,0.404,97.492,4,metalcore
+2zy79BntQ1kumEUeqM5O84,As I Lay Dying,An Ocean Between Us,Nothing Left,56,223653,False,0.388,0.979,0,-4.389,1,0.176,6.34e-05,0.0567,0.663,0.0547,183.905,4,metalcore
+117dUlDYv881YSA31Ijicy,Dance Gavin Dance,Three Wishes,Three Wishes,27,208191,True,0.525,0.92,2,-3.903,1,0.0464,0.0136,0.0,0.36,0.774,143.983,4,metalcore
+3zQy3N1K8Mk5QknfFuVGNc,Spiritbox;Sam Carter,Eternal Blue,Yellowjacket (feat. Sam Carter),15,198067,False,0.451,0.981,7,-4.208,1,0.0857,0.000294,0.0308,0.318,0.325,116.231,4,metalcore
+7jbf5HTZGIORLBkJqueO5G,Asking Alexandria;Grace Grundy,Like A House On Fire,I Don't Need You,50,222827,False,0.555,0.472,3,-7.275,0,0.0294,0.132,0.0,0.221,0.35,140.105,4,metalcore
+47IWLfIKOKhFnz1FUEUIkE,Underoath,They're Only Chasing Safety,A Boy Brushed Red Living In Black And White,62,268000,False,0.419,0.932,1,-3.604,0,0.106,0.00171,0.0,0.137,0.445,169.881,4,metalcore
+0sZ7125n1GTxvrq0anThNy,Ice Nine Kills,Welcome To Horrorwood: The Silver Scream 2,The Shower Scene,64,191693,False,0.376,0.944,2,-4.053,1,0.174,0.000101,1.18e-06,0.313,0.453,176.021,4,metalcore
+4S4qLTfC7kXxIMEB9xuGnw,The Amity Affliction,Glory Days,Straight Up!,25,229040,True,0.181,0.856,5,-6.03,0,0.0643,6.19e-05,5.89e-06,0.425,0.372,96.488,4,metalcore
+7xpMAw24R36H1eQrePAPNA,Wage War,Blueprints (Anniversary Edition),Alive,25,204596,False,0.461,0.98,10,-7.587,0,0.102,4.14e-05,0.0781,0.0627,0.35,104.996,4,metalcore
+0Slixd3mfdLlfx5twxD1DZ,Every Time I Die,The Big Dirty,Leatherneck,26,128333,False,0.312,0.98,9,-4.211,1,0.264,0.00121,0.0,0.269,0.224,162.304,4,metalcore
+3YvEJX5kgNn5VCxroKxwQG,Gideon,Out of Control,out of control,25,263680,True,0.533,0.975,6,-3.219,1,0.0759,7.21e-05,0.0013,0.113,0.307,102.516,4,metalcore
+0A43Vnq27Uy8Rnin8E5e4Y,Upon A Burning Body,The World Is My Enemy Now,Pledge Your Allegiance,25,199906,False,0.544,0.997,4,-2.488,1,0.196,0.000267,0.0,0.334,0.104,120.025,4,metalcore
+4MNnfcIuCrmCymkLSXtXCl,Fire From The Gods,American Sun,Right Now,60,225026,False,0.494,0.916,1,-4.734,0,0.233,0.00112,4.43e-06,0.0996,0.433,89.468,4,metalcore
+7kgDuEKh17vT0ehHkkfrzC,Callejon,Blitzkreuz,Blitzkreuz,28,232093,False,0.42,0.941,2,-3.35,0,0.0549,2.25e-06,0.0349,0.468,0.223,125.014,4,metalcore
+56gzM6oiWJG9V3yRuZSd9A,Ice Nine Kills,I Heard They KILL Live,"Rocking The Boat - Live in Worcester, MA / November 2019",26,256013,True,0.273,0.993,6,-4.33,1,0.323,0.000231,0.000313,0.509,0.0957,175.041,4,metalcore
+2yKz3thSx6ZC1F1Vc4HVRH,Callejon,Wir sind Angst,Dunkelherz,28,230400,False,0.439,0.988,5,-3.525,0,0.124,5.88e-05,0.0,0.111,0.131,75.005,4,metalcore
+6IVXCSCTZOqUDDuGA5vUwH,The Black Dahlia Murder,Deflorate,Throne of Lunacy,26,214253,False,0.244,0.951,9,-4.938,1,0.104,0.00107,1.63e-05,0.361,0.153,102.468,4,metalcore
+0GO3L39ubEleejBH0hB4EU,For Today,Breaker,King,26,245466,False,0.348,0.896,1,-4.81,1,0.122,0.000921,0.0,0.338,0.168,118.468,4,metalcore
+07V3lextjKNARavLlr9TiI,A Day To Remember,For Those Who Have Heart,"The Plot To Bomb The Panhandle - Live At The Capitol / Ocala, FL / January 5, 2008",26,268346,True,0.384,0.963,5,-7.748,0,0.0594,7.63e-05,5.28e-06,0.662,0.34,103.401,4,metalcore
+6F1eS1WdVNyrWmB6WGn7o0,Protest The Hero,Palimpsest,Little Snakes,28,296626,False,0.537,0.981,8,-6.249,0,0.0747,0.0022,0.0,0.0795,0.404,139.94,3,metalcore
+5ngF1bL8ot9MMqmiOtoLgS,For Today,Portraits,Ezekiel (The Visionary),26,247133,False,0.317,0.884,8,-4.58,1,0.136,0.000185,0.0313,0.431,0.198,100.897,4,metalcore
+4Xb9sjEYMGmwTG0sGLHDvz,Straight Line Stitch,When Skies Wash Ashore,Taste Of Ashes,27,252813,True,0.432,0.972,10,-4.726,1,0.128,0.00473,0.0,0.315,0.253,163.972,4,metalcore
+7qaaixGlCzurV30loAGNyz,Unearth,III: In The Eyes Of Fire,This Glorious Nightmare,26,261920,False,0.309,0.981,11,-3.609,1,0.179,0.000211,0.0768,0.297,0.268,147.269,3,metalcore
+6pxHNrK4uCMz6Oyv63xQwd,For Today;Sonny Sandoval,Immortal,The Only Name,26,230626,False,0.318,0.972,1,-4.139,1,0.163,0.000846,0.0,0.324,0.391,120.172,4,metalcore
+0N4Chp5oSV5c1PVAyX4A25,Awaken I Am,The Beauty In Tragedy,By Your Side,52,200546,False,0.462,0.972,8,-3.128,0,0.0735,0.0018,0.0,0.141,0.782,158.083,4,metalcore
+4NuH7uYGaSgikJFH8yYCwf,Dead by April,Numb,Numb,40,235909,False,0.523,0.666,9,-5.9,1,0.0331,0.00229,0.0,0.214,0.277,110.049,4,metalcore
+7zTpZWlzYFkBfDLPXmIatU,Sleeping With Sirens;Royal & the Serpent,Complete Collapse,Be Happy (feat. Royal & the Serpent),56,198820,True,0.46,0.898,2,-4.086,0,0.0879,0.000409,1.35e-05,0.273,0.348,93.965,4,metalcore
+1xolJCHO0WZvqVdu6buLk7,Dead by April,Heartbeat Failing,Heartbeat Failing,44,243600,False,0.422,0.919,2,-4.168,0,0.151,0.000245,0.000351,0.21,0.279,149.989,4,metalcore
+78fUyqhfdpL5aaD12QSGCi,I Prevail;Joyner Lucas,DOA [Feat. Joyner Lucas],DOA [Feat. Joyner Lucas],52,218571,False,0.372,0.479,2,-8.218,1,0.0411,0.00173,0.00018,0.147,0.08,175.134,4,metalcore
+3pkfVWPONcWQU5UAxWyALx,ERRA,ERRA,Snowblood,49,253680,True,0.529,0.983,11,-3.186,1,0.125,2.41e-05,0.0148,0.0763,0.359,125.017,4,metalcore
+5Ouuz2mxQIsBMC51fhVAbS,Crystal Lake,Watch Me Burn,Disobey,50,192698,True,0.185,0.932,1,-7.117,1,0.189,0.000549,0.834,0.234,0.055,197.287,4,metalcore
+5Y6gse6fdyxs0lFFqyHYgz,Bullet For My Valentine,Fever,Pretty On The Outside,48,235626,False,0.449,0.939,4,-3.524,0,0.0778,2.91e-05,7.78e-05,0.625,0.19,101.671,3,metalcore
+6w9PFIfsLZvzo09nfmqjxQ,Architects,All Our Gods Have Abandoned Us,Gone With The Wind,51,225800,False,0.421,0.942,6,-5.289,0,0.14,0.000314,1.04e-06,0.0704,0.303,77.573,4,metalcore
+6T38YYdc9GkLO07TRI3li2,I Prevail,Lifelines,Stuck In Your Head,59,215000,False,0.48,0.955,9,-3.702,1,0.0395,0.000298,0.0107,0.477,0.658,155.019,4,metalcore
+3HhaSocKwTptze7PySNZlW,A Day To Remember,Bad Vibrations (Deluxe Edition),Paranoia,62,200676,True,0.409,0.992,3,-2.803,0,0.108,4.82e-05,2.03e-06,0.1,0.344,149.859,4,metalcore
+2Y2hGQ4Qk103Dapjtgp88J,The Devil Wears Prada,Color Decay,Fire,53,216400,False,0.617,0.626,11,-7.378,0,0.0435,0.0335,0.00154,0.0968,0.206,127.97,4,metalcore
+2SGmVE90PzF7iSbRbToHnk,Suicide Silence,No Time to Bleed,Disengage,50,244533,False,0.298,0.968,6,-2.684,1,0.123,1.5e-05,0.00932,0.0952,0.221,100.004,4,metalcore
+4DzJ41A6qR14hHtS1djvdX,Motionless In White;Bryan Garris;Knocked Loose,Slaughterhouse (feat. Bryan Garris Of Knocked Loose),Slaughterhouse (feat. Bryan Garris Of Knocked Loose),54,263947,True,0.304,0.987,7,-2.578,1,0.193,6.13e-05,0.000162,0.371,0.153,149.992,4,metalcore
+5CPIwc9xpbvXaSqMft8Yx8,Our Last Night,Empires Fall (Deluxe),Tea Leaves - Acoustic,54,208500,False,0.431,0.513,0,-7.794,0,0.0309,0.244,0.0,0.103,0.1,78.772,4,metalcore
+4xDcGgOzoQq5Jrfa2gkY03,Currents,The Way It Ends,Let Me Leave,52,201011,False,0.494,0.92,1,-6.432,0,0.05,7.12e-05,0.0418,0.0997,0.224,120.114,4,metalcore
+7jFQr8QftpuvkBSXpfkqyq,Chiodos,Illuminaudio,Hey Zeus! the Dungeon,28,264160,False,0.311,0.905,2,-2.006,0,0.066,0.00116,0.0,0.131,0.269,110.004,3,metalcore
+2D4bN4PItz2a0bjLcVo1F7,May of Sorrow,No Matter,No Matter,26,267493,False,0.243,0.968,4,-2.618,1,0.103,0.00258,0.0696,0.139,0.141,174.927,4,metalcore
+1a3ght71qSYa6wBFmmmTE2,Architects,For Those That Wish To Exist,An Ordinary Extinction,50,247664,False,0.507,0.937,1,-4.576,1,0.119,0.000724,0.00108,0.102,0.392,103.566,4,metalcore
+7LRotHDhVHU9FE7oWhuFTL,While She Sleeps,SLEEPS SOCIETY,SYSTEMATIC,53,176695,True,0.528,0.961,10,-4.621,0,0.107,0.000149,0.000146,0.102,0.441,130.038,4,metalcore
+2Fup9XFE9sXWu9Qft2Q7ZB,Killswitch Engage;Howard Jones,Atonement,The Signal Fire (feat. Howard Jones),50,185066,False,0.493,0.984,5,-4.222,1,0.0672,4.42e-05,4.99e-06,0.349,0.192,103.963,4,metalcore
+0OzpSEZ5rwwAu1JC2zRAvb,Spiritbox,Eternal Blue,Secret Garden,14,219280,False,0.368,0.922,3,-3.819,0,0.0923,8.79e-05,0.000262,0.173,0.317,140.492,4,metalcore
+7H5q9RsWBDRrKq2qCdv2HG,Ice Nine Kills,The Silver Scream,Stabbing In The Dark,60,276866,True,0.345,0.943,10,-4.184,0,0.144,0.00123,0.0,0.0609,0.293,164.954,4,metalcore
+1e0Ug0zJLPFi1fmHGQfeko,Slaughter to Prevail,Kostolom,Bratva,54,290000,True,0.416,0.992,11,-2.045,1,0.115,0.000232,5.76e-05,0.0518,0.133,180.003,4,metalcore
+3qHlBxD3acw5nrl7Padt0v,Machine Head,Burn My Eyes,Davidian,58,296626,False,0.278,0.937,7,-6.952,1,0.168,0.000535,0.118,0.227,0.29,154.244,3,metalcore
+4ytI4n1wSNn5M8ER6JVXa5,All That Remains,This Darkened Heart,Passion,26,222266,False,0.459,0.953,2,-4.259,0,0.047,3.06e-05,0.0129,0.352,0.564,97.033,4,metalcore
+53H5pGyLQuwFrjHccWFs51,Scary Kids Scaring Kids,The City Sleeps in Flames,What's Said Is Done,27,225453,False,0.434,0.88,8,-5.401,0,0.108,0.0043,0.0,0.0759,0.562,160.155,4,metalcore
+7dKhRS5snEdePqcGhsX2YG,Every Time I Die,Ex Lives (Deluxe Edition),Indian Giver,26,249690,False,0.21,0.861,9,-4.898,1,0.049,7.95e-05,0.0202,0.41,0.192,135.568,4,metalcore
+04K4hdavNtIwDwn3V6IKOE,In Hearts Wake,Skydancer,Badlands,25,195562,False,0.551,0.997,2,-0.974,1,0.112,1.03e-05,0.617,0.0806,0.121,111.976,4,metalcore
+7zv2vmZq8OjS54BxFzI2wM,Attila,Soundtrack to a Party (Bonus),Lets Start the Party,25,125859,True,0.592,0.932,1,-5.412,1,0.0558,5.42e-06,0.859,0.073,0.677,133.987,4,metalcore
+6emZMVNvIxW57fhxPlyxLp,Electric Callboy,TEKKNO,Pump It,63,172240,True,0.442,0.882,8,-7.551,1,0.0536,3.26e-05,0.0,0.421,0.443,174.077,4,metalcore
+2yyBCR1MRfvINVNwPa3CSV,Fit For A King;Jeremy Gray,Descendants - Redux,Parallels,25,195493,False,0.331,0.933,6,-2.651,1,0.0732,2.18e-05,0.0,0.0744,0.376,199.814,4,metalcore
+0ftQHCFyMVXCjiwocMJNzi,Whitechapel,Brimstone,Brimstone,25,205247,False,0.381,0.968,2,-4.341,1,0.0951,4.05e-05,0.13,0.375,0.346,170.227,4,metalcore
+1lZzyOyH9LSAWFjHKz9TT2,Upon A Burning Body,Straight From The Barrio,Leave The Pain Behind,25,203441,False,0.493,0.973,8,-4.718,1,0.108,6.69e-05,2.87e-05,0.343,0.186,105.001,4,metalcore
+3ep9xmBBCpieRlWuIEc4xy,Winds of Plague,Decimate the Weak,Origins and Endings,26,270213,False,0.297,0.929,9,-3.547,0,0.0844,1.7e-05,0.367,0.0751,0.252,124.959,4,metalcore
+0AHHDAHFRaT82UVw5fMr1R,Parkway Drive,Ire,Vice Grip,57,263586,False,0.48,0.988,11,-3.229,0,0.0838,3.17e-05,0.00432,0.389,0.252,124.041,4,metalcore
+3a42T6hM1K2goLTVXAAET9,Chiodos,Bone Palace Ballet: Grand Coda,"... And Then The Liver Screamed ""HELP!""",27,163960,False,0.414,0.979,2,-3.095,0,0.127,0.000226,0.0,0.263,0.435,179.998,4,metalcore
+1vUQRTE8oLMXXUpQAvl85h,He Is Legend,few,Beaufort,27,219771,False,0.499,0.981,8,-4.093,1,0.086,3.68e-06,0.723,0.112,0.357,113.025,4,metalcore
+4gXw1eOFPD8ZpTWmmloJIR,Atreyu,The Best Of Atreyu,Bleeding Mascara,26,146160,False,0.305,0.946,5,-4.714,0,0.16,0.000142,0.222,0.335,0.448,139.965,3,metalcore
+0qkqKBRv8FJKx50yyI9B6b,Gideon,Milestone,Prodigal Son,25,172986,False,0.531,0.947,6,-3.903,1,0.0871,0.000102,0.0,0.126,0.285,105.009,4,metalcore
+5UGUV0sOHUlckbPNW6AXUd,Callejon,Ich komme niemals an,Silver Surfer,27,211176,False,0.4,0.898,5,-4.836,0,0.0471,0.000418,0.0,0.522,0.333,90.07,4,metalcore
+5Ac32YtYQnKePrYtS9UhL9,Silverstein,When Broken Is Easily Fixed,The Weak And The Wounded,28,195320,False,0.232,0.842,9,-5.773,0,0.0712,0.0101,0.0,0.111,0.181,89.939,4,metalcore
+4CglFxZhBqgr8nUMDjxalT,The Black Dahlia Murder,Abysmal,That Cannot Die Which Eternally Is Dead,26,269438,False,0.412,0.994,4,-3.362,0,0.145,2.8e-05,0.24,0.139,0.044,92.999,4,metalcore
+0oBGGKIGiKItmAEoGpKZgD,I Declare War,Dead & Bloated,Dead & Bloated,26,309997,False,0.521,0.973,0,-2.753,1,0.165,6.33e-06,0.0497,0.326,0.293,125.099,4,metalcore
+3zSX5AEN95Iq7F5sr22TpB,A Day To Remember,For Those Who Have Heart,"Why Walk On Water When We've Got Boats - Live At The Capitol / Ocala, FL / January 5, 2008",26,120000,False,0.345,0.989,1,-7.755,1,0.0821,0.0018,0.0,0.775,0.0758,132.133,4,metalcore
+1qz8RLkJJLeSBZoE1haOwH,For Today,Breaker,White Flag,25,213973,False,0.314,0.935,10,-4.153,0,0.161,0.00341,0.0,0.407,0.294,133.657,4,metalcore
+4CSkyVndCtMY0SQ3c6TA4y,Heaven Shall Burn,Invictus (Bonus Track Version),Given in Death,25,311786,False,0.46,0.861,0,-3.876,0,0.0595,0.00074,0.893,0.258,0.0975,90.127,4,metalcore
+0kCvcwqG6vNLR3NxZyiK2m,Hatebreed,Hatebreed,Become The Fuse,26,147906,True,0.496,0.972,6,-3.501,1,0.0997,0.000779,0.00125,0.103,0.729,170.084,4,metalcore
+4GjHhBFWiB7uozqC9ErzZm,Project46,Tr3s,Terra de Ninguém,28,264228,False,0.342,0.993,1,-3.618,1,0.237,0.000365,0.000435,0.648,0.039,110.039,4,metalcore
+35BdZnz14qruhAK5wihdb4,Hatebreed,Perseverance,Judgement Strikes (Unbreakable),26,85933,False,0.335,0.964,0,-4.421,1,0.166,1.62e-05,2.58e-05,0.0273,0.457,92.489,4,metalcore
+55IUgJ0tuT3vGrwrB3RzBm,Earthists.,Yours,Yours,19,165133,False,0.516,0.888,6,-5.386,1,0.049,5.5e-06,1.91e-05,0.187,0.595,122.981,4,metalcore
+6zYsGB0XlAAsHIm7uSgt0J,Our Last Night,STAY,STAY,50,147617,True,0.439,0.974,3,-2.938,1,0.152,0.0015,6.96e-06,0.142,0.324,170.041,4,metalcore
+7oib44NmCMvGNWnDDJjv5C,The Word Alive,MONOMANIA,NO WAY OUT,52,215053,False,0.386,0.92,6,-2.906,0,0.306,0.00304,6.56e-06,0.341,0.518,156.991,4,metalcore
+354bs7EDkFxcmQYcKB6ya6,Escape the Fate,This War Is Ours (Deluxe Edition),Harder Than You Know,47,259386,False,0.412,0.537,3,-7.593,1,0.0295,0.269,0.0,0.123,0.0675,107.201,4,metalcore
+4Ybl8SLHUxerNOWtXjE1pA,Veil Of Maya,Outrun,Outrun,49,225768,False,0.299,0.937,6,-4.657,0,0.0677,4.48e-05,7.77e-05,0.283,0.225,170.775,4,metalcore
+33e1WHeVhWD187md4hIHdW,Wildways,Картины счастливого мира,Мечты хрустальные,32,238050,False,0.259,0.911,7,-4.12,1,0.0587,6.77e-05,0.0,0.152,0.177,199.977,4,metalcore
+6Av4y1NzrI41HkoqxQgMk3,Wildways,Прятки,Прятки,35,193826,False,0.561,0.974,6,-4.259,1,0.106,0.000795,1.57e-05,0.271,0.221,115.015,4,metalcore
+1tWoGszhi84GsLHB7zIP6H,Dangerkids,blacklist_,Inside Out,52,189290,True,0.42,0.858,1,-5.732,0,0.0513,0.00059,0.0,0.217,0.51,155.013,4,metalcore
+28UKSTXNVOJJBmaAXAGt01,Andrew Baena;Cooper Lagace,Meathook,Meathook,46,371674,False,0.281,0.771,1,-9.377,1,0.0521,0.000565,0.728,0.351,0.157,108.689,5,metalcore
+5oKBOiiJceLlAEQ4VaVe8p,A Day To Remember,Everything We Need,Everything We Need,52,185200,False,0.464,0.764,8,-5.627,1,0.0324,0.017,0.0,0.101,0.589,81.814,4,metalcore
+4bB7Gj1dssw0MYDb7zj1Kg,Polaris,The Death of Me,Martyr (Waves),50,230367,False,0.564,0.848,4,-4.732,0,0.0355,0.000678,0.00979,0.109,0.244,102.039,4,metalcore
+0N7LzDV6Wux4FGBg1RwqCu,Thornhill,Heroine,Raw,51,222386,True,0.485,0.977,4,-5.022,1,0.11,0.000203,0.791,0.134,0.297,138.016,4,metalcore
+30xWVpvct6LewWIHFEWHdn,Suicide Silence,Become the Hunter,Love Me to Death,50,255033,True,0.327,0.991,9,-4.522,1,0.16,1.84e-05,0.84,0.311,0.111,137.21,4,metalcore
+5fI7BQ3NERlq6YdldHVQqz,The Plot In You,DISPOSE,RIGGED,48,260826,True,0.558,0.583,6,-6.445,1,0.0488,0.00303,0.000287,0.142,0.169,119.988,4,metalcore
+2A8WSQPNT9NqssXd3rEZYU,ERRA,ERRA,Gungrave,49,240525,False,0.481,0.97,6,-2.684,0,0.0695,1.23e-05,0.0102,0.206,0.345,100.013,4,metalcore
+3zbxWnJmnyx21pNE480g6G,Upon A Burning Body,A New Responsibility,A New Responsibility,46,186200,False,0.565,0.937,1,-5.128,1,0.061,0.000419,0.00532,0.379,0.372,95.517,4,metalcore
+219TRua6jpFqiXQDCSeSCv,Periphery,Periphery IV: HAIL STAN,Garden in the Bones,39,356506,True,0.517,0.971,4,-5.189,1,0.0778,0.0057,3.75e-05,0.325,0.363,135.004,4,metalcore
+4USWAxwVE2dEbfotjAFYMU,Alpha Wolf;Holding Absence,The Lost & The Longing,60cm Of Steel,51,210939,True,0.379,0.993,8,-2.176,1,0.23,0.000757,0.000778,0.106,0.0988,89.29,4,metalcore
+2KGCOtaTbNIbwrxS0a2UMv,Bury Tomorrow,Cannibal,Choke,55,227440,False,0.503,0.981,1,-5.701,1,0.0936,0.000682,9.06e-05,0.194,0.34,124.91,4,metalcore
+1SJrdMKXJRox857FLrJbnf,MyChildren MyBride,Lost Boy,Terra Firma,27,258438,False,0.568,0.966,11,-4.514,1,0.153,0.00157,0.000919,0.093,0.4,127.992,4,metalcore
+1ShjIC4KLrKSiWFiyuGOhL,MAXIMUM THE HORMONE,Kusoban,Healthy Bob,26,137133,False,0.358,0.993,1,-2.106,1,0.0946,6.89e-05,0.0,0.119,0.482,97.551,4,metalcore
+5TvSMq5VLImKRaijVRNfAj,Fox Lake,Born 2 Lose,Born 2 Lose,26,211826,False,0.349,0.946,6,-3.647,1,0.13,0.00823,3.37e-06,0.354,0.38,160.051,4,metalcore
+3MmZ9YFi1vmrblW1AjoFRF,As I Lay Dying,Shaped By Fire (Deluxe Version),Roots Below,53,215373,False,0.401,0.906,7,-4.229,1,0.0857,4.16e-05,5.32e-06,0.136,0.247,90.065,4,metalcore
+3FTP9QPfczWZr5dTAUSEi0,The Acacia Strain,Continent,The Behemoth,25,397026,True,0.489,0.87,9,-8.622,0,0.06,0.0763,0.917,0.12,0.109,120.059,4,metalcore
+5KQyxsmE5brOhLgKEbIbtG,May of Sorrow,Invisible (Piano),Invisible (Piano),25,218666,False,0.446,0.412,3,-6.266,0,0.0247,0.261,0.000368,0.121,0.0381,89.921,4,metalcore
+5PQ3KfvXm88J5h5mXJusPz,Lamb of God,Sacrament,Pathetic,47,271120,False,0.242,0.991,7,-2.781,1,0.136,1.02e-05,0.000272,0.239,0.126,103.41,4,metalcore
+77mPrXdS6n9HrDW1JPIxvU,Chiodos,All's Well That Ends Well (Deluxe Edition),"Baby, You Wouldn't Last A Minute On The Creek",27,280866,False,0.275,0.904,2,-6.462,0,0.211,0.0299,0.0,0.104,0.101,97.147,4,metalcore
+6Yod9eEJQkkmWVVKOKLKyM,The Acacia Strain,3750,Brown Noise,25,191226,False,0.245,0.962,5,-5.85,1,0.115,1.45e-05,0.0473,0.0748,0.223,132.33,5,metalcore
+4jCnZFON3IoQcfBxMkOSLO,In Hearts Wake,Skydancer,Insomnia,24,185374,False,0.354,0.998,2,-0.703,1,0.114,8.71e-06,0.000159,0.302,0.322,165.086,4,metalcore
+0P5D7ji9AJi85bEdQhq50a,Trivium,Ascendancy (Special Edition),Master of Puppets,51,489960,False,0.577,0.959,1,-4.29,1,0.0915,8.68e-05,0.000615,0.154,0.396,111.003,4,metalcore
+3kRGiGpjCFS7CtEBSfHNH0,Parkway Drive,Darker Still,Soul Bleach,58,211996,True,0.555,0.96,1,-3.254,1,0.0844,2.79e-05,0.00391,0.342,0.353,126.913,4,metalcore
+7lb82F4jY2jH9996rMc8U9,Winds of Plague,The Great Stone War,The Great Stone War,25,257733,False,0.276,0.976,4,-3.863,1,0.185,4.37e-05,0.589,0.581,0.137,130.074,4,metalcore
+2AuCk65ltMN2JlleGQDVqB,Upon A Burning Body,The World Is My Enemy Now,Fountain of Wishes,25,212453,False,0.337,0.994,1,-2.672,0,0.152,0.000117,0.0,0.182,0.133,110.542,4,metalcore
+6zfxYPI1XhTM0seRjhnaaE,Every Time I Die,The Big Dirty,Rendez-Voodoo,26,194800,False,0.478,0.958,6,-4.904,0,0.0783,0.000764,2e-06,0.244,0.38,128.35,4,metalcore
+6PIltGJHvV1bfAwl4JhMk4,Every Time I Die,Ex Lives (Deluxe Edition),I Suck (Blood),26,175532,False,0.225,0.974,0,-3.919,0,0.184,6.88e-06,1.55e-05,0.259,0.343,130.399,4,metalcore
+0W4N0KzHKWQp2Wn1Mf6uMa,Electric Callboy,TEKKNO,We Got the Moves,63,206133,True,0.587,0.781,5,-7.602,0,0.055,0.000116,2.02e-05,0.102,0.723,149.982,4,metalcore
+2zNZ81rcbDUvOmKo0borJr,Electric Callboy;FiNCH,TEKKNO,Spaceman (feat. FiNCH),63,190000,True,0.508,0.891,4,-7.492,0,0.0539,0.000381,0.0,0.403,0.572,79.984,4,metalcore
+5JTySObLwVCxXbLYRtQIf3,He Is Legend,White Bat,Uncanny Valley,27,173604,False,0.434,0.485,5,-7.931,0,0.0313,0.0113,0.0101,0.311,0.404,113.93,3,metalcore
+20dil44lFapp6oNBfCQlif,Fit For A King,Dark Skies,When Everything Means Nothing,57,231588,False,0.433,0.929,5,-4.33,0,0.0817,3.89e-05,0.00031,0.769,0.504,160.048,4,metalcore
+4BlVIZpBPmbLDWiMKME1lT,A Day To Remember,Homesick (Special Edition),Holdin' It Down For The Underground,26,203893,False,0.352,0.948,8,-5.739,1,0.154,0.000396,3.52e-06,0.831,0.443,75.112,4,metalcore
+2b0X8G7Sx9ej3MOeKsYuhC,A Day To Remember,Homesick (Special Edition),Another Song About The Weekend,26,225653,False,0.443,0.941,0,-4.824,1,0.0648,2.39e-05,0.0,0.0965,0.644,163.007,4,metalcore
+5szAsnAZS0BoJ4TPF3MmKP,The Acacia Strain,Wormwood,Unabomber,25,287986,False,0.489,0.967,2,-3.652,1,0.0811,8.32e-05,0.000191,0.374,0.16,139.992,4,metalcore
+1A82o7j36d0Ga3WMfbfb0Y,King 810,La Petite Mort or a Conversation with God,A Conversation with God,26,272813,False,0.488,0.933,4,-7.433,0,0.125,0.107,1.39e-05,0.12,0.28,119.906,4,metalcore
+5U8xc7Ui7hC3o4X4KdR94V,Winds of Plague,Decimate the Weak,Angels of Debauchery,25,272693,False,0.481,0.959,4,-3.658,0,0.0944,3.55e-05,0.675,0.133,0.28,114.399,4,metalcore
+0aki6d3s4cBASsg73rwdBv,Stick To Your Guns,Comes From the Heart,We're What Seperates the Heart From the Heartless,25,156120,False,0.281,0.934,7,-4.652,1,0.371,0.00571,0.000392,0.602,0.0962,194.75,4,metalcore
+3lnQWbtIZrfM7PozrhNxPd,Every Time I Die,Low Teens (Deluxe Edition),Skin Without Bones,26,151438,False,0.325,0.937,5,-3.822,1,0.178,1.2e-05,0.0123,0.129,0.512,134.383,3,metalcore
+0SVlfRAIo0hdFJ1w5sQF7p,Protest The Hero,Palimpsest,Soliloquy,27,270133,False,0.565,0.977,6,-5.963,1,0.178,0.00262,0.0,0.541,0.268,112.513,4,metalcore
+490FzttEUO20BPGGAA3u1R,King 810,Memoirs Of A Murderer,Take It,26,207693,False,0.757,0.501,9,-11.231,1,0.269,0.0189,0.000166,0.376,0.533,116.899,4,metalcore
+4yADFCeTlICXnrxRatXHrk,Ice Nine Kills,I Heard They KILL Live,"Merry Axe-Mas - Live in Worcester, MA / November 2019",26,201133,True,0.373,0.993,9,-4.101,1,0.262,3.56e-05,0.0343,0.958,0.0558,175.091,4,metalcore
+67nzOrlRPjrQuKKnBScUvd,A Day To Remember,Homesick (Special Edition),"I'm Made Of Wax, Larry, What Are You Made Of? - Live In Switzerland",26,200800,True,0.254,0.989,5,-4.192,0,0.473,0.00189,0.0,0.358,0.156,164.025,4,metalcore
+3wkWHCXhOlHNOOwEZKay3d,Volumes,Happier?,Happier?,45,310026,False,0.144,0.816,6,-6.793,0,0.0753,0.00146,0.186,0.14,0.103,73.198,1,metalcore
+2TB3yZgVmXKZvmPWcCUr2H,Bring Me The Horizon,Drown (Live from Maida Vale),Drown - Live from Maida Vale,45,225706,False,0.363,0.545,2,-5.775,1,0.0283,0.317,1.09e-05,0.292,0.332,143.155,4,metalcore
+5bENuUfvW1oOEmh2zvyowI,Memphis May Fire,Make Believe,Bleed Me Dry,13,202591,False,0.406,0.973,1,-2.558,1,0.144,8.98e-06,2.1e-06,0.47,0.504,96.047,4,metalcore
+4y2WxyFPLHaLoHkxymgNar,Aviana,Anomaly,Anomaly,50,223050,False,0.476,0.917,4,-5.188,0,0.0481,0.00166,0.25,0.0662,0.156,100.007,4,metalcore
+3oxADKwqZ04fNO9diMkBPA,ten56.,Diazepam,Diazepam,53,156195,True,0.305,0.962,4,-5.381,0,0.225,0.000302,0.00421,0.308,0.114,77.434,4,metalcore
+3VYxHOaZ8ed1enSdu9lY5J,Bad Omens,Bad Omens,Glass Houses,55,240898,True,0.483,0.971,6,-3.191,1,0.158,8.83e-05,0.0,0.218,0.167,115.001,4,metalcore
+6Z0gK8Fp0AqS9EX8Icp4hj,Silverstein,"Punk Goes Pop, Vol. 2",Apologize,52,175320,False,0.478,0.72,1,-6.845,1,0.0415,0.000728,0.0,0.0947,0.26,135.129,4,metalcore
+5GwPTFXjE3WLJevK6KLMyc,Lamb of God,Lamb of God,Gears,43,235111,False,0.515,0.997,2,-3.066,1,0.104,1.15e-05,0.715,0.287,0.129,135.004,4,metalcore
+2gpw73Uq840rdD5YqJZkWk,Hollow Front,Loose Threads,Afflicted,49,291967,False,0.185,0.941,4,-5.028,0,0.129,0.029,0.0,0.109,0.169,164.215,3,metalcore
+345k7youQ1IzZaijlTwhZf,I Prevail,TRAUMA,Low,52,165360,False,0.477,0.941,8,-4.01,0,0.0468,8.48e-05,0.0,0.39,0.695,145.007,4,metalcore
+1LDQFdGTEXOnycDC8CJ5p1,Cane Hill,A Form of Protest,A Form of Protest,54,189405,False,0.395,0.933,11,-3.6,0,0.116,8.74e-06,0.0125,0.328,0.194,92.53,4,metalcore
+1iqj7vNKGuT0AIGJ11Kojy,Lamb of God,Lamb of God,Checkmate,43,270508,False,0.524,0.994,2,-3.587,1,0.0712,3.65e-05,0.406,0.198,0.124,119.978,4,metalcore
+1YQiA0Kfml44BqF68ZQ48n,Spiritbox,Rotoscope,Sew Me Up,14,211123,False,0.483,0.947,7,-3.941,1,0.0553,1.82e-05,0.00375,0.4,0.253,95.975,4,metalcore
+1wjpQiPQO8a1GDjhAD0gCo,Spiritbox,Eternal Blue,Constance,14,270546,False,0.352,0.701,6,-6.955,0,0.0436,0.00182,0.0666,0.154,0.147,112.264,4,metalcore
+1y8EEqXNbi7LtBpPLMPRui,Crystal Lake,Watch Me Burn,Watch Me Burn,52,209434,True,0.435,0.94,2,-5.552,0,0.0664,7.9e-05,7.66e-05,0.0659,0.42,139.028,4,metalcore
+2K31HIB2xqiFz2nlqiz9o2,A Skylit Drive,Rise (Deluxe Version),Crazy,26,179032,False,0.501,0.945,11,-2.307,0,0.0712,0.000391,0.0,0.211,0.538,124.052,4,metalcore
+3uY3sA5fwowXZBm0zsWAyy,Vanna,Void,Digging,24,250200,False,0.308,0.981,0,-3.476,1,0.363,0.00304,0.0,0.131,0.0758,150.27,4,metalcore
+3Ill870Y1tXdih9qPnRKa1,Novelists FR,Déjà Vu,Made by Design,49,198237,False,0.414,0.903,7,-4.716,0,0.108,8.9e-05,0.00843,0.295,0.486,160.014,4,metalcore
+1Fu9o08qEKVEwzU8siVcig,Escape the Fate,Dying Is Your Latest Fashion,Situations,64,187880,False,0.503,0.881,0,-4.502,0,0.0827,0.0261,0.0,0.482,0.597,101.038,4,metalcore
+3eWv4B65BIrhqZqj9odCKP,Bullet For My Valentine,Scream Aim Fire,Say Goodnight,37,283413,False,0.248,0.965,2,-4.57,0,0.0721,0.000167,0.000135,0.0957,0.366,116.206,4,metalcore
+5znIVOv7RucpCHGkbonySq,Parkway Drive,Reverence,The Void,58,233079,False,0.571,0.954,2,-3.399,0,0.0464,0.000432,0.0014,0.058,0.53,123.051,4,metalcore
+14EXZEog1hW97d6yz8ejih,Bleed From Within,The End of All We Know,The End of All We Know,47,251512,True,0.311,0.959,6,-5.104,0,0.107,0.000505,0.00012,0.328,0.336,149.406,3,metalcore
+1wjj7LDz8ZCU6HOldxvd6Q,Smile on the Sinner,Lazarus,Juggernaut,25,185142,False,0.58,0.876,0,-3.393,1,0.123,0.00078,0.000624,0.0861,0.293,140.032,4,metalcore
+4hZIolup6cgYhrzzGq46aq,Future Palace,Run,Dead Inside,55,204040,False,0.453,0.936,6,-4.728,0,0.0582,5.71e-05,1.09e-06,0.188,0.469,110.048,4,metalcore
+3KSxP6fx5Fxm4TGAwfLedB,John Wayne;Yuri Lemes;Milton Aguiar,"Aliança, Pt. II","Aliança, Pt. II",26,235624,True,0.406,0.995,6,-1.486,1,0.154,0.00173,2.62e-06,0.24,0.0619,130.466,4,metalcore
+2jGxPUlBQrHgBvOmWMcqDG,Blood Youth,Beyond Repair,Reason to Stay,24,206083,False,0.344,0.95,6,-5.06,0,0.101,2.57e-05,0.0,0.0874,0.328,160.16,4,metalcore
+5ebWSNwQKrnZzx4jvoGX6W,Wage War,Manic,High Horse,56,168000,False,0.492,0.961,2,-3.943,1,0.0957,3.14e-05,0.00315,0.122,0.324,129.988,4,metalcore
+1SH5MqcOHv9LOavHb84jSQ,Counterparts,The Current Will Carry Us,Optimist,25,158720,False,0.305,0.902,0,-6.227,1,0.096,3.74e-05,0.0119,0.185,0.248,112.623,4,metalcore
+68JioFRhzBZrpbON6KI6Zq,The Amity Affliction,Glory Days,Severance,24,310640,True,0.326,0.978,6,-4.566,1,0.158,0.000405,1.17e-06,0.257,0.189,86.73,4,metalcore
+4DT9fqXi4JtaBDhbPjfbRc,The Ghost Inside,Rise From The Ashes: Live At The Shrine,Unspoken - Live,25,217150,False,0.255,0.962,10,-5.179,0,0.0714,3.65e-06,1.64e-05,0.974,0.143,95.037,4,metalcore
+2Ps4FrDiR6JcJfSZbXAPBz,Killswitch Engage,Alive or Just Breathing (Topshelf Edition),My Last Serenade,53,253760,False,0.441,0.943,3,-4.996,1,0.138,0.000506,0.0397,0.122,0.142,177.971,4,metalcore
+7rKT0Jkav0cc9BB1XA3BrB,Cancer Bats,Birthing the Giants,Pneumonia Hawk,26,225773,False,0.169,0.914,2,-4.55,0,0.0662,2.88e-05,0.031,0.393,0.342,94.274,4,metalcore
+6hyZ2kv78sdcZj8Gc4KUWt,King 810,La Petite Mort or a Conversation with God,Me & Maxine,25,282386,False,0.33,0.59,11,-8.987,0,0.0467,0.0428,0.379,0.16,0.232,174.587,3,metalcore
+7i8l9o6EtdeTnD1id65IxF,The Acacia Strain,Continent,The Combine,25,122160,True,0.622,0.92,10,-4.745,1,0.0815,0.0117,2.37e-05,0.36,0.49,112.109,3,metalcore
+2HeMAm77KsRX600I30XTFw,Stick To Your Guns,Diamond,Build Upon The Sand,25,164146,False,0.249,0.981,7,-3.664,0,0.13,1.46e-05,8.04e-05,0.31,0.192,111.719,4,metalcore
+1c7kZbuNixEsCMbU3MZFpy,Trivium,In The Court Of The Dragon,Feast Of Fire,53,258837,False,0.346,0.949,6,-3.973,1,0.0837,1.42e-05,0.422,0.0524,0.323,178.027,4,metalcore
+4cAyotQrmkob1ciSlPS2OS,King 810,Midwest Monsters,Dragging Knives,26,290173,True,0.433,0.95,6,-5.2,1,0.113,0.0125,2.16e-05,0.257,0.217,178.056,4,metalcore
+44e3ja7bYx2BlxyECYVqun,Walls of Jericho,With Devils Amongst Us All,Try.Fail.Repeat,24,193493,False,0.284,0.969,7,-2.793,1,0.111,0.000178,0.0,0.0679,0.277,183.766,4,metalcore
+0KkUv8kGJFSS1EFvMQLbm4,A Skylit Drive,Identity On Fire,XO Skeleton,26,210466,False,0.372,0.962,1,-3.577,0,0.0896,0.000258,0.0,0.0892,0.499,179.984,4,metalcore
+0MgEBT3Qfwz2eRWeNMfyZo,Stick To Your Guns,Diamond,Life In A Box,25,88613,False,0.387,0.94,7,-3.74,1,0.136,7.3e-05,0.00958,0.515,0.564,169.812,3,metalcore
+7eAnF0Yr5MsC3Y2JOxBaY5,Spineshank,The Best Of Spineshank,Synthetic,26,190266,False,0.48,0.925,6,-4.449,1,0.0538,1.8e-05,8.96e-06,0.14,0.46,150.014,4,metalcore
+3nD6MfGzRSSPhkJCcxUg47,In Hearts Wake,Ark,Overthrow,24,243665,False,0.504,0.961,5,-3.155,1,0.0888,0.000126,0.0,0.372,0.274,125.493,4,metalcore
+7syGLGlZRILCU4JMy6nQqx,Any Given Day,My Longest Way Home,Dead and Gone,24,249893,False,0.274,0.994,10,-2.04,0,0.154,1.58e-05,0.107,0.34,0.228,199.936,4,metalcore
+4Qbpal6hpYqzBesWQ0hZpV,King 810,Midwest Monsters,The Death Posture,26,190706,True,0.48,0.914,6,-5.113,1,0.0846,0.0235,9.33e-06,0.0503,0.235,182.12,4,metalcore
+6ZsHMMgl4DIx8yYRdo98OG,Level,All In,Get In There (feat. Level),25,243000,True,0.658,0.612,1,-6.204,1,0.155,0.000263,0.0,0.512,0.407,80.016,4,metalcore
+0waARLc0ja4NTwQoA6lkPK,Protest The Hero,Palimpsest,Reverie,27,326226,False,0.532,0.986,7,-6.03,1,0.236,0.000507,0.0,0.267,0.23,139.942,4,metalcore
+6xWGwQHvM7T0oXVbP3SD3g,Maylene And The Sons Of Disaster,Maylene & The Sons of Disaster,Gusty Like the Wind,26,237733,False,0.576,0.989,9,-1.861,0,0.18,0.00437,0.0,0.806,0.199,139.95,4,metalcore
+6ghmPHtzLrErgkXju7ZDao,Upon A Burning Body,Red. White. Green.,Predators,25,275813,False,0.318,0.975,9,-4.788,0,0.365,0.0083,0.0,0.123,0.0742,140.484,5,metalcore
+7qnI3niczqy9NE4ovmxk4O,For Today,Breaker,Arm the Masses,25,185760,False,0.342,0.896,8,-4.568,1,0.157,0.00285,0.0,0.297,0.426,138.635,4,metalcore
+2hsW8UKdfbUL1atS7SZ4Pc,Maylene And The Sons Of Disaster,Maylene & The Sons of Disaster,Bang! The Witch Is Dead,27,210466,False,0.405,0.955,7,-2.345,1,0.166,0.000981,1.63e-05,0.228,0.27,116.122,4,metalcore
+2KWc5DKUCdoIMVIgivR1bb,Our Last Night,Black Beatles (Rock),Black Beatles - Rock,45,241773,False,0.545,0.905,11,-5.001,0,0.0441,0.000348,0.00652,0.263,0.545,146.039,4,metalcore
+0cyRTLChgQDVxrHqI6uHtC,Memphis May Fire,Make Believe,Blood & Water,13,230673,False,0.461,0.966,1,-2.792,0,0.189,3.5e-05,3.66e-06,0.33,0.459,140.009,4,metalcore
+0cmU8GRcNiJ15pZqrmg02Q,Of Mice & Men,Echo,Anchor,55,238750,False,0.452,0.873,2,-8.308,0,0.0723,0.00095,0.362,0.0672,0.226,107.426,4,metalcore
+57yI1u6t6cFXbjgjQcRHug,A Day To Remember,Resentment,Resentment,57,227266,False,0.496,0.955,9,-3.607,0,0.196,8.3e-05,9.64e-05,0.0549,0.143,122.956,4,metalcore
+7hH4dSp71EOv3XS57e8CYu,Our Last Night,Shape of You (Rock),Shape of You - Rock,48,241000,False,0.554,0.959,1,-4.786,0,0.0403,0.000142,0.000504,0.286,0.349,96.005,4,metalcore
+3JTORH8A2qihTOf5eu39NI,Bullet For My Valentine,Shatter,Shatter - Edit,48,281757,False,0.413,0.923,9,-4.487,1,0.053,9.24e-06,0.00102,0.0883,0.504,150.059,4,metalcore
+4KWq6RMruDDwjzYBBpUi7c,Bullet For My Valentine,Stitches,Stitches,48,301426,True,0.547,0.941,1,-4.631,1,0.0824,5.72e-06,0.000756,0.323,0.331,100.007,4,metalcore
+5u2t394YumuXAnHT2lr4Wj,Savage Hands,The Truth in Your Eyes,Demon,55,199971,False,0.562,0.955,3,-4.982,0,0.0733,0.000422,0.000638,0.309,0.781,126.048,4,metalcore
+6iOY5ZM2rWT6xOCE5LOp9y,Awaken I Am,The Beauty In Tragedy,The Stages Of Grief,51,204560,False,0.597,0.95,9,-2.557,1,0.0511,0.00169,0.0,0.111,0.448,112.06,4,metalcore
+6pspGA0zLaGeLKQ2Ioxe1g,Bullet For My Valentine,Gravity,Leap Of Faith,46,199266,False,0.419,0.925,4,-6.055,1,0.0931,0.00411,0.0,0.306,0.245,142.517,4,metalcore
+2diNjYDYu3BhouRuKoStiB,Alesana,Confessions,Catharsis,25,436387,False,0.512,0.979,1,-3.081,0,0.118,0.00172,0.000746,0.101,0.146,104.997,4,metalcore
+53xXTqz8QfadLsXbs411si,Lamb of God,Lamb of God,Resurrection Man,43,299557,False,0.337,0.977,7,-4.004,1,0.145,1.74e-05,0.528,0.0934,0.108,130.113,4,metalcore
+2KypRk2hIQxO8Z8EkQfhsB,The Devil Wears Prada,Time,Time,52,240200,False,0.52,0.92,5,-4.521,0,0.0685,0.000193,0.00473,0.362,0.369,112.01,4,metalcore
+6je3xFNqYLYLUp12JX8b8o,Happy Heads NANIYORI,Omedetai Atama de Naniyori 2,Sorrow Like Lightning / Ai-shiden-issen,33,191600,False,0.52,0.939,6,-4.234,1,0.153,0.00199,2.78e-05,0.0803,0.713,103.956,4,metalcore
+2g3erkcUse49xvnHuPyVTq,Spiritbox,Eternal Blue,Eternal Blue,13,239706,False,0.256,0.92,6,-4.914,0,0.0751,0.000331,0.000352,0.457,0.289,124.707,4,metalcore
+4YW8jIwpuIqYvNEOiqxAb5,Imminence,Heaven in Hiding,Surrender,52,221114,False,0.15,0.897,5,-4.552,0,0.124,0.000117,0.00372,0.129,0.219,165.021,4,metalcore
+6wWKcjSREt5JgLdnVeVvSP,Wage War,Godspeed (Stripped),Godspeed - Stripped,52,181826,False,0.563,0.75,2,-4.621,0,0.0304,4.55e-05,0.0,0.309,0.381,114.975,4,metalcore
+1ZiTdxdpKQuovW4ERgBIO2,Northlane,Singularity,Quantum Flux,51,243939,False,0.53,0.907,8,-3.066,1,0.0589,0.00254,3.91e-05,0.1,0.264,109.997,4,metalcore
+2xnlCGTDKbnnVe9sf85RXy,The Acacia Strain,3750,Smoke Ya Later,24,250693,False,0.276,0.934,6,-5.371,1,0.0716,6.41e-05,0.00219,0.297,0.307,137.128,4,metalcore
+3WJaypEGPAc0GH4l9ouoww,Lamb of God,Wrath (Special Edition),Broken Hands,41,233466,False,0.356,0.96,1,-2.214,1,0.135,6.64e-05,4.01e-05,0.356,0.461,164.007,4,metalcore
+0NPr9wmktHO0yT1VlUucHG,Bullet For My Valentine,Bullet For My Valentine (Deluxe),No More Tears To Cry,50,221433,True,0.428,0.939,11,-4.917,0,0.089,2.24e-05,2.89e-05,0.13,0.454,94.972,3,metalcore
+5iMPhdSTH7OovnhUzo2juY,August Burns Red,Constellations,Mariana's Trench,54,258106,False,0.205,0.984,1,-5.172,1,0.107,2.78e-05,0.247,0.148,0.203,115.732,1,metalcore
+6Pd8HUW71iIjalkxJbo8FP,Spiritbox,Eternal Blue,Hurt You,13,226186,False,0.369,0.977,7,-3.39,1,0.104,4.62e-05,0.000829,0.41,0.173,107.779,4,metalcore
+5N6zAExePGdU5s10LAoqMb,Fit For A King,Falling Through the Sky,Falling Through the Sky,55,261345,False,0.496,0.898,7,-4.676,1,0.0431,8.04e-05,0.0108,0.114,0.385,97.029,4,metalcore
+5t1sJQEcAltWjCfGL50aQT,Wage War,Pressure,Grave,52,194786,False,0.491,0.981,7,-3.673,0,0.131,0.0116,0.000971,0.144,0.366,138.015,4,metalcore
+21ziKIfApUwqwFq48nnTYs,Dead by April,Incomparable (Mystery Version),Within My Heart,40,205253,False,0.42,0.983,8,-3.921,1,0.0793,0.000238,4.89e-06,0.345,0.661,180.056,4,metalcore
+6gq5YInoFxEUT13bzu9DyC,Lamb of God,Lamb of God (Deluxe Version),Ghost Shaped People,44,245948,True,0.235,0.988,2,-3.291,1,0.17,1.93e-05,0.814,0.158,0.194,171.599,4,metalcore
+7re2pivIcLuIxwz3LRhpwA,Scary Kids Scaring Kids,The City Sleeps in Flames,Empty Glasses,26,170186,False,0.409,0.946,9,-4.594,0,0.0676,0.00306,0.0,0.108,0.72,170.068,4,metalcore
+4QugOfcxDdyDOLauzAC1uG,Attila,About That Life,About That Life,24,185789,True,0.381,0.903,1,-3.883,1,0.0762,0.000511,8.93e-06,0.344,0.474,126.538,4,metalcore
+6FethwCHTTuUQG8ooIEwa6,Get Scared,Cheap Tricks and Theatrics B-Sides,We Wont Give Up,25,240249,False,0.39,0.708,0,-8.577,0,0.0357,0.0062,0.0,0.106,0.258,77.482,4,metalcore
+3DS0g1tED3VSCayCFOwLE5,Fox Lake,Lady Luck,Bite. Chew. Swallow.,26,213846,True,0.417,0.929,6,-3.675,1,0.225,0.00711,0.0,0.658,0.402,86.059,4,metalcore
+0v3UwgJhdNCaEIMyuaoqyt,We Came As Romans,Darkbloom,Darkbloom,50,228266,False,0.494,0.837,8,-5.406,1,0.0413,8.64e-05,4.95e-06,0.124,0.358,109.996,4,metalcore
+3i3JI4oivE2ahcI5lhwPl1,Every Time I Die,Gutter Phenomenon,Tusk And Temper,25,235053,False,0.339,0.988,6,-4.856,0,0.11,0.0019,0.0,0.344,0.173,113.456,4,metalcore
+3s3aJoDPR0T5LHkK7iBLhm,The Ghost Inside,Rise From The Ashes: Live At The Shrine,Dear Youth (Day 52) - Live,24,221300,False,0.542,0.972,1,-5.53,1,0.0764,1.31e-05,7.62e-05,0.978,0.222,119.946,4,metalcore
+5yLQ9epAVnt9Tx19izzDI5,Hyro The Hero;Fire From The Gods,FU2 (feat. AJ Channer of Fire From The Gods),FU2 (feat. AJ Channer of Fire From The Gods),50,194307,True,0.599,0.874,2,-6.363,1,0.049,8.86e-05,0.000326,0.08,0.339,129.993,4,metalcore
+41LdI5DjWRkQVYFcvd23vV,Rise To Remain,Nothing Left,Nothing Left,25,185690,False,0.438,0.872,5,-4.791,0,0.0516,1e-05,2.11e-05,0.079,0.489,99.97,4,metalcore
+4MWFv1DJVvQzEh949d9GfZ,Asking Alexandria,Life Gone Wild EP,"I Was Once, Possibly, Maybe , Perhaps A Cowboy King - Demo",24,241266,False,0.363,0.931,9,-4.265,1,0.0676,6.57e-05,8.38e-05,0.441,0.199,124.9,5,metalcore
+1aBVudllbYWxn7ZHiKVPZY,Walls of Jericho,With Devils Amongst Us All,And Hope to Die,24,194840,False,0.271,0.989,2,-2.351,1,0.223,0.000398,0.0,0.324,0.277,158.034,4,metalcore
+5U7qAyfc6gyWSeqjDtzETa,Emmure,Felony,You Sunk My Battleship,24,189240,False,0.21,0.964,9,-6.078,1,0.193,2.92e-05,0.0368,0.15,0.136,158.308,4,metalcore
+2g49A3vhp0PX9jIVBCKLmy,Vanna,A New Hope,Into Hell's Mouth We March,24,183586,False,0.28,0.98,11,-4.232,0,0.285,0.000474,0.0,0.0857,0.348,181.708,4,metalcore
+3Fc9ucJTAFZ9NdrAZB5tF0,Upon A Burning Body,Red. White. Green.,Mimic,24,200225,False,0.435,0.978,0,-3.717,1,0.257,0.000153,0.0,0.315,0.0753,121.774,4,metalcore
+3AkCkuC8LuRFEnvyKBQUOg,Ice Nine Kills,Welcome To Horrorwood: The Silver Scream 2,Rainy Day,62,181520,False,0.466,0.944,6,-4.103,0,0.177,0.000119,0.0,0.379,0.384,134.993,4,metalcore
+4OdTyeq4qCXepqucqCeTq2,The Acacia Strain,The Dead Walk,See You Next Tuesday,24,195653,False,0.389,0.991,1,-4.917,1,0.181,0.000529,8.47e-05,0.201,0.153,154.06,4,metalcore
+2P3KTPSUnwEHNFMjq5PAs5,Gideon,Out of Control,OUTLAW,24,187682,True,0.546,0.99,10,-3.337,0,0.0681,9.73e-05,0.069,0.278,0.412,106.954,4,metalcore
+1sqqUxxiUlG4y4KQS0PceJ,Fit For A King,Descendants - Redux,Hollow Eyes,24,204106,False,0.448,0.98,10,-2.922,0,0.0826,0.000267,0.0,0.371,0.323,145.06,4,metalcore
+2alwXGR4Nl3AYdZe2oHzWT,Fit For A King,Descendants - Redux,The Roots Within,24,155706,False,0.49,0.943,10,-2.844,0,0.102,3.83e-05,0.0,0.378,0.355,129.953,4,metalcore
+1dJojwU52t4AdB3DhbGRcj,The Acacia Strain,Continent,Seaward,25,255800,True,0.27,0.95,11,-5.251,0,0.116,0.00129,0.0267,0.262,0.389,150.117,4,metalcore
+0o0K36GEbmIjHs1HzbMjNq,Emmure,Goodbye To The Gallows,The Key to Keeping the Show Fresh Is... I'm Dead,24,165013,True,0.311,0.98,3,-5.008,1,0.181,0.000272,0.00572,0.167,0.127,138.2,4,metalcore
+0i1sZjMJwmX7p1dpaYRuSC,Hatebreed,Perseverance,Outro,25,38400,False,0.341,0.863,1,-5.995,1,0.043,6.1e-06,0.436,0.128,0.931,89.239,4,metalcore
+1Bz6alA18L5xd1dr1VH1sw,Project46,Que Seja Feita a Nossa Vontade,Na Vala,27,328814,False,0.33,0.987,1,-3.979,0,0.254,0.00053,0.0103,0.273,0.0389,100.779,3,metalcore
+0aLrHZKT7pcszo0e5SiMIG,Our Last Night,HUMBLE.,HUMBLE.,52,195566,True,0.539,0.903,2,-6.038,1,0.0389,9.81e-05,0.176,0.149,0.445,150.028,4,metalcore
+1wp1aHirvZihTdrtdFuFv0,Our Last Night,1-800-273-8255,1-800-273-8255,51,235250,False,0.593,0.799,4,-6.098,0,0.0317,0.00335,0.0157,0.125,0.355,99.975,4,metalcore
+2czpyCQ0Bpwmhv8dz6Svhh,Memphis May Fire,Faint,Faint,13,165746,False,0.502,0.905,1,-5.658,0,0.0713,0.00151,0.0,0.305,0.405,135.001,4,metalcore
+7AV5YuWUHs9ItxsyWtWZuF,Silverstein,18 Candles: The Early Years,My Heroine - Acoustic,48,214053,False,0.366,0.537,7,-7.654,1,0.0297,0.26,0.0,0.196,0.258,75.142,4,metalcore
+5cA5uzhbAQ3P8ZRnyeCnGV,Our Last Night;Halocene;Adam Christopher;Micki Sobral;Henrique Baptista;Tom Verstappen,Back To You,Back To You,51,207205,False,0.606,0.905,11,-4.291,1,0.0469,0.000165,0.00225,0.447,0.508,101.965,4,metalcore
+7eITsVSfN8kKAxT35hoKF2,"Fear, and Loathing in Las Vegas",HYPERTOUGHNESS,The Gong of Knockout,47,210345,False,0.197,0.994,8,-1.721,1,0.324,0.000193,2.38e-06,0.139,0.197,179.937,4,metalcore
+1l3sMzBRc8dgpKzj2wm368,"Time, The Valuator",Black Water,Black Water,44,269271,False,0.469,0.934,4,-6.077,0,0.141,5.63e-05,0.000202,0.104,0.296,103.039,4,metalcore
+6dLXK2ppW3GiNEHN2vcMWl,Killswitch Engage,The End of Heartache (Special Edition),Rose of Sharyn,51,216306,False,0.469,0.978,8,-4.399,1,0.0628,5.59e-05,0.0168,0.294,0.413,90.994,4,metalcore
+2zEcAdsl5OjxKRrGQA5Z49,VRSTY,Blck Deluxe,Wilt,24,230342,False,0.45,0.932,7,-4.922,1,0.109,2.39e-05,2.47e-05,0.359,0.2,145.973,4,metalcore
+0uyvc0R0wJ6Fu3E01UtlzJ,Miss May I,Shadows Inside,Shadows Inside,54,236549,False,0.381,0.969,10,-4.956,0,0.141,4.59e-06,1.47e-05,0.143,0.338,179.987,4,metalcore
+04K2bMi2vyOBwxr5EjDq5O,Ice Nine Kills,The Silver Scream,The American Nightmare,61,249746,True,0.505,0.981,2,-3.779,1,0.156,0.000212,3.75e-06,0.588,0.256,120.052,4,metalcore
+2fyDWKsx5904KnZMGllmAv,Loathe,I Let It in and It Took Everything,A Sad Cartoon,55,315880,False,0.421,0.89,3,-7.077,1,0.0742,0.000527,0.434,0.2,0.131,137.711,4,metalcore
+4joiOZkgprmTPwcU31A7Tw,Bullet For My Valentine,Bullet For My Valentine (Deluxe),Step Out From The Inside,45,251061,True,0.24,0.484,7,-10.211,0,0.034,0.0402,2.52e-06,0.512,0.39,80.473,3,metalcore
+3eovN9jZVyLrcbRF7MBXUs,Northlane,Obsidian,Carbonized,49,225986,True,0.514,0.968,1,-4.708,1,0.0737,0.000215,0.0374,0.337,0.514,164.981,4,metalcore
+1zVuDtGYWtwg2Id64zrL2K,Motionless In White,Disguise,Headache,56,209027,True,0.436,0.942,5,-3.584,1,0.0955,0.00021,1.65e-06,0.0824,0.636,170.046,4,metalcore
+4HOVQhtjFCRGY9PnsLoR86,Soilwork,Verkligheten,Stålfågel,58,265823,False,0.559,0.975,11,-4.487,0,0.105,5.69e-05,0.794,0.11,0.0762,105.024,4,metalcore
+23vSivmGgbH4KpIzhUNCGl,Chelsea Grin,Eternal Nightmare,Hostage,13,196002,True,0.501,0.987,8,-4.794,0,0.133,2.52e-05,0.275,0.365,0.213,129.981,4,metalcore
+0jEqhhJTqhBYMKUnyAC28y,Bring Me The Horizon,Sempiternal (Expanded Edition),Crooked Young,53,214946,True,0.428,0.986,0,-1.759,0,0.151,0.00124,6.41e-05,0.515,0.25,138.038,4,metalcore
+4M5UXRcYSWezUZI3fwYijE,May of Sorrow,LOST,LOST,24,243565,False,0.456,0.989,7,-4.045,1,0.0497,0.000625,0.00346,0.198,0.433,95.026,4,metalcore
+16Rry8M8K1HdyQ3qMUXCU0,We Came As Romans,Darkbloom,Promise You,46,227906,False,0.487,0.559,0,-9.852,1,0.0451,0.108,0.00161,0.0687,0.288,170.055,4,metalcore
+31XewsYN7AYkxTGKBquSbN,May of Sorrow,Holding on,Holding on,24,275617,False,0.421,0.949,5,-3.036,1,0.0837,0.000223,0.000973,0.258,0.596,169.949,4,metalcore
+7dXBggCaOLv8WIjSttr82H,AVOID,Alone,28 Days,24,225586,True,0.449,0.961,6,-4.174,1,0.0766,3.36e-05,0.146,0.0882,0.337,112.023,4,metalcore
+1vCZDcHV3VaL14O01iUQVQ,Machine Head,ØF KINGDØM AND CRØWN,UNHALLØWED,56,389947,True,0.511,0.978,7,-3.867,1,0.0654,0.000185,0.000893,0.308,0.233,115.046,4,metalcore
+26dIIcqM4lSVjG3ue8dJkp,Chiodos,Illuminaudio,Modern Wolf Hair,26,229106,False,0.303,0.879,2,-3.395,1,0.076,0.0253,0.000187,0.659,0.142,91.082,4,metalcore
+6156ZPGcezId0Bmw7x7c7K,Trivium,The Sin and the Sentence,The Sin and the Sentence,54,349869,True,0.517,0.97,1,-3.992,1,0.0767,0.000386,0.00026,0.0413,0.476,100.036,4,metalcore
+2SI0lVzEn93n3ZuJqeUCIc,We Came As Romans,Darkbloom,Holding The Embers,47,253626,False,0.501,0.909,8,-4.759,1,0.0586,0.000207,0.0,0.392,0.213,133.975,4,metalcore
+1FrQqK2Q1nsfuymS8gZfRO,May of Sorrow,Another Side (Reload),Sand,25,203728,False,0.484,0.941,0,-3.887,0,0.0658,0.000394,0.0,0.148,0.535,180.025,4,metalcore
+6MLsDhSSdlFxcZ1HekQ7N4,The Ghost Inside,Rise From The Ashes: Live At The Shrine,The Great Unknown - Live,24,204900,False,0.314,0.973,10,-5.53,0,0.0852,1.17e-05,9.42e-06,0.855,0.0598,101.843,4,metalcore
+4ptzVhD7TWh4aBkhWEzz0o,We Came As Romans,Darkbloom,Golden,49,219346,False,0.49,0.976,5,-3.337,0,0.0818,4.18e-06,1.76e-06,0.112,0.529,116.013,4,metalcore
+2rUC9tmxfT8lsv2Ch3cFt4,We Came As Romans,Darkbloom,Doublespeak,48,210573,False,0.579,0.877,5,-5.064,1,0.05,0.000198,0.547,0.492,0.233,104.99,4,metalcore
+03tosz8WySyXlSffvvMidv,"Our Hollow, Our Home",In Moment / / In Memory,//Anger,24,54560,False,0.342,0.957,9,-3.897,0,0.16,0.0624,0.00165,0.86,0.0387,139.943,4,metalcore
+2X3rwYURTDExE4yDjPtTsU,The Amity Affliction,Glory Days,Dong Wayne,24,188986,True,0.399,0.729,1,-6.54,0,0.0383,6.43e-05,0.000156,0.117,0.484,98.779,4,metalcore
+2SFn6LS2ioZQzu9KQ4bIwx,Periphery,Periphery III: Select Difficulty,The Way the News Goes...,35,303693,True,0.467,0.935,7,-5.096,1,0.0855,0.0012,1.33e-06,0.137,0.29,102.443,4,metalcore
+1g5Jqwo02PuitYfv19B6Jn,We Came As Romans;Caleb Shomo,Darkbloom,Black Hole,50,179186,False,0.49,0.956,5,-4.249,0,0.0675,2.32e-05,0.0,0.455,0.412,110.042,4,metalcore
+6CJLyGq3m27Eywh6vCwFOA,Solitude,Tied To The Anchor,Under Fading Skies,24,215546,False,0.396,0.907,1,-5.236,0,0.0703,1.7e-05,9.52e-06,0.226,0.338,95.066,4,metalcore
+2goJK85OkKFSLkv7k0qa1f,Wage War,Manic,Godspeed,56,186933,False,0.525,0.95,7,-3.175,1,0.0919,2.22e-05,0.0,0.304,0.509,115.055,4,metalcore
+3CMVQid1VqhYjgarvG4AWR,In Hearts Wake,Skydancer,Wildfire,23,192874,False,0.409,0.996,9,-0.636,0,0.172,5.09e-06,0.383,0.272,0.218,92.072,4,metalcore
+5SrbYHN89Ay0EFCiyqyB4a,Chiodos,Bone Palace Ballet: Grand Coda,Smitten For The Mitten,26,195293,False,0.483,0.968,5,-3.167,1,0.111,0.0163,0.0,0.331,0.195,93.988,4,metalcore
+2RvluPimiBzerjtXE87AdI,Gideon,Out of Control,SOUTHWIND,23,249828,False,0.594,0.989,10,-3.246,0,0.131,0.000372,0.000274,0.12,0.186,115.999,4,metalcore
+6sZWP4l2zgHz5qpaTvda9M,In Hearts Wake,Kaliyuga,Dystopia,23,205684,False,0.243,0.97,2,-3.483,1,0.134,9e-05,3.07e-06,0.314,0.255,126.654,3,metalcore
+4MtitTdGu0ldNjytXNFV64,Any Given Day,My Longest Way Home,Darkness Within,23,256026,False,0.407,0.983,11,-2.165,1,0.109,1.2e-05,0.21,0.314,0.164,100.981,4,metalcore
+2j2CRl98OHSlRwL4KCYudv,Gideon,Calloused,Expose,23,165920,False,0.318,0.995,6,-1.76,1,0.179,0.00875,0.0,0.426,0.49,175.756,4,metalcore
+52Ee1NSe8oaum15FN1CyH7,Parkway Drive,Darker Still,Imperial Heretic,56,290356,False,0.465,0.93,2,-2.804,0,0.0527,3.43e-05,0.0311,0.147,0.263,118.998,4,metalcore
+1owthp3iKcZh4FmStOATX8,Fit For A King,Locked (In My Head),God of Fire,24,210692,False,0.622,0.876,0,-6.831,1,0.092,0.00281,0.000575,0.0781,0.253,129.944,4,metalcore
+0edpEHU5spjh7GEPcfs3DU,It Dies Today,Sirens,Sacred Heart (Sacre Coeur),25,193480,False,0.498,0.933,4,-4.303,1,0.145,1.28e-05,0.000577,0.126,0.443,150.005,4,metalcore
+30DndvseLl8zjo78OBwbpl,Norma Jean,Meridional,Bastardizer,24,195960,False,0.138,0.916,8,-6.32,1,0.104,4.68e-05,0.304,0.767,0.278,178.542,4,metalcore
+6c54piwnmdwbH59DmMV3s1,Ice Nine Kills,I Heard They KILL Live,"Me, Myself And Hyde - Live in Worcester, MA / November 2019",25,249466,True,0.226,0.984,1,-4.879,0,0.337,0.000218,4.99e-05,0.688,0.0834,170.211,4,metalcore
+4WL3FDdLkZzy1xdAcgcCqL,Upon A Burning Body,Red. White. Green.,From Dusk Till Dawn,24,151695,False,0.366,0.982,9,-4.123,0,0.234,4.21e-05,1.92e-06,0.312,0.196,118.264,4,metalcore
+1JC6qQzJsXlwSLHD8KypXg,Protest The Hero,Kezia (Remaster),She Who Mars the Skin of Gods,26,231533,False,0.329,0.763,8,-10.339,0,0.0778,2.69e-05,5.76e-05,0.363,0.54,123.315,3,metalcore
+4UNJIV0ke5g0IMimPbMLbw,A Day To Remember,Everything We Need,Resentment,25,227266,False,0.496,0.955,9,-3.607,0,0.196,8.3e-05,9.64e-05,0.0549,0.143,122.956,4,metalcore
+4P2OiHcrk7j10MHFiVK3N3,Volumes,No Sleep,Erased,48,202493,False,0.397,0.907,3,-5.612,0,0.0605,0.00037,0.00193,0.058,0.367,99.487,4,metalcore
+4NHuyxiG4Cl2wfqWIzT1hL,The Amity Affliction,This Could Be Heartbreak,All Fucked Up,56,229760,True,0.511,0.876,11,-4.287,0,0.0337,0.0338,0.0,0.645,0.291,142.056,4,metalcore
+3cWr9taSdYFo74RJxaB13c,Periphery,Periphery II,Luck as a Constant,34,364906,False,0.439,0.967,8,-5.756,1,0.159,0.000365,0.00389,0.355,0.0479,134.972,4,metalcore
+4Xe8ybuHb2CKiFc55bp8VZ,Of Mice & Men,Restoring Force,Would You Still Be There,12,192506,False,0.513,0.917,10,-3.612,1,0.0505,5.86e-05,7.1e-05,0.309,0.481,96.022,4,metalcore
+6AJvaMDOSgac1MSazbQ3ze,Dead by April,Worlds Collide,Our Worlds Collide,42,235880,False,0.483,0.938,11,-4.982,0,0.0481,0.00108,0.11,0.292,0.265,100.064,4,metalcore
+2lUECytCuzKCCDSsUdIqyC,Memphis May Fire,Make Believe,Somebody,13,200000,False,0.479,0.99,10,-2.801,0,0.102,0.00661,0.0,0.104,0.637,137.979,4,metalcore
+0Y2kTZlKmbcsLSTHnLETBj,Conquer Divide,Atonement,Atonement,54,237115,True,0.488,0.851,11,-8.979,0,0.0396,0.00328,0.00222,0.087,0.22,103.974,4,metalcore
+77WO0JSWRfhu0ek3Zp2amk,Our Last Night,Age Of Ignorance (Deluxe Edition),Skyfall,47,249411,False,0.356,0.925,4,-2.193,1,0.077,0.00755,0.0,0.105,0.323,76.543,4,metalcore
+1lvp5HcDCr30dAOERyN54D,Sylar,Seasons,All or Nothing,47,198144,False,0.461,0.955,7,-5.096,1,0.352,0.000993,2.75e-06,0.111,0.32,198.076,4,metalcore
+44zQmgpr8TnYChiWHmGyYO,Bullet For My Valentine,Venom (Deluxe Edition),Worthless,47,198106,False,0.29,0.977,0,-3.209,0,0.0846,0.000111,0.0,0.32,0.487,182.241,3,metalcore
+1Uo51u6JqpIroI98zyhCvE,Spiritbox,Rule Of Nines,Rule Of Nines,55,211154,False,0.268,0.949,1,-5.859,1,0.134,1.42e-05,0.0759,0.314,0.261,116.375,4,metalcore
+0fPW7rsIvbUmXPpUib0zIl,Born Of Osiris,Angel or Alien,Angel or Alien,44,267649,False,0.447,0.979,4,-4.129,0,0.118,0.000893,0.00125,0.393,0.17,109.056,4,metalcore
+6Jl8BpAWqCpzcv6V4BZEaf,Silverstein,Redux II,Worlds Apart,26,242000,False,0.487,0.882,1,-3.519,1,0.0521,0.000189,0.0,0.0703,0.463,130.059,4,metalcore
+5XExne04zgnDeAN8aIvMvM,While She Sleeps,SO WHAT?,ANTI-SOCIAL,51,254500,True,0.531,0.938,4,-6.493,0,0.122,0.00388,0.00113,0.145,0.242,139.954,4,metalcore
+5ksFMdZQyP8o2yE2TqqHlX,Fox Lake;Kaiden Koustoukos,Silence & Violence,Fake Life,25,190132,True,0.496,0.95,11,-5.731,0,0.123,0.000372,3.5e-05,0.256,0.399,164.942,4,metalcore
+0SIKrp2SkPmflfKtCNkZXX,Imminence,Heaven in Hiding,Chasing Shadows,51,246284,False,0.443,0.875,4,-4.432,0,0.0556,0.000883,8.87e-05,0.138,0.175,112.022,4,metalcore
+0oLICk7wA4GsaGEk1lprgD,Silverstein;Aaron Gillespie,A Beautiful Place To Drown,Infinite,55,163720,False,0.441,0.868,11,-5.516,0,0.0714,0.000121,2.72e-06,0.145,0.366,162.0,4,metalcore
+6hNCDSgYDBai0E2AUSaz9f,Dead To Fall,Empire of Pines,Empire of Pines,23,158571,False,0.441,0.967,9,-5.926,1,0.152,2.63e-05,0.000374,0.139,0.0628,105.02,4,metalcore
+7uoW5QeuW2OznVM0VOpc9B,Attila,Still About It,Still About It,23,196202,True,0.633,0.966,1,-4.743,0,0.168,0.000101,0.000808,0.287,0.408,118.02,4,metalcore
+3I0sLAfseLWFkRtGKxmrCc,Bring Me The Horizon;Lights,There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret,Crucify Me (feat. Lights),47,379520,True,0.345,0.898,8,-6.145,1,0.143,0.000507,0.00447,0.106,0.0456,102.463,4,metalcore
+6yPNIu0Ch7Z1BaPpy63d0F,We Came As Romans,Darkbloom,The Anchor,47,214506,False,0.409,0.942,5,-3.833,0,0.0525,3.76e-05,1.51e-06,0.322,0.307,160.043,4,metalcore
+2bpakKOLnMhDHjrwvxu8WW,Bad Omens,THE DEATH OF PEACE OF MIND,Miracle,54,225000,True,0.515,0.652,5,-6.653,0,0.0565,0.0333,0.0522,0.202,0.253,180.054,3,metalcore
+71IsKtEgnQhCxHwfPQe7Nt,Wage War,Manic,Teeth,55,188400,False,0.393,0.924,1,-3.737,1,0.169,2.61e-05,0.000153,0.16,0.228,199.944,4,metalcore
+5sykvfEJHupA8mjhhgylVk,Machine Head,ØF KINGDØM AND CRØWN,CHØKE ØN THE ASHES ØF YØUR HATE,55,246405,True,0.511,0.992,1,-3.372,1,0.133,0.000186,0.00104,0.39,0.327,124.941,4,metalcore
+5Ax3CrEaFiQHb65JMijp2J,Electric Callboy,TEKKNO,Neon,61,191626,True,0.581,0.816,5,-7.457,0,0.0393,0.000612,0.0,0.107,0.424,117.979,4,metalcore
+5mZ87Cp5PvnoejFLwBqYkm,The Acacia Strain,It Comes in Waves,Them,24,139080,False,0.209,0.996,9,-2.779,1,0.119,1.58e-05,0.0232,0.218,0.0576,76.095,1,metalcore
+7016dO2qW95yFxtNsnVZcv,The Amity Affliction,Glory Days,Cut It Out,23,225920,True,0.217,0.695,11,-6.802,0,0.0596,0.00031,5.33e-06,0.221,0.216,93.262,4,metalcore
+4EFb9FhLyFiDbYKwBwDZre,Electric Callboy,We Got the Moves,We Got the Moves,63,206858,True,0.595,0.808,5,-6.595,0,0.0564,0.00013,1.68e-05,0.103,0.712,149.989,4,metalcore
+1uQnMx36qeGoiXOBrZdBQm,Scary Kids Scaring Kids,The City Sleeps in Flames,Faith in the Knife,26,207466,False,0.392,0.943,4,-4.718,0,0.109,0.0022,0.0,0.409,0.536,180.115,4,metalcore
+313yF0VXTCmFFoYEJF7nBQ,Underoath,Define The Great Line,Writing On The Walls,60,242413,False,0.358,0.959,2,-3.139,0,0.0874,0.00364,0.000237,0.356,0.171,91.938,4,metalcore
+5svGKYMK4zhSzZqX0g88Lr,The Word Alive,Deceiver (Deluxe Edition),2012,24,181706,True,0.467,0.873,11,-4.968,0,0.0411,0.000241,1.1e-06,0.527,0.177,150.059,4,metalcore
+6xC8tcFBMMjJIyfPw66lDF,We Came As Romans,Darkbloom,Plagued,48,209840,False,0.456,0.933,1,-3.386,1,0.057,4.72e-06,0.00043,0.37,0.568,96.624,4,metalcore
+2M3JgLXXTUKXYeXeFddxxw,Convictions,Hope for the Broken,Voices (They Want Me Dead),24,228937,False,0.385,0.962,2,-3.219,0,0.123,0.0759,5.13e-05,0.324,0.262,160.077,4,metalcore
+4bwp2R1oJxwNwoc28T7iy7,Fit For An Autopsy,Walk With Me In Hell,Walk With Me In Hell,51,316599,True,0.259,0.991,5,-2.278,1,0.121,0.000136,2.99e-06,0.29,0.0372,110.038,4,metalcore
+0JXILsWNyXHEd2IzofS3jX,We Came As Romans;Zero 9:36,Darkbloom,Daggers,48,194093,True,0.435,0.961,7,-3.658,1,0.141,6.16e-05,0.000134,0.384,0.427,148.016,4,metalcore
+6Q56L7rivD2iUsq1uNKM8n,36 Crazyfists,A Snow Capped Romance,Installing the Catheter,24,231400,False,0.42,0.949,0,-5.108,1,0.0781,0.00633,1.4e-06,0.162,0.665,178.017,4,metalcore
+4ciXhLtw8bQbyGDS6mEDlc,The Browning,Burn This World,I Choose You,24,190040,False,0.512,0.986,0,-4.229,0,0.0657,3.12e-05,0.0047,0.0693,0.181,108.738,3,metalcore
+7jiujctcXaruvv1cq1Pwky,Level,Is You Wet Yet? Feat. Dorrough,Is You Wet Yet?,24,230906,True,0.855,0.655,11,-5.457,0,0.214,0.115,0.0,0.967,0.556,143.522,4,metalcore
+1esc6EuXlZmtPcSaEolqiU,Every Time I Die,Gutter Phenomenon,Gloom And How It Gets That Way,25,117920,False,0.394,0.994,7,-4.655,1,0.114,0.0099,0.0,0.315,0.0916,118.384,4,metalcore
+4lb1IHBZ2eYTk49vPR0bMg,The Acacia Strain,Continent,Jfc,24,176626,True,0.269,0.919,11,-4.878,0,0.122,0.00564,0.00342,0.534,0.21,89.989,4,metalcore
+0I7a5s9fuXFXgYepRI4Uj6,We Came As Romans,To Plant a Seed,Beliefs,24,246506,False,0.228,0.96,9,-3.813,0,0.101,0.00196,1.25e-05,0.36,0.229,143.535,4,metalcore
+0FnNvh5Azabpbfb7xSmZpj,Currents,The Way It Ends,Monsters,53,212308,True,0.474,0.977,4,-4.204,0,0.129,0.00035,2.65e-06,0.401,0.174,100.918,4,metalcore
+16UK0laJ1pGf3va3kUPqZf,Chiodos,Bone Palace Ballet: Grand Coda,"We Swam From Albatross, The Day We Lost Kailey Cost",26,271800,False,0.388,0.924,2,-5.001,0,0.101,1.83e-05,0.0144,0.086,0.0722,156.001,4,metalcore
+1A2MvoVOlxlPlPKJGrKjGY,Chelsea Grin,Desolation Of Eden,Recreant,50,266826,True,0.514,0.935,9,-4.614,1,0.177,0.00104,0.00552,0.255,0.205,125.02,4,metalcore
+1YO1vzBy6y44sosMHviv0S,Electric Callboy;Conquer Divide,TEKKNO,Fuckboi (feat. Conquer Divide),62,164000,True,0.536,0.759,8,-9.521,1,0.0441,0.000844,1.09e-06,0.0729,0.743,159.99,4,metalcore
+0MI7Ij4WZejvNoGYGfu7ua,Chiodos,All's Well That Ends Well (Deluxe Edition),"The Words ""Best Friend"" Become Redefined",26,216293,False,0.328,0.875,9,-6.864,0,0.0884,0.0075,0.000247,0.644,0.214,108.088,4,metalcore
+0BUvIWyz1PGeJ0d6QzsYZk,It Dies Today,The Caitiff Choir,The Radiance,24,195413,False,0.449,0.852,0,-4.321,1,0.0445,0.000135,0.0,0.286,0.55,95.971,4,metalcore
+0NhSv44kPrT7PT6yf07xx6,He Is Legend,Suck Out The Poison,Suck Out The Poison,26,203040,False,0.185,0.962,4,-5.032,0,0.238,5.86e-05,0.012,0.104,0.409,186.973,4,metalcore
+2iK4KaT6SSGcHtiBf4G16a,King 810,La Petite Mort or a Conversation with God,Wolves Run Together,25,394986,False,0.587,0.576,9,-10.303,1,0.108,0.278,0.295,0.323,0.319,119.854,4,metalcore
+39Apu2gqWThmLWtuV0Xxl6,Fit For An Autopsy,Hellbound,Dead In The Dirt,24,206426,False,0.373,0.995,1,-2.235,0,0.162,7.76e-05,0.0,0.341,0.0566,116.398,4,metalcore
+5NSdMmd2LnvgDcpLiKeKeD,Falling In Reverse,Fashionably Late (Deluxe Edition),Bad Girls Club,61,221730,True,0.533,0.924,2,-2.697,1,0.154,0.0139,0.0,0.487,0.756,174.002,4,metalcore
+6RBY5ToIdDyhM1JNxEYqhd,Escape the Fate,This War Is Ours (Deluxe Edition),Something,50,217293,False,0.395,0.853,10,-5.808,0,0.0692,0.00909,0.0,0.29,0.481,175.233,4,metalcore
+2UJ7e55bObCYCqpBkehnsr,Veil Of Maya,Outsider,Outsider,47,249468,False,0.476,0.971,4,-3.797,0,0.0964,5.25e-05,9.45e-05,0.316,0.207,140.02,3,metalcore
+3qAXH92Chxp4o5yVBcSPc3,Savage Hands,Love No More,Love No More,50,225186,False,0.5,0.93,10,-3.591,0,0.0961,8.25e-05,1.91e-05,0.108,0.451,129.979,4,metalcore
+6wF8zOXvWhZFGBZkksE2JY,Wildways,Картины счастливого мира,Прятки,30,193826,False,0.57,0.973,6,-4.26,1,0.0987,0.000827,1.89e-05,0.279,0.221,115.0,4,metalcore
+5RnXQZ65F3uEHca395z6cz,Periphery,Juggernaut: Omega,The Bad Thing,37,353442,False,0.311,0.953,2,-4.96,1,0.172,0.000216,2.19e-06,0.111,0.417,132.856,4,metalcore
+2zCwpuQuSzm2Mk7h7JYNtS,Bullet For My Valentine,Omen,Omen,48,233325,True,0.414,0.951,7,-6.261,1,0.0674,4.23e-06,0.000596,0.34,0.214,127.552,4,metalcore
+22ukl1QrvD95MlnSSw22QS,Like Moths To Flames,The Preservation Of Hate,The Preservation Of Hate,46,186000,False,0.522,0.979,7,-3.749,1,0.163,0.00173,2.47e-05,0.222,0.401,135.029,4,metalcore
+7petzbAJP403GAY6F3Zfbx,Motionless In White,Graveyard Shift,Soft,59,210000,True,0.488,0.967,1,-1.825,1,0.103,4.63e-06,0.00018,0.494,0.331,94.99,4,metalcore
+63cTVY6A0yeJ0DsjXBwYVH,Novelists FR,Smoke Signals,Smoke Signals,45,214057,False,0.35,0.954,4,-4.562,0,0.233,2.2e-05,0.00238,0.355,0.323,170.088,3,metalcore
+4dFI3oZOaZn2iSOEUe1FFO,Emmure,Look at Yourself,Natural Born Killer,54,157666,False,0.276,0.959,5,-2.766,1,0.113,3.82e-06,0.00122,0.0778,0.432,159.913,4,metalcore
+4B161tnzwvFCWiOfx9T8Di,Architects,For Those That Wish To Exist,Dying Is Absolutely Safe,45,299013,False,0.415,0.592,0,-10.836,0,0.0363,0.258,0.192,0.0693,0.235,114.956,4,metalcore
+1XlKHZ3SkYa7Ea0fQBpjHv,Caskets,Lost Souls,Nothing to Hide,52,259528,False,0.523,0.923,5,-5.754,0,0.0703,0.00139,5.76e-06,0.303,0.285,127.013,4,metalcore
+33IPzl4qNKrI4UsLVemh5U,Fox Lake,Silence & Violence,484,25,214527,True,0.653,0.912,9,-5.379,1,0.103,0.000538,1.36e-05,0.318,0.341,105.044,4,metalcore
+46QdfDL0LnGlHLKmREiXP5,I Prevail,Lifelines,RISE,54,194626,False,0.457,0.97,10,-4.214,0,0.057,3.37e-05,0.00204,0.189,0.731,163.959,4,metalcore
+4q0OK0HRaLd2Wzz23GeApJ,We Came As Romans,Cold Like War,Wasted Age,55,226800,False,0.412,0.943,6,-4.29,1,0.0686,3.68e-05,0.000199,0.196,0.748,169.948,4,metalcore
+7z3Q4j4HJDSOZtbR5rbYdG,Architects,Holy Hell,Holy Hell,49,253973,True,0.537,0.972,7,-4.115,1,0.0512,8.92e-05,0.00449,0.256,0.236,105.019,4,metalcore
+3rJgVV3jjhFQc5CumVMsaT,Polaris,The Death of Me,Pray for Rain,50,284739,False,0.507,0.971,8,-3.457,0,0.0767,0.000553,0.000196,0.0545,0.208,114.942,4,metalcore
+2ej9bX4Bc2vVryUKD5ex7m,A Feast for Kings,Hell on Earth,React / Regret,23,289043,False,0.494,0.99,1,-3.94,1,0.125,0.000583,0.0255,0.0912,0.211,115.005,4,metalcore
+4iLRsbijzBUP9AkQVlEn6z,We Came As Romans,Cold Like War,Cold Like War,55,226200,False,0.458,0.961,5,-4.315,0,0.0798,0.000153,0.00181,0.185,0.5,149.967,4,metalcore
+7Ehz2k1K2YJ5xbyAAfaPAa,Thy Art Is Murder,Dear Desolation,Puppet Master,52,195790,True,0.322,0.996,9,-2.307,1,0.225,0.00428,0.0,0.342,0.0846,138.695,4,metalcore
+3Ye6hOjAzeXq3Kc38mUCGS,Whitechapel,The Valley,Hickory Creek,51,296447,False,0.41,0.712,11,-6.818,0,0.0456,0.00318,0.28,0.109,0.0511,119.635,4,metalcore
+53QkoELbY2Vzzb4EMkFJOB,Imminence,Heaven in Hiding,Temptation,52,223187,False,0.249,0.93,2,-4.23,1,0.0877,0.00169,0.024,0.175,0.196,180.125,4,metalcore
+7DFzXaEOe8kK80jUlvPbV6,May of Sorrow,Awake,Awake,24,218044,False,0.435,0.777,3,-4.291,1,0.0375,0.0478,0.000174,0.268,0.256,139.974,4,metalcore
+4a4cyxcgVmXZ760a6OwSOC,In Hearts Wake,Ark,Flow,23,220396,False,0.388,0.901,9,-3.661,0,0.0549,5.72e-06,0.0,0.155,0.273,149.949,4,metalcore
+3XFqW9PbzMBy6wV06egJQ2,Architects,For Those That Wish To Exist,Discourse Is Dead,49,226605,False,0.484,0.925,1,-4.165,1,0.0862,0.000128,0.000238,0.0831,0.245,123.966,4,metalcore
+3f3HfaJfzYK4SzsVhQnLZO,Electric Callboy,TEKKNO,Parasite,62,183000,False,0.478,0.916,1,-7.505,1,0.0933,5.63e-05,0.00258,0.437,0.519,154.937,4,metalcore
+3cehtYKziT0aUDzUbXh5tG,Vanna,A New Hope,Like Changing Seasons,23,228053,False,0.17,0.978,8,-4.483,0,0.183,0.000648,0.0,0.353,0.234,175.632,4,metalcore
+2zEoD1fzFCVCzPtJH6dfST,Heavy Heavy Low Low,"Everything's Watched, Everyone's Watching",Mall-Nutrition,25,115026,False,0.239,0.954,9,-4.405,1,0.241,0.00043,2.47e-06,0.319,0.254,83.416,4,metalcore
+7tlePVZSAd5cTxxJNveyNx,Confession,The Long Way Home,Confused/Hopeless,23,151173,True,0.493,0.974,4,-4.066,1,0.125,3.9e-05,6.95e-06,0.225,0.318,102.517,4,metalcore
+4mOlv94AfgVN7fRcdi8A1S,See You Next Tuesday,Parasite,Let's Go Halvsies on a Bastard,24,80013,False,0.341,0.981,11,-2.575,0,0.149,0.000613,0.000196,0.42,0.0465,125.018,4,metalcore
+6xLGj05sCgZxMdDTQI3150,Slaughter to Prevail,Kostolom,Zavali Ebalo,49,231000,True,0.555,0.992,10,-1.483,0,0.135,0.000276,0.0146,0.355,0.489,160.026,4,metalcore
+482a8nLiyeJ5iLP0FE7VxG,Silverstein,Arrivals & Departures (Bonus Track Version),"Here Today, Gone Tomorrow",26,213933,False,0.44,0.853,5,-4.952,0,0.0391,0.00689,0.0,0.121,0.835,185.872,4,metalcore
+4PBgVPXXnrBJXSUtFv5b2S,Lamb of God,Ashes of the Wake (15th Anniversary),Blood Of The Scribe,46,263404,False,0.364,0.978,6,-4.131,0,0.118,0.000602,0.0582,0.327,0.078,102.045,3,metalcore
+1fHpIPZ2kQdu8P5BvKLSjP,Asking Alexandria,The Death of Me,The Death of Me - Rock Mix,23,204817,False,0.383,0.973,11,-2.305,0,0.0691,2.92e-05,0.0,0.408,0.264,95.106,4,metalcore
+1IEVz2RArydLj2I9oYyHv7,Wage War,Blueprints (Anniversary Edition),Youngblood,23,242830,False,0.465,0.936,10,-8.334,0,0.0934,0.000157,0.000353,0.29,0.281,100.01,4,metalcore
+7drzpf2eo7URodsAhmgtpO,Poison The Well,Tear From The Red,Lazzaro,24,179279,False,0.418,0.959,0,-5.316,1,0.249,0.00125,7.18e-05,0.248,0.397,167.66,3,metalcore
+46IYk0gnzdv8fBaQWeFVjk,All That Remains,All That Remains (Live),Six - Live,24,200293,False,0.288,0.971,1,-7.192,0,0.0743,0.000219,0.0316,0.938,0.27,100.824,4,metalcore
+6FX1AR4pKmvTM8DmqDWkP8,Within The Ruins,Black Heart,Outsider,23,255500,False,0.422,0.997,5,-3.17,0,0.169,7.26e-05,0.0318,0.341,0.044,145.011,4,metalcore
+3QEXUl3LgyOLhf60C54JOO,He Is Legend,I Am Hollywood,The Walls Have Teeth,25,236706,False,0.296,0.871,9,-10.508,1,0.0741,0.000146,0.439,0.133,0.251,157.969,4,metalcore
+4ZJ0xkyEz88BPUjNzsIgIN,Every Time I Die,The Big Dirty,A Gentleman's Sport,24,154626,False,0.269,0.98,9,-4.441,1,0.157,0.000213,0.0,0.563,0.435,185.595,3,metalcore
+706FQHFuXXsDaDa6VaTEy2,A Day To Remember,Brick Wall,Degenerates,24,184893,False,0.428,0.94,10,-3.317,0,0.0861,9.49e-05,1.85e-05,0.382,0.409,174.031,4,metalcore
+1m5DyKsataG0jE5wJtz5Iv,Electric Callboy;Fronzilla,The Scene (feat. Fronzilla),The Scene (feat. Fronzilla),25,193066,True,0.623,0.965,1,-4.56,1,0.0881,0.00014,0.0,0.0695,0.627,112.994,4,metalcore
+01i7rL44A6W3YhiY9dcSMd,A Day To Remember,Homesick (Special Edition),A Shot In The Dark - Live In Switzerland,24,263546,True,0.309,0.967,8,-4.8,1,0.404,0.000511,0.0,0.316,0.0836,100.498,4,metalcore
+6Ampu27DQCqG7e2pPWwFKc,"Oh, Sleeper",Son Of The Morning,A Banquet For Traitors,23,193200,False,0.431,0.995,7,-0.607,0,0.17,0.00104,0.000848,0.335,0.199,80.172,4,metalcore
+2qPy1ML7EBpJIFnntx52OU,For Today,Prevailer,Open Heaven,24,217120,False,0.381,0.981,4,-2.458,0,0.175,0.000851,0.0,0.337,0.463,152.886,4,metalcore
+6uCgVQPqM4QhS0DKpeGE6P,Ice Nine Kills,I Heard They KILL Live,"Tess-Timony - Live in Worcester, MA / November 2019",24,184680,False,0.233,0.53,7,-7.178,1,0.0457,0.0953,0.0,0.328,0.422,178.964,4,metalcore
+1LYtFnsUAPz3YsuVe7L8Bi,Every Time I Die,The Big Dirty,Imitation Is The Sincerest Form Of Battery,24,149520,False,0.47,0.907,2,-4.51,1,0.105,0.000223,0.0,0.323,0.381,93.138,4,metalcore
+2GAWLwCB3rmk2ZmR3iKYYD,A Day To Remember,Homesick (Special Edition),The Danger In Starting A Fire - Live In Switzerland,24,236480,True,0.297,0.934,0,-5.343,0,0.489,0.00459,0.0,0.791,0.144,92.901,4,metalcore
+1kDgTJ9u8DgIYHBS5BEc9V,For Today,Immortal,Open Eyes,24,246480,False,0.406,0.953,1,-3.944,1,0.0787,0.00183,0.0,0.178,0.269,91.95,4,metalcore

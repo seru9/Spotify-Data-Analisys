@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+0T5iIrXA4p5GsubkhuBIKV,Stephen Sanchez,Until I Found You,Until I Found You,89,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+0NLkVxf0PyxsXBG3EuZcJf,Anuv Jain,Gul,Gul,71,217241,False,0.6,0.294,6,-12.301,1,0.0292,0.871,8.66e-05,0.102,0.342,86.97,4,singer-songwriter
+1Y3LN4zO1Edc2EluIoSPJN,Stephen Sanchez;Em Beihold,Until I Found You (Em Beihold Version),Until I Found You (with Em Beihold) - Em Beihold Version,80,176440,False,0.551,0.55,10,-5.339,1,0.0286,0.777,0.0,0.202,0.342,101.19,3,singer-songwriter
+1is8gU4RVcN4J8xItxWoOY,Clinton Kane,I GUESS I'M IN LOVE,I GUESS I'M IN LOVE,77,204093,False,0.422,0.34,0,-6.577,1,0.0351,0.877,1.77e-05,0.149,0.223,77.213,4,singer-songwriter
+1gWtHDe403RuyZqhvSRcv8,Prateek Kuhad,Tune Kaha,Tune Kaha,55,216885,False,0.362,0.763,3,-8.514,1,0.0589,0.015,0.00481,0.237,0.431,187.291,4,singer-songwriter
+7uhINGViZPygI2AljxO8KN,Prateek Kuhad,cold/mess,cold/mess,61,281218,False,0.509,0.477,11,-6.571,1,0.0262,0.309,0.0168,0.158,0.283,146.031,3,singer-songwriter
+08kTa3SL9sV6Iy8KLKtGql,Prateek Kuhad,Kasoor,Kasoor,70,197549,False,0.558,0.497,8,-7.175,1,0.0256,0.0285,5.36e-06,0.0799,0.444,107.047,4,singer-songwriter
+1EuQFujqMzy76oZZ7R2xNO,Salman Elahi,Shaan,Pahadon Mein,57,225391,False,0.776,0.477,1,-10.049,1,0.0308,0.592,0.000184,0.105,0.774,115.008,4,singer-songwriter
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Easy On My Eyes,Until I Found You,81,176666,False,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,3,singer-songwriter
+117gRrOjnRkMCgWxNtDNSv,Prateek Kuhad,Shehron Ke Raaz,Kasoor - Acoustic,57,213306,False,0.62,0.111,6,-14.142,1,0.0355,0.896,0.00135,0.113,0.477,127.96,5,singer-songwriter
+5iCY0TXNImK4hyKfcplQsg,Anuv Jain,Baarishein,Baarishein,76,207309,False,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,4,singer-songwriter
+6nZiYSBwPQ7fYnVWkkkj4g,Jasleen Royal;Prateek Kuhad,Baar Baar Dekho (Original Motion Picture Soundtrack),Kho Gaye Hum Kahan,70,213055,False,0.778,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.033,4,singer-songwriter
+6BvRzfqi3sMAoQYnRpMVL0,Anuv Jain,Mazaak,Mazaak,68,212054,False,0.534,0.461,2,-11.292,1,0.0295,0.795,1.51e-06,0.114,0.244,145.972,4,singer-songwriter
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Hounds Of Love,Running Up That Hill (A Deal With God),90,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,singer-songwriter
+7eadaD2SBArRbebB9CP70X,Osho Jain,Tu Aisa Kaise Hai?,Tu Aisa Kaise Hai?,54,214821,False,0.731,0.143,2,-16.589,1,0.0334,0.843,3e-05,0.308,0.452,111.881,4,singer-songwriter
+06vNG6CiV4k8oNA0wUUAO7,Stephen Sanchez,Until I Found You (Piano Version),Until I Found You - Piano Version,74,184895,False,0.603,0.148,7,-10.449,1,0.0279,0.927,0.0,0.101,0.228,95.451,3,singer-songwriter
+74kCarkFBzXYXNkkYJIsG0,Anuv Jain,Alag Aasmaan,Alag Aasmaan,70,212773,False,0.699,0.299,6,-12.599,1,0.0403,0.869,0.0,0.0724,0.459,118.969,4,singer-songwriter
+3dYD57lRAUcMHufyqn9GcI,Hozier,Hozier,Take Me To Church,83,241688,False,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4,singer-songwriter
+3o9kpgkIcffx0iSwxhuNI2,Em Beihold,Numb Little Bug,Numb Little Bug,78,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter
+6MZyrnqwsLnrWY5Gk0AyXg,Suzonn,Farq hai,Farq hai,57,184090,False,0.8,0.209,4,-12.652,1,0.0408,0.865,4.11e-05,0.252,0.74,87.972,4,singer-songwriter
+5LRnKVQjcqslU5QV3RB7TG,Anurag Vashisht,Tum,Tum,57,178604,False,0.454,0.463,4,-6.057,1,0.0323,0.854,0.0,0.106,0.214,171.826,4,singer-songwriter
+6smPjrA4Hf7J3kFe9afb1E,Anurag Vashisht,Tere Jaane Se,Tere Jaane Se,56,211462,False,0.59,0.459,4,-9.488,1,0.034,0.661,0.0,0.203,0.293,149.885,3,singer-songwriter
+72zHuDxFQTjbL51qJQSA7j,Jasleen Royal;B Praak;Romy;Anvita Dutt,"Ranjha (From ""Shershaah"")","Ranjha (From ""Shershaah"")",76,228855,False,0.603,0.573,1,-5.843,1,0.0502,0.478,0.0,0.0971,0.236,82.941,4,singer-songwriter
+7rtaBPvxCSw2bKY8miNyLa,Ashu Shukla,Har Ek Pal,Har Ek Pal,55,196875,False,0.718,0.448,2,-9.437,0,0.0263,0.506,0.0002,0.107,0.429,106.667,4,singer-songwriter
+0fIbPMXnTdyuW2UirA9mWQ,Vismay Patel,Pal Behta Jaaye,Pal Behta Jaaye,68,174545,False,0.776,0.223,8,-13.686,1,0.0379,0.721,3.8e-06,0.119,0.196,109.966,4,singer-songwriter
+6pvpFQ2jaI6oXAswo3GSUW,Vismay Patel,Dariya,Dariya,58,216107,False,0.62,0.222,4,-15.676,1,0.0353,0.905,0.000809,0.134,0.339,89.94,4,singer-songwriter
+1gxmaTGnxEgZuV8485tevN,Anuv Jain,Alag Aasmaan (Acoustic),Alag Aasmaan (Acoustic),58,211578,False,0.625,0.103,5,-13.387,1,0.0435,0.921,1.06e-06,0.107,0.668,115.732,4,singer-songwriter
+3CeKc83EsgRPItgvlDHo5B,Hayd,Changes - EP,Head In The Clouds,71,184559,False,0.778,0.134,4,-17.927,1,0.0506,0.967,0.00352,0.0936,0.287,116.078,4,singer-songwriter
+0P4AQdNDgEdi7J8mpgY8Jx,Zariya;Aseem,Khoya,Khoya,57,178197,False,0.609,0.539,0,-8.087,1,0.0284,0.138,0.00014,0.286,0.413,99.995,4,singer-songwriter
+0ecW7IqLKhzKTPeqLSNc0V,Jasleen Royal;Ranveer Allahbadia;Ujjwal Kashyap,Sang Rahiyo,Sang Rahiyo,61,213288,False,0.629,0.528,10,-11.374,1,0.0247,0.791,0.000222,0.0617,0.397,93.982,4,singer-songwriter
+5qyEyqpT0TBVun8W07MEmR,Anuv Jain,Maula,Maula,57,237882,False,0.327,0.325,7,-11.303,1,0.0297,0.686,0.0,0.12,0.359,84.951,4,singer-songwriter
+7fY8qVujvm5lZBrt5Y1sIJ,Arijit Anand;Ankita Barwad,Khayaal,Khayaal,56,149749,False,0.702,0.326,1,-11.575,1,0.0313,0.731,0.000287,0.146,0.556,110.022,4,singer-songwriter
+6SWsSQnuTOyE6DOJG7Zdi4,Suzonn,Sun Lo Na (Raw),Sun Lo Na (Raw),55,174466,False,0.856,0.178,1,-15.241,1,0.0464,0.748,0.00593,0.0937,0.632,130.089,3,singer-songwriter
+20rwogC6aE369YsxFb5aRp,Jasleen Royal,Phillauri,Din Shagna Da,60,215304,False,0.583,0.452,11,-10.459,0,0.026,0.802,0.00632,0.143,0.327,79.999,4,singer-songwriter
+6Ln89sczgIcAJXGAIdS94R,Anuv Jain,Riha,Riha,61,287323,False,0.389,0.148,3,-11.011,1,0.03,0.897,0.0,0.114,0.4,142.611,4,singer-songwriter
+6GT0oiQdjiYX91qgAMi7Vd,Jasleen Royal,Nit Nit,Nit Nit,65,246136,False,0.442,0.412,10,-10.675,1,0.0377,0.781,0.0237,0.15,0.235,176.019,4,singer-songwriter
+1TkyDEdjiUuYhoMkxdZCiO,Prateek Kuhad,Tere Hi Hum,Tere Hi Hum,58,177026,False,0.738,0.305,0,-9.667,1,0.0286,0.851,1.74e-05,0.15,0.489,116.07,1,singer-songwriter
+4hGHgXcTOD8BzJKMz062ZN,Akanksha Sethi,Raaz Tera Mera,Raaz Tera Mera,54,208500,False,0.307,0.254,0,-13.692,1,0.0265,0.845,6.08e-06,0.373,0.332,81.028,3,singer-songwriter
+5nTbPFqLKmQdIg1SD8KgG4,Anuv Jain,Meri Baaton Mein Tu,Meri Baaton Mein Tu,62,213986,False,0.623,0.455,0,-9.793,1,0.0302,0.426,0.0,0.145,0.233,142.878,4,singer-songwriter
+0v77QqHiZUvfJkCk2rGRqw,Jasleen Royal;B Praak;Romy;Anvita Dutt,Shershaah (Original Motion Picture Soundtrack),Ranjha,64,228855,False,0.611,0.566,1,-5.861,1,0.0388,0.507,0.0,0.0971,0.312,82.984,4,singer-songwriter
+0RSGPiykniIg8m7JhiAVv7,Anupam Roy,Aisi Raaton,Aisi Raaton,62,218930,False,0.517,0.443,9,-8.946,1,0.0529,0.88,0.000141,0.0989,0.538,176.035,4,singer-songwriter
+47hXMyQDGW8sA1NGqmFL7h,Prateek Kuhad,The Way That Lovers Do,All I Need,56,153693,False,0.786,0.356,6,-11.432,1,0.0462,0.771,0.694,0.1,0.519,116.023,4,singer-songwriter
+1xtkLqZcGPQZP9549WlmfH,Anuv Jain,Mishri,Mishri,64,200437,False,0.534,0.159,7,-14.304,1,0.0288,0.917,0.0,0.109,0.184,80.047,4,singer-songwriter
+7z8XCViP5KT8O7HqoCsRTV,Anupam Roy;Shreya Ghoshal,Piku,Journey Song,56,252565,False,0.657,0.652,10,-7.247,1,0.05,0.37,0.0,0.238,0.665,109.885,4,singer-songwriter
+3CeodjvVasr0yFSBufbKsG,Stephen Sanchez,LUGNA LÅTAR,Until I Found You,3,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+5YVmHTAsdWnoanWXB7AwZX,Jax,Like My Father,Like My Father,72,183428,False,0.492,0.224,5,-8.098,1,0.0493,0.91,0.0,0.142,0.424,93.039,4,singer-songwriter
+4svaKoxMMP7ImmKrD5hfQu,Jax,Victoria’s Secret,Victoria’s Secret,82,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+0PKEQjnGn0LmPjozJ3t4MF,Karthik Rao,Kota Factory: Season 1 (Music from Tvf Original Series),Main Bola Hey!,56,153000,False,0.646,0.33,0,-14.582,1,0.0339,0.75,0.000384,0.123,0.499,84.995,4,singer-songwriter
+3FTRSa9mWB3kKx2jkhUAN3,Prateek Kuhad,Tum Jab Paas - Single,Tum Jab Paas,60,235932,False,0.751,0.344,6,-7.712,1,0.0379,0.528,1.62e-06,0.113,0.471,122.1,3,singer-songwriter
+2oXn3MJihO2BtAIrLogXjT,Stephen Sanchez,Christmas Vibes But Not Christmas Songs,Until I Found You,0,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+4HbeGjbt7u3pvwDk1vN7P0,Sufjan Stevens,Call Me By Your Name (Original Motion Picture Soundtrack),Mystery of Love,68,248964,False,0.365,0.273,4,-16.526,0,0.038,0.94,0.431,0.109,0.238,132.285,5,singer-songwriter
+6ymoA9aCgqTyoQLIeR7vCX,Taba Chake,Bombay Dreams,Shaayad,52,208000,False,0.606,0.474,8,-8.498,1,0.0308,0.671,9.09e-06,0.114,0.43,94.967,4,singer-songwriter
+2Ocao0XJlBrKgIQm9ckhsH,Brent Morgan,Gonna Be Okay,Gonna Be Okay,65,210165,True,0.609,0.506,11,-8.902,1,0.0292,0.0204,0.0,0.102,0.364,77.427,4,singer-songwriter
+6l1VsKiMyaUWElFrM1rsuu,Prateek Kuhad,Karwaan,Saansein,54,266041,False,0.693,0.518,1,-9.146,1,0.0282,0.653,0.531,0.138,0.374,128.041,4,singer-songwriter
+1w9L6dvttZalWd8XqFYvSa,Zach Hood,Isabelle,Isabelle,72,135000,False,0.678,0.716,10,-4.403,1,0.0342,0.196,0.0,0.102,0.627,109.981,4,singer-songwriter
+3hB9lDLyAClYVZivMMl20N,Prateek Kuhad,The Way That Lovers Do,Co2,53,163653,False,0.533,0.678,1,-5.244,1,0.0256,0.663,0.0,0.145,0.683,80.96,4,singer-songwriter
+5Br8K1CLLVB7AuuM0t4G7r,Jasleen Royal,Khoobsurat,Preet,50,303673,False,0.578,0.561,10,-7.048,0,0.0597,0.731,0.0126,0.171,0.529,167.887,4,singer-songwriter
+6q7bXTv3yBedHblKRoC5uu,Prateek Kuhad,Karwaan,Kadam,51,214603,False,0.55,0.356,9,-14.142,1,0.0405,0.637,0.187,0.32,0.343,159.911,3,singer-songwriter
+0wNf3Yk11625KJ6mDkEjzu,Taba Chake,Bombay Dreams,Aao Chalein,53,185305,False,0.705,0.637,10,-7.367,1,0.084,0.126,0.0308,0.233,0.819,127.656,4,singer-songwriter
+4bmQ3WP0Y8k9mZk3Ajdm6W,Keenan Te,Mine,Mine,64,206396,False,0.555,0.219,3,-12.216,1,0.0523,0.865,0.0,0.1,0.505,90.093,4,singer-songwriter
+3q5Ur1rIlB8NuOY6FbzxJs,Raghav Chaitanya,Baatein,Baatein,49,246486,False,0.568,0.356,2,-8.365,1,0.0335,0.705,0.0,0.141,0.383,147.916,4,singer-songwriter
+5tJqtSvAfTJkMrV4Wst4Le,Prateek Kuhad,cold/mess,100 words,52,210420,False,0.518,0.44,3,-14.536,1,0.034,0.888,0.457,0.111,0.575,76.154,4,singer-songwriter
+0tEAGQTo2PXnWFKn99x0a7,Osho Jain;Melissa Srivastava,"Uljhe Hue (From ""Uljhe Hue"")","Uljhe Hue - From ""Uljhe Hue""",51,112750,False,0.532,0.123,5,-10.427,1,0.0346,0.908,0.0,0.0729,0.256,76.569,4,singer-songwriter
+4sO9tnvCH3DJZ3AAXoixjd,Prateek Kuhad,Mismatched (Music from the Netflix Original Series),Kahaan Ho Tum,53,155289,False,0.714,0.393,5,-10.157,1,0.0754,0.733,0.00192,0.123,0.72,67.589,4,singer-songwriter
+7qMCYAkTTbFOw1hUXvAAje,Osho Jain;Sanchi,Saar,Humara Ho Gaya,52,157674,False,0.657,0.249,0,-12.8,1,0.0528,0.929,0.0,0.0965,0.226,148.027,4,singer-songwriter
+4YxsJyL48q7NZiiCj0uib0,Jasleen Royal;TM Bax;Radhika Madan,Ni Jana,Ni Jana,52,205714,False,0.758,0.483,8,-5.549,0,0.0712,0.563,2.28e-06,0.139,0.502,104.893,4,singer-songwriter
+5m4FuvMmLOnq7Gpt0ckAcf,Anurag Vashisht;Riya Tickoo,Tum 2.0,Tum 2.0,50,235394,False,0.456,0.388,1,-9.231,1,0.0405,0.692,0.0,0.163,0.293,171.443,4,singer-songwriter
+4BL4aEbddW0OGv6fFYYFUt,Anuv Jain,Ocean,Ocean,53,252630,False,0.72,0.237,3,-11.665,1,0.0415,0.963,0.0,0.0952,0.606,125.335,4,singer-songwriter
+5h1L6nOR9QYXeeNW14aeus,Prateek Kuhad,Pause,Pause,51,171149,False,0.619,0.277,11,-11.771,1,0.0322,0.892,0.0542,0.116,0.435,111.576,4,singer-songwriter
+7mJdz7uNv3jgVSIMkSf8ca,Prateek Kuhad,"Kasoor (From ""Dhamaka"") [Acoustic]","Kasoor (From ""Dhamaka"") - Acoustic",53,213306,False,0.468,0.104,6,-14.49,1,0.0336,0.895,0.00179,0.114,0.453,95.852,4,singer-songwriter
+0ZZT1LS2Y1CkOQqyGTb6tx,Vismay Patel,Dil Mera,Dil Mera,52,232625,False,0.574,0.298,9,-12.637,1,0.0263,0.902,0.0,0.107,0.301,80.017,4,singer-songwriter
+1kvkYrjZh561EJwERr8EsK,mehro,SKY ON FIRE,perfume,70,149668,False,0.677,0.455,2,-7.086,1,0.0322,0.833,0.00602,0.105,0.704,129.975,4,singer-songwriter
+0ZnlE3PfamXPMCsT5wr3sK,Ashu Shukla,Milon Chala,Milon Chala,50,190270,False,0.877,0.396,10,-9.015,1,0.0559,0.331,0.0,0.0871,0.518,111.057,4,singer-songwriter
+1nYzjrdVQ8RpF93M0jPFW7,Sara Kays,Remember That Night?,Remember That Night?,76,227186,False,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978,4,singer-songwriter
+3Frn3MJRQFvjCIbTbBUZCS,Jasleen Royal,Gully Boy,Jahaan Tu Chala,52,140305,False,0.459,0.187,2,-15.631,1,0.0353,0.879,0.00488,0.126,0.379,111.829,4,singer-songwriter
+6GvEjUmxUoVOMJMPK0STYZ,Ashu Shukla,Tumhare Aane Se,Tumhare Aane Se,50,208888,False,0.698,0.293,3,-10.413,1,0.0303,0.352,2.9e-05,0.101,0.867,108.08,4,singer-songwriter
+6sdird6R3Bl7KXbCXpnPVy,Vismay Patel,Lage Nahi Man,Lage Nahi Man,53,191770,False,0.622,0.318,6,-16.183,1,0.0268,0.855,0.00102,0.117,0.508,124.938,3,singer-songwriter
+1ycq2btx7kf6bXdWILZhXa,Anupam Roy,Piku,Bezubaan,53,341177,False,0.403,0.56,2,-7.46,1,0.0362,0.354,5.71e-06,0.125,0.168,155.701,4,singer-songwriter
+4dJnAPOA2N48M8fKzmL8dX,Stephen Sanchez,LUGNA HITS,Until I Found You,3,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+2L1S1Kal8d9azSsfckbNNy,Stephen Sanchez,Fall Aesthetic,Hey Girl,2,185906,False,0.389,0.505,6,-7.777,0,0.037,0.538,0.00403,0.216,0.244,121.775,4,singer-songwriter
+50Emj7dvfU5NTCQsS7ECJ7,Raghav Chaitanya;Anurag Saikia,"Ek Tukda Dhoop (From ""Thappad"")","Ek Tukda Dhoop (From ""Thappad"")",49,325822,False,0.522,0.421,0,-7.976,1,0.0275,0.73,8.16e-05,0.19,0.203,107.926,4,singer-songwriter
+4JiaYXeF1BjoiNdLtM1yUD,Ashu Shukla,Phir Se Shuru,Phir Se Shuru,49,211875,False,0.515,0.145,4,-14.812,1,0.0334,0.91,4.06e-06,0.104,0.302,144.687,3,singer-songwriter
+0FnEFCpMwTzACVJ7nnDf4H,Stephen Sanchez,Autumn Vibe,Until I Found You,1,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+40riOy7x9W7GXjyGp4pjAv,Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,84,391376,False,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,4,singer-songwriter
+4kXkT9HF9ZfDjuv3LIKcwJ,Ankur Tewari;Prateek Kuhad;Dhruv Bhola;Nikhil Vasudevan,"Dil Beparvah (The Dewarists, Season 5)","Dil Beparvah - The Dewarists, Season 5",54,250000,False,0.762,0.391,1,-11.735,1,0.0337,0.867,0.000521,0.112,0.355,137.956,3,singer-songwriter
+7uo2L5FAja3pWIBa3HJVeC,Zeph,scared of everything,could you love me while i hate myself,70,60333,False,0.68,0.406,9,-11.313,1,0.0414,0.782,0.00019,0.11,0.551,119.901,4,singer-songwriter
+1Hu42ZLWG9dHaVOPiWyEmE,Maximillian,Still Alive (Deluxe Edition),Beautiful Scars,70,194757,False,0.706,0.457,4,-8.667,0,0.0597,0.369,0.0,0.106,0.427,144.962,4,singer-songwriter
+0GONea6G2XdnHWjNZd6zt3,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Summer Of '69,82,216053,False,0.508,0.834,2,-6.205,1,0.0386,0.0183,0.0,0.0732,0.774,139.131,4,singer-songwriter
+158ETs8mtorXxJyGcjV3oH,Stephen Sanchez;Em Beihold,Autumn Vibes 2022,Until I Found You - Em Beihold Version,2,176440,False,0.551,0.55,10,-5.339,1,0.0286,0.777,0.0,0.202,0.342,101.19,3,singer-songwriter
+2At18rPHOuTEjGEppwGV0A,Anson Seabra,Peter Pan Was Right,Peter Pan Was Right,72,192497,False,0.661,0.517,5,-7.74,1,0.0406,0.223,0.0,0.116,0.241,84.014,4,singer-songwriter
+3mGOFdR0ZYmmUuyBaY3wVi,Stephen Sanchez,Frühstücksmusik Herbst/Winter 2022/2023,Until I Found You,0,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,singer-songwriter
+590JYe8wv0UUaE0kEty4qa,Bryan Adams,Jingle Bell Rock 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+7gyzXunQxTRapIBtkIoG7K,Bryan Adams,Pop Christmas 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+3OiUOulzZiEfaADvJNR7wa,Kate Bush,Planet 80's,Army Dreamers,3,174026,False,0.703,0.225,4,-11.366,0,0.0511,0.731,4.59e-06,0.102,0.399,143.248,3,singer-songwriter
+6Zmrewk5OEQNZxlkFpvTi3,Bryan Adams,All I Want For Christmas Is You,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+0Qo6ENwrR9bj9nKWEuNslx,Kate Bush,80's,Babooshka,0,209933,False,0.47,0.439,8,-8.892,1,0.0322,0.741,1.64e-05,0.0707,0.287,108.037,4,singer-songwriter
+00ZGWtUFiGqWuFd7i4OeZV,Bryan Adams,Christmas Dinner 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+7816irfzlAgs6ACKmCWg5C,Bryan Adams,Kick It,Summer Of '69,0,217493,False,0.5,0.908,2,-4.303,1,0.0418,0.0166,0.0,0.128,0.744,138.834,4,singer-songwriter
+5JfCThSgcFgzV6gGi7BxBP,Kate Bush,OK Boomers - Top Tunes,Wuthering Heights,0,205573,False,0.581,0.429,1,-10.007,1,0.0326,0.18,0.00106,0.128,0.504,123.802,4,singer-songwriter
+5eQ65mobue34pbrlcx8IuU,Kate Bush,Feeling Good - Adult Pop Favorites,The Man with the Child in His Eyes,0,160626,False,0.3,0.21,0,-13.589,1,0.031,0.964,0.00323,0.124,0.18,86.038,4,singer-songwriter
+1YYhDizHx7PnDhAhko6cDS,John Denver,"Poems, Prayers and Promises","Take Me Home, Country Roads",73,190160,False,0.462,0.395,9,-9.376,1,0.0264,0.758,0.0,0.121,0.625,82.259,4,singer-songwriter
+6gK2gR0uyFFYJ5sKH4zyjx,Tanmaya Bhatnagar,Kahaani,Kahaani,49,215113,False,0.703,0.327,9,-13.647,1,0.0359,0.867,0.314,0.1,0.274,132.006,4,singer-songwriter
+5Qnrgqy1pAm9GyNQOgyVFz,Sufjan Stevens,Carrie & Lowell,Fourth of July,81,279316,False,0.435,0.104,6,-22.39,0,0.0445,0.973,0.33,0.119,0.162,120.484,4,singer-songwriter
+2jdAk8ATWIL3dwT47XpRfu,John Mayer,Continuum,Slow Dancing in a Burning Room,74,242000,False,0.667,0.361,1,-8.69,0,0.0273,0.575,0.00506,0.0805,0.29,134.018,5,singer-songwriter
+7qFtcljd0PZ5kJZos70YjT,mehro,SKY ON FIRE,chance with you,71,215515,False,0.562,0.494,4,-8.13,0,0.0278,0.864,0.0259,0.153,0.383,144.104,4,singer-songwriter
+4sHxclJmWy9lEdbZZ3WAfW,Bharat Chauhan,Ghar - Single,Ghar,49,305000,False,0.483,0.174,1,-15.192,1,0.0317,0.944,0.0546,0.12,0.0963,155.99,4,singer-songwriter
+3Qvp6nDPHp70nejdyYR4Nw,Arijit Anand,Shor,Shor,48,226980,False,0.623,0.195,11,-11.463,1,0.0287,0.868,1.71e-06,0.087,0.16,70.005,4,singer-songwriter
+1Eb90nmqTrxylKFhcUzW8P,Bryan Adams,Waking Up The Neighbours,(Everything I Do) I Do It For You,76,393640,False,0.533,0.36,1,-12.633,1,0.0282,0.0805,1.03e-05,0.0631,0.299,131.229,4,singer-songwriter
+29d0nY7TzCoi22XBqDQkiP,Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,85,300840,False,0.625,0.533,10,-11.903,0,0.0596,0.659,0.00266,0.0546,0.139,108.296,4,singer-songwriter
+3JfHYZKy5JmE5Fv4gDTCiz,Anson Seabra,Welcome to Wonderland,Welcome to Wonderland,71,199131,False,0.703,0.179,4,-10.906,1,0.0366,0.949,0.0,0.102,0.346,97.427,3,singer-songwriter
+0teZhueymP3jVU4AXSqpkM,Bryan Adams,Christmas Best Hits 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+4HdoM3ZRFpCqT0eKOZpUPO,Bryan Adams,Christmas Rock 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+0lQaP3ttoUjMprcvRu3yeI,Isak Danielson,Yours,Always,67,213451,False,0.691,0.452,11,-8.026,1,0.0472,0.356,0.0,0.308,0.55,112.966,4,singer-songwriter
+67qgsd4whaPzWZVZwqVHvZ,Bryan Adams,Weihnachten Playlist,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+4dxQJF9j2qXqZsJdW4Lg5y,Bryan Adams,Christmas Playlist 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+3VkflrITuJJqaujM7jtOeh,Bryan Adams,Weihnachtslieder 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+3C7nmDDHszTddjFpdPlBvw,Bryan Adams,Christmas Classics,Merry Christmas,1,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+75hT0hvlESnDJstem0JgyR,Bryan Adams,All I Want For Christmas Is You,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+5eS9JgnPXrYmU5azR9ySjQ,Bryan Adams,pov: you have a holly jolly christmas,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+3NTXSjiz2noWd7gbEqd9Yf,Bryan Adams,Christmas Rock 2022,Joe And Mary,0,200440,False,0.639,0.896,9,-4.782,1,0.028,0.053,0.0,0.242,0.966,143.989,4,singer-songwriter
+6HUOCgFiY7Zl58vyDQODa0,Bryan Adams,Weihnachten Playlist,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+2KH9tWMNpKRIfEJlx8FJbk,Bryan Adams,Rock n Roll Christmas,Joe And Mary,0,200440,False,0.639,0.896,9,-4.782,1,0.028,0.053,0.0,0.242,0.966,143.989,4,singer-songwriter
+2JjAZwcKJjmuwDZSiw4PEj,Bryan Adams,Christmas Best Hits 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+0WFDWE62iqLfv494WchIFr,Bryan Adams,Christmas Classics,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+077QV0UtmRfVEw6kFvminm,Bryan Adams,90's Music Grandi Successi,(Everything I Do) I Do It For You,2,394133,False,0.526,0.365,1,-12.605,1,0.028,0.0775,1.37e-05,0.0618,0.254,131.251,4,singer-songwriter
+3AcPAEsILGtsyht7FYxlyj,Bryan Adams,Rockin' Around The Christmas Tree 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+3Dz8VohgvbYkf6OS99H0vT,Bryan Adams,Weihnachtssongs,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+1pJGUidC2jhNw3FDEUTQDk,Bryan Adams,Rockin' Around The Christmas Tree 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+09dwCB0a9GrvSZloCCXqq3,Bryan Adams,Beste Weihnachtslieder,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+7cWD565NKIelWEJg9HcRd5,Bryan Adams,Jingle Bell Rock 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+17OzwixEJc4MEjKjF2KSSu,Bryan Adams,World's Best Christmas Playlist,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+13H3jef8bfXNHUab8NOem3,Bryan Adams,All I want For Christmas Is Music,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+4doxKRgGXvYxIMBcFVQ1X6,Bryan Adams,Weihnachten Musik,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+7hB5Eudt5YyhxdBlKFE9pK,Bryan Adams,Santa Claus Is Coming To Town,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+2sZMAPtp2A8KTz46crglF7,Bryan Adams,World's Best Christmas Playlist,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+3RJLtCGaNscT6SBfuIvlQE,Bryan Adams,80s Bangers Vol. 2,Run To You,1,233373,False,0.559,0.863,4,-4.704,1,0.0267,0.00229,8.29e-06,0.201,0.646,126.417,4,singer-songwriter
+6je1dnckDvoE04VJtC5zww,Bryan Adams,Weihnachtslieder 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+1XTXpb4JcidFdrZtz7HlkQ,Bryan Adams,Christmas Songs 2022,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+4b4ETAnCPzuL71IhujRpdW,Bryan Adams,Del gusto de mamá,Let's Make A Night To Remember,0,378906,False,0.47,0.621,0,-6.763,1,0.0253,0.206,0.000725,0.135,0.396,175.906,4,singer-songwriter
+7ujmpF0vCLlFJJBPmiFXQR,Bryan Adams,Christmas Songs 2022,Christmas Time,1,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+1zzwcBhUh3TqB2sVJWH84i,Bryan Adams,Rock Workout 2023,Summer Of '69,1,217493,False,0.5,0.908,2,-4.303,1,0.0418,0.0166,0.0,0.128,0.744,138.834,4,singer-songwriter
+5VaEDgy72bTbPnat9WHe5y,Bryan Adams,Best Christmas Playlist Ever 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+02CMDD2zt4LyEdOaSwVNhy,Bryan Adams,Best Of Karneval,Summer Of '69,0,217493,False,0.5,0.908,2,-4.303,1,0.0418,0.0166,0.0,0.128,0.744,138.834,4,singer-songwriter
+4QKt4JmQK1x791t5MSCnFP,Bryan Adams,Christmas Dinner 2022,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+2xIKC7clGKKhCwFnAuPtM6,Bryan Adams,Karneval 2022 100%,Summer Of '69,0,217493,False,0.5,0.908,2,-4.303,1,0.0418,0.0166,0.0,0.128,0.744,138.834,4,singer-songwriter
+77cbT021iJvQpRXZAtw5ek,Bryan Adams,pov: you are walking in a winter wonderland,Merry Christmas,0,151387,False,0.683,0.511,6,-5.598,1,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+4wJSJfK4TpN34ijo6gWTmZ,Bryan Adams,pov: you are walking in a winter wonderland,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+0PrJoHwj4r5x4bWOZ03JNT,Bryan Adams,Holidays Are Coming,Christmas Time,1,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+2hmvQvru8BNa9ORSJZfchd,Bryan Adams,Beste Weihnachtslieder,Christmas Time,0,243057,False,0.503,0.582,0,-4.324,1,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+2pmkQDRNQhwqjy5zEiffjU,Bryan Adams,Karneval Klassiker,Summer Of '69,0,217493,False,0.5,0.908,2,-4.303,1,0.0418,0.0166,0.0,0.128,0.744,138.834,4,singer-songwriter
+2xXNLutYAOELYVObYb1C1S,Sarah Cothran,As the World Caves In,As the World Caves In,76,161612,False,0.422,0.25,0,-6.836,1,0.0351,0.441,0.0,0.35,0.246,124.026,4,singer-songwriter
+5GbVzc6Ex5LYlLJqzRQhuy,Sufjan Stevens,Mystery of Love,Mystery of Love,71,248960,False,0.365,0.273,4,-16.526,0,0.038,0.94,0.431,0.109,0.238,132.285,5,singer-songwriter
+5SuOikwiRyPMVoIQDJUgSV,Gen Hoshino,Comedy,Comedy,73,230666,False,0.676,0.461,1,-6.746,0,0.143,0.0322,1.01e-06,0.358,0.715,87.917,4,singer-songwriter
+2rjCLFdX8n9xLoMZgdMMxt,Tanmaya Bhatnagar,Kya Tum Naraaz Ho? (Raw),Kya Tum Naraaz Ho? (Raw),46,212530,False,0.593,0.112,1,-16.506,1,0.0322,0.924,1.39e-06,0.116,0.296,97.118,4,singer-songwriter
+6IjeHG6oLIkZeSq2SMEAtd,Taba Chake,Blush,Blush,47,199000,False,0.604,0.469,3,-8.314,1,0.0543,0.649,6.26e-05,0.124,0.495,66.383,4,singer-songwriter
+2bGCXKKxk0FyTwYeJooaJH,Osho Jain,Khush to Hai Na,Khush to Hai Na,46,191020,False,0.807,0.0977,0,-15.128,1,0.0427,0.97,4.16e-05,0.0863,0.462,147.127,4,singer-songwriter
+4mYrbFGkk5u3bnDhTj0jAO,Jasleen Royal,Shivaay,Raatein,48,225875,False,0.653,0.401,5,-12.029,1,0.0279,0.893,0.143,0.109,0.311,129.988,4,singer-songwriter
+0Qs67RelQ1FHAPkVBUoTDu,Anupam Roy,Pari,Meri Khamoshi Hai,49,318511,False,0.535,0.285,4,-14.143,1,0.0307,0.836,0.00572,0.118,0.206,92.033,4,singer-songwriter
+7mzPAftljnsFmU6131Pqcd,Aidan Bissett,Tripping Over Air,Tripping Over Air,72,182382,True,0.622,0.799,11,-4.811,1,0.0342,0.00185,1.08e-06,0.269,0.6,116.985,4,singer-songwriter
+51Gk1czQl7NjX0jHwawO1G,Prateek Kuhad,Raat Raazi,Yeh Pal,48,247688,False,0.752,0.204,2,-15.955,1,0.0371,0.834,0.102,0.109,0.38,117.997,4,singer-songwriter
+4H7S2ogSxUrX9bMv3a2O2K,Prateek Kuhad,In Tokens & Charms (Deluxe Edition),Just to Be With You,47,81280,False,0.792,0.267,10,-14.205,1,0.056,0.939,0.0331,0.12,0.607,146.033,3,singer-songwriter
+3TjoLn6AliBGi3QbwwTxKp,Hozier,Swan Upon Leda,Swan Upon Leda,70,222026,False,0.312,0.399,2,-8.506,1,0.0321,0.471,0.583,0.13,0.144,126.025,4,singer-songwriter
+5NjfO70bhIyNOOFBcXb6ql,Maximillian,Ripples,On My Mind,61,174213,False,0.758,0.48,5,-6.762,0,0.0601,0.03,0.0,0.491,0.555,98.46,4,singer-songwriter
+55BhqtuMPRai0ci6AjY8PK,Ashu Shukla,Kitna Hai Pyaar,Kitna Hai Pyaar,45,263520,False,0.288,0.281,3,-9.876,1,0.029,0.798,0.0,0.0813,0.376,83.211,4,singer-songwriter
+5DdwOYaO8qF9wEphjjmFM0,Rono,Main Aur Tum - Single,Main Aur Tum,46,225344,False,0.622,0.114,4,-14.821,1,0.0609,0.908,1e-06,0.136,0.237,155.794,3,singer-songwriter
+7Ewz6bJ97vUqk5HdkvguFQ,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Heaven,77,243360,False,0.382,0.589,9,-7.315,0,0.0267,0.0465,0.0,0.122,0.335,140.059,4,singer-songwriter
+4IhTXiZLKATmwhMZIb1GQN,Tom Rosenthal,Z-Sides,Lights Are On,81,193749,False,0.44,0.04,3,-16.887,1,0.0322,0.981,0.465,0.111,0.249,135.965,4,singer-songwriter
+1JelKGBph8gon106Wqjwu2,Abhilasha Sinha,Jab Tum Miley,Jab Tum Miley,46,246111,False,0.39,0.318,9,-11.778,1,0.0304,0.466,0.013,0.0914,0.25,94.942,4,singer-songwriter
+5hL9yKGJAMUxfwsjFnJ0aR,Osho Jain,Wahaan,Khud Se,47,188571,False,0.696,0.153,10,-16.133,1,0.0301,0.907,1.09e-06,0.111,0.451,140.077,3,singer-songwriter
+6i9997Q9R4M7RuqQEHq3ed,Vismay Patel,Badra Bahara,Badra Bahara,46,156107,False,0.77,0.273,0,-14.931,1,0.0311,0.497,0.0726,0.121,0.447,100.032,4,singer-songwriter
+06C6QABI5ChBAsw95J9oTo,Ankur Tewari;The Ghalat Family;Karsh Kale,Side A,Mohobbat Zindabad,47,209733,False,0.781,0.602,9,-4.881,1,0.0523,0.225,4.17e-05,0.124,0.554,129.011,4,singer-songwriter
+0UXswv8EK5264CWxS0tLNF,Anupam Roy,Chotushkone,Boba Tunnel,49,247510,False,0.598,0.537,9,-8.281,1,0.0326,0.285,0.0,0.13,0.397,131.955,4,singer-songwriter
+4tQeEHoii36QEGOEacAybz,Jasleen Royal;B Praak;Romy;Anvita Dutt,Ranjha (Reprise),Ranjha - Reprise,49,224457,False,0.565,0.291,1,-15.968,1,0.044,0.506,0.0045,0.121,0.195,83.017,4,singer-songwriter
+0bdsLmlWCuTmFUoW4kswvB,Ashwin Adwani,Na Tum Jano Na Hum (ReVibe),Na Tum Jano Na Hum (ReVibe),46,136000,False,0.611,0.778,9,-4.803,1,0.0326,0.0946,5.04e-06,0.139,0.285,90.024,4,singer-songwriter
+1KMEDSIl2j1NwYa9mgvMyg,Haley Joelle,Memory Lane,Memory Lane,67,154000,False,0.488,0.103,1,-12.009,1,0.0522,0.933,0.0,0.107,0.326,120.141,4,singer-songwriter
+4VgUJ2kOgdrCWf8gF0puHK,Amartya Bobo Rahut,Noor-Kasauli,Noor-Kasauli,46,125123,False,0.749,0.487,6,-10.473,1,0.0943,0.879,0.000225,0.0999,0.756,85.959,4,singer-songwriter
+3rAtGIxBoLvcWtZeoJ0Q72,Jasleen Royal,Kesari,Deh Shiva (Female Version),47,155999,False,0.378,0.167,9,-10.923,1,0.0329,0.989,0.00617,0.0954,0.306,176.731,4,singer-songwriter
+5wwQmWZtmEoV8XSm05zQvA,Anupam Roy,Piku,Teri Meri Baatein,49,328384,False,0.653,0.554,5,-8.156,1,0.0243,0.157,1.23e-06,0.172,0.455,99.974,4,singer-songwriter
+0LbP2VQncT9J8ac3psAH2w,Jasleen Royal;Neeraj Rajawat,Hichki,Teri Dastaan,48,223490,False,0.632,0.266,2,-14.365,1,0.0257,0.96,0.00304,0.114,0.183,79.949,3,singer-songwriter
+3yMC1KsTwh0ceXdIe4QQAQ,Lauren Spencer Smith,Fingers Crossed,Fingers Crossed,81,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+4ofwffwvvnbSkrMSCKQDaC,George Ezra,Staying at Tamara's,Shotgun,78,201287,False,0.673,0.735,5,-4.733,1,0.0457,0.286,0.0,0.242,0.754,115.744,4,singer-songwriter
+1dB1kzLOjTcmSHttRd8bnV,Clinton Kane,MAYBE SOMEDAY IT'LL ALL BE OK,I GUESS I'M IN LOVE,67,204093,False,0.422,0.345,0,-6.365,1,0.0345,0.879,1.15e-05,0.149,0.224,78.293,4,singer-songwriter
+5MdZOhx2f37BPtxaEn0F85,Keenan Te,Never Let You Go,Never Let You Go,66,202434,False,0.726,0.499,1,-9.056,1,0.0379,0.0921,0.0,0.0717,0.465,114.9,4,singer-songwriter
+58qX77t2VWMWcycsh9zKLc,Clinton Kane,i don't want to watch the world end with someone else,i don't want to watch the world end with someone else,71,184505,False,0.535,0.359,2,-9.343,1,0.0607,0.771,0.0,0.111,0.488,154.163,4,singer-songwriter
+64zeTLKn5flc0t74NeApXQ,Karthik Rao;Shilpa Surroch,Please Find Attached - Season 2 (A Dice Original Series),Haari Main Haari,47,163555,False,0.695,0.276,1,-16.612,1,0.0361,0.935,0.00422,0.102,0.398,135.122,4,singer-songwriter
+5TX28ct4JQjGSla3OPM87a,Lauren Spencer Smith,Autumn Vibes 2022,Fingers Crossed,0,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+2w9nvs1ByWUGkED4M0ug34,Anson Seabra,Unloving You,Unloving You,68,153863,False,0.765,0.393,6,-9.616,1,0.0311,0.633,0.0,0.142,0.224,121.909,4,singer-songwriter
+2cmyKUsMTBi9j2t3uByzfB,Lauren Spencer Smith,Отново на училище,Fingers Crossed,0,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+3jRmcAEx2MruyBYjaOwc51,Lauren Spencer Smith,LUGNA HITS,Fingers Crossed,1,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+5FXYwdQivbaBa74NC1ibEo,Lauren Spencer Smith,LUGNA LÅTAR,Fingers Crossed,1,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+04wmRKlU8lSjmYql1mt052,Sophie Pecora,Keeping Everything Inside,Keeping Everything Inside,61,178105,False,0.561,0.522,6,-7.699,0,0.108,0.613,0.0,0.103,0.43,94.321,4,singer-songwriter
+5yypk7EZvpqDCYSAVIHFJ3,Lauren Spencer Smith,Sad Love Songs 2022,Fingers Crossed,2,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+4EVO2VDWNVA4DpEqlHpfuZ,Lauren Spencer Smith,Frühstücksmusik Herbst/Winter 2022/2023,Flowers,0,157373,True,0.684,0.449,3,-9.738,1,0.611,0.869,0.0,0.0881,0.341,66.165,4,singer-songwriter
+2cSy0PF9D9NNxzBGVFCLyH,Annie Lennox,Rockin' Around The Christmas Tree 2022,Silent Night,1,223040,False,0.171,0.124,7,-13.758,1,0.0364,0.781,0.0,0.0929,0.0717,77.914,3,singer-songwriter
+2i2OcA6VgW9EyyFD5X5PcV,Annie Lennox,Christmas Songs 2022,Silent Night,1,223040,False,0.171,0.124,7,-13.758,1,0.0364,0.781,0.0,0.0929,0.0717,77.914,3,singer-songwriter
+5mv3fJMtGxKUoDVv6R3gVi,Annie Lennox,Jingle Bell Rock 2022,Silent Night,0,223040,False,0.171,0.124,7,-13.758,1,0.0364,0.781,0.0,0.0929,0.0717,77.914,3,singer-songwriter
+21excOPd45gzWN8zCt8Vhw,Annie Lennox,Christmas Best Hits 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,0,-8.957,1,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+5WXnGRRg6o5dkWArWOWelN,Annie Lennox,Christmas Dinner 2022,Silent Night,0,223040,False,0.171,0.124,7,-13.758,1,0.0364,0.781,0.0,0.0929,0.0717,77.914,3,singer-songwriter
+1mKn5hUaKv6R4DSLB3i4Z2,Annie Lennox,Christmas Vibes But Not Christmas Songs,In The Bleak Midwinter,0,210840,False,0.322,0.189,0,-13.902,1,0.0331,0.774,0.0,0.108,0.158,141.791,4,singer-songwriter
+6X16lGke7rTFXp8nlABGS1,Annie Lennox,Weihnachtslieder 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,0,-8.957,1,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+2W779g2UrRZtVdf3FcEOO1,Lyn Lapid,In My Mind,In My Mind,73,162794,False,0.668,0.392,2,-12.178,0,0.0585,0.789,0.00275,0.345,0.323,135.936,3,singer-songwriter
+0oA9wBGDY4uyILLg4GymWP,AnnenMayKantereit;Giant Rooks,Tom's Diner,Tom's Diner,78,269333,False,0.68,0.428,6,-8.107,0,0.135,0.376,0.000344,0.355,0.334,98.222,4,singer-songwriter
+2H3Ybag8WuTdoaGVMCDqRl,Harish Budhwani,Saari Umar,Saari Umar,44,274240,False,0.576,0.236,7,-11.467,1,0.0375,0.281,0.0,0.112,0.415,124.877,4,singer-songwriter
+2ixsaeFioXJmMgkkbd4uj1,George Ezra,Wanted on Voyage (Expanded Edition),Budapest,79,200733,False,0.717,0.455,5,-8.303,1,0.0276,0.0846,0.0,0.11,0.389,127.812,4,singer-songwriter
+2FfgDLrH2ryEpQlHQsftlY,Anupam Roy,Hemlock Society,Ekhon Onek Raat,48,225976,False,0.727,0.564,9,-9.797,1,0.0567,0.707,0.0,0.104,0.616,97.008,4,singer-songwriter
+5JbvDBWAFvOnlr53Q9cD5P,Suzonn,Humse Khafa,Humse Khafa,44,240914,False,0.493,0.336,10,-9.053,1,0.0265,0.794,0.0057,0.0984,0.378,140.056,3,singer-songwriter
+2dqqDKp2LRm1MsyqxWeRIO,Raghav Chaitanya,Lamhe,Lamhe,44,199500,False,0.374,0.255,5,-14.045,1,0.0345,0.804,0.0,0.105,0.41,98.231,4,singer-songwriter
+66h3xcrTooMC9AxV8g0Y75,Stephen Sanchez,"What Was, Not Now",The Pool,60,291826,False,0.438,0.527,3,-7.414,1,0.0263,0.899,0.000419,0.131,0.403,93.992,4,singer-songwriter
+0op7p4Q6gFh44KKeTaKocv,Osho Jain;Sanchi,Saar,Tu Aisa Kaise Hai,45,217301,False,0.696,0.335,2,-10.913,1,0.0305,0.894,0.000372,0.0822,0.455,111.983,4,singer-songwriter
+49b0lWRHXFe8FKwX3mUQSX,Ashwin Adwani,Parchaiyon Mein,Parchaiyon Mein,44,198409,False,0.678,0.518,6,-7.79,1,0.0352,0.463,0.0,0.088,0.784,88.003,4,singer-songwriter
+7KhzNtBj6hmB08fyJCIRb3,Hayd,Changes - EP,Changes,69,214814,False,0.624,0.115,6,-17.139,1,0.0446,0.941,3.47e-05,0.11,0.287,120.198,4,singer-songwriter
+5GlPyea0WIbj3PI66a9Dft,Vismay Patel,Behne Do,Behne Do,45,180000,False,0.676,0.385,8,-13.063,1,0.0595,0.775,0.0,0.359,0.413,100.034,4,singer-songwriter
+4tI1u9uQXYLnswRzcysxDo,Zevia,we're all sad here,"life, i'm over you",64,203470,False,0.495,0.322,11,-12.277,1,0.181,0.834,0.0,0.105,0.17,78.677,1,singer-songwriter
+0Pa0xSCRVO8ZIxs29XgBvv,Arijit Anand,Musafir,Musafir,44,244067,False,0.571,0.13,4,-14.136,1,0.0356,0.844,0.0,0.0833,0.385,131.568,3,singer-songwriter
+3pt2acuxLXvIGproniPoq9,Hayd,Changes - EP,Closure,65,196277,False,0.692,0.107,2,-16.182,1,0.0463,0.967,0.0,0.302,0.377,123.999,4,singer-songwriter
+4U45aEWtQhrm8A5mxPaFZ7,Billy Joel,The Stranger (Legacy Edition),Vienna,78,214240,False,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936,4,singer-songwriter
+4LGJ2pLDvTRnul3EcZoYkX,Hozier,Hozier,Like Real People Do,68,198029,False,0.569,0.183,7,-14.371,1,0.0298,0.914,0.404,0.106,0.13,70.06,3,singer-songwriter
+19pChrR4hwdINqoOFUo2Hj,Anson Seabra,Keep Your Head Up Princess,Keep Your Head Up Princess,66,198220,False,0.689,0.143,6,-17.374,1,0.264,0.97,0.0,0.109,0.528,85.398,4,singer-songwriter
+74fmOZkSwZfQlir02KmDwH,Jax,Pop n' Fresh,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+4Q66chx9WzqWcLItXoZ5r4,Hozier,Hozier,Cherry Wine - Live,67,240147,False,0.418,0.111,1,-14.848,1,0.0389,0.953,0.00342,0.0982,0.228,82.508,4,singer-songwriter
+223dRxIidnjKOvmTG3T57n,Em Beihold,Отново на училище,Numb Little Bug,2,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter
+51lPx6ZCSalL2kvSrDUyJc,John Mayer,The Search for Everything,You're Gonna Live Forever in Me,74,190013,False,0.542,0.131,7,-14.104,1,0.0316,0.983,0.00544,0.156,0.319,136.161,4,singer-songwriter
+1p2izsxZ47iA4F5qSfT80n,Jax,Happy Pop Vibes,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+7yCy7oPvNzFt8mUw3TVswk,Jax,Top Off Snap Hits,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+6ep8wzWVQz8FTbVrqA9zr6,Jax,Baddest of Them All,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+1cp3GHAfA4LG6xf6SXOKkw,Jax,Pop Hits Now,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+7hlfLeVhEMsVR2z2ktWTqS,Jax,Upbeat Pop,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+71eQAhfmjJxlFZcs2tuwFT,Jax,Daily Pop Mix,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+5LjHZiGtvpwWZoHpsKnVIY,Jax,It's You - Fresh Hits,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+02gH8djuf4t1V0aCaPBfNM,Em Beihold,Frühstücksmusik Herbst/Winter 2022/2023,Numb Little Bug,0,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter
+1a4USTrL1ZtLggEllkU2vw,Anson Seabra,CHRISTMAS TOP HITS 2022,Christmas Got Colder,0,129610,False,0.585,0.274,5,-9.831,1,0.0717,0.791,0.0,0.109,0.471,81.37,5,singer-songwriter
+1a2biJevaaCeW9w32vLyBO,Anson Seabra,Frühstücksmusik Herbst/Winter 2022/2023,Come Close,0,179796,False,0.44,0.241,7,-11.581,1,0.0512,0.884,0.0,0.112,0.277,78.083,4,singer-songwriter
+5wSejaPMovm0GugSv9uHpX,Jax,I'm Blue - Hits of 2022,Victoria's Secret,1,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+5psDzu1jxWGPuBfI1IldbF,Anson Seabra,Alternative Christmas 2022,Christmas Got Colder,0,129610,False,0.585,0.274,5,-9.831,1,0.0717,0.791,0.0,0.109,0.471,81.37,5,singer-songwriter
+5C1AnMWO7cmmLAxOODICmv,Jax,Am I Ready - Pop Night Out,Victoria’s Secret,3,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+7eyAPGAA1u9lJCYrZUzVWl,Anson Seabra,Weihnachtspop 2022,Christmas Got Colder,0,129610,False,0.585,0.274,5,-9.831,1,0.0717,0.791,0.0,0.109,0.471,81.37,5,singer-songwriter
+1holHGo4s2UG0p7tyGImFc,Anson Seabra,Pop Christmas 2022,Christmas Got Colder,0,129610,False,0.585,0.274,5,-9.831,1,0.0717,0.791,0.0,0.109,0.471,81.37,5,singer-songwriter
+5FXDEoou8xwImUJH3mLkAE,Jax,All Bops,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+1Kg2wayPGQYpLsv88VtCUq,Jax,Pop Brandneu,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+6h42EOe5gAnvMehjTXzltJ,Jax,Your Perfect Soundtrack,Victoria's Secret,0,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+0dVtsfDQqMuhoSfjYS67Q7,Annie Lennox,Helloween Party,"I Put A Spell On You (Fifty Shades of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",2,210520,False,0.563,0.383,2,-7.544,0,0.0322,0.283,2.59e-06,0.127,0.358,173.98,3,singer-songwriter
+5uc8qnreoDC8ZxVZ8EjZRc,Annie Lennox,Halloween Party 2022,"I Put A Spell On You (Fifty Shades of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",0,210520,False,0.563,0.383,2,-7.544,0,0.0322,0.283,2.59e-06,0.127,0.358,173.98,3,singer-songwriter
+2EDbDWID5FkMjbbDDeiabO,Annie Lennox,Halloween Hits,"I Put A Spell On You (Fifty Shades of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",3,210520,False,0.563,0.383,2,-7.544,0,0.0322,0.283,2.59e-06,0.127,0.358,173.98,3,singer-songwriter
+1UBUkoQ8Pp6nRQbsUQqVXL,Annie Lennox,All I Want For Christmas Is You,Angels From The Realms of Glory,0,240146,False,0.523,0.322,0,-8.957,1,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+164OriBVFeVRcwOKdglRRb,Annie Lennox,Christmas Classics,Angels From The Realms of Glory,0,240146,False,0.523,0.322,0,-8.957,1,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+0hVHUbZZNeRWw6a2gT1SvE,Alanis Morissette,Timeless Rock Hits,You Oughta Know,1,249760,True,0.641,0.861,4,-6.9,1,0.0697,0.227,0.0,0.868,0.473,105.32,4,singer-songwriter
+1czrV52qlUec3aPirLYYcL,Willie Nelson;Norah Jones,Desayuno en calma,Baby It's Cold Outside,1,240533,False,0.532,0.358,10,-11.136,1,0.0671,0.717,0.0,0.112,0.449,90.475,4,singer-songwriter
+63m4kjPpyOlrprRJXSZjPC,Annie Lennox,Christmas Songs 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,0,-8.957,1,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+6iV13NP9lCy9tCrmGt0wSQ,Alanis Morissette,Mellow Adult Pop,Everything,1,273893,False,0.487,0.729,10,-6.046,1,0.0316,0.126,9.79e-05,0.134,0.339,144.043,4,singer-songwriter
+4JsjeOfvN5zzni6LVw4yLl,Annie Lennox;African Children's Choir,Weihnachtslieder 2022,Universal Child,0,254320,False,0.516,0.172,0,-12.172,1,0.0264,0.767,0.0,0.113,0.152,78.018,4,singer-songwriter
+5gBW4PhXqiUVL8FJ5K9opo,Taba Chake,Bombay Dreams,Walk With Me,51,170011,False,0.708,0.316,10,-9.507,1,0.0671,0.447,0.00023,0.079,0.652,81.403,4,singer-songwriter
+6mPet122yXpp6X8iTiNVo9,Anupam Roy,Mehman,Mehman,16,270937,False,0.603,0.783,6,-6.012,1,0.0486,0.131,4.16e-05,0.234,0.703,127.981,4,singer-songwriter
+5e4uOUdrpFCKC2kwnXWWtY,Prateek Kuhad,Shehron Ke Raaz,Shehron Ke Raaz,46,152320,False,0.777,0.215,0,-13.706,1,0.0535,0.89,0.00773,0.109,0.221,111.017,4,singer-songwriter
+3DwDpL9QpO5gqPFuHZXUx9,Samar Mehdi,Sukoon,Sukoon,44,184500,False,0.285,0.315,11,-10.124,1,0.0344,0.79,3.67e-05,0.096,0.175,79.886,4,singer-songwriter
+0eei3Q3RLKtA9HkvYCQC7t,Prateek Kuhad,Shehron Ke Raaz,Khone Do,44,239360,False,0.514,0.123,10,-11.512,1,0.0379,0.851,0.0394,0.127,0.169,122.782,4,singer-songwriter
+4y2QEmnp3DRgXjdbZfUs3X,Suzonn,Rihaee,Rihaee,43,182482,False,0.767,0.125,5,-18.247,1,0.0399,0.982,0.0,0.0938,0.838,145.136,3,singer-songwriter
+3DWkYRm35UkcM1V0icj6lo,Suzonn,Sun Lo Na,Sun Lo Na,43,164173,False,0.713,0.236,1,-13.288,1,0.0373,0.886,0.0,0.091,0.647,139.75,3,singer-songwriter
+7eTy1IzCaICfm6JYy1BV4u,Prateek Kuhad,cold/mess,with you/for you,46,231897,False,0.731,0.317,6,-13.775,1,0.0358,0.812,0.149,0.106,0.33,114.078,4,singer-songwriter
+15ocCvf4JiWCna8AGCrdyH,Osho Jain,Wahaan,Hichkiyaa,45,67500,False,0.508,0.101,1,-18.458,0,0.0506,0.682,0.0,0.0887,0.122,127.548,4,singer-songwriter
+3QAxGU5rQVhTsPYVuRBpIM,Suzonn,Tu Jo Paas,Tu Jo Paas,43,212571,False,0.648,0.0665,7,-24.554,1,0.0336,0.984,1.08e-05,0.115,0.38,139.867,4,singer-songwriter
+2ypmJzv6tqEy1ZQBwvK52N,Ramil Ganjoo,Bhoola na tujhe,Bhoola na tujhe,44,176128,False,0.608,0.428,4,-11.056,1,0.0325,0.82,0.00448,0.102,0.333,94.038,4,singer-songwriter
+3SktMqZmo3M9zbB7oKMIF7,John Mayer,Continuum,Gravity,72,245826,False,0.753,0.326,7,-9.883,1,0.0342,0.731,0.00131,0.24,0.237,123.799,3,singer-songwriter
+4dUOiTUovOCy91uztDlUp3,Prateek Kuhad,Favorite Peeps,Favorite Peeps,52,193733,False,0.611,0.525,7,-9.683,1,0.0354,0.767,0.799,0.112,0.299,113.946,4,singer-songwriter
+3pCt2wRdBDa2kCisIdHWgF,Pamungkas,Flying Solo,To the Bone,78,344571,False,0.668,0.727,7,-6.55,0,0.027,0.514,1.9e-05,0.1,0.939,139.991,4,singer-songwriter
+6vxqQUeZJdx1UcBBl6Wx1s,Amartya Bobo Rahut,Shaam Simti,Shaam Simti,43,248571,False,0.614,0.157,4,-12.901,1,0.0375,0.981,8.08e-05,0.0922,0.506,125.755,4,singer-songwriter
+0c0uFehhA1ekbQmqZ0HKeb,mehro,SKY ON FIRE,hideous,64,193803,False,0.637,0.53,4,-7.53,1,0.0301,0.529,0.0144,0.109,0.363,87.034,4,singer-songwriter
+0gOz9JUXsaKVzLTSmFDtdo,Jess Benko,"Do You Love Me, or Are You Just Lonely?",A Soulmate Who Wasn’t Meant to Be,71,316556,False,0.571,0.0274,9,-20.274,0,0.0649,0.948,6.43e-06,0.322,0.087,124.209,3,singer-songwriter
+33HXbggKvIitg7y3UBhNfn,Ankur Tewari;Mikey McCleary,Gully Boy,Jeene Mein Aye Maza,44,199344,False,0.743,0.215,2,-14.52,0,0.0514,0.854,0.604,0.0814,0.521,162.09,3,singer-songwriter
+00YwP3wJWiG8IxAA7OS9lo,Anupam Roy,Doorbiney Chokh Rakhbona,Amake Amar Moto Thakte Dao,46,319946,False,0.566,0.419,7,-7.661,1,0.0385,0.771,0.0,0.28,0.186,147.881,4,singer-songwriter
+2Niyp1yifjn062AWqYtis3,Jasleen Royal;Siddharth Amit Bhavsar,Sharato Lagu (Original Motion Picture Soundtrack),"Mann Melo, Pt. 1",44,247704,False,0.642,0.329,2,-9.977,1,0.0262,0.703,0.00282,0.103,0.45,101.993,4,singer-songwriter
+4SeZpWSgq1c8a0MY3iVy1f,Zach Hood,Flashbacks,Flashbacks,67,183000,False,0.55,0.448,11,-7.382,1,0.0314,0.879,0.0,0.0734,0.49,99.713,4,singer-songwriter
+6A6il0xlgnUK3LCxCcHZRA,nobody likes you pat,spinning,songs about you,57,189397,False,0.557,0.532,7,-5.047,1,0.0394,0.703,0.0,0.103,0.735,83.131,4,singer-songwriter
+6Z165JvPnS8PYvGW8oLGLc,Lauren Spencer Smith,Flowers,Flowers,80,157373,True,0.684,0.449,3,-9.738,1,0.611,0.869,0.0,0.0881,0.341,66.165,4,singer-songwriter
+1q32AhBbgDPdBr5VyCRHq6,Stephen Sanchez,"What Was, Not Now",I Want You,60,210453,False,0.499,0.313,5,-9.689,1,0.0288,0.815,0.0,0.103,0.233,125.991,4,singer-songwriter
+5Dz8nrwQlPLE68WaTEIqY5,Leah Nobel,To All The Boys: Always and Forever (Music From The Netflix Film),"Beginning Middle End - From The Netflix Film ""To All The Boys: Always and Forever""",50,194826,False,0.674,0.676,2,-6.878,1,0.0367,0.43,3.13e-05,0.108,0.919,78.99,4,singer-songwriter
+0j5pajJcigjdwO4c8ZS19b,Paolo Nutini,Just Best Covers,Sugar Man,10,126066,False,0.616,0.329,4,-8.228,0,0.0341,0.535,1.07e-06,0.114,0.386,99.338,4,singer-songwriter
+54fygPF4NkI5lEK2GxsStU,Chicago,80's,You're the Inspiration,0,230440,False,0.604,0.424,11,-12.288,1,0.0278,0.329,0.0,0.116,0.291,73.924,4,singer-songwriter
+54S8gAjWou3sGde0vU4DxY,Paolo Nutini,Session Acoustique,Last Request,2,220413,True,0.604,0.704,5,-6.564,1,0.0477,0.241,0.0,0.137,0.399,80.93,4,singer-songwriter
+2gAEgo5pCqgEEiaV1wwy9i,Chicago,OK Boomers - Top Tunes,Street Player,2,550706,False,0.765,0.833,10,-5.162,0,0.0873,0.0376,0.268,0.0824,0.837,126.422,4,singer-songwriter
+2RVWKbMCQwaIAJS5FXNanZ,Paolo Nutini,Autumn Hits,Autumn,2,170240,False,0.599,0.0854,9,-12.521,1,0.0414,0.978,7.99e-05,0.0858,0.323,111.954,4,singer-songwriter
+1EZokfR0iyAe9LuPKccBsu,Paolo Nutini,Alternative Rock Mixtape,Iron Sky,6,373133,False,0.395,0.625,1,-7.134,0,0.0341,0.242,0.00124,0.11,0.314,139.729,4,singer-songwriter
+21i2PhBdDKSlJ5gJZl2M7V,Chicago,Holly Jolly Christmas,(Because) It's Christmastime,0,200026,False,0.711,0.742,11,-5.434,0,0.0294,0.172,0.000838,0.0502,0.73,100.053,4,singer-songwriter
+5JuEJHeydYTaObYY1h9MgA,Tom Petty,Обратно в клас - rock,Free Fallin',0,255680,False,0.619,0.504,5,-11.562,1,0.025,0.0614,0.0,0.06,0.568,84.335,4,singer-songwriter
+5mq2tutI68FRDD8CiYOsYS,Paolo Nutini,Low-Key Hits,Growing Up Beside You,1,203666,False,0.504,0.51,7,-10.79,1,0.0415,0.771,7.61e-05,0.0766,0.0834,95.182,4,singer-songwriter
+1U70hVLqpeVO7IjMsw0k6I,Chicago,Christmas Music - Holiday Hits,(Because) It's Christmastime,0,200026,False,0.711,0.742,11,-5.434,0,0.0294,0.172,0.000838,0.0502,0.73,100.053,4,singer-songwriter
+4ZRs2BzVlK54h1GyZO799I,Paolo Nutini,Human - Best Adult Pop Tunes,Numpty,0,234066,True,0.839,0.441,6,-9.024,1,0.0499,0.727,9.86e-06,0.11,0.897,123.007,4,singer-songwriter
+6gJKvK7qlt0TvwzwmmATK2,Paolo Nutini,Mellow Adult Pop,Chamber Music,0,147666,False,0.401,0.21,7,-13.192,1,0.0327,0.768,0.152,0.0855,0.484,150.497,3,singer-songwriter
+1yCs1b8JQCzyVgpsQCY4Sj,Tom Petty,Rock & Halloween,Zombie Zoo,1,178506,False,0.685,0.886,9,-10.653,1,0.0323,0.0328,0.0,0.0362,0.819,116.222,4,singer-songwriter
+73ZUyy2V4rZuULOdrnAPLq,Tom Petty,Halloween Hits,Zombie Zoo,1,178506,False,0.685,0.886,9,-10.653,1,0.0323,0.0328,0.0,0.0362,0.819,116.222,4,singer-songwriter
+72ujfr1bM2nzr7YfiiJIhI,Tom Petty,Helloween Party,Zombie Zoo,1,178506,False,0.685,0.886,9,-10.653,1,0.0323,0.0328,0.0,0.0362,0.819,116.222,4,singer-songwriter
+3Gdi12wIjkRZgQH47sD2e9,Tom Petty,Rock Workout 2023,Free Fallin',1,255680,False,0.619,0.504,5,-11.562,1,0.025,0.0614,0.0,0.06,0.568,84.335,4,singer-songwriter
+64IYrVRKqcJPkT978YoPmP,Paolo Nutini,Relaxing Pop,Last Request,2,220413,False,0.569,0.702,5,-6.561,1,0.0505,0.26,0.0,0.137,0.392,81.006,4,singer-songwriter
+2GxASwsYYNS8WPKri3dFSD,James Taylor,Christmas Playlist 2022,Auld Lang Syne,0,216146,False,0.51,0.262,2,-10.906,1,0.033,0.776,0.000137,0.113,0.234,119.736,3,singer-songwriter
+5dmC4IGuPsAzJNigeCFLO9,Tom Petty,Pop & Halloween,Zombie Zoo,0,178506,False,0.685,0.886,9,-10.653,1,0.0323,0.0328,0.0,0.0362,0.819,116.222,4,singer-songwriter
+34a89MbC7QXsUsLkljLgXX,Tom Petty,80s Bangers Vol. 1,Free Fallin',1,255680,False,0.619,0.504,5,-11.562,1,0.025,0.0614,0.0,0.06,0.568,84.335,4,singer-songwriter
+0Jy4ifTBtXaLNct9rhzy31,Tom Petty,Fishing Music,I Won't Back Down,1,175373,False,0.765,0.63,7,-9.751,1,0.0304,0.0467,3.06e-05,0.223,0.963,113.967,4,singer-songwriter
+3A47sbm8jQSMNyAtLHk9Em,James Taylor;Toots Thielemans,12 Days of Christmas 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,232106,False,0.388,0.334,4,-9.886,1,0.0314,0.364,8.45e-06,0.256,0.22,120.82,3,singer-songwriter
+69K4Q0IBI85kwCbJYUQ7Qi,James Taylor,Christmas Country Songs 2022,Santa Claus Is Coming To Town,0,183253,False,0.696,0.343,7,-11.596,0,0.0376,0.707,0.000119,0.107,0.38,131.043,4,singer-songwriter
+2gVaoi7sYWUWNpuQGysjdQ,James Taylor;Toots Thielemans,The Very Best Christmas Songs 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,232106,False,0.388,0.334,4,-9.886,1,0.0314,0.364,8.45e-06,0.256,0.22,120.82,3,singer-songwriter
+7eGrb4IuURKz6R6hDMrB8p,James Taylor;Toots Thielemans,Best Christmas Playlist Ever 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,232106,False,0.388,0.334,4,-9.886,1,0.0314,0.364,8.45e-06,0.256,0.22,120.82,3,singer-songwriter
+6KVFBsfbnaFFa43i4k0cce,Zach Hood,13 Missed Calls,13 Missed Calls,66,209538,True,0.639,0.724,7,-6.346,1,0.0664,0.452,0.0,0.159,0.522,129.712,3,singer-songwriter
+6gPPoRYJwCsoB2VVdPJfmo,David Kushner,Miserable Man,Miserable Man,71,232991,False,0.632,0.349,10,-10.289,1,0.0346,0.926,7.5e-05,0.294,0.307,109.981,4,singer-songwriter
+6bw3WXPnJuyk42dtBuRhrn,Ramil Ganjoo,Daastaan,Daastaan,41,196744,False,0.489,0.387,5,-11.834,1,0.0341,0.587,4.1e-05,0.121,0.42,172.135,3,singer-songwriter
+25WhTAtgp3PDcDD6O1LDgz,Dhruv Kapoor,What Is Love,What Is Love,42,231000,False,0.632,0.362,5,-13.499,1,0.0348,0.624,0.000194,0.108,0.299,78.968,4,singer-songwriter
+0wxGIpOZbDR4RGy1sh3XhR,Ber;Charlie Oriain,Meant To Be,Meant To Be,64,163226,False,0.5,0.156,1,-11.472,1,0.0469,0.87,0.0,0.125,0.405,173.794,4,singer-songwriter
+3KbKry2TY2FjT8NMJPWvzm,Vasu Raina,Tu,Tu,41,230769,False,0.69,0.32,4,-12.207,1,0.0996,0.902,0.00937,0.348,0.548,129.988,4,singer-songwriter
+4346ts6RdbK3diJWlFX37J,Ayush Panda,Kuch Soona Sa Hai,Kuch Soona Sa Hai,41,283312,False,0.639,0.386,10,-8.845,1,0.0252,0.822,1.85e-06,0.107,0.158,91.89,4,singer-songwriter
+3XWRc74od1pT7MUkGiJmoW,Prateek Kuhad,The Way That Lovers Do,Just A Word,43,180013,False,0.36,0.247,0,-9.415,1,0.0396,0.838,0.00454,0.104,0.279,77.225,4,singer-songwriter
+0KRSjRi3cEKMuFhAXKyd7d,Anupam Roy,Piku,Lamhe Guzar Gaye,45,258069,False,0.575,0.394,10,-9.913,1,0.0238,0.357,2.05e-05,0.153,0.271,94.936,4,singer-songwriter
+1iL1z1KHwsDdgPzEiqQAvt,Shubham Kabra,Vaari Vaari,Vaari Vaari,41,254413,False,0.645,0.36,3,-9.709,1,0.0311,0.749,0.0,0.0816,0.268,122.045,3,singer-songwriter
+4RzpaDRpNI2JZQ8LtAC05x,Vismay Patel,Baarish Mein,Baarish Mein,42,152000,False,0.693,0.296,0,-13.52,1,0.0704,0.741,0.0,0.0955,0.58,120.376,5,singer-songwriter
+5DWEL5TPHgaLaUUh26K1Wc,Vismay Patel,Main Toh Chala,Main Toh Chala,42,198000,False,0.596,0.259,1,-12.273,0,0.11,0.626,2.42e-05,0.053,0.438,94.736,4,singer-songwriter
+4BKlZ0UQOjombKzFFkgSlm,Ashwin Adwani,Mila Hai Jabse Tu,Mila Hai Jabse Tu,41,200265,False,0.714,0.405,1,-11.358,0,0.0312,0.819,1.04e-05,0.0884,0.441,119.958,4,singer-songwriter
+0B7FbDb0GQxMX5KSXGv3sg,Abhilasha Sinha,Tum Ho Yahaan,Tum Ho Yahaan,41,196932,False,0.504,0.548,7,-6.559,1,0.0296,0.803,0.0,0.324,0.279,162.997,3,singer-songwriter
+7p33u7IZ8j9NoQeI1v45oG,Anupam Roy,Belaseshe,Obhabe Keno,43,213016,False,0.578,0.307,2,-11.479,1,0.032,0.871,2.72e-05,0.114,0.316,77.917,4,singer-songwriter
+1Wu5ERJDVhEUDKSim34CnP,Jax;JVKE,u love u (feat. JVKE),u love u (feat. JVKE),60,123568,False,0.793,0.462,8,-8.147,1,0.132,0.211,0.0,0.558,0.754,160.115,4,singer-songwriter
+5zA8vzDGqPl2AzZkEYQGKh,Billy Joel,An Innocent Man,Uptown Girl,79,197706,False,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993,4,singer-songwriter
+6hjh2phISvfR1Ib6S0FK7b,Anson Seabra,Songs I Wrote in My Bedroom,Trying My Best,67,222467,False,0.691,0.0682,5,-18.186,1,0.0645,0.951,0.0,0.0916,0.352,76.94,4,singer-songwriter
+2FkbeqpCrjjDdVH1SZgDo6,Isak Danielson,Yours,Broken,74,216338,False,0.434,0.637,5,-6.85,0,0.0613,0.451,0.0,0.112,0.1,141.869,4,singer-songwriter
+7vFv0yFGMJW3qVXbAd9BK9,John Mayer,Room For Squares,Your Body Is a Wonderland,74,249626,False,0.647,0.729,5,-6.251,1,0.0236,0.0206,0.0489,0.134,0.687,94.01,4,singer-songwriter
+4N5s8lPTsjI9EGP7K4SXzB,George Ezra,Gold Rush Kid,Green Green Grass,75,167613,False,0.685,0.738,8,-4.413,1,0.0595,0.0695,0.0,0.128,0.8,112.972,4,singer-songwriter
+1kvZL6kWs8JTgw9dJQJYWY,Sheryl Crow,Chillin' It - Mellow Day Country,Easy,0,253360,False,0.521,0.57,9,-5.567,1,0.0245,0.0254,1.17e-06,0.0757,0.608,169.995,4,singer-songwriter
+0hulgYglBnlZ6a1uaiJYIM,Sheryl Crow,Good Times Country,Woo Woo,0,196760,False,0.681,0.69,4,-8.468,1,0.0479,0.486,0.0,0.239,0.904,155.985,4,singer-songwriter
+3f8FukwQQGIx1GSGbDEebe,Sheryl Crow,Cozy Country,Callin' Me When I'm Lonely,0,204560,False,0.51,0.702,9,-5.117,1,0.0295,0.00143,0.0,0.105,0.276,141.904,4,singer-songwriter
+6LDocxGe28oGm8GvPq8Msv,Sheryl Crow,Finest Country,Waterproof Mascara,0,211160,False,0.433,0.327,5,-8.132,1,0.0271,0.372,0.0,0.103,0.292,137.878,4,singer-songwriter
+7IbVH1oEbzPD17c6tfhYL7,Sheryl Crow,Human - Best Adult Pop Tunes,Be Myself,0,261760,False,0.67,0.788,1,-7.368,0,0.0406,0.177,0.0,0.21,0.692,116.823,4,singer-songwriter
+4rH57RWRqo2PrKwYGagrB2,Sheryl Crow,Los Clásicos del Pop 90s,If It Makes You Happy,1,325373,False,0.53,0.753,7,-5.146,1,0.0286,0.0463,0.000109,0.105,0.306,95.398,4,singer-songwriter
+4jEl93fC34ZtDkX0CLlAYP,Jimmy Buffett,Best 70s Rock Tunes,Survive,0,291400,False,0.448,0.13,0,-16.808,1,0.0318,0.399,1.05e-05,0.103,0.369,146.689,4,singer-songwriter
+0BmDnvzaP80sTEdyrtdICS,Jimmy Buffett,Best 70s Rock Tunes,Survive,0,291400,False,0.448,0.13,0,-16.808,1,0.0318,0.399,1.05e-05,0.103,0.369,146.689,4,singer-songwriter
+1xvADDTyr4ZCu5NPPkOJzU,Jimmy Buffett,Best 70s Rock Tunes,Survive,0,291400,False,0.448,0.13,0,-16.808,1,0.0318,0.399,1.05e-05,0.103,0.369,146.689,4,singer-songwriter
+10yCOAQyCTeG42AKEKL0sl,Sheryl Crow,Del gusto de mamá,If It Makes You Happy,0,325373,False,0.53,0.753,7,-5.146,1,0.0286,0.0463,0.000109,0.105,0.306,95.398,4,singer-songwriter
+63oQ1hY62T0HjkjhCRQjR6,Jimmy Buffett,Sweet Home Alabama,Survive,0,291400,False,0.448,0.13,0,-16.808,1,0.0318,0.399,1.05e-05,0.103,0.369,146.689,4,singer-songwriter
+3Wv4hvtrE5Dbgzx7B2PCMt,Sheryl Crow,Best Christmas Playlist Ever 2022,The Bells Of St. Mary's,0,272733,False,0.456,0.167,9,-11.542,1,0.0278,0.847,0.275,0.136,0.175,142.325,3,singer-songwriter
+2EIKAt7fp0Zog0nmfVWxNK,Tom Petty and the Heartbreakers,Feeling Good - Adult Pop Favorites,Echo,0,396773,False,0.547,0.56,0,-6.32,1,0.0241,0.0393,3.63e-06,0.0632,0.472,83.337,4,singer-songwriter
+45u1g3oY1Tb0Ibmlwqo8f2,Tom Petty and the Heartbreakers,Timeless Rock Hits,American Girl,0,214733,False,0.552,0.823,2,-5.988,1,0.0332,0.445,0.000129,0.366,0.775,114.514,4,singer-songwriter
+5WaXrtRow1brEASUZsKgCW,Paul Simon,Halloween Hits,The Werewolf,2,205666,False,0.742,0.684,11,-6.543,0,0.137,0.139,0.0,0.115,0.547,133.593,4,singer-songwriter
+4ymzjLJIaRsXoTvO8sfDpZ,Paul Simon,Helloween Party,The Werewolf,0,205666,False,0.742,0.684,11,-6.543,0,0.137,0.139,0.0,0.115,0.547,133.593,4,singer-songwriter
+75MWtEDkqlSoJAXrdw1lR9,Tom Petty and the Heartbreakers,Christmas Rock 2022,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+3pHI91Yzcv8MXmtNqAElpb,Tom Petty and the Heartbreakers,Christmas Playlist 2022,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+2Oe8rQW8EwvIO8DKTZNduS,Tom Petty and the Heartbreakers,OK Boomers - Top Tunes,The Last DJ,0,227986,False,0.597,0.76,9,-3.94,0,0.029,0.0135,9.02e-06,0.407,0.496,131.767,4,singer-songwriter
+1ryH3lEGX8dn6YhpJvp1YF,Paul Simon,12 Days of Christmas 2022,Getting Ready For Christmas Day,0,245506,False,0.733,0.756,2,-8.05,1,0.135,0.438,3.22e-05,0.335,0.923,124.09,3,singer-songwriter
+5nQqnfHX5cr2FsGszRtTpr,Tom Petty and the Heartbreakers,Christmas Best Hits 2022,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+5Xpn8seuohodh7p0DFk13V,Tom Petty and the Heartbreakers,Rockin' Around The Christmas Tree 2022,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+0EcpFZArVrXZJ4vh9hLPsz,Tom Petty and the Heartbreakers,Pop Christmas 2022,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+2sl0hX1iAOPeExrPVyOXVa,Tom Petty and the Heartbreakers,"It's Christmas, Let's Dance",Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+5J5VBW8G9ViJfzX5FEYvni,Tom Petty and the Heartbreakers,Christmas Eve At Home,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+5ykzRXXvDUlhnjqEIEhrqW,Tom Petty and the Heartbreakers,Christmas Classics,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+6S70OrI0CsYO0nD1l6qvDP,Tom Petty and the Heartbreakers,All I Want For Christmas Is You,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+0sL9GKpJKZRngHncF2r0Rg,Tom Petty and the Heartbreakers,Home At Christmas,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+1voWvcJy8AfS70n8wIsr7h,Tom Petty and the Heartbreakers,Santa Claus Is Coming To Town,Christmas All Over Again,0,253626,False,0.44,0.838,9,-6.196,1,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+3WBsWNtL054HCFz7UUGK9e,Umer Farooq,Patang,Teri Ay,42,232800,False,0.666,0.456,9,-9.429,1,0.0262,0.617,0.00166,0.127,0.276,100.008,4,singer-songwriter
+32YHCNItnCdiYaPbw0uTo8,Annie Lennox,Fifty Shades Of Grey (Original Motion Picture Soundtrack),"I Put A Spell On You (Fifty Shades of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",65,210520,False,0.563,0.383,2,-7.544,0,0.0322,0.283,2.59e-06,0.127,0.357,173.984,3,singer-songwriter
+3olUFMwgASQGeXrlm4g6OH,Hayd,What Did I Do?,What Did I Do?,57,215783,False,0.586,0.279,6,-11.871,1,0.0331,0.795,0.00477,0.11,0.202,142.016,4,singer-songwriter
+6EgwlXnFrfkFqOKqY3dqki,Chris Andrian Yang,Mayonaka No Door / Stay With Me,Mayonaka No Door / Stay With Me,58,178200,False,0.753,0.0832,9,-13.375,1,0.0455,0.822,0.0,0.0811,0.634,99.906,4,singer-songwriter
+39ZVkOVxjG8ypNdUSVNkxU,David Kushner,Mr. Forgettable,Mr. Forgettable,73,187293,False,0.56,0.41,8,-9.227,0,0.0276,0.544,0.0,0.151,0.28,144.727,4,singer-songwriter
+2r5HFOAuvPhyo0qvY32Dlo,Raghav Chaitanya,Thappad,Ek Tukda Dhoop,40,325821,False,0.513,0.43,0,-8.124,1,0.0271,0.715,0.000228,0.177,0.202,107.825,4,singer-songwriter
+44e6LWMz011gq6QU45nw2P,Shubham Kabra,Yeh Shaam,Yeh Shaam,39,234772,False,0.304,0.41,7,-12.633,1,0.0357,0.632,0.0,0.148,0.324,88.123,4,singer-songwriter
+13bxvI8AveCg4FOJTCULnb,Piyush Bhisekar,Hai Bharosa,Wajah,40,224486,False,0.563,0.212,9,-12.493,1,0.0332,0.468,4.03e-06,0.206,0.219,87.939,4,singer-songwriter
+3chiE90csYmQ8UIZvuT9gH,Hanita Bhambri,Khushiyon Ke Pal,Khushiyon Ke Pal,41,161666,False,0.553,0.325,0,-10.199,1,0.0305,0.867,0.0,0.079,0.342,143.897,4,singer-songwriter
+2SzambF00WN62Gz99DlQxt,Ashu Shukla;Ravator,Noor,Noor,40,199354,False,0.67,0.423,7,-9.282,1,0.0257,0.614,4.55e-06,0.0986,0.551,93.032,4,singer-songwriter
+6jsoaskE0wunyXLpHriyEz,Nikhil Swaroop,Khilte Rang,Khilte Rang,40,197694,False,0.72,0.243,11,-12.47,0,0.0352,0.95,0.000618,0.107,0.33,136.009,3,singer-songwriter
+6la3Kme7O7D01fJPxgpAS5,詹雯婷,訣愛,訣愛 (劇集《蒼蘭訣》片頭曲),69,189295,False,0.45,0.62,11,-6.492,1,0.0365,0.313,0.0,0.0672,0.169,142.026,4,singer-songwriter
+5WXezeBcPemshsXjMCyi9b,Ankur Tewari;The Ghalat Family,Side B,Yaaron,42,252813,False,0.691,0.675,6,-5.771,0,0.033,0.217,0.0,0.114,0.634,102.031,4,singer-songwriter
+2Bk6sJI1RkMrAQyUCtr1qx,Amartya Bobo Rahut,Kaisi Ho ?,Kaisi Ho ?,39,172867,False,0.549,0.281,5,-12.514,1,0.0358,0.942,0.000112,0.101,0.539,147.019,4,singer-songwriter
+22sS7JkzeVeq4vOPCB6Fbj,Hozier,Hozier,Someone New,67,222813,False,0.593,0.539,7,-5.946,1,0.0349,0.407,2.31e-06,0.286,0.577,91.98,4,singer-songwriter
+7LNm1oWd6PniO9wRYpNY5o,Delaney Bailey,j's lullaby (darlin' i'd wait for you),j's lullaby (darlin' i'd wait for you),71,290132,False,0.54,0.11,8,-19.885,1,0.0328,0.498,0.000614,0.0781,0.172,76.068,4,singer-songwriter
+02sas1xqIwRm7iWSoHDvKe,Prateek Kuhad,In Tokens & Charms,Oh Love,44,211193,False,0.633,0.743,7,-8.029,1,0.0362,0.29,0.00696,0.0629,0.548,176.021,4,singer-songwriter
+2jhl4HxYbNC5OPvqxiodUG,Osho Jain,Saar,Kya Dekhu,41,185059,False,0.612,0.205,6,-12.279,1,0.0307,0.884,1.98e-06,0.139,0.31,82.953,4,singer-songwriter
+2NBRmMAaBn4oJ5A5BG3UL5,Anupam Roy,Doorbiney Chokh Rakhbona,Benche Thakar Gaan,42,240692,False,0.856,0.48,10,-8.237,1,0.0357,0.77,0.0,0.122,0.77,109.976,4,singer-songwriter
+6c7N5N7amAOpeMykjlovjI,Anson Seabra,Walked Through Hell,Walked Through Hell,68,216864,False,0.508,0.404,10,-11.092,1,0.0788,0.664,0.0,0.104,0.129,81.713,4,singer-songwriter
+39lOHITmszIVH9WF4Jpbum,Prateek Kuhad,The Way That Lovers Do,Bloom,43,219573,False,0.606,0.488,7,-7.339,1,0.0255,0.597,0.0982,0.184,0.468,81.019,4,singer-songwriter
+5nsFJfYtAFZmL9PbtYKYcA,Stephen Sanchez,Easy On My Eyes,See The Light,64,180146,False,0.728,0.796,4,-5.33,1,0.0461,0.162,9.28e-06,0.196,0.691,117.925,4,singer-songwriter
+0bkW98npv8EsWQ2fXFzK56,Hozier,Hozier,From Eden,63,283466,False,0.395,0.676,0,-5.46,1,0.0498,0.608,4.86e-05,0.117,0.315,142.929,5,singer-songwriter
+35PKfoynRpVFoAUE3D5Kc6,Hozier,Hozier,Work Song,63,229715,False,0.432,0.388,10,-7.687,1,0.1,0.776,0.0,0.112,0.256,177.549,3,singer-songwriter
+03EnOL1O9EKi9CFNmPyrCm,Bryan Adams,Anthology,Please Forgive Me,68,355640,False,0.555,0.46,9,-7.032,1,0.0277,0.497,0.0,0.103,0.146,67.027,3,singer-songwriter
+5tlMPoBvqEWIV8XOyM6Zcd,mehro,SKY ON FIRE,lightning,60,188335,False,0.602,0.528,3,-7.709,0,0.0304,0.849,4.1e-06,0.128,0.322,149.951,4,singer-songwriter
+4JfKWoRDra7wa25TJ1iMnC,Anupam Roy,Oriplast Originals,Agomonir Gaan,43,346280,False,0.41,0.48,2,-9.692,1,0.0316,0.534,6.39e-05,0.101,0.332,167.733,4,singer-songwriter
+1LEEVrSTobMkzG7r2vSoEJ,Keenan Te,Dependent,Dependent,64,198320,False,0.474,0.336,5,-13.871,1,0.108,0.907,2.71e-05,0.121,0.458,74.961,4,singer-songwriter
+2jfLNlyUpxhFkoo1lJjiL3,Raghav Meattle,City Life - Single,City Life,41,160844,False,0.647,0.45,4,-12.358,1,0.0339,0.563,6.89e-05,0.143,0.339,94.962,4,singer-songwriter
+62AuGbAkt8Ox2IrFFb8GKV,Neil Diamond,Sweet Caroline,Sweet Caroline,78,203573,False,0.529,0.127,11,-16.066,1,0.0274,0.611,0.000109,0.237,0.578,63.05,4,singer-songwriter
+0SHa9XHwYYB1UUmgbgHuhQ,Prateek Kuhad,The Way That Lovers Do,Favorite Peeps,44,193733,False,0.611,0.525,7,-9.683,1,0.0354,0.767,0.799,0.112,0.299,113.946,4,singer-songwriter
+6HSXNV0b4M4cLJ7ljgVVeh,Bob Dylan,Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),Knockin' On Heaven's Door,73,149880,False,0.513,0.396,7,-13.061,1,0.0299,0.251,0.177,0.11,0.229,140.208,4,singer-songwriter
+4d2ZJ9W7dkQuITwUCTuD5n,Zach Hood,never knew a heart could break itself,never knew a heart could break itself,66,155223,False,0.579,0.454,9,-7.264,1,0.0427,0.465,0.0,0.0997,0.461,78.949,4,singer-songwriter
+7sTDqaGUr9NM8NHQ5SNHi1,Anson Seabra,Songs I Wrote in My Bedroom,That's Us,65,270461,False,0.621,0.108,10,-15.399,1,0.0493,0.968,1.67e-05,0.137,0.204,129.285,4,singer-songwriter
+70Vjb8pcNJT2HVfDLC2MJo,Francis Karel,Like All My Friends,Like All My Friends,64,187918,False,0.531,0.401,7,-8.384,1,0.0302,0.466,0.0,0.0923,0.208,106.178,4,singer-songwriter
+6WXvM7Ku5aM7SfdXym7DEN,Jax,To All The Boys I’ve Loved Before,To All The Boys I’ve Loved Before,64,188864,True,0.788,0.663,6,-5.596,1,0.0319,0.0282,1.9e-06,0.264,0.624,124.008,4,singer-songwriter
+1KQc37jezhunxnOPhvdwSG,Em Beihold,Egg in the Backseat,Numb Little Bug,66,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter
+4J0DbyODwZJcmIAiTSJfMF,John Denver,Back Home Again,Annie's Song,71,180693,False,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,3,singer-songwriter
+3DF1ix5ynSLWQesZNZvUEV,Isak Danielson,JULPYNTA,Snowman,0,168000,False,0.51,0.306,4,-11.214,0,0.0305,0.687,0.0,0.0811,0.23,99.896,3,singer-songwriter
+1qWV2QMhVwWRDAbirrkkf1,Jillian Rossi,Give Me A Reason,Give Me A Reason,65,135306,False,0.33,0.658,9,-5.551,1,0.0929,0.31,7.37e-05,0.0988,0.142,194.98,4,singer-songwriter
+46b1byPHqlHMZzddmYgrSi,Isak Danielson,JULMYS,Snowman,0,168000,False,0.51,0.306,4,-11.214,0,0.0305,0.687,0.0,0.0811,0.23,99.896,3,singer-songwriter
+3XjAgiBvWBKu1tHSLTgffX,Anson Seabra,Feeling For My Life,Keep Your Head Up Princess,60,198220,False,0.689,0.143,6,-17.374,1,0.264,0.97,0.0,0.109,0.528,85.398,4,singer-songwriter
+4N2LGoEJi3aGDgEAnsjtBz,Anson Seabra,Feeling For My Life,Walked Through Hell,66,216864,False,0.508,0.404,10,-11.092,1,0.0788,0.664,0.0,0.104,0.129,81.713,4,singer-songwriter
+05fL1P3yj5DLIE9mF7pf1z,The Doobie Brothers,OK Boomers - Top Tunes,What a Fool Believes,0,219573,False,0.646,0.625,8,-8.819,0,0.0336,0.275,0.0,0.086,0.977,120.656,4,singer-songwriter
+0hEiyrHSHFJ6ElC5xGpyEB,Steve Miller Band,Happy Haunted Halloween Tunes,Abracadabra,2,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,singer-songwriter
+14ZoSQzMmy8LwCmCt7NynJ,Steve Miller Band,Halloween Songs | Witches Hour,Abracadabra,2,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,singer-songwriter
+2KM8qFw8vlV0m0HFBBoNxm,Steve Miller Band,Halloween Party 2022,Abracadabra,0,308373,False,0.791,0.534,9,-13.261,0,0.0355,0.0749,1.99e-06,0.156,0.963,127.488,4,singer-songwriter
+0e5LcankE0UyJUuCoq1uH2,Steve Miller Band,Fishing Music,The Joker,0,264503,False,0.596,0.448,5,-9.616,1,0.0396,0.365,5.22e-06,0.207,0.796,83.293,4,singer-songwriter
+4aqS25F3ywJ9TGnNkOqilC,Steve Miller Band,Halloween Hits,Abracadabra - Remastered 2017,3,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,singer-songwriter
+4XYieGKSlJlHpzB3bl6WMP,Steve Miller Band,Helloween Party,Abracadabra - Remastered 2017,1,307909,False,0.753,0.788,9,-7.271,0,0.0383,0.126,1.07e-06,0.141,0.964,127.521,4,singer-songwriter
+5QwAdWCnauw0GpDzM3glrO,Yuko Ando,Shogeki,Shogeki,60,181594,False,0.399,0.723,11,-4.507,1,0.0681,0.124,0.0,0.352,0.22,137.032,4,singer-songwriter
+3Ozm6fHAbtPi83PO9tofH1,Nick Cave & The Bad Seeds;Flood,Red Right Hand (Theme from 'Peaky Blinders'),Red Right Hand (Peaky Blinders Theme) (Flood Remix) - Peaky Blinders Theme;Flood Remix,38,380613,False,0.814,0.229,0,-16.208,1,0.0737,0.573,0.158,0.0718,0.287,116.049,4,singer-songwriter
+1Fo5vUDqQXvOmtBmicJiNY,Anupam Roy,Cholo Paltai,Baria Dao,42,254786,False,0.563,0.37,10,-9.384,1,0.0312,0.829,0.000976,0.088,0.274,75.037,4,singer-songwriter
+6D9XotKHgPv5Pd9768w0nF,Taba Chake,Bombay Dreams,Meri Dastaan,40,244879,False,0.564,0.407,8,-10.764,1,0.0402,0.68,4.17e-05,0.0798,0.524,150.261,4,singer-songwriter
+1KPEJ5UxJmElMMiM2SsIpx,Anupam Roy,Baishe Srabon,Ekbar Bol,42,298933,False,0.544,0.411,9,-10.106,1,0.0316,0.298,0.0,0.106,0.422,139.948,4,singer-songwriter
+68kyeHa4UBlqTkwoy9tBHV,Raghav Meattle;Hanita Bhambri;Ashish Zachariah,Woh Saat Din,Woh Saat Din,41,222400,False,0.63,0.313,0,-10.467,1,0.0255,0.87,2.38e-05,0.113,0.167,149.985,3,singer-songwriter
+6QZ1nV8wJb28mtsL6UG6hk,Raghav Chaitanya,Tere Bin,Tere Bin,38,270198,False,0.333,0.493,6,-10.047,1,0.0495,0.802,0.00169,0.104,0.185,102.686,4,singer-songwriter
+5CeWyGt9oMtsBBOLtYRTl5,Raghav Chaitanya,Parwaah,Parwaah,38,262500,False,0.607,0.213,11,-15.787,1,0.0318,0.873,0.000477,0.156,0.113,127.948,4,singer-songwriter
+68KJfbYO4h7wCzbq3CJ0T7,Anupam Roy;Shreya Ghoshal,Praktan (Original Motion Picture Soundtrack),Kolkata,41,281685,False,0.665,0.539,0,-6.062,1,0.0326,0.714,0.0,0.109,0.441,115.869,4,singer-songwriter
+2PCSrsG1MyOYyFbJ0m9mVN,Prateek Kuhad,cold/mess,did you/fall apart,42,172298,False,0.512,0.165,1,-12.687,1,0.033,0.899,0.236,0.0979,0.0869,140.81,3,singer-songwriter
+5WJtuMqSdxcbuNvouacT37,Keenan Te,Forgot About Us,Forgot About Us,59,213674,False,0.556,0.43,5,-6.134,1,0.0551,0.398,0.0,0.0845,0.322,169.617,4,singer-songwriter
+6nmukSDAmw3XtbGKGD8056,Stephen Sanchez,Easy On My Eyes,Because Of You,56,231413,False,0.401,0.163,4,-10.94,1,0.0319,0.932,0.0,0.119,0.303,130.273,3,singer-songwriter
+4jflaxgK10KuHI9hzxsT1C,Anurag Vashisht;DJ Strings,Taare,Taare,38,208695,False,0.682,0.383,4,-10.0,1,0.0264,0.802,0.0,0.0761,0.295,92.0,4,singer-songwriter
+2M9ro2krNb7nr7HSprkEgo,Tracy Chapman,Tracy Chapman,Fast Car,78,296800,False,0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,4,singer-songwriter
+3k458zzqcF9UeRfZqRbZYr,Prateek Kuhad,Raat Raazi,Raat Raazi,41,286956,False,0.481,0.254,4,-10.642,1,0.0307,0.756,0.372,0.103,0.138,105.418,4,singer-songwriter
+5pUrlEGxrzuC2PzjcqBFRA,Ashwin Adwani,Phir Bekhabar,Phir Bekhabar,38,197304,False,0.678,0.479,9,-8.03,1,0.0312,0.402,0.0,0.2,0.619,92.532,4,singer-songwriter
+4MDP7HRognLy05tr1MlKek,Anupam Roy,Zulfiqar,Ghawrbaari,42,286816,False,0.64,0.547,0,-6.854,1,0.0382,0.627,0.0,0.111,0.289,127.897,4,singer-songwriter
+57VPW07ksriiQIFUzLDvBJ,Bharat Chauhan,Tu Hoti Toh - Single,Tu Hoti Toh,39,334100,False,0.445,0.335,4,-11.972,0,0.0273,0.843,0.272,0.101,0.212,78.419,3,singer-songwriter
+1Cbx97zdKwqCVRPSqO0Quv,Prashant Soni,Flames: Season 2 (Music from the Tvf Original Series),Lamha,39,182307,False,0.532,0.226,2,-14.169,1,0.0275,0.808,9.19e-05,0.105,0.0769,103.952,4,singer-songwriter
+0awuNCj9gwJEM0seER22DW,Clinton Kane,CHICKEN TENDIES,CHICKEN TENDIES,69,196844,False,0.57,0.689,7,-6.242,1,0.147,0.358,0.0,0.0819,0.568,100.087,4,singer-songwriter
+1UHATOi2uLeTk3UHKBwR30,Zevia,if depression gets the best of me,if depression gets the best of me,59,180000,True,0.51,0.184,0,-15.293,1,0.0577,0.882,8.27e-05,0.111,0.217,119.791,4,singer-songwriter
+7Kbw2fTMOU43MrqXdGzroh,Mimi Webb,Ghost of You,Ghost of You,74,158063,False,0.737,0.858,3,-4.1,1,0.0648,0.0537,0.0,0.0825,0.65,126.254,4,singer-songwriter
+23oYG6HAbahMQEtjk0M7GK,Lauren Spencer Smith,Narcissist,Narcissist,75,172878,True,0.58,0.485,3,-5.438,1,0.0312,0.696,0.0,0.0959,0.158,113.797,4,singer-songwriter
+7sKVXGTB6UK9DjoCtXX3zB,Jasleen Royal;Soundarya Jayachandran,Mismatched (Music from the Netflix Original Series),Jaana,40,169821,False,0.633,0.476,10,-11.502,1,0.0265,0.606,0.00147,0.179,0.284,111.964,4,singer-songwriter
+0SFq19lgG4qbQAZaNZ3xhO,Hozier,"Wasteland, Baby!",Movement,62,237800,False,0.381,0.502,1,-5.505,0,0.0368,0.16,6.98e-05,0.0842,0.147,144.3,4,singer-songwriter
+250PxV0N1B9t59bBrToZKZ,Jasleen Royal,"Kidre Jaawan (From ""Haraamkhor"")","Kidre Jaawan (From ""Haraamkhor"")",41,178900,False,0.572,0.279,2,-9.567,1,0.0331,0.762,0.000117,0.104,0.418,150.373,3,singer-songwriter
+7MDwxOvy8omHHqRBch9T3H,Anupam Roy;Iman Chakraborty,Dwitiyo Purush (Original Motion Picture Soundtrack,Je Kawta Din Reprise,42,326040,False,0.49,0.19,7,-10.761,1,0.0324,0.938,0.0018,0.103,0.256,105.926,4,singer-songwriter
+1kJvdhrr9MHOZ1e1PhTXTG,Prateek Kuhad,The Way That Lovers Do,Drown,41,167586,False,0.358,0.58,5,-9.924,1,0.045,0.768,0.0058,0.127,0.352,98.853,4,singer-songwriter
+4Im6GRj17qa7NW76OsJh1s,John Mayer,Sob Rock,I Guess I Just Feel Like,70,286386,False,0.548,0.483,4,-9.102,1,0.0268,0.515,0.0674,0.0922,0.166,159.952,4,singer-songwriter
+18GiV1BaXzPVYpp9rmOg0E,Bob Dylan,The Freewheelin' Bob Dylan,Blowin' in the Wind,68,165426,False,0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874,4,singer-songwriter
+4bpyaPa1xruVgE2GtsYbIW,Ashley Kutcher,One Eighty,Love You From a Distance,70,204000,False,0.333,0.538,4,-8.653,1,0.0325,0.557,0.0,0.0977,0.63,149.377,4,singer-songwriter
+70C4NyhjD5OZUMzvWZ3njJ,Billy Joel,Piano Man (Legacy Edition),Piano Man,77,339000,False,0.331,0.55,0,-6.483,1,0.0272,0.605,3.96e-06,0.192,0.429,177.734,3,singer-songwriter
+3AyuigFWbuirWHvidbMz8O,Sufjan Stevens,Carrie & Lowell,Should Have Known Better,65,307697,False,0.493,0.171,7,-20.696,1,0.0317,0.98,0.263,0.126,0.296,90.928,4,singer-songwriter
+2nJDePK69THatYkjkjQFE8,Eddy Kim,"Guardian (Original Television Soundtrack), Pt. 5",You are so beautiful,56,195333,False,0.491,0.554,0,-5.65,1,0.143,0.717,0.0,0.113,0.518,151.736,3,singer-songwriter
+5VODRtqd2P5vUH5oHBEUmf,Anupam Roy,Prem Tame,Jawl Phoring 2.0,42,255000,False,0.688,0.602,7,-8.055,1,0.0492,0.215,0.0,0.356,0.436,96.056,4,singer-songwriter
+21HfdERaOGBeHWf06igIzs,Prashant Soni,College Romance: Season 2 (Music from the Series),Tujhse Mehka,38,158117,False,0.494,0.419,11,-9.345,1,0.0333,0.626,4.39e-06,0.178,0.373,84.608,4,singer-songwriter
+73uJybGAhwGRD9MZYrOmTY,Sufjan Stevens,Carrie & Lowell,Death with Dignity,65,239508,False,0.514,0.16,4,-21.04,1,0.0383,0.986,0.0176,0.113,0.395,169.898,4,singer-songwriter
+32Gf5A7Hr8RdgggXG0Fdks,Bryan Adams,18 Til I Die,Have You Ever Really Loved A Woman?,71,291666,False,0.57,0.478,7,-10.185,1,0.0322,0.536,1.33e-05,0.0931,0.358,145.517,3,singer-songwriter
+14ahZtLV5yKtqQATTfQta0,Sara Kays,Home for the Summer,Home for the Summer,62,155271,False,0.682,0.529,4,-9.862,1,0.0469,0.782,0.000294,0.102,0.39,126.995,4,singer-songwriter
+5jSV49gFlnc8FgpvjOCcM4,Rasmus Hagen;Ebba Bergendahl,Love & Hurt,Someone Just Like You,54,196235,False,0.657,0.582,1,-5.762,1,0.0776,0.0623,0.00211,0.215,0.291,169.971,4,singer-songwriter
+10ek2hmSZSB1MxXTSLWV78,Don McLean,Best 70s Rock Tunes,If We Try,1,215226,False,0.565,0.403,2,-12.425,1,0.0303,0.674,0.0,0.103,0.48,109.62,4,singer-songwriter
+2NqfkA2lQHqAezTY5h2EZ1,Don McLean,Sweet Home Alabama,If We Try,0,215226,False,0.565,0.403,2,-12.425,1,0.0303,0.674,0.0,0.103,0.48,109.62,4,singer-songwriter
+3ldrKmt2S7VBENF7g40ibi,Don McLean,Обратно в клас - rock,American Pie,0,513000,False,0.461,0.563,4,-9.325,0,0.0605,0.358,0.0,0.302,0.477,138.571,4,singer-songwriter
+54zCdkbIALAnv8Ihi3XWlD,José González,Frühstücksmusik Herbst/Winter 2022/2023,Stay Alive,0,266906,False,0.714,0.306,6,-12.111,1,0.0388,0.726,0.168,0.0924,0.314,129.984,4,singer-songwriter
+5L1WpemIJPb6U4f3ylBCLe,Sturgill Simpson,Chillin' It - Mellow Day Country,All Around You,0,215693,False,0.312,0.562,9,-6.495,1,0.0298,0.123,0.165,0.136,0.513,185.718,3,singer-songwriter
+6DEGStgt5L8qOKvuZ4R7Wq,Sturgill Simpson,Finest Country,All Around You,0,215693,False,0.312,0.562,9,-6.495,1,0.0298,0.123,0.165,0.136,0.513,185.718,3,singer-songwriter
+0YFPw3rQR1nSeyd3q0uY5h,Sturgill Simpson,Just Best Covers,In Bloom,0,240640,False,0.433,0.366,2,-8.98,0,0.0311,0.0682,0.248,0.123,0.267,78.366,4,singer-songwriter
+20ElUw6wK2R29yY6WLeyC7,Sturgill Simpson,Country Car Hits,Brace for Impact - Live a Little,0,349266,False,0.616,0.706,0,-6.846,1,0.0233,0.00975,0.309,0.111,0.655,89.995,4,singer-songwriter
+3OiiXdJXUZVprVc43nkYEt,Sturgill Simpson,Cozy Country,In Bloom,0,240640,False,0.433,0.366,2,-8.98,0,0.0311,0.0682,0.248,0.123,0.267,78.366,4,singer-songwriter
+2cx1tIGxn0EHZPN3pDkWsH,Sturgill Simpson,Country Road Songs,Brace for Impact - Live a Little,0,349266,False,0.616,0.706,0,-6.846,1,0.0233,0.00975,0.309,0.111,0.655,89.995,4,singer-songwriter
+11BAVEGi1ivJ6JWLqKUNrZ,Matt Simons;Deepend,When The Lights Go Down,Catch & Release - Deepend Remix,70,195173,False,0.838,0.536,1,-8.645,0,0.0478,0.555,0.000376,0.111,0.107,104.988,4,singer-songwriter
+5vTSnZTmS1gMiWuA9kDE19,Sufjan Stevens,Call Me By Your Name (Original Motion Picture Soundtrack),Futile Devices (Doveman Remix),63,135443,False,0.462,0.187,4,-19.991,1,0.0304,0.954,0.847,0.0985,0.252,140.096,4,singer-songwriter
+4yq61v0vaI2MpifznBCpBh,Vasu Raina,Yahan,Yahan,37,242857,False,0.423,0.237,10,-15.965,1,0.114,0.846,3.98e-06,0.0575,0.474,78.443,4,singer-songwriter
+59RKA7Y1F04gHND7Gdlfy5,Ramil Ganjoo,Phir Kabhi,Phir Kabhi,39,178661,False,0.307,0.284,7,-13.991,1,0.0327,0.911,0.00403,0.124,0.313,153.788,4,singer-songwriter
+5fPWflMcJ7zT8BSnHQD9Wh,Anupam Roy,Manzil,Manzil,41,191952,False,0.705,0.67,0,-6.494,1,0.0295,0.376,2.75e-05,0.186,0.701,116.028,4,singer-songwriter
+1kOfQVjzwH96tdrz2emKus,Anupam Mukherjee,Aaj Phir Kyu,Aaj Phir Kyu,39,195428,False,0.521,0.476,11,-8.608,1,0.031,0.727,0.0158,0.0936,0.427,139.863,4,singer-songwriter
+4B5LQW1ydseberjELe4rrd,Vaibhav Malhotra,Bas Yahan,Bas Yahan,39,186000,False,0.565,0.421,4,-8.681,1,0.0342,0.772,0.0,0.0973,0.193,124.897,4,singer-songwriter
+3bFCmv5uojftAq9ZeZFDUZ,Anupam Roy,"Shohage Adore (From ""Belashuru"")","Shohage Adore (From ""Belashuru"")",40,333157,False,0.659,0.321,7,-11.66,1,0.0287,0.629,0.00108,0.153,0.242,113.952,4,singer-songwriter
+3IW6WWv5CeCgSyNwL9UmJr,Prateek Kuhad,cold/mess,fighter,40,235402,False,0.456,0.455,1,-7.53,1,0.0305,0.668,1.05e-05,0.0936,0.132,116.504,4,singer-songwriter
+3R5pd8Z7X3MxaFQphHSUaH,Haley Joelle,Jealous of Paris,Jealous of Paris,61,141639,False,0.349,0.337,3,-9.267,1,0.0507,0.838,1.57e-06,0.196,0.442,181.694,3,singer-songwriter
+03OjIsSVv8mwp58p3iK87o,mehro,SKY ON FIRE,the same,63,204457,False,0.583,0.504,5,-10.944,0,0.0292,0.86,0.177,0.103,0.312,144.043,4,singer-songwriter
+2kFHjWko1il6O9L3eK9IzG,Leah Nobel,"Beginning Middle End (From The Netflix Film ""To All The Boys: Always and Forever"")","Beginning Middle End - From The Netflix Film ""To All The Boys: Always and Forever""",57,194826,False,0.674,0.676,2,-6.878,1,0.0367,0.43,3.13e-05,0.108,0.919,78.99,4,singer-songwriter
+0tncVBZdQYMzn2QB6SIIJ9,Vismay Patel;Prim4l,Waadiyan,Waadiyan,39,180000,False,0.845,0.185,2,-13.997,1,0.0321,0.608,0.000844,0.101,0.304,99.979,4,singer-songwriter
+45HHTHXv7gQ5q2r89ui2Fy,sammy rash,lead me on,lead me on,62,127802,False,0.787,0.478,5,-8.761,0,0.092,0.566,0.0,0.147,0.649,79.029,4,singer-songwriter
+34evGV6SaoRLHTcXXUVOpb,Jax,90s Kids,90s Kids,64,163815,True,0.714,0.657,0,-6.436,1,0.118,0.0802,0.0,0.35,0.725,151.898,4,singer-songwriter
+52Bg6oaos7twR7IUtEpqcE,Elliott Smith,Either/Or,Between The Bars,65,141280,False,0.522,0.074,7,-23.625,0,0.0598,0.929,0.765,0.108,0.342,135.298,3,singer-songwriter
+1y7FoHfVtbZV6mONGJgU7j,Prateek Kuhad,The Way That Lovers Do,Hollow,40,204373,False,0.348,0.31,11,-13.122,1,0.0413,0.845,0.0569,0.111,0.0474,114.812,4,singer-songwriter
+5dyihZecYMcEPq09Bk2OL2,Anson Seabra,Robin Hood,Robin Hood,64,221538,False,0.731,0.153,4,-14.409,1,0.0562,0.952,0.0,0.134,0.324,78.072,4,singer-songwriter
+7pgIbZ3tWdXLUAlofe3r2i,Prateek Kuhad,The Way That Lovers Do,Heartbroken,40,187733,False,0.661,0.481,0,-10.962,1,0.0294,0.662,0.0791,0.0789,0.154,119.974,4,singer-songwriter
+62UEqfAXpFJOLC66EqM7ji,Lyn Lapid,Autumn Vibe,In My Mind,0,162800,False,0.654,0.382,2,-11.8,0,0.0545,0.737,0.00041,0.356,0.289,135.93,3,singer-songwriter
+0tgBtQ0ISnMQOKorrN9HLX,John Mayer,Sob Rock,Last Train Home,69,187306,False,0.591,0.831,4,-6.612,1,0.0355,0.235,0.00142,0.0571,0.678,93.007,4,singer-songwriter
+4fTHlSAySrSeveDQpxBSfp,Keenan Te,Forever With You,Forever With You,59,204800,False,0.515,0.249,11,-8.59,1,0.0461,0.699,0.0,0.0947,0.297,140.243,3,singer-songwriter
+7AzO6R9h58Mk6I56miGzO0,Lyn Lapid,pov: it's 2021,In My Mind,0,162800,False,0.654,0.382,2,-11.8,0,0.0545,0.737,0.00041,0.356,0.289,135.93,3,singer-songwriter
+4qi8jkURFwMPQmUGRtFxI4,Hayd,Chill Mood,What Did I Do?,1,215783,False,0.586,0.279,6,-11.871,1,0.0331,0.795,0.00477,0.11,0.202,142.016,4,singer-songwriter
+5imShWWzwqfAJ9gXFpGAQh,John Mayer,Continuum,Waiting On the World to Change,73,201173,False,0.578,0.756,2,-5.82,1,0.115,0.157,0.000232,0.249,0.663,176.739,4,singer-songwriter
+3mIgUz5Xol0VZG4OMnB7xa,Hayd,The Greatest Rock Tunes 2022,Airplane Mode,1,203060,False,0.684,0.216,7,-15.894,1,0.0577,0.905,0.000112,0.122,0.26,133.186,4,singer-songwriter
+7uttm8Iurm5uK67Vr9G2Sp,Hozier,"Wasteland, Baby!",Almost (Sweet Music),63,217480,False,0.523,0.687,7,-5.601,1,0.105,0.0215,2.86e-06,0.203,0.711,90.036,4,singer-songwriter
+5vd1QZ0tdXOExiegC55IAS,Neil Young,"Eat, Pray, Love",Heart Of Gold,74,188440,False,0.55,0.525,7,-8.754,1,0.0275,0.288,0.0172,0.106,0.806,171.172,4,singer-songwriter
+2ha6TmK7Q3mejlvZNQuEBu,Zevia,we're all sad here,if depression gets the best of me,59,180000,False,0.538,0.187,0,-15.278,1,0.0596,0.88,9e-05,0.111,0.201,119.813,4,singer-songwriter
+0iVuYZTxkkJrzfp56doJ91,Lyn Lapid,Pop Christmas 2022,Messed Up On Christmas,0,141972,False,0.616,0.233,11,-12.894,1,0.0386,0.791,3.39e-05,0.0978,0.407,93.995,3,singer-songwriter
+71ejpdyOCAodqqdRjTa0gh,Jax,Like My Father (Acoustic Version),Like My Father - Acoustic Version,53,185254,False,0.703,0.312,5,-9.66,1,0.0464,0.841,0.0,0.108,0.406,140.01,4,singer-songwriter
+69gZrzHziUnf90fzYi2LLM,Lyn Lapid,Frühstücksmusik Herbst/Winter 2022/2023,The Outsider,0,180604,False,0.62,0.537,11,-6.462,1,0.0263,0.163,0.0,0.13,0.41,92.998,4,singer-songwriter
+5ptQepn6HP5jMllqHCmr4F,Emre Fel,Sevgilim Biz Ayrıldık,Sevgilim Biz Ayrıldık,49,259320,False,0.444,0.423,9,-12.036,1,0.0452,0.736,0.0,0.113,0.538,88.178,4,singer-songwriter
+52J8M6yRizUekEQ03p6coa,Angelo Garcia,Dahil Mahal Kita,Dahil Mahal Kita,49,297045,False,0.49,0.497,7,-6.957,1,0.0289,0.353,0.0,0.203,0.223,75.55,4,singer-songwriter
+4LloVtxNZpeh7q7xdi1DQc,John Mayer,Where the Light Is: John Mayer Live In Los Angeles,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",72,263573,False,0.315,0.296,5,-13.262,1,0.0315,0.771,0.0,0.702,0.435,173.509,4,singer-songwriter
+6YZJDrFMivIsby2R4J8mtb,Don McLean,Best 70s Rock Tunes,If We Try,0,215226,False,0.565,0.403,2,-12.425,1,0.0303,0.674,0.0,0.103,0.48,109.62,4,singer-songwriter
+3zIwapXZFb40mj9RMnSRIn,Don McLean,Best 70s Rock Tunes,If We Try,0,215226,False,0.565,0.403,2,-12.425,1,0.0303,0.674,0.0,0.103,0.48,109.62,4,singer-songwriter
+2N5EAwQN2LTGzkzre4IUga,Amy Macdonald,Weihnachtspop 2022,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+2rkksdiuFUyjSuW5quDJdv,Amy Macdonald,Christmas Best Hits 2022,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+75ArcxyPjMr0sleM5WXLn7,Don McLean,Rock Workout 2023,American Pie,1,513000,False,0.461,0.563,4,-9.325,0,0.0605,0.358,0.0,0.302,0.477,138.571,4,singer-songwriter
+0wVQgxYjooyzBL1c4rjfwv,Amy Macdonald,Weihnachten Playlist,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+5FLujJzRm3xvdEeSlXwQFk,Amy Macdonald,Rockin' Around The Christmas Tree 2022,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+27HnK724hIqv0Td5jT33T0,Amy Macdonald,All I Want For Christmas Is You,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+3b6HTCyw1znOo2G2QKgdi7,Amy Macdonald,Christmas Day Chill,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+4J2VSOgTTrDME1UeQk9qiM,Amy Macdonald,Jingle Bell Rock 2022,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+28ADYD9La9VGgxO0CYvEFO,Amy Macdonald,World's Best Christmas Playlist,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+6iIpkGs78lt4HsmUFYgak8,Amy Macdonald,Santa Claus Is Coming To Town,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+3elfs833jEBAz1QkXm6qqF,Amy Macdonald,Christmas Songs 2022,This Christmas Day,1,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+2qKeUd9ZpfczM8WSWBVT9i,Amy Macdonald,Christmas Dinner 2022,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+0xAq1IF0WA9321vHUUP4yG,Amy Macdonald,Holidays Are Coming,This Christmas Day,0,218798,False,0.248,0.572,10,-6.827,1,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+5HQppSYyU4whulcnaYZyFP,Lyn Lapid,Detached,Detached,62,146176,False,0.291,0.321,11,-12.431,1,0.035,0.88,0.0205,0.202,0.0648,147.059,3,singer-songwriter
+4iP7HF6dhCmvXOk6pHnX9u,Prateek Kuhad,Just A Word,Just A Word,39,180013,False,0.36,0.247,0,-9.415,1,0.0396,0.838,0.00454,0.104,0.279,77.225,4,singer-songwriter
+6FuRLbqyMlk0lugKxoH2qB,Bawari Basanti;Ejaz;Sean,Chalein Kahin,Chalein Kahin,38,243200,False,0.54,0.455,2,-7.4,1,0.0255,0.608,0.0,0.346,0.203,75.038,4,singer-songwriter
+4rypm0OAHbU1IXLA8atiGE,Stephen Sanchez,Easy On My Eyes,Hey Girl,60,185906,False,0.389,0.505,6,-7.777,0,0.037,0.538,0.00403,0.216,0.244,121.775,4,singer-songwriter
+5LiWJsSSjZh7Y3hqml18Ki,Eddy Kim,당신이 잠든 사이에 Pt. 1 Original Television Soundtrack,긴 밤이 오면,56,226991,False,0.48,0.501,5,-5.511,1,0.0296,0.624,0.0,0.0748,0.222,110.889,4,singer-songwriter
+01AwohzqShtjlhyjYoWKHM,Shivansh Jindal;Salim–Sulaiman,Jeena Chahun,Jeena Chahun,36,210714,False,0.613,0.79,6,-7.021,1,0.0339,0.0147,0.00392,0.171,0.274,125.941,4,singer-songwriter
+2QSOI7ful79gOzpNlwyVeh,Anupam Roy,Open Tee Bioscope (Original Motion Picture Soundtrack),Bandhu Chol,40,452597,False,0.573,0.479,5,-11.061,1,0.0377,0.675,5.74e-05,0.101,0.336,75.028,4,singer-songwriter
+6qkoo6SQru2khgh87tarNT,Anupam Roy,Dwitiyo Purush,Aamar Motey,39,223066,False,0.75,0.373,0,-12.031,1,0.0285,0.755,0.022,0.117,0.61,105.045,4,singer-songwriter
+0KQRhak4Irr2CKxgQ9U6ay,Madeline The Person,MEAN!,MEAN!,72,143960,False,0.502,0.416,7,-9.504,1,0.433,0.912,0.0,0.0934,0.433,175.191,3,singer-songwriter
+37EQsOkuUxhqV1yJcPC1TY,Camylio,i tried,i tried,66,160790,False,0.567,0.468,7,-9.63,0,0.107,0.721,7.05e-06,0.13,0.238,139.922,4,singer-songwriter
+2vzWylXWogTG11HR0frews,Anson Seabra,I Can't Carry This Anymore,I Can't Carry This Anymore,65,200000,False,0.451,0.0873,3,-16.815,1,0.063,0.907,2.46e-06,0.355,0.456,166.603,4,singer-songwriter
+7rdnB5DAyPbaj51TCQRcqW,Sezairi,It's You,It's You,73,251440,False,0.63,0.456,8,-8.285,1,0.0317,0.545,0.0,0.114,0.166,137.915,3,singer-songwriter
+0VNzEY1G4GLqcNx5qaaTl6,Don McLean,American Pie,Vincent,69,243493,False,0.419,0.085,7,-19.387,1,0.0362,0.908,5.33e-06,0.34,0.458,91.509,3,singer-songwriter
+1fDsrQ23eTAVFElUMaf38X,Don McLean,American Pie,American Pie,76,516893,False,0.531,0.481,4,-11.709,0,0.06,0.699,0.0,0.0842,0.491,138.45,4,singer-songwriter
+7cpCU3Denug5NGZsSpQl8v,John Mayer,XO,XO,70,213626,False,0.431,0.377,2,-9.753,1,0.0288,0.749,0.0,0.211,0.353,173.67,4,singer-songwriter
+14nCmHYgynAWAvOrB1vvOI,Anupam Roy,Ghare & Baire (Original Motion Picture Soundtrack),Hridoyer Rong,40,219585,False,0.609,0.669,6,-7.662,1,0.0581,0.628,8.45e-05,0.16,0.499,80.943,4,singer-songwriter
+1QbOvACeYanja5pbnJbAmk,John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads","Take Me Home, Country Roads",74,197813,False,0.38,0.43,9,-12.564,1,0.0288,0.546,1.71e-05,0.188,0.547,82.204,4,singer-songwriter
+08VX4aMgET3RjiJB5P1JRy,Keenan Te,Young,Young,58,166400,False,0.607,0.34,11,-11.967,1,0.0837,0.411,0.0,0.144,0.363,75.068,4,singer-songwriter
+4Szq4dulKN9bOvLRW6uMdZ,John Mayer,Sob Rock,Carry Me Away,66,159133,False,0.677,0.713,4,-6.626,1,0.0288,0.0117,0.15,0.0952,0.744,119.997,4,singer-songwriter
+28iWca1I2wjlrkfiMMP0aL,Sarah Cothran,Love Story,Love Story,64,190769,False,0.681,0.236,2,-8.297,0,0.0322,0.554,0.0,0.157,0.256,116.953,4,singer-songwriter
+5gbxzSqABThINGDb7vIiwe,John Mayer,Battle Studies,Edge of Desire,61,332066,False,0.606,0.441,9,-9.303,1,0.0272,0.326,0.0128,0.116,0.455,66.443,3,singer-songwriter
+15OCqNPYoLziEAsbVnqRj5,Mimi Webb,Good Without,Good Without,69,182121,False,0.616,0.576,11,-5.495,0,0.0532,0.0723,0.0,0.375,0.269,89.962,4,singer-songwriter
+3A9x6yHdlP1H5BY5Pz3l7P,Lauren Weintraub,Not Like I’m In Love With You,Not Like I’m In Love With You,60,185715,True,0.656,0.603,11,-5.552,1,0.0385,0.0696,0.00132,0.17,0.481,153.946,4,singer-songwriter
+7bJSiwLFnhoO7g83bWkCtA,Eagles,Hell Freezes Over (Remaster 2018),Love Will Keep Us Alive,66,243453,False,0.658,0.374,9,-11.684,1,0.026,0.721,1.28e-05,0.112,0.367,98.892,4,singer-songwriter
+0jVo3e34A15l6MNu1O3cfa,Nick Cave & The Bad Seeds,Let Love In (2011 - Remaster),Red Right Hand,36,370573,False,0.735,0.403,4,-11.599,0,0.037,0.139,0.473,0.107,0.453,115.658,4,singer-songwriter
+00EsQxsJv6vy7hEQN3jZWG,Leah Nobel,To All The Boys: Always and Forever (Music From The Netflix Film),"Beginning Middle End - Always and Forever Mix)(From The Netflix Film ""To All The Boys: Always and Forever""",52,196800,False,0.457,0.451,2,-8.009,1,0.0279,0.204,0.0,0.149,0.307,149.956,4,singer-songwriter
+69rSEDWuvLS6yyNcESulCc,JORDY,Just Friends,Just Friends,58,189631,False,0.68,0.534,7,-7.001,1,0.08,0.0535,0.0,0.438,0.411,95.089,4,singer-songwriter
+657H0IfrHHpDE5q2g8ulcr,Sara Kays,Indie Chill Out,Remember That Night?,1,227186,False,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978,4,singer-songwriter
+2RotDMmg3PeoEFLiqsXUS7,Sara Kays,Coffee Moment,When You Look at Me,0,170375,False,0.641,0.293,2,-10.711,1,0.0291,0.836,0.0,0.217,0.373,129.849,4,singer-songwriter
+7CKrup0WwkD1haS2fRlkIj,Sara Kays,US Pop 20s,Math,2,176315,False,0.63,0.61,1,-6.077,1,0.0374,0.38,0.0,0.132,0.442,93.997,4,singer-songwriter
+0OMN3x29KaBjSZdAv8qp3f,Sara Kays,Pop n' Fresh,Watching TV,0,160677,False,0.581,0.571,9,-6.924,1,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+40xJenyivPG4n1168jLx0t,Sara Kays,Daily Pop Mix,Watching TV,0,160677,False,0.581,0.571,9,-6.924,1,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+7IdGvF9xwGEcFjTMfvaxK7,Sara Kays,Relaxing Pop,Remember That Night?,1,227186,False,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978,4,singer-songwriter
+3nEzYBBijcwanwIopweEgv,Sara Kays,Human - Best Adult Pop Tunes,When You Look at Me,0,170375,False,0.641,0.293,2,-10.711,1,0.0291,0.836,0.0,0.217,0.373,129.849,4,singer-songwriter
+3VDcmJe6TSGy3MfjhHdDOX,Sara Kays,Low-Key Hits,When You Look at Me,0,170375,False,0.641,0.293,2,-10.711,1,0.0291,0.836,0.0,0.217,0.373,129.849,4,singer-songwriter
+6ZtGz37trOaizvitAyHa5s,Sara Kays,u don't deserve me,Watching TV,0,160677,False,0.581,0.571,9,-6.924,1,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+7mjSHL2Eb0kAwiKbvNNyD9,Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Wild World,77,200560,False,0.48,0.542,0,-8.51,1,0.0348,0.345,0.000609,0.113,0.567,152.853,4,singer-songwriter
+3N9B5b5buHxACNc3GL5oAJ,Damien Rice,OK Boomers - Top Tunes,Cannonball,0,289693,False,0.634,0.323,1,-13.533,1,0.0318,0.83,9e-05,0.125,0.488,147.943,4,singer-songwriter
+4jEdoSDTKhIwu1OcyQfcrw,Damien Rice,Coffee Moment,Cannonball,0,289693,False,0.634,0.323,1,-13.533,1,0.0318,0.83,9e-05,0.125,0.488,147.943,4,singer-songwriter
+5tD1hLCu8eQek2KSq1yI8a,Sara Kays,Pop Brandneu,Watching TV,0,160677,False,0.581,0.571,9,-6.924,1,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+6g1UvHUkvQU264U6G1N98U,Sara Kays;Cavetown,rainy day indie,Struck by Lightning,0,154330,False,0.701,0.611,2,-9.743,1,0.033,0.396,0.0,0.553,0.748,128.07,4,singer-songwriter
+2fvv4tLHhTfIRuahGrlohs,Sara Kays,All That Really Matters - Just Hits,Watching TV,0,160677,False,0.581,0.571,9,-6.924,1,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+2nef44o0sjJDKB1ta4S0ub,KT Tunstall,Lonely Christmas 2022,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,singer-songwriter
+2q7BDmwqMWM6XmQdY5eDIa,Sara Kays,Feeling Good - Adult Pop Favorites,Remember That Night? - Acoustic Version,0,222955,False,0.57,0.32,7,-12.928,0,0.0307,0.828,6.47e-06,0.109,0.323,124.016,4,singer-songwriter
+5U0t4SMp344ER0F4jYb6xI,Don Henley,Обратно в клас - rock,The Boys Of Summer,0,288333,False,0.516,0.775,6,-6.409,1,0.0412,0.396,0.00129,0.21,0.858,177.401,4,singer-songwriter
+0adVktNVJXPZfhQe6B1NO5,KT Tunstall,sadsadchristmas,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,singer-songwriter
+2einB00Doep8LZImPipb9r,Don Henley,80s Bangers Vol. 1,The Boys Of Summer,2,288333,False,0.516,0.775,6,-6.409,1,0.0412,0.396,0.00129,0.21,0.858,177.401,4,singer-songwriter
+2z2JKNU24UEngb4joR9p8f,KT Tunstall,Slow Christmas Songs 2022,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,singer-songwriter
+1k6As9e3M8qfijnNhDebO0,Damien Rice,Session Acoustique,The Blower's Daughter,0,286653,False,0.343,0.2,4,-13.569,1,0.0324,0.134,0.000161,0.341,0.074,133.054,4,singer-songwriter
+5LNymP5gA4eiqi1Rt0tMQp,Damien Rice,Feeling Good - Adult Pop Favorites,The Blower's Daughter,0,286653,False,0.343,0.2,4,-13.569,1,0.0324,0.134,0.000161,0.341,0.074,133.054,4,singer-songwriter
+5RhWszHMSKzb7KiXk4Ae0M,Hikaru Utada,One Last Kiss,One Last Kiss,64,252026,False,0.592,0.54,8,-11.249,0,0.0587,0.692,0.00187,0.0965,0.354,111.955,4,singer-songwriter
+1Ph96WpdjNlwD6iKRE2Xa3,Aidan Bissett,More Than Friends,More Than Friends,70,183012,False,0.559,0.655,6,-6.792,1,0.051,0.58,0.000155,0.124,0.667,160.016,4,singer-songwriter
+4YmuwxEfzF5bXTuwg3sYbE,Akanksha Sethi,Ek Pal,Ek Pal,37,271304,False,0.346,0.54,3,-6.054,1,0.0306,0.306,0.0,0.055,0.24,121.877,5,singer-songwriter
+2PWIdXtLdUwtLN9tn3gzCI,Stephen Sanchez,Until I Found You (Piano Version),Until I Found You,56,177720,False,0.537,0.508,10,-6.053,1,0.0289,0.729,0.0,0.18,0.231,101.198,3,singer-songwriter
+6iN8NWFMRqsOexKaLMNaGo,Anupam Roy,Ekla Cholo Re,Ekla Cholo Re,39,270040,False,0.535,0.236,3,-11.673,1,0.0383,0.912,2.78e-05,0.108,0.306,127.344,3,singer-songwriter
+4SDLH34rwro1NgA7YUFYYW,Osho Jain,Kya Pata,Kya Pata,37,207272,False,0.756,0.308,7,-11.352,1,0.0461,0.809,0.0,0.346,0.11,131.868,3,singer-songwriter
+7zep4BfQRkfASc8qhX0cct,Piyush Bhisekar,Hai Bharosa,Tu Hai Wajah,37,193925,False,0.698,0.385,3,-13.217,1,0.0763,0.636,0.00409,0.134,0.493,135.167,3,singer-songwriter
+0DnZgTbQaUps8KG08ykZYp,Abdon Mech;Zuchobeni Tungoe,Always Be,Always Be,36,257056,False,0.523,0.698,1,-7.598,1,0.0354,0.329,1.93e-05,0.0846,0.307,124.079,4,singer-songwriter
+14qPNe9WNrBJFeweWlkUgU,Piyush Bhisekar,Hai Bharosa,Tum Aao Baitho Batein Kare,37,284544,False,0.398,0.109,10,-13.357,1,0.0403,0.831,0.0,0.383,0.306,119.382,4,singer-songwriter
+0fdsAOeCtXHyjEra16h3An,Arijit Anand;Mitraz,Saaye,Saaye,37,195669,False,0.365,0.453,10,-6.795,1,0.0341,0.565,0.0,0.097,0.175,103.795,4,singer-songwriter
+0z5EJolHD3zV6W17tigtP7,Anupam Roy,Uma,Hariye Jawar Gaan,39,229356,False,0.56,0.433,9,-7.898,1,0.0276,0.745,0.0,0.114,0.429,94.854,4,singer-songwriter
+164OhifL9Eld1xMaptReyR,Prateek Kuhad,Prateek Kuhad on Audiotree Live,for your time - Audiotree Live Version,38,217670,False,0.759,0.166,3,-14.199,1,0.0393,0.918,0.000366,0.109,0.364,110.88,4,singer-songwriter
+0HuS5vFQd06cXV54I0twkV,Prateek Kuhad,The Way That Lovers Do,Face,38,184413,False,0.481,0.669,7,-13.329,1,0.455,0.92,0.0219,0.139,0.351,128.219,4,singer-songwriter
+29YXX6TCgc7d5jz3BYF7Gc,Prateek Kuhad,The Way That Lovers Do,The Last Time,38,219906,False,0.693,0.459,5,-12.451,0,0.0407,0.733,0.0593,0.12,0.35,81.024,4,singer-songwriter
+3E3SMSm6FMRA9gkpaFRFrC,Stephen Sanchez,"What Was, Not Now",Love Life,53,218533,False,0.557,0.483,8,-6.46,1,0.0265,0.658,0.0,0.165,0.387,135.064,4,singer-songwriter
+2Iyfw8YfKruAagJwGc4G07,Tom Rosenthal,The Pleasant Trees,It's Ok,70,191352,False,0.561,0.111,8,-15.11,0,0.0324,0.871,0.205,0.103,0.0607,148.191,4,singer-songwriter
+6ErIUOm3AaNAMY3i1f7ElT,Jasleen Royal,Mtv Unplugged Season 6,Preet Unplugged,37,348183,False,0.7,0.38,10,-9.746,0,0.043,0.901,4.01e-05,0.304,0.441,85.878,4,singer-songwriter
+5PmtPTXrLqgqQfqngsUqZp,sammy rash,summer&cigarettes,summer&cigarettes,64,114427,False,0.834,0.402,5,-10.277,0,0.072,0.76,0.0,0.279,0.684,122.008,4,singer-songwriter
+3FvAIrl7mosCrq0oR0t2CH,Jasleen Royal;Arijit Singh;Raj Shekhar,Hichki,Khol De Par,36,193178,False,0.771,0.448,9,-10.965,1,0.0306,0.516,0.000423,0.112,0.439,110.0,4,singer-songwriter
+3rk4aJ0vAj3cFUIQEeASkT,George Ezra,Green Green Grass,Green Green Grass,77,167613,False,0.685,0.738,8,-4.413,1,0.0595,0.0695,0.0,0.128,0.8,112.972,4,singer-songwriter
+3ieUtb4ecQgEYxae8dzEUi,Hozier,"Wasteland, Baby!",Shrike,65,298880,False,0.506,0.275,7,-8.464,0,0.0292,0.494,0.00377,0.101,0.0639,153.769,3,singer-songwriter
+17UVxL0MYEmKzXppfUL5in,Sufjan Stevens,Carrie & Lowell,The Only Thing,64,284130,False,0.51,0.146,3,-19.585,1,0.0389,0.987,0.0688,0.107,0.498,159.034,4,singer-songwriter
+1SCXzqKZdif5b33POmzwI4,Hozier,Hozier,Angel Of Small Death & The Codeine Scene,62,219214,False,0.377,0.638,4,-5.754,1,0.0545,0.213,7.97e-05,0.12,0.369,92.644,4,singer-songwriter
+2RWFncSWZEhSRRifqiDNVV,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Run To You,70,233270,False,0.561,0.811,4,-6.157,1,0.0265,0.00515,3.6e-05,0.287,0.635,126.593,4,singer-songwriter
+7FwBtcecmlpc1sLySPXeGE,Bruce Springsteen,Born In The U.S.A.,Dancing In the Dark,78,241306,False,0.527,0.942,1,-5.64,0,0.0366,0.0115,0.0,0.188,0.495,148.723,4,singer-songwriter
+6YNdQ5utvFnK4CTAnBga06,Jillian Rossi,Fever Dream,Fever Dream,64,171000,False,0.561,0.519,2,-8.467,1,0.0395,0.223,0.0,0.156,0.2,119.882,4,singer-songwriter
+76CSHuHKMJxmjmdrNBX2Z3,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret,21,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+6vfZSkjmzjo6q5BhkWSRxY,Brent Morgan,Some Days,Some Days,58,130714,False,0.569,0.24,6,-13.111,1,0.0292,0.882,3.42e-06,0.0805,0.377,140.001,4,singer-songwriter
+78DwRIo6Vj6wqteyerGetr,John Mayer,Continuum,The Heart of Life,63,198200,False,0.495,0.238,1,-11.026,1,0.03,0.958,0.0118,0.0875,0.357,175.958,4,singer-songwriter
+5BArc3UpONi77FMkNT4LYU,Lyn Lapid,Producer Man,Producer Man,63,141672,False,0.66,0.639,10,-5.364,0,0.223,0.129,0.0,0.256,0.75,173.994,4,singer-songwriter
+7I2BAdKDq6NaLnDRc41JGZ,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret - Piano Stripped,18,175423,False,0.487,0.183,6,-9.303,1,0.0343,0.844,0.0,0.125,0.394,143.908,4,singer-songwriter
+43IzDkciBPgqULDdAh3MUl,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret - Stripped Strings,15,168833,False,0.54,0.173,6,-9.303,1,0.0336,0.829,0.0,0.137,0.48,144.765,4,singer-songwriter
+4yugZvBYaoREkJKtbG08Qr,Eagles,Eagles (2013 Remaster),Take It Easy - 2013 Remaster,77,211577,False,0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,4,singer-songwriter
+0oiCeOPwm4zhwfyIpAE37y,John Mayer,The Search for Everything,Love on the Weekend,66,212320,False,0.718,0.583,7,-7.884,1,0.0288,0.623,0.000681,0.0612,0.422,119.971,4,singer-songwriter
+4FN82sgnqneYuQnW9VFygo,Hootie & The Blowfish;Abigail Hodges,Alternative Christmas 2022,Won't Be Home For Christmas,0,230932,False,0.445,0.531,2,-6.571,1,0.0324,0.324,0.0,0.186,0.316,178.061,3,singer-songwriter
+7cPuE0M35EajWPRO3nRcH8,KT Tunstall,OO's Music Grandi Successi,Suddenly I See,0,199040,False,0.603,0.78,0,-5.531,1,0.0438,0.139,0.0,0.164,0.693,100.499,4,singer-songwriter
+61202Zzk9rk4bPMZLh2gr6,Allman Brothers Band,Fiesta temática 60s,Trouble No More,0,227751,False,0.556,0.567,9,-11.426,0,0.0333,0.0577,0.00144,0.0907,0.856,141.348,4,singer-songwriter
+7DYsBLdOqz0z14tYWMt2Tn,KT Tunstall,Del gusto de mamá,Hold On,0,177613,False,0.661,0.937,4,-5.157,0,0.0979,0.322,1.04e-06,0.19,0.805,105.549,4,singer-songwriter
+62wO93NNbJ7VAR3G1Gcfue,Glen Campbell,Fishing Music,Southern Nights,0,177586,False,0.63,0.809,11,-9.756,0,0.0314,0.0181,0.076,0.273,0.829,95.244,4,singer-songwriter
+2svSyGhwHbF4CDTMM2HgtU,J.J. Cale,Best 70s Rock Tunes,Cocaine,2,172066,False,0.797,0.496,6,-10.054,1,0.0382,0.396,0.111,0.149,0.587,103.703,4,singer-songwriter
+2yEi49EFQdtO8EkPkJ0G5U,J.J. Cale,On air 70's Hits,Cocaine,0,172066,False,0.797,0.496,6,-10.054,1,0.0382,0.396,0.111,0.149,0.587,103.703,4,singer-songwriter
+3Vnes7v746dYzBn0FJTZ1W,KT Tunstall,Alternative Christmas 2022,Fairytale Of New York,0,263866,False,0.447,0.555,2,-6.018,1,0.0349,0.218,3.46e-06,0.124,0.33,117.888,3,singer-songwriter
+02IW65kQC100srRSE5poWs,The Monkees,Maintain Your Mojo,(I'm Not Your) Steppin' Stone,0,144253,False,0.551,0.625,5,-6.375,1,0.0317,0.016,0.000253,0.118,0.367,131.319,4,singer-songwriter
+3XmIlmYem8DGp7aorcpBay,The Monkees,Perfect Christmas Hits,Unwrap You at Christmas,0,212080,False,0.671,0.801,10,-3.366,1,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+5mrfBg8A92Ypp7yZcZLzZ5,The Monkees,Holly Jolly Christmas,Unwrap You at Christmas,0,212080,False,0.671,0.801,10,-3.366,1,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+3tbGJmb4ZiD6CKbkJbwyKH,The Monkees,Christmas Time,Unwrap You at Christmas,0,212080,False,0.671,0.801,10,-3.366,1,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+7sV7mOO4k0RNz9Un8d8OWg,The Monkees,Christmas Music - Holiday Hits,Unwrap You at Christmas,0,212080,False,0.671,0.801,10,-3.366,1,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+4BHhSAdFoiRFwfLz2HDnIS,The Monkees,Merry Christmas,Unwrap You at Christmas,0,212080,False,0.671,0.801,10,-3.366,1,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+36NwMJRaCy7x77xYGJiG2M,Allman Brothers Band,Fishing Music,Midnight Rider,1,177960,False,0.346,0.589,7,-9.922,1,0.036,0.21,0.00703,0.15,0.638,189.486,4,singer-songwriter
+62EwQLDw0dprDzuLwQ0sH1,KT Tunstall,Chill Christmas Dinner,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,singer-songwriter
+54F792TiwJOWmTJpbUqbXu,Anson Seabra,18,18,61,178407,False,0.649,0.46,5,-10.374,1,0.0497,0.335,2.44e-06,0.145,0.435,129.872,4,singer-songwriter
+20A2Xe76p9wxUFLbbzZjTM,Jim Croce,Photographs & Memories: His Greatest Hits,Time in a Bottle,37,148586,False,0.533,0.155,2,-16.837,1,0.0376,0.888,0.0,0.108,0.592,134.019,3,singer-songwriter
+4wPKUEm0EOoyUiFtI6mz1a,Stephen Sanchez,Lady by the Sea,Lady by the Sea,58,182983,False,0.439,0.503,8,-10.029,1,0.0281,0.284,5.6e-05,0.152,0.519,186.01,3,singer-songwriter
+07wsr8b3h0n18wBeyZU0ht,Taba Chake,Bombay Dreams,My Other Side,37,219000,False,0.574,0.244,0,-10.319,1,0.0436,0.826,0.00695,0.0872,0.448,108.049,3,singer-songwriter
+7977HqRRgSuVc9hzJFJvmE,Suzonn,Woh Purana Pyar,Woh Purana Pyar,35,199090,False,0.492,0.452,5,-8.796,1,0.028,0.395,0.0345,0.123,0.223,110.059,4,singer-songwriter
+0lhACxwxX7shlAhWuQyf9c,Osho Jain,Siya Hai,Siya Hai,36,60000,False,0.619,0.337,11,-11.856,1,0.0309,0.705,1.57e-06,0.189,0.468,143.952,3,singer-songwriter
+6RHGYYDNeSblumjzhxKCrL,Anupam Roy,Mithye Kotha,Mithye Kotha,37,269343,False,0.593,0.772,8,-6.336,1,0.0458,0.0274,0.000537,0.146,0.518,141.316,4,singer-songwriter
+6McnQuTA2dpArD3QTrD8A7,Camylio,sometimes,sometimes,63,156617,False,0.547,0.447,1,-8.725,1,0.194,0.698,0.0,0.123,0.322,102.81,4,singer-songwriter
+7n6t89yx1U566KfgFbZNBD,Tajdar Junaid,What Colour Is Your Raindrop,Though I Know,36,250124,False,0.632,0.371,5,-11.62,1,0.0269,0.575,0.0111,0.0785,0.445,81.996,4,singer-songwriter
+26u6HGjzExhRZD5ifgTBnG,Ankur Tewari;The Ghalat Family,Side B,Dil Haare,38,268512,False,0.624,0.576,9,-7.976,1,0.0297,0.175,0.00232,0.127,0.422,128.057,4,singer-songwriter
+1fDWOEGUGXfXSlDDP3qz1f,Osho Jain;Sanchi,Saar,Kaun Apna,36,168810,False,0.738,0.141,5,-9.525,1,0.0384,0.843,0.0,0.192,0.538,78.018,4,singer-songwriter
+6goI3Inn1Uc62PZfWBQ3ok,Bharat Chauhan,Tinka - Single,Tinka,35,293647,False,0.455,0.115,9,-13.819,1,0.0331,0.854,3.77e-05,0.0954,0.21,113.679,5,singer-songwriter
+5GcjIiSS47T64N1DFxn1UK,Ankur Tewari;The Ghalat Family,Side A,Wagairah Wagairah,37,217626,False,0.741,0.295,9,-11.044,1,0.0446,0.0245,0.0,0.142,0.236,125.936,4,singer-songwriter
+5nlKcuzD8Pd79njhGXt1vT,Matt Hansen,break my heart,break my heart,65,178099,False,0.511,0.556,11,-5.505,0,0.0321,0.536,8.95e-06,0.1,0.339,160.043,4,singer-songwriter
+1ODitWwCi2P2D489FX5CmY,Jasleen Royal,Jahaan Tu Chala - Midnight Mix (Gully Boy),Jahaan Tu Chala - Midnight Mix (Gully Boy),36,170029,False,0.559,0.672,2,-8.279,1,0.0417,0.17,0.000238,0.19,0.537,115.16,4,singer-songwriter
+0HEJUJcpslqRcH4r7Oro0p,Karthik Rao;Shilpa Surroch,Cubicles (A TVF Original Series Soundtrack),Socha Na Tha,35,178000,False,0.629,0.437,4,-11.567,1,0.143,0.755,0.000552,0.247,0.608,159.994,4,singer-songwriter
+2AHKsVXN6BjBO8SEVX6cBC,Anson Seabra,Songs I Wrote in My Bedroom,Broken,63,305675,True,0.481,0.0759,6,-14.2,1,0.0601,0.956,0.0,0.154,0.234,98.979,4,singer-songwriter
+4i7mcbkECX4kqRvfjbBGQz,Thomas Day,not my job anymore,not my job anymore,68,188074,False,0.534,0.441,11,-7.071,1,0.0362,0.525,0.0,0.258,0.113,140.137,4,singer-songwriter
+2DjWsDGgL1xNbhnr7f6t5F,Tracy Chapman,Tracy Chapman,Baby Can I Hold You,74,193120,False,0.692,0.422,2,-10.533,1,0.0333,0.0811,0.0,0.0848,0.468,74.375,4,singer-songwriter
+4NXROG27qc3PGsf6IK5MOD,Hayd,Superhero,Superhero,59,241500,False,0.626,0.125,9,-18.968,1,0.0517,0.877,0.0,0.352,0.144,119.907,4,singer-songwriter
+3E6iea9uEmB7gRru4lyP6h,John Mayer,Continuum,Stop This Train,65,285053,False,0.619,0.437,7,-11.756,1,0.0314,0.465,0.00619,0.0971,0.408,89.508,4,singer-songwriter
+6Td37HXpeCVelczrLcg73L,Prateek Kuhad,The Way That Lovers Do,Full Time Lover,37,95000,False,0.541,0.254,9,-10.966,1,0.0387,0.929,0.000325,0.101,0.251,187.857,4,singer-songwriter
+54q7FLhWb9FEObFBziNRTq,Sam MacPherson,Forget I Exist,Forget I Exist,60,172626,False,0.662,0.399,7,-8.933,1,0.0314,0.491,2.4e-05,0.127,0.265,96.05,4,singer-songwriter
+239yM7BAQ2CkNc61ogPGXo,John Mayer,Sob Rock,Shot in the Dark,63,249080,False,0.741,0.556,2,-9.184,1,0.0266,0.0629,0.041,0.103,0.587,122.008,4,singer-songwriter
+0l8p1TkaVgcwIUS0xwm6Y5,Haley Joelle,Two Places at Once (Part I),Two Places at Once,65,199395,False,0.497,0.278,2,-9.959,1,0.0464,0.792,0.0,0.308,0.237,104.84,5,singer-songwriter
+3pRaLNL3b8x5uBOcsgvdqM,Jeff Buckley,Grace,Hallelujah,71,413826,False,0.324,0.136,0,-10.33,1,0.0318,0.931,0.00117,0.176,0.0831,97.256,3,singer-songwriter
+0HLWvLKQWpFdPhgk6ym58n,John Mayer,Battle Studies,Who Says,64,175480,False,0.584,0.509,2,-13.109,1,0.0287,0.267,0.00252,0.36,0.367,90.457,4,singer-songwriter
+7hR5toSPEgwFZ78jfHdANM,John Mayer,Battle Studies,Half of My Heart,65,250373,False,0.681,0.593,5,-9.327,1,0.0251,0.435,0.000117,0.106,0.731,115.058,4,singer-songwriter
+42bbDWZ8WmXTH7PkYAlGLu,George Ezra,Staying at Tamara's,Hold My Girl,74,211763,False,0.614,0.527,10,-6.374,1,0.0302,0.597,0.0,0.11,0.354,121.941,4,singer-songwriter
+3gdiyrJ3d1FGnYnCrVKwph,Jillian Rossi,Hurt Again,Hurt Again,62,126562,True,0.638,0.564,9,-5.876,1,0.0374,0.123,2.97e-06,0.0811,0.109,96.08,4,singer-songwriter
+3198LMj0bpnXj8Mb1GLo3u,Lyn Lapid,When She Loved Me,When She Loved Me,62,187709,False,0.604,0.0458,4,-19.031,1,0.0762,0.973,0.0,0.0963,0.617,76.235,3,singer-songwriter
+4gs07VlJST4bdxGbBsXVue,John Mayer,Battle Studies,Heartbreak Warfare,65,269720,False,0.624,0.554,2,-8.113,1,0.0225,0.191,0.00131,0.299,0.311,97.031,4,singer-songwriter
+0qdQUeKVyevrbKhAo0ibxS,George Harrison,All Things Must Pass (Remastered 2014),My Sweet Lord - Remastered 2014,75,281226,False,0.537,0.701,1,-8.913,0,0.0335,0.0972,0.0,0.0832,0.583,120.919,4,singer-songwriter
+5RKfi7TDigyZwSdgU2tHH9,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret,17,176124,False,0.578,0.553,6,-7.601,1,0.0619,0.00885,0.0,0.0827,0.607,166.984,4,singer-songwriter
+42E2tXsKizkyh8cCUL19R5,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret - Piano Stripped,22,175423,True,0.493,0.176,6,-9.288,1,0.0342,0.843,0.0,0.126,0.403,144.251,4,singer-songwriter
+5W1UtLcQLQOFZDpDeNn8Gi,Lyn Lapid,The Outsider,The Outsider,60,180604,False,0.62,0.537,11,-6.462,1,0.0263,0.163,0.0,0.13,0.41,92.998,4,singer-songwriter
+5RgFlk1fcClZd0Y4SGYhqH,Billy Joel,The Stranger (Legacy Edition),She's Always a Woman,73,201373,False,0.292,0.324,3,-11.996,1,0.0346,0.797,0.000473,0.12,0.384,176.631,3,singer-songwriter
+09l5WCAnOB6puLBjglf8yf,Jax,Victoria’s Secret (feat. Harper) [The Metal Version],Victoria’s Secret - Stripped Strings,22,168833,True,0.499,0.185,6,-9.264,1,0.0354,0.798,0.0,0.135,0.488,144.555,4,singer-songwriter
+2kMrCPZ0o5gErBPLCRgoli,Gabrielle Aplin,Mellow Adult Pop,Heavy Heart,0,235173,False,0.451,0.7,10,-6.597,0,0.0431,0.455,0.00233,0.405,0.37,150.055,4,singer-songwriter
+1IbgYIuVwJsibCcT5GFYHy,Hozier,"Wasteland, Baby!","Wasteland, Baby!",58,266466,False,0.427,0.407,2,-9.665,1,0.0382,0.612,0.386,0.109,0.244,168.844,4,singer-songwriter
+476V2d6iA2tWXgQboKmTtA,Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Father And Son,73,221120,False,0.495,0.326,7,-12.29,1,0.0365,0.541,8.85e-05,0.0996,0.371,136.243,4,singer-songwriter
+3MthJpM1IEYp2ulZe00LvP,John Mayer,Sob Rock,Shouldn't Matter but It Does,64,236733,True,0.549,0.324,4,-11.769,1,0.0285,0.457,2.2e-06,0.133,0.268,80.888,4,singer-songwriter
+3322ArxAq7wCSZI4fF77Q0,Gabrielle Aplin,Coffee Moment,Please Don't Say You Love Me,0,181400,False,0.479,0.541,0,-9.862,1,0.0543,0.74,0.0,0.108,0.3,85.994,4,singer-songwriter
+0wf17wsLRwnnfh241GkeH5,Gabrielle Aplin,u don't deserve me,Please Don't Say You Love Me,0,181400,False,0.479,0.541,0,-9.862,1,0.0543,0.74,0.0,0.108,0.3,85.994,4,singer-songwriter
+2GpBrAoCwt48fxjgjlzMd4,Eagles,Hell Freezes Over (Remaster 2018),"Hotel California - Live On MTV, 1994",65,432040,False,0.55,0.49,2,-10.732,1,0.0572,0.368,9.96e-05,0.917,0.609,74.656,4,singer-songwriter
+1ml3WGeluftee3DiSfyIGx,Gerry Rafferty,OK Boomers - Top Tunes,Right Down the Line,0,267773,False,0.783,0.322,0,-15.091,1,0.0343,0.215,0.00243,0.114,0.77,128.227,4,singer-songwriter
+5IjTZ1g8KrIuV97N3OQZ0V,Gabrielle Aplin,Break Up Songs,The House We Never Built,0,195213,False,0.546,0.391,2,-10.786,0,0.063,0.784,2.72e-06,0.0552,0.202,139.669,4,singer-songwriter
+1XjrpDJARnUJtL1wRUQMbI,Glen Campbell,Fiesta temática 60s,Christmas Is For Children,0,199200,False,0.32,0.288,7,-13.439,1,0.0291,0.363,0.00561,0.0943,0.181,77.762,4,singer-songwriter
+2N88n8i3WgXPzelcXpUhm1,Dr. Hook,On air 70's Hits,When You're In Love With A Beautiful Woman - Remastered 1996,0,177200,False,0.593,0.768,8,-10.459,1,0.0515,0.0535,0.0049,0.0476,0.874,110.41,4,singer-songwriter
+73fRMyckZKtemX14eku8uu,Sertab Erener,İyiliğe Ninniler,Dandini Dandini Dastana,48,149168,False,0.506,0.233,3,-12.077,0,0.0276,0.957,2.8e-05,0.116,0.275,88.08,4,singer-songwriter
+6qGIp3SdhIzW8A0MWeJEcW,Umer Farooq,Patang,Patang,40,474999,False,0.224,0.32,0,-13.896,0,0.0295,0.528,3.57e-05,0.0842,0.0828,180.049,4,singer-songwriter
+0dYNiMZm5bNu7ap0EQT2qD,Zebunissa Bangash,Madras Cafe,Ajnabi,35,317113,False,0.397,0.188,8,-11.135,1,0.0394,0.947,1.23e-05,0.121,0.368,174.146,3,singer-songwriter
+7rU6Iebxzlvqy5t857bKFq,Mariya Takeuchi,Expressions,Plastic Love,65,294493,False,0.648,0.875,2,-5.141,0,0.034,0.0747,9.64e-05,0.196,0.857,102.517,4,singer-songwriter
+5fdhNvwWmlqnzICxp25b1G,Ankur Tewari,Bhool Gaye,Bhool Gaye,36,60957,False,0.649,0.331,7,-12.401,1,0.0434,0.815,0.0634,0.126,0.675,200.185,4,singer-songwriter
+7A4FSWQfxmDY2nqLRk4g8f,Anupam Roy;Rahat Fateh Ali Khan,October,Tab Bhi Tu,37,326635,False,0.264,0.437,11,-6.086,0,0.0306,0.876,0.0,0.118,0.136,175.633,4,singer-songwriter
+3ODxqsvcsdmG7ucehNSxn1,Umer Farooq;Moosa Saleem,Duur Se,Duur Se,37,262399,False,0.632,0.608,0,-9.558,1,0.0296,0.184,0.000211,0.105,0.332,93.013,4,singer-songwriter
+2rycaXOcr0v5CoJiEuPAFZ,Osho Jain,Khoobsurat,Khoobsurat,35,171500,False,0.441,0.0734,10,-17.531,0,0.0359,0.936,0.00422,0.138,0.177,120.921,3,singer-songwriter
+2tsIWi4o3Nkbq4yF9OPNg9,Jasleen Royal,Shivaay,Raatein (Reprise),34,223143,False,0.52,0.408,2,-11.099,1,0.0311,0.644,0.0558,0.128,0.173,94.991,4,singer-songwriter
+5Infc095QF0BDwCF9rMyxD,Suzonn,Pareshaan,Pareshaan,34,244800,False,0.512,0.137,6,-13.003,1,0.0321,0.9,1.25e-05,0.104,0.311,75.14,4,singer-songwriter
+7p9dd71JR2ucoAuO1Sy0VZ,Bryan Adams;Melanie C,On A Day Like Today,When You're Gone,69,204893,False,0.546,0.931,0,-6.344,1,0.0341,0.000299,2.92e-05,0.11,0.643,125.495,4,singer-songwriter
+2QFyOnJfJ49OnNgMvKXvTM,Sydney Rose,Turning Page,Turning Page,67,218451,False,0.404,0.0182,2,-20.969,1,0.0414,0.964,0.00037,0.108,0.114,109.107,4,singer-songwriter
+1x0JkipO1X78OC1OOxpOoM,Anupam Roy;Lopamudra Mitra,Hemlock Society,Amar Mawte (Female),37,330187,False,0.743,0.343,10,-9.711,1,0.0297,0.798,1.26e-05,0.1,0.68,105.014,4,singer-songwriter
+7r0YNXexEsShOd39hql2W9,Jasleen Royal;Prateek Kuhad,Monsoon Love Hits Vol 3,Kho Gaye Hum Kahan,35,213055,False,0.779,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.042,4,singer-songwriter
+2T3jgoAMbBXiMMD8pSc6QL,Amy Macdonald,This Is The Life (eDeluxe),This Is The Life,75,184413,False,0.628,0.882,1,-5.024,0,0.0323,0.259,0.0,0.065,0.853,95.083,4,singer-songwriter
+2stkLJ0JNcXkIRDNF3ld6c,Randy Newman,Toy Story,"You've Got a Friend in Me - From ""Toy Story""/Soundtrack Version",70,124160,False,0.689,0.333,0,-12.134,0,0.0307,0.817,5.13e-06,0.285,0.471,115.835,4,singer-songwriter
+16gW9O8A4rIMx5OOVlzsSn,PJ Harding;Noah Cyrus,Dear August,Dear August,69,200940,False,0.643,0.324,0,-7.817,1,0.0338,0.8,0.0,0.111,0.444,147.019,4,singer-songwriter
+6xfEKqN6bnqs6QfqQm8vXf,Anupam Roy,Chotushkone,Bawshonto Eshe Geche (Male),37,251578,False,0.552,0.635,4,-8.32,1,0.0301,0.107,0.00521,0.134,0.463,117.913,4,singer-songwriter
+4hNjjRYpkftbChRMkRlDeg,Clinton Kane,MAYBE SOMEDAY IT'LL ALL BE OK,CHICKEN TENDIES,63,196853,False,0.573,0.702,7,-6.089,1,0.14,0.371,0.0,0.0828,0.553,100.092,4,singer-songwriter
+6UcfBPUiBB7ZeQQkwZ8OF5,Clinton Kane,MAYBE SOMEDAY IT'LL ALL BE OK,KEEP IT TO YOURSELF,61,174386,False,0.493,0.607,0,-7.037,1,0.0541,0.637,0.0,0.0921,0.59,132.213,4,singer-songwriter
+7uBxi4jHZqgWAjqLEl1KcF,Bryan Adams,Cuts Like A Knife,Straight From The Heart,64,211826,False,0.584,0.233,0,-18.404,1,0.027,0.0814,0.0,0.141,0.356,84.775,4,singer-songwriter
+2oqki4Oi98GZx9bFNaRdp7,Jasleen Royal;Siddharth Amit Bhavsar,Sharato Lagu (Original Motion Picture Soundtrack),"Mann Melo, Pt. 2",35,175824,False,0.359,0.56,2,-6.662,1,0.0275,0.139,0.00167,0.112,0.239,100.042,4,singer-songwriter
+1sdz3nsrkX4Yo42KLPrmYV,Bryan Adams,On A Day Like Today,Cloud Number Nine,54,225573,False,0.59,0.72,2,-7.127,1,0.0263,0.0641,0.0,0.183,0.617,109.644,4,singer-songwriter
+21xzFXSL2XkZ2mIzDDAqTK,Catie Turner,God Must Hate Me,God Must Hate Me,67,149802,False,0.459,0.304,2,-10.107,1,0.136,0.967,1.95e-05,0.0951,0.072,76.954,3,singer-songwriter
+0tcDhdxX7DVeuqhHCJqWuR,Ashu Shukla,Tumhare Aane Se (Reprise),Tumhare Aane Se (Reprise),34,211800,False,0.595,0.209,3,-12.693,1,0.033,0.912,0.0,0.111,0.347,100.187,4,singer-songwriter
+0gJBPDy458wPeWGHei3TvO,Bryan Adams,Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture),Here I Am - End Title,60,284066,False,0.581,0.777,8,-7.122,1,0.0296,0.0078,4.04e-05,0.0891,0.162,98.963,4,singer-songwriter
+7yzbimr8WVyAtBX3Eg6UL9,Leonard Cohen,Various Positions,Hallelujah,64,277160,False,0.28,0.344,0,-12.577,1,0.0293,0.715,0.00642,0.133,0.232,171.143,3,singer-songwriter
+0AdoWBdFJUL5ejRBGFAAwq,Hayd,Changes - EP,Airplane Mode,52,203060,False,0.684,0.216,7,-15.894,1,0.0577,0.905,0.000112,0.122,0.26,133.186,4,singer-songwriter
+1uviKYHZuM4uINK33F7sCt,Clinton Kane,Fix It to Break It,Fix It to Break It,64,198798,False,0.493,0.461,2,-8.524,1,0.0456,0.845,0.0,0.115,0.35,51.414,4,singer-songwriter
+1I2zZtHCrBkoTgfwxnNKZ9,BLÜ EYES,you'd never know,you'd never know,65,185321,False,0.626,0.43,8,-9.704,1,0.0741,0.149,1.01e-05,0.194,0.174,149.859,4,singer-songwriter
+7hOCTGGlJBfdenJDrjduht,Jillian Rossi,Not Used To Normal,Not Used To Normal,63,122831,True,0.455,0.471,3,-9.767,1,0.0579,0.078,0.0,0.108,0.342,88.398,4,singer-songwriter
+1Ip5p31SowqjJLo2ss1afJ,Matt Hansen,better off without me,better off without me,64,170211,False,0.62,0.468,0,-7.492,1,0.04,0.619,0.0,0.322,0.646,149.855,4,singer-songwriter
+6vAcoAjqhoJQaMJJZfBxEc,Yura Yunita,Intuisi,Intuisi,45,241500,False,0.453,0.0531,1,-19.956,1,0.0355,0.946,0.000161,0.0796,0.354,79.863,4,singer-songwriter
+5HWgP11CJLvBBQtMWkDdjd,Sophie Pecora,Overthinking,Overthinking,50,216000,False,0.745,0.573,0,-9.606,0,0.0789,0.558,0.0,0.104,0.479,100.041,4,singer-songwriter
+1b5qdsOkBg9R0S12ng3Ees,Zoe Clark,Zero Feelings,Zero Feelings,62,154759,True,0.743,0.495,0,-6.462,1,0.048,0.0309,0.0,0.252,0.396,102.117,4,singer-songwriter
+36lkJSDyMEZoWTqtRj8Q8q,Chicago,Chicago 17 (Expanded & Remastered),You're the Inspiration - 2006 Remaster,73,229240,False,0.583,0.602,11,-6.364,1,0.0274,0.368,0.0,0.22,0.388,74.008,4,singer-songwriter
+6w0hYR4t6m3AYgCDh29t9K,Isak Danielson,Yours,I Am Falling in Love,57,248000,False,0.67,0.396,5,-7.967,1,0.03,0.256,0.0,0.112,0.358,77.988,4,singer-songwriter
+5amAJIEdIVtWYEi4wGp7Fn,Em Beihold,City of Angels,City of Angels,63,194308,False,0.684,0.371,4,-7.248,1,0.0436,0.791,0.0,0.316,0.338,75.018,4,singer-songwriter
+2vtwuaAGoDPlsLujnfTYEu,Steve Winwood,Mirando las nubes,Valerie,0,246333,False,0.679,0.766,9,-4.993,1,0.0291,0.32,0.015,0.111,0.679,116.269,4,singer-songwriter
+1eB8V2uiVe9GHLaEHmG4TY,Ane Brun,Calm Christmas,The First Day Of Christmas,0,189109,False,0.374,0.203,10,-12.595,1,0.0331,0.895,0.000479,0.263,0.32,134.146,3,singer-songwriter
+3ZiQhpxFm0a0enRUkeeTfl,Ane Brun,JULPYNTA,The First Day Of Christmas,0,189109,False,0.374,0.203,10,-12.595,1,0.0331,0.895,0.000479,0.263,0.32,134.146,3,singer-songwriter
+1V6nk2hpLtdemWy3HvTVpN,Ane Brun,JULMYS,The First Day Of Christmas,0,189109,False,0.374,0.203,10,-12.595,1,0.0331,0.895,0.000479,0.263,0.32,134.146,3,singer-songwriter
+75iWsNyEgROEhzNnP6iU7s,Ane Brun,Christmas Day Chill,The First Day Of Christmas,0,189109,False,0.374,0.203,10,-12.595,1,0.0331,0.895,0.000479,0.263,0.32,134.146,3,singer-songwriter
+3yz60wsJlg630mjAfU4qIv,Steve Earle,Good Times Country,Go Amanda,0,214720,False,0.326,0.716,10,-3.547,1,0.0306,0.00227,0.00171,0.123,0.648,143.148,4,singer-songwriter
+11UF6aLWbnCaWM0V7CezX9,Glen Campbell,(60's) Sixties Collected Volume 2,Gentle On My Mind - Remastered 2001,0,178626,False,0.597,0.415,3,-13.799,1,0.0323,0.189,0.0,0.122,0.826,108.987,4,singer-songwriter
+2RaEgEkEDjIRrkBcgcJiCg,10cc,Fiesta temática 70s,Art For Art's Sake,0,359235,False,0.616,0.57,0,-7.797,1,0.0517,0.0581,0.00142,0.225,0.622,124.721,4,singer-songwriter
+7rnDZfdq7rNyAWLCQ9vpLv,10cc,On air 70's Hits,The Things We Do For Love,0,213066,False,0.437,0.557,1,-8.487,1,0.102,0.33,0.0,0.248,0.683,161.412,3,singer-songwriter
+3jwcudvYIksoAjU0x6gagd,Steve Winwood,80s Bangers Vol. 2,Valerie,0,246333,False,0.679,0.766,9,-4.993,1,0.0291,0.32,0.015,0.111,0.679,116.269,4,singer-songwriter
+46DBOCyDDj0FFnWniwwNVW,Emmylou Harris,Country Holiday,Christmas Time's A-Coming,0,175400,False,0.715,0.404,11,-9.706,1,0.0262,0.583,0.0,0.115,0.709,104.438,4,singer-songwriter
+6CqIPNIgAYmbOyPgVKv0u3,Emmylou Harris,Happy Country Christmas,Christmas Time's A-Coming,0,175400,False,0.715,0.404,11,-9.706,1,0.0262,0.583,0.0,0.115,0.709,104.438,4,singer-songwriter
+5HYZ9a7ftaZDxqjzAyKZxP,Ane Brun,Chill Christmas Dinner,Changing Of The Seasons - Sketches Version,0,269626,False,0.449,0.116,2,-12.591,1,0.034,0.948,2.51e-05,0.108,0.0625,139.699,3,singer-songwriter
+3ILmwMefYZoQh5Cf5jeuUQ,Motohiro Hata,Documentary,透明だった世界,61,232360,False,0.373,0.914,0,-4.185,1,0.0565,0.076,0.0,0.669,0.56,168.21,4,singer-songwriter
+4pqPoUxXjbk8iqL0vSaRg7,Taba Chake,Bombay Dreams,In Waadiyon Mein,35,214000,False,0.648,0.649,1,-9.26,1,0.0321,0.113,0.397,0.0855,0.522,125.042,4,singer-songwriter
+12GcQC9YI2VWwPGxnmrSlJ,Kamakshi Khanna;OAFF,Duur,Duur,37,186570,False,0.546,0.17,0,-15.055,1,0.031,0.904,0.00178,0.084,0.135,130.07,3,singer-songwriter
+0tgHIZlb1corln6Mbe7zFg,Tanay Mimani,Chai Ki Katori,Chai Ki Katori,33,244247,True,0.792,0.329,1,-11.15,1,0.0595,0.269,0.0,0.101,0.461,112.869,4,singer-songwriter
+4ywAuNo5FKUBLQ948tn4nf,Brent Morgan,Gonna Be Okay - Acoustic,Gonna Be Okay - Acoustic,51,195096,True,0.479,0.414,11,-9.54,1,0.0347,0.705,0.0,0.235,0.216,78.387,4,singer-songwriter
+5uBxWyHmRbUCzJ87E34MP8,Hayd,Lost,Lost,58,181730,False,0.386,0.168,8,-14.768,1,0.0367,0.938,0.00995,0.0819,0.312,126.473,4,singer-songwriter
+2sY2djYywKHbvT44vI2D57,Ashwin Adwani,Jugnoo,Jugnoo,33,230129,False,0.663,0.497,8,-6.145,1,0.0269,0.394,0.00026,0.0691,0.336,115.436,4,singer-songwriter
+73ZlmJxexVebFozgZhEhkd,Nick Cave & The Bad Seeds,Abattoir Blues / The Lyre of Orpheus,O Children,33,409546,False,0.498,0.564,4,-7.016,0,0.033,0.507,0.00149,0.058,0.235,121.628,4,singer-songwriter
+1ydKLmtx7LYnDe1udTu96w,Hayd,Suffocate,Suffocate,58,241967,False,0.653,0.0584,4,-21.98,1,0.0442,0.847,0.000361,0.175,0.163,122.057,4,singer-songwriter
+0p5xEJ10MMJEGTuwJbngbn,Stephen Sanchez,Kayla,Kayla,50,175200,False,0.41,0.256,8,-8.653,1,0.0284,0.845,6.31e-06,0.116,0.308,137.741,4,singer-songwriter
+2kMAKtrAu16HVWxBnOwuhd,Fleurie;Tommee Profitt,Love and War,Hurts Like Hell,58,232000,False,0.433,0.152,9,-13.384,0,0.0369,0.727,5.19e-05,0.107,0.0974,129.792,3,singer-songwriter
+6Au7CCNN2wXgCNxdavgxDM,Lee So Ra;SUGA,Song Request 신청곡 (feat. SUGA of BTS),Song Request 신청곡 (feat. SUGA of BTS),56,281066,False,0.481,0.59,2,-7.145,1,0.0903,0.707,0.00037,0.141,0.454,175.788,4,singer-songwriter
+69zxopckIPTya73oBGdE2v,Jasleen Royal;Fresh Talent Studios,Nit Nit (Lofi Version),Nit Nit - Lofi Version,34,248181,False,0.461,0.429,10,-10.742,1,0.0322,0.835,0.433,0.403,0.316,87.97,4,singer-songwriter
+2iHsdUnmKGIuc9oRE3DfgJ,Mimi Webb,House On Fire,House On Fire,73,140803,False,0.61,0.747,2,-4.543,1,0.109,0.0245,0.0,0.106,0.439,150.088,4,singer-songwriter
+5yyRH93h4Pm6tXXYTxt7ea,Damien Rice,O,The Blower's Daughter,65,286653,False,0.342,0.2,4,-13.569,1,0.0324,0.134,0.000153,0.341,0.0743,133.113,4,singer-songwriter
+18ywhG9EvuMMUIdUWxEqp7,Tom Rosenthal,The Pleasant Trees,Go Solo,69,142280,False,0.586,0.0907,1,-12.907,1,0.0384,0.985,0.0281,0.126,0.212,77.144,4,singer-songwriter
+3KDutI0zWNCsVDqxcymKNU,Anurag Vashisht;Unluv,Benaqaab,Benaqaab,33,196718,False,0.757,0.516,3,-10.278,1,0.0429,0.709,3.05e-05,0.409,0.368,96.012,4,singer-songwriter
+0L3oQdYUvVbsOOPJSkZ3C3,Hozier,"Wasteland, Baby!",Would That I,60,268293,False,0.521,0.526,5,-6.032,1,0.0281,0.243,0.00537,0.108,0.502,130.694,4,singer-songwriter
+3mmOZNLF9RwO85BD37j4A1,Fleurie,Say It's Over,Say It's Over,24,215520,False,0.548,0.784,2,-6.542,1,0.0267,0.00558,0.00302,0.123,0.331,97.018,4,singer-songwriter
+7D7CBnyCYkylr79Cp5TSlv,Stephen Sanchez,Hold Her While You Can,Hold Her While You Can,51,264013,False,0.502,0.718,2,-5.87,1,0.0303,0.0181,8.31e-06,0.289,0.36,89.976,4,singer-songwriter
+7eDrdQ7PK9Xm1CZCKWsgmH,Vũ.;TRANG,Một Vạn Năm,Anh Nhớ Ra (feat. TRANG),61,276500,False,0.559,0.465,10,-6.219,1,0.0241,0.524,1.07e-06,0.12,0.324,79.961,4,singer-songwriter
+6tvlaXBPNl1bu7NZsbbn9R,Karthik Rao,Operation Mbbs Season 2 (a Dice Media Original Series),Nazaare Ho,33,270171,False,0.705,0.419,2,-12.494,1,0.034,0.797,0.00313,0.0994,0.486,99.951,4,singer-songwriter
+3tspXbvwbQF4zRk6dD7pqq,Francis Karel,Another,Another,54,170132,False,0.492,0.691,2,-5.97,1,0.107,0.155,0.0,0.0869,0.557,113.106,4,singer-songwriter
+7lpmIGFw7Kc9qIdq4cGs34,Hozier,Hozier (Special Edition),Arsonist's Lullabye,60,266611,False,0.281,0.426,6,-9.07,0,0.0526,0.593,0.0446,0.124,0.181,177.714,3,singer-songwriter
+16HvU7Y8TNgVjzm987FIco,Abby Cates,Better Friends,Better Friends,58,180428,True,0.675,0.316,11,-13.154,1,0.0711,0.599,0.0,0.107,0.512,139.975,4,singer-songwriter
+52VIdyKqp1pJRSyUQaxKUA,Bread,Baby I'm-a Want You,Everything I Own,70,187000,False,0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,4,singer-songwriter
+0nHm0hPOwDYwwCbZUs0XKv,Raghav Meattle,Am I Overthinking This?,Am I Overthinking This?,34,167166,False,0.762,0.135,7,-17.362,1,0.0334,0.92,0.00058,0.115,0.435,98.034,4,singer-songwriter
+6S3JlDAGk3uu3NtZbPnuhS,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Baby Blue - Remastered 2010,67,217346,False,0.623,0.876,11,-7.788,1,0.066,0.0189,0.0134,0.0728,0.515,124.431,4,singer-songwriter
+41EwTNHRnFdK7XUI4qinEQ,Maximillian,Still Alive (Deluxe Edition),Ripples,56,195404,False,0.682,0.346,0,-9.475,1,0.0781,0.682,0.0,0.278,0.452,129.681,4,singer-songwriter
+4m20UzV2cmiPuOlRjvltuD,Brent Morgan,Everytime We Touch,Everytime We Touch,58,148888,False,0.601,0.269,8,-12.417,1,0.033,0.617,0.0,0.277,0.413,108.044,4,singer-songwriter
+1chnlLONX1BubwxEnL0fln,Madeline The Person,Hits Hits Hits,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+666yeZ1GZ4tkVK2qhPSzCL,Isak Danielson,Remember To Remember Me,Remember To Remember Me,56,172866,False,0.499,0.463,7,-6.843,0,0.0331,0.799,0.0,0.0828,0.231,95.971,4,singer-songwriter
+0RcwRKBj3hgolikstM4j1H,Madeline The Person;Noah Kahan,Mellow Electronic Pop,MEAN! - Remix,0,143957,False,0.455,0.389,7,-9.323,1,0.255,0.901,0.0,0.0947,0.449,174.444,3,singer-songwriter
+0IKFxQz9YhhnibrGnGSeUw,Little River Band,On air 70's Hits,Reminiscing - Remastered,2,253080,False,0.362,0.466,7,-11.257,1,0.0403,0.65,0.00589,0.132,0.342,189.141,4,singer-songwriter
+5tVA6TkbaAH9QMITTQRrNv,Tom Petty,Full Moon Fever,Free Fallin',77,256000,False,0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.572,84.383,4,singer-songwriter
+0yktt2FVBf1uPKzORvlXiv,Madeline The Person,Beautiful Trending Hits 2022,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+08VZ3ycsCq1LfabZjdRLg4,Nico;uChill,Slowed + Reverbed 2022,These Days - Slowed + Reverb,0,263316,False,0.255,0.131,5,-18.6,1,0.0338,0.973,0.124,0.116,0.107,74.655,4,singer-songwriter
+4OIRWMwEHR6oCU7g1QgK0n,Robert Palmer;Eric 'ET' Thorngren,Fiesta temática 80s,Addicted To Love,0,359706,False,0.669,0.81,2,-6.854,1,0.0341,0.408,8.58e-06,0.0614,0.966,111.58,4,singer-songwriter
+3D7XEL8aWSlX7ShBiZSe25,Madeline The Person,New Pop Classics,Why I Broke Up with You,0,163240,False,0.619,0.469,10,-7.387,1,0.0373,0.797,5.55e-05,0.103,0.525,77.662,4,singer-songwriter
+68IHC5WBTUoJ80F1gDoinu,Madeline The Person,Sad Girls,Why I Broke Up with You,0,163240,False,0.619,0.469,10,-7.387,1,0.0373,0.797,5.55e-05,0.103,0.525,77.662,4,singer-songwriter
+7fZiHuZ3OapgnshQ7QtxWV,Rufus Wainwright,Christmas Best Hits 2022,Hallelujah,0,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,singer-songwriter
+2TIw5PyvZZ9N3EzDveEoTi,Rufus Wainwright,All I Want For Christmas Is You,Hallelujah,0,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,singer-songwriter
+2xZEp5wiB3fdZYGE9wCDOh,Rufus Wainwright;Sharon Van Etten,Alternative Christmas 2022,"Baby, It’s Cold Outside",0,253746,False,0.249,0.25,0,-9.806,0,0.0291,0.902,0.0,0.107,0.298,73.52,4,singer-songwriter
+752n4jKSMASefgd8MpEqq5,Rufus Wainwright,Sad Covers 2022,Hallelujah,2,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,singer-songwriter
+6PrnqAkxifshpNad1rFk5t,Rufus Wainwright,Alternative Christmas 2022,Gay Messiah,0,194840,True,0.373,0.438,0,-9.214,1,0.0297,0.563,0.000109,0.355,0.411,139.331,3,singer-songwriter
+1up0F8kK6mgObzqWi9Myom,Steve Earle,Finest Country,Jerusalem,0,236186,False,0.445,0.776,2,-4.492,1,0.0346,0.00252,0.0074,0.0981,0.403,118.379,4,singer-songwriter
+3dAiWRwZXd8pEOhItkkZXb,Bachman-Turner Overdrive,Fiesta temática 70s,Hey You,0,210893,False,0.491,0.849,9,-5.188,1,0.0309,0.0526,0.0094,0.274,0.932,118.161,4,singer-songwriter
+1iIk4Q10fffmVs3WPvDfxU,Lars Winnerbäck,REGNIG DAG,Jag har väntat på ett regn,0,370946,False,0.47,0.499,1,-12.614,0,0.0367,0.123,0.288,0.109,0.267,106.41,4,singer-songwriter
+1HdCiNsQKptIsDHkKEoFHV,Boz Scaggs,Thanksgiving Party,I'm Easy,0,184786,False,0.474,0.771,10,-5.719,1,0.0571,0.115,0.0,0.0712,0.898,172.375,4,singer-songwriter
+3WBJcwnBI1eocuhkwTz8dg,Bachman-Turner Overdrive,On air 70's Hits,Takin' Care Of Business,0,291733,False,0.728,0.919,10,-5.751,1,0.0494,0.0495,0.0,0.152,0.963,130.22,4,singer-songwriter
+3L740L9Y186igjbzxz7Vfr,Sarah Cothran;Wuki,As the World Caves In (Wuki Remix),As the World Caves In - Wuki Remix,56,176640,False,0.589,0.499,7,-8.657,1,0.314,0.33,2.87e-06,0.0573,0.0385,125.133,4,singer-songwriter
+3WIR67KyQUmujJ3g1px3Fz,Ramil Ganjoo,Gulmohar,Gulmohar,33,237824,False,0.539,0.321,0,-9.687,1,0.0316,0.289,0.48,0.105,0.0981,121.02,3,singer-songwriter
+586yBRVKdA1vy3tes2wjmB,Arijit Anand,Hai Koi Khayaal,Khamoshi,24,206448,False,0.534,0.23,4,-10.371,1,0.0305,0.698,1.58e-05,0.117,0.183,164.01,4,singer-songwriter
+52Mwe2iVyOtsGEmZNCh5jy,Brent Morgan,What Dreams Are Made Of,What Dreams Are Made Of,57,148500,False,0.544,0.192,4,-13.264,1,0.0354,0.769,0.0,0.0938,0.199,114.659,4,singer-songwriter
+784GPgdhVSiPCOAFA1X3rr,Sanjeeta Bhattacharya;Dhruv Visvanath,Watercolour,Watercolour,35,224654,False,0.514,0.147,6,-16.931,1,0.0622,0.818,0.000883,0.11,0.339,179.956,3,singer-songwriter
+59tolr22QPXGEfykN5Y3lD,Caroline Dare,Heart Problem,Heart Problem,44,167507,False,0.648,0.598,0,-6.751,0,0.0623,0.154,0.000132,0.106,0.431,76.025,4,singer-songwriter
+4Hhyu2arENKbxhDrEHa8jF,Vasu Raina,Chalo,Chalo,33,237740,False,0.404,0.127,8,-17.942,1,0.0393,0.932,0.0612,0.145,0.154,118.182,4,singer-songwriter
+7LYGpt7ckc34CFWcsxwnJl,Maximillian,Ripples,Ripples,59,195404,False,0.683,0.346,0,-9.475,1,0.0785,0.682,0.0,0.278,0.457,129.682,4,singer-songwriter
+4kcnySwaXAKatz4c5U8MSI,Noah Reid,"Simply the Best (From ""Schitt's Creek"")","Simply the Best (From ""Schitt's Creek"")",53,177918,False,0.441,0.138,11,-12.136,1,0.0352,0.93,0.00023,0.105,0.119,85.492,4,singer-songwriter
+0CQqvd7bTiiRTDZzNmjifI,Bharat Chauhan,Usne Kaha Tha,Usne Kaha Tha,32,260894,True,0.527,0.296,1,-11.478,1,0.0286,0.579,0.675,0.119,0.0733,110.615,4,singer-songwriter
+7xyX8iuETDhbaKRWXRjUcB,Ankur Tewari,"Rehne Do Na (From ""Guilty"")","Rehne Do Na (From ""Guilty"")",34,191172,False,0.696,0.146,5,-24.519,1,0.0771,0.724,0.543,0.134,0.0838,145.029,3,singer-songwriter
+2E0Lr1ecydv5MjTYYM0WhN,Stephen Sanchez,Easy On My Eyes,Easy On My Eyes,53,238173,False,0.501,0.105,7,-13.042,1,0.041,0.948,0.0,0.0875,0.203,122.334,4,singer-songwriter
+3gw2Mz111daFVWm7IF0Gb7,David Kushner,Burn,Burn,65,179173,False,0.576,0.406,0,-9.723,1,0.0355,0.793,0.00276,0.151,0.129,126.123,4,singer-songwriter
+2qI0dxrLFzm5oCgjiYc265,Prateek Kuhad,cold/mess,for your time,35,186873,False,0.578,0.723,6,-5.575,1,0.036,0.0129,0.000137,0.334,0.631,130.997,4,singer-songwriter
+7rgQx9d0qj0tgRGuhq4Fca,Bharat Chauhan,Muddat - Single,Muddat,33,254216,False,0.442,0.475,0,-10.85,1,0.0266,0.234,0.00574,0.163,0.188,170.041,4,singer-songwriter
+3D8dwH690MXQRhtIZTSS9c,John Denver,John Denver's Greatest Hits,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",62,245533,False,0.406,0.188,7,-13.039,1,0.0324,0.852,0.0,0.105,0.629,120.757,4,singer-songwriter
+7qGzgOQYxfLbQGqZTiVqTl,Isak Danielson,Power,Power,60,207000,False,0.375,0.495,1,-6.892,0,0.048,0.212,1.08e-06,0.0567,0.173,115.751,4,singer-songwriter
+6oMZhY0f1ReI6AJDDYfuSb,"Peter, Paul and Mary","Peter, Paul and Mary",500 Miles,52,162933,False,0.436,0.0695,7,-19.735,1,0.0298,0.858,0.0,0.107,0.255,97.128,4,singer-songwriter
+4qs3VTYXin3xtLs8ydodQI,Keenan Te,Nothing,Nothing,48,170952,False,0.662,0.443,9,-8.842,1,0.0655,0.449,0.0,0.0885,0.482,125.74,4,singer-songwriter
+7IByJvSqRFltGyiiIiL4wn,John Mayer;Katy Perry,Paradise Valley,Who You Love (feat. Katy Perry),64,249933,False,0.694,0.351,9,-10.92,1,0.0382,0.813,0.00165,0.097,0.691,145.907,4,singer-songwriter
+3mtSPmyeEkkqvHdXj7W4qg,Lyn Lapid,I Guess That Was Goodbye,I Guess That Was Goodbye,58,190243,False,0.492,0.227,2,-10.679,1,0.0277,0.772,6.57e-05,0.106,0.229,137.697,4,singer-songwriter
+0QHST6B9xjYappSPkG6M6V,Clinton Kane,MAYBE SOMEDAY IT'LL ALL BE OK,14,62,140800,False,0.608,0.634,2,-5.65,1,0.212,0.722,0.0,0.12,0.701,104.51,4,singer-songwriter
+7cxEaBfTSWQNqYLLuJtsx7,Nam Woo-hyun,Sh**ting Stars (Original Television Soundtrack) Pt.1,Shooting Star,43,207866,False,0.485,0.69,5,-4.452,1,0.052,0.0631,0.0,0.0863,0.292,172.401,4,singer-songwriter
+3ArvrXVP9QRUmKWRqzNYjO,Zevia,we're all sad here,till death frees me,57,166312,False,0.604,0.122,10,-11.408,1,0.0676,0.917,0.0,0.114,0.135,140.451,4,singer-songwriter
+17M1JFSr2eEvo5dQnCIQim,Leo Sayer,The Show Must Go On: The Leo Sayer Anthology,More Than I Can Say - Remastered,55,222133,False,0.726,0.506,10,-12.77,1,0.0239,0.213,3.41e-05,0.332,0.72,96.5,4,singer-songwriter
+0W5JUrUOQmQbTmUOQwk7vx,Sophie Pecora,I'm in a Rut,I'm in a Rut,43,178277,False,0.836,0.601,4,-5.54,1,0.0619,0.73,0.0,0.0978,0.564,123.969,4,singer-songwriter
+6EIVLz5xM1xE29r0OmIkWt,Glen Hansard;Markéta Irglová,Music From The Motion Picture Once,Falling Slowly,64,244133,False,0.34,0.209,0,-11.869,1,0.0279,0.679,0.000443,0.101,0.151,137.042,4,singer-songwriter
+7AN15jOombgNojiAQ5IUG0,Jax,Ring Pop,Ring Pop,55,146000,False,0.644,0.224,5,-11.981,1,0.0791,0.813,0.0,0.143,0.447,180.067,3,singer-songwriter
+7sbXOV5vynnaeB7KGy0kZ5,Madeline The Person,Baddest of Them All,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+3AQozzNsKUnxw2GSn0IlRq,Madeline The Person,u don't deserve me,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+7zQs5RxMWQBVDTW9zl9CHu,Em Beihold,Numb Little Bug (Piano Version),Numb Little Bug - Piano Version,57,165320,False,0.583,0.268,11,-8.417,1,0.0617,0.757,0.0,0.0805,0.846,84.697,4,singer-songwriter
+4qyfir5Yr7nfo05g6cyFMT,Ben Howard,Every Kingdom,Promise,64,384080,False,0.367,0.189,2,-15.736,1,0.0384,0.889,0.428,0.364,0.177,156.643,4,singer-songwriter
+5xo1Gj4WTssjQgQ0w03cf2,Hozier,Hozier,Jackie And Wilson,60,223120,False,0.566,0.712,6,-4.201,1,0.0334,0.0687,1.3e-05,0.124,0.753,82.193,4,singer-songwriter
+3yrSvpt2l1xhsV9Em88Pul,Van Morrison,Blowin' Your Mind!,Brown Eyed Girl,80,183306,False,0.491,0.583,7,-10.964,1,0.0376,0.185,0.0,0.406,0.908,150.566,4,singer-songwriter
+4e3QW45iOnnFUb8DjjXhE3,Madeline The Person,I'm Blue - Hits of 2022,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+6OnVnET6zmYJzsj18wuAaf,Madeline The Person;Noah Kahan,Pop n' Fresh,MEAN! - Remix,0,143957,False,0.455,0.389,7,-9.323,1,0.255,0.901,0.0,0.0947,0.449,174.444,3,singer-songwriter
+0F7yztNdCbVgf59S7TCx4u,Madeline The Person,Hits à suivre 2022,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+5lklfOLrLueIi1xibiuRhQ,Madeline The Person;Noah Kahan,Daily Pop Mix,MEAN! - Remix,0,143957,False,0.455,0.389,7,-9.323,1,0.255,0.901,0.0,0.0947,0.449,174.444,3,singer-songwriter
+0YMJIeHuCkeZMMo7vaz8u6,Madeline The Person,US Pop 20s,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+3AhXZa8sUQht0UEdBJgpGc,Bob Dylan,Highway 61 Revisited,Like a Rolling Stone,70,369600,False,0.482,0.721,0,-6.839,1,0.0321,0.731,0.0,0.189,0.557,95.263,4,singer-songwriter
+1op5LorZ180RXgHYr3S6PH,Madeline The Person,Your Perfect Soundtrack,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+5I8uxn5rQ90r6ZiXzRx0l9,Madeline The Person,All That Really Matters - Just Hits,MEAN!,0,143957,False,0.56,0.436,7,-8.761,1,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+0RT86wBrufYQZSdN852Wjn,Hafdís Huld,Vögguvísur,Ljós,45,197137,False,0.742,0.0915,2,-13.086,1,0.0438,0.89,0.0,0.0926,0.813,146.165,3,singer-songwriter
+7C5GsD53vjiYZR7Om9WnK6,Madeline The Person,Indie Chill Out,Why I Broke Up with You,0,163240,False,0.619,0.469,10,-7.387,1,0.0373,0.797,5.55e-05,0.103,0.525,77.662,4,singer-songwriter
+0i8hZtitr0g39rmvb24KJW,Madeline The Person,Give You Love - Cozy Hits,Why I Broke Up with You,0,163240,False,0.619,0.469,10,-7.387,1,0.0373,0.797,5.55e-05,0.103,0.525,77.662,4,singer-songwriter
+77Y57qRJBvkGCUw9qs0qMg,John Mayer,The Search for Everything,In the Blood,62,243666,False,0.546,0.655,8,-6.526,1,0.0255,0.386,1.04e-05,0.0983,0.518,80.007,4,singer-songwriter
+0lWsB8RdihOrwXTNZ8shIe,The J. Geils Band,R'n'B Studying,On Borrowed Time,0,184373,False,0.511,0.42,2,-7.686,1,0.0418,0.633,0.000267,0.0417,0.405,129.544,3,singer-songwriter
+31H6au3jhblhr6MMJiXnCq,Eric Carmen,The Definitive Collection,"Hungry Eyes - From ""Dirty Dancing"" Soundtrack",74,251066,False,0.712,0.549,5,-9.484,1,0.0254,0.011,0.0,0.118,0.552,109.882,4,singer-songwriter
+2zHc7NcuFFuT6lobLAUzgp,Rufus Wainwright,Christmas Songs 2022,Hallelujah,1,249026,False,0.273,0.196,9,-7.528,0,0.0347,0.885,0.0,0.105,0.421,72.124,4,singer-songwriter
+2LxGrlboLTVvmegFyRtdP5,Sertab Erener;Can Bonomo,İyiliğe Ninniler,Fış Fış Kayıkçı,45,424029,False,0.657,0.134,0,-13.431,1,0.0357,0.986,0.0,0.114,0.119,117.838,4,singer-songwriter
+0LlTn7ZnC0Nu3lDY2cg8jL,Anson Seabra,Songs I Wrote in My Bedroom,Emerald Eyes,55,239700,False,0.477,0.0489,4,-17.039,1,0.0611,0.929,0.0,0.0686,0.356,200.082,3,singer-songwriter
+4fTn0u6zKUIjTCF0OoQ12R,Taba Chake,Bombay Dreams,No Doma Lo,32,234000,False,0.492,0.64,7,-9.152,1,0.0723,0.568,0.178,0.156,0.556,93.398,4,singer-songwriter
+3Cg9Ds1CWQUGuQoQ9QvjDl,Hayd,"Don’t Go, Don’t Leave","Don't Go, Don't Leave",54,195659,False,0.603,0.409,10,-10.567,1,0.0401,0.409,0.0392,0.111,0.282,132.041,4,singer-songwriter
+38Qvhp5yjj5uizSxVdcucY,Prateek Kuhad,In Tokens & Charms (Deluxe Edition),Go,35,231958,False,0.449,0.261,9,-11.057,1,0.0324,0.626,0.0,0.101,0.218,84.138,4,singer-songwriter
+0wnZAXlg3CPUgAKFQblzff,mehro,Dark Corners,pirate song,61,191241,False,0.497,0.401,4,-11.505,0,0.0419,0.505,0.086,0.113,0.269,179.928,3,singer-songwriter
+0wPLLfMuqG8aH8xCVAe4I9,Sanjeeta Bhattacharya;Tanmaya Bhatnagar,Itne Pyaar Se (Thoda Darr Lagta Hai),Itne Pyaar Se (Thoda Darr Lagta Hai),33,210857,False,0.531,0.133,9,-17.202,1,0.033,0.871,3.86e-05,0.234,0.277,139.578,5,singer-songwriter
+20QQAlDR9kFy2F8spu4Ns8,Osho Jain,Dheere Dheere,Dheere Dheere,34,163208,False,0.614,0.201,2,-12.598,1,0.0329,0.676,0.0,0.0832,0.165,134.186,3,singer-songwriter
+45dGKmN6jw7PgK6Dw2rEp2,Sheryl Crow,Cars (Original Motion Picture Soundtrack),Real Gone,68,200733,False,0.608,0.785,11,-5.346,0,0.0472,0.00173,0.0,0.0762,0.806,117.983,4,singer-songwriter
+2septrlQ7pS72np0xVPeHD,Anurag Vashisht,Ruk Jao Yahi,Ruk Jao Yahi,31,192026,False,0.657,0.347,2,-8.08,1,0.0357,0.622,6.57e-05,0.098,0.302,139.937,4,singer-songwriter
+1kcYfi1mkfhnJYntYSi9gb,Prateek Kuhad,Prateek Kuhad on Audiotree Live,Drown - Audiotree Live Version,34,194214,False,0.501,0.0713,4,-20.001,1,0.0554,0.95,0.00195,0.11,0.418,163.324,4,singer-songwriter
+6CRMSbYypKAf9XubEsmvkN,Sara Kays,Traffic Lights,Traffic Lights,55,204877,False,0.52,0.531,11,-7.63,1,0.0428,0.633,0.0,0.101,0.309,121.839,4,singer-songwriter
+3dvkpe9FEekxxgaQtxOHQI,Phạm Nguyên Ngọc;VAnh;Ân Nhi;BMZ,Mặt Mộc,Mặt Mộc,60,214293,False,0.599,0.727,4,-4.894,1,0.0783,0.668,2.58e-05,0.102,0.697,167.979,4,singer-songwriter
+5wvmIBkBcqg1y5kniumrQk,Prateek Kuhad,In Tokens & Charms (Deluxe Edition),Cold Shoulders,34,218269,False,0.669,0.213,10,-15.379,1,0.0398,0.778,0.0146,0.0849,0.204,129.604,3,singer-songwriter
+3p8Kv8GcO4obTLPmsS459h,Stephen Sanchez,Easy On My Eyes,Please Don't Go Home Yet,54,214040,False,0.602,0.131,0,-10.587,1,0.0324,0.85,0.0,0.0817,0.269,98.412,4,singer-songwriter
+0tnMpHtgVUrSfMOrtIhhmy,Prateek Kuhad,Raat Raazi,Voh,34,226697,False,0.68,0.715,2,-7.664,1,0.0309,0.0199,0.0984,0.0802,0.708,133.989,4,singer-songwriter
+367ziQUc9DfcL0HU6M3YQU,Anupam Roy,Autograph,Aamake Aamar Moto Thaakte Dao,36,321410,False,0.551,0.409,7,-7.203,1,0.0378,0.749,0.0,0.173,0.219,148.105,4,singer-songwriter
+0msUPIvKP3q9itQBMT4mYd,Nikhil Swaroop,Sitaron Ka Saaya - Single,Sitaron Ka Saaya,32,278000,False,0.407,0.178,9,-13.879,1,0.037,0.817,3.55e-05,0.116,0.194,155.99,3,singer-songwriter
+0PSIQAJChlJApVwEAkzkvv,Anupam Roy,Zulfiqar,Katakuti Khela (Acoustic Version),35,263296,False,0.579,0.348,0,-9.646,1,0.0569,0.661,0.0,0.171,0.0846,159.918,4,singer-songwriter
+6yaskcE6j8qsypsSxMSaeL,Ashley Kutcher,Love You More,Love You More,62,169765,False,0.365,0.257,3,-9.979,1,0.0504,0.89,0.0,0.12,0.412,172.171,4,singer-songwriter
+3eNSC9m8CukWPWdef8znPg,Stephen Sanchez,Easy On My Eyes,Mountain Peaks,54,208400,False,0.473,0.424,7,-8.144,1,0.0355,0.671,8.13e-06,0.336,0.297,118.073,4,singer-songwriter
+25VBJM8MADuhjaHRnqFrvV,Prateek Kuhad,In Tokens & Charms (Deluxe Edition),Into the Night,34,183228,False,0.847,0.489,10,-7.926,1,0.0868,0.494,0.0,0.071,0.839,120.018,4,singer-songwriter
+7Kohy4v3KLWfUXlv9N3feB,John Mayer,Room For Squares,Neon,59,262106,False,0.699,0.77,5,-7.658,0,0.036,0.0181,0.000138,0.0644,0.589,101.984,4,singer-songwriter
+5GHY1DFWKz3Prg2V0Iodqo,Sinéad O'Connor,I Do Not Want What I Haven't Got,Nothing Compares 2 U,74,280040,False,0.512,0.574,5,-7.016,1,0.0273,0.0425,2.31e-05,0.105,0.161,119.917,4,singer-songwriter
+7jIKj2JIrRNMOoCTfQRs3v,Keenan Te,Back To Us,Back To Us,57,184833,False,0.573,0.345,7,-12.237,0,0.0434,0.312,0.0,0.141,0.0829,133.738,3,singer-songwriter
+6ZV6lI92ypdfjeGgDQc5Mm,Emily Weisband,Not Afraid to Say Goodbye,The Way I Say Goodbye,48,184293,False,0.44,0.0942,5,-11.182,1,0.0365,0.933,0.0,0.104,0.388,142.388,3,singer-songwriter
+0wcEUeOslMI8dPB7QjUMiW,John Mayer,Sob Rock,All I Want Is to Be With You,59,244200,False,0.522,0.426,0,-7.445,1,0.0242,0.106,0.674,0.224,0.304,93.049,4,singer-songwriter
+3PzsbWSQdLCKDLxn7YZfkM,Bruce Springsteen,Born In The U.S.A.,I'm On Fire,74,155880,False,0.62,0.446,1,-14.451,0,0.0347,0.589,0.0299,0.0727,0.868,88.591,4,singer-songwriter
+4C4Pduzp8LfAtQXHAGQWM5,Hozier,Hozier,Sedated,55,207669,False,0.66,0.61,9,-5.161,0,0.026,0.2,1.1e-05,0.105,0.29,85.999,4,singer-songwriter
+7keXdrB4mz57u4b8YkCwag,John Mayer,Continuum,Dreaming with a Broken Heart,62,245746,False,0.61,0.349,0,-9.321,1,0.0301,0.554,0.0099,0.201,0.155,136.012,4,singer-songwriter
+30SxaBvjxjuIzl6nnDJObx,Hozier,Nina Cried Power - EP,NFWMB,53,259253,True,0.379,0.373,3,-12.176,0,0.0309,0.895,0.0718,0.115,0.352,176.002,1,singer-songwriter
+7DbiRO14pfO3Lu5RQdDhGV,Keenan Te,Passing By,Passing By,55,207771,False,0.49,0.284,11,-8.941,1,0.0397,0.489,0.0,0.107,0.151,96.327,4,singer-songwriter
+1Dvcr61hD39MAMrN65eDMe,Ankur Tewari;The Ghalat Family,Tum Badal Gaye (Gibson Sessions at Saavn Studios),Tum Badal Gaye - Gibson Sessions at Saavn Studios,34,262767,False,0.686,0.4,0,-9.326,1,0.0353,0.865,4.91e-05,0.158,0.34,139.946,3,singer-songwriter
+2Obwg8XE4sWXLpJSDlxn1r,Lauren Spencer Smith,Back to Friends,Back to Friends,68,215980,False,0.749,0.319,2,-9.946,1,0.0771,0.82,0.0,0.0993,0.216,116.828,4,singer-songwriter
+0dOg1ySSI7NkpAe89Zo0b9,Bruce Springsteen,Born In The U.S.A.,Born in the U.S.A.,74,278680,False,0.398,0.952,4,-6.042,1,0.061,0.000373,7.75e-05,0.1,0.584,122.093,4,singer-songwriter
+0HO0vfo0CKu3WeCfLZA5iM,ayaka;KOBUKURO,ALL TIME BEST 1998-2018,WINDING ROAD,44,299906,False,0.453,0.601,5,-6.33,1,0.0913,0.154,0.0,0.267,0.538,175.876,4,singer-songwriter
+4XnpqBC08oAeRor8r7hfWK,Sufjan Stevens;Australian Chamber Orchestra;Richard Tognetti,"Suite from Run Rabbit Run: I. Year of the Ox (Live from City Recital Hall, Sydney, 2019)","Suite from Run Rabbit Run: I. Year of the Ox - Arr. Michael Atkinson. Live from City Recital Hall, Sydney, 2019",28,178480,False,0.389,0.338,5,-20.26,0,0.14,0.899,0.955,0.0862,0.42,95.528,4,singer-songwriter
+4f0xBbWvKWmuB17yebh24a,John Mayer,Sob Rock,Til the Right One Comes,61,219226,False,0.807,0.563,3,-8.996,1,0.0287,0.242,0.00322,0.0488,0.925,112.985,4,singer-songwriter
+0QhzV0wGDhWvBfvTpvVL5m,Isak Danielson,Tomorrow Never Came,Face My Fears,51,224937,False,0.497,0.462,11,-8.485,1,0.0517,0.0721,0.0,0.122,0.108,137.546,4,singer-songwriter
+11D34qsYDowIcDVzJaHz1X,Jillian Rossi;Caleb Hearn,under the weather,under the weather,57,151459,False,0.514,0.512,1,-8.775,1,0.135,0.434,0.0,0.112,0.213,184.978,4,singer-songwriter
+5X4tAxxNC5XaSgcIW3xhj7,Sara Kays,Chosen Last,Chosen Last,56,226847,False,0.652,0.546,11,-6.497,1,0.0264,0.666,2.28e-06,0.112,0.264,99.03,4,singer-songwriter
+6ZYjDDBVdGpPCODBW1LK8b,Patrick Droney,Coffee Moment,On Your Way Home,0,165523,False,0.45,0.333,7,-9.522,1,0.0459,0.539,0.0,0.0843,0.582,94.436,4,singer-songwriter
+1ZzSy8HeLFZAeuQi577bhB,Hafdís Huld,Vögguvísur,Ævintýralönd,44,191332,False,0.627,0.123,0,-14.632,1,0.0298,0.918,1.14e-05,0.0997,0.351,73.551,3,singer-songwriter
+2q2cdTPrbgWSxLFFXjjaoO,Hafdís Huld,Vögguvísur,Bí bí og blaka,44,123576,False,0.602,0.0242,0,-16.589,1,0.0426,0.952,0.0,0.105,0.29,96.834,4,singer-songwriter
+6bWp6koT8nuANBLyyh20gB,Anson Seabra,Feeling For My Life,"It's Raining, It's Pouring",57,183089,False,0.598,0.444,2,-8.683,0,0.0327,0.68,1.94e-05,0.142,0.286,113.919,4,singer-songwriter
+7nzeIh8kUdieUBLPXch9wi,Hafdís Huld,Vögguvísur,Góða nótt,44,132446,False,0.797,0.175,9,-11.86,1,0.0325,0.954,0.0,0.115,0.635,99.902,3,singer-songwriter
+2lgyZWQSJWmswrLJyM27kB,Nina Nesbitt,"The Sun Will Come up, The Seasons Will Change",Is It Really Me You're Missing,58,232800,False,0.535,0.297,6,-6.043,1,0.0665,0.653,0.0,0.118,0.0492,147.569,4,singer-songwriter
+11X4Gw3T4hoktVruLgTnm1,José González,Veneer,Heartbeats,66,160240,False,0.554,0.15,3,-16.746,1,0.0338,0.974,0.735,0.0698,0.314,87.956,4,singer-songwriter
+6ydqEdlzueCGmQE2oosecr,The Little Willies,For The Good Times,For The Good Times,44,226213,False,0.424,0.161,0,-10.407,1,0.0339,0.866,0.00178,0.11,0.295,85.499,4,singer-songwriter
+47MtUiBYZmxs9bdqN62KuQ,Lars Winnerbäck,Granit och morän,Sysselmannen,44,219933,False,0.541,0.633,0,-7.218,1,0.0273,0.0884,1.47e-05,0.163,0.613,133.888,4,singer-songwriter
+2oPv5XfZvGsPD8m7oBl5aJ,The Moody Blues,Fiesta temática 60s,The Night,0,446480,False,0.132,0.42,4,-7.761,0,0.0368,0.209,0.00293,0.11,0.185,45.857,4,singer-songwriter
+4kfjA6WfgKBt7I7YKuDCkU,GANGGA,Blue Jeans,Blue Jeans,74,211483,False,0.639,0.297,7,-11.18,1,0.0334,0.938,0.0839,0.18,0.292,113.989,3,singer-songwriter
+7xLfz26gfcOPIe93h6Lxa6,Nikhil Swaroop,Nayab,Nayab,32,253344,False,0.601,0.128,8,-14.431,1,0.0429,0.902,0.000129,0.099,0.388,142.761,3,singer-songwriter
+6xEjSe0vNCKMtIs5pbVSjW,Aseem,Tu Main,Tu Main,26,216521,False,0.697,0.299,0,-11.315,1,0.0415,0.766,5.87e-05,0.364,0.338,139.898,4,singer-songwriter
+2Bu8OV53cpcpVRgx1JRYte,Tajdar Junaid,What Colour Is Your Raindrop,Dastaan,34,207363,False,0.466,0.235,9,-14.421,0,0.0721,0.503,0.338,0.0648,0.184,159.94,4,singer-songwriter
+6wZI4mdT8JwXgkGURnBQiq,John Mayer,Say,Say,61,230213,False,0.485,0.723,10,-6.565,1,0.0317,0.541,1.12e-06,0.075,0.541,167.845,4,singer-songwriter
+2jlPMNMojBNtGZTnSuXItA,Prateek Kuhad,Prateek Kuhad,Something Wrong,33,208413,False,0.564,0.384,9,-8.651,1,0.0289,0.729,1.76e-06,0.185,0.188,90.123,4,singer-songwriter
+1B4KDy5VAXxR8FayLvWlJu,mehro;AWAY,like you're god (AWAY Remix),like you're god (AWAY Remix),47,185142,False,0.663,0.446,11,-8.009,0,0.348,0.288,0.00524,0.324,0.221,139.6,3,singer-songwriter
+63nlJMaoiGYK6jnPzBr7UV,Osho Jain,Uljhe Hue (Original Motion Picture Soundtrack),Uljhe Hue (Raw),33,86000,False,0.434,0.0658,5,-14.271,1,0.0429,0.901,0.0,0.351,0.286,104.835,3,singer-songwriter
+7stZJTWRT1NBF2PbPM1gag,Juliette Reilly,Wrong Ones,Wrong Ones,33,177188,True,0.828,0.356,0,-9.048,1,0.154,0.218,2.14e-05,0.317,0.561,99.03,4,singer-songwriter
+2AEjVbLUDn3knYqIyxbsjI,Arijit Anand,Hai Koi Khayaal,Taare,5,179190,False,0.428,0.146,4,-14.043,0,0.0351,0.867,0.0,0.116,0.227,124.588,4,singer-songwriter
+3iewNLhxQyJXdYVYFKj86Y,Prateek Kuhad,Prateek Kuhad on Audiotree Live,cold / mess - Audiotree Live Version,33,260424,False,0.5,0.0981,10,-13.88,1,0.0412,0.926,0.000938,0.115,0.324,148.376,3,singer-songwriter
+4LK7Zr5pHt6vGr54Ut38su,Prateek Kuhad,Raat Raazi - Single,Raat Raazi,33,286956,False,0.481,0.254,4,-10.642,1,0.0307,0.756,0.372,0.103,0.138,105.418,4,singer-songwriter
+1mEDRi6QFAASefQpHUxajr,Arijit Anand,Hai Koi Khayaal,Hai Koi Khayaal,7,186538,False,0.37,0.158,2,-13.782,0,0.0347,0.886,0.0,0.249,0.545,124.804,3,singer-songwriter
+43qaPyDc2LJFpS334U4B5M,Keenan Te,Halfway There,Halfway There,52,182033,False,0.701,0.383,4,-10.002,1,0.059,0.674,0.0,0.112,0.317,117.982,4,singer-songwriter
+6cQ8IRL1UQR11v4wD4wjo8,Camylio,monsters,monsters,67,173733,False,0.546,0.599,11,-7.231,1,0.0484,0.322,0.0,0.158,0.379,78.037,4,singer-songwriter
+0t9OqmA9tMhVuwIMyjvsN6,kate gill,ken&barbie,ken&barbie,56,251904,True,0.678,0.302,0,-6.514,1,0.0534,0.902,0.0,0.106,0.709,132.617,4,singer-songwriter
+1PSApwa7RAChj2fX2FJrYy,Vismay Patel,Dil Mera (Acoustic Version),Dil Mera - Acoustic Version,33,221250,False,0.451,0.178,9,-11.846,1,0.0303,0.918,0.0,0.107,0.689,159.615,4,singer-songwriter
+4GbwoZj04YWasx5DuEyHEI,Di Ma,電視劇《以家人之名》原聲帶,無畏 (電視劇《以家人之名》片頭主題曲),45,185263,False,0.534,0.317,11,-9.18,0,0.0276,0.787,0.000723,0.0904,0.114,144.001,4,singer-songwriter
+1BXMNiVBXno1YbtQzeVMxG,Mijo,2009,2009,43,131702,False,0.446,0.685,1,-4.944,1,0.396,0.147,0.0,0.235,0.45,194.82,4,singer-songwriter
+42ZSEXG0TtHAHbWOho7GDS,Sam MacPherson,How Do You Dress for the Rain?,How Do You Dress for the Rain?,58,160533,False,0.605,0.311,10,-12.105,1,0.0813,0.787,4.86e-05,0.113,0.165,149.794,4,singer-songwriter
+7iKkBgyipYWWQuemhe8Fr6,Ashley Kutcher,Emotionless,Emotionless,59,136480,False,0.374,0.45,11,-8.185,1,0.0807,0.0927,0.0,0.337,0.306,182.117,3,singer-songwriter
+2eVDxPgGKdLf3qSIvhCmJB,Sophie Pecora,I'm Fine,I'm Fine,41,171991,False,0.792,0.588,11,-6.58,1,0.131,0.348,0.0,0.207,0.775,90.096,4,singer-songwriter
+7ymdNx2cNrYVcue5vDvXmF,Silence Wang;BY2,万有引力,有点甜,60,235200,False,0.696,0.587,4,-6.801,1,0.0353,0.678,0.0,0.102,0.422,104.984,4,singer-songwriter
+3hwjxbqGvTRUPi38fLgeM7,John Mayer,Sob Rock,Why You No Love Me,60,255213,False,0.635,0.562,9,-7.315,1,0.0223,0.387,0.000366,0.113,0.501,97.988,4,singer-songwriter
+1c7UYTut2SBOPq64o2t0uN,John Mayer,Room For Squares,Why Georgia,64,268973,False,0.608,0.639,7,-7.205,1,0.0246,0.0208,5.94e-05,0.0893,0.369,96.915,4,singer-songwriter
+2kkvB3RNRzwjFdGhaUA0tz,Derek & The Dominos,Layla And Other Assorted Love Songs (Remastered 2010),Layla,74,423840,False,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,4,singer-songwriter
+0nWhWuaLLCcJS0D19np9Cb,Sara Kays,Backseat Rider,Backseat Rider,56,208090,False,0.569,0.538,2,-9.003,1,0.0323,0.593,0.0,0.23,0.552,104.05,4,singer-songwriter
+0bgP0aKOxvdFxB2EfDrulY,Hozier,"Wasteland, Baby!",Sunlight,55,257346,False,0.464,0.559,7,-4.209,0,0.0287,0.368,0.000176,0.106,0.368,115.349,4,singer-songwriter
+4aYMKMpoKrFBgo3TTIYT2Z,Payung Teduh;Orkes Panawijen,Diam,Diam,44,247000,False,0.73,0.396,0,-7.382,1,0.0277,0.657,0.000447,0.297,0.681,89.98,4,singer-songwriter
+3RkQ3UwOyPqpIiIvGVewuU,Bob Dylan,Bringing It All Back Home,Mr. Tambourine Man,64,330533,False,0.39,0.31,5,-14.545,1,0.0676,0.794,0.0,0.379,0.584,177.515,4,singer-songwriter
+1E5Zumas0loctbiUN2whpi,Sera Savaş,Kiraz,Anlatsam Anlatamam,43,138165,False,0.605,0.402,8,-13.79,1,0.293,0.448,0.0,0.133,0.781,115.321,4,singer-songwriter
+7boKWlaNVmrhJdX8IbzUdD,Chicago,"The Best of Chicago, 40th Anniversary Edition",Hard to Say I'm Sorry - 2007 Remaster,67,223280,False,0.551,0.416,4,-7.94,1,0.0274,0.648,2.26e-06,0.312,0.255,72.174,4,singer-songwriter
+1LWueNjZGJrO3BFgcPZEqU,Catie Turner,Mellow Adult Pop,Home,0,207836,False,0.361,0.177,11,-12.023,0,0.0346,0.927,0.0,0.0911,0.32,113.36,4,singer-songwriter
+1Auq9Y77qiEMohVa8mVBAm,Catie Turner,Sad Girls,Home,0,207836,False,0.361,0.177,11,-12.023,0,0.0346,0.927,0.0,0.0911,0.32,113.36,4,singer-songwriter
+38zwkK6TtTjIW9tpYBfZ3D,George Ezra,Staying at Tamara's,Paradise,69,222044,False,0.642,0.881,11,-3.537,1,0.0393,0.209,0.0,0.21,0.913,138.03,4,singer-songwriter
+0drELAs03gcKSI0V3TKKlw,Catie Turner,US Pop 20s,God Must Hate Me,0,149802,False,0.459,0.304,2,-10.107,1,0.136,0.967,1.95e-05,0.0951,0.072,76.954,3,singer-songwriter
+6Ij4PNz5azZPUB1JXERfqq,Joan Osborne,90's Music Grandi Successi,One Of Us,0,318613,False,0.223,0.557,9,-5.133,1,0.0332,0.0233,1e-06,0.149,0.335,175.926,4,singer-songwriter
+51J0zLsmKb265vmylOJGMr,Hafdís Huld,Vögguvísur,Sofðu,44,193282,False,0.684,0.117,2,-12.232,0,0.0349,0.935,0.0,0.0762,0.671,125.928,3,singer-songwriter
+4YGhDHkR1cJAfpjLHK7uz4,Foy Vance;Anderson East,Coffee Moment,Sapling,0,193466,False,0.549,0.631,10,-6.644,0,0.071,0.336,2.03e-05,0.1,0.297,135.032,4,singer-songwriter
+379HUTMiphNA5RO5VVjEV4,Catie Turner,Relaxing Pop,God Must Hate Me,1,149802,False,0.459,0.304,2,-10.107,1,0.136,0.967,1.95e-05,0.0951,0.072,76.954,3,singer-songwriter
+3Jslv9Zm593bZHzoYYOzCP,Foy Vance,Human - Best Adult Pop Tunes,She Burns,0,229226,False,0.73,0.403,4,-10.146,1,0.0483,0.718,0.00225,0.0985,0.502,124.899,4,singer-songwriter
+3xH1MeYpJWj2vQqafgbMrc,Foy Vance;Anderson East,Human - Best Adult Pop Tunes,Sapling,0,193466,False,0.549,0.631,10,-6.644,0,0.071,0.336,2.03e-05,0.1,0.297,135.032,4,singer-songwriter
+5iThumrwP9a0zMWB1ZDRF5,Foy Vance,Good Enough - Easy Pop,Coco,0,150613,False,0.65,0.282,11,-14.003,1,0.123,0.785,0.00106,0.081,0.641,81.223,4,singer-songwriter
+6j687kbcAKfXiF5ebaFpeg,Catie Turner,Tek It - New Noise,Nothing,0,174552,False,0.512,0.77,7,-5.796,1,0.0368,0.001,0.0,0.118,0.551,87.856,4,singer-songwriter
+5TBNZCGMR1NJtJrrg606m0,Hafdís Huld,Vögguvísur,Nóttin læðist inn,44,182090,False,0.716,0.124,0,-12.602,1,0.0394,0.926,0.0,0.103,0.496,120.015,4,singer-songwriter
+3LP5YM7IMwmffWXPE1VBf1,Hafdís Huld,Vögguvísur,Sólskin,44,99752,False,0.747,0.149,0,-11.752,1,0.0324,0.92,0.0,0.105,0.606,85.049,4,singer-songwriter
+4jjUMXhlTpjs3quiga1Vc5,Catie Turner,Here to Forever - All New Indie,Nothing,0,174552,False,0.512,0.77,7,-5.796,1,0.0368,0.001,0.0,0.118,0.551,87.856,4,singer-songwriter
+7ogigweSsNAvKdzxIhahoE,Foy Vance,Feeling Good - Adult Pop Favorites,Coco,0,150613,False,0.65,0.282,11,-14.003,1,0.123,0.785,0.00106,0.081,0.641,81.223,4,singer-songwriter
+2Ey6v4Sekh3Z0RUSISRosD,Derek & The Dominos,70s Christmas Party,Layla,0,423680,False,0.459,0.89,1,-3.246,1,0.0487,0.451,0.11,0.306,0.447,115.654,4,singer-songwriter
+1sgn8wmK2kuJrF9ppsnH2F,Hafdís Huld,Vögguvísur,Frost er úti fuglinn minn,44,125852,False,0.504,0.118,9,-13.917,1,0.0392,0.937,0.0,0.0619,0.6,113.507,3,singer-songwriter
+2Xb6wJYGi0QXwURw5WWvI5,Gerry Rafferty,City to City,Right Down the Line,74,267773,False,0.783,0.322,0,-15.091,1,0.0343,0.213,0.00243,0.114,0.77,128.226,4,singer-songwriter
+0U32q8CZRRo7xCzyiaZw5f,Motohiro Hata,言ノ葉,Rain,58,293040,False,0.626,0.655,9,-6.69,1,0.0263,0.503,0.0,0.13,0.542,92.003,4,singer-songwriter
+4IX0NlPL5ydiD1jcuT9A3N,Danny Ke Dose,Main Tujhse Hoon,Main Tujhse Hoon,31,195238,False,0.742,0.305,2,-11.837,1,0.0346,0.698,5.33e-06,0.12,0.347,125.819,4,singer-songwriter
+4hv9mEWi4911k1uhU4fPEH,Ufuk Beydemir,Sevda Gibi,Ay Tenli Kadın,67,197967,False,0.533,0.541,6,-7.854,1,0.0252,0.217,4.39e-06,0.11,0.335,144.135,4,singer-songwriter
+5RjOdVrGkXEo1hEaAlHgq4,Prateek Kuhad,Prateek Kuhad,A Shot of Alcohol,33,168586,False,0.647,0.447,4,-9.886,1,0.0302,0.667,0.0859,0.107,0.662,90.013,4,singer-songwriter
+73VaI8jZxHiqlR1yq899qe,Amartya Bobo Rahut,Chup Chup,Chup Chup,30,247200,False,0.519,0.418,11,-7.984,1,0.0264,0.93,0.00152,0.129,0.259,149.836,3,singer-songwriter
+4w18QmkrEx6IWAawhyqNBO,Ramil Ganjoo,"Tu Na Jaane (From ""Gulmohar"")","Tu Na Jaane - From ""Gulmohar""",31,238030,False,0.594,0.584,9,-7.667,1,0.0304,0.0914,0.00262,0.0791,0.544,137.968,4,singer-songwriter
+5eBZPQjBjCRXKsu9DnfS21,Ben Kessler;Lizzy McAlpine,False Art,False Art,52,183454,True,0.588,0.402,2,-11.551,1,0.172,0.668,6.77e-06,0.33,0.267,91.257,4,singer-songwriter
+4IJ0HqH6A4LpY5WRsijCHe,Tajdar Junaid,What Colour Is Your Raindrop,What Colour Is Your Raindrop,33,186019,False,0.629,0.102,5,-15.831,1,0.0394,0.72,0.574,0.131,0.14,128.311,4,singer-songwriter
+0qfLPsET328ykxctRCU5JB,Prateek Kuhad,In Tokens & Charms,Artist,33,233464,False,0.423,0.182,4,-13.935,1,0.0478,0.974,0.00107,0.184,0.139,139.033,3,singer-songwriter
+6cx5CvFhqN19efStehJqoW,Laufey,Everything I Know About Love,Valentine,63,168906,False,0.472,0.204,3,-13.065,1,0.0452,0.917,0.0,0.107,0.224,82.51,4,singer-songwriter
+41SIHXoItJqYfl8B8klTrb,Prateek Kuhad,In Tokens & Charms,Held You Tight,33,205918,False,0.675,0.54,1,-11.309,1,0.0503,0.00697,0.00529,0.231,0.562,119.997,4,singer-songwriter
+0uqFo6F9DppKZtwm3zhG3s,Luz,the author,the author,63,217213,False,0.354,0.264,0,-12.571,1,0.0544,0.832,0.0,0.11,0.227,80.567,4,singer-songwriter
+3tCexBo7fH5BspYwQ0mr1g,Anupam Roy,Ghare & Baire (Original Motion Picture Soundtrack),Tui Ki Kore Dili,33,198350,False,0.762,0.511,10,-9.448,1,0.0307,0.534,0.0,0.232,0.755,115.895,4,singer-songwriter
+28Obqqr7EtnSNul1TJiQcX,Delaney Bailey,Oh Love,Oh Love,54,164666,False,0.539,0.319,8,-14.928,1,0.0283,0.845,3.6e-05,0.112,0.563,148.103,4,singer-songwriter
+2RFt6ZWQbr9mPhsft9u9eX,Gabrielle Aplin;JP Cooper,Dear Happy,Losing Me,61,181760,False,0.66,0.407,7,-8.381,1,0.0571,0.236,0.0,0.109,0.257,133.86,4,singer-songwriter
+6MY1xABxoZATrEr4FeUhEM,Damien Rice,O,Delicate,56,312066,False,0.34,0.144,5,-14.502,1,0.0419,0.684,0.00112,0.101,0.147,81.179,4,singer-songwriter
+4YWeZa7AfJArkijVVq8ayc,Raghav Meattle,Unicorn And The Sheep,Unicorn and the Sheep,32,151531,False,0.646,0.21,1,-16.234,1,0.0492,0.747,0.000212,0.111,0.47,118.498,4,singer-songwriter
+3h8k8SEZeQX5nVbn94pevh,Anurag Vashisht;Dj Ruchir,Taare 2.O,Taare 2.O,31,232173,False,0.615,0.441,4,-9.684,1,0.024,0.708,0.0,0.0883,0.221,92.059,4,singer-songwriter
+1Wvph9sXg6DRI0sVj0xsoy,Karthik Rao;Noxious D,Cubicles (A TVF Original Series Soundtrack),Pal Wahi Hai,31,272125,False,0.751,0.623,2,-9.098,1,0.0681,0.618,0.00258,0.139,0.509,97.956,4,singer-songwriter
+2Gd7x92yhLBkK29XenAjjX,Akanksha Sethi,Thoda Sa Theher,Thoda Sa Theher,31,205714,False,0.684,0.181,1,-13.823,1,0.0346,0.852,1.12e-06,0.0985,0.325,140.038,4,singer-songwriter
+6r9Ice11we6LCIRKtq9SWc,Anupam Roy,Brishti Theme Gele,Brishti Theme Gele,33,227456,False,0.751,0.595,0,-5.649,1,0.0361,0.309,0.0,0.0899,0.34,119.967,4,singer-songwriter
+2DSKwJ3F6t6ekpooGQN7Vg,Han Hee Jung,Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack),Dream,41,242400,False,0.501,0.452,2,-7.297,1,0.0241,0.161,0.00019,0.0809,0.191,145.937,3,singer-songwriter
+3ieLey98V9mIIh3W9gBlPF,George Ezra,Wanted on Voyage (Expanded Edition),Barcelona,67,188960,False,0.629,0.572,5,-9.332,1,0.0307,0.32,0.000853,0.109,0.182,93.997,4,singer-songwriter
+6M002ndc2zIK6s6imEd2QM,Anupam Roy;Iman Chakraborty,Dwitiyo Purush (Original Motion Picture Soundtrack,Je Kawta Din Reprise(Male),33,326040,False,0.687,0.191,7,-12.151,1,0.0306,0.926,0.00055,0.1,0.371,106.029,4,singer-songwriter
+12homE4JpBey5cckgoepR7,Sufjan Stevens,Seven Swans,To Be Alone With You,61,168040,False,0.519,0.163,0,-18.131,0,0.0489,0.926,0.751,0.115,0.356,142.119,4,singer-songwriter
+49MHCPzvMLXhRjDantBMVH,Billy Joel,The Stranger (Legacy Edition),Just the Way You Are,71,290573,False,0.589,0.453,7,-8.912,1,0.0397,0.703,2.54e-05,0.134,0.513,139.148,4,singer-songwriter
+0ZNYGrmcehorhh9JOeg5Iv,José González,Stay Alive (From The Secret Life Of Walter Mitty),Stay Alive,67,266906,False,0.714,0.306,6,-12.111,1,0.0388,0.726,0.168,0.0924,0.314,129.984,4,singer-songwriter
+5zb7npjQqoJ7Kcpq4yD9qn,Leonard Cohen,You Want It Darker,You Want It Darker,62,284373,False,0.674,0.327,4,-16.986,0,0.0574,0.613,0.199,0.0756,0.494,108.995,4,singer-songwriter
+2LhaQUFez282XCuTDSTDcV,Vũ.,Một Vạn Năm,Cô Ta,60,214500,False,0.398,0.377,9,-7.564,1,0.027,0.737,0.00016,0.136,0.215,145.909,4,singer-songwriter
+5EKZ2wb7RIk5Q8X1ZegaQX,Wu Bai,秋日思念絮語,夢醒時分,8,226226,False,0.591,0.619,2,-6.856,1,0.0278,0.015,0.0,0.318,0.567,132.151,4,singer-songwriter
+6Zyz8lsnMFpIrCTuvGurCB,Eagles,Hotel California (2013 Remaster),New Kid in Town - 2013 Remaster,67,304925,False,0.649,0.425,4,-9.811,1,0.0267,0.378,0.0013,0.108,0.651,107.383,4,singer-songwriter
+5jo7iW8CAGWWTrImvn8Ynh,Wu Bai,秋日思念絮語,深秋的祝褔,0,297746,False,0.556,0.448,2,-9.131,0,0.0314,0.884,0.276,0.126,0.338,80.754,4,singer-songwriter
+5EOoMWIB9iK4ZpcSex9Ec7,Bob Seger,Stranger In Town,Old Time Rock & Roll,74,194146,False,0.714,0.937,6,-2.947,1,0.0399,0.206,0.0,0.0731,0.964,124.13,4,singer-songwriter
+36hTKOgo5Ra03y0GlpJPd3,Burcu Güneş,Tılsım,Yansın Geceler,43,289400,False,0.29,0.712,4,-5.56,0,0.0478,0.413,0.0,0.112,0.287,169.288,4,singer-songwriter
+2TjnCxxQRYn56Ye8gkUKiW,Eagles,Desperado (2013 Remaster),Desperado - 2013 Remaster,68,213712,False,0.228,0.224,7,-12.749,1,0.0311,0.946,0.000222,0.273,0.18,60.3,4,singer-songwriter
+5p9XWUdvbUzmPCukOmwoU3,KT Tunstall,Eye To The Telescope,Suddenly I See,73,201706,False,0.587,0.767,0,-5.713,1,0.0449,0.225,0.0,0.112,0.664,100.38,4,singer-songwriter
+0Ocfpe2DnofuAd0nh80xwj,Maximillian,Still Alive (Deluxe Edition),Beautiful Scars - Acoustic / Bonus Track,59,158069,False,0.803,0.309,6,-8.325,1,0.0401,0.855,0.0,0.105,0.733,132.826,4,singer-songwriter
+4xEaMLHW5nX3IeMBKZsUqA,Foy Vance,20's Rock,Thank You for Asking - Acoustic,0,151375,False,0.625,0.0717,9,-15.101,1,0.0571,0.932,0.0,0.125,0.406,101.189,4,singer-songwriter
+3tstzyYuJkzEta9X7vgXXp,Catie Turner,Give You Love - Cozy Hits,Breathe,0,157867,True,0.758,0.664,7,-7.436,1,0.157,0.377,5.1e-06,0.219,0.308,146.968,4,singer-songwriter
+5djhdzQMGAOIoIIpvZYpkT,Catie Turner,Refresh - Pop To Cool Down,Prom Queen,0,240508,False,0.487,0.184,0,-10.405,1,0.0377,0.634,0.0,0.15,0.274,112.365,4,singer-songwriter
+2nekCvC9XRXQckWNnkIp2l,Neil Young,"Eat, Pray, Love",Harvest Moon,68,299106,False,0.645,0.321,2,-12.15,1,0.0263,0.521,0.000186,0.129,0.427,112.938,4,singer-songwriter
+6B53kQ2sKg3D2b0IPIoNbN,Rasmus Hagen;Nora Andersson,Love & Hurt,Closer To You,64,205806,False,0.638,0.46,7,-11.175,1,0.0479,0.307,3.84e-05,0.411,0.286,88.032,4,singer-songwriter
+4L2YTRue209DULWTvKZtRh,Foy Vance,rainy day indie,Thank You for Asking - Acoustic,0,151375,False,0.625,0.0717,9,-15.101,1,0.0571,0.932,0.0,0.125,0.406,101.189,4,singer-songwriter
+5AbfOKYiI5nuuUsyVeTQs9,Catie Turner,All Out Alternative,Nothing,0,174552,False,0.512,0.77,7,-5.796,1,0.0368,0.001,0.0,0.118,0.551,87.856,4,singer-songwriter
+6xsUlQIjfduRdQt88yekZ5,Hafdís Huld,Vögguvísur,Þú ert,43,135325,False,0.581,0.19,7,-13.84,1,0.031,0.828,2.57e-05,0.151,0.298,78.347,4,singer-songwriter
+2yNGARwYc253fKGIy0CoyO,The Wailin' Jennys,40 Days,Old Man,44,191360,False,0.699,0.138,10,-13.479,1,0.0318,0.864,8.79e-06,0.116,0.287,80.505,4,singer-songwriter
+5BI1XqMJK91dsEq0Bfe0Ov,Peter Frampton,On air 70's Hits,Show Me The Way,0,243266,False,0.7,0.726,2,-7.717,1,0.0329,0.436,1.11e-06,0.0914,0.64,130.11,4,singer-songwriter
+3njFQqu9rj8B06TSCDAahy,"Peter, Paul and Mary",Supa Chill,Forever Young,0,384293,False,0.62,0.378,1,-15.85,0,0.0638,0.352,0.00161,0.0755,0.767,73.813,4,singer-songwriter
+0wEo4mwfs6tXYgCem9m9wP,Yusuf / Cat Stevens,Teaser And The Firecat (Remastered 2021),The Wind - Remastered 2021,67,102986,False,0.765,0.291,2,-14.456,1,0.0397,0.787,0.000446,0.149,0.806,115.751,4,singer-songwriter
+1y70WO9Cg5Hys3tj9ehvls,Bawari Basanti;Ejaz Hussain;Mohit Lal;Abhishek Lal,Kya Bolein,Kya Bolein,31,244000,False,0.362,0.113,0,-18.976,1,0.0348,0.628,0.0,0.068,0.198,100.066,4,singer-songwriter
+0KpiiWS4yj7V4xkVDfYU7o,Anupam Roy;Anindya Chatterjee,Baishe Srabon,Je Kawta Din - Male,34,245786,False,0.625,0.44,2,-9.097,1,0.038,0.769,0.0,0.181,0.592,134.796,4,singer-songwriter
+3xhvRrV8fhYDi2LCD0Xice,Neyhal;Karan Malhotra,Mere Tum,Mere Tum,29,178176,False,0.356,0.236,8,-10.32,1,0.0332,0.342,0.0,0.139,0.152,75.458,4,singer-songwriter
+4B9LVU9KVJ0QZfOrBxGAHU,Prateek Kuhad,cold/mess (on piano),cold/mess (on piano),33,306542,False,0.558,0.218,11,-9.23,1,0.0377,0.932,0.00477,0.102,0.302,143.866,3,singer-songwriter
+5QQDz4QWjzRUPqal4qLKol,Tanmaya Bhatnagar,Sapne,Sapne,30,222743,False,0.413,0.101,0,-18.384,1,0.0459,0.819,0.00349,0.116,0.148,144.167,3,singer-songwriter
+1Qdw8KCUZzWA1dmVznO3GQ,Neyhal,Sukoon,Sukoon,30,237473,False,0.494,0.528,7,-9.484,1,0.0294,0.593,0.000652,0.108,0.607,89.913,4,singer-songwriter
+1leddRslEbv86BJKHd7BOb,Anupam Roy,Bone Jodi Phutlo Kusum,Bone Jodi Phutlo Kusum,33,242117,False,0.276,0.334,2,-9.968,1,0.0313,0.652,1e-05,0.113,0.206,202.728,4,singer-songwriter
+12n9WBfLII5EdQFzQiQFqv,Choi Yuree,"Hometown Cha-Cha-Cha, Pt. 4 (Original Television Soundtrack)",Wish,57,237426,False,0.582,0.137,1,-13.044,1,0.0332,0.953,0.000171,0.0898,0.265,113.979,3,singer-songwriter
+6hkLuLZ3x5hb5Vr3mbScZF,Neyhal,Lamhe Zaroori,Lamhe Zaroori,30,164518,False,0.638,0.658,10,-8.468,1,0.0278,0.575,0.0148,0.109,0.586,100.04,4,singer-songwriter
+55XRXhQeU25IwqVpjQqxkz,Clinton Kane,GO TO HELL,GO TO HELL,62,183786,True,0.494,0.749,2,-3.309,1,0.185,0.24,0.0,0.126,0.271,180.228,4,singer-songwriter
+13u4qQ9xi2DFUUZY5yRVkN,Raghav Chaitanya;Anurag Saikia,Dooriyan,Dooriyan,30,271063,False,0.464,0.59,1,-5.906,1,0.0284,0.478,3.64e-05,0.125,0.464,66.628,4,singer-songwriter
+6HoxQTzbgOilzBMZEYqGw4,Anupam Roy;Rupankar Bagchi,Uma,Jaago Uma,33,317081,False,0.274,0.605,2,-6.592,1,0.0393,0.712,0.0,0.077,0.206,167.276,4,singer-songwriter
+0j2WBxWZnWti5TpSxjJvPb,John Mayer,Love on the Weekend,Love on the Weekend,61,212626,False,0.729,0.546,7,-9.305,1,0.0285,0.547,0.00287,0.0651,0.406,119.941,4,singer-songwriter
+78vv48Ic6syaE6kWqDGY47,Catie Turner,i luv him.,i luv him.,59,225823,False,0.647,0.176,0,-9.501,1,0.0751,0.854,0.0,0.199,0.441,122.795,4,singer-songwriter
+2hl92ACiOqUBNdnEZzO0NE,Chris Lanzon,Far From Perfect,Iris,60,172922,False,0.491,0.201,11,-15.469,1,0.0372,0.609,0.0,0.124,0.388,95.666,4,singer-songwriter
+2FpzO4dqbCUPtZUQDjcLL3,Gloria Laing,Why Can't I Have You,Why Can't I Have You,58,285209,False,0.827,0.195,7,-17.651,1,0.0638,0.662,0.141,0.0987,0.229,137.966,4,singer-songwriter
+7aPTbv8pvxyqSK2LSHPy7y,Prateek Kuhad,In Tokens & Charms (Deluxe Edition),Flames,32,256781,False,0.395,0.494,6,-6.991,1,0.0287,0.817,0.0568,0.0965,0.375,105.033,4,singer-songwriter
+5ChTVNcSgb3sC6qCuhDE0M,Gatton,Other's Melodies - Demo,Other's Melodies - Demo,51,114193,False,0.555,0.114,2,-11.701,1,0.0696,0.967,2.94e-06,0.262,0.293,48.935,3,singer-songwriter
+5b6enCVP67LsqqrfTs6rxr,Mimi Webb,Goodbye,Goodbye,66,184167,False,0.5,0.373,0,-6.191,1,0.0335,0.602,0.0,0.137,0.158,118.943,4,singer-songwriter
+2q3LzfknBzye3xXjgiJBjS,Gatton;Brooke Young,...When Scars Become Art,When Scars Become Art,67,287560,False,0.524,0.114,11,-17.027,1,0.0507,0.929,0.0,0.917,0.314,119.818,4,singer-songwriter
+2VklnFamAoZ1b9a5Ljn6Br,Taba Chake,Bond with Nature,Morning Sun,32,229240,False,0.773,0.439,9,-17.062,1,0.0523,0.582,0.00394,0.0846,0.571,100.022,4,singer-songwriter
+1FzXRK8g8TxVdL8UjSWaRC,Delaney Bailey,Finish Line,Finish Line,62,158048,False,0.488,0.175,2,-16.332,1,0.0334,0.655,0.0111,0.33,0.192,109.192,5,singer-songwriter
+3wgNhWuV5gkcEkTgMBNcoA,Bryan Adams,18 Til I Die,Let's Make A Night To Remember,54,378906,False,0.469,0.621,0,-6.763,1,0.0253,0.205,0.000776,0.135,0.395,175.906,4,singer-songwriter
+29bXfCo3mQVzohwPJXohaU,Hozier,"Wasteland, Baby!",Talk,54,206546,False,0.397,0.538,2,-6.503,0,0.0339,0.179,0.148,0.113,0.247,154.342,4,singer-songwriter
+0KMGxYKeUzK9wc5DZCt3HT,Chicago,Chicago X,If You Leave Me Now,74,235373,False,0.434,0.563,11,-6.784,1,0.0268,0.0197,0.000824,0.128,0.275,104.183,4,singer-songwriter
+2QCwowUTpIgznUBCKW1CT6,Keenan Te,Nothing,Halfway There,36,182033,False,0.701,0.383,4,-10.002,1,0.059,0.674,0.0,0.112,0.317,117.982,4,singer-songwriter
+3rMbh1zLsh91EcNgu7KuPy,Anson Seabra,One Day Less,One Day Less,55,207034,False,0.446,0.287,6,-9.367,1,0.0533,0.899,0.0,0.102,0.252,176.829,3,singer-songwriter
+1w3eUC89GPspKpi62tPwjt,Hoàng Dũng,25,Nàng Thơ,58,254476,False,0.518,0.403,0,-8.311,1,0.0326,0.818,1.7e-06,0.146,0.194,122.967,4,singer-songwriter
+2vzMWO0T008m86yDnXwkII,George Ezra,Wanted on Voyage (Expanded Edition),Blame It on Me,68,196400,False,0.537,0.757,3,-3.374,1,0.0274,0.473,0.0,0.341,0.421,103.882,4,singer-songwriter
+4cAp9fEdhzLVYEgd7MnV1D,Suzan Hacigarip,Şimdi Biraz Uyu,Şimdi Biraz Uyu,42,194538,False,0.705,0.393,0,-15.107,0,0.035,0.295,0.00559,0.354,0.459,129.99,4,singer-songwriter
+5Bti0azlFhMattVY76qFr9,Vũ.,Lạ Lùng,Lạ Lùng,58,261616,False,0.617,0.212,0,-9.856,1,0.0334,0.958,0.00157,0.131,0.219,126.579,4,singer-songwriter
+4pbMu6fRhg9mEZcHaO4NNo,Kaan Tangöze,Gölge Etme,Bir Kız Bana Emmi Dedi,42,151219,False,0.402,0.213,2,-13.662,0,0.0392,0.91,3.88e-05,0.357,0.146,145.91,4,singer-songwriter
+73fFRs03s0gtjggfMW213L,TRANG;Khoa Vũ,Chỉ Có Thể Là Anh,Ngã Tư Không Đèn,62,218250,False,0.848,0.432,0,-10.262,0,0.0385,0.761,2.5e-05,0.149,0.656,120.0,4,singer-songwriter
+608xszaAxVh4m7NcKJiAbF,Eagles,One of These Nights (2013 Remaster),One of These Nights - 2013 Remaster,71,291685,False,0.655,0.606,7,-10.385,1,0.0285,0.0603,0.0789,0.0757,0.765,110.061,4,singer-songwriter
+5FPnjikbwlDMULCCCa6ZCJ,John Mayer,Heavier Things,Daughters,67,237906,False,0.674,0.413,2,-7.816,1,0.0274,0.836,1.95e-05,0.098,0.503,124.893,3,singer-songwriter
+1HccLEGjiNWc4yT5AFC3Yc,Maximillian,Too Young,Love Like This,52,167289,False,0.696,0.488,3,-8.398,1,0.0489,0.273,0.0,0.594,0.425,140.181,4,singer-songwriter
+5zDVyVBJoE0NVUmYcyvTny,Bryan Adams,Waking Up The Neighbours,Do I Have To Say The Words?,59,371200,False,0.503,0.595,7,-9.383,1,0.0294,0.0895,2.49e-06,0.148,0.457,128.099,4,singer-songwriter
+5KsLlcmWDoHUoJFzRw14wD,John Mayer,The Search for Everything,Rosie,60,240626,False,0.758,0.465,7,-6.547,1,0.0374,0.489,5.13e-05,0.116,0.758,138.9,4,singer-songwriter
+6iXGivPFpsqKmrINhIbPvx,Lynk Lee,Buồn Thì Cứ Khóc Đi,Buồn Thì Cứ Khóc Đi,57,222314,False,0.704,0.542,2,-4.663,0,0.0307,0.476,0.000196,0.141,0.386,97.006,4,singer-songwriter
+4gvea7UlDkAvsJBPZAd4oB,Don Henley,Building The Perfect Beast,The Boys Of Summer,77,288733,False,0.516,0.549,6,-13.741,1,0.0373,0.501,0.00572,0.184,0.907,176.941,4,singer-songwriter
+6gXrEUzibufX9xYPk3HD5p,Eagles,Hotel California (2013 Remaster),Life in the Fast Lane - 2013 Remaster,72,286219,False,0.667,0.755,9,-7.246,1,0.069,0.0966,6.94e-05,0.0523,0.883,109.535,4,singer-songwriter
+3G7tRC24Uh09Hmp1KZ7LQ2,The Monkees,More of The Monkees (Deluxe Edition),I'm a Believer - 2006 Remaster,74,167373,False,0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106,4,singer-songwriter
+3TQbr3G3U5wlwEJejmqC1F,John Mayer,The Search for Everything,Never on the Day You Leave,56,220866,False,0.536,0.355,2,-8.61,1,0.0259,0.733,1.22e-05,0.138,0.22,139.888,4,singer-songwriter
+3CAX47TnPqTujLIQTw8nwI,Ben Howard,Every Kingdom,Old Pine,68,328506,False,0.401,0.364,5,-10.836,1,0.033,0.45,0.0503,0.162,0.224,129.57,4,singer-songwriter
+4R59wt5nnhYo88PIu3cUIt,Blanco White,On the Other Side,Olalla,66,248160,False,0.573,0.406,3,-11.946,1,0.0361,0.653,0.475,0.123,0.376,130.021,4,singer-songwriter
+171luCSfSTBnaIVnfTVbS6,Melike Şahin,Merhem: İlk Konserler (Live),Nasır (Live @ Zorlu PSM),42,269354,False,0.551,0.478,10,-10.58,0,0.0378,0.526,0.0,0.288,0.523,98.056,4,singer-songwriter
+4nGy2XA9QGxYb90cNyHguO,Barış Kocatürk,Kesin Kesiktir,Kalmalısın,42,199285,False,0.646,0.645,11,-6.775,0,0.0287,0.246,0.0,0.181,0.687,121.999,4,singer-songwriter
+3i0VfLdOUCks9DmAht65XI,Nina Nesbitt,"The Sun Will Come up, The Seasons Will Change",The Best You Had,60,176853,True,0.69,0.582,5,-6.259,0,0.0333,0.358,0.0,0.0776,0.448,122.02,4,singer-songwriter
+4ggwK5lXtlTT7lKJeeEnxf,Joe Walsh,(70's) Seventies Collected Volume 2,Rocky Mountain Way,0,316066,False,0.449,0.571,4,-7.119,1,0.0492,0.00604,0.701,0.0748,0.448,84.807,4,singer-songwriter
+4KROoGIaPaR1pBHPnR3bwC,Nick Drake,Pink Moon,Pink Moon,69,124000,False,0.642,0.427,3,-8.471,1,0.0402,0.871,0.0904,0.124,0.404,82.344,4,singer-songwriter

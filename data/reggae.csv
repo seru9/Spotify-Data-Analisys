@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2pfvK4mEji3KYxoJqEwzDV,Feid,Verano en Junio,Belixe,2,155533,False,0.876,0.673,8,-7.15,1,0.139,0.0524,0.00571,0.0813,0.462,113.995,4,reggae
+1qcWuAqrckB7uoAxVnrBDm,Feid,Perreo en Halloween,Normal,6,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+27jKLapVKaNuoMQMHR988Z,Feid,Esto No Se Le Dedica A Cualquiera,AMOR DE MI VIDA,7,189613,False,0.735,0.674,6,-5.629,0,0.124,0.18,0.0,0.108,0.561,171.883,4,reggae
+40o76YIOwDazc0h2QrZhWl,Feid,Feliz Cumpleaños con Perreo,Normal,4,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+1Kg1pUYOa3mYdQG9zi7SjV,Feid,Bájale como 7500,Prohibidox,8,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,reggae
+38DE0yn1UzRWgaLsh0GJGZ,Feid,Fiesta portatil,Ferxxo 100,4,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,reggae
+5I0cjHs6AmHbp2ivVhdgCT,Feid,Reggaeton Mix Perreito,Normal,2,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+0I75DOENhkPTBpavd8VJgW,Feid,Noche de Halloween Latino,Normal,3,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+5PhShslWTooBj2SuyeHnBm,Feid,Esto No Se Le Dedica A Cualquiera,Ferxxo 100,3,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,reggae
+3i9uGfgo9kXoRUNAl3M8Mr,Feid,Esto me suena a Farra,Ferxxo 100,7,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,reggae
+709mEkXJxSopnAmOnRJGRr,Feid,Clásicos de ahora: Perreo,Normal,0,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+5hnGly9RuGiixupoVrLTNI,Bad Bunny;Drake,New Pop Icons,MIA,0,210367,False,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.061,4,reggae
+4SGpb5hFrz394Fp4LcXGgt,Feid,Feliz Cumpleaños con Perreo,Feliz Cumpleaños Ferxxo,7,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+0FYD3N8NI3yQ8mKvIMDJol,Feid,El perreo es el futuro,Normal,0,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,reggae
+7K293fK5kJf9TP6HgMsyGw,Feid,Reggeaton Imperdible,Ferxxo 100,6,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,reggae
+4xWzDlOYUJSzJda21R27G6,Feid,Frescura y Perreo,Feliz Cumpleaños Ferxxo,3,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+6ciK3ADaV9FuTvMvDwYD6R,Feid;Maluma;Sky Rompiendo,Verano en Junio,FRESH KERIAS,3,272800,False,0.741,0.582,8,-4.445,1,0.281,0.291,0.000101,0.152,0.713,186.096,4,reggae
+0tQyUsejipsHr5BEdx7wLX,Bad Bunny;Drake,Today's Party Hits,MIA,0,210367,False,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.061,4,reggae
+08jXpbmBrMtXXAtXlHgsHh,Feid,Perreo en Halloween,Feliz Cumpleaños Ferxxo,8,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+0v9JszVQes7SlJ3UKqkdt2,Feid,Esto No Se Le Dedica A Cualquiera,TENGO FE,4,146426,False,0.757,0.571,7,-4.547,0,0.0906,0.264,8.97e-06,0.313,0.538,159.933,4,reggae
+572GakOVkoIZvOGXcgofFO,Feid,Esto me suena a Farra,Feliz Cumpleaños Ferxxo,2,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+523rBG7JujtfjDokUxNpSX,Feid;Sky Rompiendo,Frescura y Perreo,Quemando Calorías,2,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,reggae
+5lWntBx6CC4JbbHPCb6ftj,Feid,El perreo es el futuro,Ferxxo 100,0,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,reggae
+04V3hO138BCddFy9TmTUic,Feid;Sech,Halloween 2022 Perreo Vol. 4,JAMAICA,6,224240,False,0.52,0.542,1,-7.404,0,0.155,0.0383,0.0,0.371,0.669,81.131,4,reggae
+0RV56NxeOVdpNxSUarBW22,Feid;Sky Rompiendo,Feliz Cumpleaños con Perreo,Quemando Calorías,4,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,reggae
+2eeqdn2XNYJ6beAoHFa4xY,Feid;Sky Rompiendo,Esto No Se Le Dedica A Cualquiera,Quemando Calorías,7,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,reggae
+7os9XpTNiXBjyAzLZ5AkNZ,Feid,Esto No Se Le Dedica A Cualquiera,SI TÚ SUPIERAS,6,196373,False,0.673,0.664,4,-5.382,0,0.177,0.376,0.0,0.111,0.586,174.972,4,reggae
+5UAGqaLsYS9EgPJz0WvrB1,Feid;Maluma;Sky Rompiendo,Halloween 2022 Perreo Vol. 3,FRESH KERIAS,2,272800,False,0.741,0.582,8,-4.445,1,0.281,0.291,0.000101,0.152,0.713,186.096,4,reggae
+62mo6hlcn33B701x3TVdrH,Feid;Sky Rompiendo,Perreo Tenebroso Vol. 3,RELXJXTE,0,185813,False,0.859,0.575,6,-6.845,1,0.0798,0.0941,0.00018,0.105,0.607,93.007,4,reggae
+2DyVUB1hwY3DCnvteT9Tuj,Feid;J Balvin,Del gusto de hermanos,Que Raro,2,230826,False,0.755,0.844,5,-6.234,0,0.326,0.328,8.8e-06,0.555,0.745,171.867,4,reggae
+1a4UteUQkqUIOr3YQQ20fD,Feid,Feliz Cumpleaños con Perreo,Si Te La Encuentras Por Ahí,2,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,reggae
+5flnQRzZYpT7v7BvNoLsQd,Feid;Totoy El Frio,Frescura y Perreo,De Tanto Chimbiar,2,186066,False,0.821,0.602,9,-6.628,1,0.168,0.108,0.0,0.246,0.628,90.035,4,reggae
+7kJAJJWRFRn1kmqC2zlKim,Feid,Reggaeton Mix Perreito,Si Te La Encuentras Por Ahí,1,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,reggae
+5hsExtdcPmoDQTc9rhK6ui,Feid,Perreo en Halloween,Si Te La Encuentras Por Ahí,4,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,reggae
+0wJMDTFRqqzYfBu1LbNBeY,Feid,Homecoming Latin Party,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+3BK7JmX1P4GSGx5mdG3aiL,Feid,Esto me suena a Farra,Prohibidox,2,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,reggae
+6Es8MOlBfFcCmHZhhLoroo,Feid;Totoy El Frio,Bájale como 7500,De Tanto Chimbiar,3,186066,False,0.821,0.602,9,-6.628,1,0.168,0.108,0.0,0.246,0.628,90.035,4,reggae
+09ozFHrTL7cI5pYLJWuB2Y,Feid,Reggeaton Imperdible,Si Te La Encuentras Por Ahí,2,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,reggae
+5h3PtoxLaZW2d9wKi46pQX,Feid,El perreo es el futuro,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+7708qrA9gHIrwuVf6QdjAH,Feid,Reggeaton Imperdible,Castigo,3,177280,True,0.728,0.68,8,-4.129,0,0.165,0.0865,1.06e-06,0.1,0.704,179.839,4,reggae
+3S98gqCoHJfmr8QP0tWVL7,Feid,Halloween con perreito,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+0vqgm9EiiiF9HubKsWtEyZ,Feid,Última Misión Reggaeton,Feliz Cumpleaños Ferxxo,1,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+4uJnQswt7f4r0tuI37wNFk,Feid,Feliz Cumpleaños con Perreo,La Buena Fai,5,144573,False,0.712,0.539,2,-5.194,1,0.174,0.116,0.0,0.219,0.406,167.764,4,reggae
+1gpKOLsFDK1Gga7wnDcNwT,Feid,Clásicos de ahora: Perreo,Prohibidox,0,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,reggae
+2QczXDHtchuZSBVg8fliPn,Feid;Dalex,Halloween 2022 Perreo Vol. 3,Ron - Remix,3,187720,False,0.764,0.685,8,-5.548,0,0.0599,0.27,0.0,0.318,0.925,82.027,4,reggae
+5ElpusNZMl7iKKmVuxC6EH,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Verano en Junio,PORFA - Remix,1,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,reggae
+35EHiyGqAffU5VUyrsuq3v,Feid;Nacho,Para entrar en calor,911,2,221760,False,0.798,0.857,6,-3.748,1,0.105,0.0519,4.99e-05,0.142,0.581,102.998,4,reggae
+5zQQcVFs0Jyr4AjGokqyB7,Feid,Perreo Tenebroso Vol. 4,Nuestra Canción,0,182373,False,0.801,0.702,9,-4.952,1,0.37,0.49,1.86e-06,0.269,0.524,99.043,4,reggae
+4kKmVmY42kNdTciclcS0Ou,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Homecoming Latin Party,PORFA - Remix,0,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,reggae
+5RYVjXky8GkIMEJvNobgWT,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Perreo Tenebroso Vol. 1,PORFA - Remix,0,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,reggae
+29bZ3bs505KcwIVqWFOPBS,J Balvin;Bad Bunny,Clásicos de ahora: Perreo,LA CANCIÓN,0,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+6VGegSWgCabRxOCTQ0lSiX,J Balvin;Bad Bunny,Fiesta portatil,LA CANCIÓN,3,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+4f8mIikzaT5Aw3tV5ftwvL,J Balvin;Bad Bunny,El perreo es el futuro,LA CANCIÓN,0,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+2RUHnJNX92657k8DsVgoLd,J Balvin;Bad Bunny,Halloween con perreito,LA CANCIÓN,0,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+6Ok7LQxIDEqKQEFUBNRzpx,J Balvin;Bad Bunny,Bájale como 7500,LA CANCIÓN,3,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+1sZyestTGfOxWKRxdVdKuA,J Balvin;Bad Bunny,Reggeaton Imperdible,LA CANCIÓN,3,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+0nVlGxtlkx3IX8HEuRo7BN,J Balvin;Bad Bunny,Esto No Se Le Dedica A Cualquiera,LA CANCIÓN,2,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+3r6f5UcqFtoAIAVuTMvy4v,J Balvin;Bad Bunny,Esto me suena a Farra,LA CANCIÓN,1,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+3LaQzvfIetBWdtIV0JoBwF,J Balvin;Bad Bunny;Mr Eazi,Feliz Cumpleaños con Perreo,COMO UN BEBÉ,5,218826,False,0.825,0.807,6,-5.753,1,0.095,0.0741,4.79e-06,0.138,0.816,103.053,4,reggae
+4X7XP4r6XpJSegnMeHZsEN,J Balvin;Bad Bunny;Marciano Cantero,El perreo es el futuro,UN PESO,0,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+1LCHT9cYsrMSuOZ3occVg0,J Balvin;Bad Bunny;Marciano Cantero,Halloween con perreito,UN PESO,0,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+6aGP0AAF8iLyoGdLRpuVoZ,J Balvin;Bad Bunny;Marciano Cantero,Bájale como 7500,UN PESO,3,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+0jcnKiHDwgcgBUokWDckX9,J Balvin;Bad Bunny;Marciano Cantero,Reggaeton Mix Perreito,UN PESO,3,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+2tgC51q7KZKdYEmrLDJJrA,J Balvin;Bad Bunny;Marciano Cantero,Perreo en Halloween,UN PESO,4,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+1oANw3YJXR9hr7n3vwIu2e,J Balvin;Bad Bunny;Marciano Cantero,Feliz Cumpleaños con Perreo,UN PESO,2,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+5Tj1ohvoTgMyk5KyatzI88,J Balvin;Bad Bunny,Feliz Cumpleaños con Perreo,QUE PRETENDES,2,222346,False,0.639,0.791,10,-4.443,0,0.254,0.0275,0.0,0.362,0.933,92.603,4,reggae
+14MRXBE5YZoB8HRWf9Zn0I,J Balvin;Jay Wheeler,Esto No Se Le Dedica A Cualquiera,OTRO FILI,3,202546,False,0.855,0.638,5,-5.925,1,0.106,0.275,0.000259,0.105,0.641,81.988,4,reggae
+6oJWYwInc2wnjNLUW4Vx0T,J Balvin,Halloween 2022 Pop Vol. 5,Rosa,3,190253,False,0.637,0.583,9,-5.686,0,0.258,0.258,8.19e-05,0.367,0.305,176.025,4,reggae
+1F4sE8N4KROqjI5GeBDiDQ,J Balvin,Perreo Tenebroso Vol. 4,Reggaeton,0,158800,False,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-05,0.101,0.552,176.062,4,reggae
+6dR1uxzRh6aewJ3WQg0GY6,J Balvin,Halloween 2022 Perreo Vol. 1,Rojo,5,151146,False,0.652,0.595,11,-4.04,1,0.117,0.15,0.000106,0.0836,0.421,172.277,4,reggae
+5dfmapXZPohL1PgX3y5jGm,J Balvin;Ed Sheeran,Mega Hits Autumn/Fall 2022,Sigue,4,159386,True,0.889,0.641,7,-4.494,1,0.0668,0.0515,2.75e-05,0.19,0.588,87.99,4,reggae
+1jonu9vIvWaS012ELrkYWx,J Balvin;Zion & Lennox,Verano en Junio,No Es Justo,0,251266,False,0.811,0.812,7,-4.47,1,0.0635,0.151,0.000362,0.152,0.689,87.98,4,reggae
+4sIhqSb3u7PhFWE5k1Xwg3,J Balvin;Zion & Lennox,Regageton Para Niños,No Es Justo,3,251266,False,0.811,0.812,7,-4.47,1,0.0635,0.151,0.000362,0.152,0.689,87.98,4,reggae
+1oF3cqTJws6BixRDsyz0HU,J Balvin,Frescura y Perreo,Tu Veneno,4,157320,False,0.664,0.659,10,-4.232,0,0.0873,0.0625,0.00024,0.0874,0.797,175.826,4,reggae
+0dh1X0wdxSZoaFdDddVhPF,J Balvin,Perreo Tenebroso Vol. 4,Dónde Estarás,0,191973,False,0.828,0.763,1,-7.613,1,0.095,0.0741,0.0103,0.0882,0.861,90.004,4,reggae
+0MDRx3s5qSe0q5MwWJ5zW1,J Balvin,Fiesta Reggaeton 2010s,La Rebelión,2,161973,False,0.756,0.8,1,-3.673,1,0.0585,0.066,0.0,0.0646,0.718,128.022,4,reggae
+4ITduRq3rgDD4nuG7hUpWY,J Balvin;Maria Becerra,Fiesta portatil,Qué Más Pues?,1,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+2lBN9Qv3viRylBqEXMLip1,J Balvin;Maria Becerra,Homecoming Latin Party,Qué Más Pues?,0,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+62aZgpepQgr9C5n2EY0qgG,J Balvin;Maria Becerra,Clásicos de ahora: Perreo,Qué Más Pues?,0,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+6I9u1BUOMgesqngW1QdwtS,J Balvin;Maria Becerra,Bájale como 7500,Qué Más Pues?,1,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+3ZCUoHByl6bizZMHPQF5v5,J Balvin;Maria Becerra,Reggaeton Mix Perreito,Qué Más Pues?,2,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+56FjTokFXI8OJIkVeP7yGA,Feid,Clásicos de ahora: Perreo,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+1vN2rZ4WoUe6QQJjc2NBjN,J Balvin;Maria Becerra,Reggeaton Imperdible,Qué Más Pues?,2,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+3PDf2Xk2fHt3EexYRrVS0j,J Balvin,Perreo Tenebroso Vol. 5,Ahora,0,254906,False,0.81,0.784,3,-3.223,0,0.0622,0.0874,0.000166,0.083,0.817,88.001,4,reggae
+6H73ViNxjmJcXWHGX20Vkx,J Balvin;Maria Becerra,Feliz Cumpleaños con Perreo,Qué Más Pues?,1,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+4tKNaV5CxlztGumpxi5F9F,J Balvin;Pharrell Williams;BIA;Sky,Perreo Tenebroso Vol. 5,Safari,0,205600,False,0.689,0.675,0,-4.281,1,0.32,0.531,3.17e-06,0.115,0.604,180.077,4,reggae
+6g9qibs8qNFnG1dFPYp48V,J Balvin,Halloween 2022 Perreo Vol. 1,Ambiente,5,249253,False,0.789,0.736,2,-6.279,0,0.0896,0.136,0.0,0.681,0.782,81.014,4,reggae
+1tJPPxQ18pJL0MnfS4nQZn,J Balvin,Hora del taco sin auto,Morado,2,200666,False,0.881,0.696,11,-3.838,0,0.0797,0.136,4.06e-05,0.0927,0.781,97.002,4,reggae
+6MxGvnJWqdGS0chQypGXhB,J Balvin;Ryan Castro,Feliz Cumpleaños con Perreo,Nivel De Perreo,2,151573,True,0.802,0.828,1,-3.601,1,0.0756,0.0217,0.0,0.0692,0.722,91.983,4,reggae
+1XUYJ4xjlNoxQqNWc5Hnho,J Balvin,Queda poco para la PAES 2.0,Sigo Extrañándote,0,201280,False,0.896,0.859,11,-4.232,0,0.21,0.154,0.000109,0.212,0.938,93.016,4,reggae
+1FdEytNpgLuMXo5EsVWj1f,J Balvin,Homecoming Latin Party,Ginza,0,171093,False,0.749,0.815,5,-6.381,0,0.083,0.228,0.00117,0.0838,0.866,102.218,4,reggae
+0tQkPXwYjxpC3FWSAuFPqg,J Balvin,Perreo Tenebroso Vol. 5,Morado,0,200666,False,0.881,0.696,11,-3.838,0,0.0797,0.136,4.06e-05,0.0927,0.781,97.002,4,reggae
+3HdJWzA5iMRweXuY98Dyzb,J Balvin;Skrillex,pov: it's 2021,In Da Getto,1,130666,False,0.924,0.723,8,-3.142,1,0.0466,0.0177,2.61e-05,0.113,0.643,126.998,4,reggae
+3ijCK8aystm14nXveTlJzr,J Balvin,Para entrar en calor,Sigo Extrañándote,2,201280,False,0.896,0.859,11,-4.232,0,0.21,0.154,0.000109,0.212,0.938,93.016,4,reggae
+5qNlMrawQu9DeWErxDeKZA,J Balvin,Carrete con besties,Sigo Extrañándote,0,201280,False,0.896,0.859,11,-4.232,0,0.21,0.154,0.000109,0.212,0.938,93.016,4,reggae
+6vKU6pCjacGEgxJylK9WHP,J Balvin,Perreo Tenebroso Vol. 2,Amarillo,0,158146,False,0.876,0.85,1,-5.75,0,0.163,0.0118,0.0067,0.111,0.962,122.666,5,reggae
+7lTWdUAtKRdaRS0UbQD9y7,J Balvin,Noche de Halloween Latino,Morado,2,200666,False,0.881,0.696,11,-3.838,0,0.0797,0.136,4.06e-05,0.0927,0.781,97.002,4,reggae
+2kAz0WYicCnx9yEuhT0MhL,J Balvin,Queda poco para la PAES 2.0,Sin Compromiso,0,189026,False,0.774,0.914,7,-4.739,1,0.159,0.193,0.0,0.427,0.816,98.031,4,reggae
+2qlnxV0z8Fg40ZuUghVjOE,Feid,Halloween con perreito,Si Te La Encuentras Por Ahí,0,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,reggae
+0Ysepw3QUt2pyKvsBZ9PGD,J Balvin;KAROL G;Nicky Jam;Crissin;Totoy El Frio;Natan & Shander,Homecoming Latin Party,Poblado - Remix,0,392866,False,0.813,0.81,3,-5.382,0,0.0809,0.112,1.59e-06,0.377,0.632,93.005,4,reggae
+38cCzX3jpZhctBx6CHA9PG,J Balvin;Bad Bunny,Feliz Cumpleaños con Perreo,LA CANCIÓN,2,242573,False,0.756,0.646,7,-5.795,1,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,reggae
+3g3GUoGsjciY5ZuV2j73qm,J Balvin;Bad Bunny,Clásicos de ahora: Perreo,QUE PRETENDES,0,222346,False,0.639,0.791,10,-4.443,0,0.254,0.0275,0.0,0.362,0.933,92.603,4,reggae
+3aASdbXPrR8U86sDuEbiOq,J Balvin;Khalid,noches de lluvia,Otra Noche Sin Ti,0,228920,False,0.503,0.548,0,-7.564,0,0.164,0.0751,0.000234,0.145,0.441,94.036,4,reggae
+0pw2SQhAtP0zblvVFQfr3n,J Balvin;Dua Lipa;Bad Bunny;Tainy,Esto No Se Le Dedica A Cualquiera,UN DIA (ONE DAY),7,232146,False,0.58,0.695,6,-8.244,0,0.0671,0.00638,0.0,0.174,0.402,168.124,4,reggae
+2xABkRsg3JYfM7JCNg0Mao,J Balvin;Bad Bunny,Última Misión Reggaeton,QUE PRETENDES,1,222346,False,0.639,0.791,10,-4.443,0,0.254,0.0275,0.0,0.362,0.933,92.603,4,reggae
+51R9caoQ0l5bZ1ahBeqJq9,KAROL G,Verano en Junio,PROVENZA,0,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+7KSGzwS26H4ACx4RihLpFf,J Balvin;Bad Bunny;Marciano Cantero,Frescura y Perreo,UN PESO,2,277106,False,0.627,0.675,5,-7.125,0,0.212,0.125,0.0,0.0784,0.961,79.31,4,reggae
+4S3KDmiZJQsd6uLPyvHxSO,J Balvin,Perreo Tenebroso Vol. 1,Cuando Tú Quieras,0,205120,False,0.696,0.668,6,-5.063,1,0.199,0.361,0.0038,0.311,0.761,184.332,4,reggae
+1C46x15N2mSd1R42po84IT,KAROL G,Fiesta portatil,PROVENZA,3,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+4Tb9ngzRDyuTbojDzEnNk2,KAROL G,Halloween 2022 Perreo Vol. 3,PROVENZA,2,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+373tx0f1dUm6FPzgKJBPap,KAROL G;Maldy,Noche de Halloween Latino,GATÚBELA,6,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+1YQk5vR4YduJFoSzr0kvKT,J Balvin,Halloween 2022 Perreo Vol. 3,Rosa,2,190253,False,0.637,0.583,9,-5.686,0,0.258,0.258,8.19e-05,0.367,0.305,176.025,4,reggae
+3JTIbs8AwBIeyxB6fCzcZ6,J Balvin,Perreo Tenebroso Vol. 3,Negro,0,182506,False,0.791,0.907,0,-2.223,1,0.0884,0.0132,0.211,0.245,0.828,164.107,4,reggae
+7eEL9KyVPyH1lqqgoEIvxZ,KAROL G,Esto me suena a Farra,PROVENZA,3,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+2KUDuFlF7fPPbiJh0oetMZ,J Balvin;Maria Becerra,Perreo en Halloween,Qué Más Pues?,4,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+3Y7smguvy7hyxWaklqTdqQ,KAROL G;Maldy,Bájale como 7500,GATÚBELA,6,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+49eU6cfKOpuh3DiuwNma5l,J Balvin,Del gusto de hermanos,Sigo Extrañándote,6,201280,False,0.896,0.859,11,-4.232,0,0.21,0.154,0.000109,0.212,0.938,93.016,4,reggae
+493Gp8GQJHDtfGyUKvihrF,KAROL G,Perreo Tenebroso Vol. 5,"Ay, DiOs Mío!",0,189840,False,0.715,0.706,11,-4.423,1,0.195,0.496,0.00134,0.106,0.522,179.997,4,reggae
+1LBbGzkIDSEc0RQb9LXgce,J Balvin;Sech,Feliz Cumpleaños con Perreo,Una Nota,3,170760,False,0.662,0.788,3,-4.55,0,0.205,0.0191,0.0,0.0559,0.711,179.876,4,reggae
+3GALgomp19w4K1KlwoM07T,KAROL G;Maldy,Reggaeton Mix Perreito,GATÚBELA,3,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+4ppd80sFd0vJFuNBH8TJrm,KAROL G;Maldy,Halloween 2022 Perreo Vol. 5,GATÚBELA,3,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+1ia62vfFbklbRgNfx0CPC5,J Balvin;Mr Eazi,Halloween 2022 Perreo Vol. 4,Arcoíris,1,187120,False,0.611,0.781,2,-5.261,1,0.149,0.08,0.0,0.264,0.413,186.162,4,reggae
+6HplQm7VOFSup5HvIMahU7,J Balvin;Maria Becerra,Halloween 2022 Perreo Vol. 4,Qué Más Pues?,1,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+6ld4zIPweVl6KxdzdRivr3,J Balvin;Maria Becerra,El perreo es el futuro,Qué Más Pues?,0,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+7vodwj1T4yf0xitWOg2fSA,KAROL G;Maldy,Feliz Cumpleaños con Perreo,GATÚBELA,2,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+5enzKZ2YzoY4LFaamlRhFV,J Balvin;Maria Becerra,Esto me suena a Farra,Qué Más Pues?,0,217361,False,0.904,0.817,8,-3.956,1,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,reggae
+4uC61EsjWIOyGlJKGqRkD9,KAROL G;Mariah Angeliq,Homecoming Latin Party,EL MAKINON,0,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+1oV8hihVsAkSGaXT8vm7Hn,KAROL G;Mariah Angeliq,Clásicos de ahora: Perreo,EL MAKINON,0,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+4w2ffrCVQm9X4ToegFseY2,J Balvin,Noche de Halloween Latino,Negro,3,182506,False,0.791,0.907,0,-2.223,1,0.0884,0.0132,0.211,0.245,0.828,164.107,4,reggae
+0tWAW1X2zdHuDn70mRlNTE,KAROL G;Mariah Angeliq,El perreo es el futuro,EL MAKINON,0,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+3ljbfC0Cfy2hdRIJcjSIjt,KAROL G;Mariah Angeliq,Perreo Tenebroso Vol. 4,EL MAKINON,0,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+3oO9Cl80c2d1GVtg3B6gGA,J Balvin,Halloween 2022 Perreo Vol. 5,Morado,2,200666,False,0.881,0.696,11,-3.838,0,0.0797,0.136,4.06e-05,0.0927,0.781,97.002,4,reggae
+38Uq4auvCzFYWtYjLeB5xz,KAROL G,El perreo es el futuro,BICHOTA,0,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+0sfQW9kNtzBfFBCpN1p3c0,J Balvin,Esto me suena a Farra,Ginza,2,171093,False,0.749,0.815,5,-6.381,0,0.083,0.228,0.00117,0.0838,0.866,102.218,4,reggae
+0ZdyCcW6uUOBjb8CQvyg3m,KAROL G;Mariah Angeliq,Fiesta portatil,EL MAKINON,0,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+2dTeSx3Ve6tIum4T7haUWO,KAROL G;Bad Bunny,Feliz Cumpleaños con Perreo,Ahora Me Llama,4,233293,True,0.652,0.577,7,-5.273,0,0.0373,0.00947,4.02e-05,0.0905,0.123,135.009,4,reggae
+0oCQuhmmHFK5yKUjRKLHFB,KAROL G;Bad Bunny,Noche de Halloween Latino,Ahora Me Llama,3,233293,True,0.652,0.577,7,-5.273,0,0.0373,0.00947,4.02e-05,0.0905,0.123,135.009,4,reggae
+26bv58AJe8E62FJzFBMUIM,KAROL G,Frescura y Perreo,SEJODIOTO,0,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+4HyxYaIV98fUKeApfxHEHv,KAROL G,Reggaeton Mix Perreito,SEJODIOTO,2,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+2RhIaSWaloy5vprvJp5oAT,KAROL G,Perreo en Halloween,SEJODIOTO,2,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+3QOGTFn1wCRLcmTccdPLtP,KAROL G;Mariah Angeliq,Feliz Cumpleaños con Perreo,EL MAKINON,1,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+79wKOav861jNgpLXkz5HLi,KAROL G,Feliz Cumpleaños con Perreo,SEJODIOTO,1,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+3iTgKW7MWI0M0acyEoQXds,KAROL G;Bad Bunny;Quavo,Halloween 2022 Perreo Vol. 4,Ahora Me Llama - Remix,2,251786,False,0.668,0.613,0,-7.05,0,0.0421,0.0433,4.42e-05,0.139,0.219,135.036,4,reggae
+67mdqeB9ecik5WjVCF1NPZ,KAROL G,Esto No Se Le Dedica A Cualquiera,"Ay, DiOs Mío!",2,189840,False,0.715,0.706,11,-4.423,1,0.195,0.496,0.00134,0.106,0.522,179.997,4,reggae
+1osQI3NXEuBCFWK9iEmLwG,KAROL G,Halloween 2022 Perreo Vol. 5,A Ella,3,198720,False,0.73,0.769,2,-4.936,1,0.178,0.244,2.06e-05,0.136,0.594,181.988,4,reggae
+5jRM57e9BCpKm2F0iQmReN,KAROL G;Maluma,En la nada,Créeme,0,214293,False,0.714,0.874,6,-3.576,1,0.0549,0.128,0.000146,0.105,0.648,96.998,4,reggae
+3zTkz1DCxJk09e3iBH8xXi,KAROL G,Perreo Tenebroso Vol. 4,Punto G,0,183160,False,0.791,0.746,6,-4.716,1,0.0907,0.00938,0.000125,0.125,0.903,165.994,4,reggae
+146reVUYzTsbR24vCePtyQ,KAROL G;J Balvin;Nicky Jam,Queda poco para la PAES 2.0,Mi Cama - Remix,0,196320,False,0.815,0.784,9,-4.423,1,0.0738,0.299,0.0,0.0958,0.832,162.958,4,reggae
+25jeD6Agt0sUDeNc9JhLmS,KAROL G;Wisin & Yandel;Nicky Jam;Ivy Queen;Zion;Alberto Stylee,Última Misión Reggaeton,LEYENDAS,0,352093,False,0.553,0.784,1,-5.458,1,0.114,0.0609,0.0,0.305,0.609,96.553,4,reggae
+5n5VSFQ1npojFIMUihcj33,KAROL G;J Balvin;Nicky Jam,Última Misión Reggaeton,Mi Cama - Remix,0,196320,False,0.815,0.784,9,-4.423,1,0.0738,0.299,0.0,0.0958,0.832,162.958,4,reggae
+2ldVpRwLjfUWCDqrjNQYWt,Daddy Yankee;Bad Bunny,Perreo en Halloween,X ÚLTIMA VEZ,3,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+0sXsq8sJa2yOdyRiLb5lgR,KAROL G;Maldy,Perreo en Halloween,GATÚBELA,10,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+7K96XKPXv0xPKetFRB7Zh6,Daddy Yankee,Perreo en Halloween,Limbo,8,224800,False,0.805,0.878,7,-3.826,1,0.0864,0.0754,0.00329,0.0656,0.922,124.994,4,reggae
+4jQx9hU0OSISZgPpKFlyqr,KAROL G;Maldy,Frescura y Perreo,GATÚBELA,5,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+5v6XEJnRkaDZTnA0jkg15u,KAROL G;Anuel AA;J Balvin,Homecoming Latin Party,LOCATION,0,265240,True,0.772,0.758,9,-3.891,1,0.0482,0.0433,0.0,0.295,0.654,115.977,4,reggae
+5wpnARjEJkt8A5owpQORje,KAROL G;Maldy,Reggeaton Imperdible,GATÚBELA,2,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+5GKcpbYj5beL11aH0bloA2,KAROL G,Perreo Tenebroso Vol. 1,PROVENZA,0,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+2tKIsOrwDCeL9LgpBvlZst,KAROL G;Maldy,Clásicos de ahora: Perreo,GATÚBELA,0,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+4EED67Itwxe7qew8pAiknY,KAROL G;Maldy,Esto me suena a Farra,GATÚBELA,1,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+0ocZq6BzBiJf8tbA3nvQPF,KAROL G;Maldy,El perreo es el futuro,GATÚBELA,0,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+1wDyGzKYHVRVhNK3c9yD0y,KAROL G;Maldy,Halloween con perreito,GATÚBELA,0,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+34bTBINpWPa360R72PDJj1,KAROL G,Reggeaton Imperdible,SEJODIOTO,1,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+7KlmptaueSViBgx1DDOCQ7,KAROL G,Clásicos de ahora: Perreo,BICHOTA,0,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+583f0IBk80MRgaTAOZyGDw,Anuel AA;KAROL G,Feliz Cumpleaños con Perreo,Secreto,1,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+3S2S5Kqs95hRwVXSL4nBpO,KAROL G,Fiesta portatil,SEJODIOTO,1,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+7guW1bVC4aTIjxCeZpjbsR,KAROL G,Bájale como 7500,SEJODIOTO,0,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+09FYielISRGvCiJVplF81B,Anuel AA;KAROL G,Fiesta portatil,Secreto,1,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+1y1eDjSCubcNWNVQE9Tj2w,KAROL G;Mariah Angeliq,Frescura y Perreo,EL MAKINON,1,209160,False,0.689,0.705,0,-3.224,0,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+3dbgI7YYYJjjx9so4crOLj,KAROL G,Bájale como 7500,BICHOTA,1,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+3fB70pYlNuZCm29h41d9Rm,KAROL G,Feliz Cumpleaños con Perreo,EL BARCO,3,203506,False,0.85,0.847,8,-3.435,0,0.0435,0.606,0.000159,0.33,0.915,143.975,4,reggae
+16xB3vOZZwhq0TCnuOqfEh,Anuel AA;KAROL G,Frescura y Perreo,Secreto,2,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+5OOPYQor9kRh18B73f2Vci,KAROL G;Maldy,Última Misión Reggaeton,GATÚBELA,0,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+3KdWHGx14Di5mW6jV8hNC0,KAROL G,Reggaeton Mix Perreito,BICHOTA,3,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+17iXm4MsZHcK3YQMLdoK6Q,KAROL G,Feliz Cumpleaños con Perreo,BICHOTA,0,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+6sAKc56i3qGXq1Y8fniOnf,Anuel AA;KAROL G,Perreo en Halloween,Secreto,3,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+3VS1hkofsGq4NwkYdAYL1l,Anuel AA;KAROL G,Halloween 2022 Perreo Vol. 1,Secreto,2,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+47960GBapFd2ZJU6LbtwZz,KAROL G;Nicki Minaj,Homecoming Latin Party,Tusa,0,201920,False,0.796,0.701,2,-3.275,1,0.283,0.308,7.82e-05,0.0516,0.619,100.954,4,reggae
+22V0rqyOn48nni9e9Ct5mR,Anuel AA;KAROL G,Bájale como 7500,Secreto,2,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+5ZMYqjKKrxDweaVPvmzfhQ,KAROL G,Halloween con perreito,SEJODIOTO,0,181106,True,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,4,reggae
+2qoKPCtY8GuiSIVO1t5XWB,Anuel AA;KAROL G,Reggeaton Imperdible,Secreto,1,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+5Pjd6gzQntVPYqTiVodfYe,KAROL G,Reggeaton Imperdible,BICHOTA,2,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+0vM59xaWz4IuJlsW2Cni7X,KAROL G,Esto me suena a Farra,BICHOTA,0,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+3AedlLCGKNhQdhtLzObIbR,Daddy Yankee,Queda poco para la PAES 2.0,Pasarela,0,193733,False,0.839,0.907,9,-4.259,1,0.0453,0.101,0.0,0.332,0.737,121.048,4,reggae
+74fiT7YMuftT3jJd8c4FvS,KAROL G,Halloween 2022 Perreo Vol. 1,"Ay, DiOs Mío!",1,189840,False,0.715,0.706,11,-4.423,1,0.195,0.496,0.00134,0.106,0.522,179.997,4,reggae
+7tHlEZRloAvK2tIYS6wR1b,Anuel AA;KAROL G,Clásicos de ahora: Perreo,Secreto,0,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+20HJlBRkHgsZEmCbbeq3OZ,KAROL G;Bad Bunny,Perreo Tenebroso Vol. 2,Ahora Me Llama,0,233293,True,0.652,0.577,7,-5.273,0,0.0373,0.00947,4.02e-05,0.0905,0.123,135.009,4,reggae
+2x8gjYPcomasunXlQ4gA2i,Daddy Yankee;Divino,Perreo Tenebroso Vol. 1,Nada Ha Cambiao’,0,190000,True,0.735,0.906,10,-3.658,0,0.11,0.0342,0.0,0.292,0.71,92.023,4,reggae
+4kW0cBnz4yS6cbFMpVtYYO,KAROL G,Feliz Cumpleaños con Perreo,"Ay, DiOs Mío!",1,189840,False,0.715,0.706,11,-4.423,1,0.195,0.496,0.00134,0.106,0.522,179.997,4,reggae
+3iJDmx2BxUCXgjatgYfhoe,Anuel AA;KAROL G,El perreo es el futuro,Secreto,0,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+5RZ2onkccYP8RbSamO0hXT,KAROL G;Camilo,Esto No Se Le Dedica A Cualquiera,CONTIGO VOY A MUERTE,4,219960,False,0.77,0.852,11,-2.593,1,0.0489,0.201,3.06e-06,0.0623,0.785,82.997,4,reggae
+0PyWzcDAflIrRNZrJzmYhE,Anuel AA;KAROL G,Halloween con perreito,Secreto,0,258799,False,0.807,0.803,11,-4.156,1,0.126,0.6,0.0085,0.136,0.706,91.982,4,reggae
+5Hc5uFMVvvtc9YYJmXtspy,KAROL G,Perreo Tenebroso Vol. 2,A Ella,0,198720,False,0.73,0.769,2,-4.936,1,0.178,0.244,2.06e-05,0.136,0.594,181.988,4,reggae
+2T1SNgLERipx3n6iVTeHZA,Daddy Yankee;Nicky Jam;Plan B;Rome & Urba,Halloween 2022 Perreo Vol. 1,Shaky Shaky - Remix,4,234560,False,0.813,0.786,6,-4.133,0,0.154,0.107,0.0,0.238,0.828,175.908,4,reggae
+7cS2YS8Q5wJ7ZzqbKLsuFR,Daddy Yankee,Feliz Cumpleaños con Perreo,Limbo,3,224800,False,0.805,0.878,7,-3.826,1,0.0864,0.0754,0.00329,0.0656,0.922,124.994,4,reggae
+2UzdMpV9R6H1Aex1yXExli,KAROL G;Maluma,Verano en Junio,Créeme,0,214293,False,0.714,0.874,6,-3.576,1,0.0549,0.128,0.000146,0.105,0.648,96.998,4,reggae
+5P7P56z3BWvsQDh9MrEwaW,KAROL G;Cosculluela,Para entrar en calor,La Dama,1,208400,False,0.844,0.781,8,-5.856,0,0.188,0.122,0.000154,0.0925,0.734,100.01,4,reggae
+2VRR3vc9jMYcCEBM2A3ZV9,KAROL G,Perreo Tenebroso Vol. 2,Muñeco De Lego,0,162066,False,0.784,0.637,0,-7.386,0,0.147,0.283,0.0,0.153,0.544,143.977,4,reggae
+3LDezJ0x3UWsC0XXnjM8U9,KAROL G,Carrete con besties,Casi Nada,0,219026,False,0.734,0.848,1,-2.756,0,0.0362,0.121,4.74e-05,0.0993,0.591,98.059,4,reggae
+0EZ3k6NTvkH1sQddEK4slm,KAROL G,Perreo Tenebroso Vol. 5,Go Karo,0,149866,False,0.746,0.727,9,-3.342,1,0.0639,0.0469,1e-06,0.0793,0.827,93.032,4,reggae
+1bNsvWmJGd4pdpahQhlK9T,KAROL G,Perreo Tenebroso Vol. 3,Bebesita,0,185053,False,0.714,0.826,7,-3.897,0,0.0385,0.318,1.63e-05,0.216,0.742,91.997,4,reggae
+7x5xYW5W42OGPAdHUyyguy,R. City;Adam Levine,What Dreams Are Made Of,Locked Away (feat. Adam Levine),78,227480,False,0.509,0.671,1,-5.709,1,0.0678,0.304,0.0,0.0452,0.55,118.413,5,reggae
+1EBo9H6NjVeZRAlXcXLYq8,Jhayco,Esto No Se Le Dedica A Cualquiera,Me Extraña,2,234520,False,0.755,0.767,7,-3.754,0,0.106,0.0176,0.0,0.143,0.232,156.001,4,reggae
+6siiFhvZiKR62RpgBmherA,Jhayco;Bad Bunny,Frescura y Perreo,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+43VoASYNFFXqy2HE0rAm4W,Daddy Yankee;Bad Bunny,Clásicos de ahora: Perreo,X ÚLTIMA VEZ,0,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+511zIRlXGOQs2oykDi4KwT,Daddy Yankee;Bad Bunny,El perreo es el futuro,X ÚLTIMA VEZ,0,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+79hVM41bj2IKfCVhUFh9Ra,Daddy Yankee;Bad Bunny,Halloween con perreito,X ÚLTIMA VEZ,0,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+0I3wA6Iy9HF8uW38es7Tb1,Daddy Yankee;Bad Bunny,Fiesta portatil,X ÚLTIMA VEZ,2,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+2xpkJFCKCevn863vXJli7S,Daddy Yankee;Bad Bunny,Bájale como 7500,X ÚLTIMA VEZ,1,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+7i06j7x2UzGnURlzGV37WL,Daddy Yankee;Bad Bunny,Frescura y Perreo,X ÚLTIMA VEZ,5,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+7af1WixhIA44jYgzXU19da,Daddy Yankee;Bad Bunny,Bájale como 7500,Vuelve,2,279613,False,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.025,4,reggae
+2oiffhYxrg5NHiPDZubyqa,Daddy Yankee;Bad Bunny,Reggaeton Mix Perreito,X ÚLTIMA VEZ,2,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+27XJv9grlenIhZEPpDdnIY,Daddy Yankee;Bad Bunny,Esto me suena a Farra,X ÚLTIMA VEZ,0,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+70rQq4iMDKjX8UlG7QlHUa,Daddy Yankee;Bad Bunny,Reggeaton Imperdible,X ÚLTIMA VEZ,2,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+0yy3WShigK5eqAmhS4aRwz,Daddy Yankee;Bad Bunny,Feliz Cumpleaños con Perreo,X ÚLTIMA VEZ,2,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+7FNClArpU0MQIIkAU5VSwh,Daddy Yankee;Bad Bunny,Reggaeton Mix Perreito,Vuelve,5,279613,False,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.025,4,reggae
+1v1nsB6TCXuhdC4QNP4aB4,Daddy Yankee;Bad Bunny,Feliz Cumpleaños con Perreo,Vuelve,3,279613,False,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.025,4,reggae
+3U3WDXdwPyih1ZHawJyUWK,Jhayco;Bad Bunny,Halloween con perreito,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+37o1JVuF7NnYWKYzLCe32r,Jhayco;Bryant Myers,Halloween 2022 Perreo Vol. 5,Deseos,2,220080,False,0.822,0.726,11,-6.177,0,0.0593,0.28,0.0,0.182,0.691,93.014,4,reggae
+1qdiryo9D6QgoZw9beV72q,Daddy Yankee;Snow,pov: it's 2019,Con Calma,0,193226,False,0.737,0.86,8,-2.652,0,0.0594,0.11,1.94e-06,0.0574,0.656,93.989,4,reggae
+5gePc5Ns5P1lBhlSrItWwK,Jhayco;Ozuna,Hora del taco sin auto,Easy - Remix,1,219866,False,0.891,0.748,1,-3.844,0,0.0976,0.186,2.06e-06,0.133,0.401,94.06,4,reggae
+0vp47IigZ7JVQ89jDetO7H,Daddy Yankee,Esto me suena a Farra,Limbo,5,224800,False,0.805,0.878,7,-3.826,1,0.0864,0.0754,0.00329,0.0656,0.922,124.994,4,reggae
+5vyRNIsjHH6pZu1dKBddOO,Daddy Yankee;Wisin & Yandel,Fiesta Reggaeton 2010s,Si Supieras,4,241880,False,0.691,0.894,9,-1.681,0,0.115,0.291,0.0,0.104,0.623,184.018,4,reggae
+0zhxUjkXag9iEFccaiua4a,Daddy Yankee,Fiesta portatil,RUMBATÓN,3,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+20vLGVDLfbzdh3vbSpSuj8,Daddy Yankee;Wisin & Yandel,Hora del taco sin auto,Si Supieras,4,241880,False,0.691,0.894,9,-1.681,0,0.115,0.291,0.0,0.104,0.623,184.018,4,reggae
+62ppSZlSrkdflEZWXM34gG,Daddy Yankee,Bájale como 7500,RUMBATÓN,2,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5wPayKgEqHa0ewZhUS8BSY,Daddy Yankee,Frescura y Perreo,RUMBATÓN,3,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5Y35bkxA5od9mlkPuN9Tit,Daddy Yankee,Clásicos de ahora: Perreo,RUMBATÓN,0,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5bkpKxDCCTpeW1v2JcFTQ7,Daddy Yankee,Perreo en Halloween,RUMBATÓN,2,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+7qhOEYwWarxO50hAZkEY59,Daddy Yankee,El perreo es el futuro,RUMBATÓN,0,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5omEZ9V6ytpM0WNBcIOavc,Daddy Yankee,Esto me suena a Farra,RUMBATÓN,2,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+0w6KXQRbURk23AtKn3q5Wr,Daddy Yankee,Halloween con perreito,RUMBATÓN,0,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5jXwDTzWWPK4AzJwHEHdkQ,Daddy Yankee;Myke Towers;Jhayco,Frescura y Perreo,SÚBELE EL VOLUMEN,2,223366,True,0.83,0.623,6,-4.056,1,0.0801,0.0219,0.0,0.0812,0.614,101.036,4,reggae
+4lLahP9nb19QJux8cSXSIX,Daddy Yankee,Reggaeton Mix Perreito,RUMBATÓN,4,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+3ufMt1JWzgGeJ1rvGjeGbX,Daddy Yankee,Feliz Cumpleaños con Perreo,RUMBATÓN,1,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+2xXAcD0zzapYgSl5z1A847,Daddy Yankee;Wisin & Yandel,Esto No Se Le Dedica A Cualquiera,Si Supieras,9,241880,False,0.691,0.894,9,-1.681,0,0.115,0.291,0.0,0.104,0.623,184.018,4,reggae
+27sqBDytiRE42WplwCLrj7,Daddy Yankee,Reggeaton Imperdible,RUMBATÓN,5,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+7maprFc3lpb4PSq3290wk3,Daddy Yankee;Wisin & Yandel,Perreo Tenebroso Vol. 5,Si Supieras,0,241880,False,0.691,0.894,9,-1.681,0,0.115,0.291,0.0,0.104,0.623,184.018,4,reggae
+3ZPrcLz9peBVWyYZHwx0DI,Daddy Yankee,Feliz Cumpleaños con Perreo,Dura,3,200480,False,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.838,95.002,4,reggae
+0bhhXULPNfCsVhZp35HrC3,Daddy Yankee,El perreo es el futuro,Dura,0,200480,False,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.838,95.002,4,reggae
+0S6JhgDleukTFLOMlIuiZI,Daddy Yankee,Halloween con perreito,Limbo,0,224800,False,0.805,0.878,7,-3.826,1,0.0864,0.0754,0.00329,0.0656,0.922,124.994,4,reggae
+6OUTbAEIxmP8RVEAFNMq1d,Daddy Yankee;Prince Royce,Perreo Tenebroso Vol. 2,Ven Conmigo,0,220653,False,0.78,0.856,10,-5.316,0,0.0405,0.116,0.0,0.0595,0.712,120.049,4,reggae
+0tNLlw94DIrCECnp0dSUUz,Daddy Yankee,Carrete con besties,Lovumba,0,218520,False,0.73,0.939,11,-4.665,0,0.0532,0.0347,0.0,0.335,0.939,121.001,4,reggae
+1H25cHqoclhvwvl7BPyCbW,Daddy Yankee,Halloween 2022 Perreo Vol. 3,Hula Hoop,4,236493,False,0.799,0.818,6,-4.628,1,0.0801,0.113,0.00315,0.0942,0.951,175.998,4,reggae
+37i4ehp6JPOenvQQEcoYv7,Daddy Yankee,Noche de Halloween Latino,Shaky Shaky,3,234320,False,0.899,0.626,6,-4.228,0,0.292,0.076,0.0,0.0631,0.873,88.007,4,reggae
+6TFUGAC1zk57FICwy1wZNW,Daddy Yankee;Natti Natasha;Becky G;Bad Bunny,Homecoming Latin Party,Dura - Remix,0,242160,False,0.772,0.803,1,-3.035,1,0.0468,0.187,0.0,0.434,0.853,94.98,4,reggae
+4u9jtJXU6fAbBBmWL6VB0E,Daddy Yankee,Perreo Tenebroso Vol. 5,Shaky Shaky,0,234320,False,0.899,0.626,6,-4.228,0,0.292,0.076,0.0,0.0631,0.873,88.007,4,reggae
+5bWsrvSklKrDrYbBgqknno,Daddy Yankee,Homecoming Latin Party,Sígueme Y Te Sigo,0,209786,False,0.736,0.878,1,-3.604,0,0.0428,0.0682,6.4e-05,0.756,0.662,100.024,4,reggae
+2mBTuHj5xrXHF3BeXD9ebN,Daddy Yankee,Queda poco para la PAES 2.0,Sígueme Y Te Sigo,0,209786,False,0.736,0.878,1,-3.604,0,0.0428,0.0682,6.4e-05,0.756,0.662,100.024,4,reggae
+2Vag8ExVU4vAFj1FVvw0yC,Daddy Yankee;Natalia Jiménez,Halloween con perreito,La Noche De Los Dos,0,223360,False,0.762,0.79,9,-3.944,0,0.0988,0.109,2.73e-06,0.172,0.748,129.988,4,reggae
+0c9wSzwT33NaUlJNy1z0jh,Daddy Yankee,Última Misión Reggaeton,La Nueva Y La Ex,2,197053,False,0.639,0.943,5,-3.542,1,0.136,0.0462,0.0,0.141,0.639,198.051,4,reggae
+0fVm1yh9WTofuyCTm4FxPk,Jhayco;Bad Bunny,Feliz Cumpleaños con Perreo,CÓMO SE SIENTE - Remix,1,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+6o83OvL2X2I9YjTreREVX9,Jhayco;Bad Bunny,Esto No Se Le Dedica A Cualquiera,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+5Mktfl3xR4CNPO0u5QZRal,Jhayco;Bad Bunny,Bájale como 7500,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+5FnXpfVnx5bIza2T90Sqg0,Jhayco;Bad Bunny,Halloween 2022 Perreo Vol. 5,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+5TiFvMOjuHM55p2IxMvmr9,Jhayco;Bad Bunny,Perreo en Halloween,CÓMO SE SIENTE - Remix,2,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+6k0rozlo2pjajMJSV26YUE,Jhayco;Tainy,Halloween 2022 Perreo Vol. 1,Imaginaste,3,198613,False,0.777,0.663,6,-5.799,1,0.244,0.11,0.0,0.302,0.583,179.971,4,reggae
+7c3qCkbYKDJe8bcWTD6A3j,Jhayco;Bad Bunny,Fiesta portatil,CÓMO SE SIENTE - Remix,1,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+4nChyydft5jq1FpXKuXCCM,Jhayco;Bad Bunny,Reggaeton Mix Perreito,CÓMO SE SIENTE - Remix,1,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+2T4QfRdhGf1BxKNyLBkE6N,Jhayco;Bad Bunny,Esto me suena a Farra,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+5WigPvAtaOYC0bqkxgVNzd,Jhayco;Bad Bunny,Reggeaton Imperdible,CÓMO SE SIENTE - Remix,1,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+0VuMYPVXdyIKcfmbMKzaSi,Jhayco;Bad Bunny,Clásicos de ahora: Perreo,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+5LpyVD81GEyO9GNLsNI7QU,Jhayco;Bad Bunny,El perreo es el futuro,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+7LtXmsv58ijM3k2dP6h6fR,Jhayco;Bad Bunny,Perreo Tenebroso Vol. 5,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+2krNOqdPZApb8To7F22h8t,Jhayco,Frescura y Perreo,Sensual Bebé,1,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+7041VLZqpEKPkK73N7WNbE,Jhayco;Anuel AA,Verano en Junio,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+0QrXhLrZEQ7TT5uhlPq2nV,Jhayco,Feliz Cumpleaños con Perreo,Sensual Bebé,1,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+5ls7oqk4nnxgPAJmGqZyTw,Jhayco,Clásicos de ahora: Perreo,Sensual Bebé,0,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+1NzcfWIiD1SnRnqkzT2lfD,Jhayco,Perreo Tenebroso Vol. 1,Dime A Ve,0,213200,False,0.773,0.753,10,-4.173,1,0.06,0.122,4.8e-05,0.102,0.56,179.983,4,reggae
+1U6K8MHPdkqaBoJOfhXjPx,Jhayco,Reggeaton Imperdible,Sensual Bebé,0,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+0JEHtQP8OymO9fIUEZX5KF,Jhayco;Anuel AA,Perreo en Halloween,Ley Seca,3,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+0ez17BDxctWVhtAH0bAR5R,Jhayco,Reggaeton Mix Perreito,Sensual Bebé,1,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+7iagi306NrUMhjowfe2d98,Jhayco,El perreo es el futuro,Sensual Bebé,0,209146,True,0.776,0.629,0,-6.09,1,0.0505,0.0268,0.0,0.114,0.104,97.066,4,reggae
+39xU2D7t9LWs9EueUtC48K,Jhayco;Bad Bunny,Última Misión Reggaeton,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,3,-8.871,0,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+54kofthDNPNcQVuia0NuDl,Jhayco;Anuel AA,pov: it's 2021,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+1Px7xuvKUtX8ctQl2tcjZz,Jhayco;Anuel AA,Clásicos de ahora: Perreo,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+0M8c4ZbBMro9S2G65ir83R,Jhayco;Anuel AA,Homecoming Latin Party,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+3sc8Faubr986Pkb27gfJat,Jhayco;J Balvin;Bad Bunny,Esto me suena a Farra,No Me Conoce - Remix,1,309120,False,0.804,0.786,10,-3.837,0,0.0735,0.144,0.0,0.0928,0.575,91.992,4,reggae
+3oxGJdepSlIwJxjyvtPxXT,Jhayco;J Balvin;Bad Bunny,Homecoming Latin Party,No Me Conoce - Remix,0,309120,False,0.804,0.786,10,-3.837,0,0.0735,0.144,0.0,0.0928,0.575,91.992,4,reggae
+4pJUzyPGGBdV2yKlqYLNTN,Jhayco;Anuel AA,Frescura y Perreo,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+7zubR9uYAWjb5KPZTMm85e,Jhayco;Anuel AA,El perreo es el futuro,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+45sGF1ECh24oYcaSZ4jBxz,Jhayco;Anuel AA,Fiesta portatil,Ley Seca,1,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+48VdMOHlnUZr3k0NDqza3r,Jhayco;Anuel AA,Halloween con perreito,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+4JELRSQrBtkmK2QN5UKKjH,Jhayco;J Balvin;Bad Bunny,Perreo Tenebroso Vol. 4,No Me Conoce - Remix,0,309120,False,0.804,0.786,10,-3.837,0,0.0735,0.144,0.0,0.0928,0.575,91.992,4,reggae
+0YKl5wq8BbvZBtgabzlc5D,Jhayco;Anuel AA,Reggaeton Mix Perreito,Ley Seca,1,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+74EYiffq5P9dc6lfYJ6tPM,Jhayco;Anuel AA,Esto me suena a Farra,Ley Seca,0,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+00PBSElFPJbnIcFS7orAm2,Jhayco,Frescura y Perreo,Christian Dior,1,147133,True,0.835,0.718,7,-5.62,0,0.0694,0.226,1.99e-06,0.108,0.427,92.028,4,reggae
+7Co104EUwfOXsIm3qam2Dj,Jhayco,Best Hip Hop Tunes,Christian Dior,0,147133,True,0.835,0.718,7,-5.62,0,0.0694,0.226,1.99e-06,0.108,0.427,92.028,4,reggae
+5t22v52YE4S82SVLYUhYSw,Jhayco,Feliz Cumpleaños con Perreo,Christian Dior,1,147133,True,0.835,0.718,7,-5.62,0,0.0694,0.226,1.99e-06,0.108,0.427,92.028,4,reggae
+0rXUq0QEtQg4gRvd4EPHGf,Jhayco,Perreo Tenebroso Vol. 4,Christian Dior,0,147133,True,0.835,0.718,7,-5.62,0,0.0694,0.226,1.99e-06,0.108,0.427,92.028,4,reggae
+053mlrYW02zC0dUsIsRUKG,Jhayco,Halloween con perreito,Christian Dior,0,147133,True,0.835,0.718,7,-5.62,0,0.0694,0.226,1.99e-06,0.108,0.427,92.028,4,reggae
+2d21akUnz6DXYVbkvuJy0r,Jhayco,Perreo Tenebroso Vol. 3,Easy,0,239373,False,0.853,0.777,1,-4.025,0,0.0689,0.0972,0.000501,0.332,0.555,94.023,4,reggae
+7AhSY7tH8oT0T9FpRKXl9q,Jhayco,Halloween 2022 Perreo Vol. 4,No Me Conoce,1,240400,False,0.654,0.695,10,-3.987,0,0.173,0.0643,0.0,0.098,0.582,81.153,1,reggae
+4oOPtRCqhe9ROLXr4wS3it,Jhayco;Nio Garcia;Casper Magico;Bryant Myers,Perreo Tenebroso Vol. 2,Deseos - Remix,0,238106,True,0.843,0.731,11,-5.583,0,0.134,0.259,0.0,0.306,0.636,93.013,4,reggae
+2hQMQgsTvJx7GykYm7FQOy,Jhayco;Anuel AA;J Balvin,Feliz Cumpleaños con Perreo,Medusa,4,304920,True,0.841,0.601,0,-7.295,1,0.223,0.197,3.35e-06,0.11,0.362,97.912,4,reggae
+1BklyWf82TLsq3ZjwGiuSC,Jhayco;Mariah Angeliq;Eq,Perreo Tenebroso Vol. 3,Costear - Remix,0,224506,False,0.753,0.505,2,-7.569,1,0.0641,0.105,0.0,0.109,0.36,149.015,4,reggae
+1Smucg21g2gBmJ8z9yfW7a,Jhayco;Anuel AA;J Balvin,Noche de Halloween Latino,Medusa,3,304920,True,0.841,0.601,0,-7.295,1,0.223,0.197,3.35e-06,0.11,0.362,97.912,4,reggae
+0xCaQb8CfEuBCBZANmpf5b,Jhayco;KAROL G;Haze,Perreo Tenebroso Vol. 1,Deséame Suerte,0,208160,False,0.723,0.622,4,-5.184,0,0.0467,0.189,5.86e-05,0.107,0.538,94.024,4,reggae
+6WcRqzZZI5LcN8rpvnDswa,Jhayco;Wisin & Yandel,Halloween 2022 Perreo Vol. 3,Imaginaste - Remix,3,246653,False,0.855,0.71,1,-5.321,1,0.0939,0.0426,0.0,0.337,0.591,89.977,4,reggae
+29DqzX6ftTnRTaelDUF1rn,Jhayco;Zion & Lennox,Perreo Tenebroso Vol. 3,Somos Iguales,0,236586,False,0.777,0.714,11,-4.296,1,0.0532,0.16,0.0,0.115,0.59,90.987,4,reggae
+5IVqIRad9HF0f41fjpZBKa,Jhayco;Wisin & Yandel,Última Misión Reggaeton,Imaginaste - Remix,0,246653,False,0.855,0.71,1,-5.321,1,0.0939,0.0426,0.0,0.337,0.591,89.977,4,reggae
+3DmW6y7wTEYHJZlLo1r6XJ,Becky G,Shower,Shower,78,206166,False,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,4,reggae
+4nOygULhEuDO5ZBRNPFaso,K'NAAN,Troubadour (Champion Edition - Asian Version),Wavin' Flag - Coca-Cola® Celebration Mix,67,212520,False,0.58,0.767,0,-4.174,1,0.0557,0.313,0.0,0.0518,0.776,151.845,4,reggae
+7lBFGIrf4ti3eylvgR4s4R,Jhayco;J Balvin;Bad Bunny,Feliz Cumpleaños con Perreo,No Me Conoce - Remix,0,309120,False,0.804,0.786,10,-3.837,0,0.0735,0.144,0.0,0.0928,0.575,91.992,4,reggae
+6WBFQMsGMTw0DPv9srsybQ,De La Ghetto,Perreo Tenebroso Vol. 4,Sensacion Del Bloque,0,182186,True,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.405,92.014,4,reggae
+0eJ4rwYdkIl4Dz6hY2sNhJ,De La Ghetto,Halloween 2022 Perreo Vol. 5,Sensacion Del Bloque,2,182186,True,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.405,92.014,4,reggae
+2e6LSOjyAy2LetfStcKVRS,Jhayco;Anuel AA,Reggeaton Imperdible,Ley Seca,1,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+2Zlqc4m6Gv0tSsgDS87LJQ,Jhayco;Anuel AA,Feliz Cumpleaños con Perreo,Ley Seca,1,263666,False,0.759,0.843,8,-3.718,1,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+3Eo7rOfvXRzGq68b9PVfZE,Wisin & Yandel,Esto No Se Le Dedica A Cualquiera,Estoy Enamorado,3,271720,False,0.78,0.725,6,-6.032,1,0.0503,0.288,0.0,0.0851,0.431,100.92,4,reggae
+2jRLhJSvJQn0NqHshENHt1,Wisin & Yandel;Chris Brown;T-Pain,Del gusto de hermanos,Algo Me Gusta De Ti,0,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,reggae
+6Kwo18gzpFZnZhlAwhn5cl,Sebastian Yatra;Beret,Café en casa,Vuelve,6,225213,False,0.692,0.49,11,-6.077,1,0.0464,0.466,0.0,0.109,0.255,155.831,4,reggae
+356ry72djzWnoIjOCrLS7h,Wisin & Yandel,Perreo en Halloween,Sexy Movimiento,1,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,reggae
+0bYsT1b741xstgFwe4WoKp,Wisin & Yandel,Noche de Halloween Latino,Hipnotízame,8,243386,False,0.775,0.828,0,-3.972,1,0.139,0.289,0.0,0.434,0.571,79.992,4,reggae
+3dKlTiPC2NTfrnlmM43TuX,Wisin & Yandel,Perreo Tenebroso Vol. 2,Pam Pam,0,227280,False,0.874,0.69,10,-6.373,1,0.114,0.121,0.0,0.249,0.735,95.025,4,reggae
+0VDbQ47H6Zn0zTdMziB0ex,Wisin & Yandel,Perreo Tenebroso Vol. 5,Tu Olor,0,246853,False,0.821,0.753,1,-5.27,0,0.0817,0.0148,6.13e-06,0.109,0.364,114.983,4,reggae
+35bUCSCnEQRek7xXNG0XIM,Sebastian Yatra;Alvaro Diaz,Dulce Balada,A Dónde Van,0,176266,False,0.656,0.69,3,-4.792,0,0.186,0.0523,0.0,0.138,0.817,167.063,4,reggae
+5iBHQdgvYptTzQzLPHxbXz,Wisin & Yandel,Queda poco para la PAES 2.0,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,reggae
+507tWaezxWNqkTQ0t8SUIg,Sebastian Yatra;Myke Towers,Homecoming Latin Party,Pareja Del Año,0,195333,False,0.715,0.61,4,-5.095,0,0.0522,0.175,0.0,0.0949,0.771,79.973,4,reggae
+6gO4yNamLxHxuno660tD4j,Sebastian Yatra;Myke Towers,Clásicos de ahora: Perreo,Pareja Del Año,0,195333,False,0.715,0.61,4,-5.095,0,0.0522,0.175,0.0,0.0949,0.771,79.973,4,reggae
+4B9KVCZ14XPuLrkuFJ6Hov,Sebastian Yatra;Guaynaa,Verano en Junio,Chica Ideal,0,183240,False,0.574,0.891,0,-3.665,0,0.157,0.0847,0.0,0.16,0.707,100.978,4,reggae
+0b5L58Bor5ic69eJQVUcsb,Sebastian Yatra,Reggeaton Imperdible,Traicionera,4,230280,False,0.779,0.675,11,-4.976,1,0.0485,0.138,0.0,0.105,0.63,91.006,4,reggae
+40EiMT9vmuAz8vcOkj85D3,Sebastian Yatra;Myke Towers,Verano en Junio,Pareja Del Año,0,195333,False,0.715,0.61,4,-5.095,0,0.0522,0.175,0.0,0.0949,0.771,79.973,4,reggae
+1z4WUEk8yk3KyYg8vXzorT,Wisin & Yandel,Perreo Tenebroso Vol. 1,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,reggae
+3yJjRARrm2dE2tPuzPL2Z1,Wisin & Yandel,Halloween con perreito,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,reggae
+0XFS1o1xFNTpSkbRh6FihK,Sebastian Yatra,Halloween 2022 Perreo Vol. 5,Tacones Rojos,0,189320,False,0.748,0.856,11,-3.517,0,0.0348,0.0824,0.0,0.142,0.927,123.031,4,reggae
+0lLTbeEw41SxRHGZSEUZnd,Sebastian Yatra,Halloween 2022 Perreo Vol. 5,Amor Pasajero,3,151653,False,0.653,0.61,9,-4.872,0,0.0592,0.0477,0.0,0.114,0.812,172.062,4,reggae
+1zx6LRZhaBle13eBKZmh9V,Sebastian Yatra;Myke Towers,Esto No Se Le Dedica A Cualquiera,Pareja Del Año,1,195333,False,0.715,0.61,4,-5.095,0,0.0522,0.175,0.0,0.0949,0.771,79.973,4,reggae
+0bVekIoRM4Z133jFzeykR2,Sebastian Yatra;Luis Figueroa;Lary Over,Queda poco para la PAES 2.0,Por Perro,0,245360,False,0.684,0.762,0,-5.147,1,0.0564,0.419,0.0,0.0759,0.905,172.015,4,reggae
+71A0fSIUozc9NvH3tn3rO6,"Wisin & Yandel;Tego Calderón;Franco ""El Gorilla""",Perreo Tenebroso Vol. 2,Sigan Bailando,0,291453,False,0.753,0.831,1,-4.702,0,0.247,0.148,2.32e-05,0.0902,0.684,180.054,4,reggae
+698BVnDEuu5eDWjWfVH0qV,Wisin & Yandel,Última Misión Reggaeton,Me Estas Tentando,0,229173,False,0.81,0.916,4,-2.649,0,0.0537,0.312,7.63e-06,0.347,0.794,116.009,4,reggae
+01RPCqi99slyxGHTmLSwGO,Sebastian Yatra;Luis Figueroa;Lary Over,Carrete con besties,Por Perro,0,245360,False,0.684,0.762,0,-5.147,1,0.0564,0.419,0.0,0.0759,0.905,172.015,4,reggae
+0zJbt1VyUwCmUXyo8tSU7r,Sebastian Yatra;Jhayco,pov: it's 2021,Delincuente,0,202426,False,0.82,0.67,7,-3.89,1,0.0581,0.0331,0.0,0.116,0.644,90.984,4,reggae
+7nR2mGoLpfzMA5f3tFdtvV,Sebastian Yatra;Luis Figueroa;Lary Over,Perreo Tenebroso Vol. 2,Por Perro,0,245360,False,0.684,0.762,0,-5.147,1,0.0564,0.419,0.0,0.0759,0.905,172.015,4,reggae
+5ed9YUQoRSGibIZWy0uIcG,Sebastian Yatra;Rauw Alejandro;Manuel Turizo;Cosculluela;Lalo Ebratt;Llane;Dalmata,Perreo Tenebroso Vol. 1,TBT - Remix,0,290160,False,0.82,0.783,2,-4.266,1,0.141,0.0519,0.0,0.111,0.52,91.957,4,reggae
+5XnDEUn0QHWdr2bMJGIL1d,Wisin & Yandel;Chris Brown;T-Pain,Homecoming Latin Party,Algo Me Gusta De Ti,0,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,reggae
+4KngCJe3ij2a6KHP08Fmko,Sebastian Yatra;Reik,Halloween 2022 Pop Vol. 2,Un Año,3,164440,False,0.771,0.381,1,-6.809,0,0.0516,0.151,0.0,0.104,0.534,94.92,4,reggae
+6uWCsjSVEbZpf7KT9RFgos,Sebastian Yatra;Rauw Alejandro;Manuel Turizo,Regageton Para Niños,TBT,2,239146,False,0.703,0.844,11,-1.981,0,0.0811,0.0346,0.0,0.145,0.645,184.029,4,reggae
+2lSmevORB6fPlPP7vGwic1,Sebastian Yatra,Del gusto de hermanos,Traicionera,2,230280,False,0.779,0.675,11,-4.976,1,0.0485,0.138,0.0,0.105,0.63,91.006,4,reggae
+7z1uUb32IxZvJ97Fk86igf,Wisin & Yandel,Última Misión Reggaeton,Pam Pam,2,227280,False,0.874,0.69,10,-6.373,1,0.114,0.121,0.0,0.249,0.735,95.025,4,reggae
+4d5Q6A9elIwjrcavkM2sNx,Sebastian Yatra,Queda poco para la PAES 2.0,Traicionera,0,230280,False,0.779,0.675,11,-4.976,1,0.0485,0.138,0.0,0.105,0.63,91.006,4,reggae
+4E8u2HuqtMpKMRtZILYpAr,Sebastian Yatra,Perreo Tenebroso Vol. 1,Traicionera,0,230280,False,0.779,0.675,11,-4.976,1,0.0485,0.138,0.0,0.105,0.63,91.006,4,reggae
+3w11Zj7MbTxQagWtk3W6oz,Sebastian Yatra;Guaynaa,Halloween 2022 Perreo Vol. 1,Chica Ideal,1,183240,False,0.574,0.891,0,-3.665,0,0.157,0.0847,0.0,0.16,0.707,100.978,4,reggae
+3Iu7Mw7EOijC2WgNx6UExq,Sebastian Yatra,Para entrar en calor,Traicionera,1,230280,False,0.779,0.675,11,-4.976,1,0.0485,0.138,0.0,0.105,0.63,91.006,4,reggae
+68BcN05HQw9WR0dYi3cwUO,Sebastian Yatra;Nacho;Wisin,Perreo Tenebroso Vol. 4,Alguien Robo,0,223613,False,0.745,0.914,0,-2.667,1,0.0872,0.0976,0.0,0.222,0.686,92.983,4,reggae
+2RAEtFZQd4TZexKgblZNgA,Wisin & Yandel;Anthony Santos,Última Misión Reggaeton,Noche De Sexo,0,205773,True,0.721,0.714,11,-5.436,0,0.234,0.107,0.0,0.562,0.506,94.002,4,reggae
+1uKcGwRRnPUrCPOoNt4Od2,Sebastian Yatra;Mau y Ricky,Perreo Tenebroso Vol. 5,Ya No Tiene Novio,0,198933,False,0.632,0.832,7,-1.948,0,0.156,0.048,0.0,0.0705,0.783,182.193,4,reggae
+0eFSShjiDlp5FUspruHdJ0,Sebastian Yatra;Guaynaa,Regageton Para Niños,Chica Ideal,2,183240,False,0.574,0.891,0,-3.665,0,0.157,0.0847,0.0,0.16,0.707,100.978,4,reggae
+7AAu4Irjh4r8bVkFAIjngD,Sebastian Yatra;Ñejo;Dalmata,Perreo Tenebroso Vol. 3,Mañana No Hay Clase (24/7),0,202080,False,0.78,0.728,2,-2.586,1,0.187,0.0191,0.0,0.266,0.824,179.972,4,reggae
+1rbsgmmZ7M2aXkM6h0LK38,Sebastian Yatra;Mau y Ricky,Noche de Halloween Latino,Ya No Tiene Novio,3,198933,False,0.632,0.832,7,-1.948,0,0.156,0.048,0.0,0.0705,0.783,182.193,4,reggae
+0ZIq8sPbcDqIdlKf24VJ2q,Sebastian Yatra;Mau y Ricky,Reggeaton Imperdible,Ya No Tiene Novio,5,198933,False,0.632,0.832,7,-1.948,0,0.156,0.048,0.0,0.0705,0.783,182.193,4,reggae
+78MltdmxX017qS0JxNYFIe,Sebastian Yatra;Ñejo;Dalmata,Fiesta Reggaeton 2010s,Mañana No Hay Clase (24/7),1,202080,False,0.78,0.728,2,-2.586,1,0.187,0.0191,0.0,0.266,0.824,179.972,4,reggae
+6RtPijgfPKROxEzTHNRiDp,MAGIC!,Don't Kill the Magic,Rude,81,224840,False,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,4,reggae
+4ipnJyDU3Lq15qBAYNqlqK,J Balvin;Willy William,Mi Gente,Mi Gente,70,189440,False,0.774,0.687,11,-4.818,0,0.0584,0.0179,1.17e-05,0.128,0.308,104.959,4,reggae
+6DXLO8LndZMVOHM0wNbpzg,Don Omar;Lucenzo,Meet The Orphans,Danza Kuduro,74,198786,False,0.699,0.917,0,-4.897,1,0.115,0.078,0.0,0.065,0.889,130.04,4,reggae
+3GFQEHBTtwNF30ROf0SwoD,Don Omar,Perreo en Halloween,Salió El Sol,2,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+7Dt5Efq8VB3BhmBWpu95f1,Justin Quiles;Robin Schulz,All That Really Matters - Just Hits,AEIOU,3,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+7q2b7oG0UIDtl0rxQSeVwq,Don Omar;Plan B,Reggaeton Mix Perreito,Hooka,2,238386,False,0.733,0.859,1,-5.087,1,0.146,0.0431,0.0,0.822,0.845,170.047,4,reggae
+7nYUn0gAvdNIXcI9UA3EoF,Justin Quiles;Robin Schulz,Happy Pop Vibes,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+2gmGtBi6DOdEGgd3G9XHhm,Justin Quiles;Robin Schulz,Pop n' Fresh,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+2L44djRjs3foqu3J6GSHeg,Justin Quiles;Robin Schulz,Daily Pop Mix,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+3YtBnp4q2Trhu9Zv09ErQl,Wisin & Yandel,Halloween 2022 Perreo Vol. 1,Estoy Enamorado,2,271720,False,0.78,0.725,6,-6.032,1,0.0503,0.288,0.0,0.0851,0.431,100.92,4,reggae
+434VcYrm3FPRRiW4jw5nLb,Wisin & Yandel;Chris Brown;T-Pain,Fiesta portatil,Algo Me Gusta De Ti,3,274946,False,0.626,0.769,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.949,4,reggae
+6p5xqRlCrUcRLoK3YC9ldV,Don Omar,Homecoming Latin Party,Salió El Sol,0,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+4o0iMjd9x3znoGAYGJL2ug,Don Omar,Fiesta portatil,Salió El Sol,1,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+2ff0sgVBZ1DYnfdXkW5tkS,Justin Quiles;Robin Schulz,From The Ashes - New Beats,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+4ipbXq1KBTFNCh6R9bAleD,Justin Quiles;Robin Schulz,WORKOUT MOTIVATION,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+1v8HKXubkw9fpYfOJdmAc7,Wisin & Yandel,Homecoming Latin Party,Pegao,0,234546,False,0.792,0.804,3,-4.752,1,0.259,0.537,0.0,0.342,0.807,96.041,4,reggae
+0n5ZqJlvj8IzEh0v70tTKD,Don Omar,Halloween con perreito,Pobre Diabla,0,255680,False,0.741,0.787,5,-6.228,1,0.0525,0.217,0.0179,0.0835,0.771,91.993,4,reggae
+3PYW3j5X7x7xctZi10Mjga,Don Omar,Perreo Tenebroso Vol. 4,Pobre Diabla,0,255680,False,0.741,0.787,5,-6.228,1,0.0525,0.217,0.0179,0.0835,0.771,91.993,4,reggae
+3LBowMzopgiQjD8UT5x2AV,Don Omar,Perreo Tenebroso Vol. 3,Salió El Sol,0,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+4k6KS2c3N2ifY0HUCtD4tL,Justin Quiles;Robin Schulz,Pop Brandneu,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+1dvlY1iYFNgO7SFWRGHB3x,Wisin & Yandel,Halloween 2022 Perreo Vol. 3,Pegao,2,234546,False,0.792,0.804,3,-4.752,1,0.259,0.537,0.0,0.342,0.807,96.041,4,reggae
+2o3x3qG1XgKutD5IZPTPgA,Justin Quiles;Robin Schulz,Brandneu Dance,AEIOU,0,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+5pvHO1kSuob4imoiqa3fey,Don Omar,Esto me suena a Farra,Salió El Sol,0,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+70EAPHQagNqQz3Do73iMh6,Don Omar,Feliz Cumpleaños con Perreo,Salió El Sol,1,317280,False,0.886,0.708,4,-5.915,0,0.0911,0.107,0.0114,0.044,0.965,109.976,4,reggae
+3nA4OeDfh5607uniaoEmTv,Don Omar;Plan B,Feliz Cumpleaños con Perreo,Hooka,3,238386,False,0.733,0.859,1,-5.087,1,0.146,0.0431,0.0,0.822,0.845,170.047,4,reggae
+10kHKrWmrGJG1J9xO8HMDi,Don Omar;Zion & Lennox,Del gusto de hermanos,Te Quiero Pa´Mi,2,212026,False,0.765,0.816,1,-3.99,1,0.0595,0.124,8.19e-05,0.197,0.624,89.005,4,reggae
+1re1CuvpyhIm5ryPzUQyXc,Don Omar;Alexis y Fido,Halloween 2022 Perreo Vol. 4,No Te Vayas,0,238346,False,0.635,0.731,10,-5.703,1,0.06,0.163,7.61e-06,0.0874,0.611,187.997,4,reggae
+2UzTljfQR9QLGgpVWBunko,Don Omar,Halloween 2022 Perreo Vol. 5,Pobre Diabla,2,255680,False,0.741,0.787,5,-6.228,1,0.0525,0.217,0.0179,0.0835,0.771,91.993,4,reggae
+5pduJpTDrTl81KH8msHDIq,Don Omar;Alexis y Fido,Hora del taco sin auto,No Te Vayas,0,238346,False,0.635,0.731,10,-5.703,1,0.06,0.163,7.61e-06,0.0874,0.611,187.997,4,reggae
+4KbdeNTyeWbN3IljXBtaBU,Don Omar;Zion & Lennox,Queda poco para la PAES 2.0,Te Quiero Pa´Mi,0,212026,False,0.765,0.816,1,-3.99,1,0.0595,0.124,8.19e-05,0.197,0.624,89.005,4,reggae
+1YxJ0LwE6HQM8COctgjZVo,Don Omar,Perreo Tenebroso Vol. 4,Guaya Guaya,0,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+23tKvchhAzfCJW8HkBlxf6,Don Omar,Fiesta Reggaeton 2010s,Vacilón,2,177293,False,0.734,0.519,8,-9.483,0,0.0824,0.00814,0.141,0.311,0.685,82.983,4,reggae
+14KRCsp4ZjQbw60d0DKxoV,Don Omar;Sharlene Taule,Para entrar en calor,Encanto,1,195400,False,0.744,0.871,8,-5.123,1,0.0499,0.145,0.000498,0.0752,0.902,172.03,4,reggae
+3lQ2YjLGrwN9QDrYy8nkZw,Lenny Tavárez;Randy;De La Ghetto;Brray;Justin Quiles,Tropical Vibes,La pared 720,1,276104,True,0.698,0.845,7,-4.705,1,0.12,0.176,0.0,0.239,0.749,171.938,4,reggae
+1T0NvgD6SHsWLwPsK75en8,Don Omar,Reggaeton Mix Perreito,Guaya Guaya,1,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+6XWeO4YfQxSC48NoGkbPay,Don Omar;Zion & Lennox,Perreo Tenebroso Vol. 3,Te Quiero Pa´Mi,0,212026,False,0.765,0.816,1,-3.99,1,0.0595,0.124,8.19e-05,0.197,0.624,89.005,4,reggae
+6iwp0xbFBJE4KrktVgMYY3,Don Omar,Reggeaton Imperdible,Guaya Guaya,0,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+4B8RTAHSPfYpV222GsmEjq,Don Omar,Fiesta portatil,Zumba,2,263973,False,0.718,0.891,9,-3.494,0,0.0404,0.00175,0.0146,0.138,0.828,124.981,4,reggae
+0cZPaB4GUe0mfx1KXr6FBR,Don Omar,Perreo en Halloween,Guaya Guaya,4,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+77AAzPYU8BzH1706odR9WR,Wisin & Yandel,Halloween 2022 Perreo Vol. 5,Sexy Movimiento,0,211920,False,0.787,0.858,10,-4.152,0,0.0373,0.405,2.95e-06,0.133,0.814,105.0,4,reggae
+7bTjec04WBUn3Ou0hxEspC,Don Omar;Nio Garcia,Feliz Cumpleaños con Perreo,Se Menea,1,190880,True,0.711,0.839,7,-6.288,1,0.117,0.0472,0.0,0.0806,0.932,179.936,4,reggae
+6TzrZUKi2XFvGIBzqMGR7e,Don Omar,Esto me suena a Farra,Guaya Guaya,0,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+4Am7HvT1CHDBH5bIdat8Ll,Don Omar,Feliz Cumpleaños con Perreo,Hasta Abajo,2,233720,False,0.759,0.885,7,-4.516,1,0.0636,0.351,3.68e-05,0.468,0.673,89.966,4,reggae
+7c5gFNt49WZ1vHbVHT13Yz,Don Omar;Lucenzo,Summer Sweat,Danza Kuduro,2,198786,False,0.7,0.917,0,-4.897,1,0.115,0.0773,0.0,0.065,0.888,130.04,4,reggae
+3dJjsWCy6ZwMfw5NbD226G,Wisin & Yandel;Anthony Santos,Reggeaton Imperdible,Noche De Sexo,1,205773,True,0.721,0.714,11,-5.436,0,0.234,0.107,0.0,0.562,0.506,94.002,4,reggae
+12xEvLcLawXJUs4ANGYdxZ,"Wisin & Yandel;Franco ""El Gorilla"";Jayko",Halloween con perreito,Me Estas Tentando - Remix,0,264306,False,0.819,0.897,9,-3.633,0,0.0484,0.117,4.72e-06,0.311,0.805,116.019,4,reggae
+76CBhtLnY35sDxm3LBCTvn,Don Omar,Feliz Cumpleaños con Perreo,Dale Don Dale,1,212413,False,0.831,0.818,2,-7.827,1,0.0824,0.0245,0.000319,0.0892,0.819,95.022,4,reggae
+13ARK2D0TBE26wVOqh3pJQ,Don Omar,Última Misión Reggaeton,Dile,0,206986,False,0.822,0.744,9,-6.096,1,0.094,0.173,7.03e-05,0.0692,0.747,94.04,4,reggae
+25WU3f3gv6ATdPtSG5cybu,Don Omar;Juan Magán,Perreo Tenebroso Vol. 4,No Sigue Modas Aka Ella No Sigue Modas,0,232000,False,0.685,0.862,0,-4.611,1,0.0627,0.00757,0.0014,0.0226,0.884,128.032,4,reggae
+17x6eyS7sD6uqWfc8yn1EY,Don Omar,Última Misión Reggaeton,Dale Don Dale,0,212413,False,0.831,0.818,2,-7.827,1,0.0824,0.0245,0.000319,0.0892,0.819,95.022,4,reggae
+0GzuHFG4Ql6DoyxFRnIk3F,Maluma;The Weeknd,Hawái (Remix),Hawái - Remix,72,200481,False,0.766,0.788,6,-3.128,0,0.312,0.105,5.81e-06,0.142,0.609,179.984,4,reggae
+116H0KvKr2Zl4RPuVBruDO,Bad Bunny;Drake,MIA (feat. Drake),MIA (feat. Drake),79,210367,False,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.062,4,reggae
+5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Motivando a la Yal,Yo Voy (feat. Daddy Yankee),84,232019,False,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,4,reggae
+2BEcap3xJtmiPaHKyfQi4e,Rvssian;Rauw Alejandro;Chris Brown,Nostálgico,Nostálgico,80,209883,True,0.734,0.846,9,-3.425,0,0.0489,0.166,1.74e-06,0.235,0.604,98.026,4,reggae
+3k3NWokhRRkEPhCzPmV8TW,Bad Bunny;Bomba Estéreo,Un Verano Sin Ti,Ojitos Lindos,94,258298,False,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4,reggae
+6Sq7ltF9Qa7SNFBsV5Cogx,Bad Bunny;Chencho Corleone,Un Verano Sin Ti,Me Porto Bonito,97,178567,True,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,4,reggae
+5YUyW9opqNsMSEzzecZih1,Nicky Jam;J Balvin,Intimo,X,74,172854,False,0.594,0.749,9,-5.298,0,0.056,0.0338,0.00106,0.3,0.694,179.968,4,reggae
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,97,243716,False,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4,reggae
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,PROVENZA,93,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+1gJA27xiMdENwoAVN7kMlo,Sebastian Yatra;Isabela Merced,My Only One (No Hay Nadie Más),My Only One (No Hay Nadie Más),66,198280,False,0.727,0.526,6,-6.307,1,0.0378,0.693,0.0,0.116,0.681,105.086,4,reggae
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,La Bachata,98,162637,False,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,4,reggae
+5fwSHlTEWpluwOM0Sxnh5k,Farruko,Pepas,Pepas,86,287120,True,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4,reggae
+5w9c2J52mkdntKOmRLeM2m,Daddy Yankee;Snow,Con Calma,Con Calma,79,193226,False,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,4,reggae
+228BxWXUYQPJrJYHDLOHkj,Daddy Yankee,Barrio Fino (Bonus Track Version),Gasolina,82,192600,False,0.852,0.797,0,-6.543,1,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,4,reggae
+7COfe3P7KgfwDwIRB8LIDw,J Balvin;Willy William,Vibras,Mi Gente,72,185040,False,0.548,0.704,11,-4.838,0,0.0777,0.0168,2.25e-05,0.143,0.288,104.666,4,reggae
+63aj87TQG6F3RVO5nbG2VQ,J Balvin;Skrillex,In Da Getto,In Da Getto,75,131065,False,0.915,0.72,8,-3.126,1,0.0459,0.025,1.42e-05,0.0942,0.631,126.986,4,reggae
+1q0PYXTbDsirp2l74ng6pn,J Balvin;Skrillex,JOSE,In Da Getto,70,130666,False,0.924,0.723,8,-3.142,1,0.0466,0.0177,2.61e-05,0.113,0.643,126.998,4,reggae
+6KRPT8ZY9m2NaWSh8s8mrn,Tainy;Alvaro Diaz;Feid,Perreo Tenebroso Vol. 1,A Mi También,0,171832,False,0.761,0.644,9,-4.496,1,0.0523,0.344,1.55e-06,0.274,0.696,83.986,4,reggae
+3uHxCgxHJIAGY52Oz39xqC,Tainy;Anuel AA;Ozuna,Perreo Tenebroso Vol. 2,Adicto,0,270740,False,0.734,0.836,10,-4.803,0,0.0736,0.0171,1.71e-05,0.179,0.622,80.002,4,reggae
+59HKCnY01wQLydrAWqbva5,Zion & Lennox;J Balvin,Trending Pop,Otra vez,0,209453,False,0.829,0.772,10,-5.43,1,0.104,0.0559,0.000488,0.44,0.702,95.995,4,reggae
+4LwBxSuZQUJ6kKD1qbcQK7,Zion & Lennox;J Balvin,Tropical Vibes,Otra vez,3,209453,False,0.829,0.772,10,-5.43,1,0.104,0.0559,0.000488,0.44,0.702,95.995,4,reggae
+4Vk7RiaqnO6FrPd5hUYdsZ,Chris Jedi;Young Miko;Lunay,Homecoming Latin Party,Condado,0,232813,True,0.804,0.825,11,-3.596,1,0.0585,0.166,3.48e-06,0.116,0.662,92.02,4,reggae
+0sfZaySLY1p3e2YhRpZ1Ef,Danny Ocean,La Fine dell'Estate,Volare,3,147598,False,0.753,0.733,0,-3.715,1,0.056,0.253,0.0,0.398,0.156,92.064,4,reggae
+4V9VnRcjHmPbry0tYWRRDK,Brray,Perreo Tenebroso Vol. 5,"No Eres Tú, Soy Yo",0,167800,False,0.901,0.512,9,-12.077,0,0.251,0.327,0.001,0.103,0.753,144.968,4,reggae
+5YZQDYnMUM9VFWBgmDBzmL,Brray;Rauw Alejandro,Última Misión Reggaeton,Te Pue' Cuidar,0,232013,False,0.602,0.785,6,-4.355,0,0.232,0.143,0.0,0.103,0.582,95.038,4,reggae
+1RIDr0woQCSCdLCGTpNmJe,Chris Jedi;Ozuna;Brytiago,Halloween 2022 Perreo Vol. 5,Bipolar,2,220080,False,0.782,0.697,1,-5.85,1,0.0618,0.32,0.0,0.144,0.416,76.031,4,reggae
+6hqeoMeHQfrNiyYmuUMs6T,Brytiago;Jhayco,Perreo Tenebroso Vol. 2,Dispo,0,198813,False,0.877,0.661,11,-6.254,0,0.0998,0.274,0.0,0.0854,0.434,89.998,4,reggae
+75G3D1ajCgumVJ7Kun9MbC,Brytiago;Darell,Halloween 2022 Perreo Vol. 3,Olvidando,1,229013,False,0.767,0.672,2,-4.455,0,0.182,0.12,6.18e-05,0.695,0.585,171.996,4,reggae
+3bvSoEdHqhDv5jmIP0qfIo,Brray,Homecoming Latin Party,Bichotes Con Clase,0,193400,True,0.786,0.825,1,-5.191,0,0.259,0.0872,0.00327,0.147,0.752,180.026,4,reggae
+77PruZJPEZJ3zCFXc9ngha,Don Omar,Perreo Tenebroso Vol. 1,Bomba,0,173306,False,0.661,0.576,6,-6.025,0,0.485,0.026,0.0,0.0623,0.924,123.425,5,reggae
+6VwqM0vXcDyQZFwcmi0viG,Brytiago;Darell,Perreo Tenebroso Vol. 1,Olvidando,0,229013,False,0.767,0.672,2,-4.455,0,0.182,0.12,6.18e-05,0.695,0.585,171.996,4,reggae
+6oNU9YKF6xVDQvOB2TrYV8,Danny Ocean,Tropical Vibes,Me rehúso,0,205714,False,0.743,0.804,1,-6.327,1,0.0676,0.0231,0.0,0.0494,0.425,104.822,4,reggae
+1OMNgDgAVuAaFZblmBwVvc,Don Omar,Feliz Cumpleaños con Perreo,Pobre Diabla,1,255680,False,0.741,0.787,5,-6.228,1,0.0525,0.217,0.0179,0.0835,0.771,91.993,4,reggae
+2tkuLIkwcEBPr6PICqAaf8,Don Omar,Feliz Cumpleaños con Perreo,Guaya Guaya,0,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+6BYh2zfUosAqaZRMTRlmnh,Don Omar,Halloween con perreito,Guaya Guaya,0,194013,False,0.787,0.872,9,-2.117,1,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+59d6pKXq0vbneJNlfiX82Y,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Clásicos de ahora: Perreo,La Llevo Al Cielo,0,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+21Rm35JATSSdA41rl7Qf8V,Don Omar;Zion & Lennox,Carrete con besties,Te Quiero Pa´Mi,0,212026,False,0.765,0.816,1,-3.99,1,0.0595,0.124,8.19e-05,0.197,0.624,89.005,4,reggae
+4npXGz7CmayWQ0gIfMldbF,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Esto me suena a Farra,La Llevo Al Cielo,2,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+5K5PsYGecXpFRoSNYHvhll,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,El perreo es el futuro,La Llevo Al Cielo,0,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+1eh0KNddkwlXjI8c5H6K3j,Don Omar;Trebol Clan,Perreo Tenebroso Vol. 3,Tu Cuerpo Me Arrebata,0,203653,False,0.819,0.645,10,-6.707,0,0.0481,0.232,0.000863,0.178,0.724,94.998,4,reggae
+3QFlqpEXLKXpU56dENcuiy,Don Omar,Esto me suena a Farra,Dale Don Dale,1,212413,False,0.831,0.818,2,-7.827,1,0.0824,0.0245,0.000319,0.0892,0.819,95.022,4,reggae
+3wg5msLliZtdraqMNj3SSm,Tony Dize;Yandel,Halloween con perreito,Permitame,0,185013,False,0.63,0.669,8,-6.974,1,0.148,0.0291,0.0,0.159,0.904,214.024,4,reggae
+1DGt4mkDsqguGSLYFerzKO,Brray;Chencho Corleone,Noche de Halloween Latino,El Querendón,1,168466,True,0.803,0.866,3,-4.503,0,0.0627,0.122,0.0153,0.193,0.772,95.008,4,reggae
+4ENkKYfRk9udeKaJBjvxss,Brytiago;Wisin,Hora del taco sin auto,Borracho,0,197360,False,0.816,0.701,7,-4.119,0,0.175,0.481,0.0,0.449,0.653,92.003,4,reggae
+5mVW4nXaUzd8bRn0MWQb9H,Yandel;Sebastian Yatra;Manuel Turizo,Fiesta Reggaeton 2010s,En Cero,1,223586,False,0.733,0.783,9,-4.788,1,0.0386,0.156,0.0,0.286,0.634,93.018,4,reggae
+5dq2dQHbAq3BCbBX1OXcV7,Yandel;Sebastian Yatra;Manuel Turizo,Perreo Tenebroso Vol. 1,En Cero,0,223586,False,0.733,0.783,9,-4.788,1,0.0386,0.156,0.0,0.286,0.634,93.018,4,reggae
+6F4k61BlMK01JUwwjFWKKw,Tony Dize;Ken-Y;Marioso,Queda poco para la PAES 2.0,Quizas - Remix,0,240200,False,0.787,0.679,9,-4.913,1,0.0658,0.416,0.0,0.15,0.876,89.996,4,reggae
+5XRwsXxExAn3FVewv4W9mn,Tony Dize;Ken-Y;Marioso,Perreo Tenebroso Vol. 3,Quizas - Remix,0,240200,False,0.787,0.679,9,-4.913,1,0.0658,0.416,0.0,0.15,0.876,89.996,4,reggae
+20WVaMhJq7PZjp2goKgtPy,Tainy;J Balvin,Regageton Para Niños,"Agua - Music From ""Sponge On The Run"" Movie",2,157944,False,0.76,0.658,7,-5.275,1,0.275,0.162,0.0,0.195,0.565,100.202,4,reggae
+16WngPBW0UBCNILvwPjldQ,Tony Dize;Yandel,Última Misión Reggaeton,Permitame,0,185013,False,0.63,0.669,8,-6.974,1,0.148,0.0291,0.0,0.159,0.904,214.024,4,reggae
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Un Verano Sin Ti,Moscow Mule,94,245939,True,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4,reggae
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Un Verano Sin Ti,Efecto,95,213061,False,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,4,reggae
+1BkY0N8ChFk2mdLbAUu8ZK,Musical Youth,Anthology,Pass The Dutchie,78,205426,False,0.805,0.418,7,-14.374,1,0.0979,0.459,0.0,0.288,0.966,149.724,4,reggae
+6KuqAtoeVzxAYOaMveLNpH,Daddy Yankee,Dura,Dura,72,200480,False,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.839,95.001,4,reggae
+7fpym9dJ7HFNgOxk2x8iMb,Kevin Roldan;Bryant Myers;Lyanno,Perreo en Halloween,Hasta Abajo,1,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+5Ct6xnkAQJ7lZXp7vHM8uF,Chris Jedi;Ozuna;Brytiago,Perreo Tenebroso Vol. 4,Bipolar,0,220080,False,0.782,0.697,1,-5.85,1,0.0618,0.32,0.0,0.144,0.416,76.031,4,reggae
+0DHBe3RkyM9V4InBW7DZqS,Chris Jedi;J Balvin;Ozuna;Arcangel,En la nada,Ahora Dice,0,270493,False,0.704,0.691,6,-5.414,1,0.158,0.255,0.0,0.129,0.427,143.982,4,reggae
+22x5EpcJkfE3SHBONJG6FS,CHEHON,BEST,韻波句徒,60,291440,False,0.806,0.863,10,-2.679,0,0.0518,0.408,0.0,0.0755,0.928,122.03,4,reggae
+1MbkGV6nl8omJ4C2IDb7ts,Chris Jedi;J Balvin;Ozuna;Arcangel,Frescura y Perreo,Ahora Dice,1,270493,False,0.704,0.691,6,-5.414,1,0.158,0.255,0.0,0.129,0.427,143.982,4,reggae
+5VelPjakTvwPBHjPhl2Igv,Chris Jedi;J Balvin;Ozuna;Arcangel,Halloween 2022 Pop Vol. 5,Ahora Dice,1,270493,False,0.704,0.691,6,-5.414,1,0.158,0.255,0.0,0.129,0.427,143.982,4,reggae
+0DBBQaDg8YPePplq7m7Cah,Kevin Roldan,Clásicos de ahora: Perreo,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+3AcYk1ZF0Xgzr7hvZDsMfq,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Reggaeton Mix Perreito,La Llevo Al Cielo,2,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+0BiVnPxkDSfZx3BjNDQrGg,Kevin Roldan,El perreo es el futuro,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+1CAeeyQyXfuEfM13nSYuXi,Kevin Roldan,Halloween con perreito,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+2q2atJsGhvwWiMeeDAyztu,Kevin Roldan;Bryant Myers;Lyanno,Perreo Tenebroso Vol. 5,Hasta Abajo,0,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+6Zh8RyaIF8MsQ2os943OB7,Cali Y El Dandee,Para entrar en calor,Sirena,1,205791,False,0.755,0.767,1,-4.446,1,0.0535,0.00459,8.28e-06,0.0618,0.321,93.959,4,reggae
+4woflPn7hNodcdO2dAC2N9,Shaggy;Ricardo Ducent,Los Clásicos del Pop 90s,It Wasn't Me,2,229194,False,0.851,0.621,0,-4.184,1,0.0675,0.0545,0.0,0.336,0.691,94.739,4,reggae
+1JnPImcRMLyzAQhIVSEGwW,Kevin Roldan;Bryant Myers;Lyanno,Halloween con perreito,Hasta Abajo,0,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+1IzL5F7RfFpeqwKaWrB32I,Kevin Roldan,Reggaeton Mix Perreito,PPP,2,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+3i2njMyJOynYaC9o7QS0n7,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Bájale como 7500,La Llevo Al Cielo,4,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+5UiFhQAqSCvdpBaoqJ5HVX,Shaggy;Ricardo Ducent,De ese gran pop de los 00's,It Wasn't Me,0,229194,False,0.851,0.621,0,-4.184,1,0.0675,0.0545,0.0,0.336,0.691,94.739,4,reggae
+3R2gIWAXOAyNXTmfxMITwK,Kevin Roldan,Fiesta portatil,PPP,1,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+29JCWevsvdisCcX8U3m9Rr,Kevin Roldan;Bryant Myers;Lyanno,Esto No Se Le Dedica A Cualquiera,Hasta Abajo,0,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+5AwXAAPFy9Jxfx4ZwkPsJe,Kevin Roldan;Bryant Myers;Lyanno,Halloween 2022 Perreo Vol. 1,Hasta Abajo,0,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+1ZhmacPRRzLc9p3JPhWkCZ,Kevin Roldan,Feliz Cumpleaños con Perreo,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+3E3RZ7QIzKBmbTsy1c3lha,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Homecoming Latin Party,La Llevo Al Cielo,0,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+17FkpdMt5cnKMPqlCVm8yF,Kevin Roldan,Esto me suena a Farra,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+1ycasxRQuWKCs0LpIBNcw7,Kevin Roldan;Bryant Myers;Lyanno,Noche de Halloween Latino,Hasta Abajo,1,229826,False,0.714,0.671,5,-5.119,1,0.362,0.292,0.0,0.325,0.641,169.727,4,reggae
+5ywMdbYK6YThy10BMT7tBw,Cali Y El Dandee;Sebastian Yatra,Perreo Tenebroso Vol. 3,Locura,0,209440,False,0.758,0.778,8,-3.562,1,0.0657,0.0806,0.0,0.198,0.532,92.983,4,reggae
+5mGloFHrHDNGR1pY8iyxGn,Kevin Roldan,Frescura y Perreo,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+5jwbubhOVH3QhkRrvaNwa5,Kevin Roldan,Perreo Tenebroso Vol. 5,BB,0,125840,False,0.782,0.616,7,-3.399,1,0.102,0.00812,9.54e-06,0.259,0.888,171.841,4,reggae
+3wtXp02KWZCqsZGWRZxNM6,Kevin Roldan,Perreo en Halloween,PPP,1,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+4WxMqMk1waoa4nCUZlBuJE,Kevin Roldan,Reggeaton Imperdible,PPP,0,129332,False,0.798,0.625,4,-6.83,1,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+77JnuzkgDssvr8Q5GQ39Eh,Cali Y El Dandee;Danna Paola,Verano en Junio,Nada,0,174026,False,0.684,0.808,0,-2.737,1,0.061,0.0518,1.02e-05,0.0858,0.712,173.905,4,reggae
+66QO2dO5M8aYhCylwQBGuG,Shaggy,90's Music Grandi Successi,Boombastic,1,246920,False,0.852,0.887,2,-4.468,1,0.263,0.246,1.87e-05,0.311,0.788,158.565,4,reggae
+7s1KiBsH0lCggKO52Qir6X,Chris Jedi;Joey Montana,Del gusto de hermanos,Dale Hasta Abajo,0,211560,False,0.686,0.915,10,-2.756,0,0.0449,0.079,0.000275,0.107,0.743,100.003,4,reggae
+7mF9uYGCRlj7KWNYJHQBZP,Kevin Roldan,Hora del taco sin auto,Mamasita,0,151986,False,0.81,0.717,10,-3.92,0,0.132,0.0182,0.00148,0.105,0.687,95.08,4,reggae
+4HfNjXo5cFstSBOddIjOwT,Kevin Roldan;Wisin,Queda poco para la PAES 2.0,Deseo,0,219853,False,0.708,0.788,1,-3.745,1,0.122,0.119,1.51e-05,0.0543,0.697,178.039,4,reggae
+1Gq202pQaNT0U9lbcVrPha,Chris Jedi;Joey Montana,Hora del taco sin auto,Dale Hasta Abajo,0,211560,False,0.686,0.915,10,-2.756,0,0.0449,0.079,0.000275,0.107,0.743,100.003,4,reggae
+0yJYYdWIQ0VR1Zz4CAweO7,Cali Y El Dandee,Perreo Tenebroso Vol. 5,Ay Corazón,0,190287,False,0.728,0.711,5,-4.477,0,0.081,0.0183,0.0,0.0727,0.782,172.068,4,reggae
+6geDG6zrcBSqg5AzTFtTlp,Greeicy,Para entrar en calor,Ganas,1,214413,False,0.735,0.804,0,-2.405,1,0.0979,0.0371,0.000636,0.102,0.725,175.844,4,reggae
+5VVRRXsJ77a4jjGZCiIpAL,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,Última Misión Reggaeton,La Llevo Al Cielo,0,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+0vvKVl5nawPkgrBrCNJQNh,Cali Y El Dandee;Shaggy,Carrete con besties,Lumbra,0,197086,False,0.724,0.84,0,-3.633,1,0.0393,0.0564,0.0,0.618,0.842,92.011,4,reggae
+4JTtCxkZMVZ04O9rG4WEev,Chris Jedi;Joey Montana,Queda poco para la PAES 2.0,Dale Hasta Abajo,0,211560,False,0.686,0.915,10,-2.756,0,0.0449,0.079,0.000275,0.107,0.743,100.003,4,reggae
+3lOFofBlwZF66FMjH2AcuC,Cali Y El Dandee;Juan Magán;Sebastian Yatra,Queda poco para la PAES 2.0,Por Fin Te Encontré,0,250836,False,0.645,0.822,11,-3.679,1,0.212,0.0493,0.0,0.193,0.837,179.994,4,reggae
+7nE3oOOq9YVJbXhdJSO2Qf,Kevin Roldan;Wisin,Fiesta Reggaeton 2010s,Deseo,1,219853,False,0.708,0.788,1,-3.745,1,0.122,0.119,1.51e-05,0.0543,0.697,178.039,4,reggae
+2awk2br4XeJn2L6Dl9stuj,Cali Y El Dandee;Reik,Halloween 2022 Perreo Vol. 5,Borracho De Amor,1,175640,False,0.62,0.754,9,-2.155,1,0.116,0.0578,0.0,0.0993,0.828,90.064,4,reggae
+7kjCV7x1jtkCEPSOmcdKQc,Greeicy,Halloween 2022 Perreo Vol. 4,Más Fuerte,0,184306,False,0.82,0.809,11,-4.319,0,0.0715,0.111,0.000129,0.152,0.553,92.007,4,reggae
+3pjW5482iWgJVqQOpu4AG9,Tony Dize,El Doctorado,El Doctorado,60,263187,False,0.721,0.773,10,-6.283,1,0.0368,0.053,0.0,0.484,0.75,120.007,4,reggae
+3C8crz63UpoyBdGXGUEH6q,Greeicy;Anitta,Perreo Tenebroso Vol. 5,Jacuzzi,0,184106,False,0.821,0.736,0,-4.484,0,0.0669,0.0914,0.0,0.0542,0.941,93.008,4,reggae
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Un Verano Sin Ti,Neverita,93,173119,False,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,4,reggae
+7cdy4PbCdDZZNjyxoZyE0c,Dirty Heads,Vacation,Vacation,66,209721,True,0.736,0.751,8,-5.588,1,0.034,0.0381,0.0,0.105,0.839,150.064,4,reggae
+4sCSUQnWQ6HJsOMjfPicdn,Don Omar;Lucenzo,Fast Five (Original Motion Picture Soundtrack),Danza Kuduro,69,198386,False,0.701,0.896,0,-6.459,1,0.0814,0.0866,0.0,0.0572,0.896,130.067,4,reggae
+0zREtnLmVnt8KUJZZbSdla,K'NAAN,Troubadour,Wavin' Flag,59,220520,False,0.625,0.699,0,-6.416,1,0.0729,0.13,0.0,0.238,0.717,75.974,4,reggae
+37Vpwl1B9rV95igWTpDiUp,Alvaro Diaz,Homecoming Latin Party,LENTITO,0,203546,False,0.584,0.803,1,-4.953,1,0.273,0.0392,4.71e-05,0.0973,0.339,108.049,4,reggae
+12q6GsWqd3fWonMJUxApFi,Alvaro Diaz,El perreo es el futuro,LENTITO,0,203546,False,0.584,0.803,1,-4.953,1,0.273,0.0392,4.71e-05,0.0973,0.339,108.049,4,reggae
+6FbrSyJzNzfFtsUE9swQVS,Alvaro Diaz,Alternativo diferente latino,LENTITO,0,203546,False,0.584,0.803,1,-4.953,1,0.273,0.0392,4.71e-05,0.0973,0.339,108.049,4,reggae
+2kPMnIuUd8ICqi8ZT431WR,Alvaro Diaz,Verano en Junio,LENTITO,0,203546,False,0.584,0.803,1,-4.953,1,0.273,0.0392,4.71e-05,0.0973,0.339,108.049,4,reggae
+279v3VcrRPLwfWQxncA7fa,Alvaro Diaz;Feid;Tainy,Esto No Se Le Dedica A Cualquiera,Llori Pari,2,215026,False,0.602,0.573,5,-7.388,1,0.0518,0.282,0.0,0.0854,0.319,174.048,4,reggae
+4wit0NHnugHv2PqEUtxmiL,Alvaro Diaz;Feid;Tainy,Reggaeton Mix Perreito,Llori Pari,0,215026,False,0.602,0.573,5,-7.388,1,0.0518,0.282,0.0,0.0854,0.319,174.048,4,reggae
+4YjKwvKBYxjoOo23PVWlxF,Alvaro Diaz,Alternativo diferente latino,Ramona Flowers,0,181240,False,0.665,0.769,0,-6.532,1,0.0275,0.0776,6.84e-06,0.0754,0.76,138.001,4,reggae
+1xnaPsmJeELhPNUkY3G1Qe,Alvaro Diaz,Noche de Halloween Latino,Brilloteo,1,258560,False,0.718,0.735,1,-4.854,1,0.0369,0.0917,0.0,0.188,0.4,109.999,4,reggae
+1I86H4C4Vqm0INF99IGq0r,Alvaro Diaz;Rauw Alejandro,Noche de Halloween Latino,Problemón,1,193013,False,0.729,0.737,2,-3.727,0,0.064,0.275,7.58e-06,0.137,0.369,91.99,4,reggae
+5Ms7TnzfvUT4FVFc2vR3CL,Alvaro Diaz;Rauw Alejandro,Homecoming Latin Party,Problemón,0,193013,False,0.729,0.737,2,-3.727,0,0.064,0.275,7.58e-06,0.137,0.369,91.99,4,reggae
+0upL5Y9SejKeu2vXyTDpgB,Guaynaa;Lyanno,Perreo Tenebroso Vol. 5,Chama,0,193546,False,0.814,0.682,4,-4.24,0,0.268,0.143,0.00682,0.0788,0.785,179.959,4,reggae
+0ljEtiprW5mmX5AN3EzOxb,Guaynaa,Perreo Tenebroso Vol. 3,Buyaka,0,153306,False,0.787,0.738,10,-4.649,0,0.261,0.187,0.0,0.0968,0.733,95.909,4,reggae
+5FIXbE6CQqC6P5G9eyQGsZ,Guaynaa,Bájale como 7500,Toca,0,188653,False,0.879,0.682,1,-4.389,0,0.251,0.13,0.0,0.0482,0.592,92.019,4,reggae
+1597WGPM2yBKrpfn5sOfwN,Guaynaa;Yandel,Perreo Tenebroso Vol. 2,Full Moon,0,185680,False,0.852,0.833,2,-3.959,1,0.0693,0.0774,1.94e-06,0.111,0.622,84.007,4,reggae
+0lFbEWKabh3xYmmrzp5bLE,Guaynaa,Perreo Tenebroso Vol. 5,Mera,0,199400,True,0.806,0.881,6,-5.231,1,0.252,0.178,7.74e-06,0.356,0.961,176.07,4,reggae
+5MlyfdO19mwghNMr2p2hzb,Guaynaa,Del gusto de hermanos,Buyaka,0,153306,False,0.787,0.738,10,-4.649,0,0.261,0.187,0.0,0.0968,0.733,95.909,4,reggae
+1fbsUD9EumzryL4OEhoG6s,Cali Y El Dandee;Andry Kiddos,noches de lluvia,Adiós,0,187400,False,0.598,0.674,0,-3.653,1,0.12,0.452,0.0,0.166,0.803,72.205,4,reggae
+78ibI5Q8xHs4qYwD0OM2Sw,"Tito ""El Bambino"";Beenie Man;Ines",Perreo en Halloween,Flow Natural,2,173866,False,0.831,0.789,0,-5.498,1,0.0661,0.121,0.0,0.328,0.826,101.037,4,reggae
+5kwLY3eUcdPTaelGBrpydA,Guaynaa;Yandel,Hora del taco sin auto,Full Moon,1,185680,False,0.852,0.833,2,-3.959,1,0.0693,0.0774,1.94e-06,0.111,0.622,84.007,4,reggae
+4JvmGac2Ew2OTMe1QJlNzS,Alvaro Diaz;Rauw Alejandro,Última Misión Reggaeton,Problemón,0,193013,False,0.729,0.737,2,-3.727,0,0.064,0.275,7.58e-06,0.137,0.369,91.99,4,reggae
+5mhWD3cDX9JTP0ukiEzNWf,Sublime,Hits Pop Rock 90's,Santeria,1,183200,False,0.665,0.751,4,-5.003,1,0.041,0.0209,5.16e-06,0.121,0.58,90.376,4,reggae
+5O8sAf3rns1o6Y9lItpuOX,Guaynaa,El perreo es el futuro,Rompe Rodillas,0,148680,False,0.778,0.66,6,-8.054,0,0.0482,0.125,0.0,0.0316,0.945,91.971,4,reggae
+3fbQXzBfdtRIk1vTIsFeMt,Guaynaa,Bájale como 7500,Rompe Rodillas,0,148680,False,0.778,0.66,6,-8.054,0,0.0482,0.125,0.0,0.0316,0.945,91.971,4,reggae
+29PfVio5gxsc0ymzSXZArT,Guaynaa,Fiesta Reggaeton 2010s,Buyaka,1,153306,False,0.787,0.738,10,-4.649,0,0.261,0.187,0.0,0.0968,0.733,95.909,4,reggae
+70HLW9Yr7lpDtP3Mp8ykSg,Guaynaa,Esto me suena a Farra,Rompe Rodillas,0,148680,False,0.778,0.66,6,-8.054,0,0.0482,0.125,0.0,0.0316,0.945,91.971,4,reggae
+5mqChkogh42ie0pKbPb2Ql,Juan Magán,Queda poco para la PAES 2.0,Verano Azul,0,190560,False,0.887,0.87,2,-5.267,1,0.119,0.0143,0.0,0.015,0.837,126.047,4,reggae
+7k2Gfx7sRbecp29SQuNWXv,"Tito ""El Bambino""",Queda poco para la PAES 2.0,"Sol, Playa Y Arena",0,188320,False,0.823,0.656,5,-6.141,0,0.11,0.257,0.0,0.329,0.713,94.038,4,reggae
+5YWW66ptUmdgUNBKU72sgX,Maneva,Mundo Novo,Porta Do Teu Prédio,57,179031,False,0.751,0.637,10,-8.716,1,0.256,0.429,0.0,0.143,0.559,141.985,4,reggae
+4rx74n3FvoM0zWU9nZesMw,"Tito ""El Bambino""",Perreo Tenebroso Vol. 1,"Sol, Playa Y Arena",0,188320,False,0.823,0.656,5,-6.141,0,0.11,0.257,0.0,0.329,0.713,94.038,4,reggae
+5ibwMeVwibkJKWHO7kv0cV,UB40,Mirando las nubes,Red Red Wine,0,320866,False,0.815,0.359,1,-15.663,1,0.0572,0.00645,0.000101,0.0931,0.85,89.155,4,reggae
+6nGVNcm1jBvgeNmYcxWhW7,"Tito ""El Bambino"";Beenie Man;Ines",Halloween con perreito,Flow Natural,0,173866,False,0.831,0.789,0,-5.498,1,0.0661,0.121,0.0,0.328,0.826,101.037,4,reggae
+6WkB2gQrYHeGfnoNWyYupn,"Tito ""El Bambino"";Randy",Perreo Tenebroso Vol. 2,Siente El Boom,0,188733,False,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+5eoeprRHwpMtrqkJM8Cll8,"Tito ""El Bambino"";Randy",Halloween con perreito,Siente El Boom,0,188733,False,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+4el0K1aIjyKIfmXRh5NYRy,"Tito ""El Bambino"";Randy",Halloween 2022 Perreo Vol. 3,Siente El Boom,0,188733,False,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+4eSJM9STV1Tfho9D5n6mHK,"Tito ""El Bambino"";Randy",Reggeaton Imperdible,Siente El Boom,0,188733,False,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+4icqZpqGF4ZKp0TP1QqsXc,Greeicy,Verano en Junio,Los Besos,0,202333,False,0.678,0.752,11,-4.242,1,0.212,0.071,5.15e-06,0.0963,0.662,167.822,4,reggae
+2GqmufsIytFAXE9sxz4m4S,J Alvarez;Sak Luke;DJ Valdi,Caribe Mix Reggaeton,Loka Loka,0,210093,False,0.775,0.794,0,-4.167,0,0.0486,0.162,0.0,0.337,0.84,94.018,4,reggae
+7JUUnmGyv4qi32A5c60IbR,Greeicy,tardes tranqui,Los Consejos,1,176040,False,0.7,0.534,9,-6.113,1,0.083,0.167,0.0,0.102,0.368,157.987,4,reggae
+1ErVAnzjNvyXSodWbOTYNu,Greeicy;Anitta,Halloween 2022 Perreo Vol. 1,Jacuzzi,0,184106,False,0.821,0.736,0,-4.484,0,0.0669,0.0914,0.0,0.0542,0.941,93.008,4,reggae
+6VppCXLthp6U3noHF3GUwO,Greeicy;Nacho,Bájale como 7500,Destino,0,180480,False,0.708,0.76,0,-3.02,1,0.0934,0.0104,8.35e-06,0.0462,0.706,188.124,4,reggae
+0A2nt7MC3sipIRZ0D1jhZg,J Alvarez;Sak Luke;DJ Valdi,Canciones de Regueton,Loka Loka,0,210093,False,0.775,0.794,0,-4.167,0,0.0486,0.162,0.0,0.337,0.84,94.018,4,reggae
+53sOR02nAN4tpAzAkL2EnB,Sublime,Hits Pop Rock 90's,What I Got,1,170906,True,0.804,0.693,7,-7.47,1,0.0915,0.00876,0.000916,0.314,0.654,95.721,4,reggae
+3y6xF1z5uAMMySr3ilTBt2,Greeicy;Nacho,Regageton Para Niños,Destino,1,180480,False,0.708,0.76,0,-3.02,1,0.0934,0.0104,8.35e-06,0.0462,0.706,188.124,4,reggae
+39qyQ1YSz6pyABCSqjLVfr,Greeicy;Mike Bahía,Fiesta Reggaeton 2010s,Si Tu Amor No Vuelve,2,201040,False,0.713,0.657,10,-4.088,1,0.0372,0.321,0.0,0.355,0.813,125.012,4,reggae
+2iNLQA0yVkF3aA1Y4vZ4Oc,Greeicy;Mariah Angeliq;Darell;Andrés Torres;Mauricio Renfigo,Halloween 2022 Perreo Vol. 4,Aguardiente - Remix,0,166666,False,0.744,0.885,6,-3.533,1,0.105,0.0162,0.000543,0.338,0.881,160.04,4,reggae
+0MbQNJzr6ysEjjPbL75E4f,"Tito ""El Bambino"";Randy",Última Misión Reggaeton,Siente El Boom,0,188733,False,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+7k4t7uLgtOxPwTpFmtJNTY,KAROL G;Nicki Minaj,Tusa,Tusa,78,200960,False,0.803,0.715,2,-3.28,1,0.298,0.295,0.000134,0.0574,0.574,101.085,4,reggae
+3WkibOpDF7cQ5xntM1epyf,Shaggy;Rik Rok,Hot Shot,It Wasn't Me,79,227600,False,0.853,0.606,0,-4.596,1,0.0713,0.0561,0.0,0.313,0.654,94.759,4,reggae
+7FDV5ELOJHCGLe52AnttEd,Shaggy;Rayvon,Hot Shot,Angel,74,235133,False,0.74,0.766,6,-2.939,1,0.178,0.116,0.0,0.0406,0.807,170.531,4,reggae
+5cpJFiNwYyWwFLH0V6B3N8,Ozuna;Doja Cat;Sia,Enoc,Del Mar,75,214506,True,0.759,0.636,6,-5.585,1,0.0369,0.0224,0.000143,0.166,0.536,109.976,4,reggae
+0sQLhT32E9ZG2zn5iYR6nN,R. City;Adam Levine,Locked Away (feat. Adam Levine),Locked Away (feat. Adam Levine),62,227280,False,0.508,0.677,1,-5.696,1,0.0656,0.328,0.0,0.0491,0.575,121.928,5,reggae
+0IqCoZ168iRc9LqfrYgpZy,Camilo;Shawn Mendes,KESI (Remix),KESI - Remix,76,176575,False,0.871,0.815,4,-4.439,1,0.0477,0.127,6.18e-06,0.094,0.823,122.959,4,reggae
+5b1je14Oz92lpIlIMLieWw,Farruko,Viaje,Viaje,71,303626,True,0.705,0.799,0,-4.776,0,0.0347,0.0357,0.417,0.0643,0.658,122.018,4,reggae
+2CGhzWArXQZG86V1Ztv4Q2,Ozuna,OzuTochi,Mañana,73,192320,False,0.865,0.522,6,-4.648,1,0.0761,0.105,0.0154,0.0671,0.692,91.015,4,reggae
+1DoK3CdipMjplLk5LXUdcp,J Balvin;Willy William;Beyoncé,Mi Gente (feat. Beyoncé),Mi Gente (feat. Beyoncé),63,209733,False,0.759,0.716,11,-6.36,0,0.0818,0.0223,0.0,0.231,0.469,105.021,4,reggae
+58gqyeFXhOttZW3yetJGPN,CNCO;Little Mix,CNCO,Reggaetón Lento (Remix),66,188800,False,0.534,0.911,4,-3.086,0,0.0852,0.15,0.0,0.0986,0.624,93.767,4,reggae
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,L3tra,Caile,90,141340,True,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,3,reggae
+4PlkeOWaeaS9e0R2DvZUgc,Ozuna;El Cherry Scom,OzuTochi,Perreo y Dembow,58,162026,False,0.913,0.722,7,-2.949,1,0.0576,0.0171,0.0978,0.139,0.545,110.015,4,reggae
+1zsPaEkglFvxjAhrM8yhpr,Ozuna;Feid,OzuTochi,Hey Mor,77,196600,False,0.901,0.589,1,-6.713,0,0.289,0.00302,0.000237,0.0992,0.399,98.002,4,reggae
+2OnxKo0mQEOTn6EdCQfVGr,Fuego;Nicky Jam;De La Ghetto;Amenazzy;C. Tangana,Halloween 2022 Perreo Vol. 4,Good Vibes - Official Remix,3,236906,False,0.757,0.614,4,-6.042,0,0.139,0.0548,5.25e-06,0.31,0.279,100.037,4,reggae
+6vH2CFODQxTEVi2wSfWJRQ,Guaynaa;Cauty,El perreo es el futuro,Chicharrón,0,195866,False,0.734,0.789,10,-4.305,0,0.454,0.447,9.66e-05,0.498,0.811,76.182,4,reggae
+7HQeCziAlvJr4k7Ou64ILn,Guaynaa;Cauty,Noche de Halloween Latino,Chicharrón,3,195866,False,0.734,0.789,10,-4.305,0,0.454,0.447,9.66e-05,0.498,0.811,76.182,4,reggae
+2GSWR453Xv6240yHfQvLoZ,Fuego,Fiesta Reggaeton 2010s,Loco Por Llegar,0,187026,False,0.795,0.68,10,-3.922,0,0.208,0.736,1.17e-05,0.0811,0.694,95.009,4,reggae
+1Y1TUKvMGwtEkJ0hMQFjuf,Alejo;Feid;ROBI,Frescura y Perreo,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+1OIQlcvZ7eKfm3opuKMgJ6,Alejo;Feid;ROBI,Homecoming Latin Party,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+54KiU4M8K8reFSj5tcVxyH,Alejo;Feid;ROBI,Clásicos de ahora: Perreo,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+7MGtbDJ5mydyvTl3FLpTvS,Fuego;Greeicy,Fiesta Reggaeton 2010s,Bien Fancy,0,206573,False,0.8,0.649,7,-7.242,0,0.0981,0.156,0.00274,0.217,0.594,102.965,4,reggae
+4ay8g5sUQNTC3bsBLQJY0b,Alejo;Feid;ROBI,Fiesta portatil,Pantysito,1,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+1FYGea2H0DzCWhcfikUlbQ,Guaynaa;Cauty,Halloween 2022 Perreo Vol. 1,Chicharrón,0,195866,False,0.734,0.789,10,-4.305,0,0.454,0.447,9.66e-05,0.498,0.811,76.182,4,reggae
+1wOpMjWFiYm9xuRvqATOiS,Alejo;Feid;ROBI,El perreo es el futuro,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+4tS4bHAZvTJdEl3jFoX08z,Alejo;Feid;ROBI,Reggaeton Mix Perreito,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+7bO42EBeTY998hkz8AFxpd,Alejo;Feid;ROBI,Halloween con perreito,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+7b7U1UbBVxh6T7hYfYoJjY,Alejo;Feid;ROBI,Feliz Cumpleaños con Perreo,Pantysito,1,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+5fmzL3Ogapgp9lP1SDzhTu,Alejo;Feid;ROBI,Perreo en Halloween,Pantysito,4,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+6Q7Ftkc5TO3hguFRIHceM5,Alejo;Feid;ROBI,Esto me suena a Farra,Pantysito,0,240413,True,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+13SgfMDRRldjdxzd6eKpQm,Juan Magán;Mariah Angeliq;Yera,Hora del taco sin auto,Amigos,0,177333,False,0.74,0.63,11,-6.634,0,0.0832,0.0212,0.0,0.299,0.763,89.952,4,reggae
+1thR2sfJj6FasYaXHQ98e4,Juan Magán;Mala Rodríguez,Perreo Tenebroso Vol. 3,Usted,0,233746,False,0.666,0.826,0,-4.093,1,0.0625,0.017,0.0,0.285,0.343,104.701,4,reggae
+2pXg8l1JGZ3hCyFqxirV13,Lalo Ebratt;Trapical,Frescura y Perreo,Mocca,0,200293,False,0.786,0.696,1,-5.343,0,0.352,0.183,0.0,0.123,0.591,97.956,4,reggae
+5VQtzkdA45dJW2DkSdo4UG,Kenia OS,Canciones Pa Mi Ex Vol.1,Tenía Que Llegar,54,179743,False,0.741,0.626,3,-7.962,0,0.129,0.36,0.0,0.111,0.362,92.992,4,reggae
+3QAE1arPJAMVKt3NUqjikE,Juan Magán;Paulina Rubio;DCS,Queda poco para la PAES 2.0,Vuelve,0,213240,False,0.661,0.677,5,-6.467,1,0.0383,0.628,0.0,0.0793,0.959,174.068,4,reggae
+5DU0TdZSrSldWJd8Xtnh7C,Juan Magán;Maffio,Perreo Tenebroso Vol. 2,Tentándome,0,168746,False,0.647,0.816,0,-4.824,0,0.0648,0.179,0.0,0.314,0.725,119.826,4,reggae
+4cM2my2lywCzLnmPBaOQRt,Lalo Ebratt;Trapical,Frescura y Perreo,Boomerang,0,181045,False,0.603,0.661,0,-5.857,0,0.088,0.221,0.000303,0.0997,0.919,92.135,3,reggae
+2YVn2wkwLYSVkSV6qgKIPg,Kevin Martes 13,Inmortal,Jarabe - Remastered,54,142814,False,0.666,0.828,10,-5.896,0,0.0564,0.0463,0.0,0.354,0.69,97.992,4,reggae
+4wDLjJxeBBK3S1rblfa0Ud,Juan Magán;Belinda;Lapiz Conciente,Carrete con besties,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,reggae
+3KDZ70hGCblHi2XO6DYLUV,Lalo Ebratt;Trapical,Fiesta portatil,Boomerang,0,181045,False,0.603,0.661,0,-5.857,0,0.088,0.221,0.000303,0.0997,0.919,92.135,3,reggae
+44fGrLd73HAlF2ooc5e1YE,Lalo Ebratt;Trapical,Hora del taco sin auto,Boomerang,0,181045,False,0.603,0.661,0,-5.857,0,0.088,0.221,0.000303,0.0997,0.919,92.135,3,reggae
+1DcMu1oaXb57IS0jPBzXNE,Juan Magán;Maffio,Halloween 2022 Pop Vol. 1,Tentándome,0,168746,False,0.647,0.816,0,-4.824,0,0.0648,0.179,0.0,0.314,0.725,119.826,4,reggae
+39CGIEtrFLVo9wypDB5ABX,Lalo Ebratt;Juanes;Skinny Happy;Yera;Trapical,Halloween 2022 Perreo Vol. 4,Todo Bien,0,217090,False,0.751,0.821,6,-4.212,0,0.0554,0.732,0.0,0.35,0.827,110.078,4,reggae
+5VCiHDSwirlQ3yGZAcW8sh,Lalo Ebratt;J Balvin;Trapical,Halloween 2022 Perreo Vol. 1,Mocca - Remix,0,202876,True,0.732,0.758,11,-1.694,1,0.189,0.214,0.0,0.388,0.78,98.007,4,reggae
+6be4zs74UAntMkWpfdmwXt,Juan Magán;Luciana;Joey Montana;Jaume Berenguer,Perreo Tenebroso Vol. 2,Baila Conmigo - Remix,0,210400,False,0.858,0.806,6,-5.61,0,0.0712,0.111,0.0,0.0475,0.814,99.992,4,reggae
+7InaXrvag0nYTncPA1Iitl,Juan Magán;Belinda;Lapiz Conciente,Halloween 2022 Pop Vol. 4,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,reggae
+4wIdLHtHAI98UjZqsPOSnE,Juan Magán;Belinda;Lapiz Conciente,Para entrar en calor,Si No Te Quisiera,0,185480,False,0.705,0.874,0,-2.514,0,0.0723,0.17,0.0,0.0669,0.788,128.02,4,reggae
+4aVBZXFivNVH0P5phc6ios,Lalo Ebratt;Sebastian Yatra;Yera;Trapical Minds,Queda poco para la PAES 2.0,Déjate Querer,0,202823,False,0.755,0.792,6,-4.238,1,0.0483,0.028,0.0,0.0754,0.842,106.015,4,reggae
+0b6ESy6omvvTR8jza5esz7,Lalo Ebratt;Sebastian Yatra;Yera;Trapical Minds,Perreo Tenebroso Vol. 5,Déjate Querer,0,202823,False,0.755,0.792,6,-4.238,1,0.0483,0.028,0.0,0.0754,0.842,106.015,4,reggae
+2s6gzgAjQIqv8dhFZbyiRU,Lalo Ebratt;Sebastian Yatra;Yera;Trapical Minds,Halloween 2022 Perreo Vol. 4,Déjate Querer,0,202823,False,0.755,0.792,6,-4.238,1,0.0483,0.028,0.0,0.0754,0.842,106.015,4,reggae
+0PF7SVd93G602xdi8SVyEz,Lalo Ebratt;Sebastian Yatra;Yera;Trapical Minds,Fiesta Reggaeton 2010s,Déjate Querer,1,202823,False,0.755,0.792,6,-4.238,1,0.0483,0.028,0.0,0.0754,0.842,106.015,4,reggae
+47EiUVwUp4C9fGccaPuUCS,Bad Bunny;Jhayco,DÁKITI,DÁKITI,83,205090,True,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,4,reggae
+6JRLFiX9NJSoRRKxowlBYr,Bob Marley & The Wailers,Kaya,Is This Love,76,232200,False,0.776,0.559,6,-8.375,0,0.103,0.11,0.0,0.0671,0.758,122.242,4,reggae
+61YzdCCBPM5Pc7lIiD5i8C,K'NAAN;Adam Levine,Troubadour,Bang Bang,69,186533,True,0.623,0.901,10,-4.402,0,0.182,0.0785,0.0,0.0251,0.896,179.985,4,reggae
+4MzXwWMhyBbmu6hOcLVD49,Bad Bunny;Jhay Cortez,EL ÚLTIMO TOUR DEL MUNDO,DÁKITI,80,205090,True,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,4,reggae
+41oY4WCTj5kccfesTVFnvN,Bad Bunny;Jhayco,Un Verano Sin Ti,Tarot,91,237894,True,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,4,reggae
+4au7FRcgZzChASRYu279xH,Daddy Yankee;Katy Perry;Snow,Con Calma (Remix),Con Calma - Remix,63,181280,False,0.736,0.868,8,-3.01,0,0.0454,0.166,1.48e-06,0.0419,0.613,94.026,4,reggae
+2sZzEKY3DxpY8V87SuYoU2,Ozuna,OzuTochi,Favorita,65,208133,False,0.783,0.489,0,-4.853,0,0.0956,0.141,0.00915,0.303,0.732,170.003,4,reggae
+52AHKfP6qQ3feLjPCDTiRI,Ozuna;Pedro Capó,OzuTochi,Mar Chiquita,62,204413,False,0.713,0.76,0,-4.628,0,0.0421,0.304,1.79e-05,0.0656,0.668,98.015,4,reggae
+1TRnIxwWeJoE6MVimzjw2w,Ozuna;Danny Ocean,OzuTochi,4:22,64,193360,False,0.771,0.727,1,-4.285,0,0.0416,0.0205,4.54e-06,0.291,0.649,104.035,4,reggae
+1ga4PztXOIw1yBbdUt2X8v,KAROL G;Maldy,GATÚBELA,GATÚBELA,90,209160,False,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,reggae
+7Hr9ke37qeKfCajWSZ4iet,Ozuna;Nesi,OzuTochi,La Suzi,61,155933,False,0.541,0.544,11,-7.559,0,0.258,0.28,0.0115,0.289,0.456,98.015,4,reggae
+2snbAel9GoxA6i6iH0Wvw9,Ozuna,OzuTochi,Te Pienso,66,147760,False,0.668,0.533,2,-7.409,1,0.098,0.117,0.0,0.305,0.676,163.733,4,reggae
+5br09BQU134gRX5M6HMnmr,Ozuna;TINI,OzuTochi,Un Reel,62,203840,False,0.715,0.744,9,-4.963,1,0.0487,0.233,0.000159,0.122,0.746,163.005,4,reggae
+07oas8KpAMIkwuetf81Zen,Ozuna;Chencho Corleone;Arcangel;J Balvin;Randy,OzuTochi,El Cel,63,287813,False,0.521,0.799,6,-5.205,1,0.162,0.0796,0.00709,0.0928,0.945,165.908,4,reggae
+4u4EnZpoThBaxVRLMHyVOA,Ozuna,OzuTochi,Cielos Rosado,59,182840,False,0.86,0.72,6,-6.191,0,0.0454,0.0234,0.168,0.377,0.23,120.0,4,reggae
+4ZlHgEGwZb3PCq0OWFbhcO,Ozuna,OzuTochi,Kotodama,64,188533,False,0.884,0.694,0,-3.241,1,0.0716,0.156,0.0188,0.3,0.597,93.025,4,reggae
+5PgBTczNS4lpNmHVaPPqoU,Ozuna,OzuTochi,Días y Meses,62,192320,False,0.842,0.579,1,-5.504,1,0.0556,0.119,0.126,0.137,0.7,95.005,4,reggae
+5Os2tLxqWCi3FexbWdWDAm,Ozuna,OzuTochi,Te Marchaste,60,240026,False,0.738,0.67,5,-4.407,0,0.0792,0.487,3.25e-06,0.295,0.475,90.004,4,reggae
+5pvy8p5jyXqr6bjzQRDPjm,Ozuna;Tokischa;Louchie Lou;Michie One,OzuTochi,Somos Iguales,58,172413,False,0.836,0.64,1,-4.14,1,0.0809,0.0301,0.000249,0.311,0.435,97.013,4,reggae
+4ISfM2xZuOc9YEtiCqty7Y,Ozuna,OzuTochi,La Copa,60,154626,False,0.918,0.788,0,-4.581,1,0.036,0.117,0.000198,0.0996,0.956,126.016,4,reggae
+7qCAVkHWZkF44OzOUKf8Cr,Nicky Jam;Enrique Iglesias,Fénix,El Perdón (with Enrique Iglesias),74,205906,False,0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,4,reggae
+7qUv2Tq895aJc6g4O1F6Zs,Ozuna,OzuTochi,Vida,61,152626,False,0.728,0.577,1,-5.371,0,0.0538,0.0502,0.000309,0.0589,0.318,169.988,4,reggae
+5k0xcYedZDXWe48vkgehCc,Busy Signal;Oh Gosh,Perfect Spot (Oh Gosh Remix),Perfect Spot - Oh Gosh Remix,59,184421,False,0.862,0.792,6,-6.177,1,0.0651,0.188,0.00221,0.0882,0.741,94.991,4,reggae
+57UPqpbJiPqtwJVk5VmjhJ,Popcaan,Afro Hits,Skeleton Cartier,3,221583,True,0.549,0.82,2,-4.433,1,0.379,0.314,0.0,0.226,0.357,96.725,4,reggae
+13kyMXTpiIQlwLBMEyOBkI,KEVVO;J Balvin,Perreo Tenebroso Vol. 4,Billetes Azules,0,189506,True,0.856,0.721,7,-4.928,1,0.108,0.132,0.00471,0.182,0.642,94.991,4,reggae
+0CyUdgFb9ukEGHKOFXHheo,Totoy El Frio;Beéle,Frescura y Perreo,Adivina,1,165400,True,0.608,0.791,11,-4.81,1,0.0938,0.142,2.21e-06,0.29,0.33,115.635,4,reggae
+22JcKwmlqonTmNJdXTYj7J,Totoy El Frio;Beéle,Halloween con perreito,Adivina,0,165400,True,0.608,0.791,11,-4.81,1,0.0938,0.142,2.21e-06,0.29,0.33,115.635,4,reggae
+1doAHx3ddCl2iEbZGOWvnr,Totoy El Frio;Beéle,Perreo en Halloween,Adivina,1,165400,True,0.608,0.791,11,-4.81,1,0.0938,0.142,2.21e-06,0.29,0.33,115.635,4,reggae
+45oxtVfleBBYG9ps80hyTL,Popcaan,CruiseControl: How I Met The Biggest Bird (DJ Mix),Ova Dweet (Mixed),3,151500,False,0.503,0.673,1,-7.685,1,0.395,0.126,0.0,0.607,0.539,128.454,5,reggae
+5c1E9iQocE9TMJ0ltS1d1B,Totoy El Frio;Kevin Roldan,Verano en Junio,Quillami,0,202733,True,0.72,0.666,4,-6.448,1,0.18,0.0718,0.0,0.315,0.944,172.051,4,reggae
+0V5GNdsrQlKBR1V4PeGX7x,Popcaan,Consistency (Through the Years),Unruly Rave,0,205453,True,0.583,0.76,1,-5.71,0,0.318,0.188,0.0,0.13,0.449,97.675,4,reggae
+27jkJPgvyy5TXhllhsFHZ6,SDP;FiNCH,Ballermann Hits Party 2023,Kein Bock,0,198533,False,0.882,0.651,9,-6.1,1,0.307,0.0317,0.0,0.583,0.651,134.065,4,reggae
+2RBA0rwuSGe0277I6Ei0cq,Nacho;Nicky Jam,Perreo Tenebroso Vol. 2,Mona Lisa,0,185386,False,0.816,0.776,8,-4.405,1,0.0562,0.238,4.36e-06,0.0642,0.704,94.996,4,reggae
+64YIeuGEqrP3Gop8in7JU0,Nacho;Manuel Turizo,Perreo Tenebroso Vol. 2,Déjalo,0,202893,False,0.743,0.796,11,-5.733,1,0.073,0.199,0.0,0.0577,0.683,95.003,4,reggae
+3wSXWge0hS6PQFuIs1bGDZ,Nacho;Ozuna,Queda poco para la PAES 2.0,Casualidad,0,184680,False,0.835,0.855,10,-5.041,0,0.07,0.0453,0.0,0.147,0.867,101.067,4,reggae
+0nahmW6ISvPs6sputOLzHH,Alexis y Fido;Justin Quiles,Hora del taco sin auto,Mala Suerte,0,255173,False,0.822,0.633,1,-3.897,0,0.113,0.134,0.0,0.177,0.689,170.016,4,reggae
+7lmeLXvVcpj2QbqgHjwB4G,Ñejo & Dalmata,Perreo en Halloween,Hoy Me Atrevo,2,208800,False,0.844,0.841,4,-6.671,0,0.138,0.156,3.68e-05,0.0501,0.831,97.996,4,reggae
+53xnBJEIk3ofmNbKQ6mMxe,Nacho;Yandel;Bad Bunny;Mambo Kingz;DJ Luian,Perreo Tenebroso Vol. 3,Báilame - Remix,0,217080,False,0.791,0.866,6,-4.236,1,0.0496,0.248,5.29e-06,0.0696,0.71,96.013,4,reggae
+2hfSl7voC9bRNv5oKmhUOI,Nacho;Jeeiph,Fiesta Reggaeton 2010s,Parece Modelo,0,191626,False,0.544,0.701,6,-3.726,0,0.0788,0.0247,4.27e-05,0.117,0.713,100.63,1,reggae
+02yEhcqA7tqfca3gwPxXdF,Nacho;Wisin;Noriel,Perreo Tenebroso Vol. 3,No Te Vas - Remix,0,227226,False,0.812,0.764,8,-5.447,1,0.0954,0.0646,2.45e-06,0.0974,0.803,93.995,4,reggae
+1UTdSl8RRxiYSfv9v0tdhL,"Héctor ""El Father""",Perreo Tenebroso Vol. 1,Voy Subiendo,0,256893,False,0.75,0.916,7,-4.773,1,0.214,0.0566,0.000458,0.175,0.505,92.004,4,reggae
+4HR0tnRa8g0pXaircemtcO,Nacho;Yandel;Zion;Justin Quiles;Elkeretumba,pov: it's 2021,La Buena - Remix,0,220386,False,0.756,0.93,2,-2.815,1,0.0937,0.0287,6.9e-05,0.116,0.514,98.978,4,reggae
+2z6qXWrC6LjyFimHkHBV2U,Alexis y Fido;Yandel,Noche de Halloween Latino,Te Reto,1,232213,False,0.824,0.681,6,-5.473,0,0.315,0.0107,0.0,0.15,0.516,170.042,4,reggae
+4XLv2HzQCVU1SmncImPh6i,Nacho;Nicky Jam,Hora del taco sin auto,Mona Lisa,0,185386,False,0.816,0.776,8,-4.405,1,0.0562,0.238,4.36e-06,0.0642,0.704,94.996,4,reggae
+4ELcoBwvEubDVAgsSXYiyf,Nacho;Nicky Jam,Halloween 2022 Perreo Vol. 1,Mona Lisa,0,185386,False,0.816,0.776,8,-4.405,1,0.0562,0.238,4.36e-06,0.0642,0.704,94.996,4,reggae
+6V0yMpkJXzwCWBbmFmgDPZ,Nacho;Yandel;Zion;Justin Quiles;Elkeretumba,Verano en Junio,La Buena - Remix,0,220386,False,0.756,0.93,2,-2.815,1,0.0937,0.0287,6.9e-05,0.116,0.514,98.978,4,reggae
+1p3RZNCZRNeZVDCPfTlnEU,Nacho;Noriel,Halloween 2022 Perreo Vol. 3,Emborráchate,0,207800,False,0.772,0.843,8,-4.645,0,0.0481,0.0204,7.03e-06,0.0885,0.822,104.992,4,reggae
+12VpUDWl8YJmLiOurn081M,Ñejo & Dalmata,Halloween 2022 Perreo Vol. 4,Sexo En La Playa,0,218440,False,0.796,0.712,5,-7.097,1,0.0491,0.359,1.17e-05,0.374,0.622,94.013,4,reggae
+5ng8nlMTWoDyLL5LhiXDxp,Nacho;Los Mendoza,Para entrar en calor,Happy Happy,0,185360,False,0.797,0.795,6,-5.208,0,0.162,0.499,0.0,0.164,0.897,96.051,4,reggae
+4PbiFd4s18OBMf7tXgtBUc,Nacho;Yandel;Bad Bunny;Mambo Kingz;DJ Luian,Reggeaton Imperdible,Báilame - Remix,1,217080,False,0.791,0.866,6,-4.236,1,0.0496,0.248,5.29e-06,0.0696,0.71,96.013,4,reggae
+0fea68AdmYNygeTGI4RC18,J Balvin;Bad Bunny,OASIS,LA CANCIÓN,88,242573,False,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4,reggae
+0EhpEsp4L0oRGM0vmeaN5e,J Balvin;Dua Lipa;Bad Bunny;Tainy,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),75,232253,False,0.571,0.693,6,-8.234,0,0.0545,0.00536,0.0,0.173,0.393,168.169,4,reggae
+4tYFy8ALRjIZvnvSLw5lxN,Bad Bunny;Rauw Alejandro,Un Verano Sin Ti,Party,90,227628,False,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,4,reggae
+2ksOAxtIxY8yElEWw8RhgK,Anuel AA;Daddy Yankee;KAROL G;J Balvin;Ozuna,China,China,76,301714,False,0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,4,reggae
+1nocRtwyNPVtGcIJqfgdzZ,Camilo;Pedro Capó,Tutu,Tutu,69,178613,False,0.731,0.832,9,-2.592,1,0.0503,0.273,0.0,0.0665,0.94,146.013,4,reggae
+4DHDIdeayp8xvlyg22wREO,Natti Natasha;Becky G,Ram Pam Pam,Ram Pam Pam,68,200785,True,0.908,0.813,5,-2.749,0,0.0777,0.305,0.0,0.278,0.924,97.018,4,reggae
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,La 167,Pepas,74,287120,True,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4,reggae
+0bBd6K5X4W7t9GyXcaVOA7,J Balvin;Ed Sheeran,Sigue/Forever My Love,Sigue,74,159386,True,0.889,0.641,7,-4.494,1,0.0668,0.0515,2.75e-05,0.19,0.588,87.99,4,reggae
+0dKg2vGC1hFqcK5LGTaKzX,KAROL G;Nicki Minaj,KG0516,Tusa,72,201920,False,0.799,0.701,2,-3.272,1,0.282,0.309,7.36e-05,0.0514,0.607,100.946,4,reggae
+4fxF8ljwryMZX5c9EKrLFE,Shaggy,Boombastic,Boombastic,70,249933,False,0.867,0.538,2,-16.183,1,0.361,0.242,1.75e-05,0.316,0.781,158.328,4,reggae
+0qeKzbUsW0V4ZWRJrHNiD3,Inner Circle,Blazzin' Fire,Bad Boys (Theme from COPS),69,229374,False,0.781,0.722,7,-8.376,1,0.0667,0.236,0.000398,0.077,0.533,87.858,4,reggae
+3pDhN3qB33AOPhQEkUCaWt,Daddy Yankee,Prestige,Limbo,75,224693,False,0.806,0.875,7,-3.817,1,0.088,0.0838,0.00192,0.065,0.917,125.063,4,reggae
+75FYqcxt1YEAtqDLrOeIJn,Bob Marley & The Wailers,Exodus,Three Little Birds,78,180266,False,0.826,0.49,9,-10.477,1,0.0676,0.00916,4.41e-06,0.0415,0.627,74.126,4,reggae
+7BfW1eoDh27W69nxsmRicb,Bob Marley & The Wailers,Confrontation,Buffalo Soldier,72,255840,False,0.929,0.463,9,-8.651,1,0.308,0.142,5.26e-06,0.0634,0.757,124.084,4,reggae
+5O4erNlJ74PIF6kGol1ZrC,Bob Marley & The Wailers,Uprising,Could You Be Loved,78,237000,False,0.916,0.72,0,-8.548,1,0.1,0.36,0.00016,0.0958,0.76,103.312,4,reggae
+4SrXpaZtMokUhhFkgzDMpK,Onze:20,A Nossa Barraca,Não Vai Voltar,53,239072,False,0.641,0.617,5,-7.411,0,0.0307,0.413,0.0,0.112,0.941,139.942,4,reggae
+7HMdbgEuBQHTcitMmhfmB9,MORADA,É Tudo Sobre Você (Ao Vivo),É Tudo Sobre Você - Ao Vivo,51,372173,False,0.397,0.746,9,-5.768,0,0.0382,0.257,0.0,0.703,0.165,137.821,4,reggae
+1cMm0YeJSgTpodPSm2I5TT,Migue Flow;El Cherry Scom,Pa Miami,Pa Miami,51,134009,True,0.609,0.807,4,-0.792,0,0.338,0.0261,0.0136,0.33,0.631,159.055,5,reggae
+42vMaWQYBqk9kf8P2uaT05,"Angel Y Khriz;Gocho ""El Lápiz De Platino"";John Eric",Halloween con perreito,Na De Na,0,202866,True,0.878,0.893,6,-5.834,1,0.122,0.182,0.0,0.105,0.682,119.925,4,reggae
+68n2q0d444mHKSbp0CXx7i,Vybz Kartel,PEPPERSPRAY RIDDIM,Show Me The Wine,1,155898,True,0.703,0.896,7,-1.464,1,0.418,0.0607,0.0,0.0662,0.943,132.674,5,reggae
+1JQOWv6HQbKK7MrKIaTkfY,Vybz Kartel,Consistency (Through the Years),Real Youth,0,176151,True,0.766,0.674,4,-5.749,0,0.257,0.46,0.0,0.294,0.38,95.88,4,reggae
+4nhL5OXYTOLqJhJGXwEpFE,R.K.M & Ken-Y,Queda poco para la PAES 2.0,Te Regalo Amores,0,239146,False,0.845,0.832,2,-7.289,1,0.0393,0.0558,4.83e-06,0.0765,0.773,115.029,4,reggae
+0lP3xJ4fWWCh7pN06U4IWr,Angel Y Khriz,Queda poco para la PAES 2.0,Ayer La Vi,0,236080,False,0.732,0.896,9,-4.517,1,0.0434,0.093,0.0,0.159,0.787,99.946,4,reggae
+4knGE25OEOeaJocSkSliuz,"Angel Y Khriz;Gocho ""El Lápiz De Platino"";John Eric",Halloween 2022 Perreo Vol. 3,Na De Na,0,202866,True,0.878,0.893,6,-5.834,1,0.122,0.182,0.0,0.105,0.682,119.925,4,reggae
+5jDId3iv4Jrzd9aeCJZjOO,Joey Montana;Lalo Ebratt,Perreo Tenebroso Vol. 3,No Te Va,0,204880,False,0.844,0.934,7,-1.223,0,0.078,0.17,0.000121,0.134,0.647,96.983,4,reggae
+4WPXmPeBP3FKFxYD1uioJk,Joey Montana,Queda poco para la PAES 2.0,Picky,0,180640,False,0.803,0.745,1,-4.685,1,0.0689,0.159,0.0,0.243,0.792,93.249,4,reggae
+7sLUrThXXZyNKmkr0rHn0F,Boomdabash;Annalisa,Tutti in piscina Canzoni per bambini,Tropicana,0,172000,False,0.927,0.591,11,-5.69,1,0.119,0.0165,2.87e-06,0.208,0.752,120.036,4,reggae
+35dSvZeoNxzvIQ6D5UC4Lo,Joey Montana,Queda poco para la PAES 2.0,La Melodía,0,219103,False,0.701,0.835,9,-5.35,1,0.0284,0.226,2.94e-06,0.293,0.76,116.991,4,reggae
+7ytbVby5rfR6JtS6LX9UDo,Adassa,Tropical Vibes,Llego el bailador,0,223043,False,0.706,0.796,4,-4.597,0,0.0374,0.133,1.3e-06,0.0782,0.793,149.986,4,reggae
+5fLunXV4vxS9HDpnUFS1za,Joey Montana;Lalo Ebratt,Hora del taco sin auto,No Te Va,0,204880,False,0.844,0.934,7,-1.223,0,0.078,0.17,0.000121,0.134,0.647,96.983,4,reggae
+03UOeGWSA5tOf1PyG7kf6O,Joey Montana;Sebastian Yatra,Perreo en Halloween,Suena El Dembow,1,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+6F1izKHk6MUbau13IUn28s,Luny Tunes;Don Omar;Sharlene;Maluma,Carrete con besties,La Fila,0,203760,False,0.726,0.931,1,-1.483,0,0.079,0.111,0.0,0.273,0.574,118.069,4,reggae
+5uuusNkbJcgvUkPze6eQk0,Boomdabash;Alessandra Amoroso,Tutti in piscina Canzoni per bambini,Karaoke,0,156493,False,0.929,0.625,1,-5.728,1,0.14,0.289,1.2e-06,0.386,0.578,122.03,4,reggae
+4rCFiYk6EtafNSfr7cvqQo,Joey Montana;De La Ghetto,Del gusto de hermanos,Moribundo,0,243666,False,0.721,0.824,8,-3.785,1,0.0407,0.0354,0.00245,0.495,0.604,92.989,4,reggae
+3OVKJJYEckoVDmU1K3tQnK,Vybz Kartel;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Good Pussy Wine (2022 Remastered),0,182586,True,0.493,0.909,6,-4.006,1,0.218,0.16,0.0,0.11,0.739,87.124,5,reggae
+7qNS4GwQ8xn7twyWHIZk3C,Luny Tunes;Daddy Yankee;Don Omar;Wisin & Yandel,Halloween 2022 Perreo Vol. 5,Mayor Que Yo 3,1,304746,False,0.715,0.964,1,-3.176,0,0.162,0.0985,0.0,0.291,0.535,91.976,4,reggae
+0I9l2tj5pWBiJ8rQSjJNUX,Joey Montana;Lalo Ebratt,Fiesta Reggaeton 2010s,No Te Va,0,204880,False,0.844,0.934,7,-1.223,0,0.078,0.17,0.000121,0.134,0.647,96.983,4,reggae
+10sfOEITbOKbwrChws8lyD,Joey Montana;Danna Paola;NASRI,Halloween 2022 Perreo Vol. 4,Everything,0,183786,False,0.752,0.904,8,-2.846,1,0.0701,0.0206,0.0,0.0723,0.526,98.034,4,reggae
+3McXs3tqyP5VwBg4FdiILD,Vybz Kartel;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Good Body Wine (2022 Remastered) - Radio Edit,0,181266,False,0.707,0.904,3,-4.091,0,0.148,0.13,0.0,0.257,0.823,86.708,5,reggae
+5f8xBaP905M0O65CGHwDl4,Joey Montana;Sebastian Yatra,Perreo Tenebroso Vol. 2,Suena El Dembow,0,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+3Z5bdTJfjTvEJIzA27Jtk6,Joey Montana;Sebastian Yatra,Halloween con perreito,Suena El Dembow,0,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+5tlApYAutps4wWZLzNbaZK,Ñejo & Dalmata,Perreo en Halloween,Pasarela,2,227466,False,0.798,0.821,7,-6.143,1,0.0596,0.0985,5.84e-06,0.178,0.526,95.004,4,reggae
+7epvz4k2v8qrzYansbnKAd,Joey Montana;Sebastian Yatra,Frescura y Perreo,Suena El Dembow,0,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+1NAYDZe9CtZsQsd3qcmcly,Ñejo & Dalmata,Halloween con perreito,Hoy Me Atrevo,0,208800,False,0.844,0.841,4,-6.671,0,0.138,0.156,3.68e-05,0.0501,0.831,97.996,4,reggae
+48eNJMsxCrpI0yBbfEcTJ5,Joey Montana;Sebastian Yatra,Halloween 2022 Perreo Vol. 4,Suena El Dembow,0,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+7de3XY2dWCowu7j5NxO2PV,Ñejo & Dalmata,Perreo Tenebroso Vol. 2,Pasarela,0,227466,False,0.798,0.821,7,-6.143,1,0.0596,0.0985,5.84e-06,0.178,0.526,95.004,4,reggae
+2XViKl7h7ykYuQrqnEOI4o,Joey Montana;Sebastian Yatra,Reggeaton Imperdible,Suena El Dembow,2,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+2dxdzWwLl3nP0SZImUK2A0,Ñejo & Dalmata,Reggeaton Imperdible,Pasarela,0,227466,False,0.798,0.821,7,-6.143,1,0.0596,0.0985,5.84e-06,0.178,0.526,95.004,4,reggae
+5bVUUTXB0Dg7EzuSZC57ek,Joey Montana;Sebastian Yatra,Regageton Para Niños,Suena El Dembow,1,195760,False,0.69,0.858,0,-4.431,1,0.0529,0.189,0.0,0.113,0.755,91.884,4,reggae
+27sytaeEm6TDVMpdExyVfd,O Rappa,Só as Melhores do Pop Rock Brasileiro,A feira,0,239533,False,0.713,0.886,7,-7.75,1,0.0411,0.0012,7.68e-06,0.0496,0.9,97.983,4,reggae
+2XIc1pqjXV3Cr2BQUGNBck,Bad Bunny;ROSALÍA,EL ÚLTIMO TOUR DEL MUNDO,LA NOCHE DE ANOCHE,82,203200,False,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,4,reggae
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Yonaguni,87,206710,True,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,4,reggae
+2Q4MRMnSAMckugCtR5jgXT,Alvaro Diaz;Rauw Alejandro,Problemón,Problemón,71,193013,False,0.729,0.737,2,-3.727,0,0.064,0.275,7.58e-06,0.137,0.369,91.99,4,reggae
+2ijef6ni2amuunRoKTlgww,Becky G;Natti Natasha,Sin Pijama,Sin Pijama,69,188560,False,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-05,0.104,0.82,94.014,4,reggae
+1yoMvmasuxZfqHEipJhRbp,Maluma,PAPI JUANCHO,Hawái,77,199112,False,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,4,reggae
+1ri9ZUkBJVFUdgwzCnfcYs,Becky G;KAROL G,MAMIII,MAMIII,85,226088,False,0.843,0.7,4,-3.563,0,0.0803,0.0934,0.0,0.14,0.899,93.991,4,reggae
+3cR5ZtQ4JqGj4VHBb1gvFf,CNCO;Meghan Trainor;Sean Paul,Hey DJ (Remix),Hey DJ - Remix,60,189363,False,0.564,0.89,5,-4.286,1,0.107,0.0918,0.0,0.0819,0.636,180.112,4,reggae
+5JlqbEj7Bbh2RdZgcO5kJE,Matisyahu,Light,One Day,55,207573,False,0.346,0.61,0,-5.818,1,0.15,0.198,0.0,0.117,0.235,68.552,4,reggae
+6DoL1yYIwEW7VZMRaJhoJI,Chris Jedi;Anuel AA;Chencho Corleone;Ñengo Flow,La Llevo Al Cielo (Ft. Ñengo Flow),La Llevo Al Cielo (Ft. Ñengo Flow),88,254920,True,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4,reggae
+1SfiwIhYW3GjcZNXHsvoQE,Revol;J Balvin;Bad Bunny;Arcangel;De La Ghetto,Halloween 2022 Perreo Vol. 4,Dime,3,284626,False,0.771,0.66,11,-5.067,0,0.114,0.369,0.0,0.119,0.423,135.965,4,reggae
+5Pg4qYTcvCUBBq3jBhKq0t,Daddy Yankee;Pitbull,LEGENDADDY,HOT,74,154493,True,0.898,0.677,11,-6.422,0,0.243,0.0223,0.0,0.35,0.578,130.027,4,reggae
+2CeKVsFFXG4QzA415QygGb,Feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,Feliz Cumpleaños Ferxxo,84,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,reggae
+7ojJ4XvqBhBcteM0zjMebT,UB40,Promises And Lies,(I Can't Help) Falling In Love With You,70,207440,False,0.642,0.722,2,-13.031,1,0.0375,0.0444,0.00388,0.122,0.836,172.406,4,reggae
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,Junio,81,168601,False,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,4,reggae
+73BfMRs1S03dkmzCIDJwIw,Rael;Cynthia Luz;Malibu,Teu Sorriso,Teu Sorriso,51,183265,False,0.661,0.567,11,-9.644,0,0.056,0.222,0.0,0.178,0.706,86.476,4,reggae
+0tn7CmyRfvX7AF4mDH6v4M,Musical Youth,Top Trending Romania - Vara 2022,Pass The Dutchie,0,203466,False,0.726,0.749,7,-4.696,1,0.0408,0.404,0.0,0.299,0.964,150.439,4,reggae
+3rNe2VTczeYzTi6BT3dwKT,Don Omar,Guayar Pegao,Dile,51,206986,False,0.822,0.744,9,-6.096,1,0.094,0.173,7.03e-05,0.0692,0.747,94.04,4,reggae
+4J8sLTImZY7wimxHVdjvIz,Musical Youth,80s Bangers Vol. 1,Pass The Dutchie,1,203466,False,0.726,0.749,7,-4.696,1,0.0408,0.404,0.0,0.299,0.964,150.439,4,reggae
+5T9aWINkvC8GtmcFI2TZAb,Kail BRL;Tobal Mj,Mercedes,Mercedes,50,220212,False,0.847,0.631,4,-6.4,0,0.187,0.121,0.0,0.146,0.716,93.961,4,reggae
+2CNSHg6E1xchwIuKuQLHtD,Marcelo Falcão,Viver (Mais leve que o ar),Mais leve que o ar,49,198040,False,0.554,0.735,7,-5.915,0,0.0527,0.434,3.32e-05,0.406,0.885,170.012,4,reggae
+2GNh9aQ0Q40TiQXo8CJppZ,Cauty;Hozwal,Frescura y Perreo,NO COGEMOS ESA,0,173333,True,0.65,0.681,1,-6.694,1,0.273,0.377,3.97e-05,0.104,0.44,89.886,4,reggae
+2ExQRpg1cWyhDiXfMKMmGN,Musical Youth,Workout Hits 2023,Pass The Dutchie,0,203466,False,0.726,0.749,7,-4.696,1,0.0408,0.404,0.0,0.299,0.964,150.439,4,reggae
+6sLjhkPpWeysV55XaaYE7e,Tony Dize;Plan B;Don Omar,Perreo De Halloween Vol. 2,Solos - Remix,50,224266,False,0.738,0.702,2,-5.405,0,0.0865,0.611,0.0,0.251,0.961,167.978,4,reggae
+4s5FI0NH6yiJ85tatkCJ8h,Gabriel Elias;Roberta Campos,Me Beija,Me Beija,49,190937,False,0.674,0.428,2,-9.265,1,0.0344,0.597,0.0,0.128,0.601,120.039,4,reggae
+5l78PGbrC8CPSIEMlhGNR4,King Savagge,Discotete,Discotete,51,188750,True,0.873,0.743,9,-5.099,0,0.189,0.0918,3.71e-06,0.0817,0.881,96.084,4,reggae
+2UVH0Xyw5nnS4VsX2UQbhP,Boomdabash;Annalisa,TickTok Back To School 2022,Tropicana,0,172000,False,0.927,0.591,11,-5.69,1,0.119,0.0165,2.87e-06,0.208,0.752,120.036,4,reggae
+3VzGCVwgAcb02DXs8ORuDz,Beenie Man,Fyah on Ice Riddim,Pepper Light,3,187925,False,0.675,0.8,11,-4.87,0,0.358,0.141,0.0,0.214,0.834,103.618,4,reggae
+010189igJXAPKuys4itwaE,Marcelo Falcão,Viver (Mais leve que o ar),Senhor fazei de mim (Um instrumento de tua paz),50,140466,False,0.649,0.571,9,-6.198,0,0.027,0.241,1.08e-05,0.172,0.659,108.03,4,reggae
+2MAShwvWnE9WfrnF4DWZLO,Collie Buddz,Consistency (Through the Years),Like Yuh Miss Me,0,177136,True,0.559,0.895,1,-4.574,1,0.214,0.111,0.0,0.121,0.596,99.333,4,reggae
+4I5iurVfR12GzAPZLRZdg4,Boomdabash;Annalisa,TickTok Back To School 2022,Tropicana,0,172000,False,0.927,0.591,11,-5.69,1,0.119,0.0165,2.87e-06,0.208,0.752,120.036,4,reggae
+3Hx6jNZYXP4da4Pz7Wa5IQ,Luny Tunes;Don Omar;Sharlene;Maluma,Queda poco para la PAES 2.0,La Fila,0,203760,False,0.726,0.931,1,-1.483,0,0.079,0.111,0.0,0.273,0.574,118.069,4,reggae
+4WefC2DN4rWpz0EtR7UWgm,Boomdabash;Baby K,Tutti in piscina Canzoni per bambini,Mohicani,0,171674,False,0.84,0.648,11,-6.051,1,0.157,0.0286,0.0,0.098,0.628,99.981,4,reggae
+6Q4RJGUzVQym5RL5iq6627,Maneva,Mundo Novo,Outro Alguém,49,154431,False,0.687,0.675,7,-7.093,1,0.0578,0.337,6.64e-06,0.357,0.682,149.996,4,reggae
+3U5AxhGSiPiGbZLGsTNhXA,Joey Montana;Mike Bahía,tardes tranqui,Se Siente Bien,0,237880,False,0.589,0.419,5,-9.2,1,0.042,0.206,0.0,0.0852,0.716,94.099,4,reggae
+6zU8zV0PKEYqRqIxzwZuQy,Boomdabash;Alessandra Amoroso,10's Music Grandi Successi,Mambo Salentino,0,155413,False,0.832,0.662,3,-6.707,0,0.403,0.248,0.0,0.067,0.867,99.921,4,reggae
+1uuwaSigTmZ6M3fgjYKlat,Boomdabash;Loredana Bertè,Tutti in piscina Canzoni per bambini,Non Ti Dico No,0,191263,False,0.658,0.742,8,-6.181,1,0.119,0.0438,0.0,0.246,0.798,171.939,4,reggae
+0wjDGV9D1oL3ZTXWzTAn6H,Snow,OK Boomers - Top Tunes,Informer,0,268746,False,0.727,0.886,6,-5.342,0,0.178,0.0391,0.0,0.361,0.427,98.09,4,reggae
+1wja0kEF3DvlDDHUi060Bk,Boomdabash;Alessandra Amoroso,Tutti in piscina Canzoni per bambini,Mambo Salentino,0,155413,False,0.832,0.662,3,-6.707,0,0.403,0.248,0.0,0.067,0.867,99.921,4,reggae
+1RzFvUxCcCdIIMbqNt7lQd,Boomdabash;Loredana Bertè,10's Music Grandi Successi,Non Ti Dico No,0,191263,False,0.658,0.742,8,-6.181,1,0.119,0.0438,0.0,0.246,0.798,171.939,4,reggae
+7rwjSbVKIhvcvU14gqnXGF,Kenia OS,Por Siempre,Por Siempre,50,185242,False,0.711,0.529,2,-6.867,1,0.0396,0.524,0.0,0.124,0.322,139.834,4,reggae
+0kpCfLJbmYFybCO6xy0hBn,Boomdabash,10's Music Grandi Successi,Per Un Milione,0,174615,False,0.741,0.745,7,-4.099,0,0.0472,0.103,0.0,0.0852,0.898,85.989,4,reggae
+1qkVJlyVaLZbwolRZmc17i,Kevin Martes 13;Pablo Chill-E,Perco Con Mari,Perco Con Mari,48,239412,True,0.844,0.612,1,-7.368,1,0.0813,0.0265,0.0,0.0786,0.341,124.027,4,reggae
+3y8stkhKVX4cFf66yr9QCw,Adan La Amenaza;Nickoog Clk,Que Nadie Se Entere,Que Nadie Se Entere,50,197015,False,0.848,0.744,5,-6.567,1,0.0546,0.0795,0.0,0.102,0.704,98.979,4,reggae
+7LyHLyC6mKKnSALH9QjWQZ,Jairo Vera,Pa K Te Enamore,Me Llamas,51,211337,False,0.717,0.521,9,-9.686,0,0.0401,0.022,0.00123,0.0903,0.202,99.986,4,reggae
+19ND1bszT9c5uT9qRyctmj,Snow;John Ficarrotta,Rap Geek,Lonely Monday Morning - John Ficarrotta Remix,0,260972,False,0.796,0.827,7,-8.868,1,0.183,0.111,0.00164,0.364,0.762,94.156,4,reggae
+2oe1Sdca8nXPNzyTGqX7L3,Marcianeke,Ponte Pa Mí,Ponte Pa Mí,50,214467,True,0.843,0.469,7,-11.302,0,0.146,0.334,0.0,0.111,0.821,93.996,4,reggae
+6KeunoKe447ohIj7u32Y7D,Jimmy Cliff,Supa Chill,Footprints,0,237053,False,0.666,0.372,10,-16.204,1,0.0367,0.677,0.00684,0.0738,0.758,144.331,4,reggae
+7E6EXZORUZDseFE1h9jZv0,Jimmy Cliff,(60's) Sixties Collected Volume 2,"Wonderful World, Beautiful People",0,190400,False,0.727,0.554,2,-9.641,1,0.025,0.0386,0.0,0.0914,0.832,107.297,4,reggae
+2UfWdCjM4AdD0tFWvbaQCi,Simon la Letra,Por Amor Nunca Se Ruega,Por Amor Nunca Se Ruega,48,178678,False,0.661,0.795,10,-5.467,0,0.0533,0.467,3.36e-06,0.0992,0.938,179.96,4,reggae
+4vpXjguMioKefak80ytICn,Jairo Vera,12:30,12:30,51,170571,False,0.802,0.771,6,-3.058,1,0.0675,0.00799,0.004,0.0999,0.794,91.993,4,reggae
+49ou9vBZLTCi4TYoYzR3F9,Enur;Natasja,Calabria 2007 (feat. Natasja),Calabria 2007 (feat. Natasja) - Radio Edit,65,233480,False,0.888,0.556,7,-8.38,1,0.186,0.00758,0.0584,0.0553,0.45,126.008,4,reggae
+1MDuXjpO68UVjbBzrTL1Aq,MAGIC!,Primary Colours,Red Dress,50,200800,False,0.653,0.795,10,-4.477,1,0.0336,0.0887,0.0,0.203,0.803,135.978,4,reggae
+6Za3190Sbw39BBC77WSS1C,Natti Natasha;Ozuna,Criminal,Criminal,75,232549,False,0.814,0.813,2,-3.023,0,0.0561,0.03,9.33e-05,0.255,0.839,79.997,4,reggae
+7BuSE9uTIw931wtZYzvZcQ,Sebastian Yatra;Daddy Yankee;Natti Natasha;Jonas Brothers,Runaway,Runaway,62,200693,False,0.756,0.851,2,-3.33,1,0.0674,0.0336,0.0,0.126,0.934,75.014,4,reggae
+3tCwjWLicbjsMCvXhN0WOE,MAGIC!,Rude,Rude,66,224773,False,0.743,0.807,1,-3.78,1,0.0364,0.0435,0.0,0.309,0.899,144.062,4,reggae
+1XlpaijGmAY0pWe16oucrC,J Balvin;Pitbull;Camila Cabello,Hey Ma (with J Balvin & Pitbull feat. Camila Cabello),Hey Ma (with J Balvin & Pitbull feat. Camila Cabello),47,195040,False,0.713,0.952,7,-2.959,1,0.108,0.0203,2.51e-06,0.117,0.571,105.981,4,reggae
+3wxYm9dG25xd0eAGAkqy7W,K'NAAN;Black Chiney,Wavin' Flag (Orange Monkey Version),Wavin' Flag - Black Chiney Remix,49,224533,False,0.597,0.913,0,-6.246,1,0.103,0.038,0.0,0.288,0.694,152.098,4,reggae
+0Bns7Z5qu5gwuZVN3ht5vN,Jerry Di,Noche de Halloween Latino,El Diablo,1,184853,False,0.863,0.768,7,-2.227,0,0.184,0.0851,0.000119,0.105,0.673,107.971,4,reggae
+5B60XFKzm8WsJTdVyt4u4I,Myke Towers,Luces De Neón,Luces De Neón,80,219789,True,0.747,0.619,3,-6.009,1,0.0588,0.0865,2.03e-05,0.103,0.567,94.98,4,reggae
+2DcRv49cdbnHGGWFIuHBkI,Maneva,Deixe-Me Ir / Tem Café (Ao Vivo),Deixe-Me Ir / Tem Café - Ao Vivo,48,272277,False,0.616,0.714,7,-3.965,0,0.311,0.243,0.0,0.316,0.695,176.192,4,reggae
+2wp7OUgPvFipU9fHGjNEcr,Jerry Di,Reggaeton Mix Perreito,El Diablo,0,184853,False,0.863,0.768,7,-2.227,0,0.184,0.0851,0.000119,0.105,0.673,107.971,4,reggae
+6SR0dDuXH2vtgBfMLrivKV,Bob Marley & The Wailers,Exodus,One Love / People Get Ready - Medley,71,172933,False,0.67,0.516,10,-9.598,1,0.366,0.0673,0.0,0.0674,0.939,154.186,4,reggae
+0ZYuaNa0M0XVimhr8biOmX,BRAZA,Tijolo por Tijolo,Qual É o Rosto de Deus?,47,217746,False,0.764,0.765,1,-9.795,0,0.0559,0.493,3.26e-06,0.0894,0.663,172.0,4,reggae
+0AoSsEotQdgFalXKUuwv3y,"Gotay ""El Autentiko"";Ele A El Dominio",Perreo Tenebroso Vol. 4,Yo Me La Robé,0,221173,True,0.822,0.554,8,-6.528,1,0.131,0.331,0.000153,0.21,0.265,99.967,4,reggae
+3YNuIpKlMbdi47VdQmOEq2,Maneva,Tempo de Paz,Não Vá Dizer Que Não,48,224156,False,0.52,0.571,5,-8.423,0,0.0333,0.692,2.01e-06,0.17,0.399,96.081,4,reggae
+6bBZw995lxv3abFz4Beada,Malito Malozo;Divino;Bayriton,Mac,Mac,49,281705,False,0.743,0.6,7,-7.466,0,0.0998,0.126,0.0,0.107,0.601,162.077,4,reggae
+4YrxFUrsaYeVujesfNRvVZ,Malito Malozo;Marcianeke;Tommy Boysen,No Pare,No Pare,48,277346,False,0.823,0.608,6,-6.447,0,0.0564,0.154,5.74e-06,0.563,0.433,98.006,4,reggae
+7yx7dh8cyKtdDby6iRG8aJ,Natan & Shander;Feid;Ryan Castro;Totoy El Frio,Esto me suena a Farra,VIP Feat. Totoy El Frio,0,245026,False,0.753,0.704,9,-4.068,0,0.218,0.0273,1.12e-05,0.0727,0.492,182.036,4,reggae
+4r2I7ioBFYcUezMRnPVlYx,SNJ,Somos Nos a Justica,Pensamentos,49,335974,False,0.702,0.675,10,-5.352,0,0.351,0.363,0.0,0.359,0.626,83.515,4,reggae
+3PCc1VuBDxg4V00Tc1okLM,Natan & Shander;Feid;Ryan Castro;Totoy El Frio,Noche de Halloween Latino,VIP Feat. Totoy El Frio,0,245026,False,0.753,0.704,9,-4.068,0,0.218,0.0273,1.12e-05,0.0727,0.492,182.036,4,reggae
+6mchtho7otjNIYcPPrYZyj,"Gotay ""El Autentiko"";Ozuna;Wisin",Perreo Tenebroso Vol. 4,Más De Ti,0,257506,False,0.758,0.8,0,-3.245,1,0.0383,0.0714,0.0,0.407,0.607,94.043,4,reggae
+2opfAkFHhQCmSZA8bsLy5f,Marcelo Falcão;Cynthia Luz,Sexta-Feira,Sexta-Feira,48,239118,False,0.674,0.739,6,-5.548,1,0.0662,0.065,0.0,0.35,0.647,96.017,4,reggae
+5BeOmmGoxAvDus9Ozpc0MI,Armandinho,Acústico (Ao Vivo),Nesses Olhos - Ao Vivo,47,224264,False,0.755,0.465,7,-8.679,1,0.0474,0.634,4.16e-06,0.728,0.493,138.014,4,reggae
+1uYv1FXOsQXQ00thfiWNno,Sizzla,Green Concrete Riddim,Green Concrete,4,195833,True,0.578,0.643,7,-3.176,0,0.0776,0.148,0.0,0.325,0.614,179.359,4,reggae
+39N7mQeMmInerrWiw8dd4D,Kail BRL;Benji La Maldita Escritura De Oro,Alta Gama,Alta Gama,47,185111,False,0.781,0.58,5,-6.11,1,0.395,0.0868,0.0,0.733,0.592,179.96,4,reggae
+05InvhuB0FVJ6EFqEyIqIW,Jerry Di;Zion & Lennox;Lyanno;Noriel;Luis Alberto Ambrosio Cuque;Pablo C Fuentes;Wilmo Belisario,Homecoming Latin Party,Verano En París - Remix,0,275000,False,0.677,0.752,11,-3.975,1,0.384,0.235,0.0,0.189,0.455,192.037,4,reggae
+1npcpOYiEc29qN5UavSjGL,Hector & Tito,Halloween 2022 Perreo Vol. 4,Felina,1,216426,False,0.773,0.93,6,-6.497,1,0.0734,0.0233,0.014,0.075,0.732,92.989,4,reggae
+62WaNPi59v5jzBvsrSx5jj,MORADA,Uma Só Voz - Vol. 01 (Ao Vivo),Isaías 6 - Ao Vivo,48,429406,False,0.315,0.624,9,-7.487,1,0.0336,0.808,0.0,0.918,0.34,139.649,4,reggae
+0ganZjtkMwkoRvYQk7te7h,Maneva,Mundo Novo,Tão Simples,48,142131,False,0.768,0.52,0,-7.375,0,0.0994,0.0912,1.26e-06,0.435,0.776,140.109,4,reggae
+1QJWQRagviM87ff3wQjBkP,O Rappa,Acústico MTV,Pescador de ilusões - Ao vivo acústico,50,306266,False,0.385,0.806,1,-8.967,1,0.0398,0.237,0.00566,0.933,0.693,106.628,4,reggae
+5MqCuiA5MT3O141lvV1TUX,Sizzla,PEPPERSPRAY RIDDIM,No Dutty Heart,0,154229,False,0.767,0.931,7,-3.112,1,0.273,0.0842,4.23e-06,0.0603,0.878,100.17,4,reggae
+6yIf83OZJX6cTaKBj5VWwh,Yera;Trapical,Fiesta Reggaeton 2010s,Sabrosa,0,209203,False,0.661,0.904,0,-3.433,1,0.0444,0.192,0.0,0.374,0.735,113.107,4,reggae
+1Ftw9Pjslb92gzCXPngVwt,Yera;Morat,Fiesta Reggaeton 2010s,Mejores Amigos,1,205369,False,0.55,0.74,4,-6.965,1,0.0406,0.155,0.0,0.103,0.902,179.961,4,reggae
+2j0xMbhqTwks1L3PeOhywh,Yera;Mau y Ricky,Fiesta Reggaeton 2010s,Cosas Ricas,0,222580,False,0.771,0.693,0,-4.173,1,0.0485,0.0358,0.0,0.0904,0.714,93.004,4,reggae
+2JSxHhnDHsz0d6v22amg7y,Armandinho,Acústico (Ao Vivo),Onda do Arraial - Ao Vivo,47,205856,False,0.643,0.728,7,-7.805,1,0.0301,0.295,0.0,0.343,0.528,94.976,4,reggae
+08Uk9bJZ0XBAKNsv4Jsini,Jerry Di;Zion & Lennox;Lyanno;Noriel;Luis Alberto Ambrosio Cuque;Pablo C Fuentes;Wilmo Belisario,Fiesta Reggaeton 2010s,Verano En París - Remix,0,275000,False,0.677,0.752,11,-3.975,1,0.384,0.235,0.0,0.189,0.455,192.037,4,reggae
+6TO7OzSCGJ1YP6OSXvxgVO,"Franco ""El Gorilla""",Perreo Tenebroso Vol. 5,Psiquiatrica Loca,0,173360,False,0.699,0.94,0,-4.718,1,0.223,0.231,0.0,0.331,0.921,186.077,4,reggae
+5ViWZbiMhr7VWS0ihZku6V,Marcelo Falcão,Quando você olhar pra mim,Quando você olhar pra mim - Acústico,47,243676,False,0.676,0.743,7,-7.35,1,0.199,0.448,0.0,0.0723,0.878,163.834,4,reggae
+1VHjjOOllU87VRa8B2EWiX,Papas Da Língua,Papas Da Língua,Blusinha Branca,49,298453,False,0.601,0.899,9,-6.713,1,0.0651,0.213,0.0,0.721,0.779,170.098,4,reggae
+6LUNGq8PjLgalGTddriqij,Maneva,Mundo Novo,Respostas,48,147598,False,0.786,0.525,11,-7.373,1,0.13,0.14,0.0,0.199,0.686,130.077,4,reggae
+3MWGKFL4mRTeaksWhbEngH,Flex;Mr. Saik,Perreo de Ayer,Dime Si Te Vas Con Él,49,235671,False,0.786,0.824,5,-5.405,0,0.055,0.255,0.000447,0.267,0.62,95.984,4,reggae
+41jxXLrYhNsogBNYKHWLih,Maneva,Mundo Novo,Promete,49,180398,False,0.776,0.407,4,-8.282,1,0.0649,0.644,0.0,0.148,0.749,122.889,4,reggae
+55QTuyhoVaOlTc295H7lqr,MORADA,Ele É (Ao Vivo),Meus Votos - Ao Vivo,48,497142,False,0.34,0.708,9,-5.486,1,0.0343,0.377,0.0,0.682,0.22,140.03,4,reggae
+5yvTF0bpT4JazX5GhF1uwl,Hector & Tito;Víctor Manuelle,Halloween 2022 Perreo Vol. 1,Ay Amor - Reggaeton,0,233013,False,0.588,0.771,8,-5.125,0,0.0954,0.202,9.12e-06,0.117,0.657,179.968,4,reggae
+4N8rEj0nz6oVhyv3aggHfP,Tihuana,Ilegal,Pula,49,182106,False,0.78,0.937,9,-4.108,1,0.147,0.0319,0.0,0.102,0.935,137.156,4,reggae
+3UDfuH2TIyuc7W5V6SKXMz,Hector & Tito,Halloween 2022 Perreo Vol. 3,Sientan El Ran Tan Tan,0,173933,False,0.704,0.727,2,-5.004,1,0.412,0.0596,0.0,0.214,0.301,93.533,4,reggae
+0EVhfRiVBGjrIUFyW0Aaut,Maneva,Tudo Vira Reggae II (Ao Vivo),Apelido Carinhoso / Cigana - Ao Vivo,48,381045,False,0.765,0.534,2,-6.867,1,0.101,0.258,4.82e-06,0.102,0.512,143.865,4,reggae
+45n1UykYUNp1LgRt8auL4U,Gondwana,Modo trabajación,Dime - 2008 Remaster,0,256026,False,0.787,0.534,7,-7.779,0,0.0582,0.114,5.34e-06,0.114,0.897,152.131,4,reggae
+2Ekzdvq7VEmWMDkxrYwKX7,Jairo Vera;Bayriton;Ignacio Green Clown;Paolo Ronaldo,Quieres Volver,Quieres Volver,50,242764,False,0.825,0.625,7,-7.235,1,0.0672,0.0202,0.0,0.217,0.86,105.053,4,reggae
+5mC0tSmdI2MgY9ZEqiztUP,Gondwana,Modo trabajación,Felicidad,0,341026,False,0.744,0.666,0,-7.213,1,0.0507,0.00147,0.0,0.162,0.806,143.645,4,reggae
+4gzsuuZypVbxs0Af1LSZyB,Tainy;Bad Bunny;Julieta Venegas,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),87,207301,False,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,4,reggae
+3V8UKqhEK5zBkBb6d6ub8i,Nio Garcia;Casper Magico;Bad Bunny;Darell;Ozuna;Nicky Jam,Te Boté (Remix),Te Boté - Remix,78,417920,True,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-05,0.0595,0.442,96.507,4,reggae
+1SssFw74DdHVjRa6ADggdD,Inner Circle,Blazzin' Fire,Sweat (A La La La La Long),72,227067,False,0.787,0.728,0,-7.705,1,0.218,0.0124,0.0,0.157,0.94,173.026,4,reggae
+2AuWgceaQyfMoI3EGavwGb,Rvssian;Anuel AA;Juice WRLD,No Me Ame,No Me Ame,63,180000,False,0.68,0.766,11,-4.799,0,0.0923,0.0411,0.0,0.116,0.28,160.095,4,reggae
+6JjPBQfI2Y8nIjnm65X6Pw,Nicky Jam;J Balvin;Maluma;Ozuna,X (feat. Maluma & Ozuna) [Remix],X (feat. Maluma & Ozuna) - Remix,68,235746,False,0.663,0.696,9,-4.957,0,0.103,0.0561,3.77e-05,0.0778,0.738,180.113,4,reggae
+2FqoR7diymD1Eh7cVb3DMg,Wisin & Yandel;Chris Brown;T-Pain,Líderes,Algo Me Gusta De Ti,76,274946,False,0.627,0.768,11,-5.296,0,0.0325,0.00291,0.0,0.0598,0.237,127.953,4,reggae
+1c2vVx6knoiZHXbJJ9Mk8L,Justin Quiles;Robin Schulz,AEIOU,AEIOU,74,161880,False,0.689,0.856,5,-3.394,0,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+3AEZUABDXNtecAOSC1qTfo,CNCO,Primera Cita,Reggaetón Lento (Bailemos),73,222560,False,0.761,0.838,4,-3.073,0,0.0502,0.4,0.0,0.176,0.71,93.974,4,reggae
+6U2NuJILEOEpW2tVCuqKHb,Daddy Yankee;Natti Natasha;Becky G;Bad Bunny,Dura (Remix),Dura - Remix,68,242160,False,0.772,0.803,1,-3.035,1,0.0468,0.188,0.0,0.434,0.853,94.981,4,reggae
+7w1RxkQtEwKYEoyQuaxfXW,J Balvin;Willy William;HUGEL,Mi Gente (Hugel Remix),Mi Gente - Hugel Remix,53,208773,False,0.948,0.673,9,-4.439,1,0.182,0.0555,0.000572,0.0739,0.785,119.974,4,reggae
+7lgvGRC1gN0JGgY9VGXsQT,Dirty Heads,SWIM TEAM,Vacation,62,209721,True,0.736,0.751,8,-5.588,1,0.034,0.0381,0.0,0.105,0.839,150.064,4,reggae
+1bHhB1E62CqbM3uVZVvaEl,Becky G,Bella Ciao,Bella Ciao,61,160177,False,0.667,0.754,9,-2.861,0,0.0715,0.214,0.0,0.0532,0.693,104.987,4,reggae
+62vDrkBEyJYEOFj1ScBqM7,Becky G;Natti Natasha,MALA SANTA,Sin Pijama,67,190160,False,0.788,0.745,11,-4.417,0,0.0448,0.352,4.56e-05,0.0973,0.79,94.002,4,reggae
+3kUq4sBcmxhnOtNysZ9yrp,Feid,Feliz Cumpleaños Ferxxo,Feliz Cumpleaños Ferxxo,87,156400,False,0.87,0.55,5,-5.537,1,0.0722,0.102,0.0,0.293,0.566,95.019,4,reggae
+1797zYiX4cKosMH836X9Gt,Bad Bunny;Tony Dize,Un Verano Sin Ti,La Corriente,90,198367,True,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,4,reggae
+3PpWCS95gDUDRPko3u1MZ9,Feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,Prohibidox,86,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,reggae
+7FlQk2gJ6TBrHHiidvdR2O,Becky G;KAROL G,ESQUEMAS,MAMIII,81,226093,False,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,4,reggae
+5LyfiK6iXEIBNEtcaGKohl,Bob Marley & The Wailers,Exodus,Jamming,74,211000,False,0.935,0.479,11,-10.981,0,0.306,0.107,5.25e-05,0.118,0.773,123.644,4,reggae
+26PwuMotZqcczKLHi4Htz3,Bob Marley & The Wailers,Uprising,Redemption Song,70,233560,False,0.671,0.256,7,-10.743,1,0.0387,0.608,0.0,0.0737,0.694,115.871,4,reggae
+2wQBzAZdsaqDBbtwBk5MhA,DJ Nelson;Jose De Las Heras;Alejandro Armes;Babywine;Alberto Stylee,PAPI (feat. Babywine & Alberto Stylee),PAPI (feat. Babywine & Alberto Stylee),54,187092,False,0.909,0.716,1,-6.628,1,0.126,0.359,0.00224,0.106,0.417,105.078,4,reggae
+2LYH0aiSJRgO0kXwXmpcRZ,Edu Ribeiro,Luau,De Mais Ninguém,46,187226,False,0.737,0.619,2,-8.131,1,0.0292,0.0837,0.0,0.0901,0.588,133.949,4,reggae
+2htQw6jG3qS8dciE7UhbAG,El Kuelgue,Fierrín (Lado A),Planeta Numir,48,213240,False,0.62,0.606,6,-8.259,0,0.0443,0.494,0.000332,0.218,0.681,94.067,4,reggae
+6GfahyZpvVE0FZKsLSRIoT,Mr. Vegas,Bhuff Dem Riddim,Bhuff Dem,0,150000,False,0.863,0.901,10,-3.284,0,0.0722,0.0755,0.00582,0.109,0.599,126.044,4,reggae
+4UCmiDTgCZwy5QwgsDEN4T,Jehza;Galindo Again;Dvice;Joniel,Romperte,Romperte,46,234176,True,0.715,0.584,1,-7.065,1,0.171,0.0753,0.0,0.067,0.912,170.06,4,reggae
+1bEppoRAORPzwVS6y3F4Ef,Ñejo,Yo Soy la Fama,No Lo Pienses Mas,46,182293,True,0.838,0.83,7,-6.123,1,0.0645,0.0142,0.0617,0.184,0.846,93.019,4,reggae
+5AAaghHx8jedNGhHZkY8so,Busy Signal,PEPPERSPRAY RIDDIM,Bamm,0,176774,True,0.84,0.831,7,-1.937,1,0.303,0.0367,2.59e-06,0.0703,0.884,133.424,5,reggae
+1eNsBd4FoFc6hYmnoe0CVC,Kenia OS,En Vivo (Acústico),Sirena (Versión Acústica),46,242261,False,0.599,0.477,10,-6.444,1,0.0346,0.75,0.0,0.063,0.455,133.593,4,reggae
+71HcKKNwvQ8Jv6lbBEi4oO,Yiordano Ignacio,El Nene Con el Flow,Berraqueo,46,187063,False,0.9,0.655,10,-7.259,0,0.0746,0.346,0.0,0.104,0.885,96.032,4,reggae
+1rg9XExYRDpEPn2cDqwz6A,Dhyo Haw,Daur Ulang,Pelangi Baruku,46,280210,False,0.529,0.64,5,-7.482,1,0.031,0.398,0.103,0.12,0.521,137.031,4,reggae
+7F6f0GrWlOG0kVtdiCXCaU,Natiruts;Jacob Hemphill,Exército da Paz (Peace Army),Exército da Paz (Peace Army),45,259413,False,0.553,0.768,2,-6.376,0,0.0413,0.179,0.0,0.0784,0.926,178.075,4,reggae
+2A40448819q6LAg0jc6TNt,Chimarruts,"Circuito Reggae, Vol. 12",Saber Voar,45,310333,False,0.854,0.305,1,-9.032,0,0.0519,0.299,0.0,0.143,0.399,119.928,4,reggae
+0k85ZZv3XNJ9dL2WLlZGuI,Farina,Halloween 2022 Perreo Vol. 4,Mucho Pa Ti,0,153746,False,0.733,0.7,0,-5.026,0,0.368,0.661,0.0,0.14,0.639,108.263,4,reggae
+50zpoWMidTPVoCjBBNMfMP,Farina,Perreo Tenebroso Vol. 1,El Problema,0,206173,False,0.535,0.651,0,-3.612,1,0.402,0.0542,0.131,0.0751,0.515,179.795,4,reggae
+6JMRXqVpDD1Xu2lAoFOVbS,O Rappa,O Rappa - Acústico Oficina Francisco Brennand (Deluxe) [Ao Vivo],Rodo cotidiano - Ao vivo,48,207197,False,0.483,0.896,7,-5.206,1,0.0887,0.186,0.00019,0.965,0.392,128.21,4,reggae
+1QVnc9HLOMlAD4KDxNzzOH,Maneva,Mundo Novo,Cores Do Universo,47,131198,False,0.689,0.719,9,-6.096,0,0.136,0.382,0.0,0.213,0.674,130.0,4,reggae
+5IoDXk7FV7GiXDL7ma1WHj,Mr. Vegas,PEPPERSPRAY RIDDIM,Who Love Girls,0,167973,False,0.642,0.861,0,-0.387,1,0.406,0.071,0.0,0.0416,0.741,99.341,4,reggae
+22QdpwlY4mNXPhl2j9RfgD,Maneva,Tô De Pé (Acústico),Tô De Pé - Acústico,47,169472,False,0.877,0.628,9,-7.541,0,0.0669,0.504,0.0,0.282,0.793,106.087,4,reggae
+3lMGhsGVaAO37AKy5CV8HB,Scracho,A Grande Bola Azul,Morena,47,247986,False,0.731,0.617,1,-6.975,0,0.0428,0.0355,0.000102,0.147,0.417,139.983,4,reggae
+5LTwjTZjxnpAe0o0h5RgY0,Ara Ketu,Vida,Face Oculta,47,261133,False,0.693,0.777,6,-6.775,1,0.035,0.168,0.0,0.07,0.626,126.335,4,reggae
+05y79YGqS94EQe0v29lHIo,Kevin Martes 13,Inmortal,Soñando - Remastered,46,272000,False,0.756,0.713,1,-6.983,1,0.0608,0.095,0.0,0.0809,0.745,180.02,4,reggae
+5Lub3JBkk9adIl7J6jLk6J,Jairo Vera,Pa K Te Enamore,Se Trepa,47,161737,False,0.738,0.721,3,-5.798,0,0.0738,0.00963,0.00156,0.153,0.377,91.98,4,reggae
+62ZYT0vrK0SXFzCsjDIYVm,MORADA,Lembre-se 80's (Ao Vivo),"Ao Único / Espírito, Enche a Minha Vida / Sala do Trono - Ao Vivo",47,343863,False,0.409,0.821,2,-4.386,1,0.0443,0.0297,3.88e-05,0.299,0.285,131.964,4,reggae
+2mNw979gQkL6Z6mCxgCect,Maneva,Mundo Novo,Vida Eu Gosto De Você,47,181765,False,0.658,0.477,4,-8.903,1,0.153,0.569,0.0,0.257,0.456,138.559,4,reggae
+4Wls6Mo3QpCTnfa1kSEs6X,Armandinho,Acústico (Ao Vivo),A Ilha - Ao Vivo,46,287159,False,0.649,0.665,4,-7.912,0,0.0284,0.221,0.0,0.909,0.928,89.978,4,reggae
+6qfdGgNDYcsVdG7RimLhFk,Maneva,Mundo Novo,Sereia,47,176298,False,0.725,0.607,0,-7.486,1,0.0456,0.0671,1e-06,0.353,0.57,129.971,4,reggae
+2KWCHX9hCadTNbUhLWvDDq,Maneva;MC Hariel,Caleidoscópico,Banco De Areia,47,174106,False,0.607,0.704,8,-6.567,1,0.0488,0.101,0.0,0.3,0.897,162.944,4,reggae
+3aTJREDBpFWYhR5m4i48jO,Maneva,Caleidoscópico,Inevitavelmente,46,197960,False,0.67,0.586,4,-8.108,1,0.0457,0.279,1.29e-05,0.192,0.611,145.911,4,reggae
+7GCfKBpY3l2n3LAhsqjBtO,MORADA,Uma Só Voz - Vol. 01 (Ao Vivo),Postura do Reino - Ao Vivo,47,343875,False,0.476,0.66,10,-8.359,1,0.033,0.746,5.37e-06,0.916,0.551,120.053,4,reggae
+2g9fVupIy2qbQwabYzVnUv,MORADA,Uma Só Voz - Vol. 01 (Ao Vivo),Não Há Amor Igual - Ao Vivo,47,352875,False,0.355,0.682,11,-6.936,1,0.0304,0.456,6.42e-06,0.978,0.242,149.706,4,reggae
+6jV4DJBIWY4ykbdCcX4Bfu,MORADA,Atenção,Desenvolvendo Amor,47,257969,False,0.59,0.763,4,-4.833,0,0.0586,0.1,0.0,0.171,0.761,145.005,4,reggae
+2y8pG9CF0HC4cttJ50Pufk,"Nas & Damian ""Jr. Gong"" Marley",Distant Relatives,Patience,58,345093,False,0.792,0.639,4,-8.087,0,0.0431,0.204,0.0186,0.0964,0.315,124.209,4,reggae
+5fWG4JDot8nHCte7gUdMUS,Farruko;David Guetta,Pepas (David Guetta Remix - Radio Edit),Pepas - David Guetta Remix - Radio Edit,66,171784,True,0.632,0.952,7,-4.85,1,0.0527,0.0122,0.0119,0.265,0.098,126.967,4,reggae
+6hf0RpxTbOprT5nnwzkk8e,J Balvin;Maria Becerra,Qué Más Pues?,Qué Más Pues?,76,217773,False,0.891,0.819,8,-3.964,1,0.106,0.0261,0.000354,0.173,0.768,101.968,4,reggae
+4BxzNZpcm1j3JczZzGNe2k,Don Omar;Tego Calderón,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),Bandoleros,70,305280,False,0.662,0.896,5,-5.311,0,0.251,0.318,0.0,0.186,0.79,90.622,4,reggae
+6TsVhM8qIkWN5cJVDIVbbz,Wisin & Yandel;ROSALÍA,La Última Misión,Besos Moja2,83,229064,False,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,4,reggae
+3OB8tXG4qxdvs5Y9cZDsMa,Busy Signal,Perfect Spot,Perfect Spot,48,183473,False,0.737,0.706,6,-5.716,1,0.122,0.204,5.18e-05,0.0927,0.876,189.888,4,reggae
+2AY1UAimvTqjJC8vDJsOyy,Becky G;Bad Bunny,MALA SANTA,Mayores,72,203186,False,0.745,0.836,5,-4.336,0,0.0444,0.145,0.00314,0.116,0.874,96.993,4,reggae
+139nCjBRQCLgnWNRxBKAC7,Ozuna;GIMS;RedOne;FIFA Sound,Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],63,219831,False,0.675,0.888,11,-3.343,1,0.035,0.12,0.00967,0.337,0.526,119.018,4,reggae
+1RouRzlg8OKFeqc6LvdxmB,Maluma,F.A.M.E.,Felices los 4,73,230000,False,0.766,0.756,5,-5.861,1,0.132,0.213,0.0,0.349,0.716,94.027,4,reggae
+6wwT3PgG3eFuKCpxzjMJFs,Becky G;Burna Boy,Rotate,Rotate,60,201940,False,0.91,0.856,11,-2.082,0,0.157,0.0346,0.000223,0.0624,0.771,109.029,4,reggae
+48AJSd42lXpicsGqcgopof,Daddy Yankee;Bad Bunny,LEGENDADDY,X ÚLTIMA VEZ,85,192477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,4,reggae
+2GPCE96x9Go6acdDt8ex6p,J Balvin;Dua Lipa;Bad Bunny;Tainy,Future Nostalgia (The Moonlight Edition),Un Día (One Day),64,231815,False,0.572,0.634,6,-10.599,0,0.0617,0.00547,0.0,0.129,0.432,168.136,4,reggae
+2C2TGgFzrTRIOdQS1vUN5h,J Balvin,Energía,Ginza,70,171093,False,0.73,0.809,5,-6.406,0,0.0876,0.208,0.0013,0.0804,0.825,101.965,4,reggae
+4uOKFydzAejjSFqYbv1XPt,UB40,The Very Best Of,Red Red Wine,73,183733,False,0.857,0.468,1,-8.53,1,0.0476,0.00414,1.32e-05,0.269,0.843,89.119,4,reggae
+3XjN0mvFkQp1FMVM9Ro5hm,Daddy Yankee,LEGENDADDY,RUMBATÓN,79,248768,False,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4,reggae
+5fhcuVxuBWfgNXGuyAtLmr,Piso 21;Manuel Turizo,Los Cachos,Los Cachos,85,212304,False,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,4,reggae
+4OAPnWJ3J5w4c4IBLh2chn,Daddy Yankee;El Alfa;Lil Jon,LEGENDADDY,BOMBÓN,78,182413,True,0.843,0.789,7,-2.801,1,0.247,0.0028,2.41e-05,0.0322,0.571,125.071,4,reggae
+6yo07MyYoNMfGXJzrwbGLl,Gondwana,RAS Portraits,Dulce Amor,46,229293,False,0.728,0.421,7,-9.53,1,0.06,0.267,0.000203,0.0635,0.797,133.43,4,reggae
+7dl6sU2RWIcTVOSa3E2VBW,Ponto De Equilíbrio;Tati Portella,Mais Amor,Mais Amor,45,165789,False,0.714,0.701,2,-4.643,1,0.0494,0.503,8.68e-06,0.122,0.6,152.026,4,reggae
+2eYea2CszELfp3KK5w7bqO,Cestar;Stailok,Lo Mejor de Ti,Lo Mejor de Ti,47,176666,False,0.469,0.724,4,-6.294,0,0.123,0.139,0.0017,0.131,0.69,89.973,4,reggae
+55RxX3NEDSrPiE4s1nxrdA,Dhyo Haw,Daur Ulang,Jarak Dan Kita,45,240780,False,0.703,0.552,9,-7.699,1,0.0317,0.304,8.95e-06,0.0947,0.658,116.025,4,reggae
+1vv7h64yOLrdfHuTzfv9gI,Dvice;La Fortaleza Real;Lyan;Jehza,Gelato,Gelato,46,212903,True,0.812,0.573,2,-10.034,1,0.26,0.342,2.6e-06,0.0922,0.591,93.015,4,reggae
+6wszmCHeHNQNVBnBSAyl9X,El Kuelgue,Cariño Reptil,Por Ahora,47,206133,False,0.737,0.715,11,-7.485,0,0.0628,0.14,0.0,0.0927,0.631,121.917,4,reggae
+3bSnXuCoMpWKCR5jO5gGTL,Banda Eva;Maneva,Sem Filtro (Ao Vivo em Noronha),Louca - Ao Vivo,46,184914,False,0.619,0.44,7,-10.019,1,0.0715,0.178,1.21e-05,0.146,0.313,130.414,5,reggae
+2h1BiyNZDts240tTGjdtOF,Golden Ganga,Golden Ganga,Oh No!,46,310506,False,0.685,0.635,10,-6.025,1,0.0338,0.591,4.28e-06,0.104,0.819,147.912,4,reggae
+50HWplVj4mED6x7Hgv6wgb,Alex Sensation;Justin Quiles,Verano en Junio,Te Veré,0,185586,False,0.812,0.715,2,-3.879,1,0.0391,0.0602,5.46e-06,0.0526,0.668,104.971,4,reggae
+0BgSIWlf1zulLvRyNtjCtg,Maneva,Mundo Novo,Mundo Novo,45,170831,True,0.726,0.73,10,-7.221,1,0.146,0.0855,0.0,0.229,0.782,92.978,4,reggae
+124JkEAQHd3zW24qAEcgbw,Alex Sensation;Ozuna,Perreo Tenebroso Vol. 5,Que Va,0,239826,False,0.768,0.828,0,-3.371,1,0.0532,0.153,0.0,0.0524,0.827,90.982,4,reggae
+4dmgrfGknhKKaozk5U3JXL,O Rappa;Maria Rita / 1134893,Acústico MTV,Rodo cotidiano (Participação especial Maria Rita) - Ao vivo acústico,47,376613,False,0.634,0.704,11,-8.5,0,0.17,0.647,7.57e-06,0.975,0.505,114.751,4,reggae
+6obKfbBp4fdgUMppwgg837,Dvice,Necesito de Ti,Necesito de Ti,45,193010,True,0.75,0.814,5,-3.623,0,0.0889,0.0829,0.0,0.31,0.937,91.015,4,reggae
+13ssrpQNIvWrC07irugQzx,Bayron Fire,Mi Necesidad,Mi Necesidad,45,223701,False,0.746,0.682,5,-6.653,0,0.0499,0.0205,1.91e-05,0.129,0.45,88.05,4,reggae
+0iuRYmJA5Oy6GF3wpibS27,Casa De Leones,Casa De Leones,Ponte Ahi,44,304066,False,0.821,0.864,7,-5.705,1,0.0852,0.613,1.97e-05,0.123,0.776,98.02,4,reggae
+33wiWULOgZ7ZW6ewOrxbWv,Dvice,U LA LA,U LA LA,45,187221,True,0.651,0.622,2,-7.701,0,0.0803,0.0862,0.0,0.11,0.298,139.765,4,reggae
+5MIrspiQcYqNVB5XARdf5l,Edson Gomes,Ao Vivo Em Salvador,Árvore. - Ao Vivo,45,309200,False,0.457,0.716,0,-9.17,1,0.208,0.173,4.7e-06,0.969,0.548,174.739,4,reggae
+1wmwhVbst9h3MgCP3ijMN7,Natiruts,#NOFILTER (Ao Vivo),Leve Com Você - Ao Vivo,44,203306,False,0.51,0.776,9,-6.645,0,0.044,0.462,7.67e-06,0.75,0.508,116.92,4,reggae
+4gS4KNWCPUdNWWkn69B52Q,Maneva,8 Anos (Ao Vivo),Lembranças (Ao Vivo),45,202371,False,0.576,0.498,4,-10.775,0,0.0542,0.492,8.86e-06,0.973,0.788,172.187,4,reggae
+4y7VqeIlakC0MLyi9XxTYu,Shamanes Crew;Zalo Reyes,Reden-Zion,Prisionera (feat. Zalo Reyes),46,231892,False,0.621,0.762,9,-5.828,1,0.0408,0.141,0.0,0.502,0.858,149.965,4,reggae
+2NV0oNAYgjlN27SeNIo8bL,O Rappa,O Rappa - Acústico Oficina Francisco Brennand (Deluxe) [Ao Vivo],Na horda - Ao vivo,47,306961,False,0.581,0.857,7,-5.89,0,0.127,0.374,0.0462,0.96,0.697,140.885,4,reggae
+3dtVijGXNMyi6Vhgsdj3hg,Dvice;El Sica,Patenta,Patenta,45,219022,True,0.478,0.652,11,-4.329,1,0.372,0.00202,0.0,0.366,0.128,88.447,3,reggae
+50RFZ81kvSH0FKGumrw8sQ,Kapanga,Operacion Rebenque,El Universal,48,191946,False,0.57,0.885,2,-3.09,1,0.0387,0.0641,0.0,0.0712,0.857,149.878,4,reggae
+3DTHLA4DaMpgHrK1fRP2bF,Jeloz,Ilusión,Por Ti,45,187640,False,0.799,0.877,1,-4.875,1,0.0501,0.0674,0.0,0.0852,0.706,120.015,4,reggae
+4TA9yhZiAMGHISseJM0YE6,Maneva,Mundo Novo,Olha O Sol,46,173565,False,0.796,0.517,9,-8.032,1,0.0793,0.494,0.0,0.134,0.803,127.986,4,reggae
+5diYEOacejP4yRkWlYU3Cu,Armandinho;Vitor Isensee,Acústico (Ao Vivo),Eu Sou do Mar - Ao Vivo,45,275969,False,0.72,0.762,5,-6.822,0,0.0731,0.185,0.0,0.673,0.954,146.056,4,reggae
+0Zj9TB27KLWpixW7WFRx6A,Tianastacia,Ta Na Boa,Conto De Fraldas,47,272293,False,0.675,0.594,2,-7.518,1,0.0281,0.0348,1.91e-05,0.451,0.598,118.052,4,reggae
+4PQiUuOW2rPkVnIOkS5DpZ,Maneva,Tudo Vira Reggae II (Ao Vivo),Deixe-Me Ir / Tem Café - Ao Vivo,46,272277,False,0.616,0.714,7,-3.965,0,0.311,0.243,0.0,0.316,0.695,176.192,4,reggae
+1JlxQG0qBaEI2V1f0zkQLT,Kapanga,Lima,No Me Sueltes (Es Posible),48,235146,False,0.551,0.908,1,-5.619,1,0.0926,0.0167,0.0,0.345,0.77,153.99,4,reggae
+6SxDyZv0icnCfTS9WBaa4j,Golpe a Golpe,El Bien y el Mal,La Chinita de los Ojos Cafés,44,201363,False,0.88,0.74,9,-3.833,1,0.244,0.0966,0.0,0.158,0.858,91.978,4,reggae
+09Uv1EnxHHFIs6FWbHDtMm,Caparezza,OO's Music Grandi Successi,Fuori Dal Tunnel,0,310266,False,0.853,0.717,7,-4.853,1,0.128,0.188,0.0,0.104,0.665,92.003,4,reggae
+02j3P5NLtFH34LVPLHLk5s,Maneva,#Somosmaneva,Minha Tristeza,45,208526,False,0.74,0.642,2,-5.887,0,0.11,0.489,2.94e-06,0.0711,0.925,167.975,4,reggae
+4ZURDRMhL4AKlKMJbouGyM,Caparezza,10's Music Grandi Successi,Fuori Dal Tunnel,0,310266,False,0.853,0.717,7,-4.853,1,0.128,0.188,0.0,0.104,0.665,92.003,4,reggae
+4R8BJggjosTswLxtkw8V7P,Jhayco;J Balvin;Bad Bunny,Famouz,No Me Conoce - Remix,82,309120,False,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,4,reggae
+25ZAibhr3bdlMCLmubZDVt,J Balvin;Bad Bunny,OASIS,QUE PRETENDES,81,222346,False,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,4,reggae
+69vlMrzHwATKzupwNcUPyK,Bad Bunny;Daddy Yankee,YHLQMDLG,La Santa,84,206420,True,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,4,reggae
+7vrJn5hDSXRmdXoR30KgF1,KAROL G,BICHOTA,BICHOTA,76,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae
+2WQKHNETUytUGsD32TTNeO,Damian Marley;Stephen Marley,Stony Hill,Medication,64,222466,True,0.865,0.562,10,-6.811,0,0.251,0.0318,0.0,0.246,0.81,85.02,4,reggae
+7hOfyNuj2dLc0HAEYVDIYS,Nicky Jam;Enrique Iglesias,Fénix,El Perdón - Forgiveness,51,206666,False,0.736,0.719,8,-3.839,1,0.0357,0.256,0.0,0.0909,0.656,90.013,4,reggae
+1bFgMkoazsyZGSflpCzYm6,Farruko;Tiësto,Pepas (Tiësto Remix),Pepas - Tiësto Remix,70,223384,True,0.769,0.688,7,-4.378,1,0.0501,0.00215,0.107,0.088,0.387,130.026,4,reggae
+5cepAtqnEQ6yVG6088zMMu,Maluma;Nego do Borel,F.A.M.E.,Corazón (feat. Nego do Borel),69,184720,False,0.722,0.738,9,-6.073,0,0.247,0.328,1.47e-05,0.198,0.748,198.075,4,reggae
+2z9YkcLojiOE7Eu2p9lPZR,Feid,Normal,Normal,85,171986,True,0.712,0.557,4,-4.861,0,0.115,0.0397,0.0,0.27,0.594,170.079,4,reggae
+6D2TCm4nf5nxAcdGJ7w3QP,J Balvin;Maria Becerra,JOSE,Qué Más Pues?,76,217360,False,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,0.732,102.014,4,reggae
+3hPbdPIXZPpyywSxnKNtYh,Shaggy;Collie Buddz;Sizzla,Intoxication,Mad Mad World (feat. Sizzla Kalonji & Collie Buddz),64,231880,False,0.901,0.531,10,-5.365,1,0.0853,0.0768,0.0,0.101,0.563,100.016,4,reggae
+0KkIkfsLEJbrcIhYsCL7L5,Anuel AA;Daddy Yankee;KAROL G;Ozuna;J Balvin,Emmanuel,China,70,301714,False,0.786,0.808,7,-3.702,1,0.0881,0.0846,0.000289,0.0822,0.608,105.029,4,reggae
+02jLfqc9gMo8PkHEGHY3OT,Feid,Si Te La Encuentras Por Ahí,Si Te La Encuentras Por Ahí,82,191573,False,0.743,0.576,8,-3.552,0,0.076,0.151,5.87e-05,0.128,0.455,171.945,4,reggae
+4XuEiko0gQBN73HsRTNhkP,Ponto De Equilíbrio;Gabriel O Pensador,Essa É a Nossa Música,Nossa Música,45,232771,False,0.723,0.715,6,-4.999,0,0.093,0.065,0.0,0.161,0.773,90.014,4,reggae
+0gkJCLufpKEvz4hoUFqxBw,Balbi El Chamako;ITHAN NY;Galee Galee;Simon la Letra,La Vida Es Bela,Llegamos a la Disco,44,337872,True,0.804,0.824,11,-3.613,1,0.108,0.102,0.0,0.11,0.815,98.0,4,reggae
+2hQykQxAGtmbMBvAN7T4Z0,Armandinho,Armandinho,Folha De Bananeira,44,216320,False,0.834,0.562,5,-9.667,1,0.0373,0.0982,0.0,0.29,0.953,129.086,4,reggae
+5r0x87jwTbkVjA3FQNOykz,Maneva;Gabriel Elias,Corre Pro Meu Mar,Corre Pro Meu Mar,44,204800,False,0.576,0.399,11,-12.865,1,0.0354,0.584,1.26e-05,0.136,0.405,91.997,4,reggae
+010LzZsO4eqQUdUv1f1y9m,Gabriel Elias;Vitor Kley,Música Pra.curar Brasileira,Somos Instantes,44,225877,False,0.527,0.647,9,-6.314,1,0.038,0.312,0.0,0.119,0.573,78.026,4,reggae
+74amPS3GlbQRg8OagnJgof,Stailok,Recetas,Magic,45,234995,False,0.761,0.44,10,-6.517,1,0.0458,0.423,0.00193,0.109,0.33,89.999,4,reggae
+6whYUhik5DP4ycyFafFAsB,Alex Sensation;Ozuna,Queda poco para la PAES 2.0,Que Va,0,239826,False,0.768,0.828,0,-3.371,1,0.0532,0.153,0.0,0.0524,0.827,90.982,4,reggae
+4Cl7PMDB1O5ZJC4I5gI1Gr,Natiruts,Reggae Power (Ao Vivo),Presente de um Beija-Flor - Ao Vivo,44,286360,False,0.686,0.623,7,-7.566,1,0.0451,0.333,0.0,0.625,0.775,137.199,4,reggae
+7DCVTLzUHbfJ2gOUHOCyYu,Marcelo Falcão;Filipe Ret,Louco pra Voltar,Louco pra Voltar,44,234450,False,0.707,0.83,4,-4.98,0,0.214,0.291,0.0,0.259,0.739,75.028,4,reggae
+0nWEAiGRzP8rkQJ9Githyh,Bubaseta,Babybumblebee,De León a Leona,45,198750,False,0.72,0.811,10,-2.566,0,0.0606,0.416,0.0,0.0805,0.855,96.027,4,reggae
+085cxMAY91of46MYke5OQK,Golden Ganga,Música Libre,Tú,46,258693,False,0.802,0.658,11,-4.778,1,0.0358,0.0311,0.000278,0.229,0.739,120.07,4,reggae
+4GxFCitrF1Fu9qycAv8A3R,Natiruts,#NOFILTER (Ao Vivo),Zóio de Lula - Ao Vivo,43,126946,False,0.376,0.845,10,-5.681,0,0.147,0.319,0.0,0.4,0.732,176.046,4,reggae
+5n40SAKMk89wdWyhTfWzx4,Gondwana,RAS Portraits,Antonia,45,248213,False,0.763,0.64,0,-8.044,1,0.0411,0.298,0.00244,0.0538,0.94,95.487,4,reggae
+4qeKW6iHErETwNb4sgdYkZ,Ventania,Só para Loucos,Marasmo,44,160640,False,0.693,0.511,9,-6.565,0,0.0567,0.773,4.52e-06,0.0708,0.65,114.982,4,reggae
+3kkQOLp4QRNH0zAZIyCt4D,Dj Joe,Fatal Fantassy 3,El Phillie,44,173113,False,0.841,0.728,11,-5.789,1,0.0463,0.156,8.34e-05,0.113,0.703,100.002,4,reggae
+2u3IDp5f0iVe0tHoXMZQqJ,Edson Gomes,Campo De Batalha,Ovelha,44,209560,False,0.726,0.445,4,-8.083,0,0.0419,0.19,0.0,0.059,0.813,148.3,4,reggae
+6iXWsJhve7nuPnvfz0pi2m,Dvice,Vamos Hacerlo,Vamos Hacerlo,45,209972,True,0.685,0.709,7,-7.155,0,0.0379,0.28,0.0,0.053,0.61,168.06,4,reggae
+6fkjiRiUOO5UTUC5hPwqcB,Chimarruts,Só Pra Brilhar,Roots Dance,43,213653,False,0.828,0.778,11,-4.905,1,0.0681,0.13,3.82e-05,0.0359,0.888,79.531,4,reggae
+7ed2Ed5z0vMM4bqnZpWKK6,Big Up,Uni-Versos,Eleva,45,187570,False,0.736,0.665,0,-6.427,1,0.0487,0.0466,0.0,0.164,0.563,94.981,4,reggae
+5VsfM32WcLbMlznpWpprkH,Timbalada,Mineral,Água Mineral,45,43266,False,0.463,0.687,6,-8.177,1,0.18,0.357,0.0,0.0824,0.97,177.545,4,reggae
+5z7ib0Ck1LQjDaXB1v0L31,Jd Pantoja,Perreo Tenebroso Vol. 5,Hagamos Las Paces,0,138400,False,0.859,0.639,2,-4.52,1,0.0636,0.0433,0.0,0.102,0.676,101.027,4,reggae
+2yYQoWq7leuRmrsP7EjOWS,Dazaranha,Nossa Barulheira,Salão de Festa a Vapor,45,239040,False,0.877,0.681,9,-4.754,1,0.0346,0.261,3.08e-06,0.312,0.919,112.0,4,reggae
+318wNtLpuTW12tfiwo4yGN,Alex Sensation;Myke Towers;Jhayco;Arcangel;De La Ghetto;Darell,Fiesta Reggaeton 2010s,La Calle,1,292946,False,0.77,0.813,7,-3.424,1,0.139,0.298,1.82e-06,0.158,0.717,98.025,4,reggae
+4AGvLxSCLfHOjndRFUXPGd,Dazaranha,Daza,Fé Menina,45,189773,False,0.578,0.588,9,-8.281,1,0.0493,0.332,0.0,0.15,0.797,162.943,4,reggae
+3ihD3lOeQRlzTwaORNulux,Alex Sensation;Nicky Jam,Para entrar en calor,La Diabla,0,202693,False,0.848,0.825,4,-4.177,0,0.0899,0.397,0.0,0.0498,0.803,102.047,4,reggae
+62agzDjK1fD7WqKpjaLWKD,Jd Pantoja,Halloween 2022 Perreo Vol. 5,Error,0,230066,False,0.576,0.593,7,-8.091,1,0.216,0.762,0.00115,0.118,0.519,175.784,4,reggae
+1NhLJcFWLjrBax77kFft28,Las Pelotas,Máscaras de Sal,Capitán América,46,188000,False,0.617,0.789,11,-7.891,0,0.029,0.000185,0.000174,0.0909,0.934,125.006,4,reggae
+0Au15HOsloAV2EeSyEqWtA,Jd Pantoja,Frescura y Perreo,Santa Paloma,0,198400,False,0.752,0.576,5,-5.363,1,0.0979,0.223,0.0,0.291,0.533,160.041,4,reggae
+6BXz5aIbAqHT75w5z3hG3u,Maneva,Tudo Vira Reggae (Ao Vivo),Eu Te Devoro - Ao Vivo,45,243189,False,0.704,0.404,2,-8.877,1,0.0464,0.322,4.69e-05,0.0903,0.378,87.919,4,reggae
+67AUQswwoIM2Opd0bhBEcc,Fidel Nadal,Emocionado,Necesito Tu Amor,45,254413,False,0.714,0.827,5,-4.011,1,0.0325,0.00837,1.85e-05,0.226,0.781,144.081,4,reggae
+04jV9kpwWbr4HHfxfK4sSu,Steel Pulse,Supa Chill,Your House (Dub Version) - Remix,0,228653,False,0.716,0.487,10,-9.706,0,0.0962,0.00288,0.319,0.787,0.786,77.106,4,reggae
+7DGiwSAi7JqgndlMXcXTHE,Cidade Negra,Sobre Todas As Forças,Pensamento (Acústico),45,192440,False,0.673,0.693,7,-11.27,1,0.0557,0.0996,3.17e-05,0.0427,0.965,172.055,4,reggae
+2zGN2Pjf8FRZb3xYM0PkF3,Alejandro González;Pipe Bueno,Le Hace Falta Un Beso (feat. Pipe Bueno) [Versión Ranchera],Le Hace Falta Un Beso (feat. Pipe Bueno) - Versión Ranchera,44,171066,False,0.719,0.496,4,-4.733,1,0.0337,0.205,0.0,0.0799,0.752,101.969,4,reggae
+5upbYedO0GhVf7wOMcj2Lk,Maneva,Tudo Vira Reggae (Ao Vivo),Morena - Ao Vivo,44,215424,False,0.655,0.512,11,-7.429,0,0.188,0.0506,0.000177,0.318,0.539,160.101,4,reggae
+1Sdq78nETKvbdZazIfx70O,Maneva,Tudo Vira Reggae (Ao Vivo),Péssimo Negócio - Ao Vivo,45,201130,False,0.838,0.496,4,-9.59,0,0.0624,0.239,4.83e-06,0.253,0.679,148.132,4,reggae
+7qubRAWtXlhLkrHPRyLhjj,Maneva,Tudo Vira Reggae (Ao Vivo),"Na Rua, Na Chuva, Na Fazenda (Casinha De Sapê) - Ao Vivo",45,198240,False,0.71,0.451,9,-8.217,1,0.133,0.137,9.85e-05,0.374,0.481,156.032,4,reggae
+5kX2eRxwNj8DNa5eonHZ1D,Maneva,Tudo Vira Reggae (Ao Vivo),Epitáfio - Ao Vivo,45,193290,False,0.886,0.415,7,-9.652,1,0.0537,0.339,2.14e-05,0.155,0.421,105.004,4,reggae
+2CdTLdDjwZdVcm0bresVWx,J Balvin;Khalid,Otra Noche Sin Ti,Otra Noche Sin Ti,66,228920,False,0.503,0.548,0,-7.564,0,0.164,0.0751,0.000234,0.145,0.441,94.036,4,reggae
+6t1ahr2f1t9iSjjNFwFb4C,Tash Sultana,Notion,Jungle,66,315602,False,0.589,0.699,1,-5.883,0,0.0291,0.285,8.11e-05,0.0881,0.496,145.997,4,reggae
+35UUpTmrcFXNIVIN26ujXl,Sech;Daddy Yankee;J Balvin;ROSALÍA;Farruko,Relación (Remix),Relación - Remix,76,247308,False,0.793,0.771,5,-3.417,1,0.0959,0.0337,1.51e-06,0.284,0.835,171.943,4,reggae
+7KbF6AdprOXEEHlsq11Z6d,Maluma,11:11,11 PM,75,175733,False,0.777,0.712,10,-4.84,1,0.277,0.217,0.0,0.091,0.68,95.692,4,reggae
+7mWFF4gPADjTQjC97CgFVt,Ozuna;Daddy Yankee;J Balvin;Farruko;Anuel AA,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",Baila Baila Baila - Remix,76,235284,False,0.785,0.572,2,-7.504,1,0.123,0.0598,0.0,0.218,0.49,100.016,4,reggae
+5NetSTs4dgiR6GLrZOQcwJ,Becky G,Can't Stop Dancin',Can't Stop Dancin',61,198852,False,0.645,0.669,0,-7.946,0,0.0638,0.00545,0.00138,0.0997,0.568,100.052,4,reggae
+0aN7XuveoF2xUVJUJgPVNy,MJ,Tor Monta Sudhu Chai,Tor Monta Sudhu Chai,0,168892,False,0.702,0.969,6,-1.658,0,0.0485,0.0772,0.000688,0.278,0.967,135.015,4,reggae
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Verano Sin Ti,Un Ratito,87,176936,False,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,4,reggae
+1Rvl8qsKJurfFTyWLBI9ib,Big Mountain;Tom Lord-Alge,The Best of Big Mountain,"Baby, I Love Your Way",68,249520,False,0.651,0.747,1,-7.269,0,0.0699,0.0528,0.0,0.207,0.776,147.518,4,reggae
+7gcMKL3lnDxsp4bIXyv6Zk,Daddy Yankee,Shaky Shaky,Shaky Shaky,65,234320,False,0.899,0.626,6,-4.228,0,0.292,0.076,0.0,0.0631,0.873,88.007,4,reggae
+3PQLYVskjUeRmRIfECsL0X,Bob Marley & The Wailers,Natty Dread,No Woman No Cry,59,226240,False,0.898,0.365,0,-10.452,1,0.0462,0.159,9.28e-06,0.132,0.563,98.53,4,reggae
+3Q7o2zzvXj7QiSCumjBpvu,Becky G;Daviles de Novelda,AMANTES,AMANTES,72,180153,False,0.736,0.77,10,-6.477,0,0.0335,0.109,0.0,0.112,0.837,135.018,4,reggae
+4vfzROmNsxedKICcHod5Rh,Ini Kamoze,On Your 90's Radio,Here Comes the Hotstepper,58,244813,False,0.852,0.537,7,-7.424,1,0.114,0.0328,0.000248,0.229,0.483,100.369,4,reggae
+3Y7fpFZbHLpAvWJJYGehz0,Xavier Rudd,Spirit Bird,Follow The Sun,71,256266,False,0.611,0.394,0,-10.757,1,0.0416,0.534,4.68e-05,0.108,0.202,123.941,4,reggae
+4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Sobrio,81,201180,False,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,4,reggae
+7d7aPD2oxuzjhOZnu4Dj23,Natti Natasha;Daddy Yankee;Wisin & Yandel,Mayor Que Usted,Mayor Que Usted,81,233519,False,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,4,reggae
+6RyaV7owmVU6fzEPE17sF1,Daddy Yankee,Que Tire Pa Lante,Que Tire Pa Lante,69,210520,False,0.658,0.901,7,-2.814,1,0.0357,0.0478,0.0,0.12,0.708,93.979,4,reggae
+4Xtlw8oXkIOvzV7crUBKeZ,Daddy Yankee,Barrio Fino En Directo,Rompe,74,188626,True,0.696,0.858,9,-5.155,1,0.0859,0.0727,3.19e-06,0.0631,0.533,176.061,4,reggae
+4SuBaJVPJ0ttWJBoKwswWX,Dayme y El High;Cazzu;Aleman;Lito Kirino,Lo Tengo,Lo Tengo,43,243356,True,0.818,0.488,7,-8.824,1,0.41,0.681,0.0,0.135,0.577,137.159,4,reggae
+2dl5K2ScW7jYhAhuem06cm,Daddy Yankee,PROBLEMA,PROBLEMA,68,184506,True,0.773,0.8,10,-3.17,0,0.0987,0.0613,0.00403,0.0327,0.842,89.988,4,reggae
+08qoblFscVKk1tZnRSqPlh,Natiruts,Natiruts,Semente Nativa,43,277640,False,0.69,0.596,7,-6.896,1,0.0845,0.0123,0.0,0.0979,0.649,150.221,1,reggae
+6Pbve0TrBzMtFYxbgxDWBQ,Ara Ketu,Obrigado A Você,Carta Branca,44,239160,False,0.649,0.656,9,-7.244,1,0.0486,0.472,0.0,0.153,0.399,150.039,4,reggae
+4r1iag8SixyX9KiRxWVswH,Simon la Letra;Dayser 23,Por Ti,Por Ti,43,258782,False,0.799,0.853,7,-5.484,0,0.0293,0.104,0.0,0.0734,0.97,115.052,4,reggae
+6Ars2LzSDBTk4XzIlMtqEK,Dhyo Haw,Daur Ulang,Kecewa,43,252750,False,0.675,0.589,7,-6.423,1,0.033,0.585,0.0,0.104,0.889,120.016,4,reggae
+6tOe8U8yFPJCImBHKtGW0R,Dhyo Haw,Ada Aku Disini,Gue Apa Adanya,44,206080,False,0.769,0.599,7,-5.538,1,0.0274,0.0797,0.0,0.197,0.79,129.995,4,reggae
+4CwqO0iNCHRA4fATRPs79R,Armandinho,Casinha,Paulinha,43,172760,False,0.806,0.56,5,-8.829,1,0.0312,0.564,1.1e-05,0.191,0.714,124.273,4,reggae
+2PDVrk6EGNgpDu7pjO0p3R,Marcianeke,Pistolas Con Chip,Pistolas Con Chip,44,172367,True,0.747,0.534,4,-12.344,0,0.11,0.688,0.0,0.35,0.748,97.993,4,reggae
+0gLw9CHggtOhY5RVzU6Gsi,Endo y Lele,Las Armas Secretas,Contogo Me Fugo,43,194011,False,0.683,0.813,7,-8.654,1,0.233,0.327,0.0,0.386,0.649,96.039,4,reggae
+1M9n7XnWDThtGZoD4hseVu,Timbalada,Andei Road,Mimar Você,44,240760,False,0.715,0.65,11,-9.931,0,0.0514,0.445,1.88e-06,0.269,0.889,109.081,4,reggae
+63F46HyE75ftE4OhmH3Fzt,Capleton,Joyful Noise Riddim,Protect His People,2,248574,False,0.682,0.439,7,-12.951,1,0.432,0.0905,0.0,0.168,0.767,159.921,4,reggae
+249e2fS064cOwvWXm4JU28,Big Up,Uni-Versos,Sinta,44,212044,False,0.862,0.633,7,-8.216,1,0.0753,0.0076,0.000311,0.366,0.434,131.985,4,reggae
+29RKQaclcGpj1stafjGHAZ,Marcelo Falcão,Viver (Mais leve que o ar),"Voar, flutuar",43,349306,False,0.597,0.784,9,-3.259,0,0.0275,0.0272,0.000405,0.13,0.377,92.026,4,reggae
+1PvoWQsavMCVzc7ypt7jA5,Golden Ganga,Energía Libre,La Gloria Eres Tú,45,245920,False,0.725,0.564,9,-7.559,1,0.0328,0.649,1.38e-06,0.318,0.812,129.978,4,reggae
+3UB2Y7skTzYahnGGjCPCYs,Nigga;Flex,Te Quiero,Me Muero,44,173320,False,0.682,0.757,6,-5.258,0,0.0416,0.0452,0.0,0.145,0.928,80.044,4,reggae
+5cYeAqS2jRcWnhjzjb0I9w,Gabriel Elias,Todas As Praias (axé) [Acústico],Tá Tudo Bem - Acústico,43,221106,False,0.712,0.39,6,-11.013,0,0.0314,0.607,1.5e-05,0.144,0.275,119.981,4,reggae
+5kBemeXHWOKqsoLS22qGFw,Mato Seco,Seco Mas Não Morto,Caminho da Luz,44,412356,False,0.749,0.663,9,-7.825,0,0.0814,0.243,2.72e-05,0.587,0.944,150.639,4,reggae
+2HXP76Wr3Cj2MlUQVa80Zi,Maneva,8 Anos (Ao Vivo),Vem Ver (Ao Vivo),44,244837,False,0.624,0.366,4,-12.763,0,0.037,0.643,5.38e-05,0.684,0.677,135.842,4,reggae
+4HnMrFXdsJYVuXRmPCevxH,Chapa C,100% Reggaeton Cubano,Eres Tu,44,247386,False,0.755,0.598,11,-5.81,1,0.0797,0.33,1.79e-05,0.161,0.962,174.041,4,reggae
+3LZsoJCKCTVKIgBR4AQE6u,Natiruts,#NOFILTER (Ao Vivo),Naticongo - Ao Vivo,43,215493,False,0.469,0.871,9,-5.609,0,0.04,0.172,0.0,0.936,0.558,85.811,4,reggae
+35et0G7aJVzE52TzK50Jg7,Carlitos Junior;Yiordano Ignacio;BlackRoy,Desacatao (Remix),Desacatao (Remix),43,276228,False,0.721,0.785,7,-7.13,1,0.048,0.331,0.0,0.113,0.887,127.017,4,reggae
+1rNwhaO7UD2M08rwKlCNTE,Jukka Poika;Nelli Petro,Onks liian myöhä (feat. Nelli Petro),Onks liian myöhä (feat. Nelli Petro),46,172976,False,0.728,0.564,11,-8.933,0,0.0872,0.202,0.0,0.114,0.396,95.949,4,reggae
+5OdPE6LOPmRWukqVslSQal,MORADA,Ele É (Ao Vivo),Dia e Noite - Ao Vivo,44,174857,False,0.445,0.947,6,-4.942,0,0.0852,0.0143,0.0,0.867,0.387,139.993,4,reggae
+14yYVlxDi7orbwheBXqIPt,Yiordano Ignacio;Bayron Fire,Mambo Para Los Presos,Mambo Para Los Presos,44,187201,False,0.884,0.693,9,-8.598,0,0.0981,0.144,7.06e-06,0.0858,0.587,129.989,4,reggae
+3CTil5XNg4xeZqpgZbebfe,MORADA,Ele É (Ao Vivo),Não Ha Amor Igual - Ao Vivo,44,410482,False,0.411,0.846,11,-5.41,1,0.0468,0.094,0.0,0.682,0.369,144.995,4,reggae
+7LaYi5gdJtKtZkleknDBU9,Edson Gomes,O Melhor de Edson Gomes - Ao Vivo,Perdido de Amor - Ao Vivo,43,231893,False,0.673,0.611,0,-10.311,1,0.0314,0.623,0.000161,0.854,0.863,96.338,4,reggae
+6y0DCmWrYuPEQrgseDFFje,Edson Gomes,O Melhor de Edson Gomes - Ao Vivo,Malandrinha - Ao Vivo,44,260760,False,0.661,0.714,0,-10.699,1,0.0528,0.363,0.0,0.405,0.949,108.933,4,reggae
+1BOEGAwwYXd9jPkyHA4XhD,Germanini;Sergio Acosta;Dj Zetian,3 Días,3 Días,43,218880,True,0.715,0.731,0,-6.755,1,0.0353,0.072,7.78e-05,0.946,0.59,128.023,4,reggae
+3mvF4UaYu1E6Q1BaBUslf4,MORADA,Uma Só Voz - Vol. 01 (Ao Vivo),Meus Votos / Dia e Noite - Ao Vivo,43,431468,False,0.397,0.837,9,-6.735,1,0.0498,0.631,6.35e-06,0.966,0.42,139.848,4,reggae
+2rywMGsAUqyYC5mqCSG46N,Maneva,Tudo Vira Reggae (Ao Vivo),Evidências - Ao Vivo,44,296474,False,0.848,0.4,0,-9.685,1,0.169,0.26,0.0,0.138,0.572,100.032,4,reggae
+4KzSlU2JAYba5hhpIkkfGo,Maneva,Tudo Vira Reggae (Ao Vivo),O Vento - Ao Vivo,44,203213,False,0.703,0.391,9,-9.321,1,0.0448,0.267,6.57e-06,0.14,0.455,144.073,4,reggae

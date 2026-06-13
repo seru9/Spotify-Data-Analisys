@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+4eayV5M3F9A51EtTPHGZqU,Carlos Gardel,Selección Especial (Remastered),A Media Luz - Remastered,32,123626,False,0.525,0.412,5,-13.79,0,0.06,0.996,0.00826,0.404,0.672,82.111,3,tango
+1i0bWJl0jwpbTaW8DeCjIC,Miguel Montero,Antiguo Reloj De Cobre,Antiguo Reloj De Cobre,28,156223,False,0.435,0.349,6,-12.048,0,0.0598,0.875,0.0104,0.367,0.488,90.889,4,tango
+68RO16eZBKH9wfX4zs93lz,Roberto Goyeneche;Astor Piazzolla,Roberto Goyeneche - RCA Victor 100 Años,Balada para un Loco,37,266373,False,0.423,0.301,0,-11.091,1,0.263,0.928,4.89e-06,0.212,0.389,72.184,3,tango
+3bedfbgxeLosvIfD5yDTMS,Aníbal Troilo,Para Bailar,Quejas de Bandoneón,31,158533,False,0.479,0.218,2,-13.826,0,0.0406,0.981,0.939,0.229,0.55,120.416,4,tango
+2bR0drb2tOaznRIfOTHzwF,Amelita Baltar;Fito Paez,El Nuevo Rumbo,Chiquilín de Bachín,28,221934,False,0.383,0.251,1,-13.056,1,0.0442,0.826,0.0,0.115,0.14,78.434,4,tango
+0UG3vO8vSbxSTMLOHq3bTU,Pepe Aguirre,Solo un recuerdo,La colegiala,30,114056,False,0.678,0.173,2,-12.587,0,0.05,0.992,0.00358,0.809,0.647,117.976,4,tango
+7l5h0syV2VXj6hwkgIxto4,Julio Sosa,Varón (Remastered),En esta tarde gris - Remastered,33,228208,False,0.431,0.458,7,-11.941,0,0.0592,0.961,4.42e-06,0.4,0.453,115.706,4,tango
+70TVb3hPKTC8oedVSibGRm,Julio Sosa,Grandes Éxitos De,Nada,31,167773,False,0.375,0.655,5,-8.603,0,0.0608,0.924,0.0,0.2,0.469,116.841,3,tango
+4Jupi4tbrMAT8HriFC5xQN,Adriana Varela,Docke,Niebla del Riachuelo,29,179400,False,0.434,0.628,6,-8.91,1,0.36,0.815,0.0,0.862,0.51,87.765,3,tango
+6dtdFWroDcxfNgv184UfB2,Hugo Del Carril,Marcha Peronista - Evita Capitana,Marcha Peronista,32,152215,False,0.713,0.415,5,-6.073,0,0.0459,0.913,0.966,0.0786,0.793,119.533,4,tango
+3FfcNuVn1yyNkikUxm6qwW,Julio Sosa,Varón (Remastered),Qué me van a hablar de amor - Remastered,36,192815,False,0.441,0.537,5,-10.492,1,0.0759,0.945,0.0,0.607,0.673,124.381,4,tango
+2phWfVk8HgVckkwpfTTcOW,Adriana Varela,Adriana Varela y Piano,Cuesta Abajo,31,224893,False,0.587,0.5,2,-7.876,1,0.142,0.868,0.0,0.793,0.562,107.359,4,tango
+6KlNIHW7IOfiGYJiTM8gz3,Carlos Gardel,The Greatest Interpreter of Argentine Tempos,La Cumparsita,31,139099,False,0.681,0.209,1,-13.501,1,0.139,0.99,0.00186,0.113,0.518,117.996,1,tango
+5kXkDCUSDTSSrpG21qdEI2,Julio Sosa;Orquesta de Leopoldo Federico,20 Great Tangos,Margot,28,186306,False,0.506,0.536,9,-9.75,0,0.0607,0.895,0.146,0.357,0.661,110.483,4,tango
+2qy2u4LhIS8OSnnmJdvo1n,Nelly Omar,Nelly Omar - Desde el alma,Desde el alma,31,156920,False,0.534,0.456,4,-6.494,0,0.0595,0.928,4.73e-05,0.155,0.772,89.14,3,tango
+5H4L6KSO8KFZJfwNxFzR9L,Julio Sosa,Cantor de Pueblo: Julio Sosa,Mi Noche Triste,29,211533,False,0.577,0.451,4,-8.773,1,0.211,0.949,6.36e-06,0.415,0.258,105.712,4,tango
+3qRx04zCVZvcKZsPUchgIG,Adriana Varela;Walter Ríos;Esteban Morgado;Litto Nebbia,Maquillaje,Un Vestido y un Amor,28,196162,False,0.485,0.513,4,-8.798,1,0.0638,0.619,0.0,0.196,0.259,112.602,4,tango
+6vk5eOIYciQLhKnHBt6one,Jaska Mäkynen,Kaiken Kauniin Rinnalla,Soita Hiljaa Kitaraani,33,199000,False,0.467,0.659,7,-8.57,0,0.0354,0.204,0.0,0.171,0.696,177.846,4,tango
+34srI0VWaGbqcaAu2TAtli,Jaska Mäkynen,Espanjan Yöt,Kaunein katse,30,187386,False,0.518,0.554,0,-7.104,0,0.0253,0.358,0.0,0.485,0.483,94.991,3,tango
+4EdxXgcjlUv31rBSC1b5p7,Edmundo Rivero,Cafetín de Buenos Aires,Cafetín De Buenos Aires,31,203160,False,0.416,0.466,2,-7.215,1,0.0826,0.979,0.379,0.119,0.447,86.817,3,tango
+7995sD2beFHf1qZke4qhWf,Roberto Goyeneche,La Última Curda,Desencuentro,34,116796,False,0.541,0.37,11,-9.873,0,0.0712,0.819,0.0,0.676,0.525,114.372,4,tango
+6RmlwVOAFy5wRNqGiJZC6H,Jaska Mäkynen,Espanjan Yöt,Minä tuun nelostietä,32,177120,False,0.485,0.608,4,-7.177,0,0.0275,0.464,0.0,0.278,0.823,181.547,4,tango
+5GjjajZsLIxrcaX3QSoEio,Agustín Irusta,Por Que la Quise Tanto,Cambalache,31,184586,False,0.614,0.353,2,-9.248,1,0.0877,0.878,0.0,0.247,0.725,112.92,4,tango
+3yw1L1o8ImB9YP9te0WRu8,Malena Muyala;Fabián Marquisio,Paisaje,Paisaje,28,223793,False,0.485,0.22,4,-12.198,0,0.0412,0.858,1.98e-06,0.089,0.449,161.291,1,tango
+7BdDfn4GpUbtWniECxgLgY,Edmundo Rivero,Tangos Clásicos Vol. 1,Yira Yira,29,193443,False,0.546,0.252,2,-10.296,1,0.0756,0.928,0.37,0.18,0.519,122.49,4,tango
+2VTDZMsZDtUjw4ONTnQI92,Julio Sosa,Presentando a Julio Sosa,Nada,30,167760,False,0.348,0.708,5,-6.973,0,0.0665,0.929,0.0,0.26,0.45,114.747,3,tango
+1p2FEZrj1dYiZW0ULirB46,Roberto Goyeneche;Osvaldo Berlingieri y su Orquesta,Inolvidables RCA - 20 Grandes Exitos - Volumen 2,Mi Buenos Aires Querido (with Osvaldo Berlingieri Y Su Orquesta),33,151266,False,0.395,0.375,9,-10.501,1,0.0408,0.791,0.00173,0.181,0.557,118.46,3,tango
+3WZakNuKCtJJxh7dTPyT17,Tita Merello,Tita De Buenos Aires,Arrabalera,30,136213,False,0.62,0.268,10,-10.129,1,0.137,0.82,0.0,0.13,0.684,127.205,4,tango
+6vy8FU0zMBdUypwpFRPKQP,Julio Sosa;Armando Pontier y su Orquesta,Cambalache,Uno (with Armando Pontier y su Orquesta),28,170106,False,0.369,0.638,0,-7.023,1,0.0511,0.858,2.04e-05,0.131,0.315,112.203,4,tango
+1GcHjWCh0E59HACNNbp2G4,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Malevaje,31,200306,False,0.526,0.435,2,-6.816,1,0.0449,0.856,0.0,0.423,0.653,116.78,4,tango
+4qdKAmv6Jg9EvSm27Aksgw,Julio Sosa;Armando Pontier,Tango Classics 180: La Ultima Copa,Al Mundo Le Falta un Tornillo,33,171034,False,0.446,0.42,10,-14.791,1,0.0994,0.818,2.34e-06,0.104,0.642,187.58,3,tango
+6MZlsIdezdAiBwrZrxweNd,Tita Merello;Francisco Canaro Y Su Orquesta Tipica,Serie De Oro,Pipistrela,28,113213,False,0.754,0.34,8,-10.569,1,0.505,0.834,0.0,0.119,0.922,82.768,3,tango
+2PgyCOE6KlAdTdoNOq8989,Juan D'Arienzo;Héctor Mauré,"Tangos para Aficionados, Vol. 1",Uno,0,181506,False,0.453,0.365,4,-11.557,1,0.0373,0.938,0.00599,0.343,0.601,139.686,4,tango
+0s3z0b2wJQDyElh873Fl3P,Roberto Goyeneche,Historia de Oro,Naranjo en Flor (En Directo),38,166812,False,0.581,0.371,5,-10.221,1,0.0609,0.628,3.26e-06,0.685,0.747,117.799,4,tango
+0gxiaIGRrKi8yLASYZ2BLe,Roberto Goyeneche,La Última Curda,Como Dos Extraños,31,172245,False,0.449,0.36,2,-11.251,1,0.0516,0.929,0.0224,0.165,0.392,69.604,4,tango
+5MZsReZiQ95by21Q0DU830,Jorge Falcón,Mis 30 Mejores Tangos,Pasional,31,168293,False,0.416,0.455,0,-8.966,0,0.0485,0.88,0.000763,0.354,0.635,111.37,3,tango
+4E9QyIJsLxA89OVZrqZjYS,Astor Piazzolla;Klein High School Chamber Orchestra;Creston Herron;Javier Pinell,2021 Midwest Clinic: Klein High School Chamber Orchestra (Live),"4 Estaciones Porteñas: No. 3, Primavera Porteña (Arr. L. Desyatnikov for String Orchestra) [Live]",1,370773,False,0.385,0.221,5,-20.058,0,0.0814,0.847,0.51,0.75,0.271,130.312,4,tango
+0KPO36Nizq6shj1OF9QwgJ,Julio Sosa,El varón del tango (Remastered),Rencor - Remastered,28,188433,False,0.495,0.505,3,-9.355,0,0.188,0.962,0.0,0.294,0.595,119.01,4,tango
+6xz9Ysu2uDyVpY6WzHdDf3,Juan D'Arienzo,"Tangos para Aficionados, Vol. 1",La Morocha,0,153333,False,0.753,0.236,2,-15.007,1,0.0864,0.993,0.922,0.103,0.665,130.125,4,tango
+6hag1PRgL6046HeqLSDkPK,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Que Falta Que Me Haces (with Leopoldo Federico y Su Orquesta),30,155466,False,0.453,0.616,2,-9.085,0,0.0974,0.853,3.86e-05,0.678,0.435,116.468,4,tango
+0HpRyogDQmGBSXDQV8hJRt,Julio Sosa;Armando Pontier y su Orquesta,30 Aniversario 1964/1994,Uno (with Armando Pontier y su Orquesta),33,172933,False,0.377,0.604,0,-8.259,1,0.0528,0.872,4.16e-05,0.126,0.325,117.329,4,tango
+62wBEY20qXqTRYphDJmqOD,Roberto Goyeneche;Orquesta Tipica Porteña,Antologia Roberto Goyeneche,Malena (with Orquesta Tipica Porteña),31,138693,False,0.523,0.467,11,-7.421,0,0.0462,0.928,4.27e-06,0.0721,0.707,103.285,4,tango
+4YIZvmqOxkKSfb2WSX6dcN,Julio Sosa,Presentando a Julio Sosa,Qué Me Van a Hablar de Amor,31,192826,False,0.352,0.616,5,-8.305,1,0.106,0.945,0.0,0.602,0.687,170.003,3,tango
+67LvqUeKNdiFVoDLS2kZIz,Alfredo De Angelis;Carlos Dante,Yo Soy El Tango,Fumando Espero,29,206226,False,0.585,0.454,7,-2.97,0,0.0356,0.866,0.00034,0.313,0.818,115.593,4,tango
+1jUTtkWKuZUPay75PBQadI,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,El Firulete (with Leopoldo Federico y Su Orquesta),36,132586,False,0.48,0.674,8,-8.692,1,0.193,0.866,3.43e-05,0.834,0.635,106.056,4,tango
+2SPb8awMSxa5NmSaBQKWGN,Alberto Castillo,Alberto Castillo - Asi se baila el tango,Muñeca brava,28,175386,False,0.645,0.285,4,-12.609,1,0.225,0.93,1.5e-05,0.147,0.727,127.952,4,tango
+4Cb0NvTDIJfVcr98lSSQfy,Argentino Ledesma,Argentino Ledesma - Fumando espero,Historia de un amor,32,144226,False,0.528,0.487,7,-8.485,0,0.0452,0.729,0.0,0.0521,0.587,109.094,4,tango
+7EYAB8Q5JnXqFTegwOhUEb,Alfredo De Angelis;Oscar Larroca,Yo Soy El Tango,Lágrimas De Sangre,29,179653,False,0.661,0.293,9,-7.916,0,0.0462,0.857,0.0,0.246,0.681,120.568,4,tango
+5Rd588cbZ8HUooyMEhcJVC,Julio Sosa;Leopoldo Federico y su Orquesta,El Varón del Tango,La Cumparsita (with Leopoldo Federico y Su Orquesta),37,183426,False,0.48,0.598,7,-8.329,0,0.0725,0.82,0.000149,0.168,0.683,114.317,4,tango
+6IuvZhNVniNj4IOSSAtpkt,Alberto Castillo;Ricardo Tanturi Y Su Orquesta,Así Se Baila El Tango,Que Nadie Sepa Mi Sufrir,29,138666,False,0.484,0.53,0,-8.858,0,0.0492,0.943,8.31e-06,0.0794,0.778,96.869,3,tango
+10vEz0V5deohU5dK0Lrh3W,Charlo,Oro y Plata,Ave de Paso,27,191346,False,0.541,0.264,2,-7.638,1,0.04,0.979,6.03e-06,0.319,0.403,108.31,4,tango
+3i2L1PRDEwWcUC03y95UPG,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Sur,28,237573,False,0.423,0.401,2,-11.219,0,0.0449,0.726,0.0,0.269,0.507,111.213,4,tango
+6d5BFdtFRU53CfVglpmfN8,Carlos Gardel;Francisco Canaro Y Su Orquesta Tipica,La Historia Completa De Carlos Gardel - Volumen 18,Yo No Se Que Me Han Hecho Tus Ojos,27,189946,False,0.639,0.275,4,-10.768,0,0.158,0.988,2.06e-05,0.276,0.585,82.616,3,tango
+3BXuRs7WwISKmR68uP0Q2G,Los Solistas,Homenaje A Juan D'Arienzo,Esta Noche Me Emborrach,26,134360,False,0.731,0.385,1,-16.444,0,0.103,0.886,0.26,0.187,0.644,136.674,4,tango
+0oXtjeA7Swkk2qbm8JZheN,Sandra Luna;Juan Esteban Cuacci,Solos,Anclao en París,27,103880,False,0.587,0.443,4,-7.584,1,0.0581,0.901,8.2e-06,0.198,0.636,99.006,4,tango
+51j44z3Qr2HnSnBhrEwpvm,Amelita Baltar;Pedro Aznar,El Nuevo Rumbo,Sería Facil Decir,28,154951,False,0.574,0.481,2,-10.298,1,0.0846,0.479,0.0,0.319,0.446,122.61,4,tango
+3eDlsR5h1xyImi09ulmjYK,Ariel Ardit;Orquesta Tipica,A los Cantores (En Vivo),Mariposita - En Vivo,28,224746,False,0.469,0.554,9,-5.471,1,0.067,0.848,0.0,0.7,0.509,111.342,4,tango
+7oazB2sKLoBDC49smTIdoj,Carlos Gardel,Celebridades,Adiós Muchachos,26,148093,False,0.728,0.264,7,-8.7,1,0.142,0.98,0.000664,0.111,0.815,122.856,4,tango
+293xyTq2gy7G5PFaMeBbmd,Ariel Ardit;Orquesta Tipica,A los Cantores (En Vivo),La Luz de un Fósforo - En Vivo,25,174693,False,0.505,0.436,7,-5.975,1,0.0453,0.866,0.0,0.966,0.46,113.526,3,tango
+1wxawt7KhcgYxCbmNdjSRu,Sandra Luna,Cuando Llora Mi Guitarra,Cuando Llora Mi Guitarra,27,205527,False,0.558,0.65,5,-4.119,0,0.0626,0.853,1.18e-05,0.124,0.755,156.41,3,tango
+0QwFwpzR9Z9nwovd0P56KI,Nelly Omar,Nelly Omar - Desde el alma,Barrio pobre,27,205186,False,0.608,0.389,2,-7.756,0,0.0445,0.933,4.28e-06,0.0879,0.541,119.763,4,tango
+3A1v0Z9ctHDvGlmQoCt6wd,Carlos Gardel,"Mano a Mano, 1927",Milonga Sentimental,28,178333,False,0.674,0.175,5,-16.325,0,0.238,0.99,0.00354,0.162,0.78,93.964,4,tango
+4Cf7INHovrVKQOQNOStdH8,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,Y Suma y Sigue,25,169306,False,0.64,0.75,7,-3.56,0,0.13,0.902,3.91e-05,0.205,0.79,130.398,4,tango
+5nnhYchP6RkU7ZROzD97Yv,Carlos Gardel,Canta El Zorzal,Volver,27,174066,False,0.333,0.254,1,-8.883,1,0.0544,0.994,0.0234,0.329,0.468,65.259,4,tango
+2nCjHwHfgOSMUapCIzTFAH,Enrique Rodríguez,"Aquellas Lindas Melodías, Vol. 8",El Sombrero,27,199640,False,0.674,0.461,7,-5.73,0,0.0491,0.714,0.0,0.241,0.844,125.636,4,tango
+0mAPRz8lp5UsaPL00JN8zZ,Carlos Gardel,Tango Collection,El Día Que Me Quieras,28,201932,False,0.313,0.242,0,-12.028,0,0.0383,0.964,0.00788,0.107,0.406,87.07,3,tango
+6MdjSQPkhUnlkP0yptEmbF,Carlos Gardel,El Album De Oro De Carlos Gardel,Volvió Una Noche,28,182320,False,0.452,0.253,2,-8.107,1,0.0733,0.947,0.000202,0.252,0.553,169.419,3,tango
+03rNGTFWwrWiBTGIQVUz56,Carlos Gardel,"100 Tangos, Vol. 4",Vovler,26,174266,False,0.528,0.377,1,-6.583,1,0.0385,0.992,0.000272,0.209,0.585,57.883,4,tango
+0z12YPLzCh2yZgwT6OGhjn,Carlos Gardel,El Album De Oro De Carlos Gardel,Tomo Y Obligo,28,132453,False,0.722,0.403,1,-9.57,0,0.166,0.985,2.95e-06,0.0902,0.818,118.492,4,tango
+3LP5GRvYtrS1uTr9I2jRuB,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Sus Ojos Se Cerraron,26,159960,False,0.508,0.396,11,-8.54,0,0.054,0.98,0.068,0.381,0.436,85.798,3,tango
+6bAmp2OEVQJtSXbdz0SDxh,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,Maestros Del Tango,Tinta Roja (with Roberto Goyeneche),26,179666,False,0.508,0.34,2,-11.555,1,0.0453,0.834,1.18e-06,0.0921,0.482,111.695,4,tango
+5FF4C9ZJQdK8vRDiPAy3Nc,Soledad Villamil,Morir de Amor,La Canción y el Poema (Morir de Amor),28,197973,False,0.716,0.482,0,-6.741,0,0.0429,0.626,0.0,0.347,0.673,122.028,4,tango
+5erSMVrRwNRKXVp3pMknSc,Roberto Goyeneche,Roberto Goyeneche: Cantor de Mi Barrio,Bandoneon Arrabalero,28,164266,False,0.387,0.475,2,-7.96,0,0.041,0.89,0.00485,0.168,0.642,120.686,4,tango
+2RuCIjVDNlT4kRuSkW61n8,Malena Muyala,Viajera,Pedacito De Cielo,26,173533,False,0.562,0.185,2,-10.899,1,0.0633,0.943,7.27e-06,0.0972,0.522,141.219,3,tango
+4VPYyEXZ4TE4Nq8fUTG0hg,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Viejo Rincón (with Leopoldo Federico y Su Orquesta),26,178013,False,0.45,0.66,7,-8.784,1,0.146,0.881,1.22e-05,0.231,0.734,131.67,3,tango
+09nepOobTOXaXweIYWypHQ,Jorge Falcón,El Amor Desolado,Quiero Verte Una Vez Más - Remasterizado,26,220640,False,0.289,0.399,9,-9.832,0,0.0481,0.839,3.06e-05,0.145,0.367,80.969,5,tango
+59cLvTmf0fCQquuhBcwmo9,Alberto Podestá;Rodolfo Lezica;Agustin Magaldi;Alberto Morán;Jorge Durán;Carlos Almada;Enrique Campos;Jorge Vidal;Mariano Leyes;Oscar Larroca;Armando Moreno;Alberto Marino,Grandes cantores del tango,El bazar de los juguetes,25,173133,False,0.522,0.352,11,-12.088,0,0.059,0.984,0.43,0.198,0.65,115.717,4,tango
+4hoE88CyY4RTg14eFTBbZM,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Nada (with Leopoldo Federico y Su Orquesta),26,167826,False,0.401,0.653,5,-9.165,0,0.1,0.863,2.39e-06,0.611,0.471,110.226,3,tango
+4SEbR0H1UELDPioZJunr2m,Tita Merello;Francisco Canaro,Tita De Buenos Aires,"Tranquilo, Viejo, Tranquilo",26,110346,False,0.675,0.435,7,-9.021,1,0.286,0.863,0.0,0.235,0.778,86.441,4,tango
+4uW2GXaccUXFxCcBzLaxtE,Libertad Lamarque,Tesoros De Coleccion - Libertad Lamarque,Tango Negro,26,178706,False,0.532,0.386,7,-10.92,1,0.0595,0.817,0.0,0.144,0.729,114.119,4,tango
+71esI29rgirJJwKaJN2f2E,Julio Sosa,Julio Sosa: Discografía Completa Vol.1,Pa Que Sepan Como Soy,25,180160,False,0.527,0.667,5,-4.879,1,0.0717,0.88,0.0,0.0985,0.673,118.524,3,tango
+69nuJJo4meYgeu5Kc9O8qL,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Desencuentro (with Baffa-Berlingieri y su Orquesta),27,137133,False,0.487,0.398,5,-10.25,0,0.0547,0.716,6.94e-05,0.128,0.58,109.389,3,tango
+4HsHWaNxZieCzwhsAiELfG,Roberto Goyeneche;Orquesta Tipica Porteña,Antologia Roberto Goyeneche,Mano a Mano (with Orquesta Tipica Porteña),27,198680,False,0.5,0.406,2,-8.67,0,0.0541,0.913,0.0651,0.365,0.512,104.886,4,tango
+6O0IdUwj1thWqpQBSjmkRr,Julio Sosa,Presentando a Julio Sosa,En Esta Tarde Gris,26,228213,False,0.429,0.548,7,-8.882,0,0.0587,0.962,3.36e-06,0.406,0.491,112.748,4,tango
+0RXVCKWWaIyN3DOsRyYbKL,Roberto Goyeneche,La Última Curda,La Última Curda,29,198235,False,0.486,0.331,2,-10.295,0,0.125,0.863,0.0,0.922,0.392,50.96,4,tango
+0ecxUJDq6pTj1AO8w5kxme,Olavi Virta,20 Suosikkia / Hopeinen kuu,Hopeinen kuu - Guarda che luna,29,201466,False,0.444,0.367,9,-9.573,0,0.0308,0.976,0.00351,0.0951,0.442,99.853,3,tango
+5dP3ddhnyTChXznrPEB3Ry,Carlos Gardel,Los Exitos De Sus Peliculas,Rubias De New York,27,151426,False,0.561,0.271,2,-9.892,1,0.117,0.995,0.034,0.133,0.73,97.22,4,tango
+3AZEycjvbqOibN61wjgRPN,Carlos Di Sarli,"Tangos para Aficionados, Vol. 1",La Cachula,0,139773,False,0.656,0.222,9,-15.369,1,0.0527,0.927,0.0374,0.0801,0.424,122.106,4,tango
+56QPnAl9tjGeZ3pOzuBPZg,Roberto Goyeneche;Raúl Garello y su Orquesta,Antologia Roberto Goyeneche,Malevaje (with Raúl Garello y su Orquesta),29,166973,False,0.505,0.419,2,-11.863,1,0.0536,0.962,0.000113,0.189,0.61,112.451,4,tango
+0puvfam7d9rvSXWOoh1PGk,Roberto Goyeneche;Orquesta Tipica Porteña,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Cafetín de Buenos Aires (with Orquesta Tipica Porteña),27,185506,False,0.473,0.447,2,-10.007,1,0.0883,0.717,0.0,0.414,0.425,92.381,4,tango
+53WRnP02TgcKvOGgvxLaaZ,Julio Sosa,El varón del tango (Remastered),Recordándote - Remastered,26,187660,False,0.511,0.45,9,-10.764,1,0.0843,0.917,0.00104,0.109,0.57,117.169,4,tango
+7dPXCBlMzFLmFZo9lUi2cV,Roberto Goyeneche;Armando Pontier y su Orquesta Tipica,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,La Última Curda (with Armando Pontier y su Orquesta Tipica),27,187760,False,0.56,0.252,2,-12.637,0,0.0571,0.763,4.27e-06,0.245,0.594,108.824,4,tango
+0cyyJ7YNNG6ifgvzBaP2gA,Alberto Castillo,"Tangos para Aficionados, Vol. 1",Nubes de Humo,0,180213,False,0.53,0.31,9,-12.716,0,0.0841,0.963,0.00429,0.0976,0.486,130.389,4,tango
+54Ahza7hcQziYjEpnkTpsk,Tita Merello,Se Dice De Mi,Niño Bien,25,127600,False,0.751,0.406,1,-12.835,1,0.43,0.85,0.0,0.0762,0.809,138.906,4,tango
+68gf3uS8eBSN20gUoVFiQe,Roberto Goyeneche;Adriana Varela,La Última Curda,Garganta Con Arena,26,214923,False,0.436,0.262,9,-13.454,0,0.0521,0.936,1.21e-05,0.118,0.221,97.529,3,tango
+6ARVCUb65BrAyRbNfiZxUV,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Cantor de Pueblo: Roberto Goyeneche,Afiches (with Atilio Stampone y su Orquesta Tipica),27,185600,False,0.35,0.28,0,-10.395,0,0.055,0.94,0.00206,0.159,0.44,83.299,4,tango
+6Ra102d09JHUQ044fviVUA,Tita Merello,Éxitos de la Morocha Argentina,Los Amores con la Crisis,27,110002,False,0.598,0.329,8,-11.432,1,0.573,0.858,0.0,0.372,0.936,167.38,3,tango
+5OrCqFaEa1aIzRWooBhXq1,Alfredo De Angelis;Rodi Néstor;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,El Choclo,26,146373,False,0.637,0.511,2,-6.386,0,0.0284,0.835,0.676,0.0601,0.785,132.868,4,tango
+12XIO7pvOUcADjoa0p6GL6,Argentino Ledesma;Orquesta de Héctor Varela,Imprescindibles,Fueron Tres Años,27,213484,False,0.442,0.39,5,-9.777,0,0.0545,0.955,0.00341,0.162,0.566,124.507,4,tango
+1avAgbRB1pLg48zbeT3TDY,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Carlos Dante,Los 25 Mejores Tangos,Tus Besos Fueron Míos,26,176253,False,0.479,0.405,2,-7.423,1,0.0327,0.875,4.67e-05,0.0792,0.623,125.074,4,tango
+1jSiCrX3a7ie9Okck6lL1R,Carlos Gardel,The Very Best,Por Una Cabeza,46,325640,False,0.387,0.258,7,-12.544,0,0.0395,0.939,0.0231,0.553,0.294,62.432,4,tango
+4Bawr1evADCB5WPIJw3dAL,Astor Piazzolla,La Cumparsita,Adiós,24,291664,False,0.352,0.225,5,-12.42,0,0.0308,0.744,0.00136,0.0996,0.193,107.931,4,tango
+7vx5clc5lYcTToKin8PUN7,Aníbal Troilo Y Su Orquesta Típica,El Polaco Y Yo,La Ultima Curda - 1° Version,24,211493,False,0.506,0.318,2,-11.851,0,0.0656,0.909,0.0,0.181,0.457,111.499,5,tango
+6F4s2uHIED7NiwXBRS4Q8e,Los Solistas,Homenaje A Juan D'Arienzo Vol 2,Carton Junao,23,138933,False,0.767,0.458,2,-11.055,1,0.263,0.914,0.691,0.0845,0.881,131.86,4,tango
+6gAie6OYTHWkuPSJtc4ZCF,Sexteto Milonguero,Pa' Que Bailen,Café Domínguez,24,176413,False,0.67,0.367,7,-4.978,0,0.0484,0.716,0.164,0.103,0.743,124.916,4,tango
+20aA6F6u9mxsJ7Z67Uwl4j,Miguel Montero,Antiguo Reloj De Cobre,El Retrato De Mama,24,169041,False,0.403,0.383,2,-11.309,1,0.0425,0.826,8.42e-05,0.335,0.713,77.213,3,tango
+7pY5cCXrfT08wCKSEDwIyU,Carlos Gardel,"Su Buenos Aires Querido - Su Obra Integral, Vol. 1",Melodía de Arrabal,26,157373,False,0.68,0.223,10,-13.047,1,0.0856,0.991,6.09e-06,0.096,0.602,121.467,5,tango
+5T9xdLt54vDIPCBCtrK358,Carlos Gardel,Celebridades,Volver,26,170533,False,0.504,0.308,1,-8.062,0,0.0739,0.978,3.73e-05,0.264,0.582,60.048,4,tango
+3nFrFmTQd7LkAq1r7sgw0M,Teuvo Oinas,Tanssikengät,Kulkurin Saappaat,25,178666,False,0.308,0.832,0,-3.386,0,0.0511,0.469,3.37e-05,0.356,0.808,182.05,4,tango
+6113McC3tLeOTtkzVrGACm,Carlos Gardel,El Album De Oro De Carlos Gardel,Como Abrazado A Un Rencor,26,165520,False,0.705,0.258,4,-12.017,1,0.4,0.976,0.0,0.0771,0.663,81.614,5,tango
+73H6zeW7CZd2inMAR7vVzg,Juan D'Arienzo,"(1937), Vol. 3",Paciencia,25,143626,False,0.819,0.223,7,-10.131,0,0.383,0.961,0.00935,0.0568,0.678,138.764,4,tango
+3ACyCWssdohqPYHHPE4HjQ,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,Amarroto,25,178253,False,0.624,0.671,2,-5.717,0,0.0382,0.923,4.36e-05,0.0697,0.776,132.528,4,tango
+67EdoSPMIccejtuLFqxDkW,Carlos Gardel,100 Anos,Esta Noche Me Emborracho,25,141426,False,0.712,0.279,1,-11.974,0,0.208,0.973,0.000722,0.634,0.686,129.381,4,tango
+5zRaLhGDH7lZcqg8kiCKkF,Alfredo Gobbi,Presentando a Alfredo Gobbi,Si Sos Brujo,25,209720,False,0.555,0.396,6,-5.075,0,0.0298,0.886,0.554,0.0631,0.51,116.52,4,tango
+62mjy4QxUo3axY3KBzZIF5,Julio Sosa,Secreto (En Vivo),Secreto - En Vivo,25,208222,False,0.374,0.576,9,-10.691,0,0.0631,0.898,0.0417,0.356,0.354,118.97,4,tango
+1s9LXkIlLBgZIhaL8vsoAF,Astor Piazzolla,Piazzolla Tangos 6,Onda Nueve,25,367613,False,0.398,0.365,2,-9.174,0,0.0378,0.574,0.388,0.184,0.188,120.973,4,tango
+5UK50pDXucbzvsIbcqI0dD,Lidia Borda;Orquesta El Arranque,Tal Vez Será Su Voz,Vida mía,24,255091,False,0.434,0.411,7,-5.036,1,0.0312,0.778,0.0,0.185,0.302,106.648,4,tango
+3pdRzJHE1RtP62sY7rad67,Carlos Gardel,Los Exitos De Sus Peliculas,Amargura,25,153106,False,0.571,0.156,3,-9.633,1,0.1,0.987,0.000172,0.306,0.556,66.772,4,tango
+3d0IYd0xEiXbcS9bCEaWd5,Ariel Ardit;Orquesta Tipica,A los Cantores (En Vivo),Barrio de Tango - En Vivo,23,167200,False,0.532,0.355,5,-8.173,1,0.0682,0.854,0.0,0.903,0.549,122.302,4,tango
+1XvrOSJTaPqr39GeDqhiiq,Roberto Goyeneche,Berretín,Berretin,26,159120,False,0.358,0.51,7,-5.281,1,0.063,0.915,0.0,0.135,0.478,84.289,4,tango
+6CAiua7Tk2SY4nCuDERur1,Julio Sosa,Varón (Remastered),Tarde - Remastered,24,214480,False,0.443,0.562,0,-11.043,0,0.051,0.933,3.78e-05,0.359,0.673,117.564,4,tango
+52e64XTYEcYdbe6RmTr6a7,Alberto Castillo,Los Cien Barrios Porteños,Muñeca Brava,25,170893,False,0.651,0.332,4,-9.912,1,0.268,0.921,4.73e-06,0.633,0.671,127.427,4,tango
+59p9uLyWoE0TlPafEUPqVb,Aníbal Troilo,Los Tangos del Pichuco (Remastered),Danzarín - Remastered,25,234906,False,0.411,0.262,7,-9.754,1,0.0343,0.662,0.0866,0.0754,0.435,124.734,4,tango
+4ChjNS4lnReCIbp2qIbJ55,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,El Nene del Abasto,24,174813,False,0.662,0.629,5,-5.891,1,0.0613,0.848,1.17e-05,0.141,0.792,132.718,4,tango
+4O9fE2JYBfsQByo9zKxanb,Edmundo Rivero,El Rey del Tango (Remastered),Juan Porteño - Remastered,24,163560,False,0.669,0.445,8,-8.659,1,0.173,0.925,0.00388,0.165,0.709,124.468,4,tango
+6AlQHLhyG1eImO3cyZnPTp,Marko Maunuksela,Kaunista ja hyvää,Kaunista ja hyvää,25,221253,False,0.478,0.693,4,-4.335,0,0.0276,0.685,0.0,0.285,0.38,89.782,4,tango
+4Y2WoaUADlRpVQemCrDNW0,Alberto Marino,La Voz De Oro Del Tango,Maria,24,146826,False,0.531,0.311,5,-13.318,0,0.083,0.981,0.000999,0.124,0.625,116.734,4,tango
+68AII8xLoXkPMlVrLEHnwA,Pepe Aguirre,Dejame morir,Jornalero,25,189637,False,0.723,0.258,0,-9.173,0,0.109,0.979,6.87e-05,0.37,0.8,117.861,4,tango
+6yzikW529P1w3mwxAoMC3H,Susana Rinaldi,En El Underground,En Ese Ayer/Ventarrón,24,242826,False,0.58,0.292,6,-10.666,0,0.12,0.817,0.0,0.0905,0.328,108.499,4,tango
+0MiN0GG9VlJrl40B70cqiz,Alfredo De Angelis;Oscar Larroca,Medallita De La Suerte,Medallita De La Suerte,24,182293,False,0.569,0.438,9,-5.594,1,0.0389,0.877,5.4e-06,0.247,0.716,129.678,4,tango
+2NFGw4aZ0eVrQu531doQ4r,Alfredo De Angelis,Tango Classics 063: Chorra,Volvamos a empezar,25,196216,False,0.531,0.23,10,-12.747,0,0.0435,0.891,3.51e-06,0.271,0.735,115.151,4,tango
+2QPsSz93LEg9KbCkQdQyUo,Francisco Canaro;Ada Falcón;Charlo,"Tangos para Aficionados, Vol. 1",Casas Viejas,0,231666,False,0.567,0.271,1,-8.995,1,0.0615,0.969,0.0,0.0858,0.579,117.656,4,tango
+33vATcVHXVW9yLZFWkQ6Un,Tita Merello;Francisco Canaro Y Su Orquesta Tipica,Serie De Oro,Cambalache,25,152093,False,0.648,0.366,9,-8.342,1,0.262,0.855,0.0,0.0773,0.727,130.754,4,tango
+08zW9jAYlWPGzUbyxZa0Yh,Francisco Canaro,"Tangos para Aficionados, Vol. 1",Madreselva,0,185866,False,0.698,0.159,8,-11.612,1,0.209,0.986,0.0,0.202,0.499,108.016,4,tango
+4kEc25aU0WbmcoIAWwPpJT,Francisco Canaro;Gardel,"Tangos para Aficionados, Vol. 1",Silencio,0,162600,False,0.541,0.22,7,-11.114,0,0.108,0.993,0.152,0.262,0.439,70.21,4,tango
+31IsZ5XLT78lKGsipSBiW6,Aníbal Troilo,"Tangos para Aficionados, Vol. 1",Tinto Verde,0,185826,False,0.584,0.212,4,-12.613,1,0.0445,0.953,0.714,0.0871,0.665,140.083,4,tango
+1qLWH3eF4WjblRklZJQ86q,Olavi Virta;Lauluyhtye Nordias;Jaakko Salon orkesteri,Hopeinen kuu,Hopeinen kuu,27,198664,False,0.269,0.372,9,-9.583,0,0.037,0.975,0.00152,0.147,0.408,75.004,4,tango
+6VxYJF32d4deiI9wCGlgTC,La Chicana,Antihéroes y Tumbas (Historias del Gótico Surero),Bailarina Rota,24,161826,False,0.523,0.281,11,-11.37,0,0.104,0.755,0.0,0.0932,0.289,106.891,4,tango
+4ZmpH03zMOEFeIp1kWw6WY,Jorge Falcón,Mis 30 Mejores Tangos,Después Si Querés Hablá,26,181760,False,0.456,0.559,7,-9.025,0,0.0565,0.816,3.47e-06,0.886,0.866,116.195,5,tango
+0tq9NRwcKEERLCGMCOEu5t,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Qué Solo Estoy (with Leopoldo Federico y Su Orquesta),25,212106,False,0.497,0.635,9,-9.219,0,0.0958,0.804,0.0,0.641,0.698,112.833,4,tango
+2FZgM5M6CnOjNZXBZ7K2kZ,Julio Sosa;Armando Pontier y su Orquesta,Cambalache,Al Mundo Le Falta un Tornillo (with Armando Pontier y su Orquesta),25,170466,False,0.607,0.489,7,-11.225,0,0.0664,0.884,0.0,0.228,0.632,121.489,4,tango
+6fRHFKD1J06kWSqkNpyHsp,Roberto Goyeneche;Orquesta Tipica Porteña,Antologia Roberto Goyeneche,Cambalache (with Orquesta Tipica Porteña),25,168200,False,0.532,0.473,0,-9.726,1,0.0855,0.985,0.000376,0.156,0.854,114.348,4,tango
+76ku1JFJDzFwNi9ggow1zG,Tita Merello,Arrabalera,Se dice de mi,24,208533,False,0.465,0.437,4,-15.77,0,0.303,0.855,0.0,0.363,0.423,89.241,4,tango
+2flLL41GyOQdjgZUlt2aKS,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,Antologia Roberto Goyeneche,El Último Café (with Baffa-Berlingieri y su Orquesta),26,170493,False,0.454,0.466,11,-7.924,1,0.0453,0.883,6.75e-06,0.351,0.469,112.332,3,tango
+2UiwXB1SiuAzTccX2UiTtD,Roberto Goyeneche;Orquesta Típica Porteña,Cambalache,Cambalache (with Orquesta Tipica Porteña),26,168080,False,0.568,0.52,0,-5.808,1,0.0891,0.788,1.81e-06,0.112,0.733,112.673,4,tango
+69yMw6uwZvaOmkLOGgtCEE,Juan D'Arienzo,Orquesta Juan D' Arienzo - La cumparsita,Felicia,24,172773,False,0.78,0.277,2,-11.989,0,0.0456,0.676,0.349,0.118,0.776,135.662,4,tango
+6GFKg0VrDnVY1bgfdJka8f,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Roberto Goyeneche Interpreta A Homero Exposito - Serie Argentinisima,Naranjo en Flor (with Atilio Stampone y su Orquesta Tipica),25,160560,False,0.463,0.386,10,-9.065,0,0.0609,0.696,2.08e-06,0.0704,0.348,106.93,4,tango
+0L7gI1fLHzyaAAGKevOPrk,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Juan Carlos Godoy,Los 25 Mejores Tangos,Quien Tiene Tu Amor,24,176653,False,0.565,0.262,9,-9.991,0,0.0452,0.835,0.0,0.252,0.591,119.614,4,tango
+12pqBmaTHiXMGWklj8XUbu,Alfredo De Angelis;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Caminito,25,174306,False,0.672,0.201,5,-10.615,1,0.0356,0.647,0.0148,0.0413,0.68,119.534,4,tango
+38D4a0JPQnbHWeQnKS7crP,Alfredo De Angelis;Dante Carlos;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Fumando Espero,24,207533,False,0.628,0.38,7,-5.826,0,0.0367,0.849,0.000337,0.311,0.813,115.454,4,tango
+1mtd655Pv9q0I0D8XYuRMt,Astor Piazzolla;Amelita Baltar;Héctor De Rosas,"Maria de Buenos Aires, Vol. 2",Aria de los Analistas,24,517573,False,0.421,0.285,6,-15.417,0,0.118,0.817,5.43e-05,0.0684,0.325,134.576,4,tango
+1cPPwCbNpGhsMI6GWmG47M,Astor Piazzolla,Adios Nonino 1969-1984,Adios Nonino,23,482397,False,0.267,0.186,4,-18.682,1,0.0375,0.889,0.0508,0.11,0.0669,76.726,3,tango
+6ND6umfAcv4LVxtHSdwoER,Carolina Winograd;Alejandro Drago;Federico Biraben,Después,Mano a Mano,24,224080,False,0.626,0.289,9,-9.041,0,0.295,0.894,0.0,0.076,0.515,118.172,3,tango
+1R6eZlhLv81JqiDH9gi05e,Carlos Gardel,TANGO Latino – Por una cabeza vol. 02,Desden,24,163537,False,0.748,0.238,3,-12.565,1,0.156,0.99,0.000404,0.399,0.587,120.277,4,tango
+6Wd0G8Zc1y6cYPB1E4dooU,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,La Milonga,24,166160,False,0.586,0.249,7,-14.297,0,0.241,0.996,0.913,0.198,0.624,119.379,4,tango
+3WMFRGhYLFyJXlgzCAe9Eo,Eladia Blazquez,Serie De Oro,Adios Nonino,24,286093,False,0.213,0.334,10,-11.623,0,0.0354,0.76,0.0,0.27,0.211,86.492,4,tango
+5z4zUjStTssx0f6ZHnNUCm,Héctor Varela y su Orquesta Típica,Archivo Columbia : Hector Varela Vol.1,Gota De Lluvia - Vals,23,177480,False,0.55,0.55,2,-7.54,1,0.0522,0.784,4.51e-06,0.0849,0.896,103.605,4,tango
+7CESNJVPLEf1aitha83n9Y,Astor Piazzolla;Fernando Suárez Paz;Pablo Ziegler;Oscar López Ruiz;Héctor Console,Libertango,Muerte del Angel,24,180333,False,0.463,0.635,2,-8.537,0,0.127,0.659,0.375,0.659,0.378,154.586,4,tango
+7neOVgdSQhXued7BXvbEWS,Domingo Federico,"Grandes Cantores: Grandes orquestas, Vol. 2",Al compras del corazon,23,174106,False,0.596,0.349,7,-10.732,1,0.036,0.86,0.0217,0.0817,0.724,120.579,4,tango
+3f29ck2ORyeCbH9kR8fFiN,Amelita Baltar;Astor Piazzolla,Amelita Baltar Interpreta A A. Piazzolla,Chiquilín de Bachín (with Astor Piazzolla),23,272520,False,0.431,0.306,8,-10.8,1,0.0413,0.86,0.0,0.447,0.241,105.017,5,tango
+1NxtOKXpD6L2gW3fMVGuWj,Aníbal Troilo;Floreal Ruiz,Tinta Roja,Romance De Barrio,23,154013,False,0.448,0.546,3,-8.184,1,0.0697,0.888,6.15e-05,0.0804,0.641,95.578,3,tango
+1zdFdv8nTcxq0b6XSk1mRh,Carlos Gardel,La Tropilla,Por Una Cabeza,25,150177,False,0.414,0.265,8,-11.718,0,0.0552,0.987,0.0161,0.296,0.77,168.411,3,tango
+2i0cNDrku8YyMSCejwTOE5,Charlo,Presentando a Charlo,Yo También Soñé,23,195936,False,0.648,0.237,4,-8.837,0,0.0511,0.978,0.0,0.123,0.435,119.956,3,tango
+3hkKjn76alBHAkN3rKESOk,Charlo,Presentando a Charlo,Ave de Paso,23,191320,False,0.545,0.265,2,-7.7,1,0.0412,0.978,4.05e-06,0.269,0.406,112.737,4,tango
+21BgRe0eStuux7hgat9aJy,Astor Piazzolla;Joel Fan,West of the Sun: Music of the Americas,3 Préludes: 3 Preludes: No. 2. Flora's game: Milonga,24,403586,False,0.246,0.0547,10,-27.628,0,0.0454,0.993,0.9,0.0759,0.0396,64.554,3,tango
+2SoGd5sYeLswARIBv3eb9t,Jaska Mäkynen,Elämän tie,Yötuulen viesti,25,231466,False,0.509,0.511,0,-10.719,0,0.0293,0.626,8.46e-06,0.365,0.799,109.959,4,tango
+4o3Gr0PFPBb8XCEXU4tDNc,Olavi Virta,Unohtumattomat,Metsäkukkia,27,168266,False,0.451,0.152,4,-14.084,0,0.0338,0.874,1.55e-05,0.168,0.531,82.425,3,tango
+7kEwwmnAkgoll8koLkwZeC,Cacho Tirao,Los Esenciales,"Danza Húngara, No. 5",24,167426,False,0.455,0.244,9,-12.326,1,0.0334,0.784,0.00081,0.204,0.376,137.891,4,tango
+2uUlt61KHLLEvJaDn72V6w,Adriana Varela,Tangos de Lengue,Anclao en París,23,134931,False,0.673,0.313,9,-10.965,1,0.0729,0.586,0.0,0.0885,0.578,119.588,4,tango
+29DZSehE6cH872BXr2LzrT,Hugo Del Carril,Solo Tango,Nostalgias,23,210213,False,0.548,0.165,1,-9.504,0,0.0555,0.979,8.91e-05,0.17,0.306,101.827,4,tango
+3krCeQB4ZKQ7mbHXiDpy7j,Pepe Aguirre,Solo un recuerdo,Dolor de ausencia,24,117957,False,0.702,0.315,2,-18.87,0,0.222,0.966,0.0,0.605,0.961,100.332,3,tango
+6fyDrjv9BKI39ZqvjHOflO,Carlos Gardel,El Album De Oro De Carlos Gardel,Anclao En París,24,131893,False,0.697,0.439,3,-10.475,1,0.307,0.936,0.00393,0.307,0.747,122.363,3,tango
+2oaphqhjnsn109Y7Y9aezg,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,Bien Pulenta,23,167080,False,0.58,0.65,7,-5.896,0,0.0971,0.926,8.85e-05,0.061,0.704,135.201,4,tango
+24Reh2d2WR4lwweVsA1xxf,Susana Rinaldi;Leopoldo Federico,Vos y yo,Malena,23,238852,False,0.478,0.19,5,-10.48,1,0.0539,0.943,0.0,0.147,0.251,94.044,3,tango
+2lk5QRfMhO9Ej0pWfXZCby,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Malevaje,24,143453,False,0.631,0.391,4,-6.109,1,0.307,0.975,0.0,0.709,0.496,84.774,4,tango
+6DdPYmxUiA1AY1ssq4ZBkG,Jaska Mäkynen,Espanjan Yöt,Miehen mittainen tie,25,220640,False,0.632,0.702,0,-4.496,0,0.0228,0.356,0.0,0.247,0.789,99.955,4,tango
+3XtIOnKLnyfHeklaBKwIlp,Roberto Goyeneche,Che Bandoneón,Melodia De Arrabal,24,162040,False,0.59,0.518,9,-5.056,1,0.0631,0.838,0.0,0.116,0.671,116.166,3,tango
+78blMsAxvAaubRFHGFAwPt,Ricardo Tanturi;Enrique Campos,Presentando a Ricardo Tanturi,Oigo Tu Voz,23,182973,False,0.549,0.28,9,-9.283,0,0.0406,0.929,0.00209,0.507,0.729,124.995,4,tango
+7KPR6Bk1GTbEI3ovqr9zwP,Roberto Goyeneche,Naranjo En Flor,Pampero,24,128346,False,0.454,0.384,0,-7.865,1,0.0519,0.643,2.31e-06,0.107,0.524,108.795,4,tango
+575dRDaDVvSlkY8PxeuFEz,Roberto Goyeneche,Tango Feroz (Original Motion Picture Soundtrack),Malevaje,24,171840,False,0.51,0.543,2,-9.601,1,0.061,0.71,0.00159,0.065,0.621,111.868,4,tango
+2b12d76giIokrLUGrLPj9w,Carlos Gardel,Los Exitos De Sus Peliculas,Golondrinas,24,167786,False,0.499,0.267,2,-9.541,1,0.0791,0.992,0.00452,0.349,0.466,85.816,3,tango
+73cWvVPgSYZU9B7nOjggoY,Roberto Goyeneche,Vivo y Chamuyando,Naranjo en Flor,24,171450,False,0.371,0.426,1,-12.712,1,0.286,0.604,0.0,0.975,0.398,84.646,4,tango
+5zLVCGMbsFY5Ql27ESCiM9,Jaska Mäkynen,Espanjan Yöt,Sinulle syntymäpäivänäsi,25,185360,False,0.316,0.465,0,-7.731,0,0.0292,0.569,1.81e-05,0.409,0.632,77.309,3,tango
+6gpxjIUXVY3Dia44paPwG2,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Primavera porteña,23,191634,False,0.491,0.285,7,-11.166,0,0.041,0.627,0.375,0.0774,0.455,113.278,4,tango
+39baGLGdvzeVIA0FAifBQp,Julio Sosa;Orquesta de Leopoldo Federico,20 Great Tangos,Que Me Quiten Lo Bailao,23,172106,False,0.5,0.582,8,-9.89,1,0.113,0.758,1.03e-06,0.158,0.805,118.628,4,tango
+4eqsIRw0sKnLafeqqU7Phh,Alberto Podestá;Rodolfo Lezica;Agustin Magaldi;Alberto Morán;Jorge Durán;Carlos Almada;Enrique Campos;Jorge Vidal;Mariano Leyes;Oscar Larroca;Armando Moreno;Alberto Marino,Grandes cantores del tango,Antiguo reloj de cobre,23,127760,False,0.54,0.409,3,-12.594,1,0.172,0.816,0.000838,0.201,0.706,96.114,4,tango
+46MPDWju4JkXKAdPUz1hdx,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta Típica,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Pompas De Jabón,24,176880,False,0.504,0.387,0,-11.257,1,0.0643,0.825,0.0,0.096,0.558,109.427,4,tango
+26BTEeoYTBHchd6RExKZNs,Malena Muyala,Temas Pendientes,Como Dos Extraños,23,179106,False,0.517,0.102,9,-14.201,1,0.0757,0.874,0.0,0.0899,0.188,105.465,4,tango
+3p9ebspnr6evao7kZ99BpH,Adriana Varela;Fito Páez;Paula Pomeraniek,Avellaneda,La Despedida (feat. Fito Páez & Paula Pomeraniek),23,279706,False,0.307,0.308,7,-9.312,1,0.0407,0.774,0.0,0.117,0.325,51.793,4,tango
+4HAAeaaufqcx91HCLEIYHt,Alfredo De Angelis;Juan Carlos Godoy,"Alfredo de Angelis, Vol. 2",Obsesión,23,197520,False,0.717,0.353,3,-6.821,0,0.1,0.861,0.0146,0.141,0.789,114.961,4,tango
+6uOmF4syUtJmaA2X83RwbL,Jorge Falcón,Mis 30 Mejores Tangos,Me Han Prohibido Quererte,24,174200,False,0.417,0.36,9,-10.411,0,0.0434,0.875,0.000167,0.791,0.531,121.146,3,tango
+5wxVYcAJhdDg2bDuuaT1E8,Julio Sosa,"100 Tangos, Vol. 4",Un Alma Buena,23,191440,False,0.456,0.744,8,-4.026,1,0.0943,0.9,2.23e-05,0.196,0.569,124.163,4,tango
+5HXFIL3EQ9R1M0Me1UsEJ3,Alfredo De Angelis,Yo Soy El Tango,Mi Dolor,23,171066,False,0.655,0.4,2,-9.135,0,0.0313,0.8,0.0577,0.303,0.852,121.06,4,tango
+7GW0PERAXPXviZe3zztMKy,Libertad Lamarque;Pedro Vargas,Tesoros De Coleccion - Libertad Lamarque,Parece Que Fue Ayer (with Pedro Vargas),23,178813,False,0.533,0.35,3,-12.085,1,0.0393,0.597,0.0,0.16,0.601,89.943,4,tango
+7s6nxhHRpKP3l8slxd2MrB,Julio Sosa;Leopoldo Federico y su Orquesta,Reciedumbre Y Ternura,Soledad (with Leopoldo Federico y Su Orquesta),23,187400,False,0.501,0.663,3,-7.604,1,0.142,0.81,7.25e-06,0.473,0.691,117.466,4,tango
+6v0QEaN24B1STwP58Q3Yf5,Alfredo De Angelis;Oscar Larroca,De Igual a Igual,Como Nos Cambia la Vida,23,178186,False,0.711,0.41,7,-5.661,1,0.0496,0.932,0.0,0.343,0.704,126.647,4,tango
+6d48lKUZig9jlzUXHr7QMz,Adriana Varela,Vuelve el Tango,Volver,23,220148,False,0.555,0.0805,4,-16.968,1,0.0576,0.817,0.0,0.212,0.573,105.578,4,tango
+1wU4jdw3NOFDTmFhcVSsoc,Alfredo De Angelis;Carlos Dante;Julio Martel;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Pobre Flor,23,165373,False,0.686,0.437,7,-10.764,0,0.0475,0.909,0.262,0.0733,0.895,110.78,1,tango
+2V1D75Hu4dux1P05Mup8qp,Alfredo De Angelis;Ruiz Floreal;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Marioneta,23,165213,False,0.706,0.194,7,-8.802,1,0.0745,0.941,0.000116,0.0627,0.538,119.442,4,tango
+1PK3DbWp8HcIL04sKxAyNx,Juan D'Arienzo,Milongas para Bailar,El Esquinazo - Instrumental,23,153146,False,0.814,0.5,0,-8.265,1,0.308,0.927,0.825,0.091,0.968,104.732,4,tango
+49kiKBoMp7RDLy0GO3mMAQ,Roberto Goyeneche,Vivo y Chamuyando,Sur,23,209792,False,0.395,0.358,2,-13.317,1,0.0482,0.685,0.00392,0.97,0.242,124.34,3,tango
+1HC8PzCw497hckdSNzL58i,Astor Piazzolla;Amelita Baltar,"Maria de Buenos Aires, Vol. 2",Milonga de la Anunciación,22,186106,False,0.424,0.379,9,-12.204,0,0.0835,0.909,0.000756,0.124,0.458,156.018,4,tango
+6Xj8NprVU0UvHwMzTOEYav,Aníbal Troilo;Floreal Ruiz,Tinta Roja,Adios Pampa mia,22,204973,False,0.423,0.547,0,-4.51,1,0.0344,0.928,2.51e-05,0.147,0.602,126.962,4,tango
+0ACRuhQeaM96VNO1K3UeSG,Lucio Demare,Valses y Milongas,Tortazos (Milonga),22,187585,False,0.637,0.299,8,-10.587,1,0.14,0.988,0.684,0.2,0.847,101.159,4,tango
+3xjANYsJ2nMZBLr7T6lDcZ,Eladia Blazquez,Con las Alas del Alma,Siempre Se Vuelve a Bs. As.,22,181120,False,0.428,0.34,5,-10.973,0,0.0489,0.718,0.0,0.195,0.381,85.368,4,tango
+3kqJjJUgi7985Hj3Qng7Ch,Donato Racciatti y Su Orquesta Típica;Nina Miranda,Lo Mejor,Gloria,23,164853,False,0.668,0.477,7,-6.341,0,0.0367,0.913,0.0154,0.101,0.809,129.513,4,tango
+7JFUAhIVtlRtuIMJ9SHXPS,Lucio Demare;Horacio Quintana,Lucio Demare,Torrente,22,189573,False,0.568,0.292,6,-9.039,0,0.0426,0.967,0.019,0.147,0.713,123.659,4,tango
+72grNDm7LBvqrcrRkm33ix,Lidia Borda;Orquesta El Arranque,Tal vez serà su voz,Tal vez sera su voz,21,262706,False,0.396,0.3,2,-6.183,1,0.0343,0.891,1.16e-06,0.081,0.179,80.699,3,tango
+52D7i5XKgXguv4fwkGYmlH,Aníbal Troilo;Roberto Grela,Tinta Roja,La Cumparsita,22,208840,False,0.43,0.25,7,-11.557,0,0.0344,0.94,0.724,0.206,0.501,109.9,4,tango
+3w4bNFN8cszAEOfYhcfDPQ,Lucio Demare;Raúl Berón,Lucio Demare,Una Emoción,22,161373,False,0.59,0.299,4,-8.699,0,0.0476,0.827,0.000182,0.846,0.598,121.543,4,tango
+2gmXozUIMGUCj36u5ARhB4,Orquesta Juan D' Arienzo,Orquesta Juan D' arienzo - La puñalada,Canaro en Paris,23,161000,False,0.679,0.466,4,-9.988,1,0.0495,0.544,0.683,0.06,0.7,128.306,4,tango
+5yAigH5X3yflOeFTb1Hq9B,Alberto Morán;Julio De Caro;Orquesta Osvaldo Pugliese,Principe (1946-1947),El mareo,22,176840,False,0.502,0.152,4,-16.771,1,0.0391,0.982,0.829,0.201,0.497,122.324,4,tango
+7dsCiWTBKpyI8UYPxicyCu,Amelita Baltar;Aldo Saralegui,El Nuevo Rumbo,Fruta Amarga,22,209866,False,0.558,0.39,11,-9.739,0,0.214,0.669,0.0,0.0839,0.351,114.267,4,tango
+0w2KdhfqjParV6sqUARics,Héctor Varela;Argentino Ledesma,Serie De Oro,Moneda De Cobre,22,178893,False,0.551,0.285,7,-9.798,1,0.0863,0.884,4.15e-06,0.352,0.444,63.169,4,tango
+7bM9a9Dh16B7VcFjXedGES,Carlos Gardel,La Historia Completa De Carlos Gardel - Volumen 30,Tiempos Viejos,24,165733,False,0.694,0.197,8,-13.727,1,0.369,0.995,0.231,0.188,0.409,67.689,3,tango
+0ZqosZZHkiQX1Ia7E4zZj1,El Cachivache Quinteto,El Sueño del Pibe Canta Maradona,El Sueño del Pibe Canta Maradona,23,129285,False,0.609,0.326,4,-13.586,0,0.15,0.6,0.0674,0.198,0.805,114.519,4,tango
+1CppTGpCYCuDzzoeIjdHtj,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,Sarampion,22,137080,False,0.659,0.712,9,-4.02,1,0.0705,0.908,2.76e-06,0.393,0.928,131.306,4,tango
+1ScBtb4m9qpXUq0Xj3Iypn,Pepe Aguirre,Solo un recuerdo,Naufragio,23,106068,False,0.72,0.175,9,-18.967,0,0.114,0.971,7.54e-06,0.0582,0.929,123.847,4,tango
+6sOxebt63n2WKG8FZiZMzQ,Juan D'Arienzo y su Orquesta Típica,Archivo RCA: La Década del '50 - Juan D'Arienzo,Trago Amargo,22,150920,False,0.746,0.486,9,-7.878,1,0.101,0.736,7.28e-05,0.0623,0.733,129.23,4,tango
+6P3zkrGmoNDZ0hYaPgFoLn,Francisco Lomuto,The Roots of Tango - Nostalgias,Nostalgias,22,184495,False,0.671,0.192,4,-11.036,0,0.0627,0.976,0.000537,0.0944,0.67,121.908,4,tango
+7qD044i1ctJDfzVE61E7Nk,Julio Sosa,Varón (Remastered),María - Remastered,23,176933,False,0.313,0.481,7,-13.756,0,0.108,0.951,0.0,0.135,0.588,78.33,4,tango
+4IuqWRemcIxRUnEvEq7WAW,Alfredo De Angelis;Oscar Larroca;Carlos Dante,Tango Classics 062: Como nos cambia la vida,Prohibido,22,174792,False,0.466,0.425,9,-6.772,0,0.0316,0.975,6.15e-06,0.171,0.729,125.354,4,tango
+52bmeu33Kkm1hfEsuvivs5,Omar Mollo,Tangazos,Se Tiran Conmigo,23,161061,False,0.48,0.554,0,-6.363,1,0.0877,0.526,0.0,0.933,0.58,111.607,3,tango
+5N77EfgsfKTogt2BMe6QAR,Otros Aires,Tricota,Quisiera Que Estes Conmigo,23,238520,False,0.319,0.66,9,-5.336,0,0.0585,0.441,0.00555,0.0699,0.32,79.254,4,tango
+4kpvXsiYJrJo7STv6AkQnE,Esko Rahkonen,(MM) Syvä kuin meri,Kotiseutu Pohjolassa,24,218466,False,0.498,0.55,3,-8.219,0,0.0296,0.536,0.0,0.167,0.576,106.896,3,tango
+4LVQ2CuYGgKgQA3vsI0NyG,Susana Rinaldi,La Tana Con Todo,Malevaje,22,237226,False,0.491,0.188,10,-10.781,1,0.0412,0.866,0.0,0.0639,0.176,105.844,4,tango
+1ziCf7UsXdAQE8J6OvHexw,Julio Sosa,Varón (Remastered),Bien bohemio - Remastered,22,195649,False,0.529,0.363,7,-13.256,1,0.133,0.963,2.71e-06,0.498,0.892,122.275,4,tango
+4lugmhY84e6CQvbya1q0DI,Juan Carlos Caceres,Tango Negro,Otra Vez,22,233506,False,0.352,0.157,8,-15.319,1,0.0371,0.908,0.00112,0.11,0.0981,98.85,4,tango
+3JQF292yu7Wb8FzLFMCk8E,Teemu Roivainen;Saara Aalto,Sydämesi tyhjä huone,Sydämesi tyhjä huone (feat. Saara Aalto),22,228266,False,0.35,0.472,2,-7.842,0,0.0304,0.489,0.00516,0.0866,0.369,171.839,4,tango
+15lQyxagHF0lHgSM4WML2n,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Nostalgias,22,185226,False,0.35,0.262,0,-14.021,0,0.0394,0.927,0.313,0.361,0.707,117.096,4,tango
+1PoPv4zaS5pHXBt6RmmqCc,Julio Sosa,Varón (Remastered),Mala suerte - Remastered,22,199934,False,0.559,0.401,9,-12.521,1,0.15,0.942,1.38e-06,0.173,0.8,124.756,4,tango
+4rvqisHl7HTX7CiebJ4MgF,Sexteto Mayor,Embajadores Del Tango (Grabado En Vivo En Alemania),Seleccion De Milongas,23,251240,False,0.428,0.338,9,-13.731,0,0.0516,0.666,0.00233,0.238,0.479,114.379,4,tango
+780oI6gpWrr8ds9gzx98B0,Edmundo Rivero;Horacio Salgán,Sur (Remastered),La casita de mis viejos - Remastered,22,310012,False,0.442,0.346,4,-11.321,0,0.0595,0.889,7.03e-06,0.141,0.265,116.838,4,tango
+4tOnQT0ZgRnNTbAN7XDQ7O,Jorge Falcón,Para Todos... Con Amor,Y Todavía Te Quiero,23,200506,False,0.462,0.567,4,-8.152,0,0.0733,0.739,0.0,0.635,0.664,118.305,4,tango
+6vMJcLi4FDGRxe1CMBQiFH,Ricardo Tanturi;Enrique Campos,Presentando a Ricardo Tanturi,La Abandoné Y No Sabía,22,167866,False,0.656,0.252,4,-6.912,0,0.0534,0.979,0.0502,0.0807,0.624,127.084,4,tango
+3DBUClYp8qa8WmkgKsuOe6,Tita Merello,Serie De Oro,Llamarada Pasional,21,152746,False,0.609,0.298,9,-8.971,0,0.083,0.819,0.0,0.329,0.77,123.796,4,tango
+28FA2JzQLNFF0xPT9HxkEY,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Total Pa' Que Sirvo (with Leopoldo Federico y Su Orquesta),23,161173,False,0.429,0.71,9,-10.036,1,0.173,0.932,0.000146,0.689,0.517,121.804,5,tango
+0jmL4X2k3Kz9iOAXQWpmBI,Carlos Gardel,Los Exitos De Sus Peliculas,Criollita Deci Que Si,23,171133,False,0.453,0.285,1,-9.107,0,0.0522,0.982,9.21e-06,0.304,0.507,73.757,3,tango
+5tYlnkguNNQmVrsHiXT9Bx,Olavi Virta,Olavi Virta,Vihreät niityt - Green Fields,25,178653,False,0.329,0.126,10,-14.32,0,0.0352,0.954,1.11e-05,0.108,0.176,65.454,4,tango
+2Pte2iCourMA7TvNR3UFp6,Tango Bardo,Del sur,Quejas de bandoneon,23,178173,False,0.48,0.525,2,-6.943,1,0.0383,0.719,0.0535,0.302,0.602,120.061,4,tango
+3bDkaK29SjZsgGPWhF4ABU,Reijo Taipale,Reijo Taipale,Tähdet meren yllä,24,189933,False,0.551,0.36,5,-9.791,0,0.0316,0.864,0.000259,0.38,0.589,116.279,4,tango
+0GKb7F2cD0iK9nsTXlCe63,Julio Sosa,Grandes Éxitos De,Madame Ivone,22,188053,False,0.492,0.535,2,-9.419,1,0.207,0.935,0.0,0.531,0.629,111.776,3,tango
+5yGnN8BXOtV5t5lTiq9EAK,Julio Sosa,Grandes Éxitos De,Tiempos Viejos,22,139920,False,0.627,0.374,0,-13.446,0,0.0738,0.99,0.906,0.135,0.688,129.503,4,tango
+00OOn0q7Zudq4VHJYkLbUJ,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Lloró Como una Mujer (with Leopoldo Federico y Su Orquesta),22,175440,False,0.455,0.626,0,-7.092,1,0.0884,0.879,0.0,0.401,0.723,117.282,3,tango
+5io7IhJ3UF3CfHs39UVMpc,Adriana Varela;Roberto Goyeneche,Vuelve el Tango,Balada para un Loco,22,234858,False,0.366,0.245,2,-16.74,1,0.147,0.852,0.0,0.955,0.48,167.613,3,tango
+3erARuIHWb4koIi36ZVEF6,Alfredo De Angelis;Oscar Larroca,Medallita De La Suerte,Y Todavía Te Quiero,22,168013,False,0.58,0.354,4,-7.218,0,0.0353,0.835,0.0,0.32,0.765,120.173,4,tango
+3qVriqTZpsk7oyKOyE3FPH,Julio Sosa,El varón del tango (Remastered),Sus ojos se cerraron - Remastered,22,206800,False,0.379,0.438,4,-12.207,0,0.115,0.957,8.36e-06,0.287,0.408,90.027,3,tango
+2HYCgds0IEt0hhGyUDC22a,Argentino Ledesma,Argentino Ledesma - Fumando espero,Fumando espero,22,164400,False,0.594,0.444,7,-8.539,0,0.0579,0.687,0.0,0.278,0.638,113.67,4,tango
+0UwtpdbVcZGIRLD9XhebQt,Miguel Calo;Raúl Berón,"Tangos para Aficionados, Vol. 1",Carazon No la Hagas Caso,0,178066,False,0.677,0.168,0,-11.705,0,0.055,0.833,0.413,0.0805,0.444,120.216,4,tango
+72XdvQJWz7sxczIL6gft00,Juan D'Arienzo;Alberto Echagüe,Milongas para Bailar,Meta Fierro,22,145026,False,0.747,0.597,2,-6.68,1,0.0606,0.929,0.367,0.211,0.892,114.836,4,tango
+7KEKj1sF2V7JL3xEDEgVNc,Carlos Gardel,Joyas Remasterizadas 3,Yira Tira,22,164628,False,0.587,0.499,3,-7.891,1,0.106,0.992,0.866,0.119,0.667,67.387,4,tango
+5kbtvKS9qdMGTShPKL3UO3,Orquesta Tipica Buenos Aires,La Cumparsita,Caminito,22,152773,False,0.526,0.347,4,-9.273,1,0.0326,0.762,0.0167,0.229,0.521,119.238,4,tango
+1rBHmjddukdTMKb1n4xHgp,Lucio Demare;Raúl Berón,Al Pasar,Una Emoción,22,161373,False,0.565,0.302,4,-8.691,0,0.0471,0.819,0.000116,0.561,0.591,121.27,4,tango
+0FocbxQOKIMvvrtffXUzGz,Eladia Blazquez,Serie De Oro,La Voz De Buenos Aires,21,144200,False,0.467,0.327,5,-13.247,0,0.0647,0.831,0.0,0.169,0.355,106.897,4,tango
+3wN0brdVqbMYJdGJ0wD0Za,Ariel Ardit;Andrés Linetzky,"Intimos, Vol. 1 en vivo en Bebop",Fuimos - En Vivo,22,320922,False,0.429,0.202,4,-11.807,1,0.0595,0.896,0.000377,0.705,0.185,53.024,3,tango
+0WZV76XAqvBGTdmmJjnpKC,Carlos Gardel,La Historia Completa De Carlos Gardel - Volumen 21,Milonga Del 900,22,183013,False,0.7,0.22,2,-11.682,1,0.163,0.988,0.0,0.13,0.703,84.449,4,tango
+6UoxH1NL97phnCVGFN0TtA,Mariano Mores,Mariano Mores,La Cumparsita,22,175093,False,0.379,0.355,10,-12.255,0,0.0303,0.803,0.92,0.0988,0.265,128.55,4,tango
+04349i5UALrGIrKNGu1lPi,Orquesta Tipica Fernandez Fierro,Ahora y Siempre,Subrealidad,22,128907,False,0.699,0.441,9,-6.243,1,0.0516,0.506,0.0,0.0865,0.581,134.098,4,tango
+1iTKpzV6Wgc0vNep3sakFI,Francisco Canaro Y Su Orquesta Tipica;Juan Carlos Rolón,From Argentina To The World,Casas Viejas,21,192826,False,0.532,0.212,4,-10.062,1,0.0408,0.763,0.0,0.295,0.637,126.921,4,tango
+0l7C8PvhOua5gFOgdpwEAs,Tango Bardo,Rustico,Tigre viejo,22,200474,False,0.512,0.442,10,-7.112,0,0.0588,0.714,0.13,0.0857,0.636,123.878,4,tango
+4Mi13CyZHas82GRNnOJSlS,Carlos Gardel,El Album De Oro De Carlos Gardel,Leguisamo Solo,22,144986,False,0.676,0.384,3,-9.767,1,0.343,0.991,0.000409,0.0905,0.845,143.235,4,tango
+0kBLGLJkdFtopyw0V7rUll,Juan D'Arienzo;Armando Laborde,Tango Classics 235: Magdala,Color Cielo,21,184060,False,0.537,0.269,2,-15.866,0,0.0512,0.981,0.0385,0.363,0.658,123.617,4,tango
+5cOAbX7oBPRdmSaHB5FusN,Julio Sosa,Mejores Exitos,Canchero,21,150047,False,0.501,0.694,1,-9.289,1,0.148,0.977,0.00304,0.946,0.811,115.983,4,tango
+37Sz4x0L0Nz8S9m80PHIWD,Julio Sosa,Selección Especial (Remastered),Che Papusa Oi - Remastered,22,187400,False,0.473,0.615,7,-7.862,0,0.0378,0.505,0.0,0.073,0.781,117.587,4,tango
+0m6PWAlyoJF3C8xTG7kNyz,Ángel Vargas,Presentando a Ángel Vargas,El Choclo,21,150866,False,0.811,0.357,2,-4.873,0,0.067,0.975,0.305,0.145,0.771,129.109,4,tango
+0pCDwR5bB1eq0NNCUFvfFD,Armando Pontier,Presentando a Armando Pontier,Tiempos Viejos,21,149586,False,0.74,0.46,4,-6.339,0,0.0508,0.683,2.55e-05,0.102,0.694,120.674,4,tango
+4TMH7tB8EheTUOh8RSpTAl,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,Maestros Del Tango,Sur,21,236173,False,0.442,0.382,2,-10.375,0,0.044,0.926,0.000206,0.287,0.445,113.576,4,tango
+1bspzTmhuXT0HtQZHHy2zG,Olavi Virta,Olavi Virta,Kultainen nuoruus,24,177080,False,0.366,0.31,2,-10.222,1,0.0373,0.905,3.83e-06,0.089,0.638,176.714,3,tango
+6SbZNzORN55m3QxGiHbkHD,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Naranjo en Flor (with Atilio Stampone y su Orquesta Tipica),22,157320,False,0.443,0.388,5,-8.173,1,0.0372,0.86,8.11e-06,0.219,0.297,103.999,4,tango
+27Y1ybGjHMIExvnatERN4c,Quadro Nuevo,Von guten Mächten wunderbar geborgen,Von guten Mächten wunderbar geborgen,21,209746,False,0.593,0.131,7,-16.269,0,0.0342,0.982,0.883,0.112,0.488,132.002,4,tango
+4UNLwP2NNNiQz75J65uT8G,Juan D'Arienzo,Glorias Del Tango: D'Arienzo Vol. 1,Cuatro Palabras,21,130373,False,0.665,0.557,9,-6.746,1,0.0406,0.944,0.554,0.363,0.684,113.675,3,tango
+1arTsdsCHO3OUsarGPam0D,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,Maestros Del Tango,En Esta Tarde Gris,21,226600,False,0.437,0.301,9,-11.153,0,0.0397,0.865,0.000249,0.217,0.559,110.409,4,tango
+7InwD6zDHSKamMW2WGifPF,Quinteto Pirincho,Bailando Tango,El Entrerriano,21,157960,False,0.787,0.36,7,-9.374,1,0.0649,0.831,0.31,0.101,0.894,140.268,4,tango
+32XtIl1puh8fAFMhnB6SgL,Astor Piazzolla;Gidon Kremer;Kremerata Baltica,Eight Seasons: Astor Piazzolla - Four Seasons of Buenos Aires; Vivaldi - Four Seasons,Piazzolla / Arr Desyatnikov : Verano Porteño,22,362466,False,0.381,0.15,5,-18.925,1,0.0427,0.876,0.512,0.118,0.271,145.754,4,tango
+5VsuaewFS9GWBGpbAhAWzu,Malena Muyala,Viajera,Pena Mulata,21,164226,False,0.694,0.292,2,-9.428,1,0.0755,0.849,0.000105,0.0942,0.408,102.92,4,tango
+5PfBKsCzmRlPpbLKX2054B,Francisco Canaro;Fransisco Amor,Glorias Del Tango: Francisco Canaro Vol. 1,Bajo El Cielo Azul,21,182760,False,0.482,0.506,7,-7.728,0,0.0692,0.831,0.00217,0.0823,0.619,177.22,3,tango
+0JHgMRz4WxRkIsdeorFzxX,Guillermo Fernández;Walter Laborde,De Criollos y Tangueros,Payada Gardel-Razzano,22,253769,False,0.601,0.394,9,-6.419,0,0.0619,0.917,5.42e-06,0.114,0.261,124.002,4,tango
+6LyuP3uEWwBrF2vOlejxTr,Alberto Castillo,Mis 30 Mejores Tangos,Cucusita,22,133560,False,0.564,0.258,9,-13.027,0,0.0753,0.914,4.16e-05,0.2,0.41,109.349,4,tango
+16lrDAWOGqdcYOr9BJZI9K,Julio Sosa,Yo soy aquel muchacho (Remastered),Siga el corso - Remastered,22,168539,False,0.383,0.533,2,-12.034,1,0.0481,0.912,0.0,0.664,0.846,58.928,4,tango
+5DO9f8iYvoKbRiEw96Va0J,Los Reyes Del Tango,A Don Juan,Loca,21,153200,False,0.533,0.372,4,-6.421,0,0.0588,0.573,0.177,0.311,0.679,135.578,4,tango
+17ABEspeSa35FH8R7ikkjT,Juan D'Arienzo;Alberto Echagüe,50 Tangazos,Cambalache,21,171986,False,0.621,0.439,2,-6.849,1,0.0635,0.987,0.31,0.187,0.851,127.637,4,tango
+25NuGWk6dbNy8Eyt6zNlsR,Maria Graña;Mercedes Sosa,María,Naranjo en Flor (feat. Mercedes Sosa),22,225800,False,0.38,0.0695,0,-14.309,1,0.0648,0.973,1.46e-06,0.112,0.0709,168.362,4,tango
+3x8emexoUiq5vLiKOybG4f,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Tu pálida voz,21,151954,False,0.343,0.414,2,-9.392,0,0.0481,0.607,0.00132,0.111,0.58,182.141,3,tango
+1rALbwWIr7EcaDTM4VgYXK,"Amores Tangos;Negro Falótico;""Pepo"" San Martín",Fronterabierta,Vuelvo al sur,21,242028,False,0.37,0.467,9,-12.189,0,0.0853,0.446,0.00054,0.324,0.339,133.254,5,tango
+17Wp4bvxnqAIq4reEwa6lm,Alfredo De Angelis;Lalo Martel,Coleccion Aniversario,Muñeca Brava,22,171106,False,0.664,0.38,4,-9.716,1,0.0458,0.841,4.52e-05,0.531,0.791,121.065,4,tango
+2Uk4zGruWhlJuf092mMazW,Julio Sosa;Armando Pontier y su Orquesta,Esenciales,Silbando (with Armando Pontier y su Orquesta),21,190733,False,0.556,0.333,7,-9.345,1,0.0454,0.634,2.34e-06,0.163,0.504,122.495,4,tango
+2wysq4TOXojuFnehuqOXL0,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Confesión (with Leopoldo Federico y Su Orquesta),22,206506,False,0.454,0.454,9,-9.517,0,0.063,0.796,6.75e-06,0.183,0.528,109.326,3,tango
+3ToPFUIwvyuewhPgkmw8qg,Roberto Goyeneche;Orquesta Tipica Porteña,Antologia Roberto Goyeneche,Cafetín de Buenos Aires (with Orquesta Tipica Porteña),22,183253,False,0.46,0.346,2,-8.35,1,0.0464,0.808,0.0,0.168,0.36,101.055,4,tango
+6MCzBXIzLMSletQRpSVXka,Alfredo De Angelis;Carlos Dante;Julio Martel,Fumando Espero,Flores Del Alma,21,184733,False,0.67,0.504,7,-7.958,0,0.0674,0.948,0.495,0.552,0.859,103.68,3,tango
+1qb4Tmhx7nYk9Z11jzbbhT,Adriana Varela,Más Tango,Las Cuarenta,21,213266,False,0.663,0.316,4,-10.296,0,0.203,0.881,0.0,0.0899,0.487,95.526,3,tango
+042pOSKjPpmJ9GJH4SE06C,Alberto Podestá;Rodolfo Lezica;Agustin Magaldi;Alberto Morán;Jorge Durán;Carlos Almada;Enrique Campos;Jorge Vidal;Mariano Leyes;Oscar Larroca;Armando Moreno;Alberto Marino,Grandes cantores del tango,El sueño del pibe,21,123133,False,0.629,0.314,7,-13.743,0,0.101,0.97,0.000387,0.106,0.578,116.145,4,tango
+3l0Hnu6g7CLKbRhhRMYm0y,Alberto Castillo;Ricardo Tanturi Y Su Orquesta,Así Se Baila El Tango,Violetas,21,155560,False,0.627,0.483,3,-9.448,1,0.078,0.94,0.0353,0.109,0.794,118.16,4,tango
+0bbTenSbuzzUBeLOs8KXic,Alfredo De Angelis;Juan Carlos Godoy,Yo Soy El Tango,Quien Tiene Tu Amor,21,176653,False,0.564,0.269,0,-9.983,1,0.0489,0.846,0.0,0.273,0.566,119.882,4,tango
+7asFHR74hcfNANNJ79cqVw,Edmundo Rivero;Orquesta de Horacio Salgán,Great Voices of Tango,Al Mundo Le Falta un Tornillo,21,159373,False,0.554,0.487,1,-8.078,1,0.062,0.908,0.0,0.0633,0.773,120.667,4,tango
+61LicmiWTnDjzRDPdbRTPy,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Carlos Dante,Los 25 Mejores Tangos,Remembranzas,21,210706,False,0.376,0.474,4,-7.546,0,0.0326,0.873,0.000764,0.278,0.514,122.266,4,tango
+4nkUSCB0TzsJsipHbr8bl4,Julio Sosa,Grandes Éxitos De,Otario Que Andas Penando,21,141333,False,0.395,0.522,11,-9.455,1,0.089,0.965,2.62e-06,0.679,0.797,79.23,3,tango
+2dFEifh02h5oY9OEVZOVXI,Alfredo De Angelis;Juan Carlos Godoy;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,La Última Copa,22,219880,False,0.596,0.334,2,-10.353,0,0.0438,0.802,0.0,0.0442,0.631,123.24,4,tango
+5GpmLTQM0ho9CqSD4m0fI7,Alfredo De Angelis;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Medallita de la Suerte,21,157306,False,0.589,0.402,10,-7.754,1,0.0576,0.966,0.0,0.323,0.667,123.202,4,tango
+4sx98k6RgINV4846wg08ro,Alfredo De Angelis;Julio Martel;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Chorra,21,152800,False,0.63,0.398,5,-8.036,1,0.106,0.842,0.0432,0.0907,0.643,125.664,4,tango
+1NnJLnt5cQ2JMt4isDTK4c,Alfredo De Angelis;Nestor Rodi;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,La Cumparsita,22,201826,False,0.639,0.321,7,-10.795,0,0.0544,0.981,0.712,0.376,0.787,129.339,4,tango
+7r78WlCfwbSUjh09pSLYVb,Astor Piazzolla;Gary Burton,The New Tango: Recorded At The Montreux Festival,Nuevo Tango,21,339266,False,0.471,0.414,9,-15.288,1,0.0425,0.811,0.535,0.671,0.42,91.456,4,tango
+52S2u4yPGY8JoBCb4SnAc8,Nelly Omar,La Gardela,La Descamisada,21,97626,False,0.669,0.414,4,-4.771,0,0.099,0.987,0.0,0.153,0.677,95.806,4,tango
+3FqbGPHCdZsKzXKh1JAuOX,Astor Piazzolla,Octeto Buenos Aires,A Fuego Lento,21,215506,False,0.502,0.382,7,-13.776,0,0.0394,0.812,0.262,0.177,0.652,126.989,4,tango
+6FUENB3J4rmYyfifFD0njq,Astor Piazzolla;Astor Piazzolla Y Su Conjunto 9,Edición Crítica: Antología,Tristeza de un Doble A,21,429640,False,0.371,0.377,6,-9.774,0,0.0417,0.707,0.021,0.115,0.16,94.774,4,tango
+59RZGL6VqYByyTcMfSgu5V,Juan D'Arienzo y su Orquesta Típica,Serie 78 RPM : Juan D'Arienzo Vol.3,La Espuela,21,154866,False,0.709,0.407,2,-10.265,0,0.0387,0.974,0.901,0.267,0.743,110.086,4,tango
+2unHeRm95jN8mFxb0K27jO,Los Muchachos De Antes,Tangos Famosos Instrumentales,A Media Luz,21,93199,False,0.574,0.15,0,-11.617,1,0.0929,0.834,0.329,0.143,0.604,123.493,4,tango
+3DrEUFe7cjVJiomHj7vq76,Osvaldo Fresedo;Héctor Pacheco,Fresedo en Estéreo,Pero Yo Sé,21,181306,False,0.442,0.278,9,-11.168,1,0.0405,0.982,0.00129,0.214,0.427,115.992,3,tango
+0QvIPB2aY1W9boet0AmMHa,Orquesta Silbando,Manos Arriba,Yapeyú,21,149693,False,0.689,0.442,5,-6.409,0,0.048,0.85,0.632,0.107,0.821,136.49,4,tango
+0OTjI2uuSCcZ4wMgqPlTiB,Carlos Gardel,Antologia 60 Aniversario,Amores de Estudiante,22,153386,False,0.414,0.225,8,-12.665,1,0.0566,0.995,0.374,0.361,0.344,68.359,5,tango
+7c5dYMIdoo6pmrngkog4dk,Conjunto Berretin,Tangamente: Tangos a la parilla para bailar,CB Vals,21,187026,False,0.462,0.274,9,-14.356,0,0.109,0.467,0.00163,0.117,0.569,175.117,3,tango
+5QsuEm2ck9eSyXo7K7W4ag,Anibal Troilo y su orquesta;Alberto Marino,Romance De Barrio,Tres Amigos,21,195226,False,0.578,0.271,2,-7.098,1,0.0382,0.993,0.000237,0.138,0.458,121.773,4,tango
+19DWVHIuLe52qyeZATpp8x,Julio Martel;Alfredo De Angelis;Carlos Dante,Flores del Alma,Flores del Alma - Remasterizado,21,184424,False,0.601,0.541,7,-10.176,0,0.0469,0.9,0.688,0.175,0.832,104.951,3,tango
+1JZsiwOh0qLNm17xoLzeCk,Sexteto Mayor,Our Last Tango (Original Motion Picture Soundtrack),Ensueños,21,175360,False,0.601,0.21,4,-14.639,0,0.0551,0.751,0.06,0.162,0.562,113.812,4,tango
+69JN8WOEGbwJatCSM9tRza,Pepe Aguirre,Solo un recuerdo,Mañana zarpa un barco,22,120000,False,0.634,0.194,7,-19.068,1,0.12,0.98,2.4e-05,0.632,0.873,113.827,4,tango
+5oqVoS6pTr6ZssPJJErXiJ,Adriana Varela,Adriana Varela y Piano,Fuimos,21,280173,False,0.532,0.475,2,-8.383,1,0.166,0.886,0.0,0.791,0.344,90.289,4,tango
+5t0QIkUpZOoejnKXeZ8z2s,Maria Graña;Eladia Blazquez,María,El Corazón al Sur,22,243893,False,0.537,0.0831,1,-17.119,0,0.0752,0.943,0.0,0.106,0.13,96.526,3,tango
+2GOPmMSzvAWkwWV7gSBSPt,Adriana Varela,Adriana Varela y Piano,Nada,20,193346,False,0.569,0.436,10,-8.172,1,0.115,0.896,0.0,0.732,0.426,116.702,5,tango
+1Ffz40338QVTLU2FCJnVUb,Juan D'Arienzo;Héctor Mauré,Pensalo bien,Dime Mi Amor,21,159146,False,0.482,0.444,9,-6.729,0,0.0354,0.967,0.00891,0.0705,0.832,138.504,4,tango
+6M4LFutTr0fgFMOWmN0kYh,Maria Graña;Valeria Lynch,María,Nada,22,238826,False,0.355,0.202,8,-13.376,1,0.0422,0.949,2.85e-06,0.157,0.207,62.604,3,tango
+42fqz1R5JWF4SAPfiac8Sx,Floreal Ruiz,Marioneta,Por La Vuelta,21,186173,False,0.476,0.48,0,-4.762,1,0.032,0.907,0.00217,0.121,0.573,117.494,4,tango
+3vJJUrkIfbWhH2DwoquzjX,Carlos Gardel,Tango - Exitos De Oro De Carlos Gardel,Ladrillo,22,177554,False,0.522,0.232,7,-12.212,1,0.0483,0.886,0.0,0.224,0.608,121.87,4,tango
+15p6y25P4twiG2oOpWfEK0,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Hasta Que Ardan los Candiles,22,127000,False,0.712,0.343,8,-8.146,1,0.348,0.995,0.00028,0.13,0.703,124.813,3,tango
+3f4Zg35P1hes5EexmxBDar,Enrique Rodríguez;Armando Moreno,Obras Cumbres (Vol. 3),Mis Harapos,21,182183,False,0.777,0.423,5,-8.635,0,0.0482,0.828,0.463,0.0211,0.872,100.714,4,tango
+7p2PmcaQexuWvnaHSISBAp,Julio Martel,Tango Nostalgias (Música de Julio Martel),Quema Esas Cartas,21,183337,False,0.531,0.373,11,-7.389,0,0.0426,0.93,0.000518,0.105,0.597,98.468,3,tango
+5JHEq93ERWKQrqgea9RG8s,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Garufa,21,125906,False,0.551,0.434,7,-10.87,1,0.0292,0.833,0.963,0.0552,0.76,127.666,4,tango
+15SaAt309LBV0n17e5eSnP,Ignacio Corsini,"Colección Completa, Vol. 28 (Remasterizado)",Griseta - Remasterizado,20,136040,False,0.726,0.228,5,-16.387,1,0.278,0.96,5.02e-06,0.093,0.66,68.058,3,tango
+5RedKVl4tZ93XTZ0tEC0ft,Sexteto Mayor,Embajadores Del Tango (Grabado En Vivo En Alemania),Adios Nonino,21,243546,False,0.284,0.256,9,-13.297,1,0.0488,0.756,0.00199,0.121,0.214,73.155,4,tango
+1tPl0dbFShi9AjLFKW8zvT,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Volver (Remastered 2022),21,175599,False,0.365,0.353,1,-11.16,1,0.0473,0.992,0.000165,0.251,0.609,82.852,3,tango
+3qyx6h4cCuHpCcTYFSMKeb,Juan D'Arienzo,Juan D'Arienzo: Discografía Completa Vol. 2,Desde El Alma,21,131400,False,0.698,0.506,7,-9.284,1,0.0589,0.465,0.697,0.181,0.59,97.244,1,tango
+6OND53d1ja77nln2Btdnk6,Esko Rahkonen,(MM) Syvä kuin meri,Pikku syntinen,22,148733,False,0.383,0.271,6,-12.524,0,0.0517,0.491,0.000829,0.616,0.789,167.925,3,tango
+46YPj2gAuU9UVzrlmWuqHt,Astor Piazzolla;Roberto Goyeneche,Edición Crítica: Piazzolla-Goyeneche En Vivo,El Gordo Triste - En Vivo Teatro Regina 1982,21,241453,False,0.493,0.408,7,-13.327,0,0.353,0.635,0.0,0.793,0.538,110.442,5,tango
+4azVfiNg4qWsFCoLPULSFZ,Alfredo De Angelis;Juan Carlos Godoy,Bajo el Cono Azul,Quien Tiene Tu Amor,21,176653,False,0.565,0.262,9,-9.991,0,0.0452,0.835,0.0,0.252,0.591,119.614,4,tango
+4E4TXbQNSfYAsT9GIB7PFv,Juan D'Arienzo;Alberto Echagüe,Juan D'arienzo y Alberto Echague,Don Juan Mondiola,20,164440,False,0.62,0.588,7,-6.162,1,0.065,0.823,0.00036,0.474,0.71,133.666,4,tango
+0tDUG3Lcsf526yuPtJmI3p,Alfredo De Angelis;Oscar Larroca,Tango Classics 062: Como nos cambia la vida,En tus brazos,21,188659,False,0.512,0.528,7,-6.366,0,0.0389,0.967,0.0191,0.68,0.767,124.385,4,tango
+6wDk6dRv985txnU7oJpkHY,Astor Piazzolla,Piazzolla Tangos 6,Remembrance,21,289520,False,0.199,0.374,9,-7.667,0,0.03,0.844,0.613,0.266,0.133,80.425,4,tango
+2VaAx84O5vvWwI9QTeuq49,Roberto Goyeneche,Buenos Aires Conoce,Nada,22,159306,False,0.47,0.591,9,-6.042,1,0.0809,0.788,1.26e-05,0.21,0.651,81.005,4,tango
+7ELcwY1jden8kzvc1MYIVD,Carlos Gardel,El Ídolo del Tango,Recuerdo Malevo,22,147617,False,0.615,0.379,6,-9.764,1,0.0625,0.995,0.000335,0.287,0.75,122.758,4,tango
+7dzjhSeukXSHjXDgaogzMe,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Afiches (with Atilio Stampone y su Orquesta Tipica),22,185413,False,0.415,0.312,0,-9.239,1,0.0465,0.96,0.0148,0.143,0.476,82.36,4,tango
+71wzlKHB4nk5DyteVLvnDW,Carlos Gardel,Los Exitos De Sus Peliculas,Mi Buenos Aires Querido,22,162586,False,0.448,0.188,6,-8.918,1,0.115,0.983,0.0,0.107,0.363,79.022,3,tango
+1v5S2VvcB2cmih7P1rjptV,Malena Muyala,Temporal,Aquí,20,273907,False,0.594,0.254,4,-12.33,0,0.0305,0.908,0.00126,0.117,0.311,111.675,4,tango
+2Q1COShNh1VoZC31hsM5FA,Roberto Goyeneche,Historia de Oro,Por una Cabeza (En Directo),22,142082,False,0.548,0.445,1,-12.332,1,0.0534,0.841,1.76e-06,0.766,0.795,119.904,4,tango
+7cTf7hWKRLHEI2Wvcyxc1w,Julio Sosa,"100 Tangos, Vol. 4",El Ciruja,21,183226,False,0.606,0.486,1,-4.318,1,0.0822,0.932,2.96e-05,0.284,0.514,121.019,3,tango
+2lLQyNNKTdkVxTVz1Fq77o,Jorge Falcón,El Amor Desolado,Cuando Estemos Viejos,22,194640,False,0.294,0.326,2,-10.212,0,0.0447,0.806,1.61e-06,0.612,0.316,75.298,3,tango
+4DPpKuQnkqt30F7jMYI7tN,Adriana Varela,Vuelve el Tango,Afiches,20,197299,False,0.604,0.277,4,-12.755,0,0.0458,0.852,1.24e-06,0.0781,0.552,102.484,3,tango
+0RrJRKhum3Hy8C4MwFQ3p6,Ignacio Corsini,El Caballero Cantor del Tango,El Adiós,20,216360,False,0.696,0.372,9,-6.071,1,0.0578,0.969,1.71e-06,0.107,0.552,122.484,4,tango
+0wQCjEIm6HqRERWmgtU3KH,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Gricel (with Atilio Stampone y su Orquesta Tipica),22,183626,False,0.412,0.438,0,-8.828,1,0.0316,0.945,0.00812,0.107,0.37,108.875,4,tango
+5IXfbpgA2fDETI09slD588,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Un Tropezón (with Leopoldo Federico y Su Orquesta),21,193586,False,0.494,0.602,5,-10.39,1,0.188,0.926,7.75e-05,0.607,0.603,109.234,4,tango
+1PtZsX4W6Oe80V5mdh0oMg,Adriana Varela,Vuelve el Tango,Muñeca Brava,21,165051,False,0.63,0.0932,7,-16.836,0,0.0617,0.965,1.78e-05,0.104,0.633,106.427,4,tango
+2ViHHrrPlRdQhcZ6slsxiy,Julio Sosa;Armando Pontier y su Orquesta,Esenciales,La Casita de Mis Viejos (with Armando Pontier y su Orquesta),21,176320,False,0.621,0.685,5,-6.286,0,0.101,0.789,0.0,0.497,0.717,118.526,4,tango
+0ldyN0L13dgtUUWuYyiyAy,Alfredo De Angelis;Oscar Larrocca;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Por Qué Me das Dique,21,188586,False,0.655,0.329,0,-6.616,1,0.0471,0.956,0.000996,0.105,0.833,124.487,4,tango
+62wUu317Tyup7sCcuYC8FN,El Cachivache Quinteto,Orquesta de los Corazones Solitarios,Mi Serenata,21,171175,False,0.561,0.448,1,-7.884,0,0.0321,0.756,0.826,0.123,0.429,99.513,4,tango
+4gIe96UTtwNiS5C3BOWEC5,Armando Pontier,Cuando tallan los recuerdos,A Don Agustín Bardi,20,159400,False,0.685,0.126,7,-18.033,0,0.0425,0.771,0.809,0.249,0.58,120.367,4,tango
+6NvIIosKqhiT9JVgQWBvWV,Sandra Luna;Franco Luciani;Peteco Carabajal,Inmensidad,Perfume de Carnaval,21,237882,False,0.398,0.338,4,-11.001,0,0.0473,0.823,0.0,0.164,0.339,151.48,3,tango
+0OIG1Md2aT4k7uUCBXAnCO,Osvaldo Pugliese,Desde el alma,Patético,21,159053,False,0.516,0.435,10,-8.166,0,0.0491,0.937,0.784,0.445,0.56,126.926,4,tango
+7upnvFwyU0NyipS6AwBjOV,Sexteto Milonguero,7,Llorar por una Mujer,20,162586,False,0.652,0.492,0,-4.729,0,0.0648,0.631,0.216,0.359,0.623,139.413,4,tango
+2S3KA1pqODzrZmuqeRIWet,Eladia Blazquez,Serie De Oro,Viejo Tortoni,20,164373,False,0.464,0.371,9,-10.784,1,0.0459,0.811,0.0,0.292,0.67,107.67,3,tango
+3NBK1KYBB7K278yKrWugnY,Chino Laborde;Federico Mizrahi,El Tango,Tarde,20,221500,False,0.571,0.383,2,-8.25,0,0.0903,0.974,0.0,0.199,0.447,129.229,4,tango
+4KYPfZpN9haysWIStzfr3k,Ignacio Corsini,"Colección Completa, Vol. 14 (Remasterizado)",Caminito - Remasterizado,20,121920,False,0.617,0.135,6,-18.764,1,0.148,0.992,0.00034,0.0978,0.641,141.521,4,tango
+17iPZmaID95A2XxcTDBXoh,La Chicana,Lejos,La Mariposa,21,245733,False,0.552,0.342,4,-6.854,1,0.048,0.582,0.0,0.094,0.451,116.44,4,tango
+4AlYcFtrZo18Ctuqor6A6l,Miguel Montero,Antiguo Reloj De Cobre,Cucusita,20,164560,False,0.397,0.343,9,-13.172,0,0.121,0.883,8.32e-05,0.236,0.602,167.691,3,tango
+08mhBMcK6fFlL5vtzZpkRh,Astor Piazzolla,Piazzolla Tangos 5,La Evasion,20,365640,False,0.401,0.359,5,-16.39,1,0.0736,0.9,0.00213,0.862,0.507,104.221,3,tango
+1O6VIGaM6YDi8Z0lnbebIO,Juan D'Arienzo y su Orquesta Típica,Serie 78 RPM : Juan D'Arienzo Vol.1,Rie Payaso,20,150893,False,0.64,0.458,8,-8.437,1,0.0923,0.978,0.712,0.129,0.87,141.642,4,tango
+5BKVDepSXp8JxsDAFwgbF2,Tango Bardo,Del sur,Derecho viejo,21,154028,False,0.551,0.538,5,-5.901,0,0.0352,0.598,0.455,0.0723,0.793,133.22,4,tango
+2Nba128Em57k2QheeiDHP6,Francisco Rotundo,Las Canciones de Francisco Rotundo,El Viejo Vals,20,174573,False,0.624,0.509,2,-10.39,0,0.0505,0.961,0.00888,0.33,0.824,104.787,4,tango
+6SYfvfrVug82W9NZYXTrQ5,Carlos Gardel,Tango - Exitos De Oro De Carlos Gardel,La Cieguita,21,170187,False,0.656,0.224,5,-14.32,0,0.0772,0.884,1.15e-06,0.108,0.636,126.526,4,tango
+1C1QbefoPX3ubqXE7NP1s5,Osvaldo Pugliese,Tango Classics 178: La Tupungatina,La Rayuela,20,201386,False,0.397,0.205,4,-15.469,1,0.0346,0.953,0.347,0.129,0.422,116.665,4,tango
+6oHryDXnP5z3xcaE5QI88i,Carlos Gardel,Mi Buenos Aires Querido,Cuesta Abajo,21,190227,False,0.507,0.311,3,-5.669,1,0.0695,0.99,0.0,0.112,0.487,175.279,3,tango
+0ItPXdNM4F5Sns3yAcEFlV,Carlos Gardel,El Rey del Tango: 20 Éxitos,Insomnio,21,222053,False,0.494,0.403,10,-15.05,0,0.156,0.987,1.77e-06,0.389,0.421,107.609,5,tango
+3l7VP8kWcgUvjt4p00KzG3,Jaska Mäkynen,Espanjan Yöt,Kesäleski,22,200226,False,0.672,0.708,11,-4.987,0,0.0351,0.403,0.0,0.123,0.901,128.027,4,tango
+1VGKpIhvN8wI0WUt1NoyxO,Lidia Borda;Orquesta El Arranque,Tal Vez Será Su Voz,Fruta amarga,20,249240,False,0.482,0.404,0,-5.913,0,0.0397,0.809,0.0,0.163,0.493,111.594,4,tango
+3ZQbACbZocQridI7dQSjFz,Teuvo Oinas,Tanssikengät,"Kerran, Vain Yhden Kerran",21,191160,False,0.662,0.737,2,-4.339,0,0.033,0.677,0.0,0.188,0.864,109.47,4,tango
+0qG90x1kLxNzNeXPHhXLJN,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",La Última Copa (Remastered 2022),21,137732,False,0.691,0.29,2,-12.322,0,0.219,0.993,9.74e-05,0.11,0.676,126.028,4,tango
+2T0LCdHeA3yicxPtOdhlQe,Julio Sosa;Orquesta de Leopoldo Federico,En Esta Tarde Gris,El Último Café,20,190546,False,0.391,0.636,8,-8.328,1,0.0485,0.864,6.36e-06,0.0959,0.498,109.843,4,tango
+5fIYAGwzMDXx9RjQgD9K0h,Pedro Laurenz;Alberto Podestá,Presentando a Pedro Laurenz,Garúa,20,189120,False,0.612,0.277,4,-8.057,0,0.0462,0.98,0.216,0.15,0.724,121.822,4,tango
+6Gf830XX6Lrq7RDppb0oK7,Juan D'Arienzo,Las Canciones de Juan D'arienzo,Cicatrices 2,20,142293,False,0.625,0.492,9,-5.984,1,0.0372,0.953,0.537,0.42,0.894,127.909,4,tango
+565cVZONhoMyBkpDX9lywB,Julio Martel;Alfredo De Angelis,La Pastora,La Pastora - Remasterizado,21,191973,False,0.63,0.199,0,-10.883,1,0.0523,0.977,0.608,0.146,0.692,123.387,4,tango
+16JiOpV9K1aaowX5Omk2d1,Ángel Vargas,El Porteñito,Tres Esquinas,20,184546,False,0.823,0.326,11,-3.752,0,0.0503,0.96,0.00119,0.33,0.746,125.981,4,tango
+14qitt6U4hJfognNn1f1pB,Juan D'Arienzo;Alberto Echagüe,Tango Classics 084: Milonga del recuerdo,La cicatriz,20,139347,False,0.684,0.524,2,-8.544,0,0.0393,0.844,0.0988,0.209,0.96,104.771,4,tango
+0wf9KkvWyWSwFDprkBwE8O,Francisco Canaro;Roberto Maida,Tango Classics 234: Valsecito Amigo,Milonga Brava,20,152346,False,0.713,0.224,4,-17.585,0,0.0687,0.87,0.838,0.15,0.824,109.733,4,tango
+1hw4qPbWk1Pk1MTtCE5NqM,Carlos Gardel,Platinum Collection: The World's Best Tangos Vol. 3: Carlos Gardel,Milonguera,21,174204,False,0.678,0.26,11,-13.006,1,0.145,0.987,0.000187,0.0883,0.738,70.102,4,tango
+1yPElKbq4YLeBkYPhZtQjT,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Cuesta Abajo,20,185000,False,0.345,0.403,4,-12.998,0,0.0294,0.714,0.803,0.146,0.582,175.869,3,tango
+1XdT7DTiplnVSVvO3v3nWk,Carlos Di Sarli;Horacio Cásares,Tango Classics 213: Indio Manso,Hasta Siempre Amor,20,164530,False,0.413,0.285,2,-10.857,0,0.0404,0.596,0.0,0.544,0.683,115.896,4,tango
+3k9OQgDHCYVu0lpL7KFrkN,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Mano a Mano (Remastered 2022),21,185131,False,0.628,0.328,4,-10.799,0,0.254,0.99,0.00456,0.103,0.715,166.594,3,tango
+1W0voVAoKVow8VhpwWBHl5,Alberto Podestá;Rodolfo Lezica;Agustin Magaldi;Alberto Morán;Jorge Durán;Carlos Almada;Enrique Campos;Jorge Vidal;Mariano Leyes;Oscar Larroca;Armando Moreno;Alberto Marino,Grandes cantores del tango,Estampa tanguera,20,123240,False,0.595,0.387,5,-9.832,0,0.0693,0.965,0.000897,0.167,0.647,117.042,4,tango
+6YVT09tAK0fqWqzA61Gr3S,Julio Sosa,Mis Primeros Éxitos,La Última Copa,20,154044,False,0.551,0.246,9,-12.737,0,0.107,0.995,0.797,0.112,0.827,104.767,3,tango
+1HZiHEA6MVMCSzEE2VlV4j,Carlos Gardel,Milonguera: Des femmes et du tango,Aquel tapado de armino,21,146253,False,0.717,0.153,5,-13.439,0,0.144,0.983,0.00992,0.114,0.456,127.816,4,tango
+2viCIYNMD2Nli21t7GSvgH,Roberto Goyeneche,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Volvio Una Noche,21,188466,False,0.558,0.415,2,-7.777,1,0.0845,0.616,0.0,0.103,0.425,113.579,4,tango
+6YdvfH4OGNyTFZwcwnMXBt,Tita Merello;Carlos Figari,Tita De Buenos Aires,La Milonga Y Yo,20,147480,False,0.621,0.308,3,-9.357,1,0.369,0.823,0.0,0.0446,0.86,119.585,5,tango
+2dY4O7X5MS9VN4Dh51Tiy6,Roberto Goyeneche;Orquesta Tipica Porteña,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,El Cantor de Buenos Aires (with Orquesta Tipica Porteña),21,165346,False,0.505,0.548,2,-7.706,1,0.123,0.719,0.0,0.2,0.763,104.28,4,tango
+2tbO9KP3hnBI7BuE3OoQjL,Libertad Lamarque,Tangos Inmortales de Libertad Lamarque (Remastered),A media luz - Remastered,20,149546,False,0.529,0.177,7,-14.374,1,0.0425,0.987,3.55e-06,0.142,0.452,119.113,4,tango
+2WNAHa8E9j2LzEbA3SHhIT,La Chicana,Lejos,Nos Tenemos Que Ir,20,205520,False,0.578,0.467,0,-8.933,1,0.037,0.699,0.0003,0.291,0.558,100.883,4,tango
+0mbnoXmzOtn4oAl5bJIaDV,Melingo,Maldito Tango,En Un Bondi Color Humo,21,216066,False,0.575,0.447,9,-9.0,1,0.0746,0.836,2.17e-06,0.235,0.692,99.799,4,tango
+61hjEEBjGQV8IyI2NvDUwl,Julio Sosa;Leopoldo Federico y su Orquesta,Con Permiso Soy El Tango,Que Me Van a Hablar de Amor (with Leopoldo Federico y Su Orquesta),20,193573,False,0.395,0.552,5,-10.019,1,0.184,0.919,1.36e-06,0.633,0.633,84.181,3,tango
+3x4avp1I0TItgRFwytiTsX,Osvaldo Pugliese,Boleros y Tangos Clásicos Mix,Desde El Alma - Instrumental,21,179213,False,0.24,0.207,7,-14.124,1,0.0475,0.681,0.0694,0.0947,0.351,185.062,3,tango
+49lkVFcMRYAPzedMurU5VC,Alfredo De Angelis;Floreal Ruiz,From Argentina To The World,Marioneta,20,161853,False,0.707,0.237,7,-11.969,1,0.0849,0.927,0.000554,0.147,0.516,119.257,4,tango
+2kHxyL0ZbjHzBEZLxnLMSk,Tita Merello,Tita De Buenos Aires,Niebla Del Riachuelo,20,167546,False,0.54,0.3,5,-9.762,1,0.116,0.836,0.0,0.232,0.451,111.098,4,tango
+1kjZHiquPVNcV94tyz6Mt7,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Lalo Martel,Los 25 Mejores Tangos,No Aflojes,20,170186,False,0.584,0.356,0,-8.693,1,0.0363,0.942,0.00129,0.177,0.733,120.172,4,tango
+2i6TC7MsSE54t5odT0KIQi,Adriana Varela,Vuelve el Tango,Muchacho,20,154528,False,0.713,0.151,7,-13.226,0,0.0799,0.837,0.0,0.0874,0.63,111.129,4,tango
+4BpLeM1c7PvqBZ8ZB7A880,Aníbal Troilo;Roberto Fiorentino,Milongas para Bailar,Mano Brava,20,146666,False,0.707,0.57,0,-6.208,1,0.0499,0.89,0.551,0.261,0.922,113.989,4,tango
+12ZpSrEsrNSfT29sXLddXC,Alfredo De Angelis;Carlos Dante;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Que Nadie Sepa Mi Sufrir,20,182666,False,0.445,0.533,11,-7.736,0,0.0443,0.974,0.00411,0.201,0.769,100.948,4,tango
+6Qu6gOR1tcFalh0xjSyFVl,Nelly Omar,Selección de Éxitos,Miriñaque,19,162228,False,0.634,0.304,8,-11.793,1,0.236,0.985,0.0057,0.124,0.605,82.541,4,tango
+5BVSfgDNNS76sn4DfDurVo,Orquesta Tipica Victor,Orquesta Tipica Victor - RCA Victor 100 Años,Ventarrón,19,179960,False,0.664,0.196,0,-6.904,0,0.0433,0.985,0.00933,0.434,0.566,125.903,4,tango
+02Bx0G98YOFrJFhprEXQH2,Lucio Demare;Raúl Berón,Lucio Demare,Oigo Tu Voz,20,176986,False,0.52,0.156,9,-11.737,0,0.0468,0.959,0.000331,0.158,0.507,119.283,4,tango
+0jFGg2WAknjaNqyJXdTz6Y,Los Muchachos De Antes,Tiempos Viejos - Tangos Clasicos,Que Tiempos Aquellos,20,94000,False,0.641,0.396,2,-13.058,0,0.0572,0.941,0.835,0.121,0.915,173.221,4,tango
+0OyErGFVNbo6UNxOnnofjh,Orquesta Juan D' Arienzo,Orquesta Juan D' arienzo - La puñalada,Derecho viejo,21,153813,False,0.668,0.394,5,-7.381,0,0.0389,0.57,0.967,0.266,0.57,128.597,3,tango
+6sZckLW9bOvBqHuCSQzHRo,Osvaldo Fresedo,Fresedo en Estéreo,Nieblas del Riachuelo,20,144893,False,0.526,0.322,2,-8.721,1,0.038,0.895,0.476,0.258,0.583,125.002,4,tango
+1K3BGxyRLzfyPr0zo34OrA,Juan D'Arienzo;Héctor Mauré,Pensalo bien,Amarras,19,208760,False,0.569,0.368,2,-7.004,1,0.0487,0.99,0.15,0.315,0.638,123.181,4,tango
+71aiD8HnCH6OG3sMM54Nba,Francisco Canaro Y Su Orquesta,(1938 - 1952) Recordings - The Originals Series,Yo No Se Que Me Han Hecho Tus Ojos,20,214093,False,0.529,0.377,0,-10.072,1,0.0652,0.976,0.00564,0.198,0.457,88.109,3,tango
+2E5Mt0lLiOHvxGrJuguJnD,Carlos Gardel,Victoria,El Quinielero,21,159216,False,0.69,0.174,6,-17.868,1,0.33,0.989,0.000122,0.596,0.774,138.951,3,tango
+2r6oeepMQFtZGLBhNCyuos,Adriana Varela,Adriana Varela y Piano,Garúa,20,230426,False,0.638,0.545,4,-7.456,0,0.153,0.861,0.0,0.692,0.504,98.407,4,tango
+4wjO2nLDK5uJiYcDV752zU,Anibal Troilo y su orquesta,"Anibal Troilo ""Pichuco"" - Bs.As Tango -",Grisel,20,206720,False,0.442,0.334,0,-8.394,1,0.0326,0.981,0.00444,0.355,0.519,126.813,4,tango
+0i4DD28r4qZ4snbvpBfIUb,Sexteto Mayor,From Argentina To The World,Taconeando,20,227453,False,0.361,0.259,2,-13.516,0,0.0332,0.747,0.278,0.197,0.368,108.489,4,tango
+77DLJboUFvej3L6g3dqVyR,Solo Tango Orquesta,2010-2015,Flor De Lino,19,212200,False,0.372,0.391,7,-11.341,1,0.0407,0.946,0.00312,0.0689,0.186,106.65,3,tango
+5D9LibdoT4hL4VTKEFbYlS,Adriana Varela,Vivo (Deluxe Version),Mano a Mano,20,243000,False,0.512,0.473,7,-11.429,0,0.109,0.708,0.0,0.863,0.519,108.895,3,tango
+34vrK3lgywolG3SVyglWax,Adriana Varela,Tango en Vivo,Cambalache,20,257866,False,0.483,0.402,2,-14.097,1,0.0627,0.868,5.66e-06,0.969,0.717,93.127,4,tango
+2sNKxKZrkuFqJoiR2cEKuq,Carlos Di Sarli,Tangos Imprescindibles,Bar Exposición,20,162012,False,0.779,0.295,10,-9.111,1,0.0404,0.713,0.545,0.0871,0.496,118.361,4,tango
+4FWV2FO6fFRhSyAvbHoEcj,Carlos Gardel;Daniel Barenboim;Rodolfo Mederos;Héctor Console,Piazzolla et al : Mi Buenos Aires querido,Gardel / Arr. Carli: Mi Buenos Aires querido,21,236600,False,0.542,0.176,7,-14.148,1,0.052,0.731,0.101,0.0659,0.33,104.558,4,tango
+5ejPyznLS8W9KNBZJZpNvu,Esteban Morgado,Milongueros,Milonga de la puteada,20,155146,False,0.676,0.675,9,-4.488,1,0.0466,0.449,1.55e-05,0.0503,0.685,104.634,4,tango
+4DvWFLfDcAXvVQ1mW3AbZt,Eladia Blazquez,Serie De Oro,Gracias A Pesar De Todo,20,173880,False,0.452,0.182,0,-14.701,1,0.0747,0.864,0.0,0.0603,0.21,85.766,3,tango
+5dDoYnXRY5zdwONFTgLL6R,Astor Piazzolla,Piazzolla 4 Seasons of Buenos Aires,Otoño Porteño,20,309186,False,0.491,0.244,2,-12.917,0,0.0453,0.831,0.865,0.108,0.203,115.832,4,tango
+2Y8Q3wl1atQRqIdZ6jduUq,Juan D'Arienzo and his Orchestra,"The History of Tango / El Rey del Compas / Recordings 1938 - 1939, Vol. 2",La Cicatriz,20,143813,False,0.767,0.413,2,-8.07,0,0.0473,0.969,0.605,0.109,0.961,104.218,4,tango
+3V3pU7hmDxquqUvjdPuoCo,Juan D'Arienzo;Mario Bustos;Jorge Valdez,Tango Classics 084: Milonga del recuerdo,Baldosa floja,20,153924,False,0.56,0.548,0,-8.799,0,0.0369,0.837,1.3e-05,0.597,0.725,106.683,4,tango
+2HJQBy9ApsgENgL2fisJ3I,Esko Rahkonen,Keskiyön tango,Syvä kuin meri,21,199493,False,0.558,0.298,4,-10.06,0,0.0356,0.805,1.87e-06,0.0786,0.603,120.311,4,tango
+3AKDlJT8sEbS3QVHImwwEU,Astor Piazzolla;Roberto Goyeneche,Astor Piazzolla/ Roberto Goyeneche,La Ultima Curda - En Vivo Teatro Regina 1982,20,237026,False,0.438,0.242,7,-14.71,0,0.328,0.851,0.0,0.839,0.421,62.419,5,tango
+2u4Md1X7rMBAWWpGC4AKNp,Julio Sosa,Fonogramas de Oro,Volvio una Noche,19,195426,False,0.429,0.521,1,-10.71,1,0.0831,0.968,0.0488,0.127,0.76,112.475,4,tango
+0InuMffPL5zobCLHWd9GR2,Roberto Goyeneche;Astor Piazzolla,Esenciales,Balada para un Loco,20,266520,False,0.431,0.328,0,-9.884,1,0.243,0.934,8.44e-06,0.233,0.372,78.395,4,tango
+7y1W8vGjBqF7CsVCcN48c2,Ricardo Tanturi,Presentando a Ricardo Tanturi,Comparsa Criolla,20,171066,False,0.796,0.493,9,-3.373,0,0.108,0.804,0.457,0.0465,0.723,136.729,4,tango
+46j4cHjAvSZW8k2W4tqzGU,Tango Bardo,4 veces Pugliese,Patetico,20,180299,False,0.489,0.497,4,-7.73,0,0.0678,0.692,0.0435,0.239,0.518,122.19,4,tango
+4t2Ow4sdp8p8OVfpu2e1Ey,Azucena Maizani;Nelly Omar;Orestes Cufaro,"Vintage Argentine Tangos (1928 - 1954), Vol. 2",La canción de Buenos Aires,20,165982,False,0.516,0.258,5,-10.737,1,0.0545,0.679,0.487,0.148,0.749,123.092,4,tango
+7IUf8ktjINFKWXKCWDAucU,Héctor Varela,Antología: El As Del Tango (Remastered),Silueta Porteña - Remastered,20,187933,False,0.569,0.683,6,-5.685,1,0.0473,0.624,0.00755,0.0959,0.549,100.21,4,tango
+0NEUXBIimSCMfMnD0qpryf,Julio Sosa,Mejores Exitos,Guapo Y Varon,19,164989,False,0.5,0.603,7,-8.818,0,0.0486,0.885,1.68e-06,0.563,0.773,120.533,4,tango
+7h565rXnF2OD1S8P3tMO05,Ignacio Corsini,El Caballero Cantor del Tango,Charlemos,20,140066,False,0.678,0.411,2,-6.643,0,0.0678,0.871,6.04e-06,0.117,0.742,122.455,4,tango
+2fhTokoH0QZHlzwsrkdAz6,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Mi Buenos Aires Querido (Remastered 2022),20,159759,False,0.446,0.18,6,-12.174,1,0.0627,0.987,0.0,0.128,0.453,85.027,3,tango
+1TWDoN2SuVuUZk1OBByZzE,Julio Sosa,20 Great Tangos,Cambalache,19,192680,False,0.636,0.659,0,-3.769,1,0.15,0.659,0.0,0.0638,0.89,121.34,4,tango
+2Qs2SBIxInTmPSZ438l1WN,Tita Merello,Con El Tango En El Alma,A Mi No Me Hablen De Tango,20,139720,False,0.617,0.423,0,-8.195,1,0.102,0.781,0.0,0.329,0.769,132.578,4,tango
+3wDqial0Fb4LQirrPNpqDh,Julio Sosa,Julio Sosa: Discografía Completa Vol.1,Justo El 31,19,170906,False,0.496,0.418,0,-7.518,1,0.0417,0.902,0.0,0.111,0.791,119.487,4,tango
+17NxIdDjMOd1fchU6p6OI9,Miguel Calo;Raúl Berón,Música de Mi Ciudad,Que Te Importa Que Te Llore,20,161013,False,0.713,0.234,7,-11.368,1,0.13,0.878,0.289,0.377,0.779,123.737,4,tango
+1pImuyJVOwuhGJswxViSNc,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Naranjo en Flor (with Atilio Stampone y su Orquesta Tipica),21,159466,False,0.509,0.301,5,-12.082,0,0.0706,0.657,9.25e-05,0.0666,0.358,109.44,4,tango
+71vHOjN6VzODZKv8I6cZqv,Roberto Goyeneche,Como La Cigarra,Los Mareados (Los Dopados),21,226626,False,0.201,0.31,2,-11.791,1,0.0316,0.953,0.0048,0.22,0.0802,89.062,4,tango
+2jwCD2RekSwY91aIzaLLKa,La Chicana,Tango Agazapado,Milonga de los Perros,20,157666,False,0.765,0.468,10,-6.784,0,0.057,0.689,0.0,0.0879,0.725,96.027,4,tango
+4anInnPjzD0emtsCTAELYU,Argentino Ledesma;Orquesta de Héctor Varela,Imprescindibles,Muchacha,20,197903,False,0.45,0.436,7,-6.514,0,0.0446,0.776,0.0292,0.298,0.473,60.419,4,tango
+1k0DcHTh1dnq2tmZRhdfCj,Julio Sosa,El varón del tango (Remastered),As de cartón - Remastered,20,154328,False,0.568,0.439,11,-11.857,0,0.0694,0.948,0.0,0.384,0.809,123.061,4,tango
+7qBnjSEWqVNXw5AkYfkOrL,Roberto Goyeneche;Osvaldo Berlingieri y su Orquesta,Buenos Aires Conoce,Mi Buenos Aires Querido (with Osvaldo Berlingieri Y Su Orquesta),20,151360,False,0.447,0.517,9,-6.166,1,0.0505,0.45,0.000163,0.111,0.622,121.448,3,tango
+6FxdZqsqoU0WbmKExo2d8R,Julio Sosa;Leopoldo Federico y su Orquesta,30 Aniversario 1964/1994,Madame Ivonne (with Leopoldo Federico y Su Orquesta),19,192000,False,0.507,0.539,2,-9.017,1,0.208,0.821,0.0,0.173,0.64,106.356,4,tango
+3Fl5rCWIAzbycDtiU4HLQC,Julio Sosa,Grandes Éxitos De,El Firulete,19,133373,False,0.462,0.605,8,-11.469,1,0.156,0.944,0.024,0.542,0.706,119.459,3,tango
+5hGNkcjUUklWTl1YaZuBT3,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,Maestros Del Tango,El Último Café (with Baffa-Berlingieri y su Orquesta),21,171800,False,0.477,0.436,11,-8.97,1,0.0557,0.891,1.34e-05,0.357,0.572,117.414,3,tango
+7gGCqpmkmT5S1ndRIwuMNi,Alfredo De Angelis;Dante Carlos;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Milonguita (Esthercita),20,173146,False,0.458,0.373,1,-8.066,1,0.0343,0.866,0.0,0.18,0.692,128.32,4,tango
+5VRlnUAPPrSBSQYLzyC4L0,Alfredo De Angelis;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,Imaginación,19,137106,False,0.533,0.467,2,-10.552,0,0.0377,0.944,0.837,0.117,0.835,110.171,4,tango
+2bLIcaSs67qxe1bwJkRomK,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Roberto Goyeneche Interpreta A Homero Exposito - Serie Argentinisima,Afiches (with Atilio Stampone y su Orquesta Tipica),20,187693,False,0.446,0.308,10,-9.961,1,0.0432,0.835,0.000158,0.103,0.487,110.79,3,tango
+3Zvbsl9aCCBJnAiN6twZNf,Alfredo De Angelis;Juan Carlos Godoy,Los 25 Mejores Tangos,No Culpes al Amor,19,188160,False,0.527,0.262,5,-9.912,1,0.0401,0.772,0.0,0.168,0.516,123.594,4,tango
+7vBkXx83Ui48fX6G6y3h29,Leopoldo Federico,A Gran Orquesta,Responso,20,187000,False,0.528,0.304,7,-6.074,0,0.0393,0.759,0.0506,0.22,0.501,118.294,4,tango
+1BlKIFOIPRWYoaZaVM1GRC,Carolina Winograd,Soledad,Soledad,20,231373,False,0.367,0.29,11,-9.697,0,0.0356,0.85,0.000159,0.0996,0.273,89.494,5,tango
+3UD6QYLc3ywrZ5pzfBIWdy,Osvaldo Fresedo y su Orquesta Típica,Serie 78 RPM : Osvaldo Fresedo Vol.1,La Cumparsita,20,138466,False,0.459,0.207,8,-11.031,1,0.0468,0.965,0.845,0.144,0.436,133.033,4,tango
+73ruq8AAgS42eJhPpTNua7,Los Solistas,Homenaje A Juan D'Arienzo Vol 2,El Tarta,18,109866,False,0.735,0.524,5,-10.5,0,0.271,0.815,0.0218,0.261,0.895,136.685,4,tango
+1P77zNEkaHp4h3onP8eeMY,Adriana Varela,Vida Mía,Vida Mia,19,238477,False,0.548,0.44,3,-6.414,1,0.0328,0.759,0.0,0.321,0.535,106.412,4,tango
+6GLxiIefH1UoUH4JG9yVMX,Sandra Luna;Franco Luciani;Leonardo Andersen;Pablo Motta,Inmensidad,Naranjo en Flor,20,232089,False,0.419,0.228,9,-11.482,1,0.0758,0.902,1.88e-05,0.108,0.281,170.049,4,tango
+0Hnne5lFK5ppt6UO4BzYjc,Julieta Laso,Martingala,Las Tribus,20,225771,False,0.568,0.391,4,-8.827,0,0.0295,0.43,0.000156,0.111,0.343,97.943,4,tango
+4mr60Kigj314AZFFruc1zY,Astor Piazzolla,Lumiere,Zita,19,270120,False,0.514,0.248,9,-14.946,0,0.0386,0.794,0.92,0.0922,0.201,137.035,4,tango
+1x0qP5pQy0BYh5GZ9qvJ8J,Rubén Juárez;Carlos Garcia,20 Grandes Exitos,Mi Bandoneon Y Yo,20,168906,False,0.573,0.249,10,-14.947,1,0.0747,0.882,0.0,0.11,0.778,109.519,4,tango
+557XkLz0als6r5jZMVMUsG,Augustín Magaldi,Paciencia,Paciencia,20,171226,False,0.564,0.354,7,-3.258,0,0.0493,0.932,0.0,0.231,0.577,88.276,3,tango
+0cRoLrH31rSUAxNfYtwfpW,Sexteto Cristal;Guillermo Rozenthuler,Viento Del Norte,Flor de Montserrat,20,135040,False,0.676,0.362,0,-9.342,1,0.0464,0.524,0.00864,0.116,0.65,106.014,4,tango
+0woV6n1aEv5C5b3D52nuJQ,Héctor Varela,Serie De Oro,Yuyo Brujo,19,161733,False,0.552,0.385,0,-8.218,1,0.0652,0.933,0.000953,0.101,0.687,124.535,4,tango
+1QplKn85fm0NV64MdcTfYe,Osvaldo Fresedo,Fresedo en Estéreo,Buscandote,19,170853,False,0.474,0.367,1,-10.784,1,0.0321,0.961,0.00205,0.14,0.522,126.02,4,tango
+4Z1DVjzaSqXc0eC3yOFnZI,Carlos Gardel,Poesía Lunfarda,Chorra,21,126240,False,0.714,0.216,3,-18.115,1,0.243,0.98,0.000175,0.109,0.696,126.645,3,tango
+6Srqbvc1Bu92gUu1l8eB9w,Carlos Gardel,Victoria,Seguí Mi Consejo,20,138161,False,0.721,0.304,9,-14.948,0,0.471,0.958,0.0,0.0911,0.722,75.857,5,tango
+400iCwuCpkPENqK4K49Si2,Orquesta Tipica Buenos Aires,Tangos Eternos,Garufa,20,163360,False,0.659,0.134,0,-11.607,1,0.0509,0.834,0.513,0.259,0.749,120.64,4,tango
+4Ima2Qv7lWU1CbhLd4rQLn,Jorge Valdez,Jorge Valdez - Hasta siempre amor,Hasta siempre amor,20,161200,False,0.488,0.432,0,-8.977,0,0.0442,0.934,0.000129,0.256,0.731,120.796,4,tango
+7c92cTydAXc4dmwTsjMkwl,Enrique Rodríguez;Armando Moreno,Mujeres Feas,Sonia,19,215546,False,0.615,0.49,0,-8.426,0,0.0349,0.593,0.499,0.37,0.819,129.133,4,tango
+0tOop9KPWI8FKigU7TAAbr,Sexteto Milonguero,"Pa' Que Bailen, Vol. 4",Tres Esquinas,19,192866,False,0.755,0.422,0,-4.6,1,0.0466,0.739,0.00183,0.241,0.815,124.867,4,tango
+11SY0YXA8SXZDhq1RSoXOh,Rodolfo Biagi,"Tangos para Aficionados, Vol. 1","Picante, Milonga",0,132560,False,0.761,0.281,7,-12.285,1,0.102,0.842,0.814,0.0916,0.842,104.245,4,tango
+7Bn3eIFScm9zOa4WM1v5jn,Julio Sosa,El Ciruja (En Vivo),El Ciruja - En Vivo,19,202706,False,0.47,0.651,1,-9.352,1,0.0707,0.923,0.000759,0.325,0.368,122.417,3,tango
+5deuGzLGKkr2UNCdb344ts,Pepe Aguirre,Solo un recuerdo,Muneca de loza,21,109876,False,0.652,0.316,4,-8.412,0,0.174,0.956,0.000512,0.158,0.869,107.366,4,tango
+4xl6BJW1ArD14kxNAZoVHG,Pepe Aguirre,Dejame morir,Frivolidad,20,193004,False,0.642,0.538,1,-8.312,1,0.136,0.995,0.486,0.159,0.91,96.521,4,tango
+3kMTsApycVapS5vvWrVR3N,Jorge Vidal,El motivo (Historical Recordings),Milonga burrera,19,200875,False,0.611,0.391,10,-15.617,0,0.183,0.93,0.000289,0.139,0.725,100.894,4,tango
+53ALpqfDW4u0VgVNh6qcIP,Ada Falcón,Tus Besos Fueron Míos,Yo No Se Que Me Han Hecho Tus Ojos,19,208430,False,0.631,0.261,2,-8.626,0,0.173,0.992,9.29e-05,0.0976,0.623,86.945,3,tango
+3QWtOTeMLoQfnAYMmQAfD6,Teemu Roivainen;Camilla Bäckman,Pohjolan joulu,Poika ja tähti,20,224214,False,0.364,0.254,1,-11.015,0,0.0307,0.792,0.0,0.104,0.207,89.821,4,tango
+2wDOH5jCd3kN7Hj3eTvtfr,Amores Tangos;Julia Zenko,Fronterabierta,Nada,19,223166,False,0.408,0.316,5,-12.107,1,0.0441,0.676,0.0,0.173,0.343,79.34,1,tango
+5PP8xFxPRjxxHN9JGpz4Ul,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Chorra (Remastered 2022),20,124865,False,0.688,0.341,3,-12.204,1,0.185,0.987,0.000145,0.0873,0.618,129.914,3,tango
+0lRyppKH2NUmyYaFVnfzjm,Tango Bardo,Rustico,Mi dolor,19,168344,False,0.629,0.403,2,-8.063,1,0.041,0.583,0.341,0.0955,0.799,123.139,4,tango
+0JTMwG6JTJ05O8EfL4sEFD,Pedro Laurenz;Martín Podestá,Que Nunca Me Falte,La Vida Es Una Milonga,19,144880,False,0.746,0.47,5,-4.538,0,0.0424,0.962,0.0171,0.403,0.905,109.196,4,tango
+6wTRZqGXcMRXCXYFUAqXL4,Malena Muyala,Puro Verso,La Última Curda,19,258529,False,0.414,0.227,9,-8.563,0,0.0628,0.834,0.0,0.0959,0.273,166.193,4,tango
+6EmQbBIoWCG8Cu4BLOAFPJ,Pedro Laurenz;Alberto Podestá,Presentando a Pedro Laurenz,Recién,19,161000,False,0.557,0.278,0,-8.012,0,0.0387,0.978,0.875,0.166,0.659,121.675,4,tango
+6CBr1ll9YnZJSPueJwtYrp,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,El Dia que Me Quieras,20,197066,False,0.291,0.253,2,-12.899,1,0.0368,0.749,0.13,0.274,0.263,116.725,4,tango
+55utEbytZQB7lm2fsK4anY,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Volver,20,175466,False,0.34,0.379,1,-10.24,1,0.0357,0.995,0.0134,0.419,0.399,140.034,5,tango
+36tALrZpv0URSni85OsKSc,Ricardo Tanturi;Alberto Castillo,Presentando a Ricardo Tanturi,La Vida Es Corta,19,144173,False,0.508,0.435,9,-5.93,1,0.0477,0.985,0.036,0.0634,0.808,138.331,4,tango
+0vBrxlZFXrtsstVo8G1Mx3,Julio Sosa,Varón (Remastered),La cumparsita - Remastered,19,184508,False,0.499,0.472,7,-10.463,0,0.0713,0.918,0.000873,0.237,0.67,121.304,4,tango
+2OKST9YTWMleTr5SAdbaEG,Miguel Calo;Raul Iriarte,Fruta Amarga,Rebeldia,19,176773,False,0.496,0.297,1,-11.884,0,0.0414,0.877,0.654,0.244,0.548,125.217,4,tango
+6jd7yLNatOkOFdyW3irQNp,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Hoy Es Tarde (with Leopoldo Federico y Su Orquesta),19,170853,False,0.499,0.562,0,-9.072,0,0.127,0.768,0.0,0.461,0.645,110.176,4,tango
+1j2y95K4ZTmmDJEHBYWcwo,Tita Merello,Serie De Oro,Niño Bien,19,130066,False,0.785,0.538,7,-7.079,1,0.318,0.796,0.0,0.172,0.796,138.348,4,tango
+6FrRtrFbeot1rzUz7q8HwU,Tita Merello,Serie De Oro,Naipe Marcado,19,139226,False,0.587,0.44,9,-7.782,1,0.0946,0.81,0.0,0.115,0.73,111.109,4,tango
+1rc0O9FmSG1AANF8L9vRqR,Alfredo De Angelis;Floreal Ruiz,From Argentina To The World,Mi Novia De Ayer,19,154373,False,0.513,0.305,10,-12.174,1,0.0574,0.965,0.169,0.0787,0.631,106.091,4,tango
+0fWvlSc6ZDPeRO84qxRdDL,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Antologia Roberto Goyeneche,Naranjo en Flor (with Atilio Stampone y su Orquesta Tipica),20,157160,False,0.471,0.387,5,-8.278,1,0.0577,0.853,9.14e-06,0.188,0.29,115.182,4,tango
+6UOgL5MVmeoQHoAwmSXlkA,Alfredo De Angelis;Oscar Larroca,Medallita De La Suerte,Bailarín Compadrito,19,183200,False,0.592,0.42,7,-4.601,0,0.0396,0.958,8.35e-06,0.048,0.87,125.396,4,tango
+3KEcFpJdn8AxtNi7gG8KWc,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Cuando Era Mía Mi Vieja (with Leopoldo Federico y Su Orquesta),19,162293,False,0.411,0.635,9,-8.807,1,0.0834,0.89,0.0,0.356,0.516,85.096,3,tango
+0s9XNze6hBXm0DTBXLohft,Alfredo De Angelis;Oscar Larroca,Medallita De La Suerte,Hacelo Por La Vieja,19,172400,False,0.537,0.432,11,-5.849,0,0.0337,0.937,0.000139,0.206,0.854,128.119,4,tango
+4mVTZmnSIb4QuVTLNVN1rs,Julio Sosa,El varón del tango (Remastered),Dicen que dicen - Remastered,19,190209,False,0.518,0.474,10,-9.327,1,0.09,0.893,2.09e-06,0.0653,0.715,122.558,4,tango
+79AMlHJQPhgOi4GIIYoX2J,Jorge Falcón,Mis 30 Mejores Tangos,La Última Copa,20,169293,False,0.398,0.356,2,-10.543,0,0.043,0.885,3.88e-06,0.39,0.632,113.292,4,tango
+6zPcpoeGOcGNfl2qR2IjYO,Jorge Falcón,Mis 30 Mejores Tangos,Volver,20,187933,False,0.427,0.412,2,-9.747,1,0.0636,0.946,0.000235,0.2,0.623,111.411,4,tango
+6ikkSZ4TaeGncLqH9OQoke,Roberto Goyeneche;Adriana Varela,La Última Curda,Balada para un Loco,20,232524,False,0.348,0.333,9,-13.36,1,0.156,0.843,0.0,0.814,0.505,74.683,3,tango
+5qysofkEsc4u8TMiOKbydJ,Aníbal Troilo;Roberto Fiorentino,Milongas para Bailar,Ficha de Oro,19,169893,False,0.613,0.515,4,-6.84,1,0.0359,0.972,0.105,0.133,0.828,109.646,4,tango
+6b5ZatK2kYAueryQZpBoX4,Astor Piazzolla,The Lausanne Concert (Live),Operacion Tango - Live,19,628173,False,0.325,0.234,1,-14.881,0,0.0427,0.797,0.322,0.703,0.162,68.826,4,tango
+37IQaVXOJcr6LE6qzyvbvs,Ada Falcón,Serie De Oro,Ventarron,18,174600,False,0.615,0.253,9,-10.067,0,0.0673,0.986,0.0,0.398,0.5,116.031,4,tango
+3ucjjE6eunnebQmC9qO0S6,Dino Saluzzi,Dino Saluzzi - RCA Victor 100 Años,La Humilde,21,135360,False,0.581,0.495,9,-8.343,0,0.128,0.561,0.502,0.0452,0.661,157.844,3,tango
+7CofGCGki4IGpgtcFzuZOg,Aníbal Troilo;Alberto Marino,Toda Mi Vida,Cristal,19,201093,False,0.434,0.332,2,-6.475,1,0.0352,0.992,0.0177,0.166,0.393,122.659,4,tango
+33OWf1qS06w2KYV2c8aEzn,Osvaldo Pugliese,Tango Classics 178: La Tupungatina,N.N.,19,151277,False,0.547,0.337,0,-13.559,0,0.0488,0.651,0.00221,0.245,0.683,122.188,4,tango
+6TimcYUlfSGOs1Qc7RE3jm,Orquesta Tipica Victor,Serie 78 RPM: Orquesta Típica Victor Vol.1,Una Vez,18,199520,False,0.669,0.233,7,-10.061,1,0.0413,0.982,0.0165,0.344,0.495,125.35,4,tango
+6Y0EIzZmLz9zWQineeK6Kz,Ariel Ardit;Andrés Linetzky,"Intimos, Vol. 1 en vivo en Bebop",Quedemonos Aqui - En Vivo,18,236708,False,0.417,0.313,2,-9.524,0,0.0533,0.882,5.9e-05,0.648,0.335,63.269,4,tango
+3gnFE89wbGS5xLL1knFOsM,Carlos Gardel,Victoria,"Che Papusa, Oi",19,140695,False,0.725,0.203,7,-13.306,1,0.154,0.984,0.000106,0.102,0.72,71.888,4,tango
+4M8SAMzAQfDPmUZbLVpv0Z,Pedro Laurenz;Alberto Podestá,Que Nunca Me Falte,Recién,19,161000,False,0.559,0.281,5,-7.932,0,0.0378,0.979,0.83,0.174,0.635,121.408,4,tango
+0odNmnqNlvHuZGBGRLypUP,Osvaldo Pugliese;Alberto Morán,Pugliese Por Pugliese,Una Vez,19,188600,False,0.438,0.373,10,-10.108,0,0.036,0.975,0.348,0.112,0.378,122.497,4,tango
+4jxVB5FAbcfEIKGhW5KqWm,Eladia Blazquez,Con las Alas del Alma,Con las Alas del Alma,19,256226,False,0.432,0.272,3,-11.047,1,0.0301,0.924,0.0,0.0938,0.333,83.079,3,tango
+1z8101gVAHnL1l1VYbKpXp,Sexteto Cristal;Guillermo Rozenthuler,Viento Del Norte,S.O.S.,19,161610,False,0.589,0.365,4,-7.283,0,0.0326,0.591,0.0442,0.0717,0.622,126.396,4,tango
+3Fn5dZMBavEyWWQUqL7gIw,Lucio Demare;Raúl Berón,Lucio Demare,No Nos Veremos Mas,18,157253,False,0.557,0.406,7,-10.905,0,0.0518,0.97,0.895,0.32,0.747,95.919,4,tango
+3HLe2VqwHOLtyR4limNaYK,Astor Piazzolla,Piazzolla 4 Seasons of Buenos Aires,Libertango,19,249466,False,0.415,0.527,9,-12.271,0,0.0651,0.872,0.291,0.714,0.509,157.862,4,tango
+7hpCXzUdgp4I1aX45W7514,Chino Laborde,El Tango,Desencuentro,19,158487,False,0.486,0.403,11,-9.602,0,0.107,0.958,0.0,0.103,0.269,79.376,4,tango
+4Mgh02EBXSOtOfx9fY0i5Z,Astor Piazzolla,Piazzolla Tangos 10,Divertimento Nueve,19,352920,False,0.425,0.446,6,-8.763,0,0.047,0.485,0.613,0.687,0.255,135.1,4,tango
+3l68O6MdjNjEarDHko5bTv,Hugo Díaz,Tangos,Por Una Cabeza,19,196440,False,0.609,0.426,9,-8.544,1,0.0574,0.763,0.302,0.117,0.606,107.878,4,tango
+79eRWbMdqVC8TNltyoYT52,Adriana Varela,Adriana Varela y Piano,Sur,18,204306,False,0.543,0.493,5,-8.612,1,0.0523,0.881,0.0,0.783,0.389,114.702,4,tango
+1U6whn4lbiLXNXPmtz7uO8,Carlos Gardel,La Historia Completa De Carlos Gardel - Volumen 22,La Canción De Buenos Aires,19,137320,False,0.694,0.313,10,-10.177,1,0.119,0.992,2.2e-05,0.0945,0.701,124.716,1,tango
+74JePFevZUMKT5ku1NseNt,Adriana Varela,Tangos,Volver,18,219422,False,0.546,0.114,4,-14.482,0,0.0487,0.807,0.0,0.153,0.601,100.483,4,tango
+0nXzeBrrJOkDyX4RbVtX2A,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Donde Estás Corazon,18,168266,False,0.482,0.227,9,-14.173,1,0.0329,0.664,0.554,0.0791,0.621,118.783,4,tango
+2gqg1BzLIKhNq1rxCfP3iJ,Julio Sosa,Varón (Remastered),El firulete - Remastered,18,132864,False,0.407,0.523,8,-11.176,1,0.145,0.95,2.78e-06,0.718,0.649,137.451,3,tango
+34XYMzu7cmqQjItV8mJ77m,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Para dos,18,175046,False,0.633,0.219,9,-11.805,0,0.0887,0.72,0.692,0.113,0.537,118.814,4,tango
+0I9nwVC6T0YbInKR0P1EQt,Juan D'Arienzo;Alberto Echagüe,Juan D' Arienzo,Las Cuarenta,19,150840,False,0.653,0.376,8,-14.643,1,0.373,0.964,0.291,0.127,0.905,125.719,4,tango
+4PjAG5Q2ATlySeAgqlA3JY,Ricardo Tanturi;Enrique Campos,"Tangos para Aficionados, Vol. 1",Recien,0,164333,False,0.507,0.278,2,-17.178,1,0.115,0.645,0.906,0.285,0.405,124.417,4,tango
+1XIIRCIEMRjrPEDl3ewhZJ,Roberto Goyeneche;Orquesta Típica Porteña,Esenciales,El Gordo Triste (with Orquesta Tipica Porteña),20,210746,False,0.389,0.341,4,-10.365,0,0.0839,0.86,1.9e-05,0.116,0.24,170.104,3,tango
+1L8cVx6cINoBZwRSbMyfFn,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Desde el Alma,18,117400,False,0.354,0.288,9,-14.186,0,0.0332,0.913,0.64,0.134,0.501,96.381,1,tango
+1y5nMCTcIwrpFveTchcSP4,Astor Piazzolla;Fernando Suárez Paz;Pablo Ziegler;Oscar López Ruiz;Héctor Console,Libertango,Decarìssimo,19,174706,False,0.46,0.55,11,-9.058,0,0.0968,0.686,0.457,0.853,0.477,125.724,4,tango
+03ejtfgqMxjVriXBQhav1h,Carlos Di Sarli;Roberto Florio,Tango Classics 211: Buenos Aires,Y Todavia Te Quiero,18,197654,False,0.449,0.252,11,-12.946,0,0.0474,0.908,0.0,0.145,0.521,108.356,4,tango
+4PXnwRGWH9VKDxdf09JV6e,Roberto Goyeneche,Uno,Barrio De Tango,19,152493,False,0.548,0.341,4,-7.015,1,0.0453,0.772,4.91e-06,0.253,0.418,114.007,4,tango
+5BPhVkHioY3yezC05rlAEX,Alfredo De Angelis;Juan Carlos Godoy,Yo Soy El Tango,Angélica,19,164440,False,0.567,0.432,9,-8.302,0,0.0368,0.942,0.0024,0.272,0.705,96.684,4,tango
+3oV7AZATCUy6VP8rutfRb5,La Chicana,Ayer Hoy Era Mañana,Baldosa Floja,19,143706,False,0.626,0.352,2,-12.031,0,0.0557,0.845,0.0,0.108,0.856,98.346,4,tango
+0APucUguXQIkBwtUpEAgxQ,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Carlos Gardel,19,156360,False,0.459,0.268,7,-12.841,1,0.0433,0.655,0.0609,0.321,0.601,119.944,4,tango
+1jfDVN8ZtK1CoOlM7ZWiSa,Julio Sosa,"100 Tangos, Vol. 4",Secreto,18,208186,False,0.523,0.512,9,-4.938,0,0.0716,0.859,1.31e-05,0.316,0.665,120.246,4,tango
+6CGQLYFna6APl9jGLUhduD,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Tomo y Obligo,19,134413,False,0.564,0.36,0,-11.541,0,0.037,0.815,0.304,0.249,0.603,115.416,4,tango
+15g62d5S8sM0dsnEnUJQp4,Mercedes Simone,Presentando a Mercedes Simone,Celosa,18,173800,False,0.569,0.327,7,-9.995,1,0.191,0.98,0.000121,0.13,0.602,179.608,3,tango
+0B4TPCmwaKjpWf6dYac1Jv,Aníbal Troilo;Alberto Marino,"The History of Tango, Anibal Troilo & Alberto Marino, Recordings 1943 - 1947",Sombras nada mas,19,178093,False,0.434,0.39,5,-9.579,1,0.0349,0.976,0.0591,0.0999,0.741,125.387,4,tango
+0dHSlVVbPb7hiGdlkMv6vB,Libertad Lamarque,Caminito (Remastered),Caminito - Remastered,19,185733,False,0.48,0.101,0,-11.186,1,0.0516,0.949,1.24e-05,0.109,0.345,111.087,4,tango
+2Or0MwUYh5isC2n96vr1iE,Miguel Calo,Que Falta Que Me Hacés,Percal,19,172599,False,0.735,0.406,7,-6.367,0,0.0407,0.957,0.151,0.128,0.579,125.965,4,tango
+6TC9YsMMU511IsjZwGhEmF,Malena Muyala,Viajera,Malevaje,19,147586,False,0.648,0.263,7,-9.945,1,0.0972,0.918,1.14e-05,0.107,0.589,119.472,4,tango
+5lzWaLo9fTcYDHIx1w0MQM,Julio Sosa;Leopoldo Federico y su Orquesta,Reciedumbre Y Ternura,En Esta Tarde Gris (with Leopoldo Federico y Su Orquesta),19,228173,False,0.48,0.544,7,-8.386,0,0.067,0.871,0.000219,0.413,0.491,115.293,4,tango
+6UvWAyZcwqy6Zm6d0RFzBZ,Tita Merello;Francisco Canaro,Serie De Oro,De Contramano,18,113733,False,0.673,0.372,5,-9.663,1,0.314,0.881,0.0,0.112,0.853,85.143,3,tango
+5PhK0I3glZ7vzU0Nkvvc8P,Tita Merello;Francisco Canaro Y Su Orquesta Tipica,La Merello,Se Dice De Mi,18,208760,False,0.594,0.475,4,-11.088,0,0.311,0.856,0.0,0.413,0.454,128.281,4,tango
+3m4ptSPzpFKnhscxcfUydL,Tita Merello,La Merello,Que Vachache,19,137280,False,0.64,0.395,7,-10.896,1,0.181,0.827,0.0,0.0918,0.81,131.45,4,tango
+0Z8PgxssV962MphSG6FXBU,Juan D'Arienzo,Orquesta Juan D' Arienzo - La cumparsita,El pañuelito,18,191733,False,0.56,0.365,7,-11.744,0,0.0755,0.717,0.0,0.088,0.65,129.52,4,tango
+0mop4Gj3Z8cSFvWxodQmFd,Julio Sosa;Orquesta de Leopoldo Federico,The Voice of Tango,Milonga del 900,18,138040,False,0.516,0.652,9,-9.451,1,0.0932,0.918,0.0,0.11,0.934,107.407,4,tango
+4jDpCp7eSDKXxr6p0cXebI,Miguel Calo;Alberto Podestá;Orquesta de Miguel Caló,Los 25 Mejores Tangos,El Bazar de los Juguetes,19,194386,False,0.546,0.337,11,-5.66,0,0.0445,0.935,5.6e-06,0.352,0.532,117.353,4,tango
+0pMHxnadUGUJfDM4R8Ek5C,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Caminito,18,204400,False,0.398,0.374,2,-9.96,1,0.0435,0.905,2.03e-06,0.119,0.339,108.59,4,tango
+3x45h4EEnn1dpvRM9f1lsT,Alfredo De Angelis;Carlos Dante;Julio Martel;Orquesta de Alfredo De Angelis,Los 25 Mejores Tangos,No Vuelvas María,18,175373,False,0.423,0.321,3,-12.398,1,0.035,0.943,0.00803,0.256,0.705,99.846,1,tango
+19Ygs39Dx80Hj4Vr8GeE8M,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Julio Martel,Los 25 Mejores Tangos,Bajo Belgrano,18,160613,False,0.676,0.313,5,-6.561,0,0.0524,0.943,0.000575,0.0553,0.835,126.92,4,tango
+39ZecmnMc3r0ee31dZ4Yvv,Sexteto Milonguero,7,Llorar por una Mujer,18,162586,False,0.649,0.493,8,-4.713,1,0.0648,0.644,0.106,0.363,0.613,139.569,4,tango
+6qOubdq3Nh6XOlz9a0bgVU,Julio De Caro,Mala Pinta,Derecho Viejo I,19,161600,False,0.548,0.343,5,-6.862,0,0.0324,0.755,0.000263,0.0823,0.34,121.67,4,tango
+2Y6UTWgrRMDoR8BlbGzHjU,Olavi Virta,Olavi Virta,Täysikuu,21,183960,False,0.503,0.151,0,-11.434,1,0.0437,0.924,1.9e-05,0.166,0.526,118.682,4,tango
+5XtA15LMdlmo0t42IrwHOB,Los Solistas,Homenaje A Juan D'Arienzo,Paciencia,18,111373,False,0.667,0.378,6,-13.023,0,0.0833,0.937,0.0696,0.246,0.866,129.429,4,tango
+2LngfCtXG68gcfX0nOiVzG,Roberto Firpo;Ignacio Murillo,Tango Classics 314: Tristeza Criolla,Vals del Recuerdo,19,127657,False,0.455,0.493,11,-8.31,1,0.0743,0.933,0.664,0.685,0.84,173.936,3,tango
+4PIamC8GQJvPKxCipMvPGr,Hugo Del Carril,El Dia Que Me Quieras,La Cumparsita,18,158320,False,0.415,0.176,10,-13.642,1,0.0358,0.995,0.229,0.1,0.481,123.994,4,tango
+6F8X3S2aYBI4cU7hBZbpPo,Astor Piazzolla;Alison Balsom;Guy Barker;Guy Barker Orchestra,Paris,Piazzolla: Oblivion,19,248226,False,0.147,0.265,0,-11.936,0,0.039,0.977,0.942,0.132,0.0905,96.769,4,tango
+7bL2rZE7abxythX3EnbUnf,Julieta Laso,La Caldera,Hoy Es Nunca,18,161235,False,0.553,0.359,5,-8.708,0,0.0357,0.678,0.0,0.109,0.297,100.616,4,tango
+0Gyi3V39qLWRkleVrDQHXw,Ricardo Tanturi;Enrique Campos,Ricardo Tanturi y su orquesta tipica. Los Indios,Sollozo de bandoneon,18,157880,False,0.617,0.352,7,-8.643,0,0.0463,0.926,0.00455,0.187,0.602,123.391,4,tango
+5DKZYnQTWZ5eJ1uMX2sI0p,Solo Tango Orquesta,2010-2015,Quejas De Bandoneon,18,167813,False,0.433,0.409,2,-11.161,1,0.0377,0.523,0.0683,0.104,0.443,119.332,4,tango
+0sqfRywxJMsf3xYayI2LvF,Ricardo Malerba;Orlando Medina,Presentando a Ricardo Malerba,Mariana,18,141053,False,0.721,0.438,0,-10.715,1,0.0924,0.959,0.459,0.0702,0.644,103.161,4,tango
+4ePAI5YIutnOkBtYcsoBcT,Miguel Montero;Mariano Mores,Adios Pampa Mia,Porque La Quise Tanto,17,221333,False,0.359,0.171,9,-13.964,0,0.041,0.924,1.01e-06,0.0968,0.421,84.685,4,tango
+6B3OKQ86qeQNIIveiCjLxz,Sexteto Cristal;Guillermo Rozenthuler,Viento Del Norte,Vals del Recuerdo,19,120812,False,0.335,0.502,4,-8.712,0,0.0498,0.867,0.000657,0.202,0.935,182.772,3,tango
+2kFAFkE3sTgTM7DwSrSEj3,Miguel Calo;Alberto Podestá,Pedacito De Cielo,Dos Fracasos,18,156813,False,0.646,0.194,11,-8.878,0,0.0515,0.984,0.165,0.171,0.627,129.179,4,tango
+1gIxcViJmZ5nkmrZsxUM4C,Carlos Gardel,Celebridades,Callejera,19,138693,False,0.706,0.295,7,-11.261,0,0.261,0.983,0.0,0.247,0.607,129.245,5,tango
+3JLKGFoz2OdPYPk0XfMjj4,Jorge Vidal,El motivo (Historical Recordings),Entre curdas,18,169459,False,0.644,0.33,6,-16.511,0,0.155,0.909,0.000171,0.115,0.856,107.733,4,tango
+5NVFtdUqYtPc7NTwJODWP4,Osmar Maderna,Los Astros Del Tango - Documentos Tango,Lluvia De Estrellas,18,152066,False,0.484,0.549,7,-10.609,1,0.0334,0.937,0.922,0.174,0.627,134.273,4,tango
+4K6vASp5QmViPYZ38a1bEE,Aníbal Troilo;Floreal Ruiz,Tinta Roja,Naranjo En Flor,18,171640,False,0.389,0.448,5,-7.975,0,0.0368,0.94,6.23e-05,0.284,0.54,120.917,4,tango
+3d750iimandgf8fW3Xl6Lj,Sexteto Cristal;Guillermo Rozenthuler,Viento Del Norte,El Adios,19,196284,False,0.707,0.357,0,-7.582,0,0.046,0.741,0.0738,0.223,0.802,119.686,4,tango
+7KvE65H6MbRziDT1ASLgzf,Osvaldo Pugliese,Ausencia,Nochero Soy - Instrumental,18,212373,False,0.586,0.297,9,-11.311,0,0.0557,0.807,0.27,0.181,0.558,118.616,4,tango
+7mPoUwpcnhi7ZWUwQtSIZa,Jaska Mäkynen,Kaiken Kauniin Rinnalla,Kuuskytluvun Kitarat,20,201000,False,0.422,0.66,11,-6.819,0,0.0324,0.236,0.0,0.398,0.732,185.577,4,tango
+162r9XHCME8puEY5Divn2D,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Melodía de Arrabal (Remastered 2022),19,157839,False,0.688,0.242,10,-11.545,1,0.0757,0.993,2.36e-06,0.0998,0.6,123.172,4,tango
+27IEKPrqTT5TLMLFDnrpAA,Alfredo Gobbi,Presentando a Alfredo Gobbi,Racing Club,18,165213,False,0.593,0.498,7,-3.331,1,0.0326,0.904,0.191,0.443,0.646,119.059,4,tango
+3yV2E0ioIyFbaYsERldacn,Carlos Gardel,El Album De Oro De Carlos Gardel,Me Da Pena Confesarlo,19,153680,False,0.714,0.256,5,-11.366,1,0.115,0.988,1.7e-06,0.102,0.642,121.485,4,tango
+5VlMQFam95UFxWqOKlKyIW,Astor Piazzolla,Piazzolla Tangos 6,Cavalcata,18,237293,False,0.446,0.484,7,-9.006,1,0.0373,0.855,0.641,0.113,0.337,120.687,4,tango
+7LaqvP8vbvQM1RdVSc0oH5,La Chicana,Antihéroes y Tumbas (Historias del Gótico Surero),Rosita,19,210800,False,0.688,0.344,0,-10.341,0,0.0339,0.58,0.0,0.092,0.418,103.979,3,tango
+7A5H7Y99VmicoqtOAteIXQ,Miguel Calo;Raul Iriarte,Flor de Lino,Lluvia de Abril,18,161773,False,0.384,0.245,0,-11.112,0,0.0777,0.912,0.13,0.157,0.7,62.213,4,tango
+7jBfhA6e93EKL1BaoghORb,Lidia Borda;Brian Chambouleyron;Esteban Morgado;Damian Bolotin;Walter Castro;Mono Hurtado,Patio De Tango,Trenzas,18,270791,False,0.499,0.191,4,-11.283,0,0.0759,0.601,0.0,0.124,0.22,88.373,3,tango
+6tUH06dN0vi2xwvlFWPKgn,Trio Hugo Diaz,Trio Hugo Diaz: Tango Argentino,Parrillera,18,119000,False,0.523,0.487,2,-6.812,1,0.0348,0.768,0.0706,0.115,0.754,118.468,4,tango
+4xsp8K91A42XdceV6GzLe2,Mariano Mores,From Argentina To The World,El Firulete,18,201733,False,0.519,0.361,2,-12.779,1,0.0685,0.812,0.743,0.134,0.654,79.191,4,tango
+2YzztWnt9ex6GRwC7Oeaam,Romántica Milonguera,Algo contigo,Hasta siempre amor,19,186942,False,0.519,0.422,2,-4.806,0,0.0463,0.933,0.000337,0.288,0.689,134.033,4,tango
+1I0gGPEFiIM62rcVG32w7c,Adriana Varela,Neruda En El Corazon,Me Gustas Cuando Callas ((Poema 15),18,165106,False,0.535,0.395,6,-6.463,0,0.0561,0.831,0.0,0.043,0.627,105.432,5,tango
+59U7UlUXfznwJlwmVs3nVQ,Taisto Tammi,Taisto Tammen tangoja,Tango merellä,20,183933,False,0.6,0.294,4,-11.898,0,0.042,0.728,0.017,0.371,0.501,116.533,4,tango
+7CU3sjSIHhUE6pfBWSQidG,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,Esenciales,Desencuentro (with Baffa-Berlingieri y su Orquesta),19,135986,False,0.412,0.474,0,-4.69,0,0.0732,0.848,1.65e-05,0.108,0.471,90.541,3,tango
+1nAxF4Q5DKlAbSdNYyRkrj,Miguel Calo;Raul Iriarte;Los Trovadores del Peru,Tango Classics 224: Mulata,Me Duele el Corazón,18,140805,False,0.468,0.125,2,-17.881,0,0.192,0.93,0.724,0.091,0.603,204.198,3,tango
+6v9698xcHSO8J92eFl9UEb,Julieta Laso,Cara de Gitana,Cara de Gitana,19,216125,False,0.681,0.575,9,-6.399,0,0.0922,0.703,0.0,0.0791,0.727,98.094,4,tango
+51XHDWoHZEDM2eebyXb2N4,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,A Media Luz,19,129933,False,0.545,0.231,2,-11.959,1,0.0364,0.879,0.046,0.232,0.822,125.499,4,tango
+3Kewh0OrRqBT6HJWKskh69,Angel D'Agostino;Ángel Vargas,Presentando a Angel D'agostino,Adios Arrabal,19,187360,False,0.827,0.215,2,-11.353,1,0.0651,0.887,0.00037,0.055,0.85,123.942,4,tango
+7skyROG3OyzkpkrYTQOWf3,Juan D'Arienzo,Orquesta Juan D' Arienzo - La cumparsita,La tablada,18,146200,False,0.741,0.278,9,-11.485,1,0.0538,0.66,0.775,0.0603,0.799,132.138,4,tango
+4qo4iXXXOBzGEozUQ6CAfQ,Jorge Falcón,El Amor Desolado,Volvió Una Noche,19,210933,False,0.421,0.445,7,-9.341,0,0.0432,0.758,0.0,0.0894,0.356,112.16,4,tango
+5KjIdZnkwAFHVuAu5yzMf7,Roberto Goyeneche,El Cantor De Buenos Aires,El Dia Que Me Quieras,19,242200,False,0.321,0.474,10,-6.444,1,0.0375,0.839,0.00089,0.102,0.31,102.339,4,tango
+7bigAhoiVqZ1usxaREoqKh,Adriana Varela,Vuelve el Tango,La Casita de Mis Viejos,18,217907,False,0.53,0.167,4,-14.068,0,0.0639,0.893,0.0,0.0966,0.486,85.912,3,tango
+0daTJr3SN7Xsc3a0TSWBzk,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Quien Hubiera Dicho (with Leopoldo Federico y Su Orquesta),19,171560,False,0.499,0.675,11,-8.283,0,0.148,0.766,0.0,0.497,0.596,120.876,4,tango
+1pOYW207ziVeilrwXnKREF,Roberto Goyeneche;Orquesta Tipica Porteña,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,El Motivo (with Orquesta Tipica Porteña),19,179640,False,0.413,0.414,2,-10.774,0,0.0504,0.704,0.00324,0.0536,0.457,117.893,4,tango
+3udkFmu6W2eTpBOjjILefA,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Nostalgias,18,158426,False,0.488,0.377,1,-10.59,1,0.0841,0.88,0.0,0.141,0.569,112.121,4,tango
+3bR98Buoiaj4BjccBzUpMM,Héctor Varela;Jorge Falcón,Mis 30 Mejores Tangos,Fueron Tres Años (with Jorge Falcón),18,207533,False,0.633,0.407,5,-10.004,0,0.0423,0.795,3.98e-06,0.302,0.744,126.744,4,tango
+3DXGUM6RfySP9LfvKVMVF2,Julio Sosa,El varón del tango (Remastered),Dios te salve mi hijo - Remastered,18,208402,False,0.526,0.489,2,-10.658,0,0.149,0.919,1.9e-05,0.16,0.76,117.944,4,tango
+2IlLA49nNVHNCqR3sUNvW0,Roberto Goyeneche,La Última Curda,Contramarca,19,141154,False,0.645,0.585,0,-9.238,1,0.36,0.855,0.0,0.964,0.912,128.546,5,tango
+1qv0hJRov7RgdD81ySHEq2,Roberto Goyeneche;Antonio Agri;Esteban Morgado,Historia de Oro,Viejo Ciego (feat. Antonio Agri & Esteban Morgado) [En Directo],19,228054,False,0.447,0.114,1,-17.659,0,0.0559,0.936,0.0,0.107,0.189,76.983,4,tango
+5Z5TrgVSwgPnXIS6JzMU8w,Alfredo De Angelis;Orquesta de Alfredo De Angelis;Juan Carlos Godoy,Los 25 Mejores Tangos,Si Nos Queremos Todavía,18,174066,False,0.512,0.373,2,-7.808,1,0.051,0.904,3.64e-06,0.381,0.532,118.328,4,tango
+2klWfM19A7TfwlxBQLNbIZ,Roberto Firpo,El Aeroplano,Olga,18,131480,False,0.611,0.563,5,-7.59,0,0.0385,0.901,0.758,0.251,0.659,112.214,1,tango
+0Nw5oTKvYOm8yJwff1zWnj,Aníbal Troilo Y Su Orquesta Típica,Anibal Troilo Y Sus Cantores - RCA Victor 100 Años,El Motivo,18,187413,False,0.379,0.445,2,-6.36,0,0.033,0.745,0.000989,0.194,0.462,109.571,4,tango
+4CNIKGlBvWXzGSFSKQdMcS,Orquesta Tipica Buenos Aires,La Cumparsita,Nostalgias,18,169400,False,0.348,0.329,2,-9.694,0,0.0318,0.707,0.126,0.0455,0.362,115.459,4,tango
+6TxzAXAFycVfsve3xUXRyw,Edgardo Donato,1938-1942,La Melodía del Corazón,18,197306,False,0.576,0.303,2,-10.595,0,0.0373,0.971,0.103,0.125,0.521,128.381,4,tango
+56Rd0CULFvNzCy1aWG7dqF,Quinteto Pirincho,Las milongas más milongas,La cara de la luna,18,149173,False,0.59,0.446,0,-8.645,1,0.389,0.751,0.869,0.053,0.94,182.531,4,tango
+5caXGav3sqgWv6UWbOyxzr,Amelita Baltar;Luis Alberto Spinetta,El Nuevo Rumbo,Laura Va,18,195704,False,0.374,0.183,2,-14.959,1,0.0704,0.583,5.79e-06,0.115,0.101,78.688,3,tango
+6wBcwCIVwCSzPb2Y1dkxL4,Osvaldo Pugliese,Tango Classics 178: La Tupungatina,La Cachila,18,151858,False,0.493,0.204,5,-15.263,0,0.0512,0.9,0.000253,0.226,0.39,116.639,4,tango
+1nqLUAlrA6HO7H9OTxOGLj,Carlos Gardel,Madreselva,Mi Noche Triste,19,197653,False,0.582,0.402,0,-9.492,0,0.0671,0.964,0.0161,0.174,0.632,124.566,4,tango
+6mHIW1Uh1hfH6c3ytywCjy,Carlos Gardel,Celebridades,Guitarra Mía,19,209866,False,0.588,0.164,7,-12.555,0,0.0854,0.993,0.00268,0.218,0.393,80.963,3,tango
+1LXtQ98RcOdeUsh5dgNOxY,Domingo Federico,"25 Tangos, Valses y Milongas",El Maraja (Tango),18,170945,False,0.625,0.269,2,-7.531,0,0.0622,0.975,0.238,0.0901,0.557,126.49,4,tango
+4AwcsscGrOdRgMF1NPLjTn,Miguel Montero,Antiguo Reloj De Cobre,Paciencia Sera Otra Vez,18,156133,False,0.509,0.441,1,-12.682,1,0.128,0.912,3.14e-06,0.0975,0.774,103.158,4,tango
+3OjUTDXJC6GyUtfSQnUKBa,Chino Laborde;Solo Tango Orquesta,Tanda de Enérgia,Mi Dolor,18,168000,False,0.609,0.574,2,-6.309,0,0.113,0.755,0.0001,0.14,0.818,142.416,4,tango
+7bSvHPn8XUAtST80o2GrAd,Anibal Troilo y su orquesta;Alberto Marino,Romance De Barrio,Mi Tango Triste,18,203493,False,0.469,0.206,2,-5.587,0,0.0677,0.912,0.0461,0.102,0.579,177.934,3,tango
+4Y3J1vo9Qexf0r984zxz8t,Didi Gutman,Bajofondo Tango Club,Vacío,18,168320,False,0.502,0.274,5,-15.477,0,0.084,0.93,0.912,0.137,0.365,111.961,4,tango
+3FPyvll9HDI2I3LZ9KXGRF,Orquesta Juan D' Arienzo,Orquesta Juan D' arienzo - La puñalada,Quejas de bandoneon,18,153626,False,0.629,0.382,2,-6.666,0,0.0339,0.571,0.897,0.118,0.546,128.01,4,tango
+4BAmRuJOyc1S8lp7y0WpVd,Juan D'Arienzo;Alberto Echagüe,Pensalo bien,De Antaño,18,154506,False,0.692,0.624,11,-6.0,1,0.0384,0.917,0.417,0.0727,0.85,117.016,4,tango
+4IusK4dI8G8Jow785Up1my,Carlos Gardel,Tango - Exitos De Oro De Carlos Gardel,Adios Muchachos,19,158119,False,0.615,0.293,9,-12.453,1,0.119,0.771,0.0,0.137,0.633,114.639,4,tango
+3IXUKHxFztCGuN6zGqqYxf,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,La Muchacha del Arrabal,19,137893,False,0.599,0.349,0,-12.463,1,0.26,0.996,0.689,0.244,0.379,127.754,4,tango
+0MFGRJ96LGJ8aNzb67SH8F,Quadro Nuevo,In Concert (Live),Giovanni Tranquillo - Live,18,300613,False,0.657,0.214,9,-15.527,0,0.0459,0.95,0.826,0.131,0.267,125.554,4,tango
+6u1Hfd5Jr0aoN6jPcraDBs,Azucena Maizani,Antología Noble Del Tango: Sus Grandes Intérpretes Y Compositores,Estampilla - Digitally Remastered Original,18,120973,False,0.772,0.277,7,-11.197,1,0.127,0.995,0.645,0.117,0.58,65.403,4,tango
+1NdpuFLFLnovcRUFfnmMVq,Romántica Milonguera,Algo contigo,Remembranza,18,170647,False,0.437,0.515,0,-5.193,1,0.0338,0.868,0.026,0.399,0.577,129.815,4,tango
+6LwKTfrztyP4eCwRT96pjl,Miguel Calo;Raul Iriarte,Fruta Amarga,Después,18,176480,False,0.647,0.2,7,-11.81,1,0.062,0.949,0.683,0.125,0.724,122.321,4,tango
+2vkM9ZTb1WBOnSuddnxndd,Aníbal Troilo;Roberto Goyeneche,Tinta Roja,Garúa,18,212933,False,0.502,0.376,2,-7.401,0,0.0698,0.832,4.37e-05,0.251,0.353,109.862,4,tango
+3fVdBpgOdrLgE1WlYCaD5M,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Sombras Nada Mas,18,155893,False,0.479,0.297,4,-13.663,0,0.0326,0.623,0.528,0.269,0.511,118.562,4,tango
+5qNnKFyYY1Szyc2b8gUVRr,Ricardo Tanturi;Alberto Castillo,Serie De Oro Vol 2: Ricardo Tanturi,Mi Morocha,17,144720,False,0.783,0.487,8,-7.685,1,0.057,0.916,0.52,0.189,0.863,110.251,4,tango
+44DP3BsRE4KzuZB6BboL4h,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Cambalache (Remastered 2022),19,182995,False,0.6,0.367,2,-9.793,1,0.115,0.876,0.0,0.394,0.692,116.407,4,tango
+5dOMZdaznlsb8tHvKROJWr,Charlo;Ada Falcón,Presentando a Charlo,Casas Viejas,18,232573,False,0.48,0.176,1,-8.768,1,0.0658,0.992,0.0013,0.102,0.765,71.419,1,tango
+50TxmkDv0ye9s2UmToana4,Alfredo De Angelis,Tangos From Argentina To The World,La Cumparsita,18,212906,False,0.568,0.534,7,-9.162,1,0.0334,0.735,0.488,0.292,0.57,125.335,4,tango
+5VmhdU1AoCTgu6vn2U2MSs,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Milonga Sentimental (Remastered 2022),19,179772,False,0.708,0.17,5,-14.726,0,0.228,0.979,4.69e-05,0.134,0.771,97.226,3,tango
+0jHlrBGrcXDQEpdi2ZEYtU,Francisco Canaro;Quinteto Pirincho,Reliquias Porteñas,El Firulete,18,148626,False,0.74,0.612,9,-5.92,1,0.104,0.847,0.665,0.101,0.767,87.262,4,tango
+4NUomtCzWb8WNW1DOjCa8A,Juan D'Arienzo y su Orquesta Típica,De Pura Cepa,El Flete,17,173640,False,0.848,0.381,9,-7.647,1,0.0645,0.917,0.696,0.052,0.783,133.018,4,tango
+5w41dWLXxSidiIs57pBgtH,Libertad Lamarque,Cronología 1928-1944,Besos Brujos,18,152813,False,0.586,0.245,4,-9.243,1,0.0612,0.98,0.0,0.184,0.502,96.127,5,tango
+7tYwhedfTi1NUS54sIIzr1,Enrique Rodríguez;Armando Moreno;Chato Flores,26 grandes tangos,La colegiala,18,98293,False,0.651,0.246,5,-11.784,0,0.101,0.947,1.11e-06,0.169,0.894,165.052,4,tango
+0l2RhobCWCxMn6lLOTE5I7,Angel D'Agostino,"The Masters of Tango: Angel D'Agostino, Café Domínguez",Café Domínguez,18,177866,False,0.55,0.424,7,-7.525,0,0.0427,0.871,0.143,0.133,0.709,123.215,4,tango
+2mooRjHf9LEGP0XEyGRokh,Roberto Goyeneche;Orquesta Típica Porteña,Esenciales,Cristal (with Orquesta Tipica Porteña),19,210746,False,0.436,0.491,7,-8.5,1,0.0425,0.478,0.00193,0.223,0.504,112.474,4,tango
+4GwPH7PBW6rGqi8ej3cOhi,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Malena,18,123133,False,0.317,0.327,9,-13.577,0,0.038,0.921,0.594,0.671,0.503,116.827,4,tango
+08B5lKxdTdHLQExjbFjpLS,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Los mareados,17,197250,False,0.444,0.273,0,-10.855,1,0.0414,0.762,0.253,0.0892,0.457,108.973,4,tango
+7IPWbI7fuN5yPCWw0mCOak,Ignacio Corsini,El Caballero Cantor del Tango,No Te Apures Carablanca,18,162373,False,0.592,0.323,9,-6.526,0,0.0535,0.964,2.41e-05,0.427,0.68,112.368,4,tango
+3NY8yLEXhsnzXll558iW1f,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Esta Noche Me Emborracho (Remastered 2022),19,141571,False,0.706,0.365,1,-9.915,0,0.178,0.975,0.000319,0.365,0.719,129.184,4,tango
+5GrJfD0eWfO3xxbo3Hal5P,Alfredo De Angelis;Carlos Dante,From Argentina To The World,La Brisa,18,158373,False,0.526,0.346,9,-9.547,1,0.0512,0.894,0.0274,0.309,0.844,124.398,4,tango
+1PVmDk2XSWnB7qL0o2AAnw,Carlos Gardel,Los Exitos De Sus Peliculas,Cuesta Abajo,19,191333,False,0.666,0.166,3,-8.941,1,0.099,0.978,1.14e-05,0.0932,0.528,104.675,4,tango
+3XGnpfCB4z0ArJykfZ2GU3,Carlos Lombardi;Los Românticos De La Noche,The Best Of Tango,Milonga Sentimental,18,154733,False,0.537,0.396,4,-11.472,1,0.0515,0.666,0.284,0.368,0.707,103.82,4,tango
+35ciiL5yutqkrXKGwQ9nb4,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Despues De Esta Cancion (with Leopoldo Federico y Su Orquesta),18,182893,False,0.435,0.666,0,-8.122,1,0.089,0.761,0.0,0.326,0.722,111.044,4,tango
+6foTHpiI4hKJCnI01plyXu,Roberto Goyeneche,Historia de Oro,De Barro (En Directo),19,184505,False,0.47,0.596,4,-9.278,1,0.0399,0.867,1.86e-06,0.753,0.68,121.491,4,tango
+5MIvZqLjo5J38ZyxWzv6Lt,Roberto Goyeneche,Historia de Oro,Nocturno de Mi Barrio / Ese Muchacho Troilo (En Directo),19,126850,False,0.541,0.515,2,-10.131,0,0.0648,0.871,0.0,0.912,0.751,105.794,5,tango
+57xvrlDWfqSSdQxgg0GZoD,Alfredo De Angelis;Oscar Larroca,Yo Soy El Tango,Medallita De La Suerte,18,182306,False,0.56,0.447,9,-5.644,1,0.0401,0.882,7.7e-06,0.272,0.725,129.855,4,tango
+2dfk8Dr7qXXZRh2mYOI3fc,Juan D'Arienzo,Orquesta Juan D' Arienzo - La cumparsita,Canzoneta,18,236066,False,0.439,0.337,2,-11.94,1,0.0346,0.81,0.000401,0.189,0.494,126.393,4,tango
+1571qqsBV6xQoDxpTIbOoX,Juan D'Arienzo,Orquesta Juan D' Arienzo - La cumparsita,Sentimiento gaucho,18,143360,False,0.579,0.381,7,-11.846,1,0.0703,0.847,1.04e-06,0.0353,0.656,126.597,4,tango
+3z3f7AgFtjZMpi82VOCddF,Aníbal Troilo;Roberto Fiorentino,Milongas para Bailar,Del Tiempo Guapo,18,148493,False,0.66,0.637,7,-4.601,1,0.0436,0.856,0.443,0.333,0.923,112.68,4,tango
+5IQujJ0ThoDwXrjpZbmKbs,Roberto Goyeneche;Orquesta Típica Porteña,Roberto Goyeneche - RCA Victor 100 Años,Cambalache (with Orquesta Tipica Porteña),19,168573,False,0.561,0.457,0,-9.834,1,0.0975,0.98,0.00059,0.14,0.826,58.066,4,tango
+3mGkPsZbHEBf8ZT1ExZnww,Carlos Gardel;Itzhak Perlman;John Williams;Pittsburgh Symphony Orchestra,Cinema Serenade,Scent of a Woman: Tango (Por Una Cabeza),44,231160,False,0.349,0.134,7,-21.963,0,0.0505,0.821,0.0487,0.0464,0.429,118.069,4,tango
+6DfM5XcXFs6Edm9niEKCfU,Rubén Juárez,Coleccion Aniversario,Anclao En Paris,18,140120,False,0.501,0.354,7,-14.475,1,0.0953,0.84,0.0,0.173,0.577,109.941,4,tango
+7Bk0VK59GsrYX6CwfbDsQ9,Astor Piazzolla;Die 12 Cellisten der Berliner Philharmoniker,Hora Cero,Libertango,17,153786,False,0.405,0.257,2,-16.123,0,0.031,0.948,0.879,0.0941,0.332,153.389,4,tango
+4rzCsQ5H1iAVJgnCvKq1Gw,Aníbal Arias,Una Guitarra Para Gardel,Secreto,18,125520,False,0.491,0.198,2,-15.383,0,0.048,0.978,0.89,0.102,0.619,127.876,4,tango
+1gQZ9fhT20aROJuVyny2DP,Carlos Di Sarli y su Orquesta Típica,Archivo RCA : Carlos Di Sarli Vol. 2,Bailemos,17,186706,False,0.532,0.336,7,-7.537,0,0.0566,0.831,3.04e-06,0.277,0.332,110.986,4,tango
+2LwgAxHQLXlu0L45Jj7Tag,Cacho Tirao,Mi Guitarra... Tú y Yo,Adiós Nonino,18,285906,False,0.516,0.372,8,-8.246,1,0.0572,0.975,0.909,0.108,0.353,75.955,4,tango
+4OyBpawRu6Bh5CpK8bBXh4,Julieta Laso,Martingala,La Piel de la Ciudad,18,193348,False,0.339,0.42,4,-9.019,0,0.0843,0.473,2.42e-05,0.0856,0.208,173.932,3,tango
+1mZdUtvZFhNvS2zP4X2Pil,Teemu Roivainen,Andalusia,Andalusia,18,215000,False,0.529,0.745,0,-6.716,1,0.0339,0.000935,0.00153,0.594,0.277,126.043,4,tango
+2QrspK7VdYoB5QSr7clIrN,Francisco Canaro Y Su Orquesta Tipica,Aquí parado en la esquina (Remastered),Milonga criolla - Remastered,17,181329,False,0.506,0.318,1,-13.272,1,0.202,0.982,0.758,0.167,0.816,167.693,4,tango
+2QuSonLDeqK0Ssk3ahB2bs,Solo Tango Orquesta,2010-2015,Felicia,17,164373,False,0.486,0.423,2,-8.201,0,0.031,0.92,0.191,0.0699,0.611,147.456,3,tango
+2YKYjSkkjuA9MabhTlTbIC,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Silencio,18,171226,False,0.459,0.315,11,-9.797,0,0.0381,0.994,0.000396,0.227,0.322,113.349,4,tango
+1p9iIYZTt0nvp1MiBcT8Vy,Ada Falcón,Tus Besos Fueron Míos,La Última Copa,17,159680,False,0.543,0.301,9,-6.867,0,0.217,0.993,0.0,0.144,0.588,76.798,4,tango
+6wstkvG45FVDQGxtps85eb,Pepe Aguirre,Solo un recuerdo,Maldito cabaret,18,127059,False,0.538,0.205,4,-18.053,0,0.223,0.948,5.53e-06,0.719,0.888,128.12,4,tango
+7DypcsKIIfCp8dgfZgoD7c,Astor Piazzolla,Libertango,Amelitango,18,237052,False,0.54,0.34,9,-9.832,0,0.0323,0.691,0.172,0.262,0.63,121.449,4,tango
+0pRUWRtNyAO0CtrfFzkFFY,Orquesta El Arranque,"Che, Tango Querido - Instrumentales",Caminito,18,241346,False,0.418,0.273,4,-9.578,1,0.0327,0.788,0.632,0.193,0.319,113.062,4,tango
+4oIxkadZYpwalFhlWpUzfI,Astor Piazzolla,Persecuta,Citè tango,18,335680,False,0.574,0.25,9,-13.015,1,0.043,0.64,0.748,0.116,0.306,119.592,4,tango
+3mQEICwiY0ujF202ggvKNk,Jorge Sobral,Tangos Famosos Cantados,Caminito,18,121559,False,0.358,0.341,2,-10.472,1,0.0341,0.961,0.0989,0.208,0.438,112.059,4,tango
+2n3xDZaKxi6ntTB8IdX5mZ,Lidia Borda;Orquesta El Arranque,Tal Vez Será Su Voz,Tal vez será su voz,17,265679,False,0.343,0.295,7,-6.204,1,0.0342,0.879,0.0,0.0772,0.194,83.565,3,tango
+3Dk42zmO4JdBzBmnWMeAOU,Lucio Demare;Horacio Quintana,Lucio Demare,Solamente Ella,17,198933,False,0.559,0.177,6,-11.307,0,0.0436,0.978,0.0622,0.195,0.523,122.297,4,tango
+0axVnO8selMcKSILjCB1lp,Donato Racciatti y Su Orquesta Típica;Olga Del Grossi,Hasta Siempre Amor,Hasta Siempre Amor,18,176599,False,0.565,0.279,0,-13.731,0,0.038,0.85,0.0486,0.111,0.577,132.441,4,tango
+5k3J4wIjVkKzjkTBuziDRi,Nelly Omar;Francisco Canaro & His Orchestra,The History of Tango - Nelly Omar With the Francisco Canaro Orchestra,Rosa de otoño (Vals),17,165853,False,0.514,0.351,7,-12.495,0,0.055,0.939,0.00784,0.195,0.685,99.091,3,tango
+01ZAjuOp09OWWEoNBTmJ8R,Julio Martel;Alfredo De Angelis,Flores del Alma,Atenti Pebeta - Remasterizado,18,146050,False,0.623,0.45,3,-8.347,1,0.0974,0.924,0.0,0.104,0.892,129.024,4,tango
+15pzh2n3zE4RzqXVVA8P6k,Ariel Ardit;Orquesta Tipica,A los Cantores (En Vivo),Esta Noche de Luna - En Vivo,17,256240,False,0.488,0.421,10,-6.73,1,0.0463,0.815,0.0,0.849,0.375,118.476,4,tango
+3VzP4rONCj68u8G1fKeICS,Carlos Gardel,Todo Gardel - Esencial,El dia que me quieras,18,202466,False,0.391,0.302,0,-9.798,0,0.0427,0.96,0.0227,0.109,0.445,62.586,4,tango
+4qsGmN6oYz8dhmXsWr3D42,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Amargura,17,165373,False,0.511,0.346,0,-12.907,1,0.0284,0.779,0.885,0.247,0.624,55.846,4,tango
+4V5NGZV39aTpE8ccdyD9EN,Fulvio Salamanca Y Orquesta,25 Sucessos: El Mejor del Tango,El Choclo,18,140213,False,0.558,0.251,9,-17.351,1,0.0385,0.847,0.588,0.114,0.602,127.199,4,tango
+69539h6t76SsYtjU8gdFG5,Astor Piazzolla;Emmanuel Pahud;Christian Rivet,Around The World,Piazzolla: Histoire du tango: II. Café 1930,19,459520,False,0.268,0.0547,4,-25.052,0,0.0487,0.989,0.865,0.104,0.119,79.733,4,tango
+05SR2kFrTXBcMGtKXEUDgv,Adriana Varela,Encaje,En un Feca,17,130586,False,0.688,0.376,2,-12.8,0,0.0749,0.903,0.0,0.104,0.586,112.709,4,tango
+2TGXpyA3rK25SYUsRw3ETj,Osvaldo Fresedo y su Orquesta Típica,Nuestros 30 Mejores Tangos Instrumentales,Mi Buenos Aires Querido,17,143933,False,0.347,0.348,0,-10.555,1,0.033,0.768,0.0131,0.244,0.491,113.62,4,tango
+0FCBm9YnSr3Du7dm5Mgo9b,Francisco Canaro,Tango Collection,Ciego,17,177159,False,0.686,0.174,11,-12.42,0,0.0496,0.981,0.114,0.0836,0.784,119.439,4,tango
+1e4wqotTHPVoPGjfTDVr0B,Astor Piazzolla;Daniel Barenboim;Rodolfo Mederos;Héctor Console,Piazzolla et al : Mi Buenos Aires querido,"Piazzolla: Estaciónes porteñas: No. 4, Primavera porteña",18,154266,False,0.6,0.0449,7,-20.085,0,0.0867,0.74,0.0549,0.127,0.259,135.75,3,tango
+4dfnYLge2MvEscoZsILeS4,Juan D'Arienzo and his Orchestra,"The History of Tango / El Rey del Compas / Recordings 1935 - 1937, Vol. 1",El Flete,18,178240,False,0.883,0.341,9,-4.742,1,0.0583,0.965,0.76,0.0549,0.795,132.616,4,tango
+75LdwSIorbGFJ8ogu64gXB,Carlos Gardel,Platinum Collection: The World's Best Tangos Vol. 3: Carlos Gardel,Secreto,18,138166,False,0.733,0.3,1,-11.938,0,0.107,0.988,0.00679,0.436,0.842,123.223,4,tango
+6aLJI6G1D6ZeaQYbgPq1jz,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Adiós Muchachos (Remastered 2022),18,146307,False,0.714,0.311,0,-10.464,1,0.181,0.98,2.74e-05,0.0792,0.826,70.578,4,tango
+14s9q3yRMLXmHcDE9LZ3se,Pedro Laurenz;Alberto Podestá,Presentando a Pedro Laurenz,Todo,18,155240,False,0.597,0.394,7,-7.029,0,0.0457,0.975,0.117,0.151,0.602,127.968,3,tango
+6296wbH11ICNfzVfApZoEC,Maria Graña,Nivel Internacional,Caserón De Tejas,18,174866,False,0.303,0.254,5,-11.027,0,0.0372,0.979,1.95e-06,0.0699,0.699,82.059,3,tango
+2eKK8yecnfdNlpqmy1R7oR,Adriana Varela,Vivo (Deluxe Version),Los Cosos de al Lao,17,154226,False,0.49,0.458,7,-10.925,0,0.13,0.704,0.0,0.976,0.547,108.143,4,tango
+3p7PTLBM9ZLakDzVOqH2Q4,Julio Sosa,Bien Bohemio (En Vivo),Bien Bohemio - En Vivo,17,200572,False,0.509,0.636,11,-8.064,0,0.0729,0.897,3.29e-06,0.437,0.871,119.611,4,tango
+3rEqCiOr8YzjRf9jFlnU3P,Roberto Goyeneche;Orquesta Tipica Porteña,Antologia Roberto Goyeneche,El Cantor de Buenos Aires (with Orquesta Tipica Porteña),18,163640,False,0.531,0.469,9,-7.749,1,0.0792,0.817,0.0,0.209,0.793,99.868,4,tango
+6CAz0sn2HaHSpSiQ0EMkJx,Nelly Omar;Francisco Canaro Y Su Orquesta Tipica,Ofrenda Gaucha: Valsecito Amigo,Rosas de Otoño,17,165637,False,0.495,0.422,7,-9.467,0,0.05,0.939,0.00332,0.215,0.752,100.594,3,tango
+7CA6D1V78CqHbnfAjEtNDD,Reijo Taipale,Virran rannalla,Niittykukkaset,19,206213,False,0.412,0.441,0,-6.789,0,0.0306,0.751,0.0,0.123,0.549,158.98,3,tango
+1wnpr7xsfFvIY36rCJzjqR,Carlos Gardel,Classics from the 78RPM Shellac (Remasterizado 2022),Adios Muchachos (Remasterizado 2022),18,144573,False,0.743,0.206,0,-15.159,1,0.237,0.986,1.99e-05,0.114,0.785,62.799,4,tango
+3fLPfLl5FnjBzkvWEwwzFw,Julio Sosa,Grandes Éxitos De,Por Qué Canto Asi,17,185973,False,0.413,0.457,7,-14.436,0,0.0585,0.938,0.00646,0.14,0.527,121.789,4,tango
+2q7eZVI8oUOnOr6jv1Nfcq,Libertad Lamarque,Tangos Inmortales de Libertad Lamarque (Remastered),Nostalgias - Remastered,17,173509,False,0.323,0.163,4,-14.019,0,0.0414,0.979,0.000438,0.249,0.504,90.269,4,tango
+4SMOfcrPRhbZenb6C4Ycn1,Libertad Lamarque,Tangos Inmortales de Libertad Lamarque (Remastered),Volver - Remastered,17,136549,False,0.495,0.233,7,-11.776,1,0.049,0.989,0.00315,0.137,0.263,120.807,5,tango
+4DDmTL1J7QQVOs2q8MmjQW,Hugo Del Carril,Los 50 Grandes Éxitos del Tango: Cantados,Los Muchachos Peronistas,17,149047,False,0.685,0.435,5,-5.154,0,0.0498,0.912,0.918,0.125,0.754,119.901,4,tango
+22PmZzqYOhzE2uVLAF29XW,Tita Merello,Con El Tango En El Alma,A Mi No Me Cambia Nadie,17,112386,False,0.479,0.365,8,-9.044,1,0.141,0.704,0.0,0.128,0.785,61.541,4,tango
+2EnKi5eBgF5Bq2K88QR1wR,Jorge Falcón,Mis 30 Mejores Tangos,Volvió Una Noche,18,211600,False,0.383,0.518,3,-9.199,1,0.0434,0.818,0.0,0.0723,0.408,107.994,4,tango
+4jOT9Le37KgvPfqhyLYkVF,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,Maestros Del Tango,Desencuentro (with Baffa-Berlingieri y su Orquesta),19,135866,False,0.43,0.357,0,-9.204,0,0.0764,0.792,3.05e-05,0.0799,0.525,168.599,5,tango
+5LeAzDu8NwUK5qPXKbZHUP,Francisco Lomuto;Jorge Omar,Milongas para Bailar,Que Tiempo Aquel,18,154986,False,0.868,0.542,0,-7.495,1,0.0759,0.98,0.0831,0.0439,0.944,95.609,4,tango
+74frkNGkHzMMTpXv82QrHl,Astor Piazzolla,Rough Dancer And The Cyclical Night,Finale - Tango Apasionado,31,214800,False,0.295,0.0748,0,-20.087,0,0.0306,0.189,0.401,0.131,0.0837,95.602,4,tango
+6hp1UeLB6xmpuWjDfcuGj3,Osvaldo Pugliese y su Orquesta,"""Sus Grandes Exitos""",Mentiras,17,207160,False,0.402,0.244,2,-10.692,0,0.0386,0.912,0.0,0.0688,0.532,113.956,4,tango
+33GrxCHUcuYTUqcezk6Gw1,Aníbal Troilo,Aníbal Troilo: Discografía Completa Vol.1,Romance De Barrio,17,154013,False,0.498,0.551,3,-8.225,1,0.0609,0.885,5.61e-05,0.0584,0.658,99.575,3,tango
+1EW9pciPvzE2Jcu3herUCe,Osvaldo Pugliese,"Para Bailar, Vol. 1",Derecho Viejo,17,136080,False,0.559,0.262,1,-10.374,1,0.0436,0.949,0.908,0.0988,0.705,122.469,4,tango
+07AkOOrqekM9w4JQpSkUJ8,Carlos Gardel,La Cumparsita y Otros Éxitos (Remastered),La Cumparsita - Remastered,17,171603,False,0.447,0.156,0,-17.352,1,0.0545,0.822,0.0,0.27,0.412,119.352,4,tango
+4H56F3fd4ND381MigKXJFV,Orquesta Tipica Buenos Aires,La Cumparsita,A La Gran Muñeca,18,161933,False,0.64,0.283,2,-8.848,0,0.0376,0.505,0.0961,0.0845,0.618,120.089,4,tango
+5SPRKeCQC2nUorhxcjaA5W,Romántica Milonguera,Boleros,Besame mucho,18,183207,False,0.522,0.467,7,-6.932,0,0.0331,0.76,0.00385,0.194,0.435,123.087,4,tango
+3aUTsgII9iDaA4RabiMk9O,Osvaldo Pugliese,Osvaldo Pugliese con Alberto Moran y Roberto Chanel,La yumba,17,167733,False,0.664,0.405,9,-10.656,0,0.0406,0.949,0.237,0.129,0.534,120.971,4,tango
+12c5KG6ZmylL4HBIYkqr9H,Aníbal Troilo,Volver,Barrio de Tango,17,182935,False,0.48,0.395,5,-7.051,1,0.0368,0.88,1.85e-05,0.0769,0.615,111.107,4,tango
+4IXkbRNf3zgmbSinjHlSKq,Lidia Borda,Puñal de Sombra,Mano a Mano,16,213476,False,0.553,0.465,2,-6.315,0,0.0565,0.715,0.0,0.132,0.442,108.054,4,tango
+6xIJ4qXdhHgvmycJ9gVdz8,Otros Aires,Tricota,Mariposita,17,226213,False,0.614,0.52,7,-7.234,1,0.0636,0.648,2.88e-05,0.105,0.329,84.993,4,tango
+6o0k6lVZEEoX0r6NO9tWT5,Ricardo Tanturi;Enrique Campos,Malvon (Historical Recordings),Una Emocion,17,153369,False,0.594,0.369,7,-10.684,0,0.0474,0.914,0.000332,0.225,0.85,126.237,4,tango
+2yGGl2B3JT1NXdRpxFAZ0Z,Ada Falcón,Yo No Se Que Me Han Hecho Tus Ojos,Yo No Se Que Me Han Hecho Tus Ojos,16,208426,False,0.548,0.156,2,-14.413,0,0.257,0.992,8.7e-05,0.0995,0.674,80.833,3,tango
+0OEcBnaJWvbx804nDaufHp,Omar Mollo;Gran Orquesta Típica OTRA,Tango Cosmopolita (with Gran Orquesta Típica OTRA),Mimi Pinson (with Gran Orquesta Típica OTRA),18,230160,False,0.454,0.448,7,-6.735,1,0.0437,0.887,0.0,0.0948,0.366,101.62,4,tango
+6ulAoECWXiTQK2yNR172Nm,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Bandoneón Arrabalero,18,130759,False,0.655,0.477,9,-5.411,1,0.0588,0.987,3.73e-05,0.117,0.569,122.732,4,tango
+79ol0IOliD9rUOQ6MBR4Sg,Julieta Laso,Cabeza Negra,Ámbar Violeta,17,126793,False,0.487,0.364,7,-5.888,1,0.0337,0.404,0.0,0.132,0.12,113.59,4,tango
+1Ark2X9RLTNBGTB1nV42TG,Pedro Laurenz,"Tangos para Aficionados, Vol. 1",Abandono,0,152773,False,0.546,0.402,6,-7.866,0,0.0466,0.843,0.884,0.158,0.829,130.27,4,tango
+2nYSJoQxrXIwwdyFt3wEpN,Carlos Roldán,Costumbres Argentinas,Luna de Abril,18,262093,False,0.682,0.53,9,-5.152,1,0.0336,0.82,0.0,0.0879,0.398,140.021,3,tango
+0G9uGixvexL5gmZPieUn7Z,Anibal Troilo y su orquesta;Floreal Ruiz,Romance De Barrio,Romance De Barrio,17,155826,False,0.494,0.5,2,-4.026,0,0.0511,0.865,0.000449,0.205,0.719,99.227,3,tango
+2VO6kLtHu89dRm4L7KZsuX,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Barrio De Tango (with Roberto Goyeneche),17,181453,False,0.474,0.373,5,-9.678,1,0.0373,0.79,0.0,0.098,0.669,112.903,4,tango
+2ANvtgV1j5Ba4d4WTYnQkQ,Edgardo Donato;Hugo Del Carril,"Tangos para Aficionados, Vol. 1",Muchacha de Cafétin,0,142640,False,0.669,0.293,6,-11.63,1,0.0696,0.966,0.00242,0.0861,0.801,139.792,4,tango
+420FinHcfJIiCJIsXiYLxv,Adriana Varela,Encaje,El Morocho y el Oriental,17,147800,False,0.703,0.373,7,-12.037,1,0.103,0.832,0.0,0.123,0.678,99.9,4,tango
+0oh50LGKJ4o3UXNhJrw2Ua,Tango Bardo,Rustico,De floreo,18,190576,False,0.507,0.431,4,-8.312,0,0.0489,0.497,0.131,0.0785,0.673,115.884,4,tango
+2A7Cd7hmAhCOnQ1rR3xs7r,Edgardo Donato,Tango Collection,Sacale Punta,17,139093,False,0.687,0.334,4,-11.446,1,0.0728,0.978,0.00777,0.0768,0.964,93.028,4,tango
+3BZwpSz5UixY7NhvLkwNte,Soledad Villamil,Canción de Viaje,Biromes y Servilletas,18,239240,False,0.684,0.455,2,-8.424,1,0.0358,0.63,0.0,0.344,0.568,109.008,4,tango
+0aDorKjbrNpX0fsxVh12ks,Juan D'Arienzo,El Rey del Compás : 1951-1955 Vol 5,El Simpático,17,155968,False,0.651,0.501,0,-7.389,0,0.0434,0.903,0.609,0.0659,0.744,133.119,4,tango
+7nZu5xIQlEceMFpfQbjK1P,Astor Piazzolla;Philippe Jaroussky;Christina Pluhar;L'Arpeggiata,Los Pajaros Perdidos,Piazzolla: Los pajaros perdidos,17,226213,False,0.383,0.13,2,-15.727,1,0.0409,0.93,0.0,0.106,0.142,80.088,4,tango
+4DQ7hEs4WdQFoP32Y2WWdB,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Maquillaje (with Atilio Stampone y su Orquesta Tipica),18,168493,False,0.46,0.264,5,-10.962,0,0.0347,0.974,9.5e-05,0.133,0.367,114.739,4,tango
+45lo1RUQgdwYUlIVPad0YJ,Los Reyes Del Tango,A Don Juan,Desde El Alma,16,121786,False,0.584,0.445,4,-8.882,0,0.0346,0.737,0.0448,0.809,0.695,108.915,3,tango
+2eHzY1Dy8t0xMp3XziQBBv,Adriana Varela,Cuando el Río Suena,De la Canilla,18,192906,False,0.633,0.559,11,-7.443,0,0.0758,0.507,0.0,0.11,0.785,112.516,4,tango
+2wiXz8o3HyMpCBTbigJmsY,Sexteto Mayor,On Air,Fuga y Misterio/Tangata,17,534653,False,0.388,0.183,9,-16.192,0,0.0449,0.871,0.301,0.745,0.216,131.825,4,tango
+0yFHrrLTarbVeTi4ac5NQf,Olavi Virta,Iskelmäaarteita,Poika varjoiselta kujalta - Guaglione,19,174213,False,0.484,0.313,0,-11.723,0,0.0306,0.159,0.0,0.39,0.571,129.651,4,tango
+4O47VBxZl31FNqa01xm6Gt,Aníbal Troilo;Juan De Dios Filiberto,"Vintage Argentine Tangos (1928 - 1954), Vol. 1",Quejas de bandoneón,17,157727,False,0.368,0.323,2,-12.511,0,0.0383,0.981,0.913,0.347,0.436,120.747,4,tango
+0dVQgkU5kk2llGOXVw8UR1,Hugo Del Carril,Marcha Peronista - Evita Capitana,Mano a mano,16,202840,False,0.571,0.407,2,-9.408,0,0.0604,0.986,0.0134,0.351,0.718,133.682,4,tango
+4PkNM0hH7ClERBo74DA68v,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Caminito,18,148133,False,0.718,0.472,6,-5.22,1,0.104,0.988,1.89e-05,0.105,0.552,124.447,4,tango
+65Nsdp5xpJ8GPwNivfQvN5,Marko Maunuksela,Uuteen valoon,Maailmanloppu,17,234920,False,0.605,0.681,3,-6.385,0,0.0288,0.248,0.0,0.347,0.56,141.052,4,tango
+51M9t2S9DA3iiKP7XfsErs,Sexteto Mayor,Our Last Tango (Original Motion Picture Soundtrack),Jugando jugando,17,134333,False,0.512,0.393,2,-12.686,1,0.0635,0.802,1.42e-05,0.23,0.688,102.907,1,tango
+1XykaNvsp7ZntubyDKdQNf,Miguel Calo;Raul Beron,Tango Classics 225: Trasnochando,Trasnochando,17,183414,False,0.66,0.13,2,-15.896,0,0.133,0.912,0.516,0.194,0.659,124.481,4,tango
+0Elfdj2gQ0Ib0h49kCKb2R,Maria Graña;Jorge Calandrelli,María,Caserón de Tejas (feat. Jorge Calandrelli),17,250133,False,0.444,0.121,5,-14.244,1,0.0366,0.968,0.000676,0.17,0.28,92.64,4,tango
+5VrerhWRu30Wffr8UDsl5e,Teemu Roivainen,Sydämesi tyhjä huone,Rakastan enemmän sua kuin ketään ennen,17,235933,False,0.247,0.649,4,-5.401,0,0.0344,0.422,0.0422,0.112,0.417,183.691,3,tango
+7lXfsHwwybFFzRwulxmYwF,Alberto Gomez,"Lo Mejor del Tango, Vol. 2",Isla de Capri,17,192666,False,0.511,0.12,7,-15.235,1,0.0429,0.951,0.0,0.367,0.737,113.009,4,tango
+45b8vMqstjcI1Cybs7XDUO,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Cabulero,17,172904,False,0.582,0.224,0,-11.773,1,0.0434,0.635,0.27,0.119,0.489,110.998,4,tango
+6AzV5YxcKVbua67oGQJPVN,Romántica Milonguera,Algo contigo,Algo contigo,18,197951,False,0.481,0.505,0,-5.746,1,0.0413,0.786,0.00387,0.194,0.689,126.958,4,tango
+2kxlAkGkl4gptyF2yQI0CU,Mercedes Simone,The Roots Of Tango - Milonga Sentimental,Milonga Sentimental,17,158842,False,0.775,0.306,9,-11.614,1,0.216,0.992,0.00114,0.121,0.734,93.616,4,tango
+4RBOxmN2dset44FWqnUJSp,La Juan D'Arienzo,Cortando Clavos,La Cumparsita,18,223097,False,0.656,0.212,7,-8.716,0,0.0538,0.785,0.551,0.105,0.629,134.285,4,tango
+0tGPciWRMCp1o5P2YlSU79,Osvaldo Pugliese,The Vast Ocean of Tango,La Yumba,17,166948,False,0.802,0.285,9,-10.043,0,0.0791,0.865,0.921,0.137,0.788,121.288,4,tango
+76JQ2mPUCFb4XxC9xtmTBj,Agustín Irusta,"Malena, Cambalache And Other Tangos",Garufa,18,137360,False,0.428,0.434,9,-10.734,1,0.0387,0.963,0.119,0.186,0.871,62.874,3,tango
+6EzqzenM8KfZ0zrXBnTv7l,Julio Sosa;Leopoldo Federico y su Orquesta,El Firulete,Entre Sueños (with Leopoldo Federico y Su Orquesta),17,162546,False,0.519,0.601,4,-8.953,0,0.189,0.841,0.0,0.676,0.601,114.599,4,tango
+39sNfGaQUhX5ClaaKlq0qi,Ignacio Corsini,El Caballero Cantor del Tango,Botines Viejos,17,155626,False,0.53,0.36,1,-7.957,0,0.0441,0.974,0.0,0.122,0.669,132.247,4,tango
+7qdx4UFe97R1fsiHIUmaVv,Roberto Goyeneche;Trio Baffa-Berlingieri,Che Bandoneón,Che Bandoneón (with Trio Baffa-Berlingieri),17,166613,False,0.569,0.523,2,-4.283,0,0.0854,0.772,0.0,0.0459,0.316,112.197,4,tango
+0o3r27hQXI3cqZbvfpljRh,Rubén Juárez,20 Grandes Exitos,Cambalache,38,188200,False,0.585,0.256,2,-17.089,1,0.08,0.546,0.0,0.617,0.793,115.227,4,tango
+3cLVd6Hwk1ey1CAn5IkHKs,Orquesta Tipica Buenos Aires,La Cumparsita,Adios Pampa Mía,17,203026,False,0.715,0.262,0,-9.681,1,0.0512,0.4,0.755,0.0745,0.521,122.267,4,tango
+7yjwhdcLGhfLTYXPiXEABi,Aníbal Troilo,Recordando a Aníbal Troilo,Bandoneón arrabalero,16,163866,False,0.395,0.492,2,-5.148,0,0.0329,0.928,0.00904,0.21,0.582,112.292,4,tango
+0yXH5OOhgHmOcV6F8H6kPC,Solo Tango Orquesta,2010-2015,Loca,16,139320,False,0.454,0.414,4,-8.405,0,0.0389,0.92,0.577,0.151,0.644,149.324,4,tango
+4zF3b1rGGqWxiqe2T7722A,Julieta Laso,Cabeza Negra,Corazón Maldito,16,204889,False,0.286,0.276,6,-8.159,1,0.0338,0.732,4.69e-06,0.104,0.338,206.356,4,tango
+2YWWcx9y4NzKorQbPtSxBX,Eladia Blazquez,Somos o No Somos...?,El Corazón al Sur,17,219986,False,0.463,0.352,0,-7.673,0,0.0514,0.878,0.0,0.0824,0.134,72.28,3,tango
+4sBkID6i6b3SOzHQUzE1hX,Carlos Gardel,Victoria,Muñeca Brava,18,141949,False,0.712,0.261,3,-12.246,1,0.0952,0.976,0.0,0.0924,0.847,128.489,4,tango
+0C8zzkDkYHghSarrbOv60X,Alberto Morán;Orquesta Osvaldo Pugliese;Oscar Herrero,Entrador (1952-1953),Porque no te tengo más,16,183426,False,0.445,0.362,7,-8.871,0,0.0501,0.985,0.0385,0.122,0.308,115.115,4,tango
+0eIU2jLC1kSkMw14jcTlWx,Solo Tango Orquesta,Quejas De Bandoneon,Quejas De Bandoneon,16,216500,False,0.39,0.445,2,-10.695,0,0.0485,0.449,0.0887,0.0885,0.325,112.468,4,tango
+1HjxqsoGIvIQGzJ8ArYOrL,Carlos Gardel,La Historia Completa De Carlos Gardel - Volumen 3,Caminito,18,150466,False,0.651,0.398,5,-11.251,1,0.314,0.99,0.0,0.404,0.675,124.502,4,tango
+4iGJho7dF1IriVyvPP1g9Y,Aníbal Troilo;Floreal Ruiz,Tinta Roja,Flor De Lino,17,175293,False,0.5,0.373,7,-5.399,1,0.0532,0.864,2.51e-05,0.0649,0.597,99.845,4,tango
+20MV2Avs2v1liJjlUXoVnB,Quadro Nuevo,MARE,Sambadi Didi,17,356719,False,0.525,0.292,10,-14.041,1,0.0675,0.938,0.672,0.0845,0.412,170.983,4,tango
+5PiFseWc83v6AzbDmu1rLn,Pablo Valle Sexteto,Para Siempre,No Mientas,17,155904,False,0.783,0.334,7,-6.632,0,0.105,0.681,0.00999,0.0712,0.909,137.345,4,tango
+7ft5LEHDcfMKhWx9809wwX,Adriana Varela,Toda Mi Vida,Malena,17,156096,False,0.488,0.209,2,-13.31,0,0.0402,0.808,3.13e-05,0.0792,0.456,96.268,4,tango
+2XvbSOBOPFkYnOsmpADFlf,Lucio Demare;Raúl Berón,Al Pasar,Tal Vez Sera Su Voz,17,185226,False,0.569,0.259,0,-8.314,1,0.0497,0.862,0.000974,0.54,0.632,122.35,4,tango
+3MRoy5cF7RzT1Siw13nOmD,Solo Tango Orquesta,2010-2015,Canaro in Paris,17,148133,False,0.455,0.458,6,-8.95,0,0.0325,0.884,0.681,0.282,0.668,144.347,4,tango
+2M7L6ZcvqvLWexJzwKZRqC,Juan D'Arienzo,Las Canciones de Juan D'arienzo,La Bruja,17,133333,False,0.701,0.375,1,-9.167,0,0.134,0.97,0.00045,0.0815,0.764,140.428,4,tango
+2ZfvKOIRxKS3ssDglE0EfK,La Chicana,Antihéroes y Tumbas (Historias del Gótico Surero),La Uva,17,175120,False,0.533,0.38,2,-6.411,1,0.061,0.714,0.0,0.104,0.521,111.42,4,tango
+3ddHcqV0TBPAdBiIqqa3YL,Ignacio Corsini,"Colección Completa, Vol. 33 (Remasterizado)",Cuartito Azul - Remasterizado,16,195426,False,0.47,0.109,6,-17.604,1,0.0669,0.992,1.26e-06,0.12,0.461,53.17,4,tango
+5slXcPtVBroZJ7wjqTnWbK,Adriana Varela,Tango en Vivo,Afiche,16,248280,False,0.484,0.249,11,-17.28,0,0.0528,0.821,6.28e-05,0.969,0.481,84.737,4,tango
+5wuoluzTrjHU1xPEC9Nyim,Francisco Canaro;Carlos Galán,La Milonga de Buenos Aires,Negrito,16,170186,False,0.626,0.609,11,-7.699,1,0.0717,0.971,0.00328,0.484,0.908,78.336,4,tango
+2tX7C22uz7efbFODrwmcw4,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Cambalache,17,182413,False,0.576,0.312,0,-11.496,1,0.039,0.851,0.298,0.106,0.749,121.601,4,tango
+3scy31i4bHwCkKglpuk9pO,Sexteto Milonguero,Doble o Nada,Buscándote,16,168000,False,0.468,0.337,9,-9.125,0,0.0481,0.558,0.0043,0.0857,0.408,129.974,4,tango
+7xkJE6IZaG4YAIrSdraqU2,Adriana Varela,Encaje,Pero Yo Sé,17,176573,False,0.538,0.324,9,-10.618,1,0.054,0.684,0.0,0.0647,0.821,115.973,4,tango
+3C8UT7tms0t0CGaW3q5dvB,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Silencio (Remastered 2022),17,161732,False,0.726,0.125,11,-11.751,0,0.143,0.983,0.0,0.183,0.486,115.526,4,tango
+6Ly9U5z5uVMdj7yBqaNwFn,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,La Violetera,17,138186,False,0.597,0.391,10,-10.728,1,0.137,0.995,0.402,0.169,0.773,62.639,4,tango
+0I5MZVa5UHHCtoZUpnAnnW,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,Tango a Pugliese,16,214752,False,0.58,0.187,2,-11.27,0,0.0605,0.618,0.0371,0.0785,0.523,108.842,4,tango
+5mA2qjioUySOxB6Hvxt9go,Adriana Varela,Tango en Vivo,Barrio de Tango,16,182813,False,0.469,0.441,7,-11.925,1,0.0315,0.713,3.96e-05,0.759,0.796,112.865,4,tango
+38RAiDHgY436zkGXTmQvkp,Hugo Díaz,Tangos,Cuesta Abajo,17,270512,False,0.569,0.471,0,-8.971,1,0.0735,0.63,0.625,0.0909,0.417,101.855,4,tango
+0N0xou1mzdylhugO28TJAY,Julio Sosa;Orquesta de Leopoldo Federico,20 Great Tangos,Mano a Mano,17,200306,False,0.446,0.648,0,-9.425,0,0.0609,0.979,0.293,0.0923,0.655,113.816,4,tango
+2JpJEaNSlnnrSYLuAaR5uY,Carlos Di Sarli;Alberto Podestá,Tú... El Cielo y Tú,Soy Aquel Viajero,16,172026,False,0.505,0.388,0,-6.802,1,0.0414,0.975,0.000173,0.0906,0.713,119.398,4,tango
+4ZJBMNiP7KDRx7rjW7aVW0,Armando Pontier;Julio Sosa,Presentando a Armando Pontier,Cambalache,17,191013,False,0.664,0.569,0,-6.122,1,0.153,0.675,0.0,0.0585,0.88,120.409,4,tango
+6BtSgox2avhHgBKKba85aM,Alfredo De Angelis,Que Nadie Sepa Mi Sufrir,Que Nadie Sepa Mi Sufrir,17,181400,False,0.418,0.555,11,-7.045,0,0.0511,0.972,0.0157,0.243,0.795,104.336,4,tango
+0kQuNmcgymh1RlwiCc3hIc,Adriana Varela,Toda Mi Vida,Maquillaje,17,202906,False,0.685,0.15,2,-10.604,0,0.0549,0.934,0.0,0.133,0.444,107.254,3,tango
+33gpMXRcFSeHqeLhcAUiWY,Amores Tangos,Orquesta de Carnaval,Ausencia,16,240160,False,0.448,0.133,7,-11.943,0,0.0324,0.866,0.654,0.107,0.365,99.782,4,tango
+6jalCuqi5v3XjGgeYztaCL,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Caminito (Remastered 2022),18,149532,False,0.745,0.255,5,-11.416,1,0.102,0.995,0.00197,0.135,0.549,123.598,4,tango
+5UXuombq8sj6a1QW5GUl4A,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Antologia Roberto Goyeneche,Chau... No Va Más...! (with Atilio Stampone y su Orquesta Tipica),18,221226,False,0.416,0.402,3,-8.801,1,0.0491,0.916,0.000193,0.193,0.467,104.308,4,tango
+4Vwm2Gevk9GVhncufTOzBw,Julio Sosa,"100 Tangos, Vol. 4",Dicen Que Dicen,16,200013,False,0.479,0.566,2,-3.135,1,0.044,0.94,0.0,0.173,0.723,118.532,4,tango
+3eyxBcT0do1v6n374tqOyS,La Chicana,Ayer Hoy Era Mañana,Oro Y Plata,17,196120,False,0.606,0.69,11,-6.69,0,0.119,0.57,0.0,0.0928,0.626,104.918,4,tango
+61J8L2XV5xyxKguKvPHr7p,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,El Día Que Me Quieras,17,206733,False,0.394,0.41,5,-6.779,0,0.0564,0.993,0.00437,0.226,0.492,101.432,3,tango
+2vBwFokLxFa7gCb6Dd1uYj,Alfredo De Angelis;Carlos Dante;Julio Martel,Yo Soy El Tango,Soñar Nada Mas,17,185293,False,0.492,0.387,10,-13.426,1,0.0694,0.905,0.157,0.288,0.679,103.781,4,tango
+10hldw4BvNyHIoiGZHO8ll,Francisco Canaro,Tango Classics 234: Valsecito Amigo,La Milonga de Mis Tiempos,17,195182,False,0.604,0.372,7,-15.684,1,0.0747,0.967,0.958,0.313,0.775,100.123,4,tango
+2hxXJVgMub6ZCfkhZsvPJ1,Amores Tangos,Orquesta de Carnaval,Milonga Cardinal,17,195760,False,0.693,0.421,4,-9.639,0,0.108,0.311,0.472,0.0844,0.598,105.922,4,tango
+7A809aYX4a6L7it1x5l5TV,Orquesta Tipica Fernandez Fierro,Envasado en Origen,Maquillaje,17,161613,False,0.508,0.278,0,-10.312,0,0.064,0.658,0.0,0.0474,0.387,113.823,4,tango
+00RrOc0e6AlGWXRd9FERYR,Héctor Varela;Jorge Falcón;Fernando Soler,Mis 30 Mejores Tangos,"Azúcar, Pimienta y Sal (with Jorge Falcón & Fernando Soler)",16,196493,False,0.708,0.396,5,-11.278,1,0.0454,0.857,3.54e-06,0.0799,0.901,104.123,4,tango
+6qwXXUgLgtjpo5LYDPro8B,Alfredo De Angelis,Bailando Tango,Felicia,17,168626,False,0.684,0.397,2,-10.193,0,0.0443,0.691,0.778,0.24,0.675,120.547,4,tango
+7imfMQIUDk8rLkpdyRryOs,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Mano a Mano (with Leopoldo Federico y Su Orquesta),16,192200,False,0.518,0.718,0,-4.931,0,0.103,0.814,2.63e-06,0.393,0.777,117.09,4,tango
+7IKkjLNri57Eamr6qdRYBu,Alfredo De Angelis;Juan Carlos Godoy,Yo Soy El Tango,Maldito Corazón,17,130853,False,0.565,0.39,11,-10.167,0,0.0497,0.891,0.0367,0.32,0.615,104.778,4,tango
+4f93IRG3Pdu01AgWRlReGW,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Uno,16,225226,False,0.433,0.489,11,-7.568,1,0.0529,0.907,0.0,0.122,0.494,122.512,4,tango
+1ujjP3ypiB2yT3sheWsykN,Argentino Ledesma,Argentino Ledesma - Fumando espero,Cuartito azul,16,177106,False,0.469,0.452,5,-8.816,1,0.0367,0.851,1.43e-05,0.348,0.516,115.209,4,tango
+3NOPlK84wk4UcHLs7MDgjw,Osvaldo Pugliese;Roberto Chanel,El Sueño Del Pibe,Corrientes Y Esmeralda,17,168493,False,0.637,0.343,6,-5.885,0,0.0836,0.903,2.75e-05,0.0885,0.573,117.023,4,tango
+3K1aWqKLwMb1z0TtD4zXdG,Raúl Lavié;Soledad Pastorutti;Antonio Tarragó Ros,Las Mujeres de Lavié,María Va,17,239013,False,0.354,0.289,7,-8.267,0,0.0282,0.761,0.0,0.0731,0.338,105.108,3,tango
+2RfncplwWMhuFY7nv2Dwwa,Rodolfo Biagi Y Su Orquesta Tipica,Estrella,Duerme mi Niño,16,184064,False,0.559,0.376,9,-7.184,0,0.0478,0.934,0.000572,0.147,0.572,120.525,3,tango
+2zl1eNrKUvaKRRLS0TlME4,Carlos Gardel,Incomparables,Se Acabaron Los Otarios,17,140186,False,0.668,0.23,4,-16.238,1,0.118,0.995,0.561,0.22,0.805,70.912,4,tango
+7Irva5qOe8O23zOeqaVaf4,Charlo,Presentando a Charlo,Tormento,16,155693,False,0.589,0.274,9,-9.291,1,0.146,0.944,0.0,0.176,0.644,89.282,4,tango
+6HRtyQ0CL1wLsSY7FUqOKf,Aníbal Troilo Y Su Orquesta Típica,Buenos Aires Tango 2,Soñar Y Nada Más,17,194453,False,0.331,0.542,1,-8.006,0,0.0471,0.988,0.00195,0.276,0.592,188.773,3,tango
+4pnxGalm5jAzyHz1RTnk0V,Jose Basso;Floreal Ruiz,Vieja amiga (Historical Recordings),Quedemonos aqui,17,182901,False,0.437,0.266,8,-14.183,1,0.0413,0.835,4.16e-06,0.411,0.381,117.738,4,tango
+7nyMjLPkiqypi3WlGhwFLY,Ricardo Tanturi;Enrique Campos,Malvon (Historical Recordings),Oigo Tu Voz,17,182973,False,0.549,0.244,9,-11.421,0,0.043,0.93,0.00547,0.541,0.739,124.986,4,tango
+3iw8KDjVT4PJQh518JXG96,Pepe Aguirre,Dejame morir,Pensando en ti,18,179002,False,0.585,0.259,4,-9.131,1,0.0437,0.986,0.000304,0.526,0.842,99.378,4,tango
+0TfbssuCn3FsKe9Y0J6klx,Rubén Juárez,20 Grandes Exitos,Contame Una Historia,17,156666,False,0.446,0.213,4,-18.634,0,0.128,0.906,0.0,0.373,0.806,172.003,1,tango
+0Duoe8nWCWXMXkXjppCaXf,Marko Maunuksela,Lunta,Lunta,17,198203,False,0.314,0.263,2,-9.81,1,0.0315,0.736,2.19e-05,0.113,0.318,132.166,4,tango
+49LFIIk9TIvKyTkloCvHyh,Osvaldo Pugliese,El Maestro al Piano (Remastered),Don Agustín - Remastered,16,220773,False,0.427,0.428,7,-7.389,0,0.0351,0.542,0.236,0.06,0.628,113.231,4,tango
+5cW4aOtvAhHTLHfTq8q78Y,La Juan D'Arienzo,Cortando Clavos,Este Es el Rey,17,178700,False,0.529,0.319,6,-5.518,0,0.0407,0.804,0.75,0.243,0.615,136.395,4,tango
+2CJLOGwbiMJfW5dcYCes9b,Osvaldo Pugliese;Jorge Maciel,Y Todavía Te Quiero,Y Todavía Te Quiero,16,166880,False,0.447,0.282,9,-11.037,0,0.0415,0.968,0.0,0.57,0.456,105.066,5,tango
+6tjk05DlAOZZbGB3AMfnxH,Carlos Gardel,Selección Especial (Remastered),Caminito - Remastered,17,150266,False,0.706,0.338,5,-8.131,1,0.0872,0.988,0.00223,0.105,0.576,122.807,4,tango
+20b1BeYERzfXEFIjwqaKPM,Roberto Goyeneche,Uno,Zurdo,17,204253,False,0.483,0.28,2,-8.324,0,0.0389,0.857,7.07e-06,0.167,0.455,117.863,4,tango
+6HMP788mRENc5j4ODUxFVA,Osvaldo Pugliese,Instrumentales Inolvidables Vol. I,El Arranque - Instrumental,17,185390,False,0.613,0.105,4,-17.887,1,0.0445,0.875,0.156,0.0642,0.473,120.619,4,tango
+4mSXlgIRqG5wvTJCzoPDzq,Florindo Sassone Y Su Orquesta,Tangos de oro,Nostalgias,16,167400,False,0.479,0.214,1,-13.639,0,0.034,0.713,0.82,0.116,0.588,112.304,4,tango
+0vy0XdurXegygrZK3CLzTR,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",La Cumparsita (Remastered 2022),17,134959,False,0.718,0.216,1,-12.261,0,0.26,0.993,0.00368,0.0991,0.722,122.689,1,tango
+4Aeus4U3EiGtUF9cyempfd,Carlos Gardel,El Album De Oro De Carlos Gardel,Soy Una Fiera,17,146240,False,0.595,0.386,8,-11.447,1,0.328,0.995,0.493,0.232,0.852,177.603,4,tango
+3Kxj93fsf9R8siYp8EwaoU,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Yira...Yira (with Atilio Stampone y su Orquesta Tipica),17,168746,False,0.407,0.376,3,-9.899,1,0.033,0.871,0.00034,0.0823,0.571,112.889,4,tango
+3DbjtPFdx1krcd6EcGbQMq,Enrique Rodríguez;Armando Moreno,Mujeres Feas,Mis Harapos,17,182240,False,0.766,0.407,5,-8.344,0,0.0435,0.842,0.517,0.0288,0.893,100.913,4,tango
+0hMGUkCU49mrB6cSSPBWGa,Domingo Federico,The Roots of Tango - Mi Dolor,Para Que Te Quiero Tanto,16,156544,False,0.651,0.2,1,-8.959,0,0.0819,0.956,0.326,0.262,0.456,125.822,4,tango
+6jIRDW2S6JJAMc44ScYM2r,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Ventarrón (Remastered 2022),17,158092,False,0.619,0.161,6,-16.023,1,0.144,0.958,0.0,0.548,0.674,174.925,3,tango
+69bWj2jifC1fbuiMxyGcw5,Jaska Mäkynen,Alla Etelän Taivaan,Alla Etelän Taivaan,18,193293,False,0.558,0.552,0,-9.254,0,0.0248,0.125,0.0,0.146,0.748,102.544,4,tango
+7i2wzvvoKjzIaXCRYDSI46,Juan D'Arienzo y su Orquesta Típica;Mario Bustos,"El rey del compas, Recordings 1956 - 1957",No te quiero más,17,148003,False,0.52,0.369,11,-14.704,0,0.0714,0.937,0.0041,0.165,0.794,125.166,4,tango
+373oWlgKEPssyAnELcAe8a,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche,Fueye,16,183346,False,0.479,0.369,0,-9.348,1,0.0432,0.75,1.38e-06,0.344,0.486,111.782,5,tango
+79mbq9PamZiNAUBM8HFjSm,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,Tinta Roja 1971,Tinta Roja (with Roberto Goyeneche),16,178866,False,0.483,0.456,2,-6.482,1,0.0427,0.676,0.0,0.136,0.509,58.628,4,tango
+2ZpBL3XWuurCyN6k1ayBj7,Carlos Gardel,"Essential Classics, Vol. 9: Carlos Gardel (Remastered 2022)",Tomo y Obligo (Remastered 2022),17,139425,False,0.713,0.169,2,-13.517,0,0.275,0.993,9.94e-05,0.162,0.684,112.507,4,tango
+7v9nvyCejhgxID3zZwg0tJ,Astor Piazzolla;Daniel Barenboim;Rodolfo Mederos;Héctor Console,Piazzolla et al : Mi Buenos Aires querido,"Piazzolla: Estaciónes porteñas: No. 3, Invierno porteño",16,225306,False,0.475,0.0977,11,-15.504,0,0.0458,0.944,0.043,0.0905,0.148,97.574,4,tango
+6jwMKPgV7b91lCPva7aK26,Astor Piazzolla,Piazzolla Tangos 6,Enrico Iv,16,158960,False,0.487,0.564,11,-8.634,0,0.0272,0.818,0.759,0.369,0.331,86.647,4,tango
+5qpNxZb2y07DNBJg6rsZz8,Roberto Goyeneche,Berretín,Alma De Loca,17,154240,False,0.439,0.706,7,-4.388,1,0.0418,0.922,0.0,0.363,0.802,105.272,4,tango
+6qeDUdUelcHCYumRpbQb9Z,Reijo Taipale,20 Suosikkia / Onnen maa,Satumaa,18,179960,False,0.783,0.324,4,-7.549,0,0.0414,0.728,0.0,0.068,0.803,121.18,4,tango
+31fFbxQiOwnegsxaNhPd1d,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,"Yira, Yira",17,167493,False,0.66,0.473,3,-7.11,1,0.0717,0.993,0.321,0.203,0.666,120.282,4,tango
+79VrelRFESEuKroG3Q5O4R,Roberto Goyeneche;Raúl Garello y su Orquesta,Esenciales,Malevaje (with Raúl Garello y su Orquesta),17,168213,False,0.549,0.581,2,-6.559,1,0.0496,0.726,0.00147,0.111,0.555,112.784,4,tango
+5maPtCuqWTyK4F0bMCRFUa,Miguel Calo,Que Falta Que Me Hacés,Pedacito de Cielo,16,141305,False,0.706,0.287,0,-7.759,0,0.0601,0.937,0.28,0.0926,0.92,104.077,1,tango
+0wqqLC1IRgsgivUAmna9F4,Miguel Calo;Raúl Berón,Mi Cantar,Jamás Retornarás,16,150346,False,0.7,0.304,2,-7.406,0,0.0444,0.934,0.29,0.0984,0.513,121.063,4,tango
+4oyjyN00E3VDWcguBoZ85o,Roberto Goyeneche;Astor Piazzolla,Astor Piazzolla/ Roberto Goyeneche,Balada para un Loco,17,266600,False,0.468,0.247,0,-14.514,1,0.223,0.888,2.77e-05,0.285,0.367,90.136,4,tango
+31ql0EdraNzj7kgpltf2bh,Miguel Calo,Música de Mi Ciudad,Percal,17,173680,False,0.71,0.291,3,-12.51,1,0.0506,0.929,0.0507,0.137,0.615,125.955,4,tango
+44MuHC0wUbbw3qrWyxn74C,Jorge Falcón,Mis 30 Mejores Tangos,Ninguna,17,220733,False,0.344,0.354,0,-12.328,1,0.0329,0.749,0.0,0.11,0.19,98.166,4,tango
+5RmwnutLzy2WcjbSZ2VDOQ,Miguel Calo,Que Falta Que Me Hacés,Corazón No Le Hagas Caso,17,178451,False,0.657,0.393,8,-3.518,1,0.0433,0.843,0.0473,0.14,0.527,118.783,4,tango
+0IuqzRmdmLcfD7wcXcJ2j3,Roberto Goyeneche,Historia de Oro,Desencuentro (En Directo),17,112059,False,0.447,0.53,11,-9.328,0,0.164,0.646,9.98e-05,0.901,0.523,90.329,5,tango
+56Ds9Az67bKX7u7Z7797Ux,Roberto Goyeneche;Baffa-Berlingieri y su Orquesta,Esenciales,El Último Café (with Baffa-Berlingieri y su Orquesta),17,171160,False,0.455,0.567,11,-5.384,1,0.0383,0.852,1.59e-06,0.322,0.599,116.077,3,tango
+3Pmth8Nd5gTT4A0un3xO7j,Enrique Rodríguez,The Roots of Tango - Silbando un Tango,Como Se Pianta la Vida,17,141575,False,0.661,0.456,4,-5.671,0,0.1,0.931,0.343,0.129,0.765,139.476,4,tango
+4ndCkGOqDJUCc12tEINzSU,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Fangal,16,160106,False,0.485,0.39,10,-9.855,1,0.0467,0.899,0.0,0.5,0.663,116.008,4,tango
+4ngUnaURVlnkmwqGbTVtG9,Jorge Falcón,Mis 30 Mejores Tangos,Quiero Verte Una Vez Más - Remasterizado,17,220706,False,0.41,0.424,9,-9.981,0,0.0561,0.88,4.86e-05,0.337,0.406,102.066,4,tango
+70bQUOHD9Fz9dy4wnpADuI,Carlos Gardel,Los Exitos De Sus Peliculas,El Día Que Me Quieras,17,201266,False,0.379,0.327,3,-7.349,1,0.0453,0.936,0.0538,0.113,0.381,135.117,5,tango
+7K4YsePBmimGEb2ty0OxwJ,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Maestros Del Tango,Gricel (with Atilio Stampone y su Orquesta Tipica),17,184266,False,0.31,0.445,5,-8.952,1,0.037,0.889,0.0239,0.076,0.428,61.462,3,tango
+4oU7NbUt2VfN8GBT4hnsrX,Roberto Goyeneche;Sexteto Tango,Roberto Goyeneche - RCA Victor 100 Años,Un Tropezón (with Sexteto Tango),17,169866,False,0.561,0.461,7,-8.326,1,0.0603,0.797,1.27e-05,0.146,0.657,111.575,4,tango
+63vwFiYW1mkStNOmTVOlMS,Roberto Goyeneche;Orquesta Típica Porteña,Roberto Goyeneche - RCA Victor 100 Años,"Che Papusa, Oí!... (with Orquesta Tipica Porteña)",17,160173,False,0.504,0.524,7,-8.036,0,0.0745,0.821,4.24e-06,0.0633,0.764,111.388,4,tango
+0RHEVGvrBHKtizAO5SQSKd,Quinteto Real,Vinyl Replica: Quinteto Real,Ensueños - Tango,16,162413,False,0.574,0.727,4,-3.44,0,0.0362,0.804,0.662,0.331,0.806,120.046,4,tango
+4ZXZKLCXALRAD9xWkPd5Yr,Romántica Milonguera,"Romantica Milonguera, Vol. IV",Fuimos,17,192329,False,0.43,0.533,10,-4.311,1,0.0365,0.527,0.043,0.237,0.432,130.646,4,tango
+3sMOYnA1xxqh5OJ3YJK5fu,Romántica Milonguera,"Romantica Milonguera, Vol. IV",Nada,17,166234,False,0.408,0.621,5,-3.924,1,0.0356,0.749,0.0368,0.354,0.571,130.771,4,tango
+6md0jXzz5rg8WJxG80lcPG,Romántica Milonguera,Besos Brujos,Besos brujos,17,186389,False,0.607,0.332,0,-7.752,1,0.0458,0.725,1.47e-05,0.502,0.662,128.272,4,tango
+6xFEo7q9LZXhVfSzfjrsZa,Lucio Demare;Juan Carlos Miranda,Lucio Demare,Mañana Zarpa un Barco,16,202240,False,0.702,0.371,7,-6.554,1,0.0723,0.924,0.000517,0.141,0.895,116.033,4,tango
+70kWchKWK36Uf5cVIoDbgK,Los Muchachos De Antes,Silueta Porteña,Union Civica,16,110602,False,0.783,0.432,2,-12.045,1,0.0665,0.835,0.836,0.264,0.721,91.864,4,tango
+30qTRckUlXl8flA2y0eq6l,Quadro Nuevo,MARE,Plage À Trois,16,243784,False,0.482,0.192,10,-15.351,1,0.0365,0.927,0.748,0.125,0.198,120.941,3,tango
+79RW2aMziBqB3Oms3sFFB4,Romántica Milonguera,"Romantica Milonguera, Vol. IV",Quiero verte una vez mas,16,222870,False,0.444,0.467,2,-5.681,1,0.039,0.826,0.096,0.448,0.496,129.43,4,tango
+7wPxQanDO7kUBQupioNPW4,Alberto Morán;Francisco Canaro;Orquesta Osvaldo Pugliese,Entrador (1952-1953),La ultima copa,15,189253,False,0.494,0.244,11,-12.605,0,0.0505,0.939,0.0,0.305,0.321,111.962,4,tango
+76d4T3jql30UhXtvdoSgOO,Francisco Canaro;Roberto Maida,La Milonga de Buenos Aires,Milonga Brava,16,159560,False,0.749,0.399,4,-9.51,0,0.0731,0.934,0.912,0.108,0.829,108.921,4,tango
+0RT1X76cYO41KfLz1bIofg,Lucio Demare,"Tangos para Aficionados, Vol. 1",Malena,0,175200,False,0.63,0.298,2,-11.179,1,0.0455,0.861,9.62e-06,0.314,0.917,126.043,4,tango
+7cpKDvcBwwK7slreOVrfmE,Romántica Milonguera,"Romantica Milonguera, Vol. IV",Junto a tu corazon,17,176899,False,0.476,0.47,11,-5.835,0,0.0345,0.71,0.0817,0.0805,0.626,131.66,4,tango
+4LqX943ydRW59Nf48fQD2k,Nelly Omar,Nelly Omar - Desde el alma,La cumparsita,16,146720,False,0.545,0.339,4,-8.627,0,0.0408,0.96,6.58e-05,0.122,0.452,60.748,4,tango
+1kCh0vplw1ieZjPlQDGyTJ,Bassa,Berlin Tango,Tiramisu,16,256186,False,0.557,0.395,5,-9.514,1,0.0645,0.693,0.665,0.164,0.376,123.529,4,tango
+3Q2w3O1nrsKiu1xBXeBGSZ,Adriana Varela,Tangos de Lengue,Cabaret,16,125805,False,0.59,0.201,0,-13.623,1,0.056,0.719,0.0,0.213,0.566,125.26,4,tango
+3h0q9sI3Iw84Vs3XFocgh3,Sexteto Milonguero,"Pa' Que Bailen, Vol. 4",Dichas Que Viví,16,152906,False,0.601,0.543,11,-4.388,0,0.0418,0.747,3.02e-05,0.0592,0.829,98.151,4,tango
+78NJLw5yLGL4VK02C6kNON,Anibal Troilo y su orquesta,Antología Noble Del Tango: Sus Grandes Intérpretes Y Compositores,Quejas De Bandoneón,16,160493,False,0.313,0.338,2,-10.253,0,0.0358,0.99,0.912,0.402,0.44,73.609,4,tango
+3YBE8gY80UpnmFzYm3uJuc,Adriana Varela,Encaje,Malevaje,16,185173,False,0.656,0.294,9,-10.341,0,0.0751,0.859,6.22e-05,0.0645,0.53,111.967,3,tango
+0ONSuyVkmR5FGYhBUeNYVM,Quadro Nuevo;Paulo Morello;Tim Collins,MARE,Sun Will Shine Again,17,258187,False,0.603,0.397,5,-10.222,1,0.0346,0.927,0.787,0.0856,0.473,81.794,4,tango
+4lj0XvqkA0zt68OhaDr7wr,Francisco Canaro,Presentando a Francisco Canaro,El Lloron,16,135826,False,0.606,0.375,7,-9.717,0,0.187,0.685,0.00018,0.0486,0.844,162.371,4,tango
+575U2JxOxkUIVIRqUX93aT,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Percal,16,169160,False,0.595,0.315,2,-12.752,0,0.0344,0.699,0.85,0.325,0.471,119.658,4,tango
+6j7gDrU08PuIcYQPob45hP,Florindo Sassone Y Su Orquesta,Tango internacional,Celos,16,225512,False,0.492,0.32,2,-11.911,1,0.0407,0.801,0.288,0.315,0.488,117.914,4,tango
+6bY4GzdwOtwT3sQTpWIBBc,Francisco Canaro;Nelly Omar,Tristeza Criolla,Desde el Alma,16,173573,False,0.448,0.342,5,-10.666,0,0.0391,0.923,0.0115,0.259,0.714,100.526,3,tango
+1lZrTyGpXLvos7aQ8w4nuC,Carlos Di Sarli y su Orquesta Típica,Solo Tango: Carlos Di Sarli - Instrumental Vol. 1,El Ingeniero - 2ª Versión,16,194293,False,0.634,0.383,7,-7.707,0,0.0355,0.845,0.647,0.307,0.405,119.2,4,tango
+0I0bZlt1lW3HMCDiTBkbt3,Susana Rinaldi,Tangos Famosos Cantados,Sur,16,198693,False,0.327,0.161,9,-15.362,0,0.0437,0.938,0.0,0.159,0.277,164.744,5,tango
+56hVuDeMiJnFmhxJFiBnoh,Hugo Del Carril,Marcha Peronista - Evita Capitana,A media luz,16,125160,False,0.505,0.471,2,-8.727,1,0.181,0.98,6.68e-05,0.156,0.83,173.66,3,tango
+61F9fyWdrkV1yNdja4J18W,Olavi Virta,Olavi Virta,Punatukkaiselle tytölleni,19,174613,False,0.41,0.403,7,-10.563,0,0.0419,0.894,0.0,0.121,0.658,108.927,4,tango
+4iK8ucatwfyHTQWUlyYhT2,Horacio Salgán;Daniel Barenboim;Rodolfo Mederos;Héctor Console,Piazzolla et al : Mi Buenos Aires querido,Salgán: Don Agustín Bardi,16,195466,False,0.673,0.276,7,-12.624,0,0.0568,0.717,0.693,0.123,0.5,106.989,4,tango
+6jB2trS8gm05r1Qx4qatgl,Alberto Gomez,"Aquellas Lindas Melodias, Vol. 1",El Punal Sevillano,15,199573,False,0.748,0.276,2,-11.203,0,0.0403,0.879,0.00148,0.0615,0.964,126.201,4,tango
+2keD5MiS8qMZCBZG1sCFXJ,Alfredo De Angelis;Floreal Ruiz,Zorro Gris,Dejame Así,16,178853,False,0.623,0.271,9,-6.979,0,0.043,0.895,1.59e-05,0.0944,0.557,120.308,4,tango
+6K6iyzjownhYBqnvU7XFXa,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Sus Ojos se Cerraron,16,164040,False,0.491,0.339,5,-10.439,0,0.0433,0.837,0.239,0.117,0.449,119.086,4,tango
+1nt1K4P3BWy3TJBGxU36eH,Tango Bardo,Del sur,Este es el Rey,16,159194,False,0.528,0.493,6,-7.262,0,0.0501,0.708,0.121,0.148,0.669,146.301,4,tango
+0efW8tfNf5xyjaXbIEhvxY,Orquesta Color Tango De Roberto Alvarez,Tango a Pugliese Con estilo para bailar Vol. 3,De Floreo,16,172016,False,0.564,0.219,4,-11.311,0,0.0489,0.801,0.0274,0.0632,0.62,117.286,4,tango
+3kzu8IJw82hj7HLInA4wZK,Héctor Varela y su Orquesta Típica;Rodolfo Lesica;Argentino Ledesma,Archivo Columbia : Hector Varela Vol.1,Como Tu Cariño (with Rodolfo Lesica & Argentino Ledesma),16,211053,False,0.611,0.448,7,-7.083,0,0.0461,0.649,1.06e-05,0.0464,0.402,99.404,4,tango
+4LLUi985q6WDtlskyc18sy,Carlos Lombardi;Los Românticos De La Noche,Lo Mejor Del Tango,Bandonéon Arrabalero,16,142866,False,0.545,0.272,2,-12.519,0,0.0318,0.798,0.73,0.211,0.367,115.015,4,tango
+133Uwns5OCKbOvynzHImct,Julio Sosa,En Esta Tarde Gris,Cambalache,16,192680,False,0.636,0.659,0,-3.769,1,0.15,0.659,0.0,0.0638,0.89,121.34,4,tango
+3JihSxhMN8mBypYzymzCbP,Ignacio Corsini,El Caballero Cantor del Tango,Tirana Unitaria,16,150133,False,0.675,0.436,5,-7.846,0,0.135,0.984,0.00197,0.357,0.777,102.689,3,tango
+1tXIObSOY5P8q3CCEGHW5d,Edmundo Rivero;Aníbal Troilo,Audacia (Remastered),"Yira, yira - Remastered",16,185415,False,0.58,0.268,2,-11.921,1,0.173,0.753,0.0,0.128,0.533,124.531,4,tango
+1Zyfq1qnQWoCsQSKIYYS0d,Adriana Varela,Vivo (Deluxe Version),Una Canción para la Magdalena,16,269626,False,0.499,0.279,4,-15.411,1,0.0563,0.926,0.000234,0.682,0.381,127.877,5,tango
+6SP4r5TErejdlCiNN76ik1,Tita Merello;Francisco Canaro,La Merello,Copa De Ajenjo,16,162920,False,0.542,0.25,2,-8.023,1,0.0444,0.883,0.0,0.135,0.539,124.561,4,tango
+1KG8SoycbII7iW3jVDCnE0,Ignacio Corsini,El Caballero Cantor del Tango,Betinotti,15,166320,False,0.542,0.332,7,-6.409,1,0.0606,0.98,0.000708,0.136,0.546,83.173,4,tango
+0jnn6iC6telrEW6A6t7Bg7,Libertad Lamarque,Libertad Lamarque Canta Canciones De Maria Grever,Tipi Tipi Tin,16,123306,False,0.661,0.121,10,-18.448,1,0.0522,0.755,0.0,0.115,0.515,102.764,3,tango
+1U3GdQLdncM09zLxAZr75a,Francisco Canaro,Los Tangos de Pirincho (Remastered),Cuartito Azul - Remastered,16,166320,False,0.554,0.296,4,-9.12,0,0.048,0.873,0.000647,0.0694,0.718,131.227,4,tango
+6vvxWfhIBewA9g7Sk3TGlY,Julio Sosa;Leopoldo Federico y su Orquesta,Reciedumbre Y Ternura,Madame Ivonne (with Leopoldo Federico y Su Orquesta),16,185240,False,0.475,0.661,2,-8.63,1,0.222,0.871,2e-06,0.319,0.567,110.572,4,tango
+7FvSbIm3vYJKnU0GI54Kns,Libertad Lamarque,Tangos Inmortales de Libertad Lamarque (Remastered),Uno - Remastered,15,151625,False,0.433,0.187,10,-13.219,1,0.0429,0.988,0.000574,0.252,0.182,120.456,4,tango
+0MBlJwww97Q8knaUUWV2mw,Alberto Castillo;Ricardo Tanturi Y Su Orquesta,Así Se Baila El Tango,El Choclo,16,124853,False,0.602,0.467,4,-7.099,0,0.13,0.871,0.0,0.159,0.621,125.237,4,tango
+3Pszz0Thx6sRZimEkm3GzT,Julio Sosa;Armando Pontier y su Orquesta,Esenciales,Al Mundo Le Falta un Tornillo (with Armando Pontier y su Orquesta),15,170306,False,0.623,0.658,7,-6.829,0,0.0681,0.736,0.0,0.0464,0.608,121.849,4,tango
+29yCzwx48IpomJuaCO9kyC,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Malena,16,187586,False,0.406,0.306,7,-11.731,1,0.106,0.939,8.51e-06,0.381,0.446,99.928,4,tango
+3OpJGIOGwLVJ8lz8pf7ZIR,Edmundo Rivero,Edmundo Rivero: Edmundo Rivero Canta A Discepolo / Tangos Que Hicieron Época,Chorra,15,138013,False,0.571,0.485,3,-8.417,1,0.192,0.91,0.0,0.07,0.6,116.956,4,tango
+2qlooHpvsRXrsaLFjD6lz7,Edmundo Rivero,El Rey del Tango (Remastered),Esta Noche Me Emborracho - Remastered,16,166346,False,0.313,0.563,3,-5.546,1,0.108,0.819,0.0,0.308,0.605,63.78,4,tango
+1jFgrIA3dvv2eZwLruIW4G,Astor Piazzolla,Rough Dancer And The Cyclical Night,Prologue - Tango Apasionada,34,110706,False,0.366,0.116,0,-18.619,0,0.0434,0.455,0.745,0.145,0.224,202.564,4,tango
+6EBpZveXzC6YcqpevNF1gq,Tango Negro Trio;Juan Carlos Caceres,No me rompas las bolas,Toca tango,16,173786,False,0.755,0.445,10,-9.359,0,0.203,0.742,8.86e-05,0.0769,0.662,108.408,4,tango
+1Qrbt9jn7sxEiq1dQQpfiZ,Lucio Demare;Juan Carlos Miranda,Al Pasar,Mañana Zarpa un Barco,16,202266,False,0.697,0.362,7,-6.539,1,0.0823,0.917,0.000468,0.135,0.857,115.993,4,tango
+5J7E1El7vKqXNUmwCI3KAh,Aníbal Troilo;Edmundo Rivero,Toda Mi Vida,Yo Te Bendigo,16,210093,False,0.494,0.409,2,-4.616,1,0.0515,0.908,0.0855,0.369,0.446,117.768,4,tango
+2vg8iuTWpyuPqoTYSe3t69,Osvaldo Pugliese;Alberto Morán,Desde el alma,La Noche Que Me Esperes,16,143413,False,0.396,0.465,5,-8.557,0,0.0369,0.954,7.37e-05,0.192,0.574,104.122,3,tango
+2JXLgBHZqDoj8SitXI9LYj,Héctor Varela y su Orquesta Típica,Archivo Columbia : Hector Varela Vol.1,Valsecito Criollo,15,133746,False,0.663,0.595,0,-8.718,0,0.0385,0.772,0.202,0.163,0.905,104.594,3,tango
+3TjXPh8bOY0K6K5WnReqH8,Esteban Morgado,Milongueros,Oblivion,16,305680,False,0.366,0.465,2,-4.685,0,0.0296,0.626,0.00416,0.161,0.353,116.53,4,tango
+2IuZrdeI3ZYUbzSyxbwUdo,Aníbal Troilo Y Su Orquesta Típica,Anibal Troilo Y Sus Cantores - RCA Victor 100 Años,Che Bandoneón,15,190880,False,0.421,0.426,2,-5.294,0,0.046,0.764,8.8e-05,0.207,0.505,86.934,1,tango
+6gdwTzt783X6dKpVZZSj2n,Quinteto Real,Nuestros 30 Mejores Tangos,Buenos Aires - Tango,16,141906,False,0.676,0.196,5,-13.303,1,0.0404,0.902,0.108,0.0878,0.527,117.112,4,tango
+3mdqbILyEC6aW9uPbnBrUs,Solo Tango Orquesta,2010-2015,Dime Mi Amor,15,153293,False,0.49,0.416,4,-9.692,1,0.0337,0.893,0.62,0.128,0.548,72.907,4,tango
+6qRHi481lXMxHLVz97JftW,Julieta Laso,Martingala,Fantasmas,16,213838,False,0.653,0.256,9,-8.31,0,0.0384,0.58,0.0,0.109,0.452,88.106,4,tango
+6EYXvxZRwDoKgVBMQiPq9b,Lucio Demare;Horacio Quintana,Al Pasar,Solamente Ella,15,194973,False,0.562,0.18,6,-7.932,0,0.048,0.97,0.00936,0.157,0.476,122.657,4,tango
+0wwyjolxUZ5GEYghs8XHwi,Ignacio Corsini,"Colección Completa, Vol. 19 (Remasterizado)",Lo Han Visto Con Otra - Remasterizado,15,149613,False,0.725,0.173,3,-18.364,0,0.105,0.99,0.00823,0.155,0.726,125.855,4,tango
+6cBrYEOStiv0YtmvGraUog,Osvaldo Pugliese;Jorge Vidal,Ausencia,Puente Alsina,16,194893,False,0.489,0.256,4,-10.127,0,0.0431,0.932,0.00157,0.245,0.511,96.323,4,tango
+0MRDRET4b0g922jnhfY4aF,Astor Piazzolla,The American Clavé Recordings,Finale (Tango Apasionado) - 2009 Remaster,16,214920,False,0.307,0.151,0,-15.097,0,0.0287,0.121,0.546,0.126,0.0716,95.448,4,tango
+40scQkd5Ntlh1up2zHsTWB,Lucio Demare;Raúl Berón,Lucio Demare,Tal Vez Sera Su Voz,15,185200,False,0.556,0.262,0,-8.346,1,0.0519,0.873,0.00151,0.5,0.64,122.973,4,tango
+2aBJNKY0umy77Xs8rrCH7N,Juan D'Arienzo y su Orquesta Típica,Bien Pulenta,El Simpatico,16,154053,False,0.649,0.499,0,-7.288,0,0.0471,0.896,0.635,0.119,0.722,133.125,4,tango
+649fGtx4ZO2F60mVIwb852,Jorge Valdez,Las Canciones de Jorge Valdez,Hasta Siempre Amor,16,161160,False,0.488,0.432,0,-8.987,0,0.0436,0.93,0.000159,0.327,0.733,120.719,4,tango
+0nBXAd6tU3ESx9rdyEjGbD,Orquesta Francini-Pontier,Archivo RCA : Enrique Francini - Armando Pontier Vol.3,Remolino,16,194653,False,0.496,0.167,7,-11.095,1,0.0445,0.985,0.017,0.398,0.505,119.436,4,tango
+4zOLQBXXdNTgkn1owve952,Otros Aires,Tricota,No Se,16,173400,False,0.467,0.537,9,-6.059,1,0.127,0.679,2.64e-06,0.144,0.7,174.701,3,tango
+0IjyOqVYt0iXG009a9lIV5,Osvaldo Pugliese,100 Años De Tango Vol.3,En Otros Caminos,16,199933,False,0.422,0.26,6,-12.354,0,0.042,0.89,0.0,0.137,0.372,112.741,4,tango
+33SXC4Ojh6l8bBTGwr2ttp,Conjunto Berretin,Tangamente: Tangos a la parilla para bailar,El Aeroplano,16,186520,False,0.453,0.273,2,-12.637,0,0.0295,0.133,0.115,0.065,0.519,97.848,4,tango
+4v3JQA0eIHqDSMQHa4JMn0,Adriana Varela,Tangos de Lengue,Tango de Ayer,16,145879,False,0.586,0.264,0,-12.504,0,0.0727,0.738,0.0,0.171,0.552,120.7,4,tango
+0AEoWYSRTB3f1a2GYY5VJH,Osvaldo Pugliese;Jorge Maciel,Tangos Que Traen Recuerdos,Remembranzas,16,221506,False,0.326,0.2,2,-12.065,1,0.0351,0.91,0.0,0.123,0.216,107.911,4,tango
+0wuFmpRrUeadc71MuEYPgl,Miguel Calo;Raul Iriarte,Fruta Amarga,Igual Que una Sombra,16,164906,False,0.606,0.213,7,-11.128,1,0.0445,0.76,0.0144,0.0962,0.541,125.749,4,tango
+5PmFubs9tVyyuAYJliw2y0,Julio Sosa,Mejores Exitos,La Gayola,16,160391,False,0.451,0.648,5,-9.679,1,0.0654,0.912,1.25e-06,0.084,0.832,125.399,3,tango
+3opyAuz2prdkIUJzEcjk4k,Osvaldo Pugliese,Pugliese Por Pugliese,La Yumba - Instrumental,16,167626,False,0.793,0.302,9,-9.826,0,0.0874,0.913,0.915,0.18,0.833,121.067,4,tango
+76A0fsNkEToPHjjmrFsc4Y,Reijo Taipale,Amado Mio,Rakkauden satu,18,178826,False,0.41,0.607,7,-6.66,0,0.0505,0.728,4.8e-06,0.121,0.481,87.179,4,tango
+0p13VYcNNyzGO1dLqX1z5A,Julio Sosa,Varón (Remastered),Rencor - Remastered,16,187486,False,0.415,0.574,10,-10.903,0,0.128,0.969,3.27e-05,0.311,0.547,116.054,4,tango
+7p00m6KWofT0FGWEQoGEQQ,Juan D'Arienzo,Juan D'arienzo 1937 - 1938,Indiferencia (Con Alberto Echague),15,154070,False,0.794,0.128,7,-13.13,0,0.163,0.94,0.0,0.258,0.642,129.111,4,tango
+5dYALtIofWC0oK3K53lXGB,Reijo Taipale,Olen saanut elää,Olen saanut elää,17,178816,False,0.587,0.332,4,-12.494,0,0.044,0.66,0.0,0.0901,0.359,105.254,3,tango
+31BP9UkAQK5qDBUDr0W8LZ,Alberto Echagüe;Juan D'Arienzo,Bailemos el Tango Argentino con las Mejores Orquestas y Cantores. Volumen 3. Valses y Milongas,Milonga Vieja Milonga,16,154973,False,0.791,0.401,5,-10.314,0,0.12,0.973,0.819,0.326,0.843,101.504,4,tango
+0k2Vn0AZSYmTm08EIQJjCT,Carlos Di Sarli,"Solo para Bailar, Vol. 1",Nobleza de Arrabal,16,134506,False,0.746,0.253,6,-10.689,0,0.19,0.982,0.851,0.0648,0.537,136.46,4,tango
+5skLmMQ7foRb3UTEtc9Qx6,Malena Muyala,Temas Pendientes,Muñeca Brava,15,165546,False,0.595,0.136,9,-9.528,1,0.0634,0.793,0.0,0.155,0.158,117.857,3,tango
+1bYFGETEbAge4TDk4Nyq95,Reijo Taipale;The Mustangs,Virran rannalla,Helmenkalastaja,18,229160,False,0.623,0.618,1,-7.138,0,0.0268,0.29,0.00515,0.161,0.543,118.738,4,tango
+2RTdcnNOptZHrY1uSC6TzV,Héctor Mauré,Antología Noble Del Tango: Sus Grandes Intérpretes Y Compositores,Mi Dolor,16,180453,False,0.367,0.265,0,-13.41,0,0.0342,0.966,9.31e-05,0.379,0.522,108.35,4,tango
+2H5SdQSo1oSQGegGESJzFa,Osvaldo Pugliese,From Argentina To The World,Ojos Negros - Instrumental,16,182853,False,0.482,0.293,5,-13.456,0,0.0379,0.79,0.71,0.19,0.275,110.978,4,tango
+4qVlAt7EVXBSCLxpgdx1qX,Héctor Varela;Jorge Falcón,El As del Tango,Y Te Parece Todavía (with Jorge Falcón),16,163893,False,0.514,0.347,8,-12.554,1,0.072,0.871,2.18e-05,0.107,0.647,125.956,4,tango
+6EskJgolIbDTMF5dTXLR0b,Adriana Varela,Tangos de Lengue,Boleta,16,128615,False,0.625,0.267,2,-12.184,1,0.125,0.533,0.0,0.0857,0.714,129.045,4,tango
+0IquXZW9cabG9dhIp7Tj9K,Julio Sosa,Mejores Exitos,El Firulete,16,134687,False,0.439,0.479,8,-15.558,1,0.122,0.93,0.0363,0.413,0.77,96.379,4,tango
+5rLOSausoxxuOYHzW0GFij,Héctor Varela,Mis 30 Mejores Tangos,Sabor De Adiós - Remasterizado,16,171266,False,0.539,0.401,11,-10.062,0,0.0487,0.927,3.81e-05,0.451,0.683,62.075,4,tango
+5M6wHcHTWIBFZb4wGXa0vA,Julio Sosa,Grandes Éxitos De,Mano a Mano,16,196306,False,0.45,0.564,0,-11.546,0,0.0573,0.979,0.226,0.404,0.696,117.162,4,tango
+6s1RoEl971BJJWmM7HIesv,Julio Sosa;Leopoldo Federico y su Orquesta,14 de Colección,Mano a Mano (with Leopoldo Federico y Su Orquesta),16,192200,False,0.518,0.718,0,-4.931,0,0.103,0.814,2.63e-06,0.393,0.777,117.09,4,tango
+7rYkucFvSGUfikoADR1YiY,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Que Me Van a Hablar de Amor (with Leopoldo Federico y Su Orquesta),16,193853,False,0.413,0.554,5,-10.044,1,0.129,0.92,1.82e-06,0.617,0.64,80.729,3,tango
+0TS4raVtbLF9Gnj3yqmBux,Julio Sosa;Armando Pontier y su Orquesta,Cambalache,Cambalache (with Armando Pontier y su Orquesta),15,189066,False,0.649,0.547,0,-6.188,1,0.14,0.866,0.0,0.115,0.826,120.649,4,tango
+6anxC8StMb3fwYUWv03A5k,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,La Cumparsita (with Leopoldo Federico y Su Orquesta),15,183426,False,0.48,0.598,7,-8.329,0,0.0725,0.82,0.000149,0.168,0.683,114.317,4,tango
+69rTE8R6d8qZSGAVUaN8iR,Alfredo De Angelis,Bailando Tango,El Torito,16,132760,False,0.506,0.525,5,-9.088,1,0.0406,0.756,0.0269,0.306,0.964,113.328,4,tango
+3G2TApnZPhHUNtdbeHihV7,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,En Esta Tarde Gris (with Leopoldo Federico y Su Orquesta),15,231733,False,0.459,0.611,7,-7.4,0,0.0638,0.851,2.44e-05,0.302,0.525,115.397,4,tango
+5sAbvCZv7nUiHzXbkHudTe,Julio Sosa;Leopoldo Federico y su Orquesta,Esenciales,Cambalache (with Leopoldo Federico y Su Orquesta),16,184240,False,0.543,0.566,0,-9.189,1,0.0766,0.798,0.0,0.43,0.841,121.075,4,tango
+4QS8TlClFxlaGvS8cUFykW,Alfredo De Angelis;Juan Carlos Godoy,Yo Soy El Tango,Desagradecida,16,130840,False,0.551,0.524,10,-7.759,1,0.0465,0.761,7.31e-05,0.151,0.96,97.979,4,tango
+7LZ8My8yKXKicIzDiqh0pZ,Donato Racciatti y Su Orquesta Típica,Uruguay Te Saluda (Edición Homenaje al Maestro Donato Racciatti),Milonga del Uruguay,16,164266,False,0.592,0.642,4,-6.21,0,0.0331,0.777,0.000395,0.238,0.913,108.542,4,tango
+01afMPXDjBjdCPF8MLtmhq,Aníbal Troilo Y Su Orquesta Típica;Roberto Goyeneche,Anibal Troilo Y Sus Cantores - RCA Victor 100 Años,Fueye,16,183413,False,0.393,0.402,0,-6.515,0,0.0597,0.878,3.91e-05,0.367,0.507,79.334,4,tango
+22TIyeh8BRq6r3Xuhwg5DO,Romántica Milonguera,Duos,Mi serenata,16,194317,False,0.517,0.404,11,-7.134,1,0.0332,0.859,0.00127,0.42,0.604,122.721,4,tango
+1j65QR3h1NpddUfdMkWovc,Chino Laborde;Solo Tango Orquesta,Tanda de Enérgia,Paciencia,16,137500,False,0.622,0.567,6,-5.4,0,0.139,0.623,4.45e-05,0.17,0.548,144.164,4,tango
+3KaX86jyLGPWbF3pK64bng,Anibal Troilo y su orquesta;Edmundo Rivero,Romance De Barrio,Sur,15,209106,False,0.347,0.402,2,-7.059,0,0.131,0.966,0.0102,0.287,0.421,52.446,3,tango
+569OemunDlEmt4nhtGXHnO,Astor Piazzolla;Nino Laisné;François Chaignaud;Jean-Baptiste Henry;François Joubert-Caillet;Daniel Zapico,"Romances inciertos, un autre Orlando",Tristeza de un doble A,15,230480,False,0.383,0.109,2,-21.162,0,0.0473,0.769,0.000962,0.0818,0.287,142.643,4,tango
+3T71b4HX3PXZaohSY2Q7da,Orquesta Juan D' Arienzo,Orquesta Juan D' arienzo - 9 de Julio,Jueves,15,188840,False,0.707,0.499,11,-5.449,0,0.0445,0.688,0.922,0.125,0.688,125.963,4,tango
+7BPpJTZrxQdmWUjDBCR1xL,Ada Falcón,Tus Besos Fueron Míos,Lo Que Nunca Te Diran,15,153693,False,0.664,0.146,10,-10.656,1,0.197,0.993,0.0,0.143,0.329,74.55,5,tango
+4LwRk8sELMFlIWaxztAQCc,Astor Piazzolla;Nora Lee García;Rene Izquierdo,Cubatina,Histoire du tango: I. Bordel 1900,16,233119,False,0.677,0.269,9,-15.776,1,0.0991,0.958,0.909,0.113,0.695,82.744,4,tango
+03hWHoeud0aFhfCm15pd05,Astor Piazzolla;Nora Lee García;Rene Izquierdo,Cubatina,Histoire du tango: II. Café 1930,16,398679,False,0.312,0.114,4,-17.273,0,0.0513,0.939,0.907,0.101,0.185,74.227,1,tango
+0iskPWAq9ZMv2NTCKVSYub,Alberto Podestá,Tangos Famosos Cantados,Uno,15,238625,False,0.518,0.109,2,-13.64,1,0.0507,0.989,0.0144,0.0992,0.333,109.344,4,tango
+1CDyOhabXfrSNUYdtxWWqs,Taisto Tammi,Tähtisarja - 30 Suosikkia,Syksyn muistoja,17,183533,False,0.31,0.214,4,-15.613,0,0.0464,0.747,1.25e-05,0.155,0.461,102.138,4,tango
+43AhvKeoyRWIvnAtMTpF1J,Edgardo Donato;Horacio Lagos,Tango Classics 249: Quien Sera,Quien Sera,16,135076,False,0.768,0.3,7,-11.007,0,0.0455,0.973,0.00877,0.159,0.851,107.925,3,tango
+4boybCKhocy3B8HlA9tiFe,Astor Piazzolla;Nora Lee García;Rene Izquierdo,Cubatina,Histoire du tango: III. Nightclub 1960,16,335586,False,0.368,0.154,2,-16.568,1,0.0468,0.955,0.925,0.113,0.295,83.158,5,tango
+7HUyl2ave0RepcwlGtgkvD,Osvaldo Pugliese,Pugliese Por Pugliese,Negracha - Instrumental,16,164586,False,0.717,0.194,9,-11.699,0,0.0495,0.898,0.693,0.0973,0.523,122.587,4,tango
+7ppgcZDwyvdftL8ACUG9TU,Juan D'Arienzo y su Orquesta Típica,Bien Pulenta,Bien Pulenta,15,166760,False,0.635,0.542,7,-7.661,0,0.0884,0.94,3.19e-05,0.102,0.849,133.361,4,tango
+1xAbQLGgud3tHxDyN1BpGr,Carlos Gardel,Poesía Lunfarda,Mano A Mano,16,185346,False,0.689,0.224,4,-18.986,0,0.109,0.965,0.000133,0.298,0.766,131.883,4,tango
+0Q5EanXZ4bfoTAHQeVM4EB,Pedro Laurenz;Carlos Bermúdez;Jorge Linares,Presentando a Pedro Laurenz,Mendocina,15,152413,False,0.558,0.215,2,-12.708,1,0.0399,0.934,0.00681,0.282,0.614,102.601,3,tango
+7saGgYoWBWFG8DSFs4xEHe,Roberto Grela,La Guitarra del Tango,De Vuelta y Media,16,134986,False,0.375,0.472,4,-16.077,0,0.0425,0.934,0.889,0.106,0.856,100.393,4,tango
+4ZcTkk8BAli14MNxZqNsxz,Forever Tango,Forever Tango On Broadway,SVP,16,143046,False,0.251,0.408,7,-8.803,0,0.0297,0.776,0.0902,0.213,0.411,95.736,4,tango
+6FXYrPzkeqrtzwNPoq4t48,Astor Piazzolla;Nora Lee García;Rene Izquierdo,Cubatina,Histoire du tango: IV. Concert d'aujourd'hui,16,174839,False,0.587,0.325,2,-11.782,1,0.192,0.926,0.94,0.15,0.538,153.292,4,tango
+0KeXWJdBgZ7DDPCLr2Utir,Carlos Gardel,La Cumparsita y Otros Éxitos (Remastered),A Media Luz - Remastered,16,173612,False,0.492,0.219,2,-16.98,1,0.0588,0.891,0.0,0.208,0.779,118.251,4,tango
+1Qs77oP8KZhmvc3IthmhLX,Roberto Grela,La Guitarra del Tango,"Te Vas, Milonga",16,76613,False,0.33,0.416,4,-16.877,0,0.0555,0.946,0.935,0.123,0.337,96.601,4,tango
+4tW5E6OZD0JoCP0cpzq0g8,Astor Piazzolla;Astor Piazzolla Y Su Quinteto,Edición Crítica: Piazzolla Interpreta A Piazzolla,Adiós Nonino,15,250506,False,0.419,0.221,5,-9.697,0,0.0372,0.841,0.166,0.101,0.234,114.347,4,tango
+1f7rOxHBGgpRZFvWptFZCz,Carlos Gardel,"Mano a Mano, 1927",Yira-Yira,16,166533,False,0.712,0.155,3,-16.215,1,0.115,0.994,0.63,0.116,0.478,122.587,4,tango
+66ImqO5mIpxjQHSlH8u3gZ,Carlos Gardel,Mi Buenos Aires Querido,Palomita Blanca,16,183568,False,0.657,0.569,11,-4.336,1,0.339,0.989,0.0395,0.144,0.78,74.796,1,tango
+0FnHqwe6MxTV4AeFLOe7TU,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Mano a Mano,16,183333,False,0.664,0.538,4,-6.037,0,0.0808,0.942,0.0,0.131,0.704,124.515,4,tango
+56mxhM5SD4CIO7MsFlpVlf,Quinteto Negro La Boca,Tango Contaminado,Maradoneando,16,157210,False,0.563,0.369,7,-10.736,1,0.0812,0.747,0.0,0.26,0.848,118.165,4,tango
+3VTQ6Fl09GsFonGJiukMTE,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,La Cumparsita,16,132600,False,0.687,0.46,8,-6.536,0,0.0785,0.985,0.0,0.048,0.799,137.994,4,tango
+6DmAMgMDvpGgxsiWfx8sq2,Roberto Goyeneche;Astor Piazzolla,Esenciales,Chiquilín de Bachín,16,199120,False,0.33,0.357,11,-8.439,0,0.0334,0.918,0.0194,0.0983,0.139,115.09,3,tango
+7a6AU6iwc5obOgE3qBoVuh,Astor Piazzolla,Piazzolla 4 Seasons of Buenos Aires,"Tristeza de un Doble ""a""",16,433080,False,0.288,0.506,6,-7.385,0,0.0466,0.472,0.228,0.199,0.136,54.33,4,tango
+1afPxbpWUFlYy2hMkM9xXX,Astor Piazzolla;Raúl Lavié,"Disfrutando de la Musica, Vol. 1",Balada para un Loco,16,279893,False,0.37,0.285,4,-18.554,0,0.139,0.924,4.86e-06,0.0746,0.433,77.413,4,tango
+1Hc8p1M6vkDg6TCtMPCPZK,Astor Piazzolla;Théophile Alexandre;Quatuor Zaïde,"No(s) Dames - Bizet: L'Amour est un oiseau rebelle, Carmen","María de Buenos Aires, Pt. 1 Scene 3b: Yo soy María (Arr. for Countertenor & String Quartet by Eric Mouret)",16,218213,False,0.33,0.254,0,-13.383,0,0.0594,0.923,9.58e-06,0.0974,0.383,142.047,4,tango
+6DJdIlpo6QKONAJjN9uvQm,Olavi Virta,Olavi Virta,Punaiset lehdet,18,174000,False,0.537,0.285,4,-10.356,0,0.0351,0.794,1.05e-05,0.339,0.565,114.508,4,tango
+61rEySU0vFwZRDB3tpm0aw,Roberto Goyeneche;Atilio Stampone y su Orquesta Tipica,Esenciales,Chau... No Va Más...! (with Atilio Stampone y su Orquesta Tipica),16,221426,False,0.406,0.443,3,-7.358,1,0.0423,0.913,0.000257,0.192,0.449,100.686,4,tango
+4rsekiMvUmDRKbpftl0HAo,Tango Bardo,Del sur,Pavadita,15,176717,False,0.682,0.412,0,-7.066,1,0.0422,0.794,0.811,0.292,0.676,118.419,4,tango
+1Bnbya2kFZoty5sQ2GM8cE,Roberto Goyeneche;Orquesta Típica Porteña,Esenciales,Cafetín de Buenos Aires (with Orquesta Tipica Porteña),17,184653,False,0.501,0.359,2,-10.089,1,0.0438,0.817,0.0,0.245,0.438,102.897,4,tango
+0m1NoNRZLWEpqt1DzO4dJT,Roberto Goyeneche;Orquesta Típica Porteña,Esenciales,Malena (with Orquesta Tipica Porteña),16,138600,False,0.499,0.561,11,-6.236,0,0.0537,0.854,0.00134,0.0965,0.749,105.417,4,tango
+29Z9qeRYrOCo0bNX2Oyxj8,Osvaldo Pugliese,Ausencia,Antiguo Reloj De Cobre,16,152866,False,0.563,0.233,11,-10.207,0,0.0582,0.938,0.0,0.0645,0.536,118.558,4,tango
+7qrvxjTqvXvaiGhnUfCOAB,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,La Última Copa,16,137760,False,0.672,0.346,2,-9.903,0,0.092,0.995,0.0755,0.123,0.561,123.76,4,tango
+0Bpvmpez6Lsey6W6NQL07w,Carlos Gardel,Carlos Gardel - Sus Mejores Tangos,Melodía de Arrabal,17,158840,False,0.624,0.417,10,-6.23,1,0.0502,0.994,1.77e-06,0.102,0.533,121.481,4,tango
+7HzfA5rjmDt9SyK2OTbziL,Hugo Del Carril,Antología Noble Del Tango: Sus Grandes Intérpretes Y Compositores,Adíos Pampa Mía,14,196506,False,0.544,0.183,9,-11.293,1,0.0416,0.981,0.256,0.109,0.559,126.741,4,tango
+6NdZiYfLEpjqciMCBUVofY,Ricardo Tanturi,Presentando a Ricardo Tanturi,Argañaraz (Aquellas farras),16,138320,False,0.636,0.242,2,-9.97,0,0.0776,0.828,0.815,0.182,0.657,142.934,3,tango
+2I1GeaoVkSBf7jjbpcaOwZ,Astor Piazzolla,Piazzolla 4 Seasons of Buenos Aires,Michelangelo 70,16,201760,False,0.581,0.155,7,-19.407,1,0.0544,0.89,0.935,0.104,0.257,141.114,4,tango
+2NaxRs7pLcqhyQg5HMU7sm,Osvaldo Pugliese,From Argentina To The World,Emancipación - Instrumental,15,204466,False,0.621,0.221,9,-12.15,0,0.0658,0.875,0.009,0.0851,0.532,119.132,4,tango
+03ptkPkum1TgFow95bDvKf,Astor Piazzolla;Gidon Kremer;Kremerata Baltica,Eight Seasons: Astor Piazzolla - Four Seasons of Buenos Aires; Vivaldi - Four Seasons,Allegro - Danza Pastorale. Di pastoral zampogna al suon festante...*,16,251933,False,0.343,0.0469,4,-22.113,1,0.0441,0.897,0.0716,0.178,0.167,97.274,4,tango
+6WG0ZHledQq7oRf3wEv5By,Roberto Goyeneche,La Última Curda,Naranjo en Flor,16,170376,False,0.441,0.557,0,-8.839,1,0.229,0.587,0.0,0.975,0.445,106.146,3,tango
+7uoW9S5JOtiJMwhOPPnNRN,Carlos Gardel,Los Exitos De Sus Peliculas,Sus Ojos Se Cerraron,16,165146,False,0.481,0.299,5,-7.951,0,0.05,0.959,6.04e-06,0.108,0.566,125.092,3,tango
+0p36ZWBIIzWLteeyWdiGym,Roberto Goyeneche;Orquesta Tipica Porteña,Maestros Del Tango,Cafetín de Buenos Aires (with Orquesta Tipica Porteña),17,184733,False,0.474,0.444,2,-8.896,1,0.0544,0.768,0.0,0.127,0.441,103.051,4,tango
+5IODuXWkXf9knNL5emRFkZ,Angel D'Agostino,Milongas para Bailar,Todos Te Quieren - Instrumental,16,157480,False,0.718,0.347,4,-9.492,0,0.0505,0.873,0.729,0.124,0.815,110.649,4,tango

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+61QSuw5VlC0LTS8WMO356g,Fat Joe;Remy Ma;French Montana;InfaRed,All The Way Up (feat. Infared),All The Way Up (feat. Infared),66,191942,True,0.536,0.721,10,-6.44,0,0.386,0.062,0.0,0.824,0.393,117.139,5,hardcore
+26ZzSLUJMmYp5u1hDELEWH,Crystal Castles,(III),Transgender,76,184760,False,0.522,0.914,7,-8.285,1,0.0379,0.000164,0.847,0.24,0.0364,137.939,3,hardcore
+4F3AZKEJubvPsl0hBArVBW,The Beatnuts;Method Man,Take It Or Squeeze It,Se Acabo (feat. Method Man) - Remix,72,212293,True,0.935,0.519,6,-6.482,0,0.31,0.156,0.0,0.425,0.884,96.97,4,hardcore
+7KwZNVEaqikRSBSpyhXK2j,The Notorious B.I.G.,Life After Death (2014 Remastered Edition),Hypnotize - 2014 Remaster,80,229826,True,0.901,0.697,9,-3.439,1,0.28,0.145,0.0,0.287,0.67,93.941,4,hardcore
+1zzxoZVylsna2BQB65Ppcb,DMX,The Definition Of X: Pick Of The Litter,X Gon' Give It To Ya,74,217586,True,0.761,0.899,10,-3.09,0,0.183,0.0135,0.0,0.0719,0.673,95.027,4,hardcore
+0aJglfKKlSuhwws0EU6Q5v,I Am King,Impossible,Impossible,62,225883,False,0.455,0.758,8,-6.349,1,0.0415,0.0067,1.67e-05,0.127,0.378,89.966,4,hardcore
+2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,Ready to Die (The Remaster),Big Poppa - 2005 Remaster,79,252746,True,0.78,0.575,9,-7.247,0,0.273,0.43,0.0,0.143,0.773,84.492,4,hardcore
+1coB4xdhsMLxZafnM9Gwjt,Crystal Castles,Pop & Halloween,Transgender,4,184760,False,0.522,0.914,7,-8.285,1,0.0379,0.000164,0.846,0.24,0.0364,137.954,3,hardcore
+1peoY67DcWdCsNoOzF9ffU,Crystal Castles,Pop & Halloween,Kerosene,6,192000,False,0.52,0.545,8,-9.368,1,0.0768,0.0827,0.0,0.133,0.0856,115.882,4,hardcore
+1T1ihaGSLwkC2x0jaYodIp,For Revenge;Danindra DIVIDE,Get Closer with For Revenge,Serana,51,244153,False,0.489,0.404,2,-12.445,1,0.0332,0.101,6.78e-05,0.255,0.311,129.992,4,hardcore
+6p7NrRPfrrcOUI1pPHJ7cU,Busta Rhymes,Rap Homage,Bladow!!,0,220373,True,0.765,0.705,8,-7.39,0,0.28,0.0398,0.0005,0.0392,0.642,88.316,4,hardcore
+56T8rWR6szMJ22n5bv8DXo,N.W.A.,The Best 90s Hip Hop Hits,Niggaz 4 Life,2,298906,True,0.809,0.858,10,-6.089,0,0.245,0.0633,1.91e-06,0.565,0.529,93.112,4,hardcore
+6CGlJEQW50xbxVWq1Kn0PU,Mase;Total,Gangsta Love,What You Want,0,242946,True,0.838,0.72,10,-6.593,0,0.384,0.0314,1.16e-05,0.422,0.846,93.761,4,hardcore
+6Pzm6HXxN0cwfCWM7kngXL,The Notorious B.I.G.,Rap Homage,Hypnotize,0,230000,True,0.895,0.694,9,-4.384,1,0.275,0.176,0.0,0.292,0.632,93.94,4,hardcore
+0t2NKkUqJAA72D8WabGTsN,The Notorious B.I.G.,Gangsta Love,One More Chance - Hip Hop Mix,0,305653,True,0.886,0.863,6,-3.839,0,0.2,0.625,0.0,0.332,0.737,90.941,4,hardcore
+1Uyw5OKFNe2ebZWDK1G4Hv,The Notorious B.I.G.,Power Rap,Hypnotize,0,230053,True,0.922,0.573,9,-5.164,1,0.278,0.129,0.0,0.305,0.642,93.929,4,hardcore
+499aDsnU8gICoOmftRSbLM,Redman,The Best 90s Hip Hop Hits,How To Roll A Blunt,1,201720,True,0.644,0.66,9,-11.175,0,0.332,0.121,2.96e-06,0.346,0.775,184.208,4,hardcore
+7DDvObCeUdqV2CwRZopzK9,The Notorious B.I.G.,The Hip Hop Collection,Hypnotize - 2014 Remaster,0,229826,True,0.9,0.697,9,-3.439,1,0.282,0.146,0.0,0.287,0.67,93.94,4,hardcore
+0CrCW8u5hXD6Ztd7V8ay1i,Mos Def,The Best 90s Hip Hop Hits,Speed Law,3,256453,True,0.794,0.667,11,-7.636,0,0.373,0.0565,0.0,0.407,0.695,98.02,4,hardcore
+6lav95SObObMoj75oLMILu,Wu-Tang Clan,Power Rap,Pioneer the Frontier,0,238693,True,0.668,0.847,9,-4.49,1,0.351,0.695,0.0,0.183,0.7,82.004,4,hardcore
+70RPgBqYKFB4yN88qku7Jf,Mase,The Hip Hop Collection,Feel So Good,0,203626,True,0.822,0.703,11,-8.464,0,0.24,0.192,0.0,0.0816,0.536,105.155,4,hardcore
+5XZty1ZNT3vCm3QZttvpjH,Busta Rhymes,The Hip Hop Collection,Put Your Hands Where My Eyes Could See,0,195133,True,0.916,0.63,6,-6.815,0,0.29,0.00752,6.75e-06,0.0656,0.693,99.493,4,hardcore
+4c5Qj9XKXPaYSIoRbh3CcY,Mase;Lil' Kim;Puff Daddy,Power Rap,Will They Die for You,0,244600,True,0.655,0.736,2,-7.297,1,0.385,0.106,0.0,0.24,0.721,102.771,4,hardcore
+4j9XFRR2CFAOn4Z4eIklBP,Misfits,Rock & Halloween,Halloween,3,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+3dGFeK9WTwj2PAiQoaXMzB,Ol' Dirty Bastard,Rap Classics,Brooklyn Zoo,0,215040,True,0.73,0.801,11,-5.655,0,0.392,0.552,0.0,0.843,0.659,91.785,4,hardcore
+2ZCfaMcJ4NhY4nRNWYLfkN,Mase,Rap Homage,Welcome Back,0,262213,False,0.764,0.744,1,-2.34,1,0.181,0.0109,0.000122,0.318,0.511,88.426,4,hardcore
+0fgSNUfZsTNRpTZyRUA6cE,Misfits;Glenn Danzig,Rock & Halloween,Horror Business,1,165866,False,0.323,0.943,5,-8.451,1,0.0538,0.588,0.00529,0.227,0.0606,90.264,4,hardcore
+3To5owsnumbjenW1G5j0VK,Los Prisioneros,Modo trabajación,Tren Al Sur,0,336933,False,0.676,0.67,9,-7.218,0,0.051,0.00565,0.00676,0.0805,0.725,90.232,4,hardcore
+2L1WVCWCuhbc8IEIiJbrGl,Misfits,Spooky Scary Season,Halloween,2,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+0gd85OZzAQWqq3VJGimuy3,Rise Against,Halloween Metal Nights,The Violence,1,228720,False,0.296,0.921,10,-2.468,0,0.0634,4.08e-05,0.000214,0.0804,0.559,183.983,4,hardcore
+0afzkvZmb1oSEEC9tgDGez,Rise Against,Alternative Christmas 2022,Making Christmas,0,207213,False,0.515,0.97,1,-4.825,1,0.062,6.21e-05,0.00799,0.149,0.609,163.912,4,hardcore
+51dGpRXdXyODtrBj49OvE5,Ol' Dirty Bastard,The Hip Hop Collection,Shimmy Shimmy Ya,0,160666,True,0.743,0.467,0,-5.429,1,0.0632,0.0344,0.0391,0.0716,0.125,96.238,4,hardcore
+0DG6fEabZitI14GPlKvE1M,Rise Against,Alternative Christmas 2022,Making Christmas,0,207213,False,0.515,0.97,1,-4.825,1,0.062,6.21e-05,0.00799,0.149,0.609,163.912,4,hardcore
+6bDpn57InVXW0BtyICB8RT,The Used,All Out Alternative,The Taste of Ink,0,209946,True,0.533,0.908,7,-2.999,1,0.0525,0.00152,0.0,0.301,0.486,98.064,4,hardcore
+1zI8C6f7LURY0eD0gMuVVY,Misfits,Halloween Songs | Witches Hour,Halloween,2,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+0klYM8Q5GK4ygCJzukdsi3,Misfits,Pumpkin Patch Hits,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+6sSyHED31Nw3Blus6oSrU4,Misfits,Anthems for Witches 2022,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+2W2FdBJVibxUT86HT7Dx5E,Misfits,Twisted Halloween Hits,Halloween,0,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+7CtvStZdIOR3nRRbATB4Gd,Misfits,Happy Haunted Halloween Tunes,Halloween,1,112426,False,0.382,0.937,0,-9.01,1,0.0758,0.0172,0.0,0.271,0.0957,108.729,4,hardcore
+0VOTuhFRaKhStVVQTHkFJ1,Ol' Dirty Bastard;Kelis;Rich Travali,OK Boomers - Top Tunes,Got Your Money - Rich Travali. Remix,0,239546,True,0.934,0.459,1,-7.654,1,0.189,0.0522,0.0,0.222,0.697,103.046,4,hardcore
+41cQE0wfKFnNV9dteynr92,Los Prisioneros,Modo trabajación,Estrechez De Corazón,0,383573,False,0.66,0.742,11,-8.08,1,0.034,0.00151,4.04e-06,0.15,0.46,130.271,4,hardcore
+1uOe9m9bAiAY4kGnGDu1Ns,Los Prisioneros,Rock un sentimiento vol. I,Amiga Mía,0,244053,False,0.79,0.606,4,-7.699,1,0.0519,0.014,0.00488,0.133,0.903,135.276,4,hardcore
+6dxbdD5E6SILwAfBk5NTC2,Los Prisioneros,Rock un sentimiento vol. I,Estrechez De Corazón,0,383573,False,0.66,0.742,11,-8.08,1,0.034,0.00151,4.04e-06,0.15,0.46,130.271,4,hardcore
+48b3btPS19LeSIgOsA8q2c,Misfits,Halloween Spooky Party 2022,Halloween - Master Sound Productions 1980,0,106666,False,0.418,0.845,0,-12.182,1,0.0415,0.572,0.144,0.115,0.202,113.794,3,hardcore
+0bNxdr2hiuRVA66Vzh6SzY,Misfits,Halloween Scary Party,Halloween - Master Sound Productions 1980,0,106666,False,0.418,0.845,0,-12.182,1,0.0415,0.572,0.144,0.115,0.202,113.794,3,hardcore
+3Kk30svEH2XoNsEvM3jyOP,Los Prisioneros,Modo trabajación,Corazones Rojos,0,211626,False,0.775,0.507,2,-9.289,0,0.165,0.0015,3.34e-06,0.0677,0.752,92.229,4,hardcore
+6aUEWZkvcTFOpr8viqbRza,Los Prisioneros,Rock un sentimiento vol. I,Corazones Rojos,0,211626,False,0.775,0.507,2,-9.289,0,0.165,0.0015,3.34e-06,0.0677,0.752,92.229,4,hardcore
+7HQb4hccUNRrB7tqQht0MH,Los Prisioneros,Rock un sentimiento vol. I,Tren Al Sur,0,336933,False,0.676,0.67,9,-7.218,0,0.051,0.00565,0.00676,0.0805,0.725,90.232,4,hardcore
+3s0JQVCSayMTDBlpC9Hub6,Los Prisioneros,Rock un sentimiento vol. I,El Baile De Los Que Sobran,0,343701,False,0.818,0.621,0,-12.274,1,0.0528,0.297,2.5e-05,0.111,0.642,117.343,4,hardcore
+2XzziOT8OUGrDnnveRpxwI,Los Prisioneros,Fiesta temática 80s,Muevan Las Industrias,0,248893,False,0.686,0.604,11,-14.24,0,0.037,0.12,0.496,0.0907,0.553,152.474,4,hardcore
+67IvfvAMYQzJEeHopvwMMW,Pharoahe Monch,Simon Says,Simon Says,64,173159,True,0.664,0.916,1,-3.888,1,0.473,0.17,1.67e-05,0.164,0.559,93.134,4,hardcore
+6Tsu3OsuMz4KEGKbOYd6A0,The Notorious B.I.G.,Greatest Hits,Hypnotize - 2007 Remaster,72,230000,True,0.895,0.694,9,-4.384,1,0.275,0.176,0.0,0.292,0.632,93.944,4,hardcore
+3TjliM0xQ3fkza0RpINRrq,Crystal Castles,Crystal Castles,Crimewave,69,258453,False,0.746,0.691,4,-7.533,0,0.0403,0.184,0.0259,0.205,0.888,119.982,4,hardcore
+63BcfK6YAzJYeISaTPr6IO,The Notorious B.I.G.,Greatest Hits,Big Poppa - 2007 Remaster,72,249866,True,0.765,0.671,9,-5.249,0,0.278,0.344,0.0,0.0506,0.798,84.5,4,hardcore
+6iBL6TOzsO75Yz0cG1MO0o,The Prophet,Wanna Play?,Wanna Play?,65,201451,False,0.569,0.996,5,-0.45,1,0.224,0.198,0.0114,0.707,0.461,100.02,3,hardcore
+3BXuqFGGL3eL58JlRshXh7,G-Unit,Runtastic - Power Workout (Vol. 1),Poppin' Them Thangs,37,240773,True,0.768,0.753,6,-3.316,0,0.195,0.24,0.0,0.063,0.935,88.022,4,hardcore
+4Hct0TVAdycZFk6zJ5yViL,Nas;DIVINE;Naezy;Ranveer Singh,NY Se Mumbai,NY Se Mumbai,39,228100,True,0.752,0.833,6,-7.575,0,0.209,0.128,1.45e-06,0.421,0.271,104.989,4,hardcore
+0Q2YGyMeeZMAvzebtxoQ5f,Crystal Castles,Crystal Castles,Vanished,69,242960,False,0.713,0.868,0,-6.644,0,0.0305,0.00206,9.23e-05,0.225,0.641,119.98,4,hardcore
+0trHOzAhNpGCsGBEu7dOJo,Nas,Illmatic,N.Y. State of Mind,72,293973,True,0.665,0.91,6,-4.682,0,0.223,0.0394,0.0,0.227,0.887,84.099,4,hardcore
+7q6lr1W6cmGWijl5kCv5RG,Eazy-E,It's On (Dr. Dre) 187um Killa,Real Muthaphuckkin G's,50,332626,True,0.735,0.797,11,-4.611,0,0.285,0.0174,0.0,0.62,0.731,170.444,4,hardcore
+5n8Aro6j1bEGIy7Tpo7FV7,N.W.A.,Straight Outta Compton,Fuck Tha Police,71,345717,True,0.859,0.75,8,-8.325,0,0.303,0.0193,0.0,0.0538,0.857,98.691,4,hardcore
+6sCtddSFg3foJn4K2pIhfQ,Makaveli,The Don Killuminati: The 7 Day Theory,Hail Mary,70,309800,True,0.696,0.636,10,-6.915,0,0.335,0.158,1.28e-05,0.338,0.358,81.593,4,hardcore
+3HVJbdz0V402U5YggQK4Ao,Busta Rhymes,The Big Bang,Touch It,60,214960,True,0.658,0.551,1,-6.62,1,0.37,0.0043,0.000108,0.197,0.442,138.335,5,hardcore
+0L0DM33NAe6PjQ1BB4cEjJ,Darren Styles,Us Against The World,Us Against The World,62,271058,False,0.531,0.896,1,-3.297,0,0.107,0.0316,0.00723,0.0297,0.34,169.955,4,hardcore
+7Ezwtgfw7khBrpvaNPtMoT,Fat Joe;Remy Ma;French Montana;InfaRed,Plata O Plomo,All The Way Up (feat. Infared),63,191900,True,0.414,0.807,10,-4.12,0,0.348,0.0428,0.0,0.822,0.409,175.158,4,hardcore
+5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,62,225546,False,0.175,0.995,6,1.023,0,0.211,0.000145,2.5e-06,0.214,0.303,184.066,4,hardcore
+2Ozc0me9PV5vlt8cokwdvI,Terror Squad;Fat Joe;Remy Ma,True Story,Lean Back,67,247426,True,0.783,0.916,1,-3.344,1,0.415,0.11,0.0,0.0746,0.695,95.321,4,hardcore
+33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,The Infamous,"Shook Ones, Pt. II",76,325506,True,0.763,0.786,10,-6.472,0,0.229,0.0146,0.0114,0.0817,0.504,93.857,4,hardcore
+04w57GO5p1763E44KQ8AKB,Xzibit;Eminem;Nate Dogg,Man VS Machine,My Name (feat. Eminem & Nate Dogg),62,272506,False,0.842,0.738,11,-5.114,0,0.219,0.159,5.71e-05,0.0917,0.597,85.873,4,hardcore
+4XYsx8ga3fGwEFOOcauPZC,Delinquent Habits,Merry Go Round,Return of the Tres,61,254640,True,0.725,0.8,1,-6.829,0,0.111,9.12e-05,0.00271,0.0951,0.471,100.609,4,hardcore
+0eIeQTtVOtGopW4AjpU2Bj,Dr. Peacock;Billx,Frenchcore Worldwide 04,It's Called XTC,51,243600,False,0.628,0.988,3,-3.971,0,0.101,0.0779,0.169,0.286,0.396,99.978,4,hardcore
+119c93MHjrDLJTApCVGpvx,Wu-Tang Clan;Method Man;Raekwon;Inspectah Deck;Buddha Monk,Enter The Wu-Tang (36 Chambers) [Expanded Edition],"C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",75,252186,True,0.479,0.549,11,-10.551,0,0.373,0.57,0.0235,0.127,0.576,180.985,4,hardcore
+6KIKRz9eSTXdNsGUnomdtW,N.W.A.,Straight Outta Compton,Straight Outta Compton,72,258687,True,0.834,0.878,8,-9.484,1,0.15,0.0461,0.0,0.334,0.418,102.848,4,hardcore
+1vcxF91pWs9uNwDROuiCPB,Rise Against,Appeal To Reason,Savior,75,242280,False,0.554,0.932,5,-3.424,0,0.0485,0.00154,0.000142,0.425,0.478,112.49,4,hardcore
+7N1Vjtzr1lmmCW9iasQ8YO,Mobb Deep,The Infamous,Survival of the Fittest,71,224533,True,0.813,0.703,11,-5.077,0,0.268,0.125,1.26e-06,0.237,0.241,94.828,4,hardcore
+4INDiWSKvqSKDEu7mh8HFz,The Notorious B.I.G.;Mase;Diddy,Life After Death (2014 Remastered Edition),Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,75,257399,True,0.845,0.884,6,-4.506,0,0.0759,0.0128,2.1e-06,0.203,0.904,104.536,4,hardcore
+5ByAIlEEnxYdvpnezg7HTX,The Notorious B.I.G.,Ready to Die (The Remaster),Juicy - 2005 Remaster,76,302760,True,0.889,0.818,9,-4.639,1,0.253,0.47,0.0,0.179,0.782,96.063,4,hardcore
+6RUpJeXT6U4SPEafnr9Wr7,DMX,Grand Champ,Where The Hood At,71,286266,True,0.537,0.948,8,-3.063,1,0.355,0.151,0.0,0.356,0.792,186.151,4,hardcore
+5qVF2rEf75oPrZHhmZmDKk,Delinquent Habits,Merry Go Round,Return Of The Tres,60,254640,True,0.725,0.808,2,-6.843,1,0.0865,0.000101,0.000976,0.0893,0.539,100.578,4,hardcore
+5NweCllA9N4YRAFWwHxioK,For Revenge;Faizal Permana,Jentaka,Jentaka,46,246942,False,0.414,0.946,6,-3.212,0,0.0924,0.0046,0.0,0.211,0.401,87.445,4,hardcore
+5oc28pk0mVfFZVSZb1f7iN,For Revenge;Zashika Ijes EIRENE,Get Closer with For Revenge,Permainan Menunggu,48,286615,False,0.47,0.464,5,-10.359,1,0.03,0.374,0.0,0.22,0.348,130.054,4,hardcore
+5fr4xVMb7UsHsMOUXvLr2I,Das EFX;Pete Rock,Rap Classics,Real Hip-Hop - Pete Rock Remix,0,260933,False,0.727,0.869,10,-5.84,0,0.319,0.121,0.0,0.104,0.837,93.08,4,hardcore
+7LS9Fhrr9TdKZW9ow444uS,Das EFX,The Hip Hop Collection,Real Hip-Hop,0,247613,False,0.858,0.76,4,-7.895,0,0.254,0.0217,0.0,0.322,0.951,93.083,4,hardcore
+1byF0hyfCXcs0ob63GgU6v,Das EFX,Rap Homage,Real Hip-Hop,0,247613,False,0.858,0.76,4,-7.895,0,0.254,0.0217,0.0,0.322,0.951,93.083,4,hardcore
+66orjI5vOkyxOZLHWrPklh,DMX,Grand Champ,X Gon' Give It To Ya - Int'l Bonus track,62,219733,False,0.754,0.825,10,-5.366,0,0.194,0.039,0.0,0.0744,0.64,95.073,4,hardcore
+3UIx2TTrnyoFkE2jVAzFTN,For Revenge,Second Chance,Lentera,43,243853,False,0.468,0.935,9,-4.662,1,0.0835,0.0673,0.108,0.113,0.335,149.998,4,hardcore
+3kBV8olpppGCIbhrh8TV6o,Koil,Blacklight,Aku Lupa Aku Luka,43,271268,False,0.485,0.949,10,-6.962,1,0.0423,0.000257,0.399,0.288,0.204,82.018,4,hardcore
+30jlxG2YSuMK1CCmp1XSMl,Run–D.M.C.,Le monde de demain (Bande originale de la série),Proud to Be Black,5,195893,False,0.832,0.734,11,-9.165,1,0.463,0.00823,0.0,0.242,0.909,170.065,4,hardcore
+2poYxkpq3Nhn45lwwcLAYS,LL COOL J;Fat Joe;Foxy Brown;Keith Murray;Prodigy,The Best 90s Hip Hop Hits,I Shot Ya - Remix,0,304973,False,0.54,0.837,9,-5.405,1,0.463,0.349,0.0,0.0733,0.616,174.207,4,hardcore
+3rSrAYX7Kpv7hrNRDOyuuj,Mack 10;Ice Cube,The Best 90s Hip Hop Hits,Foe Life,0,254240,True,0.913,0.687,8,-4.821,1,0.0946,0.0715,0.0,0.0884,0.802,91.052,4,hardcore
+7tNzd03v3T5aU7P1UpeuYF,DJ Isaac;D-Block & S-te-Fan,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Slave to the Rave,0,222400,False,0.543,0.886,9,-3.689,0,0.136,0.0278,1e-05,0.148,0.175,150.081,4,hardcore
+7bcWFmFSQ7INVYL5ly40pB,Sefa;Dr. Peacock;Chrono,Harder Stylez: We Love The Bass,Das Boot,0,248400,False,0.444,0.993,0,-0.882,1,0.122,0.0186,0.0388,0.376,0.0921,99.994,4,hardcore
+5pXLVDzeDrxKRVxf6MlbUp,Rakim,The Best 90s Hip Hop Hits,It's Been A Long Time,0,236533,False,0.841,0.579,11,-7.402,0,0.191,0.00857,3.89e-05,0.0591,0.854,88.67,4,hardcore
+4EYK0suibSo3Fl7RawPChQ,For Revenge,Perayaan Patah Hati - Babak 1,Jeda,43,238000,False,0.411,0.73,11,-6.555,0,0.0572,0.0161,0.0028,0.104,0.128,139.698,4,hardcore
+7FyQJel10x62itXkU2ybhb,For Revenge,Second Chance,Permainan Menunggu,43,281253,False,0.414,0.939,2,-4.229,0,0.0653,0.0136,8.68e-06,0.627,0.147,139.951,4,hardcore
+7uqM0Ds1u8qPHfqpY1TG3v,The Prophet;Chuck Roberts,Harder Stylez: We Love The Bass,In Hardstyle We Trust - Melody Mix,0,235009,False,0.571,0.95,11,-1.643,0,0.127,0.0413,0.000218,0.35,0.315,155.058,4,hardcore
+4QSIDE8cLiFuNlyguhei8p,The Prophet,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Never Fake,0,173225,False,0.653,0.967,9,-2.706,1,0.193,0.00104,0.0149,0.271,0.364,155.045,4,hardcore
+2V9jfUh3nLM7JZINiWNw25,Los Miserables,La voz del pueblo,Te doy una canción,44,164813,False,0.51,0.838,9,-4.218,1,0.0551,0.0502,0.0,0.103,0.518,150.061,4,hardcore
+5lKoQE1qdSfbvbkldmMM3A,Samiam,Astray,Sunshine,43,196133,False,0.533,0.967,9,-5.851,1,0.0478,0.000118,0.134,0.129,0.455,111.406,4,hardcore
+7dWhRhar3tkRAmDySd3ykb,Westside Connection,The Best 90s Hip Hop Hits,"The Gangsta, The Killa And The Dope Dealer",0,251066,True,0.805,0.737,11,-7.284,1,0.251,0.34,0.0,0.901,0.485,92.929,4,hardcore
+00t7QTffOR3SA3L1BvSQVq,The Notorious B.I.G.,Ready to Die (The Remaster; 2015 Remaster),Suicidal Thoughts - 2005 Remaster,69,170213,True,0.604,0.501,5,-10.171,0,0.425,0.466,9.09e-06,0.091,0.0956,78.61,4,hardcore
+36GzoENVmN9pK1teHlyhKt,Eazy-E;Ice Cube,Eternal E,No More ?'s,32,235733,True,0.958,0.652,7,-8.978,1,0.243,0.0164,3.95e-06,0.328,0.559,105.663,4,hardcore
+7722WsrGPUvUMcfBR87nhc,Makaveli,The Don Killuminati: The 7 Day Theory,Me And My Girlfriend,64,308266,True,0.828,0.893,4,-4.567,0,0.192,0.117,0.0,0.217,0.711,85.95,4,hardcore
+5RGXoZt1qxmAErdhbyKJKq,Eazy-E,N.W.A. And The Posse,Boyz-N-The-Hood,69,339893,True,0.785,0.479,3,-10.247,1,0.362,0.0417,3.5e-05,0.334,0.727,87.691,4,hardcore
+4uIKHABS2ixy0AW0Y31rj4,Warren G;Nate Dogg,Regulate...G Funk Era (20th Anniversary),Regulate,43,248866,True,0.858,0.583,11,-10.921,0,0.218,0.323,1.08e-06,0.113,0.755,95.285,4,hardcore
+0PV1TFUMTBrDETzW6KQulB,Souls Of Mischief,93 'til Infinity,93 'Til Infinity,71,286440,False,0.59,0.672,1,-11.792,1,0.412,0.125,1.04e-06,0.147,0.688,206.247,4,hardcore
+1AHfovSnGPVYKaahRtA0U6,Nas,It Was Written,The Message,65,234093,True,0.614,0.543,5,-7.178,1,0.374,0.00776,3.28e-05,0.383,0.485,178.422,4,hardcore
+4TY4VeLpmiNY9otITGA8sn,Lloyd Banks;Juelz Santana,10s Hip-Hop Hits,"Beamer, Benz, Or Bentley",59,208386,True,0.652,0.671,4,-5.376,0,0.315,0.00402,2.89e-05,0.598,0.518,159.963,4,hardcore
+5PQmSHzWnlgG4EBuIqjac2,Nas;Ms. Lauryn Hill,It Was Written,If I Ruled the World (Imagine That) (feat. Lauryn Hill),70,282373,True,0.879,0.564,10,-7.682,0,0.247,0.0474,9.43e-06,0.0519,0.523,93.908,4,hardcore
+2KFg8kjYy0rYjWsXGhEQHN,The Notorious B.I.G.,Ready to Die (The Remaster),Who Shot Ya? - 2005 Remaster,67,319360,True,0.831,0.682,7,-5.697,1,0.238,0.256,0.0,0.494,0.6,91.771,4,hardcore
+1BKT2I9x4RGKaKqW4up34s,DMX,It's Dark And Hell Is Hot,Ruff Ryders' Anthem,70,214440,True,0.88,0.577,10,-8.093,0,0.302,0.0564,1.02e-06,0.201,0.74,90.991,4,hardcore
+3gY6tiCNsuVi6s8kPV6aQg,Nas,I Am...,Nas Is Like,67,237026,True,0.634,0.845,11,-5.058,0,0.352,0.00602,5.29e-06,0.0598,0.929,94.0,4,hardcore
+4qiyzG1nnCzgrNNKutvgUc,King Tee,Tha Triflin' Album,King Tee's Beer Stand,57,60975,False,0.894,0.603,1,-10.805,1,0.397,0.0248,0.0,0.152,0.93,100.313,4,hardcore
+2tCKgJhXP1pa9IfNvpKzys,The Notorious B.I.G.;Avery Storm;Diddy;Jagged Edge;Nelly,Music Inspired By Biggie: I Got A Story To Tell,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",35,286186,True,0.833,0.628,2,-7.04,1,0.143,0.0953,1.78e-06,0.282,0.648,106.328,4,hardcore
+1r3cH3Y1QGe8VseL8GEvn2,Obie Trice;Dr. Dre,Cheers,Shit Hits The Fan,65,292013,True,0.786,0.9,1,-0.839,1,0.205,0.0262,0.0235,0.306,0.627,91.984,4,hardcore
+65iyI1iybyv5ecsfBHSdUf,Westside Connection,Terrorist Threats,Gangsta Nation,67,293053,True,0.843,0.7,9,-3.249,0,0.26,0.127,0.0,0.876,0.675,95.05,4,hardcore
+3GXSywNvYLAVUCtjMHkKDh,The Alchemist;Earl Sweatshirt,Bread,E. Coli (feat. Earl Sweatshirt),72,132147,True,0.322,0.555,11,-8.726,0,0.129,0.208,0.00437,0.325,0.397,96.019,3,hardcore
+6LZe8JfVaqcpq8yjkHtWQe,"Royce Da 5'9"";Eminem;King Green",Book of Ryan (Bonus Track Edition),Caterpillar (feat. Eminem & King Green),57,283076,True,0.706,0.745,10,-5.97,0,0.441,0.136,0.0,0.268,0.598,91.08,4,hardcore
+1oTHteQbmJw15rPxPVXUTv,Cypress Hill,Black Sunday,Insane in the Brain,75,208266,True,0.897,0.611,11,-10.489,1,0.211,0.0291,0.186,0.0894,0.769,102.304,4,hardcore
+3vc1sGOGAVxhx8S1kERqyn,The Prodigy,"Always Outnumbered, Never Outgunned",You'll Be UNDER MY WHEELS,52,236973,False,0.672,0.944,4,-5.214,0,0.0761,0.0102,0.9,0.321,0.382,114.015,4,hardcore
+08xbK1yef7OzKA0F9MpLUb,Thirteen;Rudy Nugraha Putra;Raynard Rahardja;Jodi Melani;Ardiansyah Darmawangsa,Aksi,Selamanya,41,234000,False,0.5,0.952,11,-2.206,1,0.0538,0.00022,3.93e-06,0.319,0.303,115.025,4,hardcore
+1mCx32u41MITwQIlYTeZ6x,Styles & Breeze;Hypnose,You're My Angel,You're My Angel - Hypnose Remix Edit,59,170326,False,0.493,0.929,8,-6.767,1,0.102,0.00657,0.00226,0.0535,0.266,154.984,4,hardcore
+7gKgd0P3dAAePiSQQBqrlf,Busta Rhymes,Genesis,Break Ya Neck,69,231240,True,0.82,0.809,4,-6.759,0,0.251,0.443,0.00175,0.0613,0.737,83.011,4,hardcore
+2p9sprAX27D6U5cuSE9NsM,Rakim,The Master,When I B On Tha Mic,65,222933,True,0.836,0.484,2,-7.332,1,0.327,0.0454,0.0,0.0557,0.839,95.941,4,hardcore
+19FsxX4RthRMZGfXkImdCb,The Notorious B.I.G.,Life After Death (2014 Remastered Edition),Notorious Thugs - 2014 Remaster,68,366880,True,0.704,0.873,11,-4.057,0,0.144,0.121,5.12e-06,0.24,0.742,154.914,4,hardcore
+0LWkaEyQRkF0XAms8Bg1fC,DMX,...And Then There Was X,Party Up,72,268866,True,0.51,0.931,11,-3.302,1,0.347,0.0738,0.0,0.5,0.53,201.936,4,hardcore
+1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,58,218573,False,0.357,0.98,5,-1.286,0,0.153,0.00143,0.0,0.196,0.567,191.147,4,hardcore
+7MMfMzBJbXYfA37UYzRYUI,For Revenge,Get Closer with For Revenge,Putih Mata Memerah,41,297567,False,0.454,0.264,4,-13.661,1,0.0311,0.355,9.72e-06,0.149,0.236,92.71,4,hardcore
+6S1CDSmbst9nioiSlRq5O9,Seringai,Seperti Api,Omong Kosong,42,88863,False,0.526,0.816,6,-7.87,0,0.424,0.245,1.3e-05,0.325,0.629,100.596,3,hardcore
+5QEOjnRNxVATerDuHofS47,The Prophet,Harder Stylez: We Love The Bass,Listen to Your Hardcore,0,177764,False,0.596,0.85,9,-0.747,0,0.341,0.0546,2.05e-05,0.124,0.155,175.001,5,hardcore
+6T6GxQNHaCfGAGH5tjRRFA,Crown The Empire,Emo Christmas 2022,Burn,0,228213,False,0.444,0.843,5,-5.376,0,0.0641,0.0645,2.61e-05,0.135,0.399,153.959,4,hardcore
+370DsdByLaSOeWyruZbiJT,Talib Kweli,The Hip Hop Collection,Listen!!! - Radio Edit,0,207946,False,0.719,0.794,6,-6.965,1,0.302,0.0239,0.0,0.46,0.632,98.046,4,hardcore
+7FASTpnu9gXtBb5T3vkJer,For Revenge;Wira Nagara,Perayaan Patah Hati - Babak 1,Perayaan Patah Hati,42,294000,False,0.517,0.742,4,-6.067,0,0.0725,0.0995,0.0125,0.0947,0.0637,121.206,4,hardcore
+2QhQFThEXVHWz8p6nCIDzk,The LOX;Eve,The Best 90s Hip Hop Hits,Recognize,0,253333,True,0.748,0.778,10,-5.108,0,0.277,0.0331,5.44e-05,0.0595,0.715,92.025,4,hardcore
+1Rt5ZnOyilt6tx1RQQnQsB,Seringai,Taring,Dilarang Di Bandung,42,175453,False,0.587,0.898,7,-3.781,1,0.0804,2.26e-05,0.000572,0.0887,0.405,132.499,4,hardcore
+3NgApo4U2gMHh0TKXntZRq,Rise Against,Nightmare Revisited,Making Christmas,39,206280,False,0.486,0.958,1,-4.762,1,0.0694,3.21e-05,0.0126,0.163,0.595,163.866,4,hardcore
+0iXS4bcrxxzwEbwbtw8cr5,For Revenge,Second Chance,Sendiri,42,192066,False,0.497,0.885,9,-3.769,1,0.0405,0.00522,0.0032,0.0905,0.437,123.899,4,hardcore
+73Lkj6zuRBzmUJVljC3lcV,Rodox,Rodox,De costas para o mar,40,260613,False,0.469,0.961,7,-4.871,1,0.036,2.61e-05,0.000704,0.101,0.781,150.021,4,hardcore
+5s6WIBsDKXqs95HMpjVmpq,For Revenge,Perayaan Patah Hati - Babak 1,Derana,42,216500,False,0.478,0.929,0,-5.019,1,0.0701,0.00337,0.0172,0.0939,0.438,90.026,4,hardcore
+12AwOPHkOHHeh47dpagpl1,The LOX,The Hip Hop Collection,"Money, Power & Respect - Club Mix",0,273120,True,0.703,0.745,9,-3.9,0,0.285,0.0055,0.0,0.218,0.47,95.48,4,hardcore
+3Tjy69S0GPRA88KihmrX4H,Terror Squad;NGHTMRE,Beginner Ride (Mixtape Vol. 1),Lean Back - NGHTMRE Remix,0,197680,True,0.74,0.943,1,-2.272,1,0.115,0.00304,0.000403,0.0944,0.894,101.963,4,hardcore
+4p25wyCj4N2t4zNAC5UPrI,Hawthorne Heights,Halloween Party 2022,Corps Of Corpses,0,192173,False,0.399,0.913,9,-4.765,1,0.227,0.00762,0.0,0.0491,0.225,146.959,4,hardcore
+6Y57xXG66eowb6BqZfbd0U,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Latinoamérica Es un Pueblo al Sur de Estados Unidos,43,242216,False,0.764,0.749,9,-7.412,1,0.132,0.13,0.0,0.264,0.912,101.515,4,hardcore
+4Kf80JwKZcrHE0jJQKuH0e,The Dead Milkmen,Death Rides A Pale Cow: The Ultimate Collection,Dean's Dream,43,107866,False,0.404,0.921,6,-5.758,0,0.0415,0.00809,4.45e-06,0.16,0.849,110.589,4,hardcore
+5wHu5Ht9C8tJ9L6HIxpb9c,Fiskales Ad-Hok,Fiesta,Resistiré,40,128573,False,0.325,0.933,5,-6.583,0,0.0504,4.06e-05,0.000489,0.377,0.806,78.66,4,hardcore
+1jU7sUPTdYEzAvrFn6po5l,BBS Paranoicos,Antídoto,La Rabia,42,173093,True,0.35,0.894,9,-4.587,0,0.0706,0.0204,0.0,0.138,0.46,167.321,4,hardcore
+2KIeGekwWlxQ646SOoTcEu,Public Enemy;KRS-One,The Best 90s Hip Hop Hits,"Unstoppable - From The ""He Got Game"" Soundtrack",0,194333,True,0.895,0.644,4,-6.236,1,0.295,0.0173,0.0,0.293,0.648,91.997,4,hardcore
+1AnHrytA5dLlTpioOamUiG,Dead Fish,Zero e Um,Zero e Um,40,129000,False,0.414,0.986,10,-2.777,0,0.129,0.00194,1.08e-06,0.376,0.273,106.016,4,hardcore
+3clj22mW4k1FADb751JYWc,Dead Fish,Zero e Um,Bem-Vindo Ao Clube,41,187400,False,0.547,0.977,1,-2.819,0,0.0924,0.000834,3.98e-06,0.366,0.386,97.993,4,hardcore
+25R7pmPXYolhIjm72WtJjy,Dead Kennedys,Post Punk Rules,Holiday in Cambodia - Single Version,42,226640,True,0.135,0.924,7,-5.342,1,0.0726,0.00416,0.00091,0.0716,0.486,197.706,4,hardcore
+0YImOCkIJ2PWhCXaURCZnY,Busta Rhymes;Mariah Carey;Flipmode Squad,It Ain't Safe No More. . .,I Know What You Want (feat. Flipmode Squad),70,324306,True,0.648,0.759,6,-4.315,1,0.306,0.0142,0.0,0.648,0.518,85.996,4,hardcore
+0aVDI6Z5vqvcxSkXLG9Kok,The Beatnuts;Method Man,"Classic Shit, vol. 1",Se Acabo,46,208426,False,0.937,0.527,6,-6.546,0,0.301,0.182,0.0,0.34,0.908,96.973,4,hardcore
+2eWLNSTA7RvUBmnTYVvR8s,DMX,Deadpool (Original Soundtrack Album),X Gon' Give It To Ya,44,217586,False,0.511,0.898,10,-3.714,0,0.264,0.016,0.0,0.0792,0.638,95.044,4,hardcore
+3Y6XWs8xMlCngyIxNOFnsp,KRS-One,Return of the Boom Bap,Sound of da Police,64,258506,False,0.794,0.95,1,-8.78,1,0.294,0.124,7.71e-05,0.133,0.324,94.984,4,hardcore
+2mKouqwAIdQnMP43zxR89r,Fat Joe;Ja Rule;Ashanti,Jealous Ones Still Envy (J.O.S.E),What's Luv? (feat. Ja-Rule & Ashanti),74,267093,True,0.835,0.707,8,-5.074,1,0.0598,0.0219,2.19e-05,0.108,0.919,93.955,4,hardcore
+7sEm6dnBwPha4dDb3fnmhs,The Notorious B.I.G.,Spit Your Game,Hold Ya Head,35,165746,True,0.695,0.564,7,-6.884,0,0.258,0.0998,3.28e-05,0.455,0.271,79.857,4,hardcore
+7G3lxTsMfSx4yarMkfgnTC,Nas,Illmatic,The World Is Yours,68,290573,True,0.678,0.794,10,-6.186,0,0.14,0.274,1.68e-06,0.124,0.54,87.374,4,hardcore
+0IVAlb0cFCH1cQ974iR1TU,Mos Def,Black On Both Sides,Ms. Fat Booty,71,223546,True,0.782,0.589,1,-4.827,1,0.189,0.148,0.0,0.164,0.869,90.438,4,hardcore
+14246VCxRDGZHqlMlqWSz4,Nas;A$AP Rocky;DJ Premier,Magic,Wave Gods,61,190261,True,0.601,0.938,1,-4.382,1,0.282,0.0225,0.0,0.0508,0.762,87.129,4,hardcore
+02rlDATSROFtjqmvs1dBKr,Obie Trice;Akon,Second Rounds On Me,Snitch,59,241253,True,0.781,0.807,0,-5.574,1,0.261,0.0524,0.0,0.122,0.605,90.008,4,hardcore
+3vQir0wkIdLGq3Lc4V6J2y,N.W.A.,The Best Of N.W.A: The Strength Of Street Knowledge,Chin Check,65,221373,True,0.906,0.775,2,-5.775,1,0.268,0.0831,2.74e-05,0.15,0.838,100.054,4,hardcore
+1ozdRCYFVt8Ui0dba1520D,The Notorious B.I.G.;Bone Thugs-N-Harmony,Greatest Hits,Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster,60,367226,True,0.738,0.782,11,-6.315,0,0.169,0.143,6.4e-06,0.176,0.654,154.875,4,hardcore
+44xuQEWJJd4aWSaFUrPOlA,Fat Joe;Remy Ma;David Guetta;French Montana;InfaRed;GLOWINTHEDARK,"All The Way Up (Remix) (feat. French Montana, Infared & GLOWINTHEDARK) - Single",All The Way Up (Remix),50,211836,True,0.671,0.894,11,-3.701,0,0.0583,0.00758,0.00184,0.152,0.32,98.013,4,hardcore
+4bRPecD9suGW8CfNZhzjS1,Nas;Eminem;EPMD,King's Disease II,EPMD 2 (feat. Eminem & EPMD),56,214434,True,0.689,0.83,10,-4.047,0,0.302,0.121,0.0,0.318,0.703,94.566,4,hardcore
+7L93GESzq43UkKUt5FsOCq,House Of Pain,House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition],Jump Around - 30 Years Remaster,74,218546,True,0.811,0.823,4,-5.921,0,0.0423,0.0553,4.52e-06,0.158,0.827,106.929,4,hardcore
+67eqrRkxp2ED26CEqvqbDv,The Alchemist;Action Bronson,The Food Villain,I Hate Everything (feat. Action Bronson),64,82133,True,0.508,0.6,11,-9.632,0,0.338,0.451,0.00043,0.357,0.337,153.022,4,hardcore
+0B8drtTSp68pZdkmVrG9ZA,Big Pun;Fat Joe,Capital Punishment (Explicit Version),Twinz (feat. Fat Joe),67,228173,True,0.633,0.764,0,-7.212,1,0.323,0.32,3.4e-06,0.234,0.522,94.971,4,hardcore
+6E1YebXpPPtujMUljDNlOo,Crystal Castles,(III),Kerosene,67,192000,False,0.519,0.546,8,-9.368,1,0.0763,0.0827,0.0,0.133,0.0862,115.799,4,hardcore
+0KbIwqCAHmXWu7hrszXY6j,Warren G;Nate Dogg;The Game,Party We Will Throw Now! - Single,Party We Will Throw Now!,65,209412,True,0.934,0.562,4,-4.609,0,0.24,0.0476,1.31e-06,0.0608,0.712,96.792,4,hardcore
+6OBXfbbmE0enkSn1wmbqlX,Medulla;Martin,Deus e o Átomo,Abraço,39,217638,False,0.581,0.524,11,-9.023,0,0.0451,0.244,0.0914,0.222,0.215,120.3,4,hardcore
+6qbfLs005m0DMuUYymUkqq,Junior M.A.F.I.A.,Rap Party,Get Money,0,274937,True,0.736,0.828,11,-5.835,0,0.284,0.477,0.0,0.251,0.899,91.224,4,hardcore
+3FWTGnS0F6wm2HhIkI8rVW,Big L;2Pac,The Big Picture,Deadly Combination (feat. 2Pac),28,152373,True,0.902,0.513,1,-10.029,1,0.305,0.0924,0.0,0.267,0.628,91.477,4,hardcore
+7ycK2uijskzxp4cGpGNoCi,Rise Against,The Sufferer & The Witness,Under The Knife,60,165173,False,0.572,0.984,10,-3.847,0,0.0626,0.00052,2.48e-06,0.044,0.524,104.345,4,hardcore
+2ULz1p7TwLp9n6dJWFTgAh,Obie Trice,Eminem Presents The Re-Up,Pistol Pistol (Remix),58,145826,True,0.795,0.848,2,-3.812,1,0.307,0.124,0.0,0.313,0.79,86.03,4,hardcore
+5IVA7WzOlWrmZh8EqZqMaw,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,70,161626,True,0.486,0.986,1,-4.71,1,0.0818,0.000662,0.048,0.29,0.501,180.085,4,hardcore
+3ndcNdzfiEEeg4qWsno1jA,Useless ID,State Is Burning,Without a Choice,38,40240,False,0.463,0.991,10,-2.074,0,0.183,0.000133,5.55e-06,0.263,0.419,197.167,4,hardcore
+2WdQXgS2kp1U1PquVsiwxG,Black Rob;Denaun,Gangsta Love,She's a Pro,0,226200,True,0.799,0.871,1,-5.04,1,0.343,0.0779,0.0,0.0533,0.574,97.045,4,hardcore
+6jCGzZn0gFeRlbqdaJhw6T,The Notorious B.I.G.,NOTORIOUS Music From and Inspired by the Original Motion Picture,Party and Bullshit - 2008 Remaster,68,217000,True,0.433,0.862,1,-3.89,0,0.412,0.193,0.0,0.604,0.722,200.817,4,hardcore
+1kSSWsWZuCcrlgVpb5yKYn,Lloyd Banks,The Hunger For More,Warrior Part 2,60,217973,True,0.716,0.893,10,-2.397,0,0.261,0.119,0.0,0.247,0.889,172.156,4,hardcore
+58JFG3uXcmFTvbJcq8sSu5,Eric B. & Rakim,The Best 90s Hip Hop Hits,Keep The Beat,0,255200,False,0.846,0.64,2,-13.263,1,0.129,0.627,0.196,0.111,0.706,89.346,4,hardcore
+41xjpZkiLz8nF6REpYCgHw,Dj Promo,Boox,Boox,37,68390,False,0.719,0.518,10,-10.613,1,0.0985,0.0433,0.968,0.129,0.94,164.948,4,hardcore
+5I5y1aRHtQ2v0LubL9xdCi,Junior M.A.F.I.A.,Rap Homage,Get Money,0,274133,True,0.732,0.825,2,-5.933,1,0.283,0.464,1.2e-06,0.258,0.915,91.257,4,hardcore
+2FDW0QBaiRpIH4zYvwEMlT,Onyx,The Best 90s Hip Hop Hits,Throw Ya Gunz,2,198026,True,0.821,0.686,1,-9.158,1,0.263,0.00216,0.0,0.17,0.708,94.015,4,hardcore
+5F38bWepavLdPnAP0s22Xo,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",We Are Sudamerican Rockers,40,215226,False,0.844,0.589,2,-9.859,1,0.212,0.184,0.0,0.103,0.962,141.462,4,hardcore
+7yv6Pixv2qKbnBl5AJHGew,Black Rob;The Notorious B.I.G.,Power Rap,Y'all Know Who Killed Him,0,237186,True,0.573,0.749,8,-7.076,1,0.467,0.413,0.0,0.0985,0.532,168.317,4,hardcore
+0vhQWCyOzt2pbPoJNAvkH9,Black Rob;G. Dep;Mark Curry;Mase;Puff Daddy,Power Rap,Down the Line Joint,0,297413,True,0.779,0.723,6,-7.098,1,0.48,0.339,0.0,0.149,0.922,94.279,4,hardcore
+4oNRFSh6onQ5rrHSydWcDr,Black Rob,Rap Party,Whoa!,0,238840,True,0.737,0.705,7,-6.231,1,0.24,0.0579,0.0,0.321,0.557,86.401,4,hardcore
+4DJB545MiwGPfm6Fgo09LV,Black Rob,The Hip Hop Collection,Whoa!,0,238840,True,0.737,0.705,7,-6.231,1,0.24,0.0579,0.0,0.321,0.557,86.401,4,hardcore
+5BO1pygAbHGEUbQ9QDJy1v,Good Clean Fun,Positively Positive,Positively Positive,38,38720,False,0.372,0.938,2,-2.929,1,0.148,4.2e-05,0.0,0.323,0.812,111.277,3,hardcore
+0QSPohbvsYOEcvkHnok13V,Project46,Que Seja Feita a Nossa Vontade,Erro +55,37,280075,False,0.333,0.978,6,-3.452,1,0.18,0.00236,0.000437,0.372,0.267,159.981,4,hardcore
+3bl3ynrPRXqJFYmZtZXJCp,Guru;JazzMaTazz;Zion I,Technics : Hip-Hop,For Ya Mind,0,137459,False,0.662,0.676,9,-8.414,1,0.335,0.00754,0.0,0.111,0.679,119.697,5,hardcore
+02fuv91GGA2FwaOTiKQVa7,Pete Rock;C.L. Smooth,Rap Homage,They Reminisce over You,0,286693,True,0.755,0.683,2,-10.889,1,0.166,0.141,0.0,0.342,0.668,101.793,4,hardcore
+01yDjImCcOaHDT4uy6VOPw,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Brigada de Negro,41,226442,False,0.639,0.638,0,-7.332,1,0.0344,0.488,0.0,0.187,0.898,145.559,4,hardcore
+4cJ0kksEFRaZPo0V7l0aXP,Del The Funky Homosapien,The Hip Hop Collection,Mistadobalina,0,257333,False,0.848,0.746,10,-8.62,0,0.113,0.0931,1.18e-05,0.306,0.628,99.602,4,hardcore
+5a0bHLSL5t4eRNKjmh9PyV,Dead Fish,Zero e Um,Tão Iguais,37,145426,False,0.546,0.976,0,-3.066,1,0.203,0.0206,1.02e-06,0.0937,0.326,124.022,4,hardcore
+64tUOtVFZN98cx48rQEW5T,Dead Fish,Zero e Um,A Urgência,39,181333,False,0.519,0.97,4,-3.252,0,0.126,0.000904,2.81e-05,0.119,0.187,97.836,4,hardcore
+1Ugk5UsZSe33Qxa4LuVZcs,Del The Funky Homosapien,Rap Classics,Dr. Bombay - Remix,0,201066,True,0.795,0.868,2,-8.976,1,0.182,0.0271,0.0,0.175,0.688,96.042,4,hardcore
+5KtFijRDUJIyIsqEp8xUnb,Los Prisioneros,Pateando Piedras,Independencia Cultural,39,272800,False,0.837,0.475,0,-13.055,1,0.11,0.0721,0.00129,0.0412,0.805,142.656,4,hardcore
+0AUf5eIgz3Lxww4BRzhM4J,Machuca,Viva MacHuca,Al Patibulo,39,175266,False,0.223,0.907,7,-4.677,1,0.0545,1.47e-06,0.0,0.128,0.503,149.14,4,hardcore
+52VZR0uCDHuiyLpkgA84d8,Fiskales Ad-Hok,Traga!,No Estar Aquí,40,179666,False,0.266,0.982,7,-6.543,0,0.0779,0.00273,0.00876,0.0968,0.557,165.896,4,hardcore
+6SMrWEWukd0DWh5iHGWgks,The Notorious B.I.G.;Eminem,Greatest Hits,Dead Wrong (feat. Eminem) - 2007 Remaster,55,297226,True,0.648,0.895,10,-3.187,1,0.28,0.195,0.00132,0.0335,0.817,82.122,4,hardcore
+2b7FqlHc3JrzlYtGEkzq22,The Notorious B.I.G.,Greatest Hits,Juicy - 2007 Remaster,61,301466,True,0.873,0.816,9,-4.645,1,0.256,0.483,0.0,0.146,0.79,96.067,4,hardcore
+50UkypyQJbSQLaXHke5Yep,Juelz Santana,What The Game's Been Missing!,There It Go (The Whistle Song),61,180493,True,0.942,0.892,6,-6.363,0,0.196,0.023,0.000897,0.264,0.595,100.007,4,hardcore
+1qm8gshOp7RkwP47WRukrS,D.I.T.C.;Big L;Fat Joe,D.I.T.C.,Da Enemy,59,166400,True,0.647,0.839,11,-6.569,1,0.416,0.0318,0.344,0.299,0.789,174.201,4,hardcore
+6C7ZgThn6Yan5MTZdAEEFw,LL COOL J,Mama Said Knock You Out,Mama Said Knock You Out,64,289693,True,0.791,0.759,10,-7.378,0,0.129,0.0314,0.674,0.255,0.619,102.382,4,hardcore
+6JymsaWDHk2Yj4e0yNBIFH,House Of Pain,House of Pain (Fine Malt Lyrics),Jump Around,65,214946,False,0.854,0.71,4,-6.32,0,0.0795,0.0113,9.06e-05,0.166,0.818,106.893,4,hardcore
+2wJJNgD6GrKoQ435VxTRv6,coldrain;Ryo,THE SIDE EFFECTS,MAYDAY (feat. Ryo from Crystal Lake),61,227011,True,0.522,0.97,10,-4.576,0,0.209,5.53e-05,0.0,0.246,0.488,121.054,4,hardcore
+2LhhnqrHPWvXYveZVHLKrd,Nas;AZ;Olu Dara,Illmatic,Life's a Bitch (feat. AZ & Olu Dara),63,210840,True,0.775,0.734,7,-5.41,1,0.215,0.00138,0.0,0.304,0.342,90.001,4,hardcore
+2AYTGaclgKXACh13nJRVcV,Fat Joe;Remy Ma;JAY-Z;French Montana;InfaRed,All The Way Up (Remix) (feat. French Montana & Infared) - Single,All The Way Up (Remix),60,284830,True,0.564,0.717,10,-6.403,0,0.397,0.097,0.0,0.493,0.423,117.489,5,hardcore
+2Bhqg1ONbtcFBTR96H7oQw,Cypress Hill,Stash,Illusions - Harpsichord Mix,61,209200,False,0.85,0.723,2,-8.789,1,0.171,0.00943,0.0818,0.101,0.55,90.961,4,hardcore
+06UPCXzhIsXnceSXmKLMEY,Nas,Stillmatic,Ether,55,277706,True,0.573,0.831,7,-5.586,1,0.433,0.0401,0.0,0.0909,0.766,76.352,4,hardcore
+48vDCZIRmrFO33fH4QU4ij,The Prodigy,The Fat of the Land,Smack My Bitch Up,63,343386,True,0.604,0.995,10,-3.641,0,0.164,0.00306,0.626,0.109,0.262,136.216,4,hardcore
+5osSw3tL07Tuid7AWsvYcc,M.O.P.;Busta Rhymes;Teflon;Remi Martin,Warriorz,"Ante Up (feat. Busta Rhymes, Teflon & Remi Martin) - Remix",62,247693,True,0.68,0.894,1,-4.86,1,0.255,0.0206,0.0,0.462,0.803,94.089,4,hardcore
+5KA6S4auXremQLoBIsKprz,Westside Connection,Bow Down,Bow Down,55,206933,True,0.892,0.455,9,-11.206,1,0.292,0.0181,0.0,0.344,0.473,92.885,4,hardcore
+1xIxMz1sNQ4b6svH1GuTtF,The Notorious B.I.G.,Ready to Die (The Remaster),Gimme the Loot - 2005 Remaster,67,285946,True,0.721,0.662,7,-8.136,1,0.403,0.0888,0.0,0.178,0.68,94.191,4,hardcore
+6DPrhGVJ1WTZvM9fKptnGe,Nas,Illmatic,Represent,64,252600,True,0.708,0.832,1,-4.964,1,0.318,0.02,2.8e-06,0.189,0.618,92.428,4,hardcore
+4anqYZt4APNlFwQixpbdZR,Method Man;Redman,Blackout!,Da Rockwilder,69,136093,True,0.612,0.659,6,-6.995,0,0.406,0.0137,0.0,0.417,0.393,99.137,4,hardcore
+4cYnhg6EewFM8QOSOgjqhy,Dimitri K,Fresh New Kicks,Fresh New Kicks,59,178288,False,0.613,0.948,4,-2.038,0,0.192,0.000573,0.00214,0.541,0.032,104.864,4,hardcore
+1RjU7UhRICmdFPKxCucLgq,Mobb Deep,Hell On Earth,Hell on Earth (Front Lines),66,274093,True,0.875,0.658,0,-3.641,1,0.359,0.275,0.0,0.122,0.661,92.038,4,hardcore
+7kbvMr9iDzYP7KH6apVFSA,DJ Buzz Fuzz,Kimimaru,Kimimaru,34,80085,False,0.501,0.496,1,-7.5,1,0.121,0.384,0.694,0.191,0.575,167.977,4,hardcore
+6E6SLdCDadErUAM90cAxGx,Big Pun,Still Not a Player EP,Still Not a Player (Remix) - Radio Version,40,237706,False,0.9,0.574,4,-7.465,0,0.295,0.187,0.00164,0.0857,0.881,94.071,4,hardcore
+0B2ZuTLZnWQ6gz8RlNwBu1,Lloyd Banks,The Hunger For More,On Fire,64,187280,True,0.759,0.825,8,-4.289,1,0.22,0.0923,0.00057,0.24,0.429,94.857,4,hardcore
+2VGQ342iuqj6aSaYbyBQVJ,Rise Against,The Sufferer & The Witness,Prayer Of The Refugee,66,199386,False,0.198,0.977,3,-3.499,0,0.173,0.00131,4.62e-05,0.23,0.351,195.795,4,hardcore
+3y0ycPzjAE6R66u3aw8MBk,Bayside,The Walking Wounded (Gold Edition),Landing Feet First,36,244866,False,0.436,0.332,9,-7.649,1,0.0406,0.00434,0.0,0.109,0.329,174.901,4,hardcore
+0bo1p4mHN913d1MgixiHLo,For Revenge;Wira Nagara,Get Closer with For Revenge,Perayaan Patah Hati,36,292250,False,0.586,0.405,4,-14.292,0,0.079,0.451,1.93e-05,0.196,0.263,119.794,4,hardcore
+55z0yEsG9giLqLI31XmGSW,Los Prisioneros,La Cultura De La Basura,Cuando Te Vayas,39,291160,False,0.508,0.747,9,-10.249,0,0.0469,0.0112,0.000339,0.0954,0.439,144.575,4,hardcore
+10BabjUSOXCkRegqVud2Xs,Craig Mack;Q-Tip,Rap Classics,Get Down - Q-Tip Remix,0,237906,True,0.743,0.59,1,-9.324,1,0.259,0.00972,0.0,0.116,0.183,94.267,4,hardcore
+5X15W4gnll2D1vUaWkYKtO,Koil,Blacklight,Aku Rindu,38,247200,False,0.503,0.533,7,-8.722,1,0.0279,0.000937,0.112,0.207,0.439,149.999,4,hardcore
+1Yp2x0xtrXh5EnbhsURJ0X,Craig Mack,Rap Homage,Flava in Ya Ear,0,217466,True,0.762,0.541,9,-8.843,0,0.329,0.466,0.0,0.0693,0.885,90.032,4,hardcore
+0scwNuhTajFe7Pu8Arw1fM,Craig Mack,The Hip Hop Collection,Flava in Ya Ear,0,217466,True,0.762,0.541,9,-8.843,0,0.329,0.466,0.0,0.0693,0.885,90.032,4,hardcore
+12ta5VCfFyp4KmOoLcf09W,Thug Life,The Best 90s Hip Hop Hits,Stay True,0,189520,True,0.899,0.746,6,-6.984,0,0.129,0.239,0.0,0.118,0.608,104.099,4,hardcore
+2fvs7Zl9br75zVo5nStv7b,For Revenge;Andi Cakcak,Perayaan Patah Hati - Babak 1,Bersambung,36,92000,False,0.406,0.771,7,-6.125,0,0.0474,0.00525,0.904,0.345,0.0597,120.138,4,hardcore
+0853SQNjVnNVFa2j68txPo,Smitten,En Algún Lugar,"Nada para Mí, Nada para Vos",37,193800,False,0.519,0.697,9,-3.621,1,0.0294,0.118,0.0,0.0771,0.667,173.106,4,hardcore
+6t4pmtMOJVGm3NXyDqXQlK,Craig Mack;Busta Rhymes;LL COOL J;The Notorious B.I.G.;Rampage,Rap Geek,Flava in Ya Ear - Remix,0,302013,True,0.52,0.847,9,-5.3,1,0.427,0.275,0.0,0.325,0.799,177.377,4,hardcore
+67BLxClTNYBMrzdqKe3Rqr,menores atos,Animalia,À Distância,36,218305,False,0.581,0.909,3,-4.688,0,0.0457,0.00148,0.000872,0.209,0.477,136.983,4,hardcore
+75KyB8zFgkkfwOWr3wz2y0,Los Prisioneros,La Cultura De La Basura,Maldito Sudaca,39,136373,False,0.525,0.869,4,-7.556,0,0.0519,0.1,6.21e-06,0.172,0.651,158.127,4,hardcore
+6pkRLVS9TJKKFzEyZI7QFv,Dead Fish,Ponto Cego,Sombras da Caverna,36,173720,False,0.419,0.947,5,-4.966,0,0.0531,5.42e-05,5.74e-06,0.185,0.454,133.005,4,hardcore
+5XtQX7YAnDR7ki1yJYfrUU,Dead Fish,Afasia,Noite,36,196506,False,0.377,0.937,5,-3.694,1,0.109,0.00185,1.05e-06,0.264,0.494,138.009,4,hardcore
+0Fa5HVwBkPjNdtC3IVqRom,Eterna Inocencia,A los Que Se Han Apagado,Le Pertenezco a Tus Ojos,37,319773,False,0.309,0.928,9,-3.734,0,0.0641,0.000571,0.034,0.136,0.281,138.793,4,hardcore
+1oiHurFFxAaa1KrL0q6VRo,Los Prisioneros,La Cultura De La Basura,Lo Estamos Pasando Muy Bien,39,348506,False,0.625,0.795,2,-10.77,1,0.0699,0.0516,0.0317,0.468,0.65,149.141,4,hardcore
+5ij7PgYsUYHMXMFDWcZqww,Pense,"Realidade, Vida e Fé",Eu Não Posso Mais,36,169058,False,0.495,0.984,8,-4.354,1,0.0978,0.00037,2.52e-05,0.307,0.803,170.007,4,hardcore
+51wZeWdtnIHtnvnAlXlonu,Gritando HC,Gritando HC,Velho Punk,36,96346,False,0.3,0.816,11,-11.512,0,0.098,0.00121,0.0366,0.171,0.634,196.378,4,hardcore
+5FkEhuXoU6xk7x6xtmkG1z,PartyfrieX;DJ Carlo,Partyfreak,Leef Voor `t Weekend,36,191066,False,0.649,0.964,0,-6.676,1,0.134,0.153,0.00154,0.374,0.825,150.16,4,hardcore
+3SyCVJ4izJSa6kGefqB3xK,Seringai,Taring,Tragedi,37,235733,False,0.58,0.895,4,-4.805,0,0.0454,0.000188,0.00915,0.1,0.503,82.509,4,hardcore
+7fYJx5ytffBv57QGEki4f1,Eterna Inocencia,Las Palabras y los Ríos,Nuestras Fronteras,36,306426,False,0.405,0.937,4,-4.485,1,0.059,0.00658,0.000865,0.14,0.216,140.017,4,hardcore
+4IiNzisjpu8nMqp9XOsu66,The Dead Milkmen,Death Rides A Pale Cow: The Ultimate Collection,Big Lizard,38,117986,True,0.38,0.953,0,-6.399,1,0.123,0.00602,0.000862,0.117,0.677,187.714,4,hardcore
+1LcLhonnvVifGT9H47X5Dk,Los Prisioneros,Coleccion Suprema,Amiga Mía,38,244053,False,0.791,0.605,4,-7.699,1,0.0519,0.014,0.00502,0.133,0.903,135.275,4,hardcore
+4SRjOgmXYobXI6YUXH29IJ,Seringai,Taring,Program Party Seringai,38,249786,False,0.648,0.8,0,-5.433,1,0.106,0.0059,2.12e-06,0.667,0.37,94.991,4,hardcore
+4g9vBGwvz06hfW5UKTbYl4,BBS Paranoicos,Og Bo Toyy,Irreparable,38,156653,False,0.458,0.986,7,-3.693,1,0.131,0.000539,0.000114,0.237,0.294,97.078,4,hardcore
+7lia528U7Kw5DvvfWbCN0w,Los Prisioneros,Coleccion Suprema,Estar Solo,39,246960,False,0.69,0.736,9,-6.948,1,0.0402,0.0303,0.605,0.584,0.969,122.454,4,hardcore
+03r2R8m2BIc1exOBNPSr1J,Warren G;O.G.L.B.,Regulate...G Funk Era (20th Anniversary),This D.J.,38,203026,True,0.804,0.505,6,-8.19,0,0.129,0.0363,0.0211,0.113,0.562,92.034,4,hardcore
+17larILaMHwsprsMFnYI77,The Notorious B.I.G.,Bad Boy's 10th Anniversary- The Hits,Big Poppa - 2005 Remaster,63,249840,True,0.73,0.608,9,-6.417,0,0.295,0.301,0.0,0.207,0.753,84.555,4,hardcore
+1zguY1porYAdgPeiLbslFZ,Eazy-E;Ice Cube;DJ Yella,Eternal E,Boyz-N-The-Hood - Remix,27,383426,True,0.86,0.496,9,-8.013,0,0.349,0.0266,0.0,0.1,0.756,87.807,4,hardcore
+4rZcZXvtzdBbZOwlHSu79i,The Notorious B.I.G.;Ty Dolla $ign;Bella Alubo,G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo),G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo),57,232661,True,0.656,0.594,10,-7.191,0,0.343,0.283,0.0,0.113,0.597,66.488,5,hardcore
+1pOIpxfrQ8AszXZdKR3aH3,N.W.A.,Straight Outta Compton,Gangsta Gangsta,64,336917,True,0.894,0.698,6,-8.264,0,0.275,0.0279,3.56e-06,0.329,0.695,98.104,4,hardcore
+03cAFCWyzUOFus6Os8EoQG,Orbital;Yotto,Belfast (Yotto Remix),Belfast - Yotto Remix,51,395449,False,0.608,0.895,0,-9.447,1,0.042,0.000204,0.753,0.11,0.0699,123.007,4,hardcore
+0D5oADYCG5QbPKk3QEOP1F,The Prodigy;RZA;René LaVice,Breathe (feat. RZA) [Liam H and Rene LaVice Re-Amp],Breathe (feat. RZA) [Liam H and Rene LaVice Re-Amp],45,149233,False,0.661,0.954,5,-1.866,0,0.128,0.0519,0.000667,0.22,0.332,141.911,4,hardcore
+3Ti0GdlrotgwsAVBBugv0I,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Can I Kick It?,70,251573,False,0.848,0.666,0,-6.547,1,0.274,0.173,0.000699,0.129,0.744,96.662,4,hardcore
+2VK6HvcXwEqMdlK8XHDOHo,"Royce Da 5'9""",The Bar Exam 3 (No DJ Version),Airplanes (Freestyle),51,134542,True,0.586,0.877,6,-6.076,0,0.37,0.375,0.0,0.115,0.615,93.106,4,hardcore
+3uJnYKR844kT7MLpm0cquz,Darren Styles;Da Tweekaz,The Qontinent 2017,Us Against The World (Da Tweekaz Remix),57,222400,False,0.478,0.878,1,-3.431,0,0.0403,0.0431,1.93e-05,0.0719,0.289,149.671,4,hardcore
+4G3dZN9o3o2X4VKwt4CLts,The Pharcyde,Bizarre Ride II The Pharcyde,Passin' Me By,70,303493,False,0.759,0.756,4,-8.145,0,0.266,0.0903,2.36e-06,0.265,0.613,87.059,4,hardcore
+5J5Bbx7lKQOQXeW1EAL9Mz,Westside Connection,Terrorist Threats,Call 9-1-1,57,223760,True,0.751,0.884,2,-3.54,0,0.291,0.109,0.0,0.157,0.816,77.91,4,hardcore
+1YQ7BbJR8HqAolfprvxGKu,The Notorious B.I.G.;Lil' Kim;Diddy,Born Again,Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster,60,191600,True,0.904,0.826,1,-2.372,0,0.272,0.0531,0.0,0.214,0.824,101.35,4,hardcore
+6ggsK0nQYthFiPemdn9ytr,Thirteen,Kosong,Kosong,34,210201,False,0.498,0.996,2,-0.866,1,0.127,0.000955,3.61e-05,0.319,0.184,74.988,4,hardcore
+1Sgj10byiGzPpI2IrXSFEn,Wu-Tang Clan;RZA;Method Man;Inspectah Deck;Raekwon;U-God;Ol' Dirty Bastard;Ghostface Killah;GZA,Enter The Wu-Tang (36 Chambers) [Expanded Edition],"Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",67,291066,True,0.817,0.552,8,-10.8,0,0.385,0.0318,7.01e-06,0.826,0.808,102.011,4,hardcore
+6JGgZq7gwoW8TxMZOQCqSk,Burgerkill;Ahmad Dhani,Elang,Elang,37,252631,False,0.499,0.819,4,-12.636,0,0.0504,0.000803,0.62,0.277,0.475,95.007,4,hardcore
+53m3tqT41SMe23JwDElyVX,D-Ceptor;X-Treme,Die for Something,Die for Something,35,275052,False,0.402,0.981,9,-2.214,1,0.0764,0.0541,0.201,0.243,0.307,180.07,4,hardcore
+24vNw0Z0srb4zYXwrakw8E,Wu-Tang Clan;RZA;Inspectah Deck;Method Man,Enter The Wu-Tang (36 Chambers) [Expanded Edition],"Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",66,216133,True,0.826,0.566,10,-10.747,0,0.311,0.199,0.0,0.356,0.655,99.131,4,hardcore
+5YJ17x3Xhuq4aJvn5R4xxj,Rizer;Aarthos;Alex Soze,Alles Kan Kapot (Radio Edit),Alles Kan Kapot - Radio Edit,34,133168,False,0.393,0.958,8,-2.075,1,0.119,0.1,2.16e-05,0.208,0.146,160.261,4,hardcore
+29mZKwRwHXGlzOPdmFOiHe,ICE-T,Rap Classics,6 'n the Mornin',0,224866,True,0.823,0.745,5,-6.637,0,0.247,0.0029,0.000333,0.323,0.579,91.919,4,hardcore
+176hBOHzslVQTEF7VFmASt,Koil,Lagu Hujan,Lagu Hujan,36,238503,False,0.635,0.661,10,-9.836,0,0.0331,0.000148,0.512,0.123,0.329,135.747,4,hardcore
+1zHFdoHXlz26QfDd17nKm9,SNFU,The One Voted Most Likely To Succeed,Drunk On A Bike,34,169866,False,0.281,0.962,9,-5.723,1,0.0814,4.63e-05,0.0834,0.382,0.319,113.174,4,hardcore
+1GsJMaSHlegp4pjG8PUqjW,The Loved Ones,Build & Burn,Pretty Good Year,36,134213,False,0.52,0.942,7,-3.665,1,0.0472,0.000632,9.78e-06,0.378,0.852,133.558,4,hardcore
+5Ux35kbZec0DOJXLOUGRNn,Hakkuhbar,Vet heftig,Gabbersaurus (Radio Mix),35,186560,False,0.568,0.942,1,-6.317,1,0.188,0.196,0.00567,0.582,0.136,91.936,4,hardcore
+2K5yAq1pCnyjOAfVty2iB1,Biz Markie,Rap Homage,Just Rhymin' with Biz,0,241706,True,0.876,0.898,10,-8.211,0,0.569,0.0966,0.0,0.28,0.748,93.655,4,hardcore
+1SnTsx62GbULJpi4iVg9iE,Lawineboys,10 Jaar Lawinegevaar,s Nachts Na Tweëen,35,205000,False,0.735,0.949,2,-3.972,1,0.0352,0.219,0.0,0.306,0.981,129.995,4,hardcore
+4njALT6SfcKtrAc8JdZPgd,Bullet Bane,BLLT,Sentir,35,211001,False,0.474,0.771,11,-6.517,0,0.0418,0.0518,0.0,0.13,0.422,136.08,4,hardcore
+1rLm7lHcmM2MA4ab9bp546,For Revenge,Perayaan Patah Hati - Babak 1,Gemaung,36,114000,False,0.553,0.948,0,-9.026,1,0.0549,0.0376,0.826,0.113,0.0985,144.992,4,hardcore
+67zng168LXkCD1wzAQT5GV,For Revenge,Second Chance,Fiksi,36,202146,False,0.461,0.944,6,-4.068,0,0.103,0.00191,0.0,0.214,0.389,92.468,4,hardcore
+3O3W2hZSSUDI8zst9u42MP,Gloria,(Re)Nascido,A Arte de Fazer Inimigos,34,177546,True,0.566,0.964,7,-2.507,1,0.117,0.000532,0.0,0.312,0.571,140.022,4,hardcore
+2c2MyN7J63YIjsmw1a2xPu,ICE-T,The Hip Hop Collection,New Jack Hustler (Nino's Theme),0,283306,True,0.83,0.859,7,-9.213,1,0.124,0.000956,0.0,0.214,0.653,109.319,4,hardcore
+5rPUGvnDW35yYRk9KqmkuY,ICE-T,Rap Homage,New Jack Hustler (Nino's Theme),0,283306,True,0.83,0.859,7,-9.213,1,0.124,0.000956,0.0,0.214,0.653,109.319,4,hardcore
+6ZR0mLNAI4UlU7vh9khZac,E-Force;Luna;Rude Convict,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Kill the Noise - Rude Convict Remix,0,192001,False,0.568,0.966,5,-2.869,0,0.351,0.0445,3.11e-05,0.861,0.355,160.091,4,hardcore
+16JJiVvV0cBmo93lIivZKq,Strung Out,Twisted by Design (Reissue),Ultimate Devotion,35,126533,False,0.46,0.96,4,-5.157,0,0.165,3.68e-05,2.95e-05,0.285,0.359,109.165,4,hardcore
+2AwbeqZqcTrZguAw6H2yrY,De Doelleazen;Marcel Smit,Skijt Oan De Rest,Myn Alde Puch,36,193371,False,0.567,0.948,4,-3.816,0,0.0472,0.0586,9.43e-06,0.338,0.663,175.037,4,hardcore
+3CPWVEyZoMmxPdfwrlIbv0,Fun People,The Art(E) of Romance,Leave Me Alone,35,100133,False,0.437,0.78,9,-8.744,1,0.0426,0.0193,0.000791,0.102,0.749,149.456,4,hardcore
+7ihiLioTpPR5p8jhjoKO1g,Millencolin,Pennybridge Pioneers,Right About Now,36,108133,False,0.439,0.99,11,-2.203,0,0.119,0.00122,0.0,0.167,0.476,107.687,4,hardcore
+2Hxk9BDH2mhZZ0SprtMM4J,Eterna Inocencia,A los Que Se Han Apagado,Cuando Pasan las Madrugadas,36,124080,False,0.231,0.949,11,-2.919,0,0.115,0.00234,0.0,0.186,0.59,163.872,4,hardcore
+76gRg3RyCTCijQ2La5vtns,Pense,"Realidade, Vida e Fé",Existência,34,192053,False,0.569,0.988,6,-4.261,1,0.0617,0.000154,6.49e-06,0.173,0.883,112.012,4,hardcore
+4nOTezy4NW6TNxyvZd724n,Los Miserables,Alegría y Subversión,La Cábala,36,212044,False,0.548,0.942,2,-4.994,1,0.0683,0.108,0.0,0.339,0.746,99.613,4,hardcore
+6vkSkhVYmRUXbFVLa6W8zG,BBS Paranoicos,Capital,Ruidos,36,173973,False,0.224,0.933,8,-4.132,1,0.201,0.00452,0.00222,0.129,0.282,193.146,4,hardcore
+0C9kiLH1ctEzq55KUw2Rnj,Eterna Inocencia,Las Palabras y los Ríos,A Elsa y Juan,35,157720,False,0.477,0.958,7,-4.122,1,0.0971,0.0245,0.0,0.131,0.552,98.948,4,hardcore
+49djAWQgt8LhoTQrSRBkqB,Dead Fish,Sonho Médio,Sonho Médio,35,120973,False,0.395,0.995,4,-5.0,1,0.102,0.00337,0.0,0.412,0.295,102.305,4,hardcore
+19BMNNjQ3Ou1H9xKtUTmo5,Gramofocas,Sempre que eu fico feliz eu bebo,Sempre Que Eu Fico Feliz Eu Bebo,36,125976,True,0.374,0.917,4,-2.215,1,0.0519,0.000828,1.29e-06,0.108,0.705,140.187,4,hardcore
+7CCldPeZu4xzCogGuevo4K,Fiskales Ad-Hok,Lindo Momento Frente al Caos,Lindo Momento,36,145746,False,0.487,0.954,10,-3.899,0,0.137,0.0604,0.0137,0.329,0.428,111.152,4,hardcore
+3KVOgVqm8Vom1J2SvgP9wP,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",Quieren Dinero,36,313626,False,0.618,0.665,0,-10.096,1,0.0287,0.0168,0.000106,0.515,0.811,145.45,4,hardcore
+55EvnM7MCxN6cbcrOsH5XG,BBS Paranoicos,Cruces,Sin Salida,36,156181,False,0.478,0.885,6,-3.185,1,0.0546,8.51e-05,5.51e-05,0.137,0.847,155.947,4,hardcore
+2Oc91MmNBv4bTvSBtN7iMQ,Tommyknocker;Sunbeam;Traxtorm Legends,Traxtorm Legends @ Thunderdome 2017,Twisted world - The Viper Mashup mix - Traxtorm Legends Rebuild,33,201541,False,0.477,0.836,1,-12.709,0,0.256,0.0655,0.177,0.196,0.296,158.053,4,hardcore
+5cZJVhuhs4aXpftslha4Ac,Koil;The Rock,Pop Terbaik Milenium,Kenyataan Dalam Dunia Fantasy (feat. The Rock),37,256534,False,0.651,0.882,2,-8.572,1,0.0626,0.00985,0.00106,0.551,0.387,160.032,4,hardcore
+7qWXSnQMeeGHkKgDjdOkXU,Eterna Inocencia;Marina Fages,No bien abran las flores,No bien abran las flores,35,287132,False,0.567,0.726,1,-6.209,0,0.0267,0.00486,0.00154,0.0689,0.442,129.999,4,hardcore
+2AP7m2dBb8ULTx4Gc1rdMc,The Notorious B.I.G.,Greatest Hits,Juicy,62,285760,False,0.887,0.767,9,-4.311,1,0.295,0.38,0.0,0.0527,0.607,97.437,4,hardcore
+3oairMMtNVnUppKwroxou4,Busta Rhymes;Mariah Carey;Flipmode Squad,It Ain't Safe No More,I Know What You Want (feat. Flipmode Squad),63,324306,True,0.658,0.771,4,-4.318,1,0.271,0.016,0.0,0.654,0.516,85.949,4,hardcore
+1ioaV68BICIiSHpcqSUVHR,Funk Flex;CJ,You Know,You Know,55,111386,True,0.891,0.585,0,-6.122,0,0.131,0.0752,0.0,0.134,0.24,125.024,4,hardcore
+7e8CuL07X8B7EKA4h84V9Z,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Tragedy,53,228599,False,0.464,0.707,2,-5.171,0,0.0425,0.13,3.75e-06,0.141,0.2,163.893,4,hardcore
+62l1ZGNoUlJlVwhwMKu2T6,Pharoahe Monch,Internal Affairs,Simon Says,58,173373,False,0.622,0.913,1,-3.701,1,0.462,0.141,2.71e-05,0.12,0.546,92.222,4,hardcore
+6JI5wNWYdBw68GZjOMmgK5,Big L,Lifestylez Ov Da Poor & Dangerous,Put It On,64,217626,False,0.711,0.62,11,-10.174,0,0.212,0.0175,0.0,0.134,0.805,179.817,4,hardcore
+5BeV0OiC4VQ3TG7ZlNHHsz,Gammer;Naeleck;Hige Driver,Virtual Gaming (Gammer Remix),Virtual Gaming - Gammer Remix,56,158158,False,0.496,0.98,11,-3.434,0,0.0474,0.000291,0.318,0.353,0.391,150.008,4,hardcore
+2GlhJyZRWP3MnSXOvnovIa,Lloyd Banks;50 Cent,Rotten Apple,Hands Up,61,240213,True,0.799,0.878,1,-2.282,1,0.219,0.0775,0.0,0.51,0.594,95.0,4,hardcore
+2CPturRUlpvirYr7VpkXCV,Nas,Illmatic,It Ain't Hard to Tell,65,202106,True,0.69,0.729,11,-5.819,0,0.221,1.7e-05,0.0431,0.152,0.357,91.376,4,hardcore
+0Ja4hLKiUSw01E01pJ1yGr,The Prodigy,The Fat of the Land,Breathe,66,336280,False,0.673,0.808,9,-6.183,1,0.0491,0.0121,0.878,0.037,0.303,130.041,4,hardcore
+1egiBE7NjdpxhEjN6MtcY6,From Alaska,Norte,Jordan,35,223963,False,0.548,0.942,9,-5.057,0,0.0679,0.00272,0.477,0.141,0.347,119.954,4,hardcore
+2j0s9NaRfGRpcPoiGbWogZ,Kind Kaputt,Alles erreichen,Alles erreichen,34,226833,True,0.491,0.969,0,-3.395,0,0.169,0.00121,0.0,0.373,0.556,187.344,3,hardcore
+2BaSlRAT2nI6M7lU5XJDZY,Westside Connection,Terrorist Threats,Terrorist Threats,55,148066,True,0.822,0.919,2,-5.282,1,0.274,0.395,6.07e-06,0.41,0.725,93.998,4,hardcore
+3PRbWWHsoU1qLKSSVWe7Es,Cixx,Poder,Poder,33,100500,False,0.669,0.444,10,-16.759,1,0.0427,0.0542,0.887,0.132,0.364,140.859,4,hardcore
+3zZ2THLkGS76yPbOEHFKMR,Eazy-E,Impact of A Legend,Switchez,59,269453,True,0.895,0.874,4,-1.906,0,0.194,0.0172,5.83e-06,0.102,0.701,93.019,4,hardcore
+1SyQ6t9RdRBK0QUCS6a797,Naughty By Nature,19 Naughty III,Hip Hop Hooray,67,267266,False,0.862,0.642,6,-13.652,0,0.101,0.102,0.0,0.272,0.765,99.2,4,hardcore
+2FjvG9IQg242g2LEornfjy,Funk Flex;Big Kap;DJ Mister Cee;The Notorious B.I.G.;2Pac,The Tunnel,"Biggie/Tupac Live Freestyle (Funkmaster Flex & Big Kap Feat. DJ Mister Cee, Notorious B.I.G & Tupac)",60,108973,True,0.57,0.941,4,-2.853,1,0.423,0.737,0.00274,0.112,0.814,188.625,4,hardcore
+6GMAXn63PTFT6zZwcqSkgi,Peor es Nada,Último Intento,Tal Vez,35,210416,False,0.222,0.599,4,-6.039,0,0.0405,0.00023,0.0,0.319,0.286,158.173,4,hardcore
+0WTmEwS0UwTd3ySVEZwLAJ,Medulla,Medulla,Perigo,34,221952,False,0.689,0.738,11,-6.051,0,0.0425,0.187,4.93e-05,0.185,0.368,121.941,4,hardcore
+7i5IbgNkFA4JwfT4OAgdgD,9mm Parabellum Bullet,TOKYO - HALLOWEEN -,Vampiregirl,0,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hardcore
+1iciuWk8TNPqD9pmziEacx,Medulla,Medulla,Eterno Retorno,34,208640,False,0.604,0.477,7,-8.203,0,0.0349,0.267,0.0,0.211,0.375,113.943,4,hardcore
+7Jryb0dEqCliFaGVsDmxEs,Flamman & Abraxas,Retrato,Retrato,34,93721,False,0.784,0.618,11,-10.385,0,0.0439,0.0034,0.926,0.243,0.18,108.357,4,hardcore
+12l3ldyObMURwsZBioibl5,Biz Markie,The Hip Hop Collection,Just a Friend,0,238266,False,0.866,0.663,0,-9.001,1,0.206,0.119,0.0,0.318,0.83,85.298,4,hardcore
+3UNmwO14CGjWGFKxZMCf5p,Strung Out,Transmission.Alpha.Delta,The Animal and the Machine,35,193434,False,0.37,0.974,6,-3.522,1,0.0719,2.07e-05,0.001,0.143,0.544,129.936,4,hardcore
+1slEC1v1jCteZtPpkXFj5j,For Revenge,Auristella,Sendu,35,231843,False,0.496,0.876,3,-2.982,0,0.0414,7.62e-05,0.363,0.283,0.351,140.022,4,hardcore
+3hVXkmUFfXoCR9ZagtCXbK,Scooter,20 Years of Hardcore (Remastered),I'm Raving,35,216213,False,0.562,0.997,3,-2.43,1,0.113,0.00195,0.0117,0.527,0.218,139.016,4,hardcore
+3ZextTfHDjf98vEsGbNtOs,Biz Markie,Rap Classics,Nobody Beats the Biz,0,303760,False,0.806,0.772,9,-9.4,0,0.297,0.216,0.0,0.154,0.625,97.219,4,hardcore
+6xltcaxCBOANwBQgJJc6uK,Bullet Bane,BLLT,Pra Não Ter Que Enxergar Onde Errei,33,225237,False,0.574,0.758,0,-5.781,1,0.0289,0.00066,1.33e-06,0.285,0.309,95.006,4,hardcore
+5lWxhOZyvgTrCxAbcnCAeB,The Bronx,The Bronx (II),History's Stranglers,34,165613,False,0.394,0.991,11,-3.351,0,0.0716,3.93e-05,0.00125,0.0563,0.834,97.93,4,hardcore
+6PIfn2tJ1dhDBojV60T95E,9mm Parabellum Bullet,Halloween Hits,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hardcore
+6VeihScj0pNr6uGFxfzalq,Hot Water Music,Caution,Wayfarer,35,177426,False,0.332,0.976,2,-5.606,1,0.109,0.0361,0.000294,0.109,0.327,169.899,4,hardcore
+1eoQsc67QBYVC4Pw84Lqk8,9mm Parabellum Bullet,Rock & Halloween,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hardcore
+3wrTXnKtCu9kZk0lBxtJZj,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",Tren al Sur (En Vivo),36,434908,False,0.363,0.914,9,-6.052,0,0.0909,0.196,0.129,0.622,0.466,89.848,4,hardcore
+6wbbbTyX0vqVN85ZwiRIm3,Burgerkill,Beyond Coma and Despair,Atur Aku,36,273880,True,0.462,0.98,4,-5.191,0,0.0912,0.00015,0.0278,0.138,0.244,99.827,4,hardcore
+0GyQ8MCMcla38fjfBZ5y7Y,9mm Parabellum Bullet,Helloween Party,Vampiregirl,1,191786,False,0.378,0.934,11,-3.702,0,0.107,0.0013,0.0149,0.322,0.602,159.829,4,hardcore
+5OMzsUSgwjyRcyDfdLD4jS,Dead Fish,Ponto Cego,Não Termina Assim,34,158568,False,0.316,0.951,10,-5.081,0,0.056,6.41e-05,0.0,0.339,0.718,103.68,4,hardcore
+7vbSDKLHWbpjqpWF9r3UUa,De Doelleazen;Henk Wijngaard,Met De Vlam In De Pijp,Met De Vlam In De Pijp,35,180000,False,0.527,0.968,10,-4.635,0,0.051,0.0067,0.00222,0.287,0.74,185.038,4,hardcore
+5J1YmqajyODgkIA7oUmFBI,The Flatliners,Cavalcade,He Was a Jazzman,36,247093,False,0.42,0.917,9,-3.545,0,0.0529,0.000452,0.0,0.248,0.836,138.119,4,hardcore
+1PeK7RHMVNGwxIJDxhvwGq,Los Miserables,Sin Dios ni Ley,Ultraviolento,35,240882,False,0.587,0.827,2,-5.156,1,0.0584,0.00405,0.00203,0.0957,0.753,90.064,4,hardcore
+0xjwF61ise1AWqdIEuodb8,No Use For A Name,Making Friends,On the Outside,35,170960,False,0.435,0.99,11,-5.756,0,0.0717,0.002,8.8e-05,0.216,0.319,108.113,3,hardcore
+6LABUfTDRKb5QGZNgWrDq0,Fun People,Reel Around the Fountain,Reel Around the Fountain,35,314802,False,0.573,0.652,0,-6.839,1,0.0331,0.00261,0.00304,0.139,0.624,127.902,4,hardcore
+3lG53lGQXXnvHsHANYicxO,Seringai,High Octane Rock,Akselerasi Maksimum,35,204373,False,0.479,0.969,4,-5.575,1,0.0899,0.000207,0.021,0.202,0.378,95.301,4,hardcore
+7ckgU4Hcj9urCh2bTO8Ct8,Los Prisioneros,Pateando Piedras,Por Favor,36,212360,False,0.811,0.438,2,-13.494,0,0.0346,0.137,0.000785,0.0893,0.558,109.271,4,hardcore
+3cetxRqZToUg1EnvcmOd2J,Fun People,The Art(E) of Romance,Vientos,35,114373,False,0.261,0.715,9,-9.401,1,0.0343,0.000254,0.00025,0.0895,0.572,164.111,4,hardcore
+2cYPLvbcmvy5UL0Wg4leXw,Todos Tus Muertos,Nena de Hiroshima,El Espejo,37,257400,False,0.468,0.561,2,-13.19,1,0.0269,0.00197,0.0155,0.0859,0.111,127.988,4,hardcore
+7a07LwoTEqMdngkepQaAsO,Fiskales Ad-Hok,Traga!,Eugenia,35,191000,False,0.261,0.955,5,-7.461,1,0.0568,0.00112,4.96e-05,0.15,0.532,157.168,4,hardcore
+3XzAKoTEjmVCZLi118Yfyu,Los Prisioneros,Pateando Piedras,Estar Solo,36,273973,False,0.788,0.522,1,-14.554,0,0.0384,0.439,0.339,0.119,0.971,122.712,4,hardcore
+4P10JJr6c62iRGDwEB2k9p,Eterna Inocencia,Las Palabras y los Ríos,Viejas Esperanzas,35,149226,False,0.326,0.963,4,-3.773,0,0.123,0.0126,0.0,0.183,0.522,197.98,4,hardcore
+5TXzVBQj31PD1YIS2Ll1mp,BBS Paranoicos,Delusional,Sanatorio,36,217072,False,0.458,0.926,6,-4.633,1,0.0569,0.000476,5e-06,0.0986,0.586,160.051,4,hardcore
+1SFO7HmMLikoSqyfSM8p4g,The Vandals,Fiesta temática 90s,Aging Orange,0,119866,False,0.283,0.983,2,-7.606,1,0.201,0.0241,0.0,0.0435,0.26,179.845,4,hardcore
+4u3PUsG9vWxbu2lkGfW4qb,Eazy-E;Dr. Dre;MC Ren,Eternal E,Eazy-Duz-It,25,261200,True,0.818,0.587,7,-7.527,1,0.315,0.0645,0.0,0.359,0.62,90.939,4,hardcore
+46Xnj8vZFwOZCE4aZNXlTf,Crystal Castles;Robert Smith,(II),Not In Love - Radio Version,61,226986,False,0.477,0.98,7,-4.204,0,0.0887,0.000834,0.00963,0.357,0.199,135.902,4,hardcore
+0ZH7k5erPgrCZI3zx3qZJf,Hysta;X-Pander,Game Changer,Game Changer,54,294646,False,0.434,0.956,10,-0.385,0,0.104,0.00133,0.0,0.155,0.0369,100.368,4,hardcore
+7bp5DfkdK1OAvNJ1U4HfDA,GZA;Method Man,Liquid Swords,Shadowboxin',66,209973,True,0.704,0.642,1,-10.11,1,0.39,0.00704,1.43e-06,0.161,0.72,92.09,4,hardcore
+465eCPwUAz2qz7IdQaxUui,Nas,King's Disease II,Rare,55,206777,True,0.498,0.851,8,-5.496,1,0.326,0.132,4.21e-06,0.529,0.518,78.025,4,hardcore
+158DIbrVt4YbqNnWyRCS3P,Nas;Diddy,I Am...,Hate Me Now (feat. Diddy),61,284000,True,0.678,0.77,9,-4.399,0,0.222,0.00583,0.0,0.109,0.412,90.0,4,hardcore
+3TeMXdcKef8xeWrjepm2IP,MY FIRST STORY,King & Ashley,King & Ashley,51,203786,False,0.528,0.957,5,-4.358,1,0.11,0.000127,0.0,0.119,0.444,107.556,4,hardcore
+1Z7C8ClE8UEaH70jCCeJH2,The Notorious B.I.G.,Life After Death (2014 Remastered Edition),Ten Crack Commandments - 2014 Remaster,64,204026,True,0.612,0.85,1,-4.703,1,0.5,0.0393,0.0,0.255,0.781,173.497,4,hardcore
+3ABG1UQTk0eLYUAeWkmfMi,Ol' Dirty Bastard,Return to the 36 Chambers: The Dirty Version,Shimmy Shimmy Ya,68,161400,True,0.814,0.481,0,-5.183,1,0.245,0.097,3.83e-05,0.0495,0.193,96.252,4,hardcore
+6s4kWgzQwsueo3mfllY1s6,The Notorious B.I.G.;Eminem,Born Again,Dead Wrong (feat. Eminem) - 2005 Remaster,57,297426,True,0.682,0.92,10,-1.544,1,0.278,0.177,0.00158,0.0443,0.835,82.228,4,hardcore
+79CUrU5o2KAVDTNm4x3eGU,The Prodigy,The Fat of the Land,Firestarter,64,279800,False,0.545,0.948,11,-5.098,1,0.0779,0.00335,0.364,0.226,0.355,141.507,4,hardcore
+0Bb21NEv7yjSJ8ro2k2SZC,Xzibit;Eminem,Restless,Don't Aproach Me (feat. Eminem),57,276506,True,0.908,0.687,5,-5.202,0,0.301,0.416,0.0,0.12,0.855,92.889,4,hardcore
+0HOqINudNgQFpg1le5Hnqe,Geto Boys,Uncut Dope,Damn It Feels Good to Be a Gangsta,61,310600,True,0.785,0.793,1,-7.915,1,0.163,0.22,0.718,0.124,0.655,88.902,4,hardcore
+5EWWCzpA6D8UTRbVQbScp6,Tony Yayo;Eminem;Obie Trice,Thoughts Of A Predicate Felon,Drama Setter,54,303533,True,0.728,0.647,10,-5.199,0,0.24,0.0354,1.7e-06,0.285,0.215,160.009,4,hardcore
+4M6OJuXFOjf1mXZDcjG6L8,Rancore,Seiva,Mulher,32,237186,False,0.647,0.639,1,-7.324,1,0.0314,0.00698,1.24e-06,0.111,0.197,111.021,4,hardcore
+4ZwkThefEvGhFtUGDsb7Ut,R.Sigma,Reflita-Se,O Mito Do Insubstituível,33,188606,False,0.425,0.844,8,-4.615,0,0.0586,0.0309,0.0,0.0631,0.241,169.72,4,hardcore
+1hBdAohS9PQAmIOGe98SbL,Bayside,Vacancy,Two Letters,34,245946,False,0.424,0.96,7,-4.13,0,0.14,0.00101,0.0,0.0935,0.412,165.046,4,hardcore
+2imsVy3dcfibqYBdtKhCFa,Dj Gizmo,Verb,Verb,33,133441,False,0.608,0.477,10,-10.431,0,0.242,0.0043,0.91,0.225,0.468,118.42,4,hardcore
+4WNBLbyrgLu34gmdYd5pkx,T.A.M.,Tu Amargo Madrugar,Rata,34,112954,False,0.452,0.93,9,-4.663,1,0.0482,7.81e-05,2.16e-05,0.135,0.952,133.399,4,hardcore
+2jmZTz7ZvG9BzkgdB2bpZb,Noxa,Legacy,Tanah Air Beta,33,92000,True,0.433,0.959,6,-5.032,1,0.11,1.36e-06,0.949,0.0697,0.723,135.118,4,hardcore
+44fIc4zJWyRvmwCsUWdrWh,New Bomb Turks,Scared Straight,Jukebox Lean,35,156200,False,0.361,0.972,2,-4.892,1,0.127,0.0011,0.000626,0.132,0.403,111.82,4,hardcore
+06Lrz6eyIROUC8JM0MylSO,Bayside,The Walking Wounded (Gold Edition),Carry On,34,241266,False,0.506,0.943,8,-5.23,1,0.104,0.000111,0.0,0.119,0.273,124.92,4,hardcore
+6lirXdFd7V1Yc6sid5z6UO,Gloria,(Re)Nascido,Bicho do Mato,33,200253,False,0.497,0.965,4,-2.506,0,0.176,5.4e-05,0.000358,0.143,0.48,180.09,4,hardcore
+3SYk3kwOE0lAoRZwsLSCEL,Unproven,Piece Of You,Piece Of You,33,182825,False,0.577,0.921,10,-1.743,0,0.057,0.00134,1.74e-06,0.19,0.162,102.472,4,hardcore
+5VI04pADTXoIzPjACCHm7r,De Doelleazen;Henk Wijngaard,Gek Yne Kop,Hé Suzie,34,184157,False,0.634,0.95,10,-7.199,0,0.0662,0.0883,0.0435,0.187,0.608,174.976,4,hardcore
+7etnwj0uVj9yPrYuoqrt3T,Cueio Limão,Quem Matou o Bozo?,Prego,32,124253,False,0.261,0.935,9,-5.823,1,0.181,0.0019,0.0,0.352,0.704,158.975,4,hardcore
+4vMamRwBPa23BnECiEbRsq,Vandal!sm;Elitepauper,"Het land van Hazes, Hardcore en Halve liters","Het land van Hazes, Hardcore en Halve liters",32,144000,False,0.428,0.87,2,-5.744,1,0.444,0.243,0.00134,0.624,0.439,155.024,4,hardcore
+1ksoAaxNPSYSEb8uI0LL3h,MC Lyte,Rap Homage,Cha Cha Cha,0,181653,True,0.795,0.736,5,-12.712,1,0.61,0.485,0.0,0.334,0.953,91.411,4,hardcore
+0HHJtINBmlDvdYu2CvdLd8,Bullet Bane;Lucas Silveira,BLLT,Lembro Quando Começou,33,245250,False,0.488,0.606,2,-7.731,0,0.0509,0.211,2.53e-06,0.134,0.147,119.963,4,hardcore
+6MwVDUhd8iDH0JhC9wPbTK,Big Daddy Kane,Rap Classics,Set It Off,0,245960,False,0.8,0.611,10,-13.294,0,0.211,0.000359,0.0,0.227,0.778,118.761,4,hardcore
+4Q1fQ1NeJdJ0V5iUOP3a7I,Eterna Inocencia,Entre Llanos y Antigales,Cassiopeia,33,226853,False,0.506,0.853,9,-6.662,1,0.0496,0.0115,2.69e-05,0.0624,0.456,159.968,4,hardcore
+7fLZmG5lAyJeBmAagv1nmD,Big Daddy Kane,The Hip Hop Collection,Ain't No Half-Steppin',0,319906,False,0.836,0.728,10,-12.058,0,0.234,0.00569,0.000854,0.0649,0.598,100.843,4,hardcore
+3hUaTzMdGgb1HFxgsG0VoK,Big Daddy Kane,Rap Homage,Ain't No Half-Steppin',0,319906,False,0.836,0.728,10,-12.058,0,0.234,0.00569,0.000854,0.0649,0.598,100.843,4,hardcore
+7IeXr2kgIAGI36G64yKrQi,It Dies Today,The Caitiff Choir,A Threnody For Modern Romance,34,210893,False,0.366,0.94,8,-3.389,1,0.0953,1.51e-05,7.25e-06,0.105,0.544,177.095,4,hardcore
+3IsAdsoecXwzR4bqOdQvCE,Project46,Tr3s,Pode Pá,33,307307,False,0.568,0.963,5,-3.776,0,0.0856,0.000325,7.15e-05,0.375,0.267,125.015,4,hardcore
+0DwlpQONUcfEpUXuIR2Keb,Los Prisioneros,La Cultura De La Basura,Usted Y Su Ambición,35,227693,False,0.751,0.735,0,-8.433,1,0.0303,0.0806,0.000553,0.285,0.79,123.992,4,hardcore
+5V2UpZPblgQDcalvrIucG9,PartyfrieX,Partyfreak,Handen Omhoog,33,186573,False,0.74,0.93,6,-6.648,1,0.101,0.0337,3.42e-05,0.259,0.825,145.05,4,hardcore
+6ZntUZMMrcZTDF9rm2a1Gw,Big Daddy Kane,Gangsta Love,To Be Your Man,0,346640,False,0.688,0.255,7,-14.86,1,0.0732,0.000695,0.00119,0.107,0.87,154.251,4,hardcore
+4Ef4F9tbb9XcAJwBIdoag7,Millencolin,Pennybridge Pioneers,Stop to Think,34,132600,False,0.358,0.967,11,-3.205,0,0.135,0.000282,0.0,0.225,0.579,137.395,4,hardcore
+3jkg3492UhXZE378fyanq6,Suicidal Tendencies,How Will I Laugh Tomorrow When I Can't Even Smile Today,Pledge Your Allegiance,34,270693,True,0.424,0.711,9,-12.811,1,0.0352,0.0236,0.000324,0.133,0.441,92.493,4,hardcore
+50rvOETHvgInvjoWzxiTtc,Millencolin,Pennybridge Pioneers,A-Ten,34,180640,False,0.397,0.974,2,-2.555,0,0.0705,0.00105,0.0,0.085,0.571,156.601,4,hardcore
+5uM1JSanEe5PcQylkKXn6k,Millencolin,Pennybridge Pioneers,Devil Me,34,160706,False,0.453,0.949,7,-2.984,1,0.0679,0.0018,0.0,0.132,0.816,92.379,4,hardcore
+5tfXiTRzbakgMHOiLNTFbX,Gramofocas,Sempre que eu fico feliz eu bebo,Garota Comunista,34,117643,True,0.44,0.968,9,-2.424,1,0.0395,0.000453,0.0,0.0663,0.865,140.868,4,hardcore
+0lkBH1KgJV342ycEemmet6,Big Daddy Kane,Rap Geek,Raw - Remix,0,344960,False,0.909,0.666,4,-13.042,0,0.334,0.0186,3.01e-06,0.109,0.705,110.678,4,hardcore
+7Dv1rYPkx3v2QVCPUY0yhj,Destroy Rebuild Until God Shows,Post-Millennial Noise,"If You Think This Song Is About You, It Probably Is",0,150200,False,0.597,0.97,4,-6.303,1,0.159,0.00279,1.36e-05,0.354,0.352,121.971,4,hardcore
+3OyFnnvG3QAXpkeviLxj4I,Los Prisioneros,La Voz de los '80 (Edición 30 Años),Eve-Evelyn,35,264151,False,0.65,0.958,7,-6.715,1,0.109,0.0294,0.00734,0.0733,0.575,154.575,4,hardcore
+0zEVUnFsZBYnKk2goNUWQH,Machuca,Viva MacHuca,El Bulla,35,146386,False,0.34,0.913,0,-4.682,1,0.0367,1.73e-06,1.04e-05,0.247,0.382,110.113,4,hardcore
+3Sm8TZeE54N9pWtAMK6qQM,Los Prisioneros,Pateando Piedras,Exijo Ser Un Héroe,35,343760,False,0.819,0.513,1,-14.457,0,0.311,0.0274,0.00313,0.181,0.616,136.101,4,hardcore
+7EvolInoh41z1v7rYbOSIX,Pense,"Realidade, Vida e Fé",Todo Momento É o Agora,33,217636,False,0.588,0.982,1,-4.789,1,0.12,0.00154,1.7e-05,0.117,0.77,110.001,4,hardcore
+0Cpl8IUWAYu2tkFFXMMkkL,Eterna Inocencia,No bien abran las flores,Tu mirada,34,266261,False,0.467,0.858,11,-4.825,1,0.0498,0.000776,7.8e-05,0.316,0.417,140.113,4,hardcore
+3pQ0zUFOi4e1KZ8yQkeD42,9mm Parabellum Bullet,インフェルノ,インフェルノ,57,94706,False,0.282,0.973,1,-2.963,0,0.12,0.000101,0.000611,0.262,0.44,195.042,3,hardcore
+7fXhkARAtS66kxexMIAx8O,The Notorious B.I.G.,Greatest Hits,One More Chance / Stay with Me - Remix; 2007 Remaster,65,268706,True,0.725,0.68,0,-6.037,1,0.224,0.149,0.0,0.127,0.695,90.964,4,hardcore
+0xdYzkbBBfTevSyOJqWUSX,The Notorious B.I.G.;112,Life After Death (2014 Remastered Edition),Sky's the Limit (feat. 112) - 2014 Remaster,62,329426,True,0.637,0.66,0,-4.792,1,0.162,0.217,0.0,0.09,0.503,90.876,4,hardcore
+4sGylyGhQaOzhi77fLrMmP,The Notorious B.I.G.,Slow Flow: Hip Hop & R&B,Big Poppa,49,249866,True,0.765,0.671,9,-5.249,0,0.278,0.344,0.0,0.0506,0.798,84.5,4,hardcore
+3GKL13lkM5nRc4zC1lIOrR,Big Pun;Joe,Capital Punishment (Explicit Version),Still Not a Player (feat. Joe) - Radio Version,71,236800,False,0.9,0.619,4,-6.518,0,0.312,0.203,0.00156,0.0647,0.864,94.121,4,hardcore
+6RvTtRyn7zVayLUWAJxd5Z,S3RL,Hentai,Hentai,55,185830,False,0.496,0.76,4,-4.281,1,0.393,0.000799,0.00285,0.368,0.422,174.944,4,hardcore
+4tV6ku4jEYw9L5gZuNpCbP,Gammer;Darren Styles,DYSYLM,DYSYLM,57,176051,False,0.532,0.878,7,-3.933,0,0.215,0.0102,0.201,0.169,0.385,169.962,4,hardcore
+5467KZaTToEB680WvOd9w5,The Alchemist;Boldy James,Yacht Rock 2,Ocean Prime (feat. Boldy James),63,99906,True,0.583,0.604,2,-8.437,1,0.456,0.735,0.0,0.724,0.691,49.305,5,hardcore
+1rVDyh25v3jIQL7GqoNcLQ,Dr. Peacock;Billx,Frenchcore Worldwide 04,Trip to Mongolia,42,220259,False,0.635,0.961,8,-3.534,1,0.0652,0.431,0.508,0.198,0.149,100.018,1,hardcore
+28AvvchUP85ihRe9xCzcfB,EPMD,Back In Business,Da Joint,61,208360,True,0.734,0.466,10,-8.658,0,0.464,0.243,0.0,0.106,0.788,89.318,4,hardcore
+0AFDe9XA8JjerFSsnsP1K8,Lauren Babic;Seraphim,"Covers, Vol. 2",Lovely,55,181043,False,0.523,0.563,4,-8.398,0,0.0439,0.235,4.01e-06,0.0876,0.323,115.1,4,hardcore
+0DKNNR9iDjwfCEpMiFXMJq,Story Of The Year,Page Avenue,Until the Day I Die,66,235200,False,0.597,0.931,11,-4.591,0,0.0984,0.127,0.0,0.0504,0.534,92.003,4,hardcore
+5czjjnbTatyFal33a9h1aN,Rakim,The 18th Letter / The Book Of Life,Guess Who's Back,59,250906,False,0.796,0.798,6,-7.456,0,0.262,0.0153,0.0,0.106,0.692,94.016,4,hardcore
+56Ndh4m1x5F8IYVDgiLSJl,Los KK,KK Urbana,Pánico,33,64653,False,0.514,0.8,1,-10.615,0,0.0632,0.243,0.0,0.285,0.338,90.796,4,hardcore
+1i8GbOHZHQRUoJrpNoAjue,Peor es Nada,Último Intento,Detén el Tiempo,34,192888,False,0.238,0.743,7,-7.184,1,0.0466,0.00898,0.0,0.141,0.451,170.111,4,hardcore
+0XEaupz5HEnclS6VG54HlX,Andrés,Self Aware,Self Aware,32,216000,False,0.557,0.86,5,-5.402,1,0.258,0.28,0.0,0.0658,0.729,79.823,4,hardcore
+73bk8wlvLeAJyhoeIxMySi,Promo,Analog Mind in a Digital World,Een en Al Blijheid,31,231586,False,0.404,0.906,11,-4.827,0,0.56,0.166,0.0,0.055,0.435,194.844,4,hardcore
+5nXPurgq5eAYKecHSfO8tM,Kylähullut,Peräaukko sivistyksessä,"Kameratutkat, suoriksi mutkat",34,131640,True,0.259,0.965,9,-3.879,0,0.149,0.000615,7.34e-06,0.111,0.256,128.172,4,hardcore
+2ozFNiP2FJHdL8Mh45yfAN,Protest The Hero,Palimpsest,All Hands,32,280546,False,0.447,0.974,1,-6.426,1,0.116,0.000529,1.42e-06,0.142,0.443,150.066,4,hardcore
+65V2meSeDYo17yCWYSx8ug,Alexisonfire,"""Watch out!""",White Devil,32,214786,True,0.19,0.871,4,-5.416,1,0.083,8.06e-06,1.74e-05,0.239,0.349,95.437,4,hardcore
+61gwQ8PWAKiAQ4HT9avZOu,Total Jerks,Fear,Sudah Gila,32,61973,False,0.16,0.999,4,-1.772,1,0.222,0.00143,0.914,0.203,0.171,178.118,4,hardcore
+7JEzFU4SGDNb9CxwX8n2Vw,KRS-One,A Retrospective,Step into a World (Rapture's Delight),37,290306,False,0.801,0.805,0,-7.933,1,0.256,0.00731,0.00824,0.105,0.652,94.981,4,hardcore
+38WfhMbryO14J00gi97rfP,Burgerkill,Adamantine,Integral,35,327406,False,0.466,0.968,8,-6.601,1,0.078,0.000133,0.00309,0.154,0.129,140.998,4,hardcore
+4570R2Jthx2P93Y1nIYA6w,Pennywise,From The Ashes,Something to Change,34,161573,False,0.282,0.927,7,-4.421,1,0.0706,0.000485,1.31e-06,0.188,0.83,158.479,4,hardcore
+67NkmbhZ3bbe9EFjL9e2pw,Koil,Blacklight,Suaramu Merdu,34,227302,False,0.488,0.538,2,-9.094,0,0.0265,0.24,0.0135,0.112,0.14,80.009,4,hardcore
+1meXK8bC29YKP011kHQml1,Millencolin,Same Old Tunes,Leona,34,141706,False,0.35,0.779,0,-7.864,1,0.0973,0.00237,0.0,0.0307,0.779,141.245,4,hardcore
+3o0J0f1b93w0vZ5oMwnKIr,Sugar Kane,Por Nossa Paz,Medo,34,208280,False,0.401,0.953,11,-3.354,0,0.065,5.99e-05,0.000791,0.319,0.644,122.863,4,hardcore
+27d5Og8Eajvr1C4RxCIdYl,MC Lyte,Gangsta Love,Ruffneck,0,237240,True,0.73,0.853,1,-5.147,0,0.17,0.045,0.0,0.0283,0.857,204.352,4,hardcore
+2OzWAnEIbId0igNs9yxZBb,Los Miserables,25 Años y Todo Sigue Igual,Al otro lado del sol,34,317741,False,0.504,0.898,1,-4.81,0,0.0387,0.000285,0.272,0.336,0.709,145.044,4,hardcore
+2K6a1zQRxVh7lvvNf3gSCR,Pennywise,Unknown Road (2005 Remaster),It's Up To Me - 2005 Remaster,34,196026,False,0.25,0.997,4,-4.201,0,0.139,0.00626,0.0,0.408,0.184,174.998,4,hardcore
+6lMP5o8aLczm4PrV1WkuJY,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",La Noche,35,207960,False,0.309,0.585,8,-8.931,0,0.0458,0.117,0.000416,0.364,0.551,68.205,4,hardcore
+53fXPUjQJM7drsCEH02qRe,Koil,Blacklight,"Semoga Kau Sembuh, Pt. 2",34,465664,False,0.442,0.789,2,-6.42,0,0.0407,0.00567,0.0352,0.203,0.223,139.894,4,hardcore
+6Leb9SwTdJ4MiBmD0IMh91,Fraud,Movement Before Mouthment,Wrong Roots,32,171435,False,0.395,0.977,7,-3.307,1,0.193,0.0131,1.73e-06,0.15,0.275,169.952,4,hardcore
+44djnHMGGIFRggqmOCT6EI,Dead Fish,Ponto Cego,Pobres Cachorros,33,155169,False,0.429,0.919,1,-5.178,1,0.053,7.73e-05,0.0,0.445,0.741,112.607,4,hardcore
+60LKWLg11jeoun7p6UBEiq,MC Lyte,Rap Classics,Lyte as a Rock,0,260693,False,0.886,0.547,5,-13.659,0,0.333,0.463,0.0,0.238,0.531,113.988,4,hardcore
+7oAz2RyxPkjdzNIeQHcIxP,Rodox,Rodox,Foi bom esperar,32,226466,False,0.533,0.963,6,-5.064,1,0.0367,0.000211,0.000238,0.0973,0.78,149.949,4,hardcore
+5H0rkrwdQytofgRjhZe9XF,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",¿Por Qué No Se Van?,35,178240,False,0.755,0.796,0,-9.621,1,0.0422,0.0166,0.0173,0.0643,0.94,152.153,4,hardcore
+4qYTGNNVrsKUkJdLaqDC5L,MC Lyte,The Hip Hop Collection,Cold Rock a Party,0,247306,True,0.896,0.744,11,-5.239,0,0.246,0.192,1.2e-06,0.108,0.746,92.911,4,hardcore
+7szxifMiAXPrK3wOdDpMdd,Authority Zero,A Passage In Time (Explicit Version),Over Seasons,34,232133,False,0.6,0.994,7,-2.718,1,0.161,0.21,1.65e-06,0.236,0.435,98.081,4,hardcore
+0ROQHMG2v6pLZS1L3MfyvT,Mukeka di Rato,Carne,Rinha de Magnata,32,130053,False,0.352,0.982,9,-3.603,1,0.0905,0.0018,0.0,0.184,0.227,111.325,4,hardcore
+2JF6XTiPGGbYOXsLbAnTWx,The Flatliners,Cavalcade,Count Your Bruises,35,186706,False,0.407,0.974,4,-2.779,1,0.091,2.13e-05,3.15e-06,0.0863,0.569,162.083,4,hardcore
+0VnkKcDfLPPyWTa3xIFWCV,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",Paramar (En Vivo),35,267918,False,0.449,0.838,2,-5.293,1,0.048,0.0539,0.00148,0.72,0.366,137.382,4,hardcore
+5nKZlWtiV5Lx11NL4gGjRi,Los Miserables,La voz del pueblo,Cambia todo cambia,34,178413,False,0.543,0.836,10,-3.962,1,0.0421,6.04e-05,1.29e-06,0.0902,0.73,125.004,4,hardcore
+5dQRYJYKpQO3ZF4CTO6AQJ,Millencolin,Pennybridge Pioneers,Highway Donkey,33,148933,False,0.4,0.984,11,-2.551,0,0.0887,0.000744,0.0,0.334,0.57,134.89,4,hardcore
+5h0x0UIV8XFVh57X1NJMBn,Butthole Surfers,The Ultimate ESK8 Metal Album.,Who Was In My Room Last Night?,34,249000,False,0.308,0.889,6,-8.691,0,0.117,0.000812,0.0119,0.271,0.255,182.063,4,hardcore
+1aGxEyEsZBG90bXFolWQ2W,Pense,"Realidade, Vida e Fé","Corpo, Mente, Espírito",32,184513,False,0.541,0.986,8,-4.652,0,0.0889,0.000339,0.000126,0.512,0.854,113.037,4,hardcore
+593mLs910UvWqLDzm12vwT,Machuca,MacHuca Tercero,Olvidando,34,200386,False,0.231,0.94,9,-5.016,0,0.217,5.79e-05,5.74e-05,0.0638,0.147,162.754,4,hardcore
+5ssu5PiMdTjTPQdBQYTctc,BBS Paranoicos,Antídoto,Corazón al Barro,34,219320,False,0.305,0.948,0,-5.245,0,0.134,0.0572,0.0,0.357,0.257,176.896,4,hardcore
+6IhBcqdKmUB1PxgdvWU5vB,MC Lyte,Rap Geek,Cold Rock a Party - Milk Remix,0,199053,True,0.893,0.476,9,-8.133,0,0.347,0.0969,0.0,0.144,0.403,90.152,4,hardcore
+0aDTaI6pxKLiy0vcmHebZR,Todos Tus Muertos,Greatest Hits,Tu Alma Mía / Adelita,36,233266,False,0.546,0.464,9,-18.492,0,0.0638,0.00383,8.78e-06,0.224,0.731,116.327,4,hardcore
+1sVUR6ZtKsAypm8qOEpgio,Kurupt;Tray Dee;Slip Capone,Old School Hip Hop Party,C-Walk,51,311666,True,0.913,0.444,0,-8.718,1,0.249,0.0283,4.27e-05,0.0626,0.627,94.984,4,hardcore
+3qrMRcYP6xmmZBrL7yZLfD,N.W.A.,The Best Of N.W.A: The Strength Of Street Knowledge,A Bitch Is A Bitch,36,186360,True,0.895,0.636,6,-5.893,0,0.339,0.0212,0.0,0.341,0.784,97.113,4,hardcore
+2gABnPYOMsyxThmsOQ4uWK,Cypress Hill;Barron Ricks,The Essential Cypress Hill,Tequila Sunrise,65,257746,True,0.547,0.63,10,-8.772,0,0.494,0.0122,0.00225,0.14,0.556,192.736,3,hardcore
+0QnGI4OgY8ReggLWvEXdgD,Nas,It Was Written,Street Dreams,60,279933,True,0.752,0.611,11,-8.681,0,0.315,0.21,0.0,0.778,0.746,90.993,4,hardcore
+4HuocOuSBJ78RlsFYwTyr5,Adventurer,Reality,Reality,42,167812,False,0.651,0.9,7,-3.539,0,0.102,0.0147,0.0,0.0969,0.148,127.979,4,hardcore
+1EiLrPd8JMTcQUr1aLEUKi,Gang Starr,Moment Of Truth,Work,66,177666,True,0.787,0.832,10,-4.671,1,0.301,0.0347,0.0,0.0593,0.814,92.606,4,hardcore
+09KVvb0849JV9TRFpTiY0l,Scooter;Timmy Trumpet,Paul Is Dead,Paul Is Dead,57,174291,False,0.504,0.891,6,-4.175,0,0.126,0.33,8.65e-06,0.191,0.295,169.886,4,hardcore
+661wc0CTq5MbppEG6zYP5n,Nas;Fivio Foreign;A$AP Ferg,King's Disease,Spicy (feat. Fivio Foreign & A$AP Ferg),56,166523,True,0.724,0.603,1,-6.553,1,0.406,0.0187,0.0,0.169,0.152,180.02,4,hardcore
+4UmHbauXS8YYIGlYvAsDRr,DMX,Grand Champ,The Rain,57,207573,True,0.719,0.846,9,-4.637,0,0.0481,0.173,0.0,0.248,0.514,89.04,4,hardcore
+2PRsh2LNPxoxC9OnErnelg,Nas,Illmatic,Halftime,61,260799,True,0.766,0.793,4,-6.638,0,0.166,0.0303,8.09e-06,0.173,0.652,91.925,4,hardcore
+6jp6y1uanvnidX6F5aUJHR,Thirteen;Zara Zahrina,Aksi,Distopia,32,226000,False,0.38,0.953,0,-0.965,1,0.0845,0.000406,1.24e-05,0.0755,0.142,92.485,4,hardcore
+7B8i097AlAcwxNQRx4ygd0,Circa Survive,Descensus,Child of the Desert,32,290453,False,0.373,0.832,0,-2.795,1,0.0409,2.13e-05,0.0565,0.088,0.375,195.091,5,hardcore
+1ygjXzCzApOeNr396plHmT,Obie Trice;D12;Eminem,Cheers,Outro (Obie Trice/ Cheers),55,242800,True,0.848,0.771,8,-1.697,0,0.151,0.101,4.14e-06,0.181,0.16,93.556,4,hardcore
+1nmbGvznG5eK87587Ds0dN,Vowe,Nossa Verdade,Frio,33,198915,False,0.53,0.873,2,-4.789,0,0.0325,0.0083,0.0,0.224,0.706,146.873,4,hardcore
+1ziKQL2UBLKnKFHHuIiQwL,Ponto Nulo no Céu,Pintando Quadros do Invisível,Horizontal,32,216768,False,0.557,0.944,10,-4.04,0,0.08,0.000845,6.28e-06,0.413,0.729,140.04,4,hardcore
+40KkV9bemT9yBfJjpSERrz,End It,Unpleasant Living,Hatekeeper,31,61412,False,0.346,0.992,6,-4.339,1,0.204,0.00722,0.0,0.308,0.357,141.893,4,hardcore
+5stZnlPMYz3Ba8Hbo3ajlP,Xzibit,Restless,X,63,255640,True,0.936,0.678,4,-3.012,0,0.21,0.0795,0.0,0.0838,0.822,96.911,4,hardcore
+7gwQkDTU5Kzo1vNAcyuQlj,From Alaska,Norte,Fantasmas,32,215310,False,0.419,0.972,4,-3.895,0,0.0838,1.31e-05,0.00844,0.329,0.19,92.487,4,hardcore
+75gWtvF9RJfVRbWD39cSuZ,Anthony Green,Boom. Done.,No Other Choice,33,240085,True,0.296,0.606,7,-6.215,1,0.0362,0.0654,0.796,0.146,0.293,77.198,4,hardcore
+6tJQoO8UuVeCce7YfOzOjG,DMX;Magic;Val,Grand Champ,A 'Yo Kato,34,226733,True,0.702,0.83,1,-4.129,1,0.297,0.0258,0.0,0.0698,0.829,87.264,4,hardcore
+3fqtVN09yVrVpNL5JTOnWQ,Lonely Spring;Christoph von Freydorf,Lovers & Strangers,Who Am I (feat. Christoph von Freydorf),32,277773,False,0.6,0.96,7,-3.186,1,0.0346,0.00034,0.000102,0.102,0.591,102.493,4,hardcore
+53hJ9iqqAisVaTuP0aofag,Le Endrigo,Cose più grandi di te,Cose più grandi di te,33,129184,True,0.511,0.623,2,-6.0,1,0.049,0.03,1.8e-05,0.191,0.196,153.096,4,hardcore
+3UazjRonjMgFBOYjfOxAm7,Boysetsfire,The Misery Index: Notes From The Plague Years,Requiem,32,255186,False,0.462,0.96,2,-2.763,0,0.0925,0.00192,2.25e-05,0.109,0.353,164.019,4,hardcore
+3LfuhQh0rsja1n2Ds1WSgk,Dance of Days;Fernanda Takai,A Valsa de Águas Vivas,Adeus Sofia,31,238654,False,0.227,0.978,7,-2.314,1,0.149,0.00147,0.00026,0.347,0.638,196.426,4,hardcore
+1hff7LUnttGIGzbCAjAC4B,For Revenge;Wira Nagara,Perayaan Patah Hati,Perayaan Patah Hati,33,295000,False,0.517,0.742,4,-6.067,0,0.0725,0.0995,0.0125,0.0947,0.0637,121.206,4,hardcore
+5sG3G54H21hNfd5etlheoe,Rise Against,Endgame,Satellite,68,238573,False,0.387,0.94,5,-4.16,0,0.0528,0.00369,0.0,0.0759,0.444,134.876,4,hardcore
+5obwLR73JZh0JFHRbhgg9s,Swingin' Utters,Swingin' Utters,Pills & Smoke,35,154453,False,0.457,0.962,0,-4.118,1,0.0413,8.5e-05,0.054,0.155,0.662,113.363,4,hardcore
+60hhg1AJ4lvCn9ORBHVGE8,Los Prisioneros,La Vida Inmoral de la Pareja Ideal (Soundtrack),Estrechez de corazón,34,383634,False,0.658,0.737,1,-8.233,1,0.0339,0.0016,2.73e-06,0.15,0.456,130.26,4,hardcore
+7baJpnxFot26Wjv9jy1vvK,Guns n' Wankers,Guns N' Wankers,"Blah, Blah, Blah",32,137800,False,0.244,0.961,8,-6.921,1,0.0686,3.51e-06,0.637,0.116,0.638,191.646,4,hardcore
+4oiE3GCw9WaWU5Rge5GP9h,The Analogs,Pełnoletnia Oi! Młodzież,Oi! Młodzież,32,197960,False,0.445,0.944,0,-2.042,1,0.128,0.0993,0.0,0.305,0.588,199.605,4,hardcore
+1DvV0kNGb6oSTQKXqqe8u5,Hateen;Dani Vellocet,Não Vai Mais Ter Tristeza Aqui,Passa o Tempo,33,288066,False,0.592,0.88,11,-3.725,0,0.0329,0.00114,0.0,0.122,0.284,119.989,4,hardcore
+0gOdb6jejKS3xbWQUsQNg1,For Revenge,Second Chance,The Wall,33,265466,False,0.33,0.665,2,-4.831,0,0.0389,0.0214,0.0414,0.0714,0.346,175.967,4,hardcore
+6nvVrOYJKgeLHobIFrA2w2,The Falcon,Unicornography,Blackout,34,183146,False,0.319,0.938,9,-7.169,1,0.046,0.000435,3.37e-05,0.0688,0.87,191.989,4,hardcore
+4jJ3rcbPevOdXr6hFIVW45,Swingin' Utters,A Juvenile Product of the Working Class,Windspitting Punk,35,134800,False,0.284,0.959,1,-6.02,0,0.123,0.00142,0.000146,0.0866,0.665,174.296,4,hardcore
+1qo8cmbRkIsyFNSPKJWdk9,Misfits;Glenn Danzig,Legacy Of Brutality,Angelfuck,33,94906,True,0.282,0.891,2,-11.273,1,0.046,0.257,0.399,0.337,0.249,176.274,4,hardcore
+00vBYubSgzkrsIHBn4bopV,Blind Pigs,Surf Rock Coletânea,O Idiota,33,91880,False,0.536,0.92,0,-5.309,1,0.045,0.00172,0.0,0.156,0.847,107.682,4,hardcore
+6gUkuqo8PXOjpiPx3qkL0y,Hazen Street,Hazen Street,Fool The World,31,201760,False,0.608,0.938,9,-3.136,1,0.0632,0.0207,0.0,0.645,0.82,133.028,4,hardcore
+31Wi4Vskn51YPzt7YQvXmp,Rancore,Seiva,Jeito Livre,32,225533,False,0.377,0.965,11,-4.375,0,0.149,0.00102,0.0,0.222,0.307,155.567,4,hardcore
+6Bj0oDphq1KC8a2XW5Agyg,Life Of Agony,River Runs Red,Through and Through,32,184485,False,0.35,0.881,2,-5.312,1,0.0476,0.00088,3.3e-05,0.087,0.238,98.93,5,hardcore
+2tjkrsxIGGJzJAnaUHYjtQ,Scooter,20 Years of Hardcore (Remastered),Call Me Mañana,32,219946,False,0.513,0.999,9,-5.894,0,0.166,0.00217,0.105,0.697,0.156,143.039,4,hardcore
+6qBpthIknZtYitTrJPdho2,Restrained;Rejecta,Harder Stylez: We Love The Bass,Court of Justice,0,246705,True,0.519,0.911,4,-4.801,0,0.17,0.00898,1.65e-05,0.163,0.182,180.021,3,hardcore
+2PnQwNP5V4FYA04vR57Juk,Operation Ivy,Operation Ivy (2007 Remaster),I Got No - 2007 Remaster,33,76240,False,0.313,0.938,0,-4.423,1,0.0529,0.00179,0.0146,0.241,0.731,79.139,4,hardcore
+1MgE7jscC7apCUlyM3LUdU,Los Prisioneros,Pateando Piedras,Quieren Dinero,34,314003,False,0.616,0.64,0,-11.505,1,0.0283,0.0142,3.58e-05,0.466,0.833,145.473,4,hardcore
+61aQj9OClj0aQyzO57wlqB,Pense,"Realidade, Vida e Fé",Utopia,31,193157,False,0.58,0.982,1,-4.895,1,0.102,0.000289,7.73e-06,0.497,0.802,114.0,4,hardcore
+7Falgn9NOmdLo0Wgro8Ze0,Weichafe,Mundo Hostil,Me Estai Hueviando,34,235760,False,0.57,0.684,2,-5.939,1,0.0517,0.00668,0.0,0.234,0.14,119.979,4,hardcore
+0wM8XQp5vUEFPmSdVlM6QE,Hang Youth;Gotu Jim,IK BETAAL ME STUFI NIET TERUG,IK BETAAL ME STUFI NIET TERUG,33,98351,True,0.165,0.929,6,-4.661,1,0.113,7.07e-05,0.000766,0.319,0.542,185.59,4,hardcore
+0hwWynBLFM7jJdxi6D2tMg,Dead Fish,Ponto Cego,Doutrina do Choque,32,196487,False,0.301,0.968,8,-4.516,1,0.0807,0.000909,0.0,0.112,0.613,187.298,4,hardcore
+76sOApXMrNk38OcLeOPmHn,Surra,Escorrendo Pelo Ralo,Bom Dia Senhor,34,272346,False,0.343,0.959,4,-3.119,1,0.09,0.00172,0.0,0.0869,0.229,138.377,4,hardcore
+3WDIWy1fEtTOSTIuS67Any,Ratos De Porão,Necropolítica,Alerta Antifascista,35,211069,True,0.232,0.966,9,-6.071,1,0.11,3.17e-05,0.00231,0.182,0.209,142.52,3,hardcore
+4a11E1OGstd2GEToV8zcxZ,Lawineboys;Pater Moeskroen,Remmen Los,Bertus,32,179000,False,0.697,0.979,8,-4.429,1,0.0909,0.243,0.0,0.39,0.798,144.018,4,hardcore
+4jTVJvaZg5CftauLD2ou9F,Lauren Babic;Seraphim,Lovely,Lovely,53,181043,False,0.52,0.563,4,-8.398,0,0.0439,0.235,4.01e-06,0.0876,0.325,115.122,4,hardcore
+4IRXYhfzLlDCWQJZ9vPAxP,Sefa,Lost in Thoughts,Lost in Thoughts,54,244800,False,0.453,0.979,1,-1.929,1,0.0453,0.0143,0.54,0.143,0.138,99.975,4,hardcore
+3UYuDTslR35thjQzaVwRMe,Nas,God's Son,Get Down,63,244253,True,0.835,0.718,1,-6.405,1,0.232,0.0424,0.0,0.258,0.507,94.387,4,hardcore
+4H3eeEecmb1lIqUfo99d8G,Makaveli,The Don Killuminati: The 7 Day Theory,To Live And Die In L.A.,62,273426,True,0.579,0.818,9,-7.635,0,0.313,0.241,0.0,0.775,0.753,173.832,4,hardcore
+3dVMeI08Of33bjSELmtSqq,MY FIRST STORY;chelly (EGOIST),"1,000,000 TIMES","1,000,000 TIMES feat. chelly (EGOIST)",55,315066,False,0.252,0.987,8,-2.993,0,0.305,0.00382,0.0,0.196,0.236,199.874,4,hardcore
+2bXI4Rbw1D7aVeHWLjn1Lb,The Notorious B.I.G.,Ready to Die (The Remaster),Machine Gun Funk - 2006 Remaster,62,255893,True,0.841,0.738,4,-5.325,0,0.3,0.102,0.0235,0.0901,0.305,93.725,4,hardcore
+6dRj771QZr0KOQVwaB6ykM,Pete Rock;InI,Center of Attention,Grown Man Sport,62,276373,True,0.801,0.757,7,-8.01,1,0.316,0.478,1.32e-05,0.163,0.607,88.025,4,hardcore
+56nLHj9HJr3xpbLarnr0l4,S3RL,Mtc - Single,Mtc,58,260530,False,0.485,0.979,2,-0.943,1,0.116,0.00792,0.00171,0.387,0.432,175.074,4,hardcore
+3ezoEY4TKU8frUXAYFJstC,Remzcore,Sweater Weather,Sweater Weather,61,230389,False,0.507,0.985,1,-0.181,0,0.192,0.0467,0.000394,0.107,0.23,95.0,4,hardcore
+4O9ICXbrUTAVR5kkx6xANJ,DMX,DMX: The Legacy,X Gon' Give It To Ya,55,217586,True,0.761,0.899,10,-3.09,0,0.183,0.0137,0.0,0.0719,0.673,95.021,4,hardcore
+6phmKeRhJUsiSBJgMkgjg8,N.W.A.,Efil4zaggin,Alwayz Into Somethin',60,264960,True,0.709,0.874,7,-4.522,1,0.193,0.0114,0.0,0.213,0.832,88.546,4,hardcore
+33rsCCLHklTQav9klbpnAi,The Notorious B.I.G.,Ready to Die (The Remaster),Warning - 2005 Remaster,61,220440,True,0.596,0.791,11,-7.582,0,0.476,0.345,1.42e-05,0.136,0.399,171.919,4,hardcore
+6uzesxG4dlBg3faZmzL6Qs,Obie Trice,Cheers,The Setup,61,193000,True,0.908,0.738,1,-4.933,1,0.271,0.143,0.0,0.0829,0.79,95.954,4,hardcore
+0vYB5bs4D2o9kN0tsu3FRn,Magnitude,To Whatever Fateful End,Defy,31,110181,False,0.432,0.984,8,-4.186,1,0.118,0.000262,0.00204,0.371,0.398,96.746,4,hardcore
+6kCMI0NPb6EXKcWZVZm8Kh,Hail The Sun,Elephantitis - EP,Dead Messages,32,239160,True,0.27,0.866,11,-6.132,0,0.085,0.000408,3.31e-05,0.365,0.108,148.938,4,hardcore
+1FOJO1cyl4AafEO3Hmi4S4,Koyo;Life's Question,Drives Out East,Diamond One,32,181546,True,0.483,0.942,9,-6.907,1,0.136,7.19e-05,0.0,0.345,0.362,100.185,4,hardcore
+7wmZbJw1H2LQWfxRQ4EZA6,InDharma,Players,Players,31,169663,False,0.542,0.941,1,-4.916,1,0.187,0.00749,0.0,0.319,0.597,151.911,4,hardcore
+5PDUqXNuQQhhRwwA85EjE1,Dj Promo,Falta,Falta,30,69362,False,0.685,0.572,6,-8.112,1,0.0993,0.516,0.816,0.24,0.586,142.366,4,hardcore
+5Q9xZAUfiWZLUHDYugcXN4,D-Ceptor,Warrior Elite,Warrior Elite,31,265599,False,0.325,0.993,7,-0.562,1,0.253,0.146,0.0589,0.548,0.216,181.978,4,hardcore
+7qBiOYI0OBAOYAEogWz4uA,D-Ceptor;Nick Novity,Order & Chaos,Getting High,32,236108,False,0.423,0.921,5,-2.345,0,0.192,0.00701,0.0,0.0781,0.182,184.983,4,hardcore
+52Unz8y3t5z69XQ7mudzSt,The Psycho Realm,The Psycho Realm,Love Letters Intro / Love From The Sick Side,33,197400,True,0.716,0.572,9,-10.455,1,0.271,0.13,0.0324,0.113,0.405,173.439,4,hardcore
+5QdGk4WOEq7ACHMELB5glC,Moskwa,Moskwa I,Powietrza,32,140653,False,0.29,0.977,1,-6.452,1,0.0661,0.0383,3.1e-05,0.163,0.232,91.756,4,hardcore
+6Op5A98fDW4WDwsnfPU37e,For Revenge,Auristella,The Universe,33,278666,False,0.626,0.868,3,-4.526,1,0.0411,0.00812,4.49e-05,0.162,0.339,134.963,4,hardcore
+46musX0gdikT9TWkzvs6fC,Marc Acardipane;Da TMC,The Most Famous Unknown - Expansion Pack 4,Don't Touch That Stereo (Extended Mix) - Remastered,31,393312,False,0.683,0.894,8,-5.902,1,0.133,0.0276,0.336,0.328,0.174,141.989,4,hardcore
+7Gv2jhUmoQdbrRavOhsJnK,World of Pleasure,World of Pleasure,Sweetness of Life,30,115000,False,0.239,0.996,6,-4.793,0,0.158,8.89e-05,0.582,0.354,0.081,107.286,3,hardcore
+56BBkFOvo0iS2sHoNVHWoD,Dj Promo,Sube,Sube,31,119175,False,0.726,0.573,4,-12.809,0,0.0468,0.119,0.78,0.0679,0.398,104.958,4,hardcore
+2P7eZg6ZLQudgjVirl6c3F,The Meatmen,Savage Sagas,I'm Gonna Fuck You Up,32,97200,True,0.45,0.973,0,-6.256,1,0.0701,0.00532,0.0,0.0804,0.792,91.56,4,hardcore
+7iW8xGGEHZFMcyBdWlAsIX,Nosferatu,Demonic Playgrounds,A Sinner’s Descent,31,199782,False,0.245,0.974,1,-1.413,1,0.436,0.171,4.97e-05,0.35,0.162,184.986,4,hardcore
+2FNnnPk1F0V4ZWQ30xUVQW,Straight Answer,Never Surrender,Menolak Tunduk,32,127066,False,0.152,0.991,2,-3.502,1,0.159,2.52e-05,0.0,0.198,0.352,202.793,4,hardcore
+3glqlA5qY3bbo8UaUDGPnw,Wu-Tang Clan;Ol' Dirty Bastard;Inspectah Deck;Method Man;Cappadonna;U-God;RZA;GZA;Masta Killa;Ghostface Killah;Raekwon,Wu-Tang Forever,"Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",64,338186,True,0.739,0.639,2,-6.959,1,0.358,0.000918,2.74e-05,0.352,0.323,91.121,4,hardcore
+6AHGXzBfUCsD7rq99TmvhI,Dona Cislene,Um Brinde aos Loucos,Good Vibe,32,219671,False,0.552,0.887,2,-3.412,1,0.0542,0.0189,0.0,0.0757,0.961,170.003,4,hardcore
+4m6JdrQrSbSnjYc89qKvEj,Charly Lownoise & Mental Theo,Last Goodbye,Last Goodbye - Happy Mix,31,175084,False,0.53,0.955,0,-5.674,0,0.0444,0.00609,0.000341,0.0756,0.351,170.097,4,hardcore
+4Ch840cQWjDI9pCkcT0lfh,Bullet Bane,BLLT,Esse Vazio Ocupa Tanto Espaço,31,240762,False,0.452,0.939,4,-4.301,0,0.0474,0.00688,0.0,0.172,0.288,142.072,4,hardcore
+35SyZI5BZyBrraebGUoUqB,Pavilhão 9;Black Alien,Se Deus Vier Que Venha Armado,Vai Explodir,33,181562,False,0.612,0.968,1,-6.315,0,0.224,0.0533,0.0,0.375,0.158,91.937,4,hardcore
+0zmPetBaFhfHO8tb0PH23c,Dead Fish,Vitória,Vitória,31,203413,False,0.278,0.995,6,-4.401,1,0.216,0.00353,0.0,0.122,0.268,109.718,4,hardcore
+5MLTVm7tilgXGgySCplkkH,Gridiron,Worldwide Brotherhood,Ain't Turned Mine,31,140352,False,0.455,0.949,6,-3.679,1,0.0857,0.00105,8.35e-05,0.469,0.826,85.046,4,hardcore
+4Rz0T332xtXIkPlMjY22v7,Strung Out,Twisted by Design (Reissue),Exhumation of Virginia Madison,32,140840,False,0.343,0.955,1,-4.648,1,0.103,0.000729,0.000103,0.106,0.517,108.161,4,hardcore
+4VKUXothA6xoivFiep1gLv,Seringai,Seperti Api,Persetan,33,203579,False,0.59,0.958,6,-6.203,1,0.054,0.0113,0.667,0.138,0.409,95.124,4,hardcore
+4wJDllCkGy6QIKIu7ZHFny,Lawineboys,10 Jaar Lawinegevaar,Lawine Song (mmv DJ Jerome),32,207000,False,0.628,0.996,1,-2.53,1,0.106,0.0939,0.0123,0.0906,0.362,145.021,4,hardcore
+1j9PnpFFssA5aatGivk0DD,Strung Out,Twisted by Design (Reissue),Too Close to See,32,171746,False,0.211,0.929,2,-5.067,1,0.14,2.88e-05,0.00542,0.268,0.362,182.35,4,hardcore
+5O6SumCYk8Ug81UbfXAPJC,Rise Against,Siren Song Of The Counter-Culture,Give It All,62,170893,False,0.587,0.942,2,-3.167,1,0.0727,0.000354,0.00172,0.0762,0.389,103.061,4,hardcore
+0pVlnwobZdynBQbgdrcqQI,Los Prisioneros,Los Prisioneros,Concepción,34,275146,False,0.616,0.948,4,-3.077,0,0.0779,0.0188,0.0,0.918,0.689,98.073,4,hardcore
+71YAvokGvxQ76Jqj77LKGm,Dead Fish,Um Homem Só,Obrigação,32,160280,False,0.465,0.985,2,-3.232,1,0.12,0.0002,0.0,0.107,0.468,94.019,4,hardcore
+43L9aX73voFRopYzdaOeks,The Bouncing Souls,Hopeless Romantic,Wish Me Well (You Can Go To Hell),32,176800,False,0.372,0.877,2,-6.241,1,0.0643,0.00406,0.0,0.343,0.756,157.203,4,hardcore
+5k5QpH6VYu2EZZaw5ceSkJ,Inocentes,Pânico em São Paulo,Pânico em S.P.,33,238720,False,0.273,0.878,11,-3.917,0,0.125,0.000528,2.63e-06,0.135,0.261,193.133,4,hardcore
+18qbcoPDMyUrQQ422XAskt,Black Pantera,Ascensão,Fogo Nos Racistas,32,219108,True,0.52,0.989,1,-4.98,1,0.0895,0.0284,4.3e-05,0.122,0.307,111.916,4,hardcore
+3jh9a3KePGt6I7TzyuShc1,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",Lo Estamos Pasando Muy Bien,33,326626,False,0.7,0.568,11,-9.804,0,0.1,0.0012,0.000305,0.887,0.861,145.495,4,hardcore
+61Afq5IXaqMSuFhvVinYbM,De Doelleazen,Skijt Oan De Rest,Skijt Oan De Rest,32,161428,False,0.684,0.963,11,-3.463,0,0.0498,0.132,1.25e-05,0.174,0.509,167.934,4,hardcore
+5Ds9Zy6pHiY2wB7a4vRl5K,Espécimen,Subkonzziente,Triste Locura,33,181680,False,0.412,0.709,10,-10.01,0,0.03,0.0102,0.0838,0.107,0.741,143.666,4,hardcore
+1Whw9TVTptSxNLg8f6cLvD,Eterna Inocencia,No bien abran las flores,Cosas por Hacer,32,233635,False,0.516,0.857,7,-5.136,1,0.0402,0.00414,5.17e-05,0.151,0.424,137.974,4,hardcore
+2NPxL1QqPrD1a7OLHjVcAP,Nas,God's Son,I Can,59,253720,False,0.837,0.885,6,-3.914,0,0.182,0.103,0.0,0.0666,0.694,95.313,4,hardcore
+1L0EA6BegmM4KMwTHmSHux,Crystal Castles,(II),Empathy,54,249520,False,0.51,0.914,10,-5.512,1,0.0309,0.128,0.459,0.466,0.332,109.97,4,hardcore
+3UQAKY0SUEonxneROvv4jy,The Notorious B.I.G.,Ready to Die (The Remaster),Ready to Die - 2006 Remaster,59,264546,True,0.727,0.831,6,-5.713,1,0.31,0.0632,3.63e-05,0.487,0.504,84.991,4,hardcore
+6iGSLWmAj6E4GGnSzLxBJf,Westside Connection,Bow Down,"The Gangsta, The Killa And The Dope Dealer",52,251133,True,0.803,0.737,11,-7.469,1,0.258,0.323,0.0,0.888,0.484,92.941,4,hardcore
+7sFRVhCuyyc0CJNHUMucTP,Mobb Deep,The Infamous - 25th Anniversary Expanded Edition,"Shook Ones, Pt. II",52,325506,True,0.763,0.785,10,-6.472,0,0.23,0.0146,0.0113,0.0817,0.506,93.857,4,hardcore
+2D9WT9MeG07a26kKU9IGEb,Dr. Peacock,Trip to Valhalla,Trip to Valhalla,64,232950,False,0.567,0.988,1,-2.879,1,0.187,0.0232,0.0351,0.149,0.0634,100.025,4,hardcore
+6RpuNjTsUQo7eByN3kWvYx,Crystal Castles,Crystal Castles,Untrust Us,60,186373,False,0.609,0.807,11,-5.405,0,0.0283,0.0376,0.204,0.13,0.203,125.906,4,hardcore
+7cITfGsdjGaTP0b5oiLL0z,Saosin,Saosin,You're Not Alone,60,238053,False,0.458,0.845,2,-4.384,0,0.0422,0.000948,1.99e-06,0.359,0.175,119.994,4,hardcore
+6qUEOWqOzu1rLPUPQ1ECpx,Run–D.M.C.;Aerosmith,Raising Hell,Walk This Way (feat. Aerosmith),70,310386,False,0.761,0.711,9,-7.989,1,0.0604,0.0174,0.000101,0.0652,0.947,105.448,4,hardcore
+1p6WtbNY4bDjiFBmSZolJY,MY FIRST STORY,S・S・S,REVIVER,55,290400,False,0.431,0.993,7,-2.67,0,0.119,0.000401,0.0,0.39,0.26,99.999,4,hardcore
+0eEXcw3JLVXcRxYrVYMy68,A Tribe Called Quest,The Anthology,Electric Relaxation,68,226133,False,0.866,0.534,11,-9.201,1,0.229,0.184,0.266,0.0929,0.841,98.243,4,hardcore
+42qK1JWm8fDy3qHZbIZNuQ,Nas,The Lost Tapes,Purple,61,219466,True,0.865,0.595,11,-6.705,0,0.227,0.0377,0.0,0.0877,0.819,96.948,4,hardcore
+6NLLIPKjqFRnbCorRNTEHe,N.W.A.,N.W.A. Greatest Hits,Express Yourself - Remix,59,261399,True,0.852,0.803,6,-6.929,0,0.264,0.00204,0.0,0.121,0.752,96.2,4,hardcore
+6tDP9zgUadubyjO6qElUj5,Ponto Nulo no Céu,Pintando Quadros do Invisível,Norte,31,220834,False,0.29,0.932,1,-4.913,1,0.0889,7.55e-05,0.000426,0.309,0.637,143.039,4,hardcore
+33nkz9gGrCxQqmGW1qO1fs,Earth Groans,Wake the Dead,Wake the Dead,31,201308,False,0.467,0.995,1,-3.802,1,0.0748,9.93e-06,0.0,0.0838,0.208,107.028,4,hardcore
+04pQck9yFXwkAQu2U5Sc9X,Crypton;Unproven,No Sleep,No Sleep,31,197853,False,0.604,0.966,1,-3.054,1,0.0557,0.0669,0.00137,0.437,0.145,102.471,4,hardcore
+2CyC1KQ5aliVQPIxz1ak3B,Shackled,Doubt Surrounds All,Blinded,30,118450,True,0.406,0.959,8,-4.611,1,0.125,3.4e-06,0.00564,0.387,0.382,77.133,4,hardcore
+7Az6p2HwiQV7ObDoEdj7fG,Sharkbite,This Reality,Set Us Free,31,182270,True,0.482,0.865,5,-6.495,0,0.101,0.00134,0.0,0.349,0.561,89.359,4,hardcore
+58aS8er4chjbbIBEymvB9W,Chubb Rock;Hitman Howie Tee,Chubb Rock (feat. Hitman Howie Tee),DJ Innovator (feat. Hitman Howie Tee),34,252493,False,0.77,0.388,6,-20.343,0,0.264,0.0923,2.61e-06,0.0538,0.851,85.317,4,hardcore
+2IHPalrENLAZI8YAZ8DP5q,Panico,Pornostar,Chica bonita,32,187477,False,0.452,0.898,7,-8.671,1,0.0469,0.000611,0.373,0.0845,0.867,78.982,4,hardcore
+3x60Mq0pOGXYfSlSuMKt8g,Saves The Day,Through Being Cool,Through Being Cool,31,124146,False,0.546,0.934,10,-4.451,1,0.0368,0.00365,0.0,0.2,0.701,97.844,4,hardcore
+0DEXrBRhq10FgYXwbHSKdf,Backdrop Falls,Closer to the Edge,Closer to the Edge,32,200916,False,0.414,0.97,9,-3.686,0,0.0747,0.000163,0.0,0.309,0.505,179.986,4,hardcore
+4Gp1Y78hnUBqFjgiPSmEjZ,Lost Boyz,The Best 90s Hip Hop Hits,"Jeeps, Lex Coups, Bimaz & Benz",1,271314,True,0.549,0.745,1,-6.281,0,0.399,0.00941,0.0,0.453,0.608,178.192,4,hardcore
+0MVEVM9XVlMZLk2xG7HzAG,RVIVR,The Beauty Between,Wrong Way/One Way,32,200733,False,0.343,0.909,5,-6.701,1,0.0766,0.000756,3.34e-06,0.458,0.405,102.172,4,hardcore
+6FUZY1855hKvmtVRkzpWPC,Lawineboys,10 Jaar Lawinegevaar,Laat Maar Waaien,31,189000,False,0.605,0.996,10,-3.538,1,0.0448,0.449,0.0,0.32,0.943,139.966,4,hardcore
+7koVJVrVRzUTA1oosftuFI,Fake Number,Contra o Tempo,Primeira Lembrança,32,202906,False,0.507,0.892,1,-3.798,0,0.0403,0.0177,4.07e-06,0.119,0.458,131.13,4,hardcore
+5GH12BKxAfpn9W3DUhgwkG,Burgerkill,Beyond Coma and Despair,Shadow of Sorrow,34,247493,True,0.396,0.978,1,-4.124,1,0.0887,2.88e-05,0.00339,0.373,0.0777,127.831,4,hardcore
+6pYtnBGth3ilIaSRj1zT3X,Pegboy,Three Chord Monte,Through My Fingers,30,243506,False,0.388,0.84,0,-8.852,1,0.0381,5.99e-05,0.863,0.112,0.766,91.41,4,hardcore
+1DExxS5BN5kv7MbKj6jWgU,Revenge The Fate,Redemption,Pembalasan,33,194930,False,0.252,0.972,1,-3.58,0,0.185,1.97e-05,0.847,0.398,0.157,110.492,4,hardcore
+4Kj7BzlGCzfV6fRFbqT55p,Strung Out,Twisted by Design (Reissue),Mind of My Own,32,153586,False,0.381,0.871,7,-4.738,0,0.0738,0.00014,0.0,0.0205,0.577,155.395,4,hardcore
+6x1CqgKyPiObhtVjZvL8mQ,DeadSquad,Tyranation,Lahir Mata Satir,33,236276,False,0.262,0.992,1,-3.979,1,0.265,0.000101,0.231,0.308,0.0492,94.527,3,hardcore
+0QTZidHShfs4zKlijYitPu,Dominic,Gemini (Deluxe Edition),Adiós Buenos Aires,31,205274,False,0.545,0.979,1,-2.926,0,0.114,0.0468,0.0,0.313,0.781,150.06,4,hardcore
+31KnlHAcuSnZI8s8AdRdHc,Dying Wish,Fragments of a Bitter Memory,Now You'll Rot,30,165360,True,0.267,0.97,1,-3.012,1,0.15,1.27e-05,0.0227,0.0932,0.342,173.472,4,hardcore
+1TObetuMycXgZJRzsYKdqC,Seringai,Serigala Militia,Serigala Militia,32,279733,False,0.384,0.88,6,-4.362,1,0.0687,0.01,0.0,0.175,0.348,150.048,4,hardcore
+5rmzMyO5sFX5ZkIIlgbDsg,For Revenge,Fireworks,Roborovski,33,236971,False,0.459,0.628,5,-14.349,1,0.037,0.019,0.00151,0.647,0.468,150.185,4,hardcore
+5YzjOMkTbvTHZ2ervzJIwN,D-Ceptor;Re-Fuzz,Order & Chaos,Your Last Time Breathing,31,215110,True,0.432,0.988,4,-1.628,0,0.678,0.00175,3.49e-05,0.298,0.201,188.054,4,hardcore
+61JyPJVfROWky583l3auIE,Straight Answer,Never Surrender,Kami Masih Ada,32,75053,False,0.315,0.994,2,-2.991,1,0.11,4.94e-05,1.93e-05,0.261,0.2,103.64,4,hardcore
+7ikfySOHs4eIwI4qcwWJPs,menores atos,Lapso,Devagar,32,286037,False,0.603,0.721,1,-7.534,0,0.0326,0.0147,0.00185,0.082,0.546,124.021,4,hardcore
+7oHeNoXqZM6Bntt7AChxg4,Los Miserables,25 Años y Todo Sigue Igual,Esto Si Es Punk,33,72933,False,0.355,0.991,9,-3.703,1,0.294,0.000672,3.65e-05,0.152,0.411,162.757,4,hardcore
+4lT8oTAmjlG1vTDTk0Uoni,Cueio Limão,Quem Matou o Bozo?,Quem Matou o Bozo?,31,99853,False,0.229,0.877,9,-5.224,1,0.0914,0.000115,1.73e-06,0.106,0.628,152.632,4,hardcore
+6ChXQ1rXPiugKuhzlb2OHC,Dead Fish,Ponto Cego,O Melhor Em Um,31,203421,False,0.384,0.935,10,-4.858,0,0.0357,0.000129,0.0,0.063,0.637,100.441,4,hardcore
+57KbqXf7yBzraKS6AzS5Av,Choking Victim,No Gods / No Managers,In Hell,32,125213,False,0.308,0.999,11,-2.313,1,0.282,0.164,0.00318,0.0878,0.0331,98.381,4,hardcore
+483eDfrfcxgwm27u8L3mds,Germs,20th Century Women (Original Motion Picture Soundtrack),Media Blitz,32,90093,False,0.364,0.873,10,-11.793,0,0.135,8.23e-05,0.00223,0.768,0.673,125.186,4,hardcore
+0SWcUpvp1XvKDKJAcOqDNl,Dead Fish,Ponto Cego,Descendo As Escadas,31,226979,False,0.432,0.959,11,-5.095,1,0.0522,0.000358,0.0,0.104,0.637,92.122,4,hardcore
+3FkIaMz61l7taUNJZXDJJs,Dead Fish,Contra Todos,Contra Todos,31,192733,False,0.521,0.991,1,-3.95,1,0.0636,0.00245,0.0,0.375,0.579,143.996,4,hardcore
+765ZBzfsCgtlUHI7Yp2LRl,Hang Youth,ALLES MOET BETER,LEG DE ZUIDAS IN DE AS,32,64303,False,0.202,0.734,11,-7.025,1,0.209,0.00463,0.0,0.944,0.607,174.511,4,hardcore
+4ryu8Kf4uV2QIhN68jtuxT,The Exploited,1980: Brand New Rage,Army Life - Single Version,0,146200,True,0.567,0.805,10,-11.717,0,0.0549,0.0001,0.0,0.351,0.463,108.019,4,hardcore
+4iTHIdiHeV4pQzZ9ovdNHS,Lawineboys,Remmen Los,Alle Remmen Los,32,183000,False,0.624,0.982,11,-5.001,0,0.044,0.132,0.000538,0.344,0.856,141.925,4,hardcore
+0oBaL70PjGHtmNxzAOZ6yQ,Eterna Inocencia,No bien abran las flores,Amarras,31,217245,False,0.385,0.855,4,-4.936,0,0.0412,0.000199,0.000446,0.584,0.4,174.935,4,hardcore
+4C9MirQvW4mT1YYZbKEpjH,Espécimen,Biogenesisfinal,Total,33,179306,False,0.368,0.915,2,-7.099,0,0.0652,0.000499,0.000714,0.108,0.685,152.593,4,hardcore
+2d9EgBM9F09IkEG8t9T6L8,Darren Styles;TNT,DLMD,DLMD,59,160212,False,0.487,0.99,0,-2.282,1,0.094,0.000595,0.843,0.331,0.161,160.046,4,hardcore
+3AZ0PJa2Ixf8J8LIxoYeUe,Busta Rhymes;Linkin Park,We Made It (feat. Linkin Park),We Made It (feat. Linkin Park),50,238066,False,0.62,0.746,11,-6.006,1,0.0552,0.424,0.0,0.0684,0.191,138.454,4,hardcore
+1iP5UMdOsGz6EdltGbbcb7,The Roots;John Legend,How I Got Over,The Fire,56,221066,False,0.67,0.956,1,-4.381,1,0.16,0.177,3.65e-05,0.726,0.337,173.966,4,hardcore
+1tzs2dFmLCD6bT8eapVNpl,Artifacts,That's Them,Art of Scratch (Intro),52,74106,False,0.846,0.819,6,-9.474,1,0.297,0.164,0.505,0.161,0.749,91.059,4,hardcore
+2wxO3ZydJTZRi4Bbc02q7i,Scarface;Johnny P;2Pac,Greatest Hits,Smile,58,300600,True,0.7,0.402,5,-9.93,0,0.278,0.0498,1.04e-06,0.16,0.499,77.871,4,hardcore
+63BokRfXSQhEU6Qi2dSJpZ,Geto Boys,We Can't Be Stopped,Mind Playing Tricks on Me,67,308733,True,0.886,0.512,10,-11.825,0,0.237,0.207,0.0,0.0991,0.454,93.997,4,hardcore
+0XgpiStoxq1IJncYlPrvZ5,The Pharcyde,Labcabincalifornia (Deluxe Edition),Runnin',64,296266,True,0.754,0.785,10,-8.178,0,0.18,0.0287,0.00144,0.319,0.821,94.123,4,hardcore
+2nd0a9U9ICncohQPtjtVey,Funk Flex;Big Kap;Eminem;Dr. Dre,The Tunnel,If I Get Locked Up (Funkmaster Flex & Big Kap Feat. Eminem and Dr. Dre),54,220533,True,0.449,0.822,10,-4.648,0,0.389,0.0153,0.0,0.159,0.51,192.551,4,hardcore
+3nkc3rqJAiudzkWTK4luep,YOU LOSE,No Rules,No Rules,31,145853,True,0.325,0.969,8,-2.994,1,0.0945,0.000608,0.00527,0.276,0.219,154.328,4,hardcore
+3U191DA0RpP0ngfOIt62DX,NK;Uplink,"NCS is Love, NCS is Life, Vol. 1",To Myself,46,200803,False,0.488,0.779,5,-4.317,0,0.0961,0.0879,0.0,0.284,0.502,149.843,4,hardcore
+0TYBkC9jZ5b8FPW7kn673t,Trespassed;MC Robs,Terrified,Terrified,54,202040,False,0.577,0.923,5,-2.1,1,0.0437,0.00594,0.032,0.233,0.0353,99.981,4,hardcore
+47F2hfDB2JbfapBJjIzIP3,Styles & Breeze,Skydivin',You're My Angel,47,314653,False,0.489,0.985,7,-4.435,1,0.0456,0.0145,0.525,0.146,0.0489,144.011,4,hardcore
+0FxF5FRwRkHHhMgidxjwsX,DARE,Welcome to the OC,Dare2be,29,115000,True,0.332,0.883,4,-5.268,1,0.0861,6.67e-05,0.046,0.0915,0.714,102.21,4,hardcore
+0uXKvyCtukUSVFfHo7YFdV,The Viper;Korsakoff,Temptation,Temptation - Original Mix,30,268279,True,0.566,0.963,0,-3.439,1,0.0903,0.132,4.57e-06,0.379,0.38,160.068,4,hardcore
+4ttNL6WzHl2yt3FbnhrDPU,Backdrop Falls,Mona Lisa,Mona Lisa,31,152914,False,0.346,0.886,4,-3.485,1,0.0991,0.00122,0.0,0.116,0.522,175.253,4,hardcore
+3coeo9H305LiuDbXXn9ANe,Alpha Wolf,A Quiet Place to Die,Akudama,58,157411,True,0.44,0.993,1,-1.115,0,0.141,0.000176,0.00123,0.33,0.178,170.196,4,hardcore
+1v5cgIyffYtfEx0swttdoE,Wu-Tang Clan;RZA;Ghostface Killah;Raekwon;Inspectah Deck,Enter The Wu-Tang (36 Chambers) [Expanded Edition],"Bring Da Ruckus (feat. RZA, Ghostface Killah, Raekwon & Inspectah Deck)",63,251466,True,0.794,0.627,11,-9.431,1,0.36,0.233,0.0,0.35,0.518,87.554,4,hardcore
+4pTjPylAS5HZOmkPOgf6JY,Curasbun,Curasbun - Oi! desde el tercer mundo,Alcohol oi violencia,32,116532,True,0.281,0.98,2,-1.343,1,0.0831,0.0389,0.0,0.294,0.515,161.402,4,hardcore
+5bNeopFRcJDHsdKwfLr3rV,Anxious,Little Green House,Afternoon,31,231513,False,0.234,0.99,4,-5.627,1,0.0825,2.53e-05,0.213,0.343,0.21,92.245,4,hardcore
+4c8qPDWpHWGTvhpcoZO7FT,E-Town Concrete,The Renaissance,So Many Nights,30,245733,True,0.659,0.676,7,-5.452,1,0.101,0.0178,0.0,0.168,0.486,79.963,4,hardcore
+1MWvhPd1Oju80pchgb4Hm1,The Swellers,Good For Me,Runaways,33,169973,False,0.341,0.98,1,-3.801,0,0.149,0.000916,3.28e-06,0.362,0.521,186.712,4,hardcore
+0ewo8FWs7a2hOeQQdJsJ5o,D-Ceptor;Rob Gee,Order & Chaos,Never Give Up,31,229132,False,0.486,0.934,7,-3.059,1,0.07,0.186,0.00692,0.132,0.142,178.07,4,hardcore
+5q1PhLrabZQaYR9SQEob2N,Hateen,Obrigado Tempestade,Obrigado Tempestade,31,214693,False,0.454,0.973,4,-2.787,1,0.0582,0.000996,0.0112,0.105,0.849,80.002,4,hardcore
+5ICXReItyHUvEXJzlyMz9Q,Straight Answer,Never Surrender,Ini Saatnya,31,94573,False,0.398,0.989,2,-3.427,1,0.135,1.34e-05,0.0,0.0893,0.343,102.928,4,hardcore
+5LWOLIZ00GdqFHw3E0QQbu,Adolescents,Adolescents,Wrecking Crew,31,128039,False,0.233,0.857,2,-10.356,0,0.073,0.000589,0.0162,0.142,0.0685,98.338,4,hardcore
+2XKLkL3jhRxzQGpaYi0tTa,For Revenge,Derana,Derana,31,217333,False,0.478,0.929,0,-5.019,1,0.0701,0.00337,0.0172,0.0939,0.438,90.026,4,hardcore
+0kqYjKsdQ2UfbkMANcEXou,Samiam,You're Freaking Me Out,Full On,31,227840,False,0.469,0.889,4,-6.097,1,0.0694,0.00195,2.24e-05,0.193,0.895,188.682,4,hardcore
+55iXf7C0I0kiEFd75hdW2y,For Revenge,Auristella,Geram,32,182949,False,0.317,0.94,10,-3.547,0,0.0873,4.05e-05,0.0956,0.423,0.667,200.136,4,hardcore
+5K9TifDSxSoIK6YPEn913N,For Revenge,Fireworks,Termentahkan,32,264301,False,0.283,0.681,6,-14.223,0,0.0483,0.0449,0.0177,0.214,0.428,140.072,4,hardcore
+23GnfesJMUBrO4NVP1oZgU,Life Of Agony,River Runs Red,Underground,31,282280,False,0.404,0.879,7,-6.312,1,0.0923,0.00177,2.1e-05,0.336,0.379,135.011,4,hardcore
+6tHUNA8x8982fKskEcoPsK,For Revenge,Fireworks,My Irish,32,256176,False,0.481,0.593,2,-14.733,0,0.0317,0.0298,0.359,0.166,0.671,87.419,4,hardcore
+6S2YyQWrTkJG88HJRtgbWu,Operation Ivy,Operation Ivy (2007 Remaster),Officer - 2007 Remaster,32,119333,True,0.235,0.961,2,-4.784,1,0.105,0.0402,0.0425,0.0972,0.74,179.303,4,hardcore
+6PiuCvBFIXLyUjhmmWgSRp,Surra,Parabéns aos Envolvidos,Parabéns aos Envolvidos,32,129839,True,0.319,0.986,1,-4.233,0,0.12,0.000123,0.0513,0.0429,0.294,122.268,4,hardcore
+2fTpvKqcdGkgtV2vd2iDmV,Smitten,Smitten,23 de Abril,32,196373,False,0.522,0.919,4,-4.584,1,0.0723,0.0624,0.0,0.385,0.654,145.934,4,hardcore
+783RuwtbSBY81dJbtfaMYU,Operation Ivy,Operation Ivy (2007 Remaster),Junkie's Runnin' Dry - 2007 Remaster,32,125573,False,0.223,0.8,5,-4.333,1,0.0433,0.00235,0.000874,0.412,0.966,73.178,4,hardcore
+6LDBahRe0wD9gTkmYFdsd1,menores atos,Lapso,Amanhã,31,284415,False,0.566,0.848,8,-6.264,0,0.0364,0.0231,0.000326,0.131,0.65,137.999,4,hardcore
+24mZnZSuGUqRGUi9CRuSJu,Vómito Nuclear,Especie en Extinción,Si Te Vas Me Mato y Si No... También,32,247333,True,0.315,0.876,7,-11.078,1,0.0679,0.0699,1.49e-06,0.0731,0.178,174.594,4,hardcore
+6T9yR5ip1m2z6K7QSKsB3s,Los Prisioneros,Los Prisioneros,Ultra Derecha,33,202333,False,0.658,0.965,2,-2.05,1,0.122,0.0125,0.0,0.133,0.767,138.979,4,hardcore
+6frgwoO02XlYhj8rDFxXlV,Los Prisioneros,Los Prisioneros,San Miguel,33,233133,False,0.684,0.912,4,-3.548,0,0.038,0.0153,1.21e-05,0.177,0.791,130.042,4,hardcore
+051vmnTX1wveqlyHNfZ3L7,Gritando HC,Ande de Skate e Destrua,Ande de Skate e Destrua,30,87560,False,0.311,0.998,5,-0.603,1,0.194,0.00549,0.0,0.369,0.32,87.877,3,hardcore
+2LBjgkSDn7dR4x23qoajmS,Blood For Blood,Revenge On Society,Wasted Youth Crew (My Kind Belong Nowhere),30,264506,True,0.372,0.899,0,-6.301,0,0.0591,0.00956,6.95e-06,0.961,0.718,127.708,4,hardcore
+1yj5peLptaD52rdZ7imRPJ,De Doelleazen;Henk Wijngaard,Hé Suzie,Nachtrijders - Radio Cut,32,186394,False,0.578,0.958,2,-4.567,1,0.0554,0.00366,0.0123,0.258,0.666,190.012,4,hardcore
+0hb2MlMAYxTEcETS1Fifst,Inocentes,O Barulho Dos Inocentes,São Paulo,32,241466,False,0.6,0.786,0,-5.898,1,0.0303,0.00763,0.000117,0.101,0.564,143.856,4,hardcore
+2r6SssBYtX3BUaFHf3pGA5,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",¿Por Que No Se Van? (En Vivo),33,213652,False,0.495,0.971,2,-6.615,0,0.107,0.00995,0.000629,0.989,0.503,146.27,4,hardcore
+0UXYMQHbVhzy477hxrEVUe,Pense,Além Daquilo Que Te Cega,Gota a Gota,30,145043,False,0.504,0.996,6,-3.836,1,0.136,7.75e-06,0.000248,0.21,0.218,112.466,4,hardcore
+6AAU8lAs6t7EkrCQpr5q8E,Pense,"Realidade, Vida e Fé",Revitalizar,30,191017,False,0.507,0.991,6,-4.568,1,0.0803,6.68e-05,0.000143,0.169,0.777,113.014,4,hardcore
+1Rma7wWp8qWyoqRFll4bAz,Project46,Que Seja Feita a Nossa Vontade,Foda-Se - Se Depender de Nós,31,269126,True,0.363,0.996,4,-3.228,0,0.223,0.000634,0.000398,0.0679,0.0586,121.89,4,hardcore
+412o5uEQRtVXJS4IBePOzC,Eterna Inocencia,Las Palabras y los Ríos,Encuentro mi descanso aquí,32,162000,False,0.319,0.977,1,-3.643,0,0.106,0.000999,7.52e-06,0.149,0.314,198.161,4,hardcore
+0ae0QLdhvmtKAEY0Uj7kGl,Espécimen,Temas por la Paz,Reza por Mí,33,174746,False,0.32,0.928,0,-10.203,1,0.0671,0.0116,0.0,0.0774,0.258,134.517,4,hardcore
+4viQLOVTSwu9VZ4fX8tTBf,Eterna Inocencia;Bernabe Cantlon,No bien abran las flores,Cuando salgo a tocar,31,205134,False,0.491,0.909,9,-4.188,0,0.0534,0.00183,0.0,0.025,0.499,150.037,4,hardcore
+6nL0wIy3rcQPqHNAtm61Gh,Fat Joe;DJ Khaled;Amorphous,Sunshine (The Light),Sunshine (The Light),64,149725,False,0.8,0.832,0,-5.497,1,0.266,0.087,0.0,0.322,0.736,106.983,4,hardcore
+31Rwwh2kKCxExVeYRlGOWu,GPF;Riot Shift,Broccoli Fuck,Broccoli Fuck,54,142397,False,0.711,0.996,10,0.654,0,0.46,0.414,3.68e-06,0.924,0.0759,110.128,3,hardcore
+00nmZvZRyzQiYe2tAcDDUb,Ling tosite sigure,i'mperfect,abnormalize,51,216666,False,0.373,0.897,10,-4.052,1,0.0702,7.51e-06,0.151,0.0676,0.369,87.477,4,hardcore
+6nwAubYnLGl7F7cDuOoVLp,Mobb Deep,Murda Muzik,Quiet Storm,61,265493,True,0.79,0.728,2,-9.221,1,0.391,0.366,0.0,0.112,0.403,96.978,4,hardcore
+2sEeRKHVONJGERCwKCW2ix,Gammer,THE DROP,THE DROP,43,232158,True,0.565,0.988,9,-1.448,1,0.145,0.00664,0.0508,0.0935,0.0316,150.05,4,hardcore
+5yaDNf8KGYHCCrEjCW9gNk,Saigon;Corbett;Lecrae,The Greatest Story Never Told Chapter 2: Bread and Circuses,Best Thing That I Found,40,214596,False,0.47,0.776,1,-6.371,0,0.368,0.114,0.0,0.106,0.465,106.572,5,hardcore
+144adL7pGHEWRwute2wxzZ,The Prodigy,Invaders Must Die,Omen,59,216026,False,0.545,0.953,7,-5.172,1,0.0441,0.000941,0.117,0.281,0.558,140.002,4,hardcore
+2EpUHz5TqbAAQ8iweD75p6,Big L;Fat Joe,The Big Picture,The Enemy (feat. Fat Joe),21,168013,True,0.606,0.649,11,-8.372,1,0.392,0.115,0.00019,0.824,0.877,174.081,4,hardcore
+4orMsymF399H3xKBc0AIhx,Machine Girl,Wlfgrl,Ghost,60,185521,False,0.705,0.924,11,-6.783,0,0.177,0.00576,0.927,0.36,0.378,154.008,4,hardcore
+4HfxDJ0uLHTLe0fZrx0MbQ,A Tribe Called Quest,The Low End Theory,Check the Rhime,65,216693,False,0.881,0.361,11,-14.728,0,0.237,0.0502,0.00458,0.246,0.799,96.43,4,hardcore
+63T3O3u70cICyNxJPh3CXn,Rakim,The 18th Letter / The Book Of Life,The 18th Letter (Always And Forever),48,180933,False,0.657,0.674,4,-8.262,0,0.246,0.0633,2.5e-06,0.32,0.748,81.883,4,hardcore
+0bbaUMJLmpkzBpsGN6rjdE,N.O.R.E.;Daddy Yankee;Nina Sky;Gemstar;Big Mato,Latin Urban Christmas Party,Oye Mi Canto,32,240973,True,0.677,0.946,6,-2.887,1,0.0548,0.184,3.73e-06,0.274,0.948,96.011,4,hardcore
+6NDoBIaqTHdcudaR8RDJNw,Silverstein,Discovering The Waterfront,My Heroine,59,207586,False,0.412,0.823,4,-2.572,0,0.0323,9.62e-05,8.25e-05,0.153,0.162,154.115,4,hardcore
+3dysNqzNtD4bhiI8tMJ4Vm,Emery,The Weak's End,Fractions,30,314026,False,0.414,0.828,1,-4.893,1,0.0477,0.0372,3.64e-06,0.172,0.306,154.017,3,hardcore
+6DQB5RrSmOXKMDr3BMM76f,Unproven,Stay High,Stay High,30,199200,False,0.502,0.957,7,-1.739,1,0.0494,0.0004,0.0,0.476,0.0882,99.99,1,hardcore
+3HjmdK69N8hal2kZLIx6GS,Re-Style;Sefa,Get It Crackin (Sefa Remix),Get It Crackin - Sefa Remix,57,188400,True,0.472,0.929,1,-4.439,1,0.0412,0.0137,0.0262,0.166,0.0663,100.035,1,hardcore
+4H2GYxGRMKTsbDRzcjbjCp,End It,One Way Track,One Way Track,30,135530,False,0.244,0.939,2,-3.156,1,0.126,0.000255,0.699,0.343,0.394,177.634,4,hardcore
+3yeiEefudVvaXyx7KihpeB,Dj Gizmo,Let,Let,31,134825,False,0.756,0.412,1,-11.219,1,0.111,0.099,0.000486,0.341,0.489,127.475,4,hardcore
+1Elcx6HbpFFtgFWKbKaThT,Never Ending Game,Just Another Day,Puppet,29,149425,False,0.389,0.973,1,-5.404,0,0.0992,0.00018,0.705,0.0845,0.294,93.603,4,hardcore
+6nHNZe1zq1dSK6P4y6wsio,Dr. Peacock,Reverze 2020 Power Of Perception,It's A Dream 2K19,31,208880,False,0.237,0.949,0,-4.912,1,0.321,0.00121,0.411,0.0948,0.0397,200.08,4,hardcore
+1IRxvWJQH2C2lEijahaXnj,Backdrop Falls,There’s No Such Place As Home,Big Lie,31,173403,False,0.559,0.881,4,-4.377,0,0.0758,0.000895,0.0,0.0839,0.653,134.9,4,hardcore
+2smpvH5jpwLkD55O62aCBb,Lonely Spring,Strangers,Strangers,30,194013,False,0.482,0.959,8,-4.395,0,0.0895,0.00227,0.0,0.0512,0.672,180.026,4,hardcore
+0IT2exfz39cCkA1Jl8GRiv,For Revenge,Auristella,Fade Away,32,194500,False,0.465,0.919,1,-3.723,1,0.0341,1.52e-05,0.0,0.234,0.68,159.942,4,hardcore
+36eklRgfCgcYEJISG1S23M,Bane,It All Comes Down to This,Can We Start Again,29,199066,False,0.341,0.909,4,-5.675,0,0.123,0.0103,2.55e-05,0.295,0.473,97.351,4,hardcore
+10set1NOUhGDNPBShPeNx4,Re-Fuzz;D-Ceptor,Rise of the Unknown,We Found Your Weakness,30,227291,False,0.598,0.99,7,-2.801,1,0.196,0.00945,0.04,0.82,0.17,92.954,4,hardcore
+1A5hKnMkXbY6sWebHyAOET,The Bouncing Souls,Maniacal Laughter,Lamar Vanoy,31,184453,False,0.469,0.922,2,-6.643,1,0.125,0.00404,3.17e-05,0.353,0.274,121.918,4,hardcore
+6mFNbpfXTWPoISO1vizmTU,Rancore,Seiva,Mãe,30,191746,False,0.611,0.896,9,-6.244,1,0.042,0.000298,3.32e-06,0.0197,0.642,116.108,4,hardcore
+1OR5PfHM6hYZSj8kXaVxId,For Revenge,Fireworks,Rosedown,31,313876,False,0.445,0.153,2,-18.396,1,0.0313,0.233,0.111,0.0563,0.0744,139.891,4,hardcore
+0VpW9XAE5QC0nj4qhQ4FGM,Rotterdam Terror Corps,RTC is the legacy,Raveworld - F.Noize Remix,29,237238,False,0.651,0.997,8,-2.246,1,0.306,0.274,0.353,0.0847,0.0602,95.071,4,hardcore
+2fPBbwgnuJwU32d06ROW0r,Sick Of It All,Last Act of Defiance,Road Less Traveled,30,149453,False,0.533,0.986,2,-3.188,1,0.0719,2.32e-05,0.0134,0.0556,0.557,96.789,4,hardcore
+0g9bfgn27MhVjQBngkONjO,Straight Answer,Never Surrender,Hantam Prasangka Buruk,31,99693,False,0.213,0.998,2,-3.415,1,0.215,0.00019,0.0,0.24,0.154,104.069,4,hardcore
+5oYLnny35ndF8vka1USHMZ,KSU,Xxx Lecie-Akustycznie,Moje Bieszczady,31,227733,False,0.604,0.887,4,-5.721,0,0.0274,0.0548,8.93e-05,0.132,0.963,134.999,4,hardcore
+7DAK5vw0n5xIXEbQqNjB49,Pennywise,Unknown Road (2005 Remaster),Time to Burn - 2005 Remaster,32,136813,False,0.253,0.988,9,-5.477,0,0.0936,0.0034,0.0118,0.071,0.436,157.109,4,hardcore
+4xEpDppVO70KW57yI0kWEW,Propagandhi,How to Clean Everything (Reissue),Head? Chest? Or Foot?,32,124426,False,0.492,0.967,9,-4.796,1,0.0625,0.00429,0.000688,0.184,0.741,100.678,4,hardcore
+1nADMP9jaBAMmQ3s69U3bL,Bitter End,Guilty as Charged,Guilty As Charged,29,158933,False,0.496,0.933,2,-4.228,1,0.104,4.44e-05,9.24e-05,0.18,0.214,89.98,4,hardcore
+2dElzzT9BP2K1RaP6xHnMa,T.A.M.,Tenemos a Matute,Seguiré cometiendo errores por toda mi vida,31,182336,False,0.401,0.975,2,-2.383,1,0.0817,0.0124,0.0,0.221,0.62,97.888,4,hardcore
+7ih4yrfwk2ZyJsPynia22g,Dance of Days;Fernando Badaui,A Valsa de Águas Vivas,Vai Ver É Assim Mesmo,30,99985,False,0.376,0.991,11,-1.467,0,0.157,0.00707,0.0,0.4,0.336,111.94,4,hardcore
+3xeQe1BX3QCWuW32t48yRC,Flicts,Singelos Controntos,Desmascarar Sua Bandeira,32,262768,False,0.458,0.977,8,-2.576,1,0.0436,0.000207,0.000375,0.147,0.529,104.468,4,hardcore
+0BqjyVN3nCxWPzGykz4w8y,The Almost,Emo Christmas 2022,Little Drummer Boy,0,187000,False,0.662,0.575,0,-8.152,1,0.0465,0.207,6.58e-06,0.108,0.416,164.007,4,hardcore
+54RN9mNurQwghlxMssyWL1,Dead Fish,Contra Todos,Autonomia,30,218920,False,0.541,0.993,11,-3.228,1,0.104,0.000575,0.0,0.11,0.54,100.017,4,hardcore
+4m2IM9lmxgXWOyKeWsACkU,Millencolin,Home From Home,Greener Grass,31,170480,False,0.451,0.988,6,-2.768,0,0.0904,0.00193,0.0,0.451,0.481,80.911,4,hardcore
+4afy88Me4TPw8IV3WNKjsV,Zumbis Do Espaço,Destructus Maximus,Onde os Fracos Não Tem Vez,32,172280,True,0.489,0.99,0,-3.463,1,0.0845,7.39e-05,0.000306,0.345,0.696,139.948,4,hardcore
+1hkueuixwHO3hJjhqFhiUN,Pavilhão 9,Reação,Trilha do Futuro,32,173585,False,0.645,0.958,7,-7.072,1,0.0362,0.0151,9.29e-06,0.243,0.543,112.025,4,hardcore
+2tzbj31q4axOeSzILsPbkD,Fun People,The Art(E) of Romance,Middle of the Rounds,31,112306,False,0.353,0.911,0,-8.294,1,0.055,0.00243,8.67e-05,0.569,0.679,188.079,4,hardcore
+5agR9SuTKeI049rv0Id5JK,De Doelleazen,Skijt Oan De Rest,De Hiele Tent Giet Nei De Bliksum,31,175000,False,0.651,0.928,0,-3.78,0,0.0394,0.0905,0.0,0.0533,0.666,155.001,4,hardcore
+2VefiraA8HEZDWD2cKs5uQ,Rise Against,The Jack 2 Pack (The Nightmare Before Christmas),Making Christmas,30,206266,False,0.485,0.96,1,-4.711,1,0.0668,4.3e-05,0.0162,0.202,0.548,163.858,4,hardcore
+2JV0tWohFjpf6BscqhAXXN,Fiskales Ad-Hok,Fiskales Ad-Hok,Ranchera,32,196826,False,0.449,0.851,9,-11.559,1,0.0384,0.000341,3.41e-06,0.397,0.411,129.711,4,hardcore
+1TvLOCb2j66m1l5bsO88LN,The Dead Milkmen,Big Lizard In My Backyard,Serrated Edge,32,119440,True,0.313,0.842,4,-12.449,1,0.104,0.0351,0.00762,0.114,0.787,193.552,4,hardcore
+7Enklpruhtf7cL93TqjrCr,Espécimen,Recopilación (1987- 2002),Buenas Noches Dios,32,217186,False,0.284,0.777,5,-10.816,1,0.0895,0.119,1.12e-05,0.0709,0.41,125.515,4,hardcore
+3oYj1UaQtkX0R9iuaV2jMj,Eterna Inocencia,No bien abran las flores,Hojas Amarillas,31,255905,False,0.576,0.709,2,-5.722,1,0.0327,0.00514,8.69e-05,0.125,0.579,140.003,4,hardcore
+4vRUf6njpOVMCIjlDhw74q,Mase,Feel So Good,Feel So Good,27,204733,True,0.827,0.64,1,-9.778,1,0.236,0.207,0.0,0.0968,0.533,105.144,4,hardcore
+4AAcxOYMztCUH7dtNv4JFo,Foxblood,Grief & Mercy Sleep,Mess Like Me,52,223636,False,0.456,0.832,5,-5.411,0,0.0427,0.000125,0.0,0.397,0.365,132.055,3,hardcore
+3jnMIpw27BajIwEUErcePy,The Notorious B.I.G.;R. Kelly,R&B Hits,Fuck You Tonight (feat. R. Kelly) - 2005 Remaster,32,342453,True,0.597,0.508,5,-6.556,0,0.256,0.248,0.0,0.111,0.737,178.02,4,hardcore
+3gRlmtdCyNoKiyozn2pqc9,Mos Def,Black On Both Sides,Mathematics,62,246440,True,0.753,0.749,1,-6.132,0,0.316,0.0285,0.0,0.0845,0.832,93.79,4,hardcore
+0NNHOCC22cpLt3fDF6t88l,Gammer;Staysick;Nytrix,Replay The Night (feat. Nytrix),Replay The Night (feat. Nytrix),40,231700,False,0.583,0.991,3,-0.311,0,0.197,0.000982,0.00256,0.276,0.249,149.961,4,hardcore
+2X28xPiVe5ffUuRISeDdty,SWANKY DANK,This is Swanky Dank,Amazing Dreams,34,260733,False,0.327,0.988,9,-0.906,1,0.135,0.0174,0.0,0.0434,0.405,93.604,4,hardcore
+2uiEqPjMmIJXOKplzsEASP,Fat Joe;Eminem;Lil Jon;Mase;Remy Ma,All Or Nothing,"Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix",61,290266,True,0.611,0.754,1,-5.035,0,0.366,0.116,0.0,0.0945,0.565,126.961,5,hardcore
+6oshufDccwvnIwKCvKayb6,coldrain,Bloody Power Fame,Bloody Power Fame,56,238498,False,0.436,0.963,8,-4.608,1,0.173,3.51e-05,0.0339,0.297,0.402,154.894,4,hardcore
+1aRRa25O3YVRMJVmBr8ihn,Aurora Rules,Calma Negativa,Calma Negativa,30,281989,False,0.509,0.953,1,-3.859,1,0.0776,8.39e-05,3.82e-05,0.219,0.396,92.489,4,hardcore
+3W02UysGQaPosS0RaZ9GvN,Evil Activities,Mental,Mental,29,220219,False,0.489,0.991,8,0.123,1,0.285,0.00291,0.00136,0.32,0.24,90.953,4,hardcore
+2Z5MbKovyels3EXitye0eo,The Alchemist;Earl Sweatshirt,This Thing Of Ours,Loose Change (feat. Earl Sweatshirt),62,118398,True,0.506,0.628,9,-8.167,1,0.175,0.146,2.91e-05,0.135,0.363,86.131,4,hardcore
+09vdbE9riiqUAnS8RNSZ0z,Bodysnatcher,Behind The Crowd,Behind the Crowd,48,194208,True,0.436,0.917,1,-5.125,0,0.152,8.7e-05,0.00159,0.313,0.357,132.282,4,hardcore
+2dIs40C97zjNaJLrY03Czv,Billfold,Abaikan,Abaikan,30,244420,False,0.46,0.946,4,-3.586,1,0.0624,0.000267,1.7e-05,0.131,0.684,155.096,4,hardcore
+4ZCnHnq9GjPspOpk8ADb7u,Re-Fuzz,Highway,Highway,30,218534,False,0.698,0.983,5,-2.003,1,0.168,0.0256,0.000527,0.722,0.13,94.996,4,hardcore
+6yxdUblJv1QFGja4YfaLiV,Mesin Tempur,Hip Hop Sux!,Aku Death Metal,30,76846,True,0.596,0.803,2,-5.804,1,0.108,0.00138,0.0327,0.308,0.405,129.932,4,hardcore
+3DjK1C9k89tOOb91wZOV0R,NSD;DNC,Kepler 909kf,Kepler 909kf,30,245647,False,0.593,0.934,3,-4.396,0,0.199,0.17,0.00038,0.181,0.29,169.966,4,hardcore
+50x0QVVBuSOe9R8tQF6Tz8,Riko;Anonimus;Bryant Myers;Noriel,"Vente Encima (feat. Anonimus, Bryant Myers & Noriel)","Vente Encima (feat. Anonimus, Bryant Myers & Noriel)",30,259386,True,0.83,0.709,1,-4.804,0,0.054,0.283,0.0,0.143,0.266,126.019,4,hardcore
+3HKcA3RHjWhKOKG37thGZZ,Promo,Last Men Standing,I Come Correct,29,353733,False,0.689,0.931,11,-4.467,1,0.144,0.0114,0.589,0.0753,0.145,147.852,4,hardcore
+3MrkW5fnetjLANJpTcWQK5,The Chisel,Retaliation,Retaliation,31,135287,False,0.384,0.858,4,-5.604,1,0.0532,0.00123,0.839,0.103,0.821,97.735,4,hardcore
+5QSQkb7gwIwMo7T6efH8ZG,Bayside,The Walking Wounded (Gold Edition),I And I,31,230426,False,0.416,0.875,7,-5.69,0,0.129,0.000128,1.17e-06,0.162,0.357,149.948,4,hardcore
+4jowQJcMByoFpLgW9E12mU,Millencolin,SOS,For Yesterday,31,166093,False,0.458,0.988,0,-3.554,1,0.115,0.000212,0.0,0.0398,0.594,164.031,4,hardcore
+7Ii2Ris6SvB9IKLbFdtpvm,Bayside,Interrobang,Numb,31,223746,False,0.398,0.752,5,-5.165,0,0.0499,0.000339,0.000883,0.0597,0.475,160.039,3,hardcore
+6R7PTwR9EqjbyaNUtlEuQF,Outta Pocket,Purest Pain,Endless Remorse,30,149240,True,0.282,0.978,2,-4.798,1,0.319,0.00325,0.00389,0.575,0.17,179.418,4,hardcore
+1pO9U7eL8pIJuqussgfq4j,Hail The Sun,Culture Scars,Doing the Same Thing and Expecting Different Results,31,336760,False,0.366,0.897,2,-4.381,0,0.07,6e-05,0.00346,0.0916,0.174,157.914,4,hardcore
+60TXOUm7b6NpTlLpZ31Uh9,Bleach,Treat the Disease,Treat the Disease,30,150211,True,0.28,0.612,2,-8.36,1,0.0693,0.00202,0.452,0.145,0.461,77.554,4,hardcore
+5VxelyYvzdyDBGp50tw1jr,Korsakoff,Flashback - second edition,My Empty Bottle,29,297029,False,0.502,0.913,6,-7.672,0,0.0728,0.00499,0.853,0.116,0.429,163.521,4,hardcore
+3RgDRr56F4X6gAr6niOImR,Artifacts,Power Rap,To Ya Chest,0,200800,False,0.801,0.642,1,-6.674,1,0.347,0.0376,2.17e-06,0.366,0.419,91.019,4,hardcore
+1MN84lIJd6g492qW1UZGgv,Thrice,Identity Crisis,Identity Crisis,30,178226,False,0.436,0.864,0,-5.404,1,0.0417,4.79e-05,0.000278,0.269,0.63,102.788,4,hardcore
+5VZuBNg4YrB4eMyYImVYSx,Artifacts,Rap Homage,The Ultimate,0,282493,True,0.836,0.706,8,-8.348,0,0.353,0.0219,1.34e-05,0.0479,0.709,89.714,4,hardcore
+4X0CZ0cbqN5f3aoJIiSVle,Artifacts,Rap Classics,C'mon wit da Git Down - Radio Edit,0,251160,False,0.71,0.548,9,-6.802,0,0.312,0.0807,9.18e-05,0.118,0.716,165.985,4,hardcore
+7JZ7vkvvcPQosemzZlaAOY,Good Riddance,A Comprehensive Guide to Moderne Rebellion,Steps,31,134960,False,0.351,0.953,4,-5.59,1,0.0526,0.000141,0.000375,0.076,0.428,105.304,4,hardcore
+5ojVDX0NMiwHET3spiOOIO,Bayside,Sirens And Condolences,Alcohol And Alter Boys,31,183000,True,0.269,0.949,2,-4.0,1,0.0516,0.000526,2.16e-06,0.079,0.445,99.939,4,hardcore
+6onxTIB79enhIQPpE00CEm,Samiam,Trips,El Dorado,30,307546,False,0.334,0.924,0,-5.236,1,0.0455,0.0453,0.0449,0.0799,0.281,159.072,4,hardcore
+0nabIFzv0LsiO0nEXvdQau,Misfits;Glenn Danzig,Collection 2,Devil's Whorehouse,32,109253,False,0.433,0.948,0,-6.435,1,0.07,0.0979,0.0,0.359,0.175,110.253,4,hardcore
+3RBxj0YiM6nJEV6tLCyW9X,Dead Fish,Ponto Cego,Messias,30,174361,False,0.4,0.898,8,-4.546,1,0.0525,0.00154,0.0,0.11,0.618,145.809,4,hardcore
+0fNjlceNOHc5q5oaOfmhFR,Scooter,20 Years of Hardcore (Remastered),Shake That!,31,196480,False,0.56,0.967,8,-5.115,1,0.079,0.000302,0.186,0.365,0.619,130.044,4,hardcore
+4oFlGMUUXkUQ26QVzTMhYe,A Wilhelm Scream,Lose Your Delusion,Acushnet Avenue At Night,31,293893,True,0.166,0.946,10,-5.866,1,0.141,0.00425,0.0,0.223,0.0397,173.392,4,hardcore
+0xdfqjP4mkQdHvZtRXG5KG,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",La Voz de los '80 (En Vivo),32,286017,False,0.426,0.959,1,-5.674,0,0.0745,0.00784,0.0,0.929,0.465,158.298,4,hardcore
+0O46rEkcxEzAfvZrVismnz,Seringai,High Octane Rock,Membakar Jakarta,31,226240,False,0.474,0.974,7,-4.839,1,0.222,0.0056,0.527,0.356,0.354,150.388,4,hardcore
+7vDaCNHW2KUUNZrxiYeRnD,He Is Legend,It Hates You,Everyone I Know Has Fangs,30,205786,False,0.337,0.966,1,-4.816,1,0.167,1.75e-05,0.731,0.182,0.567,176.003,4,hardcore
+6emdbcRTZnIRizDP5gOnNy,Good Riddance,For God and Country,Mother Superior,31,186000,False,0.474,0.829,9,-11.658,1,0.0387,0.00136,1.16e-05,0.345,0.687,100.786,4,hardcore
+4eAGVhU2RE0OYfFPXmhixc,Lawineboys,Remmen Los,Zuipen,30,160000,False,0.849,0.867,0,-5.832,1,0.035,0.158,0.0,0.299,0.993,121.97,4,hardcore
+48Fp2J0S17QMdcOFJNpUYV,Gangrena Gasosa,"Se Deus É 10, Satanás É 666","Se Deus É 10, Satanás É 666",32,202762,True,0.4,0.981,5,-4.683,0,0.335,0.00336,0.000332,0.277,0.12,180.096,4,hardcore
+2Xh8cT3xqgAlZILhCR6kNq,Los Miserables,Cambian los Payasos Pero el Circo Sigue,Gallo Rojo,32,159360,False,0.681,0.812,9,-12.17,1,0.0556,0.000581,0.000118,0.0731,0.842,126.567,4,hardcore
+6Pl7sPfAVxWogm9FjzF3ej,Hot Water Music,A Flight and a Crash,A Flight and a Crash,31,128120,False,0.461,0.977,9,-4.286,1,0.0986,0.000198,0.0318,0.33,0.389,102.516,4,hardcore
+5yDLDNnPjMIYK89O83jdLP,The Bouncing Souls,How I Spent My Summer Vacation,The Something Special,31,203066,False,0.397,0.975,4,-3.952,1,0.0802,0.000642,0.0,0.196,0.45,169.759,4,hardcore
+4ovxoRmShmXzsxLI4X7AB6,Los Prisioneros,Pateando Piedras,Una Mujer Que No Llame La Atención,32,203386,False,0.826,0.56,7,-13.844,1,0.102,0.189,0.00455,0.161,0.855,109.449,4,hardcore
+71Ae6jdBHkLtAWdQ0u3bZX,Ratos De Porão,Necropolítica,Aglomeração,34,149214,True,0.37,0.959,6,-5.973,0,0.121,7.53e-06,0.0274,0.294,0.542,118.7,4,hardcore
+4olpuh0cmdet4WJF403SpL,Espécimen,Subkonzziente,Enemigos,32,127080,False,0.489,0.94,8,-8.981,1,0.0503,0.00262,0.000222,0.109,0.671,150.105,4,hardcore
+0I10YQIht7W3fPvLlhQvkL,Scooter,Scooter Forever,In Rave We Trust - Amateur Hour,31,195146,False,0.567,0.915,7,-5.762,0,0.0315,0.00094,0.377,0.292,0.546,145.018,4,hardcore
+35qqlB0qxxQi1H4doCW5gm,The Coming Weak,The Coming Weak,Take It Back,22,168973,False,0.197,0.898,4,-3.183,0,0.0794,0.000108,0.0404,0.268,0.363,177.062,4,hardcore
+5xcunlfaZvD9BDQsLONI7A,Orbital,Orbital 2,Halcyon and On and On,57,567106,False,0.577,0.729,11,-14.376,0,0.0319,0.0953,0.928,0.184,0.177,126.988,4,hardcore
+30oTS7bm0aH3p7lqjEIu8q,Gang Starr,Full Clip: A Decade Of Gang Starr,Full Clip,65,217440,True,0.875,0.745,1,-5.878,1,0.269,0.0227,2.37e-06,0.287,0.749,95.201,4,hardcore
+2h8mtZXFfkxcDNO52gvsMY,Eazy-E,It's On (Dr. Dre) 187um Killa,It's On,57,302200,True,0.771,0.912,1,-5.06,1,0.141,0.0136,1.38e-06,0.0632,0.616,92.516,4,hardcore
+6u8pHCsBSo1rahkWXUxPzW,Dr. Peacock,Trip Around The World,Trip to Ireland,58,243900,True,0.753,0.991,9,-1.599,1,0.107,0.198,0.761,0.115,0.448,99.999,4,hardcore
+5qqBsCBwzv0g0xb1kB1TGJ,The Beatnuts;Big Pun;Cuban Link,Endangered Species,Off the Books (feat. Big Pun & Cuban Link),57,168773,True,0.837,0.781,11,-3.798,1,0.171,0.00548,0.00394,0.134,0.763,100.512,4,hardcore
+24MSRg10oTSOYp3PLQEKkV,Sunrise,Sunrise,Sad Song,31,228024,False,0.281,0.976,9,-1.941,0,0.131,0.000749,1.97e-05,0.111,0.347,119.906,4,hardcore
+2DBlfjL5chsdeULzhTp5K8,Fugazi,13 Songs,Waiting Room,65,173266,False,0.618,0.716,6,-8.224,0,0.0367,0.00473,0.822,0.179,0.545,92.174,4,hardcore
+538483q5o9rfcykwAIMlRT,Big Boy,Demonstration,Break,29,54461,False,0.392,0.719,5,-5.706,0,0.0583,0.00166,0.671,0.172,0.814,140.238,3,hardcore
+6yd2M373yAtIg6g7wqLSlT,Dune,Happy Hardcore Top 100,Hardcore Vibes - South Bound Mix Cut,30,291213,False,0.588,0.69,4,-8.72,0,0.0396,0.014,0.2,0.0729,0.436,163.778,4,hardcore
+04Rx3Aov050pc9qvBIRUr1,Bodybox,Microwaved Weed,Doublewide Stomp,30,150205,True,0.412,0.917,7,-4.766,1,0.184,0.00024,0.0221,0.418,0.362,114.475,3,hardcore
+49l7EB9YdDoHd6F0uDxyc6,Captain Jack,Some Think About,Sempurna,30,189746,False,0.443,0.898,8,-4.487,1,0.0712,0.0223,0.000149,0.138,0.655,97.451,4,hardcore
+6JVjFD8OHs6LwllT6S23Kx,Hellions,Rue,Smile,30,185253,True,0.519,0.969,7,-1.377,1,0.0437,0.00545,0.0,0.103,0.561,101.943,4,hardcore
+4gCAUYfksD0L6iiojpQtEa,Circa Survive,Violent Waves,Sharp Practice,30,250426,False,0.384,0.938,1,-5.678,1,0.0636,6.29e-06,0.131,0.339,0.291,160.009,4,hardcore
+3am0osjbvjlmrxhHarxCjQ,Maukka Perusjätkä,Albumi,Vaatteet,32,231173,False,0.473,0.784,6,-6.146,0,0.123,0.00158,0.0105,0.0753,0.519,141.279,4,hardcore
+2ePkRQ5vxC1pPO5J6JD6a8,The Psycho Realm;Sick Jacken;Big Duke,A War Story - Book 1,Moving Through Streets,31,322320,True,0.592,0.66,10,-10.45,0,0.23,0.00776,0.00571,0.142,0.358,178.119,4,hardcore
+6Ka0QFWxeej8Dc5yRmQEIh,Never Surrender;How To Loot Brazil,Waking Up The Dead,Waking Up The Dead,30,160490,False,0.499,0.993,0,-1.174,1,0.132,0.0639,0.0232,0.328,0.394,182.955,4,hardcore
+3g1iLBbCmKN67OZByYI7zK,Lords Of The Underground,The Best 90s Hip Hop Hits,Chief Rocka,6,247400,True,0.89,0.716,1,-9.673,1,0.296,0.174,0.000589,0.0657,0.656,99.987,4,hardcore
+6mRBgY035bPtHXGen5XsYg,Burgerkill;Ahmad Dhani,Satu Sisi,Satu Sisi,32,266666,False,0.468,0.865,7,-12.299,1,0.0841,4.36e-05,0.0467,0.0866,0.286,144.06,4,hardcore
+2bS6Bt1cOLuJF9sqZE7aw3,Bayside,Vacancy,Mary,31,217626,False,0.546,0.879,5,-3.919,1,0.0358,0.0154,0.000183,0.097,0.622,145.987,4,hardcore
+39OlieJI1FgKtOxyDkCvIi,Merda,Minha Linda Coleção de Ep's do Conjunto de Musica Merda Vol 2,Maradona,31,58946,True,0.397,0.91,4,-2.663,0,0.0427,3.89e-05,8.24e-05,0.762,0.828,135.06,4,hardcore
+0CYRTISph7CyWxln5GndI0,Worst,Instinto Ruim,Que Se Foda,30,81237,True,0.552,0.991,6,-5.756,1,0.238,0.000249,0.0902,0.441,0.346,165.401,4,hardcore
+56ejQ1pr7fZVhU5Gfx9YQ5,Bayside,Killing Time,Mona Lisa,31,190173,False,0.332,0.86,8,-2.988,1,0.0579,0.000471,0.0,0.263,0.6,182.101,3,hardcore
+6NcLv7sKEdS4wBBA5FnCjS,Claustrofobia,Peste,Bastardos do Brasil,30,208813,True,0.427,0.998,7,-1.815,1,0.161,0.315,1.85e-05,0.355,0.0762,95.296,4,hardcore
+77wihvKjsijCbjkGnuAnnn,Naked Raygun,Throb Throb,Rat Patrol,29,131866,False,0.306,0.907,11,-10.353,1,0.0512,0.00175,0.523,0.45,0.564,134.978,4,hardcore
+5xaU2zWjNaTAxImnusCThR,Suicidal Tendencies,Freedumb,Scream Out,31,149466,False,0.292,0.991,2,-6.74,1,0.118,0.00635,3.17e-05,0.0826,0.221,160.498,4,hardcore
+0LGYpVb6N4QM3Gf5F4MUuG,Lionheart,Welcome to the West Coast II,LHHC '17,29,191284,True,0.604,0.95,0,-4.186,1,0.0866,0.0015,0.0,0.315,0.473,137.016,4,hardcore
+2CqlUexRmKhktCGuZXoS7r,A Wilhelm Scream,Lose Your Delusion,Apocalypse Porn,30,211199,True,0.271,0.963,7,-4.869,0,0.155,0.000545,0.0,0.335,0.379,90.085,4,hardcore
+4r5vlYJg34EmyWhHxoKGRN,Bullet Bane,BLLT,Deja Vu,29,186091,False,0.556,0.869,7,-5.046,1,0.0674,0.00113,0.0,0.3,0.668,135.019,4,hardcore
+7JZhk6TjIo3K9SUlhxUjGR,Total Jerks,Fear,Depresi,30,65664,False,0.346,0.998,11,-2.866,0,0.224,0.000194,0.884,0.189,0.309,171.865,4,hardcore
+30UkHpzAOHM22GAdae8zYJ,Bayside,Shudder (Bonus Track Version),A Call To Arms,31,182306,False,0.522,0.909,9,-3.059,0,0.0379,0.00649,1.02e-05,0.166,0.508,109.966,4,hardcore
+2NA665k1qMI6N8Lfbsg7qg,Bodyjar,Gee and Al / Do Not Do,A Hazy Shade of Winter,31,127733,False,0.325,0.95,5,-5.906,0,0.0554,0.000155,0.269,0.144,0.612,175.317,4,hardcore
+6TsgUbfK0IjOS8eHOs9XYY,Never Surrender,Harder Stylez: We Love The Bass,Loco - Edit,0,213890,True,0.633,0.941,6,-3.172,1,0.0896,0.00363,0.0222,0.393,0.0673,99.938,4,hardcore
+05dayqMNAmaZU7gTUdV0eM,Protest The Hero,Palimpsest,The Canary,30,267733,False,0.58,0.977,6,-6.444,1,0.0933,0.00186,2.05e-06,0.49,0.45,112.47,3,hardcore
+1kvyLf1ejreKtPbFeIsezl,Good Riddance,A Comprehensive Guide to Moderne Rebellion,Thinking of Me,30,128906,False,0.3,0.972,5,-6.401,1,0.074,0.00128,6.56e-05,0.0973,0.181,148.138,4,hardcore
+6WnbGLBARIhaD5FGTAA8gH,Seringai,Seperti Api,Enam Lima,31,194560,False,0.571,0.925,9,-6.117,0,0.128,0.0171,0.21,0.46,0.476,81.017,4,hardcore
+6I8FUsqR02Wh3SNhlOEc6y,Neophyte;Drokz,Harder Stylez: We Love The Bass,Dit Is Mijn Leven - Edit,0,169200,False,0.543,0.999,7,-0.918,1,0.18,0.0865,0.00042,0.368,0.0466,99.99,4,hardcore
+2ndStLnul8aVSusgbpitcl,Misfits,Collection 2,Rat Fink,31,112373,False,0.24,0.586,0,-9.809,1,0.0306,2.71e-06,2.95e-05,0.0511,0.158,198.941,4,hardcore
+2wcPTdXvkuJ0KKSjka2Ll1,Seringai,Serigala Militia,Berhenti Di 15,31,174613,False,0.481,0.906,9,-4.734,1,0.0791,0.000198,0.0278,0.24,0.514,119.978,4,hardcore
+7vDaCNHW2KUUNZrxiYeRnD,He Is Legend,It Hates You,Everyone I Know Has Fangs,30,205786,False,0.337,0.966,1,-4.816,1,0.167,1.75e-05,0.731,0.182,0.567,176.003,4,hardcore
+2BIzYGq1Pyv5SLWEQbgNM4,Neophyte;Drokz,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Dit Is Mijn Leven,0,169200,False,0.543,0.999,7,-0.918,1,0.18,0.0865,0.00042,0.368,0.0466,99.99,4,hardcore
+4WJQ3CFiJf1GwRCmzcMwP8,Project46,Tr3s,Pânico,30,219252,False,0.375,0.987,2,-3.49,1,0.141,3.3e-05,0.0294,0.764,0.292,136.559,4,hardcore
+6Tehr8JtJTcBnXwXEDOUpe,menores atos,Animalia,Passional,30,279692,True,0.543,0.912,5,-4.615,0,0.0544,0.000236,0.00114,0.145,0.376,144.964,4,hardcore
+50tSj1rWs58Ea4RgdQawac,Fiskales Ad-Hok,Fiskales Ad-Hok,El Cóndor,31,202040,False,0.373,0.789,0,-13.358,1,0.0389,0.000376,1.59e-05,0.247,0.275,100.848,4,hardcore
+1t0A6TXLl9z7Q38wIKZ9Ns,Dead Fish,Ponto Cego,Suv's (Stupids Utility Vehicle),30,211099,False,0.549,0.941,1,-5.3,1,0.056,0.000915,0.0,0.133,0.477,107.773,3,hardcore
+0k8koRaiOlil2wU2ZeSUzD,Never Surrender,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Schrik Van De Stad,0,211428,False,0.56,0.982,2,-1.614,1,0.21,0.0226,0.000463,0.431,0.115,105.088,4,hardcore
+23h5dBCGwvQrKpRGJhh53p,BBS Paranoicos,Cruces,Cosa de Gusanos,31,226782,False,0.421,0.91,10,-2.936,0,0.049,9.29e-06,0.00846,0.258,0.722,170.005,4,hardcore
+2kyM7meSHOPpsZueQf1Tu0,Hot Water Music,A Flight and a Crash,Jack Of All Trades,31,162400,False,0.349,0.902,4,-5.073,1,0.0593,0.0103,4.74e-05,0.155,0.646,170.775,4,hardcore
+5yNn7FM82L2iaTQY0qkCF0,Neophyte,Harder Tunes Forever - 100% the Best in Hardstyle and Hardcore,Strictly Underground,0,135529,False,0.663,0.992,0,-1.214,0,0.149,0.176,0.0,0.239,0.546,169.929,4,hardcore
+5Ihd5zyczNs59mMc9S66mR,Seringai,Taring,Taring,31,222586,False,0.566,0.911,0,-4.116,1,0.0681,0.00012,0.00124,0.0433,0.731,80.014,4,hardcore
+2tld2PLZXQvA7Toq38txGT,Darren Styles;Dougal;Gammer,Party Don't Stop,Party Don't Stop,53,197647,False,0.555,0.954,5,-1.064,1,0.0849,0.000597,0.276,0.0292,0.4,169.956,4,hardcore
+4OqkZC8lvPnVayma2QvRBW,S3RL;Iceman,Berserk,Berserk,51,162461,False,0.53,0.993,9,-1.926,1,0.419,0.000142,0.222,0.0712,0.201,97.53,3,hardcore
+1uJ5X7MrxTr21lG5ssm5fT,Nas;Big Sean;Don Toliver,King's Disease,Replace Me (feat. Big Sean & Don Toliver),54,170813,True,0.674,0.782,2,-2.512,1,0.101,0.172,0.0,0.86,0.694,84.927,4,hardcore
+1NfhvYezQQYWpJOuZ8zpED,TerrorClown,Terror Machine Records Sampler 6,Abc Fck U,31,216006,False,0.56,0.859,2,-7.782,1,0.0927,0.0046,6.19e-06,0.0633,0.419,140.089,4,hardcore
+5zwz05jkQVT68CjUpPwFZe,Nas,Illmatic XX,N.Y. State of Mind,60,293973,True,0.665,0.91,6,-4.682,0,0.223,0.0394,0.0,0.227,0.887,84.099,4,hardcore
+0EVlhi2DePy8Qfc3suq0to,Sea Smile,Raplord,Raplord,31,286478,True,0.508,0.983,10,-3.414,0,0.121,0.0132,2.06e-06,0.164,0.582,141.96,4,hardcore
+5jZ1Z2GFTf2gwmFc3qiUxs,The Used,The Used,The Taste of Ink,67,208693,True,0.541,0.904,7,-3.001,1,0.0435,0.00143,0.0,0.193,0.541,98.122,4,hardcore
+24CA5I411NVDYodjjmKPx3,The Notorious B.I.G.,NOTORIOUS Music From and Inspired by the Original Motion Picture,Kick in the Door - 2008 Remaster,59,214546,True,0.721,0.918,10,-5.125,0,0.455,0.0459,0.0,0.156,0.795,179.726,4,hardcore
+51QVVAL3beHaRsoVRadDYo,Bigwig,Stay Asleep,Smile,29,202187,False,0.372,0.976,2,-3.367,1,0.0664,0.0138,0.0,0.332,0.699,104.733,4,hardcore
+1y6KiCQ0ARDLUW3O9CkOIV,PEARS,PEARS,Comfortably Dumb,30,144326,False,0.394,0.992,1,-4.016,1,0.202,0.000361,0.000525,0.23,0.174,93.972,4,hardcore
+1o6NsnBDQy0eeMSpF5cU1w,Rizer,Stand My Ground,From The Streets,29,230715,False,0.693,0.995,1,-3.498,1,0.203,0.16,0.0668,0.234,0.036,99.991,4,hardcore
+4xgO0AFVemVCeykCtnMclo,Buggin,Buggin Out,My Rules,30,100031,False,0.586,0.823,6,-9.268,0,0.0368,0.000104,0.389,0.198,0.46,96.054,4,hardcore
+2w647JfE21aean203DhIWl,Stalag 13,In Control,In Control,29,87306,False,0.464,0.949,6,-3.045,1,0.153,3.55e-05,0.0137,0.0767,0.484,92.408,3,hardcore
+2a9UXi04ZDp0FlQoBP66M9,Jurassic 5,Power In Numbers,Hey,31,265800,False,0.652,0.639,5,-8.577,1,0.458,0.153,0.0,0.381,0.633,89.984,4,hardcore
+1WEToeRWLqfsufm2ZpMiij,Flamman & Abraxas,Hondo,Hondo,28,98384,False,0.597,0.928,3,-8.626,0,0.034,0.000821,0.798,0.308,0.843,139.084,4,hardcore
+2wfHc3wJjCeaaB78MlIJ2i,Perplexer,Da Capo,Da Capo - Video Mix,30,249493,False,0.591,0.816,0,-12.801,1,0.0495,0.00123,0.895,0.106,0.162,158.775,4,hardcore
+5PnMlEazmsJlIbgiJ7s4Ej,The Warriors,War Is Hell (Redux),Set the Stage,29,136920,False,0.349,0.887,8,-3.565,1,0.145,0.000948,0.0,0.34,0.54,140.284,4,hardcore
+0vevZsCnCeI7BN8Dsuid8O,Gloria,Acima do Céu,Voa,29,217885,False,0.354,0.968,7,-3.123,1,0.0973,0.00343,0.0,0.202,0.335,175.014,4,hardcore
+1fSJqMjDrJgTZ3pOw18z0b,Rancore,Liberta,Quarto Escuro,29,185373,False,0.436,0.951,8,-3.926,1,0.063,0.0127,0.0,0.452,0.4,94.004,4,hardcore
+2pu3XlRP98qpxlmv5fcI1R,Chuva Negra,Meio Termo,Esta Casa Mata Fascistas,30,116080,False,0.449,0.966,11,-3.545,1,0.114,0.00802,0.0,0.42,0.847,183.137,4,hardcore
+5SYOm9yUBn8eH67JActGBv,Mukeka di Rato,Boiada Suicida,Milico,29,77883,True,0.239,0.968,2,-5.302,1,0.0807,5.78e-05,0.00321,0.0783,0.309,102.662,4,hardcore
+6qMypeulrlqgMluwyxKgSy,Vómito Nuclear,La Gran Estafa,Todos Somos Punk,31,172000,False,0.181,0.87,2,-11.205,1,0.0532,2.89e-05,0.481,0.195,0.705,174.972,4,hardcore
+35i6b4n58J2WS7fgu4jlpK,Dj Promo,Arder,Arder,29,90158,False,0.81,0.553,8,-10.705,0,0.152,0.12,0.76,0.435,0.789,117.32,4,hardcore
+3Q92rNGIlcsmivscyWaepm,Blind Pigs,Blind Pigs,Sete de Setembro,31,104437,False,0.252,0.962,0,-5.55,1,0.119,9.81e-05,0.000131,0.362,0.56,153.923,4,hardcore
+3UgQvmleo1dCtVEiqxCQht,For Revenge,Fireworks,You Can Try To Dance (Or Die),31,289848,False,0.512,0.735,6,-13.848,0,0.0373,0.00796,0.0355,0.149,0.515,109.998,4,hardcore
+6J71s4E4tkFcfvCVGMLNO2,Strung Out,An American Paradox,Velvet Alley,30,182066,False,0.332,0.977,8,-4.824,1,0.103,0.000215,7.91e-06,0.348,0.436,99.958,4,hardcore
+4WyzLNeQWzclYYXw7aHZ69,Terveet Kädet,"Ihmisen poika, pedon poika",Lihan ilot,30,81346,False,0.29,0.989,5,-4.74,1,0.067,1.6e-05,0.00485,0.102,0.189,101.212,4,hardcore
+5kZ6JaYehSvdLVADNI4DQw,Armor For Sleep,Smile For Them (Standard Version),Williamsburg,29,222093,False,0.244,0.966,2,-3.068,1,0.0841,0.000289,0.0,0.144,0.216,172.696,4,hardcore
+1zpz6NAlgOE2bLvfidhQhN,Millencolin,Same Old Tunes,Da Strike,30,181266,False,0.463,0.89,0,-8.318,1,0.0533,0.00109,0.0,0.119,0.777,103.511,4,hardcore
+1XkFtuJTzttOXoUh1OULxV,Scooter,20 Years of Hardcore (Remastered),Behind the Cow,30,214480,False,0.295,0.986,6,-5.359,1,0.287,0.000909,0.215,0.324,0.237,139.98,4,hardcore
+2FoAvclmD5zABT7ks4k3X1,Gloria,(Re)Nascido,Presságio (feat. Fernando Anitelli),29,230906,True,0.536,0.982,4,-2.605,0,0.182,0.000232,0.0,0.166,0.189,105.005,4,hardcore
+0XP2K6n7cHWDThzfEX6kek,Mukeka di Rato,Carne,Cachaça,29,90146,False,0.274,0.99,11,-3.769,0,0.0751,0.00336,0.0401,0.943,0.37,87.293,4,hardcore
+5lNf1QuG7smWG4GNzMIHlE,Screeching Weasel,My Brain Hurts,The Science of Myth,32,143093,False,0.317,0.978,6,-3.462,0,0.114,0.0362,0.0,0.321,0.326,157.636,4,hardcore
+100vfqlXNuReFxsW39pyZa,Smitten,Pappo Versionado,Desconfío,30,124426,False,0.526,0.805,2,-4.401,1,0.0531,0.0991,0.0,0.196,0.584,96.98,4,hardcore
+5PYkaSvt6fipSZ4fSce4Pf,De Doelleazen;FEEST DJ MAARTEN,Stamp Op De Grond,Stamp Op De Grond,31,151355,False,0.594,0.905,7,-2.609,1,0.0621,0.108,0.000139,0.223,0.47,149.97,4,hardcore
+7ggrBRywt0nNlo1zYxycFb,Choking Victim,Crack Rock Steady EP/Squatta's Paradise,Choking Victim,31,107333,False,0.417,0.924,7,-6.057,1,0.351,0.000325,0.0,0.285,0.703,96.482,4,hardcore
+3SDwA4K16boErIhomoEBNg,Dead Fish,Ponto Cego,Etiqueta Social,30,60925,False,0.583,0.974,1,-4.929,0,0.054,4.56e-05,0.0,0.0987,0.357,118.51,4,hardcore
+6klT6MPEAN0O71n50KLpyt,KSU,Dwa narody,Kiedy naród umiera,30,256853,False,0.606,0.73,4,-6.12,0,0.0329,0.36,0.000161,0.152,0.561,100.075,4,hardcore
+3ryh0JFOvd7CDLV7LsW2Iv,Seringai,Serigala Militia,Kilometer Terakhir,31,196906,False,0.528,0.93,4,-4.765,1,0.0505,8.4e-05,0.00334,0.366,0.671,124.975,4,hardcore
+5MvjaNe8XPQUIkm6p8nCbe,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",¿Por Que los Ricos? (En Vivo),31,290573,False,0.659,0.937,10,-6.409,0,0.0624,0.0225,1.33e-05,0.99,0.495,103.298,4,hardcore
+3eec9aaE98jdsyT1QNViq7,Pense,"Realidade, Vida e Fé",Levanta e Vai,29,179800,False,0.557,0.984,8,-4.889,0,0.155,0.000156,0.0,0.415,0.503,112.98,4,hardcore
+1RFuMDla6pXQtBhJyseK2d,Incendiary,Thousand Mile Stare,Hard Truths Cut Both Ways,29,190388,False,0.39,0.988,9,-1.877,1,0.145,0.0011,1.21e-05,0.228,0.199,147.158,4,hardcore
+3Lf5fr3itZilalJH51cJVZ,De Doelleazen;Zender Obama;R.J. Wielstra;S. Schaafsma,Wy Jouwe Gas,Titom! Dop2dop (Remix),30,149830,False,0.707,0.966,1,-3.581,1,0.0656,0.00589,0.425,0.0285,0.715,165.019,4,hardcore
+6zOzwVtzIsTTzufS6RWIpk,The Dead Milkmen,Death Rides A Pale Cow: The Ultimate Collection,Tiny Town,31,104333,False,0.553,0.967,4,-5.142,1,0.0867,0.00774,0.0,0.143,0.77,150.133,4,hardcore
+2Qm7HUXiXKIKRlfGGyEHL5,He Is Legend,White Bat,When The Woods Were Young,29,216170,False,0.244,0.964,2,-4.663,1,0.119,4.07e-05,0.436,0.244,0.216,177.6,4,hardcore
+6YbysAROEcJZuRNiES0hP6,Pense,Além Daquilo Que Te Cega,Andando Sobre Pedras,29,236663,False,0.365,0.99,6,-4.132,0,0.187,0.000138,3.83e-05,0.159,0.312,115.011,4,hardcore
+1aIwLdbIrz6leScVvYZkid,Eterna Inocencia,Entre Llanos y Antigales,Puente de Piedra,30,279400,False,0.467,0.976,1,-5.369,0,0.0911,0.000487,1e-06,0.275,0.155,146.005,4,hardcore
+7DWPHuEmmbQTIZ5Uat5wBe,Ratos De Porão,Homem Inimigo do Homem,Expresso da Escravidão,33,164906,False,0.311,0.997,4,-4.693,0,0.11,0.000756,0.000982,0.128,0.257,139.197,4,hardcore
+6SpS6MiZ9M662KDezJZ8Yw,The Bouncing Souls,The Gold Record,Better Things,30,207026,False,0.439,0.966,2,-2.641,1,0.0693,0.00815,7.21e-06,0.148,0.607,166.976,4,hardcore
+2GwvOTMePBOn9pLnAgLRCJ,Eterna Inocencia,No bien abran las flores,Siempre,30,195597,False,0.536,0.868,4,-4.3,1,0.0466,0.0229,1.96e-06,0.0955,0.451,162.954,4,hardcore
+53oWwSxPuyH2cjYKXH8fgO,Junior M.A.F.I.A.,Conspiracy (PA),Get Money,62,274937,True,0.736,0.828,11,-5.835,0,0.284,0.477,0.0,0.251,0.899,91.224,4,hardcore
+2I0KaPpWmAcFQyMmk5P2Cz,Evil Activities;The Viper,Evilution,Raw To The Floor,51,320053,False,0.475,0.959,11,-5.339,0,0.198,0.46,0.0927,0.0862,0.102,165.039,4,hardcore
+3NdllOCJLt2yVlOB0N4Tt2,Cefa;Lucas Silveira,CAØS,Solidão,30,289960,False,0.493,0.681,0,-6.545,1,0.0389,0.118,0.0,0.0868,0.174,125.12,4,hardcore
+0jhxxEBzlvuDqAqV9i9Iuc,Crystal Castles,Amnesty (I),Char,55,188333,False,0.396,0.844,6,-6.644,1,0.313,0.0187,0.0697,0.32,0.331,99.778,4,hardcore
+2iOz9TpTJgR3ZBIQ0Pas2g,Gammer;Riot Ten,NGMF,NGMF,43,162450,True,0.75,0.883,4,-5.329,0,0.262,0.0181,0.0643,0.329,0.252,150.051,4,hardcore
+3Jz2hF1Y0EnSJrrj61fSmg,Dj Kass;Pitbull,Scooby Doo Pa Pa (Remix) - Single,Scooby Doo Pa Pa (Remix),39,176702,True,0.923,0.968,1,-1.407,1,0.181,0.2,0.000174,0.328,0.52,120.924,4,hardcore
+0rQ8tdqo81Z3dOyHTvGR3h,Angerfist,Diabolic Dice (Official Anthem),Diabolic Dice (Official Anthem),44,208666,False,0.489,0.984,1,-1.03,1,0.239,0.215,0.0139,0.383,0.201,179.949,4,hardcore
+2W58HMaCbjcUfZnZaeHtcC,Nas,Illmatic,Memory Lane (Sittin' in da Park),59,248213,True,0.648,0.841,0,-4.322,1,0.212,0.31,0.0,0.136,0.624,89.564,4,hardcore
+2GjdI973iM4W4Pl7Tckcke,Raekwon,This Is East Coast Hip Hop,Still Strugglin',63,137253,True,0.731,0.701,1,-7.436,1,0.455,0.556,0.0,0.295,0.901,92.245,4,hardcore
+63gHnuI9MzZA4lLob8t9IY,Thug Life,Thug Life: Volume 1,Pour Out A Little Liquor,58,209466,True,0.705,0.71,1,-8.208,1,0.287,0.122,0.0,0.656,0.647,87.994,4,hardcore
+0jRj0owDUMxxbmz2qkgtSC,Obie Trice;50 Cent;Eminem,8 Mile (Music From And Inspired By The Motion Picture),"Love Me - From ""8 Mile"" Soundtrack",51,270746,True,0.713,0.517,7,-5.403,1,0.237,0.092,5.9e-06,0.134,0.267,80.986,4,hardcore
+2Ja3UauMDeQnq4sI8a64Ys,Nas;AZ;Cormega;Foxy Brown,It Was Written,"Affirmative Action (feat. AZ, Cormega & Foxy Brown)",58,259800,True,0.665,0.566,3,-9.209,0,0.443,0.484,0.0,0.16,0.755,173.804,4,hardcore
+6QJOEIPT8g3fjdFxibpy2F,Compton's Most Wanted,Music To Driveby,Hood Took Me Under,56,219266,False,0.774,0.485,1,-10.955,1,0.319,0.00557,2.31e-06,0.107,0.392,156.001,4,hardcore
+4EQgglW6i0afBnFc3C6l6n,DARE,Welcome to the OC,Never Yours,28,119586,True,0.32,0.872,7,-4.869,0,0.0502,4.86e-05,0.00727,0.22,0.648,132.217,4,hardcore
+48ZUwXrEOhaXLCxvmRYhZv,Eric B. & Rakim,Don't Sweat The Technique,Don't Sweat The Technique,61,262800,False,0.737,0.89,4,-8.443,1,0.158,0.00556,0.00171,0.0801,0.809,105.848,4,hardcore
+5qZxa73r5VUTjMW0Eoz96f,Promo;G-Shock,Never Compromise,Demons - Promo Remix,28,396133,False,0.54,0.983,7,-2.578,1,0.578,0.0487,0.922,0.203,0.0695,159.837,4,hardcore
+1spajavaChi9mMcsV5M5SE,Bayside,Bayside,Half A Life,30,243400,False,0.309,0.873,7,-5.782,0,0.0634,0.000181,0.0,0.0733,0.426,177.886,4,hardcore
+6y7er7A5eYlJMALDxMNfgH,Momentum,Momentum,Relapse,28,250921,True,0.559,0.945,7,-3.839,1,0.0735,0.000112,1.56e-06,0.363,0.285,90.212,4,hardcore
+5a08ltM7vmCVv6FPwUmmTb,Jerry's Kids,Is This My World?,Cracks In The Wall,29,79280,False,0.264,0.995,9,-4.012,1,0.175,0.00174,0.39,0.33,0.103,106.684,4,hardcore
+0UqMtrwXIrWfRaYrz2sAyn,Kid Dynamite,Kid Dynamite,Bookworm,29,119226,False,0.398,0.988,11,-3.612,1,0.134,0.037,0.0,0.622,0.4,154.034,4,hardcore
+0JtUukp0GQJLORAK361mFn,Thell Barrio,La Nueva Era,La Nueva Era,30,214962,False,0.298,0.994,1,-4.937,0,0.173,0.123,0.0,0.142,0.134,155.824,4,hardcore
+0Z2FJ0OKokYQgcCSj2cXGJ,Killshot,Beastmode,Beastmode - Radio Edit,29,211022,False,0.62,0.991,1,-1.692,1,0.354,0.013,3.42e-05,0.951,0.217,154.912,4,hardcore
+3EGq8GRoOntZITLm9OzZyT,CIV,Set Your Goals,"So Far, So Good... So What",29,131680,False,0.511,0.93,7,-4.65,1,0.0664,0.00126,0.234,0.275,0.75,156.484,4,hardcore
+4LvFLs0F7c2YgmgkH6X8nh,Dead Heat,World At War,2 Cents,28,150744,False,0.38,0.958,10,-4.08,0,0.0582,0.000265,0.0117,0.0571,0.694,78.833,4,hardcore
+59eIQ5AswSWQDrarZtcEyo,Hail The Sun,Culture Scars,Never Kill a Mouse; Let It Kill Itself,30,233120,False,0.294,0.547,1,-5.81,1,0.0308,0.00915,0.0,0.0854,0.284,141.982,3,hardcore
+6GUutll2zrbk4znxIxSl5r,Boysetsfire,Tomorrow Come Today,Eviction Article,29,249560,True,0.594,0.975,6,-3.466,0,0.0544,0.00113,0.00515,0.141,0.289,115.819,4,hardcore
+6bkyhF0O2QtEArirqBPrEv,Queensway,Swift Minds of the Darkside,Violent Breed,29,152448,False,0.291,0.982,9,-4.456,1,0.214,4.51e-05,0.289,0.342,0.209,94.06,4,hardcore
+11rFcVpCnhflTpQYcGIWB2,Aurora Rules,A Sombra do Presente,Réquiem,29,255185,False,0.317,0.871,4,-6.725,0,0.0822,8.05e-05,3.08e-06,0.235,0.155,196.863,4,hardcore
+2GxkbIkaTeOg06DjAIcwi8,Bull Brigade,Il fuoco non si è spento,Cuori stanchi,30,219320,False,0.54,0.927,4,-4.396,1,0.0411,0.000159,0.0,0.139,0.602,99.975,4,hardcore
+1oiJ5YlSymmVqgOMYpnTSd,Los Crudos,Discografía,Asesinos,32,61590,False,0.387,0.86,4,-3.777,0,0.199,0.00831,0.00748,0.144,0.396,108.395,4,hardcore
+6rS8IW5dx9gkrmRSawYCAT,Magnitude,To Whatever Fateful End,Vital Emergence,28,129409,False,0.238,0.979,10,-3.717,1,0.188,0.000179,0.00541,0.123,0.163,151.245,4,hardcore
+0S4Zf256BJU9wCHeBNsGmj,Cursive,The Ugly Organ,Sierra,31,205226,False,0.441,0.895,10,-7.934,1,0.105,0.0281,2.04e-05,0.0827,0.205,149.384,4,hardcore
+4kQWhjDKGlMwQBwR53p1fw,Lionheart,Welcome to the West Coast II,Cursed,29,171331,True,0.25,0.971,0,-4.379,1,0.164,0.00105,0.0,0.267,0.29,154.924,4,hardcore
+4z4INC37HMxjgrLJ8QsMRN,For Revenge,Fireworks,Nala And U.F.O,30,265959,False,0.386,0.752,6,-13.686,0,0.041,0.0103,0.00653,0.6,0.39,165.749,4,hardcore
+3MV36kHv0GUlefsVeEzpod,A Wilhelm Scream,Lose Your Delusion,Yo Canada,30,162163,True,0.498,0.968,10,-5.353,0,0.0769,0.0033,1.27e-05,0.435,0.469,107.76,4,hardcore
+0XMsFTURMCiD6Xi725S1YX,Motta,La Fine Dei Vent'anni,Prima O Poi Ci Passerà,31,238102,False,0.589,0.862,6,-6.684,0,0.072,0.129,1.49e-05,0.0952,0.373,130.118,4,hardcore
+21b50o6AKXNjrufKVlZUc7,Gloria,(Re)Nascido,É Tudo Meu,29,160946,True,0.449,0.989,7,-2.42,1,0.171,0.000247,0.000169,0.128,0.312,173.042,4,hardcore
+67GaHdO2ULwnWnU7rjiRF4,Bayside,Killing Time,It's Not A Bad Little War,30,253373,False,0.262,0.952,3,-2.911,1,0.0827,0.00735,0.0,0.19,0.501,183.036,4,hardcore
+29ukJUTq3fohjww90fp9mk,Gallows,Grey Britain (Standard DMD),Black Eyes,29,171146,True,0.282,0.961,2,-6.566,1,0.13,0.000433,4.5e-06,0.0522,0.506,161.109,3,hardcore
+6GqhCxiV3PLhy9Wd4PCFBI,Hang Youth,ALLES MOET BETER,BILL GATES IS EEN NERD,30,69111,False,0.345,0.906,11,-6.78,0,0.216,0.0091,0.0,0.493,0.498,142.857,3,hardcore
+2vrMGgXaZCcrDgb9zvAov0,Terveet Kädet,"Ihmisen poika, pedon poika",Puolentunnin helvetti,30,51146,False,0.249,0.959,0,-6.493,1,0.0601,7.55e-05,0.00323,0.586,0.489,103.671,4,hardcore
+2vnqCuzEiphRxmqeNwoMM5,Suicidal Tendencies,Freedumb,Hippie Killer,30,189906,False,0.464,0.991,5,-4.083,1,0.0817,0.00456,0.0,0.172,0.394,97.341,4,hardcore
+3Ul2J7mhUaMSNFdHEtJetw,Cueio Limão,Paraguayo,Quando Tocar na Tv,29,157266,False,0.509,0.936,11,-3.832,1,0.0651,0.0225,0.0,0.159,0.706,190.031,4,hardcore
+0svjbKlJACgKA3sjvIxvFu,Deadly Guns;Malice,The Chosen Ones,Fuel & Fire,29,206400,False,0.619,0.973,1,-0.883,1,0.0947,0.00465,0.00201,0.289,0.144,100.036,4,hardcore
+7AM2eL1sBWCCTYXoQ1xTGg,Balance And Composure,The Things We Think We're Missing,When I Come Undone,30,228520,False,0.458,0.972,10,-4.393,0,0.0676,1.1e-05,0.299,0.194,0.262,114.476,4,hardcore
+1AIW8gFU5wqfcfQ6qDwtZV,Garrobos,Un Segundo Más...,Sangre,31,173590,False,0.471,0.874,5,-5.251,1,0.0404,0.00283,0.0028,0.333,0.94,152.147,4,hardcore
+1eB7WPE7PwQtB0QFdGvF3x,No Use For A Name,Leche Con Carne!,Redemption Song,30,157706,False,0.415,0.973,7,-6.318,1,0.108,0.000962,0.000152,0.0938,0.421,92.937,4,hardcore
+4rk6UvzFJi0XYktXQ8ptUL,Los Prisioneros,"Estadio Nacional (En Vivo, Remasterizado 2019)",El Baile de los Que Sobran (En Vivo),31,466310,False,0.401,0.862,0,-6.717,1,0.0733,0.339,0.000262,0.347,0.491,119.859,4,hardcore
+6tEp7p8beDRP8yaDCdMZgm,Ratos De Porão,Brasil,Amazônia Nunca Mais,32,115226,False,0.274,0.979,11,-8.526,1,0.0794,6.75e-06,0.866,0.369,0.318,111.518,4,hardcore
+2ZMivAT6mukVNSC9qiDviR,Espécimen,Genética (Edición Especial),Tecnología,31,171400,False,0.392,0.741,11,-11.507,0,0.0368,0.000297,0.248,0.13,0.643,144.528,4,hardcore
+6MiFMpNEdotPOrnMO6mwAC,DJ Quik,The Essential DJ Quik,Dollaz + Sense,31,353293,True,0.834,0.667,8,-4.586,1,0.216,0.019,0.0,0.103,0.482,99.283,4,hardcore
+2kM3gIkHRiikiaIUFk3Fje,The Notorious B.I.G.,Greatest Hits,Who Shot Ya? - 2007 Remaster,55,316506,True,0.824,0.73,11,-5.183,0,0.247,0.202,0.0,0.442,0.625,91.743,4,hardcore
+24tp6mtoMwv9DCLVsDhl5Z,Lloyd Banks;Young Buck;50 Cent;G-Unit,The Kanan Tape,Too Rich For The B*tch,35,176453,True,0.85,0.423,10,-7.819,0,0.171,0.266,0.0,0.0808,0.358,128.008,4,hardcore
+0W2mz7mvaBaEsC4rmoRNPn,Onyx,Bacdafucup,Slam,62,218333,True,0.876,0.71,11,-12.908,1,0.347,0.0654,0.00312,0.918,0.724,98.305,4,hardcore
+6V5RvNdSqdEDshRKhsiCEH,Polaris,The Death of Me,All of This Is Fleeting,57,236380,False,0.486,0.953,8,-3.468,0,0.0878,0.000139,0.00243,0.14,0.592,138.032,4,hardcore
+1GKkkhwzNDJb9L6ZpXBBGe,Xzibit,Restless,Best of Things,54,200760,True,0.896,0.59,5,-3.644,0,0.208,0.0869,0.0,0.677,0.894,93.947,4,hardcore
+4qhJRWbjp9qdXBxKpDiv2q,Suburban Scum,Split,Misery Loves Company,28,188142,False,0.369,0.981,9,-5.284,1,0.13,0.000212,0.243,0.0595,0.0981,135.265,4,hardcore
+0R8DMHwBSoIzmnpvPmBVU7,Volcano,DISCIPLE,DISCIPLE,29,170420,True,0.368,0.919,1,-7.524,1,0.081,6.62e-05,0.051,0.128,0.291,87.331,4,hardcore
+0Ao7A0HaX4LAKDBj47rMx0,Slap It Out,A Thousand Fairytale,Your Song,29,222040,False,0.409,0.94,8,-7.103,1,0.0486,0.00319,0.000288,0.388,0.234,75.998,4,hardcore
+0NVHRsxOwvf6mcGqrDrhiG,Dr. Peacock;Sefa,Leven Is Lijden,Muzika - Sefa Remix,62,158400,False,0.481,0.993,5,-0.77,1,0.0402,0.000505,0.981,0.516,0.0388,100.008,4,hardcore
+1fpfYcekuZYMbW25cbGu1W,Re-Fuzz,Dead Man Walking,Dead Man Walking,29,332376,False,0.529,0.817,2,-5.475,1,0.0605,0.0378,2.66e-06,0.577,0.238,180.042,4,hardcore
+51WRAczNFnqoD4oFn5EQ78,Mesin Tempur,Intisari,Mana Tukang Indomi,29,96883,True,0.399,0.883,8,-5.773,1,0.125,0.000725,0.546,0.349,0.311,106.59,4,hardcore
+6arfQN87rvooz5kZIQqis2,Foghorn,Foghorn,Into the Fog,29,78760,True,0.662,0.991,11,-3.534,0,0.245,0.0259,0.0971,0.45,0.18,122.026,3,hardcore
+7vNZvwQe1iKA7GriYVXasV,Forze DJ Team,Qlimax 2010 - In An Alternate Reality,'98 To Piano [Mix Cut] - Original Mix,29,41600,False,0.584,0.977,8,-3.418,0,0.0372,0.00333,0.973,0.27,0.0375,77.266,4,hardcore
+4l4gxnsuKF1eqGOmIuzPes,Re-Fuzz,Why Am I Losing,Singularity,29,190200,False,0.489,0.956,5,-2.264,1,0.113,0.00555,0.208,0.309,0.158,180.07,4,hardcore
+0SAWAh2urLpUeUfm94VUZG,Bayside,Interrobang,Tall,30,215986,False,0.438,0.931,4,-5.83,0,0.308,0.000542,0.000385,0.0533,0.396,166.978,4,hardcore
+4ilW7KjXhSYTnjpAdVhbUa,D-Ceptor;Zerberuz,Order & Chaos,Tornado (Zerberuz Remix),29,247578,False,0.505,0.998,7,-1.268,1,0.271,0.001,0.728,0.918,0.247,94.999,4,hardcore
+6uLIzpAcp0qCyeEREsiRBl,Outta Pocket,D.E.M.O.,Intro,29,59441,False,0.339,0.894,6,-5.938,1,0.0555,0.000903,0.597,0.547,0.679,131.042,3,hardcore
+4GAUBTuCS1EfQbGpeFHKyI,Koyo,Painting Words into Lines,Hanging from Grace,29,113053,True,0.387,0.866,5,-6.979,1,0.0567,0.000362,0.000597,0.215,0.491,137.598,4,hardcore
+4OcqbRkCknnWEoqFIoeLgp,Burgerkill,Killchestra,Anjing Tanah,31,430773,True,0.315,0.759,8,-8.517,1,0.0506,0.00174,0.0167,0.0904,0.0388,110.944,4,hardcore
+0Q6D4jgYQBeVaQb5zudWBH,Dj Promo,Oscuro,Oscuro,27,75492,False,0.706,0.537,4,-13.011,1,0.0295,0.087,0.979,0.124,0.271,100.155,4,hardcore
+5HuCuxK1MdKafyUHl6X54r,For Revenge,Auristella,This Is Not The Best Time To Lose,30,243750,False,0.461,0.91,6,-3.626,0,0.0615,2.11e-05,0.000306,0.0866,0.701,160.017,4,hardcore
+6PhmoqZ1HsLVnGUJMrKBum,Koil,Blacklight,Nyanyikan Lagu Perang,30,299177,False,0.519,0.846,5,-7.258,1,0.0392,0.0127,0.352,0.0936,0.424,146.063,4,hardcore
+3knDGh1mv6t69d4gGd1y2I,2 Brothers On The 4th Floor,Domain Hardcore Vol. 6 (Mixed by Neophyte & Panic),Come Take My Hand - The Viper Remix - Edit,30,205116,False,0.449,0.963,9,-3.955,0,0.0566,0.0251,3.35e-05,0.272,0.401,172.06,4,hardcore
+31mSJLJ2UptaxPj2uCi88A,Stick To Your Guns,Comes From the Heart,Enough is Enough,29,237973,False,0.284,0.947,0,-3.69,0,0.162,0.00125,8.16e-05,0.335,0.274,174.998,4,hardcore
+2MrqN6zWkvqKdGCTJEVm6S,Burgerkill,Roar of Chaos,Roar of Chaos,31,266498,True,0.543,0.969,7,-7.0,1,0.108,0.000108,0.000254,0.167,0.0625,107.523,4,hardcore
+3cGTVw2edl88fQqQXy3m6P,Burgerkill,Venomous,Under the Scars,31,317786,True,0.528,0.997,7,-2.463,1,0.185,0.000522,0.000364,0.143,0.13,139.923,4,hardcore
+7dzWg0Fw3UzG8XBUMaouw5,Trapped Under Ice,Big Kiss Goodnight,True Love,28,139855,False,0.287,0.923,2,-4.983,1,0.0818,0.000376,3.47e-06,0.08,0.514,87.576,4,hardcore
+0gE82OlIvoMUdKi0DDl6WL,Bullet Bane,BLLT,Organizando Meu Vazio,29,218140,False,0.568,0.808,5,-4.612,1,0.0304,0.0858,0.00011,0.138,0.515,113.032,3,hardcore
+4pSlHTlmP0Bn8eJxqjlnZ9,Mukeka di Rato,Boiada Suicida,Humano Fracasso,29,84560,True,0.355,0.985,8,-4.902,0,0.0428,1.36e-05,0.00557,0.085,0.511,89.908,4,hardcore
+3jhc64NporNzz61mgNEC23,Seringai,Serigala Militia,Citra Natural,30,264293,False,0.429,0.911,9,-4.941,1,0.0583,6.76e-05,2.62e-06,0.196,0.604,165.11,4,hardcore
+7CqHBSbWaVQAmWVSmwAAK0,Incendiary,Cost of Living,Force of Neglect,29,169245,False,0.663,0.967,9,-1.947,1,0.0552,0.00487,0.0906,0.262,0.542,129.956,4,hardcore
+0SMeLj1kfk6ILwTjE4f1H3,Pegboy,Strong Reaction,Superstar,28,144240,False,0.371,0.955,5,-6.344,1,0.0858,0.00703,0.0,0.0697,0.718,97.768,4,hardcore
+1zlFi9fLB8w3EcpmjSEEe8,The Used,Lies for the Liars,The Ripper,29,176266,False,0.558,0.976,7,-5.484,1,0.16,0.00242,8.15e-05,0.345,0.193,108.973,4,hardcore
+3Q5b7zl0bEqrmdeMY4UeS3,Hang Youth,HET K-WOORD,MET JE AKO-IDEOLOGIE,30,62714,False,0.46,0.735,9,-8.397,0,0.0384,0.0545,0.0,0.387,0.545,93.868,4,hardcore
+7J6zRkEBkSm08Gqcpdukbs,Good Riddance,Operation Phoenix,Shadows of Defeat,30,132866,False,0.388,0.891,11,-8.135,0,0.0748,0.000633,6e-05,0.159,0.697,156.855,4,hardcore
+25mKHtlXimKRBt4kgIu66J,Bull Brigade,Il fuoco non si è spento,Partiro' per te,30,241306,True,0.41,0.879,6,-4.934,1,0.0498,0.00048,5.65e-06,0.32,0.676,169.97,4,hardcore
+6EBuhDXGEe8ZPDR8WuuieN,Dance of Days,A História Não Tem Fim,Se Essas Paredes Falassem,29,207354,False,0.33,0.979,2,-5.222,1,0.16,0.0635,0.0,0.856,0.354,114.642,4,hardcore
+7CDjFTgtXZuLRP88q5XOTQ,Dead Fish,Um Homem Só,Didático,29,186240,False,0.521,0.993,8,-3.351,1,0.151,0.000176,0.0,0.318,0.404,116.977,4,hardcore
+2C3USo5f9QOtTWHSFizXxV,Face To Face,Big Choice (Remastered),You Lied,30,207813,False,0.175,0.956,9,-4.815,1,0.0832,2.66e-05,1.12e-06,0.148,0.469,159.224,4,hardcore
+1CP8j9qn2pxY85lBV59sX6,Los Miserables,25 Años y Todo Sigue Igual,Pisagua 1973,31,165140,False,0.489,0.795,2,-4.767,1,0.0453,0.00925,0.00035,0.12,0.761,172.506,4,hardcore
+204CIdvTCTcbVVOn1SFe0d,Circle Jerks,Golden Shower of Hits,Golden Shower of Hits,29,312706,False,0.348,0.939,5,-7.81,1,0.0706,0.0322,0.0,0.237,0.638,158.021,4,hardcore
+32l5VKaIp8jNE5ERQtKkxr,Glassjaw,Metal,Babe,0,103373,True,0.287,0.983,9,-5.137,0,0.231,6.92e-05,3.1e-05,0.169,0.37,104.52,4,hardcore
+43H6F31b8jGbztnFC3C19Q,Fiskales Ad-Hok,Fiesta,Fiesta,30,98266,False,0.351,0.933,8,-7.4,1,0.0789,7.32e-06,2.21e-05,0.204,0.675,104.335,4,hardcore
+28Yp0SIHT7z8gptmAl19zt,Glassjaw,Post-Millennial Noise,Modern Love Story,0,64839,False,0.325,0.979,9,-5.56,1,0.212,0.000293,0.0,0.0358,0.342,107.112,4,hardcore
+4Kp8KPdrC8S0CVR6CzS48Z,Fun People,The Art(E) of Romance,A Mi Manera,30,90040,False,0.235,0.932,1,-7.943,1,0.0765,0.0403,0.0,0.354,0.526,203.722,4,hardcore
+7FV6mYpw5uESNzvp4mtl0L,Balance And Composure,The Things We Think We're Missing,Cut Me Open,30,333493,False,0.214,0.976,0,-4.772,0,0.0566,1.72e-05,0.0019,0.107,0.336,157.007,4,hardcore
+1UJK0babSL6f8K1Vd3XETP,BBS Paranoicos,Algo No Anda,Calla y Espera,31,180320,False,0.378,0.865,1,-4.519,1,0.0406,6.01e-05,0.531,0.184,0.532,96.778,4,hardcore
+04l32IumKKAv4Wj06Af9AA,BBS Paranoicos,Hardcore para Señoritas (Reedición Especial),El Regreso,31,166000,False,0.375,0.931,10,-10.071,1,0.064,0.00743,0.679,0.256,0.439,103.502,4,hardcore
+4gh9MN31XjcG7USAQjhVEQ,Callejon;Antifuchs;Pilz,Hartgeld im Club (Bonus Tracks Version),Hartgeld im Club (feat. Antifuchs & Pilz),30,228749,True,0.61,0.898,2,-5.862,1,0.0683,0.000603,0.0,0.225,0.508,99.899,4,hardcore
+4vp9cBkT5bsawqEXaVmkf6,G-Unit,Easy Hip Hop,Smile,22,218000,True,0.779,0.51,8,-3.629,0,0.252,0.26,0.0,0.0865,0.591,90.025,4,hardcore
+6moUIFeyCYf7Km03GPBqKd,Chon,Chon,Ghost,51,108386,False,0.372,0.841,1,-9.418,0,0.0705,0.0277,0.763,0.095,0.305,108.276,3,hardcore
+1uhkzzzZPqJLiGBTgHIQ74,G-Unit,Stunt 101,Stunt 101,30,232666,True,0.673,0.766,9,-1.485,1,0.403,0.179,0.0,0.0669,0.566,95.904,4,hardcore
+7lFzS8uBjpXckGjQQcpJrW,MY FIRST STORY,ANTITHESE,不可逆リプレイス,55,231000,False,0.502,0.931,2,-3.676,1,0.0577,0.000143,0.0,0.54,0.365,99.955,4,hardcore
+1AMADyXgIWayh5vXLZo2qF,Basement,Colourmeinkindness,Covet,65,227340,False,0.428,0.799,4,-6.265,1,0.0468,0.00139,0.0742,0.0788,0.228,139.052,4,hardcore
+7LbIccTR3F9yYaWmMGMKtn,Nas,Magic,40-16 Building,53,175038,True,0.451,0.881,7,-2.004,1,0.286,0.0651,0.0,0.112,0.261,178.292,4,hardcore
+3WcZqa5zOjq3FnEBZCriMw,Story Of The Year,Real Life,Real Life,56,164621,False,0.536,0.894,11,-4.234,0,0.08,0.0113,0.0,0.179,0.677,154.068,4,hardcore
+3OMqeZU9lQGimMwMjPvBsp,N.W.A.,The Best Of N.W.A: The Strength Of Street Knowledge,Appetite For Destruction,57,188573,True,0.83,0.795,7,-7.644,1,0.181,0.0348,1.08e-06,0.0864,0.402,105.525,4,hardcore
+3ZBSXNYdTZVaBUQI3E2rF6,Gang Starr;Inspectah Deck,Moment Of Truth,Above The Clouds,63,221626,True,0.462,0.944,8,-2.938,1,0.315,0.312,0.000149,0.367,0.65,172.33,4,hardcore
+2a05MFdR1vtm8QVKFs1SGn,Polaris,The Death of Me,Masochist,58,247924,True,0.49,0.941,3,-3.242,0,0.0495,0.000634,1.16e-05,0.101,0.264,119.998,4,hardcore
+64UQLXFp7Gs189kF3myYiq,Run–D.M.C.,Greatest Hits,My Adidas,32,168626,False,0.819,0.773,1,-11.779,1,0.169,0.000598,2.79e-06,0.292,0.756,95.382,4,hardcore
+2guUUg3RVzs4ipCzjEeBQ8,I Met a Yeti,Camp Yeti,Honey Bee,29,190374,False,0.129,0.879,10,-7.201,0,0.104,1.81e-05,4.12e-05,0.0494,0.277,87.85,1,hardcore
+5EbTHYIQQtNNMloPNirkKi,Atari Teenage Riot,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),Speed,42,168586,False,0.413,0.912,4,-5.092,0,0.0878,1.49e-05,0.0203,0.14,0.497,165.156,4,hardcore
+3rCzndEL9xfVMIKhzxiAUM,Shackled,One Way Out,Through the Veil,28,153133,False,0.375,0.977,8,-5.494,1,0.128,2.63e-05,0.142,0.15,0.309,125.351,4,hardcore
+1l3CKosutLUUgSmnJJAyof,Fox Lake,Silence & Violence,IYKYK,28,258624,True,0.591,0.83,1,-5.892,1,0.139,0.00267,0.0,0.15,0.284,87.564,4,hardcore
+67mtN6BlsJR0LVyzvNZnGt,Redman,Whut? Thee Album,Tonight's Da Night,63,201373,True,0.697,0.687,6,-11.111,1,0.379,0.26,4.8e-05,0.403,0.866,90.247,4,hardcore
+0M4LNWYzrMg2PcGhNngSSW,Sebua Tawa Dan Cerita,We Are Louder Than You,The Awakening,29,213000,False,0.199,0.991,5,-3.873,0,0.164,9.37e-05,1.17e-05,0.146,0.132,129.84,4,hardcore
+2cfUY5ppstJHmqdUcFgZ5O,Nosferatu,Demonic Playgrounds,Beat the system,27,228373,True,0.719,0.992,6,0.55,0,0.366,0.28,0.0452,0.13,0.118,99.977,3,hardcore
+1uy9zPxQfu4toIa7YK8Es6,UnityTX,HELLWAY,Walk with Me,28,209305,True,0.477,0.835,2,-6.015,1,0.038,2.41e-05,0.465,0.109,0.277,160.002,4,hardcore
+4KkNs64Xhb7O9BZ7DCfw4P,Aftercoma;Ipang Lazuardi,Breathless,Raga Terbakar,28,287268,True,0.417,0.944,9,-3.763,1,0.0577,0.00133,5.65e-05,0.118,0.201,74.976,4,hardcore
+1jlOBkk10A0GyBwsURt1yp,Chixdiggit!,Born on the First of July,Chupacabras,31,120760,False,0.325,0.959,4,-4.906,1,0.0901,0.0126,0.000573,0.0827,0.658,130.854,4,hardcore
+5X65C51a9CkEjc3Hvamf33,Gloria,Acima do Céu,Voltar pra Casa,28,271846,False,0.629,0.601,2,-7.564,0,0.0374,0.317,0.0746,0.0897,0.331,119.982,4,hardcore
+27VKN0lmxwTaorU8ivsZNy,Ponto Nulo no Céu,Brilho Cego,Clarão,29,308173,False,0.56,0.959,8,-2.463,1,0.085,6.55e-05,0.000285,0.359,0.283,125.01,4,hardcore
+6moCeC5qvpTSmENURAH4lZ,The Psycho Realm;Sick Jacken;Big Duke,A War Story - Book 1,Enemy of the State,30,240026,True,0.729,0.667,6,-8.542,0,0.151,0.00068,0.00291,0.679,0.255,100.09,4,hardcore
+3iXFoge0yejRvt6VXJ5QHc,Hail The Sun,Mental Knife,Suffocating Syndrome,29,182281,False,0.29,0.951,4,-4.342,0,0.0951,0.000333,1.87e-05,0.394,0.275,177.143,4,hardcore
+0IRPMakNtmITC1G0g3cGRB,Hot Water Music,Split,God Deciding,30,157120,False,0.449,0.985,1,-3.618,0,0.0796,0.00548,0.0,0.0415,0.356,99.602,4,hardcore
+18STAMRDmKWmzeYW2HFJts,Ten Foot Pole,Rev,My Wall,30,170640,False,0.376,0.983,6,-6.396,1,0.0768,0.00168,9.5e-05,0.242,0.61,102.265,4,hardcore
+6QU22LJ21MZ80apSqaN3aA,Red City Radio,Paradise,"Apocalypse, Please!",30,248850,False,0.448,0.929,11,-4.611,1,0.0398,0.000923,0.00285,0.314,0.81,125.524,4,hardcore
+05yZlAKkVk84yQG27l8zqK,Guilt Trip;Alex Exemption,River of Lies,Hand of God,30,138796,True,0.481,0.822,2,-4.976,1,0.102,0.000166,2.37e-06,0.304,0.698,155.099,4,hardcore
+309VjyrEiYNIa30wxtNuaW,Hell Is For Heroes,Punk Rock Hits,I Can Climb Mountains,29,200600,True,0.39,0.957,2,-4.393,1,0.0813,0.00217,0.000221,0.0931,0.3,87.046,4,hardcore
+4GjvPn4TXjakmMsbV66jLB,Rodox,Rodox,Beach Punx,28,270266,False,0.532,0.949,6,-4.108,1,0.0429,5.06e-05,1.13e-06,0.117,0.42,99.971,4,hardcore
+1ZOcPrrb7FIWlxXsYQLwNq,Bullet Bane,BLLT,"No Fim, Talvez",28,258771,False,0.552,0.785,6,-5.351,0,0.036,0.00333,4.82e-05,0.0743,0.206,120.026,4,hardcore
+3cZlatPOoZ4YHBV0BP9fqH,Los Prisioneros,Manzana,Eres Mi Hogar,31,290828,False,0.599,0.662,0,-9.274,1,0.0312,0.141,0.000378,0.138,0.596,149.995,4,hardcore
+1qmh0mbkXMqZCqG00slMiX,Scowl,Reality After Reality...,Petty Selfish Cretin,28,59403,True,0.245,0.978,11,-2.965,0,0.265,0.000496,0.487,0.116,0.386,89.907,4,hardcore
+08FGBIwiPxsvQKn2ksxmqX,Party Animals;The Opposites,Greatest Hits & Underground Anthems,"Dom, Lomp & Mellow - DJ Danjgo Mash-Up",29,187853,False,0.673,0.986,11,-5.249,1,0.278,0.163,3.15e-06,0.19,0.497,171.4,4,hardcore
+0nwbEO0x8BsTOytFMHiEwk,Meu Funeral,Tropicore Hardcal,Meu Funeral,28,148693,False,0.608,0.939,10,-1.038,1,0.0993,0.0652,0.0,0.126,0.74,105.984,4,hardcore
+5N3LmVCqLneS7NkmDwozXZ,Millencolin,Life On A Plate,Vulcan Ears,30,126893,False,0.319,0.875,9,-7.684,1,0.0527,0.00141,0.0,0.305,0.73,100.577,4,hardcore
+6Rf06Pelmo187lH6VTQmdN,Dead Fish,Contra Todos,Asfalto,29,231386,False,0.554,0.989,5,-4.488,0,0.0634,0.000364,2.48e-05,0.0887,0.407,105.001,4,hardcore
+65EKBhnpP78yIQKmxCDiXy,Gridiron,Loyalty At All Costs,Can't Hide Forever,28,135576,True,0.442,0.978,1,-3.335,1,0.312,0.000582,0.00037,0.0549,0.492,90.788,4,hardcore
+6LAhg6zOcLxZf9df8UxIwS,DeadSquad,Catharsis,The Black Triangle,31,212102,False,0.587,0.932,5,-3.226,1,0.0884,0.00444,0.444,0.0799,0.343,75.004,1,hardcore
+0H3yTXxl9kLJzJ7UFpX5kw,He Is Legend,Suck Out The Poison,Dixie Wolf (The Seduction Of...),28,232720,False,0.531,0.958,7,-5.826,1,0.125,0.000197,0.00216,0.294,0.363,107.822,4,hardcore
+2ntZeE54psnSSIOaAmlDlU,Lagwagon,Let's Talk About Feelings,Change Despair,30,115813,False,0.226,0.987,5,-4.51,1,0.102,0.00347,2.62e-06,0.448,0.38,108.515,4,hardcore
+58t5c86b7PajSHWvjxcnvn,Dead Fish,Ponto Cego,Receita Pro Fracasso,29,197604,False,0.399,0.925,10,-5.666,0,0.0912,0.000718,0.0,0.342,0.462,110.354,4,hardcore
+6AvpoXv2KL0rGYIcZ3v3QI,The Vandals,"Hitler Bad, Vandals Good",People That Are Going To Hell,30,134933,False,0.686,0.968,2,-5.678,1,0.113,0.105,0.0,0.0813,0.669,102.965,4,hardcore
+6VyvkeIriQxJOCOdnIOxNl,Los Prisioneros,"Ni Por La Razón, Ni Por La Fuerza (Edición Especial)",Las Sierras Eléctricas,31,261306,False,0.773,0.65,7,-11.017,1,0.112,0.0704,8.34e-05,0.648,0.607,127.594,4,hardcore
+2PlW9jZu8XOhHlhJRZa36d,Inocentes,Embalado À Vácuo,Cala a Boca,30,155186,False,0.706,0.867,8,-5.23,1,0.0434,0.0102,0.0,0.117,0.671,124.623,4,hardcore
+3A0gEDcUFMNNPJZx8ohaiR,Eterna Inocencia,A los Que Se Han Apagado,A los Que Se Han Apagado,29,143066,False,0.288,0.95,0,-2.547,1,0.0678,1.6e-05,0.699,0.113,0.715,83.619,4,hardcore
+7lgb2qegIOmODRmVJBmDo0,Seringai,Taring,"Fett, Sang Pemburu",30,255400,False,0.553,0.911,4,-4.771,1,0.038,1.75e-05,0.00837,0.13,0.276,109.95,4,hardcore
+5bATWda5AHxMPZUND4X3BQ,Cólera,Deixe a Terra em Paz!,Deixe a Terra em Paz!,30,200400,False,0.334,0.969,4,-4.732,0,0.212,0.0473,5.97e-06,0.0757,0.498,185.995,4,hardcore
+5OhsGNXNLzKlks9amdXFAw,Callejon,Hartgeld im Club (Bonus Tracks Version),Urlaub fürs Gehirn,30,213596,True,0.472,0.933,1,-5.791,1,0.0511,0.000592,0.0,0.346,0.316,159.988,4,hardcore

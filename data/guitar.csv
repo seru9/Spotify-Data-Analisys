@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+0vB4Vd6PtkJSEnWsmqATnZ,George Benson,20/20,Nothing's Gonna Change My Love for You,71,242678,False,0.553,0.614,1,-5.098,1,0.0306,0.764,0.0,0.0811,0.345,136.628,4,guitar
+37Unx14mB8QnCx0bDjtCM8,Ichika Nito,i miss you,i miss you,55,116791,False,0.631,0.489,11,-6.966,1,0.101,0.58,0.821,0.12,0.418,203.953,4,guitar
+6xKeQgzfjixSUld14qUezm,Andrew Foy;Renee Foy,ily (i love you baby),ily (i love you baby),56,129750,False,0.706,0.112,2,-18.098,1,0.0391,0.827,4.03e-06,0.125,0.414,110.154,4,guitar
+4jXvLe7ERO8yIYETDZGU0m,Finlep,Farewell Summer,Brookline,56,191869,False,0.511,0.11,2,-20.248,1,0.0769,0.987,0.947,0.11,0.13,95.946,4,guitar
+4Yo0igmcoNyat1secaH0OD,Andrew Foy;Renee Foy,At My Worst,At My Worst,54,169728,False,0.795,0.0841,10,-18.09,0,0.0461,0.742,1.17e-05,0.0853,0.609,91.803,4,guitar
+2P6Opus7hGyXkC6Pd7k1Gk,Finlep,Hitchhiking,Hitchhiking,51,178445,False,0.512,0.0529,3,-19.642,1,0.0819,0.994,0.968,0.11,0.261,145.243,3,guitar
+2iSRdZZpV8NhJOLaLdaoSD,Project AER;WYS,3 Am. Study Session,After Sunset,48,160644,False,0.682,0.105,5,-16.983,1,0.0337,0.877,0.884,0.0896,0.258,124.027,4,guitar
+5RO0MNa5hBKIM4OcjygadU,Joseph Sullinger,Chi Mai,Chi Mai,40,188695,False,0.739,0.287,6,-14.007,0,0.059,0.969,0.961,0.111,0.557,80.64,4,guitar
+6LsHKNorX6fPBNcGxU1jQZ,Andrew Foy;Renee Foy,Arcade,Arcade,37,186738,False,0.408,0.266,10,-12.9,0,0.0404,0.875,0.000498,0.104,0.35,143.651,4,guitar
+0NNep3grWO95CVGp04gMM4,Joe Satriani,Surfing With The Alien,"Always with Me, Always with You",52,202533,False,0.575,0.295,11,-12.584,1,0.0326,0.484,0.703,0.0639,0.394,144.366,3,guitar
+7Ca2CkwSqHyr3eCh8IRdjz,Agustín Amigó;Nylonwings,Mujer con Abanico,Mujer con Abanico,41,156787,False,0.769,0.135,5,-12.049,0,0.061,0.986,0.905,0.106,0.471,103.939,4,guitar
+3uAdZpIbMTtVXitHVibLMV,Andrew Foy;Renee Foy,Let Her Go,Let Her Go,38,194013,False,0.549,0.291,2,-13.457,1,0.0388,0.858,0.000846,0.129,0.376,75.153,4,guitar
+14NiShC5b46yQxBN1mu9VJ,Andrew Foy;Renee Foy,Heartbreak Anniversary,Heartbreak Anniversary,40,199256,False,0.674,0.122,1,-17.963,1,0.0427,0.882,0.0,0.139,0.339,130.014,4,guitar
+6I8EbSSjimK98wiDCMtnBQ,Blues Delight,Rock Island Line,Slightly Hung Over,54,285506,False,0.666,0.4,9,-7.324,0,0.0328,0.717,0.000334,0.342,0.395,98.781,3,guitar
+7EaZOfcQgKj53K2FPKWpIk,Valerio Castilla,Savoca,Guarisci il mio Cuore,55,189250,False,0.498,0.0749,4,-22.481,0,0.0473,0.982,0.925,0.111,0.263,106.329,4,guitar
+2oC9Ah7npALCCPW5DC1gob,Project AER;cxlt.,Growth Patterns,A Better Place,54,119999,False,0.496,0.255,9,-17.984,1,0.0283,0.937,0.845,0.0909,0.0809,141.961,4,guitar
+08OjvLnGR3M0HUhcePeMNO,Andrew Foy;Renee Foy,death bed (coffee for your head),death bed (coffee for your head),47,112008,False,0.565,0.0392,1,-28.276,1,0.045,0.835,0.183,0.117,0.601,125.399,4,guitar
+1BpMzIbVYhLfXTQe7ob2sY,Steve Vai,Alien Love Secrets,Tender Surrender,52,301066,False,0.559,0.567,4,-7.155,0,0.036,0.174,0.103,0.122,0.227,130.036,4,guitar
+5TmKvbzD7zEbZLNfhAHTar,Project AER,Journals,Where We Are,56,159389,False,0.733,0.147,9,-16.465,0,0.0393,0.902,0.883,0.114,0.0432,122.003,3,guitar
+1A7mAX9YwOxJKDfI2wxvR9,Antonio Garcia Isaac;Roberto Aguilar;Felipe Gutierrez,Trios,Cuando Me Lo Pidas,37,175000,False,0.589,0.694,4,-7.198,0,0.0516,0.832,0.868,0.1,0.947,160.288,3,guitar
+0njuNwIyB3DoBHC0SFUkOr,Andrew Foy;Renee Foy,You Broke Me First,You Broke Me First,39,128798,True,0.734,0.0423,4,-24.831,1,0.0583,0.916,0.0,0.108,0.14,123.905,4,guitar
+5m5I3KcV83zf2p2qbsnr3y,Steve Vai,Passion And Warfare,For the Love of God,54,363333,False,0.152,0.842,9,-5.783,0,0.0418,0.00347,0.912,0.115,0.283,95.49,4,guitar
+6p9wx5wdrm8a3xNp2kuxJY,Antonio Garcia Isaac;Roberto Aguilar;Felipe Gutierrez,Trios,Como Las Olas,39,171973,False,0.687,0.698,4,-9.386,1,0.0298,0.872,0.926,0.124,0.786,119.025,4,guitar
+4M7UWuLSDGn1L1ICwE5jGS,Antonio Garcia Isaac;Roberto Aguilar;Felipe Gutierrez,Trios,Mi Negra Linda,36,188894,False,0.716,0.499,0,-9.087,1,0.0336,0.87,0.924,0.105,0.604,108.002,4,guitar
+48RME2XQqVXIaH54NA4pRe,Estas Tonne,"""Strings and Stories of a Troubadour"", Live in Odeon, Vienna 2011",The Song of the Golden Dragon,48,549809,False,0.233,0.825,4,-10.095,0,0.0415,0.68,0.946,0.565,0.552,89.01,4,guitar
+1GQ3Clp4Mvs7f0qt0hLotX,Antonio Garcia Isaac;Roberto Aguilar;Felipe Gutierrez,Trios,Esta Melodia,36,188963,False,0.699,0.634,9,-5.768,1,0.0355,0.825,0.866,0.0886,0.68,118.12,4,guitar
+7hARFPoxP2e1RmHD5Y9kNe,Carlos Di Fulvio,Campo Afuera,Campo Afuera,37,180346,False,0.66,0.301,2,-11.825,1,0.0734,0.982,0.000211,0.119,0.618,147.153,3,guitar
+43qqoWGmOa8UAXJZtScAfe,Trio Ayacucho,Como Siempre Con El Mayor Cariño,Adiós Pueblo De Ayacucho,38,224773,False,0.719,0.575,7,-5.976,1,0.0898,0.742,1.7e-05,0.072,0.775,172.228,4,guitar
+7rVOU36Rgup3pFGNA4pLOy,Los Tecolines,Serenata con Los Tecolines,Canción del alma,37,153053,False,0.651,0.365,5,-11.88,0,0.0326,0.941,7.27e-05,0.177,0.843,112.498,4,guitar
+6xDMG7dUbNef54zbmAi8WT,Los Apus,Tengo Que Olvidarme de Tí,Tomando por Tí,38,294923,False,0.595,0.733,11,-3.216,1,0.0864,0.487,0.0,0.0766,0.744,127.029,3,guitar
+2n7NBbbEIyUo9tNZ963ivB,Los Apus,El Imperio de los Apus,Challwaschallay,37,254506,False,0.658,0.519,6,-4.819,0,0.052,0.665,9.97e-05,0.317,0.882,139.099,4,guitar
+5IfoSbqqCzdEBHjFRhxT0s,Los Tres Caballeros,Los Tres Caballeros,Demasiado Tarde,35,190566,False,0.65,0.414,3,-9.283,1,0.035,0.838,0.00171,0.0807,0.639,95.728,4,guitar
+3c7Doe67vpPgqUo2uRFyVO,Yngwie Malmsteen,Nordic Metal,Leviathan,0,266040,False,0.224,0.938,7,-8.08,1,0.121,0.0101,0.785,0.554,0.162,109.835,3,guitar
+1LITEucmmkPrWQPfI6vFbW,Cuco Sánchez,Tesoros De Colección,Guitarras Lloren Guitarras,35,160773,False,0.534,0.0338,7,-16.691,1,0.0395,0.968,0.00103,0.111,0.333,100.481,4,guitar
+5k9C5fzQQIAdQ5eJp6N3Jy,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 2,Besos de Plata,37,169280,False,0.576,0.292,2,-9.575,0,0.0388,0.855,2.52e-06,0.0856,0.576,165.073,3,guitar
+3En4Hdu47sKNbRaE3LVCpE,William Luna,Mírame,Linda Mi Cholita,38,209826,False,0.452,0.301,10,-12.254,1,0.0366,0.275,0.0,0.0933,0.111,84.055,4,guitar
+3KSqeds9xE8rBDt4QEjrLk,Los Tecolines,Los Tecolines: Bolero Romantico,Prisionero Del Mar,41,183771,False,0.711,0.283,4,-17.24,1,0.0342,0.922,0.0499,0.145,0.812,128.34,4,guitar
+02QyMATEldBNw7nZgufmsY,Los Apus,Sunquyparurun,Llanto por Llanto,36,383306,False,0.767,0.639,10,-2.39,1,0.0893,0.689,6.02e-05,0.0791,0.534,72.569,5,guitar
+0HixGNQWQEzQXFLNEtcHjy,Miloš Karadaglić;Ksenija Sidorova;Studioorchester der Europäischen FilmPhilharmonie;Christoph Israel,En la nada,Cuatro Tangos: Libertango - Latino Gold Version,0,181400,False,0.444,0.289,9,-17.234,0,0.0578,0.868,0.503,0.0806,0.284,153.79,4,guitar
+1zzsrJb2btZVV6EoBP2frT,Los Tecolines,Los Tecolines: Bolero Romantico,En Que Quedamos Por Fin,38,160705,False,0.78,0.416,4,-15.182,1,0.0509,0.748,0.000306,0.125,0.836,129.28,4,guitar
+75dIoAfqSCBaPggErlHT2d,Los Tecolines,Serenata con Los Tecolines,Sábelo bien,37,162373,False,0.771,0.399,10,-10.167,1,0.0453,0.724,1.28e-06,0.0968,0.593,102.72,4,guitar
+2tp2urheCpgDbkqfoaD0U1,Los Tecolines,Los Tecolines: Bolero Romantico,Albricias,36,140146,False,0.751,0.405,9,-14.941,1,0.0384,0.716,0.00593,0.143,0.729,130.666,4,guitar
+41kpaTpw314JvZEbZzqMAR,Cuco Sánchez,Tesoros De Colección,Qué Manera de Perder,37,141133,False,0.49,0.0909,5,-13.493,1,0.0581,0.974,3.9e-06,0.103,0.257,108.158,5,guitar
+5DWjEIZr5Rnw32lLRbC2AF,Los Tecolines,Serenata con Los Tecolines,Besos de Plata,41,169280,False,0.576,0.292,2,-9.575,0,0.0388,0.855,2.52e-06,0.0856,0.576,165.073,3,guitar
+7AEK6B5oWFgH5Du9nzINgr,Cuco Sánchez,Las Canciones de Cuco Sánchez,La Valentina,36,123453,False,0.524,0.267,1,-12.027,1,0.0626,0.898,3.15e-06,0.106,0.383,81.274,4,guitar
+29GHADkjBmjZhpsGpQupLg,John Williams;Byron Nelson High School Symphony Orchestra;Gary Keller,2021 Midwest Clinic: Byron Nelson High School Symphony Orchestra (Live),"Raiders March (From ""Raiders of the Lost Ark"") [Live]",1,336786,False,0.423,0.225,0,-19.141,1,0.0407,0.874,0.792,0.735,0.299,121.252,4,guitar
+2FmYKtcSZbKUIDbIu6UalF,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Grítenme Piedras del Campo,41,173400,False,0.379,0.194,0,-14.048,1,0.0722,0.607,0.0,0.362,0.738,177.168,3,guitar
+6AL5LBZf5MA7cjZvm40fpg,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Anillo de Compromiso,42,194200,False,0.569,0.0507,0,-17.021,1,0.054,0.889,0.0,0.0679,0.298,117.579,3,guitar
+1SqPEF00fi5Ed7Ak5IKeXh,Joaquín Rodrigo;Miloš Karadaglić;London Philharmonic Orchestra;Yannick Nézet-Séguin,Classical Running,Concierto de Aranjuez for Guitar and Orchestra: 1. Allegro con spirito,0,357573,False,0.519,0.142,2,-20.175,1,0.0375,0.954,0.938,0.131,0.296,125.705,3,guitar
+3agHxWiFTSPZzTgW4mgGwL,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Nuestro Gran Amor,37,171506,False,0.444,0.0811,10,-17.278,1,0.0355,0.927,0.0,0.148,0.247,96.216,3,guitar
+4o6J43bSBDERckXBIpVmye,Ichika Nito,Away,Away,48,124096,False,0.254,0.253,1,-11.004,0,0.0391,0.785,0.392,0.0883,0.171,168.282,4,guitar
+2S1IGjykXoLfYNVB9oruBr,Ichika Nito;Mr. Chase,Branching Paths,Branching Paths,47,134057,False,0.446,0.579,0,-8.442,0,0.0389,0.247,0.382,0.0886,0.526,185.354,3,guitar
+6WILUI0L14PiToUh7fNVDf,Ichika Nito,N I T O,Ethereal Feel,51,82979,False,0.388,0.299,2,-15.181,1,0.04,0.918,0.73,0.118,0.376,99.054,4,guitar
+0wqeaDeaKq14IuQESPqBEJ,Kuana Torres Kahele;Napua Greig;James Ford Murphy,"Lava (From ""Lava"")",Lava,60,346493,False,0.478,0.212,0,-13.124,1,0.0516,0.938,0.0,0.587,0.431,74.643,4,guitar
+3kzMcBgOeIzwNQW2VTJQcF,Ichika Nito,Journey,Isolation,48,154767,False,0.709,0.381,10,-8.049,0,0.0384,0.858,0.593,0.112,0.26,139.765,4,guitar
+03JFWSxq5pj3z1kkp9cXOQ,Ichika Nito,Awakening,Awakening,49,117502,False,0.255,0.31,4,-11.429,0,0.0357,0.968,0.909,0.11,0.172,89.836,4,guitar
+1FF6TogE9ELY71XnLPoEv6,Andrew Foy;Renee Foy,Just The Two Of Us,Just The Two Of Us,41,196304,False,0.618,0.083,4,-23.665,1,0.057,0.745,0.000123,0.146,0.597,90.865,4,guitar
+72dTSVm9IsZD0eYft7H7XV,Antonio Garcia Isaac,Elegia,Elegia,53,148000,False,0.482,0.0685,2,-22.069,1,0.0868,0.991,0.934,0.109,0.221,103.099,4,guitar
+0xlyMQ56pZAoGuLCs7GH90,Andrew Foy,Love Nwantiti,Love Nwantiti,30,129032,False,0.48,0.158,8,-15.239,1,0.0807,0.809,0.886,0.117,0.498,86.107,4,guitar
+1bsSaYmy0vOUH8tux2hAYV,From Overseas,Looking at the World Through a Window,Looking at the World Through a Window,51,385000,False,0.142,0.112,4,-20.806,1,0.0407,0.906,0.967,0.0751,0.05,101.366,4,guitar
+6EOpjNGn34eXLJASVcUksY,De Moi,Wu Wei,Wu Wei,61,169382,False,0.218,0.0293,0,-31.517,1,0.0425,0.951,0.565,0.228,0.037,68.836,3,guitar
+0Bv0qHGKNiwzDtHzXrjmIn,Sungha Jung,Irony,River Flows In You,42,214466,False,0.356,0.23,6,-16.957,0,0.0519,0.923,0.801,0.112,0.11,129.532,4,guitar
+612dMYgROLM8ZTF7ucY41U,Josephine Forrester,Silent Sigh,Silent Sigh,51,165454,False,0.605,0.153,4,-14.901,0,0.0637,0.977,0.865,0.102,0.261,111.086,4,guitar
+0PINNy1r5eEILOuHpnjl5d,Estas Tonne,Internal Flight (Remastered),Internal Flight (Remastered),47,3876276,False,0.3,0.64,4,-9.266,0,0.0367,0.946,0.893,0.0783,0.212,159.624,4,guitar
+4Z109P3vVF3jVEOXbrR3wO,Marcel Depuis,Largo Rv. 443 For Guitar,Largo Rv. 443 For Guitar,52,165021,False,0.799,0.105,4,-15.807,0,0.0618,0.949,0.398,0.105,0.326,132.002,3,guitar
+7wu8kCBLnGmhIGGiT14yWr,Las Perlas Negras,Mallorca,Mallorca,31,177000,False,0.573,0.179,9,-15.424,0,0.099,0.981,0.929,0.112,0.125,145.233,3,guitar
+0MGktjEGcTSHA3Me5BHP8V,Kiko Revatta,Ayacucho En El Corazon De Todos Vol. 1,La Rosa Roja,32,192960,False,0.545,0.57,9,-6.465,0,0.0477,0.623,2.72e-05,0.115,0.795,78.686,4,guitar
+1pV4cJaYl9ovK0GcSjH1hy,Eddy Tyler,Guitar Instrumental Covers,A Thousand Years,43,279916,False,0.586,0.396,10,-9.953,1,0.0319,0.896,0.543,0.0992,0.16,142.591,3,guitar
+1UGByl4bwfMfkQKC41Pmc2,Trio Ayacucho,Trio Ayacucho,Palomita Encantadora,33,148333,False,0.666,0.53,4,-5.048,0,0.0456,0.825,0.0756,0.077,0.645,65.575,4,guitar
+3tHZ3h8BXr7Bj2qJMvTjly,Los Apus,Tengo Que Olvidarme de Tí,Dime Porqué,35,357956,False,0.717,0.656,3,-4.15,1,0.0474,0.647,0.0,0.087,0.569,93.003,4,guitar
+6BuUQ0PTBKyfc2AzGUNiBA,Oscar Roland,Isla de Pascua,Isla de Pascua,31,170847,False,0.477,0.138,7,-17.144,1,0.0605,0.955,0.932,0.109,0.517,86.621,4,guitar
+5vCqKAdINwpP8LUJT1o39z,Claudio Estrada,El Último Trovador,Albricias,31,143093,False,0.67,0.0334,4,-25.358,1,0.0424,0.716,1.68e-06,0.132,0.769,114.176,4,guitar
+3Oi0avSYPw3ZAkemFGwr6U,Little Symphony,Sombrio,Torne,33,88010,False,0.187,0.0383,9,-24.141,0,0.0485,0.879,0.986,0.113,0.0965,80.189,3,guitar
+4aidYt8pl6BbRLmSxJUwzS,Los Apus,Tengo Que Olvidarme de Tí,Que Me Importa a Mí,35,284239,False,0.714,0.826,10,-3.463,1,0.0348,0.452,0.0,0.238,0.865,100.297,4,guitar
+2ekfM9Dcslm7l9Lh7HGT0i,Joe Satriani,Surfing With The Alien,Surfing with the Alien,55,266386,False,0.392,0.936,5,-6.532,1,0.0849,0.000221,0.839,0.407,0.564,167.333,4,guitar
+2xtVidhCrrm5RQlgfGiskm,Jesse Cook,The Rumba Foundation,Afternoon at Satie's,34,197093,False,0.679,0.474,4,-13.223,0,0.043,0.941,0.922,0.11,0.441,102.292,4,guitar
+3HmLLvBwJhsYChABzWH9Of,Edwin Montoya,Mis Éxitos Eternos Vol. 2,Adiós Pueblo De Ayacucho,35,210560,False,0.669,0.533,9,-9.805,1,0.054,0.72,0.0104,0.054,0.891,87.475,4,guitar
+5t6HblLYoQipITHnwYhCMV,Mikis Theodorakis;Francesco Diaz,"Chill Out Mood, Vol. 4",Lost In Phaedra,0,402000,False,0.344,0.2,10,-15.859,1,0.034,0.785,0.162,0.374,0.049,119.887,4,guitar
+1wHspM1C0aVMyT1uc3op7Z,Jesse Rice,Somethin' Strong,Sweet Kinda Summer,32,225653,False,0.518,0.785,8,-7.684,1,0.0338,0.392,0.0,0.116,0.945,200.04,4,guitar
+1t5zaioi3VUJF0eYjBX2II,Dúo Hnos. Gaitán Castro,Elegia,"Mi Propuesta (Amor, Amor)",33,258453,False,0.603,0.485,7,-7.631,1,0.0452,0.747,0.00022,0.109,0.551,77.074,4,guitar
+3w1qIR3HGTyvfBU88QGKsI,Henrik Janson,Classical Baby Sleep Music,Sleep You Little Videyoung,32,177774,False,0.546,0.0973,9,-17.154,1,0.065,0.955,0.914,0.116,0.191,175.938,4,guitar
+6zJosLapehyU5KCba2KYK0,Tinariwen,Best Afropop Tunes,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+4QIjnRz7NIkadIPXQyB3UY,Tinariwen,Africa Rising Vol.5,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+0qfTkSm2s3tgcgoqeOQf52,Pepe Jara,El Trovador Solitario,Seguiré Mi Viaje,33,147933,False,0.722,0.214,7,-13.461,1,0.058,0.968,0.0119,0.169,0.552,92.417,4,guitar
+2HrPkiR1JrB1AfyuzFVU2o,Los Tres Caballeros,20 Éxitos,Demasiado Tarde,32,218440,False,0.701,0.398,2,-9.312,1,0.0508,0.791,2.03e-05,0.0959,0.768,86.987,4,guitar
+5s9oA81JecmYUprY7NbjDb,Bill Frisell,ZEN 2022,Fifty Years,0,246093,False,0.325,0.217,9,-11.661,0,0.0275,0.918,0.903,0.109,0.0733,85.426,3,guitar
+4ioxu5idXBbD7HOr5129Al,Pepe Jara,El Trovador Solitario,El Andariego,33,166306,False,0.563,0.241,7,-14.989,1,0.0493,0.915,0.000359,0.101,0.73,89.913,3,guitar
+5k7NEBk8g8fbtgPovYj0dr,Mikis Theodorakis;Francesco Diaz,Balearic Deep-House Winter 2022,New Days (Sinking Soul),0,438000,False,0.527,0.353,2,-9.568,0,0.0384,0.477,0.836,0.124,0.058,125.98,4,guitar
+6w624TYTyYP8jn5Xhc0yxx,Los Tecolines,12 Grandes exitos Vol. 1,Ahora y siempre,34,173146,False,0.753,0.564,2,-6.844,1,0.0363,0.906,2.96e-05,0.12,0.781,105.686,4,guitar
+76tnYB0rfmgSFi7L4uYB7J,Tinariwen,Afrodance 2022,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+2j8bhTAfGOGP4TJGbO7hR0,Tinariwen,Afrobeats 2022,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+3xwTmeS0swuFXpyEoEUjNr,Tinariwen,Afropop 2022,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+4aChMGqE8sfqt97CZAvXKa,Tinariwen,Africa Rising Vol.1,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+1E16CnSPStnHdNLEO7cj8j,Tinariwen,Best Afrodance Tunes,Cler Achel,0,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+4wSmIPQYPWbR72mnkpyBLK,Baden Powell,Ressaquinha,Se todos fossem iguais a você,0,259773,False,0.378,0.201,7,-13.472,1,0.039,0.939,0.927,0.562,0.0775,94.768,3,guitar
+3kQGc4iGdHbTBVmFVWyUFf,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",La adelita,32,176040,False,0.523,0.194,6,-17.132,1,0.0561,0.919,0.0,0.16,0.666,135.977,3,guitar
+6t8AgAr4upD9KZ3rmSSS20,Cuco Sánchez,Cuco Sanchez Sentimiento Mexicano,Del Cielo Cayó una Rosa,32,175260,False,0.598,0.28,0,-17.44,1,0.0299,0.763,0.0,0.425,0.681,105.217,4,guitar
+1xU4U0HkoKrDAkKxbTbda6,Kenny Burrell,Ultimate Calm Christmas Jazz,Merry Christmas Baby,0,205053,False,0.499,0.17,8,-15.412,0,0.0422,0.862,0.00108,0.085,0.269,94.45,3,guitar
+1Ml3WKPxXfBnwcAScFGrdf,Kenny Burrell,Ultimate Calm Christmas Jazz,"God Rest Ye, Merry Gentlemen",0,227920,False,0.334,0.47,7,-12.588,0,0.0322,0.941,0.967,0.127,0.623,51.206,4,guitar
+7tCt1AuiT5RCg1GFrtCDu2,Kenny Burrell,Christmas Background Music,"God Rest Ye, Merry Gentlemen",0,227920,False,0.334,0.47,7,-12.588,0,0.0322,0.941,0.967,0.127,0.623,51.206,4,guitar
+6edhH1ReEB3qlocFz34kIO,Ichika Nito,N I T O,Orb,47,204261,False,0.42,0.125,3,-18.064,0,0.0393,0.963,0.874,0.0908,0.122,169.893,4,guitar
+5oDDFjWMz0KiMmRzWSFfQ6,AcousticTrench,Paradise,Paradise,42,170125,False,0.507,0.191,5,-16.342,1,0.0408,0.99,0.933,0.108,0.221,132.131,4,guitar
+2Er1pZzcQHCLIAGdwuKhhb,Maneli Jamal,Beauty of Flow,Light,30,121500,False,0.786,0.303,3,-12.043,1,0.0718,0.957,0.888,0.108,0.185,95.013,4,guitar
+7fVXvGVuU3deZVmMAVz8Gz,Daniel Kaede,For What Awaits,Japanese Dawn,40,161080,False,0.651,0.115,2,-11.7,1,0.0451,0.88,0.896,0.128,0.267,136.153,4,guitar
+09Z0fc2bC2g5X5fhOklDbF,Henrik Janson,Milano,Milano,51,112402,False,0.732,0.203,9,-15.957,0,0.0651,0.943,0.682,0.113,0.383,119.805,4,guitar
+4CFlaEtdgeu4mFmnUApAyl,Erik Reno,I Blomstertid,Bortom Träden,49,260564,False,0.446,0.0586,8,-26.416,1,0.0416,0.801,0.85,0.0876,0.111,124.019,4,guitar
+0tL8cNoUgDw6Yr9GKNO6SS,Los Amores Recientes,Villa Traful,Villa Traful,50,191500,False,0.425,0.137,2,-15.965,1,0.0843,0.985,0.956,0.117,0.232,180.524,4,guitar
+2yf1ibNuXk2VwKyGCIIpmA,Erik Reno,Summer Tales,Silver Lining,49,188933,False,0.471,0.138,11,-23.623,1,0.0351,0.877,0.878,0.103,0.0493,135.934,4,guitar
+5f47RLk3HgmaCBrhI9Ibrf,Toledo Heights,A Few Reasons,A Few Reasons,50,151940,False,0.64,0.0675,9,-23.425,1,0.0493,0.964,0.926,0.111,0.327,158.678,4,guitar
+7dsDIENmLdbXdjbkzCMxAT,Dieter Huber,Adrienne,Zitronen Garten,49,143058,False,0.435,0.0767,9,-16.805,1,0.0498,0.992,0.9,0.123,0.178,77.242,1,guitar
+0N7UyDRbyHe2L63ilYDcRK,Andrew Foy;Renee Foy,Afterglow,Afterglow,33,211358,False,0.711,0.168,0,-16.504,1,0.0367,0.868,1.99e-05,0.114,0.299,109.937,4,guitar
+07ulGbvQJporStcKaTxnaY,Azur,Pescadores,Outerinho,50,185351,False,0.636,0.0821,9,-18.707,0,0.106,0.99,0.937,0.116,0.463,87.379,4,guitar
+11n8LudggXuZXmldSlAadR,Hammock,Raising Your Voice... Trying to Stop an Echo (Deluxe Edition),I Can Almost See You,52,255335,False,0.0748,0.523,4,-8.069,1,0.0354,0.782,0.866,0.0886,0.0383,74.195,3,guitar
+2OQ8WuB2K93XqZhwCh6aSv,Kaspar Mann,Ordino,Ordino,49,157779,False,0.631,0.183,9,-17.128,1,0.0846,0.994,0.929,0.113,0.399,83.481,1,guitar
+05tj0VFJS02yNTQd4GRy1C,Ceriumidis,Camino Del Sol,Camino Del Sol,30,145635,False,0.534,0.128,7,-18.077,1,0.0539,0.984,0.895,0.118,0.288,105.385,4,guitar
+2NrqjA3YUfNuZcmQzE2EJe,Joe Satriani,Flying In A Blue Dream,Flying in a Blue Dream,48,323066,False,0.499,0.775,0,-5.4,1,0.0323,0.0502,0.806,0.15,0.0825,126.923,4,guitar
+3VgYGwa03GGyYwKjHtJqrQ,John Scofield;John Mayer,That's What I Say (Int'l Online/Yahoo Exclusive),I Don't Need No Doctor,44,269840,False,0.663,0.545,11,-8.504,0,0.0733,0.502,0.031,0.0634,0.758,171.006,4,guitar
+0fYD8SjWh0UWCMrkRkCvtU,Dúo Ayacucho,Torcaza,Torcaza,31,254848,False,0.668,0.494,0,-5.136,1,0.0354,0.85,0.0,0.101,0.362,72.007,4,guitar
+6AmhUIvNyevwaoy2D73OxJ,Henrik Janson,Musica Di Bambino,Sleep You Little Videyoung,49,177774,False,0.546,0.0973,9,-17.154,1,0.065,0.955,0.914,0.116,0.191,175.938,4,guitar
+3gXzbrTZisEUIlDq86ZV9B,Kiko Revatta,Ayacucho En El Corazon De Todos Vol.2,Tu Eres,31,204026,False,0.599,0.585,7,-6.506,1,0.0521,0.643,2.68e-05,0.16,0.845,79.006,4,guitar
+0DRR9F3to4Luddk7m8pXmH,Henrik Janson,Classical Baby Sleep Music,Gymnopédie No. 1,30,174756,False,0.851,0.0294,8,-21.475,1,0.0646,0.95,0.916,0.104,0.102,79.443,3,guitar
+16qpwUfKEa6FImzuRv6y4C,Los Indios Tacunau,Grandes Exitos,Del Algarrobo al Ombu,30,147426,False,0.545,0.697,8,-8.325,0,0.0342,0.876,0.00578,0.0701,0.769,149.845,1,guitar
+4ZIzKq2ZKlaTRAbwghPAiM,Hapa,Namahana,Ku'u Home O Kahalu'u,29,301000,False,0.548,0.365,4,-9.539,1,0.0288,0.795,5.91e-06,0.0988,0.358,116.797,4,guitar
+5FBf12F4ry9TXoZAvISu6F,Wes Montgomery,A Day In The Life,A Day In The Life,55,349906,False,0.483,0.364,9,-10.78,0,0.0265,0.564,0.299,0.0542,0.349,98.445,4,guitar
+5sCOZZTL08L6Tlos7Xd5v0,Dúo Ayacucho,Torcaza,Contigo Aprendí,31,275342,False,0.712,0.635,4,-3.769,0,0.031,0.778,0.0,0.392,0.778,88.269,4,guitar
+4QJ4AGqVMGrVCXtPBmzldQ,Los Apus,El Imperio de los Apus,Sirwana,31,239853,False,0.589,0.591,6,-4.715,0,0.0441,0.693,0.00332,0.0934,0.674,89.609,4,guitar
+4a0U3oeSqvEVbVaYKgOcJy,João Gilberto,João Gilberto,Este Seu Olhar,31,133816,False,0.591,0.0308,4,-20.298,1,0.0494,0.953,3.3e-06,0.109,0.369,132.954,4,guitar
+0OiEdiGsyIfGZE0T8XkZCz,Dúo Romances,Perdidos y Olvidados,Carnavales Apurimeños,30,358266,False,0.772,0.868,9,-3.961,1,0.0558,0.778,0.000107,0.198,0.741,108.058,5,guitar
+6NZYF81lXOvuSp52ArfGnU,Mikis Theodorakis;Francesco Diaz,"Chill Out Mood, Vol. 4",Lost In Phaedra,0,402000,False,0.344,0.2,10,-15.859,1,0.034,0.785,0.162,0.374,0.049,119.887,4,guitar
+7z9UGTOKk4iGOu9uKQiOd8,Duo Retama,Wistu Vida,Quien No Lloro por Amor,30,271786,False,0.345,0.545,7,-6.957,1,0.0419,0.856,0.0449,0.177,0.529,81.38,4,guitar
+2JeKv9CCQcbpYQkgzSuQ3c,Henrik Janson,Classical Baby Sleep Music,Arioso From Cantata BWV 156,30,205049,False,0.721,0.135,1,-16.671,1,0.0505,0.954,0.708,0.106,0.212,132.119,4,guitar
+3IRGxNmwXy8aLIga8H8jYL,Speedy West,Guitar Spectacular,Space Man In Orbit,29,117720,False,0.636,0.622,6,-10.073,1,0.0486,0.776,0.211,0.319,0.792,118.241,4,guitar
+4zuBrgki6nJ8SaE8YAcnuq,Henrik Janson,Classical Baby Sleep Music,Moonlight Sonata,30,140624,False,0.673,0.294,11,-13.874,0,0.047,0.94,0.928,0.115,0.462,143.934,3,guitar
+3fIMrnu2RWhlQ7Gt3Y2849,Jerry Byrd,Hawaiian Summer: 50 Songs for a Hula Beach Party (Or for Drifting Away to Paradise in a Hammock),Beautiful Kahana,29,155293,False,0.396,0.233,9,-13.781,0,0.0334,0.969,0.887,0.127,0.0966,131.923,4,guitar
+401z0loExHONDFVq90G9Yo,William Luna;Julio Humala L,En Serio... Huaynos por Siempre,Flor de Retama,32,262160,False,0.759,0.508,0,-4.557,1,0.0413,0.488,0.00341,0.151,0.604,77.084,1,guitar
+3gEkVVsML119pGjMVDujAG,Henrik Janson,Classical Baby Sleep Music,O Mio Babbino Caro,30,169905,False,0.809,0.0804,7,-12.804,1,0.0554,0.903,0.869,0.126,0.208,107.918,3,guitar
+7z2HklwFJmoqkSWpQaJu9S,Los Apus,Huk Sunqulla Apukunamanta,Mi Escritorio,32,312946,False,0.609,0.747,10,-3.835,1,0.031,0.386,0.00272,0.0893,0.646,84.221,4,guitar
+3ouKfFUeTpCHPAqxhi0pCK,Pepe Jara,Pepe Jara Interpreta A Alvaro Carrillo,Como Se Lleva Un Lunar,31,182308,False,0.583,0.229,9,-12.061,0,0.0658,0.882,0.00108,0.0837,0.302,98.037,4,guitar
+2z6PQ65b5pTBnI8lqMMwrR,William Luna;Magaly Solier,Nuestra Promesa,Nuestra Promesa,33,290853,False,0.573,0.743,10,-6.573,1,0.121,0.747,0.0,0.0734,0.729,143.971,4,guitar
+0mdesrM7UZZuDAu8RjBkMy,João Gilberto,"O Amor, O Sorriso e a Flor (Ultimate Mix)",Meditação - Ultimate Mix,33,106110,False,0.425,0.382,2,-9.296,1,0.0332,0.856,0.0,0.201,0.337,79.12,4,guitar
+6sWIj2kwLRauUvPPALf8LO,Antonio Bribiesca,Los Éxitos de Antonio Bribiesca Y su Guitarra Mexicana,La Que Se Fue,29,119266,False,0.71,0.134,7,-19.818,1,0.407,0.917,0.887,0.102,0.433,108.746,4,guitar
+78Tj6yVUGNVnxS0raDkRQS,Los Tres Caballeros,El Disco de Oro,Noche No Te Vayas,30,201795,False,0.747,0.401,4,-10.507,0,0.0583,0.776,0.00047,0.122,0.636,81.019,4,guitar
+1eNUWUVwveW0TFN5xOHXUm,Cuco Sánchez;Dueto America,Una Noche Serena y Oscura,Una Noche Serena y Oscura,31,187454,False,0.431,0.295,3,-12.544,1,0.0379,0.816,4.21e-06,0.198,0.421,161.728,3,guitar
+0G35JrHAh7E6KtVC11eDv4,Los Tres Caballeros,Los Tres Caballeros,Dónde Estás,30,169819,False,0.784,0.461,3,-7.393,0,0.0321,0.842,1.74e-05,0.0965,0.841,91.919,4,guitar
+498kP94D58Alzxrx7tJmbe,Jesse Rice,The Pirate Sessions III,Too Drunk to Meet Jimmy Buffett,30,219848,False,0.697,0.663,7,-6.035,1,0.0373,0.191,0.0,0.357,0.82,132.015,4,guitar
+2FQYw0yBlvs0Fcdfcju9pd,Cuco Sánchez,El Mariachi,Cargando Con Mi Cruz,31,139386,False,0.54,0.219,7,-10.054,1,0.0293,0.387,0.0,0.247,0.366,81.87,4,guitar
+4Im0speRB37D00RNeKpMk3,Los Tres Caballeros,RCA 100 Anos De Musica - Segunda Parte (40 Diferentes Grandes Trios - Unica E Inigualable Coleccion),El Preso Número 9,30,186013,False,0.611,0.436,2,-6.819,0,0.0505,0.859,6.94e-06,0.0994,0.573,123.499,3,guitar
+6pC4GKw5YXDfCbbn9DtS4Y,Cuco Sánchez,"Allá en el Rancho Grande, Vol. 20",Tu Solo Tu,30,200594,False,0.485,0.191,2,-11.534,1,0.0368,0.9,0.0,0.178,0.396,141.366,4,guitar
+4DEBVwir66SDQzE51LBRz9,Cuco Sánchez,Tesoros De Colección,Anoche Estuve Llorando,31,200600,False,0.441,0.143,3,-12.719,1,0.0373,0.982,0.0,0.1,0.215,94.251,3,guitar
+0Dn20BA3pLwAsZYpYYF9RD,Cuco Sánchez,El Mariachi,Aquella Noche,30,157053,False,0.488,0.334,2,-9.969,1,0.0311,0.408,0.0,0.398,0.443,88.812,4,guitar
+4azoV50K4s4eBkGRHSVWYV,yutaka hirasaka,breath,eau,46,223520,False,0.667,0.329,5,-15.775,0,0.0298,0.936,0.942,0.104,0.428,128.015,4,guitar
+3RlwtjeKhemCfiPvwMFozS,Matthew Harvey,Malibu,Malibu,47,150405,False,0.435,0.154,6,-21.451,1,0.0367,0.977,0.85,0.0728,0.0799,148.1,4,guitar
+0hWwkzGh6NBfMonE36029l,Estas Tonne;Istvan Sky;Pablo Arellano,The Song of the Butterfly,The Song of the Butterfly,41,1013410,False,0.275,0.204,0,-17.649,0,0.054,0.929,0.724,0.052,0.0388,83.154,4,guitar
+6mueyqJyIsSTHJBZaR6b2n,John A. Nilson,Tarregas Bodega,Tarregas Bodega,50,89698,False,0.579,0.0612,9,-18.955,1,0.207,0.907,0.685,0.0906,0.0383,147.056,5,guitar
+6xTLXrdNqOTcTUHwPh8Wp1,Edy Hafler,Game of Thrones,Game of Thrones,41,89268,False,0.34,0.309,11,-12.98,0,0.05,0.855,0.903,0.168,0.153,176.899,3,guitar
+5UkCU9C0YGZHNwPIcGD3Up,Ivan Bielsa,Struck By Clouds,Struck By Clouds,51,117096,False,0.648,0.0331,11,-17.582,0,0.0822,0.961,0.973,0.108,0.118,114.02,4,guitar
+4z9WDbNAKo2wAfGaMn7yjh,Andrew Foy;Renee Foy,Before You Go,Before You Go,36,195535,False,0.609,0.0866,4,-19.163,1,0.0412,0.912,0.0,0.113,0.411,167.892,3,guitar
+4fRzYHQgupApAZg4zCYQvD,Wes Montgomery,Pretty Blue [2-fer],Days Of Wine And Roses,30,228453,False,0.473,0.0504,7,-20.933,0,0.0371,0.985,0.901,0.0888,0.172,89.185,3,guitar
+69yz6UcfUHCi795treLj3l,Acoustic Guitar Collective,"Golden Covers, Vol. 2",Perfect,39,192397,False,0.559,0.118,7,-16.34,1,0.0421,0.979,0.935,0.109,0.289,97.1,4,guitar
+0lIee3QNGXfs0AVJr29yIo,Antonio Garcia Isaac,La Fogata,La Fogata,28,152213,False,0.805,0.333,4,-13.106,1,0.0527,0.951,0.884,0.0979,0.421,122.54,3,guitar
+17KTNaAmbY9tLeOXoKpGLk,Estas Tonne;Peia,"Anthology, Vol. I & Vol. II (Live)",Bird’s Teardrops (Live),43,275407,False,0.406,0.354,4,-11.101,0,0.0282,0.865,0.916,0.117,0.139,95.609,4,guitar
+3CqV5uSdPvj5Ux3E8Idusc,Eddie van der Meer,Anime Songs #3,"Sad Theme (From ""One Punch Man"")",37,81000,False,0.487,0.162,11,-11.238,0,0.106,0.933,0.829,0.117,0.49,82.33,4,guitar
+1CtfA9JkJ5cJQgpO7wEj4V,Beyond The Guitar,"Guitar Covers, Vol. 2","He's A Pirate (From ""Pirates of the Caribbean"")",30,163813,False,0.57,0.454,2,-7.613,0,0.0987,0.881,0.889,0.0983,0.381,101.476,4,guitar
+0VYl6MeDfICsBCiopYfv0a,Las Lagrimas,Nostalgias De Buenos Aires,Nostalgias De Buenos Aires,28,197750,False,0.542,0.143,9,-13.06,1,0.0617,0.976,0.928,0.101,0.25,79.413,4,guitar
+1XEYkaVYMC6bT5LRmVn4Aq,Kiko Revatta,Ayacucho En El Corazon De Todos Vol. 1,Plegaria,29,221026,False,0.521,0.526,7,-6.87,0,0.0349,0.552,0.00156,0.198,0.577,107.663,3,guitar
+5KOeXkrWeMFm5VnyeUglk2,Fathomsong,Effervescence,Fields of Tailgrass,28,165000,False,0.525,0.105,9,-20.978,1,0.0628,0.914,0.802,0.129,0.173,106.669,4,guitar
+49v6EzdXZ6WEhuw1E2div1,Duo Retama,El Poder Andino,Seda Pañuelo,29,274346,False,0.751,0.817,2,-3.825,1,0.0356,0.601,2.35e-05,0.152,0.784,102.048,4,guitar
+7cyhOLWFcn81cithGuEpJ2,Luis Salinas;Juan Salinas,El Tren: Sólo Salinas,Dulce,29,359466,False,0.49,0.225,11,-12.554,0,0.0381,0.935,0.892,0.11,0.294,84.011,4,guitar
+19rQxLjd9KJTmZRx9XLzac,Las Tres Cuerdas,Contigo Siempre Es Mejor,Contigo Siempre Es Mejor,28,198250,False,0.49,0.16,2,-12.77,1,0.0525,0.977,0.921,0.126,0.234,80.545,4,guitar
+690PE50BbeUc6jApItiYZ6,Little Symphony,Sombrio,Lefnui,28,90000,False,0.169,0.0153,7,-26.169,1,0.0648,0.884,0.98,0.119,0.0822,119.147,3,guitar
+19TSZedtW2YMsqkYeVleCv,Little Symphony,Sombrio,Ascar,28,124118,False,0.108,0.0712,7,-25.938,1,0.0479,0.795,0.921,0.131,0.0447,61.885,5,guitar
+6KuIO7Ya84QfWoR0JLXn6B,Little Symphony,Sombrio,Sirion,28,127467,False,0.115,0.43,2,-26.167,1,0.06,0.879,0.978,0.119,0.362,95.325,4,guitar
+550MEmYcTFJMnIPzcnbvmo,Brasil Guitar Duo,Bom Partido,Doce de Coco,28,288226,False,0.389,0.505,7,-13.613,1,0.042,0.959,0.929,0.109,0.764,164.292,4,guitar
+6ad67wY8OesUpHRsgLcDEz,Dúo Ayacucho,Torcaza,Para un Viejo Corazón,30,206639,False,0.601,0.716,0,-2.8,1,0.0389,0.796,0.0,0.227,0.622,75.801,4,guitar
+3aEgOBvLwmoTDepIFdcHQp,Henrik Janson,Classical Baby Sleep Music,Menuette,29,143893,False,0.88,0.075,1,-17.241,1,0.0774,0.895,0.853,0.1,0.201,103.746,3,guitar
+43p2e6ACVNhBoV42kEr4J8,Little Symphony,Sombrio,Glanhir,28,114882,False,0.198,0.0471,7,-23.917,1,0.0476,0.869,0.922,0.117,0.143,90.982,4,guitar
+1zl6WOLMznRZ4AcOz2rcp4,William Luna,Tu Amor Ajeno,Tu Amor Ajeno,30,260720,False,0.682,0.654,11,-7.091,0,0.0517,0.716,4.92e-06,0.123,0.744,95.0,4,guitar
+6GNUqCv6Z1uK1zyZYoljXf,Los Apus,Tengo Que Olvidarme de Tí,Tengo Que Olvidarme de Tí,30,305581,False,0.601,0.795,10,-3.683,1,0.0431,0.526,2.82e-05,0.149,0.863,95.573,4,guitar
+7jeRSPactmZ4MdwsbgszdG,Los Tres Caballeros,Los Tres Caballeros,Chamaca,29,198751,False,0.799,0.353,6,-5.888,1,0.0344,0.931,0.000136,0.224,0.713,87.566,4,guitar
+5UuUL7HPjllNxSXi2WyqBD,Little Symphony,Sombrio,Raelee,28,134296,False,0.203,0.0357,2,-24.847,1,0.0516,0.833,0.969,0.116,0.0391,72.357,3,guitar
+7kbz67UjkZCviIYbn4DRvH,Henrik Janson,Classical Baby Sleep Music,Guitar Concerto in D Major,29,212457,False,0.671,0.144,1,-17.729,1,0.0456,0.946,0.638,0.128,0.167,113.376,4,guitar
+585aBCGnRjg7ne6dEPUhyZ,Henrik Janson,Classical Baby Sleep Music,Romance D'Amour,28,165553,False,0.875,0.208,10,-15.836,0,0.0412,0.918,0.889,0.113,0.189,102.045,3,guitar
+0CLvxdyV0Oi8r1n5tIx5xw,Pepe Jara,Tesoros de Colección - Las Estrellas de la Hora Azul,Seguiré Mi Viaje,29,148653,False,0.692,0.311,7,-9.27,1,0.0397,0.915,1.33e-05,0.107,0.677,92.84,4,guitar
+1o2suklKb6UYQxZnOO3zlz,Little Symphony,Sombrio,Harnen,28,120000,False,0.14,0.0109,0,-26.251,1,0.0552,0.863,0.966,0.121,0.0721,139.841,3,guitar
+1DryOXXmS7go5GkEsKPKLq,Henrik Janson,Classical Baby Sleep Music,Sarabande,28,141406,False,0.861,0.138,1,-15.449,0,0.0687,0.77,0.704,0.0958,0.234,124.623,3,guitar
+1ZJ2XcPB5r4yK08gvJbZdW,Little Symphony,Sombrio,Duilwen,28,113429,False,0.161,0.0128,7,-26.071,1,0.0526,0.836,0.966,0.12,0.151,130.155,3,guitar
+2w23qUiIWjvqK5ndnl6woP,Henrik Janson,Classical Baby Sleep Music,Ave Maria by Bach,29,143571,False,0.74,0.189,0,-11.493,1,0.0559,0.941,0.94,0.111,0.343,125.961,4,guitar
+28XmBXGiRqDWZDWIo8uakD,William Luna,Mírame,Mírame,30,300413,False,0.729,0.381,4,-12.8,1,0.0319,0.355,1.85e-05,0.0927,0.635,113.963,3,guitar
+6QJGYEjT8f7lNqWM0hESC9,Manuelcha Prado,Saqra,Huaylas ancestral,29,214987,False,0.676,0.641,7,-13.536,1,0.0391,0.165,0.585,0.0808,0.822,98.949,4,guitar
+4fyzrieCPwug9lm8NjgOze,Henrik Janson,Classical Baby Sleep Music,The Swan (From: Carnival of the Animals),29,139358,False,0.691,0.109,7,-14.131,1,0.0718,0.982,0.86,0.0998,0.324,147.759,4,guitar
+5929U6kkI4Bbd4njRI5t5G,Henrik Janson,Classical Baby Sleep Music,Concierto de Aranjuez,28,203416,False,0.56,0.138,10,-20.527,0,0.0906,0.964,0.829,0.11,0.137,82.405,4,guitar
+6tiBQfLmSouPg6UeJ1EC64,Henrik Janson,Classical Baby Sleep Music,Ave Maria by Schubert,29,227250,False,0.48,0.146,10,-12.876,1,0.0557,0.976,0.899,0.111,0.286,179.397,3,guitar
+7tdRtYANnZ4hE0hNZoOWsd,George Dalaras;Eleni Vitali,Pesto Gia Mena,Pes to gia mena (feat. Eleni Vitali),29,269386,False,0.518,0.665,2,-5.886,1,0.0411,0.317,0.0,0.101,0.459,108.059,4,guitar
+6d2AiHfiRJCi1AUOKTbXwI,Jesse Rice,The Pirate Sessions IV,Go Away Cloud,28,214257,False,0.707,0.519,5,-8.435,1,0.0327,0.518,0.0466,0.145,0.533,80.009,4,guitar
+2oUSm7WzL4M8Q6RfZNMFjN,Dúo Hnos. Gaitán Castro,Tour 97,Popurri de carnavales,30,337626,False,0.597,0.765,4,-4.981,0,0.101,0.475,1.11e-06,0.113,0.531,124.671,4,guitar
+4MzRXNDpB9xbj2t07CFrq5,Los Tecolines,Serenata con Los Tecolines,Cariño,29,180400,False,0.781,0.458,11,-9.589,1,0.0451,0.95,0.00149,0.121,0.804,115.343,4,guitar
+1thm5Vx2FajFbA781Y3CQq,Los Tecolines,Antología... Los Tecolines,Di que no,29,129080,False,0.717,0.328,0,-13.71,1,0.0367,0.96,0.000222,0.13,0.836,112.322,4,guitar
+5tELOEXo8pkuKb9EeSghXt,Cuco Sánchez,El Mariachi,Una Pura Y Dos Con Sal,30,112200,False,0.727,0.473,5,-9.352,1,0.0409,0.414,0.0,0.129,0.858,113.401,4,guitar
+3XXTR1PxuCslxeQCpRHpmW,Eduardo Falú,El Sueno De Mi Guitarra,Tonada Del Viejo Amor,29,241586,False,0.456,0.231,9,-15.736,1,0.0322,0.837,0.00206,0.121,0.319,78.947,4,guitar
+4wJJVqVdDT4s2RxZUIUHl2,Cuco Sánchez,Viva México (Remastered),Cartas Marcadas - Remastered,29,188786,False,0.498,0.293,2,-9.507,1,0.12,0.838,0.0,0.142,0.568,163.016,1,guitar
+0aypuzPjGpgFcQyjez6RBo,Ichika Nito,N I T O,Homesick,45,144594,False,0.55,0.0543,6,-16.258,0,0.0515,0.947,0.1,0.0756,0.292,84.469,4,guitar
+3Y2TyCFa8eFsNi7JTtnSh7,Estas Tonne,Introspection,Introspection,33,739926,False,0.414,0.821,4,-8.539,0,0.0442,0.808,0.814,0.0996,0.432,173.933,4,guitar
+7GlGgZVvEI5oCpZGrEWyKN,Las Lagrimas,Cadiz,Cadiz,50,185611,False,0.592,0.244,2,-14.728,1,0.127,0.981,0.925,0.109,0.302,133.078,4,guitar
+1PINN6x0Riouab3wPSglpp,Leo Brouwer;Zsófia Boros,En Otra Parte,An Idea,58,158520,False,0.294,0.00785,4,-29.64,0,0.0667,0.994,0.956,0.0929,0.173,70.958,3,guitar
+3zjr7jirhGwvqGuuJuIxjg,Andrew Foy;Renee Foy,Photograph,Photograph,30,218590,False,0.807,0.0459,4,-19.883,1,0.0481,0.852,6.14e-06,0.102,0.275,110.512,4,guitar
+0bJ4L7meNjdPyp9fsZk6Lr,Donata Antoni,A Dios Le Pido,A Dios Le Pido,27,258113,False,0.739,0.226,10,-12.329,0,0.0387,0.925,6.66e-05,0.0982,0.457,125.943,4,guitar
+2WQRPsMOrbeqms7JgmmVv3,Eddy Tyler,Guitar Covers,Shallow,41,214784,False,0.613,0.346,7,-11.33,1,0.0398,0.89,0.913,0.0994,0.128,95.981,4,guitar
+4nK938TodpGd1Ddm7URSLl,Kiko Revatta,Ayacucho En El Corazon De Todos Vol. 1,Maíz,28,208440,False,0.584,0.642,6,-5.969,0,0.0507,0.611,0.000234,0.139,0.838,78.592,4,guitar
+35TStN96CwcjFedErjW8Wq,Will Moore,Classical Guitar Lullabies Volume 1,Waltzing Matilda,48,148127,False,0.625,0.285,0,-13.819,1,0.0524,0.897,0.91,0.108,0.173,141.611,4,guitar
+0iKHZPDNJBn9o4tPawbjQU,Las Perlas Negras,Bolero Mientras Tanto,Bolero Mientras Tanto,27,179000,False,0.757,0.382,6,-10.373,0,0.0479,0.699,0.829,0.11,0.284,120.095,4,guitar
+3EyDPVv11N6qVNwc7atmKu,Henrik Janson,Classical Baby Sleep Music,Adagio,28,196144,False,0.468,0.0246,6,-20.783,0,0.0952,0.941,0.847,0.108,0.1,58.47,4,guitar
+3zkoCPVFKWD6RpwpqqNyLo,Little Symphony,Fuente,Dulce,27,77647,False,0.183,0.123,0,-21.108,1,0.051,0.694,0.937,0.373,0.0448,81.342,4,guitar
+67iaveb9w2ANRt3ubCgzC9,Little Symphony,Serenity,Erui,27,57142,False,0.267,0.113,0,-23.608,1,0.0571,0.841,0.848,0.113,0.199,132.049,4,guitar
+3lNJ56GfiNeYRDqkP9c9Ol,Little Symphony,Serenity,Boyoma,27,99047,False,0.175,0.195,9,-23.733,0,0.0464,0.857,0.84,0.372,0.104,63.029,4,guitar
+6g4oYXbiCRAU8iPIAPR5Rm,Little Symphony,Serenity,Aurora,27,121904,False,0.178,0.0949,0,-23.573,1,0.0612,0.796,0.848,0.119,0.177,106.237,4,guitar
+41r63OHTYG2iq8ehMPHhhW,Howard Roberts,The Very Best of Howard Roberts,Dirty Old Bossa Nova,28,132973,False,0.643,0.226,8,-19.726,1,0.0982,0.253,0.808,0.0999,0.823,81.968,4,guitar
+5ZWbnDBQ07zjDIBDSB9eAV,Little Symphony,Serenity,Meander,27,91428,False,0.107,0.117,0,-23.472,1,0.0531,0.704,0.835,0.118,0.232,174.17,3,guitar
+1m8HLFKbX2BjlD74CfgSyH,Little Symphony,Serenity,Lamadaya,27,45714,False,0.144,0.12,0,-23.212,1,0.0484,0.811,0.895,0.117,0.265,71.542,3,guitar
+0k6P9cdEA9K3k0ASde2Kof,Joaquín Rodrigo;Thibaut García;Ben Glassberg;Orchestre National Du Capitole De Toulouse,Aranjuez,Rodrigo: Concierto de Aranjuez: II. Adagio,56,640266,False,0.253,0.098,11,-19.878,0,0.0437,0.93,0.862,0.122,0.062,84.865,4,guitar
+1Gqs7aFWTT5WAtcQI19OfM,Keola Beamer;Kapono Beamer,Hawaii's Keola & Kapono Beamer,Mr. Sun Cho Lee,28,210866,False,0.506,0.31,11,-9.023,1,0.0721,0.318,0.0,0.119,0.354,140.594,4,guitar
+5Bb7YCLmeCNOeKYKOF3tou,Little Symphony,Serenity,Gurara,27,72380,False,0.13,0.112,0,-23.607,1,0.0513,0.79,0.855,0.112,0.145,85.425,1,guitar
+1nHN3m6EzCzKAmDgwoLBMD,George Benson,In Your Eyes,In Your Eyes,57,200640,False,0.547,0.243,9,-16.039,1,0.0321,0.703,0.0,0.163,0.292,134.077,4,guitar
+26LNJYocio4x95y9pZPfeI,Henrik Janson,Classical Baby Sleep Music,Lascia,28,164669,False,0.703,0.0709,1,-17.712,1,0.0576,0.885,0.684,0.109,0.241,143.248,3,guitar
+2qJbWCHh9X7bPPfVlVOrVu,Peter Sprague,Now I Lay Me Down to Sleep,Edelweiss (Instrumental),27,137901,False,0.409,0.107,9,-19.361,1,0.051,0.995,0.876,0.0991,0.498,205.935,3,guitar
+2269gvVfETAflSDZIlvqN6,Little Symphony,Serenity,Keyne,27,49523,False,0.199,0.118,0,-23.407,1,0.0546,0.608,0.602,0.118,0.164,123.353,5,guitar
+5MTxU2PS6IJVhFHtzMlvyB,Little Symphony,Serenity,Prajna,27,76190,False,0.157,0.118,0,-23.331,1,0.0521,0.845,0.908,0.119,0.262,86.731,4,guitar
+0B8j3jL4IENUpKfSh2zVhB,Jesse Cook,The Rumba Foundation,Rain Day,28,207908,False,0.325,0.298,10,-10.047,0,0.0323,0.895,0.818,0.0898,0.137,156.361,3,guitar
+2i9XfzVIaSxV855mu3iEmM,Little Symphony,Serenity,Gelion,27,102857,False,0.203,0.215,0,-23.772,1,0.0548,0.74,0.567,0.299,0.182,118.355,4,guitar
+2CEq42dvxfJucii63I36EY,Little Symphony,Serenity,Isobel,27,49523,False,0.132,0.116,0,-23.457,1,0.0461,0.902,0.928,0.126,0.217,92.325,4,guitar
+6YNKR7IxzBYJViHxxxgBgz,Chamin Madero,Juan Gabriel Instrumental,Se Me Olvido Otra Vez,27,195346,False,0.707,0.541,0,-7.83,1,0.0448,0.648,0.524,0.381,0.374,167.945,4,guitar
+1cBqD1a7qrG2KooA5b7otf,Henrik Janson,Classical Baby Sleep Music,Pavane For A Dead Princess For Guitar,28,132527,False,0.732,0.0455,6,-18.063,1,0.0579,0.975,0.684,0.107,0.102,94.524,4,guitar
+1hViL4LELcfzIYJtw33QZk,Stavros Xarhakos;Takis Binis,OST / Rebetiko,To Dihti,28,326133,False,0.522,0.533,5,-6.686,0,0.0376,0.859,0.0,0.252,0.581,109.834,3,guitar
+4rQicjlgdOR770kqiXFWfg,Henrik Janson,Classical Baby Sleep Music,"Pavane, Op. 50",28,228117,False,0.75,0.104,4,-18.783,0,0.0572,0.907,0.768,0.107,0.172,131.948,4,guitar
+75X0empj9JK9h6SNOliKgW,Little Symphony,Serenity,Adurant,27,41904,False,0.136,0.116,0,-22.585,1,0.0485,0.828,0.903,0.119,0.221,79.102,1,guitar
+1t4EDMSxXLQhOiutcMN6VQ,Little Symphony,Serenity,Fleur,27,64761,False,0.196,0.435,0,-24.807,1,0.195,0.633,0.193,0.659,0.644,59.802,4,guitar
+7x4VM7FhrhLkSCSaKgqpaR,Henrik Janson,Classical Baby Sleep Music,Lake District,28,104664,False,0.822,0.0644,1,-19.105,0,0.112,0.961,0.888,0.109,0.219,58.243,3,guitar
+5EdqBLQrzOgQsHIs7A3fxA,Little Symphony,Serenity,Dalfon,27,114285,False,0.199,0.102,0,-23.531,1,0.0497,0.838,0.903,0.114,0.262,81.059,4,guitar
+6d3RIvHfVkoOtW1WHXmbX3,Little Symphony,Serenity,Margot,27,45714,False,0.269,0.142,0,-23.695,1,0.0509,0.866,0.904,0.114,0.321,67.872,3,guitar
+0BPv0XRPsWmZpupn65NycV,Henrik Janson,Classical Baby Sleep Music,Dance of the Blessed Spirits,28,90000,False,0.799,0.147,5,-15.506,1,0.0453,0.947,0.942,0.13,0.537,73.995,3,guitar
+7GAK2JDsDbu0BeX5OmL01T,Henrik Janson,Classical Baby Sleep Music,"Sonata No. 8 C Major: ""Pathétique""",28,155249,False,0.743,0.0946,10,-17.848,0,0.063,0.977,0.935,0.111,0.258,128.169,4,guitar
+6ZsL19uR8urw6s0Xj15cp2,William Luna,A Tiempo,Perdón de Corazón,29,179280,False,0.677,0.664,2,-3.724,1,0.0311,0.615,0.0,0.179,0.92,135.127,3,guitar
+5FkxQ9CRuRn7tBIjwcqy5c,George Dalaras,Latin (Remastered),El Cascabel (Son Jarocho),28,137226,False,0.556,0.789,7,-5.896,0,0.0764,0.709,0.0,0.25,0.745,90.323,4,guitar
+7gF5Av7SG0Mru6Xy7oyGK4,Henrik Janson,Classical Baby Sleep Music,The Deer Hunter - Cavatina,28,243825,False,0.795,0.145,3,-16.848,1,0.0658,0.954,0.934,0.105,0.611,135.816,4,guitar
+0nSda38ueNMdJgoSkwhC8u,Henrik Janson,Classical Baby Sleep Music,Orchestral Suite No. 3- II. Air on a G String,28,198128,False,0.741,0.0484,8,-18.962,0,0.0596,0.961,0.899,0.107,0.202,117.062,4,guitar
+7x6WmmLi750YvutUqhwrs4,Chico Getz,Ahora Te Puedes Marchar,Ahora Te Puedes Marchar,27,223421,False,0.777,0.18,7,-14.847,1,0.0706,0.885,0.0,0.119,0.528,107.789,4,guitar
+6CaFrHC7uhlIiLBJAPQ9P9,William Luna,Romance Andino,Quisiera Quererte,29,245720,False,0.571,0.703,0,-7.903,1,0.045,0.368,2.07e-05,0.367,0.575,75.035,4,guitar
+4SADbEitdEHqVCBVyJzojQ,Keola Beamer;George Winston,Kolonahe: From the Gentle Wind,Shaka Slack Key - Instrumental,28,241466,False,0.327,0.335,7,-16.117,1,0.0345,0.57,0.952,0.0896,0.554,159.312,4,guitar
+5Tp1ivQ7w11J4RYrKO2O61,William Luna,Romance Andino,Amor Herido,29,192320,False,0.591,0.623,0,-5.344,1,0.0316,0.392,5.94e-05,0.0737,0.646,72.413,4,guitar
+7qsLqfXB3JPyYo7UiHwRkZ,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 1,Perdón,28,189026,False,0.711,0.522,11,-7.299,0,0.031,0.768,3.58e-05,0.211,0.788,110.752,4,guitar
+1t71X6wy1XVNe1YLE5O1uc,Los Tecolines,Los Tecolines: Bolero Romantico,Pensando En Ti,28,145554,False,0.687,0.383,9,-15.172,1,0.032,0.766,0.126,0.126,0.765,128.794,4,guitar
+7fumRmsJgKUj0Zl8OaRJlW,Joe Satriani,Super Colossal,Ten Words,37,208586,False,0.306,0.616,0,-5.619,1,0.0323,0.00952,0.937,0.209,0.194,179.625,4,guitar
+5cguSM8YxXkeqcJxOUfs6X,Joe Satriani,Super Colossal,Made of Tears,37,332853,False,0.603,0.715,4,-7.418,1,0.0274,0.0341,0.704,0.0754,0.178,94.875,4,guitar
+7JGe5XiHmtJZ05qt9TYArV,Sleep Surgeon,Reverie,Reverie,41,211555,False,0.467,0.392,11,-14.282,1,0.0336,0.023,0.913,0.107,0.038,135.0,4,guitar
+7EhvL5VsfrvU7qRittMpBL,Tinariwen,Tassili,Iswegh Attay,41,336120,False,0.545,0.448,0,-10.729,1,0.0519,0.787,0.0115,0.0995,0.58,156.05,4,guitar
+1QG3f3TYy9mci5ogEu2PyS,Tinariwen;Kurt Vile;Mark Lanegan,Elwan,Nànnuflày,44,303106,False,0.602,0.476,8,-7.278,1,0.028,0.854,0.372,0.103,0.301,118.417,4,guitar
+05QEiRtbs57De7NxgUNOHp,Guus Dielissen,As It Was (Acoustic Instrumental),As It Was - Acoustic Instrumental,41,139612,False,0.287,0.245,11,-20.674,0,0.0493,0.915,0.836,0.112,0.624,84.056,4,guitar
+3L3GwtfPpOl0Qbq3Md15fT,Earl Klugh,Sudden Burst Of Energy,I'll Be Waiting,47,287626,False,0.608,0.592,0,-9.642,0,0.0409,0.469,0.909,0.0651,0.365,77.937,4,guitar
+2A98i9soxcUp1Dukrsr6mI,Miguel Llobet Solés;Suzannah Bee,El Noi de la Mare,El Noi de la Mare,27,143730,False,0.445,0.217,7,-20.814,1,0.0407,0.965,0.874,0.111,0.168,90.835,3,guitar
+5FmPigqSIfk8zr2kx0H4vz,Tinariwen,Elwan,Sastanàqqàm,42,204600,False,0.729,0.663,5,-7.778,0,0.0532,0.0295,0.0606,0.105,0.431,98.512,4,guitar
+42VvllM7hJNYnQMmJdy9g4,Alexia Mathieu,Feelings You Cannot Hide,Feelings You Cannot Hide,51,172384,False,0.579,0.219,9,-15.917,1,0.0593,0.981,0.875,0.113,0.346,110.218,4,guitar
+6QS5VG2YVsHj36aunhzJR2,Dúo Romances,Despedida,Alba Deliz,26,208946,False,0.583,0.719,9,-7.465,0,0.0309,0.387,0.0,0.269,0.592,82.004,4,guitar
+0EooyHZSoef5x1Y9ByRb8t,Jonnie Snoilsky,The slow train,The slow train,26,116750,False,0.575,0.0525,9,-16.659,0,0.0508,0.962,0.913,0.0943,0.0588,144.11,3,guitar
+1qgmHNOZlxWIVcODorydZM,Kenichi Ebe,ギターソロ ボサノバ・ベスト~イパネマの娘,いそしぎ,27,142306,False,0.529,0.0207,4,-25.962,0,0.167,0.948,0.865,0.111,0.14,74.72,1,guitar
+3xtxmdwm84x0ZDvSOxQels,Joseph Sullinger,Drawn by the Wind (Arr. for Guitar),Drawn by the Wind (Arr. for Guitar),34,196487,False,0.514,0.239,2,-14.957,0,0.101,0.982,0.954,0.106,0.338,119.998,4,guitar
+0AvzBIlNqctS2uTzM0ebeb,Dúo Ayacucho,Torcaza,El Adiós,28,283701,False,0.645,0.696,7,-2.679,1,0.0332,0.794,4.21e-06,0.253,0.761,72.207,4,guitar
+4CiazB9HWxTbXSGpKK7AB3,Antonio Bribiesca,Serie de Colección 16 Auténticos Éxitos Antonio Bribiesca,Un Viejo Amor,26,248813,False,0.478,0.0999,0,-17.517,1,0.0524,0.993,0.952,0.105,0.098,82.773,4,guitar
+3sImzgfyRoimZjJxKqCEoz,Dúo Romances,Despedida,Te Dejare,26,263520,False,0.701,0.68,9,-7.33,1,0.063,0.8,0.0,0.277,0.661,140.136,5,guitar
+4jxw8WdlX3i08a46UV7lol,Jaime Guardia,Jaime Guardia el Charango del Perú,Adiós Pueblo de Ayacucho,27,149320,False,0.543,0.541,11,-12.654,1,0.156,0.894,0.938,0.0681,0.791,124.749,4,guitar
+6c8Ma1htTLtiHXShaYwYDu,Chico Getz,Hispanoamerica,Hispanoamerica,26,204000,False,0.743,0.102,4,-18.452,1,0.0895,0.941,0.865,0.11,0.23,113.556,4,guitar
+6IfgpPHJXO3dGoWMvGPjcd,Keola Beamer,Putumayo Kids Presents Instrumental Dreamland,Pupu Hinuhinu,27,128426,False,0.494,0.141,4,-15.345,0,0.0442,0.597,0.31,0.281,0.222,142.187,4,guitar
+2O5Pz5YdIf9Be12rE9fEWB,Little Symphony,Serenity,Veliki,27,53333,False,0.2,0.13,0,-23.285,1,0.0481,0.878,0.91,0.114,0.336,110.51,3,guitar
+2W5EvgsEBmBWqZz4GumrXA,Steve Vai,Alien Love Secrets,Bad Horsie,45,350840,False,0.543,0.771,5,-8.855,1,0.0457,0.000276,0.776,0.804,0.638,127.038,4,guitar
+30VJ9FGjnXBgLNtWnS9N4g,Little Symphony,Serenity,Mokau,27,68571,False,0.182,0.106,0,-23.278,1,0.0493,0.893,0.904,0.113,0.233,97.453,4,guitar
+17K665BsGXSSFzpT0LgcUj,Kuana Torres Kahele,Kaunaloa,Na Vaqueros,27,196692,False,0.734,0.387,0,-9.11,1,0.0281,0.791,5.28e-06,0.0608,0.903,100.966,4,guitar
+2ConcMShn9TnYXpgeqs71S,Little Symphony,Serenity,Enlil,27,49523,False,0.265,0.124,0,-23.395,1,0.0456,0.809,0.916,0.114,0.371,100.861,4,guitar
+29q7PM3L44I9R6yhd234Oy,Little Symphony,Serenity,Arethusa,27,80000,False,0.201,0.444,0,-23.991,1,0.132,0.669,0.08,0.367,0.494,129.808,4,guitar
+2269gvVfETAflSDZIlvqN6,Little Symphony,Serenity,Keyne,27,49523,False,0.199,0.118,0,-23.407,1,0.0546,0.608,0.602,0.118,0.164,123.353,5,guitar
+4oHq26hX82ls9HmKGqZGVH,Little Symphony,Serenity,Esgalduin,27,49523,False,0.29,0.129,10,-23.333,1,0.055,0.733,0.762,0.113,0.182,92.904,1,guitar
+4QunEuIrDNY59Wu610wKQt,Little Symphony,Serenity,Anvindr,26,175238,False,0.184,0.109,0,-24.131,1,0.0631,0.786,0.879,0.117,0.193,131.54,4,guitar
+467faSTmWsVJh2CpvZzNYt,Antonio Bribiesca,Homenaje a Antonio Bribiesca,Canción Mixteca - Qué Lejos Estoy,27,206093,False,0.391,0.243,0,-15.92,1,0.0415,0.798,0.41,0.138,0.158,167.508,3,guitar
+34DFDdLAZRM18ARHGHYCt2,Little Symphony,Serenity,Harendra,27,144761,False,0.199,0.12,0,-23.949,1,0.0514,0.814,0.85,0.115,0.3,71.151,3,guitar
+10D7q4oM8jdbShEQnQqAil,William Luna,Como Si No Supiera,Un Amor Me Esta Matando,28,269626,False,0.558,0.818,7,-7.199,1,0.0442,0.306,0.000725,0.383,0.963,159.836,4,guitar
+7he38NZUICh6T2dP5CpbAJ,Little Symphony,Serenity,Zephyr,27,83809,False,0.185,0.119,0,-23.618,1,0.0527,0.811,0.853,0.118,0.346,129.282,4,guitar
+3t0taPa9HNOXF1kCB00G3P,Little Symphony,Serenity,Kalambo,27,45714,False,0.18,0.0968,0,-22.729,1,0.0478,0.863,0.938,0.12,0.388,80.867,1,guitar
+21KMRkNwCYBsigyFvBsZWk,Little Symphony,Serenity,Owharoa,26,99047,False,0.104,0.316,0,-23.74,1,0.0642,0.838,0.798,0.604,0.307,79.953,1,guitar
+7qIqOFDgHqCC2xSkvU77xV,Little Symphony,Serenity,Devdari,27,68571,False,0.197,0.122,5,-23.756,1,0.0496,0.822,0.836,0.115,0.307,86.216,3,guitar
+4WO5q4gmBiPJbv2xqVDADE,Paco de Lucía,La Búsqueda (Remastered 2014),Entre Dos Aguas - Remastered 2014,58,360546,False,0.43,0.917,4,-3.801,0,0.034,0.915,0.851,0.0765,0.919,102.644,4,guitar
+0cpq28309jfgmz8HKLqjJB,William Luna,Hasta el Final,Negra del Alma,28,191960,False,0.728,0.702,7,-4.803,1,0.055,0.324,0.00104,0.108,0.936,83.962,4,guitar
+60ofuBiNIiyuyzyhgSFsUc,Los Apus,Lágrimas Del Sol,Amor Necesito de Ti,28,300746,False,0.624,0.702,2,-5.583,1,0.0363,0.75,0.00053,0.0953,0.787,103.863,4,guitar
+51UnMlUVgFzu2Yl4aRAGCf,The Brothers Cazimero,The Best of the Brothers Cazimero Volume 1,Ka'ena,27,230600,False,0.231,0.202,2,-16.949,1,0.0354,0.738,0.000114,0.127,0.41,81.541,4,guitar
+0FR7dm7MDijFi8QQyrzp2E,Eduardo Falú,Volumen 1,Zamba de la candelaria,27,186801,False,0.475,0.284,8,-13.63,0,0.0389,0.954,0.00139,0.268,0.481,98.856,3,guitar
+4dOwGU2xdR8Yh5w4yJJLOU,Cucuza Castiello,Menesunda: Tangolencia Rockera,Irresponsables,26,143533,False,0.539,0.372,2,-12.911,0,0.184,0.807,2.36e-06,0.0861,0.616,112.859,4,guitar
+6QZ4ZhD8hGVTfwoN2Ypl4Z,George Benson,Inspiration (A Tribute To Nat King Cole),Just One Of Those Things,29,162080,False,0.608,0.578,5,-6.764,0,0.0951,0.506,3.58e-05,0.28,0.745,133.069,1,guitar
+7bHkQLgxPTVC44Ty5A99Jm,Cuco Sánchez;Fernando Zenaido Maldonado,Blues,Caminos de Ayer,27,179511,False,0.508,0.228,5,-13.729,1,0.032,0.895,0.000559,0.0967,0.445,79.675,4,guitar
+00orPZkzsOCrPiF8pWyoDA,Jesse Rice,The Pirate Sessions,Haze of the Rum,27,192306,False,0.534,0.76,8,-6.103,1,0.0357,0.0996,0.0,0.306,0.641,166.066,4,guitar
+5JdxGnN3gjzEidLMOuKwJG,Cuco Sánchez;Fernando Zenaido Maldonado,Blues,Sortilegio,27,169119,False,0.619,0.189,10,-15.253,1,0.0367,0.903,0.00106,0.189,0.511,103.486,4,guitar
+28VbHm0Bjr7CiFdgRyxVFc,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",Un corazón olvidado,27,211480,False,0.48,0.0797,2,-19.932,0,0.0357,0.993,0.594,0.106,0.134,86.993,4,guitar
+2JUy6hzOxrVSgLqY1Due5r,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 2,Besos de fuego,28,179922,False,0.697,0.429,4,-8.449,1,0.0286,0.777,2.03e-06,0.141,0.714,96.013,4,guitar
+6NzU2s7PoyvvraQfbVJII0,Dúo Hnos. Gaitán Castro,Amor amor,Olvido Que Nunca Llegas,28,252253,False,0.425,0.778,7,-3.612,1,0.0553,0.735,2.13e-05,0.141,0.706,70.87,4,guitar
+2u0dRMd8k22MtHyfAHPczs,Dúo Hnos. Gaitán Castro,Amor amor,Corazón Mío,29,158013,False,0.665,0.758,4,-4.538,0,0.0315,0.621,0.00258,0.133,0.829,92.192,4,guitar
+21ZVMmHXpt3Qht5pjVgBMS,Ichika Nito,until the end,thinking of you,46,113053,False,0.66,0.609,2,-14.234,0,0.035,0.609,0.931,0.102,0.596,95.511,4,guitar
+7Ki4wIn6Ifg2xc2oZ1tjRB,Estas Tonne,Beyond,Beyond,40,328493,False,0.279,0.482,4,-10.297,0,0.0364,0.944,0.889,0.158,0.13,75.991,4,guitar
+7dxZacYc50KtL4REJI3bxH,Yngwie Malmsteen,The Yngwie Malmsteen Collection,Black Star,47,291133,False,0.316,0.732,11,-14.023,1,0.0477,0.00271,0.166,0.0749,0.471,146.072,4,guitar
+5MeYnUO0OxUb8t5rQQ0EFI,Ichika Nito,I'm not ready to say goodbye to autumn,I'm not ready to say goodbye to autumn,44,117689,False,0.743,0.357,8,-10.705,1,0.0486,0.669,0.691,0.21,0.447,79.981,4,guitar
+3DsShklw3Th0y25Xm66L2d,Marta Jobim,Passing Rain,Passing Rain,50,182750,False,0.53,0.108,9,-17.208,1,0.0663,0.993,0.94,0.104,0.255,137.02,4,guitar
+1COWV6U3LKqCBpiHPthbiB,Mae Ji-Yoon,Vibrations,Vibrations,45,173719,False,0.671,0.2,8,-23.978,1,0.0365,0.994,0.939,0.114,0.53,107.517,3,guitar
+7lr1Qj5i2emYCPqUiIyFcz,Guus Dielissen,Moth To A Flame (Acoustic Instrumental),Moth To A Flame - Acoustic Instrumental,43,181819,False,0.655,0.0883,0,-19.0,0,0.0488,0.971,0.897,0.109,0.373,119.985,4,guitar
+7DcVWzeud5tqtNTZKQWvhz,Ichika Nito,she waits patiently,illusory sense,45,228364,False,0.556,0.384,1,-10.49,0,0.0281,0.771,0.00138,0.139,0.137,99.984,3,guitar
+3vOCjnzLDblPCm9kgQa9NL,Las Almas Nuevas,Sarria,Sarria,47,229000,False,0.511,0.268,9,-15.483,0,0.0608,0.981,0.952,0.107,0.337,98.851,4,guitar
+0cNc2tivyPqzgp13BSM7St,Joe Pass,Intercontinental,Chloe,48,321951,False,0.483,0.186,7,-21.828,0,0.042,0.943,0.877,0.115,0.51,150.705,4,guitar
+06AgHpQ0hUM1BPDgIS4R9P,Anila Mirela,Vesuvio,Vesuvio,47,111611,False,0.827,0.134,9,-18.875,0,0.123,0.93,0.878,0.111,0.189,119.984,4,guitar
+3ih1UH1MuhzVl33wlibBII,Celestial Conscience,Jocelyn Flores (Acoustic Guitar),Jocelyn Flores - Acoustic Guitar,41,59823,False,0.709,0.119,11,-20.33,0,0.0459,0.902,0.436,0.109,0.336,135.223,4,guitar
+3pajXCqOSkwgTIBXZEauQD,Tobias Berntsson,Fields Of Gold,Fields Of Gold,53,204051,False,0.59,0.154,2,-14.056,1,0.0736,0.977,0.923,0.11,0.295,175.735,4,guitar
+0ZFq3raMFdXllZJoTbBRnQ,Steve Pulvers,Acoustic Lullaby,Untainted Innocence,26,133500,False,0.586,0.115,7,-20.442,1,0.0563,0.836,0.926,0.11,0.885,179.941,4,guitar
+1yegDiVa8d94H07ga1SLOt,Wes Montgomery,Boss Guitar,Days Of Wine And Roses,52,226200,False,0.47,0.0296,7,-25.411,0,0.0352,0.991,0.948,0.0976,0.184,89.408,4,guitar
+4eTOyWkfoZP2vHT6jCfOcS,Joe Satriani,The Extremist,Cryin',43,342733,False,0.357,0.447,4,-8.601,1,0.027,0.0546,0.0516,0.103,0.151,150.943,4,guitar
+7JXJRHxsmjtkhqYkebQAMP,Luiz Bonfá,100 Grandes Sucessos,A Voz Do Morro,28,92136,False,0.541,0.142,4,-16.59,0,0.0526,0.686,0.797,0.143,0.617,117.961,4,guitar
+5Z01kGFWQcQA3XBRxjAzAJ,Andrew Foy;Renee Foy;Stephan Baulig,Afterglow (Stephan Baulig Remix),Afterglow - Stephan Baulig Remix,37,213620,False,0.674,0.52,0,-10.106,1,0.0511,0.272,2.41e-06,0.151,0.422,116.029,4,guitar
+5HMhViesUPfkzA6hrQ4VDH,Jaime Guardia,Jaime Guardia el Charango del Perú,Carnaval de Tambobamba,27,188693,False,0.571,0.193,1,-16.4,1,0.115,0.952,2.98e-05,0.116,0.695,178.083,4,guitar
+3UjyPNKrGmRvwGycvLjqY6,Serena Mendes,Night Dance,Night Dance,26,183750,False,0.61,0.127,2,-14.09,0,0.244,0.986,0.888,0.0765,0.175,79.639,3,guitar
+5ZzykhDAdwS0MLv3uYJsjg,Paul Togioka,"Hawaiian Slack Key Kings Master Series, Vol. 2",Anolani,26,195093,False,0.395,0.463,7,-9.397,1,0.0305,0.806,0.421,0.117,0.258,112.0,4,guitar
+0yNcTGypE8dansETa75tLW,Kuana Torres Kahele,Kaunaloa,Ulili E,25,217679,False,0.572,0.523,7,-7.666,1,0.0265,0.603,0.0,0.144,0.684,137.835,4,guitar
+2Db1pHzdBSdFIz8y7eAQwb,Antonio Garcia Isaac,Cinema Latino Vol. 2,Adelita de Tarrega Large Reverb,26,144713,False,0.512,0.159,4,-18.005,1,0.0558,0.991,0.967,0.11,0.255,76.393,3,guitar
+7I3XPb61lZuXcAfv4dhFx8,Carlos Di Fulvio,2 En 1,Se Acuerda Doña Maclovia?...,26,187493,False,0.627,0.28,9,-11.185,0,0.0575,0.878,1.11e-05,0.0744,0.187,137.386,3,guitar
+6wK8xHHh8RtXmNKRImgRXo,Jerry Byrd,Steel Guitar Hawaiian Style,How D'ya Do,26,193306,False,0.662,0.156,9,-19.565,1,0.0365,0.964,0.883,0.328,0.489,109.681,4,guitar
+1eGdw1BbGAYaXbgPcVIkGm,Panagiotis Margaris,"Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",Tango en Skai - Instrumental,25,173800,False,0.591,0.122,9,-19.174,0,0.0479,0.982,0.837,0.0734,0.358,118.952,4,guitar
+4I6xKTGnjyJ4Jm5K3cWMZx,Dúo Wayra,Camino del Cielo,Cholita de Ojos Azules,26,223608,False,0.376,0.302,9,-10.21,1,0.0457,0.859,3.75e-06,0.273,0.231,57.444,4,guitar
+41Ay2kAjYDgb4uIF7d1Wiv,Leonard Kwan,Ke'ala's Mele,Old Mauna Loa,25,214253,False,0.532,0.171,0,-19.723,1,0.0436,0.892,0.958,0.128,0.558,138.029,4,guitar
+77mgPXrIdAkZNow330PdiW,João Gilberto;Caetano Veloso;Gilberto Gil,Brazil,Bahia com H,28,315840,False,0.468,0.134,4,-20.262,1,0.0668,0.844,0.00704,0.0787,0.607,91.07,4,guitar
+5jMSDyNn6xJp8iMX4q3rSG,Maunalua,Kuleana,Sanoe,26,290600,False,0.474,0.322,7,-7.798,1,0.025,0.83,1.47e-05,0.105,0.353,81.967,3,guitar
+2jBnOLpZO2aCgbGgjXvBgo,Baden Powell;Jimmy Pratt,Powell & Pratt,Rosa Flor,27,178390,False,0.52,0.577,4,-12.895,0,0.033,0.0629,0.00148,0.134,0.891,100.338,4,guitar
+3gNh6lrIMFfIUyTSyvSiJg,William Luna,Como Si No Supiera,La Rotonda,27,159786,False,0.457,0.482,4,-9.34,0,0.0401,0.451,8.99e-06,0.125,0.742,80.56,4,guitar
+7vEXd2YBNHeyeY9YOBB83K,Manuelcha Prado,Madre Andina,Expreso Puquio,26,264855,False,0.366,0.549,3,-5.272,0,0.0402,0.167,1.99e-06,0.151,0.592,90.561,3,guitar
+4X3copu9IZCufqkkGiUhvq,Claudio Estrada,El Último Trovador,Herida De Amor,25,180066,False,0.642,0.0515,10,-25.718,1,0.0413,0.809,9.41e-05,0.118,0.69,94.898,4,guitar
+7xVLM4xNhJo57V5RoinJji,Joseph Sullinger,Art of Acoustic: Soft Instrumental Covers & Classical Guitar,What a Wonderful World,49,138748,False,0.516,0.144,2,-18.858,1,0.051,0.992,0.952,0.115,0.433,134.688,4,guitar
+5N47FEM0Y5b4uj0Zo1SqXC,Los Apus,Sunquyparurun,Te Duele Haberme Perdido,26,238760,False,0.832,0.801,3,-3.34,1,0.0429,0.626,5.98e-05,0.24,0.884,104.459,4,guitar
+5VU4C9CoISBKbPZQkkSscY,John Keawe,Slack Key Guitar,Kaulana Na Pua,26,256066,False,0.531,0.177,7,-23.71,1,0.0481,0.954,0.932,0.11,0.711,113.173,4,guitar
+0oXlEtLDbSjKG2l9yAmzMK,"George Kahumoku, Jr.",Hawaiian Love Songs (Na Mele Ho'oniponipo Hawai'i),The Queen's Prayer,26,333680,False,0.437,0.355,5,-16.829,1,0.0703,0.897,0.818,0.115,0.0365,148.635,4,guitar
+5YeFqlrYAzPof7mHRfcEHZ,Luis Salinas;Juan Salinas,El Tren: Sólo Salinas,Funky en Si Menor,27,185440,False,0.699,0.516,11,-9.693,0,0.043,0.766,0.878,0.105,0.812,101.722,4,guitar
+6HnJRqGoOMI5L3CdzI1N8c,Jesse Rice,The Pirate Sessions III,Get Your Island On,25,193119,False,0.695,0.786,7,-5.878,1,0.0269,0.605,0.0,0.15,0.946,116.039,4,guitar
+7JI6vO0L5woLjDcrCJvMVt,Cuco Sánchez;Dueto America,El Revolucionario,La Mujer Ladina,26,186073,False,0.428,0.246,3,-12.272,1,0.0459,0.759,0.0,0.222,0.382,90.679,4,guitar
+2Roqy66JjQRE9I1aL2Ejkp,Los Apus,Sunquyparurun,Dime Quien,27,401800,False,0.621,0.638,0,-4.055,0,0.0287,0.758,0.00657,0.151,0.511,96.143,4,guitar
+18A1V1vsy5YgHFqb4galTw,Kenny Burrell,Midnight Blue (The Rudy Van Gelder Edition),Chitlins Con Carne,53,330440,False,0.803,0.335,8,-13.331,1,0.0451,0.579,0.0128,0.0849,0.786,132.682,4,guitar
+20B4UaWhyEtKQIXVFHMOsj,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",Vencida,26,214306,False,0.566,0.039,9,-19.421,1,0.0482,0.993,0.687,0.126,0.307,113.789,3,guitar
+5kvoedT57zW9dRzdPNBt9W,George Dalaras;Mariza Rizou,Mia Stigmi Gia Pada (Ap' To Tango Ton Hristougennon),Mia Stigmi Gia Pada - Ap' To Tango Ton Hristougennon,26,260419,False,0.489,0.376,0,-13.247,0,0.0383,0.345,0.0,0.0627,0.325,113.176,4,guitar
+1VIE8mzxCXp5Asn6aQF7oY,Cuco Sánchez,Tesoros De Colección,La Rosa de Oro,26,188066,False,0.548,0.0935,0,-14.793,1,0.0345,0.959,4.04e-05,0.166,0.304,127.835,3,guitar
+5AOS3sZzMVmhJDgV8PjOoR,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 1,Ya no te quiero,26,144040,False,0.729,0.446,0,-11.727,1,0.034,0.974,0.000702,0.173,0.91,112.476,4,guitar
+3yWa4RnK34hCiK6RkHe6Q1,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",Corazoncito tirano,26,121920,False,0.468,0.222,6,-16.851,1,0.0429,0.888,0.0,0.0765,0.673,82.328,4,guitar
+386HWu6z6nfODriGNIiKk3,Cuco Sánchez,El Mariachi,Ya Se Te Fue El Tren,26,122866,False,0.495,0.21,7,-10.916,1,0.0387,0.7,0.0,0.337,0.52,80.294,5,guitar
+17fzU7mIuNfCNUGudh36m5,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Te Amaré Vida Mía,26,174133,False,0.478,0.22,0,-17.233,1,0.0347,0.806,0.0,0.199,0.424,85.696,4,guitar
+6NHCa13AyQCeWGedUzZME8,Ichika Nito,Blossom,Blossom,41,125380,False,0.688,0.428,2,-11.998,1,0.0477,0.468,0.938,0.0929,0.312,94.111,4,guitar
+1wnP0kMnl9NJC7Ek2rrHkB,John McLaughlin;Shankar Mahadevan;Zakir Hussain,Is That So?,Sakhi,22,506733,False,0.468,0.546,5,-9.335,1,0.0654,0.738,0.0298,0.114,0.32,99.934,4,guitar
+3c5RR8u3j8CBAX6wkqYWiV,Ichika Nito,until the end,Feeling,42,246688,False,0.679,0.315,9,-14.258,1,0.0367,0.294,0.843,0.116,0.64,82.998,5,guitar
+5NWqo7MhQEPYUaCAklq9ul,Ichika Nito,N I T O,Ice,42,150379,False,0.554,0.0666,4,-19.071,0,0.0716,0.916,0.669,0.0918,0.218,74.877,4,guitar
+6bHQ3U9ynAR2NpAoRKXYW6,Maneli Jamal;Nylonwings,Across The Sea,Across The Sea,35,125624,False,0.534,0.245,4,-14.9,1,0.0421,0.956,0.889,0.11,0.34,88.664,4,guitar
+1m3BAsNsQAaSNMD2M6vlKY,George Benson,Breezin',Breezin',60,341733,False,0.682,0.752,2,-9.521,1,0.0454,0.476,0.863,0.0768,0.964,81.081,4,guitar
+0AdUlf7gmrwhuVp8oznsRc,Anna Kitkowska,As It Was,As It Was,53,210923,False,0.641,0.208,11,-14.555,0,0.0585,0.655,0.596,0.0859,0.185,130.132,4,guitar
+1wHf5tf8KmBBSEk8wGz0ni,Tommy Berre;Denis Turbide,Morning Blue,Morning Blue,38,114743,False,0.655,0.202,4,-13.869,1,0.0511,0.921,0.944,0.1,0.239,105.96,5,guitar
+6VJcMjtcbFGAwZxqW28C8Q,Roberto Diana;Muniesa,Muniesa,Cortes de Aragón,47,72167,False,0.426,0.0812,4,-21.651,0,0.0843,0.948,0.889,0.107,0.243,85.204,5,guitar
+6ci4RuIy9fSpPnZ14y0W3R,Joseph Sullinger,Solitude,Solitude,40,167978,False,0.473,0.108,9,-18.716,1,0.132,0.987,0.905,0.105,0.191,110.29,3,guitar
+53yCbC8zjcNQi5534UDoWL,Guus Dielissen,"Acoustic Guitar Covers, Vol. 3",Memories (Instrumental Guitar),37,191506,False,0.491,0.185,11,-18.994,1,0.0452,0.947,0.929,0.195,0.674,90.465,4,guitar
+6VP0ffrPisdKDBvd3ptp5f,Eddie van der Meer,Anime Songs #6,Unravel (OP from 'Tokyo Ghoul'),29,254837,False,0.334,0.619,7,-6.193,0,0.0307,0.365,0.728,0.282,0.308,133.405,4,guitar
+0kUvYvrYM7xJnnJJFwNW1r,August Flendahl,Waterfall,Waterfall,49,147433,False,0.559,0.0839,4,-15.855,1,0.0747,0.973,0.927,0.0966,0.225,159.135,4,guitar
+392OK8Qdmos0wNDrduiwy0,Wes Montgomery,Incredible Jazz Guitar,In Your Own Sweet Way,47,291640,False,0.566,0.0703,3,-21.919,1,0.0452,0.992,0.912,0.11,0.0785,122.274,4,guitar
+5t19mTJVC2P8Yjw4obBOUL,Casper Esmann,Make You Feel My Love (Acoustic Instrumental),Make You Feel My Love - Acoustic Instrumental,42,214000,False,0.392,0.331,10,-13.412,1,0.0357,0.546,0.953,0.112,0.17,150.156,4,guitar
+7MteKnJkL2w8A4sI5gxTON,Miguel Llobet Solés;Annabelle Kralisch,El testament de Amelia,El testament de Amelia,24,134971,False,0.441,0.137,10,-21.724,1,0.0298,0.985,0.936,0.123,0.242,90.985,3,guitar
+0Y4ipB4nBIZA3dWUWcoeLB,Little Symphony,Coco Beach,Coco,51,160000,False,0.17,0.364,2,-21.87,1,0.0701,0.839,0.948,0.975,0.21,83.16,3,guitar
+04tv9ewp0KMC5ijweE1GmS,Noriyasu Takeuchi,JPOPギターベスト1,TRUE LOVE,24,194859,False,0.644,0.0563,0,-19.552,1,0.0509,0.981,0.902,0.117,0.226,105.262,4,guitar
+3911Bzzv8FHgbitJzXFjxh,Tinariwen,Emmaar,Toumast Tincha,46,260253,False,0.3,0.66,10,-7.536,0,0.0704,0.485,0.817,0.116,0.189,87.4,4,guitar
+2FvCBaYjZ9d5AnRvPA68Lx,Randy Lorenzo,Slack Key Guitar Volume 2,Nai'o,25,208293,False,0.536,0.175,0,-18.902,1,0.0452,0.877,0.829,0.0874,0.343,147.711,4,guitar
+0GF5O4jv4zIrrV5EWNdSL1,Manuelcha Prado,Madre Andina,Koka kintucha,26,238889,False,0.437,0.583,2,-4.48,0,0.0266,0.209,0.000128,0.313,0.618,99.218,4,guitar
+3zvBkrRyrDFmcJAfmZLEOT,Joe Satriani,The Extremist,Summer Song,49,297800,False,0.384,0.917,2,-5.764,1,0.035,1.1e-05,0.927,0.101,0.48,162.128,4,guitar
+6RWhxVhLfVNxvE3ubp97SN,AJ Ghent [ j-ent ],AJ Ghent Presents: Let the Guitar Sing (Live at American Sushi),Mercy (Live),25,457738,False,0.453,0.27,11,-9.874,1,0.0457,0.122,9.13e-05,0.0865,0.378,118.181,4,guitar
+2Hv3yyVCDTIZyERSx11WUq,Pantelis Thalassinos,O Agios Erotas,An M' Agapas Tha S' Agapo,25,259640,False,0.631,0.529,4,-9.595,0,0.0509,0.615,8.25e-05,0.0901,0.564,112.61,4,guitar
+3HpLHPsY7MbnZdILzlGItI,Cuarteto La Púa;Victoria Di Raimondo,Canciones Con Niebla,Fragilidad,24,199200,False,0.495,0.283,7,-9.7,1,0.0385,0.77,0.0,0.111,0.304,100.566,4,guitar
+1WXzAqsM3KICUiL0tspOkW,Kiko Revatta,Ayacucho En El Corazon De Todos Vol. 1,Pedernal,25,229493,False,0.645,0.582,6,-7.842,0,0.0413,0.622,0.000703,0.117,0.841,84.432,4,guitar
+2ZowEqPtfAsvA9Of2RWcw1,Carlos Di Fulvio,"Carlos Di Fulvio ""El Amigo""",Campo Afuera,26,144493,False,0.546,0.517,2,-7.28,1,0.0409,0.893,0.000204,0.125,0.803,157.701,3,guitar
+0Ppn89Eh6ZAwPVJ0iUvXvv,Mexican Music Factory;Felipe Gutierrez,Marimbas Clasicas,La Sandunga,24,208622,False,0.791,0.379,5,-11.202,0,0.148,0.665,0.811,0.0941,0.81,165.111,3,guitar
+1OIET3yptLiovEz07Wpk7y,Antonio Bribiesca,Homenaje a Antonio Bribiesca,La Borrachita,25,187120,False,0.424,0.0791,1,-19.117,1,0.039,0.957,0.000993,0.112,0.198,167.646,3,guitar
+1paEbamZ36rHlvhc8wZUjl,Charles Michael Brotman;Robi Kahakalau,Kohala & Friends: Lullaby,When Pueo Flies,25,250586,False,0.587,0.0507,9,-15.842,1,0.0552,0.979,3.08e-06,0.107,0.31,96.073,3,guitar
+37Au9ab3zTZAkpY2QvbCub,William Luna;Julio Humala L,En Serio... Huaynos por Siempre,Yaulillay,27,265080,False,0.739,0.41,2,-6.991,1,0.0428,0.46,0.0,0.171,0.656,138.059,3,guitar
+2YKCSCs5WmBonIm4WVfKSK,Steve Petrunak,Instrumental Versions of Current Country Songs: Meant To Be,What Keeps You Up at Night (Instrumental Version),26,201102,False,0.521,0.335,7,-10.687,0,0.0569,0.828,0.927,0.272,0.537,136.627,4,guitar
+4OyiH9ldVjOpMTfrjiQ3kh,Los Apus,Tengo Que Olvidarme de Tí,Tus Ojos,26,329561,False,0.585,0.81,9,-3.927,0,0.039,0.251,0.0,0.293,0.704,97.314,4,guitar
+6evgzFyOeu4zuCPB62UQJM,Los Apus,Lágrimas Del Sol,"Si Te Marchas, Veté Ya!!!",26,251920,False,0.684,0.579,11,-6.776,0,0.029,0.845,0.000111,0.292,0.659,100.322,4,guitar
+5K9xN9C2TFIfAN0R5ExOVU,Pat Metheny;Anna Maria Jopek,Upojenie,Upojenie (Ecstasy),26,284080,False,0.545,0.396,9,-10.459,0,0.0306,0.922,0.00368,0.11,0.231,95.673,4,guitar
+3tv8V2t1wYMJPiNU9sJKnn,Los Apus,Sunquyparurun,Queridos Amigos,26,342560,False,0.579,0.68,0,-3.648,1,0.106,0.524,0.000335,0.0864,0.524,77.458,3,guitar
+7lCc29rXmulE7MSpOiQcil,Los Apus,No Debí Conocerte,No Debí Conocerte,26,273809,False,0.693,0.727,3,-3.883,1,0.0666,0.535,2.01e-06,0.0796,0.932,140.902,3,guitar
+2fB6JWclKVW75mPSxY6uEx,George Dalaras,O Giorgos Dalaras Tragoudai Stavro Kougioumtzi,Ola Kala - Live,25,179025,False,0.451,0.701,6,-6.424,0,0.0509,0.442,0.0,0.847,0.214,91.795,4,guitar
+5GB1M2v3XF9lS2wqoxGHXq,George Dalaras;Yiannis Kotsiras,Ta Mousika Genethlia – Duets (Live),Mikri Patrida - Live,25,269640,False,0.327,0.295,4,-11.21,0,0.0328,0.735,3.11e-05,0.136,0.12,131.799,4,guitar
+7383bRgNt0veQv2sSCP2hR,William Luna;Julio Humala L,En Serio... Huaynos por Siempre,Una Paloma Sobre una Rama,26,327800,False,0.743,0.472,0,-5.495,1,0.0377,0.544,0.0029,0.107,0.582,71.764,5,guitar
+3oZ5FtxyVCv9Iis84HPuMr,Sergio & Odair Assad,Heitor Villa-Lobos: Complete works for solo guitar,Prelúdio No. 2,24,176333,False,0.287,0.318,11,-15.57,1,0.038,0.979,0.914,0.115,0.51,138.623,5,guitar
+1ZFPE7eUgQIRP7UDTmaVUn,Kurt Rosenwinkel,Happy Christmas Instrumentals,Christmas Song,0,287133,False,0.452,0.298,9,-14.353,1,0.0421,0.66,0.0141,0.226,0.323,109.15,3,guitar
+5UC4NQOJFPBlvUlYQBGyLt,Kurt Rosenwinkel,Ultimate Calm Christmas Jazz,Christmas Song,0,287133,False,0.452,0.298,9,-14.353,1,0.0421,0.66,0.0141,0.226,0.323,109.15,3,guitar
+1fdyl4QD6yEvI7ZFEgpBQw,George Dalaras,George Dalaras (Remastered),Pou 'Ne Ta Hronia - Remastered,25,177840,False,0.431,0.599,2,-7.858,0,0.0366,0.638,0.0,0.105,0.801,141.245,4,guitar
+3qH6sHAkGfAQh3wXVBLjjS,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",La mancornadora,26,146520,False,0.598,0.241,2,-13.767,1,0.0706,0.992,0.522,0.111,0.328,67.435,3,guitar
+2KwBxSR5iMttLaJa3gMA7B,Cuco Sánchez,El Revolucionario,Siempre Hace Frio,25,177266,False,0.597,0.0938,10,-13.838,1,0.0405,0.903,4.85e-06,0.125,0.311,114.892,4,guitar
+79FlMEruNNXPlE5hdYfbl6,Los Tecolines,Antología... Los Tecolines,Cien años,26,164160,False,0.603,0.352,0,-11.886,1,0.0294,0.969,7.18e-05,0.0948,0.722,103.756,4,guitar
+3C4704SW3Fj5kCwCQqCEwc,Los Tecolines,Boleros de Oro,Por la Cruz,26,184866,False,0.668,0.472,5,-9.29,1,0.0359,0.781,0.000175,0.381,0.73,119.453,4,guitar
+0VXSstDuTzu6dTYg04SCMs,Cuco Sánchez,La Gran Colección del 60 Aniversario CBS - Cuco Sánchez,Corazón Apasionado,26,214933,False,0.482,0.137,7,-11.566,1,0.0426,0.951,1.35e-05,0.106,0.363,70.96,4,guitar
+2RJYSeWJDpWlf7DY3YDRjD,Cuco Sánchez,La Gran Colección del 60 Aniversario CBS - Cuco Sánchez,Fallaste Corazón,25,169573,False,0.522,0.0718,0,-13.033,1,0.0459,0.987,0.000238,0.11,0.282,106.732,3,guitar
+3QtxxCHsr3qo99WKxBJmlU,Sungha Jung,Two of Me,Rainy Day,37,208760,False,0.49,0.276,9,-10.045,1,0.0344,0.886,0.924,0.108,0.109,139.994,4,guitar
+5ZtlJ9c1AlxeuACtawyHAK,Maneli Jamal,Nocturnal Space,Nocturnal Space,28,207180,False,0.49,0.158,2,-16.259,1,0.0484,0.987,0.783,0.0856,0.173,105.394,4,guitar
+0nj2Q2OukMzwjNip4sZx1C,Casper Esmann,Shirohae,Shirohae,38,164000,False,0.55,0.137,9,-16.341,0,0.056,0.936,0.731,0.103,0.165,126.53,4,guitar
+21t4DDRozHOL3jJOkK3WbJ,AcousticTrench,Wake Me Up When September Ends,Wake Me Up When September Ends,35,83739,False,0.49,0.0614,0,-24.953,1,0.0397,0.979,0.848,0.111,0.232,114.609,4,guitar
+5ea1LyyvBGWH3Hp0f61Pwt,Mats Bergström,Why Me,Why Me,45,166279,False,0.555,0.0177,7,-22.953,1,0.074,0.993,0.961,0.114,0.0841,81.108,4,guitar
+2FOxa2wEutyDKFd5uGz7ZD,Gabriella Vargas Luna,Night Sky,Night Sky,48,133939,False,0.492,0.351,9,-11.63,1,0.0566,0.893,0.871,0.0991,0.658,122.89,3,guitar
+7aK1caHaXe63BtAoIFvN2h,De Moi,Still Life,Still Life,47,198000,False,0.165,0.0448,2,-28.218,1,0.0426,0.943,0.779,0.0912,0.0565,135.893,4,guitar
+5QSUroBMs5XaGfNqzObDEs,Vandenberg,Sonnen Diamant,Sonnen Diamant,46,154750,False,0.66,0.0863,2,-19.892,1,0.0597,0.94,0.92,0.117,0.153,131.096,4,guitar
+7hlsLyn6X1kAuu25nEWqWS,Guus Dielissen,"Acoustic Guitar Covers, Vol. 2",River Flows In You - Guitar Version,32,208897,False,0.329,0.177,4,-19.936,1,0.057,0.951,0.86,0.111,0.511,123.138,4,guitar
+1nTIlEfFDYpeRTkvhdF6I3,Joe Satriani,Is There Love In Space?,If I Could Fly,45,391080,False,0.55,0.953,2,-3.65,1,0.0343,5.4e-05,0.927,0.118,0.364,129.987,4,guitar
+56ICwlcXIKFoLg2CzbKwKF,Lasse Ivonen,All of Me,All of Me,52,181167,False,0.379,0.141,9,-20.041,1,0.049,0.967,0.934,0.111,0.265,122.264,4,guitar
+3uWeyoRHCWz52lhK37mYmT,Las Tres Abejas,Olessa,Olessa,47,187000,False,0.599,0.119,9,-16.807,1,0.13,0.95,0.919,0.113,0.184,108.644,4,guitar
+3UpxVxiOgDX5YYplBsEXwO,Ichika Nito,Awakening,Nothing is lost,41,130082,False,0.693,0.16,9,-13.021,1,0.146,0.928,0.956,0.113,0.189,130.445,4,guitar
+3Q97tyLwBoqT3hgpXC9h42,Robert Lowe,Just Dipping My Toe,Just Dipping My Toe,46,227036,False,0.679,0.127,7,-13.935,1,0.0693,0.927,0.908,0.104,0.44,80.072,4,guitar
+3rWEXlu3kkVDzFK2Ydm0ID,Edy Hafler,"Guitar Pop Covers, Vol. 2",Fields of Gold,39,147505,False,0.593,0.164,6,-15.002,1,0.107,0.97,0.946,0.106,0.327,80.065,4,guitar
+5U6thva4oLU4RKRw9w2ZE1,Joe Satriani,The Elephants of Mars,Sahara,39,276434,False,0.429,0.606,10,-6.726,0,0.0292,0.054,0.873,0.0781,0.12,91.039,4,guitar
+1jLPkdowV0Q65AIMeElJpR,Eddy Tyler,Guitar Covers,Let Her Go,39,237679,False,0.405,0.402,7,-11.515,1,0.0319,0.74,0.944,0.181,0.354,149.425,4,guitar
+3qFoyS9JjWo5MBrHMvqt9d,Celestial Conscience,"The Legend of Ashitaka (from ""Princess Mononoke"") [Acoustic Guitar]","The Legend of Ashitaka (from ""Princess Mononoke"") - Acoustic Guitar",40,79941,False,0.557,0.209,4,-14.848,0,0.0548,0.833,0.526,0.109,0.204,130.507,3,guitar
+7jyXoRvNprm7oudAzrwGpQ,Mattias Krantz,"Fingerstyle Guitar Cover, #2",Something Just Like This,35,202448,False,0.661,0.489,11,-13.744,0,0.0522,0.846,0.863,0.112,0.613,111.511,4,guitar
+6BWU3P2Q73XEicLPQTAgCN,Juan Falú,Como el Aire,Ya me Voy,25,154680,False,0.627,0.27,4,-15.618,0,0.0492,0.977,0.896,0.117,0.534,116.826,3,guitar
+7cuNUdSbrrFIiqejH4tbsI,Edy Hafler,"Guitar Pop Covers, Vol. 2",Time after Time,51,212031,False,0.562,0.158,5,-14.953,1,0.0648,0.942,0.88,0.113,0.287,112.623,4,guitar
+3ExNcJ7LkInTekJg13FQSq,Joe Satriani,Surfing With The Alien,Satch Boogie,49,192600,False,0.46,0.951,2,-6.869,1,0.108,0.00285,0.833,0.0523,0.336,108.005,4,guitar
+7BjNYJIMFWUm775XArgtEb,Riber Oré,Soy del Perú,Recuerdos de Julcán,24,174213,False,0.58,0.357,9,-7.715,0,0.0957,0.856,0.834,0.121,0.337,133.474,4,guitar
+4x4x75bOirYo5t5n9koknD,Hapa,HAPA,Haleakala Ku Hanohano,24,200640,False,0.352,0.357,9,-14.143,1,0.0341,0.785,0.0,0.226,0.511,139.863,4,guitar
+7BQVhWw9GR1Up3eKQrYFlI,Julian Lage,Arclight,Nocturne,47,199015,False,0.486,0.48,1,-8.643,1,0.0262,0.772,0.802,0.09,0.215,107.282,4,guitar
+3JntO4crk6HGxKkqPrDZMu,Joseph Sullinger,Nights in White Satin,Nights in White Satin,24,351196,False,0.556,0.0709,4,-22.006,0,0.0472,0.965,0.908,0.0997,0.263,74.44,4,guitar
+4x1xGv6TpdIJ3AK1DmhOQV,Steve Petrunak,Instrumental Versions of Current Country Songs: Meant To Be,Nothin' Like You (Instrumental Version),25,184186,False,0.411,0.298,4,-13.118,1,0.0495,0.951,0.882,0.113,0.498,169.932,4,guitar
+7xh3y75IRQp5pQoaIdbXuS,Kostas Chatzis,30 Chronia Kostas Chatzis,Spoudaioi Anthropoi Alla,24,65133,False,0.421,0.706,9,-8.22,0,0.0391,0.832,0.0505,0.177,0.698,96.731,3,guitar
+01moK6nSNPIDKnfv5GhsN1,Mexican Music Factory;Felipe Gutierrez;Jorge Cristian,Marimbas Y Regional Vol. 1,Ansia Marimba,24,181465,False,0.874,0.407,2,-11.116,1,0.0568,0.516,0.907,0.119,0.518,98.028,4,guitar
+77vTsSxdAuEnBYZqzS6BaO,Los Apus,Lágrimas Del Sol,Te Quise,25,216853,False,0.852,0.754,2,-3.66,1,0.0359,0.73,1.58e-06,0.297,0.815,100.015,4,guitar
+3oyTqxLuItCdLpXUXlE3aF,Pantelis Thalassinos;Giannis Nikolaou,Oi Aggeloi Tou Erota,Tou Feggariou,24,282053,False,0.48,0.287,4,-11.621,0,0.0279,0.823,0.000452,0.0867,0.332,103.814,4,guitar
+7LVS5k478FEgqR7vLTkW1t,Dúo Romances,Perdidos y Olvidados,Amantes Perfectos,24,292146,False,0.686,0.821,5,-4.02,1,0.0321,0.608,4.27e-06,0.278,0.926,146.11,4,guitar
+7kEwwmnAkgoll8koLkwZeC,Cacho Tirao,Los Esenciales,"Danza Húngara, No. 5",24,167426,False,0.455,0.244,9,-12.326,1,0.0334,0.784,0.00081,0.204,0.376,137.891,4,guitar
+3mXHmXQi9pJKgDpLEJ6ZbT,Duo Retama,Siempre,Carnaval Apurimeño,25,546933,False,0.413,0.732,9,-4.311,1,0.0377,0.567,0.0176,0.0983,0.851,114.215,4,guitar
+0SzwttY3oCODcDna3I9I2l,Los Indios Tacunau,Zambas From Argentina To The World,Quiero Ser luz,25,195106,False,0.554,0.476,6,-11.698,0,0.0608,0.739,2.1e-05,0.103,0.626,171.654,4,guitar
+6XHIrU7a7sP4zqQ1adUArQ,Pepe Jara,El Último de Los Grandes Trovadores,La Mentira (Se Te Olvida),25,135960,False,0.587,0.178,1,-14.274,0,0.121,0.939,1.84e-05,0.0984,0.549,83.52,4,guitar
+44weMCXmkvlFkxfMZj12gq,George Dalaras;Babis Stokas,Klidaries,Klidaries,25,274353,False,0.467,0.403,2,-11.626,0,0.0307,0.529,0.000287,0.118,0.231,122.586,3,guitar
+0YPqhxpKjOGNt3eW3Zsrd1,Carlos Paredes,Movimento perpétuo,Movimento perpétuo,25,86120,False,0.272,0.64,2,-14.449,1,0.0372,0.77,0.907,0.276,0.961,154.741,4,guitar
+7MLUqHdDQpekTZkHJoENqr,Raúl García Zárate,"La Primera Guitarra Andina del Perú, Vol. 2 (Patrimonio Cultural de la Patria)",Carnaval Arequipeño,24,152066,False,0.598,0.266,11,-14.298,1,0.065,0.884,0.87,0.102,0.352,101.201,4,guitar
+4NO90DSZaIUfQQhhp1m1wB,Jesse Rice,The Pirate Sessions III,Tank Tops & Flip Flops,24,193952,False,0.56,0.89,8,-5.709,1,0.0351,0.0367,0.0,0.327,0.808,88.006,4,guitar
+3ZtLj5emVxikVukUkErubQ,George Dalaras;Emma Shapplin,Difonies,Spente Le Stelle - Live,25,282400,False,0.418,0.871,4,-1.975,0,0.0691,0.262,0.00139,0.773,0.43,83.784,4,guitar
+5AemNBpx2YLlQKZO3LN9Bp,Raúl García Zárate,"La Primera Guitarra Andina del Perú, Vol. 2 (Patrimonio Cultural de la Patria)",El Cóndor Pasa,24,256693,False,0.557,0.186,9,-13.2,0,0.119,0.875,0.705,0.106,0.424,117.863,4,guitar
+0Cqa73dSlagoCQP2LEBFDr,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 1,Mucho corazón,25,186986,False,0.764,0.287,4,-12.13,0,0.0382,0.964,5.56e-05,0.105,0.405,113.106,4,guitar
+0RLHfz9EazZEt7L0TzFa86,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",La chancla,24,148933,False,0.568,0.104,1,-17.197,1,0.0504,0.905,0.0,0.0817,0.536,82.894,4,guitar
+5EYmQ7XgC5Fxsig2SgXP2G,Los Tecolines,Antología... Los Tecolines,Pena de amor,25,187466,False,0.593,0.307,11,-11.239,1,0.0509,0.971,1.19e-06,0.125,0.544,101.033,4,guitar
+2kF9Ijd7I2Kk2P4bYqUmzG,Kenny Burrell,Midnight Blue (The Rudy Van Gelder Edition),Midnight Blue - Remastered,55,242346,False,0.652,0.356,5,-13.733,0,0.0419,0.546,0.000103,0.132,0.56,148.822,4,guitar
+6DQyiJKehBLh6QbPx3zziq,Los Tres Caballeros,Recuerdos De Ipacaraí,Contarás Conmigo,25,209339,False,0.744,0.209,6,-13.951,1,0.0418,0.936,0.00112,0.101,0.705,91.15,4,guitar
+1rIqfYq2x4H8fymncMlhVW,Cuco Sánchez,Cuco Sanchez Sentimiento Mexicano,Aún Se Acuerda de Mí,24,172309,False,0.405,0.131,0,-19.108,1,0.0438,0.859,0.0,0.187,0.298,72.637,3,guitar
+6qM3zhKdj7VA8y4xuO27OR,Eduardo Falú,El Sueno De Mi Guitarra,Cancion Del Amor En Zapatillas,25,252226,False,0.452,0.344,0,-13.823,1,0.0336,0.746,0.00389,0.126,0.354,99.894,4,guitar
+6gANdHuTWi35ExxIvINX2p,Cuco Sánchez,La Gran Colección del 60 Aniversario CBS - Cuco Sánchez,"Que Si Te Quiero?, Júralo",24,154506,False,0.53,0.134,7,-8.713,1,0.0446,0.873,4.43e-06,0.134,0.559,76.849,4,guitar
+71Dv5Rf47Obs0Ue4fm2rHi,Maneli Jamal,Northern Lights,Northern Lights,26,233581,False,0.623,0.236,5,-17.411,1,0.0447,0.971,0.918,0.0928,0.307,75.985,4,guitar
+7g9UkRIHKhrWdVXDw3uxJA,Joe Satriani,Strange Beautiful Music,Starry Night,36,233506,False,0.636,0.795,0,-4.161,1,0.0279,0.212,0.64,0.0971,0.84,144.143,4,guitar
+1tQC5wVWIxwsSTY5lPXIeI,Josephine Forrester,The Other Side Of The Sun,The Other Side Of The Sun,49,155295,False,0.605,0.156,4,-15.428,1,0.0603,0.962,0.944,0.109,0.21,120.839,4,guitar
+3SneyeUpTaZfmdT2LeEAhk,Project AER;v i v,How Are You? I'm Okay,Safe Space,11,173499,False,0.727,0.21,8,-16.49,1,0.0448,0.888,0.844,0.11,0.0403,124.068,4,guitar
+6uwG6NtEL6PH5z7gwxoeC2,Andrew Foy,Savage Love,Savage Love,30,168616,False,0.665,0.139,3,-20.422,1,0.0551,0.464,0.839,0.101,0.703,139.764,4,guitar
+2amfLm3CsTQT3OBlqpXh0M,Ivan Bielsa,Salut Sandro,Salut Sandro,47,169607,False,0.536,0.0899,7,-17.357,0,0.0383,0.961,0.725,0.118,0.0844,105.901,3,guitar
+0EZHiRC20SAuX4ChQA1MG9,Project AER;v i v,How Are You? I'm Okay,Happiness Is Real,7,163999,False,0.72,0.172,0,-15.553,1,0.0492,0.93,0.924,0.074,0.109,121.921,4,guitar
+7m8A3LgFmtjCKUl83cm4vI,Project AER;v i v,How Are You? I'm Okay,Rakka,6,155999,False,0.706,0.257,2,-15.147,1,0.0589,0.937,0.895,0.131,0.258,126.006,4,guitar
+0EOIwRvmBzRE2RT7bxaLqf,Helena Timmers,Nell'angolo,Nell'angolo,47,158519,False,0.594,0.123,2,-17.052,1,0.0662,0.984,0.749,0.107,0.267,116.346,4,guitar
+571K2H9m407zXaFXnpoas1,Andrew Foy,Best Covers,Shape Of You,24,220459,False,0.561,0.284,1,-15.309,0,0.0491,0.791,0.86,0.107,0.825,96.893,4,guitar
+5cIArreof1TD6LLYhvA2Oq,Project AER;Colours in Context,Growth Patterns,The Finality of It All,44,129998,False,0.63,0.108,9,-19.841,1,0.0319,0.811,0.686,0.085,0.12,95.054,4,guitar
+5sU5tHfxGMCMMI3WmgUQ0L,Project AER,Growth Patterns,Downtime,46,159285,False,0.563,0.133,2,-20.87,1,0.0328,0.921,0.904,0.143,0.156,61.983,4,guitar
+2hw1sBTzjB9zghnlLpqeAj,Project AER;v i v,How Are You? I'm Okay,Weightless,5,152999,False,0.706,0.228,2,-18.502,1,0.0329,0.914,0.953,0.0859,0.0713,117.997,3,guitar
+2okIewG8AcK9Ec3DavV50n,Project AER;v i v,How Are You? I'm Okay,Embrace,6,158999,False,0.565,0.145,9,-19.083,1,0.0342,0.921,0.926,0.079,0.0399,120.995,4,guitar
+2fcmS6jBbfEIzyubu8LuFb,George Benson,Guitar Man,Since I Fell For You,51,178440,False,0.467,0.108,7,-12.753,1,0.0347,0.952,1.61e-06,0.11,0.242,92.82,3,guitar
+43wKR9DJeSUD2OwVKvdPKU,Project AER;v i v,How Are You? I'm Okay,I'm Okay,6,180999,False,0.651,0.12,9,-19.113,1,0.0293,0.951,0.923,0.0971,0.0562,112.011,4,guitar
+0V48U4TWiW28OguQeQQvXh,Andrew Foy,Watermelon Sugar,Watermelon Sugar,33,173500,False,0.691,0.332,7,-12.27,1,0.0477,0.345,0.808,0.125,0.375,95.213,4,guitar
+54TlQ4tnC8shv8cc5VSRqr,Project AER;v i v,How Are You? I'm Okay,Anxiety,6,165999,False,0.7,0.205,7,-20.188,0,0.043,0.805,0.877,0.0698,0.134,118.016,4,guitar
+63FZq6Nbam9PT3YoRphYTb,Project AER;v i v,How Are You? I'm Okay,One For Vulnerability,9,179999,False,0.63,0.202,9,-19.051,1,0.0302,0.958,0.871,0.112,0.0969,121.965,4,guitar
+6M61Wwn20lMTDOWIE28HtL,Project AER;v i v,How Are You? I'm Okay,Little Lights,5,166999,False,0.547,0.163,6,-19.722,0,0.0294,0.842,0.946,0.166,0.179,129.978,4,guitar
+2TjNLyK7wvb3gr5c1vXcUS,Project AER;v i v,How Are You? I'm Okay,Not Alone: I'm Here For You,5,131499,False,0.714,0.0593,8,-22.9,1,0.0389,0.951,0.952,0.0753,0.0663,116.992,4,guitar
+5hcGrtw0zsuAvdCHDm0pGP,Project AER;v i v,How Are You? I'm Okay,Overwhelming,6,227999,False,0.469,0.159,5,-21.999,1,0.0326,0.875,0.927,0.0652,0.0362,117.975,4,guitar
+6u9Hxh7KIXRQXMtoRL4tRK,Pantelis Thalassinos,Ap'Tin Tilo Os Ti Thraki (Dia Zosis),Sto Kastro To Palio,24,133933,False,0.477,0.239,9,-14.588,1,0.0466,0.734,0.0,0.134,0.259,123.752,4,guitar
+2c8gg7h8uHxx08A441IDYi,Project AER;v i v,How Are You? I'm Okay,Let the Waves Wash Over Me (Prelude),6,164999,False,0.629,0.135,8,-22.358,0,0.0338,0.819,0.923,0.0784,0.0378,115.967,4,guitar
+3W81HHbWbgd76fOpm9XMEm,Project AER;v i v,How Are You? I'm Okay,Words of Warmth,6,136499,False,0.709,0.0945,5,-22.648,0,0.037,0.935,0.959,0.089,0.096,128.024,4,guitar
+5Ah3Zx7WT0nOQNPvRYeW1m,Nik Davies,Folktales,Folktales,24,191927,False,0.597,0.57,11,-10.581,0,0.0466,0.752,0.877,0.145,0.892,124.636,3,guitar
+2QNskthot9ctTMoDWrCXcc,Project AER;v i v,How Are You? I'm Okay,Lunar Cycles,7,168999,False,0.669,0.161,10,-22.266,1,0.0468,0.948,0.914,0.0979,0.189,127.056,4,guitar
+3yjzSTgeqPyp6ReOmiBDuJ,Project AER;v i v,How Are You? I'm Okay,Rumination,5,182999,False,0.379,0.177,9,-22.892,1,0.0324,0.902,0.957,0.117,0.1,113.985,4,guitar
+70uDvys1CLzhxG2EQzfkOJ,Steve Pulvers,Acoustic Lullaby,Mulberry and Chicory,24,190500,False,0.788,0.184,2,-15.484,1,0.066,0.858,0.448,0.111,0.384,140.077,3,guitar
+1SKKrTVtFPIue1vNKllpqY,Project AER;v i v,How Are You? I'm Okay,When Shared,6,161999,False,0.673,0.17,5,-23.395,1,0.0347,0.858,0.879,0.0684,0.213,123.972,4,guitar
+3uejkVhjyDlkRPUCCnBUJz,Duo Retama,El Poder Andino,Gracias Cariño,24,260333,False,0.504,0.723,10,-5.008,1,0.0395,0.736,6.23e-05,0.0894,0.788,126.913,5,guitar
+5FyQffggpTfBCkoiizxXI6,Project AER;v i v,How Are You? I'm Okay,Finding A Way Past the Tears,6,149999,False,0.663,0.196,2,-19.37,1,0.0301,0.97,0.935,0.0701,0.0787,110.036,4,guitar
+7CSmSsk9fGBW6VtbekC757,Hitman Blues Band,"Not My Circus, Not My Monkey",No Place Like Home,24,281600,False,0.637,0.516,0,-8.725,1,0.028,0.655,0.0151,0.156,0.178,117.811,4,guitar
+0WJbGruMhXJaHzclGx5uIq,Steve Petrunak,Shake It Off: Instrumental Guitar Covers of Pop Hits,Rude,42,221750,False,0.721,0.475,1,-8.322,1,0.0453,0.941,0.877,0.134,0.641,143.951,4,guitar
+5jZAMc5oJx3HDXKKWAj8o2,Steve Petrunak,Instrumental Versions of Current Country Songs: Meant To Be,Mercy (Instrumental Version),24,212148,False,0.567,0.203,1,-15.142,0,0.0511,0.962,0.848,0.105,0.44,143.898,4,guitar
+499GUOtfnmTbju4n66tOhU,Moses Kahumoku,Ho'okupu - The Gift,Paniolo,24,186373,False,0.321,0.525,7,-18.344,1,0.0379,0.905,0.908,0.0988,0.935,165.672,3,guitar
+5mIjzzRqMZAHzw99QfQ7O0,Moses Kahumoku,Ho'okupu - The Gift,U'i Lani,24,169266,False,0.441,0.206,6,-21.574,1,0.0484,0.9,0.838,0.107,0.83,151.099,4,guitar
+7y3sT5pTIzjjRcaE3sZyg2,Steve Petrunak,Instrumental Versions of Current Country Songs: Meant To Be,Drunk Girl (Instrumental Version),25,201572,False,0.595,0.305,0,-13.702,1,0.0431,0.945,0.887,0.0974,0.437,102.037,4,guitar
+3bV0XHSOU7xV8uH7i0lnDc,William Luna,Retazos,Mi Niña,26,199960,False,0.558,0.607,11,-9.839,0,0.0335,0.474,7.89e-05,0.109,0.872,78.054,4,guitar
+4e1wy1OzfWoMy3AFiyk15o,Ramon Dona-Dio;Sus Guitarras Mexicanas,Ramón Dona Dio y Sus Guitarras Mexicanas,Semblanza Veracruzana:,23,92733,False,0.553,0.159,8,-28.7,1,0.0417,0.876,0.794,0.09,0.911,93.329,3,guitar
+3aOngN7GFrPbe8CqkebXnG,Dúo Ayacucho,Tour 2001 (En Vivo),Agua Rosada / Noche de Luna - En Vivo,25,400880,False,0.448,0.726,0,-5.372,1,0.0427,0.793,1.41e-05,0.108,0.39,83.42,5,guitar
+05lUa68MryOc9Ya3B2rY91,The Country Side Of Harmonica Sam,"Broken Bottle, Broken Heart","Broken Bottle, Broken Heart",24,172425,False,0.725,0.301,7,-11.786,1,0.0357,0.74,1.23e-05,0.0561,0.715,96.033,4,guitar
+50sWFRRbPHNz7n7Nt1N93E,Steve Petrunak,Instrumental Versions of Current Country Songs: Meant To Be,Make It Sweet (Instrumental Version),25,184111,False,0.447,0.332,7,-11.319,1,0.0334,0.864,0.798,0.0815,0.67,89.9,4,guitar
+4RbcHubz7t9zcJlRqai501,William Luna;Julio Humala L,En Serio... Huaynos por Siempre,Yo Soy Huancaino,26,212973,False,0.701,0.557,0,-5.193,1,0.0365,0.556,6e-06,0.0847,0.782,81.093,3,guitar
+68acKTyRxYxgpPAspfDxrA,Los Tres Caballeros,Los Tres Caballeros,Tu Condena,24,187245,False,0.634,0.373,3,-9.901,1,0.0602,0.936,8.69e-05,0.108,0.728,91.055,4,guitar
+4AfpcvONlD0RHczbkmIBOs,William Luna,Desde el estudio,Linda wawita,25,199626,False,0.615,0.744,10,-7.844,1,0.156,0.191,0.0,0.3,0.962,97.874,4,guitar
+5rlI3lPcAageCLQCaNeb8M,Los Tres Caballeros,Recuerdos De Ipacaraí,Recuerdos De Ipacaraí,24,162620,False,0.509,0.149,6,-11.632,1,0.0458,0.87,1.17e-06,0.243,0.266,84.106,3,guitar
+6blHj7Ow8CSV7frB0n7ncY,John Pizzarelli,Midnight McCartney,No More Lonely Nights,24,307360,False,0.543,0.336,9,-10.701,0,0.0371,0.824,0.0472,0.117,0.292,98.955,4,guitar
+3fW2vsnQdAJYRiKJ2pNBQx,Los Tres Caballeros,20 Éxitos,El Candado,24,229493,False,0.718,0.373,11,-8.603,1,0.0388,0.732,1.19e-06,0.0901,0.803,88.299,4,guitar
+0gQulAfsNWVrGsGbDF9z0C,Cuco Sánchez,Cuco en Balladurri,"Popurrí 1: Aunque Me Cueste la Vida, Hay Unos Ojos, A Medias de la Noche",24,280084,False,0.434,0.0812,5,-14.44,1,0.0409,0.911,5.33e-06,0.369,0.307,94.303,4,guitar
+5DVzeTaRWU3ryXM3qNN9qg,Ichika Nito,Journey,Secret,42,129122,False,0.508,0.256,1,-13.302,1,0.0392,0.653,0.722,0.0797,0.624,171.02,3,guitar
+2VOIhAAQ1l03SZaWCpqAuq,From Somewhere Quiet,Somewhere Else,August,38,169506,False,0.226,0.101,1,-21.513,1,0.032,0.991,0.947,0.106,0.139,76.41,3,guitar
+2l0Mxa8QM5zQfwfU4Z4Uok,Project AER,Light in the Sky,Light in the Sky,44,160212,False,0.533,0.386,2,-11.851,1,0.0562,0.224,0.754,0.132,0.0631,93.939,4,guitar
+30CSchwlaiSQUb4R29Gczs,Maneli Jamal,Hidden Moments,Hidden Moments,28,248642,False,0.404,0.076,9,-17.674,1,0.0513,0.987,0.919,0.0919,0.222,157.635,4,guitar
+437RdHmPqM2MC6DfmpGCxJ,Jessica Grange,Riviera Moon,Riviera Moon,49,118607,False,0.895,0.0265,2,-19.707,0,0.0904,0.976,0.416,0.107,0.221,117.886,4,guitar
+3ciRi9v3G3MWMzTNE15WnT,Fredrik Johansson,Unspoken,Unspoken,46,149577,False,0.524,0.185,4,-14.393,1,0.0578,0.891,0.917,0.11,0.434,80.658,3,guitar
+7Meqm9jgQXhh08vdnbrvfY,Pat Martino,Cream,Both Sides Now,51,138533,False,0.423,0.0266,2,-26.967,1,0.0492,0.963,0.957,0.112,0.526,129.686,4,guitar
+767vDO0LnaX7lzkK7i0qOG,Joseph Sullinger,Mirage,Mirage,39,183436,False,0.726,0.155,11,-14.864,0,0.119,0.976,0.922,0.111,0.211,95.953,4,guitar
+4rzjaiJ7GXegXPyi6XKiSJ,Andreas Dalvik,Super Trouper,Super Trouper,47,243192,False,0.774,0.175,4,-15.697,1,0.0579,0.955,0.93,0.108,0.514,100.019,4,guitar
+62eMqR3ynGdonHy5ObmWTL,Michele Leao,Las Rosas,Las Rosas,48,161750,False,0.52,0.173,9,-15.574,1,0.0765,0.976,0.944,0.108,0.248,89.465,4,guitar
+4tJzmhaA3S093baGmZ8xcB,Brittni Paiva,海カフェ~ウクレレ・ハワイ,Easy,24,261600,False,0.632,0.51,9,-12.765,0,0.0555,0.948,0.885,0.828,0.444,140.259,4,guitar
+3UJtz3pl0co0tbt6vnTP4Z,Liad Abraham,"Instrumental Guitar Covers, Vol. 1",Mad World,45,124544,False,0.347,0.25,2,-14.179,1,0.0429,0.959,0.95,0.101,0.173,97.331,4,guitar
+1w3PYey5h6WBp4Y8W3e3vM,Ramon Dona-Dio,Lo Mejor en Guitarras,Guadalajara,23,151786,False,0.495,0.322,3,-16.595,1,0.0609,0.85,0.855,0.114,0.468,125.24,4,guitar
+1i26ubCoDUvbnNwNWNKQnx,Los Apus,El Imperio de los Apus,Cariño Mío,24,364506,False,0.667,0.581,7,-4.166,0,0.0383,0.576,4.59e-05,0.103,0.597,149.777,4,guitar
+4RJTLMvD6k82688P6mlZd7,Kuana Torres Kahele,"Music for the Hawaiian Islands, Vol. 3 (Pi'ilani, Maui)",Ka'a Na Ale,24,200334,False,0.331,0.316,0,-8.356,1,0.0294,0.918,1.84e-05,0.0911,0.397,147.251,4,guitar
+59ACBmp66Xpzv7SyiXQsyI,Hapa,HAPA,Justin's Lullabye,23,336466,False,0.48,0.187,7,-21.758,1,0.0318,0.723,0.867,0.0928,0.34,104.242,4,guitar
+5w1kYVloTstYgOdyNpMOhU,William Luna,Tu Amor Ajeno,Nada Me Queda,25,292146,False,0.623,0.413,0,-7.914,1,0.0276,0.768,0.000509,0.0945,0.393,81.924,4,guitar
+6126lbKcz91f4wgSwBF0vG,Eddy Tyler,Guitar Instrumental Covers,Somebody That I Used To Know,39,246061,False,0.749,0.332,2,-10.815,0,0.0417,0.881,0.597,0.107,0.734,128.9,4,guitar
+6wIdMDessARGYc3xkf63a5,Agustín Barrios Mangoré;Thibaut García,Bach Inspirations,Barrios Mangoré: La Catedral: III. Allegro solemne,23,181453,False,0.22,0.207,11,-22.469,0,0.0387,0.979,0.89,0.0755,0.665,128.469,4,guitar
+0qyqbhpeDTVKVwdfkeppj6,Juan Veronico,Lo Mejor en Guitarras,En el Último Trago,23,136693,False,0.44,0.45,3,-10.219,1,0.0285,0.669,0.728,0.13,0.788,166.854,3,guitar
+3RSKSNv8odGUcE8jzDhEo1,Manuelcha Prado,Guitarra y Canto del Ande,Panorama ayacuchano,23,341210,False,0.501,0.356,7,-7.461,1,0.0779,0.857,0.853,0.112,0.181,98.445,4,guitar
+0t2oboWGs6tFw28AZBRz8b,Luis Salinas,Putumayo Kids Presents Latin Dreamland,Un Vals,25,226906,False,0.596,0.168,2,-17.407,1,0.0361,0.962,0.857,0.157,0.292,112.044,3,guitar
+06Kuvh5dM4Jf989AX8OQs6,George Dalaras,"Mi Milas, Kindinevi I Ellas",Xenos Gia Senane Ki Ehthros,23,232000,False,0.628,0.366,5,-14.213,0,0.0374,0.492,1.91e-05,0.0982,0.749,91.864,4,guitar
+3YwX8myGY02sCv8Aa4PFJX,Joseph Sullinger,The Skye Boat Song,The Skye Boat Song,23,187646,False,0.524,0.0514,2,-21.5,1,0.0737,0.977,0.923,0.11,0.213,84.318,4,guitar
+51bNeQsDCKMOaYWNJDoxUn,Duo Retama,El Poder Andino,De Vez en Cuando,23,282146,False,0.522,0.857,9,-3.38,1,0.0671,0.467,1.47e-06,0.167,0.729,99.353,4,guitar
+3aC21UUhGQKWMj5NSbYQEO,Baden Powell,Minha Historia,Canto De Ossanha,25,410693,False,0.399,0.242,3,-21.4,1,0.0615,0.57,0.89,0.113,0.494,91.246,4,guitar
+7rlUOjElFhpMvCIgv3U0r7,William Luna,Hasta el Final,Sunqullay,25,222573,False,0.466,0.666,7,-4.967,1,0.0402,0.281,2.77e-05,0.173,0.865,78.138,4,guitar
+2ODjkwaAhluGAklmMtAdjc,Craig Ogden,Essential Christmas Cocktail Party,Chestnuts Roasting On An Open Fire (Christmas Song),0,243337,False,0.601,0.17,7,-13.449,1,0.0397,0.979,0.915,0.157,0.149,79.758,4,guitar
+6cQtTOedwIjk0MsWgBJWvN,Randy Lorenzo,Slack Key Guitar,Island Style,23,315933,False,0.353,0.178,0,-19.461,1,0.0503,0.891,0.93,0.12,0.508,152.695,4,guitar
+4dar11sdCC2Ff2zv34mPNp,Antonio Bribiesca,Los Éxitos de Antonio Bribiesca Y su Guitarra Mexicana,Ella,23,138320,False,0.678,0.143,7,-19.569,1,0.145,0.951,0.885,0.0766,0.296,118.151,3,guitar
+3gvBthcLngIzMBMiCvf1S8,Sergio & Odair Assad,Latin American Music For Two Guitars,Sergio Assad: Valseana,24,89573,False,0.341,0.0125,2,-34.991,1,0.038,0.994,0.909,0.104,0.337,109.391,1,guitar
+2pIM55lj7cQpPiKRTeFGI2,Sonny Lim,Slack Key Guitar: The Artistry Of Sonny Lim,Pua A'ala,23,227386,False,0.568,0.214,0,-21.393,1,0.0549,0.902,0.907,0.141,0.698,128.035,4,guitar
+4QCFAZTbG6IS12snB4MbmH,João Gilberto,Masters of Jazz Presents João Gilberto (1958 - 1962 Essential Works),O pato,25,118400,False,0.792,0.329,2,-15.753,1,0.0724,0.874,5.7e-05,0.0811,0.961,87.388,4,guitar
+1060iLNbM96cjU4SwXmpWR,Barney Isaacs;George Kuo,Hawaiian Touch,Wehiwehi 'Oe,23,206600,False,0.472,0.121,0,-18.266,1,0.0339,0.879,0.881,0.133,0.0877,73.384,3,guitar
+3njVnUOU1FapjRQLyZYG5p,Sonny Lim,Slack Key Guitar Volume 2,Punahele,23,230866,False,0.453,0.151,2,-22.434,1,0.0386,0.947,0.952,0.13,0.551,97.328,4,guitar
+5S6M5UmZKoEJEsB7fvCA2n,George Dalaras,Apo Kardias (Live),Tha Pio Apopse To Feggari - Live,24,202266,False,0.475,0.579,9,-5.577,0,0.0323,0.34,0.0,0.403,0.532,117.485,4,guitar
+0NDjQezJaEC1KX9TfwEfzf,Django Reinhardt;Stéphane Grappelli;Quintette du Hot Club de France,Djangologie Vol6 / 1937,Minor Swing,53,196626,False,0.58,0.47,9,-8.787,0,0.168,0.933,0.743,0.098,0.738,202.376,4,guitar
+2M3laSC4qeLl9tWxDEzF4T,Wes Montgomery,Incredible Jazz Guitar,Polka Dots And Moonbeams,51,282200,False,0.53,0.114,7,-18.069,1,0.0475,0.991,0.902,0.137,0.369,92.249,4,guitar
+3gCCCQPGg6DKprlo1doKrG,Los Apus,Tengo Que Olvidarme de Tí,Que Martirio Tengo,24,320340,False,0.732,0.695,4,-3.808,1,0.0427,0.519,0.0,0.159,0.605,92.126,4,guitar
+5WLjP6MFfkFBTXbssVnscj,George Dalaras,O Giorgos Dalaras Tragoudai Stavro Kougioumtzi,To Sakaki Mou Ki An Stazi - Live,24,66026,False,0.605,0.72,6,-4.952,0,0.0438,0.377,0.0,0.417,0.522,129.044,4,guitar
+3pTm1XZsAnst6KHzgJCzf9,William Luna;Julio Humala L,En Serio... Huaynos por Siempre,Maranura,25,214253,False,0.66,0.564,9,-4.244,0,0.0309,0.518,0.0,0.0948,0.821,86.082,4,guitar
+4AO6JSRAxPbAxCWPuskAOT,Chamin Correa,"Cuerdas, Amor y Guitarras, Vol. 5",Dígale,23,271013,False,0.574,0.598,9,-7.078,0,0.0275,0.506,0.445,0.157,0.275,127.964,4,guitar
+7m5v5U6wvwtV0A5YpBIGIW,Los Apus,Sunquyparurun,Presentimiento,24,284960,False,0.615,0.647,10,-3.4,1,0.0417,0.66,1.12e-05,0.124,0.588,147.846,3,guitar
+0S6P4AuoNUStGPgKDZ791u,Jesse Rice,The Pirate Sessions,Pirate Girl,23,205800,False,0.571,0.778,11,-6.305,1,0.0334,0.62,0.0,0.139,0.846,166.098,4,guitar
+2i8wJ4JriGcKYxiFxrar7f,Guitarras de Luna,Guitarras de Luna,Las Bodas de Luis Alonso,23,233706,False,0.424,0.678,9,-11.031,1,0.0408,0.821,0.877,0.257,0.684,123.126,3,guitar
+1Fw0SpLFE9u7vPQKRaZUXO,João Gilberto,João Voz E Violão,Coracao Vagabundo,25,128960,False,0.536,0.0688,2,-24.554,0,0.0597,0.918,0.563,0.109,0.174,129.888,4,guitar
+43rKKMlA9F7Xdzzk2OdTVX,Jesse Rice,The Pirate Sessions IV,Beer on a Beach,23,212844,False,0.61,0.631,9,-7.124,1,0.0288,0.129,1.21e-05,0.161,0.604,77.017,4,guitar
+0TVfjLNE6cn8QugBuxVWF1,Mikis Theodorakis,Tzatziki - The Best Greek Music For The Best Greek Food,Zorba's Dance,24,251653,False,0.564,0.385,7,-14.396,1,0.0627,0.286,0.905,0.0503,0.418,81.548,4,guitar
+54478NjQWypM2I4TWII6uT,George Kuo,"Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",Waikīkī Hula Medley,23,266800,False,0.556,0.166,0,-21.288,0,0.0478,0.91,0.932,0.125,0.526,120.153,4,guitar
+67AylYLcfFigZDHcIg4xdo,Los Tecolines,Boleros de Oro,Dos Cruces,24,176040,False,0.728,0.463,7,-8.582,1,0.032,0.842,0.000189,0.108,0.641,115.121,4,guitar
+5ORkB2bl9lX6iYvSz6tOg0,AcousticTrench,The Scientist,The Scientist,35,157727,False,0.77,0.111,5,-16.47,1,0.0395,0.99,0.929,0.118,0.277,80.005,4,guitar
+1hYKf70p3y7dX5Na2qDARt,Hammock,Everything and Nothing,Dissonance,42,196960,False,0.423,0.668,2,-7.927,0,0.0252,0.0381,0.96,0.168,0.506,86.021,4,guitar
+0RLxH84fjtDbLbflloUiQG,Tomas Hilber,Light of Seven,Light of Seven,40,119594,False,0.661,0.137,5,-18.33,0,0.0982,0.88,0.868,0.0886,0.146,111.428,4,guitar
+4TeiAujmoMNGBF8KtdSczE,Maneli Jamal,Open Sky,Open Sky,30,132422,False,0.445,0.237,4,-15.108,1,0.0414,0.96,0.883,0.114,0.338,141.063,4,guitar
+7kggCOvxp4hWeWNmoQqCZ7,Project AER;v i v,Rakka,Rakka,46,155999,False,0.706,0.257,2,-15.147,1,0.0589,0.937,0.895,0.131,0.258,126.006,4,guitar
+0aplNhTaXCy9z1mz0QGXfV,Andrew Foy,Stay,Stay,23,141176,False,0.608,0.15,10,-20.03,0,0.0703,0.482,0.924,0.094,0.519,83.865,4,guitar
+6k9bkE6If22vUDIJ5tZ10H,Andrew Foy,Paris in the Rain,Paris in the Rain,35,207544,False,0.622,0.149,0,-15.418,0,0.0559,0.857,1.22e-05,0.101,0.633,169.671,4,guitar
+2fQ3bSiaQNeSn7ZoCHGfNJ,Los Amores Recientes,Footsteps In Palermo,Footsteps In Palermo,45,195750,False,0.516,0.119,9,-18.338,1,0.117,0.967,0.925,0.0996,0.131,82.072,4,guitar
+7DRiHX3VXNCkhDxtUsy6YX,Emanuel Nord,Light Touch,Light Touch,48,102254,False,0.671,0.0496,2,-20.166,1,0.0759,0.912,0.907,0.115,0.156,103.022,3,guitar
+2W0OHMIUBh3ZMZk59dgugg,The Stolen Orchestra,To The End,It Will Come Back,37,218305,False,0.227,0.162,3,-19.039,1,0.0348,0.974,0.942,0.105,0.0613,110.689,4,guitar
+4gBS0XqthimHuv2DxR7t0p,Joe Satriani,Crystal Planet,Love Thing,38,230133,False,0.451,0.525,4,-7.509,1,0.0256,0.0028,0.824,0.121,0.319,170.814,4,guitar
+1h1iH5BafOgXUVfxsnIGnZ,Mathew Joseph,Morning Has Broken,Morning Has Broken,37,222250,False,0.716,0.195,7,-16.176,1,0.0636,0.98,0.926,0.197,0.25,120.2,3,guitar
+0yxHod0FL7710UacXMQA2y,Guus Dielissen,Hold On (Instrumental Guitar),Hold On (Instrumental Guitar),44,178178,False,0.539,0.223,1,-16.999,0,0.0366,0.952,0.92,0.107,0.379,135.925,4,guitar
+66w9fvqZyZIzpelteTbGvM,Celestial Conscience,In The End (Acoustic Guitar),In The End - Acoustic Guitar,39,99422,False,0.637,0.143,3,-17.337,0,0.0376,0.913,0.906,0.105,0.116,105.011,4,guitar
+339GdUcvlp87ezhYF5evR6,Andrew Foy,Best Covers,Girls Like You,26,196024,False,0.708,0.172,0,-18.196,1,0.0699,0.887,0.909,0.11,0.324,124.888,4,guitar
+2K5PUMwZisvWaGyAlmHGf3,Andrew Foy;Renee Foy,Moral of the Story,Moral of the Story,22,169062,False,0.593,0.0832,0,-21.353,1,0.0723,0.886,0.0,0.117,0.399,119.81,4,guitar
+4ob8dZgkskgOEXy2iJdaKu,Guus Dielissen,"Acoustic Guitar Covers, Vol. 2",Speechless (From ''Aladdin'') [Instrumental Guitar],37,196907,False,0.384,0.197,2,-17.824,1,0.0479,0.896,0.921,0.11,0.284,133.87,4,guitar
+2uiWi5tULZUHyqUvZQbDFy,Lance Allen,Lonely Dreaming,Lonely Dreaming,44,162209,False,0.599,0.115,2,-13.504,1,0.098,0.97,0.905,0.092,0.245,139.923,4,guitar
+79pVovxJkZVSVAorL8MtSk,Andrew Foy,Best Covers,Despacito,22,184764,False,0.406,0.24,2,-19.233,1,0.0476,0.851,0.912,0.103,0.673,88.152,4,guitar
+4Cjmwt8CPG0zusrNcnavxZ,Robert Lowe,Low Hanging Fruit,Low Hanging Fruit,48,239535,False,0.707,0.0893,9,-20.4,1,0.0745,0.961,0.888,0.107,0.499,140.058,4,guitar
+6YxhbcEdZJfhiwAWI4lRnO,Edy Hafler,"Guitar Pop Covers, Vol. 1",Imagine,46,168999,False,0.622,0.189,6,-15.446,1,0.0664,0.927,0.871,0.105,0.368,76.141,4,guitar
+22gHYv6RE4H1k0P6fsnJ1h,Noriyasu Takeuchi,JPOPギターベスト1,Love Somebody,23,171544,False,0.531,0.0925,9,-21.609,1,0.0763,0.993,0.955,0.138,0.349,184.165,4,guitar
+3NJEkpZoxNTnrUnlFaUSaM,Manuel Silva,Lo Mejor de Manuel Silva: Pinchincucha,Amor Herido,24,156746,False,0.601,0.331,5,-6.766,0,0.0439,0.876,0.00011,0.128,0.506,119.052,4,guitar
+2fnzfTG0Cg1nkI0tboLzzx,Gerardo Paz,Chacra,Brisas,23,127068,False,0.621,0.49,9,-4.37,1,0.0463,0.901,0.83,0.31,0.401,159.61,4,guitar
+5oPcwgqtKwu1up0Ejo2WDy,Agustín Barrios Mangoré;Robbin Blanco,Las Abejas (The Bees),Las Abejas (The Bees),22,140103,False,0.245,0.272,2,-18.336,0,0.0408,0.987,0.927,0.0986,0.399,92.084,4,guitar
+29UDfVhu1Myy5GzRuPNEWH,Andri Hart,Inch Of You,Inch Of You,23,165312,False,0.576,0.0313,2,-17.935,0,0.127,0.935,0.63,0.111,0.0391,109.827,4,guitar
+1VOXRL1bcfR0xOjJWA55p2,Carlos Di Fulvio,Del Altiplano a la Pampa,La Tulumbana,23,160720,False,0.62,0.445,2,-8.625,0,0.0486,0.847,9.12e-05,0.117,0.679,147.013,3,guitar
+3qnEWSawHNy922RFHPwLaD,Chamin Madero,Guitarras Mexicanas 16 de Oro,Hasta Que Te Conoci,23,200333,False,0.497,0.312,0,-11.583,0,0.0385,0.54,0.963,0.0572,0.155,91.86,4,guitar
+4D4iN6ISkDuDAnILbHskAF,Kuana Torres Kahele,Kahele,Waipi'o Paeaea,23,297093,False,0.353,0.383,2,-8.027,1,0.0283,0.715,0.0,0.131,0.408,173.794,4,guitar
+3FOBe0BougWxKwxOGg2P2F,Trio Ayacucho,Como Siempre Con El Mayor Cariño,Dos Palomitas Amantes,23,151040,False,0.616,0.605,7,-6.449,1,0.0596,0.752,1.88e-05,0.0919,0.546,91.444,4,guitar
+2SJCbqp1CaZ2DZBiFVHvHP,Dúo Ayacucho,Torcaza,Busco a Mi Madre,24,327955,False,0.603,0.603,4,-3.678,0,0.0336,0.853,0.0,0.14,0.525,143.622,4,guitar
+23YrNlSircmWvnmpKRH2vD,Stavros Xarhakos;Sotiria Leonardou,OST / Rebetiko,Bournovalia,24,250466,False,0.746,0.452,5,-6.725,1,0.036,0.69,4.63e-06,0.133,0.598,112.363,4,guitar
+35DEivSHK7ah82fWtC9Oxr,George Benson,In Flight,Everything Must Change,25,486720,False,0.409,0.321,10,-16.102,1,0.0328,0.672,0.0495,0.34,0.4,155.109,4,guitar
+42nA5209dNuVf7cFUzfUk0,Edwin Montoya,Mis Éxitos Eternos Vol. 2,Mi Amor Ha Muerto,24,198093,False,0.635,0.564,7,-10.425,1,0.0593,0.739,0.000179,0.106,0.797,84.09,4,guitar
+6dzakmFby6NWEawFvJYY2O,Dúo Hnos. Gaitán Castro,Son del Sol (Clásicos Huaynos del Perú),Linda Andahuaylina,24,241466,False,0.737,0.786,4,-6.722,0,0.0677,0.525,2.65e-05,0.271,0.851,88.924,3,guitar
+5Qn6Ys1fHlef8zgCLqCdud,龍藏Ryuzo,ANISON Explosion~Acoustic Solo Guitar~,ゲゲゲの鬼太郎 (Instrumental),23,168137,False,0.571,0.325,7,-11.442,1,0.0443,0.404,0.417,0.0872,0.32,116.457,3,guitar
+4PelarhQJOESpMFTunAoNV,Mexican Music Factory;Felipe Gutierrez,Marimbas Clasicas,Las Mañanitas,23,97894,False,0.75,0.44,7,-9.364,1,0.0328,0.386,0.574,0.148,0.83,129.947,4,guitar
+2QAKYPRD0aMpCmVf4trbYy,Jesse Rice,The Pirate Sessions III,Hope Town,22,212618,False,0.526,0.94,1,-5.3,0,0.041,0.47,8.55e-05,0.469,0.815,91.009,4,guitar
+1O9MJgplfAytNT8fERYwNg,The Country Side Of Harmonica Sam,"Broken Bottle, Broken Heart",I've Been Draggin' Since You've Gone,23,161872,False,0.61,0.426,8,-10.535,1,0.0275,0.288,0.00125,0.0751,0.927,137.839,4,guitar
+0PylM0kAR7VJTIcKzLhA2N,Pat Metheny;Anna Maria Jopek,Upojenie,CichyZapada Zmrok (Here Comes the Silent Dusk),24,206173,False,0.358,0.179,11,-12.538,0,0.0341,0.862,0.00239,0.122,0.106,89.225,3,guitar
+6B9PouVhOXkcZupTE7VyoN,Claudio Estrada,Lo Mejor en Guitarras,Contigo,23,93733,False,0.545,0.299,9,-12.689,1,0.0727,0.847,0.904,0.351,0.535,111.301,4,guitar
+1hQTtPYSoi4PLnPGwdTJ8b,Guitarras de Luna,Guitarras de Luna,Silverio,23,149400,False,0.714,0.427,4,-15.097,0,0.032,0.759,0.874,0.142,0.683,136.95,4,guitar
+0vmWdxm4CheqCEORKIzTew,Chamin Correa,"Cuerdas, Amor y Guitarras, Vol. 5",Cielo,23,242413,False,0.652,0.435,7,-7.922,1,0.0355,0.818,0.78,0.185,0.252,122.06,4,guitar
+7sTyr6jk6qmgGKdRMG6S3I,Keola Beamer;George Winston,Kolonahe: From the Gentle Wind,The Beauty of Mauna Kea - Vocal,23,308826,False,0.436,0.135,0,-17.984,1,0.0361,0.963,0.0413,0.12,0.0394,79.459,4,guitar
+0dFIczNyOyj6Nxaw62Z7Ix,Keola Beamer;George Winston,Kolonahe: From the Gentle Wind,Kauhale O Kamapua'a - Instrumental,23,186053,False,0.543,0.112,9,-14.335,1,0.0321,0.941,0.863,0.102,0.0499,80.162,4,guitar
+3WqvtB9Pf9LOY6bKhC2Zbh,Los Tecolines,Antología... Los Tecolines,Triunfamos,23,151240,False,0.803,0.408,10,-7.87,0,0.0333,0.837,0.0,0.0769,0.747,111.437,4,guitar
+3Sahwk5r6fr3noyko7DkwY,Los Tecolines,Boleros de Oro,Vuelveme a Querer,23,172586,False,0.576,0.522,2,-6.348,1,0.0354,0.842,3.7e-05,0.118,0.555,102.904,4,guitar
+3DCW28qUF5epuZiT8h781t,Cuco Sánchez,Cuco Sanchez Sentimiento Mexicano,La Cama de Piedra,23,194531,False,0.548,0.0562,2,-21.065,1,0.0357,0.924,2.54e-05,0.0955,0.198,135.262,3,guitar
+6VTlrr7j23GkOCTjAwIUOL,Cuco Sánchez,Serie De Coleccion 15 Autenticos,La Que Sea,23,181200,False,0.547,0.106,7,-18.331,1,0.0498,0.918,0.0,0.113,0.415,141.57,5,guitar
+1VPaIQKoYh4FzTn8DhGa5P,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Canción Mixteca - Qué Lejos Estoy,23,186626,False,0.456,0.124,9,-17.432,1,0.065,0.93,2.05e-06,0.11,0.192,133.647,4,guitar
+3noxajjedyBfsd5eXjBwxC,yutaka hirasaka,heavenly tone,a beautiful day,35,296000,False,0.65,0.396,4,-11.051,1,0.0364,0.979,0.866,0.0992,0.303,89.999,4,guitar
+4992uwyEYOstUKzPgdPVR3,Nelson Gomes,Valsa e Vinho,Valsa e Vinho,49,158794,False,0.65,0.0708,2,-16.557,1,0.0643,0.994,0.929,0.0966,0.111,118.121,3,guitar
+4eXW1h9YbjYEy4i6jUdUX2,Maneli Jamal;Nylonwings,The Air Between Us,The Air Between Us,32,147000,False,0.529,0.252,5,-15.412,1,0.042,0.944,0.859,0.106,0.317,84.828,4,guitar
+11jFSuok2S4g04ziCBd44w,R.B James,Let Me Reach That Mountain,Let Me Reach That Mountain,46,211500,False,0.704,0.111,9,-19.914,0,0.0599,0.925,0.889,0.106,0.179,74.969,4,guitar
+7jlzy8nv1enKoQqgOBzshW,Casper Esmann,Billie Jean (Acoustic Instrumental),Billie Jean - Acoustic Instrumental,40,291000,False,0.419,0.341,11,-13.72,0,0.0317,0.322,0.914,0.0786,0.179,152.958,3,guitar
+0iTyIMFWbaSxNrcT5Dau0X,Guus Dielissen,Leave The Door Open (Acoustic Instrumental),Leave The Door Open - Acoustic Instrumental,42,225864,False,0.39,0.282,0,-16.724,1,0.0396,0.91,0.923,0.111,0.397,78.161,4,guitar
+1nyxHNRjeyTlJQwsLMH7C0,Anna Kitkowska,Anna Kitkowska,Love Me Like You Do,42,198208,False,0.635,0.231,11,-12.608,0,0.0419,0.939,0.947,0.0925,0.321,144.229,4,guitar
+3F4NgQVGxdlszT0YCpk1Md,Guus Dielissen,Let Her Go (Instrumental Guitar),Let Her Go (Instrumental Guitar),35,251381,False,0.25,0.218,7,-18.038,1,0.0475,0.773,0.889,0.1,0.29,153.735,4,guitar
+0ZSFjbcjmMccbJbWouNRxR,Tobias Berntsson,Your Song,Your Song,49,234083,False,0.717,0.188,0,-13.905,1,0.0513,0.973,0.862,0.11,0.399,107.985,4,guitar
+70LA1qeP7w3yVVbW1R56IA,Tomas Hilber,Game of Thrones Theme,Game of Thrones Theme,41,142659,False,0.814,0.114,0,-19.22,0,0.0635,0.979,0.969,0.111,0.383,120.244,3,guitar
+04vpVveiJZ0bqkwCBBpEth,Agustín Amigó,My Heart Will Go On (Acoustic),My Heart Will Go On - Acoustic,43,181500,False,0.409,0.157,6,-13.157,1,0.0884,0.956,0.854,0.11,0.275,178.844,4,guitar
+4QxyrDsqSvopT6GauAb2IE,Regina Costa,Quien Como Tu,Quien Como Tu,22,176886,False,0.771,0.143,8,-13.835,1,0.0476,0.968,0.000232,0.107,0.278,106.17,4,guitar
+3d8oIEIdoU2ZWVmiGvdGCE,Tommy Emmanuel,Endless Road,Angelina,44,218973,False,0.591,0.145,9,-18.428,1,0.0343,0.928,0.523,0.108,0.265,127.261,4,guitar
+6bJjjnfcE55MIfg6lZiRUs,Eddie van der Meer,Cover Songs #6,Believer,29,213374,False,0.485,0.628,10,-5.32,0,0.0395,0.328,0.933,0.0821,0.368,126.874,4,guitar
+1y5iaPQLBJQDLGwpvTcBoj,Noriyasu Takeuchi,JPOPギターベスト2,今夜月の見える丘に,23,273586,False,0.553,0.0659,4,-19.94,0,0.061,0.991,0.954,0.11,0.298,141.546,4,guitar
+0m6U4YTD6HNxEtMTOhNQgX,Kenichi Ebe,ギターソロ ボサノバ・ベスト~イパネマの娘,マシュケナダ,23,171773,False,0.519,0.0874,4,-23.828,0,0.0486,0.954,0.926,0.11,0.595,88.783,4,guitar
+4VMQ52kwhOECEsDGstxyBj,Laurindo Almeida;William Chapman Nyaho,Kete - Piano Music of Africa and the African Diaspora,Lament in Tremelo Form,36,267400,False,0.419,0.00981,2,-29.496,0,0.036,0.996,0.936,0.0839,0.203,102.591,3,guitar
+6t9q7owmdBEYaePgV8u4kG,William Luna,Hasta el Final,Mantaro,24,260653,False,0.607,0.584,2,-7.353,1,0.0368,0.0636,6.5e-05,0.495,0.874,102.021,4,guitar
+5j1OMxXvI2cngr7mW6whZE,Edwin Montoya,Mis Éxitos Eternos Vol. 1,Te Lloraré,24,211253,False,0.685,0.558,10,-10.049,1,0.0544,0.759,0.0254,0.146,0.74,83.874,4,guitar
+5ZrO7a3eyM5JWnkV4dGzas,Mikis Theodorakis;Miltos Pashalidis,Romiosini,Tosa Chronia,24,264401,False,0.41,0.382,11,-8.346,0,0.028,0.861,0.0,0.353,0.159,88.196,4,guitar
+6ITNRagpLcw79jH8gkiyBS,Pat Metheny,What's It All About,And I Love Her,51,262106,False,0.621,0.113,2,-16.842,0,0.0491,0.97,0.834,0.116,0.203,107.75,4,guitar
+6Uv7ZVWoZojKmaQH7pC2pX,Manuel Silva,Lo Mejor de Manuel Silva: Pinchincucha,Pichincucha,24,164573,False,0.67,0.293,6,-6.762,1,0.044,0.905,0.0101,0.107,0.433,111.915,4,guitar
+4wc4RVvYxal80hScYCoJAs,Baden Powell;Jimmy Pratt,Powell & Pratt,"Coisa, No. 1",24,189072,False,0.604,0.413,0,-14.851,0,0.035,0.241,0.0,0.159,0.925,81.472,4,guitar
+3vexyV4q04kmQSTbw6Kjxm,Little Symphony,Fuente,Abuelo,22,45882,False,0.169,0.166,7,-19.503,1,0.043,0.936,0.981,0.123,0.0392,110.718,4,guitar
+1Lo5Jx8QFi21R1V01gLAL9,William Luna,En el Nombre de Jesús,Sáname,24,268772,False,0.541,0.355,9,-14.114,1,0.0282,0.404,0.0,0.0673,0.443,142.043,4,guitar
+6mvRL1QGJTOijZdBoKMJDg,Carlos Di Fulvio,ARGENTINISIMA VOL.8 - CANTOS DE LA PROVINCIANIA,Caspi Corral,23,207960,False,0.502,0.303,5,-11.047,0,0.0473,0.838,7.29e-06,0.105,0.612,82.236,3,guitar
+5SnatgsCSbX8tQ3WVX9Rhe,The Strings Of The Inkas,"Serie Maravillas: Cuerdas & Vientos Sagrados, Vol. 1",Adiós Pueblo de Ayacucho,22,179040,False,0.523,0.394,2,-9.956,0,0.0592,0.892,0.749,0.101,0.681,136.553,3,guitar
+2jPyHCE1rbd6ukIgl7OMtf,William Luna,Tu Amor Ajeno,Me Voy,24,232000,False,0.526,0.44,11,-7.683,0,0.0286,0.765,6.12e-05,0.0819,0.24,75.989,4,guitar
+7uFWH9Il83O46mpbdlE3JZ,Los Indios Tacunau,Grandes Exitos,Pero Te Digo Adios,23,144693,False,0.534,0.627,1,-7.609,0,0.0888,0.711,0.000598,0.12,0.736,162.583,3,guitar
+2ybN948uZHifojsLs6ZqJA,Brittni Paiva,Island Style Ukulele,Kawika,23,181213,False,0.601,0.512,5,-11.424,1,0.0338,0.856,0.885,0.106,0.536,110.031,4,guitar
+24RHU19OMQSwIR93bUguNh,Mexican Music Factory;Felipe Gutierrez,Marimbas Clasicas,La Llorona,22,161191,False,0.816,0.324,9,-11.807,0,0.169,0.567,0.883,0.0917,0.677,164.794,3,guitar
+2nGO7x318lETqGSZSyA8ik,Little Symphony,Fuente,Duerme,22,98823,False,0.154,0.191,7,-19.793,1,0.0405,0.919,0.933,0.127,0.036,135.011,4,guitar
+49mFUqR4TABgma9LnWmPnH,Manuel Silva,Lo Mejor de Manuel Silva: Pinchincucha,Yerbabuenita,24,154706,False,0.656,0.409,6,-6.933,1,0.052,0.825,0.000352,0.115,0.225,81.613,4,guitar
+59708AZI2d9mudYk1GPNlq,João Gilberto,João Gilberto (1973),Eu Quero Um Samba,24,286302,False,0.705,0.228,3,-15.747,1,0.0937,0.761,4.53e-05,0.12,0.482,175.904,4,guitar
+2R1xXHwNERBcjiDXjrST7u,Los Indios Tacunau,Zambas From Argentina To The World,Balderrama,23,200066,False,0.57,0.39,6,-11.105,1,0.0729,0.664,0.000306,0.0774,0.469,166.265,4,guitar
+6fzNLwBstfMCSa7W58du9O,The Brothers Cazimero,The Best of the Brothers Cazimero Volume 1,Pua Hone,23,226106,False,0.402,0.202,2,-16.526,1,0.0357,0.437,0.0,0.0536,0.412,119.614,4,guitar
+4fo5uMhEhxZXntgKgqE0WT,Mikis Theodorakis;Antonis Kalogiannis,70 Chronia Mikis Theodorakis - Mes' Stin Kardia Mou Kleino Tin Ellada,Eimaste Dyo,24,150400,False,0.678,0.607,2,-12.418,0,0.0333,0.772,0.00342,0.322,0.988,119.088,4,guitar
+6IARQBFWOm1IMFt6iVozKj,Stavros Xarhakos;Nikos Dimitratos,OST / Rebetiko,Stis Pikras Ta Xeronisia,23,273706,False,0.613,0.402,2,-7.781,1,0.0344,0.795,3.11e-05,0.126,0.476,107.449,4,guitar
+1NLgL1gttPIGPIzFWnmCyQ,Edwin Montoya,Mis Éxitos Eternos Vol. 1,Huérfano Pajarillo,24,203026,False,0.691,0.499,7,-10.372,1,0.0458,0.703,6.75e-05,0.115,0.815,77.493,4,guitar
+2fZxoOFhWOmKeYPWUcvMdY,Miloš Karadaglić;Ksenija Sidorova;Studioorchester der Europäischen FilmPhilharmonie;Christoph Israel,Collaborations,"Libertango (from ""Cuatro Tangos"") - Latino Gold Version",22,181400,False,0.444,0.289,9,-17.234,0,0.0578,0.868,0.503,0.0806,0.284,153.79,4,guitar
+3cZFj2sR9t4jnEGXiA5GqT,João Gilberto,Masters of Jazz Presents João Gilberto (1958 - 1962 Essential Works),Meditaçao,24,106733,False,0.344,0.236,6,-13.908,0,0.032,0.891,0.0,0.145,0.386,156.617,4,guitar
+0tyPjel7mi8gvNH3w9ffOx,Allan Holdsworth;Alan Pasqua;Chad Wackerman;Jimmy Haslip,Proto-Cosmos,San Michele Piano Intro,3,198506,False,0.249,0.13,11,-18.093,0,0.0486,0.983,0.8,0.116,0.0376,78.031,3,guitar
+3lmGeqAuMWrplZLL378Cng,Cucuza Castiello,Menesunda: Tangolencia Rockera,Imágenes Paganas,22,142253,False,0.516,0.25,9,-13.93,0,0.049,0.87,2.05e-06,0.147,0.393,116.509,4,guitar
+66ngC8VlkR3J6g1kBM7vpF,Edwin Montoya,Mis Éxitos Eternos Vol. 2,Olvido Que Nunca Llegas,24,218013,False,0.617,0.534,7,-10.902,1,0.0517,0.717,0.0,0.321,0.806,80.765,4,guitar
+4MOOxZXuvhz2y9wxdoRrce,John Pizzarelli,John Pizzarelli Meets The Beatles,Can't Buy Me Love,23,214000,False,0.539,0.434,0,-8.523,1,0.0387,0.229,1.32e-06,0.0739,0.804,104.869,4,guitar
+778Wbi3RGYSHiAT8OoWDE2,George Dalaras,O Metikos (Remastered),Eho Enan Kafene - Remastered 2005,23,195200,False,0.398,0.465,5,-9.147,0,0.036,0.745,0.000108,0.193,0.409,118.908,4,guitar
+1HiJ7iacnc1kFWHpc3HRoU,Cuco Sánchez,Viva México (Remastered),Que Manera de Perder - Remastered,23,140506,False,0.523,0.0966,5,-12.971,1,0.0459,0.937,0.0,0.0844,0.441,109.628,5,guitar
+1hROBnCqFzpXwOXeAM5PMU,Los Tecolines,Antología... Los Tecolines,Adios Mariquita Linda,23,179200,False,0.736,0.369,2,-11.387,1,0.0464,0.954,1.75e-05,0.247,0.745,103.19,4,guitar
+4j9KDCxtCSmTLTjq6INIrC,Cuco Sánchez,Serie De Coleccion 15 Autenticos,Hace un Año,23,205040,False,0.508,0.118,5,-16.519,1,0.0553,0.758,2.49e-06,0.0945,0.268,143.302,3,guitar
+1lZ63WONmerfN9LwRRltYy,Cuco Sánchez,La Gran Colección del 60 Aniversario CBS - Cuco Sánchez,La San Marqueña,23,167106,False,0.564,0.45,0,-9.417,0,0.0397,0.891,0.0,0.377,0.802,93.152,3,guitar
+4YF95ySg5ilyCzPnG6Kskr,Midwife,Sickworld,Sickworld,43,402265,False,0.201,0.154,11,-19.111,1,0.0319,0.846,0.862,0.0872,0.0787,62.895,4,guitar
+2uuykQmIKK4g0vjowVChO3,paniyolo,hitotema,Color,46,285800,False,0.573,0.102,6,-20.757,0,0.0638,0.983,0.914,0.124,0.249,145.651,3,guitar
+45m0JU1iR7C5hJ0kPh86F2,Felix Trapp,Die Wanderbiene,Die Wanderbiene,47,189812,False,0.629,0.123,7,-19.583,1,0.077,0.994,0.954,0.112,0.313,101.034,4,guitar
+0VyscP08nnuhIJCsghha5d,Yoshihiro Koseki,久石譲~ギターソロ・アレンジ,君をのせて,44,121228,False,0.556,0.125,7,-18.549,1,0.0516,0.994,0.969,0.104,0.382,104.191,4,guitar
+6MQiGSt5jFsWSmRYL09zTE,Casper Esmann,Spring Wind (Clannad),Spring Wind (Clannad),32,208000,False,0.556,0.418,7,-12.739,1,0.0392,0.714,0.802,0.104,0.528,85.626,4,guitar
+1Ibs1rPsQ2ADT2nQ3Z4QBe,Ichika Nito,until the end,Lost,41,123108,False,0.611,0.389,5,-13.37,0,0.0357,0.94,0.942,0.0854,0.232,116.258,4,guitar
+5nmvzqwFTpY7UvC8t748bK,Las Perlas Negras,Rio Panama,Rio Panama,47,166000,False,0.558,0.11,9,-17.48,1,0.145,0.984,0.921,0.103,0.268,131.307,4,guitar
+6QSOIejoVt6sFkPHL4JGb5,Hammock,Far Cry 5 Presents: We Will Rise Again (Original Game Soundtrack),Now He's Our Father (Reinterpretation),33,317487,False,0.0688,0.326,0,-15.193,1,0.0412,0.792,0.756,0.114,0.0387,75.48,3,guitar
+3T8Q3pKqqpyz7E2U3VKiwn,Oliver Young,Solus,Solus,49,241196,False,0.672,0.106,7,-14.727,1,0.0526,0.951,0.884,0.105,0.297,94.949,4,guitar
+50CjuCGXWHvo6qnoGpRl5c,Andrew Foy;Renee Foy,drivers license,drivers license,25,236666,False,0.561,0.017,3,-30.307,1,0.0407,0.832,0.000387,0.099,0.156,143.849,4,guitar
+63GKLwpWhgcDdQSB20S1oP,Steve Vai,Alive In An Ultra World,Whispering a Prayer,27,525626,False,0.155,0.3,4,-13.669,1,0.0429,0.648,0.719,0.938,0.159,80.568,4,guitar
+5Om0sASnaXQ5BMlYhrrMpi,Maneli Jamal,The Lamaj Movement,We Made It,36,239109,False,0.484,0.0701,6,-19.335,1,0.0586,0.961,0.516,0.0917,0.309,114.539,3,guitar
+6pG7yxpLt08pUf3SgAikFu,Eddie van der Meer,"Anime Songs, #7","The World (From ""Death Note"")",25,86000,False,0.411,0.388,11,-9.457,0,0.0496,0.538,0.929,0.304,0.356,97.313,4,guitar
+2st24VONuY9hqiGAPkhyua,Bombino,Nomad,Tamiditine,45,279346,False,0.54,0.359,2,-12.122,1,0.0337,0.811,0.907,0.0878,0.2,113.376,4,guitar
+3Oj3qgVvYddVbPrNBDEWO3,Viktor Kvist,The Times They Are a-Changin’,The Times They Are a-Changin’,51,142645,False,0.599,0.0455,7,-21.333,1,0.0595,0.97,0.946,0.112,0.146,112.894,4,guitar
+2QWMlZTBznsuJKMUIKoz95,Luiz Bonfá,Solo in Rio 1959,Pernambuco,49,101360,False,0.713,0.0832,4,-23.894,0,0.0598,0.926,0.885,0.108,0.884,112.688,4,guitar
+1hrnpivogrJpH1erfn0kv7,Patrick Saussois;Ninine Garcia and Friends,Les Manouches de Saint-Ouen - rare Recordings of Gypsy music 1969 - 1983,La foule,22,153653,False,0.61,0.74,4,-8.025,0,0.0374,0.881,0.854,0.0519,0.864,109.254,1,guitar
+4E89kjSOH7Hh7aHBsgOVnn,Casper Esmann,Wonderful Tonight (Acoustic Instrumental),Wonderful Tonight - Acoustic Instrumental,38,230000,False,0.507,0.417,7,-10.686,1,0.0339,0.34,0.711,0.11,0.468,95.12,4,guitar
+1abVRPNtOgBL6UjblxOCwV,Denis Turbide,What Child Is This (Greensleeves),What Child Is This (Greensleeves),22,98166,False,0.734,0.305,2,-11.646,1,0.0484,0.87,0.888,0.1,0.273,61.999,3,guitar
+1KIpnbmuflX4c6INd3RIJb,Liad Abraham,"Instrumental Guitar Covers, Vol. 1",Take on Me,45,163780,False,0.446,0.142,7,-13.91,1,0.0481,0.917,0.892,0.113,0.173,117.393,4,guitar
+6B9Mgf9smWqxDjA35VD6MK,Little Symphony,Rialto Beach,Campomoro,22,148711,False,0.0,0.00108,0,-30.204,1,0.0,0.952,0.991,0.242,0.0,0.0,0,guitar
+0dTMutSTKN6HS7O5gF5FOy,Dúo Wayra,Camino del Cielo,Camino del Cielo,22,209769,False,0.654,0.445,0,-9.701,1,0.0435,0.686,0.000876,0.136,0.565,77.852,4,guitar
+4Lb7veXPStfzANT27Zsk7k,Jeff Peterson,海カフェ~ウクレレ・ハワイ,Someone To Watch Over Me,22,254906,False,0.351,0.323,0,-19.311,1,0.0469,0.991,0.885,0.715,0.321,79.559,4,guitar
+1vbJGnH8xYxx1YewaDDQnO,Keola Beamer;Kapono Beamer,Hawaii's Keola & Kapono Beamer,He Aloha No'O Honolulu,22,227240,False,0.543,0.25,10,-10.925,1,0.0277,0.936,0.00353,0.144,0.569,97.564,4,guitar
+4JiJm5sCW2ha6D9QkTuS5O,Noriyasu Takeuchi,JPOPギターベスト1,CAN YOU CELEBRATE,22,250347,False,0.607,0.0572,11,-22.39,0,0.0555,0.978,0.921,0.0995,0.239,90.578,4,guitar
+4q2MkIUOr0ChPEuZdHSqgs,Ozzie Kotani,Kani Kī Hō'alu,Kī Hō'alu,23,144693,False,0.485,0.293,11,-17.087,1,0.053,0.92,0.864,0.105,0.229,76.716,4,guitar
+23XdaKxpbB9D4mPCgoOgou,Kuana Torres Kahele,Ohai Ali'i Kaluhea,Ohai Ali'i Kaluhea,22,288492,False,0.415,0.414,9,-5.948,1,0.0277,0.833,0.0,0.181,0.203,79.871,4,guitar
+4rCDQoWpXhfpMBtpc5tjdg,Mikis Theodorakis;Petros Pandis,Mikis Theodorakis Concert 5,Ena To Helidoni,23,193201,False,0.667,0.523,11,-11.512,0,0.0677,0.538,0.0,0.16,0.754,120.736,4,guitar
+5L9z59FaKdw0CqCpvzrIIr,Chamin Madero,Guitarras Mexicanas 16 de Oro,Amor Eterno,22,218360,False,0.705,0.399,0,-10.309,1,0.0295,0.557,0.881,0.145,0.44,89.06,4,guitar
+6kreLbFo6RhwdbuZmPYGGH,Chamin Madero,Guitarras Mexicanas 16 de Oro,La Media Vuelta,22,209346,False,0.443,0.472,7,-11.399,1,0.0278,0.494,0.735,0.131,0.441,100.934,4,guitar
+7qYoRQupD9jJ67CfbZZl7g,Sonny Lim,Slack Key Guitar: The Artistry Of Sonny Lim,Kohala Medley,22,312333,False,0.62,0.108,3,-22.94,1,0.0548,0.949,0.886,0.145,0.363,111.972,4,guitar
+3MM6LUmNqXnGz6V5gZlap2,João Gilberto,João Voz E Violão,Segredo,23,195466,False,0.686,0.0317,4,-23.894,1,0.0703,0.917,0.169,0.11,0.398,128.7,4,guitar
+4rrDNJIlcE03cUe4RA74Z6,Chamin Madero,Guitarras Mexicanas 16 de Oro,Amaneci en Tus Brazos,22,223826,False,0.655,0.458,2,-12.13,1,0.027,0.753,0.908,0.16,0.697,89.999,4,guitar
+6tRcgIoOXfYbpJnTsUyK97,Keola & Kapono Beamer,Honolulu City Lights,Nanakuli,22,170200,False,0.719,0.365,7,-18.87,1,0.0397,0.312,0.0106,0.115,0.837,139.064,4,guitar
+0og2U8tsBAR7NJysRR6uBU,Al Di Meola;John McLaughlin;Paco de Lucía,Friday Night in San Francisco,"Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",49,691306,False,0.415,0.576,4,-11.628,0,0.0331,0.834,0.808,0.698,0.556,100.54,4,guitar
+7EWRbRsj4X2D5yki2irDal,Los Apus,Lágrimas Del Sol,No Podrás Olvidarme,23,355320,False,0.599,0.613,3,-4.61,1,0.0319,0.831,0.0272,0.102,0.669,86.326,4,guitar
+6ofc3xBYAjNBXtMuOa1Dts,Danny Carvalho,Slack Key Journey - On My Way,Hawaiian Soul,22,212600,False,0.346,0.333,3,-13.772,1,0.0378,0.904,0.856,0.168,0.303,175.436,4,guitar
+43ce6Pc5GEojaFRFmbZs15,Sonny Lim,Slack Key Guitar,Mehameha,22,218800,False,0.38,0.123,3,-24.779,1,0.0524,0.946,0.855,0.117,0.477,116.851,4,guitar
+4KXDsTlpdUe78WsdNfnRDY,Maunalua,He Inoa,He Is The Only Reason,22,299680,False,0.509,0.267,3,-12.508,1,0.0256,0.742,0.0,0.114,0.242,81.958,4,guitar
+5p44ydMYAmHKgIh6Efa4Fe,Dúo Hnos. Gaitán Castro,Desde las Entrañas del Fuego,Nuestra Promesa,24,265306,False,0.598,0.628,6,-4.318,0,0.0437,0.702,0.00279,0.114,0.726,78.479,4,guitar
+1ldV9pD6dxKPdVcLfaWr5c,The Maile Serenaders,Slack Key & Steel Guitar - Volume II,Sweet Lei Lehua,22,110360,False,0.504,0.451,0,-15.078,1,0.0381,0.762,0.739,0.4,0.908,112.439,4,guitar
+2KAvnAjVaIcS9sSmZVOR4i,William Luna,A Tiempo,Por Ti Estoy Solo,24,214026,False,0.483,0.71,9,-6.53,0,0.0325,0.605,1.51e-06,0.0789,0.858,80.112,4,guitar
+2PZryKb38MtoCTsZASWLJ4,Pat Metheny;Anna Maria Jopek,Upojenie,Letter from Home,24,166280,False,0.493,0.0931,5,-24.853,0,0.032,0.982,0.684,0.0285,0.277,79.106,4,guitar
+7MU5rdfUafbXfp7WVhSkx3,George Dalaras,Sta Psila Ta Parathiria (Remastered),Sta Hronia Tis Ipomonis,22,175573,False,0.572,0.619,2,-5.841,0,0.0337,0.709,0.0,0.196,0.842,177.644,4,guitar
+1KeYXMOAIC8gVYjAAqRYBv,Antonio Bribiesca,Los Éxitos de Antonio Bribiesca Y su Guitarra Mexicana,La Barca de Oro,22,220466,False,0.426,0.0506,7,-24.588,1,0.0643,0.976,0.935,0.117,0.228,82.718,1,guitar
+2ggLxejiY4aIzf7FmZDTTj,Los Poetas De La Guitarra,Music Without Words - Guitarra Vol. 2,Cielo Rojo / Cruz De Olvido,22,170225,False,0.511,0.33,2,-7.122,1,0.0585,0.609,0.846,0.0982,0.259,196.045,4,guitar
+5J89CMy1fDUEf73fi6KL9R,Cuco Sánchez,Viva México (Remastered),"Guitarras, Lloren Guitarras - Remastered",23,154573,False,0.608,0.0277,7,-15.382,1,0.0452,0.938,3.76e-06,0.0874,0.314,109.877,3,guitar
+5aWWkqDqVMGcYSI4MzEJqY,Los Poetas De La Guitarra,Music Without Words - Guitarra Vol. 2,Ella / La Enorme Distancia / Que Te Vaya Bonito / Vámonos,22,308981,False,0.454,0.328,2,-6.089,1,0.0337,0.871,0.85,0.117,0.451,139.757,3,guitar
+7nfDCitnnPl1XcS3YJPXv0,Los Tres Caballeros,Los Mejores Trios,Regalame Esta Noche,23,168680,False,0.642,0.324,4,-11.891,1,0.027,0.835,2.35e-05,0.101,0.721,96.709,4,guitar
+6ZavrhYtp6T1nvrs94UHhw,Cuco Sánchez,Viva México (Remastered),Arrieros Somos - Remastered,22,149133,False,0.527,0.0724,7,-11.67,1,0.0466,0.884,0.0,0.123,0.316,137.327,4,guitar
+4LLjDHDwBqsDVZxniYiJYe,Yngwie Malmsteen,The Yngwie Malmsteen Collection,Far Beyond The Sun,45,350026,False,0.152,0.762,5,-13.985,0,0.0956,0.0061,0.823,0.244,0.481,84.048,4,guitar
+2bF4PjkcCw5ciubd2xQk3Y,Lance Takamiya,One Wish,One Wish,32,153290,False,0.65,0.145,9,-18.438,1,0.0518,0.984,0.946,0.105,0.355,136.001,4,guitar
+3qvKQpE2OLPDqho3DM19N1,Agustín Amigó;Pablo Briceño,Telémaco,Telémaco,46,165243,False,0.683,0.124,1,-17.963,0,0.062,0.982,0.905,0.109,0.417,114.755,4,guitar
+1Oqj6onkV4tLjPSwd06Xg7,Allan Soderbergh,Still So Beautiful,Still So Beautiful,45,151124,False,0.644,0.0878,2,-19.388,1,0.0505,0.927,0.859,0.112,0.124,117.092,4,guitar
+4jyZ8BAopVzHdBEfZvPsc1,Tyler Terrance,Fernweh,Fernweh,45,212803,False,0.548,0.0988,9,-18.816,1,0.0714,0.994,0.94,0.112,0.231,147.367,4,guitar
+5jebiJXbiS6bfVcSck50EV,Andrew Foy,Pop Hits 1,Sunday Morning,38,215259,False,0.606,0.261,7,-13.874,1,0.0518,0.559,0.868,0.0951,0.635,87.944,4,guitar
+4KYoSAttyUqmzYisjrK8WR,Marc Holland,Lovers,Lovers,45,156328,False,0.5,0.087,7,-17.131,1,0.05,0.984,0.954,0.111,0.329,128.614,3,guitar
+4I7WbrlfomZlIv4mveJ76x,Ahmoudou Madassane,Zerzura (Original Soundtrack Recording),Zerzura Theme II,42,263524,False,0.45,0.303,8,-7.967,0,0.0491,0.71,0.885,0.116,0.259,149.267,4,guitar
+1SHV4g9aRealAMsqqnz55a,Sungha Jung,Sungha Jung Cover Compilation 4,A Thousand Years,34,283872,False,0.478,0.28,3,-11.649,1,0.0444,0.69,0.909,0.315,0.223,98.263,4,guitar
+5OR1lHmU1oB1LSHBjWpLYk,Beyond The Guitar,"Fairytale (From ""Shrek"")","Fairytale (From ""Shrek"")",37,148421,False,0.563,0.0234,5,-19.784,1,0.0649,0.976,0.855,0.0956,0.169,77.662,3,guitar
+2cRll9FJJEs2hVKuOpRrRD,Project AER;Refeeld,Growth Patterns,Brighter Days,42,168571,False,0.712,0.279,3,-12.545,1,0.0345,0.932,0.82,0.38,0.115,136.033,4,guitar
+1sXLitmQULzwiWR8D38Ekw,Tinariwen,Aman Iman: Water Is Life,Cler Achel,39,267533,False,0.685,0.797,2,-5.372,1,0.0558,0.506,0.00923,0.069,0.926,98.614,4,guitar
+1oGe3ava1219qN4oDv8J24,August D. Valentine,Hope,Lullaby for Doris,22,143520,False,0.661,0.0202,11,-21.832,1,0.145,0.986,0.964,0.11,0.293,139.344,5,guitar
+1341iPhZXVcXit72XKMMck,Babik Reinhardt,Babik joue Django,Djangologie,45,156653,False,0.656,0.397,2,-11.936,1,0.0704,0.676,0.924,0.0982,0.663,114.18,4,guitar
+3NFY9shrYSF1hMAN7A6Uum,Gilberto Puente,La Guitarra y el Sonido Increible de Gilberto Puente,La Bikina,21,143053,False,0.509,0.294,4,-24.384,1,0.0418,0.502,0.835,0.227,0.907,89.741,4,guitar
+5x3jmw4Exk3mM1CCFd1Bq8,Dúo Ayacucho,Torcaza,Paloma del Alma Mía,23,296565,False,0.581,0.509,9,-4.286,0,0.0311,0.754,0.0,0.131,0.31,71.381,5,guitar
+2dKNF0EYNtLbUlgLhWwjsG,Little Symphony,Coco Beach,Norbourn,47,112000,False,0.19,0.161,2,-20.719,1,0.0385,0.901,0.97,0.77,0.0809,113.881,3,guitar
+1ctzNIXPvcj8hfoW4fHy8Q,Cindy Combs,Slack Key Lady,Hi'ilawe,22,168480,False,0.364,0.307,7,-17.603,1,0.0381,0.909,0.942,0.109,0.674,134.97,4,guitar
+5XwQe5h1ifxS0dL16uuEBH,William Luna;Jean Pierre Magnet;Serenata De Los Andes,Para Arriba,Niñachay,24,320506,False,0.688,0.74,2,-4.122,1,0.0477,0.266,1.37e-06,0.123,0.741,93.978,4,guitar
+4Cu5gWDhx64q3LDrdHfCN5,Little Symphony,Rialto Beach,Bellicoso,21,98000,False,0.12,0.0033,7,-29.212,1,0.0516,0.985,0.988,0.113,0.039,164.398,1,guitar
+7i5OoyPXtSrqz9jobJfG1F,Little Symphony,Rialto Beach,Ritornello,23,102000,False,0.0,0.00129,7,-29.445,1,0.0,0.969,0.956,0.123,0.0,0.0,0,guitar
+2hhydanqFAuBshh42p6TFE,Baden Powell,Baden Powell À Vontade,Samba Triste,24,250613,False,0.505,0.162,4,-15.339,0,0.0455,0.97,0.935,0.104,0.341,97.041,4,guitar
+48FugfzIGMgkZHb74wW7f3,Carlos Moscardini,el corazón manda (colección guitarras del mundo nº 14),7 anéis,21,117906,False,0.271,0.146,2,-22.085,1,0.0488,0.99,0.945,0.0959,0.514,84.183,3,guitar
+3gepBhoYSQTlS4V2x2LOYJ,Little Symphony,Pacific,Wandel,21,129500,False,0.173,7.4e-05,0,-28.123,1,0.0902,0.941,0.757,0.12,0.0269,81.472,4,guitar
+2q1TMjqObMvCTJD4pem6Yo,Los Indios Tacunau,20 Superéxitos Originales,Quiero Ser Tu Sombra,22,180146,False,0.486,0.591,6,-10.052,0,0.0671,0.623,0.834,0.0992,0.649,144.658,4,guitar
+0jq83coOwfuXSuKqYGFK0v,Dúo Ayacucho,Torcaza,Corazón Mañoso,23,228421,False,0.698,0.578,0,-3.573,1,0.0345,0.868,7.47e-06,0.159,0.657,76.226,4,guitar
+7jmKrl6M28CmP0eUEd2J2k,João Gilberto,João Gilberto Apresenta Chega de Saudade,Minha Saudade,23,188853,False,0.579,0.435,0,-12.933,1,0.0306,0.774,0.982,0.16,0.814,105.599,4,guitar
+5UA8RWH6PFg0UdTEa3SozB,João Gilberto,Bossa Nova Brasil,De Conversa Em Conversa,23,136066,False,0.678,0.332,2,-14.893,1,0.0634,0.793,4.51e-06,0.138,0.895,79.257,4,guitar
+1iDgCDqYjg9Kn6D36DyxLf,Los Apus,Lágrimas Del Sol,Resignación,23,307813,False,0.78,0.55,6,-5.012,0,0.0403,0.725,3.72e-06,0.325,0.646,146.143,4,guitar
+0pTAEdockvKVSq1hhFqk7O,Little Symphony,Rialto Beach,Amager,22,133624,False,0.0,0.004,0,-28.326,1,0.0,0.97,0.959,0.109,0.0,0.0,0,guitar
+5zKFP6GJLZqbg8z1wpAEiE,Chamin Madero,Guitarras Mexicanas 16 de Oro,Se Me Olvido Otra Vez,22,193586,False,0.689,0.54,0,-7.744,1,0.0476,0.697,0.417,0.376,0.374,168.099,4,guitar
+6w53rGshZ4eOzghihyQXmy,Paul Gilbert,Shrapnel Record Presents: Shred Guitar Instrumentals,Fuzz Universe,32,423306,False,0.541,0.944,6,-5.294,0,0.0491,0.0024,0.365,0.353,0.452,132.012,4,guitar
+2cdBD7mHvHTpIFnvxpPI86,Keola & Kapono Beamer,Honolulu City Lights,Kamakani Ka Ili Aloha,21,208626,False,0.368,0.0999,0,-17.799,1,0.0429,0.931,0.000237,0.102,0.25,107.748,4,guitar
+6uSZzuLu7pzFcfzzoeM1rf,Joseph Sullinger,Art of Acoustic: Soft Instrumental Covers & Classical Guitar,And I Love Her,44,146570,False,0.64,0.13,7,-22.546,0,0.14,0.99,0.902,0.0976,0.292,113.865,4,guitar
+1zA4fFerBRVJz22AOLXwPq,Charlie Byrd,Brazilian Byrd,Jazz 'N' Samba (So Danco Samba),22,142960,False,0.725,0.502,4,-12.541,0,0.0338,0.703,0.774,0.0836,0.868,103.162,4,guitar
+0OiMOaoZzKb8eNlOj70d4V,Danny Carvalho,Slack Key Journey - On My Way,Aloha 'Oe,21,170200,False,0.371,0.22,0,-17.693,1,0.0361,0.947,0.94,0.108,0.209,89.041,4,guitar
+45uZ3yWQxQ5DHjHomsinM9,Little Symphony,Pacific,Recitativo,21,131000,False,0.157,7.26e-05,0,-28.381,1,0.0668,0.932,0.888,0.116,0.0352,88.526,4,guitar
+6L1ejFvyidhSfuckbS2lwB,Sonny Lim,Slack Key Guitar: The Artistry Of Sonny Lim,Pau Hana Rag,22,184720,False,0.339,0.195,3,-20.308,1,0.0406,0.952,0.744,0.104,0.564,189.689,4,guitar
+0oG250tCx8DZtDgKpy6PPQ,Chamin Madero,Guitarras Mexicanas 16 de Oro,Fue un Placer Conocerte,22,190666,False,0.681,0.482,5,-9.097,1,0.0374,0.514,0.938,0.103,0.38,175.822,4,guitar
+3ctEQJsnVZRG78qyrnzJbd,Stochelo Rosenberg,Seresta,Bossa Dorado,22,212093,False,0.546,0.564,9,-9.138,1,0.0395,0.827,0.852,0.118,0.752,168.494,4,guitar
+39AAQeaab45OwtEnu7RDOx,Vicente Amigo;Pepe De Pura,Memoria de los Sentidos,Plaza de Las Sirenas (with Pepe De Pura),22,384200,False,0.675,0.602,5,-8.04,1,0.0418,0.772,0.0673,0.0767,0.66,174.004,3,guitar
+38nLHaKf8yjPUSnuyCoGlX,Barney Isaacs;George Kuo,Hawaiian Touch,He Aloha No 'O Honolulu & Mauna Loa - Medley,21,188213,False,0.449,0.228,7,-17.439,1,0.0358,0.77,0.843,0.278,0.435,122.975,4,guitar
+2S0cieOaexwawYtsmdnwDC,Chamin Madero,Guitarras Mexicanas 16 de Oro,La Diferencia,22,197373,False,0.575,0.466,0,-8.806,1,0.0332,0.333,0.904,0.197,0.405,167.884,4,guitar
+4YAMLtnuhZPrIOfvP3rhEr,Jerry Byrd,Steel Guitar Hawaiian Style,Serenade To Nalani,22,173160,False,0.563,0.0299,10,-20.522,1,0.0418,0.958,0.857,0.141,0.271,76.003,4,guitar
+7aQlpXxX6QCCUqXpRbgPXd,João Gilberto;Stan Getz,Getz/Gilberto #2,O Pato (The Duck) - Live At Carnegie Hall/1964,23,136880,False,0.621,0.18,2,-23.524,1,0.0619,0.875,0.827,0.698,0.884,169.916,4,guitar
+1OftardfqaxTMzZ8wdipeN,Jose A. Jimenez,"Rokoleando Con Rancheras, vol. 3",El Corrido del Caballo Blanco,21,173720,False,0.503,0.447,2,-5.29,1,0.0378,0.591,0.0,0.254,0.407,79.279,3,guitar
+0ZUFWmRg3uCqJcoCh26u9w,Atta Isaacs,Two Slack Key Guitars,Sweet Lei Lehua - Bonus Track,22,173053,False,0.54,0.309,7,-15.599,1,0.0318,0.61,0.751,0.119,0.622,126.431,4,guitar
+6WZh7ZKep2wBHmpEDwcXG3,The Country Side Of Harmonica Sam,"Broken Bottle, Broken Heart",My First Broken Heart (Since My Last Broken Heart),22,145399,False,0.739,0.302,6,-11.74,1,0.0315,0.577,0.0,0.124,0.903,129.854,4,guitar
+65KCnTndJ5GgsBrzVpxrhf,Los Tecolines,Boleros de Oro,Abril en Portugal,22,173000,False,0.635,0.531,4,-9.077,0,0.0309,0.822,3.03e-05,0.199,0.471,95.718,4,guitar
+1fTEzwWiH6F3iGKjITAmtk,George Dalaras;Christos Mastoras,Ta Mousika Genethlia – Duets (Live),I Eleftheri Ki Orei / An Iparhi Logos - Live,22,367053,False,0.59,0.771,4,-7.814,0,0.0571,0.344,1.05e-06,0.698,0.3,98.078,4,guitar
+5N892EXPu8buGU6DIN1RTM,Hanni Licht,Green Quartz,Green Quartz,42,156617,False,0.504,0.0594,2,-17.779,1,0.0549,0.991,0.926,0.112,0.32,113.051,4,guitar
+6q2ClykavW81gCuWMgOIMZ,Agustín Barrios Mangoré;Emil Kjellbom,Julia Florida,Julia Florida,34,249287,False,0.364,0.163,2,-19.097,1,0.0507,0.974,0.888,0.115,0.279,87.528,4,guitar
+1fl6ukQEOZMlVTjncfPXph,Las Almas Nuevas,Patagonia Wind,Patagonia Wind,47,211000,False,0.461,0.279,4,-15.836,1,0.0883,0.975,0.908,0.0981,0.311,112.015,4,guitar
+552uMPCGWE524Ut5Ey9vLX,Eddie van der Meer;Jabron,Paralyzed,Paralyzed,34,181500,False,0.618,0.418,11,-12.121,0,0.0673,0.076,0.0,0.277,0.584,160.157,4,guitar
+4eNFKsG45HSE7HP9v2NOW3,Will Moore,Someone You Loved,Someone You Loved,36,182601,False,0.582,0.518,1,-8.822,1,0.0375,0.959,0.781,0.102,0.216,109.941,4,guitar
+44qYR2lyrw5CLSTVtE5CNR,Moon Guitar,Gitaa,Struna,44,169057,False,0.32,0.242,0,-15.17,1,0.0422,0.941,0.93,0.165,0.431,81.09,4,guitar
+5Cus9CsxgYP7uNG76BJAgR,August Flendahl,Station,Station,34,142687,False,0.695,0.144,4,-13.59,1,0.0765,0.989,0.949,0.105,0.285,86.016,4,guitar
+5Ux4iEf1cfobC7ezcBKg2l,Ichika Nito,Awakening,Transformed,39,76554,False,0.596,0.113,9,-11.9,0,0.074,0.93,0.954,0.101,0.145,65.028,4,guitar
+0AnAt3FvC5yqVUY12xKLjL,Little Symphony,Syros,Syros,27,156908,False,0.171,0.194,5,-22.185,1,0.0577,0.981,0.963,0.478,0.166,162.9,5,guitar
+0HhWAs1xH9is3YW9k4Uivo,Andrew Foy,Señorita,Señorita,20,193340,False,0.744,0.301,0,-15.836,1,0.0537,0.73,0.858,0.13,0.68,117.325,4,guitar
+6k6TA8HG6ja8XYkoGXAGZ3,Robert Lowe,It's a Small World After All,It's a Small World After All,44,175439,False,0.688,0.193,4,-15.465,1,0.0463,0.958,0.909,0.106,0.448,98.95,4,guitar
+0tQcb1C4qhdlWynX10QDbC,Joni Laakkonen,"Guitar Covers, Vol. 4",I Like Me Better - Instrumental Guitar,25,203478,False,0.57,0.515,9,-8.936,1,0.03,0.474,0.897,0.121,0.573,91.96,4,guitar
+68kmDSWrnHoV5jfgJblUK3,Liad Abraham,Mad World (Classical Guitar Version),Mad World - Classical Guitar Version,43,125720,False,0.428,0.297,2,-10.156,1,0.0452,0.948,0.928,0.119,0.281,97.345,5,guitar
+3wYn4YENpIrbDQDEaGhedF,Jimmy Ponder,Steel City Blues,A Tribute To A Rose,23,135093,False,0.378,0.0353,2,-25.159,1,0.0516,0.977,0.893,0.102,0.219,140.881,4,guitar
+3gqkJAlWLdIrbCMhzSF6Vy,Antonio Garcia Isaac,Ambientes,Primavera,21,190823,False,0.824,0.295,9,-10.709,0,0.0417,0.917,0.884,0.107,0.625,125.094,3,guitar
+5RKk81Bj5yMWMYp7529lX0,Guus Dielissen;Casper Esmann,We Don't Talk About Bruno (Acoustic Instrumental),We Don't Talk About Bruno - Acoustic Instrumental,41,215533,False,0.733,0.33,0,-14.944,0,0.0534,0.574,0.927,0.0847,0.342,102.983,4,guitar
+0bz67HYKfiuUj1xhsK5ofT,Joe Satriani,Super Colossal,Crowd Chant,47,194973,False,0.571,0.946,1,-6.83,0,0.0725,0.000203,0.508,0.0818,0.291,119.853,4,guitar
+6LdtCV5bgLQhfGn72fpSvY,Tommy Emmanuel,Endless Road,Somewhere Over the Rainbow,36,260066,False,0.377,0.185,9,-19.942,1,0.0355,0.943,0.768,0.0961,0.105,117.955,4,guitar
+4fryIGUnJQ1XPg2QyasFQ4,João Gilberto,João Gilberto Apresenta Chega de Saudade,Chega de Saudade,58,123386,False,0.532,0.247,2,-15.507,1,0.0339,0.73,0.0,0.18,0.67,87.995,4,guitar
+5Mgu1Bba3K6UeRaTO6eOmm,Project AER;v i v,How Are You?,Finding A Way Past the Tears,21,149999,False,0.663,0.196,2,-19.37,1,0.0301,0.97,0.935,0.0701,0.0787,110.036,4,guitar
+5ABkMcPaILe30DmXlGx4eD,William Luna,En el Nombre de Jesús,Aleluya,23,199344,False,0.719,0.573,0,-11.373,1,0.0284,0.599,0.0,0.356,0.713,97.011,4,guitar
+5irD4qrnLiBy8kTEClSijS,Little Symphony,Pacific,Thracian,21,105000,False,0.0801,0.000179,0,-27.382,1,0.0779,0.927,0.667,0.106,0.372,85.382,4,guitar
+2XUOSnAQ33YUBisEqjMLzc,Cindy Combs,The Sounds of Hawaii,I Love Kauai,21,296095,False,0.353,0.327,0,-20.169,1,0.0503,0.861,0.909,0.354,0.191,101.111,3,guitar
+1keWmyG6qyBbMagPBdgUKr,Little Symphony,Rialto Beach,Ionian,22,93125,False,0.0,0.0268,7,-30.1,1,0.0,0.964,0.993,0.124,0.0,0.0,0,guitar
+1K4rKpWrFT2Jrov03XsJPM,João Gilberto,Legacy,Chega de Saudade,22,122773,False,0.586,0.273,9,-13.165,1,0.0361,0.72,0.0,0.23,0.738,88.132,4,guitar
+4bvJLIjezJonnh55JzrkDR,Manuel Silva,Lo Mejor de Manuel Silva: Pinchincucha,Carnaval Apurimeño,23,147920,False,0.605,0.316,8,-8.536,1,0.0432,0.866,0.00499,0.137,0.528,92.383,4,guitar
+0pt4S6qXybR7reJW8AfEka,Eddy Tyler,Guitar Instrumental Covers,Hallelujah,43,301440,False,0.48,0.181,0,-17.172,1,0.0522,0.953,0.897,0.106,0.214,170.177,3,guitar
+0HXTeJbCIQFHegpE2lx5Ej,Ramon Dona-Dio,Ramón Dona Dio y Sus Guitarras Mexicanas,Cielito Lindo,21,141493,False,0.579,0.0763,3,-30.55,1,0.0455,0.918,0.949,0.0905,0.784,94.361,4,guitar
+00w1seIGyst9ZBptlMRGh2,Chamin Madero,Guitarras Mexicanas 16 de Oro,La Farsante,21,217346,False,0.766,0.417,3,-8.588,1,0.0315,0.686,0.926,0.233,0.595,90.022,4,guitar
+1q8wmnVQ7k5VYGSewFISKN,Little Symphony,Rialto Beach,Oresund,22,121461,False,0.147,0.0022,7,-28.517,1,0.0501,0.968,0.98,0.113,0.0417,78.96,3,guitar
+5yW9AcNPW3AQKn8zg0svxF,"James ""Bla"" Pahinui",Mana,Maori Brown Eyes - Instrumental,21,224986,False,0.677,0.279,2,-17.403,1,0.0473,0.939,0.919,0.116,0.6,120.815,4,guitar
+718ugd99D23sO4FjrinEZT,João Gilberto,Legacy,Saudade Fez um Samba,23,109346,False,0.712,0.237,2,-16.341,1,0.114,0.869,1.68e-06,0.228,0.896,88.063,4,guitar
+7uHZpdY8MIrpwPaP0vbGxO,Xuefei Yang,Romance De Amor (International Version),楊雪霏,22,233133,False,0.151,0.122,9,-22.937,1,0.0432,0.966,0.94,0.0937,0.299,169.996,4,guitar
+2EQXKBGTaFU29HLIiL7FCj,João Gilberto,O Mito (Digital Edition),Coisa Mais Linda,23,171546,False,0.313,0.141,2,-18.865,1,0.0367,0.8,7.66e-05,0.204,0.15,137.849,4,guitar
+7nwQFNB6GQlUMW4PA2VXZ3,Jesse Cook,The Rumba Foundation,Homebound,22,283637,False,0.397,0.416,1,-11.062,0,0.0346,0.589,0.851,0.0868,0.288,121.349,4,guitar
+64UhEkHPVLJ14lv9PMJEmW,Raiatea Helm,Sweet & Lovely,Haole Hula,21,239213,False,0.542,0.314,5,-9.36,1,0.0297,0.744,0.0,0.106,0.485,110.959,4,guitar
+4MPm1bsUsZCyJpmAbwPa6H,George Benson,Weekend in L.A.,The Greatest Love of All - Live,23,342506,False,0.483,0.222,4,-19.423,1,0.0501,0.713,1.52e-05,0.705,0.164,115.594,4,guitar
+5bDw3x92dwYv7aUAlWgs4l,Charlie Recaido,Slack Key Guitar Volume 2,Kanaka Nova,21,207066,False,0.81,0.0268,7,-23.019,1,0.15,0.959,0.763,0.114,0.22,114.052,4,guitar
+2lMREcufX4FZPZKa560pna,John Scofield,Jazz Rock - Verve 50,A Go Go,23,394125,False,0.675,0.432,6,-12.616,0,0.046,0.501,0.845,0.0816,0.481,104.909,4,guitar
+0qoGgssl9tHvaAbm2Ix0PV,Pepe Jara,Pepe Jara Interpreta A Alvaro Carrillo,La Señal,22,189727,False,0.421,0.353,7,-12.303,1,0.0539,0.738,5.19e-06,0.125,0.404,173.669,4,guitar
+217S9LncwNyPmHNuzf4vTF,Kevin Teves,Slack Key Guitar,Saddle Road,21,290133,False,0.712,0.0754,9,-22.393,1,0.054,0.937,0.73,0.112,0.349,113.986,4,guitar
+6IRQlrjVuIii7lQ0zduALM,George Dalaras;Kostas Makedonas,O Giorgos Dalaras Tragoudai Stavro Kougioumtzi,Sta Psila Ta Parathiria (Ta Matoklada Sou Klinis) - Live,22,92200,False,0.448,0.893,6,-5.494,0,0.161,0.495,0.0,0.686,0.526,127.425,4,guitar
+1JdigPGH5UWl2P8OqxSg0s,Marc Ribot y Los Cubanos,Sesión Nocturnal,Aurora en pekin,21,331400,False,0.7,0.0851,2,-18.169,0,0.0647,0.92,0.256,0.108,0.152,87.588,4,guitar
+3ZIBwxUv06Sb0sVoKmZI96,Jesse Rice,The Pirate Sessions IV,Laid Back 9 to 5,21,245453,False,0.659,0.626,5,-7.771,1,0.0311,0.174,0.0325,0.0634,0.507,78.987,4,guitar
+1vRrUYb6wF1ubvUmHpYdpS,Jesse Rice,The Pirate Sessions IV,Hammock in Havana,21,241815,False,0.752,0.652,11,-7.537,1,0.0257,0.274,0.00408,0.112,0.765,105.988,4,guitar
+52yEkn1b6BiOZad3x7x6PP,Django Reinhardt,Djangologie Vol9 / 1939 - 1940,I'll See You in My Dreams,50,153333,False,0.765,0.522,5,-12.037,1,0.0339,0.931,0.913,0.102,0.84,112.747,4,guitar
+2W36ZmJxLpfj633TWh7871,Cuco Sánchez,"Rancheras de Lujo ""Si Quieres Más""",Hasta Luego,22,205093,False,0.545,0.121,9,-16.586,1,0.0422,0.49,8.31e-06,0.221,0.397,94.305,4,guitar
+1vFZxlwFxPyZPIX62zKAgJ,Django Reinhardt,Monsieur Guitare,Rose Room,22,164603,False,0.804,0.493,7,-10.321,1,0.0438,0.786,0.738,0.0809,0.888,94.804,4,guitar
+7nm0dn6tp3XYreZpt6Ugjg,Cuco Sánchez,"Corridos, Rancheras, Huapangos y más",Déjame llorar,22,130195,False,0.626,0.139,7,-14.566,1,0.0499,0.952,0.000452,0.253,0.48,109.952,3,guitar
+3qwROHTOpIE3gaD4F8Go5k,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 2,Esperame en el cielo,22,173586,False,0.706,0.326,11,-14.211,0,0.0356,0.919,0.000366,0.0872,0.49,103.961,4,guitar
+7FLMWpYsY4XX4KRUSWKbeV,Eiro Nareth,"Acousic Covers, Vol. 4",Interstellar Docking Scene,27,343800,False,0.63,0.276,9,-12.034,0,0.0431,0.874,0.92,0.106,0.0637,120.06,4,guitar
+73yPKyWK1oVADwnHfujL5B,AcousticTrench,Hallelujah,Hallelujah,32,205250,False,0.537,0.163,0,-17.023,1,0.0511,0.981,0.888,0.111,0.0759,76.86,4,guitar
+4E0pCVwsSnYcxcKpp0wf8Q,Andreas Borkental,Kohala,Olomana,44,159735,False,0.617,0.0961,6,-16.523,0,0.0637,0.993,0.947,0.109,0.188,91.331,4,guitar
+4JfiZjxURRSroTqETjK2za,Julyan Brynn,Floating Hearts,Svalbard,41,199831,False,0.676,0.175,7,-11.793,0,0.0409,0.972,0.855,0.114,0.141,84.685,4,guitar
+2er3qEdsuzp76lAUkPR9fP,Maneli Jamal;Lance Allen,Tranquil Strings,Dreaming in Color,26,155987,False,0.489,0.27,9,-11.429,1,0.0361,0.923,0.693,0.0885,0.288,164.146,4,guitar
+4lFeUM6dOe13ABt8LysiyD,Andrew Foy;Renee Foy,Sophia,Sophia,21,186902,False,0.723,0.272,0,-16.404,1,0.0316,0.343,0.566,0.228,0.696,112.995,4,guitar
+1iG777YpTBJ8nx8NP2HiGo,awakened souls,how we heal : addendum,pause,21,380737,False,0.227,0.0931,9,-24.377,0,0.0366,0.978,0.927,0.0816,0.0358,69.059,4,guitar
+6fMVNluLtvHl5ZqcRH1rU1,Hirofumi Nakamura,ハイキング,ハイキング,21,235384,False,0.621,0.348,2,-11.052,1,0.0265,0.841,0.435,0.0928,0.617,104.022,4,guitar
+3fPLzICJgsoHFWL17jCWb7,Oscar Roland,Isla de Pascua,In Love Again,45,177191,False,0.47,0.0485,4,-16.931,1,0.0516,0.973,0.923,0.109,0.181,90.176,4,guitar
+4mGigKCuAXQot4xkmhate9,Steve Vai,Inviolate,Teeth of the Hydra,41,312536,False,0.151,0.904,2,-6.595,1,0.0535,0.0203,0.886,0.468,0.372,83.968,4,guitar
+2TVLyjrb4R9rsPhmn6sXqf,Joseph Sullinger,Every Breath You Take,Every Breath You Take,49,175648,False,0.55,0.259,8,-15.294,1,0.0474,0.976,0.915,0.105,0.79,123.686,4,guitar
+1ptN31lBfOZKJPsQMm1Whb,Hapa,HAPA,Anjuli,21,291466,False,0.562,0.158,4,-15.77,1,0.0585,0.965,0.924,0.103,0.259,109.522,4,guitar
+7gux5oi8XbMhRJCRpKPg1T,AJ Ghent [ j-ent ],Ropeadope : 20For20,Wash Ya Hair,21,221346,False,0.838,0.486,0,-5.997,1,0.181,0.36,6.71e-06,0.166,0.49,83.095,4,guitar
+6f8mEv9vK0RPKpY3Kbbv9s,Riber Ore,Machupicchu,Huaylas Antiguo,21,226993,False,0.503,0.59,7,-6.093,1,0.062,0.812,0.81,0.0903,0.532,150.06,3,guitar
+6WK6YobTUWAUBJAt7N0VY4,Dúo Romances,Perdidos y Olvidados,Así Eres Tú,21,227280,False,0.711,0.904,10,-4.291,1,0.0313,0.765,0.000946,0.227,0.959,100.131,4,guitar
+7lwqb8Yj8RdgeTYvzsiNPP,Little Symphony,Twilight,Tranquille,21,190041,False,0.212,0.189,7,-16.849,1,0.0484,0.933,0.914,0.0799,0.0361,139.519,3,guitar
+2D5qRlyi2zC3oj668I9NQ7,Antonio Bribiesca,Homenaje,Hay Unos Ojos,21,185573,False,0.694,0.226,0,-15.875,1,0.125,0.883,0.883,0.1,0.822,134.958,3,guitar
+2vNEqML3WCB2kvUBca4RFA,Gilberto Puente,Historia de Amor,Estrellita,20,126773,False,0.608,0.23,0,-14.903,1,0.0538,0.937,0.905,0.121,0.296,100.217,4,guitar
+3PdRT4G6yxK550yGBDN64F,Carlos Di Fulvio,2 En 1,El Emprendado,21,143413,False,0.645,0.303,4,-11.652,0,0.0525,0.924,4.21e-05,0.122,0.535,76.367,3,guitar
+5sdRFDake23G0pqz6vX2u9,Steve Pulvers,Life is Beautiful,I'll Fly away,21,180790,False,0.554,0.222,11,-18.759,0,0.044,0.842,0.888,0.111,0.432,112.709,4,guitar
+7vAo1pxZusNrVlMKCn079S,Mexican Music Factory;Duo: Ramos - Monterrubio,Guitarras Mexicanas,La Bruja,21,226000,False,0.435,0.287,9,-13.834,0,0.0474,0.966,0.813,0.105,0.374,149.461,4,guitar
+3YhaU3ArxPlwC3dpbLbveI,Antonio Bribiesca,Homenaje,Guitarras Lloren Guitarras,21,174360,False,0.81,0.299,0,-16.325,1,0.158,0.903,0.963,0.105,0.498,129.911,3,guitar
+1GqaP5CcrKxOyZaaZwyjDD,Steelism;Ruby Amanfu,ism,Roulette (feat. Ruby Amanfu),21,271306,False,0.526,0.787,2,-6.408,0,0.0332,0.00138,0.633,0.0668,0.498,104.98,4,guitar
+5ZQUoKlOfYW0D3cwzegWPw,Little Symphony,Rialto Beach,Arafura,21,110000,False,0.189,0.0446,7,-28.399,1,0.115,0.971,0.99,0.111,0.0139,82.963,4,guitar
+0eR7cWP9dHSbJa4hgcqSv4,Chamin Madero,Juan Gabriel Instrumental,Tu Me Dijiste Adios,21,188093,False,0.8,0.451,0,-8.317,1,0.032,0.435,0.919,0.152,0.394,90.063,4,guitar
+4Lb2Idxk3UtUQBpYMMDdFq,Luiz Bonfá;Oscar Castro-Neves;Lalo Schifrin,Summer Samba! - Luiz Bonfá,Bossa Nova Cha Cha,23,200426,False,0.634,0.184,11,-16.857,0,0.0629,0.913,0.514,0.41,0.564,146.947,4,guitar
+5M59tL4qUObhHRGrhvdsVw,Duo Retama,El Poder Andino,Regresa Cariñito,22,300546,False,0.586,0.796,10,-3.732,1,0.0926,0.582,2.49e-06,0.0901,0.805,141.1,4,guitar
+5XOFgXIxjhvb5hv4GXxqG7,Marc Ribot;Los Cubanos,Muy Divertido! (Very Entertaining!),El Gaucho Rojo,21,355466,False,0.652,0.654,4,-8.359,0,0.0388,0.176,0.839,0.202,0.601,97.672,4,guitar
+5Z7hRZKS1AiTvkRIqaA1ev,Will Moore,Classical Guitar Lullabies Volume 1,Rock a bye Baby,21,105500,False,0.631,0.0948,0,-14.146,1,0.063,0.928,0.833,0.11,0.186,95.553,3,guitar
+3ZiAJAJNHauY4tusvCoS0E,William Luna,Lo Nuevo y Lo Mejor,No Hay Dolor Más Fuerte Que el Alma,23,221640,False,0.605,0.534,2,-9.993,0,0.038,0.494,0.000237,0.126,0.713,87.912,4,guitar
+6djqsnLDgphGuxlPheKndy,Jesse Rice,The Pirate Sessions,Coco Cay,21,258320,False,0.671,0.597,5,-7.617,1,0.0337,0.216,0.0,0.183,0.71,79.122,4,guitar
+0YJ8NlhYd13u2CZeuI2HMD,Earl Klugh,Soda Fountain Shuffle,Just Pretend,21,223266,False,0.709,0.372,2,-16.478,1,0.0526,0.652,0.415,0.129,0.832,78.53,4,guitar
+0e3dPP0jWtntN57HPV9xQ6,Kenny Burrell,Have Yourself a Soulful Little Christmas,White Christmas,24,186973,False,0.575,0.122,1,-18.595,1,0.0418,0.983,0.857,0.0876,0.213,86.118,4,guitar
+3ctsORVoVEDUxLpQAL0zOC,Django Reinhardt,Django Reinhardt: Legendary Recordings,Brazil,51,168720,False,0.833,0.199,0,-13.781,1,0.0518,0.941,0.907,0.114,0.831,110.689,4,guitar
+7lzi9c3jjP1N1oPNo5FH5F,Dúo Hnos. Gaitán Castro,Son del Sol (Clásicos Huaynos del Perú),Río Mantaro,23,263733,False,0.7,0.708,9,-7.004,0,0.158,0.412,0.0,0.0622,0.749,180.125,4,guitar
+53UU9jSpS0KIqvpZn2nr8O,Baden Powell;Vinícius de Moraes,"Vinícius – Sua Bênção, Saravá!",Canto De Ossanha,23,204533,False,0.427,0.588,7,-10.675,0,0.0417,0.602,0.0,0.122,0.763,87.654,4,guitar
+4gw42X05a8gTsMhHWLs1kl,William Luna,Tu Amor Ajeno,Te Recordare,23,299880,False,0.509,0.399,11,-11.697,0,0.0404,0.847,0.00418,0.103,0.283,178.182,4,guitar
+27RrlmfxPZCJSmMeVy3iwu,Claudio Estrada;José Luis Rodríguez;Los Panchos,Jose Luis Rodriguez con Los Panchos - Inolvidable (with Los Panchos),Contigo (with Los Panchos),21,184133,False,0.665,0.544,1,-7.188,1,0.0267,0.552,0.0,0.377,0.711,99.662,4,guitar
+1d0dcRoVWj7Ri2nRbC6mNY,William Luna,A Tiempo,Baila Cholita,23,206533,False,0.643,0.75,2,-3.581,0,0.0395,0.576,0.0,0.261,0.853,47.482,4,guitar
+049LYvMmtkeEs4WxP7MPXa,Al Di Meola,Land Of The Midnight Sun,The Wizard,20,406133,False,0.378,0.552,6,-14.155,1,0.0519,0.369,0.851,0.247,0.652,157.859,4,guitar
+3mPhqe2sScrIkGYuT9elCI,Rolando Carrasco Segovia,Carnaval en los Andes PERUVIAN GUITAR,Carnaval de Yungay,21,112047,False,0.607,0.473,9,-15.38,0,0.0453,0.891,0.959,0.107,0.936,147.308,3,guitar
+0cUTXNSpMFLG2eqhYdcabj,Los Poetas De La Guitarra,Los Poetas de la Guitarra Con el Sentimiento del Mariachi Vol. 1,Y Nos Dieron las Diez,21,310066,False,0.708,0.322,0,-6.942,1,0.0332,0.897,0.805,0.0525,0.538,80.0,4,guitar
+2xl1qK18luEWKF8sAyHJnC,Luis Salinas,Musica Argentina I,Zamba Triste - Instrumental,22,267706,False,0.599,0.241,9,-15.122,0,0.0466,0.744,0.883,0.133,0.279,134.349,3,guitar
+77w1hTaRTLAkShR7LN9Z7h,Los Tecolines,"Boleros Tríos, Vol. 1",Toda una Vida,22,166640,False,0.722,0.408,4,-9.948,0,0.0358,0.979,0.000125,0.173,0.739,110.901,4,guitar
+7BHspLppPWvKAmJRFadjn6,Eduardo Falú,Solos de Guitarra,El cóndor pasa - Huaino,21,198792,False,0.585,0.0646,8,-18.282,0,0.0638,0.957,0.898,0.0907,0.431,116.547,4,guitar
+72lOYxOQpybJ0Wa6Gz8bpA,Los Tecolines,12 Grandes exitos Vol. 1,Pecadora,22,186226,False,0.705,0.51,2,-7.085,1,0.0289,0.856,1.17e-05,0.105,0.747,98.473,4,guitar
+15gcqcGzUYF56VI0GgpOYH,Los Tecolines,12 Grandes exitos Vol. 1,Mala,22,165293,False,0.673,0.488,4,-5.602,1,0.0317,0.896,4.84e-05,0.25,0.557,108.066,4,guitar
+41fP4gludSeg5kZqGP02g9,Joaquín Rodrigo;Julian Bream;Sir Simon Rattle;City Of Birmingham Symphony Orchestra,50 Best Romantic Classics,"Rodrigo: Concierto de Aranjuez: II. Adagio (Excerpt, Opening)",21,286893,False,0.321,0.0386,11,-24.641,0,0.0366,0.958,0.961,0.297,0.0917,127.956,4,guitar
+2bunTwJC1dEXmQtByVpJht,Los Tecolines,Serenata con Los Tecolines,Cerezo rosa,22,183653,False,0.789,0.478,5,-10.938,1,0.0409,0.629,0.0,0.154,0.824,125.474,4,guitar
+2ihAiam7bJ2shPM5HIU9ii,Dúo Hnos. Gaitán Castro,Amor amor,Maíz,23,233093,False,0.517,0.895,7,-4.686,1,0.0648,0.501,1.63e-06,0.388,0.595,152.673,4,guitar
+6B5KyWfV5nkRS8uyYKO8TS,Whalebone,Eliza,Eliza,26,300093,False,0.68,0.16,7,-16.0,1,0.0553,0.955,0.917,0.126,0.394,140.365,4,guitar
+3qkScHBvMrxp4lk2Xi7lyd,Maneli Jamal,Distant Night,Distant Night,25,219757,False,0.733,0.0615,11,-14.922,1,0.0727,0.973,0.763,0.11,0.254,73.69,4,guitar
+0vqpO8tDfV0vXLtvuo2ykY,Agustín Amigó,Der Stieglitz,Der Stieglitz,30,139664,False,0.424,0.157,5,-15.036,1,0.049,0.967,0.885,0.152,0.231,89.005,4,guitar
+16oevrxWygJHsDc26NoAN2,Randal L Meek;Ken Smith,Morning Mist,Morning Mist,32,146688,False,0.375,0.221,6,-15.318,0,0.0591,0.759,0.829,0.108,0.286,174.365,3,guitar
+3KmCJPjXmc5a54DxyXv71p,Agustín Amigó,A Quiet Summer Night,A Quiet Summer Night,27,176530,False,0.345,0.161,4,-16.957,1,0.0486,0.964,0.936,0.111,0.134,88.461,3,guitar
+1JiD4a1ag18k92d33xAOy9,Andrew Foy,Glimpse of Us,Glimpse of Us,22,221442,False,0.406,0.098,8,-23.837,1,0.044,0.889,0.733,0.117,0.287,170.391,3,guitar
+42ZpL0tYndbzG5z6CbDEyt,Joseph Sullinger,Pisces,Pisces,35,156116,False,0.751,0.171,2,-17.925,0,0.11,0.973,0.94,0.111,0.477,107.098,4,guitar
+5xLnQjbaMhNJLUCQWtRUG9,Maneli Jamal,Beauty of Flow,Beauty of Flow,28,167000,False,0.787,0.235,7,-11.814,1,0.0673,0.93,0.865,0.119,0.125,129.635,4,guitar
+2OiHENlQL5MbKuA2gkkKfz,Beyond The Guitar,"Guitar Covers, Vol. 5","The Godfather Theme (From ""The Godfather"")",29,147119,False,0.559,0.034,2,-20.771,0,0.0789,0.991,0.933,0.101,0.43,131.529,4,guitar
+7cRXuKrYYZRHmRibV2qD6C,Andrew Foy,Best Covers,Friends,19,201995,False,0.715,0.389,2,-9.877,0,0.0513,0.596,0.861,0.114,0.676,95.882,4,guitar
+1Y5YQi8UfL3an5UKLZ6MVl,Celestial Conscience,I See Fire (Acoustic Guitar),I See Fire - Acoustic Guitar,38,96121,False,0.476,0.0952,2,-19.968,1,0.0523,0.923,0.866,0.104,0.281,99.09,3,guitar
+2pUI7cFLOYqtNQska1JEEI,Guus Dielissen,Blinding Lights (Instrumental Guitar),Blinding Lights (Instrumental Guitar),43,202493,False,0.344,0.22,10,-18.899,1,0.0542,0.754,0.925,0.129,0.323,83.826,4,guitar
+0CSMqABdulksSWLsl3bpDr,Kapono Beamer,"The Ethnic Sampler, Vol. 2",Stack of Leis,24,106000,False,0.396,0.147,7,-18.267,1,0.0394,0.842,0.885,0.124,0.229,83.219,4,guitar
+6H4TRMGGpq0BtQqjKGBFJy,Andrew Foy;Renee Foy,Tyler Durden,Tyler Durden,25,82000,True,0.797,0.0905,0,-16.793,1,0.0433,0.899,0.000292,0.11,0.726,120.115,4,guitar
+1WC8XL2CCH0JLD0ZyvWShA,Jesse Cook,Vertigo,Canción Triste,44,301826,False,0.655,0.165,1,-16.415,0,0.034,0.954,0.926,0.0941,0.494,138.02,4,guitar
+5mnPnjkSAOW1IaAPkETnTq,Trio Ayacucho,Trio Ayacucho,Piedra,22,174866,False,0.579,0.574,4,-5.935,0,0.0384,0.825,0.000103,0.107,0.798,120.123,3,guitar
+2uHHH7iJjQDhoFKfWbFjo3,Acoustic Guitar Collective,Love Letters,Don't Know Why,45,172277,False,0.702,0.0861,10,-11.942,1,0.11,0.991,0.926,0.11,0.348,179.78,4,guitar
+1qrDcjOjbtnJYjkrwmZT4Z,Duo Retama,El Poder Andino,Consejo de Mi Madre,21,322013,False,0.732,0.765,0,-5.001,1,0.0331,0.577,2.94e-06,0.0745,0.658,96.035,4,guitar
+2FOHl882HZGCdnetbhiEFE,La Rondalla Tapatía,Coleccion Original RCA,Novia Mia,21,162440,False,0.529,0.258,0,-13.269,1,0.0411,0.833,0.0,0.361,0.362,105.949,4,guitar
+5Fs3sqzSQC3begf7bni7IG,"Jim ""Kimo"" West",Slack Key West,Lei Aloha,21,194773,False,0.605,0.206,6,-13.956,1,0.046,0.792,0.479,0.123,0.444,135.059,3,guitar
+19CV2Mzx9j5tZBdYqbxdtQ,Eddy Tyler,Guitar Instrumental Covers,Zombie,37,300025,False,0.585,0.4,4,-11.811,0,0.0347,0.832,0.875,0.116,0.197,82.025,4,guitar
+66mTnsZ4VjZFAuapFIvwQO,Brittni Paiva,Brittni X 3,Kokoni Sachi Ari,21,120266,False,0.835,0.252,0,-11.715,1,0.0846,0.923,0.853,0.0673,0.434,79.985,4,guitar
+5iW6TzNki53X1zwMsYgops,Eddy Tyler,Guitar Instrumental Covers,Every Breath You Take,38,227730,False,0.542,0.275,9,-13.994,1,0.0429,0.897,0.889,0.0878,0.267,115.976,4,guitar
+6n8iNBWjmkeWpo2GThR1Jh,Cyril Pahinui,Night Moon (Po Mahina),Hurrah Lani Ha'a Ha'a,21,252653,False,0.431,0.432,2,-13.948,1,0.0309,0.463,0.0286,0.368,0.776,104.617,4,guitar
+6dZEvJzoCVQax6iV6Ti366,João Gilberto,João Gilberto (1973),Na Baixa Do Sapateiro,22,283585,False,0.605,0.32,3,-13.189,0,0.058,0.186,0.72,0.122,0.466,157.502,4,guitar
+4hK5r4ptRPjlvTEwo91Cfl,William Luna,Lo Nuevo y Lo Mejor,Lluvia,23,288773,False,0.67,0.532,9,-8.263,1,0.0401,0.607,4.16e-05,0.145,0.782,83.929,4,guitar
+6TKRgA1sjTHJFDZ1oEmCVN,Little Symphony,Rialto Beach,A Niente,21,102874,False,0.0846,0.00174,7,-28.015,1,0.0497,0.954,0.989,0.111,0.0578,165.27,1,guitar
+1rrPwnC71ZmXcIXuPudHYo,William Luna,Hasta el Final,Norma,22,227333,False,0.668,0.451,4,-6.167,0,0.0302,0.283,0.0,0.108,0.59,122.063,4,guitar
+1fGKZqyPR0fHLpXOlMLFvp,Duo Retama,Siempre,Carnaval Ayacuchano,21,907826,False,0.414,0.813,9,-4.383,0,0.0472,0.401,0.000212,0.455,0.721,115.531,4,guitar
+4CXmwZ2JJkBkxesEmfADhh,Sergio & Odair Assad,Saga Dos Migrantes,Agua e vinho,20,181666,False,0.363,0.0367,7,-26.841,0,0.0401,0.993,0.917,0.0868,0.138,91.562,4,guitar
+2HyovGOPNEqvZ7rW6L9F0M,Earl Klugh,The Very Best Of Earl Klugh (The Blue Note Years),Wishful Thinking,21,242466,False,0.58,0.408,9,-12.966,1,0.0372,0.573,0.819,0.143,0.471,139.047,4,guitar
+6N6PovdkbnsrQp8JYnltfR,Narciso Yepes,Rendezvous With Narciso Yepes,Jeux interdits (Romance),20,143853,False,0.677,0.0907,9,-26.534,0,0.051,0.976,0.892,0.0995,0.191,108.006,3,guitar
+4tfz45yRunfyscFmeWtmz2,Baden Powell;Vinícius de Moraes,Vinicius: Sucessos do Poeta,Canto De Ossanha,23,204293,False,0.475,0.502,0,-13.093,1,0.0445,0.544,0.0,0.129,0.699,87.516,4,guitar
+19MCvHdBjEheiweLyjiQWX,Raúl García Zárate,Concierto de Guitarra - 60 Años de Trayectoria Artística,Putka Mayu,21,263000,False,0.425,0.245,9,-16.021,1,0.04,0.929,0.903,0.68,0.393,87.969,4,guitar
+2TR1vKhXhkw1kI51iQiNsz,La Rondalla Tapatía,Amémonos...,Amémonos,21,172840,False,0.481,0.34,0,-14.864,1,0.0464,0.904,2.6e-05,0.0967,0.6,141.926,3,guitar
+4Ck56HqZQsRrMwAVEhgY6h,João Gilberto,João Gilberto (1973),Águas de Março,22,323773,False,0.713,0.078,1,-27.485,0,0.0891,0.876,0.046,0.112,0.815,152.756,4,guitar
+1bDQY7asH4uLK5XeKQs1GE,Leonard Kwan;Rare Debut Recording;The Red Album;Slack Key Master;Slack Key Tunings,The Legendary Leonard Kwan : The Complete Early Recordings,Hawaiian Chimes,21,170306,False,0.591,0.31,5,-15.65,1,0.0513,0.84,0.931,0.144,0.551,108.998,4,guitar
+1RnUH1VjmCiKvMeSRgwVzY,Luis Salinas;Lito Vitale,Salinas Vitale: Desde el Alma,La Pomeña,22,306922,False,0.361,0.227,4,-16.138,1,0.0403,0.86,0.898,0.11,0.1,81.127,4,guitar
+3Ojq0zGkEAKkokujlTVVeu,The Maile Serenaders,Slack Key & Steel Guitar - Volume I,`Ula No Weo,21,114693,False,0.624,0.129,1,-23.376,1,0.0399,0.575,0.292,0.0687,0.682,122.56,4,guitar
+3r9nc2RPGZ9hLY1wUWC3EA,Leo Brouwer;Ricardo Cobo,"Brouwer: Guitar Music, Vol. 1 - Estudios Sencillos / Tres Apuntes / Cancion De Cuna",Estudios sencillos: First Series: I,20,43693,False,0.315,0.216,4,-25.301,0,0.0679,0.965,0.888,0.116,0.236,87.731,4,guitar
+1qUdmikV7AoqFaOBPQg3ck,Baden Powell,Three Originals: Tristeza on Guitar / Poema on Guitar / Apaixonado,'Round Midnight,22,332613,False,0.392,0.0859,3,-20.668,0,0.0436,0.966,0.87,0.104,0.134,93.584,4,guitar
+3V4InT51kenWLTfXC6PfYr,Sonny Chillingworth,"Hawaiian Slack Key Guitar Masters, Vol. 2",Liloa's Mele - Grandson's Lullaby,21,166573,False,0.448,0.15,0,-22.779,1,0.0385,0.772,0.885,0.119,0.125,93.857,4,guitar
+213eVwDiWWVeXKoIXu41Am,Chamin Correa,"Cuerdas, Amor y Guitarras, Vol. 5",Chan Chan,21,381346,False,0.578,0.567,7,-7.992,1,0.0448,0.763,0.0538,0.0893,0.876,152.025,4,guitar
+4NqFIBXUGRZ5rOCJoUFYsJ,Dúo Hnos. Gaitán Castro,Tour 97,Piel canela,23,259346,False,0.518,0.716,2,-5.21,1,0.0564,0.398,5.92e-06,0.236,0.759,96.88,4,guitar
+3y4T7XgcoHbBlObA4vwc8L,John Pizzarelli,Midnight McCartney,Let ‘Em In,22,173480,False,0.59,0.538,7,-9.755,1,0.0749,0.47,0.216,0.0781,0.606,111.508,4,guitar
+6u2v95wrwm7WSbKAhdku3s,Ottmar Liebert,Borrasca,Bullfighter's Dream,21,223400,False,0.736,0.542,9,-9.657,1,0.039,0.613,0.814,0.0721,0.446,117.043,4,guitar
+0RvGaSPPSpLD2F1Eow1ebA,Dúo Hnos. Gaitán Castro,Tour 97,Cantando hasta el amanecer,23,320133,False,0.541,0.809,0,-4.949,1,0.0768,0.555,1.04e-06,0.302,0.927,143.559,4,guitar
+4RQnh7YpPlINEvHNWTNHlO,Cuco Sánchez,El Revolucionario,Tres Corazones,21,159947,False,0.455,0.304,2,-11.752,0,0.0408,0.813,0.0,0.0892,0.602,139.838,3,guitar
+77cLX2qF8KVj7kcjaND69o,Django Reinhardt;Benny Carter,All Star Sessions,Farewell Blues,22,194400,False,0.583,0.304,10,-9.511,1,0.0522,0.983,0.911,0.0971,0.913,185.963,4,guitar
+2B5a8L30R9vk3F9clonX5g,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 2,Vuela paloma,21,207013,False,0.668,0.374,7,-8.232,1,0.0288,0.788,0.0,0.29,0.669,113.108,4,guitar
+0nRYzhGf1B9Fc0riFM7KiQ,Estas Tonne,Internal Flight,Internal Flight,34,3876276,False,0.316,0.614,4,-9.397,0,0.0406,0.93,0.871,0.0775,0.19,159.791,4,guitar
+7mBtZnqdWLJQbd2vIc3Urz,Oli Bloom,Sancy,Sancy,45,143464,False,0.618,0.088,2,-17.014,1,0.06,0.993,0.908,0.108,0.24,87.853,4,guitar
+09N0r6vIBIEbqcpuAYvKEL,Ken Navarro,Into the Light,When We Dance,48,264186,False,0.339,0.617,7,-9.396,0,0.0312,0.893,0.933,0.0857,0.726,91.328,4,guitar
+2waJ83UhXRZ77H5Dy6vc8E,Mac Lawlor,Adenau,Adenau,44,232878,False,0.413,0.112,7,-14.88,1,0.0501,0.983,0.941,0.111,0.153,137.856,4,guitar
+241ZXbv26EbLNmVADe6yDK,Liam Stoler,West End,Satellites,46,156152,False,0.527,0.0328,3,-17.784,1,0.063,0.99,0.942,0.111,0.205,95.319,4,guitar
+4qyJf5WfPTj4JxL6vmpsfB,Eddie van der Meer,Anime Songs #8,"Secret Base (From ""Anohana"")",35,94000,False,0.616,0.39,6,-10.355,1,0.0419,0.756,0.63,0.101,0.376,131.945,4,guitar
+4Hg2XDxHhPq9eKzcSeL0cD,Lance Allen,As The Day Breaks,As The Day Breaks,42,191153,False,0.58,0.239,2,-10.712,1,0.0619,0.81,0.853,0.167,0.191,155.918,4,guitar
+3ZBVScPb6BlEwHruAWdhtx,Dieter Huber,Mare,Ao Clarear,44,197315,False,0.514,0.162,9,-15.86,1,0.0607,0.959,0.947,0.112,0.286,93.519,4,guitar
+5Yy7RCTlPGtp8p4b50x9IE,Carlos Moscardini,Buenos Aires de Raíz,El Gato,20,99893,False,0.439,0.327,2,-12.607,1,0.0437,0.979,0.924,0.107,0.505,92.713,4,guitar
+5vcopry7mhh2O0vKXV9QEo,Gontiti,「あまんちゅ!」 オリジナルサウンドトラック,blue in bossa,21,91760,False,0.814,0.295,0,-14.081,1,0.0589,0.876,0.883,0.112,0.627,110.907,4,guitar
+18ImQ01cPOBVQCCaHwEnNE,"Jim ""Kimo"" West",Guitar Stories,Song for Fess,21,197000,False,0.472,0.141,1,-14.136,1,0.03,0.933,0.486,0.0974,0.258,78.009,3,guitar
+7qC3hxepY3cTpeL2Vs3rHN,Brittni Paiva,Kamaka Ukulele Presents: Keep Strumming!,Motoka,21,186306,False,0.632,0.229,5,-14.786,1,0.0549,0.969,0.9,0.107,0.702,125.846,4,guitar
+4DGWTOEjcEgjx0d890nmli,Felipe Moreno;Nancy Manchego;Anita Fajardo,Mix Chimaychis (Cruz de Madera / Preso Infiel),Mix Chimaychis (Cruz de Madera / Preso Infiel),20,366409,False,0.607,0.415,0,-8.233,0,0.0507,0.94,0.0128,0.0945,0.223,93.083,4,guitar
+3Xtt1ZboWekBO3WlRcARVP,Danny Carvalho,Slack Key Journey - On My Way,Keali'i's Mele,20,95360,False,0.491,0.339,0,-15.221,1,0.0412,0.899,0.903,0.106,0.789,115.811,3,guitar
+4KJmZqZp54kuirXBX9apHC,Little Symphony,Rialto Beach,Varadero,20,96000,False,0.0727,0.00323,7,-27.883,1,0.0449,0.98,0.71,0.115,0.0372,81.722,3,guitar
+27YfBI6CZGZ8mY0PEGs39t,Manuel Silva,Lo Mejor de Manuel Silva: Pinchincucha,Chullalla Sarachamanta,22,125480,False,0.683,0.418,5,-6.676,0,0.0491,0.886,0.00774,0.0912,0.689,115.916,3,guitar
+2MV2CBFcQa6WPLFMicSvu3,Little Symphony,Rialto Beach,Nosara,21,119101,False,0.0614,0.00153,0,-28.262,1,0.0516,0.969,0.995,0.112,0.0671,74.04,3,guitar
+4XhkHkTxUWQfTIYVMqLRwg,Little Symphony,Rialto Beach,Arob,21,124000,False,0.109,0.00209,7,-29.252,1,0.0502,0.964,0.991,0.127,0.033,78.872,3,guitar
+0Qs8vlwMO7M22jOpwWWVEs,Kuana Torres Kahele,"Music for the Hawaiian Islands, Vol. 3 (Pi'ilani, Maui)",Lei O Pi'ilani,21,225650,False,0.491,0.297,7,-8.618,1,0.0279,0.707,0.000157,0.103,0.24,75.477,4,guitar
+0CKAlqArqrArH0Xmu38nPJ,Little Symphony,Pacific,A Niente,20,127500,False,0.183,2.03e-05,0,-27.415,1,0.0984,0.939,0.997,0.113,0.0,74.49,3,guitar
+1KvmxWixHaZyj8CbDYijkO,Little Symphony,La Noche,La Noche,20,144000,False,0.183,0.0709,2,-24.754,1,0.0498,0.929,0.964,0.134,0.0614,84.695,4,guitar
+5iEv15cIwHtxh96FpDKatM,Little Symphony,Rialto Beach,Elirid,20,144000,False,0.265,0.00222,7,-28.335,1,0.0628,0.974,0.968,0.107,0.04,82.746,4,guitar
+5OLn87vUAB2iJMVlopCteL,Jakob Bro;Palle Mikkelborg;Thomas Morgan;Jon Christensen,Returnings,Song For Nicolai,22,321013,False,0.27,0.0725,7,-23.561,0,0.0337,0.953,0.928,0.112,0.109,87.453,4,guitar
+7zeHGocoHM0CHhLelRWDzL,Cyril Pahinui,Night Moon (Po Mahina),Sanoe - Instrumental,21,188673,False,0.271,0.166,2,-21.261,1,0.0513,0.946,0.899,0.109,0.34,65.436,4,guitar
+47zoccv2ybp4Ibkk0dTgdL,Leonard Kwan,Ke'ala's Mele,Yellow Bird,21,249346,False,0.631,0.239,10,-21.571,1,0.0342,0.829,0.845,0.124,0.506,97.545,4,guitar
+7o8wpBOeaHMltqR9QWFWaE,Cindy Combs,The Sounds of Hawaii,Pulelehua,22,285451,False,0.345,0.171,0,-27.351,1,0.0801,0.745,0.841,0.352,0.23,93.785,4,guitar
+0ttlo9DfboKS9GeSgVduEs,Ozzie Kotani,"Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",Ku'u Kīkā Kahiko (My Old Guitar),21,226653,False,0.567,0.266,11,-15.502,1,0.0417,0.933,0.878,0.11,0.103,136.125,4,guitar
+4OCCRTzZrXvQapAlDVKIbx,Luis Salinas,Salinas,Count On Me (Cuenta Conmigo),22,347240,False,0.487,0.166,4,-13.434,0,0.0357,0.915,0.000657,0.0951,0.0853,120.779,4,guitar
+3vLAqKrQXqiwKOOLQqDeDd,George Dalaras,Kalos Tous,Pame Gi' Allou,21,208800,False,0.636,0.469,7,-11.708,0,0.033,0.0568,4.11e-06,0.0925,0.608,117.644,4,guitar
+1Y0JodliRhwOQgN7cdGIJl,The Maile Serenaders,Slack Key & Steel Guitar - Volume I,Kona Hema,20,94373,False,0.59,0.235,7,-22.391,1,0.0452,0.853,0.872,0.124,0.961,148.073,4,guitar
+33p2sHXIVT4dyoqfsgCisu,Los Apus,Tengo Que Olvidarme de Tí,Decías,21,330502,False,0.747,0.729,10,-3.705,1,0.0529,0.448,0.0,0.0891,0.773,81.051,4,guitar
+4wYRIxdBhtq82bCvarTGGm,Pepe Jara,El Último de Los Grandes Trovadores,Orgullo,21,176826,False,0.675,0.36,9,-11.372,1,0.0403,0.909,0.0,0.379,0.624,100.71,4,guitar
+1WmI8zxqB7Uq4i7zpQvMBe,Sonny Lim,Slack Key Guitar: The Artistry Of Sonny Lim,Mauna Loa Slack Key,21,191413,False,0.567,0.204,2,-20.467,1,0.0507,0.975,0.932,0.126,0.935,138.175,4,guitar
+1t4LWH3LrFAwCTHgUKM16s,龍藏Ryuzo,ANISON Explosion~Acoustic Solo Guitar~,紅蓮の弓矢 (Instrumental),20,162549,False,0.424,0.508,4,-9.045,0,0.0362,0.656,0.867,0.18,0.464,177.591,4,guitar
+2xjFcumVQnzb0noTieo1SF,Atta Isaacs,Two Slack Key Guitars,Mele Li'i - Bonus Track,20,132786,False,0.479,0.202,5,-18.198,1,0.0441,0.819,0.799,0.259,0.601,145.356,3,guitar
+2uwAcSdEpZKCJOAimdvzgR,Los Apus,El Imperio de los Apus,Chofercito de Mala Suerte,22,242880,False,0.598,0.529,10,-5.822,1,0.0355,0.717,8.93e-05,0.102,0.55,93.055,4,guitar
+2YliwwbmiacOPrtZhTOr2O,Sonny Lim,Slack Key Guitar: The Artistry Of Sonny Lim,How D'ya Do,21,211880,False,0.622,0.121,3,-22.338,1,0.0536,0.97,0.917,0.143,0.5,125.661,4,guitar
+3qcIbFYBfZSbnyiwixAeeI,George Dalaras,O George Dalaras Tragouda Apostolo Kaldara (Remastered),Nihtose Horis Feggari,21,239920,False,0.437,0.362,2,-10.074,1,0.031,0.807,2.18e-06,0.314,0.268,115.284,4,guitar
+6BaeMmKzgm5DLR9FrwNvAo,The Brothers Cazimero,The Best of the Brothers Cazimero Volume 1,Ka Wailele O Nuuanu,21,204240,False,0.314,0.2,7,-17.8,1,0.033,0.31,0.000299,0.111,0.238,80.477,4,guitar
+0tbaCkhAVU6yWfXfIy1Nz5,Baden Powell;Quarteto Em Cy,Os Afro-Sambas,Tristeza e Solidão,23,332693,False,0.408,0.138,2,-19.464,0,0.034,0.838,0.128,0.105,0.241,110.466,4,guitar
+0wgMbW9PdwZIyp51Me1p8k,Chamin Correa,En Concierto Chamin Correa,Una Mañana,21,360760,False,0.734,0.629,7,-9.463,0,0.0397,0.86,0.651,0.691,0.771,117.047,4,guitar
+7aPGbYjbgft9MPkUm8bTQQ,Jesse Rice,The Pirate Sessions IV,Boca Ciega,20,226384,False,0.633,0.597,7,-7.583,1,0.0343,0.373,1.22e-06,0.102,0.708,76.993,4,guitar
+0wmez5LnyhrSQrmETTIoR7,Chamin Correa,"Cuerdas, Amor y Guitarras, Vol. 5",Te Llamé,21,241893,False,0.45,0.564,7,-7.616,1,0.0293,0.747,0.466,0.121,0.352,77.976,4,guitar
+2uNzHTy6iLyzZhY1bDuuZ0,Jesse Rice,The Pirate Sessions,Sweet Kinda Summer,20,223680,False,0.499,0.784,8,-7.369,1,0.0357,0.382,0.0,0.0937,0.926,199.961,4,guitar
+4XFtl8XZQyMZYQwMu22ced,Marc Ribot;Los Cubanos,Y Los Cubanos Postizos,Como Se Goza En El Barrio,21,209533,False,0.479,0.795,5,-8.218,1,0.0492,0.154,0.698,0.0708,0.95,103.22,4,guitar
+2lCASWgS5pcMtlvC3uKu1C,Jesse Rice,The Pirate Sessions,Caribbean Crazy,20,264853,False,0.628,0.806,6,-6.626,1,0.0298,0.453,2.35e-05,0.12,0.915,123.014,4,guitar
+7tgBwxhAAVtePt0zwd011H,George Dalaras;Christos Thivaios;Sinithis Ipopti,Zodani Ihografisi Stin Iera Odo II,Mikri Patrida - Live,21,265466,False,0.351,0.356,6,-9.622,0,0.0336,0.753,2.1e-05,0.851,0.146,125.642,4,guitar
+0IHiD8fR4ymWaVjkMtaQhn,Jesse Rice,The Pirate Sessions,Blackbeard's Ghost,20,221480,False,0.24,0.437,5,-9.174,1,0.0293,0.158,1.91e-06,0.13,0.211,71.757,4,guitar
+4pwt5yTg2kIiAzmMvKzEmL,Cuco Sánchez;Antonio Biribiesca,Cantares de la Revolución Mexicana y Canciones Norteñas,La Adelita,21,177066,False,0.524,0.264,6,-12.993,1,0.0537,0.925,0.0,0.166,0.664,135.782,3,guitar
+2PuBKLFRKy426icNYmbzdV,Cuco Sánchez,Viva México (Remastered),Hay Unos Ojos - Remastered,21,153226,False,0.485,0.102,2,-12.926,1,0.0444,0.88,0.0,0.0738,0.179,77.931,4,guitar
+010wjhOg2RUgZsWxTgtym8,Kotaro Oshio;Yuuki Ozaki,KTRxGTR,同級生,36,238280,False,0.635,0.476,9,-6.981,1,0.0262,0.674,0.0,0.376,0.46,94.066,4,guitar
+1XUMiKAXzoSTy5lU3dwPRe,Ichika Nito,Qualm,Qualm,37,135001,False,0.654,0.218,1,-8.92,0,0.0588,0.941,0.907,0.241,0.297,90.108,4,guitar
+6qQhWIowgtVSz6UFJvG5Ku,Ahmoudou Madassane,Zerzura (Original Soundtrack Recording),Akaline Akaline,35,187345,False,0.427,0.525,6,-8.739,0,0.0462,0.852,0.91,0.106,0.386,99.842,4,guitar
+5RHEWqyahElZpVulOa10t8,Maneli Jamal;Elgafar,The River and the Mountain,The River and the Mountain,29,124250,False,0.559,0.222,9,-12.971,1,0.0394,0.871,0.908,0.12,0.131,119.516,3,guitar
+5Hq1tPk22c1M4Y61SkTleX,Maneli Jamal,Rise,Rise,30,155500,False,0.801,0.255,2,-13.939,1,0.0617,0.966,0.892,0.109,0.305,120.102,4,guitar
+0Ro22xNl7xLJKmcsSfwayZ,Tommy Berre;Denis Turbide,Versailles,Versailles,38,137374,False,0.672,0.161,5,-16.664,1,0.0585,0.983,0.925,0.106,0.179,139.844,3,guitar
+6WiykMhEcWvMzL5SQhtdrY,Maneli Jamal,Soul Odyssey,Full Bloom,34,162000,False,0.456,0.264,8,-11.432,1,0.0297,0.916,0.767,0.111,0.0773,147.927,4,guitar
+2RxVyU62OqPMIzvSJruNyL,Narciso Yepes,Jeux interdits (Film Score 1952),Romance Anónimo,43,145998,False,0.521,0.226,4,-12.816,0,0.0488,0.99,0.844,0.098,0.263,106.783,3,guitar
+44ygGTyBchnIDf0BU4GKRn,Guus Dielissen,Mirrors (Instrumental Guitar),Mirrors (Instrumental Guitar),42,219579,False,0.414,0.194,3,-19.209,1,0.0416,0.883,0.897,0.129,0.61,77.205,4,guitar
+2hoiJKR4E7dxzyaVXzT0j0,Joe Satriani,Is There Love In Space?,Just Look Up,32,290680,False,0.622,0.622,4,-5.653,1,0.0221,0.161,0.476,0.128,0.357,88.043,4,guitar
+5OnyojWcVAwQv8dbenzRug,Michael Angelo Batio,No Boundaries,No Boundaries,38,223600,False,0.18,0.882,7,-10.28,0,0.0419,0.00316,0.597,0.128,0.402,133.155,4,guitar
+7sDYNHCFSDx0eKPhby4zgm,Project AER;WYS,Growth Patterns,Open Eyes,40,155714,False,0.694,0.225,11,-19.029,0,0.032,0.479,0.754,0.109,0.204,130.094,4,guitar
+4SG9qmC35sNohBYsnWw0gj,Tommy Emmanuel;Mike Dawes,Smells Like Teen Spirit,Smells Like Teen Spirit,31,269586,False,0.683,0.647,2,-9.071,0,0.0321,0.483,0.857,0.12,0.655,128.499,4,guitar
+3SgshUlk02dwRHeLm0ztOi,Yngwie Malmsteen,Odyssey,Rising Force,50,264066,False,0.321,0.958,8,-10.495,1,0.0872,0.103,7.43e-05,0.0994,0.106,117.875,4,guitar
+679O0Eirjl5rJGdFu3PV9q,Valencia Torres,when the stars align,Kleiner Singvogel,43,182501,False,0.652,0.104,4,-15.407,1,0.0779,0.989,0.938,0.109,0.381,118.523,3,guitar
+2SvmLf1WGMevA1POgmsE1j,Viktor Kvist,What Are You Doing the Rest of Your Life?,What Are You Doing the Rest of Your Life?,46,166556,False,0.698,0.134,9,-19.38,0,0.0498,0.99,0.938,0.107,0.192,131.953,4,guitar
+75JhH3GCl11pwACm5n6Ikx,Simon Kouskounis,Olives,From Sounio to Sevilla,19,276735,False,0.668,0.666,11,-6.335,0,0.0279,0.729,0.82,0.0999,0.639,100.023,4,guitar
+5z0Jl3ChNEUqi2CCSzACsJ,Miranda Boumedin,Relaxing Music,River Flows In You,44,213637,False,0.758,0.223,8,-13.275,1,0.0651,0.97,0.888,0.114,0.265,109.466,4,guitar
+1BRiTtMLtAdzplesFaizAo,João Gilberto,João Gilberto (1973),Avarandado,22,269766,False,0.539,0.201,6,-14.684,1,0.0383,0.62,0.0882,0.366,0.312,93.761,4,guitar
+3eSvhEe4Y1BS7H9RZcM4R8,Eddy Tyler,Guitar Instrumental Covers,Wonderwall,38,254490,False,0.429,0.372,6,-11.963,0,0.0357,0.79,0.921,0.1,0.435,174.092,4,guitar
+4vU3bJWkt1sJGtMZ5RK7EO,Little Symphony,Lac du Bois,Espirando,20,214895,False,0.349,0.175,7,-20.686,1,0.0592,0.547,0.372,0.348,0.092,89.789,4,guitar
+4MUPLEaui9JXPSkFjFkokH,Alvino Rey,Lost Halloween,The Bat,22,117840,False,0.631,0.504,5,-8.531,0,0.0345,0.545,0.819,0.289,0.83,110.193,4,guitar
+7lVrGPpy0wF0l5uUGkm2u6,Eddy Tyler,Guitar Instrumental Covers,River Flows In You,36,384000,False,0.458,0.315,9,-14.259,1,0.0661,0.922,0.692,0.0954,0.261,134.27,4,guitar
+5oaKdJi8it3WRS3RMAqZsE,Juan Falú,Reencuentro en el CCK,Repiqueteadita,21,115147,False,0.559,0.455,9,-12.292,1,0.061,0.745,0.849,0.711,0.451,101.698,4,guitar
+0cundwpT660dXda1AK7F3A,Los Apus,Lágrimas Del Sol,Por Ella,21,279040,False,0.668,0.576,2,-7.113,1,0.0301,0.477,0.0332,0.212,0.553,100.031,4,guitar
+4JHvqjJ8ntYh3XP89zJdej,Ramon Dona-Dio;Sus Guitarras Mexicanas,Ramón Dona Dio y Sus Guitarras Mexicanas,La Negra,20,169773,False,0.506,0.102,3,-27.349,1,0.0476,0.912,0.924,0.12,0.598,105.899,4,guitar
+5hCmGza9OHRzH9WiKEy349,Steve Petrunak,Reflective Moments - Music for Meditation and Contemplation,Innocence,21,189826,False,0.465,0.173,11,-14.909,1,0.0908,0.868,0.601,0.105,0.2,79.763,4,guitar
+40E77lnPNrVmN6kl8ha8Uu,Claudio Estrada,El Último Trovador,Contigo,20,166346,False,0.694,0.022,7,-29.062,1,0.0609,0.787,0.000105,0.117,0.519,106.484,4,guitar
+42THn8rqPhzVZowaSHv1ST,William Luna;Magaly Solier,Desde el estudio,Nuestra promesa,22,290853,False,0.584,0.743,10,-6.575,1,0.117,0.747,0.0,0.0734,0.73,144.016,4,guitar
+7HP4mx8OmlscxGWlRgciSw,Trio Ayacucho,Como Siempre Con El Mayor Cariño,Huérfano Pajarillo,21,268120,False,0.732,0.569,7,-5.75,0,0.0856,0.706,3.96e-06,0.0794,0.684,111.525,3,guitar
+54MiuHVyc3jtQglqhMsdZH,Jeff Wahl,Christmas Guitar,Auld Lang Syne,21,136813,False,0.495,0.0963,3,-20.462,1,0.0519,0.962,0.88,0.108,0.666,92.157,4,guitar
+0mAZZ0dvYIwzrZrcXi5z4U,Toninho Horta;Orquestra Fantasma,Terra dos Pássaros,Terra Dos Pássaros / Beijo Partido,21,354560,False,0.262,0.352,11,-13.142,0,0.0358,0.569,0.00443,0.189,0.133,88.714,4,guitar
+39ntcqNaRKwAoaN87MDEJw,Los Apus,Lágrimas Del Sol,Tristeza,21,320200,False,0.603,0.626,3,-5.26,1,0.0393,0.702,3.81e-05,0.0899,0.786,73.567,4,guitar
+5QFoUJ4XD88IEA5FYst3e6,Chamin Madero,La Guitarra de Mexico,Amaneci En Tus Brazos,20,225573,False,0.676,0.382,2,-15.342,1,0.0274,0.741,0.876,0.14,0.691,92.166,4,guitar
+24eZ6CbQsJBDsBqmig5CRx,William Luna,A Tiempo,Si Supieras,22,196653,False,0.625,0.812,6,-4.41,0,0.043,0.345,0.0,0.344,0.854,96.08,4,guitar
+5OWMJcSZG0bkRJP7AI45xH,Sergio & Odair Assad,Heitor Villa-Lobos: Complete works for solo guitar,Estudo No. 12,21,135240,False,0.308,0.546,9,-14.399,0,0.0305,0.95,0.795,0.0896,0.36,145.65,3,guitar
+0QxNGFo3qZ0Iq1UN3wvGKn,Los Tres Caballeros,Los Tres Caballeros,El Gran Bohemio,21,185306,False,0.732,0.504,4,-5.486,0,0.0388,0.792,5.61e-05,0.17,0.633,99.653,4,guitar
+6eauLXWOtqK5qd5kIItW7j,João Gilberto,Legacy,Desafinado,22,122933,False,0.558,0.212,3,-16.754,0,0.0718,0.628,1.3e-05,0.114,0.687,82.316,4,guitar
+0OhQtbodFjCaeQkVuO0WEE,Los Poetas De La Guitarra,Los Poetas de la Guitarra Con el Sentimiento del Mariachi Vol. 2,Si Nos Dejan,21,153440,False,0.643,0.412,4,-6.127,1,0.0286,0.421,0.22,0.0638,0.509,102.99,4,guitar
+7wlMBq2mjXlqxSmonLSk2i,Los Apus,No Debí Conocerte,No Me Vuelvo a Enamorar,21,243809,False,0.812,0.615,1,-5.769,0,0.0456,0.723,0.000894,0.106,0.815,102.05,4,guitar
+4ydSvtFaTIxW85h5QN2qfe,John Pizzarelli,Sinatra And Jobim @ 50,Canto Casual,21,363426,False,0.538,0.553,7,-8.928,1,0.0391,0.742,0.165,0.108,0.647,88.665,4,guitar
+5Ky1XoRuYVahqFYxSgs1WD,William Luna,Romance Andino,Vuelve,22,235586,False,0.562,0.575,7,-8.251,1,0.034,0.625,5.87e-06,0.0963,0.357,145.077,4,guitar
+0d27ucFjvcG6PY6q6lL2c5,John Pizzarelli,John Pizzarelli Meets The Beatles,Here Comes the Sun,21,304573,False,0.408,0.447,3,-11.441,1,0.0413,0.435,0.0276,0.0994,0.377,144.084,4,guitar
+2HjQHKtr3kYG4BaCbQZd67,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 1,Venganza,21,174146,False,0.765,0.397,5,-9.655,1,0.0373,0.862,0.00011,0.115,0.731,116.499,4,guitar
+7uWgYqkTI0jHr0HMjiazvJ,Ottmar Liebert;Stefan Liebert;Jon Gagan;Gary Lyons,Nouveau Flamenco (1990-2000 Special Tenth Anniversary Edition),Heart Still/Beating - Digitally Remastered 1999,20,250357,False,0.593,0.634,9,-12.481,0,0.0311,0.795,0.885,0.288,0.503,101.734,4,guitar
+1bij1AVdF8WSokYyBCGVyg,Los Tecolines,Peerless 80 Aniversario - 24 Exitos Vol. 1,Si no eres tú,21,204173,False,0.648,0.366,0,-11.161,1,0.0316,0.87,7.56e-05,0.106,0.307,102.903,4,guitar
+2Tj8bSk30yzu5nyxr1U2TP,Joaquín Rodrigo;John Williams;Louis Frémaux;Philharmonia Orchestra,Classic Williams -- Romance of the Guitar,Concierto de Aranjuez: II. Adagio,21,626866,False,0.225,0.0834,11,-18.937,0,0.0454,0.954,0.93,0.0878,0.0541,76.686,4,guitar
+7earShRWJDv4GlJQ5Uo5a2,Eduardo Falú,El Sueno De Mi Guitarra,Cancion Del Jangadero,21,288106,False,0.571,0.266,0,-14.236,1,0.0299,0.711,0.0426,0.105,0.273,114.795,3,guitar
+21Mo6vOk3k3C4O8djTXky7,Los Tecolines,Serenata con Los Tecolines,Conozco a los dos,21,156160,False,0.627,0.333,0,-6.952,1,0.04,0.93,0.00352,0.123,0.679,103.32,4,guitar
+4sdvy0MrFMpK48OBfbeHki,Dúo Hnos. Gaitán Castro,Amor amor,Para Chaska,22,241653,False,0.649,0.751,0,-3.881,1,0.0382,0.694,0.00224,0.237,0.64,78.083,4,guitar

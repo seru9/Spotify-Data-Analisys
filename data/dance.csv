@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Indigo (Extended),Under The Influence,96,184613,True,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,4,dance
+3nqQXoyQOWXiESFLlDF1hG,Sam Smith;Kim Petras,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),100,156943,False,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,4,dance
+5nCthAh3jt4xKuLJAifAaR,Katy Perry,Harleys In Hawaii,Harleys In Hawaii,73,185815,False,0.722,0.757,10,-6.207,0,0.132,0.185,6.32e-06,0.126,0.721,140.094,4,dance
+48QmG1dfvMuYLxMPt7KSRA,Sean Paul;Dua Lipa,Mad Love The Prequel,No Lie,83,221176,False,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,4,dance
+7BKLCZ1jbUBVqRi2FVlTVw,The Chainsmokers;Halsey,Closer,Closer,84,244960,False,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,dance
+0lYBSQXN6rCTvUZvg9S0lU,DJ Snake;Justin Bieber,Encore,Let Me Love You,84,205946,False,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,4,dance
+3afkJSKX0EAMsJXTZnDXXJ,Troye Sivan,Strawberries & Cigarettes,Strawberries & Cigarettes,82,201538,False,0.578,0.537,9,-8.676,1,0.0832,0.162,0.0,0.076,0.25,83.909,4,dance
+5nujrmhLynf4yMoMtj8AQF,Dua Lipa;DaBaby,Future Nostalgia,Levitating (feat. DaBaby),85,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,dance
+4uUG5RXrOk84mYEfFvj3cK,David Guetta;Bebe Rexha,I'm Good (Blue),I'm Good (Blue),98,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+6ocbgoVGwYJhOv1GgI9NsF,Ariana Grande,"thank u, next",7 rings,84,178626,True,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,dance
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I met you when I was 18. (the playlist),I Like Me Better,83,197436,False,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,dance
+5cF0dROlMOK5uNZtivgu50,Charlie Puth,Voicenotes,Attention,83,208786,False,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,4,dance
+35mvY5S1H3J2QZyna3TFe0,Ariana Grande,Positions,positions,85,172324,True,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,dance
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Planet Her,Woman,88,172626,True,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,4,dance
+7ef4DlsgrMEH11cDZd32M6,Calvin Harris;Dua Lipa,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),89,214846,False,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,dance
+08bNPGLD8AhKpnnERrAc6G,Marshmello;Anne-Marie,FRIENDS,FRIENDS,79,202620,True,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,dance
+0TK2YIli7K1leLovkQiNik,Shawn Mendes;Camila Cabello,Señorita,Señorita,81,190960,False,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,dance
+0mBP9X2gPCuapvpZ7TGDk3,Charlie Puth;Jung Kook;BTS,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),92,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+06KyNuuMOX1ROXRhj787tj,Charlie Puth;Selena Gomez,Nine Track Mind,We Don't Talk Anymore (feat. Selena Gomez),82,217706,False,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,4,dance
+0EH7sgeiFqDa3eS7ieW2zs,Akon;Hamsika Iyer,Ra-One,Chammak Challo,71,227091,False,0.742,0.879,0,-4.274,0,0.0328,0.0696,7.17e-06,0.0981,0.936,133.946,4,dance
+39LLxExYz6ewLAcYrzQQyP,Dua Lipa,Future Nostalgia,Levitating,84,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,dance
+0tBbt8CrmxbjRP0pueQkyU,Selena Gomez;Marshmello,Wolves,Wolves,80,197993,False,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,4,dance
+0qOnSQQF0yzuPWsXrQ9paz,Gym Class Heroes;Adam Levine,The Papercut Chronicles II,Stereo Hearts (feat. Adam Levine),82,210960,False,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,4,dance
+27SdWb2rFzO6GWiYDBTD9j,Sia,This Is Acting,Cheap Thrills,78,211666,False,0.628,0.698,6,-5.608,0,0.105,0.0472,0.00143,0.0907,0.732,89.976,4,dance
+2J2Z1SkXYghSajLibnQHOa,Sia,This Is Acting,Unstoppable,81,217746,False,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,4,dance
+0VzBKgimNRMauaqzT2rEnS,Spice;Shaggy;Sean Paul,Go Down Deh (feat. Shaggy and Sean Paul),Go Down Deh (feat. Shaggy and Sean Paul),74,154666,False,0.817,0.8,2,-4.475,1,0.108,0.12,3.9e-05,0.187,0.534,90.016,4,dance
+0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Days / Nights,The Nights,86,176658,False,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,4,dance
+3zHq9ouUJQFQRf3cm1rRLu,Ellie Goulding,Delirium (Deluxe),"Love Me Like You Do - From ""Fifty Shades Of Grey""",79,252534,False,0.262,0.606,8,-6.646,1,0.0484,0.247,0.0,0.125,0.275,189.857,4,dance
+7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,Illuminate (Deluxe),There's Nothing Holdin' Me Back,86,199440,False,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,4,dance
+6hHKmuoTP4S9Gqf6T8qUFb,David Guetta;Bebe Rexha;Ty Dolla $ign;A Boogie Wit da Hoodie,Autumn Hits,Family,3,158994,False,0.687,0.717,11,-6.61,1,0.0755,0.0744,0.0,0.134,0.685,88.063,4,dance
+0xzI1KAr0Yd9tv8jlIk3sn,benny blanco;BTS;Snoop Dogg,Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),87,172714,False,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,4,dance
+5ktc8d1y2Gd0ug5OpNm6Ia,David Guetta;Bebe Rexha,I'm Blue - Hits of 2022,I'm Good (Blue),13,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+1Hpe0TFPOMCqxBAFqenaJ6,David Guetta;Bebe Rexha,New Pop Classics,I'm Good (Blue),2,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+7vv8wSGmc8Qm8o1qrgTEq1,David Guetta;Becky Hill;Ella Henderson,New Arrivals,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+7oS2EnBWSHxzR2m6CxNJYA,David Guetta;Becky Hill;Ella Henderson,All Bops,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+0kdIImE10HocARiLPkJmQ1,David Guetta;Becky Hill;Ella Henderson,Hit After Hit,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+4F9mATfUA9J8t7oQ9COCcQ,David Guetta;Bebe Rexha,Upbeat Pop,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+3hTS0dFgLus7rechtNe8pP,David Guetta;Bebe Rexha,From The Ashes - New Beats,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+0uzruYGkFgeSevF5kaWq7Y,David Guetta;Becky Hill;Ella Henderson,Daily Pop Mix,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+6arE1lr4B2jsrWP1GBIkYH,David Guetta;MistaJam;John Newman,Upbeat 20's,If You Really Love Me (How Will I Know),1,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+44KQ5sErX0T8pQEjqylVEL,David Guetta;Becky Hill;Ella Henderson,Pop Hits Now,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+4POYhha0J5c7XOTuR9OHFK,David Guetta;CeCe Rogers,EDM Hits,Freedom,0,235160,False,0.456,0.802,7,-7.173,1,0.096,0.00266,0.374,0.122,0.0616,116.222,4,dance
+5zhGrRhCaPF4LiSq5uv7nd,David Guetta;MistaJam;John Newman,Back to School!,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+5ISBiJcO6lfpOLqE1zzGVC,David Guetta,Beautiful Trending Hits 2022,Family Affair (Dance for Me),4,158391,False,0.869,0.726,11,-5.654,0,0.0459,0.0784,0.0,0.107,0.343,124.023,4,dance
+5UsPHCjVvPx2GHtpmIebvu,David Guetta;Avicii,EDM Hits,Sunshine,0,360960,False,0.59,0.8,1,-5.044,0,0.0441,0.000653,0.905,0.0512,0.21,127.996,4,dance
+6EeWU1liZ7kwfWUT9gzOoL,David Guetta;MistaJam;John Newman,La Fine dell'Estate,If You Really Love Me (How Will I Know),3,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+6gQJAUHKEVpnSGtfcwZ5Pe,David Guetta;Sam Martin,10's Dance Classics,Dangerous,0,203641,False,0.53,0.747,4,-4.838,0,0.0694,0.417,1.04e-05,0.107,0.434,91.943,4,dance
+3GXfmj8VI55reLE5aLl1sK,David Guetta;MistaJam;John Newman,Feeling Good,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+5so1wKv1JCcpllBGxrOjjL,David Guetta;Sam Martin,EDM Hits,Dangerous - David Guetta Banging Remix,0,367786,False,0.698,0.931,11,-4.32,0,0.0595,0.0237,0.852,0.0767,0.0825,128.004,4,dance
+1bBIW9ldf7Ehk0oLeNeTj7,David Guetta;Chris Willis;Fergie;LMFAO,EDM Hits,Gettin' over You - Aviccii's Vocal Mix at Night,0,377013,False,0.624,0.81,1,-8.307,1,0.039,0.00269,0.0186,0.169,0.271,127.989,4,dance
+4HBZA5flZLE435QTztThqH,Ariana Grande;Justin Bieber,Stuck with U,Stuck with U (with Justin Bieber),83,228482,False,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3,dance
+493QaNbrvbEiQdPH9hDP6z,AMARIA BB,Slow Motion,Slow Motion,71,166000,True,0.733,0.479,11,-9.27,0,0.301,0.575,0.00053,0.0831,0.485,88.742,4,dance
+3Vi5XqYrmQgOYBajMWSvCi,Doja Cat,Planet Her,Need to Know,84,210560,True,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,4,dance
+4hyVrAsoKKjxAvQjPRt0ai,JONY,Список твоих мыслей,Love Your Voice,71,150329,False,0.608,0.83,9,-5.396,0,0.0956,0.597,3.4e-06,0.118,0.211,91.088,4,dance
+2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,Angel Baby,82,220779,False,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,0.338,72.498,4,dance
+2JzZzZUQj3Qff7wapcbKjc,Wiz Khalifa;Charlie Puth,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),82,229525,False,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,4,dance
+2dpaYNEQHiRxtZbfNsse99,Marshmello;Bastille,Happier,Happier,83,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,dance
+0Cy7wt6IlRfBPHXXjmZbcP,Ellie Goulding,Fifty Shades Freed (Original Motion Picture Soundtrack),Love Me Like You Do,79,253520,False,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,4,dance
+3B4etxytImrRKQgV3XHjnR,Katy Perry,Smile,Harleys In Hawaii,78,185480,False,0.721,0.751,10,-6.203,0,0.125,0.162,6.59e-06,0.118,0.738,140.095,4,dance
+6RUKPb4LETWmmr3iAEQktW,The Chainsmokers;Coldplay,Memories...Do Not Open,Something Just Like This,85,247160,False,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4,dance
+3QGsuHI8jO1Rx4JWLUh9jd,Shawn Mendes,Illuminate,Treat You Better,84,187973,False,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,4,dance
+6IVJu4WfDBGvzTnutmc9Py,Bruno Mars;Anderson .Paak;Silk Sonic,Slow Down Soul,Love's Train,5,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+7L3fJyDWjGnLnfw2errcOV,Bruno Mars;Anderson .Paak;Silk Sonic,Good Vibes,Skate,6,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+4xCM9zy2m4MfsC8EP00rBz,Bruno Mars;Anderson .Paak;Silk Sonic,Hip Hop & R'n'B,Smokin out the Window,0,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,dance
+285HeuLxsngjFn4GGegGNm,David Guetta;Afrojack;Bebe Rexha;Nicki Minaj,Listen,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",75,192560,False,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979,4,dance
+4wvrMJx6Y1Vc5ZZ2KR518W,Bruno Mars;Anderson .Paak;Silk Sonic,New RnB,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+3nyfXFUqmQB3yflF2sy9qH,Bruno Mars;Anderson .Paak;Silk Sonic,Hot Mix Pop,Skate,4,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,Speak Your Mind (Deluxe),2002,82,186986,False,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,4,dance
+5da9b5VNMVtlcODdACt6Tc,Bruno Mars;Anderson .Paak;Silk Sonic,Autumn Hits,Love's Train,1,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+04Rwlix3S6i0JeprqsC8Cx,Bruno Mars;Anderson .Paak;Silk Sonic,20's R'n'B,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+6v3KW9xbzN5yKLt9YKDYA2,Shawn Mendes;Camila Cabello,Shawn Mendes (Deluxe),Señorita,80,190799,False,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,4,dance
+5xhs3I7Rnbli2emfWl2O5L,Dua Lipa;DaBaby,All Bops,Levitating,1,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,dance
+1COGvQEAtPxisowBQjZyZ1,Bruno Mars,Music for Rainy Days,It Will Rain,0,257720,False,0.572,0.835,2,-6.826,1,0.0516,0.337,0.0,0.082,0.468,150.014,4,dance
+3aEJbbODCrHdZh2qY6dRy1,Dua Lipa,"#Multiverse, If the Multiverse Is Real",Levitating,4,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,dance
+6K9UYBSvkOadWYO5nUrfVP,Dua Lipa;DaBaby,Trending Pop,Levitating,0,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,dance
+4NoiBr1mKL7xEGIaD6EKll,Dua Lipa;DaBaby,Happy Commute,Levitating,0,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,dance
+5oLrJ9cTOkFWy9KMBUVfUW,David Guetta;Bebe Rexha;Ty Dolla $ign;A Boogie Wit da Hoodie,Trending Pop,Family,0,158994,False,0.687,0.717,11,-6.61,1,0.0755,0.0744,0.0,0.134,0.685,88.063,4,dance
+7vAPNx92EUeQoTaGhjGTpQ,Dua Lipa;Saweetie,2Step - Pop R'n'B,IDGAF,4,238940,True,0.847,0.59,7,-6.301,1,0.133,0.059,0.0,0.0822,0.595,97.014,4,dance
+3QBOSFnhe6GrJKAOrm9Hij,David Guetta;Becky Hill;Ella Henderson,Cardio Tracks,Crazy What Love Can Do,2,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+3eCnsTxwGCSiADS26T5ES7,Bruno Mars,Running Songs,Treasure - Cash Cash Radio Mix,2,208278,False,0.664,0.944,5,-2.027,0,0.0995,0.101,0.0,0.766,0.745,121.936,4,dance
+4y85iyRxpimSDOOU4ht1Rw,Dua Lipa,Baddest of Them All,Levitating,0,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,dance
+7uSSIUaQ14Vf7KQGDQ38gR,David Guetta,Hits Hits Hits,Family Affair (Dance for Me),3,158391,False,0.869,0.726,11,-5.654,0,0.0459,0.0784,0.0,0.107,0.343,124.023,4,dance
+0kdIImE10HocARiLPkJmQ1,David Guetta;Becky Hill;Ella Henderson,Hit After Hit,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+5AhQvKYthnzVx3d0EGyc0c,Dua Lipa,Session Acoustique,New Rules - Acoustic,4,213436,False,0.825,0.345,9,-6.018,0,0.0372,0.601,0.0,0.121,0.506,116.072,4,dance
+2pkszGajFAOt6vJQGwRFOi,David Guetta;Bebe Rexha,Baddest of Them All,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,dance
+0uzruYGkFgeSevF5kaWq7Y,David Guetta;Becky Hill;Ella Henderson,Daily Pop Mix,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+0LdrgIn0po8wRxpv2USlys,David Guetta;Bebe Rexha;J Balvin,Dance Dance Dance,Say My Name,0,198946,False,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.033,4,dance
+2dfFBUgCvGzjwzVAFh3cKi,David Guetta;Becky Hill;Ella Henderson,"#Multiverse, If the Multiverse Is Real",Crazy What Love Can Do,1,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+5AapsFftm3jjb3e2eMLG1E,Dua Lipa,New Pop Icons,Physical,0,193829,False,0.647,0.844,0,-3.756,1,0.0457,0.0137,0.000658,0.102,0.746,146.967,4,dance
+7GaradaPdkWPyL6h0NgaLA,Dua Lipa;Paraone,Mellow Electronic Pop,New Love - Paraone Remix,0,268216,False,0.754,0.449,8,-8.79,1,0.0488,0.0407,0.000642,0.0963,0.334,90.405,4,dance
+5KFmTSVzYmvpRPUxdqB9NS,David Guetta;Becky Hill;Ella Henderson,Upbeat Pop,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+1LwvwPLqODXkdiInwHvKxG,David Guetta;MistaJam;John Newman,Running Songs,If You Really Love Me (How Will I Know),2,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+1fkKTSAmrguXmlZ1we0BQp,David Guetta;Becky Hill;Ella Henderson,Baddest of Them All,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+2QeHiDlvMnHdL5GkydryQC,David Guetta;Becky Hill;Ella Henderson,Brandneu Dance,Crazy What Love Can Do,1,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+5a08oj0c2yj1JxlY1Zmhdh,David Guetta,Brandneu Dance,Family Affair (Dance for Me),0,158391,False,0.869,0.726,11,-5.654,0,0.0459,0.0784,0.0,0.107,0.343,124.023,4,dance
+3stdy0xXNOgwFAB94FzVSj,Doja Cat,New Pop Icons,Boss Bitch,0,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.203,0.575,125.993,4,dance
+0HASWb4DviDDAUGDSl0lsb,Dua Lipa;Erika de Casier,EDM Hits,Physical - Erika de Casier Remix,0,188562,False,0.603,0.854,9,-3.646,0,0.0377,0.00667,0.00188,0.113,0.666,147.039,4,dance
+4b98LXC0QUWGBteJ5uwVQY,Doja Cat,Summer Music Festival Hits,Boss Bitch,0,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.203,0.575,125.993,4,dance
+6KlbKM85NIUo5ZaToCAFFc,David Guetta;MistaJam;John Newman,Today's Party Hits,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,dance
+1bBIW9ldf7Ehk0oLeNeTj7,David Guetta;Chris Willis;Fergie;LMFAO,EDM Hits,Gettin' over You - Aviccii's Vocal Mix at Night,0,377013,False,0.624,0.81,1,-8.307,1,0.039,0.00269,0.0186,0.169,0.271,127.989,4,dance
+0k4d5YPDr1r7FX77VdqWez,Doja Cat;The Weeknd,Planet Her,You Right,84,186173,True,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,4,dance
+71mHO4fFmS2Xu5XxZbcRND,Chris Brown,Under The Influence,Under The Influence (Body Language),77,148750,True,0.62,0.62,1,-6.322,0,0.0375,0.0388,0.000213,0.129,0.459,144.835,4,dance
+161DnLWsx1i3u1JT05lzqU,Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,82,217866,False,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,0.0784,145.867,4,dance
+6lanRgr6wXibZr8KgzXxBl,Christina Perri,A Thousand Years,A Thousand Years,81,285120,False,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,3,dance
+5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Without Me,78,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,dance
+6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Manic,Without Me,79,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,dance
+3C0nOe05EIt1390bVABLyN,Jennifer Lopez;Pitbull,Love?,On The Floor,79,284866,False,0.73,0.777,3,-5.194,0,0.0496,0.105,0.000478,0.0691,0.575,130.0,4,dance
+4w8niZpiMy6qz1mntFA5uM,DJ Snake;Selena Gomez;Ozuna;Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",76,212500,True,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,4,dance
+6VrLYoQKdhu1Jruei06t65,The Vamps,Meet The Vamps,Somebody To You,77,185097,False,0.526,0.818,3,-5.952,1,0.0358,0.0587,0.0,0.333,0.896,171.96,4,dance
+3g0mEQx3NTanacLseoP0Gw,The Chainsmokers;ILLENIUM;Lennon Stella,World War Joy,Takeaway,75,209880,False,0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1,4,dance
+6IVJu4WfDBGvzTnutmc9Py,Bruno Mars;Anderson .Paak;Silk Sonic,Slow Down Soul,Love's Train,5,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+4xCM9zy2m4MfsC8EP00rBz,Bruno Mars;Anderson .Paak;Silk Sonic,Hip Hop & R'n'B,Smokin out the Window,0,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,dance
+5BUncTD8W5aUBF67ni1pKU,Bruno Mars;Anderson .Paak;Silk Sonic,On Chill - Rap & RnB,Smokin out the Window,0,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,dance
+1i1fxkWeaMmKEB4T7zqbzK,The Chainsmokers;Daya,Don't Let Me Down,Don't Let Me Down,80,208373,False,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,4,dance
+0CdKhIzLFUeKSZimBwuVF4,Sam Smith;ノーマニ,TOKYO - HALLOWEEN -,ダンシング・ウィズ・ア・ストレンジャー,0,171029,False,0.741,0.52,8,-7.513,1,0.0656,0.447,1.97e-06,0.222,0.347,102.998,4,dance
+5oWzL5dpPsJxjK5KWIJLlb,Bruno Mars;Anderson .Paak;Silk Sonic,Today's Party Hits,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+1Fym4wXCqQDGSOdBPqKv9c,Bruno Mars;Anderson .Paak;Silk Sonic,On Chill - Rap & RnB,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+4wvrMJx6Y1Vc5ZZ2KR518W,Bruno Mars;Anderson .Paak;Silk Sonic,New RnB,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+15VdA9VVerdeKpEJjRfJT4,Bruno Mars;Anderson .Paak;Silk Sonic,The Look - R&B Feels,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+7mDdR7ynAJuMdkr49AlF1W,Bruno Mars;Anderson .Paak;Silk Sonic,Trending Pop,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+3TcL0dyCMyr0kyTTc4NLgI,Selena Gomez & The Scene,When The Sun Goes Down,Who Says,77,195613,False,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,4,dance
+5Fy7SqKg2CxJosXcHLFiZR,Bruno Mars;Anderson .Paak;Silk Sonic,Mellow Adult Pop,Leave the Door Open,1,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+77eT8QCTlZg8Mje7P9U0NH,Bruno Mars;Anderson .Paak;Silk Sonic,Good Vibes,Smokin out the Window,2,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,dance
+7D7okiV0tkwGjOYUlKlOlf,Bruno Mars;Anderson .Paak;Silk Sonic,Midnight Music,Leave the Door Open,1,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+37ssERQrizS7e8zQEX0tfC,Bruno Mars;Anderson .Paak;Silk Sonic,Hits Hits Hits,Skate,2,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+1jAVN7pbj6QvSxxxZzb8NT,Bruno Mars;Anderson .Paak;Silk Sonic,20s Love Songs,Leave the Door Open,2,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+4WkPkgFRxRR7RCnBMehalO,Bruno Mars;Anderson .Paak;Silk Sonic,Autumn Hits,Leave the Door Open,2,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+4gVEvqKXRFe2WarhQxMzjP,Sam Smith,LUGNA LÅTAR,Love Me More,3,190658,False,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004,4,dance
+4QtiVmuA88tPQiCOHZuQ5b,Sofía Reyes;Jason Derulo;De La Ghetto,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",79,201526,False,0.792,0.895,1,-3.112,0,0.0589,0.165,0.0,0.0501,0.794,94.968,4,dance
+2IuRiIKFRFluDMJfzgzJ68,Bruno Mars;Anderson .Paak;Silk Sonic,US Pop 20s,Love's Train,1,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+3tj1y5eQNFMcXnkH0AcXTm,Sam Smith,pov: it's 2020,Diamonds,3,213869,False,0.653,0.667,10,-6.764,0,0.0423,0.154,0.0,0.107,0.556,104.181,4,dance
+6fhREmtQ6u923XlvcnaNkD,Bruno Mars;Anderson .Paak;Silk Sonic,20s Love Songs,Love's Train,4,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+2lbDzgkMN0Q1c6nnmRY2bn,Bruno Mars;Anderson .Paak;Silk Sonic,New Pop Classics,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+7zT8FxjvIjRlQoRbR7Wtec,Bruno Mars;Anderson .Paak;Silk Sonic,Give You Love - Cozy Hits,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+1kSjuuFakqNTQK63pzDTin,Bruno Mars;PARTYNEXTDOOR,Happy Commute,That's What I Like - PARTYNEXTDOOR Remix,0,206696,False,0.741,0.695,1,-5.341,1,0.0454,0.021,0.0,0.0922,0.861,134.032,4,dance
+0uIYFHlplgxgrJDD7XgMt4,Bruno Mars;Anderson .Paak;Silk Sonic,Upbeat 20's,Skate,4,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+4eoMx75WWJVa0Q6lO3Q0zS,Bruno Mars;PARTYNEXTDOOR,Pop Station,That's What I Like - PARTYNEXTDOOR Remix,0,206696,False,0.741,0.695,1,-5.341,1,0.0454,0.021,0.0,0.0922,0.861,134.032,4,dance
+4ep7HlnNsqtlqejzzyXt27,Bruno Mars;Anderson .Paak;Silk Sonic,I'm Blue - Hits of 2022,Skate,1,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+1PGGQx8BSuyd0fdPK3z05l,Bruno Mars,Slow Down Soul,Moonshine,4,228573,False,0.706,0.782,2,-4.353,1,0.0278,0.21,4.86e-06,0.0813,0.418,104.983,4,dance
+04Rwlix3S6i0JeprqsC8Cx,Bruno Mars;Anderson .Paak;Silk Sonic,20's R'n'B,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+0zhGFpuiYroEopRgqD04F5,Sam Smith,TickTok Back To School 2022,I'm Not The Only One,1,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,dance
+7HVBhTFyZSj1OJYOqd8Wdi,Bruno Mars;Anderson .Paak;Silk Sonic,New Grooves,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,dance
+2SqxDWhszEKu61yiok4pf6,Sam Smith,Dinner with the Fam,I'm Not The Only One,1,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,dance
+0DMgXXS27oK9z8clKWU0Ok,Sam Smith,Best Road Trip Pop Tunes,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,dance
+7izpOP3sww7TkqfjmEI1GM,Sam Smith,Die For You,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,dance
+4XYeqPS3f221BsY4rdrS9R,Sam Smith,Autumn Vibes 2022,I'm Not The Only One,0,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,dance
+39eL80vvxZ36RXKfOZgrPb,Sam Smith,Best Road Trip Pop Tunes,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,dance
+1COGvQEAtPxisowBQjZyZ1,Bruno Mars,Music for Rainy Days,It Will Rain,0,257720,False,0.572,0.835,2,-6.826,1,0.0516,0.337,0.0,0.082,0.468,150.014,4,dance
+2bpZXHIBksZowrsrEExapt,Sam Smith,Autumn Vibes 2022,Like I Can,0,166346,False,0.628,0.683,7,-5.565,0,0.0467,0.246,0.0,0.176,0.462,99.8,4,dance
+3bRDwPweJL0BAvh4EfpG9u,Bruno Mars;Sultan;Shepard,10's Dance Classics,Locked Out of Heaven - Sultan and Ned Shepard Remix,0,410859,False,0.588,0.844,2,-5.25,0,0.0484,0.00481,0.0473,0.356,0.22,128.02,4,dance
+1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,83,201000,False,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,4,dance
+3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch (Instrumental),Light Switch,77,187703,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+55n9yjI6qqXh5F2mYvUc2y,ZAYN;Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I Don’t Wanna Live Forever (Fifty Shades Darker),80,247160,False,0.731,0.445,0,-8.418,1,0.0533,0.0586,1.96e-05,0.14,0.106,117.97,4,dance
+6Im9k8u9iIzKMrmV7BWtlF,Ariana Grande,Positions,34+35,81,173710,True,0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,4,dance
+4qu63nuBpdn0qHUHuObEj1,Marshmello;Jonas Brothers,Leave Before You Love Me,Leave Before You Love Me (with Jonas Brothers),85,154983,False,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,4,dance
+78qd8dvwea0Gosb6Fe6j3k,Doja Cat,Boss Bitch,Boss Bitch,79,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.202,0.575,125.989,4,dance
+44ONERBHALxftQNWq6dmyd,Ariana Grande;Nicki Minaj,Dangerous Woman,Side To Side,76,226160,True,0.65,0.736,6,-5.84,0,0.229,0.0513,0.0,0.235,0.612,159.174,4,dance
+0z8hI3OPS8ADPWtoCjjLl6,Shawn Mendes;Tainy,Summer Of Love,Summer of Love (Shawn Mendes & Tainy),82,184104,False,0.776,0.808,11,-4.501,1,0.117,0.0297,0.000127,0.103,0.494,123.988,4,dance
+0nrRP2bk19rLc0orkWPQk2,Avicii,True,Wake Me Up,85,247426,False,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4,dance
+1rfofaqEpACxVEHIZBJe6W,Camila Cabello;Young Thug,Camila,Havana (feat. Young Thug),80,217306,False,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,4,dance
+3zkWCteF82vJwv0hRLba76,Shawn Mendes,Handwritten,Stitches,80,206880,False,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,4,dance
+7a53HqqArd4b9NF4XAmlbI,Ava Max,Heaven & Hell,Kings & Queens,81,162398,False,0.637,0.69,1,-4.057,0,0.0405,0.00786,0.0,0.124,0.457,129.857,4,dance
+737gzPI5VAmgUGWiJ9yXuu,Sofía Reyes;Jason Derulo;De La Ghetto,Mal De Amores,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",73,201526,False,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,0.793,94.968,4,dance
+3uiriIk8ojv5wQqDCjdOUH,Charlie Puth;HUGEL,House Anthems,Attention - HUGEL Remix,3,276610,False,0.835,0.703,3,-3.221,0,0.0548,0.0177,0.00338,0.0914,0.879,118.007,4,dance
+5LHnaiB8E3x95ZbYFmOUfk,Lady Gaga,OO's Music Grandi Successi,Paparazzi,4,208173,False,0.761,0.734,5,-2.871,0,0.0428,0.129,0.0,0.086,0.375,114.907,4,dance
+24tNhacN8vdN8OqkR7LcNm,Lady Gaga,Workout Hits 2023,Poker Face,3,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+0BigX1D39KhZC0SmBWawM8,Lady Gaga,OO's Music Grandi Successi,Poker Face,3,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+4sHEJfV6OepfvImOFoxAC8,Lady Gaga,Happy Haunted Halloween Tunes,Monster,3,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+1MNnfeAXbz0TO7wt61mKIX,Lady Gaga,Karneval Klassiker,Poker Face,2,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+2f7ifWKZAqCp6UC9T6UfdM,Lady Gaga,Spooky Scary Season,Monster,2,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+24XFlHs0ZBM65KzvSsw4IF,Lady Gaga,Karneval 2022 100%,Poker Face,1,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+6dWxyTewMjC84vhto1881v,Lady Gaga,Best Of Karneval,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+5e2rnA4C0clXP7FoNmhmDi,Lady Gaga,Pop & Halloween,Monster,1,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+3M9OqhV8v0k83RAQihjJwi,Lady Gaga,TOKYO - HALLOWEEN -,ブラッディー・マリー,0,244760,False,0.584,0.638,9,-6.437,0,0.0302,0.0134,3.06e-06,0.101,0.456,99.97,4,dance
+1LopXP0KP6Cu4SlRYcwPU7,Lady Gaga,Del gusto de mamá,"Eh, Eh (Nothing Else I Can Say)",2,176240,False,0.805,0.877,1,-3.645,0,0.0376,0.25,0.000157,0.0649,0.844,93.963,4,dance
+74bJTLtm1ptUleegAx2CBG,Lady Gaga,Halloween Party 2022,Monster,2,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+4Vclf2L3pVnm75lYsq97VH,Lady Gaga,Halloween 2022,Dance In The Dark,0,288960,True,0.639,0.751,0,-6.358,0,0.0324,2.97e-05,4.96e-05,0.163,0.14,120.992,4,dance
+0ZcATDHTa1c128KqmVUk2j,Lady Gaga,Workout Hits 2023,The Edge Of Glory,3,320626,False,0.583,0.766,9,-6.47,1,0.0408,0.000348,0.0125,0.108,0.395,127.95,4,dance
+7b0z457p1ONEEAuWRws0vS,Lady Gaga,Halloween 2022,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+3VBXcradZOCVLaAh7FIcSi,Lady Gaga;Colby O'Donis,Halloween Party Canzoni per Bambini 2022,Just Dance,0,244055,False,0.813,0.74,1,-4.668,0,0.0327,0.0318,1.43e-05,0.166,0.699,118.976,4,dance
+6eAqQwedSE2wsOm8K08BHv,Lady Gaga,Concierto en la ducha,The Cure,0,211363,False,0.696,0.506,8,-4.863,1,0.0325,0.0799,0.0,0.0893,0.516,100.003,4,dance
+5Cky3IlmZSiKU9wZWMRpjk,Lady Gaga;Colby O'Donis,De ese gran pop de los 00's,Just Dance,0,244055,False,0.813,0.74,1,-4.668,0,0.0327,0.0318,1.43e-05,0.166,0.699,118.976,4,dance
+3cW73vgUDDnN34hBj0cs8i,Lady Gaga,Twisted Halloween Hits,Monster,0,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+4FFtbSBa31aw38ld7zW73Z,Lady Gaga,Halloween Party 2022,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+53vOfxIeZu39LfiCM0Fnm4,Lady Gaga,Pumpkin Patch Hits,Monster,0,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+69C7u1nZcyZmuZXNNF5U9C,Lady Gaga,Beginner Ride (Mixtape Vol. 1),Born This Way,0,260413,False,0.586,0.835,11,-5.117,1,0.146,0.00387,0.0,0.304,0.492,123.936,4,dance
+3eiyVLzApYhOhO90xE1xG4,Lady Gaga,Halloween Party 2022,Born This Way,1,260413,False,0.586,0.835,11,-5.117,1,0.146,0.00387,0.0,0.304,0.492,123.936,4,dance
+4yu1RiBHMtza6kPaZSKSYo,Lady Gaga,Almorzando solo,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+204PLz9hMiXFIJu0wWZr79,Lady Gaga,Beginner Ride (Sweat & Burn),Born This Way,2,260413,False,0.586,0.835,11,-5.117,1,0.146,0.00387,0.0,0.304,0.492,123.936,4,dance
+5Qyu0SLOpSyn4yKercAsUc,Lady Gaga,pov: it's 2020,Stupid Love,0,193533,False,0.68,0.825,8,-4.296,1,0.0702,0.00173,0.000122,0.27,0.784,117.987,4,dance
+7oBxxv6C5ttINeFHzOVwS4,Lady Gaga,Halloween 2022,Bad Romance,0,294573,True,0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,4,dance
+4fRUwxL1tLYQViPssf6eYp,Lady Gaga,De ese gran pop de los 00's,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+4zCgJHtmM7QVRfS3Q0dNSi,Lady Gaga,Halloween 2022,Monster,0,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+1ncPxe9s9jkoe1HcshDitx,Lady Gaga,Halloween Kids Party 2022,Bad Romance,0,294506,False,0.693,0.924,0,-3.706,1,0.0392,0.0034,4.77e-05,0.0897,0.714,118.984,4,dance
+368e9ONaoEX3imOKHDZo9X,Lady Gaga,Halloween Scary Party,Bad Romance,0,294506,False,0.693,0.924,0,-3.706,1,0.0392,0.0034,4.77e-05,0.0897,0.714,118.984,4,dance
+5YiYJnzsbiAAwIJoYCsa03,Lady Gaga,Halloween Party Canzoni per Bambini 2022,Bad Romance,0,294506,False,0.693,0.924,0,-3.706,1,0.0392,0.0034,4.77e-05,0.0897,0.714,118.984,4,dance
+3YL8jLIarQdM1y2oRClov9,Lady Gaga,Concierto en la ducha,Million Reasons,0,205280,False,0.666,0.423,0,-8.012,1,0.0429,0.494,0.0,0.106,0.154,129.893,4,dance
+0vZV7k809q5fMDWx2lmBIi,Lady Gaga,Halloween Kids Party 2022,Monster,0,249253,False,0.7,0.808,9,-4.522,0,0.0446,0.00141,0.0,0.611,0.664,120.032,4,dance
+0RqQLF5N7q1dVW9hb0Dezb,Lady Gaga,Halloween Scary Party,Monster,0,249253,False,0.7,0.808,9,-4.522,0,0.0446,0.00141,0.0,0.611,0.664,120.032,4,dance
+46ugZbObVl2OZ57v7F6btQ,Lady Gaga,Halloween Party Canzoni per Bambini 2022,Monster,0,249253,False,0.7,0.808,9,-4.522,0,0.0446,0.00141,0.0,0.611,0.664,120.032,4,dance
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Vegas (From the Original Motion Picture Soundtrack ELVIS),90,182906,True,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,4,dance
+0zzVTGyRrWpQu8Fr28NRAv,Marshmello;Demi Lovato,OK Not To Be OK,OK Not To Be OK,75,159862,False,0.743,0.837,1,-5.025,0,0.0649,0.0172,0.0,0.0743,0.263,103.072,4,dance
+5Odq8ohlgIbQKMZivbWkEo,Charlie Puth;Jung Kook;BTS,CHARLIE,Left and Right (Feat. Jung Kook of BTS),75,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+3f0gyUU5fJXfz3DSGXZzYk,Charlie Puth;Jung Kook,Daily Pop Mix,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+3IPpVTudk50Hj4VThfdzBP,Sia,Merry Christmas,Snowman,3,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+2P9jvF2MSSS1E75aGu91M0,Charlie Puth;Jung Kook,All Bops,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+0GDAt9fPbs9tPqg2n4ne5u,Charlie Puth;Jung Kook,New Arrivals,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+7m74vqvag5u4ZuVrFOWx69,Charlie Puth;Jung Kook,Beautiful Trending Hits 2022,Left and Right,1,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+4PyO3Wk49zC4HUphstVama,Charlie Puth,Feeling Good,Light Switch,0,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+40z4EMfyGwTp5Tk48mu7Os,Charlie Puth,Music for Rainy Days,One Call Away,0,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance
+01wBDjAFsN9GWhsX4wTZAM,Charlie Puth,Midnight Music,One Call Away,4,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance
+5gwBjRbZSNUk4TJirNvGfG,Lady Gaga,Pop & Halloween,Judas,10,249066,False,0.661,0.937,10,-3.83,0,0.0744,0.000967,1.58e-05,0.355,0.535,130.999,4,dance
+5kihSsgmpiecsJjjKI80QR,Katy Perry,Workout Hits 2023,I Kissed A Girl,3,209866,False,0.824,0.682,9,-4.624,0,0.145,0.00126,0.204,0.0503,0.39,130.026,4,dance
+2HJvS1fhaJbPxI9gT0mPjb,Lady Gaga,Pop & Halloween,Bloody Mary,11,244760,False,0.584,0.638,9,-6.437,0,0.0302,0.0134,3.06e-06,0.101,0.456,99.97,4,dance
+06frz7np2mUzt0wUTBERYP,Katy Perry,Rock Christmas 2022 - The Very Best Of,Cozy Little Christmas,1,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+15dtPbnxYgml88NcftK3VB,Katy Perry,Christmas 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+2XFP3oLdYxU7Bd6MEcNsK3,Katy Perry,Christmas Songs 2022,Cozy Little Christmas,1,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+2Mugx1GjnOuyzbp0sYE4yr,Katy Perry,Jingle Bell Rock 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+3Nptm4N4EQynJ0iVO2jdPE,Katy Perry,Christmas Dinner 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+2lDw5em1PYtYo5XdkxUGwF,Lady Gaga,Helloween Party,Monster,2,249280,True,0.695,0.801,9,-4.503,0,0.0441,0.00124,0.0,0.479,0.646,119.973,4,dance
+1EDWLJOjihSAnYfCn4Z6d0,Katy Perry,World's Best Christmas Playlist,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+5xKcFztsY2wre2TMXxa8s8,Katy Perry,Halloween 2022,E.T.,0,206373,False,0.603,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.731,150.054,4,dance
+1W0l0FiKhKlu0ACLiyKhg2,Katy Perry,Weihnachten Musik,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+4CqnZVnY48DT8Xwv3F3mco,Katy Perry,Del gusto de mamá,Firework,1,227973,False,0.637,0.867,8,-3.686,1,0.05,0.143,0.0,0.11,0.652,124.069,4,dance
+78maDrETpzW1grR0Z3vJjN,Katy Perry,JULMYS,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+0BkWoJ1DbYrruv8srcPkmp,Lady Gaga,Halloween Hits,Teeth,3,220693,False,0.713,0.833,11,-5.198,1,0.0483,0.0295,0.0,0.0868,0.552,96.012,4,dance
+3MH8oKC86VVnTaD62WybeV,Katy Perry,JULPYNTA,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+3kxjFpTR85S7ktQMluiRSD,Katy Perry,Almorzando solo,Last Friday Night (T.G.I.F.),0,230720,False,0.65,0.817,3,-3.826,0,0.0441,0.00124,1.14e-05,0.658,0.728,126.024,4,dance
+579dIpR9Lf0qDkTczEjOvd,Katy Perry,Holidays Are Coming,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+4XKMwPSJtsiXOWOvjqWJ5V,Katy Perry;Juicy J,Halloween 2022,Dark Horse,0,215672,False,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934,4,dance
+1wKpY85MrL7BpoGuZIRKUa,Katy Perry,pov: it's 2021,Electric - Pokemon 25 Version,1,193543,False,0.615,0.701,0,-4.257,1,0.0472,0.00302,0.0,0.0471,0.251,98.073,4,dance
+1xVlxSmwdRTCwqSJeMPSm7,Katy Perry,CHRISTMAS TOP HITS 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+3LMlRBwB7dgB4EyA41uwGK,Katy Perry,Pop Christmas 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+0XPTpNh2b6iK5cNwZmMAsX,Katy Perry,Weihnachtspop 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+1pu8zYG4DAMAQhPblADRKO,Katy Perry,pov: you are walking in a winter wonderland,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+08AVok9laWpSSpX42guJ2K,Katy Perry,Silent Night,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+6lIeR7HQxo49ZpZ0LYtm3n,Katy Perry,Pop Fun and Christmas Music 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+6SXhWBnbPTfUrDchx4wBGI,Katy Perry,Beste Weihnachtslieder,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+3gqbRF8qLcL1A5DdgU76yP,Katy Perry,Christmas Faves 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+6ppmPEn5u1mOL580oZX2Vh,Katy Perry,The Very Best Christmas Songs 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+2tQpDh9AC2IhLDwjWxqAWA,Katy Perry,Santa Claus Is Coming To Town,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+0BVslzxSY5Z78WboakxrB1,Katy Perry;Skip Marley,Concierto en la ducha,Chained To The Rhythm,0,237733,False,0.562,0.8,0,-5.404,1,0.112,0.0814,0.0,0.199,0.471,95.029,4,dance
+0oFqJm4bd8KxIqx8yCWNan,Katy Perry,Weihnachtslieder 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+7ECDeZT1MA08FuRWvnxGaz,Katy Perry,Weihnachten Playlist,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+73a6lQjS5yhvTwSg9iWoJE,Katy Perry,Best Christmas Playlist Ever 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+0NwquXjjT2Rauwi8th8I3U,Lady Gaga,Helloween Party,Teeth,1,220693,False,0.713,0.833,11,-5.198,1,0.0483,0.0295,0.0,0.0868,0.552,96.012,4,dance
+1uLXPm92NcvIUOVZLaDVvn,Katy Perry,"It's Christmas, Let's Dance",Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+4FFtbSBa31aw38ld7zW73Z,Lady Gaga,Halloween Party 2022,Poker Face,0,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+3cjyW2ZlXMf5ZQvGo5dKUO,Lady Gaga,Halloween Party 2022,Bad Romance,0,294573,True,0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,4,dance
+0pA5tP2FKEcvEJrPkAJ9ST,Lady Gaga,Halloween Party 2022,Monster,0,249253,False,0.7,0.808,9,-4.522,0,0.0446,0.00141,0.0,0.611,0.664,120.032,4,dance
+0VpEX8ib3wE7u8NOw4szU6,PRETTYMUCH,Phases - EP,Eyes Off You,71,204266,False,0.631,0.512,0,-9.675,0,0.0572,0.511,0.0,0.0827,0.529,106.027,4,dance
+10xV5l9nhLvFpR8mqzs0bL,Marshmello;Khalid,Numb,Numb,87,155588,False,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,4,dance
+3eR23VReFzcdmS7TYCrhCe,Kygo;Selena Gomez,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),77,220780,False,0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,4,dance
+0ClPIeT6MSgfSgQ9ZrJbAq,Charlie Puth,Cheating on You,Cheating on You,78,196606,False,0.749,0.535,4,-6.785,1,0.0336,0.0131,3.65e-05,0.0982,0.601,123.042,4,dance
+2oejEp50ZzPuQTQ6v54Evp,The Chainsmokers;Bebe Rexha,World War Joy,Call You Mine,75,217640,False,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,4,dance
+23L5CiUhw2jV1OIMwthR3S,Martin Garrix;Bebe Rexha,In the Name of Love,In the Name of Love,79,195706,False,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,4,dance
+3GTg5ll9EJ7MLkOfxyiwIb,Charlie Puth,Today's Party Hits,Light Switch,0,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+0CGkdIKWvQsgr3zM25jNa8,Charlie Puth,Happy Commute,Light Switch,0,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+7HIMPoxUqzMSk2AjuyvzwE,Charlie Puth;Jung Kook,Pop Hits Now,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+5ln5yQdUywVbf8HhFsOcd6,Halsey,hopeless fountain kingdom (Deluxe),Walls Could Talk,77,101789,True,0.626,0.423,1,-6.035,1,0.0513,0.128,0.0,0.18,0.571,95.162,4,dance
+0dwDNr5clVpBM0R6HCGnqx,Charlie Puth;Jung Kook,Upbeat Pop,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+7DnAm9FOTWE3cUvso43HhI,Ava Max,Heaven & Hell,Sweet but Psycho,81,187436,False,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4,dance
+1EFtJ2XXzkHhpb6tcLyauv,Charlie Puth,US Pop 20s,That's Hilarious,1,146855,True,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039,4,dance
+3IPpVTudk50Hj4VThfdzBP,Sia,Merry Christmas,Snowman,3,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+6BJ98GYC2njuEOqg1y3ss3,Charlie Puth,New Pop Icons,The Way I Am,0,186080,False,0.755,0.77,10,-5.658,0,0.187,0.312,2.34e-06,0.0628,0.642,114.965,4,dance
+1fSfbrzIlBuT1XIjqRe1eM,Marshmello;Jonas Brothers,pov: it's 2021,Leave Before You Love Me,0,154983,False,0.724,0.744,7,-4.757,1,0.0398,0.00219,4.49e-06,0.116,0.645,119.978,4,dance
+6iar9MQ4cUSV3F3coFilLe,Charlie Puth,Upbeat 20's,Light Switch,5,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+4szMwlY7UT7cnQ429Mf8T1,Charlie Puth,New Pop Classics,Smells Like Me,1,204079,False,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,4,dance
+1SyqumtXgpyUkRI9712C37,Charlie Puth;Jung Kook,New Pop Classics,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+2D79R8Viv0SmQk60ug26by,Charlie Puth,20s Love Songs,Light Switch,2,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+5WmRbxncaIRLqLUWv3wlBF,Charlie Puth;Jung Kook,Pop Brandneu,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+5Uh3R4qOKxusChZuDpzMoq,Sia,Cuddle Up Christmas,Snowman,0,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+62HtXdPVSIAy4V87eEmZqi,Charlie Puth,Give You Love - Cozy Hits,Light Switch - Acoustic,1,186295,False,0.748,0.407,6,-6.26,1,0.0656,0.745,0.0,0.163,0.947,91.974,4,dance
+0tHc1BpDEmIyQQq5sla8tk,Sia,Christmas Time,Snowman,0,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+0aVWcvdsuzZch30T2hvD1t,Sia,Christmas Music - Holiday Hits,Snowman,0,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+0YRPrQTB1AjAKmwxL6WzXC,Charlie Puth;Jung Kook,Internet Sensations,Left and Right,2,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+4hmn2bgMPFXmZzu5F8abj5,Charlie Puth;Jung Kook,It's You - Fresh Hits,Left and Right,2,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+0GDAt9fPbs9tPqg2n4ne5u,Charlie Puth;Jung Kook,New Arrivals,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+7neYKRTvBKRI6WbB92rndO,Charlie Puth,Hit After Hit,Light Switch,0,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+30jHDig8XAzlI3FwlC8ZXC,Charlie Puth;Jung Kook,Your Perfect Soundtrack,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+3CnbQN1Meotw8tBlReHg7q,Charlie Puth,Cardio Tracks,Light Switch,0,185680,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+0vJ9PvX4HwwZRQv2V2f9vL,Charlie Puth;Jung Kook,Comme un lundi,Left and Right,1,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+5aalFmrkQ4qQASL77hn5MG,Charlie Puth;Jung Kook,I'm Blue - Hits of 2022,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+6BSeZ5yWAEkfzA31Rk4fHG,Charlie Puth;Jung Kook,La Fine dell'Estate,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+7r3taaQDPfaQBUwzWDP1WB,Charlie Puth;Jung Kook,Feeling Good,Left and Right,0,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+2cDcYOhmL0nsZuLSXq2eUU,Marshmello;Bastille,Arbeitsmusik Herbst/Winter 2022/2023,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+40z4EMfyGwTp5Tk48mu7Os,Charlie Puth,Music for Rainy Days,One Call Away,0,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance
+4TYeIlwlJTgNkPaFxUP0PJ,Marshmello;Bastille,Tutti in piscina Canzoni per bambini,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+0CKEZAdYUJh3w749lTIvz2,Charlie Puth;Selena Gomez;Hazey Eyes,Refresh - Pop To Cool Down,We Don't Talk Anymore - Hazey Eyes Remix,1,198333,False,0.842,0.595,10,-9.505,0,0.165,0.219,0.00618,0.133,0.239,108.045,4,dance
+5cZgalqgsWDGlsTTCxpi1x,Charlie Puth;David Guetta,EDM Hits,Attention - David Guetta Remix,0,192000,False,0.648,0.785,6,-6.096,1,0.0487,0.0339,7.87e-05,0.306,0.24,125.068,4,dance
+6skI78QEln8kN81C1RsE07,Katy Perry,Halloween Hits,E.T.,10,206373,False,0.603,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.731,150.054,4,dance
+7sWTHU6XWOrrsmwcpMCJ3d,Charlie Puth,Relaxing Pop,One Call Away,4,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance
+0nev2Tq1NaEnS7Ry3OYZQh,Katy Perry,Pop & Halloween,Ghost,2,203362,False,0.55,0.624,2,-5.372,1,0.0406,0.0372,0.0,0.123,0.34,125.008,4,dance
+4x8MAGED0DXLdIWCvhoj2t,Katy Perry,Helloween Party,E.T.,8,206373,False,0.603,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.731,150.054,4,dance
+1WrMD6on4zuCXVrYp5o8io,Selena Gomez,Queda poco para la PAES,Bad Liar,0,214647,False,0.965,0.414,1,-6.408,1,0.0712,0.189,0.0,0.0767,0.729,121.032,4,dance
+3BDQVULa43mT3EvE69WQ8Q,Katy Perry,Halloween Party 2022,E.T.,0,206373,False,0.603,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.731,150.054,4,dance
+5ovEfOe05rFS4ly9gi3AIR,Sia;Initial Talk,Dance Dance Dance,Together - Initial Talk Remix,0,198113,False,0.56,0.742,7,-10.547,1,0.0387,0.0549,0.153,0.0948,0.675,105.975,4,dance
+35hGB105mhbtMSjThlsZaz,Katy Perry,All I want For Christmas Is Music,Cozy Little Christmas,0,182520,False,0.775,0.608,7,-6.264,1,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+4Nr1paS5vjmi1ktfX1txi2,Sia;David Guetta,Am I Ready - Pop Night Out,Floating Through Space,2,177800,False,0.575,0.844,6,-4.89,0,0.072,0.00172,0.0,0.114,0.277,104.914,4,dance
+7laKmnKG4kAJnVN0b60a9E,Katy Perry;Juicy J,Halloween Party 2022,Dark Horse,0,215672,False,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934,4,dance
+4v7DCN09hgXkKazefkznDQ,Akon,Trouble Deluxe Edition,Lonely,81,235800,True,0.634,0.526,5,-7.881,0,0.0333,0.339,0.0,0.257,0.623,90.087,4,dance
+7vGuf3Y35N4wmASOKLUVVU,Marshmello;Khalid,Silence,Silence,81,180822,False,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,4,dance
+3uwnnTQcHM1rDqSfA4gQNz,Demi Lovato,Confident,Cool for the Summer,81,214739,True,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,0.336,114.06,4,dance
+3e9HZxeyfWwjeyPAMmWSSQ,Ariana Grande,"thank u, next","thank u, next",82,207320,True,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,4,dance
+1I4lCSP69P74nU3a6Su5L2,Duke & Jones;Louis Theroux,Jiggle Jiggle,Jiggle Jiggle,77,97208,False,0.864,0.412,1,-5.886,1,0.273,0.458,0.00087,0.124,0.654,99.992,4,dance
+6IPNp9PfaEqrzotY47TIWy,DJ Snake;Ozuna;Megan Thee Stallion;LISA,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",77,225600,True,0.8,0.837,6,-2.807,0,0.0491,0.00406,0.00313,0.0904,0.702,100.015,4,dance
+7xoUc6faLbCqZO6fQEYprd,Ariana Grande,My Everything (Deluxe),One Last Time,83,197266,False,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,dance
+2ekn2ttSfGqwhhate0LSR0,Dua Lipa,Dua Lipa (Deluxe),New Rules,81,209320,False,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,dance
+0YammaEkYSeo9vQYZ1OwS6,David Guetta;Bebe Rexha;J Balvin,7,Say My Name,73,198946,False,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.031,4,dance
+0tkxzOtc2gvIueuXNFLyfZ,Bebe Rexha;Pink Sweat$;Lunay,20's R'n'B,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+5knuzwU65gJK7IF5yJsuaW,Clean Bandit;Sean Paul;Anne-Marie,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye (feat. Sean Paul & Anne-Marie),75,251088,False,0.72,0.763,9,-4.068,0,0.0523,0.406,0.0,0.18,0.742,101.965,4,dance
+59qrUpoplZxbIZxk6X0Bm3,Jason Derulo,Take You Dancing,Take You Dancing,78,190306,False,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,4,dance
+1YWKBAteTntVb3vY3okMDK,Shawn Mendes;Justin Bieber,pov: it's 2021,Monster,1,178994,False,0.652,0.383,2,-7.076,0,0.0516,0.0676,0.0,0.0828,0.549,145.765,4,dance
+6X17fdWVg6fsBPafs32JJi,Bebe Rexha;Pink Sweat$;Lunay,Midnight Music,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+2j3m8fh3siOLvvrveSCrfj,Bebe Rexha;Lil Uzi Vert,All Bops,Die for a Man,0,167179,True,0.669,0.893,4,-3.319,0,0.0372,0.0736,0.0,0.14,0.314,89.996,4,dance
+3cZMJ3P8qYfk1xIy7LnhCE,Bebe Rexha;Pink Sweat$;Lunay,New Pop Classics,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+2i4rLDS0cR77blmqqPybve,Marshmello;Jonas Brothers,Autumn Vibes 2022,Leave Before You Love Me,0,154983,False,0.724,0.744,7,-4.757,1,0.0398,0.00219,4.49e-06,0.116,0.645,119.978,4,dance
+4kHB8mUDoSp6Iu7I3xdUlx,Bebe Rexha;Pink Sweat$;Lunay,Good Enough - Easy Pop,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+3A0vG2tYNwvteMLPezNZ24,Shawn Mendes;Justin Bieber,Halloween 2022,Monster,0,178994,False,0.652,0.383,2,-7.076,0,0.0516,0.0676,0.0,0.0828,0.549,145.765,4,dance
+2XiqR6g3EbBfdPvcqjct7w,Marshmello;Bastille,Halloween Party Canzoni per Bambini 2022,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+5SbE5ptbYNFahUdICaS6kp,Marshmello;Demi Lovato,pov: it's 2020,OK Not To Be OK,0,159862,False,0.743,0.837,1,-5.025,0,0.0649,0.0172,0.0,0.0743,0.263,103.072,4,dance
+0qh91qPrnhoOhsiNZYOWrN,Bebe Rexha;Kranium,African Heat - Afro Hits,Comfortable,1,204235,False,0.714,0.6,7,-7.643,0,0.0644,0.392,7.46e-06,0.292,0.506,105.109,4,dance
+1wUKpuIo1b8FsLZTC2xB9c,Shawn Mendes;Tainy,pov: it's 2021,Summer Of Love,0,184104,False,0.776,0.808,11,-4.501,1,0.117,0.0297,0.000127,0.103,0.494,123.988,4,dance
+5FT4fUQx1ChOhilepc0epA,Shawn Mendes;Tainy,Pop Fun and Christmas Music 2022,Summer Of Love,0,184104,False,0.776,0.808,11,-4.501,1,0.117,0.0297,0.000127,0.103,0.494,123.988,4,dance
+7b1JFWEOfZtN9HGCzvBOir,Marshmello;Anne-Marie,Autumn Hits,FRIENDS,3,202620,True,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,dance
+3715OFFs0TnnHNRcrfQNs4,Marshmello;Bastille,Autumn Vibes 2022,Happier,0,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+58dGRQrNmAJeRMFuguUbvD,Spice;Shaggy;Sean Paul,10,Go Down Deh (feat. Shaggy and Sean Paul),69,154151,False,0.801,0.764,2,-5.112,1,0.0986,0.109,1.62e-05,0.247,0.578,89.999,4,dance
+1GuSTVJDtsbY70WV0VT64H,Marshmello;Bastille,Beginner Ride (Mixtape Vol. 1),Happier,5,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+7FBf7WRech1Bhdp9BcylM6,Marshmello;Bastille,Weekend Baby,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+4wobSR77IcbVP58BUwllTy,Marshmello;Bastille,Workout Hits 2023,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+1XGsEVaoYosgzQNUQrXyUb,Marshmello;Bastille,10's Music Grandi Successi,Happier,1,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,4,dance
+3oiWRTSsBfP5TGtvRRAeEZ,Bebe Rexha;Lil Wayne,New RnB,The Way I Are,0,187787,False,0.462,0.659,2,-6.077,1,0.114,0.00282,0.0,0.273,0.358,186.149,4,dance
+5HxE0w9l186jzG1TBSCh0F,Shawn Mendes,Autumn Vibes 2022,When You're Gone,0,172266,False,0.605,0.713,5,-5.865,1,0.0381,0.0203,0.0,0.548,0.603,147.166,4,dance
+73gHGOTyJuwHExzHPh84GN,Shawn Mendes;Camila Cabello,pov: it's 2019,Señorita,0,190960,False,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,dance
+18tFSfRfTR9qCvNxyLk7fX,Shawn Mendes,Frühstücksmusik Herbst/Winter 2022/2023,When You're Gone,0,172266,False,0.605,0.713,5,-5.865,1,0.0381,0.0203,0.0,0.548,0.603,147.166,4,dance
+5TFjvC8B1O4l8lO9GKBOOk,Bebe Rexha;Florida Georgia Line,Human - Best Adult Pop Tunes,Meant to Be,0,164640,False,0.641,0.783,10,-6.586,1,0.0999,0.0467,0.0,0.0634,0.558,153.97,4,dance
+3FoGOiDJWs1zKqtAlRQNwa,Shawn Mendes,10's Music Grandi Successi,Treat You Better,5,187973,False,0.443,0.82,10,-4.091,0,0.34,0.107,0.0,0.107,0.771,82.697,4,dance
+0TljCvnmCV3FJ8eTAlmHKD,Shawn Mendes,Arbeitsmusik Herbst/Winter 2022/2023,When You're Gone,0,172266,False,0.605,0.713,5,-5.865,1,0.0381,0.0203,0.0,0.548,0.603,147.166,4,dance
+2NHF4FRoRRCn6dk1IDhbZN,Shawn Mendes,Tutti in piscina Canzoni per bambini,There's Nothing Holdin' Me Back,2,199440,False,0.866,0.811,11,-4.063,0,0.0553,0.375,0.0,0.078,0.969,121.995,4,dance
+3Ys4r6JmqPmLHi2CJ9EnaN,Bebe Rexha;Nathan Dawe,Running Songs,Sacrifice - Nathan Dawe Remix,0,148571,False,0.751,0.808,11,-6.237,0,0.0665,0.00112,0.0994,0.156,0.508,125.983,4,dance
+5Kp7q6pTH8NW4bsxuANUpe,Shawn Mendes,Tutti in piscina Canzoni per bambini,Stitches,1,206879,False,0.736,0.74,10,-6.662,0,0.0912,0.0174,0.0,0.0481,0.737,74.99,4,dance
+66jmLylzWJ684t7cOGcmdk,Shawn Mendes,pov: it's 2019,If I Can't Have You,0,190800,False,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,4,dance
+6XNVTUjEi4HnTvOG0fC74O,Shawn Mendes,Sunny Mornings,Treat You Better,0,187973,False,0.443,0.82,10,-4.091,0,0.34,0.107,0.0,0.107,0.771,82.697,4,dance
+1S8p6YMo8zaxRXlx1XzzgZ,Shawn Mendes,Concierto en la ducha,In My Blood,0,211360,False,0.622,0.711,5,-7.321,1,0.0665,0.0573,0.0,0.13,0.487,140.016,4,dance
+2xD97n8xCT3uAQ2Y9O7fcN,Bebe Rexha;David Guetta,EDM Hits,Last Hurrah - David Guetta Remix,0,191868,False,0.682,0.711,11,-6.956,0,0.0534,0.105,1.83e-06,0.21,0.597,91.033,4,dance
+3UsWDYhiwRueTSHjXIJt3M,Shawn Mendes;Camila Cabello,Tutti in piscina Canzoni per bambini,Señorita,2,190960,False,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,dance
+4rCyiBhNUqpbtSyoeomIL8,Shawn Mendes,Fiesta de disfraces vol. II,Treat You Better,0,187973,False,0.443,0.82,10,-4.091,0,0.34,0.107,0.0,0.107,0.771,82.697,4,dance
+3I32ecZ4R3gN1lMCv4mUUN,Shawn Mendes;Camila Cabello,Summer Sweat,Señorita,2,190960,False,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,dance
+2eTmxm4XFfAAwms3duANpn,Bebe Rexha;Nathan Dawe,Today's Party Hits,Sacrifice - Nathan Dawe Remix,0,148571,False,0.751,0.808,11,-6.237,0,0.0665,0.00112,0.0994,0.156,0.508,125.983,4,dance
+5MZZQa87BkOniShwQqxBsj,Shawn Mendes,Fiesta de disfraces vol. II,There's Nothing Holdin' Me Back,0,199440,False,0.866,0.811,11,-4.063,0,0.0553,0.375,0.0,0.078,0.969,121.995,4,dance
+0zlTUsS88Y3Ck7WsyEepAi,Kehlani,Suicide Squad: The Album,Gangsta,60,177320,False,0.447,0.356,10,-11.193,0,0.0419,0.0958,0.0,0.318,0.174,121.864,4,dance
+22vgEDb5hykfaTwLuskFGD,Jonas Brothers,Happiness Begins,Sucker,81,181026,False,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,dance
+0qvzXomUDJVaUboy2wMfiS,Niall Horan,Flicker (Deluxe),This Town,80,232852,False,0.677,0.401,9,-8.467,1,0.0308,0.712,0.0,0.116,0.195,111.825,4,dance
+76cy1WJvNGJTj78UqeA5zr,Dua Lipa,Dua Lipa (Deluxe),IDGAF,80,217946,True,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,dance
+1BCXUbnU0486n4eeTyyVIj,Charlie Puth,CHARLIE,Loser,75,204376,False,0.698,0.623,8,-7.845,0,0.037,0.623,0.0856,0.179,0.625,102.002,4,dance
+0wPKDeY4fZXT6k9bzV0kx0,Charlie Puth,CHARLIE,That's Hilarious,72,144933,True,0.713,0.442,6,-5.909,1,0.0604,0.739,0.0,0.112,0.546,108.038,4,dance
+2qG81jL9UIP54uS8gYyP4k,Lauv;BTS,~how i'm feeling~,Who (feat. BTS),76,180413,False,0.632,0.339,11,-7.983,0,0.0337,0.546,0.0,0.104,0.0969,141.642,3,dance
+4oTn7ylKtjeMYwxatEVFAt,Charlie Puth,CHARLIE,Loser,71,204376,False,0.698,0.623,8,-7.845,0,0.037,0.623,0.0856,0.179,0.625,102.002,4,dance
+1jEBSDN5vYViJQr78W7jr2,Charlie Puth,CHARLIE,Light Switch,71,187703,False,0.689,0.627,6,-5.692,1,0.308,0.105,0.000321,0.0905,0.905,184.008,4,dance
+5WtfUKzXircvW8l5aaVZWT,Julia Michaels;Niall Horan,Inner Monologue Part 1,What A Time (feat. Niall Horan),82,173306,False,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,4,dance
+1Lim1Py7xBgbAkAys3AGAG,Major Lazer;MØ;DJ Snake,Peace Is The Mission (Extended),Lean On,73,176561,False,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,4,dance
+2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood (Deluxe),Youngblood,81,203417,False,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,4,dance
+72jbDTw1piOOj770jWNeaG,The Chainsmokers,Memories...Do Not Open,Paris,74,221506,False,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,4,dance
+04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,Expectations,I'm a Mess,74,195519,False,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,4,dance
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,A Perfect Contradiction (Outsiders' Expanded Edition),Only Love Can Hurt Like This,87,232893,False,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,4,dance
+3ZFTkvIE7kyPt6Nu3PEa7V,Shakira;Wyclef Jean,"Oral Fixation, Vol. 2 (Expanded Edition)",Hips Don't Lie (feat. Wyclef Jean),84,218093,False,0.778,0.824,10,-5.892,0,0.0707,0.284,0.0,0.405,0.758,100.024,4,dance
+39bx4zZrPxTjw8VNuvjt6X,Akon;Vishal Dadlani;Shruti Pathak,Ra-One,Criminal,60,306503,False,0.701,0.966,0,-5.36,1,0.0568,0.063,0.0662,0.0761,0.834,132.015,4,dance
+0U1W2LZVUX7qTm7dDpqxh6,Shawn Mendes,When You're Gone,When You're Gone,82,172266,False,0.603,0.691,5,-5.805,1,0.0372,0.0248,0.0,0.583,0.577,147.148,4,dance
+1dD0MjGWzDbd1RUBka1aNu,Bebe Rexha;Pink Sweat$;Lunay,Music for Rainy Days,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+0tkxzOtc2gvIueuXNFLyfZ,Bebe Rexha;Pink Sweat$;Lunay,20's R'n'B,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+1yvMUkIOTeUNtNWlWRgANS,Sia,This Is Acting (Deluxe Version),Unstoppable,82,217746,False,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,4,dance
+6X17fdWVg6fsBPafs32JJi,Bebe Rexha;Pink Sweat$;Lunay,Midnight Music,On the Go,0,179397,False,0.716,0.709,11,-4.683,0,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+7e38sajG53PZsyKRDX8OAR,Bebe Rexha,US Pop 20s,Sabotage,2,176566,True,0.562,0.565,8,-5.111,1,0.044,0.438,0.0,0.138,0.208,89.862,4,dance
+75mtKeIPLHAXokQVQmwPLp,Tiësto;Charli XCX,New Arrivals,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+4YHCypK9ZmN5To9vaRJvNP,Selena Gomez;Gucci Mane,Concierto en la ducha,Fetish,0,186112,False,0.708,0.617,2,-4.424,1,0.0593,0.0204,6.81e-06,0.062,0.265,123.006,4,dance
+6aeFSY5qub9GHEnSeotbDx,Bebe Rexha;Florida Georgia Line,Coffee Chill,Meant to Be,1,164640,False,0.641,0.783,10,-6.586,1,0.0999,0.0467,0.0,0.0634,0.558,153.97,4,dance
+5IGsV7tGijVH9R7KtneqKn,Tiësto;Charli XCX,Daily Pop Mix,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+77Y5dUO0hTaxJ33pQ0G6Qh,Selena Gomez;Rauw Alejandro,Halloween 2022 Pop Vol. 5,Baila Conmigo,2,186087,False,0.824,0.545,5,-7.127,1,0.0699,0.0221,0.00375,0.097,0.683,149.912,4,dance
+1V6gIisPpYqgFeWbMLI0bA,Demi Lovato,Demi,Heart Attack,78,210840,False,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,4,dance
+7uWHmvFjivPp1w4wQYf2B7,Selena Gomez,pov: it's 2020,Dance Again,0,170498,False,0.784,0.552,1,-7.261,0,0.0874,0.0447,0.0,0.196,0.464,111.984,4,dance
+1oIdcFtf58sZbS7QyZQJ2P,Deep Chills;IVIE,Run Free,Run Free,67,170562,False,0.727,0.69,7,-4.559,1,0.0345,0.202,3.27e-06,0.414,0.699,100.002,4,dance
+0EpO6LZgIlxTUHE2e1ckCa,Tiësto;Ava Max,Hit After Hit,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+1jT2yBR6qi5mrGwFGIeKmR,Tiësto;Ava Max,Back to School!,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+4NR32XsVHm1oN9x8ExR8Yu,Tiësto;Ava Max,Today's Party Hits,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+6IJg1nl6ZmcjLPeSUV3TSf,Selena Gomez;Rauw Alejandro,pov: it's 2021,Baila Conmigo,0,186087,False,0.824,0.545,5,-7.127,1,0.0699,0.0221,0.00375,0.097,0.683,149.912,4,dance
+5jZdUmR7UmVsw9XkEsPGZF,Tiësto,Hit After Hit,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,dance
+4l0PjsiO4Kbq8WF6BRDE7T,Bebe Rexha,Happy Commute,Better Mistakes,0,135678,False,0.798,0.725,2,-7.637,1,0.0932,0.247,0.000725,0.0851,0.773,123.957,4,dance
+5uBYhOCQC4NpqmnCgfzFw4,Selena Gomez,REGNIG DAG,Lose You To Love Me,1,206458,False,0.516,0.342,4,-8.985,1,0.0425,0.55,0.0,0.21,0.0993,102.819,4,dance
+4e5s77PZaf4ulqs5bFeik9,Tiësto;Charli XCX,Brandneu Dance,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+65zbV8Wx65LXUz1NHeYYEw,Selena Gomez,pov: it's 2019,Lose You To Love Me,0,206458,False,0.516,0.342,4,-8.985,1,0.0425,0.55,0.0,0.21,0.0993,102.819,4,dance
+1SgC4TJisgT2KqHbSo6nqK,Selena Gomez,pov: it's 2020,Lose You To Love Me,0,206458,False,0.516,0.342,4,-8.985,1,0.0425,0.55,0.0,0.21,0.0993,102.819,4,dance
+4FS977E3rYz6LRtsX4Fu1p,Selena Gomez;Myke Towers,Perreo Tenebroso Vol. 5,Dámelo To’,0,184134,False,0.787,0.641,8,-7.376,1,0.315,0.101,0.00534,0.07,0.437,182.003,4,dance
+4PxicLNLWUVprQnI8kUqyQ,Bebe Rexha,Session Acoustique,I Got You - Acoustic,0,193558,False,0.64,0.866,9,-4.105,0,0.0653,0.0508,0.0,0.0921,0.586,99.04,4,dance
+7A5qbuQheUIpEz0O2npL72,Bebe Rexha,Trending Pop,Last Hurrah,0,150333,False,0.552,0.618,11,-4.585,0,0.0309,0.175,0.0,0.117,0.402,84.26,4,dance
+307xGXTNNyK11gXje8xj33,Bebe Rexha;Nathan Dawe,Upbeat 20's,Sacrifice - Nathan Dawe Remix,1,148571,False,0.751,0.808,11,-6.237,0,0.0665,0.00112,0.0994,0.156,0.508,125.983,4,dance
+5rQ8KYGO7MetiCgqnn4hby,Tiësto;Ava Max,Dance Dance Dance,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+2PEpP5pUkbZIwFcXIbhB9V,Bebe Rexha,New Pop Icons,I Don't Wanna Grow Up,0,248557,False,0.597,0.663,11,-6.745,1,0.0368,0.505,0.00213,0.11,0.448,93.952,4,dance
+2xD97n8xCT3uAQ2Y9O7fcN,Bebe Rexha;David Guetta,EDM Hits,Last Hurrah - David Guetta Remix,0,191868,False,0.682,0.711,11,-6.956,0,0.0534,0.105,1.83e-06,0.21,0.597,91.033,4,dance
+6goVNfYxt6zpUKCbBNsQag,Selena Gomez,Concierto en la ducha,Back To You - From 13 Reasons Why – Season 2 Soundtrack,0,207904,False,0.6,0.725,6,-4.866,1,0.0487,0.0933,1.87e-06,0.12,0.506,102.056,4,dance
+1tvmqQlkFrVun9HO4dlNdr,Selena Gomez,Almorzando solo,Come & Get It,0,231413,False,0.552,0.783,7,-4.138,0,0.0504,0.00887,0.00026,0.0954,0.575,79.984,4,dance
+6XHVuErjQ4XNm6nDPVCxVX,Chris Brown;Drake,Indigo,No Guidance (feat. Drake),80,260640,True,0.696,0.454,1,-6.756,0,0.153,0.123,0.0,0.155,0.136,92.928,4,dance
+2g3afkZqrBxT9RWNSPSWa7,Charlie Puth,CHARLIE,No More Drama,69,140041,False,0.555,0.648,11,-6.539,0,0.296,0.693,0.000644,0.128,0.641,195.887,4,dance
+0Ryd8975WihbObpp5cPW1t,Ariana Grande;Social House,boyfriend,boyfriend (with Social House),80,186106,True,0.4,0.795,10,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,4,dance
+4vVTI94F9uJ8lHNDWKv0i2,Sean Kingston;Justin Bieber,Eenie Meenie,Eenie Meenie,75,201946,False,0.72,0.607,1,-4.168,1,0.0322,0.0543,0.0,0.113,0.828,121.223,4,dance
+748mdHapucXQri7IAO8yFK,Doja Cat;SZA,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),82,208866,True,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,4,dance
+0PDUDa38GO8lMxLCRc4lL1,ZAYN,Mind Of Mine (Deluxe Edition),PILLOWTALK,78,202746,True,0.584,0.7,11,-4.275,1,0.0456,0.117,0.0,0.0939,0.438,124.944,4,dance
+3Z8FwOEN59mRMxDCtb8N0A,Marshmello;Halsey,Be Kind (with Halsey),Be Kind (with Halsey),77,172761,False,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,4,dance
+2VqAEP1yY5T523K7bZtL8a,Akon,Freedom,Right Now (Na Na Na),71,240746,False,0.83,0.857,8,-4.194,0,0.152,0.262,0.0,0.413,0.607,137.982,4,dance
+4vjpLMyL3ZO6aphdYr8XYw,Lauv;Troye Sivan,~how i'm feeling~,i'm so tired...,76,162586,False,0.576,0.736,11,-7.572,1,0.224,0.178,0.0,0.238,0.484,101.928,4,dance
+09AvsbivV1FQBRAEBJh7UL,The Chainsmokers,So Far So Good,High,75,175163,True,0.601,0.787,0,-6.178,1,0.031,0.0492,0.0,0.142,0.525,134.981,4,dance
+4C6Uex2ILwJi9sZXRdmqXp,Nicki Minaj,Super Freaky Girl,Super Freaky Girl,92,170977,True,0.95,0.891,2,-2.653,1,0.241,0.0645,1.77e-05,0.309,0.912,133.01,4,dance
+6kex4EBAj0WHXDKZMEJaaF,Jason Derulo;Nicki Minaj;Ty Dolla $ign,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Swalla (feat. Nicki Minaj & Ty Dolla $ign),76,216408,True,0.696,0.817,1,-3.862,1,0.109,0.075,0.0,0.187,0.782,98.064,4,dance
+0VO8gYVDSwM1Qdd2GsMoYK,Swedish House Mafia;The Weeknd,Paradise Again,Moth To A Flame (with The Weeknd),83,234000,False,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,4,dance
+2kQuhkFX7uSVepCD3h29g5,Akon;Eminem,Konvicted,Smack That,81,212360,True,0.939,0.742,5,-5.171,0,0.0467,0.321,0.0,0.107,0.924,118.978,4,dance
+7FGq80cy8juXBCD2nrqdWU,benny blanco;Halsey;Khalid,FRIENDS KEEP SECRETS,Eastside (with Halsey & Khalid),78,170769,False,0.632,0.686,6,-7.665,0,0.243,0.549,0.0,0.2,0.329,89.949,4,dance
+3E9es0SK2EusrHA7IaO7Zu,Charlie Puth,CHARLIE,Charlie Be Quiet!,69,128364,False,0.753,0.662,8,-4.25,1,0.0702,0.205,3.66e-06,0.0851,0.466,94.958,4,dance
+6h5PAsRni4IRlxWr6uDPTP,Axwell /\ Ingrosso,More Than You Know,More Than You Know,80,203000,False,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,4,dance
+7mWBvNosCez1ry9f1ba197,Charlie Puth,CHARLIE,Tears On My Piano,67,181385,True,0.562,0.729,1,-5.503,0,0.0926,0.239,1.33e-05,0.111,0.831,192.168,4,dance
+18asYwWugKjjsihZ0YvRxO,Tiësto;Ava Max,The Motto,The Motto,86,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+7fZBQnc0zXwVybgCIrQQil,Imanbek;BYOR,Belly Dancer,Belly Dancer,87,151475,False,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,4,dance
+2Cd9iWfcOpGDHLz6tVA3G4,Shakira;Freshlyground,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),79,202626,False,0.766,0.873,11,-6.381,0,0.143,0.00627,0.0,0.0764,0.743,126.988,4,dance
+0I3FXz5RssOlMNI0FmPAkc,Charlie Puth,CHARLIE,There’s A First Time For Everything,67,136769,False,0.551,0.737,1,-5.573,1,0.103,0.466,2.74e-06,0.21,0.611,197.997,4,dance
+6NJOOWpT5g3Y46G2qtRejH,Tiësto;Stevie Appleton,pov: it's 2020,BLUE,0,167858,False,0.744,0.725,11,-6.056,1,0.0303,0.0179,1e-05,0.212,0.902,118.035,4,dance
+7GjQssVu8uKn4WGTIgTOIA,Tiësto;Charli XCX,Hot Mix Pop,Hot in It,3,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+0RzEfVy07ukh7GxnwVjPmr,Tiësto;Charli XCX,For the Girls: Summer Hits,Hot in It,1,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+42ydLwx4i5V49RXHOozJZq,Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,74,230226,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,dance
+5rsIUZDVbqneGM0GWs7Obd,Tiësto;Charli XCX,Upbeat 20's,Hot in It,1,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+3BbzQ0VuM1QTMOiqva7VYe,Tiësto;Charli XCX,Hit After Hit,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+5KomSS7roeHMj6r3THWiWo,Tiësto;Charli XCX,Cardio Tracks,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+1vXNHt7Vj7U75R0qV2YrOu,Tiësto;Charli XCX,Pop Brandneu,Hot in It,1,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You (From 13 Reasons Why – Season 2 Soundtrack),Back To You - From 13 Reasons Why – Season 2 Soundtrack,74,207904,False,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,4,dance
+0KoiMHhqKLoL4xM54rcWYY,DJ Snake;Selena Gomez;Ozuna;Cardi B,Carte Blanche,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",73,212500,True,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,4,dance
+0EpO6LZgIlxTUHE2e1ckCa,Tiësto;Ava Max,Hit After Hit,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+5odOSnLe89YWZ198e9SJ8O,Tiësto;Charli XCX,Your Perfect Soundtrack,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+0j1oGNwg8VVosfPezkrSni,Tiësto;Ava Max,Cardio Tracks,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+5hFv1SIDrWucD6FO7sKuWX,Tiësto,"#Multiverse, If the Multiverse Is Real",The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,dance
+389GFtpjhmv2HxiEyWH3FE,Tiësto;Ava Max,Trending Pop,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+12gp9XggBAImRaqz7ASv9u,Tiësto;Ava Max,Summer Music Festival Hits,The Motto,0,164818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+4e5s77PZaf4ulqs5bFeik9,Tiësto;Charli XCX,Brandneu Dance,Hot in It,0,129817,False,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+2QKALbvieihPo40okeVa1v,Tiësto,House Anthems,The Business,4,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,dance
+43ZXaExiD5ExmSpmPK5aQZ,Tiësto;KAROL G,Feeling Good,Don't Be Shy,1,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,dance
+2DEQAi3HSie56MG0M5pGwJ,Tiësto;KAROL G,Today's Party Hits,Don't Be Shy,0,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,dance
+6N2yutZiLVpqbF1AK8Vxhu,Tiësto,Feeling Good,The Business,1,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,dance
+3mTUMIT3M0e9PySC1mteSV,Tiësto;Mabel,pov: it's 2019,God Is A Dancer,0,168125,False,0.798,0.747,1,-3.91,0,0.0808,0.0284,1.9e-06,0.344,0.805,120.002,4,dance
+2Q1IoizHMaYROD9JrAsLDS,Tiësto,Today's Party Hits,The Business,0,164000,False,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4,dance
+3i31Itck9EgI1vRjZxdYe9,Tiësto;KAROL G,Dance Dance Dance,Don't Be Shy,0,140500,True,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,4,dance
+3TQmLgeTRbZfabmAEC4Mbe,Kim Petras,Halloween Songs | Witches Hour,There Will Be Blood,2,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+0jGNrMFSke9iI1pmfWbvft,Tiësto;Becky Hill,pov: it's 2020,Nothing Really Matters,0,157720,False,0.735,0.842,5,-4.079,0,0.0403,0.00519,4.52e-06,0.308,0.681,123.039,4,dance
+15MmASLdM5KOe1ZTH17GLn,Miley Cyrus,Christmas Faves 2022,Santa Claus Is Comin' To Town,0,147426,False,0.521,0.946,9,-2.188,1,0.0517,0.000439,0.0,0.0417,0.753,141.961,4,dance
+4aFEI0dqQcF0w5fg8qiadd,Avicii;Reeva & Black,10's Dance Classics,Last Dance - Reeva & Black Dub Mix,0,318750,False,0.645,0.844,4,-6.835,0,0.046,0.0118,0.873,0.0761,0.425,127.995,4,dance
+4xigPf2sigSPmuFH3qCelB,Sia;Diplo;Labrinth;LSD,"LABRINTH, SIA & DIPLO PRESENT... LSD","Genius (feat. Sia, Diplo, and Labrinth)",76,213706,False,0.603,0.615,11,-4.931,0,0.165,0.0799,6.72e-05,0.117,0.561,158.657,4,dance
+0azC730Exh71aQlOt9Zj3y,Calvin Harris;Rihanna,This Is What You Came For,This Is What You Came For,81,222160,False,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,4,dance
+5OCJzvD7sykQEKHH7qAC3C,Ariana Grande,Sweetener,God is a woman,80,197546,True,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,4,dance
+3DmW6y7wTEYHJZlLo1r6XJ,Becky G,Shower,Shower,78,206166,False,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,4,dance
+2169IKAivSUUFGcedGASXc,Stefflon Don,16 Shots,16 Shots,69,224727,True,0.684,0.79,3,-4.871,0,0.0735,0.0271,0.000371,0.0854,0.549,95.083,4,dance
+0OM84HfW4XX1kmwCMDPmcS,Charlie Puth,CHARLIE,Smells Like Me,67,204079,False,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,4,dance
+0Ts1lnK3lYa2dwE2orDJc5,Charlie Puth,CHARLIE,I Don’t Think That I Like Her,66,188507,False,0.587,0.548,8,-5.846,0,0.0339,0.396,0.0,0.109,0.713,186.073,4,dance
+55ruPNJ55uKjtm77nf3lPD,Charlie Puth,CHARLIE,Marks On My Neck,66,138159,False,0.855,0.607,1,-8.587,1,0.0422,0.2,1.84e-05,0.0723,0.943,142.002,4,dance
+3oZcHR0hqmmdnP06bc84Gd,Burna Boy,I'm Blue - Hits of 2022,Last Last,4,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+2bIllkzKKCotWs0AuCsIoh,Burna Boy;Wizkid,2Step - Pop R'n'B,B. D’OR,2,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+7BDQlgM0pemXy3b4AbpBEp,Burna Boy,Good Vibes,Last Last,1,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+35cGkoZHj3mcUYa1kVjFOh,Burna Boy,Good Vibes,On the Low,2,185898,False,0.816,0.781,1,-4.237,0,0.0425,0.692,0.00928,0.0835,0.937,99.95,4,dance
+13hvHEstJ4sNbzdroPrPI3,Dua Lipa;BLACKPINK,Dua Lipa (Complete Edition),Kiss and Make Up,59,190560,False,0.675,0.729,8,-4.383,1,0.146,0.0557,0.0,0.189,0.63,99.986,4,dance
+66tPJue1SdDqvK9ifs6H3t,Burna Boy;Stormzy,Sundown Rap,Real Life,0,197933,False,0.488,0.572,9,-7.29,0,0.0901,0.138,0.000235,0.27,0.415,132.45,5,dance
+03um6hfYLzq0p4c3Lk0Dld,Burna Boy,Daily Pop Mix,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+0wI7QkCcs8FUQE1OkXUIqd,Alessia Cara,Know-It-All,Scars To Your Beautiful,78,230240,False,0.573,0.739,0,-5.74,1,0.129,0.0285,0.0,0.111,0.451,97.085,4,dance
+5gk0dcTvWZGg7Tlq8PEfNe,Burna Boy;Stormzy,New RnB,Real Life,0,197933,True,0.594,0.568,0,-7.268,1,0.0701,0.147,4.01e-05,0.339,0.407,132.348,5,dance
+6Nf3pMNxscEiw6a7phdlmm,Burna Boy,African Heat - Afro Hits,Last Last,1,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+13lcPEauPnz6ynDJIfHZAR,Burna Boy,Comme un lundi,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+27C9LOKwqrjYNHwZ5pu8zH,Burna Boy,2Step - Pop R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+41cDKFuTigPfBWyLYQKMsO,Burna Boy,New Arrivals,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+0hWBiQZZ7btfzKoMDUUHCH,Burna Boy,Internet Sensations,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+7lvUf1BLEZuuwhbc9xeR12,Burna Boy,Pop Hits Now,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+0ulOkeffvXAADiep778P4U,Burna Boy,Beautiful Trending Hits 2022,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+2qSnqsLv7b9GbWFhyZJwMM,Burna Boy;Blxst;Kehlani,The Look - R&B Feels,Solid,0,195134,True,0.554,0.509,1,-9.429,1,0.339,0.149,1.86e-05,0.094,0.718,199.874,4,dance
+7mRCgqF1eXVoDUpOldz9Nl,Burna Boy;Wizkid,African Heat - Afro Hits,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+1NdGOt0hJikfIy2OUkXdi2,Burna Boy,Totally Rap,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+2cFjQQ33h8NiQAKqpJGhgd,Burna Boy,20's R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+0t1CW2tjQq45DEdo7thJo1,Burna Boy,Hip Hop & R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+10k9teyEyRep55WEzxz5oc,Burna Boy,New Rap 20s,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+6WzN3h2OjVhmBwnkUNNiGz,Burna Boy;Ed Sheeran,All That Really Matters - Just Hits,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+6Uqc4WAhVelhB3tkkjaKoM,Burna Boy;Wizkid,Totally Rap,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+1QuEakfDCo0mHPBN02KYQ7,Kim Petras,Halloween Songs | Witches Hour,Massacre,3,206815,False,0.503,0.506,0,-7.554,0,0.0332,0.0989,0.0,0.352,0.11,89.888,4,dance
+0hopQjlj7hNsE60RXFl1V9,Burna Boy;Wizkid,Tropical Vibes,B. D’OR,1,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+3C6ST7yv6lmAH0sJEoGmJC,Burna Boy;Ed Sheeran,Totally Rap,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+5Bn9DGGQJwFaYJTmzHSaYg,Kim Petras,Halloween & Alternative,Massacre,1,206815,False,0.503,0.506,0,-7.554,0,0.0332,0.0989,0.0,0.352,0.11,89.888,4,dance
+13VcHnE3q5TRU5ig2FcbOP,Burna Boy;Ed Sheeran,"#Multiverse, If the Multiverse Is Real",For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+61f7OTlfrjrZqZc8YZtNGd,Burna Boy;Stormzy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Real Life (Mixed),4,124000,True,0.437,0.592,0,-9.726,1,0.299,0.181,6.45e-06,0.331,0.632,75.493,3,dance
+4oYuZ3msCWFJX4rMphHaYK,Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Money Play (Mixed),3,60250,False,0.857,0.8,0,-8.476,1,0.209,0.228,0.00517,0.298,0.488,106.566,4,dance
+0VxtVyUZs8b96yP9NmftiA,Kim Petras,Spooky Scary Season,There Will Be Blood,6,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+3TQmLgeTRbZfabmAEC4Mbe,Kim Petras,Halloween Songs | Witches Hour,There Will Be Blood,2,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+323uxL7lyIOJhkpzZMW5iD,Burna Boy;Lily Allen,Am I Ready - Pop Night Out,Heaven's Gate,0,202446,True,0.845,0.854,4,-5.897,0,0.197,0.0376,1.45e-05,0.343,0.636,102.008,4,dance
+02q48eRgkja20qgxTKdXk4,Kim Petras,Happy Haunted Halloween Tunes,Close Your Eyes,3,235615,False,0.548,0.728,5,-5.678,0,0.0507,0.0104,0.000126,0.146,0.337,105.961,4,dance
+6deUVkP0yJNo9yMyLsNoSQ,Kim Petras,Halloween Hits,There Will Be Blood,3,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+7lpMBvnGxzpmEp8f09hwjx,Kim Petras,Anthems for Witches 2022,Tell Me It's A Nightmare,1,248743,False,0.651,0.758,4,-5.791,0,0.0651,0.00217,0.0,0.149,0.227,109.983,4,dance
+46zMjSYLqKNgkklTg6MNi3,Kim Petras,Helloween Party,There Will Be Blood,5,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+1lDTZGxn8WPzgeYAEXZ7w1,Kim Petras,Halloween 2022,Close Your Eyes,0,235615,False,0.548,0.728,5,-5.678,0,0.0507,0.0104,0.000126,0.146,0.337,105.961,4,dance
+3EzZBU7SHFfQZ8DGKX5PUO,Kim Petras,Happy Haunted Halloween Tunes,There Will Be Blood,4,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+71AO7E6sxSNZIPPAxREWco,Kim Petras,Halloween & Alternative,There Will Be Blood,0,197651,False,0.563,0.879,0,-4.735,0,0.0907,0.00125,1.76e-05,0.166,0.602,107.013,4,dance
+1DAxXOny3bze31Slf2DjHe,Burna Boy,Hip Hop Slow Jamz,Rock Your Body,0,221228,False,0.801,0.623,0,-7.861,1,0.0982,0.107,0.00393,0.0853,0.801,104.982,4,dance
+62UAFVREdTssSevwa5jqhF,Mike Posner;Seeb,"At Night, Alone. (Expanded Edition)",I Took A Pill In Ibiza - Seeb Remix,58,197933,True,0.665,0.727,7,-6.57,0,0.103,0.032,1.02e-05,0.0873,0.66,101.976,4,dance
+09IStsImFySgyp0pIQdqAc,Zedd;Maren Morris;Grey,The Middle,The Middle,80,184732,False,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,4,dance
+5Q4lCfjJ1aht8YZOGFbC5U,Charlie Puth,CHARLIE,Light Switch,66,187703,False,0.689,0.627,6,-5.692,1,0.308,0.105,0.000321,0.0905,0.905,184.008,4,dance
+1tGq9MNEmWGevwtiBCdrbk,Charlie Puth;Jung Kook;BTS,CHARLIE,Left and Right (Feat. Jung Kook of BTS),66,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+2bIllkzKKCotWs0AuCsIoh,Burna Boy;Wizkid,2Step - Pop R'n'B,B. D’OR,2,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+7BDQlgM0pemXy3b4AbpBEp,Burna Boy,Good Vibes,Last Last,1,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+40pz6QQ5xwbaCZX5gK8GcQ,Burna Boy,Hits Hits Hits,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+3yOlyBJuViE2YSGn3nVE1K,Camila Cabello;DaBaby,Romance,My Oh My (feat. DaBaby),76,170746,False,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,4,dance
+36YlzbkAZLnOke9yib6Yin,Burna Boy;Stormzy,The Hype,Real Life,1,197933,False,0.488,0.572,9,-7.29,0,0.0901,0.138,0.000235,0.27,0.415,132.45,5,dance
+5gk0dcTvWZGg7Tlq8PEfNe,Burna Boy;Stormzy,New RnB,Real Life,0,197933,True,0.594,0.568,0,-7.268,1,0.0701,0.147,4.01e-05,0.339,0.407,132.348,5,dance
+0YtYAaCp626cLIDyjB5bcS,Burna Boy;Ed Sheeran,New Arrivals,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+2IUkw09LrFwfXNRwnecgmG,Burna Boy,Hit After Hit,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+6cEwA8cYxwG7jn6Dm3oEGr,Avicii,Autopilot,The Nights,0,178057,False,0.528,0.823,6,-5.294,1,0.0407,0.0202,0.0,0.217,0.686,125.992,4,dance
+7lvUf1BLEZuuwhbc9xeR12,Burna Boy,Pop Hits Now,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+7HSM7sfoyw4xKdGcNhXuBy,Burna Boy,All Bops,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+41cDKFuTigPfBWyLYQKMsO,Burna Boy,New Arrivals,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+2qSnqsLv7b9GbWFhyZJwMM,Burna Boy;Blxst;Kehlani,The Look - R&B Feels,Solid,0,195134,True,0.554,0.509,1,-9.429,1,0.339,0.149,1.86e-05,0.094,0.718,199.874,4,dance
+2cFjQQ33h8NiQAKqpJGhgd,Burna Boy,20's R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+0t1CW2tjQq45DEdo7thJo1,Burna Boy,Hip Hop & R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+6WzN3h2OjVhmBwnkUNNiGz,Burna Boy;Ed Sheeran,All That Really Matters - Just Hits,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+2ECokGI5VuABjcNb90be3p,Burna Boy,Summer Music Festival Hits,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+6AjuU68Z5I6zzG03bs2MS2,Burna Boy;Ed Sheeran,Daily Pop Mix,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+2xuaIdm0HsPaZPxQoNeplK,Avicii;Sandro Cavazza,Autopilot,Without You,5,181672,True,0.663,0.857,2,-4.844,1,0.0429,0.00163,0.0,0.0456,0.294,133.994,4,dance
+0XLZqnVwuqsvl0WbZRStel,Burna Boy;Ed Sheeran,Hit After Hit,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+6CufiqOcVejTejlXDqDb4j,Burna Boy,New Pop Classics,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+3RU4IbiteV8v6Haa7sDrOV,Burna Boy,Your Perfect Soundtrack,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+4XzRHp717ZswJsBQJEUfeS,Avicii,Weekend Baby,The Nights,0,178057,False,0.528,0.823,6,-5.294,1,0.0407,0.0202,0.0,0.217,0.686,125.992,4,dance
+5j5gYFCv8Du7NEVll7pbOC,Avicii,10's Music Grandi Successi,The Nights,1,178057,False,0.528,0.823,6,-5.294,1,0.0407,0.0202,0.0,0.217,0.686,125.992,4,dance
+4753v8gP7AT9df2zgxa2N9,Burna Boy;Wizkid,New Grooves,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dance
+26JbYgOa3DElPxT2vS41BW,Avicii,Dinner with the Fam,The Nights,0,178057,False,0.528,0.823,6,-5.294,1,0.0407,0.0202,0.0,0.217,0.686,125.992,4,dance
+2tLDIzkhdp0M0MyUDchiLk,Burna Boy;Ed Sheeran,On Chill - Rap & RnB,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+6k3lATWmM3Z9TJvrzDHfga,Burna Boy;Ed Sheeran,New Grooves,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+10P1Cy36hugYDFTZPCE9Bk,Avicii,pov: it's 2019,Heaven,0,277261,False,0.592,0.873,9,-5.65,1,0.0275,0.0723,0.00986,0.142,0.515,122.015,4,dance
+61f7OTlfrjrZqZc8YZtNGd,Burna Boy;Stormzy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Real Life (Mixed),4,124000,True,0.437,0.592,0,-9.726,1,0.299,0.181,6.45e-06,0.331,0.632,75.493,3,dance
+5tkZJZiaeQExZNjCli2CD0,Avicii;Aloe Blacc,pov: it's 2019,SOS,0,157202,False,0.802,0.645,5,-6.181,0,0.0714,0.272,0.0,0.119,0.376,100.001,4,dance
+58s7n1XdbmiUDYh4cGkHKB,Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Onyeka (Baby) (Mixed),3,107750,False,0.781,0.728,2,-7.612,1,0.1,0.179,0.000206,0.73,0.363,103.27,4,dance
+6j1yDGV547WxP9NZQ44pUd,Avicii,Autopilot,Wake Me Up - Radio Edit,1,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+323uxL7lyIOJhkpzZMW5iD,Burna Boy;Lily Allen,Am I Ready - Pop Night Out,Heaven's Gate,0,202446,True,0.845,0.854,4,-5.897,0,0.197,0.0376,1.45e-05,0.343,0.636,102.008,4,dance
+4NctsFaHmewUuQntJY3Qqt,Avicii;Sandro Cavazza,Sunny Mornings,Without You,0,181672,True,0.663,0.857,2,-4.844,1,0.0429,0.00163,0.0,0.0456,0.294,133.994,4,dance
+1KG2qmqeXzVHtk0J7xeh3i,Avicii,Fiesta de disfraces vol. II,The Nights,0,178057,False,0.528,0.823,6,-5.294,1,0.0407,0.0202,0.0,0.217,0.686,125.992,4,dance
+0g2zW7vCyWkUJg5aQjOwi7,Avicii,Almorzando solo,The Days,0,278480,False,0.59,0.724,0,-3.278,1,0.0439,0.04,4.07e-05,0.142,0.526,127.05,4,dance
+5DH6Cc1lFD0kSuwL836Oue,Avicii,Отново на училище,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+6sCtkVwY1hRM1IY8BI1arV,Avicii,OO's Music Grandi Successi,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+1rP4gzPMHrM7NyI1LPCRmv,Avicii,Electro sounds,You Make Me,0,230746,False,0.569,0.695,6,-5.808,1,0.0423,0.00148,0.00221,0.376,0.506,125.098,4,dance
+25qayTeSbpmP80ZcP00eW8,Avicii,Обратно в клас - pop,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+1JaKuvkBdcr6ym021X2Pq6,Avicii;Agnes;Vargas & Lagola,pov: it's 2019,Tough Love,0,191248,False,0.402,0.755,8,-4.837,1,0.043,0.143,0.0,0.357,0.622,108.17,4,dance
+6mUHPv34FUMhYVlpytiwdp,Avicii,Weekend Baby,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+7kklTO67Wai5FM1vjPiZmz,Avicii,House Anthems,Last Dance - Radio Edit,2,204375,False,0.52,0.823,0,-5.152,1,0.0363,0.000364,0.289,0.14,0.158,127.981,4,dance
+21Ci0rT8NiAvCZKouM8O9G,Avicii;Nicky Romero,Electro sounds,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,0,208320,False,0.51,0.79,6,-3.782,0,0.0374,0.335,6.23e-05,0.316,0.637,127.946,4,dance
+2MhZbxhjQf9WunW7Jc4kX4,Avicii,Electro sounds,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+2rizacJSyD9S1IQUxUxnsK,The Chainsmokers;Phoebe Ryan,All We Know,All We Know,70,194080,False,0.662,0.586,0,-8.821,1,0.0307,0.097,0.00272,0.115,0.296,90.0,4,dance
+4eWQlBRaTjPPUlzacqEeoQ,Camila Cabello,Camila,Never Be the Same,74,226973,False,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,4,dance
+6xsGllAEwkmF4SSDwdpmMt,Major Lazer;Justin Bieber;MØ,Major Lazer Essentials,Cold Water,58,185351,False,0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.5,92.946,4,dance
+0laYHRpNTS6i8FXdupHkJ4,Selena Gomez & The Scene,When The Sun Goes Down,Love You Like A Love Song,81,188453,False,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,4,dance
+2P4OICZRVAQcYAV2JReRfj,Avicii,Stories,Waiting For Love,81,230613,False,0.579,0.736,6,-3.863,0,0.0527,0.31,0.0,0.198,0.613,127.999,4,dance
+3DarAbFujv6eYNliUTyqtz,Doja Cat;SZA,Planet Her,Kiss Me More (feat. SZA),81,208666,True,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,4,dance
+3iLBFgaQJ94iarMgzrTuWb,Charlie Puth,CHARLIE,I Don’t Think That I Like Her,65,188507,False,0.587,0.548,8,-5.846,0,0.0339,0.396,0.0,0.109,0.713,186.073,4,dance
+2NGPPfcQfNm3f2ym3WHBuf,Charlie Puth,CHARLIE,Charlie Be Quiet!,66,128364,False,0.753,0.662,8,-4.25,1,0.0702,0.205,3.66e-06,0.0851,0.466,94.958,4,dance
+26wLOs3ZuHJa2Ihhx6QIE6,5 Seconds of Summer,13 Reasons Why (Season 3),Teeth,79,204887,False,0.756,0.448,3,-2.993,0,0.0404,0.0508,3.87e-06,0.11,0.431,139.031,4,dance
+2xnQgYC4ri8AssGyUU6Wh1,Akon,OO's Music Grandi Successi,Lonely,5,235266,True,0.627,0.627,5,-5.861,0,0.0341,0.367,0.0,0.294,0.555,90.061,4,dance
+3uUuGVFu1V7jTQL60S1r8z,Lost Frequencies;Calum Scott,Where Are You Now,Where Are You Now,88,148197,False,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,4,dance
+7IzNPxXYjS5XEvLUEVQk7K,Akon,TickTok Back To School 2022,Lonely,4,235266,True,0.627,0.627,5,-5.861,0,0.0341,0.367,0.0,0.294,0.555,90.061,4,dance
+18DsVnI5lVGCH0AHA5YiIx,Sean Paul;Dua Lipa,Girls Night,No Lie,1,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dance
+45DuBoFFZQFmSc1I4ZbirR,Sean Paul;Dua Lipa,Weekend Baby,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dance
+0xlsIZWwkErSWdDn8X3JFV,Sean Paul;Dua Lipa,Отново на училище,No Lie,1,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dance
+1mbMrD4kLNWqW3sfJg8BOc,Cardi B;Kehlani,Midnight Music,Ring,6,177139,False,0.765,0.491,1,-7.859,0,0.145,0.0626,0.0,0.0994,0.56,105.965,4,dance
+31HFDml54UrGjTa4UeKhyv,Sean Paul;Dua Lipa,Autopilot,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dance
+72gv4zhNvRVdQA0eOenCal,Clean Bandit;Zara Larsson,What Is Love? (Deluxe Edition),Symphony (feat. Zara Larsson),76,212733,False,0.715,0.605,0,-5.128,0,0.0428,0.239,1.41e-05,0.189,0.454,122.956,4,dance
+3G70dKeydRzVYsBCLpAjEb,Cardi B;Kehlani,2Step - Pop R'n'B,Ring,0,177139,False,0.765,0.491,1,-7.859,0,0.145,0.0626,0.0,0.0994,0.56,105.965,4,dance
+7nJ0Nz5gsmICYvbcKsT999,Cardi B;Bruno Mars,New RnB,Please Me,0,200889,False,0.75,0.572,1,-6.689,1,0.0652,0.0556,0.0,0.0931,0.663,133.996,4,dance
+0WruWLVRU2VjPupDqBfO2A,Sean Paul;Dua Lipa,Queda poco para la PAES,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dance
+790v3e8mPU6y3dMTOM1vgq,Cardi B;Bruno Mars,On Chill - Rap & RnB,Please Me,0,200889,False,0.75,0.572,1,-6.689,1,0.0652,0.0556,0.0,0.0931,0.663,133.996,4,dance
+4L95oRzU2nqOZTauCNbD11,Sean Paul;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Midas Touch (2022 Remastered),0,179920,True,0.533,0.894,3,-2.289,0,0.314,0.136,0.0,0.212,0.888,87.555,5,dance
+5IyU21Ki6j1AA7lrNlKLmt,Cardi B;Kehlani,Totally Rap,Ring,0,177139,False,0.765,0.491,1,-7.859,0,0.145,0.0626,0.0,0.0994,0.56,105.965,4,dance
+3VTQZWhvI8cwzjoSAJzcED,Cardi B,On Chill - Rap & RnB,Be Careful,0,210787,False,0.835,0.561,6,-8.248,0,0.4,0.0264,0.0,0.095,0.499,152.152,4,dance
+15VZk4nrY1ZKdTouZoaxub,Cardi B,Energy Hip Hop,Press,0,143791,True,0.906,0.525,1,-5.665,1,0.291,0.029,5.76e-06,0.137,0.24,134.027,4,dance
+1ySKXtJ6W0UGGD9AJU3CI3,Cardi B,All Bops,Press,1,143791,True,0.906,0.525,1,-5.665,1,0.291,0.029,5.76e-06,0.137,0.24,134.027,4,dance
+5Mnm0x2GXkY1qcvoGb1sfp,Akon;Snoop Dogg,Bad Boy Club,I Wanna Love You,0,246764,True,0.863,0.501,9,-8.753,0,0.0433,0.0164,0.0,0.272,0.357,99.994,4,dance
+2DpCdPMg1BADE4HDnxt3Rd,Daya,"Sit Still, Look Pretty","Sit Still, Look Pretty",63,202226,False,0.655,0.787,2,-3.031,1,0.264,0.122,3.11e-06,0.178,0.554,181.799,4,dance
+0WUKrS8cEBOV5VSX6PAYLa,Avicii,Autumn Vibes 2022,Gonna Love Ya,0,215813,False,0.718,0.666,3,-6.624,0,0.0488,0.158,0.103,0.129,0.702,100.002,4,dance
+2NtlwRykLnclk7IGodmjmt,Akon,De ese gran pop de los 00's,Lonely,0,235266,True,0.627,0.627,5,-5.861,0,0.0341,0.367,0.0,0.294,0.555,90.061,4,dance
+3Wja6YC2sDo3qKx0H5BFYs,Akon;Snoop Dogg,De ese gran pop de los 00's,I Wanna Love You,0,246764,True,0.863,0.501,9,-8.753,0,0.0433,0.0164,0.0,0.272,0.357,99.994,4,dance
+03NsLoRCuMvgOWTD1fTbim,Cardi B,Hiphopowe nowości,Press,0,143791,False,0.886,0.53,1,-5.738,1,0.31,0.0362,1.76e-05,0.15,0.197,133.845,4,dance
+7yglOIWHwpJHRsIfQPFvVc,Black Eyed Peas,OO's Music Grandi Successi,Rock That Body,3,268840,False,0.715,0.907,7,-6.025,0,0.0993,0.0172,8.39e-05,0.426,0.841,124.991,4,dance
+2hrUO4drrO63i7FYbCLBl2,Clean Bandit;Sean Paul;Anne-Marie,What Is Love? (Deluxe Edition),Rockabye (feat. Sean Paul & Anne-Marie),72,251173,False,0.717,0.73,9,-4.729,0,0.0568,0.383,0.0,0.398,0.792,102.002,4,dance
+58yspqPHi2W7bPfyuQ8HsP,Sean Paul;Sia,Fiesta portatil,Dynamite,2,212668,False,0.624,0.86,8,-3.012,1,0.124,0.0704,0.0,0.0819,0.816,100.897,4,dance
+0KpQR3pyZECOsAXXML72fM,Cardi B;Chance the Rapper,Walk in the Park Rap,Best Life,0,284855,True,0.62,0.625,9,-7.438,1,0.553,0.288,0.0,0.314,0.665,167.911,4,dance
+1JaKuvkBdcr6ym021X2Pq6,Avicii;Agnes;Vargas & Lagola,pov: it's 2019,Tough Love,0,191248,False,0.402,0.755,8,-4.837,1,0.043,0.143,0.0,0.357,0.622,108.17,4,dance
+27g5jb8SH4CZrPWZFVmq97,Cardi B;Bad Bunny;J Balvin,Today's Party Hits,I Like It,0,253390,True,0.815,0.727,5,-3.998,0,0.128,0.101,0.0,0.372,0.649,136.045,4,dance
+4qjubkKcE77TKrK8SRswPy,Avicii,Summer Sweat,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,2,-4.16,1,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+2wvMF4tLWrNRA9cM5fUuN0,Sean Paul,Tropical Vibes,She Doesn't Mind,1,229786,False,0.709,0.795,7,-4.765,0,0.0713,0.000503,1.08e-05,0.222,0.597,120.01,4,dance
+6KDNxqCFmCGu0yd27xvnSG,Black Eyed Peas,Обратно в клас - pop,I Gotta Feeling,1,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+7GVEjM8u2tyrtczh9Z1L0N,Avicii,Summer Music Festival Hits,Last Dance - Radio Edit,0,204375,False,0.52,0.823,0,-5.152,1,0.0363,0.000364,0.289,0.14,0.158,127.981,4,dance
+00Vp4bBQAZ1s9KEIw5MjgQ,Black Eyed Peas,Tutti in piscina Canzoni per bambini,I Gotta Feeling,1,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+6FNR3CddkzolYzctA2CY6b,Sean Paul,Dance Dance Dance,She Doesn't Mind - Gregori Klosman Remix,0,299520,False,0.733,0.812,0,-4.559,0,0.122,0.00125,0.0261,0.0895,0.619,125.027,4,dance
+75UegXE5joSMwu6vZGRDC3,Black Eyed Peas,Workout Hits 2023,I Gotta Feeling,1,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+3mMwmaDw0Z5W0zVgfyA43J,Black Eyed Peas,Almorzando solo,Pump It,0,213613,False,0.648,0.924,9,-3.157,1,0.176,0.00949,0.0,0.564,0.752,153.67,4,dance
+5rZCbYSbQ98GZk0eBqmEKq,Black Eyed Peas,De ese gran pop de los 00's,Where Is The Love?,0,273813,False,0.832,0.702,5,-3.236,1,0.173,0.103,0.0,0.128,0.814,94.097,4,dance
+4GsD2QeWDNtpJiZk9xzvfL,Black Eyed Peas,Sunny Mornings,Where Is The Love?,0,273813,False,0.832,0.702,5,-3.236,1,0.173,0.103,0.0,0.128,0.814,94.097,4,dance
+2a5BDryUuj3S3nDRyEIEuj,Black Eyed Peas,Del gusto de mamá,I Gotta Feeling,0,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+6XO8RlYuJCiI0v3IA48FeJ,Marshmello;Juice WRLD,Bye Bye,Bye Bye,83,108498,True,0.645,0.525,3,-5.399,0,0.0355,0.0574,0.0,0.505,0.238,83.018,4,dance
+4E5P1XyAFtrjpiIxkydly4,Iyaz,Replay,Replay,76,182306,False,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,4,dance
+02VBYrHfVwfEWXk5DXyf0T,Bruno Mars;Anderson .Paak;Silk Sonic,An Evening With Silk Sonic,Leave The Door Open,84,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,dance
+3brfhVrVESFlfqE1IdlFdp,Charlie Puth,CHARLIE,Smells Like Me,60,204079,False,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,4,dance
+2MRfEJTfX12xPY0vx4STNe,Charlie Puth,CHARLIE,No More Drama,55,140041,False,0.555,0.648,11,-6.539,0,0.296,0.693,0.000644,0.128,0.641,195.887,4,dance
+41Fflg7qHiVOD6dEPvsCzO,Fifth Harmony;Kid Ink,Reflection (Deluxe),Worth It (feat. Kid Ink),74,224573,False,0.884,0.765,8,-3.865,1,0.0882,0.063,7.04e-06,0.118,0.594,99.987,4,dance
+7oywdKWSg4V37AE05eT9bX,Charlie Puth,CHARLIE,There’s A First Time For Everything,51,136769,False,0.551,0.737,1,-5.573,1,0.103,0.466,2.74e-06,0.21,0.611,197.997,4,dance
+2RUMDEHxOEUoGbPEtRR4L1,Charlie Puth,CHARLIE,Marks On My Neck,50,138159,False,0.855,0.607,1,-8.587,1,0.0422,0.2,1.84e-05,0.0723,0.943,142.002,4,dance
+7iEKJR7VqhgmOD6KTVR9v0,Ava Max,Christmas Time,Christmas Without You,0,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+29L5vtBPqrZNBXri9CfWQm,Ava Max,It's You - Fresh Hits,Maybe You're the Problem,1,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+7tlJOCt4FeyZQkhsTbddts,Charlie Puth,CHARLIE,Tears On My Piano,49,181124,False,0.557,0.73,1,-5.505,0,0.0939,0.235,2.1e-05,0.114,0.836,192.199,4,dance
+3X2yFYQHaHpfjNr4F25G5Y,Ava Max,US Pop 20s,Maybe You're the Problem,1,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+2SEW9iGFOBMsJnJIRX5z7J,Ava Max,Hits Hits Hits,Maybe You're the Problem,1,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+6WXv3z8Kssj9Gl8F1DYiwC,Ava Max,Cuddle Up Christmas,Christmas Without You,0,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+2qvm1fGZsey4lwP8lHV7lY,Ava Max,Holly Jolly Christmas,Christmas Without You,3,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+6G7EPeSIjwMKCumrKNsnCt,Ava Max,Comme un lundi,My Head & My Heart,0,174760,False,0.614,0.934,9,-3.709,0,0.07,0.0697,0.0,0.121,0.436,116.001,4,dance
+0eDT6epFSSnpIttu29yblP,Megan Thee Stallion;Latto,Energy Hip Hop,Budget,0,201979,True,0.922,0.858,1,-4.185,1,0.251,0.00451,0.0,0.124,0.915,145.033,4,dance
+7qVtdNatyi17uHeCuzqfzy,Ava Max,Christmas Music - Holiday Hits,Christmas Without You,0,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+51NwNXEuRxWKGfLouTd1zR,Megan Thee Stallion;Latto,Gaming Songs 2022: Hard Mode,Budget,0,201979,True,0.922,0.858,1,-4.185,1,0.251,0.00451,0.0,0.124,0.915,145.033,4,dance
+69VRanJlqfWwHHThruNgYq,Ava Max,Hit After Hit,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+0VmcSr1nhFldapVD7A7atA,Ava Max,Back to School!,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+7s9HsiULRT05V1cdp6ChuT,Ava Max,Perfect Christmas Hits,Christmas Without You,0,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+16kByZe7BRCohOyEhd1gzt,Megan Thee Stallion;Latto,Summer Music Festival Hits,Budget,0,201979,True,0.922,0.858,1,-4.185,1,0.251,0.00451,0.0,0.124,0.915,145.033,4,dance
+7ozoh92RhH9OIxLRLNuCZF,Ava Max,New Pop Icons,Tattoo,0,159459,False,0.64,0.637,6,-5.228,1,0.0322,0.129,0.0,0.109,0.793,114.994,4,dance
+1YqLuqPQkDTVbUQtiAE9j5,Ava Max,Cardio Tracks,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+3R2otHkcGwx78SdXFw5Dhl,Ava Max,All That Really Matters - Just Hits,Maybe You're the Problem,1,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+5fvESB5vBG8Rs3bYkNrbQX,Robin Schulz;Tom Walker,Back to School!,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+0mkQxYu8GBzfdlXuxelO5u,Ava Max,Daily Pop Mix,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+3sGmuJB7VYSPoFYjpldx8a,Ava Max,Good Enough - Easy Pop,Who's Laughing Now,2,180348,False,0.648,0.641,7,-5.521,1,0.0389,0.00565,3.63e-06,0.109,0.505,184.021,4,dance
+6zVYlwTqj7D7bRAfalOZg0,Ava Max,I'm Blue - Hits of 2022,Million Dollar Baby,4,184294,False,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,4,dance
+0mGt87s5MXXrDFPWhNdf7r,Ava Max,Merry Christmas,Christmas Without You,0,169245,False,0.654,0.596,1,-4.68,1,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+0k6z8HqAcMml6UUnPwPNVF,Ava Max,Beautiful Trending Hits 2022,Maybe You're the Problem,6,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+74PCszRhDWWJv0mpCCe79l,Ava Max,Pop Hits Now,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+2smULsKvmpUMnp8nDibi6S,Ava Max,Upbeat Pop,Million Dollar Baby,0,184294,False,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,4,dance
+1YMTuiGLg5zP8V6fWL2WVL,Ava Max,Pop Brandneu,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+1rQ6RruR3K2lcAMmN0Kuyb,Black Eyed Peas,OO's Music Grandi Successi,My Humps,4,326960,False,0.802,0.682,1,-5.919,0,0.225,0.112,1.63e-05,0.109,0.586,123.94,4,dance
+5gWTCWosl7R6Ksw1swyuxz,Ava Max,Your Perfect Soundtrack,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+4BSiq6NWxI2wqOXp28FTNf,Ava Max,Baddest of Them All,Million Dollar Baby,0,184294,False,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,4,dance
+1Pbi2GANYWp4ZtfXappkGd,Ava Max,La Fine dell'Estate,Kings & Queens,5,162398,False,0.637,0.69,1,-4.057,0,0.0405,0.00786,0.0,0.124,0.457,129.857,4,dance
+5yCXYuksCJLAbXqKi1q0Ut,Ava Max,Upbeat Pop,Maybe You're the Problem,0,190318,False,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+2NAScCisMuKEYLgvd0c6eL,Ava Max,Summer Music Festival Hits,My Head & My Heart,0,174760,False,0.614,0.934,9,-3.709,0,0.07,0.0697,0.0,0.121,0.436,116.001,4,dance
+6KDNxqCFmCGu0yd27xvnSG,Black Eyed Peas,Обратно в клас - pop,I Gotta Feeling,1,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+3Qb13vRv3zludproxlfl4U,Ava Max,Happy Commute,OMG What's Happening,0,179831,False,0.698,0.854,9,-3.84,0,0.0451,0.101,0.0,0.107,0.931,124.042,4,dance
+7Mt8GIDf1p88EbPQ8avfsY,Ava Max,La Fine dell'Estate,Sweet but Psycho,1,187436,False,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4,dance
+3Bo6gBBplVAl6knwfKu8jy,Ava Max;KOLIDESCOPES,Am I Ready - Pop Night Out,Who's Laughing Now - KOLIDESCOPES Remix,0,200405,False,0.726,0.823,7,-6.872,1,0.302,0.105,0.00822,0.0571,0.372,119.984,4,dance
+7lnXTJJlkRyYH5z9MG5n6g,Ava Max,Comme un lundi,Sweet but Psycho,2,187436,False,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4,dance
+7Isu2E0wfZ7b1dzO44Ilu8,Ava Max,Give You Love - Cozy Hits,Who's Laughing Now,1,180348,False,0.648,0.641,7,-5.521,1,0.0389,0.00565,3.63e-06,0.109,0.505,184.021,4,dance
+0WjWcbAurU0tbno6F6X1DE,Ava Max;Until Dawn,Dance Dance Dance,Kings & Queens - Until Dawn Remix,0,195121,False,0.614,0.894,1,-5.627,0,0.0328,0.00014,0.000308,0.263,0.444,122.951,4,dance
+3vk4HwTyDtgElya7CK0f3y,Ava Max;James Carter,EDM Hits,Kings & Queens - James Carter Remix,0,136190,False,0.718,0.866,1,-5.55,0,0.0403,0.0048,5.64e-05,0.226,0.646,126.001,4,dance
+7BkGPqc6eufUYOuAaPyiPh,Black Eyed Peas,De ese gran pop de los 00's,I Gotta Feeling,0,289493,False,0.746,0.793,0,-5.725,1,0.0265,0.0519,0.0,0.421,0.656,127.973,4,dance
+1i36kkhmhBxf4lYJscg5zK,Bazzi,COSMIC,Fantasy,75,148229,True,0.699,0.668,5,-4.272,0,0.0336,0.154,3.2e-06,0.362,0.314,144.105,4,dance
+46ydq5g3k17iLJs3qMDvO6,Astrid S,Astrid S,Hurts So Good,69,208728,False,0.675,0.609,7,-5.027,0,0.0586,0.084,0.0,0.0957,0.378,120.039,4,dance
+6ic8OlLUNEATToEFU3xmaH,Britney Spears,Blackout,Gimme More,79,251240,False,0.788,0.844,2,-3.131,1,0.0334,0.25,0.000678,0.0723,0.382,113.324,4,dance
+71R6zJsrF3ffc3TBFHfivX,Mohombi,MoveMeant (International),Bumpy Ride,72,224720,False,0.706,0.842,0,-4.628,0,0.038,0.0476,0.0,0.134,0.818,104.958,4,dance
+0QBzMgT7NIeoCYy3sJCof1,Camila Cabello;Ed Sheeran,Bam Bam (feat. Ed Sheeran),Bam Bam (feat. Ed Sheeran),87,206070,False,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,4,dance
+0RwQG3x5q1HE0CDetUuYFk,Wiz Khalifa;PARTYNEXTDOOR,Midnight Music,Late Night Messages,1,282740,True,0.79,0.616,10,-7.397,0,0.0983,0.0865,2.34e-05,0.22,0.312,92.967,4,dance
+5jGbxKNLOEWZoOmVpcYbJO,Wiz Khalifa,Hip Hop Vibes,Memory Lane,0,166773,True,0.789,0.71,4,-4.574,0,0.353,0.37,0.0,0.155,0.826,95.178,4,dance
+6I2tOKBqqIUhxEVKnolGjx,Wiz Khalifa,Hip Hop & R'n'B,Memory Lane,0,166773,True,0.789,0.71,4,-4.574,0,0.353,0.37,0.0,0.155,0.826,95.178,4,dance
+3n2lUfmtaYuqMSR8tDo8F0,Wiz Khalifa,Contemporary Hip Hop,Memory Lane,0,166773,True,0.789,0.71,4,-4.574,0,0.353,0.37,0.0,0.155,0.826,95.178,4,dance
+0tPyKRyhswSCMlOfKbR4Au,Wiz Khalifa;Ty Dolla $ign,Walk in the Park Rap,Something New,0,200773,True,0.816,0.637,7,-6.602,0,0.0784,0.0918,0.0,0.0892,0.783,87.584,4,dance
+7ywkgsA1ESYARdGqqbundd,Wiz Khalifa;PARTYNEXTDOOR,Walk in the Park Rap,Late Night Messages,0,282740,True,0.79,0.616,10,-7.397,0,0.0983,0.0865,2.34e-05,0.22,0.312,92.967,4,dance
+7JQJH07Mo4UQDBBVR2cKNh,Wiz Khalifa;Girl Talk,Hits Hits Hits,Big Daddy Wiz,0,131039,True,0.9,0.795,0,-5.056,1,0.073,0.107,0.00631,0.131,0.745,101.978,4,dance
+5QNFpjUpjZ2X9YgzIdDDhy,Wiz Khalifa;Swae Lee,Hip Hop Slow Jamz,Hopeless Romantic,0,226742,True,0.877,0.477,9,-7.379,0,0.0589,0.307,0.0,0.0929,0.552,127.026,4,dance
+01xqHIwd7hQLROgelUQ6w2,Wiz Khalifa;Girl Talk,Pushin P - Top Rap,Big Daddy Wiz,0,131039,True,0.9,0.795,0,-5.056,1,0.073,0.107,0.00631,0.131,0.745,101.978,4,dance
+4lGSIRb6BlkjdudJ7T41Ai,Wiz Khalifa;Lil Skies,Rap Party,Fr Fr,0,195590,False,0.914,0.497,1,-7.488,0,0.202,0.114,2.9e-05,0.282,0.324,140.003,4,dance
+0Rz7S7DSsiROEWR2mH5DwI,Wiz Khalifa;PARTYNEXTDOOR,Music for Rainy Days,Rain,0,153123,False,0.401,0.406,8,-7.647,1,0.0381,0.0327,0.0,0.296,0.102,187.399,4,dance
+4dgZYStQEE9h1SbMS4B2MY,Megan Thee Stallion;Future,Ghetto Superstar - New Rap Classics,Pressurelicious,1,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+4YU2HODpoaTGigDJYCv5xM,Wiz Khalifa;Girl Talk,Tic Tac - Just Rap,Big Daddy Wiz,0,131039,True,0.9,0.795,0,-5.056,1,0.073,0.107,0.00631,0.131,0.745,101.978,4,dance
+2xJCMIJfcNYDc5iR0sAm2O,Dua Lipa,Dua Lipa (Complete Edition),New Rules,60,209320,False,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,dance
+2puCdLnS6sKRdbEabw4bjP,Wiz Khalifa,Ghetto Superstar - New Rap Classics,Bad Ass Bitches,0,118466,True,0.904,0.601,2,-5.561,1,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+5ahT6m90wUC9gnnwvEz30d,Megan Thee Stallion;Future,Hits à suivre 2022,Pressurelicious,1,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+4DW67oWO4QPhVQ6TFIr8ES,Megan Thee Stallion;Future,It's You - Fresh Hits,Pressurelicious,1,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+1a9WnAnDIb1Pbx3PND5k7d,Megan Thee Stallion;Future,Hits Hits Hits,Pressurelicious,0,173061,False,0.843,0.709,11,-5.165,1,0.251,0.0103,0.0,0.106,0.655,146.951,4,dance
+34qxi6dCXAb90enc88oYfY,Wiz Khalifa;PARTYNEXTDOOR,Pop Station,Rain,0,153123,True,0.636,0.435,8,-7.577,1,0.0292,0.0613,0.0,0.289,0.0831,94.025,4,dance
+69BO1hNbEZ62hZcq5qGs8Q,Megan Thee Stallion;Lucky Daye,Good Enough - Easy Pop,Star,0,210160,False,0.797,0.682,1,-4.967,1,0.0595,0.0207,0.0003,0.106,0.277,96.057,4,dance
+0pp7ZaS8BM0t3iB3DzioJ0,Wiz Khalifa,Walk - Fresh Rap Flow,Bad Ass Bitches,0,118466,True,0.904,0.601,2,-5.561,1,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+2NEhxLuoy6tKtLhm7D6Sp0,Wiz Khalifa,Energy Hip Hop,Bad Ass Bitches,0,118466,True,0.904,0.601,2,-5.561,1,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+4ZSFKEQMre7LJUkUEW28oA,Wiz Khalifa,Sailor on the Moon - Hot New Rap,Bad Ass Bitches,0,118466,True,0.904,0.601,2,-5.561,1,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+6fCuXxMlr6Wz0MzQgtQLgd,Wiz Khalifa,Hiphopowe nowości,Bad Ass Bitches,0,118466,True,0.904,0.601,2,-5.561,1,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+5jyPgh9K0YlyhlVGQzFsbO,Robin Schulz;David Guetta,House Anthems,On Repeat,5,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+09IG8bQXzDrYbRbYvizze1,Megan Thee Stallion;Future,Pushin P - Top Rap,Pressurelicious,2,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+6Rnmu3xQeJMVc6OvACEBES,Wiz Khalifa,Summer Music Festival Hits,Iced Out Necklace,0,155760,True,0.898,0.744,2,-4.524,1,0.0931,0.000253,0.0,0.268,0.299,147.991,4,dance
+7j3pomrNfXTUtjjdLwlIHh,Megan Thee Stallion;Future,Tic Tac - Just Rap,Pressurelicious,0,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+6el8cnFNWeNhDTWeWszXBk,Megan Thee Stallion;Lucky Daye,The Look - R&B Feels,Star,0,210160,True,0.795,0.694,1,-5.053,1,0.0595,0.0183,0.000186,0.115,0.327,96.046,4,dance
+0XDo1WmF8c70NuTZcMP2FH,Robin Schulz;David Guetta,WORKOUT MOTIVATION,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+30N3ooKWHxzKVb5VHrS5mH,Megan Thee Stallion;Future,Energy Hip Hop,Pressurelicious,0,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+07W9dCuWP8v9Ic5pbCcR8s,Megan Thee Stallion;Future,Walk - Fresh Rap Flow,Pressurelicious,0,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+2gJPuDwF9bnEZb0F5r5AYE,Megan Thee Stallion;Future,Sailor on the Moon - Hot New Rap,Pressurelicious,0,173061,True,0.845,0.723,11,-5.18,1,0.263,0.0112,0.0,0.107,0.667,146.972,4,dance
+61tnfFfea71XruDZadOUmu,Wiz Khalifa,Rap Ice,Still Wiz,0,170987,False,0.833,0.664,4,-5.358,0,0.135,0.0537,0.0,0.0637,0.334,90.052,4,dance
+4lftmZjJPhQ9fR67DFiO8n,Robin Schulz;Francesco Yates,Comme un lundi,Sugar,3,219043,False,0.635,0.813,5,-5.098,0,0.0578,0.0187,0.0,0.163,0.641,123.065,4,dance
+7py6vU2H9mlNd14m4g89gy,Robin Schulz;Tom Walker,Hits à suivre 2022,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+3YBI2buUJJOgjtPB14dO7v,Robin Schulz;Tom Walker,Hit After Hit,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+3w7JADbLdKE1Qta6aH0SC6,Wiz Khalifa;Snoop Dogg,R'n'B Studying,Penthouse,0,200437,True,0.878,0.723,10,-6.66,0,0.0599,0.145,0.0,0.708,0.534,119.04,4,dance
+5fvESB5vBG8Rs3bYkNrbQX,Robin Schulz;Tom Walker,Back to School!,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+3rX3R3OoyikoECxdgQ9tnL,Robin Schulz;Tom Walker,Cardio Tracks,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+4VDAAeMGq6AQZi1GzO8SQS,Robin Schulz;Alida,Cardio Tracks,In Your Eyes,3,208222,False,0.57,0.672,8,-5.888,0,0.0716,0.172,1.04e-06,0.0768,0.461,120.018,4,dance
+62lmjlPu5Vwd3h18FMSz1G,Wiz Khalifa;Charlie Puth,Give You Love - Cozy Hits,See You Again,2,229525,False,0.69,0.48,10,-7.503,1,0.0816,0.369,0.0,0.0649,0.286,80.025,4,dance
+0FtOxBrDP67usYNbqOuy7T,Wiz Khalifa;Charlie Puth,On Chill - Rap & RnB,See You Again,0,229525,False,0.69,0.48,10,-7.503,1,0.0816,0.369,0.0,0.0649,0.286,80.025,4,dance
+2nl7FV62VnaIV80DCca2gk,Robin Schulz;Tom Walker,Pop Brandneu,Sun Will Shine,0,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+778O8HQJFNDZS8KHMjVU9R,Robin Schulz;Tom Walker,Brandneu Dance,Sun Will Shine,1,201700,False,0.534,0.714,6,-6.347,0,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+60ynsPSSKe6O3sfwRnIBRf,Doja Cat,Hot Pink,Streets,83,226986,True,0.749,0.463,11,-8.433,1,0.0842,0.21,0.0382,0.338,0.189,90.035,4,dance
+1IIKrJVP1C9N7iPtG6eOsK,Chris Brown;Young Thug,Slime & B,Go Crazy,78,176960,True,0.755,0.578,0,-8.932,0,0.145,0.316,0.0,0.25,0.581,94.148,4,dance
+0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,24K Magic,That's What I Like,83,206693,False,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,4,dance
+3ebXMykcMXOcLeJ9xZ17XH,Martin Garrix;Dua Lipa,Scared to Be Lonely,Scared to Be Lonely,78,220883,False,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,4,dance
+6ZANrVuAMp2rpjhfbOuJly,Selena Gomez,Revival (Deluxe),Same Old Love,71,229080,False,0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,4,dance
+47BBI51FKFwOMlIiX6m8ya,Backstreet Boys,Millennium,I Want It That Way,81,213306,False,0.689,0.694,6,-5.83,0,0.027,0.257,0.0,0.148,0.482,99.039,4,dance
+7eQHxigpuDJjCG50JyzU8v,MAX;Ali Gatie,Butterflies,Butterflies,76,191250,False,0.7,0.613,11,-4.041,1,0.0408,0.385,0.0,0.0887,0.42,88.084,4,dance
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Future Nostalgia,Don't Start Now,81,183290,False,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,4,dance
+0TDLuuLlV54CkRRUOahJb4,David Guetta;Sia,Nothing but the Beat (Ultimate Edition),Titanium (feat. Sia),80,245040,False,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,4,dance
+6T689Jvh5KrSXyaPtUWZtQ,Britney Spears,Femme Fatale (Deluxe Version),Criminal,72,225080,False,0.696,0.734,7,-5.294,1,0.0298,0.0485,0.0,0.183,0.711,107.987,4,dance
+6wmAHw1szh5RCKSRjiXhPe,Charlie Puth,Voicenotes,How Long,73,200853,False,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,4,dance
+6kls8cSlUyHW2BUOkDJIZE,Ellie Goulding;Juice WRLD,Hate Me (with Juice WRLD),Hate Me (with Juice WRLD),74,186223,False,0.657,0.768,8,-4.628,1,0.0507,0.108,0.0,0.144,0.759,75.025,4,dance
+7uoFMmxln0GPXQ0AcCBXRq,Sia,Everyday Is Christmas (Deluxe Edition),Snowman,78,165906,False,0.716,0.512,1,-6.257,1,0.0331,0.483,0.0,0.0928,0.326,104.957,3,dance
+3w9i7F6nze5mODaJstlVWt,Ty Dolla $ign;Musiq Soulchild;Tish Hyman;6LACK,Slow Down Soul,Your Turn,1,319555,True,0.533,0.389,0,-9.175,1,0.0542,0.18,0.0,0.112,0.248,145.894,4,dance
+4jp4Z02kzzg8gK0NmDGgml,K-391;Alan Walker;Tungevaag;Mangoo,Play,Play,70,167976,False,0.52,0.798,6,-5.498,0,0.0391,0.101,0.0,0.0932,0.168,101.944,4,dance
+4iLLyEZv9m2koIAjLDA04i,Ty Dolla $ign;The Weeknd;Wiz Khalifa;DJ Mustard,Good Vibes,Or Nah - Remix,2,242922,False,0.793,0.348,1,-8.5,0,0.0855,0.214,0.0,0.0964,0.155,121.919,4,dance
+32OlwWuMpZ6b0aN2RZOeMS,Mark Ronson;Bruno Mars,Uptown Special,Uptown Funk (feat. Bruno Mars),83,269666,True,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,4,dance
+0k2GOhqsrxDTAbFFSdNJjT,Sean Paul,The Trinity,Temperature,79,218573,False,0.951,0.6,0,-4.675,0,0.0685,0.106,0.0,0.0712,0.822,125.04,4,dance
+1VQIWTMzZUeJM5HmLwaKEp,Ty Dolla $ign;Kehlani,2Step - Pop R'n'B,Universe,3,220138,False,0.596,0.473,9,-9.381,0,0.218,0.0273,0.0,0.203,0.365,157.0,4,dance
+5JzX4z7nOrstlzGbwd1hOJ,Ty Dolla $ign;Post Malone,Tic Tac - Just Rap,Spicy,0,143375,True,0.782,0.51,4,-5.724,0,0.0419,0.143,0.0,0.115,0.118,99.993,4,dance
+1PyLgsWqPsYyce2sAYOo7c,Ty Dolla $ign;Kehlani,New RnB,Universe,0,220138,False,0.596,0.473,9,-9.381,0,0.218,0.0273,0.0,0.203,0.365,157.0,4,dance
+0EKqoSFmZW4dqaJvlEJtMe,Ty Dolla $ign;Post Malone,Good Vibes,Spicy,3,143375,False,0.785,0.523,7,-5.853,1,0.0489,0.144,0.0,0.117,0.134,100.002,4,dance
+1QhGycrwJKEOBKeVFOEPak,Ty Dolla $ign;Post Malone,New Rap 20s,Spicy,0,143375,True,0.782,0.51,4,-5.724,0,0.0419,0.143,0.0,0.115,0.118,99.993,4,dance
+0M7kvopFlauSwmfObUPzAx,Ty Dolla $ign;Kiana Ledé,Holly Jolly Christmas,Alone for Christmas,1,175347,False,0.69,0.745,3,-8.848,1,0.205,0.167,0.0,0.184,0.666,155.992,4,dance
+06vqoU6oPRPPkILm8tyBRo,Ty Dolla $ign;The Weeknd;Wiz Khalifa;DJ Mustard,On Chill - Rap & RnB,Or Nah - Remix,0,242983,True,0.804,0.329,1,-8.711,0,0.101,0.22,0.0,0.105,0.214,121.969,4,dance
+21NimLGgXhfEbIXsIiPHXy,Ty Dolla $ign;Post Malone,Pushin P - Top Rap,Spicy,2,143375,True,0.782,0.51,4,-5.724,0,0.0419,0.143,0.0,0.115,0.118,99.993,4,dance
+7LMWOSOTxSMxABmkpG2YK3,Ty Dolla $ign;Post Malone,New Rap Icons,Spicy,0,143375,False,0.785,0.523,7,-5.853,1,0.0489,0.144,0.0,0.117,0.134,100.002,4,dance
+3ym8ZuRQtZ7rSEbXkT3eJE,Ty Dolla $ign;Jhené Aiko;Mustard,20's R'n'B,By Yourself,0,148927,True,0.771,0.526,1,-6.844,1,0.0718,0.0804,0.0,0.663,0.182,104.036,4,dance
+2USlegnFJLrVLpoVfPimKB,Gabry Ponte;LUM!X;Prezioso,Thunder,Thunder,80,160000,False,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,3,dance
+6SBiO0ai9ntitAxZvyqpsw,Ty Dolla $ign;Kanye West;FKA twigs;Skrillex,Totally Rap,Ego Death,0,231618,False,0.818,0.598,10,-5.948,0,0.113,0.0573,1.32e-06,0.634,0.331,111.052,4,dance
+3G1o1dkJIyY38yfiVDkwNP,Ty Dolla $ign;Kanye West;FKA twigs;Skrillex,20's R'n'B,Ego Death,0,231618,False,0.818,0.598,10,-5.948,0,0.113,0.0573,1.32e-06,0.634,0.331,111.052,4,dance
+2VbFMd1gO1oFeT9xrQOCFj,Demi Lovato;Speed Radio,Best Viral Tunes,Cool for the Summer - Sped Up (Nightcore),0,191912,True,0.561,0.599,2,-8.209,0,0.0749,0.00751,0.000701,0.316,0.264,125.874,4,dance
+4VFre5iu3eUunkIpsx7h6W,Demi Lovato;Speed Radio,Viral Şarkılar,Cool for the Summer - Sped Up (Nightcore),0,191912,True,0.561,0.599,2,-8.209,0,0.0749,0.00751,0.000701,0.316,0.264,125.874,4,dance
+6qWeqJ60UKUr5jET9q5RA3,Robin Schulz;David Guetta,Hot Mix Pop,On Repeat,1,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+2Wpr8kAVSHp5RvTXhBWtwp,Demi Lovato,Halloween Party 2022,Dancing With The Devil,2,243992,False,0.392,0.642,0,-5.813,0,0.0431,0.269,0.0,0.11,0.129,75.279,4,dance
+0XDo1WmF8c70NuTZcMP2FH,Robin Schulz;David Guetta,WORKOUT MOTIVATION,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+20FES5xEM7VH45trvpO3jS,Demi Lovato,Almorzando solo,Cool for the Summer,0,214739,False,0.581,0.609,10,-5.6,0,0.0357,0.00366,0.000145,0.13,0.312,114.05,4,dance
+1SacjiJXVYiv3ydALqEchb,Robin Schulz;David Guetta,"#Multiverse, If the Multiverse Is Real",On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+046L0dVjGu0cYGKedb1Ho5,Demi Lovato,Queda poco para la PAES,Cool for the Summer,0,214739,False,0.581,0.609,10,-5.6,0,0.0357,0.00366,0.000145,0.13,0.312,114.05,4,dance
+2IUKSarmdxH3JeiSa2UZx2,Demi Lovato,Concierto en la ducha,Sorry Not Sorry,0,203760,True,0.705,0.643,11,-6.929,0,0.232,0.0242,0.0,0.262,0.884,143.944,4,dance
+0L2qDAiaEd5llRVzQjr4oL,Demi Lovato,Fiesta de disfraces vol. II,Cool for the Summer,0,214739,False,0.581,0.609,10,-5.6,0,0.0357,0.00366,0.000145,0.13,0.312,114.05,4,dance
+7aIEY85BK4Y9LQwT0MXz2V,Robin Schulz;David Guetta,EDM Hits,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+0qXBEvyDJ9bSPKRXJ0pMxy,Robin Schulz;David Guetta,Pop Hits Now,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+3RP5k1fpIeAoRIXI3NRbvu,Demi Lovato,Halloween Party 2022,Dancing With The Devil,0,243992,False,0.392,0.642,0,-5.813,0,0.0431,0.269,0.0,0.11,0.129,75.279,4,dance
+2iZH4DDQr3vpfCLHqbxClj,Robin Schulz;David Guetta,Today's Party Hits,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+1oPVaIIa8AFAN8XWBqleuF,Robin Schulz;David Guetta,Brandneu Dance,On Repeat,1,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+5JDmVwlWTzbwpxm1Qx9oFh,Robin Schulz;David Guetta,From The Ashes - New Beats,On Repeat,0,190217,False,0.609,0.801,1,-8.483,0,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+0fsnKLCITu2idEAz14vlWZ,Kygo;Avicii;Sandro Cavazza,pov: it's 2020,Forever Yours - Avicii Tribute,0,193846,False,0.53,0.612,10,-8.794,1,0.0518,0.253,0.0,0.246,0.433,119.255,4,dance
+3Jzv8kj8UoP9ntmEBDab65,Robin Schulz;Francesco Yates,Summer Music Festival Hits,Sugar,0,219043,False,0.635,0.813,5,-5.098,0,0.0578,0.0187,0.0,0.163,0.641,123.065,4,dance
+0mhMSxIx2XnXCF7PDLjUGG,Ty Dolla $ign;Lil Wayne;The-Dream,Rap Ice,Love U Better,0,181872,False,0.627,0.562,10,-6.268,0,0.0364,0.0628,0.0,0.31,0.389,95.054,4,dance
+7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,Doo-Wops & Hooligans,Just the Way You Are,82,220734,False,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,4,dance
+6uBhi9gBXWjanegOb2Phh0,Zedd;Alessia Cara,Stay,Stay,76,210090,False,0.69,0.622,5,-5.025,0,0.0622,0.253,0.0,0.116,0.544,102.04,4,dance
+6f5ExP43esnvdKPddwKXJH,NEIKED;Mae Muller;Polo G,Better Days (NEIKED x Mae Muller x Polo G),Better Days (NEIKED x Mae Muller x Polo G),82,160656,False,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,4,dance
+3MEYFivt6bilQ9q9mFWZ4g,Marshmello,Alone,Alone,73,273802,False,0.631,0.953,2,-3.739,1,0.0343,0.0241,0.0155,0.108,0.422,141.99,4,dance
+6l0Ky2PycJV1Bz88kFeVGL,Hailee Steinfeld;BloodPop®,Fifty Shades Freed (Original Motion Picture Soundtrack),Capital Letters,70,219373,False,0.661,0.814,0,-5.529,1,0.0759,0.0337,8.27e-06,0.0518,0.459,99.963,4,dance
+1x5sYLZiu9r5E43kMlt9f8,Clean Bandit;Zara Larsson,Symphony (feat. Zara Larsson),Symphony (feat. Zara Larsson),75,212459,False,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,4,dance
+76FZM38RC8XaAjJ77CVTNe,Ariana Grande,Dangerous Woman,Into You,76,244453,False,0.623,0.734,9,-5.95,1,0.107,0.0162,1.9e-06,0.145,0.372,107.853,4,dance
+1oew3nFNY3vMacJAsvry0S,Rixton,Let The Road,Me And My Broken Heart,79,193733,False,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084,4,dance
+6b3b7lILUJqXcp6w9wNQSm,Sia;Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills (feat. Sean Paul),69,224813,False,0.592,0.8,6,-4.931,0,0.215,0.0561,2.01e-06,0.0775,0.728,89.972,4,dance
+6LXIhiXK8z1KLd3giR904b,Charlie Puth,Smells Like Me,Smells Like Me,74,204079,False,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,4,dance
+017PF4Q3l4DBUiWoXk4OWT,Dua Lipa,Future Nostalgia,Break My Heart,78,221820,False,0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,4,dance
+7jEyX4bqaCSdMN4D4JNnVj,Jonas Blue;William Singe,Blue,Mama,74,184133,False,0.738,0.794,11,-4.118,0,0.0416,0.101,0.0,0.0533,0.566,104.014,4,dance
+46u5B2WN4wryYLZuMAOmI4,Astrid S,Leave It Beautiful (Complete),Hurts So Good,71,208728,False,0.672,0.625,7,-5.068,0,0.0468,0.0774,0.0,0.0934,0.423,120.038,4,dance
+1KixkQVDUHggZMU9dUobgm,Ava Max,Heaven & Hell,My Head & My Heart,78,174760,False,0.614,0.934,9,-3.709,0,0.07,0.0697,0.0,0.121,0.436,116.001,4,dance
+21TcDbGosp7w9YhTjOszgA,Shawn Mendes,Handwritten (Deluxe),Imagination,75,217773,False,0.64,0.455,0,-5.942,1,0.0247,0.0743,0.0,0.0694,0.333,89.948,4,dance
+5R3zrKrpaZWwXmyDo7lCEr,Jason Derulo;Kodak Black,Daily Pop Mix,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+0AS63m1wHv9n4VVRizK6Hc,Shawn Mendes,Illuminate (Deluxe),Mercy,82,208733,False,0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128,4,dance
+0lUSd7TCG8srh6HpIAEIWL,Little Mix,Glory Days (Expanded Edition),Power,78,247840,False,0.566,0.855,7,-4.016,1,0.211,0.0372,0.000157,0.181,0.517,172.966,4,dance
+6OfsGbjxU40AQ04NKFnzgC,Jason Derulo;Kodak Black,Pop Hits Now,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+2ccbaU2kyfRbCIBYSt85Zm,Jason Derulo;Kodak Black,Back to School!,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+4VrWlk8IQxevMvERoX08iC,Sia,1000 Forms Of Fear,Chandelier,80,216120,False,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,5,dance
+2M4AqxOWmUWaSRP7E4TMDm,Jason Derulo;Kodak Black,20's R'n'B,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+3DGv7g1poqft9DSaVRk6O2,Jason Derulo;Kodak Black,Upbeat Pop,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+471c3IMaDIBnpDQasfuel4,Jason Derulo;Kodak Black,New Grooves,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+7DYGTa0G2lMRU8dO9J5nSf,Jason Derulo;Kodak Black,All That Really Matters - Just Hits,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+4WTeQpM2oukH9eiD43WU9O,Jason Derulo;Kodak Black,New Arrivals,Slidin',1,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+3zlGtQSHFNliifQeMJvuXN,Jason Derulo;Kodak Black,US Pop 20s,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+075r3ScgqCYGNrLijRqasN,Jason Derulo;Kodak Black,For the Girls: Summer Hits,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+6P5umKelG16skc2qF6G8mM,Jason Derulo;Kodak Black,Am I Ready - Pop Night Out,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+12eaW6wPDSW4EXNkapb4nK,Jason Derulo;Kodak Black,Good Vibes,Slidin',3,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+4wO3sNZ7lpUCLPIKnR8XYb,Jason Derulo;Kodak Black,Hits Hits Hits,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+6tgXEYkOJjKHMqPKZrChAN,Jason Derulo,Upbeat 20's,Slidin',5,156300,False,0.678,0.849,11,-2.11,0,0.125,0.172,0.0,0.0996,0.764,100.005,4,dance
+0lgrahSN7EGAwDkA1S2cIl,Jason Derulo,Happy Commute,Slidin',0,156300,False,0.678,0.849,11,-2.11,0,0.125,0.172,0.0,0.0996,0.764,100.005,4,dance
+6sSRctLeXIdEr1G7db8T6f,Jason Derulo;Kodak Black,New Pop Classics,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+2DB4DdfCFMw1iaR6JaR03a,Camila Cabello;Ed Sheeran,Familia,Bam Bam (feat. Ed Sheeran),82,206070,False,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,4,dance
+3BiSQ8LoCjaOcPw8JuqGS8,Jason Derulo;Kodak Black,I'm Blue - Hits of 2022,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+1Y3KNXxCef7sXzE5GJEnBj,Jason Derulo;Kodak Black,Your Perfect Soundtrack,Slidin',0,156300,True,0.695,0.884,11,-1.953,0,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+6vYmcV1rKAs5YTcdBFOrtM,Jason Derulo,New RnB,F It Up,0,157078,True,0.847,0.853,11,-4.724,0,0.123,0.11,0.0,0.14,0.811,100.006,4,dance
+2nV6vL8xAxUrsUhRWDHW4R,Jason Derulo,Good Vibes,Take You Dancing,1,190306,False,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,4,dance
+4In9tfYkdjm3Qro0XhjI0u,Jason Derulo,New Pop Icons,Pull-Up,0,186973,True,0.643,0.759,1,-4.693,1,0.156,0.00258,2.68e-06,0.0612,0.46,191.959,4,dance
+4yrU7Q7p7xxeL8mGT6MGYb,Jason Derulo,Today's Party Hits,Acapulco,0,139672,False,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,4,dance
+3UctqOpzo8MGBCI7BTgwoG,Jason Derulo,Feeling Good,Acapulco,0,139672,False,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,4,dance
+7d6z6f8WSKjoPlLbmcY8TS,Jason Derulo,Modern R&B Love,Be the One,1,161035,True,0.738,0.782,0,-3.562,1,0.095,0.143,0.0,0.106,0.498,110.117,4,dance
+1PfKlI3meKa8CBfDxJiCwy,Jason Derulo,Today's Party Hits,Take You Dancing,0,190306,False,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,4,dance
+6X0ND6OAWhS4Ueo3gEt8Lu,Jason Derulo;Snoop Dogg,Pop Station,Wiggle,0,193295,False,0.696,0.621,9,-6.886,0,0.248,0.0802,0.0,0.162,0.721,81.944,4,dance
+5itzMvVywRJScC9DUyHpzZ,Jason Derulo,Good Enough - Easy Pop,It Girl,0,192200,False,0.667,0.718,1,-4.736,0,0.0605,0.0165,0.0,0.104,0.345,91.993,4,dance
+4ypHsbn2y6aXKuDCHDrYT6,Jason Derulo,Tropical Vibes,Acapulco,0,139672,False,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,4,dance
+3QZfZvHStv6kDKQ4PkWnd7,Jason Derulo,Feeling Good,Take You Dancing,0,190306,False,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,4,dance
+5w7WThQajSkiot89EkoqRa,Jason Derulo,Running Songs,Want to Want Me,1,206280,True,0.772,0.643,0,-6.24,0,0.063,0.0102,0.0,0.0705,0.669,114.031,4,dance
+2SDOSPZJz2RWPSE5cSkTbT,Jason Derulo,10's Dance Classics,In My Head - Klubjumpers Extended Mix,0,358595,False,0.693,0.978,0,-3.943,0,0.0525,0.00491,1.59e-05,0.0874,0.545,128.013,4,dance
+3UrNOHCzVxX2KZbNcKQAyu,Nicki Minaj;Lil Wayne,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),High School,67,218746,True,0.531,0.683,1,-4.093,0,0.333,0.135,0.00265,0.22,0.212,84.817,4,dance
+2cEmWBBlCfR9wWrY9JmTyt,ZAYN,Icarus Falls,Let Me,68,185373,False,0.46,0.566,9,-5.637,1,0.0502,0.239,5.96e-06,0.0967,0.189,168.408,4,dance
+5xdVqHtFS0eLuNp4Z8Wbpa,Selena Gomez;A$AP Rocky,Revival (Deluxe),Good For You,69,221280,False,0.607,0.673,5,-6.484,0,0.0611,0.181,0.0,0.069,0.215,88.952,4,dance
+5q35GiekvBr6oAsCsW8YlR,Martin Garrix,Animals,Animals,56,303040,True,0.676,0.857,1,-6.7,1,0.0391,0.00149,0.674,0.307,0.0378,128.01,4,dance
+6lknMmJZALXxx7emwwZWLX,Madonna;Sickick,Frozen,Frozen,76,120157,False,0.706,0.633,1,-9.584,1,0.0419,0.267,0.0192,0.175,0.375,110.005,4,dance
+4zRZAmBQP8vhNPf9i9opXt,Why Don't We,8 Letters,8 Letters,74,190026,False,0.607,0.478,1,-5.702,0,0.031,0.649,0.0,0.0928,0.255,88.979,4,dance
+6kxaaIeowajN7w21PfMLbu,Halsey,So Good,So Good,77,176058,False,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,0.311,164.998,4,dance
+463CkQjx2Zk1yXoBuierM9,Dua Lipa;DaBaby,Levitating (feat. DaBaby),Levitating (feat. DaBaby),78,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,dance
+5GkQIP5mWPi4KZLLXeuFTT,Ariana Grande;Doja Cat,Positions,motive (with Doja Cat),78,167989,True,0.789,0.742,10,-5.664,0,0.0652,0.0681,0.0,0.166,0.661,116.965,4,dance
+3Dv1eDb0MEgF93GpLXlucZ,Doja Cat,Hot Pink,Say So,79,237893,True,0.787,0.673,11,-4.583,0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,4,dance
+1rIKgCH4H52lrvDcz50hS8,Zara Larsson,So Good,Lush Life,78,201122,False,0.694,0.712,7,-3.923,0,0.046,0.132,0.0,0.211,0.799,98.023,4,dance
+4zN21mbAuaD0WqtmaTZZeP,James Hype;Miggy Dela Rosa,Ferrari,Ferrari,90,186661,False,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,dance
+0dynHt8F4nhXiwolAdiLW5,Jay Sean,My Own Way,Ride It (Kya Yehi Pyar Hai),56,193706,False,0.749,0.566,11,-7.79,0,0.0752,0.39,0.0,0.0961,0.725,93.017,4,dance
+7t3Xdbufg7q2onVsR8RBdY,Sam Smith,Love Goes,Fire On Fire,78,246735,False,0.584,0.408,1,-7.356,0,0.0461,0.476,0.0,0.18,0.333,115.129,4,dance
+4NBTZtAt1F13VvlSKe6KTl,The Chainsmokers;Kelsea Ballerini,Sick Boy,This Feeling,73,197946,False,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,4,dance
+3LEgGAl9zLcQWGTp7ptqtQ,Jonas Blue;Why Don't We,Don’t Wake Me Up,Don’t Wake Me Up,76,188894,False,0.621,0.747,11,-5.084,1,0.0337,0.222,0.000194,0.147,0.426,124.015,4,dance
+5icOoE6VgqFKohjWWNp0Ac,Marshmello;CHVRCHES,Here With Me,Here With Me,75,156346,False,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,dance
+6Pgkp4qUoTmJIPn7ReaGxL,Avicii;Sandro Cavazza,AVĪCI (01),Without You (feat. Sandro Cavazza),78,181672,True,0.662,0.858,2,-4.844,1,0.0428,0.00163,0.0,0.0456,0.295,133.993,4,dance
+378iszndTZAR4dH8kwsLC6,Sia;Sean Paul,This Is Acting,Cheap Thrills (feat. Sean Paul),71,224813,False,0.592,0.8,6,-4.931,0,0.215,0.0561,2.01e-06,0.0775,0.728,89.972,4,dance
+3dsyqPDiWYYilRZNBxgxHE,DJ Snake,Carte Blanche,Magenta Riddim,63,194490,False,0.602,0.892,10,-3.66,0,0.0672,0.000393,0.813,0.304,0.57,102.047,4,dance
+5029vpQu4KlJp0Kqobuc01,DJ Snake;Bipolar Sunshine,Mientras hago aromaterapia,Middle,0,220746,False,0.585,0.73,1,-4.038,0,0.0406,0.0171,0.0,0.0488,0.222,104.824,4,dance
+0ABEVL7pgQLokhBcNJmozw,Fifth Harmony,Worth It,Worth It,64,185256,False,0.858,0.78,8,-3.739,1,0.0738,0.0478,5.72e-05,0.133,0.602,99.984,4,dance
+3yhDirNko6hMGsljDbnqej,Anne-Marie;Rudimental,All Bops,Unlovable,0,142720,False,0.71,0.752,9,-5.503,0,0.0349,0.0225,0.000205,0.354,0.289,124.043,4,dance
+3OJG7Q6YeJJogzBv7uLAAk,DJ Snake;Justin Bieber,Autopilot,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,dance
+3HSWaauCSlQ8TSdvEZYjVh,DJ Snake;Justin Bieber,Girls Night,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,dance
+5wOcahI4cXEAgMsNtT5A2G,Anne-Marie,New Pop Icons,2002,0,186986,False,0.697,0.683,1,-2.881,0,0.116,0.0372,0.0,0.137,0.606,96.134,4,dance
+0Y9PqGjKgupH5fKbrgDQUr,DJ Snake;Bipolar Sunshine,Autumn Vibes 2022,Middle,0,220746,False,0.585,0.73,1,-4.038,0,0.0406,0.0171,0.0,0.0488,0.222,104.824,4,dance
+66GcPmCYUlVKc4dA4Uwqa6,DJ Snake;Selena Gomez,pov: it's 2021,Selfish Love,0,168648,False,0.725,0.681,5,-6.8,0,0.103,0.0201,0.301,0.0995,0.453,110.938,4,dance
+63o9JidC0SUwdzdIn8RbRS,Anne-Marie;Niall Horan,Autumn Hits,Our Song,1,163733,False,0.572,0.759,2,-4.312,1,0.0506,0.127,0.0,0.224,0.519,80.95,4,dance
+4fkM7M4Uo5AUASnnsRC7EZ,Ava Max,Not Your Barbie Girl,Not Your Barbie Girl,68,186520,False,0.745,0.642,6,-4.138,0,0.0506,0.103,0.0,0.0335,0.35,120.063,4,dance
+5y0nMZC5kF6uLYaLc97mSo,DJ Snake;J Balvin;Tyga,Fiesta portatil,Loco Contigo,0,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,dance
+2Db4RDun4YmjGcypDB8Av3,DJ Snake;Justin Bieber,Weekend Baby,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,dance
+3FcmE4tu4IbyDWQ1LkHBxD,Anne-Marie,Baddest of Them All,Alarm,0,205593,True,0.756,0.589,0,-5.093,1,0.233,0.0812,0.0,0.176,0.811,146.926,4,dance
+58eskjXndK4EbVBnCKcfHi,DJ Snake;Sean Paul;Anitta;Tainy,Esto me suena a Farra,Fuego,1,195428,False,0.78,0.856,8,-6.264,0,0.267,0.0233,0.0,0.0916,0.605,104.904,4,dance
+44ZcbH1W8X5OXc7ZQyKNVw,DJ Snake;J Balvin;Tyga,Esto me suena a Farra,Loco Contigo,0,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,dance
+2YtHqwpcdoDzYE3eAxFECG,Anne-Marie,Give You Love - Cozy Hits,Perfect to Me,1,197853,False,0.608,0.547,8,-5.691,1,0.145,0.0889,0.0,0.0734,0.403,179.888,4,dance
+1E5HgkRXPToIFhFeMn4JSx,DJ Snake;Justin Bieber,Fiesta de disfraces vol. II,Let Me Love You,0,205946,False,0.475,0.715,8,-5.371,1,0.058,0.0863,2.67e-05,0.135,0.159,199.892,4,dance
+5E9DHsz711lPbtrr74WK67,Anne-Marie;Don Diablo,Running Songs,Birthday - Don Diablo Remix,0,225000,False,0.648,0.934,8,-3.156,0,0.122,0.0838,0.0,0.131,0.671,123.962,4,dance
+7Ifnxt3NpU9Ky2VhC1RDUi,DJ Snake;Selena Gomez;Ozuna;Cardi B,Fiesta portatil,Taki Taki,2,212500,True,0.843,0.802,1,-4.167,0,0.228,0.158,5e-06,0.0642,0.618,95.881,4,dance
+6gAoypqlPJ7M07G7eKrBWA,DJ Snake;J Balvin;Tyga,Halloween 2022 Perreo Vol. 4,Loco Contigo,2,185194,False,0.827,0.757,6,-2.985,0,0.0564,0.283,1.56e-06,0.102,0.374,95.983,4,dance
+28PuptP3GRGgIM1Faz1fzL,DJ Snake;J Balvin;Ozuna;Nicky Jam;Natti Natasha;Darell;Sech,Perreo Tenebroso Vol. 4,Loco Contigo - REMIX,0,341875,False,0.789,0.694,6,-5.781,0,0.0726,0.099,0.0,0.0962,0.549,96.032,4,dance
+0ooaQGSWjhcuhsDQHrnL7t,Anne-Marie,Holly Jolly Christmas,Think of Christmas,0,170306,False,0.546,0.829,6,-5.557,0,0.0769,0.221,0.0,0.139,0.76,90.062,4,dance
+5fImX57te2ofsdSqWuF4Pl,Anne-Marie;Saweetie;Ms Banks,2Step - Pop R'n'B,2002 - Saweetie & Ms Banks Remix,1,226920,False,0.737,0.654,1,-4.784,0,0.165,0.00355,0.0,0.126,0.5,95.635,4,dance
+4rD0k13kpwBhFpinTCgGar,Anne-Marie;Niall Horan;Just Kiddin,Cardio Tracks,Our Song - Just Kiddin Remix,0,156093,False,0.656,0.92,11,-5.135,0,0.0422,0.051,0.000353,0.102,0.946,118.942,4,dance
+1rgaSqxIKCgjResN9J4Crl,Anne-Marie,Perfect Christmas Hits,Think of Christmas,0,170306,False,0.546,0.829,6,-5.557,0,0.0769,0.221,0.0,0.139,0.76,90.062,4,dance
+4zwthrpGFN6edk5u7FptKJ,Anne-Marie,Christmas Time,Think of Christmas,1,170306,False,0.546,0.829,6,-5.557,0,0.0769,0.221,0.0,0.139,0.76,90.062,4,dance
+5e0s0MXXDCMFJ3690neyY0,Anne-Marie,Good Enough - Easy Pop,Perfect to Me,0,197853,False,0.608,0.547,8,-5.691,1,0.145,0.0889,0.0,0.0734,0.403,179.888,4,dance
+2tssIKIApNh8tGdYfaRa52,Anne-Marie;Cahill,Am I Ready - Pop Night Out,Alarm - Cahill Remix,1,177656,True,0.6,0.914,9,-4.12,0,0.0374,0.00021,9.13e-06,0.204,0.605,127.991,4,dance
+5xXgHt6CAVvsgFFzFfpoxg,Anne-Marie;Niall Horan;Just Kiddin,Feeling Good,Our Song - Just Kiddin Remix,0,156093,False,0.656,0.92,11,-5.135,0,0.0422,0.051,0.000353,0.102,0.946,118.942,4,dance
+6CAdGfbTDDQiSC4BJ1TL5i,Anne-Marie,Merry Christmas,Think of Christmas,0,170306,False,0.546,0.829,6,-5.557,0,0.0769,0.221,0.0,0.139,0.76,90.062,4,dance
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,RENAISSANCE,CUFF IT,93,225388,True,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,4,dance
+7uzmGiiJyRfuViKKK3lVmR,Bazzi,COSMIC,Mine,76,131064,True,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,dance
+0d2iYfpKoM0QCKvcLCkBao,benny blanco;Halsey;Khalid,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),75,173799,False,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,4,dance
+58q2HKrzhC3ozto2nDdN4z,Cardi B;Bad Bunny;J Balvin,Invasion of Privacy,I Like It,79,253390,True,0.816,0.726,5,-3.998,0,0.129,0.099,0.0,0.372,0.65,136.048,4,dance
+1lHvN5tHUffp7gM9AzO0wO,escape,Цунами,Цунами,57,162785,False,0.55,0.691,5,-4.524,0,0.0362,0.174,6.41e-06,0.152,0.235,134.968,4,dance
+6WrI0LAC5M1Rw2MnX2ZvEg,Dua Lipa,Don't Start Now,Don't Start Now,80,183290,False,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,4,dance
+079Ey5uxL04AKPQgVQwx5h,Selena Gomez;Rauw Alejandro,Revelación - EP,Baila Conmigo (with Rauw Alejandro),75,186087,False,0.823,0.544,5,-7.132,1,0.0715,0.0215,0.00315,0.0966,0.664,149.903,4,dance
+39glqzRVRAy4vq3PqeTGb8,SLANDER;Dylan Matthew,Love Is Gone,Love Is Gone,67,256042,False,0.452,0.465,4,-10.006,0,0.0344,0.0589,0.000524,0.095,0.0832,149.586,4,dance
+2qT1uLXPVPzGgFOx4jtEuo,Ariana Grande,Sweetener,no tears left to cry,78,205920,False,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,4,dance
+37R0bQOQj5a7DOqh1TGzvB,Charlie Puth,Nine Track Mind,One Call Away,73,194453,False,0.667,0.613,1,-5.353,1,0.0344,0.403,0.0,0.115,0.47,91.024,4,dance
+3BwkldhE22DdxOcXegF2Kv,Akon,Trouble Deluxe Edition,Bananza (Belly Dancer),69,238493,False,0.877,0.702,10,-5.899,0,0.127,0.0334,8.92e-06,0.743,0.69,104.833,4,dance
+5ZSl6gDoV6bPPxzmLeneV9,Jonas Blue;Jack & Jack,Blue,Rise,71,194407,False,0.687,0.785,1,-4.65,1,0.0333,0.327,0.0,0.203,0.655,106.046,4,dance
+7gMobZSfdEGUEIDuMNihXH,Lauv,Autumn Vibes 2022,All 4 Nothing (I'm So In Love),0,183014,False,0.72,0.819,1,-4.588,1,0.0362,0.0411,0.0,0.0606,0.898,131.99,4,dance
+3fGW43fnu3OHEw6ohTC2Bw,Anne-Marie;Niall Horan,Therapy,Our Song,71,163733,False,0.572,0.759,2,-4.312,1,0.0506,0.127,0.0,0.224,0.519,80.95,4,dance
+30KPG6tcT4DAYsYdTEBoXh,Ellie Goulding;Juice WRLD,pov: it's 2019,Hate Me,0,186226,False,0.658,0.791,8,-4.66,1,0.0512,0.102,0.0,0.139,0.744,75.017,4,dance
+7izqZuO3Z4Hh4pvL17tmk4,Ellie Goulding;Big Sean,Mega Hits Autumn/Fall 2022,Easy Lover,5,215937,False,0.675,0.817,5,-3.789,0,0.0497,0.00711,0.0,0.0839,0.446,105.964,4,dance
+06QhDcVIH3csxlm7K7mpPi,Ellie Goulding;Juice WRLD,Beginner Ride (Mixtape Vol. 1),Hate Me,2,186226,False,0.658,0.791,8,-4.66,1,0.0512,0.102,0.0,0.139,0.744,75.017,4,dance
+5Gu0PDLN4YJeW75PpBSg9p,Hailee Steinfeld;Alesso;Florida Georgia Line;WATT,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",77,174800,False,0.664,0.708,8,-4.154,1,0.0474,0.0337,0.0,0.0841,0.742,103.07,4,dance
+57DvS05QXPhreHY6cpQNiI,Becky Hill;David Guetta,pov: it's 2021,Remember,0,161386,False,0.626,0.864,8,-3.12,1,0.0378,0.0682,0.0,0.087,0.555,123.833,4,dance
+59tskctgqUmjCWAwhzYAFm,Sabrina Carpenter,Singular Act II,Looking at Me,73,181120,False,0.681,0.798,2,-4.367,1,0.0375,0.00398,5.11e-06,0.0542,0.516,105.99,4,dance
+5jCuwPfj8tpOtmWXIfpz48,Becky Hill,Best Road Trip Pop Tunes,I Got You,0,190266,True,0.568,0.728,9,-4.418,1,0.182,0.0746,4.2e-06,0.349,0.62,195.984,4,dance
+3bCp61o3h46Yvr0vgMJlaL,Ellie Goulding;Diplo;Swae Lee,pov: it's 2019,Close To Me,0,182626,True,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,4,dance
+3Vh4nSqr35BOdINsqosOph,Ellie Goulding;Diplo;Swae Lee,Queda poco para la PAES,Close To Me,0,182626,True,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,4,dance
+10H73uxnyBpBdBXJxK8OVO,Becky Hill;Joel Corry,Your Perfect Soundtrack,HISTORY,5,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+2PkBAXnfavpSySBRWaoxjf,Becky Hill;David Guetta,Arbeitsmusik Herbst/Winter 2022/2023,Remember,0,161386,False,0.626,0.864,8,-3.12,1,0.0378,0.0682,0.0,0.087,0.555,123.833,4,dance
+1hzhPRth1Dr4ZO1fr21G4g,Ellie Goulding,pov: it's 2020,Power,0,191786,False,0.538,0.642,10,-4.412,1,0.127,0.104,0.0,0.112,0.47,161.803,4,dance
+095guSCGTmugqLwBwlHZH7,Becky Hill,Coffee Chill,Losing,0,234323,False,0.402,0.913,1,-6.212,0,0.266,0.000547,2.52e-06,0.0869,0.351,213.928,4,dance
+1z5ySy1txdIkLaPq2YKaHM,Becky Hill;Joel Corry,All That Really Matters - Just Hits,HISTORY,2,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+5bi1cIE70zeiRhAcTm3Ejg,Becky Hill,Best Road Trip Pop Tunes,I Got You,0,190266,True,0.568,0.728,9,-4.418,1,0.182,0.0746,4.2e-06,0.349,0.62,195.984,4,dance
+6kMFHQS3PwUhtJzqjR6tez,Becky Hill,Die For You,I Got You,0,190266,True,0.568,0.728,9,-4.418,1,0.182,0.0746,4.2e-06,0.349,0.62,195.984,4,dance
+5d4jOVHBxlbRZJlBfarH41,Alesso;Matthew Koma,Larga Vida al Electro,Years,1,196346,False,0.362,0.858,2,-3.92,1,0.0743,0.00211,1.3e-06,0.25,0.282,127.891,4,dance
+7b1XzNeXhfwGNJWE6gHFRz,Becky Hill;Joel Corry,Pop Brandneu,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+1b876Botb2h1Mf5L37anDJ,Becky Hill;Joel Corry,Daily Pop Mix,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+1L98L13cxNysGgFshbF617,Becky Hill;Joel Corry,Brandneu Dance,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+4QQvsio6sNDiwRY4MQiqJB,Becky Hill;Joel Corry,"#Multiverse, If the Multiverse Is Real",HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+77u3cpprulNjIUYkjYwlhU,Ellie Goulding,Del gusto de mamá,Starry Eyed,4,176933,False,0.51,0.816,5,-5.331,0,0.0352,0.13,8.66e-06,0.224,0.588,149.929,4,dance
+6yUlfM1fMgopGW8PSuorxE,Ellie Goulding,Falling in Love,"Love Me Like You Do - From ""Fifty Shades Of Grey""",1,253279,False,0.271,0.648,8,-5.664,1,0.051,0.248,0.0,0.121,0.261,189.218,4,dance
+4eMN5YiyDpzWRs2JPCoQ1M,Ellie Goulding,10's Music Grandi Successi,"Love Me Like You Do - From ""Fifty Shades Of Grey""",2,253279,False,0.271,0.648,8,-5.664,1,0.051,0.248,0.0,0.121,0.261,189.218,4,dance
+0yciGxyHYjntJNmAj0ObzK,Ellie Goulding,Almorzando solo,Lights - Single Version,0,212706,False,0.681,0.802,8,-5.836,0,0.0347,0.0271,0.0496,0.127,0.791,120.053,4,dance
+2w6M3ukTNm1U8JVHjLSJVI,Becky Hill;Joel Corry,Pop Hits Now,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+5IBBlGZ3dwIMIEGCKTAGdu,Becky Hill;Topic,EDM Gaming Music Autumn/Winter 2022,My Heart Goes (La Di Da),0,148960,False,0.695,0.781,7,-5.578,0,0.0452,0.0185,3.12e-05,0.295,0.456,124.04,4,dance
+5l3jfz0MIWsJWEs9d1OFSt,Becky Hill;Joel Corry,Upbeat Pop,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+0RhLvAINBnJo65rZMIVdOR,Ellie Goulding,Fiesta de disfraces vol. II,Something In The Way You Move,0,226573,False,0.66,0.804,1,-6.133,0,0.0485,0.0402,0.0,0.129,0.359,109.0,4,dance
+3nWZHzvATyjyhrExemHNGR,Becky Hill;Topic,pov: it's 2021,My Heart Goes (La Di Da),0,148960,False,0.695,0.781,7,-5.578,0,0.0452,0.0185,3.12e-05,0.295,0.456,124.04,4,dance
+3QEJ6F9JMYN2iFuWI2AVK3,Becky Hill;Joel Corry,From The Ashes - New Beats,HISTORY,0,176609,True,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+0JvNnk5PX2XuWwB3iMG49c,Becky Hill;Topic,Night Drive Autumn/Winter 2022/23,My Heart Goes (La Di Da),0,148960,False,0.695,0.781,7,-5.578,0,0.0452,0.0185,3.12e-05,0.295,0.456,124.04,4,dance
+0ugllpORni0VVE6794ADpX,Ellie Goulding,Autumn Vibes 2022,"Still Falling For You - From ""Bridget Jones's Baby""",0,240867,False,0.476,0.518,1,-8.1,1,0.0401,0.553,1.27e-06,0.111,0.179,96.155,4,dance
+5HYSet3VZ5JPcUouFsNrOb,Becky Hill;Topic,Arbeitsmusik Herbst/Winter 2022/2023,My Heart Goes (La Di Da),0,148960,False,0.695,0.781,7,-5.578,0,0.0452,0.0185,3.12e-05,0.295,0.456,124.04,4,dance
+03aiQ6cX3yeHwiIA8rvDLu,Becky Hill;Shift K3Y,pov: it's 2020,Better Off Without You,0,198742,False,0.682,0.855,7,-3.282,1,0.0401,0.0564,0.0,0.101,0.304,124.005,4,dance
+7EsVGqMKR6ZpGTIoeITKPj,Becky Hill;Just Kiddin,EDM Hits,Losing - Just Kiddin Remix,0,369611,False,0.738,0.617,8,-8.334,0,0.0377,0.000152,0.129,0.0651,0.624,120.017,4,dance
+5J4ZkQpzMUFojo1CtAZYpn,Ariana Grande;The Weeknd,My Everything (Deluxe),Love Me Harder,78,236133,False,0.472,0.714,1,-4.389,0,0.0334,0.00937,0.0,0.0764,0.24,98.992,4,dance
+4VUwkH455At9kENOfzTqmF,Bazzi;Camila Cabello,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),74,180000,False,0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,4,dance
+66hayvUbTotekKU3H4ta1f,Jack Ü;Skrillex;Diplo;Justin Bieber,Skrillex and Diplo present Jack Ü,Where Are Ü Now (with Justin Bieber),74,250285,False,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,4,dance
+1dNIEtp7AY3oDAKCGg2XkH,The Chainsmokers;Coldplay,Something Just Like This,Something Just Like This,75,247626,False,0.607,0.649,11,-6.695,0,0.0362,0.0306,2.46e-05,0.174,0.505,102.996,4,dance
+1gt8YXWknKt4sRNZ6SirVW,Marshmello;Pritam,BIBA,BIBA,56,175721,False,0.587,0.963,0,0.366,0,0.0552,0.0656,0.0,0.27,0.491,127.842,4,dance
+7CHi4DtfK4heMlQaudCuHK,MEDUZA;Becky Hill;Goodboys,Lose Control,Lose Control,78,168387,False,0.598,0.526,10,-8.659,0,0.0415,0.129,0.0,0.14,0.529,123.935,4,dance
+2Z8yfpFX0ZMavHkcIeHiO1,Shawn Mendes;Justin Bieber,Monster,Monster (Shawn Mendes & Justin Bieber),74,178994,False,0.652,0.383,2,-7.076,0,0.0516,0.0676,0.0,0.0828,0.549,145.765,4,dance
+7795WJLVKJoAyVoOtCWqXN,Sam Smith,In The Lonely Hour,I'm Not The Only One,88,239316,False,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,4,dance
+1T575AhHueYinKSDflEsGK,Julia Michaels,Fifty Shades Freed (Original Motion Picture Soundtrack),Heaven,69,191786,False,0.552,0.371,7,-9.104,0,0.0359,0.857,0.0,0.0838,0.245,199.843,3,dance
+2VxeLyX666F8uXCJ0dZF8B,Lady Gaga;Bradley Cooper,A Star Is Born Soundtrack,Shallow,84,215733,False,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,4,dance
+3w3y8KPTfNeOKPiqUTakBh,Bruno Mars,Unorthodox Jukebox,Locked out of Heaven,87,233478,False,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,4,dance
+0nhBKubnVz9yFNNprBniWz,Troye Sivan,Blue Neighbourhood (Deluxe),YOUTH,72,185194,False,0.628,0.737,7,-4.437,1,0.041,0.0625,0.0,0.0777,0.592,91.507,4,dance
+2fVHrSxsQbJUuj9MW9zG1e,The Chainsmokers;5 Seconds of Summer,World War Joy,Who Do You Love,72,226733,True,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,4,dance
+1Vb4HQnN2kZ5Y2KgYF5TDV,Sean Paul;Dua Lipa,No Lie,No Lie,61,221176,False,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,4,dance
+4jbmgIyjGoXjY01XxatOx6,Katy Perry;Juicy J,PRISM,Dark Horse,78,215672,False,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934,4,dance
+4kV4N9D1iKVxx1KLvtTpjS,Ariana Grande,"thank u, next","break up with your girlfriend, i'm bored",78,190440,True,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,4,dance
+0b18g3G5spr4ZCkz7Y6Q0Q,Majestic;Boney M.,Rasputin,Rasputin,80,186209,False,0.758,0.913,6,-2.926,0,0.113,0.00364,6.92e-05,0.193,0.658,128.04,4,dance
+0HaRLPnr887lcQM2YQzkff,Burna Boy;Ed Sheeran,"Love, Damini",For My Hand (feat. Ed Sheeran),83,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+7CTb6vw1xDE3pxJLt18unK,Marshmello;Juice WRLD,Bye Bye,Bye Bye,52,108498,False,0.692,0.517,6,-5.64,1,0.0415,0.0665,0.0,0.505,0.181,83.091,4,dance
+2yLNRRuTwuuv6v6IU3uXyu,Ne-Yo,OO's Music Grandi Successi,So Sick,3,207186,False,0.679,0.682,6,-5.837,1,0.261,0.265,0.0,0.287,0.59,94.971,4,dance
+3P3pw6C19j31Rnzgo3JG7o,Jonas Blue;JP Cooper,Blue,Perfect Strangers,76,196613,False,0.73,0.861,1,-4.1,1,0.0451,0.39,0.0,0.213,0.704,117.965,4,dance
+2hgzdQdnfWwtdpZbhZlV72,Jennifer Lopez,Ain't Your Mama,Ain't Your Mama,71,218234,False,0.757,0.678,8,-5.529,0,0.233,0.0472,9.14e-06,0.0654,0.82,120.075,4,dance
+67O8CWXxPsfz8orZVGMQwf,K-391;Alan Walker;Ahrix,End of Time,End of Time,67,187560,False,0.81,0.7,4,-5.664,0,0.0399,0.267,6.69e-05,0.137,0.193,116.019,4,dance
+15OwisPfzn1zVzz2NpEhKp,Alesso;Sentinel,EDM Gaming Music Autumn/Winter 2022,Only You,0,145174,False,0.483,0.917,3,-2.528,1,0.0438,0.00235,0.000347,0.119,0.323,129.035,4,dance
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Queen Radio: Volume 1,Super Freaky Girl,83,170977,True,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,4,dance
+4tcm76DyNJiOhj7x7u10va,Alesso;Marshmello;James Bay,pov: it's 2021,Chasing Stars,0,170457,False,0.594,0.64,10,-6.865,1,0.033,0.0169,0.0,0.135,0.492,92.871,4,dance
+1RF02Cf80mTaeNXG2P2boR,Nathan Dawe;Ella Henderson,21 Reasons (feat. Ella Henderson),21 Reasons (feat. Ella Henderson),83,155253,False,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,4,dance
+2IURcEXwXgzREzWkr2foxQ,Alesso,Queda poco para la PAES,REMEDY,0,190295,False,0.601,0.777,0,-4.612,1,0.0471,0.269,0.0,0.0883,0.485,119.963,4,dance
+1aJMAxzhtScf4nJCbXX1O2,Alesso,Concierto en la ducha,REMEDY,0,190295,False,0.601,0.777,0,-4.612,1,0.0471,0.269,0.0,0.0883,0.485,119.963,4,dance
+1uvBOCykry1KtIC3Rh7kMe,Alesso;TINI,Queda poco para la PAES,Sad Song,0,154024,False,0.735,0.691,0,-6.475,1,0.0362,0.0876,0.0,0.34,0.548,110.018,4,dance
+0IisV7eMWcmIPd46AFWbwh,Flo Rida;Sage The Gemini;Lookas,Pushin P - Top Rap,GDFR,1,190185,False,0.657,0.827,5,-4.034,1,0.0736,0.000698,0.0053,0.065,0.69,145.887,4,dance
+5H0xR4dppOkdPqAQXd78CF,Alesso;Tove Lo,Larga Vida al Electro,Heroes (we could be),0,211573,False,0.504,0.748,5,-4.124,1,0.062,0.0308,0.0,0.295,0.356,125.889,4,dance
+2bEj47sDxuBKf1aFPeqsT7,Alesso;Katy Perry,EDM Gaming Music Autumn/Winter 2022,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,dance
+3DKKyZu7Vu1L4p0qSSdBlr,Alesso;Katy Perry,Electro sounds,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,dance
+0Dh3d5wUSDiqxdajrrWX3t,Alesso;Katy Perry,Night Drive Autumn/Winter 2022/23,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,dance
+3UeMh2Mra28eDCSJjylBPc,Flo Rida;Sage The Gemini;Lookas,Energy Hip Hop,GDFR,0,190185,False,0.657,0.827,5,-4.034,1,0.0736,0.000698,0.0053,0.065,0.69,145.887,4,dance
+7pX4qG17mw2Q8z6G9cbf0F,Flo Rida;Sage The Gemini;Lookas,The Hip Hop Collection,GDFR,0,190185,False,0.657,0.827,5,-4.034,1,0.0736,0.000698,0.0053,0.065,0.69,145.887,4,dance
+7FgPBngMka3agGDUKqZWmx,Alesso;Katy Perry,Arbeitsmusik Herbst/Winter 2022/2023,When I'm Gone,0,161266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,4,dance
+7CRMMeGw6ZCvnio00NmiZu,Ne-Yo,A Merry Modern Christmas,Merry Christmas Baby,1,167950,False,0.682,0.551,11,-7.822,1,0.0441,0.411,0.00043,0.137,0.251,77.993,4,dance
+1wLp6kHSEGXGMHfONnUaxN,Alesso;Tove Lo,Electro sounds,Heroes (we could be),0,211573,False,0.504,0.748,5,-4.124,1,0.062,0.0308,0.0,0.295,0.356,125.889,4,dance
+5MshZbukugLnrby4mHO7tW,Flo Rida,Running Songs,Good Feeling,1,248133,False,0.706,0.89,1,-4.447,0,0.0687,0.0588,0.00288,0.305,0.685,128.012,4,dance
+5ECXNOI8OA9Or0JRogCqTK,Flo Rida,Feeling Good,Good Feeling,0,248133,False,0.706,0.89,1,-4.447,0,0.0687,0.0588,0.00288,0.305,0.685,128.012,4,dance
+1fS2x4kXEsfLMPN6p5Was4,Ne-Yo,Halloween Hits,Beautiful Monster,2,251133,False,0.722,0.826,5,-5.464,0,0.108,0.227,4.06e-06,0.222,0.494,127.929,4,dance
+0tj1GPlAwcdSHAnvlTFUS2,Ne-Yo,Helloween Party,Beautiful Monster,2,251133,False,0.722,0.826,5,-5.464,0,0.108,0.227,4.06e-06,0.222,0.494,127.929,4,dance
+4vUDzvjFrazDQfk5kHbXxd,Ne-Yo,Pop & Halloween,Beautiful Monster,2,251133,False,0.722,0.826,5,-5.464,0,0.108,0.227,4.06e-06,0.222,0.494,127.929,4,dance
+12C8wrNDuMjuSGmvGxy761,Madonna,Spooky Scary Season,Illuminati,1,224613,False,0.793,0.617,7,-4.32,1,0.0766,0.0464,0.00402,0.165,0.418,134.909,4,dance
+7H4js1I7iUQWMwDooFO65V,Ne-Yo,Halloween Scary Party,Beautiful Monster,0,251133,False,0.722,0.826,5,-5.464,0,0.108,0.227,4.06e-06,0.222,0.494,127.929,4,dance
+4gK1mz3FOGBzTHlYkIaVIV,Madonna,Happy Haunted Halloween Tunes,Illuminati,0,224613,False,0.793,0.617,7,-4.32,1,0.0766,0.0464,0.00402,0.165,0.418,134.909,4,dance
+0Q3Z1sRcAcPNsKOKlTViqb,Madonna,Anthems for Witches 2022,Illuminati,1,224613,False,0.793,0.617,7,-4.32,1,0.0766,0.0464,0.00402,0.165,0.418,134.909,4,dance
+18XA6zBzc8shI011scLk5k,Ne-Yo,Almorzando solo,Let Me Love You (Until You Learn To Love Yourself),0,252226,False,0.669,0.723,5,-5.2,1,0.0346,0.213,0.0,0.523,0.269,124.925,4,dance
+7795WJLVKJoAyVoOtCWqXN,Sam Smith,In The Lonely Hour,I'm Not The Only One,88,239316,False,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,4,dance
+4lnAN2S1fcI0SjxEbksZVr,Selena Gomez;Gucci Mane,Fetish (feat. Gucci Mane),Fetish (feat. Gucci Mane),72,186112,False,0.708,0.618,2,-4.424,1,0.0592,0.0204,6.81e-06,0.062,0.265,123.013,4,dance
+27rdGxbavYJeBphck5MZAF,Mark Ronson;Miley Cyrus,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like a Heart (feat. Miley Cyrus),78,217466,False,0.601,0.794,7,-5.844,0,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,4,dance
+514rhnksEwHUh6LxXsQ4Y9,Selena Gomez,13 Reasons Why (Season 2),Back To You,72,210240,False,0.6,0.683,6,-6.271,1,0.0493,0.0984,1.26e-06,0.11,0.494,102.036,4,dance
+6cmm1LMvZdB5zsCwX5BjqE,Jay Sean;Lil Wayne,All Or Nothing,Down,78,212506,False,0.727,0.68,2,-4.498,1,0.0286,0.0101,0.0,0.0821,0.728,132.012,4,dance
+4uQY80TKE1u4ZQZQKHzVEi,Katy Perry,Teenage Dream,The One That Got Away,76,227333,False,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,4,dance
+7Feaw9WAEREY0DUOSXJLOM,Martin Garrix;Macklemore;Fall Out Boy,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),74,163804,True,0.661,0.723,5,-6.976,0,0.0566,0.179,1.23e-05,0.14,0.316,113.778,4,dance
+15og0pCEcTFWEXOFKdcJlU,Ellie Goulding;Juice WRLD,Brightest Blue,Hate Me,69,188066,False,0.64,0.789,8,-4.891,1,0.0644,0.0875,0.0,0.147,0.762,75.018,4,dance
+3eJH2nAjvNXdmPfBkALiPZ,Jason Derulo,Acapulco,Acapulco,81,139672,False,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,4,dance
+6LsAAHotRLMOHfCsSfYCsz,Shawn Mendes,If I Can't Have You,If I Can't Have You,73,190800,False,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,4,dance
+33KJ2xFYONOlIYDBg6wPx8,HRVY,Talk To Ya - EP,Personal,70,198040,False,0.755,0.536,8,-5.605,1,0.12,0.114,0.0,0.0282,0.882,138.969,4,dance
+0kGDEDnd3OsvIq7zyLo1zG,James Hype;Miggy Dela Rosa;Lazza,HOT PARTY BACK TO SCHOOL 2022,Ferrari - Remix,4,172000,False,0.818,0.714,1,-5.769,0,0.0643,0.0973,0.0,0.0936,0.62,124.953,4,dance
+7efeim37m5pprC4BNHyet1,James Hype;Miggy Dela Rosa,Beats Electro Mood,Ferrari,0,186661,False,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,dance
+6urUsxKmMUmfbraWTeUwgI,Joel Corry;Mabel,Cuddle Up Christmas,I Wish (Christmas Version),0,200595,False,0.652,0.603,0,-6.555,1,0.0317,0.241,0.0,0.132,0.192,106.025,4,dance
+4GqbR5yxpmCfaxTJSwfCpj,James Hype;Miggy Dela Rosa,Fiesta portatil,Ferrari,2,186661,False,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,dance
+7mbd55vVvtqHOfxL2L5zRM,R3HAB;TINI;Reik,Fiesta portatil,Bésame (I Need You),0,136200,False,0.839,0.701,9,-6.029,1,0.0944,0.0165,0.00365,0.0513,0.273,99.984,4,dance
+7GDGbF9PMU3sjxtmZFXWN4,Joel Corry;Mabel,House Anthems,I Wish,1,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+4fkqyLMUKC77EvOSGUWUhr,James Hype;Miggy Dela Rosa,Mega Hits Autumn/Fall 2022,Ferrari,1,186661,False,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,dance
+6mdNaF8hJu60XXXXyRLApe,Joel Corry;Mabel,Back to School!,I Wish,0,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+79WthgBijQ7koBeL5Sbw2W,Joel Corry;Mabel,Upbeat 20's,I Wish,3,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+3oiFFrv1DQ6zpTS8Yw9iJD,Flo Rida,Modern R&B Love,Me & U,0,270920,False,0.624,0.682,5,-6.535,0,0.113,0.0988,0.0,0.0818,0.399,153.113,4,dance
+0tEMJDCK6C8F6MFT6AnWz8,James Hype;HARLEE,Beats Electro Mood,Afraid,2,142971,False,0.744,0.78,10,-3.631,0,0.0529,0.101,4.36e-06,0.184,0.762,125.997,4,dance
+3T7aiE7ZBhAbj2xUzDCMUF,Joel Corry;Mabel,Cardio Tracks,I Wish,0,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+1Ef2kTon47BwiPQP2SovYa,James Hype;Miggy Dela Rosa,Arbeitsmusik Herbst/Winter 2022/2023,Ferrari,0,186661,False,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,dance
+21o6vWZRqLkymy0GFlrCgd,Flo Rida;Sage The Gemini;Lookas,Tic Tac - Just Rap,GDFR,0,190185,False,0.657,0.827,5,-4.034,1,0.0736,0.000698,0.0053,0.065,0.69,145.887,4,dance
+34EbXKNnIAkgJEuWAcEQ8O,Joel Corry;MNEK,Hot Mix Pop,Head & Heart,0,166028,False,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+5IJb3GtAnACyhkrMIdy9mW,Joel Corry;Mabel,Today's Party Hits,I Wish,0,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+5Km2C7bibgeLZM2A2UkNbs,Flo Rida;T-Pain,Pop Station,Low,0,231400,False,0.918,0.609,10,-5.64,0,0.0787,0.0914,0.0,0.139,0.305,128.007,4,dance
+0n4VMosDis1qIFjSZl9gdi,Joel Corry;MNEK,La Fine dell'Estate,Head & Heart,0,166028,False,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+7vXR7bMvuo6uShUFo4q6sv,Joel Corry;Mabel,Dance Dance Dance,I Wish,0,181728,False,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,4,dance
+5ECXNOI8OA9Or0JRogCqTK,Flo Rida,Feeling Good,Good Feeling,0,248133,False,0.706,0.89,1,-4.447,0,0.0687,0.0588,0.00288,0.305,0.685,128.012,4,dance
+7ygaeSuQR2Pn7ahgNUxslH,Joel Corry;MNEK,Feeling Good,Head & Heart,0,166028,False,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+23PvWFdi76vER4p1e2Xroj,The Killers,Workout Hits 2023,Mr. Brightside,2,223973,False,0.344,0.931,1,-3.759,1,0.0783,0.00104,0.0,0.0903,0.251,148.104,4,dance
+5f0M1GxFFvfrnQUNAaST4L,Joel Corry;MNEK,EDM Hits,Head & Heart,0,166028,False,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+5KaVoEhxf1UwParyAjzHVA,The Killers,Kick It,Mr. Brightside,1,223973,False,0.344,0.931,1,-3.759,1,0.0783,0.00104,0.0,0.0903,0.251,148.104,4,dance
+6GkAs8oZIgPjr0GpqA2JSt,Joel Corry;MNEK,Today's Party Hits,Head & Heart,0,166028,False,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+34ldTowcv56E2DqtSaYBjP,The Killers,OO's Music Grandi Successi,When You Were Young,5,220413,False,0.441,0.976,8,-3.09,0,0.147,0.000335,0.0475,0.298,0.248,130.411,4,dance
+52cFhaPuS5oLrmFoJw4J9j,The Killers,Rock Workout 2023,Mr. Brightside,2,223973,False,0.344,0.931,1,-3.759,1,0.0783,0.00104,0.0,0.0903,0.251,148.104,4,dance
+2UCoAOZGk6a4BHUBzlvfAO,The Killers;Armin van Buuren;Benno De Goeij,Beats Electro Mood,Human - Armin van Buuren Dub Remix,1,445000,False,0.64,0.821,7,-5.789,0,0.0732,0.00122,0.145,0.203,0.624,135.478,4,dance
+315FrAki9HoxEdG8CQuZhD,The Killers,Mirando las nubes,Mr. Brightside,0,223973,False,0.344,0.931,1,-3.759,1,0.0783,0.00104,0.0,0.0903,0.251,148.104,4,dance
+6ehaWPjsNSf5HWOXTEFSUi,The Killers,Rock Workout 2023,Somebody Told Me,0,200946,False,0.508,0.981,10,-3.23,0,0.0779,8.22e-05,0.000449,0.0555,0.746,138.011,4,dance
+2cwOhw3d0uIsR4krTsrLwF,The Killers;Ryan Pardey,Rock n Roll Christmas,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+5SVYqPYpje5JDG2O969oz6,The Killers;Toni Halliday,Rock n Roll Christmas,A Great Big Sled,0,262586,False,0.532,0.872,0,-3.869,1,0.0636,0.00223,0.0,0.283,0.299,127.959,4,dance
+71BwuaJ5VjGx9EJdrc9OX2,The Killers;Ryan Pardey,Home For Christmas 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+2QLFTiSNgt6cT3aQdeGFhd,The Killers;Ryan Pardey,Home At Christmas,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+3omnDqXnlC4awZfUrGQSDN,The Killers;Toni Halliday,Alternative Christmas 2022,A Great Big Sled,0,262586,False,0.532,0.872,0,-3.869,1,0.0636,0.00223,0.0,0.283,0.299,127.959,4,dance
+7GEQkaJPZmph6xtzXFNWxn,The Killers,Alternative Christmas 2022,Joy Ride - Night Version,0,436413,False,0.666,0.935,0,-4.563,1,0.0445,0.00285,0.781,0.352,0.69,118.999,4,dance
+2S3G868WlDZNtfwZiDKPRx,The Killers;Ryan Pardey,Alternative Christmas 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+77s65ayZ3gXbqMV8jKH1A3,The Killers;Ryan Pardey,Alternative Christmas 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+1gu8VJ0d28EsXtcgKzJcSl,The Killers;Ryan Pardey,Christmas Rock 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,8,-4.164,1,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance

@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2hhFpD32iXUd4GaCu6T4wn,Jon Lajoie,You Want Some of This?,Everyday Normal Guy 2,75,195693,True,0.823,0.731,3,-4.273,1,0.307,0.42,0.0,0.306,0.876,90.302,4,comedy
+6dbSBQXCctYSVryynHXaZ4,Lil Dicky;Chris Brown,Freaky Friday (feat. Chris Brown),Freaky Friday (feat. Chris Brown),45,216631,True,0.755,0.599,8,-5.042,1,0.224,0.147,0.0,0.109,0.755,133.123,4,comedy
+7lakl3bPRdQqUGX9m755jX,Lil Dicky,Earth,Earth,40,281500,True,0.694,0.664,2,-4.649,1,0.05,0.639,0.0,0.0929,0.676,95.941,4,comedy
+0rRboI6IRuGx56Dq3UdYY4,Afroman,The Good Times,Because I Got High,69,197760,True,0.802,0.341,7,-8.56,1,0.488,0.169,0.0,0.0783,0.849,166.01,4,comedy
+5PEleSkK4p4E1sx3x7cOLt,The Lonely Island;Akon,Turtleneck & Chain (Explicit Version),I Just Had Sex,63,166560,True,0.615,0.811,6,-4.316,1,0.144,0.0188,0.0,0.196,0.808,167.995,4,comedy
+7MkysLvt3L8UFji2PceoFU,Lil Dicky;Brendon Urie,Professional Rapper,Molly (feat. Brendon Urie of Panic at the Disco),66,244339,True,0.829,0.514,7,-6.694,1,0.037,0.203,0.000157,0.115,0.397,114.955,4,comedy
+1TkWsnheqK0gBtvh07BtNX,Lil Dicky;Fetty Wap;Rich Homie Quan,Professional Rapper,$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),64,290835,True,0.858,0.697,2,-5.361,1,0.23,0.114,0.0,0.224,0.364,98.013,4,comedy
+2KldK81uQyPpbJLwEekaLQ,Jon Lajoie,You Want Some of This?,Everyday Normal Guy,52,201493,True,0.662,0.721,7,-4.726,1,0.316,0.284,0.0,0.106,0.69,169.914,4,comedy
+2zpQ30BpR6teeCeivQoo5p,The Lonely Island;Justin Timberlake,Turtleneck & Chain (Explicit Version),Motherlover,58,169506,True,0.762,0.708,2,-6.297,1,0.0573,0.0191,0.000374,0.145,0.639,131.22,4,comedy
+5TlAXiBCBwiQnIZUAA4Jkg,Lil Dicky;Snoop Dogg,Professional Rapper,Professional Rapper (feat. Snoop Dogg),62,353959,True,0.684,0.621,11,-8.442,0,0.362,0.432,0.0,0.607,0.537,128.882,3,comedy
+0uguTAc0yJY2vfmqiuYoob,Pink Guy,Pink Season,セックス大好き,51,142760,True,0.804,0.676,9,-3.749,1,0.236,0.102,0.0,0.235,0.485,89.984,4,comedy
+46nJ8ZPiUX4TuvCey0Wcz1,Lil Dicky,Professional Rapper,Lemme Freak,56,285894,True,0.8,0.656,5,-5.874,0,0.114,0.0143,0.0,0.354,0.437,119.921,4,comedy
+5IJbTPhcj0IjdzUaYqwe2I,Pink Guy,Pink Season,Stfu,56,224493,True,0.827,0.524,10,-9.819,1,0.0536,0.552,0.000112,0.198,0.356,136.785,4,comedy
+1j8bp1BNjMxUJV7nLkSUrb,Pink Guy,Pink Season,Fried Noodles,54,170946,True,0.58,0.552,0,-8.877,1,0.456,0.892,0.0,0.182,0.807,158.002,4,comedy
+2SmXJEhm1yJvXK6Hx4XAYT,Pink Guy,Pink Season,Help,51,165040,True,0.837,0.554,2,-10.165,1,0.109,0.734,5.6e-05,0.129,0.676,117.012,4,comedy
+1ACZpHI5vZ5Ea4xGlkdGWM,Afroman,The Good Times,Crazy Rap (Colt 45 & 2 Zig Zags),74,328666,True,0.927,0.367,9,-7.797,1,0.382,0.325,0.0,0.132,0.576,99.053,4,comedy
+3IQSYqnKsCTMLWn2xE3HFT,The Lonely Island;T-Pain,Incredibad,I'm On A Boat,59,156266,True,0.623,0.871,0,-2.403,1,0.239,0.0465,0.0,0.111,0.653,150.079,4,comedy
+0Dfctnkk9xIikDKJ06uwzo,Pink Guy,Pink Season,She's So Nice,64,163493,True,0.828,0.577,6,-7.656,0,0.158,0.599,0.0,0.0814,0.587,86.339,4,comedy
+7Kaw17qTEqmJU5j5rjuQ2M,Muck Sticky,Dang!,I.H.T.B.T.O.T.T.Y.I.D.F.Y.M.,31,199826,True,0.899,0.759,7,-6.644,0,0.283,0.512,1.34e-06,0.0721,0.822,103.046,4,comedy
+7dx3l9Q5BpBYrOmu3su1JF,Mitch Fatel,Miniskirts and Muffins - EP,Sloppy Drunk,30,79093,True,0.443,0.865,1,-13.341,1,0.927,0.925,0.000504,0.776,0.306,145.511,3,comedy
+1mGPRNd31oB74oEZ22s4Sn,Katt Williams,Pimp Chronicles Pt.1,Stop Trippin,30,155280,True,0.653,0.904,9,-12.741,0,0.92,0.782,0.0,0.805,0.379,90.105,3,comedy
+6A3mLcrJtbaMM8n1ONxMFa,Jim Norton,Despicable - EP,What Sex Is That Thing?,31,88533,True,0.488,0.954,8,-11.292,0,0.928,0.833,0.0,0.851,0.0766,102.926,5,comedy
+0GIorNnH3LXP4uOGzI6wh6,Stephen Lynch,3 Balloons,3 Balloons,29,244413,False,0.547,0.55,2,-9.675,1,0.0347,0.0793,0.0,0.124,0.412,96.473,4,comedy
+0m5PV2y8rtKL6PhX9JvxGg,Jim Norton,Despicable - EP,"The Bridge, Lol",30,56106,True,0.643,0.653,6,-11.67,1,0.955,0.819,0.0,0.9,0.719,85.666,4,comedy
+1JjQ0vNVatTsOYL6plWAo9,Jeff Foxworthy,We've Been Thinking,Facts of Life,29,606023,False,0.581,0.879,0,-10.652,1,0.947,0.794,0.0,0.963,0.144,106.192,4,comedy
+7fb4GWVt3V6OxKN23Leohq,Kyle Kinane,Loose in Chicago,Water,30,350340,True,0.593,0.822,2,-6.852,1,0.914,0.741,0.0,0.927,0.334,117.325,4,comedy
+0oOjVxtm0TaqqNlTODoP7C,Kyle Kinane,Loose in Chicago,Beef,29,247188,False,0.613,0.7,1,-6.339,0,0.896,0.862,0.0,0.934,0.402,112.908,5,comedy
+4fvjWN4iTBr7sQB1qponDE,Jeff Foxworthy,We've Been Thinking,The Only Prostate,30,206684,False,0.497,0.792,5,-10.411,1,0.945,0.735,0.0,0.653,0.18,180.71,4,comedy
+6ibDrp6aS9sKTtqFcNwEWc,Kyle Kinane,Loose in Chicago,Salt,29,262597,True,0.579,0.745,8,-6.486,1,0.932,0.785,0.0,0.663,0.386,83.512,4,comedy
+33WcLoQHg3MShHTA3DX09f,Kyle Kinane,Whiskey Icarus,Sweet Pain,29,362848,True,0.52,0.853,4,-5.003,1,0.929,0.754,0.0,0.693,0.408,88.014,4,comedy
+4UJBhyT0ePoYkj1qQPgSoK,Hype Duo,Yeah the Boys,Yeah the Boys,35,194594,True,0.692,0.769,0,-3.66,1,0.151,0.348,0.0,0.186,0.898,148.07,4,comedy
+1HQpvtjqtTG0eBFiYJyA99,Hype Duo,I'm Australian Man,I'm Australian Man,33,182634,False,0.796,0.959,4,-4.195,1,0.05,0.297,0.0,0.408,0.96,102.508,4,comedy
+2M3K38uN5Y7NIut1k0zqfF,Jim Norton,Despicable,Fuck Florida,31,72373,True,0.585,0.662,9,-11.179,1,0.954,0.857,0.0,0.688,0.519,129.887,3,comedy
+0qX8a7BLz0I7XQieYjWfiq,Stephen Lynch,The Craig Machine,Halloween,30,166106,False,0.336,0.397,9,-8.717,0,0.0606,0.693,0.0,0.886,0.355,174.686,3,comedy
+1S6RmTCkcTNc8w64r9vcLG,Kyle Kinane,Loose in Chicago,Corn Syrup,30,356841,True,0.621,0.71,1,-6.543,0,0.867,0.831,0.0,0.938,0.426,103.546,3,comedy
+2NiRVgM1SIqilCMRdLea8l,Ron White,A Little Unprofessional,Love,29,191858,True,0.516,0.423,6,-20.212,1,0.955,0.934,0.0,0.62,0.239,177.931,1,comedy
+6hxeC4YaQsHlWW9dvym3Wq,Larry The Cable Guy,We've Been Thinking,Git R Done,30,160635,False,0.51,0.917,4,-10.815,1,0.913,0.765,0.0,0.932,0.12,79.114,3,comedy
+4MxrKIDN1NHlOUDerxpgxE,Katt Williams,Pimp Chronicles Pt.1,Government Is Pimps,28,236904,True,0.654,0.855,10,-13.881,1,0.937,0.795,0.0,0.747,0.403,109.825,4,comedy
+13kLt8HkdRucCLg0YPeOQJ,Hype Duo,Went to a Pub in Australia,Went to a Pub in Australia,30,247028,True,0.385,0.719,7,-5.493,0,0.186,0.446,0.0,0.111,0.646,87.495,4,comedy
+397LYuxD2ENxd9fHy82nJJ,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called 8 Ball,28,415786,False,0.649,0.712,6,-6.254,1,0.929,0.699,0.0,0.937,0.553,132.087,3,comedy
+2PwG0O0sM2Ps7C2FNVAgYq,Kyle Kinane,Loose in Chicago,Mustard,31,155188,False,0.468,0.765,1,-7.555,0,0.95,0.883,0.0,0.704,0.491,78.277,4,comedy
+1g3CAvWIDLVgrBwS5R1IY5,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Parental Discretion Iz Advised,29,280618,True,0.587,0.719,1,-5.909,1,0.9,0.737,0.0,0.662,0.62,84.885,4,comedy
+5DhbENmxUzVNfJeWKTa4jq,Kevin Bloody Wilson,My Australian Roots,The Builder,32,198173,True,0.825,0.527,0,-12.187,1,0.328,0.237,0.0,0.0799,0.925,120.099,4,comedy
+0SSFVYTZD4Hge0kUhSPEVQ,Russell Peters,Russell Peters Hosts: Comics Without Borders,Porno Chicks,30,111084,True,0.589,0.398,7,-20.467,1,0.943,0.793,0.0,0.937,0.607,79.068,4,comedy
+1vDPcqmw5PnKCeN1EnfvaA,Linda P,Just Divorced,Du' Fan'me Pæn Du Er,30,185782,False,0.631,0.894,0,-5.025,1,0.195,0.0925,0.0,0.0883,0.66,169.869,4,comedy
+6JwC7ufMUMXNhg5d0QyKft,Jim Norton,Despicable,An Importanta Relationship Lesson,33,82680,True,0.553,0.773,6,-11.262,0,0.94,0.863,0.0,0.755,0.364,120.517,5,comedy
+0VPIT6X59UWUp3p294Q3LN,Kathleen Madigan,Madigan Again,Post Office,29,72973,True,0.589,0.96,6,-3.643,1,0.898,0.818,0.0,0.687,0.448,81.869,4,comedy
+2zUGFRIfBfmbDSHuM23kE4,Ron White,A Little Unprofessional,Roller Coaster/Ok to Be Gay/Pornucopia/Gay Exec,29,271438,True,0.478,0.414,11,-22.033,1,0.949,0.919,0.0,0.808,0.188,83.981,3,comedy
+3qocIndboos2THBl7JXiDJ,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Something 2 Dance 2,30,579925,True,0.595,0.806,2,-5.732,1,0.937,0.729,0.0,0.873,0.449,82.933,4,comedy
+0XnkaZA468ggdSfsMtKJMd,Kevin Bloody Wilson,Klassic Kev,Nigel Fuckin' Legend,33,261480,True,0.766,0.484,4,-10.103,1,0.0787,0.432,0.0,0.154,0.483,105.031,4,comedy
+0WnUB48NWIl4R96uGuF2XQ,The Lonely Island,Incredibad,Jizz In My Pants,53,151346,True,0.641,0.87,7,-7.175,1,0.213,0.000468,1.4e-05,0.618,0.199,122.016,4,comedy
+3FoF0CZh1JJLJumig6KSWe,Jon Lajoie,You Want Some of This?,Show Me Your Genitals,44,152293,True,0.833,0.695,9,-7.242,1,0.253,0.0916,0.0,0.0445,0.748,160.012,4,comedy
+0QGc6iFNgFB8qM4ffK04MO,Lil Dicky;Jace,Professional Rapper,Oh Well (feat. Jace of Two-9),52,208916,True,0.593,0.595,3,-11.981,1,0.626,0.788,0.0,0.107,0.268,88.098,5,comedy
+3ji3RdsWWyuuZyehLmYj0b,Lil Dicky;Brain,Professional Rapper,Pillow Talking (feat. Brain),55,645876,True,0.919,0.362,8,-8.331,1,0.368,0.576,0.0,0.134,0.416,104.987,4,comedy
+6TrZ8mGusevBllV2kpDLxV,Pink Guy,Pink Season,We Fall Again,47,102093,True,0.65,0.29,0,-17.496,1,0.247,0.844,0.0,0.15,0.238,76.778,4,comedy
+3O9nQmCkiA2VUAqQpkJZhD,The Lonely Island;Michael Bolton,Turtleneck & Chain (Explicit Version),Jack Sparrow,58,187746,True,0.718,0.712,8,-5.242,1,0.222,0.0225,0.0,0.0442,0.42,97.005,4,comedy
+4Exknuth94DX8UKqaoxKoj,Pink Guy,Pink Season,Dumplings,47,138946,True,0.87,0.64,8,-5.228,1,0.0511,0.00175,0.00403,0.0938,0.0634,128.007,4,comedy
+5rRMux9vrgG0HAnW8AgFCt,Pink Guy,Pink Season,Nickelodeon Girls,48,188546,True,0.735,0.812,1,-1.238,1,0.128,0.351,0.0,0.261,0.31,106.33,4,comedy
+2oucRPPW5n98bGMnZv4j8U,Jeff Foxworthy,Sold Out,Stuffed Animal Wallhangings,27,139728,False,0.654,0.697,6,-15.522,1,0.905,0.854,0.0,0.684,0.522,54.973,3,comedy
+1n6uSRKHNuZAaF8uJ5Sct1,Iliza Shlesinger,War Paint,Witching Hour of Drinking,28,282465,True,0.622,0.894,6,-5.932,1,0.958,0.802,0.0,0.69,0.345,170.973,3,comedy
+2yD7NFturyb82hqmd9wJx5,Tom Papa,Freaked Out,9 Years No Sleep,27,175665,False,0.569,0.947,2,-4.449,1,0.911,0.861,0.0,0.894,0.354,116.407,4,comedy
+0oXNlaw7Le9e61XaU4VaU3,Tommy Ryman,Having the Time of My Life,The Cable Fell out of the Sky,26,154853,False,0.64,0.731,1,-7.457,0,0.902,0.728,0.0,0.682,0.598,73.829,3,comedy
+0q4CJ3n09L9BFJwH9i0EGx,Greg Warren,Running Out of Time,Contractors,27,254490,False,0.572,0.458,6,-15.3,1,0.917,0.794,0.0,0.922,0.8,84.274,3,comedy
+4DEcdqqKokU7UAE4wCGQEy,Monty Python,Monty Python Sings,Always Look On The Bright Side Of Life,60,215333,True,0.669,0.535,2,-12.36,1,0.0972,0.432,0.0,0.208,0.739,120.071,4,comedy
+4IeaiQc8X9o3qbqphVz9dK,Craig Ferguson,I'm Here to Help,Great Asses Cause Trouble,27,159093,True,0.586,0.984,4,-3.408,1,0.906,0.877,0.0,0.854,0.218,129.459,3,comedy
+73BaMvN5FLdzEv32ZFTqcP,Josh Sneed,Unacceptable,Life on the Road,27,179680,True,0.492,0.687,1,-7.897,1,0.928,0.759,0.0,0.656,0.376,95.758,4,comedy
+7DEj0jgIaWingJUynv1jIa,Al Madrigal,Why is the Rabbit Crying?,Are You Lonely?,27,490400,True,0.478,0.956,0,-4.672,1,0.916,0.741,0.0,0.914,0.303,129.125,5,comedy
+65BkbrG8XPEpPAHA4jgYhW,Robert Schimmel,Life Since Then,Non Hogkins Lymphoma,28,68520,True,0.689,0.332,2,-19.407,1,0.961,0.873,0.0,0.66,0.701,80.739,4,comedy
+5hiQRUtRsUqTecmvuTEgSv,Matt Braunger,Big Dumb Animal,Wildcattin',27,396835,False,0.622,0.631,9,-10.461,1,0.938,0.655,0.0,0.342,0.48,79.905,3,comedy
+3xw2op6YmIuy1yVxt3iZ4p,Stephen Lynch,3 Balloons,Fishin' Hole,28,234853,False,0.794,0.303,0,-12.163,1,0.0436,0.424,0.0,0.0493,0.509,120.126,4,comedy
+4Exgmaay4ePMcaHu2nu5cE,Jeff Foxworthy,We've Been Thinking,Kidney Stones,28,627166,False,0.634,0.826,3,-11.228,0,0.946,0.75,0.0,0.752,0.334,111.984,3,comedy
+1TY0QcLKJ122AyGTTXFs5k,Josh Sneed,Unacceptable,Getting Older vs Growing Up,26,155960,True,0.529,0.49,0,-10.454,0,0.938,0.827,0.0,0.467,0.488,84.837,4,comedy
+4yJMYcNQNJ6J1Mso8D39qf,Brian Regan,Standing Up,Flying,27,390163,False,0.449,0.934,2,-8.862,1,0.923,0.881,0.0,0.766,0.0913,55.437,4,comedy
+5qUAwrSFidoC5dpx1Q5QSB,Jim Norton,Despicable - EP,One Scary Ass F*****g Black Guy,26,116080,True,0.551,0.683,6,-11.919,1,0.949,0.827,0.0,0.671,0.489,88.31,3,comedy
+3LNnPvkxj4m1lOWvSyTihG,Larry The Cable Guy,We've Been Thinking,Family Outings,27,244697,False,0.563,0.794,6,-10.696,0,0.93,0.79,0.0,0.466,0.327,127.615,3,comedy
+2S0Lm8dBbhoSTn2rKg3eYH,Big Jay Oakerson,The Crowd Work Sessions: What's Your F@!?#ng Deal?!,Bring Your Black Friend Night,27,182048,True,0.55,0.729,7,-10.619,1,0.895,0.806,0.0,0.79,0.634,100.375,3,comedy
+2PF38q1VPp5pwx4FSX2ELx,Christian Finnegan,Two for Flinching,Office People (And a Perfectly Good Font Joke),27,348346,True,0.59,0.688,1,-10.282,1,0.92,0.847,0.0,0.951,0.544,111.675,5,comedy
+2wPUZSVeVXmMWz1PMapwds,Kyle Kinane,Whiskey Icarus,Beth,26,405000,False,0.582,0.823,6,-5.486,0,0.936,0.725,0.0,0.442,0.251,138.553,4,comedy
+78Cbmdn65XaKaKnZ67OQqp,Chad Daniels,Busy Being Awesome,We Got Icees!,28,84666,True,0.669,0.715,5,-9.044,1,0.912,0.714,0.0,0.77,0.579,80.52,1,comedy
+6KsCGlECTk9A9k8WnUbbe4,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called I Ain't Tha 1,28,112042,True,0.735,0.573,3,-7.208,1,0.94,0.752,0.0,0.795,0.558,77.295,1,comedy
+59eLWLwFLUDjSgUymd0cSw,Brian Regan,Standing Up,Driving,27,258000,False,0.547,0.885,10,-8.617,1,0.943,0.882,0.0,0.912,0.0762,78.184,3,comedy
+76CrUf1UJ8tiFBJ76ZBULR,Katt Williams,Pimp Chronicles Pt.1,Get Some White Friends,26,154116,True,0.582,0.877,11,-12.901,1,0.951,0.819,0.0,0.801,0.527,69.562,3,comedy
+1U3TKql0TVeJmvcMD07LFl,Bert Kreischer,Bert Bert Bert,Asians in an Airport,28,376800,False,0.453,0.592,1,-12.45,1,0.941,0.943,0.0,0.891,0.581,171.678,4,comedy
+2XdwvVyTcgHSLRJT48gElr,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Fuck Tha Police,28,347285,True,0.592,0.674,7,-5.257,1,0.915,0.715,0.0,0.469,0.576,86.882,4,comedy
+7wiGHwLlgMN1jGIqgbcS9P,Brian Regan,Standing Up,Kids,27,567655,False,0.493,0.918,4,-9.595,1,0.926,0.876,0.0,0.828,0.0991,93.568,4,comedy
+3MjjRw1uzjFVP2f3CnUs9c,Bert Kreischer,Bert Bert Bert,Intro,29,134000,False,0.468,0.709,8,-12.266,0,0.952,0.926,0.0,0.916,0.453,83.493,4,comedy
+0bHGQ9mXqbhi83wYILF8AK,Dan Cummins,Get Outta Here; Devil!,Weirdest Spanking,26,219450,True,0.588,0.706,6,-13.119,0,0.957,0.672,0.0,0.865,0.491,81.222,4,comedy
+0nh1zQ7ECDPvGvqI8BiBgJ,Russell Peters,Russell Peters Hosts: Comics Without Borders,Italian Guys,28,68980,True,0.534,0.559,3,-20.687,0,0.925,0.833,2.62e-06,0.93,0.594,82.852,3,comedy
+6A73dOEb90Xe4ky82riIo7,Erikka Innes,Sex With Nerds,Superman and Passive Aggressive Man,26,82358,True,0.668,0.523,6,-9.526,1,0.848,0.905,0.0,0.524,0.601,87.436,4,comedy
+2Ii5427sI5vRkbpjLbQvD6,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Something Like That,27,161365,True,0.656,0.695,7,-6.369,1,0.936,0.774,0.0,0.968,0.686,123.907,4,comedy
+1LHXTLPQ1BlzAywwcJQJop,Kevin Bloody Wilson,Wrong! Wrong! Wrong!,Dicken's Cider,28,211653,True,0.733,0.715,9,-6.164,1,0.121,0.637,0.0,0.139,0.703,99.986,4,comedy
+1SHUzxcKoMXHX5DwZ0hHY1,Kevin Bloody Wilson,Klassic Kev,Stack the Fridge,30,153133,True,0.733,0.695,4,-7.698,1,0.174,0.528,2.55e-06,0.0703,0.732,120.122,4,comedy
+3NhZQA5icTOkVTu2fsx5N3,Kevin Bloody Wilson,Kev's Back (The Return of the Yobbo),Kev's Courtin' Song,29,237610,True,0.773,0.433,4,-16.067,1,0.129,0.237,0.0,0.122,0.939,139.811,4,comedy
+6sWOQoSO9nb7Sz8zVV85Xa,Larry The Cable Guy,We've Been Thinking,"Skeeters, Spiders and Lookalikes",29,275493,False,0.459,0.822,3,-10.685,1,0.948,0.8,0.0,0.891,0.179,86.4,4,comedy
+1N1QIeEPcVlNrfEel63lsA,Kathleen Madigan,Madigan Again,Obama,27,313773,True,0.579,0.891,5,-3.719,0,0.907,0.824,0.0,0.722,0.454,87.298,3,comedy
+2xfcxlx0QRbqUhpVidqmOU,Ron White,A Little Unprofessional,L.A. Beautiful/You're Beautiful/The Yellow Blur,27,322322,True,0.577,0.43,3,-19.479,0,0.941,0.955,0.0,0.32,0.235,100.561,3,comedy
+22H4FSYt6lqiS2KHyrMq9P,Ron White,A Little Unprofessional,Tater Tot/Peed in My Face/Busted with Porn/Sex Talk,27,341608,True,0.49,0.458,6,-19.4,1,0.952,0.934,0.0,0.768,0.148,88.142,1,comedy
+3VwRquI06Imdj7namX2R1O,Kevin Bloody Wilson,Kev's Back (The Return of the Yobbo),Dick'taphone,29,297170,True,0.745,0.509,2,-15.122,1,0.166,0.322,2.4e-05,0.433,0.832,120.213,4,comedy
+3oI7E8gpM3WjUnkc5XGRU5,Stephen Lynch;Laura Benanti;The Wedding Singer Ensemble,The Wedding Singer (Original Broadway Cast Recording),Not That Kind of Thing,27,194293,False,0.742,0.516,6,-6.718,1,0.0465,0.422,0.0,0.0957,0.578,143.987,4,comedy
+64vs4dpa55X1Z2thSiK3Ad,"""Weird Al"" Yankovic",Running With Scissors,"Grapefruit Diet (Parody of ""Zoot Suit Riot"" by Cherry Poppin' Daddies)",29,210306,False,0.738,0.51,8,-10.222,0,0.0472,0.0776,0.0,0.114,0.704,94.674,4,comedy
+3uewgGxACwca8iwi2ZVwVT,Pink Guy;Getter,Pink Season: The Prophecy,Fried Noodles (Getter Remix),45,351428,True,0.524,0.791,9,-4.903,1,0.387,0.135,0.188,0.258,0.231,139.946,4,comedy
+2rKPqxCmMQ68wYV1ArFvNy,Lil Dicky;GaTa,"We Good (From The TV Show ""DAVE"")","We Good (From The TV Show ""DAVE"")",48,167676,True,0.652,0.574,7,-7.62,1,0.0638,0.0166,0.0,0.133,0.299,80.996,4,comedy
+4roDTLs05yU9RpSBqwfKQ3,Lil Dicky,Professional Rapper,Bruh...,54,262984,True,0.906,0.888,2,-7.275,1,0.152,0.182,0.0,0.934,0.756,105.991,4,comedy
+6CfcY4Lhrc882k9xeZ5uC0,Tommy Ryman,Bath Time with Tommy Ryman,Deep Fried Goodness,26,73624,True,0.669,0.621,1,-7.981,1,0.93,0.845,0.0,0.671,0.574,94.901,1,comedy
+1JvhM0Zyk6sb87N59arUIX,Wyatt Cenac,Furry Dumb Fighter,Facial Profiling,26,198680,True,0.512,0.56,10,-13.887,0,0.926,0.866,1.34e-06,0.911,0.459,94.934,3,comedy
+4qhP9KcZc1eT8HFJKfrKuo,Jeff Allen,Three Word Vocabulary,My America,27,129986,False,0.528,0.749,1,-16.593,1,0.948,0.685,0.0,0.866,0.206,76.76,3,comedy
+0kp1hwbygxLb0MtGwM4bYO,Brian Posehn,Fart and Wiener Jokes,Metal Fans,27,32986,False,0.719,0.571,7,-9.292,1,0.946,0.931,0.0,0.651,0.741,106.625,3,comedy
+35VT9YtoKfh73jK55CMGRG,Big Jay Oakerson,An American Storyteller,Mother Knows Best,26,197626,True,0.421,0.93,2,-8.505,1,0.936,0.831,0.0,0.624,0.234,73.017,4,comedy
+3AyUAvAQGKyMzC9jGQeIlX,FASCINATING AIDA,Silver Jubilee,Dogging,26,205906,True,0.622,0.475,5,-10.27,1,0.242,0.915,2.11e-05,0.714,0.875,151.705,4,comedy
+6htsqOUljCeVcGgn6w8Jow,Adam Ferrara,Funny as Hell,In the Name of God,25,302173,True,0.397,0.959,9,-10.965,1,0.933,0.864,0.0,0.674,0.0658,74.969,3,comedy
+2zgevJn75mTJWMeDlwHHzz,Caroline Rhea,What Is It You Can't Face?,Bless Your Heart,25,123746,False,0.56,0.868,2,-13.532,1,0.832,0.664,0.0,0.649,0.345,103.219,3,comedy
+5bhDDKyI5PBu5HvhcmE4Rd,Christopher Titus,Angry Pursuit of Happiness,Brick O Dildos,27,183058,True,0.638,0.891,5,-6.443,1,0.925,0.87,0.0,0.651,0.209,129.099,4,comedy
+7rniJWFP6BPyVrkcJvPvCv,Jeff Foxworthy,The Redneck Test,You Might Be a Redneck,26,88293,False,0.511,0.872,1,-13.197,1,0.938,0.883,0.0,0.924,0.467,72.205,4,comedy
+11wD8eHJ3nJml1z9ZYMZVt,Tommy Ryman,Having the Time of My Life,"Dogs, Dogs and More Dogs",25,245226,False,0.635,0.79,1,-7.005,0,0.896,0.774,0.0,0.843,0.624,120.547,3,comedy
+3W5T8cQxNdRRteULtFeQjr,Matt Braunger,Shovel Fighter,The Sound,25,429987,True,0.594,0.916,5,-5.198,0,0.857,0.844,0.0,0.764,0.303,83.573,3,comedy
+3An7MrOZHfQCg789ZuqXnD,The Adventures of Duane & Brando,LP of Devastation (Remastered),Megaman 2,27,401904,True,0.266,0.574,1,-13.48,1,0.176,0.000104,0.137,0.359,0.542,150.375,4,comedy
+5H6kWqws4e4bYnMwaBxQOD,Ralphie May,Just Correct,Introduction,27,52178,True,0.317,0.869,7,-12.035,1,0.524,0.927,0.000869,0.957,0.119,116.889,5,comedy
+5NDVx9nNrF1Ytu8gSo1PZE,Rachel Feinstein,Only Whores Wear Purple,Facebook and Judging People,27,260569,True,0.628,0.802,1,-5.967,1,0.849,0.828,0.0,0.665,0.46,101.349,3,comedy
+3YPWqETsgCXbiVjCpe1cEu,Ralphie May,Just Correct,I Want the Rainbow Back,26,135794,True,0.529,0.877,5,-13.506,0,0.917,0.905,0.0,0.747,0.402,64.506,5,comedy
+3eha4sH06ANKhNiLZr0SSc,Katt Williams,Pimp Chronicles Pt.1,Hollywood,26,196493,True,0.628,0.933,6,-11.465,0,0.935,0.836,0.0,0.89,0.122,101.775,4,comedy
+586Ly3W4oczwgUV3kpt1a2,Katt Williams,Pimp Chronicles Pt.1,You Need Weed,26,217320,True,0.608,0.964,2,-10.324,0,0.952,0.844,0.0,0.907,0.166,81.141,3,comedy
+0elFbRnhFjsUdwnItRoMxx,Kyle Kinane,Loose in Chicago,Sodium Nitrite,25,502292,True,0.454,0.77,8,-8.927,1,0.953,0.835,0.0,0.887,0.255,61.77,3,comedy
+3Tyv6PsFbtVu0O3nbiXAND,Kyle Kinane,Whiskey Icarus,Shout It out Loud,26,267760,True,0.612,0.845,4,-4.979,1,0.937,0.805,0.0,0.713,0.311,119.3,4,comedy
+6NNgbJOUJ3YAfaOXIk4G7o,Linda P,Romancevisen,Romancevisen,26,183958,False,0.605,0.685,6,-7.749,1,0.0373,0.341,0.0,0.18,0.794,115.937,4,comedy
+6FnX91RMpO5lX6hhos9MRl,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Express Yourself,26,208874,True,0.546,0.755,6,-6.484,1,0.951,0.729,0.0,0.862,0.42,150.252,4,comedy
+23p7ROc0qotCsUqrhN3YEC,Kyle Kinane,Death of the Party,Way of the World,25,184786,True,0.629,0.697,8,-5.586,0,0.914,0.852,0.0,0.796,0.577,112.917,3,comedy
+6XVScVozKEZLinzspE76DV,Brian Regan,Epitome of Hyperbole,Reading,26,401244,False,0.542,0.974,9,-5.878,1,0.935,0.798,0.0,0.969,0.176,92.688,3,comedy
+4aPQGVR7QLOov5oqmchw1I,Kathleen Madigan,Madigan Again,Facebook / Twitter,27,212013,True,0.638,0.921,1,-3.974,1,0.905,0.826,0.0,0.784,0.445,79.864,4,comedy
+1nmVmuXlPUv1HJcsdvWV7h,Dan Cummins,Get Outta Here; Devil!,"Are My ""R's"" Clear Now?",26,225230,True,0.576,0.673,7,-12.55,1,0.957,0.648,0.0,0.91,0.414,79.786,3,comedy
+2tKL6AuloHLRoEABV7jMdp,Ron White,A Little Unprofessional,Dr. Phil Story,27,964097,True,0.583,0.347,11,-20.926,1,0.929,0.938,0.0,0.832,0.254,111.135,4,comedy
+1AEtUU2feJBKfaz7YMMDND,Ron White,A Little Unprofessional,Library/Steal Music,27,321488,True,0.524,0.408,6,-19.589,1,0.953,0.923,0.0,0.81,0.229,83.902,4,comedy
+6LO5HnyOkwkaykUQBDi17Y,Brian Regan,Epitome of Hyperbole,Tv,26,398714,False,0.483,0.98,5,-6.785,0,0.932,0.813,0.0,0.741,0.137,91.134,3,comedy
+6cxmYx2CDHRkaTZHVgsykX,Kyle Kinane,Loose in Chicago,Garlic Juice,25,734024,True,0.564,0.652,1,-8.088,0,0.951,0.813,0.0,0.765,0.507,83.802,4,comedy
+4gUw5pJgAAAQMzq80LnPye,Sebastian Maniscalco,Sebastian LIVE,Showering Is An Event,26,297755,True,0.36,0.799,4,-21.068,1,0.887,0.84,0.000167,0.888,0.127,85.036,4,comedy
+77FIQASFJbI4Du7icaFaGH,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Dopeman,25,656768,True,0.659,0.671,4,-6.322,0,0.929,0.674,0.0,0.661,0.532,109.756,4,comedy
+232JYqcGAakh5zqaMGzSoR,Kyle Kinane,Loose in Chicago,Sodium Erythortbate,26,171406,True,0.63,0.717,1,-7.703,0,0.937,0.815,0.0,0.816,0.408,83.223,4,comedy
+2WK0HQgZnAktJACJOFb2C2,Mike Birbiglia,Sleepwalk with Me - Live,Wedding Story,25,382413,False,0.447,0.766,3,-6.534,0,0.935,0.92,0.0,0.782,0.474,84.158,4,comedy
+2pyPe084AvBeM4VxqdWet3,Dan Cummins,Get Outta Here; Devil!,Get Rid of That Joke!,25,191399,True,0.604,0.619,5,-13.426,1,0.962,0.682,0.0,0.86,0.562,88.668,3,comedy
+23pZMteb67MFM7RAHveMRn,Chad Daniels,Busy Being Awesome,Tall Canadian Lady,27,132026,True,0.689,0.797,5,-7.785,1,0.89,0.712,0.0,0.883,0.654,59.54,4,comedy
+0TGqtoQcvUJRiAKkYRS3ew,Kevin Bloody Wilson,Klassic Kev,His Cock's Got Ribs,27,157680,True,0.542,0.587,7,-9.021,1,0.297,0.513,0.0,0.0744,0.887,199.821,4,comedy
+3serAvyVNdrr9ADfoH3xmd,Bert Kreischer,Bert Bert Bert,Blacks in a Subway,26,223733,False,0.506,0.54,8,-12.697,0,0.918,0.923,0.0,0.89,0.656,82.212,3,comedy
+1Dr5yM86NEcDowjG1D2nTu,Brian Regan,Epitome of Hyperbole,Movies and Parties,26,346372,False,0.492,0.966,6,-7.47,1,0.92,0.828,1.54e-06,0.797,0.0999,107.173,3,comedy
+5VstQo8pGLp593ixXidLDg,Mike Birbiglia,Sleepwalk with Me - Live,The Promise of Sleep,25,296573,False,0.57,0.766,6,-4.987,1,0.847,0.872,0.0,0.843,0.709,120.953,3,comedy
+1m0cS6nJHKgqZjPj6hgWNR,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Quiet on Tha Set,25,310997,True,0.621,0.626,1,-6.38,0,0.915,0.67,0.0,0.632,0.519,87.589,3,comedy
+2QtBWTz2IGx0sFDask6NNQ,Kathleen Madigan,Madigan Again,CD Airport Bar,27,170000,True,0.645,0.937,10,-4.281,1,0.923,0.784,0.0,0.744,0.294,133.587,4,comedy
+7tz87ist9Re3wiMwrxKSI6,Kyle Kinane,Loose in Chicago,Natural Flavorings and Coloring,26,614107,True,0.604,0.661,1,-8.698,0,0.94,0.833,0.0,0.944,0.328,128.571,3,comedy
+7BkpBDIDKUyAhdCmTp3fEQ,Stephen Lynch;Laura Benanti,The Wedding Singer (Original Broadway Cast Recording),If I Told You,27,195640,False,0.387,0.307,9,-8.509,1,0.0306,0.791,0.0,0.0975,0.336,118.448,4,comedy
+2DmclsX3DmIn9dtlWJOF5c,Kathleen Madigan,Madigan Again,Pot—The Gateway Drug,27,104573,True,0.668,0.912,7,-4.606,0,0.927,0.78,0.0,0.633,0.547,108.307,3,comedy
+3jekqoEPFf0Oy5uNHyeTXd,Kyle Kinane,"""I Liked His Old Stuff Better""",This Track Is Not Called Compton's n the House,26,294848,True,0.641,0.743,9,-5.918,1,0.943,0.732,0.0,0.786,0.433,121.868,3,comedy
+38bEZiXD665BgPZ4U62HnF,Kathleen Madigan,Bothering Jesus,K.C. Is the Garden of Eden,27,132350,False,0.496,0.869,0,-7.684,1,0.884,0.786,0.0,0.708,0.31,81.947,3,comedy
+7zvKFw17XyoBUx9mHiwzPy,Pink Guy,Pink Season,Rice Balls,46,196173,True,0.717,0.587,7,-8.97,1,0.368,0.0795,1.87e-05,0.192,0.336,112.44,5,comedy
+5r96TaQquRrlo3Ym3ZlSL2,"""Weird Al"" Yankovic",Bad Hair Day,"Amish Paradise (Parody of ""Gangsta's Paradise"" by Coolio)",58,202920,False,0.728,0.448,8,-10.54,1,0.172,0.103,0.0,0.267,0.483,80.902,4,comedy
+5j7NfGi2DdRJU6Zj7fSiWL,Tenacious D,Post-Apocalypto,turd whistle,26,39426,True,0.63,0.249,4,-14.952,1,0.965,0.353,0.0,0.193,0.739,172.243,3,comedy
+5Wx8VYoVWacFxKY3bLCucF,Matt Braunger,Shovel Fighter,Wdyl?,24,242819,True,0.588,0.915,1,-3.904,1,0.642,0.826,0.0,0.779,0.426,113.393,3,comedy
+3AO4zBhbT0E8hxb9HMSmbM,Jamie Kilstein,"Libel, Slander & Sedition",Obama and Hitler!,24,140199,True,0.705,0.555,2,-7.811,1,0.941,0.653,0.0,0.649,0.661,116.073,5,comedy
+2aSO9nc9s70ACw3pa3UXpY,Jesse Joyce,Joyce To The World,Frequent Flyer,24,134653,False,0.533,0.427,5,-18.024,1,0.859,0.757,0.0,0.862,0.549,81.666,4,comedy
+0K4PM5OWOH0P5iHqfEg9y5,Michael Ian Black,Noted Expert,A Special Moment,24,236490,True,0.602,0.691,4,-12.706,1,0.955,0.82,0.0,0.644,0.392,84.354,4,comedy
+0J4KkjulEwTMj6LsKBzHto,Ben Bailey,Ben Bailey Live and Uncensored,Growing Pain,25,215820,True,0.482,0.576,1,-15.788,1,0.876,0.87,0.0,0.955,0.245,100.29,3,comedy
+7lQrfDVKQ8p8CPzXSA4bIH,Doug Benson,Potty Mouth,It Is Written,25,162706,True,0.474,0.943,6,-4.544,0,0.881,0.826,0.0,0.94,0.39,119.71,3,comedy
+498ydhVoe0ZbvQzqumtl8u,Mitch Fatel,Public Display of Perversion,I Love Dogs and Cats,25,320790,True,0.381,0.889,1,-11.184,0,0.951,0.985,0.00305,0.622,0.408,82.415,3,comedy
+0aZAYMvk37VZEM0gkUNxld,Chris Hardwick,Mandroid,Merica the Beautiful,25,111893,True,0.534,0.902,10,-4.83,1,0.933,0.668,0.0,0.892,0.483,86.19,4,comedy
+1uyYFFjHvDeOTAhNydCURZ,Darryl Lenox,Super Bloom,Heightened Senses,25,277049,True,0.661,0.521,2,-10.08,1,0.853,0.9,0.0,0.728,0.751,123.197,1,comedy
+4LDShl57Pu2PJvjUv8xLGl,John Pinette,Show Me The Buffet,Free Willy,25,367653,False,0.507,0.605,1,-17.654,1,0.937,0.829,0.0,0.833,0.149,105.297,4,comedy
+33CYBlwPouOP0CeLStTY3C,Big Jay Oakerson,An American Storyteller,It's All in How You Look at It,24,172533,True,0.422,0.916,1,-6.589,1,0.881,0.869,0.0,0.906,0.497,79.373,4,comedy
+7w6WIKkBbqyChqrFtrimtl,Robert Schimmel,Life Since Then,Irresponsible Father,24,243880,True,0.555,0.63,9,-16.837,1,0.954,0.867,0.0,0.448,0.315,81.829,4,comedy
+0xLwnkBC8fi2qX6Gv69hhD,Christopher Titus,Angry Pursuit of Happiness,Chicken,26,162597,True,0.624,0.838,5,-6.139,0,0.946,0.86,0.0,0.831,0.588,79.647,3,comedy
+0aGP7lKPk7LO0czSXg6xUY,Steve Rannazzisi,Breaking Dad,Life Insurance,25,149302,True,0.636,0.866,3,-5.778,1,0.93,0.838,0.0,0.808,0.421,89.013,4,comedy
+5ngEWsbUmB9Vz2s58Km9vv,Big Jay Oakerson,The Crowd Work Sessions: What's Your F@!?#ng Deal?!,Respect Your Own Asshole,24,209952,True,0.498,0.72,4,-10.467,0,0.941,0.807,0.0,0.54,0.587,164.516,3,comedy
+7IBVW95IkvUVeUs7bxpGHs,Josh Sneed,Unacceptable,NASCAR,24,348453,True,0.536,0.724,1,-8.343,1,0.941,0.784,0.0,0.797,0.508,82.417,4,comedy
+52g6e7iR0C3XGWK6Jggp7d,Stuart Thompson,Dandy Man,Dandy Man,26,163229,True,0.549,0.894,9,-10.073,1,0.653,0.891,2.89e-05,0.662,0.747,130.912,4,comedy
+4NKO0wVXkC435PQivgBpcD,Martin Lawrence,Doin' Time: Uncut,My Favorite Boxer,25,234874,True,0.509,0.381,4,-22.709,0,0.955,0.686,0.0,0.984,0.253,78.081,4,comedy
+05vhv82vFjRflUYxKo0QDt,Big Jay Oakerson,An American Storyteller,O' Alaska,25,222160,True,0.423,0.896,1,-6.985,1,0.917,0.858,0.0,0.728,0.544,82.096,4,comedy
+3iypHvZowqXC9DYrsz8h14,"""Weird Al"" Yankovic",Poodle Hat,Genius In France,26,536786,False,0.56,0.56,0,-11.478,1,0.098,0.0413,0.0,0.231,0.688,135.939,4,comedy
+7DiBapaMFCYd3kyTyq19XN,Stephen Lynch,The Craig Machine,Whittlin' Man,26,171493,False,0.509,0.773,9,-5.386,0,0.119,0.624,0.0,0.945,0.534,140.832,4,comedy
+2aFaohjL80TFYORXqlXzjb,Stephen Lynch,3 Balloons,Medieval Bush,26,158693,False,0.779,0.138,2,-13.018,0,0.0632,0.827,0.0,0.104,0.424,141.268,4,comedy
+1Yv49pgnoCEuWXUzY2kdX1,Kyle Kinane,Death of the Party,I'll Be with You Tonight,25,480226,True,0.558,0.588,11,-7.35,1,0.941,0.834,0.0,0.861,0.597,80.92,4,comedy
+1ehJKl7YvJhkF4ZC5vwoBV,Christopher Titus,Neverlution!,10 Year Bender,25,434946,True,0.53,0.605,9,-9.804,1,0.95,0.936,0.0,0.972,0.436,82.873,3,comedy
+2ou8zc9CFiQ4BkQj95rAYu,Sugar Sammy,"Canadian Tour Improv Moments, Vol. I",Halal vs Kosher,25,132257,True,0.546,0.635,1,-12.637,1,0.919,0.861,0.0,0.872,0.574,75.927,4,comedy
+4ibBOq90B0c1N1TlrKti8x,Kyle Kinane,Death of the Party,Dream Police,25,399026,True,0.582,0.724,8,-5.173,1,0.923,0.813,0.0,0.949,0.626,83.571,4,comedy
+1RvgYKg3lIP2HmixX9kqhu,Brian Regan,Live from Radio City Music Hall,Tattoos,25,207818,False,0.656,0.883,3,-8.803,1,0.938,0.917,0.0,0.895,0.0974,112.789,4,comedy
+3QEeBzC7lbFaocX4umgAzg,Dan Cummins,Get Outta Here; Devil!,Chiquita Charlie,25,381842,True,0.545,0.698,5,-13.861,1,0.954,0.719,0.0,0.853,0.453,85.331,4,comedy
+09vAEgnS5r9SLbWmpHNmIK,Rodney Carrington,Morning Wood,Older Women,26,115573,True,0.625,0.367,7,-13.57,1,0.0436,0.607,0.0,0.27,0.611,81.528,3,comedy
+1je1zxcYN1L7nf1RYSNqJ8,Stephen Lynch,The Craig Machine,D & D - Live 2005,26,266733,False,0.431,0.683,2,-7.271,1,0.283,0.725,2.17e-06,0.773,0.444,76.788,4,comedy
+1u3LRHgXl6MVsLzKhGSR1r,Eugene Mirman,An Evening of Comedy in a Fake Underground Laboratory,Open / Wake up Call and Two Other Jokes,25,247293,True,0.554,0.961,4,-5.437,1,0.824,0.752,0.0,0.961,0.217,122.122,4,comedy
+4diVbVvaNOHzjbF86lrleL,Stephen Lynch,The Craig Machine,Voices In My Head,26,249066,False,0.537,0.185,7,-15.642,1,0.0588,0.805,0.0,0.271,0.395,131.232,4,comedy
+6V6tGipKy80Lx2ZrSvY3pI,Mike Birbiglia,Two Drink Mike,Two Drink Mike,25,363493,False,0.566,0.549,4,-13.479,0,0.928,0.811,0.0,0.711,0.385,129.117,1,comedy
+6YbYAPFBeRxbIMtVUGcO7I,Rodney Carrington,Morning Wood,"Rodney's Wife & Kids, Marriage, Vacations - Live",25,539666,True,0.581,0.66,2,-13.641,1,0.937,0.864,0.0,0.753,0.294,133.094,5,comedy
+5iNi2OVLS67LhBeGrK5uzX,Eugene Mirman,An Evening of Comedy in a Fake Underground Laboratory,Tea Party Website,25,231373,True,0.569,0.932,1,-5.497,1,0.893,0.777,0.0,0.927,0.342,86.499,4,comedy
+5TaLuKXgjF0DqMHLx6xaOu,Mike Birbiglia,My Secret Public Journal,Pachoo!,25,71373,False,0.551,0.824,1,-7.569,0,0.951,0.905,0.0,0.846,0.285,137.221,4,comedy
+6s7ix21AKHksitmLQNhgUL,Kyle Kinane,Loose in Chicago,Sheep Casing,25,813215,True,0.568,0.689,2,-7.946,1,0.944,0.785,0.0,0.682,0.424,83.889,4,comedy
+4lgzQssCDtBgs55XlVnJiw,Brian Regan,Standing Up,Tv Shows,26,393649,False,0.498,0.962,2,-9.127,1,0.898,0.877,4.57e-06,0.75,0.0621,86.952,4,comedy
+1L4ogWrxaJtEiZhH2OR2ld,Chad Daniels,Busy Being Awesome,Class Reunion,26,91346,True,0.56,0.768,10,-9.385,0,0.932,0.8,0.0,0.647,0.564,149.051,3,comedy
+7EqxObko1BrIksDyY658iZ,Mike Birbiglia,Sleepwalk with Me - Live,The Missile,25,700706,False,0.517,0.72,6,-7.322,1,0.911,0.861,0.0,0.822,0.502,113.008,3,comedy
+3M1I2kLUJ5850w3X0xI2GX,Dan Cummins,Get Outta Here; Devil!,Idiots of the Internet,25,183952,True,0.513,0.697,7,-13.22,1,0.958,0.691,0.0,0.889,0.463,77.949,5,comedy
+7sCPM0civUHE1zbkCyzmL8,Dan Cummins,Get Outta Here; Devil!,How Much Electricity Does It Take to Kill a Human Being?,25,189234,True,0.616,0.665,2,-13.684,1,0.947,0.702,0.0,0.598,0.503,119.087,1,comedy
+0HfqTzhDxo8jFUCpJbLhop,Chad Daniels,Busy Being Awesome,Twelve Apostrophes,26,120853,True,0.614,0.794,2,-9.36,1,0.91,0.763,0.0,0.329,0.368,110.149,3,comedy
+2iIWLRa3tulxcElwg8Y4s8,Kevin Bloody Wilson,Rides Again,Ol' Roy the Roota,26,278466,True,0.609,0.601,2,-7.302,1,0.0927,0.633,0.0,0.127,0.732,89.043,4,comedy
+3nEVN9wiCdyJ9NO7K3d1Mf,Stephen Lynch;The Wedding Singer Ensemble,The Wedding Singer (Original Broadway Cast Recording),Casualty of Love,26,187826,False,0.69,0.692,9,-4.681,1,0.133,0.0826,0.0,0.217,0.69,101.046,4,comedy
+2hn02zODitgIsPWpyqWx0X,Kathleen Madigan,Madigan Again,Mom's All-Star Pills,26,432693,True,0.572,0.961,5,-4.792,1,0.903,0.812,0.0,0.665,0.253,102.458,1,comedy
+5i8MyYffegIcalcDWSqgIa,Kevin Bloody Wilson,Kev's Back (The Return of the Yobbo),The Pubic Hair Song,27,261356,True,0.566,0.443,0,-18.116,1,0.145,0.687,4.88e-06,0.111,0.76,115.536,4,comedy
+46uMTUcbm48oFMWOCGLMe4,Glenn Wool,Let Your Hands Go,Drunk Glenn,24,72359,True,0.5,0.849,4,-5.659,1,0.801,0.896,0.0,0.725,0.263,126.238,1,comedy
+6Ho8CJNQRW5faDO45xrxDW,Lee Mack,"Just for Laughs - Archives, Vol. 39",Australian Ads (Jfl 2005),25,171237,False,0.683,0.691,1,-14.276,1,0.917,0.802,0.0,0.926,0.445,127.536,5,comedy
+4GaX2fHgUFJ1b6P4YGR9cr,Ian Edwards,"Live Nude Comedy, Vol. 1",Hitting On Your Wedding Guests,24,245954,True,0.559,0.4,11,-22.977,0,0.938,0.763,0.0,0.954,0.437,82.557,1,comedy
+0sO53kgvUZFEu8Tqne6T7N,Iliza Shlesinger,War Paint,Girl Gps,25,281448,True,0.676,0.951,9,-6.01,1,0.94,0.832,0.0,0.66,0.251,85.72,4,comedy
+3Io1DSreSHB4RwoS1J8cIQ,Craig Ferguson,I'm Here to Help,I Don't Do Drugs,24,150426,True,0.568,0.974,7,-2.754,0,0.805,0.913,0.0,0.64,0.374,85.712,4,comedy
+4RoNtqESNQ5JhnadPCrQEe,Robert Schimmel,Life Since Then,Swimming with a Dolphin,24,166293,True,0.61,0.543,1,-17.313,1,0.952,0.903,0.0,0.474,0.345,106.705,1,comedy
+0ARyrJy1XpPcff4PxreC3W,Eddie Della Siepe,Little Jerk,Older Parents,24,108480,True,0.688,0.49,0,-11.358,1,0.945,0.87,0.0,0.88,0.724,101.639,3,comedy
+6NrhX0wYkI6gsJVSqE0Y8M,Adam Ferrara,Funny as Hell,Jewish Food & The Better Half Part 2,24,229213,True,0.432,0.921,2,-11.243,1,0.939,0.849,0.0,0.462,0.18,68.243,3,comedy
+6nGmAZrE0kpYShVo7GK5bc,Billy Gardell,Halftime,Old Couple,24,399000,True,0.533,0.93,6,-12.044,1,0.917,0.781,0.0,0.922,0.0383,85.216,4,comedy
+1DG9zt3uO2FxxXh9pRhB0y,Louis Katz,If These Balls Could Talk,D.A.R.E. & Sex Ed,24,180533,True,0.513,0.878,9,-4.23,1,0.841,0.814,0.0,0.742,0.577,78.855,1,comedy
+5zCuSaARd2hGfGTNf6o2Gq,Rodney Carrington,Nut Sack,Tips On Marriage - Live,25,221573,True,0.539,0.658,6,-12.605,1,0.886,0.873,0.0,0.913,0.234,100.511,4,comedy
+6LTZdzt04HZBUkUfaIfCar,Robert Schimmel,Life Since Then,Bargaining with God,24,127146,True,0.621,0.407,10,-20.443,0,0.949,0.886,0.0,0.689,0.529,122.618,5,comedy
+5ViiYECDNvvqYHO0hXa2BC,Steve Rannazzisi,Breaking Dad,Around the House,25,130871,True,0.509,0.886,6,-5.933,0,0.96,0.861,0.0,0.69,0.263,172.77,5,comedy
+5DPHLBx7WCVwKBe0eTNp5V,Aunty Donna,The Album,Fuccboi Anthem,25,202300,True,0.697,0.642,2,-7.038,1,0.161,0.0915,0.0,0.333,0.768,159.899,5,comedy
+4gc2dxciFjfZCSAb46UQo3,Wyatt Cenac,Furry Dumb Fighter,Some Thoughts on the Confederate Flag,23,214736,True,0.638,0.601,10,-12.685,0,0.94,0.856,0.0,0.665,0.567,78.371,5,comedy
+6Lei3hCnBAyRHMJmFE83wo,Robert Schimmel,Life Since Then,Go Lightly,24,175506,True,0.525,0.584,1,-16.292,1,0.949,0.918,0.0,0.816,0.232,97.578,3,comedy
+2Kj82eFZ0nwjh6ztkWve6T,Big Jay Oakerson,The Crowd Work Sessions: What's Your F@!?#ng Deal?!,God Loves Fags?,24,207350,True,0.541,0.737,4,-10.884,0,0.883,0.81,0.0,0.686,0.613,106.298,4,comedy
+32Q994Bms8PgeoOBL3KViD,Stuart Thompson,Dandy Man,Gun Range,25,160257,True,0.553,0.867,2,-10.14,1,0.734,0.895,2.54e-06,0.6,0.866,92.78,1,comedy
+4ljapUYfjlL3Cp7fduR5NV,Mike Birbiglia,My Girlfriend's Boyfriend,Hi,24,121453,False,0.619,0.566,10,-10.768,0,0.949,0.854,0.0,0.759,0.438,92.895,3,comedy
+2cBGY25X6oG1fLwQyOZvJ1,Mike Epps,Under Rated... Never Faded & X-Rated,Bin Laden Money,25,80681,True,0.448,0.747,5,-11.65,1,0.821,0.924,0.0,0.268,0.0386,89.504,4,comedy
+3cUe0M94LdHokcqOGcto8i,Josh Sneed,Unacceptable,Keeping My Muscles Warm,24,188426,True,0.547,0.617,1,-10.238,0,0.946,0.819,0.0,0.473,0.463,63.209,3,comedy
+6b26Ss8JlicCqIWZuvbOar,Christian Finnegan,Two for Flinching,Fireworks Are Lame,24,208186,True,0.624,0.724,1,-8.575,1,0.939,0.825,0.0,0.853,0.324,111.818,4,comedy
+3mFAok3aKEopbpzOA7Dob6,Patton Oswalt,Talking for Clapping,Mei-Mei's Hair,25,279249,True,0.567,0.481,1,-20.827,1,0.925,0.804,0.0,0.796,0.175,74.57,4,comedy
+3CwkgAtc3CaEuSBB84b6dL,Kyle Kinane,Death of the Party,Voices,24,368400,True,0.569,0.565,11,-7.478,1,0.945,0.816,0.0,0.891,0.672,72.59,3,comedy
+4fyxgtM6FvepWbLlMKu0mV,Jeff Foxworthy,Redneck 12 Days of Christmas,Redneck 12 Days of Christmas,25,141666,False,0.711,0.589,7,-7.639,1,0.124,0.307,0.0,0.32,0.737,132.828,3,comedy
+5j5pCikiSYe36LRGDcPMgk,Stephen Lynch,Lion (Stephen Lynch),Tennessee,25,309120,True,0.625,0.272,4,-12.295,1,0.0399,0.731,0.00246,0.152,0.218,141.119,4,comedy
+7xKRV9kvzEvok904DHM7Xv,Chad Daniels,Busy Being Awesome,Fox Paws,25,213720,True,0.567,0.717,8,-8.942,1,0.901,0.719,0.0,0.695,0.689,87.897,3,comedy
+15sAxWCkI9yocuqXEGyx1c,Patton Oswalt,Talking for Clapping,Parents and Pills,25,202358,True,0.552,0.431,10,-18.837,1,0.962,0.872,0.0,0.674,0.448,78.361,4,comedy
+5h1SyX4QXZWV7EWvO0Dqt5,Christopher Titus,Norman Rockwell is Bleeding,Normal vs. Screwed Up,25,101213,True,0.617,0.79,5,-14.407,0,0.935,0.742,0.0,0.654,0.204,98.085,4,comedy
+6A3g0z9TCHu91KKjuQgA1n,Bret Ernst,American Comic,Strawberry Lemonade,24,300400,True,0.549,0.624,3,-9.707,0,0.937,0.845,0.0,0.907,0.514,92.35,3,comedy
+14XdWxPyzF8SC0TjNQWIPf,Kathleen Madigan,Bothering Jesus,Confession,26,96099,False,0.513,0.887,5,-6.425,1,0.695,0.794,0.0,0.974,0.34,79.836,3,comedy
+2reIi6iHy1aZyFd1SjYARp,Katt Williams,Pimp Chronicles Pt.1,Nuh Uh Mr. Jackson,24,216181,True,0.539,0.939,9,-10.298,1,0.949,0.797,0.0,0.864,0.469,85.543,3,comedy
+5Y9BvDBVkbZeFNF7wn6DyE,Brian Regan,Live from Radio City Music Hall,Fancy Restaurants,25,211588,False,0.651,0.807,4,-9.375,0,0.943,0.9,0.0,0.639,0.15,106.842,3,comedy
+3lN2hvwBsYssVzyJiSYDQZ,Hva Snakker Du Om?;Anders Matthesen;Bossy Bo,Den Ka' Byttes V:O:L:01:00,Kender De Det?,27,65266,False,0.615,0.526,0,-6.658,1,0.0929,0.721,0.0,0.132,0.916,116.596,1,comedy
+3pI707ZfaoWOsrbweizSgg,Katt Williams,Pimp Chronicles Pt.1,Drinking With White People,24,293593,True,0.622,0.759,11,-12.542,0,0.944,0.749,0.0,0.925,0.327,84.99,4,comedy
+4K4R1TAW4ct3w10EsHWMmA,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,King Tut,25,186173,False,0.608,0.907,9,-8.901,1,0.188,0.477,8.19e-06,0.938,0.503,134.049,4,comedy
+7afCEhjQKgWLoLOUs0TX4m,"""Weird Al"" Yankovic","""Weird Al"" Yankovic",I'll Be Mellow When I'm Dead,26,220906,False,0.661,0.714,2,-10.688,1,0.0615,0.185,0.0,0.264,0.866,94.046,4,comedy
+6F2LQFCB81ikNieTTeqoF9,Matt Braunger,Shovel Fighter,Cheese Babies and a Hot Boy,24,294271,True,0.59,0.769,3,-8.678,1,0.925,0.821,0.0,0.918,0.367,101.609,4,comedy
+4lPIAZd3QJGw8yB2dPJ61q,Kyle Kinane,Death of the Party,The House is Rockin' (with Domestic Problems),24,357600,True,0.635,0.596,4,-6.734,1,0.928,0.814,0.0,0.7,0.711,126.229,3,comedy
+5iI8V2vLRZEJnisAQqywCw,Chris D'Elia,White Male. Black Comic.,Church Is Creepy,25,579346,True,0.453,0.994,7,-2.188,1,0.929,0.808,0.0,0.847,0.0947,53.356,4,comedy
+0BwlKd6hBcKpcErG5G8K9w,Kyle Kinane,Death of the Party,Gonna Raise Hell,24,438253,True,0.56,0.573,8,-6.597,1,0.94,0.844,0.0,0.705,0.557,79.438,4,comedy
+11pBR5cLzU99vehVE4ZZnt,Dan Cummins,Get Outta Here; Devil!,Get Outta Here Devil!,24,279317,True,0.599,0.682,5,-12.866,0,0.956,0.664,0.0,0.322,0.539,94.532,3,comedy
+3YW29jDmosdZ6hQRnmKIeZ,Chas & Dave,Gold,The Diddlum Song (Diddle-Umma-Day),25,195013,False,0.782,0.881,5,-6.87,1,0.061,0.153,0.0,0.131,0.825,110.885,4,comedy
+60aVt9JuO6ZOWT2Hv0fN6w,Dan Cummins,Get Outta Here; Devil!,Put Your Lady Ween on That Screen,25,269476,True,0.604,0.738,7,-12.816,0,0.95,0.623,0.0,0.761,0.443,108.676,4,comedy
+1yEODXY84WoEl9hS0t1B8v,Stephen Lynch,Superhero,"Bowling Song (Almighty Malachi, Professional Bowling God)",25,300613,True,0.493,0.691,2,-6.872,0,0.202,0.493,0.0,0.99,0.76,127.059,4,comedy
+3pbDlMvvGh5V2wsASzfHS0,Kevin Bloody Wilson,Kev's Back (The Return of the Yobbo),It Was Over (Kev's Lament),26,174943,True,0.671,0.249,5,-16.824,1,0.0412,0.836,0.0,0.395,0.582,94.022,4,comedy
+2SQko9IKeFSv0MV7bF6edD,Kathleen Madigan,Bothering Jesus,I Ruined Christmas,26,85152,False,0.631,0.743,6,-7.385,0,0.608,0.812,0.0,0.861,0.521,98.137,4,comedy
+6TlMWLGfXZhf8AwUoDLsWO,Kathleen Madigan,Madigan Again,Muslims and Catholics,25,449426,True,0.582,0.896,6,-3.703,1,0.88,0.854,0.0,0.935,0.467,88.301,3,comedy
+1RLLZU8KLPbezWwPQU0aJg,"""Weird Al"" Yankovic","The Essential ""Weird Al"" Yankovic",The Night Santa Went Crazy,26,241720,False,0.593,0.663,3,-7.396,1,0.0329,0.158,0.0,0.0887,0.426,120.372,4,comedy
+497BYRE69prjakb9vZS8hI,Kathleen Madigan,Gone Madigan,The Irish & Drinking,25,110210,True,0.697,0.79,6,-4.984,1,0.858,0.854,0.0,0.858,0.557,89.949,4,comedy
+7bl8qstk4K7d1wkbDmNnZL,Afroman;Yung Fate;DJLeach;Jake Strain,420,420,45,312058,True,0.848,0.482,1,-10.555,0,0.0975,0.547,0.0022,0.108,0.783,120.008,4,comedy
+7lFgli7y2vo7sjgynHZzBP,Tenacious D,The Pick Of Destiny,Kickapoo,60,254346,True,0.501,0.796,0,-4.599,1,0.104,0.107,0.000974,0.539,0.582,130.719,4,comedy
+5pcbv2BMRRLQqLaCDaZIJD,Keith Alberstadt,Walk It Off,New Home,24,91177,False,0.535,0.726,4,-8.844,0,0.951,0.841,0.0,0.612,0.536,162.454,3,comedy
+7d91h2Di7Z94oGfOoxWIoW,Simon King,As Good As Or Better Than,Racism,23,251471,True,0.654,0.893,3,-5.525,1,0.891,0.656,0.0,0.938,0.759,98.541,3,comedy
+5Kb4VVMJcUPLzdtWpvuNIg,Micky Flanagan,Back In the Game,Weddings,25,416454,True,0.444,0.831,4,-16.183,1,0.919,0.799,0.0,0.727,0.111,83.144,4,comedy
+3xJm0qkhTO2bwBoIHlxW1D,Iliza Shlesinger,War Paint,Second-Hand Cattery,25,306872,True,0.629,0.916,2,-5.697,1,0.93,0.829,0.0,0.722,0.287,87.506,4,comedy
+6tj4H2DVzTbNyk9mmjdfAF,Ryan Stout,Touché,Afflictions,23,211733,True,0.478,0.702,4,-10.093,1,0.941,0.691,0.0,0.844,0.449,63.81,3,comedy
+06cjfioFBeeMtNoYRcKjui,Billy Gardell,Halftime,The Boy,24,581440,True,0.445,0.924,6,-12.445,1,0.926,0.77,0.0,0.975,0.0383,80.183,4,comedy
+0ZwK6PuKb3ZCChw1pu7llQ,Wyatt Cenac,Furry Dumb Fighter,Humans on the Internet,23,319753,True,0.618,0.534,10,-14.526,0,0.935,0.8,0.0,0.732,0.41,113.906,4,comedy
+409Sa75kH0hR48onC5x7KC,Billy Gardell,Halftime,Downloading Childhood,24,325280,True,0.504,0.911,1,-12.923,1,0.94,0.782,0.0,0.79,0.039,81.979,4,comedy
+6m75gt6kySl7QxN7ZK5gXv,Louie Anderson,Big Underwear,Health Nuts,24,202923,False,0.446,0.983,4,-8.439,1,0.868,0.613,0.0,0.608,0.0379,111.012,3,comedy
+4MQbBby2FFRc1MyJUwY6YU,Marc Maron,Thinky Pain,Roosters,23,149853,True,0.597,0.682,8,-7.487,0,0.919,0.896,0.0,0.74,0.602,129.238,3,comedy
+2Wixf22mYfhNtMIQBOrojt,Doug Benson,Potty Mouth,Mush Brain,24,198306,True,0.538,0.797,1,-5.226,1,0.754,0.777,0.0,0.639,0.595,110.904,5,comedy
+0RaGvh3x3zOOiCvcKuPD7i,Todd Glass,Todd Glass Talks About Stuff,People Say They Don't Watch Tv,23,214146,True,0.519,0.855,6,-2.66,1,0.642,0.835,0.0,0.48,0.739,95.99,4,comedy
+2233kDpGzceCjohT46Y4PX,Glenn Wool,Let Your Hands Go,Why You Shouldn't Do Topical Material on Albums,23,108184,True,0.556,0.831,7,-6.184,1,0.759,0.881,0.0,0.694,0.55,82.004,4,comedy
+0OHP6pMVDUhNwl6u9hP3oK,Tim Wilson,Church League Softball Fistfight,Church League Softball Fistfight,25,111360,False,0.635,0.697,0,-1.28,1,0.0509,0.748,0.0,0.252,0.826,119.565,4,comedy
+1Un4ZEzm64ncrnhxBCizXE,Stephen Lynch,The Craig Machine,Mixer at Delta Chi,24,126413,False,0.606,0.814,0,-6.94,1,0.215,0.515,0.0,0.219,0.84,132.043,4,comedy
+4R4zf5wNPAXrjM6b2SBWZJ,Stuart Thompson,Dandy Man,The Gym,24,173632,True,0.577,0.872,9,-10.18,1,0.566,0.899,5.15e-05,0.929,0.743,88.236,4,comedy
+6OZq1UCpqjb7hrzoMabtaJ,Mitch Fatel,Public Display of Perversion,I Love Gays,23,264225,True,0.442,0.885,2,-11.447,1,0.937,0.982,0.00109,0.557,0.5,107.301,3,comedy
+7LD83Y72Wm4VN3dQT9ngvJ,Tim Wilson,Certified Aluminum: His Greatest Recycled Hits Volume 1,The Jeff Gordon Song,25,130666,False,0.814,0.81,2,-6.799,1,0.0559,0.311,0.0,0.1,0.954,122.052,3,comedy
+7Krt486STzZRCsBzS9dFMy,Shane Mauss,Jokes to Make My Parents Proud,"Mushrooms, Vegan",24,253371,True,0.515,0.925,1,-6.651,0,0.918,0.892,1.22e-05,0.883,0.253,86.762,3,comedy
+4tLjqXXUEWYWefYb34xRff,Steve Rannazzisi,Breaking Dad,The 3 Year Old,24,177291,True,0.518,0.939,0,-6.217,1,0.957,0.854,0.0,0.706,0.314,69.79,4,comedy
+3okRMdTEsx6H6WpMpI7NKB,Martin Lawrence,Doin' Time: Uncut,America's Dad,23,259149,True,0.561,0.377,9,-22.968,1,0.954,0.642,0.0,0.854,0.207,87.555,4,comedy
+43Hi94GfH9a3Xj8i4TzLhg,Josh Sneed,Unacceptable,Giving up My Belly Button for Lint,23,218053,True,0.469,0.706,1,-11.507,0,0.944,0.772,0.0,0.493,0.367,89.0,4,comedy
+76xWbWiljHdULpuG2FQQy0,Pablo Francisco,Knee To The Groin,Psycho Women / Species,24,224066,False,0.486,0.511,1,-18.619,1,0.911,0.82,0.0,0.734,0.291,104.982,3,comedy
+0XfmVOpqUrQwaxDbv4xwc0,Mike Birbiglia,My Girlfriend's Boyfriend,You Seem Cool,24,154544,False,0.637,0.712,1,-8.331,1,0.953,0.903,0.0,0.698,0.369,66.801,3,comedy
+4N76PHUjVJrtTfiYWZB03T,David Cross,"Oh, Come On","How the Sausage Is Made (Couples Colonic, Pt. 4)",24,253591,True,0.621,0.56,3,-15.82,0,0.941,0.315,0.0,0.931,0.438,82.399,4,comedy
+5EYGlAjkttWIm5jnE0U1Cd,Patton Oswalt,Talking for Clapping,The Silver Balloon,25,471461,True,0.62,0.416,1,-19.463,1,0.95,0.753,0.0,0.725,0.275,135.685,1,comedy
+3gqDcHFH3r5AQzsr3r6g0L,Sebastian Maniscalco,Sebastian LIVE,All Starts on the First Date,24,391557,True,0.365,0.728,2,-21.023,1,0.889,0.814,4.22e-06,0.93,0.196,66.737,3,comedy
+5obuCoU65j2RvyG14qjUlv,"""Weird Al"" Yankovic","""Weird Al"" Yankovic",Gotta Boogie,25,134160,False,0.57,0.592,9,-9.014,1,0.198,0.00819,0.000118,0.165,0.961,79.96,4,comedy
+0jDb1GuibdRToMpIKHvzfO,Larry The Cable Guy,Remain Seated,Buffets & Scoring,24,228084,False,0.565,0.792,1,-12.298,1,0.947,0.776,0.0,0.732,0.203,103.506,4,comedy
+1u0iPSbdupbwOPwGRW8awx,Katt Williams,Pimp Chronicles Pt.1,Holla If You Hear Me,23,302619,True,0.55,0.901,6,-11.511,0,0.862,0.645,0.0,0.951,0.294,115.948,3,comedy
+400FHlIlbJ2f9VZSbsIR7t,Ralphie May,Just Correct,We Fuck with Minorities,24,350370,True,0.408,0.749,9,-15.217,1,0.938,0.871,0.0,0.957,0.363,71.53,4,comedy
+74UKOAeXGL0oMvpJXJS7eN,Dan Cummins,Get Outta Here; Devil!,The Semicolon,24,225172,True,0.532,0.654,8,-13.489,1,0.952,0.729,0.0,0.858,0.508,85.572,4,comedy
+5Sl5UEf2o4NJ5VxBPjd8mt,Dan Cummins,Get Outta Here; Devil!,The Art of Whispering,24,199866,True,0.489,0.821,5,-13.444,0,0.951,0.442,0.0,0.641,0.314,81.871,5,comedy
+6Z6SFFFWgLldSgTFyKyI0i,Chad Daniels,Busy Being Awesome,Anastasia Seabiscuit,25,94720,True,0.68,0.818,8,-8.723,1,0.916,0.708,0.0,0.622,0.455,86.087,1,comedy
+3sOTBAXbpYLKoKuREvjIWp,Dan Cummins,Get Outta Here; Devil!,Ku Klux Clown,24,286816,True,0.59,0.586,0,-13.033,1,0.958,0.657,0.0,0.876,0.594,87.341,4,comedy
+6xQD3FwSPXyWgmCwSEGMkh,Mike Birbiglia,Two Drink Mike,I'm Crazy and Gay Cats,24,437000,False,0.589,0.524,2,-11.455,0,0.941,0.82,0.0,0.918,0.515,141.739,5,comedy
+7uJvaM3GQg7AjXESEYyN6T,Sebastian Maniscalco,Sebastian LIVE,An Italian Christmas,24,294502,True,0.377,0.666,0,-22.108,1,0.911,0.846,9.46e-06,0.858,0.144,62.807,4,comedy
+2DsDWkKARyqjvXnmYmDksc,Brian Regan,Standing Up,Politics,24,353226,False,0.51,0.922,1,-8.634,1,0.935,0.879,0.0,0.823,0.0948,82.909,3,comedy
+22sbdSeLhYljMchPpQH99n,Brian Regan,Live from Radio City Music Hall,Impatient New Yorkers,24,376745,False,0.671,0.864,2,-8.497,1,0.932,0.929,1.61e-06,0.926,0.127,109.21,3,comedy
+2SvZUNhgbThklBmx4pBH1Y,Mike Birbiglia,My Secret Public Journal,Put It on Paper,24,249773,False,0.502,0.602,9,-7.839,1,0.458,0.9,0.0,0.746,0.474,80.378,4,comedy
+67NM4j7dNLyT4HaFUnIWg9,Mike Birbiglia,Two Drink Mike,"Sex, Tennis, And Pandas",24,350000,False,0.567,0.574,4,-10.047,1,0.945,0.765,0.0,0.857,0.488,94.241,4,comedy
+2zC9YxLVlzlpY6vclTsHgk,Patton Oswalt,Talking for Clapping,Movies and Men and Women and Birth,24,235680,True,0.536,0.539,4,-17.764,1,0.94,0.844,0.0,0.821,0.282,95.331,3,comedy
+2UUp0OyN2T6eZ2aGctT6tS,Kevin Bloody Wilson,Rides Again,A Place Called...,25,282760,True,0.692,0.643,9,-7.102,1,0.0627,0.549,0.0,0.245,0.8,135.947,4,comedy
+16mjHjHvZkz5SRv1BM7GDG,Chad Daniels,Busy Being Awesome,Eat Your Carrots,24,108413,True,0.577,0.733,8,-9.729,1,0.93,0.716,0.0,0.669,0.652,58.189,4,comedy
+1WzFJkpI1M4P6jc6JCoExt,Dan Cummins,Get Outta Here; Devil!,Getting My Zapples Riled,24,208741,True,0.611,0.729,9,-12.856,0,0.952,0.7,0.0,0.712,0.522,83.052,1,comedy
+4gTZWsT8cXlU2e19DIA16X,Dan Cummins,Get Outta Here; Devil!,Prune That Family Tree Right at the Stump,23,273581,True,0.595,0.613,11,-12.902,0,0.959,0.688,0.0,0.728,0.705,79.132,4,comedy
+4WI6J6KIei58xYIaqPAQut,Kathleen Madigan,Madigan Again,Parents,25,120680,True,0.655,0.928,0,-4.442,1,0.927,0.795,0.0,0.718,0.423,79.434,4,comedy
+6vUSXS6qpwMUYhSYznshJE,Professor Elemental,Professor Elemental and His Amazing Friends,All in Together (GnT Remix),25,220544,False,0.769,0.839,7,-7.094,1,0.279,0.0595,0.0,0.189,0.74,95.204,4,comedy
+6XmT1eehtQjAtuZL3gMBNT,The Lonely Island;Adam Levine;Kendrick Lamar,The Wack Album,YOLO,46,184640,False,0.611,0.871,7,-3.003,0,0.275,0.0284,0.0,0.157,0.66,160.032,4,comedy
+4CLG2H6prCOmurLd9zhot7,Dirt Nasty;Too $hort,Palatial,Bang Her (feat. Too $hort),24,216916,True,0.8,0.881,2,-2.748,1,0.093,0.13,0.0,0.0964,0.446,100.001,4,comedy
+44yhXVusFzjQY22PmTMH5p,Andrew Norelli,Cut Above Stupid,Stubborn Belly Fat,23,123493,False,0.634,0.574,8,-13.985,1,0.905,0.857,0.0,0.785,0.704,83.714,3,comedy
+6gUOguTCHeUR40A3XXrDfB,John Bishop,The Sunshine Tour,An Apology,24,125554,False,0.538,0.45,2,-17.392,1,0.901,0.785,0.0,0.979,0.436,105.071,1,comedy
+3zx3ufwmoNEMDsYWyBQB1p,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Covid Mask,24,236655,False,0.625,0.885,8,-10.049,1,0.937,0.966,2.98e-05,0.392,0.346,71.55,3,comedy
+2uPC12uPnSIvI33syVUhTC,Stephen Lynch,Lion (Stephen Lynch),Lion,24,248813,True,0.702,0.539,7,-5.979,1,0.0719,0.675,0.0,0.458,0.65,134.825,4,comedy
+48xSxuH3aSd86rJpotla07,Michael Loftus,You've Changed,Firetrucks,23,256333,True,0.637,0.512,4,-16.028,1,0.954,0.786,0.0,0.776,0.537,79.775,4,comedy
+71wv8LAnRyF9mGIEvCEQyD,Micky Flanagan,The Out Out Tour,Out Out,24,421963,True,0.478,0.87,2,-15.775,1,0.91,0.746,0.0,0.964,0.148,88.733,3,comedy
+70KQGyFQzsZU5aI2EjLxO8,Tom Papa,Freaked Out,21st Century,23,391308,False,0.481,0.972,11,-4.131,0,0.931,0.855,0.0,0.495,0.184,82.648,4,comedy
+58zBJP1aojko8RBJe2JhUy,Katie Hannigan,Feeling of Emptiness,Having Kids,24,96973,False,0.657,0.348,2,-11.913,1,0.954,0.835,0.0,0.74,0.598,92.443,3,comedy
+6mDgWrsTyPknlKoEHlmQ5y,Tom Papa,Freaked Out,Big Stress,23,416317,False,0.536,0.953,2,-4.435,1,0.92,0.869,0.0,0.703,0.285,94.955,4,comedy
+1Y4j9cL46cKFrH6VmZ7Suo,Iliza Shlesinger,War Paint,Girl's Night,25,328594,True,0.6,0.919,10,-6.005,1,0.95,0.812,0.0,0.957,0.32,85.992,4,comedy
+0WvJ9lW7G7i6MyJ0wcDBrK,Mo Mandel,Negative Reinforcement,Add and Ocd,23,169841,True,0.669,0.733,4,-11.964,0,0.945,0.796,0.0,0.677,0.424,80.157,4,comedy
+6xZ2wFYb8HQZKLfkSiRAt9,Kevin Nealon,Whelmed…but Not Overly,Skiing the Blacks,23,138986,True,0.539,0.941,6,-4.456,1,0.904,0.656,0.0,0.398,0.473,85.308,4,comedy
+4DX1UkmamaaqWvxxWaMwe9,Andrew Orvedahl,Hit the Dick Lights,Title Track,24,198401,True,0.501,0.77,2,-11.048,1,0.93,0.734,0.0,0.672,0.562,80.866,4,comedy
+0084XCqFNqZ5K8DliXVSXh,Iliza Shlesinger,War Paint,It's a Prison Workout,24,249180,True,0.585,0.938,7,-5.226,0,0.95,0.785,0.0,0.848,0.347,58.36,4,comedy
+4XwLGnMQRkNBgKgvqZuoMW,Bruce Bruce,Losin' It,Get A Physical,24,157791,True,0.634,0.51,1,-19.945,1,0.942,0.903,0.0,0.7,0.496,95.225,3,comedy
+4R7MYSJfwhtRhl7m8BgkDX,Andi Smith,Bronze Digger,It Changes Everything,23,136000,False,0.569,0.354,3,-19.912,1,0.95,0.882,0.0,0.74,0.405,89.682,3,comedy
+0Qmc180RZEUmMw5XQ9C438,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Solar Panels,24,154961,False,0.667,0.698,11,-10.777,1,0.944,0.979,5.29e-06,0.703,0.632,66.119,3,comedy
+5wKSrX1RAgatYK50X3hcCQ,Jeff Foxworthy,Sold Out,Money Fights,23,168306,False,0.607,0.686,10,-14.915,1,0.944,0.835,0.0,0.935,0.512,57.334,4,comedy
+34cfw34fHb7GeCAUSd4wCd,Rachel Feinstein,Only Whores Wear Purple,Joking After Sex,24,197256,True,0.542,0.729,1,-6.857,1,0.904,0.884,0.0,0.397,0.384,82.402,4,comedy
+6avqgORCuZvYI5lKJ0oRcn,Jeff Allen,Three Word Vocabulary,Puberty,24,80653,False,0.56,0.666,10,-15.974,0,0.931,0.793,0.0,0.941,0.401,77.041,4,comedy
+7vpVXGge6WJU1LQ62LaZy5,Glenn Wool,Let Your Hands Go,"Kurt Warner, Thank God",23,154372,True,0.569,0.722,4,-5.733,0,0.925,0.819,0.0,0.732,0.538,86.388,4,comedy
+1nOmQCurUIgpKYtdmwLXgJ,Kurt Braunohler,Trust Me,Satellite Radio / Jimmy Buffet,23,138410,True,0.672,0.688,10,-14.009,1,0.924,0.874,0.0,0.92,0.501,130.16,3,comedy
+3cw2X9AStMjrGnhBsm4fcJ,Tommy Ryman,Having the Time of My Life,International Snack Smuggler,24,156466,False,0.602,0.688,2,-6.91,1,0.938,0.735,0.0,0.653,0.681,144.582,3,comedy
+5uQ98nbupWKb8iOuYiogJg,Jeff Foxworthy,The Redneck Test,Southern Words,24,125753,False,0.508,0.73,11,-12.703,1,0.875,0.901,0.0,0.713,0.494,95.326,3,comedy
+1WfGsQ85CKU1yOVHLpk3ab,Froggy Fresh,Money Maker Reloaded,Christmas,24,165624,False,0.691,0.712,7,-5.381,0,0.0695,0.396,0.0,0.127,0.812,160.056,4,comedy
+1O57BWzomyqoNAaoZ8wIn1,Mike Epps,Under Rated... Never Faded & X-Rated,The New Ike Turner,24,109741,True,0.472,0.621,6,-16.144,1,0.913,0.914,0.0,0.394,0.101,85.799,1,comedy
+0WKVzVGIghMXRSEoKWUrkx,Dan Levy,Congrats on Your Success,I Used to Be Really Cool,23,150800,True,0.44,0.933,1,-5.152,1,0.907,0.805,0.0,0.837,0.255,67.368,4,comedy
+44s0L6VWwtpWn0oV0DJbFj,Steve Rannazzisi,Breaking Dad,The Rob Konrad Story,24,248668,True,0.625,0.906,5,-5.042,1,0.924,0.836,0.0,0.955,0.438,98.384,3,comedy
+4I1BZvVRrxOg7Fj7Nl1Xsv,Jamie Kilstein,"Libel, Slander & Sedition",When You Bomb Several Countries Bad Shit Happens,23,160653,True,0.72,0.692,7,-6.172,0,0.807,0.535,0.0,0.549,0.857,78.398,4,comedy
+0nOybOuKNsSFg1NDHO67MF,Christopher Titus,Neverlution!,Neverlution,24,153333,True,0.615,0.644,3,-10.944,0,0.921,0.915,0.0,0.864,0.263,117.299,1,comedy
+4sOT4ppaZ2xGlDurNwFkXA,Frank Caliendo,Material from the FrankCaliendo.com Giggles Shakey Cam DVD,Bradshaw's Buddy,23,107213,False,0.553,0.626,1,-12.819,1,0.933,0.851,0.0,0.84,0.58,95.232,3,comedy
+47b3B6wSy19n8iXNsHWAc5,Rodney Carrington,Morning Wood,All About Sex - Live,24,751106,True,0.529,0.608,6,-13.074,1,0.946,0.828,0.0,0.6,0.334,85.95,4,comedy
+2D8RTkLjzhCisKhy9z3Apb,Mike Birbiglia,My Girlfriend's Boyfriend,My Girlfriend's Boyfriend,23,388818,False,0.531,0.719,1,-8.244,1,0.953,0.88,0.0,0.256,0.364,76.568,3,comedy
+3vf57GSci6XdBKrTcMRRtm,Mike Birbiglia,My Secret Public Journal,Jack & Irma's Magic Phones,23,146053,False,0.532,0.729,1,-7.451,0,0.953,0.87,0.0,0.914,0.445,93.429,1,comedy
+6PUb0qXneOOPSqFW8Z6wi8,Seething Fuck Patties,Greatest Shits,I Fucked A Sasquatch,24,184786,False,0.477,0.573,7,-7.808,1,0.0674,0.753,0.0,0.117,0.511,79.915,4,comedy
+69ATxQQDdQ3f37BCNGry9o,Chris D'Elia,White Male. Black Comic.,Black Dudes,24,459517,True,0.574,0.983,1,-2.584,0,0.822,0.81,0.0,0.784,0.189,111.411,3,comedy
+243EWPmRIKTyEhfiqRe6J1,Kyle Kinane,Death of the Party,Writing on the Wall,23,417213,True,0.63,0.552,8,-6.563,0,0.911,0.841,0.0,0.656,0.635,75.221,4,comedy
+2qVe4WymBocjAWHvn1xucX,Mike Birbiglia,My Girlfriend's Boyfriend,Winter in Bermuda,23,437683,False,0.534,0.715,10,-9.334,0,0.955,0.922,0.0,0.308,0.466,79.334,4,comedy
+2OcyodD7U5yKlsi7ET402f,Stephen Lynch,Superhero,What If That Guy from Smashing Pumpkins Lost His Car Keys?,24,52813,True,0.433,0.235,5,-14.07,1,0.0679,0.784,9.44e-05,0.382,0.452,145.245,4,comedy
+1LVigDdYXwWucZSJ3fjoKq,Sebastian Maniscalco,Sebastian LIVE,People Are Disgusting,23,341049,True,0.382,0.842,5,-19.764,1,0.843,0.778,0.000256,0.843,0.0767,137.255,3,comedy
+0017XiMkqbTfF2AUOzlhj6,Chad Daniels,Busy Being Awesome,Thanksgiving Chicken,24,127040,True,0.536,0.78,5,-9.449,0,0.945,0.792,0.0,0.735,0.452,173.912,3,comedy
+0QflAnerurTgsWavLFkUBT,Kathleen Madigan,Madigan Again,PBS,25,133733,True,0.614,0.903,10,-3.894,1,0.843,0.81,0.0,0.625,0.48,98.199,3,comedy
+2THOt8bW3Vt5csSu8b1PeR,Dan Cummins,Get Outta Here; Devil!,I Hope This Helps,23,138388,True,0.606,0.675,11,-14.706,0,0.958,0.744,0.0,0.634,0.601,79.764,5,comedy
+6AdI9jkf98fzwVVx2Y7Th6,Bert Kreischer,Bert Bert Bert,Mexicans in an Elevator,24,613680,False,0.537,0.592,1,-12.405,1,0.931,0.937,0.0,0.723,0.573,136.429,4,comedy
+3qTe590n03EVXVLVsUZNgn,Dan Cummins,Get Outta Here; Devil!,Very Hungry Lion Island,23,417376,True,0.535,0.678,5,-12.521,1,0.956,0.732,0.0,0.977,0.515,65.594,4,comedy
+4C31xrbabTvN9DnJvH72pS,Kathleen Madigan,Gone Madigan,My Family,24,646579,True,0.56,0.787,1,-5.39,0,0.912,0.843,0.0,0.801,0.488,62.633,4,comedy
+2jamDYuzNATL17p4ED6KKO,Dan Cummins,Get Outta Here; Devil!,True Gender Equality,23,284776,True,0.633,0.614,6,-13.623,1,0.952,0.684,0.0,0.805,0.581,133.502,4,comedy
+1KvbRHwlQjTXam6Npm8KPS,Kathleen Madigan,Gone Madigan,Banks,24,139672,True,0.724,0.832,8,-5.069,1,0.874,0.85,0.0,0.641,0.502,62.272,4,comedy
+60VtX59NsRINDnObbDtH7G,The Lonely Island;Justin Timberlake,Incredibad,Dick In A Box,51,161053,True,0.542,0.699,8,-6.029,1,0.306,0.401,0.0,0.105,0.687,76.391,4,comedy
+28IvFkxf9TBHdCIe3n1JWm,Afroman,The Good Times,Because I Got High - Extended Version,53,310466,True,0.788,0.336,7,-8.56,1,0.561,0.108,0.0,0.321,0.796,166.018,4,comedy
+07ifhJCpYi1hjZKd1xaXJA,Stephen Lynch,Lion (Stephen Lynch),No Meat,24,252960,True,0.44,0.292,5,-10.516,1,0.0328,0.824,5.72e-05,0.131,0.349,142.437,3,comedy
+1283dXnSZw4kGYGG7ozGij,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Fiance,23,1081982,False,0.698,0.814,5,-12.645,1,0.9,0.988,3.25e-06,0.736,0.157,131.549,4,comedy
+5wHf0cE3iNhw76HgsBNC3y,Baron Vaughn,Raised by Cable,Vegas,23,170946,True,0.636,0.653,9,-8.661,1,0.934,0.832,0.0,0.663,0.682,124.057,4,comedy
+4c8VzzjJps5O6RITruWEu6,Afroman,2000s Hip Hop,Crazy Rap (Colt 45 & 2 Zig Zags),25,328666,True,0.927,0.367,9,-7.797,1,0.383,0.325,0.0,0.132,0.575,99.056,4,comedy
+04P5Y93bIK1HRJ68hQdBCx,Andi Smith,Bronze Digger,Surprise!,23,207000,False,0.513,0.325,3,-20.989,1,0.936,0.829,0.0,0.795,0.462,86.779,4,comedy
+0svA6HXxZlUYoG9QoKUsvj,Ian Edwards,100% Half-Assed,14 Years in Jail,23,71323,True,0.759,0.494,3,-12.788,0,0.951,0.746,0.0,0.415,0.573,64.61,5,comedy
+6MxBErMlx7n16aJNbPVPFD,Billy Gardell,Halftime,Encore,23,151253,True,0.503,0.919,0,-12.125,1,0.668,0.448,0.0,0.514,0.0615,115.911,4,comedy
+7y0aQ62mgR5ASfA6HL6iwW,Chris Robinson,"Gut Bussa, Vol. 1",Underwear,23,173252,True,0.58,0.33,8,-16.166,1,0.948,0.718,0.0,0.802,0.702,84.172,3,comedy
+0RSCTjURrodYARCq8uEmcA,Ian Edwards,100% Half-Assed,A Good Black Leader,22,106112,True,0.64,0.596,6,-13.661,0,0.899,0.796,0.0,0.797,0.624,99.136,4,comedy
+1YzejrRu2jpVveWbWryGoO,Tommy Ryman,Having the Time of My Life,Rip Lex Luthor,22,160493,False,0.594,0.701,4,-6.911,0,0.947,0.765,0.0,0.717,0.703,84.733,4,comedy
+0QiQL2iNZJar8XquthMZyI,Simon King,As Good As Or Better Than,Let's All Hate Steve,22,154635,True,0.699,0.766,2,-7.084,1,0.784,0.658,0.0,0.744,0.79,105.428,3,comedy
+4lEveRakbs1qTAqArQRVdm,Aunty Donna,The Album,Professor Whiskers,23,217600,True,0.887,0.482,10,-8.808,1,0.267,0.092,0.0,0.0279,0.495,104.976,4,comedy
+1RZyU1Fb25HUfBPAA1AsdH,Iliza Shlesinger,War Paint,Boarding Zones,24,197381,True,0.583,0.874,2,-4.854,1,0.887,0.794,0.0,0.962,0.59,81.088,3,comedy
+2pehikQ656m8AYjDlORm8P,Big Jay Oakerson,Live at Webster Hall,Asian Guy Crowd Work,22,97170,True,0.443,0.851,2,-13.977,1,0.875,0.906,6.08e-06,0.958,0.0878,82.152,3,comedy
+5xN4w313YMk97dspXDIZu2,Jeff Foxworthy,Sold Out,Working Woman,23,185155,False,0.565,0.714,11,-15.224,1,0.883,0.845,0.0,0.933,0.402,116.953,3,comedy
+38DQI9zY5L1rewH3qTajPm,Big Jay Oakerson,Live at Webster Hall,Cape Cod People,23,132867,True,0.424,0.878,6,-13.277,0,0.938,0.889,0.0,0.838,0.157,72.883,4,comedy
+6AnkFuMBMaya0iBLrqH2Ac,Stuart Thompson,Dandy Man,Pandas,24,160257,True,0.617,0.846,11,-10.509,1,0.581,0.881,7.07e-06,0.472,0.842,102.134,3,comedy
+4OhrEMzb7JIlDLJnDF5i2V,Robert Schimmel,Life Since Then,17 Year Old,23,291880,True,0.598,0.583,8,-16.918,1,0.943,0.885,0.0,0.579,0.354,120.523,1,comedy
+6a4tzCwGfCJFPMOVN8s2o0,Mitch Fatel,Miniskirts and Muffins - EP,I Love My Penis,22,164840,True,0.538,0.797,8,-12.169,1,0.95,0.918,1.76e-05,0.586,0.448,75.923,1,comedy
+6BsvIgLSSD5zUkOKPj4tMY,Louis Katz,If These Balls Could Talk,Being Healthy Sucks,23,185613,True,0.498,0.871,7,-5.136,1,0.912,0.837,0.0,0.713,0.507,87.79,4,comedy
+1Jtg9NzFDLNpPZzCHmreOT,Todd Glass,Todd Glass Talks About Stuff,Domestitated,22,299453,True,0.531,0.934,6,-2.75,1,0.816,0.858,0.0,0.937,0.558,93.611,4,comedy
+6RbJ6SXAiOHK3IlgRzKCJ5,Craig Shoemaker,The Last Stand (Up),Racist Room-Check,22,232899,True,0.479,0.976,1,-3.143,1,0.595,0.892,0.0,0.756,0.391,126.727,4,comedy
+3t6tJx92OVwqK8KWmpM6Q6,Andy Hendrickson,Dry Bar Comedy Presents: Left Field,Travel,23,147600,False,0.497,0.713,1,-15.008,0,0.932,0.687,0.0,0.931,0.426,75.185,4,comedy
+0jCRmEnrpF1OoJobrxFTO0,Stuart Thompson,Dandy Man,God & Albuquerque,24,280629,True,0.568,0.885,2,-9.797,1,0.682,0.898,1.29e-06,0.673,0.718,127.405,4,comedy
+25uXZeKtCHdv7QKpXg3zeZ,Ryan Dalton,You Were Funny Too,Weiner Dogs That Breathe Poop,23,108040,False,0.39,0.607,2,-11.972,1,0.928,0.519,0.0,0.087,0.141,176.43,4,comedy
+5ycbydrVJJ2daHL0fL86Jg,Robert Schimmel,Life Since Then,Beating the Odds,23,171520,True,0.583,0.511,1,-19.532,1,0.956,0.85,0.0,0.971,0.291,50.565,4,comedy
+6AppuPRJrp2tXP8lnpy0B2,D.L. Hughley,Notes from the G.E.D. Section,Genius of the Ged,23,278626,True,0.564,0.938,5,-6.822,1,0.938,0.781,0.0,0.93,0.356,76.767,4,comedy
+12ppMTD57vkLTeQROr1XD6,Stephen Lynch,A Little Bit Special,Gerbil,24,184413,True,0.64,0.343,9,-8.999,0,0.03,0.678,0.0,0.133,0.406,109.854,4,comedy
+3O9vDxjKojMmFgmoBoCx3D,Ralphie May,Just Correct,Martin Luther King,23,119750,True,0.538,0.606,6,-15.001,1,0.901,0.875,0.0,0.539,0.263,67.766,3,comedy
+620YGQEx4OzgpfFzmFeW0w,Christopher Titus,Angry Pursuit of Happiness,My Kids' School,23,574839,True,0.623,0.83,2,-6.56,1,0.948,0.877,0.0,0.689,0.416,81.313,3,comedy
+1xh2lX8ksQb8Yqz4GZbWdR,Christian Finnegan,Two for Flinching,High Dance Threshold,23,315586,True,0.624,0.637,1,-8.765,1,0.911,0.858,0.0,0.793,0.537,108.3,3,comedy
+2V0gULlHYbeaixkYCIDyfr,Carl Barron,"Just for Laughs - The Archives, Vol. 57",One-Liners - Window Reflection (Jfl 2000),24,140607,False,0.58,0.645,3,-17.076,0,0.933,0.813,0.0,0.975,0.0938,122.444,3,comedy
+2LfrcTwvUrDG2Wrmx4HEgC,Mike Birbiglia,My Girlfriend's Boyfriend,What's He Doing Here?,23,307963,False,0.615,0.668,1,-8.643,1,0.943,0.878,0.0,0.956,0.436,103.752,4,comedy
+5wmA0LYZtoW2BIy0xZ87Po,Ralphie May,Just Correct,Black and Mexican Bastards,23,155856,True,0.551,0.556,9,-14.069,1,0.59,0.817,0.0,0.55,0.902,86.637,4,comedy
+1UeNDtSqYRs8ELLsyFA5kg,Chas & Dave,Gertcha! The EMI Years,Gertcha - 2005 Remaster,24,230946,False,0.738,0.942,0,-6.058,1,0.0441,0.197,0.0,0.0996,0.977,139.193,4,comedy
+6hCXEYRC96pV87htRdHCPn,Bert Kreischer,Bert Bert Bert,Married and Sex,24,181746,False,0.567,0.577,8,-11.419,1,0.937,0.936,0.0,0.532,0.399,79.618,1,comedy
+5HIWweVgD2cbK7D30MNxqe,Tim Wilson,Mr. Wilson Explains America,It Was America: Rock And Roll Lecture,24,200600,True,0.602,0.797,1,-3.74,1,0.692,0.697,0.0,0.35,0.341,118.77,3,comedy
+3TAnIxlBk5P94N4mrf45zH,Chad Daniels,Busy Being Awesome,Crap Ass Slut Ass,24,123920,True,0.65,0.864,2,-8.17,1,0.907,0.72,0.0,0.737,0.417,82.53,1,comedy
+5ENKf1k0pymr3pEuBTqn85,Mike Birbiglia,My Secret Public Journal,Porno for Parents,23,176346,False,0.536,0.886,9,-5.613,1,0.908,0.871,0.0,0.746,0.411,106.021,4,comedy
+02rbne3IY7qCOLZSnJrAh8,Anjelah Johnson,The Homecoming Show,My Dad Is Athletic,23,151509,False,0.568,0.792,6,-12.541,1,0.938,0.828,0.0,0.671,0.191,112.005,5,comedy
+2paliROvXR05AxHvDMxXFQ,Stephen Lynch,Superhero,Priest - bonus live version,24,269200,True,0.429,0.727,4,-6.31,1,0.228,0.458,0.0,0.924,0.502,131.807,4,comedy
+1Qd5wJKbWtuxlOy2NuHqHi,George Lopez,"It's Not Me, It's You",Latinos Work,23,296080,True,0.297,0.994,0,-4.427,1,0.887,0.83,6.08e-05,0.969,0.0351,76.521,5,comedy
+66JfinnkYKGjYQxHHKAIaD,Kyle Kinane,Death of the Party,Need Your Love,23,315426,True,0.63,0.49,4,-6.722,1,0.93,0.849,0.0,0.755,0.614,95.723,3,comedy
+5MSz35aYcvSZxUeBHiTCiI,Bert Kreischer,Bert Bert Bert,"Kids, Girls and Advice",24,422746,False,0.478,0.534,6,-12.523,1,0.917,0.947,0.0,0.701,0.546,85.996,4,comedy
+7cOMuV7yNqv9J2IEsbfgTF,Linda P,Just Divorced,Støttesang til Realititydeltagerne,24,241938,False,0.552,0.623,1,-5.303,1,0.0294,0.167,0.0,0.0842,0.395,75.03,4,comedy
+0KJVdGp08tUr1L2liHtIpd,Kathleen Madigan,Madigan Again,Afghanistan,24,257866,True,0.502,0.943,5,-3.501,1,0.891,0.84,0.0,0.719,0.481,78.758,5,comedy
+4D5oy9ejj6wK60Q9xxrfMs,Kathleen Madigan,Bothering Jesus,Naming Your Kids,24,200251,False,0.539,0.724,0,-7.664,1,0.598,0.839,0.0,0.944,0.499,80.121,4,comedy
+3EGREZ79EeSDtG53B3qK7E,George Lopez,Right Now Right Now,Dodger Games,23,221200,True,0.495,0.714,4,-14.177,0,0.929,0.843,0.0,0.907,0.246,127.981,4,comedy
+1JT55KoXuhtYy5BeKNAeC0,The Lonely Island;Rihanna,Turtleneck & Chain (Explicit Version),Shy Ronnie 2: Ronnie & Clyde,49,146506,True,0.623,0.77,6,-5.008,0,0.208,0.0025,0.0,0.295,0.248,150.002,4,comedy
+3USOTQdPtZlgVurwaqsdI5,Tenacious D,Tenacious D,Fuck Her Gently,59,123666,True,0.521,0.297,2,-7.022,1,0.0351,0.732,0.0,0.273,0.517,118.681,4,comedy
+5xgKGFlIyHVCA06aE6VpzK,Tommy Ryman,Bath Time with Tommy Ryman,Carmina Burrito,24,73546,True,0.654,0.795,1,-7.301,1,0.92,0.843,0.0,0.804,0.701,132.912,5,comedy
+5E8ZIBbCbLs6uI5u5jvNzY,Keith Alberstadt,Walk It Off,Invention of Softball,22,51122,False,0.509,0.632,0,-10.009,0,0.948,0.91,0.0,0.529,0.824,174.472,1,comedy
+7iP5BtFcofsOFnkJVelKtH,Joe Zimmerman,Jeff Bezos,Jeff Bezos,22,81200,False,0.608,0.338,6,-17.962,0,0.926,0.916,2.24e-06,0.698,0.873,151.985,4,comedy
+78LblAd8UBW9GUg9L0Xeld,Tom Papa,Human Mule,Whole Foods vs. Costco,22,201233,False,0.505,0.8,5,-14.198,0,0.95,0.773,0.0,0.688,0.241,86.967,4,comedy
+7GQTfVWp0SipANPWRBT3f1,David Spade,My Fake Problems,Hernia,22,337248,True,0.536,0.927,4,-6.149,1,0.897,0.801,0.0,0.752,0.32,115.489,3,comedy
+5u9Ba9GpbdFcU3HLhAzUkX,Aaron Wilburn,Is That What You're Wearing?,It's Been Dry In Oklahoma,24,66333,False,0.461,0.941,5,-11.75,1,0.896,0.718,0.0,0.967,0.2,79.891,5,comedy
+0Xe6ARaenJZQcsn49sw4s5,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Lunch Specials,23,281368,False,0.67,0.638,3,-9.948,1,0.946,0.963,0.0,0.758,0.53,70.944,4,comedy
+2OKtKiJA1WtBjfcGdkTCZb,David Spade,My Fake Problems,Dirty Pics,22,248088,True,0.467,0.909,4,-7.066,1,0.934,0.796,0.0,0.465,0.333,85.964,4,comedy
+7tyHq491NHuQKL2UbVtdQj,Tenacious D,Tenacious D Live,39 - Live,25,213586,True,0.495,0.449,7,-9.064,1,0.0472,0.0814,0.0,0.976,0.291,123.32,4,comedy
+6gvzZ0E4uTFXRqCQDc8Z0R,Greg Proops,In the Ball Park,A Basket of Kisses,22,334656,True,0.501,0.473,1,-16.415,1,0.889,0.601,0.0,0.776,0.71,89.093,4,comedy
+7upubP2QFFaVnsBscZ7Aai,Adam Ferrara,Funny as Hell,92 with One Leg,22,298360,True,0.411,0.892,6,-13.096,1,0.913,0.868,2.57e-06,0.856,0.166,89.497,4,comedy
+1HDRZj5rg796Vhl6iZwHok,Froggy Fresh,Dunked On,Dunked On,23,285000,False,0.766,0.745,11,-5.208,0,0.289,0.12,0.0,0.0813,0.333,147.978,4,comedy
+0t0zlfPIae1SNKglHp0jrC,Tom Papa,Human Mule,No Great Guys,22,144319,False,0.619,0.644,6,-14.164,0,0.954,0.738,0.0,0.698,0.464,85.532,4,comedy
+69UYAHbYTQMIvQePYRAKZj,Tom Papa,Freaked Out,Chinatown,22,284122,False,0.533,0.961,6,-4.327,1,0.921,0.836,0.0,0.938,0.209,77.296,4,comedy
+7y1AjSFpMGXW5OCd4kFCuZ,Louie Anderson,Big Underwear,Inheritance,24,81496,False,0.528,0.97,3,-8.419,0,0.892,0.523,0.0,0.896,0.0382,112.932,4,comedy
+5S9atrQLWHuMZLvFbDCGUp,Mike Epps,Under Rated... Never Faded & X-Rated,Do 'em Good,23,113751,True,0.539,0.797,1,-11.521,1,0.782,0.891,0.0,0.36,0.0764,35.392,3,comedy
+0TfwqherANa1HRrmlPiskE,Mike DeStefano,OK Karma,Fighting Terrorism,23,87132,True,0.665,0.661,5,-8.805,1,0.939,0.648,0.0,0.8,0.372,74.751,4,comedy
+2qF2BmvJslW6tfz5D5z81x,Dan Levy,Congrats on Your Success,My Friend's Dick Pix,22,163026,True,0.567,0.944,6,-5.36,1,0.892,0.82,0.0,0.904,0.272,126.505,4,comedy
+1h4K8ijEaWX9Z2KGXrfz8T,Mike Epps,Under Rated... Never Faded & X-Rated,Snap Back,23,126780,True,0.438,0.867,7,-11.657,1,0.91,0.809,0.0,0.288,0.114,95.769,3,comedy
+6Ck0qJFmeNMp3EvLuK8cux,Ryan Sickler,Above Ground Cool,Masturbating In Bunk Beds,22,102702,False,0.423,0.958,9,-5.639,0,0.834,0.861,0.0,0.862,0.451,86.051,3,comedy
+34KtRClZTrQT5r0BrHnARk,Andy Hendrickson,Underachiever,My Roommate Keith,22,172680,False,0.482,0.47,4,-16.636,1,0.947,0.919,0.0,0.693,0.417,71.713,4,comedy
+6aOzlhzJ5BemEkB9TXhNKo,D.L. Hughley,Notes from the G.E.D. Section,What I Learned from the News,22,125520,True,0.572,0.927,5,-5.428,1,0.732,0.78,0.0,0.911,0.583,93.277,3,comedy
+5gzXReNOrEsugWNvcaaauh,Froggy Fresh,Money Maker Reloaded,Haters Wanna Be Me,23,151750,False,0.743,0.842,8,-6.264,1,0.261,0.386,0.0,0.105,0.526,90.019,4,comedy
+0rYj02y9je9EuQYa2yTyKX,Mike Epps,Under Rated... Never Faded & X-Rated,Times Have Changed,23,137804,True,0.528,0.74,1,-12.87,1,0.897,0.887,0.0,0.645,0.0614,87.109,1,comedy
+5Q7Oe0YG9SCy7bqyX8TVfS,Rachel Feinstein,Only Whores Wear Purple,My Mom at a Latin Restaurant,23,284426,True,0.565,0.823,11,-6.347,1,0.889,0.801,0.0,0.691,0.423,84.147,4,comedy
+7vUU6vIdduXAN3BFw2VTQX,Matt Braunger,Shovel Fighter,It's Spaghetti Time!,22,156040,True,0.585,0.793,5,-6.074,0,0.851,0.847,0.0,0.678,0.538,91.892,3,comedy
+0HQVGF4c3RX56oUdW9BbGS,Ralphie May,Just Correct,Just Correct,23,106000,True,0.584,0.601,3,-14.767,1,0.928,0.845,0.0,0.816,0.35,128.197,4,comedy
+1nMS0uQQSx904GOWYyvibX,Martin Lawrence,Doin' Time: Uncut,Driving While High,22,264695,True,0.53,0.532,1,-22.54,1,0.949,0.692,0.0,0.948,0.0955,99.829,5,comedy
+5R1QlDClCb2asICAp1dzp5,David Cross,"Oh, Come On",Truth = Cynicism,23,244709,True,0.655,0.441,11,-20.037,1,0.921,0.33,0.0,0.904,0.714,122.369,3,comedy
+2hoo2z9HTmWkYLq46ZOkFc,Chris Hardwick,Funcomfortable (Deluxe Edition),Nurses,23,158188,True,0.63,0.882,2,-5.915,1,0.902,0.795,0.0,0.433,0.429,104.102,3,comedy
+6HyWF4aQ7r62g8cRqCrXz2,Robert Schimmel,Life Since Then,Chemotherapy,22,132520,True,0.599,0.369,6,-20.816,1,0.962,0.921,0.0,0.696,0.494,83.026,5,comedy
+2r1W7pTcYZ3G6gPLBnHHQv,John Pinette,Show Me The Buffet,Disney World in August,22,233680,False,0.497,0.654,5,-16.173,0,0.933,0.797,0.0,0.677,0.236,98.768,3,comedy
+7yX640JvSOUtY6ANibkMwV,Billy Gardell,Halftime,Working Class Family,22,557333,True,0.538,0.872,1,-14.345,1,0.931,0.752,0.0,0.839,0.0398,109.59,4,comedy
+3FK8R1Xm3oQybXOg7iiUBK,Brian Regan,Standing Up,News,23,183309,False,0.467,0.944,2,-9.398,0,0.891,0.859,1.43e-06,0.664,0.0762,88.67,4,comedy
+2zbTTPAcTTU6iU1YOTyNVd,Sugar Sammy,"Canadian Tour Improv Moments, Vol. I",American Tourists,22,185756,True,0.394,0.977,5,-3.298,0,0.563,0.866,0.0,0.855,0.493,72.227,3,comedy
+0uTSpsec5kXkNQQjzt6dIB,"""Weird Al"" Yankovic",In 3-D,King of Suede,24,255373,False,0.78,0.808,11,-10.056,0,0.0382,0.271,0.0,0.0958,0.569,128.505,4,comedy
+3kLuoSj7RsolIVN5k04RfW,"""Weird Al"" Yankovic","""Weird Al"" Yankovic",The Check's In the Mail,24,193813,False,0.651,0.431,5,-10.997,1,0.0499,0.197,0.0,0.118,0.829,149.894,4,comedy
+62fPFa3Oxo9sI48JfBLtfF,Stephen Lynch,3 Balloons,America,24,204040,False,0.397,0.408,9,-9.955,1,0.0732,0.635,0.0,0.103,0.519,73.322,4,comedy
+5DNgAKOnkwobi2oQ1PauQP,Mike Birbiglia,Two Drink Mike,"Arctic Fox, It's a Setup!",22,323493,False,0.626,0.523,5,-10.681,1,0.921,0.759,0.0,0.775,0.479,118.376,5,comedy
+7heS7XVRkBpQ48RAO8rB3Q,Sebastian Maniscalco,Sebastian LIVE,Classy Women At The Club,23,325450,True,0.321,0.833,1,-19.142,1,0.835,0.757,1.28e-05,0.876,0.0733,82.004,4,comedy
+7x06bqLJpC4XIV6ZUI4M0Q,Patton Oswalt,Finest Hour,The Dumb Gay Friend,24,282933,True,0.447,0.964,0,-5.034,1,0.942,0.781,0.0,0.461,0.167,47.604,4,comedy
+36RDt4tcwMGggg0GqIs7YZ,Chad Daniels,Busy Being Awesome,"Rock, Paper, Scissors, Jesus",24,255626,True,0.59,0.771,8,-9.295,1,0.914,0.784,0.0,0.66,0.433,100.952,4,comedy
+7sfJ16yNrbar4Bhadnz2nr,Chad Daniels,Busy Being Awesome,Old People Cause Global Warming,24,216053,True,0.631,0.821,9,-8.624,1,0.909,0.729,0.0,0.792,0.502,113.599,1,comedy
+4uPOZjjtf8hwD7uxArwVh4,"""Weird Al"" Yankovic","The Essential ""Weird Al"" Yankovic","Trapped In the Drive-Thru (Parody of ""Trapped In The Closet"" by R. Kelly)",24,650986,False,0.751,0.503,4,-8.998,1,0.088,0.46,0.0,0.222,0.692,108.061,4,comedy
+7uChwK0FIUOdpu8c2AFsOx,Steve Martin;Edie Brickell,Love Has Come For You,Sun's Gonna Shine,23,185346,False,0.355,0.368,0,-9.494,1,0.0312,0.785,0.0,0.11,0.501,89.53,4,comedy
+2LkP2F5OeQUlVajuOOxKeT,George Lopez,Right Now Right Now,Memories,23,153506,True,0.383,0.697,11,-14.538,1,0.945,0.905,0.0,0.892,0.407,74.765,3,comedy
+6LlUAzeDR4D5y0YsCkAlFO,"""Weird Al"" Yankovic","The Essential ""Weird Al"" Yankovic","Gump (Parody of ""Lump"" by The Presidents of the United States)",23,130293,False,0.544,0.828,6,-6.505,1,0.039,0.00837,2.03e-06,0.294,0.907,144.354,4,comedy
+0WVGfCs97aWDvJGBPMFMI0,Kathleen Madigan,Bothering Jesus,Car Crash vs Plane Crash,23,106001,False,0.543,0.828,10,-6.98,0,0.731,0.816,0.0,0.748,0.691,130.355,4,comedy
+6aVNkY6EfRcjqB0ES5zGbl,Jon Lajoie,The League (Original Soundtrack),Ghost Monkey,27,84676,False,0.529,0.336,11,-6.932,0,0.0477,0.686,0.0,0.106,0.146,176.044,4,comedy
+23tFXzIrL3esi2ECP8mprj,The Lonely Island,Incredibad,Like A Boss,52,106813,True,0.604,0.819,4,-4.224,0,0.447,0.0332,0.0,0.132,0.676,73.07,4,comedy
+6wDTbmcwupOsMsPEyv2MZQ,Andy Hendrickson,Dry Bar Comedy Presents: Left Field,Dogs,23,104856,False,0.593,0.463,9,-16.641,1,0.927,0.602,0.0,0.747,0.634,58.649,3,comedy
+4DpFu4gU9LJC2ncLGrZLGZ,Orny Adams,Path Of Most Resistance,Eye Muscle,23,127440,False,0.537,0.909,11,-12.651,1,0.907,0.808,2.59e-06,0.966,0.325,82.657,4,comedy
+78LblAd8UBW9GUg9L0Xeld,Tom Papa,Human Mule,Whole Foods vs. Costco,22,201233,False,0.505,0.8,5,-14.198,0,0.95,0.773,0.0,0.688,0.241,86.967,4,comedy
+6kHzJMovirbA1oLrtNooSu,Chris Robinson,"Gut Bussa, Vol. 1",N Word,23,144259,True,0.604,0.288,8,-14.538,1,0.909,0.653,0.0,0.294,0.701,81.677,3,comedy
+5Ymz3kWCEMgY5D7mNaRAZ6,Billy Gardell,Halftime,Spirituality,22,407253,True,0.481,0.951,1,-11.609,1,0.931,0.801,0.0,0.945,0.0378,142.093,4,comedy
+2VulUBK4KfKw8U6A1Siuzg,Baron Vaughn,Blaxistential Crisis,Allergies,22,167340,False,0.537,0.594,10,-12.198,0,0.857,0.806,0.0,0.865,0.748,86.324,5,comedy
+5j9oCIiCtzjAHe7HH1vzDk,David Spade,My Fake Problems,Costco / Christmas,22,350901,True,0.587,0.8,4,-7.695,1,0.932,0.836,0.0,0.742,0.411,111.492,5,comedy
+1OdXCHo8WZF1ZTGeliyYRT,Greg Warren,Running Out of Time,Vay-Kay-Shun,22,122691,False,0.581,0.544,3,-15.51,0,0.933,0.791,0.0,0.861,0.757,64.065,4,comedy
+2B8Lm6bc7zTsY0HtrodNpf,Moshe Kasher,Crowd Surfing Vol. 1,Touching a Giraffe on Molly,22,108768,True,0.544,0.574,4,-14.526,0,0.954,0.829,0.0,0.81,0.601,95.017,3,comedy
+02HucklRTcDZsLGwxA6KBL,Josh Wagner,Orange Juice,Prostitution Should Be Legal,23,69293,True,0.53,0.653,2,-9.559,1,0.916,0.801,0.0,0.923,0.497,93.484,3,comedy
+3Sfb1HGIHn8RIKDL7cAqyE,Michael Colyar,Michael Colyar's Back,Cracker Barrel,23,127787,False,0.676,0.834,4,-9.08,1,0.946,0.807,0.0,0.658,0.539,76.13,3,comedy
+6O1NXkr97iHeucF2XPuei4,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Echo,23,213012,False,0.61,0.703,9,-12.075,1,0.927,0.974,0.0,0.468,0.413,68.917,3,comedy
+1UpsItFAMUe1jY3fVUiSaH,Muck Sticky,The Sticky Muck,Snuffaluppagus,23,173000,False,0.831,0.628,4,-10.486,0,0.4,0.182,0.0,0.372,0.77,156.997,4,comedy
+5HNVfQ3yvkOSMSSF766GKB,Rachel Feinstein,Thug Tears,Fairytales and Porn,23,96442,True,0.639,0.906,8,-6.18,1,0.853,0.839,0.0,0.933,0.824,85.931,3,comedy
+6vO89FHNWz9jDxm6tSNrUl,Stuart Thompson,Dandy Man,Xmas Card Photo,23,163229,True,0.485,0.863,2,-10.083,1,0.848,0.923,1.59e-05,0.674,0.928,180.855,3,comedy
+5oToBT67047Cu2YysNNBri,Greg Warren,One Star Wonder,College Beatdown,22,174066,True,0.534,0.782,0,-7.305,1,0.895,0.804,0.0,0.926,0.527,128.241,4,comedy
+2CK3J3WKqAXoogwHoTGVtT,Alonzo Bodden,Seemed Like A Good Idea...,Black or White?,22,190360,False,0.56,0.867,1,-10.151,1,0.937,0.88,0.0,0.758,0.398,111.845,4,comedy
+5OLRlZQp7tVDDoC8OPIyqT,Andy Sandford,Me the Whole Time,Lazy Generation,23,89866,True,0.522,0.913,4,-4.496,0,0.572,0.791,0.0,0.619,0.462,90.525,4,comedy
+7CkkBAWXZc1SOzlIx5qx4A,Carl Barron,"Just for Laughs - The Archives, Vol. 11",Horse Sleep (Jfl 2004),23,147112,False,0.562,0.722,11,-17.046,1,0.934,0.891,0.0,0.971,0.159,80.461,4,comedy
+7qXqt0NEitDLilLTHzz5Zl,Chris Hardwick,Funcomfortable (Deluxe Edition),Dick Poems,23,104375,True,0.664,0.889,9,-5.835,1,0.924,0.792,0.0,0.461,0.399,49.742,4,comedy
+5miPNj0EXXG8nlTZ11D3Tp,Anjelah Johnson,The Homecoming Show,Chola Starter Kit,23,148566,False,0.59,0.865,0,-11.57,1,0.946,0.797,0.0,0.67,0.314,80.211,4,comedy
+54tHbuVRyr4HwyEvpBdi4k,Stephen Lynch,The Craig Machine,Pierre,23,121080,False,0.391,0.384,9,-12.102,0,0.931,0.812,0.0,0.756,0.241,170.27,3,comedy
+7EaLwHpREDPsUrFrvlL8jL,David Cross,"Oh, Come On",Narcissism and the Slow March to Oblivion,23,132529,True,0.67,0.476,1,-17.021,0,0.923,0.391,0.0,0.641,0.452,116.929,4,comedy
+5WtCr75SH2pCV9q4n3cVHU,Stephen Lynch,Lion (Stephen Lynch),So This Is Outer Space?,23,295413,True,0.389,0.411,4,-9.231,1,0.0317,0.624,0.000396,0.151,0.312,165.065,4,comedy
+0Rn0zbpITIL7S77CaSNw6C,Rachel Feinstein,Only Whores Wear Purple,Only Whores Wear Purple,23,279202,True,0.604,0.866,4,-6.39,1,0.875,0.893,0.0,0.917,0.393,58.042,4,comedy
+6htcrqlaN1vx7xw5qGOx62,Muck Sticky,Welcome Surprise,Gettin' High,23,166965,True,0.936,0.512,2,-5.232,1,0.0694,0.357,0.0,0.0496,0.969,95.48,4,comedy
+3hqoHu39sFapb5HE5Fhy9O,Andy Hendrickson,Left Field,Brother and Bad at Sports,22,356257,False,0.528,0.573,9,-15.808,1,0.934,0.672,0.0,0.963,0.482,80.103,3,comedy
+4qDVoqOO4u1CTLfuIxkP3L,Steve Rannazzisi,Breaking Dad,Little League,23,526593,True,0.63,0.892,2,-5.65,1,0.948,0.821,0.0,0.857,0.306,43.844,4,comedy
+0si3QWqmM33qhtLCoc51Nr,Patton Oswalt,Talking for Clapping,Noble Beast,23,289054,True,0.648,0.362,6,-19.377,1,0.955,0.848,0.0,0.896,0.337,96.793,4,comedy
+2QxhW6USMocIxm3oirGxK5,Patton Oswalt,Talking for Clapping,My Dumb Brain,23,405412,True,0.596,0.393,10,-18.571,1,0.958,0.861,0.0,0.726,0.381,88.896,4,comedy
+7tH1xf8M4O6kd6lN2aIKah,Kurt Metzger,White Precious,"But Kurt Does Have a Point, Right?",23,103443,True,0.509,0.923,9,-8.294,1,0.929,0.721,0.0,0.774,0.284,87.073,4,comedy
+2J0SPCNgs4Hs9oVTrzOOBW,Patton Oswalt,Talking for Clapping,My Little Pony,23,376219,True,0.692,0.339,10,-19.111,1,0.959,0.831,0.0,0.697,0.575,136.475,3,comedy
+0rarigWsTjN29DOX3BLbjS,Patton Oswalt,Finest Hour,The Power of Jesus,23,175333,True,0.614,0.916,0,-5.897,1,0.944,0.82,0.0,0.772,0.243,78.724,5,comedy
+0x3TfyPKpkkFN6fl4ALxdN,Patton Oswalt,Finest Hour,The Gifted Child,24,102240,True,0.638,0.925,11,-5.189,1,0.952,0.683,0.0,0.893,0.491,90.991,4,comedy
+6cUNnCbj1r9Yh1wvqZZ0ee,Tim Wilson,Songs For The Musically Disturbed,First Baptist Bar And Grill,23,179040,False,0.776,0.688,10,-7.827,0,0.318,0.543,0.0,0.344,0.827,114.056,4,comedy
+3unFteVcVahYgKcRaOz6Lq,Patton Oswalt,Finest Hour,The Magic of Cursive,24,68360,True,0.713,0.923,3,-6.259,0,0.946,0.771,0.0,0.93,0.371,96.059,3,comedy
+6bRCeP4atrSQdXxeVTyhl0,Patton Oswalt,Finest Hour,The Ham Incident,23,219133,True,0.525,0.935,5,-4.908,0,0.903,0.801,0.0,0.873,0.471,91.191,4,comedy
+1FKfaQOPOdcZGuMygOoSzS,Professor Elemental,The Indifference Engine (Deluxe Edition 2018 Remaster),Fighting Trousers,24,186121,False,0.821,0.515,11,-11.552,1,0.294,0.392,0.0,0.196,0.649,97.674,4,comedy
+5kTVj5JdP4MUT5yM3ggjjk,Mike Birbiglia,Two Drink Mike,"Whatever You Are, Be a Good One (Album Version)",22,257506,False,0.589,0.478,4,-13.632,1,0.933,0.799,0.0,0.673,0.495,108.726,4,comedy
+0fe6HxEUPrJvFyDyBEyKt8,Mike Birbiglia,My Secret Public Journal,Celebrity Golf,22,871093,False,0.427,0.867,1,-7.668,1,0.952,0.876,0.0,0.968,0.326,52.695,4,comedy
+7c3WHdjwx2wZzDNeeDKh5c,Kathleen Madigan,Madigan Again,Batman Cat,23,180800,True,0.629,0.941,5,-3.814,0,0.916,0.832,0.0,0.722,0.47,129.748,3,comedy
+1rOmy0BEdNZfwR3UKomdWf,George Lopez,Right Now Right Now,Clocks,22,218000,True,0.457,0.677,9,-14.713,0,0.943,0.844,0.0,0.851,0.331,95.039,4,comedy
+5mLANJJGRMBKsdZWUfn6UC,Kathleen Madigan,Gone Madigan,"Oprah, Sarah Palin",23,392425,True,0.592,0.806,9,-4.8,1,0.876,0.848,0.0,0.505,0.529,85.642,4,comedy
+6nklyxseiriC6kQsDSGThT,Kathleen Madigan,Madigan Again,Romney and Lunesta,23,152680,True,0.627,0.906,0,-3.952,1,0.926,0.82,0.0,0.691,0.353,130.453,5,comedy
+1fpwA2XHqimyu70e0JC7KD,Kathleen Madigan,Bothering Jesus,Kids is Too Many,23,111216,False,0.446,0.901,5,-7.054,1,0.769,0.803,0.0,0.933,0.425,84.394,4,comedy
+5QQi3d8FvpdXbB1qrfUWMN,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Home School,23,230906,False,0.632,0.21,6,-24.153,1,0.938,0.852,0.0,0.753,0.423,123.014,5,comedy
+6yseLm1is0yiLxA5h7tuga,Kathleen Madigan,Bothering Jesus,Civil War Again,23,104105,False,0.481,0.75,0,-6.924,1,0.587,0.707,0.0,0.723,0.54,94.465,3,comedy
+4gWIV8lD3e9C9kSQH46li8,Kathleen Madigan,Madigan Again,Lewis Black's Cruise,23,527200,True,0.553,0.969,6,-3.771,1,0.932,0.803,0.0,0.751,0.35,89.73,4,comedy
+5orUhwRVuVCtRYxg3FzidD,The Lonely Island;Justin Timberlake;Lady Gaga,The Wack Album,3-Way (The Golden Rule),48,171026,True,0.736,0.747,6,-5.398,0,0.185,0.0762,0.0,0.312,0.574,89.99,4,comedy
+4NA4DwADKL45Mx6MHE4yux,Jon Lajoie,You Want Some of This?,Show Me Your Genitals 2: E=MC Vagina,38,176386,True,0.79,0.682,7,-6.728,1,0.224,0.0325,2.39e-05,0.0584,0.855,160.014,4,comedy
+4g3IrwIgcR2NIaO1h10orQ,Pink Guy,Pink Season,Are You Serious,40,149888,True,0.775,0.688,2,-7.44,1,0.0624,0.11,0.0,0.362,0.469,119.983,4,comedy
+6rXRMAPvzBl3pZiY0S3gBn,Arnez J,Racially Motivated,Lawn Mowing,23,188320,True,0.567,0.95,5,-4.793,1,0.875,0.873,0.0,0.788,0.439,103.68,4,comedy
+2LEkBYeP1mmlcoJmAl1LNF,Tom Papa,Human Mule,The Real World,22,68758,False,0.537,0.548,5,-15.1,0,0.963,0.736,0.0,0.745,0.73,179.403,3,comedy
+6tzEIeAC7tr92DCcLz0Po6,Andy Parsons,Live & Unleashed But Naturally Cautious,Caught Short,23,167346,False,0.479,0.817,0,-13.97,0,0.919,0.879,2.56e-06,0.929,0.282,96.454,4,comedy
+5J78GtiFqHelREB1p0dXAd,Andrew Orvedahl,Hit the Dick Lights,"Bryan, You Rascal",22,195708,True,0.582,0.576,9,-12.358,1,0.933,0.778,0.0,0.426,0.593,139.083,3,comedy
+20RnmVATvxmgmjNFeiXiSo,Wyatt Cenac,Furry Dumb Fighter,American Hipster,21,339549,True,0.573,0.497,1,-13.129,1,0.945,0.864,0.0,0.699,0.546,84.681,5,comedy
+2iEc9ZUjvNz2UIbhjhD6B2,Todd Glass,Todd Glass Talks About Stuff,Health Department D's and Dinner Parties,22,336946,True,0.575,0.945,4,-2.385,1,0.712,0.839,0.0,0.752,0.6,115.992,4,comedy
+3R9PRt9uklVblAvLSUvRKm,Alonzo Bodden,Who's Paying Attention?,The Tea Party,22,146080,True,0.602,0.911,1,-6.399,1,0.926,0.746,0.0,0.818,0.444,77.298,5,comedy
+5B62ToyDIOkNyWVJmtSvmN,Artie Lange,The Stench of Failure,Yankee Fan / A-Rod,22,199047,True,0.582,0.927,2,-4.899,1,0.794,0.702,0.0,0.949,0.561,106.777,5,comedy
+4TgkyOyu6RkvpcYmsWEYQX,Bruce Bruce,Losin' It,You're Fat When,23,300100,True,0.561,0.514,6,-19.987,0,0.938,0.892,0.0,0.761,0.4,85.404,3,comedy
+5V5DqV8KMi9MdjFhJxxU8n,Glenn Wool,Let Your Hands Go,The Different Levels of God,21,135119,True,0.608,0.753,1,-6.333,1,0.906,0.879,0.0,0.576,0.496,109.817,4,comedy
+00nhNSSHhGVbd0h01FCkFc,Artie Lange,The Stench of Failure,My Rehab Counselor,23,263201,True,0.611,0.923,6,-4.961,0,0.86,0.661,0.0,0.925,0.555,124.268,4,comedy
+1WUn8YmnQm6zdy9D1xy2Yq,Cathy Boyd,Wise Tracks,Internal Affairs,23,162090,True,0.488,0.551,6,-17.701,0,0.944,0.735,0.0,0.722,0.404,82.045,3,comedy
+3RJRkQEX53fom9RVRD4LC7,Jeff Foxworthy,Sold Out,Bell Bottom Leisure Suits,22,128992,False,0.583,0.668,11,-15.443,1,0.911,0.868,0.0,0.916,0.562,107.594,3,comedy
+5h8tl3iVWK2UezXKbIVs7f,Robert Schimmel,Life Since Then,Dick Wigs,22,147200,True,0.582,0.526,11,-17.817,1,0.953,0.905,0.0,0.834,0.534,106.48,1,comedy
+3VdD8JO3jbAShCigBG0Ll4,Rodney Carrington,Nut Sack,Men And Women - Live,23,247524,True,0.442,0.694,4,-10.1,1,0.951,0.881,0.0,0.962,0.258,69.5,3,comedy
+6aJKvGZb4kXlQadPQBLveX,Steve Byrne,"Steve Byrne, I'm from Pittsburgh!",I'm from Pittsburgh,22,109226,True,0.6,0.476,5,-16.61,0,0.931,0.562,7.15e-06,0.362,0.457,91.57,3,comedy
+18t5IVL723mMKIKPyhxZzY,D.L. Hughley,Notes from the G.E.D. Section,The Hook Up,22,290746,True,0.495,0.887,11,-6.898,0,0.941,0.716,0.0,0.919,0.527,78.776,4,comedy
+6UmPHgWmea2pcJliPW1Az0,Wyatt Cenac,Furry Dumb Fighter,Opening Remarks and a Request,21,277804,True,0.544,0.613,7,-14.506,1,0.941,0.867,1.56e-06,0.953,0.291,88.111,4,comedy
+6gDhsPo1qR8ZoZiOon2Isc,Christopher Titus,Voice in My Head,I Killed a Baby,22,406746,True,0.564,0.902,4,-6.878,1,0.88,0.842,0.0,0.949,0.276,129.591,4,comedy
+3hK57X5Ob6QP4xJpDFZvqR,Bret Ernst,American Comic,Willie 'Blackie' Johnson,22,120986,True,0.63,0.614,6,-8.141,1,0.932,0.851,0.0,0.962,0.541,80.019,4,comedy
+37AsyyBdfQAgAGSBthNGCP,Erikka Innes,Sex With Nerds,The G-Spot 4,22,86438,True,0.72,0.588,5,-8.801,0,0.836,0.917,0.0,0.101,0.367,69.797,4,comedy
+4hWu7G0yGOyVgZdoMcUsYe,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,More Bad Weather On The Way,22,211960,False,0.549,0.545,5,-9.162,1,0.0299,0.801,0.173,0.135,0.91,127.129,4,comedy
+6102PpYMo7FR0vffXZtvzi,Ralphie May,Just Correct,Too Phat to Be Fat,22,33000,True,0.617,0.641,3,-13.771,0,0.932,0.81,0.0,0.922,0.364,66.703,3,comedy
+1yk9QG4uOwZqJXM4XYA0gU,Stephen Lynch,A Little Bit Special,HermAphrodite,23,169213,True,0.483,0.424,0,-7.724,1,0.0292,0.498,0.0,0.1,0.256,114.717,4,comedy
+1dgdK1IU1hUM8YtUZSyVaT,Bret Ernst,American Comic,Sh@#tcake Factory,22,139773,True,0.532,0.674,11,-8.183,1,0.946,0.848,0.0,0.859,0.604,75.788,4,comedy
+2pmgvCGPDX69wvdAAe2R7w,Greg Warren,One Star Wonder,Awkward Moments,21,243226,True,0.511,0.933,6,-7.14,1,0.924,0.818,0.0,0.979,0.241,56.594,4,comedy
+1COv0Vy5mrUMKrCXQI07qP,Jason Manford,A Different Stage,"This Is The Moment - From ""Jekyll And Hyde""",23,219240,False,0.399,0.223,5,-11.461,1,0.0298,0.594,0.0,0.065,0.117,66.532,4,comedy
+2qOJ2ucNveZ8Di2GVWCBFr,Patton Oswalt,Talking for Clapping,Less and Less Radical,23,207619,True,0.65,0.461,7,-18.317,1,0.963,0.848,0.0,0.732,0.365,50.324,4,comedy
+48jyqgqks9MzS6qrXw9UwR,Ralphie May,Just Correct,Mexicans Can Take a Joke,22,157250,True,0.538,0.69,9,-15.189,1,0.925,0.868,0.0,0.949,0.47,71.027,3,comedy
+3O0KB64LPsMBD3uln5u0DW,Patton Oswalt,Finest Hour,The Museum of Spam,23,142066,True,0.571,0.906,6,-5.406,1,0.949,0.774,0.0,0.721,0.433,138.464,5,comedy
+10esld81LEYoPMKGzHsXm3,Chad Daniels,Busy Being Awesome,The Gross Pillow,23,208080,True,0.537,0.783,2,-9.198,1,0.948,0.728,0.0,0.899,0.405,88.473,3,comedy
+69CL3FE9t7VEm0rRZGNHkQ,Kyle Kinane,Death of the Party,I Know What I Want,22,622760,True,0.565,0.58,11,-6.948,1,0.936,0.86,0.0,0.271,0.643,82.547,4,comedy
+0U5deyGbJ0sQxaXxE9dOa4,Mike Birbiglia,My Secret Public Journal,The Old Mill Pond Story,22,242293,False,0.509,0.794,3,-8.631,1,0.951,0.907,0.0,0.54,0.317,142.143,3,comedy
+5AoJZNUfbG2fjAgERybLRF,Jeff Foxworthy,Nascar Runnin' Wide Open,You Could Be A Nascar Fan If ...(Live At Bristol),22,393440,False,0.479,0.825,6,-12.394,1,0.943,0.614,0.0,0.816,0.147,66.828,3,comedy
+3aZkiRthe5QHNAjyl1RtE4,Patton Oswalt,Talking for Clapping,The DMV and the Post Office,23,143322,True,0.648,0.399,2,-17.63,1,0.956,0.87,0.0,0.83,0.406,76.648,4,comedy
+2mwXABhaD4HXMQIrAttZ7b,Chad Daniels,Busy Being Awesome,Genesis 43:23,23,190773,True,0.618,0.749,5,-9.102,0,0.886,0.708,0.0,0.725,0.539,110.52,3,comedy
+1Bpx2MCQg7ZPDtqItp5KV3,Ron White,Truckstop Comedy,Tickler,23,65920,True,0.587,0.406,10,-18.515,1,0.927,0.919,0.0,0.751,0.48,123.621,1,comedy
+68xLm7l38sUHLg3ggaUcxS,Mike Birbiglia,Two Drink Mike,Thanks for Coming Song,22,124720,False,0.425,0.619,7,-9.706,1,0.24,0.838,0.0,0.958,0.431,57.384,3,comedy
+7fexNKLsrGjA5aFXu6nzpO,Kathleen Madigan,Bothering Jesus,Aunt Kat,23,73727,True,0.454,0.854,3,-6.592,1,0.541,0.659,0.0,0.808,0.636,88.656,5,comedy
+7eAesn1IbCqDmg5duIyJM9,Stephen Lynch;Matthew Saldívar;Kevin Cahoon,The Wedding Singer (Original Broadway Cast Recording),Today You Are a Man,23,84400,False,0.721,0.655,2,-5.913,0,0.152,0.165,0.0,0.165,0.822,144.01,4,comedy
+0oISYk7B6GJK0euROwbfKn,Patton Oswalt,Finest Hour,The Best Comedy I've Ever Seen,23,222533,True,0.613,0.869,4,-6.03,0,0.942,0.789,0.0,0.78,0.376,105.09,3,comedy
+0DqyL7RaHE6Bx6T4BTVYru,Patton Oswalt,Finest Hour,The Best Argument Against Gay Marriage,23,147813,True,0.572,0.953,0,-4.341,1,0.922,0.782,0.0,0.683,0.212,146.213,3,comedy
+6c1qAktKXHJE9fw2QqVO56,Kathleen Madigan,Gone Madigan,Casinos,23,120687,True,0.677,0.674,9,-5.669,1,0.879,0.901,0.0,0.667,0.389,83.843,3,comedy
+0DZqJVgFw3sDGgykqsdmRm,Kathleen Madigan,Bothering Jesus,My Mom and Tinfoil,23,156084,False,0.503,0.891,1,-7.559,1,0.853,0.794,0.0,0.781,0.242,119.173,4,comedy
+1KhTBiBO4FcN6V765Nalwe,Kevin Bloody Wilson,35 Years of Kevin Bloody Wilson,The Featherbrain Championship,23,259640,True,0.768,0.762,2,-6.001,1,0.157,0.432,0.0,0.182,0.883,125.069,4,comedy
+7sz34RvgWVwgBg7kxzBTBh,Kathleen Madigan,Madigan Again,Detroit,22,179840,True,0.501,0.959,5,-2.526,1,0.744,0.807,0.0,0.899,0.497,84.075,4,comedy
+7tdBL7NbhuVkFZ8QXm1R5B,Kathleen Madigan,Bothering Jesus,Bothering Jesus,23,118311,False,0.523,0.88,4,-6.71,0,0.738,0.716,0.0,0.801,0.519,66.155,3,comedy
+7rE9wYXPgLqZsXVxn2JhU9,Pink Guy,Pink Season,Pink Life,41,190640,True,0.589,0.745,2,-7.883,1,0.41,0.248,0.0,0.246,0.328,131.22,5,comedy
+5PbNxOil4dlL1mBW6wUCto,Tommy Ryman,Bath Time with Tommy Ryman,Bath Time,22,100664,True,0.584,0.897,0,-7.738,0,0.944,0.817,0.0,0.9,0.397,85.616,1,comedy
+3qJo0sD5ssJaeHIKAGVObz,Mike DeStefano,OK Karma,BOO!,22,106826,True,0.635,0.735,10,-8.161,1,0.951,0.689,0.0,0.862,0.39,45.876,4,comedy
+1KRdD8IpxMXGB2883OVP2Q,Tenacious D,The Pick Of Destiny,Classico,55,58506,True,0.738,0.531,6,-7.35,1,0.14,0.907,1.07e-05,0.311,0.919,170.007,4,comedy
+1BissOMHM9CpK6ZTQUt9ia,Iliza Shlesinger,War Paint,Tingling,23,226601,True,0.654,0.93,3,-5.904,0,0.952,0.775,0.0,0.7,0.413,65.193,3,comedy
+6W44Ejks6RYv1tRCvp1W9Q,Chris Lilley;Jonah Takalua,"Don't Be a Bully (Music from the TV Series ""Jonah from Tonga"")",Fobba-Licious Medley (Bonus Track),23,136153,False,0.678,0.4,7,-6.352,1,0.126,0.954,0.0,0.292,0.519,130.801,4,comedy
+4GTqh9OCxIxjMtmNLA8HTY,Brad Williams,Fun Size,Achondroplasiaphobia,22,218718,False,0.643,0.488,6,-21.464,0,0.923,0.799,0.0,0.931,0.354,119.525,4,comedy
+2LGCSirqJYrPkvIwIsJBns,Nick Swardson,Taste It,Drunk Chicks,22,226970,True,0.384,0.936,3,-6.725,0,0.904,0.663,0.0,0.885,0.145,52.318,4,comedy
+4TzepkpQAk3NtcD4I5wzMC,Todd Glass,Todd Glass Talks About Stuff,The Leisure Class,21,239280,True,0.536,0.927,4,-3.28,0,0.904,0.876,0.0,0.831,0.563,97.645,4,comedy
+3h5rJv6R27ck6C3zoxZqeu,"Joey ""CoCo"" Diaz",Sociably Unacceptable,Willy Bandy,22,228766,True,0.631,0.654,9,-10.239,1,0.916,0.706,0.0,0.697,0.667,126.564,3,comedy
+2O7imiOIeMk9TKRVk3xknK,Nick Thune,Folk Hero,Truth or Dare,21,183941,False,0.521,0.926,8,-6.533,1,0.918,0.791,0.0,0.893,0.156,81.69,4,comedy
+2dVhGqu5zXQu88Bv0ai3lK,Marquez The Greatest,Under The Influence,Negro Spiritual,23,86360,True,0.56,0.645,6,-9.593,0,0.9,0.937,0.0,0.569,0.632,89.948,3,comedy
+4CFNwR9sfNZer8x1VobgGd,Andrew Norelli,One and a Half Wit,Snoozin' (Live),21,228159,False,0.538,0.522,0,-16.234,1,0.936,0.745,0.0,0.717,0.554,94.042,3,comedy
+1VoiyyzgN0aFfdW2FJeg83,Louis Katz,If These Balls Could Talk,Glasses,21,238760,True,0.525,0.867,2,-5.773,0,0.916,0.831,0.0,0.735,0.539,69.174,4,comedy
+0LkhJLCq6wCjd1Z8MIhvRb,Richard Pryor,Richard Pryor,Farting,22,122946,True,0.252,0.965,8,-12.753,0,0.919,0.739,0.0,0.721,0.222,63.079,5,comedy
+7jLbU0psQwmWeOm64xdtut,Pink Guy,Pink Season,Hot Nickel Ball on a Pussy,39,139640,True,0.874,0.61,2,-8.061,1,0.301,0.144,0.0,0.18,0.728,89.995,4,comedy
+7brklODLV3PPxHOsNF1EXH,Katt Williams,American Hustle,Keep Your Focus,21,287956,True,0.581,0.718,6,-14.619,0,0.928,0.831,0.0,0.938,0.376,115.837,3,comedy
+4FRLOjBRNvuc3Lvcz345C3,Ryan Sickler,Above Ground Cool,CAIDS,22,146880,False,0.463,0.897,9,-7.447,0,0.912,0.828,0.0,0.75,0.353,95.292,4,comedy
+2BkyqLdBfE88QmZXx9Ft8X,Mitch Fatel,Public Display of Perversion,I Love Fairies,21,226195,True,0.351,0.882,1,-11.064,0,0.938,0.982,0.000603,0.759,0.431,63.66,4,comedy
+0shWt9VIEMxbBmwbtYmclE,Simon King,As Good As Or Better Than,Nobody Thinks About Me,21,155116,True,0.682,0.845,5,-5.91,0,0.594,0.686,0.0,0.943,0.766,109.661,4,comedy
+41pyBVdBQ7k5g3r4PdH40t,Christopher Titus,Angry Pursuit of Happiness,New Pope Smell,22,255685,True,0.658,0.901,7,-6.625,1,0.95,0.909,0.0,0.85,0.239,64.049,4,comedy
+02iaqWxSrjvp15DKdFvnwr,Ben Bailey,Road Rage...and Accidental Ornithology,The Realism of Expression,22,515076,False,0.481,0.87,8,-18.027,1,0.89,0.692,0.0,0.892,0.0381,132.129,4,comedy
+5B0ralLZKd7PQAoIfKF7cM,Flanders & Swann,L'ultime Album des enfants,The Hippopotamus Song (Remastered),22,175101,False,0.63,0.244,7,-13.442,1,0.377,0.992,4.6e-05,0.706,0.687,96.742,4,comedy
+6UbT07Jce25IYMR0nfT7DA,Dan Levy,Congrats on Your Success,My Roommate Ate My Pot Cookies,21,415320,True,0.498,0.973,5,-4.721,0,0.861,0.822,0.0,0.95,0.161,124.233,3,comedy
+1iLLGFvMSNa58EEJH8VjcV,Nick Thune,Thick Noon,Instant Messenger,21,348546,True,0.428,0.685,0,-7.522,1,0.168,0.845,9.54e-06,0.508,0.543,126.439,4,comedy
+470rgmer4imGA2ror2kcIp,Martin Lawrence,Doin' Time: Uncut,Weed in the White House,21,283746,True,0.498,0.453,2,-21.744,1,0.959,0.659,0.0,0.738,0.183,76.725,4,comedy
+47GAtWXlzdiyrJ50YoC12N,Larry The Cable Guy,Remain Seated,Gamblers & Vegas,22,141697,False,0.573,0.761,9,-11.995,1,0.953,0.785,0.0,0.757,0.192,107.691,3,comedy
+0kR7PYS4TWrbDWu7HJtFXU,Stephen Lynch,3 Balloons,You (Prettier Than),22,176080,False,0.535,0.261,9,-10.932,1,0.0305,0.397,0.0,0.124,0.373,130.518,4,comedy
+1dPOioHG4fOwbim38TeCzd,Steve Rannazzisi,Breaking Dad,Mowing the Lawn,22,238174,True,0.552,0.875,2,-4.969,1,0.925,0.809,0.0,0.905,0.423,77.532,5,comedy
+0qioGtCXBHPCXW606xOZOE,Josh Sneed,Unacceptable,Montana and the Flea Market,21,244773,True,0.517,0.639,8,-9.654,1,0.948,0.782,0.0,0.776,0.378,91.648,4,comedy
+3Ej5qXIGNVCeWjNOsnwO1U,Larry The Cable Guy,Remain Seated,Grocery Stores,22,161813,False,0.562,0.805,6,-12.402,0,0.957,0.788,0.0,0.897,0.209,96.854,4,comedy
+3iReY6sbqHlvFtd3gJIT2h,Patton Oswalt,Finest Hour,The Limits of Dancing,23,50333,True,0.646,0.979,2,-5.063,1,0.91,0.852,0.0,0.677,0.0486,63.872,3,comedy
+4SE8nVCFLF7pkWX7meMp0D,Mike Birbiglia,Two Drink Mike,The Oatmeal Song,22,205506,False,0.463,0.682,7,-8.097,1,0.864,0.782,0.0,0.722,0.523,150.377,4,comedy
+23vmapCqO8TIsAwiAulgHt,Patton Oswalt,Talking for Clapping,Gay Prom,22,194427,True,0.676,0.306,1,-19.527,1,0.957,0.739,0.0,0.683,0.44,144.213,3,comedy
+1qHugjffARcqcuSDnUStfQ,Goldie Lookin Chain,Greatest Hits 2,Fresh Prince of Cwmbran,23,206013,True,0.509,0.72,1,-9.704,0,0.455,0.0134,0.0,0.171,0.695,202.587,4,comedy
+6BZwovUUWqxVEPVkoTXB8Z,Kevin Bloody Wilson,35 Years of Kevin Bloody Wilson,Nigel Fuckin' Legend,23,259466,True,0.737,0.566,4,-7.533,1,0.09,0.468,0.0,0.141,0.47,104.787,4,comedy
+3PcimZLUKg1wji51BZsPAj,Patton Oswalt,Finest Hour,The Burroughs of Carbs,23,139040,True,0.624,0.943,2,-4.016,1,0.897,0.697,0.0,0.734,0.538,117.886,3,comedy
+24mNMRM13xHhISdlX8Ihvp,Kevin Bloody Wilson,Rides Again,Happily Ever After,23,307773,True,0.483,0.659,0,-7.288,1,0.166,0.813,0.0,0.274,0.876,186.16,4,comedy
+2coVkmm2fDPfoGDh6fOaMl,Mike Birbiglia,Two Drink Mike,The Guitar Guy at the Party,21,206000,False,0.414,0.713,7,-8.365,1,0.297,0.772,0.0,0.74,0.674,150.668,4,comedy
+5ZbWklBolGTbYKCHF3nXHO,Mike Birbiglia,My Secret Public Journal,Roger Clemens Hates Me,21,398613,False,0.431,0.789,1,-12.315,1,0.951,0.858,0.0,0.833,0.217,67.824,3,comedy
+6CU8rqdAc2IzNNTgWy3vgk,Kathleen Madigan,Madigan Again,Gym,22,302586,True,0.514,0.922,10,-5.097,1,0.955,0.823,0.0,0.777,0.327,74.065,4,comedy
+5IYXCTNkGgL6BlbjapOVJK,Kathleen Madigan,Gone Madigan,Tivo,23,155955,True,0.545,0.785,5,-6.052,0,0.933,0.88,0.0,0.698,0.47,79.375,4,comedy
+52Y0rO7U3LoXL3ydMzW3N9,Kathleen Madigan,Bothering Jesus,Noodling,22,206463,False,0.511,0.864,9,-6.954,0,0.658,0.782,0.0,0.81,0.407,137.176,3,comedy
+2GqPKiYnGozshHs8y7yau3,Kevin Bloody Wilson,35 Years of Kevin Bloody Wilson,Livin' Next Door to Alan,23,275626,True,0.476,0.683,7,-5.107,1,0.065,0.632,0.0,0.874,0.778,128.984,4,comedy
+6xBgm6uwwoyddUY9GzrQCw,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Martha Stewart,22,234533,False,0.666,0.198,8,-22.909,1,0.948,0.818,0.0,0.847,0.585,99.537,3,comedy
+4sAp2fCkqlJExrPZsgGDPm,Kevin Bloody Wilson,What's Donald Gonna Do Today?,What's Donald Gonna Do Today?,23,216545,False,0.752,0.638,4,-6.436,1,0.102,0.576,0.0,0.113,0.865,85.011,4,comedy
+1FfN2sDgdoT14CQHhWk19K,Kathleen Madigan,Gone Madigan,"Autism, My Sister Kate",23,219719,True,0.627,0.849,9,-5.295,1,0.923,0.832,0.0,0.941,0.463,82.399,4,comedy
+1OW0CsDrjy5GJ6FjWtJMOq,Kathleen Madigan,Bothering Jesus,Installing a Car Seat,23,341512,False,0.489,0.88,9,-6.361,1,0.575,0.754,0.0,0.781,0.412,117.481,3,comedy
+3XzQcuKehx4NK0i2dj1k76,Kathleen Madigan,Gone Madigan,"No Hope, Mormon Tour",22,332865,True,0.59,0.799,6,-5.524,0,0.905,0.865,0.0,0.722,0.617,93.167,4,comedy
+7DKe946SXhGlpjHYbGQCMX,George Lopez,Right Now Right Now,Sex Talk,22,314506,True,0.523,0.643,1,-14.823,1,0.942,0.826,0.0,0.89,0.344,61.854,3,comedy
+3dzcstTqXZSuZXYHvKQxsd,Jon Lajoie,F**K Everything,F**K Everything,38,224614,True,0.659,0.845,9,-4.334,0,0.174,0.37,0.0,0.197,0.731,170.185,4,comedy
+2v738AcSrqklWKhBpV5alf,Pink Guy,Pink Season,Uber Pussy,39,117360,True,0.87,0.597,7,-6.32,1,0.333,0.00661,1.26e-06,0.45,0.533,104.021,4,comedy
+1dclB7KBIFYB4YCljaQTNl,Iliza Shlesinger,War Paint,Guys,22,167699,True,0.525,0.94,3,-5.496,0,0.943,0.847,0.0,0.976,0.197,81.375,4,comedy
+3gTeHnpS6z8XbA7eY9eiZh,Darryl Lenox,Blind Ambition,The Last Klondike Bar,21,175912,True,0.565,0.72,4,-10.933,1,0.927,0.797,0.0,0.769,0.181,92.047,4,comedy
+0rUpN8C1eh52rDvmJ7fUAI,Alfred Carcieri,Hardcore Softy,Dating Solution,22,63164,True,0.48,0.637,11,-12.326,1,0.543,0.916,0.0,0.757,0.87,128.224,1,comedy
+4UYRevoqxKFugtqrgEN3ed,Andrew Norelli,One and a Half Wit,Youngest Kid (Live),21,112803,False,0.524,0.489,2,-16.907,1,0.947,0.786,0.0,0.726,0.651,89.119,4,comedy
+7u9TVTUA8uMjoZzTFThl4u,Stephen Lynch,My Old Heart,My Old Heart,22,314480,True,0.668,0.203,4,-10.825,1,0.0298,0.889,0.00025,0.104,0.217,138.812,4,comedy
+5VFxfXso3x9IDuMryw6BQw,Simon King,As Good As Or Better Than,Lazy Hate,21,185177,True,0.614,0.811,9,-6.182,1,0.776,0.621,0.0,0.779,0.759,76.811,5,comedy
+55OKQYb9oBEkodq0o2bGyR,Mo Mandel,Negative Reinforcement,The Death of Sex,21,298090,True,0.588,0.694,2,-12.089,1,0.944,0.811,0.0,0.625,0.426,90.748,4,comedy
+57x3MBUs9IE0vlZVDtrYax,Tracy Morgan,Bona Fide,Brooklyn,22,138930,True,0.385,0.951,6,-4.562,1,0.714,0.489,0.0,0.969,0.106,178.79,4,comedy
+7jc524Kcj1FRHUh7y5x9uv,Clinton Jackson,Do You See the Ducks Now,A Lady & Her 3 Sons,21,86973,False,0.493,0.979,6,-7.693,0,0.897,0.643,0.0,0.914,0.093,61.685,3,comedy
+5cJ9qUDiryWituUEd9iN2J,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,"Unethical, Pt. 1",22,249074,False,0.701,0.704,2,-12.033,0,0.925,0.986,0.0,0.207,0.5,132.24,3,comedy
+0eal3cEeHVC9UqEaW6OoIc,Tim Wilson,But I Could Be Wrong,Bed Pan Man,22,53360,True,0.506,0.948,9,-5.427,1,0.478,0.652,2.31e-06,0.97,0.965,98.837,4,comedy
+5Wr5loPlxP4VXN58telbOt,Shane Mauss,My Big Break,8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft 8ft,21,215040,True,0.624,0.467,6,-13.528,1,0.925,0.896,0.0,0.885,0.487,112.787,4,comedy
+2hDzhvjwnw6GTeYAAKrqwU,Rhod Gilbert,Rhod Gilbert and The Award-Winning Mince Pie,Llanbobl,22,326529,False,0.473,0.767,11,-10.652,1,0.9,0.866,0.0,0.459,0.547,75.459,4,comedy
+0K50G2O86AbK0h4CqIz24D,Chris Hardwick,Mandroid,Nasonex,22,90320,True,0.449,0.936,6,-5.541,0,0.947,0.622,0.0,0.931,0.232,179.269,3,comedy
+00ZyULMuJ9Jn4mUnlnMdin,Big Jay Oakerson,Live at Webster Hall,Lazy (It Runs in the Family),21,229665,True,0.477,0.739,2,-13.15,1,0.947,0.898,0.0,0.77,0.481,85.671,4,comedy
+51uV7BNAsOxsKA5xpUD5gO,"Joey ""CoCo"" Diaz",Sociably Unacceptable,Getting Older,22,115895,True,0.632,0.687,1,-12.338,0,0.928,0.832,0.0,0.827,0.583,44.555,4,comedy
+1uzF3wJdgmDcn4kQqJzwo3,Mike Sheer,Welcome to This Basement,Bourbon Says Relax,22,60547,True,0.627,0.455,1,-17.743,0,0.921,0.967,0.000422,0.6,0.952,67.592,4,comedy
+6I1mw5BBnLZhOXpKTAXKj7,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,James the Painter,22,190083,False,0.616,0.795,0,-10.962,1,0.94,0.986,5.17e-05,0.779,0.581,81.987,4,comedy
+2zOYO69UlD75QZeBXdET6S,Steve Rannazzisi,Breaking Dad,Space,22,309478,True,0.475,0.912,8,-5.561,1,0.949,0.855,0.0,0.649,0.198,76.945,4,comedy
+7EUdxULsu2u4yghHOdytGF,Martin Short;Harvey Fierstein,Hairspray LIVE! Original Soundtrack of the NBC Television Event,(You're) Timeless to Me,22,259786,False,0.579,0.507,4,-5.996,0,0.0711,0.223,0.0,0.127,0.533,118.809,4,comedy
+47s9GjMHMPSzPaEBUumq5g,"""Weird Al"" Yankovic","UHF: ""Weird Al"" Yankovic",Spatula City,23,67840,False,0.638,0.449,6,-16.04,0,0.556,0.796,0.0,0.34,0.557,114.985,5,comedy
+1bw2gskhPcaGXbnlyMZw5C,Big Jay Oakerson,Live at Webster Hall,Asian Girls (Revisited),21,143518,True,0.465,0.853,6,-12.544,0,0.937,0.911,0.0,0.87,0.299,108.269,5,comedy
+3hSwzLsBkybmn4aSF5leAy,Andy Hendrickson,Left Field,Dogs and Half-Marathon,21,248017,False,0.521,0.588,6,-16.235,1,0.928,0.65,0.0,0.935,0.432,86.091,3,comedy
+14KRQPqBGbMHKheHc31Xdm,Tom Papa,Human Mule,Saving the World,21,166810,False,0.671,0.597,9,-15.384,1,0.954,0.73,0.0,0.721,0.379,51.654,4,comedy
+5eq83Qv4nFwht3tL3UCKdK,Andy Hendrickson,Dry Bar Comedy Presents: Left Field,New York to LA,22,166416,False,0.443,0.521,10,-16.134,1,0.935,0.664,0.0,0.903,0.344,80.363,1,comedy
+76qOvexxMv6N6eAz1p5Poy,Jim Florentine,Terrorizing Telemarketers 7,Referral,22,248800,False,0.686,0.875,9,-10.782,1,0.937,0.981,0.000646,0.0803,0.327,73.692,3,comedy
+1rMJdcuF12ssnNp7GquFan,Margaret Cho,I'm The One That I Want (Live In Concert),Lesbians Love Whale Watching,22,310506,True,0.365,0.321,10,-16.048,0,0.489,0.686,0.0,0.849,0.174,75.71,3,comedy
+5g9IN42ZX2NK6KhOB347V3,Dry Bar Comedy,Dry Bar Comedy Presents Zoltan Kaszas: Cat Jokes,Accidental Soccer Coach,22,158000,False,0.519,0.535,3,-14.284,0,0.935,0.764,0.0,0.706,0.474,135.462,4,comedy
+1etp7GX5fB4ee4sYqZGG4B,Rachel Feinstein,Only Whores Wear Purple,Asses and Advice,22,187651,True,0.615,0.744,4,-7.379,1,0.854,0.903,0.0,0.402,0.283,113.349,3,comedy
+2vT42Ig3qE6d3IAnRCGVXJ,Carl Barron,"Just for Laughs - The Archives, Vol. 11",Words Are Noises (Jfl 2004),22,223329,False,0.427,0.785,4,-17.026,1,0.938,0.878,0.0,0.913,0.0414,75.097,3,comedy
+0snTPp0nuRRb0Z0D2EVWfJ,Carl Barron,"Just for Laughs - The Archives, Vol. 57",Burps and Farts (Jfl 2000),22,197597,True,0.543,0.812,3,-16.197,0,0.932,0.821,0.0,0.85,0.0599,96.715,3,comedy
+31Hu0lcugWlMvAJh93OkNj,Goldie Lookin Chain,Greatest Hits,Self Suicide,23,225733,True,0.666,0.863,10,-2.719,0,0.307,0.354,0.0,0.0675,0.815,98.206,4,comedy
+5r4v7vHpyWBDdMm7DVBJum,Joe DeRosa,You Let Me Down,Mandatory Self-Deprecation Jokes About Therapy,22,345230,False,0.517,0.821,6,-7.161,0,0.927,0.814,0.0,0.688,0.466,84.066,4,comedy
+6eAWrXTlSn0mZhTs2V97rG,Andy Hendrickson,Dry Bar Comedy Presents: Left Field,Lasik and Reading,21,142560,False,0.493,0.608,5,-15.047,1,0.907,0.686,0.0,0.718,0.327,105.764,4,comedy
+4F6BynYVLvYxM6q1gMDdvz,Dry Bar Comedy,Dry Bar Comedy Presents Tyler Boeh: Wait for It,Old People's Music,22,40125,False,0.472,0.66,9,-14.188,0,0.539,0.75,0.0,0.849,0.935,128.169,3,comedy
+74CKdGAQNhQeZroiHebZhx,Gary Gulman,The Great Depresh,Drinking Fountain,21,276142,True,0.574,0.579,10,-14.523,1,0.945,0.879,0.0,0.712,0.406,127.292,3,comedy
+0e5P7G88NkIPRaO6McJqZE,Rodney Carrington,Morning Wood,Play Your Cards Wrong - Live,22,125109,True,0.516,0.375,7,-11.118,1,0.0352,0.842,0.0,0.135,0.805,145.962,4,comedy
+0zltycSAKvmQXMG8Viu1Vp,Jake Thackray,Lah-Di-Dah,Sister Josephine,23,199013,False,0.734,0.205,9,-15.432,1,0.398,0.892,1.59e-06,0.102,0.558,118.974,4,comedy
+2GCbHTxbTr1vvNgvKyVYeS,Christopher Titus,Angry Pursuit of Happiness,Gun Conspiracy,22,365416,True,0.607,0.851,4,-8.306,1,0.946,0.911,0.0,0.724,0.258,62.656,3,comedy
+1oIIxYXS3cMsY3EXAl1vOw,Patton Oswalt,Finest Hour,The Slob Avatar,22,282520,True,0.697,0.855,5,-5.605,1,0.926,0.704,0.0,0.575,0.419,102.244,3,comedy
+2U5seysahayD1UCowxOIQt,Adam Sandler;8 Crazy Nights Cast;Blake Clark;Kevin Farley;Tom Kenny;Lari Friedman;Jared Sandler;Jillian Sandler;Dylan Sprouse;Carl Weathers;Tyra Banks;Cole Sprouse;Ann Wilson;Richard Page,Eight Crazy Nights (Original Movie Soundtrack),"Intervention Song (with Blake Clark, Kevin Farley, Tom Kenny, Lari Friedman, Jared Sandler, Jillian Sandler, Dylan Sprouse, Carl Weathers, Tyra Banks, Cole Sprouse, Ann Wilson & Richard Page)",22,153493,False,0.558,0.616,4,-8.308,1,0.129,0.506,0.0,0.895,0.262,94.277,4,comedy
+5xYo5LTrgAeJiaE31gIKmt,Patton Oswalt,Finest Hour,The Circus Is in Town,22,245226,True,0.526,0.943,2,-4.507,1,0.943,0.773,0.0,0.824,0.311,168.161,3,comedy
+0tqLy3AF81K7ZwAvceW9po,Patton Oswalt,Finest Hour,The Weight Loss Plan,23,127533,True,0.657,0.89,5,-5.091,1,0.916,0.781,0.0,0.662,0.802,73.569,5,comedy
+6sE7qyZ0vDwLNxa2cW9sYB,Kathleen Madigan,Bothering Jesus,"Malaysian Flt 370, Pt. 3",22,190953,False,0.482,0.821,6,-6.433,0,0.557,0.786,0.0,0.97,0.576,87.418,3,comedy
+4Kl63vqz09p2BYoFad4L39,Kathleen Madigan,Bothering Jesus,House Hunters,22,121682,False,0.483,0.878,6,-6.008,0,0.566,0.769,0.0,0.97,0.471,121.317,3,comedy
+3Wmps19FJ0i41CxZx9EOMT,Kathleen Madigan,Bothering Jesus,"Malaysian Flt 370, Pt. 1",22,175595,False,0.568,0.849,5,-7.199,0,0.598,0.759,0.0,0.89,0.555,74.756,3,comedy
+6lZ15n1ekKcGckQQZRd3bC,Kathleen Madigan,Bothering Jesus,Ferguson Yankee,22,169719,False,0.426,0.85,5,-6.704,1,0.489,0.753,0.0,0.855,0.539,81.6,3,comedy
+0bXdpH23xKUTVvfIx7XJUo,Kathleen Madigan,Bothering Jesus,"The Villages, Florida",22,204177,False,0.48,0.81,8,-7.323,1,0.847,0.807,0.0,0.855,0.412,85.098,3,comedy
+0IaR6HCEObaHxA52i0fdKU,The Lonely Island,Turtleneck & Chain (Explicit Version),Threw It On The Ground,49,158520,False,0.655,0.817,8,-4.286,1,0.346,0.00106,1.38e-05,0.066,0.671,129.738,4,comedy
+0CaWTRBQ2MShWD7remjUfI,Jon Lajoie,You Want Some of This?,High as F%#K,38,174986,True,0.517,0.424,4,-11.046,1,0.0325,0.866,0.0,0.107,0.399,139.81,4,comedy
+2UFHozcU6yZeCCygTabBvS,Keith Alberstadt,Walk It Off,Germ War,21,87002,False,0.674,0.642,0,-10.262,0,0.937,0.899,0.0,0.535,0.472,75.302,4,comedy
+6t66Gn30J1qAVcSZKAqEOK,Willie Barcena,Hey!they'rejust Jokes!,Bbq,22,115600,True,0.509,0.646,2,-16.48,1,0.93,0.874,1.96e-06,0.731,0.339,51.142,5,comedy
+4o1fv1iAZ5wesZKXFQXjMZ,Baron Vaughn,Blaxistential Crisis,South,21,148733,True,0.465,0.615,6,-12.408,1,0.921,0.863,0.0,0.787,0.685,48.3,5,comedy
+251W7xD4sW3iPIvig9W2yb,Ryan Sickler,Get a Hold of Yourself,We Got a Joint!,21,350946,True,0.558,0.612,0,-8.448,1,0.928,0.817,0.0,0.934,0.475,87.815,3,comedy
+3RPOz8UW6FkzlLEKEHt5Xx,Bob Saget,That's What I'm Talkin' About,Easier Below the Belt,22,137533,True,0.579,0.943,2,-5.157,1,0.878,0.799,0.0,0.422,0.485,55.346,4,comedy
+5smj1wS1zgUgdQoBJDlmw1,Ali Siddiq,Damaged Goods,Kayaking,22,106521,True,0.56,0.405,11,-21.095,1,0.894,0.802,0.0,0.708,0.189,104.268,3,comedy
+7FUYnd7l379jFnwFYTvR4b,Andrew Norelli,Cut Above Stupid,L Gaga,21,269533,False,0.572,0.8,8,-12.002,1,0.914,0.822,0.0,0.651,0.407,92.591,3,comedy
+1Ep3W7DYe6JxWsWHb3SKL1,Mo Mandel,Negative Reinforcement,Pee Pee Treats,21,149941,True,0.758,0.642,6,-12.07,1,0.954,0.87,0.0,0.773,0.5,70.366,3,comedy
+1s1DUBMX8MzwPeIKcP4LUU,Iliza Shlesinger,War Paint,Snootch,22,238117,True,0.586,0.903,7,-6.614,1,0.953,0.839,0.0,0.672,0.308,80.399,4,comedy
+4yi1dg6BbXUnhTUQNllDiV,John Caparulo,"Caplets: September, 2015","Caplets: September, 2015",21,337535,False,0.633,0.346,10,-16.4,0,0.947,0.876,0.0,0.721,0.512,107.818,4,comedy
+2l04PBenOBbAfMLeIqNZDg,Iliza Shlesinger,War Paint,The Grabbing Hand,22,399550,True,0.683,0.909,1,-6.075,1,0.924,0.772,0.0,0.764,0.385,102.977,4,comedy
+3JLsjVkdmrjrbvP1Uiu4IV,Tom Papa,Human Mule,The Human Contract,21,339521,False,0.617,0.592,2,-13.854,1,0.962,0.721,0.0,0.752,0.465,90.721,4,comedy
+0aQXyKBPUJdn0j1k3k2knY,Tom Papa,Freaked Out,Going to Church,21,341297,False,0.567,0.928,9,-3.908,1,0.819,0.858,0.0,0.599,0.436,86.273,4,comedy
+3rdHAJ7TJtOqIiROGyeNIk,Dana Gould,I Know It's Wrong,Animal Aftercare,20,292173,True,0.555,0.883,4,-7.219,0,0.95,0.88,0.0,0.879,0.34,64.161,4,comedy
+09YownXjN4uwke2gAtMtE2,Tom Papa,Human Mule,Angry Young Men,21,136820,False,0.587,0.558,11,-14.645,0,0.962,0.795,0.0,0.807,0.559,88.127,4,comedy
+1VFuRe8MpPLQwhYgutEdxd,Glenn Wool,Let Your Hands Go,Cocaine Glenn,22,70251,True,0.621,0.814,0,-6.352,1,0.928,0.857,0.0,0.513,0.461,39.872,4,comedy
+2jzB49PMeQHm41FLj7uFhJ,Dana Gould,I Know It's Wrong,Anything Can Be Funny,20,358080,True,0.385,0.96,6,-7.55,1,0.927,0.874,0.0,0.772,0.0974,81.143,3,comedy
+6snxrG2vE9XXKpLEplw7mC,Myq Kaplan,Meat Robot,Meats and Robots,21,190946,True,0.572,0.797,5,-6.179,0,0.899,0.891,0.0,0.507,0.636,84.322,4,comedy
+3eQdJA1b3y1PBQU4xg3Can,Louis Katz,If These Balls Could Talk,Tits vs. Ass,21,197533,True,0.532,0.862,5,-5.507,1,0.856,0.821,0.0,0.78,0.452,135.31,3,comedy
+3k3cxIjTTMw9scy1OfRSsM,Joe Zimmerman,Smiling at Wolves,Adult Add,21,101968,False,0.571,0.644,2,-9.005,1,0.857,0.913,0.0,0.342,0.51,106.681,5,comedy
+1kY5r1qqDLNWMjHAORQBv1,Big Jay Oakerson,Live at Webster Hall,Getting to Know You,20,200183,True,0.471,0.895,2,-13.646,1,0.92,0.904,0.0,0.937,0.125,114.169,5,comedy
+5dgGHtdxrTU5VcfQLiEykb,Tom Papa,Freaked Out,I Make People,21,363474,False,0.528,0.954,9,-4.065,1,0.949,0.838,0.0,0.664,0.302,71.944,4,comedy
+3EUINDmmFZJ66Jgk8nfwIy,Tom Papa,Human Mule,Morning Tom,21,213995,False,0.526,0.667,6,-15.417,1,0.962,0.772,0.0,0.751,0.259,171.074,4,comedy
+5XBYyTeieE6krwSBiBztRU,Mitch Fatel,Public Display of Perversion,I Love Babies,21,166395,True,0.511,0.801,6,-10.328,1,0.913,0.988,0.000192,0.312,0.684,66.961,3,comedy
+7jqvcYngHXrodUO8P8fbHZ,Andrew Norelli,Cut Above Stupid,Staples is Exhausting,21,311680,False,0.545,0.697,5,-13.205,0,0.859,0.821,0.0,0.874,0.493,87.403,4,comedy
+6Zd9MIu0tdRo59t0VbFg2b,Caroline Rhea,What Is It You Can't Face?,Captain of the Virgninity Team,21,204186,False,0.45,0.806,5,-12.369,1,0.897,0.732,0.0,0.668,0.365,71.261,3,comedy
+3F9QPgLzUXDIgbLdRu1rSq,D.L. Hughley,Clear,Oscar Movies and Paula Deen,21,348202,True,0.555,0.954,2,-7.513,0,0.913,0.764,0.0,0.751,0.153,80.507,3,comedy
+59feuOFt7emOFGZQQAkx90,Andrew Norelli,One and a Half Wit,Emotional Intelligence (Live),21,170898,False,0.496,0.476,9,-16.791,1,0.95,0.746,0.0,0.895,0.555,42.954,4,comedy
+2Ze87RjZpLpw2fpgGFwFGV,Shane Mauss,Jokes to Make My Parents Proud,"Blanket, Fart, Strip",23,119053,True,0.588,0.825,2,-6.301,1,0.892,0.881,0.0,0.73,0.482,122.146,5,comedy
+6mWCHtkn8NJEDcWplDiGwm,Martin Lawrence,Doin' Time: Uncut,Sex Addiction,21,227884,True,0.602,0.367,2,-22.97,1,0.95,0.667,0.0,0.959,0.276,89.184,4,comedy
+5ljkFWKVckDSU8iS3XPETr,Moshe Kasher,Live in Oakland,I Found out in Seattle (The Gag Reflex) - Live,21,163040,True,0.598,0.904,7,-2.921,0,0.886,0.808,0.0,0.956,0.771,86.086,3,comedy
+63isYS7JVIH9yfS6xOF2Pc,Redd Foxx,The Ultimate Comedy Collection,"Atlanta, GA",22,142586,False,0.568,0.663,4,-12.513,0,0.906,0.979,0.000134,0.658,0.44,85.444,3,comedy
+2BZe9fLjce5JlnrVmwYzWl,Jeff Foxworthy,The Redneck Test,Towing Dad's Boat,21,775967,False,0.55,0.802,11,-12.305,1,0.926,0.864,0.0,0.812,0.515,110.829,4,comedy
+69RZsqTjaU27NtMgILHGZt,Ralphie May,Just Correct,Protesting,22,332096,True,0.534,0.683,5,-14.721,0,0.933,0.877,0.0,0.943,0.406,79.015,4,comedy
+76y8psDnlxYcEwaY8YXdyR,Aunty Donna,The Album,Chop Chop - English Version,22,177000,True,0.95,0.787,11,-8.767,1,0.382,0.0991,0.0,0.465,0.896,115.042,4,comedy
+29Ix5oCICnAYsiV7UtKFDZ,Baron Vaughn,Holy Fuck. Live Comedy.,Baron Vaughn,21,282406,True,0.432,0.715,2,-11.85,1,0.853,0.819,0.0,0.978,0.582,92.359,1,comedy
+3OupqAxWY6d8uIksQFRSTW,Martin Lawrence,Doin' Time: Uncut,Gettin' Old,21,224287,True,0.529,0.404,10,-22.632,0,0.954,0.618,0.0,0.884,0.243,85.362,4,comedy
+0QtgreaibusmcIHbgZZOOA,Gary Gulman,In This Economy?,Things Remembered,21,243346,True,0.489,0.911,9,-4.027,1,0.929,0.814,0.0,0.895,0.371,45.318,4,comedy
+3O7xmJgIzZDmzKnMTouc1s,Jeff Foxworthy,The Redneck Test,Fragrances,21,64208,False,0.568,0.856,6,-11.932,1,0.906,0.877,0.0,0.949,0.443,60.647,3,comedy
+7pxwA1zp87Md2flPamX3IM,Martin Lawrence,Doin' Time: Uncut,Make Some Noise,21,347733,True,0.407,0.953,6,-2.802,0,0.912,0.669,0.0,0.973,0.191,68.164,3,comedy
+5XSrcImB6Im1WEG8cF16j1,Larry The Cable Guy,Remain Seated,Hot & Cold,22,169129,False,0.651,0.775,8,-11.698,0,0.951,0.754,0.0,0.805,0.216,64.778,4,comedy
+47UO1iaEec4h7qWBDTwL1m,Ralphie May,Just Correct,Seigreid & Roy,22,242255,True,0.494,0.764,1,-14.757,1,0.917,0.879,0.0,0.948,0.367,144.957,4,comedy
+1ggRwygftCM9HKYY9Vrqgf,Larry The Cable Guy,Remain Seated,Remain Seated,22,247696,False,0.46,0.8,6,-11.374,1,0.951,0.775,0.0,0.93,0.189,52.616,3,comedy
+5y4dDCPJlGpJY4HCQmbTu1,Brian Regan,Live from Radio City Music Hall,Airport Music,21,193455,False,0.557,0.794,1,-10.249,1,0.949,0.948,8.34e-06,0.743,0.137,48.023,4,comedy
+0Ln5P9KpJoUzhBdi8ufoQ2,Max Boyce,The Very Best Of Max Boyce,Hymns and Arias - Live at Treorchy,22,588666,False,0.466,0.367,3,-15.146,1,0.449,0.817,0.0,0.906,0.443,104.762,3,comedy
+1CeRKY1UgQYgoxw3w9PXiv,George Lopez,"It's Not Me, It's You",Ethnic Shopping,21,171973,True,0.412,0.973,5,-6.464,0,0.868,0.889,7.92e-06,0.943,0.0379,103.237,4,comedy
+1tIUdAkC4gcK2bC9j1Zlno,Eugene Mirman,An Evening of Comedy in a Fake Underground Laboratory,My Time Warner Cable Newspaper Ad,20,335520,True,0.597,0.927,1,-5.194,1,0.897,0.79,0.0,0.662,0.499,91.95,4,comedy
+1sTbAUc2Gs6AcQuCum6rYr,Kevin Bloody Wilson,Wrong! Wrong! Wrong!,"If It Flies, Floats or Fucks",22,243320,True,0.763,0.819,7,-6.503,1,0.0927,0.824,2.06e-06,0.0986,0.936,170.004,4,comedy
+54dBIT0ZVJr0IsJvuRbatY,Froggy Fresh,Motorcycle Man,Motorcycle Man,21,171038,False,0.606,0.664,0,-8.122,1,0.0815,0.398,0.0,0.177,0.164,87.496,4,comedy
+1Iw8clLu1c0IP2SbsBOV6I,Jeff Allen,Three Word Vocabulary,Therapy,22,78480,False,0.62,0.553,1,-17.269,1,0.926,0.65,0.0,0.956,0.301,112.622,5,comedy
+3YETcPZiGRLUw8UuQJ7Xsg,Tommy Tiernan,Just for Laughs - Irish Classics,Learning About Sex (Jfl 2006),22,115031,False,0.515,0.881,3,-14.978,0,0.922,0.841,0.0,0.947,0.0687,102.881,3,comedy
+2tzjEo9Olp79ms8BuAGzso,Charlie Vergos,Barbecue Rich,Bald,22,151203,True,0.606,0.389,3,-18.909,1,0.938,0.831,0.0,0.776,0.757,78.253,3,comedy
+4zEl4jgfVHeBtgB4xVktwo,David Spade,My Fake Problems,Intro,20,190752,True,0.438,0.958,1,-4.992,0,0.909,0.663,0.0,0.718,0.22,78.584,4,comedy
+70vFvypPM4jil2LZVbmw0Y,Andi Smith,Home Perm,Christmas Parade,21,57182,True,0.537,0.71,5,-13.404,0,0.956,0.753,0.0,0.728,0.6,48.973,4,comedy
+4LKwfNItOlbKVe3PBzRF18,Pink Guy,Pink Season,Dora the Explora,38,144186,True,0.871,0.332,10,-9.524,1,0.652,0.0811,5.09e-06,0.375,0.296,145.846,4,comedy
+34CeMTBx2S0ZvrdEuajx0X,Muck Sticky,The Sticky Muck,It's Nice To Meet Ya,22,171000,False,0.871,0.505,1,-9.997,1,0.377,0.0326,1.16e-06,0.118,0.383,159.986,4,comedy
+25CFVVcTnPTqJd3Xm4OlOc,Jeff Allen,"Happy Wife, Happy Life...Revisited",BB Gun,22,91120,False,0.479,0.953,8,-12.134,1,0.862,0.609,0.0,0.943,0.183,81.022,4,comedy
+5x3J8PMzBOivIQaRvzErBg,Bruce Bruce,Losin' It,White People,22,273506,True,0.434,0.696,2,-19.142,1,0.899,0.915,0.0,0.709,0.15,72.251,3,comedy
+21LDwmMNxkKRHgilOFKl9H,Chingo Bling,Chicken Flippa (Mixtape),Aye Wey Wey,24,98760,True,0.705,0.699,6,-4.958,1,0.353,0.3,0.0,0.572,0.716,77.808,1,comedy
+6lH7E41rJRKTkMzo5p4uJB,Pink Guy,Pink Season,Gays 4 Donald,40,184266,True,0.817,0.582,5,-9.197,1,0.421,0.789,2.01e-05,0.113,0.501,131.984,4,comedy
+15UnyfRyyqjFZATgTXIZuN,Ali Siddiq,Damaged Goods,A Little Help Please,22,135679,True,0.43,0.786,6,-10.908,1,0.834,0.85,0.0,0.921,0.213,91.171,4,comedy
+7MCnFTgjTZgzezR6EzMH8q,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,"Unethical, Pt. 2",22,126409,False,0.589,0.781,11,-11.996,1,0.932,0.987,1.16e-06,0.417,0.456,72.268,3,comedy
+28KZi1eSVSc8Gnosc7Uodd,Carl Barron,"Just for Laughs - The Archives, Vol. 11",Thick Accent (Jfl 2004),22,273113,False,0.48,0.742,6,-17.153,1,0.925,0.876,0.0,0.905,0.0565,103.156,3,comedy
+1eUzIErm8jXblzUTGgUvxG,Jessi Campbell,Dry Bar Comedy Presents: Sharpest Knife on the Porch,Baby,22,95616,False,0.523,0.497,6,-15.769,1,0.89,0.846,0.0,0.447,0.559,71.517,5,comedy
+5354TkqoLgY6C6wnf7dLYK,Lil Dicky,Professional Rapper,White Crime,52,219936,True,0.744,0.508,2,-8.145,1,0.0709,0.0521,0.0,0.153,0.0548,83.998,4,comedy
+09LycaXwMkAoDbKrFAXI5l,Ben Bailey,Road Rage...and Accidental Ornithology,Ben vs. Owl,22,427500,False,0.476,0.767,1,-19.393,1,0.9,0.648,0.0,0.927,0.0393,135.347,3,comedy
+782XmNYYIsazviVHr178sG,Nick Swardson,Taste It,I Felt Bad,22,450544,True,0.454,0.887,3,-6.785,0,0.932,0.715,0.0,0.624,0.175,83.881,3,comedy
+4RUBcugkHQ8c6Jq2hkk1I3,Andi Smith,Home Perm,Art School,21,109244,True,0.544,0.605,1,-11.676,1,0.905,0.77,0.0,0.565,0.397,114.099,4,comedy
+2Yoyo0A9HXn4M4f0Rykpo1,Andrew Orvedahl,Hit the Dick Lights,Knee-Deep,21,161672,True,0.553,0.572,9,-11.474,1,0.852,0.742,0.0,0.728,0.732,90.825,3,comedy
+7LQOi7TbW6wIdyGVA7zwGt,Josh Sneed,Unsung Hero,Shiptop,20,144760,True,0.661,0.265,6,-20.029,0,0.936,0.754,0.0,0.917,0.547,128.853,3,comedy
+166cClX0R9SpSz2DxwznPO,Rodney Carrington,Nut Sack,Intro - Live,22,231920,True,0.451,0.676,4,-11.064,1,0.919,0.879,0.0,0.947,0.251,55.188,5,comedy
+71Gs0GSDFMaZkp9D6zwH72,Rhod Gilbert,Rhod Gilbert and The Award-Winning Mince Pie,Real Life Is Rubbish,22,319885,False,0.465,0.825,4,-10.459,0,0.942,0.847,0.0,0.683,0.568,171.267,4,comedy
+4ifsvVS1Or4RgnXJaTplm7,Aunty Donna;Montaigne;Boilermakers,The Album,The Best Freestylers in the World,21,278400,True,0.885,0.696,1,-5.876,1,0.314,0.045,0.0,0.652,0.562,100.034,4,comedy
+6tcWVk7E61wssITv2k6H3u,Kurt Braunohler,Trust Me,Nailing Marriage / Hitler Had a Dog,21,259978,True,0.585,0.66,2,-14.418,0,0.936,0.913,0.0,0.704,0.326,95.526,4,comedy
+12hcta6VBjbZIvxICaFWHb,Christopher Titus,Angry Pursuit of Happiness,Apex Predator,22,353352,True,0.6,0.873,1,-6.541,0,0.948,0.883,0.0,0.712,0.345,77.741,4,comedy
+3i64Rz1pm1np8rTVepe6kL,Greg Warren,One Star Wonder,West Point,20,328333,True,0.426,0.88,8,-5.746,0,0.901,0.834,0.0,0.933,0.516,84.006,5,comedy
+0BsUhT73a7WXDdbu22MI6S,Glenn Wool,Let Your Hands Go,My Friend Ed Wrote This Tag,20,134292,True,0.64,0.633,11,-6.302,0,0.926,0.886,0.0,0.657,0.37,134.267,3,comedy
+4CsnX3J6KHAotUc34du56V,Dara O Briain,"Just for Laughs: The Archives, 46",Irish and Italians (Jfl 2002),22,126626,False,0.549,0.706,10,-17.454,1,0.945,0.663,0.0,0.95,0.312,82.49,3,comedy
+3Yl66c6Ia9qY1h3r5R5IIC,Jeff Foxworthy,The Redneck Test,Designated Drivers,21,150831,False,0.523,0.817,3,-12.668,0,0.914,0.875,0.0,0.861,0.617,106.107,4,comedy
+2w1QZVuFLHkp91ahEKF76h,David Cross,"Oh, Come On",Encore,22,411223,True,0.656,0.56,4,-13.421,1,0.938,0.487,0.0,0.51,0.496,68.267,4,comedy
+1aZrxIp2YXNXxe8zJTMbJs,Rodney Carrington,Morning Wood,More Of A Man - Live,22,147866,True,0.495,0.372,4,-12.388,1,0.0356,0.867,0.0,0.857,0.685,90.626,4,comedy
+5d0ugENrXUE9hOii2N3QOk,Stephen Lynch,Superhero,Mothers Day - bonus live version,22,67133,True,0.587,0.368,2,-15.369,1,0.441,0.781,0.000123,0.658,0.556,119.846,3,comedy
+6Ea8JXQPtCvt6ou761Y1a8,Martin Lawrence,Doin' Time: Uncut,Fresh Running Water,20,278106,True,0.546,0.457,7,-21.688,1,0.959,0.602,0.0,0.904,0.304,89.331,5,comedy
+2Rb8q5rkMlsM2se774qM07,Jenny Talia,Don't Be a Shit Cunt,Don't Be a Shit Cunt,22,195295,True,0.623,0.648,1,-5.855,1,0.118,0.471,0.0,0.083,0.955,150.36,3,comedy
+7kFYOqGEvwZD8obeSB2kup,Bruce Bruce,Losin' It,I Like Older Women,22,399466,True,0.427,0.585,7,-20.252,1,0.916,0.885,0.0,0.778,0.195,75.065,4,comedy
+07XXH6BByArHCUym1bvALj,Pablo Francisco,Knee To The Groin,Country Music / Mexican Cowboy / Tough Cowboy,21,235893,False,0.48,0.558,1,-16.636,1,0.925,0.82,0.0,0.821,0.412,85.136,4,comedy
+0CqLKOrC26KDCrmdEvs2KT,Christopher Titus,Neverlution!,Terrorism Is Over,22,222880,True,0.59,0.625,2,-10.971,1,0.937,0.915,0.0,0.709,0.528,141.051,1,comedy
+082Cr7DXmyXxmJUI8TePy7,Larry The Cable Guy,Remain Seated,Christmas is My Favorite,22,215537,False,0.508,0.795,9,-12.021,1,0.961,0.708,0.0,0.872,0.0798,74.795,3,comedy
+0oiWvwSs3jY00AIwK4vas6,Patton Oswalt,Finest Hour,The Spirit Cave,22,204386,True,0.654,0.793,2,-5.408,1,0.939,0.691,0.0,0.888,0.483,84.823,4,comedy
+5GgbqKevdn73UOqcIFjBOt,Jason Allen,Known Alias,Bad Vibe / Serial Killer,21,131240,False,0.648,0.499,1,-15.133,1,0.915,0.728,0.0,0.703,0.68,124.13,5,comedy
+7yoZBe2q8jE1jTisBirYnQ,Comedian Bob Marley,Comedian Bob Marley Live,Itchy Boobs,21,47360,False,0.61,0.432,2,-16.001,1,0.926,0.857,1.59e-06,0.981,0.88,97.475,4,comedy
+2qKOnbNBchSKEo2ifDqFCQ,Kevin Bloody Wilson,Rides Again,I Taught Her That,22,274600,True,0.601,0.648,2,-6.724,1,0.0674,0.624,0.0,0.116,0.701,124.878,5,comedy
+71GjevvcPaCVZAkZWUTdYs,Kathleen Madigan,Bothering Jesus,Mermaid Lady,22,170848,False,0.537,0.845,9,-6.953,1,0.747,0.788,0.0,0.792,0.583,113.483,4,comedy
+1SFCLHrE49C1Sd2fyxQfkg,Ron White,Truckstop Comedy,Hustler,22,101266,True,0.607,0.52,6,-17.962,1,0.925,0.924,2.95e-06,0.689,0.524,90.479,3,comedy
+3rJdHvaSEwuASzYO1HOdK0,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Canada,22,239986,False,0.596,0.194,8,-25.641,1,0.937,0.849,0.0,0.778,0.332,133.339,4,comedy
+3dCl85gZJZmBb2iiCmlkI6,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Mexico,22,434853,False,0.628,0.243,1,-24.082,1,0.937,0.84,0.0,0.725,0.396,121.227,4,comedy
+3ZZJGYnxs6nkJHh2MqhqgT,Kathleen Madigan,Bothering Jesus,"Wrong Ocean Flt 370, Pt. 2",22,177690,False,0.551,0.823,8,-6.341,1,0.614,0.807,0.0,0.702,0.449,69.082,3,comedy
+09UNEnI0wYxbKWLbCdQJF5,Kathleen Madigan,Gone Madigan,"Health Care, Tsa, Immigration",22,197564,True,0.59,0.86,6,-4.759,0,0.848,0.84,0.0,0.888,0.502,87.735,4,comedy
+5HRO58hfVhTpGR87AzHaBa,Afroman,The Good Times,She Won't Let Me Fuck,52,361173,True,0.933,0.448,7,-8.391,1,0.347,0.239,0.0,0.0579,0.774,99.968,4,comedy
+3ZLlNLObEjAwtgTxVsj5If,Dirt Nasty,Palatial,Pussy Too Hot,21,175999,True,0.617,0.803,1,-2.357,1,0.0692,0.011,0.0,0.235,0.523,119.985,4,comedy
+210H3A3Fyv94vrcU7ezFtF,Lavell Crawford,New Look Same Funny! Extended Edition,Qt Dogs,22,63112,True,0.65,0.823,2,-11.148,1,0.933,0.804,0.0,0.5,0.183,103.473,3,comedy
+1hCOFdGunts9kWLFdXNeBf,"Joey ""CoCo"" Diaz",Sociably Unacceptable,Consequences,21,207092,True,0.653,0.623,8,-12.559,0,0.927,0.796,0.0,0.794,0.677,119.08,3,comedy
+3DBbly84HU2MNpPLgpR4VQ,Mike DeStefano,OK Karma,Lead Finger,21,104626,True,0.702,0.669,1,-8.58,0,0.938,0.771,0.0,0.863,0.682,80.893,4,comedy
+6CDMcrebvE7J0fEzgyQYJy,Keith Alberstadt,Walk It Off,Creepy Smile,21,56490,False,0.524,0.756,8,-12.18,1,0.916,0.82,2.92e-06,0.792,0.383,89.874,1,comedy
+6AOc7lQM2DrUhvjPl7zNYN,Dirt Nasty,Dirt Nasty,Cracker Ass Fantastic,22,207586,True,0.677,0.63,6,-9.64,1,0.789,0.134,0.0,0.1,0.711,70.581,4,comedy
+4Etk7YJv4vOAA4ekfRhxbf,Ian Bagg,Conversations,The Intern,21,257184,True,0.43,0.902,5,-10.702,1,0.925,0.932,5.11e-06,0.93,0.238,95.233,3,comedy
+2rrUb4NcQimu1GAhDeCnh6,Eddie Della Siepe,Little Jerk,Teens Are Cooler Than Me,21,127856,True,0.604,0.482,11,-14.063,0,0.948,0.873,0.0,0.848,0.651,82.015,4,comedy
+1P6wHk5wXM2jj9wEInBLji,Jon Reep,Ginger Beard Man,At the Movies,21,72115,True,0.576,0.888,4,-15.32,0,0.85,0.863,8.67e-06,0.778,0.0399,117.168,1,comedy
+7FiUrFCEAQ8DhOuLz0D5Es,Billy Connolly,An Audience With Billy Connolly,Folk Music,21,280400,False,0.514,0.912,0,-11.711,0,0.934,0.872,0.0,0.965,0.297,113.943,3,comedy
+3V4DRZt2c0N0V9ekhNsGj3,Louis Katz,If These Balls Could Talk,Chanukah,20,189480,True,0.551,0.862,4,-5.239,0,0.791,0.805,0.0,0.884,0.603,81.038,4,comedy
+0864olcfa8ybXZ2dLSkSLq,Adam Ferrara,Funny as Hell,Moth Balls and Disappointment,20,278640,True,0.515,0.821,8,-14.115,1,0.902,0.857,0.0,0.924,0.118,130.348,1,comedy
+3mL8aPO8rObjZGgEZapm0B,Craig Shoemaker,Daditude,Political Correctness,20,280493,True,0.633,0.942,9,-8.132,1,0.92,0.861,6.35e-06,0.878,0.126,84.144,5,comedy
+1M7BKJZ5mGDo9hoCwpCixi,Rhod Gilbert,"Just for Laughs - The Archives, Vol. 8",Shopping with a Girl (Jfl 2005),22,116282,False,0.554,0.777,4,-15.467,1,0.955,0.458,0.0,0.864,0.153,92.461,4,comedy
+5r4EqfjPh9xC8Nm98ZLSwk,Ari Shaffir,Passive Aggressive,Cars Passing You,21,87052,True,0.62,0.717,1,-10.788,1,0.747,0.887,0.0,0.747,0.873,114.973,4,comedy
+1Kcim82J1yrlE6hgXFTbfo,Matt McCarthy,Sober Dad,Pro Wrestling Fan Vs the Rules,21,111187,True,0.682,0.519,2,-9.513,1,0.933,0.893,1.96e-06,0.339,0.697,80.106,1,comedy
+3ylvFvzinMnNUYbFc5uQZL,Rachel Feinstein,Thug Tears,Broads in The '40s,23,65991,True,0.68,0.778,6,-6.257,1,0.567,0.843,0.0,0.587,0.823,124.028,4,comedy
+7gqpfvQh9X4wWG0CrBu9bW,Louie Anderson,Big Underwear,Growing up Broke,22,94431,False,0.508,0.912,6,-8.536,0,0.925,0.547,0.0,0.87,0.135,100.524,3,comedy
+2oNi4O3WWrHCotRoyc2Vd9,Jim Florentine,Terrorizing Telemarketers 7,Ok?,21,136027,False,0.702,0.467,11,-12.557,1,0.91,0.972,0.0,0.61,0.508,79.179,4,comedy
+3rRXB1oDHJWQgYIQRSEITl,Big Jay Oakerson,Live at Webster Hall,Dicks Pt II (Real Dad),20,239266,True,0.398,0.833,1,-13.308,0,0.948,0.91,0.0,0.719,0.201,82.474,4,comedy
+7IczW3b0Y26Dez2SCHdnU3,Tom Cotter,Wise Ass,Liquored Up,21,261800,False,0.625,0.917,1,-6.109,1,0.757,0.775,0.0,0.916,0.623,106.335,5,comedy
+7xan7fT5Y0Sqhv6ZtOgB3r,Darryl Lenox,Super Bloom,Single Now,21,338934,True,0.633,0.453,2,-10.159,1,0.922,0.885,0.0,0.737,0.7,93.604,4,comedy
+6KxbHBskjC5Kdc5MPYSsOQ,1 Trait Danger,1 Trait Bangers,BACK UP (He's the Man),21,204000,True,0.693,0.679,9,-5.452,1,0.43,0.0727,0.0,0.176,0.693,159.9,4,comedy
+1aUlki7keiQJBpKMmKvvQF,Lee Mack,"Just for Laughs: The Archives, Vol. 50",The Chicken (Jfl 2003),22,242342,False,0.495,0.724,8,-15.182,1,0.949,0.874,0.0,0.876,0.143,164.387,3,comedy
+6PeE8NPRChcOGkmPqpuTY9,Willie Barcena,Hey!they'rejust Jokes!,Potheads,21,147173,True,0.457,0.756,8,-17.516,1,0.908,0.837,2.52e-05,0.696,0.144,97.035,4,comedy
+24d3gKvounBHTs66S937u8,Jesse Joyce,Joyce To The World,The Marathon,21,63786,False,0.59,0.429,3,-16.403,0,0.925,0.814,0.0,0.696,0.783,81.491,1,comedy
+7vEF7OrChbeZg7ZAXwnAZT,Ryan Sickler,Above Ground Cool,Public Restroom Attendant,20,154788,False,0.491,0.887,9,-7.859,0,0.862,0.774,0.0,0.699,0.421,131.207,5,comedy
+4XWzQuoWQMgAnCcsGUC05v,Gary Gulman,The Great Depresh,School Football,20,179261,True,0.543,0.464,10,-13.817,1,0.949,0.882,0.0,0.68,0.478,61.759,4,comedy
+1vgybxNdBbmFyJE9fIh9bk,Mike Epps,Under Rated... Never Faded & X-Rated,Cougar Sex,22,147831,True,0.529,0.691,1,-14.703,1,0.904,0.878,0.0,0.852,0.0793,112.517,3,comedy
+2SBucbrs8ZLrEp3eU3LpLq,Tom Papa,Human Mule,Dating Businesses,20,280322,False,0.605,0.675,1,-14.38,1,0.956,0.729,0.0,0.682,0.287,102.774,3,comedy
+6NQh336aUZeqN8lFRhBT4d,Whitney Cummings,Money Shot,Fighting with Women / Just Don't,20,140120,True,0.65,0.85,7,-7.908,1,0.812,0.887,0.0,0.789,0.558,122.03,3,comedy
+3zdxcZaSWX6E9okiwH48SR,Martin Short,Fame Becomes Me (Original Broadway Cast Recording),All I Ask (Is You Love Me),21,101080,False,0.64,0.515,5,-4.496,1,0.115,0.519,0.0,0.87,0.615,107.239,4,comedy
+6O1ubxiy19gQv3GR4Vnwa9,Steve Martin;Steep Canyon Rangers;Paul McCartney,Rare Bird Alert,Best Love,22,261640,False,0.655,0.486,9,-10.748,1,0.0258,0.785,0.000255,0.0854,0.802,104.997,4,comedy
+3OOMdy6hHgG8XdjdJbAJn0,Jesse Joyce,Joyce To The World,The Squirley Coke Eyes,20,182106,False,0.478,0.633,10,-15.536,1,0.908,0.755,0.0,0.521,0.42,89.421,3,comedy
+1UeXfaYT5DmGeGLjQYNiUp,Robert Schimmel,Life Since Then,One Ball,20,203346,True,0.548,0.583,1,-18.097,1,0.937,0.881,0.0,0.402,0.215,129.294,3,comedy
+3yINFPH0xYyZTa1VgCNfZW,David Cross,"Oh, Come On",A Couples Colonic?!,21,288509,True,0.702,0.436,9,-17.752,0,0.948,0.282,0.0,0.649,0.347,60.078,4,comedy
+3gCow747SAy2dp4lyR1vzb,Michael McIntyre,"Just for Laughs: The Archives, Vol. 19",Parenthood Perks (Jfl 2007),21,279312,False,0.65,0.531,10,-19.06,1,0.943,0.747,0.0,0.754,0.375,91.122,3,comedy
+785qOkn2zPlbtUt5djGcK5,Anjelah Johnson,The Homecoming Show,Wwf,21,133248,False,0.58,0.73,11,-12.002,1,0.936,0.758,0.0,0.373,0.437,105.283,3,comedy
+1MRolQXHIxHJ2noH9GIf0K,Robert Schimmel,Life Since Then,Siegfried and Roy,20,206080,True,0.555,0.607,1,-17.166,1,0.946,0.894,0.0,0.462,0.279,128.665,5,comedy
+5UitqjYzoGwnCza0xqLJck,Rhod Gilbert,Rhod Gilbert and The Award-Winning Mince Pie,Knutsford Services,21,454574,False,0.456,0.881,10,-9.689,0,0.939,0.825,0.0,0.797,0.548,79.484,4,comedy
+4KEjTY4RIMTaDJ1I3B963I,Sean Lock,"Just for Laughs - The Archives, Vol. 73",One-Liners - Obesity Pill (Jfl 2001),21,264097,False,0.467,0.628,3,-22.085,1,0.925,0.835,0.0,0.975,0.0569,72.577,5,comedy
+7hHGW0WuRj5XmIxsujuKX7,David Crowe,Dry Bar Comedy Presents: White Bread,Pediatric Anesthesiologist,22,105672,False,0.457,0.678,10,-16.623,0,0.934,0.713,0.0,0.906,0.505,76.778,3,comedy
+2FBqDs03UEzqv5ISXjatiI,Rodney Carrington,Morning Wood,Carlos - Live,22,301426,True,0.464,0.522,0,-14.102,1,0.932,0.829,0.0,0.878,0.472,50.916,4,comedy
+0AsvpslV90aXT9gcNXaLos,Chingo Bling,The Menudo Mix,Menudo Menudo,23,192328,True,0.64,0.659,4,-5.623,0,0.195,0.323,0.0,0.8,0.802,180.059,4,comedy
+0SEcCfWsi5i5udvE1SObqW,Patton Oswalt,Finest Hour,The Horror of New York City,22,900066,True,0.607,0.93,1,-4.449,1,0.904,0.778,0.0,0.974,0.244,107.967,4,comedy
+5ulkH9yCHVSUWyHcH1ScwE,Kathleen Madigan,Bothering Jesus,Fit Bit / Ambien,22,172239,False,0.462,0.917,9,-6.561,1,0.574,0.734,0.0,0.79,0.367,106.44,4,comedy
+4nDXEFYiMTIr4cq3Ogoqud,Kevin Bloody Wilson,Klassic Kev,Me Beer's Cut Off,22,211600,True,0.715,0.727,2,-4.491,1,0.0582,0.447,0.0,0.0793,0.646,123.065,4,comedy
+4UfICLNQEvWRTAmGD2Rmoa,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Politics,21,314546,False,0.64,0.173,1,-26.105,1,0.94,0.822,0.0,0.972,0.408,105.574,4,comedy
+7J89TgtQBjK2KBNOvX770t,Kathleen Madigan,Bothering Jesus,Bacon / Skin Cancer,22,205347,False,0.492,0.847,6,-6.589,0,0.563,0.761,0.0,0.872,0.513,94.924,5,comedy
+0aU0VUn8IlKRENDou5t5M3,Kevin Hart;Nick Jonas,Kevin Hart: What Now? (The Mixtape Presents Chocolate Droppa) [Original Motion Picture Soundtrack],Sunday Morning,36,174779,False,0.659,0.555,11,-6.35,1,0.0541,0.28,0.0,0.0948,0.445,85.035,4,comedy
+6ME9lVyEthFJ0QaTgKr1R0,Darryl Lenox,Blind Ambition,Politics Don't Affect Me,21,103280,True,0.546,0.703,9,-10.143,1,0.948,0.789,0.0,0.891,0.199,87.692,4,comedy
+5oAwsapxW8kd3lJfIG7ZJ9,Louie Anderson,Big Underwear,Amazon Prime,21,140605,False,0.365,0.965,0,-10.515,0,0.904,0.714,0.0,0.902,0.0362,82.561,4,comedy
+1fGq6F7qIqaJilw2KdK8i3,Michael Colyar,Michael Colyar's Back,Old Joke Alert,21,141222,False,0.647,0.716,7,-9.447,1,0.956,0.762,0.0,0.923,0.509,83.419,3,comedy
+7J6iVTfjkuKb8gMCiz9kqz,Muck Sticky,Man in Pajamas,In Ya Neighborhood,21,196475,True,0.866,0.391,1,-4.847,1,0.119,0.0529,0.0,0.0469,0.524,67.463,4,comedy
+2ETcpbMUonBWf7W9gwttid,Michael Colyar,Before They Were Kings Vol. 2,Catholic & The Devil,21,111326,True,0.522,0.875,10,-11.813,0,0.869,0.876,0.0,0.678,0.509,96.044,3,comedy
+5N6l51sD0KZKwAWJEo8dg2,Pink Guy,Pink Season,Hentai,39,89173,True,0.717,0.333,5,-10.49,1,0.409,0.693,1.63e-05,0.606,0.287,70.304,3,comedy
+0xXVW9OsC9kM2Kyoz0BN7h,Ian Edwards,100% Half-Assed,Self-Defense,21,90261,True,0.562,0.595,11,-12.718,1,0.952,0.738,0.0,0.677,0.657,177.64,4,comedy
+3JSltrBE2Pe4lSDOtH5rwO,Ryan Stout,Touché,Logic,20,149506,True,0.526,0.837,1,-8.339,0,0.901,0.738,2.01e-06,0.676,0.363,102.971,3,comedy
+2g1rURb35m33hKPhwbSIh4,Jay Pharoah,Can I Be Me?,Oh Lord,21,160493,True,0.705,0.485,0,-10.997,1,0.903,0.815,0.0,0.892,0.545,110.157,3,comedy
+3sl9SBAFROVgEckjzYT68O,Ryan Sickler,Above Ground Cool,Uncle Ronny,20,80947,False,0.499,0.692,10,-9.879,1,0.881,0.822,0.0,0.535,0.442,136.758,5,comedy
+2SgUxBKd0BdwctY3Sv1GIN,Eddie Della Siepe,Little Jerk,Sleep on It,21,124827,True,0.727,0.489,1,-12.389,1,0.954,0.84,0.0,0.899,0.726,77.549,4,comedy
+1mQIWoPYCkGFoLpnBdhEFW,Nick Swardson,Taste It,Booze,22,300839,True,0.465,0.932,6,-7.231,1,0.912,0.673,0.0,0.777,0.115,87.449,4,comedy
+0ftfmwQJy0WlvGSHaY34ad,Ryan Belleville,Friday Late Show,Cute Hobbit or Alcoholic Goblin,20,92763,True,0.469,0.621,11,-16.412,1,0.903,0.962,0.0,0.485,0.619,70.725,4,comedy
+6crBvAhPLI9cfGJkSPb2Ns,Nick Swardson,Taste It,Night Clubs,21,235073,True,0.475,0.897,2,-6.91,1,0.921,0.701,0.0,0.909,0.125,81.269,4,comedy
+71eYQO0dLbtRp2kBa78d8i,Ian Edwards,"Live Nude Comedy, Vol. 1",Stranded With Herpes,20,290165,True,0.614,0.419,6,-23.62,0,0.942,0.681,0.0,0.898,0.253,61.306,4,comedy
+1MlmOUe89Q5YhuMRZgragu,Andy Griffith,American Originals (Remastered),The Fishin' Hole - Remastered 1993,44,116533,False,0.625,0.34,0,-10.678,1,0.0826,0.687,0.0,0.111,0.921,172.018,3,comedy
+6szKjGpihN9wxoIDuVz4Lr,Jeff Allen,Three Word Vocabulary,Teaching Teen to Drive,21,105800,False,0.562,0.829,1,-16.165,1,0.948,0.775,0.0,0.947,0.21,76.379,1,comedy
+2sk9UAdAMp6jYy5EpR1DXt,Matt Braunger,Big Dumb Animal,Mall Therapist,20,160826,False,0.69,0.678,4,-10.954,1,0.934,0.816,0.0,0.772,0.585,110.268,5,comedy
+6ByssxJElULfZc1ukJY96I,Artie Lange,The Stench of Failure,Mental Institution Scrabble,21,233501,True,0.5,0.921,8,-4.749,1,0.927,0.701,0.0,0.96,0.589,60.03,5,comedy
+3NhNQTl7zBjhGd3ZNnXQak,Ben Bailey,Road Rage...and Accidental Ornithology,Something to Fall Back On,21,159204,False,0.499,0.806,1,-18.221,1,0.921,0.689,0.0,0.533,0.0657,104.027,4,comedy
+5syD7i4x8dN14yh3W7ppwf,"Joey ""CoCo"" Diaz",Sociably Unacceptable,The Bidet,21,133846,True,0.654,0.657,11,-11.954,0,0.936,0.802,0.0,0.818,0.854,83.88,4,comedy
+2BHJdQhHxZOWkNL8fioabA,Pablo Francisco,Knee To The Groin,Aaron Neville / R&B Music,20,193066,False,0.536,0.572,6,-17.518,1,0.909,0.786,0.0,0.734,0.426,95.042,4,comedy
+04lJ1iYv4oChx7JTnGl2e5,D.L. Hughley,Notes from the G.E.D. Section,Online Dating,20,565720,True,0.511,0.858,10,-10.218,0,0.919,0.767,0.0,0.875,0.236,111.387,3,comedy
+1HdSFxhvOqxGy70hWDxuCs,Andy Parsons,Live & Unleashed But Naturally Cautious,You're One in 4 Billion,21,106186,False,0.445,0.658,2,-17.232,1,0.939,0.818,0.0,0.641,0.42,173.925,4,comedy
+5e6MFr9RfALZ0YUqT28bko,Jeff Allen,Three Word Vocabulary,Roaster Chicken (Redux),21,330746,False,0.487,0.707,5,-16.705,1,0.944,0.715,0.0,0.92,0.269,86.618,3,comedy
+6He7HGAK721bVRUv3l6hwc,"""Weird Al"" Yankovic",Polka Party,Good Enough for Now,22,183333,False,0.661,0.412,3,-13.015,1,0.0291,0.0475,0.0,0.209,0.855,130.758,4,comedy
+2vm9EfQ9FswsmY56YLASr8,Caroline Rhea,What Is It You Can't Face?,Bad Luck At Zoos,20,222733,False,0.548,0.753,8,-12.251,1,0.909,0.772,0.0,0.771,0.562,73.241,3,comedy
+5xxv6lrGkr1UK672ihOx3O,Ralphie May,Just Correct,Kobe,21,306686,True,0.522,0.668,10,-17.228,0,0.883,0.816,0.0,0.965,0.385,117.786,3,comedy
+04yn2aWfZ1FOYC6J4LE1tY,Ralphie May,Just Correct,Tough Day to Be Black,21,218412,True,0.53,0.742,5,-14.897,0,0.915,0.893,0.0,0.89,0.491,108.281,4,comedy
+4sKqId5IFr8A4CjmdtG01f,Rodney Carrington,Morning Wood,More Of A Man,21,160026,True,0.564,0.437,4,-14.237,1,0.161,0.616,0.0,0.337,0.747,175.27,4,comedy
+6RQmlzig8pqorrfvEmGBXe,The Lancashire Hotpots,A Hard Days Pint,The Perfect Pint,22,106066,False,0.623,0.598,6,-9.846,0,0.348,0.452,0.0,0.21,0.961,116.458,5,comedy
+4aWVEdNeNzQPReQdDWS84m,Andy Hendrickson,Dry Bar Comedy Presents: Left Field,Half Marathon,21,143208,False,0.503,0.725,6,-15.996,1,0.929,0.666,0.0,0.951,0.419,126.326,5,comedy
+6d4HsdKXATyNhwTENFFZeP,Joe Zimmerman,Smiling at Wolves,Andrew Jackson,20,301533,False,0.442,0.73,9,-10.668,1,0.949,0.87,0.0,0.759,0.375,81.927,4,comedy
+56KrcJePC8P582pi0P2agY,Gary Gulman,The Great Depresh,In Defense of Millenials,20,245876,True,0.506,0.767,2,-13.045,1,0.929,0.828,0.0,0.403,0.306,100.238,3,comedy
+5RcuQ6S2thR4oTsgHC4tIO,"""Weird Al"" Yankovic","""Weird Al"" Yankovic",Such a Groovy Guy,22,182733,False,0.539,0.656,7,-10.554,1,0.06,0.281,0.0,0.0499,0.844,145.431,4,comedy
+1677NUQ4igHznpg7NKJVJx,Ben Bailey,Road Rage...and Accidental Ornithology,The Hudson River Challenge,21,403833,False,0.35,0.895,2,-18.451,1,0.902,0.688,0.0,0.788,0.0369,69.674,3,comedy
+0qpZUUYDG7ktccm9CaskmB,Christopher Titus,Voice in My Head,The Tako Incident,21,542066,True,0.536,0.937,9,-6.439,1,0.898,0.883,0.0,0.876,0.285,106.063,3,comedy
+10vgYfu6HbEcD01laHbksB,Steve Martin;Steep Canyon Rangers,Rare Bird Alert,"Go Away, Stop, Turn Around, Come Back",21,215573,False,0.522,0.601,9,-8.812,1,0.0278,0.667,0.00301,0.147,0.674,107.244,4,comedy
+6AtOR7fFVKLBWb8fnkYPLO,Louie Anderson,The Louie Anderson Comedy Special,The Pot Luck and Lime Green Jell-O,21,95243,False,0.447,0.974,10,-10.917,0,0.928,0.698,0.0,0.957,0.123,70.37,1,comedy
+3VMzMfceN5pb0pFBA3EQ5a,George Lopez,"It's Not Me, It's You",Latino Vote,20,119453,True,0.433,0.959,9,-4.894,0,0.853,0.922,8.38e-06,0.95,0.0932,98.791,4,comedy
+4ACq9LqQ0cyovzz5nKTDyT,Jeff Foxworthy,Live,Sneaking Back Home - Live,21,80000,False,0.588,0.562,4,-14.119,1,0.916,0.861,0.0,0.791,0.64,141.387,5,comedy
+1u8T5EVNoIP7bxcn4ZMlsm,"""Weird Al"" Yankovic","The Essential ""Weird Al"" Yankovic",The Biggest Ball of Twine In Minnesota,22,407480,False,0.724,0.658,8,-9.211,1,0.0353,0.589,0.0,0.121,0.739,100.421,4,comedy
+6Gv0rtHRVINGNWAR13tr1x,Stephen Lynch;Rita Gardner,The Wedding Singer (Original Broadway Cast Recording),Someday (Reprise),21,58640,False,0.284,0.293,4,-10.157,1,0.0378,0.796,4.16e-05,0.11,0.228,59.488,4,comedy
+2PUWO11iqrgisht7dgTbvE,George Lopez,Team Leader,The Bike,20,321093,True,0.505,0.61,9,-15.638,0,0.91,0.876,0.0,0.752,0.345,123.735,3,comedy
+3mzKvD4QkaVJc6AWRUMX9r,Kathleen Madigan,Gone Madigan,Vegas Ladies,21,121221,True,0.653,0.817,9,-5.535,1,0.893,0.86,0.0,0.343,0.511,135.459,5,comedy
+1NshHftLkdJcrMnCNqQf3U,Hva Snakker Du Om?;Anders Matthesen;Bossy Bo,Den Ka' Byttes V:O:L:01:00,Matros I Skumsprøjt Med Stormvejr og Stiv Kuling I Ramsaltet Rum Sø,23,35293,False,0.698,0.438,2,-11.355,1,0.705,0.698,0.0,0.444,0.691,139.707,3,comedy
+1rzsJZGhqKvGEbS5SnOZoc,Kathleen Madigan,Bothering Jesus,Sarah Mclachlan / Sad Animals,21,195210,False,0.522,0.82,4,-6.788,1,0.451,0.776,0.0,0.955,0.484,87.523,4,comedy
+1JGFhhbcEDikq0xxuAI0Mk,Kathleen Madigan,Bothering Jesus,Drinking & Ireland,21,280366,True,0.472,0.855,0,-7.011,1,0.709,0.787,0.0,0.931,0.381,123.001,3,comedy
+3nFwh8bSIFzeVOnKZKzacA,George Lopez,Team Leader,Kids In the Store,21,260838,True,0.435,0.726,10,-14.431,1,0.937,0.847,0.0,0.885,0.362,85.097,5,comedy
+2zdOCexrUQTi2kEmTwOJfJ,Greg Proops,Back In the UK,Hello Edinburgh,20,150706,False,0.426,0.947,6,-8.032,1,0.929,0.889,0.0,0.977,0.184,91.547,4,comedy
+6PYN9otuq4YmBiOwPcDlj3,Dirt Nasty,Dirt Nasty,Baby Dick,21,168480,True,0.883,0.489,4,-9.091,0,0.285,0.0298,0.0,0.104,0.696,83.046,4,comedy
+5ZL95ssvOkcmVkGNq4mv7f,Tom Papa,"Calm, Cool, and Collected",Big Head,20,72666,False,0.442,0.917,8,-9.436,1,0.805,0.837,0.0,0.834,0.415,84.049,1,comedy
+0Bd1WeTf27JqYQLQJPWKRo,Tom Papa,"Calm, Cool, and Collected",Uncle Tom,20,76493,False,0.479,0.797,5,-9.38,0,0.853,0.801,0.0,0.844,0.819,94.891,1,comedy
+5esfS6eu84WbO7Z4GcLFdY,Tom Papa,"Calm, Cool, and Collected",Astronaut,20,60906,False,0.579,0.886,8,-9.736,1,0.888,0.797,0.0,0.837,0.731,66.578,3,comedy
+76V9jo8XYP4McIr0PCML6c,Simon King,Unfamous,Llama Fisting,20,317880,True,0.577,0.872,1,-7.457,0,0.785,0.798,0.0,0.706,0.64,78.714,3,comedy
+5caHGZRYDiOASME1qukFDt,Jeff Allen,Three Word Vocabulary,Had a Dog,21,43706,False,0.526,0.817,2,-18.447,1,0.932,0.702,0.0,0.904,0.0841,84.584,1,comedy
+7tI21meuJ1NU549rekoRuX,Ryan Stout,Man in the Suit,Bad for the Group,20,114800,True,0.656,0.82,1,-6.951,1,0.905,0.826,0.0,0.806,0.704,112.327,4,comedy
+6ij2idDKbTMC0hUJT7qU5u,Iliza Shlesinger,War Paint,Women's Restroom,21,188099,True,0.684,0.891,10,-5.935,0,0.917,0.873,0.0,0.918,0.44,119.931,4,comedy
+2uWyEO8LtDYu7fNGKO07Jd,Lil Rel Howery,Relevent,Brittni and Judah,21,113221,True,0.4,0.628,3,-13.767,1,0.845,0.773,0.0,0.784,0.315,84.43,3,comedy
+7j8yMVtXozPUK0xoW11WR4,Tom Papa,"Calm, Cool, and Collected",Pet People,20,53373,False,0.546,0.827,9,-8.777,1,0.535,0.699,0.0,0.786,0.844,114.137,4,comedy
+3JSltrBE2Pe4lSDOtH5rwO,Ryan Stout,Touché,Logic,20,149506,True,0.526,0.837,1,-8.339,0,0.901,0.738,2.01e-06,0.676,0.363,102.971,3,comedy
+2bo1Hy0M5AMeANIam8TJXX,Tom Papa,Human Mule,Cat Death,20,119437,False,0.674,0.674,6,-14.017,0,0.959,0.779,0.0,0.707,0.498,106.507,4,comedy
+6DPl2JQGyXlACUgi90WHfV,Marc Maron,Thinky Pain,Born a Jew,20,178494,True,0.623,0.688,11,-10.743,0,0.943,0.925,0.0,0.889,0.533,69.634,3,comedy
+31tdRMv6CUOPHJdl9wsdwF,Dara O Briain;Frankie Boyle;Hugh Dennis;Russell Howard;Ed Byrne,"Mock The Week - Too Hot For TV, Vol. 1",When Thatcher Met Brown,22,87000,True,0.576,0.644,11,-19.067,1,0.943,0.742,0.0,0.983,0.63,99.279,5,comedy
+3tshTnnudBH7kGW3QMhFuI,"Joey ""CoCo"" Diaz",Sociably Unacceptable,Eat Your Yokes,21,138164,True,0.66,0.707,1,-10.819,0,0.928,0.839,0.0,0.819,0.692,78.296,4,comedy
+2zbi5o7wToead6pROQrqLU,Todd Glass,Thin Pig,Relationships,21,230066,True,0.552,0.739,6,-6.162,1,0.861,0.833,0.0,0.965,0.764,127.124,3,comedy
+0bgrcJZw4Ht5uI20zbQhkF,Felicia Michaels,Chew On This!,Public Service Announcements,22,100800,True,0.59,0.708,11,-15.614,0,0.911,0.857,0.0,0.828,0.523,126.453,5,comedy
+0KTja597ZMQUsQuUljoCX4,Pink Guy,Pink Season,Meme Machine,40,130720,True,0.882,0.384,6,-8.102,0,0.386,0.173,0.0,0.0747,0.437,76.805,4,comedy
+1Zo0CcJoJiBxwJdUIBVPU1,Gary Gulman,Boyish Man,7+11=18,20,76394,True,0.637,0.391,7,-20.546,1,0.924,0.754,0.0,0.95,0.409,125.604,1,comedy
+5Xz5Xdf218zpu61cZOwk6l,The Sklar Brothers,What Are We Talking About,Pitbull / Pepsi,20,144786,True,0.5,0.588,2,-12.438,1,0.869,0.775,0.0,0.847,0.622,57.511,3,comedy
+2K5mjkGyRISiYmZQPx7NoV,Arnez J,Racially Motivated,Africa,21,411453,True,0.564,0.925,9,-6.171,1,0.917,0.924,0.0,0.869,0.514,129.975,4,comedy
+00qgt8jorpSKSgNIesSXk1,Jessi Campbell,Dry Bar Comedy Presents: Sharpest Knife on the Porch,Arizona,21,83050,False,0.523,0.693,10,-14.302,0,0.843,0.846,0.0,0.662,0.417,90.896,1,comedy
+49fecVFD7InKQVPDTAHGxK,Pink Guy,Pink Season,Please Stop Calling Me Gay,39,139800,True,0.794,0.432,5,-10.192,1,0.166,0.136,0.000165,0.111,0.336,86.292,4,comedy
+6nmBtE55qfdReD4tq5rJxG,Chris Robinson,"Gut Bussa, Vol. 1",Group Sex,21,183791,True,0.633,0.453,5,-13.666,0,0.941,0.671,0.0,0.925,0.67,76.834,3,comedy
+4TFYvTpA7QLnCcMlugJj6W,Wyatt Cenac,Furry Dumb Fighter,Ladies and Germs,20,488605,True,0.524,0.532,10,-13.171,0,0.948,0.884,0.0,0.765,0.51,55.704,3,comedy
+2kHorvmyeydZBaWZEX8ZKt,Gary Gulman,No Can Defend,Undone by a Semicolon,21,270986,True,0.572,0.92,9,-4.729,0,0.949,0.875,0.0,0.874,0.411,67.376,3,comedy
+7JAgqDDJQfTS047uzAO0zH,Al Madrigal,Why is the Rabbit Crying?,Wireless Network,20,270786,True,0.542,0.886,0,-5.608,1,0.89,0.72,0.0,0.729,0.386,125.23,3,comedy
+2sLiV6IErgMwq3joqn8mC6,Nick Swardson,Taste It,Jogging,21,207384,True,0.412,0.845,2,-7.954,1,0.931,0.711,0.0,0.735,0.0893,79.706,5,comedy
+2kPwiMeUaYrE81sVaVCaz6,Matt Braunger,Big Dumb Animal,The Two Things to Hate About Los Angeles,20,207708,False,0.582,0.666,6,-10.433,0,0.935,0.789,0.0,0.63,0.504,77.767,4,comedy
+3BAJ6FfDVenmBz2m1ETZW9,Larry The Cable Guy,Remain Seated,Restaurant Rules,21,250095,False,0.533,0.823,6,-12.244,1,0.957,0.757,0.0,0.981,0.206,88.202,3,comedy
+0r9MErk4H2jWGVt6ccd7Q0,Christopher Titus,Angry Pursuit of Happiness,How Life Goes,21,1101318,True,0.658,0.807,4,-8.592,0,0.942,0.925,0.0,0.724,0.289,108.446,4,comedy
+4sKqId5IFr8A4CjmdtG01f,Rodney Carrington,Morning Wood,More Of A Man,21,160026,True,0.564,0.437,4,-14.237,1,0.161,0.616,0.0,0.337,0.747,175.27,4,comedy
+56KrcJePC8P582pi0P2agY,Gary Gulman,The Great Depresh,In Defense of Millenials,20,245876,True,0.506,0.767,2,-13.045,1,0.929,0.828,0.0,0.403,0.306,100.238,3,comedy
+3LFwiqPX0xHm1cFLIdO4xH,Max Boyce,Live At Treorchy,Hymns and Arias - Live at Treorchy,21,588666,False,0.465,0.368,3,-15.146,1,0.452,0.817,0.0,0.906,0.443,104.776,3,comedy
+2TEmWrcxSUFUf1nGYOZlCT,Christopher Titus,Voice in My Head,The Viper Incident,21,493720,True,0.571,0.9,4,-7.041,1,0.898,0.879,0.0,0.781,0.264,112.457,4,comedy
+26bSeyorkDn1B0TrztLs6C,Christopher Titus,Angry Pursuit of Happiness,The Ed Incident,21,643079,True,0.551,0.869,5,-7.627,1,0.946,0.929,0.0,0.636,0.313,76.716,3,comedy
+6a5zu4yJD2zSy0D77lgiPE,Comedian Bob Marley,Comedian Bob Marley Live,You got yoru shoes on?,20,46253,False,0.643,0.564,6,-14.505,1,0.925,0.884,0.0,0.926,0.425,110.534,4,comedy
+4MjpsYY785OdQyrNOZup4n,Ralphie May,Just Correct,Dumb Kennedy's,20,326120,True,0.494,0.591,10,-15.341,0,0.934,0.836,0.0,0.845,0.533,81.898,3,comedy
+4YxSYK8P36PdkE6S3RIt7D,Christopher Titus,Norman Rockwell is Bleeding,"Wait, Wait, Wait",21,233093,True,0.561,0.775,0,-13.602,1,0.948,0.751,0.0,0.506,0.185,92.571,4,comedy
+0QBvsqEx0n3gTOGElzuMMZ,Wyatt Cenac,Comedy Person,Dogs Are Racist?,20,633432,True,0.495,0.896,10,-6.553,1,0.952,0.853,0.0,0.857,0.291,73.625,3,comedy
+3KHfTFnMEFoESIqd0AKeUW,Christopher Titus,Norman Rockwell is Bleeding,Last Husband,21,370333,True,0.586,0.706,1,-15.764,1,0.934,0.72,0.0,0.687,0.153,72.555,4,comedy
+1KqKCZ3IjWZoVxrIv308GI,Gary Gulman,The Great Depresh,The 1980's Kidnapping Hoax,20,196232,True,0.462,0.735,5,-13.287,0,0.941,0.877,0.0,0.664,0.444,81.357,5,comedy
+02lerMYG43kTnknsQLgxYK,Jeff Foxworthy,Live,Rocket Launcher Body Sounds - Live,20,87000,False,0.612,0.652,3,-12.111,1,0.874,0.91,0.0,0.971,0.725,108.141,4,comedy
+4sCvka8sF2BOw6cViFanCW,"""Weird Al"" Yankovic","The Essential ""Weird Al"" Yankovic",Since You've Been Gone,21,83026,False,0.723,0.393,9,-8.303,1,0.102,0.542,0.0,0.321,0.92,132.218,3,comedy
+5FBvGDfcEshfwMMTwR1kgm,Richard Pryor;Lena Horne,The Wiz,The Good Witch Glinda,21,69000,False,0.195,0.143,10,-17.805,1,0.0346,0.947,0.00228,0.348,0.0739,83.077,3,comedy
+6ohXK9Y4ioab0VjQp20rYa,Ron White,Truckstop Comedy,Bronco Rider,21,154320,True,0.531,0.523,5,-15.556,0,0.918,0.88,0.0,0.928,0.283,89.895,1,comedy
+1ubylzLAZjC3t8hU0Lbimz,Kevin Bloody Wilson,Rides Again,Nigel's Miracle,22,303880,True,0.358,0.793,0,-6.823,1,0.187,0.657,0.0,0.214,0.751,190.015,4,comedy
+3KYogzeDbY8voZ7YAZRzRj,Kathleen Madigan,Shallow Happy Thoughts For The Soul,Catholicism,21,225520,False,0.565,0.201,1,-24.776,1,0.94,0.828,0.0,0.949,0.351,95.408,4,comedy
+2wjxYAHhmAq0xWDCEYvH8K,Rodney Carrington,King Of The Mountains,Baby Back - Live At The Majestic Theater/2007,21,150836,True,0.553,0.589,11,-5.723,0,0.152,0.849,0.0,0.958,0.788,143.77,4,comedy
+2w1VJByYiIeY6sTDz4xt7e,Dwayne Perkins,She Ate My Haircut,Only in America,20,62960,False,0.591,0.765,3,-7.187,1,0.898,0.862,0.0,0.818,0.53,113.681,5,comedy
+0yljdi1Eq8E0eheIAR5Eej,Josh Wagner,Orange Juice,Nashville Native,21,93146,True,0.546,0.577,5,-10.962,1,0.933,0.82,0.0,0.763,0.587,82.576,3,comedy
+5ORvT0TyfPLuwErroZwP8x,Eddie Della Siepe,Little Jerk,Nice Mix,20,138202,True,0.673,0.62,6,-10.012,1,0.952,0.839,0.0,0.675,0.61,79.058,3,comedy
+72Ea4bheESN61SzBqwLAAS,T. Bubba Bechtol,I'm Confused,Bubba Shops at Wal-Mart,20,109760,False,0.481,0.911,6,-10.838,1,0.775,0.782,0.0,0.841,0.0936,117.748,4,comedy
+6hOozkc5SaHQjXc2dA853j,Micky Flanagan,Back In the Game,Doctors,21,501508,True,0.514,0.841,8,-15.961,1,0.903,0.823,0.0,0.915,0.162,111.276,3,comedy
+4v0Efv3YsPWkzcjmjRogDP,Dwayne Perkins,Dry Bar Comedy Presents: Please Believe It,Good Drivers,19,116208,False,0.585,0.6,6,-17.957,1,0.922,0.831,0.0,0.752,0.445,80.933,3,comedy
+6qRg9P6r9Ed6GyIfEu1JaZ,Jim Florentine;Don Jamieson,Terrorizing Telemarketers 7,Shhh!,20,232494,False,0.69,0.766,1,-10.567,0,0.949,0.983,0.0,0.383,0.426,128.693,3,comedy
+5KpxlX2rvU8KbfPRdry8Cx,Muck Sticky,Fuck Off,Fuck Off,21,109230,True,0.885,0.571,0,-6.717,1,0.0796,0.0698,0.00016,0.0458,0.963,147.966,4,comedy
+2xU5GpL58CD8rNXzqUvyNf,Darryl Lenox,I'm Darryl Lenox,Race,20,211113,False,0.48,0.757,6,-9.287,1,0.875,0.923,0.0,0.927,0.796,76.294,3,comedy
+28OXkg6WmSeWnUHEqIZtD3,Rhod Gilbert,Rhod Gilbert and The Award-Winning Mince Pie,Escape to Afghanistan,21,540030,False,0.51,0.828,1,-9.211,1,0.923,0.801,0.0,0.868,0.57,81.499,4,comedy
+4Orpk1jAgBs0Mo7h43ibJl,Kenn Kington,I Am Dad,Me We She We,21,82348,False,0.586,0.31,9,-21.647,1,0.93,0.942,0.0,0.686,0.258,99.566,5,comedy
+0STvuEX67eua45XDED2dl5,Jessi Campbell,Dry Bar Comedy Presents: Sharpest Knife on the Porch,Childhood,21,118233,False,0.487,0.655,10,-15.495,0,0.913,0.81,0.0,0.761,0.387,95.697,3,comedy
+1pmce0kSvSnISgZsh48eTd,Eddie Della Siepe,Little Jerk,Uber Ambulance (Bonus Track),21,71328,True,0.728,0.398,5,-12.63,1,0.936,0.912,0.0,0.519,0.623,117.619,4,comedy
+5oIA5ABEthClfbrtlyGjUU,Jeff Allen,Three Word Vocabulary,First Valentine's Day,21,146240,False,0.432,0.655,6,-19.209,1,0.942,0.664,0.0,0.965,0.08,83.225,3,comedy
+0a8emqovSZq5jselKj6pgB,Dennis Miller,America 180˚,Radical Islam,20,191386,True,0.609,0.854,4,-6.274,1,0.917,0.841,0.0,0.802,0.303,133.186,3,comedy
+3C3remg1f6Jr09THh1dG7V,Aaron Karo,The Rest Is History,We Can't Kill Married People,20,135168,True,0.489,0.748,7,-15.356,0,0.922,0.913,0.0,0.933,0.352,76.382,3,comedy
+0FgfZWzqooBmAZOOUbU06Z,Rhod Gilbert,Rhod Gilbert and The Award-Winning Mince Pie,The Breakdown,21,420196,False,0.463,0.875,10,-10.206,0,0.945,0.849,0.0,0.689,0.396,81.957,4,comedy
+2etR7MJ2yqrEZSQl997yWi,Ryan Sickler,Above Ground Cool,Can You Character Sketch?,20,127594,False,0.494,0.901,5,-7.119,1,0.902,0.805,0.0,0.736,0.454,58.68,4,comedy
+4NCdJLed3VyG7C0lu5H9V1,David Spade,My Fake Problems,Drinking and Driving,20,343243,True,0.563,0.89,6,-6.652,1,0.923,0.791,0.0,0.831,0.309,77.896,5,comedy
+4MxdCJcX5MdCOcJWZyxLWu,The Jerky Boys,The Jerky Boys,Boonie's Basement Tub,21,190146,True,0.623,0.413,6,-12.112,1,0.942,0.985,0.0,0.47,0.696,74.776,3,comedy
+5khrUArfIle7vjuSPqEfWQ,Moshe Kasher,"Everyone You Know is Going to Die, and Then You Are!",Everyone You Know is Going To Die,20,45139,True,0.677,0.643,3,-10.145,0,0.803,0.726,1.95e-06,0.934,0.777,62.455,4,comedy
+26nSS5wZuAxOGYWf83lJeM,Jeff Allen,Lock The Door,3-Legged Dog,21,295173,False,0.495,0.916,6,-7.954,1,0.911,0.841,0.0,0.938,0.139,118.676,3,comedy
+5VhlWYzadTCVi5HFH99Kl5,David Spade,My Fake Problems,Tiger,20,238459,True,0.45,0.906,4,-7.181,1,0.947,0.835,0.0,0.855,0.262,82.437,4,comedy
+3ujWh42s95AIqhM6GXoVjn,David Cross,"Oh, Come On",And Speaking of Taking a Rape Shower…,21,425187,True,0.562,0.615,10,-14.702,1,0.946,0.448,0.0,0.815,0.551,60.722,5,comedy
+26dmjjlxpOTAcLcT144uiN,Jesse Popp,Don't Even Worry About It,What's Your Secret?,20,180754,False,0.503,0.621,4,-11.525,1,0.941,0.871,0.0,0.796,0.555,84.707,4,comedy
+3Cg9XMOBspYgvwlqhQSqdB,Hva Snakker Du Om?;Anders Matthesen;Bossy Bo,Den Ka' Byttes V:O:L:01:00,Taxa,22,117506,False,0.592,0.77,5,-9.682,0,0.95,0.434,0.0,0.363,0.368,91.179,3,comedy
+261olfill3dM6Mq17S1kPM,Tig Notaro,Boyish Girl Interrupted,Where's Tig?,21,52800,False,0.391,0.772,4,-9.442,1,0.935,0.842,6.98e-06,0.93,0.492,172.228,3,comedy
+7numTQ1FPfAMZec2fLsbuE,The Jerky Boys,The Jerky Boys,Frank's Leg Braces,21,207987,True,0.689,0.237,4,-13.088,0,0.96,0.973,0.0,0.174,0.595,67.802,3,comedy
+3EHKgLveCS2sUD6WGZJmaY,Jon Reep,Ginger Beard Man,Public Privacy,19,107275,True,0.494,0.835,11,-13.21,0,0.933,0.867,0.0,0.783,0.106,85.6,4,comedy
+5YgvSFOxDokWxhSYFzOdsF,"Joey ""CoCo"" Diaz",Sociably Unacceptable,The Bubble Guy,21,276335,True,0.671,0.712,2,-11.608,1,0.94,0.816,0.0,0.759,0.7,63.001,3,comedy
+0DbbG7pekmZVIMsvYsUxv9,Bruce Bruce,Losin' It,Stupid Stuff,20,232866,True,0.396,0.618,6,-22.402,0,0.869,0.865,1.08e-06,0.749,0.0785,83.008,5,comedy
+6lj42oTGDEXKgRBZeY5PSJ,Bruce Bruce,Losin' It,Opening,21,53286,True,0.389,0.595,9,-15.284,0,0.673,0.76,2.92e-06,0.669,0.479,96.998,4,comedy
+3WsNC8yBvEQtvSUsRwALNk,Jessi Campbell,Dry Bar Comedy Presents: Sharpest Knife on the Porch,Grandma,21,99116,False,0.523,0.608,10,-13.92,0,0.499,0.837,0.0,0.727,0.465,87.143,4,comedy
+7h1M1ps2wabHYP0Zorahny,David Cross,"Oh, Come On",One Can Only Dream,21,342082,True,0.597,0.468,10,-17.324,1,0.934,0.433,0.0,0.371,0.627,86.006,4,comedy
+3VwqOoZ8iCQkLij5RhnPE0,Brad Williams,Fun Size,Ladies Give a Man a Pep Talk Before Sex,21,148565,True,0.692,0.445,11,-20.027,0,0.952,0.772,0.0,0.901,0.58,69.585,4,comedy
+526mDk6dMvJqgtMpsEy8PP,Tim Minchin,Ready For This ?,White Wine In The Sun,24,432218,False,0.402,0.248,5,-14.311,1,0.0326,0.886,0.0,0.685,0.188,80.065,1,comedy
+788z3begie1NffhM8RWWiI,David Cross,"Oh, Come On",My Very Extra Special Trump Fantasy,21,602225,True,0.625,0.531,10,-15.791,1,0.921,0.349,0.0,0.928,0.493,104.856,5,comedy
+5S7n2N2GmTCx7Arc4GvSAY,Brian Regan,Live from Radio City Music Hall,Presidential Stuff,20,50920,False,0.637,0.853,2,-7.628,1,0.929,0.93,0.0,0.872,0.119,133.537,4,comedy
+1mRhFPwyTuXcpZmyWVy0PN,David Cross,"Oh, Come On","But Not Really (Couples Colonic, Pt. 3)",21,260339,True,0.639,0.496,11,-17.006,1,0.898,0.471,0.0,0.725,0.391,109.44,3,comedy
+6BctgCJXlgxYeR0ObhLdtR,Joe DeRosa,You Let Me Down,Please Stop Communicating,21,496201,False,0.627,0.815,6,-6.959,0,0.911,0.785,0.0,0.744,0.532,119.197,5,comedy
+7CxuiGipV5xedFwO2CUq3T,Chris Hardwick,Mandroid,Nerds Make the World Go 'Round,21,254613,True,0.602,0.973,1,-3.804,1,0.815,0.655,0.0,0.932,0.317,110.803,3,comedy
+1DmEMhOTK07lcpH8anTHLH,Kevin Bloody Wilson,35 Years of Kevin Bloody Wilson,Dictaphone,21,297133,True,0.752,0.72,2,-7.989,1,0.141,0.236,5.45e-05,0.121,0.821,120.236,4,comedy
+6aBmqM3NKXbkNSHSOaLC7W,Kyle Kinane,Death of the Party,Bonus: at Budokan,20,323093,True,0.587,0.576,7,-7.497,0,0.944,0.846,0.0,0.227,0.621,64.938,4,comedy
+2lvH14fphRheWGdmxMq6XP,George Lopez,"It's Not Me, It's You",White House Visit,20,521185,True,0.413,0.981,0,-6.18,1,0.833,0.852,2.1e-05,0.349,0.0377,113.893,5,comedy
+5xo01RlIlMgQMMI19rY8Xb,Jason Allen,Known Alias,Destination Wedding / Ghost / Teaming Up With A Prostitute,20,146374,False,0.648,0.411,1,-15.597,1,0.925,0.808,0.0,0.697,0.746,139.042,4,comedy
+4wWtnRpttsyMaJBVV9ZsR7,Kathleen Madigan,Bothering Jesus,Last Call from Jail,21,194510,False,0.469,0.912,6,-7.161,0,0.733,0.779,0.0,0.86,0.309,135.928,3,comedy
+1iqJe68c0aRt6yCOg857rE,Kathleen Madigan,Gone Madigan,"Gay Marriage, Polygamy, 40's",21,213079,True,0.668,0.775,2,-5.386,1,0.807,0.847,0.0,0.744,0.492,84.915,1,comedy
+6NFrCfIlqqkMMEHTfaeUEk,Kathleen Madigan,Gone Madigan,"Web MD, Uso Tour",21,343476,True,0.632,0.828,6,-5.469,0,0.896,0.841,0.0,0.925,0.514,135.96,4,comedy
+4ysOuRIGNFsItKyg37PCdl,Kevin Bloody Wilson,My Australian Roots,Double Decker Dog,21,266026,True,0.694,0.409,0,-11.648,1,0.0717,0.507,0.0,0.0774,0.617,136.241,4,comedy
+1Q2iqvYBMLsGyDngEy2C8h,George Lopez,Right Now Right Now,Chicano Dudes,20,140800,True,0.46,0.871,3,-12.789,1,0.938,0.743,0.0,0.917,0.27,112.527,4,comedy
+6OmCdNCWR6HoUfe5uQAhhj,Jon Lajoie,The League (Original Soundtrack),Eskimo Brothers,27,169315,False,0.785,0.567,7,-5.054,1,0.0921,0.0209,1.42e-06,0.09,0.552,80.04,4,comedy
+2eUOoOf6q0e9FIK01SJMjT,Lil Dicky;T-Pain,Professional Rapper,Personality (feat. T Pain),47,258836,True,0.768,0.709,5,-4.87,0,0.196,0.227,0.0,0.504,0.824,95.972,4,comedy
+4haeX703rBH7O5aL1G6iEp,Tom Papa,"Calm, Cool, and Collected",Why Kids,19,114240,False,0.469,0.86,9,-9.292,1,0.855,0.825,0.0,0.767,0.528,129.325,4,comedy
+6tnl3kdvVZzR7RIw4K2WD3,Michael Loftus,You've Changed,Clean out Your Room,20,230813,True,0.592,0.662,0,-15.396,1,0.919,0.804,0.0,0.947,0.277,109.298,3,comedy
+5oB1UnrgyBPQLtkVWsDwI7,Clinton Jackson,Do You See the Ducks Now,The Make-up Girl,19,105626,False,0.449,0.977,1,-6.057,1,0.719,0.791,0.0,0.427,0.177,119.938,1,comedy
+4dEHoYm7PdImCzNNSXcsl0,Micky Flanagan,Back In the Game,Day Alone,20,534353,True,0.491,0.862,4,-15.805,1,0.919,0.806,0.0,0.462,0.138,130.247,3,comedy
+62yfuUzcmmSLvFafxPc2A7,Iliza Shlesinger,War Paint,Shave the Big Toe,21,276323,True,0.637,0.921,11,-5.366,1,0.932,0.801,0.0,0.961,0.548,87.522,3,comedy
+2y3fsGt47K6y4lGboeBQCX,Todd Glass,Todd Glass Talks About Stuff,Shamwow,19,233880,True,0.465,0.919,1,-2.302,0,0.649,0.847,0.0,0.853,0.748,78.252,3,comedy
+5o7Z2bhs3NPla5oC1vVAH4,Gary Gulman,The Great Depresh,You Came!,20,169061,True,0.48,0.501,5,-15.058,1,0.94,0.877,0.0,0.589,0.289,83.927,4,comedy
+5EVDHVJTvfCTqYemafJw2K,Jay Mohr,American Treasure,Tracy Morgan at the Improv,19,167068,True,0.564,0.494,2,-12.62,1,0.96,0.846,0.0,0.682,0.523,61.442,3,comedy
+3HsJKNm2Lkydz57GlnG5kE,Josh Johnson,# (Hashtag),Sitting and Thinking,20,169396,True,0.56,0.829,2,-9.802,1,0.928,0.86,0.0,0.897,0.401,92.403,4,comedy
+1tfZvo0DPs8VFNOIrSOUtb,Gary Gulman,The Great Depresh,Ketamine,20,86161,True,0.618,0.446,2,-14.131,1,0.941,0.895,0.0,0.716,0.907,102.394,4,comedy
+1lmqkgT1PMfElD569JKNHS,Tom Papa,Human Mule,Time for a Girlfriend,20,133955,False,0.649,0.682,4,-13.391,0,0.952,0.643,0.0,0.536,0.252,117.074,1,comedy
+0K9XJkS7iQS6WkFQM7DhLj,Erikka Innes,Smells Like Nerd Spirit,Mom's Pot Plants,20,66640,True,0.644,0.434,5,-17.439,0,0.944,0.776,0.0,0.819,0.745,101.529,3,comedy
+7tyNbkpB4b2oGjbv3gEbaP,Jay Mohr,Happy. And A Lot.,Similar Hates,19,220303,False,0.555,0.51,9,-18.472,1,0.948,0.82,0.0,0.375,0.379,82.584,4,comedy
+2acUzlZxKI6sONQ6YPWbks,Al Madrigal,Live from D.C.,Put Your Hand Together - Live,20,123106,True,0.56,0.818,1,-10.339,1,0.947,0.806,0.0,0.84,0.72,74.005,3,comedy
+42j3WAbo6u7tqFULLZosg4,Todd Glass,Todd Glass Talks About Stuff,Late Night Tv,19,266800,True,0.561,0.925,2,-3.088,1,0.843,0.849,0.0,0.782,0.44,124.693,3,comedy
+6oiLdz0vwSl3xvjoJWULcr,Martin Lawrence,Doin' Time: Uncut,Cheaters,19,302293,True,0.567,0.366,9,-23.235,1,0.955,0.602,0.0,0.68,0.238,98.578,4,comedy
+3XxIN6az1PBFxz0U7Ooorz,Big Jay Oakerson,Live at Webster Hall,A Lesson for the Ladies,20,271083,True,0.537,0.853,9,-12.132,1,0.948,0.931,0.0,0.57,0.203,66.743,3,comedy
+7E3AHqaynID0lsUfspRLEl,Jim Florentine,Terrorizing Telemarketers 7,3 Questions,20,225903,False,0.611,0.461,0,-12.288,1,0.948,0.989,0.0,0.587,0.688,61.963,3,comedy
+67qo6doHpmWzX44TFvh0Lh,Myq Kaplan,Meat Robot,Jesus and Grandmothers,19,236880,False,0.45,0.878,6,-5.07,1,0.927,0.88,0.0,0.945,0.511,80.633,5,comedy
+0QvLap7SlgfAPrnO85yhzG,Gary Gulman,The Great Depresh,Mother,20,70481,True,0.505,0.785,4,-12.045,0,0.955,0.891,0.0,0.528,0.3,88.446,4,comedy
+6I8xeWgugabF4V6fGevdm8,Gary Gulman,In This Economy?,Recession-Busters,19,290613,True,0.551,0.927,1,-4.633,1,0.884,0.784,0.0,0.825,0.234,134.63,3,comedy
+5vLgWh6aOIupZ4sD1rXKJn,D.L. Hughley,Clear,Guns,19,144298,True,0.571,0.918,7,-8.381,1,0.913,0.77,0.0,0.794,0.147,126.638,5,comedy
+5ofwRKReABA9RVI4jAKOK8,Martin Lawrence,Doin' Time: Uncut,Viagra,19,284123,True,0.644,0.366,6,-23.275,1,0.955,0.606,0.0,0.973,0.213,78.071,4,comedy
+7zAga7m9usOmqYJ0ArrYct,Hva Snakker Du Om?;Anders Matthesen;Bossy Bo,Den Ka' Byttes V:O:L:01:00,Ludo,21,144200,False,0.721,0.47,0,-9.787,1,0.946,0.568,0.0,0.515,0.623,121.94,3,comedy
+22kfCsDXv04t3y8Ng2d192,Jay Mohr,Happy. And A Lot.,House Hunters International,19,211669,False,0.631,0.487,2,-18.346,1,0.954,0.829,0.0,0.145,0.289,62.403,3,comedy
+3n6IpKT2Sox5XER8CLNZnj,Dov Davidoff,The Point Is,"Therapist, 'I Love You', And Thanksgiving",19,296813,True,0.667,0.749,6,-5.757,1,0.922,0.737,0.0,0.755,0.596,115.856,4,comedy
+7lS5QC2bMzI2zEOEGJ6AQy,Shane Mauss,Mating Season,Evolutionary Competition,19,298986,True,0.56,0.714,5,-8.29,0,0.944,0.877,0.0,0.862,0.435,71.519,4,comedy
+0VF2zAZcAC7ulU7OmygmE2,Erikka Innes,Sex With Nerds,Circle Jerk,22,67371,True,0.636,0.477,10,-8.175,0,0.92,0.735,0.0,0.526,0.682,162.483,1,comedy
+6s71csXMFhs8XIyGn8j1ca,Wyatt Cenac,Brooklyn,Charity Mail for Married Wingmen,19,397147,True,0.604,0.533,4,-10.846,1,0.92,0.847,0.0,0.806,0.757,87.479,3,comedy
+7MA5eIM6qJH56VXvyVBseL,Todd Barry,From Heaven,"Nurse's T-Shirt, Kid's T-Shirt",20,78333,False,0.48,0.758,3,-14.047,0,0.952,0.921,0.0,0.829,0.813,177.513,1,comedy
+080NtZ5NzrMgfaTPsoiJxG,Aunty Donna;Demi Lardner,The Album,Best Day of My Life,21,161300,True,0.938,0.532,11,-8.802,0,0.188,0.00373,5.19e-06,0.618,0.628,115.044,4,comedy
+4BB3ZRYYwRlBzNj6WUVrUj,Louis Katz,If These Balls Could Talk,Weird Sex Moves,20,104760,True,0.502,0.895,11,-4.932,1,0.731,0.884,0.0,0.94,0.556,122.856,3,comedy
+46BqzuAVnkStVtETf7dclw,George Lopez,America's Mexican,Ftp,20,292000,True,0.348,0.977,6,-7.28,1,0.941,0.898,0.000337,0.905,0.056,84.081,3,comedy
+6PsQ0ebGcEttPswicaYLoO,Steve Hofstetter,Cure for the Cable Guy,The Reason I Recorded This Album,20,64693,True,0.634,0.411,8,-14.215,1,0.942,0.713,0.0,0.674,0.587,94.288,3,comedy
+3FNM2q8Z42grRIAIME2yU1,Robert Schimmel,Life Since Then,The Avn Awards,19,319293,True,0.512,0.554,1,-18.061,1,0.952,0.89,2.16e-06,0.51,0.311,93.091,3,comedy
+45dMFji9Y9i5deCjW3VJ3N,Christopher Titus,Norman Rockwell is Bleeding,Fist Fight,20,165066,True,0.534,0.619,1,-15.233,1,0.942,0.618,0.0,0.7,0.137,171.384,3,comedy
+6ep8Ai4pXGy7ROznkV3how,Christian Finnegan,Two for Flinching,How Is This My Fault?,19,329626,True,0.512,0.68,1,-9.712,1,0.958,0.82,0.0,0.868,0.474,172.38,3,comedy
+7AUVIC7nrkunMvE6kWL76o,Goldie Lookin Chain,Fear of a Welsh Planet,I Got a Van,22,185826,True,0.805,0.696,5,-9.554,0,0.134,0.0266,2.72e-06,0.102,0.691,110.644,4,comedy
+78u7yfGcPwTcyijAYfE463,Christopher Titus,Angry Pursuit of Happiness,Arm the Children,20,812378,True,0.601,0.85,6,-7.233,0,0.957,0.93,0.0,0.703,0.27,83.546,4,comedy
+6qZHDW6l4Szjjh0r8gyL3O,Big Jay Oakerson,I Promised Myself I Wouldnt Ask,Earn Your Creams,20,188212,True,0.349,0.89,9,-9.574,1,0.847,0.856,2.26e-06,0.812,0.582,82.455,4,comedy
+5wZHyWxGn37PBQm3XWQXMf,Larry The Cable Guy,Remain Seated,Bus Rides & Roller Coasters,20,192603,False,0.543,0.746,8,-12.087,1,0.959,0.713,0.0,0.338,0.296,86.382,3,comedy
+2Ej2fyWrfy1LCAX5S90Ehc,Kevin Bloody Wilson;Jenny Talia,Rides Again,The Note,21,257959,True,0.719,0.626,7,-8.417,1,0.0412,0.6,1.45e-06,0.328,0.553,128.128,4,comedy
+7qpPZcSLlr1jJKpSeHzwB6,Eugene Mirman,An Evening of Comedy in a Fake Underground Laboratory,Christian Mingle and My Childhood Notebook,20,374506,True,0.555,0.927,1,-5.424,1,0.907,0.765,0.0,0.799,0.395,80.742,3,comedy
+5B6DpblYjEi7Mp67XxqO3t,Kevin Bloody Wilson,35 Years of Kevin Bloody Wilson,Dickin's Cider,21,211653,True,0.734,0.711,9,-6.285,1,0.114,0.637,0.0,0.146,0.711,99.969,4,comedy
+3rIMRRu0jTSoCSH2cX5C9C,Kevin Bloody Wilson,My Australian Roots,The Great Roberto,21,305040,True,0.657,0.47,0,-15.099,1,0.205,0.306,0.0,0.127,0.79,125.145,4,comedy
+6UIttgiVOsf36nyb63D9gu,Kevin Bloody Wilson,Wrong! Wrong! Wrong!,I Think I've Outlived Me Cock!,21,252680,True,0.771,0.739,9,-5.617,1,0.0716,0.537,0.0,0.108,0.687,130.024,4,comedy
+3ZLp1i7FSPn05tuvnuXaAp,Ron White,Truckstop Comedy,Gay Rights,20,827146,True,0.595,0.576,4,-14.405,1,0.908,0.926,0.0,0.68,0.417,110.17,4,comedy
+2xchWzQHyxdE0azwZCjcSO,George Lopez,Team Leader,Jack In the Box,20,305040,True,0.444,0.738,4,-16.423,1,0.882,0.874,0.000395,0.845,0.208,108.345,3,comedy

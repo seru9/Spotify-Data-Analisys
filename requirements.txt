@@ -1,0 +1,10 @@
+# Requirements for Spotify Tracks Dataset Project (PDU 2025/2026)
+
+# Data Processing & Storage
+pandas>=2.1.0
+numpy>=1.24.0
+pyarrow>=13.0.0      # Required for fast Parquet file I/O in Step 0 & Step 1
+
+# Data Visualization
+matplotlib>=3.8.0    # Required for core plotting and radar charts
+seaborn>=0.13.0      # Required for correlation heatmaps and boxplots

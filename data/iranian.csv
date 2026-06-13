@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+2M4OCoJ5q4sYmItQ2YQcH8,Crows in the Rain,Dri:m Wan; Därk Blü,Dri:merz Path / Way,29,471041,False,0.3,0.338,1,-8.869,0,0.032,0.00833,0.724,0.103,0.0595,140.112,3,iranian
+5lr9xsWCwPDtCsIkTGrk2H,Crows in the Rain,Sorrow for an Unfinished Dream,Now You Can Sleep,27,366619,False,0.455,0.0562,1,-25.557,0,0.042,0.977,0.879,0.0983,0.115,130.036,4,iranian
+0hYeoA6aoBOUyqRB7IItOV,Alphaxone,Altered Dimensions,Distances,11,389548,False,0.235,0.505,5,-17.693,1,0.0646,0.777,0.947,0.101,0.0756,116.927,4,iranian
+1eIWSyrho9JstSBTjoadn2,Porya Hatami,Land,Sea,12,384309,False,0.162,0.293,4,-20.112,1,0.0377,0.969,0.968,0.094,0.0486,135.527,3,iranian
+1U64F3FMsryebYlNRW94VO,Porya Hatami,Phone to Logos,Color Bars,16,62834,False,0.2,0.00871,3,-37.78,1,0.0515,0.996,0.901,0.103,0.106,69.984,4,iranian
+3aNfuClqcTdtxEudO45zxZ,Confess,Evin,Evin,13,314040,True,0.462,0.951,7,-3.681,1,0.0501,0.000562,0.825,0.373,0.18,90.009,4,iranian
+0K7FVauF70d5LufTvDf8e7,Porya Hatami;Tomotsugu Nakamura,Phone to Logos,Dawn,12,428800,False,0.198,0.0342,1,-32.958,0,0.0398,0.985,0.906,0.368,0.0412,57.423,3,iranian
+6FApg0v1OKUELGZIhq507U,Alphaxone,The Infinite Void,Center X,19,81750,False,0.0566,0.236,3,-27.826,1,0.0622,0.169,0.988,0.0953,0.0303,206.139,5,iranian
+2pamD3POFzwSMi1oVUj5Ff,Alphaxone,The Infinite Void,Ashes of Time,15,342000,False,0.134,0.215,8,-22.533,0,0.0376,0.177,0.975,0.286,0.0401,77.296,3,iranian
+4zUf2K0GSx1O3ZLoXTjrN7,Alphaxone,The Infinite Void,Lost Sense,15,248000,False,0.0624,0.417,11,-20.062,1,0.14,0.722,0.979,0.898,0.0386,73.258,4,iranian
+3Eyi2JGY0xLcPdvn4AbWaX,Alphaxone,Chronosphere,Ancient Pillars,10,399330,False,0.0888,0.18,4,-20.332,0,0.0457,0.488,0.918,0.261,0.0305,78.826,4,iranian
+1pkk7CNJfq72LAP8KR61jw,Alphaxone,Echoes from Outer Silence,Outfield,10,112689,False,0.142,0.0877,1,-21.597,1,0.0439,0.662,0.961,0.112,0.026,95.287,4,iranian
+3ZBBa9Inb0rcvb1Vr3QhLw,Alphaxone;XERXES THE DARK,Aftermath,Nascency,11,360000,False,0.307,0.337,10,-23.667,0,0.0589,0.247,0.795,0.105,0.134,120.974,5,iranian
+6meA1BlqJ1COfcW0PSgCCY,Alphaxone;Dronny Darko,Forsaken,Enter the Gates,12,360241,False,0.0565,0.381,5,-18.776,1,0.0518,0.897,0.926,0.108,0.062,64.945,4,iranian
+2CbBTvbXuzM77r5PDnncwD,Alphaxone;Dronny Darko,Forsaken,Beginning,11,355500,False,0.151,0.236,7,-23.81,1,0.065,0.889,0.906,0.0749,0.0653,73.308,3,iranian
+0lbKpmwKQDN81wO0qIP3Al,Alphaxone;Dronny Darko,Forsaken,Immersion,13,249000,False,0.164,0.386,1,-25.307,0,0.0572,0.931,0.951,0.101,0.098,72.199,4,iranian
+6yFgaaGlNFZtv4tNfOHXNO,Alphaxone,Chronosphere,Distance Experience,13,415000,False,0.157,0.254,3,-21.224,1,0.0384,0.827,0.944,0.113,0.234,94.337,4,iranian
+5tX1JdVT1Pvqmm2WrwHo6E,Alphaxone,The Infinite Void,Exit,14,216500,False,0.172,0.33,3,-24.273,0,0.0399,0.851,0.685,0.111,0.129,77.512,3,iranian
+2MnAxHDHQpSMfHuGBSHhHO,Alphaxone,Chronosphere,Spellbound,15,395215,False,0.149,0.066,11,-24.457,1,0.0533,0.848,0.886,0.104,0.0246,136.038,5,iranian
+2ppRdUUDrsB9SvHeFaGXMo,Alphaxone,Chronosphere,Floating Spheres,13,235000,False,0.151,0.215,2,-17.155,1,0.0446,0.12,0.448,0.087,0.034,106.592,3,iranian
+64B0yTuNiZ90zt0IBlmg9W,Alphaxone,The Infinite Void,Unusual Detection,13,386500,False,0.166,0.117,0,-19.708,1,0.0436,0.198,0.566,0.0943,0.0333,126.806,4,iranian
+1WEMtHLpmeV1jmCCYmeHHB,Porya Hatami,Kani,Field,14,381000,False,0.213,0.128,2,-17.708,1,0.0429,0.978,0.943,0.119,0.025,110.707,4,iranian
+0dc7pWeDW8piLBgxYyFESU,Alphaxone,Chronosphere,Into the Void,14,440000,False,0.0834,0.325,8,-20.608,1,0.0581,0.0533,0.867,0.104,0.0349,60.19,5,iranian
+1Jzz5nYuH7cS3tF1OqHz7g,Alphaxone,Altered Dimensions,Equilibrium,11,510349,False,0.205,0.244,7,-23.696,0,0.04,0.926,0.95,0.131,0.0542,82.552,4,iranian
+2Sr6413vEXPqUqDIIj5Neu,Alphaxone,The Infinite Void,Zero Crossing,12,362250,False,0.138,0.137,10,-30.39,0,0.0413,0.633,0.646,0.361,0.0858,142.238,5,iranian
+15k1G1G1DjIhw1W29EnD6J,Alphaxone,Living in the Grayland,Into the Silence,11,220055,False,0.253,0.181,5,-23.052,1,0.0375,0.193,0.904,0.146,0.0279,111.957,4,iranian
+4eP5gb4Jri77aLICKnBTsW,Alphaxone,Chronosphere,Reverse Echoes,11,432464,False,0.165,0.359,5,-25.385,1,0.109,0.875,0.938,0.0841,0.152,128.468,5,iranian
+3WzXGVg9VjICOL4Q5Q6V5H,Alphaxone,Echoes from Outer Silence,Fragment,10,237108,False,0.235,0.413,7,-22.352,0,0.0898,0.964,0.932,0.219,0.212,127.459,4,iranian
+7Ln7qRJq4KBNb98hdsFvlm,Alphaxone;XERXES THE DARK,Aftermath,Ancient Amulet,12,274074,False,0.159,0.0903,2,-27.44,1,0.0359,0.841,0.93,0.123,0.0364,59.246,5,iranian
+2wwGNpRBm6llcAcWFh9Kez,Alphaxone,Edge of Solitude,Road to Nowhere,11,257854,False,0.226,0.189,4,-19.185,0,0.0425,0.936,0.892,0.104,0.0297,103.814,4,iranian
+7wPkE2yBgLCGVhrFk8yiaz,Alphaxone,Living in the Grayland,Cold Spring,11,460068,False,0.106,0.512,1,-22.063,0,0.125,0.879,0.9,0.0974,0.0396,91.757,3,iranian
+3NMPlhtelCnRfAywDWghbq,Alphaxone,The Infinite Void,The Infinite Void,13,501000,False,0.129,0.107,8,-25.261,1,0.0331,0.893,0.984,0.143,0.0499,69.281,4,iranian
+7sa50u2KOe5uEoTG0wOF9M,Alphaxone,Altered Dimensions,Human Frequencies,12,425341,False,0.104,0.282,1,-20.833,1,0.0404,0.844,0.911,0.105,0.0389,89.888,3,iranian
+3BCHULJk8iiYoogvte63le,Alphaxone;protoU,Stardust,Observing Quasars,12,410486,False,0.079,0.146,5,-25.748,0,0.0407,0.795,0.916,0.112,0.0286,75.597,4,iranian
+7gjElNxbppuc3CKpWulMnv,Alphaxone,Altered Dimensions,Midnight Waves,10,379753,False,0.152,0.419,9,-20.406,0,0.0485,0.659,0.908,0.0772,0.131,85.51,4,iranian
+0n00fbfEHwVidHj69QPgJZ,Alphaxone;protoU,Stardust,Sub Signal,11,308000,False,0.121,0.2,9,-29.007,0,0.0512,0.883,0.947,0.11,0.0381,148.135,3,iranian
+3zIM4r8MksRLPznpErkLi4,Porya Hatami,Kani,Kani (Night),11,440795,False,0.25,0.142,11,-20.071,0,0.0429,0.99,0.966,0.0849,0.0592,126.36,3,iranian
+7EGlDqCpY1lRzh6uESKxXy,Alphaxone,Altered Dimensions,Passing Through,11,434000,False,0.144,0.167,1,-24.642,0,0.0419,0.877,0.967,0.114,0.0393,103.66,4,iranian
+5GkpWNTA6Fb9v4VMjUBaDI,Alphaxone,Living in the Grayland,Interface,9,251533,False,0.104,0.389,2,-24.105,1,0.115,0.579,0.866,0.109,0.0375,82.255,5,iranian
+469R6UrFCAeXwQljr1NPbX,Alphaxone;protoU,Stardust,Alignments,13,204000,False,0.0622,0.128,1,-28.202,1,0.0469,0.893,0.821,0.115,0.0429,70.603,3,iranian
+2g37h9JTMtrhnfcNLA3OS6,Porya Hatami,Kani,Restless,12,274524,False,0.145,0.277,1,-25.021,0,0.0644,0.962,0.96,0.949,0.11,73.118,1,iranian
+0MDQfS86r6SM6P6WlK357A,Alphaxone,Altered Dimensions,Encounters,9,418901,False,0.159,0.256,1,-19.717,1,0.0387,0.717,0.944,0.0944,0.0379,109.081,4,iranian
+5qnT1FiCYDoD0RIaLRhtJ7,Alphaxone,Living in the Grayland,El Shadows,10,304091,False,0.0725,0.269,0,-22.967,1,0.0608,0.1,0.79,0.104,0.0341,80.171,4,iranian
+5BfRHxW9Oxwtg8c5l9Oaxm,Alphaxone,Living in the Grayland,Awakening,12,370599,False,0.159,0.257,3,-21.082,0,0.0456,0.818,0.968,0.138,0.0485,131.056,4,iranian
+1AhblVSR0pkEYNdNk9KHJJ,Confess,Revenge at All Costs,Unfilial Son,10,266226,True,0.46,0.894,1,-6.15,1,0.0684,1.6e-05,0.717,0.115,0.436,98.022,4,iranian
+6CZV4fbTjkOprVS3vH17yk,Sote,Majestic Noise Made in Beautiful Rotten Iran,Forced Absence,12,409090,False,0.236,0.706,8,-10.959,1,0.0808,0.00627,0.677,0.0615,0.0407,86.414,4,iranian
+0b9MWOAv9p9pV68433BGkq,Confess,Revenge at All Costs,You Can't Tame The Beast!,10,336200,True,0.443,0.943,11,-5.945,1,0.0813,8.02e-06,0.818,0.148,0.416,99.98,4,iranian
+378oBR88UDygFfo64drlKb,Confess,Revenge at All Costs,Phoenix Rises,12,294000,True,0.241,0.881,7,-5.662,1,0.0944,5.16e-05,0.535,0.353,0.301,96.553,4,iranian
+7F6TfPMUAz3ubshiIxUXtp,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,The Abberation,10,406601,False,0.133,0.432,6,-22.181,1,0.253,0.761,0.91,0.316,0.0842,90.178,3,iranian
+18WxHgWueyhnRjXLptpK9e,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Beneath the Dark Night,12,350695,False,0.216,0.205,7,-23.763,1,0.0433,0.38,0.87,0.107,0.032,124.635,4,iranian
+5veQ0Kw268hADzKAkuC52B,Saeed Dehghan;Dariush;REZ,Halabi Abad,Halabi Abad,16,300000,False,0.605,0.795,10,-9.146,0,0.149,0.0596,6.6e-06,0.378,0.19,99.987,4,iranian
+4fJHpKk5xORT4CitGQjDuj,Mahdyar;Hichkas,Bang (Remix),Bang (Remix),20,280838,False,0.497,0.654,7,-6.033,1,0.132,0.00635,7.27e-05,0.116,0.413,160.469,4,iranian
+1qWCr2CQkdnutRbk1m46Xd,Porya Hatami;Roberto Attanasio;Aaron Martin,Sallaw,Rêbendan,10,546000,False,0.0886,0.185,9,-22.113,0,0.0394,0.932,0.968,0.0891,0.0381,85.833,3,iranian
+0FG3dRdb64p5LxUSxKRtDd,Alphaxone,Underneath,Underneath,9,585312,False,0.0973,0.207,11,-26.838,0,0.0707,0.0094,0.749,0.205,0.0302,66.633,4,iranian
+1XojvXaazq3jz9ftYsafkB,Saba Alizadeh,Scattered Memories,Blood City,8,260000,False,0.116,0.316,1,-15.585,1,0.0471,0.947,0.695,0.697,0.0309,173.189,3,iranian
+5pYah9TjBW9s1xjYgG9XRT,Alphaxone;XERXES THE DARK,Aftermath,Iridescence Shimmer,8,448999,False,0.156,0.237,9,-23.704,0,0.0456,0.536,0.852,0.0839,0.0494,108.621,4,iranian
+0BQ8rkSpFDZnoS28KnNewm,Alphaxone,Altered Dimensions,Aftermath,10,431259,False,0.204,0.316,7,-18.746,0,0.0429,0.0867,0.917,0.112,0.0467,132.82,4,iranian
+7j2gdkHAlWzj7jvokpYZ7X,Alphaxone,Edge of Solitude,Environment,10,370279,False,0.091,0.0731,7,-23.072,0,0.0452,0.908,0.926,0.0619,0.0337,88.003,4,iranian
+2F1OEbPUHewxVLnex5GUbI,Siavash Amini;Eugene Thacker,Songs for Sad Poets,A Shape Forlorn (For Zhu Shuzhen),8,440000,False,0.186,0.293,10,-23.066,0,0.158,0.0593,0.846,0.0739,0.0325,118.719,4,iranian
+51NVCirA9elv6cSWMBqlB4,Alphaxone;protoU,Back to Beyond,Quantum Zero,7,560000,False,0.117,0.132,5,-25.604,1,0.037,0.349,0.779,0.339,0.0337,86.269,4,iranian
+2PZJ5EBE64BH4tH2TD4MyW,Alphaxone,Echoes from Outer Silence,Resistance,9,204747,False,0.185,0.328,1,-21.918,1,0.0585,0.0178,0.94,0.107,0.0845,82.46,4,iranian
+2Pg712fUtRTDii6O8Nt39a,Alphaxone,Edge of Solitude,Lost Horizon,7,348821,False,0.0919,0.222,5,-30.436,1,0.0817,0.61,0.961,0.157,0.0484,88.0,4,iranian
+52cNZSvjRYae9Kt7i7wRlg,Confess,Ransom Note,Ransom Note,8,289333,True,0.415,0.929,1,-5.533,1,0.0951,3.54e-06,0.909,0.218,0.311,120.024,4,iranian
+2F3gZ5zjmSc5GrcErGmf58,Alphaxone,Living in the Grayland,Darkscore,10,270053,False,0.234,0.566,11,-19.074,0,0.315,0.846,0.767,0.118,0.0396,62.018,4,iranian
+12ieqAh6HVhnRSAsZjol4i,Alphaxone,Edge of Solitude,Overland,8,265777,False,0.084,0.191,5,-23.043,0,0.0381,0.9,0.894,0.103,0.0397,85.446,3,iranian
+5mzDu2cpN4kUfdxUjkuCRo,Alphaxone;Dronny Darko,Forsaken,Outlying,8,371896,False,0.0916,0.131,0,-27.429,1,0.0449,0.904,0.854,0.11,0.0384,87.477,3,iranian
+5PRVw5DQSpJ47JTYxB5eLq,Siavash Amini;Saåad,All Lanes Of Lilac Evening,Dragging The Harrow,8,380000,False,0.111,0.268,5,-17.504,0,0.0353,0.72,0.938,0.115,0.0445,65.997,4,iranian
+1UvOJ6a6d0y0kzPu3JJ79i,Alphaxone;protoU,Back to Beyond,Dreams of Solace,11,317016,False,0.163,0.255,5,-21.795,1,0.0384,0.519,0.8,0.309,0.0357,138.101,3,iranian
+0WMEY4Op0MY7E3pnlItJJ8,Alphaxone;protoU,Back to Beyond,Future Underground,8,555437,False,0.0684,0.0981,0,-24.798,1,0.0439,0.306,0.865,0.106,0.0329,65.394,3,iranian
+6oA9ZmbXHx0xDk1UHv9Ovv,Alphaxone,Living in the Grayland,Overwhelm,9,385436,False,0.219,0.11,10,-20.913,1,0.041,0.273,0.803,0.127,0.0243,65.086,3,iranian
+5k6pwjtNfGIFoA432oys0o,Alphaxone,Living in the Grayland,Foresight,9,421851,False,0.202,0.67,0,-17.18,1,0.139,0.611,0.889,0.091,0.0366,119.873,3,iranian
+2qc8gnZD171s1fNM65hNmC,Alphaxone,Absence of Motion,Intro,9,202000,False,0.157,0.307,10,-19.846,0,0.0387,0.944,0.964,0.358,0.0384,133.544,4,iranian
+1ewrD3hYHITiHpwEuQBOSQ,Alphaxone,Dystopian Gate,Falling Time,7,427973,False,0.106,0.233,1,-23.622,1,0.0391,0.843,0.876,0.141,0.0388,82.33,3,iranian
+0VkUHuopg23Nv0HNVSF6ws,Alphaxone,Altered Dimensions,From the Passages,9,280831,False,0.154,0.392,7,-20.114,1,0.069,0.77,0.942,0.0906,0.0399,134.161,3,iranian
+0OD2HhIo0Kl5jUfodiqT7Y,Alphaxone,Edge of Solitude,Solar Halos,9,300852,False,0.108,0.374,0,-20.33,0,0.0407,0.788,0.914,0.0904,0.0877,173.694,4,iranian
+7DBHgRCxyDh8G3p62yHd9g,Porya Hatami,Monads,1A,8,101161,False,0.279,0.392,7,-22.59,0,0.103,0.216,0.561,0.183,0.0267,111.328,5,iranian
+1vL9eTHNejuOytE8TB3pMs,Alphaxone;XERXES THE DARK,Aftermath,Consternation,7,467454,False,0.146,0.196,0,-24.337,1,0.0407,0.332,0.72,0.111,0.0398,82.978,4,iranian
+6t1mvJzVhYPvGYV2QOc5Ma,Alphaxone,Edge of Solitude,Broken Worlds,8,345045,False,0.202,0.298,10,-24.12,0,0.0495,0.776,0.933,0.143,0.0387,72.678,4,iranian
+0ykQbUg3R8HkdWIAgyZjAS,Alphaxone,Absence of Motion,Celestial,8,277493,False,0.138,0.144,1,-24.469,0,0.053,0.982,0.954,0.0694,0.0351,83.8,3,iranian
+2dTUJu2ZoVOtOCUkmfuooT,Alphaxone;Dronny Darko,Forsaken,The First Convolution,7,400177,False,0.0716,0.376,1,-21.674,0,0.0758,0.869,0.943,0.103,0.0352,79.104,4,iranian
+49K6Q7xUpT4YK8Ub74mE4F,Alphaxone,Absence of Motion,Appearance,9,408128,False,0.059,0.0933,5,-24.208,1,0.0466,0.221,0.787,0.107,0.0382,62.083,4,iranian
+6mmppQqel7fZj5gnOss6uI,Alphaxone,Living in the Grayland,Melancholy,9,433188,False,0.123,0.31,9,-21.794,1,0.0673,0.884,0.962,0.105,0.0398,84.747,4,iranian
+3zKzdryb4VFXFvtVhE0gxN,Alphaxone;XERXES THE DARK,Aftermath,Deep Space Signals,9,385000,False,0.0921,0.288,0,-21.392,1,0.0487,0.783,0.913,0.11,0.0253,75.063,4,iranian
+26eM5zn78mxTPZ7mujiZxj,Alphaxone;XERXES THE DARK,Aftermath,Unveiling the Script,8,440405,False,0.0845,0.198,5,-24.703,0,0.0415,0.816,0.909,0.088,0.0317,84.997,4,iranian
+0bVO1w0v6bLgPvCM7X2mZC,Confess,Revenge at All Costs,Based On A True Story...,8,132000,False,0.439,0.506,1,-12.867,0,0.35,0.197,0.047,0.185,0.055,86.076,3,iranian
+4cwPYTDYlJVGBCpJcSssrZ,Alphaxone,Dystopian Gate,Mysterium,8,320000,False,0.164,0.234,9,-22.272,0,0.0726,0.275,0.876,0.107,0.0392,127.141,4,iranian
+0mfi1L8wTr5MsyTKrDo2nP,Confess,Revenge at All Costs,Ransom Note,9,289333,True,0.415,0.929,1,-5.533,1,0.0951,3.54e-06,0.909,0.218,0.311,120.024,4,iranian
+251qnwDSLQzzOYt0Hiu7JL,Confess,Revenge at All Costs,Army Of Pigs!,9,298920,True,0.459,0.938,1,-4.405,1,0.0575,1.68e-05,0.793,0.131,0.248,95.02,4,iranian
+4bMSRzkuI6jqve4Dw7RcGp,Confess,Revenge at All Costs,Hegemony,8,318746,True,0.512,0.953,0,-5.724,1,0.0846,2.78e-05,0.649,0.136,0.442,119.984,4,iranian
+4FRmTMCMBuPg7sa7mRMrtR,Confess,Revenge at All Costs,Megalodon,9,235146,False,0.471,0.96,6,-5.326,1,0.137,0.00018,0.857,0.0976,0.309,99.989,4,iranian
+2BbwMwiLIuO28tJtZP72un,Siavash Amini,Till Human Voices Wake Us,The Chair She Sat In,9,285386,False,0.233,0.294,4,-17.283,0,0.0508,0.983,0.976,0.1,0.0481,139.728,4,iranian
+3FY3DNiwd83JF0vBdCzGie,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Dusk Wings,8,324000,False,0.155,0.0869,11,-28.956,1,0.0374,0.685,0.877,0.0974,0.0341,134.499,4,iranian
+5xoM4IhhyAgn0gdQ5BMW4Q,Alphaxone,Dystopian Gate,Lost in the Moment,9,311161,False,0.106,0.256,0,-21.548,1,0.0393,0.865,0.854,0.117,0.0341,91.708,4,iranian
+4aJCpW8n5g7HfWOsktxLKm,Alphaxone,Dystopian Gate,Underworld,10,266802,False,0.271,0.136,5,-31.641,1,0.0349,0.411,0.809,0.0729,0.0549,98.152,3,iranian
+0payJUOlZ84AI1a6JsrctP,Confess,Revenge at All Costs,Under Surveillance,9,229426,True,0.299,0.934,6,-5.362,1,0.135,0.000276,0.383,0.365,0.493,112.768,4,iranian
+5zeri0nScx4GFiVfW4GDpM,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Northern Waves,9,490591,False,0.133,0.231,0,-22.818,1,0.0335,0.841,0.973,0.144,0.0865,85.568,4,iranian
+2u3xU18hSR24JFp6N4Lc4X,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Future Ghost,9,400000,False,0.142,0.342,10,-26.298,0,0.0634,0.939,0.896,0.119,0.0335,140.204,3,iranian
+5ix3TyTEkhZVMBcviwYJXX,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Scourge of the Seas,8,315789,False,0.194,0.626,5,-23.4,1,0.277,0.848,0.902,0.351,0.0392,142.944,5,iranian
+65Z3SDxxPB3BSIlomBMbzk,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Thoughts of Ancient Gods,9,678265,False,0.169,0.181,0,-24.002,1,0.0459,0.32,0.856,0.0997,0.032,115.982,4,iranian
+1sTGtKqzdOjUJ8t8JAhPpM,Alphaxone;Onasander;protoU,Shadows of Forgotten Legends,Below the Thunders of the Upper Deep,9,350695,False,0.167,0.304,8,-22.959,1,0.0485,0.512,0.89,0.149,0.133,126.638,4,iranian
+3TKdlZSCITdLsnE7BZh8pi,Saeed Dehghan;Dariush,BLABBER BRAIN,Shadowless,8,216624,True,0.396,0.805,9,-6.907,1,0.0992,0.0346,0.000376,0.0791,0.0391,100.428,3,iranian
+5UqiksDCnfm34lZqZSg4Xv,Crows in the Rain,Kyori,Kyori,17,490041,False,0.393,0.168,4,-18.882,0,0.0359,0.988,0.913,0.093,0.0398,60.071,4,iranian
+2xxlX2CNnfPU1RPDckWLPR,Crows in the Rain,"You Walked with Me Then, Before Night or Day",We Were in the Backseat,12,412116,False,0.133,0.108,4,-23.546,0,0.0364,0.944,0.932,0.0774,0.0336,79.297,4,iranian
+26p4guqZWBNsBSLTifE1Dy,Porya Hatami,Phone to Logos,Pomegranates,32,447355,False,0.221,0.1,4,-24.182,1,0.0462,0.97,0.74,0.361,0.0489,71.551,4,iranian
+2lygC8Ak81cW0AIP9ee6TK,Ali Phi,Left,Am,7,180000,False,0.235,0.213,8,-20.692,1,0.0522,0.994,0.96,0.0907,0.0506,70.477,4,iranian
+6Mjb3DsFX4uwSD6h78vuCS,Padra,Jabr,Jabr,5,204000,False,0.379,0.932,7,-6.91,1,0.0516,0.000211,2.62e-06,0.162,0.192,180.056,4,iranian
+6yz2HojEuzMLx1yJoMYVSH,Confess,Eat What You Kill,Eat What You Kill,27,315789,True,0.419,0.95,3,-4.41,0,0.0847,0.000853,0.679,0.112,0.105,95.065,4,iranian
+0UpDaBynhqYX1OUQaqagwp,Baaroot,From Void To Void,Repetitious (Zamaangard),7,325503,False,0.264,0.146,7,-18.244,0,0.0314,0.942,0.0549,0.0985,0.212,179.832,3,iranian
+1wgIDL5OXIF3IpMrkVSSiR,Kahtmayan,Resurrection 1,Dignity,5,314183,False,0.602,0.954,6,-4.389,1,0.043,0.000487,0.000916,0.363,0.185,119.961,4,iranian
+4DCuitgB4gGsytmrQzUKZr,Tegh;Adel Poursamadi,Ima ایما,Bad`a بدع,4,640000,False,0.154,0.17,9,-16.767,1,0.0382,0.275,0.861,0.548,0.0283,106.182,1,iranian
+3y7O8jDc715BxIWEssHZvZ,Porya Hatami,Arrivals And Departures,Farewell,7,577293,False,0.115,0.00941,0,-30.182,0,0.0407,0.988,0.936,0.0918,0.0317,93.99,3,iranian
+6z7sKaDtozsnhXIqv5G8L6,Kahtmayan,Exir,Recalling,5,297426,False,0.345,0.723,11,-9.766,0,0.0417,7.65e-05,0.856,0.111,0.254,180.014,4,iranian
+2hNKLnTj5zmCQzTYRkW0sw,Crows in the Rain,Sorrow for an Unfinished Dream,Unfinished Dream Of Sadako,15,654994,False,0.245,0.388,3,-12.818,0,0.032,0.00246,0.785,0.0962,0.0917,127.486,3,iranian
+1OvrcZ8r953T69G9V6BYw6,Crows in the Rain,You Are Dying in My Arms (the Frozen Last Gasps),Chapter VI - The Tale of Creation within Her Being,5,342000,False,0.16,0.0699,7,-18.234,0,0.035,0.982,0.925,0.157,0.0372,75.03,3,iranian
+0UgIovLGJzZxpyRQ2F7Pku,Alphaxone,Underneath,Other World,6,544725,False,0.137,0.145,1,-29.299,1,0.0482,0.833,0.933,0.121,0.0387,142.221,4,iranian
+4qZ3qGSX3SdFMuAfKfaTrc,Porya Hatami,Land,River,8,384031,False,0.198,0.291,10,-17.207,1,0.042,0.915,0.899,0.102,0.16,87.351,1,iranian
+3Ppea74HmbMtdNAoCXRKR2,Alphaxone,Ghost Machine,Derelict,6,378062,False,0.166,0.246,8,-23.682,0,0.0554,0.849,0.898,0.168,0.0469,113.05,3,iranian
+4CIMoG405X01YMhtsHHhZU,Siavash Amini;Eugene Thacker,A Quiet Glow (For Chuya Nakahara),A Quiet Glow (For Chuya Nakahara),5,558608,False,0.165,0.106,10,-20.374,1,0.0443,0.0102,0.858,0.581,0.0288,127.979,4,iranian
+0nGQPE96G1ysweK2mQD0Ge,Alphaxone;Dronny Darko,Forsaken,In Between,7,348061,False,0.132,0.248,7,-29.705,0,0.0407,0.864,0.911,0.154,0.0559,99.612,4,iranian
+35AjdNPiigOrPDFVWRVJxN,Electroqute,Tanpasin,Pileh,6,242302,False,0.42,0.928,4,-4.054,0,0.0487,0.000869,0.0258,0.177,0.267,182.058,3,iranian
+6Ch7RqrLHfEjJxYigMzFYN,Crows in the Rain,You Are Dying in My Arms (the Frozen Last Gasps),"Chapter II - I'm Not The Body, I'm Not Even The Mind",5,520000,False,0.402,0.366,9,-10.366,0,0.0362,0.98,0.951,0.0878,0.035,99.998,4,iranian
+7uM4hjdGJ2WCzwjjFLmVeg,Alphaxone,Ghost Machine,Aftershock,5,435783,False,0.199,0.539,11,-20.546,1,0.0882,0.577,0.896,0.11,0.15,125.384,4,iranian
+4gS4WLBBizjM6OtCunJxyo,Alphaxone;XERXES THE DARK,Aftermath,Induction,6,370000,False,0.062,0.137,5,-21.852,0,0.0493,0.773,0.95,0.109,0.0273,71.92,4,iranian
+6vCbjgQS8LeEW4darrE4Ai,Sote,Parallel Persia,Brass Tacks,8,223175,False,0.303,0.475,0,-10.718,0,0.0321,0.655,0.00136,0.125,0.323,185.684,4,iranian
+74XGSnlNdvUwM2jBEcgGXz,Alphaxone,Echoes from Outer Silence,Revealing the Depth,7,296115,False,0.178,0.305,1,-22.841,1,0.0382,0.835,0.886,0.0788,0.0582,100.235,5,iranian
+24yPThGjmnQ4ug0ovLe5PN,Porya Hatami,Kani + Remixes,Field,9,381000,False,0.209,0.128,2,-17.708,1,0.0402,0.978,0.94,0.119,0.0253,66.335,3,iranian
+1iFpG0hlUsEQPNqoa5gmfM,Confess,In Pursuit of Dreams,I'm Your God Now!,7,336048,True,0.505,0.944,7,-3.41,1,0.076,0.000205,9.02e-06,0.258,0.356,98.485,4,iranian
+7vqjWNv79zZTYFAAfKHdkp,Alphaxone,Echoes from Outer Silence,Solitude,7,274638,False,0.216,0.194,4,-23.099,0,0.0419,0.501,0.893,0.111,0.0452,119.599,4,iranian
+22saGXdPM60X3cF2abKOrX,Alphaxone,Absence of Motion,Close,7,350316,False,0.0651,0.205,0,-22.915,1,0.038,0.979,0.958,0.105,0.0355,67.658,5,iranian
+1enpj1PU8I9gVzxB4NpD1t,Electroqute,Tanpasin,Drouzhan,5,285306,False,0.457,0.898,7,-3.796,1,0.0495,7.79e-05,0.000459,0.159,0.44,171.983,4,iranian
+0n49DnBtPTD0DwpNHLrREI,XERXES THE DARK,Tomb of Seers,Ethereal,6,340460,False,0.0615,0.157,9,-21.333,1,0.0337,0.524,0.785,0.111,0.0318,66.906,4,iranian
+6s12RVzAeQG9geHITu9V21,Siavash Amini;Eugene Thacker,Songs for Sad Poets,Demented Skies (For Alejandra Pizarnik),7,578803,False,0.0775,0.55,9,-17.437,0,0.399,0.0651,0.894,0.104,0.0288,65.826,4,iranian
+21nQeCtMbLvirOU6T4V5Sf,Arsames,Immortal Identity,Immortal Identity,5,292466,False,0.157,0.982,2,-3.706,1,0.244,1.26e-05,0.455,0.237,0.124,67.412,4,iranian
+221pCE9l0ttyQJp8nEW51U,Arsames,Immortal Identity,Xerxes,5,261120,False,0.281,0.984,11,-3.925,1,0.126,5.44e-06,0.699,0.142,0.346,113.315,5,iranian
+43IXaq37yKxPHHFYLIx5iU,Alphaxone,Absence of Motion,Space Continuum,7,356065,False,0.145,0.276,5,-19.913,0,0.0409,0.304,0.915,0.223,0.0335,76.794,4,iranian
+7J2HxoLdk0rxfeVDp7MU9f,Arsames,Immortal Identity,Persepolis,6,304248,False,0.29,0.986,4,-4.073,1,0.1,2.59e-05,0.799,0.127,0.2,115.036,4,iranian
+2WBqBvlsAmSGbp9AkRas3T,Alphaxone;protoU,Back to Beyond,Regenesis,6,215264,False,0.168,0.27,7,-23.346,1,0.0667,0.336,0.92,0.617,0.0399,139.703,3,iranian
+6SLNUdTUZCUtFCNHhNi0vT,Alphaxone,Perception,Perception,6,389355,False,0.0637,0.179,0,-13.899,1,0.0446,0.871,0.92,0.116,0.0289,63.093,3,iranian
+79f3EVRwfgMjAFtMxtCLOe,Confess,In Pursuit of Dreams,Teh-Hell-Ran,4,312048,True,0.525,0.98,2,-3.728,1,0.0773,0.000196,0.00019,0.236,0.349,116.03,4,iranian
+3cMPpIfA7qBLC00IFJUJvX,Confess,Revenge at All Costs,I Speak Hate,7,312226,True,0.426,0.957,1,-4.831,1,0.0968,1.08e-05,0.871,0.314,0.231,95.027,4,iranian
+5STmaK96tfeBzddlPMh8zD,Sote,Majestic Noise Made in Beautiful Rotten Iran,Life,7,430000,False,0.461,0.297,10,-12.324,0,0.0345,0.667,0.776,0.0851,0.0568,144.062,4,iranian
+2JiF34kX83JarHENVGvu8M,Alphaxone,Edge of Solitude,Beyond the Edge,6,313673,False,0.149,0.242,3,-21.824,1,0.0438,0.924,0.935,0.108,0.0347,79.587,3,iranian
+5tDJLRlpVNobUgxBiqMqwq,Siavash Amini;Eugene Thacker,Songs for Sad Poets,Opulent Night (For Mário de Sá-Carneiro),5,514500,False,0.0562,0.072,0,-18.879,1,0.0535,0.00454,0.953,0.075,0.0304,53.987,4,iranian
+0bq8T0Drwu9bRjDeJKaidx,Arsames,Immortal Identity,Dooms Day,7,227056,False,0.456,0.992,7,-3.817,0,0.139,7.98e-06,0.695,0.333,0.416,165.012,4,iranian
+3hMAROcyHiKtS7NfLCinYJ,Alphaxone,Absence of Motion,Dark Geometry,7,374463,False,0.118,0.237,2,-21.399,0,0.0355,0.91,0.95,0.314,0.0388,94.716,4,iranian
+2YvZoskRxZ9HmoeKrUg5TI,Porya Hatami;Tomotsugu Nakamura,Kani + Remixes,Restless - Tomotsugu Nakamura Remix,7,320737,False,0.0794,0.176,4,-19.567,1,0.0373,0.895,0.946,0.114,0.148,62.321,3,iranian
+1Rnpbo60KYT311t0NEZZQg,Siavash Amini;Eugene Thacker,Songs for Sad Poets,Prisms of Sleep (For Jean-Joseph Rabearivelo),5,660057,False,0.136,0.106,2,-23.146,0,0.0636,0.0084,0.885,0.117,0.0311,141.471,4,iranian
+6CDj4SbDU9COClIPMFtWSN,Anoushbard,Mithra,The Man Who Rides Through the Fire,6,376500,False,0.219,0.956,10,-7.995,0,0.0699,4.43e-05,0.00731,0.277,0.0389,109.852,3,iranian
+29W2q3J4CUnrP97gZxYzUt,Alphaxone,Dystopian Gate,Dissolving Horizon,6,508962,False,0.0855,0.145,7,-22.744,1,0.0497,0.409,0.912,0.0979,0.0339,85.648,4,iranian
+2l2NxH2cEdfNFVhZeceSxw,Sote,Majestic Noise Made in Beautiful Rotten Iran,I'm trying but I can't reach you father,7,328737,False,0.443,0.666,5,-13.252,0,0.0516,0.136,0.59,0.0987,0.0701,162.025,4,iranian
+1AN4ufCCVjezLyl6QBlFrq,Porya Hatami,Kani + Remixes,Kani (Day),33,537610,False,0.101,0.103,5,-20.407,1,0.0449,0.97,0.93,0.0922,0.0334,83.575,3,iranian
+5CiL62jzro1y8xsX3EnVdc,Dariush Dolat-Shahi,"Electronic Music, Tar and Sehtar",Shabistan,6,389800,False,0.316,0.48,7,-14.772,0,0.0559,0.828,0.817,0.0685,0.269,89.008,4,iranian
+3vxtTyToqZLW9d264vIifk,Siavash Amini,Serus,All That Remained Pt.2,5,297172,False,0.0625,0.12,2,-18.843,0,0.0452,0.938,0.945,0.0874,0.0303,70.564,4,iranian
+7f2dOBhfv8XCjpXmqONyvB,Alphaxone,Underneath,Water Moon,7,680139,False,0.0626,0.0925,8,-31.668,1,0.0396,0.834,0.822,0.149,0.108,61.244,3,iranian
+0LeQR4se95E251yAGI0W3Z,Porya Hatami,The Garden,Bee,5,424999,False,0.277,0.303,6,-21.53,1,0.039,0.962,0.914,0.372,0.19,104.854,3,iranian
+4QyoIIX3hN28ROmi7XTyou,Porya Hatami,The Garden,Spider,6,478499,False,0.215,0.0915,0,-23.823,1,0.0364,0.977,0.379,0.0886,0.0281,99.134,4,iranian
+6GFzkoWSx8afoekKHtNkDd,Porya Hatami;Roberto Attanasio;Aaron Martin,Sallaw,Pûşper,6,416500,False,0.102,0.201,9,-18.544,0,0.037,0.812,0.886,0.418,0.0438,84.088,4,iranian
+2tv50mUSWoBwpJ5wuNVEAC,Porya Hatami,Land,Autumn,7,418000,False,0.186,0.136,9,-22.685,0,0.0385,0.987,0.682,0.106,0.0394,60.323,3,iranian
+0hmsEGWiKM27CJUTSDROJh,Saint Abdullah,Zeynab,Zeynab,5,230000,False,0.573,0.626,8,-10.637,0,0.0525,0.7,0.0,0.143,0.14,79.958,4,iranian
+6qkj3pujFNHmkPHO529vkC,Porya Hatami,Butterflies,Butterflies,5,352000,False,0.205,0.122,0,-23.538,1,0.0499,0.995,0.926,0.0878,0.0478,84.014,3,iranian
+7nOuvxR8R59u1xCtqGbtnH,Porya Hatami,The Garden,Snail,6,447999,False,0.254,0.12,3,-23.668,1,0.0385,0.936,0.88,0.0555,0.0325,101.919,3,iranian
+6P5MpKoqB6MyTkToZROjEi,Alphaxone,Ghost Machine,Dissolution,4,636449,False,0.121,0.0915,0,-23.849,1,0.0437,0.641,0.932,0.134,0.0261,95.881,3,iranian
+0suqmBMS28FsotR6RiTzcD,Alphaxone,Ghost Machine,Dissociative,5,386988,False,0.169,0.104,10,-27.259,1,0.0399,0.607,0.956,0.107,0.0701,124.92,3,iranian
+7AQKcYgaSzwZ27uYHOoLxv,Alphaxone;XERXES THE DARK,Aftermath,The Planet,7,460000,False,0.0608,0.207,7,-24.126,1,0.0448,0.611,0.767,0.119,0.0351,52.505,5,iranian
+0d7v2zrFzeXvIa9s1AB9jz,Porya Hatami;Roberto Attanasio;Aaron Martin,Sallaw,Gelarêzan,6,502000,False,0.0775,0.149,1,-20.764,0,0.0462,0.985,0.934,0.111,0.0387,79.755,3,iranian
+7f5igh8vt1dZtXz6NlnUYz,Porya Hatami;Roberto Attanasio;Aaron Martin,Sallaw,Xakelêwe,7,714000,False,0.16,0.137,2,-25.524,1,0.0461,0.969,0.928,0.313,0.0338,74.525,4,iranian
+29LUqmsbiqC27Eq0Quj62e,Alphaxone,Absence of Motion,X-Land,7,208503,False,0.0723,0.318,2,-20.159,0,0.0469,0.248,0.716,0.109,0.0787,79.75,4,iranian
+47QuS9hwDRuFER09mjsRYv,Alphaxone;protoU,Back to Beyond,Myriad Disguises,6,412800,False,0.135,0.214,3,-15.965,1,0.041,0.603,0.888,0.0783,0.0286,99.778,3,iranian
+6WMkM8PaCUJmvJQ5s6am7L,Sote,Sacred Horror In Design,Flux Of Sorrow,6,406000,False,0.147,0.313,0,-10.82,0,0.0385,0.785,0.0553,0.213,0.0325,79.955,4,iranian
+53x9C19yH6ds3GmkNRsQUZ,Porya Hatami,Phone to Logos,Parachute,5,176007,False,0.355,0.0892,7,-27.235,1,0.0564,0.975,0.899,0.0779,0.0486,68.976,1,iranian
+2LPtD54De1Fh6HoJc2WI0A,Alphaxone;protoU,Back to Beyond,Through the Golden Dust,6,383454,False,0.145,0.199,5,-21.717,1,0.0377,0.212,0.793,0.19,0.0348,66.539,3,iranian
+6MDINX6CFYG4nj55nSf0wa,Alphaxone,Ghost Machine,Substance,5,345108,False,0.122,0.313,2,-24.164,1,0.0676,0.0919,0.922,0.0978,0.0399,79.706,4,iranian
+0v6SAF0ZkReIsRymDOS2wQ,Alphaxone,Echoes from Outer Silence,Altered Xone,7,382107,False,0.129,0.485,3,-19.941,0,0.0804,0.787,0.956,0.121,0.171,93.393,4,iranian
+5vGRklKftxaxFOZzHfz1gm,Porya Hatami,Kani + Remixes,Kani (Night),7,440795,False,0.252,0.142,11,-20.071,0,0.0438,0.99,0.964,0.0849,0.0576,115.781,4,iranian
+7lf2yOFlJxMxBw9eJblpeO,Alphaxone,Ghost Machine,Underneath,5,378040,False,0.0626,0.122,9,-25.639,1,0.0431,0.914,0.977,0.109,0.0351,67.986,3,iranian
+6fElcP4bAjJy04x6RsV97D,Alphaxone,Tomb of Seers,Witchcraft,7,532302,False,0.0597,0.115,4,-22.215,0,0.045,0.487,0.896,0.11,0.0316,66.029,3,iranian
+2R3Cozq6ZlE8lkJw1ARfIo,Alphaxone;XERXES THE DARK,Aftermath,Activating,7,323199,False,0.184,0.435,2,-22.193,1,0.216,0.793,0.906,0.0797,0.0387,87.889,4,iranian
+6DWEldaNlnGJWCIaiviTdj,Alphaxone,Edge of Solitude,Echosphere,7,365493,False,0.155,0.157,5,-20.476,0,0.0436,0.691,0.941,0.0985,0.0379,132.55,5,iranian
+0Ya0PNkjjqAp8dvgnkPPJC,Alphaxone,Ghost Machine,Experience,6,322120,False,0.094,0.152,7,-23.682,1,0.0422,0.636,0.945,0.115,0.0357,86.377,1,iranian
+6UjGHrvy8Ajboi3POTl5sN,Alphaxone,Ghost Machine,Compression,6,330913,False,0.0766,0.111,11,-22.735,1,0.0402,0.537,0.889,0.111,0.0344,175.415,4,iranian
+5j9JKwOee5Z7DOTRvDsinL,Siavash Amini;Saåad,All Lanes Of Lilac Evening,A Vision Without Contours,6,253000,False,0.166,0.272,8,-17.63,1,0.0417,0.00874,0.892,0.118,0.0509,83.275,4,iranian
+24uefr9MOunilKf8GJcYN6,Alphaxone;protoU,Back to Beyond,Delusions of Omniscience,6,568186,False,0.0925,0.254,9,-21.862,1,0.0438,0.266,0.761,0.122,0.0307,87.657,4,iranian
+5hNKeOLajiltMKPYuBGP0a,Alphaxone;Dronny Darko,Forsaken,Approaching,6,330773,False,0.17,0.184,1,-29.631,1,0.0415,0.724,0.833,0.11,0.0946,65.909,4,iranian
+2vsyMZwuir4Q8r9ZQfyJH6,Alphaxone,Echoes from Outer Silence,Departure,7,340730,False,0.17,0.215,4,-21.213,0,0.0461,0.833,0.83,0.113,0.0383,122.095,4,iranian
+2rka3Vd8JhoTd8M2xrvdQH,Alphaxone,Echoes from Outer Silence,Nothing Era,7,352747,False,0.0617,0.464,11,-21.476,0,0.108,0.779,0.973,0.371,0.0373,67.281,3,iranian
+0kYxGkYQwIW9TY7L4DOB00,Alphaxone;Dronny Darko,Forsaken,Dissolution of Thought,6,297521,False,0.161,0.297,5,-25.731,0,0.0572,0.91,0.897,0.102,0.0387,108.598,3,iranian
+6i7HXAG4pzWn1zX5rgiBai,Alphaxone;protoU,Back to Beyond,The Edge of Perception,7,390000,False,0.0931,0.112,6,-27.685,0,0.0378,0.595,0.878,0.16,0.0789,88.185,3,iranian
+2V84Epavbw2k9p5gTKyrCk,Alphaxone,Echoes from Outer Silence,Sphere of Change,7,283042,False,0.181,0.285,7,-18.174,1,0.0442,0.867,0.942,0.084,0.0322,116.555,4,iranian
+7AZREJbd0kP975u6J70hTG,Saint Abdullah;John Butcher,Mechanical Flirtations,The Birds Discuss The Journey,6,219000,False,0.332,0.419,6,-10.043,0,0.0485,0.15,0.894,0.118,0.0598,96.186,4,iranian
+1Ra44Igv2rVXj9Q8Ba23YY,Alphaxone,Absence of Motion,Inner Horizon,6,324253,False,0.0682,0.576,8,-18.36,0,0.0701,0.833,0.935,0.0685,0.0367,64.693,3,iranian
+0ZSHT8qBpxOIGoKxEslL4V,Alphaxone,Tomb of Empires,Mysterious,5,370000,False,0.189,0.239,2,-22.889,0,0.0564,0.973,0.98,0.101,0.08,131.511,5,iranian
+2iqKaJs3BlTrBDAmOn0LtR,Alphaxone,Dystopian Gate,Out of Source,7,416575,False,0.262,0.158,0,-25.514,1,0.0418,0.279,0.856,0.106,0.0334,107.854,3,iranian
+3ceibRHUnWsSBs6j2x1ohi,Saint Abdullah,Mechanical Flirtations,Landscapes of A Blind Man,5,315000,False,0.183,0.326,0,-10.735,1,0.0381,1.23e-05,0.111,0.826,0.031,111.3,4,iranian
+4TnPYCaRO6ZOHzK8bIkd2u,Alphaxone,Dystopian Gate,Frozen Light,7,290081,False,0.167,0.292,4,-25.846,1,0.0602,0.587,0.769,0.11,0.034,67.218,4,iranian
+0BhIaqQwmn9mbG9pCuIMDs,Alphaxone,Dystopian Gate,Hollow Lands,6,325859,False,0.121,0.139,0,-24.034,1,0.0366,0.111,0.854,0.107,0.0393,96.548,3,iranian
+6jvjrL3XFkekryBLPnWeMw,Alphaxone,Edge of Solitude,Ocean Grooves,6,338127,False,0.202,0.164,0,-19.458,0,0.0464,0.299,0.927,0.0897,0.0388,67.774,4,iranian
+6utqqPs42IgihJOSaLGFuy,XERXES THE DARK,Tomb of Seers,Omniscient,5,487637,False,0.0816,0.197,2,-23.846,1,0.0403,0.475,0.865,0.0812,0.037,78.029,3,iranian
+37ymOwFRpmBblXuIV4CtZU,Siavash Amini;Eugene Thacker,Songs for Sad Poets,Smoldering Stars (For Giacomo Leopardi),6,612805,False,0.0629,0.15,1,-24.421,0,0.0588,0.196,0.928,0.0999,0.0329,60.354,4,iranian
+0z7ngxdMh33QPN8361yzb5,War Angel,Tales of the Damned,Dead Man's Lullaby,0,354470,False,0.427,0.957,2,-4.297,1,0.096,0.0412,9.4e-06,0.357,0.325,155.988,4,iranian
+2fMNiG7Jp82FYZBAKAqZc5,Beshenitar,The Great Wound of History,Slave of this Soil,0,252425,False,0.316,0.73,3,-10.557,0,0.0334,0.672,0.848,0.139,0.132,99.95,4,iranian
+0TPAUFQm4XxECINnfkJIXo,Crows in the Rain,Forgotten Childhood,Forgotten Childhood,3,412062,False,0.355,0.294,9,-16.237,1,0.0375,0.978,0.917,0.216,0.037,119.552,4,iranian
+5r5huyFztiqKdyNvYVffZw,Crows in the Rain,They Sing Sagas of My Death (Live),Hymn of Death,4,387000,False,0.18,0.227,9,-13.593,1,0.0376,0.77,0.983,0.124,0.0521,95.344,4,iranian
+4Hsmji2BOjjgzf3krHyGQK,Kahtmayan,Resurrection 1,Dead,4,421520,False,0.553,0.877,2,-4.309,0,0.0784,0.00622,0.0352,0.114,0.196,100.018,4,iranian
+2myoYdodkPPjHjh4OjSUZp,Saeed Dehghan,BLABBER BRAIN,Quit or stay,0,354960,False,0.327,0.767,10,-10.297,0,0.129,0.0397,0.874,0.568,0.25,174.025,4,iranian
+1JCWaGEqGYMqIpqQjjpUpV,Siavash Amini;Eugene Thacker,Songs for Sad Poets,Burnt Black Eyes (For Sadeq Hedayat),8,490000,False,0.0949,0.365,1,-16.891,0,0.0624,0.0239,0.136,0.246,0.0285,88.571,4,iranian
+0gtYEG8H82KnLUUNoIMdbf,Saeed Dehghan,BLABBER BRAIN,One step away from light,0,235415,False,0.54,0.577,7,-9.545,0,0.0268,0.00415,0.62,0.152,0.164,94.988,4,iranian
+7qnMzmG1idyOaphSDgX3ry,Padra,Dorooghe Maslahati,Dorooghe Maslahati,1,255795,True,0.473,0.882,6,-11.056,1,0.0352,0.0143,0.00279,0.166,0.461,147.04,4,iranian
+0m3X8i1ggDvQOjtEL5CdV4,Kahtmayan,Resurrection 2,Hawja,1,415630,False,0.447,0.905,6,-4.614,1,0.19,0.000136,0.743,0.0824,0.303,136.061,3,iranian
+3HO1JGzpkpKlCscOi9gEZa,AMONGST THE ASHES,Agonizing Awakening,Exordium of Sickness,0,80948,False,0.423,0.853,1,-10.133,1,0.0382,0.00044,0.69,0.145,0.107,89.98,4,iranian
+1zNA2E8XmE1fdlbwgs0tIV,Ali Phi,Left,Lima,0,240000,False,0.144,2.02e-05,2,-22.636,0,0.0954,0.994,0.935,0.14,0.0,135.515,4,iranian
+0nTngWIyuUemR7PpKXTzYP,Electroqute,Nashenakhte,Mohre,0,238420,False,0.396,0.979,2,-3.125,1,0.058,0.00437,4.47e-05,0.339,0.269,180.071,4,iranian
+7wBlQLQ2qnwkKD1fgZBq5k,Ixuol,Abstraction In High Fidelity,Semblance,0,227000,False,0.0762,0.153,4,-25.939,0,0.0422,0.899,0.921,0.109,0.0636,80.026,4,iranian
+4dqqpOUXW63UYb0zEbc1QL,Winterise,The Plague 19,The Plague 19,0,221440,False,0.464,0.939,4,-4.099,0,0.119,1.68e-05,0.0103,0.217,0.113,200.038,4,iranian
+5n6J4TCSoFs72V3z9SAJDv,Electroqute,Fravak,Fravak,0,101617,False,0.639,0.544,0,-10.767,1,0.0414,0.0516,0.845,0.0899,0.405,120.034,4,iranian
+1iOl4xTAymmBuvOckpvq5x,Winterise,Army of Undead,Genocide,0,243957,False,0.276,0.993,2,-3.702,1,0.279,0.00256,0.0,0.419,0.0964,199.457,4,iranian
+4QC8US2hDe4QOXKnFBnT9E,Arash Pandi,Uumphff 0000001,"Alive, it comes",0,578000,False,0.267,0.652,7,-15.022,1,0.0519,0.67,0.959,0.11,0.603,87.848,5,iranian
+73UHxDJhvVTUEAm4hodFGl,PERMEATE,Memories,Hana,0,455750,False,0.679,0.43,0,-12.8,1,0.0928,0.152,0.447,0.086,0.473,120.005,4,iranian
+5O8F0emWN7pBHaY69wKAv9,Arash Azadi,Mathematical Labyrinth,Che / Channel+ Ize,0,532000,False,0.182,0.666,7,-10.157,1,0.0617,0.0463,0.00479,0.284,0.0381,113.025,4,iranian
+0ktH9zTMiYlO3fweU3sVoa,Nyctalllz,"Walk My Way, Volume Two",Chaotic Flow,0,419147,False,0.442,0.594,0,-18.863,1,0.0464,0.0289,0.796,0.059,0.313,97.044,4,iranian
+59fWP3wf56LMiUajhfvmm4,Crows in the Rain,Visions of Darkness (In Iranian Contemporary Music),… (For a Film),0,166186,False,0.289,0.48,5,-11.201,1,0.0389,0.979,0.948,0.134,0.0307,72.565,4,iranian
+2XY5J1Rj6MDHkHOshdlGt1,ArtSaves,Empty Sounds,Flux,0,187573,False,0.164,0.154,3,-15.664,0,0.0331,0.989,0.921,0.106,0.038,77.077,1,iranian
+5BcyxCXrXuw4vsAqAiObWM,Leila Bela,Angra Manyu,Yes! No! I Mean Yes! No I Don't!,0,38333,False,0.0,0.572,8,-16.286,1,0.0,0.872,0.000175,0.119,0.0,0.0,0,iranian
+1vGXRBkkI0wOHViwbDEe3Z,Jaleh Negari,Arch Waves,Inward / Outward,0,162750,False,0.306,0.0569,6,-32.63,1,0.0377,0.577,0.954,0.11,0.0311,122.266,4,iranian
+0Oj0PgoTu9afrMpytqyI3j,From The Vastland,Daevayasna,Sickle of Melmedas,0,355500,False,0.355,0.979,6,-2.859,0,0.111,1.62e-05,0.592,0.368,0.0341,119.823,4,iranian
+7lVctbIJnBdZXeoueoToBV,Rojin Sharafi,Kariz,In The Corner Of Time,0,232000,False,0.334,0.815,6,-12.276,0,0.209,0.00168,0.838,0.262,0.357,158.647,4,iranian
+5rm5Zqktf6v3u9yGj6RR5W,Najand,In the Night of Revolution,Islamic Capitalism,0,60056,False,0.149,0.868,3,3.156,0,0.0767,0.191,0.865,0.625,0.0494,136.188,3,iranian
+3V6iyoiqdJw4SQMCxA5NRH,Baaroot,الکتروهیچ Electrohich,توسن Recalcitrant (Baaroot Remix),0,291859,False,0.583,0.817,10,-5.987,0,0.0402,0.0225,0.785,0.118,0.425,136.04,4,iranian
+6pbJWhqGV7LtRouHJqs7jr,Chaos Descent,Reek Of The Pigs,Reek of the Pigs - Original Mix,0,278094,False,0.543,0.928,7,-4.922,1,0.0568,0.000278,1.77e-06,0.34,0.298,100.01,4,iranian
+0dh4qQH2nscz3tSD2YdhBD,From The Vastland,Chamrosh,Wizarsh,1,381000,True,0.321,0.856,1,-5.032,1,0.0644,2.7e-06,0.954,0.11,0.2,109.843,4,iranian
+5aX0PaxXYOgCMkrqgwtSjF,Idlefon;Nima Pourkarimi,Intensive Collectivity Known As City,Pickers of Empty Cocoons,1,240424,False,0.0786,0.501,3,-13.42,1,0.0472,0.757,0.971,0.235,0.0457,65.215,3,iranian
+24EDPMnbp6xHJhu36lZYGD,Siavash Amini,A Mimesis of Nothingness,Perpetually Inwards,0,178438,False,0.0898,0.199,6,-15.733,1,0.0345,0.0345,0.906,0.112,0.034,86.545,4,iranian
+23aCW41msaLcDJK9J3mxfw,Confess,In Pursuit of Dreams,Dysentery!,0,312048,True,0.466,0.981,9,-1.142,1,0.0797,0.00142,7.21e-05,0.0861,0.226,127.014,4,iranian
+1tcok9uE8wkmFguUQDsJro,Confess,Beginning of Dominion,You Will Payback!,0,274248,True,0.475,0.988,8,-3.732,1,0.158,0.00767,1.44e-05,0.17,0.272,104.946,4,iranian
+0G8CIz35L2yA114yXhRyAW,Spuntic,Hybrid Source,Mineral Ages,0,270863,False,0.193,0.298,0,-19.232,0,0.041,0.858,0.793,0.0987,0.05,138.735,4,iranian
+4WGxNQg4whPTRYGhVNCT6T,Deathtune,Original Sin,Human Puppet,0,262032,False,0.27,0.955,6,-3.762,1,0.0973,3.3e-05,0.000578,0.0724,0.113,160.041,4,iranian
+6rEGltJIWWuugd5roDe4GQ,Najand,The November Revolution,Afaghe Ghoroob,0,42431,False,0.0907,0.953,8,-5.258,1,0.145,0.346,0.864,0.158,0.0337,163.062,4,iranian
+1py1ora7OEB4chQkj2JqDU,Azooma,A Hymn of the Vicious Monster,Chapter II: Eridanus Supervoid,0,511573,False,0.242,0.925,11,-5.486,1,0.108,4.76e-06,0.863,0.255,0.28,140.047,4,iranian
+0HrWkXtyeOULsHmmIdMgLm,Spuntic,Broadcast,Alternate,0,379173,False,0.29,0.0349,9,-26.936,1,0.037,0.823,0.776,0.0488,0.0319,92.004,4,iranian
+1ndUZjwzdDQ8PWyhnZdksI,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 1, Op. 7",Monophony,0,262713,False,0.427,0.0126,5,-21.903,1,0.128,0.874,0.0407,0.168,0.164,77.71,1,iranian
+5EcgUYMPxgwj5sKmhfXn8X,Beshenitar,Around the 13 Sins,Pervert 13,0,273671,True,0.173,0.996,4,-5.615,0,0.235,0.000486,1.8e-05,0.329,0.0322,124.63,3,iranian
+1WIYvgjhQfEwxP5d5LgKBs,Pouya Pour-Amin,Prison Episodes,If Pain Is Condensed There Is No Pain (Fifth Episode),0,264000,False,0.292,0.197,7,-17.993,1,0.0689,0.979,0.832,0.267,0.171,120.694,4,iranian
+5lf4PciIjtV4UHzY3Br3FT,Spuntic,Out of Step,Equilibrium Up,0,194925,False,0.491,0.766,0,-12.838,0,0.108,0.138,0.264,0.144,0.112,113.384,4,iranian
+1ox7rM1pfLt0xhXsRVxDma,Confess,In Pursuit of Dreams,Did You Get My Message?,0,266040,True,0.502,0.988,2,-3.033,1,0.0923,0.000572,0.0,0.196,0.455,130.029,4,iranian
+3CrjBJtf4OMJoezc8tvfFM,Kiawasch Sahebnassagh,"Left Above the Clouds - Piano Classical Themes for Inflight Relaxation, Peace and Calm Music for Antistress Journey",Search,0,312904,False,0.509,0.00533,2,-23.726,0,0.0955,0.984,0.918,0.104,0.132,139.404,5,iranian
+0WEE0Vd1V0NNNruKem6d8t,Idlefon,Anthology of Persian Experimental Music,After the Quake,1,348187,False,0.421,0.464,2,-14.075,1,0.0396,0.586,0.918,0.108,0.167,160.053,4,iranian
+2KfbLq9MawF5QMmjACPOOe,Alireza Mashayekhi;Djamchid Chemirani,Sheherazade,Entezar,0,93600,False,0.608,0.148,7,-31.439,1,0.918,0.879,4.17e-05,0.148,0.291,132.638,3,iranian
+5PCcaOGkfqqRIsJzFMz57g,Kiawasch Sahebnassagh,Zarman,"TEN #9+1:For Clarinet,Bass Clarinet,Saxophone Alto,2 Horns,Harp,2 Violins,Viola and Cello,Ensemble Zeitfluss",0,1512600,False,0.156,0.157,1,-19.52,1,0.0396,0.958,0.29,0.97,0.0369,74.34,4,iranian
+0jdhHawPag29FgbsTm6q7H,Beshenitar,The Great Wound of History,The Great Wound of History,0,184529,False,0.295,0.999,4,-3.66,0,0.0828,0.441,0.877,0.985,0.0253,140.002,4,iranian
+1r5uwAOvgDM6IpA68Dxq31,Tension Prophecy,Death Metal From Iran,Homophobia,0,273819,True,0.238,0.777,1,-5.98,1,0.151,0.0106,0.73,0.254,0.156,92.322,4,iranian
+752bfwICDGzeEHK4CKVysP,Alireza Mashayekhi;Layla Ramezan,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",The Wait,0,280000,False,0.328,0.0588,4,-23.095,0,0.0567,0.989,0.865,0.0758,0.0679,71.226,4,iranian
+6Ks4IDn7LlJAolA70hEUYQ,Crows in the Rain,Dri:m Wan; Därk Blü,Lucid Dri:m,11,596327,False,0.382,0.553,9,-6.902,0,0.0345,0.000585,0.628,0.271,0.0393,130.005,4,iranian
+75ffZ9B8EmTtqoh9vdgeVq,Crows in the Rain,"You Walked with Me Then, Before Night or Day",When There Was Nothing,3,391296,False,0.319,0.139,4,-25.418,0,0.0367,0.927,0.903,0.0808,0.0393,219.971,3,iranian
+7ieHxhrGOqhxsSW2lYkh6c,Farzad Golpayegani,Seven,Drowns with Me,2,404095,False,0.421,0.962,11,-3.857,0,0.0656,0.321,0.875,0.0677,0.697,186.05,4,iranian
+6V2P29vgCUzEyumZpR1hew,AMONGST THE ASHES,Agonizing Awakening,Egoistic Faith,0,296235,False,0.393,0.974,6,-7.388,1,0.0549,1.13e-06,0.871,0.0886,0.231,112.508,4,iranian
+5c5JozaUV4GXLm8Sxnb1ga,Rojin Sharafi,Zangaar,Khesh,4,267000,False,0.465,0.832,11,-5.359,0,0.3,0.149,0.703,0.0956,0.21,137.013,4,iranian
+2XMb1K8wCIMeUCyp1nAnUe,AMONGST THE ASHES,The Fabricated Monolith,Exalted Traitors,0,309833,False,0.54,0.944,5,-5.723,0,0.0445,0.000189,0.065,0.209,0.409,94.964,4,iranian
+1V79amwTMNGkbrypw1jv70,Kahtmayan,Exir,Fogyist,0,271693,False,0.169,0.822,7,-11.769,1,0.0496,4.35e-05,0.753,0.13,0.449,169.94,4,iranian
+6ILTj4NjUiobl12DPuyzaq,Farzad Golpayegani,Two,Thirty One,0,231000,False,0.28,0.908,11,-3.774,1,0.0878,0.00543,0.88,0.113,0.21,142.85,3,iranian
+5jJKSuGdDgWNnJG3et4cVY,From The Vastland,Taurvi,"Taurvi, the Archdemon",6,398749,False,0.169,0.933,1,-3.981,1,0.113,1.53e-05,0.00436,0.176,0.0394,119.919,4,iranian
+6RQ3YBlaRCfup42Pyq3uxv,Soheil Soheili;Sina Shoaie,Re-listening Live in Cafe Baz,Simple - Live,0,374000,False,0.181,0.351,9,-21.483,1,0.0515,0.893,0.952,0.115,0.241,112.707,4,iranian
+09XYxPqHcVFTnPKbC1FGgj,Martin Shamoonpour,Ear 4,Khoov,0,408840,False,0.278,0.113,9,-13.531,0,0.069,0.992,0.205,0.108,0.277,61.527,3,iranian
+0nxt2YWqBTAF96QSMXc0Cm,Electroqute,Make Yourself Heard,Tighe Kond,0,236907,False,0.336,0.783,9,-4.793,1,0.0434,0.000539,3.27e-06,0.468,0.49,170.169,4,iranian
+4VmhnxjttXauthEIexNp49,Mordab,Room No.X,Cold Infection,0,338604,False,0.245,0.971,4,-5.101,0,0.261,1.89e-05,0.792,0.162,0.308,160.313,4,iranian
+4TkS4TxzDNhoA3mpblqNwe,Idlefon,Intensive Collectivity Known As City,Ikigami,0,254360,False,0.615,0.42,5,-15.013,0,0.219,0.609,0.731,0.0958,0.21,167.943,4,iranian
+2edjfa2sNHR2t704JZZCSI,Leila Bela;Alicia Mv,Angra Manyu,Jesus Walked On Water... (feat. Alicia Mv),0,69306,False,0.409,0.499,4,-12.559,1,0.0475,0.812,0.389,0.318,0.405,136.747,1,iranian
+6hlu7yzQtCfzSHLCDJ8K8g,PERMEATE,Memories,Shindo,0,344500,False,0.408,0.292,9,-16.736,0,0.0718,0.737,0.919,0.0929,0.476,120.166,4,iranian
+61rTqYnlQ9sstIpuJc0G6s,Aruman,Noise A Noise 19.4,Thronium,0,183000,False,0.383,0.454,2,-22.056,1,0.081,0.932,0.777,0.11,0.0593,118.984,3,iranian
+4jukNZntVjeszWQcAtMsr4,Pouya Pour-Amin,Prison Episodes,For I Wasn't Steel,0,417375,False,0.14,0.112,7,-23.918,1,0.0448,0.939,0.88,0.0525,0.0752,140.392,5,iranian
+5ThhwQwMmL375tNjnnWzj0,Soheil Soheili,Noise A Noise 19.4,When Does A Kid Start To Talk,0,170015,False,0.242,0.344,11,-23.323,0,0.0804,0.443,0.533,0.116,0.0351,92.106,3,iranian
+5a0WNtSEu71iVDUtYMPOZc,Baramant,Homarg,Delusion,0,303278,False,0.372,0.841,2,-3.838,0,0.0397,0.000687,0.762,0.275,0.545,110.002,4,iranian
+0i7S1w2t59eGwQYqHF4C2h,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,The Waterfront,0,290306,False,0.486,0.807,6,-9.928,1,0.108,0.106,0.798,0.232,0.354,107.937,4,iranian
+2mnAJ4pbEJR8EHi0TeJIjH,Zhoobin Askarieh;Stampf!,Noise a Noise 19.3,Resonance,0,196383,False,0.167,0.449,1,-11.707,1,0.0572,0.987,0.831,0.398,0.0378,84.375,1,iranian
+2RKyhXPVOl3jIzUs8WYTkN,Zhoobin Askarieh,Noise A Noise 19.2,Deej and Breath,0,178000,False,0.253,0.0684,5,-23.622,1,0.046,0.775,0.929,0.19,0.0307,77.048,4,iranian
+6JhSW5ECdT9htNSmxP7XjO,Out of Nowhere,Man Made Disaster,Unspoken,0,234000,True,0.382,0.446,9,-5.931,0,0.0273,0.46,0.0,0.138,0.103,139.725,4,iranian
+4dOAWTFIw6VCL1w6NBrx5X,Alireza Mashayekhi,Happy Electronic Sounds,"Yaad, Op. 66",0,468662,False,0.0579,7.63e-05,9,-10.088,0,0.0818,0.96,0.79,0.202,0.94,75.297,3,iranian
+5yX3TwXTFT3CxVw9FnSpV2,Mehdi Khayami;Martina Rudic;Maria Grazia Bellocchio,Mehdi Khayami: Kamanche Concerto,Canto delle menti,0,441680,False,0.316,0.457,7,-9.534,1,0.0434,0.627,0.664,0.0812,0.105,137.354,4,iranian
+1wkE3OwkzpEvf9CCxturAp,Najand,In the Night of Revolution,Despotism,0,369754,False,0.142,0.687,7,-0.487,0,0.0451,0.0164,0.775,0.33,0.0757,140.019,4,iranian
+5nKcasiyVBnu0qHvCoC26t,ArtSaves,Empty Sounds,God's Guest,0,191250,False,0.206,0.336,9,-14.156,0,0.0419,0.945,0.845,0.107,0.0397,143.608,4,iranian
+6QItnqxIr7CCSZ4QoSmsnb,Soheil Soheili,Visions of Darkness (In Iranian Contemporary Music),Laboratory,0,339560,False,0.101,0.516,7,-12.037,0,0.0563,0.973,0.573,0.0738,0.0324,91.042,3,iranian
+3zHJa7DWse9WLEZqU0g0MZ,Najand,In the Night of Revolution,The Corruption,0,336666,False,0.159,0.895,6,0.072,0,0.0924,0.00148,0.735,0.087,0.118,82.219,4,iranian
+3KZ72YyftIV2SzjVuOAg3G,Ekwon,"Born in Shroud, Dead in Womb",Captivity Spinal Cord,0,282454,True,0.506,0.975,7,-4.609,1,0.0763,4.31e-06,0.933,0.402,0.102,119.946,4,iranian
+4gEDWJKX2Lykhu6CtMA4O2,Hadi Bastani,COLD HOUR,DARKDARKNIGHT,0,721801,False,0.114,0.009,1,-26.63,0,0.376,0.555,0.81,0.275,0.0466,48.296,4,iranian
+4cfXUh0ZHbaJkY5S3PeaQ0,Asef Akbari;Salar Mahoor,Wet And Warm,Mosque (feat. Salar Mahoor),0,220696,False,0.347,0.543,5,-12.695,0,0.0311,0.968,0.969,0.092,0.218,99.996,4,iranian
+4rof1QpD8Ah8j6YDUFkBVx,Helzgloriam,Decapitated mystics of the serpent,Fosil,0,254401,False,0.2,0.938,3,-5.112,0,0.0808,1.71e-05,0.927,0.347,0.212,114.962,3,iranian
+08bqklxd1VqrZAl4xEr48K,Idlefon,COLDSTREAM,Deadbeat (stiffnumbdirtycold),1,404956,False,0.471,0.625,3,-13.005,0,0.0357,0.043,0.921,0.0523,0.0515,116.017,4,iranian
+1E0xtCVFmm5yctuXhApi3K,Ekwon,"Born in Shroud, Dead in Womb",The Bullets of Vindication,0,79545,True,0.26,0.304,2,-16.664,1,0.043,0.803,0.8,0.0812,0.0364,119.542,5,iranian
+3QcWr1pBSbCkqKiLfx1T6P,Ekwon,"Born in Shroud, Dead in Womb",Rfid,0,331090,True,0.263,0.959,7,-4.329,1,0.0914,3.85e-05,0.908,0.851,0.179,180.422,4,iranian
+3fqOEqy0nbLH9qhODmFc8q,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,Sheherazade,Khashm,0,101800,False,0.597,0.219,9,-28.775,1,0.269,0.926,0.00945,0.155,0.14,92.121,4,iranian
+0yP5DBSmybHbVfZmNwXvYv,Martin Shamoonpour,8 Bit,Dokhtare Boyerahmadi (Folk Song),0,165506,False,0.485,0.413,7,-7.927,1,0.0845,0.68,0.371,0.252,0.474,87.351,4,iranian
+1EimadSIBpcCaShv4cicmp,Chaos Descent,When Life Leads Us to Death,Game of Illusions - Original Mix,0,207174,False,0.543,0.948,9,-4.948,1,0.083,0.000809,0.0,0.407,0.271,100.039,4,iranian
+0o28lIvk1p4gXuAPSBDr8w,Confess,In Pursuit of Dreams,See You Other Side,1,280031,True,0.369,0.99,8,-2.189,1,0.093,0.000151,0.000161,0.309,0.443,144.761,4,iranian
+3M5Zi81qo5qkJjaTyWlftb,Beshenitar,The Great Wound of History,Why Me ?,0,264662,False,0.11,0.982,7,-5.498,1,0.0589,0.474,0.78,0.175,0.0334,153.511,4,iranian
+6ZTt8P7rjmJQLNidpgairA,Beshenitar,Around the 13 Sins,Spiritual Brothel,0,379402,True,0.261,0.988,2,-6.009,1,0.203,0.000588,0.102,0.0957,0.0332,119.915,4,iranian
+5nrrSEDTKmp4AeQQgO8Qgp,Alireza Mashayekhi;Layla Ramezan,Sheherazade,The Wait,0,280000,False,0.414,0.0591,4,-23.095,0,0.0502,0.989,0.868,0.076,0.0689,136.27,4,iranian
+6I5a59MWumcKQM1SJSghj4,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 1, Op. 7",Homophony,0,383085,False,0.303,0.148,7,-17.01,1,0.0817,0.914,0.346,0.192,0.0771,165.211,3,iranian
+67S5xcdFdw1vNbk9qBrVMx,Deathtune,Insanity,Core Corrupter,0,252396,False,0.237,0.996,11,-2.875,1,0.264,6.84e-05,1.32e-05,0.893,0.058,154.996,4,iranian
+0nnsYOQ4VWkKxGuLGH9ygH,Kiawasch Sahebnassagh;Masoud Shaari,Zarman,KAVA:For Setar and Orchestra (Amsterdam New Ensemble),0,951946,False,0.286,0.108,7,-29.197,0,0.0445,0.828,0.134,0.728,0.113,103.846,3,iranian
+70JFlzQNUq5CiiU0PaicfA,Spuntic,Between Green,Recurrance Time,0,214674,False,0.301,0.361,2,-20.417,1,0.0771,0.933,0.941,0.122,0.0568,196.981,4,iranian
+0sHDMFdpOH9nG2xVq3PDgV,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 40,0,167000,False,0.287,0.186,0,-13.963,0,0.0342,0.916,0.0329,0.166,0.532,58.628,5,iranian
+566a7dTOVVrlkxInf393R4,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",Nabard,0,101600,False,0.556,0.0765,6,-30.873,1,0.655,0.928,0.000128,0.18,0.251,94.727,3,iranian
+13tBiz5lPt3DErMwVF3pVi,Saeed Dehghan;Rez,Vintage Effort,Beyond,6,393560,False,0.525,0.447,0,-9.793,1,0.158,0.694,0.00154,0.109,0.165,172.104,4,iranian
+6ClAnV6RJd2If9Q6ocI6tB,Farzad Golpayegani,Eight,Bliss,4,331665,False,0.537,0.957,11,-4.69,0,0.0457,0.00146,0.895,0.325,0.799,138.001,4,iranian
+45T11Ey12nVekb44NvPnZ1,Farzad Golpayegani,Seven,The Path,4,453387,False,0.296,0.936,11,-5.425,0,0.105,0.235,0.478,0.0967,0.332,124.048,3,iranian
+3buNRMnjO8hdVoX9EVZ4Qd,Farzad Golpayegani,Eight,All That I Get,4,303092,False,0.464,0.973,1,-4.193,0,0.0881,0.00105,0.623,0.338,0.577,119.966,4,iranian
+0rfGvRm6rp9OjeORjM5Sbv,Farzad Golpayegani,Five,77,4,319259,False,0.13,0.759,11,-4.84,0,0.0399,0.0628,0.0484,0.282,0.218,96.137,4,iranian
+6MDjPN9iHxm1ZYlXPZXmTl,Shivered,Disfigured Heart,Disfigured Heart,0,448150,False,0.519,0.783,8,-6.478,0,0.0378,0.000317,0.000403,0.0907,0.257,119.977,4,iranian
+3qSaeaXmtOuzkqe7DKgoiM,Leila Bela,Angra Manyu,V-7,0,21120,False,0.229,0.0577,8,-27.96,0,0.196,0.626,0.931,0.108,0.253,172.897,4,iranian
+4tU5lDV1TwvnICIGreHKrT,Saba Alizadeh,Scattered Memories,Would You Remember Me,4,312958,False,0.221,0.268,11,-16.883,0,0.0392,0.74,0.332,0.0921,0.0379,102.584,4,iranian
+6Lc709aHTnajQADuMXT5KG,Soheil Soheili,Noise a Noise 20.2,Life,0,72000,False,0.428,0.559,10,-16.581,1,0.357,0.025,0.704,0.145,0.129,113.838,4,iranian
+1HOg2GSsPntTUiNFWORBWs,Farzad Golpayegani,Two,Thirty,0,163000,False,0.377,0.963,9,-1.076,1,0.108,0.119,0.909,0.115,0.239,137.932,1,iranian
+6hsyfegVY5yklJneM40mWi,Leila Bela,Angra Manyu,The Exorsism Begins...,0,8586,False,0.0,0.04,8,-29.714,0,0.0,0.928,0.956,0.115,0.0,0.0,0,iranian
+5avw06usmFkFrPjX8NxC40,Zhoobin Askarieh;Ali Sasha,Noise A Noise 20.4-1,"Save the Trees, Pt. 1",0,213578,False,0.173,0.803,9,-10.071,0,0.144,0.613,0.00191,0.195,0.0887,75.564,3,iranian
+7IA5h1VqPxEfb3qhWwiLD9,Saba Alizadeh;Andreas Spechtl,I May Never See You Again,Phasing Shadows,1,393066,False,0.108,0.553,8,-12.463,1,0.0828,0.177,0.468,0.322,0.0369,76.403,4,iranian
+1Ibd3kgSiiW9lf9NuqM2WO,Baaroot,الکتروهیچ Electrohich,دمادم Incessant (Baaroot Remix),0,295888,False,0.529,0.862,9,-7.248,1,0.0342,0.00207,0.848,0.241,0.557,112.005,4,iranian
+05d1hnh7VOufBSEUBv7URE,Electroqute,Fravak,Shabhaye Vazhgoon,0,220526,False,0.351,0.941,0,-4.401,1,0.135,0.00366,6.55e-06,0.245,0.518,172.959,3,iranian
+0Nr5hfFXDsBybUtUI1L4mx,Mehdi Khayami;Kelariz Keshavarz,"Iranian New Waves, Vol. I",Mastoor (Solo Flute),0,284378,False,0.411,0.0396,4,-23.961,0,0.107,0.945,0.0874,0.0728,0.0704,103.838,5,iranian
+04SeRBEjAm4maPWT7UHACY,Garhelenth,About Pessimistic Elements & Rebirth of Tragedy,Destruction of the Will,0,325920,False,0.265,0.933,10,-7.161,1,0.0562,0.00658,0.567,0.392,0.0943,165.244,4,iranian
+0cY4bV0Pz0uUuMeuXg4kfd,Angband,Visions of the Seeker,Blind Anger,0,314640,False,0.374,0.95,1,-5.372,0,0.138,1.89e-05,0.00119,0.13,0.455,180.148,4,iranian
+7rp7NfjCrpKJeMSf96mLgs,Soheil Soheili,Noise à Noise 21.3,Mixed Feelings,0,160000,False,0.168,0.0584,7,-32.192,1,0.0464,0.944,0.85,0.0907,0.0377,68.544,5,iranian
+2JYF731XqpGGBezlD9Gdwi,Electroqute,Az Man Ta Man,Az Man Ta Man,0,218123,False,0.332,0.926,11,-3.12,0,0.161,0.00536,0.0,0.193,0.337,85.353,4,iranian
+2kHNiu4sgC7Qg9xp7XcokR,Leila Bela;Leila's Cat Loralie,Angra Manyu,One Night (feat. Leila's Cat Loralie),0,71453,False,0.571,0.309,10,-15.616,1,0.247,0.201,0.00885,0.337,0.294,93.005,4,iranian
+0nSXZcdj8lPLwAHP5D7xFo,Parsa Shomali,Girih: Iranian Sound Artists,Howl,0,254000,False,0.258,0.247,0,-17.379,1,0.0412,0.904,0.934,0.608,0.039,120.3,4,iranian
+5vfgZiNSui7mwBXmGWwAfY,PERMEATE,Memories,Imipramine (Pt.1),0,263750,False,0.262,0.189,4,-17.926,0,0.0354,0.991,0.91,0.103,0.0589,68.953,3,iranian
+2bTESUiaqSWDvyW9zSA6xG,Confess,Beginning of Dominion,Quit the Addict,0,292343,False,0.46,0.963,3,-4.572,1,0.137,5e-05,0.909,0.201,0.145,109.994,3,iranian
+5SB0bNYWi2mSprkqxDVRnc,Najand,The November Revolution,Taoon,0,55680,False,0.311,0.854,10,-3.875,0,0.0552,0.213,0.469,0.932,0.136,104.129,4,iranian
+3peugzjeSnbPiBeJO2mEiR,Deathtune,Original Sin,A Planet of Overlords,0,336037,False,0.347,0.883,9,-4.416,0,0.0759,0.000122,0.00377,0.283,0.0574,97.25,4,iranian
+5pNH860FWVxhNfzciJKN7w,Leila Bela,Angra Manyu,Incubus in the Night,0,79173,False,0.365,0.134,7,-38.409,1,0.59,0.871,0.126,0.118,0.175,142.34,5,iranian
+18uzs1XuC9hnldv9ELddlZ,Zhoobin Askarieh;Ali Sasha,Fifth Dimension,Storm,0,480653,False,0.194,0.948,7,-6.784,1,0.0641,0.000518,0.735,0.41,0.375,185.063,3,iranian
+4h3jt7LLbj2hUxizYt00Ip,Asef Akbari,Perplexed,sa'adabad palace,0,117800,False,0.453,0.303,0,-14.778,1,0.029,0.84,0.88,0.0886,0.0597,99.976,4,iranian
+5CA8s5OjedN3QeXqX5VeVk,Najand,In the Night of Revolution,Hear My Scream,0,60056,False,0.176,0.997,8,-4.698,1,0.194,0.00275,0.772,0.559,0.0321,119.706,4,iranian
+5Sl4pcL8zbTl1I9j4GQJEO,Najand,Spectre of Revolution,Dar Ghafas,0,47151,False,0.182,0.642,1,-3.204,1,0.0574,0.819,0.0395,0.333,0.17,121.625,5,iranian
+4rdiaPrUHc2k18yfzQr9jH,Atria,Reincarnation,Last Winter,0,216000,False,0.507,0.976,2,-3.871,1,0.215,2.08e-05,0.00393,0.224,0.111,130.023,4,iranian
+5YbUjnz1RDHAOIvLFUbG3b,Garhelenth,The Mysterious Kingdom,Funereal Face,0,198192,False,0.223,0.868,0,-8.431,1,0.0685,6.37e-06,0.771,0.346,0.0372,149.836,3,iranian
+0JzP94lDbNcvCjlJwgs3m9,Atria,Reincarnation,Maze of Flames,0,211977,False,0.482,0.984,7,-2.802,1,0.203,7.29e-06,0.28,0.189,0.217,135.104,4,iranian
+6okqufCAVzQquOT8gmLWsE,Najand,Spectre of Revolution,Koohestan,0,60107,False,0.163,0.994,1,-4.357,1,0.255,0.00119,0.844,0.613,0.0298,130.483,3,iranian
+7HtWjBKThgsmg8tlDQmHVS,Chaos Descent,When Life Leads Us to Death,Faces - Original Mix,0,233280,False,0.293,0.968,7,-4.714,1,0.111,3.91e-05,1.51e-06,0.366,0.119,110.018,4,iranian
+1EUiKtx27ITSBk4OgrpLlt,Kiawasch Sahebnassagh,Schlaflied unter der Ruine(Lalai zir-e Avar) - Music fur Ensemble & Computer,Versuche No. 4 :Fur Computer,0,397040,False,0.381,0.268,1,-17.201,1,0.0906,0.292,0.799,0.122,0.0397,169.605,3,iranian
+1VHxmBxtPxLmI5Ffb8W35O,Najand,In the Night of Revolution,A Better World Is Possible,0,60056,False,0.244,0.499,2,1.864,1,0.0794,0.241,0.718,0.801,0.0347,99.663,3,iranian
+21KDvAfVDsJOHtcitdpHsZ,XERXES THE DARK,The Rise Of A.I.,Nuclear Winter,0,301394,True,0.585,0.586,11,-10.425,1,0.0419,0.0994,0.549,0.134,0.157,115.989,4,iranian
+7HaM0LcqJC89BZHgQGIjBE,Confess,In Pursuit of Dreams,The Alphabet of Power,1,324911,True,0.22,0.96,7,-1.924,1,0.084,0.000368,1.58e-05,0.0631,0.213,151.782,4,iranian
+30CGcie8vHilBve5alVMCn,Martin Shamoonpour,Tehransaranieh,Brain-Strung,0,286466,False,0.397,0.055,9,-21.124,0,0.0499,0.983,0.501,0.112,0.0393,118.105,5,iranian
+2fGCeXhk6kUvciF4WsoeXq,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 4 (Zagros), Op. 103","Movement, No. 1",0,375248,False,0.193,0.236,6,-17.455,0,0.0375,0.919,0.742,0.137,0.0339,78.039,4,iranian
+59ZsoLhvMPywknUohMX3h9,War Angel,Symphony of the War,Reflections,0,105333,False,0.531,0.973,9,-3.59,0,0.0895,0.000343,0.801,0.589,0.289,120.044,4,iranian
+1zLzZO8b2xnD2GUOtHwBzh,War Angel,Symphony of the War,Pain Collector,0,213815,False,0.453,0.847,9,-4.888,0,0.0561,2.8e-06,0.0115,0.159,0.166,89.998,4,iranian
+77gshiuAkT0Y11Iq87lZc3,Connate Exasperation,Delusional Primacy,Labyrinth Of Darkness (instrumental),0,68423,False,0.535,0.455,0,-14.741,0,0.0643,0.557,0.228,0.169,0.775,73.372,3,iranian
+4dmvVyGO523KApU0M19ldi,From The Vastland,The Haft Khan,Khan e Haftom,0,398142,False,0.318,0.792,1,-7.75,0,0.0521,2.43e-05,0.869,0.111,0.137,104.975,4,iranian
+2LumQdPgiATfWhnUYwawne,XERXES THE DARK,The Rise Of A.I.,Domination of Humanoids,0,224708,False,0.313,0.413,1,-13.005,0,0.0683,0.037,0.00273,0.0802,0.0698,143.984,4,iranian
+1hTwJG5eqFX2Le9A8aaccu,Tension Prophecy,Asylum of Humanity,Transmigrator,0,267458,False,0.394,0.931,2,-4.507,1,0.14,0.00547,0.388,0.22,0.224,139.718,4,iranian
+5mBYqylcOxRrT0kwo5IwF3,Alireza Mashayekhi;Farimah Ghavamsadri,"Left Above the Clouds - Piano Classical Themes for Inflight Relaxation, Peace and Calm Music for Antistress Journey",Short Stories I,0,125879,False,0.352,0.04,2,-23.984,0,0.0515,0.992,0.915,0.11,0.123,64.985,3,iranian
+5QW8Em9liiCdAAVk1G0byr,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 5 (Persian), Op. 112","Movement, No. 2",0,500088,False,0.0709,0.127,5,-19.177,1,0.0433,0.968,0.868,0.0759,0.0346,76.002,3,iranian
+00YTxvwAzd8SfrXdBQU1yZ,Ali Ostovar;Hani Mojtahedy;Shahram Mohamadi,Lalai,Lalai,1,1482242,True,0.148,0.447,5,-16.201,1,0.105,0.921,0.142,0.113,0.0678,74.969,3,iranian
+40eZosWnfFnCPyk94awG7a,SarrSew,Reptile,Reptile,3,197250,False,0.311,0.306,1,-14.097,0,0.0377,0.852,0.0911,0.0683,0.0356,159.983,4,iranian
+5ALSImql3m73owzxAhheKC,Farzad Golpayegani,Nine,Unremembered,4,267212,False,0.459,0.541,11,-10.793,0,0.0283,0.318,0.929,0.104,0.229,150.067,3,iranian
+3QJlUOdlJNe4K1RIMx74vj,Saeed Dehghan,BLABBER BRAIN,And more,0,195335,False,0.611,0.582,9,-7.95,0,0.0603,0.0635,0.351,0.0841,0.251,169.957,4,iranian
+3m2jKnyeVKdTDFphqa2vou,Crows in the Rain,You Are Dying in My Arms (the Frozen Last Gasps),You Are Still Here Floating (For a Film),12,404210,False,0.141,0.172,11,-20.212,0,0.0373,0.982,0.938,0.117,0.0561,92.853,3,iranian
+0WAYh1LjL3RLXRjCrq7ePb,Tegh;Adel Poursamadi,Ima ایما,Regh`e رقعه,4,454000,False,0.222,0.216,5,-14.619,1,0.0336,0.0932,0.635,0.129,0.0358,78.047,3,iranian
+0hOOs7nsnDt9LvWaW3vi1s,AMONGST THE ASHES,Agonizing Awakening,Spreading the Deception,0,283896,False,0.398,0.918,6,-6.989,1,0.0421,1.75e-05,0.292,0.354,0.409,170.05,4,iranian
+5R4EvuUtijF26RWjt5sJ37,Rojin Sharafi,Zangaar,Ghaaf Kaaf Gaaf,0,251000,False,0.293,0.743,11,-7.82,1,0.0725,0.386,7.85e-05,0.115,0.0874,106.629,3,iranian
+3mOU8YiXGJpemYdO6Nujbh,Azhirock,Rope,Blindness,0,296438,True,0.396,0.976,7,-3.214,0,0.0681,0.000572,5.96e-06,0.344,0.517,159.947,4,iranian
+0ud459fDXZIdEwjHyvAaJK,Jaleh Negari,Arch Waves,Sval,1,249500,False,0.0663,0.00125,9,-26.909,1,0.0445,0.871,0.92,0.11,0.0266,78.273,4,iranian
+0n7xzlseXIha1RBIyDU5kT,Farzad Golpayegani,Nine,Intergalactic Controversy,4,309537,False,0.511,0.961,7,-9.751,1,0.0693,0.0501,0.865,0.126,0.229,114.984,4,iranian
+1epgq5vlHppDLBBNxKzpvL,Padra,Hezartooye Tanafor,Gor,1,274500,False,0.165,0.995,7,-3.26,1,0.15,0.00093,6.84e-05,0.217,0.132,74.993,4,iranian
+7HYZh4T8Za7ct2fgtNApTl,Ahoora,20.30,E 20.307 W,0,180980,False,0.644,0.899,7,-5.758,1,0.0773,0.0673,0.829,0.219,0.526,130.014,4,iranian
+6tqocy1jxCNrd2pisWeQgN,Kiawasch Sahebnassagh,Clouds,Abaie,0,237733,False,0.525,0.00778,1,-30.93,1,0.0468,0.861,0.0301,0.0532,0.143,116.288,4,iranian
+3CWgfIUbh0gQuJhAzCnMpD,Calibre,The Storm Inside,Faith in Me,2,241760,True,0.511,0.964,7,-4.255,1,0.131,0.000387,1.97e-05,0.245,0.336,100.016,4,iranian
+3ynr2oLPYoat1oMaR2J8lp,Calibre,The Storm Inside,The Agony,3,209760,True,0.317,0.991,7,-3.498,1,0.284,0.000367,1.85e-05,0.321,0.0801,199.837,3,iranian
+15rRzICEGoYHUCMTqeO3Um,Leila Bela,Angra Manyu,Chaos to Calm,0,56400,False,0.355,0.0521,1,-16.822,1,0.035,0.79,0.257,0.0738,0.0395,109.315,4,iranian
+15d5KE4LxgkqkwFLeuwzIL,Baaroot,From Void To Void,Incessant (Damaadam),0,320908,False,0.541,0.747,6,-5.382,0,0.0508,0.316,0.0163,0.07,0.291,164.047,1,iranian
+55Ao802G1sCVwtBPeoelmg,Idin Samimi Mofakham,Concertos,Rajaz,0,1085962,False,0.327,0.0659,5,-19.252,1,0.0484,0.965,0.556,0.0977,0.0386,137.993,4,iranian
+5GnnXxXPvLP5lGyoGi6XnJ,Kiawasch Sahebnassagh,...und hier in der Stille (...va inja Sokut) - Klavier Improvisation,Mim,0,356280,False,0.534,0.00983,2,-27.208,0,0.0633,0.991,0.919,0.0901,0.27,140.663,3,iranian
+1JOAUi8Am1tNi5mT1Wv5Sk,Leila Bela,Angra Manyu,Waiting On April... for You,0,62293,False,0.429,0.27,10,-14.574,0,0.0955,0.936,0.0109,0.101,0.22,142.66,4,iranian
+4n18ieCPDxLez1ac36X7ID,Parsa Hadavi,Noise A Noise 19,Methamorphosis For Tapes (Homage A Gholamali Margiri),0,399656,False,0.254,0.61,0,-11.695,1,0.274,0.654,0.0215,0.182,0.0349,115.766,3,iranian
+0GPpE23osh7S4kW2xZ55aV,Asef Akbari,Wet And Warm,Women,0,369463,False,0.259,0.197,0,-20.717,0,0.0376,0.816,0.906,0.0781,0.0378,90.128,4,iranian
+21nJk7FMeQQXixCStCTEGL,Ekwon,"Born in Shroud, Dead in Womb",Limbo,0,295636,True,0.39,0.937,5,-4.096,1,0.0957,1.74e-05,0.724,0.38,0.0952,124.765,4,iranian
+5KKLPddFUVBaoyBlHUzKwc,Siavash Amini,The Waterfront,Doxa 4,0,211279,False,0.558,0.841,4,-10.089,0,0.0598,0.221,0.946,0.0873,0.206,101.061,4,iranian
+7M9rxkx4HV7BR0dosAkLyS,Electroqute,Fravak,Malikhoolia (Acoustic),0,154019,False,0.51,0.412,0,-8.447,0,0.0364,0.629,0.0,0.193,0.247,78.972,4,iranian
+5ks32klX2WiEwS1GWLjPcy,Kiawasch Sahebnassagh,Moments,Search,0,315186,False,0.476,0.00226,2,-32.357,0,0.0884,0.974,0.871,0.114,0.129,106.389,4,iranian
+6YMoGzAKTQwwEgoMCtwVmz,pan-tea,Girih: Iranian Sound Artists,a čât in a basket,0,306000,False,0.428,0.707,5,-10.873,0,0.135,0.142,0.00197,0.363,0.18,74.732,4,iranian
+5ZYNpdrM6j9KGwFGjvqU2o,ArtSaves,Decay,Stepping away from completion,0,297750,False,0.0705,0.363,4,-11.673,0,0.0401,0.000144,0.839,0.12,0.0432,178.957,4,iranian
+6ISL67TgYWXV5eJgAvjpqM,Negin Zomorrodi,InMigration,Farasoo,0,136706,False,0.34,0.139,4,-21.879,1,0.0425,0.641,0.806,0.1,0.0295,66.498,3,iranian
+57PrPsRXju4qHoghYmHr11,Atria,Reincarnation,Rise Again,0,225500,False,0.519,0.913,7,-3.998,1,0.0975,5.31e-06,0.00334,0.235,0.396,134.973,4,iranian
+6RMI0OqWk9pIq2pysPrmm6,Idin Samimi Mofakham;Ostravská banda,Concertos,Ludus Consonus X,0,607093,False,0.157,0.275,4,-17.544,1,0.0621,0.945,0.882,0.654,0.0306,90.822,3,iranian
+3i0YpoHtYF8J6PKllVtQND,Confess,Beginning of Dominion,Why?,0,378044,True,0.463,0.946,1,-3.651,1,0.0582,0.000149,0.000195,0.554,0.219,119.977,4,iranian
+3qPNjKxDI3y9wMK1ht4VdZ,Chaos Descent,A New Clear Dawn,A Walking Disease,0,223716,False,0.413,0.955,2,-6.402,1,0.14,5.45e-05,0.00283,0.308,0.159,199.955,3,iranian
+7iKtJNcPLSLVQ4wDYJi2rG,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Ornamental,0,591373,False,0.146,0.856,5,-6.39,0,0.183,0.269,0.000504,0.357,0.0616,176.487,3,iranian
+1RImsC2cXo5eYIYrI0mV9k,Rojin Sharafi,Girih: Iranian Sound Artists,Pulp,0,509382,False,0.441,0.722,8,-12.516,1,0.103,0.506,0.833,0.16,0.0772,124.523,4,iranian
+0WcALqtM7nYmZ6SjwGoULv,Martin Shamoonpour,8 Bit,Gole Pamchal (Folk Song),0,113000,False,0.106,0.53,0,-8.175,0,0.0341,0.508,0.86,0.125,0.687,80.563,4,iranian
+1GRzcUnUJQVBj3v1eX9gIa,Jaleh Negari,Weaver ~,cluster of knots,0,255817,False,0.328,0.296,1,-15.583,0,0.0605,0.703,0.853,0.0715,0.0321,163.678,4,iranian
+2aYA9DWarjj1CU2MlUueac,Najand,Anarcho-Nihilist 13,Dance of the Death,0,53780,False,0.233,0.975,8,-6.892,1,0.132,0.409,0.975,0.23,0.0397,122.636,3,iranian
+7KHFUf8l9XnUWKHd81h6Fs,Integral Rigor,No More Room in Hell,Saint Malaria,0,158373,False,0.259,0.634,9,-8.269,0,0.0451,9.97e-06,0.964,0.0819,0.359,179.897,3,iranian
+6rqQLWxBsZxpwgL2RPoAFz,Spuntic,Foundation,Fluid Motion,0,214229,False,0.196,0.308,4,-15.677,1,0.0383,0.804,0.942,0.209,0.0323,66.054,3,iranian
+2vFtNc8C0UEeRPk3lYQLiW,Spuntic,Foundation,Lightfall,0,198388,False,0.0849,0.177,6,-27.363,1,0.0482,0.752,0.92,0.112,0.0455,85.435,4,iranian
+7qp6YCC0NO9YT5cvn9yk6M,Hadi Bastani,Emergence,Spin,0,212504,False,0.199,0.159,1,-25.032,1,0.0736,0.38,0.0495,0.0807,0.0798,87.197,4,iranian
+0I6tLKtYuFMng80RfjNnOY,Spuntic,Foundation,Sleep and Waking,0,297612,False,0.0653,0.103,0,-20.006,1,0.0383,0.979,0.966,0.0811,0.0352,73.618,5,iranian
+1vAkBBx58jXCJJZ7XyYZe7,Tension Prophecy,Death Metal From Iran,Eremophobia,0,163815,True,0.462,0.934,1,-6.506,1,0.0974,0.000697,0.502,0.0965,0.38,160.03,4,iranian
+20GytYCQtNR7SgLssSKa3V,Alireza Mashayekhi,Persian Electronic Music Yesterday And Today1966-2006,"Stratosphaere 1, Op.46",0,642173,False,0.43,0.617,1,-17.313,1,0.45,0.293,0.198,0.387,0.0654,102.004,4,iranian
+2FC9lpKcJHPSueHEz6XEIS,Alireza Mashayekhi;Farimah Ghavamsadri,"Left Above the Clouds - Piano Classical Themes for Inflight Relaxation, Peace and Calm Music for Antistress Journey","Pearls, Op. 118: III. —",0,109532,False,0.279,0.107,4,-22.117,0,0.0424,0.992,0.919,0.074,0.111,107.117,3,iranian
+3hTbZfEiLxWgaaH1Ld03ja,Alireza Mashayekhi;Layla Ramezan,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",The Fury,0,129000,False,0.377,0.0554,10,-20.891,1,0.0518,0.969,0.755,0.0595,0.066,140.067,5,iranian
+0Vv8mtbxZZlj1dT4sILr67,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate I Opus 44 Pour Violoncelle Et Piano,0,482226,False,0.231,0.0355,11,-21.103,1,0.0486,0.944,0.845,0.0638,0.039,74.291,4,iranian
+6bWSlgj7GqYXsorKurrxTJ,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate II Opus 116 Pour Violoncelle Et Piano - 1er Mouvement,0,312533,False,0.3,0.0869,4,-20.124,0,0.0401,0.97,0.832,0.0975,0.0353,83.755,3,iranian
+0NggnKLa7YMlISb2Ywq5FO,Crows in the Rain,They Sing Sagas of My Death (Live),They Sing Sagas of My Death,13,560093,False,0.135,0.462,9,-10.897,0,0.0367,0.0162,0.916,0.19,0.0505,77.291,4,iranian
+0BHRumGwcRNsQQVueMzOEM,Out of Nowhere,Dying Sun,Dying Sun,20,187058,False,0.418,0.942,11,-4.984,0,0.136,2.61e-05,0.00348,0.0664,0.376,170.046,4,iranian
+4Pt9L31h9Quefi8rJuOF9e,Tegh,Night Scenes,Autumn,2,408000,False,0.0608,0.388,9,-14.326,1,0.0411,0.847,0.934,0.104,0.0671,66.081,4,iranian
+2jkNjOmDds1GjQolbVvSvA,SarrSew,Girih: Iranian Sound Artists,"Farewell, Warden.",5,234000,False,0.194,0.175,4,-15.767,0,0.0328,0.252,0.00439,0.0681,0.0381,94.385,4,iranian
+5ynCNwoLOOHoJU4N40m97V,Padra,Nahs,Nahs,2,260000,False,0.486,0.978,8,-2.591,1,0.0934,0.0005,0.0,0.203,0.397,100.012,4,iranian
+0PXTu11gdAVT9CNi3rI1Et,Saeed Dehghan,BLABBER BRAIN,Second Life,0,188135,False,0.18,0.504,2,-9.646,1,0.0416,0.0148,0.881,0.173,0.0379,157.924,4,iranian
+1XBV62Ns9YlPTnUrsvDLaT,Azhirock,Rope,Flag,0,305947,True,0.53,0.971,8,-3.678,0,0.0678,0.00122,0.0368,0.361,0.574,105.01,4,iranian
+0bIrcwIgsmq1vB2SNvP68C,Azhirock,Lucifer : Annihilated,Annihilated Lucifer,1,214455,False,0.548,0.946,4,-6.376,0,0.0746,0.00671,0.000685,0.265,0.411,180.049,4,iranian
+3U4YZMVZV4CEbYAi6apKvF,From The Vastland,Chamrosh,Kresaspa & Seven Daevas,1,320250,True,0.17,0.86,5,-4.216,0,0.0684,5.54e-06,0.95,0.306,0.107,120.195,4,iranian
+02YubixxXSYIBLlP8EyIJf,From The Vastland,Taurvi,Spanjaroush (Bonus Track),6,402000,False,0.157,0.96,6,-4.321,1,0.0942,6.99e-05,0.00234,0.12,0.0755,160.193,4,iranian
+4kzN5Dba29mIKsYLIlkgG9,Kahtmayan,Exir,Mind Cancer,1,315186,False,0.352,0.673,0,-10.357,1,0.0412,2.69e-05,0.735,0.0663,0.238,176.005,4,iranian
+3ibVGBrJ8owRcmBynolCum,Ahoora,20.30,E 20.306 W,0,221600,False,0.633,0.742,2,-5.686,1,0.0583,0.196,0.000939,0.0817,0.557,130.0,4,iranian
+6vdj25c3HaMBQOTNISzlL8,Garhelenth,Union of Cursed Blood,Union of Cursed Blood,0,226285,False,0.376,0.987,11,-5.468,1,0.0709,1.16e-05,0.124,0.0684,0.229,140.085,4,iranian
+5x9bIyXmNksAUkNWHMzBeN,Pointed Mutation,Implosion,Implosion,0,226500,True,0.463,0.987,3,-1.434,1,0.116,4.91e-05,8.96e-05,0.276,0.0899,107.463,4,iranian
+1AZ8AZ0O5mytkUo3L5qlrX,Idlefon,Submarine,Sinking,1,408000,False,0.295,0.202,11,-15.227,0,0.0376,0.94,0.908,0.0726,0.0343,119.96,4,iranian
+4keTweXLCnQUg2SjF6UFSX,Garhelenth,Conspiracy Under The Black Flame,The Joyful Wisdom,0,287600,False,0.383,0.957,2,-7.18,1,0.047,0.00507,0.831,0.354,0.249,149.942,4,iranian
+4BsYQlCoWwN82VnrQAVZUn,Baaroot,From Void To Void,Concordance (Hamaayand),0,262458,False,0.468,0.799,0,-5.124,1,0.0535,0.268,0.00907,0.156,0.356,147.966,4,iranian
+2nzNbodv3MEZBaIa8nbiEH,Nathorg,Torch Holder Ov Death,Intro,0,140211,False,0.147,0.749,0,-11.378,1,0.134,0.0419,0.817,0.48,0.282,169.603,3,iranian
+1HjW1HhwwytbS5Q7SVRLft,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Corners,0,287799,False,0.21,0.631,0,-11.921,1,0.0823,0.0539,0.829,0.14,0.153,199.885,4,iranian
+3GfTduDxEcrY2yoNc1zeog,ArtSaves,Decay,Chaos before renewal,0,297000,False,0.247,0.971,11,-9.535,0,0.325,0.000157,0.892,0.175,0.127,100.305,4,iranian
+1HoOShYNwH1VLGBPg3trqd,Rojin Sharafi,MISBHV 002: Meditations - a sonic response,Gwát,0,355808,False,0.419,0.571,1,-15.861,1,0.149,0.408,0.00109,0.145,0.143,98.454,4,iranian
+73tO6pggJHkatDJekfdl9C,Rojin Sharafi,Zangaar,Choruk,0,326000,False,0.29,0.761,10,-8.923,0,0.0763,0.896,0.0254,0.267,0.294,63.945,4,iranian
+43OCCL7oekbRwu8YBQSfp8,Tegh,Emergent Errors,"Melted Organs, Remained Skins",1,547200,False,0.116,0.194,7,-18.84,1,0.077,0.0715,0.858,0.33,0.0557,149.794,4,iranian
+0jfXBsyEQMEM37LoLO6aSd,Negin Zomorrodi,InMigration,Foroud,0,250413,False,0.217,0.19,9,-18.508,0,0.0333,0.888,0.729,0.0872,0.148,84.823,4,iranian
+2I6hAxUD8ArkrKc2uq8sE6,Chaos Descent,When Life Leads Us to Death,Reek of the Pigs - Original Mix,0,278094,False,0.543,0.928,7,-4.922,1,0.0568,0.000278,1.77e-06,0.34,0.298,100.01,4,iranian
+5LuRYJZpdnZNImhtgbmmKY,Cursed Kingdom,The Wasteland,Hatred Hell Within,0,236080,False,0.373,0.973,11,-6.813,1,0.229,0.000146,0.00786,0.205,0.0393,174.974,4,iranian
+7xit8PRAE6x3fbZWFCY544,From The Vastland,Temple of Daevas,Davalpa,1,350306,False,0.486,0.955,10,-6.045,0,0.0741,3.06e-06,0.8,0.457,0.142,120.002,4,iranian
+73iQZT1WYntBoZe2Jpbshv,Siavash Amini,The Waterfront,Doxa 8 for Parisa,0,235946,False,0.53,0.874,9,-9.044,0,0.128,0.000879,0.633,0.364,0.202,141.915,4,iranian
+3VhoqmW3pl0LqBIyCEAKMG,Helzgloriam,Decapitated mystics of the serpent,Tēsifōn,0,288379,False,0.298,0.942,11,-5.41,0,0.182,6.57e-05,0.666,0.0861,0.0384,179.811,3,iranian
+1v9CRCQDI6IzCcP5Okwfob,Jaleh Negari,Weaver ~,opening pattern,0,312789,False,0.608,0.597,6,-15.235,0,0.0468,0.925,0.552,0.364,0.375,123.017,4,iranian
+1o9EvJMgNi0J92NuVdCbxO,Idlefon,Intensive Collectivity Known As City,Intensive Collectivity,0,269923,False,0.546,0.372,0,-17.235,0,0.0452,0.902,0.928,0.0863,0.0681,119.958,4,iranian
+2z1tniJIRhcJQTUEGO6yQ4,Sabke Morde,PeeranSal,Marha,0,182531,False,0.609,0.867,2,-5.218,1,0.0319,0.479,0.00953,0.596,0.147,96.017,4,iranian
+4tPJnnGxDdGZQmWqLVW9pe,Integral Rigor,No More Room in Hell,Nightmare,0,316226,False,0.193,0.841,1,-8.345,1,0.0853,5.15e-06,0.94,0.192,0.352,169.931,4,iranian
+6aGfMhwGDl46Dvo9Wbw3hf,Trivax,Sin,...and He Wandered off to Nowhere,1,542217,False,0.163,0.992,8,-7.114,1,0.199,2.88e-05,0.845,0.305,0.0376,154.418,4,iranian
+1AsX7B48DFJZplJEwmhGpl,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Aural Blue,0,24666,False,0.187,0.975,1,-8.223,1,0.236,0.0431,0.98,0.357,0.136,96.548,4,iranian
+1llFIDWpncvYHrsc3aLIdv,Leila Bela;L Jorgensen,Angra Manyu,Cheshme (feat. L Jorgensen),0,67426,False,0.391,0.297,4,-17.613,0,0.0372,0.931,0.649,0.11,0.293,95.233,4,iranian
+2tBO9sDqez1uQYsb8EYkjx,Sabke Morde,PeeranSal,Seebe Sorkh,0,622937,False,0.263,0.807,4,-5.933,0,0.0784,0.033,0.00567,0.115,0.11,180.687,3,iranian
+00EqiscplImrxqlRb4VMsZ,Integral Rigor,No More Room in Hell,Captured by Curse,0,246533,False,0.536,0.841,1,-8.419,1,0.0385,2.76e-06,0.94,0.162,0.481,110.001,4,iranian
+0P8Y8s0Fvf2ywJm6M5s6VB,Spuntic,Broadcast,Island of Reil,0,258493,False,0.114,0.0455,4,-27.855,1,0.0372,0.989,0.959,0.0999,0.0345,94.583,4,iranian
+74WZCodjJdd7GOFek2GUr9,Deathtune,Insanity,Ignominy,0,333010,False,0.362,0.993,11,-2.202,1,0.177,5.66e-05,1.62e-05,0.3,0.236,120.016,3,iranian
+03m7IfLCTeThLUFEgh8nNF,Chaos Descent,Best of Eat My Shorts Records,When Life Leads Us to Death,0,191376,False,0.213,0.482,0,-5.502,0,0.0332,0.0415,0.954,0.0724,0.228,147.95,5,iranian
+5KVmEBeh6CHqBTeSc6HkMN,Najand,The November Revolution,Hamatoono Dastgir Mikonam!,0,59221,False,0.269,0.79,5,-5.318,1,0.0577,1.2e-05,0.901,0.361,0.15,135.822,1,iranian
+2pmJp0g7LVy9hbI8GJZG1D,XERXES THE DARK,Astral Code Connection,Helium (H to He Progress),0,193906,False,0.212,0.646,5,-13.636,1,0.116,0.571,0.000206,0.324,0.044,109.633,4,iranian
+4LGzoHqHHeXx1NxP7lKYL6,Connate Exasperation,Delusional Primacy,Obsequious Supremacy,0,39682,False,0.452,0.957,1,-3.978,1,0.115,1.61e-06,0.91,0.279,0.301,130.106,4,iranian
+0KK1L215u4Jaql3UHjdt6U,Spuntic,Foundation,Synthetic,0,185312,False,0.203,0.367,1,-17.571,1,0.0353,0.105,0.851,0.132,0.0719,128.889,1,iranian
+4YWpr8lOvUTgRZXivHbZBc,Kiawasch Sahebnassagh,Zarman,"Hesar:For Saxophone & Orchestra,Ensemble Zeitfluss",0,947733,False,0.33,0.13,2,-17.323,1,0.0377,0.9,0.324,0.322,0.0395,136.808,4,iranian
+62RgjFobx8BDU8G6R3u3GB,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 5 (Persian), Op. 112","Movement, No. 3",0,614791,False,0.0854,0.114,9,-20.135,1,0.0407,0.952,0.908,0.0792,0.0359,62.236,4,iranian
+1PNAMq8EtkiiWwDSMLkmkx,Tension Prophecy,Death Metal From Iran,Hidden Ferocity,0,352876,True,0.221,0.929,10,-6.831,0,0.123,0.00323,0.822,0.0695,0.306,180.165,3,iranian
+0gDKxD3DtFTMuFEsMObb83,Alireza Mashayekhi;Farimah Ghavamsadri;National Symphony Orchestra of Ukraine;Vladimir Sirenko,Persian Gardens (Piece for Piano and Orchestra),"Persian Gardens, Op. 111 : Episode VI",0,340506,False,0.158,0.116,9,-18.078,1,0.0375,0.936,0.911,0.234,0.0364,67.645,4,iranian
+193hTzL1nLF5SQwTW6mLdd,From The Vastland,Kamarikan,Call of the Mountain Battle,1,298285,False,0.234,0.533,5,-6.797,0,0.127,0.000122,0.913,0.224,0.0372,103.78,4,iranian
+4CFQkOXGk57c4QFx0UPyzH,Saeed Dehghan,Halabi Abad,Vintage Effort,2,355000,False,0.753,0.902,0,-6.991,1,0.145,0.37,0.607,0.0429,0.208,119.997,4,iranian
+5DfMZnK7pk6zccWltwrUPC,Padra,Hezartooye Tanafor,"Yeki Bood, Yeki Nabud",4,265000,False,0.212,0.979,2,-4.828,1,0.175,0.000654,0.0598,0.0756,0.268,90.002,4,iranian
+00XqffdqeCoKStAvgGnR6Y,Crows in the Rain,Dreaming,Dreaming,1,363473,False,0.142,0.312,10,-10.954,0,0.0462,0.151,0.954,0.0852,0.077,139.309,3,iranian
+0LoXWA6JiEQ7hrHOU89PeI,SarrSew,La Laliki Land,La Laliki Land,2,246000,False,0.24,0.286,10,-16.977,0,0.0476,0.358,0.0167,0.131,0.0353,140.76,3,iranian
+7KBOUOBNQG6RVnw6yuJY07,Azhirock,Lucifer : Annihilated,Run Like Hell,0,170513,False,0.649,0.944,11,-5.197,0,0.112,0.0373,0.0,0.338,0.31,110.022,4,iranian
+1Er5N6DaiBliOa7qTmDnfn,Sina Shoaie;Sohrab Motabar;Soheil Soheili,Noise A Noise 20.3-1,Vigil - Live,0,305678,False,0.361,0.688,1,-15.135,1,0.291,0.109,0.000144,0.366,0.149,118.974,3,iranian
+0juWp4sId0YEWPIWfC5IUI,Kahtmayan,Virtual existence,Cold Reflection,0,273093,False,0.282,0.948,9,-4.907,0,0.262,0.000988,0.759,0.0898,0.126,165.908,4,iranian
+53U7rh7p3WN1ZDh79eCiJS,Ixuol,Abstraction In High Fidelity,Hold,0,180000,False,0.336,0.385,2,-8.963,0,0.0341,0.542,0.0655,0.101,0.192,169.928,4,iranian
+1sayezH8bWoxHMAQCccCTi,Leila Bela,Angra Manyu,V-3,0,28026,False,0.612,0.137,8,-31.953,1,0.792,0.848,0.0,0.0868,0.393,100.765,4,iranian
+3rvqSRlhM86LZT699gLRRS,Angband,IV,Atena,0,259746,False,0.513,0.933,10,-2.695,0,0.147,0.00397,9.34e-05,0.0766,0.487,159.019,4,iranian
+6R2UBVd2Bsg6aqxUqnTA2k,Leila Bela,Angra Manyu,Pull My Strings,0,44413,False,0.523,0.273,9,-12.489,1,0.0807,0.682,0.552,0.0747,0.266,84.341,3,iranian
+3FGRFFjPo6IpOckQ3tYrWd,Saba Alizadeh,This Is Tehran?,I May Never See You Again - Single Version,4,225705,False,0.272,0.271,2,-11.397,1,0.0424,0.93,0.0303,0.301,0.0377,112.802,4,iranian
+5nXwG66MOM5xzGdYKfij1a,Confess,Back to My Future,Unormal,0,335673,False,0.537,0.798,2,-5.929,1,0.0352,4.02e-06,0.205,0.174,0.598,132.997,4,iranian
+6JhsUGOPVyc0ygoTrO34cp,Nima A.M.,Keep Your Control (Instrumental),Keep Your Control - Instrumental,0,292942,False,0.409,0.963,8,-7.359,1,0.0771,6.41e-06,0.864,0.407,0.271,144.003,4,iranian
+5aAZsPk4jHKqkZXljDe0GU,Angband,Visions in My Head,Visions in My Head,0,294720,False,0.51,0.906,1,-4.134,1,0.12,0.00158,0.00669,0.108,0.439,155.953,3,iranian
+4cZxyuQlmojxrFBfz0DPwa,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Pearly Gates,1,336306,False,0.179,0.534,1,-17.967,1,0.248,0.531,0.808,0.128,0.0513,166.961,4,iranian
+58Ozh8RlXaF3Ud2aTW1Ge9,Najand,In the Night of Revolution,Equality,0,54205,False,0.167,0.963,4,0.377,1,0.0711,0.107,0.692,0.397,0.031,106.265,4,iranian
+2b0oFT5Ky5NqvwvT5ELfsj,Kiawasch Sahebnassagh,Moments,Finding,0,387800,False,0.424,0.0189,7,-26.86,0,0.115,0.967,0.895,0.133,0.167,111.498,4,iranian
+2qtmM8qNvj8Jc09RKOX7QI,Nathorg,Torch Holder Ov Death,Satan.Sex.Sin,0,208411,False,0.457,0.942,2,-4.075,1,0.0507,0.0138,0.563,0.118,0.13,142.993,4,iranian
+3ZQ817s5GsAWNoWv5PXos6,Alireza Mashayekhi,Happy Electronic Sounds,"Mithra, Op. 90",1,630595,False,0.159,0.181,2,-18.412,1,0.0566,0.979,0.912,0.072,0.0334,73.904,3,iranian
+6d3MDhWrFxMSSD5gHIN9QZ,Chaos Descent,Warsong,Warsong - Original Mix,0,265942,False,0.575,0.953,4,-4.612,1,0.121,0.000159,1.21e-05,0.267,0.216,114.011,4,iranian
+6epHR9WFPQBwgWjV9BLnsk,Kiawasch Sahebnassagh,Moments,Lovers,0,335640,False,0.374,0.0117,9,-30.281,0,0.0552,0.988,0.822,0.0582,0.101,144.682,4,iranian
+5q46uhwu9YLbJdTfFpZ8j2,Nathorg,Torch Holder Ov Death,Sick Minds Revolution,0,280011,False,0.402,0.954,0,-8.53,0,0.0508,0.0109,0.826,0.0801,0.0897,143.995,4,iranian
+48Nt8u7kYSTwE6axtE9hJO,Leila Bela,Angra Manyu,Leaving Her Quantum Journey Behind...,0,50186,False,0.0,0.0314,5,-28.194,0,0.0,0.723,6.67e-05,0.129,0.0,0.0,0,iranian
+37RUx23Ki1huJwGRf852IT,Integral Rigor,Devil inside,Devil inside,0,288020,False,0.169,0.983,7,-6.047,1,0.226,3.23e-05,0.694,0.275,0.136,195.15,3,iranian
+19RrA1s0bwwpTRZMQgF0i2,Najand,In the Night of Revolution,Been Tortured,0,60056,False,0.173,0.996,10,0.076,0,0.161,0.196,0.733,0.559,0.0294,135.125,4,iranian
+6n1pvEXhu1oJXiiqxZRzz1,Silent Path,Mourner Portraits,Gray Dolls from Nowhere,0,396640,False,0.0569,0.389,9,-5.269,0,0.058,0.416,0.785,0.111,0.156,62.47,4,iranian
+4j6qfCtWcSVUls9zmWHuNI,Idlefon,Intensive Collectivity Known As City,Where Voices Vanish,0,241633,False,0.658,0.549,1,-17.113,0,0.0494,0.0909,0.911,0.175,0.347,100.023,4,iranian
+7J1QSuoz8huO9Yof9IoNFt,Reza Solatipour,Visions of Darkness (In Iranian Contemporary Music),Surviving the Darkness,0,307120,False,0.064,0.593,5,-11.557,0,0.0604,0.607,0.987,0.111,0.0372,68.297,3,iranian
+4CpcuXejezfG3z2XOJ7Ybn,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Tonus,0,182360,False,0.268,0.349,8,-13.174,1,0.0952,0.983,0.931,0.206,0.174,87.397,4,iranian
+5QOlO17HGCsiZ2VjkLuMny,Martin Shamoonpour,8 Bit,Renge Parichehro Parizad (Darvish Khan),0,134666,False,0.332,0.701,7,-6.735,0,0.0936,0.464,0.203,0.182,0.491,156.279,3,iranian
+26f5mnEGCvDAAJk05Bhi8K,Trivax,Sin,You Better Be Burning,0,232595,False,0.227,0.986,1,-5.605,1,0.0897,4.32e-06,0.821,0.283,0.199,94.809,1,iranian
+6gME3ZSRp0d3pjHoefRf1D,Jaleh Negari,Weaver ~,differences in kind,0,287762,False,0.344,0.427,7,-14.244,1,0.0768,0.73,0.908,0.0893,0.129,162.969,4,iranian
+79YiwX28oOFOSmu7Cww3rk,Confess,In Pursuit of Dreams,5 Years in Cave...,1,360048,True,0.292,0.878,7,-3.846,1,0.0628,0.00188,0.0453,0.0757,0.0468,120.076,4,iranian
+15I09iqLRCcc6KRCm3FcyE,Alireza Mashayekhi,Happy Electronic Sounds,"Chahargah I, Op. 75",0,599405,False,0.426,0.00161,2,-14.419,1,0.0563,0.974,0.916,0.0874,0.122,65.296,4,iranian
+1qfOrxz0qtAzETRjMkuBVD,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Little Tales 1,0,145040,False,0.565,0.313,11,-17.151,0,0.366,0.947,0.879,0.0864,0.152,140.67,1,iranian
+5CsYZaiMJkKUNhSNvjb8hp,Najand,Spectre of Revolution,Be Ghedmate Estesmare Fard Az Fard,0,60107,False,0.258,0.643,11,-6.352,0,0.0491,0.00352,0.571,0.565,0.192,104.384,4,iranian
+3sfeCFcPoMd0VzMG1n1pFc,Tegh,Emergent Errors,"I Think I'm Dead, I'd Like To Ask Your Opinion",0,218181,False,0.195,0.379,2,-15.678,1,0.0398,0.0707,0.657,0.11,0.0697,80.396,3,iranian
+2HKTVg3VL4LULPp7F8SUQa,Trivax,Sin,Death to the Empire of the World,0,230418,False,0.133,0.996,10,-4.19,0,0.122,2.14e-06,0.914,0.325,0.189,147.286,4,iranian
+5PDM8jaMO54UT4jJtgKPS4,Spuntic,Foundation,Lifeforms,0,190000,False,0.159,0.0736,3,-21.123,0,0.0406,0.975,0.975,0.0854,0.0355,108.997,3,iranian
+5rI2GAOCM7RoZeJWshwB1r,Kiawasch Sahebnassagh,Schlaflied unter der Ruine(Lalai zir-e Avar) - Music fur Ensemble & Computer,Aufs Schlimmste zu:Fur 7 Posaunen und Sprechende Musiker,0,186813,False,0.288,0.044,1,-16.281,0,0.04,0.991,0.391,0.344,0.0312,77.482,3,iranian
+06L37I0KAqeR67JopmPUf3,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 4 (Zagros), Op. 103","Movement, No. 2",0,319738,False,0.125,0.124,9,-19.352,1,0.0489,0.968,0.955,0.0881,0.0273,67.481,4,iranian
+284goiTL3lg84LccoA5mAo,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 4 (Zagros), Op. 103","Movement, No. 3",0,315715,False,0.0982,0.255,0,-20.245,1,0.0435,0.862,0.915,0.302,0.0376,82.459,5,iranian
+37pm3pWmcjRREFg5sTt1HN,Spuntic,Foundation,Outlying,0,303464,False,0.353,0.526,6,-15.455,0,0.0675,0.521,0.416,0.108,0.148,74.658,4,iranian
+0wnwNcNrTA7pkIVg7xpVvU,Spuntic,Foundation,Sleep and Waking,0,297612,False,0.0653,0.103,0,-20.006,1,0.0383,0.979,0.966,0.0811,0.0352,73.618,5,iranian
+5doHeikHcnNGV8or6IGaRU,Beshenitar,The Great Wound of History,Human Purge Mission,0,238972,False,0.422,0.998,11,-2.862,1,0.133,0.249,0.00171,0.112,0.0281,129.995,4,iranian
+5FdxPzBukTqNWME80A8vLe,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 34 To 39,0,418586,False,0.347,0.121,0,-18.072,0,0.04,0.855,6.1e-05,0.192,0.182,83.672,4,iranian
+4ybUBJ6bQzzdreFHPWIYTH,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",Shekast,0,62200,False,0.61,0.131,0,-31.652,1,0.908,0.884,1.48e-05,0.112,0.178,130.204,3,iranian
+6coErM4CBGW8rsZkK6aDQv,Alireza Mashayekhi;Farimah Ghavamsadri;National Symphony Orchestra of Ukraine;Vladimir Sirenko,Persian Gardens (Piece for Piano and Orchestra),"Persian Gardens, Op. 111 : Episode V",0,289149,False,0.275,0.0744,2,-18.472,0,0.0366,0.944,0.895,0.0954,0.0365,126.95,4,iranian
+2KOSGrOyox7Hj4Xe2Ds4PS,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate V Opus 236 Pour Violoncelle Et Piano - 3ème Mouvement,0,272320,False,0.438,0.108,2,-19.517,1,0.0525,0.989,0.64,0.111,0.0738,112.02,4,iranian
+6PY7mndJ9wIFs42nUcDwqh,Saeed Dehghan;Beatbynajwa,Vintage Effort,Unstoppable,3,207856,False,0.541,0.929,2,-4.298,1,0.0683,0.0189,0.677,0.241,0.154,160.051,3,iranian
+6BDi00N2PfxuXa4Txd4ttc,Farzad Golpayegani,Five,Intro,4,116543,False,0.497,0.919,4,-7.515,0,0.0351,0.456,0.88,0.114,0.46,120.175,4,iranian
+3M20UDuY0y7OmHKcmCysay,Crows in the Rain,Dri:m Wan; Därk Blü,Why Should We Remember Our Dri:mz,8,323106,False,0.106,0.0762,7,-27.515,1,0.0366,0.92,0.803,0.0853,0.0384,180.124,4,iranian
+6Qlc9VW8bSgp6GMW8mnFPR,Saeed Dehghan;Ash Koosha,Oryan,Khorshide Masnooyi,3,181818,False,0.305,0.63,7,-11.688,0,0.0586,0.0562,0.575,0.185,0.273,66.161,4,iranian
+02CBgVtFQjWvmUjzSeMY0O,Crows in the Rain,Little Girl And Lost Blossom,Fatherland,2,291546,False,0.122,0.351,11,-18.039,0,0.0405,0.891,0.769,0.119,0.0734,87.074,4,iranian
+3BetTMu2yQqdMPiW4HqWfr,Crows in the Rain,Ashes of the Past,I Will Build The Future On The Ashes Of Past Memories,3,834939,False,0.122,0.418,9,-11.981,0,0.0382,0.029,0.804,0.127,0.0812,79.893,1,iranian
+7MROFLxuYYjABSeHCUvk5m,AMONGST THE ASHES,Agonizing Awakening,Blood Red Hands,2,233704,False,0.36,0.969,6,-5.401,0,0.115,4.84e-06,0.668,0.0655,0.247,199.996,3,iranian
+042SboYZqL7Cx4mmggMzGx,Farzad Golpayegani,Eight,Reclaim,3,248352,False,0.278,0.914,11,-4.151,0,0.0859,0.00223,0.528,0.0531,0.733,103.435,3,iranian
+5F9k1a45FXck5UsbUi1McT,Crows in the Rain,Ashes of the Past,For The World That Sounds Like It's Meaning,3,1234657,False,0.247,0.408,7,-12.522,0,0.0376,0.151,0.703,0.242,0.0435,139.765,4,iranian
+2fQw8yRiLIXrT3lPeVJNJ5,Ixuol,Abstraction In High Fidelity,Rist,0,196000,False,0.507,0.287,8,-12.172,1,0.0305,0.966,0.939,0.108,0.0531,136.005,4,iranian
+05wAwEhXvp9ftiptQ9xbXl,Vista Versicle,Needles,Needles,1,200071,True,0.501,0.989,2,-1.62,1,0.11,0.000715,2.81e-06,0.2,0.113,90.019,4,iranian
+6wjyV22aqajVJMUybhPG98,Electroqute,Tanpasin,Bimari,0,257668,False,0.465,0.939,4,-3.743,1,0.0786,0.000335,6.01e-05,0.233,0.288,94.952,4,iranian
+5bfYXXVimQLHeMyXH2Gv9A,Rojin Sharafi,"MISBHV 002: Meditations: a sonic response, Pt. 1",Gwát,0,355808,False,0.419,0.571,1,-15.861,1,0.149,0.408,0.00109,0.145,0.143,98.454,4,iranian
+4RSxWEwSQKsO9C90LO0wsN,Soheil Soheili;Roj,94 unleashed.,94 - Instrumental,0,137855,False,0.377,0.32,10,-13.342,0,0.0295,0.952,0.579,0.117,0.0344,93.675,4,iranian
+1plSH2mC4coFjGxLfgsMcv,Garhelenth,UNDERGROUND BLACK METAL,WAREHOUSE OF BAD LUCK,0,412614,False,0.0904,0.729,7,-8.234,1,0.0496,0.003,0.757,0.082,0.138,86.601,4,iranian
+322MlqfR6pPebiDEbLABSD,Sohrab Motabar,Noise A Noise 20.1,Stay,0,299909,False,0.397,0.668,1,-14.948,1,0.558,7.93e-05,0.86,0.341,0.366,117.799,5,iranian
+04VF6MKVTUh5IusNvNaYq7,Electroqute,Fravak,Pooran,0,240693,False,0.413,0.899,0,-4.357,1,0.0495,0.00434,3.94e-05,0.245,0.361,182.289,4,iranian
+6MnxlBzu8P0otaUPYeMB5o,Mordab,Room No.X,Rebel's Cry,0,372375,False,0.456,0.97,7,-5.434,1,0.154,2.55e-05,0.827,0.525,0.281,120.07,3,iranian
+3FSF2F62qs9Y5Ak65nqGsx,Mehdi Khayami;Lorenzo Gorli,Mehdi Khayami: Kamanche Concerto,Angha,0,473760,False,0.371,0.231,2,-17.631,1,0.314,0.937,0.665,0.343,0.0626,105.986,4,iranian
+4TSbFsm58BmyRbhUDGFJRc,ArtSaves,Chimera,Jabir In Lab,0,186250,False,0.123,0.907,0,-8.194,1,0.0869,0.192,0.936,0.234,0.0752,86.817,4,iranian
+3H4mhsGnHLDSj1W2jxp1bk,Leila Bela,Angra Manyu,Sultan of My Heart,0,89026,False,0.408,0.816,7,-10.544,1,0.638,0.72,6.45e-05,0.207,0.239,59.707,3,iranian
+7aokiMHeHTBynFXaiBlXbm,Siavash Amini,A Trail of Laughters,Crocuta Crocuta,0,448000,False,0.171,0.427,3,-20.299,0,0.106,0.302,0.896,0.115,0.0375,115.531,4,iranian
+2v7GcsqKI4qgFHCpGCnC5m,Shivered,Journey to Fade,The Hourglass (Bonus Track),0,187121,False,0.525,0.99,4,-4.35,0,0.0695,1.26e-05,0.043,0.0706,0.457,119.983,4,iranian
+2ztfLQNGJGyTw6XVegkJco,ArtSaves,Empty Sounds,Inelegant,0,88848,False,0.352,0.253,5,-19.563,1,0.0355,0.939,0.93,0.126,0.0819,140.762,5,iranian
+4TPe69YIxw99FIDjpElpAk,Farzad Golpayegani,One,Seven,0,251000,False,0.223,0.897,0,-5.738,1,0.075,0.25,0.854,0.107,0.133,189.91,4,iranian
+5IP5BqSxWNQ6aixiVGLC43,Idlefon,Intensive Collectivity Known As City,Of Rust,0,307612,False,0.214,0.395,5,-16.541,0,0.036,0.748,0.897,0.0936,0.0883,158.809,5,iranian
+37BCKBUkpORwt0sTLxXRNm,Ekwon,"Born in Shroud, Dead in Womb",Seed of Guards,0,289090,True,0.405,0.928,0,-4.422,0,0.0622,2.29e-05,0.933,0.508,0.0952,109.913,4,iranian
+3hBfutnqD5WjzQxyc3cSCg,Farzad Golpayegani,One,Thirteen,0,339000,False,0.366,0.572,6,-11.156,0,0.04,0.711,0.845,0.098,0.424,166.297,3,iranian
+5fzczv02pnWoAOUt5aYeCj,Jaleh Negari,Arch Waves,Gentagelsen Forskel,0,124457,False,0.154,0.192,2,-18.79,1,0.0358,0.988,0.957,0.126,0.208,155.542,3,iranian
+2gmadK5mFVz6OGDoiBItE0,Helzgloriam,Decapitated mystics of the serpent,Humanoid,0,204666,False,0.444,0.892,7,-4.254,1,0.0431,0.000459,0.0733,0.653,0.24,124.025,4,iranian
+7eEMr1XGne3Me4iptIY3Sp,Idlefon,Intensive Collectivity Known As City,In the Sea,0,292850,False,0.305,0.484,0,-14.027,0,0.0402,0.643,0.92,0.107,0.038,116.032,3,iranian
+7eFzvTIKQVswPDPrIc2zAv,Ekwon,"Born in Shroud, Dead in Womb",All Shall Suffer for Naught,0,337545,True,0.233,0.973,1,-4.197,0,0.111,2.78e-05,0.599,0.444,0.0392,114.07,4,iranian
+5T560XyS4xD5vPrsc5QGcs,Integral Rigor,Infernal Disease,Infernal Disease,0,284003,True,0.541,0.95,1,-5.522,0,0.0992,5.78e-05,0.723,0.0884,0.22,114.006,4,iranian
+1mdJEaJJfQDcdjM0y5QL3B,Negin Zomorrodi,InMigration,Showghe Kooch,0,237333,False,0.361,0.197,4,-13.305,0,0.0342,0.86,0.84,0.279,0.512,134.253,4,iranian
+2G5EuwNgAYXKT5xJQ9KoOC,Najand,Spectre of Revolution,Joghde Shab,0,48143,False,0.366,0.641,6,-5.148,1,0.045,0.884,0.000308,0.282,0.26,66.431,3,iranian
+4e2hsHoSjgMYDDcJYZdRh4,Alireza Mashayekhi,Persian Electronic Music Yesterday And Today1966-2006,"Mithra, Op.90",1,624266,False,0.205,0.186,2,-18.315,1,0.0469,0.979,0.909,0.0889,0.0336,72.288,3,iranian
+1ujFRENUXjCE9t3HQg37xd,Najand,The November Revolution,Afkaro Kesafaat,0,60053,False,0.371,0.61,3,-6.602,0,0.165,0.958,0.000326,0.14,0.177,89.896,3,iranian
+6z6Z6toiFVbxgmIkyYgAjF,Spuntic,Between Green,Spiritual Dreams,0,282253,False,0.267,0.211,4,-15.817,0,0.054,0.991,0.849,0.119,0.0523,65.032,3,iranian
+3kBximUQRbbKmCWstYsBca,War Angel,Tales of the Damned,Heretic,0,293446,False,0.332,0.996,7,-3.624,1,0.259,0.00549,0.0,0.369,0.0394,180.058,4,iranian
+2qVNtgInASqhXLc66Sj3oV,Anoushbard,Mithra,Gates of Ctesiphon,0,657624,False,0.237,0.974,4,-8.417,0,0.0799,1.6e-05,0.736,0.311,0.0887,109.999,3,iranian
+7rOzf8Tw98uePHcZvRWxx7,Helzgloriam,Decapitated mystics of the serpent,Aeon of achamenid,0,337871,False,0.119,0.916,6,-4.052,0,0.0573,1.2e-05,0.481,0.0578,0.136,154.964,4,iranian
+2El09vUfipRbL9EM7vFcst,Alireza Mashayekhi;Layla Ramezan,Sheherazade,The Defeat,0,249000,False,0.407,0.0369,5,-25.126,1,0.0524,0.977,0.915,0.0722,0.114,76.945,4,iranian
+1xCLrWAH0j2mQL8CMgwWIT,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 1, Op. 7","Lory, Rondo Fof Orchestra, OP. 132",0,580780,False,0.222,0.106,9,-19.745,0,0.0463,0.917,0.942,0.303,0.0377,127.476,4,iranian
+3i6fgSYnPKdqzI9Z1EknBW,Deathtune,Insanity,Distracted Observer,0,181525,False,0.28,0.996,11,-2.637,1,0.318,3.09e-05,0.00257,0.181,0.212,159.993,4,iranian
+3IjmfMMBW74euOR1WYRssB,Spuntic,Foundation,Outlying,0,303464,False,0.353,0.526,6,-15.455,0,0.0675,0.521,0.416,0.108,0.148,74.658,4,iranian
+3fn5nVOqcpE92sl6XBlT3O,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 1 To 5,0,371626,False,0.358,0.149,0,-19.512,1,0.0399,0.777,0.00711,0.11,0.113,131.267,4,iranian
+2EOubeIqjPxZ4NFLbcfL1B,From The Vastland,The Haft Khan,Khan e Panjom,1,404600,False,0.236,0.873,5,-7.405,0,0.0523,2.02e-06,0.925,0.229,0.166,149.873,3,iranian
+6hDWT1qC4TDIJfzguzoFyV,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 13 To 15,0,149813,False,0.414,0.16,0,-20.424,0,0.0486,0.857,0.0152,0.172,0.156,70.63,3,iranian
+1KceOX4yTiwRHqJFHcmEWp,Eternal Griefs,Blanche Monnier,25 Years of Silence In the Attic,0,922928,False,0.192,0.51,4,-15.102,0,0.0458,0.000194,0.804,0.0935,0.0753,134.662,4,iranian
+0MwSK12MiS68JAKf4BlyKH,Alireza Mashayekhi;Farimah Ghavamsadri;National Symphony Orchestra of Ukraine;Vladimir Sirenko,Persian Gardens (Piece for Piano and Orchestra),"Persian Gardens, Op. 111 : Episode III",0,379663,False,0.204,0.0921,2,-21.53,0,0.0362,0.941,0.887,0.121,0.0354,66.924,3,iranian
+7fTfvDlOUf0etaphlgUegi,Farzad Golpayegani,Eight,Diverge,3,270153,False,0.343,0.531,11,-8.501,0,0.0301,0.799,0.864,0.343,0.0569,138.024,4,iranian
+4CAg3hnPwCjqBRqjZGOYHS,Farzad Golpayegani,Seven,Mesmerized Hero,4,497642,False,0.275,0.992,1,-3.843,0,0.169,0.11,0.267,0.337,0.29,104.989,1,iranian
+2j3XrxnGKhPJVvSGDpoRFJ,Arsames,Immortal Identity,Homo Sapiens,10,278752,False,0.434,0.983,6,-3.68,1,0.131,1.76e-05,0.699,0.0461,0.183,159.943,4,iranian
+4LFlYEavfqhauvX6q2IcH4,Farzad Golpayegani,Seven,Bring You Pain,4,271413,False,0.237,0.959,11,-3.978,0,0.153,0.211,0.817,0.0787,0.423,155.662,4,iranian
+5KaJkkMcCZbuJKlEi0ybqe,Crows in the Rain,Little Girl And Lost Blossom,Watcher,2,190640,False,0.322,0.28,11,-20.13,0,0.0465,0.973,0.917,0.121,0.0334,117.787,4,iranian
+2m0UI048bqswNnDh0KZ7nX,Farzad Golpayegani,Six,95,3,209662,False,0.388,0.673,11,-6.223,0,0.0291,0.446,0.0201,0.183,0.209,81.676,4,iranian
+5XIfC28Uy11ArfOF3LcUZB,Crows in the Rain,Little Girl And Lost Blossom,Little Girl And Lost Blossom,3,398933,False,0.267,0.119,8,-20.254,0,0.0412,0.971,0.898,0.12,0.0483,100.057,4,iranian
+2mrgYbsGeUslJTKWEJB2Ch,Farzad Golpayegani,Five,80,3,253419,False,0.375,0.869,9,-4.299,0,0.0656,0.21,0.667,0.138,0.219,119.923,4,iranian
+5seeG2750txXp0njvDZ2p2,SarrSew,"Last Body Standing, Falls","Last Body Standing, Falls",1,213000,False,0.203,0.374,7,-11.482,1,0.0326,0.754,0.848,0.141,0.0379,154.152,4,iranian
+3w5BC1ABNAGxPP8X0WQllN,Azhirock,Rope,Rope,0,528327,True,0.329,0.841,4,-4.82,0,0.0557,0.0374,0.00405,0.311,0.155,110.001,3,iranian
+1NUYLmKU5Gtxr6k57WGCGR,Tegh,Night Scenes,Crossing,0,513817,False,0.131,0.422,8,-12.069,1,0.0413,0.0419,0.86,0.159,0.0331,77.571,3,iranian
+1FpD2wwpG8oWxJttQQLUEH,Out of Nowhere,Earworm,Earworm,0,197769,False,0.382,0.953,4,-2.252,0,0.121,0.00249,0.0,0.347,0.398,194.923,3,iranian
+5GejdNgf8uIJfTT5h7XyRk,Vista Versicle,Poison,Poison,0,204068,True,0.442,0.998,11,-0.934,0,0.271,3.01e-05,0.0,0.0838,0.0863,160.093,4,iranian
+0iPdaqbsZoK8i4Gl277VHV,Electroqute,Nashenakhte,Nashenakhte,0,248608,False,0.503,0.79,7,-3.61,1,0.0468,0.0294,0.0,0.177,0.414,154.932,4,iranian
+1lRMtjKpLpyQdDALnXyGNr,Nathorg,Torch Holder Ov Death,Torch Holder Ov Death,0,354060,False,0.233,0.981,11,-5.769,0,0.105,0.000282,0.818,0.0717,0.17,145.009,4,iranian
+0R3cSX6kmv7xMWwPeYNe5e,Atria,Reincarnation,Reincarnation,0,247500,False,0.471,0.978,6,-3.737,1,0.107,1.07e-05,0.00234,0.379,0.19,130.02,4,iranian
+5K8KsdDCAE72PswzWu2CJT,Garhelenth,Conspiracy Under The Black Flame,Rhytmic Silent Death,0,236307,False,0.407,0.915,1,-7.07,1,0.0402,0.019,0.904,0.112,0.343,130.007,4,iranian
+6htflcCWH0EgwhJ7YAX4Aa,Saba Alizadeh,I May Never See You Again,I May Never See You Again,0,221200,False,0.262,0.296,2,-12.271,1,0.046,0.585,0.119,0.274,0.0552,86.315,4,iranian
+6B9NRBut8NtB1y6doVNqDQ,Leila Bela,Angra Manyu,Night of Santur,0,143026,False,0.529,0.631,11,-10.055,1,0.0564,0.0416,0.00237,0.447,0.0887,62.204,4,iranian
+0UZxqtieXH5qqYJDp3JtGD,Saba Alizadeh;Andreas Spechtl,I May Never See You Again,Touch,1,539920,False,0.263,0.318,2,-12.969,1,0.0848,0.918,0.0193,0.1,0.109,173.581,3,iranian
+3ASzO1weK9Ld6GeEGs7IpN,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Bypass,0,229559,False,0.598,0.796,11,-12.98,0,0.317,0.0104,0.923,0.346,0.348,174.842,4,iranian
+2iaf0mhikyQRLivjkLlIxv,Ekwon,"Born in Shroud, Dead in Womb",RFID,0,332090,True,0.296,0.961,7,-4.366,1,0.0973,3.69e-05,0.897,0.867,0.187,179.991,4,iranian
+6c5vVtpY0btFGTl1s53KBa,Saba Alizadeh;Rojin Sharafi,I May Never See You Again,Hybrid,0,360720,False,0.412,0.776,10,-15.217,1,0.234,0.666,0.722,0.1,0.0575,125.911,3,iranian
+3RClryGw6RrRBkxrWAwoMd,Confess,Army of Pigs!,Army of Pigs!,2,302000,False,0.466,0.94,6,-2.523,1,0.0406,0.000284,0.842,0.292,0.449,95.064,4,iranian
+0QcyG3lQ8FWoPrzjDdPAlr,Silent Path,Mourner Portraits,Filth of Mankind,0,412133,False,0.17,0.823,2,-5.269,0,0.0617,0.122,0.932,0.125,0.165,100.295,4,iranian
+2c3TkEFl1chF0RmldCelPK,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Tec,0,359732,False,0.701,0.799,1,-9.711,1,0.0492,0.00277,0.844,0.141,0.0696,99.982,4,iranian
+3apOnssLPYqwTa6DNNhL26,Chaos Descent,A New Clear Dawn,Demonacracy,0,322658,False,0.558,0.949,11,-7.172,0,0.0521,0.000666,0.114,0.107,0.101,110.006,3,iranian
+7JqI26jl28ofZtwcObW2dt,Confess,Painter of Pain,Painter of Pain,0,341106,False,0.408,0.964,6,-4.872,0,0.0574,7.04e-06,0.00858,0.216,0.315,94.956,4,iranian
+3ajK9x5sgI5CgPsgs4jFej,Rojin Sharafi,Urns Waiting To Be Fed,Pieces Whirling In The Wind,0,178500,False,0.345,0.511,8,-11.391,1,0.0433,0.29,0.0921,0.3,0.111,86.219,4,iranian
+6Q1DZPo9fkl6KsA9M3uFRb,Azooma,The Act of Eye,Act 7 - Objectivity of Oblivion,0,425926,True,0.283,0.946,0,-6.332,1,0.145,0.00973,0.391,0.234,0.203,172.099,3,iranian
+3hB9NQ5Mug7EdxMZqfguj3,Najand,In the Night of Revolution,Embezzlement,0,158940,False,0.125,0.734,1,0.584,1,0.0591,0.0382,0.859,0.372,0.0468,145.09,4,iranian
+72mcCtPro6jJTge1syDKw2,Atria,Reincarnation,Floating,0,131538,False,0.469,0.388,11,-14.161,0,0.03,0.846,0.924,0.106,0.136,120.109,4,iranian
+3yfcFF3WjEBFIMgW8Z04SU,Atria,Reincarnation,Shelter,0,206500,False,0.523,0.899,1,-4.557,1,0.0691,2.08e-05,0.0038,0.125,0.296,129.989,4,iranian
+2HRYhmRCwWbOQCAYoQ7rhi,Spuntic,Between Green,Green Path,0,460800,False,0.27,0.307,5,-18.28,1,0.0436,0.217,0.884,0.114,0.0366,116.086,4,iranian
+5sFAmJu3M2KSZgpwUWeu7Y,Confess,Back to My Future,You Will Payback! (Re-Recorded),0,247484,True,0.565,0.931,8,-4.285,1,0.0652,2.04e-05,0.604,0.0665,0.616,113.022,4,iranian
+3Js8n1O9fv9ZAqtCpziGPr,Spuntic,Broadcast,Limitation,0,299213,False,0.212,0.152,0,-22.698,1,0.0401,0.965,0.919,0.0779,0.0704,137.679,3,iranian
+1cOQgoRQ2ESo6gtZ31VgTU,Sabke Morde,PeeranSal,Hame Yeksoo,0,969250,False,0.337,0.658,7,-5.929,0,0.0447,0.202,4.08e-05,0.556,0.0847,112.504,3,iranian
+0msEdOBwpjBS033li805xe,Kiawasch Sahebnassagh,Schlaflied unter der Ruine(Lalai zir-e Avar) - Music fur Ensemble & Computer,2 Skizze fur Computer und Klavierklange II,0,50733,False,0.394,0.291,9,-19.345,1,0.097,0.834,0.64,0.0943,0.313,75.631,3,iranian
+6rbn0Hr2It1ZFG7AlmR3ck,Martin Shamoonpour,Tehransaranieh,Monsters in My Room,0,521893,False,0.314,0.257,2,-17.704,0,0.0664,0.898,0.112,0.077,0.0478,88.706,3,iranian
+5e1GeRQTPjUQfQ9NtgPYDM,Najand,The November Revolution,Dar Pase Kahkeshanha,0,60053,False,0.169,0.697,1,-3.646,0,0.0592,0.133,0.818,0.359,0.29,106.117,3,iranian
+1CAXL6sbmOY7mjrUee3vw5,Rojin Sharafi,Kariz,Your Mirror Stage Was Spotlighted,0,480500,False,0.113,0.764,10,-12.006,1,0.0618,0.511,0.843,0.063,0.112,85.619,4,iranian
+6EuhWZ5D9InbLzy2biiVdV,Siavash Amini,A Trail of Laughters,"Daniâl My Son, Where Did You Vanish?",1,444000,False,0.069,0.196,1,-24.801,0,0.0805,0.283,0.934,0.36,0.0336,75.596,4,iranian
+5rO3oZgdv5SMapky0bje0w,Alireza Mashayekhi,Happy Electronic Sounds,"Development II, OP. 24",0,302210,False,0.265,0.258,6,-13.136,1,0.12,0.778,0.0747,0.123,0.0693,107.599,4,iranian
+5gIvHjymgQ8X3qyAgH5Udl,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 6 To 8,0,193053,False,0.348,0.183,0,-16.052,1,0.0414,0.72,0.0198,0.138,0.0898,124.156,4,iranian
+5W16k9XSAXXl9fL2rDvVE1,Connate Exasperation,Delusional Primacy,Delusional Primacy (Part I),0,250171,False,0.342,0.979,11,-4.377,0,0.149,4.06e-06,0.911,0.171,0.241,132.076,4,iranian
+4yTbw18hYN035sCX3WBLg6,From The Vastland,Kamarikan,Darkness All over the World,0,424500,False,0.343,0.779,10,-5.763,1,0.178,1.99e-05,0.915,0.0989,0.0354,120.13,4,iranian
+3G34dsCKMRQfTWpiVrwbpR,Alireza Mashayekhi;Kimia Hesabi;Ying-Shan Su,Nemāno Gaona,Sonata for Viola & Piano: I. —,0,208185,False,0.245,0.0297,7,-21.606,1,0.0509,0.877,0.044,0.328,0.0556,169.597,3,iranian
+50IaKepOhuUjowztZWCBwy,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Breadth Digit (Glass Lung),0,115920,False,0.329,0.649,1,-10.623,0,0.11,0.971,0.869,0.103,0.136,132.506,3,iranian
+1lgqemZ33dy7SBhJ3ZOcm8,Tension Prophecy,Asylum of Humanity,Brain Scratch,0,252566,False,0.417,0.961,1,-6.332,1,0.091,6.48e-05,0.85,0.209,0.233,109.998,4,iranian
+7IMgoSqmJPp9O6T4JwZ6pO,Alireza Mashayekhi;Layla Ramezan,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",The Mirage,0,308200,False,0.328,0.0461,4,-22.581,0,0.0513,0.98,0.878,0.0799,0.0475,77.218,1,iranian
+7E5b7W5Yl3IlJwAavcfkSr,Saba Alizadeh,Scattered Memories,Dream,11,189740,False,0.371,0.261,9,-16.257,0,0.0448,0.953,0.597,0.319,0.0382,57.767,3,iranian
+2ZDguDTnUjY6AZme0cwz73,Crows in the Rain,You Are Dying in My Arms (the Frozen Last Gasps),"Chapter III - Please Be Well, Is It Too Late",6,734666,False,0.173,0.426,6,-11.725,0,0.0428,0.983,0.927,0.212,0.0382,179.937,4,iranian
+7fTfvDlOUf0etaphlgUegi,Farzad Golpayegani,Eight,Diverge,3,270153,False,0.343,0.531,11,-8.501,0,0.0301,0.799,0.864,0.343,0.0569,138.024,4,iranian
+1VcYiTKxVDk8nAf11atoTp,Out of Nowhere,Hope Is on the Way,Hope Is on the Way,1,220000,False,0.602,0.817,4,-4.628,0,0.0365,0.104,2.32e-06,0.117,0.0799,100.03,4,iranian
+1r2FkEAbw5ePAQjxw89zKl,Farzad Golpayegani,Five,83,5,267739,False,0.235,0.732,4,-3.793,0,0.0397,4.24e-05,0.448,0.131,0.27,139.823,4,iranian
+2lGMFMzwntPJr7UgfTdfNq,Farzad Golpayegani,Six,87,4,141943,False,0.331,0.854,4,-4.602,0,0.0979,0.000109,0.000296,0.0555,0.186,141.882,4,iranian
+4LFlYEavfqhauvX6q2IcH4,Farzad Golpayegani,Seven,Bring You Pain,4,271413,False,0.237,0.959,11,-3.978,0,0.153,0.211,0.817,0.0787,0.423,155.662,4,iranian
+0jlpup3pypk1Akn1lYQwBX,Parsa Shomali,Synthetic Trilogy,Modular Fantasy No.1 (Remastered),0,160000,False,0.147,0.163,0,-13.953,0,0.041,0.91,0.949,0.0429,0.0393,137.073,5,iranian
+0y6lN5BDrBU5OpDetbGVzg,Leila Bela,Angra Manyu,V-9,0,162440,False,0.379,0.0231,0,-25.888,1,0.0551,0.991,0.0738,0.063,0.187,89.213,4,iranian
+1oVrTBrCsM2eTE1G50yxY9,Leila Bela,Angra Manyu,Shatter,0,21240,False,0.424,0.869,9,-8.168,0,0.0728,0.707,0.0893,0.117,0.0,135.107,4,iranian
+7vOEJ1uPiDgAVMnyFkXPi4,Shivered,Journey to Fade,Eradicate,0,378596,False,0.514,0.919,4,-5.193,0,0.044,7.18e-06,0.0438,0.243,0.273,146.002,4,iranian
+5m3HJ9BGW6on64t8w5r83B,Azhirock,Lucifer : Annihilated,Things You've Done,0,224329,False,0.323,0.908,11,-5.559,0,0.139,0.105,0.0,0.666,0.661,130.022,4,iranian
+77KzdsWx5f9kTXvS2ulsp0,Leila Bela,Angra Manyu,Mad Childs Play,0,80933,False,0.372,0.838,6,-19.712,1,0.0971,0.824,0.961,0.396,0.11,163.954,4,iranian
+7iMzfnRIQ1GbzO1bucxRrd,Garhelenth,About Pessimistic Elements & Rebirth of Tragedy,To Impersonal Mankind,0,258720,False,0.0989,0.831,5,-5.809,0,0.0585,0.0427,0.0587,0.103,0.0593,159.594,4,iranian
+1EXc4lSFTbktmqWksJLgke,Nyctalllz,Visions of Darkness: Volume II,The Curse of the White Demon,1,415517,False,0.237,0.38,2,-14.322,1,0.0358,0.599,0.875,0.174,0.0464,112.65,4,iranian
+6zZNEML6EssNesPUyVMEdB,Jaleh Negari,Weaver ~,eliza,0,232625,False,0.359,0.823,4,-11.85,1,0.34,0.455,0.918,0.167,0.0651,81.467,4,iranian
+4mCNUDuEVxx1PzPPf2Bg8w,Siavash Amini,FORAS,Aporia,0,528000,False,0.168,0.136,7,-17.959,0,0.0659,0.291,0.894,0.0931,0.0386,122.607,4,iranian
+4ZWQU9NhWC2qVQOFiziZdw,Rojin Sharafi,Kariz,It Made You Blind,0,629199,False,0.232,0.496,4,-9.573,0,0.0324,0.235,0.799,0.0695,0.0332,93.415,4,iranian
+7tUBmhj9d98BS08S5lfQz4,Sabke Morde,Khatabeye Tadfin,Lohe Goor,0,419693,False,0.199,0.539,4,-8.795,0,0.0316,0.126,0.017,0.113,0.0837,89.706,4,iranian
+540QsouzBYNgD9cvEBhu68,Angband,Saved from the Truth,Kill the Hatred,0,331680,False,0.301,0.985,2,-4.3,1,0.226,0.000928,0.0039,0.21,0.191,96.124,4,iranian
+4AIsg92W93Mqjr2tbQtgWK,Azooma,The Act of Eye,Act 1 - Plague of Predator,0,396512,True,0.207,0.975,7,-7.052,1,0.235,0.0249,0.897,0.455,0.113,179.85,3,iranian
+5qSGluYlehBvgT2F9SFs9a,Arash Azadi,Mathematical Labyrinth,No + H=Harmony,0,386631,False,0.392,0.779,7,-10.917,1,0.202,0.000263,0.519,0.13,0.295,180.147,5,iranian
+2tH5sjtfoALFEozeO0hTJj,Idlefon;Kamyar Behbahani,Submarine,Homecoming,0,286659,False,0.302,0.382,0,-13.66,1,0.0362,0.701,0.837,0.11,0.0508,123.964,4,iranian
+74GE3NpVd9avb5M6Ftjkjq,Idlefon;Baaroot,الکتروهیچ Electrohich,زمان‌گرد Repetitious (Idlefon Remix),0,321418,False,0.376,0.483,0,-14.101,0,0.0416,0.714,0.88,0.0595,0.0414,95.998,4,iranian
+2NujKSqQUZN3T9b8qWZ7Bv,Kiawasch Sahebnassagh,Moments,"March 2, 2002",0,474773,False,0.196,0.247,2,-20.627,0,0.0319,0.954,0.849,0.0584,0.0383,79.289,3,iranian
+2QxzpDE6uQPy17dhBTQgpu,Confess,Edge of Mind,Edge of Mind,0,344040,False,0.461,0.978,2,-3.346,1,0.0935,5.53e-06,0.00155,0.108,0.324,118.025,4,iranian
+54bICsSSkjGWpUTLmtfAYK,Saba Alizadeh,Scattered Memories,Ladan Dead End - Kamancheh Version,1,169500,False,0.359,0.733,10,-15.25,0,0.0894,0.529,0.925,0.105,0.0758,114.993,4,iranian
+7tqU1V7ShYTofMcwPWXvck,Idlefon,Intensive Collectivity Known As City,Reminiscence,0,320026,False,0.191,0.53,7,-10.966,0,0.0368,0.984,0.954,0.104,0.0325,93.295,4,iranian
+7vkjZKo6RfBXrlRqYS48aN,Kiawasch Sahebnassagh,Waran,Frozen Moment(Moment Gele) 1999-2000,0,1121226,False,0.292,0.258,10,-20.155,0,0.0642,0.485,0.0556,0.143,0.0699,89.504,4,iranian
+55WnfKeMkvnxNL3sUBa1kj,Angband,Visions of the Seeker,Truth of Life,0,330906,False,0.427,0.941,0,-5.744,1,0.134,0.000121,0.00535,0.282,0.35,151.999,4,iranian
+4iVxlP3CwXunJyYUCW4KCp,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Little Tales 2,0,122666,False,0.394,0.268,5,-16.163,1,0.0362,0.971,0.908,0.109,0.0701,69.119,3,iranian
+1zozqEuvVSy4LJ9fl5WpAL,Pouya Pour-Amin,Prison Episodes,If Only Memories (Fourth Episode),0,274815,False,0.159,0.236,10,-17.35,1,0.0381,0.916,0.836,0.0986,0.0345,96.834,5,iranian
+1xMkTSgZIZAnsu6a5yqudq,TarantisT,Distorted Brains,The Hell You Made,0,197434,False,0.415,0.972,11,-5.446,1,0.0716,0.00448,0.146,0.339,0.588,169.981,4,iranian
+52td3s1ekJ7PawvwqwPEWc,Martin Shamoonpour,8 Bit,Bahare Delneshin (Ruhollah Khaleghi),0,116866,False,0.506,0.883,9,-4.256,0,0.111,0.744,0.742,0.0897,0.395,140.13,3,iranian
+21O8Nr8c6MreEB82sABBw5,Spuntic,Between Green,Distances,0,190145,False,0.114,0.158,1,-19.721,1,0.0443,0.129,0.955,0.116,0.0279,151.075,5,iranian
+6N5rvsBLkdJ8SzvbmSW9E2,Confess,Beginning of Dominion,Disciple,0,214296,True,0.27,0.883,2,-3.354,1,0.0495,0.000448,1.17e-05,0.211,0.151,102.09,4,iranian
+1MfO2B3GtPfpbM9vMisK2N,Witness the Existence,Enshrined Twice,Deadly Séance,0,615053,True,0.427,0.516,7,-4.327,1,0.0397,0.00833,0.361,0.129,0.036,120.114,3,iranian
+65C5BEPeaVoqaSm1aidwBS,Deathtune,Insanity,Insanity,0,249026,False,0.23,0.994,8,-2.167,1,0.396,4.13e-05,0.000325,0.0662,0.325,198.467,4,iranian
+7nI6NFGaBgS64tXEg4aFk8,Asef Akbari;Nima Alizade,Wet And Warm,The Dark Blue River (feat. Nima Alizade),0,140030,False,0.203,0.285,8,-19.285,0,0.0416,0.948,0.956,0.369,0.0554,116.058,4,iranian
+2EstAAPQZJAFF1MYDZJmJB,Najand,The November Revolution,Farda az Ane Shorahast,0,53098,False,0.24,0.907,4,-4.051,1,0.0941,3.15e-05,0.757,0.421,0.0357,75.748,4,iranian
+0IVg8AETaEljDlxtfeNBLN,Najand,Spectre of Revolution,Tishe Va Tabar,0,60107,False,0.253,0.8,10,-6.474,1,0.112,0.0433,0.746,0.346,0.136,111.245,4,iranian
+02xfm0GjvV6vrxrB2Hy2Cl,Zhoobin Askarieh;Ali Sasha,Liberation,Mandala,0,499271,False,0.233,0.932,0,-9.501,1,0.0373,0.095,0.67,0.107,0.193,161.202,4,iranian
+0y0X9xN3fUVd9CVxOs3aXQ,Najand,Spectre of Revolution,Ranjha Anbashte Bishomar,0,60107,False,0.163,0.815,1,-1.066,0,0.084,0.106,0.632,0.219,0.167,128.107,4,iranian
+6pzajB527j45Vn3eYt8XeV,Beshenitar,Around the 13 Sins,Immature Wizards,0,355478,True,0.357,0.984,5,-8.15,0,0.221,0.0868,1.38e-05,0.0772,0.0329,119.805,4,iranian
+0SEgsKSMCYJFG7SJCRlkZs,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Micro Tuning,0,430653,False,0.558,0.965,2,-7.751,0,0.531,0.763,0.836,0.277,0.16,97.875,4,iranian
+5ql9V6U6Pr0WjvpYZrCAWR,From The Vastland,Kamarikan,Night Sentinel,0,372156,False,0.151,0.781,3,-6.238,0,0.253,0.000189,0.946,0.124,0.0349,134.539,4,iranian
+37wvBoiwNJLt6cNYggIIFF,Najand,The November Revolution,Moghabele Divare Ghanoon,0,60053,False,0.309,0.487,2,-8.803,0,0.0365,0.186,7.56e-05,0.386,0.362,87.827,1,iranian
+45YdK4lSonEaXy7dEerlBT,Alireza Mashayekhi;Kimia Hesabi;Ying-Shan Su,Nemāno Gaona,Sonata for Viola & Piano: III. —,0,157296,False,0.354,0.11,2,-17.386,1,0.0533,0.938,0.853,0.0482,0.0364,129.304,1,iranian
+7efVhWBWx1eT4ws5BhPDdK,Alireza Mashayekhi;Farimah Ghavamsadri;National Symphony Orchestra of Ukraine;Vladimir Sirenko,Persian Gardens (Piece for Piano and Orchestra),"Persian Gardens, Op. 111 : Episode II",0,348891,False,0.243,0.0309,2,-20.508,0,0.0402,0.928,0.898,0.0701,0.0385,169.694,5,iranian
+01gwr3jWt9RlN6hL8Y6Xij,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Farimah Ghavamsadri,"Symphony, No. 8 (For Piano and Orchestra)","Movement, No. 2",0,367124,False,0.208,0.0956,0,-21.139,1,0.0411,0.931,0.858,0.107,0.0342,95.581,3,iranian
+7y1EM4vFDgxpB3Rr4zKRzK,Kahtmayan,Resurrection 1,The Wonderer,2,313237,False,0.588,0.906,6,-4.664,0,0.0911,0.0099,0.045,0.0626,0.28,108.994,3,iranian
+2QSn5Oe4wtvmjY8Yy1zjMf,DSM,Plasco,Plasco,0,338703,False,0.28,0.238,0,-28.518,1,0.0675,0.102,0.91,0.368,0.0495,118.69,3,iranian
+2Ve8kIizxOyiykyxyp9pbn,Ixuol,Abstraction In High Fidelity,Aurem,0,428000,False,0.37,0.619,10,-12.417,1,0.12,0.0822,0.731,0.155,0.0987,120.214,4,iranian
+0Y9F7ugCKHrvcvWXvrTJ5G,Tegh,Emergent Errors,Heat,0,696480,False,0.139,0.37,11,-16.325,0,0.062,0.0245,0.765,0.0803,0.0337,140.906,4,iranian
+30rXvJDjk48ll3KonNyAlv,Azhirock,Rope,You Are Mine,0,422374,True,0.548,0.729,0,-5.682,0,0.0321,0.0326,0.000715,0.0792,0.314,139.971,3,iranian
+1Y3pEwiWF9iffNNtvxVT3I,Azhirock,Lucifer : Annihilated,Curse of Sheeva,0,268074,False,0.352,0.676,1,-8.831,1,0.0419,0.041,4.32e-05,0.17,0.53,98.989,4,iranian
+7hKtPHij317Fqf2VWf3RZO,Rhonchus,Visions of Darkness (In Iranian Contemporary Music),Graph,0,445520,False,0.0801,0.639,4,-12.886,0,0.0833,0.944,0.884,0.317,0.0357,176.19,4,iranian
+1XFPLIKOl82LuDVJRLQ9Sv,Leila Bela,Angra Manyu,Weird Sex,0,50640,False,0.34,0.332,6,-17.576,1,0.0597,0.767,0.635,0.112,0.139,81.286,3,iranian
+2vXtqPW6LBGvyJvQGNIHOR,Arash Pandi,Exotic Paradox,Dogah,0,575000,False,0.217,0.83,2,-10.477,1,0.373,0.726,0.481,0.36,0.0349,112.034,3,iranian
+7pgnPWyIZXRi677LWtupzM,Rojin Sharafi,Urns Waiting To Be Fed,I Threw A Ball,1,390897,False,0.415,0.629,6,-13.095,1,0.153,0.409,0.673,0.152,0.16,159.282,4,iranian
+1rZwIk3LxrMmVyXghIYubr,Out of Nowhere,Man Made Disaster,The Road,0,253970,False,0.433,0.873,0,-2.705,0,0.0675,5.02e-05,2.15e-05,0.0609,0.32,138.063,4,iranian
+7qXar3FbocfVFYh5a2hMEY,Garhelenth,About Pessimistic Elements & Rebirth of Tragedy,Perspective of Exorbitant,0,313536,False,0.0803,0.843,8,-7.09,1,0.0532,0.038,0.00315,0.287,0.188,81.062,3,iranian
+6tqP55NBE20QyKG4AMa96A,Leila Bela,Angra Manyu,Salute to the Fairy Princess...,0,134386,False,0.193,0.0473,2,-24.926,1,0.0407,0.911,0.444,0.109,0.139,96.011,4,iranian
+69SC5PNWqA5BIf7OO6k8OI,Mehdi Jalali,Girih: Iranian Sound Artists,Adrift Migration,1,248400,False,0.168,0.209,5,-19.681,1,0.0372,0.683,0.873,0.111,0.0711,64.458,4,iranian
+0LXdu7WMpZhDwgWjyjgzNB,Electroqute,Tanpasin,Aveinaak,0,310750,False,0.384,0.916,7,-4.172,1,0.0719,3.21e-05,0.00467,0.0494,0.212,199.852,4,iranian
+3t1ucLJpLFqr504p4YQ27R,Idin Samimi Mofakham,Concertos,Ludus Consonous X,0,613982,False,0.114,0.297,4,-17.59,1,0.0678,0.941,0.863,0.592,0.0308,65.945,4,iranian
+6wRLhezWAP2jqcqmsTjkN0,Asef Akbari,Wet And Warm,Warmth of Kindness,0,198205,False,0.122,0.204,2,-19.621,0,0.0345,0.929,0.928,0.0967,0.062,87.086,4,iranian
+3N0SQ5585sfA0Z54Yr3nUD,Cursed Kingdom,The Wasteland,Claw Of Death,0,218080,False,0.206,0.946,1,-7.083,1,0.0881,3.07e-06,0.814,0.836,0.0369,195.0,4,iranian
+12tYdKwJJ7nDikZmWUVrOy,Siavash Amini,The Waterfront,Doxa 7 for Pooya Bakhsheshi,0,199759,False,0.514,0.797,9,-10.165,0,0.0704,0.0379,0.0779,0.128,0.239,155.914,4,iranian
+0aEIwm3Bze8z5FuASbBdLs,From The Vastland,Temple of Daevas,Wrath of Aeshma,3,360040,False,0.401,0.974,1,-5.695,1,0.099,1.23e-06,0.863,0.323,0.115,120.087,4,iranian
+1v3EzWQ1f9LGtO08Im5aS4,Jaleh Negari,Arch Waves,Bølger og Prikker,0,236167,False,0.235,0.0448,7,-26.261,1,0.0572,0.995,0.83,0.107,0.0236,67.675,4,iranian
+6C54oije9rHz4dxgGi0Q0Q,Kiawasch Sahebnassagh,Schlaflied unter der Ruine(Lalai zir-e Avar) - Music fur Ensemble & Computer,Musik fur Computer:Filmmusic fur OUTER SPACE,0,554440,False,0.36,0.543,1,-14.68,1,0.556,0.352,0.0344,0.312,0.0864,77.043,4,iranian
+6THY6q592kDcv6smBb05gg,Pé,Inherited Heteronomous Perception,inherited heteronomous perception,0,1331839,False,0.16,0.00246,7,-17.021,1,0.0506,0.612,0.463,0.261,0.023,129.342,4,iranian
+0d66dkG5xIPTbMeOEpP9Bl,War Angel,Tales of the Damned,The Last Ride,0,371791,False,0.384,0.993,11,-3.809,0,0.0814,0.0362,0.0,0.141,0.108,172.997,4,iranian
+7oNkh4PT5Ys11ffiTSOZVv,Angband,Saved from the Truth,Fearless Dream,0,334013,False,0.436,0.903,2,-4.493,0,0.0894,0.00147,3.88e-05,0.127,0.422,96.637,4,iranian
+5h4UpMv1n2NFzcXYWcBvxY,Deathtune,Insanity,Denial,0,257516,False,0.296,0.996,11,-2.65,1,0.235,5.47e-06,0.00212,0.0446,0.213,113.192,5,iranian
+6HWFfaD0CWF8RxO0Q4xFMp,Azooma,The Act of Eye,Act 8 - The Eyes: A Tale of Sight and Shadows,0,215301,True,0.198,0.689,6,-8.3,1,0.0397,0.00535,0.799,0.0599,0.113,172.664,3,iranian
+4Qyl7QOjOeFnRigsX8tZqK,Angband,Visions of the Seeker,Forsaken Dreams,0,294706,False,0.568,0.616,1,-6.669,0,0.0268,0.0141,0.0571,0.105,0.21,106.1,4,iranian
+5vsqY1n8gOnkKvaGQjShpm,XERXES THE DARK,The Rise Of A.I.,The Rise of A.I.,0,206614,True,0.456,0.405,2,-11.919,1,0.0453,0.0394,0.269,0.112,0.06,80.052,4,iranian
+1qKP3CI2fKa5HsHntg7GVn,Confess,Back to My Future,Quit the Addict (Re-Recorded),0,279693,False,0.183,0.871,1,-4.108,0,0.0583,2.88e-06,0.716,0.112,0.485,114.793,3,iranian
+6PinkVBXnyC9b8gd0b9GYQ,Najand,Spectre of Revolution,Setamkeshan,0,46811,False,0.166,0.817,5,-4.161,0,0.0557,0.000212,0.869,0.452,0.171,58.305,5,iranian
+4YkyJwNJc2c5RvsbEg1jKp,Connate Exasperation,Delusional Primacy,Egoistic Demise,0,384962,False,0.486,0.977,7,-4.172,1,0.148,3.71e-06,0.913,0.104,0.0835,100.026,4,iranian
+5XnZDZZ0r5xPyB2SInz8vU,Kiawasch Sahebnassagh,...und hier in der Stille (...va inja Sokut) - Klavier Improvisation,Re,0,557480,False,0.635,0.0312,9,-26.199,0,0.0706,0.991,0.938,0.122,0.24,100.011,4,iranian
+3M4N9uyJg6RCxPsaG4xGGI,Alireza Mashayekhi,Happy Electronic Sounds,"Stratosphaere I, Op. 46",0,649221,False,0.433,0.624,1,-17.406,1,0.435,0.282,0.165,0.349,0.0606,102.828,4,iranian
+3uLEzxK02TDV2PoyKNLHng,Connate Exasperation,Delusional Primacy,Subsistence Of The Bygone,0,422464,False,0.538,0.966,9,-4.268,0,0.0642,2.7e-06,0.916,0.125,0.153,119.997,5,iranian
+2Qfe7imz8XjzZbHWPTYf3c,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 1, Op. 7",Polyphony,0,348917,False,0.239,0.0428,7,-20.367,1,0.0472,0.928,0.266,0.061,0.0395,91.778,4,iranian
+05EVgMXWpmlH8E3AlIsRsB,Spuntic,Broadcast,Hybrid Snow,0,303920,False,0.141,0.128,7,-23.067,1,0.041,0.849,1.34e-05,0.0941,0.063,87.037,4,iranian
+77xiA2qzH3Lte2wPV3EQWf,Martin Shamoonpour,Tehransaranieh,My Favorite Chaharshanbesuri,0,289440,False,0.625,0.548,7,-18.596,0,0.049,0.591,0.815,0.117,0.406,101.225,4,iranian
+3Cs57DSOkYcjcyzypyhPsA,Eternal Griefs,Blanche Monnier,My Endless Love (00:45 AM),0,299127,False,0.301,0.971,1,-6.489,1,0.118,1.12e-05,0.604,0.134,0.0358,130.093,4,iranian
+7gM2ZGaYpySUaj4wuM9Z5N,War Angel,Symphony of the War,Final Extreme,0,318016,False,0.412,0.866,2,-5.441,1,0.0491,3.5e-06,0.0109,0.0965,0.21,179.854,4,iranian
+1Hm359hrqN0bRPUdwS0P21,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,Sheherazade,Zendani,0,101800,False,0.542,0.0974,9,-30.88,1,0.298,0.929,0.000736,0.11,0.432,83.478,5,iranian
+16gukv0bt4DJAKDDJykcZi,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 30 To 33,0,229560,False,0.497,0.238,7,-17.512,1,0.0391,0.645,0.0117,0.141,0.244,128.712,3,iranian
+7IHFtMYugg7fgFdTqqwaY2,War Angel,Symphony of the War,The End Begins,0,308077,False,0.556,0.896,7,-5.159,0,0.0511,1.56e-05,0.000176,0.125,0.264,124.997,4,iranian
+79RqP2xmjoIRQ8nqNCG3nr,Integral Rigor,Alast (Instrumental Version),The Devil Inside - Instrumental Version,0,279327,False,0.179,0.939,7,-4.621,1,0.216,0.000118,0.84,0.122,0.116,194.522,3,iranian
+2RPJmEBCccFpETV201XPVv,Beshenitar,The Great Wound of History,Until the Next Felony,0,224450,False,0.375,0.997,1,-3.713,0,0.343,0.124,0.0143,0.177,0.0341,120.038,4,iranian
+2o4h2o2EKfUKHJFqIkpk2N,Pointed Mutation,Engineering the Unhuman,Implosion,0,220608,True,0.508,0.959,10,-5.327,1,0.139,3.33e-06,0.957,0.497,0.132,107.484,4,iranian
+0ZVgOdwrHcAxxhxLrS1ZsG,Idlefon,"Emerging Organisms, Vol. 5",Stonefall,0,359199,False,0.35,0.583,2,-14.188,0,0.068,0.859,0.925,0.111,0.141,109.971,4,iranian
+0QrwRdXmM17kplwcu0hMpR,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Synthetic Overture (Satan's Lullaby),1,148866,False,0.234,0.152,10,-17.391,0,0.0361,0.993,0.154,0.105,0.0668,67.28,3,iranian
+4nfD6UgGJ4gnK1eTI77OHD,Tension Prophecy,Asylum of Humanity,Feeling Like Reviving Again,0,326849,False,0.155,0.841,10,-4.726,0,0.0526,0.000911,0.862,0.0676,0.173,88.524,4,iranian
+4K2NuhUFmcQbaepaAzHGdP,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate IV Opus 180 Pour Violoncelle Et Piano - 3ème Mouvement,0,284573,False,0.254,0.104,5,-19.932,1,0.0524,0.986,0.716,0.152,0.0378,84.693,4,iranian
+1lQLxZODSaf2W1KBzH3hne,Kahtmayan,Resurrection 1,Resurrection,4,275644,False,0.582,0.97,4,-3.26,0,0.0781,0.000258,0.00033,0.062,0.151,120.035,4,iranian
+4DveLaQHQYYVwDmRmPW6Af,mHz,Earth's Shadow,"golden hour, blue hour, dusk (+6° to -18°)",1,525000,False,0.132,0.187,3,-19.351,1,0.0526,0.17,0.776,0.21,0.0339,172.802,3,iranian
+2Np9UILmMEQ8C1REZo8jbD,Kahtmayan,Virtual existence,Broken Promise,0,416213,False,0.491,0.957,2,-5.63,0,0.0518,0.000503,0.709,0.257,0.459,139.965,4,iranian
+0xsbEfKgnxpXs1IRAbEnUY,DSM,Nowruz,Nowruz,0,259970,False,0.236,0.0463,0,-26.831,0,0.042,0.927,0.815,0.103,0.0325,121.532,3,iranian
+5HPLMMGVhXPd6QRHc6PHeD,Odepth,Elements,Hominids,0,105573,False,0.169,0.0536,9,-25.27,0,0.058,0.98,0.854,0.105,0.143,74.997,4,iranian
+6WCAbJaWy9Pg8wznLCioGb,Rojin Sharafi,Zangaar,Boloor,1,284000,False,0.422,0.887,1,-6.185,1,0.199,0.122,0.000114,0.107,0.428,118.385,3,iranian
+37zB5H8VMrQcippi15J4Jm,mHz,Hg,Prima Materia,0,266663,False,0.559,0.923,10,-9.051,1,0.137,0.0184,0.769,0.221,0.12,128.958,4,iranian
+42ooLrZsZk8bNIiq4k2NhH,Ixuol,Abstraction In High Fidelity,Symratik,0,148000,False,0.421,0.547,9,-7.14,0,0.0441,0.568,0.87,0.122,0.0544,125.3,5,iranian
+3Dp84TqGG7IaIZJX7Wzcia,Angband,IV,Visions in My Head,1,294720,False,0.51,0.906,1,-4.134,1,0.12,0.00158,0.00669,0.108,0.439,155.953,3,iranian
+2UVwOER7fxnJMXb2lUpAda,Asef Akbari,Perplexed,parastoo ahmady,0,192223,False,0.215,0.388,7,-12.146,0,0.0317,0.92,0.588,0.122,0.0607,69.897,4,iranian
+53e8RTGlOj2JRqYg1uhzfw,Martin Shamoonpour,Lilith,Lilith,2,393000,False,0.249,0.0423,3,-28.541,1,0.0462,0.987,0.829,0.208,0.0396,112.348,3,iranian
+787rIUDmWWBIfZXwHUeXXQ,Leila Bela,Angra Manyu,Breath Ritual,0,28946,False,0.359,0.143,4,-30.401,1,0.439,0.393,0.0379,0.393,0.0366,119.207,5,iranian
+2OxysySr6uOToqnrf0tlAq,Kahtmayan,Virtual existence,Irreversible,0,406240,False,0.393,0.965,6,-5.133,0,0.122,0.000199,0.788,0.0898,0.33,159.982,4,iranian
+6wP0y7lFef5qppaRMm2h0r,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Slowly,0,273786,False,0.564,0.712,1,-10.621,1,0.094,0.0556,0.112,0.12,0.151,119.996,4,iranian
+0qyJBVsborarjZrtTOHL9a,Rojin Sharafi,Zangaar,Toom,0,339750,False,0.225,0.842,4,-7.636,0,0.11,0.644,0.243,0.0873,0.0398,93.808,3,iranian
+5NF0LZXnT008vwJiNbvwtr,Azooma,The Act of Eye,Act 2 - Umbra of Mirth,0,467826,True,0.226,0.988,0,-6.717,1,0.2,0.00337,0.897,0.545,0.0721,159.96,4,iranian
+1EXc4lSFTbktmqWksJLgke,Nyctalllz,Visions of Darkness: Volume II,The Curse of the White Demon,1,415517,False,0.237,0.38,2,-14.322,1,0.0358,0.599,0.875,0.174,0.0464,112.65,4,iranian
+2pkaCaIs2ZiKTSzPfcOI5B,Shivered,Journey to Fade,Journey to Fade,0,315842,False,0.558,0.837,1,-4.962,0,0.0273,0.00011,0.0246,0.107,0.448,140.001,4,iranian
+2AnbCxzDCjHsoEwnTur2r1,Downtown Of HongKong,Visions of Darkness (In Iranian Contemporary Music),Downtown Valley,0,833293,False,0.0645,0.0753,1,-14.957,1,0.038,0.951,0.775,0.0777,0.0268,68.592,4,iranian
+4x83KMU3WjevkuqtWeaqBd,ArtSaves,Decay,Clearing cache,0,223750,False,0.512,0.99,9,-7.526,0,0.151,6.04e-05,0.923,0.173,0.0608,135.992,4,iranian
+44Aivh0zXxsIsDVIZgND1L,Rojin Sharafi,Kariz,"In Your Body, In Your House",0,371978,False,0.346,0.788,0,-11.223,1,0.0943,0.00263,0.532,0.18,0.0868,135.848,1,iranian
+4snocJfNuEvueU9yXZZroF,Rojin Sharafi,Kariz,Moss Grew,1,430500,False,0.314,0.428,11,-15.667,0,0.161,0.068,0.37,0.371,0.0768,77.835,4,iranian
+4asON1CkiW73QaQSRrumH4,Nesa,Nesa - Buried EP (field blank),Buried P. 3 - 2017 edition,0,198816,False,0.0604,0.625,4,-11.971,1,0.084,0.469,0.974,0.173,0.166,60.214,4,iranian
+3IFpvR6d7BRXJ4t31K42qr,Kiawasch Sahebnassagh,Moments,Dialogue,0,235826,False,0.28,0.00455,2,-31.984,1,0.0689,0.993,0.858,0.0729,0.128,149.981,3,iranian
+0o8pP6gwJuzIOuBMuOAyJm,Asef Akbari,Perplexed,faint,0,222943,False,0.158,0.217,0,-19.106,0,0.0369,0.912,0.956,0.119,0.0405,106.699,3,iranian
+5QBwuQMFStYkhhjcc2uxDM,Asef Akbari,Wet And Warm,I Know,0,291462,False,0.261,0.237,9,-19.963,0,0.0435,0.896,0.774,0.0838,0.0783,138.979,4,iranian
+6n59WaykQ1wvFJNti0N4jd,Angband,Saved from the Truth,Saved from the Truth,0,359960,False,0.32,0.968,8,-4.709,1,0.173,0.00372,0.00508,0.453,0.276,154.324,4,iranian
+5IbpaKEEvpszjBVHjcnZWB,Siavash Amini,FORAS,Shadow Of Their Shadows,0,547200,False,0.0609,0.254,9,-27.63,1,0.174,0.67,0.838,0.135,0.0357,70.992,4,iranian
+6392PdXvZN8BOjcRxvkKO6,Spuntic,Hybrid Source,Outlined,0,348133,False,0.219,0.124,9,-21.633,1,0.0482,0.909,0.927,0.188,0.0381,77.691,5,iranian
+6JU9PUGD025Yb2A9NbyNLZ,Out of Nowhere,Man Made Disaster,Masturbation,0,312657,True,0.498,0.862,1,-2.344,1,0.0528,0.000173,0.0,0.0778,0.398,125.005,4,iranian
+6d9lCJD9LjkGFZzikFPIIg,Saba Alizadeh,Only Hope Breaks the Dark Waves,Only Hope Breaks the Dark Waves,0,176160,False,0.138,0.362,8,-17.688,1,0.12,0.691,0.91,0.189,0.0525,88.885,3,iranian
+5iLKsySETJuZuzckphh3fF,Garhelenth,The Entrance to the Realms of Garhelenth,Possessor,0,221045,False,0.156,0.794,5,-4.727,1,0.0527,1.42e-05,0.663,0.0558,0.24,107.259,3,iranian
+7qURBJLy7dtLLSv71a8XOg,Spuntic,Hybrid Source,Manifold,0,375562,False,0.263,0.736,2,-15.206,0,0.06,0.459,0.934,0.0945,0.051,137.834,4,iranian
+0Xyy5ASa9iuqIgzH2mY9T6,Garhelenth,The Mysterious Kingdom,Paradox Existence,0,269423,False,0.125,0.677,8,-9.416,1,0.048,1.68e-06,0.0056,0.382,0.299,96.517,4,iranian
+6HrVrtNZh3KSehcfwq1S2z,Spuntic,Foundation,Deep Hours,0,363992,False,0.194,0.39,10,-18.538,1,0.0467,0.00296,0.76,0.0941,0.0306,100.946,4,iranian
+1CkInVD8nTPHYHqaSryPO6,Pé,"University of Ambiance, Vol. 4",QassAlxAne,0,431077,False,0.117,0.484,2,-20.067,1,0.113,0.535,0.911,0.231,0.0348,94.998,4,iranian
+25V1oa0FGtQGKkKGF6lV28,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Little Tales 4point5,0,123706,False,0.374,0.589,10,-13.421,1,0.0653,0.321,0.413,0.152,0.157,101.504,4,iranian
+5hTeAOSQgpSjLeRD6qVAdQ,Martin Shamoonpour,8 Bit,Renge Aroosi (Old Song),0,93000,False,0.444,0.92,7,-4.079,1,0.0495,0.144,0.936,0.341,0.965,110.295,1,iranian
+7vE0JifxEUBQ91qaUDC6es,Sabke Morde,PeeranSal,Peere Borna,0,201000,False,0.282,0.905,4,-4.631,0,0.0462,0.00158,0.599,0.387,0.282,143.991,3,iranian
+2j3U3EpvZGIPw8b5WMdoPx,Zhoobin Askarieh;Javid Psychic,Sound in Morph 2 Colors Vibes Frequencies,End of the Universe (Start Again),0,481022,False,0.496,0.778,10,-7.784,0,0.032,0.0164,0.866,0.14,0.138,175.949,4,iranian
+3RbAhVb297X0g0dQVN03L1,Spuntic,Between Green,Beyond Space,0,341159,False,0.0661,0.28,5,-18.451,1,0.0348,0.647,0.93,0.121,0.0389,72.721,4,iranian
+27apjgxT1D0SXCsURCq3HW,Najand,Spectre of Revolution,Sarcheshmeye Roode Khoon,0,60107,False,0.278,0.904,6,-5.2,1,0.104,0.198,0.665,0.67,0.0384,114.417,4,iranian
+2Y3KablLaoVDIt8se1cqPa,Integral Rigor,Alast (Instrumental Version),Alast - Instrumental Version,1,424803,False,0.156,0.956,7,-4.005,1,0.138,1.38e-05,0.754,0.196,0.194,193.676,3,iranian
+5nxmwuDelvrQPTofGhF6nk,From The Vastland,Kamarikan,Kamarikan,0,360875,False,0.289,0.539,10,-7.317,1,0.15,0.000126,0.916,0.111,0.0391,119.898,4,iranian
+0QqvXQWysAuaqBQZrwmUiT,Spuntic,Lounge on the Beach,Outlying,0,303464,False,0.353,0.526,6,-15.455,0,0.0675,0.521,0.416,0.108,0.148,74.658,4,iranian
+1Eynp5iXXW6nXz5TQ4Q7Dd,Spuntic,Foundation,Lifeforms,0,190000,False,0.159,0.0736,3,-21.123,0,0.0406,0.975,0.975,0.0854,0.0355,108.997,3,iranian
+3Tq2DukZAypFP29PIWoEr5,Alireza Mashayekhi;Kimia Hesabi;Ying-Shan Su,Nemāno Gaona,Sonata for Viola & Piano: II. —,0,219042,False,0.447,0.00588,0,-25.765,0,0.0469,0.612,0.736,0.121,0.305,179.901,3,iranian
+0HM9A6FvxqBIehkyPOaBKX,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 5 (Persian), Op. 112","Movement, No. 4",0,629420,False,0.158,0.169,9,-19.168,0,0.0361,0.934,0.921,0.0849,0.0371,78.383,3,iranian
+3JtsgZ5rmgcDScknmcKnqQ,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",Zendani,0,101800,False,0.554,0.0994,2,-30.878,1,0.314,0.927,0.000617,0.109,0.466,84.575,5,iranian
+45k1DOjv1jXPI68PSHzHiv,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate V Opus 236 Pour Violoncelle Et Piano - 1er Mouvement,0,238280,False,0.207,0.0603,9,-21.104,1,0.0521,0.932,0.617,0.105,0.0508,74.194,4,iranian
+4h7XFmh8zI6KvQN6CFAO6n,Saeed Dehghan;Safir Farsi,Vintage Effort,Tamasha,2,320052,False,0.49,0.597,8,-8.048,1,0.0937,0.695,0.00155,0.056,0.185,138.019,4,iranian
+1lQLxZODSaf2W1KBzH3hne,Kahtmayan,Resurrection 1,Resurrection,4,275644,False,0.582,0.97,4,-3.26,0,0.0781,0.000258,0.00033,0.062,0.151,120.035,4,iranian
+4P6cfbLhBr50i41VzVrYmX,Kahtmayan,Resurrection 1,The Tree,3,299769,False,0.392,0.734,7,-4.673,0,0.0356,0.0131,0.0113,0.228,0.0888,147.591,4,iranian
+0uzCoKfbdmc2OEu4gCjnc3,Crows in the Rain,"You Walked with Me Then, Before Night or Day",Was the Earth Put Here Just to Nourish Human Loneliness,2,215862,False,0.491,0.259,9,-19.387,0,0.0484,0.801,0.927,0.0883,0.103,120.402,3,iranian
+3yolXChZmrQR0T0byHVRvv,Out of Nowhere,Lovely,Lovely,3,245498,False,0.507,0.971,1,-2.498,0,0.0826,0.00178,0.00174,0.128,0.275,115.024,4,iranian
+54jpZQlDpc7w3kCVcYx9Oz,Ahoora,Make Yourself Heard,Vampire,0,262825,False,0.503,0.901,2,-6.942,0,0.0429,0.413,0.692,0.0995,0.806,83.009,4,iranian
+4KEK72ojf54uZlzcHxOG6b,Shivered,Journey to Fade,Red Sky,1,242627,False,0.461,0.934,7,-4.79,1,0.0571,1.03e-05,0.00242,0.555,0.592,180.026,4,iranian
+1Txz7TXt0XRxYZCOKPcH7u,Ixuol,Abstraction In High Fidelity,Intek,1,330000,False,0.363,0.319,9,-13.795,0,0.0338,0.914,0.948,0.0687,0.0687,79.866,4,iranian
+2bAm3r3MDrsQuvgccTkTXY,Rhonchus;Zeee,Noise A Noise 20.4-2,Push It Harder,0,232906,False,0.136,0.314,5,-15.668,0,0.0365,0.983,0.723,0.153,0.0377,80.629,4,iranian
+1X8iB0AWId0dJs4iXazSW7,Azhirock,Rope,Trapped in Thunder,0,347873,True,0.519,0.788,11,-3.947,0,0.0328,0.0234,3.64e-05,0.344,0.387,89.995,4,iranian
+4ZUJiYkuEtpKC0H8hm4Ahw,Spuntic,Hybrid Source,Movement,2,507062,False,0.134,0.179,0,-21.787,1,0.0467,0.721,0.932,0.183,0.0306,69.794,5,iranian
+3eyT2EMgq21xqTZumWgqzg,Trivax,Into the Void,Into the Void,4,540000,False,0.175,0.931,10,-4.981,1,0.0961,0.000489,0.869,0.097,0.0399,125.957,3,iranian
+6f55xvTZcV1R4oc9NBzR6W,Nima A.M.,Resultant Vector,The Ego,0,306000,False,0.59,0.839,11,-4.945,0,0.0512,0.000726,0.876,0.116,0.138,124.015,4,iranian
+34tXGq5CuKu9hk6WKtWUtu,Dariush Dolat-Shahi,Otashgah: Place of Fire,Otashgah,0,1149106,False,0.269,0.605,8,-18.124,0,0.247,0.906,0.611,0.119,0.0365,119.101,3,iranian
+0GDJw8IqIfJ5srjaETvTTn,AMONGST THE ASHES,Agonizing Awakening,Blood Red Hands,0,233704,False,0.36,0.969,6,-5.401,0,0.115,4.84e-06,0.668,0.0655,0.247,199.996,3,iranian
+3T95AMRhF5dhTtY4z82bbf,Saba Alizadeh,Scattered Memories,Greetings to Earthfire,3,198831,False,0.211,0.448,0,-12.325,0,0.0387,0.977,0.12,0.126,0.0366,71.245,3,iranian
+71RFrMm45mDbrr5GmYyqwV,Baaroot,الکتروهیچ Electrohich,چرخ Wheel (Baaroot Remix),0,346881,False,0.279,0.922,5,-7.671,0,0.0729,0.111,0.862,0.135,0.597,127.662,4,iranian
+2OxysySr6uOToqnrf0tlAq,Kahtmayan,Virtual existence,Irreversible,0,406240,False,0.393,0.965,6,-5.133,0,0.122,0.000199,0.788,0.0898,0.33,159.982,4,iranian
+5328lTykrH7BSAX4nou6aD,Azhirock,Lucifer : Annihilated,Unnecessarily Alive,0,200005,False,0.234,0.942,1,-6.294,0,0.195,0.000405,0.000848,0.0867,0.526,177.135,3,iranian
+4NRZLLzG8Uluf3qC3xRJUg,Ixuol,Girih: Iranian Sound Artists,InTec_06,1,332000,False,0.341,0.29,9,-15.523,0,0.0346,0.889,0.949,0.0785,0.0547,79.419,4,iranian
+7cYiZjbtmmjfo57jyH0Tb8,Zhoobin Askarieh,Noise A Noise 19,Technique,0,376262,False,0.0995,0.579,5,-13.537,1,0.064,0.63,0.958,0.0643,0.0387,90.131,3,iranian
+5NF0LZXnT008vwJiNbvwtr,Azooma,The Act of Eye,Act 2 - Umbra of Mirth,0,467826,True,0.226,0.988,0,-6.717,1,0.2,0.00337,0.897,0.545,0.0721,159.96,4,iranian
+3UMPQ2tXZEtZV6JwhqJHGk,Rojin Sharafi,Kariz,Where Space Passes By,1,386595,False,0.464,0.485,0,-15.065,0,0.0539,0.369,0.679,0.144,0.0394,106.595,4,iranian
+79NuWVxvOOf8IuX6lxjz5r,Deathtune,Original Sin,The Sacred Quisling,0,337029,False,0.289,0.953,4,-4.145,0,0.106,1.97e-05,0.151,0.143,0.213,149.947,4,iranian
+7u5YamTXLPnqTTw3KGcJNq,Pher,Girih: Iranian Sound Artists,In Evil Hour,0,332676,False,0.165,0.105,2,-20.436,0,0.0349,0.715,0.866,0.0594,0.0323,111.413,1,iranian
+1HVjSh7scH1PaPiLjy2LEu,Leila Bela;Leila's Opera Class,Angra Manyu,Screams for a Finale! (feat. Leila's Opera Class),0,15800,False,0.251,0.508,5,-10.564,0,0.316,0.969,0.999,0.952,0.0,184.051,3,iranian
+3eBMWAbupDk0WKevWvrqa4,PERMEATE,Memories,Memories,0,400444,False,0.381,0.805,4,-11.292,0,0.058,0.054,0.912,0.0922,0.124,134.96,4,iranian
+02x0srefQt05LECFefKRBH,XSIX,Visions of Darkness (In Iranian Contemporary Music),Lost,0,422053,False,0.118,0.574,0,-11.635,0,0.05,0.013,0.479,0.134,0.0394,93.496,4,iranian
+6JU9PUGD025Yb2A9NbyNLZ,Out of Nowhere,Man Made Disaster,Masturbation,0,312657,True,0.498,0.862,1,-2.344,1,0.0528,0.000173,0.0,0.0778,0.398,125.005,4,iranian
+4Yypm1NjXuRiN97MgO39dq,Angband,Visions of the Seeker,Battle for...,0,341733,False,0.344,0.969,4,-5.036,1,0.285,0.00127,0.000416,0.356,0.346,99.982,4,iranian
+0W6OWVVQKvIfNvMgZHca7Z,Trivax,The World Is Dead,The Dawn of Man (Intro),0,89522,False,0.226,0.527,2,-5.834,0,0.0309,0.00486,0.924,0.446,0.0375,95.874,4,iranian
+2fCg5Z0Hrg7FcH2oZ7L7y6,Sabke Morde,PeeranSal,Roya,0,368374,False,0.281,0.318,7,-8.256,0,0.0387,0.169,0.013,0.0963,0.0373,107.767,4,iranian
+1vmY7zu5SLFHM8bAXxlwaC,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Meta XY,0,778653,False,0.117,0.763,0,-8.879,1,0.172,0.381,0.0368,0.246,0.186,84.208,3,iranian
+1RA8CIKA8k817KLoNns6Fj,Najand,The November Revolution,Resad Bahar,0,55103,False,0.42,0.722,1,-2.92,1,0.0411,0.937,0.893,0.172,0.038,106.591,1,iranian
+06SMPf7u1E1XYYFsShNeUb,Asef Akbari,Wet And Warm,Birth for death Death for Brith,0,175426,False,0.301,0.177,11,-17.252,1,0.0421,0.942,0.866,0.092,0.219,129.961,4,iranian
+6yS489pl4Pfs3FsyKqpZLe,Leila Bela;Buddy Mv,Angra Manyu,Listreaux Grackle Inc. (feat. Buddy Mv),0,138773,False,0.567,0.555,2,-10.784,1,0.0446,0.541,0.462,0.0737,0.452,81.301,4,iranian
+4vMvKwZ5q9yplZs32DXTxJ,Atria,Reincarnation,Beyond the Horizon,0,48000,False,0.226,0.912,6,-3.588,1,0.138,2.94e-06,0.829,0.221,0.0899,139.606,4,iranian
+4jGpQgN8N0coixYr14tXyI,Alireza Mashayekhi,Happy Electronic Sounds,"Autonom III, Op. 10",0,257410,False,0.461,0.438,5,-15.467,0,0.644,0.667,0.000873,0.13,0.0659,147.657,4,iranian
+0joE7ji5U8u5M7ri3z9lm4,Eternal Griefs,Blanche Monnier,When Sadness Embraces My Heart,0,558811,False,0.306,0.796,8,-9.177,0,0.0556,0.000758,0.773,0.0642,0.33,135.022,4,iranian
+7IWZoME9i2MhV4YHdPG9Wo,Najand,Anarcho-Nihilist 13,Under the Ferris-Wheel,0,61240,False,0.281,0.787,0,-3.655,0,0.0504,0.546,0.0596,0.337,0.192,137.785,4,iranian
+2fsNAoi2YqVTqeMhlPntc8,Spuntic,Out of Step,Metamorphose,0,165642,False,0.0903,0.361,3,-21.767,0,0.0734,0.953,0.814,0.168,0.0549,167.508,3,iranian
+4PopMgLMFKxHIH0uvERwbC,Tegh,Emergent Errors,"Now She's Alive, But She Was Dead At The Time",0,710400,False,0.17,0.22,9,-21.988,1,0.0598,0.0601,0.911,0.286,0.0309,123.25,5,iranian
+3GUTIlj4Xj4PtS06s6M29S,Jaleh Negari,Eget Værelse Compilation 2017,Bølger og Prikker,0,236167,False,0.235,0.0448,7,-26.261,1,0.0572,0.995,0.83,0.107,0.0236,67.675,4,iranian
+36ft3yzayIiNLlFfgS0oek,War Angel,Symphony of the War,Dirty Deeds Done Dirt Cheap,0,234896,True,0.606,0.738,9,-5.278,0,0.0347,5.21e-05,0.000406,0.148,0.617,138.158,4,iranian
+5hFcY2Mb4a5skc6DKBt9Lu,Deathtune,Original Sin,"The Flagellant, a Psychopath",0,334025,False,0.389,0.923,0,-4.252,1,0.0765,4.14e-05,0.0173,0.381,0.194,120.062,4,iranian
+4PMs09579sllJMndpaqj0p,Spuntic,Foundation,Deep Hours,0,363992,False,0.194,0.39,10,-18.538,1,0.0467,0.00296,0.76,0.0941,0.0306,100.946,4,iranian
+0TSKxHKEiQ4Bk0ziefSS9i,Ata Ebtekar;Sote,"An Anthology Of Noise & Electronic Music, Vol. 6",Turqoise Gas In Ice,1,217826,False,0.265,0.888,1,-7.232,1,0.441,0.0192,0.00586,0.224,0.207,63.54,4,iranian
+3u0GkwnjSEBqmTSvlgjFjJ,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Picture Of A Whisper,0,139320,False,0.207,0.276,7,-11.911,0,0.0354,0.633,0.789,0.117,0.0387,145.815,1,iranian
+1o1InHR71Mh492TT1sKlAf,Pointed Mutation,Engineering the Unhuman,Fractal Equivalence,0,211675,True,0.297,0.918,7,-5.923,1,0.178,1.6e-05,0.895,0.528,0.0786,199.123,4,iranian
+2cXZ4LHZDdhfdsr5h5tyJc,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate IV Opus 180 Pour Violoncelle Et Piano - 1er Mouvement,0,204026,False,0.182,0.0659,9,-20.241,1,0.0493,0.986,0.842,0.0936,0.0386,175.523,3,iranian
+6LRvIZUv1u8LFsxnk2iMr0,Saeed Dehghan;Safir,Halabi Abad,Burning Under the Snow,3,300230,False,0.485,0.865,1,-7.423,0,0.265,0.235,3.72e-05,0.11,0.358,128.121,4,iranian
+71JXm2xVg1y7buT4gkN8kS,Saeed Dehghan;Pari Eskandari;Beatbynajwa,Oryan,Giahe Vahshi,3,261500,False,0.467,0.782,10,-8.136,1,0.0599,0.00181,5.72e-05,0.0971,0.203,145.059,4,iranian
+589rG7NOCrbUl3cpPxDBiy,Farzad Golpayegani,Six,96,4,133514,False,0.363,0.783,10,-5.324,0,0.051,0.000173,0.000337,0.0764,0.173,115.134,4,iranian
+5KSapJotajTcHPTWfPDT94,Crows in the Rain,You Are Dying in My Arms (the Frozen Last Gasps),Chapter V - I'll See You In Elysium,5,1268000,False,0.403,0.134,7,-23.776,0,0.0421,0.995,0.874,0.0961,0.0388,120.132,4,iranian
+68hN2CBIarNwRsplnLx1nM,Farzad Golpayegani,Nine,Vengeance,6,252230,False,0.421,0.949,1,-9.64,0,0.0531,0.116,0.926,0.256,0.73,163.931,3,iranian
+5Q6WYUzvxY2n81kVJeKhzy,Saeed Dehghan,Oryan,Too Cheshmat 3,2,160000,False,0.492,0.869,0,-8.763,0,0.158,0.178,0.843,0.089,0.435,149.955,4,iranian
+0xsbEfKgnxpXs1IRAbEnUY,DSM,Nowruz,Nowruz,0,259970,False,0.236,0.0463,0,-26.831,0,0.042,0.927,0.815,0.103,0.0325,121.532,3,iranian
+018vKll25kQiBjJ9FVOhSV,Crows in the Rain,Sorrow for an Unfinished Dream,This Is Our Cry,9,305406,False,0.512,0.225,8,-22.319,0,0.0419,0.954,0.702,0.147,0.1,104.694,4,iranian
+4kryobsTTMryrPeTK8D0eg,Azhirock,Rope,Life Story,0,230505,True,0.44,0.956,7,-3.214,0,0.0695,0.00783,4.1e-05,0.331,0.372,144.987,4,iranian
+1uVGh2VWfTDvPQ9JTPmCRB,From The Vastland,Mar-Tiya-Khvara,Mar-Tiya-Khvara,3,375500,False,0.273,0.923,8,-3.873,1,0.0955,6.92e-05,0.0033,0.0877,0.0416,119.302,4,iranian
+1Gwzo9NHgN9Ik8jY4ZztsD,Farzad Golpayegani,Two,Thirty Two,0,153000,False,0.376,0.961,9,-3.528,0,0.118,0.00448,0.625,0.0873,0.149,163.996,3,iranian
+58vPBHpDMvtGNxq3XxvubM,Azhirock,Lucifer : Annihilated,Shadow of Faith,0,240000,False,0.269,0.902,6,-6.814,0,0.161,0.0261,0.0514,0.201,0.4,198.779,3,iranian
+38Ogh3rsHba83kXx13gbKs,Leila Bela,Angra Manyu,V-4,0,13386,False,0.0,0.224,11,-22.196,1,0.0,0.97,0.0,0.907,0.0,0.0,0,iranian
+3incV1wkxVqdwMS7dji4ko,Farzad Golpayegani,Two,Nine,0,463000,False,0.292,0.839,2,-5.341,1,0.0434,0.158,0.826,0.191,0.123,103.464,3,iranian
+1uzQqTxYfq7VUP0pJnQAbb,Electroqute,Fravak,Mehr,0,197774,False,0.568,0.942,0,-4.932,1,0.0749,0.00116,1.45e-05,0.0904,0.509,157.086,4,iranian
+1F800CgFr4GsCYs3YkTWV1,Nima A.M.,Mirage,Mirage,0,400000,False,0.563,0.73,1,-8.72,0,0.034,0.0102,0.901,0.151,0.301,110.01,4,iranian
+1FKPfCP5XLtkytWxP6PZ5h,Electroqute,Tanpasin,Markh,0,271971,False,0.459,0.948,7,-3.671,1,0.0794,0.000124,0.00825,0.0984,0.48,167.0,4,iranian
+5vd5uSmusEpwnzppKZKpJR,Leila Bela,Angra Manyu,Fairys Playing Chimes,0,79293,False,0.353,0.219,4,-21.143,0,0.106,0.317,0.826,0.349,0.0393,134.133,4,iranian
+0XpFEZKxUhSSsTdRw2JPqG,Leila Bela,Angra Manyu,Grrrnnr Monster!,0,49480,False,0.272,0.86,8,-2.238,1,0.128,0.333,0.429,0.142,0.151,132.651,4,iranian
+2pkaCaIs2ZiKTSzPfcOI5B,Shivered,Journey to Fade,Journey to Fade,0,315842,False,0.558,0.837,1,-4.962,0,0.0273,0.00011,0.0246,0.107,0.448,140.001,4,iranian
+1oGNMcLdnXNoHdYgual2Pn,Siavash Amini,TAR,A Dream's Frozen Reflection,0,724000,False,0.116,0.442,6,-13.458,0,0.0476,0.0509,0.952,0.0677,0.0228,94.829,4,iranian
+1pBHxJzQEiO0PG1BsN096D,Mehdi Khayami;Maria Grazia Bellocchio,Mehdi Khayami: Kamanche Concerto,Sellat,0,572866,False,0.393,0.239,8,-13.431,1,0.0459,0.846,0.893,0.101,0.0409,138.686,3,iranian
+6Ub0hiy3jzSIcGrcDn27lz,Baramant,Homarg,Weird,0,326925,False,0.532,0.989,0,-4.025,0,0.101,0.000525,0.656,0.271,0.462,160.028,3,iranian
+0bqJjmefOZT1BcWDSiwtTS,Shivered,Journey to Fade,The Light Tears Apart,0,256687,False,0.443,0.932,4,-5.086,0,0.0715,2.47e-05,0.00178,0.375,0.454,159.935,4,iranian
+4eTtlpUsCzCa7iVceVixSz,Negin Zomorrodi,InMigration,Boroon Kooch,2,582253,False,0.167,0.14,5,-16.398,1,0.0402,0.889,0.847,0.128,0.0397,87.344,4,iranian
+71mdBWRWfnyf5Tu69SONg7,Farzad Golpayegani,One,Twenty Two,0,201000,False,0.41,0.85,9,-6.209,0,0.0442,0.423,0.487,0.099,0.329,79.961,4,iranian
+6392PdXvZN8BOjcRxvkKO6,Spuntic,Hybrid Source,Outlined,0,348133,False,0.219,0.124,9,-21.633,1,0.0482,0.909,0.927,0.188,0.0381,77.691,5,iranian
+2pw80nL0PyaJJnircw75qK,Out of Nowhere,Man Made Disaster,Farm,0,214000,True,0.412,0.905,1,-2.918,1,0.108,0.00355,0.0,0.0956,0.398,119.79,3,iranian
+7LmSHOk78FKRQIP6IS6uxa,Zhoobin Askarieh;Ali Sasha,Liberation,Matrix,0,383534,False,0.35,0.831,0,-9.522,1,0.0451,0.282,0.873,0.146,0.33,86.981,4,iranian
+4Z0CEb8BEuctghGCNpXoyy,PERMEATE;pOverDose,Memories,Where Is Love!,0,260250,False,0.606,0.775,5,-11.833,0,0.0625,0.0253,0.872,0.127,0.0987,109.988,4,iranian
+688wCAZRRVhojVQlFZ10dy,Pé,Inherited Heteronomous Perception,conversing intrusive thoughts,0,392432,False,0.273,0.0646,1,-26.994,1,0.0482,0.461,0.894,0.0805,0.029,139.477,5,iranian
+7AFHeCCYNwGDycxgxC1wJB,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Scratching the Surface,0,283026,False,0.318,0.792,11,-11.312,0,0.231,0.0154,0.951,0.102,0.151,119.723,4,iranian
+2tZXHn7C9QibvCjbDSO0rT,Alireza Mashayekhi;Ata Ebtekar;The Iranian Orchestra For New Music,Ornamentalism,Turquoise Gas In Ice,0,215466,False,0.26,0.897,1,-7.087,1,0.384,0.0191,0.00758,0.301,0.2,128.051,4,iranian
+19ODdY2U4Wqlv6t04dk54j,Najand,In the Night of Revolution,Preaching for the Deaf,0,192407,False,0.211,0.975,7,1.7,0,0.107,0.155,0.000256,0.357,0.0503,131.265,5,iranian
+0PtTkqLnywT81bBaPcv4wv,Spuntic,Between Green,Aural Space,0,375092,False,0.219,0.367,10,-22.134,1,0.0561,0.97,0.923,0.0955,0.0381,109.72,3,iranian
+4p9YQknAZypF6akNJYZ87o,Najand,Spectre of Revolution,Karzare Kheir O Shar,0,60107,False,0.222,0.957,9,-5.719,1,0.078,0.00694,0.952,0.593,0.037,69.401,4,iranian
+4obJtkTzN2YqRwcltTu97a,Jaleh Negari,Weaver ~,the harvester,0,329273,False,0.185,0.428,0,-16.046,0,0.0571,0.496,0.771,0.364,0.0353,133.922,3,iranian
+0511ch8XcVmwWyfbK3NPVg,Integral Rigor,No More Room in Hell,Burning Heaven,0,262000,False,0.468,0.804,10,-7.523,1,0.0568,4.97e-06,0.823,0.0927,0.0983,119.906,4,iranian
+3Fjhh5eNUtTMU5s5N0J4vu,War Angel,Symphony of the War,Stillness,0,330031,False,0.324,0.913,2,-5.307,1,0.0909,5.44e-06,0.000187,0.0968,0.229,105.013,4,iranian
+4o4wJ9WDI7m680VR9qTd8w,Spuntic,Out of Step,Emerging Space,0,253335,False,0.0992,0.254,0,-16.296,0,0.0327,0.897,0.0995,0.392,0.033,82.701,4,iranian
+2WZpEkcISAkORMAcikNm0g,War Angel,Symphony of the War,Bleeding,0,252345,False,0.516,0.818,2,-5.65,1,0.0366,7.37e-06,0.241,0.0793,0.168,90.061,4,iranian
+6zrW1mHEwK4D2kRBGiZwgm,From The Vastland,The Haft Khan,Khan e Dovom,1,373250,False,0.203,0.882,3,-7.97,0,0.093,1.73e-05,0.892,0.11,0.107,119.978,4,iranian
+0Xyy5ASa9iuqIgzH2mY9T6,Garhelenth,The Mysterious Kingdom,Paradox Existence,0,269423,False,0.125,0.677,8,-9.416,1,0.048,1.68e-06,0.0056,0.382,0.299,96.517,4,iranian
+5UVhiRDRO66p5ZrbNAyCpH,Idin Samimi Mofakham,Concertos,Holography (Concerto for Piano and Orchestra),0,1339977,False,0.164,0.259,4,-16.207,1,0.0377,0.696,0.533,0.122,0.035,86.187,4,iranian
+6MnSyZZwLhpcpvQuOyvKES,Zhoobin Askarieh;Ali Sasha,Beyond Tribes,Beyond Tribes Pt. 1,0,1937632,False,0.302,0.692,9,-15.026,1,0.54,0.538,0.0533,0.105,0.177,175.989,4,iranian
+65JuWImqROwMyJrZGbJ8qs,Hadi Bastani,Noise A Noise 20.3-1,In the Club with Bob,0,277300,False,0.222,0.116,5,-21.388,0,0.0363,0.47,0.913,0.0959,0.0399,86.919,5,iranian
+5nxmwuDelvrQPTofGhF6nk,From The Vastland,Kamarikan,Kamarikan,0,360875,False,0.289,0.539,10,-7.317,1,0.15,0.000126,0.916,0.111,0.0391,119.898,4,iranian
+2rDnuuUP0uc5QQExAmSBQQ,Arash Pandi,Girih: Iranian Sound Artists,Power of Patience,0,520250,False,0.151,0.267,9,-17.567,1,0.0453,0.241,0.877,0.0872,0.0371,144.816,4,iranian
+4j4GpPOvUoZSz1ozjPyMqp,Spuntic,Foundation,Lightfall,0,198388,False,0.0849,0.177,6,-27.363,1,0.0482,0.752,0.92,0.112,0.0455,85.435,4,iranian
+3mmSn39oAXioD72xlP8aqU,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate III Opus 172 Pour Violoncelle Et Piano,0,594026,False,0.347,0.0949,2,-20.273,1,0.0492,0.964,0.78,0.0926,0.0393,77.227,4,iranian
+0xMD36LQ76apavOhBL7nug,Crows in the Rain,Little Girl And Lost Blossom,... (For A Film),2,168813,False,0.262,0.351,5,-18.54,1,0.0503,0.98,0.975,0.141,0.0258,70.2,4,iranian
+53XpFO88jHBvgbh5IgcouU,Tegh,Night Scenes,Conn,0,463058,False,0.0574,0.339,0,-10.356,1,0.0502,0.245,0.893,0.0995,0.0335,57.386,4,iranian
+5TLEZzw8UIl3hgXlcst3WD,Kiawasch Sahebnassagh,Waran,Waran 2000,0,1038586,False,0.452,0.13,8,-15.266,1,0.093,0.99,0.403,0.323,0.172,80.192,3,iranian
+4P5sh0vD2KwRH5wSXm5U9y,Electroqute,Bimari,Bimari,0,253859,False,0.325,0.929,4,-3.928,1,0.0865,0.000271,5.93e-05,0.418,0.294,95.384,4,iranian
+5H6kYSJNxRnAp25X2tUyfU,Idlefon,COLDSTREAM,Marooned,1,291400,False,0.171,0.593,9,-11.37,0,0.0428,0.000713,0.93,0.28,0.0383,111.993,4,iranian
+7gXE6tqkWNdgMovYoeatCv,Ixuol,Abstraction In High Fidelity,Discurs,0,189000,False,0.572,0.854,7,-3.525,1,0.0832,0.000148,0.934,0.0984,0.152,95.94,4,iranian
+46eMkssP8PolHKwZl5DOPy,Arash Pandi,Exotic Paradox,Dashti,0,341333,False,0.167,0.744,11,-9.967,1,0.363,0.358,0.92,0.0623,0.128,85.06,3,iranian
+5BpwHwaCBpvLuzHZcTOLIo,Soheil Soheili;Sina Shoaie,Re-listening Live in Cafe Baz,Closure - Live,0,198000,False,0.139,0.376,9,-18.282,1,0.0627,0.877,0.235,0.109,0.0388,54.956,5,iranian
+7c3tbiTcweIl8Io3d6Y2eM,Confess,Encase Your Gun,Encase Your Gun,0,392045,False,0.198,0.994,2,-1.733,1,0.121,3.2e-05,7.23e-06,0.236,0.083,110.007,4,iranian
+5gYNIwz1eygjeDnVCV8sCP,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,Nights,0,311132,False,0.542,0.946,8,-11.342,1,0.0673,0.694,0.914,0.504,0.039,120.012,4,iranian
+5HEyKap3jSi3MHmVD1zuDm,Out of Nowhere;Ehsan Imani,Man Made Disaster,Man Made Disaster,0,345478,True,0.258,0.823,6,-4.065,0,0.0733,0.000656,1.33e-05,0.274,0.0722,179.926,3,iranian
+10t0BfHUkq9iKZzOj4LY3c,Calibre,The Storm Inside,Break Out,0,199253,True,0.556,0.987,11,-3.347,0,0.153,0.000927,1.64e-06,0.224,0.258,103.001,4,iranian
+4bjb0FlAv0LS2agVDxW9eN,Rojin Sharafi,Zangaar,Baadaabaad,0,290000,False,0.4,0.415,7,-13.288,0,0.16,0.839,0.362,0.111,0.0383,88.553,1,iranian
+4ydTbA091TD8OfdvU0KPuZ,Porya Hatami,Monads,6B (of Presence),0,152752,False,0.353,0.868,4,-19.936,1,0.0671,0.974,0.965,0.407,0.0982,73.404,4,iranian
+5erd3YODv3uyjimkoLvSTY,AMONGST THE ASHES,Agonizing Awakening,Spreading the Deception,0,283896,False,0.398,0.918,6,-6.989,1,0.0421,1.75e-05,0.292,0.354,0.409,170.05,4,iranian
+5z0ooltPw47w971IESzJcW,Leila Bela,Angra Manyu,Apparition Faith1... a Sort of Daos X Machina,0,111426,False,0.38,0.121,9,-20.987,0,0.0341,0.99,0.0394,0.113,0.101,109.398,5,iranian
+53PlEVKI8fK6rny7QBfEO8,Kiawasch Sahebnassagh,Waran,"For ensemble,Choir und Sprecher",0,411573,False,0.55,0.248,1,-13.862,0,0.384,0.812,0.0,0.353,0.258,87.351,4,iranian
+3bssz16JkTN7OKTGn6DUL9,Chaos Descent,Faces,Faces - Original Mix,0,233280,False,0.293,0.968,7,-4.714,1,0.111,3.91e-05,1.51e-06,0.366,0.119,110.018,4,iranian
+5Uw4bPDsuoEI7Cfr652n2j,Rojin Sharafi,Kariz,White Sheets Hide,0,330000,False,0.383,0.531,5,-13.693,0,0.0475,0.000366,0.568,0.26,0.077,133.053,4,iranian
+4bOkUr0jyIdtuIXaDznu1U,Tegh,Emergent Errors,Smelled Like Rotting Flesh,0,504000,False,0.172,0.133,7,-17.8,0,0.0426,0.77,0.921,0.184,0.0256,120.005,4,iranian
+0qIWjrlKP23IR8sZGeQpp1,Idlefon,Intensive Collectivity Known As City,FairLight,0,244453,False,0.54,0.365,7,-18.448,1,0.049,0.544,0.946,0.122,0.0874,96.015,4,iranian
+65wb59dZiSnidHPutl8nlN,Angband,IV,Nights of Tehran,0,339026,False,0.536,0.688,11,-5.618,0,0.0281,0.0211,2.1e-05,0.046,0.184,145.99,3,iranian
+1J4oO8Igq6ELSJvNNxBvSx,Farzad Golpayegani,One,Twelve,0,263000,False,0.384,0.882,9,-5.767,0,0.115,0.076,0.853,0.328,0.0452,120.166,4,iranian
+0tf6nQ7JX4nTTLPL75LMoN,Confess,Beginning of Dominion,Fly Without Wings...,0,66000,False,0.421,0.419,1,-10.049,0,0.0368,0.622,0.968,0.192,0.0637,97.986,4,iranian
+0bl2LMDoci0qaQgH4CdLTc,Witness the Existence,Enshrined Twice,Enshrined Twice,0,582870,True,0.513,0.935,11,-3.967,0,0.0509,0.00454,0.262,0.128,0.165,98.025,4,iranian
+3Gi5reNEb3Fd0xquXgc4S7,Chaos Descent,A New Clear Dawn,The Apathetic Age,0,246964,False,0.555,0.967,11,-5.632,0,0.0506,1.98e-05,0.0305,0.391,0.152,112.008,4,iranian
+6nI4k0NvKtLB4bRbJgiYwd,Silent Path,Mourner Portraits,"Last Men, Last Dreams",0,453946,False,0.124,0.802,9,-6.376,0,0.0733,0.491,0.9,0.121,0.0389,75.878,3,iranian
+37aMMyyEcuSqeogOvsb4ID,Spuntic,Broadcast,Piramoun,0,293226,False,0.163,0.0463,0,-29.546,0,0.0425,0.981,0.821,0.139,0.0342,109.869,5,iranian
+4Szvj7fFprXZhJLjanbTo8,Idlefon;Siavash Amini,Intensive Collectivity Known As City,Pretend It's Spring,0,246625,False,0.463,0.502,10,-16.713,1,0.0495,0.764,0.892,0.183,0.347,120.005,4,iranian
+0NJS8GNxiAQoYsoMq8mABh,Asef Akbari;Nima Alizade,Wet And Warm,Slow Laugh (feat. Nima Alizade),0,265888,False,0.329,0.187,7,-17.16,1,0.046,0.95,0.881,0.0939,0.0449,71.582,3,iranian
+1fbHsIsgVoZsltBtQhSgvc,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Nashid,0,336760,False,0.107,0.936,6,-6.521,0,0.274,0.327,0.0447,0.493,0.204,69.785,4,iranian
+41hEXKIlLlGo2PgjrvOfgD,Angband,Rising from Apadana,Incarnation of Truth,0,312520,False,0.314,0.751,8,-11.747,1,0.0795,1.23e-05,0.000238,0.103,0.0842,120.065,4,iranian
+6G9HMv44OuRP7eQ8a1pmll,Alireza Mashayekhi,Persian Electronic Music Yesterday And Today1966-2006,"Yaad, Op.66",0,459240,False,0.0645,3.61e-05,9,-10.032,0,0.082,0.95,0.807,0.157,0.964,79.441,4,iranian
+2ZDywuCvvGjxS6KbOmKuZ3,Spuntic,Between Green,Lunar Trees,0,140173,False,0.258,0.22,2,-18.02,1,0.0535,0.947,0.922,0.107,0.0495,67.059,5,iranian
+2V4jFG2JEPRmUSKVG6QLQm,Najand,Anarcho-Nihilist 13,Chapter of the Death,0,62000,False,0.384,0.978,2,-3.71,0,0.11,0.0934,0.692,0.104,0.0362,124.286,4,iranian
+3hG2bfMoOXEcOdMvFEvnsz,Kiawasch Sahebnassagh,Schlaflied unter der Ruine(Lalai zir-e Avar) - Music fur Ensemble & Computer,Also Sprach die Masnahme:Fur Chor a Capella,0,379346,False,0.226,0.385,1,-16.829,1,0.0755,0.978,1.33e-06,0.361,0.0383,98.296,4,iranian
+0xSAeGLEMNwWZw4eUHehpa,From The Vastland,Temple of Daevas,Temple of Daevas,0,336093,False,0.376,0.949,6,-6.331,1,0.113,2.98e-06,0.92,0.162,0.132,120.085,4,iranian
+6sCZVXsOrejJo89v20AL8b,Chaos Descent,When Life Leads Us to Death,Burning Inside - Original Mix,0,349201,False,0.58,0.9,7,-5.734,1,0.0532,0.000283,5.95e-06,0.354,0.0744,120.03,4,iranian
+3KmEutU45TA4JMK3hDXSsV,Martin Shamoonpour,8 Bit,Zirkeshe Salmak (Dastgahe Shur),0,95760,False,0.555,0.0863,0,-4.599,0,0.0604,0.657,0.982,0.13,0.651,128.021,3,iranian
+0kRKnQbOPzQb1n6DAU45Cd,Alireza Mashayekhi;Layla Ramezan,Sheherazade,On the Outskirts of the Desert,0,157400,False,0.387,0.0142,3,-27.143,1,0.0457,0.973,0.901,0.0937,0.0542,137.69,3,iranian
+2jRgj5kaRzwxwbd2Ddr1Ad,Chaos Descent,When Life Leads Us to Death,When Life Leads Us to Death - Original Mix,0,191376,False,0.188,0.482,0,-5.502,0,0.034,0.0415,0.954,0.0724,0.229,159.616,1,iranian
+3bzVfjv6RgVg2eMKjelhpI,Alireza Mashayekhi;National Symphony Orchestra of Ukraine;Vladimir Sirenko,"Symphony, No. 1, Op. 7","Panoptikum88, Op. 97",0,472790,False,0.0627,0.128,7,-20.515,1,0.045,0.935,0.903,0.121,0.0319,52.211,4,iranian
+3iV8JJjiQCr25Ugpq9ju8J,Garhelenth,The Mysterious Kingdom,On Mortality & Immortality,0,230400,False,0.338,0.838,10,-8.931,0,0.048,1.12e-06,0.888,0.0917,0.0973,100.018,4,iranian
+3WHeau3uOtXi19dy61WCkI,War Angel,Tales of the Damned,The Morning Star,0,350595,False,0.488,0.995,1,-4.656,0,0.0908,0.00243,2.51e-05,0.267,0.038,100.024,4,iranian
+0fUydAlb5pjN6RLenfYuIi,Kiawasch Sahebnassagh;Andreas Lindenbaum,Zarman,Menidan:For Violoncello,0,537186,False,0.426,0.0553,1,-29.62,1,0.0966,0.125,0.5,0.139,0.128,129.471,5,iranian
+68Yun2jc8YaCCao1XCiNPz,Kiawasch Sahebnassagh,"Left Above the Clouds - Piano Classical Themes for Inflight Relaxation, Peace and Calm Music for Antistress Journey",Dialogue,0,234162,False,0.359,0.0425,2,-16.81,1,0.0579,0.995,0.907,0.0932,0.171,147.736,4,iranian
+2NsNHRVd9IJ1tujyHHC6P5,Leila Bela;J Koran;Buddy Mv;Alicia Mv;Powlatzki,Angra Manyu,"M(1) [feat. Alicia Mv, Powlatzki, J Koran & Buddy Mv]",0,101293,False,0.287,0.156,0,-17.04,0,0.044,0.993,0.0188,0.214,0.165,91.495,3,iranian
+3FfQqRlCJrvCLsi4HOYLqu,Hadi Bastani,Emergence,Ecbatan,0,659997,False,0.273,0.341,1,-20.601,0,0.0893,0.27,0.117,0.0826,0.114,120.699,5,iranian
+4mUemiyXMZXjjiXU3sB4LF,Deathtune,Insanity,Inner Cancerous Growing of Hatred,0,253023,False,0.531,0.994,11,-2.914,0,0.215,8.75e-06,0.00202,0.0616,0.336,145.024,4,iranian
+6j2BsmTY0rThSV58j7GsLj,Alireza Mashayekhi;Marie-Thérèse Grisenti;Marc Vitantonio;Duo Grisenti Vitantonio,A. Mashayekhi - 5 Sonates Pour Violoncelle Et Piano,Sonate II Opus 116 Pour Violoncelle Et Piano - 3ème Mouvement,0,210493,False,0.444,0.121,10,-18.21,1,0.0578,0.974,0.775,0.3,0.122,113.868,4,iranian
+6qzjlkEeWZW0CxAeZYkjqn,Mahdyar,Seized,Iran Iraq,2,241770,False,0.139,0.81,1,-5.082,1,0.0835,0.174,0.013,0.0666,0.312,86.677,4,iranian
+0GrIX23vfXtHnB8nEAbza5,AMONGST THE ASHES,The Fabricated Monolith,Fallen from Grace,3,274526,False,0.464,0.956,0,-6.073,1,0.0556,5.57e-05,0.0899,0.113,0.448,94.93,4,iranian
+4ruveLPYhBUgCImnUW79oV,Farzad Golpayegani,Six,86,4,150575,False,0.382,0.821,7,-4.713,1,0.0471,0.00666,0.0,0.258,0.323,100.04,4,iranian
+0EI7loqH7gx933EjEhP6WS,Baramant,Homarg,Involuntary Migration,0,312685,False,0.533,0.935,2,-3.932,1,0.0527,9.52e-05,0.784,0.0902,0.23,95.021,4,iranian
+3ihuEloGmJwozDsuFLmdNQ,Farzad Golpayegani,Eight,One Step Closer,3,449867,False,0.404,0.979,2,-4.14,1,0.131,0.00125,0.687,0.0995,0.674,175.013,3,iranian
+5f3Be6jvptHmlKPk8AdLaz,Crows in the Rain,Sorrow for an Unfinished Dream,A Scintilla Of Hope,6,525745,False,0.283,0.282,9,-15.375,0,0.0307,0.163,0.693,0.107,0.118,84.621,4,iranian
+25u9qqgG0idmYlj60KMTTT,Crows in the Rain,Sorrow for an Unfinished Dream,Little Boy On Raven Wings Pt. 2,7,407580,False,0.197,0.356,9,-12.047,0,0.0297,0.0448,0.921,0.09,0.0383,100.033,4,iranian
+4CvLIxmTMD0sxuFq9kmcL3,Kiawasch Sahebnassagh,...und hier in der Stille (...va inja Sokut) - Klavier Improvisation,Sin,0,237400,False,0.542,0.0305,5,-23.44,1,0.113,0.982,0.915,0.0906,0.0388,120.478,4,iranian
+5LdDTmiaQb9dv9GbnekPWL,Mordab,Room No.X,3000 Years,1,245361,True,0.286,0.943,6,-5.173,1,0.214,4.77e-05,0.201,0.114,0.478,179.738,4,iranian
+4TYlznN81QeSTTwR6NVao9,Witness the Existence,The Dream,The Dream,0,285652,True,0.368,0.955,9,-3.181,1,0.0854,4.05e-05,0.085,0.323,0.19,149.973,4,iranian
+3eQnXGUKcDuiSasVPAjCqb,Ixuol,Abstraction In High Fidelity,Xil_um,0,229714,False,0.295,0.714,9,-5.293,0,0.0584,0.725,0.714,0.163,0.0836,121.299,4,iranian
+1srrmX7TgCFaUpgc3xwUGc,Angband,IV,Mirage,0,309866,False,0.517,0.892,10,-3.563,0,0.124,0.0105,1.81e-06,0.307,0.138,131.019,4,iranian
+6dN1bixgCghjI7P0fcGtHc,Trivax,The World Is Dead,Wormwood,0,300383,False,0.0911,0.965,2,-4.645,1,0.117,2.89e-05,0.692,0.346,0.068,171.857,4,iranian
+2fsw3QXxMqxKh4cKhDWYuO,Arash Pandi,Exotic Paradox,Chargah,0,455142,False,0.262,0.592,11,-6.903,1,0.081,0.225,0.929,0.0827,0.192,139.777,4,iranian
+1qXj26IIx1XlLxjF5lkL04,Siavash Amini,TAR,Face On The Sand,0,335094,False,0.0704,0.623,10,-13.286,1,0.3,0.144,0.872,0.0575,0.0376,76.949,3,iranian
+2uhdx4i35anuaKROx2xH5Q,Trivax,The World Is Dead,Of Stone and Flesh,0,418143,False,0.257,0.996,1,-3.258,1,0.153,0.00028,0.188,0.42,0.0576,136.022,4,iranian
+5y93BaV63QG7955gnTQSkB,AMONGST THE ASHES,Agonizing Awakening,Exordium of Sickness,0,80948,False,0.423,0.853,1,-10.133,1,0.0382,0.00044,0.69,0.145,0.107,89.977,4,iranian
+4qK7R1xXSBWL7QUAdE2NLa,Parsa Shomali,Noise A Noise 20.4-1,"Sancta Sanctio, Pt. 2",0,406257,False,0.202,0.658,6,-16.209,0,0.172,0.303,0.881,0.358,0.0625,79.301,1,iranian
+5XsDOrcI4IVXcFLwFzjgTI,Electroqute,Caution,Del Naband,0,228964,False,0.473,0.771,0,-3.932,1,0.0428,0.00831,3.3e-05,0.0937,0.426,120.008,4,iranian
+0OkOWblkfdcYxus47qxbkW,From The Vastland,Daevayasna,Daevayasna,1,426500,False,0.33,0.982,11,-2.827,1,0.0927,0.000131,0.638,0.122,0.0375,120.191,4,iranian
+2tLWOwTnZmtAN4n9H0EfxV,Rojin Sharafi,Urns Waiting To Be Fed,Sayonara,0,326000,False,0.293,0.793,4,-11.245,0,0.249,0.436,0.00584,0.144,0.0654,111.506,4,iranian
+2yQ5Ni8Z126C7OS3tYQNeO,Eternal Griefs,Life Is Pain,Is,0,192219,False,0.136,0.586,7,-18.192,1,0.0631,0.137,0.765,0.385,0.0924,88.376,4,iranian
+2WlYhIcm75hGbZLhixuVlb,Siavash Amini,What Wind Whispered To The Trees,The Wind,1,504000,False,0.0619,0.438,7,-15.156,0,0.0886,0.843,0.914,0.691,0.0366,70.691,4,iranian
+1Fuq7EKXUBdnYvFAPpRQbb,Ekwon,"Born in Shroud, Dead in Womb",Familicide,0,240863,True,0.259,0.914,2,-4.779,1,0.141,0.000227,0.173,0.17,0.0531,139.853,4,iranian
+1NK2LYai2zmVhQRJ7nDgIC,Cursed Kingdom,The Wasteland,Claw of Death,0,218045,False,0.226,0.942,1,-7.104,1,0.0798,2.51e-06,0.73,0.769,0.0372,195.107,4,iranian
+1Jo7BMCeRXePyS4TsBxmGk,Ekwon,"Born in Shroud, Dead in Womb",Seed of Guards,0,290090,True,0.409,0.927,0,-4.417,0,0.0588,2.36e-05,0.913,0.484,0.117,109.949,4,iranian
+7cuDrQljt6lftUsO4WHyRx,Kiawasch Sahebnassagh,Moments,"March 27, 2002",0,414133,False,0.35,0.0512,9,-26.798,1,0.0437,0.983,0.889,0.114,0.0768,132.721,5,iranian
+1Dwg3k4uLjmopUy9KLiFkc,Trivax,Sin,Wormwood,1,309885,False,0.14,0.973,1,-4.57,1,0.117,1.79e-06,0.836,0.101,0.0952,162.686,4,iranian
+4YEi852lNrKIFAlibnEzFa,Ali Ostovar;Bassem Hawar;Julia Ohrmann;Erfan Pejhanfar;Kioomars Musayyebi,Reflections,Reflections - Act 2 (Live),0,737000,False,0.19,0.378,5,-15.26,0,0.0996,0.948,0.238,0.708,0.0605,63.132,3,iranian
+5gQK4CPNQXKqZyln88JGev,Siavash Amini;Matt Finney,Gospel,Alone Together,0,603428,False,0.0743,0.135,9,-21.833,1,0.0388,0.018,0.855,0.111,0.032,74.572,4,iranian
+5d3JGvtQ8OgKR03Mot6DhW,Chaos Descent,A New Clear Dawn,Repelling the Hypocrite,0,223411,False,0.439,0.953,6,-5.512,1,0.0627,7.58e-05,0.0269,0.166,0.0688,127.405,3,iranian
+6HPPUxZc4tiDpLwJvu1u8C,Najand,Spectre of Revolution,Edalat,0,60107,False,0.174,0.72,3,-3.623,0,0.0535,0.000321,0.866,0.51,0.196,69.542,4,iranian
+0IhI7usCAYxSDK7Fdvuj06,Witness the Existence,Enshrined Twice,To the Glorious Path,0,357694,True,0.517,0.929,5,-3.409,0,0.0523,2.28e-05,0.914,0.314,0.366,119.974,3,iranian
+6lTWC58uQn21oIZvsweXph,Silent Path,Mourner Portraits,Broken Trees,0,400426,False,0.149,0.617,4,-6.053,0,0.0581,0.348,0.922,0.318,0.0569,135.748,4,iranian
+607L9bkXMlXvHWVS1UPxA2,From The Vastland,Temple of Daevas,"Djahi, the Vicious Wizard",1,365840,False,0.411,0.948,11,-6.641,0,0.0705,3.27e-06,0.806,0.155,0.0378,120.048,4,iranian
+3qUui4zqAlK0pBEhnTQy5k,Asef Akbari;WindCrow;Zhinu,Find,01. Moalagh ( Suspended ) ft Zhinu X WindCrow,0,216009,False,0.495,0.401,10,-8.177,1,0.029,0.464,0.0214,0.108,0.117,110.036,4,iranian
+7ndmFXGKHcyvxzNlkF8UEV,Nesa,Nesa - Random City (Tehran) EP [2016 edition],Random City Tehran P.3 - 2016 edition,0,360000,False,0.386,0.61,0,-11.172,1,0.201,0.897,0.516,0.221,0.159,120.295,4,iranian
+4Ek2QuRu5CDqVENOnK69L9,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Plainsong,0,100053,False,0.237,0.912,5,-0.847,1,0.0656,0.52,0.256,0.0911,0.245,171.816,4,iranian
+3UkK7LdrO80jTB79FN4BJy,Chaos Descent,When Life Leads Us to Death,The Revelation - Original Mix,0,143944,False,0.455,0.402,5,-10.728,0,0.0296,0.311,0.729,0.109,0.119,119.857,4,iranian
+4tAhBvvJCSynDf2gQGAOHx,Nesa,Nesa - Random City (Tehran) EP [2016 edition],Random City Tehran P.2 - 2016 edition,0,265000,False,0.242,0.373,0,-14.292,0,0.0507,0.981,0.727,0.158,0.17,92.757,3,iranian
+65Sv4Hg70DfKzWhNjNeBA9,Eternal Griefs,Blanche Monnier,1913,0,289185,False,0.0729,0.763,5,-8.095,1,0.0734,0.0256,0.839,0.102,0.305,179.365,4,iranian
+1BKr79f62jo7IGwIQJchnx,Eternal Griefs,Blanche Monnier,Blanche Monnier,0,383447,False,0.383,0.875,8,-9.994,1,0.0452,4.36e-05,0.87,0.115,0.262,134.998,4,iranian
+6KDs0G6Lvk2Rq50mmMhGdV,Alireza Mashayekhi;Layla Ramezan,Sheherazade,The Escape,0,651400,False,0.325,0.0704,2,-23.329,0,0.0428,0.973,0.885,0.0984,0.0387,65.46,4,iranian
+4haJMkqoMvgbsZ0lQFZPx9,Integral Rigor,Alast (Instrumental Version),Zahir - Instrumental Version,0,277577,False,0.246,0.889,7,-4.024,1,0.0863,4.34e-05,0.792,0.0923,0.21,105.015,4,iranian
+6PhZVQ8phHD5oLN1hINOWI,XERXES THE DARK,The Rise Of A.I.,Simulating the New World,0,345000,False,0.668,0.512,2,-8.819,1,0.0305,0.131,0.924,0.0873,0.0387,112.002,4,iranian
+5N3dQk1JTUjSck9wl9fhNF,Ata Ebtekar,Persian Electronic Music Yesterday And Today1966-2006,Saint Homayun,0,166973,False,0.22,0.441,8,-9.321,1,0.0608,0.649,0.904,0.703,0.0536,77.024,5,iranian
+59mw1s658Kka7a369ebo3X,Spuntic,Chill Now,Lifeforms,0,190000,False,0.159,0.0736,3,-21.123,0,0.0406,0.975,0.975,0.0854,0.0355,108.997,3,iranian
+1eCvBM53k5pTpedjRES3mG,Tension Prophecy,Death Metal From Iran,Inquisition,0,311136,True,0.161,0.92,2,-5.396,1,0.116,0.00217,0.893,0.146,0.193,90.076,4,iranian
+3IAiLg10HR2gxpn0vRqez4,Tension Prophecy,Asylum of Humanity,"Asylum of Humanity, Pt. 1",0,190089,False,0.178,0.969,10,-4.624,0,0.13,0.0102,0.75,0.509,0.315,175.19,4,iranian
+2a43lspHu12HwxseKw3AWl,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",Farar,0,111600,False,0.563,0.0995,9,-31.525,1,0.278,0.786,0.00158,0.0998,0.0366,111.515,5,iranian
+0xZd4EQP2Jroa6TO83YQSZ,Padra,Ghorbangah,Ghorbangah,5,423500,False,0.53,0.962,6,-3.045,0,0.104,0.00151,8.51e-05,0.0635,0.219,122.02,4,iranian
+4lhhonvaGYfA6BlME2gX8j,Farzad Golpayegani,Nine,No Remorse,4,355854,False,0.478,0.89,4,-9.42,1,0.0504,0.129,0.0168,0.303,0.586,95.995,4,iranian
+3eMXjRo2in703wNBZVEliG,Saeed Dehghan,Vintage Effort,Spiral Void,0,347280,False,0.634,0.664,10,-7.82,0,0.0623,0.00203,0.11,0.171,0.171,120.014,4,iranian
+6V9O6DmoFe3dvQnqgCoIFa,AMONGST THE ASHES,The Fabricated Monolith,Säraghaz,1,57760,False,0.376,0.684,0,-11.767,1,0.0521,0.589,0.951,0.172,0.229,144.769,3,iranian
+7DeVlGUVeP5fKG1NYGEOGe,Farzad Golpayegani,Six,97,2,236790,False,0.327,0.693,1,-5.639,1,0.0353,0.132,0.0158,0.247,0.0587,99.979,4,iranian
+185UIxdTwSlEk03G936doz,Mlelm,Madness,Madness,1,390000,False,0.267,0.367,1,-13.051,0,0.034,0.0684,0.826,0.147,0.0387,89.711,4,iranian
+1Duw58JpOUQMpaNbEGFuVQ,XSIX,Noise A Noise 19.2,Fallen,0,360984,False,0.189,0.614,2,-10.99,0,0.0569,0.113,0.252,0.108,0.0332,74.747,4,iranian
+2rHJDOPLTw7w5NqrTg3iBb,Baramant,Homarg,Friendlessness,0,319216,False,0.559,0.901,7,-5.918,0,0.074,0.0548,0.865,0.111,0.0347,199.98,4,iranian
+3VlD9L4CDMpVILVDOuTkvw,Soheil Soheili;Roj,94 unleashed.,94,0,137872,False,0.313,0.309,10,-13.091,0,0.03,0.961,0.655,0.0917,0.0729,92.975,4,iranian
+0JYau7fLLWPQnU37QMXWtz,Farzad Golpayegani,Two,Twenty,0,455000,False,0.174,0.703,4,-4.804,0,0.0427,0.602,0.9,0.117,0.0922,120.049,4,iranian
+3SVEGCYYzEWCzawEqtG7C1,Angband,IV,Insane,0,280386,False,0.559,0.923,3,-4.734,0,0.0736,0.00118,0.0175,0.119,0.377,144.973,4,iranian
+457X7mSvMop7tKSNZWIQUu,Angband,Saved from the Truth,Persia,0,321773,False,0.343,0.941,8,-5.048,1,0.21,0.00063,0.852,0.323,0.391,79.949,4,iranian
+2X778pKKEy19DrHPRpr8Ul,Baaroot,From Void To Void,Advent (Saraavaazeh),0,183669,False,0.102,0.851,2,-12.268,0,0.0618,0.954,0.964,0.115,0.0333,81.412,3,iranian
+4pW2CBb6dUUG6tJRl2PEEL,Farzad Golpayegani,Two,Thirty Eight,0,408000,False,0.344,0.975,6,-4.395,1,0.191,0.0297,0.811,0.362,0.332,192.084,4,iranian
+4zKQYMQrd6QuyzoOCZmf6C,Rojin Sharafi,Urns Waiting To Be Fed,A Barrel Of Monkeys,0,343000,False,0.339,0.732,1,-11.283,1,0.306,0.0145,0.615,0.136,0.133,182.459,4,iranian
+3j78wdlIk5WfnfddP2qySc,Nima A.M.,The Frequency,Love in Fall,0,353000,False,0.526,0.786,7,-7.513,1,0.028,0.000317,0.826,0.105,0.254,120.019,4,iranian
+4bRNKY1PqPtK6KcmOwLYCM,Rojin Sharafi,Urns Waiting To Be Fed,The Last Urn Broke,0,472500,False,0.439,0.79,10,-10.91,0,0.258,0.498,0.812,0.354,0.263,169.516,4,iranian
+6pTnW2dMPjtLJ6j4Tbn7zx,Leila Bela,Angra Manyu,Going Under,0,33240,False,0.282,0.499,8,-10.655,1,0.107,0.136,0.977,0.668,0.46,161.36,4,iranian
+56Q4o8ySObFqVV5QwgPMD6,Idlefon,COLDSTREAM,Wreck,2,232213,False,0.165,0.565,7,-11.789,0,0.0396,0.144,0.926,0.111,0.145,82.37,4,iranian
+55BfQclclY567a9JLwU6tO,Arash Azadi,Mathematical Labyrinth,Se + F=Ph,0,688000,False,0.648,0.374,2,-17.229,1,0.12,0.717,0.823,0.0969,0.158,119.961,4,iranian
+421FUVb27cX5TNCuWivlxv,Leila Bela,Angra Manyu,Let Me Help You Mr. Monster Man...,0,70040,False,0.242,0.00959,10,-32.735,1,0.0527,0.987,0.0107,0.103,0.14,150.116,3,iranian
+164mALSzQg34QKAkPoS7bV,Trivax,Sin,Chaos Above Order,1,322993,False,0.238,0.997,1,-4.809,1,0.113,1.37e-06,0.88,0.305,0.0395,124.149,4,iranian
+4Uz1MPMJqXWyu0BUp73mxM,Mehdi Khayami;Lorenzo Gorli;Martina Rudic;Maria Grazia Bellocchio,Mehdi Khayami: Kamanche Concerto,Piano Trio No. 1,0,326786,False,0.242,0.289,1,-12.989,1,0.0509,0.895,0.482,0.144,0.0377,73.038,3,iranian
+0JHnKrQAMmX3CONJ0t1d9q,Idlefon,Submarine,Conflict,0,365595,False,0.512,0.572,9,-10.531,0,0.03,0.354,0.961,0.0916,0.0521,119.988,4,iranian
+3EkogSTYzk4eBx2zxOibzY,Soheil Soheili;Sina Shoaie,Re-listening Live in Cafe Baz,Complicated - Live,0,312000,False,0.55,0.509,1,-20.714,1,0.397,0.729,0.888,0.15,0.237,140.043,4,iranian
+0THW3gG9Xg594VL7uSajhA,Ekwon,"Born in Shroud, Dead in Womb",Familicide,0,239863,False,0.463,0.913,2,-4.788,1,0.0949,0.000203,0.217,0.137,0.0642,105.125,3,iranian
+0eQCJ9h7DcOyKiy0Uu3UL1,Beshenitar,Around the 13 Sins,Anomic Ritual,1,368208,True,0.0647,0.996,4,-4.623,0,0.392,0.0355,8.62e-06,0.198,0.03,206.761,4,iranian
+4hozfYLop0tp8KuJGnoLvm,Alireza Mashayekhi,Happy Electronic Sounds,"Shur, Op. 15",0,394840,False,0.0631,0.376,5,-19.504,1,0.0577,0.95,0.948,0.101,0.039,68.005,3,iranian
+44gplt3kRpF83sJVP8ps4f,Siavash Amini;Hessam Ohadi;Nima Pourkarimi,Spotty Surfaces,The Second Surface,0,317652,False,0.411,0.759,5,-9.658,0,0.0871,0.371,0.819,0.0768,0.0708,199.817,3,iranian
+4anG8T64z4XrRrbUbbCXd5,From The Vastland,Chamrosh,I & My Serpents,0,361750,True,0.134,0.852,5,-3.827,0,0.116,5.79e-05,0.92,0.345,0.044,100.039,4,iranian
+6B5MKB42EjEfYldDux3cRP,Spuntic,Between Green,Unbounded,0,198269,False,0.16,0.263,0,-20.167,0,0.0398,0.943,0.0028,0.0881,0.175,77.969,1,iranian
+5ygQf7h2jXFLGt2uypWFWy,Spuntic,Broadcast,Horizon,0,500813,False,0.119,0.278,5,-21.102,1,0.0352,0.856,0.96,0.115,0.038,95.068,3,iranian
+2j0kwMxTbg7Z7JwobI4reB,Alireza Mashayekhi,Happy Electronic Sounds,"Iranian Aesthetics, Op. 77",0,546272,False,0.183,0.197,9,-12.342,1,0.0945,0.589,0.815,0.2,0.0594,98.295,3,iranian
+3sesVckc4lbUzhqJ6jMDls,Asef Akbari;Nima Alizade,Wet And Warm,Wet Wood (feat. Nima Alizade),0,165525,False,0.391,0.143,5,-16.223,1,0.0332,0.942,0.981,0.118,0.075,54.196,4,iranian
+58pUxjsOKICuGq9Nv1dvLE,ArtSaves,Empty Sounds,Real Immigrant,0,159500,False,0.328,0.0779,9,-16.53,0,0.0374,0.808,0.746,0.134,0.0361,87.035,4,iranian
+11Up1IF1wnKAX5TaAtviFk,Atria,Reincarnation,Underworld,0,198000,False,0.471,0.952,9,-3.424,0,0.217,7.99e-06,0.003,0.0659,0.162,134.981,4,iranian
+1EKkDcAxWSAVwmpu7nuM2O,War Angel,Tomb of the Pharaoh,Tomb of the Pharaoh,0,297777,True,0.481,0.988,6,-4.144,1,0.0996,0.00278,1.27e-06,0.143,0.0785,108.046,4,iranian
+3vDqBsTd7bVvhGU7WjFeTk,Najand,Spectre of Revolution,Fathe Gholeha,0,60107,False,0.218,0.724,1,-4.621,0,0.0477,4.55e-05,0.125,0.587,0.0849,91.093,4,iranian
+6KnhyzFQ1hlGpnGWKRSXh9,Integral Rigor,No More Room in Hell,Downfall,0,292386,False,0.495,0.538,1,-9.275,1,0.0293,5.45e-05,0.97,0.0932,0.214,97.998,4,iranian
+6Nr1GtQBDXOFHZXoR7Ly7s,Najand,Spectre of Revolution,Khanjare Man,0,60107,False,0.43,0.798,1,-5.335,0,0.194,0.313,0.126,0.507,0.769,97.15,4,iranian
+5fABIyZG2C0ykpgeBA8EQB,Martin Shamoonpour,Tehransaranieh,Farvardin,0,465400,False,0.304,0.0403,2,-18.304,0,0.0543,0.991,0.268,0.0826,0.131,84.333,5,iranian
+5KtxvxuGzWnXqEpdX7aRwW,Confess,In Pursuit of Dreams,Aborted Déjàvu,0,308040,True,0.209,0.91,7,-2.979,1,0.0681,1.22e-05,0.092,0.372,0.305,108.692,4,iranian
+0z8ko5KJI6WDXNzAA4r0wJ,Alireza Mashayekhi,Happy Electronic Sounds,"Est-West, Op. 45",0,1149100,False,0.266,0.311,1,-13.642,1,0.0486,0.0576,0.373,0.0994,0.0351,122.001,4,iranian
+5N9FXoQQJ4dkcxLUipVffz,Najand,The November Revolution,Tamoome Majera!,0,60053,False,0.264,0.842,5,-4.823,1,0.0917,3.01e-05,0.676,0.768,0.0621,36.95,4,iranian
+5C1xFHLzF93U3D0hDiFSOJ,War Angel,Tales of the Damned,The Pyre,0,466000,False,0.478,0.893,7,-5.237,1,0.0552,0.168,1.43e-05,0.11,0.388,120.019,4,iranian
+43J7OHyz3NeCifoFYPS8cs,Angband,Rising from Apadana,Lighter Days,0,342706,False,0.413,0.588,10,-11.718,0,0.0403,4.02e-06,0.000124,0.0514,0.205,89.981,4,iranian
+4WTAAJRm9Uq4rUWDO8080Y,Rojin Sharafi,Urns Waiting To Be Fed,Darwinian Demon,0,822733,False,0.423,0.66,1,-12.144,1,0.373,0.156,0.0162,0.217,0.196,107.071,4,iranian
+0Bmfqjz0qvARg9yCcm65Dv,Alireza Mashayekhi,Happy Electronic Sounds,"Computer Aesthetics, Op. 74",0,664607,False,0.225,0.00311,10,-16.369,1,0.0462,0.973,0.593,0.191,0.193,68.003,3,iranian
+6jJFDxGuPvwOXVa6mmhWYK,Kiawasch Sahebnassagh;Amirhosein Allah Yari,Forty Poems To Kharaghan,Rubai 21 To 25,0,312120,False,0.312,0.154,0,-19.905,0,0.0495,0.55,0.061,0.183,0.0815,96.009,5,iranian
+6i6I1aWvQyzsSsvxm4pGMA,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Mashayekhi: Sheherazade ""Layla Ramezan Plays 100 Years of Iranian Piano Music, Vol.2""",Sarab,0,212200,False,0.523,0.12,2,-30.758,0,0.123,0.895,0.0173,0.11,0.078,135.216,5,iranian

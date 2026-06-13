@@ -1,0 +1,1001 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+48QmG1dfvMuYLxMPt7KSRA,Sean Paul;Dua Lipa,Mad Love The Prequel,No Lie,83,221176,False,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,4,dancehall
+493QaNbrvbEiQdPH9hDP6z,AMARIA BB,Slow Motion,Slow Motion,71,166000,True,0.733,0.479,11,-9.27,0,0.301,0.575,0.00053,0.0831,0.485,88.742,4,dancehall
+0VzBKgimNRMauaqzT2rEnS,Spice;Shaggy;Sean Paul,Go Down Deh (feat. Shaggy and Sean Paul),Go Down Deh (feat. Shaggy and Sean Paul),74,154666,False,0.817,0.8,2,-4.475,1,0.108,0.12,3.9e-05,0.187,0.534,90.016,4,dancehall
+2169IKAivSUUFGcedGASXc,Stefflon Don,16 Shots,16 Shots,69,224727,True,0.684,0.79,3,-4.871,0,0.0735,0.0271,0.000371,0.0854,0.549,95.083,4,dancehall
+58dGRQrNmAJeRMFuguUbvD,Spice;Shaggy;Sean Paul,10,Go Down Deh (feat. Shaggy and Sean Paul),69,154151,False,0.801,0.764,2,-5.112,1,0.0986,0.109,1.62e-05,0.247,0.578,89.999,4,dancehall
+3oZcHR0hqmmdnP06bc84Gd,Burna Boy,I'm Blue - Hits of 2022,Last Last,4,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+2bIllkzKKCotWs0AuCsIoh,Burna Boy;Wizkid,2Step - Pop R'n'B,B. D’OR,2,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+35cGkoZHj3mcUYa1kVjFOh,Burna Boy,Good Vibes,On the Low,2,185898,False,0.816,0.781,1,-4.237,0,0.0425,0.692,0.00928,0.0835,0.937,99.95,4,dancehall
+66tPJue1SdDqvK9ifs6H3t,Burna Boy;Stormzy,Sundown Rap,Real Life,0,197933,False,0.488,0.572,9,-7.29,0,0.0901,0.138,0.000235,0.27,0.415,132.45,5,dancehall
+40pz6QQ5xwbaCZX5gK8GcQ,Burna Boy,Hits Hits Hits,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+36YlzbkAZLnOke9yib6Yin,Burna Boy;Stormzy,The Hype,Real Life,1,197933,False,0.488,0.572,9,-7.29,0,0.0901,0.138,0.000235,0.27,0.415,132.45,5,dancehall
+0YtYAaCp626cLIDyjB5bcS,Burna Boy;Ed Sheeran,New Arrivals,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+2cFjQQ33h8NiQAKqpJGhgd,Burna Boy,20's R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+03um6hfYLzq0p4c3Lk0Dld,Burna Boy,Daily Pop Mix,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+1SaqHX3JGpcnngTKFnXcP3,Burna Boy,New Grooves,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+6Nf3pMNxscEiw6a7phdlmm,Burna Boy,African Heat - Afro Hits,Last Last,1,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+2ECokGI5VuABjcNb90be3p,Burna Boy,Summer Music Festival Hits,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+27C9LOKwqrjYNHwZ5pu8zH,Burna Boy,2Step - Pop R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+2IUkw09LrFwfXNRwnecgmG,Burna Boy,Hit After Hit,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+0hWBiQZZ7btfzKoMDUUHCH,Burna Boy,Internet Sensations,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+300HJHC8ZR1r8quEn5OqwZ,Burna Boy,It's You - Fresh Hits,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+7HSM7sfoyw4xKdGcNhXuBy,Burna Boy,All Bops,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+41cDKFuTigPfBWyLYQKMsO,Burna Boy,New Arrivals,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+7mRCgqF1eXVoDUpOldz9Nl,Burna Boy;Wizkid,African Heat - Afro Hits,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+4753v8gP7AT9df2zgxa2N9,Burna Boy;Wizkid,New Grooves,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+6X6sPHhSGbxucFpSDPiH55,Burna Boy;Ed Sheeran,Hits à suivre 2022,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+6CufiqOcVejTejlXDqDb4j,Burna Boy,New Pop Classics,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+6AjuU68Z5I6zzG03bs2MS2,Burna Boy;Ed Sheeran,Daily Pop Mix,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+0XLZqnVwuqsvl0WbZRStel,Burna Boy;Ed Sheeran,Hit After Hit,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+2hcV6XZZvIltyvgjo0Xd6U,Burna Boy;Ed Sheeran,Refresh - Pop To Cool Down,For My Hand,1,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+2dHckwsT6KYp6qZ3KJ4Ad8,Burna Boy;Ed Sheeran,New Rap 20s,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+43CLNfvNyalChk97jKDiAD,Burna Boy,Evergreen,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+0hopQjlj7hNsE60RXFl1V9,Burna Boy;Wizkid,Tropical Vibes,B. D’OR,1,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+6k3lATWmM3Z9TJvrzDHfga,Burna Boy;Ed Sheeran,New Grooves,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+3RU4IbiteV8v6Haa7sDrOV,Burna Boy,Your Perfect Soundtrack,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+1NdGOt0hJikfIy2OUkXdi2,Burna Boy,Totally Rap,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+0ozGUAz5IE3DAWoe7C1kG2,Burna Boy,Pop Brandneu,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+6phUiTdE97Qq2sPNvbAlLP,Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),23 (Mixed),3,90500,False,0.688,0.541,1,-10.899,1,0.217,0.178,0.127,0.252,0.731,102.736,4,dancehall
+2JabszmDYl2x7B7blqtp8l,Burna Boy;Ed Sheeran,Give You Love - Cozy Hits,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+61f7OTlfrjrZqZc8YZtNGd,Burna Boy;Stormzy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Real Life (Mixed),4,124000,True,0.437,0.592,0,-9.726,1,0.299,0.181,6.45e-06,0.331,0.632,75.493,3,dancehall
+3LF7gk7E5fDz1nRfbFXaUf,Burna Boy;Ed Sheeran,Evergreen,For My Hand,1,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+6Uqc4WAhVelhB3tkkjaKoM,Burna Boy;Wizkid,Totally Rap,B. D’OR,0,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+13VcHnE3q5TRU5ig2FcbOP,Burna Boy;Ed Sheeran,"#Multiverse, If the Multiverse Is Real",For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+58s7n1XdbmiUDYh4cGkHKB,Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Onyeka (Baby) (Mixed),3,107750,False,0.781,0.728,2,-7.612,1,0.1,0.179,0.000206,0.73,0.363,103.27,4,dancehall
+3C6ST7yv6lmAH0sJEoGmJC,Burna Boy;Ed Sheeran,Totally Rap,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+4oYuZ3msCWFJX4rMphHaYK,Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),Money Play (Mixed),3,60250,False,0.857,0.8,0,-8.476,1,0.209,0.228,0.00517,0.298,0.488,106.566,4,dancehall
+2tLDIzkhdp0M0MyUDchiLk,Burna Boy;Ed Sheeran,On Chill - Rap & RnB,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+323uxL7lyIOJhkpzZMW5iD,Burna Boy;Lily Allen,Am I Ready - Pop Night Out,Heaven's Gate,0,202446,True,0.845,0.854,4,-5.897,0,0.197,0.0376,1.45e-05,0.343,0.636,102.008,4,dancehall
+1DAxXOny3bze31Slf2DjHe,Burna Boy,Hip Hop Slow Jamz,Rock Your Body,0,221228,False,0.801,0.623,0,-7.861,1,0.0982,0.107,0.00393,0.0853,0.801,104.982,4,dancehall
+06P47xqCjUCIY2JEzMRufN,Burna Boy,Afropop 2022,"My Money, My Baby - From ""Queen & Slim: The Soundtrack""",1,184724,False,0.857,0.664,1,-6.189,1,0.0856,0.00519,0.000492,0.134,0.637,118.972,4,dancehall
+6tTeRmhhuwDl5Y4UiJdHuO,Omah Lay;Justin Bieber,attention,attention,68,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+1Vb4HQnN2kZ5Y2KgYF5TDV,Sean Paul;Dua Lipa,No Lie,No Lie,61,221176,False,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,4,dancehall
+0HaRLPnr887lcQM2YQzkff,Burna Boy;Ed Sheeran,"Love, Damini",For My Hand (feat. Ed Sheeran),83,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+1PoJXULCvl03b1fiZmMxmd,Burna Boy,African Giant,On the Low,74,185898,False,0.816,0.781,1,-4.237,0,0.0425,0.692,0.00928,0.0835,0.937,99.95,4,dancehall
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,"Love, Damini",Last Last,83,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+4dSoDnmR9opAQ8KxUc9SbC,Sean Paul;David Guetta;Becky G,Mad Love The Prequel,Mad Love,65,199944,False,0.793,0.824,2,-3.476,1,0.177,0.006,3.29e-06,0.169,0.611,98.019,4,dancehall
+51p7NpYENytr1NyYJSP2M3,Charly Black,Rio Bueno,You're Perfect,55,196946,False,0.757,0.842,7,-3.231,0,0.242,0.313,0.0,0.0541,0.826,104.832,4,dancehall
+0k2GOhqsrxDTAbFFSdNJjT,Sean Paul,The Trinity,Temperature,79,218573,False,0.951,0.6,0,-4.675,0,0.0685,0.106,0.0,0.0712,0.822,125.04,4,dancehall
+6S8Yh2Pd8nbbeCAvLeanpF,Omah Lay;Justin Bieber,Pop Hits Now,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+4odiyU3myG29Ld0wurMfE8,Sean Paul,Tomahawk Technique,She Doesn't Mind,70,227786,False,0.718,0.776,7,-5.208,0,0.0693,0.000624,5.3e-06,0.207,0.622,120.015,4,dancehall
+2wcRkC0i2cCMjD6ZJ25ZxG,Omah Lay;Justin Bieber,Trending Pop,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0QAvQR0sWqspMYMkJCp1ox,Omah Lay;Justin Bieber,New Grooves,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+4iSWQ5Eadn5tZvvG9XNzYN,Charly Black,You're Perfect,You're Perfect,57,196973,False,0.817,0.855,7,-3.282,0,0.244,0.318,0.0,0.0517,0.783,104.909,4,dancehall
+4V0BmoJiT30GfL9e0OWa7b,Omah Lay;Justin Bieber,Totally Rap,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0mtn3uti60qnEwTJJIQ29v,Omah Lay;Justin Bieber,On Chill - Rap & RnB,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+1tdRPFfXoXEz62WI3rJyfq,Sean Paul,So Me Stay,So Me Stay,51,205188,False,0.806,0.686,5,-8.247,0,0.438,0.013,1.67e-06,0.188,0.464,119.521,5,dancehall
+7zlK8TmarCoB5UIY8aR0y6,Sean Paul,So Me Stay,So Me Stay,41,205333,True,0.808,0.697,5,-8.22,0,0.455,0.0106,1.39e-06,0.189,0.51,119.632,5,dancehall
+6xLARKaZC103QTEFLwJYm7,Omah Lay;Justin Bieber,Midnight Music,Attention,2,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0isAJeHyQSVs3MmsBJsY5Q,Omah Lay;Justin Bieber,Give You Love - Cozy Hits,Attention,1,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0RXPIDc6MHcrv1ln3e37TS,Omah Lay;Justin Bieber,For the Girls: Summer Hits,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0U8D1DN3qoDdDvGFEL59v4,Omah Lay;Justin Bieber,Good Enough - Easy Pop,Attention,1,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+49ROD2feAn9EDHXUd9tZzN,Omah Lay;Justin Bieber,Good Vibes,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+2cNTGpMDJ0Mdj9oeygxHTM,Omah Lay;Justin Bieber,African Heat - Afro Hits,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+7dJaFnCbfapWfVhGzvNBMK,Omah Lay;Justin Bieber,Hit After Hit,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+0xZ7Bie1pEp6yEUO64wYZE,Omah Lay;Justin Bieber,New Arrivals,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+7BDQlgM0pemXy3b4AbpBEp,Burna Boy,Good Vibes,Last Last,1,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+4uPmqqOf9yG0o06JsQsvML,Omah Lay;Justin Bieber,Evergreen,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+5gk0dcTvWZGg7Tlq8PEfNe,Burna Boy;Stormzy,New RnB,Real Life,0,197933,True,0.594,0.568,0,-7.268,1,0.0701,0.147,4.01e-05,0.339,0.407,132.348,5,dancehall
+0VKqYEmGWzKsDyIDCAbbnP,Omah Lay;Justin Bieber,Tropical Vibes,Attention,0,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+317tS1vDEuDhaGqDEb1Jug,Omah Lay,The Look - R&B Feels,i'm a mess,0,153946,True,0.682,0.633,4,-6.213,1,0.239,0.307,0.0328,0.112,0.601,123.259,5,dancehall
+7lvUf1BLEZuuwhbc9xeR12,Burna Boy,Pop Hits Now,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+2qSnqsLv7b9GbWFhyZJwMM,Burna Boy;Blxst;Kehlani,The Look - R&B Feels,Solid,0,195134,True,0.554,0.509,1,-9.429,1,0.339,0.149,1.86e-05,0.094,0.718,199.874,4,dancehall
+0t1CW2tjQq45DEdo7thJo1,Burna Boy,Hip Hop & R'n'B,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+10k9teyEyRep55WEzxz5oc,Burna Boy,New Rap 20s,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+18DsVnI5lVGCH0AHA5YiIx,Sean Paul;Dua Lipa,Girls Night,No Lie,1,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+13lcPEauPnz6ynDJIfHZAR,Burna Boy,Comme un lundi,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+0ulOkeffvXAADiep778P4U,Burna Boy,Beautiful Trending Hits 2022,Last Last,0,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+0WruWLVRU2VjPupDqBfO2A,Sean Paul;Dua Lipa,Queda poco para la PAES,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+45DuBoFFZQFmSc1I4ZbirR,Sean Paul;Dua Lipa,Weekend Baby,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+0xlsIZWwkErSWdDn8X3JFV,Sean Paul;Dua Lipa,Отново на училище,No Lie,1,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+31HFDml54UrGjTa4UeKhyv,Sean Paul;Dua Lipa,Autopilot,No Lie,0,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+1PQNR7X8dkeC6S24LbR9fs,Charly Black;Juan Magán;Yonny Atella,You're Perfect (Remix),You're Perfect - Remix,51,201400,False,0.821,0.789,0,-4.231,0,0.218,0.0429,0.0,0.082,0.785,104.953,4,dancehall
+6WzN3h2OjVhmBwnkUNNiGz,Burna Boy;Ed Sheeran,All That Really Matters - Just Hits,For My Hand,0,159123,False,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+5vz3pqOuNBG4hXFZzrkkMx,Wizkid,CruiseControl: How I Met The Biggest Bird (DJ Mix),No Stress (Mixed),4,116000,True,0.52,0.638,4,-8.914,0,0.372,0.00871,0.0,0.604,0.566,202.943,4,dancehall
+4L95oRzU2nqOZTauCNbD11,Sean Paul;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Midas Touch (2022 Remastered),0,179920,True,0.533,0.894,3,-2.289,0,0.314,0.136,0.0,0.212,0.888,87.555,5,dancehall
+2SII0YNH46x3Jhe0jWCrJP,Wizkid,CruiseControl: How I Met The Biggest Bird (DJ Mix),Ghetto Love (Mixed),5,163000,True,0.82,0.72,0,-7.22,1,0.306,0.387,1.9e-05,0.154,0.746,100.026,4,dancehall
+58yspqPHi2W7bPfyuQ8HsP,Sean Paul;Sia,Fiesta portatil,Dynamite,2,212668,False,0.624,0.86,8,-3.012,1,0.124,0.0704,0.0,0.0819,0.816,100.897,4,dancehall
+2wvMF4tLWrNRA9cM5fUuN0,Sean Paul,Tropical Vibes,She Doesn't Mind,1,229786,False,0.709,0.795,7,-4.765,0,0.0713,0.000503,1.08e-05,0.222,0.597,120.01,4,dancehall
+01pql9IvCSXGzTpWkgJvAg,Shenseea,Consistency (Through the Years),Subrosa (Come Closer),0,198000,True,0.59,0.712,1,-4.822,1,0.0822,0.633,3.97e-05,0.139,0.689,106.865,5,dancehall
+6FNR3CddkzolYzctA2CY6b,Sean Paul,Dance Dance Dance,She Doesn't Mind - Gregori Klosman Remix,0,299520,False,0.733,0.812,0,-4.559,0,0.122,0.00125,0.0261,0.0895,0.619,125.027,4,dancehall
+1mSdbey7RstGLY2udgXv74,Wizkid;Justin Bieber;Tems,Essence (feat. Justin Bieber & Tems),Essence (feat. Justin Bieber & Tems),68,263288,False,0.835,0.691,0,-5.828,1,0.113,0.0159,1.44e-05,0.108,0.581,103.999,4,dancehall
+2IhARxCm5lBKHgQvGw8RPo,Omah Lay;Justin Bieber,Boy Alone,attention,63,180563,False,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+5qTvkDrSfvwDv6RBjjcfQr,Sean Paul,Dutty Rock,Get Busy,75,211666,False,0.735,0.824,10,-4.143,0,0.036,0.615,0.0,0.158,0.726,100.202,4,dancehall
+5FG7Tl93LdH117jEKYl3Cm,Wizkid;Tems,Made In Lagos,Essence (feat. Tems),75,248040,False,0.849,0.707,0,-6.002,1,0.113,0.0266,8.58e-06,0.618,0.602,104.027,4,dancehall
+3Yt1ovsh3v3VEzRuhI1TL5,Wizkid,Joro,Joro,66,262736,False,0.686,0.694,7,-3.693,0,0.257,0.253,0.000904,0.109,0.587,189.998,4,dancehall
+5DS9LiyEdw2zY8bM6kjjgM,Olamide;Omah Lay,Carpe Diem,Infinity (feat. Omah Lay),71,171764,True,0.93,0.535,7,-8.755,0,0.111,0.303,0.0201,0.146,0.518,102.017,4,dancehall
+285NGish4sNBfqgcUJOXmS,AMARIA BB;Tayc,Slow Motion (Remix),Slow Motion - Remix,54,168316,True,0.435,0.555,1,-8.914,0,0.251,0.283,0.00106,0.105,0.497,86.068,4,dancehall
+2qWwuCVeMjF9mUT0S5Iqvl,Fireboy DML;Asake,Playboy,Bandana,67,178225,True,0.818,0.605,1,-7.121,1,0.038,0.293,0.0116,0.0696,0.366,104.931,4,dancehall
+2PDgArI0p7UkeYgXWuqpmh,Burna Boy,Last Last,Last Last,79,172342,False,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+5hVjoL3sHepZROri63wBxP,Burna Boy,"Love, Damini",It's Plenty,75,216991,True,0.776,0.565,7,-10.609,1,0.105,0.36,8.81e-05,0.308,0.53,107.035,4,dancehall
+7vQYsdVQMbB8d8DSxtHSgr,SPINALL;Äyanna;DJ Snake;Summer Walker,Power (Remember Who You Are) [From The Flipper’s Skate Heist Short Film],Power (Remember Who You Are) - From The Flipper’s Skate Heist Short Film,65,205530,False,0.651,0.766,1,-4.236,1,0.0486,0.00503,0.0462,0.0757,0.192,150.68,5,dancehall
+1FJbjoaBvA9Ci5oCOuaxLf,DeeWunn;Marcy Chin,Bunx Up [The Official Street LP],Mek It Bunx Up (feat. Marcy Chin),44,215700,False,0.944,0.808,11,-4.167,0,0.293,0.008,0.0,0.0811,0.66,99.991,4,dancehall
+6oOCGD2Sp9UTcDsuDz8Hdu,Omah Lay,Boy Alone,understand,67,174545,False,0.697,0.653,0,-7.284,1,0.102,0.166,0.231,0.0911,0.627,99.982,4,dancehall
+35MNHqBGewFxlJZtjHOxvj,AMARIA BB;DING DONG,Live Some Life (feat. DING DONG),Live Some Life (feat. DING DONG),55,185191,False,0.859,0.541,11,-6.699,0,0.436,0.157,0.0,0.0839,0.584,104.024,4,dancehall
+0fQfJFfngYfG26560HLMLN,Sean Paul;Sia,Dynamite,Dynamite,68,212668,False,0.624,0.86,8,-3.012,1,0.124,0.0704,0.0,0.0819,0.816,100.897,4,dancehall
+65v99AWZyNz3aRmfrT2I7N,Omah Lay,Boy Alone,i'm a mess,69,153946,True,0.682,0.633,4,-6.213,1,0.239,0.307,0.0328,0.112,0.601,123.259,5,dancehall
+2pUlBBWq8R10ylbBvZJV9j,Wizkid,Bad To Me,Bad To Me,73,176850,False,0.859,0.822,10,-5.005,0,0.0467,0.07,0.0144,0.101,0.908,110.045,4,dancehall
+0P07YCEXeftHdUU8KgHoI8,Yxng Bane;D-Block Europe,New Hip Hop Icons,Cut Me Off,0,228837,True,0.806,0.769,6,-5.127,0,0.111,0.158,2.25e-05,0.0824,0.478,104.981,4,dancehall
+6lj5WQUSHqyopHESQADLPc,Yxng Bane;D-Block Europe,The Hip Hop Collection,Cut Me Off,0,228837,True,0.806,0.769,6,-5.127,0,0.111,0.158,2.25e-05,0.0824,0.478,104.981,4,dancehall
+5CTQCPv51aLWpwTbqo8mEL,Fireboy DML;Asake,Bandana,Bandana,72,178225,True,0.818,0.605,1,-7.121,1,0.038,0.293,0.0116,0.0696,0.366,104.931,4,dancehall
+62pSYErgGri97X9aIyBzHm,Sean Paul;Alexis Jordan,Tomahawk Technique,Got 2 Luv U (feat. Alexis Jordan),65,196640,False,0.605,0.793,7,-3.084,0,0.297,0.0825,0.0,0.124,0.647,184.032,4,dancehall
+4Z5JuznV11cjmBaBIu80Gb,Yxng Bane,New RnB,Table for Two,0,154374,True,0.918,0.477,5,-5.09,1,0.056,0.32,1.98e-06,0.0719,0.68,99.959,4,dancehall
+5k0xcYedZDXWe48vkgehCc,Busy Signal;Oh Gosh,Perfect Spot (Oh Gosh Remix),Perfect Spot - Oh Gosh Remix,60,184421,False,0.862,0.792,6,-6.177,1,0.0651,0.188,0.00221,0.0882,0.741,94.991,4,dancehall
+0155LMjVeBPqe3MDmXHjMg,Yxng Bane;D-Block Europe,Afro Hits,Cut Me Off,0,228837,True,0.806,0.769,6,-5.127,0,0.111,0.158,2.25e-05,0.0824,0.478,104.981,4,dancehall
+1rg4uD4MTF3wXbGKgVB2tK,Yxng Bane,African Heat - Afro Hits,Maximum,0,150432,True,0.642,0.835,9,-3.442,1,0.0595,0.0452,0.0,0.0952,0.503,103.992,4,dancehall
+1W7Jp40V3ELNI7zyxYVvmK,Kranium,New Grooves,Wi Deh Yah,0,146400,True,0.648,0.725,11,-7.064,0,0.266,0.063,0.0,0.111,0.563,100.192,4,dancehall
+4wuxPIv6GsVihSQJqsJOyd,Yxng Bane,New Rap Icons,Needed Time,0,196184,False,0.767,0.499,11,-7.819,0,0.132,0.197,2.65e-06,0.194,0.609,104.058,4,dancehall
+4ohvBiO2i9USq8LhxvFSSQ,Charly Black;Chris Martin,Consistency (Through the Years),Whine Up Fi Mi,0,212244,False,0.673,0.67,1,-4.08,0,0.0964,0.322,0.0,0.077,0.637,94.991,4,dancehall
+1MP3toaPrbM1VjMTlrPUDG,Kranium,African Heat - Afro Hits,Wi Deh Yah,1,146400,True,0.648,0.725,11,-7.064,0,0.266,0.063,0.0,0.111,0.563,100.192,4,dancehall
+2YPzIIHkWLxxFoFAu3DAkL,Sarz;DJ Tunez;Flash,Best Afrobeat Tunes,Get Up,0,203389,False,0.838,0.602,6,-8.279,0,0.173,0.0311,6.43e-05,0.0887,0.793,118.022,4,dancehall
+31pAaYECKbnTypu1AEbmdf,Kranium,Afro Hits,Wi Deh Yah,0,146400,True,0.648,0.725,11,-7.064,0,0.266,0.063,0.0,0.111,0.563,100.192,4,dancehall
+0tGoMQqkRaXRNDQthAtxZD,Sarz;DJ Tunez;Flash,Afropop 2022,Get Up,0,203389,False,0.838,0.602,6,-8.279,0,0.173,0.0311,6.43e-05,0.0887,0.793,118.022,4,dancehall
+6mdFbyuyUxGn0knrqBYEWD,Sarz;DJ Tunez;Flash,Africa Rising Vol.4,Get Up,0,203389,False,0.838,0.602,6,-8.279,0,0.173,0.0311,6.43e-05,0.0887,0.793,118.022,4,dancehall
+5ehbhYmXWn7WEm6JPsIdEB,Kranium,Good Vibes,Wi Deh Yah,0,146400,True,0.648,0.725,11,-7.064,0,0.266,0.063,0.0,0.111,0.563,100.192,4,dancehall
+6LhRAh8p5NN1JLoslFscyy,Tiwa Savage;Brandy,Afrobeats 2022,Somebody’s Son,1,218130,False,0.705,0.809,5,-4.484,1,0.068,0.145,5.75e-05,0.216,0.508,107.21,4,dancehall
+5d3muKRbXucKhDBFgo4M3R,Charly Black;Luis Fonsi,Perreo Tenebroso Vol. 1,Party Animal,0,195813,False,0.724,0.869,0,-3.922,1,0.046,0.0246,0.0,0.251,0.84,100.999,4,dancehall
+417MaepEE2e52kBKsckbNk,Kranium,African Heat - Afro Hits,Gal Policy,1,136826,True,0.606,0.61,2,-5.279,1,0.392,0.424,0.0,0.165,0.685,129.989,5,dancehall
+371ABHyKGdBXttXxvx0A6T,Yxng Bane,African Heat - Afro Hits,Needed Time,0,196184,False,0.767,0.499,11,-7.819,0,0.132,0.197,2.65e-06,0.194,0.609,104.058,4,dancehall
+34Y6o5Ugl8umgo0315i6q7,Skeng,Life Changes,Life Changes,2,207981,False,0.716,0.29,8,-6.378,1,0.128,0.692,0.0189,0.106,0.423,185.908,4,dancehall
+57UPqpbJiPqtwJVk5VmjhJ,Popcaan,Afro Hits,Skeleton Cartier,2,221583,True,0.549,0.82,2,-4.433,1,0.379,0.314,0.0,0.226,0.357,96.725,4,dancehall
+3vS8QjHytx8Pi2NMERcfUs,Skillibeng,Consistency (Through the Years),Crocodile Teeth,0,166699,True,0.595,0.644,1,-7.46,0,0.307,0.14,0.00021,0.245,0.224,107.107,4,dancehall
+3OVKJJYEckoVDmU1K3tQnK,Vybz Kartel;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Good Pussy Wine (2022 Remastered),0,182586,True,0.493,0.909,6,-4.006,1,0.218,0.16,0.0,0.11,0.739,87.124,5,dancehall
+5AAaghHx8jedNGhHZkY8so,Busy Signal,PEPPERSPRAY RIDDIM,Bamm,0,176774,True,0.84,0.831,7,-1.937,1,0.303,0.0367,2.59e-06,0.0703,0.884,133.424,5,dancehall
+3McXs3tqyP5VwBg4FdiILD,Vybz Kartel;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Good Body Wine (2022 Remastered) - Radio Edit,0,181266,False,0.707,0.904,3,-4.091,0,0.148,0.13,0.0,0.257,0.823,86.708,5,dancehall
+68n2q0d444mHKSbp0CXx7i,Vybz Kartel,PEPPERSPRAY RIDDIM,Show Me The Wine,1,155898,True,0.703,0.896,7,-1.464,1,0.418,0.0607,0.0,0.0662,0.943,132.674,5,dancehall
+45oxtVfleBBYG9ps80hyTL,Popcaan,CruiseControl: How I Met The Biggest Bird (DJ Mix),Ova Dweet (Mixed),3,151500,False,0.503,0.673,1,-7.685,1,0.395,0.126,0.0,0.607,0.539,128.454,5,dancehall
+2MAShwvWnE9WfrnF4DWZLO,Collie Buddz,Consistency (Through the Years),Like Yuh Miss Me,0,177136,True,0.559,0.895,1,-4.574,1,0.214,0.111,0.0,0.121,0.596,99.333,4,dancehall
+1JQOWv6HQbKK7MrKIaTkfY,Vybz Kartel,Consistency (Through the Years),Real Youth,0,176151,True,0.766,0.674,4,-5.749,0,0.257,0.46,0.0,0.294,0.38,95.88,4,dancehall
+0V5GNdsrQlKBR1V4PeGX7x,Popcaan,Consistency (Through the Years),Unruly Rave,0,205453,True,0.583,0.76,1,-5.71,0,0.318,0.188,0.0,0.13,0.449,97.675,4,dancehall
+3VzGCVwgAcb02DXs8ORuDz,Beenie Man,Fyah on Ice Riddim,Pepper Light,3,187925,False,0.675,0.8,11,-4.87,0,0.358,0.141,0.0,0.214,0.834,103.618,4,dancehall
+2SVObssPWzeJquNyR05NjL,Omah Lay;6LACK,Damn (feat. 6lack),Damn (feat. 6lack),60,159338,True,0.59,0.434,8,-5.975,0,0.253,0.327,0.0,0.102,0.493,141.392,5,dancehall
+7voSun33hCNkIrjxaj3g47,Fireboy DML;21 Savage;Blxst,Peru (Remix),Peru - Remix,67,186952,True,0.966,0.509,7,-7.559,0,0.123,0.496,0.0,0.0799,0.646,108.013,4,dancehall
+2c00DlvpzthGKcyXpe5GHa,Omah Lay,Bad Influence,Bad Influence,63,138652,True,0.861,0.508,0,-10.648,0,0.176,0.586,0.323,0.109,0.728,96.909,4,dancehall
+60K1hJKpHcsqzXhVxRAscj,AMARIA BB,What's Done in the Dark,Slow Motion,34,166000,True,0.733,0.479,11,-9.27,0,0.301,0.575,0.00053,0.0831,0.485,88.742,4,dancehall
+3OB8tXG4qxdvs5Y9cZDsMa,Busy Signal,Perfect Spot,Perfect Spot,49,183473,False,0.737,0.706,6,-5.716,1,0.122,0.204,5.18e-05,0.0927,0.876,189.888,4,dancehall
+7BGzlL4gGNqlevuJXMTKxJ,Fuse ODG;Zack Knight;Badshah,BomBae,BomBae,41,242843,False,0.852,0.929,3,-2.658,0,0.113,0.0614,4.93e-06,0.563,0.636,110.679,4,dancehall
+7rj8aNwZqTvrUeLlAyNWtZ,Charly Black,Gyal You A Party Animal,Gyal You A Party Animal,66,214866,False,0.588,0.841,0,-5.138,1,0.0932,0.026,0.0,0.33,0.871,134.577,5,dancehall
+5vc9YsAEBWbRVvgKUcA5vs,Charly Black;Luis Fonsi,Party Animal,Party Animal,62,195813,False,0.724,0.869,0,-3.922,1,0.046,0.0248,0.0,0.251,0.84,100.999,4,dancehall
+3dEqPYFBUAOU0fqpudVnJW,Olamide;Fave,UY Scuti,Want (feat. Fave),60,101250,True,0.715,0.626,7,-7.444,1,0.29,0.345,0.0786,0.124,0.572,89.856,4,dancehall
+6sIx21selkP3d0I9JUIF6w,Apache Indian,Home Run,Om Namah Shivaya,36,265186,False,0.756,0.559,1,-9.614,0,0.0483,0.153,3.53e-06,0.0592,0.446,149.943,4,dancehall
+37eGbhE1xVFSvcKkqGb6i1,Sean Paul;J Balvin,Contra La Pared,Contra La Pared,68,224680,False,0.828,0.588,2,-7.14,1,0.118,0.0156,0.0,0.124,0.598,94.052,4,dancehall
+3FskQrDXcY24ur2fCvz35O,Burna Boy,Outside,Ye,71,231618,True,0.503,0.592,5,-5.923,0,0.444,0.0181,0.00014,0.169,0.344,201.85,4,dancehall
+6g8vNyogMW32lhHlNcDiwX,Fireboy DML;Chris Brown;Shenseea,Playboy,Diana,63,232155,True,0.786,0.357,2,-7.735,0,0.0372,0.0695,8.37e-05,0.11,0.524,108.946,4,dancehall
+0Rj2yNpEvXOl8yn9UOuIRs,Charly Black;Daddy Yankee,Gyal You A Party Animal (Remix),Gyal You A Party Animal - Remix,68,224320,False,0.729,0.894,0,-4.054,1,0.0798,0.0612,0.0,0.36,0.757,101.053,4,dancehall
+1TlpbpfYVARNDAafsXN217,Ebony,Bonyfied,Date Ur Fada,45,215693,False,0.895,0.657,2,-5.892,1,0.0683,0.255,0.0,0.277,0.929,105.1,4,dancehall
+7rpWDu9GPlLxbLorYKVys7,Burna Boy,African Giant,Gbona,72,187609,False,0.798,0.813,4,-5.869,0,0.162,0.564,0.000142,0.108,0.942,93.912,4,dancehall
+2jZ2MrAk8iNZk1dsI0Vr5z,Timaya;BNXN fka Buju,Cold Outside,Cold Outside,65,181224,True,0.737,0.663,11,-6.981,0,0.101,0.287,0.0508,0.523,0.839,98.014,4,dancehall
+48BBynvMm4jmI7hZ9hgPtU,Iyanya,One Side,One Side,59,161626,False,0.815,0.755,5,-5.678,1,0.0498,0.749,0.0673,0.112,0.763,102.978,4,dancehall
+6x4Lxr3upD3MQsvxi6gePp,Shenseea;Rvssian,You're The One I Love (with Rvssian),You're The One I Love (with Rvssian),50,130543,False,0.734,0.613,6,-4.962,1,0.0345,0.0049,0.0116,0.359,0.22,100.097,4,dancehall
+1Cg51Jk6EoXBQ0KiwzWJfm,Fireboy DML,Playboy,Playboy,66,207474,True,0.555,0.674,7,-7.81,1,0.132,0.334,1.28e-06,0.0586,0.854,158.829,5,dancehall
+3kv0lHXKrW8oltTe7fYbBq,Fireboy DML;Ed Sheeran;R3HAB,Peru (R3HAB Remix),Peru - R3HAB Remix,66,149752,True,0.811,0.762,7,-5.874,0,0.071,0.143,0.000141,0.0904,0.357,121.042,4,dancehall
+1nRA1PmMNZMv4BMV4Je8uK,Sean Paul;Dua Lipa;Sam Feldt,No Lie (Remixes),No Lie - Sam Feldt Remix,56,172539,False,0.809,0.846,0,-3.727,1,0.14,0.0924,0.0,0.164,0.574,115.028,4,dancehall
+1TfpBtkEQiDISwBcW1BeCX,NSG;LD,Roadblock,Roadblock,61,233293,True,0.877,0.75,1,-3.021,1,0.238,0.1,2.18e-05,0.123,0.823,104.035,4,dancehall
+1MZtr7IH5qtjIkqrXj8WOJ,Wizkid;Justin Bieber;Tems,Made In Lagos: Deluxe Edition,Essence (feat. Justin Bieber & Tems),64,263293,False,0.836,0.69,0,-5.816,1,0.123,0.0142,1.22e-05,0.112,0.586,104.004,4,dancehall
+1wADwLSkYhrSmy4vdy6BRn,Omah Lay,Boy Alone,soso,63,183056,False,0.711,0.725,3,-8.315,0,0.0941,0.424,0.129,0.11,0.53,105.016,4,dancehall
+6RAFf0mJ498F0GzrFZ1ZsS,Fireboy DML;Ed Sheeran,Peru (Acoustic),Peru - Acoustic,61,172256,True,0.82,0.603,7,-5.844,0,0.0365,0.323,1.09e-05,0.0796,0.673,107.998,4,dancehall
+5v8Fxy6Zw8gOzi802lpDOt,Omah Lay,Boy Alone,woman,62,168742,False,0.831,0.601,2,-5.674,0,0.321,0.386,0.116,0.104,0.492,104.068,4,dancehall
+6459gZKddpOoPIH8PAcCwS,Fireboy DML,Playboy,All Of Us (Ashawo),67,183349,True,0.605,0.813,11,-6.416,1,0.0903,0.304,0.0033,0.132,0.748,199.837,4,dancehall
+7u0z6FcJDqkZwdpqAqUzmO,Fireboy DML,"Laughter, Tears & Goosebumps",Vibration,62,198461,False,0.791,0.828,11,-6.908,1,0.0477,0.466,1.17e-05,0.109,0.883,103.983,4,dancehall
+2cgamRofJ1iWxAHD801DNu,Burna Boy;Khalid,"Love, Damini",Wild Dreams (feat. Khalid),66,186189,False,0.515,0.612,7,-6.314,1,0.06,0.0344,0.0,0.59,0.401,126.106,5,dancehall
+2itCtBJUyVDJUjAGKWANCk,Tiwa Savage;Amaarae,Best African Club Tunes,Tales By Moonlight,0,204444,False,0.809,0.75,2,-5.969,0,0.0527,0.669,0.0225,0.0945,0.451,108.044,4,dancehall
+41svLE4If1WPdMB340wpU2,Tiwa Savage,Afrobeats 2022,Koroba,0,156454,False,0.85,0.645,11,-6.302,0,0.0611,0.358,1.12e-05,0.09,0.93,104.022,4,dancehall
+2eYea2CszELfp3KK5w7bqO,Cestar;Stailok,Lo Mejor de Ti,Lo Mejor de Ti,47,176666,False,0.469,0.724,4,-6.294,0,0.123,0.139,0.0017,0.131,0.69,89.973,4,dancehall
+0LcLOyu9n5qRTeax5IdewO,Sean Paul;Sia,Scorcha,Dynamite (feat. Sia),63,212668,False,0.624,0.86,8,-3.012,1,0.124,0.0704,0.0,0.0819,0.816,100.897,4,dancehall
+6HX4RgDcPHZFBHyqLioiEx,Stefflon Don,R&B Fresh Hits,16 Shots,36,224727,True,0.684,0.792,3,-4.871,0,0.0726,0.0273,0.000374,0.0855,0.549,95.083,4,dancehall
+1NTYkXuBppr6FfX4DYF7Hs,Tiwa Savage,Best African Club Tunes,Koroba,0,156454,False,0.85,0.645,11,-6.302,0,0.0611,0.358,1.12e-05,0.09,0.93,104.022,4,dancehall
+2TSIK2V4JIqREs1l1psOKH,Tiwa Savage;Brandy,Best African Club Tunes,Somebody’s Son,0,218130,False,0.705,0.809,5,-4.484,1,0.068,0.145,5.75e-05,0.216,0.508,107.21,4,dancehall
+3oHhIVVvm5QHyHIVorWNke,Tiwa Savage;Davido,Afropop 2022,Park Well,0,178553,False,0.613,0.674,11,-5.696,1,0.112,0.576,0.000254,0.0899,0.7,197.506,4,dancehall
+7bSNevAp9pwygAVxyubZFE,Shamanes Crew,Antología,Niños De Barrio,43,236021,False,0.699,0.832,6,-4.968,0,0.0491,0.0492,4.62e-05,0.795,0.802,160.018,4,dancehall
+4X0jQ3MRb6QSG83BxjhGAU,Wande Coal,Wonderland: Afrobeats Meets Amapiano II (DJ Mix),Come My Way (Mixed),7,191760,False,0.872,0.644,2,-10.262,1,0.0415,0.795,0.00488,0.109,0.854,117.749,4,dancehall
+63F46HyE75ftE4OhmH3Fzt,Capleton,Joyful Noise Riddim,Protect His People,2,248574,False,0.682,0.439,7,-12.951,1,0.432,0.0905,0.0,0.168,0.767,159.921,4,dancehall
+3MqHjZVMUGJ8qSsqhi4P0N,Elephant Man;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Pum Pum Pum (2022 Remastered),0,188253,True,0.477,0.917,3,-3.027,0,0.22,0.12,0.0,0.118,0.73,88.071,3,dancehall
+2SCdjPc4Ip5ZV6Hsi21fhx,Tiwa Savage,Best Afrobeat Tunes,Owo Mi Da,0,172142,True,0.637,0.877,6,-2.864,1,0.169,0.0792,0.00325,0.138,0.825,119.027,4,dancehall
+0hLyTrqT51f6gTxRh2sG9T,Elephant Man,PEPPERSPRAY RIDDIM,Till The End,0,176129,True,0.695,0.967,7,-1.172,1,0.412,0.163,0.0,0.131,0.944,133.414,5,dancehall
+7hLN7Qpj9t8e0LLVkFnNme,Tiwa Savage,Africa Rising Vol.3,Owo Mi Da,0,172142,True,0.637,0.877,6,-2.864,1,0.169,0.0792,0.00325,0.138,0.825,119.027,4,dancehall
+5IoDXk7FV7GiXDL7ma1WHj,Mr. Vegas,PEPPERSPRAY RIDDIM,Who Love Girls,0,167973,False,0.642,0.861,0,-0.387,1,0.406,0.071,0.0,0.0416,0.741,99.341,4,dancehall
+1uYv1FXOsQXQ00thfiWNno,Sizzla,Green Concrete Riddim,Green Concrete,4,195833,True,0.578,0.643,7,-3.176,0,0.0776,0.148,0.0,0.325,0.614,179.359,4,dancehall
+7qsjrXn3peE4KSg9ecUnMa,Alkaline,Consistency (Through the Years),Juggernaut,0,180594,True,0.772,0.794,10,-3.22,0,0.0674,0.104,0.0,0.638,0.674,101.071,4,dancehall
+5MqCuiA5MT3O141lvV1TUX,Sizzla,PEPPERSPRAY RIDDIM,No Dutty Heart,0,154229,False,0.767,0.931,7,-3.112,1,0.273,0.0842,4.23e-06,0.0603,0.878,100.17,4,dancehall
+5Mx0PoUeNvCTKOl038dWNS,Wiley,Running Songs,Wearing My Rolex - Radio Edit,0,170480,False,0.875,0.716,1,-6.884,1,0.135,0.0468,0.00047,0.0667,0.755,131.944,4,dancehall
+6xW2g0c5uSoa3S6xk9eI4j,Koffee;Gunna,W (feat. Gunna),W (feat. Gunna),61,230151,False,0.856,0.721,6,-6.813,0,0.0779,0.178,2.14e-05,0.0913,0.902,100.98,4,dancehall
+1ZiTQSxZmbff7hmjD8fENw,Omah Lay,Get Layd,Damn,58,159338,True,0.718,0.424,8,-6.157,0,0.301,0.582,0.000271,0.0887,0.42,144.286,5,dancehall
+1GuLgNKd4lrI1vugkxMCAX,Wande Coal;DJ Tunez,Iskaba,Iskaba,63,224640,True,0.799,0.393,0,-19.917,0,0.071,0.127,0.00917,0.0637,0.94,125.041,4,dancehall
+4E0teOQQQwagLVvQ7VfYm1,Afro B,Afrowave 2,Drogba (Joanna),64,199000,False,0.966,0.633,2,-6.392,1,0.101,0.0206,4.06e-06,0.0715,0.767,108.011,4,dancehall
+24SDeYAeTFda8OUzVI1VR6,Popcaan;Drake;PARTYNEXTDOOR,FIXTAPE,TWIST & TURN (feat. Drake & PARTYNEXTDOOR),64,259651,False,0.571,0.747,7,-4.659,1,0.17,0.478,0.0,0.116,0.635,106.253,4,dancehall
+1090OWoP6JTpYAaSSEBvGy,Maleek Berry,Kontrol,Kontrol,62,206315,False,0.868,0.521,1,-6.902,0,0.0512,0.281,6.36e-05,0.0992,0.886,113.993,4,dancehall
+0z0qRN3HNUCOG9y1R7umuD,Korede Bello,Do like That,Do Like That,58,213519,False,0.835,0.366,5,-10.246,0,0.426,0.357,0.0,0.0793,0.659,114.044,4,dancehall
+7sd72KZS8D59g5NmhxyHpJ,Koffee,Rapture EP,Toast,67,191502,False,0.906,0.638,10,-7.917,0,0.256,0.0342,1.7e-05,0.0725,0.789,99.959,4,dancehall
+6teW0qt23aGnWhC0rSvtoz,Omah Lay,understand,understand,61,174545,False,0.697,0.653,0,-7.284,1,0.102,0.166,0.231,0.0911,0.627,99.982,4,dancehall
+5X5YDBavdU5RjYMlxqwlCm,Wiley;Stefflon Don;Sean Paul;Idris Elba,Boasty (feat. Idris Elba),Boasty (feat. Idris Elba),28,177185,True,0.887,0.765,2,-5.207,1,0.0669,0.00915,0.000872,0.0907,0.456,102.958,4,dancehall
+1xySCCP2zuNtTzyqlJUwKI,Sean Paul;Dua Lipa,Baywatch (Music From The Motion Picture),No Lie,44,220986,False,0.708,0.884,7,-3.427,1,0.12,0.0421,0.0,0.288,0.498,102.006,4,dancehall
+3eKLbe124mzIRFPuwCnJAD,Shenseea;Tyga,ALPHA,Blessed (with Tyga),58,145813,True,0.858,0.735,1,-4.854,1,0.329,0.0344,1.41e-06,0.468,0.364,108.019,4,dancehall
+3ketN3dth18vSJ1T3HIztN,Burna Boy;Wizkid,B. D’OR (feat. Wizkid),B. D’OR (feat. Wizkid),66,189800,False,0.873,0.658,4,-8.031,0,0.108,0.00858,0.0061,0.0999,0.483,104.033,4,dancehall
+1AAkIj1NSdpaoOZYctGnrg,Shenseea;Tarrus Riley;Rvssian,Lighter (with Tarrus Riley & Rvssian),Lighter (with Tarrus Riley & Rvssian),56,124515,False,0.521,0.682,1,-5.642,0,0.14,0.162,0.0,0.1,0.208,177.826,4,dancehall
+0UaHOCvFu9vN3dJcVJoPgg,Shenseea;Dunw3ll,Pon Mi - Single,Pon Mi,55,139684,True,0.861,0.701,2,-4.911,0,0.0606,0.445,0.0,0.218,0.846,123.995,5,dancehall
+3MhdH8PxqH1FuQp3HBptUI,Sean Paul;Sasha;Jeremy Harding;Murray Elias,Dutty Rock,I'm Still in Love with You (feat. Sasha),71,273360,False,0.765,0.666,7,-5.384,1,0.172,0.102,0.0,0.116,0.756,87.002,4,dancehall
+0qKpwaNffHcDjHkAN0BAXd,jahmiel;Dunw3ll,U Me Luv - Single,U Me Luv,53,219705,False,0.738,0.602,5,-4.414,0,0.0964,0.677,0.0,0.0888,0.634,135.935,4,dancehall
+6jdTkoEaer7XNGSblczoSu,Wizkid;BNXN fka Buju,Made In Lagos: Deluxe Edition,Mood (feat. BNXN),68,209760,False,0.897,0.7,1,-2.776,0,0.117,0.0193,0.009,0.12,0.755,101.944,4,dancehall
+2AKS1HhpLu2rgkojECUm3V,Fireboy DML,Playboy,Playboy,62,207474,True,0.541,0.667,2,-7.821,1,0.131,0.347,1.49e-06,0.0591,0.831,155.117,5,dancehall
+6vVFqMUDG316z5EXYHs7fE,Sean Paul;Major Lazer,Mad Love The Prequel,Tip Pon It,52,221612,False,0.689,0.892,4,-3.95,0,0.246,0.00446,0.00932,0.435,0.77,110.09,4,dancehall
+3qvZW1bLvAsJIUhYcuvf4F,Burna Boy;Stormzy,Twice As Tall,Real Life (feat. Stormzy),64,197933,True,0.594,0.568,0,-7.268,1,0.0701,0.147,4.01e-05,0.339,0.407,132.348,5,dancehall
+45s98gUcOcj5nJeFDNLH2g,Burna Boy;Polo G,Want It All (feat. Polo G),Want It All (feat. Polo G),62,232500,True,0.519,0.568,1,-9.551,1,0.155,0.211,1.73e-06,0.0912,0.707,159.988,4,dancehall
+51mLQ3w7yR7vjdSTFLWaY5,Wizkid;Burna Boy,Made In Lagos,Ginger (feat. Burna Boy),67,196146,False,0.545,0.749,4,-6.621,0,0.153,0.103,0.0,0.232,0.681,100.503,4,dancehall
+7CkBMJ6tGJu3aRMPstGiWI,Ishawna;Ed Sheeran,Brace It (feat. Ed Sheeran),Brace It (feat. Ed Sheeran),59,187290,False,0.845,0.706,4,-4.626,0,0.0837,0.0571,0.0,0.122,0.498,97.035,4,dancehall
+3soOPBuMK8YMdWnV7xpEyf,Sean Paul;David Guetta;Becky G,Mad Love,Mad Love,56,199944,False,0.793,0.824,2,-3.476,1,0.177,0.006,3.29e-06,0.169,0.611,98.019,4,dancehall
+7ihWJfl0tB31F46fMiAVBZ,P-Square,Double Trouble,Shekini,53,218165,False,0.822,0.856,7,-4.896,1,0.0757,0.0252,0.0195,0.0283,0.98,94.486,3,dancehall
+6hyTI3In7vu6fqFRoypcuz,Burna Boy,"Love, Damini",Common Person,60,210346,False,0.703,0.674,4,-7.185,1,0.079,0.636,0.468,0.103,0.592,97.021,4,dancehall
+0jjH8vwVEENKNpDPWWOwuK,Burna Boy,"Love, Damini",Vanilla,65,155466,False,0.806,0.675,9,-7.225,0,0.0675,0.236,0.014,0.637,0.719,100.006,4,dancehall
+03YUNUpazIbzwqJq2YSBvB,Burna Boy,"Love, Damini",Kilometre,63,152692,True,0.852,0.666,9,-6.065,1,0.107,0.0158,2.59e-05,0.0588,0.648,103.007,4,dancehall
+6kzziVNPYISZHObx1t4P5y,Cestar;Stailok,El Humo de Tu Boca,El Humo de Tu Boca,40,180618,False,0.754,0.731,10,-4.643,0,0.0413,0.112,0.000239,0.157,0.552,97.03,4,dancehall
+1mV02ylQ1qAuYvwBn6etFv,Kojo Funds;RAYE,African Heat - Afro Hits,Check,1,215573,True,0.414,0.718,3,-6.295,0,0.116,0.21,0.0,0.079,0.566,94.124,4,dancehall
+03eOOLSkBHwjAO05bfhuPy,Kojo Funds;RAYE,Internet Sensations,Check,1,215573,True,0.414,0.718,3,-6.295,0,0.116,0.21,0.0,0.079,0.566,94.124,4,dancehall
+7dZmmm2GJW8xMj9Lq7Of2Y,Juls;Sway Clarke,Africa Rising Vol.2,Sweetie Odo,0,155934,False,0.837,0.448,7,-9.511,0,0.142,0.137,0.0,0.159,0.527,100.09,4,dancehall
+65jxTo343ORwsnyEQSoFzt,Juls;Mr Eazi,Afrobeats 2022,Cake,0,151510,True,0.889,0.514,4,-6.38,1,0.17,0.134,0.0,0.0859,0.586,104.976,4,dancehall
+0cE68B5sCz9f3snJ5ueTGZ,Burna Boy;J Hus,"Love, Damini",Cloak & Dagger (feat. J Hus),66,211050,False,0.62,0.601,8,-6.635,1,0.221,0.154,0.00108,0.271,0.46,103.748,4,dancehall
+4siLxwjRvHRoxRVj5HXsU5,Juls;Mr Eazi,Africa Rising Vol.2,Cake,0,151510,True,0.889,0.514,4,-6.38,1,0.17,0.134,0.0,0.0859,0.586,104.976,4,dancehall
+0QB3BeqsV3yv4h3niUunCn,Juls;Mr Eazi,Best Afrobeat Tunes,Cake,0,151510,True,0.889,0.514,4,-6.38,1,0.17,0.134,0.0,0.0859,0.586,104.976,4,dancehall
+4WmB9HTKA29OOOXmXTSGUZ,Juls;Tiggs Da Author;Santi,Africa Rising Vol.4,Maayaa,0,186990,False,0.753,0.649,3,-6.822,1,0.035,0.104,4.13e-05,0.1,0.549,98.027,4,dancehall
+0s5nhb6ts6uCKAVnGg46y6,Burna Boy;Victony,"Love, Damini",Different Size (feat. Victony),62,209968,False,0.731,0.755,6,-9.096,1,0.0359,0.6,0.0134,0.191,0.838,107.973,4,dancehall
+1uBWlyYedI3hUrGNmG7acT,Yemi Alade;Duncan Mighty,Best Afrobeat Tunes,Shake,0,194062,True,0.812,0.702,6,-3.922,1,0.0497,0.118,0.000733,0.0603,0.679,90.0,4,dancehall
+1aJIyOZ67KgyysvKYpCq1j,Yemi Alade,Afropop 2022,True Love,0,235875,False,0.749,0.602,5,-5.097,1,0.0798,0.0313,0.000543,0.0337,0.965,120.022,4,dancehall
+5s0kp1Q25UTUNlGP6O1Yyo,Eshconinco,Dream Life,When YOU Dance,39,129776,True,0.684,0.644,4,-5.442,1,0.156,0.163,0.0,0.197,0.605,99.447,4,dancehall
+5CUGpOsAYbD6ENpCcsNCt8,Yemi Alade,Best Afrobeat Tunes,True Love,0,235875,False,0.749,0.602,5,-5.097,1,0.0798,0.0313,0.000543,0.0337,0.965,120.022,4,dancehall
+3lpmIoqpJmiY074Kay62SW,Yemi Alade,Africa Rising Vol.4,Home,0,224000,False,0.555,0.82,7,-2.663,1,0.0782,0.121,4.49e-06,0.129,0.968,113.0,4,dancehall
+0ToKAFpjzGNTF5RVEqDjUE,Shamanes Crew;La Combo Tortuga,Tótem,Juntos,40,196124,False,0.75,0.787,2,-5.208,1,0.0635,0.136,3.22e-06,0.091,0.89,95.027,4,dancehall
+3h9vGRu0ZNUGu4vLmmQ1aO,Yemi Alade,Best Afropop Tunes,True Love,0,235875,False,0.749,0.602,5,-5.097,1,0.0798,0.0313,0.000543,0.0337,0.965,120.022,4,dancehall
+4HpIGUXnLp05BdloHiP1P5,Shatta Wale,CruiseControl: How I Met The Biggest Bird (DJ Mix),Only One Man (Mixed),2,90500,False,0.796,0.629,4,-8.808,0,0.417,0.526,0.0,0.612,0.851,108.211,4,dancehall
+2HDfwCQrfY86gPrlJGp4KA,Yemi Alade;Angelique Kidjo,Africa Rising Vol.2,Shekere,0,186311,False,0.599,0.929,1,-2.162,1,0.129,0.389,0.000845,0.278,0.847,213.674,4,dancehall
+6sOCLCCBaQjvlzJPWgMonO,Gmiztik,Pa' mayores de edad,Pa' mayores de edad,40,214016,False,0.931,0.477,11,-11.782,0,0.185,0.0759,0.0,0.0495,0.858,100.025,4,dancehall
+6hcLYvfxMza06MURBFi725,Syster Sol;Dani M;AKI;General Knas,Kichinga!,Kärleksrevolt!,40,250880,False,0.729,0.739,10,-7.231,1,0.216,0.0549,0.0,0.105,0.965,167.843,4,dancehall
+5J4FiKDJIdJ8AKx2gaWMt4,Ayo Jay,Your Number,Your Number,60,204081,False,0.588,0.61,9,-5.008,0,0.234,0.534,0.0,0.303,0.645,99.926,4,dancehall
+6wGGTriD20VLvqUkk5RkTR,Charly Black,World Fete Riddim,You're Perfect,31,196973,False,0.825,0.848,7,-3.275,0,0.241,0.309,0.0,0.0544,0.77,104.972,4,dancehall
+3B5slaBuBK0BsuNw570pmx,Fireboy DML,"Laughter, Tears & Goosebumps",Like I Do,53,232800,False,0.561,0.515,5,-6.226,1,0.0527,0.419,1.2e-05,0.109,0.503,100.268,4,dancehall
+5OaRqgnamUsa99HzxSTdDv,Sean Paul;Ellie Goulding,Mad Love The Prequel,Bad Love,45,214270,False,0.646,0.877,1,-5.228,1,0.313,0.0115,0.000259,0.108,0.649,104.101,4,dancehall
+1KWb8TK1YsaK6KAyFH83Gj,Stefflon Don,Style (Prod By Cosmo),Style,39,184800,False,0.839,0.875,7,-4.885,1,0.212,0.0138,0.0052,0.0584,0.677,99.999,4,dancehall
+4Il2bKT8W9ve7KpMjYcp6a,jahmiel,U MI LUV,U MI LUV,48,219706,False,0.65,0.592,5,-6.193,0,0.112,0.372,0.0,0.0866,0.58,135.971,4,dancehall
+4j6rrza8THN7isAYsBfT8v,Stefflon Don;Ms Banks,Dip,Dip,53,138657,True,0.849,0.694,2,-4.654,1,0.13,0.331,0.000136,0.0424,0.775,142.019,4,dancehall
+2RnkJgwCzgvQU3MUysO1fG,Patoranking;Diamond Platnumz,Kolo Kolo,Kolo Kolo,60,195135,False,0.557,0.845,6,-4.352,0,0.103,0.0284,2.29e-05,0.289,0.542,127.432,5,dancehall
+5gL9KwWXfHSin9oSfbC6Zu,Spice,Inches,Inches,37,156765,True,0.825,0.664,10,-6.239,0,0.0442,0.0199,0.0,0.0696,0.295,112.032,4,dancehall
+5CHXbSS76okOT6NeuEY9gr,Mr Eazi;Major Lazer;Nicki Minaj;Diplo;K4mo,Oh My Gawd (feat. Nicki Minaj & K4mo),Oh My Gawd (feat. Nicki Minaj & K4mo),45,180000,False,0.82,0.866,7,-3.859,0,0.214,0.152,0.0,0.0938,0.834,94.018,4,dancehall
+5TaD282V96JNYFOE2SGYqQ,Sean Paul;Pitbull,She Doesn't Mind,She Doesn't Mind - Pitbull Remix,42,240140,False,0.73,0.799,7,-5.36,0,0.0695,0.000704,1.98e-06,0.177,0.613,121.291,4,dancehall
+4aklsaE3ZpvAae04DhJeuL,Rupee,The Best of Underground Music,Tempted to Touch,27,214013,False,0.84,0.804,2,-8.975,0,0.0554,0.0957,9.34e-06,0.0567,0.907,105.97,4,dancehall
+6YB6CK4Tsb0BgtxCEL9KlI,Sean Paul,The Trinity,Give It Up to Me,65,242253,False,0.855,0.674,7,-4.328,1,0.314,0.165,0.0,0.0548,0.578,95.991,4,dancehall
+5I4VsjWxOqN1nWfUpFZFM3,Sean Paul;Tove Lo,Calling On Me,Calling On Me,54,218556,False,0.623,0.891,7,-4.419,0,0.0653,0.016,0.0,0.329,0.641,99.987,4,dancehall
+25Rz39rQ0TPUuW8MqChHja,Frass,Xxxplicit,Love & Dun,42,220473,True,0.432,0.704,0,-6.405,1,0.391,0.326,0.0,0.612,0.831,72.169,3,dancehall
+6spkgjCoSBi5sFzF8wpOrO,Mwuana,Ensam,Ensam - Radio1,39,221450,True,0.493,0.501,4,-9.535,0,0.111,0.283,0.0,0.449,0.363,95.489,4,dancehall
+5nEdwtSv0qqeE0l4o1lR4q,Sean Paul;Keyshia Cole,(When You Gonna) Give It up to Me (feat. Keyshia Cole),(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,65,243880,False,0.711,0.761,8,-3.04,1,0.225,0.067,0.0,0.041,0.718,95.824,4,dancehall
+1XhaUSmhANVIRtDvs7p2UP,Burna Boy;Blxst;Kehlani,"Love, Damini",Solid (feat. Blxst & Kehlani),65,195134,False,0.554,0.509,1,-9.429,1,0.339,0.149,1.86e-05,0.094,0.718,199.874,4,dancehall
+1kd8fI9o55GNWvNOfzKcz5,Mr Eazi,Legalize,Legalize,58,146249,False,0.574,0.648,9,-5.583,1,0.268,0.361,5.85e-05,0.266,0.559,132.418,5,dancehall
+4A7sEZMxweWEJxKJ1vnyrV,Sean Paul;Dua Lipa;Delirious & Alex K,No Lie (Remixes),No Lie - Delirious & Alex K Remix,39,258546,False,0.804,0.733,7,-3.263,1,0.23,0.00152,0.0,0.525,0.485,102.018,4,dancehall
+0D85y6hjCaHRjeB4VEXqPy,Sean Paul;Gwen Stefani;Shenseea,Scorcha,Light My Fire (feat. Gwen Stefani & Shenseea),60,202533,False,0.569,0.805,5,-4.619,0,0.257,0.0108,0.0,0.0953,0.75,178.079,4,dancehall
+44SSviC4R1TkAdsyptjDpE,Burna Boy,African Giant,Anybody,63,188741,False,0.863,0.882,6,-2.396,0,0.0611,0.0134,5.6e-05,0.078,0.643,103.988,4,dancehall
+5srIkb35ees5dhgjK3zdfz,Burna Boy,African Giant,Collateral Damage,62,197558,False,0.74,0.852,2,-7.323,0,0.0453,0.51,0.123,0.158,0.903,102.015,4,dancehall
+2surWD0yteYlQ2scXFwQFX,Sean Paul;Sia;Miss Lafamilia;Banx & Ranx,Dynamite (Remixes),Dynamite (feat. Sia & Miss Lafamilia) [Banx N Ranx Remix],50,141629,False,0.774,0.808,1,-3.492,1,0.063,0.0276,0.000553,0.0955,0.714,97.051,4,dancehall
+4cukkgbgG9P9PKouQ462aV,Omah Lay,Boy Alone,bend you,56,159965,True,0.696,0.559,5,-5.839,0,0.13,0.0867,0.369,0.101,0.316,193.967,4,dancehall
+6KV3ElDRM6wNEAHrzumFnX,Chronic Law,Plastic Smile,Plastic Smile,37,152200,False,0.802,0.483,2,-7.18,1,0.223,0.411,0.0,0.113,0.364,124.884,5,dancehall
+6rgSSesTJGyjQuvx06l3jU,Spice,10,So Mi Like It,54,154038,True,0.722,0.628,5,-5.133,1,0.565,0.0837,0.0,0.11,0.797,120.554,3,dancehall
+288z7QA0dpDTusTvjJM2pR,Stonebwoy,Best African Club Tunes,Therapy,0,185341,True,0.567,0.72,5,-5.428,0,0.229,0.0456,3.04e-06,0.167,0.436,188.128,4,dancehall
+2dGE7HMvZEjuNxzz4IDLyL,Burna Boy,"Love, Damini",Jagele,63,182037,False,0.726,0.617,5,-8.434,1,0.129,0.0475,0.0796,0.112,0.629,189.953,4,dancehall
+6xs3qRPrz028H3NVKdDf9g,DING DONG,Wedding Cake Riddim,Bagga Gyal,0,174863,True,0.806,0.839,5,-4.134,0,0.205,0.2,0.0,0.185,0.728,130.535,5,dancehall
+3inqbiJAwJ3qCIGd6qozOR,Jahyanai;Timal,Whine It,Whine It,36,161279,False,0.723,0.646,7,-6.38,0,0.0984,0.536,0.00441,0.105,0.799,109.799,4,dancehall
+2M8hNjSSsRP89aFs3ISIrS,Eugy;Mr Eazi,CruiseControl: How I Met The Biggest Bird (DJ Mix),Body (Mixed),3,192000,False,0.795,0.229,9,-16.01,0,0.248,0.429,0.000576,0.623,0.383,99.938,4,dancehall
+4bUe0OUcwdu85AMBkZzYFg,Burna Boy;Popcaan,"Love, Damini",Toni-Ann Singh (feat. Popcaan),65,175677,True,0.67,0.607,5,-6.44,0,0.444,0.396,0.0,0.238,0.863,199.666,4,dancehall
+3dOBB8XZNu8aqi7JstoRZO,Fuse ODG;Sean Paul,T.I.N.A.,Dangerous Love,60,235375,False,0.704,0.945,9,-4.211,1,0.064,0.0259,0.0,0.0563,0.8,127.999,4,dancehall
+3RMcKAXL4vZM30gAdCQk4j,Sarkodie;Donae'o;Idris Elba,Africa Rising Vol.2,Party & Bullshit,0,186666,True,0.908,0.624,1,-7.304,1,0.192,0.022,0.0,0.256,0.562,108.018,4,dancehall
+5Y0WJtsVB8iHfpBbjbd2zd,E-Dee,Elevate,Victorious,39,158846,False,0.768,0.716,10,-7.209,0,0.325,0.135,0.0,0.162,0.633,100.04,4,dancehall
+1a6MyaBi4DZAqy0UYh9AWV,Runtown,CruiseControl: How I Met The Biggest Bird (DJ Mix),Mad over You (Mixed),2,69187,False,0.818,0.621,4,-7.708,0,0.0451,0.249,0.0,0.419,0.681,109.58,4,dancehall
+3tTstc3Hxf38kS7UNHKRZk,Reekado Banks;KiDi,Piano Boards w Y2J (DJ Mix),Ozumba Mbadiwe (Remix) (Mixed),0,113011,False,0.787,0.749,8,-10.028,1,0.0579,0.448,0.00147,0.146,0.737,112.949,4,dancehall
+08THWTAolAd4hkmkFIPxhH,Demarco;Rihanna,Keep Calm and Love Dancehall (Dancehall Party Classics 2015),RudeBoy - Remix,48,238080,False,0.583,0.779,10,-5.182,0,0.137,0.0742,0.0,0.259,0.593,179.858,4,dancehall
+4sHvKJc3qxiBuNTag8RiLq,Shamanes Crew,Reden-Zion,Se Ve Sola,39,189121,False,0.519,0.86,6,-5.475,1,0.305,0.0701,0.0,0.387,0.948,219.571,4,dancehall
+0tMNyMIPit3SMwl1A5nc1x,Rupee,Tropical Vibes,Tempted to Touch,0,243133,False,0.878,0.578,0,-7.572,1,0.0466,0.221,0.0,0.0841,0.961,105.987,4,dancehall
+2uNF7QNBgw7NlTM0eAlMQ3,Cestar;Stailok,Fuego,Si Tú Me Quisieras,39,189789,False,0.599,0.726,6,-5.004,1,0.384,0.101,0.0,0.0848,0.491,189.975,4,dancehall
+1vTPU2A2IFBHScO2iEbXQs,Ice Prince,We Mauve,Baby,0,226745,True,0.762,0.766,5,-4.615,1,0.0375,0.209,0.0,0.198,0.888,107.011,4,dancehall
+1rHkptmZCVqf1xlalyXWML,Cestar,El Verdadero Amor,Son Tus Besos,39,181106,False,0.621,0.72,9,-4.261,1,0.0375,0.158,1.08e-05,0.0902,0.831,78.918,4,dancehall
+2pYcCxTKRBJldhObRPyNQd,Medina,Där palmerna bor,Där palmerna bor,39,225226,False,0.861,0.814,6,-5.991,1,0.0625,0.247,0.0,0.0801,0.766,125.067,4,dancehall
+2xVjvDSSHeY5O1EpPBDZD7,Escala Mercalli;La Combo Tortuga;Luis Lambis,Dices,Dices,39,204945,False,0.786,0.794,5,-3.241,0,0.0632,0.194,0.0,0.156,0.904,95.0,4,dancehall
+5mcxpGvbTqusAuJNYGiO4O,Sugar Minott,Sugar Minott Masterpiece,We've Got A Good Thing Going,39,230862,False,0.849,0.525,3,-6.644,0,0.197,0.164,0.0,0.0399,0.877,78.741,4,dancehall
+2ekHlREMyWwCzye09BfZaW,Shamanes Crew,Antología,Viejo Mi Querido Viejo,38,203842,False,0.688,0.546,8,-5.686,0,0.0525,0.724,0.0,0.0784,0.286,74.986,4,dancehall
+5tgQAAHw30mSCYMRW2DGwB,Anthony B,Solace Riddim,Lying Lips,0,195242,False,0.676,0.712,0,-6.379,1,0.255,0.103,0.0,0.0992,0.671,85.017,4,dancehall
+6WTNvOppGFPmwZ37edR9tR,General Knas;Syster Sol,Kärlek & Revolt,Hetare Än Lava,38,203418,False,0.751,0.528,11,-9.826,1,0.0987,0.0025,0.0,0.243,0.861,82.532,4,dancehall
+6kxo2n2WY48fAhLuiwYOAb,SPINALL;Fireboy DML;6LACK,Sere (Remix),Sere - Remix,60,194181,False,0.778,0.66,7,-6.662,0,0.0592,0.156,0.0,0.137,0.747,110.016,4,dancehall
+7ixiCZEHWHc8FxaQXQh2P4,Sister Nancy,One Two,Bam Bam,67,196506,False,0.722,0.605,5,-6.07,1,0.153,0.825,0.0178,0.248,0.709,165.998,4,dancehall
+1jloWdvMh9nwHUu3mag8CL,Runtown,Mad Over You,Mad Over You,58,216058,False,0.842,0.548,4,-5.209,0,0.0477,0.437,8.34e-05,0.109,0.811,107.044,4,dancehall
+1xx7iMgSyLnbDUi170lVbb,Omah Lay;Disclosure;Justin Bieber,Attention (with Justin Bieber) [Disclosure Remix],Attention (with Justin Bieber) - Disclosure Remix,56,256644,False,0.633,0.891,8,-6.25,1,0.124,0.0375,0.0293,0.22,0.172,124.043,4,dancehall
+20hZEnFjyvUIk4YkONRGMZ,Omah Lay,Get Layd,Lo Lo,58,171730,False,0.725,0.704,7,-4.592,1,0.251,0.0636,0.163,0.0991,0.483,204.004,4,dancehall
+76IkF7pA7RscjDTvOFT4vb,Stefflon Don;French Montana,Hurtin' Me,Hurtin' Me,61,212815,False,0.535,0.794,0,-4.933,1,0.161,0.102,1.52e-05,0.144,0.799,203.712,4,dancehall
+3O3VkFcW34oKuCgJdQ0W2H,Stefflon Don;Tory Lanez,Senseless (Remix),Senseless - Remix,55,173437,True,0.544,0.621,1,-4.557,1,0.139,0.122,0.0,0.101,0.747,101.337,4,dancehall
+43CAMHDrAVA3nJP2zgKJDI,Protoje;Chronixx,Ancient Future,Who Knows,58,208466,False,0.683,0.724,5,-4.436,0,0.0988,0.0909,0.0,0.339,0.741,80.932,4,dancehall
+2CsaAimiEwtki5Q5rZPimf,Wizboyy;Wiz Ofuasia;Teeyah,Change Over,Lovinjitis (Remix),44,278344,False,0.73,0.635,10,-5.234,1,0.117,0.58,2.94e-05,0.137,0.756,87.941,4,dancehall
+6prqX1SW2MMH8hAOIzKQ3Z,Eugy;Mr Eazi,Dance For Me (Eugy X Mr Eazi),Dance For Me (Eugy X Mr Eazi),56,204173,False,0.774,0.685,11,-5.14,0,0.069,0.154,0.0,0.391,0.587,106.982,4,dancehall
+1UM3RVanAaakxcx9GkfNTL,Ice Prince;Oxlade,KOLO (feat. Oxlade),KOLO (feat. Oxlade),61,168013,False,0.629,0.741,11,-1.521,0,0.146,0.532,0.0,0.119,0.816,103.715,4,dancehall
+30mNHDOw7qD5SF8tBeuPpu,Konshens,Bruk Off Yuh Back,Bruk Off Yuh Back,60,173465,False,0.816,0.875,7,-2.499,1,0.184,0.187,0.0,0.0346,0.952,100.967,4,dancehall
+5nUiz96J8ZSmwoSuL4sGvh,Burna Boy;Jorja Smith,African Giant,Gum Body (feat. Jorja Smith),62,195073,False,0.747,0.624,2,-5.532,1,0.0864,0.182,0.0,0.0864,0.755,97.053,4,dancehall
+03MxQe4F8TGGZSs4Zyha4b,Demarco;Akon;Runtown,No Wahala (feat. AKON & RUNTOWN),No Wahala (feat. Akon & Runtown),50,212383,False,0.819,0.625,2,-5.211,0,0.0525,0.384,0.0,0.0471,0.621,106.982,4,dancehall
+33dN3Nd9aRz4nzha4oIGnX,Omah Lay,What Have We Done,Godly,56,175215,False,0.64,0.574,5,-8.951,0,0.091,0.138,0.00492,0.342,0.538,198.014,4,dancehall
+18t2ofQiViidZHxOBVjpD1,Tiwa Savage,Celia,Koroba,61,153876,False,0.85,0.645,11,-6.302,0,0.0611,0.358,1.12e-05,0.0925,0.93,104.022,4,dancehall
+7Ji8ejeD78lMEMAzVlGJeD,Apache Indian,Time For Change,The Israelites,12,204173,False,0.842,0.938,5,-3.843,0,0.149,0.152,0.0,0.0839,0.961,152.056,4,dancehall
+3ehCekNDTrGlf89L4kGK2u,Apache Indian,Time For Change,Acting Shady,2,239640,False,0.833,0.906,6,-4.214,1,0.145,0.228,1.84e-06,0.0664,0.962,96.968,4,dancehall
+4UHAvi0B47EjwHqKLdrGlA,Charly Black;Sak Noel,Diggy Dee,Diggy Dee,48,151266,False,0.715,0.936,6,-0.958,1,0.12,0.0725,0.0,0.22,0.806,104.76,4,dancehall
+6TTObHutNMcPlNhDDiAFlL,Apache Indian,Time For Change,Tere Toor,6,250440,False,0.744,0.731,8,-4.268,0,0.036,0.0018,0.000994,0.114,0.332,91.993,4,dancehall
+2buDJsry5dXZBnSe0zXxVK,Apache Indian,Time For Change,All Religions,1,260920,False,0.718,0.859,6,-4.431,0,0.0774,0.174,0.0,0.369,0.962,169.011,4,dancehall
+0Xs1Yh44j5cIgUQtOCBcQj,Apache Indian,Time For Change,Sometimes Love,3,242213,False,0.652,0.806,2,-3.875,0,0.0797,0.133,0.0,0.281,0.88,107.883,4,dancehall
+4RvtzkdXmDOjbggr6pu9jR,Apache Indian,Time For Change,Global Talk,2,248426,False,0.77,0.871,2,-4.358,1,0.0775,0.158,0.00147,0.286,0.892,104.023,4,dancehall
+4s5F9S2VO5yEcVfxdvMgCO,Kraff Gad,Dinero,Dinero,34,223477,True,0.815,0.69,1,-5.644,0,0.199,0.501,0.0,0.0966,0.535,95.045,4,dancehall
+0pnjsL7fFBI1ojHoeYgYNy,Apache Indian,Time For Change,So Hott,1,194786,False,0.874,0.748,1,-4.342,1,0.115,0.00171,0.0,0.124,0.833,108.976,4,dancehall
+4aX1l1agOXB5JMs93kIRrt,Apache Indian,Time For Change,Om Numah Shivaya,2,266480,False,0.757,0.723,1,-3.783,0,0.046,0.13,8.74e-06,0.0589,0.399,74.985,4,dancehall
+6UpQYUunqVK90gjPTvigjP,Apache Indian,Time For Change,Get Loose,1,237400,False,0.808,0.953,6,-4.403,0,0.109,0.109,0.0,0.252,0.907,91.989,4,dancehall
+2BTjYq2KANT84EiAcTxPsJ,Apache Indian;Luciano,Time For Change,Calling Out to Jah,2,263160,False,0.732,0.922,8,-4.78,1,0.246,0.0416,0.0,0.0698,0.962,149.971,4,dancehall
+27xeD20rMHqcNgXqlRVoLD,Apache Indian;El Feco,Time For Change,Throw Your Hands Up,1,246840,False,0.89,0.65,2,-4.802,0,0.222,0.0434,0.0,0.11,0.664,99.255,4,dancehall
+6TMV0VFVMl8F0V5gYPJRcD,Apache Indian,Time For Change,Shackle Chain,1,236653,False,0.851,0.815,8,-4.421,1,0.166,0.0758,0.0,0.295,0.934,79.972,4,dancehall
+04qJc4IUXV3EEjgOb3qYeo,6t6;Big Smoak,9 Nights,9 Nights,35,160983,True,0.718,0.726,6,-8.478,1,0.328,0.297,0.0,0.0746,0.918,103.098,4,dancehall
+11MsyQAkeVydh6jE3x4EyI,Apache Indian,Time For Change,Everyday,1,248533,False,0.803,0.83,8,-3.919,1,0.0515,0.236,0.0,0.0604,0.975,154.025,4,dancehall
+0fiD988Lhtj9NLQBaxmHnI,Kempo,Life Soon Change,Life Soon Change,34,157021,False,0.559,0.517,4,-9.177,1,0.106,0.744,0.0,0.126,0.588,93.64,4,dancehall
+49B6HyxPZzcDNi3D4iOr8S,Apache Indian,Time For Change,The Israelites,6,224240,False,0.825,0.669,10,-4.512,1,0.117,0.0784,0.0,0.0818,0.97,151.894,4,dancehall
+3xqo8X52eVgcD3jwF4kNcO,Apache Indian,Time For Change,That Girl,0,204986,False,0.866,0.914,7,-3.78,1,0.205,0.038,0.0,0.028,0.644,96.005,4,dancehall
+4HvfYvRJ7br4wJhZmoIW12,6t6;T.O.K;Squash;Rygin King,Seh Yuh Bad,Seh Yuh Bad,34,169351,True,0.675,0.416,7,-15.682,1,0.835,0.0607,0.0,0.11,0.643,120.874,5,dancehall
+0S0dSmIJo4Pw3VQg9qv2aW,Apache Indian,Time For Change,A Prayer for Change,0,286960,False,0.882,0.892,2,-5.42,1,0.0591,0.232,0.00409,0.0687,0.802,117.994,4,dancehall
+7tdiJEsCdhdJ0jXGhMQbaG,Apache Indian,Time For Change,Tell Me Now,0,254026,False,0.718,0.897,4,-4.401,1,0.0371,0.0433,2.82e-05,0.0783,0.991,137.009,4,dancehall
+1MYmtUVcnXxzDgD9QYXtpf,Apache Indian,Time For Change,Selecta,1,236053,False,0.785,0.909,10,-3.333,0,0.197,0.0261,3.29e-06,0.0599,0.966,177.04,4,dancehall
+2LlnYFReI1nqBITIoN3LLL,Chronic Law,Life Changes,Walk with Faith,19,210279,True,0.683,0.503,5,-7.783,0,0.343,0.637,0.0,0.183,0.483,92.888,4,dancehall
+4kOTDj4SiZPkW1p96WMDNv,Sean Paul,The Trinity,We Be Burnin',61,213066,False,0.95,0.803,1,-4.195,1,0.151,0.145,0.0,0.0748,0.86,117.0,4,dancehall
+2XuLnQELesgnkCGZbSJHO0,Lil Kesh;Zinoleesky,Don't Call Me (feat. Zinoleesky),Don't Call Me (feat. Zinoleesky),56,178983,True,0.876,0.834,5,-5.768,0,0.0454,0.044,3.93e-05,0.0874,0.62,117.986,4,dancehall
+6UbWYuDxDYmYYhsNYuYPPC,Burna Boy;J Balvin,"Love, Damini",Rollercoaster (feat. J Balvin),60,187269,False,0.774,0.687,9,-9.994,1,0.0744,0.116,0.0012,0.129,0.791,98.993,4,dancehall
+4AqCSk70zcUmgxw96Y7q6z,Escala Mercalli;MC Piri,Sabes,Sabes,36,198750,False,0.721,0.703,0,-6.067,0,0.144,0.124,0.0,0.0915,0.619,177.978,4,dancehall
+4bftzKD1catnjF4h6sI27e,Escala Mercalli;Efe Frans;Filip Mota,Dame Tu Fyah,Dame Tu Fyah,36,207219,False,0.754,0.837,4,-3.747,0,0.0985,0.207,6.6e-06,0.29,0.88,98.028,4,dancehall
+4NFZRaxF3MsBXG2vwJYuOM,Digital Dread,Sembrando Raggamuffin,Eres Mi Niña - Raggamuffin Love,35,209920,False,0.727,0.791,6,-5.727,0,0.243,0.0774,1.36e-05,0.104,0.652,176.024,4,dancehall
+6dBz6tDMHUOF3vOf21t9NR,Shamanes Crew;Morodo,Tótem,Sin Barreras,37,231937,False,0.68,0.735,11,-5.628,0,0.281,0.315,0.0,0.307,0.717,163.976,4,dancehall
+0FkQNNH3nCY7sXGfV7qs1p,Escala Mercalli;Maxi Vargas,Elévate,Elévate,36,206250,False,0.906,0.567,11,-7.628,0,0.113,0.0711,1.86e-06,0.0928,0.806,123.933,4,dancehall
+6DpTTIl22LYSQzHvLqrfUB,Chronic Law,Life Changes,Walk with Faith,2,210279,False,0.703,0.494,5,-7.829,0,0.315,0.627,0.0,0.172,0.457,93.609,4,dancehall
+2zTCZsRZA7KYbyaj333IHU,Chronic Law,Wedding Cake Riddim,Wedding Cake,0,143233,True,0.603,0.744,5,-4.668,0,0.364,0.128,0.0,0.127,0.536,125.334,5,dancehall
+6qk3jI8bKCgURI3h0d8zBZ,Wande Coal,Realms,Again,59,156083,False,0.654,0.39,1,-9.858,0,0.36,0.688,0.0,0.106,0.552,125.944,5,dancehall
+2zYs4BonN2ydkbrRk333SN,Wizkid;Drake,Sounds From The Other Side,Come Closer (feat. Drake),62,211293,True,0.825,0.453,4,-7.429,0,0.227,0.127,3.82e-06,0.0838,0.496,99.974,4,dancehall
+1DQPNI88YRj6wqOHgtmrsW,Ebony,Date Ur Fada,Date Ur Fada,28,215693,False,0.895,0.657,2,-5.892,1,0.0683,0.255,0.0,0.277,0.929,105.1,4,dancehall
+6NgjdJrK7Bpyvsm8yDtx4H,Omah Lay,What Have We Done,Godly,55,175215,False,0.64,0.574,5,-8.951,0,0.091,0.138,0.00492,0.342,0.538,198.014,4,dancehall
+4204hwPYuToiuSunPFUoML,Wizkid;Tay Iwar;Projexx,Made In Lagos,True Love (feat. Tay Iwar & Projexx),62,247333,True,0.85,0.542,4,-3.602,0,0.167,0.229,4.9e-05,0.079,0.622,119.747,5,dancehall
+75PbbMMmHQwE93FYcS4PGM,Sean Paul,Smash Hits 2012!,She Doesn't Mind,23,227786,False,0.719,0.777,7,-5.225,0,0.0643,0.000561,9.4e-06,0.206,0.596,119.997,4,dancehall
+4RdUpI3iTwqzCQe9ttKB5Q,Sean Paul,Other Side of Love,Other Side of Love,50,185973,False,0.826,0.793,6,-3.645,0,0.047,0.00518,0.00347,0.05,0.261,119.972,4,dancehall
+3ovSaVUTDOtxfDw5xh9qJ4,Falz;Chike,B A H D,Knee Down,56,147326,True,0.84,0.529,6,-7.521,0,0.297,0.241,3.67e-05,0.111,0.581,67.432,5,dancehall
+1G2J5KdJxNH6Sd0wEclV0P,Sean Paul;Pia Mia,How We Do It,How We Do It (feat. Pia Mia),54,182672,True,0.623,0.818,0,-3.623,1,0.529,0.143,0.0,0.232,0.729,130.655,5,dancehall
+0iXgloyi8cmv3fTMTUvkK5,Tommy Lee Sparta,Spartan Soldier,Spartan Soldier,42,271647,True,0.682,0.738,6,-6.954,1,0.116,0.666,0.0,0.0741,0.63,94.993,4,dancehall
+2Ln1SFoLWYtNwS98uL5G4a,Sean Paul;DJ Laszlo,She Doesn't Mind (Remixes),She Doesn't Mind - DJ Laszlo Radio Edit,55,250115,False,0.714,0.924,7,-4.227,1,0.0639,0.00722,0.000324,0.0368,0.592,129.035,4,dancehall
+5Zez1biAREA2C8706kdlIb,Iyanya;Davido;Kizz Daniel,Like (feat. Kizz Daniel),Like (feat. Kizz Daniel),57,150545,False,0.745,0.709,2,-5.123,1,0.0511,0.0359,0.00986,0.118,0.791,109.961,4,dancehall
+6zrZ7mVcznNd2Q6qB0iBrq,Shenseea,ALPHA,Can't Anymore,60,155307,False,0.771,0.724,9,-5.372,0,0.0422,0.209,3.51e-06,0.281,0.77,102.991,4,dancehall
+4GfDV5KQFbnPP5RXOm9KQf,AMARIA BB,What's Done in the Dark,Secrets,45,172160,True,0.561,0.4,6,-5.996,0,0.146,0.769,9.16e-06,0.1,0.359,107.954,4,dancehall
+0CfQ8hT96TCe8htXMwptJo,DeeWunn;Marcy Chin,Mek It Bunx Up (feat. Marcy Chin),Mek It Bunx Up (feat. Marcy Chin),48,215700,True,0.947,0.806,11,-4.191,0,0.296,0.00815,0.0,0.0811,0.634,99.999,4,dancehall
+4btYeVhPo0QIbUxySZGjba,Skales,Man Of The Year,Shake Body,55,208933,False,0.856,0.873,6,-4.102,1,0.0693,0.186,2.34e-05,0.0558,0.96,131.006,4,dancehall
+1fK4CGWKy5rJDK5Ss5vSHd,Kraff Gad,Step (Radam),Step (Radam),32,198855,True,0.635,0.576,4,-6.984,0,0.159,0.063,0.0,0.135,0.0346,131.611,5,dancehall
+5jqh2kAjz4GxjOS3HHSz17,Burna Boy,Twice As Tall,Bank On It,57,276536,False,0.784,0.388,1,-8.931,1,0.207,0.29,0.00539,0.0971,0.472,93.011,4,dancehall
+0e2IcGybx5iw1Iv5mTX7H0,Teejay,Consistency (Through the Years),Stimulate,0,154482,True,0.661,0.655,0,-8.181,1,0.22,0.196,0.0,0.0895,0.575,173.951,4,dancehall
+0X9MmC3La4fWsaceYFHwWK,Mwuana,LA Strip Joint,LA Strip Joint,36,182383,True,0.756,0.694,9,-4.861,0,0.147,0.266,0.0,0.0929,0.702,151.932,4,dancehall
+49y9Jh6uPCc4DrhmL6yavX,Jugglerz;Miami Yacine;Nura;Bausa;Joshi Mizu,"Fokus (Jugglerz, Miami Yacine, Nura feat. Bausa, Joshi Mizu)","Fokus (Jugglerz, Miami Yacine, Nura feat. Bausa & Joshi Mizu)",33,234739,True,0.73,0.805,11,-6.285,0,0.0714,0.154,0.000113,0.101,0.224,119.845,4,dancehall
+30JUSi5EdQpkPvr0BgAmDV,T.O.K,Unknown Language,Neck Breakers,33,251640,False,0.819,0.839,5,-5.565,0,0.29,0.0527,0.000783,0.0467,0.887,96.904,4,dancehall
+0Xoj0t3aqkviPAomSMjrXs,Myssa More;BLACKGRAPES,Tick an Tock,Tick an Tock,33,185260,False,0.835,0.4,8,-13.944,1,0.353,0.0938,0.0679,0.103,0.523,103.657,4,dancehall
+07R7LVnlKmNqNI7BA4K2ld,Eichem;Astrallbass,Wapen,Wapen,33,143030,True,0.666,0.793,1,-5.192,0,0.332,0.286,0.0,0.0623,0.649,99.077,4,dancehall
+2lGcaj9uJ8ahQxbNvvEqHi,Flavour;Diamond Platnumz,Time to Party,Time to Party,52,212532,False,0.849,0.735,9,-4.546,1,0.0746,0.237,1.67e-05,0.0652,0.97,121.932,4,dancehall
+6fGh3jzYtgX40vC7tS3pvu,Sean Paul,EDM Bangers,She Doesn't Mind - DJ Laszlo Radio Edit,35,250115,False,0.714,0.924,7,-4.227,1,0.0639,0.00722,0.000324,0.0368,0.592,129.035,4,dancehall
+2Nk5EgP9wXa3bpTU8V4i5t,Laa Lee;Cristale,Bong Bing,Bong Bing,55,168394,True,0.938,0.713,6,-5.78,1,0.201,0.0137,1.58e-06,0.133,0.63,119.015,4,dancehall
+4T4cyYxlYN22sQ50RRWT9i,6t6;Marksman;Silk Boss;1Biggs Don;Big Smoak,Dem Nuh Loyal,Dem Nuh Loyal,33,194208,False,0.71,0.453,0,-14.977,1,0.861,0.594,0.0,0.265,0.632,176.48,4,dancehall
+4ZKbHnIwc2vcBd6U64wO0p,Sean Paul;Sasha,Reggae Anthology: Steely & Clevie - Digital Revolution,I'm Still In Love With You,35,268480,False,0.618,0.749,7,-3.531,1,0.156,0.0096,0.0,0.13,0.772,86.862,4,dancehall
+7sHIKRkrjd92ITAEeRaID1,Lion Fiah;Saybor;La Corte Music,Duro,Duro,34,176828,False,0.849,0.758,3,-5.441,0,0.0679,0.12,1.57e-05,0.117,0.792,95.04,4,dancehall
+2MambWcS8EoNCYgPEZqJZi,6t6;Big Smoak,Feel So High,Feel So High,34,164519,False,0.579,0.738,9,-12.826,0,0.469,0.713,0.0,0.17,0.756,101.672,4,dancehall
+1C15jtL0nGHoJg47V08gNS,Chronic Law,Emotion,Emotion,33,163582,False,0.536,0.735,11,-3.779,1,0.453,0.454,0.0,0.167,0.404,94.144,4,dancehall
+4MzWyTjDx77Z0DQSxKsLqm,Filip Mota;Saint's Búho,Morena,Morena,34,202589,False,0.847,0.582,1,-5.318,0,0.149,0.3,2.35e-06,0.0938,0.184,95.997,4,dancehall
+5RXe6A6oygLIvR2DMKu9Tv,Mr. Vegas,Ragga Ragga Ragga 11,Big Things A Gwaan,34,196640,False,0.793,0.674,1,-5.456,1,0.305,0.0234,0.0,0.227,0.858,94.659,4,dancehall
+5rYJbmPYDaC4yJ8toRSrof,Apache Indian,Make Way For The Indian,Boom Shack-A-Lak,49,271333,False,0.764,0.701,6,-8.157,0,0.0298,0.0309,1.32e-06,0.825,0.901,134.015,4,dancehall
+1qLCR7vzJv9hZ2ZNPq5V0K,Jony Roy;Ciju Bless,HEAD SHOT (Riddim),Dame - Riddim,33,156734,True,0.81,0.717,7,-3.476,0,0.245,0.115,0.0,0.417,0.904,97.947,4,dancehall
+4tLTmAru7JOcP3zJD5otpb,Escala Mercalli,Mi Bless,Mi Bless,34,186000,False,0.673,0.738,1,-4.177,0,0.29,0.403,0.0,0.118,0.926,91.797,4,dancehall
+2LYrK7rIwqP809PneuLhQz,El Shaaki;Ley 20mil,31 de Diciembre,Tillas con barro,35,212062,False,0.801,0.953,9,-0.706,1,0.333,0.388,0.0,0.0757,0.87,90.89,4,dancehall
+3KhhGdo024E5njEJBsQUpU,Collie Buddz,Collie Buddz,Tomorrow's Another Day,34,195800,False,0.706,0.6,4,-5.648,0,0.0736,0.116,0.0,0.305,0.345,81.028,4,dancehall
+6LF8T6R366JMX8tdgtGrpA,Shamanes Crew,Reden-Zion,Aun Te Amo,35,237065,False,0.583,0.764,7,-5.699,0,0.0584,0.265,0.0,0.114,0.538,86.977,4,dancehall
+6IHKqhikIdakMqLTOxButV,Degree,Bush Baby,Nah Surrender,33,225706,False,0.681,0.753,11,-7.501,0,0.418,0.047,0.0,0.102,0.632,99.991,4,dancehall
+1w6CvAWqBs6iKjLgeN9GSb,Shamanes Crew;Maxi Vargas,Tótem,Princesa De La Luna,34,195937,False,0.725,0.777,9,-5.156,0,0.172,0.0811,0.0,0.236,0.864,79.912,4,dancehall
+0bP9pfVp7GGfisiEEQKsIS,Shamanes Crew,Reden-Zion,Amor Sin Precio,34,218069,False,0.603,0.854,2,-5.962,0,0.0947,0.374,2.31e-06,0.107,0.667,176.113,4,dancehall
+2XzWjZDxpoJqDAIOIwZBjB,Escala Mercalli,Super Fly,Super Fly,35,196046,False,0.549,0.739,11,-5.223,0,0.215,0.148,0.0,0.0702,0.708,171.965,4,dancehall
+5rETbVSxYPrYF6uzSCkXrg,Lutan Fyah,Arising,Stay Firm,0,240065,False,0.667,0.62,1,-5.647,1,0.282,0.308,0.0,0.0488,0.75,85.358,4,dancehall
+0r8pr40vuAfn5s67TBCpJP,Lutan Fyah,Reggae Sunset Riddim,Friend Of Music,5,163000,False,0.571,0.703,0,-5.71,1,0.243,0.0156,0.0,0.287,0.714,77.929,4,dancehall
+3pY3etENVX6RAL3Qj49BPP,Kapten Röd;Tommy Tip,Stjärnorna Finns Här,Du E La Go,35,163360,False,0.753,0.824,10,-6.403,0,0.157,0.435,5.36e-05,0.136,0.818,99.869,4,dancehall
+0NcWI0my7uo4OCbqubBp1L,Lutan Fyah,Solace Riddim,Think Twice,0,191466,False,0.67,0.665,0,-6.109,1,0.296,0.101,0.0,0.106,0.537,84.976,4,dancehall
+3bCPlYqw1nilYbVF6sEhzR,Juancho Style,Me Falla,Me Falla,34,269844,False,0.619,0.746,6,-6.527,0,0.043,0.567,0.00057,0.138,0.966,175.946,4,dancehall
+6TdlAGR2CJlm0M2AmXMsCb,Sanchez;Pietkun;Gav Easby,"Chill Vibes, Vol. 1",Pasiones & Adicciones - Gav Easby Remix,0,425379,False,0.714,0.91,7,-9.534,1,0.0475,0.0094,0.595,0.18,0.163,122.991,4,dancehall
+5vf6J4SM5SZ2I87jA2juK2,Sean Paul;Jhené Aiko,Mad Love The Prequel,Naked Truth,39,238292,True,0.684,0.936,6,-2.969,1,0.19,0.0243,1.75e-06,0.0831,0.762,104.089,4,dancehall
+1zfojKPcf9dYx5xTDzlkhd,Sean Paul;Dua Lipa,Throwback Summer Hits,No Lie,40,221176,False,0.742,0.883,7,-2.862,1,0.118,0.0468,0.0,0.206,0.464,102.044,4,dancehall
+6uucB29G6Y7LThzNfuRkiw,Kaliffa,Helt seriöst,Helt seriöst,52,183260,False,0.571,0.643,10,-5.834,0,0.0852,0.0701,4.91e-05,0.0988,0.63,151.859,5,dancehall
+0PtDNK2Q49fAM4ZbKtN0mz,Koffee,Rapture EP,Rapture,57,181816,False,0.503,0.675,10,-6.782,0,0.254,0.0466,0.0,0.147,0.645,99.284,4,dancehall
+73e0LixjWj3e8prfptVeGD,Burna Boy,Outside,More Life,57,92342,False,0.834,0.536,0,-7.455,0,0.117,0.546,7.46e-05,0.0646,0.962,99.924,4,dancehall
+2SaRkvUkzNzL39fBB2hLpt,SPINALL;Asake,PALAZZO,PALAZZO,58,186002,False,0.819,0.659,5,-9.024,1,0.0973,0.0534,0.0,0.0435,0.441,116.054,4,dancehall
+3iRKwxW8ZDjmL9nKk3nisz,Tiwa Savage;Zinoleesky,Jaiye Foreign,Jaiye Foreign,58,190164,False,0.82,0.816,5,-6.29,0,0.077,0.0216,7.81e-05,0.0541,0.861,108.98,4,dancehall
+2NcJDSpMJsbyabOLoa00GM,Omah Lay,Free My Mind,Free My Mind,52,175989,False,0.771,0.37,6,-10.813,0,0.0441,0.426,0.363,0.086,0.941,94.893,4,dancehall
+1neQ0MJbFV4O1eYwa7Hj2x,Ajebutter22,King of Parole,King of Parole,58,196529,False,0.961,0.727,11,-8.089,0,0.155,0.0229,0.000895,0.347,0.794,113.008,4,dancehall
+5o5yQsdZblzaqzgBFDVJTv,J Capri;Charly Black,Whine & Kotch,Whine & Kotch,61,217200,True,0.699,0.675,9,-5.383,1,0.387,0.0654,0.0,0.143,0.442,105.151,4,dancehall
+1qIATFQg93M6KvhPh9QSNc,Stonebwoy,Therapy,Therapy,55,185341,True,0.567,0.72,5,-5.428,0,0.229,0.0456,3.04e-06,0.167,0.436,188.128,4,dancehall
+0hp62UwmajmzAjXkMKznhD,P-Square;Don Jazzy,Double Trouble,Collabo,53,223587,False,0.566,0.903,11,-4.576,1,0.0621,0.362,2.53e-05,0.0958,0.905,194.825,3,dancehall
+7aBRoWtp9jsZFxwml1LfeG,Koffee,Pull Up,Pull Up,57,171092,False,0.81,0.604,7,-3.296,1,0.0904,0.316,0.0514,0.0944,0.646,102.937,4,dancehall
+3Ry6M5to0EblssBg3pfJt8,Mr Eazi;DJ Tarico;Joey B,Patek,Patek,58,218396,True,0.87,0.45,1,-12.221,1,0.0434,0.00491,0.414,0.0514,0.508,112.987,4,dancehall
+6spHiUIu4msYEmIQHmjpBm,T.O.K;Arif Cooper,Arif Cooper Presents: Up & Live Riddim (2022 Remastered),Sexy & Ready (2022 Remastered),0,150226,True,0.427,0.9,6,-3.904,1,0.242,0.0127,0.0,0.18,0.873,95.688,3,dancehall
+3FhzGKEXLajfFfpGNaRjPQ,Jahyanai,Vitamine,Vitamine,31,159136,True,0.767,0.705,5,-5.741,0,0.079,0.588,1.03e-05,0.305,0.554,85.909,4,dancehall
+6XPPB2eOwBid6EbveTmVYe,Ice Prince;CKay,Shakara,Shakara,51,200869,False,0.861,0.661,2,-6.587,0,0.0834,0.129,0.00208,0.107,0.677,92.027,4,dancehall
+5JsvjL3K6evbrybb49X7SQ,Spice;Epik Jones;No Saints,Spice Cool It Remix EP,Cool It (No Saints Remix),29,144039,False,0.911,0.676,1,-7.684,1,0.251,0.128,0.00181,0.21,0.82,100.062,4,dancehall
+0FnoxHCkfmjr2kBDwos4OG,Korede Bello,Bella,Bella,51,146478,False,0.864,0.705,0,-6.814,0,0.0962,0.642,5.66e-05,0.133,0.928,114.955,4,dancehall
+0j55p8YRAPG8yajtNyjt6A,Gyptian,Hold You,Hold You - Hold Yuh,67,233253,False,0.69,0.621,8,-3.583,1,0.06,0.321,2.81e-05,0.0884,0.497,66.858,3,dancehall
+4lNlpSis9yqTpltXzCl7j5,Spice;Sean Paul;Shaggy,Reggae Gold 2021,Go Down Deh (feat. Shaggy and Sean Paul),30,154744,False,0.738,0.768,2,-5.111,1,0.143,0.101,3.07e-05,0.212,0.592,179.978,4,dancehall
+3tdI9STqxU4lBRrKeDLrQ0,450,Save Me Life,Save Me Life,31,170997,False,0.609,0.454,0,-8.016,0,0.186,0.119,0.0,0.111,0.352,130.104,5,dancehall
+3AUW4YqukPw4YfBV1ZkkNe,Omah Lay,woman,woman,56,168742,False,0.831,0.601,2,-5.674,0,0.321,0.386,0.116,0.104,0.492,104.068,4,dancehall
+1TeIFb2AIbExCZjInMxGha,Fuse ODG;Tiffany Owusu,T.I.N.A.,Azonto,53,232255,False,0.888,0.923,6,-3.516,1,0.137,0.117,0.0,0.0522,0.945,125.985,4,dancehall
+2sh23PpmUcfrxKaBRvqxig,Burna Boy,"Love, Damini",Dirty Secrets,57,151856,True,0.557,0.586,0,-11.439,1,0.184,0.134,4.06e-05,0.0365,0.928,89.64,4,dancehall
+163l4xzEe3JAfPbv0kYNQo,Burna Boy;Don Jazzy,Question (feat. Don Jazzy),Question (feat. Don Jazzy),55,168461,False,0.847,0.527,4,-9.359,1,0.0465,0.0854,0.000303,0.153,0.746,104.052,4,dancehall
+3QO1m6i0nsrp8aOnapvbkx,Wizkid;Damian Marley,Made In Lagos,Blessed (feat. Damian Marley),61,262973,False,0.612,0.651,1,-6.974,0,0.281,0.0864,0.0,0.368,0.902,90.272,4,dancehall
+5Q6pQ8G99rjTeCgHTMev7X,Shenseea;Megan Thee Stallion,Lick (with Megan Thee Stallion),Lick (with Megan Thee Stallion),55,166875,True,0.643,0.481,4,-7.078,1,0.551,0.121,0.0,0.073,0.597,85.323,5,dancehall
+4lqqbSHGGR5BRtnmnky00G,Shenseea,Shen Yeng Anthem,Shen Yeng Anthem,62,141226,True,0.67,0.823,1,-2.24,0,0.295,0.14,0.0,0.311,0.655,105.739,4,dancehall
+4231MOdd64jKGGdjxtROU1,Roze Don;Aalvero;Marksman,Little Bit (Remix),Little Bit - Remix,32,183448,True,0.933,0.683,9,-3.69,1,0.314,0.162,0.0,0.14,0.656,106.072,4,dancehall
+1vPklJ1dH1kUbHod4UH0JS,Ayo Jay,Lazy Genius,Let Him Go,50,233286,False,0.83,0.401,2,-6.557,1,0.0922,0.0658,0.00302,0.0691,0.69,96.024,4,dancehall
+7mjJSQt9FkcZiannFBT61t,T.O.K,PEPPERSPRAY RIDDIM,Dem Badmind,0,161705,False,0.663,0.876,0,-2.141,1,0.3,0.0336,2.47e-06,0.127,0.819,99.609,4,dancehall
+7uNB5nj0hpYcL7K2uX90KZ,6t6,Dont Dare Me,Dont Dare Me,32,136770,False,0.905,0.469,4,-12.233,0,0.242,0.758,0.0,0.279,0.503,113.123,4,dancehall
+3wxiErKtQ7sJr3nRKJf53S,Gappy Ranks,The Biggest Reggae One-Drop Anthems 2009,Heaven In Her Eyes,34,227333,False,0.875,0.484,2,-6.27,0,0.0554,0.0136,0.000626,0.154,0.67,85.015,4,dancehall
+76DNHi7S2I2Zyenwir10u8,DING DONG;Bravo Ravers,Genna Bounce Riddim,Dweet (Genna Bounce),32,130037,True,0.844,0.75,11,-4.047,1,0.124,0.181,0.0,0.154,0.856,107.908,4,dancehall
+4xPfKBa4fKf8O8NHctfdyI,D'banj,Africa Rising Vol.3,Shoulda,0,211626,False,0.762,0.742,5,-5.161,1,0.0367,0.288,0.000145,0.0971,0.912,110.001,4,dancehall
+6W82XKBUszZ72oMOKt5cKL,Mr. Vegas,Ragga Ragga Ragga 11,Everywhere I Go,33,180093,False,0.837,0.878,4,-5.509,0,0.19,0.186,0.0,0.0678,0.774,172.074,4,dancehall
+77CKhISZmu3o8WGiUWu8bd,D'banj,Best Afrobeat Tunes,Shoulda,0,211626,False,0.762,0.742,5,-5.161,1,0.0367,0.288,0.000145,0.0971,0.912,110.001,4,dancehall
+7BsEg5U5Ab1ZaS483Nky7M,Serani,No Games,Romance Me,33,222826,False,0.618,0.873,11,-6.873,0,0.14,0.00202,0.0,0.148,0.744,183.939,4,dancehall
+2BiSXiybgeW2stqoeVc8Ke,Kaliffa;Syster Sol,Kalibreraren,Kontakt,34,188516,False,0.832,0.635,7,-7.167,1,0.0839,0.0332,0.0691,0.155,0.507,99.995,4,dancehall
+2d6d55lcIvGmT0kh1Vn0RN,Shamanes Crew,Antología,Huellas En El Tiempo,33,220415,False,0.671,0.6,1,-7.186,0,0.0816,0.13,0.0,0.105,0.409,87.453,4,dancehall
+22BoJ4mWZf7bQlABPYB4kV,El Shaaki;Nitro MC;Donexprs;Flor De Rap;Lechero Mon;jimmy Fernadez;Gedos;Crea BeatBox;Sponer;Delaion,Hiphappy,Hiphappy,34,391000,False,0.737,0.876,11,-3.821,1,0.259,0.142,0.0,0.0553,0.748,95.104,4,dancehall
+7N0bKawoIi0x5HwLXzJwua,Kapten Röd,Stjärnorna Finns Här,Trasig,34,240853,False,0.759,0.71,9,-8.527,0,0.19,0.608,0.000105,0.117,0.853,178.982,4,dancehall
+5N5CCm7QFaZaqYlmZOAU0i,General Knas,Reggaestrerad,Dunya,33,223122,False,0.788,0.619,7,-9.116,1,0.231,0.188,1.6e-05,0.22,0.632,168.025,4,dancehall
+3849xp0ArCjlTJF2wKAGYb,Aidonia,CruiseControl: How I Met The Biggest Bird (DJ Mix),Pon Di Cocky (Mixed),3,66500,False,0.691,0.688,4,-8.617,0,0.0717,0.134,0.0,0.347,0.398,103.567,4,dancehall
+3btX0VPszRCWYYugFnoCYG,Shamanes Crew;DJ Acres,Tótem,Tu Luz Vive En Mi,33,234794,False,0.842,0.788,7,-4.599,1,0.102,0.167,4.08e-06,0.143,0.705,94.991,4,dancehall
+1V5BZjcOqxMenVBbbI3UVr,Escala Mercalli,Flow Candela,Flow Candela,34,180922,False,0.718,0.733,10,-4.563,0,0.178,0.199,1.02e-05,0.286,0.863,92.013,4,dancehall
+056l0NdK5ZmSG9Z31QC8ii,Shamanes Crew,Reden-Zion,Linda,33,235838,False,0.652,0.844,8,-6.806,0,0.0656,0.193,0.0,0.234,0.714,92.006,4,dancehall
+7dnBg5AaPHFBJpWyDsGYUD,Syster Sol,Dömd att bli bedömd,Gillar din vibe,33,188773,False,0.79,0.833,11,-5.137,1,0.0661,0.291,0.0,0.115,0.955,90.03,4,dancehall
+4xCJMZzH2ppO9UJAShs1Pe,Luciano,My Turn Riddim,World Destruction,0,235600,False,0.524,0.778,1,-4.92,1,0.102,0.0907,0.0,0.0789,0.883,74.622,4,dancehall
+35056uy2b4M1qJ3Z1ed3sf,SPINALL;Fireboy DML,Grace,Sere,59,185454,False,0.711,0.679,7,-6.261,0,0.108,0.077,1.42e-05,0.142,0.642,109.971,4,dancehall
+3KW6KJKinwAszaajAHOSQF,Ycee,Love Drunk,Nu Riddim,56,189795,True,0.705,0.688,10,-6.857,0,0.0401,0.424,0.000178,0.116,0.339,98.022,4,dancehall
+1IARNA3zsu39Kul2ov9n3J,Fireboy DML,"Laughter, Tears & Goosebumps",King,56,165040,False,0.856,0.596,3,-6.067,1,0.0709,0.242,0.0,0.0995,0.588,99.986,4,dancehall
+4zqoszH8UVaYPx9HMNlt0R,Skillibeng;Street Gena,Pine Tree Riddim,Faar,25,212035,True,0.477,0.82,2,-3.016,1,0.362,0.417,0.0,0.631,0.548,69.695,5,dancehall
+6Bd4eccfo1gmRDCmqYStQQ,Charly Black;Chris Martin,Whine up Fimi,Whine up Fimi,44,212210,False,0.688,0.675,1,-3.929,0,0.0826,0.297,0.0,0.0761,0.605,94.936,4,dancehall
+2cytBOLpwFRX7J9URCrFIe,NSG;Tion Wayne,Options,Options,59,240081,True,0.836,0.621,1,-4.685,0,0.0892,0.387,9.16e-05,0.104,0.762,101.995,4,dancehall
+1jbLkcfE9VrWI3wCZaZU61,DeeWunn;Marcy Chin,Bunx Up (feat. Marcy Chin),Bunx Up,45,215700,False,0.947,0.805,11,-4.192,0,0.296,0.008,0.0,0.0805,0.637,99.998,4,dancehall
+1AtBzcUzKLh4BGwXhFA9K6,Wizkid,Ayo,Ojuelegba,59,216242,False,0.645,0.748,9,-5.888,0,0.0351,0.154,0.000283,0.239,0.903,100.056,4,dancehall
+1ObD1mQ91u4yBK46EYNCgl,Protoje;Jorja Smith,Ten Cane Row (feat. Jorja Smith),Ten Cane Row (feat. Jorja Smith),59,209586,False,0.658,0.611,5,-5.041,1,0.079,0.226,0.0,0.126,0.502,74.489,4,dancehall
+1M1k3Sxtf7u8Zj3eIzrJm0,Sean Paul;Stefflon Don,Shot & Wine,Shot & Wine,50,208352,False,0.802,0.755,10,-4.804,1,0.106,0.0499,0.0,0.0781,0.636,105.983,4,dancehall
+6h3OTSLTJubOG0RLkIW91i,Afro B;T-Pain,Afrowave 3,Condo,53,165981,False,0.843,0.76,4,-6.224,0,0.147,0.0886,7.23e-05,0.14,0.806,107.013,4,dancehall
+6gHUiXF4BiJ9d7biTNmdKR,Timaya,Chulo Vibes,The Mood,58,161684,False,0.607,0.586,4,-5.698,0,0.15,0.307,1.51e-06,0.287,0.921,126.715,5,dancehall
+55nUyfW8eCQsHrZ3jtkXLU,Sean Paul,When It Comes To You,When It Comes To You,43,181188,False,0.611,0.649,10,-6.095,0,0.133,0.0115,0.0,0.0641,0.72,100.118,4,dancehall
+0v9w61bEVbIgYbVu0frJag,Ayo Jay;Chris Brown;Kid Ink,Your Number REMIX (feat. Chris Brown & Kid Ink),Your Number REMIX (feat. Chris Brown & Kid Ink),53,271606,True,0.752,0.595,9,-6.763,0,0.121,0.18,0.0,0.291,0.746,100.021,4,dancehall
+4y0AUgG6XhQac3a6Li93QU,Skeng,Gvnman Shift,Gvnman Shift,59,204068,True,0.911,0.57,4,-5.689,0,0.314,0.549,0.0,0.0966,0.368,100.093,4,dancehall
+3ICwwENlpH3YPGIqjO9MWH,Busy Signal;Linky First,Grung,Grung,38,177600,True,0.679,0.846,11,-4.908,0,0.339,0.0964,0.000238,0.0748,0.369,100.077,4,dancehall
+1tn87Abu4ZTptxvpp6Zd8V,Skeng;Tommy Lee Sparta,Protocol,Protocol,59,199836,True,0.665,0.582,10,-7.221,0,0.339,0.1,0.0,0.163,0.441,99.98,4,dancehall
+11qqSo6AyQR68xqVlmwYls,Olamide,Carpe Diem,Green Light,56,194425,True,0.897,0.721,10,-3.693,0,0.155,0.519,0.0462,0.083,0.961,100.096,4,dancehall
+7Eoqr9pBOC7sp41pFDoiLC,Busy Signal,Bad Gal Only,Bad Gal Only,17,195500,False,0.902,0.738,5,-7.257,0,0.3,0.275,1.57e-06,0.212,0.474,120.027,5,dancehall
+24ULbF2UnOeMbkmkGriTBc,NSG,Petite,Petite,59,182710,True,0.631,0.565,7,-6.89,1,0.225,0.452,4e-05,0.0782,0.522,101.822,4,dancehall
+0F245o4yDaGy2leKy2l2Ae,Spice;Demarco;Meeka,Jiggle,Jiggle,43,132815,True,0.603,0.687,6,-3.675,1,0.166,0.244,0.0,0.106,0.696,103.691,4,dancehall
+29LHe8kG3PraghUZOZYsw4,Sean Paul;Beyoncé,Dutty Rock,Baby Boy (feat. Beyoncé ),62,246706,False,0.658,0.621,1,-5.725,1,0.231,0.0667,2.46e-06,0.142,0.817,91.267,4,dancehall
+4DPvMjCqZPTBDpahYjMSy2,Burna Boy,"Love, Damini",Whiskey,56,203576,False,0.679,0.455,7,-8.174,0,0.382,0.0492,0.00405,0.284,0.838,134.81,3,dancehall
+2dG1cXdbEPKEOyUq96R9xz,Fireboy DML;Rema,Playboy,Compromise (feat. Rema),58,195939,True,0.686,0.736,7,-3.414,0,0.258,0.286,7.62e-06,0.0995,0.752,200.07,4,dancehall
+0MBBalwgK4ZZcN4JwyjutV,Vybz Kartel,The Trend Setterz Vol. 1,Business,31,183947,True,0.718,0.765,4,-4.387,0,0.373,0.0178,0.0,0.083,0.685,125.661,5,dancehall
+60lUecrFeE2t6QMJ1Nmsve,Wizkid,Made In Lagos: Deluxe Edition,Anoti,55,181360,True,0.634,0.73,11,-7.353,0,0.385,0.378,2.04e-05,0.0985,0.575,101.901,4,dancehall
+7lvobfYGCBe0okzSwMtvRK,Busy Signal;Linky First,Grung,Grung,13,177600,False,0.927,0.822,6,-5.151,0,0.241,0.0954,0.00363,0.0752,0.335,100.036,4,dancehall
+7EqoATlXAKNwzv45LAlqRt,Burna Boy,Twice As Tall,23,57,245920,True,0.738,0.53,5,-8.89,0,0.113,0.16,0.0805,0.0973,0.533,102.891,4,dancehall
+3PnkEOvEKu7s2qQJ5mHpNl,Wande Coal,Come My Way,Come My Way,57,208718,False,0.9,0.762,2,-5.035,1,0.0372,0.742,0.00246,0.0681,0.802,113.006,4,dancehall
+3b9acRXnM18tDliMPrSi4R,Kraff Gad,1 BuduChop,1 BuduChop,30,165877,True,0.892,0.592,0,-8.429,1,0.255,0.352,0.0,0.336,0.17,100.055,4,dancehall
+6x5IZU1qDXFPYxxMJ1cvaC,Sean Paul;Pia Mia,Scorcha,How We Do It (feat. Pia Mia),47,182672,True,0.623,0.818,0,-3.623,1,0.529,0.143,0.0,0.232,0.729,130.655,5,dancehall
+4rlaH7EbXL55bj9pvp57nP,Burna Boy,Twice As Tall,Way Too Big,52,200413,True,0.787,0.7,5,-7.821,0,0.0446,0.226,0.000698,0.165,0.331,113.997,4,dancehall
+0oQgoesQJq0fRnWOY1D73g,Burna Boy,Kilometre,Kilometre,55,152824,True,0.724,0.806,9,-3.993,1,0.175,0.054,0.0,0.053,0.449,102.924,4,dancehall
+2KfeoUqgmA1aGDA79enC3B,Eshconinco,Dream Life,SHE Like IT,31,147879,True,0.757,0.819,9,-4.782,1,0.235,0.105,0.0,0.0608,0.818,189.978,4,dancehall
+2vDjeqTzuAS8RaKmdqOcSe,Sean Paul;Tove Lo,Scorcha,Calling On Me (feat. Tove Lo),44,218556,False,0.623,0.891,7,-4.419,0,0.065,0.0159,0.0,0.329,0.64,99.986,4,dancehall
+3MkP5CEa6GCdNWSmHnc0hV,Cherrie,Så Mycket Bättre 2021 - Tolkningarna,I Do,34,218757,False,0.507,0.552,5,-7.667,1,0.0282,0.444,3.63e-05,0.0753,0.811,78.908,4,dancehall
+1px6WAnyrXvXUx33U9KfIg,Syster Sol;Ivory,ANITYA,Twin Flame,31,187000,False,0.706,0.496,4,-10.258,0,0.0443,0.243,1.32e-06,0.0745,0.733,88.034,4,dancehall
+1zc3ejK8IsDDbUZnDU1hDD,Spice,Emancipated,CROP TOP,40,127660,True,0.89,0.794,2,-6.769,1,0.203,0.134,0.000128,0.133,0.552,102.11,4,dancehall
+2tZPZ1lT8TMlEUxXTxCCeO,P-Square,Jaiye (Ihe Geme),Jaiye (Ihe Geme),50,234404,False,0.696,0.887,1,-3.884,0,0.0336,0.284,2.38e-05,0.161,0.695,117.027,4,dancehall
+7kZ50f0evpyRFSGqkqx6PT,Ai Milly,Henny Energy,Henny Energy,31,216340,False,0.776,0.759,11,-7.363,0,0.328,0.821,0.0,0.0937,0.631,99.917,4,dancehall
+28258RcG0K7cj4LirbIYlm,Jeepstarr,Trodal,Vägsjäl,32,208057,False,0.689,0.435,0,-12.114,1,0.126,0.136,0.0,0.128,0.238,82.923,4,dancehall
+7vkyux3X8W2ufQ47YJv5z3,S.A. Finest,The Best Of Bad Words (Box Set),Próximo Menguante - Remix,31,248373,True,0.664,0.951,8,-4.997,1,0.1,0.00059,1.43e-05,0.048,0.865,174.044,4,dancehall
+5Dy8Kc388Couu88zpMFFhi,Escala Mercalli,Welcome,Welcome,33,150000,False,0.712,0.742,10,-6.895,0,0.187,0.543,0.00162,0.103,0.831,81.992,4,dancehall
+2ZdhylKMQC5uEMfo2MCwjF,Labyrint,This Is Swedish Hip Hop Evolution,Trakterna,33,215893,False,0.714,0.773,7,-6.395,1,0.331,0.094,0.0,0.0626,0.835,172.106,4,dancehall
+4zqpDQuwoHTY5zkyPF2Vl6,Escala Mercalli;Bubaseta,Piel Canela,Piel Canela,32,201378,False,0.671,0.878,7,-2.745,0,0.141,0.342,0.0,0.202,0.702,92.894,4,dancehall
+4bRNj7vh5yIU3bZWEJkB6T,Shamanes Crew,La Jardinera,La Jardinera,33,178548,False,0.73,0.715,0,-4.095,1,0.217,0.439,3.69e-06,0.0474,0.856,78.085,4,dancehall
+2btTMw7yoO0U69H5zoF0O6,R2Bees;Burna Boy,CruiseControl: How I Met The Biggest Bird (DJ Mix),My Baby (Mixed),3,50000,True,0.756,0.52,9,-8.318,0,0.0661,0.354,0.000297,0.172,0.797,99.957,4,dancehall
+5sJzQgss2kbdsQvnSIyfXc,R2Bees,CruiseControl: How I Met The Biggest Bird (DJ Mix),Killing Me Softly (Mixed),2,88125,False,0.707,0.835,9,-6.281,0,0.189,0.486,0.0,0.321,0.479,109.387,4,dancehall
+1VAsseh5KzZ0Df9WqEmckq,JuanchitoSaico,Reloaded,A Lo Natural,31,200774,False,0.663,0.876,5,-4.772,1,0.177,0.0725,0.0,0.0917,0.853,93.972,4,dancehall
+2A5Ym90QeUrutdYLjEOxac,Shamanes Crew;Jimmy Rivas;Panthy;Sativanderground;Maxi Vargas;Efe Frans;Filip Mota;Vanessa Valdez,No Estamos en Guerra,No Estamos en Guerra,32,477923,True,0.774,0.756,1,-5.508,0,0.0876,0.0292,0.0,0.127,0.84,80.003,4,dancehall
+7IDrQtd8JrnExDCPSq0W90,SPINALL;Fireboy DML,Sere,Sere,59,185454,False,0.689,0.68,7,-6.261,0,0.117,0.0778,1.53e-05,0.142,0.625,109.923,4,dancehall
+10dVVfHlZYjV4Qv9uNVgrA,Afro B;French Montana,Joanna (Drogba) [Remix],Joanna (Drogba) - Remix,55,207763,True,0.934,0.642,2,-6.489,1,0.117,0.037,0.0,0.0754,0.748,108.027,4,dancehall
+6aaN2LMboLIyNlo7XmPIrP,Mr Eazi;Falz;Major League Djz;DJ Tarico;Joey B,Patek (Remix),Patek (Remix),0,182029,False,0.848,0.724,1,-6.595,0,0.0362,0.0289,0.000847,0.0666,0.479,112.995,4,dancehall
+2ffoa5r1ThY7vF6zp8Sp1Q,Ajebutter22;Mayorkun,Ginger You,Ginger You,39,222857,True,0.891,0.793,6,-4.443,0,0.0654,0.548,0.0779,0.155,0.723,112.008,4,dancehall
+5mN3xSyvCmFy1jkdA98IfS,Wizkid,Fever,Fever,56,252244,False,0.755,0.806,0,-4.618,0,0.0479,0.544,0.000114,0.0908,0.892,98.008,4,dancehall
+51psaXOJAkOUdRQrp2Wjsa,Mr Eazi,"Life is Eazi, Vol. 1 - Accra To Lagos",Leg Over,58,197972,False,0.591,0.673,1,-5.206,0,0.331,0.603,0.0,0.0941,0.584,97.827,4,dancehall
+67GOrSVtYYlEPRQuFWwR29,Apache Indian,No Reservations,Chokthere,26,264826,False,0.948,0.744,7,-11.326,1,0.274,0.0102,0.0,0.0979,0.627,99.677,4,dancehall
+4s2lircadR1O7vCZjMMJCf,Gyptian,"Sex, Love & Reggae",Wine Slow,52,153884,False,0.608,0.568,8,-8.185,1,0.349,0.73,0.0,0.191,0.47,119.841,5,dancehall
+6yKPMNQJZ0yIp7InU2x6OT,Samantha J;R. City,Baby Love,Baby Love,32,216263,False,0.723,0.706,3,-4.417,1,0.0644,0.104,0.0,0.422,0.585,90.919,4,dancehall
+4RX2HLZCSJGZ0la3APIoHL,Apache Indian,No Reservations,Arranged Marriage,26,272746,False,0.805,0.831,9,-9.413,1,0.0929,0.0785,7.67e-06,0.0931,0.795,95.898,4,dancehall
+6le8fqehbtGib9jpxzIUdM,Sean Paul;Chi Ching Ching,Crick Neck,Crick Neck,40,157777,False,0.682,0.825,11,-4.459,0,0.308,0.0231,0.0,0.143,0.829,108.192,4,dancehall
+1rgK0UrJNwkaIptPI0a5kg,Fireboy DML,"Laughter, Tears & Goosebumps",Need You,49,221538,False,0.412,0.546,8,-8.45,1,0.0665,0.794,1.17e-06,0.106,0.403,174.829,3,dancehall
+30zA6WuMvHPPaEgFkTvA9U,Apache Indian;A.R. Rahman,Love Birds,No Problem - Love Birds / Soundtrack Version,19,376506,False,0.906,0.546,1,-13.09,1,0.223,0.0176,0.0,0.0886,0.519,104.029,4,dancehall
+3RcPuhrAyFTvJSKfVdbM5p,NSG;Giggs,Nyash (Current & Savings),Nyash (Current & Savings),57,214280,True,0.626,0.616,7,-6.371,1,0.359,0.0215,0.0,0.19,0.461,101.022,4,dancehall
+6pbCkvCENw0suVGr4Ckkae,Sean Paul,Dutty Rock,Like Glue,63,232506,False,0.757,0.78,1,-5.038,1,0.319,0.0811,0.0,0.113,0.59,97.917,4,dancehall
+3QGkF5RRFR9RWTJciGTMf2,Kranium;Queen Naija,Without You (feat. Queen Naija),Without You (feat. Queen Naija),55,205248,False,0.555,0.455,8,-7.511,1,0.063,0.0115,0.0,0.0659,0.417,104.679,4,dancehall
+1x6V2VICetQHwVfTGXyhfB,Boy Boy,No Talk,No Talk,30,155666,True,0.728,0.692,8,-3.849,1,0.1,0.061,5.33e-05,0.103,0.136,102.013,4,dancehall
+1AmHzKHHpcpAtinzDCik2o,Apache Indian;A.R. Rahman,Dance Hits Of A. R. Rahman,"No Problem (From ""Love Birds"")",19,371822,False,0.914,0.481,1,-16.193,1,0.226,0.0235,2.35e-06,0.094,0.498,104.03,4,dancehall
+7Mm6Ji15oIfpONMyNjkkPo,Mwuana,Triller,Ja Må Ja Leva,32,231962,True,0.705,0.636,4,-5.97,0,0.105,0.187,0.0,0.0968,0.351,151.108,4,dancehall
+4gKy5k5bhga2GFa7svTfbd,Konshens;Chris Brown,It Feel Good,Bruk Off Yuh Back (feat. Chris Brown),52,194583,True,0.58,0.748,7,-6.393,1,0.299,0.274,0.0,0.127,0.939,202.052,4,dancehall
+1M65Sv8RxdOpTiKKqjphxf,Burna Boy,"Love, Damini",How Bad Could It Be,54,297651,False,0.421,0.573,5,-10.778,0,0.337,0.496,0.0,0.179,0.549,84.782,4,dancehall
+03EcqaAMg58r10dgbl0o6y,Fuse ODG;Ed Sheeran;Mugeez,Boa Me (feat. Ed Sheeran & Mugeez),Boa Me (feat. Ed Sheeran & Mugeez),53,180500,False,0.906,0.597,0,-2.566,1,0.0764,0.165,2.94e-06,0.0775,0.967,124.008,4,dancehall
+0goUKVU3yeGtXjHbHd3BE6,Eichem;Astrallbass,Move It,Move It,30,169983,False,0.713,0.72,9,-5.998,0,0.382,0.0909,0.0,0.119,0.764,127.354,5,dancehall
+5iYqXLSwFkrsgXl53pAnhd,Fuse ODG;Ed Sheeran;Mugeez,New Africa Nation,Boa Me (feat. Ed Sheeran & Mugeez),53,180500,False,0.906,0.597,0,-2.566,1,0.0764,0.165,2.94e-06,0.0775,0.967,124.008,4,dancehall
+4sYjub31yWSj7eqaNNVtmA,Popcaan,Empire Summer,Ravin,32,195840,False,0.735,0.56,1,-7.162,0,0.361,0.252,0.0,0.309,0.751,99.495,4,dancehall
+2zpHG3JcIbaA6p93O8iEQ0,D'yani;Weekday,P.L.F. (Pretty Little Freak),P.L.F. (Pretty Little Freak),30,208927,True,0.613,0.416,6,-11.162,0,0.523,0.475,0.0,0.0941,0.61,149.457,4,dancehall
+4FtuDjqmTPP9mjxygLKzEm,Burna Boy,African Giant,Omo,58,147143,False,0.895,0.718,2,-4.579,0,0.0581,0.246,1.45e-05,0.0892,0.88,100.036,4,dancehall
+0D9Bnm77CkYlzpZijEKFuy,Burna Boy;Ladysmith Black Mambazo,"Love, Damini",Glory (feat. Ladysmith Black Mambazo),55,231205,True,0.412,0.416,11,-10.274,1,0.255,0.621,0.0,0.656,0.336,85.115,4,dancehall
+4Ak7zEzrMrqJKFc8mE3mUa,Kraff Gad,Sleepwalker,Sleepwalker,30,168744,True,0.79,0.693,1,-8.44,1,0.129,0.253,1.85e-05,0.125,0.695,92.986,4,dancehall
+4VxuryaNIWPAQSt6Dpmdty,Motto;Lyrikal,Pim Pim Riddim,Lit,30,150256,False,0.862,0.829,2,-3.717,1,0.0807,0.176,0.0,0.202,0.646,147.046,4,dancehall
+7rUo7Hysz2bTzhQpZBWDOY,Chronic Law,Too Emotional,Too Emotional,30,163813,True,0.604,0.687,1,-8.575,1,0.45,0.339,0.000116,0.12,0.372,120.33,5,dancehall
+4MP0DR7DuBXd0w7QV99V92,Malie Donn;Moonskull;Harlem Richard$,We Rising,We Rising,30,209000,True,0.617,0.599,1,-6.216,0,0.0704,0.221,0.0,0.121,0.455,119.931,4,dancehall
+6keGPMSGivlRavMexnXyWw,Ai Milly,What Joker Said,What Joker Said,31,206425,True,0.619,0.574,11,-6.991,0,0.485,0.596,0.0,0.114,0.346,130.507,5,dancehall
+4OjT7IUBdhHgQQqrL7PHyS,General Degree,P'N'S,Mr. Do It Nice,30,211093,False,0.853,0.448,6,-14.338,0,0.332,0.0835,0.0,0.153,0.716,93.336,4,dancehall
+3e46kySUAL8xwLO5r0cJBg,Mad Cobra,Headless Body,What Happen,29,137508,True,0.856,0.678,8,-4.299,1,0.442,0.364,0.0,0.0394,0.907,114.983,5,dancehall
+4cHmbzfbEf3RjqCI4scOv5,Charly Black;Daddy Yankee,Feliz día Papá,Gyal You A Party Animal - Remix,30,224320,False,0.729,0.894,0,-4.054,1,0.0797,0.0612,0.0,0.36,0.757,101.053,4,dancehall
+4dimHArFHCLqKwU1BDosvj,Filip Mota,Tú Llegaste,Tú Llegaste,31,221052,False,0.766,0.688,11,-4.02,0,0.0711,0.353,0.0,0.0597,0.761,152.048,4,dancehall
+4HXqDOIIMUarJ2HYPSjJzs,Lady G,Reggae Anthology: Music Works Classics,Nuff Respect,30,216186,False,0.867,0.636,7,-7.509,1,0.294,0.000778,0.0,0.244,0.697,82.189,4,dancehall
+6L63ulwGbVnDCte3it7ulD,Beenie Man,Reggae Gold 2003,Row Like A Boat,30,204426,False,0.709,0.822,1,-6.225,1,0.225,0.51,2.16e-05,0.0696,0.84,101.386,4,dancehall
+2zKI8AyZrTrCLcpHFIU8ze,Mad Cobra,Strictly The Best Vol. 5,Tek Him,30,223720,False,0.723,0.62,11,-6.983,1,0.461,0.0242,0.0,0.0759,0.717,111.792,5,dancehall
+6qKrPJzLjhfiyEilHVBgDa,Goldn.B;Warren,Aurifère,Entre nous,31,216000,False,0.727,0.9,2,-4.311,1,0.122,0.13,1.82e-05,0.219,0.618,89.924,4,dancehall
+7fsS00rqy2kIR07d9i7OXD,Chronic Law,Paranoia (Self Protection P2),Paranoia - Self Protection P2,30,174132,True,0.531,0.603,8,-8.113,1,0.444,0.464,0.0,0.128,0.285,90.002,4,dancehall
+13EDKAhP6DMS7dV7z95tgH,Rygin King,Therapy,Maddest Life,30,165450,True,0.719,0.625,2,-6.712,1,0.314,0.577,0.0,0.108,0.33,133.073,5,dancehall
+6ueM4I6AAOX1OEpAIfLvNG,Hawkeye,"2hardcore, Vol. 3",NO VEE NO VA,31,187213,False,0.849,0.805,2,-4.902,1,0.203,0.368,0.0,0.0738,0.801,102.448,4,dancehall
+0oCQ94meSvw1BbpAkeYSgn,Syster Sol;Partillo,ANITYA,Make Sense,31,205011,False,0.57,0.503,5,-7.801,1,0.0703,0.209,6.34e-06,0.0961,0.383,101.966,4,dancehall
+5wkxmwV4U5qHQYe1m0wTp9,General Degree,Reggae Gold 2012,When I Hold You Tonight,30,183826,False,0.884,0.821,4,-3.295,0,0.173,0.0103,0.0,0.0868,0.708,92.06,4,dancehall
+7JQAxdCFbDw7FWf2a68FpO,Cestar;Stailok,Si Tú Me Quisieras (Acústico),Si Tú Me Quisieras - Acústico,32,250615,False,0.521,0.568,10,-6.985,0,0.0522,0.123,0.0,0.168,0.385,120.598,5,dancehall
+1wdkfUR95qNlcFYE95n2Zj,Cestar;Quique Neira,Vibes,Mira Bien,32,199071,False,0.746,0.825,9,-3.207,1,0.0344,0.104,0.000156,0.083,0.765,139.955,4,dancehall
+0MWIOsPKOnWTQQ1PWI09WE,Medina;Alex D'Rosso,Nema Problema (Alex D'Rosso Remix),Nema Problema (Alex D'Rosso Remix),32,166030,False,0.715,0.892,7,-3.632,0,0.253,0.018,0.0,0.152,0.275,128.007,4,dancehall
+2Yn7OeV7NapymyBzxisxz0,Shamanes Crew;Los Auténticos Decadentes,Tótem,Chica De Barrio,32,212437,False,0.804,0.81,11,-4.878,0,0.0837,0.0462,0.0,0.0516,0.885,151.056,4,dancehall
+1k8ojFYXNxu3RUZJY6ag0Y,Omah Lay,Get Layd,Bad Influence,45,138652,True,0.861,0.508,0,-10.648,0,0.176,0.586,0.323,0.109,0.728,96.909,4,dancehall
+6pdip6qgVJOI5JxqgbAlu6,Burna Boy,The Lion King: The Gift,JA ARA E,56,190108,False,0.79,0.693,0,-5.767,1,0.0605,0.042,0.0267,0.079,0.855,91.991,4,dancehall
+03cKmr45ZcgYzng3s76STy,Fireboy DML,"Laughter, Tears & Goosebumps",Feel,52,194400,False,0.835,0.752,3,-5.371,0,0.115,0.31,0.0,0.268,0.737,100.011,4,dancehall
+6My7ThfS01lzN9gmBXsF4s,Eugy,LoLo,LoLo,50,166322,False,0.766,0.622,11,-7.48,1,0.359,0.317,0.00798,0.0849,0.426,187.936,4,dancehall
+3VwR0joqoloF97pCHzLVLx,Sean Paul;Tory Lanez,Mad Love The Prequel,Tek Weh Yuh Heart,48,225903,False,0.497,0.68,9,-5.722,0,0.309,0.456,0.0,0.123,0.702,94.983,4,dancehall
+3wrlAsyyrqVoC9fuDWyziG,Fireboy DML,APOLLO,Airplane Mode,46,177600,False,0.552,0.527,0,-5.836,0,0.111,0.267,8.12e-05,0.11,0.518,92.342,1,dancehall
+7MtpW10epOD3sUtURL5ZDu,DJ Neptune;Joeboy;Mr Eazi,Nobody,Nobody,50,145860,False,0.707,0.866,6,-3.612,0,0.0354,0.251,2.5e-06,0.263,0.768,108.053,4,dancehall
+6GSRoOG3wewHfTWnfGqB7Q,Apache Indian,Om Numah Shivaya,Om Numah Shivaya,25,265377,False,0.663,0.597,1,-7.654,0,0.0557,0.141,2.22e-05,0.0602,0.472,74.932,4,dancehall
+0rWlFiu0sMqLdtrViUwLT5,P-Square;Akon;May D,Chop My Money,Chop My Money - Remix,48,272297,False,0.812,0.812,5,-5.921,0,0.115,0.0879,0.0,0.268,0.892,127.017,4,dancehall
+0Mg5cbRrpU5VF3tV90hmvk,Skillibeng;Fivio Foreign;French Montana,Whap Whap (feat. Fivio Foreign & French Montana),Whap Whap (feat. Fivio Foreign & French Montana),58,161495,True,0.95,0.825,6,-5.284,0,0.268,0.382,1.24e-05,0.0867,0.733,106.978,4,dancehall
+7iR5sSLTH2ACtcbLpntsdR,Gyptian,Wine Slow,Wine Slow,59,154671,False,0.616,0.557,8,-8.698,1,0.286,0.693,0.0,0.16,0.425,119.846,5,dancehall
+73QcmfEnoLv3pKt0aXKdOG,Olamide,We Outside,We Outside,54,155428,True,0.615,0.852,0,-6.283,1,0.2,0.0347,0.0358,0.0994,0.578,114.011,4,dancehall
+5C3vZiMOn2KHMbNQOhL6oQ,Wizkid,Made In Lagos,No Stress,57,202640,True,0.511,0.663,11,-4.819,0,0.485,0.00519,0.0,0.0973,0.547,199.687,4,dancehall
+558ULLj8yY2vT8XGtgY0q9,Olamide;Bad Boy Timz,Carpe Diem,Loading (feat. Bad Boy Timz),59,194000,True,0.937,0.797,2,-4.768,0,0.206,0.0733,0.000835,0.147,0.64,120.001,4,dancehall
+06mcgnr3eJ8cF8ed0WfdPA,Peruzzi;Fireboy DML,Rum & Boogie,Southy Love,53,210048,True,0.848,0.875,10,-5.018,0,0.0702,0.174,0.00709,0.0741,0.431,113.035,4,dancehall
+3UOg91DTKgZuWsYsV1Zn13,NSG;MHD,In Da Car,In Da Car,60,258320,True,0.894,0.746,2,-4.842,1,0.188,0.0795,6.74e-05,0.178,0.775,101.016,4,dancehall
+10C1ZwdAwSEmMeYAFvuTtv,Kranium;Ty Dolla $ign;Wizkid,Can't Believe (feat. Ty Dolla $ign & WizKid),Can't Believe (feat. Ty Dolla $ign & WizKid),54,213306,True,0.725,0.764,6,-4.893,0,0.0843,0.00117,8.93e-06,0.0773,0.611,99.962,4,dancehall
+67nsk1XuS8F7wFP8jSqFbS,Million Stylez,Jamaican Style,Miss fatty fatty,52,144893,False,0.603,0.484,10,-9.998,0,0.532,0.0965,0.0,0.0645,0.93,81.447,4,dancehall
+4AaXmQvHMWNwZSoqi4kcsK,Stylo G;Sean Paul;Spice,Dumpling (Remix),Dumpling - Remix,54,197227,True,0.706,0.73,7,-5.017,1,0.286,0.391,0.1,0.0871,0.612,63.951,3,dancehall
+0af3GhyucTRdd7T7Jmlbbv,Kraff Gad,Charge Up,Charge Up,28,158475,True,0.792,0.769,11,-3.831,1,0.164,0.807,0.0,0.0897,0.541,133.102,5,dancehall
+6qXdAsUH8I7j3A0d7sX6qz,Fireboy DML,"Laughter, Tears & Goosebumps",What If I Say,47,213916,False,0.825,0.685,8,-4.665,1,0.0602,0.387,0.000251,0.363,0.73,92.021,4,dancehall
+5UX9kezPyfYcLYWfhLJryU,Stalk Ashley,New RnB,Young,0,154282,True,0.506,0.588,6,-4.061,0,0.161,0.33,0.0,0.0915,0.467,86.529,4,dancehall
+2phNY2bHpAbROCrpAZw2R2,Sean Paul,Full Frequency,Other Side of Love,48,185973,False,0.826,0.793,6,-3.645,0,0.047,0.00518,0.00347,0.05,0.261,119.972,4,dancehall
+7Dnemvt8stZ0h2O02Zw59G,Stalk Ashley;WSTRN,20's R'n'B,Deserted,0,191637,True,0.758,0.81,0,-4.496,1,0.288,0.215,1.54e-05,0.157,0.347,91.995,4,dancehall
+5e11qBTvl3bdn4rFIv8ZGe,Blackmen;Lion Fiah;Alto contraste,Códigos,Códigos,29,183447,True,0.832,0.705,10,-3.932,0,0.127,0.172,1.2e-06,0.161,0.525,92.98,4,dancehall
+4c5rP9hOPuRmy9ml8mGF6L,Shaneil Muir,Click Bait,Click Bait,28,156370,False,0.619,0.626,6,-5.26,1,0.435,0.264,0.0,0.348,0.514,123.497,5,dancehall
+6iy3G8awTbXkNF1amHRIlL,Imenella;Petter,Ögonblick,Ögonblick,31,183331,True,0.685,0.564,4,-7.039,0,0.085,0.777,0.0,0.21,0.236,95.897,4,dancehall
+3Z9B9GQ2fFx4IRCG8bbWys,Tiwa Savage;Brandy,Water & Garri,Somebody’s Son (Ft Brandy),57,218130,False,0.705,0.809,5,-4.484,1,0.068,0.145,5.75e-05,0.216,0.508,107.21,4,dancehall
+15zQwrNlaEAZRcqi1PVEaw,Filip Mota,Le Gusta,Le Gusta,31,191489,False,0.672,0.691,8,-4.546,0,0.195,0.276,0.0,0.138,0.812,93.567,4,dancehall
+7IszPgWG66iEAnc7rPa0IY,Vybz Kartel,All Out,All Out (Explicit),28,211470,False,0.617,0.696,10,-6.45,0,0.314,0.471,0.0,0.118,0.841,66.436,5,dancehall
+3uaObCyjKCjktezgA5MBX1,P-Square,Double Trouble,Personally - Bonus,55,192885,False,0.567,0.74,6,-3.982,0,0.329,0.0785,0.000423,0.111,0.963,162.573,5,dancehall
+12wMwN9rEyGJGcuLItMtgI,Kraff Gad,Senseless,Senseless,29,156189,True,0.913,0.433,6,-9.222,0,0.231,0.347,0.00713,0.131,0.217,99.961,4,dancehall
+5nunoXw8Lr71pGSoTZDp47,Chronic Law;Digi Doran,Four Four,Four Four,29,198666,True,0.566,0.682,10,-3.734,0,0.267,0.0749,0.0,0.156,0.407,179.8,4,dancehall
+1Ab3AQ7Qsa2uRPt1ggIHLJ,Mr. Vegas,Sampler 18,Latest News,30,205973,False,0.774,0.695,4,-5.465,0,0.387,0.374,0.0,0.0464,0.615,129.588,5,dancehall
+4t0oFoZuQqoJVE8yo4MpDf,Gyptian,Strictly The Best Vol. 36,Beautiful Lady,30,200560,False,0.652,0.641,1,-7.071,1,0.0477,0.07,0.0,0.0901,0.643,82.269,4,dancehall
+5Oplh5lCA31JfQlVc92bqT,Stalk Ashley;WSTRN,2Step - Pop R'n'B,Deserted,0,191637,True,0.758,0.81,0,-4.496,1,0.288,0.215,1.54e-05,0.157,0.347,91.995,4,dancehall
+3XWiAAEXvpQGyNoBOcrlpZ,Stalk Ashley;WSTRN,All Bops,Deserted,0,191637,True,0.758,0.81,0,-4.496,1,0.288,0.215,1.54e-05,0.157,0.347,91.995,4,dancehall
+4IjdzvrWuTOgOaOwhZyxoQ,Filip Mota,Qué Pasará?,Qué Pasará?,31,169000,False,0.825,0.7,8,-5.154,0,0.172,0.277,1.65e-05,0.102,0.927,150.034,4,dancehall
+1TeyzcAu9wKnRC9rY2rdkh,Buccaneer,Da Opera,Bad Man Story,28,175133,False,0.739,0.555,1,-6.896,1,0.342,0.419,0.0,0.122,0.597,77.175,4,dancehall
+6SppXwBeR9Ub4k5fHXI2t5,Escala Mercalli;Efe Frans;Filip Mota,Lova,Lova,31,193586,False,0.607,0.518,5,-7.202,0,0.246,0.335,0.0,0.194,0.608,189.876,4,dancehall
+2kTFI5CLvUTC6Dp7ea5UpS,Chronic Law,Dominance,Nuh Trust Nobody,29,155904,False,0.76,0.554,9,-5.52,0,0.373,0.39,0.0,0.14,0.385,66.747,5,dancehall
+58lDrxTmWYvZvPZyKJhJQ0,El Shaaki;Dibujo Mc;Filip Mota,Is Back,No Me Rendiré,31,186976,False,0.579,0.697,1,-4.467,0,0.238,0.123,0.0,0.165,0.745,171.917,4,dancehall
+6hEZPZ2LhlqLXuqZX0R1vO,Prince Swanny,Get Rich,Get Rich,30,187488,True,0.542,0.467,10,-11.838,0,0.354,0.298,0.0,0.116,0.315,66.709,5,dancehall
+3kaSSY6ONhwQKwQJlD0NS0,Beenie Man,Best Of (collector's Edition),Foundation,28,232426,False,0.788,0.885,10,-4.927,1,0.185,0.123,0.0,0.0458,0.783,92.925,4,dancehall
+0fRLrGPX88oWIXMMt68GtR,Beenie Man,The Doctor,The Doctor,29,224026,False,0.836,0.525,7,-11.328,1,0.318,0.0198,0.0,0.341,0.716,100.0,4,dancehall
+1WOZa1Fxzc0jZjvHikNK0N,Kaliffa,Kalibreraren,Galenskap,31,196349,False,0.582,0.659,9,-5.949,1,0.0728,0.0338,0.0,0.441,0.63,77.966,4,dancehall
+2CmUTc5AOsvaKC8HGATWRT,Gifta,Orgazmstyle Riddim,Lock Me Up,31,155689,False,0.702,0.581,8,-8.243,0,0.521,0.462,0.0,0.338,0.571,86.473,4,dancehall
+7uSbIr3sJ6bPfXxBH9ojrg,Shamanes Crew,Reden-Zion,Confía En Mi,30,207228,False,0.706,0.792,0,-4.58,1,0.0399,0.264,0.0,0.231,0.86,93.985,4,dancehall
+6k24KbkuPRb8YlT3lqwpTV,Garnett Silk,Supa Chill,Zion in a Vision,0,220800,False,0.756,0.552,2,-5.338,1,0.0846,0.0406,0.0,0.0641,0.716,81.273,4,dancehall
+2wUufPQaDtCvcJDWQCOKe9,Garnett Silk,Supa Chill,Love Is the Answer,0,232133,False,0.811,0.591,7,-3.62,0,0.128,0.315,0.0,0.126,0.754,160.029,4,dancehall
+0RqiNQYAB75utUwQF82MdY,Fireboy DML,"Laughter, Tears & Goosebumps",Jealous,49,216699,False,0.761,0.789,4,-5.69,0,0.05,0.111,0.000107,0.608,0.283,103.01,4,dancehall
+5SQaQWvBDEAeug4EPyYEGE,Chronixx,Chronology,Skankin' Sweet,58,252125,False,0.739,0.658,0,-5.462,1,0.0762,0.0748,2.14e-06,0.101,0.707,77.999,4,dancehall
+54UrIc5qQRjX128jcvMKIT,Mr Eazi;Burna Boy,"Life is Eazi, Vol. 2 - Lagos to London",Miss You Bad,54,176766,True,0.657,0.746,3,-5.139,0,0.141,0.177,1.55e-06,0.113,0.499,99.988,4,dancehall
+5Jqg1ta5RhBIYuJ1gdHCAt,NSG;Tion Wayne,Roots,Options,56,240081,True,0.836,0.621,1,-4.684,0,0.0894,0.389,9.16e-05,0.104,0.762,101.993,4,dancehall
+62cC7k1opRIS9sdviJnVj5,DJ Neptune;Joeboy;Omah Lay,Greatness 2.0,Abeg,52,159130,False,0.632,0.516,7,-6.674,0,0.133,0.239,1.77e-05,0.392,0.339,122.11,5,dancehall
+4pKxSb1G8lArMWLqFCSPUz,Show Dem Camp;Tems,Palmwine Music 3,Live Life,54,221399,False,0.861,0.658,7,-3.473,1,0.0731,0.0218,0.00179,0.0972,0.535,100.003,4,dancehall
+1vCozGsi9zZ11mkWVZetj0,Stefflon Don;Spice,Clockwork (feat. Spice),Clockwork (feat. Spice),18,152917,True,0.902,0.797,11,-5.494,1,0.169,0.367,6.84e-05,0.15,0.962,104.981,4,dancehall
+3jr4x5UB7ierqJGeDsRvrA,Charly Black;Dj Braindead,Gyal You A Party Animal (DJ BrainDeaD Remix),Gyal You A Party Animal - DJ BrainDeaD Remix,34,228680,False,0.748,0.874,2,-1.618,1,0.138,0.0496,0.0,0.103,0.632,103.047,4,dancehall
+6YvcLedQCbwEN9PWeGjK46,Stylo G;The FaNaTiX;Nicki Minaj;Vybz Kartel,Touch Down (Remix),Touch Down - Remix,54,195145,True,0.603,0.707,11,-7.413,0,0.3,0.0899,1.04e-06,0.116,0.488,100.104,4,dancehall
+3Xa2jJP62xQQqGtVzLmvHl,Apache Indian;A.R. Rahman,Home Run,No Problem - Love Birds / Soundtrack Version,21,372226,False,0.916,0.655,1,-10.936,1,0.224,0.0258,0.0,0.175,0.567,104.01,4,dancehall
+4WS09L62ZmRMYuAbtcR3ii,DJ Battle;Lexy Panterra,Twerk Lesson,Twerk Lesson,33,193666,False,0.664,0.66,2,-5.02,0,0.138,0.0206,0.000152,0.426,0.42,100.043,4,dancehall
+49WUxUv2DCqTMFBctZoJSS,AMARIA BB,What's Done in the Dark,It's On,44,250858,True,0.657,0.436,5,-7.074,0,0.386,0.26,0.0679,0.127,0.423,123.893,5,dancehall
+0cj24kRZd7uRvX3QRVT3qF,Koffee,Gifted,Gifted,54,165600,False,0.794,0.471,1,-10.046,0,0.0541,0.749,1.68e-05,0.101,0.52,99.986,4,dancehall
+6MuB2kk88DIkZBkxyngLbJ,AMARIA BB,What's Done in the Dark,W.M.O.N,37,99713,True,0.777,0.553,4,-7.918,0,0.261,0.554,0.0742,0.0629,0.733,174.042,4,dancehall
+6cfRX5ktaMj7ZzwM68HrYG,Omah Lay,Boy Alone,how to luv,51,151117,True,0.777,0.647,7,-9.612,0,0.0486,0.487,0.079,0.0976,0.431,112.951,4,dancehall
+7EEinxDxDsRX3AIIJ026TZ,Omah Lay,Boy Alone,safe haven,49,169031,False,0.678,0.469,1,-6.422,0,0.0289,0.488,0.0996,0.108,0.207,107.961,4,dancehall
+5nLmO6pp71pmiVZwyTPfq9,Kranium,Rumors,Nobody Has to Know,58,222893,True,0.792,0.682,11,-4.96,0,0.173,0.00168,0.0,0.169,0.666,84.983,4,dancehall
+3Q1ObTHHYCbFwUY5FZHibs,450;Weekday,Beast Mode,Beast Mode,29,179879,False,0.631,0.757,1,-5.989,0,0.422,0.532,0.0,0.0916,0.54,137.785,4,dancehall
+771tThfRECkaHjTKb6clZx,Yemi Alade,Begging,Begging,51,135272,False,0.793,0.566,6,-7.834,1,0.0561,0.416,1.01e-05,0.212,0.705,110.035,4,dancehall
+7xdHQUxVj0aOAvUOGLCYj3,Wizkid,Superstar,Love My Baby,40,246828,False,0.757,0.833,4,-5.368,1,0.173,0.314,0.0,0.413,0.7,121.067,4,dancehall
+53rvxSNmKhy7wMAAygyYWr,Masicka;Stefflon Don,438,Moments,54,183092,True,0.772,0.658,1,-5.612,0,0.226,0.0622,0.0,0.0997,0.16,129.345,5,dancehall
+0qrKITWO9wo7ubKE9a4OGZ,Govana,Power Up,Power Up,28,161999,True,0.477,0.784,4,-5.056,0,0.339,0.483,5.26e-05,0.605,0.504,66.902,5,dancehall
+4mYvuqbaWcIP3RNn1mkOYP,Sean Paul;Rihanna,The Trinity,Break It Off (feat. Rihanna),56,215600,False,0.899,0.724,10,-5.757,0,0.202,0.0155,0.0,0.0453,0.778,133.95,4,dancehall
+2SEUmlCikPENN9hJytRHV2,Ayo Jay,Wonder Shall Never End,Paranoia,53,181241,False,0.813,0.429,0,-8.195,0,0.493,0.309,0.0,0.0936,0.624,67.942,5,dancehall
+43u9qIHBXcZZPAP0chWeww,Alicai Harley;Moelogo;Nadia Rose,The Red Room Intro (Yard Gyal Inna Britain),No Rampin (feat. Moelogo & Nadia Rose),43,156328,True,0.751,0.649,7,-3.425,0,0.307,0.00486,2.15e-05,0.114,0.793,197.998,4,dancehall
+3KSnA0j67IFkiwmEotMGin,Burna Boy;Jeremih;Serani,African Giant,Secret (feat. Jeremih & Serani),58,203537,True,0.504,0.919,1,-3.696,1,0.0992,0.227,5.15e-05,0.104,0.622,136.197,5,dancehall
+4JXh9k2FUq084erzqjMLqB,Sanjin;Garmiani,MERCEDES (All That She Wants),MERCEDES (All That She Wants),42,147000,False,0.702,0.699,11,-3.499,1,0.0415,0.0123,0.0,0.0785,0.55,99.971,4,dancehall
+1KEoX725KP0JPm2i71c1kB,Chronic Law,1 Law,1 Law,28,180976,False,0.555,0.581,1,-9.111,1,0.488,0.292,0.0,0.114,0.544,62.402,3,dancehall
+1mL049WdQx0AkXwyleFhcw,Franco Wildlife,6ix out Here,6ix out Here,28,176692,True,0.787,0.675,4,-6.88,0,0.29,0.117,0.0,0.259,0.546,100.129,4,dancehall
+4jiz1yjntTi04Kstn960LL,Vybz Kartel,The Gaza Don,Jump in the Benz,28,202536,False,0.758,0.664,4,-5.262,0,0.267,0.185,0.0,0.324,0.288,103.122,4,dancehall
+65VYeetBIq8z0vdDeoTw2l,Mavado,Gangsta For Life: The Symphony Of David Brooks,Squeeze Breast,28,174160,False,0.821,0.666,10,-7.129,0,0.135,0.222,0.0,0.14,0.582,123.815,4,dancehall
+2hutxVC3qlRiN713iAPV60,Jeff Fullyauto;Armanii,Dutty Song Tuh (Remix),Dutty Song Tuh - Remix,28,182857,True,0.767,0.53,1,-7.265,1,0.324,0.154,0.0,0.0971,0.533,168.121,4,dancehall
+0nW2wq9wJr4ZYoG0RXxanT,Chronic Law;Java,Me Alone,Me Alone,29,188387,True,0.633,0.532,1,-8.257,1,0.493,0.446,0.0,0.183,0.417,125.752,5,dancehall
+57DMz3byMY4JzlhEZuMkjQ,Chronic Law,Heart Freeze,Heart Freeze,28,192104,False,0.497,0.429,6,-9.611,0,0.194,0.219,1.9e-06,0.0841,0.391,65.169,3,dancehall
+1RFVSRsECl5ICIUNjV4sEO,Rygin King,Therapy,Song Cry,27,177585,False,0.781,0.558,5,-7.461,1,0.17,0.308,0.0,0.45,0.582,88.001,4,dancehall
+7wcaieaDTtFMOdqHAjzcAZ,Bugle,Consistency (Through the Years),Anointed,0,181577,False,0.528,0.569,9,-7.198,0,0.256,0.424,0.0,0.49,0.423,90.31,4,dancehall
+1cplEBWw9Vft6ibCPSFCxp,Spice,Emancipated,TAPE MEASURE,48,170789,True,0.717,0.753,11,-5.934,0,0.24,0.157,0.00858,0.218,0.257,103.77,4,dancehall
+58LGEbknMNgN215XfBCwRZ,Nicodemus,"Reggae Anthology: Henry ""Junjo"" Lawes - Volcano Eruption",Boneman Connection,29,185946,False,0.855,0.667,8,-4.019,1,0.284,0.189,0.0,0.259,0.773,79.442,4,dancehall
+58K5Bd5aHm5TymqOGZMgGV,Syster Sol,Inte som det verkar,Inte som det verkar,29,197840,False,0.687,0.551,5,-9.24,1,0.206,0.109,0.0,0.0594,0.771,78.976,4,dancehall
+5kMq3x0u1ThMn8zqTRTbi1,Larry Gaaga;Vector,Afrobeats 2022,Decide,0,192000,False,0.829,0.625,11,-8.912,0,0.0747,0.327,0.08,0.255,0.459,105.037,4,dancehall
+48eDHR9rcXM4qpJwfXyUhG,Rygin King,Therapy,Unbreakable,28,191580,False,0.586,0.556,2,-11.042,1,0.345,0.111,0.0,0.121,0.522,80.949,4,dancehall
+7GNVoDE1qXtM8m51q5x9bS,Larry Gaaga;Flavour,Afropop 2022,Tene,0,230400,True,0.83,0.766,9,-3.386,1,0.0963,0.671,0.00681,0.154,0.932,94.995,4,dancehall
+41DpMNCxpIaSrNlNNLfsbG,Tony Matterhorn,PEPPERSPRAY RIDDIM,Fuck Off,0,173065,True,0.813,0.912,9,-1.871,0,0.349,0.0713,0.0,0.0589,0.926,100.002,4,dancehall
+4CZjdmlZn9A3SgpjLO7FRC,Larry Gaaga;Duncan Mighty;Victor AD,Africa Rising Vol.3,Love Song,0,236000,False,0.826,0.517,0,-7.623,1,0.318,0.531,0.00302,0.0759,0.694,108.133,4,dancehall
+6gGrF7Ua39cuPJA09Sxi5G,Larry Gaaga;Duncan Mighty;Victor AD,Africa Rising Vol.4,Love Song,0,236000,False,0.826,0.517,0,-7.623,1,0.318,0.531,0.00302,0.0759,0.694,108.133,4,dancehall
+2ho5wvRDNItNyvzlPnsvWB,Larry Gaaga;Patoranking,Africa Rising Vol.2,In My Head,0,194417,False,0.735,0.772,7,-3.389,0,0.0333,0.379,3.26e-06,0.117,0.565,103.031,4,dancehall
+4hkB8cT7ahE2IyaKLZTHNE,Hety and Zambo,Dreams Can Come Tru,Inna Di Canna,28,187000,False,0.839,0.688,1,-7.05,1,0.352,0.0971,0.0,0.142,0.833,175.036,4,dancehall
+67JduV2B5renMkmxTqnnT1,Super Cat,Don Dada,Big and Ready,29,232506,False,0.761,0.461,0,-8.466,1,0.119,0.252,0.0,0.0248,0.795,165.222,4,dancehall
+1QDlL93H9zJ3nkyQlCge4J,Kapten Röd,Fläcken Som Aldrig Går Bort,Framåt För Evigt,31,209910,False,0.588,0.566,7,-8.671,1,0.355,0.255,0.0,0.276,0.719,163.7,4,dancehall
+2pibBmMCnufHoOfr2lml9g,General Knas;Kapten Röd,Folkets Röst,Enda Vägen Fram,30,193908,False,0.637,0.547,1,-6.374,1,0.206,0.166,0.0,0.0725,0.716,82.73,4,dancehall
+5ZcWZFtr0QkL6k4S50dh9Y,Ycee;Maleek Berry,The First Wave,Juice,49,256694,False,0.811,0.652,1,-2.798,1,0.0736,0.463,0.00158,0.0667,0.738,109.999,4,dancehall
+0izUjTuDrUy2FgQOSRALSU,Koffee,Lockdown,Lockdown,54,179737,False,0.779,0.72,6,-4.702,0,0.2,0.149,0.0,0.212,0.62,94.021,4,dancehall
+1NxCtk7ybnoLfNBBnMg5oM,Amindi,nice,slideshow,53,101298,True,0.693,0.623,11,-5.37,1,0.05,0.0011,0.0024,0.0504,0.902,76.972,4,dancehall
+7JX3QwGypWvFff9Ij1pTTN,Yxng Bane,Rihanna,Rihanna,58,207157,True,0.553,0.484,11,-9.757,0,0.224,0.146,0.0,0.0915,0.772,130.252,5,dancehall
+4rEuaYXYUrHtcpIo26pxAt,Tiwa Savage,Attention,Attention,44,208000,False,0.758,0.631,2,-5.613,1,0.0439,0.229,0.0,0.105,0.292,105.001,4,dancehall
+0aoAP2serd8HsclGNuTo4k,Apache Indian;A.R. Rahman,Hits Of A. R. Rahman Vol. 1,"No Problem (From ""Love Birds"")",17,371822,False,0.914,0.481,1,-16.193,1,0.226,0.0235,2.35e-06,0.094,0.498,104.03,4,dancehall
+6g8A0XVikKuWbcJv7p2I5Q,Burna Boy,Pree Me,Pree Me,54,200501,True,0.823,0.569,8,-11.291,0,0.075,0.203,0.0542,0.161,0.436,102.039,4,dancehall
+1tIjRNdq8Qzom0BGsKiVN4,Samantha J,BIG FAT BENZ,BIG FAT BENZ,38,143999,False,0.899,0.623,7,-5.128,1,0.153,0.038,2.47e-05,0.0908,0.609,100.019,4,dancehall
+3qi98GCs3sbvbAJugWmdQY,Skillibeng,Crocodile Teeth,Crocodile Teeth,60,166699,True,0.594,0.644,1,-7.458,0,0.302,0.141,0.000242,0.243,0.221,107.101,4,dancehall
+1DGL99DXQ10Su9z5Ci4ION,The Viceroys,"Iroko Showcase, Vol. 2: Memories",Why,60,146623,False,0.869,0.641,6,-6.218,0,0.0401,0.0168,0.000824,0.0624,0.932,134.0,4,dancehall
+3N3PWNgtiqsdLY5PQTKw6w,Olamide,UY Scuti,Rock,52,185769,True,0.917,0.628,1,-7.542,1,0.188,0.362,0.273,0.102,0.828,103.993,4,dancehall
+6vwmviVBIBMGGIEmz88auB,Mavado;Nicki Minaj,Give It All To Me,Give It All To Me,54,214226,True,0.477,0.707,7,-5.567,1,0.342,0.0158,0.0,0.129,0.415,97.143,4,dancehall
+5q9f9s7oJXJsa1vF1wAkK2,Busy Signal;Oryane,Move to the Music,Move to the Music,49,158608,False,0.771,0.849,6,-5.256,1,0.0408,0.062,0.00188,0.0765,0.616,115.024,4,dancehall
+4jAvGKPgjfWAMYzyABI9rF,Rygin King;Stalk Ashley,Glu (Remix),Glu - Remix,28,153032,False,0.536,0.564,1,-7.625,1,0.312,0.684,0.0,0.132,0.297,111.989,5,dancehall
+6Vs6tzDPOYtBMehGXBG3G2,Mwuana,2: Collén & Chords,Toppen,30,202200,True,0.836,0.52,7,-9.404,0,0.0723,0.0505,3.09e-05,0.119,0.264,102.978,4,dancehall
+3AdLrDASOsmBkv77jNmaux,Boy Boy;Raskality,Loose Cannon,Loose Cannon,28,188029,True,0.672,0.705,6,-5.576,0,0.408,0.679,0.0,0.162,0.252,199.659,4,dancehall
+7eHNkOVD3rwedkuJDOac2p,Kraff Gad;9Mill,N.P.T,N.P.T,27,186960,True,0.752,0.664,11,-3.906,1,0.151,0.257,0.0,0.109,0.258,180.084,4,dancehall
+5s6YxDJaHIz08u1Wj0KGnZ,DeeWunn;Marcy Chin,Mek it Bunx Up (feat. Marcy Chin) - Single,Mek It Bunx Up,50,215700,True,0.947,0.806,11,-4.191,0,0.296,0.00815,0.0,0.0811,0.634,99.999,4,dancehall
+3YQ5NYk2legzeloibRyXn1,Marksman,Verified Choppa 2,Verified Choppa 2,58,139093,False,0.725,0.604,7,-5.874,1,0.408,0.117,0.0,0.0855,0.449,199.995,4,dancehall
+3SCVtAJq8li6HlKfM4M08u,Sean Paul,Dutty Rock,Gimme the Light,61,228000,True,0.778,0.761,2,-5.529,1,0.0525,0.141,4.61e-05,0.0441,0.923,107.288,4,dancehall
+1fLEQQKbM9fJ7OVUiXysN8,Gifta,Vé pa,Vé pa,28,142040,False,0.811,0.471,11,-10.268,1,0.431,0.0684,0.0,0.0807,0.963,98.011,4,dancehall
+27tJ0tfHuPfPiyfeCeKQXN,Fully Bad;Dj Slow Motion,Nuh Unruly,Nuh Unruly,27,172068,True,0.694,0.703,2,-5.266,1,0.418,0.0432,0.0,0.122,0.323,102.302,4,dancehall
+0NDOfH2q4K1NZhwhiDNSfx,Going Global Records;Young Star 6ixx;Tafari,Global Warming,Nobody,28,201195,True,0.86,0.673,5,-4.283,0,0.112,0.467,0.0,0.151,0.382,105.058,4,dancehall
+2JPJtKMcX2WCeyjJq5weQi,Shaneil Muir,Stay A While,Stay A While,27,169263,True,0.85,0.715,6,-5.828,1,0.0723,0.698,0.0,0.108,0.966,126.757,5,dancehall
+4D0BXEORpR7AcoeftXO2z1,K Lion,Extraordinary,Extraordinary,28,216946,True,0.759,0.609,9,-8.625,1,0.316,0.539,0.0,0.0743,0.64,103.867,4,dancehall
+1Ga3vv69TQaRt9gflRv263,Cham,Two Bad Riddims Vol. 3: Eighty Five / Stage Show,Ghetto Story,28,248266,False,0.656,0.589,2,-5.869,1,0.313,0.159,0.0,0.138,0.738,102.746,5,dancehall
+0nhpEyfRlP20GR75sJfMRJ,Beenie Man,Reggae Gold 1996,Old Dog,27,164426,False,0.708,0.41,11,-15.231,0,0.34,0.069,0.0,0.305,0.753,179.81,4,dancehall
+6h5LIkJzFEjxFIM3GS6HX0,Poplane;Chani Man,My Youth,My Youth,29,162142,False,0.624,0.812,0,-4.454,0,0.316,0.185,0.0,0.138,0.564,123.482,5,dancehall
+5Wwr2S7QZTR5PVJn6jhgdk,Chronixx,Dread & Terrible,Here Comes Trouble,59,234586,False,0.758,0.786,4,-4.897,0,0.108,0.156,0.0,0.0658,0.786,83.495,4,dancehall
+71d6CmEhDYIboNjNkovBCt,Capleton,Reign Of Fire,In Her Heart,28,230106,False,0.657,0.872,1,-6.564,1,0.396,0.0208,8.19e-06,0.177,0.739,116.05,4,dancehall
+5lLwFE3fCAQllnPLsKtFP9,Peruzzi,Hypertension / Things I Need,Hypertension,51,197894,False,0.844,0.839,6,-6.188,1,0.0478,0.00486,0.00141,0.0694,0.621,113.933,4,dancehall
+70oKmVneYkM3iOtJXtM3le,Kenyaman,Natraul love,Natraul love,28,209658,True,0.404,0.585,2,-7.321,1,0.295,0.102,0.0,0.056,0.292,71.102,5,dancehall
+4eMq3u4vIWoofiziFBTV1j,Ayo Jay;Rotimi,Lazy Genius,10 Over 10 (feat. Rotimi),52,229630,False,0.913,0.399,7,-6.004,0,0.0529,0.396,0.000203,0.0764,0.705,103.041,4,dancehall
+0r0F6NEGEI6JFGfhtWLSYC,Vybz Kartel,Rvssian Presents Free Worl Boss,Weed Smokers,27,132911,True,0.852,0.663,1,-7.542,1,0.262,0.126,2.03e-05,0.383,0.752,104.965,4,dancehall
+7zInAKPE6RyB3FL17JcLr3,Mad Cobra;Sekret;Lutan Fyah;Mark Topsecret;Top Secret Music,Dem a Nuh Rude Boy,Dem a Nuh Rude Boy,28,201309,True,0.685,0.854,8,-3.909,1,0.306,0.034,0.0,0.0889,0.835,78.806,4,dancehall
+1c7w0G7N7432XZLmlcpzlb,Chronic Law,Murdera,Murdera,28,178700,True,0.548,0.605,9,-7.825,1,0.314,0.651,3.86e-06,0.191,0.35,114.178,5,dancehall
+65VYeetBIq8z0vdDeoTw2l,Mavado,Gangsta For Life: The Symphony Of David Brooks,Squeeze Breast,28,174160,False,0.821,0.666,10,-7.129,0,0.135,0.222,0.0,0.14,0.582,123.815,4,dancehall
+4ok8TXLkfwX2CGW6zyk5Yi,Prince Swanny,Best Move,Best Move,28,164153,False,0.748,0.577,0,-8.277,0,0.139,0.785,5.67e-06,0.109,0.64,97.963,4,dancehall
+0SZnNcNheo7VHHdGY2cFTH,Chronic Law;Malie Donn,Rifle Power,Rifle Power,28,163160,True,0.556,0.509,1,-7.426,1,0.245,0.33,0.0,0.15,0.206,137.215,5,dancehall
+4svJStfE1Z3lMpcPeqDYlD,Chronic Law,Solemn Request,Solemn Request,28,186958,False,0.565,0.659,4,-8.13,0,0.412,0.334,0.0,0.141,0.35,89.169,4,dancehall
+7F7Bga2mi1fYcuY7gspC2G,Almeyda,Voz Que Sana,Rara,29,212540,True,0.791,0.682,7,-5.574,1,0.0845,0.477,9.4e-05,0.0846,0.788,175.947,4,dancehall
+29CmkuEI5pZkeuxbC607Bc,Chronic Law,Silence,Silence,28,175490,True,0.451,0.471,3,-12.27,1,0.305,0.69,0.000524,0.131,0.389,185.567,4,dancehall
+6zsTrRfVRqG4atLD4VT1Zs,Vybz Kartel,Pon Di Gaza 2.0,Without My Own,27,159720,False,0.484,0.726,8,-5.022,1,0.283,0.0158,0.0,0.213,0.398,109.338,4,dancehall
+3olQi29Z28qlRRyhiz6jNa,Conroy Smith,Riding West,Dallar Van Ride,29,233600,False,0.839,0.565,4,-7.038,0,0.0624,0.1,0.0,0.059,0.76,173.854,4,dancehall
+3I8r1UvYJIccFTvGilynfQ,Tanya Stephens,These Streets (Single),These Streets,27,233586,False,0.563,0.603,7,-7.365,1,0.377,0.00428,0.0,0.19,0.546,78.836,4,dancehall
+7reacGAkqHrjhdTk1VRzNe,Rygin King,Therapy,No Other One Like You,27,188387,True,0.899,0.579,5,-7.402,0,0.205,0.412,4.6e-05,0.108,0.713,92.974,4,dancehall
+3j8uxBy2vD1weLy6nUU6xn,Duane Stephenson,Solace Riddim,Guns & Roses,0,225717,False,0.716,0.547,0,-6.663,1,0.138,0.187,0.0,0.213,0.596,85.023,4,dancehall
+4Kvy2rVGgYbjtQZTpZZCEb,Syster Sol;AKI,Mellan Raderna,Full fokus,29,191120,False,0.706,0.661,10,-5.82,1,0.235,0.0353,0.0,0.29,0.811,81.011,4,dancehall
+4QTCxZ7XQbg0nD4lSXoRkR,Shamanes Crew;Bommer;Mc Cogoyo,Reden-Zion,Dangerous (feat. Bommer & MC Cogoyo),29,223130,False,0.771,0.775,6,-6.49,0,0.0973,0.0126,8.68e-05,0.33,0.727,101.997,4,dancehall
+38UKbt0qxGxnwYLGKKxyLi,General Knas,Kärlek & Revolt,En God Vän,29,231473,False,0.484,0.739,0,-8.363,1,0.405,0.172,0.0,0.121,0.793,167.097,4,dancehall
+5s0e986tlNvseDl2YydUc6,Popcaan;Drake,FIXTAPE,ALL I NEED (feat. Drake),57,177898,True,0.573,0.427,10,-9.0,0,0.05,0.0675,9.25e-05,0.101,0.127,91.405,4,dancehall
+49z1D7SRFdS64UGaTNdAzW,Christopher Martin,Paper Loving,Paper Loving,60,213453,False,0.627,0.617,5,-5.314,0,0.31,0.086,0.0,0.215,0.88,178.406,4,dancehall
+4dRekjkBe1baZ1rDe7JfDv,Charly Black,Tropical Summer,You're Perfect,18,196973,False,0.826,0.847,7,-3.217,0,0.236,0.314,0.0,0.0544,0.792,104.955,4,dancehall
+5s7j77zpP6e9uz2Q1DU851,Kojo Funds;Wizkid,I Like (feat. WizKid),I Like (feat. WizKid),57,192784,False,0.496,0.833,5,-3.398,1,0.287,0.268,0.0,0.0858,0.63,134.944,5,dancehall
+3QFOdlIjY2EyjLij20OjdB,Shenseea,Foreplay,Foreplay,57,166159,True,0.699,0.645,10,-4.591,1,0.206,0.454,0.0,0.135,0.517,173.836,4,dancehall
+0GyQwGfHQm03m1F9gGfd1O,Ragga Twins;Skrillex,OWSLA Spring Compilation 2015,Bad Man - Skrillex Remix,46,249600,False,0.701,0.961,1,-2.75,1,0.0866,0.128,1.2e-06,0.226,0.75,149.991,4,dancehall
+7Lh7cJzYuo4U5Uq687rLSm,NSG;Geko,Yo Darlin',Yo Darlin',54,252860,True,0.674,0.688,11,-5.029,0,0.246,0.303,0.0,0.14,0.606,99.541,4,dancehall
+5PRU9ErsMVSRNzDeczXanb,Mr Eazi,Something Else,Saudi Arabia,55,119290,False,0.815,0.565,1,-10.499,0,0.0902,0.213,0.000239,0.0952,0.705,103.955,4,dancehall
+3rt1J9ME2EHQDzx5vzqnVV,Sean Paul,She Doesn't Mind,She Doesn't Mind,37,227786,False,0.718,0.776,7,-5.208,0,0.0693,0.000624,5.3e-06,0.207,0.622,120.015,4,dancehall
+69GzHJZKbGZnYaEpHYaC4n,Skeng,London,London,55,151456,True,0.886,0.643,4,-8.788,0,0.157,0.529,0.0,0.0888,0.352,103.004,4,dancehall
+0cSkIGgh1uICEIcmEb1niw,Protoje;Ky-Mani Marley,The Seven Year Itch,Rasta Love Feat. Ky-Mani Marley,58,185312,False,0.911,0.565,9,-6.209,0,0.0718,0.429,0.0,0.0802,0.751,96.012,4,dancehall
+6eydzKn9vLC57U9iToAwJD,Koffee,Gifted,Pull Up,55,171092,False,0.81,0.604,7,-3.296,1,0.0904,0.316,0.0514,0.0944,0.646,102.937,4,dancehall
+7AgLmxi5osmwH9dEm1ck4j,Fireboy DML,Playboy,Change,50,162903,True,0.581,0.502,0,-7.905,1,0.0923,0.253,5.17e-05,0.175,0.381,170.009,4,dancehall
+7yJG5oJwYfom8AVXDcgFLx,Kranium,Gal Policy,Gal Policy,60,136826,True,0.606,0.61,2,-5.279,1,0.392,0.424,0.0,0.165,0.685,129.989,5,dancehall
+1pHszNnAUuIjwF43bhtnlS,Noah Powa,Drop,Drop,40,128412,False,0.921,0.686,3,-9.361,0,0.128,0.0673,1.88e-05,0.0848,0.794,100.012,4,dancehall
+3EvIW2rx7uL8KsdK82d2eX,Kranium;AJ Tracey,Midnight Sparks,Money In The Bank (feat. AJ Tracey),50,161944,True,0.765,0.652,11,-5.358,1,0.136,0.263,0.0,0.108,0.57,94.957,4,dancehall
+2AGiLgDmRI00VnFczdoc1b,Stylo G;The FaNaTiX;Nicki Minaj;Vybz Kartel;Banx & Ranx,Touch Down (Banx & Ranx Remix),Touch Down - Banx & Ranx Remix,41,157931,True,0.738,0.864,4,-4.774,0,0.223,0.0609,0.000156,0.265,0.632,105.978,4,dancehall
+3uiZyoFpGZLOGUWcfdHFyb,IQ,Slow Down,Slow Down,27,168510,False,0.451,0.665,5,-6.698,0,0.216,0.426,0.000155,0.0949,0.229,188.533,4,dancehall
+5RE2mMitKRWTQuh1jSzlBu,Sean Paul;J Balvin;Good Times Ahead,Contra La Pared (Remixes),Contra La Pared - GTA Remix,47,257274,False,0.829,0.863,10,-3.591,1,0.067,0.00206,0.0193,0.116,0.641,126.02,4,dancehall
+1JiR4RJaZlbZ5b3HG8jkeL,Wizkid;Skepta,Made In Lagos,Longtime (feat. Skepta),55,239893,True,0.85,0.66,11,-4.846,0,0.169,0.417,5.14e-05,0.209,0.622,101.947,4,dancehall
+1dQr0yyC5JEqjhEyA1BtUR,HarrySong;Rudeboy,Right About Now,Konna,53,200387,False,0.809,0.745,7,-5.34,1,0.174,0.138,0.0,0.334,0.897,102.967,4,dancehall
+4Sa63ZLJDEnM7YJZx9VfGU,D'yani,Miss a Loop,Miss a Loop,27,173008,False,0.637,0.673,9,-6.259,0,0.433,0.0452,0.0,0.0966,0.768,117.169,5,dancehall
+3ZIHR8fa4ELkXo6fxwJ2St,Masicka,Rich,Rich,27,168946,False,0.733,0.814,6,-5.36,0,0.391,0.325,0.0,0.114,0.192,96.906,4,dancehall
+4R5IfYJHr1ycQt9QpTyOzi,Sean Paul;Kelly Rowland,Tomahawk Technique,How Deep Is Your Love (feat. Kelly Rowland),37,200480,False,0.426,0.765,11,-4.858,1,0.297,0.0273,0.0,0.277,0.59,169.259,4,dancehall
+2vFhoWx77rbzZsyKmi5k6r,6t6;Skillibang;DJ Smoak,Isis,Isis,30,139258,True,0.868,0.411,5,-10.347,0,0.535,0.7,0.0,0.311,0.349,109.688,4,dancehall
+5xoKClIhZpVEXaUw4IY7iM,Sizzla,The Journey - The Very Best Of Sizzla Kalonji,Just One Of Those Days,29,233266,False,0.704,0.604,0,-5.78,1,0.165,0.0379,0.0,0.0488,0.522,148.017,4,dancehall
+33TWAPap4cy15dCq3PgreN,Vipa Music;Kenyaman,Affi Smart,Affi Smart,27,193863,True,0.606,0.428,1,-9.667,0,0.257,0.458,0.0,0.213,0.118,79.516,4,dancehall
+3QiO2NizblLpcuVtiT3DDY,Mr. Vegas,Reggae Mix USA [Mixed By Jabba],Heads High,29,195520,True,0.818,0.755,7,-5.326,1,0.309,0.53,0.0,0.276,0.702,96.871,4,dancehall
+63DnTCTGk9yr6h8cobsneY,Stein,Want Yuh,Want Yuh,28,158550,False,0.547,0.795,11,-4.278,1,0.0534,0.0556,0.0,0.0895,0.355,130.343,5,dancehall
+4bTA4gD859lgPMwfFisu4W,Kraff Gad,Og Bobby Johnson,Og Bobby Johnson,26,158400,False,0.632,0.55,9,-8.12,0,0.258,0.407,0.0,0.158,0.518,200.086,4,dancehall
+7qu5sSHwU8WXa7AVIxsKbx,Sanchez,Can We Talk,Here I Am,29,198560,False,0.722,0.317,5,-10.93,1,0.111,0.26,0.0,0.0558,0.582,72.38,4,dancehall
+262UJJPVKACybSSq9iRzK5,Kalado,Sex Compliment,Sex Compliment,26,196037,True,0.567,0.702,0,-5.494,0,0.266,0.0415,0.0,0.111,0.547,119.569,5,dancehall
+5bEYvX4k2MVBMIWpJw6QfM,ShaqStar,Seaforth Son,Changes,27,154325,True,0.562,0.471,8,-8.0,1,0.142,0.463,0.0,0.11,0.161,119.287,5,dancehall
+5Gzm3nV4Jg9w1PQPMAiZSi,Prince Swanny,Dominant,Dominant,27,240048,True,0.551,0.592,11,-4.585,0,0.0551,0.871,0.0,0.12,0.538,145.075,4,dancehall
+2DIWmmR9el57rtcTEYE7Eh,Beenie Man,Dancehall: Beenie Man,Wicked Slam,27,168800,False,0.607,0.859,10,-5.325,0,0.298,0.623,0.0,0.276,0.728,83.042,4,dancehall
+3FRxdyG2RoR0PY1i8pnu2J,Vipa Music;Kenyaman,Money Gram,Money Gram,27,144126,True,0.727,0.83,0,-1.08,1,0.116,0.126,0.0,0.176,0.94,107.106,4,dancehall
+5d4uNYfeur24XphGI2Dbxw,Intence,Kingpin,Kingpin - Raw,27,129974,True,0.921,0.668,11,-4.068,0,0.171,0.283,0.0,0.0938,0.556,100.016,4,dancehall
+3cbkMdsKSzzEurCreCRv97,Luciano,Sweep Over My Soul,Ulterior Motive,28,250826,False,0.619,0.743,0,-8.492,1,0.29,0.0251,2.82e-06,0.116,0.669,161.507,5,dancehall
+5glGfEWwxzPLOZOnTbZAtS,Harry Toddler,Reggae Gold 1998,Bad Man Nuh Dress Like Girl,26,192533,False,0.768,0.731,11,-4.829,1,0.408,0.0767,0.0,0.319,0.805,100.072,4,dancehall
+34PgtxJfjfPBZvpoigpQxl,Macka Diamond,Play Tune (So so So),Play Tune (So so So) [Clubbing Extended],27,179408,False,0.935,0.602,1,-7.05,0,0.279,0.0794,0.0,0.088,0.775,99.048,4,dancehall
+2TV5DC1E2NPGkBM7ZrlHoG,Mwuana,H5,Celebrate,29,157821,True,0.756,0.65,6,-5.718,0,0.0286,0.0221,0.0,0.275,0.723,126.011,4,dancehall
+2RLPunGZnkmUGzNnEzTRGx,Almeyda,Queen,Queen,28,170528,False,0.694,0.873,6,-5.283,1,0.299,0.0023,3.1e-05,0.0898,0.773,124.904,4,dancehall
+1ArCGRDiUzDnM6DbmzipnF,Garnett Silk,Love Is The Answer,Love Is The Answer,27,229106,False,0.796,0.377,7,-10.85,0,0.179,0.0905,0.0,0.131,0.71,159.923,4,dancehall
+5qBkH4OM3w38wnwmV47tXU,Medina,Haffla Avenyn,Tills vi koolar,29,189200,False,0.793,0.661,1,-6.198,0,0.034,0.00149,1.64e-06,0.0923,0.861,127.0,4,dancehall
+3DoQq88a7kscvVGYKWW65a,Ken Vybz,G-Side: The Way I Do It,Oh Lawd,28,149592,True,0.712,0.547,6,-11.55,1,0.409,0.332,0.0,0.1,0.591,91.834,4,dancehall
+3RsE7pghvnO2zciqBp7Wt6,Shamanes Crew,Antología,Chica De La Disco,28,226868,False,0.767,0.755,7,-7.302,1,0.259,0.0468,0.0,0.118,0.822,177.991,4,dancehall
+5CDZmaU9cwtVREa2kzDbZt,Harry Toddler,Dancehall Xplosion '98,Nuh Dress Like Girl,26,183573,False,0.677,0.493,11,-11.827,1,0.443,0.155,0.0,0.453,0.79,92.566,4,dancehall
+54CKOkvipLjkP2PJxe3ghI,Beenie Man,Best Of (collector's Edition),Silent Violence,27,210186,False,0.749,0.51,4,-7.404,0,0.0549,0.0155,0.0,0.124,0.401,86.941,4,dancehall
+47nqBykKzATyS1nSeB1L2e,General Knas;Rankz;Snövit;Klumben;Raske Penge;AKI;Nico D;Admiral P,Legalideng,Legalideng,29,337600,False,0.705,0.655,2,-5.185,1,0.202,0.378,1.36e-06,0.0676,0.466,75.067,4,dancehall
+0SDlWm4dpSVQ1mePeT4VEc,General Knas;Kapten Röd,Charmörerna Med Vänner Presenterar General Knas,Delelelelelelelikat,28,225786,False,0.632,0.804,7,-7.081,1,0.308,0.0582,0.0,0.17,0.823,175.103,4,dancehall
+7kQEXiMZ8rSK74Gi5M6qlh,Yxng Bane;D-Block Europe,Cut Me Off (feat. D-Block Europe),Cut Me Off (feat. D-Block Europe),53,228837,True,0.806,0.769,6,-5.127,0,0.111,0.158,2.25e-05,0.0824,0.478,104.981,4,dancehall
+71iknvVFjHMMs0nit8eh2M,Mr Eazi;Simi,Doyin,Doyin,50,153962,False,0.683,0.688,9,-4.751,0,0.224,0.00659,5.5e-06,0.0947,0.41,105.999,4,dancehall
+5fobKrmWA5owgI5u8EcXSs,Bracket,Alive,Mama Africa,54,201827,False,0.843,0.924,8,-2.91,0,0.285,0.288,0.0,0.112,0.778,127.036,4,dancehall
+3PGubBdFfQSHAHsXb068eG,Sean Paul;Migos,Mad Love The Prequel,Body,43,206059,True,0.739,0.797,4,-3.488,0,0.185,0.371,0.0,0.0921,0.444,67.297,3,dancehall
+2SJm5XYmsKvzPaHI3mW1GB,Shenseea,Run Run,Run Run,50,186081,False,0.651,0.856,8,-4.062,0,0.0563,0.0873,0.0,0.194,0.919,159.869,4,dancehall
+6350t5ExUoKr7hxFQygFtG,Busy Signal,Party Girl,Party Girl,45,190000,False,0.832,0.717,8,-5.349,1,0.0904,0.0214,0.0,0.0336,0.732,102.032,4,dancehall
+7CeXcb4giFECNiGSfDUVF7,Mwuana,Triller,Jag bryr Mig,29,207213,True,0.739,0.672,8,-8.837,0,0.118,0.183,0.00187,0.117,0.339,103.939,4,dancehall
+4Pbm2GQ9hRdW6CXOY7fdRs,Spice;Vybz Kartel,So Mi Like It,Conjugal Visit (feat. Vybz Kartel),50,202600,True,0.553,0.86,7,-2.662,0,0.279,0.451,0.0,0.222,0.627,110.598,5,dancehall
+0s3ZpsAaVCbWxDhLq2B2wh,Fireboy DML,"Laughter, Tears & Goosebumps",Scatter,48,164000,False,0.726,0.802,11,-6.528,0,0.197,0.0428,0.0728,0.314,0.593,119.829,4,dancehall
+6IFDy0imCdhDpHj98GczEX,Spice,So Mi Like It,So Mi Like It,57,153213,True,0.812,0.693,0,-3.914,0,0.367,0.0382,0.0,0.104,0.853,90.12,4,dancehall
+4qOfbZChxf8ZLEaAxeotFB,Maleek Berry,Last Daze Of Summer,Eko Miami,50,211764,False,0.706,0.659,0,-4.216,1,0.0381,0.0928,3.11e-06,0.122,0.567,102.122,4,dancehall
+3o2fYQjDBzXgdXHxmNJcQD,Mavado;Anju Blaxx,Feel Like,Feel Like,26,184680,True,0.593,0.599,5,-8.253,0,0.308,0.0576,6.71e-06,0.277,0.598,114.078,5,dancehall
+3Q2hwP99f1IU9DaHcyB1vM,Peruzzi,Hypertension / Things I Need,Things I Need,45,158608,True,0.822,0.897,0,-5.308,0,0.118,0.262,0.0,0.226,0.661,114.964,4,dancehall
+5j2coCFfHvRd4MFQORspFt,Blak Ryno,Nuh Fear Riddim,Badmind,27,153521,False,0.74,0.639,10,-7.63,0,0.13,0.594,0.0,0.224,0.584,104.149,4,dancehall
+6ftOplJ5oXrn7aqDIvrCwY,Vybz Kartel,Riddim Driven: Shaddowz,Empire Army,26,159813,False,0.826,0.736,1,-7.822,1,0.356,0.289,0.0,0.12,0.693,139.854,4,dancehall
+1VCzfYwgyZk4fYl7Tyv7BC,P-Square,Bank Alert,Bank Alert,45,253939,False,0.811,0.92,1,-3.025,1,0.101,0.0736,0.0,0.0389,0.973,129.959,4,dancehall
+039C1uH7PyqfwQuCvpu7U7,Motto;Natoxie,Fatty Boom Boom (Boom It!),Fatty Boom Boom (Boom It!),27,123720,False,0.928,0.751,10,-4.99,1,0.159,0.181,0.0,0.472,0.114,115.887,4,dancehall
+3wDVBSoz1fXNguU1vu8EME,Govana,God N Gun,God N Gun,26,220865,True,0.607,0.492,11,-10.189,0,0.512,0.535,7.3e-06,0.0995,0.203,131.98,5,dancehall
+0z2qrNEanqwXLeLbG8DRWm,Collie Buddz,Collie Buddz,Wild Out,28,156080,True,0.671,0.815,6,-4.991,1,0.314,0.0766,0.0,0.103,0.868,120.22,5,dancehall
+2IMFiHPG7RF5acB0QPFJyj,Phyno;Tekno,Full Current (That's My baby),Full Current (That's My Baby),51,208296,False,0.807,0.673,7,-6.042,1,0.0705,0.0525,0.000118,0.0874,0.411,113.031,4,dancehall
+4C1Smq2t3MVOPzsUPWW0oX,Vybz Kartel,King Of The Dancehall,Fever,60,204500,True,0.891,0.62,7,-7.463,1,0.244,0.139,1.61e-05,0.0805,0.404,98.093,4,dancehall
+4HNNP3T6f7533FXOAphbt2,Chronic Law;Sonovic,6ix Variant,6ix Variant,27,201743,True,0.563,0.741,2,-6.307,1,0.262,0.137,6.38e-06,0.153,0.355,98.007,4,dancehall
+37beEt2KaKB21Kv76dDk48,Elephant Man,Drop Draws Riddim,Bring It Come,26,182427,False,0.617,0.692,1,-6.136,0,0.316,0.13,0.0,0.0982,0.846,128.059,5,dancehall
+3h7pI8oM2CpXiNSZbQuEtV,Fuse ODG,T.I.N.A.,Million Pound Girl (Badder Than Bad),54,246124,False,0.608,0.932,1,-1.311,1,0.0752,0.0762,0.0,0.0572,0.722,199.99,4,dancehall
+6nLgmEbLM3XD0HMrpmrNnr,Allyawan,Skitsamma,Skitsamma,29,211385,False,0.653,0.574,6,-7.322,0,0.312,0.037,0.0,0.153,0.611,87.025,4,dancehall
+347JT3IGkLpE6lf3uIY7X1,Squash,Deprivation,Deprivation,27,187350,True,0.635,0.728,6,-4.97,0,0.315,0.224,0.0,0.132,0.165,126.387,5,dancehall
+0OgtJSBtTb9szRJ6yb8ASD,Intence,Through The Gate,Through The Gate,27,168176,True,0.634,0.471,1,-8.861,1,0.5,0.224,0.0,0.107,0.265,113.002,4,dancehall
+3BqRWPc2RJ7MCBr9awLMJT,Buju Banton;Carol Gonzales,"Penthouse Flashback Series: Buju Banton, Vol. 1",No Second Class,29,229250,False,0.765,0.533,9,-7.766,0,0.0718,0.006,0.000277,0.121,0.813,91.046,4,dancehall
+3sbmfsbvJdAEIEYbISNUUR,Mega Banton;Salaam Remi,First Position,Sound Boy Killing (Remix),28,212293,False,0.699,0.491,8,-12.77,1,0.288,0.0208,0.0,0.286,0.865,86.391,4,dancehall
+58K6bFoVB7E5mzunJJyFut,Lexxus,XXX Dancehall Anthems,Good Hole,26,199800,False,0.648,0.846,6,-4.502,0,0.385,0.0246,0.0,0.199,0.898,189.946,4,dancehall
+0Ne5BxmfLXFVHCLnImpsrr,Nervz;Navaz,Street College,Chappa Fi True,26,237176,False,0.834,0.442,5,-7.749,1,0.133,0.563,0.0,0.0714,0.722,113.478,5,dancehall
+4sQqysUFcKrpDorWBlGDFe,Franco Wildlife,Gun Man Thing,Gun Man Thing,26,145214,True,0.834,0.567,4,-6.285,0,0.205,0.306,0.0,0.108,0.314,100.4,4,dancehall
+63RdTGRAFAtCDJkR4oFcdU,Vybz Kartel,Pon Di Gaza 2.0,Something Ah Go Happen,26,219746,False,0.763,0.782,1,-5.308,1,0.399,0.0067,7.78e-06,0.103,0.893,174.021,4,dancehall
+0bmk4QUgjc0AJLmWRMFmBc,DJ Bryan;Jkevlar;Tency,Voraces,Voraces,27,173384,True,0.748,0.788,2,-8.234,1,0.426,0.201,0.0,0.376,0.583,141.752,4,dancehall
+0hgX8dWS0cm2YUVrhecyg6,El Shaaki,Romantikabron,Nada Nos Frena,28,158901,False,0.766,0.609,8,-3.448,1,0.413,0.0332,0.0,0.0885,0.516,90.846,4,dancehall
+6WCXKetzgxD0B2jP0sM2kd,Quada;Moonskull,Neva Figet (2022 Remastered Version),Neva Figet - 2022 Remastered Version,27,189080,False,0.803,0.74,8,-6.505,0,0.174,0.262,0.0,0.122,0.66,125.183,5,dancehall
+0IzCvViyeaeqOOyWxpnvCt,Zerimar,More Than Music,Somebody Great,27,215094,False,0.626,0.543,4,-7.016,0,0.489,0.121,0.0,0.0959,0.398,110.067,4,dancehall
+2bYLIwEato0rHsfT6S9IAY,DJ Fly;Richie Loop,Come Back Riddim,Back It Up,27,201600,False,0.925,0.691,1,-5.435,1,0.124,0.486,0.0,0.296,0.793,100.018,4,dancehall
+4uD6DuzhCNMnTJpeEtcRjv,Escala Mercalli,Freaky,Freaky,28,196355,False,0.884,0.814,5,-3.493,0,0.101,0.472,0.0,0.638,0.499,89.994,4,dancehall
+4w1HzjzgCeY0NTVAVQTBCS,Dasinga,Daron Chaud,Mamacita,26,154044,False,0.747,0.701,1,-5.154,1,0.0803,0.603,0.0,0.128,0.821,155.109,4,dancehall
+7eV4rNLuu67juuWrY3Rvc5,Mad Cobra,Vacation Riddim,Get Away,26,221613,False,0.616,0.866,0,-2.345,1,0.259,0.23,0.0,0.106,0.529,80.716,4,dancehall
+0mfpgk7oDsLabYsuaUK3hi,Rygin King,Therapy,Circumstances,26,177600,False,0.63,0.626,2,-7.124,0,0.278,0.29,1.54e-05,0.129,0.224,102.647,4,dancehall
+5tPPbeYFZMv75D872Byinl,Negro Sambo,Contra La Pared,Contra La Pared,27,178780,False,0.73,0.877,7,-3.036,1,0.0968,0.00177,0.0036,0.0774,0.562,196.021,4,dancehall
+65kqmmYhTDNmH6yzJsViTl,Rygin King,Therapy,This Feeling,26,192592,False,0.679,0.554,8,-8.048,1,0.398,0.127,0.0,0.125,0.473,79.018,4,dancehall
+0m5oiBU7zuxQZSM3bkNh4U,El Shaaki;Nitro MC;Donexprs;Flor De Rap;Lechero Mon;jimmy Fernadez;Gedos;Crea BeatBox;Sponer;Delaion,Is Back,Hiphappy,29,391000,False,0.737,0.876,11,-3.821,1,0.259,0.142,0.0,0.0553,0.748,95.104,4,dancehall
+53j5bYHhCcY4WiDjgsfylo,Capleton,Reggae Gold 1993,Everybody,27,199466,False,0.866,0.648,7,-13.713,1,0.31,0.119,0.0,0.069,0.828,102.977,4,dancehall
+2x6IxVI4r0xxwDfr4dZT3U,Shamanes Crew,Antología,Todo Por Nada,28,302324,False,0.588,0.844,8,-5.616,0,0.414,0.237,0.0,0.25,0.693,177.957,4,dancehall
+1QRxAfOiGWKuOWW5Lb2qRM,Tanya Stephens,Tanya...Collection Of Hits,Big Ninja Bike,26,217946,False,0.579,0.67,1,-5.87,1,0.46,0.0606,0.0,0.0675,0.583,189.019,4,dancehall
+42cgGYqUOW7uXiOlJ3Uk8j,Kapten Röd;Promoe,Fläcken Som Aldrig Går Bort,Bua!,29,235354,False,0.622,0.712,1,-7.275,1,0.165,0.0201,0.0,0.169,0.563,77.389,4,dancehall
+35leqosCqhfqSxhHD8rAfH,Kapten Röd,Fläcken Som Aldrig Går Bort,Blommor Vid Oscarsleden,29,266353,False,0.772,0.624,1,-8.04,0,0.168,0.268,0.0,0.066,0.837,74.978,4,dancehall
+7CkmTmvyUWzc5hE7oLPZoW,AMARIA BB,Slow Motion (Kooldrink Remix),Slow Motion,23,166000,True,0.733,0.479,11,-9.27,0,0.301,0.575,0.00053,0.0831,0.485,88.742,4,dancehall
+7lJtRbSmuXwzoeFbtrYHzr,Omah Lay,What Have We Done,Can't Relate,46,183640,True,0.642,0.479,3,-8.027,0,0.276,0.295,2.89e-05,0.143,0.398,101.825,4,dancehall
+63yTeYugkFyU8DEsVFamix,Afro B;Slim Jxmmi,Afrowave 3,Fine Wine & Hennessy,51,190588,False,0.742,0.416,6,-7.248,0,0.271,0.000972,0.0,0.0688,0.692,67.302,5,dancehall
+5sxFYtIrP2ubyF4S3Of9ZK,Omah Lay,Get Layd,Ye Ye Ye,45,207133,True,0.653,0.731,9,-6.142,0,0.0905,0.0286,3.07e-06,0.137,0.501,160.24,4,dancehall
+7yIsvwkZuWuskQrbtVWfrN,Fireboy DML,APOLLO,Tattoo,48,176842,False,0.716,0.528,5,-7.723,1,0.0511,0.642,1.43e-06,0.105,0.482,95.104,4,dancehall
+4NLFnAPoMAiuuK8iXnit6W,Reekado Banks,Ozumba Mbadiwe,Ozumba Mbadiwe,53,212636,False,0.785,0.782,5,-6.803,0,0.0358,0.424,0.00644,0.108,0.635,109.961,4,dancehall
+1VG8GP2PDlb8BqXhe1hF9q,Ghetto Boy,Sugar,Sugar,54,162935,True,0.906,0.629,11,-7.371,0,0.269,0.178,4.82e-06,0.0799,0.597,108.852,4,dancehall
+7DfXXbaSLCRGdsNoMdpTQ9,Bisa Kdei,Jwe,Jwe,52,274076,False,0.916,0.564,5,-8.254,1,0.209,0.234,0.000289,0.312,0.709,120.053,4,dancehall
+525D9ITdqJ3ygzrrxQTvtX,Da'ville,To Jireh,To Jireh,40,205767,False,0.549,0.584,9,-6.23,1,0.255,0.0168,0.0,0.116,0.399,128.852,5,dancehall
+4lzkcjVC7xT3HBIg2PjJ30,Wizkid,Ghetto Love,Ghetto Love,54,198367,False,0.807,0.774,4,-4.553,0,0.235,0.206,0.000338,0.127,0.767,98.048,4,dancehall
+5zN3hyqfKLYMZ0VGnBvahT,Tiwa Savage;Kizz Daniel;Young John,Ello Baby,Ello Baby,47,166008,False,0.781,0.938,7,-0.737,0,0.128,0.193,6.3e-06,0.133,0.962,119.867,4,dancehall
+3YCgsV8Ex1gEPtzWZFHLOZ,Spice;Jugglerz,Bruck It,Bruck It,38,159968,True,0.699,0.659,2,-5.357,1,0.261,0.0272,0.0,0.167,0.478,120.511,5,dancehall
+3TcLpvKAtmPjLOAnYTXqNv,Spice;Shaggy;Sean Paul,10,Go Down Deh (feat. Shaggy and Sean Paul),24,154151,False,0.803,0.769,2,-5.109,1,0.0894,0.107,2.27e-05,0.245,0.583,89.992,4,dancehall
+5RPuPEZ0HiXPTnzwqfJMa8,Protoje;Koffee,In Search Of Lost Time,Switch It Up (feat. Koffee),53,234920,False,0.781,0.831,10,-6.061,0,0.111,0.0596,0.0,0.187,0.661,139.98,4,dancehall
+4S0UUI7C5TRoktM4gnkh06,Shatta Wale,ON GOD,ON GOD,47,195056,True,0.64,0.542,5,-10.288,0,0.508,0.603,0.0,0.137,0.578,123.222,5,dancehall
+0sF7vqR0wz97JopXaiGBPG,Mwuana,Triller,La La La (Go Bromsten),28,209946,True,0.494,0.672,5,-5.961,0,0.289,0.156,0.0,0.133,0.585,170.71,4,dancehall
+5GmvLu8Ok9KqBakA6jTEVK,Patoranking,Three,Abule,50,199198,False,0.687,0.79,8,-7.122,1,0.194,0.119,2.57e-05,0.104,0.603,99.669,4,dancehall
+0ENQCg0FziqV4VB9U2xTf5,Rupee,Soca Gold 2003,Tempted To Touch,52,212586,False,0.835,0.847,2,-6.89,0,0.0562,0.113,0.0,0.0771,0.926,105.991,4,dancehall
+3E3WIVDBt4rX4N2kRrwSah,R2Bees;King Promise;Joeboy,Fine Wine (feat. King Promise & Joeboy),Fine Wine (feat. King Promise & Joeboy),52,230400,False,0.766,0.741,8,-3.077,1,0.172,0.362,1.15e-05,0.145,0.598,99.997,4,dancehall
+1EOAG0TqrcjgANxMMNei3l,Jada Kingdom,Long Term,Long Term,26,215200,False,0.743,0.586,9,-7.172,0,0.235,0.243,0.0,0.0791,0.502,110.573,5,dancehall
+52YYknvqIhhSzP2x81C64H,Mr. Vegas;Sean Paul;Fatman Scoop,"Party Tun Up (feat. Sean Paul, Fatman Scoop) [Remixes]","Party Tun Up Remix (feat. Sean Paul, Fatman Scoop)",43,163200,False,0.781,0.909,4,-5.299,0,0.156,0.222,0.0,0.168,0.791,125.03,4,dancehall
+3UyTtTqQH6h0biBy3ddOCH,Kes,Million,Million,27,217744,False,0.372,0.874,2,-4.437,1,0.101,0.145,0.0,0.35,0.465,86.772,3,dancehall
+6jNCeo2QjxhhcK9luJUrIN,Buju Banton;Garnett Silk;Sanchez;Tony Rebel;Richie Stephens;Marcia Griffiths;Mad Cobra;General Degree;Nana Mclean;Jack Radics;Terry Ganzie;Thrilla U;Kultra Knox;Dean Fraser,Reggae Dancehall Riddim: Nanny Goat,Reggae Dancehall Riddim: Nanny Goat,27,2308806,False,0.857,0.626,4,-5.906,1,0.159,0.0833,0.0,0.0566,0.78,84.993,4,dancehall
+5xyU4KjS4VjaDzJTOR0PVZ,Jugglerz;Miwata,Heute,Heute,26,208815,True,0.786,0.585,7,-6.564,1,0.105,0.375,2.06e-05,0.117,0.483,94.995,4,dancehall
+2v52t6uTRjPIgnh9HHBAaf,Burna Boy,Twice As Tall,Onyeka (Baby),52,202146,False,0.825,0.685,2,-5.21,1,0.0776,0.155,0.00977,0.102,0.304,102.03,4,dancehall
+6YCkARFQggwUEmqTUyfIgx,Capleton,Prophecy,Tour,27,286333,False,0.892,0.65,1,-7.251,0,0.107,0.0722,1.19e-06,0.0555,0.394,97.061,4,dancehall
+6dyvxKa5tqy380sZ9LsZlq,Squash,One Way Riddim,Bandit,26,196116,True,0.854,0.659,5,-6.671,0,0.198,0.409,0.0,0.108,0.636,102.055,4,dancehall
+3iRAoULKeeLRvgO12OQuLi,Chronic Law;ATTOMATIC RECORDS;DANSKY RECORDS,1law,COLD WORLD,26,172802,False,0.484,0.672,11,-6.359,1,0.367,0.548,5.92e-06,0.129,0.303,86.821,4,dancehall
+7c6UvYQpPAuC8SX67HN0DG,Chronic Law;ATTOMATIC RECORDS;HEMTON MUSIC,1law,LIF UP,26,160078,False,0.767,0.503,4,-9.66,0,0.322,0.175,0.000137,0.473,0.365,98.11,4,dancehall
+30ddUmI5FZN6qEd80WvLjZ,Destra;Farmer Nappy,Destraction,Technically,27,194605,False,0.808,0.787,2,-3.979,1,0.0403,0.103,0.0,0.118,0.708,124.966,4,dancehall
+4XsRE7Fw0BZwx9a8J5xOHp,Vipa Music;Kenyaman,Spin Barrel,Spin Barrel,26,184180,True,0.529,0.888,1,-0.814,1,0.357,0.395,0.0,0.115,0.558,73.811,3,dancehall
+5nQwAZX0W42l0euQjIad0U,Patrice Roberts,Ole Ting Riddim,Good,26,178808,False,0.756,0.842,0,-6.228,1,0.0529,0.000748,0.0,0.0709,0.738,110.001,4,dancehall
+65uJr56hFFGgQisr34zGor,Burro Banton,Sampler 19,Boom Wah Dis,27,205933,False,0.803,0.871,2,-5.567,1,0.0783,0.401,0.0,0.259,0.96,167.787,4,dancehall
+6vSvt1WHT85TL9lMWLZvrj,Labyrint;Kapten Röd,Labababa,Wärsta wiben,29,221293,False,0.764,0.841,6,-6.677,0,0.302,0.00202,0.0,0.896,0.702,170.032,4,dancehall
+34fAFal5MCnRHnEZoV9OJa,Chronic Law,Press It Up,Press It Up,27,214717,True,0.685,0.695,9,-7.714,1,0.454,0.152,0.0,0.368,0.791,105.561,4,dancehall
+7mTpX5rx3tGD7eocjhRZS8,Chronic Law,Tears,Tears,26,216137,False,0.657,0.676,11,-5.181,1,0.246,0.232,0.0,0.146,0.286,80.132,4,dancehall
+0NvJd2TTPjkWmBPyS7duvY,Intence;Countree Hype,Raid,Raid,26,153786,True,0.953,0.617,4,-7.589,0,0.281,0.321,0.0,0.0714,0.556,103.022,4,dancehall
+6berakBlPPFmyQFH5U7A9T,Goldn.B;Ken Vybz,Fight Ova Man,Fight Ova Man,27,196253,False,0.72,0.586,6,-7.445,1,0.458,0.467,0.0,0.176,0.662,93.528,4,dancehall
+5W7EL5ZYGwoWhFO9veyiJo,EMCI FLOW,Ella Prefiere,Ella Prefiere,26,137931,True,0.709,0.864,11,-3.819,0,0.1,0.0338,0.0,0.117,0.674,87.041,4,dancehall
+0pyYnrVaTozvWUMpYHHqPB,Precision Productions;Machel Montano,"We Muzik (Soca 2015 Trinidad and Tobago Carnival), Vol. 6",Remedy,27,199853,False,0.522,0.897,6,-4.153,1,0.353,0.219,0.0,0.0863,0.686,203.382,3,dancehall
+4UwFt2zfxXT1QH8TEkQHh1,Filip Mota,No Puedo Creer,No Puedo Creer,27,206166,False,0.703,0.712,9,-4.96,0,0.088,0.347,0.0,0.133,0.743,89.909,4,dancehall
+0t4Cj30e0YENYFhZ3ED7kG,Johnny Osbourne,Johnny Osbourne - Most Wanted,Fally Ranking,28,226853,False,0.824,0.692,6,-6.44,0,0.0484,0.0165,0.0,0.08,0.96,132.45,4,dancehall
+2irfIx2VfpK4VpdPDeUaKP,Rygin King,Therapy,You Lord,25,194690,False,0.731,0.616,11,-6.134,0,0.129,0.42,2.95e-06,0.322,0.354,89.995,4,dancehall
+3MvBJsVTKoA3ANpQsuz6nd,Rygin King,Therapy,Therapy,26,157068,False,0.722,0.714,10,-6.294,1,0.342,0.49,0.0,0.185,0.432,66.66,3,dancehall
+0jValXrMKM6Fk59NaVIzFx,Shabba Ranks,"Blow Your Head, Vol. 2: Dave Nada Presents Moombahton",Dem Bow,27,217715,False,0.888,0.929,6,-4.798,1,0.219,0.248,0.0,0.163,0.96,98.32,4,dancehall
+3dqY88ut6zqT1w2AgYkbQ9,Shamanes Crew,Antología,I Feel so Good,28,252940,False,0.71,0.751,6,-5.949,0,0.185,0.0659,0.0,0.0825,0.707,159.905,4,dancehall
+4rkGL9yXFXHMIGRE0nqUfc,Ai Milly,Hard Knock (Who Call MOCA),Hard Knock (Who Call MOCA),26,183370,False,0.535,0.718,5,-5.118,0,0.466,0.486,0.0,0.389,0.545,180.232,4,dancehall
+6eg9xJw40TZ0eHILd9F0ui,Frisco Kid,PEPPERSPRAY RIDDIM,Dem Mad,0,170196,False,0.836,0.985,7,-0.604,1,0.372,0.112,0.0,0.0483,0.85,99.781,4,dancehall
+7m4AAuyXQRx20YGNtzMS4P,Hety and Zambo,No Weakness,No Weakness,26,193490,False,0.856,0.85,1,-3.203,1,0.278,0.117,0.0,0.305,0.852,102.033,4,dancehall
+0UpVMQC5OhiHM1pnV1BY39,Medina,Haffla Avenyn,Haffla avenyn,28,193586,False,0.716,0.83,10,-5.342,1,0.0361,0.0586,0.0,0.357,0.945,128.024,4,dancehall
+6U9jxxdQ6TNzjshIpwWMTf,Tiwa Savage;Wizkid;Spellz,Sugarcane,Ma Lo,53,182857,False,0.788,0.721,11,-4.577,1,0.152,0.424,2.86e-06,0.0897,0.653,105.23,4,dancehall
+2RCf3uUVix6XzRU0Z8quJs,Runtown,For Life,For Life,48,229633,True,0.719,0.671,10,-4.888,1,0.182,0.093,3.32e-05,0.06,0.844,205.656,4,dancehall
+5PRGmpPJzsrOXijZdXalVK,SPINALL;Reekado Banks;Phyno;Ntosh Gazi,TOP MAMA,TOP MAMA,47,208141,False,0.842,0.641,1,-8.708,1,0.0725,0.00997,0.000293,0.0793,0.462,112.988,4,dancehall
+765zfCJsXtDDPInx1smYLo,Korede Bello,Real Man,Real Man,55,175098,False,0.587,0.818,3,-4.136,0,0.155,0.29,3.02e-06,0.11,0.886,191.637,4,dancehall
+1V9xax1XoP0YpVp941UHJt,Patoranking,I'm In Love,I'm In Love,42,209638,False,0.712,0.833,11,-5.909,1,0.0478,0.106,0.000135,0.417,0.605,106.012,4,dancehall
+47MwPx7nbFUD5IGVhL38Zr,Skillibeng;F.S.,Whap Whap (feat. F.S.),Whap Whap (feat. F.S.),58,181115,False,0.895,0.78,6,-6.458,0,0.232,0.207,9.76e-05,0.118,0.59,106.988,4,dancehall
+3c2NDb6yMNkBIKTnvvGhcc,Konshens,Let Me Know (Acoustic),Let Me Know (Acoustic),33,223305,False,0.765,0.294,2,-7.257,0,0.06,0.816,0.0,0.138,0.415,82.064,4,dancehall
+6BnKiK0FwqJoqCdVKh442g,Patoranking;Diamond Platnumz,Love You Die (feat. Diamond Platnumz),Love You Die (feat. Diamond Platnumz),44,195597,False,0.79,0.699,0,-6.427,1,0.0376,0.14,0.0,0.0945,0.771,105.04,4,dancehall
+3dMRil39iTtAD8wLV46W8V,Vybz Kartel,Scorched Earth,Scorched Earth,25,205048,True,0.549,0.739,2,-5.287,1,0.263,0.136,0.0,0.0409,0.512,68.628,3,dancehall
+7862flGk6U3tiWs2m2aUzH,Burna Boy,Twice As Tall,Bank On It,52,276536,False,0.784,0.388,1,-8.931,1,0.207,0.29,0.00539,0.0971,0.472,93.011,4,dancehall
+67bOItGZHSECTH9LffxpUm,Mr Eazi,Personal Baby,Personal Baby,54,173646,True,0.561,0.456,9,-8.333,0,0.465,0.445,0.0,0.088,0.45,91.358,4,dancehall
+1HG9yS1bhOSsrUoHdUEnbW,Fireboy DML,Playboy,Timoti,53,139171,True,0.785,0.665,7,-4.638,1,0.317,0.0497,0.0,0.126,0.806,98.191,4,dancehall
+07HLI4s97hx2FmCJsJ20hw,NSG,Daily Duppy,"Daily Duppy, Part 1",53,164400,True,0.949,0.554,0,-5.678,1,0.28,0.00602,0.0,0.104,0.518,100.976,4,dancehall
+0Eq1YipYrFdRzPKT8y7iOC,Lil Kesh;Fireboy DML,Ecstasy,Love Like This (feat. Fireboy DML),49,189280,False,0.716,0.736,8,-4.545,1,0.105,0.109,4.07e-05,0.0808,0.41,104.039,4,dancehall
+5MAScTGPHzWAeivPjpATa9,Patoranking;Wande Coal,"My Woman, My Everything (feat. Wandecoal) - Single","My Woman, My Everything (feat. Wandecoal)",53,233717,False,0.902,0.845,11,-2.695,1,0.0644,0.0438,0.0,0.0867,0.625,112.005,4,dancehall
+5lAOltJO0aw2FUP5Use4cD,Mr Eazi;emPawa Africa;King Promise,One Day You Will Understand,Baby I'm Jealous,51,150000,False,0.667,0.442,1,-7.069,0,0.291,0.148,0.0,0.102,0.526,107.092,4,dancehall
+2oXjgBJ7bgSdCZBXlGrVoU,SIKEM,Vit Fè,Vit Fè,26,107232,True,0.791,0.499,7,-14.343,1,0.304,0.164,0.0,0.129,0.738,144.995,4,dancehall
+0QH9airTBgNMzLQOsozlYy,Bunji Garlin,Whine Up Your Body,Whine Up Your Body,26,215159,False,0.77,0.936,1,-3.091,1,0.0446,0.184,3.57e-06,0.235,0.851,104.059,4,dancehall
+4kS2aOd7ic0gGccOWss1JV,Sean Paul,Hold My Hand (feat. Zaho),Agarra Mi Mano,60,208906,False,0.666,0.651,7,-3.723,0,0.183,0.0956,0.0,0.214,0.372,174.077,4,dancehall
+1qRlmoXN7LVqMEDJMf5z1g,Seyi Shay;Patoranking;Shadrach Adeboye,Africa Rising Vol.4,Murda,4,210680,False,0.62,0.841,6,-2.306,1,0.046,0.54,0.0,0.111,0.863,103.066,4,dancehall
+3rlifdORN3A2gwnYhAHnFA,Vipa Music;Kenyaman,Sloow Down,Sloow Down,26,192934,True,0.528,0.365,1,-10.097,0,0.104,0.503,0.0,0.179,0.148,150.743,4,dancehall
+2xXRKDCqZYmbbwwIUerigW,Burna Boy,African Giant,Wetin Man Go Do,52,188181,False,0.857,0.787,2,-6.122,0,0.0736,0.28,3.25e-06,0.389,0.87,98.221,4,dancehall
+2lQAkQe92vcfd65JZwQAX7,Ai Milly;DethWrld,Top Ghur,Top Ghur,26,191921,True,0.87,0.592,7,-7.265,1,0.0707,0.632,0.0,0.305,0.604,100.017,4,dancehall
+2dvTryS7kiS33cKU4Z5pHS,Dennis Doff,Gunz och choklad,Gunz och choklad,27,215546,False,0.841,0.799,5,-2.448,0,0.0536,0.195,4.66e-06,0.05,0.846,113.99,4,dancehall
+0LelYcBXhfPOa6DMImYPmr,Squash,Potus,Potus,26,181289,False,0.923,0.739,0,-6.346,0,0.182,0.0683,0.0,0.206,0.831,97.99,4,dancehall
+6l6jcCNSooJHeajz0tSJNH,Jahyanai;Meryl,Tsunami,Numero Uno,26,226365,False,0.647,0.655,6,-5.648,1,0.0358,0.396,0.0,0.0979,0.682,146.073,4,dancehall
+0d71fMsgonkhktoiNLwXil,Mwuana;Ozzy,Triller,Djur,28,312200,True,0.791,0.613,8,-6.642,1,0.177,0.307,4.34e-05,0.164,0.212,120.033,4,dancehall
+4RRJr505xbw6KLzgFH7fPB,Xyclone;Massive B;Bigg Skip,Money Dance,Money Dance,26,190703,False,0.958,0.748,8,-4.292,1,0.1,0.188,0.0,0.0751,0.825,107.029,4,dancehall
+5TWQdlONz7iZgxK6rfa8EB,Shaneil Muir,Book Smart,Book Smart,25,154540,False,0.864,0.444,9,-5.229,0,0.355,0.518,0.0,0.0952,0.515,66.56,3,dancehall
+03DOtUx03PRyx4nlNVGRgs,Sean Paul,Scorcha,Earthquake,41,167098,False,0.618,0.88,2,-4.667,1,0.0912,0.00231,0.0,0.247,0.737,101.973,4,dancehall
+33ugkMRcGWHvTaBlBmcmqv,EMCI FLOW,Bonita Peligrosa,Bonita Peligrosa,25,178272,False,0.789,0.635,9,-6.943,0,0.0952,0.0223,0.0,0.12,0.644,105.005,4,dancehall
+7ADNtbp3gzo2eWivleowBy,DJ Bryan;Poplane;Kalash,Bad Man Time,Bad Man Time,26,189632,True,0.566,0.747,9,-5.967,1,0.51,0.244,0.0,0.292,0.356,93.1,4,dancehall
+2UHWgqrB21T3H36f1lhyHA,Almeyda,Javivi,Javivi,27,198475,False,0.889,0.764,2,-7.085,1,0.165,0.117,0.0,0.081,0.744,103.994,4,dancehall
+4azBBQtY6WjTWeN2NlEl1c,Lion Bigmao;Miztah Killa,The Kombat,Pa Abajo - Tic-Toc,26,156364,True,0.877,0.937,5,-3.053,1,0.344,0.212,0.0,0.0811,0.79,99.96,4,dancehall
+5V2JJJwtnjiAvnhRI1s2Ku,Seyi Shay;Eugy;Efosa,Africa Rising Vol.3,Your Matter,0,219238,False,0.758,0.677,4,-5.053,0,0.0592,0.0484,6.99e-05,0.337,0.448,102.994,4,dancehall
+2cerDm5EbuTNJ68EIMtrF2,Burna Boy;Chris Martin,Twice As Tall,Monsters You Made (feat. Chris Martin),45,217541,True,0.671,0.646,7,-7.513,0,0.195,0.272,0.0,0.405,0.355,142.0,4,dancehall
+3kFHcmwJmos2j0Bgavig7h,Aidonia,Riddim Driven: Dem Time Deh,Ukku,27,183506,False,0.659,0.736,10,-6.842,0,0.242,0.101,0.0,0.146,0.555,89.267,4,dancehall
+6cUrY5atM8kom3hSuUslzo,Seyi Shay;Patoranking;Shadrach Adeboye,Afropop 2022,Murda,0,210680,False,0.62,0.841,6,-2.306,1,0.046,0.54,0.0,0.111,0.863,103.066,4,dancehall
+5agcKoxeacFr9xlsx6I3Lp,K Lion,Zess In Peace,Zess In Peace,26,188200,False,0.75,0.48,1,-8.512,1,0.132,0.0272,1.64e-05,0.145,0.171,100.092,4,dancehall
+73pKdxpRGNIQYXzDGUw4oj,Seyi Shay;Patoranking;Shadrach Adeboye,Africa Rising Vol.2,Murda,0,210680,False,0.62,0.841,6,-2.306,1,0.046,0.54,0.0,0.111,0.863,103.066,4,dancehall
+36SWGQA3FDa5lwHXQW2GyT,Labyrint;Amsie Brown,2009 Mixtape,Fingrarna i luften,28,238575,False,0.695,0.844,8,-3.945,0,0.331,0.0237,0.0,0.125,0.871,84.949,4,dancehall
+6uPkafDS5iSjCzmrAqiMQK,Chronic Law;ATTOMATIC RECORDS;HEMTON MUSIC,1law,CYAA LONELY,26,175310,False,0.696,0.649,7,-6.143,1,0.26,0.294,0.0,0.373,0.44,66.712,3,dancehall
+3OwSATFLdAQ9TX8mMVQfyH,IQ,Jamaican Prince,Like That,25,184617,True,0.48,0.649,10,-7.306,1,0.266,0.08,0.0,0.0786,0.35,81.08,4,dancehall
+1FfOEFNb8k7AAuwsudi3bp,Medina;Kaliffa,Haffla Avenyn,Klimax - feat. Kaliffa,28,203266,False,0.774,0.822,7,-6.558,0,0.0546,0.105,4.54e-05,0.07,0.816,108.057,4,dancehall
+2maIfRJZY51Ls412KzKs6Z,Mikey Spice,Born Again,Born Again,27,230693,False,0.661,0.392,7,-12.332,1,0.0609,0.0217,0.0,0.335,0.619,82.118,4,dancehall
+5JHxnKw2iZ3Of9RDwsdN5H,General Degree,Ragga Ragga Ragga 6,When I Hold You Tonight,26,183826,False,0.884,0.822,4,-3.295,0,0.173,0.0103,0.0,0.0865,0.708,92.058,4,dancehall
+78RpJHtLl1B7fInF740oYP,Tommy Lee Sparta;Chronic Law,Transition,Judgement Day,25,172173,False,0.479,0.59,2,-7.014,1,0.0923,0.306,0.0,0.335,0.156,123.993,5,dancehall
+2r1H8jrtqXRIVDrQb9vSaO,Chronic Law;DANSKY RECORDS;ATTOMATIC RECORDS,1law,NUH TELL ME NUTTH,26,194443,False,0.656,0.775,1,-3.788,0,0.186,0.654,0.0,0.172,0.682,91.388,4,dancehall
+4GanJ5X4LQSXbTAQpbNIvQ,Odd Vibez,Ställ dig upp för kärleken,Rör mig sådär - Radio Edit,26,167839,True,0.602,0.589,1,-4.836,1,0.068,0.18,0.0,0.16,0.722,168.02,4,dancehall
+5ipsq9FrLYv2qsnyTKwnEK,Ken Vybz,Dans ma ville,Dans ma ville,27,176842,True,0.7,0.562,6,-9.427,0,0.514,0.677,0.0,0.167,0.23,126.847,5,dancehall
+7jrfqHvcRvJluOlCGJU54G,Juls;Miraa May;Donae'o,Blessed,Blessed,54,188307,True,0.829,0.433,5,-11.828,0,0.174,0.143,0.00252,0.13,0.679,130.051,4,dancehall
+4GW2SIyvB5fy8xtK1eO8PS,Larry Gaaga;Wizkid,Low,Low,54,233012,False,0.762,0.587,9,-2.862,0,0.0751,0.62,0.00252,0.0844,0.772,101.964,4,dancehall
+2isb6crrhgFJ3zxBFa5fXG,Sarz;WurlD,I LOVE GIRLS WITH TROBUL,MAD,47,238016,True,0.724,0.707,5,-4.11,1,0.0577,0.154,0.00941,0.169,0.285,101.992,4,dancehall
+6EnfbMj5Ui3jkIw8CDaYIW,Kranium,Wi Deh Yah,Wi Deh Yah,55,146400,True,0.648,0.725,11,-7.064,0,0.266,0.063,0.0,0.111,0.563,100.192,4,dancehall
+5zD3d3m97Ferk4pgkUPEmb,Shane O,Dark Room,Dark Room,51,193802,False,0.723,0.612,2,-3.912,0,0.0673,0.203,3.01e-06,0.112,0.418,82.885,4,dancehall
+2AGiN5z9F0PjWMudpmbMNv,Sean Paul,Temperature,Temperature,30,218573,False,0.951,0.6,0,-4.675,0,0.0685,0.106,0.0,0.0712,0.822,125.04,4,dancehall
+0WZv29OGhRABeryXBPMAV6,Reekado Banks;Fireboy DML,Ozumba Mbadiwe (Remix),Ozumba Mbadiwe - Remix,53,211636,False,0.758,0.795,8,-6.685,1,0.0337,0.438,0.00195,0.109,0.63,109.981,4,dancehall
+0AT08pe7CNV34sDKmTyh5b,Charly Black;Sean Paul;Greeicy,Ravin',Ravin',43,198120,False,0.845,0.676,8,-5.459,1,0.133,0.104,1.36e-06,0.129,0.713,104.971,4,dancehall
+092PSCM3LlkiCatgTN0vrU,D'banj,King Don Come,Oliver Twist,51,237453,False,0.83,0.881,8,-5.706,1,0.0699,0.429,7.25e-06,0.126,0.866,125.021,4,dancehall
+3qF8DcoQpQ1IXlMbTKHylP,Timaya;Burna Boy,Chulo Vibes,Pull Up,53,196800,False,0.847,0.7,6,-5.571,1,0.0532,0.678,0.000129,0.0975,0.88,99.956,4,dancehall
+56HPoDykppj9LFa7FcElm6,Machel Montano;Ashanti,The Road,The Road,39,209750,False,0.683,0.927,4,-3.14,1,0.139,0.0919,0.0,0.103,0.734,160.065,4,dancehall
+5OHms4UOISfeoILcr9AGHi,Sean Tizzle,Pempe,Pempe,55,177998,False,0.81,0.447,9,-10.883,1,0.0672,0.43,3.42e-05,0.109,0.705,99.967,4,dancehall
+3WU2blK7YBcugEEU9CATvF,Serani,No Games,No Games,64,188200,False,0.741,0.79,2,-5.056,1,0.284,0.000755,0.0,0.0345,0.806,185.779,4,dancehall
+0d3Af9Y7sK96ZCmh0On6d3,Shane O;Countree Hype,Yakuza - EP,Wrath,0,188964,False,0.567,0.676,6,-6.558,0,0.357,0.321,0.0,0.285,0.105,122.717,5,dancehall
+6Kh5thzbnEAGzgLFeiVRc4,Shane O,Wedding Cake Riddim,All Out,0,144039,False,0.657,0.705,5,-3.979,0,0.209,0.0295,0.0,0.159,0.321,126.992,5,dancehall
+3z8QwguZutA3deFJUxMeBX,Popcaan;Jah Vinci,Steamy,Steamy,27,188571,True,0.735,0.689,1,-3.437,1,0.308,0.172,0.0,0.0616,0.627,97.73,4,dancehall
+7lE7ieF32OlXel0vwPclW9,I Wayne,Reggae Gold 2012,Can't Satisfy Her,27,217120,False,0.719,0.656,11,-6.155,0,0.308,0.313,0.0,0.514,0.774,87.214,4,dancehall
+3AEmB7kpytRpwNDiq4gCqv,Kraff Gad;Vibes Gong Productions,Floating,Floating,25,174603,True,0.889,0.749,3,-5.069,0,0.16,0.149,0.0,0.0819,0.52,99.996,4,dancehall
+7C86DVl6REN8VPeGEMOf9q,Sean Paul,Dutty Rock,Get Busy,58,211666,False,0.735,0.824,10,-4.143,0,0.036,0.615,0.0,0.158,0.726,100.202,4,dancehall
+6rUQrLcM0TCdSSk55Q3BCN,Jah Vinci,Pretty Like a Rose,Pretty Like a Rose,25,183300,True,0.605,0.363,8,-8.812,1,0.248,0.27,2.1e-05,0.13,0.248,110.006,4,dancehall
+1aoHxBiR8NAOMbgfioUN0V,Chi Ching Ching;Sean Paul,Turning Tables,Weed Problems,35,135022,False,0.864,0.86,9,-3.223,1,0.246,0.0644,0.0,0.111,0.866,104.906,4,dancehall
+3gUQD6BF1RKWsWfboTZYuE,Omah Lay,Boy Alone,temptations,48,151588,False,0.572,0.515,3,-8.722,0,0.401,0.564,0.142,0.1,0.607,95.691,4,dancehall
+2Da3f0jtPP4V4wmc2OfSLM,Plumpy Boss,My Story,My Story,26,196836,False,0.652,0.706,11,-7.292,0,0.458,0.741,0.0,0.175,0.547,72.127,3,dancehall
+1qwUNvaIVCoiPQVQKPNyd8,Vybz Kartel,I'll Take You There,I'll Take You There,25,191352,False,0.562,0.808,3,-5.219,0,0.274,0.473,0.0,0.129,0.784,98.77,4,dancehall
+7MMUmuPiGgSl95eTLgBfNS,Rygin King,Ruption,Ruption,25,184632,True,0.656,0.873,1,-4.566,1,0.384,0.511,0.0,0.176,0.755,91.187,4,dancehall
+0P9zZphu19AiWmVgP0zJ12,Demarco,Ragga Ragga Ragga 2008,Duppy Know Who Fi Frighten,26,179493,False,0.585,0.824,2,-4.455,1,0.0896,0.219,0.0,0.112,0.945,128.626,4,dancehall
+6mAdcIFP25eb37HjkzglSh,Wizkid,Made In Lagos: Deluxe Edition,Steady,55,203026,False,0.735,0.511,10,-5.734,0,0.109,0.392,0.0021,0.119,0.755,94.972,4,dancehall
+3j3OwFNE0gLkFMQQnrhlXD,Jey D;Lion Fiah;Eshconico;Gaby;Makrobeat,Pose,Pose,26,158400,True,0.923,0.587,10,-3.826,0,0.103,0.0125,0.0133,0.0729,0.252,100.003,4,dancehall
+2leY00DaWhRD708BGo7tSp,Collie Buddz,Blue Dreamz,Sweet Wine,26,162998,False,0.459,0.736,6,-5.508,0,0.0487,0.288,0.0,0.235,0.751,88.195,4,dancehall
+4QTRYrMatX6MKlaeJ9WGJH,Vipa Music,Kiki Weh,Kiki Weh,26,157988,True,0.756,0.501,8,-10.459,0,0.492,0.00277,0.0,0.263,0.925,108.677,4,dancehall
+2ItcXDhy50UlwefhTADM2k,Jahvillani;Countree Hype,Yakuza - EP,Rockefeller,0,182366,False,0.904,0.688,2,-7.44,0,0.238,0.218,0.0,0.0647,0.646,97.972,4,dancehall
+4N5y4c34CIyWv9sSASGxHY,Almeyda;Energizer,De Mí para Tú,De Mí para Tú,27,194194,False,0.797,0.636,10,-6.227,1,0.2,0.233,2.53e-06,0.113,0.565,99.936,4,dancehall
+612KC3380LHjyVSwNKIfe7,Goldn.B,DROGA,DROGA,26,169320,False,0.588,0.74,7,-6.986,1,0.439,0.122,0.0,0.235,0.674,117.505,5,dancehall
+1Xs9iuEBZKS8RnqpFptfcC,Johnny Osbourne,Reggae & The Beach,We Need Love,28,217360,False,0.781,0.507,0,-10.073,1,0.162,0.668,3.74e-06,0.159,0.767,105.417,4,dancehall
+5llVHPmV6I8HJoudVFeDFU,Squash;Lampshade Muzic,Destiny,Destiny,26,173041,True,0.85,0.568,6,-3.453,1,0.111,0.5,0.0,0.124,0.617,102.055,4,dancehall
+2VhDQRvapFA5av8jhv2c9v,Vybz Kartel,Rio Riddim,Warn Him - Raw,25,154671,True,0.767,0.689,8,-8.757,1,0.283,0.778,0.0,0.114,0.576,89.969,4,dancehall
+4LbEUmACVAFj8e0WrMUdlN,Burna Boy,Outside,Rock Your Body,53,221228,False,0.801,0.623,0,-7.861,1,0.0982,0.107,0.00396,0.0853,0.801,104.985,4,dancehall
+5vZxZr7qPgIV5zVVBMat6n,Sanchez,Strictly The Best Vol. 8,Don't Worry,27,223200,False,0.744,0.391,2,-11.858,1,0.0796,0.0117,1.18e-06,0.0785,0.803,165.919,4,dancehall
+5xB7NlnDumLJyapQw32NQa,Chronic Law;DANSKY RECORDS,1law,COLD HEART,26,188360,False,0.511,0.545,9,-12.682,1,0.462,0.709,0.00208,0.211,0.614,175.434,4,dancehall
+4lrENzyaCt5t4XqozbifKj,Dexta Daps,VENT,Consistency,26,168000,True,0.447,0.788,9,-5.248,0,0.34,0.406,0.0,0.378,0.842,179.898,4,dancehall
+5fqwMwFjtp7vkqCHTyVU2J,Wayne Jarrett,"Showcase, Vol. 1",Bubble Up,27,445866,False,0.734,0.4,10,-13.722,0,0.269,0.00852,0.497,0.0912,0.553,133.04,4,dancehall
+5uQhu1FZsno6WKEW55Q6qW,Chronic Law;Ireland Boss,Glock,Glock - Raw,26,192000,True,0.546,0.523,11,-6.322,0,0.221,0.63,2.1e-06,0.406,0.231,100.819,4,dancehall
+3851T2MrkvNYavq1jnkq02,Vybz Kartel,Kingston Story (Deluxe Edition),Mi Remember,25,231088,False,0.704,0.678,2,-5.829,1,0.0581,0.0161,0.000131,0.101,0.166,99.993,4,dancehall
+50zGqSUqaSWSSDaIgBvUz2,Ce'Cile,Jamaicanization (Bonus Track Version),When You're Gone,26,211645,False,0.766,0.573,5,-8.829,0,0.268,0.127,0.0,0.0886,0.875,89.053,4,dancehall
+7BeG6ZN9NHfsp5UFMGgIo6,Chronic Law,Still Living,Still Living,26,192376,False,0.55,0.601,5,-6.564,1,0.0714,0.715,0.0,0.199,0.4,99.452,4,dancehall
+46e0K8NVojDxaScX7YUVRR,Shamanes Crew,Tótem,Belleza Exótica,27,198750,False,0.82,0.726,11,-5.429,0,0.0744,0.018,2.63e-06,0.164,0.591,97.981,4,dancehall
+1yvr3ry70jWh1reFF70nfU,Shamanes Crew;La Combo Tortuga,Juntos (feat. La Combo Tortuga),Juntos (feat. La Combo Tortuga),27,197526,False,0.747,0.826,2,-4.065,1,0.0655,0.158,9.51e-06,0.0556,0.804,95.034,4,dancehall
+40PHkeiMhlAVrgkhBcyYVS,Shamanes Crew,Tótem,Hasta La Mañana,27,234000,False,0.69,0.79,9,-7.574,0,0.0402,0.0286,7.98e-05,0.11,0.532,103.965,4,dancehall
+0LyRYmgwJqYdk4yHHJ6aPH,Shamanes Crew;Zaturno,Tótem,Sin Dudarlo,27,286593,False,0.788,0.873,4,-5.007,0,0.177,0.111,0.0,0.218,0.813,95.041,4,dancehall
+52Ove4ydQ1pidBTMe2cMZ1,Queen Ifrica,Reggae Gold 2012,Below The Waist,26,211946,False,0.573,0.667,7,-5.483,1,0.335,0.123,0.0,0.304,0.347,82.554,4,dancehall
+7nT9lGk3bf5rvnVbzPIE3N,Collie Buddz,Hybrid,Love & Reggae,58,213691,False,0.743,0.576,9,-6.244,0,0.163,0.0136,0.0,0.0613,0.628,77.958,4,dancehall
+66iI77cgWBEdGichkndWJe,Sean Paul,Mad Love The Prequel,Jump On It,35,206003,False,0.594,0.691,5,-4.825,0,0.538,0.0323,0.0,0.0634,0.784,90.857,4,dancehall
+6gkepFIH72ZdSIAjtvS7ZV,Protoje;Wiz Khalifa,A Vibe (feat. Wiz Khalifa),A Vibe (feat. Wiz Khalifa),47,163853,False,0.714,0.683,0,-8.651,1,0.516,0.457,0.0,0.12,0.467,159.893,4,dancehall
+1tDf8B65kTrz87w5RJmgXG,Olamide;Wande Coal,Hate Me,Hate Me,50,199322,True,0.562,0.832,1,-8.152,1,0.202,0.0974,0.0139,0.197,0.358,157.364,5,dancehall
+6cL6HzoCFKrW1WiDkmuPsW,Mavado,Enemy Line,Enemy Line,25,190693,True,0.866,0.694,7,-6.001,0,0.21,0.441,0.0,0.112,0.686,103.083,4,dancehall
+24kLQBF5CBJyr0x06lRpiy,DJ Battle;Jahyanai;Bamby;Mr Eazi,Take Control,Take Control,46,213354,False,0.754,0.72,4,-5.354,0,0.243,0.0211,0.0,0.201,0.508,98.0,4,dancehall
+7F1FBu1Xy1DWKGTMxpyIho,NSG;MIST,Only God Can Judge Me,Only God Can Judge Me,52,213266,True,0.627,0.674,4,-5.923,0,0.303,0.052,0.0,0.0746,0.427,65.86,3,dancehall
+2KyeRuRvBxIzmUHM7ETkOf,Rupee,Tempted to Touch (Online Music),Tempted to Touch,56,243133,False,0.878,0.578,0,-7.572,1,0.0467,0.231,0.0,0.0821,0.961,105.987,4,dancehall
+3FEc6z5Q5mgeZtbeBDNEEy,2Baba,REWIND. SELECT. UPDATE,African Queen,44,264360,False,0.579,0.777,11,-3.328,1,0.0889,0.385,2.9e-06,0.191,0.838,77.893,4,dancehall
+7uksEhi17NeOS5uNyVRggG,Malie Donn,Bang Bang,Bang Bang,25,157988,False,0.679,0.541,1,-8.653,1,0.405,0.221,0.0,0.111,0.455,130.549,5,dancehall
+7gReWQ16Qs5gtAkytHEKB8,Timaya,Gratitude,Don Dada,46,208040,True,0.726,0.738,2,-5.154,0,0.393,0.649,1.39e-06,0.104,0.758,201.866,4,dancehall
+3UELC9ZzjGdWD5lxzNjzdp,Sanjin;Walshy Fire;Salvatore Ganacci,Nah Tell Dem,Nah Tell Dem,40,185054,False,0.817,0.909,0,-3.729,1,0.216,0.215,0.0,0.732,0.713,92.007,4,dancehall
+7xcuZ6it2nDqVUh0B29znm,K Lion,Rise Up,Rise Up,25,199415,True,0.795,0.611,6,-7.626,0,0.297,0.377,0.0,0.158,0.329,100.025,4,dancehall
+1MfvnCnhKwAuiYE3ILKzQj,Alkaline,Most Wanted,Most Wanted,26,192028,False,0.745,0.828,8,-4.469,0,0.168,0.709,0.0,0.107,0.815,106.149,4,dancehall
+3GlniCHKF0yjuQBMuYPfrG,Vybz Kartel,TOUCH SCREEN RIDDIM,EVERY GYAL A MY GYAL,25,188368,False,0.878,0.754,7,-4.345,0,0.244,0.132,0.0,0.302,0.883,102.029,4,dancehall
+7hbhmhoXKwrRMbXZ194lS1,G-Terra;Solgie Rokcstone,Gun Bag,Gun Bag,29,161776,True,0.755,0.8,6,-5.241,0,0.25,0.1,0.0,0.158,0.357,127.949,5,dancehall
+1WzCLRlR2dCMwIFvf5IIOz,T.O.K.,Ragga Ragga Ragga 16,Falla We,25,214133,False,0.811,0.741,2,-4.042,1,0.123,0.358,0.0,0.139,0.66,94.706,4,dancehall
+5Ky8pIlNDaSQtxfY45dqMw,Sarkodie;Oxlade,No Pressure,Non Living Thing (feat. Oxlade),52,229345,True,0.795,0.715,9,-4.923,0,0.0779,0.248,0.0,0.138,0.689,106.932,4,dancehall
+73vBHepDFkAXufkyhR9r0O,Vipa Music;Kenyaman,motivation,motivation,25,103490,True,0.741,0.558,7,-7.7,1,0.335,0.366,0.0,0.125,0.602,99.348,4,dancehall
+79Km41FyeeQsT3l1Lik4lM,Kyodi,Pleasure,Pleasure [Fuck Again],25,149845,True,0.663,0.706,11,-4.761,0,0.338,0.611,0.0,0.111,0.45,130.309,5,dancehall
+6mtcicUT52CuOv4AAeE7Mm,YK Kastro,Trick,Trick,26,185573,True,0.598,0.495,6,-8.242,0,0.375,0.148,0.0,0.158,0.233,88.011,4,dancehall
+1OeIOJsZiCpfHdtyfclTID,Silk Boss;Shabdon Records,Off Guard,Off Guard,25,179417,True,0.591,0.71,1,-3.963,1,0.29,0.0902,0.0,0.0926,0.536,68.746,5,dancehall
+4dgmGHatMrnAG0RZXym803,Vybz Kartel,The Gaza Don,Sickhead Sickhead,25,141688,False,0.752,0.811,4,-4.056,0,0.37,0.407,0.0,0.443,0.541,133.574,5,dancehall
+7pG2mohladBSpE6CqxFik5,Yemi Alade,King Of Queens,Johnny,53,236012,False,0.84,0.842,5,-2.641,0,0.231,0.2,6.95e-05,0.138,0.875,125.104,4,dancehall
+7pVW0e72kVNeb6HtVz4sAu,Mavado,Gangsta For Life: The Symphony Of David Brooks,Weh Dem A Do,25,166346,False,0.817,0.883,2,-6.634,1,0.066,0.0284,1.9e-06,0.118,0.15,121.067,4,dancehall
+6dFOwtd9iBMERardJvsIxY,Tarrus Riley,Parables,She's Royal,58,251026,False,0.754,0.459,8,-5.947,1,0.11,0.00834,0.0,0.0742,0.829,78.079,4,dancehall
+2IOuVaLf8rrpMYZKc0Pt5l,General Degree,Ragga Ragga Ragga 9,Cartoon Character,25,235733,False,0.827,0.728,2,-5.954,1,0.328,0.305,0.0,0.0959,0.653,92.945,4,dancehall
+3CaGWbm0kGdUaGVTZm8nB2,Collie Buddz;Krayzie Bone,Collie Buddz,Defend Your Own (feat. Krayzie Bone),26,234840,True,0.816,0.783,9,-3.575,0,0.213,0.0123,0.0,0.118,0.561,139.902,4,dancehall
+1iAaK80rZjiymuwNjz9Yaz,Spragga Benz;Lady Saw;Rookie Production,Backshot,Backshot,25,122200,True,0.791,0.709,2,-4.943,1,0.267,0.263,0.0,0.343,0.558,92.199,4,dancehall
+1lr9eOO2uWRbac20iZNwxb,Cherrie,Spotify Singles,Auf Wiedersehen - Recorded at Spotify Studios Stockholm,29,187819,False,0.682,0.595,11,-9.378,0,0.0475,0.102,0.0,0.309,0.555,158.111,4,dancehall
+0Ckt5EkSTqAW65ddr1HftD,Kaliffa,Nån som e nån,Nån som e nån,27,181386,False,0.846,0.613,11,-8.79,0,0.0591,0.127,2.57e-05,0.0888,0.687,113.961,4,dancehall
+3JTKA1ccm6yGyqCV7AYlaT,Medz Boss,Dead Like Dog Riddim,Bad Gyal,26,194042,False,0.628,0.805,7,-1.367,1,0.241,0.795,0.0,0.0963,0.52,93.297,4,dancehall
+5KOlMYgDf1VtRafA4LzjJ6,Labyrint,Garalaowit,Officiella kampanjlåten,28,229560,False,0.548,0.805,9,-6.092,1,0.396,0.542,0.0,0.266,0.625,120.354,5,dancehall
+0HeGFS3GMuBufoeLr5C9Hz,Kaliffa,Kalibreraren,1990,27,294468,False,0.683,0.87,6,-5.666,0,0.109,0.0862,0.0,0.55,0.636,90.004,4,dancehall
+6VFSfGuz7UAIRjzxnbalFJ,Poplane,Work (Mo Bible),Work - Mo Bible,26,197955,False,0.648,0.784,5,-4.994,1,0.376,0.338,0.0,0.094,0.715,111.863,5,dancehall
+3QuH98etXysoPyuRqrAUms,Vybz Kartel,Pon Di Gaza 2.0,Mother in Law,25,152440,False,0.615,0.829,7,-6.577,1,0.419,0.0293,0.0,0.255,0.575,121.214,5,dancehall
+64GiAzZ9JmoBfDxmDTAkBW,Vybz Kartel,Riddim Driven: Beauty and The Beast,Kill Dem,25,161013,False,0.608,0.707,11,-9.369,0,0.266,0.204,0.0,0.362,0.472,112.119,3,dancehall
+2vazK0ONdtJkSS1NlG17iB,Elemental Raggamuffin;Manes del asis;Original Jahsman,Prende Tu Fuego,Prende Tu Fuego,26,218297,False,0.787,0.668,10,-5.211,0,0.269,0.144,0.0,0.108,0.654,93.932,4,dancehall
+0vnDFdVlcFnuv5FIUUHvaY,Elemental Raggamuffin,Mr Raggamuffin,Mr Raggamuffin,26,152375,False,0.869,0.794,8,-6.069,1,0.156,0.199,0.0,0.0772,0.643,89.996,4,dancehall
+0hBoSLU2bvScgEA8JAAiyQ,Papa San,Dancehall 101 Vol. 4,Strange,27,235533,False,0.852,0.63,11,-6.453,1,0.0518,0.0445,0.0,0.151,0.541,87.079,4,dancehall
+2Kamc2tkG8WXlEmFRkgZVQ,Kaliffa,Ingen annan,Ingen annan,27,180666,False,0.703,0.715,0,-6.689,1,0.0362,0.0488,3.56e-06,0.14,0.381,119.933,4,dancehall
+79btcnDnSHl3GUg2uoC4ZR,Ken Vybz,Confiné,Confiné,26,244000,True,0.596,0.75,8,-7.33,0,0.323,0.286,0.0,0.122,0.725,83.704,4,dancehall
+74NX2vnOilxX2PJ9k0msoJ,PAPA TANK,Krazé krazé,Waïné waïné,25,211093,False,0.779,0.809,6,-3.656,0,0.119,0.04,0.0,0.292,0.965,96.941,4,dancehall
+4xJ8TUScW55BhujkOWLLdN,Bushman,Higher Ground,Fire Pon A Deadas,27,211466,False,0.802,0.589,9,-5.129,1,0.069,0.123,0.0,0.0721,0.778,80.929,4,dancehall
+7MZmJSdPF9gy5nQsHjUMuB,Intence;Countree Hype,Yakuza - EP,London Drill,0,178688,False,0.814,0.749,5,-3.974,0,0.26,0.118,0.0,0.348,0.722,141.102,4,dancehall
+7n6FiTKMPLDZNjvmhVuxSu,Rygin King,Therapy,Maddest Life,25,165450,False,0.764,0.62,2,-6.778,1,0.341,0.511,0.0,0.109,0.36,100.147,4,dancehall
+1hZHoqfoput2nvxm51Qbfj,Lady Saw,My Way,Sweetest Ride,25,173120,False,0.691,0.573,8,-4.864,1,0.189,0.354,0.0,0.251,0.434,66.956,3,dancehall
+0PfO9J5WWNk0w4hX5pCL25,General Knas;Sizzla,Good For The World,Good For The World,26,216917,False,0.622,0.676,1,-6.035,1,0.329,0.0406,0.0,0.0736,0.771,84.701,4,dancehall
+0ACw7rdJl9O8XGKKijCAik,Vybz Kartel;Arif Cooper,Brand New Old School Riddim,Which Hairstyle (Model),24,182571,False,0.619,0.833,5,-6.196,0,0.286,0.129,0.0,0.065,0.642,132.021,5,dancehall
+1GWvuhNvEbsRqMTt7FgK0s,Tanya Stephens,Tanya...Collection Of Hits,These Streets,25,233586,False,0.563,0.603,7,-7.365,1,0.377,0.00428,0.0,0.19,0.546,78.836,4,dancehall
