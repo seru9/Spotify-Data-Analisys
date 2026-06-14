@@ -11,32 +11,25 @@ df = pd.read_parquet("data/clean_tracks.parquet")
 audio_features = ["danceability", "energy", "acousticness",
                   "valence", "instrumentalness", "speechiness"]
 
-# ==================================================================
 # WYKRES 3: Top 20 gatunków wg średniej valence ("najweselsze")
-# ==================================================================
 
-# groupby + reset_index + sort_values — wyk. 05
-# Analogia: wynik = tips.groupby('day')['total_bill'].mean()
-#           wynik = wynik.reset_index()
-#           wynik = wynik.sort_values(...)
 valence_by_genre = df.groupby("track_genre", observed=True)["valence"].mean()
 valence_by_genre = valence_by_genre.reset_index()
 valence_by_genre = valence_by_genre.sort_values("valence", ascending=False)
 top20_valence = valence_by_genre.iloc[:20, :]  # wyk. 04: iloc po pozycji
 
 fig, ax = plt.subplots(figsize=(10, 7))
-ax.barh(top20_valence["track_genre"], top20_valence["valence"], color="gold")
-ax.set_xlabel("Średnia valence (pozytywny wydźwięk)")
+ax.bar(top20_valence["track_genre"], top20_valence["valence"], color="gold")
+ax.set_ylabel("Średnia valence (pozytywny wydźwięk)")
 ax.set_title("Top 20 najweselszych gatunków muzycznych")
-ax.invert_yaxis()
+ax.set_ylim(0.55, 0.85)
+plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.savefig("presentation/wykres4_top20_valence.png", dpi=150)
 plt.close()
 print("Zapisano: wykres4_top20_valence.png")
 
-# ==================================================================
 # WYKRES 4: Udział explicit per gatunek (Top 20 pod względem wulgaryzmów)
-# ==================================================================
 
 # 1. Zliczamy kombinacje gatunek + explicit
 explicit_counts = df.groupby("track_genre", observed=True)["explicit"].value_counts().reset_index(name="count")
@@ -60,17 +53,16 @@ explicit_pivot = explicit_pivot.sort_values("pct_explicit", ascending=False).hea
 # Rysowanie wykresu
 fig, ax = plt.subplots(figsize=(10, 7))
 ax.barh(explicit_pivot.index, explicit_pivot["pct_explicit"], color="tomato")
-ax.set_xlabel("% utworów z treściami wulgarnymi")
+ax.set_xlabel("%utworów z treściami wulgarnymi")
 ax.set_title("Top 20 najbardziej wulgarnych (explicit) gatunków muzycznych")
 ax.invert_yaxis()
 plt.tight_layout()
 plt.savefig("presentation/wykres5_explicit_per_genre.png", dpi=150)
 plt.close()
 print("Zapisano: wykres5_explicit_per_genre.png z uwzględnieniem Hip-hopu!")
-# ==================================================================
+
 # WYKRES 5: Radar chart — profil audio wybranych gatunków
 # Ręczna konstrukcja kąt po kącie — np.linspace, wyk. 02/03
-# ==================================================================
 
 # Profil audio per gatunek (średnie)
 genre_profile = df.groupby("track_genre", observed=True)[audio_features].mean()
@@ -114,7 +106,7 @@ selected = ["pop", "metal", "jazz", "classical", "hip-hop"]
 available = genre_profile["track_genre"].tolist()
 selected = [g for g in selected if g in available]
 if not selected:
-    # Fallback: wybieramy pierwsze 5 dostępnych gatunków
+    # wybieramy pierwsze 5 dostępnych gatunków
     selected = available[:5]
 print(f"Gatunki do radar chartu: {selected}")
 

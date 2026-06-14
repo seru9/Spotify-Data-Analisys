@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-# glob.glob() — wyk. 07: automatyzacja przetwarzania plików w katalogu
+# glob.glob() — automatyzacja przetwarzania plików w katalogu
 # Szukamy wszystkich plików .csv w katalogu data/
 csv_files = glob.glob(os.path.join("data", "*.csv"))
 
@@ -17,7 +17,7 @@ for path in csv_files:
         print(f"  Pominięto: {file_name} (plik ignorowany)")
         continue  
         
-    df = pd.read_csv(path)   # wyk. 07: pd.read_csv w pętli po plikach
+    df = pd.read_csv(path)   # pd.read_csv w pętli po plikach
     dfs.append(df)
     print(f"  Wczytano: {file_name} — {len(df)} wierszy")
 
@@ -25,7 +25,7 @@ df_all = pd.concat(dfs, ignore_index=True)
 print(f"\nŁącznie wierszy po scaleniu: {len(df_all)}")
 print(f"Kolumny: {df_all.columns.tolist()}")
 
-# Sprawdzamy katalog wyjściowy przed zapisem — wyk. 07: os.path.exists + os.mkdir
+# Sprawdzamy katalog wyjściowy przed zapisem — os.path.exists + os.mkdir
 if not os.path.exists("data"):
     os.mkdir("data")
 

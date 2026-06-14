@@ -84,10 +84,8 @@ plot_top_genres_bar(df_aleksander, "Aleksander", top_n=10)
 plot_top_genres_bar(df_kacper, "Kacper", top_n=10)
 
 
-# ==================================================================
-# WYKRES 2: Radar chart — profil audio Aleksandra vs Kacpra
-# (Pozostaje bez zmian, bo był poprawny)
-# ==================================================================
+# WYKRES 2: Radar chart — ja vs Kaper
+
 audio_features = [
     "Danceability",
     "Energy",

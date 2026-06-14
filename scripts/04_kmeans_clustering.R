@@ -1,6 +1,5 @@
 # 04_kmeans_clustering.R
 # Analiza C: Grupowanie gatunków muzycznych metodą K-Średnich (K-Means)
-# Uruchomienie: Rscript scripts/04_kmeans_clustering.R
 
 library(dplyr)  # Używamy TYLKO dplyr do manipulacji danymi
 
@@ -22,9 +21,8 @@ cat(sprintf("Wymiar danych: %d wierszy, %d kolumn\n", nrow(df), ncol(df)))
 audio_features <- c("danceability", "energy", "acousticness",
                     "valence", "instrumentalness", "speechiness", "tempo")
 
-# ------------------------------------------------------------------
 # Profil per gatunek — dplyr: group_by + summarise + across
-# ------------------------------------------------------------------
+
 genre_profile <- df %>%
   group_by(track_genre) %>%
   summarise(across(all_of(audio_features), mean, na.rm = TRUE)) %>%
@@ -32,18 +30,14 @@ genre_profile <- df %>%
 
 cat(sprintf("Liczba gatunków: %d\n", nrow(genre_profile)))
 
-# ------------------------------------------------------------------
-# Standaryzacja (K-Means wrażliwy na skalę)
-# ------------------------------------------------------------------
+# K-Means wrażliwy na skalę, wiec standaryzujemy
 genre_scaled <- genre_profile %>%
   select(all_of(audio_features)) %>%
   scale()
 
 rownames(genre_scaled) <- genre_profile$track_genre
 
-# ------------------------------------------------------------------
-# Dobór optymalnego k (metoda łokcia)
-# ------------------------------------------------------------------
+# Dobór optymalnego k 
 cat("Obliczanie WSS dla k = 1..15...\n")
 
 wss <- sapply(1:15, function(k) {
@@ -54,13 +48,11 @@ png("../presentation/wykres8_elbow_method.png", width = 800, height = 600)
 # Bazowy plot liniowy
 plot(1:15, wss, type = "b", pch = 19, col = "steelblue",
      xlab = "Liczba grup (k)", ylab = "WSS (Within-cluster Sum of Squares)",
-     main = "Metoda łokcia — dobór optymalnej liczby grup")
+     main = "Dobór optymalnej liczby grup")
 dev.off()
 cat("Zapisano: wykres8_elbow_method.png\n")
 
-# ------------------------------------------------------------------
 # K-Means dla wybranego k
-# ------------------------------------------------------------------
 set.seed(42)
 k <- 5  # dobrano na podstawie metody łokcia
 km <- kmeans(genre_scaled, centers = k, nstart = 25)
